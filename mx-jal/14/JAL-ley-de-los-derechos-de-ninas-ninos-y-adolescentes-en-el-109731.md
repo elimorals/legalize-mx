@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-11-05"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -671,11 +671,11 @@ VIII. Las demás que establezca la legislación aplicable.
 
 ### CAPÍTULO XI. Del Derecho a la Educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 42.
 
-Niñas, niños y adolescentes, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a una educación que sea de acuerdo a las etapas de desarrollo y crecimiento en la que se encuentren, para que niñas, niños y adolescentes puedan a acceder a:
+Niñas, niños y adolescentes, en los términos del artículo 3o de la Constitución Política de los Estados Unidos Mexicanos, tienen derecho a una educación en condiciones óptimas, con el conjunto de instalaciones indispensables en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos, y que vaya encaminada a:
 
 I. Garantizar el respeto a su dignidad humana, basada en un enfoque de derechos humanos, de igualdad sustantiva y la no discriminación;
 
@@ -689,7 +689,9 @@ V. Transmitir el espíritu de solidaridad social;
 
 VI. Privilegiar los valores cívicos y éticos;
 
-VII. Respetar y proteger el medio ambiente;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. Respetar y proteger el medio ambiente, inculcar la adopción de estilos de vida sustentables, así como concientizar sobre las causas - efectos del cambio climático;
 
 VIII. Conocer, cuidar y respetar su sexualidad de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
@@ -703,7 +705,9 @@ XI. Otorgar una correcta orientación vocacional, las oportunidades de empleo y 
 
 XII. Fomentar la participación en las escuelas y en su comunidad;
 
-XIII. Promover la igualdad de género;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Promover la igualdad de género, evitar la reproducción de roles estereotipados de género y fomentar la igualdad sustantiva;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
@@ -2298,3 +2302,9 @@ QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacien
 SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
 
 SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28820/LXIII/22 QUE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
