@@ -4,7 +4,7 @@ identifier: "JAL-ley-agroalimentaria-del-estado-de-jalisco-140070"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-28"
-last_updated: "2021-10-30"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY AGROALIMENTARIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 2019.
 
@@ -67,7 +67,9 @@ II. Diseñar las políticas públicas en materia de sanidad, inocuidad y calidad
 
 III. Proteger al Estado de Jalisco de las amenazas fito y zoosanitarias que pongan en riesgo su patrimonio agroalimentario;
 
-IV. Coordinar las estrategias y acciones del Estado de Jalisco con la federación, los municipios, el sector productivo organizado y la sociedad en general, en el ejercicio de las materias que regula la propia Ley;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+IV. Coordinar las estrategias y acciones del Estado de Jalisco con la federación, los municipios, el sector productivo organizado, los micro, pequeños y medianos productores, el sector empresarial y la sociedad en general, en el ejercicio de las materias que regula la propia Ley;
 
 V. Fortalecer las capacidades del sector alimentario en el Estado para la prevención fitozoosanitaria, fomento de la calidad y cumplimiento de la inocuidad agroalimentaria, bienestar animal, trazabilidad, así como responsabilidad social y ambiental;
 
@@ -197,29 +199,71 @@ XLI. Órgano de coadyuvancia: persona física o jurídica aprobada o autorizada 
 
 XLII. Patrimonio agroalimentario del Estado de Jalisco: conjunto de bienes naturales y culturales, materiales e inmateriales, generados o aprovechados por el hombre, de origen agrícola, pecuario, pesquero y acuícola;
 
-XLIII. Programa Estratégico: el Programa Estratégico Estatal en materia de sanidad, inocuidad, calidad agroalimentaria, bienestar animal, trazabilidad, y responsabilidad social y ambiental;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XLIV. PVI: Punto de Verificación Interna;
+XLIII. Productor: Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios.
 
-XLV. Rastreabilidad: conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar, a través de investigaciones de campo y del análisis de registros, el origen de un problema fitozoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su control o erradicación;
+Es el elemento humano de las unidades de producción pecuaria, agrícola, pesquera y agroindustrial.
 
-XLVI. Sanidad animal: la que tiene por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales;
+Presentando las siguientes categorías de clasificación de acuerdo al número de personas que lo integran:
 
-XLVII. Sanidad vegetal: actos que competen a la Secretaría, orientados a la prevención, control y erradicación de plagas que afectan a los vegetales, sus productos o subproductos;
+Micro productor: (0 a 10 personas)
 
-XLVIII. Secretaría: la Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado de Jalisco;
+Pequeño productor (11 a 50 personas)
 
-XLIX. SENASICA: el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+Mediano productor (51 a 250 personas)
 
-L. SEMADET: la Secretaría de Medio Ambiente y Desarrollo Territorial del Gobierno del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLIII], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-LI. TIF: establecimiento Tipo Inspección Federal;
+XLIV. Programa Estratégico: el Programa Estratégico Estatal en materia de sanidad, inocuidad, calidad agroalimentaria, bienestar animal, trazabilidad, y responsabilidad social y ambiental;
 
-LII. Trazabilidad: serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con la producción, movilización, procesamiento, acopio, distribución y, en general, todos los eslabones de la cadena de suministro y hasta su consumo final, identificando en cada etapa su ubicación espacial y, en su caso, los factores de riesgo fitozoosanitarios y de contaminación que pueden estar presentes en cada una de las actividades;
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLIV], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-LIII. Unidad de verificación: las personas físicas o jurídicas, nacionales o extranjeras, que por su calidad y característica migratoria les permita realizar esta actividad y cuenten con el permiso previo otorgado por la autoridad competente, que hayan sido aprobadas para realizar actos de verificación por la Secretaría, en los términos de la Ley Federal sobre Metrología y Normalización; y
+XLV. PVI: Punto de Verificación Interna;
 
-LIV. Verificación: actividades realizadas por la autoridad competente para determinar el cumplimiento de los requisitos regulatorios.
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLV], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLVI. Rastreabilidad: conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar, a través de investigaciones de campo y del análisis de registros, el origen de un problema fitozoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su control o erradicación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLVI], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLVII. Sanidad animal: la que tiene por objeto preservar la salud, así como prevenir, controlar y erradicar las enfermedades o plagas de los animales;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLVII], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLVIII. Sanidad vegetal: actos que competen a la Secretaría, orientados a la prevención, control y erradicación de plagas que afectan a los vegetales, sus productos o subproductos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLVIII], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XLIX. Secretaría: la Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XLIX], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+L. SENASICA: el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN L], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LI. SEMADET: la Secretaría de Medio Ambiente y Desarrollo Territorial del Gobierno del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LI], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LII. TIF: establecimiento Tipo Inspección Federal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LII], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LIII. Trazabilidad: serie de actividades técnicas y administrativas sistematizadas que permiten registrar los procesos relacionados con la producción, movilización, procesamiento, acopio, distribución y, en general, todos los eslabones de la cadena de suministro y hasta su consumo final, identificando en cada etapa su ubicación espacial y, en su caso, los factores de riesgo fitozoosanitarios y de contaminación que pueden estar presentes en cada una de las actividades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LIV. Unidad de producción o unidad productiva: es la unidad de organización de la producción y comercialización de productos agrícolas y pecuarios;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LIII], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LV. Unidad de verificación: las personas físicas o jurídicas, nacionales o extranjeras, que por su calidad y característica migratoria les permita realizar esta actividad y cuenten con el permiso previo otorgado por la autoridad competente, que hayan sido aprobadas para realizar actos de verificación por la Secretaría, en los términos de la Ley Federal sobre Metrología y Normalización; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN LIV], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+LVI. Verificación: actividades realizadas por la autoridad competente para determinar el cumplimiento de los requisitos regulatorios.
 
 ### Capítulo II. De las Autoridades Competentes
 
@@ -1888,3 +1932,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. El Ejecutivo del Estado dentro de los noventa días siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones a los reglamentos, acuerdos y demás disposiciones de su competencia que sean necesarias para el cumplimiento del presente decreto.
 
 CUARTO. El Gobierno del Estado y los gobiernos municipales dentro del plazo de ciento veinte días posteriores a la entrada en vigor del presente decreto, deberán realizar las adecuaciones necesarias a sus programas sobre manejo de residuos con el objeto de monitorear y establecer acciones preventivas que reviertan la pérdida y desperdicio de alimentos procurando su aprovechamiento mediante la donación a favor de la población más necesitada.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO 28819/LXIII/22 QUE REFORMA EL ARTÍCULO 2 Y 4 DE LA LEY AGROALIMENTARIA DEL ESTADO DE JALISCO”.]</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado dentro de los treinta días siguientes a la entrada en vigor del presente decreto, deberá realizar las adecuaciones a los reglamentos, acuerdos y demás disposiciones de su competencia que sean necesarias para el cumplimiento del presente decreto.
