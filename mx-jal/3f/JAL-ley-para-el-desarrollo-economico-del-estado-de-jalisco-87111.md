@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2022-06-16"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -185,6 +185,8 @@ El Gobierno del Estado, a través de la Secretaría otorgará los apoyos y promo
 
 ###### Artículo 6.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 La presente ley tiene como objetivos específicos:
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
@@ -223,9 +225,9 @@ XIII. Fomentar la generación de empleos y su conservación, la construcción de
 
 XIV. Impulsar permanentemente la mejora regulatoria y la simplificación administrativa entre las dependencias gubernamentales federales, estatales y municipales y estimular la mejora de los procesos jurisdiccionales y sus índices de competitividad, así como promover la seguridad jurídica de los inversionistas en la entidad;
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XV. Apoyar la creación y desarrollo de centros de innovación, de emprendimiento y de investigación científica y tecnológica, que fortalezcan a los sectores productivos de la entidad y a las entidades gubernamentales, en la elaboración de mejores planes y políticas públicas en materia de desarrollo económico, cooperación y competitividad;
+XV. Apoyar la creación y desarrollo de centros de innovación, de creatividad, de diseño, de emprendimiento y de investigación científica y tecnológica, que fortalezcan a los sectores productivos de la entidad y a las entidades gubernamentales, en la elaboración de mejores planes y políticas públicas en materia de desarrollo económico y competitividad;
 
 XVI. Promover el aprovechamiento de los recursos y ventajas competitivas de la entidad;
 
@@ -241,17 +243,21 @@ XIX. Promover sistemas de apoyo financiero y crediticio acordes con las condicio
 
 XX. Proporcionar asesoría y gestión a las empresas que pretendan instalarse en la entidad, cuando así lo soliciten;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 XXI. Promover apoyos económicos y de capacitación en materia de artesanía, de manera directa o con la participación de las instancias gubernamentales competentes;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XXII. Promover la cultura de paz en el sector económico del estado de Jalisco; y
+XXII. Promover la cultura de paz en el sector económico del estado de Jalisco;
 
-(REFORMADA (N. DE E. ADICIONADA), P.O. 16 DE JUNIO DE 2022)
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena.
+XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género para lograr una inclusión económica plena; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sean nacionales o internacionales.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -271,9 +277,17 @@ V. Científica, tecnológica y de innovación;
 
 VI. Servicios;
 
-VII. Sectores precursores y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Los demás que para tal efecto determine la Secretaría o se establezca en el Reglamento.
+VII. Sectores precursores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Industrias creativas; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+IX. Los demás que para tal efecto determine la Secretaría o se establezca en el Reglamento.
 
 ###### Artículo 8.
 
@@ -305,7 +319,9 @@ VIII. Acrediten el consumo preferencial en sus insumos de productos hechos en la
 
 IX. Demuestren estar sujetas a un proceso de normalización, certificación o verificación de calidad, empresa limpia o socialmente responsable;
 
-X. Destinen al menos un veinte por ciento de su gasto de operación a programas de investigación y desarrollo científico y tecnológico;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+X. Destinen al menos un veinte por ciento de su gasto de operación a programas de investigación, desarrollo científico y tecnológico y promoción del capital intelectual y creativo;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2022)</small>
 
@@ -1448,3 +1464,9 @@ P.O. 16 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28787/LXIII/22 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 3, 4, 6, 8, 9, 12, 24, 26, 54, 62 Y 63 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LOS ARTÍCULOS 8, 9 Y 31 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28818/LXIII/22 QUE REFORMA LOS ARTÍCULOS 6, 7 Y 8 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
