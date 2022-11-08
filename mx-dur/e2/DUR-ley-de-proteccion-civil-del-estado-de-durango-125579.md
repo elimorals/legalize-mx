@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-125579"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2020-05-03"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -635,7 +635,9 @@ XI. Suscribir convenios de colaboración administrativa con las entidades federa
 
 XII. Asesorar a los municipios así como las diferentes dependencias estatales, federales en la aplicación de los instrumentos financieros de gestión de riesgos;
 
-XIII. Formalizar ante las autoridades correspondientes, la incorporación y ampliación de contenidos de protección civil con un enfoque de Gestión Integral de Riesgos en el Sistema Educativo Estatal en todos los niveles, desde educación preescolar, primaria y secundaria, hasta los niveles superiores;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Formalizar ante las autoridades correspondientes, la incorporación y ampliación de contenidos de protección civil con un enfoque de Gestión Integral de Riesgos, así como primeros auxilios en el Sistema Educativo Estatal, desde educación preescolar, primaria y secundaria, hasta los niveles superiores, procurando la realización de talleres de primeros auxilios.
 
 XIV. Fomentar en la población una cultura de protección civil que le brinde herramientas que en un momento dado le permitan salvaguardar su vida, sus posesiones y su entorno frente a los riesgos derivados de fenómenos naturales y humanos. Para esta tarea, debe considerarse el apoyo de las instituciones y organizaciones de la sociedad civil que cuenten con una certificación de competencia y que esté capacitada para esta actividad;
 
@@ -1628,5 +1630,13 @@ P.O. 3 DE MAYO DE 2020.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 305 QUE CONTIENE ADICIONES A LOS ARTÍCULOS 7 y 39 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 230.- QUE CONTIENE REFORMA A LA FRACCIÓN XIII DEL ARTÍCULO 47 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
