@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2022-08-25"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -61,39 +61,43 @@ I. Acuerdo Alternativo Inicial: Documento mediante el cual las partes se obligan
 
 II. Acreditación: Es el documento por medio del cual el Instituto autoriza a una persona jurídica para actuar como centro de justicia alternativa;
 
-III. Arbitraje: Es el procedimiento adversarial mediante el cual las partes someten a la decisión de uno o varios árbitros la solución de una controversia presente o futura;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-IV. Árbitro: Persona que conduce el procedimiento de arbitraje para la solución de un conflicto mediante la emisión de un laudo;
+III. Ajuste razonable: Las modificaciones y adaptaciones necesarias que se requieran para garantizar a las personas con discapacidad el trato en igualdad de condiciones para desahogar el procedimiento dentro del método alternativo;
 
-V. Auxiliar: Persona que intervendrá en el método alternativo a petición del prestador del servicio o de alguna de las partes para el esclarecimiento de alguna cuestión de naturaleza técnica o científica;
+IV. Arbitraje: Es el procedimiento adversarial mediante el cual las partes someten a la decisión de uno o varios árbitros la solución de una controversia presente o futura;
 
-VI. Centro: Institución pública o privada que preste servicios de métodos alternativos conforme a lo dispuesto en la presente Ley;
+V. Árbitro: Persona que conduce el procedimiento de arbitraje para la solución de un conflicto mediante la emisión de un laudo;
 
-VII. Certificación: Es la constancia otorgada por el Instituto que acredita a una persona como prestador del servicio;
+VI. Auxiliar: Persona que intervendrá en el método alternativo a petición del prestador del servicio o de alguna de las partes para el esclarecimiento de alguna cuestión de naturaleza técnica o científica;
 
-VIII. Conciliación: Método alternativo mediante el cual uno o varios conciliadores intervienen facilitando la comunicación entre los participantes en el conflicto, proponiendo recomendaciones o sugerencias que ayuden a lograr un convenio que ponga fin al conflicto total o parcialmente;
+VII. Centro: Institución pública o privada que preste servicios de métodos alternativos conforme a lo dispuesto en la presente Ley;
 
-IX. Conciliador: Persona que interviene en el procedimiento alterno para la solución de conflictos con el fin de orientar y ayudar a que las partes resuelvan sus controversias proponiéndoles soluciones a las mismas y asesorándolas en la implementación del convenio respectivo;
+VIII. Certificación: Es la constancia otorgada por el Instituto que acredita a una persona como prestador del servicio;
 
-X. Conflicto: Desavenencia entre dos o más personas que defienden intereses jurídicos contradictorios;
+IX. Conciliación: Método alternativo mediante el cual uno o varios conciliadores intervienen facilitando la comunicación entre los participantes en el conflicto, proponiendo recomendaciones o sugerencias que ayuden a lograr un convenio que ponga fin al conflicto total o parcialmente;
 
-XI. Convenio Final del Método Alternativo: Es el Convenio suscrito por las partes que previene o dirime en forma parcial o total un conflicto;
+X. Conciliador: Persona que interviene en el procedimiento alterno para la solución de conflictos con el fin de orientar y ayudar a que las partes resuelvan sus controversias proponiéndoles soluciones a las mismas y asesorándolas en la implementación del convenio respectivo;
 
-XII. Instituto: Instituto de Justicia Alternativa para el Estado de Jalisco;
+XI. Conflicto: Desavenencia entre dos o más personas que defienden intereses jurídicos contradictorios;
 
-XIII. Mediación: Método alternativo para la solución de conflictos no adversarial, mediante el cual uno o más mediadores, quienes no tienen facultad de proponer soluciones, intervienen únicamente facilitando la comunicación entre los mediados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente;
+XII. Convenio Final del Método Alternativo: Es el Convenio suscrito por las partes que previene o dirime en forma parcial o total un conflicto;
 
-XIV. Mediador: Persona imparcial frente a las partes y al conflicto que interviene en la mediación facilitando la comunicación entre los mediados a través de la aplicación de las técnicas adecuadas;
+XIII. Instituto: Instituto de Justicia Alternativa para el Estado de Jalisco;
 
-XV. Método Alternativo: El Trámite Convencional y Voluntario, que permite prevenir conflictos o en su caso, lograr la solución de los mismos, sin necesidad de Intervención de los órganos jurisdiccionales, salvo para su cumplimiento forzoso;
+XIV. Mediación: Método alternativo para la solución de conflictos no adversarial, mediante el cual uno o más mediadores, quienes no tienen facultad de proponer soluciones, intervienen únicamente facilitando la comunicación entre los mediados en conflicto, con el propósito de que ellos acuerden voluntariamente una solución que ponga fin al mismo total o parcialmente;
 
-XVI. Negociación: El ejercicio metódico de comunicación desarrollado por las partes, por si o a través de un legítimo representante, para obtener de la otra su consentimiento para el arreglo del conflicto;
+XV. Mediador: Persona imparcial frente a las partes y al conflicto que interviene en la mediación facilitando la comunicación entre los mediados a través de la aplicación de las técnicas adecuadas;
+
+XVI. Método Alternativo: El Trámite Convencional y Voluntario, que permite prevenir conflictos o en su caso, lograr la solución de los mismos, sin necesidad de Intervención de los órganos jurisdiccionales, salvo para su cumplimiento forzoso;
+
+XVII. Negociación: El ejercicio metódico de comunicación desarrollado por las partes, por si o a través de un legítimo representante, para obtener de la otra su consentimiento para el arreglo del conflicto;
 
 > <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2018)</small>
 
-XVII. Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto; y
+XVIII. Parte o participante: Personas que participan en los métodos alternos, en su calidad de solicitante e invitado, o sus apoderados, con el objeto de intentar resolver un conflicto; y
 
-XVIII. Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley.
+XIX. Prestador del servicio: Se considera al mediador, conciliador o árbitro que interviene en el procedimiento de los medios alternos de justicia previstos en esta ley.
 
 ###### Artículo 4.
 
@@ -177,7 +181,11 @@ V. Asistir a las sesiones acompañados de su asesor jurídico;
 
 VI. Obtener copia simple y certificada del convenio al que hubiesen llegado; y
 
-VII. Conocer previamente los honorarios del prestador del servicio privado.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. Realizar los ajustes razonables dentro del desahogo del procedimiento, si una de las partes cuenta con alguna discapacidad; y
+
+VIII. Conocer previamente los honorarios del prestador del servicio privado.
 
 ###### Artículo 7.
 
@@ -248,6 +256,10 @@ El compromiso para someterse a un método alterno puede comprender la atención 
 ###### Artículo 11.
 
 Los participantes deberán comparecer al procedimiento del método alternativo personalmente o a través de legítimo representante con facultades para contraer obligaciones a nombre del interesado.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+En caso de personas con discapacidad se deberán realizar los ajustes razonables para garantizar el entendimiento de cada una de las actuaciones en las que sea parte y que se realicen durante el desahogo del método alterno.
 
 En caso de niñas, niños o adolescentes deberá comparecer quien ejerza la representación originaria, tutela, o representación en suplencia, según lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y la legislación civil. En el caso de incapaces mayores de edad, deberá comparecer quien ejerza la tutela.
 
@@ -1432,3 +1444,11 @@ P.O. 25 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28806/LXIII/22 QUE REFORMA EL ARTÍCULO 5° DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO, CON EL OBJETO DE ESTABLECER QUE, EN LOS CASOS DE VIOLENCIA FAMILIAR O EN RAZÓN DE GÉNERO, NO SERÁN APLICABLES LA MEDIACIÓN NI LA CONCILIACIÓN".]
 
 ÚNICO. El presente decreto entrará en vigor a partir del siguiente día de su publicación en el periódico oficial “El Estado de Jalisco”
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28821/LXIII/22 QUE ADICIONA LA FRACCIÓN III RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 3, SE ADICIONA LA FRACCIÓN VII, RECORRIÉNDOSE LAS SUBSECUENTES EN SU ORDEN DEL ARTÍCULO 6; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 11, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, TODOS DE LA LEY DE JUSTICIA ALTERNATIVA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Instituto de Justicia Alternativa, contará con un plazo de 180 días para realizar las adecuaciones necesarias en sus instalaciones de conformidad con su suficiencia presupuestal.
