@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2022-10-23"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -4253,9 +4253,11 @@ Se considera violencia familiar la alienación parental de quienes tengan la pat
 
 Este delito se perseguirá de oficio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 301.
 
-En cualquier momento, el Ministerio Público podrá solicitar a la autoridad judicial, la aplicación de medidas de protección para la víctima y esta última resolverá sin dilación.
+En el momento en que se tenga conocimiento del hecho de violencia presuntamente constitutivo del delito, el Ministerio Público o los Órganos Jurisdiccionales, según sea su competencia, deberán aplicar las órdenes de protección previstas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, así como la Ley de las Mujeres para una Vida sin Violencia del Estado de Durango, y deberán aplicar y resolver las ordenes sin dilación.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
 
@@ -4267,7 +4269,7 @@ Así mismo se deberá obligar al agresor a tratamientos especializados psicológ
 
 ### CAPÍTULO II. DISCRIMINACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 302.
 
@@ -4343,39 +4345,45 @@ No se considerará como intimidación, hostigamiento o amenazas el informar aque
 
 ###### Artículo 306.
 
-Comete el delito de discriminación quien, por razones de edad, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, profesión u oficio, posición social o económica, discapacidad, condición física, estado de salud o cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
+Comete delito de discriminación quien, por razones de edad, género, embarazo, estado civil, raza, color de piel, idioma, religión, ideología, orientación sexual, opiniones políticas, profesión u oficio, posición o condición social o económica o sociocultural, nivel académico o educativo, situación migratoria, discapacidad, condición física, estado de salud o cualquier otra índole, atente contra la dignidad humana o anule o menoscabe los derechos y libertades de las personas mediante la realización de las siguientes conductas:
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
 
 I. VEJACIONES CON EFECTOS MORALES O MATERIALES. Veje o excluya a alguna de dichas personas o a un grupo de ellas, cuando esa conducta tenga por resultado un daño material o moral;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho.
+II. DISCRIMINACIÓN EN LA PRESTACIÓN DE SERVICIOS. En ejercicio de sus actividades profesionales o de su oficio, mercantiles o empresariales, niegue a alguna de esas personas, un servicio o una prestación a la que tengan derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones de una persona o grupo de personas;
 
-Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones de una persona o grupo de personas;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2020)</small>
-
-III. PROVOCACIONES INNOBLES. Provoque o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas;
+III. PROVOCACIONES INNOBLES. Provoque, fomente o incite a la discriminación, al odio o a la violencia en perjuicio de una persona o un grupo de personas;
 
 Cuando la discriminación sea en contra de cualquier personal de salud del sector público o privado, la pena aumentará hasta en una mitad de la correspondiente para este delito.
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-IV. LIMITACIONES LABORALES. Les niegue o restrinja sus derechos laborales adquiridos, principalmente por razones de género o embarazo, o limite un servicio de salud principalmente a la mujer en relación con el embarazo; o,
+IV. LIMITACIONES LABORALES. Les niegue, retarde o restrinja sus derechos laborales adquiridos, principalmente por razones de género o embarazo, o limite un servicio de salud principalmente a la mujer en relación con el embarazo;
 
-> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-V. DERECHOS EDUCATIVOS. Les niegue o restrinja sus derechos educativos.
+V. DERECHOS EDUCATIVOS O DE CAPACITACIÓN. Les niegue, retarde o restrinja sus derechos educativos o de capacitación;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VI. Difunda ideas basadas en la superioridad o el odio racial; o
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. Incite a la discriminación racial o a realizar actos de violencia contra cualquier raza, grupo de personas de otro color u origen étnico.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
 Para este delito se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-Al que siendo servidor público, incurra en alguna de las conductas previstas en este artículo, o niegue o retarde a una de las personas en él mencionado trámite, servicio o prestación o que tenga derecho, se le aumentará en una mitad la pena prevista en el párrafo anterior de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
+Al que, siendo servidor público, incurra en alguna de las conductas previstas en este artículo, o niegue o retarde a una de las personas en él mencionado trámite, servicio o prestación o que tenga derecho, se le aumentará en una mitad la pena prevista en el párrafo anterior de este artículo, y se le impondrá la destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el mismo tiempo de la pena de prisión impuesta.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -4389,7 +4397,11 @@ Cuando las conductas a que se refiere este artículo sean cometidas por persona 
 
 Asimismo, se incrementará en una mitad la pena cuando los actos previstos en este artículo limiten el acceso a las garantías jurídicas indispensables para la protección de todos los derechos humanos.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+Se incrementará en una mitad la pena, cuando se ejecuten actos de violencia en contra de una persona o un grupo de personas con motivo de su raza, color de piel u origen étnico.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
 La autoridad judicial competente estará obligada en su resolución a señalar a favor de la víctima lo relativo a las medidas afirmativas correspondientes que garanticen que los actos, omisiones o prácticas sociales discriminatorias no se repitan en su perjuicio.
 
@@ -6904,3 +6916,17 @@ P.O. 23 DE OCTUBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 225.- POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 306 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
