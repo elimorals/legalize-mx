@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-140469"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-23"
-last_updated: "2022-09-09"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de enero de 2020.
 
@@ -139,7 +139,9 @@ XVI. Desarrollar programas, en coordinación con las dependencias competentes, q
 
 XVII. Desarrollar los sistemas informáticos, que permitan acopiar, sistematizar, evaluar y difundir los indicadores que en materia de género le proporcionen las diversas dependencias, entidades, instituciones e instancias gubernamentales del Estado y municipios, que sirvan de base para desarrollar, modificar y reorientar las políticas públicas del Estado, con perspectiva de género, y
 
-XVIII. Diseñar, promover y difundir acciones enfocadas a erradicar todos los tipos de violencia contra las mujeres en el Estado.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Diseñar, promover y difundir acciones enfocadas a erradicar todos los tipos de violencia contra las mujeres en el Estado, implementado (sic), en coordinación con las autoridades estatales y municipales, así como los particulares, protocolos de prevención, atención y respuesta.
 
 ###### ARTÍCULO 7°.
 
@@ -658,5 +660,13 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0382.- SE REFORMA EL ARTÍCULO 17 EN SU PÁRRAFO PRIMERO Y ADICIONA AL MISMO ARTÍCULO 17 EN SU FRACCIÓN II, LOS INCISOS K) Y L), DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0417.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN XVIII, DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO; SE ADICIONA AL ARTÍCULO 62, EL PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
