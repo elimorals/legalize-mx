@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2022-05-10"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1615,7 +1615,9 @@ En materia de acceso a la justicia, corresponde al Poder Ejecutivo del Estado, a
 
 I. Promover la formación y especialización de agentes de la Policía Estatal, agentes del Ministerio Público, Peritos y de todo el personal encargado de la procuración de justicia, en materia de derechos humanos;
 
-II. Proporcionar a las víctimas, orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Procuraduría General de Justicia del Estado, su Reglamento y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+II. Proporcionar a las víctimas, orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, su Reglamento y demás ordenamientos aplicables;
 
 III. Dictar las medidas necesarias para que la Víctima reciba atención médica de emergencia;
 
@@ -2131,9 +2133,11 @@ La Fiscalía General del Estado y la Secretaría de Seguridad Pública, deberán
 
 Los servicios periciales deberán capacitar a sus funcionarios y empleados con el objeto de que la víctima reciba atención especializada de acuerdo al tipo de victimización sufrido, y tenga expeditos los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 166.
 
-Los institutos y academias que sean responsables de la capacitación, formación, actualización y especialización de los servidores públicos ministeriales, policiales y periciales, estatales y municipales, deberán coordinarse entre sí con el objeto de cumplir cabalmente los Programas Rectores de Profesionalización señalados en la Ley del Sistema de Seguridad Pública del Estado, la Ley Orgánica de la Procuraduría General del Estado, y los lineamientos mínimos impuestos por el presente capítulo de esta Ley.
+Los institutos y academias que sean responsables de la capacitación, formación, actualización y especialización de los servidores públicos ministeriales, policiales y periciales, estatales y municipales, deberán coordinarse entre sí con el objeto de cumplir cabalmente los Programas Rectores de Profesionalización señalados en la Ley del Sistema de Seguridad Pública del Estado, la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí, y los lineamientos mínimos impuestos en el Título Noveno de esta Ley.
 
 Asimismo, deberán proponer convenios de colaboración con universidades y otras instituciones educativas, públicas o privadas, estatales nacionales o extranjeras, con el objeto de brindar formación académica integral y de excelencia a los servidores públicos de sus respectivas dependencias.
 
@@ -2418,3 +2422,11 @@ P.O. 10 DE MAYO DE 2022.
 PRIMERO. Este Decreto será vigente el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0419.- SE REFORMAN LOS ARTÍCULOS 121 EN SU FRACCIÓN II Y 166 EN SU PÁRRAFO PRIMERO, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 3° EN SU FRACCIÓN XIV, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
