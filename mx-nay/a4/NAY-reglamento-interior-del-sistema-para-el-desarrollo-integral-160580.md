@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-sistema-para-el-desarrollo-integral-160
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2022-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE NOVIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE NOVIEMBRE DE 2022.]</small>
 
 Reglamento publicado en la Sección Décima Segunda del Número 63 en el Periódico Oficial del Estado de Nayarit, el viernes 30 de septiembre de 2022.
 
@@ -369,7 +369,9 @@ IX. Celebrar los contratos que regulen las relaciones laborales colectivas e ind
 
 X. Otorgar y revocar poderes generales para pleitos y cobranzas, actos de administración, e inclusive aquellos que requieran cláusula especial conforme a las leyes aplicables;
 
-XI. Difundir al interior de SIDIFEN a través de la Unidad de Planeación, Estadística y Evaluación, la normativa administrativa y guías que en materia de planeación, programación y presupuestación deba ser del conocimiento de las unidades administrativas y servidores públicos subalternos para la realización de sus labores;
+> <small>(F. DE E., P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XI. Difundir al interior de SIDIFEN a través de la Coordinación de Planeación, Estadística y Evaluación, la normativa administrativa y guías que en materia de planeación, programación y presupuestación deba ser del conocimiento de las unidades administrativas y servidores públicos subalternos para la realización de sus labores;
 
 XII. Cumplir y hacer cumplir la normatividad jurídica y administrativa aplicable que le competa al SIDIFEN;
 
@@ -1151,9 +1153,11 @@ XV. Rendir los informes y reportes que la normativa y la superioridad le instruy
 
 XVI. Las demás que de manera expresa le confiera el superior jerárquico y las disposiciones legales aplicables.
 
+> <small>(F. DE E., P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-Atribuciones de la Unidad de Planeación, Estadística y Evaluación. Al frente de la Unidad de Planeación, Estadística y Evaluación habrá una persona Titular que tendrá las siguientes atribuciones:
+Atribuciones de la Coordinación de Planeación, Estadística y Evaluación. Al frente de la Coordinación de Planeación, Estadística y Evaluación habrá una persona Titular que tendrá las siguientes atribuciones:
 
 I. Establecer la estructura programática-presupuestal y administrar los sistemas y controles para su seguimiento, control y evaluación; así como elaborar y difundir las guías, manuales, lineamientos, procedimientos, entre otros para la elaboración de programas y presupuestos;
 
