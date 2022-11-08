@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2022-03-31"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -175,19 +175,23 @@ XXV. Turismo de Cinematografía. Toda actividad relacionada al Estado de Durango
 
 XXVI. Dentro de esta vertiente se impulsa la llegada de viajeros a Durango para la realización de producciones audiovisuales que incluyen spots comerciales, series, telenovelas, documentales, video clips y por supuesto, películas;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XXVII. Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades, regiones o espacios públicos o privados del Estado, con el fin de que el visitante o turista experimente los productos culinarios y alimenticios del lugar y/o realizar actividades relacionadas con este rubro;
+XXVII. Turismo Deportivo: Es aquél cuya principal motivación es participar directamente o como espectador en alguna actividad deportiva; aprovechando de manera sustentable los recursos naturales, o bien la infraestructura turística y deportiva del Estado de Durango.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-XXVIII. Turismo Sustentable: Aquel que cumple con las siguientes directrices: a. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia; b. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y c. Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+XXVIII. Turismo Gastronómico: Es la actividad turística que comprende la visita a comunidades, regiones o espacios públicos o privados del estado, con el fin de que el visitante o turista experimente los productos culinarios y alimenticios del lugar y/o realizar actividades relacionadas con este rubro;
 
-XXIX. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2022)</small>
+XXIX. Turismo Sustentable: Aquel que cumple con las siguientes directrices: a. Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia; b. Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y c. Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida
 
-XXX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría
+XXX. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilicen alguno de los servicios turísticos a que se refiere esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población, y
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XXXI. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal, claramente ubicado y delimitado geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Se establecerán mediante declaratoria específicas (sic) que emitirá el Ejecutivo Estatal, a solicitud de la Secretaría.
 
 ### CAPÍTULO II. DE LA CONCURRENCIA Y COORDINACIÓN DE AUTORIDADES EN MATERIA TURÍSTICA
 
@@ -482,6 +486,12 @@ La Secretaría y los ayuntamientos tendrán la obligación de promover la educac
 ###### Artículo 19.
 
 Las dependencias y las entidades de la Administración Pública Estatal, coordinarán y promoverán sus esfuerzos entre ellas y con las de los gobiernos municipales, e impulsarán acciones con los sectores social y privado para el fomento del turismo alternativo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 19 BIS. La Secretaría, promoverá la celebración de convenios ante el Instituto de Cultura Física y Deporte del Estado de Durango, la federación, los municipios, así como con los sectores social y privado, para la (sic) impulsar el turismo deportivo en el Estado, procurando su competitividad y sustentabilidad.
+
+En lo relativo a las actividades deportivas, se estará a lo dispuesto por la Ley en la materia.
 
 ### CAPÍTULO X. DEL TURISMO DE CONVENCIONES
 
@@ -1178,3 +1188,11 @@ P.O. 31 DE MARZO DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 231.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
