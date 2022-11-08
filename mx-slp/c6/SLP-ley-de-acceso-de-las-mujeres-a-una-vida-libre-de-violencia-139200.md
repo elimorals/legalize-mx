@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2022-10-14"
+last_updated: "2022-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -78,6 +78,10 @@ c) Que contravenga o no cumpla con los estándares establecidos en el derecho in
 d) Que el resultado discrimine o profundice la desigualdad entre mujeres y hombres;
 
 III. Alerta de violencia de género: es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+III BIS. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a consecuencia de la acción u omisión de otra o por interpósita persona, y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica;
 
 IV. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer; la Convención sobre los Derechos de la Niñez; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, y demás instrumentos internacionales en la materia;
 
@@ -227,6 +231,10 @@ a) Acoso sexual: es una forma de violencia en la que existe una subordinación d
 
 b) Hostigamiento sexual: es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva, y
 
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+XVI BIS. Violencia vicaria: las acciones de violencia ejercida sobre las hijas e hijos de la mujer, con el objetivo de causarle daño, realizadas por una persona agresora que tenga o haya tenido una relación de matrimonio, concubinato, o se mantenga o hayan mantenido una relación de hecho, pudiendo consistir la violencia en cualquiera de las modalidades que reconoce esta ley, incluyendo la sustracción ilegal de los hijos e hijas del hogar de la madre, y cualquiera otra dirigida a dañar a la mujer a través del daño a sus hijos e hijas, y
+
 XVII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### ARTÍCULO 5º.
@@ -317,6 +325,10 @@ El Poder Judicial del Estado facilitará, a través de sus áreas competentes, a
 
 Asimismo, establecerá un programa de capacitación permanente al personal que lleva a cabo labores jurisdiccionales, sobre el derecho con perspectiva de género en la administración e impartición de justicia, promoviendo la certificación de competencias de dicho personal.
 
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+Dentro del programa de capacitación permanente se deberá de capacitar sobre todos los tipos y modalidades de violencia con el objetivo de fortalecer la impartición de justicia con perspectiva de género.
+
 ###### ARTÍCULO 12.
 
 Para el diseño, elaboración y ejecución de las políticas públicas en la materia que regula la presente Ley, el Estado y los municipios deberán considerar los principios de igualdad jurídica entre la mujer y el hombre, el respeto a la dignidad humana de las mujeres, la no discriminación, y la libertad de las mujeres.
@@ -344,6 +356,10 @@ IV. Evitar aplicar procedimientos de mediación por ser inviables en una relaci�
 V. Favorecer la separación y alejamiento del agresor con respecto a la víctima, y
 
 VI. Procurar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. En los casos de violencia vicaria proporcionar atención y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan la reunificación familiar entre las hijas e hijos con la madre con el objetivo de reparar el daño causado derivado de dicha modalidad de violencia.
 
 ## TÍTULO TERCERO. SISTEMA ESTATAL PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -1333,7 +1349,13 @@ V. Informar a la autoridad competente de los casos de violencia que ocurran en l
 
 VI. De manera específica brindar la atención, asesoría, acompañamiento, protección y reparación que establece la Ley de Víctimas del Estado;
 
-VII. Realizar las acciones tendientes a garantizar a las víctimas el derecho a la justicia.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VII. Realizar las acciones tendentes a garantizar a las víctimas el derecho a la justicia, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Tratándose de violencia vicaria se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes; Secretaría General de Gobierno, a través del Sistema Estatal de Protección Integral de Niñas, y Niños y Adolescentes; Instituto de las Mujeres, Centro de Justicia para Mujeres, y en su caso del Poder Judicial; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas e hijos.
 
 Los servidores públicos adscritos a las instituciones municipales, o estatales obligadas, que nieguen u omitan sin justa causa, la realización de las acciones de atención a las víctimas, serán sancionados de acuerdo a la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, sin menoscabo de lo aplicable por esta Ley.
 
@@ -1421,9 +1443,15 @@ II. Asistencia Especializada:
 
 a) Atención a la salud: general y especializada.
 
-b) Apoyo psicológico de adulto y de menores.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+b) Apoyo psicológico de personas adultas y menores de edad.
 
 c) Servicios legales: información, asesoría, asistencia y seguimiento de casos.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+c.) Bis. Apoyo para la reunificación familiar entre la madre y sus hijos e hijas que estén siendo víctimas de violencia vicaria.
 
 d) Educación:
 
@@ -1476,6 +1504,10 @@ DE LAS RESPONSABILIDADES Y SANCIONES.
 ###### ARTÍCULO 59.
 
 Los agresores podrán acudir de forma voluntaria a un centro de rehabilitación estatal, para obtener la asistencia adecuada que les permita convivir de forma armónica y libre de violencia con su familia y con la sociedad. Estarán obligados a asistir a dichos centros cuando esta situación sea ordenada por determinación jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
+
+Tratándose de resoluciones judiciales que involucren violencia vicaria es fundamental que el agresor reciba rehabilitación psicológica con perspectiva de género y de infancia.
 
 ### CAPÍTULO ÚNICO
 
@@ -1592,3 +1624,11 @@ TERCERO. El Ejecutivo del Estado; y el Poder Judicial del Estado, deberán elabo
 CUARTO. Las acciones contenidas en el presente Decreto y que concurren con las medidas establecidas en la Ley de Atención a Víctimas para el Estado de San Luis Potosí, se implementarán conforme a lo establecido en ese Ordenamiento.
 
 QUINTO. Las obligaciones que se generen con motivo de la entrada en vigor de este Decreto, se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+P.O. 8 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0420.- SE REFORMAN LOS ARTÍCULOS 13, 46 Y 52; Y ADICIONA A LOS ARTÍCULOS 3°, 4°, 11, 13, 46, 52 Y 59, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
