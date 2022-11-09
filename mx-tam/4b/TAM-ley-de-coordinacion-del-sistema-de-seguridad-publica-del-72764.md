@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2022-07-19"
+last_updated: "2022-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 19 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -349,9 +347,9 @@ XIII. Los titulares de las policías preventivas y de tránsito de los municipio
 
 XIV. Los jueces calificadores o similares que las disposiciones jurídicas establezcan como instancias de justicia administrativa municipal;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-XV. El Subsecretario de Operación Policial;
+XV. El Subsecretario de Operación de la Guardia Estatal;
 
 XVI. El Secretario Ejecutivo; y
 
@@ -371,7 +369,9 @@ Así mismo, serán responsables en los términos de lo dispuesto por el Título 
 
 Las instituciones policiales serán las siguientes:
 
-I. Las policías estatales que cumplan funciones de prevención o reacción;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+I. La Guardia Estatal que cumpla funciones de prevención o reacción;
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
@@ -2480,3 +2480,59 @@ Los procedimientos de responsabilidad administrativa, de separación y remoción
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera que pasen a formar parte de la Fiscalía General de Justicia del Estado, serán atendidos por éstos hasta su conclusión.
 
 Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública o la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NO. 65-423 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes adscritas a la Policía Estatal que pasen a formar parte de la Guardia Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes, previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, les serán aplicables a las personas que formen parte de la Guardia Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Las personas integrantes de la Policía Estatal que se transfieran a la Guardia Estatal, conservarán su haber, prestaciones o percepciones de cualquier tipo, así como el reconocimiento de su antigüedad en el servicio y en el grado, para los efectos de otorgamiento de grados en la escala jerárquica de acuerdo a lo dispuesto en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Todas las menciones a la Subsecretaría de Operación Policial, en la normatividad, se entenderán referidas a la Subsecretaría de Operación de la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SEXTO.
+
+Todas las menciones a la Policía Estatal, en la normatividad, se entenderán referidas a la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor a noventa días naturales, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Guardia Estatal, por lo que deberán adecuarse los reglamentos, estructura orgánica y demás normatividad aplicable, a efecto de que se adopten las funciones ejercidas por la Policía Estatal.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones que realiza la Dirección de Asuntos Internos y los procedimientos administrativos sustanciados ante el Consejo de Desarrollo Policial, se integrarán y continuarán conforme a las disposiciones vigentes en que se dieron los hechos.
+
+###### ARTÍCULO NOVENO.
+
+Durante la transición, las personas integrantes de la Policía Estatal continuarán sujetos al régimen disciplinario de la Ley de Seguridad Pública para el Estado de Tamaulipas, del Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y del Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tamaulipas y tendrán las mismas obligaciones y prohibiciones que las dispuestas para la Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los actos jurídicos celebrados por la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán vigentes y obligarán en sus términos a la Guardia Estatal y a las demás partes, sin perjuicio de su revisión por parte del área administrativa correspondiente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública vinculado a la Policía Estatal, se entenderá subrogado en favor de Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán subsumidas a la Guardia Estatal, hasta en tanto se efectúen las modificaciones reglamentarias y administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
