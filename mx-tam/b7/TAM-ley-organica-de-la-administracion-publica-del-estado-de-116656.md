@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2021-10-19"
+last_updated: "2022-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -1141,7 +1141,9 @@ VIII. Promover y facilitar la participación social para el desarrollo de activi
 
 IX. Atender las denuncias y quejas ciudadanas relacionadas con el ejercicio de sus atribuciones, dando parte de ello a la Contraloría Gubernamental;
 
-X. Organizar, dirigir, administrar y supervisar la policía estatal preventiva, así como aplicar el régimen disciplinario de dicha corporación;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+X. Organizar, dirigir, administrar y supervisar la guardia estatal, así como aplicar el régimen disciplinario de dicha corporación;
 
 XI. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de los cuerpos de seguridad pública y de los servidores públicos ministeriales;
 
@@ -1157,7 +1159,9 @@ XV. Efectuar, en coordinación con la Fiscalía General de Justicia, estudios so
 
 XVI. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes; y coordinar la Universidad de Seguridad y Justicia de Tamaulipas;
 
-XVII. Organizar, dirigir y administrar el servicio civil de carrera de la policía estatal preventiva;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Organizar, dirigir y administrar el servicio civil de carrera de la guardia estatal;
 
 XVIII. Previo cumplimiento de los requisitos previstos por los ordenamientos jurídicos aplicables, otorgar autorización a empresas que presten servicios privados de seguridad, cuando los mismos se realicen exclusivamente en el territorio del Estado, así como supervisar su funcionamiento;
 
@@ -1920,3 +1924,59 @@ El Titular de la Comisión Estatal de Búsqueda de Personas designado mediante D
 ###### ARTÍCULO NOVENO.
 
 Las personas integrantes del Consejo Estatal Ciudadano de la Comisión Estatal de Búsqueda de Personas designadas mediante Decreto LXIII-797, publicado en el Periódico Oficial del Estado Número 55 de fecha 7 de mayo de 2019, continuarán en su cargo hasta concluir el periodo para el cual fueron designados.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-423 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes adscritas a la Policía Estatal que pasen a formar parte de la Guardia Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes, previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, les serán aplicables a las personas que formen parte de la Guardia Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Las personas integrantes de la Policía Estatal que se transfieran a la Guardia Estatal, conservarán su haber, prestaciones o percepciones de cualquier tipo, así como el reconocimiento de su antigüedad en el servicio y en el grado, para los efectos de otorgamiento de grados en la escala jerárquica de acuerdo a lo dispuesto en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Todas las menciones a la Subsecretaría de Operación Policial, en la normatividad, se entenderán referidas a la Subsecretaría de Operación de la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SEXTO.
+
+Todas las menciones a la Policía Estatal, en la normatividad, se entenderán referidas a la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor a noventa días naturales, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Guardia Estatal, por lo que deberán adecuarse los reglamentos, estructura orgánica y demás normatividad aplicable, a efecto de que se adopten las funciones ejercidas por la Policía Estatal.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones que realiza la Dirección de Asuntos Internos y los procedimientos administrativos sustanciados ante el Consejo de Desarrollo Policial, se integrarán y continuarán conforme a las disposiciones vigentes en que se dieron los hechos.
+
+###### ARTÍCULO NOVENO.
+
+Durante la transición, las personas integrantes de la Policía Estatal continuarán sujetos al régimen disciplinario de la Ley de Seguridad Pública para el Estado de Tamaulipas, del Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y del Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tamaulipas y tendrán las mismas obligaciones y prohibiciones que las dispuestas para la Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los actos jurídicos celebrados por la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán vigentes y obligarán en sus términos a la Guardia Estatal y a las demás partes, sin perjuicio de su revisión por parte del área administrativa correspondiente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública vinculado a la Policía Estatal, se entenderá subrogado en favor de Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán subsumidas a la Guardia Estatal, hasta en tanto se efectúen las modificaciones reglamentarias y administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
