@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2020-del-143711"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-07-31"
-last_updated: "2022-04-08"
+last_updated: "2022-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143711&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2020-07-29"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)]
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL D.O.F. DE 9 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO A EXCEPCIÓN DE LOS NUMERALES DÉCIMO NOVENO Y VIGÉSIMO.]
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2020 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE JULIO DE DOS MIL VEINTE, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS DE SEGURIDAD SANITARIA EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN DURANTE LA EMERGENCIA GENERADA POR EL VIRUS SARS-COV2 (COVID 19)
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE NOVIEMBRE DE 2022 (DEROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 31 de julio de 2020.
 
@@ -350,3 +352,17 @@ SEGUNDO. El Oficial Mayor realizará las modificaciones a la Guía Operativa que
 TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración Número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19), a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
 
 CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VI/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN MEDIDAS PARA PROMOVER LA EFICIENCIA ADMINISTRATIVA EN LA OPERACIÓN DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el siete de noviembre de dos mil veintidós.
+
+SEGUNDO. Se derogan todas las disposiciones del Acuerdo General de Administración II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia sanitaria generada por el virus SARS-CoV2 (COVID 19), a excepción de los numerales Décimo Noveno y Vigésimo, así como todas las disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Se abrogan el “Acuerdo General de Administración número VII/2021, del Presidente de la Suprema Corte de Justicia de la Nación, de treinta de julio de dos mil veintiuno, que reforma diversas disposiciones del Acuerdo General de Administración número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19)”; el “Acuerdo General de Administración número XII/2021, del Presidente de la Suprema Corte de Justicia de la Nación, de cinco de noviembre de dos mil veintiuno, que reforma y deroga diversas disposiciones del Acuerdo General de Administración II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19)”, y el “Acuerdo General de Administración número II/2022, del Presidente de la Suprema Corte de Justicia de la Nación, de cinco de abril de dos mil veintidós, que reforma y deroga diversas disposiciones del Acuerdo General de Administración número II/2020 del Presidente de la Suprema Corte de Justicia de la Nación, de veintinueve de julio de dos mil veinte, por el que se establecen los Lineamientos de seguridad sanitaria en la Suprema Corte de Justicia de la Nación durante la emergencia generada por el virus SARS-CoV2 (COVID 19)”.
+
+CUARTO. La Oficialía Mayor emitirá las recomendaciones sobre higiene y medidas sanitarias en el centro de trabajo en un plazo de cinco días, contados a partir de la entrada en vigor del presente Acuerdo General de Administración.
+
+QUINTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
