@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2015-05-12"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
@@ -87,11 +87,15 @@ III. Acuacultura de traspatio: Es aquella que se realiza con fines de autoconsum
 
 IV. Artes de cultivo: Son los instrumentos, equipos o estructuras con que se realiza la cosecha o cultivo de especies acuícolas;
 
-V. Asistencia técnica: Es la actividad llevada a cabo por la Secretaría de Pesca por sí o por medio de agentes externos que va encaminada a consolidar la actividad acuícola y pesquera mediante la impartición de talleres y cursos para mejorar las técnicas de producción de dichas actividades, optimizar los recursos con que cuentan los productores acuícolas y pesqueros dedicados al cultivo de especies para su autoconsumo o a la pesca para consumo doméstico;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+V. Asistencia Técnica: Es la actividad llevada a cabo por el Instituto de Pesca y Acuacultura de Campeche por sí o por medio de agentes externos que va encaminada a consolidar la actividad acuícola y pesquera mediante la impartición de talleres y cursos para mejorar las técnicas de producción de dichas actividades, optimizar los recursos con que cuentan los productores acuícolas y pesqueros dedicados al cultivo de especies para su autoconsumo o a la pesca para consumo doméstico;
 
 VI. Bitácora de acuacultura: Es el documento de registro y control del quehacer acuícola por unidad de producción, por medio del cual la autoridad competente recibe del acuicultor el reporte de la actividad que se le ha concesionado o permitido;
 
-VII. Capacitación: Es la enseñanza o apoyo que la Secretaría de Pesca proporciona por sí o por medio de agentes externos a los acuicultores y productores pesqueros, para el mejoramiento de sus técnicas de obtención de productos, manejo para su comercialización y dar valor agregado a dichos productos;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VII. Capacitación: Es la enseñanza o apoyo que la (sic) Instituto de Pesca y Acuacultura de Campeche proporciona por sí o por medio de agentes externos a las y los acuicultores y las y los productores pesqueros, para el mejoramiento de sus técnicas de obtención de productos, manejo para su comercialización y dar valor agregado a dichos productos;
 
 VIII. Densidad de siembra: Es el número de organismos cultivables por metro cúbico de agua, variable según la especie a cultivar;
 
@@ -115,9 +119,17 @@ XVII. Plan de manejo acuícola: El conjunto de acciones encaminadas al desarroll
 
 XVIII. Registro estatal: El Registro Estatal de Pesca y Acuacultura;
 
-XIX. Secretaría de Pesca: La Secretaría de Pesca de la Administración Pública del Estado;
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-XX. Secretaría de Ecología: La Secretaría de Ecología de la Administración Pública del Estado;
+XVIII Bis. Instituto de Pesca: Instituto de Pesca y Acuacultura de Campeche;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Secretaría: La Secretaría de Desarrollo Agropecuario de la Administración Pública del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XX. SEMABICCE: La Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía de la Administración Pública del Estado;
 
 XXI. Siembra: Es la introducción de especies acuícolas que se divide en dos fases, de ciclo completo en la cual se introducen las especies en cualquiera etapa de vida para que cumplan un ciclo completo de vida; y de ciclo incompleto en el cual se introducen las especies en estado larvario, alevín o juvenil, para completar una talla comercial, en cuerpos de agua de jurisdicción estatal;
 
@@ -127,11 +139,9 @@ XXIII. Sistema intensivo: Es aquel por medio del cual el número o densidad de s
 
 XXIV. Sistema semiintensivo: Es aquel por medio del cual el número o densidad de siembra de la especie a cultivar es tal que permite medianos volúmenes de producción o cosecha comercializable; por el número de organismos por metro cúbico de agua requiere de sistema de aireación, de bombeo, rebombeo y suministro de alimentación balanceada con una inversión significativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
-
-XXV. Guía de tránsito: El documento expedido por la Secretaría para autorizar la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas;
+XXV. Guía de Tránsito: El documento expedido por la Secretaría de Agricultura y Desarrollo Rural, para autorizar la movilización o internación en el territorio estatal de recursos pesqueros o acuícolas; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -151,11 +161,13 @@ A falta de disposición expresa en la presente Ley, se aplicarán las disposicio
 
 El Estado y los Municipios ejercerán sus atribuciones en materia de pesca y acuacultura sustentables de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-Las atribuciones que esta Ley otorga al Estado, serán ejercidas por su Gobernador a través de la Secretaría de Pesca, salvo las que directamente le correspondan por disposición expresa de la ley.
+Las atribuciones que esta Ley otorga al Estado, serán ejercidas por la o el Gobernador del Estado a través del Instituto de Pesca, salvo las que directamente le correspondan por disposición expresa de la ley.
 
-Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado de Campeche u otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría de Pesca ejercerá sus atribuciones en coordinación con las mismas, mediante la suscripción de los instrumentos jurídicos correspondientes.
+Cuando, por razón de la materia y de conformidad con la Ley Orgánica de la Administración Pública del Estado de Campeche u otras disposiciones legales aplicables, se requiera de la intervención de otras Secretarías, Dependencias y Entidades, el Instituto de Pesca ejercerá sus atribuciones en coordinación con las mismas, mediante la suscripción de los instrumentos jurídicos correspondientes.
 
 ###### Artículo 8.
 
@@ -163,7 +175,9 @@ Corresponde al Estado, el ejercicio de las siguientes facultades:
 
 I. Diseñar y aplicar la política, los instrumentos y los programas para la pesca y la acuacultura estatal, en concordancia con la Política Nacional de Pesca y Acuacultura Sustentables, vinculándolos con los programas nacionales, sectoriales y regionales, así como con el Plan Estatal de Desarrollo y los Programas que de él se deriven;
 
-II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico signado con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+II. Formular y ejercer la política local de inspección y vigilancia pesquera y acuícola en el marco del Convenio específico celebrado con la Secretaría federal competente en estas materias y participar de conformidad con los acuerdos y convenios que se celebren con la Federación en las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
 
 III. Celebrar convenios o acuerdos de coordinación y colaboración con la Federación en materia de pesca y acuacultura;
 
@@ -186,6 +200,10 @@ XI. Promover el consumo de una mayor variedad de productos pesqueros y acuícola
 XII. Coordinarse con la Federación, los Municipios y con otras Entidades Federativas, para el ordenamiento territorial de los desarrollos acuícolas;
 
 XIII. Promover mecanismos de participación pública de los productores en el manejo y conservación de los recursos pesqueros y acuícolas conforme a lo dispuesto en esta Ley y otras disposiciones jurídicas federales y locales aplicables;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XIII Bis. Promover y difundir los periodos de veda de las diferentes especies marinas;
 
 XIV. En los cuerpos de agua dulce continental a que se refiere el párrafo quinto del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, con excepción de las aguas continentales que abarquen dos o más entidades federativas, las que pasen de una a otra, y las transfronterizas sujetas a la jurisdicción federal:
 
@@ -317,39 +335,41 @@ XIII. Programas que promuevan la acuacultura rural, así como la reconversión p
 
 XIV. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 16.
 
-El Estado, con la colaboración de los productores pesqueros y acuícolas en coordinación con los municipios y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
+El Estado, con la colaboración de las y los productores pesqueros y acuícolas en coordinación con los municipios y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal, especialmente en las zonas sobreexplotadas y de repoblación, para enfrentarla con diversas acciones, así como para prevenir actos sancionados por la presente Ley y otras disposiciones aplicables.
 
-La Secretaría de Pesca dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa citado y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+El Instituto de Pesca dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el Programa citado y promoverá la participación de las demás dependencias y entidades de la Administración Pública Estatal y de los Municipios, en los términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
 
 ### CAPÍTULO SEGUNDO. El Consejo Estatal de Pesca y Acuacultura
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 17.
 
 Se crea el Consejo Estatal de Pesca y Acuacultura como un órgano de apoyo, coordinación, consulta, concertación y asesoría, cuyas atribuciones y las de sus integrantes, serán las que señale el Reglamento de la presente Ley.
 
-El Consejo Estatal de Pesca y Acuacultura se integrará en la forma siguiente:
+El Consejo Estatal de Pesca y Acuacultura se integrará de la forma siguiente:
 
-I. El Secretario de Pesca, quien lo presidirá;
+I. La Persona Titular de la Secretaría de Desarrollo Agropecuario, quien lo presidirá
 
-II. El Secretario de Ecología como vicepresidente;
+II. La Persona Titular de la SEMABICCE, como vicepresidente;
 
-III. El Subsecretario de Pesca; como Secretario Técnico;
+III. La Persona Titular del Instituto de Pesca y Acuacultura, como Secretario Técnico;
 
-IV. El Secretario de Finanzas y Administración como vocal
+IV. La Persona Titular de la Secretaría de Administración y Finanzas, como vocal
 
-V. El Secretario de la Contraloría, como vocal;
+V. La Persona Titular de la Secretaría de la Contraloría, como vocal;
 
-VI. El Secretario de Desarrollo Rural, como vocal;
+VI. La Persona Titular de la Secretaría de Bienestar, como vocal;
 
-VII. El Secretario de Seguridad Pública como vocal; y
+VII. La Persona Titular de la Secretaría de Protección y Seguridad Ciudadana, como vocal; y
 
-VIII. El Procurador General de Justicia del Estado, como vocal.
+VIII. La Persona Titular de la Fiscalía General del Estado, como vocal.
 
-Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto los representantes de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación en el Estado; de la Secretaría de Marina; de la Procuraduría Federal de Protección al Ambiente; de la Procuraduría General de la República y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales y de productores de los sectores pesquero y acuícola en el Estado.
-
-El Consejo tendrá como objeto proponer las políticas, programas de carácter estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos.
+Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto a (sic) los que acudan por parte de la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el Estado; de la Secretaría de Marina; de la Procuraduría Federal de Protección al Ambiente; de la Fiscalía General de la República y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales y de productores de los sectores pesquero y acuícola en el Estado. El Consejo tendrá como objeto proponer las políticas, programas de carácter estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos.
 
 ###### Artículo 18.
 
@@ -359,9 +379,11 @@ El Consejo Estatal de Pesca y Acuacultura tendrá la participación prevista en 
 
 ### CAPÍTULO ÚNICO. Del fomento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-La Secretaría de Pesca, en coordinación con las dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+El Instituto de Pesca en coordinación con las secretarías, dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I. Coadyuvará con las instituciones dedicadas a la investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 
@@ -413,9 +435,11 @@ VII. Otorgar los permisos para las actividades de pesca y acuacultura, así como
 
 VIII. Expedir las guías de tránsito para transportar los productos pesqueros o acuícolas que se obtengan de las aguas dulces continentales, previo el cumplimiento de los trámites que para el transporte de bienes perecederos establezca la COPRISCAM y, en su caso, el Comité de Sanidad e Inocuidad Acuícola y Pesquera.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 20.
 
-En materia de pesca deportivo-recreativa, la Secretaría de Pesca fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las dependencias y entidades Federales competentes y con los sectores interesados:
+En materia de pesca deportivo-recreativa, el Instituto de Pesca fomentará la práctica y el desarrollo de esta actividad, para lo cual, en coordinación con las Secretarías, Dependencias y Entidades Federales competentes y con los sectores interesados:
 
 I. Promoverá las gestiones necesarias para la construcción de la infraestructura necesaria para esta actividad;
 
@@ -459,23 +483,29 @@ Los permisos para alguna de las actividades señaladas en el artículo 41 de la 
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-El Estado suscribirá con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con la Comisión Nacional de Acuacultura y Pesca los convenios correspondientes a fin de que por conducto de la Secretaría de Pesca se otorguen los permisos para la pesca deportivo-recreativa, conforme a las disposiciones previstas en la Ley General.
+El Estado suscribirá con la Secretaría de Agricultura y Desarrollo Rural y con la Comisión Nacional de Acuacultura y Pesca los convenios correspondientes a fin de que por conducto del Instituto de Pesca se administren los permisos para la pesca deportivo-recreativa, conforme a las disposiciones previstas en la Ley General.
 
-En el caso de los permisos otorgados atendiendo a lo señalado en el párrafo anterior, sus titulares, a solicitud de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, comprobarán que las capturas realizadas se efectuaron conforme a dichas licencias, permisos o equivalentes
+En el caso de los permisos otorgados en términos de lo que establece la Ley General, sus titulares, a solicitud de la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el Estado, comprobarán que las capturas realizadas se efectuaron conforme a dichas licencias, permisos o equivalentes.
 
 ###### Artículo 24.
 
 Los permisos que se otorguen para las actividades señaladas en el artículo 23 serán individuales, improrrogables e intransferibles.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 25.
 
-Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autoricen la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Comisión Nacional de Acuacultura y Pesca con pleno respeto a las especies mencionadas en el artículo 68 de la Ley General conforme a las disposiciones que para tal efecto emita la autoridad federal competente.
+Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, y estarán obligados a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autoricen la Secretaría de Agricultura y Desarrollo Rural y la Comisión Nacional de Acuacultura y Pesca con pleno respeto a las especies mencionadas en el artículo 68 de la Ley General conforme a las disposiciones que para tal efecto emita la autoridad federal competente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 26.
 
-La pesca de consumo doméstico que efectúen los residentes en las riberas y en las costas, no requiere concesión o permiso.
+La pesca de consumo doméstico que efectúen las y los residentes en las riberas y en las costas, no requiere concesión o permiso.
 
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las Normas Oficiales que expida la autoridad federal en la materia.
 
@@ -495,63 +525,17 @@ La legal procedencia de los productos pesqueros y acuícolas, se acreditará con
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que se emitan deberán incluir el número de permiso o concesión respectiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 29.
 
-El traslado por vía terrestre, marítima o aérea de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados sólo podrán realizarse al amparo de la guía de tránsito que para dicho efecto expida la Secretaría; para cuya expedición deberán exhibirse los documentos que acrediten la legal procedencia del o de los recursos de que se trate, además de certificado de sanidad acuícola cuando se requiere y constancia de verificación sanitaria y, en su caso, las demás autorizaciones y certificaciones que en materia pesquera y acuícola se exijan por las leyes y reglamentos federales.
+El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o acuacultura deberá realizarse conforme a la guía de pesca, misma que lo amparará, de conformidad con el formato que expida la Secretaría de Agricultura y Desarrollo Rural.
 
-Se exceptúan del requisito de tramitar la guía de tránsito a los permisionarios de la pesca deportiva recreativa, quienes deberán portar para ello únicamente el permiso respectivo que ampara la legal procedencia de los mismos.
-
-Tampoco requerirán de guía de tránsito quienes trasladen los productos que hayan capturado para su consumo doméstico o el de sus dependientes económicos.
+Se exceptúan de esta obligación las personas que hayan obtenido especies al amparo de permisos de pesca deportivo-recreativa, cuyo traslado se amparará con el propio permiso y el que traslade productos cuyo destino sea el consumo doméstico directo del que lo transporta.
 
 ###### Artículo 30.
 
-El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el Reglamento de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
-
-Para obtener la guía de tránsito el interesado deberá presentar el formato de solicitud que para el efecto expida la Secretaría, con la información y documentación siguientes:
-
-I. Los datos generales del embarque, incluyendo el lugar y fecha en el que se efectúa; el nombre o razón social del propietario de los recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados, productos, subproductos, insumos y materiales de empaque y embalaje de los recursos pesqueros o acuícolas, así como el domicilio, localidad, municipio y código postal del interesado;
-
-II. El tipo de transporte que se utilizará, sus características y, en su caso, la denominación de la compañía que lo transporta y la fecha en la que ésta efectuará el traslado;
-
-III. El nombre común y científico de los recursos pesqueros o acuícolas; su fase de desarrollo, en su caso, y el tipo de conservación, empaque y cantidad en traslado;
-
-IV. El documento que acredite la legal procedencia de los recursos pesqueros o acuícolas;
-
-V. Los datos de traslados, mencionado (sic) la granja acuícola o laboratorio de producción de origen y su ubicación, así como el lugar de destino señalando su ubicación. Si el destino fuere una granja acuícola o laboratorio de producción se indicará si éstos cuentan con el permiso respectivo;
-
-VI. La constancia de verificación sanitaria expedida por la secretaría, en los casos mencionados en esta ley; y
-
-VII. Cuando se trate de introducción al Estado de organismos acuáticos y especies acuícolas en cualquier fase de su desarrollo:
-
-a) El Certificado de sanidad acuícola vigente expedido por la autoridad competente; y
-
-b) El resultado de diagnóstico vigente, elaborado por un laboratorio de diagnóstico autorizado y con el sello en original de los organismos auxiliares correspondientes de los estados de origen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
-
-Recibida la solicitud y cumplidos los requisitos contemplados en el artículo anterior, la Secretaría expedirá en un plazo máximo de tres días hábiles la guía de tránsito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
-
-Las guías de tránsito tendrán una vigencia de hasta treinta días hábiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
-
-El porteador deberá exhibir la guía de tránsito cuando le sea requerida en los puntos de verificación a que se refiere esta ley.
+(DEROGADO, P.O. 9 DE NOVIEMBRE DE 2022)
 
 ## TÍTULO NOVENO. DE LA ACUACULTURA
 
@@ -587,29 +571,37 @@ El Estado podrá establecer un plan de manejo acuícola, como instrumentos de pl
 
 ### CAPÍTULO SEGUNDO. De los instrumentos de manejo para la acuacultura
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-La Secretaría de Pesca, en coordinación con las autoridades competentes de la Federación, en el ámbito de sus respectivas competencias diseñará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política acuícola.
+El Instituto de Pesca, en coordinación con las autoridades competentes de la Federación, en el ámbito de sus respectivas competencias diseñará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política acuícola.
 
 ## TÍTULO DÉCIMO. DE LA ADMINISTRACIÓN DE LA ACUACULTURA
 
 ### CAPÍTULO ÚNICO. De los permisos de acuacultura
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 37.
 
-El Estado suscribirá con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con la Comisión Nacional de Acuacultura y Pesca, los convenios correspondientes a fin de que, por conducto de la Secretaría de Pesca se otorguen los permisos para la acuacultura conforme a las disposiciones previstas en la Ley General.
+El Estado suscribirá con la Secretaría de Agricultura y Desarrollo Rural y con la Comisión Nacional de Acuacultura y Pesca, los convenios correspondientes a fin de que, por conducto del Instituto de Pesca se otorguen los permisos para la acuacultura conforme a las disposiciones previstas en la Ley General.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-Las personas que realicen actividades de acuacultura, deberán presentar a la Secretaría de Pesca los avisos de cosecha, producción y recolección, en la forma y términos que determine el Reglamento de esta Ley.
+Las personas que realicen actividades de acuacultura, deberán presentar al Instituto de Pesca los avisos de cosecha, producción y recolección, en la forma y términos que determine el Reglamento de esta Ley.
 
 ## TÍTULO UNDÉCIMO. DE LA SANIDAD, INOCUIDAD Y CALIDAD
 
 ### CAPÍTULO PRIMERO. De la sanidad de especies acuícolas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 39.
 
-El Estado, se coordinará con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y con la Comisión Nacional de Acuacultura y Pesca y, en su caso, con la Comisión para la Protección contra Riesgos Sanitarios del Estado de Campeche, con el objeto de:
+El Estado, se coordinará con la Secretaría de Agricultura y Desarrollo Rural y con la Comisión Nacional de Acuacultura y Pesca y, en su caso, con la Comisión para la Protección contra Riesgos Sanitarios del Estado de Campeche, con el objeto de:
 
 I. Inducir el cumplimiento de las disposiciones legales y las medidas de seguridad de sanidad, inocuidad y calidad acuícola establecidas por la autoridad federal competente;
 
@@ -625,25 +617,15 @@ III. Realizar acciones de saneamiento acuícola.
 
 1.- Los establecimientos instalados en el Estado en los que se desarrollen, cultiven o procesen productos destinados a la actividad acuícola deberán identificar y comprobar el origen de los recursos acuícolas y contarán con el certificado de sanidad acuícola o el certificado de sanidad de origen respectivo, según corresponda.
 
-En la internación o salida del Estado de recursos pesqueros o acuícolas vivos, frescos, enhielados o congelados deberá contarse con la autorización que previamente expida la Secretaría y, además, la movilización deberá amparase (sic) con la guía de tránsito emitida por la misma y con la documentación sanitaria correspondiente.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En la internación o salida del Estado de recursos pesqueros o acuícolas vivos, frescos enhielados o congelados deberá contarse con la autorización que previamente expida la Secretaría de Agricultura y Desarrollo Rural y, además, la movilización deberá ampararse con la guía de tránsito emitida por la misma y con la documentación sanitaria correspondiente.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 39
 
-2.- Para obtener la autorización a que se refiere el artículo anterior, los introductores deberán presentar la solicitud correspondiente ante la Secretaría, en los formatos que se expidan para el efecto, con la información y documentación siguientes:
-
-I. La denominación científica y común de los recursos y la cantidad o volumen a introducir;
-
-II. La copia del certificado de sanidad de origen, cuando los recursos provengan del extranjero, o bien, la copia del certificado de sanidad acuícola emitido por la autoridad competente validado con el sello del Comité de Sanidad del Estado de la República Mexicana del que provengan;
-
-III. Cuando el ingreso sea por vía aérea o marítima, el aviso dado a la Secretaría con siete días de anticipación a la introducción, en el que se hubiere indicado el lugar, fecha y hora de arribo, así como la cantidad o volumen de recursos a ingresar; el documento que acredite la legal procedencia de los productos, así como el certificado de sanidad acuícola expedido por la autoridad competente y el resultado de diagnóstico vigente, elaborado por un laboratorio de diagnóstico autorizado y con el sello en original de los organismos auxiliares correspondientes de los estados de origen; y
-
-IV. El resultado de diagnóstico de laboratorio autorizado por la Secretaría.
-
-En las internaciones de recursos pesqueros y acuícolas al Estado de Campeche, el titular de la autorización, en los puntos de entrada del Estado, deberá cumplir con los siguientes requisitos:
+2.- En las internaciones de recursos pesqueros y acuícolas al Estado de Campeche, el titular de la autorización, en los puntos de entrada del Estado, deberá cumplir con los siguientes requisitos:
 
 I. Exhibir la autorización;
 
@@ -671,7 +653,9 @@ IV. Promover, implementar y ejecutar acciones destinadas a la realización de es
 
 V. Promover ante otras autoridades competentes la ejecución de las medidas sanitarias o de seguridad que establezcan otros ordenamientos jurídicos;
 
-VI. Apoyarse del organismo auxiliar en el Estado reconocido ante el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria, para que aquél preste sus servicios de verificación sanitaria en las instalaciones de las unidades, granjas o establecimientos acuícolas para emitir, en su caso, las recomendaciones tendientes a disminuir o evitar las condiciones que favorezcan la presencia de agentes patógenos y su diseminación, así como informar oportunamente a la Secretaría sobre los riesgos sanitarios de los que tenga conocimiento, para que en forma coordinada con las dependencias federales competentes, se determinen las medidas conducentes.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VI. Apoyarse del organismo auxiliar en el Estado reconocido ante el Servicio Nacional de Sanidad e Inocuidad Agroalimentaria, para que aquél preste sus servicios de verificación sanitaria en las instalaciones de las unidades, granjas o establecimientos acuícolas para emitir, en su caso, las recomendaciones tendientes a disminuir o evitar las condiciones que favorezcan la presencia de agentes patógenos y su diseminación, así como informar oportunamente al Instituto de Pesca sobre los riesgos sanitarios de los que tenga conocimientos, para que en forma coordinada con las dependencias federales competentes, se determinen las medidas conducentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -683,9 +667,11 @@ VI. Apoyarse del organismo auxiliar en el Estado reconocido ante el Servicio Nac
 
 ### CAPÍTULO SEGUNDO. De las medidas sanitarias
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 40.
 
-La Secretaría de Pesca se coordinará con la dependencia competente a fin de que ésta emita y publique el Acuerdo por el que se determine el status sanitario pesquero y acuícola del Estado, conforme a lo dispuesto en el artículo 110 de la Ley General.
+El Instituto de Pesca, se coordinará con la dependencia competente a fin de que ésta emita y publique el Acuerdo por el que se determine el status sanitario pesquero y acuícola del Estado, conforme a lo dispuesto en el artículo 110 de la Ley General.
 
 ###### Artículo 41.
 
@@ -695,9 +681,11 @@ El Estado acordará y convendrá con la Federación, con otras Entidades Federat
 
 ### CAPÍTULO PRIMERO. Del Sistema Estatal de Información de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-El Estado, a través de la Secretaría de Pesca integrará el Sistema Estatal de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el Estado. El Sistema se integrará con la información siguiente:
+El Estado, a través de Instituto de Pesca integrará el Sistema Estatal de Información de Pesca y Acuacultura que tendrá por objeto organizar, actualizar y difundir la información sobre actividades pesqueras y acuícolas, particularmente las que se desarrollan en el Estado. El Sistema se integrará con la información siguiente:
 
 I. El Registro Estatal de Pesca y Acuacultura;
 
@@ -707,7 +695,9 @@ III. Las resoluciones definitivas acerca de permisos para realizar actividades p
 
 IV. El anuario estadístico de pesca y acuacultura del Estado.
 
-De conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, la información mencionada en el presente artículo deberá ser publicada en la página electrónica de la Secretaría de Pesca y por los medios impresos a su alcance.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+De conformidad con lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, la información mencionada en el presente artículo deberá ser publicada en la página electrónica del Instituto de Pesca y por los medios impresos a su alcance.
 
 ###### Artículo 43.
 
@@ -715,9 +705,11 @@ Todos los titulares de permisos deberán, en los términos de la presente Ley, p
 
 ### CAPÍTULO SEGUNDO. Del Registro Estatal de Pesca y Acuacultura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 44.
 
-El Registro Estatal de Pesca y Acuacultura estará a cargo de la Secretaría de Pesca, tendrá carácter público y tendrá por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
+El Registro Estatal de Pesca y Acuacultura estará a cargo del Instituto de Pesca, tendrá carácter público y tendrá por objeto la inscripción y actualización obligatorias de la siguiente información relativa a las actividades pesqueras y acuícolas:
 
 I. Las personas físicas o morales que se dediquen a la pesca, con excepción de las personas físicas que realicen actividades de pesca deportivo-recreativa y de pesca para consumo doméstico;
 
@@ -733,21 +725,29 @@ VI. Las personas físicas o morales que cuenten con certificados de sanidad, ino
 
 VII. Las escuelas pesqueras y los centros dedicados a la investigación o enseñanza en materia de flora y fauna acuáticas aprovechables para la pesca y acuacultura.
 
-La Secretaría de Pesca expedirá la constancia certificada del registro correspondiente.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. Las dependencias estatales y municipales que por razones de su competencia conozcan o tengan ingerencia (sic) en materia pesquera y acuícola, contribuirá a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
+El Instituto de Pesca expedirá la constancia certificada del registro correspondiente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. Las dependencias estatales y municipales que por razones de su competencia conozcan o tengan injerencia en materia pesquera y acuícola, contribuirá (sic) a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 45.
 
-El Estado, a través de la Secretaría de Pesca, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+El Estado, a través del Instituto de Pesca, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
 
 ## TÍTULO DÉCIMO TERCERO. INSPECCIÓN Y VIGILANCIA
 
 ### CAPÍTULO ÚNICO. De la Inspección y Vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 46.
 
-Para verificar y comprobar el cumplimiento de esta Ley y sus disposiciones reglamentarias, el Estado, en el marco del convenio específico que suscriba con la Federación, realizará las acciones de prevención y combate a la pesca ilegal, así como las de inspección y vigilancia, en los casos en que corresponda, sin perjuicio de los diversos convenios en los cuales intervenga la Secretaría de Ecología en materia de equilibrio ecológico y protección al ambiente.
+Para verificar y comprobar el cumplimiento de esta Ley y sus disposiciones reglamentarias, el Estado, en el marco del convenio específico que suscriba con la Federación, realizará las acciones de prevención y combate a la pesca ilegal, así como las de inspección y vigilancia, en los casos en que corresponda, sin perjuicio de los diversos convenios en los cuales intervenga la SEMABICCE en materia de equilibrio ecológico y protección al ambiente.
 
 Para efectos de lo anterior, el Estado, en el marco del citado convenio formulará y evaluará un Programa Integral de Inspección y Vigilancia para el Combate a la Pesca ilegal.
 
@@ -759,15 +759,21 @@ En la inspección y vigilancia de actividades pesqueras que se realicen en siste
 
 Los elementos que arrojen los instrumentos a que se refiere este artículo se considerarán como medios de prueba, y tendrán el valor probatorio que se determine en las disposiciones jurídicas aplicables.
 
-En la inspección y vigilancia la Secretaría de Pesca se apoyará, mediante la firma del correspondiente convenio, en la Secretaría de Ecología, con base en las facultades que conforme a la Ley de la materia tiene ésta última dependencia, a fin de que, de encontrarse ante la comisión de algún delito, proceda en consecuencia.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+En la inspección y vigilancia el Instituto de Pesca se apoyará, mediante la firma del correspondiente convenio, en la SEMABICCE, con base en las facultades que conforme a la Ley de la materia tiene ésta última Secretaría, a fin de que, de encontrarse ante la comisión de algún delito, proceda en consecuencia.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 48.
 
-El personal de la Secretaría de Pesca debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección en los términos del Título Cuarto de la Ley de Procedimiento Administrativo del Estado y los Municipios de Campeche.
+El personal del Instituto de Pesca debidamente autorizado para la realización de los actos a que se refiere el presente capítulo, podrá llevar a cabo visitas de inspección en los términos del Título Cuarto de la Ley de Procedimiento Administrativo del Estado y los Municipios de Campeche.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 49.
 
-En materia de notificación de actos de inspección y vigilancia a que se refiere este Título, además de la forma descrita en el artículo anterior, la Secretaría de Pesca podrá realizar notificaciones por estrados, las cuales se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad competente que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la propia Secretaría de Pesca.
+En materia de notificación de actos de inspección y vigilancia a que se refiere este Título, además de la forma descrita en el artículo anterior, el Instituto de Pesca podrá realizar notificaciones por estrados, las cuales se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad competente que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca el propio Instituto de Pesca.
 
 Dicha autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día siguiente al primer día en que se hubiera fijado o publicado el documento.
 
@@ -789,7 +795,9 @@ III. Simular actos de pesca de consumo doméstico o de acuacultura de autoconsum
 
 IV. Comercializar las capturas de la pesca deportivo-recreativa;
 
-V. No proporcionar la información en los términos y plazos que solicite la Secretaría de Pesca o incurrir en falsedad al rendir ésta;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+V. No proporcionar la información en los términos y plazos que solicite el Instituto de Pesca o incurrir en falsedad al rendir ésta;
 
 VI. No cumplir con la obligación de inscripción y actualización en el Registro Estatal de Pesca y Acuacultura, en los términos de esta Ley y su reglamento;
 
@@ -801,9 +809,11 @@ IX. Cualquier otra contravención a lo dispuesto en la presente Ley.
 
 ### CAPÍTULO SEGUNDO. De las sanciones administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 51.
 
-Para la imposición de las sanciones por infracciones a esta Ley, la Secretaría de Pesca tomará en cuenta:
+Para la imposición de las sanciones por infracciones a esta Ley, el Instituto de Pesca tomará en cuenta:
 
 I. La gravedad de la infracción,
 
@@ -815,9 +825,11 @@ IV. El carácter intencional o negligente de la conducta infractora, así como l
 
 V. El beneficio directamente obtenido por el infractor por los actos u omisiones que motiven la sanción;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 52.
 
-Las infracciones a los preceptos de esta Ley y a sus disposiciones reglamentarias que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por la Secretaría de Pesca con las siguientes sanciones:
+Las infracciones a los preceptos de esta Ley y a sus disposiciones reglamentarias que de ella deriven, señaladas en el artículo anterior, serán sancionadas administrativamente por el Instituto de Pesca con las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -845,13 +857,17 @@ Son aplicables supletoriamente a este capítulo en cuanto a las sanciones admini
 
 Las sanciones administrativas a que se refiere el capítulo anterior se aplicarán sin perjuicio, en su caso, de las penas que correspondan cuando los actos u omisiones constitutivos de infracciones sean también constitutivos de delito, en los términos de las disposiciones que también sean aplicables y sin perjuicio de la responsabilidad ambiental que pudiera resultar.
 
-La Secretaría de Pesca, para efectos de lo anterior, comunicará los hechos a la Secretaría de Ecología y remitirá las constancias que obren en el expediente correspondiente a las sanciones administrativas para que proceda en consecuencia.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+El Instituto de Pesca, para efectos de lo anterior, comunicará los hechos a la SEMABICCE y remitirá las constancias que obren en el expediente correspondiente a las sanciones administrativas para que proceda en consecuencia.
 
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales que intervienen en la preparación o realización de las infracciones contenidas en el artículo 50 de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 55.
 
-El incumplimiento por parte de los servidores públicos estatales y municipales de las disposiciones contenidas en la presente Ley y su Reglamento, dará lugar a la responsabilidad en términos de lo establecido en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+El incumplimiento por parte de las y los servidores públicos estatales, municipales de las disposiciones contenidas en la presente Ley y su Reglamento, dará lugar a la responsabilidad en términos de lo establecido en la Ley General de Responsabilidades Administrativas y en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
 
 Las responsabilidades a que se refiere este capítulo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
 
@@ -892,3 +908,15 @@ Primero.- El presente decreto entrará en vigor 30 días después de su publicac
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en los que se opongan al contenido del presente decreto.
 
 Tercero.- El Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Campeche, deberá disponer lo conducente para la expedición, revalidación y revocación de los permisos y autorizaciones que con motivo de la entrada en vigor del presente decreto deban expedirse.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 143 POR EL QUE “SE REFORMAN LAS FRACCIONES V, VII, XIX, XX Y XXV DEL ARTÍCULO 4; EL ARTÍCULO 7; LA FRACCIÓN II DEL ARTÍCULO 8; LOS ARTÍCULO (SIC) 16 Y 17; EL PÁRRAFO PRIMERO DEL ARTÍCULO 19; EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; LOS ARTÍCULOS 23 Y 25; EL PÁRRAFO PRIMERO DEL ARTÍCULO 26; LOS ARTÍCULOS 29, 36, 37 Y 38; EL PÁRRAFO PRIMERO DEL ARTÍCULO 39; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 39-1; ARTÍCULO 39-2; LA FRACCIÓN VI DEL ARTÍCULO 39-3; EL ARTÍCULO 40; LOS PÁRRAFOS PRIMERO Y ÚLTIMO DEL ARTÍCULO 42; LOS PÁRRAFOS PRIMERO, PENÚLTIMO Y ÚLTIMO DEL ARTÍCULO 44; EL ARTÍCULO 45; EL PÁRRAFO PRIMERO DEL ARTÍCULO 46; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 47; EL ARTÍCULO 48; EL PÁRRAFO PRIMERO DEL ARTÍCULO 49; LA FRACCIÓN V DEL ARTÍCULO 50; EL PÁRRAFO PRIMERO DEL ARTÍCULO 51; EL PÁRRAFO PRIMERO DEL ARTÍCULO 52; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 55; SE ADICIONA UNA FRACCIÓN XVIII BIS AL ARTÍCULO 4; Y UNA FRACCIÓN XIII BIS AL ARTÍCULO 8; Y SE DEROGA EL ARTÍCULO 30, TODOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro del término de 180 días hábiles contados a partir de la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley.
+
+TERCERO. Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
+
+CUARTO. Las disposiciones administrativas de carácter general aplicables y que hayan sido emitidas con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo al mismo decreto.
