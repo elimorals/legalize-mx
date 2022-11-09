@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-cultural-del-estado-de-campeche-96170"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-13"
-last_updated: "2013-09-13"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO CULTURAL DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 65, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SESENTA DIAS DESPUES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de septiembre de 2013.
 
@@ -164,6 +162,10 @@ El Estado fomentará la libre participación de los habitantes en la vida cultur
 ###### ARTÍCULO 9.
 
 Se establecerán acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+Asimismo, toda persona en condiciones de vulnerabilidad, particularmente si es indígena o presenta algún tipo de discapacidad, tiene derecho a recibir del Estado la atención y los medios que le permitan mediante acciones afirmativas el desarrollo de sus facultades creativas y culturales.
 
 ###### ARTÍCULO 10.
 
@@ -616,3 +618,13 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, a los diecinueve días del mes de agosto del año dos mil trece.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 145 POR EL QUE "SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 9 DE LA LEY DE DESARROLLO CULTURAL DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
