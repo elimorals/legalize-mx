@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-153205"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-18"
-last_updated: "2022-06-30"
+last_updated: "2022-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección CVII del Número 50 del Periódico Oficial del Estado de Jalisco, el sábado 18 de diciembre de 2021.
 
@@ -1143,9 +1143,13 @@ Los recursos que, en su caso, se obtengan como producto de las operaciones celeb
 
 Los gastos y costos relacionados con la estructuración y servicios legales o de evaluación relacionados con las operaciones autorizadas serán contratados y cubiertos directamente por la Secretaría de la Hacienda Pública o por conducto del fiduciario correspondiente.
 
-DÉCIMO SEGUNDO. Con base en el análisis de la capacidad de pago del estado de Jalisco, el destino de los financiamientos, la situación de la deuda pública y de los recursos a otorgarse como fuente de pago, se autoriza al Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, durante el ejercicio fiscal 2022, celebre una o más operaciones de reestructura o refinanciamiento respecto del saldo insoluto de los siguiente créditos celebrados por el Estado con (sic) Banco Nacional de Obras y Servicios Públicos, S. N. C.:
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SU TABLA], P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+DÉCIMO SEGUNDO. Con base en el análisis de la capacidad de pago del Estado de Jalisco, el destino de los financiamientos, la situación de la deuda pública y de los recursos a otorgarse como fuente de pago, se autoriza al Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, durante el ejercicio fiscal 2022, celebre una o más operaciones de reestructura o refinanciamiento respecto del saldo insoluto de los siguiente (sic) créditos celebrados por el Estado con (sic) Banco Nacional de Obras y Servicios Públicos, S. N. C.:
 
 > <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 81.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA EDICIÓN ESPECIAL NÚMERO 39 QUÁTER DEL P.O. DE 9 DE NOVIEMBRE DE 2022, PÁGINAS DE LA 3 A LA 4.]</small>
 
 En la operación de reestructura o refinanciamiento se mantendrá la fecha de vencimiento actualmente vigente en los créditos objeto de refinanciamiento o reestructura sin perjuicio de poder pactar la modificación, cambio o adecuación en la tasa aplicable, perfil de amortización, garantías, instrumentos derivados, fuente de pago y fideicomisos, ingresos afectados como fuente de pago o garantía de pago, fondos de reserva, comisiones, así como las modificaciones necesarias a las demás condiciones y obligaciones y derechos previamente pactados y, para tal efecto, se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, para que afecte el monto o porcentaje necesario y suficiente de ingresos por participaciones en ingresos federales, ingresos propios o aportaciones federales susceptibles de afectación y suscriba los convenios o instrumentos necesarios o convenientes, así como cubra directamente o por conducto del Fideicomiso fuente de pago pactado los gastos y costos relacionados con las operaciones autorizadas dentro de los límites establecidos por el artículo 27 del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios.. (sic)
 
@@ -1222,3 +1226,9 @@ P.O. 30 DE JUNIO DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco ".
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco, dispondrá de sesenta días para realizar las modificaciones reglamentarias y administrativas que deriven del presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28867/LXIII/22 QUE REFORMA LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2022”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.]
