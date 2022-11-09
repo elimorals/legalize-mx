@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-153205"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-18"
-last_updated: "2022-06-30"
+last_updated: "2022-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,1204 +21,1650 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA NUEVA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 13 DE NOVIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: NO VIGENTE.
 
-Ley publicada en la Sección CVII del Número 50 del Periódico Oficial del Estado de Jalisco, el sábado 18 de diciembre de 2021.
+Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes17 de abril de 1998.
 
-Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
+HECTOR TERAN TERAN.
 
-Enrique Alfaro Ramírez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto.
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-NÚMERO 28724/LXIII/21 EL CONGRESO DEL ESTADO DECRETA:
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PUBLICACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
 
-SE APRUEBA LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022.
+LA H. XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
 
-Artículo Único. Se aprueba la Ley de Ingresos del Estado de Jalisco para el ejercicio fiscal 2022 para quedar como sigue:
+LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022
+### CAPITULO I. DE LAS ATRIBUCIONES
 
-## TÍTULO PRIMERO. Disposiciones Preliminares
+###### ARTÍCULO 1.
 
-### CAPÍTULO ÚNICO
+Esta Ley tiene por objeto organizar a la Procuraduría General de Justicia del Estado de Baja California, dependencia del Poder Ejecutivo del Estado, en la que se integra la institución del Ministerio Público del orden común y sus órganos auxiliares directos, teniendo ésta y su titular, el Procurador General de Justicia del Estado, bajo su competencia, el despacho de los asuntos que le atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales y reglamentarias aplicables.
 
-###### Artículo 1°.
+###### ARTÍCULO 2.
 
-Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal 2022 por un monto total estimado de $137,119'013,000.00 (Ciento treinta y siete mil ciento diecinueve millones, trece mil pesos 00/100 M.N), deberán ser los que se obtengan por los conceptos y en las cantidades estimadas que a continuación se enumeran por Clasificador por Rubros de Ingresos:
+La institución del Ministerio Público ejercerá por conducto de su titular o de sus órganos auxiliares directos, las siguientes atribuciones:
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 3 A LA 7.]</small>
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### Artículo 2°.
+I.- Investigar y perseguir los delitos del orden común cometidos en el Estado de Baja California, así como aquellas conductas tipificadas como delitos en las leyes estatales, cometidas por adolescentes;
 
-Se faculta al Secretario de la Hacienda Pública para declarar la no causación de recargos.
+II.- Velar por la legalidad y el respeto a los derechos humanos en la esfera de su competencia, así como promover la pronta, completa y debida procuración de justicia;
 
-Para el caso de morosidad, los recargos se determinarán de acuerdo al Código Fiscal del Estado y a la presente Ley.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### Artículo 3°.
+III.- Proteger los derechos e intereses de las personas menores de dieciocho años de edad, personas que no tengan la capacidad para comprender el significado del hecho, ausentes y adultos mayores de sesenta años de edad, así como también los de carácter individual o social en general, en los términos que determinen las leyes y reglamentos aplicables;
 
-Los pagos en efectivo de créditos fiscales cuyo importe comprenda fracciones de la unidad monetaria se ajustarán conforme lo señala el artículo 3 de la Ley Monetaria de los Estados Unidos Mexicanos.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Los pagos cuya realización no impliquen entrega de efectivo se efectuarán por el monto exacto de la obligación fiscal.
+IV.- Ejercer las atribuciones que le corresponden en el ámbito de su competencia en el caso de conductas calificadas como delitos por las leyes estatales cometidas por adolescentes, conforme a los principios que establece el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y de conformidad con lo establecido con la Ley en materia de justicia para adolescentes del Estado;
 
-### CAPÍTULO I. De los Impuestos sobre los Ingresos
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
 
-#### SECCIÓN PRIMERA
+V.- Aplicar e implementar, de acuerdo a las disposiciones procesales aplicables, las órdenes de protección, emergentes y preventivas;
 
-Del impuesto sobre loterías, rifas, sorteos, juegos con apuesta y concursos de toda clase.
+VI.- Proporcionar atención a las víctimas u ofendidos por la comisión de algún delito, y facilitar su coadyuvancia;
 
-###### Artículo 4°.
+VII.- Auxiliar a otras autoridades en la persecución de los delitos que sean de su competencia, en los términos de los convenios, bases y demás instrumentos de colaboración celebrados al efecto;
 
-Las oficinas de recaudación fiscal podrán recibir de los contribuyentes el pago anticipado de las prestaciones fiscales correspondientes al ejercicio fiscal, sin perjuicio del cobro de las diferencias que correspondan, derivadas de cambios de bases y tasas.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 5°.
+VIII.- Celebrar y coordinar programas y sistemas con la Federación, Estado y Municipios en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos sobre procuración de Justicia;
 
-Para todo lo no previsto en la presente Ley, para su interpretación, se estará a lo dispuesto por la Ley de Hacienda del Estado y el Código Fiscal del Estado.
+IX.- Exigir responsabilidad penal a los servidores públicos que en el ejercicio de sus funciones incurran en cualquier falta, conducta u omisión, solicitando la aplicación de las leyes penales; en caso de que se trate de comisión de delitos, y
 
-###### Artículo 6°.
+X.- Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
 
-El Gobierno del Estado también percibirá ingresos por los impuestos, contribuciones de mejora, derechos, productos y aprovechamientos no comprendidos en las fracciones de la Ley de Ingresos causados en ejercicios fiscales anteriores pendientes de liquidación de pago.
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-## TÍTULO SEGUNDO. Impuestos
+###### ARTÍCULO 2 Bis.
 
-### CAPÍTULO II
+Cuando en esta Ley se haga alusión al término delito, el mismo se entenderá referido también a la conducta tipificada como delito por las leyes estatales cometida por adolescentes en lo conducente, de conformidad a lo dispuesto por la Ley de Justicia para Adolescentes del Estado de Baja California.
 
-De los impuestos sobre la producción, el consumo y las transacciones.
+###### ARTÍCULO 3.
 
-#### SECCIÓN PRIMERA
+Las atribuciones concedidas a la institución del Ministerio Público se definen de la siguiente manera:
 
-Del impuesto sobre transmisiones patrimoniales de bienes muebles.
+> <small>(REFORMADO PRIMER AMPARO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### Artículo 7°.
+A) En la averiguación previa:
 
-Este impuesto se determinará aplicando la tasa del 6.0% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+I.- Recibir denuncias o querellas sobre hechos que puedan ser constitutivos de delitos del orden común;
 
-#### SECCIÓN SEGUNDA
+II.- Conocer en auxilio del Ministerio Público Federal, las denuncias o querellas que se le presenten con motivo de los delitos de ese orden, y cuando de las constancias de la averiguación se determine la competencia federal, deberá declararse la incompetencia del Ministerio Público del orden común y remitir el expediente de averiguación previa a la autoridad competente;
 
-Del impuesto sobre enajenación y distribución de boletos de rifas y sorteos.
+III.- Investigar la comisión de delitos del orden común con el auxilio de la Policía Ministerial del Estado, y demás auxiliares de la procuración de justicia, en caso de considerarlo necesario;
 
-###### Artículo 8°.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Este impuesto se determinará aplicando la tasa del 10% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+IV.- Practicar las diligencias necesarias, para recabar las pruebas pertinentes para la comprobación de los elementos del tipo penal y la probable responsabilidad de los inculpados, para en su caso, fundar y motivar el ejercicio de la acción penal, o de la acción de remisión, tratándose de adolescentes;
 
-#### SECCIÓN TERCERA
+V.- Solicitar en vía de informe, de cualquier oficina, autoridad o entidad pública, los datos que estime necesarios para la integración de la averiguación previa, en la medida en que estos puedan aportar elementos para el debido ejercicio de sus atribuciones;
 
-Del impuesto sobre remuneraciones al trabajo personal no subordinado.
+VI.- Citar a toda persona que pueda aportar datos para la investigación de la comisión de delitos, ordenando su localización y presentación por conducto de la Policía Ministerial o de los cuerpos de seguridad que actúen en su auxilio, en el caso, de que no comparezcan voluntariamente, debiendo en todo momento respetar las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos;
 
-###### Artículo 9°.
+VII.- Asesorar al ofendido, asegurando el goce de sus derechos;
 
-Este impuesto se determinará en la forma siguiente:
+VIII.- Ordenar la detención de los indiciados cuando estén satisfechas las exigencias contenidas en el artículo 16 de la Constitución General de la República;
 
-I. Sobre los ingresos mensuales que perciban las personas físicas y jurídicas dedicados a los servicios profesionales de medicina, veterinarios o dentistas, y sobre los obtenidos por personas que, sin laborar bajo la dirección de un tercero, realicen directa e indirectamente trabajos o servicios profesionales, cualquiera que sea el nombre con el que se les designe, los motivos que lo produzcan, o las actividades que lo originen, siempre y cuando estén exentos del Impuesto al Valor Agregado, quedando incluidos los ingresos por honorarios asimilables a salarios y los que perciban los agentes de seguros por el ramo de vida y agropecuarios, en forma habitual o eventual, el: 3.0 %
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-II. Sobre los ingresos que obtengan los administradores únicos, los miembros de consejo de administración, de vigilancia o cualquier otro de naturaleza análoga, ya sea en forma habitual o eventual, el: 4.0 %
+IX.- Solicitar del órgano jurisdiccional la aplicación de las medidas precautorias de arraigo y las órdenes de cateo y de protección, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en el Código de Procedimientos Penales para el Estado;
 
-Las tasas de las fracciones anteriores se aplicarán a la base que para este impuesto determina la Ley de Hacienda del Estado de Jalisco.
+X.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
-###### Artículo 10.
+XI.- Conceder la libertad provisional al indiciado en los términos establecidos en los artículos 108 y 122 del Código de Procedimientos Penales para el Estado de Baja California;
 
-Este impuesto se causará y pagará de acuerdo con las siguientes tasas y tarifas, sobre el valor de cada operación:
+XII.- Asegurar en sus derechos al ofendido o restituirlo en el goce de los mismos, en términos del artículo 144 del Código de Procedimientos Penales para el Estado de Baja California;
 
-I. La adjudicación: 2.0 %
+XIII.- Designar tutor dativo al ofendido en caso de tratarse de incapaz, en términos del artículo 229 del Código de procedimientos Penales para el Estado;
 
-II. La transmisión o promesa de cesión de derechos fiduciarios: 2.0 %
+XIV.- Acordar la reserva en trámite que proceda, de acuerdo con la Ley adjetiva penal;
 
-III. La cesión y transmisión de derechos: hereditarios, de crédito, litigiosos y los derivados de la ejecución de sentencia: 2.0 %
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-IV. La transmisión de derechos relativos a palcos, butacas o plateas: 2.0 %
+XV.- Acordar el ejercicio o no ejercicio de la acción penal, en los casos y conforme a lo establecido en el Código de Procedimientos Penales, así como el ejercicio o no ejercicio de acción de remisión, de conformidad con la Ley de Justicia para Adolescentes del Estado de Baja California;
 
-V. Los actos constitutivos del fideicomiso, así como los actos de ejecución de los mismos: 2.0%
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-VI. La disolución o liquidación de la copropiedad por lo que respecta a los excedentes del valor que le correspondería a la porción de cada propietario: 2.0%
+XVI.- Ordenar notificar al denunciante o querellante, los acuerdos en los que se dicte el no ejercicio de la acción penal; o acción de remisión, a fin de que estén en posibilidad de interponer el Recurso de Revisión de conformidad a lo qué establezca la Ley;
 
-VII. La disolución o liquidación de la sociedad conyugal o sociedad legal, por lo que respecta a los excedentes del valor que le correspondería a la porción de cada cónyuge: 2.0%
+XVII.- Dictar las medidas pertinentes para preservar las huellas, instrumentos y objetos del delito, de conformidad a lo dispuesto para el caso, en el Código de Procedimientos Penales para el Estado;
 
-VIII. La enajenación, cesión o donación de acciones o partes sociales: 2.0%
+XVIII.- Proceder a la detención de los probables responsables en los casos de flagrante delito, de conformidad a las disposiciones legales;
 
-IX. En las demás operaciones de actos o contratos en los que se enajenen o transmitan bienes muebles o derechos sobre los mismos, no contenidas en las fracciones anteriores, el: 2.0%
+XIX.- Dictar las medidas pertinentes para proporcionar auxilio y seguridad a las víctimas de la comisión de delitos, y
 
-Si al aplicar las tasas anteriores resulta un impuesto inferior a $105.00, se cobrará esta cantidad.
+XX.- Notificar a solicitud del inculpado, la resolución de archivo definitivo que se derive de la averiguación previa, conforme a las reglas de notificación previstas en el artículo 43 de esta Ley.
 
-#### SECCIÓN SEGUNDA
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Del impuesto sobre la adquisición de vehículos automotores usados.
+B) En la consignación y durante el proceso penal o de justicia para adolescentes:
 
-###### Artículo 11.
+I.- Iniciar el proceso penal;
 
-Este impuesto se determinará sobre la base que establece la Ley de Hacienda del Estado, conforme a la siguiente tarifa:
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Límite inferior Límite superior Cuota fija Tasa para
+II.- Ejercitar la acción penal ante los Juzgados competentes por los delitos del orden común, siempre que exista denuncia o querella, estén comprobados los elementos del tipo penal y la probable responsabilidad de quienes en ellos hubieren intervenido, solicitando las correspondientes órdenes de aprehensión, o de comparecencia; asimismo ejercitar la acción de remisión en los términos de la Ley en materia de Justicia para adolescentes;
 
-aplicarse
+III.- Solicitar en los términos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y del Código de Procedimientos Penales para el Estado, las órdenes de cateo y de arraigo que sean necesarias;
 
-sobre el
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-excedente
+IV.- Vigilar que tratándose de personas menores de dieciocho años de edad o de personas que no tengan la capacidad para comprender el significado del hecho, se dé cumplimiento a lo establecido en el artículo 247 del Código de Procedimientos Penales para el Estado de Baja California;
 
-del límite
+V.- Poner a disposición del Juez que corresponda, a las personas detenidas en cumplimiento a lo señalado por los párrafos tercero y séptimo del artículo 16 de la Constitución General de la República;
 
-inferior
+VI.- Promover el embargo precautorio de bienes para los efectos de la reparación del daño, salvo el caso de que éste se encontrare garantizado;
 
-$ 0.01 $ 35,000.00 $ 0.00 2.0%
+VII.- Aportar las pruebas pertinentes con el objeto de acreditar los elementos del tipo penal del delito y la probable responsabilidad, así como para efectos de la reparación de los daños y perjuicios causados, y la fijación del monto de esta reparación;
 
-$ 35,000.01 $ 56,906.21 $ 700.00 4.5%
+VIII.- Formular las conclusiones en los términos señalados en la Ley, solicitando la imposición de penas y medidas que correspondan, y el pago de la reparación del daño;
 
-$ 56,906.22 $ 97,210.17 $ 1,685.78 6.9%
+IX.- Impugnar en los términos previstos en la Ley, las resoluciones judiciales que a su juicio causen agravio a las personas cuya representación corresponda al Ministerio Público;
 
-$ 97,210.18 $ 160,918.28 $ 4,466.75 7.0%
+X.- Realizar las gestiones correspondientes, con el fin de que la Policía Ministerial ejecute las órdenes de aprehensión emitidas por el Juez competente;
 
-$ 160,918.29 En adelante $ 8,926.32 7.1%
+XI.- Promover lo conducente conforme a derecho, para el desarrollo de los procesos;
 
-#### SECCIÓN TERCERA
+XII.- Concurrir diariamente a los tribunales para oír y recibir las notificaciones correspondientes, así como acudir a las audiencias y diligencias que así lo requieran, y
 
-Del impuesto sobre hospedaje.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### Artículo 12.
+XIII.- Desistirse de la acción penal o de la acción de remisión, en los términos establecidos en el Código de Procedimientos Penales para el Estado, y en su caso, la Ley de Justicia para Adolescentes del Estado de Baja California.
 
-Este impuesto se determinará aplicando la tasa del 3.0% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-En relación a este impuesto, los municipios podrán constituir fideicomisos o suscribir convenios de colaboración con la Secretaría de la Hacienda Pública, a fin de que los ingresos derivados de este impuesto sean reintegrados a los mismos, conforme a los términos, lineamientos y condiciones que se establezcan en el mismo.
+C) En materia de Derechos Humanos:
 
-###### Artículo 13.
+I.- Promover y fomentar entre los servidores públicos de la Procuraduría, una cultura de respeto a los derechos humanos;
 
-La tarifa aplicable a este impuesto será la siguiente:
+II.- Atender las visitas, quejas, propuestas y recomendaciones de la Procuraduría de Derechos Humanos del Estado y de la Comisión Nacional de los Derechos Humanos, coordinándose en el ámbito de su competencia conforme a las normas legales establecidas, y
 
-Durante los meses de enero, febrero y marzo será la que resulte de multiplicar la tasa del 2.125% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+III.- Recibir las observaciones que formulen directamente los particulares en materia de derechos humanos, y darles debida atención.
 
-Durante los meses de abril, mayo y junio será la que resulte de multiplicar la tasa del 2.250% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Durante los meses de julio, agosto, septiembre, octubre, noviembre y diciembre será la que resulte de multiplicar la tasa del 2.50% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+D) En los asuntos del orden civil, familiar y mercantil:
 
-###### Artículo 14.
+I.- Intervenir en los casos en que legalmente proceda, en su carácter de representante social, ante los órganos jurisdiccionales para la protección de los intereses individuales y sociales en general, y
 
-La hacienda pública estatal percibirá los impuestos extraordinarios o de emergencia establecidos o que se establezcan por las leyes fiscales durante el ejercicio fiscal 2022, en la cuantía y sobre las fuentes impositivas que se determinen, y conforme al procedimiento que se señale para su recaudación, previa aprobación del Congreso del Estado.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-###### Artículo 15.
+II.- Coordinarse con instituciones públicas y privadas que tengan por objeto la asistencia social de personas menores de dieciocho años de edad y de personas que no tengan la capacidad para comprender el significado del hecho, para brindarles la atención debida e intervenir en los procedimientos judiciales conforme a las disposiciones legales aplicables, o cuando se encuentren en situaciones de daño o peligro.
 
-Los adeudos a las contribuciones señaladas en este Título, que conforme a las disposiciones fiscales generan el cobro de actualizaciones, recargos, multas, gastos de ejecución e indemnizaciones por cheques devueltos, serán clasificados contablemente como accesorios de los ingresos a que correspondan.
+E).- (DEROGADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)
 
-## TÍTULO TERCERO. Derechos
+I.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-###### Artículo 16.
+II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Por los servicios que presten las oficinas del Registro Público de la Propiedad y de Comercio, se causarán los derechos que se establecen en este capítulo, aplicando las tarifas correspondientes:
+III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-I. Por el registro de actos, contratos, inmatriculación de construcciones, títulos o resoluciones judiciales, así como aquellos en los que se transmita la propiedad de inmuebles, excedencias determinadas en diligencias de apeo y deslinde, incluidos fideicomisos o hipotecas, por cada uno, no obstante, se encuentren en un solo documento, escritura, acta o póliza mercantil:
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-a) Sobre el valor que resulte mayor entre el catastral, el comercial o el que se desprenda del contenido del documento a registrar, el: 0.50%
+V.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Tratándose de los actos o contratos relativos a la adquisición de inmuebles destinados a actividades industriales, sobre el valor que resulte mayor entre el consignado, el comercial o el que se desprenda del contenido del documento a registrar, se pagará el 0.35%
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Si al aplicar la tasa anterior, resulta un derecho inferior a $516.00, se cobrará esta cantidad.
+VII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Tratándose de vivienda económica se cobrarán 4 (cuatro) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022.
+VIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Se entiende por vivienda económica, aquella cuyo valor catastral no exceda de 15 (quince) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022 elevada al año.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-Tratándose de vivienda de interés social o popular y unifamiliar destinada a casa habitación, se cobrarán 5 (cinco) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022.
+F) En materia de atención a víctimas u ofendidos por el delito:
 
-En los demás tipos de vivienda destinados a casa habitación se cobrarán 41 (cuarenta y un) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022.
+I.- Proporcionar orientación y asesoría legal, así como propiciar su eficaz coadyuvancia en los procesos penales;
 
-Se entiende por vivienda de interés social individual, aquella cuyo valor catastral no exceda de 20 (veinte) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022 elevada al año.
+II.- Promover que se garantice y se haga efectiva la reparación del daño;
 
-Se entiende por vivienda popular y unifamiliar, aquella cuyo valor catastral no exceda de 30 (treinta) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022 elevada al año.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2009)</small>
 
-b) Por el registro de la construcción, si se trata de vivienda, se aplicará lo dispuesto en el inciso a) que antecede y, en cualquier otro caso, sobre la base a que se refiere el artículo 18 de esta Ley, el: 0.50%
+III.- Brindar asesoría a las mujeres víctimas de violencia en lo que concierne a la obtención de una orden de protección, ya sea emergente o preventiva;
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $516.00, se cobrará esta cantidad.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-c) La adjudicación de los bienes propiedad de sociedades o asociaciones a favor de los socios y asociados, sobre el valor de los bienes, el: 0.35%
+IV.- Concertar acciones con instituciones de asistencia médica y social, públicas o privadas, para efectos de cumplimentar el último párrafo del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos;
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $516.00, se cobrará esta cantidad.
+V.- Promover en instituciones públicas o privadas, atención psicológica a sujetos pasivos del delito, y
 
-d) Contratos de afianzamiento, se pagará sobre el valor consignado el: 0.50%
+VI.- Dictar las medidas y providencias pertinentes para proporcionar ayuda y auxilio a las víctimas de los delitos.
 
-e) Contratos de crédito refaccionario y de habilitación o avío que se otorgan para actividades agropecuarias:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-1. Otorgados a personas jurídicas, se les cobrará 28 (veintiocho) veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022.
+Asimismo, el Ministerio Público deberá vigilar que las víctimas u ofendidos del delito que sean personas menores de dieciocho años de edad, no sean obligados a carearse con el inculpado cuando se trate de los delitos de violación y secuestro. Lo anterior también será aplicable cuando dichas conductas sean cometidas por adolescentes de conformidad con la Ley de la materia.
 
-2. Otorgados a personas físicas: Exento
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-f) Registro de escrituras constitutivas de sociedades mercantiles, sociedades y asociaciones civiles y fundaciones, el aumento y disminución de capital social, fusión, escisión de sociedades: $2,636.00
+G) En materia de servicios a la comunidad:
 
-g) Por cada inscripción, incluyendo registro de sentencias judiciales, que no represente interés pecuniario: $229.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-h) Registro de testimonios procedentes de otras entidades de la República: $5,731.00
+I.- Promover, desarrollar y ejecutar programas de colaboración con la comunidad, a fin de mejorar el servicio de la institución;
 
-La tarifa se aplicará sin excepción por cada uno de los actos, contratos, resoluciones o inmuebles a registrar, no obstante, se encuentren en un solo documento, escritura, acta o póliza mercantil.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-i) Por el registro de la constitución de patrimonio de familia: $194.00
+II.- Poner a disposición de la ciudadanía los programas necesarios a fin de proporcionar orientación jurídica a la población en general, para el mejor ejercicio de sus deberes y obligaciones;
 
-j) Por cada inscripción, modificación, transmisión, renovación o cancelación de garantías mobiliarias: $171.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-k) Por transmisión de partes sociales de personas jurídicas de carácter civil, sobre el valor transmitido el: 0.50%
+III.- Promover, desarrollar y ejecutar acciones que mejoren la atención por parte de los servidores públicos de la Procuraduría a la comunidad;
 
-Si al aplicar la tasa anterior resulta un derecho inferior a $516.00, se cobrará ésta cantidad.
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-Ningún pago de derechos que se derive de aplicar lo dispuesto en esta fracción, por servicio individual prestado, podrá ser mayor a $74,469.00.
+V.- En general, todas aquellas atribuciones que de acuerdo a las leyes y reglamentos, corresponda a la institución del Ministerio Público.
 
-El tope anterior se aplicará por cada uno de los actos, contratos o resoluciones a registrar, no obstante, se encuentren en un solo documento, escritura, acta o póliza mercantil.
+### CAPITULO II. DE LAS BASES DE LA ORGANIZACIÓN
 
-II. Por registro de estatutos de persona moral extranjera: $8,682.00
+###### ARTÍCULO 4.
 
-III. Por el registro de acciones urbanísticas, como subdivisiones o fusiones, entre otras, ejecutadas en predios, lotes o manzanas:
+La Procuraduría General de Justicia en el Estado estará a cargo del Procurador General de Justicia, quien será titular de la institución del Ministerio Público, y ejercerá autoridad jerárquica sobre todo el personal de la Procuraduría.
 
-a) Por cada lote o fracción: $171.00
+Para el ejercicio de sus atribuciones, funciones y despacho de los asuntos de su competencia, la Procuraduría se auxiliará de las siguientes unidades y servidores públicos:
 
-b) En las relotificaciones, por cada lote o fracción: $171.00
+I.- Procurador General de Justicia;
 
-IV. Por cancelación de inscripción, así como sus derechos accesorios o derivados, por cada una: $180.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Se pagarán las tasas o cuotas anteriores, independientemente del cobro de derechos por las anotaciones y cancelaciones que se originen como consecuencia del registro de documentos.
+II.- Dirección Jurídica;
 
-V. Por cada anotación, así como de sus accesorios o derivados consecuencia del registro de actos, contratos, cancelaciones o resoluciones judiciales: $459.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VI. Por expedición de constancias de registro:
+III.- Dirección de Asuntos Internos y Contraloría;
 
-a) Certificados de libertad o gravamen, por cada inmueble: $557.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-b) Certificados con firma electrónica de libertad o gravamen, así como de la base de datos estatal, por cada inmueble: $557.00
+IV.- Dirección Administrativa;
 
-c) Certificado de la Base de Datos Estatal de Libertad o Gravamen, por cada inmueble, incluyendo el servicio de búsqueda por folio electrónico: $770.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-d) Certificado de libertad o gravamen con historial hasta por 20 veinte años: $653.00
+V.- Dirección del Instituto de Capacitación Profesional;
 
-e) De más de 20 (veinte años), por cada año excedente: $75.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-f) Validación de certificados de libertad o gravamen, por cada uno: $551.00
+VI.- Dirección de Servicios Periciales;
 
-g) Certificado de libertad o gravamen:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-1. Con aviso cautelar inserto: $641.00
+VII.- Dirección Estatal de la Policía Ministerial;
 
-2. Con cancelación de aviso cautelar inserto: $646.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-3. Con cancelación de aviso cautelar inserto e inscripción de nuevo cautelar: $730.00
+VIII.- Dirección de Averiguaciones Previas;
 
-h) Certificado con firma electrónica de libertad o gravamen con aviso cautelar inserto: $613.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Las personas pensionadas, jubiladas, con discapacidad o adultos mayores de 65 años de edad en adelante, que sean titulares del inmueble y las personas físicas que obtengan algún crédito del Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), Instituto de Pensiones del Estado de Jalisco (IPEJAL), Instituto Mexicano del Seguro Social (IMSS) o Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), que presenten constancias de este hecho y que sea vivienda de interés social individual, respecto de los certificados de los incisos a), b), c), d), e), f) y g) quedarán exentos de pago.
+IX.- Dirección de Atención a Víctimas del Delito;
 
-i) Certificados de uso de suelo que se expidan a parte interesada con motivo de la observancia del Código Urbano para el Estado de Jalisco: $340.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-j) Certificados de inscripción o no inscripción, por cada inmueble, persona física o moral: $557.00
+X.- Dirección de Control de Procesos;
 
-k) Certificados relativos a sociedades, asociaciones y fundaciones, por cada uno de ellos:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-1. Certificado libre de gravamen: $551.00
+XI.- Unidad de Control y Seguimiento;
 
-2. Certificado hasta dos gravámenes: $661.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-3. De tres o más gravámenes: $792.00
+XII.- Subprocuradurías de Zona de la Policía Ministerial;
 
-l) Informes sobre antecedentes en libros o documentos, por cada uno:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-1. Por búsquedas simples: $125.00
+XIII.- Comandancias de Zona de la Policía Ministerial;
 
-2. Por búsqueda conforme al historial catastral: $341.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-3. Por historial mercantil de hasta tres actos inscritos: $685.00
+XIV.- Agencias del Ministerio Público;
 
-3.1. Por cada acto inscrito excedente de 3, en el historial mercantil: $48.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-4. Por informe de testamento ológrafo: $125.00
+XV.- Jefaturas de Grupo de la Policía Ministerial;
 
-m) Certificación de documentos:
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2004)</small>
 
-1. De copias fotostáticas certificadas, hasta 10 fojas: $449.00
+XVI.- Subprocuraduría Contra la Delincuencia Organizada;
 
-2. Por impresión de folio mercantil o real, por cada movimiento: $47.00
+XVII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-3. Por cada foja excedente de 10 (diez): $12.00
+XVIII.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-4. En fotostáticas de planos por cada uno: $171.00
+XIX.- Las demás unidades y servidores públicos que legalmente establezca el Procurador, y asimismo los que señale esta ley y su reglamento, el cual precisará las atribuciones que le correspondan.
 
-n) Por expedición de certificaciones de garantías mobiliarias, por cada una: $171.00
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2005)</small>
 
-VII. Por ratificación de firmas realizadas ante el registrador, por cada compareciente o por cada contrato o acto jurídico: $639.00
+###### ARTÍCULO 5.
 
-En caso de personas físicas con actividades agropecuarias para créditos refaccionarios o de habilitación o avío, este servicio estará exento.
+Operarán bajo el régimen de desconcentración pero directamente subordinadas al Procurador, cinco Subprocuradurías de Zona con sus respectivas jurisdicciones territoriales; asentadas en los municipios de Mexicali; de Tijuana; de Tecate; de Playas de Rosarito y Ensenada. Cada Subprocuraduría de Zona podrá contar con una Dirección de Averiguaciones Previas, una Dirección de Control de Procesos, un Comandante de Zona y la estructura de servidores públicos necesarios para el cumplimiento de sus atribuciones en función de las necesidades y naturaleza del servicio a prestar y atendiendo a las características propias de la misma.
 
-VIII. Por depósito de testamento ológrafo: $326.00
+En cada Subprocuraduría de Zona operarán las Agencias del Ministerio Público Investigadoras por razón de la materia, en el número y clasificación que se requieran, conforme a la incidencia delictiva.
 
-IX. Por la inscripción de contratos de opción y carta intención: $241.00
+De conformidad con las necesidades del servicio, el Procurador podrá establecer oficinas de la Procuraduría y Agencias del Ministerio Público, que se requieran de acuerdo con las disponibilidades presupuestales.
 
-X. Por las inscripciones de compraventa mobiliaria, contratos de prenda, sobre el valor de operación: 0.40%
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2004)</small>
 
-XI. La consulta de folios registrales a través de Internet por cada folio: $117.00
+Las Subprocuradurías de Zona deberán auxiliar a la Subprocuraduría Contra la Delincuencia Organizada para el cumplimiento de sus atribuciones.
 
-XII. Por legajo de copias de formas precodificadas impresas en el Sistema de Gestión Registral del Registro Público de Comercio, por movimiento:
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2004)</small>
 
-1.- Hasta 10 Copias Simples: $48.00
+###### ARTÍCULO 5 Bis.
 
-2.- Por cada copia simple excedente de 10: $8.00
+La Subprocuraduría Contra la Delincuencia Organizada, contará con las atribuciones que establece la Ley Contra la Delincuencia Organizada del Estado de Baja California, esta Ley y su reglamento, y ejercerá su jurisdicción en el territorio del Estado.
 
-3.- Hasta 10 Copias Certificadas: $454.00
+El Subprocurador Contra la Delincuencia Organizada tendrá las mismas facultades y obligaciones que se establecen para los Subprocuradores de Zona en el artículo 21 de esta Ley.
 
-4.- Por cada copia certificada excedente de 10: $13.00
+Deberá reunir los requisitos que se prevén en el artículo 10 de esta Ley, para ocupar el cargo de Subprocurador.
 
-XIII. Alertas Registrales:
+Los perfiles y requisitos que deberán satisfacer los demás servidores públicos que integren la Subprocuraduría Contra la Delincuencia Organizada, serán los establecidos por el Reglamento de esta Ley.
 
-Por suscripción anual por inmueble: $450.00
+La Subprocuraduría Contra la Delincuencia Organizada, contará con la estructura y servidores públicos necesarios para el cumplimiento de sus atribuciones, de conformidad a lo establecido por el Reglamento de esta Ley.
 
-XIV. Otros servicios, por cada uno: $172.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-No causarán derechos las copias que se agreguen al documento que se inscriba.
+###### ARTÍCULO 6.
 
-A solicitud del interesado, los servicios que señala el presente artículo se autorizarán urgentes, en un plazo no mayor a 24 (veinticuatro) horas, previa revisión del documento, cobrando en este caso el doble de la cuota correspondiente. Tratándose de servicios exentos a que se refiere el artículo 28 fracción IV de la presente Ley, por este servicio urgente se cobrará dos veces la Unidad de Medida y Actualización vigente en el ejercicio fiscal 2022.
+Son Auxiliares del Ministerio Público:
 
-Para el registro de actos jurídicos por medio de Internet, el pago se realizará a través de una cuenta de pago seguro y el costo del servicio será de acuerdo a las tarifas establecidas en esta Ley.
+I.- La Policía Ministerial;
 
-El pago por la expedición de certificados con entrega a domicilio, se hará agregando además del pago que corresponde a dicho servicio, el del servicio de mensajería que corresponda al área de entrega.
+II.- Las Unidades de Servicios Periciales;
 
-### CAPÍTULO III. Del impuesto sobre nóminas
+III.- Los Cuerpos de Seguridad Estatal;
 
-#### SECCIÓN ÚNICA
+IV.- Las autoridades investigadoras y persecutoras de los demás Estados y la Federación, en los términos de los convenios de cooperación que se celebren;
 
-Del impuesto sobre nóminas.
+V.- Los Médicos Legistas, del Servicio Médico Forense.
 
-###### Artículo 17.
+La Policía Ministerial actuará bajo la autoridad y mando inmediato del Ministerio Público, en los términos del artículo 21 de la Constitución General de la República, al igual que la Unidad de Servicios Periciales; sin perjuicio de la autonomía técnica e independencia de criterio que le corresponde en el estudio de los asuntos que se sometan a su dictamen.
 
-En los casos de permuta de inmuebles o de derechos reales, los derechos de registro se causarán conforme al inciso a) de la fracción I del artículo 16 de esta Ley, sobre el valor de cada uno de los inmuebles o derechos reales permutados.
+### CAPITULO III. DE LOS NOMBRAMIENTOS
 
-Por la inscripción o reinscripción de providencias precautorias, embargos y aseguramientos, sobre el monto total de lo reclamado o, en su defecto, sobre el valor catastral del inmueble sujeto a embargo, se cobrará el 0.50% sin que exceda de: $74,469.00
+###### ARTÍCULO 7.
 
-Si al aplicar las tasas anteriores, resulta un derecho inferior a $516.00, se cobrará esta cantidad.
+Para ocupar el cargo de Procurador General de Justicia en el Estado de Baja California, se requiere:
 
-###### Artículo 18.
+I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
-En la constitución del Régimen de Condominio sobre Inmuebles, conforme al Código Civil del Estado de Jalisco, la base para calcular el derecho a que se refiere el inciso a) de la fracción I del artículo 16 de esta Ley, para pago de los derechos de registro sobre cada bien, área o unidad privativa, pisos, departamentos, viviendas o locales, será la cantidad que arroje el valor del avalúo practicado por perito valuador acreditado o dictamen de valor efectuado por la autoridad catastral municipal correspondiente conforme a la Ley de Catastro Municipal del Estado de Jalisco, debiéndose valuar separadamente y comprendiéndose en dicha valuación la parte proporcional de los bienes comunes.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-Tratándose de la constitución del Régimen de Condominio de vivienda de interés social o popular y demás tipos destinada (sic) a casa habitación, los derechos que se generen conforme al párrafo anterior, serán de conformidad con el artículo 16 fracción I inciso a) de esta Ley.
+II.- Tener cuando menos treinta y cinco años de edad, y no más de sesenta y cinco, el día de la designación;
 
-###### Artículo 19.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-Cuando en una misma escritura o documento privado se consignen varios actos o contratos, además del principal, tales como reconocimiento de adeudo, sustitución de deudor, garantía prendaria o cualquier otro que, en alguna forma limite la propiedad, por su inscripción, se pagarán los derechos que causen cada uno de ellos.
+III.- Poseer el día de la designación con antigüedad mínima de diez años, título profesional de Licenciado en Derecho; expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado y por lo menos diez años de ejercicio profesional;
 
-###### Artículo 20.
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se le inhabilitará para el cargo cualquiera que haya sido la pena;
 
-Cuando un contrato o acto jurídico deba inscribirse en dos o más oficinas del Registro Público de la Propiedad y de Comercio, se podrá pagar indistintamente en cualquiera de las oficinas de recaudación fiscal la totalidad de los derechos.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-#### SECCIÓN SEGUNDA
+V.- Haber residido en el Estado durante los diez años anteriores al día de la designación;
 
-Del Archivo de Instrumentos Públicos y del Archivo Histórico de Jalisco.
+VI.- No haber ocupado el cargo de titular en una secretaría o el de Gobernador del Estado de Baja California, durante el año previo al día de la designación;
 
-###### Artículo 21.
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-Los servicios de anotación, expedición de testimonios, certificaciones, búsqueda de documentos y cualquier otro que de acuerdo a las leyes respectivas deba realizar el Archivo de Instrumentos Públicos, o los servicios que preste el Archivo Histórico de Jalisco, se causarán derechos conforme a la siguiente tarifa:
+VII.- Presentar programa integral de trabajo sobre la Procuración de Justicia en Baja California; y,
 
-I. Archivo de Instrumentos Públicos:
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2001)</small>
 
-a) Expedición de copias certificadas de documentos notariales, incluidos los Archivos Generales y Especiales de Tierras y Aguas: $746.00
+VIII.- Presentar examen de salud y antidoping de una Institución Pública de Salud.
 
-b) Por tildación y anotación en el margen del protocolo depositado en el archivo: $373.00
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
-c) Por autorizar y expedir testimonio de escritura: $980.00
+###### ARTÍCULO 8.
 
-d) Por contestación de información sobre la existencia o inexistencia de disposición testamentaria: $171.00
+El Gobernador del Estado conforme a los requisitos establecidos en el artículo 7 de esta ley, nombrará al Procurador General de Justicia del Estado.
 
-e) Fotocopia de documentos por hoja oficio o carta: $1.00
+###### ARTÍCULO 9.
 
-f) Digitalización de documentos por foja, plano o fotografía: $0.10
+El Procurador residirá en la Capital del Estado, pero realizará en el desempeño de sus funciones, cuantas visitas estime necesarias a las distintas dependencias de la Procuraduría.
 
-g) Transcripción de escrituras o documentos: $830.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-h) Recepción de avisos notariales de escrituras autorizadas de conformidad con la Ley de Notariado del Estado de Jalisco, por cada uno: $139.00
+###### ARTÍCULO 10.
 
-i) Por revisar, autorizar y firmar el aviso de transmisión patrimonial para trámite ante catastro municipal: $565.00
+Para ocupar el cargo de Subprocurador de Zona, Director de Asuntos Internos y Contraloría y Director Jurídico, se deberán cubrir los requisitos señalados en el artículo 7 en sus fracciones I, IV, V y VIII de esta Ley, deberá contar además con una edad mínima de treinta años, diez años de ejercicio profesional y poseer el día de la designación con antigüedad mínima de 10 años, título profesional de Licenciado en derecho expedido por la autoridad o institución legalmente facultada para ello debidamente registrado en el Departamento de Profesiones.
 
-j) Por la validación de escritura pública otorgadas ante la fe de notarios suspendidos o que ya fallecieron: $207.00
+Todos estos servidores públicos serán nombrados y removidos por el Gobernador a propuesta del Procurador, con excepción de los Directores de Averiguaciones Previas y Directores de Control de Procesos, quienes serán nombrados y removidos libremente por el Procurador.
 
-II. Cualquier otro servicio del Archivo de Instrumentos Públicos correspondientes a funciones notariales se cubrirá conforme al arancel de notarios.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-III. Archivo Histórico de Jalisco:
+###### ARTÍCULO 11.
 
-a) Por certificación de documentos históricos: $597.00
+Para ocupar el cargo de Director Administrativo, además de los requisitos (sic) I, IV, V, VI y VIII del artículo 7 de esta Ley, deberá contar con una edad mínima de treinta años y poseer con antigüedad mínima de cinco años título de Contador Público o carrera afín, expedido por la autoridad facultada para ello, y debidamente registrado ante el departamento de Profesiones.
 
-b) Fotocopia de documentos, por hoja oficio o carta: $1.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-c) Digitalización de documentos históricos por imagen: $1.00
+La Dirección Administrativa para el despacho de los asuntos que sean de su competencia, contará con las siguientes unidades:
 
-La consulta directa de documentos, así como tomar anotaciones, fotografiar o video grabar, serán gratuitas y por las veces sean requeridas, pero estarán sujetas a las necesidades (sic) servicio, horario y espacio físico de los archivos correspondientes.
+I.- Jefatura de Informática;
 
-La información solicitada en medios electrónicos no tendrá costo alguno siempre que no implique la digitalización de los documentos solicitados, en cuyo caso aplicarán las tarifas de las fracciones I inciso f) y III inciso c).
+II.- Jefatura de Recursos Humanos;
 
-#### SECCIÓN TERCERA
+III.- Jefatura de Recursos Materiales;
 
-De las Autorizaciones para el Ejercicio Profesional y Notarial.
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Por los servicios prestados por la Secretaría General de Gobierno que a continuación se indican, se causarán los derechos de acuerdo a la siguiente tarifa:
+Los titulares de estas unidades serán nombrados y removidos por el procurador, tomando en consideración las propuestas del Director Administrativo.
 
-I. Expedición de patente de aspirante para el ejercicio del notariado: $292.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-II. Por expedición de fíat para el ejercicio del notariado: $4,816.00
+###### ARTÍCULO 12.
 
-III. Por autorización de convenios de asociación, entre notarios públicos: $1,244.00
+La Unidad de Control y Seguimiento, estará a cargo de un Director, quien deberá reunir los requisitos de las fracciones I, IV, V, VI y VIII del Artículo 7 de esta Ley; deberá tener estudios profesionales con el grado de Licenciatura y un mínimo de treinta años, y tres años de ejercicio profesional, además ejercerá las siguientes atribuciones:
 
-IV. Por autorizaciones para el ejercicio profesional:
+I.- Dar control y seguimiento a las demandas ciudadanas, por lo que hace a los servicios de atención al público;
 
-a) Pasante: $100.00
+II.- Implementar los programas de actividades de la Procuraduría para el debido cumplimiento de acuerdos y resoluciones en materia de procuración de justicia;
 
-b) Provisional: $212.00
+III.- Establecer proyectos de modernización, mejora continua y automatización de procesos;
 
-c) Definitiva y posgrados: $650.00
+IV.- Participar en el diseño de instrumentos de planeación, para cada una de las Unidades de la Procuraduría, con el objeto de lograr la eficiencia en procuración de justicia; y,
 
-d) Profesionistas con vigencia temporal: $327.00
+V.- Las demás que le señale el Reglamento Interior de la Procuraduría.
 
-Por la reposición del documento que acredita las autorizaciones señaladas en la presente fracción, se pagarán $212.00 pesos.
+Para el despacho de los asuntos de su competencia contará con el personal técnico y administrativo que se requiera.
 
-Por la prórroga que se requiera de las autorizaciones señaladas en los incisos a) y b) de esta fracción, se pagarán:
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Pasante: $114.00
+###### ARTÍCULO 13.
 
-Provisional: $240.00
+Para el despacho de los asuntos de su competencia, la Dirección de Asuntos Internos y Contraloría, se apoyará en un Área de Responsabilidades, asimismo con un Jefe adscrito a cada Subprocuraduría de Zona, quienes serán nombrados y removidos libremente por el Procurador; a sugerencia del Director de Asuntos Internos y Contraloría. Los Jefes, adscritos a las Subprocuradurías de Zona, tendrán las atribuciones que les señale el Reglamento correspondiente.
 
-V. Por la autorización de libros de protocolo ordinario o abierto especial y de registro de certificaciones, por cada uno: $533.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-VI. Constancias de actualización y práctica profesional acreditadas por las agrupaciones de profesionistas: $101.00
+###### ARTÍCULO 14.
 
-VII. Registro de cursos de diplomados de colegios e instituciones: $847.00
+El Director de Servicios Periciales, deberá cumplir con los requisitos (sic) I, IV, V, VI y VIII del Artículo 7 de la presente Ley, tener un mínimo de treinta años, título profesional de Licenciatura debidamente registrado en el Departamento de Profesiones y por lo menos tres años de ejercicio profesional.
 
-VIII. Emisión de constancias de registro de profesionistas: $220.00
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IX. Registro de agrupaciones de profesionistas: $873.00
+###### ARTÍCULO 14 Bis.
 
-X. Registro de instituciones de educación: $9,738.00
+Para ser Director Estatal de la Policía Ministerial, se deberán de cumplir los requisitos (sic) I, IV, V, VI y VIII del artículo 7, de esta Ley, tener título profesional con grado de Licenciatura en Derecho debidamente registrado en el Departamento de Profesiones, un mínimo de treinta años y por lo menos tres años de ejercicio profesional.
 
-XI. Registro de nueva carrera en institución de educación: $2,118.00
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-#### SECCIÓN CUARTA
+###### ARTÍCULO 15.
 
-De los Servicios en el Ramo de Movilidad y Transporte.
+Para ser, Director de averiguaciones previas se deberán de cumplir los requisitos (sic) I, IV, V, VI y VIII del artículo 7, de esta Ley, tener título profesional con grado de Licenciatura en Derecho debidamente registrado en el Departamento de Profesiones, un mínimo de treinta años y por lo menos tres años de ejercicio profesional.
 
-###### Artículo 23.
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Por los servicios que preste la Secretaría de Transporte, la Secretaria de Seguridad y, en su caso, la Secretaría de la Hacienda Pública, se causarán derechos de acuerdo con la tarifa correspondiente:
+###### ARTÍCULO 15 Bis.
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 21 A LA 36.]</small>
+El Director Administrativo, Director del Instituto de Capacitación Profesional, Director de Servicios Periciales, Director de la Unidad de Control y Seguimiento y el Director de Atención a Víctimas del Delito serán nombrados y removidos libremente por el Procurador, previo acuerdo del Gobernador.
 
-###### Artículo 24.
+Debiendo el Director de Control de Procesos, Director del Instituto de Capacitación Profesional y el Director de atención a Víctimas del delito, cumplir con los requisitos (sic) I, IV, V, VI y VIII del Artículo 7 de esta Ley, tener un mínimo de treinta años, título profesional de Licenciatura y por lo menos cinco años de ejercicio profesional, y poseer el día de la designación con antigüedad mínima de diez años título profesional de Licenciado en Derecho expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado ante el Departamento de Profesiones.
 
-Se cancelará la tarjeta de circulación con que se haya dotado al vehículo automotor y eléctrico, cuando exista cambio de propietario, domicilio, número de motor, color, o por cualquier otra circunstancia que implique reposición de dicha tarjeta.
+Para ocupar el cargo de las Comandancias de Zona de la Policía Ministerial y de las Agencias del Ministerio Público se deberán cubrir los requisitos señalados en el artículo 7 en sus fracciones I, IV, V, VI y VIII de esta Ley, debiendo contar con una edad mínima de veinticinco años, Título profesional de Licenciado en Derecho expedido por la autoridad o institución legalmente facultada para ello, debidamente registrado ante el Departamento de Profesiones y contar por lo menos con tres años de ejercicio profesional.
 
-###### Artículo 25.
+###### ARTÍCULO 16.
 
-Por los servicios de guarda y custodia de vehículos, mercancía u objetos varios, en los depósitos administrados por la Secretaría de Administración, como una función de derecho público, se estarán a lo siguiente:
+Los requisitos mínimos de ingreso y nombramiento para los servidores públicos de la Procuraduría no especificados en esta Ley, deberán ser los siguientes:
 
-I. Por día que transcurra se causarán las siguientes tarifas:
+I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos políticos y civiles;
 
-a) Motocicleta, Bicicleta, Triciclo o Bicimoto: $25.00
+II.- Tener por lo menos dieciocho años de edad y máximo sesenta y cinco años, el día de su nombramiento;
 
-b) Automóviles tipo sedan y hatchback: $94.00
+III.- Haber concluido la enseñanza secundaria;
 
-c) Pick-up, Estaquitas, Combi, Blazer, Ram Charger, Explorer, Cherokee y similares: $115.00
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, se le inhabilitará para el cargo cualquiera que haya sido la pena;
 
-d) Estacas, 3 (tres) toneladas, Minibús y Vanette monta cargas, tractos agrícolas, remolque 3 toneladas: $142.00
+V.- Aprobar los exámenes de conocimientos que demuestren su capacidad para el eficiente desempeño laboral;
 
-e) Autobús urbano (normales), volteo, tractor sin remolque, midibuses, Camión tipo Torthon, Autobuses Urbanos “Ecológico”, mudanza, Rabón y casa rodante: $183.00
+VI.- Haber residido en el Estado durante los tres años anteriores al día de su designación, y
 
-f) Autobuses foráneos, de Cajas (remolques): $222.00
+VII.- Someterse a los exámenes médicos, físicos y clínicos que señalen los Reglamentos de la institución.
 
-g) Tractor con remolque (trailer): $281.00
+### CAPITULO IV. DE LA COMPETENCIA
 
-h) Motocarro y cuatrimoto: $82.00
+###### ARTÍCULO 17.
 
-i) Mercancía u objetos varios, por metro cúbico: $16.00
+Son facultades del Procurador General de Justicia del Estado, las siguientes:
 
-II. Por servicios relacionados a la guarda y custodia de bienes se causarán las siguientes tarifas:
+I.- Coordinar las actividades inherentes a la función del Ministerio Público en la entidad, y la operación de las unidades orgánicas que lo integran;
 
-a) Maniobras de grúa dentro del patio: $111.00
+II.- Acordar con el Gobernador los asuntos de la Procuraduría, proponiendo lo que estime conveniente para mejorar la procuración de justicia;
 
-b) Toma de calcas, por cada vehículo: $72.00
+III.- Proponer al Ejecutivo del Estado, los anteproyectos de leyes, reglamentos, decretos, acuerdos, convenios, acciones y mecanismos relativos a los asuntos de la competencia de la Procuraduría;
 
-c) Al propietario de cualquier unidad o bien mueble que se encuentre en los depósitos a cargo de la Secretaría de administración, al cual se le haya prestado el servicio de retiro total o de partes, o de movimientos o maniobras, por parte de los proveedores de grúas y transportistas: $183.00
+IV.- Conceder audiencias al público que lo solicite, para tratar asuntos relativos a la procuración de justicia;
 
-III. A los vehículos de servicio particular adaptados para personas con discapacidad inscritos ante el Sistema para el Desarrollo Integral de las Familias del Estado, se les otorgará un descuento del 50% por ciento.
+V.- Celebrar convenios de coordinación operativa y de cooperación técnica-científica con la Procuraduría General de Justicia de las entidades federativas y con la Procuraduría General de la República, así como con las demás dependencias, entidades y personas de los sectores social y privado que se estime conveniente, previo acuerdo con el Gobernador del Estado;
 
-IV. Quedan exentas del pago de los derechos a que se refiere el presente artículo:
+VI.- Exigir que se haga efectiva la responsabilidad en que incurran los funcionarios y empleados de la Administración Pública en el Estado, por los delitos oficiales que se cometan;
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2022)</small>
+VII.- Investigar de oficio o por medio de denuncia, los casos de enriquecimiento indebido de los funcionarios y empleados públicos, y ejercitar la acción penal en su contra cuando esta proceda;
 
-a) Las personas físicas propietarias de vehículos que hayan sido objeto de robo o producto de secuestro, en el Estado de Jalisco, recuperados por cualquier autoridad y asegurados en los depósitos administrados por la Secretaría de Administración. De darse el cambio de propietario después de haberse cometido y denunciado el robo, no aplicará la exención mencionada en este inciso;
+VIII.- Poner en conocimiento del Consejo de la Judicatura del Poder Judicial del Estado, las irregularidades que adviertan o se denuncien en los Juzgados o dependencias judiciales, para que se adopten las medidas pertinentes, y en caso de responsabilidad, promueva lo conducente;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2022)</small>
+IX.- Emitir dictamen en los casos en que el Ministerio Público formule conclusiones no acusatorias, y en los casos previstos en el Código de Procedimientos Penales para el Estado;
 
-b) Las personas propietarias de vehículos, que no tengan responsabilidad en el hecho de tránsito terrestre en el que se vean involucrados, de acuerdo a la determinación de la autoridad competente;
+X.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-(REFORMADO Y REUBICADO [N. DE E. ANTES INCISO B.), P.O. 30 DE JUNIO DE 2022)
+XI.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-c) Las personas físicas propietarias de los bienes que son sujetos al procedimiento administrativo en materia aduanera, que se dejen sin efectos por autoridad administrativa o jurisdiccional competente; y
+XII.- Tomar las medidas necesarias y dictar las providencias respectivas, a fin de que los servidores públicos de la Procuraduría desempeñen con exactitud y diligencia, sus funciones;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO ANTES INCISO C.], P.O. 30 DE JUNIO DE 2022)</small>
+XIII.- Dictar las medidas tendientes a unificar la acción del Ministerio Público;
 
-d) Tratándose de instituciones de asistencia social privada, legalmente reconocidas por la Secretaría del Sistema de Asistencia Social, siempre y cuando las causas que motiven la detención del vehículo no sean imputables a sus empleados o por delito culposo.
+XIV.- Intervenir personalmente ante el Pleno del Tribunal Superior de Justicia del Estado, teniendo únicamente voz; y por medio de los Subprocuradores o Agentes del Ministerio Público que designe ante las Salas del mismo;
 
-La exención para los incisos que anteceden aplicará hasta 15 días hábiles posteriores a la fecha de liberación del vehículo, mercancía u objeto de que se trate, que se encontraban en los depósitos administrados por la Secretaría de Administración. Una vez transcurrido dicho plazo, quedará sin efectos la exención, generándose la obligación de pago del derecho en los términos de este artículo.
+XV.- Presidir el Consejo Interno de la Procuraduría;
 
-En el caso de que los propietarios de bienes puestos en depósito que adeuden 180 días o más por servicios de guarda y custodia, sin que hayan efectuado el pago de las contraprestaciones establecidas en el presente artículo, la Secretaría de Administración procederá a formular la liquidación correspondiente. Los propietarios de bienes deberán efectuar el pago dentro de los quince días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
+XVI.- Participar con voz y voto en el Consejo Interno de la Procuraduría, y
 
-Transcurrido el plazo señalado en el párrafo anterior sin que se hubiera efectuado el pago la Secretaría de la Hacienda Pública dará inicio al procedimiento administrativo de ejecución.
+XVII.- Las demás que le encomiende el Gobernador y le señalen las leyes y reglamentos.
 
-Serán excluidos del procedimiento de remate los vehículos que se encuentren a disposición de autoridades jurisdiccionales y que de acuerdo a los procedimientos respectivos no sea posible llevar a cabo su enajenación.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Las contribuciones que se generen una vez iniciado el procedimiento administrativo de ejecución, incluyendo cualquier otro adeudo, se harán efectivos, junto con el crédito inicial, en términos de lo establecido por el artículo 130 del Código Fiscal del Estado de Jalisco.
+###### ARTÍCULO 18.
 
-#### SECCIÓN QUINTA
+Compete a la Dirección Jurídica, el ejercicio de las siguientes atribuciones:
 
-De las Certificaciones, Expediciones de Constancias y Servicios.
+I.- Formular y poner a consideración del Procurador, los informes previos y justificados, así como toda clase de promociones y recursos que deban presentarse e interponerse en los juicios de amparo, tramitados contra actos de los servidores de la Procuraduría en ejercicio de sus funciones;
 
-###### Artículo 26.
+II.- Vigilar que los pedimentos que se hagan a la institución se realicen con apego a derecho, y que las vistas se desahoguen dentro de los plazos y términos legales;
 
-Las certificaciones en sus diversas formas, la expedición de constancias y otros servicios que realicen las autoridades judiciales o administrativas, causarán el pago de derechos que se consigna en la siguiente tarifa:
+III.- Revisar las determinaciones de no ejercicio de la acción penal y de archivo definitivo, por delegación del Procurador;
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 47.]</small>
+IV.- Realizar dictámenes sobre asuntos de carácter jurídico que se reciban para su revisión y consulta;
 
-Cualquier otro servicio de autoridad se pagará conforme a las leyes especiales que lo reglamenten.
+V.- Mantener informado al Procurador, del estado que guardan los asuntos que por su importancia y trascendencia requieran de su atención personal;
 
-Los documentos solicitados se entregarán en un plazo hasta de 4 (cuatro) días, contados a partir del día siguiente a la fecha de recepción de la solicitud, acompañada del recibo de pago correspondiente, excepto en los servicios que presta el Registro Civil en que los documentos solicitados se entregarán en 60 (sesenta) minutos.
+VI.- Realizar proyectos de conclusiones ministeriales por delegación de Procurador, en los casos y términos que establece el Código de Procedimientos Penales del Estado; y,
 
-A petición del interesado dichos documentos se entregarán en un plazo no mayor de 24 (veinticuatro) horas, cobrándose el doble de la cuota correspondiente con excepción de los servicios que presta el Registro Civil, al cual no se aplicará este párrafo.
+VII.- Las demás que señale el Reglamento Interior de esta Ley.
 
-A petición del interesado los documentos de apostilla y legalización se entregarán en un plazo no mayor de 6 (seis) horas, cobrándose el triple de la cuota correspondiente.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 27.
+###### ARTÍCULO 19.
 
-En los casos en que las autoridades fiscales del Estado, requieran que se efectúe la inscripción de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta instauración del procedimiento administrativo de ejecución o de cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hubieren originado o, en su caso, cuando la autoridad tenga el pago en cantidad líquida, por cualquiera de las formas permitidas por las leyes.
+La Dirección de Atención a Víctimas del Delito, tendrá las siguientes atribuciones:
 
-###### Artículo 28.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-Se encuentran exentos del pago de derechos:
+I.- Proporcionar orientación y asesoría legal, a víctimas del delito, así como propiciar su eficaz coadyuvancia en los procesos penales, y en la obtención de las órdenes de protección;
 
-I. Las certificaciones o copias certificadas, cuando se expidan:
+II.- Promover que se garantice y se haga efectiva la reparación del daño;
 
-a) Por las autoridades, siempre y cuando no sea a petición de parte;
+III.- Concertar acciones con instituciones de asistencia médica, social, públicas o privadas, para efectos de cumplimentar lo dispuesto en el Artículo 20 de la Constitución General de la República; y,
 
-b) Por los tribunales del trabajo, cuando se trate del proceso del derecho del trabajo, los penales o el ministerio público, cuando éste actúe en el orden penal, así como las que estén destinadas a exhibirse ante estas autoridades o las que se expidan para el juicio de amparo;
+IV.- Las demás que señale el Reglamento Interior de esta Ley.
 
-c) Para probar hechos relacionados con las demandas de indemnización civil proveniente de delito;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-d) Por las autoridades en el ramo de educación, a petición de instituciones iguales y penitenciarias;
+###### ARTÍCULO 20.
 
-e) Para los juicios de alimentos cuando sean solicitados por el acreedor alimentista, así como aquellos en los que intervienen menores, adultos mayores o personas con discapacidad;
+El Director de Asuntos Internos y Contraloría, dependerá directamente del Procurador, auxiliándose del personal técnico y administrativo que se determine por acuerdo del Procurador, y conforme a las necesidades del servicio.
 
-f) Para ser utilizadas en juicios o trámites de cualquier índole, que sean patrocinados por la Procuraduría Social del Estado a personas de escasos recursos; y
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-g) Por la Dirección General del Registro Civil, tratándose de las copias de las actas del registro de nacimiento que se soliciten para trámites escolares de nivel preescolar, básico y medio superior.
+Compete al titular de la Dirección de Asuntos Internos y Contraloría:
 
-II. Las certificaciones que asienten en los expedientes los Secretarios de los Tribunales, sobre hechos o actos ocurridos en la tramitación de los juicios;
+I.- Realizar a petición de parte o de manera oficiosa, visitas de inspección y revisión a las distintas unidades orgánicas de la institución; verificando desde el punto de vista legal, técnico y administrativo, que los servidores públicos de la institución cumplan con las políticas operativas, ordenamientos en vigor y criterios normativos establecidos para mejorar el servicio, informando al Procurador de las observaciones y recomendaciones conducentes, y en su caso, estableciendo las medidas adecuadas para su cumplimiento;
 
-III. Los servicios a que se refiere el Capítulo I, Sección Primera, del presente Título, cuando:
+II.- Establecer, controlar, evaluar y dar trámite a los procedimientos de recepción, atención y seguimiento de las quejas y denuncias que se presenten en contra de los servidores públicos de la Procuraduría, iniciando la investigación correspondiente de conformidad con los lineamientos legales y reglamentarios;
 
-a) Se deriven de actos, contratos y operaciones celebrados con la participación directa en los mismos, de organismos públicos de seguridad social, autoridades del trabajo o del Instituto Nacional del Suelo Sustentable (antes Comisión para la Regularización de la Tenencia de la Tierra) y del Poder Ejecutivo Federal, Estatal y del Gobierno Municipal, así como los que tengan su origen en el juicio de alimentos, siempre y cuando sean solicitados por el acreedor alimentista; exceptuándose los trámites que sean para el procedimiento administrativo de ejecución.
+III.- Formular las actas, recomendaciones e instrucciones de los servidores públicos de la institución que sean procedentes, por irregularidades descubiertas en el ejercicio de sus funciones, y en su caso; dictar y ejecutar lo que corresponda conforme a derecho;
 
-Se entiende como participación directa, cuando los organismos públicos referidos en el párrafo anterior figuren como adquirentes u otorguen créditos a sujetos de seguridad social.
+IV.- Sugerir las medidas necesarias para reducir la incidencia de faltas administrativas entre los servidores públicos de la institución, implementando los mecanismos adecuados y aplicando cuando sea necesario, las sanciones correspondientes;
 
-b) La misma exención aplicará para los servicios que se deriven de actos, contratos y operaciones celebrados por las sociedades financieras de objeto múltiple e instituciones de banca múltiple, para la promoción, adquisición y financiamiento de vivienda de interés social, en ejecución de los programas de organismos de seguridad social, de la federación o del Estado; y
+V.- Participar con voz y voto, en los Comités de Reclutamiento, Selección e Ingreso, Evaluación y Supervisión y en el de Estímulos y Ascensos de la Procuraduría;
 
-IV. Los servicios a que se refiere la fracción I inciso h) del artículo 21, cuando se deriven de actos, contratos y operaciones celebrados con la participación directa en los mismos, de organismos públicos de seguridad social, autoridades del trabajo o del Instituto Nacional del Suelo sustentable (antes Comisión para la Regularización de la Tenencia de la Tierra) y de la Federación, Estado o Municipios.
+VI.- Substanciar y resolver los procedimientos de responsabilidad, e imponer las medidas y sanciones correspondientes a los servidores públicos de la Procuraduría, que incurran en las causas de responsabilidad establecidas en esta Ley; así como en las demás disposiciones legales aplicables, vigilando además su debido cumplimiento;
 
-###### Artículo 29.
+VII.- Integrar, determinar y consignar la averiguación previa, en su caso; en aquellos supuestos en que con motivo de sus funciones, apareciere la probable comisión de un delito por parte de los servidores públicos de la Procuraduría, y
 
-Por otros servicios diversos, se causarán derechos de conformidad con los siguientes supuestos y tarifas:
+VIII.- Las demás que le sean encomendadas por el Procurador, y le señalen las Leyes y Reglamentos.
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 50 A LA 52.]</small>
+###### ARTÍCULO 21.
 
-###### Artículo 30.
+Compete a los Subprocuradores de Zona:
 
-Por el servicio de la evaluación de impacto ambiental a que se refiere la Ley Estatal del Equilibrio Ecológico y Protección al Ambiente y su Reglamento en materia de Impacto Ambiental, Explotación de Bancos en Material Geológico, Yacimientos Pétreos y de Prevención y Control de la Contaminación a la Atmósfera generada por fuentes Fijas en el Estado, se pagarán los derechos de prevención y mitigación del impacto ambiental conforme a las siguientes cuotas:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I. Informe preventivo de impacto ambiental: 10,999.00
+I.- Acordar con el Procurador, el despacho de los asuntos de su competencia y de las unidades administrativas a su cargo;
 
-II. Estudio de impacto ambiental:
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-a) En su modalidad general: $16,057.00
+II.- Desempeñar las funciones y comisiones que el Procurador le encomiende, informando sobre el desarrollo de las mismas;
 
-b) En su modalidad intermedia: $17,054.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-c) En su modalidad específica: $17,815.00
+III.- Planear, coordinar y evaluar las actividades de las unidades administrativas a su cargo, de conformidad con los lineamientos que determine para este caso, el Procurador, esta Ley, su Reglamento, y demás disposiciones aplicables;
 
-III. Solicitud de exención en materia de impacto ambiental: $6,950.00
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV. Solicitud de opinión técnica en materia de impacto ambiental: $6,950.00
+IV.- Someter a consideración del Procurador, la organización interna de las unidades administrativas de su adscripción, así como los procedimientos administrativos y las normas de coordinación y operación, de conformidad con las disposiciones legales y reglamentarias;
 
-Por la evaluación de la viabilidad de las solicitudes de modificaciones, prórrogas o ampliaciones de la vigencia de los dictámenes generados a partir de la evaluación de los documentos señalados con antelación, se pagará el 50% de las cuotas establecidas en el presente artículo.
+V.- Transmitir al personal a su cargo, las instrucciones generales y especiales para el cumplimiento de sus atribuciones y funciones, para lograr la unidad de acción del Ministerio Público, vigilando su debido cumplimiento;
 
-Asimismo, se exceptuará de pago de las cuotas señaladas en el presente artículo, a los promoventes que acrediten contar con certificación vigente dentro del Programa de Cumplimiento Ambiental Voluntario de la Secretaría de Medio Ambiente y Desarrollo Territorial, del establecimiento en el que se pretenda llevar a cabo la obra o actividad a que se refiera la solicitud de servicio de la evaluación del impacto ambiental. En caso de incumplimiento del programa durante la fase de operación deberá cubrirse la cuota al 100%.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-### CAPÍTULO IV. Del impuesto sobre Erogaciones de Juegos con Apuestas
+VI.- Rendir mensualmente al Procurador, un informe de las actividades desarrolladas en la Subprocuraduría a su cargo;
 
-#### SECCIÓN ÚNICA
+VII.- Opinar y dictaminar sobre los asuntos que se reciben para su revisión y consulta;
 
-Del impuesto sobre Erogaciones de Juegos con Apuestas.
+VIII.- Asesorar a las unidades orgánicas que integran la Subprocuraduría de Zona a su cargo;
 
-###### Artículo 13 Bis.
+IX.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-La tarifa aplicable a este impuesto será la que resulte de multiplicar la tasa del 8% a la base que se refiere la Ley de Hacienda del Estado de Jalisco.
+X.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como aquellas que les sean encomendados, y
 
-###### Artículo 31.
+XI.- Las demás que les encomiende el Procurador y les sean conferidas por las Leyes y Reglamentos.
 
-Por el servicio de recepción, evaluación y validación del informe anual a que se refiere el artículo 47 del Reglamento de la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente en materia de Impacto Ambiental, Explotación de Bancos en Material Geológico, Yacimientos Pétreos y de Prevención y Control de la Contaminación a la Atmósfera generada por Fuentes Fijas en el Estado de Jalisco, se pagará el derecho de prevención y control de la contaminación, conforme a la siguiente cuota: $800.00
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Se exceptuará de pago de la cuota señalada en el presente artículo, a los promoventes que acrediten contar con la certificación vigente de la actividad productiva respecto de la cual se presentará el (los) informe (s) anual (es) respectivo (s), dentro del Programa de Cumplimiento Ambiental Voluntario de la Secretaría de Medio Ambiente y Desarrollo Territorial.
+###### ARTÍCULO 22.
 
-###### Artículo 32.
+La Dirección de Averiguaciones Previas tiene como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en materia de investigación de delitos del orden común, resolviendo sobre el ejercicio o no ejercicio de la acción penal o acción de remisión, según corresponda. Cada Dirección de Averiguaciones Previas dependerá directamente de la Subprocuraduría de Zona a la que se encuentre adscrita.
 
-Por el servicio de la evaluación de la viabilidad de las siguientes actividades en materia de manejo integral de residuos de manejo especial previstas en la Ley de Gestión Integral de los Residuos del Estado de Jalisco, se pagará el derecho de prevención y control de la contaminación, por cada año de vigencia conforme a las siguientes cuotas:
+Son atribuciones de la Dirección de Averiguaciones Previas, en el ámbito de su adscripción:
 
-> <small>[N. DE E. VÉASE TABLAS EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 54.]</small>
+I.- Recibir denuncias, acusaciones o querellas sobre conductas o hechos que puedan constituir delito;
 
-El pago del derecho en mención únicamente aplicará a los prestadores del servicio de manejo integral de residuos.
+II.- Investigar los delitos del orden común con el auxilio de la Policía Ministerial y de la Policía Preventiva, practicando las diligencias necesarias y allegándose las pruebas que considere pertinentes, para la comprobación de los elementos del tipo penal y la probable responsabilidad de quienes en él hubieren intervenido, así como el daño causado, y en su caso, el monto del mismo;
 
-Se exceptúan del pago señalado en la fracción III, los acopios comunitarios y las etapas realizadas directamente por los ayuntamientos.
+III.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición de parte, cuando esté plenamente comprobado en la averiguación previa el delito de que se trate, exigiendo garantía suficiente si se estimare necesario;
 
-Por la evaluación de la viabilidad de las modificaciones o prorrogas de las actividades señaladas con antelación, se pagará el 50% de las cuotas establecidas en el presente artículo.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Se exceptuará de pago de las cuotas señaladas en el presente artículo, a los promoventes que acrediten contar con la certificación vigente en del (sic) Programa de Cumplimiento Ambiental Voluntario de la Secretaría de Medio Ambiente y Desarrollo Territorial, respecto de la actividad en materia de manejo integral de residuos de manejo especial acerca de la cual solicita la evaluación de su viabilidad.
+IV.- Poner a disposición de la autoridad jurisdiccional u ordenar la libertad del indiciado, en los plazos y términos señalados en. El Código de Procedimientos Penales para el Estado, o en su caso, de la Ley de Justicia para Adolescentes del Estado de Baja California;
 
-### CAPÍTULO V. De Otros Impuestos
+V.- Solicitar las órdenes de aprehensión, comparecencia y de cateo cuando procedan legalmente y sean necesarias, en los términos que señala la Constitución y demás ordenamientos legales aplicables;
 
-#### SECCIÓN ÚNICA
+VI.- Asegurar los bienes, instrumentos y objetos relacionados con hechos delictivos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional;
 
-De los Impuestos Extraordinarios.
+VII.- Recabar de las dependencias de la Administración Pública Estatal o Municipal, así como de otras autoridades y entidades, los informes, documentos y opiniones necesarias para el ejercicio de sus atribuciones;
 
-###### Artículo 33.
+VIII.- Requerir informes y documentos de los particulares, para el ejercicio de sus atribuciones;
 
-Por la prestación de los servicios de verificación vehicular obligatoria se pagarán los siguientes derechos:
+IX.- Auxiliar al Ministerio Público Federal, en los términos que dispongan las leyes;
 
-I. Por la expedición del certificado que haga constar el cumplimiento de la verificación de emisiones contaminantes a la atmósfera de cada vehículo, conforme a la periodicidad y el calendario que se publique en el Programa de Verificación Vehicular del Estado de Jalisco o por la expedición de la constancia técnica de rechazo por no obtener resultados de verificación aprobatorios: $500.00
+X.- Solicitar a la autoridad judicial federal la intervención de cualquier comunicación privada, de conformidad a lo que establecen las disposiciones legales aplicables;
 
-El vehículo que obtenga un resultado de verificación que no sea aprobatorio, contará con un plazo de treinta días naturales posteriores al período de verificación que corresponda a su terminación de placa, de acuerdo con el calendario establecido en el Programa, para realizar una segunda verificación la cual queda incluida en la tarifa que establece esta fracción.
+XI.- Auxiliar conforme a lo establecido en las leyes, al Ministerio Público del orden común de las Entidades Federativas y del Distrito Federal;
 
-II. Por la realización de la verificación de emisiones contaminantes a la atmósfera de cada vehículo fuera del plazo establecido en el calendario que para el efecto emita la Secretaría de Medio Ambiente y Desarrollo Territorial y por la emisión y expedición del certificado correspondiente: $550.00
+XII.- Solicitar al órgano jurisdiccional la medida precautoria de arraigo;
 
-El vehículo que obtenga un resultado de verificación que no sea aprobatorio, contará con un plazo de treinta días naturales posteriores a la prueba de verificación para realizar un segundo intento el cual queda incluido en la tarifa que establece esta fracción.
+XIII.- Rendir los informes que legalmente sean solicitados por las autoridades competentes del orden federal y común;
 
-III. Por reexpedición del certificado de verificación vehicular: $100.00
+XIV.- Resolver y desahogar las consultas de archivo definitivo, incompetencia y acumulación que deberán remitirle, en todos los casos, los Agentes del Ministerio Público encargados de practicar las averiguaciones previas;
 
-### CAPÍTULO VI
+XV.- Practicar visitas a las Agencias del Ministerio Público y oficinas de su adscripción, en el desempeño ordinario de sus funciones o cuando lo determine el Subprocurador, rindiendo a este un informe pormenorizado del resultado de dichas visitas;
 
-De los Accesorios Generados por Adeudos de Impuestos.
+XVI.- Vigilar la secuela de las averiguaciones previas hasta su determinación, verificando permanentemente el seguimiento de las averiguaciones en las que se haya dictado reserva en trámite, para su debida continuación;
 
-###### Artículo 34.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Los ingresos que se reciban por el pago de los derechos previstos en el artículo anterior se destinarán al Fondo Estatal de Protección al Ambiente, en los términos que establece el Decreto número 27260/LXII/19, del Congreso del Estado publicado en el Periódico Oficial “El Estado de Jalisco” el día 09 nueve de abril de 2019 dos mil diecinueve, por el cual se establecen las bases del Programa de Verificación Vehicular del Estado de Jalisco.
+XVII.- Solicitar a la Dirección de Asuntos Internos y Contraloría, inspecciones y revisiones cuando lo estime conveniente;
 
-###### Artículo 35.
+XVIII.- Investigar y hacer cesar las detenciones arbitrarias e ilegales que se cometan, solicitando la aplicación de sanciones a los responsables;
 
-Derechos que, no estando señalados en esta Ley, se establezcan de manera especial, previa aprobación del Congreso del Estado, a través de la iniciativa correspondiente.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 36.
+XIX.- Ordenar a la Policía Ministerial y a la Unidad de Servicios Periciales, las diligencias y dictámenes que se requieran para el debido esclarecimiento de los hechos;
 
-Las personas físicas o jurídicas que usen, gocen, aprovechen o exploten toda clase de bienes propiedad del Gobierno del Estado de dominio público pagarán a éste los derechos que se fijen (sic) los contratos respectivos, previo acuerdo del ejecutivo y en los términos de las disposiciones legales respectivas que les sean aplicables.
+XX.- Llevar un control de las averiguaciones previas iniciadas en la zona de su adscripción, así como el avance y seguimiento que se le ha dado a las mismas, rindiendo informe mensual al respecto a la Subprocuraduría de Zona a la cual se encuentra adscrito;
 
-### CAPÍTULO I
+XXI.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-De los Derechos por Prestación de Servicios.
+XXII.- Proporcionar audiencia al público que lo solicite;
 
-#### SECCIÓN PRIMERA
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Del Registro Público de la Propiedad y de Comercio.
+XXIII.- Vigilar que los acuerdos en que se determine el ejercicio o no ejercicio de la acción penal, o de la acción de remisión, así como el archivo del expediente, estén de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado, o en su caso, a la Ley de Justicia para Adolescentes del Estado de Baja California;
 
-###### Artículo 37.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Los ingresos que se perciban por concepto de concesión o arrendamiento de espacios culturales y por la prestación de servicios anexos, serán de conformidad con la Ley de Fomento a la Cultura y su reglamento.
+XXIV.- Vigilar que en todos los casos en los que se dicte el no ejercicio de la acción penal, o de la acción de remisión, se ordene y realice la notificación a los denunciantes o querellantes, para que estén en posibilidades de interponer el Recurso que establezca la Ley de la materia, y
 
-### CAPÍTULO IV. De los Accesorios
+XXV.- Las demás inherentes al cargo, aquellas que le sean encomendadas por la Subprocuradoría (sic) de Zona de su adscripción, y las que determinen las Leyes, Reglamentos y demás disposiciones aplicables.
 
-###### Artículo 38.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-Los adeudos a las contribuciones señaladas en este Título, que conforme a las disposiciones fiscales generan el cobro de actualizaciones, recargos, multas, gastos de ejecución e indemnizaciones por cheques devueltos, serán clasificados contablemente como accesorios de los ingresos a que correspondan.
+###### ARTÍCULO 23.
 
-## TITULO CUARTO
+La Dirección de Control de Procesos, tendrá como función esencial cumplir con las atribuciones que las leyes le confieren al Ministerio Público en los procesos instaurados en el Tribunal Superior de Justicia, los Juzgados Penales, Civiles, Familiares, para Adolescentes, de Paz Penal, de Paz Civil, de Paz y Mixtos de Paz en el Estado, por conducto de los Agentes del Ministerio Público adscritos a Juzgados. La Dirección de Control de Procesos está subordinada de manera directa a la Subprocuraduría de Zona de su adscripción.
 
-Productos.
+Son atribuciones de la Dirección de Control de Procesos en el ámbito de su adscripción, las siguientes:
 
-### CAPÍTULO I. De los Productos
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-#### SECCIÓN PRIMERA
+I.- Vigilar y Coordinar el desempeño de los Agentes del Ministerio Público adscritos al Tribunal Superior de Justicia, a los Juzgados Penales, Civiles, Familiares, para Adolescentes, Justicia de Paz Penales, de Paz Civiles, de Paz y Mixtos de Paz;
 
-De (sic) uso, goce, aprovechamiento o explotación de bienes de dominio privado.
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-###### Artículo 39.
+II.- Intervenir en los procesos penales en primera instancia y en los procesos para Adolescentes, promoviendo las diligencias tendientes a comprobar los elementos del tipo penal y la responsabilidad de los inculpados, así como para exigir el pago y la garantía de la reparación del daño;
 
-Las personas físicas o jurídicas que usen, gocen, aprovechen o exploten toda clase de bienes propiedad del gobierno del estado de dominio privado pagarán a éste los productos que se fijen (sic) los contratos respectivos, previo acuerdo del Ejecutivo y en los términos de las disposiciones legales respectivas que les sean aplicables.
+III.- Solicitar el aseguramiento precautorio de bienes para los efectos de la reparación del daño;
 
-#### SECCIÓN SEGUNDA
+IV.- Aportar las pruebas pertinentes, y promover en el proceso las diligencias conducentes para el debido esclarecimiento de los hechos, para la comprobación de los elementos del tipo penal, de la responsabilidad de quienes hayan intervenido en su comisión, y de la existencia del daño y la fijación del monto para su reparación;
 
-De los Productos Diversos.
+V.- Concurrir e intervenir en las diligencias y audiencias de los Juzgados del Estado, donde la Ley confiere adscripción al Ministerio Público, y desahogar las vistas que se den a éste;
 
-###### Artículo 40.
+VI.- Solicitar en los términos que señala la Constitución, las órdenes de cateo que sean necesarias;
 
-La hacienda estatal, de acuerdo con lo establecido en la Ley de Hacienda del Estado de Jalisco, puede percibir los productos derivados de:
+VII.- Formular y presentar lo pedimentos procedentes, dentro de los términos legales;
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 57 A LA 64.]</small>
+VIII.- Formular conclusiones en los términos señalados por la Ley, y solicitar la imposición de penas y medidas que correspondan, y el pago de la reparación del daño;
 
-### CAPÍTULO II. De los Productos
+IX.- Vigilar el exacto cumplimiento del principio de legalidad, y de la pronta y expedita impartación (sic) de justicia;
 
-#### SECCIÓN ÚNICA. De los Productos
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-### CAPÍTULO II
+X.- Estudiar los expedientes en los que se dé vista al Ministerio Público por estimar que existan hechos que puedan constituir delito para promover lo que proceda conforme a derecho. En estos casos podrá ejercitar o ampliar el ejercicio de la acción penal o la acción de remisión, por sí o por medio de los Agentes del Ministerio Público adscritos a los Juzgados;
 
-De Otros Derechos.
+XI.- Turnar a la Dirección de Averiguaciones Previas, los informes y documentos relativos cuando estime que deba iniciarse la indagatoria correspondiente;
 
-#### SECCIÓN ÚNICA
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2005)</small>
 
-De los Servicios Diversos.
+XII.- Intervenir en los juicios en que sean parte las personas menores de dieciocho años de edad o personas que no tengan la capacidad para comprender el significado del hecho, y los relativos a la familia, al estado civil de las personas, sucesorios, y todos aquellos en que por disposición legal sea parte o deba darse vista al Ministerio Público; participando en las diligencias, desahogando las vistas y promoviendo lo que proceda conforme a derecho;
 
-###### Artículo 41.
+XIII.- Formular conclusiones no acusatorias después de consultar al Procurador General de Justicia, por cualquiera de las causas establecidas en el Código de Procedimientos Penales para el Estado de Baja California;
 
-La hacienda estatal percibirá los productos provenientes de los siguientes conceptos:
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-I. Los rendimientos de intereses de capitales e inversiones del Estado;
+XIV.- Formar con las constancias que estime necesarias, expedientes relativos a las causas penales o para Adolescentes, que se tramiten en la zona de su adscripción;
 
-II. La venta o enajenación de bienes de su propiedad;
+XV.- Organizar y llevar el control de archivo de los asuntos que determine el Procurador;
 
-III. Bienes vacantes y mostrencos según remate legal; y
+XVI.- Intervenir en auxilio de los Agentes del Ministerio Público adscritos, con el personal necesario cuando lo requiera el servicio, o así lo determine el Procurador;
 
-IV. Otros productos de capital no especificados.
+XVII.- Solicitar el auxilio de la Dirección General de Asuntos Internos y Contraloría para el cumplimiento de sus funciones, cuando así lo estime necesario;
 
-## TÍTULO QUINTO
+XVIII.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-Aprovechamientos.
+XIX.- Rendir informe mensual al Subprocurador de Zona de su adscripción, sobre el inicio y seguimiento de los procesos judiciales a su cargo;
 
-### CAPÍTULO I
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
 
-De los Aprovechamientos.
+XX.- Desistirse de la acción penal o de la acción de remisión, con aprobación del Procurador General de Justicia, y de conformidad a lo establecido en el Código de Procedimientos Penales del Estado o en su caso, de la Ley de Justicia para Adolescentes del Estado de Baja California; y
 
-###### Artículo 42.
+XXI.- Las demás que le sean encomendadas por el Subprocurador de su adscripción, le establezca esta Ley, su Reglamento, y demás disposiciones legales aplicables.
 
-Los aprovechamientos se percibirán por:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I. Recargos, indemnizaciones por cheques no pagados por instituciones de crédito;
+###### ARTÍCULO 24.
 
-II. Multas;
+Las Unidades de Servicios Periciales dependientes de su Dirección, fungirán como un auxiliar de la institución del Ministerio Público, con el fin de examinar personas, objetos o hechos que requieran conocimientos especiales de determinadas ciencias, técnicas o artes, para llegar al esclarecimiento de la comisión de delitos; dependerán las unidades directamente de la Dirección de Averiguaciones Previas ó de la Dirección de Control de Procesos de cada Subprocuraduría de Zona, según el caso; y estará integrada por:
 
-III. Gastos de Ejecución;
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-IV. Actualización;
+I.- Un Jefe de la Unidad de Servicios Periciales;
 
-V. Los que se deban percibir de acuerdo con lo establecido en el Código Urbano para el Estado de Jalisco;
+II.- Peritos, especialistas en las áreas necesarias;
 
-VI. Otros aprovechamientos no especificados.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 43.
+III.- El Personal Técnico y Administrativo que requieran las necesidades del servicio.
 
-Las multas que se impongan con motivo de intervenciones al patrimonio cultural no autorizadas por la Secretaría de Cultura de conformidad con la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios, y su Reglamento, así como por el incumplimiento de dichos ordenamientos, se calcularán entre un rango de $500.00 a $40,000.00 por metro cuadrado afectado, sin perjuicio de que, adicionalmente, la Secretaría de Cultura determine la restitución o las medidas de restauración que correspondan.
+IV.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
 
-### CAPÍTULO II
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-De los Aprovechamientos.
+En cada Zona operarán dos Unidades de Servicios Periciales.
 
-### CAPÍTULO III
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-De los Derechos por el Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Público.
+###### ARTÍCULO 25.
 
-#### SECCIÓN ÚNICA
+El Director de Servicios Periciales tendrá las siguientes facultades:
 
-De los Bienes del Dominio Público.
+I.- Emitir dictámenes en la especialidad que le sea solicitada por el Ministerio Público, debiendo hacerlo con la debida objetividad e imparcialidad;
 
-###### Artículo 44.
+II.- Auxiliar al Ministerio Público en el esclarecimiento de la comisión de delitos, a través de la práctica de estudios y análisis según la especialidad que éste lo requiera;
 
-Los ingresos por concepto de aprovechamientos de capital son los que la hacienda estatal percibe por:
+III.- Establecer criterios para normar los procedimientos de ejecución de los servicios periciales en el Estado;
 
-I. Intereses;
+IV.- Aplicar sistemáticamente los exámenes para detectar la farmacodependencia de los funcionarios y personal que su actividad lo requiera;
 
-II. Cauciones, fianzas y billetes de depósito;
+V.- Rendir a través de sus titulares, los informes necesarios para su intervención en los juicios de amparo;
 
-III. Reintegros;
+VI.- Expedir las constancias de no antecedentes policiales cuando sean solicitadas por autoridades competentes, y
 
-IV. Indemnizaciones;
+VII.- Las demás que le sean encomendadas por esta Ley, sus disposiciones reglamentarias, y otros preceptos aplicables.
 
-V. Bienes vacantes y mostrencos; y
+###### ARTÍCULO 26.
 
-VI. Otros aprovechamientos no especificados.
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
 
-###### Artículo 45.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-En caso de prórroga para el pago de créditos fiscales, se causará sobre saldos insolutos, un interés fijo mensual equivalente a una tasa del: 0.98%
+###### ARTÍCULO 27.
 
-Para el caso de morosidad se determinará de acuerdo al Código Fiscal del Estado.
+La Dirección Administrativa tendrá las siguientes atribuciones:
 
-## TÍTULO SEXTO
+I.- Ejercer el presupuesto de la Procuraduría a través de las partidas correspondientes, administrar los gastos, y llevar la contabilidad general de la institución;
 
-Participaciones y Aportaciones.
+II.- Establecer las políticas, normas, sistemas, métodos y procedimientos para la administración de recursos humanos, materiales y financieros asignados a la Procuraduría;
 
-### CAPÍTULO I
+III.- Establecer los lineamientos para la asignación a funcionarios y unidades operativas que tienen acceso al uso de vehículos oficiales, así como para el control de gasolina y lubricantes;
 
-De las Participaciones Federales.
+IV.- Optimizar y racionalizar el uso de recursos financieros, a través de sistemas y procedimientos de control presupuestal;
 
-###### Artículo 46.
+V.- Proponer acciones para la modernización administrativa y simplificación de procedimientos;
 
-Las participaciones federales se regirán por las leyes, ordenamientos y convenios que al efecto se han celebrado o lleguen a celebrarse.
+VI.- Formular el anteproyecto del presupuesto anual de egresos de la Procuraduría, y turnarlo al Procurador para su aprobación;
 
-Quedan comprendidos en este Título, ingresos que la Federación participe al Estado por otras fuentes o actos.
+VII.- Autorizar y controlar las adquisiciones necesarias para satisfacer las necesidades materiales de la Procuraduría;
 
-### CAPÍTULO II
+VIII.- Planear, organizar y vigilar las actividades relacionadas con la administración de los recursos humanos, materiales y financieros;
 
-De las Aportaciones Federales.
+IX.- Proporcionar los servicios generales de conservación y control en el depósito de objetos y vehículos, archivo, intendencia, inventarios, proveduría y transporte;
 
-###### Artículo 47.
+X.- Llevar un inventario pormenorizado de los recursos materiales de la institución, en particular; de los inmuebles, muebles, libros, equipo e instalaciones de la Procuraduría;
 
-Las aportaciones federales se regirán conforme al Capítulo V de la Ley de Coordinación Fiscal.
+XI.- Tramitar todo lo relativo a nombramientos, ascensos, renuncias, remociones, cambios de adscripción, licencias, vacaciones y dotación de documentos de identificación para el personal de la Procuraduría;
 
-Quedan comprendidas en las aportaciones federales, aquellas que la Federación aporte al Estado y los municipios.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-## TÍTULO SÉPTIMO
+XII.- Proponer a la Dirección de Asuntos Internos y Contraloría, la imposición de sanciones administrativas a que se haga acreedor el personal de la Procuraduría, por violaciones a las disposiciones legales de la institución;
 
-De las transferencias, asignaciones, subsidios y otras ayudas.
+XIII.- Analizar y estudiar los programas de trabajo de la institución, y sugerir las medidas técnicas administrativas que procedan;
 
-### CAPÍTULO ÚNICO
+XIV.- Investigar y analizar los diferentes procedimientos para la implementación de sistemas y simplificación de métodos de trabajo;
 
-###### Artículo 48.
+XV.- Formular y actualizar los manuales, instructivos y demás documentos que se requieran para informar y orientar al personal de la Procuraduría en el desempeño de sus labores;
 
-Los ingresos por concepto de transferencias, subsidios y otras ayudas que perciba la hacienda estatal, son las que se perciben por:
+XVI.- Concentrar toda la información estadística que se relacione con las distintas unidades de Procuraduría;
 
-I. Herencias, legados y donaciones;
+XVII.- Elaborar tablas gráficas sobre el funcionamiento de la Procuraduría en todas sus unidades, que permitan evaluar el trabajo desarrollado de acuerdo a las funciones de la institución y el impacto de éstas en el desarrollo social del Estado;
 
-II. Aportaciones extraordinarias de entidades públicas o de los sectores social o privado; y
+XVIII.- Suministrar información veraz y confiable al Procurador, y a todas las unidades de la Procuraduría de acuerdo con su esfera de atribuciones;
 
-III. Otras transferencias, asignaciones, subsidios y otras ayudas no especificadas.
+XIX.- Coordinar y supervisar la operación de los sistemas de información desarrollados por la Dirección de Informática de Gobierno del Estado, e instalados en las unidades administrativas de la Procuraduría;
 
-## TÍTULO OCTAVO
+XX.- Participar en coordinación con la Dirección de Informática de Gobierno del Estado, en la implantación de nuevos sistemas de información;
 
-De los Ingresos de las Entidades de la Administración Pública Paraestatal.
+XXI.- Asesorar y capacitar, en coordinación con la Dirección de Información del Gobierno del Estado, al personal en materia de utilización de sistemas y equipo de cómputo;
 
-### CAPÍTULO ÚNICO
+XXII.- Administrar y llevar el control del equipo de cómputo a disposición de la Procuraduría;
 
-Organismos Públicos Descentralizados.
+XXIII.- Mantener actualizados los manuales de operación de los sistemas de información;
 
-###### Artículo 49.
+XXIV.- Buscar nuevas áreas de oportunidad dentro de la Procuraduría para el uso estratégico de informática;
 
-Los recursos estimados por los propios Organismos Públicos Descentralizados del Gobierno del Estado, que se integran directamente a su patrimonio para el ejercicio fiscal 2022, se dan a conocer para fines informativos y de transparencia, los cuales son considerados en las cantidades siguientes:
+XXV.- Asegurar que los recursos de informática sean utilizados de acuerdo a los objetivos establecidos;
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 67 A LA 68.]</small>
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-En virtud que la Administración Pública Centralizada no realiza el control presupuestario directo de los Ingresos de los Organismos Públicos Descentralizados, éstos no se suman a los ingresos de la Hacienda Pública del Estado, por lo tanto, el registro, control y asignación de estos recursos están sujetos a la entera responsabilidad de cada uno de los Organismos Públicos Descentralizados de conformidad con las disposiciones de la Ley General de Contabilidad Gubernamental, de la Ley de Disciplina Financiera de Entidades Federativas y Municipios y de la Ley del Presupuesto, Contabilidad y Gasto Público del Estado de Jalisco.
+XXVI.- Coordinar el sistema de información y estadística de la institución, procesando en ellos la información pertinente que obligatoriamente deberán proporcionarle las diversas unidades institucionales; de acuerdo a las normas, procedimientos e indicadores que la unidad establezca y actualice, en coordinación con las respectivas áreas informantes, en relación a: información criminal, identificación de delincuentes, inventario de vehículos robados y en depósito, información sobre ordenamientos jurídicos y tesis jurisprudenciales, sistemas de identificación o modo de operación de delincuentes, seguimiento a la integración de averiguaciones, consignación y control de procesos, cumplimiento de órdenes dictadas por autoridad judicial o ministerial, y los demás que le sean necesarios para la procuración de justicia; remitiendo toda esta información mediante sistemas de informática a la Dirección de Asuntos Internos y Contraloría;
 
-## TÍTULO NOVENO
+XXVII.- Generar la información estadística que requieran las diversas unidades de la institución, así como integrar para su difusión pública; aquella información institucional de interés general, y
 
-Ingresos por Financiamientos.
+XXVIII.- Las demás que le sean encomendadas por el Procurador, o que le señalen las disposiciones legales y reglamentarias.
 
-### CAPÍTULO ÚNICO
+###### ARTÍCULO 28.
 
-###### Artículo 50.
+Son atribuciones de los Agentes del Ministerio Público del orden común las siguientes:
 
-Los ingresos por créditos otorgados al Estado se obtendrán:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-I. Por financiamientos contratados previa autorización del Congreso del Estado; y
+A) De los titulares de las Agencias del Ministerio Público investigadoras de delitos, Iniciadoras conciliadoras y por razón de la materia:
 
-II. Por las obligaciones directas y contingentes a que se refiere la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-III. Una vez analizada la capacidad de pago del Estado de Jalisco y el destino de los ingresos, se autoriza al Poder Ejecutivo del Estado para que, en caso de contraer obligaciones de corto plazo con los límites y montos establecidos en el artículo 30 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a efecto de garantizar su pago oportuno, así como obtener una mejora en las condiciones de tasa o costo financiero, se autoriza la afectación o direccionamiento y aplicación como fuente de pago de dichas obligaciones el porcentaje necesario y suficiente de sus ingresos y derechos por concepto de (i) participaciones en ingresos federales y/o (ii) remanentes o ingresos percibidos de la normal operación de mecanismos de fuente de pago o garantía constituidos para el servicio de la deuda pública, y/o (iii) ingresos derivados de contribuciones, productos y aprovechamientos estatales, a través de la afectación o aportación de dichos derechos e ingresos al patrimonio de los fideicomisos irrevocables de administración y fuente de pago previamente constituidos para el servicio de la deuda pública o bien, de aquellos fideicomisos que para el efecto se requiera contratar. Las obligaciones que se contraigan con fundamento en la presente autorización tendrán un plazo máximo de pago de hasta un año a partir de su disposición.
+I.- Recibir las denuncias de hechos que presuntivamente constituyen uno o más delitos, así como las solicitudes de expedición de las órdenes de protección;
 
-En el supuesto de que requiera adquirir obligaciones de corto plazo, las mismas se adquirirán hasta por el monto equivalente al 6% (seis por ciento) del total de los ingresos previstos en la presente ley de ingresos, sin incluir financiamiento, y se autoriza que dichos ingresos se destinen exclusivamente a cubrir necesidades de corto plazo, entendiendo dichas necesidades como insuficiencias de liquidez de carácter temporal, en términos de los dispuesto por el artículo 31, primer párrafo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+II.- Practicar las diligencias necesarias para comprobar si los hechos denunciados constituyen o no, uno o más delitos, y para establecer o no la probable responsabilidad de los indiciados;
 
-## TÍTULO DÉCIMO
+III.- Ordenar la comparecencia de las personas que deban declarar en las averiguaciones previas, preferentemente por medio de citatorios, y en caso de que lo estime necesario; mediante orden de presentación por conducto de la policía ministerial, y en su caso, hacer uso de las medidas de apremio legalmente establecidas para su debido cumplimiento;
 
-Del Programa de Apoyo para el Financiamiento Global a Municipios.
+IV.- Ordenar a la Policía Ministerial, las diligencias o investigaciones en que deba intervenir para la debida integración de las averiguaciones previas;
 
-### CAPÍTULO ÚNICO
+V.- Consignar los hechos que considere delictivos al Juez competente, solicitando la orden de aprehensión en contra de quién o quienes se presuman como probables responsables, así como las órdenes de comparecencia;
 
-###### Artículo 51.
+VI.- Dictar acuerdo de archivo definitivo cuando sea legalmente procedente, previa consulta al Director de Averiguaciones Previas, ordenando la notificación de éste al denunciante o querellante;
 
-Previo análisis de la capacidad de pago de los Municipios del Estado, los resultados vinculantes del Sistema de Alertas emitido por la Secretaría de Hacienda y Crédito Público y el destino de los recursos extraordinarios a obtenerse, se autoriza al Poder Ejecutivo del Estado para que por conducto del Titular de la Secretaría de la Hacienda Pública, gestione a favor de los Municipios del Estado una o más líneas de crédito o programas de financiamiento globales municipales a efecto de dotar a los mismos de acceso a crédito o financiamiento en condiciones jurídicas y financieras más competitivas, correspondientes a un mecanismo estructurado y calificado con el respaldo del Gobierno del Estado, programa de financiamiento que se denominará Línea de Crédito Global Municipal, conforme a lo siguiente:
+VII.- Integrar las averiguaciones previas cuando haya personas detenidas en relación a los hechos, allegándose de las pruebas suficientes para resolver hasta en un plazo de cuarenta y ocho horas, y el doble; tratándose de delincuencia organizada, si procede el ejercicio de la acción penal en contra de las personas detenidas o su libertad;
 
-A. Los créditos serán contraídos previa autorización del Ayuntamiento respectivo, hasta por los montos señalados en el Anexo F del presente ordenamiento, determinados conforme al saldo de créditos constitutivos de deuda pública directa inscritos ante la Secretaría de la Hacienda Pública, y para el caso de nueva inversión pública productiva, con base en el límite superior aplicable del 5% (cinco) ó 15% (quince por ciento) de sus ingresos de libre disposición de acuerdo al nivel de endeudamiento en que se ubique conforme a la evaluación vinculante del Sistema de Alertas publicada el 30 de julio del 2021.
+VIII.- Desahogar los exhortos que reciba el Ministerio Público;
 
-B. Los Municipios que determinen ejercer la presente autorización de manera individual con el fin de refinanciar o reestructurar sus créditos vigentes, sin la garantía de subrogación por parte del Estado, en mejores condiciones jurídicas o financieras, podrán celebrar dicha operación por el saldo insoluto de los créditos constitutivos de deuda pública a su cargo contraídos con anterioridad al 31 de diciembre de 2021, al momento de su refinanciamiento o reestructura, con un nuevo plazo de pago de hasta 20 (veinte) años y autorizándose la afectación como fuente de pago o garantía de las operaciones de financiamiento o reestructura el porcentaje necesario y suficiente de las participaciones en ingresos federales que le correspondan del Fondo General de Participaciones y del Fondo de Fomento Municipal; para tal efecto, la Secretaría de la Hacienda Pública, directamente o por conducto del Comité Técnico del Fideicomiso Maestro Municipal, realizará un dictamen o pronunciamiento respecto de la suficiencia de ingresos a que se refiere el artículo 51 fracción VIII de la Ley de Disciplina Financiera de Entidades Federativas y los Municipios y el artículo 19 fracción XIX de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios.
+IX.- Practicar las visitas a las comandancias y delegaciones de la Policía Preventiva Municipal de la jurisdicción, pasando revisión sobre las personas que se encuentran detenidas en las mismas y ordenando su libertad cuando proceda, o que sean turnadas de inmediato a la autoridad competente;
 
-En este caso, si la afectación de ingresos excede del 35% (treinta y cinco) por ciento del Fondo General de Participaciones y del Fondo de Fomento Municipal, el mecanismo de fuente de pago y/o garantía a constituirse se celebrará sin la garantía de subrogación por parte del Estado.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-Si la operación de reestructura o refinanciamiento implica la afectación de ingresos como fuente de pago y/o garantía por un porcentaje igual o menor al 35% (treinta y cinco) por ciento del Fondo General de Participaciones y del Fondo de Fomento Municipal, el mecanismo de fuente de pago o garantía podrá ser el Fideicomiso Maestro Municipal, constituido por el Estado de Jalisco con el número F/3087 y, en ese supuesto, el Estado, por conducto de la Secretaría de la Hacienda Pública podrá asumir la obligación de subrogarse en dicho financiamiento para el caso de vencimiento anticipado.
+Los Agentes del Ministerio Público rendirán informe por escrito de las visitas al Subprocurador de Zona cuando este lo determine, dichas visitas se harán independientemente de las practicadas por la Dirección de Asuntos Internos y Contraloría o bien solicitando la intervención de estos;
 
-En ambos casos el beneficio obtenido deberá acreditarse ante la Secretaría de la Hacienda Pública mediante la reducción de tasa y/o comisiones y/o liberación de flujos o garantías y/o disminución del porcentaje de ingresos afectos al servicio de los créditos.
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-C. Los Municipios que determinen ejercer la presente autorización con el fin de financiar obras u acciones de inversión pública productivas, podrán celebrar una o más operaciones de crédito hasta por el monto autorizado y con un plazo de pago de hasta 20 (veinte) años, autorizándose la afectación como fuente de pago y/o garantía de dichas operaciones un límite de hasta el 35% (treinta y cinco por ciento) de las participaciones en ingresos federales que le correspondan del Fondo General de Participaciones y hasta el 35% (treinta y cinco por ciento) del Fondo de Fomento Municipal, lo anterior, sin perjuicio de la obligación de atender las razones financieras que para el adecuado equilibrio presupuestal de los Municipios la Secretaría de la Hacienda Pública determine para el programa.
+X.- Tener el control de personal técnico y administrativo a sus órdenes, y rendir un informe mensual al Director de Averiguaciones Previas, con copia al Subprocurador de Zona y al Procurador, en todos los asuntos en que intervenga con motivo de su cargo;
 
-Las operaciones de financiamiento a contraerse individualmente por cada Municipio bajo el Programa Línea de Crédito Global Municipal se pagarán en alguno de los siguientes plazos máximos: 3 (tres), 5 (cinco), 10 (diez), 15 (quince) y hasta 20 (veinte) años, contados a partir de la formalización de cada financiamiento y, en operaciones superiores a 5 (cinco) años, se podrá establecer un plazo de gracia en el pago de capital no mayor a 12 (doce) meses.
+XI.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-El mecanismo de fuente de pago y/o garantía podrá ser el Fideicomiso Maestro Municipal, constituido por el Estado de Jalisco con en (sic) número F/3087 y, en dicho caso, el Gobierno del Estado podrá asumir la obligación de subrogarse en dicho financiamiento para el caso de vencimiento anticipado
+XII.- Disponer en casos necesarios, de los cuerpos de seguridad pública estatales o municipales para el ejercicio de sus funciones;
 
-Previo análisis de su destino, en términos de la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos, la definición legal de Inversión Pública Productiva establecida en el artículo 2, fracción XXV de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios (LDF) y artículo 25, fracción II, inciso c), numeral 1, del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios; se autoriza que los ingresos extraordinarios que perciban los Municipios en virtud del financiamiento que obtengan por su participación en el Programa de Línea Global Municipal y cuyo límite se establecen en el Anexo F sean destinados a cubrir la aportación municipal en programas y acciones de inversión convenidos con la Federación, el Estado y/o otros Municipios y se apliquen a alguno (s) de los siguientes rubros de inversión pública productiva definidos en la LDF y comprendidos de manera limitativa en los conceptos de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable:
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2009)</small>
 
-RUBROS DE INVERSIÓN AUTORIZADOS PARA NUEVAS INVERSIONES CONFORME AL CLASIFICADOR POR OBJETO DE GASTO
+XIII.- Restituir al ofendido en forma provisional, siempre y cuando la medida se justifique legalmente, en el goce de sus derechos, incluyendo las órdenes de protección aplicables, de oficio o a petición de parte, y de ser necesario se otorgue garantía suficiente para asegurar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al probable responsable;
 
-5000 BIENES MUEBLES, INMUEBLES E INTANGIBLES
+XIV.- Asegurar los bienes, instrumentos, objetos y valores relacionados con los hechos delictivos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional o de la autoridad que compete;
 
-5100 MOBILIARIO Y EQUIPO DE ADMINISTRACION
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-511 Muebles de oficina y estantería
+XV.- Rendir informe diario al Director de Averiguaciones Previas de sus actividades, haciendo constar la información sobre las actas iniciadas y el avance de las mismas; dicha información se hará llegar por conducto de la Coordinación de Agencias del Ministerio Público;
 
-512 Muebles, excepto de oficina y estantería
+XVI.- Supervisar el debido registro y custodia de los objetos, valores e instrumentos asegurados y relacionados con hechos denunciados motivo de las indagatorias, informando de ello a su superior jerárquico;
 
-513 Bienes artístico, culturales y científicos
+XVII.- Conceder la libertad previa bajo caución, y promover ante el órgano jurisdiccional la medida precautoria de arraigo cuando lo soliciten y se cumplan los requisitos establecidos por la Ley;
 
-514 Objeto de valor
+XVIII.- Investigar y hacer cesar las detenciones arbitrarias que se cometan, dando cuenta al Director de Averiguaciones Previas;
 
-515 Equipo de cómputo y de tecnologías de la información
+XIX.- Auxiliar al Ministerio Público Federal, del orden común de otras entidades federativas y del Distrito Federal, en los términos que dispongan los ordenamientos legales correspondientes;
 
-519 Otros mobiliarios y equipos de administración
+XX.- Acordar el ejercicio o no ejercicio de la acción penal en los casos y de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado, ordenando en caso de no ejercicio de la acción penal, la notificación al denunciante o querellante para que esté en posibilidad de interponer el Recurso de Revisión de conformidad a lo que establece el ordenamiento citado;
 
-5200 MOBILIARIO Y EQUIPO EDUCACIONAL YRECREATIVO
+XXI.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
 
-521 Equipos y aparatos audiovisuales
+XXII.- Las demás que le sean encomendadas y señalen las disposiciones legales y reglamentarias.
 
-522 Aparatos deportivos
+B) De los Agentes del Ministerio Público adscrito a los Juzgados en el ramo penal, de Paz Penal y Mixtos:
 
-523 Cámaras fotográficas y de video
+I.- Intervenir en todas las diligencias que se practiquen en los procesos seguidos en los juzgados de su adscripción, promoviendo todas las acciones tendientes a demostrar la existencia de los elementos del tipo penal y la responsabilidad penal a quien o quienes lo hayan cometido;
 
-529 Otro mobiliario y equipo educacional y recreativo
+II.- Concurrir a las diligencias y audiencias que se practiquen en el Juzgado de su adscripción;
 
-5300 EQUIPO E INSTRUMENTAL MEDICO Y DE LABORATORIO
+III.- Formular los pedimentos que sean procedentes, y desahogar las vistas dentro de los términos legales, así como presentar y sostener oportunamente las conclusiones correspondientes;
 
-531 Equipo médico y de laboratorio
+IV.- Cuidar que los procesos se sigan con toda regularidad;
 
-532 Instrumental médico y de laboratorio
+V.- Desistirse de la acción penal ejercitada, en los casos en que proceda y de conformidad a lo establecido en el Código de Procedimientos Penales para el Estado;
 
-5400 VEHICULOS Y EQUIPO DE TRANSPORTE
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-541 Vehículos y equipo terrestre
+VI.- Solicitar la sanción correspondiente con el proceso cuando se hayan reunido los requisitos para imponerles una pena, a bien, solicitar la libertad del inculpado, sea porque el delito no exista o porque existiendo no sea imputable al acusado, o concurran a favor de este algunas excluyentes del delito o de extinción de la acción persecutora prevista en el Código Penal del Estado; en estos casos, antes de formular su pedimento para que se dicte libertad del inculpado, deberá recabarse la autorización del Procurador por conducto del Subprocurador de Zona o del Director de Control de Procesos, en su caso;
 
-542 Carrocerías y remolques
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-543 Equipo aeroespacial
+VII.- En los casos en que deban formularse conclusiones inacusatorias, deberá recabarse previamente la autorización del Procurador por conducto del Subprocurador de Zona, o en su caso del Director de Control de Procesos;
 
-544 Equipo ferroviario
+VIII.- Pedir la reparación del daño causado por el delito, en los casos en que proceda;
 
-545 Embarcaciones
+IX.- Promover en los procesos toda clase de pruebas, poniendo especial interés en los exámenes periciales, y en particular; lo necesario para conocer el estado psicológico del procesado, así como antecedentes penales;
 
-549 Otros equipos de transporte
+X.- Solicitar en los términos de Ley la suspensión del procedimiento;
 
-5500 EQUIPO DE DEFENSA Y SEGURIDAD
+XI.- Interponer los recursos que legalmente procedan;
 
-551 Equipo de defensa y seguridad
+XII.- Concurrir a las visitas de Centros de Readaptación Social que practique el Juzgado de su adscripción;
 
-5600 MAQUINARIA, OTROS EQUIPOS Y HERRAMIENTAS
+XIII.- Remitir inmediatamente a la Policía Ministerial las órdenes de aprehensión de su adscripción para su cumplimiento;
 
-561 Maquinaria y equipo agropecuario
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-562 Maquinaria y equipo industrial
+XIV.- Rendir al Director de Control de Procesos, con copia al Subprocurador de Zona, un informe semanal del estado que guardan los procesos en que intervengan, así como todas las actividades inherentes al cargo;
 
-563 Maquinaria y equipo de construcción
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-564 Sistemas de aire acondicionado, calefacción y de refrigeración industrial y comercial
+XV.- Informar al Director de Control de Procesos, con copia al Subprocurador de Zona, de las irregularidades que se adviertan en la administración de justicia en los juzgados de su adscripción;
 
-565 Equipo de comunicación y telecomunicación
+XVI.- Visitar las Notarias y oficinas del Registro Público de la Propiedad y del Comercio, y del Registro Civil del Partido Judicial de su adscripción, cuando así se le ordene;
 
-566 Equipos de generación eléctrica, aparatos y accesorios eléctricos
+XVII.- Formar parte del personal docente honorífico del Instituto de Capacitación y Formación Profesional de la Procuraduría, cuando lo determine el Procurador;
 
-567 Herramientas y máquinas-herramienta
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-569 Otros equipos
+XVIII.- Plantear las consultas que estime necesarias al Director de Control de Procesos, y
 
-5800 BIENES INMUEBLES
+XIX.- Las demás que le señalen las Leyes, Reglamentos y demás disposiciones legales aplicables.
 
-581 Terrenos
+C) De los Agentes del Ministerio Público adscrito a los juzgados civiles y familiares y de paz civiles:
 
-583 Edificios no residenciales
+I.- Intervenir en los términos de Ley en la protección de los incapaces, y demás procedimientos del orden civil y familiar que se ventilen ante los tribunales respectivos;
 
-6000 INVERSION PÚBLICA
+II.- Demandar, contestar demandas y formular los pedimentos que proceda, rendir pruebas y en general, seguir los juicios como actor, demandado, coadyuvante o tercero opositor, ante los Juzgados de su adscripción, en los negocios que conforme a la Ley sea parte el Ministerio Público;
 
-6100 OBRA PÚBLICA EN BIENES DE DOMINIO PÚBLICO
+III.- Recibir notificaciones de las resoluciones dictadas en los negocios en que intervengan, y concurrir a las audiencias y demás diligencias que con su intervención deban practicarse;
 
-611 Edificación habitacional
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-612 Edificación no habitacional
+IV.- Dar cuenta al Procurador, por conducto del Director de Control de Procesos, y del Subprocurador de Zona de su adscripción, o directamente cuando sean llamados por aquél, de todos los negocios en que se estime necesaria su consulta, y proceder de acuerdo a sus instrucciones;
 
-613 Construcción de obras para el abastecimiento de agua, petróleo, gas, electricidad y telecomunicaciones
+V.- Desahogar las vistas en los incidentes criminales promovidos en los juicios civiles, recabando copias de las actuaciones, solicitando la suspensión del procedimiento cuando proceda; y remitiendo al Director de Averiguaciones Previas, la documentación que obre en su poder cuando se haga necesaria la integración de una averiguación previa;
 
-614 División de terrenos y construcción de obras de urbanización
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
 
-615 Construcción de vías de comunicación
+VI.- Rendir al Director de Control de Procesos, informe semanal del estado que guardan los procesos en que intervengan, así como de todas las actuaciones inherentes a su cargo, y
 
-616 Otras construcciones de ingeniería civil u obra pesada
+VII.- Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables.
 
-617 Instalaciones y equipamiento en construcciones
+D) De los Agentes del Ministerio Público adscrito a las Salas del Tribunal Superior de Justicia:
 
-619 Trabajos de acabados en edificaciones y otros trabajos especializados
+I.- Interponer los recursos legales procedentes, expresando los agravios que la resolución causare a su representación, y cuidar que los juicios se ajusten a los términos de ley, y
 
-6200 OBRA PÚBLICA EN BIENES PROPIOS
+II.- Las demás que le señalen las leyes, reglamentos y demás disposiciones aplicables.
 
-621 Edificación habitacional
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-622 Edificación no habitacional
+E) De los Agentes del Ministerio Público Especializados para Adolescentes, adscritos a las Agencias Investigadoras;
 
-623 Construcción de obras para el abastecimiento de agua, petróleo, gas, electricidad y telecomunicaciones
+I.- Recibir las denuncias o querellas de hechos que presuntivamente constituyan una o más conductas tipificadas corno delitos por las leyes estatales;
 
-624 División de terrenos y construcción de obras de urbanización
+II.- Practicar las diligencias necesarias para comprobar si los hechos denunciados constituyen o no, una o más conductas tipificadas como delitos por las leyes estatales, y para establecer o no la probable responsabilidad del adolescente indiciado;
 
-625 Construcción de vías de comunicación
+III.- Ordenar la comparecencia de las personas que deban declarar en las investigaciones, preferentemente por medio de citatorios, y en caso de que lo estime necesario mediante orden de detención por conducto de la policía ministerial, y en su caso, hacer uso de las medidas de apremio legalmente establecidas para su debido cumplimiento;
 
-626 Otras construcciones de ingeniería civil u obra pesada
+IV.- Ordenar a la Policía Ministerial, las diligencias o averiguaciones en que deba intervenir para la debida integración de la investigación;
 
-627 Instalaciones y equipamiento en construcciones
+V.- Ejercer la acción de remisión, respecto a los hechos que considere que constituyan conductas tipificadas como delitos por las leyes estatales, remitiéndola al Juez de Primera Instancia Especializado para Adolescentes, solicitando la orden de detención u orden de comparecencia en contra de quién o quiénes se presuman como probables responsables;
 
-629 Trabajos de acabados en edificaciones y otros trabajos especializados
+VI.- Dictar acuerdo de archivo definitivo cuando sea legalmente procedente, previa consulta al Director de Averiguaciones Previas, ordenando la notificación del mismo al denunciante o querellante;
 
-6300 PROYECTOS PRODUCTIVOS Y ACCIONES DE FOMENTO
+VII.- Integrar las investigaciones cuando haya adolescentes detenidos en relación a hechos presuntamente ilícitos, allegándose de las pruebas suficientes para resolver hasta en un plazo de cuarenta y ocho horas, si procede el ejercicio de la acción de remisión en contra de los adolescentes detenidos o su libertad;
 
-631 Estudios, formulación y evaluación de proyectos productivos no incluidos en conceptos anteriores de este capítulo
+VIII.- Tener el control del personal técnico y administrativo a sus órdenes, y rendir un informe mensual al Director de Averiguaciones Previas, con copia al Subprocurador de Zona y al Procurador, en todos los asuntos en que intervenga con motivo de su cargo;
 
-632 Ejecución de proyectos productivos no incluidos en conceptos anteriores de este capítulo
+IX.- Rendir los informes necesarios para su intervención en los juicios de amparo;
 
-Con base en la definición de inversión pública productiva establecida legalmente y los rubros anteriores, el destino de las obras en específico será aprobado por los Ayuntamientos respectivos, al autorizar su adhesión al Programa, y quedará especificado en el instrumento jurídico en que se documente el financiamiento autorizado.
+X.- Disponer en casos necesarios, de los cuerpos de seguridad pública estatales o municipales para el ejercicio de sus funciones;
 
-D. Como mecanismo de pago de la Línea de Crédito Global Municipal el Gobierno del Estado, por conducto de la Secretaría de la Hacienda Pública constituyó un fideicomiso irrevocable de administración y fuente de pago (Fideicomiso Maestro Municipal), que durante su vigencia tendrá como fines los siguientes: (i) fungir como mecanismo de distribución de participaciones en ingresos federales correspondientes al Fondo General de Participaciones y al Fondo de Fomento Municipal a favor de los Municipios del Estado, conforme a lo previsto por el artículo 8º de la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios y (ii), permitir la adhesión como Fideicomitentes de los Municipios que participen en el programa Línea de Crédito Global Municipal gestionado por el Gobierno del Estado y/o para la afectación, al servicio de otros créditos constitutivos de deuda pública municipal correspondiente, de hasta el 35% (treinta y cinco por ciento) de los ingresos y derechos que respecto de participaciones en ingresos federales del Fondo General de Participaciones y del Fondo de Fomento Municipal correspondan a cada uno de los Municipios del Estado. La constitución y operación del Fideicomiso Maestro Municipal no afectará derechos de terceros como acreedores de deuda municipal;
+XI.- Asegurar los bienes, instrumentos, objetos y valores relacionados con los hechos que constituyan conductas tipificadas como delitos en los casos que corresponda, para ponerlos a disposición del órgano jurisdiccional o de la autoridad que competa;
 
-E. Previo análisis de la capacidad de pago del Gobierno del Estado de Jalisco y del destino que se dará a los recursos de los financiamientos contratados por los Municipios, se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, para que de ser necesario a efecto de mantener el nivel de calificación de riesgo de la Línea de Crédito Global Municipal, sin asumir el carácter de aval, asuma por un plazo de hasta 20 (veinte) años, es decir, durante la vigencia de los financiamientos autorizados en el presente ordenamiento a los Municipios y hasta por el monto máximo individualmente autorizado a cada Municipio, la obligación de subrogarse en los financiamientos a cargo de los Municipios del Estado adquiridos bajo la estructura de una Línea Global Municipal, que incurran en los supuestos de vencimiento anticipado pactados con el o los acreedores correspondientes, cubriendo el saldo de los créditos y sus accesorios financieros. Como fuente de pago y/o garantía específica de la obligación financiera y garantía subsidiaria que asuma el Gobierno del Estado en términos de la presente fracción podrá afectar el porcentaje necesario y suficiente de sus ingresos y derechos a recibir de sus ingresos y derechos que por concepto de (i) participaciones en ingresos federales o aportaciones federales susceptibles de afectación y/o (ii) remanentes o ingresos percibidos de la normal operación de mecanismos de fuente de pago y/o garantía constituidos para el servicio de la deuda pública, y/o (iii) ingresos derivados de contribuciones, productos y aprovechamientos estatales, así como constituir el fondo o fondos de reserva necesarios, para el cual se autoriza la constitución o celebración del fideicomiso de fuente de pago y/o la presentación de los mandatos necesarios. La garantía a otorgarse por el Poder Ejecutivo del Estado en favor de los Municipios adheridos al programa estará determinada en su alcance o límite en los documentos que instrumenten el programa y tendrá como fuente de repago las participaciones en ingresos federales de los Municipios apoyados.
+XII.- Rendir informe diario al Director de Averiguaciones Previas de sus actividades, haciendo constar la información sobre actas iniciadas y el avance de las mismas;
 
-F. Se autoriza al titular del Poder Ejecutivo del Estado por conducto de la Secretaría de la Hacienda Pública, para que conduzca uno o más procesos de licitación, convocatoria y selección de ofertas de crédito, hasta por los montos señalados en el Anexo F, para el Programa Línea de Crédito Global Municipal en atención al interés jurídico para que, como garante de los Municipios que se adhieran al Programa y en conjunto con los resultados del proceso competitivo individual que cada Municipio instrumente, se acredite la obtención de las mejores condiciones de mercado y que el destino respectivo corresponda al autorizado en el inciso C del presente artículo de conformidad con lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, asimismo, los municipios tendrán la posibilidad de refinanciar o reestructurar el saldo insoluto de los créditos constitutivos de deuda pública mediante su adhesión al programa.
+XIII.- Supervisar el debido registro y custodia de los objetos, valores e instrumentos asegurados y relacionados con hechos denunciados motivo de las indagatorias, informando de ello a su superior jerárquico;
 
-###### Artículo 52.
+XIV.- Investigar y hacer cesar las detenciones arbitrarias que se cometan, dando cuenta al Director de Averiguaciones Previas, así como conceder cuando corresponda la libertad a los adolescentes;
 
-El Municipio que determine adherirse a la Línea de Crédito Global Municipal deberá celebrar los convenios necesarios para su adhesión, con el carácter de fideicomitentes, al Fideicomiso Maestro Municipal, así como los convenios de reconocimientos de adeudos y compensación para el caso de que reciban apoyos financieros por parte del Estado y/o aquellos instrumentos en que reconozca la subrogación del Estado, para el caso de ejecución del apoyo financiero otorgado.
+XV.- Implementar los medios de Justicia Alternativa, en los procedimientos seguidos a adolescentes, así como sancionar los convenios que se deriven de los mismos, en la forma y condiciones que dispone la Ley de Justicia para Adolescentes del Estado de Baja California, y
 
-###### Artículo 53.
+XVI.- Las demás que sean previstas por esta Ley, la Ley de Justicia para Adolescentes del Estado de Baja California y demás disposiciones legales aplicables.
 
-Los gastos correspondientes a reservas, accesorios financieros, contratos de cobertura de tasas de interés, garantías de pago oportuno, honorarios fiduciarios, honorarios y gastos por la calificación específica a la estructura del financiamiento y/o de estructuración, y en su caso, los demás accesorios financieros necesarios podrán ser contratados directamente y financiados por el Gobierno del Estado y cubiertos directamente o por conducto del Fideicomiso Maestro Municipal, en caso de operaciones en las que se otorgue la garantía de subrogación por parte del Estado, aplicándose para su pago preferentemente los rendimientos que en su caso genere el patrimonio Fideicomitido.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE OCTUBRE DE 2006)</small>
 
-En operaciones a cargo de los Municipios con objeto de refinanciar o reestructurar en mejores condiciones su deuda y que no impliquen la subrogación por parte del Estado de Jalisco, contratos de cobertura de tasas de interés, garantías de pago oportuno, honorarios fiduciarios, honorarios y gastos por la calificación específica a la estructura del financiamiento y/o de estructuración, y en su caso, los demás accesorios financieros necesarios podrán ser contratados directamente y garantizados en su pago con la afectación de ingresos en los términos y límites autorizados en el presente título.
+F) De los Agentes del Ministerio Público Especializados para Adolescentes adscritos a los Juzgados de Primera Instancia Especializados para Adolescentes:
 
-El Poder Ejecutivo del Estado y la Secretaría de la Hacienda Pública sólo podrán autorizar la extinción del Fideicomiso Maestro Municipal, una vez cumplidas todas las formalidades legales correspondientes y siempre que se hubiera dado total cumplimiento a las obligaciones garantizadas o cuya fuente de pago las constituya dicho Fideicomiso y se obtenga el consentimiento de los Fideicomisarios en Primer Lugar inscritos.
+I.- Intervenir en todas las diligencias que se practiquen en los procedimientos seguidos en los juzgados de su adscripción, promoviendo todas las acciones tendientes a demostrar la existencia de los elementos del ilícito cometido por los adolescentes y la responsabilidad atribuible a quien o quienes lo hayan cometido;
 
-El Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, podrá determinar las atribuciones del Comité Técnico del Fideicomiso Maestro Municipal, así como emitir las Reglas de Operación correspondientes al fideicomiso a efecto de garantizar la correcta instrumentación del programa Línea de Crédito Global Municipal, la sustentabilidad de los financiamientos adquiridos a través del mismo y la consecución del objetivo general de coadyuvar con los Municipios en alcanzar una mejora en la administración de su deuda.
+II.- Formular los pedimentos que sean procedentes, y desahogar las vistas dentro de los términos legales, así como presentar y sostener oportunamente, las argumentaciones y alegatos correspondientes;
 
-###### Artículo 54.
+III.- Cuidar que en los procedimientos, se respeten en todo momento los derechos y garantías de los adolescentes, así como de la víctima u ofendido de las conductas presuntivamente atribuidas;
 
-Para el caso de que el Estado de Jalisco se subrogue en los créditos otorgados a los Municipios bajo el programa Línea de Crédito Global Municipal, estará autorizado a ceder, descontar o realizar el factoraje de dichos documentos, créditos y/o financiamientos para recuperar las erogaciones realizadas con motivo de su subrogación, así como el costo financiero que le hubiera implicado. La transmisión de los derechos conllevará a su vez las garantías o afectaciones correspondientes al adeudo o crédito cedido.
+IV.- Desistirse de la acción de remisión ejercida, en los casos en que proceda y de conformidad a lo establecido en la Ley de Justicia para Adolescentes del Estado de Baja California;
 
-###### Artículo 55.
+V.- Solicitar la medida de orientación, protección o tratamiento correspondiente, cuando se hayan reunido los requisitos para imponerse; solicitar la libertad del adolescente inculpado, sea porque la conducta tipificada como delito no exista o porque existiendo no sea atribuible al acusado, o concurran a favor de este algunas excluyentes del delito no sea atribuible al acusado, o concurran a favor de éste algunas excluyentes del delito o de extinción de la acción persecutora prevista en el Código Penal del Estado; en esos casos, antes de formular su pedimento para que se dicte libertad del inculpado, deberá recabarse la autorización del Procurador por conducto del Subprocurador de Zona o de Director de Control de Procesos, en su caso;
 
-A efecto de reflejar la obtención de los recursos extraordinarios aprobados los Ayuntamientos del Estado de Jalisco deberán realizar el ajuste a la proyección de Ingresos contemplada en las Leyes de Ingresos Municipales autorizadas para el Ejercicio Fiscal en que determinen adherirse al programa, en el rubro correspondiente a ingresos por empréstitos, así como el ajuste respectivo en el Presupuesto de Egresos Municipal para el ejercicio 2022 y notifiquen tales ajustes al H. Congreso del Estado al rendir la Cuenta Pública.
+VI.- En los casos en que deban formularse alegatos inacusatorios, deberá recabarse previamente la autorización del Procurador por conducto del Subprocurador de Zona, o en su caso del Director de Control de Procesos;
 
-###### Artículo 56.
+VII.- Solicitar en los términos de Ley la suspensión del procedimiento;
 
-Previo a la adhesión por parte de los municipios a la Línea de Crédito Global Municipal, en términos de lo dispuesto por el artículo 117 fracción VII de la Constitución Política de los Estados Unidos Mexicanos, 23 y 24 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, así como los diversos 15, 16, 17 y 30 de la Ley de Deuda Pública y Disciplina Financiera del Estado de Jalisco y sus Municipios, el Gobierno Municipal deberá de presentar la iniciativa correspondiente ante el Congreso del Estado para efectos de que la apruebe mediante el voto de las 2/3 partes de los diputados presentes.
+VIII.- Interponer los recursos que legalmente procedan;
 
-Hecho lo anterior, el gobierno municipal estará en aptitud de acudir ante el Titular del Poder Ejecutivo por conducto del titular de la Secretaria de la Hacienda Pública para efectos (sic) presentar su solicitud de adhesión a la línea de crédito global municipal, en caso de creerlo conveniente.
+IX.- Concurrir a las visitas de Centros de Diagnóstico o de Ejecución de Medidas para Adolescentes que practique el Juzgado de Primera Instancia Especializado para Adolescentes de su adscripción;
+
+X.- Remitir inmediatamente a la Policía Ministerial las órdenes de detención o comparecencia de su adscripción para .su cumplimiento;
+
+XI.- Rendir al Director de Control de Procesos, con copia al Subprocurador de Zona, un informe semanal del estado que guardan los procesos en que intervengan, así como todas las actividades inherentes al cargo;
+
+XII.- Informar al Director de Control de Procesos, con copia al Subprocurador de Zona, de las irregularidades que se adviertan en la administración de justicia en los juzgados de su adscripción;
+
+XIII.- Plantear las consultas que estime necesarias al Director de Control de Procesos, y
+
+XIV.- Las demás que sean previstas por esta Ley, la Ley de Justicia para Adolescentes del Estado de Baja California y demás disposiciones legales aplicables.
+
+###### ARTÍCULO 29.
+
+Las Secretarías de Acuerdos de las Agencias del Ministerio del orden común, tienen las siguientes atribuciones:
+
+I.- Vigilar que se integren debidamente los expedientes de averiguación previa que estén bajo su responsabilidad, y que se lleven a cabo las declaraciones, interrogatorios, inspecciones y en general; todos y cada una de las diligencias y actuaciones que para el debido esclarecimiento de los hechos que se investigan, ordene el Agente del Ministerio Público;
+
+II.- Concluidas las actuaciones del día o agregados los documentos recibidos, foliará y rubricará las hojas respectivas, poniendo el sello del Ministerio Público en el fondo del cuaderno, de manera que abarque la (sic) dos caras;
+
+III.- Supervisar, controlar y evaluar el desempeño de las labores del personal administrativo en ausencia del Agente del Ministerio Público en turno;
+
+IV.- Expedir previa autorización del Agente del Ministerio Público, las copias de actuaciones y constancias que se soliciten de acuerdo a las disposiciones legales;
+
+V.- Actualizar en forma permanente los Libros de Gobierno;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+VI.- Autorizar y dar fe de las diligencias y actuaciones que practiquen los Agentes del Ministerio Público, salvo aquellas que realice este tratándose de la aplicación de la mediación, conciliación y el proceso restaurativo;
+
+VII.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2009)
+
+VIII.- Las demás que establezcan las leyes, reglamentos, circulares, acuerdos y manuales de procedimiento que expida el Procurador.
+
+###### ARTÍCULO 30.
+
+Son atribuciones del personal de la Policía Ministerial del Estado las siguientes:
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+A) De la Dirección Estatal de la Policía Ministerial:
+
+I.- Dirigir, supervisar y coordinar las actividades de los Comandantes de Zona;
+
+II.- Orientar técnicamente el desarrollo de las actividades de la Policía Ministerial en el Estado;
+
+III.- Llevar a cabo mensualmente, reuniones con los Comandantes de Zona, a fin de que las funciones y actividades de la Policía Ministerial en el Estado se realicen en forma unitaria, eficaz y congruente con las políticas establecidas para la institución;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Poner en conocimiento del Procurador, las anomalías que observe en las actividades que realicen los Comandantes de Zona;
+
+V.- Vigilar que todas las actuaciones y diligencias de la Policía Ministerial del Estado, se realicen con respeto a la dignidad e integridad de las personas, y con absoluto apego a las disposiciones en materia de derechos humanos;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VI.- Someter a la aprobación del Procurador los Estudios y proyectos que se elaboren en las Comandancias de Zona de la Policía Ministerial, a su cargo;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VII.- Coordinarse con el Procurador, con otras dependencias, direcciones y unidades de la Procuraduría, así como con otras de carácter federal, estatal o municipal, para el mejor desempeño de la Policía Ministerial en el Estado;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Rendir Informe semanal al Procurador, de las actividades desarrolladas por la Policía Ministerial en el Estado;
+
+IX.- Las demás que le sean encomendadas por el Procurador o en su caso, el Subprocurador General, y le señalen las Leyes y Reglamentos.
+
+B) De las Comandancias de Zona de la Policía Ministerial:
+
+I.- Dirigir, supervisar y coordinar las actividades de sus subalternos, en las zonas o investigaciones específicas que se le asignen;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+II.- Llevar el registro, distribución, control y trámite de las órdenes de presentación, comparecencias, aprehensión, reaprehensión y cateo que giren los órganos jurisdiccionales, las de detención, presentación e investigación que emita el Ministerio Público en ejercicio de sus funciones; rindiendo un informe semanal al Director de Averiguaciones Previas a la Dirección de Control de Procesos de su adscripción según corresponda;
+
+III.- Acordar e informar diariamente al Director de Averiguaciones Previas de su adscripción, los asuntos concernientes al servicio, las diligencias o actuaciones que en ejercicio de sus deberes le hayan solicitado el Ministerio Público, así como de aquellas otras en que hubiera participado directamente o a través del personal bajo su mando;
+
+IV.- Informar diariamente al Director de Averiguaciones previas de la adscripción sobre todos aquellos actos, hechos o acontecimientos que hayan ocurrido, que estén ocurriendo o que tengan conocimiento de que ocurrirán y que a su juicio tuvieran trascendencia en el ámbito social, político y económico del Estado;
+
+V.- Llevar el registro del destino y control de los objetos relacionados con los hechos presuntivamente delictuosos que se recuperen, y en general; de los que se recojan en el transcurso de la investigación, rindiendo informe semanal al Director de Averiguaciones Previas;
+
+VI.- Orientar técnicamente el desarrollo de las actividades de la Policía Ministerial;
+
+VII.- Coordinar la organización y estructura que establezca el Procurador, para el cumplimiento de la función de la Policía Ministerial;
+
+VIII.- Poner en conocimiento del Director de Averiguaciones Previas de la adscripción, las irregularidades que observe en los Agentes de la Policía Ministerial solicitando a quien corresponda la aplicación de la corrección disciplinaria que corresponda conforme a la ley;
+
+IX.- Llevar a cabo reuniones periódicas con los Jefes de Grupo a fin de que sus funciones se realicen en forma unitaria, eficaz y congruente con las políticas establecidas por el Procurador;
+
+X.- Poner en conocimiento del Ministerio Público en forma inmediata, los casos de flagrante delito o de urgencia en que hubiesen intervenido Agentes de la Policía Ministerial bajo su mando;
+
+XI.- Vigilar que la actuación de los Jefes de Grupos y de los Agentes de la Policía Ministerial se sujete en todo momento al principio de pleno respeto a los derechos humanos, al principio de legalidad y a las instrucciones que gire el Ministerio Público;
+
+XII.- Vigilar que en la ejecución de toda orden de detención, aprehensión, arresto, comparecencia o presentación, se guarde un respeto absoluto a la integridad y dignidad de las personas, y se les instale única y exclusivamente, en los lugares destinados oficialmente para tal efecto;
+
+XIII.- Dar aviso inmediato al Ministerio Público de las personas que se encuentren detenidas con motivo de hechos delictivos;
+
+XIV.- Observar los criterios establecidos para la distribución de las órdenes de investigación entre los diversos grupos y entre los Agentes de la Policía Ministerial adscritos a su Comandancia;
+
+XV.- Formular el programa operativo anual y el anteproyecto de presupuesto del área a su cargo, de conformidad a los lineamientos establecidos;
+
+XVI.- Someter a la aprobación del Director de Averiguaciones Previas de la adscripción, los estudios y proyectos de trascendencia que se elaboren en la Comandancia a su cargo;
+
+XVII.- Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de las actividades y acciones encomendadas al personal de la Comandancia a su cargo;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XVIII.- Coordinarse previo acuerdo de los Directores de Averiguaciones Previas y Control de Procesos, con otras Direcciones y unidades de la Procuraduría, así como con otras dependencias federales, estatales y municipales, para el mejor desempeño de las funciones de la Policía Ministerial;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XIX.- Desempeñar las funciones y comisiones que el Procurador o los Directores de Averiguaciones Previas y Control de Procesos les encomienden, e informarles sobre el desarrollo de las mismas;
+
+XX.- Vigilar bajo su estricta responsabilidad, que en el desempeño de las actividades asignadas al personal bajo su mando, no intervengan personas ajenas a la corporación;
+
+XXI.- Vigilar en todo momento que los agentes a su cargo, no practiquen los hábitos de consumo de sustancias psicotrópicas y de estupefacientes;
+
+XXII.- Someterse a los exámenes que se ordenen, incluyendo las que se practiquen para la detección de la farmacodependencia y verificar que los agentes de su adscripción cumplan también con esta obligación;
+
+XXIII.- Participar en los cursos que señale la institución;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+XXIV.- Rendir informe semanal a los Directores de Averiguaciones Previas, Control de Procesos y al Director Estatal de la Policía Ministerial, de las actividades desarrolladas en su zona, y
+
+XXV.- Las demás que le sean conferidas por las leyes, reglamentos y demás disposiciones aplicables.
+
+C) De las Jefaturas de Grupo de la Policía Ministerial:
+
+I.- Coordinar, supervisar y dirigir técnicamente las labores de investigación de los Agentes de la Policía Ministerial;
+
+II.- Cumplir y verificar que se ejecuten las órdenes emitidas por el Ministerio Público;
+
+III.- Llevar el control de asistencia de los Agentes de la Policía Ministerial adscritos a su grupo;
+
+IV.- Revisar y orientar los informes de las investigaciones realizadas por los agentes a su cargo, vigilando que cumplan con los lineamientos establecidos y con los requerimientos del Ministerio Público, comunicando al Comandante de zona cualquiera anomalía e irregularidad;
+
+V.- Distribuir en base a los criterios establecidos por la institución, las órdenes de investigación asignadas a su grupo, buscando que la distribución sea equitativa, en cuanto a cantidad y complejidad de los asuntos;
+
+VI.- Proponer al Comandante de Zona, los roles de servicio del personal a su cargo;
+
+VII.- Conservar y llevar el control de los recursos materiales y equipo asignado a su grupo y oficina, vigilando el buen uso de los mismos;
+
+VIII.- Preparar los operativos que le sean asignados y exclusivamente para los fines encomendados;
+
+IX.- Previo acuerdo con el Comandante de Zona, coordinarse con los otros grupos de la zona, cuando sea necesario a efecto de eficientar sus labores;
+
+X.- Rendir semanalmente informe al Comandante de Zona, de las actividades desarrolladas por su grupo, y
+
+XI.- Las demás que legalmente le sean señaladas.
+
+D) De los Agentes de la Policía Ministerial:
+
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+I.- Investigar los hechos constitutivos de delitos del orden común denunciados, así como las conductas calificadas como delitos cometidas (sic) por adolescentes, en cumplimiento a las órdenes del Agente del Ministerio Público, delitos flagrantes o en caso de urgencia administrativa, debiendo hacerlo del inmediato conocimiento del Agente del Ministerio Público y de la Jefatura de Grupo de su adscripción, poniendo a los inculpados a disposición del Ministerio Público conforme a lo dispuesto por las leyes;
+
+II.- Tratar con el debido respeto y cortesía a las personas con las que se relacionen con motivo de sus funciones, así como a sus superiores jerárquicos y compañeros de labores;
+
+III.- Rendir informe diario por escrito de los resultados y avances de las investigaciones, y en general del cumplimiento de las diversas órdenes que se le encomienden, de conformidad a los lineamientos establecidos por la institución;
+
+IV.- Llevar un correcto registro de las personas que detengan en cumplimiento a las órdenes judiciales y ministeriales, y haciendo alusión al número de la orden que se ejecuta;
+
+V.- Poner inmediatamente a disposición de la autoridad correspondiente a las personas detenidas en cumplimiento de sus funciones;
+
+VI.- Entregar al Ministerio Público, todos los objetos, materiales e instrumentos del delito relacionados con las investigaciones encomendadas, así como aquellos de cualquier naturaleza que se encontraren abandonados;
+
+VII.- Identificarse con su credencial o gafete ante las personas con quienes se relacionen con motivo de la ejecución de las órdenes de investigación, aprehensión, presentación, comparecencia y detención, absteniéndose de usar las mismas en casos ajenos al servicio;
+
+VIII.- Guardar la debida reserva en el cumplimiento de las órdenes recibidas, evitando toda comunicación innecesaria que entorpezca, perjudique o paralice el desempeño normal de las comisiones que le sean encomendadas;
+
+IX.- Realizar sus funciones acatando plenamente el principio de legalidad, de respeto a los derechos humanos, y a las instrucciones y lineamientos emitidos por sus superiores jerárquicos y consagrados en la reglamentación interna de la Procuraduría;
+
+X.- Hacer uso de la fuerza necesaria para someter a quien se resista al cumplimiento de su deber, respetando en todo momento los derechos humanos;
+
+XI.- Acatar estrictamente las órdenes que reciban del Ministerio Público, y de sus superiores;
+
+XII.- Presentarse de inmediato ante el superior jerárquico del lugar, cuando sean comisionados a otra circunscripción, para que aquel tome conocimiento;
+
+XIII.- Salvaguardar bajo su más estricta responsabilidad los bienes propiedad del Gobierno del Estado que les fueron encomendados para el cumplimiento de su función, haciendo uso correcto y racional de los mismos, informando inmediatamente al superior jerárquico sobre cualquier falla o deficiencia que detecten, así como cualquier daño que sufrieren dichos bienes, y
+
+XIV.- Las demás que legalmente le sean encomendadas.
+
+### CAPITULO V. DEL INSTITUTO DE CAPACITACIÓN Y FORMACIÓN PROFESIONAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 31.
+
+Se crea el Instituto de Capacitación Profesional, el cual tendrá objetivos esencialmente académicos, para fomentar la investigación científica y para fungir como medio auxiliar en la implementación de programas de profesionalización, superación, especialización y actualización para los servidores públicos de la Procuraduría. El Instituto para su funcionamiento estará integrado por un Director, y por el personal técnico y administrativo que se requiera según las necesidades del servicio.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+La Dirección del Instituto estará directamente subordinada al Procurador, y su organización y funcionamiento se regirá por las disposiciones del presente ordenamiento, normas reglamentarias y demás disposiciones aplicables.
+
+Es obligación de todos los servidores públicos de la Procuraduría asistir a los diferentes cursos de capacitación, conferencias y eventos de carácter académico que se impartan en la Institución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 32.
+
+El Instituto de Capacitación Profesional tendrá las siguientes atribuciones:
+
+I.- Participar en la formulación de los planes y programas de estudio, en los términos de las normas reglamentarias y disposiciones aplicables;
+
+II.- Vigilar que los planes y programas de estudio tengan como objetivo el desarrollo integral de aptitudes, de acuerdo a cada área para el mejoramiento del servicio;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+III.- Someter a la aprobación del Procurador, los planes y programas de estudio de capacitación, formación, profesionalización, actualización y especialización;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+IV.- Proponer la celebración de convenios, bases, intercambios y otros instrumentos de coordinación, con instituciones similares o de educación superior del país o del extranjero para el desarrollo profesional, de común acuerdo con el Procurador;
+
+V.- Realizar cursos, seminarios, conferencias, mesas redondas y demás actividades para la actualización del personal de la institución, en el área que a cada uno le corresponde, y
+
+VI.- Las demás análogas que le confieran las normas reglamentarias y demás disposiciones aplicables.
+
+### CAPITULO VI. DEL SERVICIO DE CARRERA
+
+###### ARTÍCULO 33.
+
+Se establece el Servicio de Carrera en la Procuraduría General de Justicia del Estado, como un medio a través del cual los Agentes del Ministerio Público, Agentes de la Policía Ministerial y los Peritos de la institución, podrán ingresar, formarse, capacitarse policial y profesionalmente en la institución, permanecer al servicio de la misma, ascender de categoría, ser reconocido por el desempeño laboral sobresaliente en beneficio de la procuración de justicia, o acreedor a prestaciones económicas, previa aprobación de los exámenes que para este efecto convoquen y apliquen los Comités de Reclutamiento, Selección e Ingreso; de Evaluación y Supervisión, y de Estímulos y Ascensos según corresponda, y de conformidad a los procedimientos establecidos en el Reglamento respectivo.
+
+Para el ingreso de los servidores públicos de la Procuraduría, los responsables de las unidades administrativas de la institución deberán consultar previamente el Registro Nacional del Personal de Seguridad Pública, cuya información se tomará en cuenta por el Comité de Reclutamiento, Selección e Ingreso, para adoptar la determinación que corresponda, y asimismo, deberán de dar cumplimiento a los requisitos establecidos por Oficialía Mayor de Gobierno del Estado.
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+### CAPITULO VII. DEL CONSEJO INTERNO
+
+###### ARTÍCULO 34.
+
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
+
+###### ARTÍCULO 35.
+
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
+
+###### ARTÍCULO 36.
+
+(DEROGADO, P.O. 21 DE NOVIEMBRE DE 2001)
+
+### CAPITULO VIII. DE LAS CAUSAS DE RESPONSABILIDAD Y DE LAS SANCIONES
+
+###### ARTÍCULO 37.
+
+El Procurador y todo el personal de la Procuraduría serán responsables por los delitos oficiales, faltas y omisiones en que incurran durante el desempeño de su cargo; conforme a las leyes de la materia.
+
+###### ARTÍCULO 38.
+
+Son causas de responsabilidad administrativa:
+
+I.- Faltar a sus oficinas frecuentemente, llegar ordinariamente tarde a ellas o no permanecer en su lugar de trabajo durante todo el tiempo previsto por la Ley o en el reglamento respectivo; se entenderá como faltas frecuentes o llegar tarde ordinariamente, cuando se acumulen más de tres faltas o más de tres retardos sin que sean justificados en el transcurso de un mes;
+
+II.- Demorar indebidamente el despacho de los asuntos a su cargo, sea por falta de cumplimiento de las obligaciones que le impongan las leyes o de las órdenes que con arreglo a la misma dicten sus superiores;
+
+III.- Ejecutar hechos o incurrir en omisiones que tengan como consecuencia traspapelar expedientes, extraviar escritos, dificultar o demorar el ejercicio de los derechos de las partes;
+
+IV.- Contravenir lo dispuesto en los artículos 45 y 46 de esta Ley;
+
+V.- Sustraer en los casos en que la Ley no lo autorice, los expedientes y documentos de las oficinas en que deben estar o de las del Ministerio Público;
+
+VI.- Obtener de un subalterno parte de su sueldo, dádivas u otro servicio por cualquier causa;
+
+VII.- Ser negligente en la búsqueda e indagación de pruebas que fueren necesarias para presentar las acusaciones procedentes y para seguirlas ante los Tribunales;
+
+VIII.- Hacer acusaciones, pedimentos, formular conclusiones o rendir dictámenes notoriamente ilegales;
+
+IX.- No elaborar ni presentar con oportunidad sus promociones, ni interponer en tiempo y forma los recursos que conforme a la Ley procedan contra las sentencias y resoluciones judiciales, que no se ajustan a las constancias de los autos y disposiciones legales;
+
+X.- No sujetarse a las instrucciones que con fundamento en la Ley reciban del Procurador y de los funcionarios a los que estén subordinados;
+
+XI.- Aceptar ofrecimientos o promesas, solicitar o recibir dádivas o cualquier remuneración, por ejercer las funciones de su cargo o por dejar de ejercitarlas;
+
+XII.- No presentar acusación contra las personas que aparezcan responsables de la comisión de hechos delictivos;
+
+XIII.- Distraer de su objeto para uso propio o ajeno, el equipo o elementos materiales que se le hubieren proporcionado para el desempeño de su (sic) funciones;
+
+XIV.- Incurrir en cualquier falta de probidad u honradez en el desempeño de su trabajo;
+
+XV.- Ejercer fuerza sin causa justificada, vejar o insultar a cualquier particular en el desempeño de sus funciones;
+
+XVI.- Cometer actos de violencia, amagos, injurias, malos tratos o faltas de respeto contra sus superiores, compañeros o subordinados, ya sea dentro o fuera de las horas de trabajo;
+
+XVII.- Desobedecer sin justificación, las órdenes relacionadas con el servicio que dicten sus superiores;
+
+XVIII.- Concurrir a sus labores en estado de embriaguez o bajo influencia de psicotrópicos o estupefacientes;
+
+XIX.- Abandonar el lugar de su adscripción, sin causa justificada;
+
+XX.- Tomar medidas contrarias a una Ley, reglamento o cualquier otra disposición, así como impedir su ejecución;
+
+XXI.- Retardar o negar indebidamente a los particulares la prestación de un servicio que tenga obligación de proporcionar;
+
+XXII.- Abstenerse de dar a conocer a las autoridades competentes las irregularidades, faltas o delitos de que tenga conocimiento con motivo de sus funciones;
+
+XXIII.- Revelar asuntos secretos o reservados de que tuviera conocimiento por razón de sus funciones;
+
+XXIV.- Contravenir las disposiciones en materia de derechos humanos en términos de la legislación aplicable;
+
+XXV.- Penetrar en el horario en que se encuentren en servicios o comisión, en cantinas, salones de cine, centros de espectáculos o diversión, salvo que lo hicieren en cumplimiento de su deber o por estricto cumplimiento de una comisión;
+
+XXVI.- Realizar, en el caso de los Agentes de la Policía Ministerial, indagaciones o investigaciones por su cuenta y arbitrio, ya que éstas deben emanar de mandamiento escrito de autoridad competente, y
+
+XXVII.- Las demás que contravengan las disposiciones legales y reglamentarias aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2005)</small>
+
+XXVIII.- Omitir dictar de manera inmediata a solicitud de la víctima o el ofendido las medias de auxilio y seguridad a las que se refiere el artículo 242-BIS del Código Penal para el Estado.
+
+###### ARTÍCULO 39.
+
+Para los efectos de esta Ley, sin perjuicio de las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y las que correspondan según la Ley del Servicio Civil vigente, se aplicará a los servidores públicos de la Procuraduría que incurran en las faltas señaladas, durante o con motivo del desempeño de su servicio las siguientes sanciones:
+
+I.- Amonestación;
+
+II.- Suspensión de empleo hasta por treinta días sin goce de sueldo, y
+
+III.- Cese o destitución en el empleo.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+La facultad para imponer las sanciones previstas en este artículo corresponde al Procurador, o al Director de Asuntos Internos y Contraloría, quienes aplicarán la sanción dependiendo de la gravedad de la falta o reincidencia, y hacerlo del conocimiento de la Dirección de Control y Evaluación Gubernamental.
+
+Las sanciones previstas en el presente capítulo se aplicarán además, sin perjuicio del ejercicio de la acción penal en contra del presunto responsable, cuando la falta cometida constituya delito.
+
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTÍCULO 40.
+
+Las resoluciones en la que se determine sancionar a cualquier servidor público de la Procuraduría, podrán impugnarse mediante Recurso de Inconformidad ante el Procurador, siguiendo los lineamientos establecidos en el reglamento de la presente Ley.
+
+### CAPITULO IX. DE LAS NOTIFICACIONES
+
+###### ARTÍCULO 41.
+
+En caso de que el Ministerio Público determine en la averiguación previa que no debe ejercitarse la acción penal por los hechos materia de acusación, deberá notificarse al denunciante o querellante, para que éste, si así le conviniere, en el término de diez días contados a partir de la notificación interponga el Recurso de Revisión ante el Juez Penal competente, de conformidad con lo establecido en el Código de Procedimientos Penales para el Estado.
+
+Una vez agotados los medios de impugnación respectivos o transcurridos los plazos previstos para su interposición, producirán el efecto de impedir definitivamente el ejercicio de la acción penal, respecto de los hechos que la motiven, archivándose el expediente como asunto concluido.
+
+###### ARTÍCULO 42.
+
+Todas las notificaciones se harán al denunciante o al querellante, por medio del Secretario o notificador de la Representación Social encargada de la averiguación, asentando el día y hora en que se verifiquen, leyendo íntegramente la resolución al notificarla y dando copia al interesado, en la que se hará constar el plazo que tiene para interponer el Recurso de Revisión. Cuando el denunciante o querellante hubiere designado Representante Legal para oír y recibir notificaciones, también deberá notificarse a éste. Si la persona a quien se hace la notificación no quisiera o no supiera firmar, se hará constar esta circunstancia, y a falta de firma, podrán tomarse las huellas digitales.
+
+###### ARTÍCULO 43.
+
+Toda notificación fuera de las oficinas del Ministerio Público se realizará en base a las siguientes reglas:
+
+I.- Si en la primera búsqueda no se encontrare la persona a quien deba hacerse la notificación, se practicará sin necesidad de nuevo mandato del Ministerio Público, por medio de cédula que se entregará a los parientes, familiares o trabajadores domésticos del interesado, o a cualquier otra persona que viva en la casa, la que firmará la diligencia, si no supiere hacerlo o se negare, se hará constar esta circunstancia, pudiendo tomar las huellas digitales;
+
+II.- Cuando no sea posible encontrar al interesado o a alguna de las personas señaladas en la fracción I, se hará la notificación fijando la cédula en la puerta de la casa y asentando en autos la razón de tal circunstancia. En dicha cédula se hará constar:
+
+a).- La institución que manda practicar la diligencia;
+
+b).- La determinación que se manda notificar;
+
+c).- La fecha, hora y lugar en que se notifica, y
+
+d).- El nombre y apellidos de la persona a quien se entregare la notificación, y
+
+III.- Cuando no exista el domicilio señalado para notificaciones o no se conozca en el mismo a la persona que deba ser notificada, la notificación se hará por medio de cédula que se fije en un lugar visible en la propia institución, surtiendo sus efectos dicha notificación a partir del día y hora en que se fije la cédula.
+
+### CAPITULO X. DISPOSICIONES GENERALES
+
+###### ARTÍCULO 44.
+
+Tendrán fe pública los siguientes servidores públicos de la Procuraduría:
+
+I.- El Procurador General de Justicia;
+
+II.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+IV.- Los Subprocuradores de Zona;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+V.- El Director de Asuntos Internos y Contraloría;
+
+VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+VII.- Los Directores de Averiguaciones Previas de cada Zona;
+
+> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2001)</small>
+
+VIII.- Los Directores de Control de Procesos;
+
+IX.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2001)
+
+X.- Los Agentes del Ministerio Público, y
+
+XI.- Los Secretarios de Acuerdos.
+
+###### ARTÍCULO 45.
+
+Los servidores públicos señalados en el artículo anterior serán Agentes del Ministerio Público para todos los efectos legales correspondientes; con excepción de los señalados en la fracción XI.
+
+###### ARTÍCULO 46.
+
+Los servidores públicos señalados en el artículo 44 de esta Ley no son recusables, pero deberán excusarse en los asuntos en que intervengan, cuando exista una de las causas de impedimento establecidas en el artículo 18 del Código de Procedimientos Penales para el Estado de Baja California.
+
+El Gobernador calificará las excusas del Procurador, y éste; las de los demás funcionarios de la Procuraduría.
+
+###### ARTÍCULO 47.
+
+Se prohibe a los Servidores públicos de la Procuraduría:
+
+I.- Desempeñar otro empleo, cargo o comisión de cualquier naturaleza en la administración pública de cualquier nivel, así como trabajos o servicios en instituciones privadas, salvo aquellas de carácter docente y aquellas que autoricen la misma Procuraduría, siempre y cuando no sean incompatibles con sus funciones en la institución;
+
+II.- Ejercer la abogacía, por sí o por interpósita persona, salvo que sea en causa propia, de su cónyuge, de su concubino, de sus ascendientes o descendientes, en los casos en que su función requiera de título de Licenciado en Derecho;
+
+III.- Ejercer las funciones de tutor, curador o albacea judicial, a no ser que tenga el carácter de heredero o legatario o se trate de sus ascendientes, descendientes, hermanos, adoptante o adoptado, y
+
+IV.- Ejercer y desempeñar las funciones de depositario o apoderado judicial, síndico, administrador, interventor en quiebra o concurso, notario o corredor, comisionista, árbitro o arbitrador.
+
+###### ARTÍCULO 48.
+
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, dará lugar al empleo de los medios de apremio según sea el caso, en los términos que previene el Código de Procedimientos Penales del Estado.
+
+Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa conforme lo establecen las leyes correspondientes.
+
+###### ARTÍCULO 49.
+
+El Procurador o los servidores públicos en quienes delegue esta función, podrán autorizar al personal de la Procuraduría, para auxiliar a otras autoridades que lo requieran en el desempeño de una o varias funciones, que sean compatibles con las que correspondan a la procuración de justicia. El personal autorizado en los términos de este artículo, no quedará por ese hecho comisionado con las autoridades a quienes auxilie.
+
+###### ARTÍCULO 50.
+
+Toda denuncia o querella por delitos de la competencia de los Tribunales del Estado, se hará ante el Ministerio Público a fin de que proceda conforme a las disposiciones que fijan las leyes.
+
+###### ARTÍCULO 51.
+
+Las autoridades que tengan conocimiento de hechos constitutivos de delito, están obligadas a comunicarlos de inmediato al Ministerio Público con cuantos datos obren en su poder.
+
+###### ARTÍCULO 52.
+
+En ningún caso se acreditará como funcionario o empleado de la institución, mediante la identificación respectiva; a quien no preste servicios en la misma.
+
+###### ARTÍCULO 53.
+
+Tratándose de delitos perseguibles de oficio cuando la gravedad de las circunstancias lo amerite, y a fin de que no se pierdan las huellas e indicios del delito, ni los responsables se sustraigan de la acción penal, se faculta a los Delegados Municipales, en los lugares donde no haya Agentes del Ministerio Público, para que en auxilio de éste y bajo su más estricta responsabilidad practiquen las primeras diligencias de Policía Ministerial, que deberán remitir inmediatamente al Agente del Ministerio Público en turno, acompañando además los objetos, instrumentos del delito, valores y demás que hubieren recogido y en su caso al detenido.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2006)</small>
+
+###### ARTÍCULO 53 Bis.
+
+Las Agencias del Ministerio Público cuando lo requieran podrán contar con un Agente del Ministerio Público Especializado para adolescentes, el cual tendrá las atribuciones que le confiere la Ley de la materia y esta Ley. Este contará con el personal técnico y administrativo que sea necesario.
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor el 1° de enero del año 2022, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+###### ARTICULO PRIMERO.
 
-SEGUNDO. Esta Ley se aplicará en tanto no contravenga las disposiciones de la Ley de Coordinación Fiscal, Ley del Impuesto al Valor Agregado, al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus Anexos y al Convenio de Colaboración Administrativa en materia Fiscal Federal, celebrados por esta Entidad Federativa con el Ejecutivo del Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+Esta Ley entrará en vigor, el día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
-TERCERO. La presentación del recibo de pago de derechos de refrendo anual y holograma para automóviles, camiones, camionetas, tractores automotores y remolques, para el servicio particular y público, así como motocicletas, incluyendo eléctricos, a que se refiere la fracción III del artículo 23 de esta Ley, hará las veces de tarjeta de circulación y holograma, en tanto el contribuyente reciba dichos documentos. Lo anterior, no será aplicable cuando se realicen modificaciones en el padrón vehicular.
+###### ARTICULO SEGUNDO.
 
-CUARTO. En el caso de que el Gobierno del Estado perciba durante el ejercicio fiscal 2022 recursos adicionales provenientes del Gobierno Federal por concepto del Fondo de Aportación para el Fortalecimiento de Entidades Federativas (FAFEF), señalados bajo número 8.2.13, del artículo 1° de esta Ley, estos se aplicarán en partidas de inversión pública correspondientes al capítulo 6000 y se ejercerán conforme al Presupuesto de Egresos del Estado para el ejercicio fiscal de 2022 y las reglas señaladas en el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. De igual forma, se autoriza al Gobierno del Estado a realizar y/o suscribir cuantas gestiones, trámites y documentos sean necesarios para potenciar, mantener o complementar los ingresos del Fondo de Estabilización de los Ingresos de las Entidades Federativas y de las participaciones federales, incluida la afectación de ingresos de libre disposición del estado en los montos, porcentajes o cantidades que resulten necesarios, de conformidad con los mecanismos suscritos con la Secretaría de Hacienda y Crédito Público.
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California, publicada en el Periódico Oficial del Gobierno del Estado con fecha 31 de julio de 1989, asimismo se derogan todas las disposiciones que se opongan a la presente Ley.
 
-QUINTO. No se aplicarán las disposiciones del artículo 43 a las multas que se impongan por infracciones al patrimonio cultural mueble e inmaterial, las cuales se calcularán de conformidad con el dictamen que al efecto emita la Secretaría de Cultura y con los criterios dispuestos en el Reglamento de la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios.
+###### ARTICULO TERCERO.
 
-SEXTO. Los pagos por derechos de inscripción en el Registro Público de la Propiedad y de Comercio, determinados conforme a la Ley de Ingresos vigente para el ejercicio fiscal 2021, respecto de los instrumentos autorizados por los Notarios y Corredores Públicos del Estado de Jalisco antes del 31 de diciembre de 2021, deberán ser enterados dentro de los 45 días hábiles posteriores a la presentación del aviso preventivo.
+El personal de la Procuraduría, al momento de que entren en vigor las disposiciones reglamentarias en materia de Servicio de Carrera, previsto en esta Ley, deberán dar cumplimiento a los requerimientos y condiciones que las mismas establezcan para incorporarse a dicho servicio.
 
-SÉPTIMO. A efecto de dar cumplimiento a la “Norma para armonizar la presentación de la información adicional a la iniciativa de la Ley de Ingresos”, publicada en el Diario Oficial de la Federación el 3 de abril de 2013, se incorpora a la presente Ley como Anexo A el Formato Armonizado con la apertura del Clasificador por Rubros de Ingresos, al segundo nivel como mínimo, incluyendo importes.
+En ningún caso, podrán aplicarse en forma retroactiva normas que afecten su situación administrativa o laboral.
 
-OCTAVO. A fin de cumplir con los Criterios para la elaboración y presentación homogénea de la información financiera y de los formatos a que hace referencia la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios se incorpora (sic) a la presente Ley los formatos 7a) Proyecciones de Ingresos–LDF y 7c) Resultados de Ingresos–LDF, como Anexos B y C, así como el texto de los Objetivos Anuales, estrategias y metas para el ejercicio fiscal y la Descripción de riesgos relevantes y propuestas de acción para enfrentarlos como Anexo D y Anexo E respectivamente.
+###### ARTICULO CUARTO.
 
-NOVENO. Para efectos de lo dispuesto en el artículo 51 de esta ley, se adjunta el Anexo F que contiene los montos máximos y límites de endeudamiento, respecto de los Municipios del Estado que determinen ejercer la autorización relativa al Programa de Apoyo para el Financiamiento Global a Municipios.
+Las unidades o puestos de creación nueva y denominación distinta que aparecen en la presente Ley, y que tienen competencia en asuntos que anteriormente corresponden a otras áreas, se harán cargo de las mismas, determinarán su substanciación y dictarán las resoluciones correspondientes.
 
-DÉCIMO. Los anexos a que se refieren los artículos transitorios Séptimo, Octavo y Noveno, forman parte integrante de esta Ley, por lo tanto, se deberán incorporar en su publicación en el Periódico Oficial “El Estado de Jalisco”.
+###### ARTICULO QUINTO.
 
-DÉCIMO PRIMERO. Como resultado del análisis de la capacidad de pago y del destino de los recursos a obtenerse y mediante el voto de las dos terceras partes de los diputados presentes, se autoriza al titular del Poder Ejecutivo del Estado, para que durante el ejercicio fiscal 2022, por conducto de la Secretaría de la Hacienda Pública del Estado celebre y/o reestructure operaciones financieras de cobertura (instrumentos derivados), así como realice las renovaciones de dichos instrumentos a efecto de mitigar los riesgos económico-financieros que se pudieran derivar a las finanzas públicas por el incremento en la cotización de la tasa interbancaria de equilibrio, operaciones que podrá celebrar hasta por el total del saldo insoluto de los empréstitos contraídos por administraciones anteriores o que se contraigan con base en esta Ley y otros Decretos de autorización emitidos por el Congreso del Estado.
+Los reglamentos administrativos y demás disposiciones complementarias que emanen de la presente Ley, deberán ser expedidos en un plazo no mayor de seis meses posteriores a la entrada en vigor de la misma.
 
-La celebración de los instrumentos derivados autorizados se sujetará a las siguientes previsiones:
+DADO en el Salón de Sesiones Lic. Benito Juárez García del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los dos días del mes de abril de mil novecientos noventa y ocho.
 
-I. Se celebrarán hasta por un monto igual al saldo insoluto del financiamiento constitutivo de deuda pública directa contraída previamente por del Estado de Jalisco que será objeto de cobertura;
+C. JUAN MENESES JIMENEZ
 
-II. El Plazo autorizado para los instrumentos derivados que se contraten o reestructuren será por hasta un plazo igual al de los financiamientos a cubrir.
+DIPUTADO PRESIDENTE
 
-III. Tratándose de operaciones de intercambio de tasa de interés (swaps), similares o análogas, se podrá pactar o afectar como fuente de pago de las mismas el porcentaje necesario y suficiente de ingresos federales o ingresos propios o los recursos remanentes de afectaciones previas y para tal efecto se autoriza inscribir las operaciones de cobertura celebradas o reestructuradas en términos de la presente autorización en los mecanismos de fuente de pago previamente celebrados por el Estado para el servicio de los créditos objeto de cobertura.
+C. CESAR BAYLON CHACON
 
-Los organismos públicos descentralizados y/o Municipios que cuenten con el aval o respaldo financiero del Estado en operaciones de deuda pública podrán así mismo realizar la contratación de estos instrumentos derivados siempre que el proceso de adquisición sea conducido o coordinado por la Secretaría de la Hacienda Pública y tenga por objeto la cobertura de operaciones de crédito público contraídas con una autorización previa del Congreso del Estado.
+DIPUTADO SECRETARIO
 
-IV. Las operaciones de reestructura o modificación de las operaciones financieras derivadas se autorizan respecto de los siguientes instrumentos de cobertura previamente celebrados y, los cambios o modificaciones autorizados podrán consistir en: i) la adecuación de nivel de tasa de ejercicio, ii) la ampliación en el plazo de vigencia original hasta por 60 (sesenta) meses adicionales al vencimiento original pactado, iii) pactar modificaciones a las operaciones de intercambio de tasa para establecer disposiciones complementarias o límites de riesgo para ambas partes y demás modalidades vigentes en el mercado de opciones u operaciones financieras derivadas tales como swaps bonificado, collars o límites superiores o inferiores de riesgo, conforme autorice la Secretaría de la Hacienda Pública, iv) adecuar el perfil o tabla de amortización cubierta a las condiciones vigentes de las operaciones de crédito objeto de cobertura o, de ser necesario, v) sustituir las operaciones de crédito cubiertas y demás características originalmente pactadas:
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 80 A LA 81.]</small>
+MEXICALI, BAJA CALIFORNIA, A LOS QUINCE DIAS DEL MES DE ABRIL DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
-Los recursos que, en su caso, se obtengan como producto de las operaciones celebradas serán destinados al servicio de la deuda de las operaciones objeto de cobertura.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-Los gastos y costos relacionados con la estructuración y servicios legales o de evaluación relacionados con las operaciones autorizadas serán contratados y cubiertos directamente por la Secretaría de la Hacienda Pública o por conducto del fiduciario correspondiente.
+HECTOR TERAN TERAN.
 
-DÉCIMO SEGUNDO. Con base en el análisis de la capacidad de pago del estado de Jalisco, el destino de los financiamientos, la situación de la deuda pública y de los recursos a otorgarse como fuente de pago, se autoriza al Poder Ejecutivo del Estado para que, por conducto de la Secretaría de la Hacienda Pública, durante el ejercicio fiscal 2022, celebre una o más operaciones de reestructura o refinanciamiento respecto del saldo insoluto de los siguiente créditos celebrados por el Estado con (sic) Banco Nacional de Obras y Servicios Públicos, S. N. C.:
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 81.]</small>
+RODOLFO VALDEZ GUTIERREZ.
 
-En la operación de reestructura o refinanciamiento se mantendrá la fecha de vencimiento actualmente vigente en los créditos objeto de refinanciamiento o reestructura sin perjuicio de poder pactar la modificación, cambio o adecuación en la tasa aplicable, perfil de amortización, garantías, instrumentos derivados, fuente de pago y fideicomisos, ingresos afectados como fuente de pago o garantía de pago, fondos de reserva, comisiones, así como las modificaciones necesarias a las demás condiciones y obligaciones y derechos previamente pactados y, para tal efecto, se autoriza al Poder Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, para que afecte el monto o porcentaje necesario y suficiente de ingresos por participaciones en ingresos federales, ingresos propios o aportaciones federales susceptibles de afectación y suscriba los convenios o instrumentos necesarios o convenientes, así como cubra directamente o por conducto del Fideicomiso fuente de pago pactado los gastos y costos relacionados con las operaciones autorizadas dentro de los límites establecidos por el artículo 27 del Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios.. (sic)
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-La autorización a que se refiere este artículo se ejercerá hasta por el monto del saldo insoluto de las obligaciones objeto de reestructura o refinanciamiento al momento de su celebración esto es, hasta por un total de $2,450’651,749.00 (Dos mil cuatrocientos cincuenta millones seiscientos cincuenta y un mil setecientos cuarenta y nueve pesos 00/100 Moneda Nacional), sin implicar nuevas disposiciones o incremento en el saldo de la deuda pública.
+P.O. 31 DE OCTUBRE DE 2001.
 
-DÉCIMO TERCERO. De conformidad con la autorización originalmente prevista en el artículo Cuarto, del Decreto No. 27913/LXII/20, y a efecto de acceder a una mejora constante en la tasa de interés de la deuda bancaria, previa evaluación de la capacidad de pago, así como del destino que se dará a los ingresos a obtenerse y de los recursos a otorgarse como fuente de pago, se autoriza al Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, a realizar durante el ejercicio fiscal 2022 el refinanciamiento o reestructura total o parcial de los siguientes financiamientos, a través de una o más operaciones bancarias o bursátiles hasta por la cantidad de $2,200,000,000.00 (dos mil doscientos millones de pesos 00/100 M.N.), respecto de las disposiciones realizadas para financiar proyectos o acciones de inversión que sean calificadas como ambiental o socialmente sostenibles y/o sustentables:
+UNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN CVII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINA 82.]</small>
+P.O. 21 DE NOVIEMBRE DE 2001.
 
-En caso de acudir al mercado bursátil para el refinanciamiento autorizado el titular del Poder Ejecutivo del Estado, para que (sic) por conducto de la Secretaría de la Hacienda Pública, podrá constituir un fideicomiso emisor de valores irrevocable, de administración y de pago, con las siguientes características:
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-1. Su patrimonio se integrará con la aportación del porcentaje necesario y suficiente de alguno de los siguientes ingresos y del derecho a percibir los mismos: (i) participaciones en ingresos federales correspondientes al Fondo General de Participaciones (Ramo 28), (ii) aportaciones federales susceptibles de afectación, o (iii) ingresos locales o propios, es decir, los correspondientes a impuestos, derechos, aprovechamientos o contribuciones locales. En caso de que, durante la vigencia de las operaciones autorizadas, el o los ingresos originalmente aportados o afectos al patrimonio del Fideicomiso sean sustituidos por uno y/o varios; los ingresos y los derechos a recibir los segundos quedarán afectos al patrimonio del fideicomiso emisor en los mismos términos que los inicialmente afectos.
+SEGUNDO.- Se otorgará un plazo de noventa días a partir de la entrada en vigor de las presentes reformas, a efecto de que se elabore el reglamento correspondiente y se adecuen todas aquellas normas jurídicas que impliquen impacto alguno en su contenido.
 
-2. El Fiduciario podrá emitir valores a ser colocados mediante oferta pública en el mercado de valores mexicano y, con respecto a los mismos, su fuente de pago será el patrimonio del fideicomiso.
+P.O. 16 DE ENERO DE 2004.
 
-3. Las obligaciones que asuma el fiduciario estarán denominadas en Moneda Nacional y deberán ser pagaderas en moneda nacional y dentro de los Estados Unidos Mexicanos.
+###### ARTÍCULO ÚNICO.
 
-4. Los valores que emita su fiduciario podrán ser certificados bursátiles fiduciarios o certificados de participación ordinaria, o cualesquiera otros valores que puedan ser emitidos, inclusive en serie o en masa y que puedan ser susceptibles de circular en el mercado de valores, conforme a la Ley del Mercado de Valores y demás leyes aplicables.
+Las presentes reformas y adiciones entrarán en vigor, al día siguientes de su publicación en el Periódico Oficial del Estado de Baja California.
 
-5. El fiduciario podrá llevar a cabo una o varias emisiones de valores, al amparo de programas de colocación en términos de lo previsto por la Ley del Mercado de Valores. Las obligaciones que contraiga su fiduciario, podrán tener diferentes características en cuanto a monto, tasa, plazo, entre otros, siempre que la suma total de las mismas no exceda el monto autorizado ni tengan un plazo de vencimiento superior a 15 (quince años), contados a partir de la fecha de emisión o cruce.
+P.O. 1 DE JULIO DE 2005.
 
-6. Las obligaciones que adquiera su fiduciario pagarán intereses en los plazos y a la tasa que determine el Ejecutivo del Estado, por conducto de la Secretaría de la Hacienda Pública, con base en las condiciones prevalecientes en el mercado, las cuales deberán reflejar una mejora en tasa efectiva respecto de los créditos objeto de refinanciamiento.
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Baja California.
 
-Realizada alguna emisión de valores, será facultad de la Legislatura respectiva aprobar la desafectación de los ingresos y derechos al patrimonio del Fideicomiso Emisor para lo que deberá constar el previo consentimiento expreso de los acreedores de las obligaciones asumidas por el fiduciario del mismo, en los términos del fideicomiso o acreditarse que las obligaciones para la cual fueron afectados han terminado, se han extinguido, canjeado o refinanciado.
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente reforma, para realizar las previsiones necesarias a efecto de implementar la organización y funcionamiento de las Subprocuradurías de Zonas ubicadas en los Municipios de Tecate y Playas de Rosarito, Baja California.
 
-La presente autorización no implicará la adquisición de endeudamiento neto adicional.
+P.O. 18 DE NOVIEMBRE DE 2005.
 
-> <small>[N. DE E. VÉASE ANEXOS EN LA SECCIÓN CVIII DEL P.O. DE 18 DE DICIEMBRE DE 2021, PÁGINAS DE LA 84 A LA 97.]</small>
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Salón de Sesiones del Congreso del Estado de Guadalajara, Jalisco, 2 de diciembre de 2021.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presente reformas.
 
-Diputada Presidenta
+P.O. 27 DE OCTUBRE DE 2006.
 
-PRISCILLA FRANCO BARBA
+ÚNICO.- Las presentes reformas entrarán en vigor a partir del primero de marzo del año dos mil siete, previa publicación en el Periódico Oficial del Estado.
 
-(Rúbrica)
+P.O. 26 DE DICIEMBRE DE 2008.
 
-Diputada Secretaria
+PRIMERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado, enviándose las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado a los Ayuntamientos del Estado, para que emitan su opinión en los términos de Ley.
 
-ESTEFANÍA PADILLA MARTÍNEZ
+SEGUNDO.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas a los artículos 27 y 49 de la Constitución Política del Estado de Baja California, artículo 8° de la Ley Orgánica de la Procuraduría General de Justicia del Estado y fracción VI del párrafo Cuarto del artículo 59 y fracción XIII del artículo 62 de la Ley Orgánica del Poder Legislativo del Estado de Baja California, por parte de la Presidencia de este Congreso al Poder Ejecutivo para su publicación.
 
-(Rúbrica)
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Diputada Secretaria
+P.O. 27 DE FEBRERO DE 2009.
 
-CLAUDIA GARCÍA HERNÁNDEZ
+ÚNICO.- Las presentes reformas entrarán en vigor, una vez que sean publicadas en el Periódico Oficial del Estado de Baja California y cobren vigencia las reformas a las disposiciones normativas requeridas para la aplicación de las órdenes de protección y de restricción.
 
-(Rúbrica)
+P.O. 13 DE NOVIEMBRE DE 2009.
 
-PROMULGACIÓN DEL DECRETO NÚMERO 28724/LXIII/21, DEL CONGRESOD EL ESTADO, MEDIANTE EL CUAL SE APRUEBA LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2022.
+DECRETO NUMERO 277, POR EL QUE SE DEROGAN Y REFORMAN LOS ARTICULOS 3, 28 Y 29 DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO.
 
-En mérito de lo anterior y con fundamento en el artículo 50 fracción I de la Constitución Política del Estado de Jalisco, mando se imprima, publique, divulgue y se le dé el debido cumplimiento.
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Emitido en Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de Jalisco, al día 03 del mes de diciembre de 2021.
+P.O. 13 DE NOVIEMBRE DE 2009.
 
-ENRIQUE ALFARO RAMÍREZ
+DECRETO NUMERO 278, POR EL QUE SE APRUEBA LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA.
 
-Gobernador Constitucional del Estado de Jalisco
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
 
-(RÚBRICA)
+PRIMERO.- La presente Ley entrará en vigor el día tres de mayo de 2010.
 
-JUAN ENRIQUE IBARRA PEDROZA
+SEGUNDO.- Hasta en tanto entre en vigor esta Ley, seguirá vigente la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California publicada el día 17 de abril de 1998 en el Periódico Oficial del Estado de Baja California.
 
-Secretario General de Gobierno
+TERCERO.- Los artículos que en esta Ley regulen la certificación y registro de los agentes del Ministerio Publico y peritos entrarán en vigor una vez que se constituya el Centro Estatal de Evaluación y Control de Confianza, y éste haya desarrollado los procesos de evaluación en términos de la Ley de Seguridad Pública del Estado.
 
-(RÚBRICA)
+CUARTO.- Los agentes del Ministerio Público y peritos que a la entrada en vigor del presente ordenamiento laboren en la Procuraduría General de Justicia deberán ajustarse a los requisitos de permanencia que esta señala, con excepción del requisito de contar con certificación y registro actualizado, señalado para permanecer dentro de la Procuraduría General de Justicia, hasta en tanto se de cumplimiento al transitorio que antecede.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+QUINTO.- Los asuntos a cargo de la Dirección de Asuntos Internos y Contraloría, que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor la presente Ley, serán atendidos y resueltos por la Visitaduría General conforme a los procedimientos que se encontraban vigentes cuando se iniciaron.
 
-P.O. 30 DE JUNIO DE 2022.
+SEXTO.- Las referencias que se hacen o que se hagan y las atribuciones que se otorgan en otras leyes, reglamentos, decretos y demás disposiciones legales, a la Dirección de Asuntos Internos y Contraloría se entenderán hechas a la Visitaduría General.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 28792/LXIII/22 QUE REFORMA EL ARTÍCULO 25 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2022”.]
+P.O. 22 DE ENERO DE 2010.
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco ".
-
-SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco, dispondrá de sesenta días para realizar las modificaciones reglamentarias y administrativas que deriven del presente decreto.
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
