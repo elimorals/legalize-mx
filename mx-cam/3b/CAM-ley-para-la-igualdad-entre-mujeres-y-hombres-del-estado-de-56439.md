@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-05-26"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -183,9 +183,21 @@ VII. Incorporar en los Presupuestos de Egresos del Estado la asignación de recu
 
 VIII. Fortalecer los mecanismos institucionales de promoción y procuración de la igualdad entre mujeres y hombres, mediante las instancias administrativas que se ocupen del adelanto de las mujeres en el Estado y los Municipios;
 
-IX. Promover, en coordinación con las dependencias de la administración pública estatal la aplicación de la presente Ley; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+IX. Promover, en coordinación con las dependencias de la administración pública estatal la aplicación de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+X. Implementar acciones afirmativas, para garantizar el derecho de la igualdad salarial entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XI. Evaluar la participación equilibrada entre mujeres y hombres, garantizando el principio de paridad de género, en los cargos públicos de las y los titulares de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XII. Los demás que esta Ley y otros ordenamientos aplicables le confieren
 
 ###### Artículo 13.
 
@@ -209,11 +221,21 @@ III. Diseñar, formular y aplicar campañas de concientización que promuevan lo
 
 El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere esta fracción, deberá estar desprovisto de estereotipos establecidos en función del sexo de las personas;
 
-IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2013)</small>
+IV. Fomentar la participación social, política y ciudadana dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
 
-V. Tomar las medidas necesarias en sus presupuestos de egresos para la ejecución de programas con perspectiva de género, en términos de la legislación aplicable.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+V. Tomar las medidas necesarias en sus presupuestos de egresos para la ejecución de programas con perspectiva de género, en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VI. Implementar acciones afirmativas, para garantizar el derecho de la igualdad salarial entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VII. Evaluar la participación equilibrada entre mujeres y hombres, garantizando el principio de paridad de género, en los cargos públicos de las y los titulares de las unidades administrativas de los municipios.
 
 ## TÍTULO III
 
@@ -688,3 +710,11 @@ P.O. 26 DE MAYO DE 2022.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 141 POR EL QUE “SE REFORMAN LAS (SIC) IX Y X Y SE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 12; SE REFORMAN LAS FRACCIONES IV Y V Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 14, TODOS DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
