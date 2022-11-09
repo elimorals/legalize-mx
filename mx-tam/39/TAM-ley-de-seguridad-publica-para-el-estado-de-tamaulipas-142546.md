@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2022-07-19"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE JULIO DE 2022 NO APLICA AL ARTICULADO DEL DECRETO 65-183 PUBLICADO EN EL P.O. DE 1 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -111,7 +109,9 @@ VIII.- Graduación: la determinación de la cantidad de tiempo de entre los lím
 
 IX.- Haber: la cantidad base de dinero con que se retribuye a los Integrantes, los servicios prestados;
 
-X.- Integrantes: los sujetos del régimen de desarrollo policial en la Secretaría, exclusivamente los Policías Estatales, los Cuerpos de Vigilancia, Custodia y Seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros de Ejecución de Medidas para Adolescentes; respecto de las instituciones preventivas de seguridad pública municipal, aquéllos que así se definan en los ordenamientos jurídicos que al efecto se emitan;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+X.- Integrantes: los sujetos del régimen de desarrollo policial en la Secretaría, exclusivamente los Guardias Estatales, los Cuerpos de Vigilancia, Custodia y Seguridad de los Centros de Ejecución de Sanciones y los Guías Técnicos de los Centros de Ejecución de Medidas para Adolescentes; respecto de las instituciones preventivas de seguridad pública municipal, aquéllos que así se definan en los ordenamientos jurídicos que al efecto se emitan;
 
 XI.- Ley: la Ley de Seguridad Pública para el Estado de Tamaulipas;
 
@@ -183,7 +183,9 @@ V.- La Secretaría Ejecutiva del Sistema Estatal de Seguridad Pública;
 
 VI.- La Subsecretaría de Ejecución de Sanciones y Reinserción Social;
 
-VII.- La Subsecretaría de Operación Policial;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VII.- La Subsecretaría de Operación de la Guardia Estatal;
 
 VIII.- La Dirección de la Policía de Investigación;
 
@@ -471,7 +473,9 @@ Todo Integrante y servidor público en general tienen la obligación de concurri
 
 1.- Son instituciones preventivas de seguridad pública estatales:
 
-I.- La Policía Estatal;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+I.- La Guardia Estatal;
 
 II.- La Policía de Auxiliar;
 
@@ -483,7 +487,9 @@ V.- La Dirección de Seguridad a Personal e Instalaciones y Edificios Públicos;
 
 VI.- Cualquiera otra que así lo decrete el Gobernador del Estado.
 
-2.- Las instituciones policiales previstas en las fracciones I y II del párrafo anterior estarán a cargo de la persona titular de la Subsecretaría de Operación Policial, quien será nombrado y removido libremente por el Gobernador del Estado y ejercerá las atribuciones que correspondan a cada institución con base a esta Ley.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+2.- Las instituciones policiales previstas en las fracciones I y II del párrafo anterior estarán a cargo de la persona titular de la Subsecretaría de Operación de la Guardia Estatal, quien será nombrado y removido libremente por el Gobernador del Estado y ejercerá las atribuciones que correspondan a cada institución con base a esta Ley.
 
 #### Sección Segunda. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA MUNICIPAL
 
@@ -499,11 +505,15 @@ II.- Policía de Tránsito y Vialidad.
 
 3.- Asimismo, se podrán crear instancias policiales de carácter regional.
 
-### CAPÍTULO III. DE LA POLICÍA ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO III. DE LA GUARDIA ESTATAL
 
 ###### ARTÍCULO 22.
 
-A la Policía Estatal, le corresponde:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+A la Guardia Estatal, le corresponde:
 
 I.- Realizar patrullajes, labores de vigilancia preventiva y, en su caso, elaborar y desarrollar acciones y operativos que se requieran para garantizar, mantener y restablecer el orden y la paz públicos; proteger la integridad de las personas, sus derechos, bienes y libertades, así como prevenir la comisión de delitos, en:
 
@@ -543,7 +553,9 @@ XV.- Colaborar con las autoridades municipales que lo soliciten, siempre que exi
 
 XVI.- Apoyar a las autoridades encargadas de la ejecución de sanciones del Estado, en la ejecución de operativos de revisión, mantenimiento del orden, excarcelaciones o traslado de personas privadas de la libertad a solicitud de los Centros de Ejecución de Sanciones;
 
-XVII.- Actuar con la inmediatez y celeridad que se requiera, en casos graves que alteren el orden público y cuando así lo dispongan el Secretario o la persona titular de la Subsecretaría de Operación Policial, debiendo trasladarse sin demora al sitio que se le instruya;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XVII.- Actuar con la inmediatez y celeridad que se requiera, en casos graves que alteren el orden público y cuando así lo dispongan el Secretario o la persona titular de la Subsecretaría de Operación de la Guardia Estatal, debiendo trasladarse sin demora al sitio que se le instruya;
 
 XVIII.- Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes;
 
@@ -551,7 +563,9 @@ XIX.- Integrar y atender el parte de novedades diario que rinden los Integrantes
 
 XX.- Participar en labores en reuniones de coordinación con las instituciones de los tres niveles de gobierno, asociaciones agrícolas y ganaderas en materia de seguridad del medio rural;
 
-XXI.- Sistematizar y, en su caso, procesar para su propuesta a la persona titular de la Subsecretaría de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+XXI.- Sistematizar y, en su caso, procesar para su propuesta a la persona titular de la Subsecretaría de Operación de la Guardia Estatal las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
 
 XXII.- Disponer las previsiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
@@ -605,7 +619,9 @@ III.- Organizar el funcionamiento administrativo y operativo de las Delegaciones
 
 IV.- Llevar a cabo el control del armamento y municiones asignadas, así como llevar el registro de los resguardos correspondientes en dicha institución;
 
-V.- Proponer a la persona titular de la Subsecretaría de Operación Policial las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+V.- Proponer a la persona titular de la Subsecretaría de Operación de la Guardia Estatal las medidas de prevención, combate y disminución de conductas antisociales a realizar, por conducto de su titular;
 
 VI.- Disponer las provisiones para vigilar que se cumplan los lineamientos y disposiciones legales establecidas en el cuidado y uso de armamento, equipo, uniformes y credenciales entregadas a los elementos de su institución;
 
@@ -625,7 +641,9 @@ XI.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus
 
 2.- En el caso de los servicios de seguridad, custodia y vigilancia que se presten a casinos, centros de apuestas, salas de sorteos, casas de juego o similares, cualquiera que sea su denominación, se establecerá un programa de constante rotación del personal operativo de la policía auxiliar asignado.
 
-3.- El personal operativo de la Policía Auxiliar apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización del Secretario o de la persona titular de la Subsecretaría de Operación Policial.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+3.- El personal operativo de la Policía Auxiliar apoyará a las demás instituciones policiales, estatales o municipales, cuando así se requiera, previa autorización del Secretario o de la persona titular de la Subsecretaría de Operación de la Guardia Estatal.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN DE SEGURIDAD A PERSONAL E INSTALACIONES Y EDIFICIOS PÚBLICOS
 
@@ -693,7 +711,9 @@ X.- Las demás que les señalen las disposiciones legales y reglamentarias aplic
 
 Son atribuciones comunes de los titulares de las instituciones preventivas de seguridad pública estatales:
 
-I.- Formular y ejecutar el programa de trabajo de la institución a su cargo e informar periódicamente sobre sus resultados al Secretario y a la persona titular de la Subsecretaría de Operación Policial;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+I.- Formular y ejecutar el programa de trabajo de la institución a su cargo e informar periódicamente sobre sus resultados al Secretario y a la persona titular de la Subsecretaría de Operación de la Guardia Estatal;
 
 II.- Ejecutar las acciones y operativos específicos que le instruya su inmediato superior jerárquico;
 
@@ -799,7 +819,9 @@ Las relaciones laborales entre el Estado o los Municipios, con los Integrantes, 
 
 ###### ARTÍCULO 34.
 
-1.- La Policía Estatal y la Policía Auxiliar, además de la estructura orgánica que disponga el Reglamento Interior de la Secretaría, contarán con las Delegaciones Regionales y Coordinaciones Municipales, la primera y Delegaciones la segunda, que serán las unidades administrativas necesarias para el control, supervisión y organización del personal operativo desplegado en el territorio de la entidad, al frente de las cuáles habrán Delegados Regionales o Coordinadores Municipales y Delegados de designación especial, según sea el caso, nombrados por el Secretario, en los términos de lo dispuesto en los artículos 35 y 36 de esta Ley.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+1.- La Guardia Estatal y la Policía Auxiliar, además de la estructura orgánica que disponga el Reglamento Interior de la Secretaría, contarán con las Delegaciones Regionales y Coordinaciones Municipales, la primera y Delegaciones la segunda, que serán las unidades administrativas necesarias para el control, supervisión y organización del personal operativo desplegado en el territorio de la entidad, al frente de las cuales habrán Delegados Regionales o Coordinadores Municipales y Delegados de designación especial, según sea el caso, nombrados por el Secretario, en los términos de lo dispuesto en los artículos 35 y 36 de esta Ley.
 
 2.- Los Delegados Regionales, los Coordinadores Municipales y los Delegados no se considerarán Integrantes, serán nombrados por designación especial, mediante contrato que no podrá exceder de tres meses y no estarán sujetos al régimen de desarrollo policial, por lo que tendrán la calidad de trabajadores de confianza, de conformidad con la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
@@ -2280,3 +2302,59 @@ Los procedimientos de responsabilidad administrativa, de separación y remoción
 Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y de la Unidad de Inteligencia Financiera que pasen a formar parte de la Fiscalía General de Justicia del Estado, serán atendidos por éstos hasta su conclusión.
 
 Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública o la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-423 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes adscritas a la Policía Estatal que pasen a formar parte de la Guardia Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes, previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, les serán aplicables a las personas que formen parte de la Guardia Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Las personas integrantes de la Policía Estatal que se transfieran a la Guardia Estatal, conservarán su haber, prestaciones o percepciones de cualquier tipo, así como el reconocimiento de su antigüedad en el servicio y en el grado, para los efectos de otorgamiento de grados en la escala jerárquica de acuerdo a lo dispuesto en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Todas las menciones a la Subsecretaría de Operación Policial, en la normatividad, se entenderán referidas a la Subsecretaría de Operación de la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SEXTO.
+
+Todas las menciones a la Policía Estatal, en la normatividad, se entenderán referidas a la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor a noventa días naturales, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Guardia Estatal, por lo que deberán adecuarse los reglamentos, estructura orgánica y demás normatividad aplicable, a efecto de que se adopten las funciones ejercidas por la Policía Estatal.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones que realiza la Dirección de Asuntos Internos y los procedimientos administrativos sustanciados ante el Consejo de Desarrollo Policial, se integrarán y continuarán conforme a las disposiciones vigentes en que se dieron los hechos.
+
+###### ARTÍCULO NOVENO.
+
+Durante la transición, las personas integrantes de la Policía Estatal continuarán sujetos al régimen disciplinario de la Ley de Seguridad Pública para el Estado de Tamaulipas, del Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y del Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tamaulipas y tendrán las mismas obligaciones y prohibiciones que las dispuestas para la Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los actos jurídicos celebrados por la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán vigentes y obligarán en sus términos a la Guardia Estatal y a las demás partes, sin perjuicio de su revisión por parte del área administrativa correspondiente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública vinculado a la Policía Estatal, se entenderá subrogado en favor de (sic) Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán subsumidas a la Guardia Estatal, hasta en tanto se efectúen las modificaciones reglamentarias y administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
