@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-07-15"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -3187,11 +3187,11 @@ Las niñas, niños y adolescentes tienen derecho a recibir, crianza, atención, 
 
 Cuando llegue a conocimiento del Ministerio Público que las personas de que se trata no cumplan dicha obligación, promoverá lo que corresponda en beneficio del menor.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 437.
 
-Para los efectos del artículo anterior, queda prohibido el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños y adolescentes, debiéndose garantizar una vida libre de toda forma de violencia.
+Para los efectos del artículo anterior, queda prohibido que la madre, el padre o cualquier persona que ejerza la patria potestad o custodia, utilice el castigo corporal o humillante como forma de corrección o disciplina en niñas, niños y adolescentes, debiéndose garantizar una vida libre de toda forma de violencia.
 
 ###### Art. 438.
 
@@ -3336,6 +3336,10 @@ II.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2010)
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratos, abandono de sus deberes, violencia intrafamiliar, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+Por violencia familiar se considera el uso intencional de la fuerza física, moral o de cualquier acto que tenga como objetivo provocar dolor, molestia o humillación, incluyendo el castigo corporal y humillante en contra de niñas, niños y adolescentes, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica y emocional, independientemente de que pueda producir o no lesiones, que se realice dentro o fuera del domicilio familiar o del lugar que cohabiten o convivan por cuestiones de orden familiar y exista una relación de parentesco de conformidad con los supuestos establecidos en este Código, sin menoscabo de lo previsto en la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Campeche y en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -16572,3 +16576,11 @@ Artículo Primero.- El presente decreto entrará en vigor el día siguiente al d
 Artículo Segundo.- En un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones normativas necesarias para el debido cumplimiento de este decreto.
 
 Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 144 POR EL QUE “SE REFORMA EL ARTÍCULO 437 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 458 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
