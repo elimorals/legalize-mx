@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-proteccion-de-adultos-mayores-para-el-estado-de-45299"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-28"
-last_updated: "2022-07-15"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 28 de junio de 2005.
 
@@ -188,6 +188,28 @@ a) Disfrutar, preferentemente de los servicios públicos de estacionamiento vehi
 b) Facilitar el acceso y desplazamiento en el interior de espacios laborales, comerciales y recreativos; y
 
 c) Contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+
+VIII. En caso de emergencia o crisis sanitaria, los adultos mayores tienen derecho a:
+
+a) Contar con información clara y precisa sobre la enfermedad y sus implicaciones para la toma de decisiones informadas;
+
+b) No ser discriminados por ser un grupo de riesgo;
+
+c) Prioridad para recibir atención en cualquier establecimiento que preste servicios de salud;
+
+d) Tener acceso para recibir, en igualdad de circunstancias, los tratamientos y recursos que las personas de otras edades;
+
+e) Recibir los cuidados y precauciones necesarios para evitar la exposición a entornos de posible contagio de la enfermedad que se trate;
+
+f) Mantener los tratamientos médicos para el control de sus enfermedades, para lo cual se garantizará la disposición permanente de los medicamentos indicados;
+
+g) Recibir la atención necesaria para el cuidado de su salud mental;
+
+h) Recibir por parte del personal capacitado la identificación de la enfermedad y su seguimiento;
+
+i) Ausentarse de sus trabajos por causa de la enfermedad que de origen a la crisis sanitaria sin dejar de percibir su salario.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2018)</small>
 
@@ -814,3 +836,11 @@ P.O. 15 DE JULIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 138 POR EL QUE “SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 5 DE LA LEY DE PROTECCIÓN DE ADULTOS MAYORES PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
