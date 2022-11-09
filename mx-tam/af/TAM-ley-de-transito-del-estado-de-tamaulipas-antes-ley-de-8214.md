@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2021-07-14"
+last_updated: "2022-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -235,9 +235,9 @@ ARTICULO 14 BIS.- Todo vehículo automotor que circule por las vías públicas e
 
 Los vehículos que no cuenten con placas del Estado de Tamaulipas y que circulen permanentemente en la entidad, deberán contar y portar póliza de seguro vigente a que hace referencia el párrafo anterior y con el engomado que previo pago, será expedido por la Secretaría de Finanzas a tales vehículos, siempre y cuando cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; este último deberá colocarse en el vehículo de forma visible adherido al vidrio parabrisas delantero lado derecho, con el que se acreditará ante las autoridades correspondientes que cuentan con la póliza de seguro vigente.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
-La Policía Estatal y las autoridades de tránsito municipal, conforme las facultades otorgadas en la ley correspondiente, podrán verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
+La Guardia Estatal y las autoridades de tránsito municipal, conforme (sic) las facultades otorgadas en la ley correspondiente, podrán verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -1074,3 +1074,59 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-423 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas integrantes adscritas a la Policía Estatal que pasen a formar parte de la Guardia Estatal, se regirán bajo las disposiciones legales previstas en la Ley de Seguridad Pública para el Estado de Tamaulipas, en el Reglamento Interior de la Secretaría de Seguridad Pública y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los procesos de evaluación de control de confianza y demás requisitos que establecen para el ingreso y permanencia de las personas integrantes, previstas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas y en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas, les serán aplicables a las personas que formen parte de la Guardia Estatal.
+
+###### ARTÍCULO CUARTO.
+
+Las personas integrantes de la Policía Estatal que se transfieran a la Guardia Estatal, conservarán su haber, prestaciones o percepciones de cualquier tipo, así como el reconocimiento de su antigüedad en el servicio y en el grado, para los efectos de otorgamiento de grados en la escala jerárquica de acuerdo a lo dispuesto en el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas.
+
+###### ARTÍCULO QUINTO.
+
+Todas las menciones a la Subsecretaría de Operación Policial, en la normatividad, se entenderán referidas a la Subsecretaría de Operación de la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SEXTO.
+
+Todas las menciones a la Policía Estatal, en la normatividad, se entenderán referidas a la Guardia Estatal, siempre y cuando no se contrapongan a su naturaleza.
+
+###### ARTÍCULO SÉPTIMO.
+
+En un plazo no mayor a noventa días naturales, se realizarán las acciones jurídicas y administrativas inherentes a la integración, organización y funcionamiento de la Guardia Estatal, por lo que deberán adecuarse los reglamentos, estructura orgánica y demás normatividad aplicable, a efecto de que se adopten las funciones ejercidas por la Policía Estatal.
+
+###### ARTÍCULO OCTAVO.
+
+Las investigaciones que realiza la Dirección de Asuntos Internos y los procedimientos administrativos sustanciados ante el Consejo de Desarrollo Policial, se integrarán y continuarán conforme a las disposiciones vigentes en que se dieron los hechos.
+
+###### ARTÍCULO NOVENO.
+
+Durante la transición, las personas integrantes de la Policía Estatal continuarán sujetos al régimen disciplinario de la Ley de Seguridad Pública para el Estado de Tamaulipas, del Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Tamaulipas y del Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Tamaulipas y tendrán las mismas obligaciones y prohibiciones que las dispuestas para la Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO.
+
+Todos los actos jurídicos celebrados por la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán vigentes y obligarán en sus términos a la Guardia Estatal y a las demás partes, sin perjuicio de su revisión por parte del área administrativa correspondiente.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El presupuesto ya asignado y programado a la Secretaría de Seguridad Pública vinculado a la Policía Estatal, se entenderá subrogado en favor de (sic) Guardia Estatal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para la Policía Estatal, se entenderán subsumidas a la Guardia Estatal, hasta en tanto se efectúen las modificaciones reglamentarias y administrativas que correspondan.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
