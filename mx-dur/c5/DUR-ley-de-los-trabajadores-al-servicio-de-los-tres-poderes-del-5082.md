@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2022-10-23"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -306,6 +306,10 @@ Las vacaciones no podrán compensarse por remuneración, pero los trabajadores t
 ###### Artículo 34o.
 
 Durante las horas de jornada legal los trabajadores deberán desarrollar las actividades sociales, sindicales cívicas y deportivas que fueran compatibles con sus aptitudes, edad y condición de salud, y que se les encomienden por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
+Las Dependencias y Entidades Administrativas a las que se refiere el Artículo 1 de esta Ley, propiciarán el uso de la bicicleta como medio de transporte entre sus trabajadores, para lo cual podrán establecer esquemas de compensaciones y estímulos para el trabajador que acredite utilizar la bicicleta como su principal medio para transportarse al centro laboral.
 
 ###### Artículo 35o.
 
@@ -1560,3 +1564,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 235 POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 34 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
