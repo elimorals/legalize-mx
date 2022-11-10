@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-125579"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-28"
-last_updated: "2022-11-08"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 28 de diciembre de 2017.
 
@@ -61,9 +61,13 @@ Para el cumplimiento de lo dispuesto en el párrafo anterior, la Coordinación E
 
 La atención de emergencias debe igualarse para todos los habitantes del estado, en la calidad, en la atención y seguridad en beneficio de la población.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 3.
 
 Para los efectos de esta Ley se entiende por:
+
+Afectados: Las personas que resultan perjudicadas, directamente por una emergencia o desastre. Se considera directamente afectados a aquellos que han sufrido lesiones físicas o psicológicas, enfermedades u otros efectos en la salud; así como los que han sido evacuados, desplazados, reubicados o han padecido daños directos en sus medios de vida o sus bienes económicos, físicos, sociales, culturales y ambientales. Indirectamente afectados: son los que han sufrido consecuencias, distintas o añadidas, a los afectos directos al cabo del tiempo, debido a disrupciones o cambios en la economía, las infraestructuras vitales, los servicios básicos, el comercio o el trabajo, o consecuencias sociales, sanitarias y psicológicas.
 
 Agente regulador: lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador.
 
@@ -71,13 +75,15 @@ Albergado: Persona que en forma temporal recibe asilo, amparo, alojamiento y res
 
 Albergue: instalación que se establece para brindar resguardo a las personas que se han visto afectadas en sus viviendas por los efectos de fenómenos perturbadores y en donde permanecen hasta que se da la recuperación o reconstrucción de sus viviendas.
 
+Amenaza Antrópica: Es aquella inducida de forma total o predominantemente por las actividades y las decisiones humanas.
+
 Atlas Estatal de Riesgos: Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de los agentes afectables.
 
 Auxilio: respuesta de ayuda a las personas en riesgo o a las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables.
 
 Bombero: Servidor público o persona capacitada y acreditada por la Escuela Estatal de Protección Civil para la salvaguarda de la población y protección civil, altamente especializado, encargado de la prevención, atención y mitigación de las emergencias, riesgos y desastres.
 
-Brigada: grupo de personas que se organiza dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a eme4rgencias (sic) tales como: primeros auxilios, combate de contados (sic) de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble.
+Brigada: Grupo de personas que se organiza dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate de conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble.
 
 Cambio climático: cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmosfera mundial y que se suma a la variabilidad climática natural observada durante periodos comparables.
 
@@ -111,7 +117,7 @@ Estado: Estado de Durango.
 
 Evacuado: Persona que, con carácter preventivo y provisional ante la posibilidad o certeza de una emergencia o desastre, se retira o es retirado de su lugar de alojamiento usual para garantizar su seguridad y supervivencia.
 
-Evento o espectáculo público masivo: Concentraciones planeadas con un número indeterminado de público, en locales cerrados o al aire libre, con capacidad e infraestructura para participar en actividades reguladas en su propósito.
+Evento o espectáculo público masivo.- Concentraciones planeadas con un número indeterminado de público, en locales cerrados o al aire libre, con capacidad e infraestructura para participar en actividades reguladas en su propósito.
 
 Fenómeno antropogénico: Agente perturbador producido por la actividad humana.
 
@@ -127,7 +133,7 @@ Fenómeno Químico-Tecnológico: Agente perturbador que se genera por la acción
 
 Fenómeno Socio-Organizativo: Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terremoto, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres e interrupción o afectación de los servicios básicos o de infraestructura estratégica.
 
-Fenómenos (sic) Sanitario-Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos.
+Fenómenos Sanitario- Ecológico: Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos.
 
 Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción.
 
@@ -139,7 +145,7 @@ Identificación de riesgos: Reconocer y valorar las pérdidas o daños probables
 
 Incidente: Todo suceso que afecta a los medios físicos con que cuenta una comunidad, y que significa además el aumento del nivel de vulnerabilidad frente a un riesgo.
 
-Infraestructura estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad estatal.
+Infraestructura estratégica: Aquella que es indispensable para la provisión de bienes y servicios públicos y cuya destrucción o inhabilitación es una amenaza en contra de la seguridad estatal, ocasionaría una afectación a la población, sus bienes o entorno.
 
 Inspector de Protección Civil: Personal adscrito a la Coordinación Estatal o municipal de Protección Civil, facultado para realizar la supervisión y/o verificación de las medidas y normas aplicables en materia de seguridad y prevención, Planes de emergencia, Programas Internos y Especiales de Protección Civil de una dependencia, entidad, institución, organismo o inmueble perteneciente al sector público, privado o social, así como situaciones que por su naturaleza representen riesgo para la población civil.
 
@@ -172,6 +178,8 @@ Reducción de Riesgos: Intervención preventiva de individuos, instituciones y c
 Refugio Temporal: La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre.
 
 Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos.
+
+Reglamento: Reglamento de la Ley Estatal de Protección Civil.
 
 Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente perturbador.
 
@@ -511,7 +519,9 @@ VIII. Derechos humanos y justicia.
 
 El cargo de consejero será honorario y podrá renovarse anualmente.
 
-El funcionamiento y operación del Consejo Consultivo del Consejo Nacional será conforme a la Ley, este Reglamento, a sus reglas de operación y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
+El funcionamiento y operación del Consejo Consultivo del Consejo Estatal será conforme a la Ley, este Reglamento, a sus reglas de operación y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -841,7 +851,9 @@ II. Promover sesiones por lo menos dos veces al año;
 
 III. Elaborar y someter a la consideración del secretario ejecutivo, el proyecto de calendario de sesiones del Consejo municipal;
 
-IV. Formular la orden del día de cada sesión y someterlo a la consideración del secret6ario (sic) ejecutivo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
+IV. Formular la orden del día de cada sesión y someterlo a la consideración del Secretario Ejecutivo;
 
 V. Convocar por escrito a los miembros del Consejo a indicación del Secretario Ejecutivo, para la celebración de sesiones;
 
@@ -901,7 +913,9 @@ VII. Formular el análisis y evaluación en caso de una emergencia, y presentar 
 
 VIII. Organizar, implementar y participar en la operación del Centro Municipal de Operaciones;
 
-IX. Establecer los mecanismos de comunicación tanto en situación normal como en caso de emergencia, con el Centro de comunicaciones de la Unidad Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
+IX. Establecer los mecanismos de comunicación, tanto en situación normal como en caso de emergencia, con el Centro de Comunicaciones de la Coordinación Estatal de Protección Civil.
 
 X. Promover, organizar y realizar los cursos, ejercicios y simulacros qua (sic) permitan mejorar la capacidad de respuesta de los participantes en el sistema;
 
@@ -909,9 +923,11 @@ XI. Promover y coordinar actividades de difusión en materia de Protección Civi
 
 XII. Las demás que la presente Ley, así como otras disposiciones le asignen.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 67.
 
-Las Coordinaciones Municipales de Protección Civil deberán de atender en forma inmediata la prestación de servicios regulares de emergencia a través de sus unidades administrativas y operativas, y que por su naturaleza requieren de la celeridad en su prestación. Teniendo la obligación de brindar servicio a la población en general en los casos de incendios y cualquier otro género de siniestro, incidentes, desastres o percances naturales o antropogénicos.
+Las Coordinaciones Municipales de Protección Civil, deberán de atender en forma inmediata la prestación de servicios regulares de emergencia a través de sus unidades administrativas y operativas, a través de su departamento de bomberos y que por su naturaleza requieren de la celeridad en su prestación. Teniendo la obligación de brindar servicio a la población en general en los casos de incendios y cualquier otro género de siniestro, incidentes, desastres o percances naturales o antropogénicos, con la finalidad de salvaguardar la vida de las personas, la propiedad privada, la infraestructura, el equipamiento urbano, así como el medio ambiente.
 
 ###### ARTÍCULO 68.
 
@@ -993,9 +1009,11 @@ Las autoridades correspondientes en su ámbito de competencia llevarán a cabo p
 
 La profesionalización de los integrantes del Sistema Estatal será permanente y tendrá por objeto lograr una mejor y más eficaz prestación del servicio, así como el desarrollo integral de sus elementos cuando se trate de servidores públicos estatales y municipales, de conformidad a lo que se establezca en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 80.
 
-La normatividad correspondiente precisará y detallará todos los rubros que atañen a los puestos de mando y jerarquías de las Direcciones Municipales de Protección Civil.
+La normatividad correspondiente precisará y detallará todos los rubros que atañen a los puestos de mando y jerarquías de las Coordinaciones Municipales de Protección Civil.
 
 ###### ARTÍCULO 81.
 
@@ -1640,3 +1658,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NO. 234.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
