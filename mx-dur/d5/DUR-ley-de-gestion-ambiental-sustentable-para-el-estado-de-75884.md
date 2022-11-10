@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2021-12-26"
+last_updated: "2022-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -585,7 +585,9 @@ II. Orientar, formular, conducir y evaluar la política ambiental municipal que 
 
 III. El ordenamiento ecológico de su territorio;
 
-IV. La prevención y control de la contaminación del medio ambiente y del suelo en áreas o zonas de jurisdicción municipal;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2022)</small>
+
+IV. La prevención y control de la contaminación del medio ambiente y del suelo en áreas o zonas de jurisdicción municipal, para lo cual podrán generar las estructuras administrativas o coordinaciones que consideren necesarias;
 
 V. Celebrar Acuerdos de Coordinación o de Concertación con el Estado, con otros municipios, con personas físicas o morales, con organizaciones sociales y con organismos no gubernamentales, con los sectores social y privado, para el cumplimiento de los objetivos de la presente Ley;
 
@@ -2560,3 +2562,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. A partir de la entrada en vigor del presente decreto, toda mención o alusión a la Procuraduría de Protección al Ambiente del Estado de Durango, en cualquier ordenamiento legal, se entenderá referido a la Secretaría de Recursos Naturales y Medio Ambiente.
 
 TERCERO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 10 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 233.- QUE CONTIENE REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 6 DE LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
