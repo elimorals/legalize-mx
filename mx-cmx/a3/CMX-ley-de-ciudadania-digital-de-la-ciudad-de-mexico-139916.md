@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-ciudadania-digital-de-la-ciudad-de-mexico-139916"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-09"
-last_updated: "2020-01-09"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139916&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-01-08"
 
 LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el No. 258 Bis de la Gaceta Oficial de la Ciudad de México el jueves 9 de enero de 2020.
 
@@ -266,7 +266,9 @@ IV. Incorporar a sus canales digitales las herramientas necesarias para facilita
 
 V. Utilizar el Riel de Interoperabilidad, apegándose a los criterios técnicos y de seguridad para el intercambio de información y/o datos que defina la Agencia;
 
-VI. Utilizar tecnologías de la información y comunicaciones que aseguren la disponibilidad, el acceso, la integridad, la autenticidad, la confidencialidad y la conservación de los datos e información que generen, con motivo de la utilización del Autenticador, en términos de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados de la Ciudad de México, de la Ley de Transparencia y Acceso a la Información y de la Ley de Archivos del Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VI. Utilizar tecnologías de la información y comunicaciones que aseguren la disponibilidad, el acceso, la integridad, la autenticidad, la confidencialidad y la conservación de los datos e información que generen, con motivo de la utilización del Autenticador, en términos de la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados de la Ciudad de México, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México y de la Ley de Archivos de la Ciudad de México;
 
 VII. Cumplir los procedimientos para identificar a las Personas que presenten sus solicitudes mediante canales digitales conforme lo mandata esta Ley;
 
@@ -761,3 +763,13 @@ Las facultades conferidas en esta Ley a la Fiscalía General de Justicia de la C
 Todas las referencias realizadas en otras disposiciones normativas al Identificador Digital Único se entenderán por el Autenticador Digital Único.
 
 Palacio Legislativo del Congreso de la Ciudad de México, a los trece días del mes de diciembre del año dos mil diecinueve.- POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD ÁVILA VENTURA.- SECRETARIA, DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DE CIUDADANÍA DIGITAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
