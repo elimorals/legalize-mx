@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2022-10-25"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -45,6 +45,14 @@ Artículo 1
 1. Este Reglamento tiene por objeto regular: el estatuto de los senadores y las senadoras; el funcionamiento del Senado de la República y sus órganos; los procedimientos legislativos y especiales; así como los servicios parlamentarios, administrativos y técnicos.
 
 2. Lo no previsto en el presente Reglamento se ajusta a las disposiciones complementarias aprobadas por el Pleno del Senado, a propuesta de los órganos competentes.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+3. Los documentos y comunicaciones internas del Pleno, los órganos de gobierno, Comisiones, Comités, unidades administrativas y técnicas serán preferentemente de manera digital, con firmas digitalizadas, y con los dispositivos electrónicos que mediante acuerdos determine la Mesa, para garantizar la certeza y autenticidad de los mismos. Únicamente se imprimirán aquellas comunicaciones, documentos o acuerdos que algún ordenamiento ajeno a este reglamento así lo exija, en cuyo caso se imprimirán en el mismo número necesario de ejemplares.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+4. La Mesa podrá proponer al Pleno, acuerdos que establezcan medios y mecanismos electrónicos para remitir documentos, acuerdos, resoluciones o cualquier comunicación oficial relacionada con el ejercicio de sus funciones, mediante el uso de tecnologías de la información y plataformas digitales, que incluyan dispositivos que garanticen certeza y seguridad de los mismos, con validez jurídica para cualquier autoridad, entidad, órgano de los poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, de la Federación, de las entidades federativas, municipios y alcaldías de la Ciudad de México, así como con particulares.
 
 > <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -436,6 +444,10 @@ III. Autorizar el uso del salón de sesiones del Pleno y de las demás instalaci
 
 IV. Conocer de las faltas administrativas y a la disciplina parlamentaria en que incurran los senadores y participar, en su caso, con los grupos parlamentarios y en lo procedente con el Pleno, en la aplicación de las sanciones correspondientes.
 
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. La Mesa podrá implementar mecanismos para facilitar trámites relacionados con las funciones de la Cámara, mediante el uso de las tecnologías de la información, medios digitales, el uso de firma digitalizada y digitalización de documentos, con características de identificación, seguridad de la información y certidumbre jurídica.
+
 Artículo 38
 
 1. La Mesa puede reunirse con la Junta de Coordinación Política, siempre que así lo acuerden los presidentes de ambos órganos directivos.
@@ -486,9 +498,13 @@ II. Supervisar los servicios relacionados con la celebración de las sesiones de
 
 III. Levantar las actas de las reuniones de la Mesa, con el auxilio del Secretario General de Servicios Parlamentarios;
 
-IV. Vigilar la impresión y difusión de la Gaceta y del Diario de los Debates;
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
 
-V. Integrar los libros que contengan los registros cronológicos y textuales de las leyes y decretos que expida el Congreso General y de los decretos que emita la propia Cámara; y
+IV. Vigilar la publicación impresa y digital de la Gaceta y del Diario de los Debates;
+
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+V. Integrar y digitalizar los libros que contengan los registros cronológicos y textuales de las leyes y decretos que expida el Congreso General y de los decretos que emita la propia Cámara; y
 
 VI. Las demás que les asigna este Reglamento.
 
@@ -770,7 +786,9 @@ Artículo 65
 
 1. El titular de la Secretaría a cargo firma el registro referido en el artículo anterior. Dicho registro se incorpora al acta de la sesión, con la mención de que los senadores que no asistieron cuentan, en su caso, con el plazo establecido en el artículo 62 de este Reglamento para remitir su solicitud de justificación.
 
-2. La Secretaría entrega al Presidente copia del registro para su remisión a los coordinadores de los grupos parlamentarios.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. La Secretaría envía digitalmente al Presidente copia del registro para su remisión a los coordinadores de los grupos parlamentarios.
 
 3. El registro se anexa al Diario de los Debates y se publica en la Gaceta y en la página de Internet del Senado.
 
@@ -870,15 +888,23 @@ XVI. Efemérides.
 
 Artículo 73
 
-1. La solicitud para incluir un asunto en el Orden del Día se remite al Presidente, con la indicación del grupo parlamentario, senador o senadores que lo promueven, observando los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 2018)</small>
+1. La solicitud para incluir un asunto en el Orden del Día se remite por escrito al Presidente, a través de los medios electrónicos y digitales acordados por la Mesa, con la indicación del grupo parlamentario, senador o senadores que lo promueven, observando los siguientes requisitos:
 
-I. Se presenta por escrito a más tardar a las 18:00 horas del día anterior a la sesión, y
+> <small>(REFORMADA, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+I. Se presenta por escrito en versión digital, a más tardar a las 18:00 horas del día anterior a la sesión, y
 
 II. Se acompaña con el correspondiente archivo electrónico y una versión impresa firmada por el autor o autores.
 
-2. El Presidente, a más tardar a las 21:00 horas del día previo a la sesión, envía el Orden del Día a los demás integrantes de la Mesa y a los coordinadores de los grupos parlamentarios.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. El Presidente, a más tardar a las 21:00 horas del día previo a la sesión, envía digitalmente por los medios electrónicos el Orden del Día a los demás integrantes de la Mesa y a los coordinadores de los grupos parlamentarios.
+
+> <small>(ADICIONADO [N. DE E. PERTENECE AL NUMERAL 2], D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+Todos los documentos referidos en este artículo deberán contener firma digitalizada autorizada por la Mesa.
 
 Artículo 74
 
@@ -1894,9 +1920,13 @@ Conforme a lo anterior, los senadores harán coincidir la denominación, con la 
 
 3. En el caso de solicitud de permiso del Presidente de la República para salir del territorio nacional por más de siete días, la iniciativa correspondiente debe contener objeto, duración e itinerario del viaje, además de los elementos aplicables referidos en el párrafo 1 de este artículo.
 
-4. La iniciativa se presenta en medio impreso y también en archivo electrónico, para su inclusión en el Orden del Día y correspondiente publicación en la Gaceta.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
 
-5. Cuando se considera conveniente, pueden anexarse a la iniciativa los documentos que facilitan su comprensión y análisis.
+4. La iniciativa se presenta en forma escrita a través de los medios electrónicos y digitales aprobados por la Mesa, para su inclusión en el Orden del Día y correspondiente publicación en la Gaceta.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+5. Cuando se considera conveniente, pueden anexarse a la iniciativa los documentos digitales y archivos electrónicos que faciliten su comprensión y análisis.
 
 Artículo 170
 
@@ -1933,6 +1963,10 @@ Artículo 173
 Artículo 174
 
 1. El turno es la resolución de trámite que dicta la Presidencia durante las sesiones, para enviar a la comisión o comisiones que correspondan los asuntos de los que se da cuenta al Pleno.
+
+> <small>(ADICIONADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. Los documentos y turnos que se envían en cumplimiento a lo dispuesto en el párrafo anterior se harán en forma escrita a través de los medios electrónicos y digitales aprobados por la Mesa.
 
 Artículo 175
 
@@ -3192,7 +3226,9 @@ Artículo 302
 
 Artículo 303
 
-1. El área de comunicación social es responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los órganos directivos, las comisiones y los comités del Senado, así como por los senadores, en los términos de este Reglamento y demás disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+1. El área de comunicación social es responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los órganos directivos, las comisiones y los comités del Senado, así como por los senadores, en los términos de este Reglamento y demás disposiciones aplicables. En cumplimiento de ésta, deberá hacerlo preferentemente mediante el uso de tecnologías de la información, medios digitales y plataformas electrónicas.
 
 2. Los órganos directivos del Senado, el área responsable de la comunicación social y las demás unidades administrativas competentes atienden en igualdad de condiciones a los representantes de los medios de información y les brindan las facilidades necesarias para el desempeño de sus tareas.
 
@@ -3262,11 +3298,17 @@ XIX. Los demás documentos oficiales que dispongan la Mesa y la Junta.
 
 Artículo 307
 
-1. La Gaceta se distribuye a partir de las ocho horas y se entrega a los senadores en sus oficinas.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
 
-2. Los días de sesión los senadores disponen de ejemplares suficientes de la Gaceta en el salón de sesiones.
+1. La Gaceta se publica y distribuye por medios electrónicos a los senadores y senadoras a partir de las ocho horas. La Secretaría General entregará versión impresa cuando algún senador o senadora lo solicite.
 
-3. La Gaceta está también a disposición de los representantes acreditados de los medios de información.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. Los días de sesión los senadores y senadoras disponen de la versión digital de la Gaceta en las pantallas de sus escaños en el salón de sesiones.
+
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+3. La Gaceta está también a disposición electrónica y digital de los representantes acreditados de los medios de información.
 
 4. La publicación impresa de la Gaceta y la que aparece en medios electrónicos sólo tienen propósitos informativos y no producen efectos jurídicos.
 
@@ -3318,7 +3360,9 @@ XIV. Dictámenes y votos particulares; y
 
 XV. Resultado de las votaciones.
 
-2. El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión, en medio impreso y en la página electrónica del Senado en Internet.
+> <small>(REFORMADO, D.O.F. 11 DE NOVIEMBRE DE 2022)</small>
+
+2. El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión en la página electrónica en Internet del Senado y de forma impresa en el mínimo necesario de ejemplares.
 
 ### CAPITULO TERCERO. DEL RESGUARDO DEL RECINTO Y DEL ORDEN EN LAS SESIONES DEL SENADO
 
@@ -3521,3 +3565,11 @@ D.O.F. 25 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 5 AL ARTÍCULO 277 DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Mesa, a través de la Secretaría General de Servicios Administrativos, dictará las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias en el presupuesto de egresos del Senado para el ejercicio fiscal de 2023, para garantizar la implementación del uso de los medios digitales.
