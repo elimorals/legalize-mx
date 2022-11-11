@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2021-08-06"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1621,9 +1621,11 @@ El Instituto solicitará de las dependencias y entidades de los tres órdenes de
 
 ### CAPÍTULO SEGUNDO. DEL PREMIO ESTATAL DE LA JUVENTUD
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 100.
 
-Se instituye el Premio para reconocer la trayectoria de jóvenes con talento, capacidad e iniciativa en el área social, cívica, educativa, tecnológica, científica, cultural, deportiva, profesional, económica, ambiental y, por haber realizado servicios y acciones relevantes en beneficio de la juventud.
+Se instituye el Premio para reconocer la trayectoria de jóvenes con talento, capacidad e iniciativa en el área social, cívica, educativa, tecnológica, científica, cultural, deportiva, profesional, económica, ambiental, en el fortalecimiento a la Diversidad Sexual y de Género y, por haber realizado servicios y acciones relevantes en beneficio de la juventud.
 
 ###### ARTÍCULO 101.
 
@@ -1896,3 +1898,9 @@ P.O. 6 DE AGOSTO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11; LA ADICIÓN DE LA SECCIÓN NOVENA DENOMINADA DERECHO A LA MOVILIDAD, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 50 BIS, A LA LEY DE JUVENTUD PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 161 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 100 DE LA LEY DE (SIC) JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
