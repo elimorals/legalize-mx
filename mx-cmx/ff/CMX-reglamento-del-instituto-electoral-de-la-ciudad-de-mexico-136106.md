@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-13610
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-05-13"
-last_updated: "2020-11-11"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136106&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-04-30"
 
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el lunes 13 de mayo de 2019.
 
@@ -174,9 +174,9 @@ VII. Instituto de Transparencia: Instituto de Transparencia, Acceso a la Informa
 
 VIII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-(REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-IX. Unidad de Transparencia: Oficina de Acceso a la información Pública y Protección de Datos Personales del Instituto Electoral, y
+IX. Unidad de Transparencia: Oficina de Transparencia, Acceso a la Información Pública, Datos Personales y Archivo del Instituto Electoral,
 
 (REPUBLICADA Y REUBICADA, G.O. 11 DE NOVIEMBRE DE 2020)
 
@@ -262,9 +262,11 @@ En todo lo no previsto en el presente Reglamento, se aplicará lo dispuesto en l
 
 El Instituto Electoral garantizará el acceso a la información pública relacionada con el cumplimiento de su objeto, relativa a la materia electoral y de participación ciudadana, en términos de lo dispuesto por la Ley de Transparencia y demás ordenamientos en la materia.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-Las personas servidoras públicas del Instituto Electoral recibirán capacitación por conducto de la Unidad Técnica del Centro de Formación y Desarrollo y la Unidad de Transparencia, en materia de transparencia, acceso a la información pública y rendición de cuentas.
+Las personas servidoras públicas del Instituto Electoral recibirán capacitación por conducto de la Secretaría Administrativa y la Unidad de Transparencia, en materia de transparencia, acceso a la información pública y rendición de cuentas.
 
 ## TÍTULO SEGUNDO. DE LOS ÓRGANOS ENCARGADOS DE LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
@@ -282,7 +284,9 @@ El Comité se integra de la manera siguiente:
 
 I. Presidencia: La persona servidora pública que designe el Consejo General del Instituto Electoral.
 
-II. Secretaría Técnica: Titular de la Oficina de Acceso a la Información Pública y Protección de Datos Personales.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+II. Secretaría Técnica: Titular de la Oficina de Transparencia, Acceso a la Información Pública, Datos Personales y Archivo.
 
 III. Personas Vocales:
 
@@ -290,39 +294,49 @@ a) Titular de la Secretaría Administrativa;
 
 b) Titular de la Contraloría Interna;
 
-c) Titular de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados; y
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+c) Titular de la Dirección de Apoyo a Órganos Desconcentrados
 
 d) Titular de la Unidad Técnica de Asuntos Jurídicos.
 
-IV. Las personas invitadas permanentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+IV. Las personas Invitadas Permanentes:
 
 a) Titular de la Unidad Técnica de Comunicación Social y Difusión;
 
-b) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
+b) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 c) Las personas que designen las Consejeras Electorales y los Consejeros Electorales, y
 
 d) La persona que designe la Secretaría Ejecutiva, en el Área Coordinadora de Archivos.
 
-V. Las personas invitadas eventuales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+V. Las personas Invitadas Eventuales:
 
 a) Titular de la Secretaría Ejecutiva;
 
-b) Titular de la Dirección Ejecutiva de Asociaciones Políticas;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-c) Titular de la Dirección Ejecutiva de Educación Cívica y Construcción de Ciudadanía;
+b) Titular de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización;
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+c) Titular de la Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana.
 
 d) Titular de la Dirección Ejecutiva de Organización Electoral y Geoestadística;
 
-e) Titular de la Dirección Ejecutiva de Participación Ciudadana y Capacitación;
+e) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
-f) Titular de la Unidad Técnica Especializada de Fiscalización;
+f) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 g) Titular de la Unidad Técnica de Servicios Informáticos;
 
-h) Titular de la Unidad Técnica de Vinculación con Organismos Externos;
+h) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
-i) Titular de la Unidad Técnica de Género y Derechos Humanos, y
+i) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 j) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
 
@@ -352,9 +366,11 @@ Las funciones de las personas integrantes, así como de las personas invitadas d
 
 La Unidad de Transparencia es la oficina del Instituto Electoral ubicada en un espacio visible y accesible al público, que se encarga de la recepción y trámite de las solicitudes de acceso a la información pública.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-El área responsable de operar la Unidad de Transparencia será la Secretaría Ejecutiva por conducto de la Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral.
+El área responsable de operar la Unidad de Transparencia será la Secretaría Ejecutiva por conducto de la Oficina de Transparencia, Acceso a la Información Pública, Datos Personales y Archivo del Instituto Electoral.
 
 ###### Artículo 14.
 
@@ -650,9 +666,9 @@ Cuando la solicitud se realice por escrito, se registrará en el sistema de soli
 
 Si la solicitud de acceso a la información pública es presentada ante un área del Instituto Electoral distinta a la Unidad de Transparencia, dicha área tendrá la obligación de indicar a la persona interesada la ubicación física de dicha Unidad.
 
-> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-La Oficialía Electoral y de Partes, así como las personas encargadas de la correspondencia de las áreas que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la Unidad de Transparencia a más tardar el día siguiente de su recepción.
+El Departamento de Oficialía de Partes, así como las personas encargadas de la correspondencia de las áreas que reciban una solicitud de información de conformidad con la Ley de Transparencia, deberán remitirla a la Unidad de Transparencia a más tardar el día siguiente de su recepción.
 
 Será responsabilidad del área que reciba la solicitud, remitir la misma dentro de los plazos establecidos.
 
@@ -1039,3 +1055,17 @@ TERCERO. Se derogan las disposiciones que se opongan a este Reglamento.
 CUARTO. Todos los procedimientos iniciados previos a la entrada en vigor del presente Reglamento deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
 
 QUINTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, Y AL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO; CON SU RESPECTIVO ANEXO. (IECM/ACU-CG-064/2022)", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento del Instituto Electoral de la Ciudad de México en materia de Transparencia, Acceso a la Información Pública y Rendición de Cuentas; y al Reglamento de Funcionamiento del Comité de Transparencia del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 15 y 16 del presente Acuerdo, conforme al Anexo que se acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y sus Anexos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
