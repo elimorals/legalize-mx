@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-integracion-funcionamiento-y-sesiones-de-los-1229
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-17"
-last_updated: "2021-01-06"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122904&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Número 135 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de agosto de 2017.
 
@@ -224,9 +224,7 @@ XIX. Secretaría Técnica: Persona Titular de la Secretaría Técnica de la Comi
 
 XX. Tribunal: Tribunal Electoral de la Ciudad de México;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
-
-XXI. UTALAOD: Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados del Instituto Electoral; y
+XXI. (DEROGADA, G.O. 11 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
 
@@ -338,7 +336,9 @@ XI. En el supuesto de que se encuentren imposibilitadas/os para asistir a las se
 
 XII. Asistir, en su caso, al procedimiento de insaculación y capacitación de la ciudadanía que habrá de integrar las Mesas Directivas de Casilla, al recorrido de lugares para determinar la ubicación de casillas electorales; así como al procedimiento de recepción, conteo, sellado y agrupado de boletas electorales en los términos de las disposiciones legales y de los instrumentos jurídicos que se celebren con el Instituto Nacional o éste delegue la función;
 
-XIII. Participar en el programa de capacitación que imparta la Unidad Técnica del Centro de Formación y Desarrollo;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Participar en el programa de capacitación que imparta la Secretaría Administrativa, a través de la Dirección de Reclutamiento, Desarrollo y Evaluación;
 
 XIV. Participar en los Grupos de Trabajo para el Recuento de Votos que determine la presidencia del Consejo; y
 
@@ -1386,6 +1386,10 @@ VI. Que el escrito de denuncia sea presentado en contra de opiniones que las per
 
 VII. Que el escrito de denuncia sea presentado fuera del plazo previsto en el artículo 80 del presente Reglamento;
 
+> <small>(ADICIONADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Que la persona probable infractora renuncie, fallezca o por cualquier causa deje de ser una persona Consejera Distrital.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE ENERO DE 2021)</small>
 
 ###### Artículo 83.
@@ -1394,9 +1398,9 @@ La Comisión Instructora dictará acuerdo de sobreseimiento del escrito mediante
 
 I. Que una vez admitido el escrito de denuncia aparezca o sobrevenga alguna causa de improcedencia de las previstas en el artículo anterior;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II. Que la persona probable infractora renuncie, fallezca o por cualquier causa deje de ser una persona Consejera Distrital, y
+II. Que el procedimiento quede sin materia, y
 
 III. Que la persona denunciante presente escrito de desistimiento.
 
@@ -1619,3 +1623,17 @@ G.O. 6 DE ENERO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PARA LA INCORPORACIÓN DEL USO DE HERRAMIENTAS TECNOLÓGICAS, LA CELEBRACIÓN DE SESIONES VIRTUALES Y MIXTAS Y EL USO INCLUYENTE DEL LENGUAJE".]
 
 ÚNICO. La presente reforma entrará en vigor al momento de su publicación en los estrados de las Oficinas Centrales del Instituto Electoral de la Ciudad de México.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES, Y AL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES, AMBOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO (IECM/ACU-CG-063/2022)”.]</small>
+
+PRIMERO. Se aprueban las reformas a los Reglamentos de Sesiones del Consejo General y Comisiones; y de Integración, Funcionamiento y Sesiones de los Consejos Distritales, todos del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 14, 15 y 16 del presente Acuerdo y de conformidad con el Anexo que se acompaña al presente, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
