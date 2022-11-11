@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-sistema-institucional-de-archivos-del-122877"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2021-05-28"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122877&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Número 134 de la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -234,15 +234,17 @@ El componente operativo está constituido por los archivos de trámite, Concentr
 
 A) Las personas responsables de la Unidad de Documentación en trámite serán las personas servidoras públicas con el perfil de Secretaria Ejecutiva, Secretaria de Unidad, Analista y Asistente Administrativo, respectivamente.
 
-B) Las personas responsables del Archivo de Concentración e Histórico serán las personas servidoras públicas del Archivo de Concentración e Histórico, adscritas a la Oficina de Acceso a la Información Pública y Protección de Datos Personales (OIAIPyDP) que ocupan los cargos de la Subdirección de Archivo, y del Departamento del Archivo General y de Concentración.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+B) Las personas responsables del Archivo de Concentración e Histórico serán las personas servidoras públicas adscritas a la Oficina de Transparencia Acceso a la Información Pública, Datos Personales y Archivo (OTAIPDPyA) que ocupan los cargos de la Subdirección de Archivo, y del Departamento del Archivo General.
 
 Las funciones específicas de los componentes operativos del Sistema se describirán en el Manual de Archivos.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-La Administración de los Archivos, por la naturaleza de sus actividades en materia de organización y conservación de archivos, será la persona Titular de la OAIPyPDP, y será responsable de regular el Sistema, para su funcionamiento estandarizado y homogéneo, para lo cual el COTECIAD será su órgano técnico consultivo.
+La Administración de los Archivos será responsabilidad de la persona Titular de la OTAIPDPyA, por la naturaleza de las actividades en materia de organización y conservación de archivos; además, de ser responsable de regular el Sistema mediante un funcionamiento estandarizado y homogéneo, para lo cual el COTECIAD será su órgano técnico consultivo.
 
 > <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -252,9 +254,13 @@ Los componentes operativos del Sistema se integrarán bajo la siguiente estructu
 
 A) Serán unidades generales del Instituto Electoral las siguientes:
 
-I. Oficialía Electoral y de Partes, a cargo de la Secretaría Ejecutiva.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II. El Departamento del Archivo General y de Concentración, a cargo de la OAIPyPDP.
+I. Subdirección de Oficialía de Partes y Gestión, a cargo de la Secretaría Ejecutiva.
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+II. El Departamento del Archivo General, a cargo de la OTAIPDPyA.
 
 B) Serán unidades particulares en cada área del Instituto Electoral, las siguientes:
 
@@ -278,7 +284,9 @@ IV. Diseñar los modelos técnicos o manuales para la organización y procedimie
 
 V. Coordinar los trabajos para la elaboración de instrumentos, procedimientos y métodos de control archivístico dentro del Instituto Electoral, proponiendo el diseño, desarrollo, implementación y actualización del Sistema de Clasificación Archivística, el Catálogo y los inventarios que se elaboren para la identificación y descripción de los archivos institucionales;
 
-VI. Preparar, en coordinación con la Unidad Técnica del Centro de Formación y Desarrollo, un programa de capacitación en materia de archivos, así como las principales estrategias para el desarrollo profesional del personal que se dedique al desempeño de las funciones archivísticas;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VI. Preparar, en coordinación con la Secretaría Administrativa, un programa de capacitación en materia de archivos, así como las principales estrategias para el desarrollo profesional del personal que se dedique al desempeño de las funciones archivísticas;
 
 VII. Coadyuvar con la Secretaría Administrativa en la atención de las necesidades para la normalización de los recursos materiales que se destinen a los archivos, propiciando la incorporación de mobiliario, equipo técnico, de conservación y seguridad, e instalaciones apropiadas para los archivos, de conformidad con las funciones y servicios que estos brindan;
 
@@ -460,11 +468,11 @@ Respecto a las Transferencias Secundarias estas se informarán al Consejo de Arc
 
 La documentación que se transfiera a los Archivos de Concentración y (sic) e Histórico deberá organizarse y resguardarse conforme al Plan de Conservación y Preservación Documental del Instituto Electoral de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-El personal del Departamento del Archivo General y de Concentración verificará que la documentación contenida en las cajas coincida con lo descrito en los Inventarios de Transferencia Primaria (ITP06) y Transferencia Secundaria (ITS06), y que además cumpla con los requisitos antes mencionados.
+El personal del Departamento del Archivo General verificará que la documentación contenida en las cajas coincida con lo descrito en los Inventarios de Transferencia Primaria (ITP06) y Transferencia Secundaria (ITS06), y que además cumpla con los requisitos antes mencionados.
 
 > <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -719,3 +727,17 @@ G.O. 28 DE MAYO DE 2021.
 PRIMERO. La presente reforma al Reglamento del Sistema Institucional de Archivos del Instituto Electoral de la Ciudad de México entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente reforma del Reglamento.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL“ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE OPERACIÓN Y FUNCIONAMIENTO DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS Y AL REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS, AMBOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. (IECM/ACU-CG-065/2022)”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento de Operación y Funcionamiento del Comité Técnico Interno de Administración de Documentos de (sic) Instituto Electoral de la Ciudad de México; y al Reglamento del Sistema Institucional de Archivos del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 14 y 15 del presente Acuerdo, conforme al Anexo que se acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
