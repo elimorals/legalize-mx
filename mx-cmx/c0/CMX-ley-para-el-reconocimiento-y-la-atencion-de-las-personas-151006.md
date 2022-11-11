@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-reconocimiento-y-la-atencion-de-las-personas-151006
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-07"
-last_updated: "2021-09-07"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-09-06"
 
 LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número 678 Bis de la Gaceta Oficial de la Ciudad de México, el martes 7 de septiembre de 2021.
 
@@ -406,7 +406,9 @@ Corresponde al Congreso de la Ciudad de México:
 
 I. Analizar y en su caso impulsar las reformas legislativas pertinentes para facilitar el cumplimiento de los derechos consagrados en la Constitución local en favor de las personas LGBTTTI, y
 
-II. Analizar y destinar en el Presupuesto de Egresos del Ejercicio Fiscal correspondiente, los recursos económicos necesarios para el adecuado funcionamiento de la UNADIS, y para la incorporación presupuestal de las políticas en materia de diversidad sexual y de género en toda la administración pública del Gobierno de la Ciudad de México; lo anterior de manera progresiva y de acuerdo con la disponibilidad presupuestal de la entidad.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+II. Analizar y destinar en el Presupuesto de Egresos del Ejercicio Fiscal correspondiente, los recursos económicos necesarios para el adecuado funcionamiento de la UNADIS, a través de la asignación de dichos recursos a la Secretaría de Gobierno de la Ciudad de México, así como para la incorporación presupuestal de las políticas en materia de diversidad sexual y de género en toda la administración pública del Gobierno de la Ciudad de México; lo anterior de manera progresiva y de acuerdo con la disponibilidad presupuestal de la entidad.
 
 ###### Artículo 26.
 
@@ -470,7 +472,13 @@ De la Unidad de Atención de la Diversidad Sexual de la Ciudad de México.
 
 La Unidad de Atención a la Diversidad Sexual de la Ciudad de México, es el instrumento para la concertación, el establecimiento y seguimiento a acuerdos, acciones, políticas públicas entre los poderes Ejecutivo, Legislativo y Judicial, los Organismos Autónomos, las Alcaldías, las Organizaciones de la Sociedad Civil y la Academia.
 
-La Secretaría de Gobierno de la Ciudad de México tendrá a su cargo la UNADIS, Unidad encargada de garantizar el cumplimiento de los fines de la presente Ley, a efecto de asegurar la progresividad de los derechos humanos de las personas LGBTTTI, así como para dar el seguimiento oportuno a lo mandatado por esta Ley y demás normativa en la materia, de acuerdo con sus atribuciones.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+La Secretaría de Gobierno de la Ciudad de México tendrá a su cargo la UNADIS, área encargada de garantizar el cumplimiento de los fines de la presente Ley, a efecto de asegurar la progresividad de los derechos humanos de las personas LGBTTTI, así como para dar el seguimiento oportuno a lo mandatado por esta Ley y demás normativa en la materia, de acuerdo con sus atribuciones.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+En esta área se deberá procurar la inclusión laboral de personas LGBTTTI, privilegiando la paridad de género en su composición.
 
 ###### Artículo 31.
 
@@ -572,13 +580,15 @@ X. Las demás que se establezcan en otros ordenamientos aplicables.
 
 ### Capítulo III. De la Secretaría Ejecutiva de la UNADIS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 36.
 
-La Secretaría Ejecutiva de la UNADIS es un órgano adscrito a la Secretaría de Gobierno de la Ciudad de México de carácter técnico especializado, para garantizar el cumplimiento de los fines de la presente Ley, a efecto de asegurar la progresividad de los derechos humanos de las personas LGBTTTI.
+La Secretaría Ejecutiva de la UNADIS es un área adscrita a la Secretaría de Gobierno de la Ciudad de México de carácter técnico especializado, para garantizar el cumplimiento de los fines de la presente Ley, a efecto de asegurar la progresividad de los derechos humanos de las personas LGBTTTI.
 
-La persona titular de la Jefatura de Gobierno de la Ciudad elegirá a la persona titular de la Secretaría Ejecutiva de la UNADIS, quien representará al organismo y tendrá la responsabilidad de implementar acciones para cumplir con sus atribuciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-La duración del cargo de la persona titular de la Secretaría Ejecutiva de la UNADIS será por un periodo de cuatro años, con posibilidad de ratificación sólo por un periodo igual inmediato.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 37.
 
@@ -706,13 +716,17 @@ TERCERO. El Gobierno de la Ciudad de México tendrá 120 días naturales despué
 
 CUARTO. A la entrada en vigor del presente Decreto, se derogan las demás disposiciones que se opongan a la presente Ley.
 
-QUINTO. La Secretaría de Administración y Finanzas de la Ciudad de México deberá de prever en el Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2022, los recursos suficientes para el funcionamiento del organismo desconcentrado denominado Secretaría Ejecutiva de la UNADIS, adscrito a la Secretaría de Gobierno de la Ciudad de México, y dictaminar la estructura orgánica de la entidad a fin de que la UNADIS cuente con recursos humanos, materiales y financieros suficientes para el cumplimiento de su objeto.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+QUINTO. La Secretaría de Administración y Finanzas de la Ciudad de México deberá de prever en el Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal correspondiente, los recursos suficientes para el funcionamiento de la Secretaría Ejecutiva de la UNADIS, adscrita a la Secretaría de Gobierno de la Ciudad de México, y dictaminar su estructura orgánica a fin de que la Secretaría Ejecutiva de la UNADIS cuente con recursos humanos, materiales y financieros suficientes para el cumplimiento de su objeto.
 
 SEXTO. La persona titular de la Jefatura de Gobierno de la Ciudad de México designará a la persona que ocupará la titularidad de la Secretaría Ejecutiva de la UNADIS dentro de un plazo no mayor a 60 días naturales posteriores a la entrada en vigor de la presente Ley.
 
-SÉPTIMO. Las Organizaciones de la Sociedad Civil y las Instituciones de Educación Superior ubicadas en la Ciudad de México que formarán parte de la Comisión de Coordinación Interinstitucional del Mecanismo deberán ser electas en un plazo no mayor a 90 días naturales posteriores a la designación de la persona titular de la Secretaría Ejecutiva de la UNADIS mediante un procedimiento de selección.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-Para tales efectos, la persona Titular de la Secretaría de Gobierno en conjunto con la persona titular de la Secretaría Ejecutiva de la UNADIS emitirán la convocatoria correspondiente.
+SÉPTIMO. Las Organizaciones de la Sociedad Civil y las Instituciones de Educación Superior ubicadas en la Ciudad de México que formarán parte de la Comisión de Coordinación Interinstitucional del Mecanismo deberán ser electas en un plazo no mayor a 90 días naturales posteriores al nombramiento de la persona titular de la Secretaría Ejecutiva de la UNADIS mediante un procedimiento de selección establecido en el Reglamento.
+
+Para tales efectos la persona Titular de la Secretaría de Gobierno en conjunto con la persona titular de la Secretaría Ejecutiva de la UNADIS emitirán la convocatoria correspondiente.
 
 OCTAVO. La persona Titular de la Secretaría de Gobierno de la Ciudad de México de manera provisional en tanto la Secretaría de Administración y Finanzas asigna los recursos suficientes, deberá elegir entre el personal a su cargo a las personas que apoyarán para encaminar los trabajos oportunamente de la UNADIS.
 
@@ -720,11 +734,15 @@ NOVENO. La Comisión de Coordinación Interinstitucional se instalará a los 15 
 
 DÉCIMO. La Segunda Legislatura del Congreso de la Ciudad de México destinará los recursos suficientes para la operación de la UNADIS correspondiente al ejercicio fiscal 2022.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 DÉCIMO PRIMERO. A la entrada en vigor del presente Decreto:
 
 a) La Dirección General de Diversidad Sexual y Derechos Humanos adscrita actualmente a la Secretaría de Inclusión y Bienestar Social pasará a ser la Unidad de Atención de la Diversidad Sexual de la Ciudad de México (UNADIS) prevista en la presente Ley. Dicha Unidad estará adscrita a la Secretaría de Gobierno, a costos compensados.
 
-b) El cargo de la Dirección General de Diversidad Sexual y Derechos Humanos de la Secretaría de Inclusión y Bienestar Social, en lo sucesivo se denominará Secretaría Ejecutiva de la UNADIS. Para tales efectos la Persona Titular de la Jefatura de Gobierno de la Ciudad de México hará pública la ratificación correspondiente conforme lo establece el artículo SEXTO transitorio de la Ley para el Reconocimiento y la Atención de las Personas LGBTTTI de la Ciudad de México.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+b) El cargo de la Dirección General de Diversidad Sexual y Derechos Humanos de la Secretaría de Inclusión y Bienestar Social, en lo sucesivo se denominará Secretaría Ejecutiva de la UNADIS.
 
 c) Los recursos humanos y materiales de la actual Dirección General de Diversidad Sexual y Derechos Humanos pasarán, de manera íntegra, a la UNADIS.
 
@@ -739,3 +757,15 @@ e) Para efectos de lo establecido en la fracción I del artículo 26, la atenci�
 Palacio Legislativo del Congreso de la Ciudad de México, a los treinta días del mes de agosto del año dos mil veintiuno. POR LA MESA DIRECTIVA, DIPUTADA ANA PATRICIA BAEZ GUERRERO, PRESIDENTA, DIPUTADA DONAJI OFELIA OLIVERA REYES, SECRETARÍA, DIPUTADO PABLO MONTES DE OCA DEL OLMO, SECRETARÍO (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los seis días del mes de septiembre del año dos mil veintiuno.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- LA SECRETARIA DE CIENCIA Y TECNOLOGIA E INNOVACIÓN LA, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA. LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 25, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30, LOS TRANSITORIOS QUINTO, SÉPTIMO Y DÉCIMO PRIMERO, Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 36, TODOS DE LA LEY PARA EL RECONOCIMIENTO Y LA ATENCIÓN DE LAS PERSONAS LGBTTTI DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+TERCERO.- En tanto se formaliza material, financiera y administrativamente, la creación de la Secretaria Ejecutiva de la Unidad de Atención a la Diversidad Sexual de la Ciudad de México (UNADIS), los recursos humanos, materiales, técnicos, tecnológicos, financieros y presupuestales de la Dirección General de Diversidad Sexual y Derechos Humanos adscrita a la Secretaría de Inclusión y Bienestar Social continuara ejerciendo los recursos presupuestales correspondientes a esa área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2022.
