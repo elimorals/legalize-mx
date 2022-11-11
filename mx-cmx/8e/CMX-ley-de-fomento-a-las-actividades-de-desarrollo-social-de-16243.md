@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-a-las-actividades-de-desarrollo-social-de-16243"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2017-10-05"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16243&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-04-24"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUADAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -46,9 +46,11 @@ LEY DE FOMENTO ALAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVIL
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, de interés social y de aplicación en el Distrito Federal y tiene por objeto fomentar las actividades de Desarrollo Social que realicen las organizaciones civiles en beneficio de la población de esta entidad.
+La presente Ley es de orden público, de interés social y de aplicación en la Ciudad de México y tiene por objeto fomentar las actividades de Desarrollo Social que realicen las organizaciones civiles en beneficio de la población en esta entidad.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 5 DE OCTUBRE DE 2017)</small>
 
@@ -74,7 +76,9 @@ VIII. Promover la educación cívica y la participación ciudadana para benefici
 
 IX. Desarrollar servicios educativos en los términos de la Ley General de Educación;
 
-X. Aportar recursos humanos, materiales o de servicios para la salud integral de la población, en el marco de la Ley General de Salud y de la Ley de Salud para el Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+X. Aportar recursos humanos, materiales o de servicios para la salud integral de la población, en el marco de la Ley General de Salud y de la Ley de la Salud para la Ciudad de México;
 
 XI. Apoyar las actividades a favor del desarrollo urbano y el ordenamiento territorial;
 
@@ -122,9 +126,11 @@ III. Las personas morales que tienen como objeto principal trabajar exclusivamen
 
 IV. Las personas morales que tienen como objetivo principal la realización de actividades con fines mercantiles y que no cumplen los requisitos estipulados en las fracciones II y III del artículo 9 de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 5.
 
-Las actividades a que se refiere el artículo 2 de esta Ley son de interés social, por lo que las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias, deberán fomentarlas, tanto administrativa como fiscalmente, así como mediante:
+Las actividades a que se refiere el artículo 2 de esta Ley son de interés social, por lo que las dependencias, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán fomentarlas, tanto administrativa como fiscalmente, así como mediante:
 
 I. La promoción de la participación ciudadana en las políticas de Desarrollo Social;
 
@@ -138,17 +144,23 @@ V. El establecimiento de mecanismos para que las organizaciones civiles cumplan 
 
 VI. La promoción de estudios e investigaciones que permitan apoyar a las organizaciones civiles en el desarrollo de sus actividades.
 
-Las dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, en el ámbito de sus respectivas competencias, propiciarán la actuación coordinada para el fomento de las actividades de Desarrollo Social.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Las dependencias, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México, en el ámbito de sus respectivas competencias, propiciaran la actuación coordinada para el fomento de las actividades de Desarrollo Social.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-La Administración Pública del Distrito Federal promoverá la celebración de convenios de coordinación con la Federación, Gobiernos de los Estados y de los municipios, para fomentar las actividades a que se refiere esta ley.
+La Administración Pública de la Ciudad de México promoverá la celebración de convenios de coordinación con la Federación, Gobiernos de los Estados y de los Municipios, para fomentar las actividades a que se refiere esta Ley.
 
 ### CAPITULO SEGUNDO. DEL REGISTRO DE LAS ORGANIZACIONES CIVILES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Desarrollo Social del Distrito Federal deberá integrar, con la participación de las Organizaciones el Registro de Organizaciones Civiles del Distrito Federal en el que se inscribirán, cuando así lo soliciten, las Organizaciones Civiles que realicen las actividades de Desarrollo Social a que se refiere esta Ley. Dicho Registro será público y tendrá las siguientes funciones:
+La Secretaría de Inclusión y Bienestar Social de la Ciudad de México deberá integrar, con la participación de las organizaciones el Registro de Organizaciones Civiles de la Ciudad de México en el que se inscribirán, cuando así lo soliciten, las Organizaciones Civiles que realicen las actividades de Desarrollo Social a que se refiere esta Ley. Dicho Registro será público y tendrá las siguientes funciones:
 
 I. Organizar y administrar un sistema de registro y de información de las organizaciones civiles;
 
@@ -160,9 +172,11 @@ IV. Reconocer públicamente las acciones que lleven a cabo las organizaciones ci
 
 V. Las demás que le establezcan el Reglamento de esta Ley y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 8.
 
-Para su inscripción en el Registro de Organizaciones Civiles del Distrito Federal, las organizaciones presentarán solicitud ante la Secretaría de Desarrollo Social del Distrito Federal, en el formato autorizado por ésta, con los requisitos siguientes:
+Para su inscripción en el Registro de Organizaciones Civiles de la Ciudad de México, las organizaciones presentarán solicitud ante la Secretaría de Inclusión y Bienestar Social de la Ciudad de México, en el formato autorizado por ésta, con los requisitos siguientes:
 
 I. Presentar copia certificada de su acta constitutiva y de sus estatutos;
 
@@ -174,37 +188,55 @@ IV. Señalar su domicilio social, y
 
 V. Designar un representante legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Recibida la solicitud a que se refiere el artículo anterior, la Secretaría de Desarrollo Social del Distrito Federal, en un plazo no mayor de treinta días hábiles, resolverá sobre la procedencia de la inscripción.
+Recibida la solicitud a que se refiere el artículo anterior, la Secretaría de Inclusión y Bienestar Social de la Ciudad de México, en un plazo no mayor de treinta días hábiles, resolverá sobre la procedencia de la inscripción.
 
 La Secretaría negará la inscripción cuando no se cumpla alguno de los requisitos a que se refiere el artículo anterior, la documentación exhibida presente alguna irregularidad, exista constancia de haber cometido en el desarrollo de sus actividades infracciones graves o reiteradas a esta Ley y a otras disposiciones jurídicas, o cuando haya evidencia de que la organización no cumpla con su objeto.
 
 ### CAPITULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LAS ORGANIZACIONES CIVILES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-Las organizaciones civiles inscritas en el Registro de Organizaciones Civiles del Distrito Federal adquirirán los derechos siguientes:
+Las organizaciones civiles inscritas en el Registro de Organizaciones Civiles de la Ciudad de México adquirirán los derechos siguientes:
 
-I. Ser instancias de consulta para proponer objetivos, prioridades y estrategias de política de Desarrollo Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II. Ser representadas en los órganos de participación y consulta ciudadana que en materia de Desarrollo Social establezca la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas aplicables;
+I. Ser instancias de consulta para proponer objetivos, prioridades y estrategias de política de Desarrollo Social de la Ciudad de México;
 
-III. Participar en la formulación, seguimiento y evaluación de los programas de Desarrollo Social y en la promoción de mecanismos de contraloría social, dentro del Programa General de Desarrollo del Distrito Federal:
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+II. Ser representadas en los órganos de participación y consulta ciudadana que en materia de Desarrollo Social establezca la Administración Pública de la Ciudad de México, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+III. Participar en la formulación, seguimiento y evaluación de los programas de Desarrollo Social y en la promoción de mecanismo de contraloría social, dentro del Programa General de Desarrollo de la Ciudad de México;
 
 IV. Recibir los bienes de otras organizaciones civiles que se extingan, de conformidad con sus estatutos y sin perjuicio de lo que dispongan otras disposiciones jurídicas;
 
-V. Acceder, en los términos estipulados por el reglamento, a los recursos y fondos públicos que, para las actividades previstas en esta Ley, y conforme a las disposiciones jurídicas de la materia, destina la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VI. Gozar de las prerrogativas fiscales y demás beneficios económicos y administrativos que otorgue la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas de la materia;
+V. Acceder, en los términos estipulados por el reglamento, a los recursos y fondos públicos que, para las actividades previstas en esta Ley, y conforme a las disposiciones jurídicas de la materia, destina la Administración Pública de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VI. Gozar de las prerrogativas fiscales y demás beneficios económicos y administrativos que otorgue la Administración Pública de la Ciudad de México, de conformidad con las disposiciones jurídicas de la materia;
 
 VII. Coadyuvar con las autoridades competentes, en los términos de los convenios de concertación que al efecto se celebren, en la prestación de servicios públicos; y
 
-VIII. Recibir, en el marco de los programas que al efecto formulen dependencias, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, asesoría, capacitación y colaboración, cuando así lo soliciten.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Recibir, en el marco de los programas que al efecto formulen dependencias, órganos desconcentrados y entidades de la Administración Pública de la Ciudad de México, asesoría, capacitación y colaboración, cuando así lo soliciten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-Las organizaciones civiles inscritas en el Registro de Organizaciones Civiles del Distrito Federal tendrán, además de las obligaciones previstas en otras disposiciones jurídicas que atañen a su objeto social, las siguientes:
+Las organizaciones civiles inscritas en el Registro de Organizaciones Civiles de la Ciudad de México tendrán, además de las obligaciones previstas en otras disposiciones jurídicas que atañen a su objeto social, las siguientes:
 
 I. Informar al Registro cualquier modificación a su objeto social, domicilio o representación legal, en un plazo no mayor de cuarenta y cinco días hábiles contados a partir de la protocolización de la modificación respectiva, a efecto de mantener actualizado el sistema de registro a que se refiere esta Ley;
 
@@ -214,13 +246,17 @@ III. Destinar la totalidad de sus recursos al cumplimiento de su objeto;
 
 IV. Carecer de ligas de dependencia o subordinación con partidos políticos y abstenerse de efectuar actividades político-partidistas, así como de realizar proselitismo o propaganda con fines religiosos; y
 
-V. Proporcionar a la autoridad que otorgue los recursos y fondos públicos a que se refiere la Ley, la información, así como las facilidades para la verificación en todo momento, sobre el uso y destino de los apoyos otorgados.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+V. Proporcionar a la autoridad que otorgue los recursos y fondos públicos a que se refiere la Ley, la información, así como las facilidades para la verificación, inspección y fiscalización en todo momento, sobre el uso y destino de los apoyos otorgados.
 
 ### CAPÍTULO CUARTO. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-la Secretaría de Desarrollo Social del Distrito Federal impondrá a las organizaciones civiles registradas las sanciones siguientes:
+La Secretaría de Inclusión y Bienestar Social de la Ciudad de México impondrá a las organizaciones civiles registradas las sanciones siguientes:
 
 I. Apercibimiento, en el caso de que incurran por primera vez en incumplimiento de las obligaciones que establecen las fracciones I y II del artículo 11 de esta Ley, para que en un plazo no menor de treinta días hábiles contados a partir de la notificación respectiva, subsane la irregularidad;
 
@@ -236,9 +272,11 @@ Las sanciones a que se refiere este artículo, se aplicarán conforme a lo dispu
 
 ### CAPÍTULO QUINTO. DEL RECURSO ADMINISTRATIVO
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-En contra de los actos y resoluciones de la Administración Pública del Distrito Federal ordenados o dictados con motivo de la aplicación de la presente Ley y normas jurídicas que de ella emanen, se podrá interponer el recurso de inconformidad, en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
+En contra de los actos y resoluciones de la Administración Pública de la Ciudad de México ordenados o dictados con motivo de la aplicación de la presente Ley y normas jurídicas que de ella emanen, se podrá interponer el recurso de inconformidad, en términos de lo dispuesto por la Ley de Procedimiento Administrativo de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -269,3 +307,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- El Jefe de Gobierno de la Ciudad de México deberá adecuar el reglamento de la presente ley, dentro de los 90 días naturales siguientes al día de entrada en vigor del presente Decreto.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 1, 2, FRACCIONES I, V, X Y XVIII, 5, FRACCIÓN VI, PÁRRAFO SEGUNDO, 6, 7, 8, 9, 10, FRACCIONES I, II, III, V, VI Y VIII, 11, FRACCIÓN V, 12 Y 13, ASÍ COMO LA DENOMINACIÓN, DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
