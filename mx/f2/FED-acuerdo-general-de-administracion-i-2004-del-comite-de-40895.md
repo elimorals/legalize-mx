@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2004-del-comite-de-40895"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-02-02"
-last_updated: "2004-02-02"
+last_updated: "2022-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40895&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2004-02-02"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION I/2004 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA CERTIFICACION DEL ESTADO DE EMBARAZO Y LICENCIA RESPECTIVA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VII/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE REGULAN LAS LICENCIAS DE MATERNIDAD QUE OTORGUE LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS DE ESTE ALTO TRIBUNAL, PUBLICADO EN EL S.J.F. DE 11 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACION I/2004, DEL DOS DE FEBRERO DE DOS MIL CUATRO, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, RELATIVO A LA POSIBILIDAD DE QUE SE CERTIFIQUE EL ESTADO DE EMBARAZO Y SE OTORGUE LA LICENCIA RESPECTIVA POR LA DIRECCION DE SERVICIOS MEDICOS DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIX, Febrero de 2004, página 1189.
 
@@ -88,3 +90,17 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VII/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRES DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE REGULAN LAS LICENCIAS DE MATERNIDAD QUE OTORGUE LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor el siete de noviembre de dos mil veintidós.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración I/2004, del dos de febrero de dos mil cuatro del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a la posibilidad de que se certifique el estado de embarazo y se otorgue la licencia respectiva por la Dirección de Servicios Médicos de este Alto Tribunal, así como todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Las licencias solicitadas u otorgadas antes de la entrada en vigor del presente Acuerdo General de Administración se regirán por la normativa vigente en la fecha de su solicitud o autorización, sin menoscabo de que a las personas servidoras públicas se les pueda aplicar, en su beneficio, lo previsto en el presente Acuerdo General de Administración.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
