@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-operacion-y-funcionamiento-del-comite-tecnico-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2021-05-28"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122879&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE OPERACIÓN Y FUNCIONAMIENTO DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -106,7 +106,9 @@ III. Consejo de Archivos: Consejo de Archivos de la Ciudad de México;
 
 IV. Sistema Institucional de Archivos: Conjunto orgánico de archivos vinculados entre sí, que normalizan los procesos archivísticos y concentran la información en un punto accesible a la consulta interna y externa.
 
-V. Administración de los Archivos: Titular de la Oficina de Acceso a la Información Pública y Protección de Datos Personales (OAIPyPDP);
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+V. Administración de los Archivos: Titular de la Oficina de Transparencia, Acceso a la Información Pública, Datos Personales y Archivo (OTAIPDPyA);
 
 VI. COTECIAD: Comité Técnico Interno de Administración de Documentos del Instituto Electoral;
 
@@ -168,13 +170,17 @@ c) Secretaría Ejecutiva;
 
 d) Secretaría Administrativa;
 
-e) Órganos con autonomía técnica y de gestión: Contraloría Interna y Unidad Técnica Especializada de Fiscalización;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+e) Contraloría Interna;
 
 f) Direcciones Ejecutivas;
 
 g) Unidades Técnicas;
 
-h) Direcciones Distritales, representadas por el personal designado por la UTALAOD; y
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+h) Direcciones Distritales, cabeceras de Demarcación Territorial; y
 
 V. (DEROGADA, G.O. 28 DE MAYO DE 2021)
 
@@ -252,7 +258,9 @@ XVI. Las demás que establezca la normativa que, en su caso, expida el Consejo G
 
 Corresponde a la Presidencia del Comité:
 
-I. Asistir a las sesiones del COTECIAD y participar en ellas con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+I. Participar con derecho a voz y voto en las sesiones del COTECIAD, de forma presencial o virtual;
 
 > <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -312,7 +320,9 @@ XX. Las demás que en el ámbito de su competencia le confiera este Reglamento y
 
 Corresponde a la Secretaría Técnica:
 
-I. Asistir a las sesiones del COTECIAD y participar en ellas con derecho a voz;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+I. Participar en las sesiones, de forma presencial o virtual, con derecho a voz;
 
 > <small>(REFORMADA, G.O. 28 DE MAYO DE 2021)</small>
 
@@ -374,13 +384,25 @@ XXI. Las demás que en el ámbito de su competencia le confiera este Reglamento 
 
 Corresponde a las personas Vocales y Representantes:
 
-I. Asistir a las sesiones y participar en ellas con derecho a voz;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+I. Participar en las sesiones, de forma presencial, o bien, de manera virtual o mixta, según lo determinen, con derecho a voz;
 
-Cuatro de las personas vocales tendrán derecho a voto: las correspondientes a la Dirección de Planeación y Recursos Financieros, designado por la Secretaría Administrativa, y de las Direcciones Distritales, designado por la UTALAOD, ambos con carácter permanente; las otras dos de las Direcciones Ejecutivas y de las Unidades Técnicas cuyo voto será rotativo.
+Cuatro de las personas vocales tendrán derecho a voto, siendo las siguientes:
 
-El voto rotativo de las y los vocales de las Direcciones y Unidades tendrá duración de un año y el orden de rotación se hará conforme a la estructura orgánica y funcional del Instituto Electoral, determinada en su Reglamento Interior; a excepción de la UTALAOD.
+a) Voto con carácter permanente: La Dirección de Planeación y Recursos Financieros, designada por la Secretaría Administrativa;
+
+b) Voto con carácter rotativo:
+
+i) Direcciones Ejecutivas;
+
+ii) Unidades Técnicas; y,
+
+iii) Direcciones Distritales, cabeceras de Demarcación Territorial.
+
+El voto rotativo de las personas de las Direcciones Ejecutivas y Unidades Técnicas tendrá duración de un año, a partir de la Primera Sesión Ordinaria en la que participen, y el orden de rotación se hará conforme a la estructura orgánica y funcional del Instituto Electoral, determinada en su Reglamento Interior.
+
+El voto rotativo de las personas de las Direcciones Distritales cabeceras de Demarcación Territorial tendrá duración de un año, a partir de la Primera Sesión Ordinaria en la que participen, y la rotación se hará conforme al orden alfabético de las Alcaldías.
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -466,15 +488,27 @@ C) Las sesiones urgentes se sujetarán a lo siguiente:
 
 I. Serán convocadas por la Presidencia cuando que se trate de asuntos de extrema urgencia o cuya naturaleza requiera de una atención inmediata, casos en los que se podrá convocar en un plazo menor.
 
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 14.
 
-La convocatoria a sesión deberá referir el día, hora y lugar en que deberá celebrarse la sesión, la mención de su carácter de ordinaria o extraordinaria. A dicha convocatoria deberá agregarse el proyecto de orden del día, los documentos y anexos necesarios para el estudio, análisis o discusión de los asuntos. Dichos documentos podrán ser distribuidos por medios electrónicos, magnéticos u ópticos a las y los integrantes del COTECIAD y se pondrán a su disposición, a partir de la fecha de emisión de la convocatoria, en la oficina de la Secretaría Técnica, con el objeto de que puedan ser consultados en dicho lugar.
+La convocatoria a sesión deberá referir el día, hora y la forma en que deberá celebrarse, en la modalidad presencial, o bien, de manera virtual o mixta; además de la mención de su carácter de ordinaria o extraordinaria o urgente. A dicha convocatoria deberá agregarse el proyecto de orden del día, los documentos y Este documento ha sido firmado con la firma electrónica del IECM, todas las firmas se encuentran al final del documento 15 anexos necesarios para el estudio, análisis o discusión de los asuntos. Dichos documentos podrán ser distribuidos por medios electrónicos, magnéticos u ópticos a las y los integrantes del COTECIAD y se pondrán a su disposición, a partir de la fecha de emisión de la convocatoria, en la oficina de la Secretaría Técnica, con el objeto de que puedan ser consultados en dicho lugar.
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+Dichas sesiones podrán realizarse de manera presencial, virtual o mixta observando en todo momento las reglas generales previstas en el presente Reglamento.
+
+Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
+
+Las sesiones virtuales y mixtas serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
+
+Las sesiones mixtas podrán desarrollarse con algunas personas integrantes del Comité presentes de forma virtual y otras de forma presencial, para lo cual deberán notificar a la persona Presidenta del Comité la forma en que opten para asistir a la sesión, en caso de que se determine que la misma se lleve a cabo en esta modalidad.
+
+En caso de que la Presidencia del Comité opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Las sesiones del COTECIAD se llevarán a cabo en el domicilio oficial del Instituto. Sólo por causas de fuerza mayor o caso fortuito se desarrollarán en las modalidades presencial, virtual o mixta, y en el lugar o plataforma que garanticen el buen desarrollo y la libre participación de sus integrantes.
+El Comité sesionará en la modalidad presencial, o bien, de manera virtual o mixta, según lo determinen sus integrantes; de tal forma que se garantice el buen desarrollo y la libre participación de sus integrantes.
 
 ### CAPÍTULO II. DE LA INSTALACIÓN Y DESARROLLO DE LAS SESIONES
 
@@ -659,3 +693,17 @@ G.O. 28 DE MAYO DE 2021.
 PRIMERO. La presente reforma al Reglamento de Operación y Funcionamiento del Comité Técnico Interno de Administración de Documentos del Instituto Electoral de la Ciudad de México entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente reforma del Reglamento.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE OPERACIÓN Y FUNCIONAMIENTO DEL COMITÉ TÉCNICO INTERNO DE ADMINISTRACIÓN DE DOCUMENTOS Y AL REGLAMENTO DEL SISTEMA INSTITUCIONAL DE ARCHIVOS, AMBOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. (IECM/ACU-CG-065/2022).” QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento de Operación y Funcionamiento del Comité Técnico Interno de Administración de Documentos de (sic) Instituto Electoral de la Ciudad de México; y al Reglamento del Sistema Institucional de Archivos del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 14 y 15 del presente Acuerdo, conforme al Anexo que se acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
