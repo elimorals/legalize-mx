@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2015-11-20"
+last_updated: "2022-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -157,13 +157,21 @@ b) Para la elaboración del diagnóstico, el instituto invitará a los organismo
 
 c) La actualización del diagnóstico deberá prever la integración de avances bimestrales en cada uno de los rubros en que este se estructure;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-XXX. Llevar a cabo todas las acciones que conforme a la normatividad en materia de prevención, atención, sanción y erradicación de violencia en contra de las mujeres le correspondan; y
+XXX. Llevar a cabo todas las acciones que conforme a la normatividad en materia de prevención, atención, sanción y erradicación de violencia en contra de las mujeres le correspondan;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-XXXI. Las demás que señale el reglamento de esta Ley.
+XXXI. Proponer e implementar acciones enfocadas a reflexionar, generar cambios de actitud y motivar a las mujeres a participar en talleres y cursos de emprendimiento de oficios, tradicionalmente dirigidos a hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+XXXII. Proponer, implementar y/o fomentar talleres y cursos de emprendimiento, para las mujeres de oficios tradicionalmente dirigidos a hombres; debiendo darse la máxima publicidad; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+XXXIII. Las demás que señale el reglamento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2004)</small>
 
@@ -594,3 +602,9 @@ P.O. 18 DE OCTUBRE DE 2013.
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 160 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 6 DE LA LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
