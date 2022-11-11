@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2022-05-09"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -65,7 +65,9 @@ V.- Patronato.- El órgano máximo de representación y administración de una I
 
 VI.- Patrono.- La persona que integra el patronato;
 
-VII.- Ley.- La Ley de Asistencia Social para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VIII.- Secretaría.- Secretaría de Bienestar.
 
 VIII.- Secretaría.- La Secretaría de Desarrollo Social.
 
@@ -213,23 +215,25 @@ XVI.- En general, todas las familias, incluyendo a aquellas que, por encontrarse
 
 De acuerdo a lo dispuesto en la Ley General de Salud, corresponde al Poder Ejecutivo del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, dentro de su jurisdicción territorial y con base a las normas técnicas que al efecto establezca la Secretaría de Salud.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de la presente Ley, el Ejecutivo instruirá y fijará los mecanismos de coordinación entre las Secretarías de Salud, de Desarrollo Social y de Educación y Bienestar Social del Estado, para que con el apoyo del Sistema Estatal de Asistencia Social se realicen los planes y programas para el otorgamiento de desayunos escolares gratuitos a todas las niñas, niños y adolescentes que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, iniciando los programas respectivos en aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación.
+Para dar pleno cumplimiento a lo dispuesto en la fracción X del artículo 4 de la presente Ley, el Ejecutivo instruirá y fijará los mecanismos de coordinación entre las Secretarías de Salud, de Bienestar y de Educación, para que con el apoyo del Sistema Estatal de Asistencia Social se realicen los planes y programas para el otorgamiento de desayunos escolares gratuitos a todas las niñas, niños y adolescentes que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, iniciando los programas respectivos en aquellas escuelas que se ubiquen en zonas indígenas, rurales o de alta marginación.
 
 ### CAPITULO II. DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 7.
 
-El Sistema Estatal de Asistencia Social, se integra por las siguientes dependencias y entidades:
+El Sistema Estatal de Asistencia Social, se integra por las siguientes dependencias, entidades y órganos autónomos:
 
 I.- Secretaría;
 
 II.- Secretaría de Salud;
 
-III.- Secretaría de Educación y Bienestar Social;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+III.- Secretaría de Educación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -239,13 +243,13 @@ IV.- Secretaría del Trabajo y Previsión Social;
 
 V.- Secretaría General de Gobierno;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VI.- Secretaría de Planeación y Finanzas;
+VI.- Secretaría de Hacienda;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VII.- Procuraduría de Justicia del Estado;
+VII.- Fiscalía General del Estado de Baja California;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
 
@@ -255,7 +259,7 @@ VIII.- DIF Estatal;
 
 IX.- Desarrollo Social de los municipios;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 X.- DIF Municipales.
 
@@ -401,9 +405,9 @@ XII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Esta
 
 XIII.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de niñas, niños y adolescentes o de personas (sic) discapacidad mental y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-XIV.- Participar en programas de rehabilitación y educación especial, en coordinación con las Secretarías de Educación y Bienestar Social y la de Salud del Estado, de acuerdo con las disposiciones legales correspondientes;
+XIV.- Participar en programas de rehabilitación y educación especial, en coordinación con las Secretarias de Educación y la de Salud del Estado, de acuerdo con las disposiciones legales correspondientes;
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -413,11 +417,11 @@ XVI.- Elaborar y proponer a la Junta de Gobierno los reglamentos que se requiera
 
 XVII.- Las demás que establezcan las disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 18.
 
-El DIF Estatal contará con la Procuraduría para la Protección de Niñas, Niños y Adolescentes y la Familia, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las niñas, niños y adolescentes, adultos mayores y personas con discapacidad sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado, a los adultos mayores y personas con discapacidad sin recursos económicos y aquellas con discapacidad mental, así como todas aquellas que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
+El DIF Estatal contará con la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, como órgano especializado dotado de autonomía técnica y operativa para brindar protección jurídica a la integridad familiar, a las niñas, niños y adolescentes, adultos mayores y personas con discapacidad sin recursos económicos, la cual tendrá las atribuciones que le otorga esta Ley, la Ley para la Protección y Defensa de los Derechos de Niñas, Niños y Adolescentes del Estado, a los adultos mayores y personas con discapacidad sin recursos económicos y aquellas con discapacidad mental, así como todas aquellas que le confieran otras leyes dentro de los objetivos del Sistema para el Desarrollo Integral de la Familia de Baja California.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
@@ -513,27 +517,47 @@ El Patronato celebrará dos sesiones ordinarias al año y las extraordinarias qu
 
 La Junta de Gobierno del DIF Estatal estará integrada por:
 
-I.- El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II.- El Secretario General de Gobierno;
+I.- La persona titular de la Secretaría de Bienestar;
 
-III.- El Secretario de Salud;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-IV.- El Secretario de Planeación y Finanzas;
+II.- La persona titular de la Secretaría General de Gobierno;
 
-V.- El Secretario de Educación y Bienestar Social;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VI.- El Procurador General de Justicia;
+III.- La persona titular de la Secretaría de Salud;
 
-VII.- El Presidente del Patronato del DIF Estatal;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VIII.- Cuatro ciudadanos que representen a la sociedad, los cuales serán designados conforme lo establezca el Reglamento.
+IV.- La persona titular de la Secretaría de Hacienda;
 
-Los miembros de la Junta de Gobierno serán suplidos por los funcionarios que legalmente estén facultados para ejercer atribuciones del Titular en su ausencia.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+V.- La persona titular de la Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VI.- La persona titular de la Fiscalía General del Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VII.- La persona titular de la Presidencia del Patronato del DIF Estatal;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VIII.- Cuatro representantes de la ciudadanía, los cuales serán designados conforme lo establezca el Reglamento.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Las y los miembros de la Junta de Gobierno serán suplidos por las y los funcionarios que legalmente estén facultados para ejercer atribuciones del Titular en su ausencia.
 
 Tratándose de los miembros que señala la fracción VIII de este artículo, se suplirán sus ausencias por quienes se lleguen a designar previamente al momento de que soliciten formar parte de la Junta.
 
-La Junta de Gobierno será presidida por el Secretario de Desarrollo Social y contará con un Secretario Técnico, quien será el Director General del DIF Estatal.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+La Junta de Gobierno será presidida por la persona titular de la Secretaría de Bienestar y contará con una Secretaria Técnica, quien será la persona titular de la Dirección General del DIF Estatal.
 
 ###### ARTÍCULO 27.
 
@@ -635,9 +659,11 @@ El Poder Ejecutivo del Estado y el DIF Estatal, conforme a sus respectivos ámbi
 
 Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Ejecutivo del Estado, a través de la Secretaría y del DIF Estatal, celebrará convenios o acuerdos para la coordinación de acciones entre el nivel federal, estatal y municipal, en los términos previstos en la Ley de Planeación del Estado, de la Ley General de Salud, de la Ley de Salud Pública para el Estado y de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 38.
 
-Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Ejecutivo del Estado a través de la Secretaría de Desarrollo Social con la participación del DIF Estatal, promoverá la celebración de convenios entre éstos y los gobiernos municipales, a fin de:
+Con el objeto de ampliar la cobertura y la calidad de los servicios en materia de asistencia social a nivel estatal y municipal, el Ejecutivo del Estado a través de la Secretaría de Bienestar con la participación del DIF Estatal, promoverá la celebración de convenios entre éstos y los gobiernos municipales, a fin de:
 
 I.- Establecer programas conjuntos;
 
@@ -661,13 +687,17 @@ El Ejecutivo del Estado, a través de la Secretaría en coordinación con el DIF
 
 El Ejecutivo del Estado, a través de la Secretaría en coordinación con el DIF Estatal, podrá celebrar convenios o contratos para la concertación de acciones de asistencia social con los sectores social y privado con objeto de coordinar su participación en la realización de programas de asistencias social que coadyuven a la realización de los objetivos a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 41.
 
-La concertación de acciones en materia de asistencia social a que se refiere el Artículo anterior que lleve a cabo el Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social en coordinación con el DIF Estatal, con la participación de las dependencias y entidades estatales y municipales que correspondan, se llevarán a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
+La concertación de acciones en materia de asistencia social a que se refiere el artículo anterior que lleve a cabo el Ejecutivo del Estado, a través de la Secretaría de Bienestar en coordinación con el DIF Estatal, con la participación de las dependencias y entidades estatales y municipales que correspondan, se llevarán a cabo mediante la celebración de convenios o contratos que en todo caso deberán ajustarse a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social y del DIF Estatal;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo el Ejecutivo del Estado, por conducto de la Secretaría de Bienestar y del DIF Estatal;
 
 III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Ejecutivo del Estado; y,
 
@@ -1506,3 +1536,9 @@ P.O. 9 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 96 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 49 Y SE ADICIONA UN NUMERAL 49 BIS A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO NO. 158 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE BAJA CALIFORNIA”.]</small>
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
