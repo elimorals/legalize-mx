@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2022-06-03"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -70,6 +70,10 @@ Para los efectos de esta ley se entiende por discriminación toda distinción, e
 Se considera discriminatoria toda ley o acto que, siendo de aplicación idéntica para todas las personas, produzca consecuencias perjudiciales para las personas en situación de vulnerabilidad.
 
 También se entenderá como discriminación la xenofobia y el antisemitismo en cualquiera de sus manifestaciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+De igual manera, se considera discriminación el prohibir, limitar o restringir el acto de amamantar en espacios públicos.
 
 ###### Artículo 7.
 
@@ -686,3 +690,9 @@ P.O. 3 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 109 MEDIANTE EL CUAL SE ADICIONA EL CAPITULO XII DENOMINADO DELITOS CONTRA LA ORIENTACIÓN SEXUAL, LA IDENTIDAD Y EXPRESIÓN DE GÉNERO, AL TÍTULO PRIMERO DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y LA ADICIÓN DE UN ARTÍCULO 160 QUINQUIES AL MISMO ORDENAMIENTO; ASIMISMO APRUEBA LA REFORMA AL ARTÍCULO 21 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 159 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
