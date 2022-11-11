@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-110376"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-23"
-last_updated: "2021-05-14"
+last_updated: "2022-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE GUERRERO NUMERO 08
 
+[N. DE. E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242, PUBLICADA EN EL P.O. DE 11 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2015.
 
@@ -1946,3 +1948,27 @@ PRIMERO.- La reforma a la Ley Orgánica del Poder Legislativo del Estado de Guer
 SEGUNDO. La reforma a la Ley Orgánica de la Administración Pública del Estado de Guerrero, Número 08, contenida en este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento y efectos conducentes.
+
+P.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 242”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del estado.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Administración Pública del Estado de Guerrero Numero 08, publicada en el Periódico Oficial el día del (sic) viernes 23 de octubre de 2015, sus reformas y adiciones posteriores, así como las leyes, decretos, reglamentos y demás disposiciones en el estado, en lo que se opongan a la presente Ley.
+
+TERCERO. Derivado de la extinción de la Representación del Poder Ejecutivo del Estado de Guerrero en la Ciudad de México, a. El personal a su servicio, tutelado por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248, sin perjuicio de sus derechos laborales adquiridos; b. Los recursos presupuestales; c. El mobiliario; d. Los vehículos; e. Los instrumentos; f. Los aparatos; g. La maquinaria; h. Los archivos, y (sic) i. En general, el equipo que hayan venido usando para la atención de los asuntos que tuvo encomendados conforme a la Ley anterior, quedan transferidos a la Oficina de la Gubernatura lo que se materializara mediante un procesos (sic) ordenado y debidamente documentado entre las instancias de gobierno competentes con la intervención que corresponda a la Secretaría de Finanzas y Administración y a la Secretaría de Contraloría y Transparencia Gubernamental.
+
+CUARTO. Los asuntos que con motivo de esta Ley deban pasar de una institución a otra, permanecerán en el último trámite que hayan alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la institución que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables los cuales tendrán que atenderse.
+
+QUINTO. Las personas titulares de las secretarías, dependencias, entidades paraestatales y demás instituciones deberán presentar dentro de los noventa días siguientes a la entrada en vigor de esta Ley, los proyectos legales y reglamentarios de su marco jurídico interno debidamente armonizados a la presente Ley.
+
+SEXTO. Los cambios de denominación de las secretarías y dependencias, no afectan los derechos laborales del personal a su servicio, ni las atribuciones señaladas en otras leyes o disposiciones normativas especiales, por lo que se entenderán concedidas para estas, bajo sus nuevas denominaciones establecidas en la presente Ley.
+
+SÉPTIMO. Los titulares las secretarías, dependencias, entidades paraestatales y demás instituciones reguladas por esta Ley, que aún no hayan formalizado el traspaso de sus órganos internos de control a la Secretaría de Contraloría y Transparencia Gubernamental, deberán efectuar el mismo en un término máximo de ciento ochenta días contados a partir de la fecha de entrada en vigor de esta Ley. Conforme a las disposiciones del artículo cuarto transitorio del Decreto número 469 por el que se reforman y adicionan diversas disposiciones a la ley que se abroga, de fecha dieciocho de julio de 2017.
+
+OCTAVO. En tanto se expidan los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de esta Ley, seguirán aplicándose los vigentes en todo lo que no se opongan a la presente Ley.
+
+NOVENO. Dada la transferencia de funciones en materia de transportes, vialidad y concesiones en dicha materia, a la Secretaría General de Gobierno, las atribuciones concedidas al Jefe de la Oficina del Gobernador por la ley que se abroga y demás aplicables de la materia, con la entrada en vigor de esta Ley, serán entendidas a favor del Secretario General de Gobierno, por lo que se deberán promoverse (sic) las reformas correspondientes a legislación específica en un plazo no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor de este ordenamiento.
+
+DÉCIMO. Los decretos de creación y reglamentos interiores de las entidades paraestatales, así como la Ley de Entidades Paraestatales del Estado de Guerrero, deberán homologarse a las nuevas disposiciones de esta Ley, en un término que no exceda de ciento ochenta días naturales contado a partir de la entrada en vigor de este ordenamiento.
