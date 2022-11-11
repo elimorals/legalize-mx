@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2022-10-28"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -355,6 +355,12 @@ Además, podrá comunicarse con otros Órganos de Gobierno Locales o Federales, 
 
 La Legislatura impulsará la coordinación con otros Congresos Locales, en especial, con aquellos de las entidades de la Zona Metropolitana del Valle de México, a fin de promover la conformación del Parlamento Metropolitano, con apego y respeto a la soberanía de las entidades, como un mecanismo no vinculante de análisis y discusión, que servirá para enriquecer los trabajos legislativos en los respectivos congresos locales, bajo una visión metropolitana.
 
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 37 Ter.
+
+La Legislatura promoverá espacios de expresión, participación y diálogo permanente para la niñez y la juventud mexiquense con el objetivo de que se le dote de reconocimiento e importancia a su participación en la sociedad y en la edificación de un Estado democrático.
+
 ###### Artículo 38.
 
 En el ejercicio de sus atribuciones, la Legislatura emitirá resoluciones con el siguiente carácter:
@@ -389,9 +395,43 @@ Para este propósito se guiarán por los principios de transparencia y acceso a 
 
 Con el objeto de promover una democracia participativa, la Legislatura, de conformidad con sus atribuciones, impulsará la aplicación de los principios de Parlamento Abierto en el ámbito estatal y municipal.
 
-### CAPITULO V. DE LA ASAMBLEA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G 11 DE NOVIEMBRE DE 2022)</small>
 
-### CAPITULO I. DE LOS ORGANOS DE LA LEGISLATURA
+### CAPÍTULO CUARTO TER. DE LOS PARLAMENTOS INFANTIL Y JUVENIL
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Quater.
+
+La Legislatura organizará los Parlamentos Infantil y Juvenil, por lo menos una vez por Legislatura, preferentemente durante el segundo año del ejercicio constitucional, observando para tales efectos el procedimiento que se describe a continuación:
+
+I. La Comisión Legislativa de la Juventud y el Deporte y la Comisión que tenga por objeto los derechos de niñas, niños y adolescentes serán las encargadas de su organización, para lo cual deberán acordar los lineamientos de dichos Parlamentos, en coordinación con las organizaciones de la sociedad civil o del sector público, privado o académico que participen;
+
+II. Las comisiones legislativas organizadoras emitirán una convocatoria pública para el Parlamento Infantil y otra para el Parlamento Juvenil, conforme a los lineamientos previamente acordados, estableciendo las bases, criterios de selección, número de Parlamentarios que podrán participar y la duración del ejercicio. La convocatoria deberá ser publicitada a través de todas las plataformas de difusión y comunicación de la Legislatura;
+
+III. Agotado el tiempo establecido para el registro, las comisiones legislativas organizadoras deberán sesionar para seleccionar y aprobar los perfiles de las niñas, niños y jóvenes que participarán como Parlamentarias o Parlamentarios;
+
+IV. Los perfiles de las y los Parlamentarios seleccionados deberán provenir preferentemente de todas las regiones del Estado de México, procurando facilitar para ello los medios de transporte que sean necesarios;
+
+V. La Legislatura, a través de las comisiones legislativas organizadoras, garantizará la capacitación a las y los Parlamentarios, la suficiencia de espacios físicos, así como todos los insumos necesarios y el acompañamiento para la realización de los Parlamentos Infantil y Juvenil.
+
+La Legislatura impulsará la coordinación con otros Congresos Locales, en especial, con aquellos de las entidades de la Zona Metropolitana del Valle de México, a fin de promover la conformación de Parlamentos Infantiles y Juveniles Metropolitanos, con apego y respeto a la soberanía de las entidades.
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Quinquies.
+
+Las conclusiones de los Parlamentos Infantil y Juvenil podrán ser retomadas por las personas integrantes de la Legislatura para la presentación de iniciativas de Ley o Decreto.
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 38 Sexies.
+
+La Comisión Legislativa de la Juventud y el Deporte y así como la Comisión que tenga por objeto los derechos de niñas, niños y adolescentes realizarán un informe a la Legislatura sobre los Parlamentos Infantil y Juvenil que se hayan realizado y darán seguimiento a sus conclusiones.
+
+Este informe será publicado en la Gaceta Parlamentaria y podrá ser expuesto ante el Pleno de las Diputadas y Diputados.
+
+### CAPITULO V. DE LA ASAMBLEA
 
 ###### Artículo 39.
 
@@ -413,9 +453,7 @@ Corresponderá a la Junta de Coordinación Política determinar la realización 
 
 ## TITULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA LEGISLATURA
 
-### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
-
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+### CAPITULO I. DE LOS ORGANOS DE LA LEGISLATURA
 
 ###### Artículo 41.
 
@@ -437,7 +475,9 @@ V. (DEROGADA, G.G. 2 DE FEBRERO DE 2010)
 
 Los órganos de la Legislatura serán integrados por diputados de diversos grupos parlamentarios.
 
-### CAPITULO III. DE LA DIPUTACION PERMANENTE
+### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 ###### Artículo 42.
 
@@ -609,9 +649,7 @@ La asistencia, la verificación del quórum, el cómputo y registro de la votaci
 
 En caso de que no se pueda utilizar el sistema electrónico, la asistencia, la verificación del quórum y la votación se realizará de conformidad con lo señalado en el Reglamento del Poder Legislativo.
 
-### CAPITULO IV. DE LA JUNTA DE COORDINACION POLITICA
-
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+### CAPITULO III. DE LA DIPUTACION PERMANENTE
 
 ###### Artículo 51.
 
@@ -689,59 +727,9 @@ En el ejercicio de sus funciones, la Directiva de la Diputación Permanente obse
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE ABRIL DE 2004)</small>
 
-### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
-
-(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
-
-Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
-
-a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
-
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
-
-b) Nombre de la diputada o diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas procurando el apego a la paridad.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
-
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
-
-Artículo 67 BIS-4.- El coordinador procurando las disposiciones sobre paridad, propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+### CAPITULO IV. DE LA JUNTA DE COORDINACION POLITICA
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
-
-Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
-
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
-
-Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
-
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 60.
 
@@ -1005,11 +993,63 @@ II. Las que les encomiende la Junta de Coordinación Política o su Presidente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DEL 2003)</small>
 
+### CAPITULO V. DE LOS GRUPOS PARLAMENTARIOS
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS.- Un Grupo Parlamentario es el conjunto de diputados integrados según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas en la Legislatura.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-1.- Cada Grupo Parlamentario se integrará por lo menos con dos diputados y solo podrá haber uno por cada partido político que cuente con diputados en la Legislatura.
+
+(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003) (F. DE E., G.G. 4 DE SEPTIEMBRE DE 2003)
+
+Artículo 67 BIS-2.- Previo a la Sesión de Instalación de la Legislatura, cada grupo parlamentario de conformidad con lo que dispone esta ley, entregará al Secretario de Asuntos Parlamentarios la documentación siguiente:
+
+a) Acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y lista de sus integrantes;
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
+b) Nombre de la diputada o diputado que haya sido acreditado por la dirigencia de su partido como coordinador del grupo parlamentario y los nombres de quienes desempeñen otras actividades directivas procurando el apego a la paridad.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-3.- El Secretario de Asuntos Parlamentarios hará publicar los documentos constitutivos de los grupos parlamentarios en la Gaceta del Gobierno.
+
+> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+
+Artículo 67 BIS-4.- El coordinador procurando las disposiciones sobre paridad, propondrá a la Junta de Coordinación Política el nombre de los diputados de su Grupo Parlamentario que integrarán las comisiones legislativas y comités y promoverá los entendimientos necesarios para la elección de los integrantes de la Directiva, participando con voz y voto en la Junta de Coordinación Política y, cuando ésta sea erigida en Conferencia para la Dirección y Programación de los Trabajos Legislativos.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-5.- Durante el ejercicio de la Legislatura, cada coordinador del Grupo Parlamentario comunicará a la Directiva las modificaciones que ocurran en la integración de su grupo. Con base en las comunicaciones de los coordinadores de los grupos parlamentarios, el Presidente de la Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones. Dicho número será actualizado en forma permanente y servirá para los cómputos que se realizan por el sistema de voto ponderado.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-6.- Los grupos parlamentarios proporcionarán información, asesoría y preparación de los elementos necesarios para articular el trabajo parlamentario de sus miembros.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+
+Artículo 67 BIS-7.- De conformidad con la representación y proporcionalidad de cada Grupo Parlamentario, la Junta de Coordinación Política acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Coordinación Política dispondrá el presupuesto para cada Grupo Parlamentario.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-8.- Todas las prerrogativas que no sean dietas serán acordadas y ejercidas a través del Grupo Parlamentario.
+
+> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+
+Artículo 67 BIS-9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
+
+Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
+
 ### CAPITULO VI. DE LAS COMISIONES Y COMITÉS
 
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-### CAPITULO VII. DEL PROCESO LEGISLATIVO
 
 ###### Artículo 68.
 
@@ -1307,9 +1347,7 @@ Los integrantes de las comisiones o comités sólo podrán ser sustituidos por c
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
-### CAPÍTULO I. DE LAS DEPENDENCIAS Y ORGANOS TECNICOS
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
+### CAPITULO VII. DEL PROCESO LEGISLATIVO
 
 ###### Artículo 78.
 
@@ -1453,9 +1491,9 @@ La falta de respuesta de los ayuntamientos en el término indicado, será consid
 
 > <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN, G.G. 30 DE AGOSTO DE 2012)</small>
 
-### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
+### CAPÍTULO I. DE LAS DEPENDENCIAS Y ORGANOS TECNICOS
 
-(ADICIONADO, G.G. 30 DE AGOSTO DE 2012) (F. DE E., G.G. 27 DE SEPTIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 1999)</small>
 
 ###### Artículo 94.
 
@@ -1525,7 +1563,9 @@ La Secretaría de Asuntos Parlamentarios, contará dentro de su estructura con e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 30 DE AGOSTO DE 2012)</small>
 
-### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
+### CAPÍTULO II. DE LA MESA TECNICA DE LA LEGISLATURA
+
+(ADICIONADO, G.G. 30 DE AGOSTO DE 2012) (F. DE E., G.G. 27 DE SEPTIEMBRE DE 2012)
 
 ###### Artículo 96 Bis.
 
@@ -1547,7 +1587,7 @@ El Presidente de la Junta de Coordinación Política, procurará que los miembro
 
 ## TITULO CUARTO. DEL JUICIO POLITICO Y DECLARACION DE PROCEDENCIA
 
-### CAPITULO II. DEL JURADO DE PROCEDENCIA
+### CAPITULO I. DEL GRAN JURADO DE SENTENCIA
 
 ###### Artículo 97.
 
@@ -1571,7 +1611,7 @@ La Sección Instructora del Gran Jurado se integrará por cinco diputados insacu
 
 Para substanciar el procedimiento de juicio político, se procederá de conformidad con las disposiciones contenidas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
+### CAPITULO II. DEL JURADO DE PROCEDENCIA
 
 ###### Artículo 101.
 
@@ -1586,6 +1626,8 @@ Para estos casos se integrará también la Sección Instructora del Gran Jurado.
 El procedimiento de declaración de procedencia, se ajustará a la normatividad prevista en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
 ## TITULO QUINTO. DE LA SUSPENSION Y DESAPARICION DE AYUNTAMIENTOS Y SUSPENSION O REVOCACION DEL MANDATO DE SUS MIEMBROS
+
+### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
 
 ###### Artículo 103.
 
@@ -2564,3 +2606,15 @@ G.G. 28 DE OCTUBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 104.- POR EL QUE SE ADICIONA EL ARTÍCULO 37 TER, EL CAPITULO CUARTO TER "DE LOS PARLAMENTOS INFANTIL Y JUVENIL" AL TITULO PRIMERO, CON LOS ARTICULOS 38 QUATER, 38 QUINQUIES Y 38 SEXIES, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se realizarán las adecuaciones necesarias al Reglamento del Poder Legislativo del Estado Libre y Soberano de México para la ejecución de los Parlamentos Infantil y Juvenil atendiendo a lo dispuesto en el presente Decreto, dentro de los noventa días naturales siguientes a su entrada en vigor.
+
+CUARTO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria aprobada para tal fin en el Presupuesto de Egresos para el ejercicio fiscal correspondiente.
