@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2020-12-09"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL:11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -904,13 +904,13 @@ Las Comisiones son instancias colegiadas con facultades de deliberación, opini�
 
 I. Tres Personas Consejeras Electorales con derecho a voz y voto, una de ellas ocupará la Presidencia;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II. Las representaciones de partido serán integrantes con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y en ningún caso conformarán quórum;
+II. Las representaciones de partido serán integrantes con derecho a voz, con excepción de las Comisiones de Quejas y de Asociaciones Políticas y Fiscalización y en ningún caso conformarán quórum;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-III. Las representaciones de candidaturas con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum; y
+III. Las representaciones de candidaturas con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de las Comisiones de Quejas y de Asociaciones Políticas y Fiscalización y no conformarán quórum; y
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
@@ -1058,15 +1058,15 @@ XVI. Llevar el archivo de la Comisión; y
 
 XVII. Las demás que les confiera el Código, el Reglamento Interior, la Presidencia de su Comisión y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 50.
 
-Corresponde a las Representaciones de partido:
+Corresponde a las y los Representantes de partido:
 
-> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones;
+I. Asistir de forma presencial, o bien virtual, a las sesiones de las Comisiones, con excepción de las Comisiones de Quejas, Asociaciones Políticas y Fiscalización.
 
 II. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
@@ -1221,6 +1221,10 @@ La convocatoria a sesión deberá contener el día y la hora en que la misma se 
 ###### Artículo 56.
 
 Las convocatorias a las sesiones ordinarias serán emitidas por lo menos con setenta y dos horas de anticipación, las extraordinarias serán emitidas por lo menos con veinticuatro horas de anticipación; asimismo, las convocatorias a las sesiones urgentes serán emitidas con doce horas de anticipación o en su caso, atendiendo a la urgencia del asunto a desahogar, podrán emitirse en un plazo menor.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Recibida la convocatoria a una sesión ordinaria, cualquier integrante de la Comisión podrá solicitar a la presidencia, la inclusión de asuntos en el proyecto de orden del día, hasta con cuarenta y ocho horas de anticipación a la señalada para su celebración, acompañando a la solicitud, cuando así corresponda, los documentos necesarios para su discusión. La presidencia de la Comisión deberá incorporar o instruir a la Secretaría Técnica la incorporación de dichos asuntos en el proyecto de orden del día y remitirá en forma inmediata a los integrantes de la Comisión, un nuevo orden del día que contenga los asuntos incluidos conforme al presente párrafo, junto con los documentos que correspondan a cada asunto.
 
 ###### Artículo 57.
 
@@ -1395,3 +1399,17 @@ TERCERO. En concordancia con las medidas adoptadas por este Consejo General en e
 CUARTO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación.
 
 QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia del sitio de Internet www.iecm.mx y difúndase la misma en las redes sociales de este Instituto.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES, Y AL REGLAMENTO DE INTEGRACIÓN, FUNCIONAMIENTO Y SESIONES DE LOS CONSEJOS DISTRITALES, AMBOS DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO (IECM/ACU-CG-063/2022) QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+PRIMERO. Se aprueban las reformas a los Reglamentos de Sesiones del Consejo General y Comisiones; y de Integración, Funcionamiento y Sesiones de los Consejos Distritales, todos del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 14, 15 y 16 del presente Acuerdo y de conformidad con el Anexo que se acompaña al presente, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y su Anexo al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
