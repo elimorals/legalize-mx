@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-funcionamiento-del-comite-de-transparencia-122875
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2020-11-11"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -30,7 +30,7 @@ Acuerdo del Consejo General del Instituto Electoral de la Ciudad de México, por
 
 Antecedentes:
 
-[…]
+[...]
 
 En razón de lo expuesto en las consideraciones de hecho y de derecho, en ejercicio de las facultades constitucionales, estatutarias, legales y reglamentarias, el Consejo General, emite el siguiente:
 
@@ -164,7 +164,9 @@ e) Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
 f) Área Coordinadora de Archivos: Subdirección de Archivos adscrita a la Secretaría Ejecutiva; y
 
-g) Unidad de Transparencia: Orgánicamente denominada Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+g) Unidad de Transparencia: Orgánicamente denominada Oficina de Transparencia, Acceso a la Información Pública, Datos Personales y Archivo del Instituto Electoral.
 
 III. Integración del Comité: Órgano colegiado integrado por las personas servidoras públicas del Instituto Electoral, conformado de acuerdo con lo establecido en los artículos 88 de la Ley de Transparencia y 6 del presente Reglamento.
 
@@ -300,7 +302,9 @@ a) Titular de la Secretaría Administrativa;
 
 b) Titular de la Contraloría Interna;
 
-c) Titular de la Unidad Técnica de Archivo, Logística y Apoyo a Órganos Desconcentrados;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+c) Titular de la Dirección de Apoyo a Órganos Desconcentrados
 
 d) Titular de la Unidad Técnica de Asuntos Jurídicos.
 
@@ -312,7 +316,7 @@ IV. Las personas Invitadas Permanentes:
 
 a) Titular de la Unidad Técnica de Comunicación Social y Difusión;
 
-b) Titular de la Unidad Técnica del Centro de Formación y Desarrollo;
+b) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
@@ -326,21 +330,25 @@ V. Las personas Invitadas Eventuales:
 
 a) Titular de la Secretaría Ejecutiva;
 
-b) Titular de la Dirección Ejecutiva de Asociaciones Políticas;
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-c) Titular de la Dirección Ejecutiva de Educación Cívica y Construcción de Ciudadanía;
+b) Titular de la Dirección Ejecutiva de Asociaciones Políticas y Fiscalización;
+
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+c) Titular de la Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana;
 
 d) Titular de la Dirección Ejecutiva de Organización Electoral y Geoestadística;
 
-e) Titular de la Dirección Ejecutiva de Participación Ciudadana y Capacitación;
+e) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
-f) Titular de la Unidad Técnica Especializada de Fiscalización;
+f) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 g) Titular de la Unidad Técnica de Servicios Informáticos;
 
-h) Titular de la Unidad Técnica de Vinculación con Organismos Externos;
+h) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
-i) Titular de la Unidad Técnica de Género y Derechos Humanos; y
+i) (DEROGADO, G.O. 11 DE NOVIEMBRE DE 2022)
 
 j) Cualquier persona cuyos conocimientos técnicos o administrativos sean necesarios para el adecuado desahogo de los asuntos a tratar en la sesión respectiva.
 
@@ -378,21 +386,29 @@ Ante la falta de la Secretaría Técnica por alguna causa, el Comité designará
 
 ### CAPÍTULO III. DE LAS FUNCIONES DE LAS PERSONAS INTEGRANTES DEL COMITÉ
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 9.
 
 La Presidencia tiene las funciones siguientes:
 
-I. Instruir a la persona Titular de la Secretaría Técnica para que convoque a las sesiones del Comité.
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+I. Instruir a la persona Titular de la Secretaría Técnica para que convoque a las sesiones del Comité, de forma presencial, o bien, de manera virtual o mixta, según lo determinen las personas integrantes.
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 II. Proponer el proyecto de orden del día de cada sesión incorporando, según corresponda, los asuntos de su competencia, así como las propuestas que reciba de las personas integrantes del Comité;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 III. Solicitar y tramitar ante el Instituto de Transparencia el registro del Comité, dentro de los diez días hábiles posteriores a su integración y en caso de que el Instituto de Transparencia requiera alguna información adicional se coordinará con la persona Titular de la Secretaría Técnica para atender el requerimiento en los plazos señalados por el Lineamiento.
 
-IV. Asistir, presidir y conducir las sesiones del Comité;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+IV. Asistir, presidir y conducir las sesiones del Comité, de forma presencial, o bien, de manera virtual o mixta;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 V. Declarar el inicio y conclusión de las sesiones;
 
@@ -400,27 +416,47 @@ V. Declarar el inicio y conclusión de las sesiones;
 
 VI. Conceder el uso de la palabra a las personas integrantes del Comité e invitados a la sesión;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 VII. Participar en las deliberaciones de las sesiones del Comité;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 VIII. Consultar a las personas integrantes del Comité si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 IX. Solicitar a la persona Titular de la Secretaría Técnica someta a votación los asuntos, según corresponda;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 X. Decretar los recesos que se consideren necesarios durante el desarrollo de una sesión;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 XI. Declarar, por causa justificada, la suspensión de la sesión;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 XII. Vigilar que se conserve el orden durante la sesión y tomar las medidas necesarias para su adecuado desarrollo;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 XIII. Solicitar y recibir de las áreas del Instituto Electoral, en el ámbito de sus competencias, el apoyo y la información que el Comité requiera para el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 XIV. Firmar las actas, los acuerdos y resoluciones tomados por el Comité, en las sesiones que presida;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 XV. Presentar ante el Consejo General los informes que deba rendir el Comité de conformidad con lo establecido en el Código, la Ley de Transparencia, la Ley de Protección de Datos, la Ley de Archivos y los Reglamentos respectivos.
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 XVI. Supervisar el archivo del Comité;
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 XVII. Enviar al Instituto de Transparencia dentro de los primeros quince días hábiles de los meses de enero y julio de cada año, la información requerida respecto al Cuestionario de Funcionamiento del Comité con base en la información proporcionada por la Unidad de Transparencia y las áreas competentes;
 
@@ -432,7 +468,11 @@ XVIII. Instruir a la Secretaría Técnica para que, en los plazos y condiciones 
 
 XIX. Instruir a la Secretaría Técnica para informar al Instituto de Transparencia las actualizaciones de las personas integrantes del Comité, suplentes y la persona Titular de la Secretaría Técnica, en un plazo de diez días hábiles a partir de que surja la sustitución;
 
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+
 XX. Proponer el Calendario Anual de Sesiones; y
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 XXI. Las demás que le confiera el presente ordenamiento y la normativa aplicable.
 
@@ -442,7 +482,9 @@ XXI. Las demás que le confiera el presente ordenamiento y la normativa aplicabl
 
 La persona Titular de la Secretaría Técnica tiene las funciones siguientes:
 
-I. Convocar previa instrucción de la Presidencia del Comité a las sesiones ordinarias, extraordinarias y urgentes; así como a las reuniones de trabajo relacionadas con los temas de su competencia;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+I. Convocar previa instrucción de la Presidencia del Comité a las sesiones ordinarias, extraordinarias y urgentes, de forma presencial, o bien, de manera virtual o mixta; así como a las reuniones de trabajo relacionadas con los temas de su competencia;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
@@ -502,9 +544,9 @@ Las personas Vocales tienen las funciones siguientes:
 
 I. Proponer la inclusión de asuntos en el orden del día de las sesiones, de acuerdo con las formalidades previstas en este ordenamiento;
 
-> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-II. Asistir a las sesiones del Comité a las que se les convoque;
+II. Asistir a las sesiones del Comité a las que se les convoque, de forma presencial, o bien, de manera virtual o mixta;
 
 > <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -536,9 +578,9 @@ VIII. Las demás que les confiera el presente ordenamiento y la normativa aplica
 
 Las personas invitadas permanentes tienen las funciones siguientes:
 
-> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-I. Asistir a las sesiones del Comité a las que se les convoque;
+I. Asistir a las sesiones del Comité a las que se les convoque, de forma presencial, o bien, de manera virtual o mixta;
 
 > <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
@@ -560,9 +602,9 @@ V. Contribuir al buen desarrollo de las sesiones;
 
 VI. Orientar sobre algún tema, a solicitud de alguna persona integrante del Comité o cuando se considere necesaria su participación, respecto del asunto de que se trate;
 
-> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
-VII. La persona Titular de la Unidad Técnica del Centro de Formación y Desarrollo presentará el Programa Anual de Capacitación en materia de transparencia, acceso a la información, protección de datos personales, archivos, accesibilidad y apertura gubernamental, en coordinación con la Unidad de Transparencia, en términos de la normativa aplicable;
+VII. La Secretaría Administrativa presentará el Programa Anual de Capacitación en materia de transparencia, acceso a la información, protección de datos personales, archivos, accesibilidad y apertura gubernamental, en coordinación con la Unidad de Transparencia, en términos de la normativa aplicable;
 
 > <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2020)</small>
 
@@ -582,21 +624,47 @@ Las personas invitadas eventuales tendrán las mismas funciones establecidas par
 
 ### CAPÍTULO IV. DE LAS SESIONES DEL COMITÉ
 
-> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-El Comité sesionará en el domicilio legal del Instituto Electoral.
+El Comité sesionará de forma presencial en el domicilio legal del Instituto Electoral, o bien, de manera virtual o mixta.
+
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
 
 Por causas que, a juicio de la Presidencia, impidan el buen desarrollo y la libre participación de sus integrantes, la sesión podrá celebrarse en lugar distinto, pero siempre dentro de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 20 DE MAYO DE 2019)</small>
+
 Las sesiones del Comité serán públicas, excepto las que tengan por objeto desahogar asuntos relativos a Derechos de Acceso, Rectificación, Cancelación y Oposición de datos personales, así como sobre la reserva de la información.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-El Comité sesionará mensualmente de forma ordinaria y podrá hacerlo de manera extraordinaria o urgente; de modo presencial o vía remota a través de cualquier medio electrónico cuando así se requiera.
+El Comité sesionará mensualmente de forma ordinaria y podrá hacerlo de manera extraordinaria o urgente.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Dichas sesiones podrán realizarse de manera presencial, virtual o mixta observando en todo momento las reglas generales previstas en el presente Reglamento.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Serán sesiones virtuales aquellas que se celebren en modalidad a distancia mediante el uso de herramientas tecnológicas.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Las sesiones virtuales y mixtas serán difundidas en tiempo real a través de las plataformas digitales con las que cuenta el Instituto Electoral.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Las sesiones mixtas podrán desarrollarse con algunas personas integrantes del Comité presentes de forma virtual y otras de forma presencial, para lo cual deberán notificar a la persona Presidenta del Comité la forma en que opten para asistir a la sesión, en caso de que se determine que la misma se lleve a cabo en esta modalidad.
+
+> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+En caso de que la Presidencia del Comité opte por llevar a cabo la sesión de forma mixta, tendrá que mencionar esta circunstancia en la convocatoria correspondiente.
+
+> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 El tipo de sesión se precisará en la convocatoria que emita la Presidencia y se hará constar en las actas correspondientes.
 
@@ -648,13 +716,17 @@ Las personas invitadas permanentes designadas por las oficinas de las Consejeras
 
 Las personas invitadas eventuales serán citadas por la Presidencia, cuando propongan la clasificación o declaratoria de inexistencia de la información; asimismo, cuando se considere necesaria su intervención.
 
-> <small>(REFORMADO, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 22.
 
-Las convocatorias a las sesiones deberán señalar: día, hora y lugar en que serán realizadas. Indicar el carácter que corresponda: ordinaria, extraordinaria o urgente y, si las sesiones serán presenciales o realizadas por vía remota, a través del uso de alguna herramienta tecnológica o medio electrónico y deberán acompañarse de:
+Las convocatorias a las sesiones deberán señalar: día, hora y lugar en que serán realizadas. Indicar el carácter que corresponda: ordinaria, extraordinaria o urgente y, si las sesiones serán de forma presencial, o bien, de manera virtual o mixta; y, deberán acompañarse de:
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 I. El proyecto de orden del día; y
+
+> <small>(REFORMADA, G.O. 14 DE SEPTIEMBRE DE 2020)</small>
 
 II. Los documentos necesarios para el estudio y discusión de los asuntos a tratar.
 
@@ -722,7 +794,9 @@ Después de sesenta días hábiles de haberse emitido la respuesta operará la c
 
 Las personas integrantes del Comité se reunirán el día, hora y lugar fijados en la convocatoria para celebrar la sesión de que se trate.
 
-Las personas integrantes del Comité deberán asistir personalmente a las sesiones a que sean convocados.
+> <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+Las personas integrantes del Comité deberán asistir personalmente a las sesiones a que sean convocados; de forma presencial, o bien, de manera virtual o mixta, según lo determinen.
 
 Excepcionalmente, las personas invitadas permanentes podrán designar un suplente para que asista a las sesiones del Comité, quien ejercerá las funciones que correspondan. Lo anterior, deberá comunicarse por escrito a la Presidencia o a la Secretaría Técnica antes del inicio de la sesión.
 
@@ -1173,3 +1247,17 @@ G.O. 11 DE NOVIEMBRE DE 2020.
 PRIMERO. La presente reforma al Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Remítase para su publicación en la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL “ACUERDO DEL CONSEJO GENERAL POR EL CUAL SE APRUEBAN LAS REFORMAS AL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y RENDICIÓN DE CUENTAS, Y AL REGLAMENTO DE FUNCIONAMIENTO DEL COMITÉ DE TRANSPARENCIA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON SU RESPECTIVO ANEXO (IECM/ACU-CG-064/2022)”.]</small>
+
+PRIMERO. Se aprueban las reformas al Reglamento del Instituto Electoral de la Ciudad de México en materia de Transparencia, Acceso a la Información Pública y Rendición de Cuentas; y al Reglamento de Funcionamiento del Comité de Transparencia del Instituto Electoral de la Ciudad de México, en términos de los Considerandos 15 y 16 del presente Acuerdo, conforme al Anexo que se acompaña, el cual forma parte integral del mismo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y sus Anexos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Publíquese el presente Acuerdo y su Anexo de manera inmediata a su aprobación en los estrados de oficinas centrales, en los estrados electrónicos de este Instituto Electoral y para mayor difusión, en los estrados de las oficinas de las treinta y tres Direcciones Distritales del Instituto Electoral.
+
+CUARTO. Publíquese el presente Acuerdo y su Anexo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+QUINTO. Remítase el presente Acuerdo y su Anexo a la Gaceta Oficial de la Ciudad de México para su publicación.
