@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-centro-de-conciliacion-laboral-de-la-157873"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-04-29"
-last_updated: "2022-04-29"
+last_updated: "2022-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157873&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-04-28"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 29 de abril de 2022.
 
@@ -298,7 +298,9 @@ V. Tener conocimientos comprobados con relación al nuevo sistema de justicia la
 
 VI. No haber sido dirigente de asociaciones patronales o sindicatos en los tres años anteriores a la designación;
 
-VII. Gozar de buena reputación y no haber sido condenado por delito doloso;
+> <small>(REFORMADA, G.O. 11 DE NOVIEMBRE DE 2022)</small>
+
+VII. Gozar de buena reputación;
 
 VIII. No encontrarse en ningún supuesto de conflicto de intereses;
 
@@ -479,3 +481,13 @@ NOVENO. Se derogan las disposiciones legales, administrativas y reglamentarias q
 Palacio Legislativo del Congreso de la Ciudad de México, a los veintiocho días del mes de abril del año dos mil veintidós. POR LA MESA DIRECTIVA, DIPUTADO JÓSE GONZALO ESPINA MIRANDA, PRESIDENTE.- DIPUTADA MARCELA FUENTE CASTILLO, SECRETARIA.- DIPUTADA FRIDA JIMENA GUILLÉN ORTIZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los veintiocho días del mes de abril del año dos mil veintidós.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
