@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-11-05"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -149,6 +149,8 @@ Las autoridades educativas del estado de Jalisco garantizarán el cumplimiento d
 
 Desarrollo integral humano en la prestación del servicio educativo
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
 En la prestación de los servicios educativos se impulsará el desarrollo humano integral para que los educandos puedan:
@@ -165,15 +167,21 @@ IV. Combatir las causas de discriminación y violencia en las diferentes regione
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-VI. Contribuir a la formación de mujeres y hombres autorresponsables de su salud, para contribuir en el desarrollo y bienestar del individuo y su entorno; y
+VI. Tutelar la salud mental de los alumnos y docentes a través de la educación emocional, para que identifiquen y expresen sus emociones de manera inteligente, para (sic) y desarrollen sus habilidades cognitivas y prevenir problemas de conducta;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-VII. Promover el valor de la justicia, la igualdad de derechos entre las personas, la cultura de paz y la cultura de la legalidad basada en la integridad de la persona.
+VII. Contribuir a la formación de mujeres y hombres autorresponsables de su salud, para contribuir en el desarrollo y bienestar del individuo y su entorno; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Promover el valor de la justicia, la igualdad de derechos entre las personas, la cultura de paz y la cultura de la legalidad basada en la integridad de la persona.
 
 Bases para el fomento de la educación
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
@@ -185,9 +193,17 @@ II. La responsabilidad ciudadana, sustentada en valores como la honestidad, la j
 
 III. La participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
-IV. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida saludables, sostenibles; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-V. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del estado de Jalisco.
+IV. El desarrollo de habilidades para acceder y generar sentimientos que faciliten la habilidad de percibir, valorar y expresar las emociones que promuevan el crecimiento intelectual y de convivencia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+V. El respeto y cuidado al medio ambiente, con la constante orientación hacia la sostenibilidad, con el fin de comprender y asimilar la interrelación con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad para la ejecución de acciones que garanticen su preservación y promuevan estilos de vida saludables, sostenibles; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+VI. El respeto y conservación del patrimonio cultural e histórico, así como de las tradiciones, usos y costumbres del estado de Jalisco.
 
 Principios de la educación
 
@@ -235,6 +251,8 @@ La educación impartida por los particulares con autorización o con reconocimie
 
 Fines de la educación
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
 La educación impartida en el estado de Jalisco persigue los siguientes fines:
@@ -247,7 +265,9 @@ III. Inculcar el enfoque de derechos humanos y de igualdad sustantiva, y promove
 
 IV. Fomentar el amor a la Patria, el aprecio por sus culturas, el conocimiento de su historia y el compromiso con los valores, símbolos patrios, las instituciones nacionales y estatales;
 
-V. Formar a los educandos en la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+V. Formar a los educandos en la cultura de la paz, la inteligencia emocional, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
 
 VI. Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
@@ -331,6 +351,8 @@ XIII. Las demás que tiendan al bienestar individual y social.
 
 Facultades del Poder Ejecutivo Estatal
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 16.
 
 Corresponden al titular del Poder Ejecutivo Estatal las siguientes facultades:
@@ -371,9 +393,17 @@ XV. Desarrollar e implementar instrumentos y programas de promoción para la sal
 
 XVI. Brindar cursos a los docentes y al personal que labora en los planteles de educación, sobre los derechos de los educandos y la obligación que tienen al estar encargados de su custodia, a efecto de protegerlos contra toda forma de maltrato, perjuicio, daño, agresión, abuso, trata o explotación. Ello con el objeto de prevenir las posibles omisiones en su labor;
 
-XVII. Elaborar, promover y vigilar la aplicación de los protocolos para prevenir, detectar y actuar en casos de abuso sexual infantil o acoso y maltrato escolar en todos los planteles de educación básica en el estado; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XVIII. Las demás que otras disposiciones legales así dispongan.
+XVII. Impulsar dentro del Sistema Educativo Estatal la educación emocional en alumnos y docentes, que contribuyan a la salud mental;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Elaborar, promover y vigilar la aplicación de los protocolos para prevenir, detectar y actuar en casos de abuso sexual infantil o acoso y maltrato escolar en todos los planteles de educación básica en el estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Las demás que otras disposiciones legales así dispongan.
 
 ## Título Segundo. Del Sistema Educativo Estatal
 
@@ -839,6 +869,8 @@ La orientación integral en el proceso educativo comprende la formación para la
 
 La formación de los educandos
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 54.
 
 La orientación integral, en la formación de los educandos considerará lo siguiente:
@@ -853,7 +885,9 @@ IV. El conocimiento científico, a través de la apropiación de principios, mod
 
 V. El pensamiento filosófico, ético, histórico y humanístico;
 
-VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la salud mental; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
 
 VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
@@ -919,7 +953,7 @@ En el caso de los planes y programas para la educación media superior, podrán 
 
 Contenidos para opinión de los planes y programas de estudio
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 60.
 
@@ -947,7 +981,9 @@ IX. El fomento de la igualdad de género para la construcción de una sociedad j
 
 X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
-XI. La educación socioemocional;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XI. La educación socioemocional, a través de la inteligencia emocional como del proceso de enseñanza del alumnado, cuyo propósito es incrementar el autoconocimiento, reconocer habilidades y fomentar la capacidad de dirimir conflictos que contribuyan en su salud mental;
 
 XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de sus causas, riesgos y consecuencias;
 
@@ -2540,3 +2576,21 @@ QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacien
 SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
 
 SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28849/LXIII/22 QUE ABROGA LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO Y CREA LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10, 11, 13, 6, 54 Y 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; Y ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 56 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Salud contará con un plazo de 180 días para emitir el Programa de Salud Mental y el Protocolo de Prevención, Atención y Postvención de suicidio, contados a partir de la entrada en vigor de este decreto.
+
+TERCERO. El Consejo contará con un plazo de 90 días, contados a partir de la vigencia de la presente, para aprobar su reglamento interno.
+
+CUARTO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+QUINTO. Los Centros Integrales de Atención y los Módulos Comunitarios de Atención en Salud Mental, comenzarán a operar bajo los términos previstos en la presente a partir de los 180 días de la entrada en vigor del presente.
+
+SEXTO. El Gobierno del Estado en coordinación con los municipios asignarán los recursos necesarios en su presupuesto de egresos respectivos, para implementar un Módulo Comunitario de Atención a personas usuarias del servicio, que deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
+
+SÉPTIMO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
