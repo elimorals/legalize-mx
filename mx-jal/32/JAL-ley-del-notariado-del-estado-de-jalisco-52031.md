@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2022-05-31"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 31 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -2407,9 +2407,7 @@ IV. La custodia de los duplicados de los instrumentos públicos que los Notarios
 
 V. Llevar el registro de testamentos públicos y en su caso dar los informes que correspondan al Registro Nacional de disposiciones de última voluntad;
 
-> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2006)</small>
-
-VI. La custodia de los Archivos de Escribanos Públicos, de Tierras y Aguas y libros de Gobierno de la Audiencia de Guadalajara; y
+VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2022)
 
 VII. Los demás que establezca la Ley.
 
@@ -3208,3 +3206,11 @@ P.O. 31 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 28841/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 198 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO Y EL ARTÍCULO 99 DE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Dirección del Archivo de Instrumentos Públicos deberá realizar ante la Contraloría del Estado la correspondiente acta de entrega - recepción a la Dirección del Archivo Histórico del Estado, de conformidad con lo que señala la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios, el artículo 30 fracción X de la Ley de Archivos del Estado de Jalisco y sus Municipios, y demás normas aplicables en materia de archivos de los documentos denominados como "Tierras y Aguas", "Libros de Gobierno de la Audiencia de Guadalajara", y los archivos de "Escribanos Públicos", en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
