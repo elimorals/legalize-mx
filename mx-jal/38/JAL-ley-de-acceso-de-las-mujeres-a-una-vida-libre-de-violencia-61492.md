@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2022-08-25"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -1209,9 +1209,9 @@ Del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco.
 
 Los ayuntamientos podrán, además de lo establecido en otros ordenamientos:
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-I. Implementar los protocolos y las políticas públicas orientadas a prevenir, detectar, atender y erradicar la violencia contra las mujeres;
+I. Implementar los protocolos, las políticas públicas y acciones orientadas a prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres, así como brindarles protección;
 
 II. Coadyuvar con el Estado, en la adopción y consolidación del sistema;
 
@@ -1241,13 +1241,19 @@ VIII. Celebrar, con dependencias públicas y privadas, convenios de cooperación
 
 IX. Diseñar campañas municipales tendientes a prevenir la violencia digital, haciendo énfasis en los derechos de las mujeres;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-X. Implementar programas y protocolos para prevenir, atender y sancionar la violencia digital en todas sus formas y manifestaciones, y
+X. Implementar programas y protocolos para prevenir, atender y sancionar la violencia digital en todas sus formas y manifestaciones;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+XI. Instalar un Consejo Municipal para Prevenir, Atender y Erradicar la violencia contra las mujeres.
+
+El Consejo Municipal se integrará, al menos, con las o los titulares de la Presidencia, Sindicatura, Juzgado Municipal, Seguridad Pública, Instituto de las Mujeres o quien haga las veces, y la edil presidenta de la Comisión de Igualdad de Género, o su equivalente en el gobierno municipal. En todo caso su integración será determinada en su reglamentación municipal. Se podrá invitar, con derecho a voz, a representantes de los gobiernos estatal y federal, así como a representantes de los sectores privado, académico y social con presencia en el municipio, para diseñar, ejecutar y coordinar las acciones orientadas a detectar, prevenir, atender y erradicar la violencia contra las mujeres, así como brindarles protección; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XI], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XII. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -1944,3 +1950,11 @@ P.O. 25 DE AGOSTO DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los ayuntamientos tendrán un término de 180 días hábiles contados a partir de la publicación del presente, para reformar sus reglamentos respectivos, conforme (sic) disposiciones del presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28854/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 41 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, EN MATERIA DE CONSEJOS MUNICIPALES PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Los ayuntamientos deberán expedir, si aun no lo han hecho, el reglamento o, en su caso, hacer las adecuaciones normativas, en un plazo no mayor a 60 días hábiles a la entrado (sic) en vigor del presente decreto, y dar cumplimiento a lo establecido en el artículo 42, fracción VII, de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
