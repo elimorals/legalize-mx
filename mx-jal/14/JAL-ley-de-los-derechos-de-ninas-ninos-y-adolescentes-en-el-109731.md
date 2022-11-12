@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2022-11-08"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -1091,6 +1091,8 @@ III. Garantizar que en el diseño, la implementación y evaluación de la polít
 
 IV. Establecer mecanismos para la transparencia y la rendición de cuentas respecto al seguimiento y evaluación de la implementación de políticas públicas, programas y acciones gubernamentales, legislación y compromisos derivados de tratados internacionales en materia de respeto, protección, promoción y ejercicio de los derechos de niñas, niños y adolescentes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 72.
 
 Las autoridades, en el ámbito de su competencia, tendrán a su cargo las siguientes obligaciones:
@@ -1125,9 +1127,9 @@ XIII. Atender las medidas que sean dictadas por la Procuraduría de Protección 
 
 XIV. Adaptar las escuelas y parques públicos para que existan espacios recreativos para todas las etapas de la niñez y adolescencia con equipamiento adecuado a efecto de satisfacer las necesidades para quienes vivan con alguna discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XV. Las instituciones están obligadas a brindar información a la Secretaría Ejecutiva del Sistema de Protección Estatal sobre asuntos relacionados con niñas, niños y adolescentes, en los términos que la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, establezcan;
+XV. Adaptar las escuelas y parques públicos para que existan espacios recreativos para todas las etapas de la niñez y adolescencia con equipamiento adecuado a efecto de satisfacer las necesidades para quienes vivan con alguna discapacidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
@@ -2308,3 +2310,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28820/LXIII/22 QUE REFORMA EL ARTÍCULO 42 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28847/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 72 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo podrá realizar las adecuaciones y modificaciones presupuestales y programáticas necesarias para la ejecución del presente decreto, conforme a la suficiencia presupuestal.
