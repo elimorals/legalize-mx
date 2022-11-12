@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2022-02-19"
+last_updated: "2022-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "JAL"
 ---
 # LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 28849/LXIII/22, PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -494,3 +496,21 @@ P.O. 19 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28738/LXIII/22 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28849/LXIII/22 QUE ABROGA LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO Y CREA LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10, 11, 13, 16, 54 Y 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; Y ADICIONA LA FRACCIÓN XXII AL ARTÍCULO 56 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Salud contará con un plazo de 180 días para emitir el Programa de Salud Mental y el Protocolo de Prevención, Atención y Postvención de suicidio, contados a partir de la entrada en vigor de este decreto.
+
+TERCERO. El Consejo contará con un plazo de 90 días, contados a partir de la vigencia de la presente, para aprobar su reglamento interno.
+
+CUARTO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+QUINTO. Los Centros Integrales de Atención y los Módulos Comunitarios de Atención en Salud Mental, comenzarán a operar bajo los términos previstos en la presente a partir de los 180 días de la entrada en vigor del presente.
+
+SEXTO. El Gobierno del Estado en coordinación con los municipios asignarán los recursos necesarios en su presupuesto de egresos respectivos, para implementar un Módulo Comunitario de Atención a personas usuarias del servicio, que deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
+
+SÉPTIMO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
