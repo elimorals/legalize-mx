@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-archivos-del-estado-de-jalisco-y-sus-municipios-139147"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-19"
-last_updated: "2019-11-19"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el martes 19 de noviembre de 2019.
 
@@ -1245,6 +1245,8 @@ XI. Establecer mecanismos de cooperación y asesoría con otras instituciones gu
 
 XII. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental del Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 XIII. Custodiar el patrimonio documental del Estado;
 
 XIV. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
@@ -1253,9 +1255,17 @@ XV. Elaborar su plan estratégico y su programa anual en los términos del capí
 
 XVI. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
 
-XVII. Elaborar su reglamento interior; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XVIII. Las demás establecidas en esta Ley y en otras disposiciones legales aplicables.
+XVII. Elaborar su reglamento interior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. La custodia de los Archivos de Escribanos Públicos, de Tierras y Aguas y libros de Gobierno de la Audiencia de Guadalajara; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Los (sic) demás establecidas en esta Ley y en otras disposiciones aplicables.
 
 ###### Artículo 100.
 
@@ -1648,3 +1658,13 @@ MTRO. JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28841/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 198 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO Y EL ARTÍCULO 99 DE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Dirección del Archivo de Instrumentos Públicos deberá realizar ante la Contraloría del Estado la correspondiente acta de entrega - recepción a la Dirección del Archivo Histórico del Estado, de conformidad con lo que señala la Ley de Entrega Recepción del Estado de Jalisco y sus Municipios, el artículo 30 fracción X de la Ley de Archivos del Estado de Jalisco y sus Municipios, y demás normas aplicables en materia de archivos de los documentos denominados como "Tierras y Aguas", "Libros de Gobierno de la Audiencia de Guadalajara", y los archivos de "Escribanos Públicos", en un plazo no mayor a 180 días a partir de la entrada en vigor del presente decreto.
