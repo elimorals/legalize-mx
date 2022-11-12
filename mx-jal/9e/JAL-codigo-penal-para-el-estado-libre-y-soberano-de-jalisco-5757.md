@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2022-11-08"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4603,13 +4603,17 @@ XVII. El objeto del robo sean productos agrícolas, siempre que el valor de lo r
 
 XVIII. Recaiga sobre autopartes;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XIX. Se ejecute en la vía pública mediante la utilización de vehículos motorizados o no motorizados que otorgue ventaja al sujeto activo para cometer el delito o para huir; o
+XIX. Se ejecute en la vía pública mediante la utilización de vehículos motorizados o no motorizados que otorgue ventaja al sujeto activo para cometer el delito o para huir;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XX. Se cometa dentro de un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo o en las inmediaciones de éstos sobre sus usuarios, así como quien proporcionó información de retiros en efectivo realizado por cuentahabientes y sea robado trabaje o preste auxilio directa o indirectamente en el establecimiento.
+XX. Se cometa dentro de un establecimiento bancario, en una oficina recaudadora Estatal o Municipal, o en otras cuya función esté relacionada con la recepción, manejo y distribución de dinero en efectivo o en las inmediaciones de éstos sobre sus usuarios, así como quien proporcionó información de retiros en efectivo realizado por cuentahabientes y sea robado trabaje o preste auxilio directa o indirectamente en el establecimiento; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Cuando el robo a que se refiere la fracción IX se ejecute a través de aparatos programadores o dispositivos electrónicos que sirvan para escanear, configurar, maniobrar, manipular, alterar o decodificar su encendido y apagado, o inhiba la señal de rastreo que permita la ubicación del automotor.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -4682,6 +4686,10 @@ V. De cinco a 18 años de prisión y hasta mil días de multa. También podrá a
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
 
 D) Si interviene la calificativa que se consigna en la fracción IX del artículo anterior, la pena será de nueve a veinte años de prisión y multa por el importe de sesenta a ciento cincuenta veces la Unidad de Medida y Actualización, sin importar el valor del robo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+e) Si interviene la calificativa que se consigna en la fracción XXI del artículo anterior, la pena será de diez a veintiún años de prisión y multa por el importe de setenta a ciento sesenta veces la Unidad de Medida y Actualización, sin importar el valor del robo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MARZO DE 2017)</small>
 
@@ -7258,5 +7266,11 @@ VIGESIMO TERCERO. En un plazo no mayor a ciento ochenta días hábiles, contados
 P.O. 8 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28823/LXIII/22 (SIC) QUE SE DEROGA EL ARTÍCULO 134 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28844/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 236 Y 236 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
