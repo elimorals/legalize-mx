@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2022-11-05"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -533,9 +533,9 @@ XI. La promoción de una cultura de vida saludable a través de hábitos aliment
 
 XII. El tratamiento de reconstrucción mamaria;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XIII. De la prevención, tratamiento y control de las adicciones;
+XIII. De la prevención, tratamiento y erradicación de las adicciones;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2022)</small>
 
@@ -1365,7 +1365,11 @@ Atención Materno-Infantil. Carácter Prioritario.
 
 1. La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, parto y puerperio y en su caso la detección de riesgos de muerte materna;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+I. La atención Integral de la mujer durante el embarazo, parto y puerperio, la detección de riesgos de muerte materna, incluyendo la atención psicológica que requiera.
+
+Toda mujer embarazada, tiene derecho a obtener servicios de salud en los términos a que se refiere el artículo 6 de la Ley de Salud Mental para el Estado de Jalisco, con estricto respeto de sus derechos humanos, a su dignidad y cultura.
 
 II. La atención del niño, la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, la prevención, detección de las condiciones de enfermedades hereditarias, congénitas y atención que incluya la aplicación de la prueba del tamiz ampliado;
 
@@ -1435,9 +1439,17 @@ V. La vigilancia de actividades ocupacionales que puedan poner en peligro la sal
 
 VI. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
 
-VII. La generación de políticas públicas para la disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Las demás que coadyuven a la protección de la salud materno-infantil.
+VII. La generación de políticas públicas para la disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+VIII. El establecimiento de programas de información de los servicios de salud en materia de atención materno-infantil, que faciliten el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+IX. Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### Artículo 106.
 
@@ -1465,9 +1477,9 @@ Salud Pública. Concepto.
 
 1. Salud pública es la ciencia y el arte de prevenir la enfermedad, prolongar la vida, fomentar la salud física, mental y social mediante medidas gestionadas a través de los organismos del estado en coordinación con la sociedad.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y control de adicciones, así como la detección y atención de la depresión, del síndrome del desgaste ocupacional y sobre la prevención del suicidio.
+2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y erradicación de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
 
 ###### Artículo 108.
 
@@ -2179,283 +2191,47 @@ Artículo. 163 Bis. Registro Estatal de Cáncer. Objeto.
 
 #### SECCIÓN CUARTA (SIC). DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADICCIONES
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 164.
 
-Consejo Estatal Contra las Adicciones. Objeto.
+Consejo Estatal Contra las Adicciones.
 
-1. El Consejo Estatal contra las Adicciones, como órgano desconcentrado de la Secretaría de Salud, tiene por objeto promover y apoyar las acciones de los sectores público, social y privado dirigidas a prevenir y atender los problemas de salud pública causados por las adicciones, con excepción de las psicológicas.
-
-2. El Consejo Estatal contra las Adicciones, a través de la Secretaría de Salud, deberá establecer convenios de colaboración con los municipios de Jalisco para que los Consejos Municipales de Salud coadyuven en las acciones que se realicen en la materia.
+1. El Consejo Estatal contra las Adicciones, su objeto, integración y atribuciones, así como los derechos de los usuarios y las obligaciones de los Centros de Atención Integral y las visitas de inspección se regularán en la Ley de Prevención, Atención Integral y Erradicación de las adicciones en el Estado de Jalisco.
 
 ###### Artículo 165.
 
-Consejo Estatal Contra las Adicciones. Integración.
-
-1. El Consejo Estatal Contra las Adicciones está formado por los titulares, o por las personas que éstos designen, de los siguientes organismos:
-
-I. Del sector público federal:
-
-a) Zona Militar de la Secretaría de la Defensa Nacional;
-
-b) Delegación Estatal de la Secretaría de Desarrollo Social;
-
-c) Delegación Estatal de la Secretaría de Trabajo y Previsión Social;
-
-d) Delegación Estatal de la Secretaría de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación;
-
-e) Delegación Estatal de la Procuraduría General de la República;
-
-f) Delegación Estatal del Instituto Mexicano del Seguro Social;
-
-g) Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y
-
-h) Delegación Estatal de la Procuraduría Federal del Consumidor;
-
-II. Del sector público estatal y municipal:
-
-a) Secretaría General de Gobierno;
-
-b) Secretaría de Salud;
-
-c) Secretaría del Trabajo y Previsión Social;
-
-d) Secretaría de Educación;
-
-e) Secretaría de Cultura;
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-f) Secretaría del Transporte;
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
-
-g) Secretaría de Seguridad;
-
-h) Sistema Estatal para el Desarrollo Integral de la Familia;
-
-i) Universidad de Guadalajara;
-
-j) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud;
-
-k) Comisión Estatal de Derechos Humanos
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2020)</small>
-
-l) Los presidentes de las Comisiones de Derechos Humanos y Pueblos Originarios, de Higiene, Salud Pública y Prevención de las Adicciones, Asistencia Social, Familia y Niñez del Congreso del Estado;
-
-m) Comisión para la Protección contra Riesgos Sanitarios de Jalisco; y
-
-n) (DEROGADO, P.O. 8 DE OCTUBRE DE 2019)
-
-III. Del sector privado y social:
-
-a) Centros de Integración Juvenil;
-
-b) Universidad Autónoma de Guadalajara;
-
-c) Universidad del Valle de Atemajac;
-
-d) Universidad Panamericana;
-
-e) Tecnológico de Monterrey, Campus Guadalajara;
-
-f) Instituto Tecnológico y de Estudios Superiores de Occidente;
-
-g) Asociación de Padres de Familia, A. C.;
-
-h) Federación de Escuelas Particulares de Occidente;
-
-i) Central Mexicana de Alcohólicos Anónimos; y
-
-j) Fundación de Reintegración Social del Estado de Jalisco, A. C.
-
-2. Adicionalmente a los miembros permanentes, el Consejo invitará a formar parte del mismo, como vocales, a organismos de la sociedad civil que brinden servicios de atención, tratamiento y rehabilitación de adicciones en el Estado, avalados por la Secretaría de Salud. Las instituciones invitadas presentarán un plan de trabajo en adicciones y serán evaluadas en su desempeño y ratificadas anualmente por el Consejo. Las organizaciones no ratificadas perderán su calidad de vocales.
-
-3. El Consejo deberá reunirse por lo menos cada 3 meses y rendir informe al Gobernador del Estado.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 166.
 
-Consejo Estatal Contra las Adicciones. Atribuciones.
-
-1. El Gobierno del Estado, a través del Consejo Estatal contra las Adicciones, en el marco del Sistema Nacional de Salud y con apego a lo dispuesto por los programas nacionales para la prevención y atención de las adicciones, tendrá las siguientes atribuciones:
-
-I. Ejecutar y evaluar permanentemente el Plan Jalisco en contra de las Drogas;
-
-II. Diseñar los programas estatales de prevención y atención de las adicciones;
-
-III. Crear el mapa de adicciones del Estado;
-
-IV. Crear indicadores y bases de datos que permitan identificar zonas, sectores, grupos de alto riesgo e índices de adicciones en el Estado;
-
-V. Elaborar y mantener actualizado el directorio de instituciones públicas y privadas legalmente constituidas dedicadas a la prevención y atención de las adicciones;
-
-VI. Promover y difundir campañas permanentes de información y orientación al público para la prevención y atención de adicciones;
-
-VII. Proporcionar y difundir al público en general material formativo e informativo que prevenga sobre las consecuencias de las adicciones;
-
-VIII. Planear y coordinar las actividades de las diferentes instituciones del sector salud, tanto públicas como privadas, dedicadas a la prevención y atención de adicciones;
-
-IX. Crear instituciones especializadas en el tratamiento y rehabilitación para las adicciones, basados en sistemas modernos con evidencia científica;
-
-X. Expedir el certificado de funcionamiento el cual acredita que las instituciones dedicadas a la prevención y atención de las adicciones cumplen con la normatividad aplicable, cuando la inspección a que se refiere el artículo 173 de esta ley así lo confirme;
-
-XI. Supervisar o inspeccionar y, en su caso, establecer las sanciones administrativas señaladas en la presente Ley, así como realizar las denuncias y señalamientos a las autoridades correspondientes de las instituciones públicas y privadas dedicadas a la prevención y atención de adicciones;
-
-XII. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas y privadas en la planeación, programación, ejecución y evaluación de los programas y acciones contra las adicciones;
-
-XIII. Promover la ampliación de la cobertura y el mejoramiento de la calidad en la prevención y tratamiento de las adicciones, con atención preferente en las zonas geográficas y grupos poblacionales de mayor riesgo;
-
-XIV. Impulsar la participación comunitaria en la formación de hábitos y estilos de vida saludables, en la prevención de las adicciones;
-
-XV. Promover la participación de los municipios del Estado mediante la conformación de consejos municipales contra las Adicciones;
-
-XV (SIC). Colaborar, con las autoridades e instituciones educativas, en las acciones dirigidas a definir y fortalecer los valores de la persona, propiciando el desarrollo integral del individuo, la familia y la comunidad, en beneficio de la salud pública;
-
-XVI. Fomentar las acciones preventivas en la detección temprana y atención oportuna de adicciones;
-
-XVII. Realizar labores de difusión sobre las normas y lineamientos aceptados nacional e internacionalmente para el manejo, prevención y tratamiento de adicciones, mediante mecanismos de promoción y educación para la salud que deberán ser efectivos en la limitación del problema a nivel estatal, desalentando el consumo de sustancias adictivas y difundiendo los servicios para el tratamiento de los usuarios;
-
-XVIII. Promover la rehabilitación de los usuarios de sustancias psicoactivas, con la participación de instituciones y organizaciones educativas, patronales, sindicales y de la sociedad civil en general;
-
-XIX. Colaborar en la formación de recursos humanos para la investigación de las adicciones;
-
-XX. Concertar convenios, contratos y acuerdos de colaboración con los sectores público, social y privado en materia de su competencia;
-
-XXI. Promover las reuniones de padres de familia y docentes de las escuelas públicas o privadas para llevar a cabo charlas y conferencias para la prevención de las adicciones;
-
-XXII. Determinar cuando menos los protocolos de diagnóstico, tratamiento basado en evidencias científicas, expediente clínico, procesos de ingreso, egreso y seguimiento individualizado de pacientes usuarios de sustancias psicoactivas, de conformidad con lo dispuesto por normas federales y estatales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2021)</small>
-
-XXIII. Participar en la implementación de la Justicia Terapéutica de acuerdo a la Ley en la materia;
-
-XXIV. Aprobar su reglamento interno y manuales de operación; y
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 18 DE MARZO DE 2021)</small>
-
-XXV. Las demás dispuestas por ordenamientos aplicables.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 167.
 
-Prevención, tratamiento y control de adicciones. Obligaciones de Instituciones Dedicadas a la Prevención y Atención.
-
-1. Las instituciones públicas y privadas dedicadas a la prevención y atención de las adicciones tendrán las siguientes obligaciones:
-
-I. Contar con licencia o permiso de la autoridad correspondiente;
-
-II. Contar con el personal técnico calificado para la consecución de sus fines;
-
-III. Permitir las visitas de inspección que efectúe el personal de autoridad competente;
-
-IV. Designar al responsable de la institución, mismo que deberá exhibir a la vista el título y cédula profesional que acrediten conocimientos en las ciencias de la salud;
-
-V. Contar con el o los reglamentos y manuales de operación aprobados por el Consejo Estatal Contra las Adicciones en Jalisco;
-
-VI. Contar con el Programa General de trabajo aprobado por el Consejo Estatal contra las Adicciones;
-
-VII. Entregar a los interesados y, en su caso, a sus familiares los lineamientos, diagnóstico, tratamiento y sistematización sugerida para cada caso en particular así como los costos y la duración de los mismos;
-
-VIII. Contar con la autorización del paciente usuario de sustancias psicoactivas para su internamiento, o en su defecto, con la responsiva que para tal efecto suscriban los familiares quienes autoricen el tratamiento;
-
-IX. Acatar el mandato judicial que ordene el internamiento de un paciente usuario de sustancias psicoactivas;
-
-X. Contar con un control respecto al ingreso y egreso de pacientes usuario de sustancias psicoactivas;
-
-XI. Sustentar los tratamientos con un enfoque multidisciplinario basados en evidencia científica, con perspectiva de género y libres de violencia, garantizando su integridad física, sexual y psicológica;
-
-XII. Implementar talleres ocupacionales;
-
-XIII. Elaborar sus reglamentos y manuales de operación;
-
-XIV. Contar con buzón de quejas y sugerencias;
-
-XV. Contar con instalaciones adecuadas que garanticen cuando menos la separación de pacientes en función de género y edad;
-
-XVI. Elaborar el expediente clínico de cada uno de los pacientes usuario de sustancias psicoactivas bajo su cuidado;
-
-XVII. Remitir a la Secretaría, en los plazos que se precisan, la siguiente información:
-
-a) Dentro de los diez días hábiles siguientes a la fecha de ingreso, los datos generales de las personas que reciben con la finalidad de recibir tratamiento, señalando el tipo de tratamiento o rehabilitación a efectuar. Los datos personales que sean remitidos se considerarán información confidencial en los términos de la ley de la materia, por lo que no está permitida su divulgación, y
-
-b) El número de pacientes usuarios de sustancias psicoactivas que concluyeron o no exitosamente sus tratamientos; y
-
-XVIII. Las demás señaladas por las disposiciones aplicables.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 168.
 
-Prevención, tratamiento y control de adicciones. Obligaciones de los Responsables de las Instituciones.
-
-1. Los responsables de las instituciones públicas y privadas dedicadas a la atención de adicciones tendrán las siguientes obligaciones:
-
-I. Entrevistar personalmente al paciente usuario de sustancias psicoactivas y, en su caso, a los familiares que le acompañen;
-
-II. Ordenar la práctica de una revisión física para detectar golpes y heridas que requieran de atención médica inmediata;
-
-III. Ordenar la práctica del diagnóstico que incluya el grado de intoxicación, habituación y afectación del paciente usuario de sustancias psicoactivas;
-
-IV. Proponer y explicar el tratamiento a seguir;
-
-V. Recabar el consentimiento escrito del tratamiento a efectuar;
-
-VI. Informar al paciente usuario de sustancias psicoactivas sobre los costos del tratamiento;
-
-VII. Entablar contacto permanente con la familia del paciente usuario de sustancias psicoactivas;
-
-VIII. Derivar a instituciones de salud en cualquier momento a los pacientes que requieran de atención médica inmediata;
-
-IX. Dar de alta a los pacientes usuario de sustancias psicoactivas que han finalizado el tratamiento o cuando así lo soliciten los familiares responsables;
-
-X. Evitar el traslado del paciente usuario de sustancias psicoactivas a otra institución dedicada a la prevención y atención de las adicciones o algún otro lugar salvo, emergencia médica, sin la autorización previa de sus familiares;
-
-XI. Tratar con dignidad y apego a los Derechos Humanos a los pacientes adictos; y
-
-XII. Las demás previstas por las disposiciones aplicables.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 #### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS PACIENTES USUARIOS DE SUSTANCIAS PSICOACTIVAS
 
 ###### Artículo 169.
 
-Usuarios de Sustancias Psicoactivas. Derechos.
-
-1. Los pacientes usuarios de sustancias psicoactivas tendrán los siguientes derechos:
-
-I. Recibir información oportuna sobre el acceso a servicios de rehabilitación a los que se puedan adherir;
-
-II. Conocer, previa adhesión, las características del tratamiento a recibir;
-
-III. Recibir tratamiento integral y multidisciplinario libre de violencia, basado en evidencias científicas de acuerdo al género, edad y salud, en los términos previstos por las disposiciones aplicables en los términos previstos por las disposiciones aplicables (sic);
-
-IV. Gozar de respeto a la dignidad de su persona;
-
-V. Recibir alimentación suficiente, adecuada y de calidad;
-
-VI. Recibir visitas de sus familiares y que estos conozcan las instalaciones del lugar donde se desarrollan las distintas actividades;
-
-VII. Contar con instalaciones dignas e higiénicas;
-
-VIII. Contar con la atención médica; y
-
-IX. Los demás dispuestos por disposiciones aplicables.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 170.
 
-Usuarios de Sustancias Psicoactivas. Información Accesible.
-
-1. Todas las instituciones públicas y privadas dedicadas a la prevención y atención de adicciones dispondrán de información accesible que contenga los derechos de los pacientes, así como formatos de quejas y sugerencias.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 171.
 
-Usuarios de Sustancias Psicoactivas. Inspección a Instituciones.
-
-1. La Secretaría y las autoridades competentes deberán permanente, inspeccionar las instituciones dedicadas a la atención de adicciones, las condiciones de salud de los internos, el cumplimiento de sus obligaciones, del (sic) la ley, reglamentos, protocolos, manuales y normas que para tal efecto expidan las autoridades, si derivado de las inspecciones resulta alguna irregularidad, deberá informar a las autoridades competentes que sea el caso si no le compete a la autoridad verificadora.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2021)</small>
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 171 Bis.
 
-Usuarios de Sustancias Psicoactivas Sentenciados. De la Justicia Terapéutica.
-
-1. La Secretaría y las autoridades competentes deberán establecer los programas de justicia terapéutica como un beneficio de sustitución de la pena en los términos establecidos en la legislación aplicable.
+(DEROGADO, P.O. 12 DE NOVIEMBRE DE 2022)
 
 ### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN Y GARANTÍA DEL USO RACIONAL DE MEDICAMENTOS Y OTROS INSUMOS
 
@@ -4852,3 +4628,31 @@ QUINTO. El Titular del Poder Ejecutivo, a través de la Secretaría de la Hacien
 SEXTO. El Titular del Poder Ejecutivo identificará dentro del Anexo Transversal de Desarrollo integral de las niñas, niños y adolescentes las acciones y, o componentes a favor de la Primera Infancia como parte de la iniciativa de Presupuesto de Egresos para el ejercicio fiscal 2023.
 
 SÉPTIMO. Los gobiernos municipales, con base en su autonomía y libertad de administración presupuestal, podrán incluir en sus respectivos presupuestos de egresos, los recursos suficientes para la implementación y ejecución de los Programas y acciones generadas por la Estrategia Estatal para la Atención Integral en Primera Infancia.
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28850/LXIII/22 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL EXPIDE LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO; SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 34, EL PÁRRAFO. SEGUNDO DEL ARTÍCULO 107, EL ARTÍCULO 164 Y SE DEROGAN LOS ARTÍCULOS 165, 166, 167, 168, 169, 170, 171, 171 BIS DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo contenido en esta Ley.
+
+Artículo Tercero. Los programas y acciones derivadas de esta Ley, se ajustarán a las políticas presupuestales del Gobierno del Estado.
+
+Artículo Cuarto. El Ejecutivo del Estado concretará las acciones que determinen acuerdos o convenios con la Federación y promoverá la concertación de éstos, a fin de disponer de los recursos económicos que se requieren para la aplicación de las disposiciones contenidas en esta Ley.
+
+Artículo Quinto. El Gobierno del Estado, presupuestará para el ejercicio fiscal correspondiente, las partidas necesarias para el logro de los fines que determina la presente Ley, de acuerdo a los recursos de que se disponga.
+
+Artículo Sexto. El reglamento de esta Ley, deberá ser expedido a más tardar ciento veinte 120 días naturales, contados a partir de la entrada en vigor del presente ordenamiento.
+
+Artículo Séptimo. Los Centros de Atención Integral que operan en el Estado, tendrán sesenta días a partir de la vigencia de la presente, para solicitar su registro al Consejo.
+
+Artículo Octavo. Será la Secretaría de Salud, quien determine la manera y la forma de hacer llegar los recursos y subsidios mencionados en la presente Ley, de manera transparente y equitativa entre todos los centros registrados.
+
+Artículo Noveno. La Secretaría de Salud, emitirá el Programa para la Prevención, Atención Integral y Erradicación de las Adicciones en Jalisco, dentro del término de noventa días del inicio de la vigencia de la presente.
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28846/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 100 Y 105 DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
