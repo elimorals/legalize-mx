@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2022-07-16"
+last_updated: "2022-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1235,7 +1235,7 @@ XXXI. Atender los requerimientos de la Unidad de Transparencia del sujeto obliga
 
 ### CAPITULO I. De las obligaciones de las entidades públicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 56.
 
@@ -1319,13 +1319,17 @@ XVIII. Implementar registros de asistencia que den certeza al trabajador día a 
 
 XIX. Permitir la consulta y entregar al servidor público copia del expediente laboral, a su costa;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XX. Otorgar a los servidores públicos capacitación o actualización complementarias, que tengan por objeto la formación de conformidad con las normas que rijan la buena gestión y la excelencia en el servicio público, e
+XX. Otorgar a los servidores públicos capacitación o actualización complementarias, que tengan por objeto la formación de conformidad con las normas que rijan la buena gestión y la excelencia en el servicio público;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
 
-XXI. Implementar medidas para prevenir, atender, sancionar y erradicar las conductas de violencia política contra las mujeres en razón de género, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y el artículo 22 del presente ordenamiento.
+XXI. Implementar medidas para prevenir, atender, sancionar y erradicar las conductas de violencia política contra las mujeres en razón de género, de conformidad con la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco y el artículo 22 del presente ordenamiento; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Desarrollar programas y acciones educativas, socio-culturales y recreativas que de manera directa e indirecta contribuyan a la promoción de la salud mental de los servidores públicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2020)</small>
 
@@ -3214,3 +3218,21 @@ P.O. 16 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28801/LXIII/22 QUE ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 42 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará eh vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 12 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 28849/LXIII/22 QUE ABROGA LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO Y CREA LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO; REFORMA LOS ARTÍCULOS 10, 11, 13, 16, 54 Y 60 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO; Y EL ARTÍCULO 56 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Salud contará con un plazo de 180 días para emitir el Programa de Salud Mental y el Protocolo de Prevención, Atención y Postvención de suicidio, contados a partir de la entrada en vigor de este decreto.
+
+TERCERO. El Consejo contará con un plazo de 90 días, contados a partir de la vigencia de la presente, para aprobar su reglamento interno.
+
+CUARTO. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+QUINTO. Los Centros Integrales de Atención y los Módulos Comunitarios de Atención en Salud Mental, comenzarán a operar bajo los términos previstos en la presente a partir de los 180 días de la entrada en vigor del presente.
+
+SEXTO. El Gobierno del Estado en coordinación con los municipios asignarán los recursos necesarios en su presupuesto de egresos respectivos, para implementar un Módulo Comunitario de Atención a personas usuarias del servicio, que deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
+
+SÉPTIMO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
