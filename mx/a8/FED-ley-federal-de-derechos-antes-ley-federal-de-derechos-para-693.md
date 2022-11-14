@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2021-12-27"
+last_updated: "2022-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2022.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2021.
 
@@ -499,11 +499,11 @@ Los prestadores del servicio de transporte aéreo internacional de pasajeros a q
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 13.
 
-Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
+Por la recepción y estudio de la solicitud y, en su caso, la expedición de certificados, permisos, constancias o autorizaciones, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota sin
 
@@ -523,6 +523,10 @@ III. Autorización para realizar actividades remuneradas al Residente Temporal y
 
 IV. Autorización o reposición de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $1,122.22 $1,122
 
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+V. Obtención o actualización de la Constancia de inscripción de empleador $345.53
+
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 No pagarán la cuota señalada en la fracción III del presente artículo, los extranjeros cuando sean autorizados al amparo de un instrumento jurídico de movilidad de personas o convenios de cooperación internacional en consideración a aspectos de reciprocidad internacional.
@@ -530,6 +534,10 @@ No pagarán la cuota señalada en la fracción III del presente artículo, los e
 ###### ARTICULO 14.
 
 (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 14 BIS.- Por la recepción, estudio de la solicitud y, en su caso, la autorización de visas por unidad familiar u oferta de empleo, que se tramiten ante el Instituto Nacional de Migración, se pagará el derecho conforme a la cuota de $219.07
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -1133,7 +1141,7 @@ b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 d). Por la recepción,
 
@@ -1141,29 +1149,47 @@ estudio de la solicitud y,
 
 en su caso, la autorización
 
-de las visas ordinarias en
+y expedición de las visas
 
-pasaportes extranjeros $812.08 $810
+ordinarias en pasaportes
+
+extranjeros $812.08
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-f).- Por la recepción, estudio de
+f). Por la recepción,
 
-la solicitud y, en su caso, la
+estudio de la solicitud y,
 
-autorización de la visa de
+en su caso, la autorización
 
-visitante sin permiso para
+y expedición de la visa
 
-realizar actividades remuneradas
+de visitante sin permiso
 
-de larga duración $531.09 $530
+para realizar actividades
+
+remuneradas de larga duración $531.09
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+g). Cuando las visas a que
+
+se refiere la presente fracción
+
+sean solicitadas a través de
+
+medios electrónicos $174.62
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Los derechos por la expedición de las visas ordinarias en pasaportes extranjeros a que se refiere el inciso d) de esta fracción, podrán exentarse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+No pagarán el derecho a que se refiere esta fracción, las personas extranjeras que soliciten la visa de Visitante sin permiso para realizar actividades remuneradas, cuando sean consideradas víctimas o acrediten ser familiares de personas extranjeras desaparecidas en territorio nacional, o por causas humanitarias, con base en la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, demás legislación nacional y en los tratados internacionales de los que México es parte.
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1257,15 +1283,17 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
 VII.- Por las autorizaciones
 
 que otorguen las personas
 
 que ejerzan la patria potestad
 
-o la tutela sobre menores o
+o la tutela sobre niñas, niños y
 
-incapaces $992.55 $995
+adolescentes o incapaces $992.55
 
 VIII.- Por otras certificaciones
 
@@ -1278,6 +1306,10 @@ Siempre que una escritura notarial contenga diversos contratos o actos, los dere
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 En los casos en que de conformidad con la Ley del Notariado para el Distrito Federal, el Cónsul tenga que poner en las escrituras la anotación de "No pasó", se pagará íntegramente el valor de los derechos; pero si esa escritura se repite ante el mismo Cónsul, por la nueva escritura se pagará únicamente el 50% de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+Los mexicanos que deseen obtener testamento público abierto en una oficina consular en el extranjero, pagarán el 50% de la cuota establecida en la fracción III del presente artículo.
 
 > <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2002)</small>
 
@@ -1514,6 +1546,22 @@ XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 XIV.- Los no especificados
 
 en las fracciones anteriores $586.25 $585
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+XV.- Por la recepción, estudio y,
+
+en su caso, aprobación del
+
+escrito de convenio de renuncia
+
+para la adquisición, por parte de
+
+extranjeros, de bienes inmuebles
+
+fuera de la zona restringida en
+
+el territorio nacional $4,640.03
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -3891,9 +3939,9 @@ Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), �
 
 Por la prórroga de las autorizaciones a que se refieren los incisos b), c), g), h), i), k), n), ñ), o), p) y t) de este artículo, así como por la renovación de las autorizaciones a que se refieren los incisos a) y m) de este artículo, se pagarán las mismas cuotas que se establecen para cada inciso.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria, para el mejoramiento de la Administración Aduanera.
+Los ingresos que se obtengan por la recaudación de los derechos establecidos en este artículo se destinarán al Servicio de Administración Tributaria o a la Agencia Nacional de Aduanas de México, órgano auxiliar de la administración aduanera, según corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -4229,11 +4277,7 @@ conocimientos $6,320.90 $6,321
 
 b). Correspondiente a la etapa psicotécnica $5,800.59 $5,801
 
-IV.- Por el estudio y aprobación de las escrituras
-
-constitutivas de las sociedades o asociaciones
-
-que exploten la patente de agente aduanal $18,728.02 $18,728
+IV.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -4307,23 +4351,15 @@ $5,202.33 $5,202
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-#### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
+#### SECCION OCTAVA. Resoluciones Relativas a Contraprestaciones u Operaciones Celebradas entre Partes Relacionadas
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 53-G.
 
-Por el estudio y trámite de cada solicitud de resolución relativa a los precios o montos de contraprestaciones entre partes relacionadas, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$275,906.07 $275,906
+Por el estudio y trámite de cada solicitud de resolución relativa a los precios, montos de contraprestaciones o márgenes de utilidad, en operaciones celebradas entre partes relacionadas, se pagarán derechos conforme a la cuota de $275,906.07
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -4639,19 +4675,11 @@ Sin ajuste Con ajuste
 
 $5,358.35 $5,358
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 61.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos en las normas oficiales mexicanas a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización se pagarán derechos con la siguiente cuota:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$3,309.73 $3,310
+Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía o la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por estas dependencias, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $3,309.73
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -5095,19 +5123,11 @@ Sin ajuste Con ajuste
 
 $801.50 $801
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 73-G.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Economía para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos en las normas oficiales mexicanas expedidas por esta dependencia, a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización, se pagarán derechos conforme a la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$12,870.80 $12,871
+Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Economía para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por esta dependencia, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $12,870.80
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -5335,9 +5355,11 @@ relacionados con la firma electrónica $189,859.65 $189,860
 
 #### SECCION SEGUNDA. Sanidad Fitozoosanitaria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTICULO 84.
 
-Por los servicios de inspección, control y vigilancia en la entrada y salida del territorio nacional de vegetales, animales, productos derivados de los mismos, así como los de uso o aplicación en animales o vegetales y medios en los que se transporten que traigan por consecuencia la aplicación de medidas de seguridad en materia de sanidad fitopecuaria, en días, horas o lugares diferentes de las oficinas en que se preste el servicio, se pagarán derechos conforme a lo siguiente:
+Por los servicios de inspección, control y vigilancia en la entrada y salida del territorio nacional de vegetales, animales terrestres y acuáticos, productos derivados de los mismos, así como los de uso o aplicación en animales o vegetales y medios en los que se transporten, que traigan por consecuencia la aplicación de medidas de seguridad en materia de sanidad animal, vegetal, acuícola o pesquera y en días, horas o lugares diferentes de las oficinas en que se preste el servicio, se pagarán derechos conforme a lo siguiente:
 
 I.- Un día de sueldo y sobresueldo por cada cuatro horas o fracción.
 
@@ -5587,23 +5609,9 @@ $74,464.92 $74,465
 
 En caso de que los autorizados para operar alguno de los establecimientos antes señalados, solicite un cambio o ampliación de mercancías, cambio de domicilio del punto o ampliación de las instalaciones, se pagará el 50% de los derechos previstos en el párrafo anterior.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 86-E.
 
-Por la expedición de los documentos que contengan los requisitos técnicos fitosanitarios o zoosanitarios para el trámite en materia de sanidad agropecuaria se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por la expedición del formato de requisitos
-
-técnico-fitosanitarios para importación $425.15 $425
-
-II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
+(DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 ###### ARTICULO 86-F.
 
@@ -5673,9 +5681,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por el registro de sucesión de los
-
-derechos de protección $1,890.27 $1,890
+I. (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 II.- Por cada copia certificada del Título $539.86 $540
 
@@ -6935,15 +6941,7 @@ d).- Por la modificación de los permisos a que
 
 se refiere esta fracción $5,316.72 $5,317
 
-III.- Por cada permiso de:
-
-a).- Construcción y explotación de aeródromos
-
-de servicio comunitario $1,063.15 $1,063
-
-b).- Modificación a los aeródromos de servicio
-
-comunitario $425.15 $425
+III.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
@@ -8077,11 +8075,11 @@ IV.- Por prórroga de la vigencia $2,977.25 $2,977
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 172-J.
 
-Por las autorizaciones de los servicios ferroviarios, se pagarán derechos conforme a las siguientes cuotas:
+Por la recepción, estudio de la solicitud y, en su caso, la autorización, aprobación o modificación de los servicios ferroviarios, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
@@ -8090,6 +8088,14 @@ Sin ajuste Con ajuste
 I.- Manuales de sistemas de control
 
 de tránsito $10,834.46 $10,834
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+II.- Horarios ferroviarios $10,036.40
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+III.- Reglamento interno de transporte $9,350.77
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -8501,31 +8507,19 @@ V. Por modificación en las
 
 características técnicas $4,182.69 $4,183
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 174-J.
 
-Por el estudio de la solicitud y, en su caso, expedición del certificado de homologación provisional o definitivo de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión, así como por su ampliación, o la renovación del certificado de homologación provisional, se pagarán derechos conforme a las siguientes cuotas:
+Por el estudio de la solicitud y, en su caso, la expedición, reexpedición o ampliación de los certificados de homologación de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
 
-Cuota
+I. Por el certificado de homologación tipo A, o su ampliación $812.45
 
-Sin ajuste Con ajuste
+II. Por el certificado de homologación tipo B $2,827.87
 
-I. Por el certificado de homologación
+III. Por el certificado de homologación tipo C $3,193.92
 
-Provisional $7,728.77 $7,729
-
-II. Por el certificado de homologación
-
-Definitivo $2,928.59 $2,929
-
-III. Por la renovación o ampliación de los
-
-certificados previstos en las fracciones
-
-anteriores, según corresponda $2,279.59 $2,280
+IV. Por la reexpedición del certificado de homologación tipo A, B o C, por cada uno $657.71
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -8699,11 +8693,7 @@ por unidad de empaque $1,585.66 $1,586
 
 III.- Dictámenes
 
-a) Para determinar que un objeto o lote es
-
-reproducción, por unidad o empaque hasta
-
-veinticinco objetos $239.49 $239
+a) (DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 b) Para establecer delimitación de inmuebles
 
@@ -8751,21 +8741,7 @@ garantía que proceda por el valor del
 
 monumento histórico o artístico $528.21 $528
 
-b).- De exportación de reproducciones a persona física o moral:
-
-1.- Cuando los objetos tengan sello, marca
-
-autorizada y registrada por los Institutos
-
-Nacionales de Antropología e Historia y de
-
-Bellas Artes y Literatura, sin límite de objetos
-
-y por cada operación $158.21 $158
-
-2.- Cuando carezcan de sello, marca o registro
-
-por unidad de empaque, hasta 25 objetos $1,585.66 $1,586
+b).- (DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 III.- Por el dictamen para certificar el carácter
 
@@ -8897,6 +8873,10 @@ audiencia en el procedimiento de avenencia $549.92 $550
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+No se pagarán los derechos a que se refiere esta fracción cuando se trate de pueblos y comunidades indígenas y afromexicanas a que hace referencia la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas, que hagan valer derechos de propiedad colectiva sobre su patrimonio cultural, a través del procedimiento de avenencia.
+
 XIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 XIV.- Solicitud y dictamen de reservas de
@@ -8973,9 +8953,9 @@ b). Por la expedición de cada
 
 certificado o constancia $186.21 $186
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en cualquier formato, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad.
+No se pagarán los derechos a que se refiere esta fracción cuando se trate de reproducciones en cualquier formato, siempre que se realicen sin fines de lucro y con el objeto exclusivo de hacerlas accesibles a las personas con discapacidad, así como la reproducción de obras en cualquier formato, que sean escritas en las lenguas indígenas nacionales consideradas en el catálogo a que hace referencia la Ley General de Derechos Lingüísticos de los Pueblos Indígenas, siempre que sea sin fines de lucro y con el objeto de divulgación y preservación de las mismas.
 
 XXII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -9120,6 +9100,14 @@ Profesionales $428.00 $428
 XIII.- Registro de Federación de
 
 Colegios de Profesionistas $14,447.43 $14,447
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Licencia para el ejercicio
+
+profesional de extranjeros al
+
+amparo de tratados internacionales $483.91
 
 ###### ARTICULO 185-A.
 
@@ -10076,6 +10064,16 @@ Cuota
 Sin ajuste Con ajuste
 
 $8,633.97 $8,634
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+###### ARTICULO 192-G.
+
+Por los servicios de aprobación de organismos de certificación, laboratorios de prueba y unidades de verificación, que efectúe la Comisión Nacional del Agua, para evaluar la conformidad de las Normas Oficiales Mexicanas y estándares en materia hídrica, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación como organismo de certificación, laboratorio de prueba o unidad de verificación para evaluar la conformidad de las Normas Oficiales Mexicanas $5,101.85
+
+II. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación de laboratorios de prueba que realizan análisis de calidad del agua para evaluar la conformidad de las Normas Oficiales Mexicanas y estándares en materia de descargas de aguas residuales $9,685.51
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11945,11 +11943,11 @@ Por las modificaciones solicitadas a las autorizaciones señaladas en las fracci
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 195-J.
 
-Por expedición, corrección o modificación del certificado de exportación de establecimientos que produzcan insumos para la salud destinados a la exportación, se pagarán derechos conforme a las siguientes cuotas:
+Por expedición o modificación del certificado de exportación de establecimientos que produzcan insumos para la salud destinados a la exportación, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
@@ -11957,7 +11955,11 @@ Sin ajuste Con ajuste
 
 I.- Por la expedición $ 9,753.77 $ 9,754
 
-II.- Por la corrección del certificado sanitario $ 400.55 $ 401
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+II.- Por la modificación del
+
+certificado sanitario $400.55
 
 III.- Por cualquier otra modalidad
 
@@ -12749,6 +12751,24 @@ IX.- Por cambio en la titularidad de las
 
 acciones o partes sociales $9,483.11 $9,483
 
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+X. Por la recepción, estudio, análisis y,
+
+en su caso, la autorización de la
+
+constancia de autentificación a las
+
+personas prestadoras de servicios para
+
+actividades relacionadas directamente con
+
+la instalación de sistemas de blindaje en
+
+todo tipo de vehículos automotores mediante
+
+holograma numerado $500.00
+
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
 ###### ARTICULO 195-X
@@ -13053,9 +13073,11 @@ k). De más de 50,000.01 unidades de
 
 arqueo bruto $8,102.51 $8,103
 
-V. Por la revisión de los cálculos de arqueo y de francobordo y, en su caso, por la expedición de certificados, de conformidad con lo siguiente:
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-a). Hasta 1,000 unidades de arqueo bruto $5.2200 $5
+V. Por la revisión de los cálculos de arqueo y de francobordo y, en su caso, por la expedición de certificados, por cada unidad de arqueo bruto de conformidad con lo siguiente:
+
+a). Hasta 1,000 unidades de arqueo bruto $5.22 por unidad
 
 b). De más de 1,000 hasta 5,000 unidades
 
@@ -13063,21 +13085,23 @@ de arqueo bruto, por las primeras 1,000, la
 
 cuota señalada en el inciso anterior, y por
 
-cada una o fracción de las excedentes $2.7200
+cada una o fracción de las excedentes $2.72 por unidad
 
-c). De más de 5,000 hasta 15,000 unidades de arqueo
+c). De más de 5,000 hasta 15,000 unidades
 
-bruto, por las primeras 5,000, la cuota señalada en
+de arqueo bruto, por las primeras 5,000, la
 
-el inciso anterior y por cada una o fracción
+cuota señalada en el inciso anterior y por
 
-de las excedentes $2.4400
+cada una o fracción de las excedentes $2.44 por unidad
 
-d). De más de 15,000 unidades de arqueo bruto,
+d). De más de 15,000 unidades de arqueo
 
-por las primeras 15,000, la cuota señalada en el inciso
+bruto, por las primeras 15,000, la cuota
 
-anterior y por cada una o fracción de las excedentes $2.1500
+señalada en el inciso anterior y por cada
+
+una o fracción de las excedentes $2.15 por unidad
 
 VI. Por la expedición de autorización para la extracción,
 
@@ -13104,6 +13128,12 @@ competencias deportivas náuticas $1,497.64 $1,498
 X. Autorización de amarre temporal de
 
 embarcaciones y artefactos navales $1,503.79 $1,504
+
+> <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+XI. Por la modificación o reposición del
+
+certificado de arqueo o francobordo $1,965.62
 
 No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
 
@@ -13325,9 +13355,11 @@ h). De más de 5000 hasta 15000 unidades de arqueo bruto,
 
 comprendiendo 5 inspecciones parciales $47,928.66 $47,929
 
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
 i). De más de 15000 hasta 25000 unidades de arqueo
 
-bruto, comprendiendo 5 reparaciones parciales $57,719.02 $57,719
+bruto, comprendiendo 5 inspecciones parciales $57,719.02
 
 j). De más de 25000 hasta 50000 unidades de arqueo bruto,
 
@@ -13491,17 +13523,17 @@ I. Dique menor de 150 metros de eslora $22,990.27 $22,990
 
 II. Dique de 150 metros o más de eslora $35,050.12 $35,050
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 195-Z
 
-9. Por la inspección, verificación y, en su caso, expedición del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos y diques flotantes, se pagarán derechos, conforme a la cuota de $36,991.04 $36,991
+9.- Por la inspección, verificación y, en su caso, expedición y renovación del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos y diques flotantes, se pagará el derecho, conforme a las cuotas siguientes:
 
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+I. Por la expedición $39,843.05
 
-Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,247.07 $2,247
+II. Por la renovación $27,054.71
+
+Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,420.31
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -14082,6 +14114,12 @@ Para los efectos de este artículo, se entenderá que el horario ordinario de op
 No se pagará el derecho a que se refiere este artículo, por las embarcaciones que hagan navegación fluvial, lacustre, interior de puertos que estén dedicadas a la pesca comercial. Tampoco pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
 
 El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+###### ARTICULO 195-Z
+
+29.- Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de $22,818.74
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -15571,17 +15609,21 @@ ZONA I. Estado de Campeche: Calkiní, Escárcega, Hecelchakán, Palizada y Tenab
 
 ZONA II.- Estado de Guerrero: Azoyu, Copala, Benito Juárez y Tecpan de Galeana; Estado de Jalisco: Cabo Corrientes y Tomatlán; Estado de Michoacán: Aquila; Estado de Nayarit: Santiago Ixcuintla; Estado de Oaxaca: Juchitán de Zaragoza, y Santa María Colotepec; Estado de Quintana Roo: Felipe Carrillo Puerto; Estado de Sinaloa: Culiacán; Estado de Tamaulipas: Aldama, Matamoros, San Fernando y Soto la Marina; Estado de Veracruz: Tamalín, Tantima y Pánuco.
 
-> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: San Rafael, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
+ZONA III. Estado de Campeche: Champotón y Seybaplaya; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: San Rafael, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
 
-ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-ZONA VI. Estado de Baja California: Ensenada; Estado de Baja California Sur: Comondú; Estado de Veracruz: Alvarado y Tecolutla; Estado de Yucatán: Progreso.
+ZONA V. Estado de Baja California: Mexicali y San Felipe; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
+
+> <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+ZONA VI. Estado de Baja California: Ensenada y San Quintín; Estado de Baja California Sur: Comondú; Estado de Veracruz: Alvarado y Tecolutla; Estado de Yucatán: Progreso.
 
 > <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -17329,47 +17371,19 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 245.
 
-El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales de microondas entre dos estaciones terminales para servicios públicos o privados de señales de telecomunicaciones, se pagará anualmente por cada enlace, conforme a las siguientes cuotas:
+El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales de microondas entre dos estaciones terminales para servicios públicos o privados de señales de telecomunicaciones, se pagará anualmente por cada enlace y por megahertz concesionado, conforme a las siguientes cuotas:
 
-Cuota
+I.- Por cada megahertz concesionado en bandas inferiores a 1 gigahertz $8,700.14
 
-Sin ajuste Con ajuste
+II.- Por cada megahertz concesionado en bandas iguales o superiores a 1 gigahertz pero inferiores a 24 gigahertz $982.80
 
-I.- Por cada estación terminal de cada enlace
+III.- Por cada megahertz concesionado en bandas iguales o superiores a 24 gigahertz $138.78
 
-multicanal o por cada punto extremo del
-
-mismo o antena y por cada repetidor $7,856.18 $7,856
-
-II.- En cada canal de radiofrecuencia por
-
-cada grupo de 120 canales telefónicos o
-
-fracción y hasta 960 canales telefónicos
-
-o de capacidad equivalente para cualquier
-
-otro tipo de señales de telecomunicaciones $7,856.18 $7,856
-
-III.- En cada canal de radiofrecuencia para
-
-capacidades adicionales a 960 canales
-
-telefónicos o de capacidad equivalente para
-
-cualquier otro tipo de señales de
-
-telecomunicaciones $7,856.18 $7,856
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-La cuota total por cada enlace será el resultado de aplicar en forma acumulada las cuotas correspondientes a las fracciones I, II y III.
+En caso de que se tenga concesionado menos de un megahertz en el título respectivo en la banda de que se trate, se pagará la parte proporcional de la cuota que corresponda según las fracciones anteriores.
 
 ###### ARTICULO 245-A.
 
@@ -17785,9 +17799,9 @@ V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas
 
 Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará por la Secretaría de Hacienda y Crédito Público en un 85% a la Secretaría de Educación Pública y a la Secretaría de Salud, mismas que, en un 80% de la recaudación total de los derechos citados, deberán aplicar en términos de lo dispuesto por el artículo 271 de esta Ley y el 5% restante para que desempeñen las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará por la Secretaría de Hacienda y Crédito Público en un 85% a la Secretaría de Educación Pública, a la Secretaría de Salud, así como a otras dependencias y entidades de la Administración Pública Federal que lleven a cabo las acciones a que se refiere el artículo 271 de esta Ley, mismas que, en un 80% de la recaudación total de los derechos citados, deberán aplicar en términos de lo dispuesto por el citado artículo 271 y el 5% restante para que desempeñen las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -18551,7 +18565,9 @@ El pago de este derecho deberá hacerse previamente al ingreso a los museos, mon
 
 Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
-No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos y zonas arqueológicas los domingos.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos, monumentos y zonas arqueológicas los domingos.
 
 Lo dispuesto en el párrafo anterior no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
 
@@ -18635,7 +18651,9 @@ El pago del derecho a que se refiere este precepto deberá hacerse previo al ing
 
 Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
-No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos. Los miembros del Consejo Internacional de Museos pagarán el 50% de la cuota a que se refiere el presente artículo.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos. Las personas integrantes del Consejo Internacional de Museos pagarán el 50% de la cuota a que se refiere el presente artículo.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -18657,7 +18675,9 @@ Mexicanos $18.04 $18
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
-De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Consejo Nacional para la Cultura y las Artes para realizar estudios afines a los museos a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho quienes accedan a los museos los domingos.
+> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Consejo Nacional para la Cultura y las Artes para realizar estudios afines a los museos a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho quienes accedan a los museos los domingos.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
 
@@ -23850,3 +23870,31 @@ VI. Los mexicanos que deseen obtener testamento público abierto en una oficina 
 D.O.F. 27 DE DICIEMBRE DE 2021.
 
 > <small>[N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LA PRESENTE MODIFICACIÓN A LA RESOLUCIÓN DE MISCELÁNEA FISCAL PARA 2022, VÉASE ANEXO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022 PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2021, EDICIÓN VESPETINA DENOMINADO “ANEXO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022”.]</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS”.]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2023.
+
+Segundo. Durante el año 2023, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2023, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2022 hubieren optado por pagar para el referido ejercicio fiscal, más el 4% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2023 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2023, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2022, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2023 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2023 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2022 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2023, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2022, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2023 conforme a la citada fracción del referido artículo 29-D en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2023, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones II, III y IV de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2023, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+VI. Para los efectos de lo dispuesto en los artículos 244, 244-A, 244-B, 244-E, 244-E-1, 244-G, 244-H, 244-I y 244-J de la Ley Federal de Derechos, las cuotas previstas en dichas disposiciones no se actualizarán de conformidad con el párrafo cuarto del artículo 1o. de la citada Ley, durante el ejercicio fiscal de 2023.
+
+Los concesionarios de las bandas de frecuencias del espectro radioeléctrico sujetos al pago de los derechos mencionados en el párrafo anterior, deberán pagar durante el ejercicio fiscal de 2023, los derechos vigentes correspondientes al ejercicio fiscal de 2022.
