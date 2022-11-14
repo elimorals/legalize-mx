@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2022-03-14"
+last_updated: "2022-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -57,37 +57,57 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y cinco juzgados de Distrito Auxiliares, todos con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Quinta Región, conformado por tres tribunales colegiados de Circuito Auxiliares, uno con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur y cinco juzgados de distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 Los tribunales colegiados se denominarán:
 
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
-Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Los Mochis, Sinaloa.
 
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en La Paz, Baja California.
 
-Los tribunales unitarios se denominarán:
+> <small>(DEROGADO OCTAVO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+> <small>(DEROGADO NOVENO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+> <small>(DEROGADO DÉCIMO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 Los juzgados de Distrito se denominarán:
 
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 Juzgado Primero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 Juzgado Segundo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 Juzgado Tercero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
 Juzgado Quinto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
@@ -284,3 +304,15 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 14 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El personal que, conforme al análisis que emprenda la Dirección General de Recursos Humanos, con apoyo de la Secretaría Ejecutiva de Adscripción, deba trasladarse de residencia, podrá hacerlo a partir del lunes 7 de noviembre de 2022.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
