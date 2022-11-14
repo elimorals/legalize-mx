@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-8-89-relativo-a-la-aprobacion-del-reglamento-de-63788"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1989-09-20"
-last_updated: "1989-09-20"
+last_updated: "2022-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63788&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1989-09-20"
 ---
 # ACUERDO 8/89 RELATIVO A LA APROBACION DEL REGLAMENTO DE TRABAJO DE LA COMISION SUBSTANCIADORA DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO TRANSITORIO DEL ACUERDO GENERAL CONJUNTO DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA A LA COMISIÓN DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO A LOS PROCEDIMIENTOS DE SU COMPETENCIA, PUBLICADO EN EL D.O.F. DE 14 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO 8/89, DEL TRIBUNAL EN PLENO DEL DIA VEINTE DE SEPTIEMBRE DE MIL NOVECIENTOS OCHENTA Y NUEVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Tomo IV, Primera Parte, Julio a Diciembre de 1989, Página 409.
 
@@ -142,3 +144,37 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 CERTIFICA:
 
 Que este acuerdo número 8/89, relativo a la aprobación del Reglamento Interior de Trabajo de la Comisión Substanciadora, fue aprobado el miércoles veinte de septiembre de mil novecientos ochenta y nueve por unanimidad de veinte votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, Samuel Alba Leyva, Mariano Azuela Güitrón, Salvador Rocha Díaz, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Jorge Carpizo Mac Gregor, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez. México, Distrito Federal, a veinte de septiembre de mil novecientos ochenta y nueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL CONJUNTO DE LOS PLENOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA A LA COMISIÓN DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN, ASÍ COMO A LOS PROCEDIMIENTOS DE SU COMPETENCIA”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación, en el Sistema Integral del Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal de la Suprema Corte y del Consejo en Intranet e Internet.
+
+TERCERO. Se instruye a la Dirección General de Innovación, Planeación y Desarrollo Institucional del Consejo para que presente las adecuaciones a las estructuras orgánicas y documentos administrativos de la Comisión, el Instituto Federal de Defensoría Pública y la Dirección General de Asuntos Jurídicos.
+
+CUARTO. Se instruye a la Secretaría General de Acuerdos de la Suprema Corte y la Secretaría Ejecutiva del Pleno del Consejo, para que consulten, respectivamente, a las instancias encargadas de designar a las y los representantes que conformarán la Comisión, para que hagan una nueva designación o, de ser el caso, ratifiquen a quienes actualmente integran la Comisión Substanciadora Única del Poder Judicial de la Federación, para cumplir, a partir del dieciséis de enero de dos mil veintitrés, el periodo señalado en el artículo 156 de la Ley Reglamentaria, en la Comisión.
+
+La actual integración continuará hasta en tanto se realice la designación o, en su caso, ratificación correspondiente, en términos de lo dispuesto en el párrafo que antecede.
+
+QUINTO. Los derechos laborales de las restantes personas servidoras públicas adscritas actualmente a la Comisión Substanciadora Única del Poder Judicial de la Federación, serán respetados. La implementación administrativa de este Acuerdo General no implicará, en ninguna circunstancia, la afectación a estos derechos.
+
+SEXTO. Los juicios y diversos procedimientos que se encuentren en trámite en la Comisión Substanciadora Única del Poder Judicial de la Federación, con anterioridad a la entrada en vigor de este Acuerdo General, se resolverán con base en la normativa vigente a la fecha en que iniciaron.
+
+Los juicios cuya demanda se presente a partir de la entrada en vigor de este Acuerdo General se sustanciarán conforme a las disposiciones establecidas en el presente instrumento normativo.
+
+SÉPTIMO. Se instruye a las direcciones generales de Estrategia y Transformación Digital, de Tecnologías de la Información, con apoyo de Gestión Judicial, del Consejo, dentro del plazo de seis meses, a partir de la entrada en vigor del presente Acuerdo General, para que presenten, a conocimiento del Comité de Gobernanza, la propuesta del sistema de gestión de los conflictos laborales a cargo de la Comisión.
+
+OCTAVO. El Instituto Federal de Defensoría Pública contará con un periodo de tres meses, a partir de la entrada en vigor de este Acuerdo General, para la conformación del área correspondiente a los Asesores Jurídicos que intervendrán en los procedimientos de conflictos laborales entre la Suprema Corte o el Consejo y sus personas servidoras públicas que se sustancien en la Comisión.
+
+NOVENO. La Secretaría Ejecutiva de Administración del Consejo, a través de las áreas competentes, llevará a cabo las acciones necesarias para la implementación de este Acuerdo General.
+
+DÉCIMO. Se abroga el Reglamento de Trabajo de la Comisión Substanciadora del Poder Judicial de la Federación, contenido en el Acuerdo 8/89, del Pleno de la Suprema Corte, emitido el veinte de septiembre de mil novecientos ochenta y nueve, publicado en la página 409 del Semanario Judicial de la Federación, tomo IV, Julio-Diciembre 1989, Primera Parte, Pleno y Salas.
+
+DÉCIMO PRIMERO. Se derogan las disposiciones normativas contrarias al presente Acuerdo General.
+
+DÉCIMO SEGUNDO. Se instruye a las Direcciones Generales de Asuntos Jurídicos de la Suprema Corte y del Consejo para proponer, dentro de los tres meses siguientes, contados a partir de la entrada en vigor de este Acuerdo General, la modificación de la normativa institucional, a fin de armonizarla con el presente instrumento normativo.
