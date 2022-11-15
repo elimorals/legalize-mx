@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2019-09-26"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -593,13 +593,19 @@ XV. Centro de Justicia para la Mujer;
 
 XVI. Las Agencias del Ministerio Público, Coordinaciones de la Policía Ministerial, los Servicios Periciales y demás unidades administrativas que se establezcan en el Reglamento de la presente Ley; y
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XIX.]</small>
+
 XVII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Una Agencia del Ministerio Público adscrita a la Comisión de los Derechos Humanos del Estado de Guerrero, para conocer e investigar de delitos que se cometan en la violación a los Derechos Humanos que se presuma cometan servidores públicos locales; y
 
 > <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XVII.]</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XVIII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
+XIX. Las demás que establezca el Reglamento y otras disposiciones aplicables;
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -1762,3 +1768,13 @@ SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 243 POR EL QUE SE REFORMA LA FRACCIÓN XVIII Y RECORRIÉNDOSE LA QUE ERA XVIII PARA PASAR A SER LA FRACCIÓN XIX DEL ARTÍCULO 24 DE LA LEY ORGANICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
