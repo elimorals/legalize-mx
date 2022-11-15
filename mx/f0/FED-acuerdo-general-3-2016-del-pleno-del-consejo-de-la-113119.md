@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2016-del-pleno-del-consejo-de-la-113119"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2021-03-26"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113119&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 3/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -87,7 +87,9 @@ VI. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusa
 
 VII. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
 
-VIII. Pleno: Pleno del Consejo; y
+> <small>(REFORMADA POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Tribunal de Alzada: Tribunales Colegiados de Apelación en Materia Penal del Primer Circuito.
 
 IX. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
 
@@ -219,9 +221,7 @@ I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
 
 II. De no ser posible la sustitución en los términos previstos en la fracción anterior, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
-> <small>(REFORMADO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
-
-Tratándose de la sustitución del Tribunal de Alzada de los Centros, se habilita a los dos Tribunales Unitarios en Materia Penal del Primer Circuito, con residencia en la Ciudad de México, que funcionan en cada reclusorio para conocer, con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramitan en los Centros, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO [N. DE E. PENÚLTIMO PÁRRAFO] POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
@@ -231,7 +231,9 @@ La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distri
 
 El personal de los Centros junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en cada Centro.
 
-El personal de los Tribunales de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
+> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+El personal de la Administración de los Centros disfrutará de los periodos vacacionales en términos del párrafo anterior. Las personas Administradoras deberán tomar las medidas necesarias para que haya servidoras y servidores públicos de guardia en el Centro durante dicho periodo vacacional, a fin de que este no detenga su actividad.
 
 La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
@@ -876,3 +878,31 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 15 DE NOVIEMBRE DE 2022.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Del 9 al 14 de noviembre de 2022, los Tribunales Unitarios de Circuito que concluyen funciones enviarán a la Dirección General de Gestión Judicial la relación de los asuntos de su índice, con el objeto de que la haga del conocimiento del personal que vaya a integrar la Oficina de Correspondencia Común y, una vez que inicie funciones, los distribuya de forma equitativa entre los dos Tribunales Colegiados de Apelación.
+
+II. Para la distribución de los asuntos en trámite, la Oficina de Correspondencia común, con apoyo de la Dirección General de Gestión Judicial, deberá considerar la complejidad de los asuntos establecida por los propios Tribunales Unitarios de Circuito que se extinguen, para lo cual éstos atenderán de manera enunciativa al número de personas imputadas en cada causa penal, el número de delitos involucrados en la causa, el tipo de delitos de que se trate, el número de recursos que se han presentado, el número de tomos que integren el expediente o las características en general de la apelación o amparo.
+
+Se cuidará que los expedientes relacionados materia de la distribución se repartan a un mismo Tribunal Colegiado de Apelación, de conformidad con lo previsto en los artículos 45 y 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+III. La Presidenta o Presidente de cada uno de los Tribunales Colegiados de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+IV. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días 16 al 25 de noviembre de 2022, serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+V. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+VI. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Servicios Generales; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los Tribunales Colegiados de Apelación del Primer Circuito que inician funciones.
+
+SEXTO. Las referencias hechas en otros ordenamientos a los Tribunales Unitarios en Materia Penal del Primer Circuito se entenderán realizadas a los Tribunales Colegiados de Apelación a que se refiere este Acuerdo.
