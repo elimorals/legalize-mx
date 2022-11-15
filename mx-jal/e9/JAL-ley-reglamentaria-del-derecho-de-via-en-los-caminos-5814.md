@@ -4,7 +4,7 @@ identifier: "JAL-ley-reglamentaria-del-derecho-de-via-en-los-caminos-5814"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-27"
-last_updated: "1984-12-27"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY REGLAMENTARIA DEL DERECHO DE VIA EN LOS CAMINOS PUBLICOS DE JURISDICCION ESTATAL
 
-LEY REGLAMENTARIA DEL DERECHO DE VIA EN LOS CAMINOS PUBLICOS DE JURISDICCION ESTATAL
+LEY REGLAMENTARIA DEL DERECHO DE VÍA EN LOS CAMINOS PÚBLICOS DE JURISDICCIÓN ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 27 de diciembre de 1984.
 
@@ -63,25 +63,33 @@ III. Los terrenos que sean necesarios para el derecho de vía y para el establec
 
 En los libramientos, la amplitud del derecho de vía del camino no podrá ser inferior a 30.00 m, a cada lado del eje del camino.
 
-###### Art. 5.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-° La Junta Local de Caminos, será la dependencia oficial competente para resolver, debidamente justificada y motivada, cualquiera cuestión relativa a la modificación de la amplitud del derecho de vía, señalado en el artículo anterior.
+###### Art. 5°.
 
-###### Art. 6.
+La Secretaría de Infraestructura y Obra Pública, en adelante la Secretaría, será la dependencia oficial competente para resolver, debidamente justificada y motivada, cualquiera (sic) cuestión relativa a la modificación de la amplitud del derecho de vía, señalado en el artículo anterior.
 
-° Son caminos vecinales o rurales, para los efectos de esta Ley, las vías terrestres de comunicación en el interior del Estado, que no tengan las características de caminos nacionales o locales y la amplitud del derecho de vía podrá ser inferior a la prevista para los caminos o carreteras locales, a juicio de la Junta Local de Caminos, la que, para señalarla, deberá tomar en consideración la importancia demográfica y económica de la zona; la existencia de proyectos de caminos o carreteras que incidan en el área; la densidad del tránsito, y las necesidades técnicas de esa vía de comunicación terrestre.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Art. 6°.
+
+Son caminos vecinales o rurales, para los efectos de esta Ley, las vías terrestres de comunicación en el interior del Estado, que no tengan las características de caminos nacionales o locales y la amplitud del derecho de vía podrá ser inferior a la prevista para los caminos o carreteras locales, a juicio de la Secretaría, la que, para señalarla, deberá tomar en consideración la importancia demográfica y económica de la zona; la existencia de proyectos de caminos o carreteras que incidan en el área; la densidad del tránsito, y las necesidades técnicas de esa vía de comunicación terrestre.
 
 ###### Art. 7.
 
 ° En la adquisición de terrenos por cualquier título, destinados a la construcción de caminos públicos de jurisdicción estatal, siempre se incluirán las superficies destinadas a la creación de la zona del derecho de vía.
 
-###### Art. 8.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-° Sólo podrán ejecutarse trabajos de construcción ajenos al camino, dentro del derecho de vía fijado para el camino local o vecinal, previa aprobación de la Junta Local de Caminos a los proyectos y demás documentos relacionados con las obras que se traten de realizar; todos los gastos que se originen con motivo de la revisión de los citados documentos y por la supervisión de la obra, serán por cuenta del dueño de la misma.
+###### Art. 8°.
 
-###### Art. 9.
+Sólo podrán ejecutarse trabajos de construcción ajenos al camino, dentro del derecho de vía fijado para el camino local o vecinal, previa aprobación de la Secretaría a los proyectos y demás documentos relacionados con las obras que se traten de realizar; todos los gastos que se originen con motivo de la revisión de los citados documentos y por la supervisión de la obra, será por cuenta del dueño de la misma.
 
-° También se requerirá aprobación expresa de la Junta Local de Caminos, para la ejecución de trabajos de construcción relacionados con cruzamientos de otras vías de distinta naturaleza con los caminos locales o vecinales.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Art. 9°.
+
+También se requerirá aprobación expresa de la Secretaría, para la ejecución de trabajos de construcción relacionados con cruzamientos de otras vías de distinta naturaleza con los caminos locales o vecinales.
 
 ###### Art. 10.
 
@@ -120,3 +128,11 @@ Lic. Enrique Alvarez del Castillo
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Eugenio Ruiz Orozco
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28839/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULO (SIC) 5, 6, 8 Y 9 DE LA LEY REGLAMENTARIA DEL DERECHO DE VÍA EN LOS CAMINOS PÚBLICOS DE JURISDICCIÓN ESTATAL”.]
+
+ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
