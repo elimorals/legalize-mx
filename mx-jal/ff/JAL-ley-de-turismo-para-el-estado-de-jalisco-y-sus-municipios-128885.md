@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-para-el-estado-de-jalisco-y-sus-municipios-12888
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-05"
-last_updated: "2021-07-29"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección VI al Número 46 del Periódico Oficial del Estado de Jalisco, el martes 5 de junio de 2018.
 
@@ -53,7 +53,9 @@ La aplicación e interpretación en el ámbito administrativo de esta ley corres
 
 El Estado de Jalisco y sus municipios se sujetarán a las bases generales de coordinación de las facultades concurrentes entre éstos y el Ejecutivo Federal, así como a las de la participación del sector público y privado, contenidas en la Ley General de Turismo.
 
-La Ley General de Turismo será supletoria de esta ley.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+La Ley General de Turismo es de observancia y aplicación obligatoria en el Estado de Jalisco.
 
 ###### Artículo 2°.
 
@@ -896,3 +898,9 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28427/LXII/21 QUE ADICIONA LOS ARTÍCULOS 39 Y 56 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO, 49 DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, 10 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO, 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 20 DE LA LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 19 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 31 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO, 152 DE LA LEY DEL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO Y 55 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28836/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 1 DE LA LEY DE TURISMO PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
