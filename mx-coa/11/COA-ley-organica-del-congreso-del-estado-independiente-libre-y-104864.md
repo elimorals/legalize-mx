@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2022-07-08"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -415,11 +415,15 @@ La separación del cargo consiste en la pérdida de la condición de Diputado, e
 
 La imposición de las sanciones previstas en las Fracciones I, II y III del artículo 28 de la presente Ley, será facultad de quien presida la Mesa Directiva en turno; la sanción prevista en la fracción IV del citado artículo será facultad del Pleno, por iniciativa de la o el Presidente, o a moción de cualquiera de las o los Diputados, cuando se den los supuestos enunciados por la presente Ley.
 
-La sanción prevista en la Fracción III, del artículo 28 será aplicada por ministerio de ley, por la Secretaría General en los casos de inasistencia injustificada de las o los Diputados en términos del artículo 24, fracción I de la presente Ley.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+La sanción prevista en la Fracción III, del artículo 28 será aplicada por ministerio de ley, por la Tesorería del Congreso en los casos de inasistencia injustificada de las o los Diputados en términos del artículo 24, fracción I de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 31.
 
-Quien presida la Mesa Directiva dará cuenta de la sanción impuesta, al Pleno del Congreso del Estado o a la Diputación Permanente en su caso, y solicitará a la Comisión de Gobierno, la verificación del cumplimiento de la misma.
+Quien presida la Mesa Directiva dará cuenta de la sanción impuesta, al Pleno del Congreso del Estado o a la Diputación Permanente en su caso, y solicitará a la Junta de Gobierno la verificación del cumplimiento de la misma.
 
 Todas las cantidades que sean disminuidas de las dietas y demás prestaciones y apoyos de las y los Diputados, serán cedidas al Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza, o alguna otra institución similar, a criterio de la Legislatura.
 
@@ -3826,6 +3830,16 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 8 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 256.- SE REFORMA EL ARTÍCULO 11 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 295.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al momento de su aprobación.
 
