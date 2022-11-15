@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2022-08-26"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -2285,6 +2285,10 @@ d) El Presidente de la Comisión de Desarrollo Sustentable y Medio Ambiente del 
 
 e) El Presidente de la Comisión de Desarrollo Urbano, Obra Pública y Vivienda del Congreso del Estado;
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+e bis) La Presidencia de la Comisión de Derechos Indígenas y Afromexicanos del Congreso del Estado de Michoacán de Ocampo;
+
 f) El Secretario de Medio Ambiente, Cambio Climático y Desarrollo Territorial del Estado;
 
 g) El Secretario de Educación del Estado;
@@ -2942,3 +2946,17 @@ PRIMERO. La Secretaría del Medio Ambiente del Poder Ejecutivo del Estado, deber
 SEGUNDO. El Consejo Estatal de Ecología deberá adecuar su Reglamento para el proceso de emisión de normas ambientales, dentro de los treinta días naturales posteriores a la publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 204 POR EL QUE "SE ADICIONA EL INCISO E) BIS A LA FRACCIÓN III DEL ARTÍCULO 193 DE LA LEY PARA LA CONSERVACIÓN Y LA SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El Artículo Primero del presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Todos los asuntos turnados a la actual Comisión de Pueblos Indígenas, con anterioridad a la vigencia del presente Decreto, se entenderán remitidos a la ahora Comisión de Derechos Indígenas y Afromexicanos.
+
+Tercero. El Artículo Segundo del presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Cuarto. Notifíquese el presente Decreto al Consejo Estatal de Ecología del Estado de Michoacán, para su debido conocimiento.
+
+Quinto. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
