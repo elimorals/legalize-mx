@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2022-09-30"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -189,35 +189,49 @@ XXIX. Gestión integral de riesgos: El conjunto de acciones encaminadas a la ide
 
 XXX. Infraestructura: Los sistemas y redes de organización y distribución de bienes y servicios en los centros de población incluyendo aquellas relativas a las telecomunicaciones y radiodifusión;
 
-XXXI. Licencia de funcionamiento: Documento oficial expedido por la autoridad municipal por el que se faculta al solicitante, la apertura y operación de un establecimiento comercial, industrial y de servicios, con base en esta Leyy (sic) demás disposiciones jurídicas aplicables;
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XXXII. Licencia de uso o destino de Suelo: El documento oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, mediante el cual se autoriza un uso o destino del suelo específico, o aprovechamiento de reservas, conforme al plan o programa de desarrollo urbano vigente, identificando sus normas técnicas complementarias y en su caso, las demás condicionantes urbanísticas aplicables;
+XXXI. Instituto Municipal de planeación Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, creado y operado en los municipios con un rango de población igual o mayor a cien mil habitantes, cuyo objetivo es contribuir a la planeación, ordenamiento territorial y desarrollo urbano del municipio;
 
-XXXIII. Límites de centro de población: Polígono que comprende las áreas constituidas por las zonas urbanizadas y las que se reserven a la expansión del centro de población conforme a los planes y esquemas de planeación simplificada de desarrollo urbano vigentes;
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XXXIV. Mejoramiento: La acción tendiente a reordenar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente;
+XXXII. Instituto Multimunicipal de Planeación: Organismo público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propios, creado, operado de manera conjunta por municipios asociados, los cuales estén situados en un rango de población menor a cien mil habitantes, cuyo objetivo es contribuir a la planeación, ordenamiento territorial y desarrollo urbano de los municipios asociados;
 
-XXXV. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XXXVI. Ordenamiento territorial de los asentamientos humanos: Proceso de distribución espacial de la población, en función del aprovechamiento racional de los recursos naturales, de la infraestructura y el equipamiento existentes, con el fin de lograr la mayor rentabilidad social, económica y ambiental de las inversiones públicas y privadas que favorezcan las actividades productivas, culturales o recreativas;
+XXXIII. Instituto Metropolitano de Planeación: Organismo público descentralizado de la administración pública estatal y municipal con personalidad jurídica y patrimonio propio, creado y operado de manera coordinada por las entidades federativas y los municipios que conforman una determinada zona metropolitana, cuyo objetivo es contribuir a la planeación y ordenamiento territorial de la zona metropolitana correspondiente.
 
-XXXVII. Parcelación: La partición de un predio fuera de los límites de un centro de población en dos o más lotes y que no requiere del trazo de una o más vías públicas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XXXVIII. Patrimonio Natural y Cultural: Sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
+XXXIV. Licencia de funcionamiento: Documento oficial expedido por la autoridad municipal por el que se faculta al solicitante, la apertura y operación de un establecimiento comercial, industrial y de servicios, con base en esta Ley y demás disposiciones jurídicas aplicables;
 
-XXXIX. Planeación: El proceso participativo para la toma de decisiones orientadas a ordenar y desarrollar las actividades socio-económicas en el territorio;
+XXXV. Licencia de uso o destino de Suelo: El documento oficial expedido por la autoridad municipal, a solicitud de una persona física o moral, mediante el cual se autoriza un uso o destino del suelo específico, o aprovechamiento de reservas, conforme al plan o programa de desarrollo urbano vigente, identificando sus normas técnicas complementarias y en su caso, las demás condicionantes urbanísticas aplicables;
 
-XL. Polígonos de desarrollo y construcción prioritarios: Son aquellos declarados por el Estado por conducto de la Secretaría en acuerdo con los municipios para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, bajo el esquema de sistemas de actuación pública o privada, mediante la relotificación y relocalización de usos de suelo y destinos, así como para un adecuado reparto de cargas y beneficios resultantes ajustándose a las determinaciones de los planes y programas de desarrollo urbano y desarrollo metropolitano aplicables;
+XXXVI. Límites de centro de población: Polígono que comprende las áreas constituidas por las zonas urbanizadas y las que se reserven a la expansión del centro de población conforme a los planes y esquemas de planeación simplificada de desarrollo urbano vigentes;
 
-XLI. Polígonos de protección, amortiguamiento y salvaguarda: Son aquellas áreas restringidas contiguas a zonas habitacionales y a las identificadas con actividades riesgosas, y en general aquellas que por su importancia tengan como finalidad la protección y seguridad de la población, sus bienes y al ambiente;
+XXXVII. Mejoramiento: La acción tendiente a reordenar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente;
 
-XLII. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+XXXVIII. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
 
-XLIII. Reducción de riesgos de desastres: Los esfuerzos sistemáticos dirigidos al análisis y a la gestión de los factores causales de los desastres, lo que incluye la reducción del grado de exposición a las amenazas, la disminución de la vulnerabilidad de la población y la propiedad, y una gestión sensata de los suelos y del medio ambiente;
+XXXIX. Ordenamiento territorial de los asentamientos humanos: Proceso de distribución espacial de la población, en función del aprovechamiento racional de los recursos naturales, de la infraestructura y el equipamiento existentes, con el fin de lograr la mayor rentabilidad social, económica y ambiental de las inversiones públicas y privadas que favorezcan las actividades productivas, culturales o recreativas;
 
-XLIV. Registro público: El Registro Público del Estado de Coahuila de Zaragoza;
+XL. Parcelación: La partición de un predio fuera de los límites de un centro de población en dos o más lotes y que no requiere del trazo de una o más vías públicas;
 
-XLV. Regularización territorial: La acción integrada de las autoridades tendiente a:
+XLI. Patrimonio Natural y Cultural: Sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
+
+XLII. Planeación: El proceso participativo para la toma de decisiones orientadas a ordenar y desarrollar las actividades socio-económicas en el territorio;
+
+XLIII. Polígonos de desarrollo y construcción prioritarios: Son aquellos declarados por el Estado por conducto de la Secretaría en acuerdo con los municipios para el desarrollo o aprovechamiento prioritario o estratégico de inmuebles, bajo el esquema de sistemas de actuación pública o privada, mediante la relotificación y relocalización de usos de suelo y destinos, así como para un adecuado reparto de cargas y beneficios resultantes ajustándose a las determinaciones de los planes y programas de desarrollo urbano y desarrollo metropolitano aplicables;
+
+XLIV. Polígonos de protección, amortiguamiento y salvaguarda: Son aquellas áreas restringidas contiguas a zonas habitacionales y a las identificadas con actividades riesgosas, y en general aquellas que por su importancia tengan como finalidad la protección y seguridad de la población, sus bienes y al ambiente;
+
+XLV. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+
+XLVI. Reducción de riesgos de desastres: Los esfuerzos sistemáticos dirigidos al análisis y a la gestión de los factores causales de los desastres, lo que incluye la reducción del grado de exposición a las amenazas, la disminución de la vulnerabilidad de la población y la propiedad, y una gestión sensata de los suelos y del medio ambiente;
+
+XLVII. Registro público: El Registro Público del Estado de Coahuila de Zaragoza;
+
+XLVIII. Regularización territorial: La acción integrada de las autoridades tendiente a:
 
 a) Otorgar las autorizaciones urbanísticas para un asentamiento humano, si ello procede, sin perjuicio de la responsabilidad penal, civil y administrativa de los responsables;
 
@@ -225,39 +239,39 @@ b) Promover y resolver la legitimación de la posesión y la propiedad de la tie
 
 c) La obtención y regularización de escrituras públicas o títulos de propiedad a favor de posesionarios legítimos, ubicados en asentamientos regulares.
 
-XLVI. Reservas: Áreas de un centro de población que serán utilizadas para su consolidación o crecimiento de acuerdo a los planes y programas de desarrollo urbano;
+XLIX. Reservas: Áreas de un centro de población que serán utilizadas para su consolidación o crecimiento de acuerdo a los planes y programas de desarrollo urbano;
 
-XLVII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+L. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2018)</small>
 
-XLVIII. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+LI. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
 
-XLIX. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
+LII. Servicios urbanos: Las actividades operativas públicas prestadas directamente por la autoridad competente o concesionadas para satisfacer necesidades colectivas en los centros de población;
 
-L. Sistema estatal territorial: Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
+LIII. Sistema estatal territorial: Delimita las regiones y Sistemas Urbano Rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
 
-LI. Sistemas urbano rurales: Unidades espaciales básicas del ordenamiento territorial, que agrupan áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
+LIV. Sistemas urbano rurales: Unidades espaciales básicas del ordenamiento territorial, que agrupan áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
 
-LII. Subdivisión: La partición de un terreno dentro de un centro de población que no requiera del trazo de una o más vías públicas en los términos de esta Ley y demás disposiciones aplicables;
+LV. Subdivisión: La partición de un terreno dentro de un centro de población que no requiera del trazo de una o más vías públicas en los términos de esta Ley y demás disposiciones aplicables;
 
-LIII. Suelo estratégico: Áreas o predios que determinen los planes y programas de desarrollo urbano, cuyo uso y aprovechamiento, en tiempo y condición, se consideren indispensables o decisivos para el mejor efecto de la fundación, mejoramiento, consolidación o crecimiento de los centros de población;
+LVI. Suelo estratégico: Áreas o predios que determinen los planes y programas de desarrollo urbano, cuyo uso y aprovechamiento, en tiempo y condición, se consideren indispensables o decisivos para el mejor efecto de la fundación, mejoramiento, consolidación o crecimiento de los centros de población;
 
-LIV. Unidad administrativa municipal: La dirección de desarrollo urbano o su equivalente;
+LVII. Unidad administrativa municipal: La dirección de desarrollo urbano o su equivalente;
 
-LV. Usos del suelo: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población o asentamiento humano;
+LVIII. Usos del suelo: Los fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población o asentamiento humano;
 
-LVI. Verificación de congruencia de los planes y programas de desarrollo urbano: Es el estudio y resolución expedida por la Secretaría donde se establecen los elementos y condiciones para asegurar la congruencia de los planes y programas municipales del desarrollo urbano con el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como de zonas metropolitanas y conurbadas vigentes;
+LIX. Verificación de congruencia de los planes y programas de desarrollo urbano: Es el estudio y resolución expedida por la Secretaría donde se establecen los elementos y condiciones para asegurar la congruencia de los planes y programas municipales del desarrollo urbano con el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, así como de zonas metropolitanas y conurbadas vigentes;
 
-LVII. Zona de riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antropogénicos;
+LX. Zona de riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antropogénicos;
 
-LVIII. Zona metropolitana: Centros de Población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal o nacional;
+LXI. Zona metropolitana: Centros de Población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal o nacional;
 
-LIX. Zonificación: La determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de crecimiento, conservación, mejoramiento y consolidación;
+LXII. Zonificación: La determinación de las áreas que integran y delimitan un territorio; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de crecimiento, conservación, mejoramiento y consolidación;
 
-LX. Zonificación primaria: La determinación de las áreas que integran y delimitan un centro de población, comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las área (sic) naturales protegidas, así como la red de vialidades primarias;
+LXIII. Zonificación primaria: La determinación de las áreas que integran y delimitan un centro de población, comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las área (sic) naturales protegidas, así como la red de vialidades primarias;
 
-LXI. Zonificación secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos y condicionados en un espacio edificable y no edificable, así como sus compatibilidades; los coeficientes de uso y ocupación de suelo; las densidades y otras normas técnicas complementarias, tales como alturas máximas y alineamientos.
+LXIV. Zonificación secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos y condicionados en un espacio edificable y no edificable, así como sus compatibilidades; los coeficientes de uso y ocupación de suelo; las densidades y otras normas técnicas complementarias, tales como alturas máximas y alineamientos.
 
 ###### Artículo 5.
 
@@ -395,7 +409,13 @@ X. Proponer al Congreso del Estado la fundación de centros de población;
 
 XI. Promover la participación social en las materias a que se refiere este ordenamiento;
 
-XII. Las demás que le señale esta Leyy (sic) otras disposiciones jurídicas.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XII. Impulsar y promover la creación de los institutos municipales, multimunicipales y metropolitanos de planeación, así mismo, establecer y participar en las instancias de coordinación metropolitana en los términos de esta Ley;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Las demás que le señale esta Ley y otras disposiciones jurídicas.
 
 ###### Artículo 11.
 
@@ -439,7 +459,9 @@ XVIII. Promover, apoyar y realizar investigaciones científicas y tecnológicas 
 
 XIX. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo urbano, regional y metropolitano en coordinación con los gobiernos federal y municipales y la participación de los sectores social y privado;
 
-XX. Promover la creación y funcionamiento de institutos de planeación, observatorios, consejos participativos y otras estructuras institucionales y ciudadanas que se requieran, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XX. Impulsar y promover la creación y funcionamiento de institutos municipales, multimunicipales y metropolitanos de planeación, observatorios ciudadanos, así como proponer la creación de consejos participativos y otras estructuras institucionales y ciudadanas, en los términos de esta Ley;
 
 XXI. Proponer criterios y acciones para la regulación y mejoramiento de los asentamientos humanos, en coordinación con los ayuntamientos y en su caso, con la federación;
 
@@ -453,7 +475,9 @@ XXV. Establecer y administrar el Registro Estatal de Planes y Programas de Desar
 
 XXVI. Llevar el registro de directores responsables y corresponsables de obras, en sus diferentes especialidades, que ejerzan en el Estado;
 
-XXVII. Promover la capacitación en materia de ordenamiento territorial, desarrollo urbano, urbanización y edificación en el Estado;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXVII. Fomentar el desarrollo de estudios e investigaciones, así como promover la capacitación y asistencia técnica en materia de planeación, ordenamiento territorial, Desarrollo Urbano y Desarrollo Metropolitano en el Estado;
 
 XXVIII. Verificar la congruencia y vinculación que deberán observar entre sí los distintos planes y programas de desarrollo urbano, emitiendo las resoluciones, fundadas y motivadas, que correspondan;
 
@@ -481,7 +505,9 @@ VII. Ejercer su derecho de asociación con otros municipios para la formulación
 
 VIII. Proponer la fundación de centros de población;
 
-IX. Participar en la planeación y regulación de las zonas metropolitanas y áreas conurbadas, en los términos de esta Ley y de la legislación federal;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IX. Impulsar y promover la conformación de institutos metropolitanos de planeación junto con los municipios que conforman una zona metropolitana determinada, así como participar en la planeación y regulación de las zonas metropolitanas y conurbaciones, en los términos de esta Ley y de la legislación federal;
 
 X. Participar en las instancias y convenios de coordinación metropolitana a que se refiere esta Ley;
 
@@ -527,9 +553,13 @@ XXVII. Resolver sobre los recursos administrativos que conforme a su competencia
 
 XXVIII. Crear estrategias de acción y atención respecto predios y áreas no edificadas, semi edificadas, no utilizadas, no ocupados o en aparente abandono que por su calidad de no funcionalidad, propician un clima negativo y de peligro en la comunidad donde se encuentre ubicado;
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXIX. Impulsar y promover un instituto municipal de planeación, cuando se encuentre en un rango de población de cien mil habitantes hacia arriba.
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE FEBRERO DE 2021)</small>
 
-XXIX. Las demás que les señale esta Ley y otras disposiciones aplicables.
+XXX. Las demás que les señale esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -711,7 +741,9 @@ I. Emitir recomendaciones sobre las obras de infraestructura y equipamiento urba
 
 II. Opinar en aquellos asuntos que se presenten a su consideración, cuando entre la Secretaría y los ayuntamientos exista diferencia de criterio o de interpretación;
 
-III. Proponer a la persona Titular del Ejecutivo la integración de comités, consejos especiales o de los grupos técnicos de asesoramiento y apoyo que consideren necesarios, que tendrán las facultades que se establezcan en su acta de instalación, reglamento interior y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. Impulsar y promover la creación de institutos municipales, multimunicipales y metropolitanos de planeación, observatorios ciudadanos, así como promover la de los consejos participativos y otras estructuras institucionales y ciudadanas;
 
 IV. Promover la capacitación técnica sobre ordenamiento territorial y desarrollo urbano;
 
@@ -719,7 +751,11 @@ V. Analizar las proposiciones que le formule la comunidad respecto de materias o
 
 VI. Promover la difusión entre la comunidad de temas e información relativos al ordenamiento territorial y desarrollo urbano del Estado;
 
-VII. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VII. Apoyar a las autoridades de las entidades federativas y municipales que lo soliciten, en el asesoramiento y capacitación sobre la creación, implementación, operación, organización, solicitud y generación de ingresos de los institutos, ya sean municipales, multimunicipales, y metropolitanos de planeación".
+
+VIII. Las demás que le señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 #### SECCIÓN TERCERA. DE LOS CONSEJOS MUNICIPALES DE DESARROLLO URBANO
 
@@ -2569,7 +2605,9 @@ Solo por excepción podrá autorizarse el acceso controlado en fraccionamientos 
 
 I. Siempre deberán respetar la continuidad de las vialidades de la estructura urbana del centro de población, conforme a los planes y programas de desarrollo urbano;
 
-II. No podrán impedir el libre paso de personas y vehículos;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. No podrán impedir el libre paso de personas y vehículos, y deberán facilitar en todo momento el acceso a las autoridades administrativas y judiciales de la Federación, estado y municipio, así como a las de seguridad pública.
 
 III. Disponer con un proyecto de soluciones viales de accesos y salidas autorizado por el municipio;
 
@@ -4302,3 +4340,11 @@ P.O. 30 DE SEPTIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 284.- SE REFORMAN LAS FRACCIONES XX Y XXVII DEL ARTÍCULO 11, LA FRACCIÓN IX DEL ARTÍCULO 12, LA FRACCIÓN III DEL ARTÍCULO 26, Y LA FRACCIÓN II DEL ARTÍCULO 179; Y SE ADICIONAN LAS FRACCIONES XXXI, XXXII Y XXXIII, RECORRIÉNDOSE LAS ULTERIORES, AL ARTÍCULO 4, LA FRACCIÓN XII, RECORRIÉNDOSE LA ULTERIOR, AL ARTÍCULO 10, LA FRACCIÓN XXIX, RECORRIÉNDOSE LA ULTERIOR, AL ARTÍCULO 12, Y SE ADICIONA LA FRACCIÓN VII, RECORRIENDO LA ULTERIOR AL ARTÍCULO 26 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA.”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
