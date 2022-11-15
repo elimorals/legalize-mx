@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2022-08-31"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -624,6 +624,10 @@ El Poder Ejecutivo del Estado a través de la Secretaría de Desarrollo Económi
 ###### Artículo 48.
 
 Las personas con discapacidad tienen derecho a la accesibilidad universal y a la vivienda, por lo que en las instalaciones públicas o privadas, para poder permitir el libre desplazamiento en condiciones de igualdad, dignidad y seguridad se deberán observar las normas, lineamientos y reglamentos que garanticen su accesibilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Para asegurar la accesibilidad en la infraestructura básica, equipamiento o entorno urbano en los espacios públicos y privados al uso público, se atenderán los principios del diseño universal y se incluirán ajustes razonables como el del escalón universal.
 
 Las dependencias y entidades competentes de la Administración Pública Estatal y Municipal, vigilarán el cumplimiento de las disposiciones legales que en materia de accesibilidad, desarrollo urbano y vivienda se establezcan.
 
@@ -1228,3 +1232,9 @@ P.O. 31 DE AGOSTO DE 2022.
 Artículo Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. El presente Decreto entrará en vigor a los noventa días de su publicación, mientras tanto el Gobierno del Estado, asignará los recursos necesarios, para cumplir lo estipulado en el mismo.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 205 POR EL QUE “SE ADICIONA UN PÁRRAFO SEGUNDO Y SE RECORREN EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 48, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
