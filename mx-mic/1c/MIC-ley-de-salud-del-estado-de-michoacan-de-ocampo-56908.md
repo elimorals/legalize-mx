@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2021-07-22"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -70,6 +70,10 @@ III. Apiario: El establecimiento donde se realizan las actividades de cría, exp
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
 IV. Asociación epidemiológica: Situación en que dos o más casos comparten características epidemiológicas de tiempo, lugar y persona;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV bis. Atención Integrada para los Adultos Mayores (ICOPE): Metodología para evaluar y optimizar la capacidad intrínseca y la capacidad funcional de los adultos mayores. Entendiendo por capacidad intrínseca, la combinación de todas las capacidades físicas y mentales con las que cuenta una persona, incluidas las psicológicas; y, por capacidad funcional, la combinación e interacción de la capacidad intrínseca con el entorno donde habita la persona. La implementación de esta metodología conlleva la aplicación del Manual ICOPE: Guía sobre la evaluación y los esquemas de atención centrados en la persona en la atención primaria de salud, de la Organización Mundial de la Salud;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
@@ -208,6 +212,10 @@ IX. El desarrollo de la enseñanza y la investigación científica y tecnológic
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 El Sistema Estatal de Salud debe garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Asimismo, el Sistema Estatal de Salud y la Secretaría en el ejercicio de sus atribuciones de organización, operación, supervisión y evaluación, en toda atención que se brinde a los adultos mayores, deberán garantizar la implementación de la Atención Integrada para los Adultos Mayores conforme a los lineamientos del Manual ICOPE de la Organización Mundial de la Salud.
 
 ###### ARTÍCULO 4°.
 
@@ -2724,3 +2732,9 @@ PRIMERO. La presente Reforma de Ley entrará en vigor al día siguiente de su pu
 SEGUNDO. El Titular del Poder Ejecutivo tendrá un plazo de sesenta días naturales para las modificaciones al Reglamento de la presente Ley.
 
 TERCERO. La Secretaría de Salud en el Estado, deberá de garantizar la prestación del servicio de salud mental en los centros de salud locales de primer nivel en el Estado, lo cual deberá realizar de forma progresiva, debiendo contemplar el recurso necesario en la Ley de Ingresos y Presupuesto de Egresos para el ejercicio fiscal 2022 y los sucesivos ejercicios fiscales, para la infraestructura y personal necesario.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 210 QUE "ADICIONA LA FRACCIÓN IV BIS AL ARTPICULO 2° Y UN PÁRRAFO TERCERO AL ARTÍCULO 3°, AMBOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo. Notifíquese al Titular del Poder Ejecutivo del Estado, para su publicación y efectos legales.
