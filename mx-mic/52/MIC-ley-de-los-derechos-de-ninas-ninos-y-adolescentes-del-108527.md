@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2021-05-04"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -683,9 +683,9 @@ XVI. Establecer medidas tendientes a la prevención, atención, combate y rehabi
 
 XVII. Establecer medidas tendientes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XVIII. Establecer las medidas tendientes a prevenir embarazos de las niñas y las adolescentes; y,
+XVIII. Establecer programas, políticas públicas, tendientes a prevenir, informar, orientar y atender el embarazo de las niñas y las adolescentes; y,
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -1537,6 +1537,10 @@ XII. Detectar y canalizar los posibles casos de violencia y acoso sexual en cont
 
 XIII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 73 bis. Los programas de Protección de Niñas, Niños y Adolescentes del Estado de Michoacán; y de Protección de Niñas, Niños y Adolescentes de cada Municipio, a que se refiere esta Ley, deberán establecer las políticas públicas tendientes a prevenir los embarazos en adolescentes, con pleno respeto a sus derechos humanos.
+
 ### CAPÍTULO XXVI. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE MICHOACÁN
 
 ###### Artículo 74.
@@ -2152,3 +2156,9 @@ P.O. 4 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 525.- SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA VIII DEL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 202 POR EL QUE “SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 33 Y SE ADICIONA EL ARTÍCULO 73 BIS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
