@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2017-del-pleno-del-consejo-de-la-121361"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-05-15"
-last_updated: "2022-03-14"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-05-08"
 
 ACUERDO GENERAL 3/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO NACIONAL DE JUSTICIA ESPECIALIZADO EN CONTROL DE TÉCNICAS DE INVESTIGACIÓN, ARRAIGO E INTERVENCIÓN DE COMUNICACIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el lunes 15 de mayo de 2017.
 
@@ -73,7 +73,9 @@ II. Consejo: Consejo de la Judicatura Federal;
 
 III. Jueces de control: Jueces de Distrito adscritos al Centro, en su caso, habilitados como jueces de Distrito Especializados en el sistema penal acusatorio;
 
-IV. Juzgadores: Jueces de Control y Tribunal Unitario de Circuito del Centro; y
+> <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV. Juzgadoras y Juzgadores: Juezas y Jueces de Control y Tribunales Colegiados de Apelación del Centro; y
 
 V. Pleno: Pleno del Consejo.
 
@@ -87,7 +89,9 @@ El Centro iniciará funciones a partir de las veinte horas del dieciséis de may
 
 El Centro agrupa a diez Jueces de control, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
 
-Los Tribunales Unitarios en Materia Penal del Primer Circuito se habilitan, en su caso, como tribunales de alzada para conocer de todos los asuntos y procedimientos que se tramiten en el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+Los Tribunales Colegiados de Apelación en Materia Penal del Primer Circuito son órganos que, en su carácter de tribunal de alzada, conocerán todos los asuntos y procedimientos que se tramiten en el Centro.
 
 > <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
@@ -171,7 +175,7 @@ En caso de sustitución de un Juez de control, éste deberá ser suplido de acue
 
 ###### Artículo 9.
 
-Tratándose de la sustitución del Tribunal Unitario de Circuito del Centro, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, para conocer y tramitar conforme al turno correspondiente, de los asuntos que se conozcan y tramiten en el Centro, conforme a las disposiciones aplicables.
+(DEROGADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 20/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)</small>
 
@@ -281,9 +285,11 @@ Para todos los efectos legales a que haya lugar, la notificación realizada por 
 
 En caso de que un juez, que conozca de un procedimiento penal, requiera copia certificada de una resolución que conceda o niegue una solicitud que se encuentre relacionada con esa causa penal, el juez de Control que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
 
+> <small>(REFORMADO POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 21.
 
-Con el objeto de que el Tribunal Unitario de Circuito correspondiente cuente con la información suficiente para substanciar los recursos que se interpongan, el Juez deberá remitirle conforme a la legislación aplicable, el expediente a que alude el último párrafo del artículo 18 de este Acuerdo, así como en formato electrónico, todas las constancias que por ese medio haya presentado la autoridad ministerial.
+Con el objeto de que el Tribunal Colegiado de Apelación correspondiente cuente con la información suficiente para substanciar los recursos que se interpongan, la Jueza o el Juez deberá remitirle conforme a la legislación aplicable, el expediente a que alude el último párrafo del artículo 18 de este Acuerdo, así como en formato electrónico, todas las constancias que por ese medio haya presentado la autoridad ministerial.
 
 ### CAPÍTULO QUINTO. DEL ACCESO AL SISTEMA ELECTRÓNICO
 
@@ -820,3 +826,33 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN PRIMERO Y SEGUNDO EN MATERIA PENAL DEL PRIMER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Del 9 al 14 de noviembre de 2022, los Tribunales Unitarios de Circuito que concluyen funciones enviarán a la Dirección General de Gestión Judicial la relación de los asuntos de su índice, con el objeto de que la haga del conocimiento del personal que vaya a integrar la Oficina de Correspondencia Común y, una vez que inicie funciones, los distribuya de forma equitativa entre los dos Tribunales Colegiados de Apelación.
+
+II. Para la distribución de los asuntos en trámite, la Oficina de Correspondencia común, con apoyo de la Dirección General de Gestión Judicial, deberá considerar la complejidad de los asuntos establecida por los propios Tribunales Unitarios de Circuito que se extinguen, para lo cual éstos atenderán de manera enunciativa al número de personas imputadas en cada causa penal, el número de delitos involucrados en la causa, el tipo de delitos de que se trate, el número de recursos que se han presentado, el número de tomos que integren el expediente o las características en general de la apelación o amparo.
+
+Se cuidará que los expedientes relacionados materia de la distribución se repartan a un mismo Tribunal Colegiado de Apelación, de conformidad con lo previsto en los artículos 45 y 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+III. La Presidenta o Presidente de cada uno de los Tribunales Colegiados de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+IV. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días 16 al 25 de noviembre de 2022, serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+V. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+VI. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Servicios Generales; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los Tribunales Colegiados de Apelación del Primer Circuito que inician funciones.
+
+SEXTO. Las referencias hechas en otros ordenamientos a los Tribunales Unitarios en Materia Penal del Primer Circuito se entenderán realizadas a los Tribunales Colegiados de Apelación a que se refiere este Acuerdo.
