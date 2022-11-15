@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2019-del-pleno-del-consejo-de-la-139465"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-12-10"
-last_updated: "2022-10-31"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139465&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,15 +21,17 @@ issue_date: "2019-11-29"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR A PARTIR DEL 1 DE FEBRERO DE 2020, CON EXCEPCIÓN DEL ARTÍCULO CUARTO TRANSITORIO QUE SERÁ VIGENTE A PARTIR DE LA APROBACIÓN DE ESTE INSTRUMENTO.]</small>
 
-ACUERDO GENERAL 28/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE EN LA CIUDAD DE MÉXICO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
+ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN EN MATERIA PENAL DEL PRIMER CIRCUITO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 10 de diciembre de 2019.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-ACUERDO GENERAL 28/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE EN LA CIUDAD DE MÉXICO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN EN MATERIA PENAL DEL PRIMER CIRCUITO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
 CONSIDERANDO
 
@@ -53,49 +55,51 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-A partir de la entrada en vigor del presente acuerdo, concluye funciones la Oficina de Correspondencia Común de los juzgados de Distrito de Procesos Penales Federales y la de los Tribunales Unitarios en Materia Penal del Primer Circuito, con residencia en la Ciudad de México, e inician funciones como:
+A partir de la entrada en vigor del presente acuerdo, concluye funciones la Oficina de Correspondencia Común de los juzgados de Distrito de Procesos Penales Federales con residencia en la Ciudad de México e inician funciones como:
 
-a) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Norte;
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2022)</small>
+a) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales, con sede en el Reclusorio Norte y domicilio en Jaime Nunó número 175, colonia Chalma de Guadalupe (Cuautepec Barrio Bajo), código postal 07210, alcaldía Gustavo A. Madero; y
 
-b) Oficina de Correspondencia Común de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Sur; y
+b) (DEROGADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)
 
-c) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y de los Tribunales Unitarios en Materia Penal del Primer Circuito, con sede en el Reclusorio Oriente.
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+c) Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales, con sede en el Reclusorio Oriente y domicilio en Avenida Reforma número 80, colonia Lomas de San Lorenzo Tezonco, código postal 09780, alcaldía Iztapalapa.
+
+> <small>(ADICIONADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+Dichas oficinas operarán conforme a lo establecido por el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
 ###### Artículo 2.
 
-Los domicilios de las Oficinas de Correspondencia Común para los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México y los Tribunales Unitarios en Materia Penal del Primer Circuito, será el siguiente (sic):
-
-Reclusorio Norte. Jaime Nunó, número 175, colonia Chalma de Guadalupe (Cuautepec Barrio Bajo), código postal 07210, Alcaldía Gustavo A. Madero.
-
-Reclusorio Sur. Avenida Antonio Martínez de Castro esquina calle Javier Piña Palacios, colonia San Mateo Xalpa, código postal 16800, Alcaldía Xochimilco.
-
-Reclusorio Oriente. Avenida Reforma, número 80, colonia Lomas de San Lorenzo Tezonco, código postal 09780, Alcaldía Iztapalapa.
-
-Dichas oficinas operarán conforme a lo establecido por el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+(DEROGADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 3.
 
 La distribución de los nuevos asuntos competencia de los Juzgados de Distrito de Procesos Penales Federales que se presenten en las Oficinas de Correspondencia Común que les prestan servicio, se realizará a través del sistema computarizado que se utiliza para esos efectos, entre los órganos jurisdiccionales a los que prestarán servicio respectivamente, en los términos establecidos en el artículo 32 del “Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales”.
 
-El registro y turno de los asuntos competencia de los Tribunales Unitarios en Materia Penal del Primer Circuito, se realizará de acuerdo con los lineamientos que establezca la Dirección General de Gestión Judicial.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
 Las oficinas de que se trata conocerán en exclusiva de los asuntos provenientes del Centro de Justicia Penal Federal y de los Juzgados de Distrito de Procesos Penales Federales con sede en el Reclusorio en donde tienen su sede.
 
-Para el caso de los asuntos provenientes del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones y de los Juzgados de Ejecución de Penas; el turno será aleatorio entre los 6 Tribunales Unitarios en Materia Penal del Primer Circuito, regla que también se observará tratándose de comunicaciones oficiales.
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
-Respecto de los juicios de amparo indirecto conocerá el Tribunal Unitario con sede en el mismo Reclusorio en el que se encuentre el Juzgado de Distrito que corresponda.
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
-Los Tribunales Unitarios en Materia Penal del Primer Circuito por acuerdo de sus titulares, establecerán una guardia quincenal con la finalidad de recibir en días y horas inhábiles asuntos urgentes provenientes del Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones y de los Juzgados de Ejecución de Penas.
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
-Adicionalmente, entre los dos Tribunales Unitarios que funcionan en cada uno de los reclusorios, establecerán una guardia para la recepción de asuntos urgentes provenientes de los órganos jurisdiccionales en donde se encuentran ubicados.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 4.
 
-La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de las citadas oficinas y trasladarán la información relativa a los antecedentes de asuntos de procesos penales federales registrados en su oportunidad en las Oficinas de Correspondencia Común que concluyen funciones, a las ahora denominadas Oficinas de Correspondencia Común para los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México y los Tribunales Unitarios en Materia Penal del Primer Circuito.
+La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de las citadas oficinas y trasladarán la información relativa a los antecedentes de asuntos de procesos penales federales registrados en su oportunidad en las Oficinas de Correspondencia Común que concluyen funciones, a las ahora denominadas Oficinas de Correspondencia Común para los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México.
 
 Lo anterior, para efecto de la aplicación automatizada de la forma relacionada de turno de asuntos, entre los órganos jurisdiccionales con competencia en esa materia.
 
@@ -172,3 +176,33 @@ TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos ó
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
+
+D.O.F. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS TRIBUNALES COLEGIADOS DE APELACIÓN PRIMERO Y SEGUNDO EN MATERIA PENAL DEL PRIMER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Del 9 al 14 de noviembre de 2022, los Tribunales Unitarios de Circuito que concluyen funciones enviarán a la Dirección General de Gestión Judicial la relación de los asuntos de su índice, con el objeto de que la haga del conocimiento del personal que vaya a integrar la Oficina de Correspondencia Común y, una vez que inicie funciones, los distribuya de forma equitativa entre los dos Tribunales Colegiados de Apelación.
+
+II. Para la distribución de los asuntos en trámite, la Oficina de Correspondencia común, con apoyo de la Dirección General de Gestión Judicial, deberá considerar la complejidad de los asuntos establecida por los propios Tribunales Unitarios de Circuito que se extinguen, para lo cual éstos atenderán de manera enunciativa al número de personas imputadas en cada causa penal, el número de delitos involucrados en la causa, el tipo de delitos de que se trate, el número de recursos que se han presentado, el número de tomos que integren el expediente o las características en general de la apelación o amparo.
+
+Se cuidará que los expedientes relacionados materia de la distribución se repartan a un mismo Tribunal Colegiado de Apelación, de conformidad con lo previsto en los artículos 45 y 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
+
+III. La Presidenta o Presidente de cada uno de los Tribunales Colegiados de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+IV. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días 16 al 25 de noviembre de 2022, serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+V. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+VI. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones de los Tribunales Colegiados de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección General de Servicios Generales; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los Tribunales Colegiados de Apelación del Primer Circuito que inician funciones.
+
+SEXTO. Las referencias hechas en otros ordenamientos a los Tribunales Unitarios en Materia Penal del Primer Circuito se entenderán realizadas a los Tribunales Colegiados de Apelación a que se refiere este Acuerdo.
