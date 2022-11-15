@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2022-11-12"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -707,9 +707,11 @@ Los días de vacaciones se cobrarán de sueldo íntegro, y la base para el cálc
 
 Se cubrirá la cantidad equivalente a un 25% sobre el total de los días correspondientes a vacaciones, por concepto de prima vacacional anual. Dicha prima vacacional, se deberá cubrir en forma proporcional al personal que tenga menos de un año de antigüedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 42.
 
-Cuando los servidores públicos tengan que desempeñar comisión de representación del Estado o de elección popular incompatible con su trabajo, la Entidad Pública les concederá el permiso o licencia necesaria sin goce de sueldo y sin perder sus derechos escalafonarios y de antigüedad, por todo el lapso que el interesado esté en el desempeño correspondiente de dicho encargo.
+Cuando los servidores públicos, con nombramiento de base o definitivo, tengan que desempeñar comisión de representación del Estado, sean designados por el Congreso del Estado o por pleno de (sic) Ayuntamiento, ambos de conformidad a su facultad soberana, o por encargo de elección popular y la función sea incompatible con su trabajo, la Entidad Pública les concederá el permiso o licencia necesaria sin goce de sueldo, sin perder sus derechos escalafonarios y de antigüedad, por todo el lapso que el interesado esté en el desempeño correspondiente de dicho encargo.
 
 La Entidad Pública, previo el estudio del caso, podrá conceder permiso o licencia a sus servidores públicos hasta por 60 días por cada año calendario, siempre que el solicitante tuviere, por lo menos un año de antigüedad en el servicio.
 
@@ -3236,3 +3238,9 @@ QUINTO. Los Centros Integrales de Atención y los Módulos Comunitarios de Atenc
 SEXTO. El Gobierno del Estado en coordinación con los municipios asignarán los recursos necesarios en su presupuesto de egresos respectivos, para implementar un Módulo Comunitario de Atención a personas usuarias del servicio, que deberán instrumentarse paulatinamente conforme a la disponibilidad presupuestal y la demanda de servicios de atención en materia de salud mental.
 
 SÉPTIMO. La Secretaría de Educación, conforme a la suficiencia presupuestal asignada, instrumentará las acciones establecidas en la presente Ley.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28835/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 42 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
