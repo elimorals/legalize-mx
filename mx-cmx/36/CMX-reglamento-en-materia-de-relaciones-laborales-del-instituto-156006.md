@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-instituto-156
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-02-28"
-last_updated: "2022-02-28"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156006&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-02-23"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE LA CIUDAD DE MÉXICO: 15 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 18 de febrero de 2022.
 
@@ -38,7 +38,7 @@ REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUD
 
 ###### Artículo 1.
 
-El presente Reglamento es de observancia general y obligatoria en las relaciones laborales entre el Instituto Electoral y su personal, y tiene por objeto reglamentar las bases normativas de los Capítulos XI y XII , del Título Segundo, del Libro Segundo del Código de Instituciones y Procedimientos Electorales de la Ciudad de México, sin perjuicio de las normas establecidas en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa y demás normativa aplicable.
+El presente Reglamento es de observancia general y obligatoria en las relaciones laborales entre el Instituto Electoral y su personal, y tiene por objeto reglamentar las bases normativas de los Capítulos XI y XII, del Título Segundo, del Libro Segundo del Código de Instituciones y Procedimientos Electorales de la Ciudad de México, sin perjuicio de las normas establecidas en el Estatuto del Servicio Profesional Electoral Nacional y del Personal de la Rama Administrativa y demás normativa aplicable.
 
 La interpretación y aplicación de las disposiciones de este Reglamento se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política de la Ciudad de México y en los Tratados e Instrumentos Internacionales favoreciendo en todo tiempo a las personas con la protección más amplia.
 
@@ -62,7 +62,11 @@ IV. Ley de Responsabilidades: Ley de Responsabilidades Administrativas de la Ciu
 
 V. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-VI. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VI. Ley de Acceso: Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México;
 
 VII. Estatuto: El Estatuto del Servicio Profesional Electoral Nacional y del personal de la Rama Administrativa;
 
@@ -84,33 +88,83 @@ B) En cuanto a los órganos y autoridades:
 
 I. Congreso Local: Congreso de la Ciudad de México;
 
-II. Centro: Unidad Técnica del Centro de Formación y Desarrollo del Instituto Electoral de la Ciudad de México;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-III. Consejo General: Consejo General del Instituto Electoral;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-IV. Persona Consejera presidente: La persona que preside el Instituto Electoral, el Consejo General y la Junta;
+II. Consejo General: Consejo General del Instituto Electoral;
 
-V. Personas Consejeras Electorales: Las Consejeras y los Consejeros Electorales del Consejo General del Instituto Electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-VI. Contraloría: Contraloría Interna del Instituto Electoral;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-VII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
+III. Persona Consejera presidente: La persona que preside el Instituto Electoral, el Consejo General y la Junta;
 
-VIII. Instituto Nacional: Instituto Nacional Electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-IX. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-X. Junta: Junta Administrativa del Instituto Electoral;
+IV. Personas Consejeras Electorales: Las Consejeras y los Consejeros Electorales del Consejo General del Instituto Electoral;
 
-XI. Unidad de Género: Unidad Técnica de Género y Derechos Humanos del Instituto Electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XII. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XIII. Secretaria Administrativa o Secretario Administrativo: Titular de la Secretaría Administrativa del Instituto Electoral;
+V. Contraloría: Contraloría Interna del Instituto Electoral;
 
-XIV. Secretaria Ejecutiva o Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Electoral, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XV. Tribunal: El Tribunal Electoral de la Ciudad de México.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VI. Instituto Electoral: Instituto Electoral de la Ciudad de México;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VII. Instituto Nacional: Instituto Nacional Electoral;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VIII. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IX. Junta: Junta Administrativa del Instituto Electoral;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+X. DEGDHECyCC: Dirección Ejecutiva de Género, Derechos Humanos, Educación Cívica y Construcción Ciudadana;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XI. Unidad Jurídica: Unidad Técnica de Asuntos Jurídicos del Instituto Electoral;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XII. Secretaria Administrativa o Secretario Administrativo: Titular de la Secretaría Administrativa del Instituto Electoral;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Secretaria Ejecutiva o Secretario Ejecutivo: Titular de la Secretaría Ejecutiva del Instituto Electoral, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Tribunal: El Tribunal Electoral de la Ciudad de México.
 
 C) En cuanto a los conceptos:
 
@@ -136,7 +190,11 @@ IX. Comisión: Cambio temporal de adscripción de una trabajadora o trabajador d
 
 X. Comisión de Seguimiento: Comisión Permanente de Seguimiento al Servicio Profesional Electoral Nacional;
 
-XI. Comité de Seguimiento: Comité para el Seguimiento de Casos de Violencia Laboral, Hostigamiento y/o Acoso Sexual de este Instituto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XI. Comité de Seguimiento: Comité para el Seguimiento de Casos de Violencia Laboral, Hostigamiento y/o Acoso Sexual en el Instituto Electoral;
 
 XII. Competencia: Conjunto de actitudes, aptitudes, conocimientos, motivación y valores que permiten un desempeño eficaz, eficiente y pertinente para la resolución de un problema, el cumplimiento de una obligación o la consecución de un objetivo;
 
@@ -160,13 +218,21 @@ XIX. Igualdad de género. Principio que reconoce que las necesidades y caracter�
 
 XX. Malos tratos: Aquellos actos consistentes en insultos, burlas, humillaciones y/o ridiculizaciones a la persona trabajadora, realizados de manera continua y persistente, más de una vez y/o en diferentes ocasiones;
 
-XXI. Medidas de protección: Actos de urgente aplicación en función del interés superior de la persona agraviada, las cuales son fundamentalmente precautorias y se deberán otorgar inmediatamente por la autoridad competente que conozca de hechos probablemente constitutivos de una conducta;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Medidas de protección: Actos de urgente aplicación en función del interés superior de la persona agraviada, las cuales son fundamentalmente precautorias y se deberán otorgar inmediatamente por la autoridad competente que conozca de hechos probablemente constitutivos de una conducta infractora por violencia laboral, hostigamiento o acoso sexual o laboral;
 
 XXII. Miembro del Servicio: Es la persona que, en el Instituto Electoral, haya obtenido su nombramiento en una plaza presupuestal y preste sus servicios de manera exclusiva en un cargo o puesto del Servicio Profesional Electoral Nacional, en los términos del Estatuto;
 
 XXIII. Modelo pedagógico: Conjunto de principios de orden pedagógico-didáctico que traducen las intenciones formativas del Instituto Electoral, según su filosofía, valores, misión y visión, desde el cual se rigen las propuestas de formación y la capacitación en general, con base en una metodología y que contiene una trama curricular;
 
-XIV (SIC) . Modelo de evaluación del desempeño: Es aquel que explica y fundamenta la metodología para la valoración del desempeño;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Modelo de evaluación del desempeño: Es aquel que explica y fundamenta la metodología para la valoración del desempeño;
 
 XXV. Nivel: Grado de desarrollo que el Personal de la Rama Administrativa obtiene en cada categoría;
 
@@ -178,15 +244,31 @@ XXVIII. Personal de estructura: Personal del Servicio Profesional Electoral Naci
 
 XXIX. Personal del Servicio: Personal del Servicio Profesional Electoral Nacional;
 
-XXX. Personal de la Rama Administrativa: Titular de la Secretaría Ejecutiva, Secretaría Administrativa, Titulares de Órganos Ejecutivos, Técnicos y con autonomía de gestión, así como las personas servidoras públicas del Instituto Electoral que no formen parte del Servicio Profesional Electoral Nacional ni se consideren como eventuales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XXXI. Personal Eventual: Personas contratadas por el Instituto Electoral que, sin formar parte de la estructura del mismo, prestan un servicio al mismo por honorarios y por un tiempo o trabajo determinado;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XXXII. Personal Especializado: Personal del Instituto capacitado y registrado ante la Unidad Técnica de Género y Derechos Humanos para la asistencia, atención y orientación de casos de Violencia Laboral, Hostigamiento, Acoso Laboral y Sexual; así como en materia de derechos humanos;
+XXX. Personal de la Rama Administrativa: Titular de la Secretaria Ejecutiva, Secretaria Administrativa, Titulares de Órganos Ejecutivos, Técnicos y con autonomía de gestión, así como las personas servidoras públicas del Instituto Electoral que no formen parte del Servicio Profesional Electoral Nacional ni se consideren como eventuales;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXXI. Personal Eventual: Personas contratadas por el Instituto Electoral que, sin formar parte de la estructura organizacional del mismo, prestan un servicio al mismo por honorarios y por un tiempo o trabajo determinado;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXXII. Personal Especializado: Personal del Instituto capacitado y registrado ante la DEGDHECyCC para la asistencia, atención y orientación de casos de Violencia Laboral, Hostigamiento, Acoso Laboral y Sexual; así como en materia de derechos humanos;
 
 XXXIII. Plaza: Es la posición que respalda un puesto en la estructura ocupacional o plantilla que puede ser ocupada solo por una persona a la que se asigna una adscripción determinada;
 
-XXXIV. Prescripción: Es la extinción de la facultad de las autoridades competentes del Instituto para iniciar, determinar la responsabilidad y ejecutar las sanciones en el Procedimiento Laboral Sancionador, al fenecer el plazo previsto en el artículo 309 del Estatuto;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXXIV. Prescripción: Es la extinción de la facultad de las autoridades competentes del Instituto Electoral para iniciar, determinar la responsabilidad y ejecutar las sanciones en el Procedimiento Laboral Sancionador, al fenecer el plazo previsto en el artículo 309 del Estatuto;
 
 XXXV. Principios rectores de la función electoral: Son los principios de certeza, legalidad, independencia, inclusión, imparcialidad, máxima publicidad, transparencia, rendición de cuentas y objetividad;
 
@@ -220,9 +302,13 @@ XLIX. Violencia Laboral: Aquella que se ejerce por las personas que tienen un v�
 
 L. VLHALS: Violencia Laboral, Hostigamiento, Acoso Laboral y Sexual.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-La aplicación del presente Reglamento corresponde, en el ámbito de sus respectivas competencias, al Consejo General, la Junta Administrativa, la Secretaría Ejecutiva, la Secretaría Administrativa, la Unidad Jurídica y el Centro, en los términos del mismo ordenamiento, el Reglamento Interior y demás normativa aplicable.
+La aplicación del presente Reglamento corresponde, en el ámbito de sus respectivas competencias, al Consejo General, la Junta, la Secretaría Ejecutiva, la Secretaría Administrativa y la Unidad Jurídica, en los términos del mismo ordenamiento, el Reglamento Interior y demás normativa aplicable.
 
 ###### Artículo 4.
 
@@ -238,25 +324,45 @@ De igual forma, la instrumentación de los procedimientos establecidos en el pre
 
 El personal del Instituto Electoral se integra por:
 
-I. El Personal del Servicio Profesional Electoral Nacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-II. El Personal de la Rama Administrativa, y
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-III. El Personal Eventual.
+I. El Personal del Servicio Profesional Electoral Nacional; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. El Personal de la Rama Administrativa.
 
 El personal de estructura será considerado de confianza y quedará sujeto al régimen establecido en la fracción XIV del Apartado "B" del artículo 123 de la Constitución.
 
 La ciudadanía que en los términos del artículo 118 del Código sean designadas como personas Consejeras Electorales de los Consejos Distritales del Instituto Electoral, no serán considerados personal del mismo, por lo que no estarán sujetos a las disposiciones del presente Reglamento.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Las personas contratadas de manera eventual no serán consideradas como personas trabajadoras y, por tanto, como destinatarias de los derechos previstos para quienes sí lo son, tomando en consideración que su relación con el Instituto Electoral es contractual para la prestación de servicios por honorarios y por un tiempo o trabajo determinado.
+
 ###### Artículo 7.
 
 El personal de estructura del Instituto Electoral estará sujeto al régimen obligatorio de seguridad social señalado en la Ley del ISSSTE, así como lo previsto en la Ley Federal de Trabajadores del Estado por lo que hace a la protección al salario y los beneficios de la seguridad social.
 
-El Personal Eventual no gozará de la protección al salario a que se refiere el artículo anterior; sin embargo, será incorporado integralmente al régimen de seguridad social previsto en la Ley del ISSSTE, siempre que sea contratado por un periodo mínimo de un año. Tratándose del Personal Eventual que desarrolle actividades de campo en los procesos electorales y en los procedimientos de participación ciudadana, el Instituto Electoral contratará para ellos un seguro de accidentes personales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+El Personal Eventual no gozará de la protección al salario a que se refiere el artículo anterior; sin embargo, cuando se contrate para prestar servicios en actividades de campo durante los procesos electorales y los procedimientos de participación ciudadana, el Instituto Electoral contratará en su favor un seguro de accidentes personales, considerando que, al no ser personal de estructura, carecerán de seguridad social.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-El personal de estructura del Instituto Electoral contará, para el desempeño de sus funciones, con nombramiento expedido por la persona titular de la Secretaría Administrativa.
+El personal de estructura del Instituto Electoral contará, para el desempeño de sus funciones, con nombramiento expedido por la persona titular de la Secretaria Administrativa.
 
 ###### Artículo 9.
 
@@ -280,9 +386,13 @@ VIII. La constancia de que el miembro del Servicio rinde la protesta de Ley, y
 
 IX. Número de empleada o empleado.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-Además del nombramiento correspondiente, al Personal del Servicio, se le expedirá un oficio de adscripción, el cual deberá contener los elementos previstos en el artículo anterior y los siguientes:
+Además del nombramiento correspondiente, al Personal del Servicio, se le expedirá un oficio de adscripción, dentro de los quince días hábiles posteriores a la recepción del documento en el que conste la incorporación, readscripción, ascenso o promoción, el cual deberá contener los elementos previstos en el artículo anterior y los siguientes:
 
 I. El área a la cual se adscribe;
 
@@ -290,9 +400,13 @@ II. La denominación del cargo o puesto que se asigna, y
 
 III. El inicio de vigencia de la adscripción.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 11.
 
-El nombramiento y oficio de adscripción del Personal de la Rama Administrativa se expedirá dentro de los quince días hábiles posteriores a la emisión del documento en el que conste la incorporación, readscripción, ascenso o promoción. El nombramiento deberá contener, al menos, los siguientes elementos:
+El nombramiento y/u oficio de adscripción del Personal de la Rama Administrativa se expedirá dentro de los quince días hábiles posteriores a la emisión del documento en el que conste la incorporación, readscripción, ascenso o promoción. El nombramiento deberá contener, al menos, los siguientes elementos:
 
 I. Nombre completo de la persona;
 
@@ -306,13 +420,21 @@ V. Categoría y nivel, según sea el caso, y
 
 VI. Cargo y puesto del superior jerárquico inmediato.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-El personal de estructura desarrollará sus actividades laborales de conformidad con el horario que para tal efecto establezca el Consejo General como jornada laboral, misma que no podrá exceder de ocho horas diarias de lunes a viernes, excepto cuando, por necesidades institucionales, de forma fundada y motivada se modifique el horario, y deberá ser compatible con la jornada laboral del Instituto Nacional.
+El personal de estructura desarrollará sus actividades laborales de conformidad con el horario que para tal efecto establezca el Consejo General como jornada laboral, misma que no podrá exceder de ocho horas diarias de lunes a viernes, excepto cuando, por necesidades institucionales, de forma fundada y motivada se modifique el horario laboral.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-En el Manual de Organización y Funcionamiento del Instituto Electoral de la Ciudad de México, el Catálogo de Cargos y Puestos del Servicio y el correspondiente al Personal de la Rama Administrativa se definirán los cargos y puestos de la estructura ocupacional del Instituto Electoral, así como sus denominaciones, adscripciones, mandos, niveles de responsabilidad y jerárquicos, perfiles profesionales y laborales, y los requisitos para su ocupación, entre otros.
+En el Manual, el Catálogo del Servicio y en el Catálogo de la Rama Administrativa se definirán los cargos y puestos de la estructura ocupacional del Instituto Electoral, así como sus denominaciones, adscripciones, mandos, niveles de responsabilidad y jerárquicos, perfiles profesionales y laborales, y los requisitos para su ocupación y categoría, entre otros.
 
 ###### Artículo 14.
 
@@ -330,9 +452,23 @@ V. Nivel jerárquico;
 
 VI. Perfil profesional;
 
-VII. Perfil laboral, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-VIII. Requisitos para su ocupación.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VII. Perfil laboral,
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Requisitos para su ocupación, y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IX. Categoría.
 
 Para la actualización de este Catálogo, las personas titulares de las áreas ejecutivas y técnicas del Instituto Electoral podrán presentar a la Secretaría Administrativa, propuestas de modificación a cargos y puestos específicos.
 
@@ -346,7 +482,11 @@ II. Tabulador del Personal de la Rama Administrativa, y
 
 III. Tabulador del Personal Eventual.
 
-Para la elaboración del anteproyecto de presupuesto de egresos del Instituto Electoral, en el mes de julio de cada año, la Secretaría Administrativa presentará a la Junta la propuesta de tabuladores que se aplicará en el siguiente ejercicio fiscal.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Previo a la elaboración del anteproyecto de presupuesto de egresos del Instituto Electoral, la Secretaría Administrativa presentará a la Junta la propuesta de tabuladores que se aplicará en el siguiente ejercicio fiscal.
 
 Una vez aprobado por el Congreso Local el presupuesto del Instituto Electoral para el ejercicio correspondiente, la Junta aprobará los tabuladores definitivos.
 
@@ -360,13 +500,25 @@ Para el desempeño de un cargo y puesto del Servicio Profesional, se deberán cu
 
 Para el desempeño de un cargo y puesto de la Rama Administrativa se deberán cumplir los siguientes requisitos:
 
-I. Ser ciudadana o ciudadano mexicano en pleno goce y ejercicio de sus derechos civiles y políticos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+I. Ser ciudadana o ciudadano con pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Estar inscrita o inscrito en el Registro Federal de Electores y contar con credencial para votar vigente o, en su caso, el comprobante del trámite correspondiente;
 
-III. Acreditar con documentación expedida por institución con reconocimiento oficial, el nivel de escolaridad que corresponda al cargo y puesto de conformidad con el Catálogo;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-IV. No haber sido registrada como candidata o candidato a cargo alguno de elección popular, o haberlo ocupado por alguna otra circunstancia en los tres años anteriores a la designación;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. Acreditar con documentación expedida por institución con reconocimiento oficial, el nivel de escolaridad que corresponda al cargo y puesto de conformidad con el Catálogo, y tratándose de personal eventual, deberá acreditar el nivel de escolaridad, de conformidad con la ficha del perfil del cargo respectivo que el área contratante establezca al respecto;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV. No haber sido registrada como candidata o candidato a cargo alguno de elección popular, ni haberlo ocupado por alguna otra circunstancia en los tres años anteriores a la designación;
 
 V. No desempeñar ni haber desempeñado cargo alguno de dirección en un Partido Político, en los tres años anteriores a la designación;
 
@@ -374,11 +526,17 @@ VI. No estar inhabilitada o inhabilitado para ocupar cargo y puesto público;
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro o ministra de algún culto religioso, de conformidad con lo dispuesto en la Ley de Asociaciones Religiosas y Culto Público,
 
-VIII. Manifestar si cuenta con alguna discapacidad o condición especial;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-IX. Llenar el formato correspondiente para designación de beneficiarios; y
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-X. Los demás que establezca el perfil del cargo y puesto, así como las convocatorias para la ocupación de plazas vacantes.
+VIII. Llenar el formato correspondiente para designación de beneficiarios; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IX. Los demás que establezca el perfil del cargo y puesto, así como las convocatorias para la ocupación de plazas vacantes, y tratándose de personal eventual, de conformidad con la ficha del perfil respectivo que el área contratante establezca como requisito para su ocupación.
 
 ###### Artículo 18.
 
@@ -398,9 +556,17 @@ II. Recibir las remuneraciones establecidas en los tabuladores institucionales, 
 
 III. Recibir, como complemento del salario, prima quinquenal por cada cinco años de servicios efectivos prestados hasta llegar a veinticinco. La Secretaría Administrativa preverá en el anteproyecto de presupuesto de la Institución los recursos necesarios para hacer efectivo este derecho, en los términos que establece la Ley Federal de Trabajadores del Estado.
 
-El personal de estructura que desee incorporar años de servicio de otras instituciones o dependencias, deberá presentar las Hojas Únicas de Servicio actualizadas;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-IV. Recibir aguinaldo en el mes de diciembre, que deberá considerarse en el presupuesto anual, equivalente, cuando menos, a cuarenta días de salario integrado bruto. Las personas trabajadoras del Instituto Electoral que no hubieren prestado sus servicios durante el ejercicio completo, recibirán la parte proporcional que les corresponda por el tiempo que prestaron sus servicios;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+El personal de estructura que desee incorporar años de servicio de otras instituciones o dependencias deberá presentar las Hojas Únicas de Servicio actualizadas;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV. Recibir aguinaldo en el mes de diciembre, que deberá considerarse en el presupuesto anual, equivalente, cuando menos, a cuarenta días de salario integrado bruto. Las personas trabajadoras del Instituto Electoral que no hubieren prestado sus servicios durante el ejercicio completo recibirán la parte proporcional que les corresponda por el tiempo que prestaron sus servicios;
 
 V. Recibir el pago de transporte, viáticos y demás gastos complementarios o adicionales, cuando se requiera atender necesidades del Instituto Electoral, conforme al mecanismo que para el efecto se establezca;
 
@@ -418,17 +584,37 @@ XI. Disfrutar de dos días de descanso a la semana;
 
 XII. Las mujeres trabajadoras embarazadas disfrutarán de licencia médica, con goce de sueldo, de un descanso de seis semanas anteriores y seis posteriores al parto y su recuperación, pudiendo transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo, tomando en cuenta la naturaleza del trabajo que desempeña en términos de lo establecido en la Ley Federal del Trabajo.
 
-Durante la jornada laboral y en el periodo de lactancia gozarán de dos horas por día durante los primeros tres meses, contados a partir del día siguiente hábil en que concluya la licencia médica; concluido el primer periodo de lactancia, disfrutarán de una hora durante los siguientes tres meses para el mismo efecto. El derecho consignado en esta fracción no podrá ser suspendido o afectado por necesidades del servicio; quien afecte de manera injustificada este derecho será sujeto de responsabilidad;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Durante la jornada laboral y en el periodo de lactancia gozarán de dos horas por día durante los primeros tres meses, contados a partir del día siguiente hábil en que concluya la licencia médica; concluido el primer periodo de lactancia, disfrutarán de una hora durante los siguientes tres meses para el mismo efecto; las mujeres o personas lactantes podrán optar por solicitar la continuidad del permiso de lactancia como alimentación complementaria en caso de que así lo requieran hasta los dos años de edad de sus hijas e hijos, de ser el caso, deberán comunicarlo en (sic) por escrito a la persona Titular de su área de adscripción, con copia de conocimiento a la Secretaría Administrativa. El derecho consignado en esta fracción no podrá ser suspendido o afectado por necesidades del servicio; quien afecte de manera injustificada este derecho será sujeto de responsabilidad;
 
 Este derecho no podrá prorrogarse por el disfrute de vacaciones de la trabajadora. Así mismo, el horario en el que la trabajadora elija disfrutar de sus horas de lactancia no suspenderá las diversas obligaciones que como trabajadora del Instituto Electoral tiene;
 
-XIII. Las personas trabajadoras con un vínculo conyugal, de concubinato o de convivencia, disfrutarán de quince días con goce de sueldo, para los cuidados inmediatos posteriores al parto de su pareja, para ello deberá presentar en la Coordinación de Recursos Humanos, la hoja de alumbramiento;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XIV. Las personas trabajadoras que tengan la calidad de madre, padre o tutor podrán ausentarse temporalmente de sus labores para la atención de asuntos escolares o médicos de sus hijas, hijos, pupilos o pupilas, situación que deberán justificar con el comprobante idóneo, sea que lo presente previa o posteriormente, en cuyo caso la persona que funja como superiora jerárquica deberán firmar la incidencia respectiva;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-XV. Las personas trabajadoras que tengan hijas, hijos o ejerzan la patria potestad sobre menores de ocho años, tendrán derecho a gozar de licencias por cuidados matemos o paternos, previa presentación de la "constancia de cuidados matemos" expedida por el ISSSTE.
+XIII. Las personas trabajadoras con un vínculo conyugal, de concubinato o de convivencia, disfrutarán de quince días hábiles con goce de sueldo, para los cuidados inmediatos posteriores al parto de su pareja, para ello deberá presentar en la Secretaría Administrativa, la hoja original de alumbramiento;
 
-Adicionalmente, previo justificante, cuando la o el menor de edad tenga hasta catorce años, el Instituto Electoral podrá otorgar permisos para faltar a sus labores, a fin de que las trabajadoras o trabajadores puedan atender cuidados matemos y paternos, en los siguientes términos:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Las personas trabajadoras que tengan la calidad de madre, padre o tutor podrán ausentarse temporalmente de sus labores para la atención de asuntos escolares o médicos de sus hijas, hijos, pupilos o pupilas, situación que deberán justificar con el comprobante idóneo, sea que lo presente previa o posteriormente, en cuyo caso la persona que funja como Titular, Directora u homóloga del área de adscripción, deberá firmar la incidencia respectiva;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XV. Las personas trabajadoras que tengan hijas, hijos o ejerzan la patria potestad sobre menores de ocho años, tendrán derecho a gozar de licencias por cuidados maternos o paternos, previa presentación de la “constancia de cuidados maternos” expedida por el ISSSTE, en cuyo caso la persona que funja como Titular, Directora u homóloga del área de adscripción, deberá firmar la incidencia respectiva;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Adicionalmente, previo justificante, cuando la o el menor de edad tenga hasta dieciséis años, la junta podrá otorgar licencias y la persona Titular, Directora u homóloga podrá otorgar permisos para faltar a sus labores, a fin de que las trabajadoras o trabajadores puedan atender cuidados maternos y paternos, en los siguientes términos:
 
 a) Con goce de sueldo, hasta doce días hábiles por año calendario; cuatro días máximo al mes, y
 
@@ -440,23 +626,49 @@ XVII. Disfrutar de tres días de descanso con salario íntegro, posteriores a qu
 
 XVIII. Cuando se trate de riesgos de trabajo, el personal del Instituto Electoral tendrá derecho a disfrutar de licencia con goce de sueldo, conforme a lo previsto en la Ley del ISSSTE;
 
-XIX. Gozar de dos periodos vacacionales al año, de diez días hábiles cada uno, los cuales se disfrutarán obligatoriamente en los periodos que a través de la respectiva circular, establezca la Secretaría Administrativa, salvo en los casos en que la persona superior jerárquica justifique debidamente los supuestos de excepción.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Gozar de dos periodos vacacionales al año, uno por semestre, de diez días hábiles cada uno, a los que tendrá derecho solamente el personal que tenga más de seis meses consecutivos de servicios en el Instituto, los cuales se disfrutarán obligatoriamente en los periodos que a través de la respectiva circular, establezca la Secretaría Administrativa, salvo en los casos en que la persona superior jerárquica justifique debidamente los supuestos de excepción.
 
 En caso de que algún trabajador o trabajadora no pudiera disfrutar de este derecho en el periodo mencionado, lo hará en los meses subsecuentes (conforme lo permita la carga de trabajo), sin que la solicitud exceda de un año posterior a la fecha en que haya desaparecido la causa que impidiere el ejercicio de ese derecho.
 
 Si la Secretaría Administrativa advierte la proximidad de vencerse el periodo de un año mencionado en el párrafo anterior, sin que al respecto haya recibido comunicación alguna, lo hará del conocimiento de la persona superior jerárquica, quien tendrá la facultad de determinar y asignar la fecha en que deba tomar vacaciones la persona servidora pública que omitió solicitarlas.
 
-En ningún caso el personal que labore en periodos vacacionales tendrá derecho a doble pago. El derecho que ampara la presente fracción, únicamente será aplicable al personal con más de seis meses consecutivos de servicios prestados al inicio del periodo correspondiente. El personal tendrá derecho al pago de la prima vacacional correspondiente a cada periodo, misma que será equivalente al treinta por ciento del salario bruto del periodo vacacional;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XX. Disponer de cinco días hábiles con goce de sueldo por fallecimiento de cónyuge; conviviente; concubina o concubinario; ascendiente o descendiente; y colateral en primer grado. Por lo que deberá presentar ante la Coordinación de Recursos Humanos copia simple del certificado de defunción al incorporarse a sus labores;
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En ningún caso el personal que labore en periodos vacacionales tendrá derecho a doble pago. El derecho que ampara la presente fracción únicamente será aplicable al personal con más de seis meses consecutivos de servicios prestados al momento en que la Secretaría Administrativa notifique por medio de circular, el periodo en el que se podrá disfrutar de días de vacaciones. El personal tendrá derecho al pago de la prima vacacional correspondiente a cada periodo, misma que será equivalente al treinta por ciento del salario bruto del periodo vacacional;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XX. Disponer de cinco días hábiles con goce de sueldo por fallecimiento de cónyuge; conviviente; concubina o concubinario; ascendiente o descendiente; y colateral en primer grado. Por lo que deberá presentar ante la Secretaría Administrativa copia simple del certificado de defunción al incorporarse a sus labores;
 
 XXI. Ser considerada o considerado para los ascensos y mecanismos de promoción;
 
 XXII. Ser evaluada o evaluado de manera imparcial, así como conocer oportunamente los resultados de las evaluaciones que presenten;
 
-XXIII. Gozar de licencias para el cuidado de personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez, en atención al derecho al cuidado; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XXIV. Los demás que establezcan las Leyes, el Estatuto, este Reglamento y demás normatividad aplicable.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Gozar de tres días hábiles de permiso al año, para el cuidado de personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez, en atención al derecho al cuidado, en cuyo caso la persona Titular, Directora y homóloga de su área de adscripción deberá firmar la incidencia respectiva; la cual se deberá presentar a la Secretaría Administrativa.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Trabajar a distancia cuando así se justifique por la naturaleza de las labores a realizarse, o bien por razones plenamente justificadas de salud, cuidados maternos o paternos, o por cuidados a personas en situación de dependencia, con previa autorización de la persona Titular, Directora y homóloga de su área de adscripción, quien deberá valorar además el rendimiento de la persona solicitante; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXV. Los demás que establezcan las Leyes, el Estatuto, este Reglamento y demás normatividad aplicable.
 
 ###### Artículo 20.
 
@@ -468,7 +680,11 @@ Son días de descanso obligatorio:
 
 I. El 1° de enero;
 
-II. El tercer viernes de enero de cada año, en conmemoración del día de las trabajadoras y trabajadores del Instituto Electoral;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. El cuarto viernes de enero de cada año, en conmemoración del día de las trabajadoras y trabajadores del Instituto Electoral;
 
 III. El primer lunes de febrero en conmemoración del 5 de febrero;
 
@@ -486,17 +702,25 @@ IX. El 25 de diciembre.
 
 Asimismo, serán días de descanso los que determinen las autoridades competentes.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-Además de los derechos establecidos en el artículo 19 del presente Reglamento, el Personal de la Rama Administrativa gozará de los siguientes derechos:
+Además de los derechos establecidos en el artículo 19 del presente Reglamento, el Personal de la Rama Administrativa gozará de las siguientes prerrogativas:
 
-I. Recibir las facilidades necesarias para participar en los programas de capacitación;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-II. Solicitar permisos para desarrollar actividades académicas o de investigación relacionadas con su función;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-III. Desempeñar labores remuneradas de docencia en instituciones de educación pública o privada que no rebasen ocho horas semanales, con la autorización de la Secretaría Administrativa previo visto bueno de la persona Titular de la Unidad Administrativa, y
+I. Solicitar permisos para desarrollar actividades académicas o de investigación relacionadas con su función; y
 
-IV. Disfrutar de licencias con o sin goce de sueldo, en los términos del capítulo respectivo.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. Desempeñar labores remuneradas de docencia en instituciones de educación pública o privada que no rebasen ocho horas semanales, con la autorización de la Secretaría Administrativa previo visto bueno de la persona Titular de la Unidad Administrativa.
 
 ###### Artículo 23.
 
@@ -570,9 +794,19 @@ c) Si el registro se efectúa después de los treinta minutos de la hora de entr
 
 d) Tratándose de contingencia que imposibilite el desarrollo de funciones presenciales en las instalaciones del Instituto Electoral y en sus Órganos Desconcentrados, el control de asistencia se sujetará a las disposiciones y mecanismos que al efecto habilite el Consejo General del Instituto Electoral.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+e) El registro o control de asistencia del personal, se podrá llevar a cabo a través de las listas de asistencia, que controlará y resguardará la persona Titular de cada área, cuando así lo determine el Instituto Electoral.
+
 La acumulación de tres retardos no autorizados en una quincena calendario, dará origen al descuento de un día de Salario.
 
-Las personas Titulares de los Órganos o Áreas del Instituto Electoral, podrán autorizar hasta dos retardos, una omisión en el registro de entrada y una en el registro de salida en el lapso de una quincena, por causas que no estén relacionadas con las funciones que desempeñe el personal del Instituto Electoral.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Las personas Titulares de los Órganos o Áreas del Instituto Electoral, podrán autorizar hasta dos retardos, una omisión en el registro de entrada y una en el registro de salida en el lapso de una quincena, o un día completo, en el lapso de un mes, por causas que no estén relacionadas con las funciones que desempeñe el personal del Instituto Electoral.
 
 Se considerarán como faltas injustificadas de asistencia al trabajo:
 
@@ -588,9 +822,17 @@ e) No registrar su salida o realizar dicho registro antes de la hora correspondi
 
 Quedan exceptuados de la obligación de registrar entrada y salida de la jornada laboral y horario de comida, los servidores públicos de mandos superiores que ocupen los siguientes cargos: Consejero/a Presidente/a, Consejero/a Electoral, Secretario/a Ejecutivo/a, Secretario/a Administrativo/a, Contralor/a, Titular de la Unidad Técnica Especializada de Fiscalización, Director/a Ejecutivo/a y Titular de Unidad.
 
-Adicionalmente, los mandos homólogos por su nivel jerárquico, que ocupen los siguientes cargos: Coordinador/a de Asesores y Secretario/a Particular; así mismo, por la naturaleza de sus funciones quedan exceptuados los servidores/as públicos/as con puesto de Subcontralor/a, Director/a de Área, Titular de Órgano Desconcentrado, Asesor/a, Asistente Ejecutivo/a y el personal adscrito a las oficinas de las y los Consejeros Electorales, así como las y los choferes y Secretarias de Unidad de los mandos referidos previamente.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-Las y los Titulares de la Secretaría Ejecutiva, Secretaría Administrativa, Contraloría, Unidad Técnica Especializada de Fiscalización, Direcciones Ejecutivas y Unidades Técnicas podrán, por causa justificada, dispensar al personal a su cargo del registro o control de asistencia referido con anterioridad, comunicando mediante oficio esta dispensa, misma que se tendrá que renovar cada 6 meses, en su caso.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Adicionalmente, los mandos homólogos por su nivel jerárquico, que ocupen los siguientes cargos: Coordinador/a de Asesores y Secretario/a Particular; así mismo, por la naturaleza de sus funciones quedan exceptuados los servidores/as públicos/as con puesto de Subcontralor/a, Director/a de Área, Titular de Órgano Desconcentrado, Asesor/a, Asistente Ejecutivo/a y el personal adscrito a las oficinas de las y los Consejeros Electorales, así como las y los choferes y Secretarias Ejecutivas de los mandos referidos previamente.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Las y los Titulares de la Secretaría Ejecutiva, Secretaría Administrativa, Contraloría, Direcciones Ejecutivas y Unidades Técnicas podrán, por causa justificada, dispensar al personal a su cargo del registro o control de asistencia referido con anterioridad, comunicando mediante oficio esta dispensa, misma que se tendrá que renovar cada 6 meses, en su caso. Cuando exista personal autorizado para realizar trabajo a distancia, ello deberá ser comunicado por la persona Titular del área de adscripción, a efecto de que esté dispensado el registro de asistencia correspondiente, mismo que tendrá que renovarse cada mes, quedando sujeto a las previsiones para su autorización, siendo posible revocarlo en cualquier momento, en atención, entre otros factores, al rendimiento de la o el trabajador de que se trate.
 
 ###### Artículo 25.
 
@@ -660,9 +902,13 @@ La responsabilidad que pueda surgir del incumplimiento a lo establecido en el Re
 
 ### CAPÍTULO IV. DE LAS LICENCIAS MÉDICAS
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-Las licencias médicas y de cuidados maternos y paternos, que se expidan al personal de estructura se regirán por las disposiciones conducentes de la Ley Federal de Trabajadores del Estado y la Ley del ISSSTE, debiendo presentarse ante la persona Titular del área de adscripción y la Secretaría Administrativa.
+Las licencias médicas y de cuidados maternos y paternos, que se expidan al personal de estructura se regirán por las disposiciones conducentes de la Ley Federal de Trabajadores del Estado y la Ley del ISSSTE, debiendo presentarse ante la persona Titular del área de adscripción, en cuyo caso deberá firmar la incidencia respectiva, adjuntando la licencia médica, la cual se deberá presentar a la Secretaría Administrativa, en un periodo no mayor a cinco días posteriores al otorgamiento de la licencia médica.
 
 ### CAPÍTULO V. DE LA SEPARACIÓN DEL PERSONAL
 
@@ -682,7 +928,11 @@ IV. Por incapacidad física, mental o inhabilidad manifiesta que haga imposible 
 
 V. Por supresión de cargos y puestos, por reforma legal o reestructura administrativa;
 
-VI. Por rescisión, destitución derivada de la sanción impuesta en un Procedimiento Laboral Sancionador, o bien, por inhabilitación en el servicio público, decretada por autoridad competente; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VI. Por rescisión, cese, destitución derivada de la sanción impuesta en un Procedimiento Laboral Sancionador, o bien, por inhabilitación en el servicio público, decretada por autoridad competente; y
 
 VII. Por fallecimiento de la persona trabajadora.
 
@@ -695,6 +945,12 @@ Además de los casos previstos en el artículo anterior, la relación laboral en
 ###### Artículo 33.
 
 El personal de estructura que cause baja deberá efectuar la entrega de los documentos, los bienes y recursos asignados a su custodia, así como rendir los informes de los asuntos que tenga bajo su responsabilidad. Para los efectos anteriores, tratándose de mandos medios y superiores, deberá elaborarse el acta administrativa de entrega-recepción correspondiente, con la intervención de la Contraloría, de acuerdo con los formatos establecidos por la misma.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+No se efectuará el pago de finiquito y liquidación por parte del Instituto, en el caso de que el personal tenga adeudo de bienes y recursos asignados a su custodia.
 
 De igual manera, la persona Titular de la Secretaría Administrativa supervisará que la trabajadora o trabajador realice las gestiones atinentes para obtener las constancias que deriven de los procedimientos administrativos correspondientes y se le proporcionará la asesoría necesaria para el cumplimiento de los trámites que formalicen la entrega, cuando así lo solicite la persona interesada.
 
@@ -718,9 +974,13 @@ Para realizar el pago de la indemnización señalada en el presente artículo, s
 
 En el supuesto de que la persona trabajadora que cause baja se abstenga o no le sea posible recibir las cantidades que le correspondan, se promoverán las diligencias de jurisdicción voluntaria ante el Tribunal, a fin de que dicho órgano se encargue de notificar y, en su caso, entregar a la trabajadora, al trabajador o al beneficiario, tales sumas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 37.
 
-El saldo de la cuenta en el fondo de ahorro, en su caso, se entregará a la persona trabajadora dada de baja, en un plazo máximo de 30 días, contados a partir de concluido el trámite de liberación de la Hoja de no adeudo, en los términos que se señalen en las disposiciones que lo regulen.
+El saldo de la cuenta en el fondo de ahorro, en su caso, se entregará a la persona trabajadora dada de baja, en un plazo máximo de 30 días hábiles, contados a partir de concluido el trámite de liberación de la Hoja de no adeudo, en los términos que se señalen en las disposiciones que lo regulen.
 
 En el caso de las y los trabajadores que cuenten con el seguro de separación individualizado, la Secretaría Administrativa emitirá el aviso de baja de la trabajadora o trabajador, para que realice ante la aseguradora los trámites correspondientes.
 
@@ -737,6 +997,10 @@ El personal de estructura podrá ser suspendido temporalmente cuando:
 I. Como consecuencia de la sanción derivada de un procedimiento de responsabilidad de servidores públicos ante la Contraloría, y
 
 II. Como consecuencia de la sanción que derive de un procedimiento laboral sancionador, seguido en los términos del Estatuto, para el Personal del Servicio; o de este Reglamento, para el Personal de la Rama Administrativa.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 40.
 
@@ -760,8 +1024,6 @@ VI. Por inhabilitación en el servicio público, decretada por autoridad compete
 
 VII. Por acciones u omisiones que constituyan incumplimientos graves o reiterados de las obligaciones o prohibiciones establecidas en la normativa aplicable.
 
-En los supuestos previstos en el presente artículo, el personal de que se trate deberá gozar de la garantía de audiencia ante la Secretaría Ejecutiva.
-
 ###### Artículo 41.
 
 Determinada la supresión o modificación de plazas por el Consejo General o la autoridad competente, derivado de una reestructuración o reorganización del Instituto Electoral, sin que haya sido factible la reubicación del personal, conforme a los criterios emitidos para tal efecto, o con motivo de las causales de separación definitiva previstas en este Reglamento, la Secretaría Ejecutiva ordenará que se notifique a la persona trabajadora el aviso de terminación de la relación laboral.
@@ -784,7 +1046,13 @@ VI. En su caso, se anexará la documentación que soporte la causa de la termina
 
 VII. La firma de la persona Titular de la Secretaría Ejecutiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 43.
+
+Cuando una persona ex trabajadora haya cobrado los montos correspondientes a la indemnización por su terminación de la relación laboral por alguna de estas vías, no podrá reincorporarse a la plantilla laboral del Instituto Electoral, sino tras haber transcurrido un periodo de al menos un año contado a partir del día siguiente a su separación, salvo que se reincorpore por concurso abierto.
 
 Corresponderá a la Unidad Jurídica realizar las notificaciones del aviso de terminación de la relación laboral.
 
@@ -868,7 +1136,7 @@ V. Vincular el cumplimiento de los fines institucionales con el desempeño de la
 
 El Personal de la Rama Administrativa, a excepción de las personas Consejeras Electorales, Titulares de las Secretarías Ejecutiva y Administrativa, Titular de la Contraloría Interna, Titulares de las Direcciones Ejecutivas y Titulares de Unidades Técnicas, estará organizado por categorías y niveles, de acuerdo con lo siguiente:
 
-El Categoría Niveles
+Categoría Niveles
 
 Personal Técnico-Operativo: Cargos y puestos
 
@@ -910,17 +1178,25 @@ a los mandos superiores del Instituto
 
 Electoral, para la toma de decisiones. 1 a 4
 
-El Catálogo determinará las categorías a las que pertenecen los distintos cargos y puestos de la Rama Administrativa, sin que entre ellas exista una relación jerárquica.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+El Catálogo de Rama Administrativa determinará las categorías a las que pertenecen los distintos cargos y puestos de la Rama Administrativa, sin que entre ellas exista una relación jerárquica.
 
 ###### Artículo 54.
 
 La persona Consejera Presidente y las personas Consejeras Electorales podrán autorizar de manera directa la incorporación de personal en sus respectivas oficinas.
 
-Las personas Titulares de las Secretarías Ejecutiva y Administrativa, la persona Titular de la Contraloría Interna, la persona Titular de la Unidad Técnica Especializada de Fiscalización, las personas Titulares de las Direcciones Ejecutivas, y las personas Titulares de Unidad podrán designar al personal que, en los términos del Manual de Organización y Funcionamiento y del Catálogo, sean de libre designación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Las personas Titulares de las Secretarías Ejecutiva y Administrativa, la persona Titular de la Contraloría, las personas Titulares de las Direcciones Ejecutivas, y las personas Titulares de Unidad podrán designar al personal que, en los términos del Manual y del Catálogo, sean de libre designación.
 
 Este personal deberá acreditar los requisitos de ingreso señalados en el artículo 17 del presente Reglamento.
 
-### CAPÍTULO III. DE LA OCUPACIÓN DE VACANTES DE LA RAMA ADM1NISTRATIVA
+### CAPÍTULO III. DE LA OCUPACIÓN DE VACANTES DE LA RAMA ADMINISTRATIVA
 
 ###### Artículo 55.
 
@@ -940,9 +1216,13 @@ La participación de las personas aspirantes en los procesos de selección e ing
 
 La operación de los mecanismos de selección e ingreso se llevará a cabo conforme a lo dispuesto en los procedimientos o lineamientos aprobados por la Junta.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 58.
 
-La Junta, previo dictamen del Centro, aprobará la designación y, en su caso, el ingreso a la Rama Administrativa de quienes hayan cumplido los requisitos para ocupar los cargos y puestos, y acreditado el examen o concurso correspondiente.
+La Junta, previo dictamen de la Secretaría Administrativa, aprobará la designación y, en su caso, el ingreso a la Rama Administrativa de quienes hayan cumplido los requisitos para ocupar los cargos y puestos, y acreditado el examen o concurso correspondiente.
 
 #### SECCIÓN PRIMERA. DEL EXAMEN DE INGRESO
 
@@ -954,9 +1234,13 @@ El examen de ingreso sólo será procedente en los casos en los que el aspirante
 
 En caso de no aprobar el examen de ingreso, se dará por terminada la ocupación temporal y el aspirante no podrá volver a ocupar la plaza durante el periodo de un año.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 60.
 
-Previo a la implementación del Examen de Ingreso como vía de ocupación definitiva de una plaza de la Rama Administrativa, la Junta, a propuesta del Centro, deberá aprobar las vacantes que serán cubiertas por esta vía, en los términos del procedimiento respectivo.
+Previo a la implementación del Examen de Ingreso como vía de ocupación definitiva de una plaza de la Rama Administrativa, la Junta, a propuesta de la Secretaría Administrativa, deberá aprobar las vacantes que serán cubiertas por esta vía, en los términos del procedimiento respectivo.
 
 #### SECCIÓN SEGUNDA. DE LOS CONCURSOS
 
@@ -988,9 +1272,13 @@ III. Cuando nadie de las y los aspirantes obtenga en alguna evaluación la calif
 
 #### SECCIÓN TERCERA. DE LAS CONVOCATORIAS
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 65.
 
-El Centro elaborará los proyectos de Convocatoria para la ocupación de las plazas vacantes a que se refieren los artículos 68 y 72 del presente ordenamiento, los cuales serán aprobados por la Junta, en el caso del concurso interno, o por el Consejo General, en el caso del concurso abierto.
+La Secretaría Administrativa elaborará los proyectos de Convocatoria para la ocupación de las plazas vacantes a que se refieren los artículos 68 y 72 del presente ordenamiento, los cuales serán aprobados por la Junta, en el caso del concurso interno, o por el Consejo General, en el caso del concurso abierto.
 
 ###### Artículo 66.
 
@@ -1068,9 +1356,13 @@ La Junta determinará, en la convocatoria correspondiente, las evaluaciones que 
 
 Las evaluaciones que se apliquen a las y los aspirantes que participen en los mecanismos de selección e ingreso estarán encaminadas a seleccionar a la persona idónea acorde al perfil, de conformidad con los requisitos establecidos en este Reglamento y la convocatoria respectiva.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 75.
 
-La Junta determinará, a propuesta del Centro, los instrumentos y las modalidades de evaluación que serán aplicados a las y los aspirantes que participen en los procesos de selección e ingreso a la Rama Administrativa.
+La Junta determinará, a propuesta de la Secretaría Administrativa, los instrumentos y las modalidades de evaluación que serán aplicados a las y los aspirantes que participen en los procesos de selección e ingreso a la Rama Administrativa.
 
 ###### Artículo 76.
 
@@ -1102,11 +1394,15 @@ a) Grado de escolaridad y área de formación profesional;
 
 b) Experiencia laboral distinta a la electoral;
 
-e) Experiencia electoral, y
+c) Experiencia electoral, y
 
 d) Participación en actividades académicas y de investigación.
 
-Para la valoración y ponderación de los aspectos que integran la presente evaluación, el Centro presentará a la Junta una propuesta metodológica para realizar la aplicación de la misma, la cual será difundida a través de los instrumentos o mecanismos que el Centro estime convenientes.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Para la valoración y ponderación de los aspectos que integran la presente evaluación, la Secretaría Administrativa presentará a la Junta una propuesta metodológica para realizar la aplicación de la misma, la cual será difundida a través de los instrumentos o mecanismos que la referida Secretaría estime convenientes.
 
 ###### Artículo 80.
 
@@ -1116,21 +1412,33 @@ La evaluación psicométrica tendrá por objeto la detección, el análisis y la
 
 El examen de conocimientos se realizará de acuerdo a las características y particularidades del cargo y puesto.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 82.
 
-La entrevista deberá realizarse conforme al calendario que proponga el Centro, considerando la valoración puesto-persona y en la aplicación de ésta, podrán participar las Consejeras Electorales, los Consejeros Electorales, la Secretaria o Secretario Ejecutivo, la Secretaria o Secretario Administrativo, las Directoras Ejecutivas o los Directores Ejecutivos, y las personas Titulares de Unidad, así como las personas funcionarias que, en su caso, designe la Junta.
+La entrevista deberá realizarse conforme al calendario que proponga la Secretaría Administrativa, considerando la valoración puesto-persona y en la aplicación de ésta, podrán participar las personas Consejeras Electorales, las personas titulares de la (sic) Secretarías Ejecutiva y Administrativa, así como las personas funcionarias que, en su caso, designe la Junta.
 
 En ningún caso, el superior jerárquico de los aspirantes internos podrá intervenir en el proceso de entrevistas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 83.
 
-Para la implementación de las evaluaciones, el Centro podrá contar con la colaboración de instituciones externas especialistas en la materia, en los términos que señale el convenio respectivo.
+Para la implementación de las evaluaciones, la Secretaría Administrativa podrá contar con la colaboración de instituciones externas especialistas en la materia, en los términos que señale el convenio respectivo.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 84.
 
-Una vez que se concluyan las etapas dispuestas en la convocatoria, el Centro elaborará el dictamen de resultados, el cual será presentado a la Junta para su aprobación.
+Una vez que se concluyan las etapas dispuestas en la convocatoria, la Secretaría Administrativa elaborará el dictamen de resultados, el cual será presentado a la Junta para su aprobación.
 
-### CAPÍTULO V. DE LA READSCRIPCIÓN DEL PERSONAL DE LA RAMA ADM1NISTRATIVA
+### CAPÍTULO V. DE LA READSCRIPCIÓN DEL PERSONAL DE LA RAMA ADMINISTRATIVA
 
 ###### Artículo 85.
 
@@ -1176,23 +1484,27 @@ b) Por la ocupación definitiva del cargo a través de los mecanismos ordinarios
 
 c) A petición de la persona Titular de la unidad administrativa correspondiente.
 
-En el caso del inciso c), la persona Titular de la unidad administrativa correspondiente, por conducto del Centro, solicitará a la Junta la conclusión anticipada de la encargaduría de despacho.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En el caso del inciso c), la persona Titular de la unidad administrativa correspondiente, por conducto (sic) la Secretaría Administrativa, solicitará a la Junta la conclusión anticipada de la encargaduría de despacho.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 89.
 
-Con el fin de evitar que los movimientos derivados de la encargaduría alteren la estructura y funcionalidad de las áreas, en el proceso de designación, se deberá observar, preferentemente, la jerarquía de los cargos, de acuerdo con el orden siguiente:
+Con el fin de evitar que los movimientos derivados de la encargaduría alteren la estructura y funcionalidad de las áreas, en el proceso de designación, se deberá observar el orden de jerarquía de los cargos.
 
-I. Dirección de Área;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-II. Subdirección de Área;
-
-III. Jefatura de Departamento, y
-
-IV. Analista.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 90.
 
-El Personal de la Rama Administrativa podrá ser comisionado temporalmente para desempeñar funciones en un área del Instituto Electoral distinta a la de su adscripción en el mismo cargo y puesto, cuando se requiera por necesidades institucionales, siempre que sea acorde con los conocimientos y con el perfil requeridos.
+El Personal de la Rama Administrativa podrá ser comisionado temporalmente para desempeñar funciones en un área del Instituto Electoral distinta a la de su adscripción en el mismo cargo y puesto, cuando se requiera por necesidades institucionales, siempre que sea acorde con los conocimientos y con el perfil requerido. Para ello, la persona trabajadora deberá manifestar por escrito su conformidad con la comisión temporal.
 
 En caso de violencia laboral, el personal de que se trate podrá solicitar ser comisionado a otra área, durante el tiempo en que se realice la investigación a que haya lugar.
 
@@ -1206,7 +1518,11 @@ b) Por la ocupación definitiva del cargo a través de los mecanismos ordinarios
 
 c) A petición de alguna o algún titular de las unidades administrativas correspondientes.
 
-En el caso del inciso c) del párrafo anterior, la persona titular de la unidad administrativa correspondiente, por conducto del Centro, solicitará a la Junta la conclusión anticipada de la comisión, quien determinará la procedencia o improcedencia de la solicitud.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En el caso del inciso c) del párrafo anterior, la persona titular de la unidad administrativa correspondiente, por conducto de la Secretaría Administrativa, solicitará a la Junta la conclusión anticipada de la comisión, quien determinará la procedencia o improcedencia de la solicitud.
 
 Sin perjuicio de lo anterior, la persona Titular de la Secretaría Ejecutiva podrá comisionar al personal de estructura por un plazo no mayor a 30 días naturales para apoyar la realización de actividades específicas en otra adscripción.
 
@@ -1234,19 +1550,35 @@ Dicho permiso no podrá exceder de ocho horas semanales, incluidos los tiempos d
 
 El otorgamiento de los permisos señalados en el artículo anterior se ajustará a lo siguiente:
 
-I. El personal interesado deberá presentar la solicitud correspondiente al Centro, cuando menos con cinco días de anticipación al inicio de la actividad de que se trate, con el visto bueno de la persona titular de la unidad administrativa;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+I. El personal interesado deberá presentar la solicitud correspondiente a la Secretaría Administrativa, cuando menos con cinco días de anticipación al inicio de la actividad de que se trate, con el visto bueno de la persona titular de la unidad administrativa;
 
 II. El otorgamiento del permiso estará sujeto a la comprobación, por parte del personal interesado, de su participación en la actividad de que se trate;
 
-III. El Centro llevará el seguimiento de los permisos solicitados y, en su caso, autorizados al personal, integrando la información pertinente al expediente de la trabajadora o trabajador;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-IV. En caso de suspensión o terminación anticipada de la actividad objeto del permiso, la trabajadora o trabajador deberá informar al Centro el periodo de suspensión o la fecha de terminación del permiso, debiendo exponer las causas que motivan dicha situación, y
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. La Secretaría Administrativa llevará el seguimiento de los permisos solicitados y, en su caso, autorizados al personal, integrando la información pertinente al expediente de la trabajadora o trabajador;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV. En caso de suspensión o terminación anticipada de la actividad objeto del permiso, la trabajadora o trabajador deberá informar a la Secretaría Administrativa el periodo de suspensión o la fecha de terminación del permiso, debiendo exponer las causas que motivan dicha situación, y
 
 V. Una vez concluido el permiso, la persona trabajadora deberá entregar, a más tardar en los quince días siguientes a la conclusión del permiso, el informe sobre la actividad realizada y el documento que acredite su realización.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 95.
 
-La licencia es la autorización que por escrito se otorga al Personal de la Rama Administrativa, podrá solicitar licencia para ausentarse temporalmente del Instituto Electoral por un periodo máximo de seis meses con o sin goce de sueldo, licencia que no podrá autorizarse para desempeñar algún cargo público fuera del Instituto Electoral.
+La licencia es la autorización que por escrito se otorga al Personal de la Rama Administrativa, para ausentarse temporalmente del Instituto Electoral por un periodo máximo de seis meses con o sin goce de sueldo, licencia que no podrá autorizarse para desempeñar algún cargo público fuera del Instituto Electoral.
 
 El número máximo de licencias que podrán autorizarse en un año calendario será de hasta el cinco por ciento del total de plazas de la Rama Administrativa.
 
@@ -1280,11 +1612,23 @@ Durante el tiempo en que una trabajadora o trabajador disfrute de licencia sin g
 
 Para el otorgamiento de las licencias previstas en los dos artículos anteriores, el trámite correspondiente deberá ajustarse a lo siguiente:
 
-I. El personal deberá presentar ante el Centro, la solicitud por escrito, cuando menos, con diez días naturales previos al inicio de la misma, de acuerdo con el formato que para tal efecto se emita y con el visto bueno de la persona Titular del área;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-II. El Centro integrará el expediente respectivo, verificará el cumplimiento de los requisitos, y si no se desprende alguna inconsistencia o no se cuente con todos los elementos para su valoración y, en su caso, autorización, se hará del conocimiento de la trabajadora o trabajador, para que, en un plazo no mayor a tres días hábiles, subsane las inconsistencias detectadas o cumpla con los requisitos faltantes;
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-III. Una vez cumplidos los requisitos, el Centro presentará la solicitud ante la persona Secretaria Administrativa, para que en un plazo de tres días hábiles emita el oficio de autorización de la licencia o, en su caso, notifique lo que corresponda, y
+I. El personal deberá presentar ante la Secretaría Administrativa, la solicitud por escrito, cuando menos, con diez días naturales previos al inicio de la misma, de acuerdo con el formato que para tal efecto se emita y con el visto bueno de la persona Titular del área;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. La Secretaría Administrativa integrará el expediente respectivo, verificará el cumplimiento de los requisitos, y si no se desprende alguna inconsistencia o no se cuente con todos los elementos para su valoración y, en su caso, autorización, se hará del conocimiento de la trabajadora o trabajador, para que, en un plazo no mayor a tres días hábiles, subsane las inconsistencias detectadas o cumpla con los requisitos faltantes;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. Una vez cumplidos los requisitos, la Secretaría Administrativa en un plazo de tres días hábiles, emitirá el oficio de autorización de la licencia o, en su caso, notificará lo que corresponda, y
 
 IV. Una vez autorizada la licencia, la trabajadora o trabajador deberá elaborar y entregar a la persona titular de la unidad administrativa o a quien ésta designe, un informe sobre los asuntos de su competencia que se encuentren en estado de trámite.
 
@@ -1320,19 +1664,27 @@ b) Haber acreditado las actividades de capacitación y las evaluaciones de desem
 
 c) No haber sido sancionado por resolución firme y falta grave, en los dos años inmediatos anteriores, en los términos del Reglamento, o en materia de responsabilidades administrativas de los servidores públicos.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 104.
 
-Una vez que se cuente con los resultados definitivos en la Evaluación del Desempeño y la acreditación de las actividades de capacitación de cada año, el Centro integrará una lista con el personal que cumpla con los requisitos señalados 9 en el artículo anterior para ascender al nivel siguiente dentro de su categoría, la cual será presentada a la Junta para su aprobación.
+Una vez que se cuente con los resultados definitivos en la Evaluación del Desempeño y la acreditación de las actividades de capacitación de cada año, la Secretaría Administrativa integrará una lista con el personal que cumpla con los requisitos señalados en el artículo anterior para ascender al nivel siguiente dentro de su categoría, la cual será presentada a la Junta para su aprobación.
 
 ###### Artículo 105.
 
 Aprobada la lista de promociones por la Junta, la Secretaría Administrativa realizará los ajustes necesarios para otorgar los beneficios económicos correspondientes y expedirá el nombramiento respectivo.
 
-### CAPÍTULO IX.. DE LA CAPACITACIÓN DEL PERSONAL DE LA RAMA ADMJNISTRATIVA
+### CAPÍTULO IX. DE LA CAPACITACIÓN DEL PERSONAL DE LA RAMA ADMINISTRATIVA
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 106.
 
-Capacitación es el conjunto de actividades que tiene como objeto fomentar el desarrollo y profesionalización del Personal de la Rama Administrativa, así como mejorar su desempeño de acuerdo con las funciones y el perfil del cargo y puesto definido en el Catálogo y el Manual.
+Capacitación es el conjunto de actividades que tiene como objeto fomentar el desarrollo y profesionalización del Personal de la Rama Administrativa, así como mejorar su desempeño de acuerdo con las funciones y el perfil del cargo y puesto definido en el Catálogo de la Rama Administrativa y el Manual.
 
 ###### Artículo 107.
 
@@ -1342,45 +1694,81 @@ a) Las actividades derivadas del plan curricular definido en el Modelo pedagógi
 
 b) Las actividades que permitan atender necesidades emergentes, vinculadas con los fines institucionales, y
 
-c) Las actividades que ofrezcan instituciones académicas o especialistas externos, vinculadas a las competencias del perfil del cargo o puesto, validadas por el Centro.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+c) Las actividades que ofrezcan instituciones académicas o especialistas externos, vinculadas a las competencias del perfil del cargo o puesto, validadas por la Secretaría Administrativa.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 108.
 
-El Centro es el responsable de diseñar, elaborar y actualizar la capacitación para el Personal de la Rama Administrativa, de acuerdo con lo establecido en el Modelo pedagógico, así como de llevar a cabo su implementación.
+La Secretaría Administrativa es el (sic) la responsable de diseñar, elaborar y actualizar la capacitación para el Personal de la Rama Administrativa, de acuerdo con lo establecido en el Modelo pedagógico, así como de llevar a cabo su implementación.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 109.
 
-Con el objeto de diseñar y actualizar la capacitación prevista en el programa institucional correspondiente, el Centro implementará un mecanismo que le permita detectar las necesidades de capacitación de los cargos y puestos del Personal de la Rama Administrativa, para lo cual podrá apoyarse en instituciones académicas o especialistas externos.
+Con el objeto de diseñar y actualizar la capacitación prevista en el programa institucional correspondiente, la Secretaría Administrativa implementará un mecanismo que le permita detectar las necesidades de capacitación de los cargos y puestos del Personal de la Rama Administrativa, para lo cual podrá apoyarse en instituciones académicas o especialistas externos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 110.
 
-Para el diseño, elaboración e impartición de contenidos, el Centro podrá solicitar la colaboración del personal del Instituto, y celebrar convenios con instituciones académicas o especialistas externos, organismos públicos y privados.
+Para el diseño, elaboración e impartición de contenidos, la Secretaría Administrativa podrá solicitar la colaboración del personal del Instituto, y celebrar convenios con instituciones académicas o especialistas externos, organismos públicos y privados.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 111.
 
-La capacitación deberá tener una duración mínima de ocho horas. No obstante, aquellas impartidas por instituciones académicas, además de las horas mínimas referidas, deberá cumplir con los requisitos que establezca el Centro para su validación.
+La capacitación deberá tener una duración mínima de ocho horas. No obstante, aquellas impartidas por instituciones académicas, además de las horas mínimas referidas, deberá cumplir con los requisitos que establezca la Secretaría Administrativa para su validación.
 
 ###### Artículo 112.
 
 La calificación mínima aprobatoria para acreditar las actividades de capacitación será de 7.00 en una escala de 0 a 10, con dos puntos decimales.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 113.
 
-El Centro se encargará de notificar a través de un oficio personalizado la calificación obtenida en la capacitación, una vez que se apruebe el dictamen correspondiente.
+La Secretaría Administrativa se encargará de notificar a través de un oficio personalizado la calificación obtenida en la capacitación, una vez que se apruebe el dictamen correspondiente.
 
-Así también, será el responsable de emitir las constancias de capacitación al Personal de la Rama Administrativa que haya acreditado las actividades correspondientes y al personal del Instituto que haya participado en la elaboración o impartición de la misma.
+Así también, será la responsable de emitir las constancias de capacitación al Personal de la Rama Administrativa que haya acreditado las actividades correspondientes y al personal del Instituto que haya participado en la elaboración o impartición de la misma.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 114.
 
-En los términos de los lineamientos que apruebe la Junta, la acreditación de la capacitación será obligatoria para el Personal de la Rama Administrativa que ocupe una plaza de manera definitiva.
+En los términos de los lineamientos que apruebe la Junta, la acreditación de la capacitación programada por la Secretaría Administrativa será obligatoria para el Personal de la Rama Administrativa que ocupe una plaza de manera definitiva, con independencia de su nivel jerárquico y área de adscripción.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 115.
 
-Las Consejeras y Consejeros Electorales, Secretarias o Secretarios Ejecutivo y Administrativo, Directoras o Directores Ejecutivos y las personas Titulares de Unidades Técnicas, deberán brindar las facilidades para que su personal cumpla en tiempo y forma con la capacitación programada.
+Las Consejeras y Consejeros Electorales, Secretarias o Secretarios Ejecutivo y Administrativo, Directoras o Directores Ejecutivos y las personas Titulares de Unidades Técnicas, deberán brindar las facilidades para que su personal cumpla en tiempo y forma con la capacitación programada. Adicionalmente, la Secretaría Administrativa deberá procurar tener una oferta de capacitación enfocada a las necesidades específicas de la alta dirección del Instituto Electoral, a efecto de que esté en posibilidades de capacitarse también, de forma voluntaria.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 116.
 
-En atención a los principios de legalidad y transparencia, el Personal de la Rama Administrativa podrá solicitar al Centro, la revisión de los resultados obtenidos en la capacitación, de acuerdo con el procedimiento establecido en la normativa vigente.
+En atención a los principios de legalidad y transparencia, el Personal de la Rama Administrativa podrá solicitar a la Secretaría Administrativa, la revisión de los resultados obtenidos en la capacitación, de acuerdo con el procedimiento establecido en la normativa vigente.
 
 ###### Artículo 117.
 
@@ -1408,17 +1796,25 @@ La Junta aprobará los lineamientos, el Modelo pedagógico, y el procedimiento r
 
 La inducción tiene como objetivo facilitar la adaptación al Instituto Electoral y a las funciones del cargo o puesto del personal de nuevo ingreso, o para quien cambie de plaza o adscripción, y reviste carácter obligatorio.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 123.
 
-El Centro diseñará, actualizará, elaborará e implementará la inducción para el Personal de la Rama Administrativa.
+La Secretaría Administrativa diseñará, actualizará, elaborará e implementará la inducción para el Personal de la Rama Administrativa.
 
 ###### Artículo 124.
 
 La inducción se deberá impartir dentro del primer mes, contado a partir de la ocupación de la plaza.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 125.
 
-Las personas Titulares de las Unidades Administrativas deberán designar a la persona servidora que participará en el proceso de inducción al cargo o puesto del personal de nuevo ingreso o del que cambia de plaza o adscripción. Para ello, el Centro los capacitará en las actividades a desarrollar.
+Las personas Titulares de las Unidades Administrativas deberán designar a la persona servidora que participará en el proceso de inducción al cargo o puesto del personal de nuevo ingreso o del que cambia de plaza o adscripción. Para ello, la Secretaría Administrativa los capacitará en las actividades a desarrollar.
 
 ### CAPÍTULO XI. DE LA EVALUACIÓN DEL DESEMPEÑO
 
@@ -1426,9 +1822,13 @@ Las personas Titulares de las Unidades Administrativas deberán designar a la pe
 
 La Evaluación del Desempeño es el proceso sistemático que tiene por objeto valorar y medir el desempeño del Personal de la Rama Administrativa, y estará asociado al cumplimiento de objetivos, metas y competencias, a fin de garantizar la mejora continua del capital humano.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 127.
 
-El Centro diseñará e implementará la Evaluación del Desempeño de acuerdo con el Modelo de Evaluación, y los lineamientos aprobados por la Junta, para lo cual podrá contratar instancias evaluadoras externas, si se dispone de los necesarios recursos presupuestales.
+La Secretaría Administrativa diseñará e implementará la Evaluación del Desempeño de acuerdo con el Modelo de Evaluación, y los lineamientos aprobados por la Junta, para lo cual podrá contratar instancias evaluadoras externas, si se dispone de los necesarios recursos presupuestales.
 
 ###### Artículo 128.
 
@@ -1452,15 +1852,23 @@ La Evaluación del Desempeño se aplicará al Personal de la Rama Administrativa
 
 En el caso de que, por causa justificada, no hubiera estado presente durante un periodo de seis meses del año que se evalúa, la calificación se determinará tomando en cuenta únicamente el periodo laborado.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 133.
 
-El Centro coordinará la aplicación de la Evaluación del Desempeño y elaborará el dictamen de los resultados del Personal de la Rama Administrativa, para ser aprobado por la Junta.
+La Secretaría Administrativa coordinará la aplicación de la Evaluación del Desempeño y elaborará el dictamen de los resultados del Personal de la Rama Administrativa, para ser aprobado por la Junta.
 
 ###### Artículo 134.
 
 Las personas responsables de aplicar la evaluación realizarán un ejercicio de retroalimentación y comunicación de resultados para mejorar el desempeño que se persigue.
 
-El Personal del Servicio podrá aplicar la Evaluación del Desempeño del Personal de la Rama Administrativa.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+El Personal del Servicio podrá aplicar para la Evaluación del Desempeño del Personal de la Rama Administrativa.
 
 ###### Artículo 135.
 
@@ -1470,15 +1878,23 @@ Quedarán excluidos de la Evaluación del Desempeño, las personas Consejeras El
 
 Sin perjuicio de lo dispuesto en el artículo 40 de este Reglamento y de conformidad con los lineamientos aprobados por la Junta, el Personal de la Rama Administrativa que no acredite la Evaluación del Desempeño no podrá ser acreedor de incentivos y promociones.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 137.
 
-El Centro establecerá un mecanismo para verificar la correcta aplicación de la Evaluación del Desempeño.
+La Secretaría Administrativa establecerá un mecanismo para verificar la correcta aplicación de la Evaluación del Desempeño.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE:P https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 138.
 
-En atención a los principios de legalidad y transparencia, el Personal de la Rama Administrativa podrá solicitar al Centro, la revisión de los resultados obtenidos de la Evaluación del Desempeño, de acuerdo con la normativa aplicable.
+En atención a los principios de legalidad y transparencia, el Personal de la Rama Administrativa podrá solicitar a la Secretaría Administrativa, la revisión de los resultados obtenidos de la Evaluación del Desempeño, de acuerdo con la normativa aplicable.
 
-Para ello, el Centro podrá solicitar las evidencias necesarias para la formulación del dictamen respectivo.
+Para ello, la Secretaría Administrativa podrá solicitar las evidencias necesarias para la formulación del dictamen respectivo.
 
 ###### Artículo 139.
 
@@ -1514,15 +1930,23 @@ II. Cuando la persona solicitante se desista de su solicitud.
 
 Los incentivos son un beneficio que se otorga al Personal de la Rama Administrativa con los mejores resultados en la Evaluación del Desempeño; su otorgamiento se efectuará de manera objetiva e imparcial, beneficiando al personal con mayores méritos, de conformidad con lo establecido en el presente Reglamento y los lineamientos que al efecto apruebe la Junta.
 
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 144.
 
-El Centro someterá a la consideración de la Junta la propuesta del Personal de la Rama Administrativa para la entrega de incentivos.
+La Secretaría Administrativa someterá a la consideración de la Junta la propuesta del Personal de la Rama Administrativa para la entrega de incentivos.
 
 Los incentivos podrán consistir en reconocimientos, beneficios o retribuciones, aprobados por la Junta.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 145.
 
-El Personal de la Rama Administrativa podrá solicitar aclaración respecto a los motivos y fundamentos por los cuales se le otorgó o negó un incentivo, para lo cual deberá presentar su solicitud ante el Centro, en el plazo de cinco días hábiles a partir de que se haga pública la lista de acreedores al mismo; una vez recibida la solicitud por escrito, el Centro la analizará junto con los elementos documentales y argumentativos correspondientes y dará contestación en un plazo máximo de diez días hábiles.
+El Personal de la Rama Administrativa podrá solicitar aclaración respecto a los motivos y fundamentos por los cuales se le otorgó o negó un incentivo, para lo cual deberá presentar su solicitud ante la Secretaría Administrativa, en el plazo de cinco días hábiles a partir de que se haga pública la lista de acreedores al mismo; una vez recibida la solicitud por escrito, la Secretaría Administrativa la analizará junto con los elementos documentales y argumentativos correspondientes y dará contestación en un plazo máximo de diez días hábiles.
 
 ### CAPÍTULO XV (SIC). DEL PROCEDIMIENTO LABORAL SANCIONADOR, DE LA CONCILIACIÓN DE CONFLICTOS LABORALES Y DEL RECURSO DE INCONFORMIDAD
 
@@ -1574,7 +1998,11 @@ c) Cualquier circunstancia que justificadamente impida el curso normal del proce
 
 La autoridad instructora o resolutora deberá fundar y motivar la citada suspensión.
 
-Desaparecida la causa por la cual se determinó la suspensión del Procedimiento Laboral Sancionador, proceso de Conciliación de Conflictos Laborales o del recurso de inconformidad, se ordenará de inmediato su reanudación. Tanto la suspensión como reanudación deberán notificarse de manera personal a las partes involucradas en el Procedimiento Laboral Sancionador y en el recurso de inconformidad.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Desaparecida la causa por la cual se determinó la suspensión del Procedimiento Laboral Sancionador, proceso de Conciliación de Conflictos Laborales o del recurso de inconformidad, se ordenará de inmediato su reanudación. Tanto la suspensión como reanudación deberán notificarse de manera personal a las partes involucradas en el Procedimiento Laboral Sancionador, la Conciliación de Conflictos Laborales y el Recurso de Inconformidad.
 
 Cuando por situaciones de caso fortuito o fuerza mayor, deban suspenderse las actividades presenciales dentro de las instalaciones del Instituto Electoral, previa declaración de la persona titular de la Secretaría Ejecutiva y/o la Secretaría Administrativa, se deberán ajustar temporalmente los procedimientos previstos en este Reglamento, haciendo uso de herramientas tecnológicas, a efecto de garantizar las formalidades esenciales del procedimiento, el derecho de audiencia y de una adecuada defensa de la persona probable responsable, salvaguardando siempre el debido proceso.
 
@@ -1632,9 +2060,17 @@ V. Su actividad o participación pudiera representar un conflicto de intereses.
 
 Las autoridades que intervengan en el procedimiento de conciliación, el Procedimiento Laboral Sancionador o el recurso de inconformidad, tendrán el deber de excusarse de su conocimiento de manera inmediata cuando adviertan una causal de impedimento, expresando la causa y razón de éste.
 
-Si el impedimento se formula respecto de la persona titular de la Secretaría Ejecutiva, la Junta Administrativa determinará lo conducente.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-En caso de que se presente un impedimento o se manifieste una recusación hacia o respecto de alguna persona que integre un órgano colegiado del Instituto, éste lo resolverá en la sesión en la que se trate el asunto respecto del cual se formula el pedimento, sin que en dicho acto pueda participar la persona contra quien se presente la excusa o recusación.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Si el impedimento se formula respecto de la persona titular de la Secretaría Ejecutiva, la Junta determinará lo conducente.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En caso de que se presente un impedimento o se manifieste una recusación hacia o respecto de alguna persona que integre un órgano colegiado del Instituto Electoral, éste lo resolverá en la sesión en la que se trate el asunto respecto del cual se formula el pedimento, sin que en dicho acto pueda participar la persona contra quien se presente la excusa o recusación.
 
 ###### Artículo 159.
 
@@ -1676,7 +2112,7 @@ El Procedimiento Laboral Sancionador podrá instruirse de oficio o a petición d
 
 I. Sera de oficio cuando:
 
-a) Cualquiera de las áreas u órganos del instituto Electoral haga del conocimiento de la autoridad instructora la comisión de conductas probablemente infractoras, cometidas por el personal a que se refiere el artículo 6 del presente Reglamento;
+a) Cualquiera de las áreas u órganos del Instituto Electoral haga del conocimiento de la autoridad instructora la comisión de conductas probablemente infractoras, cometidas por el personal a que se refiere el artículo 6 del presente Reglamento;
 
 b) Alguna persona informe a la autoridad instructora de la comisión de conductas probablemente infractoras realizadas por el personal citado en el inciso anterior;
 
@@ -1692,7 +2128,11 @@ Cualquier persona que tenga conocimiento de la comisión de conductas probableme
 
 En la investigación preliminar, la autoridad instructora podrá solicitar la comparecencia de la persona denunciante o agraviada, la persona probable infractora o cualquier otra persona que tenga relación directa o conocimiento de los hechos motivo de la denuncia, con el objeto de conocer las circunstancias concretas del asunto y recabar elementos que le permitan determinar si ha lugar o no al inicio del Procedimiento Laboral Sancionador.
 
-La autoridad instructora podrá realizar visitas en las áreas de trabajo relacionadas con la denuncia; al efecto, se hará del conocimiento de la persona titular del área correspondiente que, en virtud de una investigación en curso se acudirá en días próximos a recabar medios de prueba a sus instalaciones, como parte de las facultades de investigación que de la autoridad instructora.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+La autoridad instructora podrá realizar visitas en las áreas de trabajo relacionadas con la denuncia; al efecto, se hará del conocimiento de la persona titular del área correspondiente que, en virtud de una investigación en curso se acudirá en días próximos a recabar medios de prueba a sus instalaciones, como parte de las facultades de investigación de la autoridad instructora.
 
 El órgano u autoridad que reciba una denuncia o algún escrito relacionado con la denuncia de una o varias conductas probablemente infractoras del presente Reglamento y normativa aplicable en materia laboral, lo deberá remitir, dentro de los tres días hábiles siguientes a su recepción, a la autoridad instructora del Procedimiento Laboral Sancionador.
 
@@ -1718,9 +2158,13 @@ En el caso de que faltare el elemento señalado en el inciso f) de la fracción 
 
 Para los casos de VLHALS, en ningún supuesto, la falta de aportación de las pruebas por parte de alguna persona interesada será motivo para decretar la improcedencia de la denuncia. En todo caso, después de realizar la investigación preliminar, la autoridad instructora resolverá lo conducente con los elementos que obren en autos.
 
-En los casos que por fuerza mayor o caso fortuito se impida la realización de las actividades ordinarias del Instituto, decretada por autoridad competente y, emitido el aviso respectivo por el Instituto Electoral, la persona denunciante o agraviada podrá presentar su escrito de denuncia a través de documento digitalizado, al correo electrónico de la Secretaría Ejecutiva, lo cual será una excepción única para la presentación de los escritos de denuncias de manera física.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-Las denuncias remitidas por correo electrónico a la Secretaria Ejecutiva deberán presentarse en los mismos plazos y con los mismos requisitos señalados en el presente procedimiento.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En los casos que por fuerza mayor o caso fortuito se impida la realización de las actividades ordinarias del Instituto, decretada por autoridad competente y, emitido el aviso respectivo por el Instituto Electoral, la persona denunciante o agraviada podrá presentar su escrito de denuncia a través de documento digitalizado, al correo electrónico de la Secretaría Ejecutiva, lo cual será la única excepción para la presentación de los escritos de denuncias de manera física.
+
+Las denuncias remitidas por correo electrónico a la Secretaría Ejecutiva deberán presentarse en los mismos plazos y con los mismos requisitos señalados en el presente procedimiento.
 
 #### SECCIÓN SÉPTIMA. De las Prevenciones y requerimientos
 
@@ -1732,7 +2176,11 @@ La autoridad instructora revisará que el escrito de denuncia cumpla con los req
 
 Una vez que la autoridad instructora cuente con los elementos para la tramitación de un Procedimiento Laboral Sancionador, procederá a conformar el expediente respectivo, en el que integrará los documentos con que inicialmente tuvo conocimiento de la conducta probablemente infractora, así como los que se vayan generando durante la tramitación del mismo.
 
-Asimismo, durante la sustanciación del procedimiento y hasta antes del cierre de instrucción, la autoridad instructora podrá solicitar a la Coordinación de Recursos Humanos información y/o documentación del expediente personal de cada una de las partes, protegiendo en todo momento los datos personales y/o sensibles que pudiera contener dicho expediente, a fin de resolver lo que en derecho corresponda.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Asimismo, durante la sustanciación del procedimiento y hasta antes del cierre de instrucción, la autoridad instructora podrá solicitar a la Secretaría Administrativa información y/o documentación del expediente personal de cada una de las partes, protegiendo en todo momento los datos personales y/o sensibles que pudiera contener dicho expediente, a fin de resolver lo que en derecho corresponda.
 
 Inmediatamente después de que se hayan asentado las actuaciones o agregado los documentos recibidos, la autoridad foliará y rubricará las hojas.
 
@@ -1760,11 +2208,19 @@ En el momento en que lo estime necesario, incluyendo el periodo de la investigac
 
 También podrá solicitar información a terceros que guarden relación con los hechos que se investigan, sobre los hechos relacionados con la investigación.
 
-En caso de requerimiento de información, la autoridad otorgará un plazo de hasta cinco días hábiles para su cumplimiento; en caso de incumplimiento injustificado del requerimiento, se podrá formular nuevo requerimiento por el mismo plazo, apercibidos de que, en caso de no atender dicho requerimiento, se aplicará alguna de las medidas de apremio previstas en el presente Reglamento; lo anterior, únicamente por cuanto hace al personal del Instituto que hubiera incumplido con el requerimiento.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En caso de requerimiento de información, la autoridad otorgará un plazo de hasta cinco días hábiles para su cumplimiento; en caso de incumplimiento injustificado del requerimiento, se podrá formular nuevo requerimiento por el mismo plazo, apercibidos de que, en caso de no atender dicho requerimiento, se aplicará alguna de las medidas de apremio previstas en el presente Reglamento; lo anterior, únicamente por cuanto hace al personal del Instituto Electoral que hubiera incumplido con el requerimiento.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 170.
 
-Si durante el procedimiento la autoridad instructora advirtiera un probable daño patrimonial al Instituto Electoral o la posible comisión de un delito; se elaborarán los desgloses correspondientes para hacer estos hechos del conocimiento de la Contraloría Interna o del Ministerio Público, sin demérito de las sanciones que, por medio del presente procedimiento, pudieran imponerse a la persona probable infractora.
+Si durante el procedimiento la autoridad instructora advirtiera un probable daño patrimonial al Instituto Electoral o la posible comisión de un delito; se elaborarán los desgloses correspondientes para hacer estos hechos del conocimiento de la Contraloría o del Ministerio Público, sin demérito de las sanciones que, por medio del presente procedimiento, pudieran imponerse a la persona probable infractora.
 
 ###### Artículo 171.
 
@@ -1792,7 +2248,11 @@ III. Dictar, ratificar o en su caso modificar las medidas de protección y caute
 
 IV. Iniciar las diligencias probatorias necesarias, para determinar la comisión de la(s) conducta(s) probablemente infractoras;
 
-V. En los casos de la presunta comisión de actos relacionados con VLHALS, ordenar la canalización de la persona probable víctima, para recibir la atención médica y/o psicológica necesaria, así como acompañamiento por parte de la persona consejera u ombudsperson; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+V. En los casos de la presunta comisión de actos relacionados con VLHALS, ordenar la canalización de la persona probable víctima, para recibir la atención médica y/o psicológica necesaria, así como acompañamiento por parte de una persona consejera u ombudsperson; y
 
 VI. Informar del inicio del Procedimiento Laboral Sancionador a las autoridades Administrativa o del Servicio Profesional Electoral del Instituto Nacional, dependiendo del tipo de personal que sea la persona infractora.
 
@@ -1826,9 +2286,23 @@ XI. Preceptos legales que se estiman violados;
 
 XII. Plazo para dar contestación a la denuncia, así como el apercibimiento en caso de no realizarla;
 
-XIII. En su caso, las medidas de protección y cautelares dictadas y la solicitud a las autoridades correspondientes para brindar atención a la persona agraviada según sea necesario; y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-XIV. Orden de notificar personalmente el auto de admisión.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIII. En su caso, las medidas de protección y cautelares dictadas y la solicitud a las autoridades correspondientes para brindar atención a la persona agraviada según sea necesario;
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Orden de notificar personalmente el auto de admisión; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XV. La firma de la autoridad que lo emite.
 
 #### SECCIÓN NOVENA. Del emplazamiento y contestación
 
@@ -1916,7 +2390,17 @@ V. Nombre completo, tipo de personal, cargo o, puesto y lugar de adscripción de
 
 VI. Fundamentos de derecho;
 
-VII. Relación de hechos y razonamientos que sustenten la determinación.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VII. Relación de hechos y razonamientos que sustenten la determinación; y
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(ADICIONADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VIII. La firma de la autoridad que lo emite.
 
 El acuerdo de improcedencia deberá notificarse personalmente a las partes dentro de los tres días hábiles siguientes a su emisión.
 
@@ -1984,9 +2468,17 @@ III. Alto riesgo. Implica que está en peligro la salud, la vida o el empleo de 
 
 Se podrán decretar como medidas cautelares, de manera enunciativa, más no limitativa, las siguientes:
 
-I. En los casos de la presunta comisión de actos relacionados con VLHALS, ordenar la canalización de la persona denunciante o agraviada, para recibir la atención médica y/o psicológica necesaria, así como acompañamiento por parte de la persona consejera u ombudsperson.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-II. Exhortar a la persona probable infractora, a fin de que evite cometer de manera directa o a través de terceras personas, las conductas que se están denunciando, con el apercibimiento de que, de hacer caso omiso, se podrá iniciar de oficio un distinto procedimiento laboral Sancionador.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+I. En los casos de la presunta comisión de actos relacionados con VLHALS, ordenar la canalización de la persona denunciante o agraviada, para recibir la atención médica y/o psicológica necesaria, así como acompañamiento por parte de una persona consejera u ombudsperson.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. Exhortar a la persona probable infractora, a fin de que evite cometer de manera directa o a través de terceras personas, las conductas que se están denunciando, con el apercibimiento de que, de hacer caso omiso, se podrá iniciar de oficio un distinto Procedimiento Laboral Sancionador.
 
 III. Ordenar a la persona probable infractora se abstenga, por sí o por interpósita persona, de realizar cualquier acto o conducta de molestia en contra de la persona denunciante o agraviada, sin prejuzgar sobre la veracidad de los hechos y preservando en todo momento las garantías de las partes.
 
@@ -2014,9 +2506,13 @@ Para ello, la Secretaría Administrativa garantizará el derecho a un ingreso m�
 
 En el supuesto de que la persona suspendida temporalmente no resulte responsable de los hechos o actos que se le imputan, se le restituirá en el goce de sus derechos y se le entregarán las percepciones que hubiese dejado de percibir durante la aplicación de la medida cautelar.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 188.
 
-Durante el tiempo que dure el procedimiento y, en consecuencia, la vigencia de las medidas de protección y cautelares, la Unidad Jurídica deberá corroborar, con periodicidad mínima de una semana, que éstas se estén cumpliendo; al efecto, deberá agregarse al expediente el documento en el que conste la realización de tal diligencia.
+Durante el tiempo que dure el procedimiento y, en consecuencia, la vigencia de las medidas de protección y cautelares, la Unidad Jurídica deberá corroborar, al menos con una periodicidad de una vez cada dos semanas, que éstas se estén cumpliendo; al efecto, deberá agregarse al expediente el documento en el que conste la realización de tal diligencia.
 
 ###### Artículo 189.
 
@@ -2194,9 +2690,13 @@ Será responsabilidad de quien ofrezca la prueba, presentar a sus testigos en la
 
 Tratándose de asuntos relacionados con VLHALS y, en caso de ser necesario, la responsabilidad del ofrecimiento de testigos podrá quedar a cargo de la autoridad instructora.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 210.
 
-La autoridad instructora otorgará una tolerancia de hasta 15 minutos a las personas que presentarán su testimonio en la audiencia para presentarse a la audiencia. En caso de no presentarse el día y hora señalados, se procederá a declarar desiertas las testimoniales.
+La autoridad instructora otorgará una tolerancia de hasta 15 minutos a las personas que presentarán su testimonio en la audiencia para presentarse a la misma. En caso de no presentarse el día y hora señalados, se procederá a declarar desiertas las testimoniales.
 
 ###### Artículo 211.
 
@@ -2368,7 +2868,11 @@ I. Amonestación;
 
 II. Suspensión; y
 
-III . Destitución y, en consecuencia, rescisión/conclusión de la relación laboral.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV (SIC). Destitución y, en consecuencia, rescisión/conclusión de la relación laboral.
 
 ###### Artículo 241.
 
@@ -2402,11 +2906,15 @@ VIII. Alguna otra circunstancia de modo, tiempo o lugar que agrave o atenúe la 
 
 En los casos previstos en los artículos 23 y 25 del presente Reglamento, aún y cuando la conducta pueda ser calificada de leve a grave y la sanción a imponerse sea de amonestación a suspensión, ésta podrá incrementarse, dependiendo las particularidades de cada caso.
 
-Se calificarán de leves las acciones u omisiones que contravengan lo dispuesto en el artículo 23, fracciones I, II, III , IV, V, VI, VII, VIII, IX, X, XIV, XV, XX, XXI, XXII Y XXIII; así como en el artículo 25, fracción XV del presente Reglamento, siempre y cuando la persona infractora no haya sido condenada previamente por las mismas causas, en cuyo caso se calificarán de graves.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-Asimismo, se calificarán de graves las acciones u omisiones que contravengan lo dispuesto en los artículos 23, fracciones XI, XII, XIII, XVI, XVII , XVIII y XIX; Y 25, fracciones I, II, III, IV, V, VI, IX, X, XI, XII Y XIV del presente Reglamento.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-Se reputarán como conductas muy graves aquellas acciones u omisiones que contravengan lo dispuesto en el artículo 25, fracciones VII, VIII Y XII del presente Reglamento; así como aquellas vinculadas con Violencia Laboral, Hostigamiento, Acoso Laboral y Sexual.
+Se calificarán de leves las acciones u omisiones que contravengan lo dispuesto en el artículo 23, fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XIV, XV, XX, XXI, XXII y XXIII; así como en el artículo 25, fracciones XV, XVI y XVII del presente Reglamento, siempre y cuando la persona infractora no haya sido condenada previamente por las mismas causas, en cuyo caso se calificarán de graves.
+
+Asimismo, se calificarán de graves las acciones u omisiones que contravengan lo dispuesto en los artículos 23, fracciones XI, XII, XIII, XVI, XVII , XVIII y XIX; y 25, fracciones I, II, III, IV, V, VI, IX, X, XI, XII y XIV del presente Reglamento.
+
+Se reputarán como conductas muy graves aquellas acciones u omisiones que contravengan lo dispuesto en el artículo 25, fracciones VII, VIII y XIII del presente Reglamento; así como aquellas vinculadas con Violencia Laboral, Hostigamiento, Acoso Laboral y Sexual.
 
 #### SECCIÓN VIGÉSIMA PRIMERA. De la ejecución
 
@@ -2434,7 +2942,11 @@ I. La renuncia o muerte de la persona denunciada;
 
 II. El cumplimiento de la sanción
 
-Si durante la sustanciación del Procedimiento Laboral Sancionador la persona probable infractora se separa en forma definitiva del Instituto Electoral o termina su encargo, se emitirá resolución en la que se declarará extinguido el procedimiento, sin perjuicio de otro tipo de responsabilidades que le puedan ser exigidas, para lo cual la autoridad instructora lo hará del conocimiento de la Contraloría Interna, a efecto de que, en el ámbito de sus atribuciones, determine lo que estime pertinente; y se ordenará el archivo del expediente.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Si durante la sustanciación del Procedimiento Laboral Sancionador la persona probable infractora se separa en forma definitiva del Instituto Electoral o termina su encargo, se emitirá resolución en la que se declarará extinguido el procedimiento, sin perjuicio de otro tipo de responsabilidades que le puedan ser exigidas, para lo cual la autoridad instructora lo hará del conocimiento de la Contraloría, a efecto de que, en el ámbito de sus atribuciones, determine lo que estime pertinente; y se ordenará el archivo del expediente.
 
 Al mismo tiempo, se dejarán sin efecto las medidas de carácter provisional que se hubieren adoptado con respecto a la persona probable infractora.
 
@@ -2462,9 +2974,13 @@ El plazo de prescripción para la ejecución de sanciones comenzará a contarse 
 
 #### SECCIÓN VIGÉSIMA CUARTA. De las reglas especiales para la atención de casos de Violencia Laboral, Hostigamiento y/o Acoso Laboral o Sexual
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 248.
 
-Cualquier persona que se encuentre o labore en alguna de las sedes del Instituto Electoral y que considere que se ha cometido en su contra una conducta que probablemente constituya VLHALS, realizada por personal que labore en dicho órgano comicial, podrá acudir a recibir orientación con las personas Consejeras u ombudsperson acerca de los mecanismos existentes para la atención de los hechos ocurridos, o bien, de manera directa, presentar una denuncia en contra de la persona servidora pública de este instituto a quien se le atribuye dicha conducta.
+Cualquier persona que se encuentre o labore en alguna de las sedes del Instituto Electoral y que considere que se ha cometido en su contra una conducta que probablemente constituya VLHALS, realizada por personal que labore en dicho órgano comicial, podrá acudir a recibir orientación con el Personal Especializado o con una persona ombudsperson acerca de los mecanismos existentes para la atención de los hechos ocurridos, o bien, de manera directa, presentar una denuncia en contra de la persona servidora pública de este instituto a quien se le atribuye dicha conducta.
 
 ###### Artículo 249.
 
@@ -2484,7 +3000,7 @@ El Instituto Electoral publicará en su sitio institucional de internet el direc
 
 ###### Artículo 251.
 
-Las personas servidoras públicas que brinden atención jurídica, orienten, atiendan o proporcionen acompañamiento a la persona agraviada por un acto que implique VLHALS, además de los principios a que se refiere el párrafo segundo del artículo l del presente Reglamento, deberán actuar conforme a los principios de debida diligencia, atención integral y especializada; confidencialidad y privacidad; no revictimización, respeto a la decisión y dignidad de la persona violentada, veracidad, igualdad y no discriminación, desarrollados en el Protocolo; así como valorar las pruebas y resolver con perspectiva de género, atendiendo en todo momento a lo establecido en la Ley de Acceso.
+Las personas servidoras públicas que brinden atención jurídica, orienten, atiendan o proporcionen acompañamiento a la persona agraviada por un acto que implique VLHALS, además de los principios a que se refiere el párrafo segundo del artículo 1 del presente Reglamento, deberán actuar conforme a los principios de debida diligencia, atención integral y especializada; confidencialidad y privacidad; no revictimización, respeto a la decisión y dignidad de la persona violentada, veracidad, igualdad y no discriminación, desarrollados en el Protocolo; así como valorar las pruebas y resolver con perspectiva de género, atendiendo en todo momento a lo establecido en la Ley de Acceso.
 
 ###### Artículo 252.
 
@@ -2492,13 +3008,21 @@ Por su parte, las personas servidoras públicas que tengan el primer contacto, a
 
 Las personas servidoras públicas de primer contacto únicamente brindarán información pertinente, completa, clara y precisa, con la finalidad de que la persona denunciante o agraviada esté en aptitud de tomar una decisión informada, respecto de las vías con que cuenta para la atención del caso que se denuncia; por lo que, su función de acompañamiento no corresponderá a la de representante de la persona denunciante o agraviada ante el o los procedimientos promovidos por éstos.
 
-En los casos en que lo estime pertinente, se otorgará atención psicológica a la persona denunciante, con personal especializado al efecto.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En los casos en que lo estime pertinente, se otorgará atención médica y/o psicológica a la persona denunciante o agraviada, con el personal con el que al efecto cuente el Instituto Electoral. En caso de que la persona denunciante o agraviada rechace la atención por parte del personal institucional, se le canalizará con instituciones públicas de atención gratuita.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 253.
 
-Cuando el primer contacto lo brinde la Unidad Jurídica, se deberá procurar, en la medida de lo posible, atender a la persona denunciante o agraviada en un lugar privado, con la presencia de más de una de las personas que tienen encomendada la atención de tales asuntos.
+Cuando el primer contacto lo brinde la Unidad Jurídica, se deberá procurar, en la medida de lo posible, atender a la persona denunciante o agraviada en un lugar privado, con la presencia de más de una de las personas que tienen encomendada la atención de tales asuntos, de quienes por lo menos una deberá ser de su mismo género.
 
-Además de informar sobre los mecanismos que existen para la atención de su denuncia, se le deberá hacer saber quiénes son las personas consejeras u ombudsperson, cuáles son sus funciones primordiales y dónde localizarlas. Al efecto se deberá proporcionar una copia del documento que contiene los datos de las citadas personas. En caso de requerirlo se les canalizará para la debida atención médica y psicológica.
+Además de informar sobre los mecanismos que existen para la atención de su denuncia, se le deberá hacer saber quiénes son el Personal Especializado y las personas ombudsperson, cuáles son sus funciones primordiales y dónde localizarlas. Al efecto se deberá proporcionar una copia del documento que contiene los datos de las citadas personas. En caso de requerirlo se les canalizará para la debida atención médica y psicológica.
 
 ###### Artículo 254.
 
@@ -2534,19 +3058,31 @@ f) Autoriza el uso de sus datos personales, así como entregar el aviso de confi
 
 La Unidad Jurídica archivará en un expediente las Actas de Hechos resultantes de las orientaciones proporcionadas, las cuales servirán de base para la conformación del registro de personas y conductas infractoras denunciadas.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 257.
 
-En cuanto la Unidad Jurídica tenga conocimiento de la comisión de una probable conducta infractora de esta índole, informará de ello al Comité de Seguimiento, a través de su Presidente; a la Unidad de Género y a cada una de las personas consejeras u ombudsperson, omitiendo los datos personales o aquellos que pudieran entorpecer la investigación preliminar o comprometer la seguridad y dignidad de la persona agraviada, procediendo de manera confidencial, bajo los principios de no discriminación y no revictimización.
+En cuanto la Unidad Jurídica tenga conocimiento de la comisión de una probable conducta infractora de esta índole, informará de ello al Comité de Seguimiento, a través de su Presidente; a la DEGDHECyCC, a cada una de las personas Ombudsperson y al Personal Especializado, omitiendo los datos personales o aquellos que pudieran entorpecer la investigación preliminar o comprometer la seguridad y dignidad de la persona agraviada, procediendo de manera confidencial, bajo los principios de no discriminación y no revictimización.
 
 Lo anterior, a fin de que dichas áreas y personas, en el ámbito de sus respectivas atribuciones, tomen las medidas que estimen pertinentes para brindar la asistencia, asesoría, apoyo, acompañamiento y/o seguimiento al asunto puesto a su conocimiento.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 258.
 
-Las Personas Consejeras u ombudsperson son aquellas servidoras públicas adscritas a las distintas áreas del Instituto Electoral que, de manera honorífica, voluntaria y sin remuneración, otorgan la primera asistencia, así como acompañamiento y seguimiento a la persona denunciante o agraviada de VLHALS que así lo requiera.
+Las Personas Ombudsperson y el Personal Especializado son aquellas servidoras públicas adscritas a las distintas áreas del Instituto Electoral que, de manera honorífica, voluntaria y sin remuneración, otorgan la primera asistencia, así como acompañamiento y seguimiento a la persona denunciante o agraviada de VLHALS que así lo requiera.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 259.
 
-Las Personas Consejeras u ombudsperson, además de brindar la orientación conforme a los principios y valores establecidos en el presente apartado, tendrán las obligaciones que, de manera enunciativa, más no limitativa, se enlistan a continuación:
+Las Personas Ombudsperson y el Personal Especializado, además de brindar la orientación conforme a los principios y valores establecidos en el presente apartado, tendrán las obligaciones que, de manera enunciativa, más no limitativa, se enlistan a continuación:
 
 I. Informar a la persona denunciante o agraviada, sobre las vías con que cuenta para la atención de los hechos ocurridos, relacionados con la comisión de conductas que probablemente constituyan VLHALS;
 
@@ -2566,9 +3102,13 @@ VIII. Abstenerse de difundir información personal o confidencial de las persona
 
 IX. Dar seguimiento al asunto puesto a su conocimiento, durante la sustanciación del Procedimiento Laboral Sancionador e, incluso, en su caso, hasta la emisión del fallo que resuelva la impugnación.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 260.
 
-En materia de VLHALS, la Unidad de Género realizará las acciones que, de manera enunciativa, más no limitativa, se señalan a continuación:
+En materia de VLHALS, la DEGDHECyCC realizará las acciones que, de manera enunciativa, más no limitativa, se señalan a continuación:
 
 I. Generar campañas de prevención y sensibilización, en coadyuvancia con las áreas que se requieran, a fin de detectar problemas relacionados con VLHALS;
 
@@ -2580,7 +3120,11 @@ IV. Recomendar a la persona titular del área donde surgió un conflicto que der
 
 V. Realizar las actividades que estime necesarias, a fin de propiciar un ambiente laboral seguro y sano, libre de VLHALS;
 
-VI. Proponer, en coordinación con la Unidad Técnica del Centro de Formación, los cursos de capacitación y/o especialización para el personal involucrado en la resolución de los procedimientos relacionados con casos de VLHALS, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VI. Proponer, en coordinación con la Secretaría Administrativa, los cursos de capacitación y/o especialización para el personal involucrado en la resolución de los procedimientos relacionados con casos de VLHALS, y
 
 VII. Llevar el registro del personal especializado para la asistencia, atención y orientación de casos de VLHALS; así como en materia de derechos humanos.
 
@@ -2606,7 +3150,11 @@ Cuando quienes cometan las probables conductas relacionadas con VLHALS sean pres
 
 La autoridad instructora llevará un registro de personas y de conductas denunciadas en los Procedimientos Laborales Sancionadores derivados de la comisión de conductas relacionadas con VLHALS, en el que se señalará la conducta atribuida, si la persona resultó infractora y, en su caso, cual fue la sanción impuesta.
 
-Asimismo, la Unidad Técnica del Centro de Formación y Desarrollo, deberá solicitar a la Unidad Jurídica informe sobre los antecedentes de las personas que sean participantes en concursos de ingreso del personal del Instituto Electoral, así como para la evaluación de las personas que aspiren prestar su servicio social o prácticas profesionales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Asimismo, la Secretaría Administrativa deberá solicitar a la Unidad Jurídica informe sobre los antecedentes de las personas que sean participantes en concursos de ingreso del personal del Instituto Electoral, así como para la evaluación de las personas que aspiren prestar su servicio social o prácticas profesionales.
 
 Durante el desarrollo del Procedimiento Laboral Sancionador, los antecedentes contenidos en dicho registro podrán ser tomados en cuenta, de manera indiciaria, por las autoridades del conocimiento.
 
@@ -2624,9 +3172,17 @@ I. En los casos de VLHALS, la persona sancionada no podrá participar durante el
 
 II. Documentar en el expediente laboral de las personas denunciadas a quienes se les haya probado la comisión de las conductas infractoras, así como la sanción impuesta.
 
-Dicha información podrá ser proporcionada al Centro para evaluar el perfil de los aspirantes dentro de los concursos de ingreso para laborar en el Instituto Electoral, así como para la evaluación de las personas que aspiren prestar su servicio social o prácticas profesionales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-En virtud de lo anterior, el Centro enviará a la Unidad Jurídica la relación completa de las personas indicadas en el párrafo que antecede, a efecto de que esta última proporcione la información relativa a personas sancionadas.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Dicha información podrá ser proporcionada a la Secretaría Administrativa para evaluar el perfil de los aspirantes dentro de los concursos de ingreso para laborar en el Instituto Electoral, así como para la evaluación de las personas que aspiren prestar su servicio social o prácticas profesionales.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+En virtud de lo anterior, la Secretaría Administrativa enviará a la Unidad Jurídica la relación completa de las personas indicadas en el párrafo que antecede, a efecto de que esta última proporcione la información relativa a personas sancionadas.
 
 #### SECCIÓN VIGÉSIMA QUINTA. De las Medidas de Reparación Integral
 
@@ -2660,7 +3216,11 @@ Las medidas de reparación del daño deberán encaminarse a restablecer la digni
 
 La conciliación es el procedimiento mediante el cual se dirimen de forma voluntaria los conflictos entre el personal del Instituto Electoral, con el objeto de lograr un acuerdo y obligarse a hacer cesar las conductas que dieron origen al mismo.
 
-El personal del Instituto Electoral podrá optar por la conciliación, dentro o fuera de un Procedimiento Laboral Sancionador, siempre que los motivos del conflicto laboral no estén relacionados con conductas que puedan afectar el cumplimiento de los fines y atribuciones del Instituto; o bien, las conductas denunciadas se vinculen con asuntos de Hostigamiento y Acoso Sexual.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+El personal del Instituto Electoral podrá optar por la conciliación, dentro o fuera de un Procedimiento Laboral Sancionador, siempre que los motivos del conflicto laboral no estén relacionados con conductas que puedan afectar el cumplimiento de los fines y atribuciones del Instituto; o bien, las conductas denunciadas no se vinculen con asuntos de Hostigamiento y Acoso Sexual.
 
 La conciliación no implica la aceptación de los hechos imputados, sino la disposición de las partes, y estará a cargo del área correspondiente adscrita a la Unidad Jurídica.
 
@@ -2794,7 +3354,11 @@ El recurso de inconformidad podrá ser interpuesto por quien tenga interés jur�
 
 Serán competentes para sustanciar y resolver el recurso de inconformidad:
 
-I. Tratándose del personal de la Rama Administrativa y Eventual del Instituto Electoral. Será autoridad sustanciadora del recurso, la persona titular de la Secretaría de la Junta Administrativa. Será autoridad resolutora del recurso la Junta Administrativa, cuando se trate de:
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+I. Tratándose del personal de la Rama Administrativa y Eventual del Instituto Electoral. Será autoridad sustanciadora del recurso, la persona titular de la Secretaría de la Junta. Será autoridad resolutora del recurso la Junta, cuando se trate de:
 
 a. Las resoluciones emitidas por la persona titular de la Secretaría Ejecutiva que pongan fin al procedimiento laboral Sancionador previsto en este ordenamiento o cuando la autoridad instructora decrete la improcedencia del procedimiento;
 
@@ -2836,7 +3400,11 @@ Recibido el escrito del recurso de inconformidad, la autoridad sustanciadora ten
 
 La autoridad sustanciadora del recurso elaborará el acuerdo de radicación, admisión, no inicio, no interposición del recurso o sobreseimiento y, en su caso, el proyecto de resolución.
 
-La Unidad Técnica de Asuntos jurídicos apoyará en la práctica de notificaciones y publicación en estrados que deriven de los acuerdos y resoluciones emitidas por la autoridad sustanciadora y resolutora.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+La Unidad Jurídica apoyará en la práctica de notificaciones y publicación en estrados que deriven de los acuerdos y resoluciones emitidas por la autoridad sustanciadora y resolutora.
 
 ###### Artículo 283.
 
@@ -2880,11 +3448,23 @@ VI. Resulte evidentemente frívolo o cuya notoria improcedencia se derive de las
 
 VII. No exponga agravios o habiéndose señalado solo hechos, de ellos no se pueda deducir agravio alguno; y
 
-VIII. Medie desistimiento debidamente ratificado.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-Cuando se presente un desistimiento, la autoridad encargada de la instrucción requerirá a la parte peticionaria para que lo ratifique en un plazo no mayor a tres días hábiles siguientes a su notificación; dicha ratificación la podrá hacer personalmente en las instalaciones de la autoridad requirente.
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-La solicitud de ratificación que haga la autoridad se hará con el apercibimiento de tener por ratificado el desistimiento, en caso de que la persona peticionaria no responda y se resolverá en consecuencia.
+VIII. Medie desistimiento debidamente firmado de forma autógrafa.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Cuando se presente un desistimiento, y el mismo carezca de firma autógrafa, se requerirá a la parte peticionaria para que lo ratifique en un plazo no mayor a tres días hábiles siguientes a su notificación; dicha ratificación la podrá hacer personalmente en las instalaciones de la autoridad requirente.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+La solicitud de ratificación que haga la autoridad se hará con el apercibimiento de tener por no presentado el desistimiento, en caso de que la persona peticionaria no responda, y se resolverá en consecuencia.
 
 ###### Artículo 286.
 
@@ -2934,21 +3514,41 @@ Los acuerdos y resolución que recaigan al recurso de inconformidad podrán ser 
 
 ### CAPÍTULO ÚNICO. DEL PERSONAL EVENTUAL
 
-###### Artículo 291.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
 
-Se considera Personal Eventual a aquellas personas contratadas por el Instituto Electoral quien, sin formar parte de la estructura, presten un servicio por honorarios, por tiempo o trabajo determinado al mismo. La vigencia y condiciones de la contratación del Personal Eventual estarán dispuestas en el contrato correspondiente.
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 291.
 
 La selección y contratación del personal que colabore en los procesos electorales y en los procedimientos de participación ciudadana se realizará en los términos de la normatividad aplicable y de la convocatoria que para tal efecto emita el órgano facultado para ello. El personal que sea contratado bajo esta modalidad será considerado Personal Eventual.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 292.
 
-El Personal Eventual deberá reunir los requisitos de ingreso señalados en el artículo 17 de este Reglamento y, en su caso, los que establezca la normatividad aplicable. Asimismo, deberá presentar a la Secretaría Administrativa, la documentación que acredite el cumplimiento de dichos requisitos.
+El Personal Eventual deberá reunir los requisitos de ingreso señalados en el artículo 17 fracciones I, II, III, VI, VII y IX de este Reglamento y, en su caso, los que establezca la normatividad aplicable. Asimismo, deberá presentar a la Secretaría Administrativa, la documentación que acredite el cumplimiento de dichos requisitos.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 293.
 
-El Personal Eventual tendrá, cuando menos, los derechos consignados en el artículo 19, fracciones II, IV, VI, X, XI, XII, XIII, XIV y XV de este ordenamiento.
+El Personal Eventual tendrá el pago como contraprestación de sus servicios que prestará al Instituto Electoral en los términos del contrato que se celebre para el desempeño de sus actividades, teniendo las siguientes prerrogativas:
 
-Asimismo, el Personal Eventual deberá dar estricta observancia, en lo conducente, a lo dispuesto en los artículos 23 y 25 del presente Reglamento.
+I. Recibir aguinaldo en el mes de diciembre, que deberá considerarse en el presupuesto anual, equivalente, cuando menos, a cuarenta días de salario integrado bruto. El personal eventual que no hubiese prestado sus servicios durante los doce meses correspondientes al ejercicio fiscal respectivo, recibirá la parte proporcional que le corresponda por el tiempo que prestó sus servicios;
+
+II. Disfrutar de dos días de descanso a la semana, salvo que la persona haya sido contratada para el desarrollo de los procesos electorales, los procedimientos de participación ciudadana y las actividades de educación cívica y construcción de ciudadanía y de asociaciones políticas, las cuales estarán sujetas a las necesidades que determinen las áreas en las que prestan sus servicios;
+
+III. Recibir el pago de transporte, viáticos y demás gastos complementarios o adicionales, cuando se requiera atender necesidades del Instituto Electoral, conforme al mecanismo que para el efecto se establezca;
+
+IV. El personal Eventual que tenga la calidad de madre, padre o tutor podrá distraerse temporalmente de las actividades encomendadas para los asuntos escolares o médicos de sus hijas, hijos, pupilos o pupilas, situación que deberán justificar con el comprobante idóneo, sea que lo presente previa o posteriormente, al Responsable de la Supervisión de su servicio desempeñado;
+
+V. Recibir de forma oportuna las medidas de apoyo o protección, en caso de que sea víctima de violencia laboral, hostigamiento o acoso sexual o laboral, de conformidad con la normatividad que emita el Instituto Electoral en la materia;
+
+VI. La persona gestante podrá contar con un descanso de seis semanas anteriores y seis posteriores al parto y su recuperación, pudiendo transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo, para tal efecto deberá exhibir las constancias medicas para acreditar tal situación ante la persona Responsable de la Supervisión de su servicio desempeñado, sin que ello signifique el reconocimiento de una relación laboral dada (sic) que su contratación es eventual.
 
 ###### Artículo 294.
 
@@ -2962,7 +3562,11 @@ I. Finalización de la vigencia de la contratación;
 
 II. Consentimiento de las partes signatarias del contrato, externado antes del término de su vigencia;
 
-III. Causas de rescisión consideradas en el contrato correspondiente,
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. Causas de rescisión consideradas en el contrato correspondiente, y
 
 IV. Fallecimiento del Personal Eventual.
 
@@ -2970,7 +3574,11 @@ IV. Fallecimiento del Personal Eventual.
 
 Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-Segundo. El presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Los días de vacaciones no disfrutados correspondientes a periodos vacacionales anteriores a la aprobación del presente Reglamento, podrán ser solicitados y disfrutados fuera de los plazos que se establezcan formalmente mediante las Circulares respectivas, con la finalidad de agotarlos a la brevedad posible.
 
@@ -2979,3 +3587,37 @@ Cuarto. Los procedimientos labores disciplinarios y los recursos de inconformida
 EL SECRETARIO ADMINISTRATIVO
 
 MTRO. ALEJANDRO FIDENCIO GONZÁLEZ HERNÁNDEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA MODIFICACIÓN AL “REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf]</small>
+
+Primero. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Los días de vacaciones no disfrutados correspondientes a periodos vacacionales anteriores a la aprobación del presente Reglamento, podrán ser solicitados y disfrutados fuera de los plazos que se establezcan formalmente mediante las Circulares respectivas, con la finalidad de agotarlos a la brevedad posible.
+
+Cuarto. Los procedimientos labores disciplinarios y los recursos de inconformidad en trámite a la entrada en vigor de la modificación al presente reglamento, se desahogarán conforme a las disposiciones reglamentarias que se encontraban vigentes al momento de su presentación.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO POR EL CUAL SE DA A CONOCER EL ENLACE DONDE PUEDE CONSULTARSE LA MODIFICACIÓN AL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]</small>
+
+Lo anterior, en cumplimiento a los artículos transitorios Primero y Segundo del Reglamento en Materia de Relaciones Laborales del Instituto Electoral de la Ciudad de México, cuya última modificación fue aprobada mediante Acuerdo de la Junta Administrativa identificado con la clave IECM-JA-113-22, el 27 de octubre de 2022. Artículos que establecen:
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de la publicación en la Gaceta Oficial de la Ciudad de México.
+
+El enlace de consulta es el siguiente:
+
+https://www.iecm.mx/www/taip/minutas/ja/2022/IECM-JA113-22.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El responsable del enlace es: Salvador Gabriel Macias Payén, Titular de la Unidad Técnica de Comunicación Social y Difusión del Instituto Electoral de la Ciudad de México. Tel (55) 54833800 Ext. 4700.
