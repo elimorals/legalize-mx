@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-07-01"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -947,7 +947,9 @@ XXI. Programación, Presupuesto y Cuenta Pública;
 
 XXI Bis. Protección a la Niñez y Adolescencia;
 
-XXII. Pueblos Indígenas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Derechos Indígenas y Afromexicanos;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
 
@@ -1663,29 +1665,63 @@ XI. Invitar a otras entidades, dependencias, instituciones, ayuntamientos y orga
 
 XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 88.
 
-Corresponde a la Comisión de Pueblos Indígenas, participar, conocer y dictaminar, de manera enunciativa, más no limitativa sobre los asuntos siguientes:
+La Comisión de Derechos Indígenas y Afromexicanos, debe estar integrada preferentemente por personas que se autoadscriban como indígenas o afromexicanas; pertenecientes a una comunidad indígiena (sic) o afromexicana, por quienes tengan experiencia en la materia o sean electos de distritos electorales con presencia de comunidades indígenas o afromexicanas. Le corresponde participar, conocer y dictaminar, de manera enunciativa más no limitativa, sobre los asuntos siguientes:
 
-I. La revisión de la Legislación Estatal para establecer en las diversas materias, el reconocimiento de los derechos de los pueblos, comunidades y personas indígenas;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-II. Dictaminar las iniciativas para proteger y preservar todos los elementos que integran la cultura de los pueblos indígenas del Estado;
+I. Las iniciativas de Ley o reforma a la normatividad en materia de promoción, protección, defensa, garantía y reconocimiento de los derechos de los pueblos, comunidades y personas indígenas y afromexicanas;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+II. Dictaminar las iniciativas para proteger y preservar todos los elementos que integran la cultura de los pueblos, comunidades y personas indígenas y afromexicanas;
 
 III. La protección y desarrollo social de los pueblos y comunidades indígenas del Estado;
 
-IV. La consulta de los pueblos indígenas en los asuntos legislativos que les atañen o afecten;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+IV. La consulta de los pueblos y comunidades indígenas y afromexicanas en los asuntos legislativos que les atañen o afecten;
 
 V. Los relacionados con la expropiación de bienes que pertenezcan a las comunidades indígenas;
 
-VI. Comunicados o solicitudes de autoridades indígenas al Congreso del Estado;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+VI. Comunicados o solicitudes de autoridades indígenas o afromexicanas al Congreso del Estado;
 
 VII. Organizar foros de participación ciudadana para conocer el punto de vista de las comunidades indígenas en relación con su problemática social;
 
 VIII. Convertirse en coadyuvante con las autoridades federales, estatales y municipales, para promover el desarrollo de los pueblos indígenas del Estado, vigilando las políticas que para el caso se instrumenten;
 
-IX. La creación de organismos públicos que tengan como objetivos la protección, preservación y desarrollo de lenguas, culturas, usos y costumbres, recursos y formas de organización social de los pueblos indígenas asentados en el Estado; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+IX. La creación, modificación o extinción de organismos públicos que tengan como objetivos la protección, preservación y desarrollo de lenguas, culturas, usos y costumbres, recursos y formas de organización social de los pueblos indígenas asentados en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+X. Los concernientes al respeto, garantía, promoción, defensa, preservación o desarrollo de los derechos y cultura de los pueblos y comunidades indígenas y afromexicanos;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XI. Vigilar las políticas públicas, planes, programas y acciones en materia de pueblos y comunidades indígenas y afromexicanas que realice la Administración Pública Estatal y Municipal;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XII. Generar espacios de diálogo, así como de intercambio con las instancias gubernamentales, académicas, organizaciones de la sociedad civil, organizaciones no gubernamentales, nacionales e internacionales, a favor de los pueblos y comunidades indígenas y afromexicanas;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Integrar el Consejo Estatal de Ecología, participando en el ámbito de sus atribuciones, para coadyuvar en el cumplimiento de sus respectivos objetivos;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Elaborar propuestas de armonización legislativa para dar cumplimiento a los instrumentos, declaraciones, convenciones y tratados internacionales, suscritos y ratificados por el Estado Mexicano en materia de derechos de Pueblos y Comunidades Indígenas y Afromexicanas; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+XV. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 89.
 
@@ -4448,3 +4484,17 @@ Quinto. Por única ocasión, para los fines de la fracción I del artículo 61, 
 Sexto. A partir de su instalación, de manera inmediata se deberá atender a lo establecido a los artículos 27 y 30 del Reglamento de Comisiones y Comités.
 
 Séptimo. Dese cuenta al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 204 POR EL QUE "SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 62, ASÍ COMO LAS FRACCIONES I, II, IV, VI, IX Y X DEL ARTÍCULO 88, Y SE ADICIONA AL MISMO PRECEPTO LAS FRACCIONES XI, XII, XIII, XIV Y XV, A LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El Artículo Primero del presente Decreto entrará en vigor al momento de su aprobación, conforme a lo dispuesto en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Segundo. Todos los asuntos turnados a la actual Comisión de Pueblos Indígenas, con anterioridad a la vigencia del presente Decreto, se entenderán remitidos a la ahora Comisión de Derechos Indígenas y Afromexicanos.
+
+Tercero. El Artículo Segundo del presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Cuarto. Notifíquese el presente Decreto al Consejo Estatal de Ecología del Estado de Michoacán, para su debido conocimiento.
+
+Quinto. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
