@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2022-08-04"
+last_updated: "2022-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -259,9 +259,9 @@ II. La preservación y restauración del equilibrio ecológico y la protección 
 
 III. La prevención y el control de emergencias y contingencias ambientales, en forma aislada o participativa con la federación, cuando la magnitud o gravedad de los desequilibrios ecológicos, o daños al ambiente, no rebasen el territorio del estado o de sus municipios, o no sea necesaria la acción exclusiva de la federación;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-IV. La regulación, creación y administración de las áreas naturales protegidas estatales y municipales, que se prevén en el presente ordenamiento, así como fomentar el reconocimiento de los paisajes bioculturales y las áreas destinadas voluntariamente a la conservación del Estado;
+IV. La regulación, creación y administración de las áreas naturales protegidas estatales y municipales, y de los corredores biológicos que se prevén en el presente ordenamiento, así como fomentar el reconocimiento de los paisajes bioculturales, las áreas destinadas voluntariamente a la conservación del Estado;
 
 V. La prevención y el control de la contaminación de la atmósfera, generada en zonas o por fuentes emisoras de jurisdicción local;
 
@@ -365,9 +365,9 @@ III. Ordenar y ejecutar las distintas acciones, dentro del ámbito de su compete
 
 IV. Proponer la normatividad reglamentaria y criterios ambientales estatales, qué deberán observarse en la aplicación de la política ambiental del estado, el ordenamiento ecológico local, la prevención y disminución de la contaminación ambiental de la entidad, la protección ambiental de las áreas naturales y aguas de jurisdicción estatal y las concesionadas por la federación, con la participación que, en su caso, corresponda a los gobiernos municipales;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio, así como reconocer y emitir certificados de áreas destinadas voluntariamente a la conservación;
+V. Coordinar los estudios y acciones para la creación de áreas naturales protegidas y los corredores biológicos de acuerdo a lo dispuesto por esta ley, con la intervención que corresponda a otras dependencias y los gobiernos municipales, participando en las acciones que deban realizarse, conforme a sus propios acuerdos y resoluciones, con la concurrencia de los dueños, poseedores y habitantes del área en estudio, así como reconocer y emitir certificados de áreas destinadas voluntariamente a la conservación;
 
 > <small>(REFORMADA [N. DE ADICIONADA], P.O. 21 DE ABRIL DE 2020)</small>
 
@@ -899,7 +899,9 @@ I. Las disposiciones que establece la presente ley, en materia de preservación 
 
 II. La observancia de los ordenamientos ecológicos regional del estado y locales;
 
-III. El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios y, en general, otras actividades;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+III. El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a la habitación, los servicios y, en general, otras actividades. Dicha proporción será de una masa arbórea endémica, de cuarenta por ciento del total de la superficie destinada para áreas verdes, salvo disposición en contrario;
 
 IV. La vivienda que se construya en las zonas de expansión de los asentamientos humanos, deberá guardar una relación adecuada con los elementos naturales de esas zonas, y considerar una superficie de áreas verdes proporcional a la densidad poblacional; y
 
@@ -1121,11 +1123,11 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 El titular del Ejecutivo, por conducto de la Secretaría, establecerá el Fondo Estatal de Protección al Ambiente, para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 41 Ter.
 
-Los recursos que se integren el (sic) Fondo Ambiental serán administrados vía fideicomiso y se destinarán a:
+Los recursos que se integren al Fondo Ambiental serán administrados vía fideicomiso y se destinarán a:
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
 
@@ -1135,21 +1137,21 @@ I. La realización de acciones de preservación del ambiente, la protección eco
 
 II. La restauración, manejo y administración de las áreas de valor ambiental;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-III. Prevención, mitigación y restauración de sitios contaminados;
+III. Prevención, mitigación y restauración del lago de Chapala, Río Santiago y sitios contaminados que se determinen por la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2007)</small>
 
 IV. El apoyo a programas de prevención y restauración del equilibrio ecológico que desarrollen los municipios;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-V. El apoyo al desarrollo de programas de educación e investigación en materia ambiental; y
+V. El apoyo al desarrollo de programas de educación e investigación en materia ambiental;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-VI. La prevención y control de la contaminación atmosférica, de suelos y de agua.
+VI. La prevención y control de la contaminación atmosférica, de suelos y de agua;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -1741,17 +1743,83 @@ El Gobierno del Estado y los Gobiernos Municipales tomarán en cuenta las estrat
 
 Las estrategias y medidas de gestión que adopte el paisaje biocultural y que sean validadas por la Secretaría, por ser compatibles con el marco de planeación general del territorio serán tomadas en cuenta en la planeación de políticas y acciones que realicen las diversas instancias de Gobierno; de igual forma, los paisajes bioculturales, por conducto de sus órganos de representación, podrán fungir como representantes de la colectividad ante las instancias del (sic) gubernamentales y los diversos órganos de consulta existentes, de acuerdo con la reglamentación aplicable.
 
-### CAPITULO I
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE NOVIEMBRE DE 2022)</small>
 
-De la conservación y aprovechamiento sustentable del agua y los ecosistemas acuáticos.
+### CAPITULO V. De los Corredores Biológicos
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64
+
+Ñ. Un corredor biológico es un espacio geográfico delimitado que proporciona conectividad entre paisajes, ecosistemas y hábitat (sic), naturales o modificados, que asegura el mantenimiento de la diversidad biológica y los procesos ecológicos y evolutivos.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64-O.
+
+Corresponde a la Secretaría, la identificación, delimitación, establecimiento y conservación de los corredores biológicos, que se requieran en el Estado, para la conectividad y flujo tanto de flora y fauna entre las áreas, para lo cual se podrá coordinar con los Ayuntamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64-P.
+
+Los objetivos de los corredores biológicos son:
+
+I. Conservar la conectividad ecológica natural y territorial entre las diferentes áreas del estado, brindando facilidades para su delimitación y restauración en todas las regiones del Estado;
+
+II. Fortalecer las capacidades institucionales locales, para el correcto aprovechamiento sustentable de los recursos naturales; y
+
+III. Servir como instrumento de los gobiernos locales para la institucionalización de programas y políticas públicas que fomenten el flujo natural de especies de flora y fauna dentro de los ecosistemas del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64-Q.
+
+Las líneas de acción por parte de la autoridad responsable dentro de los corredores biológicos serán las siguientes:
+
+I. Conservación;
+
+II. Protección;
+
+III. Restauración;
+
+IV. Monitoreo;
+
+V. Evaluación;
+
+VI. Vigilancia;
+
+VII. Aprovechamiento sustentable; y
+
+VIII. Las demás que beneficien la conservación de los corredores biológicos.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64-R.
+
+Se podrán establecer como corredores biológicos por parte de las autoridades responsables, las áreas geográficas cuando cumplan con los siguientes criterios:
+
+I. Interconexión Biológica;
+
+II. Alta Biodiversidad;
+
+III. Endemicidad; y
+
+IV. Riesgo de Deterioro o vulnerabilidad.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 64-S.
+
+Las autoridades responsables deberán contemplar dentro de todos sus planes, programas y políticas públicas los corredores biológicos, en el ámbito de su competencia, de conformidad con el presente capítulo.
 
 ## TITULO TERCERO
 
 Conservación y Aprovechamiento Sustentable de los Elementos Naturales.
 
-### CAPITULO II
+### CAPITULO I
 
-Del aprovechamiento sustentable del suelo y sus recursos.
+De la conservación y aprovechamiento sustentable del agua y los ecosistemas acuáticos.
 
 ###### Artículo 65.
 
@@ -1779,9 +1847,9 @@ Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de
 
 El Titular del Ejecutivo del Estado y la Secretaría, conjuntamente con los gobiernos municipales, podrá celebrar con la federación, convenios o acuerdos de coordinación para participar en las acciones de protección, preservación y restauración del equilibrio ecológico y la protección de los ecosistemas acuáticos.
 
-### CAPITULO I
+### CAPITULO II
 
-De la prevención y control de la contaminación atmosférica.
+Del aprovechamiento sustentable del suelo y sus recursos.
 
 ###### Artículo 69.
 
@@ -1801,9 +1869,9 @@ En las zonas que presentan graves alteraciones ambientales, la Secretaría y los
 
 Protección al Ambiente.
 
-### CAPITULO II
+### CAPITULO I
 
-De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
+De la prevención y control de la contaminación atmosférica.
 
 ###### Artículo 71.
 
@@ -1951,11 +2019,9 @@ Las autoridades estatales y municipales, en su caso, promoverán en las zonas qu
 
 En los programas de desarrollo urbano estatal y planes parciales municipales, se considerarán las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
 
-### CAPITULO III
+### CAPITULO II
 
-De la prevención y control de la contaminación del suelo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+De la prevención y control de la contaminación del agua y de los ecosistemas acuáticos.
 
 ###### Artículo 78.
 
@@ -2033,9 +2099,11 @@ Los equipos de tratamiento de las aguas residuales de origen urbano que diseñen
 
 El gobierno del estado y los gobiernos municipales, en los casos de aguas de su competencia, se coordinarán con la federación, a efecto de realizar un sistemático y permanente monitoreo de la calidad de las aguas, para detectar la presencia de alteraciones, contaminantes, desechos orgánicos o azolves, y aplicar las medidas que procedan o, en su caso, promover su ejecución.
 
-### CAPITULO IV. De las actividades riesgosas y contingencias o emergencias ambientales
+### CAPITULO III
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+De la prevención y control de la contaminación del suelo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 86.
 
@@ -2123,11 +2191,9 @@ Los procesos industriales que generen residuos de lenta degradación, para los c
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2019)</small>
 
-### CAPITULO V
+### CAPITULO IV. De las actividades riesgosas y contingencias o emergencias ambientales
 
-De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 94.
 
@@ -2175,11 +2241,11 @@ Articulo 95 quinquies. La operación de este comando de emergencias ambientales 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2007)</small>
 
-### CAPITULO VI
+### CAPITULO V
 
-Del ruido, vibraciones, energía térmica y lumínica y olores.
+De la regulación de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos de manejo especial y sólidos urbanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 96.
 
@@ -2205,9 +2271,11 @@ Para todo lo concerniente a la regulación de los sistemas de recolección, alma
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2007)
 
-### CAPITULO I
+### CAPITULO VI
 
-De la participación social.
+Del ruido, vibraciones, energía térmica y lumínica y olores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2018)</small>
 
 ###### Artículo 102.
 
@@ -2271,9 +2339,9 @@ Queda prohibida la detonación de artículos de pirotecnia que generen ruido exc
 
 Participación Social e Información Ambiental.
 
-### CAPITULO II
+### CAPITULO I
 
-Derecho a la información ambiental.
+De la participación social.
 
 ###### Artículo 104.
 
@@ -2315,11 +2383,9 @@ La Secretaría y los gobiernos municipales, en su esfera de competencias, integr
 
 Cuando la Secretaría y los gobiernos municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
-### CAPITULO I
+### CAPITULO II
 
-Disposiciones generales.
-
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
+Derecho a la información ambiental.
 
 ###### Artículo 109.
 
@@ -2371,9 +2437,11 @@ Quien reciba información ambiental de las autoridades competentes, en los térm
 
 ## TITULO SEXTO. De la Justicia Ambiental
 
-### CAPITULO II. De los Procedimientos Ambientales
+### CAPITULO I
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
+Disposiciones generales.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 116.
 
@@ -2507,11 +2575,9 @@ Las notificaciones irregularmente practicadas, surtirán efectos a partir de la 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2019)</small>
 
-### CAPITULO III
+### CAPITULO II. De los Procedimientos Ambientales
 
-De las medidas de seguridad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2019)</small>
 
 ###### Artículo 131 Bis.
 
@@ -2615,11 +2681,11 @@ Cuando se trate de segunda o posterior inspección para verificar el cumplimient
 
 En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas, en los plazos ordenados por la autoridad competente, siempre y cuando el infractor no sea reincidente, y no se trate de alguno de los supuestos previstos en él capitulo de medidas de seguridad de la presente ley, previa petición por escrito que formule el interesado ante la autoridad competente, el superior jerárquico podrá revocar o modificar la sanción o sanciones impuestas.
 
-### CAPITULO IV
+### CAPITULO III
 
-De las sanciones administrativas.
+De las medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 144.
 
@@ -2645,11 +2711,11 @@ Asimismo, la Secretaría y los gobiernos municipales, promoverán ante la federa
 
 Cuando la Secretaría y los gobiernos municipales, según corresponda, ordenen alguna de las medidas de seguridad previstas en esta ley, deberá indicar al interesado, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que, una vez cumplidas estas, se ordene el retiro de la medida de seguridad impuesta, lo anterior, sin perjuicio de las sanciones que en derecho correspondan.
 
-### CAPITULO V
+### CAPITULO IV
 
-Del recurso de revisión.
+De las sanciones administrativas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 146.
 
@@ -2781,11 +2847,11 @@ La Secretaría y los gobiernos municipales, según corresponda, deberán promove
 
 Los ingresos que se obtengan de las multas por infracciones a lo dispuesto por esta ley, sus reglamentos y demás disposiciones que de ella deriven, así como los que se obtengan del remate en subasta pública o la venta directa de los bienes decomisados, se destinarán a la integración de fondos para el desarrollo de programas ambientales.
 
-### CAPITULO VI
+### CAPITULO V
 
-De la comisión de delitos.
+Del recurso de revisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2007)</small>
 
 ###### Artículo 154.
 
@@ -2935,11 +3001,11 @@ Tratándose de obras o actividades que contravengan las disposiciones de esta le
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el presente capítulo.
 
-### CAPITULO VII
+### CAPITULO VI
 
-De la denuncia popular.
+De la comisión de delitos.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 170.
 
@@ -2952,6 +3018,12 @@ Toda persona podrá presentar directamente las denuncias penales que corresponda
 ###### Artículo 171.
 
 La Secretaría y los gobiernos municipales, según corresponda, proporcionarán, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el ministerio público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
+### CAPITULO VII
+
+De la denuncia popular.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 172.
 
@@ -3410,3 +3482,21 @@ I. 10% de descuento en el pago de derechos por refrendo vehicular y tarjeta de c
 II. 20% de descuento en el derecho por dotación de placas a los vehículos foráneos que cumplieron con la verificación vehicular y deseen contar con placas del Estado de Jalisco, a quienes verifiquen en el Ejercicio Fiscal 2022.
 
 Quinto. La Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Contraloría del Estado, deberán comunicar y realizar campañas de difusión en todos los entes públicos respecto de sus obligaciones derivadas de este decreto en materia de verificación vehicular.
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28834/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5; FRACCIÓN V DEL ARTÍCULO 6, ADICIONA UN CAPÍTULO V AL TÍTULO SEGUNDO CON LOS ARTÍCULOS 64-Ñ; 64-O; 64-P; 64-Q; 64-R Y 64-S A LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28845/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 25 DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL MEDIO AMBIENTE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 15 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28853/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 41 TER, FRACCIONES III, V Y VI DE LA LEY ESTATAL DE EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
