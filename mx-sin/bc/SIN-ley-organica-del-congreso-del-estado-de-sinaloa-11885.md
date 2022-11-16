@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2022-09-23"
+last_updated: "2022-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -89,69 +89,35 @@ El Congreso del Estado tendrá su residencia en la Capital del Estado y sesionar
 
 Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernador del Estado, ni podrá ser objeto de veto.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 9.
 
-El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
+El quince de noviembre de cada año, la persona Titular del Poder Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública.
 
-El análisis de este informe se realizará por el Congreso del Estado, con observancia a las bases siguientes:
+En cumplimiento a las obligaciones y facultades en materia de rendición de cuentas, señaladas en el segundo párrafo del artículo 40 de la Constitución Política del Estado de Sinaloa, el Congreso celebrará reunión de trabajo que deberá ser pública, con la presencia de la persona Titular del Poder Ejecutivo del Estado y citará a comparecer, bajo protesta de decir verdad, a las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal, para la valoración y análisis del informe rendido.
 
-PRIMERA. Informe del Ejecutivo, en su caso, la ampliación de información y la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
+La recepción del Informe del Poder Ejecutivo del Estado, así como las formalidades, y procedimientos derivados de su remisión a las y los Diputados del Congreso del Estado, se desarrollarán conforme a las bases siguientes:
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+PRIMERA. De la recepción del Informe, su remisión a las Diputadas y los Diputados integrantes del Pleno, la reunión de trabajo con la persona Titular del Poder Ejecutivo del Estado y las comparecencias de las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal.
 
-a) La Junta de Coordinación Política, al siguiente día hábil en que se reciba por el Congreso el informe del Ejecutivo, lo remitirá por escrito a Comisiones con el señalamiento expreso para que, en un término de quince días hábiles, envíen sus observaciones y, en su caso, las preguntas que se requieran para ampliar la información.
+a) La Mesa Directiva recepcionará el Informe del Poder Ejecutivo del Estado y en la sesión más próxima lo hará del conocimiento del Pleno, para posteriormente remitirlo para la valoración y análisis de las diputadas y los diputados que integran la legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+b) El protocolo de la reunión de trabajo con la persona Titular del Poder Ejecutivo del Estado será acordado por la Junta de Coordinación Política.
 
-b) La Junta de Coordinación Política, si las Comisiones lo solicitan por escrito, podrá ampliar el plazo anterior, haciéndolo del conocimiento de la Mesa Directiva.
+c) Las comparecencias de las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal se desarrollarán de acuerdo al protocolo que acuerde la Junta de Coordinación Política.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
+Las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal acatarán el calendario de las comparecencias que acuerde la Junta de Coordinación Política, salvo caso fortuito o de fuerza mayor.
 
-Concluido el plazo, lo declarará cerrado.
+En caso de desacato a la obligación de comparecer ante el Congreso del Estado, la Junta de Coordinación Política, deberá dar vista a la Secretaría de Transparencia y Rendición de Cuentas del Poder Ejecutivo del Estado, para los efectos legales que correspondan.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+SEGUNDA. De la recepción del Informe en el año que concluya el periodo constitucional, su remisión a las Diputadas y los Diputados integrantes del Pleno, la reunión de trabajo, con la persona Titular del Poder Ejecutivo del Estado y las comparecencias con las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal.
 
-c) Una vez que la Junta de Coordinación Política haya declarado cerrado el período para recibir observaciones y preguntas para el Ejecutivo del Estado, en un término no mayor de cinco días hábiles, procederá a realizar una reunión con la finalidad de organizar y sistematizar las observaciones y preguntas.
+De conformidad con el cuarto párrafo del artículo 40 de la Constitución Política del Estado, en el año que concluya el ejercicio constitucional, la persona Titular del Poder Ejecutivo del Estado enviará el día 5 de septiembre al Congreso el informe sobre la situación que guarda la Administración Pública, debiendo el Congreso, durante los siguientes días del mes de septiembre hacerlo del conocimiento del Pleno y remitirlo a las Diputadas y los Diputados que lo integran, así como celebrar reunión de trabajo con la persona Titular del Poder Ejecutivo del Estado y las comparecencias con las y los titulares de las dependencias y entidades de la Administración Pública Estatal y Paraestatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2010)</small>
+TERCERA. De la memoria de resultados del análisis del informe del Poder Ejecutivo del Estado.
 
-d) La Junta de Coordinación Política, con los resultados de su reunión, acordará:
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-1. En su caso, el envío de preguntas al Ejecutivo para que amplíe la información o la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales, para que rindan informes sobre sus respectivas áreas, bajo protesta de decir verdad.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2008)</small>
-
-2. El plazo para la respuesta del Ejecutivo y, en su caso, los términos para la comparecencia de los Secretarios, Procurador General del Estado o directores de las entidades paraestatales.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-e) La Junta de Coordinación Política recibirá los acuerdos de las Comisiones y procederá de conformidad a ellos.
-
-f) (DEROGADO, P.O. 1 DE DICIEMBRE DE 2010)
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-g) La Junta de Coordinación Política, dentro de los quince días hábiles siguientes, celebrará reunión de trabajo con Comisiones Unidas y la Mesa Directiva, para la valoración del informe rendido y la ampliación de la información proporcionada por el Ejecutivo.
-
-SEGUNDA: De la Sesión de trabajo de Comisiones Unidas.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-a) La Sesión se desarrollará de acuerdo al protocolo y a la práctica parlamentaria, concediéndose el uso de la palabra al Presidente de la Junta de Coordinación Política, para presentar las líneas generales de la valoración sobre el informe y las respuestas enviadas para ampliar la información.
-
-b) A continuación, y en el orden ascendente que resulta del número de integrantes en el Congreso, participará un Diputado por cada uno de los Grupos Parlamentarios.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-c) Finalmente, participarán los Diputados que, habiéndose inscrito, equitativamente autorice la Junta de Coordinación Política.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
-
-d) La Junta de Coordinación Política y la Mesa Directiva acordarán conjuntamente las medidas convenientes para la publicación de una memoria con los resultados del análisis del informe del Ejecutivo.
+La Junta de Coordinación Política acordará las medidas convenientes para la publicación en la página web del Congreso de una memoria con los resultados del análisis del informe sobre la situación que guarda la Administración Pública. Asimismo, se tomarán las medidas para su entrega a la persona Titular del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 10.
 
@@ -2720,3 +2686,11 @@ A partir de la entrada en vigor del presente Decreto, los Ayuntamientos de los M
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 323 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO 9° DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación por el Pleno.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
