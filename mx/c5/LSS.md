@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2022-05-18"
+last_updated: "2022-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -76,7 +76,9 @@ II. Código: el Código Fiscal de la Federación;
 
 III. Instituto: el Instituto Mexicano del Seguro Social;
 
-IV. Patrones o patrón: la persona física o moral que tenga ese carácter en los términos de la Ley Federal del Trabajo;
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+IV. Patrones, patrón o persona empleadora: la persona física o moral que tenga ese carácter en los términos de la Ley Federal del Trabajo;
 
 V. Trabajadores o trabajador: la persona física que la Ley Federal del Trabajo define como tal;
 
@@ -2468,7 +2470,7 @@ II. El esquema de aseguramiento, para los sujetos que señala este capítulo, co
 
 a) Para los sujetos a que se refieren las fracciones I y III del artículo 13 de esta Ley, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro y vejez, en los términos de los capítulos respectivos;
 
-b) Para los sujetos a que se refiere la fracción II del artículo 13 de esta Ley, las prestaciones en especie de los seguros de riesgos de trabajo y de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro, cesantía en edad avanzada y vejez, en los términos de los capítulos respectivos;
+b) (DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 2022)
 
 c) Para los sujetos a que se refiere la fracción IV del artículo 13 de esta Ley, las prestaciones del seguro de riesgos de trabajo, las prestaciones en especie del seguro de enfermedades y maternidad y las correspondientes de los seguros de invalidez y vida, así como de retiro y vejez, en los términos de los capítulos respectivos;
 
@@ -2516,7 +2518,9 @@ Las cuotas obrero patronales correspondientes a los sujetos de este capítulo se
 
 I. Un salario mínimo del Distrito Federal vigente en el momento de la incorporación, o de la renovación anual, para los sujetos a que se refieren las fracciones I, III y IV del artículo 13 de esta Ley, y
 
-II. Conforme al salario real integrado de acuerdo al artículo 27 de este ordenamiento, para los sujetos a que se refieren las fracciones II y V del artículo 13 de esta Ley.
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+II. Conforme al salario real integrado de acuerdo con el artículo 27 de este ordenamiento, para las personas a que se refiere la fracción V del artículo 13 de esta Ley.
 
 Las bases de las fracciones anteriores serán aplicables, para todos los seguros que comprenda el aseguramiento en cada caso, con la excepción del seguro de enfermedades y maternidad, respecto del cual se estará a lo dispuesto por el artículo 106 de esta Ley.
 
@@ -2528,7 +2532,9 @@ A las bases de cotización señaladas en el artículo anterior, se les aplicará
 
 La cuota así determinada se cubrirá de la manera siguiente:
 
-I. Para los sujetos a que se refieren las fracciones II y V del artículo 13, de acuerdo a lo establecido tratándose de los sujetos del artículo 12 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+I. Para las y los sujetos a que se refiere la fracción V del artículo 13, de acuerdo con lo establecido tratándose de las personas del artículo 12 de esta Ley, y
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2556,7 +2562,7 @@ a) Declaración expresa firmada por el sujeto o grupo de asegurados, y
 
 b) No pagar la cuota;
 
-II. Para los sujetos a que se refiere la fracción II del artículo 13 de esta Ley, cuando se termine la relación laboral que le dio origen y se comunique esta circunstancia al Instituto.
+II. (DEROGADA, D.O.F. 16 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2632,11 +2638,89 @@ Los indígenas, campesinos temporaleros de zonas de alta marginalidad y todas aq
 
 El acceso a la seguridad social de los sujetos a que se refiere el presente capítulo, podrá ser apoyado por el tercer aportante establecido en el artículo 230 de esta Ley. En cualquier caso éstos podrán acceder al seguro de salud para la familia regulado por este ordenamiento.
 
-### CAPITULO I. DEL SEGURO DE SALUD PARA LA FAMILIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+### CAPITULO XI. DE LAS PERSONAS TRABAJADORAS DEL HOGAR
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-A.
+
+Persona trabajadora del hogar es aquella que, de manera remunerada, realice actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar en el marco de una relación laboral que no aporte para la persona empleadora beneficio económico directo, en cualquiera de las siguientes modalidades:
+
+I. Quien trabaje para una persona empleadora y resida en el domicilio donde realice sus actividades;
+
+II. Quien trabaje para una sola persona empleadora y que no resida en el domicilio donde realice sus actividades, y
+
+III. Quien trabaje para diferentes personas empleadoras y que no resida en el domicilio de ninguna de ellas.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-B.
+
+No se considera persona trabajadora del hogar:
+
+I. Quien realice trabajo del hogar únicamente de forma ocasional o esporádica, y
+
+II. Quien preste servicios de aseo, asistencia, atención de clientes y otros semejantes, en hoteles, casas de asistencia, restaurantes, fondas, bares, hospitales, sanatorios, colegios, internados y otros establecimientos análogos.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-C.
+
+La persona empleadora de la persona trabajadora del hogar tendrá las obligaciones inherentes que establezcan la presente Ley y sus reglamentos; adicionalmente, deberá cumplir lo siguiente:
+
+I. Deberá registrar e inscribir a la persona trabajadora del hogar a la fecha de inicio de la relación laboral, para salvaguardar sus derechos, por los días que labore durante el mes calendario, así como presentar los documentos y datos que el Instituto solicite para tal efecto;
+
+II. Con base en la información proporcionada por la persona empleadora de la persona trabajadora del hogar, el Instituto calculará la propuesta de cédula de determinación de las cuotas obrero patronales correspondientes, distinguiendo la cuota obrera de la patronal. La persona empleadora no determinará las cuotas obrero patronales. La persona empleadora deberá retener la cuota obrera que corresponde a la persona trabajadora del hogar por su aseguramiento y enterarla junto con la cuota patronal a su cargo;
+
+III. La persona empleadora de la persona trabajadora del hogar está obligada a pagar los importes determinados de las cuotas obrero patronales en los formatos impresos o usando el programa informático autorizado por el Instituto;
+
+IV. El pago de las cuotas obrero patronales correspondientes al mes de inicio de la relación laboral deberá efectuarse en términos de la periodicidad establecida en el artículo 39 de esta Ley;
+
+V. El aseguramiento y el entero de las cuotas obrero patronales correspondientes a los meses subsecuentes al mes de inicio de la relación laboral, se deberá hacer por anticipado, con la periodicidad por la que opte la persona empleadora, ya sea periodo mensual, bimestral, semestral o anual;
+
+VI. Tratándose del pago por anticipado, el aseguramiento iniciará en el mes inmediato posterior al del pago;
+
+VII. Tratándose del mes de inicio de la relación laboral, la cobertura se otorgará a partir del primer día de aseguramiento y hasta el último día del mes calendario que corresponda, siempre y cuando se entere al menos el monto de las cuotas obrero patronales equivalentes al valor del salario base de cotización mínimo integrado de la Ciudad de México por los días comprendidos en la cobertura. En caso contrario, la persona trabajadora del hogar quedará cubierta por los días que la o las personas empleadoras reportaron, y
+
+VIII. En caso de pago anticipado, el aseguramiento será por el mes completo, siempre y cuando se entere al menos el monto de las cuotas obrero patronales equivalentes al valor del salario base de cotización mínimo integrado mensual de la Ciudad de México. En caso contrario, la persona trabajadora del hogar quedará cubierta por los días que la o las personas empleadoras reportaron.
+
+Para las periodicidades bimestrales, semestrales y anuales, la persona empleadora deberá cubrir al menos el monto de las cuotas obrero patronales equivalentes al valor del salario base de cotización mínimo integrado mensual de la Ciudad de México, por cada uno de los meses que abarque el periodo de pago elegido.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-D.
+
+El aseguramiento de las personas trabajadoras del hogar termina cuando concluya la relación laboral que le dio origen, por la falta del entero de las cuotas obrero patronales, al término de los periodos cubiertos por adelantado o por simulación de la relación laboral. Esta última con independencia de las sanciones que correspondan. La persona empleadora de las personas trabajadoras del hogar deberá presentar el aviso de baja en los medios que el Instituto disponga para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-E.
+
+Tratándose de incapacidades médicas expedidas por el Instituto, la persona empleadora deberá continuar con el entero de las cuotas obrero patronales, como lo establece la fracción IV del artículo 31 de esta Ley, por el periodo de incapacidad establecido por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-F.
+
+Tratándose de las personas que realicen actividades de cuidados, aseo, asistencia o cualquier otra actividad inherente al hogar, de manera ocasional o esporádica, podrán optar por asegurarse como personas trabajadoras independientes, en términos de la fracción I del artículo 13 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-G.
+
+El factor de integración del salario base de cotización deberá considerar los días de descanso y vacaciones a que tienen derecho las personas trabajadoras del hogar, en términos de las disposiciones establecidas en la Ley Federal del Trabajo. Para estos efectos, el Consejo Técnico, con base en dichas prestaciones, así como en lo establecido en el artículo 28 de esta Ley, definirá mediante reglas de carácter general el factor de integración, con el objetivo de vigilar y promover el equilibrio financiero de todos los ramos de aseguramiento comprendidos en esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 239-H.
+
+El Consejo Técnico podrá autorizar una periodicidad diferente para el aseguramiento y pago de las cuotas, así como expedir las reglas de carácter general que en su caso resulten aplicables para el aseguramiento de las y los sujetos a que se refiere el presente Capítulo de esta Ley.
 
 ## TITULO TERCERO. DEL REGIMEN VOLUNTARIO
 
-### CAPITULO II. DE LOS SEGUROS ADICIONALES
+### CAPITULO I. DEL SEGURO DE SALUD PARA LA FAMILIA
 
 ###### Artículo 240.
 
@@ -2670,17 +2754,7 @@ Los seguros de salud para la familia se organizarán en sección especial, con c
 
 El Instituto elaborará un informe financiero y actuarial de los seguros de salud para la familia, en los términos y plazos fijados para la formulación del correspondiente a los seguros obligatorios.
 
-### CAPITULO III. OTROS SEGUROS
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 250 A. El Instituto previo acuerdo de su Consejo Técnico, podrá otorgar coberturas de seguros de vida y otras, exclusivamente a favor de las personas, grupos o núcleos de población de menores ingresos, que determine el Gobierno Federal, como sujetos de solidaridad social con las sumas aseguradas, y condiciones que este último establezca.
-
-Asimismo, el Instituto previo acuerdo de su Consejo Técnico, podrá utilizar su infraestructura y servicios, a requerimiento del Gobierno Federal, en apoyo de programas de combate a la marginación y la pobreza considerados en el Presupuesto de Egresos de la Federación. Para efectos de este artículo, el Gobierno Federal proveerá oportunamente al Instituto los recursos financieros necesarios con cargo al programa y partida correspondientes para solventar los servicios que le encomiende.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 250 B. Para los efectos del artículo anterior, el Gobierno Federal deberá otorgar al Instituto los subsidios y transferencias que correspondan al importe de las primas relativas a tales seguros y otras coberturas.
+### CAPITULO II. DE LOS SEGUROS ADICIONALES
 
 ###### Artículo 246.
 
@@ -2706,13 +2780,23 @@ Los seguros adicionales se organizarán en sección especial, con contabilidad y
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPÍTULO I. DE LAS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
+### CAPITULO III. OTROS SEGUROS
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 250 A. El Instituto previo acuerdo de su Consejo Técnico, podrá otorgar coberturas de seguros de vida y otras, exclusivamente a favor de las personas, grupos o núcleos de población de menores ingresos, que determine el Gobierno Federal, como sujetos de solidaridad social con las sumas aseguradas, y condiciones que este último establezca.
+
+Asimismo, el Instituto previo acuerdo de su Consejo Técnico, podrá utilizar su infraestructura y servicios, a requerimiento del Gobierno Federal, en apoyo de programas de combate a la marginación y la pobreza considerados en el Presupuesto de Egresos de la Federación. Para efectos de este artículo, el Gobierno Federal proveerá oportunamente al Instituto los recursos financieros necesarios con cargo al programa y partida correspondientes para solventar los servicios que le encomiende.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 250 B. Para los efectos del artículo anterior, el Gobierno Federal deberá otorgar al Instituto los subsidios y transferencias que correspondan al importe de las primas relativas a tales seguros y otras coberturas.
 
 ## TITULO CUARTO. DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. DE LA ASAMBLEA GENERAL
+### CAPÍTULO I. DE LAS ATRIBUCIONES, PATRIMONIO Y ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
 
 ###### Artículo 251.
 
@@ -2910,7 +2994,7 @@ III. La Comisión de Vigilancia, y
 
 IV. La Dirección General.
 
-### CAPITULO III. DEL CONSEJO TECNICO
+### CAPITULO II. DE LA ASAMBLEA GENERAL
 
 ###### Artículo 258.
 
@@ -2942,9 +3026,7 @@ La suficiencia de los recursos para todos y cada uno de los seguros de riesgos d
 
 Si el balance actuarial acusare superávit, éste se destinará a constituir un fondo de emergencia hasta el límite máximo del cincuenta por ciento de los ingresos anuales respectivos. Después de alcanzar este límite, el superávit se aplicará, según la decisión de la Asamblea General al respecto, a mejorar las prestaciones de los seguros que se encuentren en este supuesto.
 
-### CAPITULO IV. DE LA COMISION DE VIGILANCIA
-
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+### CAPITULO III. DEL CONSEJO TECNICO
 
 ###### Artículo 263.
 
@@ -3036,9 +3118,9 @@ XVIII. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2001)
 
 XIX. (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 2001)
 
-### CAPITULO V. DE LA DIRECCION GENERAL
+### CAPITULO IV. DE LA COMISION DE VIGILANCIA
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 ###### Artículo 265.
 
@@ -3068,9 +3150,9 @@ V. En casos graves y bajo su responsabilidad, citar a Asamblea General Extraordi
 
 VI. Las demás que señalen las disposiciones de esta Ley y sus reglamentos.
 
-### CAPITULO VI. DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL COMO ORGANISMO FISCAL AUTÓNOMO
+### CAPITULO V. DE LA DIRECCION GENERAL
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
 
 ###### Artículo 267.
 
@@ -3128,9 +3210,9 @@ El Director General tendrá derecho de veto sobre las resoluciones del Consejo T
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VII. DE LA CONSTITUCIÓN DE RESERVAS
+### CAPITULO VI. DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL COMO ORGANISMO FISCAL AUTÓNOMO
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 270.
 
@@ -3334,59 +3416,9 @@ Lo anterior, no deberá afectar las metas de constitución o incremento de reser
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO VIII. DEL SISTEMA DE PROFESIONALIZACIÓN Y DESARROLLO
+### CAPITULO VII. DE LA CONSTITUCIÓN DE RESERVAS
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 F. Lo dispuesto en este Capítulo sólo será aplicable a los trabajadores de confianza a que se refiere el artículo 256 de esta Ley.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 G. Con el fin de contar con un cuerpo permanente de profesionales, calificado y especializado en las actividades y funciones que le corresponden, así como de garantizar la adecuada prestación y mejora de los servicios en beneficio de los derechohabientes y de la sociedad en general, el Instituto deberá establecer las políticas y realizar las acciones necesarias para establecer un sistema de profesionalización y desarrollo de los trabajadores de confianza a que se refiere el artículo anterior.
-
-Ese sistema comprenderá los procesos de reclutamiento, selección, contratación, compensación, desarrollo de personal, incluyendo la capacitación, la evaluación de su desempeño, la promoción y la separación del servicio. El personal a que se refiere este Capítulo podrá ser sujeto de estímulos con base en su desempeño en los términos que lo autorice el Consejo Técnico, los cuales se sujetarán a los límites establecidos anualmente en el Presupuesto de Egresos de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 H. Los nombramientos del personal a que se refiere este Capítulo, correspondiente a los dos niveles jerárquicos inferiores al Director General y los que representen al Instituto en la circunscripción territorial que se establezca en el reglamento respectivo, deberán recaer en personas que reúnan los siguientes requisitos:
-
-I. Ser de reconocida honorabilidad y calidad moral;
-
-II. Cubrir el perfil necesario para ocupar el puesto, y
-
-III. Tener tres años de experiencia profesional o técnica en las materias relacionadas con el cargo para el cual fueran propuestas o bien, haberse desempeñado, por lo menos, cinco años en cargos de alto nivel decisorio.
-
-El Consejo Técnico y el Director General del Instituto serán responsables de la aplicación y observancia de lo dispuesto en el presente artículo.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 I. El Instituto conformará su estructura orgánica y ocupacional de acuerdo con las necesidades del servicio. Asimismo, diseñará y establecerá el sistema de compensación que servirá de base para determinar el pago de remuneraciones, prestaciones y estímulos en favor de los trabajadores de confianza a que se refiere el artículo 256 de esta Ley, con el fin de mantener su competitividad en el mercado laboral.
-
-El régimen específico, los procesos y demás características del Sistema de profesionalización y desarrollo del personal a que se refiere este Capítulo, quedarán establecidos en el Estatuto que al efecto apruebe el Consejo Técnico.
-
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 J. El sistema de profesionalización y desarrollo comprendido en el Estatuto a que se refiere el artículo anterior se regirá por los siguientes principios:
-
-I. El mérito propio y la igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia general y/o en el Instituto, desempeño, aptitudes, conocimientos y capacidad;
-
-II. Especialización y profesionalización para el desempeño de las funciones y actividades asignadas a cada puesto;
-
-III. Retribuciones y prestaciones vinculadas a la productividad, acordes al mercado de trabajo, que sean suficientes para asegurar al Instituto la contratación y permanencia de los mejores servidores públicos de mando y trabajadores;
-
-IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto y vinculados a la mejora de los servicios que se presten, a fin de garantizar la eficiencia en la prestación de los servicios, y
-
-V. Integridad, responsabilidad y conducta adecuada de este personal.
-
-> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2004)</small>
-
-Artículo 286 K. El Instituto administrará y manejará, conforme a los lineamientos que al efecto emita el Consejo Técnico, un fondo que se denominará Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual, con objeto de disponer de los recursos necesarios en el momento de la jubilación de sus trabajadores. Al efecto, el Consejo Técnico aprobará las reglas del referido Fondo a propuesta del Director General, quien deberá escuchar previamente la opinión de la Secretaría de Hacienda y Crédito Público. El manejo del Fondo deberá tomar en consideración las políticas y lineamientos que la Administración Pública Federal aplica en dicha materia.
-
-Dicho Fondo deberá registrarse en forma separada en la contabilidad del Instituto estableciendo dentro de él una cuenta especial para el Régimen de Jubilaciones y Pensiones de los trabajadores del Instituto. Los recursos que se afecten en dicho Fondo y cuenta especial sólo podrán disponerse para los fines establecidos en este artículo.
-
-El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para el financiamiento de la cuenta especial del Régimen de Jubilaciones y Pensiones, recursos provenientes de las cuotas a cargo de los patrones y trabajadores establecidos en la Ley del Seguro Social. Tampoco podrá destinar recursos para dicho fin, de las contribuciones, cuotas y aportaciones, que conforme a la Ley del Seguro Social, son a cargo del Gobierno Federal; ni de las Reservas a que se refiere el artículo 280 de esta Ley o de los productos financieros que de ellas se obtengan.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION PRIMERA. GENERALIDADES
 
@@ -3528,6 +3560,60 @@ Los intereses o rendimientos que genere cada reserva deberán aplicarse exclusiv
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
+### CAPITULO VIII. DEL SISTEMA DE PROFESIONALIZACIÓN Y DESARROLLO
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 286 F. Lo dispuesto en este Capítulo sólo será aplicable a los trabajadores de confianza a que se refiere el artículo 256 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 286 G. Con el fin de contar con un cuerpo permanente de profesionales, calificado y especializado en las actividades y funciones que le corresponden, así como de garantizar la adecuada prestación y mejora de los servicios en beneficio de los derechohabientes y de la sociedad en general, el Instituto deberá establecer las políticas y realizar las acciones necesarias para establecer un sistema de profesionalización y desarrollo de los trabajadores de confianza a que se refiere el artículo anterior.
+
+Ese sistema comprenderá los procesos de reclutamiento, selección, contratación, compensación, desarrollo de personal, incluyendo la capacitación, la evaluación de su desempeño, la promoción y la separación del servicio. El personal a que se refiere este Capítulo podrá ser sujeto de estímulos con base en su desempeño en los términos que lo autorice el Consejo Técnico, los cuales se sujetarán a los límites establecidos anualmente en el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 286 H. Los nombramientos del personal a que se refiere este Capítulo, correspondiente a los dos niveles jerárquicos inferiores al Director General y los que representen al Instituto en la circunscripción territorial que se establezca en el reglamento respectivo, deberán recaer en personas que reúnan los siguientes requisitos:
+
+I. Ser de reconocida honorabilidad y calidad moral;
+
+II. Cubrir el perfil necesario para ocupar el puesto, y
+
+III. Tener tres años de experiencia profesional o técnica en las materias relacionadas con el cargo para el cual fueran propuestas o bien, haberse desempeñado, por lo menos, cinco años en cargos de alto nivel decisorio.
+
+El Consejo Técnico y el Director General del Instituto serán responsables de la aplicación y observancia de lo dispuesto en el presente artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 286 I. El Instituto conformará su estructura orgánica y ocupacional de acuerdo con las necesidades del servicio. Asimismo, diseñará y establecerá el sistema de compensación que servirá de base para determinar el pago de remuneraciones, prestaciones y estímulos en favor de los trabajadores de confianza a que se refiere el artículo 256 de esta Ley, con el fin de mantener su competitividad en el mercado laboral.
+
+El régimen específico, los procesos y demás características del Sistema de profesionalización y desarrollo del personal a que se refiere este Capítulo, quedarán establecidos en el Estatuto que al efecto apruebe el Consejo Técnico.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+Artículo 286 J. El sistema de profesionalización y desarrollo comprendido en el Estatuto a que se refiere el artículo anterior se regirá por los siguientes principios:
+
+I. El mérito propio y la igualdad de oportunidades para el ingreso y la promoción en el servicio, con base en la experiencia general y/o en el Instituto, desempeño, aptitudes, conocimientos y capacidad;
+
+II. Especialización y profesionalización para el desempeño de las funciones y actividades asignadas a cada puesto;
+
+III. Retribuciones y prestaciones vinculadas a la productividad, acordes al mercado de trabajo, que sean suficientes para asegurar al Instituto la contratación y permanencia de los mejores servidores públicos de mando y trabajadores;
+
+IV. Capacitación y desarrollo integral relacionados con las actividades sustantivas del Instituto y vinculados a la mejora de los servicios que se presten, a fin de garantizar la eficiencia en la prestación de los servicios, y
+
+V. Integridad, responsabilidad y conducta adecuada de este personal.
+
+> <small>(REFORMADO, D.O.F. 11 DE AGOSTO DE 2004)</small>
+
+Artículo 286 K. El Instituto administrará y manejará, conforme a los lineamientos que al efecto emita el Consejo Técnico, un fondo que se denominará Fondo para el Cumplimiento de Obligaciones Laborales de Carácter Legal o Contractual, con objeto de disponer de los recursos necesarios en el momento de la jubilación de sus trabajadores. Al efecto, el Consejo Técnico aprobará las reglas del referido Fondo a propuesta del Director General, quien deberá escuchar previamente la opinión de la Secretaría de Hacienda y Crédito Público. El manejo del Fondo deberá tomar en consideración las políticas y lineamientos que la Administración Pública Federal aplica en dicha materia.
+
+Dicho Fondo deberá registrarse en forma separada en la contabilidad del Instituto estableciendo dentro de él una cuenta especial para el Régimen de Jubilaciones y Pensiones de los trabajadores del Instituto. Los recursos que se afecten en dicho Fondo y cuenta especial sólo podrán disponerse para los fines establecidos en este artículo.
+
+El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para el financiamiento de la cuenta especial del Régimen de Jubilaciones y Pensiones, recursos provenientes de las cuotas a cargo de los patrones y trabajadores establecidos en la Ley del Seguro Social. Tampoco podrá destinar recursos para dicho fin, de las contribuciones, cuotas y aportaciones, que conforme a la Ley del Seguro Social, son a cargo del Gobierno Federal; ni de las Reservas a que se refiere el artículo 280 de esta Ley o de los productos financieros que de ellas se obtengan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
 ### CAPITULO IX. DE LOS MEDIOS DE COMUNICACIÓN
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
@@ -3548,17 +3634,13 @@ Artículo 286 M. El Instituto podrá efectuar notificaciones, citatorios, emplaz
 
 Artículo 286 N. Cuando los documentos se presenten a través de los medios de comunicación a que se refiere este Capítulo, se utilicen para efectos del pago de cuotas obrero patronales, u otros trámites relacionados con ello, se regirán por lo que respecto de ese tipo de documentos se establezca en el Código.
 
-### CAPITULO I. DE LOS CRÉDITOS FISCALES
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS, DE LA CADUCIDAD Y PRESCRIPCION
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO I. DE LOS CRÉDITOS FISCALES
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 287.
 
@@ -3594,9 +3676,9 @@ El Instituto deberá, al recibir el aviso de sustitución, comunicar al patrón 
 
 Cuando los trabajadores de una empresa reciban los bienes de ésta en pago de prestaciones de carácter contractual por la resolución judicial, en términos de lo establecido por la Ley Federal del Trabajo, y directamente se encarguen de su operación, no se considerará como sustitución patronal para los efectos de esta Ley.
 
-### CAPITULO III. DE LA CADUCIDAD Y PRESCRIPCION
+### CAPITULO II. DE LOS PROCEDIMIENTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 #### SECCION PRIMERA. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
@@ -3662,9 +3744,9 @@ El procedimiento administrativo de queja deberá agotarse previamente al conocim
 
 La resolución de la queja se hará en los términos que establezca el instructivo respectivo.
 
-### CAPITULO I. DE LAS RESPONSABILIDADES
+### CAPITULO III. DE LA CADUCIDAD Y PRESCRIPCION
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 297.
 
@@ -3718,7 +3800,7 @@ La Secretaría de Hacienda y Crédito Público aprobará la metodología para de
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO I. DE LAS RESPONSABILIDADES
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3732,7 +3814,7 @@ Artículo 303 A. El incumplimiento de las obligaciones administrativas, que en s
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO III. DE LOS DELITOS
+### CAPITULO II. DE LAS INFRACCIONES Y SANCIONES
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3833,6 +3915,10 @@ La solicitud dará lugar a la suspensión del procedimiento administrativo de ej
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+
+### CAPITULO III. DE LOS DELITOS
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 305.
 
@@ -4615,3 +4701,15 @@ D.O.F. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE PERSONAS TRABAJADORAS DEL HOGAR”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las reformas y adiciones a la Ley del Seguro Social publicadas en el Diario Oficial de la Federación el 2 de julio de 2019, iniciarán su vigencia al día siguiente de la publicación del presente Decreto.
+
+Tercero. El Instituto Mexicano del Seguro Social deberá realizar las modificaciones para la debida operación del contenido de la presente reforma, para lo cual contará con un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Cuarto. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
