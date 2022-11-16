@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-11-15"
+last_updated: "2022-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -117,9 +117,9 @@ XXXI. TRIGESIMO PRIMER CIRCUITO: Estado de Campeche.
 
 XXXII. TRIGESIMO SEGUNDO CIRCUITO: Estado de Colima.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 30/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados de circuito y de apelación y los juzgados de Distrito que a continuación se precisan:
+SEGUNDO. Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados de circuito, tribunales colegiados de apelación y los juzgados de Distrito que a continuación se precisan:
 
 I. PRIMER CIRCUITO:
 
@@ -199,9 +199,9 @@ V. QUINTO CIRCUITO:
 
 1. Seis tribunales colegiados especializados; tres en materias penal y administrativa; y tres en materias civil y de trabajo, todos con residencia en Hermosillo.
 
-> <small>(REFORMADO, D.O.F. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 40/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-2. Seis tribunales unitarios con sede en Hermosillo.
+2. Un tribunal colegiado de apelación, con residencia en Hermosillo.
 
 > <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 14/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE AGOSTO DE 2022)</small>
 
@@ -213,7 +213,9 @@ VI. SEXTO CIRCUITO:
 
 1. Diez tribunales colegiados especializados: tres en materia penal, tres en materia administrativa y tres en materia civil, todos con residencia en San Andrés Cholula; uno en materia de trabajo, con sede en Puebla, Puebla".
 
-2. Dos tribunales unitarios con sede en San Andrés Cholula.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 44/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+2. Un Tribunal Colegiado de Apelación con residencia en San Andrés Cholula, Puebla.
 
 > <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 27/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -295,7 +297,9 @@ XII. DECIMOSEGUNDO CIRCUITO:
 
 1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
 
-2. Tres tribunales unitarios: dos con sede en Mazatlán y uno con residencia en Culiacán.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+2. Un tribunal colegiado de apelación con sede en Culiacán.
 
 > <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 22/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2021)</small>
 
@@ -335,9 +339,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 1. Ocho tribunales colegiados: seis con residencia en Mexicali y dos especializados en materia civil y de trabajo, con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 42/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana.
+2. Un tribunal colegiado de apelación, con residencia en Tijuana.
 
 > <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 13/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
 
@@ -471,7 +475,9 @@ XXVI. VIGESIMO SEXTO CIRCUITO:
 
 1. Un tribunal colegiado con residencia en La Paz.
 
-2. Un tribunal unitario con sede en La Paz.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 38/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+2. Un tribunal colegiado de apelación, con residencia en La Paz.
 
 3. Tres juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz.
 
@@ -573,7 +579,15 @@ IV. CUARTO CIRCUITO: Estado de Nuevo León.
 
 V. QUINTO CIRCUITO: Estado de Sonora, con excepción del municipio de San Luis Río Colorado.
 
+> <small>(ADICIONADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 40/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+El tribunal colegiado de apelación también ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Decimoquinto Circuito, que comprende el estado de Baja California y el municipio de San Luis Río Colorado en el Estado de Sonora, al tratarse del tribunal más cercano a la residencia.
+
 VI. SEXTO CIRCUITO: Estado de Puebla.
+
+> <small>(ADICIONADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 44/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+El tribunal colegiado de apelación también ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Decimotercer Circuito, que comprende el estado de Oaxaca, al tratarse del tribunal más cercano a la residencia.
 
 VII. SEPTIMO CIRCUITO: Estado de Veracruz, con excepción de los municipios de Acayucan, Agua Dulce, Coatzacoalcos, Cosoleacaque, Chinameca, Hidalgotitlán, Ixhuatlán del Sureste, Jáltipan, Jesús Carranza, Las Choapas, Mecayapan, Minatitlán, Moloacán, Nanchital de Lázaro Cárdenas del Río, Oluta, Oteapan, Pajapan, San Juan Evangelista, Sayula de Alemán, Soconusco, Soteapan, Tatahuicapan de Juárez, Texistepec, Uxpanapa y Zaragoza.
 
@@ -593,11 +607,11 @@ XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
 XII. DÉCIMO SEGUNDO CIRCUITO: Respecto de los tribunales colegiados en el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
-> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en los Mochis y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+El tribunal colegiado de apelación ejerce jurisdicción en el estado de Sinaloa y en el Archipiélago de las Islas Marías. También ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Vigésimo Sexto Circuito, que comprende el estado de Baja California Sur y el municipio de San Luis Río Colorado, del estado de Sonora, al tratarse del tribunal más cercano a la residencia.
 
-El tribunal unitario con residencia en Culiacán, tendrá la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
+> <small>(DEROGADO TERCER PÁRRAFO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
 XIII. DECIMOTERCER CIRCUITO: Estado de Oaxaca.
 
@@ -611,17 +625,13 @@ XIV. DECIMOCUARTO CIRCUITO: Estado de Yucatán.
 
 XV. DECIMOQUINTO CIRCUITO: En los tribunales colegiados con residencia en Mexicali, para las materias penal y administrativa, su jurisdicción es el Estado de Baja California y el municipio de San Luis Río Colorado del Estado de Sonora y por lo que toca a las materias civil y de trabajo, dicha jurisdicción se limita al municipio de San Luis Río Colorado del Estado de Sonora y a Mexicali, Baja California.
 
-> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 42/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-Los tribunales colegiados en materias civil y de trabajo con residencia en Tijuana, tendrán jurisdicción en el territorio que comprende dicho municipio y en los diversos de Ensenada, San Quintín, Playas de Rosarito y Tecate, en el Estado de Baja California.
+El tribunal colegiado de apelación ejerce jurisdicción en el estado de Baja California y el municipio de San Luis Río Colorado, del estado de Sonora. También ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Quinto Circuito, que comprende el Estado de Sonora, con excepción del Municipio de San Luis Rio Colorado, al tratarse del tribunal más cercano a la residencia.
 
-> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 42/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
-Los tribunales unitarios con residencia en Mexicali, será igual a la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en dicha ciudad.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 20/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
-
-Los tribunales unitarios con residencia en Tijuana tendrán la misma que la establecida para los juzgados de Distrito en el Estado de Baja California, con sede en la citada ciudad y en Ensenada.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 42/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
 XVI. DECIMOSEXTO CIRCUITO: Estado de Guanajuato.
 
@@ -676,6 +686,10 @@ XXIV. VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 XXV. VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los municipios de General Simón Bolívar, Gómez Palacio, Lerdo, Mapimí, Nazas, San Juan de Guadalupe, San Luis del Cordero, San Pedro del Gallo y Tlahualilo.
 
 XXVI. VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+> <small>(ADICIONADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 38/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
+
+El tribunal colegiado de apelación también ejercerá jurisdicción para conocer de los juicios de amparo indirecto promovidos en contra de actos del Tribunal Colegiado de Apelación del Decimosegundo Circuito, que comprende el estado de Sinaloa y el Archipiélago de las Islas Marías, al tratarse del tribunal más cercano a la residencia.
 
 XXVII. VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
@@ -9324,3 +9338,141 @@ CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Dirección 
 QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los Tribunales Colegiados de Apelación del Primer Circuito que inician funciones.
 
 SEXTO. Las referencias hechas en otros ordenamientos a los Tribunales Unitarios en Materias Civil, Administrativa y Especializados Competencia Económica, Radiodifusión y Telecomunicaciones se entenderán realizadas a los Tribunales Colegiados de Apelación a que se refiere este Acuerdo.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL DÉCIMO SEGUNDO CIRCUITO, CON RESIDENCIA EN CULIACÁN, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Los Tribunales Unitarios de Circuito que concluirán funciones remitirán los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos:
+
+a. Para el Tribunal Colegiado de Apelación, los días del 16 al 23 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad; y
+
+b. Para los Tribunales Unitarios Primero y Segundo del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa, los días del 8 al 15 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad.
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Décimo Segundo Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 38/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL VIGÉSIMO SEXTO CIRCUITO, CON RESIDENCIA EN LA PAZ, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. El Tribunal Unitario de Circuito que concluirá funciones remitirá los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días del 16 al 18 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, y Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Vigésimo Sexto Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 40/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Los Tribunales Unitarios de Circuito que concluirán funciones remitirán los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días del 16 al 18 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Quinto Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL DECIMOQUINTO CIRCUITO, CON RESIDENCIA EN TIJUANA, BAJA CALIFORNIA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, Y DOMICILIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Los Tribunales Unitarios de Circuito que concluirán funciones remitirán los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos:
+
+a. Para el Tribunal Colegiado de Apelación, los días del 16 al 23 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad; y
+
+b. Para los Tribunales Unitarios Primero, Segundo, Séptimo y Décimo del Decimoquinto Circuito, con residencia en Mexicali, Baja California, los días del 8 al 15 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad.
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, y Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Decimoquinto Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 16 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 44/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL SEXTO CIRCUITO, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Los Tribunales Unitarios de Circuito que concluirán funciones remitirán los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos, los días del 16 al 18 de noviembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad;
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, y Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Sexto Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
