@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2022-10-06"
+last_updated: "2022-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -444,6 +444,10 @@ Las personas que hayan sido designadas como integrantes del Comité Técnico de 
 Jurado. El Jurado es el órgano encargado de evaluar las etapas subsecuentes al cuestionario de los concursos de oposición no escolarizados y escolarizados, conforme lo establecido en la Ley y el presente Acuerdo.
 
 El Jurado podrá dividirse para evaluar a distintas personas aspirantes y podrá haber integrantes del Jurado que sólo participen en una evaluación y no en otra, de acuerdo con las especificidades y necesidades de cada concurso.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LAS ATRIBUCIONES DEL PRESIDENTE O LA PRESIDENTA DEL JURADO EN LOS CONCURSOS DE OPOSICIÓN QUE SE CELEBREN ANTE EL PROPIO CONSEJO, CONFORME A LA REFORMA JUDICIAL, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
+
+La participación del Presidente o la Presidenta del Jurado, puede variar atendiendo a la forma en que el Jurado decida dividirse en cada concurso, de tal manera que, si el Presidente o la Presidenta del Jurado realiza funciones de coordinación, ello no exige que participe en forma presencial en la evaluación de todas las personas sustentantes que intervengan en las etapas que evalúe el Jurado.
 
 ###### Artículo 27.
 
@@ -2484,3 +2488,11 @@ CUARTO. El Curso de Formación para personas Secretarias de Tribunal de Circuito
 QUINTO. Los y las vencedoras del Curso de formación para personas secretarias de Juzgado de Distrito: Concurso escolarizado edición 2022 serán integradas a la única lista nacional a que hace referencia el penúltimo párrafo del artículo 60 del presente Acuerdo.
 
 SEXTO. La solicitud de revisión operará respecto de los resultados del Primer Concurso Abierto de Oposición para acceder al cargo de Oficial Judicial del Poder Judicial de la Federación, conforme a la Reforma al Poder Judicial, por lo que la referencia hecha al recurso de reconsideración en la base Octava de la Convocatoria correspondiente se entenderá hecha a la solicitud de revisión.
+
+D.O.F. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LAS ATRIBUCIONES DEL PRESIDENTE O LA PRESIDENTA DEL JURADO EN LOS CONCURSOS DE OPOSICIÓN QUE SE CELEBREN ANTE EL PROPIO CONSEJO, CONFORME A LA REFORMA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
