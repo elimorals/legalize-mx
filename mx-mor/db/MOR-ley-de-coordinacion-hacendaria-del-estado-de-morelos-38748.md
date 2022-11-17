@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2022-06-15"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -119,31 +119,33 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-A los Municipios de la Entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
+A los municipios de la entidad les corresponde y percibirán ingresos por concepto de las participaciones federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-I. Del Fondo General de Participaciones, el 20% del total;
+I. Del Fondo General de Participaciones, el 22% del total;
 
 II. Del Fondo de Fomento Municipal, el 100%;
 
-III. Del Impuesto Especial sobre Producción y Servicios, el 20% del total;
+III. Del Impuesto Especial sobre Producción y Servicios, el 22% del total;
 
-IV. Del Impuesto Sobre Automóviles el 20% del total incluyendo el Fondo de Compensación de dicho impuesto;
+IV. Del Impuesto Sobre Automóviles el 22% del total incluyendo el Fondo de Compensación de dicho impuesto;
 
-V. Del Impuesto Especial Sobre Producción y Servicios a la venta de gasolinas y diésel, el 20% del total, en forma proporcional al coeficiente que resulte de dividir el total de la población de cada Municipio, entre el total de la población de los municipios del estado de Morelos de acuerdo con la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía;
+V. Del Impuesto Especial Sobre Producción y Servicios a la venta de gasolinas y diésel y, en su caso su respectivo fondo de compensación, el 22% del total, en forma proporcional al coeficiente que resulte de dividir el total de la población de cada municipio, entre el total de la población de los municipios del estado de Morelos de acuerdo con la última información oficial de población que hubiere dado a conocer el Instituto Nacional de Estadística y Geografía;
 
-VI. Del Fondo de Fiscalización y Recaudación que disponga la Ley de Coordinación Fiscal, 20% del total; en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
+VI. Del Fondo de Fiscalización y Recaudación que disponga la Ley de Coordinación Fiscal, y del Impuesto sobre la renta por enajenación de bienes inmuebles, el 22% del total; en forma proporcional al coeficiente que resulte de dividir el total de las participaciones que incluya el fondo general, el fondo de fomento municipal, el fondo de fiscalización y recaudación, el Impuesto Especial Sobre Producción y Servicios y la Cuota por Venta Final de Combustibles efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas anteriormente citadas, a todos los municipios en el ejercicio fiscal inmediato anterior;
 
-VII. De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en la dependencias del municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
+VII. De la recaudación que se obtenga del Impuesto Sobre la Renta efectivamente enterado a la federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en dependencias del municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones y otros ingresos locales, el 100%.
 
 Para efectos del párrafo anterior, se considera la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
 
-Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los municipios deberán enterar a la federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales, así como cumplir con los requisitos fiscales en materia de expedición de Comprobantes Fiscales Digitales por Internet, y
+Para que resulte aplicable lo dispuesto en el primer párrafo de esta fracción, los municipios deberán enterar a la federación el 100% de la retención que deben efectuar del Impuesto sobre la Renta correspondiente a los ingresos por salarios que paguen con cargo a los recursos federales, así como cumplir con los requisitos fiscales en materia de expedición de Comprobantes Fiscales Digitales por internet; y,
 
-VIII. De los ingresos que por concepto de participaciones en ingresos federales le distribuya la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
+VIII. De los ingresos que por concepto de participaciones en ingresos federales le distribuya la federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los municipios el 22% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
+
+Los ingresos que reciba el estado derivados del Fondo de Estabilización de los Ingresos de las Entidades Federativas, se distribuirán de conformidad con los mismos coeficientes que se utilizan para la distribución de los ingresos del Fondo General de Participaciones, Fondo de Fomento Municipal y Fondo de Fiscalización y Recaudación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2019)</small>
 
@@ -814,3 +816,13 @@ PRIMERO. Remítase el presente al titular del Poder Ejecutivo del Estado, para l
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO QUINIENTOS SETENTA Y OCHO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del 01 de enero de 2023, previa publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
