@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2022-10-28"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -845,7 +845,7 @@ i) Copia certificada del documento migratorio que acredite su condición de esta
 
 j) Original o copia certificada del documento expedido por el sector salud que acredite dicha condición, tratándose de personas con discapacidad;
 
-k) Copia certificada de la cartilla liberada del Servicio Militar Nacional, en su caso;
+K) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CARTILLA DEL SERVICIO MILITAR NACIONAL, D.O.F. 17 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -937,17 +937,25 @@ Los servidores públicos de nuevo ingreso, tienen la obligación de proporcionar
 
 En todos los casos de movimientos de personal los titulares de órganos jurisdiccionales y áreas administrativas, deberán verificar que los candidatos propuestos a ocupar una plaza vacante, cumplan con los requisitos previstos en el perfil del puesto que establece el Manual General de Puestos del Consejo de la Judicatura Federal.
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CARTILLA DEL SERVICIO MILITAR NACIONAL, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Las y los titulares de los órganos jurisdiccionales y de las áreas administrativas o la persona servidora pública que designen están facultados para certificar electrónicamente para efectos administrativos la documentación personal señalada en los incisos a), b), c), h), i) y j) de la fracción I, del artículo 24 de este Acuerdo, cuando se trate de documentos impresos firmados autógrafamente y se hubiesen digitalizado. Para tales efectos se autoriza la siguiente leyenda:
+Los titulares de los órganos jurisdiccionales y de las áreas administrativas o el servidor público que designen están facultados para certificar administrativamente la documentación personal señalada en los incisos a), b), c), h), i) y j) de la fracción I, del artículo 24 de este Acuerdo, para tales efectos se autoriza la siguiente leyenda:
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 En la ciudad de ____________, a los ______ días del mes de ________, de dos mil ______, en términos de lo dispuesto en el artículo 27 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo, el (nombre, cargo y adscripción), certifica que el presente documento es copia fiel y exacta del original que se tuvo a la vista. CONSTE. ----------------------------------------------
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 (Nombre de la adscripción) (nombre y firma electrónica de la persona servidora pública que certifica)
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
 Los documentos que de origen fueron generados por medios electrónicos y firmados con alguna de las firmas electrónicas aceptadas por los Acuerdos Generales del Consejo de la Judicatura Federal, por su naturaleza no requieren esta certificación y las áreas administrativas del Consejo no pueden exigir su representación impresa, con la única intención de que contengan la certificación.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 La Dirección General de Tecnologías de la Información, en coordinación con la Dirección General de Estrategia y Transformación Digital, deben generar las aplicaciones necesarias para facilitar la verificación de la validez de los documentos electrónicos, a efecto de simplificar los procesos administrativos y evitar que se exijan prácticas que únicamente cobran sentido para los documentos impresos y firmados autógrafamente.
 
@@ -14335,7 +14343,7 @@ SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General
 
 D.O.F. 28 DE OCTUBRE DE 2022.
 
-> <small>[N. DE E. "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO".]</small>
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO".]
 
 PRIMERO. El presente Acuerdo entrará en vigor el 7 de noviembre de 2022.
 
@@ -14388,3 +14396,11 @@ DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del C
 DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
 
 > <small>[N. DE E. VÉASE ANEXO TÉCNICO DEL PROTOCOLO PARA EL USO DE LA VIDEOCONFERENCIA EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL EN EL D.O.F. DE 28 DE OCTUBRE DE 2022, PÁGINAS DE LA 272 A LA 280.]</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CARTILLA DEL SERVICIO MILITAR NACIONAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
