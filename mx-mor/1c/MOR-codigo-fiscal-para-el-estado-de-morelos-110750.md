@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2020-01-29"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -523,9 +523,11 @@ Para los efectos mencionados en el párrafo anterior, se deberá contar con un c
 
 En los Documentos Digitales una Firma Electrónica amparada por un certificado vigente sustituirá a la firma autógrafa del Firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 37.
 
-Al momento de su inscripción o alta en el Padrón de Contribuyentes del Estado, la Secretaría asignará al contribuyente una Contraseña Electrónica del Gobierno del estado de Morelos personalizada a través de la cual el contribuyente podrá ingresar a la página electrónica de la Secretaría para realizar los trámites y servicios habilitados en la página para la consulta de datos, presentación de declaraciones y el pago de entero de contribuciones.
+Al momento de su inscripción o alta en el padrón de contribuyentes del estado, la Secretaría, asignará al contribuyente un usuario y una contraseña electrónica, a través de la cual el contribuyente podrá ingresar a la página electrónica de la Secretaría, para realizar los trámites y servicios habilitados en la página, para la consulta de datos, presentación de declaraciones y el pago de entero de contribuciones.
 
 La Contraseña Electrónica del Gobierno del estado de Morelos que hubiere sido asignada en términos del párrafo anterior será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma.
 
@@ -1249,11 +1251,31 @@ III. No se encuentren inscritos en el Registro Federal de Contribuyentes o en el
 
 IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+V. Estando inscritos en el registro federal de contribuyentes, se encuentren como no localizados;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VI. Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VII. No hayan desvirtuado la presunción de emitir comprobantes fiscales que amparan operaciones inexistentes o transmitir indebidamente pérdidas fiscales y, por tanto, se encuentren en los listados a que se refieren los artículos 69-B cuarto párrafo o 69-B Bis, noveno párrafo del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Hayan manifestado en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, ingresos y retenciones que no concuerden con los comprobantes fiscales digitales por internet, expedientes, documentos o bases de datos que lleven las autoridades fiscales, tenga en su poder o a las que tengan acceso.
+
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
 Para estos efectos, en el convenio se establecerá que las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, retengan una parte de la contraprestación para ser enterada al Fisco para el pago de los adeudos correspondientes.
 
 Igual obligación tendrán los municipios cuando realicen dichas contrataciones con cargo total o parcial a fondos federales o estatales.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que se obtiene a través de la página de Internet del Servicio de Administración Tributaria.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES FISCALES
 
@@ -1397,7 +1419,15 @@ Se considera que existe incosteabilidad en el cobro de créditos fiscales cuando
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito.
 
-También procederá la cancelación señalada en este artículo por incobrabilidad en los casos que el deudor no se pueda localizar, y no se conozcan bienes que puedan ser objeto del procedimiento administrativo de ejecución o cuando hubiere fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+También procederá la cancelación por incobrabilidad, cuando se actualice alguno de los siguientes supuestos:
+
+I. El deudor no se pueda localizar;
+
+II. No se conozcan bienes que puedan ser objeto del procedimiento administrativo de ejecución; o,
+
+III. Cuando hubiere fallecido el deudor, sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago a los obligados.
 
@@ -2101,21 +2131,27 @@ Toda notificación personal realizada con quien deba entenderse será legalmente
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 144.
 
-Cuando la notificación deba efectuarse personalmente en el domicilio de la persona buscada y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil siguiente.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, señalando el día y la hora en que se actúa, y que el objeto del mismo es para que el destinatario de la notificación espere en dicho lugar a una hora fija del día hábil posterior que se señale en el mismo; en caso de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia o quien se encuentre se niegue a recibir el citatorio, éste se fijará en el acceso principal de dicho lugar y de ello, el notificador levantará una constancia.
 
-Al hacerse la notificación, se entregará al notificado o a la persona con quien se entienda la diligencia el documento a que se refiere la notificación.
+El día y hora señalados en el citatorio, el notificador deberá constituirse en el domicilio del interesado, y deberá requerir nuevamente la presencia del destinatario y notificarlo, pero si la persona citada o su representante legal no acudiera a la cita, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por cualquiera de los medios previstos en el artículo 138 de este código.
+
+Al hacerse la notificación, se entregará al notificado o a la persona con quien se entienda la diligencia el documento a que se refiere la notificación, entendiéndose que para el caso de las notificaciones dentro del procedimiento administrativo de ejecución, el documento al que hace referencia este párrafo consiste en el requerimiento de pago y/o mandamiento de ejecución.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales se causarán, a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad equivalente a 2.00 UMA. Dicha cantidad se hará del conocimiento del contribuyente conjuntamente con la notificación y se deberá pagar al cumplir con la obligación requerida.
 
 En caso de no cumplir con el requerimiento a que se refiere el párrafo anterior, se aplicará la multa que corresponda.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 145.
 
-Las notificaciones por estrados, previo acuerdo de la autoridad competente, se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales.
+Las notificaciones por estrados se harán fijando durante seis días hábiles el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda, la autoridad dejará constancia de ello en el expediente respectivo.
+
+En los casos que se precisan en el párrafo anterior, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente de aquél en el que se hubiera fijado o publicado el documento a notificar.
 
 La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día siguiente al primer día en que se hubiera fijado o publicado el documento.
 
@@ -2135,9 +2171,11 @@ Las notificaciones realizadas en términos de este artículo se consideran efect
 
 ### CAPÍTULO II. DE LA GARANTÍA DEL INTERÉS FISCAL
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 148.
 
-En materia fiscal, así como en los casos de contratos administrativos, autorizaciones, permisos y concesiones, podrán garantizarse los intereses del Fisco, en cualquiera de las siguientes formas:
+En materia fiscal, así como en los casos de contratos administrativos, autorizaciones, permisos y concesiones, podrán garantizarse los intereses del Fisco, ante la autoridad fiscal que cuenta con atribuciones para substanciar o llevar a cabo el procedimiento administrativo de ejecución, en cualquiera de las siguientes formas:
 
 I. Depósito de dinero en la Secretaría o en las instituciones de crédito autorizadas para tal efecto;
 
@@ -2147,7 +2185,7 @@ III. Fianza otorgada por institución autorizada, la que no gozará de los benef
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
-V. Embargo en la vía administrativa, o
+V. Embargo en la vía administrativa; o,
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que se determine por la Secretaría.
 
@@ -2155,9 +2193,9 @@ La garantía deberá comprender, además de las contribuciones y su actualizaci�
 
 La Secretaría vigilará que las garantías sean suficientes, tanto en el momento de su aceptación como con posterioridad, y si no lo fueren exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+En los casos en que de acuerdo con la Ley de Justicia Administrativa del Estado de Morelos, o en su caso, la Ley de Amparo, se solicite ante el órgano jurisdiccional competente la suspensión contra actos relativos a determinación, liquidación, ejecución o cobro de contribuciones, aprovechamientos y otros créditos de naturaleza fiscal, el interés fiscal se deberá garantizar ante la autoridad hacendaria que cuente con atribuciones para substanciar el procedimiento administrativo de ejecución, por cualquiera de los medios previstos en este código.
 
-La garantía deberá constituirse dentro de los quince días siguientes a que surta efectos la notificación de la resolución sobre la cual se deba garantizar el interés fiscal, efectuada por la autoridad fiscal correspondiente, salvo en los casos en que se indique un plazo diferente en este Código.
+La garantía deberá constituirse dentro de los quince días siguientes a que surta efectos la notificación de la resolución sobre la cual se deba garantizar el interés fiscal, efectuada por la autoridad fiscal correspondiente, salvo en los casos en que se indique un plazo diferente en este código.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía, con excepción de los casos en que participen autoridades federales y municipales, previa autorización de la persona titular de la Secretaría.
 
@@ -3698,5 +3736,15 @@ P.O. 29 DE ENERO DE 2020.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2020, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y OCHO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del 01 de enero de 2023, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
