@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2022-09-09"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -771,9 +771,9 @@ La formulación del Gasto Público se basará en las orientaciones, lineamientos
 
 B. El Ejecutivo elaborará las iniciativas de Ley de Ingresos del Estado y de Presupuesto de Egresos del Estado, las cuales hará llegar al Congreso a más tardar el día 31 de octubre del año anterior al de su vigencia debiendo comparecer el secretario del despacho correspondiente a dar cuenta de las mismas. La modificación a dicho plazo procederá en los términos que fije la ley.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-Cuando se trate del año en que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de esta constitución, o en su caso se trate de aquel en que entra en funciones el titular del Poder Ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el 15 de diciembre.
+Cuando se trate del año en el que el titular del Ejecutivo inicie su encargo en los términos del artículo 63 de esta constitución, o en su caso se trate de aquel en que entra en funciones el titular del Poder ejecutivo federal en los términos del artículo 83 de la Constitución Política de los Estados Unidos Mexicanos, la presentación a la que se alude deberá realizarse a más tardar el treinta de noviembre.
 
 En caso de que por cualquier motivo se omita en forma tácita la presentación de algunas de las iniciativas a que alude el párrafo anterior, servirán como iniciativas la Ley de Ingresos y el Presupuesto de Egresos vigente.
 
@@ -4502,3 +4502,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Por única ocasión el informe relativo al primer año de ejercicio constitucional al que se refiere el artículo 42 de la Constitución Política del Estado Libre y Soberano de Nayarit se realizará el veintiuno de septiembre.
 
 TERCERO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL PÁRRAFO SEGUNDO DEL APARTADO B DEL ARTÍCULO 38 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE y SOBERANO DE NAYARIT, EN MATERIA PRESUPUESTAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
