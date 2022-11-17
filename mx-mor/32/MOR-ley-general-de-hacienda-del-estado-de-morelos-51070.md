@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2022-07-06"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -85,7 +85,9 @@ Las personas físicas o personas morales, están obligadas a contribuir para el 
 
 Las contribuciones que se establecen en esta Ley, se pagarán en los términos que en cada Título o Capítulo se señalan, y en lo no previsto se aplicará el Código Fiscal para el Estado de Morelos.
 
-Los derechos se pagarán previamente a la prestación de los servicios públicos que proporcione el Estado; los demás ingresos se pagarán de conformidad con la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+Los derechos se pagarán previamente a la prestación de los servicios públicos que proporcione el estado; con excepción de los prestados por la Dirección General de la Policía Industrial Bancaria y Auxiliar y algunas otras instituciones, que dada la naturaleza de tracto sucesivo de la prestación de sus servicios, se pagarán una vez prestado el mismo. Los demás ingresos se pagarán de conformidad con la presente ley.
 
 Los impuestos, derechos y demás ingresos que tenga derecho a percibir el Estado podrán recaudarse por sí, por los organismos de la administración pública paraestatal, sea federal o estatal, por instituciones de crédito o empresas autorizadas o concesionadas, así como a través de medios electrónicos.
 
@@ -921,7 +923,7 @@ No causarán este impuesto los Partidos Políticos en los términos de la legisl
 
 OBJETO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 58 Bis
 
@@ -1015,9 +1017,9 @@ PAGO
 
 5.- El pago de este impuesto deberá efectuarse a más tardar el día 17 del mes siguiente en que se causó.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-Dicho pago se hará mediante declaración en las oficinas recaudadoras que correspondan o ante las Instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría.
+Dicho pago se realizará en las oficinas recaudadoras que correspondan o ante las Instituciones bancarias, centros o medios electrónicos autorizados por la Secretaría, una vez generada la línea de captura correspondiente a la declaración.
 
 La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
 
@@ -1149,9 +1151,15 @@ DISPOSICIONES GENERALES
 
 8.- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-Artículo 58 BIS-9.- Una cantidad equivalente al 50% del total de los recursos que se recauden por el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de la Federación, del Estado y de los Municipios, en los términos del artículo 4 de esta Ley; así como los Poderes Legislativo y Judicial y Organismos Públicos Autónomos que no se integrará al referido Fondo. Excepcionalmente, cuando en el ejercicio fiscal se requiera destinar recursos financieros para la atención de daños ocasionados por contingencias o desastres naturales oficialmente declarados en términos de la normativa aplicable, que hubieren acontecido hasta en dos ejercicios anteriores al que se trate, podrá determinarse la cancelación, total o parcial, de la asignación establecida en el párrafo primero de este artículo, con el objeto exclusivo de destinarse a los fines de atención señalados.
+Artículo 58 BIS-9.- Una cantidad equivalente al 50% del total de los recursos que se recauden por el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de la federación, del estado y de los municipios, en los términos del artículo 4 de esta ley; así como los Poderes Legislativo y Judicial y organismos públicos autónomos que no se integrará al referido Fondo.
+
+El objeto del Fondo de Competitividad y Promoción del Empleo será el de destinar recursos para la ejecución de proyectos que eleven la competitividad y fomenten la generación de empleos en el estado de Morelos, lo anterior de acuerdo a los lineamientos que para tal efecto autorice la Secretaría de Hacienda y la Secretaría de Desarrollo Económico y del Trabajo.
+
+Adicionalmente, a los recursos previstos en el presente artículo, el fondo de competitividad aludido podrá, en su caso, recibir y administrar recursos financieros y materiales derivados de otras fuentes de ingresos.
+
+Excepcionalmente, cuando en el ejercicio fiscal se requiera destinar recursos financieros para la atención de daños ocasionados por contingencias o desastres naturales oficialmente declarados en términos de la normativa aplicable, que hubieren acontecido hasta en dos ejercicios anteriores al que se trate, podrá determinarse la cancelación, total o parcial, de la asignación establecida en el párrafo primero de este artículo, con el objeto exclusivo de destinarse a los fines de atención señalados.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
 
@@ -1175,7 +1183,9 @@ OBJETO
 
 ###### Artículo 58 Ter
 
-1. Es objeto de este impuesto las demasías caducas, siendo éstas los remanentes que quedan a favor del deudor prendario y que puestos a disposición de éste último no son cobrados a las casas de empeño, después de que éstas últimas descuentan al monto de la venta de la prenda, el monto del préstamo, los intereses devengados y los gastos de almacenaje.
+1. Es objeto de este impuesto las demasías caducas, siendo éstas los remanentes que quedan a favor del deudor prendario y que puestos a disposición de este último no son cobrados a las casas de empeño dentro del plazo establecido en el contrato de prenda, después de que éstas últimas descuentan a la cantidad de la venta de la prenda, el monto del préstamo, los intereses devengados y los gastos de almacenaje.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Para efectos de lo dispuesto en el párrafo anterior, se entenderá por gastos de almacenaje a todas aquellas erogaciones que se realicen para mantener la prenda en el estado en que se recibió del deudor prendario.
 
@@ -1213,11 +1223,11 @@ TASA
 
 PAGO
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 58 Ter
 
-5.- El pago del impuesto sobre las demasías caducas se efectuará mediante declaración bimestral definitiva en la Secretaría, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero, según corresponda al mes en que se haya producido la enajenación de la prenda de que se trate.
+5. El pago del impuesto sobre las demasías caducas se efectuará mediante declaración bimestral definitiva en la secretaría, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la secretaría, dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero, según corresponda al mes en que se haya producido la demasía caduca en términos de lo que establece el artículo 58 TER-1.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1505,6 +1515,12 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 XV (SIC). Cancelación de Registro 14.00
 
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Levantamiento de acta de nacimiento por
+
+reasignación de concordancia sexo genérica. 10
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
@@ -1709,11 +1725,13 @@ c) Certificados de inexistencia
 
 de registro: 11.50
 
-d) Certificados de no propiedad: 2.50
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-e) Certificados de inscripción
+d) Constancias de no propiedad: 2.50
 
-de propiedad: 7.00
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+e) Constancias de inscripción de propiedad: 7.00
 
 f) Informes y constancias
 
@@ -2237,7 +2255,7 @@ No se causará este derecho, cuando se realicen anotaciones marginales por proce
 
 ### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 84.
 
@@ -2621,6 +2639,26 @@ F) Reposición de licencia para manejar vehículos:
 
 4. Operador certificado: 3.40
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XIV Licencia Digital
+
+A) Con vigencia de tres años:
+
+1 Chofer 8.40
+
+2 Automovilista 6.40
+
+3 Motociclista 5.40
+
+B) Con vigencia de cinco años:
+
+1 Chofer 9.90
+
+2 Automovilista 7.90
+
+3 Motociclista 6.90
+
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 84 Bis.
@@ -2649,7 +2687,13 @@ Para la reposición o sustitución de placas metálicas de circulación de unida
 
 I.- Solicitar la inscripción del vehículo automotor de que se trate en el padrón estatal vehicular, dentro de los treinta días naturales siguientes de su adquisición; en el caso de vehículos recuperados o rehabilitados que se hayan acreditado como robados o siniestrados, los propietarios o poseedores contarán con un plazo de treinta días naturales posteriores a la fecha de recuperación o rehabilitación para solicitar la inscripción al padrón estatal vehicular, previo pago de los derechos por servicios de control vehicular que corresponda.
 
-II.- Solicitar la baja del padrón estatal vehicular dentro de los quince días naturales siguientes en que se den los supuestos de robo, siniestro, enajenación y/o traslado a otra Entidad Federativa.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+II.- Solicitar la baja del padrón estatal vehicular:
+
+a) Previo a los actos de enajenación y/o traslado a otra entidad federativa; y,
+
+b) Dentro de los quince días naturales siguientes al que se den los supuestos de robo o siniestro.
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2767,11 +2811,13 @@ Auxiliar Operativo y Técnico de Impresión: 9.00
 
 verificación vehicular: 1.00
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 6. Multa por el incumplimiento de la
 
-verificación vehicular obligatoria
+verificación vehicular obligatoria Mínima Máxima
 
-o ser ostensiblemente contaminante: 14.00
+o ser ostensiblemente contaminante: 12.00 16.00
 
 II. En materia de impacto ambiental:
 
@@ -2973,9 +3019,9 @@ función de su capacidad de transporte:
 
 1.1. Hasta 3.5 toneladas: 12.50
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-1.1.1. Por prórroga de la autorización 12.50
+1.1.1. Por prórroga de la autorización 6.25
 
 1.2. De más de 3.5 y hasta 8 toneladas: 25.00
 
@@ -2985,9 +3031,9 @@ función de su capacidad de transporte:
 
 1.3. De más de 8 toneladas: 50.00
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-1.3.1. Por prórroga de la autorización 25
+1.3.1. Por prórroga de la autorización 25.00
 
 2. De tratamiento de residuos orgánicos,
 
@@ -3001,9 +3047,9 @@ por capacidad de almacenamiento:
 
 2.2. De más de 30 y hasta 60 toneladas: 25.00
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-2.2.1. Por prórroga de la autorización 12.05
+2.2.1. Por prórroga de la autorización 12.50
 
 2.3. De más de 60 toneladas: 50.00
 
@@ -3019,9 +3065,9 @@ sólidos urbanos y de manejo especial:
 
 3.1. Hasta 30 toneladas: 12.50
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-3.1.1. Por prórroga de la autorización 12.50
+3.1.1. Por prórroga de la autorización 6.25
 
 3.2. De más de 30 y hasta 60 toneladas: 25.00
 
@@ -3031,9 +3077,9 @@ sólidos urbanos y de manejo especial:
 
 3.3. De más de 60 toneladas: 50.00
 
-> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-3.3.1. Por prórroga de la autorización 25
+3.3.1. Por prórroga de la autorización 25.00
 
 4. De capacidad de tratamientos térmicos,
 
@@ -3115,11 +3161,11 @@ urbanos y de manejo especial:
 
 sólidos urbanos y de manejo especial: 20.00
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 7.2. Actualización cada tercer año posterior al
 
-registro: 10
+registro: 10.00
 
 7.3. Por cada metro cuadrado a constituir
 
@@ -3387,7 +3433,9 @@ por página: 0.01
 
 D) Copia simple de plano:
 
-1. Plano de hasta 90 cm x 60 cm: 1.32
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+1. Plano de 90 cm x 60 cm: 1.32
 
 2. Por cada fracción adicional
 
@@ -3400,6 +3448,10 @@ ancho: 0.60
 2.2. Por cada 30 cm adicionales de
 
 longitud: 0.40
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+3. Plano con dimensiones menores de 90X60 cm: 1.00
 
 E) Copia certificada de documento:
 
@@ -3429,17 +3481,27 @@ de ancho: 0.90
 
 de longitud: 0.80
 
-G) Opinión técnica en el marco de
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-los Programas de Desarrollo Urbano
+3. Plano con dimensiones menores de 90X60 cm: 2.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+G) Opinión técnica en materia de
+
+uso de suelo en el marco de los
+
+Programas de Desarrollo Urbano
 
 Sustentable:
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 1. De un predio, parcela o
 
 polígono sin compatibilidades
 
-de suelo: 2.00
+de uso de suelo: 2.00
 
 2. De un predio, parcela o
 
@@ -3447,43 +3509,51 @@ polígono con compatibilidades
 
 de un solo uso de suelo 6.00
 
-3. Sobre compatibilidad de un
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+3. Sobre la compatibilidad de
+
+uso de suelo respecto de un
 
 proyecto o anteproyecto
 
 (sin planos arquitectónicos)
 
-ubicado en un predio, parcela
+ubicado en un predio, parcela o polígono: 6.00
 
-o polígono: 6.00
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-4. Sobre compatibilidad de un
+4. Sobre la compatibilidad de
+
+uso de suelo respecto de un
 
 proyecto o anteproyecto
 
 (anexando planos arquitectónicos)
 
-sobre en un predio, parcela
+sobre un predio, parcela o polígono: 8.00
 
-o polígono: 8.00
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-5. Sobre el potencial de
+5. Sobre el potencial de densificación
 
-densificación (poblacional
+(poblacional o de vivienda)
 
-o de vivienda) sobre un predio,
+respecto al uso de suelo de un
 
-parcela o polígono: 15.00
+predio, parcela o polígono: 15.00
 
-6. Sobre el potencial de
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-densificación (poblacional
+6. Sobre el potencial de densificación
 
-o de vivienda) sobre un predio,
+(poblacional o de vivienda)
 
-parcela o polígono (anexando
+respecto al uso de suelo de un
 
-planos arquitectónicos): 20.00
+predio, parcela o polígono
+
+(anexando planos arquitectónicos) 20.00
 
 H) Opinión técnica de compatibilidad
 
@@ -3799,15 +3869,15 @@ aeropuertos: 397.40
 
 8.8. Parques industriales: 635.85
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-C) Factibilidad urbana y ambiental
+D) Factibilidad urbana y ambiental
 
 de un predio o polígono: 33.1170
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-D) Factibilidad urbana y ambiental de
+E) Factibilidad urbana y ambiental de
 
 un predio o polígono que incluya un
 
@@ -3959,11 +4029,11 @@ Todos los vehículos automotores en circulación en el Estado de Morelos, deben 
 
 Los derechos por concepto de verificación vehicular los ejercerá la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 91.
 
-Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el programa de verificación vehicular obligatoria para el Estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa o multas acumuladas, correspondiendo una multa por cada periodo incumplido.
+Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el Programa de Verificación Vehicular Obligatoria para el estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa única por el o los periodos de verificación vehicular, que conforme al calendario establecido en el Programa de Verificación Vehicular Obligatoria para el estado de Morelos, se encuentren vencidos.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -4075,9 +4145,11 @@ Para determinar el costo del servicio de consultoría y asesoría a que se refie
 
 ###### Artículo 94.
 
-Los derechos por servicios de la Policía Industrial, Bancaria y Auxiliar del Estado, causarán derechos y se pagarán previamente por los interesados con base en los términos siguientes:
+Los servicios de la Policía Industrial, Bancaria y Auxiliar del Estado, causarán derechos y se pagarán una vez que se haya prestado el servicio a los interesados, con base en los términos siguientes:
 
 Tarifa en UMA
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 I. Por un Policía en 12 horas de servicio diurno
 
@@ -4099,6 +4171,8 @@ c) Riesgo alto
 
 2. Tarifa mensual 264.55
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 II. Por un policía en 24 horas de servicio
 
 a) Riesgo bajo
@@ -4118,6 +4192,8 @@ c) Riesgo alto
 1. Tarifa diaria 18.73
 
 2. Tarifa mensual 559.34
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 III. Por la prestación del servicio nocturno
 
@@ -4141,6 +4217,8 @@ c) Riesgo alto
 
 2. Tarifa mensual 284.90
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 IV. Por la prestación de servicios extraordinarios
 
 por 12 horas por un policía
@@ -4149,6 +4227,8 @@ por 12 horas por un policía
 
 2. Tarifa mensual 330.00
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
+
 V. Por la prestación del servicio extraordinario
 
 por 24 horas por un policía:
@@ -4156,6 +4236,8 @@ por 24 horas por un policía:
 1. Tarifa diaria 22.00
 
 2. Tarifa mensual 660.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 VI. Por la prestación del servicio de escoltas
 
@@ -4315,9 +4397,15 @@ XIII. Solicitud de dictamen técnico o revalidación de estudios
 
 realizados en el extranjero: 8.50
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 XIV. Autenticación de certificados de estudios por ciclo
 
-escolar (semestre, cuatrimestre): 1.00
+escolar (semestre, cuatrimestre):
+
+a) Certificado de estudios 1.00
+
+b) Certificado de estudios de manera electrónica: 2.00
 
 XV. Certificación o legalización de firmas de títulos, certificados
 
@@ -4329,7 +4417,13 @@ de licenciatura o posgrado (especialidad, maestría o
 
 doctorado): 3.00
 
-XVII. Autenticación de diploma, título o grado: 3.00
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Autenticación de diploma, título o grado:
+
+a) Diploma, título o grado: 3.00
+
+b) Diploma, título o grado de manera electrónica: 6.00
 
 XVIII. Compulsa de documentos emitidos por la autoridad o
 
@@ -4373,9 +4467,15 @@ en el extranjero: 4.00
 
 V. Solicitud de equivalencia de estudios de nivel medio superior: 4.00
 
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
 VI. Autenticación de certificado de estudios, expedida por
 
-particulares por ciclo escolar: 1.00
+particulares por ciclo escolar (semestre o cuatrimestre) 1.00
+
+a) Certificado de estudios 1.00
+
+b) Certificado de estudios de manera electrónica: 2.00
 
 VII. Inspección y vigilancia de establecimientos educativos
 
@@ -4429,9 +4529,21 @@ IV. Exámenes extraordinarios por asignatura, por alumno: 0.50
 
 V. Exámenes a título de suficiencia por asignatura, por alumno: 0.50
 
-VI. Autentificación de firmas de certificados de estudios: 1.50
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-VII. Autentificación de firmas de diploma educación técnica: 1.50
+VI. Autentificación de firmas de certificados de estudios:
+
+a) Certificados de estudios 1.50
+
+b) Certificados de estudios de manera electrónica: 3.00
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+VII Autentificación de firmas de diploma educación técnica:
+
+a) Diploma educación técnica: 1.50
+
+b) Diploma educación técnica de manera electrónica: 3.00
 
 VIII. Duplicado de certificado de estudios o diploma: 1.50
 
@@ -4451,7 +4563,13 @@ RVOE de educación técnica: 22.50
 
 XII. Examen profesional: 2.50
 
-XIII. Autentificación de título: 3.00
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+XIII Autentificación de título:
+
+a) Título Físico 3.00
+
+b) Título de manera electrónica: 6.00
 
 XIV. Solicitud de número de registro para diplomados
 
@@ -4475,11 +4593,15 @@ A) Inscripción: 2.00
 
 B) Constancia: 0.50
 
-C) Inscripción anual a la plataforma virtual: 2.00
+C) (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2022)
 
 D) Duplicado credencial: 1.00
 
 E) Duplicado de certificado: 1.00
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+F) Derecho de Examen: 0.86
 
 II. Para centros de asesoría:
 
@@ -4499,11 +4621,7 @@ A) Examen único de educación media superior: 3.00
 
 IV. Público en general, capacitación por persona:
 
-A) Estrategias didácticas para la tutoría virtual, en
-
-colaboración con la Universidad Autónoma del Estado
-
-de Morelos (UAEM): 106.00
+A) (DEROGADO, P.O. 17 DE NOVIEMBRE DE 2022)
 
 B) Elaboración de reactivos de evaluación: 53.00
 
@@ -4514,6 +4632,22 @@ D) Estrategias y técnicas de aprendizaje: 21.50
 E) Enseñanza en el enfoque de las competencias: 21.5
 
 Por cuanto hace al inciso B) que antecede, los estudiantes de preparatoria abierta serán beneficiados con un descuento del 50%.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+V. Para los subsistemas a educación media superior (con convenio)
+
+A) Por sustentante del Examen único de educación superior
+
+(Paquete A) 3.00
+
+B) Por sustentante del Examen único de educación superior
+
+(Paquete B) 1.01
+
+C) Por sustentante del Examen único de educación superior
+
+(Paquete C) 0.89
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -4687,9 +4821,25 @@ Este pago deberá efectuarse dentro de los noventa
 
 días naturales siguientes a la fecha de expedición del título.
 
-II. Expedición de cédula profesional o duplicado: 2.50
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-III. Registro de cédula profesional: 2.50
+II. Expedición de cédula profesional o duplicado:
+
+a) Cédula profesional estatal o duplicado de
+
+manera electrónica: 2.50
+
+b) Cédula profesional duplicado 2.50
+
+c) Cédula profesional estatal de manera electrónica: 5.00
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+III. Registro de cédula profesional:
+
+a) Cédula profesional 2.50
+
+b) Cédula profesional de manera electrónica: 5.00
 
 IV. Registro de cédulas expedidas en otras
 
@@ -4750,6 +4900,10 @@ posean título expedido en el extranjero, en los términos de
 la Ley sobre el Ejercicio de las Profesiones en el Estado
 
 de Morelos: 1.50
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+3 Expedición de Carta pasante de manera electrónica: 3.00
 
 VIII. Revalidación de estudios profesionales: 1.50
 
@@ -4859,17 +5013,107 @@ Por la expedición de oficios de habilitación, así como de otras constancias n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MARZO DE 2019)</small>
 
-### CAPITULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO
+### CAPÍTULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO Y CULTURA
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
-###### Artículo 114 Ter.
+Artículo 114 TER. Los derechos por los servicios de control de espacios para eventos dentro del territorio del estado de Morelos, que lleva a cabo la Secretaría de Turismo y Cultura, se causarán y se pagarán previamente por los interesados y por cada espacio registrado, con base en los términos siguientes:
 
-Los derechos por los servicios de control de espacios para eventos dentro del territorio del estado de Morelos que lleva a cabo la Secretaría de Turismo, se causarán y se pagarán previamente por los interesados y por cada espacio registrado, con base en los términos siguientes:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 I. 137.00 UMA por un año por espacio.
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 II. 69.00 UMA por semestre por espacio.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 114 TER-1. Los servicios que preste la Secretaría de Turismo y Cultura, se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
+
+I) Centro Cultural Jardín Borda:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 45.]</small>
+
+Los criterios de coproducción con las compañías que buscan un espacio para presentar sus producciones, en la Sala Manuel M. Ponce, Foro del Lago y Fuente Magna.
+
+A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+B* 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
+
+C* 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
+
+El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
+
+II) El Museo Casa Emiliano Zapata, en Anenecuilco, Morelos:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+III) El Museo de la Revolución del Sur, cuartel de Zapata (Tlaltizapán):
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+IV) El Museo Ex Hacienda de Chinameca:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 46.]</small>
+
+V) El Museo de la Independencia Sitio de Cuautla:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
+
+VI) El Museo Dormitorio Mariano Matamoros:
+
+CONCEPTO UNIDAD DE CUOTA
+
+MEDIDA
+
+Entrada general Persona La cantidad en UMA equivalente a $30.00
+
+Entrada con Persona La cantidad en UMA equivalente a $15.00
+
+descuento
+
+Entrada libre Persona Domingos, noches de museos, eventos
+
+especiales, residentes del estado de
+
+Morelos presentando cualquier documento
+
+que acredite su domicilio.
+
+VII) Cine Morelos
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 47.]</small>
+
+Los conceptos de exhibición con las distribuidoras para la exhibición de películas, sólo en caso de no contar con un presupuesto base para el pago de programación:
+
+A* 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+B* 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
+
+C* 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
+
+Sólo será aplicable para distribuidoras, eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas; el monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tenga que pagarse.
+
+VIII) Teatro Ocampo:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 17 DE NOVIEMBRE DE 2022, PÁGINA 48.]</small>
+
+Con el propósito de promover y fomentar los eventos sin fines de lucro con actividades culturales o en beneficio de grupos vulnerables, dependencias oficiales e instituciones educativas y privadas, se otorga a los siguientes conceptos de coproducción, el tipo A, A2, A3, B, B2 y B3, se determinará de acuerdo a la rentabilidad del dicho evento.
+
+*A.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+*A2.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+*A3.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+*B.- 70% para la producción y 30% para la Secretaría de Turismo y Cultura.
+
+*B2.- 60% para la producción y 40% para la Secretaría de Turismo y Cultura.
+
+*B3.- 50% para la producción y 50% para la Secretaría de Turismo y Cultura.
+
+El monto para calcular el porcentaje que corresponderá a cada parte, será determinado del ingreso bruto menos comisiones e impuestos que tengan que pagarse.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -5215,7 +5459,7 @@ UN HOJAS: 0.10
 
 (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -5231,11 +5475,11 @@ UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO PO
 
 Por la evaluación del programa interno de protección civil a que se refieren los artículos 135 y 136 de la Ley Estatal de Protección Civil de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 139 de la misma Ley, se causará un derecho por la cantidad equivalente a 32.00 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 114 Quater
 
-1. Por la evaluación del programa específico de Protección Civil a que se refiere el artículo 135 de la Ley Estatal de Protección Civil de Morelos de los espacios e instalaciones previstas en el artículo 127 del mismo ordenamiento, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
+1. Por la “evaluación del programa específico de protección civil para eventos públicos y espacios de concentración masiva”, a que se refieren los artículos 127 y 135 de la Ley Estatal de Protección Civil de Morelos, se pagará un derecho por la cantidad equivalente a 55.00 UMA.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -5315,11 +5559,31 @@ Por la evaluación del programa interno de protección civil a que se refieren l
 
 14. Por el registro como capacitador en materia de protección civil a que se refieren los artículos 163 de la Ley Estatal de Protección Civil de Morelos y 153 del Reglamento de la Ley Estatal de Protección Civil de Morelos, se causará un derecho por la cantidad equivalente a 10.00 UMA, por cada tema a impartir.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 114 Quater
 
-15. Por la capacitación en materia de protección civil al sector privado se causará un derecho por la cantidad equivalente a 5.00 UMA, por persona.
+15. La capacitación en materia de protección civil que brinde la Coordinación Estatal de Protección Civil Morelos. o en su caso, la Escuela Estatal de Protección Civil, causarán derechos con base en la siguiente tabla de conceptos:
+
+Núm. CONCEPTO TARIFA UMA
+
+1 Por cursos en materia de protección civil para el sector 7
+
+privado, en la modalidad presencial, virtual o mixta, con
+
+duración máxima de 20 horas.
+
+2 Por los talleres en materia de protección civil para el sector 5
+
+privado, en la modalidad presencial, virtual o mixta, con
+
+duración máxima de 8 horas.
+
+3 Por diplomado en protección civil nivel básico en la 60
+
+modalidad presencial, virtual o mixta con duración
+
+mínima de 120 horas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -6106,3 +6370,13 @@ CUARTA. En el caso de la existencia previa de una declaratoria por presunción d
 QUINTA. Las personas titulares del Tribunal Superior de Justicia del Estado de Morelos, el Poder Ejecutivo del Estado de Morelos, así como de los organismos autónomos a los que se refiere esta ley, contarán con un plazo de 180 días para adecuar las disposiciones reglamentarias que correspondan, a efecto de cumplir y armonizarlas con las disposiciones contenidas en la presente ley.
 
 SEXTA. Todas las autoridades que intervienen en la aplicación de la presente ley deberán capacitarse conforme a este procedimiento de Declaración Especial de Ausencia, para garantizar de manera adecuada una protección eficaz del derecho.
+
+P.O. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y OCHO.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS Y DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del 01 de enero de 2023, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan al presente Decreto.
