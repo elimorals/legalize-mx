@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2015-del-pleno-del-consejo-de-la-109062"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-22"
-last_updated: "2021-03-26"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-06-24"
 
 ACUERDO GENERAL 31/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de julio de 2015.
 
@@ -83,13 +83,13 @@ IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
 V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio; y con competencia en ejecución;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución;
+V. Bis. Jueces de Ejecución: Juezas y Jueces de Distrito especializados en el sistema penal acusatorio con competencia en ejecución;
 
-> <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
+VI. Juzgadores: Juezas y Jueces de Control, de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
 
 VII. Pleno: Pleno del Consejo; y
 
@@ -117,9 +117,9 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
+Las y los Jueces de Ejecución tendrán la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
 
 ###### Artículo 6.
 
@@ -141,9 +141,13 @@ El Centro contará con una Oficialía de Partes Común, que dará servicio a los
 
 El sistema de turno y distribución de asuntos será automático y equitativo, de conformidad con lo dispuesto por el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal, y en atención a lo siguiente:
 
-I. Los asuntos urgentes que se reciban durante las guardias, deberán ser atendidos por la o el juez de Distrito Especializado en el sistema penal acusatorio en funciones de control y enjuiciamiento que deba cubrirla, o el juzgador de Ejecución, para los asuntos previstos en la Ley Nacional de Ejecución Penal; y
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-II. Los asuntos relacionados con la materia de ejecución penal, serán competencia del Juez de Ejecución.
+I. Los asuntos urgentes que se reciban durante las guardias, deberán ser atendidos por la o el juez de Distrito Especializado en el sistema penal acusatorio en funciones de control y enjuiciamiento que deba cubrirla, o las y los juzgadores de Ejecución, para los asuntos previstos en la Ley Nacional de Ejecución Penal; y
+
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
+
+II. Los asuntos relacionados con la materia de ejecución penal, serán competencia de las personas juzgadoras en materia de Ejecución.
 
 Corresponde a las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, con la opinión de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
 
@@ -209,7 +213,9 @@ II. De no ser posible la sustitución en los términos previstos en la fracción
 
 Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Decimosexto Circuito con residencia en Guanajuato, Guanajuato, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
-La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
+
+La sustitución de las y los Jueces de Ejecución recaerá en cualquier otra persona juzgadora del Centro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO DÉCIMO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -878,3 +884,11 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 17 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
