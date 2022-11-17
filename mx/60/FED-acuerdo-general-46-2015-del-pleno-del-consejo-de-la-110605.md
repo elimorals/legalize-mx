@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-46-2015-del-pleno-del-consejo-de-la-110605"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2022-11-15"
+last_updated: "2022-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-11-20"
 
 ACUERDO GENERAL 46/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
@@ -85,13 +85,13 @@ IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
 V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio; y con competencia en ejecución;
 
-> <small>(ADICIONADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución;
+V Bis. Jueces de Ejecución: Juezas y Jueces de Distrito especializados en el sistema penal acusatorio con competencia en ejecución;
 
-> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
+VI. Juzgadores: Juezas y Jueces de Control, de Ejecución, así como tribunales de Enjuiciamiento y de Alzada;
 
 VII. Pleno: Pleno del Consejo; y
 
@@ -121,9 +121,9 @@ El Centro contará con la plantilla laboral autorizada, y la Administración del
 
 Los órganos jurisdiccionales de los Centros conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, con excepción de las solicitudes referidas en los artículos 14 y 15 del Acuerdo General 3/2017 del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones.
 
-> <small>(ADICIONADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-El Juez de Ejecución tendrá la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
+Las y los Jueces de Ejecución tendrán la competencia que establece la Ley Nacional de Ejecución Penal y demás normatividad aplicable, dentro de la jurisdicción territorial del Centro.
 
 ###### Artículo 6.
 
@@ -143,9 +143,13 @@ El Centro contará con una Oficialía de Partes Común, que dará servicio a los
 
 El sistema de turno y distribución de asuntos será automático y equitativo, de conformidad con lo dispuesto por el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la asignación de audiencias y asuntos, la rendición de estadística y los libros electrónicos de control en los Centros de Justicia Penal Federal, y en atención a lo siguiente:
 
-I. Los asuntos urgentes que se reciban durante las guardias, deberán ser atendidos por la o el juez de Distrito Especializado en el sistema penal acusatorio en funciones de control y enjuiciamiento que deba cubrirla, o el juzgador de Ejecución, para los asuntos previstos en la Ley Nacional de Ejecución Penal; y
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-II. Los asuntos relacionados con la materia de ejecución penal, serán competencia del Juez de Ejecución.
+I. Los asuntos urgentes que se reciban durante las guardias, deberán ser atendidos por la o el juez de Distrito Especializado en el sistema penal acusatorio en funciones de control y enjuiciamiento que deba cubrirla, o las y los juzgadores de Ejecución, para los asuntos previstos en la Ley Nacional de Ejecución Penal; y
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
+
+II. Los asuntos relacionados con la materia de ejecución penal, serán competencia de las personas juzgadoras en materia de Ejecución.
 
 Corresponde a las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, con la opinión de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
 
@@ -211,9 +215,9 @@ II. De no ser posible la sustitución en los términos previstos en la fracción
 
 > <small>(DEROGADO PENÚLTIMO PÁRAFO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 26/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
-La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
+La sustitución de las y los Jueces de Ejecución recaerá en cualquier otra persona juzgadora del Centro.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO VIGÉSIMO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
 
@@ -830,3 +834,11 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos
 QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Decimotercer Circuito que inicia funciones.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 17 DE NOVIEMBRE DE 2022.
+
+[N DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES, RELATIVAS A LA SUSTITUCIÓN DE REFERENCIAS DE JUEZ DE EJECUCIÓN".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
