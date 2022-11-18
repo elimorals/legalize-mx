@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2022-11-15"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1059,9 +1059,17 @@ IV. Los planes estatales de desarrollo en ciencia, tecnología e innovación que
 
 V. Las acciones que realicen en el Estado y Municipios en materia de ciencia, tecnología e innovación;
 
-VI. Las políticas, planes y programas; así como asuntos relativos al fomento de la ciencia, la tecnología e innovación en el Estado; y,
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+VI. Las políticas, planes y programas; así como asuntos relativos al fomento de la ciencia, la tecnología e innovación en el Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+VII. Formar parte, a través de uno de sus integrantes, del Consejo Estatal de Ciencia, Tecnología e Innovación; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 69.
 
@@ -4498,3 +4506,15 @@ Tercero. El Artículo Segundo del presente Decreto entrará en vigor el día sig
 Cuarto. Notifíquese el presente Decreto al Consejo Estatal de Ecología del Estado de Michoacán, para su debido conocimiento.
 
 Quinto. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y VII, Y SE ADICIONA LA FRACCIÓN VIII, AL ARTÍCULO 68 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Artículo Primero, del presente Decreto, entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Artículo Segundo, del presente Decreto, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese el presente Decreto al Consejo Estatal de Ciencia, Tecnología e Innovación, para su debido conocimiento.
