@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-143485"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-01"
-last_updated: "2022-10-19"
+last_updated: "2022-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN EL D.O.F. DE 7 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS DIEZ DÍAS HÁBILES SIGUIENTES A AQUÉL EN EL QUE EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, MEDIANTE DISPOSICIONES DE CARÁCTER GENERAL, DETERMINE QUE LOS SISTEMAS UTILIZADOS EN LAS OPERACIONES DE COMERCIO EXTERIOR SE ENCUENTRAN LISTOS PARA OPERAR CONFORME A LA LEY QUE SE EMITE, LO CUAL DEBERÁ SUCEDER DENTRO DE LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN]</small>
+[NOTA 1: DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DEL LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, PUBLICADA EN EL D.O.F. DE 7 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS DIEZ DÍAS HÁBILES SIGUIENTES A AQUÉL EN EL QUE EL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, MEDIANTE DISPOSICIONES DE CARÁCTER GENERAL, DETERMINE QUE LOS SISTEMAS UTILIZADOS EN LAS OPERACIONES DE COMERCIO EXTERIOR SE ENCUENTRAN LISTOS PARA OPERAR CONFORME A LA LEY QUE SE EMITE, LO CUAL DEBERÁ SUCEDER DENTRO DE LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN A LAS MERCANCÍAS QUE SE INDICAN, PUBLICADO EN EL D.O.F. DE 18 DE NOVIEMBRE DE 2022, SE ABROGA EL DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN A LAS MERCANCÍAS QUE SE INDICAN, PUBLICADO EL 16 DE MAYO DE 2022.]
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2022 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Segunda Sección-Vespertina del Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -60493,3 +60495,11 @@ Segundo. La vigencia del presente decreto podrá extenderse hasta el 31 de dicie
 Tercero. El Servicio de Administración Tributaria emitirá las reglas de carácter general, y la Agencia Nacional de Aduanas de México las reglas de operación, necesarias para la debida y correcta aplicación del presente decreto.
 
 Cuarto. Las referencias realizadas a los códigos y descripciones señalados en el artículo Primero del presente decreto quedarán sin efectos y serán sustituidos por los de la Ley de los Impuestos Generales de Importación y de Exportación, publicada el 7 de junio de 2022 en el Diario Oficial de la Federación, a partir de su entrada en vigor.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 18 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL "DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN A LAS MERCANCÍAS QUE SE INDICAN”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor el mismo día que la Ley de los Impuestos Generales de Importación y de Exportación, publicada en el Diario Oficial de la Federación el 7 de junio de 2022, conforme a lo previsto en el transitorio Primero del decreto de su expedición, y estará vigente hasta el 17 de mayo de 2023, el cual podrá ser prorrogable por un año más, en cuyo caso, se establecerá mediante decreto publicado en el mismo medio de difusión oficial.
+
+SEGUNDO.- A partir de la entrada en vigor del presente instrumento, se abroga el “Decreto por el que se exenta el pago de arancel de importación a las mercancías que se indican”, publicado el 16 de mayo de 2022 en el Diario Oficial de la Federación.
