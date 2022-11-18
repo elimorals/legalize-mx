@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2022-08-17"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -253,9 +253,15 @@ XXXV. Emitir opinión oficial respecto de aquellas acciones que realicen las Dep
 
 XXXVI. La Secretaría impulsará la competitividad turística de Tamaulipas a través del desarrollo de los estudios, programas y proyectos para mejorar la experiencia de los turistas y visitantes, así como las capacidades de los prestadores de servicios turísticos, entre otros, a través del mejoramiento de la calidad de los servicios turísticos; la certificación de los prestadores de servicios en programas federales; el mejoramiento de la imagen urbana; la puesta en valor de nuevos espacios para la práctica de la actividad turística y recreativa y el impulso del mejoramiento de las condiciones generales del Estado como destino turístico;
 
-XXXVII. La Secretaría definirá y clasificará en el Reglamento de esta Ley, los distintos tipos de actividad turística que se efectúan en el Estado, las condiciones particulares para su ejecución y demás elementos necesarios para su fomento y promoción; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-XXXVIII. Las demás que se prevean en este y otros cuerpos normativos.
+XXXVII. La Secretaría definirá y clasificará en el Reglamento de esta Ley, los distintos tipos de actividad turística que se efectúan en el Estado, las condiciones particulares para su ejecución y demás elementos necesarios para su fomento y promoción;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XXXVIII. Coordinarse con la Secretaría de Salud, con el objetivo de establecer programas, políticas públicas y medidas sanitarias, que permitan que la prestación de los servicios turísticos se otorgue en un entorno saludable y seguro para las y los turistas; y
+
+XXXIX. Las demás que se prevean en este y otros cuerpos normativos.
 
 ### CAPÍTULO II. DE LOS MUNICIPIOS
 
@@ -1092,3 +1098,11 @@ P.O.17 DE AGOSTO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-407 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVII, Y SE ADICIONA LA FRACCIÓN XXXVIII, RECORRIENDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
