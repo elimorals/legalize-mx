@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-apicola-del-estado-de-michoacan-de-ocampo-39571"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-14"
-last_updated: "2016-12-29"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO APÍCOLA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 14 de mayo del 2004.
 
@@ -86,6 +86,10 @@ VIII. SECRETARÍA: A la Secretaría de Desarrollo Agropecuario.
 ###### Artículo 4°.
 
 Se declara de interés público y actividad prioritaria a la apicultura por los beneficios que aporta a la conservación de la biodiversidad y los servicios ambientales a través de la polinización tanto de plantas de la vegetación natural como la cultivada, así como el aprovechamiento del recurso apibotánico.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+Los Poderes Ejecutivo, Legislativo y Judicial, Órganos Constitucionales Autónomos y Municipios del Estado de Michoacán de Ocampo, establecerán jardines y corredores de polinización en los terrenos o áreas verdes existentes en sus instalaciones o bajo su administración y cuidado, con aquellas especies herbáceas, arbustivas y arbóreas nativas que favorezcan la actividad apícola y a los polinizadores, procurando fomentar el respeto a la naturaleza y la educación para la sustentabilidad, con la observancia de la legislación en materia de protección al ambiente.
 
 ###### Artículo 5°.
 
@@ -526,3 +530,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 208 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE FOMENTO APÍCOLA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Los sujetos obligados en el presente Decreto, implementarán las acciones correspondientes de forma progresiva y de acuerdo a la disponibilidad presupuestal con que cuenten, debiendo contemplar en su presupuesto para el próximo año fiscal y posteriores, los recursos mínimos necesarios para implementar los jardines y corredores de polinización.
