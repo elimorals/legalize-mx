@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2022-10-05"
+last_updated: "2022-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -449,13 +449,17 @@ XXIV.- Fomentar entre los educandos y padres de familia o tutores campañas sobr
 
 XXV.- Promover, con base en la capacidad presupuestal, la implementación de programas educativos en materia de primeros auxilios, simulacros y prevención de accidentes, en coordinación con las autoridades estatales y municipales competentes;
 
-> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-XXVI.- Fomentar entre los educandos la honestidad y la integridad para fortalecer el tejido social, así como para evitar y combatir la corrupción, además de difundir la función del Sistema Estatal Anticorrupción y las autoridades que lo integran; y
+XXVI.- Fomentar entre los educandos la honestidad y la integridad para fortalecer el tejido social, así como para evitar y combatir la corrupción, además de difundir la función del Sistema Estatal Anticorrupción y las autoridades que lo integran;
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XXVII.- Promover en las y los educandos el conocimiento y formación en materia de orientación vocacional con perspectiva de género y sin estereotipos, y métodos de estudio adecuados, que ayude al desarrollo de sus proyectos de vida; así como las mismas condiciones de orientación en materia de carreras y capacitación profesional, asegurándose esta igualdad en la enseñanza en todos los tipos y niveles de educación, aplicando acciones afirmativas a favor de las mujeres que contribuyan a su integración preferente a las áreas de ciencias, tecnologías, ingenierías y matemáticas; y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
-XXVII.- Las demás que le establezcan las disposiciones aplicables.
+XXVIII.- Las demás que le establezcan las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -2448,3 +2452,11 @@ P.O. 5 DE OCTUBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-408 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
