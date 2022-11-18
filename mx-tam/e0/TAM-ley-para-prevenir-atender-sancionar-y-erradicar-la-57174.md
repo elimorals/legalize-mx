@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2022-09-14"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -55,23 +55,49 @@ MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR 
 
 ###### Artículo 2.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
+Los principios rectores para el acceso de todas las mujeres, adolescentes y niñas a una vida libre de violencias, irán acorde con la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y deberán ser observados en la elaboración y ejecución de las políticas públicas Estatales, siendo los siguientes:
 
-a) implementar mecanismos certeros que sustenten la igualdad jurídica entre mujeres y hombres;
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
+a) La igualdad jurídica, sustantiva, de resultados y estructural;
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-c) Evitar por todos los medios las prácticas discriminatorias, así como los actos que fomentan o reproducen estereotipos, concepciones y valores de subordinación o inferioridad de un género a otro;
+b) La dignidad de las mujeres;
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-d) asegurar el pleno disfrute de los derechos humanos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
+c) La no discriminación;
 
-e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la libertad y los derechos de la mujer en su sentido más amplio.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+d) La libertad de las mujeres;
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+e) La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos;
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+f) La perspectiva de género;
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+g) La debida diligencia;
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+h) La interseccionalidad;
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+i) La interculturalidad; y
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+j) El enfoque diferencial.
 
 ###### Artículo 3.
 
@@ -1508,6 +1534,14 @@ El Gobierno del Estado de Tamaulipas, se asegurará de contar con personal admin
 P.O. 14 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-362 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-418 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y LOS INCISOS A), B), C), D) Y E); Y SE ADICIONAN LOS INCISOS F), G), H), I) Y J) AL ARTÍCULO 2 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
