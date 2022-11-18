@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2022-05-05"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -591,9 +591,9 @@ ART. 130.- El matrimonio debe celebrarse ante los funcionarios que establece la 
 
 ART. 131.- (DEROGADO, P.O. 24 DE SEPTIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-ART. 132.- Para contraer matrimonio, el hombre y la mujer deben ser mayores de edad.
+ART. 132.- Quienes contraigan matrimonio deben ser mayores de edad.
 
 ART. 133.- (DEROGADO, P.O. 23 DE JUNIO DE 2016)
 
@@ -10612,6 +10612,14 @@ Inmediatamente después de que el Registro Estatal de Deudores Alimentarios Moro
 P.O. 5 DE MAYO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-151 MEDIANTE EL CUAL SE DECLARAN PROCEDENTES LAS OBSERVACIONES PARCIALES DEL TITULAR DEL EJECUTIVO DEL ESTADO DE TAMAULIPAS, EN RELACIÓN AL DECRETO NÚMERO 65-138, MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; POR LO QUE DERIVADO DE LA APROBACIÓN DE LAS OBSERVACIONES FORMULADAS SE HACE NECESARIO DESECHAR EL PÁRRAFO SEXTO ADICIONADO AL ARTÍCULO 59 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, DEL DECRETO NÚMERO 65-138, PARA DARLE COHERENCIA NORMATIVA NECESARIA PARA SU APLICACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-419 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 132, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
