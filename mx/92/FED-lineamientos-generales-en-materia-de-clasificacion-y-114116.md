@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-generales-en-materia-de-clasificacion-y-114116"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2016-04-15"
-last_updated: "2016-07-29"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114116&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-03-18"
 ---
 # LINEAMIENTOS GENERALES EN MATERIA DE CLASIFICACION Y DESCLASIFICACION DE LA INFORMACION, ASI COMO PARA LA ELABORACION DE VERSIONES PUBLICAS
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRONICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2022/INAI/Acuerdo-CONAIPSNTACUERDOORD02-10102022-03.pdf]</small>
+
 LINEAMIENTOS GENERALES EN MATERIA DE CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN, ASÍ COMO PARA LA ELABORACIÓN DE VERSIONES PÚBLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2022.
 
 Lineamientos publicados en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de abril de 2016.
 
@@ -63,7 +65,9 @@ III. Comité de Transparencia: La instancia a la que hace referencia el artícul
 
 IV. Consejo Nacional: El Consejo Nacional del Sistema Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales;
 
-V. Días hábiles: Todos los del año, a excepción de los sábados, domingos e inhábiles en término de los acuerdos que para tal efecto emitan los organismos garantes;
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+V. Días hábiles: Todos los del año, a excepción de los sábados, domingos e inhábiles en los términos de los acuerdos que para tal efecto emitan los organismos garantes;
 
 VI. Formatos abiertos: El conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de los usuarios;
 
@@ -81,7 +85,9 @@ XII. Publicación: La divulgación, difusión y socialización de la informació
 
 XIII. Prueba de daño: La argumentación fundada y motivada que deben realizar los sujetos obligados tendiente a acreditar que la divulgación de información lesiona el interés jurídicamente protegido por la normativa aplicable y que el daño que puede producirse con la publicidad de la información es mayor que el interés de conocerla;
 
-XIV. Prueba de interés público: La argumentación y fundamentación realizada por los organismos garantes, mediante un ejercicio de ponderación, tendiente a acreditar que el beneficio que reporta dar a conocer la información confidencial pedida o solicitada es mayor la invasión que su divulgación genera en los derechos de las personas;
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Prueba de interés público: La argumentación y fundamentación realizada por los organismos garantes cuando exista una colisión de derechos, mediante un ejercicio de ponderación, tendiente a acreditar si el beneficio de la entrega de información clasificada favorece al interés público o por el contrario debe privilegiarse la clasificación.
 
 XV. Registros Públicos: Los organismos de naturaleza pública que tienen como función, la inscripción de determinados actos y hechos jurídicos, que conforme a la ley establezcan este requisito para surtir efectos ante terceros, otorgando certeza, legalidad, autenticidad y seguridad jurídica sobre los mismos, a través de la publicación registral;
 
@@ -91,7 +97,7 @@ XVII. Testar: La omisión o supresión de la información clasificada como reser
 
 XVIII. Versión pública: El documento a partir del que se otorga acceso a la información, en el que se testan partes o secciones clasificadas, indicando el contenido de éstas de manera genérica, fundando y motivando la reserva o confidencialidad, a través de la resolución que para tal efecto emita el Comité de Transparencia.
 
-Tercero. Los días establecidos en los presentes lineamientos, deberán entenderse como hábiles.
+Tercero. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2022)
 
 ### CAPÍTULO II. DE LA CLASIFICACIÓN
 
@@ -101,33 +107,33 @@ Los sujetos obligados deberán aplicar, de manera estricta, las excepciones al d
 
 Quinto. La carga de la prueba para justificar toda negativa de acceso a la información, por actualizarse cualquiera de los supuestos de clasificación previstos en la Ley General, la Ley Federal y leyes estatales, corresponderá a los sujetos obligados, por lo que deberán fundar y motivar debidamente la clasificación de la información ante una solicitud de acceso o al momento en que generen versiones públicas para dar cumplimiento a las obligaciones de transparencia, observando lo dispuesto en la Ley General y las demás disposiciones aplicables en la materia.
 
-Sexto. Los sujetos obligados no podrán emitir acuerdos de carácter general ni particular que clasifiquen documentos o expedientes como reservados, ni clasificar documentos antes de que se genere la información o cuando éstos no obren en sus archivos.
+Sexto. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2022)
 
-La clasificación de información se realizará conforme a un análisis caso por caso, mediante la aplicación de la prueba de daño y de interés público.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Séptimo. La clasificación de la información se llevará a cabo en el momento en que:
 
 I. Se reciba una solicitud de acceso a la información;
 
-II. Se determine mediante resolución de autoridad competente, o
+II. Se determine mediante resolución del Comité de Transparencia, el órgano garante competente, o en cumplimiento a una sentencia del Poder Judicial; o
 
 III. Se generen versiones públicas para dar cumplimiento a las obligaciones de transparencia previstas en la Ley General, la Ley Federal y las correspondientes de las entidades federativas.
 
-Los titulares de las áreas deberán revisar la clasificación al momento de la recepción de una solicitud de acceso a la información, para verificar si encuadra en una causal de reserva o de confidencialidad.
+Los titulares de las áreas deberán revisar la información requerida al momento de la recepción de una solicitud de acceso, para verificar, conforme a su naturaleza, si encuadra en una causal de reserva o de confidencialidad.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Octavo. Para fundar la clasificación de la información se debe señalar el artículo, fracción, inciso, párrafo o numeral de la ley o tratado internacional suscrito por el Estado mexicano que expresamente le otorga el carácter de reservada o confidencial.
 
 Para motivar la clasificación se deberán señalar las razones o circunstancias especiales que lo llevaron a concluir que el caso particular se ajusta al supuesto previsto por la norma legal invocada como fundamento.
 
-En caso de referirse a información reservada, la motivación de la clasificación también deberá comprender las circunstancias que justifican el establecimiento de determinado plazo de reserva.
-
-Tratándose de información clasificada como confidencial respecto de la cual se haya determinado su conservación permanente por tener valor histórico, ésta conservará tal carácter de conformidad con la normativa aplicable en materia de archivos.
-
-Los documentos contenidos en los archivos históricos y los identificados como históricos confidenciales no serán susceptibles de clasificación como reservados.
+En caso de referirse a información reservada, la motivación de la clasificación deberá comprender el análisis de la prueba del daño a que hace referencia el artículo 104 de la Ley General, en relación con el artículo trigésimo tercero de los presentes lineamientos, así como las circunstancias que justifican el establecimiento de determinado plazo de reserva.
 
 Noveno. En los casos en que se solicite un documento o expediente que contenga partes o secciones clasificadas, los titulares de las áreas deberán elaborar una versión pública fundando y motivando la clasificación de las partes o secciones que se testen, siguiendo los procedimientos establecidos en el Capítulo IX de los presentes lineamientos.
 
-Décimo. Los titulares de las áreas, deberán tener conocimiento y llevar un registro del personal que, por la naturaleza de sus atribuciones, tenga acceso a los documentos clasificados. Asimismo, deberán asegurarse de que dicho personal cuente con los conocimientos técnicos y legales que le permitan manejar adecuadamente la información clasificada, en los términos de los Lineamientos para la Organización y Conservación de Archivos.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+Décimo. Los titulares de las áreas, deberán tener conocimiento y llevar un registro del personal que, por la naturaleza de sus atribuciones, tenga acceso a los documentos clasificados. Asimismo, deberán asegurarse de que dicho personal cuente con los conocimientos técnicos y legales que le permitan manejar adecuadamente la información clasificada, en los términos de la Ley General de Archivos, Lineamientos para la Organización y Conservación de Archivos y demás normatividad aplicable.
 
 En ausencia de los titulares de las áreas, la información será clasificada o desclasificada por la persona que lo supla, en términos de la normativa que rija la actuación del sujeto obligado.
 
@@ -137,9 +143,11 @@ Décimo primero. En el intercambio de información entre sujetos obligados para 
 
 Décimo segundo. Los titulares de las áreas de los sujetos obligados elaborarán semestralmente un índice de los expedientes clasificados como reservados, por área responsable de la información y tema. Dichos índices deberán publicarse en el sitio de internet de los sujetos obligados, así como en la Plataforma Nacional en formatos abiertos al día siguiente de su elaboración.
 
-Décimo tercero. A efecto de mantener actualizado el índice de los expedientes clasificados como reservados, los titulares de las áreas lo enviarán al Comité de Transparencia dentro de los primeros diez días hábiles de los meses de enero y julio de cada año, según corresponda. El Comité de Transparencia tendrá un plazo de diez días hábiles para su aprobación.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Transcurrido dicho plazo, sin que exista determinación alguna por parte del Comité de Transparencia, se entenderá por aprobado. En caso contrario, las áreas, dentro de los cinco días siguientes, le deberán remitir de nueva cuenta el índice de expedientes reservados; elaborando, en su caso, las modificaciones que, a su juicio, estimen pertinentes, las cuales deberán estar claramente identificadas, o acompañar los razonamientos por los cuales envíen en los mismos términos al Comité de Transparencia, el referido índice.
+Décimo tercero. A efecto de mantener actualizado el índice de los expedientes clasificados como reservados, previsto en el artículo 102 de la Ley General, los titulares de las áreas lo elaborarán, lo harán de conocimiento al Comité de Transparencia y lo publicarán dentro de los primeros quince días hábiles de los meses de enero y julio de cada año, según corresponda, en formatos abiertos.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Décimo cuarto. Los índices de los expedientes clasificados como reservados deberán contener:
 
@@ -157,15 +165,17 @@ VI. Razones y motivos de la clasificación;
 
 VII. Señalar si se trata de una clasificación completa o parcial;
 
-VIII. En caso de ser parcial, las partes del documento que son reservadas
+VIII. En caso de ser parcial, las partes del documento que son reservadas;
 
 IX. En su caso, la fecha del acta en donde el Comité de Transparencia confirmó la clasificación;
 
 X. El plazo de reserva y si se encuentra o no en prórroga;
 
-XI. La fecha en que culmina el plazo de la clasificación, y
+XI. La fecha en que culmina el plazo de la clasificación;
 
-XII. Las partes o secciones de los expedientes o documentos que se clasifican.
+XII. Las partes o secciones de los expedientes o documentos que se clasifican; y
+
+XIII. El índice de expedientes clasificados como reservados deberá indicar únicamente la información cuya reserva se encuentre vigente al momento de su elaboración, debiéndose eliminar del índice aquella que haya sido desclasificada.
 
 ### CAPÍTULO IV. DE LA DESCLASIFICACIÓN DE LA INFORMACIÓN
 
@@ -188,6 +198,16 @@ II. El Comité de Transparencia, cuando determine que no se actualizan las causa
 III. Por los organismos garantes, cuando éstos así lo determinen mediante la resolución de un medio de impugnación.
 
 La clasificación y desclasificación de la información que generen o custodien las instancias de inteligencia e investigación a que se refiere el penúltimo párrafo del artículo 43 de la Ley General, deberá apegarse a los términos previstos en la misma y a los protocolos de seguridad, y resguardo establecidos para ello.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+Décimo sexto Bis. En la aplicación de la prueba de interés público prevista en el articulo 149 de la Ley General, para determinar la desclasificación de información protegida producto de una colisión de derechos, los organismos garantes atenderán, con base en elementos de idoneidad, necesidad y proporcionalidad, lo siguiente:
+
+I. Deberán realizar un análisis de las circunstancias fácticas del caso
+
+II. Deberán evitar, siempre que sea posible, la protección absoluta de un derecho y el completo sacrificio del otro, buscando una decisión que tome en cuenta un punto de justo equilibrio.
+
+Una vez realizada la ponderación de los intereses en conflicto, determinarán la existencia de una causa de interés público que prevalezca sobre la protección de la información, y acreditarán que el beneficio de su divulgación es mayor que su clasificación.
 
 ### CAPÍTULO V. DE LA INFORMACIÓN RESERVADA
 
@@ -265,7 +285,9 @@ III. Se otorgue una ventaja indebida, generando distorsiones en la estabilidad d
 
 IV. Se genere incumplimiento de las obligaciones de un participante en un sistema de pagos que dé lugar a que otros participantes incumplan, a su vez, con sus respectivas obligaciones que pueda afectar seriamente al sistema financiero.
 
-Vigésimo tercero. Para clasificar la información como reservada, de conformidad con el artículo 113, fracción V de la Ley General, será necesario acreditar un vínculo, entre la persona física y la información que pueda poner en riesgo su vida, seguridad o salud.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+Vigésimo tercero. Para clasificar la información como reservada, de conformidad con el artículo 113, fracción V de la Ley General, será necesario acreditar un vínculo, entre una o varias personas físicas y la información que pueda poner en riesgo su vida, seguridad o salud; especificando cuál de estos bienes jurídicos será afectado, así como el potencial daño o riesgo que causaría su difusión.
 
 Vigésimo cuarto. De conformidad con el artículo 113, fracción VI de la Ley General, podrá considerarse como reservada, aquella información que obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes, cuando se actualicen los siguientes elementos:
 
@@ -289,6 +311,8 @@ II. Que se acredite el vínculo que existe entre la información solicitada y la
 
 III. Que la difusión de la información pueda impedir u obstruir las funciones que ejerce el Ministerio Público o su equivalente durante la etapa de investigación o ante los tribunales judiciales con motivo del ejercicio de la acción penal.
 
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
 Vigésimo séptimo. De conformidad con el artículo 113, fracción VIII de la Ley General, podrá considerarse como información reservada, aquella que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada. Para tal efecto, el sujeto obligado deberá acreditar lo siguiente:
 
 I. La existencia de un proceso deliberativo en curso, precisando la fecha de inicio;
@@ -299,19 +323,25 @@ III. Que la información se encuentre relacionada, de manera directa, con el pro
 
 IV. Que con su difusión se pueda llegar a interrumpir, menoscabar o inhibir el diseño, negociación, determinación o implementación de los asuntos sometidos a deliberación.
 
-Cuando se trate de insumos informativos o de apoyo para el proceso deliberativo, únicamente podrá clasificarse aquella información que se encuentre directamente relacionada con la toma de decisiones y que con su difusión pueda llegar a interrumpir, menoscabar o inhibir el diseño, negociación o implementación de los asuntos sometidos a deliberación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Se considera concluido el proceso deliberativo cuando se adopte de manera concluyente la última determinación, sea o no susceptible de ejecución; cuando el proceso haya quedado sin materia, o cuando por cualquier causa no sea posible continuar con su desarrollo.
 
-En el caso de que la solicitud de acceso se turne a un área distinta de la responsable de tomar la decisión definitiva y se desconozca si ésta ha sido adoptada, el área receptora deberá consultar a la responsable, a efecto de determinar si es procedente otorgar el acceso a la información solicitada. En estos casos, no se interrumpirá el plazo para dar respuesta a la solicitud de información.
+En el caso de que la solicitud de acceso se turne a un área distinta de la responsable de tomar la decisión definitiva y se desconozca si ésta ha sido adoptada, el área receptora deberá consultar a la responsable a efecto de determinar si es procedente otorgar el acceso a la información solicitada. En estos casos, no se interrumpirá el plazo para dar respuesta a la solicitud de información.
 
-Tratándose de partidos políticos, se considerará reservada la información relativa a los procesos deliberativos de sus órganos internos; la correspondiente a sus estrategias políticas, así como los estudios, encuestas y análisis utilizados para el desarrollo e implementación de dichas estrategias.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Vigésimo octavo. De conformidad con el artículo 113, fracción IX de la Ley General, podrá considerarse como información reservada, aquella que obstruya los procedimientos para fincar responsabilidad a los servidores públicos, en tanto no se haya dictado la resolución administrativa correspondiente; para lo cual, se deberán acreditar los siguientes supuestos:
 
-I. La existencia de un procedimiento de responsabilidad administrativa en trámite, y
+I. La existencia de un procedimiento de responsabilidad administrativa en trámite;
 
-II. Que la información se refiera a actuaciones, diligencias y constancias propias del procedimiento de responsabilidad.
+II. Que la información se refiera a actuaciones, diligencias y constancias propias del procedimiento de responsabilidad; y
+
+III. Que con su difusión se pueda llegar a interrumpir o menoscabar la actuación de las autoridades administrativas que impida u obstaculice su determinación en el procedimiento de responsabilidad.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Vigésimo noveno. De conformidad con el artículo 113, fracción X de la Ley General, podrá considerarse como información reservada, aquella que de divulgarse afecte el debido proceso al actualizarse los siguientes elementos:
 
@@ -321,13 +351,17 @@ II. Que el sujeto obligado sea parte en ese procedimiento;
 
 III. Que la información no sea conocida por la contraparte antes de la presentación de la misma en el proceso, y
 
-IV. Que con su divulgación se afecte la oportunidad de llevar a cabo alguna de las garantías del debido proceso.
+IV. Que con su divulgación se menoscaben los derechos del debido proceso.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Trigésimo. De conformidad con el artículo 113, fracción XI de la Ley General, podrá considerarse como información reservada, aquella que vulnere la conducción de los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, siempre y cuando se acrediten los siguientes elementos:
 
-I. La existencia de un juicio o procedimiento administrativo materialmente jurisdiccional, que se encuentre en trámite, y
+I. La existencia de un juicio o procedimiento administrativo materialmente jurisdiccional, que se encuentre en trámite;
 
-II. Que la información solicitada se refiera a actuaciones, diligencias o constancias propias del procedimiento.
+II. Que la información solicitada se refiera a actuaciones, diligencias o constancias propias del procedimiento; y
+
+III. Que su difusión afecte o interrumpa la libertad de decisión de las autoridades dentro del juicio o procedimiento administrativo seguido en forma de juicio.
 
 Para los efectos del primer párrafo de este numeral, se considera procedimiento seguido en forma de juicio a aquel formalmente administrativo, pero materialmente jurisdiccional; esto es, en el que concurran los siguientes elementos:
 
@@ -339,27 +373,35 @@ No serán objeto de reserva las resoluciones interlocutorias o definitivas que s
 
 Trigésimo primero. De conformidad con el artículo 113, fracción XII de la Ley General, podrá considerarse como información reservada, aquella que forme parte de las averiguaciones previas o carpetas de investigación que resulte de la etapa de investigación, durante la cual, de conformidad con la normativa en materia penal, el Ministerio Público o su equivalente reúne indicios para el esclarecimiento de los hechos y, en su caso, los datos de prueba para sustentar el ejercicio o no de la acción penal, la acusación contra el imputado y la reparación del daño.
 
-Trigésimo segundo. De conformidad con el artículo 113, fracción XIII de la Ley General, podrá considerarse como información reservada, aquella que por disposición expresa de una ley o de un Tratado Internacional del que el Estado mexicano sea parte, le otorgue tal carácter siempre que no se contravenga lo establecido en la Ley General.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Para que se actualice este supuesto de reserva, los sujetos obligados deberán fundar y motivar la clasificación de la información, señalando de manera específica el supuesto normativo que expresamente le otorga ese carácter.
+Trigésimo segundo. De conformidad con el artículo 113, fracción XIII de la Ley General, podrá considerarse como información reservada, aquella que por disposición expresa de una ley le otorgue tal carácter siempre que no se contravengan las bases, principios y disposiciones establecidas en la Ley General o las previstas en los tratados internacionales de los que el Estado mexicano sea parte.
+
+Para que se actualice este supuesto de reserva, los sujetos obligados deberán fundar y motivar la clasificación de la información, señalando de manera específica el supuesto normativo que expresamente le otorga ese carácter y acreditar la afectación que la divulgación de la información traería a los fines por los que se reserva la información.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Trigésimo tercero. Para la aplicación de la prueba de daño a la que hace referencia el artículo 104 de la Ley General, los sujetos obligados atenderán lo siguiente:
 
-I. Se deberá citar la fracción y, en su caso, la causal aplicable del artículo 113 de la Ley General, vinculándola con el Lineamiento específico del presente ordenamiento y, cuando corresponda, el supuesto normativo que expresamente le otorga el carácter de información reservada;
+I. Se deberá fundar la clasificación, al citar la fracción y la hipótesis de la causal aplicable del artículo 113 de la Ley General, vinculándola con el Lineamiento específico del presente ordenamiento y cuando corresponda, el supuesto normativo que expresamente le otorga el carácter de información reservada;
 
-II. Mediante la ponderación de los intereses en conflicto, los sujetos obligados deberán demostrar que la publicidad de la información solicitada generaría un riesgo de perjuicio y por lo tanto, tendrán que acreditar que este último rebasa el interés público protegido por la reserva;
+II. Se deberá motivar la clasificación, señalando las circunstancias de modo, tiempo y lugar que acrediten el vínculo entre la difusión de la información y la afectación al interés público o a la seguridad nacional;
 
-III. Se debe de acreditar el vínculo entre la difusión de la información y la afectación del interés jurídico tutelado de que se trate;
+III. Se deberán precisar las razones objetivas por las que la apertura de la información generaría un riesgo de perjuicio real, demostrable e identificable al interés jurídico tutelado de que se trate;
 
-IV. Precisar las razones objetivas por las que la apertura de la información generaría una afectación, a través de los elementos de un riesgo real, demostrable e identificable;
+IV. Mediante una ponderación entre la medida restrictiva y el derecho de acceso a la información, deberán justificar y probar objetivamente mediante los elementos señalados en la fracción anterior, que la publicidad de la información solicitada generaría un riesgo de perjuicio que supera al interés público de que la información se difunda;
 
-V. En la motivación de la clasificación, el sujeto obligado deberá acreditar las circunstancias de modo, tiempo y lugar del daño, y
+V. Deberán elegir y justificar la opción de excepción al derecho de acceso a la información que menos lo restrinja y que sea adecuada y proporcional para evitar el perjuicio al interés público, evitando siempre que sea posible la reserva absoluta de documentos o expedientes; y
 
-VI. Deberán elegir la opción de excepción al acceso a la información que menos lo restrinja, la cual será adecuada y proporcional para la protección del interés público, y deberá interferir lo menos posible en el ejercicio efectivo del derecho de acceso a la información.
+VI. En los casos en que se determine la clasificación total de la información, se deberán especificar en la prueba de daño, con la mayor claridad y precisión posible, los aspectos relevantes de la información clasificada que ayuden a cumplir con el objetivo de brindar certeza al solicitante.
 
-Trigésimo cuarto. El periodo máximo por el que podría reservarse la información será de cinco años. El periodo de reserva correrá a partir de la fecha en que el Comité de Transparencia confirme la clasificación del expediente o documento.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Los titulares de las áreas deberán determinar que el plazo de reserva sea el estrictamente necesario para proteger la información mientras subsistan las causas que dieron origen a la clasificación, salvaguardando el interés público protegido y tomarán en cuenta las razones que justifican el periodo de reserva establecido. Asimismo, deberán señalar las razones por las cuales se estableció el plazo de reserva determinado.
+Trigésimo cuarto. El periodo máximo por el que podría reservarse la información será de cinco años. El periodo de reserva correrá a partir de la fecha en que por primera vez el Comité de Transparencia confirme la clasificación respectiva.
+
+Los titulares de las áreas deberán determinar que el plazo de reserva sea el estrictamente necesario para proteger la información mientras subsistan las causas que dieron origen a la clasificación, salvaguardando el interés público protegido.
+
+Asimismo, deberán señalar las razones por las cuales se estableció el plazo de reserva determinado, mismas que deberán estar relacionadas y sustentadas en la prueba de daño.
 
 Excepcionalmente, los sujetos obligados, con la aprobación de su Comité de Transparencia, podrán ampliar el plazo de reserva hasta por un periodo de cinco años adicionales, siempre y cuando se justifique que subsisten las causas que dieron origen a su clasificación.
 
@@ -385,41 +427,73 @@ En caso de negativa de la solicitud de ampliación del periodo de reserva, el su
 
 La falta de respuesta por parte del organismo garante será considerada como una afirmativa ficta y el documento mantendrá el carácter de reservado.
 
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
 Trigésimo séptimo. No podrá invocarse el carácter de reservado de la información cuando:
 
 I. Se trate de violaciones graves de derechos humanos;
 
-II. Se trate de delitos de lesa humanidad conforme a los tratados internacionales ratificados por el Estado mexicano, las resoluciones emitidas por organismos internacionales cuya competencia sea reconocida por el Estado mexicano, así como en las disposiciones legales aplicables;
+II. Se trate de delitos de lesa humanidad conforme a los tratados internacionales ratificados por el Estado mexicano, las resoluciones emitidas por organismos internacionales cuya competencia sea reconocida por el Estado mexicano, así como en las disposiciones legales aplicables; o
 
-III. Se trate de información relacionada con actos de corrupción. Lo anterior, en función del uso o aprovechamiento indebido y excesivo de las facultades, funciones y competencias, en beneficio propio o de un tercero, por parte de un servidor público o de otra persona que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, y de acuerdo con las leyes aplicables y los tratados internacionales ratificados por el Estado mexicano; o
+III. Se trate de información relacionada con actos de corrupción. Lo anterior, en función del uso o aprovechamiento indebido y excesivo de las facultades, funciones y competencias, en beneficio propio o de un tercero, por parte de un servidor público o de otra persona que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, y de acuerdo con las leyes aplicables y los tratados internacionales ratificados por el Estado mexicano.
 
-IV. Cuando se trate de información relativa a la asignación y ejercicio de los gastos de campañas, precampañas y gastos en general de partidos políticos con cuenta al presupuesto público, ni las aportaciones de cualquier tipo o especie que realicen los particulares sin importar el destino de los recursos aportados; lo anterior de conformidad con lo establecido en la Ley General de Partidos Políticos.
+IV. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2022)
 
 ### CAPÍTULO VI. DE LA INFORMACIÓN CONFIDENCIAL
 
-Trigésimo octavo. Se considera información confidencial:
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-I. Los datos personales en los términos de la norma aplicable;
+Trigésimo octavo. Se considera susceptible de clasificarse como información confidencial:
 
-II. La que se entregue con tal carácter por los particulares a los sujetos obligados, siempre y cuando tengan el derecho de entregar con dicho carácter la información, de conformidad con lo dispuesto en las leyes o en los Tratados Internacionales de los que el Estado mexicano sea parte, y
+I. Los datos personales, entendidos como cualquier información concerniente a una persona física identificada o identificable, en términos de la norma aplicable que, de manera enunciativa más no limitativa, se pueden identificar de acuerdo a las siguientes categorías:
+
+1. Datos identificativos: El nombre, alias, pseudónimo, domicilio, código postal, teléfono particular, sexo, estado civil, teléfono celular, firma, clave de Registro Federal de Contribuyentes (RFC), Clave Única de Registro de Población (CURP), Clave de Elector, Matrícula del Servicio Militar Nacional, número de pasaporte, lugar y fecha de nacimiento, nacionalidad, edad, fotografía, localidad y sección electoral, y análogos.
+
+2. Datos de origen: Origen, etnia, raza, color de piel, color de ojos, color y tipo de cabello, estatura, complexión, y análogos.
+
+3. Datos ideológicos: Ideologías, creencias, opinión política, afiliación política, opinión pública, afiliación sindical, religión, convicción filosófica y análogos.
+
+4. Datos sobre la salud: El expediente clínico de cualquier atención médica, historial médico, referencias o descripción de sintomatologías, detección de enfermedades, incapacidades médicas, discapacidades, intervenciones quirúrgicas, vacunas, consumo de estupefacientes, uso de aparatos oftalmológicos, ortopédicos, auditivos, prótesis, estado físico o mental de la persona, así como la información sobre la vida sexual, y análogos.
+
+5. Datos Laborales: Número de seguridad social, documentos de reclutamiento o selección, nombramiento, incidencia, capacitación, actividades extracurriculares, referencias laborales, referencias personales, solicitud de empleo, hoja de servicio, y análogos.
+
+6. Datos patrimoniales: Bienes muebles e inmuebles de su propiedad, información fiscal, historial crediticio, ingresos y egresos, número de cuenta bancaria y/o CLABE interbancaria de personas físicas y morales privadas, inversiones, seguros, fianzas, servicios contratados, referencias personales, beneficiarios, dependientes económicos, decisiones patrimoniales y análogos.
+
+7. Datos sobre situación jurídica o legal: La información relativa a una persona que se encuentre o haya sido sujeta a un procedimiento administrativo seguido en forma de juicio o jurisdiccional en materia laboral, civil, penal, fiscal, administrativa o de cualquier otra rama del Derecho, y análogos;
+
+8. Datos académicos: Trayectoria educativa, avances de créditos, tipos de exámenes, promedio, calificaciones, títulos, cédula profesional, certificados, reconocimientos y análogos.
+
+9. Datos de tránsito y movimientos migratorios: Información relativa al tránsito de las personas dentro y fuera del país, así como información migratoria, cédula migratoria, visa, pasaporte.
+
+10. Datos electrónicos: Firma electrónica, dirección e (sic) correo electrónico, código QR.
+
+11. Datos biométricos: Huella dactilar, reconocimiento facial, reconocimiento de iris, reconocimiento de la geometría de la mano, reconocimiento vascular, reconocimiento de escritura, reconocimiento de voz, reconocimiento de escritura de teclado y análogos.
+
+II. La que se entregue con tal carácter por los particulares a los sujetos obligados, siempre y cuando tengan el derecho de entregar con dicho carácter la información, de conformidad con lo dispuesto en las leyes o en los Tratados Internacionales de los que el Estado mexicano sea parte; y
 
 III. Los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos.
 
-La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los servidores públicos facultados para ello.
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los integrantes de los sujetos obligados facultados para ello.
+
+Para el tratamiento de datos biométricos, los sujetos obligados deberán de implementar los sistemas biométricos que sean necesarios para su debida utilización y protección.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Trigésimo noveno. Los datos personales concernientes a una persona física identificada o identificable, no podrán clasificarse como confidenciales ante sus titulares.
 
-En caso de que el titular de los datos realice una solicitud de acceso a la información donde se encuentren sus datos personales, los sujetos obligados deberán reconducir la solicitud y atenderla en términos de las leyes aplicables al ejercicio del derecho a la protección de datos personales. Dando acceso a los datos previa acreditación de la identidad o personalidad del mismo, en términos de las disposiciones normativas aplicables.
+En caso de que el titular de los datos o su representante realice una solicitud de acceso a la información donde se encuentren sus datos personales, los sujetos obligados deberán reconducir la solicitud y atenderla en términos de las leyes aplicables al ejercicio del derecho a la protección de datos personales. Dando acceso a los datos previa acreditación de la identidad o personalidad del mismo, en términos de las disposiciones normativas aplicables.
 
 En caso de que los documentos puestos a disposición del titular de los datos contengan información pública, además de sus datos personales, no deberá testarse ésta.
 
 Ante las solicitudes de acceso en las que se requieran datos personales de terceros que obren en una fuente de acceso público o en un registro público, los sujetos obligados en cumplimiento al principio de finalidad deberán orientar al solicitante para que acuda a aquél en el que se encuentre la información y la obtenga mediante el procedimiento establecido para tal fin.
 
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
 Cuadragésimo. En relación con el último párrafo del artículo 116 de la Ley General, para clasificar la información por confidencialidad, no será suficiente que los particulares la hayan entregado con ese carácter ya que los sujetos obligados deberán determinar si aquéllos son titulares de la información y si tienen el derecho de que se considere clasificada, debiendo fundar y motivar la confidencialidad. La información que podrá actualizar este supuesto, entre otra, es la siguiente:
 
 I. La que se refiera al patrimonio de una persona moral, y
 
-II. La que comprenda hechos y actos de carácter económico, contable, jurídico o administrativo relativos a una persona, que pudiera ser útil para un competidor por ejemplo, la relativa a detalles sobre el manejo del negocio del titular, sobre su proceso de toma de decisiones o información que pudiera afectar sus negociaciones, acuerdos de los órganos de administración, políticas de dividendos y sus modificaciones o actas de asamblea.
+II. La que comprenda hechos y actos de carácter económico, contable, jurídico o administrativo relativos a una persona, que únicamente le incumba a su titular, por ejemplo, la relativa a detalles sobre el manejo del negocio del titular, sobre su proceso de toma de decisiones o información que pudiera afectar sus negociaciones, acuerdos de los órganos de administración, políticas de dividendos y sus modificaciones o actas de asamblea.
 
 Cuadragésimo primero. Será confidencial la información que los particulares proporcionen a los sujetos obligados para fines estadísticos; que éstos obtengan de registros administrativos o aquellos que contengan información relativa al estado civil de las personas, no podrán difundirse en forma nominativa o individualizada, o de cualquier otra forma que permita la identificación inmediata de los involucrados, o conduzcan, por su estructura, contenido o grado de desagregación a la identificación individual de los mismos, en los términos que determine la Ley del Sistema Nacional de Información Estadística y Geográfica.
 
@@ -443,9 +517,11 @@ Cuadragésimo tercero. En el caso de los fideicomisos privados que involucren re
 
 Los sujetos obligados deberán establecer en los instrumentos por los que se formalice la aportación de recursos públicos, la obligación de quienes lo reciben, de presentar los informes relativos a su ejercicio.
 
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
 Cuadragésimo cuarto. De conformidad con el artículo 116, párrafo tercero de la Ley General, para clasificar la información por secreto comercial o industrial deberán acreditarse los supuestos siguientes:
 
-I. Que se trate de información generada con motivo de actividades industriales o comerciales de su titular, en términos de lo dispuesto en la Ley de Propiedad Industrial;
+I. Que se trate de información generada con motivo de actividades industriales o comerciales de su titular, en términos de lo dispuesto en la Ley Federal de Protección a la Propiedad Industrial y demás disposiciones que resulten aplicables en la materia;
 
 II. Que la información sea guardada con carácter de confidencial y se hayan adoptado los medios o sistemas para preservarla;
 
@@ -489,127 +565,101 @@ V. En la motivación de la desclasificación, deberá acreditar las circunstanci
 
 VI. Deberán elegir la opción de acceso a la información que menos invada la intimidad ocasionada por la divulgación, la cual será adecuada y proporcional para la protección del interés privado, y deberá interferir lo menos posible en el ejercicio efectivo del derecho de acceso a la información.
 
-### CAPÍTULO VIII. DE LA LEYENDA DE CLASIFICACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Quincuagésimo. Los titulares de las áreas de los sujetos obligados podrán utilizar los formatos contenidos en el presente Capítulo como modelo para señalar la clasificación de documentos o expedientes, sin perjuicio de que establezcan los propios.
+### CAPÍTULO VIII. DE LOS ELEMENTOS PARA LA CLASIFICACIÓN
 
-Quincuagésimo primero. La leyenda en los documentos clasificados indicará:
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-I. La fecha de sesión del Comité de Transparencia en donde se confirmó la clasificación, en su caso;
+Quincuagésimo. Los titulares de las áreas de los sujetos obligados podrán establecer sus propios modelos o formatos para la elaboración de versiones públicas de documentos o expedientes, siempre y cuando cumplan lo establecido en los presentes Lineamientos, así como en las correspondientes Leyes Generales.
 
-II. El nombre del área;
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-III. La palabra reservado o confidencial;
+Quincuagésimo primero. Toda acta del Comité de Transparencia deberá contener:
 
-IV. Las partes o secciones reservadas o confidenciales, en su caso;
+I. El número de sesión y fecha;
 
-V. El fundamento legal;
+II. El nombre del área que solicitó la clasificación de información;
 
-VI. El periodo de reserva, y
+III. La fundamentación legal y motivación correspondiente;
 
-VII. La rúbrica del titular del área.
+IV. La resolución o resoluciones aprobadas; y
 
-Quincuagésimo segundo. Los sujetos obligados elaborarán los formatos a que se refiere este Capítulo en medios impresos o electrónicos, entre otros, debiendo ubicarse la leyenda de clasificación en la esquina superior derecha del documento.
+V. La rúbrica o firma digital de cada integrante del Comité de Transparencia.
 
-En caso de que las condiciones del documento no permitan la inserción completa de la leyenda de clasificación, los sujetos obligados deberán señalar con números o letras las partes testadas para que, en una hoja anexa, se desglose la referida leyenda con las acotaciones realizadas.
+Las resoluciones del Comité en las que se haya determinado confirmar o modificar la clasificación de información pública como reservada, deberán incluir, cuando menos:
 
-Quincuagésimo tercero. El formato para señalar la clasificación parcial de un documento, es el siguiente:
+I. Los motivos y razonamientos que sustenten la confirmación o modificación de la prueba de daño;
 
-Concepto Dónde:
+II. Descripción de las partes o secciones reservadas, en caso de clasificación parcial;
 
-Sello oficial o
+III. El periodo por el que mantendrá su clasificación y fecha de expiración; y
 
-logotipo del
+IV. El nombre del titular y área encargada de realizar la versión pública del documento, en su caso.
 
-sujeto
+En los casos en que se clasifique la información como reservada siempre se entregará o anexará la prueba de daño con la respuesta al solicitante.
 
-obligado
+En los casos de resoluciones del Comité de Transparencia en las que se confirme la clasificación de información confidencial solo se deberán de identificar los tipos de datos protegidos, de conformidad con el lineamiento trigésimo octavo.
 
-Fecha de clasificación Se anotará la fecha en la que el Comité de Transparencia confirmó la clasificación del documento, en su caso.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Área Se señalará el nombre del área del cual es titular quien clasifica.
+Quincuagésimo segundo. Para la clasificación y elaboración de versiones públicas de documentos que contengan información clasificada como reservada o confidencial, las áreas de los sujetos obligados deberán tomar las medidas pertinentes tendientes a asegurar que el espacio utilizado para testar la información no podrá ser empleado para la sobreposición de contenido distinto al autorizado por el Comité.
 
-Información reservada Se indicarán, en su caso, las partes o páginas del documento que se clasifican como reservadas. Si el documento fuera reservado en su totalidad, se anotarán todas las páginas que lo conforman. Si el documento no contiene información reservada, se tachará este apartado.
+En el caso específico de la clasificación y elaboración de versiones públicas de documentos que contengan información confidencial, las áreas de los sujetos obligados deberán:
 
-Periodo de reserva Se anotará el número de años o meses por los que se mantendrá el documento o las partes del mismo como reservado.
+I. Fijar la fecha en que se elaboró la versión pública y la fecha en la cual el Comité de Transparencia confirmó dicha versión;
 
-Fundamento legal Se señalará el nombre del ordenamiento, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustente la reserva.
+II. Señalar dentro del documento el tipo de información confidencial que fue testada en cada caso específico, de conformidad con el lineamiento trigésimo octavo; y
 
-Ampliación del periodo de reserva En caso de haber solicitado la ampliación del periodo de reserva originalmente establecido, se deberá anotar el número de años o meses por los que se amplía la reserva.
+III. Señalar las personas o instancias autorizadas a acceder a la información clasificada.
 
-Confidencial Se indicarán, en su caso, las partes o páginas del documento que se clasifica como confidencial. Si el documento fuera confidencial en su totalidad, se anotarán todas las páginas que lo conforman. Si el documento no contiene información confidencial, se tachará este apartado.
+En los documentos de difusión electrónica, señalar en la primera hoja y en el nombre del archivo, que la versión pública corresponde a un documento que contiene información confidencial.
 
-Fundamento legal Se señalará el nombre del ordenamiento, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustente la confidencialidad.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Rúbrica del titular del área Rúbrica autógrafa de quien clasifica.
+Quincuagésimo tercero. El formato para señalar la clasificación de un documento o expediente que contenga información reservada, es el siguiente:
 
-Fecha de desclasificación Se anotará la fecha en que se desclasifica el documento.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 18 DE NOVIEMBRE DE 202, PAGINAS DE LA 30 A LA 32.]</small>
 
-Rúbrica y cargo del servidor público Rúbrica autógrafa de quien desclasifica.
+Los documentos que integren un expediente reservado en su totalidad no deberán marcarse en lo individual.
 
-Quincuagésimo cuarto. El expediente del cual formen parte los documentos que se consideren reservados o confidenciales en todo o en parte, únicamente llevará en su carátula la especificación de que contiene partes o secciones reservadas o confidenciales.
+Una vez desclasificados los expedientes, si existieren documentos que tuvieran el carácter de reservados deberán permanecer o ser marcados.
 
-Quincuagésimo quinto. Los documentos que integren un expediente reservado o confidencial en su totalidad no deberán marcarse en lo individual.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Una vez desclasificados los expedientes, si existieren documentos que tuvieran el carácter de reservados o confidenciales, deberán ser marcados.
+Quincuagésimo cuarto. Cuando el Comité de Transparencia confirme la clasificación de documentos reservados y/o confidenciales, sea total o parcialmente; se deberá anexar al expediente la resolución que determinó la clasificación o, en su defecto, identificar en la carátula del expediente del cual formen parte, la fecha y sesión del Comité de Transparencia en la que se confirmó dicha clasificación.
 
-El formato para señalar la clasificación de expedientes que por su naturaleza sean en su totalidad reservados o confidenciales, es el siguiente:
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Concepto Dónde:
-
-Sello oficial o
-
-logotipo del
-
-sujeto
-
-obligado.
-
-Fecha de clasificación Se anotará la fecha en la que el Comité de Transparencia confirmó la clasificación del documento, en su caso.
-
-Área Se señalará el nombre del área de la cual es el titular quien clasifica.
-
-Reservado Leyenda de información RESERVADA.
-
-Periodo de reserva Se anotará el número de años o meses por los que se mantendrá el documento o las partes del mismo como reservado. Si el expediente no es reservado, sino confidencial, deberá tacharse este apartado.
-
-Fundamento legal Se señalará el nombre del o de los ordenamientos jurídicos, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustenta la reserva.
-
-Ampliación del periodo de reserva En caso de haber solicitado la ampliación del periodo de reserva originalmente establecido, se deberá anotar el número de años o meses por los que se amplía la reserva.
-
-Confidencial Leyenda de información CONFIDENCIAL.
-
-Fundamento legal Se señalará el nombre del o de los ordenamientos jurídicos, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustente la confidencialidad.
-
-Rúbrica del titular del área Rúbrica autógrafa de quien clasifica.
-
-Fecha de desclasificación Se anotará la fecha en que se desclasifica.
-
-Partes o secciones reservadas o confidenciales En caso que una vez desclasificado el expediente, subsistan partes o secciones del mismo reservadas o confidenciales, se señalará este hecho.
-
-Rúbrica y cargo del servidor público Rúbrica autógrafa de quien desclasifica.
+Quincuagésimo quinto. Cada área del sujeto obligado podrá designar formalmente a una o más personas como responsables del testado, que sean encargadas de la adecuada elaboración o supervisión de las versiones públicas de los documentos o expedientes, verificando que cumplan con los requisitos señalados en las Leyes Generales, los presentes Lineamientos y demás normativa aplicable antes de su confirmación por el Comité de Transparencia.
 
 ### CAPÍTULO IX. DE LAS VERSIONES PÚBLICAS
 
-Quincuagésimo sexto. La versión pública del documento o expediente que contenga partes o secciones reservadas o confidenciales, será elaborada por los sujetos obligados, previo pago de los costos de reproducción, a través de sus áreas y deberá ser aprobada por su Comité de Transparencia.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+Quincuagésimo sexto. Cuando la elaboración de la versión pública del documento o expediente que contenga partes o secciones reservadas o confidenciales, genere costos por reproducción por derivar de una solicitud de información o determinación de una autoridad competente, ésta será elaborada hasta que se haya acreditado el pago correspondiente.
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
 Quincuagésimo séptimo. Se considera, en principio, como información pública y no podrá omitirse de las versiones públicas la siguiente:
 
 I. La relativa a las Obligaciones de Transparencia que contempla el Título V de la Ley General y las demás disposiciones legales aplicables;
 
-II. El nombre de los servidores públicos en los documentos, y sus firmas autógrafas, cuando sean utilizados en el ejercicio de las facultades conferidas para el desempeño del servicio público, y
+II. El nombre de los integrantes de los sujetos obligados en los documentos, y sus firmas autógrafas o digitales, cuando sean utilizados en el ejercicio de las facultades conferidas para el desempeño del servicio público, y
 
 III. La información que documente decisiones y los actos de autoridad concluidos de los sujetos obligados, así como el ejercicio de las facultades o actividades de los servidores públicos, de manera que se pueda valorar el desempeño de los mismos.
 
-Lo anterior, siempre y cuando no se acredite alguna causal de clasificación, prevista en las leyes o en los tratados internaciones suscritos por el Estado mexicano.
+Lo anterior, siempre y cuando no se acredite alguna causal de clasificación, prevista en las leyes o en los tratados internacionales suscritas por el Estado mexicano.
 
-Quincuagésimo octavo. Los sujetos obligados garantizarán que los sistemas o medios empleados para eliminar la información en las versiones públicas no permitan la recuperación o visualización de la misma.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
+
+Quincuagésimo octavo. Los sujetos obligados garantizarán que los sistemas o medios empleados para eliminar la información en las versiones públicas sean irreversibles, de tal forma que no permitan su recuperación o la visualización de la misma.
 
 #### SECCIÓN I. DOCUMENTOS IMPRESOS
 
-Quincuagésimo noveno. En caso de que el documento únicamente se posea en versión impresa, deberá fotocopiarse y sobre éste deberán testarse las palabras, párrafos o renglones que sean clasificados, debiendo anotar al lado del texto omitido, una referencia numérica tal y como se puede observar en el modelo para testar documentos impresos contenido en el Anexo 1 de los Lineamientos, "Modelo para testar documentos impresos".
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-En caso de que sea posible la digitalización del documento, se deberá observar lo establecido en el lineamiento Sexagésimo.
+Quincuagésimo noveno. En caso de que el documento únicamente se posea en versión impresa, deberá fotocopiarse o digitalizarse y sobre éste deberán testarse las palabras, párrafos o renglones que sean clasificados.
 
 La información deberá protegerse con los medios idóneos con que se cuente, de tal forma que no permita la revelación de la información clasificada.
 
@@ -617,41 +667,21 @@ La información deberá protegerse con los medios idóneos con que se cuente, de
 
 Sexagésimo. En caso de que el documento se posea en formato electrónico, deberá crearse un nuevo archivo electrónico para que sobre el mismo se elabore la versión pública, eliminando las partes o secciones clasificadas, de acuerdo con el modelo para testar documentos electrónicos contenido en el Anexo 2 de los Lineamientos, "Modelos para testar documentos electrónicos".
 
-Sexagésimo primero. En la parte del documento donde se hubiese ubicado originalmente el texto eliminado, deberá insertarse un cuadro de texto en color distinto al utilizado en el resto del documento con la palabra "Eliminado", el tipo de dato o información cancelado y señalarse si la omisión es una palabra(s), renglón(es) o párrafo(s).
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-En el cuadro de texto mencionado en el párrafo anterior, deberá señalarse el fundamento legal de la clasificación, incluyendo las siglas del o los ordenamientos jurídicos, artículo, fracción y párrafo que fundan la eliminación respectiva, así como la motivación de la clasificación y, por tanto, de la eliminación respectiva.
+Sexagésimo primero. En la parte del documento donde se hubiese ubicado originalmente el texto eliminado, deberá insertarse un recuadro cubriendo los datos a testar o caracteres que los sustituyan, de manera que no puedan advertirse letras, números o signos que delaten el contenido, en dicho recuadro se deberá establecer el tipo de información suprimida en ese mismo espacio o, en su defecto, al margen o al final del documento.
 
 En caso de que el documento, se hubiere solicitado impreso, se realizará la impresión respectiva.
 
 #### SECCIÓN III. DE LA ELABORACIÓN DE VERSIONES PÚBLICAS DE LA INFORMACIÓN CONTENIDA EN LAS OBLIGACIONES DE TRANSPARENCIA, EN CASOS DE EXCEPCIÓN
 
-> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-Sexagésimo segundo. Las versiones públicas siempre requerirán de la aprobación del Comité de Transparencia y de un formato que permita conocer las razones y argumentos debidamente fundados y motivados de las partes que han sido testadas en una versión pública.
+Sexagésimo segundo. Las versiones públicas elaboradas por las áreas para efectos de dar cumplimiento de las obligaciones de transparencia establecidas en los Títulos Quinto de la Ley General, Tercero de la Ley Federal y las análogas de las leyes locales de transparencia, bastará con que sean confirmadas por el Comité de Transparencia, conforme a las disposiciones aplicables para la elaboración de versiones públicas y la debida fundamentación y motivación, contenida en una misma resolución, enlistándolas por número de expediente o dato que identifique al documento que se trate.
 
-Lo anterior se llevará a cabo de la siguiente manera:
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2022)</small>
 
-a) En los casos de las versiones públicas derivadas de la atención a una solicitud de acceso a información pública o que derive de la resolución de una autoridad competente, se llevarán a cabo mediante la aplicación de la prueba de daño o de interés público, según corresponda, en el caso de información susceptible de clasificarse como reservada; así como de la información confidencial.
-
-b) En los casos de las versiones públicas elaboradas sólo para efectos del cumplimiento de las obligaciones de transparencia establecidas en los Títulos Quinto de la Ley General, Tercero de la Ley Federal y las análogas de las leyes locales de transparencia, bastará con que sean aprobadas por el Comité de Transparencia en sesión especial, conforme a las disposiciones aplicables que exijan la elaboración de versión pública. En dicha sesión se detallará la debida fundamentación y motivación que exija este ejercicio de clasificación. Asimismo, no se podrán omitir de las versiones públicas los elementos esenciales que muestren la información contenida en las obligaciones de transparencia.
-
-> <small>(REFORMADO, D.O.F. 29 DE JULIO DE 2016)</small>
-
-Sexagésimo tercero. Para la elaboración de todo tipo de versión pública, ya sea para el cumplimiento a obligaciones de transparencia o bien, derivadas de la atención a una solicitud de información o del mandatado de autoridad competente, los Sujetos Obligados elaborarán una leyenda ya sea en carátula o en colofón que rija a todo documento sometido a versión pública.
-
-En dicha leyenda inscrita en la carátula o en colofón se deberá señalarse (sic) lo siguiente:
-
-I. El nombre del área del cual es titular quien clasifica.
-
-II. La identificación del documento del que se elabora la versión pública.
-
-III. Las partes o secciones clasificadas, así como las páginas que la conforman.
-
-IV. Fundamento legal, indicando el nombre del ordenamiento, el o los artículos, fracción(es), párrafo(s) con base en los cuales se sustente la clasificación; así como las razones o circunstancias que motivaron la misma.
-
-V. Firma del titular del área. Firma autógrafa de quien clasifica.
-
-VI. Fecha y número del acta de la sesión de Comité donde se aprobó la versión pública.
+Sexagésimo tercero. En el caso de la elaboración de versiones públicas para el cumplimiento de obligaciones de transparencia, el área del sujeto obligado podrá designar "responsables del testado", que se encarguen de verificar que la información confidencial o reservada se encuentra debidamente suprimida, resguardada o cubierta conforme a la determinación del Comité de Transparencia.
 
 #### SECCIÓN IV. DE LAS ACTAS, MINUTAS, ACUERDOS Y VERSIONES ESTENOGRÁFICAS DONDE INTERVENGAN SERVIDORES PÚBLICOS
 
@@ -770,3 +800,9 @@ Primero. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos, como administrador general de la Plataforma Nacional de Transparencia, desarrollará las herramientas tecnológicas para implementar el Sistema de Índice de expedientes clasificados como reservados, en términos del décimo segundo y décimo cuarto de los Lineamientos Generales en materia de Clasificación y Desclasificación de la Información, así como para la Elaboración de Versiones Públicas.
 
 Tercero. Se instruye al Secretario Ejecutivo para que publique el presente Acuerdo en el Diario Oficial de la Federación y a los integrantes del Sistema Nacional para su publicación en sus respectivas páginas electrónicas.
+
+D.O.F. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL CONSEJO NACIONAL DEL SISTEMA NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES QUE REFORMA DIVERSOS ARTÍCULOS DE LOS LINEAMIENTOS GENERALES EN MATERIA DE CLASIFICACIÓN Y DESCLASIFICACIÓN DE LA INFORMACIÓN, ASÍ COMO PARA LA ELABORACIÓN DE VERSIONES PÚBLICAS”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor 60 días naturales después de su publicación en el Diario Oficial de la Federación.
