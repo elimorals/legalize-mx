@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2022-08-17"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -185,7 +185,13 @@ e) Las medidas jurisdiccionales, que permitan juzgar con perspectiva de género 
 
 ###### Artículo 9.
 
-El Estado y los Municipios en el ámbito de sus respectivas competencias, deberán ejercer sus atribuciones en materia de esta Ley de conformidad con la distribución de competencias previstas en la misma y en otros ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+1. El Estado y los Municipios en el ámbito de sus respectivas competencias, deberán ejercer sus atribuciones en materia de esta Ley de conformidad con la distribución de competencias previstas en la misma y en otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+2. El Estado con el apoyo de los municipios garantizará un igual derecho a la educación de mujeres y hombres a través de la integración activa, en los objetivos y en las actuaciones educativas, a la igualdad de oportunidades, evitando que, información, comportamientos sexistas o por los estereotipos sociales y de género asociados, se propicien desigualdades entre mujeres y hombres. Las acciones afirmativas para que las mujeres accedan a trato preferente no constituyen violación de la igualdad.
 
 ###### Artículo 10.
 
@@ -994,6 +1000,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA
 P.O. 17 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-170 POR EL QUE SE ADICIONA EL INCISO E) AL PÁRRAFO 3 DEL ARTÍCULO 12 Y SE RECORREN LOS INCISOS SUBSECUENTES EN SU ORDEN NATURAL DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-408 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”]
 
 ###### ARTÍCULO ÚNICO.
 
