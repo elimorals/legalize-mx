@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2021-09-30"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -365,11 +365,17 @@ XIII. El derecho a la protección más amplia de las familias, en su ámbito ind
 
 Las autoridades estatales y municipales promoverán la integración, el desarrollo y el fortalecimiento de la familia; sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad.
 
-Los bienes considerados como objeto del patrimonio de familia, se considerarán inalienables, imprescriptibles e inembargables, a manera de protección a la familia en términos de la legislación civil aplicable; y
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2021)</small>
+Los bienes considerados como objeto del patrimonio de familia, se considerarán inalienables, imprescriptibles e inembargables, a manera de protección a la familia en términos de la legislación civil aplicable;
 
-XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas, que habiten el territorio, sea cual fuese su situación o aspiración.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XIV. El Estado reconoce los derechos de las personas pertenecientes a los pueblos y comunidades indígenas, que habiten el territorio, sea cual fuese su situación o aspiración; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2022)</small>
+
+XV. Toda persona tiene derecho a la movilidad. El Estado y los municipios adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, bajo un sistema integral de calidad, aceptable, suficiente y accesible que, en condiciones de igualdad y sostenibilidad, permita un efectivo desplazamiento para la satisfacción de las necesidades y pleno desarrollo de toda persona.
 
 ###### Art. 17 Bis.
 
@@ -5344,6 +5350,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 30 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-813 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 33; Y 125, PÁRRAFOS SÉPTIMO, FRACCIÓN IV, Y OCTAVO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-139 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XIII, PÁRRAFO TERCERO; Y XIV; Y SE ADICIONA LA FRACCIÓN XV, AL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE MOVILIDAD".]
 
 ###### ARTÍCULO ÚNICO.
 
