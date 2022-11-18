@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-59-organica-de-division-territorial-del-estado-9294"
 country: "mx"
 rank: "ley"
 publication_date: "1944-12-20"
-last_updated: "1954-01-06"
+last_updated: "2022-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
 
-LEY NUMERO 59 ORGANICA DE DIVISION TERRITORIAL DEL ESTADO
+LEY NÚMERO 59 ORGÁNICA DE DIVISIÓN TERRITORIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1954.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 20 de diciembre de 1944.
 
@@ -613,9 +613,9 @@ Las Rancherías de Piedra Fina, El Campanario y El Rincón.
 
 III.- La Municipalidad de Coyuca de Benítez, comprende su Cabecera el pueblo de Coyuca de Benítez y además los de Tixtlancingo, Bajos del Ejido, El Papayo, El Cayaco, Aguas Blancas, Ejido Viejo, Pueblo Viejo, Tepetixtla, Cahuatitán, Barrio Nuevo, Las Lomas, El Embarcadero y El Zapote.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1947)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
-Las Cuadrillas de Atoyaquillo, Calpantepec, El Carrizal, Los Cimientos, El Huamúchil, San José Tasajeras, Paso Real, Las Pozas, Valle del Río, Yetla, Aguazarca, Santa Rosa, Barrio Nuevo, (antes La Laja), El Conchero, Las Compuertas, San Isidro, San Juan, Los Nopales, Ocotillo, La Playa, Platanillo y Yerbasantita.
+Las Cuadrillas de Atoyaquillo, El Bejuco, El Carrizal, Los Cimientos, El Huamúchil, San José Tasajeras, Paso Real, Las Pozas, Valle del Río, Yetla, Aguazarca, Santa Rosa, Barrio Nuevo, (antes La Laja), El Conchero, Las Compuertas, San Isidro, San Juan, Los Nopales, Ocotillo, La Playa, Platanillo, Yerbasantita y El Posquelite.
 
 Las Rancherías de Espinalillo y San Nicolás.
 
@@ -752,3 +752,13 @@ UNICO.- El presente Decreto surtirá sus efectos a partir del día primero de en
 P.O. 6 DE ENERO DE 1954.
 
 UNICO: El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252, POR EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY NÚMERO 59, ORGÁNICA DE DIVISIÓN TERRITORIAL DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
