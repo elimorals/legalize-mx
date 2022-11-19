@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2022-08-06"
+last_updated: "2022-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1339,9 +1339,9 @@ CON EL ESTADO DE CHIAPAS.
 
 Partiendo del "CERRO MARTINEZ" con rumbo S13°00'O en línea recta hasta el "CERRO DE LA GINETA"; de este punto siguiendo con rumbo S49°30'E al "CERRO TRES CRUCES"; de este punto con rumbo S27°00'E a un punto denominado "SIN PENSAR" y que se localiza cerca de la estación de "SAN RAMÓN"; continuando con éste punto con rumbo SO3º00'E a la pesquería o agencia de policía denominada "CACHIMBO", correspondiente esta población al Estado de Oaxaca, la que se localiza en la orilla de la isla de León en el Océano Pacífico.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho regiones que son: Cañada, Costa, Istmo, Mixteca, Sierra Norte, Sierra Sur, Cuenca del Papaloapan y Valles Centrales.
+El Territorio del Estado de Oaxaca, geográficamente se conforma por ocho regiones que son: Sierra de Flores Magón, Costa, Istmo, Mixteca, Sierra de Juárez, Sierra Sur, Cuenca del Papaloapan y Valles Centrales.
 
 ## TITULO CUARTO. Del Gobierno del Estado
 
@@ -6318,6 +6318,14 @@ SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 6 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 627.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN LXXVI RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 717.- MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
