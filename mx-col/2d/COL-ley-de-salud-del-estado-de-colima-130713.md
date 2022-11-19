@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2021-12-11"
+last_updated: "2022-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -129,9 +129,9 @@ b) Proporcionar a la población los conocimientos sobre las causas de las enferm
 
 c) Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar y anticoncepción, interrupción legal del embarazo, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-VII. Gobernador, al Titular del Poder Ejecutivo Estatal;
+VII. Gobernador o Gobernadora, a la persona Titular del Poder Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -145,21 +145,21 @@ IX. Ley, a la Ley de Salud del Estado de Colima;
 
 X. Obesidad, El exceso de tejido adiposo que supone un riesgo para la salud. Para los adultos se determina cuando el Índice de Masa Corporal es igual o mayor que 30, para niños y adolescentes se utilizan tablas de percentiles Índice de Masa Corporal ajustadas por edad y por sexo, de conformidad con los criterios emitidos por la Organización Mundial de la Salud;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-XI. Secretaría de Educación, Secretaría de Educación del Gobierno del Estado de Colima;
+XI. Secretaría de Educación, a la Secretaría de Educación y Cultura del Gobierno del Estado de Colima;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
 XII. Secretaría de Salud, a la Secretaría de Salud del Poder Ejecutivo Federal;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-XIII. Secretaría, a la Secretaría de Salud y Bienestar Social del Gobierno del Estado de Colima o al organismo público descentralizado del Gobierno del Estado denominado los Servicios de Salud del Estado;
+XIII. Secretaría, a la Secretaría de Salud del Gobierno del Estado de Colima o al organismo público descentralizado del Gobierno del Estado denominado los Servicios de Salud del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Secretario, al Secretario de Salud y Bienestar Social y Presidente Ejecutivo de los Servicios de Salud del Estado de Colima;
+XIV. Secretario o Secretaria, a la persona titular de le (sic) Secretaría de Salud y Presidente Ejecutivo de los Servicios de Salud del Estado de Colima;
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -181,11 +181,17 @@ XVIII. Interrupción Legal del Embarazo: procedimiento médico que se realiza a 
 
 XIX. Interrupción Voluntaria del Embarazo: procedimiento médico que a solicitud de la persona embarazada realizan los integrantes del Sistema de Salud del Estado de Colima, como consecuencia de una violación sexual, sin que la usuaria lo haya denunciado ante las autoridades competentes, lo anterior en términos de lo previsto en la NOM-046-SSA2-2005 y normativa aplicable;
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+XX. POSIT: al cuestionario de tamizaje, que es un instrumento que consta de 81 reactivos que evalúan 7 áreas de funcionamiento de la vida de los adolescentes que pueden verse afectadas por factores de riesgo psicosociales: uso y abuso de sustancias, salud mental, relaciones familiares, relaciones con amigos, nivel educativo, interés vocacional, conducta agresiva-delictiva.
+
 ###### Artículo 4.
 
 Son autoridades sanitarias del Estado:
 
-I. El Gobernador;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+I. El Gobernador o Gobernadora;
 
 II. La Secretaría; y
 
@@ -225,6 +231,10 @@ m) Información y prevención del consumo de estupefacientes y psicotrópicos, a
 
 n) Promoción y realización de campañas permanentes de orientación e información al público, de conformidad con el Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, para la prevención de daños a la salud, provocados por el consumo de estupefacientes y psicotrópicos.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+ñ) Aplicar el cuestionario de tamizaje POSIT en coordinación con la Secretaría de Educación y Cultura en el Estado, en las escuelas de nivel básico y medio superior cuando lo soliciten las autoridades educativas y/o cuando se tenga proyectado fechas para ello o en programas establecidos, coadyuvando a evaluar la operatividad de lo señalado en los incisos anteriores m) y n) de este mismo artículo.
+
 II. Organizar, operar, supervisar y evaluar:
 
 a) El ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, de acuerdo a lo dispuesto por las leyes, así como bases de coordinación aplicables;
@@ -236,6 +246,10 @@ c) El programa contra el alcoholismo;
 d) El programa contra el tabaquismo; y
 
 e) El programa contra la farmacodependencia, en coordinación con la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+Incluyendo el programa de la aplicación del cuestionario de tamizaje POSIT, en coordinación con la Secretaría de Educación y Cultura en el Estado aplicado a los alumnos de educación básica y media superior, cuando así se considere necesario por la autoridad del plantel educativo, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
 
 III. Planear, organizar y desarrollar el Sistema Estatal de Salud, procurando su participación programática en el Sistema Nacional de Salud y coadyuvando a su consolidación y funcionamiento;
 
@@ -337,9 +351,11 @@ La exención a que se refiere la fracción I, del artículo 1°, de la Constituc
 
 El Secretario expedirá el acuerdo conforme al cual se regulen las cuotas de recuperación y su tabulador, acorde al Consejo Nacional de Salud y previa autorización de la Junta de Gobierno del organismo público descentralizado.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-El Gobernador, coordinadamente con la Secretaría de Salud podrá convenir con los Ayuntamientos la descentralización de los servicios de salubridad general concurrente, cuando su desarrollo económico y social lo haga necesario.
+El Gobernador o Gobernadora, coordinadamente con la Secretaría de Salud, podrá convenir con los Ayuntamientos la descentralización de los servicios de salubridad general concurrente, cuando su desarrollo económico y social lo haga necesario.
 
 ###### Artículo 13.
 
@@ -511,7 +527,9 @@ A fin de mejorar la calidad de los servicios de salud, los integrantes del Siste
 
 La coordinación del Sistema está a cargo de la Secretaría y tiene las siguientes atribuciones:
 
-I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Gobernador;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+I. Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del Sistema Nacional de Salud y con lo dispuesto por el Gobernador o la Gobernadora;
 
 II. Coordinar los programas de servicios de salud de las dependencias y entidades de la administración pública estatal;
 
@@ -519,7 +537,9 @@ III. Impulsar la desconcentración y descentralización de los servicios de salu
 
 IV. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública federal, en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
 
-V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sean requeridos por el Gobernador;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+V. Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sean requeridos por el Gobernador o la Gobernadora;
 
 VI. Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las leyes que regulen a las entidades participantes y demás disposiciones legales aplicables;
 
@@ -927,13 +947,47 @@ V. Fijar, con pleno respeto a la autonomía municipal, los lineamientos de coord
 
 VI. Implementar estrategias de coordinación de índole institucional con los prestadores de servicios de salud mental del sector público, social y privado, con la finalidad de generar convenios y acciones de coordinación para la prevención, diagnóstico oportuno, tratamiento, rehabilitación y seguimiento de los problemas de salud, así como en la prestación de los servicios de salud mental;
 
-VII. Coordinarse con la Secretaría del Trabajo y Previsión Social del Estado de Colima, a efecto de establecer acciones para que las personas con trastornos mentales, puedan acceder y conservar su fuente de trabajo; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
+VII. Coordinarse con la Subsecretaría del Trabajo del Estado de Colima, a efecto de establecer acciones para que las personas con trastornos mentales, puedan acceder y conservar su fuente de trabajo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Implementar coordinadamente con la Secretaría de Educación, un programa de salud mental que brinde diagnóstico, tratamiento, asistencia y atención a las niñas, niños y adolescentes que sean canalizados por la Secretaría de Educación, procedentes de un centro escolar para su atención; y
+
+(ADICIONA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2022)
+
+IX. Las demás acciones que contribuyan a la promoción fomento de la salud mental de la población.
 
 ###### Artículo 58.
 
 La Secretaría al momento de brindar atención de la Salud Mental, buscará dar prioridad a los grupos vulnerabilizados.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis.
+
+La Secretaría de Salud brindará a las niñas, niños y adolescentes que requieran un servicio de atención a la salud mental, el tratamiento, asistencia y atención necesarios, en las que se privilegie en todo momento el interés superior de la niñez y sean los conducentes para su edad.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis 1.
+
+En los servicios que brinde la Secretaría de Salud a las niñas, niños y adolescentes que requieran de atención a la salud mental, estos últimos deberán encontrarse acompañados de su padre, madre, o quien ejerza la tutela o guarda y custodia, desde el momento del inicio del tratamiento hasta su rehabilitación; y en todo momento se privilegiará el bienestar de la persona en atención.
+
+Cuando no sea posible el acompañamiento de quien ejerza la representación legal de las niñas, niños y adolescentes, deberá solicitarse al efecto la intervención de la Procuraduría de Protección de las Niñas, Niños y Adolescentes, para que en el ámbito de sus atribuciones legales, lleve a cabo dicha representación y las acciones necesarias para garantizar el bienestar de la persona en atención.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis 2.
+
+Las niñas, niños y adolescentes tendrán derecho a que se les garantice su salud mental y a vivir en condiciones de bienestar, aun ante la negativa de quienes ejerzan su representación legal, por lo que, en este último caso, deberá dársele la intervención legal que le corresponde a la Procuraduría de Protección de las Niñas, Niños y Adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis 3.
+
+Las y los profesionales de la salud mental, que brinden sus servicios a las niñas, niños y adolescentes, cuando adviertan que la persona en atención ha sido o está siendo víctima de violencia o maltrato físico, psicológico, sexual, emocional, o de cualquier otra índole, negligencia o abandono de parte de su padre, madre, o quien ejerza la tutela o guarda y custodia, cuidadores o cualquier otra persona, se encuentran obligados a informarlo por escrito a la Fiscalía General del Estado o a la Procuraduría de Protección de las Niñas, Niños y Adolescentes, según corresponda.
 
 ###### Artículo 59.
 
@@ -980,6 +1034,8 @@ Todo prestador de servicios de salud mental de los sectores público, social y p
 ###### Artículo 62 Bis.
 
 El Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima, contará con un Consejo Directivo que será el encargado de determinar la administración y políticas de aplicación de los recursos del fondo.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 176 PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DE LAS MODIFICACIONES AL ARTÍCULO 62 TER CORRESPONDERíAN AL PRESENTE ARTÍCULO; SE SUGIERE CONSULTAR DICHO ARTÍCULO.]</small>
 
 (ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018) (REFORMADA SU NOMENCLATURA [N. DE E. ANTES ARTÍCULO 62 TER], P.O. 30 DE MAYO DE 2020)
 
@@ -1187,31 +1243,45 @@ El Estado, adoptará todas las medidas legislativas, administrativas y de cualqu
 
 La Secretaría impulsará la participación del sector público y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud respecto a las personas que hayan sido intervenidas en cirugía reconstructiva de senos, mediante redes de apoyo, en el ámbito de sus respectivas competencias.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 176 PUBLICADO EN EL P.O. DE 19 DE NOVIEMBRE DE 2022, SE ADVIERTE QUE EL CONTENIDO DE LAS ADICIONES AL ARTÍCULO 62 TER CORRESPONDERíAN AL ARTÍCULO 62 BIS 1; SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS A PARTIR DEL DECRETO NÚMERO 273 DEL P.O. 30 DE MAYO DE 2020.]</small>
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 62 Ter.
 
-El Consejo Directivo del Fondo para la Atención y Tratamiento de Hemodiálisis del Estado de Colima se integrará de la siguiente manera:
+... (sic)
 
-I. Un Presidente que será el Secretario de Salud y Bienestar Social del Gobierno del Estado;
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-II. Un Secretario que será el Presidente de Comisión de Salud del Congreso del Estado;
+I. Un Presidente o Presidenta que será la persona titular de la Secretaría de Salud del Gobierno del Estado;
 
-III. Cinco vocales quienes serán:
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-a) El Secretario de Planeación y Finanzas del Gobierno del Estado;
+II. Un Secretario o Secretaria que será el Presidente o Presidenta de Comisión de Salud y Deporte del Congreso del Estado;
 
-b) El Presidente de la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos del Congreso del Estado;
+III. ... (sic)
 
-c) El Presidente de la Comisión de Derechos Humanos, Asuntos indígenas y Atención al migrante, del Congreso del Estado;
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-d) El Secretario de Administración y Gestión Pública del Gobierno del Estado; y
+a) El Secretario o Secretaria de Planeación, Finanzas y Administración del Gobierno del Estado;
 
-e) El Titular del DIF Estatal Colima.
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-Las atribuciones, funcionamiento y operación del Consejo Directivo, así como las reglas para la administración del Fondo se sujetarán a lo previsto por el Reglamento respectivo.
+b) El Presidente o Presidenta de la Comisión de Hacienda, Fiscalización y Cuenta Pública del Congreso del Estado;
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+c) El Presidente o Presidenta de la Comisión de Derechos Humanos del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+d) El Subsecretario o Subsecretaria de Administración del Gobierno del Estado; y
+
+e) ... (sic)
+
+... (sic)
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO IX. INTERRUPCIÓN LEGAL DEL EMBARAZO
 
@@ -1269,9 +1339,11 @@ III. Esté próximo a vencer el plazo para inducir una interrupción legal y seg
 
 ### Capítulo I. Disposiciones Comunes
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 63.
 
-Compete al Gobernador, a través de la Secretaría y a los Ayuntamientos, el control sanitario de los establecimientos, productos y servicios a que se refiere el artículo 7, de esta Ley, de conformidad con lo previsto por los artículos 4 y 13 de la misma.
+Compete al Gobernador o a la Gobernadora, a través de la Secretaría, y a los Ayuntamientos, el control sanitario de los establecimientos, productos y servicios a que se refiere el artículo 7, de esta Ley, de conformidad con lo previsto por los artículos 4 y 13 de la misma.
 
 ###### Artículo 64.
 
@@ -2400,3 +2472,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Titular del Poder Ejecutivo del Estado, procurará prever las medidas presupuestales y administrativas necesarias para garantizar el derecho a la interrupción legal del embarazo.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 175.- POR EL QUE SE ADICIONA LA FRACCIÓN XII AL NUMERAL 2 DEL ARTÍCULO 4; NUMERAL 7 AL ARTÍCULO 8; NUMERAL 5 AL ARTÍCULO 79; FRACCIÓN XII AL NUMERAL 1 DEL ARTÍCULO 119 Y FRACCIÓN VII AL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 3; INCISO Ñ) A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO AL INCISO E) DE LA FRACCIÓN II AMBOS DEL ARTÍCULO 5 DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA EL ARTÍCULO 20 BIS, 20 TER, 20 QUÁTER DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 176.- POR EL QUE SE REFORMAN LAS FRACCIONES VII, XI, XIII Y XIV DEL ARTÍCULO 3; LA FRACCIÓN I DEL ARTÍCULO 4; EL ARTÍCULO 12; LAS FRACCIONES I Y V DEL ARTÍCULO 24; SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 57; SE ADICIONAN LOS ARTÍCULOS 58 BIS, 58 BIS 1, 58 BIS 2 Y 58 BIS 3; LAS FRACCIONES I Y II ASÍ COMO LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN III DEL ARTÍCULO 62 TER; Y EL ARTÍCULO 63 DE LA LEY DE SALUD DEL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN LA FRACCIÓN II DEL NUMERAL 2 DEL ARTÍCULO 4; EL NUMERAL 1 DEL ARTÍCULO 89; EL NUMERAL 1 DEL ARTÍCULO 113 Y SE ADICIONAN LOS NUMERALES 2 A 5 AL ARTÍCULO 73, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2023, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Salud y de Educación y Cultura considerarán progresivamente, dentro (sic) sus presupuestos, los recursos públicos necesarios para el cumplimiento de las obligaciones generadas con el presente Decreto.
