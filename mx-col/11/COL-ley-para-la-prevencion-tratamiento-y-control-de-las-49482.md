@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-prevencion-tratamiento-y-control-de-las-49482"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-18"
-last_updated: "2022-07-30"
+last_updated: "2022-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No 4 del Periódico Oficial del Estado de Colima, el sábado 18 de febrero de 2006.
 
@@ -295,6 +295,20 @@ El sector salud promoverá acciones tendientes a formar una cultura del cuidado 
 
 El sector educativo impulsará a través de los planteles escolares la orientación formativa de los educandos sobre los riesgos y efectos nocivos que causan a la salud el uso de sustancias adictivas, así como modificación de la conducta de las personas que generan la alteración al orden social.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 20 BIS.- El POSIT, al cuestionario de tamizaje, que es un instrumento que consta de 81 reactivos que evalúan 7 áreas de funcionamiento de la vida de los adolescentes que pueden verse afectadas por factores de riesgo psicosociales: uso y abuso de sustancias, salud mental, relaciones familiares, relaciones con amigos, nivel educativo, interés vocacional, conducta agresiva-delictiva.
+
+El POSIT se aplica frecuentemente por el UNEME CAPA, que es la Unidad de Especialidades Médicas en Centros de Atención Primaria en Adicciones (UNEME CAPA), están diseñadas para ofrecer a la población un modelo de detección oportuna para las adicciones y de salud mental que contempla desde la prevención del consumo de sustancias psicoactivas hasta el tratamiento breve, ambulatorio, que sea accesible y de calidad.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 20 TER.- Una vez que se tenga el consentimiento por escrito de quienes ejerzan la patria potestad y/o tutores de los alumnos, cuando así lo considere necesario el Director del plantel, solicitará de manera formal a la Secretaría de Salud se lleve a cabo la aplicación del cuestionario de tamizaje POSIT a los alumnos de educación básica y media superior, de 12 a 18 años, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 20 QUATER.- La Secretaría de Salud, a través de la Comisión Estatal de Salud Mental y Adicciones, coordinará acciones de colaboración con instituciones y programas para realizar los cuestionarios de tamizaje POSIT a los estudiantes y una vez realizado la evaluaciones, llevarán a cabo la detección de inicio o de abuso de alguna sustancia u alguna otra situación riesgo y se coordinarán con la Dirección del plantel educativo, la Secretaría de Educación y Cultura y/o con las demás Direcciones y/o autoridades que puedan coadyuvar a la orientación de sus padres y/o tutores para brindarle atención integral al menor y a su familia; preponderando en todo momento los derechos de las niñas, niños y adolescentes.
+
 ###### ARTICULO 21.
 
 El sector asistencial orientará su atención a los grupos vulnerables, que por su desprotección se ubiquen en supuestos de riesgo, para reorientar su quehacer y brindarles protección, asistencia y apoyo, particularmente a los menores de la calle y de zonas marginadas.
@@ -523,6 +537,10 @@ Tratándose de menores de edad, los programas de rehabilitación serán obligato
 
 Tratándose de internamiento, los Centros de Tratamiento y Rehabilitación darán aviso de inmediato al momento del ingreso de la persona o cuando esta sea intervenida por el personal adscrito a dichos Centros, a la Dirección de Seguridad Municipal o su equivalente, como autoridad de primer contacto, a efecto de generar certeza y seguridad jurídica de su internamiento.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+Las personas menores de edad o incapaces legales, requerirán del consentimiento del padre, madre, tutor o representante legal. La Procuraduría de Protección de Niñas, Niños y Adolescentes, o en su caso, su equivalente Municipal, quien deberá validar el ingreso de las y los menores de edad a los Centros de Atención, debiendo velar por salvaguardar sus derechos, así como la eficacia e idoneidad de los tratamientos.
+
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
 
 ARTICULO 67 BIS.- Por resolución de una autoridad judicial, el ingreso y la permanencia del usuario en un centro de rehabilitación, tendrá el carácter de obligatorio.
@@ -563,9 +581,17 @@ III.- Contar con un responsable medico titulado, mismo que quedará acreditado a
 
 IV.- Registrar ante la Secretaría de Salud, al personal que preste servicios terapéuticos en las áreas de psicología, psiquiatría, trabajo social y profesiones a fines;
 
-V.- Presentar ante la Secretaría de Salud, los programas de tratamiento terapéutico integral que se aplique para la rehabilitación de los adictos; y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-VI.- Las demás que establezca ésta Ley.
+V. Presentar ante la Secretaría de Salud, los programas de tratamiento terapéutico integral que se aplique para la rehabilitación de los adictos;
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+VI. Obtener el consentimiento por escrito de quienes ejerzan la patria potestad o la tutela, cuando el usuario sea menor de edad o incapaz, salvo que sea internado por mandato judicial;
+
+Las personas a las que se refiere la presente fracción, solo serán aceptadas y permanecerán en el centro de atención, cuando estos cuenten con programas y espacios adecuados previamente autorizados por la Comisión y por la Procuraduría de Protección de Niñas, Niños y Adolescentes; y
+
+VII.- Las demás que establezca esta Ley.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -704,3 +730,17 @@ P.O. 30 DE JULIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, los Ayuntamientos de la Entidad, realizarán las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 177.- POR EL QUE SE ADICIONA EL PÁRRAFO CUARTO, AL ARTÍCULO 67, SE REFORMA LA FRACCIÓN V, ADICIONANDO UNA FRACCIÓN AL ARTÍCULO 69 PASANDO A SER ESTA LA VI, HACIENDO EL CORRIMIENTO DE LA SUBSECUENTE FRACCIÓN, TODOS DE LA LEY PARA LA PROTECCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 175.- POR EL QUE SE ADICIONA LA FRACCIÓN XII AL NUMERAL 2 DEL ARTÍCULO 4; NUMERAL 7 AL ARTÍCULO 8; NUMERAL 5 AL ARTÍCULO 79; FRACCIÓN XII AL NUMERAL 1 DEL ARTÍCULO 119 Y FRACCIÓN VII AL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 3; INCISO Ñ) A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO AL INCISO E) DE LA FRACCIÓN II AMBOS DEL ARTÍCULO 5 DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA EL ARTÍCULO 20 BIS, 20 TER, 20 QUATER DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
