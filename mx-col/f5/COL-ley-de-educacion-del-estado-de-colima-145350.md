@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-07-30"
+last_updated: "2022-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -91,7 +93,7 @@ Vigilancia y aplicación de la ley y glosario
 
 I. Autoridad educativa federal, a la Secretaría de Educación Pública de la Administración Pública Federal;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
 II. Autoridad educativa estatal, a la persona titular del Poder Ejecutivo del Estado de Colima, por conducto de la Secretaría de Educación y Cultura y la Coordinación de los Servicios Educativos del Estado, y las demás instancias que, en su caso, se establezcan para el ejercicio de la función social educativa;
 
@@ -114,6 +116,10 @@ IX. Personal docente, al profesional que asume ante el Estado y la sociedad la c
 X. Secretaría, a la Secretaría de Educación y Cultura como dependencia de la Administración Pública Centralizada del Poder Ejecutivo del Estado de Colima; y
 
 XI. Trabajador de la educación, al personal con funciones docente, técnico docente, de asesoría técnico pedagógica, de dirección y supervisión; así como administrativa o de apoyo y asistencia en el proceso educativo, cuya nómina es con cargo al presupuesto de egresos de la Federación y del Gobierno del Estado de Colima.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+XII. POSIT, al cuestionario de tamizaje, que es un instrumento que consta de 81 reactivos que evalúan 7 áreas de funcionamiento de la vida de los adolescentes que pueden verse afectadas por factores de riesgo psicosociales: uso y abuso de sustancias, salud mental, relaciones familiares, relaciones con amigos, nivel educativo, interés vocacional, conducta agresiva-delictiva.
 
 ###### Artículo 5.
 
@@ -156,6 +162,10 @@ Obligatoriedad de la educación
 5. La obligatoriedad de la educación superior corresponde al Estado, en los términos dispuestos por la fracción X del artículo 3º Constitucional y las leyes en la materia.
 
 6. Además de impartir educación en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Colima, la autoridad educativa estatal apoyará la investigación e innovación científica, humanística y tecnológica, y alentará el fortalecimiento y la difusión de la cultura nacional y universal, en los términos que las leyes en la materia determinen.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+7. La educación y cuidado de los educandos es integral, por lo que se aplicarán cuestionarios de tamizaje POSIT cuando se requieran, y quienes ejerzan la patria potestad o tutores de los menores deberán realizar las acciones necesarias y las que se sugieran por las autoridades de salud y educación para la atención integral del menor, si se considera que se encuentra en situación de riesgo.
 
 ### Capítulo III. De la Educación en el Estado de Colima
 
@@ -1017,6 +1027,22 @@ Servicios de orientación educativa, de trabajo social y de psicología.
 
 1. La autoridad educativa estatal ofrecerá servicios de orientación educativa, de trabajo social y de psicología desde la educación básica hasta la educación superior, de acuerdo con la suficiencia presupuestal y las necesidades de cada plantel, a fin de fomentar una conciencia crítica que perfile a los educandos en la selección de su formación a lo largo de la vida para su desarrollo personal y contribuir al bienestar de sus comunidades.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+2. La Secretaría deberá implementar, coordinadamente con la Secretaría de Salud, un programa de salud mental que brinde diagnóstico, tratamiento, asistencia y (sic) a las niñas, niños y adolescentes que sean canalizados por aquella, procedentes de un centro escolar para su atención.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+3. El sistema educativo estatal velará por contar con especialistas en salud mental, que lleven a cabo el diagnóstico, tamizaje de salud mental y en su caso canalización a la Secretaría de Salud, a fin de procurar el adecuado desarrollo de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+4. El tamizaje de salud mental se llevará a cabo, por lo menos una vez en el transcurso del ciclo escolar, para lo cual, los especialistas en salud mental, deberán contar con las herramientas, materiales y tecnología necesaria, proporcionadas coordinadamente por la Secretaría de Educación y la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+5. Si derivado del tamizaje de salud mental se advierte la necesidad de atención a la salud mental de alguna niña, niño o adolescente, la autoridad educativa deberá informar a quien ejerza la representación legal del educando y canalizarlo para su atención a la Secretaría de Salud. En caso de que, quien ejerce la representación legal del educando, no lo presente para su atención, la Secretaría de Educación dará vista a la Procuraduría de Protección de las Niñas, Niños y Adolescentes para que en el ámbito de sus atribuciones legales lleve a cabo lo conducente.
+
 ### Capítulo II. Del Fomento de Estilos de Vida Saludables en el Entorno Escolar
 
 ###### Artículo 74.
@@ -1069,13 +1095,9 @@ Medidas para preservar la integridad física, psicológica y social del educando
 
 4. Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, o quienes ejerzan la patria potestad, las autoridades educativas escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
 
-> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-5. La autoridad educativa estatal adoptará e implementará las facilidades necesarias, a fin de que, las mujeres o personas menstruantes estudiantes que hayan sido diagnosticadas con dismenorrea, previa acreditación mediante comprobante médico emitido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, puedan ausentarse del aula sin que ello represente alguna afectación posterior en su evaluación escolar.
-
-> <small>[N. DE E. PERTENECE AL PUNTO 5, P.O. 4 DE JUNIO DE 2022]</small>
-
-Debiendo el Centro Educativo al que asistan observar la viabilidad para recibir las clases de forma virtual y/o realizar la entrega de trabajos a través de plataformas digitales y/o aplicar exámenes en la misma modalidad, cuando éstas concurran en las fechas en que sea necesario el ausentarse.
+5. Con el consentimiento de quienes ejerzan la patria potestad y/o tutores se aplicará el cuestionario de tamizaje POSIT a los alumnos de educación básica y media superior, cuando así se considere necesario por el Director del plantel, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
 
 ###### Artículo 80.
 
@@ -1187,9 +1209,9 @@ Inducción del personal.
 
 Prestaciones de seguridad social y reconocimiento de derechos.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-1. Las prestaciones sociales y de seguridad social que se otorguen a los trabajadores dependientes de la Dirección de Educación Pública de la Secretaría de Educación y Cultura, serán proporcionadas por el Gobierno del Estado y las autoridades educativas, como lo establece la Ley de Pensiones de los Servidores Públicos del Estado de Colima, así como, la normatividad que al efecto resulte aplicable, sea de índole Constitucional, de legalidad o aquella que se derive de las Condiciones Generales de Trabajo al efecto aplicables.
+1. Las prestaciones sociales y de seguridad social que se otorguen a los trabajadores dependientes de la Dirección de Educación Pública de la Secretaría serán proporcionadas por el Gobierno del Estado y las autoridades educativas, como lo establece la Ley de Pensiones de los Servidores Públicos del Estado de Colima, así como, la normatividad que al efecto resulte aplicable, sea de índole Constitucional, de legalidad o aquella que se derive de las Condiciones Generales de Trabajo al efecto aplicables.
 
 2. Los trabajadores de la Coordinación, mantendrán, sin interrupción alguna las prestaciones de seguridad social que otorga el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -1563,9 +1585,9 @@ XVIII. Desarrollará programas con perspectiva de género, para otorgar producto
 
 Consejo Nacional de Autoridades Educativas
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2022)</small>
 
-1. La Secretaría de Educación y Cultura del Estado participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
+1. La Secretaría participará en el Consejo Nacional de Autoridades Educativas para acordar las acciones y estrategias que garanticen el ejercicio del derecho a la educación, así como el cumplimiento a los fines y criterios de la educación establecidos en la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
 ## Título Noveno. Del Financiamiento a la Educación
 
@@ -1645,6 +1667,10 @@ X. Conocer la situación académica y conducta de sus hijas, hijos o pupilos en 
 
 XI. Manifestar, de ser el caso, su inconformidad ante las autoridades educativas correspondientes, sobre cualquier irregularidad dentro del plantel educativo donde estén inscritas sus hijas, hijos o pupilos menores de dieciocho años y sobre las condiciones físicas de las escuelas.
 
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+XII. Recibir, al momento de la inscripción de sus hijas, hijos o pupilos, la Carta de Consentimiento para la aplicación del cuestionario de tamizaje POSIT, cuando así lo considere la autoridad del plantel educativo, así como la información respectiva, salvaguardando en todo momento los derechos de niñas, niños y adolescentes.
+
 ###### Artículo 120.
 
 Obligaciones de quienes ejercen la patria potestad o tutela
@@ -1662,6 +1688,10 @@ IV. Informar a las autoridades educativas, los cambios que se presenten en la co
 V. Acudir a los llamados de las autoridades educativas escolares relacionados con la revisión del progreso, desempeño y conducta de sus hijas, hijos o pupilos menores de dieciocho años, y
 
 VI. Promover la participación de sus hijas, hijos o pupilos menores de dieciocho años en la práctica de actividades físicas, de recreación, deportivas y de educación física dentro y fuera de los planteles educativos, como un medio de cohesión familiar, social y comunitaria.
+
+> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2022)</small>
+
+VII. Acudir al llamado del Director del plantel y atender las recomendaciones y acciones de las autoridades de salud, derivado de los resultados obtenidos de la aplicación del cuestionario de tamizaje POSIT.
 
 2. En caso de incumplimiento de alguna de las obligaciones a las que se refiere este artículo por parte de madres y padres de familia, tutores o quienes ejerzan la patria potestad, las autoridades educativas podrán dar aviso a las instancias encargadas de la protección integral de los derechos de niñas, niños y adolescentes para los efectos correspondientes en términos de la legislación aplicable.
 
@@ -2210,3 +2240,23 @@ P.O. 30 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 175.- POR EL QUE SE ADICIONA LA FRACCIÓN XII AL NUMERAL 2 DEL ARTÍCULO 4; NUMERAL 7 AL ARTÍCULO 8; NUMERAL 5 AL ARTÍCULO 79; FRACCIÓN XII AL NUMERAL 1 DEL ARTÍCULO 119 Y FRACCIÓN VII AL ARTÍCULO 120 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA; SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 3; INCISO Ñ) A LA FRACCIÓN I Y UN SEGUNDO PÁRRAFO AL INCISO E) DE LA FRACCIÓN II AMBOS DEL ARTÍCULO 5 DE LA LEY DE SALUD DEL ESTADO DE COLIMA, Y SE ADICIONA EL ARTÍCULO 20 BIS, 20 TER, 20 QUATER DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES EN EL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 19 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 176.- POR EL QUE SE REFORMAN LAS FRACCIONES VII, XI, XIII Y XIV DEL ARTÍCULO 3; LA FRACCIÓN I DEL ARTÍCULO 4; EL ARTÍCULO 12; LAS FRACCIONES I Y V DEL ARTÍCULO 24; SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX DEL ARTÍCULO 57; SE ADICIONAN LOS ARTÍCULOS 58 BIS, 58 BIS 1, 58 BIS 2 Y 58 BIS 3; LAS FRACCIONES I Y II ASÍ COMO LOS INCISOS A), B), C) Y D) DE LA FRACCIÓN III DEL ARTÍCULO 62 TER; Y EL ARTÍCULO 63 DE LA LEY DE SALUD DEL ESTADO DE COLIMA, ADEMÁS, SE REFORMAN LA FRACCIÓN II DEL NUMERAL 2 DEL ARTÍCULO 4; EL NUMERAL 1 DEL ARTÍCULO 89; EL NUMERAL 1 DEL ARTÍCULO 113 Y SE ADICIONAN LOS NUMERALES 2 A 5 AL ARTÍCULO 73, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° de enero de 2023, debiendo publicarse en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Secretarías de Salud y de Educación y Cultura considerarán progresivamente, dentro sus presupuestos, los recursos públicos necesarios para el cumplimiento de las obligaciones generadas con el presente Decreto.
