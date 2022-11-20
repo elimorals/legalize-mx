@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2017-12-31"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -285,9 +285,17 @@ III. Establecer y actualizar un padrón de miembros de la comunidad científica;
 
 IV. Facilitar a los miembros de la comunidad científica la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico;
 
-V. Orientar la investigación que se realiza en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa Estatal, así como, en las demandas estatales, y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-VI. Apoyar la integración de grupos de investigadores en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y productivo.
+V. Orientar la investigación que se realiza en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa Estatal, así como, en las demandas estatales;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VI. Apoyar la integración de grupos de investigadores en el Estado, que participen en el proceso de generación de conocimientos científicos y tecnológicos hasta su aplicación en la planta productiva de bienes y servicios, de las instituciones de los sectores público, social y productivo; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII. Promover y fomentar el apoyo, reconocimiento, participación y desarrollo de las mujeres duranguenses en la innovación, la ciencia y la tecnología.
 
 ###### Artículo 12.
 
@@ -952,3 +960,11 @@ PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publ
 SEGUNDO.- El presupuesto de Egresos para el ejercicio fiscal de 2018, del Consejo de Ciencia y Tecnología del Estado de Durango será de al menos el 0.04% del total del Presupuesto de Egresos para el Estado de Durango; el Congreso del Estado al aprobar la Ley de Egresos del Gobierno del Estado, corroborará el cumplimiento del presente artículo y en su caso establecerá dicho presupuesto.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 243.- QUE CONTIENEN REFORMAS Y ADICIONES A LA LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
