@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-condominios-del-estado-de-durango-96941"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-05"
-last_updated: "2022-10-23"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CONDOMINIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de mayo de 2013.
 
@@ -73,7 +73,9 @@ V. Comité de Vigilancia: el órgano de control y vigilancia integrado por cond�
 
 VI. Comités: los grupos integrados por condóminos o vecinos de unidades de propiedad privativa que se organizan para realizar actividades que atiendan algunos servicios complementarios ambientales, de protección civil y de promoción de la cultura condominal en beneficio de la comunidad;
 
-VII. Condominio: Modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute de su unidad privada y a la vez un derecho de copropiedad sobre los bienes de uso común, de acuerdo a las disposiciones de esta Ley, a la Escritura Constitutiva y al Reglamento;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII. Condominio: Modalidad de propiedad sobre un inmueble que otorga a su titular el derecho exclusivo de uso, goce y disfrute de su unidad privada y a la vez un derecho de copropiedad sobre los bienes de uso común, de acuerdo a las disposiciones de esta Ley, a la Escritura Constitutiva y al Reglamento, y que puede constituirse como persona moral, en cuyo caso además de la estructura, atribuciones y obligaciones de su Consejo de Administradores y administrador o administradores, deberá prever la representación de la persona moral ante autoridades fiscales, administrativas y tribunales.
 
 VIII. Condómino: la persona física o jurídica, propietaria de una o más unidades de propiedad privativa;
 
@@ -1230,3 +1232,11 @@ P.O. 23 DE OCTUBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 245.- QUE CONTIENE REFORMAS A LA FRACCION VII DEL ARTICULO 2 DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente Decreto.
