@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2022-11-08"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1357,6 +1357,10 @@ ART. 261.- El divorcio disuelve el vínculo matrimonial y deja a los cónyuges e
 
 Podrá solicitarse por cualquiera de los cónyuges acudiendo ante la autoridad judicial manifestando su voluntad de no querer continuar con el matrimonio, sin que se requiera señalar la causa por la cual se solicita.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refieren las fracciones del artículo 277 de este Código.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
 ART. 262.- Son causales de divorcio:
@@ -1499,17 +1503,21 @@ VII. Prohibir a los cónyuges que ocurran al domicilio o lugar determinado del o
 
 VIII. El Juez resolverá teniendo presente el interés superior de los hijos, quienes podrán ser escuchados con las modalidades del derecho de visita o convivencia con sus padres;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-IX. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código; y
+IX. Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-X. En los casos en que exista violencia familiar cometida por uno de los cónyuges o concubinos contra el otro, hacia los hijos de ambos, o de alguno de ellos, los hijos quedarán bajo la custodia provisional del cónyuge o concubino víctima de dicha conducta o, en su caso, de aquel que no hubiere sido quien ejerció dicha violencia.
+X. Adoptar medidas jurídicas para conminar al agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida de la victima de cualquier forma que atente contra su integridad o perjudique su propiedad;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XI. En los casos en que exista violencia familiar cometida por uno de los cónyuges o concubinos contra el otro, hacia los hijos de ambos, o de alguno de ellos, los hijos quedarán bajo la custodia provisional del cónyuge o concubino víctima de dicha conducta o, en su caso, de aquel que no hubiere sido quien ejerció dicha violencia; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE ABRIL DE 2021)</small>
 
-XI. Las demás que considere necesarias.
+XII. Las demás que considere necesarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE JULIO DE 2018)</small>
 
@@ -3901,7 +3909,9 @@ ART. 844.- El derecho de caza y el de apropiarse los productos de ésta en terre
 
 ART. 845.- En terrenos de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros gozan del derecho de caza en las fincas donde trabajen, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
 
-ART. 846.- El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las siguientes bases:
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+ART. 846.- El ejercicio del derecho de cazar se regirá por las leyes aplicables, los reglamentos administrativos y por las siguientes bases:
 
 ART. 847.- El cazador se hace dueño del animal que caza, por el acto de apoderarse de él, observándose lo dispuesto en el artículo 849.
 
@@ -3915,9 +3925,9 @@ ART. 851.- El hecho de entrar los perros de caza en terreno ajeno sin la volunta
 
 ART. 852.- La acción para pedir la reparación prescribe a los treinta días, contados desde la fecha en que se causó el daño.
 
-ART. 853.- Es lícito a los labradores destruir en cualquier tiempo los animales bravíos o cerriles que perjudiquen sus sementeras o plantaciones.
+ART. 853.- (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2022)
 
-ART. 854.- El mismo derecho tiene respecto a las aves domésticas en los campos en que hubiere tierras sembradas de cereales y otros frutos pendientes, a los que pudieren perjudicar aquellas aves.
+ART. 854.- (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2022)
 
 ART. 855.- Se prohibe absolutamente destruir en predios ajenos los nidos, huevos y crías de aves de cualquiera especie.
 
@@ -3925,9 +3935,11 @@ ART. 856.- La pesca en las aguas del dominio del poder público, que sean de uso
 
 ART. 857.- El derecho de pesca en aguas particulares, pertenece a los dueños de los predios en que aquellas se encuentren, con sujeción a las leyes y reglamentos de la materia.
 
-ART. 858.- Es lícito a cualquiera persona apropiarse los animales bravíos, conforme a los reglamentos respectivos.
+ART. 858.- (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2022)
 
-ART. 859.- Es lícito a cualquiera persona apropiarse los enjambres que no hayan sido encerrados en colmena o cuando la han abandonado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+ART. 859.- Es licito a cualquiera persona apropiarse los enjambres que no hayan sido encerrados en colmena o cuando la han abandonado, respetando en todo momento las disposiciones relativas a la preservación de las abejas.
 
 ART. 860.- No se entiende que las abejas han abandonado la colmena cuando se han posado en predio propio del dueño, o éste las persigue llevándolas a la vista.
 
@@ -11036,3 +11048,19 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 240.- QUE CONTIENE REFORMAS Y ADICIONES AL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 241.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 846 Y 859 Y SE DEROGAN LOS ARTÍCULOS 853, 854 Y 858 TODOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
