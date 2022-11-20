@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2021-12-26"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -541,13 +541,17 @@ IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomen
 
 V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación; y
+VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-VI (SIC). Implementar programas, acciones y medidas especiales para la protección de los derechos de niñas, niños y adolescentes en situación de orfandad, afectados por la violencia derivada de la comisión de algún delito o la violencia generalizada o de cualquier otra índole.
+VII. Implementar programas, acciones y medidas especiales para la protección de los derechos de niñas, niños y adolescentes en situación de orfandad, afectados por la violencia derivada de la comisión de algún delito o la violencia generalizada o de cualquier otra índole; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Adoptar medidas y acciones para la prevención, protección y erradicación de la hipersexualización infantil en el Estado.
 
 ### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
 
@@ -1921,7 +1925,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2194,3 +2198,11 @@ P.O. 26 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 253.- QUE CONTIENE ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
