@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2021-06-17"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -61,7 +61,9 @@ La presente ley es de observancia general e Interés social y reglamentaria del 
 
 Esta ley tiene por objeto:
 
-I.- Instrumentar la política del Estado para el campo, fortaleciendo el abasto y seguridad agroalimentarias;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+I.-Instrumentar la política del Estado para el campo, fortaleciendo el abasto, la autosuficiencia y seguridad agroalimentarias;
 
 II.- Impulsar el desarrollo rural en forma sustentable;
 
@@ -69,19 +71,39 @@ III.- Promover la participación organizada y corresponsable de los pobladores r
 
 IV.- Procurar la continuidad y suficiencia de los planes y programas de Gobierno con una visión de largo plazo;
 
-V.- Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo de Durango;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+V.- Disminuir las diferencias existentes en el desarrollo del medio rural, como una forma de alcanzar la justicia social en el campo de Durango, impulsando políticas para la educación, la capacitación, el desarrollo de las habilidades y la cultura en el medio rural;
 
 VI.- Crear la Comisión Intersecretarial para el desarrollo sustentable del campo de Durango, a efecto de fortalecer al Consejo Estatal, a los Consejos Municipales y Distritales;
 
 VII.- Elaborar el Programa Especial Concurrente para el Desarrollo Rural Sustentable del Estado de Durango, e integrar las estrategias y los recursos que conformen un paquete estatal de política pública y acciones concretas que tiendan a resolver coordinadamente los problemas rurales en el Estado;
 
-VIII.- Desarrollar y aplicar los instrumentos que garanticen una asistencia técnica especializada a los productores, dependiendo de su necesidad tecnológica y la prospectiva que hayan generado para su desarrollo permanente; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-IX.- Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura a lo largo de la cadena productiva, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan la mejora del productor.
+VIII.- Desarrollar y aplicar los instrumentos que garanticen una asistencia técnica especializada a los productores, dependiendo de su necesidad tecnológica y la prospectiva que hayan generado para su desarrollo permanente;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+IX.- Diseñar e implementar los apoyos directos, estímulos fiscales, créditos, fianzas, seguros, fondos, fideicomisos o cualquier otro instrumento económico que permitan el desarrollo de la infraestructura a lo largo de la cadena productiva, así como el fortalecimiento de esquemas modernos de comercialización y mercado, que permitan la mejora del productor;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+X.- Mejorar de manera integral la calidad de vida de la sociedad;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XI.- Impulsar y promover acciones y políticas que favorezcan a la agricultura, principalmente la agricultura familiar y autosustentable; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XII.- Promover el aprovechamiento de la tierra para producción agropecuaria y el uso de las que se encuentran ociosas en beneficio de propietarios y labradores.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 3.
 
-Se considera de interés público e interés social el desarrollo rural sustentable, que incluye la planeación y organización de la producción agropecuaria, el fomento tecnológico, la industrialización, comercialización de los bienes y servicios agropecuarios, además de todas aquellas acciones tendientes a mejorar la calidad de vida de la población rural del Estado.
+Se considera de interés público e interés social el desarrollo rural sustentable, que incluye la planeación y organización de la producción agropecuaria, el fomento tecnológico, la industrialización, comercialización de los bienes y servicios agropecuarios, además de todas aquellas acciones tendientes a mejorar la calidad de vida y el desarrollo integral de la población rural del Estado.
 
 ###### ARTÍCULO 4.
 
@@ -119,7 +141,9 @@ Son sujetos de esta Ley, todas las personas físicas o morales que de manera ind
 
 Para efecto de esta Ley se entiende por:
 
-I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura y acuacultura;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y floricultura;
 
 II.- Actividades Económicas de la sociedad rural.- Las actividades productivas, industriales, comerciales y de servicios agropecuarios;
 
@@ -183,49 +207,55 @@ XXX.- Organismos Genéticamente Modificados.- Cualquier organismo que posea una 
 
 XXXI.- Plan de Manejo de Tierras: El documento técnico operativo de los productores contratantes, que describe y programa actividades para el manejo de tierras, establece metas e indicadores de éxito en función de éstas y define los apoyos de los recursos presupuestales disponibles;
 
-XXXII.- Productos Básicos y Estratégicos.- Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XXXIII.- PEC.- El Programa Especial Concurrente para el Estado de Durango, es el conjunto de acciones y estrategias de los sectores agrícola y pecuario, que contiene el conjunto de programas sectoriales relacionados con las materias motivo de esta Ley;
+XXXII.- Productor.- Persona física o moral que se dedica a la producción agropecuaria;
 
-XXXIV.- Programa Sectorial.- Es el programa específico de cada dependencia gubernamental, que establece las políticas, objetivos, presupuestos e instrumentos a realizarse en el Estado;
+XXXIII.- Productos Básicos y Estratégicos.- Aquellos alimentos que son parte de la dieta de la mayoría de la población en general o diferenciada por regiones, y los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
 
-XXXV.- PROFEPA.- Procuraduría Federal de Protección al Ambiente;
+XXXIV.- PEC.- El Programa Especial Concurrente para el Estado de Durango, es el conjunto de acciones y estrategias de los sectores agrícola y pecuario, que contiene el conjunto de programas sectoriales relacionados con las materias motivo de esta Ley;
 
-XXXVI.- Recursos Naturales.- Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales tierras, bosques, recursos minerales, agua, comunidades vegetales y animales y recursos genéticos, mantenimiento y restauración a fin de salvaguardar los ecosistemas y su biodiversidad en la Entidad;
+XXXV.- Programa Sectorial.- Es el programa específico de cada dependencia gubernamental, que establece las políticas, objetivos, presupuestos e instrumentos a realizarse en el Estado;
 
-XXXVII.- Restauración.- Son las actividades para recuperar y restablecer las condiciones del medio ambiente que propician la evolución y continuidad de los procesos naturales;
+XXXVI.- PROFEPA.- Procuraduría Federal de Protección al Ambiente;
 
-XXXVIII.- Restauración de las Tierras: Las actividades tendientes a la recuperación y el restablecimiento de la capacidad productiva y de las condiciones que propician la evolución y continuidad de los procesos naturales de las tierras degradadas, hasta niveles que impiden o limitan severamente su uso productivo;
+XXXVII.- Recursos Naturales.- Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales tierras, bosques, recursos minerales, agua, comunidades vegetales y animales y recursos genéticos, mantenimiento y restauración a fin de salvaguardar los ecosistemas y su biodiversidad en la Entidad;
 
-XXXIX.- Riesgo Fitozoosanitario.- La posibilidad de introducción, establecimiento o diseminación de una enfermedad o plaga en la población animal o en vegetales;
+XXXVIII.- Restauración.- Son las actividades para recuperar y restablecer las condiciones del medio ambiente que propician la evolución y continuidad de los procesos naturales;
+
+XXXIX.- Restauración de las Tierras: Las actividades tendientes a la recuperación y el restablecimiento de la capacidad productiva y de las condiciones que propician la evolución y continuidad de los procesos naturales de las tierras degradadas, hasta niveles que impiden o limitan severamente su uso productivo;
+
+XL.- Riesgo Fitozoosanitario.- La posibilidad de introducción, establecimiento o diseminación de una enfermedad o plaga en la población animal o en vegetales;
 
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-XL.- SADER. Secretaría de Agricultura y Desarrollo Rural;
+XLI.- SADER. Secretaría de Agricultura y Desarrollo Rural;
 
-XLI.- Secretaría.- La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
+XLII.- Secretaría.- La Secretaría de Agricultura, Ganadería y Desarrollo Rural;
 
-XLII.- SEMARNAT.- Secretaría del Medio Ambiente y Recursos Naturales;
+XLIII.- SEMARNAT.- Secretaría del Medio Ambiente y Recursos Naturales;
 
-XLIII.- Servicios Ambientales.- Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros;
+XLIV.- Servicios Ambientales.- Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros;
 
-XLIV.- Sistema-Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluyendo el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XLV.- Sistema-Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluyendo el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
-XLV.- Suelo: Conjunto sistémico y dinámico de elementos físicos, químicos y bióticos capaces de sostener a las plantas y soportar la producción vegetal;
+XLVI.- Suelo: Conjunto sistémico y dinámico de elementos físicos, químicos y bióticos capaces de sostener a las plantas y soportar la producción vegetal;
 
-XLVI.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XLVII.- Tierra: El sistema bioproductivo terrestre que comprende el suelo, la vegetación, otros componentes de la biosfera y los procesos ecológicos e hidrológicos que se desarrollan dentro del sistema; así como los acondicionamientos de los terrenos, la cubierta forestal y la infraestructura desarrollada en los terrenos rurales;
+XLVII.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones;
 
-XLVIII.- Zonas de Restauración: Las que presentan grados severos de degradación de la tierra, en las que la autoridad, mediante declaratoria del Ejecutivo Federal, establece un régimen especial de utilización y manejo de las tierras, conforme a lo establecido en la Ley General del Equilibrio Ecológico y Protección al Ambiente; y
+XLVIII.- Tierra: El sistema bioproductivo terrestre que comprende el suelo, la vegetación, otros componentes de la biosfera y los procesos ecológicos e hidrológicos que se desarrollan dentro del sistema; así como los acondicionamientos de los terrenos, la cubierta forestal y la infraestructura desarrollada en los terrenos rurales;
 
-XLIX.- Zonas Frágiles o Tierras Frágiles: Tierras que pueden ser degradadas por fenómenos naturales, cambio climático, cambio de técnicas productivas o de utilización.
+XLIX.- Zonas de Restauración: Las que presentan grados severos de degradación de la tierra, en las que la autoridad, mediante declaratoria del Ejecutivo Federal, establece un régimen especial de utilización y manejo de las tierras, conforme a lo establecido en la Ley General del Equilibrio Ecológico y Protección al Ambiente; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+L.- Zonas Frágiles o Tierras Frágiles: Tierras que pueden ser degradadas por fenómenos naturales, cambio climático, cambio de técnicas productivas o de utilización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 7.
 
-El Ejecutivo del Estado en coordinación con los órdenes de Gobierno, impulsará políticas públicas y programas en el medio rural, que serán considerados prioritarios para el desarrollo del Estado y que estarán orientados a las siguientes acciones:
+El Ejecutivo del Estado en coordinación con los órdenes de Gobierno, impulsará políticas públicas y programas en el medio rural, además de la agricultura familiar sostenible, que serán considerados prioritarios para el desarrollo del Estado y que estarán orientados a las siguientes acciones:
 
 I.- Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
 
@@ -957,9 +987,21 @@ III.- Promover la participación de los ayuntamientos en casos de riesgo sanitar
 
 IV.- Celebrar convenios de coordinación con las autoridades competentes, para proporcionar seguridad pública en los puntos de inspección y vigilancia fitozoosanitarios con el fin de verificar el cumplimiento de la normatividad aplicable;
 
-V.- Celebrar convenios de coordinación con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para la inspección de empacadoras y centros de acopio de productos agrícolas autorizados por ésta; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-VI.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en la materia, y dar a conocer a las autoridades competentes las violaciones a éstas.
+V.- Celebrar convenios de coordinación con la Secretaría de Agricultura y Desarrollo Rural, para la inspección de empacadoras y centros de acopio de productos agrícolas autorizados por ésta;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VI.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas en la materia, y dar a conocer a las autoridades competentes las violaciones a éstas;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII.- Fomentar y promover acciones dirigidas al fortalecimiento de la organización de productores rurales bajo cualquier figura con reconocimiento legal para impulsar la integración de los mismos; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VIII.- Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
 
 ## TÍTULO CUARTO. DEL FOMENTO A LAS ACTIVIDADES ECONÓMICAS DEL DESARROLLO RURAL
 
@@ -975,9 +1017,11 @@ La Secretaría se encargará de fomentar la investigación y transferencia de te
 
 La Secretaría, de acuerdo al potencial y las necesidades inmediatas de los productores, establecerá líneas de investigación y transferencia de tecnología, a través de convenios con organismos e instituciones que impulsen el desarrollo rural sustentable.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 82.
 
-El Gobierno del Estado a través de la Secretaría, coadyuvará con el Consejo Estatal de Ciencia y Tecnología y demás instituciones en la materia, en la promoción y orientación de la investigación agropecuaria, el desarrollo tecnológico, la validación y transferencia de conocimientos en la rama agropecuaria, tendientes a la identificación y atención de los grandes problemas estatales en la materia, las necesidades inmediatas de los productores y demás agentes de la sociedad rural respecto de sus actividades agropecuarias.
+El Gobierno del Estado a través de la Secretaría, coadyuvará con el Consejo Estatal de Ciencia y Tecnología y demás instituciones en la materia, en la promoción y orientación de la investigación agropecuaria, el desarrollo tecnológico, la validación y transferencia de conocimientos en la rama agropecuaria, tendientes a la identificación y atención de los grandes problemas estatales en la materia, las necesidades inmediatas de los productores y las familias productoras y demás agentes de la sociedad rural respecto de sus actividades agropecuarias.
 
 ###### ARTÍCULO 83.
 
@@ -1270,6 +1314,10 @@ Para impulsar la productividad de la ganadería, los apoyos a los que se refiere
 ###### ARTÍCULO 121.
 
 Para fomentar y ordenar la actividad forestal y acuícola en el Estado, se deberá promover su tecnificación mediante obras de infraestructura y asistencia técnica especializada para la obtención de productos y subproductos forestales y acuícolas, con objeto de formar y consolidar las organizaciones en empresas prioritarias.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+ARTÍCULO 121 BIS.- Para fomentar e incentivar la producción florícola, se procurará impulsar la tecnificación y equipamiento de empresas florícolas en los diferentes procesos de producción, poscosecha, empaque, transporte, capacitación y difusión, impulsar el desarrollo del mercado local con precios competitivos para el productor y fomentar la exportación de productos florícolas.
 
 ###### ARTÍCULO 122.
 
@@ -2186,3 +2234,19 @@ P.O. 17 DE JUNIO DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 247.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 250.- QUE CONTIENE REFORMA A LA FRACCIÓN I DEL ARTÍCULO 6 Y SE ADICIONA EL ARTÍCULO 121 BIS, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
