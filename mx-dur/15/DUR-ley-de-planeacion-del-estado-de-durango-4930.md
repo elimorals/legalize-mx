@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2021-06-17"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -109,15 +109,17 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 El Gobernador del Estado tiene la responsabilidad del desarrollo y la planeación democrática en las esferas de su competencia y atribuciones. Para tal fin, proveerá lo conducente para establecer los canales de participación y consulta popular en el proceso de planeación, así como para entablar la relación más equitativa tanto con el Gobierno Federal como con los Ayuntamientos de la Entidad. El Ejecutivo Estatal aprobará los Planes Estratégico y Estatal de Desarrollo y los Programas que de él emanen.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-La Secretaría de Finanzas y de Administración es la dependencia del ejecutivo encargada de coordinar las acciones relativas a la planeación estatal.
+La Coordinación General de Gestión Gubernamental es la instancia responsable de asegurar la integración, organización y funcionamiento del Sistema Estatal de Planeación del Desarrollo.
 
 ###### ARTICULO 6o.
 
 Los Ayuntamientos del Estado formularán sus planes de desarrollo y sus programas conforme a las disposiciones de esta Ley.
 
-El Gobierno Estatal prestará la asesoría necesaria en materia de planeación, programación, evaluación y control.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+El Gobierno Estatal a través de la Coordinación General de Gestión Gubernamental brindará la asesoría necesaria en materia de planeación, programación, evaluación y control.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2017)</small>
 
@@ -139,11 +141,11 @@ El Sistema Estatal de Planeación del Desarrollo, estructurará los esfuerzos de
 
 Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal, y los ayuntamientos, a través de sus unidades administrativas que tengan asignadas las funciones de planeación; con el apoyo de la participación ciudadana, así mismo podrán formar parte del sistema las representaciones en el Estado de las dependencias y entidades de la administración pública federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 9o.
 
-En el sistema de planeación del desarrollo, la Secretaría de Finanzas y de Administración tendrá las siguientes atribuciones:
+En el sistema de planeación del desarrollo, la Coordinación General de Gestión Gubernamental tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado.
 
@@ -151,39 +153,55 @@ I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Es
 
 II.- Elaborar los Planes Estratégico y Estatal de Desarrollo, los programas que de ellos se deriven y vigilar el seguimiento de su ejecución escuchando la opinión y tomando en cuenta las propuestas de las demás dependencias del Ejecutivo, de las dependencias federales, de los Ayuntamientos, de los grupos y personas interesadas.
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-III.- Hacer congruente la planeación y el desarrollo estatales (sic) con la planeación y conducción del desarrollo nacional, poniendo en práctica mecanismos de control y evaluación del plan y los programas considerando para ello la perspectiva de género.
+III.- Integrar y coordinar en la red de planeación estatal a las unidades administrativas con funciones específicas de información, planeación, programación, seguimiento y evaluación de las dependencias y entidades de la administración pública estatal.
 
-IV.- Integrar los programas operativos anuales de coordinación sectorial, los regionales y los especiales que encomiende el Gobernador del Estado para la ejecución del Plan. Los programas municipales se elaborarán de acuerdo con las bases establecidas en esta Ley.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN III], P.O. 20 DE NOVIEMBRE DE 2022)
 
-V.- Coordinar los programas de desarrollo del Estado con los de los municipios y con los del Gobierno Federal, en los términos de los convenios respectivos.
+IV.- Hacer congruente la planeación y el desarrollo estatales con la planeación y conducción del desarrollo nacional, poniendo en práctica mecanismos de control y evaluación del plan y los programas considerando para ello la perspectiva de género.
 
-VI.- Propiciar la integración de los sectores social y privado en el sistema de planeación, procurando la incorporación de su esfuerzo y conocimiento al proceso de desarrollo estatal.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN IV], P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-VII.- Cuidar la congruencia entre el Plan y los programas que genere el sistema.
+V.- Integrar los programas sectoriales, institucionales, regionales y los especiales que encomiende el Gobernador del Estado para la ejecución del Plan. Los programas municipales se elaborarán de acuerdo con las bases establecidas en esta Ley.
 
-VIII.- Verificar periódicamente el destino y los resultados de las asignaciones presupuestales, atendiendo a los objetivos y prioridades del Plan y los programas sectoriales, regionales y especiales promoviendo las medidas conducentes a la corrección de las desviaciones localizadas. Así mismo, verificar los programas municipales cuando así lo establezcan los marcos de coordinación.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 20 DE NOVIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+VI.-·Coordinar los programas de desarrollo del Estado con los de los municipios y con los del Gobierno Federal, en los términos de los convenios respectivos.
 
-IX.- Promover y coordinar las actividades en materia de investigación y capacitación para la planeación, considerando la transversalidad de la perspectiva de género y los derechos humanos.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 20 DE NOVIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+VII.-·Propiciar la integración de los sectores social y privado en el sistema de planeación, procurando la incorporación de su esfuerzo y conocimiento al proceso de desarrollo estatal.
 
-X.- Prever, en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal; integrando el impacto diferenciado que se ocasiona en mujeres y hombres y su incidencia en las brechas de desigualdad de género.
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VII], P.O. 20 DE NOVIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+VIII.- Cuidar la congruencia entre el Plan y los programas que genere el sistema.
 
-XI.- Promover el diseño y estructuración de programas presupuestarios basándose en la metodología de Marco Lógico y la conformación de sus respectivos programas operativos anuales asegurando su congruencia con los objetivos del Plan Estatal de Desarrollo y la transversalización de la perspectiva de género; y
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XI], P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XII.- Las demás que señalen esta Ley y otros ordenamientos.
+IX.- Promover el diseño y estructuración de programas presupuestarios basándose en la metodología de Marco Lógico y la conformación de sus respectivos programas operativos anuales asegurando su congruencia con los objetivos del Plan Estatal de Desarrollo y la transversalización de la perspectiva de género;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCION VIII], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+X.- Validar, dar seguimiento y evaluar los programas presupuestarios, atendiendo a los objetivos y prioridades del Plan y los programas sectoriales, regionales y especiales promoviendo las medidas conducentes a la corrección de las desviaciones localizadas. Así mismo, cuando así lo establezcan los marcos de coordinación coadyuvar con los municipios en el seguimiento de sus programas.
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], P.O. 20 DE NOVIEMBRE DE 2022)
+
+XI.- Promover y coordinar las actividades en materia de investigación y capacitación para la planeación, considerando la transversalidad de la perspectiva de género y los derechos humanos.
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN X], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XII.- Prever, en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal; integrando el impacto diferenciado que se ocasiona en mujeres y hombres y su incidencia en las brechas de desigualdad de género; y
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 20 DE NOVIEMBRE DE 2022)
+
+XIII.- Las demás que señalen esta Ley y otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 10o.
 
-Además de las atribuciones establecidas en el artículo anterior, corresponde a la Secretaría de Finanzas, el ejercicio de las siguientes facultades y atribuciones:
+Corresponde a la Secretaría de Finanzas y de Administración, el ejercicio de las siguientes facultades y atribuciones:
 
 I.- (DEROGADA, P.O. 9 DE ABRIL DE 2013)
 
@@ -203,35 +221,65 @@ A las Dependencias de la Administración Pública les corresponde:
 
 I.- Participar en la elaboración de los Planes Estratégico y Estatal de Desarrollo respecto de las materias que les competan y les sean asignadas en la Ley Orgánica de la Administración Pública y otras Leyes y Reglamentos.
 
-II.- Elaborar programas sectoriales tomando en consideración los elementos del sistema de planeación nacional, estatal, municipal y las opiniones de los grupos sociales interesados.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-III.- Coordinar en la esfera de su competencia sectorial las actividades de la planeación de las dependencias, entidades y organismos del Estado.
+II. Elaborar el programa sectorial de su competencia tomando en consideración la situación actual del sector, las opiniones y prioridades de los grupos sociales interesados y su alineación con el Plan Estatal de Desarrollo.
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2018)</small>
+(REPUBLICADA, P.O. 20 DE NOVIEMBRE DE 2022)
 
-IV.- Considerar el ámbito territorial de las acciones y programas previstos a corto y mediano plazo, así como las condiciones específicas de desarrollo de las distintas regiones del Estado y las desigualdades de género, delimitando los espacios regionales de la planeación nacional.
+III. Coordinar en la esfera de su competencia sectorial las actividades de la planeación de las dependencias, entidades y organismos del Estado.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-V.- Elaborar la Matriz de Indicadores de Resultados para cada Programa Presupuestario a fin de asegurar su alineación con las prioridades y objetivos del Plan Estatal de Desarrollo y de los programas sectoriales correspondientes, y
+IV. Considerar el ámbito territorial de las acciones y programas previstos a corto y mediano plazos, así como las condiciones específicas de desarrollo de las distintas regiones del Estado y las desigualdades de género, delimitando los espacios regionales de la planeación nacional.
 
-VI.- Verificar periódicamente, la relación que guardan los programas y presupuestos de las dependencias, entidades y organismos estatales que coordinen global o sectorialmente así como los resultados de su ejecución respecto de las prioridades y objetivos de los programas sectoriales a fin de adoptar las medidas necesarias, para corregir las desviaciones detectadas y reformar, en su caso, los programas de que se trate.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-###### ARTICULO 12o.
+V. Elaborar la Matriz de Indicadores de Resultados para cada Programa Presupuestario a fin de asegurar su alineación con las prioridades y objetivos del Plan Estatal de Desarrollo y de los programas sectoriales correspondientes;
 
-Las dependencias y entidades u organismos de carácter estatal, deberán:
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VI. Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo y del Plan Estratégico, debiendo enviar, cada inicio de año, su programa operativo anual a la Coordinación General de Gestión Gubernamental para su registro y análisis correspondiente;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII. Verificar periódicamente, la relación que guardan los programas y presupuestos de las dependencias, entidades y organismos estatales que coordinen global o sectorialmente así como los resultados de su ejecución respecto de las prioridades y objetivos de los programas sectoriales a fin de adoptar las medidas necesarias, para corregir las desviaciones detectadas y reformar, en su caso, los programas de que se trate; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VIII.- Las Dependencias de la Administración Pública deberán de establecer unidades administrativas que contemplen funciones específicas de información, planeación, programación, seguimiento y evaluación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+###### ARTICULO 12.
+
+Las entidades u organismos de carácter estatal, deberán:
 
 I.- Presentar propuestas en relación a sus funciones y objeto, participando en la elaboración de sus programas sectoriales, ante las dependencias de coordinación global o sectorial.
 
-II.- Considerar, en la elaboración de sus propuestas presupuestales y programáticas, a política de regionalización del Gobierno y las prioridades y objetivos que en su caso fije la planeación estatal.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+II. Considerar, en la elaboración de sus propuestas presupuestales y programáticas, la política de regionalización del Gobierno y las prioridades y objetivos que en su caso fije la planeación estatal;
 
-III.- Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo y del Plan Estratégico, debiendo enviar, cada inicio de año, su programa operativo anual a la Secretaría de Finanzas y de Administración para su registro y análisis correspondiente;
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-IV.- Verificar periódicamente, por conducto de sus respectivos órganos de gobierno, sus programas y la relación que guardan los resultados de su acción con las prioridades y objetivos de los programas sectoriales.
+III. Elaborar la Matriz de Indicadores para Resultados para cada programa presupuestario a fin de asegurar su alineación con las prioridades y objetivos del Plan Estatal de Desarrollo y de los programas de Gobierno correspondientes;
 
-V.- Las demás que les asignen otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+IV. Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo y del Plan Estratégico, debiendo enviar, cada inicio de año, su programa operativo anual a la Coordinación General de Gestión Gubernamental para su registro y análisis correspondiente;
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IV], P.O. 20 DE NOVIEMBRE DE 2022)
+
+V.- Verificar periódicamente, por conducto de sus respectivos órganos de gobierno, sus programas y la relación que guardan los resultados de su acción con las prioridades y objetivos de los programas sectoriales;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VI. Las Entidades de la Administración Pública deberán de establecer unidades administrativas que contemplen funciones específicas de información, planeación, programación, seguimiento y evaluación; y
+
+(REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 20 DE NOVIEMBRE DE 2022)
+
+VII.- Las demás que les asignen otros ordenamientos legales.
 
 ###### ARTICULO 13o.
 
@@ -335,21 +383,23 @@ Las dependencias y entidades u organismos estatales deberán elaborar programas 
 
 Dicha actividad implica la programación sectorial, regional e institucional y en ella se incluirán los diversos aspectos de administración política, económica y política-social que impongan las condiciones del desarrollo del Estado y la identificación de desigualdades y brechas de género. La programación especial podrá ser de menor duración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTICULO 28o.
 
-En los términos de la presente Ley, la planeación y programación estatales serán sometidas a la aprobación de las siguientes prescripciones:
+En los términos de la presente Ley, la planeación y programación serán sometidas a la aprobación conforme a las siguientes prescripciones:
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-I.- Los Planes Estratégico, Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Finanzas y de Administración;
+I.- Los Planes Estratégico, Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Coordinación General de Gestión Gubernamental;
 
 II.- Los programas sectoriales serán presentados por los titulares de las Dependencias de la Administración Pública Centralizada.
 
 III.- Los programas de dependencias y entidades u organismos de carácter estatal serán presentados por las dependencias de coordinación sectorial que correspondan.
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-IV.- Si algunas dependencias y entidades no estuvieren agrupadas en un sector específico, la presentación será hecha por la Secretaría de Finanzas y de Administración.
+IV.- Si algunas dependencias y entidades no estuvieren agrupadas en un sector especifico, la presentación será hecha por la Coordinación General de Gestión Gubernamental.
 
 ###### ARTICULO 29o.
 
@@ -475,11 +525,11 @@ III.- Lograr la autosuficiencia económica y financiera de los ayuntamientos par
 
 IV.- Proporcionar a los Ayuntamientos, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación presupuestación hacendaria, jurídica, administrativa y financiera.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 46o.
 
-La Secretaria de Finanzas y de Administración propondrá al titular del Poder Ejecutivo Estatal los procedimientos conforme a los cuales se ejecutaran las acciones objeto de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública centralizada y la de los ayuntamientos, de acuerdo a las facultades y obligaciones que a cada una competen.
+La Coordinación General de Gestión Gubernamental propondrá al titular del Poder Ejecutivo Estatal los procedimientos conforme a los cuales se ejecutarán las acciones materia de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública y la de los ayuntamientos, de acuerdo a las facultades y obligaciones correspondientes.
 
 ###### ARTICULO 47o.
 
@@ -491,11 +541,11 @@ Los convenios de planeación y desarrollo que el Gobierno de la Entidad firme co
 
 ### CAPITULO SEXTO. De la Concertación e Inducción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 49o.
 
-El Ejecutivo del Estado y los Titulares de sus Dependencias, así como los directores de las entidades u organismos son los responsables de la concertación e inducción de las acciones del Estado con las representaciones legítimas de los grupos sociales y con los particulares interesados, previstas en los Planes Estratégico, Estatal de Desarrollo y en los programas.
+El Ejecutivo del Estado, la persona titular de la Coordinación General de Gestión Gubernamental, los Titulares de las Dependencias y los titulares de las entidades u organismos son los responsables de la concertación e inducción de las acciones derivadas de los Planes Estratégico y de Desarrollo con los sectores Social y Privado.
 
 En los mismos términos de responsabilidad a que se refiere el párrafo anterior y mediante los instrumentos de desarrollo a que dispone la Administración Pública, los actos de Gobierno inducirán las acciones de los diversos sectores e individuos de la sociedad hacia los objetivos y prioridades de la planeación del desarrollo.
 
@@ -555,17 +605,15 @@ El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de 
 
 I. Un Presidente, que será el C. Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+II. (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2022)
 
-II. Un Vicepresidente que será el Secretario de Finanzas y de Administración, quien tendrá las mismas facultades del Presidente en las ausencias del mismo;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+III. Un Coordinador General, que será la persona titular de la Coordinación General de Gestión Gubernamental quien tendrá las mismas facultades del Presidente en las ausencias del mismo;
 
-III. Un Coordinador General, que será el Subsecretario de Planeación de la Secretaría de Finanzas y de Administración;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
-
-IV. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo Social del Estado;
+IV. Un Secretario Técnico, que será la persona titular de la Dirección General de Planeación, Seguimiento y Evaluación de la Coordinación General de Gestión Gubernamental.
 
 V. Los titulares de las dependencias y entidades de la Administración Pública Estatal que señale el C. Gobernador del Estado;
 
@@ -820,3 +868,15 @@ P.O. 17 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 551.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACIÓN DEL ESTADO DE DURANGO”.]
 
 ÚNICO. El presente decreto entrará en vigor (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 251.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE PLANEACION DE ESTADO DE DURANGO”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a esta Ley.
