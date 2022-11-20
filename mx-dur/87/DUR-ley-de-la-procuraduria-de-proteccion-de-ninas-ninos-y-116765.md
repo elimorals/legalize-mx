@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-proteccion-de-ninas-ninos-y-116765"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-01"
-last_updated: "2021-07-04"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de septiembre de 2016.
 
@@ -309,9 +309,11 @@ Los Delegados Municipales serán designados por el Procurador de Protección, de
 
 Los nombramientos de los Delegados Municipales, deberán ser expedidos y firmados por el Procurador de Protección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-Los Delegados Municipales, tendrán además de las atribuciones contenidas en las fracciones I, VII, VIII, IX, X, XI, XVI, XXX, XXXIII, XXXIX, XL, XLI, XLIV, XLV, XLVII, XLVIII, LIII, LXII, LXVII y LXIX del artículo 11 de esta Ley, las siguientes:
+Los Delegados Municipales, tendrán además de las atribuciones contenidas en las fracciones I, II, III, IV, V, VI, VII, VIII, X, XIII, XVI XLVIII, LXVI y LXVII del artículo 11 de esta Ley, las siguientes:
 
 I. Rendir un informe trimestral al Procurador de Protección, de los asuntos de su competencia, y demás que le sean solicitados; y
 
@@ -335,7 +337,9 @@ V. Colaborar con las autoridades competentes en la difusión de campañas dirigi
 
 VI. Prestar asesoría y representación en Suplencia a Niñas, Niños y Adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público;
 
-VII. Intervenir de oficio, con la Representación Coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en los que estén involucrados Niñas, Niños y Adolescentes, de conformidad con la Ley Estatal, la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII. Intervenir de oficio y a petición de parte de quien ejerza la patria potestad, con la Representación Coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en los que estén involucrados los derechos de Niñas, Niños y Adolescentes, de conformidad con la Ley Estatal, la presente Ley y demás disposiciones aplicables;
 
 VIII. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de Niñas, Niños y Adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
 
@@ -477,7 +481,9 @@ LXV. Coordinarse en su caso, con las autoridades correspondientes para revocar t
 
 LXVI. Ejecutar en coordinación con la Procuraduría de Protección Federal, los modelos y protocolos necesarios para la atención y protección integral de niñas, niños y adolescentes;
 
-LXVII. Asesorar y en su caso representar legalmente los intereses de niñas, niños o adolescentes ante las autoridades judiciales o administrativas;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+LXVII. Asesorar y en su caso representar legalmente los intereses de niñas, niños o adolescentes ante las autoridades judiciales o administrativas; tratándose de derechos alimentarios, intervendrá a solicitud de parte de quienes ejercen la patria potestad de niñas, niños y adolescentes.
 
 LXVIII. Dirigir, coordinar, supervisar y evaluar el funcionamiento de las áreas que integran la Procuraduría de Protección; y
 
@@ -521,11 +527,15 @@ V. (DEROGADA, P.O. 20 DE MAYO DE 2021)
 
 La Subprocuraduría de Restitución de Derechos, tendrá además de las atribuciones contenidas en las fracciones I, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XV, XVI, XVII, XXX, XXXI, XXXII, XXXIX, XL, XLI, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII, LII, LIII, LVII, LXII, LXIII y LXVII del artículo 11, las siguientes:
 
-I. Otorgar asesoría jurídica en materia familiar a Niñas, Niños, Adolescentes y sus familias;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+I. Otorgar asesoría jurídica en materia familiar a Niñas, Niños, Adolescentes, sus familias y a quienes ejercen la patria potestad;
 
 II. Integrar y registrar debidamente los expedientes a su cargo;
 
-III. Promover y gestionar los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+III. Promover y gestionar los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección o a solicitud de quienes ejerzan la patria potestad;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
 
@@ -820,3 +830,11 @@ P.O. 4 DE JULIO DE 2021.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 252.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE LA PROCURADURIA DE PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
