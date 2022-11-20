@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2022-11-10"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -623,13 +623,19 @@ XIX. La participación en emergencias y contingencias ambientales conforme a las
 
 XX. El diseño, la ejecución y evaluación del programa municipal de protección al ambiente;
 
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XXI. Procurar la reforestación, arborización y la promoción entre los particulares de campañas para dicho fin, en las áreas urbanas de su competencia entendiéndose estas como lo son banquetas, camellones o plazas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+XXI. Procurar la reforestación, arborización y la promoción entre los particulares de campañas para dicho fin, en las áreas urbanas de su competencia entendiéndose estas como lo son banquetas, camellones o plazas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XXII. Las demás que señalen las Leyes Estatal y General de la materia y otras disposiciones legales aplicables.
+XXII. Determinarán las políticas públicas, estrategias, programas, proyectos y acciones encaminadas a la concientización entre la población sobre la separación, reutilización y reciclado de los residuos sólidos y basura, así como los beneficios medioambientales de estas prácticas.
+
+Lo anterior, incluirá la promoción de la educación ambiental de la ciudadanía para separar los residuos sólidos desde casa, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Las demás que señalen las Leyes Estatal y General de la materia y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -1438,6 +1444,10 @@ I. La prevención y control de la contaminación del agua es fundamental para ev
 II. A la sociedad en general, también le corresponde prevenir la contaminación de ríos, cuencas hidrológicas, vasos y demás depósitos y corrientes de agua incluyendo las del subsuelo de jurisdicción estatal;
 
 III. El aprovechamiento del agua en actividades productivas susceptibles de generar contaminación, conlleva responsabilidad del tratamiento de las descargas, ya sea para su reuso, o para reintegrarla en condiciones adecuadas para su utilización en otras actividades y para mantener el equilibrio de los ecosistemas, de tal manera que se deberá realizar un sistemático y permanente monitoreo de la calidad del agua;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+La Secretaría y las autoridades competentes fortalecerán programas y estrategias para que las empresas e industrias incorporen en sus infraestructuras el reúso del agua para sus diversas actividades;
 
 IV. Las aguas residuales de origen urbano, deben recibir tratamiento previo a su descarga en ríos, cuencas hidrológicas, vasos y demás depósitos o corrientes de agua, incluyendo las aguas del subsuelo; y,
 
@@ -2570,3 +2580,19 @@ P.O. 10 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 249.- QUE CONTIENE ADICIONES A LA LEY DE GESTION AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO".
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 254.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
