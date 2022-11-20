@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2022-03-17"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -259,7 +259,7 @@ XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en
 
 XXII. Coordinar los trabajos del Consejo para el Desarrollo y los Comités Regionales de Promoción Económica.
 
-> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXIX.]</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXX.]</small>
 
 XXIII. Las demás, que esta Ley, su Reglamento y el Consejo le propongan.
 
@@ -279,15 +279,19 @@ XXVI. Impulsar en el Estado, proyectos que refuercen la implantación de econom�
 
 XXVII. Promover, ante el Consejo de Ciencia y Tecnología del Estado de Durango, convenios para la elaboración de programas orientados a impulsar el desarrollo económico, y elevar la competitividad del Estado.
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
 
-XXVIII. Promover la renovación del patrón productivo en los sectores tradicionales de la economía o la reconversión de sectores en declive, y generar las condiciones para atraer inversiones que supongan la implantación de nuevas actividades económicas, en especial, las que aporten valor añadido; y
+XXVIII. Promover la renovación del patrón productivo en los sectores tradicionales de la economía o la reconversión de sectores en declive, y generar las condiciones para atraer inversiones que supongan la implantación de nuevas actividades económicas, en especial, las que aporten valor añadido;
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XXIX. Promover de manera coordinada con la Secretaría del Trabajo y Previsión Social y organismos del sector privado e instituciones educativas, la celebración de convenios o acuerdos de cooperación y colaboración, para fomentar la cultura y competencias relativas al teletrabajo, el trabajo a distancia o virtual, y realizar acciones de orientación y vinculación, que contribuyan a garantizar que los emprendedores y empresarios en el Estado, cuenten con el soporte, asesoría y asistencia técnica, para impulsar dichas modalidades de trabajo, con la finalidad de favorecer la competitividad, productividad y perspectiva global de las empresas instaladas o que pretendan instalarse en el Estado; y
 
 > <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XXIII.]</small>
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
-XXIX. Las demás, que esta Ley, su Reglamento y el Consejo propongan.
+XXX. Las demás, que esta Ley, su Reglamento y el Consejo propongan.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
@@ -843,6 +847,10 @@ III. Identificar e impulsar a la producción artesanal como una actividad potenc
 
 IV. Fomentar el aprecio y valoración de la expresión y actividad artesanal como elemento fundamental de la cultura, economía e identidad duranguense.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+V. Impulsar y promover la distribución y consumo de la producción artesanal de las comunidades indígenas.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2021)</small>
 
 ### CAPÍTULO V. DEL FOMENTO A LA COMERCIALIZACIÓN DE LOS PRODUCTOS DURANGUESES (SIC) Y EL DESARROLLO DE PROVEEDORES LOCALES
@@ -1075,7 +1083,9 @@ B. Incentivos no fiscales, que serán:
 
 I. Apoyo financiero para:
 
-a. Programas de capacitación, adiestramiento y modernización empresarial.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+a. Programas de capacitación, adiestramiento y modernización empresarial, otorgando prioridad a aquellos con perspectiva global.
 
 b. Programas de expansión empresarial o de mercados.
 
@@ -1390,6 +1400,10 @@ XI. Se asocien en agrupamientos, cadenas productivas o cualquier otra alianza es
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2017)</small>
 
 XII. Contraten a ciudadanos duranguenses que demuestren haber sido deportados de los Estados Unidos de América.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Empleen a personas indígenas duranguenses en aquellos empleos decentes, que representen una oportunidad de crecimiento laboral.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2021)</small>
 
@@ -2280,3 +2294,19 @@ Primero. El presente decreto entrará en vigor el día siguiente al de su public
 Segundo. La Secretaría deberá publicar las reglas de operación del Programa referido en el segundo párrafo del artículo 50 del presente ordenamiento.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 242.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.-Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 244.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO; Y LA SEGUNDA QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO Y A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
