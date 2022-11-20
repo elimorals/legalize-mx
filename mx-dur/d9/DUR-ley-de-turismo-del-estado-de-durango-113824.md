@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2022-11-08"
+last_updated: "2022-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -735,6 +735,10 @@ XIII. Promover en el mercado nacional e internacional la imagen y la marca “Du
 
 XIV. Elaborar y difundir material especializado de información turística, así como artículos promocionales.
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+XV. Coordinarse con la Dirección de Transportes del Estado, para diseñar, actualizar, promover y difundir en las distintas modalidades del transporte público, un mapa de ruta y accesibilidad en lugares públicos de interés turístico; para lo cual podrá emplear tecnologías de la información y comunicación.
+
 ###### Artículo 42.
 
 Las dependencias y entidades de la Administración Pública Estatal y de los Municipios, coadyuvarán en la promoción y fomento del turismo en los términos de esta Ley y de conformidad con los acuerdos y convenios que al efecto se suscriban.
@@ -1196,3 +1200,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 246.- POR EL QUE SE ADICIONA LA FRACCION XV AL ARTICULO 41 DE LA LEY DE TURISMO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
