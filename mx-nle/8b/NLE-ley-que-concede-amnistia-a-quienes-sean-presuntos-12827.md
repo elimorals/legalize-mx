@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-concede-amnistia-a-quienes-sean-presuntos-12827"
 country: "mx"
 rank: "ley"
 publication_date: "1978-10-02"
-last_updated: "1978-10-25"
+last_updated: "2022-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # LEY QUE CONCEDE AMNISTIA A QUIENES SEAN, PRESUNTOS RESPONSABLES O RESPONSABLES DE LOS DELITOS DE REBELION, SEDICION, ASONADA O MOTIN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY DE AMNISTÍA PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CONCEDE AMNISTIA A QUIENES SEAN, PRESUNTOS RESPONSABLES O RESPONSABLES DE LOS DELITOS DE REBELION, SEDICION, ASONADA O MOTIN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 2022 (ABROGADA).
 
-Ley publicada en el Periódico Oficial del estado de Nuevo León, el lunes 2 de octubre de 1978.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de octubre de 1978.
 
 EL CIUDADANO PEDRO G. ZORRILLA MARTINEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
@@ -100,3 +102,19 @@ FRANCISCO VALDES TREVIÑO
 P.O. 25 DE OCTUBRE DE 1978
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 254. SE EXPIDE LA LEY DE AMNISTÍA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al momento de la publicación en el Periódico Oficial del Estado, de la reforma Constitucional correspondiente.
+
+SEGUNDO.- Envíese al Periódico Oficial del Estado para su Publicación.
+
+TERCERO.- Dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir el acuerdo que crea la Comisión que hacer (sic) referencia el párrafo tercero del artículo 3 de la presente Ley que contendrá como mínimo la integración, conformación y funcionamiento de la misma.
+
+CUARTO.- El Poder Judicial del Estado de Nuevo León, a través del Consejo de la Judicatura determinara los jueces competentes para conocer sobre el tema de Amnistía.
+
+QUINTO.- La reforma constitucional en materia de Amnistía que se hace referencia en el presente dictamen queda subsistente para su posterior análisis y aprobación.
+
+SEXTO.- Se abroga el decreto Núm. 173 que contiene la Ley que concede amnistía a quienes sean, presuntos responsables o responsables de los delitos de Rebelión, Sedición, Asonada o Motín, publicada en el Periódico oficial del Estado en fecha 2 de octubre de 1972. Así como las demás disposiciones legales que contravengan el presente decreto.
