@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2022-06-10"
+last_updated: "2022-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -260,6 +260,10 @@ IV.- Impulsar el sano crecimiento físico, mental y social de la niñez, mediant
 V.- Establecer programas tendientes a evitar, prevenir y sancionar el maltrato de los menores, proporcionándoles atención, cuidado y vigilancia;
 
 VI.- Cuidar y dar en adopción a niños y expósitos, investigando la solvencia moral de los adoptantes y vigilando en los términos de las leyes el proceso de integración de los adoptados;
+
+> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2022)</small>
+
+VI Bis.- El Organismo integrará y operará el padrón estatal de niñas, niños y adolescentes en situación de orfandad, con el fin de fortalecer e impulsar acciones cuyo objeto es el promover la prestación de servicios de salud en materia de asistencia social.
 
 VII.- Intervenir en el ejercicio de la tutela de los menores en los términos de las disposiciones jurídicas aplicables;
 
@@ -690,3 +694,13 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las obligaciones emanadas del presente Decreto se realizarán de acuerdo a la capacidad financiera del Estado, para el ejercicio fiscal correspondiente.
+
+P.O. 21 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 188. SE ADICIONA UNA FRACCIÓN VI BIS, AL ARTÍCULO 13o DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Organismo, dentro de los 60 días hábiles contados a partir de la publicación del presente Decreto, emitirá los lineamientos que regulen la integración y operación del Padrón Estatal de Niñas, Niños y Adolescentes en situación de orfandad.
+
+TERCERO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
