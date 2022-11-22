@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2019-11-12"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -64,6 +64,10 @@ La ignorancia de las leyes, reglamentos y demás disposiciones fiscales no servi
 ###### ARTICULO 4º.
 
 La Hacienda Pública del Estado de San Luis Potosí, y las Haciendas Públicas Municipales, para cubrir los gastos públicos a su cargo, percibirán en cada ejercicio fiscal, los ingresos derivados de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que autoricen las leyes fiscales estatales correspondientes, así como las participaciones y transferencias que de ingresos federales les correspondan, de conformidad con las leyes respectivas y los convenios de coordinación que se hayan suscrito o se suscriban para tales efectos; y los derivados de financiamientos, en su caso.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+Quedan prohibidas las condonaciones de impuestos y las exenciones de impuestos en los términos y condiciones establecidos en el primer párrafo del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 5º.
 
@@ -2538,5 +2542,13 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- SE REFORMA Y ADICIONA EL ARTÍCULO 54 BIS DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0422.- SE ADICIONA AL ARTÍCULO 4º, EL PÁRRAFO ÚLTIMO, DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
