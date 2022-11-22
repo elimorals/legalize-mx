@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2022-09-09"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -287,25 +287,15 @@ El Estado reconoce y garantiza el derecho de propiedad en los términos que esta
 
 Las autoridades asumirán el ejercicio de todas las atribuciones que les confiere el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, el Congreso expedirá leyes para regular el aprovechamiento de las aguas que no sean propiedad nacional y se localicen en dos o más predios; asegurar dentro del territorio del Estado el respeto a las disposiciones constitucionales sobre capacidad para adquirir el dominio de las tierras, aguas, bosques y sus accesiones; y establecer los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaran a exceder los límites previstos en la misma. También expedirá las leyes que sean necesarias para definir y garantizar la propiedad pública, la de uso común, la privada y la social.
 
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-El dominio de los bienes se extinguirá por declaración judicial a petición del Ministerio Público, conforme a la ley que para tal fin se expida, previo procedimiento que se regirá por las reglas siguientes:
+El dominio de los bienes se extinguirá en términos de los artículos, 22, y 73 fracción XXX de la Constitución Política de los Estados Unidos Mexicanos; y la Ley Nacional de Extinción de Dominio.
 
-I. Será jurisdiccional y autónomo del de materia penal;
+I. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2022)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2016)</small>
+II. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2022)
 
-II. Procederá en los casos de secuestro, robo de vehículos, trata de personas, y enriquecimiento ilícito, respecto de los bienes siguientes:
-
-a) Aquéllos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
-
-b) Aquéllos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior.
-
-c) Aquéllos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad, o hizo algo para impedirlo.
-
-d) Aquéllos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales o de delincuencia organizada, y el acusado por estos delitos se comporte como dueño, y
-
-III. Toda persona que se considere afectada podrá interponer los recursos respectivos, para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
@@ -3520,5 +3510,13 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0379.- SE REFORMA EL ARTÍCULO 80 EN SU FRACCIÓN VI, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0424.- SE REFORMA EL ARTÍCULO 13 EN SU PÁRRAFO TERCERO Y DEROGA DEL MISMO ARTÍCULO 13 LAS FRACCIONES I A III, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
