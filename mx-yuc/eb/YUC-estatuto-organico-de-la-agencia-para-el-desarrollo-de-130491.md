@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-agencia-para-el-desarrollo-de-130491"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-16"
-last_updated: "2018-08-16"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 16 de agosto de 2018.
 
@@ -61,11 +61,13 @@ Este estatuto orgánico tiene por objeto regular la organización y el funcionam
 
 Para efectos de este estatuto orgánico, se entenderá por agencia a la Agencia para el Desarrollo de Yucatán, y por decreto al Decreto 549/2017 por el que se regula la Agencia para el Desarrollo de Yucatán.
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 2.
 
 Naturaleza y objeto de la agencia
 
-La agencia, en términos del artículo 2 del decreto, es un organismo público descentralizado de la Administración Pública estatal, con personalidad jurídica y patrimonio propio, que tiene por objeto impulsar la inversión, la productividad, la competitividad y el desarrollo de infraestructura y alentar, potenciar y consolidar la economía del estado de Yucatán.
+La agencia, en términos del artículo 2 del decreto, es un organismo público descentralizado de la Administración Pública estatal con personalidad jurídica y patrimonio propios, que tiene por objeto promover el desarrollo del estado de Yucatán, mediante la atracción de inversión pública, privada y mixta, nacional e internacional, así como la planeación y ejecución de proyectos que contribuyan a activar, desarrollar y consolidar la infraestructura y economía de la entidad.
 
 ### Capítulo II. Atribuciones y organización de la agencia
 
@@ -74,6 +76,8 @@ La agencia, en términos del artículo 2 del decreto, es un organismo público d
 Atribuciones
 
 La agencia, para el cumplimiento de su objeto, tendrá las atribuciones establecidas en el artículo 3 del decreto y las demás que le confieran otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 4.
 
@@ -85,19 +89,19 @@ I. Órganos de gobierno:
 
 a) Junta de gobierno.
 
-b) Dirección General de la agencia.
+b) Dirección General.
 
 II. Unidades administrativas:
 
-a) Dirección de Proyectos.
+a) Dirección de Proyectos e Inversiones:
 
-b) Dirección de Proyectos Sociales.
+1. Departamento de Proyectos.
 
-c) Dirección de Administración.
+b) Dirección de Planeación y Proyectos Estratégicos.
 
-d) Departamento de Normatividad Gubernamental.
+c) Dirección de Administración y Finanzas:
 
-e) Departamento de Gestión Administrativa.
+1. Departamento de Gestión Administrativa.
 
 ### Capítulo III. Funcionamiento de la agencia
 
@@ -121,11 +125,13 @@ II. El secretario general de Gobierno.
 
 III. El secretario de Administración y Finanzas.
 
-IV. El secretario de Fomento Económico.
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+IV. El secretario de Fomento Económico y Trabajo.
 
 V. El secretario de Investigación, Innovación y Educación Superior.
 
-VI. Tres representantes del sector privado o social, con carácter de consejeros independientes, quienes durarán en el cargo cinco años y podrán ser ratificados por el presidente hasta una ocasión más, y deberán cubrir los requisitos establecidos en el artículo 11 del decreto, y serán seleccionados a través del procedimiento que al efecto establezca el secretario de Fomento Económico y designados por el gobernador, en términos del decreto.
+VI. (DEROGADA, D.O. 22 DE NOVIEMBRE DE 2022)
 
 Los integrantes de la junta de gobierno tendrán derecho a voz y voto durante las sesiones.
 
@@ -159,11 +165,19 @@ Carácter de los cargos
 
 Los cargos de los integrantes de la junta de gobierno son de carácter honorífico, por tanto, quienes lo ocupen no recibirán retribución ni emolumento alguno por su desempeño.
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
 Sesiones
 
-La junta de gobierno de la agencia sesionará de manera ordinaria, por lo menos, cuatro veces al año y en forma extraordinaria cuando así lo considere su presidente, o quien lo supla, o lo solicite la mitad más uno de sus integrantes.
+La junta de gobierno de la agencia sesionará, de manera ordinaria, por lo menos cuatro veces al año, y en forma extraordinaria cuando así lo considere su presidente, o lo solicite la mitad más uno de sus integrantes.
+
+Conforme a lo dispuesto en el artículo 619 del Reglamento del Código de la Administración Pública de Yucatán, las sesiones de la junta de gobierno se celebrarán, por regla general, bajo la modalidad presencial, o en línea, en casos extraordinarios, independientemente de su tipo.
+
+Las sesiones que se celebren bajo la modalidad en línea, previa determinación del presidente mediante oficio debidamente motivado, y los acuerdos que en estas se tomen serán válidos, siempre y cuando se observen las formalidades establecidas en este estatuto orgánico y en el Reglamento del Código de la Administración Pública de Yucatán.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
@@ -171,7 +185,9 @@ Convocatorias
 
 El presidente, a través del secretario de actas y acuerdos, convocará por escrito a cada uno de los integrantes de la junta de gobierno con una anticipación de, por lo menos, cinco días hábiles a la fecha en que habrán de celebrarse las sesiones ordinarias y veinticuatro horas en el caso de las sesiones extraordinarias.
 
-Las convocatorias de las sesiones se realizarán mediante oficio y deberán señalar, por lo menos, el número de la sesión y el día, la hora y el lugar de su celebración. Adicionalmente, llevarán adjuntas el orden del día y la documentación correspondiente.
+Las convocatorias de las sesiones se realizarán mediante oficio y deberán señalar, por lo menos, el número de la sesión y el día, la hora y el lugar de su celebración. Adicionalmente, llevarán adjuntas, en formato físico o electrónico, el orden del día y la documentación correspondiente.
+
+En los casos extraordinarios que prevé el artículo 12, párrafo segundo, de este estatuto orgánico, conforme a lo dispuesto en el artículo 619 del Reglamento del Código de la Administración Pública de Yucatán, las convocatorias precisarán, además, que la sesión se celebrará bajo la modalidad en línea y el sistema, la plataforma o el medio tecnológico a través del cual se celebra la sesión.
 
 ###### Artículo 14.
 
@@ -307,7 +323,9 @@ Facultades y obligaciones comunes de los directores
 
 Los directores tendrán las siguientes facultades y obligaciones comunes:
 
-I. Formular y diseñar los planes y programas de trabajo que tengan por objeto la implementación de proyectos propios de su adscripción.
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+I. Formular, diseñar y validar los planes y programas de trabajo que tengan por objeto la implementación de proyectos propios de su adscripción.
 
 II. Organizar, dirigir, controlar, supervisar, vigilar y evaluar el desarrollo de los planes y programas de su competencia.
 
@@ -345,121 +363,157 @@ XVIII. Integrar el archivo del área a su cargo, las bases de información y los
 
 XIX. Proponer y en su caso implementar los programas de desarrollo y capacitación del personal a su cargo.
 
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XX. Supervisar que sus respectivas direcciones, así como los departamentos que dependan directamente de ellas, cumplan con la normativa vigente en la ejecución de sus proyectos, programas y procedimientos administrativos.
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Fomentar la vinculación de la agencia con las dependencias y entidades de los tres niveles de gobierno, así como con las instituciones y empresas de la iniciativa privada y social, con la finalidad de concretar los proyectos a su cargo.
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Expedir certificaciones de los documentos y constancias que obren en los expedientes, relativos a los asuntos de su competencia.
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Asesorar a las dependencias y entidades de los tres niveles de gobierno, así como al sector privado y social, en la ejecución de estudios relacionados con infraestructura, polos o zonas de desarrollo, telecomunicaciones, encadenamientos productivos y demás afines al objeto de la agencia.
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Promover la implementación del uso de medios electrónicos y la firma electrónica en los actos, procedimientos, trámites y la prestación de servicios a cargo de su área administrativa.
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XXV. Las demás que les señalen este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 27.
 
-Facultades y obligaciones del director de proyectos
+Facultades y obligaciones del director de Proyectos e Inversiones
 
-El director de Proyectos tendrá las facultades y obligaciones siguientes:
+El director de Proyectos e Inversiones tendrá las facultades y obligaciones siguientes:
 
 I. Proponer al director general las políticas de inversión y operación de los proyectos asignados a la agencia.
 
-II. Conducir los trabajos que apoyen la participación de los sectores público, social y privado, en la toma de decisiones para la inversión pública de programas y proyectos, relacionados con el objeto de la agencia.
+II. Conducir los trabajos que apoyen la participación de los sectores público, social y privado, en la toma de decisiones para la inversión pública en programas y proyectos relacionados con el objeto de la agencia.
 
-III. Llevar el seguimiento de los proyectos asignados a la agencia y rendir informes de cada uno de ellos a solicitud del director general.
+III. Llevar el seguimiento de los proyectos asignados a la agencia y rendir informes de cada uno de ellos, a solicitud del director general.
 
-IV. Coordinar la elaboración de anteproyectos, proyectos ejecutivos y estudios de factibilidad requeridos para el desarrollo de las obras de infraestructura.
+IV. Coordinar la elaboración de la documentación relativa a la planeación y ejecución de proyectos estratégicos y obras de infraestructura.
 
-V. Supervisar o ejecutar, en su caso, las obras de infraestructura adjudicadas a favor de la agencia, así como sus condiciones.
+V. Supervisar o ejecutar en su caso, las obras de infraestructura promovidas por la agencia o adjudicadas a su favor, así como sus condiciones.
 
-VI. Proponer al director general los montos de retorno esperados por la aplicación de fondos, así como las tasas por las inversiones productivas realizadas.
+VI. Proponer al director general los montos de retorno o las tasas esperadas, en los casos en que se realicen inversiones productivas por parte de la agencia.
 
 VII. Proponer al director general los requisitos que deberán cubrir los proyectos que sean susceptibles de fondeo por parte de la agencia y el porcentaje máximo de fondos que podrán invertirse en ellos.
 
 VIII. Elaborar, en coordinación con los directores de área, el presupuesto anual de operación.
 
-IX. Previa solicitud del director general, asesorar a dependencias y entidades de los tres niveles de gobierno en la ejecución de estudios relacionados con infraestructura, zonas económicas especiales, telecomunicaciones, encadenamientos productivos y aquellos afines al objeto de la agencia.
+IX. Promover la inversión pública, privada y mixta en los sectores estratégicos que le instruya el director general.
 
 X. Realizar todos los estudios económicos, estadísticos, financieros y demás que se requieran para efecto de la aplicación de los recursos, tanto federales como locales, que pretenda ejercer la agencia.
 
 XI. Identificar, diseñar e implementar planes y proyectos de desarrollo regional bajo una perspectiva de encadenamiento productivo.
 
-XII. Supervisar el cumplimiento del programa anual de inversión en materia de obras de infraestructura y servicios conexos o relacionados con aquellas e informar de ello al director general.
+XII. Supervisar el cumplimiento del programa anual de inversión en materia de obras de infraestructura y servicios conexos o relacionados con aquellas, e informar de ello al director general.
 
-XIII. Representar a la agencia ejerciendo las funciones de secretaría técnica, elaborando las minutas y acuerdos, así como dirigiendo el seguimiento de los proyectos específicos y compromisos relacionados con dichos proyectos especiales.
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 28.
 
-Facultades y obligaciones del director de Proyectos Sociales
+Facultades y obligaciones del director de Planeación y Proyectos Estratégicos
 
-El director de Proyectos Sociales tendrá las facultades y obligaciones siguientes:
+El director de Planeación y Proyectos Estratégicos tendrá las facultades y obligaciones siguientes:
 
-I. Proponer estrategias y líneas de acción para la implementación de acciones de coordinación entre la agencia y los distintos niveles de gobierno.
+I. Planear, diseñar y ejecutar en su caso, mecanismos y proyectos estratégicos en coordinación con cualquiera de los tres niveles de gobierno, así como con los sectores privado y social.
 
-II. Conducir el seguimiento y evaluación de los proyectos especiales, acordados durante las sesiones de coordinación con las direcciones correspondientes, incluyendo dictámenes, estudios estratégicos, declaratorias, compromisos gubernamentales, entre otros.
+II. Conducir el seguimiento y evaluación de los proyectos estratégicos de la agencia, así como de los compromisos, acuerdos, dictámenes, programas, metas, estudios y proyectos estratégicos que le correspondan, y la recopilación de las evidencias correspondientes.
 
-III. Conducir la integración de los informes de seguimiento de proyectos especiales, de acuerdos y compromisos de la agencia, así como de operación y de resultados, mediante el diagnóstico de indicadores de desempeño y partiendo de información estadística.
+III. Elaborar, analizar y, en su caso, incorporar instrumentos de planeación, así como gestionar la información necesaria para promover y coadyuvar en los proyectos de investigación de las líneas prioritarias que en materia de desarrollo establezca la agencia.
 
-IV. Coadyuvar en el establecimiento de líneas de acción e identificación de oportunidades de mejora.
+IV. Conducir la integración de los informes de seguimiento de los proyectos señalados por el director general como estratégicos, de los acuerdos y compromisos de la agencia, así como de operación y de resultados, mediante el diagnóstico de indicadores de desempeño y a partir de la información estadística.
 
-V. Emitir opinión en la integración de los convenios de coordinación de la agencia que emanen de la legislación aplicable, para asegurar la inclusión de todos los actores relevantes en el desarrollo de los proyectos especiales.
+V. Definir los objetivos y las metas, así como los indicadores de desempeño o resultados de la agencia.
 
-VI. Conducir la integración de las distintas propuestas de acciones que deberán ejecutar las diferentes direcciones de la agencia, así como los mecanismos de coordinación con los sectores público, privado y social en materia de información, inversiones y producción, entre otras, para su aprobación por el director general.
+VI. Coadyuvar en el establecimiento de líneas de acción e identificación de oportunidades de mejora.
+
+VII. Emitir opinión en la integración de los convenios de coordinación de la agencia que emanen de la legislación aplicable, para asegurar la inclusión de todos los actores relevantes en el desarrollo de los proyectos especiales.
+
+VIII. Proponer al director general para su aprobación los métodos de planeación y las posibles acciones que deberán ejecutar las diferentes direcciones de la agencia, así como los mecanismos de coordinación con los sectores público, privado y social en materia de información, inversiones y producción, entre otras.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 29.
 
-Facultades y obligaciones del director de Administración
+Facultades y obligaciones del director de Administración y Finanzas
 
-El director de Administración tendrá las facultades y obligaciones siguientes:
+El director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
-I. Atender las necesidades administrativas de la agencia, de acuerdo con los lineamientos que fije el director general.
+I. Administrar, en coordinación con el director general, los recursos humanos, financieros, materiales, tecnológicos y de servicios generales de la agencia.
 
-II. Establecer los sistemas de recursos humanos, materiales e informáticos, de compras, servicios generales, programación, correspondencia y archivo, y vigilar su observancia.
+II. Elaborar, en coordinación con el director general y los directores, los proyectos de ingresos y de presupuesto de egresos, así como los programas presupuestarios, con las modificaciones y adiciones que le correspondan.
 
-III. Proponer al director general el programa de adquisiciones de la agencia.
+III. Establecer los sistemas relativos a la contabilidad, control presupuestal y a los archivos de documentos y actos jurídicos, así como vigilar su observancia.
 
-IV. Establecer los sistemas relativos a la contabilidad y control presupuestal, y vigilar su observancia.
+IV. Elaborar conjuntamente con el director general los estados financieros de la agencia, así como realizar los informes o reportes que sean necesarios o le sean solicitados por este o las autoridades públicas correspondientes.
 
-V. Participar en lo conducente en la formulación del programa presupuestal de la agencia, así como en sus modificaciones y adiciones.
+V. Efectuar, en términos de las disposiciones legales y normativas aplicables, la adquisición de los bienes muebles o inmuebles y la contratación de los servicios que requiera la agencia, previa autorización del director general o la junta de gobierno, según corresponda.
 
-VI. Presidir los comités de adquisiciones de la agencia.
+VI. Colaborar en la definición de los objetivos y las metas, así como de los indicadores de desempeño o de resultado de la agencia.
 
-VII. Participar en el proceso de organización de recursos en los diferentes programas de la agencia, así como mantener informados a los demás directores sobre las asignaciones presupuestales que les correspondan.
+VII. Atender los requerimientos de los órganos internos y externos de fiscalización y solventar las recomendaciones que en su caso se emitan, así como designar a sus inferiores jerárquicos como enlaces ante dichos órganos.
 
-VIII. Participar en las gestiones de autorización del presupuesto de la agencia y su financiamiento, ante las autoridades competentes para la realización de sus programas.
+VIII. Supervisar que los recursos financieros de la agencia sean aplicados para el cumplimiento de sus objetivos y metas, y la implementación de los programas y las acciones planeadas, así como proponer las adecuaciones presupuestales que estime pertinentes.
 
-IX. Implementar mecanismos para prevenir y evitar conflictos de interés, conforme a la legislación aplicable.
+IX. Proponer al director general las políticas, lineamientos y criterios para la adecuada administración de los recursos de la agencia, la evaluación y comprobación de su ejercicio.
 
-X. Establecer un registro en el que consten las operaciones que los funcionarios y servidores públicos de la agencia mantengan con las empresas promovidas o que puedan ser promovidas, así como con aquellas personas relacionadas con ellas, es decir aquellas con las que mantengan nexos patrimoniales o de responsabilidad o bien de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con la sociedad controladora del grupo financiero y entidades financieras integrantes del grupo.
+X. Presidir los comités de adquisiciones de la agencia.
+
+XI. Participar en el proceso de organización de los recursos en los diferentes programas de la agencia, así como mantener informados a los demás directores sobre las asignaciones presupuestales que les correspondan.
+
+XII. Participar en las gestiones de autorización del presupuesto de la agencia y su financiamiento, ante las autoridades competentes para la realización de sus programas.
+
+XIII. Implementar mecanismos para prevenir y evitar conflictos de interés, conforme a la legislación aplicable.
+
+XIV. Establecer un registro en el que consten las operaciones que los funcionarios y servidores públicos de la agencia mantengan con las empresas con las que se tenga o pueda tener una participación conjunta en algún proyecto, así como con aquellas personas relacionadas con ellas, es decir, aquellas con las que mantengan nexos patrimoniales o de responsabilidad o bien de parentesco por consanguinidad, afinidad o civil hasta el cuarto grado, con la sociedad controladora del grupo financiero y entidades financieras integrantes del grupo.
+
+XV. Validar las propuestas elaboradas por los titulares de las unidades administrativas, que serán presentadas por la agencia en los procedimientos de contrataciones por licitación pública o por invitación a cuando menos tres personas, respecto de aquellas obras de infraestructura y proyectos en los que pretenda participar como licitante.
+
+XVI. Intervenir, en conjunto con el área administrativa requirente y de conformidad con las disposiciones legales y normativas aplicables, en aquellas contrataciones por licitación pública o por invitación a cuando menos tres personas en las que pretenda participar la agencia para obtener la adjudicación de contratos de obras de infraestructura y servicios conexos, o bien de aquellos relacionados con adquisiciones, arrendamientos y servicios del sector público.
+
+XVII. Representar legalmente a la agencia y a su titular, cuando lo disponga el director general, ante los tribunales estatales o federales, centros de conciliación laboral o ante cualquier autoridad, en procedimientos, juicios o asuntos de cualquier materia o naturaleza, en que la agencia sea parte o tenga interés jurídico.
+
+XVIII. Gestionar los recursos de los programas de financiamiento y de apoyos recuperables y no recuperables que apruebe la junta de gobierno de la agencia.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 30.
 
-Facultades y obligaciones del jefe del Departamento de Normatividad Gubernamental
+Facultades y obligaciones del jefe del Departamento de Proyectos
 
-El jefe del Departamento de Normatividad Gubernamental tendrá las siguientes facultades y obligaciones:
+El jefe del Departamento de Proyectos tendrá las siguientes facultades y obligaciones:
 
-I. Formular y revisar las propuestas que serán presentadas por la agencia en los procedimientos de contrataciones por licitación pública o por invitación a cuando menos tres personas, respecto de aquellas obras de infraestructura y proyectos en los que pretenda participar como licitante.
+I. Proponer planes de trabajo para la realización de los proyectos, actividades y demás estudios necesarios para cumplir con el objeto de la agencia.
 
-II. Intervenir, de conformidad con las disposiciones jurídicas aplicables, en aquellas contrataciones por licitación pública o por invitación a cuando menos tres personas en las que pretenda participar la agencia para obtener la adjudicación de contratos de obras de infraestructura y servicios conexos o bien de aquellos relacionados con adquisiciones, arrendamientos y servicios del sector público.
+II. Promover la atracción de inversiones al estado a través de empresas e instituciones cuyo objeto o fin guarde relación con los sectores estratégicos asignados a la agencia.
 
-III. Coordinar la tramitación de los procedimientos necesarios para la planeación, ejecución y desarrollo de los proyectos asignados a la agencia.
+III. Generar informes acerca del seguimiento y avance de los proyectos que tenga a su cargo, o en los que colabore, en coordinación con otras unidades administrativas o entes públicos o privados.
 
-IV. Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la agencia.
+IV. Fungir como vínculo entre los sectores público, privado y social respecto de los trabajos, proyectos, estudios y actividades que planee, ejecute o coordine la agencia.
 
-V. Coordinar sus actuaciones con la Consejería Jurídica, ajustar sus actividades a las políticas y lineamientos que esta determine en materia legal.
+V. Integrar la información necesaria para la toma de decisiones en materia de inversión pública, respecto de los programas y proyectos afines a la agencia.
 
-VI. Representar legalmente a la agencia y al director general, ante los tribunales estatales o federales en los procedimientos, juicios o asuntos litigiosos de cualquier materia o naturaleza en que la agencia sea parte o tenga interés jurídico, contestando las demandas interpuestas contra resoluciones o actos de sus direcciones o unidades administrativas; así como ejercitar las acciones, excepciones y defensas que correspondan en los juicios que se tramiten ante los tribunales competentes.
+VI. Promover la participación de los sectores público, privado y mixto en la consecución de los proyectos asignados a la agencia, cuando fuere conveniente.
 
-VII. Compilar la normativa interna de la agencia y la jurisprudencia en las materias que sean de su competencia y difundirla entre las direcciones y unidades administrativas de la agencia.
+VII. Prestar asesoría respecto de la eventual intervención de la agencia en los proyectos, políticas u obras de inversión pública, privada o mixta.
 
-VIII. Conocer y substanciar los recursos administrativos que se interpongan contra actos y resoluciones de la agencia, así como del director general, de las direcciones o de cualquier otro servidor público o unidad administrativa de ella.
+VIII. Apoyar en el desarrollo y la elaboración de proyectos ejecutivos, así como de los estudios de factibilidad de los proyectos afines al objeto de la agencia.
 
-IX. Llevar el registro de los acuerdos, contratos, convenios y demás actos jurídicos de los que deriven derechos y obligaciones a cargo de la agencia.
+IX. Coadyuvar en el diseño e implementación de planes y proyectos de desarrollo regional, bajo una perspectiva de encadenamiento productivo.
 
-X. Elaborar los informes, previo y justificado, que en materia de amparo deba rendir el director general, así como los relativos a los demás servidores públicos de la agencia que sean señalados como autoridades responsables, intervenir en representación de la agencia cuando tenga el carácter de tercero interesado; en su caso, formular los recursos que procedan y verificar que las diversas áreas de la agencia cumplan con las resoluciones que en ellos se pronuncien e informar al superior jerárquico en caso de incumplimiento.
-
-XI. Asesorar legalmente a los titulares de las unidades administrativas de la agencia, con motivo del desempeño de sus atribuciones, así como emitir opinión sobre las consultas que en materia jurídica le formulen.
-
-XII. Requerir a las demás unidades administrativas de la agencia, la documentación e información necesarias para el cumplimiento de sus atribuciones.
-
-XIII. Asesorar al director general o la persona que este designe, en los diferentes comités y órganos de consulta en los que participe la agencia.
-
-XIV. Vigilar que las direcciones de la agencia cumplan con la normativa vigente en la ejecución de sus proyectos, programas y procedimientos administrativos.
-
-XV. Tramitar y proporcionar copias certificadas de las constancias que obren en los archivos de la agencia, cuando deban ser exhibidas ante las autoridades judiciales o del trabajo, en cualquier procedimiento, proceso o investigación.
-
-XVI. Rendir los informes que sean solicitados a la agencia por las autoridades jurisdiccionales, administrativas y de derechos humanos y coordinar con las unidades administrativas el cumplimiento de las resoluciones dictadas por dichas autoridades.
-
-XVII. Integrar los comités y grupos de trabajo interinstitucionales a los que sea convocado por la Consejería Jurídica, para atender los asuntos de la competencia de la agencia, o bien, de diversos asuntos legales necesarios para la buena marcha de la Administración Pública estatal.
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 31.
 
@@ -467,25 +521,31 @@ Facultades y obligaciones del jefe del Departamento de Gestión Administrativa
 
 El jefe del Departamento de Gestión Administrativa tendrá las siguientes facultades y obligaciones:
 
-I. Coordinarse con las demás áreas de la agencia para lograr cumplimiento de las obligaciones administrativas establecidas por las leyes y reglamentos aplicables.
+I. Atender las necesidades administrativas de la agencia, por instrucciones del director de Administración y Finanzas y de acuerdo con los lineamientos que fije el director general.
 
-II. Administrar, atender, coordinar y supervisar el control patrimonial de la agencia.
+II. Coordinarse con las demás áreas de la agencia para lograr el cumplimiento de las obligaciones administrativas establecidas por las leyes y los reglamentos aplicables.
 
-III. Participar en la organización de los comités de adquisiciones.
+III. Administrar, atender, coordinar y supervisar el control patrimonial de la agencia.
 
-IV. Capturar los informes correspondientes a los anteproyectos del programa anual de trabajo y del informe anual de actividades ante las instancias correspondientes.
+IV. Participar en la organización de los comités de adquisiciones.
 
-V. Rendir informes acordados o requeridos al director general sobre las actividades del departamento.
+V. Capturar los informes correspondientes a los anteproyectos del programa anual de trabajo y del informe anual de actividades ante las instancias correspondientes.
 
-VI. Coordinarse con las distintas autoridades de los tres niveles de gobierno para ejecutar y cumplir los fines de los programas y proyectos de la agencia.
+VI. Elaborar y presentar informes sobre las actividades del departamento al director de Administración y Finanzas, cuando así se requiera.
 
-VII. Solicitar a la Unidad de Acceso a la Información Pública del Poder Ejecutivo la información pública que la agencia esté legalmente obligada a difundir.
+VII. Ser enlace ante las distintas autoridades de los tres niveles de gobierno y de los órganos internos y externos de fiscalización cuando así corresponda, a fin de cumplir con los requerimientos en materia de auditorías administrativas y demás materias afines a sus atribuciones.
 
-VIII. Administrar, coordinar y dirigir la unidad de transparencia de la agencia.
+VIII. Fungir como enlace de la agencia ante la Coordinación General de Transparencia y Acceso a la Información Pública de la Consejería Jurídica, y los órganos y organismos garantes de transparencia, así como solicitarles la orientación relativa a la información pública que la agencia esté legalmente obligada a difundir.
 
-IX. Realizar todas aquellas actividades necesarias para el cumplimiento de sus funciones, las que le confieren los ordenamientos institucionales y las que le sean expresamente encomendadas por la Dirección de Administración.
+IX. Administrar, coordinar y dirigir la unidad de transparencia de la agencia y presidir el Comité de Transparencia.
 
-X. Implementar soluciones informáticas, que permitan incrementar la eficacia de las acciones que realizan las diversas áreas de la agencia a través de las tecnologías de la información con el fin de cumplir con las metas de la institución.
+X. Realizar todas aquellas actividades necesarias para el cumplimiento de sus funciones, las que le confieren los ordenamientos institucionales y las que le sean expresamente encomendadas por la Dirección de Administración y Finanzas.
+
+XI. Implementar soluciones informáticas, que permitan incrementar la eficacia de las acciones que realizan las diversas áreas de la agencia a través de las tecnologías de la información, con el fin de cumplir con las metas de la institución.
+
+XII. Llevar el registro de los acuerdos, contratos, convenios y demás actos jurídicos de los que deriven derechos y obligaciones a cargo de la agencia.
+
+XIII. Realizar, cuando el director de Administración y Finanzas se lo instruya, las diligencias que resulten pertinentes, ante los tribunales estatales o centros de conciliación laboral, en los procedimientos, juicios o asuntos de naturaleza laboral, en que la agencia sea parte, tenga interés jurídico o guarde relación con sus recursos humanos.
 
 ### Capítulo IV. Patrimonio
 
@@ -542,3 +602,17 @@ Aprobado por la Junta de Gobierno de la Agencia para el Desarrollo de Yucatán, 
 ING. JUAN CARLOS GARCÍA BARCALA,
 
 DIRECTOR GENERAL DE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ADY 03/2022 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+La persona titular de la Dirección General de la Agencia para el Desarrollo de Yucatán deberá realizar la inscripción de las modificaciones a este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
