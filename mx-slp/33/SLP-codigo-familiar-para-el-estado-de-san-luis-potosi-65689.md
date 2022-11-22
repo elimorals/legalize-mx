@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2022-10-14"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1021,7 +1023,9 @@ En la línea colateral los grados se cuentan por el número de generaciones, sub
 
 ## TITULO SEPTIMO. DE LOS ALIMENTOS
 
-### Capítulo Unico
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+### Capítulo I. Disposiciones Generales
 
 ###### ARTICULO 140.
 
@@ -1096,6 +1100,10 @@ En los asuntos de derechos alimentarios la autoridad judicial está facultada pa
 ###### ARTICULO 152.
 
 El deudor alimentario cumple la obligación asignando una pensión proporcional y equitativa al acreedor alimentario o incorporándolo a la familia. Si el acreedor alimentario se opone a ser incorporado, compete a la autoridad judicial, según las circunstancias, fijar la manera de ministrar los alimentos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+La persona que incumpla con lo señalado en el párrafo anterior por un período de sesenta días continuos se constituirá en deudora alimentaria morosa. La o el Juez de lo Familiar ordenará su inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas.
 
 ###### ARTICULO 153.
 
@@ -1193,6 +1201,10 @@ IV. La buena o mala fe durante la tramitación del proceso; si se mostró coadyu
 
 Cuando la o el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+En el caso de que la persona deudora alimentaria no cumpla con sus obligaciones alimentarias por más de sesenta días continuos, justificándose en la ausencia de ingresos, la o el Juez que conoce del asunto recabará, oficiosamente, los elementos que le permitan verificar tal circunstancia.
+
 ###### ARTICULO 166.
 
 La o el cónyuge que se haya separado de la o el otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 31 de este Código. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir a la autoridad judicial competente del lugar de su residencia, que obligue a la o el otro a que le ministre los gastos por el tiempo que dure la separación, en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los (sic) deudas contraídas en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, la autoridad judicial, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega, y de lo que ha dejado de cubrir desde que se separó.
@@ -1201,11 +1213,55 @@ La o el cónyuge que se haya separado de la o el otro, sigue obligado a cumplir 
 
 Es obligación de las o los patrones, gerentes generales y representantes legales de la fuente de trabajo de la o el deudor alimentario, dar cabal cumplimiento a las determinaciones judiciales que se emitan en relación a los descuentos y deducciones correspondientes al pago de la pensión alimenticia decretada por la autoridad judicial; en la inteligencia de que corresponderá a la fuente de trabajo el pago de las pensiones alimenticias que deje de pagar en la forma ordenada, con independencia de las sanciones que establece el Código Penal para el caso de incumplimiento a una orden judicial.
 
-### Capítulo I. De las Hijas o Hijos de Matrimonio y de Concubinato
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+### Capítulo II. Del Padrón Estatal de Personas Deudoras Alimentarias Morosas
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 167 BIS. Para los efectos de este Código se considera como deudora alimentaria morosa, a la persona que teniendo la obligación de proporcionar pensión alimenticia ordenada por mandato judicial, o establecida mediante convenio judicial, dejare de suministrarla por más de sesenta días continuos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 167 TER. Por orden de la o el Juez, en el Padrón Estatal de Personas Deudoras Alimentarias Morosas, se asentarán los datos de quienes incurran en el supuesto señalado en los artículos, 152 párrafo segundo, y 167 BIS de este Código.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 167 QUÁTER. La o el Juez, ordenará la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas, mediante oficio que deberá contener los siguientes datos:
+
+I. Nombre y apellidos de la persona deudora alimentaria morosa;
+
+II. Clave Única del Registro de Población de la persona deudora alimentaria morosa;
+
+III. Registro federal de contribuyentes de la persona deudora alimentaria morosa, en su caso;
+
+IV. Nombre y apellidos de la persona acreedora o acreedoras alimentarias, siempre y cuando se tenga el consentimiento en el supuesto de ser mayor de edad; para el caso de niñas, niños o adolescentes se reservará su identidad;
+
+V. Autoridad que ordena el registro;
+
+VI. Número de expediente, o causa jurisdiccional de la que deriva la inscripción;
+
+VII. Monto de la pensión alimenticia decretada, y
+
+VIII. Monto de las cantidades no suministradas a la fecha del mandato de inscripción, o, en su caso, el número de meses de incumplimiento.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 167 QUINQUE. La inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas, tendrá los efectos siguientes:
+
+I. Constituir prueba plena en el delito de incumplimiento de obligaciones de asistencia familiar, y
+
+II. Garantizar la preferencia en el pago de adeudos alimentarios.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 167 SEXTIES. En caso de estar cubiertos la totalidad de los pagos de la pensión alimenticia adeudados, a solicitud de la persona deudora alimentaria morosa, y dando vista al acreedor, la o el Juez, ordenará la cancelación de la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas, la cual se tramitará de manera incidental.
+
+La solicitud de expedición de constancia de no ser persona deudora alimentaria morosa, será resuelta en el término de tres días posteriores a la vista del acreedor.
 
 ## TITULO OCTAVO. DE LA PATERNIDAD Y FILIACION
 
-### Capítulo II. De la Legitimación
+### Capítulo I. De las Hijas o Hijos de Matrimonio y de Concubinato
 
 ###### ARTICULO 168.
 
@@ -1295,7 +1351,7 @@ La filiación no puede ser sujeta a transacción, ni juicio arbitral.
 
 Puede haber transacción y arbitramiento sobre los derechos pecuniarios que pudieren deducirse de la filiación legalmente adquirida, sin que las concesiones que se hagan al que se dice hija o hijo, importen la adquisición de estado de hija o hijo de matrimonio o concubinato.
 
-### Capítulo III. De las Pruebas de la Filiación de las Hijas y los Hijos Nacidos de Matrimonio y Concubinato
+### Capítulo II. De la Legitimación
 
 ###### ARTICULO 183.
 
@@ -1321,7 +1377,7 @@ Quedarán legitimados los descendientes de las hijas o hijos fallecidos, antes d
 
 Las hijas o hijos no nacidos pueden también gozar del mismo derecho, siempre que el padre al casarse declare que reconoce a la hija o al hijo de quién la mujer está embarazada, o que le reconoce si aquélla estuviere embarazada.
 
-### Capítulo IV. Del Reconocimiento de Hijas o Hijos Nacidos Fuera del Matrimonio
+### Capítulo III. De las Pruebas de la Filiación de las Hijas y los Hijos Nacidos de Matrimonio y Concubinato
 
 ###### ARTICULO 189.
 
@@ -1391,7 +1447,7 @@ La posesión de hijas o hijos nacidos de matrimonio o concubinato no puede perde
 
 Si el que está en posesión de los derechos de padre o de hija o hijo fuere despojado de ellos, o perturbado en su ejercicio sin que proceda sentencia por la cual deba perderlos, podrá hacer uso de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-### Capítulo V. De la Filiación Resultante de la Fecundación Humana Asistida
+### Capítulo IV. Del Reconocimiento de Hijas o Hijos Nacidos Fuera del Matrimonio
 
 ###### ARTICULO 203.
 
@@ -1563,7 +1619,7 @@ En caso de que el presunto progenitor o progenitora se niegue a que le sea reali
 
 Desde que queda establecida dicha presunción, la o el Juez podrá establecer pensión alimenticia como medida de protección a favor de la o el pretendido descendiente, a cargo del presunto progenitor o progenitora, en términos de este Código y demás legislación aplicable.
 
-### Capítulo VI. De la Adopción
+### Capítulo V. De la Filiación Resultante de la Fecundación Humana Asistida
 
 ###### ARTICULO 236.
 
@@ -1631,9 +1687,7 @@ Contra esta presunción se admite la prueba del ADN, y la de haber sido físicam
 
 La reproducción humana asistida llevada a cabo en la madre con autorización del cónyuge, se equipara a la cohabitación para los efectos de la filiación y la paternidad, independientemente de que el material genético pertenezca a un tercero en su carácter de donador.
 
-### Capítulo VII. De la Adopción Internacional
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+### Capítulo VI. De la Adopción
 
 ###### ARTICULO 247.
 
@@ -1741,9 +1795,9 @@ El Registro Civil se abstendrá de proporcionar información sobre los anteceden
 
 Ejecutoriada que sea la sentencia que decrete la adopción, quedarán extinguidos todos los vínculos con la familia de origen de la o el menor.
 
-### Capítulo I. De los Efectos de la Patria Potestad Respecto de Hijas e Hijos
+### Capítulo VII. De la Adopción Internacional
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 263.
 
@@ -1779,7 +1833,9 @@ El Ministerio Público vigilará que se cumpla con esta disposición.
 
 ## TITULO NOVENO. DE LA PATRIA POTESTAD
 
-### Capítulo II. De los Efectos de la Patria Potestad Respecto a los Bienes de la o el Menor
+### Capítulo I. De los Efectos de la Patria Potestad Respecto de Hijas e Hijos
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 268.
 
@@ -1867,9 +1923,7 @@ La o el que está sujeto a la patria potestad no puede comparecer en juicio, ni 
 
 Mientras la o el menor esté sujeto a la patria potestad, no podrá abandonar el domicilio familiar sin permiso de quien o quienes ejercen aquélla.
 
-### Capítulo III. De los Modos de Terminarse, Transmitirse, Perderse o Suspenderse la Patria Potestad
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+### Capítulo II. De los Efectos de la Patria Potestad Respecto a los Bienes de la o el Menor
 
 ###### ARTICULO 279.
 
@@ -1935,7 +1989,9 @@ Estas medidas se tomarán además, a petición de las personas interesadas o del
 
 Las personas que ejerzan la patria potestad deben entregar todos los bienes y frutos que les pertenezcan a quienes se encontraban bajo la patria potestad, luego que éstas lleguen a la mayoría de edad.
 
-### Capítulo IV. De la Custodia
+### Capítulo III. De los Modos de Terminarse, Transmitirse, Perderse o Suspenderse la Patria Potestad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 291.
 
@@ -2029,7 +2085,7 @@ I. Cuando tengan sesenta años cumplidos, y
 
 II. Cuando por su estado habitual de salud no puedan atender debidamente a su desempeño.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IV. De la Custodia
 
 ###### ARTICULO 300.
 
@@ -2053,7 +2109,7 @@ c) (DEROGADO, P.O. 14 DE MARZO DE 2017)
 
 ## TITULO DECIMO. DE LA TUTELA
 
-### Capítulo II. Del Desempeño de la Tutela
+### Capítulo I. Disposiciones Generales
 
 ###### ARTICULO 301.
 
@@ -2159,9 +2215,7 @@ Las y los extraños que desempeñen la tutela, tienen derecho de que se les rele
 
 La autoridad judicial que no cumpla las prescripciones de la tutela, será sancionada de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-### Capítulo III. De la Tutela Autoasignada
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+### Capítulo II. Del Desempeño de la Tutela
 
 ###### ARTICULO 316.
 
@@ -2403,7 +2457,9 @@ Para que pueda hacerse en la retribución de quien ejerza la tutela, el aumento 
 
 La persona tutora no tendrá derecho a remuneración alguna y restituirá la que por este título hubiere recibido, si contraviniere lo dispuesto en el artículo 24 de este Código.
 
-### Capítulo IV. De la Tutela Testamentaria
+### Capítulo III. De la Tutela Autoasignada
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 367.
 
@@ -2415,7 +2471,7 @@ La designación de la persona que ejerza la tutela o la curatela debe hacerse an
 
 La persona designada no está obligada a aceptar el cargo, aunque no tenga excusa para ello; pero si lo acepta deberá permanecer en él un año cuando menos, pasado el cual, podrá solicitar a la autoridad judicial que se le releve del mismo.
 
-### Capítulo V. De la Tutela Legítima de Menores y Mayores de Edad
+### Capítulo IV. De la Tutela Testamentaria
 
 ###### ARTICULO 368.
 
@@ -2447,9 +2503,7 @@ La o el adoptante que ejerza la patria potestad tiene derecho de nombrar a una p
 
 La persona autora de un testamento que deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle persona tutora solamente para la administración de los bienes que le deje.
 
-### Capítulo VI. De la Tutela Legítima de la Persona Mayor de Edad Incapaz
-
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
+### Capítulo V. De la Tutela Legítima de Menores y Mayores de Edad
 
 ###### ARTICULO 375.
 
@@ -2477,7 +2531,9 @@ Si hubiere varios parientes del mismo grado, la autoridad judicial de Primera In
 
 La falta temporal de persona que ejerza la tutela legítima se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### Capítulo VII. De la Tutela Pactada para la Protección de Personas con Discapacidad y Personas Adultas Mayores
+### Capítulo VI. De la Tutela Legítima de la Persona Mayor de Edad Incapaz
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2020)</small>
 
 ###### ARTICULO 379.
 
@@ -2499,7 +2555,7 @@ La autoridad judicial designará de entre la hija o hijo, a quien ejercerá la t
 
 Quien ejerza la tutela de una persona incapaz, que tenga hijas o hijos menores bajo su patria potestad, será también quien ejerza la tutela sobre ellas o ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### Capítulo VIII. De la Tutela Legítima de las y los Menores Abandonados, Acogidos o Depositados en Establecimientos de Beneficencia
+### Capítulo VII. De la Tutela Pactada para la Protección de Personas con Discapacidad y Personas Adultas Mayores
 
 ###### ARTICULO 383.
 
@@ -2517,7 +2573,7 @@ La designación de la persona tutora o curadora debe hacerse ante Notario Públi
 
 No podrán ejercer este tipo de tutela las personas que se encuentren en los supuestos del artículo 390 de este Código.
 
-### Capítulo IX. De la Tutela Dativa
+### Capítulo VIII. De la Tutela Legítima de las y los Menores Abandonados, Acogidos o Depositados en Establecimientos de Beneficencia
 
 ###### ARTICULO 384.
 
@@ -2531,7 +2587,7 @@ Las o los responsables de las instituciones de asistencia social pública o priv
 
 Las o los responsables de las instituciones de asistencia social pública o privada, donde se reciban personas menores que hayan sido objeto de la violencia familiar, tendrán la custodia de éstos en los términos que establezcan las disposiciones aplicables o los estatutos que normen a la institución. En todo caso harán del conocimiento del Ministerio Público y a quien corresponda el ejercicio de la patria potestad.
 
-### Capítulo X. De las Personas Inhábiles para el Desempeño de la Tutela y de las que Deben ser Separadas de Ella
+### Capítulo IX. De la Tutela Dativa
 
 ###### ARTICULO 387.
 
@@ -2549,7 +2605,7 @@ Quien ejerza la tutela dativa será designado por la o el menor si ha cumplido d
 
 Siempre será dativa la tutela para asuntos judiciales de la o el menor de edad.
 
-### Capítulo XI. De las Excusas de la Tutela
+### Capítulo X. De las Personas Inhábiles para el Desempeño de la Tutela y de las que Deben ser Separadas de Ella
 
 ###### ARTICULO 390.
 
@@ -2627,7 +2683,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelta la persona que ejerza la tutela, volverá al ejercicio de su encargo.
 
-### Capítulo XII. De la Garantía que Deben Prestar las Personas que Ejerzan la Tutela para Asegurar su Manejo
+### Capítulo XI. De las Excusas de la Tutela
 
 ###### ARTICULO 397.
 
@@ -2677,7 +2733,7 @@ Muerta la persona que esté desempeñando la tutela, las y los herederos o ejecu
 
 En caso de incumplimiento de la disposición anterior, serán responsables de los daños y perjuicios causados a la persona incapaz.
 
-### Capítulo XIII. De las Cuentas de la Tutela
+### Capítulo XII. De la Garantía que Deben Prestar las Personas que Ejerzan la Tutela para Asegurar su Manejo
 
 ###### ARTICULO 404.
 
@@ -2765,7 +2821,7 @@ La persona que ejerza la tutela al presentar su cuenta anual; deberá informar d
 
 Es también obligación de quien ejerza la curatela vigilar el estado de las fincas hipotecadas por la persona tutora, o de los bienes entregados en prenda, dando aviso a la autoridad judicial de los deterioros y menoscabo que en ellos hubiere, para que, si es notable la disminución del precio, se exija a la persona tutora que se asegure con otros bienes los intereses que administra.
 
-### Capítulo XIV. De la Extinción y Entrega de los Bienes de la Tutela
+### Capítulo XIII. De las Cuentas de la Tutela
 
 ###### ARTICULO 419.
 
@@ -2831,7 +2887,7 @@ La garantía dada por la persona tutora no se cancelará, sino hasta que las cue
 
 Antes de que transcurra un mes desde la rendición de cuentas, es nulo todo convenio entre la persona tutora y la persona incapaz ya mayor de edad, relativo a la administración de la tutela o a las cuentas mismas.
 
-### Capítulo XV. De la Curatela
+### Capítulo XIV. De la Extinción y Entrega de los Bienes de la Tutela
 
 ###### ARTÍCULO 435.
 
@@ -2885,7 +2941,7 @@ Todas las acciones por hechos relativos a la administración de la tutela, que l
 
 Si la tutela hubiere fenecido durante la minoría de edad, el menor podrá ejercitar las acciones correspondientes contra la primer persona tutora y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que se llegue a la mayoría de edad. Tratándose de las personas incapaces, los términos se computarán desde que cese la incapacidad.
 
-### Capítulo XVI. Del Estado de Interdicción
+### Capítulo XV. De la Curatela
 
 ###### ARTICULO 446.
 
@@ -2951,7 +3007,7 @@ La persona que ejerza la curatela tiene derecho de ser relevada de ésta, transc
 
 En los casos en que, conforme a este Código, tenga que intervenir quien ejerza la curatela, cobrará el honorario que señala la autoridad judicial, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo XVI. Del Estado de Interdicción
 
 ###### ARTICULO 460.
 
@@ -2983,7 +3039,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo II. De las Actas de Nacimiento
+### Capítulo I. Disposiciones Generales
 
 ###### ARTICULO 466.
 
@@ -3063,7 +3119,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo III. De las Actas de Reconocimiento de Hijas o Hijos
+### Capítulo II. De las Actas de Nacimiento
 
 ###### ARTÍCULO 485.
 
@@ -3143,7 +3199,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo IV. De las Actas de Adopción
+### Capítulo III. De las Actas de Reconocimiento de Hijas o Hijos
 
 ###### ARTICULO 504.
 
@@ -3171,7 +3227,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo V. De las Actas de Inscripción de Sentencias
+### Capítulo IV. De las Actas de Adopción
 
 ###### ARTICULO 510.
 
@@ -3191,7 +3247,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo VI. De las Actas de Matrimonio
+### Capítulo V. De las Actas de Inscripción de Sentencias
 
 ###### ARTICULO 514.
 
@@ -3211,7 +3267,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo VII. De las Actas de Divorcio
+### Capítulo VI. De las Actas de Matrimonio
 
 ###### ARTICULO 518.
 
@@ -3279,7 +3335,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo VIII. De las Actas de Defunción
+### Capítulo VII. De las Actas de Divorcio
 
 ###### ARTICULO 534.
 
@@ -3295,7 +3351,7 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2012)</small>
 
-### Capítulo IX. Disposiciones Generales
+### Capítulo VIII. De las Actas de Defunción
 
 ###### ARTICULO 537.
 
@@ -3350,6 +3406,8 @@ Las o los menores no podrán alegar nulidad si han presentado certificados falso
 (DEROGADO, P.O. 18 DE OCTUBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2012)</small>
+
+### Capítulo IX. Disposiciones Generales
 
 ###### ARTICULO 550.
 
@@ -3684,5 +3742,13 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0401.- SE REFORMA EL ARTÍCULO 258, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0423.- SE REFORMA EN EL TÍTULO SÉPTIMO LA DENOMINACIÓN DEL ENTONCES CAPÍTULO ÚNICO QUE PASA A SER CAPÍTULO I; Y SE ADICIONA EN LOS ARTÍCULOS 152 Y 165, ASÍ COMO EN EL TÍTULO SÉPTIMO EL CAPÍTULO II “DEL PADRÓN ESTATAL DE PERSONAS DEUDORAS ALIMENTARIAS MOROSAS” Y LOS ARTÍCULOS 167 BIS A 167 SEXTIES, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 53, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
