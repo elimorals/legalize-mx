@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-10-24"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -1167,6 +1167,10 @@ En la educación que se imparta en el Estado de Sonora, se utilizará el avance 
 
 Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+En aquellos casos que por una situación extraordinaria o atípica, no sea posible impartir educación en la modalidad presencial, las autoridades educativas estatales, en coordinación con los ayuntamientos respectivos, deberá (sic) garantizar la impartición de educación a distancia, la cual comprenderá el aprovechamiento de las plataformas digitales, la televisión educativa y las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, tomando en consideración las condiciones de acceso a medios tecnológicos con que cuente la población en cada región del Estado.
+
 Capacitación de maestras y maestros para desarrollar habilidades en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital
 
 ###### Artículo 73.
@@ -1849,17 +1853,17 @@ XIV.- Adoptar las medidas para que, con independencia de su nacionalidad o condi
 
 XV.- Promover medidas para facilitar y garantizar la incorporación y permanencia a los servicios educativos públicos a las niñas, niños, adolescentes y jóvenes que hayan sido repatriados a nuestro país, regresen voluntariamente o enfrenten situaciones de desplazamiento o migración interna;
 
-> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 XVI.- Proporcionar a los educandos los libros de texto gratuitos y materiales educativos impresos o en formatos digitales para la educación básica, garantizando su distribución;
 
-> <small>(REFORMADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-XVII.- Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; e
+XVII.- Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia; y
 
-> <small>(ADICIONADA, B.O. 24 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-XVIII.- Instrumentar estrategias dentro de las instituciones educativas públicas y privadas, para eliminar estereotipos de género que causen desigualdad y discriminación que tengan que ver con formas de vestir, actitudes y creencias, entre otras; durante la educación básica y media superior.
+XVIII.- Otorgar apoyos inmediatos conforme a la normatividad observable dentro de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, a los estudiantes de educación básica y media superior, que no cuenten con los recursos para acceder a la educación a distancia en aquellos casos en que la educación presencial no sea posible, debiendo priorizar el otorgamiento de apoyos a la población de las comunidades indígenas y de los municipios y localidades rurales del Estado.
 
 Consejo Nacional de Autoridades Educativas
 
@@ -2860,3 +2864,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se establece un período de 30 días hábiles para que el Poder Ejecutivo realice las adecuaciones pertinentes al presente decreto, y se establece un plazo adicional de 30 días hábiles para que las instituciones educativas adecuen sus reglamentos escolares al presente Decreto, conforme a las disposiciones reglamentarias que para tal efecto emita el Poder Ejecutivo.
+
+B.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 73, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
