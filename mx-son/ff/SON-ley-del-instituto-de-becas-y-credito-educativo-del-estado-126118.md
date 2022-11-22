@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-becas-y-credito-educativo-del-estado-12611
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-29"
-last_updated: "2020-07-23"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de enero de 2018.
 
@@ -637,9 +637,17 @@ d) Al talento cultural: Los orientados a reconocer e incentivar a los alumnos qu
 
 e) Al talento cívico: Los orientados a reconocer e incentivar a los alumnos que han destacado en actividades cívicas;
 
-f) Al talento emprendedor: Los orientados a reconocer e incentivar a los alumnos que han destacado en actividades emprendedoras; y
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-g) Al desarrollo integral: Los orientados a reconocer e incentivar a los alumnos de escasos recursos económicos que requieran de un apoyo económico para asistir a cursos o congresos o realizar viajes de estudios, misiones comerciales o prácticas profesionales fuera del Estado.
+f) Al talento emprendedor: Los orientados a reconocer e incentivar a los alumnos que han destacado en actividades emprendedoras;
+
+> <small>(REFORMADO, B.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+g) Al desarrollo integral: Los orientados a reconocer e incentivar a los alumnos de escasos recursos económicos que requieran de un apoyo económico para asistir a cursos o congresos o realizar viajes de estudios, misiones comerciales o prácticas profesionales fuera del Estado; y
+
+> <small>(ADICIONADO, B.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+h) A la inclusión al aprendizaje digital: Los orientados a garantizar el acceso a la conectividad de redes digitales de información y comunicación, en aquellos casos que, por una situación extraordinaria o atípica, no sea posible impartir educación en la modalidad presencial y los alumnos deban recibir educación a distancia.
 
 Las becas que se otorgue (sic) a alumnos de escuelas particulares no consistirán en la entrega de numerario sino en la deducción del porcentaje que la Junta Directiva acuerde correspondiente al monto de la colegiatura del becario por parte de las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría, en términos de la legislación aplicable.
 
@@ -868,3 +876,11 @@ El Instituto de Becas y Crédito Educativo del Estado de Sonora deberá tomar la
 ###### ARTÍCULO CUARTO.
 
 Cualquier dependencia estatal que tenga a su cargo programas de becas o estímulos educativos a la fecha de publicación del presente Decreto, deberá reportarlos de inmediato a la dirección del Instituto de Becas y Crédito Educativo del Estado de Sonora y tendrá un máximo de 30 días naturales para transferir al referido Instituto los recursos correspondientes, así como los padrones de beneficiarios, a fin de dar cumplimiento a lo dispuesto en el artículo 38 de la Ley del Instituto de Becas y Crédito Educativo del Estado de Sonora, modificado en el presente Decreto. Procurando la atención adecuada y pertinente a los grupos vulnerables e integrantes de los pueblos indígenas en cuanto a becas y estímulos educativos.
+
+B.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 73, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA Y DE LA LEY DEL INSTITUTO DE BECAS Y CRÉDITO EDUCATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
