@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-fomentar-y-promover-el-no-desperdiciar-alimentos-14329
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-18"
-last_updated: "2020-06-18"
+last_updated: "2022-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA FOMENTAR Y PROMOVER EL NO DESPERDICIAR ALIMENTOS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 18 de junio de 2020.
 
@@ -49,33 +49,57 @@ LEY PARA FOMENTAR Y PROMOVER EL NO DESPERDICIAR ALIMENTOS EN EL ESTADO DE YUCAT�
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés y observancia general en el Estado, y tiene por objeto, contribuir a satisfacer las necesidades alimentarias de la población que se encuentra en situación de pobreza o vulnerabilidad por carencia alimentaria, determinados por la autoridad competente, mediante:
+Las disposiciones de esta Ley son de orden público, interés y observancia general en el Estado, y tienen por objeto, garantizar el derecho humano que tienen las personas al acceso a una alimentación adecuada, a través del fomento de la donación de alimentos en las Entidades Alimentarias, con el fin de apoyar principalmente a los sectores de la población que se encuentran en situación de pobreza o vulnerabilidad por carencia alimentaria, creando mecanismos estatales para incentivar la donación y distribución de alimentos, mediante:
 
 I. La donación y distribución de alimentos nutritivos y de calidad susceptibles para el consumo humano a través de acciones conjuntas entre el sector público, social y privado;
 
-II. Las políticas públicas que el Poder Ejecutivo, los Ayuntamientos y la sociedad civil organizada promuevan para implementar una cultura preventiva al desperdicio de alimentos, y que promuevan el aprovechamiento integral de los alimentos;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-III. La sensibilización a los propietarios, franquicitarios, concesionarios, encargados o cualquier otra denominación bajo la que tengan la administración de establecimientos comerciales, consumidores e industriales de la transformación de alimentos, así como a la población en general, sobre la importancia de la donación de alimentos, y
+II. Las políticas públicas que el Poder Ejecutivo, los Ayuntamientos y la sociedad civil organizada promuevan para implementar una cultura preventiva al desperdicio de alimentos, así como para el aprovechamiento integral de los mismos;
 
-IV. La aplicación de sanciones para quienes incurran en faltas u omisiones previstas en esta Ley.
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+III. La sensibilización a los propietarios, franquicitarios, concesionarios, encargados o cualquier otra denominación bajo la que tengan la administración de establecimientos comerciales, consumidores e industriales de la producción y transformación de alimentos, así como a la población en general, sobre la importancia de la donación de alimentos;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+IV. La aplicación de sanciones para quienes incurran en faltas u omisiones previstas en esta Ley, y
+
+> <small>(ADICIONADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+V. El otorgamiento de subsidios o estímulos fiscales estatales a los Bancos de Alimentos o a las Entidades Alimentarias que produzcan, transformen, almacenen, distribuyan o vendan alimentos para consumo humano y eviten su desperdicio, aunque los alimentos hayan perdido por cuestiones de caducidad, su óptimo valor comercial, pero se encuentren en buen estado para ser consumidos.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 2.
 
-La donación solidaria hecha por personas físicas y morales, así como el aprovechamiento de los alimentos en términos de esta ley son coadyuvantes para garantizar el derecho a la alimentación de las personas.
+La donación solidaria hecha por personas físicas y morales, así como el aprovechamiento de los alimentos en términos de esta Ley son coadyuvantes para garantizar el derecho a la alimentación de las personas.
 
-Queda prohibida toda acción u omisión que favorezca el desperdicio de alimentos de consumo básico cuando sean susceptibles de donación para consumo humano.
+Queda prohibida toda acción u omisión que favorezca el desperdicio de alimentos de consumo básico cuando sean susceptibles de donación para consumo humano, estableciendo como situación de excepción, la merma de alimentos por casos de fuerza mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 3.
 
-Cualquier persona y toda institución de beneficencia señalada en el presente ordenamiento, podrán ejercer el derecho de solicitar a los Bancos de Alimentos, el apoyo para obtener y ofrecer una adecuada asistencia social alimentaria.
+Cualquier persona o institución receptora de apoyo alimentario señalada en el presente ordenamiento, podrá solicitar a los Bancos de Alimentos apoyo para obtener y ofrecer una adecuada asistencia alimentaria.
 
-Los Bancos de Alimentos darán prioridad, en la repartición de los productos alimentarios, a los asilos, casas hogar y todas aquellas instituciones de asistencia que cuenten con necesidades alimenticias, a aquellas zonas con mayor población (sic) situación de vulnerabilidad por carencia alimentaria, determinadas según parámetros del Consejo de Evaluación de la Política de Desarrollo Social (CONEVAL), Consejo Nacional de Población (CONAPO) y Secretaría de Desarrollo Social.
+> <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+El apoyo a que se refiere el párrafo anterior se otorgará conforme a la disponibilidad previa y los requisitos que los Bancos de Alimentos establezcan, por lo que la solicitud de apoyo no constituirá para estos una obligación de otorgarlo.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+Los Bancos de Alimentos atendiendo a sus lineamientos internos, podrán utilizar como criterios de prioridad para la distribución de los productos alimentarios, a los asilos, casas hogar y todas aquellas instituciones de asistencia que cuenten con necesidades alimenticias, a aquellas zonas con mayor situación de vulnerabilidad por carencia alimentaria de acuerdo con los parámetros del Consejo de Evaluación de la Política de Desarrollo Social (CONEVAL), Consejo Nacional de Población (CONAPO) y Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 4.
 
-Todo alimento entregado en donación a un Banco de Alimentos, deberá ser entregado para la ayuda alimentaria de personas en situación de pobreza o vulnerabilidad por carencia alimentaria en los términos señalados en la presente ley.
+Todo alimento donado a un Banco de Alimentos, deberá ser entregado para los fines de asistencia alimentaria establecidos en su objeto social.
 
 Los alimentos referidos en el párrafo anterior deberán ser aptos para consumo humano y cumplir con la normativa sanitaria vigente, así como con la Norma Oficial Mexicana NOM-014-SSA3-2013, para la asistencia social alimentaria a grupos de riesgo.
 
@@ -95,25 +119,41 @@ I. Alimento: Cualquier substancia o producto, sólido, semisólido o líquido, n
 
 II. Alimentación Adecuada: El acceso a alimentos inocuos y nutritivos, con pertinencia cultural, de manera que satisfagan las necesidades nutricionales, procuren una vida sana y logren un desarrollo integral;
 
-III. Bancos de Alimentos: Organizaciones públicas, sociales o privadas establecidas en el Estado de Yucatán, sin fines de lucro, que cuenten con personal calificado, que tengan reconocimiento oficial como donataria autorizada (sic) por el Servicio de Administración Tributaria, cuyo objetivo es recepcionar, revisar, almacenar, distribuir y entregar en donación los alimentos aptos para consumo humano a favor de los beneficiarios en los términos de esta Ley;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+III. Bancos de Alimentos: Personas morales constituidas con fines no lucrativos y reconocidas como donatarias por la Secretaría de Hacienda y Crédito Público, que tengan por objeto la atención de requerimientos básicos de subsistencia en materia de alimentación de personas o población en situación de vulnerabilidad y, que de manera preponderante y continua, realicen actividades de rescate, acopio, almacenamiento y distribución de alimentos aptos para consumo humano;
 
 IV. Beneficiario: Toda persona con carencias económicas, a las que hace referencia esta ley, que solicita y recibe alimentos para adquirir una alimentación adecuada, ya sea de manera individual o familiar;
 
-V. Cuota de recuperación: Contraprestación por la ayuda alimentaria recibida, respetando el máximo del 10% permitido con relación al valor comercial del producto;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-VI. Desperdicio de Alimentos: Acción por la que se desechan alimentos procesados o cosechados durante los procesos de comercialización, selección, control de calidad, o cuya fecha de caducidad se encuentre próxima al momento de su desecho, pero que siguen siendo susceptibles para el consumo humano, sea en etapas de comercialización al mayoreo y menudeo o posteriores a la compra por particulares;
+V. Cuota de recuperación: Contraprestación, que en su caso se establezca, por la ayuda alimentaria recibida, a excepción de lo señalado en esta Ley, respetando el máximo del 10% permitido con relación al valor comercial del producto;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+VI. Desperdicio de Alimentos: Acción u omisión consciente o dolosa, que se realiza al estar depositando en calidad de basura el producto alimenticio o provocando que una cantidad de alimento deje de ser consumible, así como al permitir que expire su caducidad y por ende, no sea utilizado en beneficio humano; ya sea durante los procesos de producción, transformación, distribución, selección, control de calidad, o de cualquier etapa en la comercialización al mayoreo y menudeo o posteriores a la compra por particulares;
 
 VII. Donante: Persona física o moral que conforme a la presente ley entrega alimentos aptos para consumo humano a los Bancos de Alimentos;
 
-VIII. Entidad Alimentaria: Las personas físicas o morales dedicadas a la producción de alimentos de origen vegetal o animal y sus derivados, así como al transporte, almacenaje y empaque de alimentos, incluyendo sus derivados, donde su producción haya sido de forma artesanal o industrial, con la finalidad de su comercialización y preparación de alimentos al mayoreo, menudeo y al público en general;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-IX. Instituciones receptoras de apoyo alimentario: Las asociaciones o sociedades civiles con reconocimiento oficial como donatarias autorizadas y establecidas en el Estado, que reciben productos alimenticios de los Bancos de Alimentos, y sin fines de lucro que apoyan entregando alimentos a personas que se encuentran en algún tipo de situación de pobreza o vulnerabilidad por carencia alimentaria;
+VIII. Entidad Alimentaria: Las personas físicas o morales dedicadas a la producción de alimentos de origen vegetal o animal y sus derivados, así como al transporte, almacenaje y empaque de alimentos aptos para el consumo humano incluyendo sus derivados, donde su producción haya sido de forma artesanal o industrial, con la finalidad de su comercialización y preparación de alimentos al mayoreo, menudeo y al público en general;
 
-X. Padrón Único de Bancos de Alimentos y de Entidades Alimentarias: Relación oficial de Bancos de Alimentos privados y entidades alimentarias a cargo de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-XI. Personal calificado: Personal acreditado por la Secretaría de Desarrollo Social y Secretaría de Salud para la aplicación de esta Ley;
+IX. Instituciones receptoras de apoyo alimentario: Las asociaciones o sociedades civiles con o sin reconocimiento oficial como donatarias autorizadas y establecidas en el Estado, que reciben productos alimenticios de los Bancos de Alimentos, y sin fines de lucro apoyan entregando alimentos a personas que se encuentran en algún tipo de situación de pobreza o vulnerabilidad por carencia alimentaria;
 
-XII. Población en situación de vulnerabilidad por carencia alimentaria: Cualquier persona que derivado de causas socioeconómicas, fisiológicas, patológicas, culturales, condiciones de emergencia o desastre natural tiene una dieta inadecuada o insuficiente para subsistir o una mala nutrición;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+X. Padrón Único de Bancos de Alimentos: Relación oficial de Bancos de Alimentos privados a cargo de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XI. Personal calificado: Personal acreditado por la Secretaría de Desarrollo Social, la Secretaría de Salud o los Bancos de Alimentos para la aplicación de esta Ley;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XII. Población en situación de vulnerabilidad por carencia alimentaria: Cualquier persona que derivado de causas socioeconómicas, fisiológicas, patológicas, culturales, condiciones de emergencia o desastre natural tenga una dieta insuficiente para subsistir o que no cubra con el requerimiento energético diario recomendado;
 
 XIII. Pobreza alimentaria: Incapacidad para obtener una canasta básica alimentaria, aún si se hiciera uso de todo el ingreso disponible en el hogar para comprar sólo los bienes de dicha canasta;
 
@@ -141,7 +181,9 @@ b) Secretaría de Salud;
 
 c) Secretaría de Desarrollo Rural;
 
-d) Secretaría de Administración y Finanzas del Estado, y
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+d) Secretaría de Administración y Finanzas, y
 
 e) El Sistema para el Desarrollo Integral de la Familia
 
@@ -153,13 +195,17 @@ Corresponde a la Secretaría de Desarrollo Social, para efectos de esta Ley, las
 
 I. Dirigir la política del derecho a la alimentación adecuada y combate contra el desperdicio de alimentos, en coordinación con los ayuntamientos del Estado y la sociedad civil organizada;
 
-II. Fomentar la colaboración entre las Entidades Alimentarias y los Bancos de Alimentos; y en su caso, de la misma Secretaría de Desarrollo Social, con las anteriores;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-III. Establecer, supervisar y actualizar anualmente el Padrón Único de Bancos de Alimentos y de Entidades Alimentarias;
+II. Fomentar la colaboración entre las Entidades Alimentarias y los Bancos de Alimentos; y en su caso, de la misma Secretaría de Desarrollo Social, con las anteriores, a través de la celebración de convenios y acuerdos;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+III. Establecer, supervisar y actualizar anualmente el Padrón Único de Bancos de Alimentos;
 
 IV. Informar a la Secretaría de Salud de los Bancos de Alimentos que se integren al padrón;
 
-V. Supervisar los registros de donaciones a los Bancos de Alimentos y del cumplimiento de las Entidades Alimentarias;
+V. (DEROGADA, D.O. 22 DE NOVIEMBRE DE 2022)
 
 VI. Elaborar estadísticas que contribuyan a fomentar la política pública alimentaria en el Estado;
 
@@ -193,13 +239,17 @@ I. Difundir, incentivar y promover entre los productores del sector agropecuario
 
 II. Las demás que se consideren de las Leyes aplicables.
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-La Secretaría de Administración y Finanzas del Estado será la encargada de establecer los incentivos fiscales que dentro de su competencia, deriven del presente ordenamiento.
+La Secretaría de Administración y Finanzas propondrá al Poder Ejecutivo los subsidios o estímulos fiscales a otorgar derivados del presente ordenamiento con el objeto de fomentar la donación y eliminar el desperdicio de alimentos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-Corresponde al Sistema para el Desarrollo Integral de la Familia de Yucatán las siguientes facultades:
+Corresponde al Sistema para el Desarrollo Integral de la Familia en Yucatán las siguientes facultades:
 
 I. Proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que componen el patrimonio de la beneficencia pública;
 
@@ -209,9 +259,11 @@ III. Promover la donación de alimentos aptos para el consumo humano entre los s
 
 ### CAPÍTULO III. DE LA DONACIÓN DE ALIMENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 14.
 
-Las personas físicas o morales deberán registrarse como donantes alimentarios en el Padrón Único de Bancos de Alimentos y de Entidades Alimentarias, ante la Secretaria de Desarrollo Social a efecto de estar en aptitud de ser reconocidas con los estímulos que establece la presente ley, para obtener dicho registro deberán cumplir con los siguientes requisitos:
+Los Bancos de Alimentos deberán registrarse ante la Secretaría de Desarrollo Social en el Padrón Único de Bancos de Alimentos, a efecto de estar en aptitud de ser reconocidos con los estímulos que establece la presente Ley. Para obtener dicho registro deberán cumplir con los siguientes requisitos:
 
 I. Contar con personal calificado, infraestructura y equipo adecuado que garanticen la inocuidad, conservación y el manejo seguro de los alimentos, así como un plan de sostenibilidad;
 
@@ -229,9 +281,13 @@ II. Contar con personal calificado y equipo necesario para la selección del pro
 
 III. Cumplir con la normatividad sanitaria vigente y la NORMA Oficial Mexicana NOM-014-SSA3-2013, para la asistencia social alimentaria a grupos de riesgo;
 
-IV. Divulgar la información que permita una seguridad alimentaria a los beneficiarios sobre el contenido nutrimental de los alimentos, sugerencias de consumo o modo de preparación, así como las condiciones adecuadas de conservación;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-V. Determinar si proceden los apoyos, siendo prioritario apoyar a las personas que se encuentran en situación de pobreza o vulnerabilidad por carencia alimentaria;
+IV. Coadyuvar en la divulgación de información que permita una seguridad alimentaria a los beneficiarios sobre el contenido nutrimental de los alimentos, sugerencias de consumo o modo de preparación, así como las condiciones adecuadas de conservación;
+
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+V. Determinar, de acuerdo con sus lineamientos internos y la capacidad o disponibilidad de alimentos con la que cuenten, si proceden los apoyos que le soliciten, siendo prioritario apoyar a las personas que se encuentran en situación de pobreza o vulnerabilidad por carencia alimentaria;
 
 VI. Suscribir, en su caso, los convenios para coadyuvar con el objeto de su creación;
 
@@ -241,57 +297,87 @@ VIII. Estar inscrito ante el Servicio de Administración Tributaria, como person
 
 IX. Verificar los precios de los productos y expedir la facturación correspondiente de la donación recibida, en los términos señalados en las leyes aplicables;
 
-X. Remitir anualmente un informe firmado y sellado dirigido a la Secretaría de Desarrollo Social, en el cual se especificarán las cantidades recibidas en donación, las Entidades Alimentarias que la efectuaron, además deberá señalar la periodicidad de entrega con la cual se pactó el convenio de donación y el número de beneficiarios;
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+X. Remitir anualmente un informe firmado y sellado dirigido a la Secretaría de Desarrollo Social, únicamente para los casos en que hayan recibido alimentos donados por parte del Gobierno del Estado de Yucatán o se les haya otorgado alguno de los subsidios o estímulos fiscales que establece la presente Ley. En el informe se especificarán las cantidades recibidas en donación, las dependencias que la efectuaron, la periodicidad de entrega con la cual se pactó el convenio de donación y el número de beneficiarios;
 
 XI. Coordinarse con otros Bancos de Alimentos con la finalidad de compartir los alimentos que estén próximos a caducar y así evitar su desperdicio;
 
-XII. Recibir de los beneficiarios hasta el 10% del valor de los productos alimenticios conseguidos en donación que estos reciben, y
+> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XII. Recibir de los beneficiarios o de las instituciones receptoras de apoyo alimentario, la cuota de recuperación, salvo que concurra el supuesto previsto en el artículo 20 de la presente Ley, y
 
 XIII. Las demás que se consideren de las Leyes aplicables.
 
 ###### Artículo 16.
 
-Para el rescate de alimentos aptos para consumo humano y evitar el desperdicio, destrucción, destino a la basura o rellenos sanitarios, las Entidades Alimentarias, que en su caso, participen en la suscripción de convenios de donación de comestibles con Bancos de Alimentos, deberán apegarse a lo señalado en el presente Capítulo.
+(DEROGADO, D.O. 22 DE NOVIEMBRE DE 2022)
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-Las Entidades Alimentarias, pueden adicionar su marca en los alimentos donados. En todo momento, deberá conservarse los datos que identifiquen la caducidad y la descripción de los mismos.
+Las Entidades Alimentarias, pueden adicionar su marca en los alimentos donados. En todo momento, deberá conservarse los datos que identifiquen la caducidad y la descripción de los mismos, salvo aquellos alimentos que por su naturaleza no contengan fecha de caducidad, ni su descripción.
 
 ### CAPÍTULO IV. DE LOS BENEFICIARIOS
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 18.
 
-Toda persona o institución receptora de apoyo alimentario, podrá aportar a favor del Banco de Alimentos, una cuota de recuperación de hasta el 10% del valor de los productos conseguidos en donación que reciba el beneficiario, a excepción de lo señalado en el artículo 19 de la presente Ley, dicho porcentaje se actualizará con base a los cambios o modificaciones al Reglamento de la Ley del Impuesto Sobre la Renta. El Banco de Alimentos expedirá el comprobante correspondiente de las cantidades que reciba por el concepto indicado en el presente artículo.
+Todo beneficiario o institución receptora de apoyo alimentario, podrá aportar a favor del Banco de Alimentos, una cuota de recuperación que represente un porcentaje de hasta el 10% del valor de los productos conseguidos en donación que reciba el beneficiario, a excepción de lo señalado en el artículo 20 de la presente Ley. El Banco de Alimentos expedirá el comprobante correspondiente de las cantidades que reciba por el concepto indicado en el presente artículo.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-Para determinar el monto que podrá ascender hasta el 10% del valor señalado en el artículo anterior, se tomará como base el precio establecido en la factura correspondiente que expide el Banco de Alimentos al donante, la publicación de precios de la Procuraduría Federal del Consumidor o del Sistema Nacional de Información e Integración de Mercados.
+Como criterio orientador, el Banco de Alimentos podrá determinar el monto de la cuota de recuperación a que se refiere el artículo anterior, tomando como base el precio establecido en la factura correspondiente que expide el Banco de Alimentos al donante, la publicación de precios de la Procuraduría Federal del Consumidor o del Sistema Nacional de Información e Integración de Mercados.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-Las personas que no puedan aportar hasta el 10% del valor de los productos donados, recibirán éstos siempre y cuando el Banco de Alimentos valide la condición socioeconómica y firmen bajo protesta de decir verdad el respectivo documento que señale la no solvencia de recursos para liquidar el importe solicitado. Lo señalado en el párrafo anterior solo es aplicable para personas físicas que de forma familiar o individual soliciten alimentos conforme lo señala la presente Ley.
+Los beneficiarios que no puedan aportar la cuota de recuperación, recibirán los productos donados siempre y cuando el Banco de Alimentos valide la condición socioeconómica, determinando la no solvencia de recursos para liquidar el importe solicitado.
+
+> <small>(ADICIONADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+De igual manera podrá condonarse el pago de la cuota de recuperación a las instituciones receptoras de apoyo alimentario, cuando estas últimas manifiesten por escrito y bajo formal protesta de decir verdad, no contar con la solvencia de recursos para pagar las cuotas, lo cual, podrá ser corroborado por el Banco de Alimentos conforme a sus lineamientos internos.
+
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 21.
 
-Los estímulos y beneficios fiscales estatales al amparo de esta ley, serán aplicables para las Entidades Alimentarias y los Bancos de Alimentos, en los términos de la presente Ley.
+Los subsidios o estímulos fiscales estatales al amparo de esta Ley, serán aplicables para las Entidades Alimentarias y los Bancos de Alimentos en los términos del presente ordenamiento.
 
 ### CAPÍTULO V. DEL MONITOREO Y EVALUACIÓN DE LAS DONACIONES
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-La Secretaría de Desarrollo Social realizará un monitoreo constante en la política alimentaria, para lo cual deberá recabar información de los Bancos de Alimentos, respecto de las acciones que llevan a cabo en cumplimiento de lo mandatado por esta Ley.
+La Secretaría de Desarrollo Social recabará de los Bancos de Alimentos información respecto de las acciones que llevan a cabo para dar cumplimiento a las obligaciones que esta Ley establece.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-Se prohíbe la venta, comercialización o transacción de los alimentos que entregan en donación las Entidades Alimentarias.
+Se prohíbe la venta, comercialización o transacción con fines de lucro de los alimentos que entregan en donación las Entidades Alimentarias.
 
 La cuota de recuperación señalada en el artículo 18 de la presente Ley, no será considerada en este supuesto.
 
 ### CAPÍTULO VI. SANCIONES, DENUNCIA Y MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, D.O. 22 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 24.
 
-Los directivos o el personal de los bancos de alimentos que sean detectados desviando, desperdiciando, dando mal manejo a los alimentos donados, o los proporcione a personas que no lo requieran se les aplicará multa por la cantidad de cien a trescientas Unidades de Medida y Actualización.
+Se le aplicará multa por la cantidad de cien a trescientas Unidades de Medida y Actualización a persona física o moral que:
+
+I. Sea detectada desviando, desperdiciando, dando mal manejo a los alimentos donados;
+
+II. Proporcione alimentos donados a personas que no lo requieran; o
+
+III. Venda, comercialice o lleve a cabo cualquier tipo de acción que le genere un lucro para sí o para terceros derivado de los alimentos que entregan en donación las Entidades Alimentarias.
 
 ###### Artículo 25.
 
@@ -328,3 +414,13 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 571/2022 POR EL QUE SE MODIFICA LA LEY PARA FOMENTAR Y PROMOVER EL NO DESPERDICIAR ALIMENTOS EN EL ESTADO DE YUCATÁN”.]
+
+Artículo Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
