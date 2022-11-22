@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2022-07-15"
+last_updated: "2022-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -655,11 +655,23 @@ VI. De los exhortos, suplicatorios y despachos, relacionados con el derecho fami
 
 VII. De las cuestiones relativas a los asuntos que afecten los derechos de los menores o incapacitados;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2022)</small>
 
-VIII. De dictar las órdenes de protección orientadas a la salvaguarda de la víctima en función de su interés superior, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, y
+VIII. De dictar las órdenes de protección orientadas a la salvaguarda de la víctima en función de su interés superior, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí;
 
-IX. En general de todas las cuestiones familiares que reclamen la intervención judicial.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+IX. De ordenar, cuando sea procedente, la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+X. De ordenar la expedición, en su caso, y en el término de tres días hábiles, de las constancias de persona no deudora alimentaria morosa; o de persona deudora alimentaria morosa, en su caso;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2022)</small>
+
+XI. De ordenar la cancelación de la inscripción en el Padrón Estatal de Personas Deudoras Alimentarias Morosas, y
+
+XII. En general de todas las cuestiones familiares que reclamen la intervención judicial.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2018)</small>
 
@@ -711,9 +723,7 @@ ARTICULO 53 QUÁTER. Los jueces de oralidad mercantil conocerán, tramitarán y 
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2020)</small>
 
-###### ARTICULO 53.
-
-QUINQUE. Las y los jueces laborales deberán:
+ARTICULO 53 QUINQUE. Las y los jueces laborales deberán:
 
 I. Atender la función jurisdiccional en materia laboral en el ámbito local, que se ejerza por los tribunales laborales;
 
@@ -2848,3 +2858,11 @@ P.O. 15 DE JULIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis”; tratándose de las y los jueces que estén en la hipótesis del retiro, se deberá hacer la represupuestación correspondiente.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0423.- SE REFORMA EN EL TÍTULO SÉPTIMO LA DENOMINACIÓN DEL ENTONCES CAPÍTULO ÚNICO QUE PASA A SER CAPÍTULO I; Y SE ADICIONA EN LOS ARTÍCULOS 152 Y 165, ASÍ COMO EN EL TÍTULO SÉPTIMO EL CAPÍTULO II “DEL PADRÓN ESTATAL DE PERSONAS DEUDORAS ALIMENTARIAS MOROSAS” Y LOS ARTÍCULOS 167 BIS A 167 SEXTIES, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 53, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
