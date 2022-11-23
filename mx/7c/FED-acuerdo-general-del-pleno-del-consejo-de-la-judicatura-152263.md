@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2022-11-17"
+last_updated: "2022-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1071,13 +1071,27 @@ VIII. Promover intercambios académicos con instituciones de educación superior
 
 Para ello, el personal de la Escuela Judicial deberá propiciar un entorno de honestidad académica, libertad intelectual y respeto.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 88.
 
-Curso de formación sobre igualdad de género. La Escuela Judicial, en colaboración con la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales del Consejo, implementará la impartición del “Curso Básico de Género” en el que se abordarán temas sobre la igualdad de género e impartición de justicia con perspectiva de género. Este curso será obligatorio para todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación.
+Obligatoriedad de los cursos de formación sobre igualdad de género y espacios libres de violencia. Todas las personas servidoras públicas con cargos jurisdiccionales del Poder Judicial de la Federación deberán acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”, elaborados por la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales y la Unidad de Prevención y Combate al Acoso Sexual, respectivamente, y la Escuela Judicial. Ambos serán autogestivos y estarán disponibles de forma permanente.
+
+El personal que ya forme parte del Poder Judicial de la Federación deberá acreditar ambos cursos en un plazo de tres años, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
+
+Las personas de nuevo ingreso a la carrera judicial deberán acreditar de forma obligatoria ambos cursos, para lo cual contarán con seis meses a partir de la fecha de inicio de su nombramiento, salvo causa justificada, cuya viabilidad será determinada por la Comisión de Carrera Judicial.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 89.
 
-Curso para generar espacios libres de violencia. La Escuela Judicial en colaboración con la Unidad de Prevención y Combate al Acoso Sexual, implementará la impartición del “Curso para generar espacios libres de violencia” en el que se abordarán los mecanismos para evitar el acoso sexual, el hostigamiento sexual y cualquier otro tipo de violencia sexual y de género en el espacio de trabajo del Poder Judicial de la Federación. Este curso será autogestivo y obligatorio para todas las personas servidoras públicas del Poder Judicial de la Federación.
+Efectos por la falta de acreditación de los cursos. Las personas servidoras públicas con cargos jurisdiccionales que incumplan la disposición normativa anterior, se harán acreedoras a las siguientes consecuencias en correspondencia con el cargo que ostentan:
+
+I. Para las personas de nuevo ingreso se actualizará la imposibilidad de que se le otorgue la base, lo que implica que, si otra persona servidora pública goza de este derecho, será preferida para la inamovilidad;
+
+II. No podrán ser contempladas para ningún tipo de ascenso o promoción dentro de la carrera judicial; y
+
+III. En el caso de personas titulares de órganos jurisdiccionales, la acreditación a estos cursos será considerada como requisito para su ratificación, para cambios de adscripción y para el otorgamiento de licencias académicas.
 
 ###### Artículo 90.
 
@@ -1561,7 +1575,9 @@ a) Funcionamiento jurisdiccional para lo que deberán tener una calificación de
 
 b) Idoneidad, en donde se acredite lo siguiente:
 
-1. Que se haya conducido sin intención de engañar a las diversas instancias administrativas del Consejo en sus procesos de vigilancia, visitas, congruencia patrimonial, estadística, disciplina, conflictos de trabajo o en el cumplimiento a las políticas judiciales implementadas, destacadamente las de combate al nepotismo;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+1. Que se haya conducido sin intención de engañar a las diversas instancias administrativas del Consejo en sus procesos de vigilancia, visitas, congruencia patrimonial, estadística, disciplina, conflictos de trabajo o en el cumplimiento a las políticas judiciales implementadas, destacadamente las de combate al nepotismo y transversalización de la perspectiva de género;
 
 2. Grados académicos, de actualización y especialización;
 
@@ -1611,9 +1627,17 @@ f) De la Dirección General de Estadística Judicial, sobre ingresos y egresos;
 
 g) De la Dirección General de Gestión Judicial;
 
-h) De la Comisión de Conflictos Laborales del Poder Judicial de la Federación, de los conflictos de trabajo que se hayan suscitado entre la Magistrada o Magistrado de Circuito, o la Jueza o el Juez de Distrito, y las personas servidoras públicas adscritas a los órganos a su cargo, y
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
-i) Del Comité de Integridad, respecto a la observancia de las reglas relativas a la prohibición del nepotismo.
+h) De la Comisión de Conflictos Laborales del Poder Judicial de la Federación, de los conflictos de trabajo que se hayan suscitado entre la Magistrada o Magistrado de Circuito, o la Jueza o el Juez de Distrito, y las personas servidoras públicas adscritas a los órganos a su cargo;
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+i) Del Comité de Integridad, respecto a la observancia de las reglas relativas a la prohibición del nepotismo; y
+
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+j) De la Escuela Judicial, respecto de la acreditación de los cursos de formación sobre igualdad de género y espacios libres de violencia.
 
 Las áreas administrativas y órganos auxiliares antes mencionados contarán con un plazo de máximo 45 días para remitir los informes solicitados. Turnará el expediente de ratificación a una Consejera o Consejero integrante de la Comisión con la opinión técnica del asunto, a fin de que, dentro de los 45 días siguientes a la integración del expediente, elabore la resolución correspondiente para someterla a consideración de la Comisión de Carrera y posteriormente al Pleno.
 
@@ -2496,3 +2520,21 @@ D.O.F. 17 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 23 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. En el caso del “Curso Básico de Género” el plazo de los 3 años para las personas con cargos jurisdiccionales que requieran su acreditación comenzó a correr el 27 de junio de 2022, de acuerdo con la CIRCULAR CCJ/8/2022 emitida por la Comisión de Carrera Judicial.
+
+CUARTO. En el caso del “Curso para generar espacios libres de violencia” el plazo de los 3 años para las personas con cargos jurisdiccionales que requieran su acreditación comenzó a correr el 22 de agosto de 2022, de acuerdo con la CIRCULAR CCJ/9/2022 emitida por la Comisión de Carrera Judicial.
+
+QUINTO. Para el personal administrativo y de la defensoría pública federal, el plazo de los 3 años para la acreditación del “Curso Básico de Género” y del “Curso para generar espacios libres de violencia” comenzará a computarse a partir de la entrada en vigor del presente Acuerdo General.
+
+SEXTO. Para las personas titulares de órganos jurisdiccionales, a partir del mes de junio de 2025, la acreditación del "Curso Básico de Género", así como el "Curso para generar espacios libres de violencia" serán exigibles en el procedimiento de ratificación, es decir, la Secretaría Ejecutiva de Carrera Judicial recabará el informe de acreditación de ambos cursos a la Escuela Federal de Formación Judicial.
+
+SÉPTIMO. Se instruye al Instituto Federal de Defensoría Pública para que, en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, realice los ajustes necesarios a sus Bases Generales de Organización y Funcionamiento.
