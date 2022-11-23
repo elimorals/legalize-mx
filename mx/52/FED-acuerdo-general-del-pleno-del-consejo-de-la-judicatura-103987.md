@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2022-11-17"
+last_updated: "2022-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -803,9 +803,23 @@ En tratándose de actos tendentes a evadir el cumplimiento de los Acuerdos menci
 
 Se considerará como acto tendente a evadir el cumplimiento de tales disposiciones, el hecho de que los titulares otorguen nombramientos de manera interrumpida con la intención deliberada de que los servidores públicos no acumulen más de seis meses para acceder al derecho a la inamovilidad en el empleo.
 
-### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. EXPEDIENTES PERSONALES
+### CAPÍTULO SEGUNDO BIS. INCORPORACIÓN DE LA PERSPECTIVA DE GÉNERO
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 22 octies. En el Consejo se incorporará la perspectiva de género de forma transversal, progresiva y equitativa a fin de garantizar el ejercicio y goce de los derechos humanos de todas las personas que lo integran desde un enfoque de igualdad sustantiva.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 22 nonies. Para la incorporación de la perspectiva de género del personal con cargos administrativos, se adoptarán las siguientes medidas:
+
+I. Todo el personal administrativo, incluyendo el de la defensoría pública federal, deberá acreditar de forma obligatoria el “Curso Género como Herramienta para la Igualdad” (“Curso Básico de Género”) y el “Curso para generar espacios libres de violencia”.
+
+II. Ambos cursos deberán acreditarse en un plazo de tres años a la entrada en vigor de la presente disposición, salvo causa justificada cuya viabilidad será determinada por la Comisión de Administración. En caso de no hacerlo, no podrán ser consideradas para ningún puesto de ascenso o promoción.
+
+### CAPÍTULO TERCERO. PERSONAL DE NUEVO INGRESO EN LOS ÓRGANOS JURISDICCIONALES
 
 ###### Artículo 23.
 
@@ -813,7 +827,7 @@ Los titulares de los órganos jurisdiccionales, con antelación a la contrataci�
 
 Si el candidato propuesto laboró en el Poder Judicial de la Federación, en el Poder Judicial de alguna entidad federativa o en diversa institución pública, analizarán el desempeño obtenido durante el cargo, las causas que dieron lugar a la separación, la existencia de notas desfavorables y, en su caso, la instauración de procedimientos de responsabilidad administrativa, con la finalidad de preservar los principios constitucionales de excelencia y profesionalismo que rigen, entre otros, la carrera judicial.
 
-### CAPÍTULO QUINTO. SEPARACIÓN DE LOS SERVIDORES PÚBLICOS POR INCAPACIDAD FÍSICA O MENTAL PARA EL EJERCICIO DE SUS CARGOS
+### CAPÍTULO CUARTO. EXPEDIENTES PERSONALES
 
 ###### Artículo 24.
 
@@ -937,6 +951,10 @@ Los servidores públicos de nuevo ingreso, tienen la obligación de proporcionar
 
 En todos los casos de movimientos de personal los titulares de órganos jurisdiccionales y áreas administrativas, deberán verificar que los candidatos propuestos a ocupar una plaza vacante, cumplan con los requisitos previstos en el perfil del puesto que establece el Manual General de Puestos del Consejo de la Judicatura Federal.
 
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+Adicionalmente, las personas servidoras públicas de nuevo ingreso tendrán hasta seis meses para cumplir con la acreditación de los cursos establecidos en el artículo 22 Nonies de este Acuerdo. La acreditación de los cursos constituye un requisito para que se otorgue el nombramiento indefinido.
+
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CARTILLA DEL SERVICIO MILITAR NACIONAL, D.O.F. 17 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
@@ -1003,9 +1021,7 @@ Los documentos mencionados en el párrafo anterior serán certificados mediante 
 
 En los casos en que las áreas administrativas soliciten a la Dirección General de Recursos Humanos copia certificada de los expedientes personales o de sus documentos para la atención de asuntos de su competencia, deberán de conservar o destruir dichas copias certificadas sin dictamen de valoración documental, evitando su devolución a dicha Dirección General.
 
-### CAPÍTULO SEXTO. DEL CESE
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+### CAPÍTULO QUINTO. SEPARACIÓN DE LOS SERVIDORES PÚBLICOS POR INCAPACIDAD FÍSICA O MENTAL PARA EL EJERCICIO DE SUS CARGOS
 
 ###### Artículo 31.
 
@@ -1121,9 +1137,9 @@ En cualquier fase del procedimiento especial, el servidor público podrá manife
 
 Las notificaciones de las resoluciones, que se dicten dentro del procedimiento especial a que se refiere este Capítulo, se efectuarán en términos de lo dispuesto por el Código Federal de Procedimientos Civiles.
 
-### CAPÍTULO SEXTO BIS. DE LA UTILIZACIÓN PREFERENTE DE MEDIOS TECNOLÓGICOS Y SOLUCIONES DIGITALES EN EL TRABAJO
+### CAPÍTULO SEXTO. DEL CESE
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 51.
 
@@ -1145,7 +1161,9 @@ Los procedimientos administrativos de imposición de sanciones como la destituci
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO SÉPTIMO. DE LA JORNADA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS
+### CAPÍTULO SEXTO BIS. DE LA UTILIZACIÓN PREFERENTE DE MEDIOS TECNOLÓGICOS Y SOLUCIONES DIGITALES EN EL TRABAJO
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 #### SECCIÓN PRIMERA. PRINCIPIOS RECTORES Y DISPOSICIONES GENERALES DE LA UTILIZACIÓN PREFERENTE DE MEDIOS TECNOLÓGICOS Y SOLUCIONES DIGITALES EN EL CONSEJO
 
@@ -1359,9 +1377,7 @@ El Código QR deberá presentarse electrónicamente en un dispositivo móvil y, 
 
 Artículo 52 Duovicies. La interpretación del presente Capítulo corresponde a la Comisión de Administración o a la Comisión de Vigilancia, respectivamente, las cuales se apoyarán, en su caso, del Comité de Gobernanza Digital.
 
-### CAPÍTULO OCTAVO. DE LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS
-
-> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
+### CAPÍTULO SÉPTIMO. DE LA JORNADA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS
 
 ###### Artículo 53.
 
@@ -1409,9 +1425,9 @@ En la implementación, operación y funcionamiento del registro automatizado deb
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO NOVENO. REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES
+### CAPÍTULO OCTAVO. DE LA REMUNERACIÓN DE HORAS EXTRAORDINARIAS
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 55 Bis.
 
@@ -1527,7 +1543,9 @@ Artículo 55 Quaterdecies. La Contraloría, a través de la Dirección General d
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
+### CAPÍTULO NOVENO. REGISTRO AUTOMATIZADO DE INICIO Y CONCLUSIÓN DE LABORES
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 56.
 
@@ -1633,9 +1651,7 @@ La Comisión de Administración podrá emitir disposiciones administrativas para
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, DÍAS DE ASUETO, PRESTACIONES Y LICENCIAS
 
-### CAPÍTULO SEGUNDO. DÍAS DE ASUETO
-
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
 
 ###### Artículo 69.
 
@@ -1665,7 +1681,9 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 
 > <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
+### CAPÍTULO SEGUNDO. DÍAS DE ASUETO
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE
 
@@ -1849,7 +1867,7 @@ El día de asueto deberá estar comprendido entre los meses de mayo a diciembre,
 
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
+### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2029,9 +2047,7 @@ El pago del préstamo se realizará a través de descuento vía nómina.
 
 Cuando el servidor público cause baja y cuente con un préstamo vigente, de así ser solicitado por el servidor público, se podrá hacer entrega del remanente que corresponda, de no ser así tendrá la obligación de cubrir de manera inmediata su adeudo, aunque no retire sus recursos del Fondo.
 
-### CAPÍTULO CUARTO BIS. PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
+### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2943,7 +2959,9 @@ e) Brindar atención psicológica preventiva a los menores durante su estancia e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO QUINTO. LICENCIAS
+### CAPÍTULO CUARTO BIS. PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 227 Bis.
 
@@ -3087,7 +3105,7 @@ Artículo 227 Octodecies. La interpretación administrativa de este Capítulo y 
 
 Artículo 227 Novodecies. El Pleno conocerá de aquéllos casos relacionados con el cumplimiento de este Capítulo, cuando la Comisión de Administración por la relevancia del caso así lo determine, o cuando no exista mayoría en la Comisión para emitir una resolución en términos de las disposiciones aplicables respecto al funcionamiento de las Comisiones.
 
-### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
+### CAPÍTULO QUINTO. LICENCIAS
 
 ###### Artículo 228.
 
@@ -3229,7 +3247,7 @@ Se autorizarán las sustituciones de personas servidoras públicas que estén di
 
 ## TÍTULO PRIMERO. CONTRATACIONES
 
-### CAPÍTULO SEGUNDO. ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES
+### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
 
 #### SECCIÓN PRIMERA. DISPOSICIONES PRELIMINARES
 
@@ -6451,9 +6469,7 @@ La multa será de diez a ciento veinte veces el valor diario de la Unidad de Med
 
 En lo no previsto en esta Sección aplicará de manera supletoria la Ley Federal de Procedimiento Administrativo.
 
-### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+### CAPÍTULO SEGUNDO. ARRENDAMIENTO Y ADQUISICIÓN DE INMUEBLES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
@@ -7431,7 +7447,9 @@ Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Po
 
 Asimismo, se establecerán las medidas de seguridad, vigilancia y protección civil, para preservar la seguridad e integridad física de los servidores públicos, público usuario y, en general, de los bienes que conforman su patrimonio, las cuales deberán ser compatibles con las expedidas por las autoridades federales y locales.
 
-### CAPÍTULO CUARTO. ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS
+### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 533.
 
@@ -7485,7 +7503,7 @@ La custodia y resguardo de los instrumentos jurídicos se ajustará a las dispos
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO PRIMERO. DESINCORPORACIÓN DE BIENES MUEBLES
+### CAPÍTULO CUARTO. ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS
 
 ###### Artículo 541.
 
@@ -7565,7 +7583,7 @@ La custodia y resguardo de los instrumentos jurídicos se ajustará a las dispos
 
 ## TÍTULO SEGUNDO. BIENES
 
-### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
+### CAPÍTULO PRIMERO. DESINCORPORACIÓN DE BIENES MUEBLES
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -8159,9 +8177,7 @@ Cuando el inconforme sea quien solicite la suspensión, deberá garantizar media
 
 La resolución que emita la Comisión de Administración respecto de la inconformidad presentada, tendrá por objeto declarar la procedencia o improcedencia de la inconformidad y, en su caso, determinar las medidas conducentes para la regularización o reposición del procedimiento, sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos que hayan intervenido.
 
-### CAPÍTULO PRIMERO. COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+### CAPÍTULO SEGUNDO. BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS A DISPOSICIÓN DEL PROPIO CONSEJO
 
 #### SECCIÓN PRIMERA. CERTIFICADO DE DISPONIBILIDAD
 
@@ -8861,9 +8877,9 @@ En caso de duda o conflicto en la operación, aplicación o interpretación de e
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO PRIMERO BIS. COMITÉ DE GOBERNANZA DIGITAL
+### CAPÍTULO PRIMERO. COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN
 
-> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 ###### Artículo 682.
 
@@ -9069,9 +9085,9 @@ VII. Deberá incluirse en el orden del día un apartado correspondiente al segui
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
-### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
+### CAPÍTULO PRIMERO BIS. COMITÉ DE GOBERNANZA DIGITAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
 ###### Artículo 690 Bis.
 
@@ -9235,7 +9251,9 @@ VI. El Comité informará los acuerdos adoptados en cada una de las sesiones que
 
 VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto de asuntos generales, podrán incluirse los de carácter informativo.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 691.
 
@@ -9443,7 +9461,7 @@ Las cuestiones no previstas en este Capítulo serán resueltas por la Comisión 
 
 ## TÍTULO PRIMERO. PROCESO PRESUPUESTARIO
 
-### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 #### SECCIÓN PRIMERA. REGLAS GENERALES Y EJECUTORES DE GASTO
 
@@ -9847,7 +9865,7 @@ Para tener por cumplidos los requisitos señalados en la presente fracción, no 
 
 El área administrativa solicitante deberá presentar un informe semestral al Pleno, sobre la evaluación de los avances y resultados obtenidos, así como al concluir la vigencia del convenio.
 
-### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 #### SECCIÓN PRIMERA. PRESUPUESTO DE EGRESOS
 
@@ -10007,7 +10025,7 @@ IV. Registrar cada programa y proyecto en la cartera que integra la Dirección G
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional y las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación.
 
-### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
+### CAPÍTULO TERCERO. EJERCICIO DEL GASTO PÚBLICO EN EL CONSEJO
 
 #### SECCIÓN PRIMERA. EJERCICIO DEL GASTO PÚBLICO
 
@@ -10539,9 +10557,7 @@ Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría
 
 La Dirección General de Programación, Presupuesto y Tesorería tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
-### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
+### CAPÍTULO CUARTO. FIDEICOMISOS PÚBLICOS
 
 ###### Artículo 771.
 
@@ -10563,7 +10579,9 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
+### CAPÍTULO QUINTO. DE LA CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
@@ -11089,7 +11107,7 @@ La Dirección General de Programación, Presupuesto y Tesorería, así como las 
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
+### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
 
 #### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
@@ -11267,9 +11285,7 @@ Las responsabilidades que procedan en los términos de esta Sección, tienen com
 
 Las responsabilidades a que se refiere este Título, se constituirán y exigirán administrativamente, con independencia de las sanciones de otra naturaleza que, en su caso, lleguen a determinarse por la autoridad competente.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
 #### SECCIÓN PRIMERA. EVALUACIÓN
 
@@ -11323,7 +11339,7 @@ Las unidades ejecutoras de gasto serán responsables de la rendición de cuentas
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -11403,7 +11419,7 @@ Los casos no previstos se homologarán a su nivel tabular dentro de la estructur
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
+### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -11461,33 +11477,9 @@ IV. Cuando el servidor público desempeñe dos o más empleos compatibles, a men
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
-### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
+### CAPÍTULO TERCERO. TRÁMITE DE SOLICITUD DE VIÁTICOS Y TRANSPORTACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
-
-Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
-
-Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
-
-La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
-
-Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, se entregará mediante transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina y, sólo en caso de tener una limitante como se señala en la Guía, será a través de cheque; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
-
-Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Programación, Presupuesto y Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 ###### Artículo 835 Decies.
 
@@ -11526,6 +11518,34 @@ Artículo 835 Quindecies. La Dirección General de Programación, Presupuesto y 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 En aquellos supuestos en que por necesidad del servicio el comisionado deba trasladarse de manera urgente sin los recursos de viáticos y transportación, los gastos iniciales correrán a cuenta de éste, estableciéndose en la Guía los mecanismos conducentes para su reembolso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+### CAPÍTULO CUARTO. TARIFAS Y ENTREGA DE RECURSOS
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Sexdecies. Los recursos que se entreguen a los servidores públicos de conformidad al grupo que corresponda, serán con base en las tarifas de viáticos para comisiones nacionales e internacionales autorizadas por la Comisión de Administración, mismas que se establecerán en la Guía.
+
+Además de las tarifas autorizadas para cada grupo de viáticos, se podrán entregar a petición del área solicitante, recursos económicos por concepto de transportación o taxis para traslado.
+
+Para comisiones en el extranjero, se asignará la tarifa autorizada de viáticos que corresponda y para los gastos de hospedaje, se otorgarán los recursos de acuerdo a la reservación que se haya efectuado con el hotel donde se alojará el servidor público comisionado, buscando para tal efecto, las mejores condiciones de decoro en apego a las medidas de racionalidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+
+Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuando el servidor público comisionado no requiera hospedaje, o bien, se trate del último día de una comisión.
+
+La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
+
+Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, se entregará mediante transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina y, sólo en caso de tener una limitante como se señala en la Guía, será a través de cheque; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Programación, Presupuesto y Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -11677,13 +11697,11 @@ Artículo 835 Quadragies. La Comisión de Administración será la instancia com
 
 La Comisión de Administración resolverá respecto de aquellos supuestos que no se encuentren contemplados en el presente Título; y podrá someter a la consideración del Pleno aquellos asuntos que por su trascendencia a su juicio, deba conocer dicho Cuerpo Colegiado.
 
+## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
+
 ### CAPÍTULO PRIMERO. COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
-## TÍTULO SEGUNDO. DEL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS Y DEL FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
-
-### CAPÍTULO SEGUNDO. FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
 ###### Artículo 836.
 
@@ -11953,9 +11971,7 @@ La Comisión de Administración, por sí o a través del Comité, podrá contrat
 
 La contratación a que hace referencia este artículo deberá sujetarse a las reglas de este Acuerdo en materia de procedimientos para las contrataciones requeridas por el Consejo.
 
-### CAPÍTULO PRIMERO. LOGOTIPO DEL CONSEJO
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO, D.O.F. 31 DE AGOSTO DE 2016)</small>
+### CAPÍTULO SEGUNDO. FONDO DE APOYO A LA ADMINISTRACIÓN DE JUSTICIA
 
 #### SECCIÓN PRIMERA. PATRIMONIO DEL FONDO DE APOYO
 
@@ -12327,9 +12343,9 @@ En las dudas o controversias que se generen con motivo de la interpretación adm
 
 ## TÍTULO PRIMERO. COMUNICACIÓN SOCIAL
 
-### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
+### CAPÍTULO PRIMERO. LOGOTIPO DEL CONSEJO
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL LOGOTIPO DEL CONSEJO, D.O.F. 31 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 915.
 
@@ -12343,7 +12359,9 @@ Los servidores públicos únicamente podrán portar y hacer uso de las identific
 
 La portación o el uso de identificaciones, insignias o placas metálicas o de cualquier material, con el logotipo del Consejo de la Judicatura Federal o con características o signos distintivos de pertenencia al Poder Judicial de la Federación, que no sean expedidas oficialmente por el Consejo, será sancionado administrativamente sin perjuicio de la responsabilidad penal o civil a que haya lugar.
 
-### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
+### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 916.
 
@@ -12357,7 +12375,7 @@ La Dirección General de Comunicación Social y Vocería deberá presentar al Pl
 
 ## TÍTULO SEGUNDO. SEGURIDAD
 
-### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
+### CAPÍTULO PRIMERO. SEGURIDAD EN LAS INSTALACIONES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -12561,7 +12579,7 @@ El ingreso y salida de cualquier bien propiedad de los servidores públicos, se 
 
 Los servidores públicos deberán reportar al personal de seguridad, la presencia de cualquier objeto peligroso o presuntamente abandonado.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEGUNDO. ACTIVIDADES COMERCIALES
 
 ###### Artículo 942.
 
@@ -12617,7 +12635,7 @@ II. En la segunda o ulteriores ocasiones, se les obligará a retirarse de las in
 
 ## TÍTULO TERCERO. PROTECCIÓN CIVIL
 
-### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 950.
 
@@ -12649,7 +12667,7 @@ La Dirección General de Protección Civil y Salud en el Trabajo, en su carácte
 
 Corresponde a la Dirección General de Protección Civil y Salud en el Trabajo, dar cumplimiento al Programa Anual de Protección Civil del Consejo, rendir un reporte de su cumplimiento, avance y modificaciones, mediante informes semestrales a la Comisión de Administración.
 
-### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
+### CAPÍTULO SEGUNDO. DIRECCIÓN GENERAL DE PROTECCIÓN CIVIL Y SALUD EN EL TRABAJO
 
 ###### Artículo 953.
 
@@ -12737,7 +12755,7 @@ XXXII. Dictaminar en caso de requerirse la validación de los Programas Internos
 
 XXXIII. Las demás que le determine el Pleno o la Comisión de Administración.
 
-### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
+### CAPÍTULO TERCERO. PROGRAMA ANUAL DE PROTECCIÓN CIVIL Y SU EJECUCIÓN
 
 ###### Artículo 955.
 
@@ -12759,9 +12777,7 @@ El titular de la Dirección General de Protección Civil y Salud en el Trabajo, 
 
 La Dirección General de Protección Civil y Salud en el Trabajo deberá informar a la Comisión de Administración, respecto del cumplimiento del Programa Anual de Protección Civil.
 
-### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
-
-> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+### CAPÍTULO CUARTO. UNIDADES INTERNAS DE PROTECCIÓN CIVIL DEL CONSEJO
 
 ###### Artículo 960.
 
@@ -12911,7 +12927,7 @@ III. Realizar reuniones de retroalimentación con los brigadistas; y
 
 IV. Al realizar simulacros, establecer el puesto de mando e informar los resultados a la Dirección General de Protección Civil y Salud en el Trabajo.
 
-### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+### CAPÍTULO QUINTO. BRIGADAS INSTITUCIONALES
 
 > <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -12949,7 +12965,9 @@ El área encargada de Servicios Médicos en cada uno de los inmuebles, trabajar�
 
 Asimismo, proporcionarán información a los brigadistas de los pasos necesarios a realizar ante diferentes emergencias médicas.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. CAPACITACIÓN DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 ###### Artículo 975.
 
@@ -12957,7 +12975,7 @@ La capacitación en materia de Protección Civil se orientará a fortalecer y am
 
 ## TÍTULO CUARTO. FIRMA ELECTRÓNICA CERTIFICADA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 976.
 
@@ -13027,9 +13045,7 @@ I. Un certificado digital vigente emitido en términos de este Título; y
 
 II. Una llave privada.
 
-### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
-
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+### CAPÍTULO SEGUNDO. ESTRUCTURA DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 985.
 
@@ -13053,7 +13069,9 @@ VIII. Llave pública; y
 
 IX. Versión de tipos de certificados digitales de la FIREL.
 
-### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO TERCERO. SOLICITUD DEL CERTIFICADO DIGITAL DE LA FIREL
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 986.
 
@@ -13065,7 +13083,7 @@ El certificado digital de la FIREL únicamente podrá ser solicitado de manera e
 
 Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
 
-### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
+### CAPÍTULO CUARTO. RENOVACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 988.
 
@@ -13075,7 +13093,7 @@ La renovación deberá efectuarse dentro de los treinta días anteriores a la co
 
 Para llevar a cabo la renovación del certificado digital de la FIREL, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/ y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
+### CAPÍTULO QUINTO. REVOCACIÓN DEL CERTIFICADO DIGITAL DE LA FIREL
 
 ###### Artículo 990.
 
@@ -13091,9 +13109,7 @@ El SEPJF revocará un certificado digital cuando con motivo de la solicitud de u
 
 Una vez revocado un certificado no podrá ser utilizado, por lo que si el interesado requiere de otro certificado digital de la FIREL tendrá que solicitarlo de nueva cuenta conforme al procedimiento establecido en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica.
 
-### CAPÍTULO SÉPTIMO. SANCIONES
-
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+### CAPÍTULO SEXTO. DERECHOS Y OBLIGACIONES DE LOS TITULARES DE LOS CERTIFICADOS DIGITALES DE LA FIREL
 
 ###### Artículo 993.
 
@@ -13119,9 +13135,9 @@ IV. Hacer uso debido de su certificado digital de la FIREL; y
 
 V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en riesgo la confidencialidad de la llave privada o de las claves referidas en la fracción II de este artículo.
 
-### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
+### CAPÍTULO SÉPTIMO. SANCIONES
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 995.
 
@@ -13133,9 +13149,9 @@ Las conductas de los servidores públicos que impliquen el incumplimiento a los 
 
 Los servidores públicos deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
 
-### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
+### CAPÍTULO OCTAVO. UNIDAD PARA EL CONTROL DE CERTIFICACIÓN DE FIRMAS DEL CONSEJO
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 997.
 
@@ -13207,7 +13223,7 @@ La UNCOCEFI deberá hacer pública la vigencia de los certificados digitales de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
@@ -13225,7 +13241,9 @@ Los convenios que en materia del presente Título celebre el Consejo, deberán s
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO DÉCIMO. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE FEBRERO DE 2015)</small>
 
 ###### Artículo 1002 Quáter.
 
@@ -13233,7 +13251,7 @@ Cualquier situación no prevista en este Título será resuelta por el Pleno o l
 
 ## TÍTULO QUINTO. COMPILACIÓN NORMATIVA
 
-### CAPÍTULO SEGUNDO. DEROGADO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1003.
 
@@ -13596,6 +13614,8 @@ II. a VIII. …
 Derogado.
 
 ## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
+
+### CAPÍTULO SEGUNDO. DEROGADO
 
 #### SECCIÓN PRIMERA. DEROGADA
 
@@ -14404,3 +14424,21 @@ D.O.F. 17 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
+
+D.O.F. 23 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA OBLIGATORIEDAD DEL CURSO GÉNERO COMO HERRAMIENTA PARA LA IGUALDAD Y DEL CURSO PARA GENERAR ESPACIOS LIBRES DE VIOLENCIA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. En el caso del "Curso Básico de Género" el plazo de los 3 años para las personas con cargos jurisdiccionales que requieran su acreditación comenzó a correr el 27 de junio de 2022, de acuerdo con la CIRCULAR CCJ/8/2022 emitida por la Comisión de Carrera Judicial.
+
+CUARTO. En el caso del "Curso para generar espacios libres de violencia" el plazo de los 3 años para las personas con cargos jurisdiccionales que requieran su acreditación comenzó a correr el 22 de agosto de 2022, de acuerdo con la CIRCULAR CCJ/9/2022 emitida por la Comisión de Carrera Judicial.
+
+QUINTO. Para el personal administrativo y de la defensoría pública federal, el plazo de los 3 años para la acreditación del "Curso Básico de Género" y del "Curso para generar espacios libres de violencia" comenzará a computarse a partir de la entrada en vigor del presente Acuerdo General.
+
+SEXTO. Para las personas titulares de órganos jurisdiccionales, a partir del mes de junio de 2025, la acreditación del "Curso Básico de Género", así como el "Curso para generar espacios libres de violencia" serán exigibles en el procedimiento de ratificación, es decir, la Secretaría Ejecutiva de Carrera Judicial recabará el informe de acreditación de ambos cursos a la Escuela Federal de Formación Judicial.
+
+SÉPTIMO. Se instruye al Instituto Federal de Defensoría Pública para que, en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, realice los ajustes necesarios a sus Bases Generales de Organización y Funcionamiento.
