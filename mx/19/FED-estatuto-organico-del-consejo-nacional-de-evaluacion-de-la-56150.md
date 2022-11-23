@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2022-04-04"
+last_updated: "2022-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2007-03-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -515,7 +515,17 @@ XXIII. Emitir la convocatoria, en su caso, para los organismos evaluadores indep
 
 XXIV. Concretar acuerdos y convenios con las autoridades de desarrollo social de entidades federativas y municipios y, en su caso, con organizaciones de los sectores social y privado, para promover la evaluación de programas y acciones. El Secretario Ejecutivo informará periódicamente sobre el ejercicio de esta atribución al Comité y a la Comisión Ejecutiva, y
 
-XXV. Las demás que le confieran las disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+XXV. Designar como encargados de despacho a las personas servidoras públicas que habrán de ocupar las dos jerarquías inferiores a las de la Titularidad de la Secretaría Ejecutiva, en tanto se someta el nombramiento respectivo para aprobación del H. Comité Directivo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+XXVI.- Comisionar de manera temporal, dentro de las áreas que integran el Consejo, a las personas servidoras públicas; y
+
+> <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXV], D.O.F. 23 DE NOVIEMBRE DE 2022)</small>
+
+XXVII. Las demás que le confieran las disposiciones aplicables.
 
 ### Capítulo VII. De la Estructura Orgánica Administrativa Básica
 
@@ -1590,6 +1600,16 @@ SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Org
 TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
 D.O.F. 4 DE ABRIL DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
+
+D.O.F. 23 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL”.]
 
