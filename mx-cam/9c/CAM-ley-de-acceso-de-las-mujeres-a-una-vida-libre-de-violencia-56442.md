@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2022-04-08"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -53,11 +53,13 @@ La presente ley es de orden público e interés social y tiene por objeto preven
 
 Los principios rectores para el acceso de las mujeres a una vida libre de violencia son:
 
-I. La igualdad jurídica de género;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+I. La igualdad jurídica, sustantiva, de resultados, de género y estructural;
 
-II. El respeto a los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+II. La universalidad, la interdependencia, la indivisibilidad, la progresividad y el respeto a los derechos humanos de las mujeres;
 
 III. La no discriminación.
 
@@ -76,6 +78,10 @@ VI. La perspectiva de género que permite incorporar a la mujer como sujeto soci
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
 VII. La integración plena y total de las mujeres a la vida democrática y productiva del Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. La dignidad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -757,9 +763,25 @@ IV. Principio de oportunidad y eficacia: Las órdenes deben ser oportunas, espec
 
 V. Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
 
-VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Principio de autonomía: Las órdenes de protección se pueden dictar de manera autónoma y su otorgamiento no está condicionado a la presentación de una denuncia o demanda, al inicio de un proceso judicial o administrativo. Las órdenes de protección no constituyen un acto prejudicial;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+IX. Principio de buena fe: Las autoridades deben presumir la buena fe de las niñas, adolescentes y mujeres en situación de riesgo o violencia y creer en su dicho, sin revictimizarla o hacerla responsable por su situación. En todo momento deberán permitir el ejercicio efectivo de sus derechos;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+X. Principio de igualdad y no discriminación: Todas las niñas, adolescentes y mujeres tendrán acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de sus derechos y libertades. Estará prohibida toda distinción, exclusión o restricción basada en el origen étnico o nacional, sexo, identidad de género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil, orientación sexual, características sexuales o cualquier otra que tenga por efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad de oportunidades de las niñas, adolescentes y mujeres.
 
 > <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2021)</small>
 
@@ -1024,5 +1046,13 @@ P.O. 8 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 46 POR EL QUE “SE REFORMA LA FRACCIÓN IX AL ARTÍCULO 5; LA FRACCIÓN XI AL ARTÍCULO 18; LAS FRACCIONES VIII, X Y XI AL ARTÍCULO 31; Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5; UN CAPÍTULO V TER DENOMINADO “DE LA VIOLENCIA DIGITAL Y MEDIATICA” CON LOS ARTÍCULOS 16 QUÁTER, 16 QUINQUIES, 16 SEXIES Y 16 SEPTIES AL TÍTULO SEGUNDO; LAS FRACCIONES XII, XIII, XIV, XV, XVI, XVII Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 18 Y LOS ARTÍCULOS 30 BIS Y 30 TER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE”.]
 
 Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 147 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 2; LAS FRACCIONES VI Y VII DEL ARTÍCULO 32 QUATER Y SE ADICIONAN UNA FRACCIÓN VIII AL ARTÍCULO 2 Y LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 32 QUATER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
