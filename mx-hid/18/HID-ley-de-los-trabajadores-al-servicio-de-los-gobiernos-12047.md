@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2022-04-12"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -229,9 +229,17 @@ I. Paternidad y cuidados paternos;
 
 II. Adopción;
 
-III. Matrimonio; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IV. Fallecimiento de cónyuge, concubina o concubinario, de ascendiente o descendiente en primer grado.
+III. Matrimonio;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV. Fallecimiento de cónyuge, concubina o concubinario, de ascendiente o descendiente en primer grado; y
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+V. Cuando sus hijos menores de edad hayan sido diagnosticados con cáncer.
 
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -264,6 +272,26 @@ En este caso, la servidora o servidor público, deberán informar del deceso, al
 > <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
 
 ARTICULO 17 NOVIES (SIC).- En el supuesto de no presentarse las Actas o documentos comprobatorios, que justifiquen la procedencia de la licencia, se considerará que se otorgó sin goce de sueldo.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+ARTICULO 17 DECIES.- Para los casos de madres o padres trabajadores, cuyas hijas o hijos de hasta diecisiete años hayan sido diagnosticados por autoridad competente con cualquier tipo de cáncer, gozarán de una licencia por cuidados médicos de las y los hijos para ausentarse de sus labores en caso de que el niño, niña o adolescente diagnosticado requiera de descanso médico en los periodos críticos de tratamiento o de hospitalización durante el tratamiento médico, de acuerdo a la prescripción de la o el médico tratante, incluyendo, en su caso, el tratamiento destinado al alivio del dolor y los cuidados paliativos por cáncer avanzado.
+
+La licencia tendrá una vigencia de uno y hasta veintiocho días y podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años, sin que se excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos.
+
+La licencia a que se refiere el presente artículo, únicamente podrá otorgarse a petición de parte, ya sea a la madre o padre que tenga a su cargo el ejercicio de la patria potestad, la guarda y custodia del menor de edad. En ningún caso se podrá otorgar dicha licencia a ambos padres trabajadores de la o el menor diagnosticado.
+
+Las licencias otorgadas a las madres o padres previstas en el presente artículo, cesarán:
+
+I. Cuando la o el menor de edad no requiera de hospitalización o de reposo médico en los periodos críticos del tratamiento;
+
+II. Por ocurrir el fallecimiento de la o el menor de edad;
+
+III. Cuando la persona diagnosticada cumpla dieciocho años;
+
+IV. Cuando la o el ascendiente que goza de la licencia, sea contratada por una nueva persona empleadora.
+
+Las disposiciones contenidas en el presente artículo, son aplicables también a las personas que ejerzan la tutela de niñas, niños o adolescentes diagnosticados por autoridad competente con cáncer de cualquier tipo.
 
 ###### ARTICULO 18.
 
@@ -1452,3 +1480,9 @@ P.O. 12 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 184 POR EL QUE SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 32; SE REFORMA EL PRIMER PÁRRAFO Y, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VIII, DEL ARTÍCULO 38 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 303 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
