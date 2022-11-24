@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-la-administracion-publica-paraestatal-del-estado-de-7605
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-22"
-last_updated: "2019-12-10"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LA ADMINISTRACION PUBLICA PARAESTATAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 22 de julio de 2010.
 
@@ -53,21 +53,23 @@ La presente Ley es reglamentaria, en lo conducente, de la fracción XXVII del ar
 
 Las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública del Estado de Campeche se sujetarán a lo establecido en la Ley Orgánica de la Administración Pública del Estado de Campeche y en esta Ley y sus disposiciones reglamentarias y, sólo en lo no previsto en las mismas, a otras disposiciones, según la materia que corresponda.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 3.
 
-Las personas titulares de las Dependencias de la Administración Pública Estatal Centralizada, encargadas de la coordinación de los sectores, son las responsables de establecer políticas de desarrollo para las Entidades del sector correspondiente, así como de coordinar la programación y la presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; de conocer la operación y evaluar los resultados de las entidades paraestatales, y ejercer las demás atribuciones que les concedan las leyes.
+Las personas titulares de las Secretarías Coordinadoras de Sector, serán responsables de establecer políticas de desarrollo para las Entidades del sector correspondiente, así como de coordinar la programación y la presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; de conocer la operación y evaluar los resultados de las Entidades Paraestatales, y ejercer las demás atribuciones que les concedan las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 4.
 
-Las Secretarías de Finanzas y de la Contraloría tendrán representantes en los órganos de gobierno de los organismos descentralizados y de las empresas de participación estatal mayoritaria y en los comités técnicos de los fideicomisos públicos. También participarán otras dependencias y entidades, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+Las Secretarías de Modernización Administrativa e Innovación Gubernamental; Administración y Finanzas, y de la Contraloría tendrán representantes en los Órganos de Gobierno de los Organismos Descentralizados y de las Empresas de Participación Estatal Mayoritaria y en los Comités Técnicos de los Fideicomisos Públicos. También participarán otras Secretarías, Dependencias y Entidades, en la medida en que tengan relación con el objeto de la Entidad Paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 5.
 
-Las y los representantes de las dependencias y de las entidades paraestatales, en las sesiones de los órganos de gobierno o de los comités técnicos en los que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley, particularmente el artículo 67, y que se relacionen con la esfera de competencia de la dependencia o entidad representada.
+Las y los representantes de las Secretarías, Dependencias y de las Entidades Paraestatales, en las sesiones de los Órganos de Gobierno o de los comités técnicos en los que intervengan, deberán pronunciarse sobre los asuntos que deban resolver dichos órganos o comités de acuerdo con las facultades que les otorga esta Ley, particularmente el artículo 67, y que se relacionen con la esfera de competencia de la Secretaría, Dependencia o Entidad Paraestatal representada.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -75,21 +77,27 @@ Las y los representantes de las dependencias y de las entidades paraestatales, e
 
 Las y los miembros de los órganos de gobierno o comités deberán ser convocados con, por lo menos, cinco días hábiles anteriores a que se realice la Sesión, para lo cual se enviará la orden del día de la sesión acompañada de la información y documentación correspondientes, con el objetivo de que los miembros puedan tener conocimiento de los asuntos a tratar y ejercer adecuadamente su representación.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 7.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas la información y datos que les soliciten, así como los que les requieran las dependencias.
+Las Entidades Paraestatales deberán proporcionar a las demás Entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como los que les requieran las Secretarías y Dependencias.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 8.
 
-Para el cumplimiento de lo anteriormente establecido, la dependencia coordinadora de sector, conjuntamente con las Secretarías de Finanzas y de la Contraloría, harán compatibles los requerimientos de información que se demanden a las entidades paraestatales racionalizando los flujos de información.
+Para el cumplimiento de lo anteriormente establecido, la Secretaría Coordinadora de Sector, conjuntamente con las Secretarías de Administración y Finanzas, Modernización Administrativa e Innovación Gubernamental, y de la Contraloría, harán compatibles los requerimientos de información que se demanden a las Entidades Paraestatales racionalizando los flujos de información.
 
 ###### Art. 9.
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, y de los objetivos y metas señalados en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de control establecidos en la presente Ley y, en lo que no se oponga a ésta, a los demás que se relacionen con la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 10.
 
-La Secretaría de Finanzas publicará anualmente, en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado de Campeche.
+La Secretaría de Administración y Finanzas publicará, durante el primer trimestre de cada ejercicio fiscal, en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado de Campeche.
 
 ###### Art. 11.
 
@@ -97,11 +105,11 @@ Las infracciones a esta Ley serán sancionadas en los términos que legalmente c
 
 ### Capítulo Segundo. De los Organismos Descentralizados
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 12.
 
-Son organismos descentralizados las personas morales creadas por disposición del H. Congreso del Estado o por disposición de la o el Gobernador del Estado, mediante la expedición de una Ley o de un Acuerdo de creación del Ejecutivo Estatal, que cuentan con personalidad jurídica y patrimonio propios, y cuyo objeto sea alguno de los previstos en el artículo 49 de la Ley Orgánica de la Administración Pública del Estado de Campeche.
+Son Organismos Descentralizados las personas morales creadas por disposición del H. Congreso del Estado o por disposición de la o el Gobernador del Estado, mediante la expedición de una Ley o de un Acuerdo de creación del Ejecutivo Estatal, que cuentan con personalidad jurídica y patrimonio propios, y cuyo objeto sea alguno de los previstos en el artículo 47 de la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -109,7 +117,9 @@ Son organismos descentralizados las personas morales creadas por disposición de
 
 En las leyes y decretos del H. Congreso o Acuerdos del Ejecutivo que se expidan para la creación de un organismo descentralizado se establecerán, entre otros elementos:
 
-I. La denominación del organismo;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+I. La denominación y la sectorización del Organismo;
 
 II. El domicilio legal;
 
@@ -117,7 +127,9 @@ III. El objeto del organismo;
 
 IV. Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-V. La forma en que se integrará el Órgano de Gobierno y la forma de designar a la o el Director General y al personal que le sea adscrito;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+V. La forma en que se integrará el Órgano de Gobierno;
 
 VI. Las atribuciones de su junta de gobierno, señalando cuáles de ellas son indelegables;
 
@@ -135,11 +147,11 @@ Corresponderá a la junta de gobierno del organismo la expedición del reglament
 
 En la extinción de los organismos deberán observarse las mismas formalidades establecidas para su creación, debiendo la ley, decreto o acuerdo respectivo fijar la forma y términos de su extinción y liquidación.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 16.
 
-Cuando algún organismo descentralizado creado por Acuerdo del Ejecutivo deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía estatal o del interés público, la Secretaría de Finanzas, previa opinión de la Secretaría de la Contraloría y de la dependencia coordinadora del sector que corresponda, propondrá a la o el Gobernador del Estado la extinción y liquidación de aquél. Asimismo, podrá proponer su fusión con otro organismo descentralizado, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún Organismo Descentralizado creado por Acuerdo del Ejecutivo deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía estatal o del interés público, la Secretaría de Administración y Finanzas, previa opinión de la Secretaría de Modernización Administrativa e Innovación Gubernamental, la Secretaría de la Contraloría y de la Secretaría Coordinadora de Sector que corresponda, propondrá a la o el Gobernador del Estado la extinción y liquidación de aquel. Asimismo, podrá proponer su fusión con otro Organismo Descentralizado, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -147,11 +159,13 @@ Cuando algún organismo descentralizado creado por Acuerdo del Ejecutivo deje de
 
 La administración de los organismos descentralizados estará a cargo de su Junta de Gobierno y de una Dirección General.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 18.
 
-La Junta de Gobierno estará integrada por no menos de cinco ni más de diez personas integrantes propietarias, y sus respectivos suplentes, y será presidida por la persona titular de la dependencia coordinadora de sector. El cargo de integrante de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o en especie por su desempeño.
+La Junta de Gobierno estará integrada por no menos de cinco ni más de diez personas integrantes propietarias, y sus respectivos suplentes, y será presidida por la Persona Titular de la Secretaría Coordinadora de Sector. El cargo de integrante de la Junta de Gobierno será honorífico, por lo que no dará derecho a la percepción de alguna retribución en numerario o en especie por su desempeño.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
 A las sesiones de la Junta de Gobierno podrán asistir, en calidad de invitadas o invitados permanentes, representantes de las dependencias y entidades de la Administración Pública Federal y de la Administración Pública de los Municipios del Estado, así como representantes de instituciones educativas y de los organismos autónomos, en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate, con el carácter de invitados especiales con derecho a voz, pero sin voto.
 
@@ -179,15 +193,21 @@ IV. Las personas sentenciadas por delitos patrimoniales, o las inhabilitadas par
 
 La Junta de Gobierno se reunirá con la periodicidad que se señale en el Reglamento Interior, sin que pueda ser menor de cuatro veces al año, y sesionará válidamente con la asistencia de, por lo menos, la mitad más uno de sus integrantes, siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal. Las resoluciones se tomarán por mayoría de votos de sus integrantes presentes; quien presida la sesión tendrá voto de calidad para el caso de empate.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 21.
 
-La o el Director General será designado por la o el Gobernador del Estado o, bajo su indicación, por la persona titular de la dependencia coordinadora de sector, y deberá recaer tal nombramiento en la persona que reúna, como mínimo, los siguientes requisitos:
+La o el Director General será designado por la o el Gobernador del Estado o, bajo su indicación, por la Persona Titular de la Secretaría Coordinadora de Sector, y deberá recaer tal nombramiento en la persona que reúna, como mínimo, los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
 I. Ser ciudadana o ciudadano mexicano, en pleno goce de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
 II. Haber desempeñado cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
 III. No encontrarse en alguno de los casos de impedimento que, para ser integrante de la Junta de gobierno, señalan las fracciones II, III y IV del artículo 19 de esta Ley.
 
@@ -229,21 +249,23 @@ Para acreditar la personalidad y atribuciones, según el caso, de las y los inte
 
 ### Capítulo Tercero. De las Empresas de Participación Estatal Mayoritaria
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 24.
 
-Son empresas de participación estatal mayoritaria las sociedades mercantiles que satisfagan los requisitos que señala el artículo 50 de la Ley Orgánica de la Administración Pública del Estado de Campeche.
+Son Empresas de Participación Estatal Mayoritaria las Sociedades Mercantiles que satisfagan los requisitos que señala el artículo 48 de la Ley Orgánica de la Administración Pública del Estado de Campeche.
 
 ###### Art. 25.
 
 La organización, administración y vigilancia de las empresas de participación estatal mayoritaria, sin perjuicio de lo dispuesto en los estatutos de la sociedad y en la legislación mercantil aplicable, deberán sujetarse a los términos que se consignan en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 26.
 
-Cuando alguna empresa de participación estatal mayoritaria no cumpla con el objeto para el que se constituyó o ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía estatal o del interés público, la Secretaría de Finanzas, previa opinión de la Secretaría de la Contraloría y de la dependencia coordinadora del sector que corresponda, propondrá a la o el Gobernador del Estado la enajenación de la participación estatal o, en su caso, su disolución o liquidación.
+Cuando alguna Empresa de Participación Estatal Mayoritaria no cumpla con el objeto para el que se constituyó o ya no resulte conveniente conservarla como entidad paraestatal, desde el punto de vista de la economía estatal o del interés público, la Secretaría de Administración y Finanzas, previa opinión de la Secretaría de Modernización Administrativa e Innovación Gubernamental, la Secretaría de la Contraloría y de la Secretaría Coordinadora del Sector que corresponda, propondrá a la o el Gobernador del Estado la enajenación de la participación estatal o, en su caso, su disolución o liquidación.
 
-La enajenación de títulos representativos del capital social propiedad del Estado de Campeche o de las entidades paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Finanzas. La Secretaría de la Contraloría vigilará el debido cumplimiento de lo antes dispuesto.
+La enajenación de títulos representativos del capital social propiedad del Estado de Campeche o de las Entidades Paraestatales, podrá realizarse a través de los procedimientos bursátiles propios del mercado de valores o de las sociedades nacionales de crédito, de acuerdo con las normas que emita la Secretaría de Administración y Finanzas. La Secretaría de la Contraloría vigilará el debido cumplimiento de lo antes dispuesto.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -251,11 +273,11 @@ La enajenación de títulos representativos del capital social propiedad del Est
 
 En los casos en que se acuerde la enajenación, en igualdad de condiciones y en estricto apego a los términos de las leyes y de los estatutos correspondientes, el personal de la empresa tendrá preferencia para adquirir los títulos representativos del capital de los que sea titular el Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 28.
 
-La o el Gobernador del Estado, previa opinión de las Secretarías de Finanzas y de la Contraloría, por conducto de la dependencia coordinadora de sector, determinará quienes del personal adscrito al servicio público estatal deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+La o el Gobernador del Estado, previa opinión de las Secretarías de Administración y Finanzas, Modernización Administrativa e Innovación Gubernamental, y de la Contraloría, por conducto de la Secretaría Coordinadora de Sector, determinará quienes del personal adscrito al servicio público estatal deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las Empresas de Participación Estatal Mayoritaria.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -263,21 +285,21 @@ La o el Gobernador del Estado, previa opinión de las Secretarías de Finanzas y
 
 Los consejos de administración de las empresas de participación estatal mayoritaria se integrarán de acuerdo a sus estatutos y establecerán los acuerdos que señalen las bases de fusión, extinción y liquidación de la empresa de participación estatal mayoritaria en lo que no se oponga a esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 30.
 
-Las personas integrantes de los consejos de administración que representen la participación del Estado, además de aquellas a que se refiere el artículo 4 de esta Ley, serán designadas por la o el Gobernador del Estado, a través de la persona titular de la dependencia coordinadora de sector, y deberán constituir en todo tiempo más de la mitad de las y los integrantes del Consejo. Las personas aquí referidas deberán ser personas adscritas al servicio de la Administración Pública Estatal o de reconocido prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
+Las personas integrantes de los consejos de administración que representen la participación del Estado, además de aquellas a que se refiere el artículo 4 de esta Ley, serán designadas por la o el Gobernador del Estado, a través de la Persona Titular de la Secretaría Coordinadora de Sector y deberán constituir en todo tiempo más de la mitad de las y los integrantes del Consejo. Las personas aquí referidas deberán ser personas adscritas al servicio de la Administración Pública Estatal o de reconocido prestigio, con experiencia respecto a las actividades propias de la empresa de que se trate.
 
 ###### Art. 31.
 
 El consejo de administración se reunirá con la periodicidad que se señale en los estatutos de la sociedad, sin que pueda ser menor de cuatro veces al año.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 32.
 
-El Consejo será presidido por la o el titular de la dependencia coordinadora de sector o por la persona que ésta o éste designe con la aprobación de la o el Gobernador del Estado.
+El Consejo será presidido por la Persona Titular de la Secretaría Coordinadora de Sector o por la persona que ésta o éste designe con la aprobación de la o el Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -307,11 +329,11 @@ Para la designación, atribuciones, operación y responsabilidades de los órgan
 
 La fusión, disolución, extinción y liquidación de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos, acuerdos o disposiciones establecidos en los estatutos de la empresa y legislación mercantil correspondiente.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 38.
 
-La dependencia coordinadora del sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, y deberá cuidar en todo momento la adecuada protección de los intereses del público, de las y los accionistas o titulares de las acciones o partes sociales, así como los derechos laborales del personal adscrito al servicio público de la empresa.
+La Secretaría Coordinadora del Sector al que corresponda la empresa, en lo que no se oponga a su regulación específica y de conformidad a las normas establecidas al respecto por la Secretaría de Administración y Finanzas, intervendrá a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, y deberá cuidar en todo momento la adecuada protección de los intereses del público, de las y los accionistas o titulares de las acciones o partes sociales, así como los derechos laborales del personal adscrito al servicio público de la empresa.
 
 ### Capítulo Cuarto. De los Fideicomisos Públicos
 
@@ -327,15 +349,17 @@ Los fideicomisos públicos que se constituyan por el Estado de Campeche se crear
 
 Los Comités Técnicos y las o los Directores Generales de los fideicomisos públicos se ajustarán en cuanto a su integración, atribuciones y funcionamiento a las disposiciones que en el Capítulo Sexto de esta Ley se establecen para las Juntas de Gobierno y para las o los Directores Generales, en todo lo que sea compatible a su naturaleza.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 41.
 
-La Secretaría de Finanzas, quien será la única dependencia facultada para representar al Estado como fidecomitente (sic) en la constitución de los fideicomisos, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico, el cual deberá existir obligadamente en todos los fideicomisos a que se refiere este Capítulo.
+La Secretaría de Administración y Finanzas, quien será la única Secretaría facultada para representar al Estado como fideicomitente en la constitución de los fideicomisos, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico, el cual deberá existir obligadamente en todos los fideicomisos a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 42.
 
-Las instituciones fiduciarias, a través de la o el delegado general o de la o el delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la dependencia encargada de la coordinación del sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
+Las instituciones fiduciarias, a través de la o el delegado general o de la o el delegado fiduciario general, dentro de los seis meses siguientes a la constitución o modificación de los fideicomisos, deberán someter a la consideración de la Secretaría Coordinadora del Sector al que pertenezcan, los proyectos de estructura administrativa o las modificaciones que se requieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -363,9 +387,11 @@ En los contratos constitutivos de los fideicomisos se deberán precisar las facu
 
 La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el comité técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso, y responderá de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 46.
 
-Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al comité técnico, por cualquiera circunstancia, la institución fiduciaria procederá a consultar a la Secretaría de Finanzas quedando facultada para ejecutar aquellos actos que ésta autorice.
+Cuando para el cumplimiento de la encomienda fiduciaria se requiera la realización de actos urgentes, cuya omisión pueda causar notoriamente perjuicios al fideicomiso, si no es posible reunir al comité técnico, por cualquiera (sic) circunstancia, la institución fiduciaria procederá a consultar a la Secretaría de Administración y Finanzas quedando facultada para ejecutar aquellos actos que ésta autorice.
 
 ###### Art. 47.
 
@@ -375,11 +401,11 @@ En los contratos constitutivos de fideicomisos se deberá reservar al Estado la 
 
 ### Capítulo Quinto. Del Registro Público de Organismos Descentralizados
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 48.
 
-Los organismos descentralizados deberán inscribirse en el Registro Público de Organismos Descentralizados que llevará la Secretaría de Finanzas. Para el cumplimiento de esta obligación, las o los Directores Generales deberán solicitar su inscripción ante la Secretaría de Finanzas en un plazo no mayor a treinta días naturales siguientes a la fecha en que se constituyó el organismo o de la última modificación o reforma que se haya realizado y que sea de su competencia.
+Los Organismos Descentralizados deberán inscribirse en el Registro Público de Organismos Descentralizados que llevará la Secretaría de Administración y Finanzas. Para el cumplimiento de esta obligación, las o los Directores Generales deberán solicitar su inscripción ante la Secretaría de Administración y Finanzas en un plazo no mayor a treinta días naturales siguientes a la fecha en que se constituyó el Organismo o de la última modificación o reforma que se haya realizado y que sea de su competencia.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -411,6 +437,10 @@ VIII. Los demás documentos o actos que determine el reglamento de este ordenami
 
 El Reglamento de esta Ley determinará la constitución y funcionamiento del Registro Público de Organismos Descentralizados, así como las formalidades de las inscripciones y sus anotaciones.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Es obligación de todos los Organismos Descentralizados mantener la información actualizada de sus instrumentos jurídicos en el Registro Público de Organismos Descentralizados.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
 ###### Art. 51.
@@ -437,9 +467,11 @@ III. Los efectos que causen sus actividades en el ámbito sectorial, así como e
 
 IV. Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 54.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación del Estado de Campeche, al Plan Estatal de Desarrollo vigente, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazos. El reglamento de la presente Ley establecerá los criterios para definir la duración de los plazos.
+Las Entidades Paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación del Estado de Campeche y sus Municipios, al Plan Estatal de Desarrollo vigente, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas. Dentro de tales directrices las Entidades formularán sus programas institucionales a corto, mediano y largo plazo. El Reglamento de la presente Ley establecerá los criterios para definir la duración de los plazos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -455,23 +487,29 @@ Los programas institucionales se revisarán anualmente para introducir las modif
 
 Los presupuestos de egresos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Art. 58.
 
-En la formulación de sus presupuestos, las entidades paraestatales se sujetarán a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas, así como a los lineamientos específicos que defina la respectiva dependencia coordinadora de sector. En el caso de compromisos derivados de compra o de suministro que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+En la formulación de sus presupuestos, las Entidades Paraestatales se sujetarán a las disposiciones de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios y a los lineamientos generales que en materia de gasto establezca la Secretaría de Administración y Finanzas, así como a los lineamientos específicos que defina la respectiva Secretaría Coordinadora de Sector. En el caso de compromisos derivados de compra o de suministro que excedan al período anual del presupuesto, éste deberá contener la referencia precisa de esos compromisos con el objeto de contar con la perspectiva del desembolso a plazos mayores de un año.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 59.
 
-Las entidades paraestatales manejarán y erogarán sus recursos propios por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, los recibirán de la Secretaría de Finanzas en los términos que se fijen en la Ley de Presupuesto de Egresos del Estado de Campeche, para cada ejercicio fiscal, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+Las Entidades Paraestatales manejarán y erogarán sus recursos propios por medio de sus órganos. Por lo que toca a la percepción de subsidios y transferencias, los recibirán de la Secretaría de Administración y Finanzas en los términos que se fijen en la Ley de Presupuesto de Egresos del Estado de Campeche, para cada ejercicio fiscal, debiendo manejarlos y administrarlos por sus propios órganos y sujetarse a los controles e informes respectivos de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 60.
 
-Los programas financieros de las entidades paraestatales deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Finanzas; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que puedan obtener de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. Los programas contendrán los criterios conforme a los cuales deban ejecutarse los mismos en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
+Los programas financieros de las Entidades Paraestatales deberán formularse conforme a los lineamientos generales que establezca la Secretaría de Administración y Finanzas; deberán expresar los fondos propios, aportaciones de capital, contratación de créditos, así como el apoyo financiero que puedan obtener de los proveedores de insumos y servicios y de los suministradores de los bienes de producción. Los programas contendrán los criterios conforme a los cuales deban ejecutarse los mismos en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 61.
 
-Las y los Directores de las entidades paraestatales someterán los programas financieros para su autorización a los órganos de gobierno respectivos, con la salvedad a que se refiere la fracción II del artículo 67 de esta Ley; una vez aprobados remitirán a la Secretaría de Finanzas la parte correspondiente a la suscripción de créditos para su autorización y registro en los términos de la Ley correspondiente.
+Las y los Directores de las Entidades Paraestatales someterán los programas financieros para su autorización a los Órganos de Gobierno respectivos, con la salvedad a que se refiere la fracción II del artículo 67 de esta Ley; una vez aprobados remitirán a la Secretaría de Administración y Finanzas la parte correspondiente a la suscripción de créditos para su autorización y registro en los términos de la Ley correspondiente.
 
 ###### Art. 62.
 
@@ -483,11 +521,11 @@ Las entidades paraestatales, en lo tocante al ejercicio de sus presupuestos, con
 
 Los órganos de gobierno, a propuesta de la o el Presidente o cuando menos de la tercera parte de sus integrantes, podrán constituir comités o subcomités técnicos especializados para apoyar la programación estratégica y la supervisión de la marcha normal de las entidades paraestatales, atender problemas de administración y organización de los procesos productivos, así como para la selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 64.
 
-Las dependencias coordinadoras de sector promoverán el establecimiento de comités mixtos de productividad de las entidades paraestatales, con la participación de representantes de las y los trabajadores y de la administración de la entidad que analizarán las medidas relativas a la organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
+Las Secretarías Coordinadoras del Sector promoverán el establecimiento de comités mixtos de productividad de las Entidades Paraestatales, con la participación de representantes de las y los trabajadores y de la administración de la entidad que analizarán las medidas relativas a la organización de los procesos productivos, de selección y aplicación de los adelantos tecnológicos y el uso de los demás instrumentos que permitan elevar la eficiencia de las mismas.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -527,9 +565,9 @@ VII. Aprobar, de conformidad con las leyes aplicables y el reglamento de esta Le
 
 VIII. Aprobar la estructura básica de la organización de la entidad paraestatal y las modificaciones que procedan a la misma;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IX. Proponer a la o el Gobernador del Estado, por conducto de la Secretaría de Finanzas, los convenios de fusión con otras entidades;
+IX. Proponer a la o el Gobernador del Estado, por conducto de la Secretaría de Administración y Finanzas, los convenios de fusión con otras Entidades;
 
 X. Autorizar la creación de comités de apoyo;
 
@@ -537,9 +575,9 @@ X. Autorizar la creación de comités de apoyo;
 
 XI. Nombrar y remover, a propuesta de la o el Director General, a las personas adscritas al servicio público de la entidad paraestatal que ocupen cargos con las dos jerarquías administrativas inferiores a la de aquélla, aprobar la fijación de sus sueldos y prestaciones y a los demás que señalen los reglamentos interiores. En iguales términos podrán concederles licencias;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-XII. Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria. En los casos de los excedentes económicos de los organismos descentralizados, proponer la constitución de reservas y su aplicación para su determinación por la o el Gobernador del Estado, a través de la Secretaría de Finanzas;
+XII. Aprobar la constitución de reservas y aplicación de las utilidades de las Empresas de Participación Estatal Mayoritaria. En los casos de los excedentes económicos de los Organismos Descentralizados, proponer la constitución de reservas y su aplicación para su determinación por la o el Gobernador del Estado, a través de la Secretaría de Administración y Finanzas;
 
 XIII. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la entidad paraestatal requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley de Bienes del Estado de Campeche y sus Municipios considere como del dominio público del Estado. El reglamento de la presente Ley establecerá los procedimientos respectivos;
 
@@ -549,7 +587,9 @@ XIV. Analizar y aprobar, en su caso, los informes periódicos que rinda la o el 
 
 XV. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados; y
 
-XVI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Finanzas, por conducto de la dependencia coordinadora de sector.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Entidad Paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando a la Secretaría de Administración y Finanzas, por conducto de la Secretaría Coordinadora de Sector.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
@@ -591,7 +631,13 @@ XII. Ejecutar los acuerdos que dicte el órgano de gobierno;
 
 XIII. Suscribir, previa aprobación del órgano de gobierno, las condiciones de trabajo que regulen las relaciones laborales de la entidad con sus trabajadoras y trabajadores; y
 
-XIV. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, con las únicas salvedades a que se contrae este ordenamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Expedir certificaciones de los documentos que emitan y de los expedientes que obren en su Dirección General, las Direcciones y Unidades Administrativas que le estén adscritas, a excepción de los documentos enlistados en el artículo 50 de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XV. Las que señalen otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables, con las únicas salvedades a que se contrae este ordenamiento.
 
 ### Capítulo Séptimo. Del Control y Evaluación
 
@@ -637,11 +683,11 @@ La dependencia coordinadora de sector, a través de su titular o representante, 
 
 La Secretaría de la Contraloría podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 71, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Art. 75.
 
-En aquellos casos en los que el órgano de gobierno o la o el Director General no dieren cumplimiento a las obligaciones legales que les atribuye esta Ley, las Secretarías de Finanzas y de la Contraloría, así como la dependencia coordinadora de sector que corresponda, actuarán de conformidad con lo preceptuado en las leyes respectivas a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras disposiciones jurídicas. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades a que haya lugar.
+En aquellos casos en los que el Órgano de Gobierno o la o el Director General no dieren cumplimiento a las obligaciones legales que les atribuye esta Ley, las Secretarías de Administración y Finanzas, y de la Contraloría, así como la Secretaría Coordinadora de Sector que corresponda, actuarán de conformidad con lo preceptuado en las leyes respectivas a fin de subsanar las deficiencias y omisiones para la estricta observancia de las disposiciones de esta Ley u otras disposiciones jurídicas. Lo anterior sin perjuicio de que se adopten otras medidas y se finquen las responsabilidades que haya lugar.
 
 ## TRANSITORIOS
 
@@ -678,3 +724,15 @@ SEGUNDO.- El Ejecutivo del Estado en un plazo no mayor a 180 días, contados a p
 TERCERO.- Los organismos descentralizados que se encontraban inscritos en el Registro de Entidades Paraestatales deberán solicitar su inscripción al Registro Público de Organismos Descentralizados en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 148 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3; 4; 5; 7; 8; 10; 12; LAS FRACCIONES I Y V DEL ARTÍCULO 13; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 18; EL PÁRRAFO PRIMERO DEL ARTÍCULO 21; LOS ARTÍCULOS 24; 26; 28; 30; 32; 38; 41; 42; 46; 48; 54; 58; 59; 60; 61; 64; LAS FRACCIONES IX, XII Y XVI DEL ARTÍCULO 67; LA FRACCIÓN XIV DEL ARTÍCULO 68 Y EL ARTÍCULO 75; Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 50; Y UNA FRACCIÓN XV AL ARTÍCULO 68, TODOS DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Dentro del término de 180 días hábiles contados a partir de la entrada en vigor del presente decreto, el Ejecutivo Estatal deberá expedir el Reglamento de la presente Ley.
+
+TERCERO. La o el Gobernador del Estado, así como el H. Congreso del Estado, dentro de sus respectivos ámbitos de competencia y dentro del término de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, procederán a hacer las correspondientes adecuaciones a las leyes y acuerdos por los que se hayan creado las Entidades que conforman la Administración Pública Paraestatal del Estado de Campeche, para dar cumplimiento a las disposiciones contenidas en la Ley a que se contrae este decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este decreto.
