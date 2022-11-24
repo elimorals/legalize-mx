@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2022-10-27"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -1823,9 +1823,15 @@ n. Acordar con el Presidente los asuntos de su competencia; y
 
 ñ. Las demás que le confiera este Código, el Consejo General, su Presidente y demás disposiciones legales relativas y aplicables.
 
-II. De Capacitación Electoral y Educación Cívica:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+II. De capacitación electoral y Educación Cívica:
 
 a. Elaborar y proponer los programas de educación cívica del Instituto y los relativos a la capacitación electoral en base a los lineamientos que emita el Instituto Nacional Electoral;
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+a Bis. Elaborar, proponer al Consejo General y llevar a cabo un programa de participación activa de la niñez y la juventud en la vida democrática del Estado.
 
 b. Coordinar y vigilar el cumplimiento de los programas a que se refiere el inciso anterior;
 
@@ -6488,5 +6494,11 @@ P.O. 27 DE OCTUBRE DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 293 POR EL QUE SE REFORMA LA FRACCIÓN XLVIII DEL ARTÍCULO 66 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 294 QUE ADICIONA EL INCISO A BIS, DE LA FRACCIÓN II, DEL ARTÍCULO 79 DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
