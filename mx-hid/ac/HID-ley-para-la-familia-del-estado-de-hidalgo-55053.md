@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2022-10-21"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -869,11 +869,11 @@ III.- A los parientes colaterales hasta el tercer grado del acreedor alimentario
 
 Para los efectos del Artículo anterior, tratándose de alimentos para los hermanos y parientes colaterales hasta el tercer grado del acreedor alimentario, se requiere el consentimiento del cónyuge del deudor alimentista por sí y en representación de los hijos menores.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 129.
 
-La obligación de dar alimentos, de los padres y de las personas señaladas en los Artículos anteriores, surge desde la concepción de los hijos, hasta su mayoría de edad. Esta obligación subsistirá si los hijos son mayores de edad y estén incapacitados para trabajar o estén cursando una carrera profesional o técnica que sea considerada, como tal, por la Secretaría de Educación Pública con calificaciones aprobatorias finales en el ciclo escolar y cuyo nivel académico sea acorde a su edad.
+La obligación de dar alimentos, de los padres y de las personas señaladas en los Artículos anteriores, surge desde la concepción de los hijos, hasta su mayoría de edad. Esta obligación subsistirá si los hijos son mayores de edad y estén incapacitados para trabajar o estén cursando una carrera profesional o técnica que sea considerada, como tal, por la Secretaría de Educación Pública o por alguna Institución Educativa Extranjera, mediante la obtención de constancia o certificado de estudios, y cuyo nivel académico sea acorde a su edad.
 
 ###### Artículo 130.
 
@@ -1529,19 +1529,29 @@ Toda persona tiene derecho al reconocimiento de su identidad de género.
 
 Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el registro primario. En ningún caso será requisito acreditar intervención quirúrgica, terapia, diagnóstico u otro procedimiento para el reconocimiento de la identidad de género.
 
-El reconocimiento respectivo se llevará a cabo en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado, cumpliendo todas las formalidades que exige la normatividad.
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Las personas cuya autopercepción de genero no se enmarque en las categorías de masculino o femenino, tendrán el derecho al reconocimiento e inscripción de su género no binario.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+El reconocimiento respectivo se llevará a cabo en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado o ante el Oficial del Registro del Estado Familiar del municipio de su residencia cumpliendo todas las formalidades que exige la normatividad. Los efectos de esta nueva acta de nacimiento, serán oponibles a terceros desde su registro.
 
 Los efectos de esta nueva acta de nacimiento, serán oponibles a terceros desde de su registro.
 
 Los derechos y obligaciones contraídas con anterioridad al reconocimiento de identidad de género y a la expedición de la nueva acta, no se modificarán ni se extinguirán con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familias en todos sus órdenes y grados, los que se mantendrán inmodificables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 214 Quáter.
+
+Toda persona mayor de edad que requiera el reconocimiento de su identidad de género, podrá presentar solicitud en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado o ante el Oficial del Registro del Estado Familiar del municipio de su residencia, debiéndose efectuar la anotación marginal en el Libro correspondiente, procediendo a reservar el registro primario e inscribiendo el nuevo registro de nacimiento, asentando el nombre elegido y el género adoptado, persistiendo los demás datos asentados.
+
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
-###### Artículo 214 Quater.
-
-Toda persona mayor de edad que requiera el reconocimiento de su identidad de género, podrá presentar solicitud en la Dirección del Registro del Estado Familiar del Poder Ejecutivo del Estado, quien realizará la anotación marginal en el Libro correspondiente, procediendo a reservar el registro primario e inscribiendo el nuevo registro de nacimiento, asentando el nombre elegido y el género adoptado, persistiendo los demás datos asentados.
-
 Los datos contenidos en el registro primario, solo podrán ser proporcionados a solicitud de autoridad judicial.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2019)</small>
 
 Una vez cumplido el trámite, se enviarán los oficios con la información, en calidad de reservado, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia de Hidalgo, Procuraduría General de la República y del Estado, Centro Nacional de Información del Sistema Nacional, al Consejo de la Judicatura Federal y demás competentes, para los efectos legales procedentes.
 
@@ -3482,3 +3492,17 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 280 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 296 QUE REFORMA EL ARTÍCULO 129 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P. O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 302 QUE REFORMA Y ADICIONA LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO Y REFORMA LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
