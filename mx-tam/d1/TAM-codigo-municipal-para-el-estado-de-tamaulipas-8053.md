@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2022-09-29"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1435,7 +1435,9 @@ Son facultades y obligaciones del cronista municipal, las siguientes:
 
 I.- Registrar literaria y documentalmente los personajes y acontecimientos relevantes de la comunidad;
 
-II.- Elaborar escritos referentes a la vida e historia de la comunidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+II.- Elaborar, con el apoyo del Ayuntamiento, trabajos de investigación, divulgación y publicación de escritos referentes a la vida e historia de la comunidad; así como presentar un informe anual de labores ante el mismo, el cual deberá remitirse a las asociaciones y organizaciones que propusieron candidatos para ocupar el cargo de cronista municipal;
 
 III.- Colaborar en la sistematización y difusión del acervo documental del archivo histórico del Ayuntamiento;
 
@@ -1449,9 +1451,23 @@ VII.- Coadyuvar en el fomento y difusión de eventos culturales, tradiciones y c
 
 VIII.- Promover la inserción en los medios de comunicación de noticias, boletines y reportajes sobre el municipio y sus instituciones;
 
-IX.- Emitir opiniones cuando las autoridades así lo requieran sobre acontecimientos históricos del municipio; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-X.- Las demás que el Ayuntamiento le asigne.
+IX.- Emitir opiniones cuando las autoridades así lo requieran sobre acontecimientos históricos del municipio;
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+X.- Coadyuvar en labores educativas, culturales, turísticas y de investigación en las que soliciten apoyo las instituciones gubernamentales de cualquier orden; y
+
+XI.- Las demás que el Ayuntamiento le asigne.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+El Cronista Municipal será designado al inicio de cada administración por el Cabildo mediante convocatoria pública en la que instituciones o agrupaciones en la materia propongan candidaturas para ocupar dicho cargo. El Cronista Adjunto será designado por el Cabildo a propuesta del Cronista Municipal o, (sic) falta de la misma, por aquella realizada por instituciones o agrupaciones en la materia, en ambos casos deberán acreditar trayectoria, trabajos de investigación y publicaciones en cuanto a la historia del municipio que corresponda. Así mismo el Cabildo podrá removerlos si a consideración de éste no cumple debidamente con su función.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Por la naturaleza de la labor, los cargos recaerán en personas nativas del municipio correspondiente o que acrediten una residencia en el mismo mínima de 10 años previo a su designación.
 
 ### CAPITULO XII. DE LOS ORGANOS AUXILIARES
 
@@ -6676,3 +6692,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-413 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y IX; Y SE ADICIONA LA FRACCIÓN X, RECORRIÉNDOSE LA ACTUAL FRACCIÓN PARA SER XI, DEL PÁRRAFO CUARTO, Y SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 76 QUATER, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos que no tengan aún designados a sus Cronistas Municipales, deberán expedir las convocatorias públicas para la designación de Cronistas Municipales dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
