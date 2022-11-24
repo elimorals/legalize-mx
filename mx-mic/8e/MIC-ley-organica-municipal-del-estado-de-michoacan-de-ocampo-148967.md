@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-148967
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-03-30"
-last_updated: "2022-07-04"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Octava Sección en el Número 39 del Periódico Oficial del Estado de Michoacán, el martes 30 de marzo de 2021.
 
@@ -961,27 +961,33 @@ III. De Desarrollo Económico, Comercio y Trabajo;
 
 IV. De Educación, Cultura, Turismo, Ciencia, Tecnología e Innovación;
 
-V. De la Mujer, Derechos Humanos y Grupos en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-VI. De Salud, Desarrollo Social, Juventud y Deporte;
+V. De Derechos Humanos y Grupos en Situación de Vulnerabilidad;
 
-VII. De Medio Ambiente, Protección Animal y Desarrollo Rural;
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-VIII. De Desarrollo Urbano y Obras Públicas;
+VI. De la Mujer;
 
-IX. De Acceso a la Información Pública, Transparencia y Protección de Datos Personales;
+VII. De Salud, Desarrollo Social, Juventud y Deporte;
 
-X. De Planeación, Programación y Desarrollo Sustentable;
+VIII. De Medio Ambiente, Protección Animal y Desarrollo Rural;
 
-XI. De Asuntos Indígenas, en donde existan pueblos y comunidades indígenas;
+IX. De Desarrollo Urbano y Obras Públicas;
 
-XII. De Asuntos Migratorios, donde se requiera; y,
+X. De Acceso a la Información Pública, Transparencia y Protección de Datos Personales;
 
-XIII. Las demás que, en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de las dos terceras partes de los integrantes del Cabildo, se determinen, al inicio de una administración.
+XI. De Planeación, Programación y Desarrollo Sustentable;
 
-En los Municipios donde se considere necesario podrá crearse la Comisión de Igualdad, Integración y Diversidad Social con el objeto de vigilar, fomentar y coordinar que los empleados y funcionarios municipales respeten los derechos humanos, durante su ejercicio incluida la discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales de acuerdo con su orientación sexual o identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+XII. De Asuntos Indígenas, en donde existan pueblos y comunidades indígenas;
 
-Asimismo se encargará de coordinar en conjunto y mediante consulta con la sociedad civil organizada de adultos mayores, personas con discapacidad y de las y los ciudadanos con preferencias sexuales de acuerdo con su orientación sexual o identidad de género, la generación por parte de los gobiernos municipales de políticas públicas, programas y acciones sociales en beneficio de los mismos, cuidando su incorporación en los planes y presupuestos municipales; también tendrá la facultad de recibir, dar trámite y resolver las quejas que por discriminación, negación de los servicios públicos o violación de sus derechos por parte de funcionarios y empleados municipales sean objeto los ciudadanos, así como de aquellas facultades que le confiera la legislación vigente en la materia de protección, fomento y vigilancia de los Derechos Humanos.
+XIII. De Asuntos Migratorios, donde se requiera; y,
+
+XIV. Las demás que, en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de las dos terceras partes de los integrantes del Cabildo, se determinen, al inicio de una administración.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 51.
 
@@ -1085,39 +1091,59 @@ XIII. Promover la capacitación permanente de las empleadas y los empleados muni
 
 XIV. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 54 bis. La Comisión de Derechos Humanos y Grupos en Situación de Vulnerabilidad, tendrá las siguientes funciones:
+
+I. Vigilar, fomentar y coordinar que los empleados y funcionarios municipales respeten los derechos humanos, durante su ejercicio, incluida la discriminación motivada por origen étnico o nacional, sexo, género, edad, discapacidades, condición social, condiciones de salud, religión, diversidad de opiniones, orientación sexual, identidad y/o expresiones de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+II. Coordinar en conjunto y mediante consulta con la sociedad civil organizada de adultos mayores, así como personas con discapacidad a través de las asociaciones u organizaciones que los representan, pueden ser estos locales o regionales y en su caso de sus familiares o cuidadores, así como de las personas parte de la diversidad sexual, identidad de género, la generación de políticas públicas, programas y acciones en beneficio de los mismos, incorporándose en los planes de desarrollo municipal y en la construcción y ejecución del presupuesto municipal;
+
+III. Recibir y dar vista a la Comisión Estatal de Derechos Humanos de las quejas que por discriminación, negación de los servicios públicos o violación de sus derechos por parte de funcionarios y empleados municipales sean objeto los ciudadanos, así como de aquellas facultades que le confiera la legislación vigente en la materia de protección, fomento y vigilancia de los Derechos Humanos, acorde a lo dispuesto por el párrafo tercero del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Fomentar la generación y aplicación de mecanismos que permitan el acceso de los jóvenes, adultos mayores, integrantes de los pueblos originarios, personas integrantes de la diversidad sexual y las personas migrantes, en términos de la normatividad aplicable, a los beneficios de los programas municipales y estatales que les apliquen, sin distinción o discriminación;
+
+V. Fomentar la aplicación de programas que faciliten la incorporación de las personas en situación de vulnerabilidad a la actividad productiva;
+
+VI. Promover las acciones necesarias para mejorar el nivel de vida de las personas, así como sus condiciones sociales y culturales;
+
+VII. Fomentar la tolerancia, la armonía social, el respeto a la diversidad y la cultura de la paz entre los habitantes del municipio, en aras de lograr el respeto a los derechos humanos;
+
+VIII. Promover la incorporación de los jóvenes, integrantes de la diversidad sexual, adultos mayores y los habitantes de los pueblos originarios, en el desarrollo de los proyectos productivos, acciones afirmativas, el acceso a la salud, el acceso presupuestario mediante el otorgamiento de estímulos económicos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+IX. Establecer mecanismos de participación conjunta con la dependencia estatal de atención al migrante y sus familias, para una mejor coordinación en la atención de los grupos del sector;
+
+X. Vincularse con la Comisión Estatal de los Derechos Humanos, el Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia del Estado de Michoacán y la Comisión Ejecutiva Estatal de Atención a Víctimas, con la finalidad de brindar y dar acompañamiento a las víctimas, la defensa de los derechos humanos de las personas que viven o transitan por el municipio;
+
+XI. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de los pueblos originarios que cuentan con población originaria, reconociendo el derecho a la «auto adscripción», con el propósito de fortalecer las economías locales y mejorar las condiciones de seguridad y de vida de sus pueblos, mediante las acciones coordinadas entre los tres niveles de gobierno y con la participación de las comunidades indígenas; y,
+
+XII. Las demás que le señale esta Ley u otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 55.
 
-La Comisión de la Mujer, Derechos Humanos y Grupos en situación de vulnerabilidad, tendrá las siguientes funciones:
+La Comisión de la Mujer, tendrá las siguientes funciones:
 
-I. Promover la planeación del desarrollo municipal, con perspectiva de equidad e igualdad de género;
+I. Promover la planeación del desarrollo municipal con perspectiva de género, bajo los principios de igualdad sustantiva y equidad;
 
-II. Fomentar la generación y aplicación de mecanismos que permitan el acceso de las mujeres, las y los jóvenes, las y los adultos mayores, los pueblos originarios, personas con orientación sexual e identidad sexo genérica no normativa y las personas que tuvieron la calidad de migrantes, en términos de su normatividad, a los beneficios de los programas municipales y estatales que les apliquen, sin distinción o discriminación;
+II. Fomentar la generación y aplicación de mecanismos que permitan el acceso de las mujeres, en términos de su normatividad, a los beneficios de los programas municipales y estatales que les apliquen, sin distinción o discriminación;
 
-III. Gestionar, a petición de parte, ante las dependencias y entidades municipales, los apoyos que soliciten las mujeres, las y los jóvenes, las y los adultos mayores, los pueblos originarios, personas con orientación sexual e identidad sexo genérica no normativa y las personas que tuvieron la calidad de migrantes, preferentemente aquellos que pertenecen a sectores marginados, ya sea individualmente o a través de organizaciones y asociaciones;
+III. Gestionar a petición de parte ante las dependencias y entidades municipales, los apoyos que soliciten las mujeres, ya sea individualmente o a través de organizaciones y asociaciones;
 
-IV. Fomentar la aplicación de programas que faciliten la incorporación de las personas en situación de vulnerabilidad a la actividad productiva;
+IV. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte dirigido a las mujeres;
 
-V. Promover las acciones necesarias para mejorar el nivel de vida de las personas, así como sus expectativas sociales y culturales;
+V. Fomentar la tolerancia, la armonía social y la cultura de la paz entre los habitantes del municipio a efecto de fortalecer el respeto y defensa de los derechos humanos de las mujeres;
 
-VI. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte en todos sus géneros y modalidades;
+VI. Buscar las medidas de apoyo a la nutrición para las madres en lactancia y población infantil;
 
-VII. Fomentar la tolerancia, la armonía social y la cultura de la paz entre los habitantes del municipio;
+VII. Promover la incorporación de las mujeres al desarrollo mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos económicos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
 
-VIII. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de las zonas que sean determinadas originarias o que cuentan con población originaria, con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, buscando las acciones coordinadas entre los tres niveles de gobierno, y con la participación de las comunidades, buscar sus justas y equitativas medidas para mejorar las condiciones de vida de las mismas;
+VIII. Coadyuvar con la instancia municipal de la mujer para brindar atención y asesoría jurídica, laboral, psicológica, emocional, nutricional, médica-ginecológica, dental a las mujeres que así lo requieran y a las víctimas de violencia;
 
-IX. Buscar las medidas de apoyo a la nutrición de las personas que pertenezcan a pueblos originarios mediante programas de alimentación, en especial para las madres en lactancia y población infantil;
+IX. Coadyuvar de manera interinstitucional con las direcciones del municipio de manera coordinada a fin de establecer programas de educación tendientes a erradicar las diferentes expresiones de violencia de género, fomentando una cultura de paz y respeto a los derechos humanos; y,
 
-X. Promover la incorporación de las mujeres, las y los jóvenes, personas con orientación sexual e identidad sexo genérica no normativa, las y los adultos mayores y los habitantes de los pueblos originarios, al desarrollo mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
-
-XI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
-
-XII. Coadyuvar con la Dependencia Estatal de atención al migrante y sus familias, para una mejor coordinación en la atención de los grupos del sector;
-
-XIII. Vincularse con la Comisión Estatal de los Derechos Humanos y el Consejo Estatal para Prevenir y Eliminar la Discriminación y la Violencia del Estado de Michoacán, para coordinarse en la defensa de los derechos de las personas que viven o transitan por el Municipio;
-
-XIV. Coadyuvar de manera coordinada con la instancia municipal de la mujer para brindar atención y asesoría a las mujeres víctimas de violencia; y,
-
-XV. Las demás que le señale esta Ley u otras disposiciones aplicables.
+X. Las demás que le señale esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 56.
 
@@ -3160,3 +3186,11 @@ P.O. 4 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 158 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, INCISO A) DEL ARTÍCULO 40 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial (sic) Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207 POR EL QUE “SE REFORMA LA FRACCIÓN V, SE ADICIONA LA FRACCIÓN VI Y SE DEROGAN SUS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 50; SE ADICIONA EL ARTÍCULO 54 BIS; Y, SE REFORMA EL ARTÍCULO 55, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta el presente Decreto a la Presidencia de la Mesa directiva y al Presidente de la Junta de Coordinación Política, ambos de este Congreso, para el solo efecto de su conocimiento y registro correspondiente.
