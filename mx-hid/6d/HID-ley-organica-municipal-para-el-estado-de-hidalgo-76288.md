@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-10-27"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -365,11 +365,17 @@ Los Ayuntamientos, en ejercicio de su facultad reglamentaria y para promover la 
 
 Las autoridades municipales, en el ejercicio de sus atribuciones, así como los particulares, respetarán íntegramente la dignidad y derechos individuales de los indígenas, tratándolos con el respeto que deriva de su calidad como personas. La misma obligación tendrá con relación a los derechos sociales de los Pueblos y Comunidades Indígenas.
 
-Además, donde existan comunidades de familias de migrantes, para evitar la desintegración familiar, promoverán el desarrollo social, proyectos productivos, formas específicas de organización social y programas de apoyo a las familias que se encuentren en abandono, temporal o definitivo, como consecuencia de la migración.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Además, donde existan comunidades de familias de personas migrantes, para evitar la desintegración familiar, promoverán el desarrollo social, proyectos productivos, formas específicas de organización social y programas de apoyo a las familias que se encuentren en abandono, temporal o definitivo, como consecuencia de la migración.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
 ARTÍCULO 25 BIS.- Los municipios, en el ejercicio de sus atribuciones en materia de asistencia social, a efecto de asegurar que las y los migrantes de sus comunidades, gocen plenamente de los derechos que las leyes les reconocen, deberán coordinarse con la Federación o el Estado, para ejecutar programas de los tres órdenes de gobierno, relativos a la protección de sus pobladores que hayan emigrado, así como de sus familias.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Además, deberán promover políticas públicas con un enfoque integral que atienda las diversas formas de migración considerando las causas estructurales y sus impactos.
 
 ### CAPÍTULO TERCERO. DE LA TRANSPARENCIA MUNICIPAL
 
@@ -2363,6 +2369,10 @@ XIX. Fomento a la igualdad sustantiva entre mujeres y hombres y erradicación de
 
 XX. Protección Integral de los Derechos de las Niñas, Niños y Adolescentes; y
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XX BIS.- Realizar campañas de promoción, difusión y protección a favor de los derechos humanos de las personas migrantes.
+
 > <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2018)</small>
 
 XXI. Los demás que los Reglamentos Municipales determinen, según sus condiciones territoriales y socioeconómicas; así como sus capacidades técnicas administrativas y financieras.
@@ -2415,13 +2425,13 @@ V.- Estar habilitado para desempeñarse en un cargo, empleo o comisión en el se
 
 El Oficial del Registro del Estado Familiar, contará con las facultades que le confieran la Ley de la materia y deberá observar las formalidades, el protocolo y los requisitos que se establecen para ellos.
 
-Los actos del Registro del Estado Familiar, podrán realizarse en horas ordinarias o extraordinarias, dentro o fuera de sus oficinas, pero no fuera de su competencia territorial.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Los actos del Oficial del Registro del Estado Familiar, deberán llevarse a cabo en respeto a los derechos humanos, a la orientación sexual, así como a la identidad y a la expresión de género de las personas; pudiendo realizarse en horas ordinarias o extraordinarias, dentro o fuera de las oficinas del municipio, limitándose a su competencia territorial.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-El titular de esta dependencia municipal, además de los requisitos plasmados en esta ley, deberá contar con título profesional de Licenciado en Derecho, con experiencia mínima de un año al momento de su designación;
+El titular de esta dependencia municipal, además de los requisitos plasmados en esta ley, deberá contar con título profesional de Licenciado en Derecho, con experiencia mínima de un año al momento de su designación.
 
 ###### ARTÍCULO 116.
 
@@ -4078,3 +4088,17 @@ P.O. 27 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 292 QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 295 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 302 QUE REFORMA Y ADICIONA LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO Y REFORMA LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
