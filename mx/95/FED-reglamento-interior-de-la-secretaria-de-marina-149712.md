@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-149712"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-06-07"
-last_updated: "2021-06-07"
+last_updated: "2022-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149712&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-06-02"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2022.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 7 de junio de 2021.
 
@@ -47,7 +47,9 @@ II. Autoridad Marítima Nacional: La prevista en el artículo 7, párrafo primer
 
 III. Autoridad Portuaria: La que ejerce el Ejecutivo Federal, a través de la Secretaría, para el control de los puertos, terminales, marinas e instalaciones portuarias, su construcción, uso, aprovechamiento, explotación, operación y formas de administración, así como para la prestación de los servicios portuarios, sin perjuicio de las atribuciones de otras dependencias de la Administración Pública Federal;
 
-IV. Direcciones Generales: Las comprendidas en el artículo 3, fracción II, inciso g) del presente Reglamento;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV. Direcciones Generales: Las comprendidas en el artículo 3, fracción II, inciso j), del presente Reglamento;
 
 V. Estado Mayor: El Estado Mayor General de la Armada;
 
@@ -67,7 +69,7 @@ I. Las personas titulares de la:
 
 a) Subsecretaría de Marina;
 
-b) Coordinación General de Puertos y Marina Mercante;
+b) (DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 c) Oficialía Mayor;
 
@@ -87,23 +89,41 @@ d) Unidad de Capitanías de Puerto y Asuntos Marítimos;
 
 e) Unidad de Policía Naval;
 
-f) Unidad de Investigación y Desarrollo Tecnológico, y
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-g) Direcciones Generales:
+f) Unidad de Investigación y Desarrollo Tecnológico;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+g) Unidad Naval de Protección Civil;
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+h) Unidad de la Gubernatura del Archipiélago Islas Marías;
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+i) Coordinación General de Puertos y Marina Mercante, y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+j) Direcciones Generales:
 
 1. De Construcciones Navales;
 
 2. De Servicios Generales e Hidrográficos;
 
-3. De Recursos Humanos;
+3. De Obras y Dragado;
 
-4. De Administración y Finanzas;
+4. De Recursos Humanos;
 
-5. De Puertos;
+5. De Administración y Finanzas;
 
-6. De Marina Mercante, y
+6. De Puertos;
 
-7. De Fomento y Administración Portuaria;
+7. De Marina Mercante, y
+
+8. De Fomento y Administración Portuaria;
 
 III. Órganos Colegiados:
 
@@ -267,55 +287,33 @@ XIV. Establecer la coordinación operativa del Sistema Nacional de Alerta de Tsu
 
 XV. Aplicar la autoridad en materia de vertimientos de desechos y otras materias al mar distintas al de aguas residuales, así como otorgar y cancelar los permisos en las zonas marinas mexicanas, a través de las regiones, zonas y sectores navales, de conformidad con la Ley de Vertimientos en las Zonas Marinas Mexicanas y demás disposiciones jurídicas aplicables;
 
-XVI. Presidir el Comité Consultivo Nacional de Normalización de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-XVII. Las demás que le confieran otras disposiciones jurídicas, así como las funciones que le encomiende la persona titular de la Secretaría.
+XVI. Presidir el Comité Consultivo Nacional de Normalización de la Secretaría, así como coordinar la elaboración de normas oficiales mexicanas competencia de ésta, y designar a las personas servidoras públicas adscritas a esta Subsecretaría que participarán con voz y voto en los comités consultivos nacionales de normalización de otras dependencias o entidades de la Administración Pública Federal cuando incidan en las atribuciones de la Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Ejercer la Autoridad Marítima Nacional, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Las demás que le confieran otras disposiciones jurídicas, así como las funciones que le encomiende la persona titular de la Secretaría.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
 ### CAPÍTULO IV. De las Facultades de la Persona Titular de la Coordinación General de Puertos y Marina Mercante
 
 ###### Artículo 8.
 
-La persona titular de la Coordinación General de Puertos y Marina Mercante será de la categoría de Almirante en activo de la Armada o marino mercante con grado de Capitán de Altura o Jefe de Máquinas de la marina mercante mexicana, mismo que será designado por la persona titular de la Secretaría.
+(DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 9.
 
-La persona titular de la Coordinación General de Puertos y Marina Mercante tiene las facultades siguientes:
-
-I. Conducir la planeación de las Unidades Administrativas que tenga adscritas, de conformidad con las políticas y lineamientos que al efecto establezca la persona titular de la Secretaría, en términos de lo dispuesto en el Plan Nacional de Desarrollo y los programas correspondientes;
-
-II. Someter a la aprobación de la persona titular de la Secretaría los estudios, proyectos y acuerdos internos respecto de los asuntos de su competencia;
-
-III. Vigilar que las atribuciones de las Unidades Administrativas que tenga adscritas se realicen de conformidad con las disposiciones jurídicas aplicables;
-
-IV. Programar, controlar y evaluar el funcionamiento de las Unidades Administrativas que tenga adscritas, así como dictar las medidas necesarias para su mejoramiento administrativo, la desconcentración administrativa y la delegación de facultades en servidores públicos subalternos;
-
-V. Apoyar la capacitación técnica del personal de las Unidades Administrativas que tenga adscritas;
-
-VI. Supervisar la formulación del anteproyecto de presupuesto anual de egresos de las Unidades Administrativas que tenga adscritas;
-
-VII. Otorgar los permisos y autorizaciones correspondientes al ámbito de sus atribuciones, así como declarar administrativamente su nulidad o revocación, sin perjuicio de que dichas facultades puedan ser delegadas;
-
-VIII. Suscribir los contratos, convenios, acuerdos y documentos relativos al ejercicio de sus facultades y aquellos que le sean señalados por delegación o le correspondan por suplencia;
-
-IX. Emitir disposiciones y acuerdos administrativos relativos al ejercicio de sus facultades;
-
-X. Emitir dictamen en relación con las licitaciones públicas, que se lleven a cabo a solicitud de las Unidades Administrativas que tenga adscritas, en los términos que establezcan las disposiciones jurídicas aplicables;
-
-XI. Emitir opinión respecto de los contratos, convenios, concesiones, permisos y autorizaciones que celebre u otorgue la Secretaría cuando contengan aspectos de su competencia;
-
-XII. Proponer la elaboración de normas oficiales mexicanas en el ámbito de su competencia;
-
-XIII. Someter a la consideración de la persona titular de la Secretaría las propuestas de organización de las Unidades Administrativas que tenga adscritas;
-
-XIV. Resolver los recursos administrativos que, conforme a las disposiciones jurídicas aplicables, le corresponda;
-
-XV. Expedir copias certificadas de documentos o constancias que existan en los archivos a su cargo, cuando proceda en términos de las disposiciones jurídicas aplicables, y
-
-XVI. Las demás que le confieran otras disposiciones jurídicas y aquellas que le correspondan a las Unidades Administrativas que tenga adscritas, así como las funciones que le encomiende la persona titular de la Secretaría.
+(DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 10.
 
-La Coordinación General de Puertos y Marina Mercante, para el ejercicio de sus atribuciones, se auxiliará por las Direcciones que orgánicamente dependan de esta.
+(DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 ### CAPÍTULO V. De las Facultades de la Persona Titular de la Oficialía Mayor
 
@@ -511,15 +509,29 @@ XLIII. Las demás que le confieran otras disposiciones jurídicas, así como las
 
 La persona titular de la Jefatura del Estado Mayor General de la Armada, para el ejercicio de las facultades que le confiere el artículo anterior, se auxiliará por la Subjefatura Operativa, la Subjefatura Administrativa, las Coordinadoras, las Jefaturas de Sección, las Jefaturas de Unidades y demás personal que se requiera para el cumplimiento de las atribuciones del Estado Mayor y se encuentre autorizado presupuestalmente.
 
-### CAPÍTULO VIII. De las Atribuciones Genéricas de la Universidad Naval, de las Jefaturas de Unidad y Direcciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO VIII
+
+De las Atribuciones Genéricas de la Universidad Naval, de las Jefaturas de Unidad, de la Coordinación General de Puertos y Marina Mercante y de las Direcciones Generales
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-Al frente de la Universidad Naval, de las Jefaturas de Unidad y Direcciones Generales, habrá personas titulares de la Rectoría, de las Jefaturas de Unidad y de las Direcciones Generales, respectivamente, quienes serán responsables ante sus superiores del funcionamiento de su Unidad Administrativa y se auxiliarán por las Direcciones que orgánicamente dependan de estas.
+Al frente de la Rectoría de la Universidad Naval, de las Jefaturas de Unidad, de la Coordinación General de Puertos y Marina Mercante y de las Direcciones Generales, habrá una persona titular quien será responsable ante sus superiores del funcionamiento de su Unidad Administrativa y se auxiliará por las Direcciones Generales que orgánicamente se le adscriban.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 15 Bis.
+
+La persona titular de la Coordinación General de Puertos y Marina Mercante será de la categoría de Almirante en activo de la Armada o con grado de Capitán de Altura o Jefe de Máquinas de la marina mercante mexicana, misma que será designada por la persona titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 16.
 
-La Rectoría de la Universidad Naval, las Jefaturas de Unidad y las Direcciones Generales tienen las atribuciones genéricas siguientes:
+La Rectoría de la Universidad Naval, las Jefaturas de Unidad, la Coordinación General de Puertos y Marina Mercante y las Direcciones Generales tienen las atribuciones genéricas siguientes:
 
 I. Planear, organizar, dirigir, controlar y evaluar el desarrollo de los programas, atribuciones y funciones encomendadas a las unidades administrativas a su cargo;
 
@@ -563,9 +575,11 @@ XVII. Autorizar por escrito, conforme a las necesidades del servicio y de acuerd
 
 XVIII. Las demás que le confieran otras disposiciones jurídicas, así como las funciones que le encomiende la persona titular de la Secretaría.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
 ### CAPÍTULO IX
 
-De las Atribuciones Específicas de la Universidad Naval, de la Unidad de Promoción y Protección de los Derechos Humanos, de la Unidad Jurídica, de la Unidad de Capitanías de Puerto y Asuntos Marítimos, de la Unidad de Policía Naval y de la Unidad de Investigación y Desarrollo Tecnológico
+De las Atribuciones Específicas de la Universidad Naval, de la Unidad de Promoción y Protección de los Derechos Humanos, de la Unidad Jurídica, de la Unidad de Capitanías de Puerto y Asuntos Marítimos, de la Unidad de Policía Naval, de la Unidad de Investigación y Desarrollo Tecnológico, de la Unidad Naval de Protección Civil, de la Unidad de la Gubernatura del Archipiélago Islas Marías y de la Coordinación General de Puertos y Marina Mercante
 
 ###### Artículo 17.
 
@@ -699,15 +713,21 @@ I. Planear, organizar, coordinar, controlar y conducir el ejercicio de la Autori
 
 a) Salvaguarda de la vida humana en la mar;
 
-b) Seguridad marítima;
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+b) Seguridad marítima y portuaria;
 
 c) Salvamento en caso de accidentes o incidentes de embarcaciones;
 
 d) Control de tráfico marítimo;
 
-e) Administración y operación del señalamiento marítimo, y
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-f) Regulación de la seguridad de la navegación en los términos que establezcan las disposiciones jurídicas aplicables, así como controlar los servicios de ayudas a la navegación y radiocomunicación marítima;
+e) Administración y operación del señalamiento marítimo;
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+f) Regulación de la seguridad de la navegación en los términos que establezcan las disposiciones jurídicas aplicables, así como controlar los servicios de ayudas a la navegación y radiocomunicación marítima, y
 
 g) Protección marítima y portuaria, en los términos que establezcan los tratados internacionales y las leyes en la materia;
 
@@ -715,21 +735,33 @@ II. Dirigir, coordinar y supervisar a las Capitanías de Puerto, en el ejercicio
 
 III. Ejercer las atribuciones previstas en el artículo 8, fracciones II, V, VI, IX, X, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV XXV, XXVI, XXVII, XXVIII, XXIX y XXX de la Ley de Navegación y Comercio Marítimos, para lo cual, cuando lo estime necesario, podrá auxiliarse de las Capitanías de Puerto;
 
-IV. Proponer a la persona titular de la Secretaría el establecimiento de la jurisdicción territorial y marítima de las Capitanías de Puerto;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV. Proponer a la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría, el establecimiento de la jurisdicción territorial y marítima de las capitanías de puerto;
 
 V. Designar a una Capitanía de Puerto como regional, cuando en una entidad federativa con puertos habilitados se encuentren más de una Capitanía de Puerto.
 
 Para efectos del párrafo anterior, la Capitanía de Puerto regional además de ejercerlas (sic) atribuciones de una Capitanía de Puerto, le corresponderá las funciones de coordinación y representación administrativa de las otras Capitanías que se encuentran en la región a su cargo;
 
-VI. Proponer a la persona titular de la Secretaría la designación y remoción de los titulares de las Capitanías de Puerto;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+VI. Proponer a la persona titular de la Secretaría, a través de la persona titular de la Subsecretaría, la designación y remoción de las personas titulares de las capitanías de puerto;
 
 VII. Autorizar la habilitación de delegados honorarios para controlar el arribo y despacho de las embarcaciones turísticas o de recreo;
 
-VIII. Supervisar los casos de arribada forzosa o imprevista de embarcaciones que autoricen las Capitanías de Puerto en su jurisdicción;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Supervisar los casos de arribada forzosa o imprevista de embarcaciones;
 
 IX. Programar, establecer, operar y controlar el señalamiento marítimo y determinar de conformidad con las disposiciones jurídicas aplicables los términos y condiciones a que deberán apegarse los concesionarios de una administración portuaria integral, así como las terminales, marinas, instalaciones portuarias y vías navegables en esta materia;
 
-X. Participar con la Coordinación General de Puertos y Marina Mercante, en el establecimiento de áreas marítimas para fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes a los puertos;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+X. Determinar las áreas marítimas para fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes a los puertos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+X Bis. Solicitar opinión a la Coordinación General de Puertos y Marina Mercante en materia de fomento del desarrollo portuario;
 
 XI. Participar en el ámbito de su competencia, con las dependencias de la Administración Pública Federal que correspondan en el establecimiento de las áreas de seguridad, en las instalaciones y áreas de explotación y exploración de recursos naturales en aguas de jurisdicción federal;
 
@@ -739,17 +771,27 @@ XIII. Ordenar las investigaciones y actuaciones en materia de accidentes e incid
 
 XIV. Autorizar:
 
-a) La dimisión de bandera y cancelación de la matrícula de las embarcaciones y de los artefactos navales mayores de trescientas unidades de arqueo bruto, y
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-b) A través de la Capitanía de Puerto el abanderamiento, la matriculación, la señal distintiva, la dimisión de bandera y la cancelación de matrícula, a embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto;
+a) La matriculación, el abanderamiento, la asignación de señal distintiva de llamada, la dimisión de bandera, la cancelación del certificado de matrícula y la baja de dicha señal distintiva de las embarcaciones y de los artefactos navales mayores de trescientas unidades de arqueo bruto, y
 
-XV. Establecer los lineamientos que regulen la inspección, verificación, auditoría y certificación de las embarcaciones y artefactos navales mexicanos, incluidas las aplicables a las instalaciones de servicios de recepción de desechos, los puertos, instalaciones portuarias y terminales marítimas;
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-XVI. Establecer los lineamientos que regulen las inspecciones a las embarcaciones y artefactos naval (sic) y artefactos navales extranjeros, de conformidad con los tratados internacionales y la legislación nacional aplicable;
+b) La matriculación, el abanderamiento, la asignación de señal distintiva de llamada, la dimisión de bandera, la cancelación del certificado de matrícula y la baja de dicha señal distintiva de las embarcaciones y de los artefactos navales menores de trescientas unidades de arqueo bruto, a través de las capitanías de puerto;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XV. Establecer los lineamientos que regulen la inspección, verificación, auditoría y certificación de las embarcaciones y artefactos navales mexicanos, incluidas las aplicables a las instalaciones de servicios, instalaciones receptoras de desechos, puertos, instalaciones portuarias y terminales marítimas;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Establecer los lineamientos que regulen las inspecciones a las embarcaciones y artefactos navales extranjeros, de conformidad con los tratados internacionales y la legislación nacional aplicable;
 
 XVII. Efectuar las inspecciones, verificaciones y certificaciones a que se refiere la Ley de Navegación y Comercio Marítimos, por si o por conducto de terceros debidamente autorizados;
 
-XVIII. Coadyuvar con las dependencias competentes de la Administración Pública Federal en las actividades de protección al medio ambiente, sin perjuicio de las atribuciones de estas;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVIII. Coadyuvar con las dependencias competentes de la Administración Pública Federal en las actividades de prevención, protección y conservación del medio ambiente marino, sin perjuicio de las atribuciones de dichas dependencias;
 
 XIX. Otorgar, revocar o suspender permisos y autorizaciones de navegación para prestar servicios en vías generales de comunicación por agua, en los términos de la Ley de Navegación y Comercio Marítimos, así como verificar su cumplimiento;
 
@@ -757,15 +799,23 @@ XX. Supervisar el otorgamiento de permisos, así como las revocaciones y suspens
 
 XXI. Supervisar y coordinar con las Capitanías de Puerto los desguaces, remoción y declaratorias de amarre temporal y de abandono de embarcaciones y artefactos navales que emita la persona titular de la Capitanía de Puerto a favor de la Nación;
 
-XXII. Administrar a través de las Capitanías de Puerto los registros nacionales de embarcaciones y de la gente de mar;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Administrar el Registro Público Marítimo Nacional, así como los registros nacionales de embarcaciones y de la gente de mar;
 
 XXIII. Imponer las sanciones establecidas en la Ley de Navegación y Comercio Marítimos, su Reglamento y tratados internacionales en las materias de su competencia por sí o a través de las Capitanías de Puerto, conforme a lo previsto en dichos ordenamientos y demás disposiciones jurídicas aplicables;
 
-XXIV. Certificar singladuras y expedir las libretas de mar e identidad marítima del personal embarcado de la marina mercante mexicana, a través de las Capitanías de Puerto;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-XXV. Coordinar a través de las Capitanías de Puerto, el cuerpo de vigilancia, seguridad y auxilio en las zonas marinas mexicanas y para la navegación interior;
+XXIV. Certificar las singladuras, así como expedir, renovar, suspender y, en su caso, revocar los documentos de identidad marítima, libretas de mar y demás documentos que acreditan la competencia del personal de la marina mercante para prestar servicios a bordo de las embarcaciones y artefactos navales, por si o a través de las capitanías de puerto;
 
-XXVI. Proponer a la persona titular de la Secretaría la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento, así como promover la difusión de las disposiciones en materia de seguridad y protección marítima y portuaria;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXV. Coordinar a través de las capitanías de puerto, el servicio de vigilancia, seguridad y auxilio en las zonas marinas mexicanas y para la navegación interior;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXVI. Proponer a la persona titular de la Subsecretaría la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento, así como promover la difusión de las disposiciones en materia de seguridad y protección marítima y portuaria;
 
 XXVII. Coordinar acciones con las autoridades federal, estatal y municipal en la aplicación de medidas de seguridad y protección marítima, así como de protección portuaria en los términos que establezcan las disposiciones jurídicas aplicables;
 
@@ -777,9 +827,53 @@ XXX. Supervisar y coordinar con las Capitanías de Puerto, la prestación de ser
 
 XXXI. Proponer y tramitar el establecimiento modificación y actualización de las cuotas y tarifas por concepto de pago de derechos y aprovechamientos relacionados con los trámites del ámbito de su competencia;
 
-XXXII. Registrar las bases y (sic) tarifarias de servicio regular de transporte de cabotaje de pasajeros, y
+XXXII. (DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-XXXIII. Integrar la información estadística del transporte marítimo mercante.
+XXXIII. (DEROGADO, D.O.F. 24 DE NOVIEMBRE DE 2022)
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXIV. Otorgar autorización a personas físicas o morales para actuar como agente naviero general, agente naviero consignatario de buques y agente naviero protector, vigilar su cumplimiento y, en su caso, revocar, cancelar o suspender la autorización concedida, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXV. Otorgar las autorizaciones para prestar el servicio de pilotaje en vías generales de comunicación por agua, de acuerdo con las disposiciones jurídicas aplicables, así como vigilar su cumplimiento y, en su caso, revocarlas, cancelarlas o suspenderlas;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXVI. Proponer y tramitar el establecimiento, modificación y actualización de las cuotas y tarifas de los derechos y aprovechamientos correspondientes al Registro Público Marítimo Nacional;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXVII. Supervisar, a través de las capitanías de puerto, que la navegación y los servicios de pilotaje y remolque en los puertos se realicen en condiciones de seguridad;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXVIII. Realizar el proceso de normalización de las propuestas de normas oficiales mexicanas competencia de la Secretaría, así como participar con otras dependencias y entidades de la Administración Pública Federal en la elaboración de normas oficiales mexicanas que les correspondan emitir;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXIX. Analizar y, en su caso, implementar la normatividad internacional de observancia obligatoria en el ámbito de su competencia; vigilar su cumplimiento, difusión y comunicación correspondiente a los organismos internacionales en materia marítima, así como proponer la actualización de la normatividad nacional en dicha materia, para su armonización con los tratados internacionales de los que el Estado mexicano es parte, en coordinación con las unidades administrativas competentes de la Secretaría;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XL. Recibir y canalizar ante las autoridades correspondientes, por sí o a través de las capitanías de puerto, las reclamaciones laborales de los tripulantes y los trabajadores de las embarcaciones y artefactos navales en términos de la Ley de Navegación y Comercio Marítimos;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XLI. Coordinar la participación de los representantes de la Secretaría ante los organismos nacionales e internacionales en materia marítima, con la finalidad de consolidar el posicionamiento oficial del ejercicio de la Autoridad Marítima Nacional;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XLII. Participar en organismos internacionales en materia marítima e intervenir en las negociaciones de acuerdos interinstitucionales y tratados internacionales que celebre el Estado mexicano con otros países dentro del ámbito de su competencia, en coordinación con las dependencias competentes de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XLIII. Administrar una ventanilla única de gestión de trámites para la recepción, control y entrega de las resoluciones de los trámites que deriven de la Ley de Navegación y Comercio Marítimos, la Ley de Puertos y sus reglamentos, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XLIV. Proponer la expedición de normas técnicas en las materias de su competencia, en coordinación con otras dependencias y entidades de la Administración Pública Federal, conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 21.
 
@@ -827,9 +921,87 @@ IV. Establecer y mantener vínculos con instituciones nacionales y extranjeras e
 
 V. Participar en la supervisión y evaluación de las actividades de investigación y desarrollo de tecnologías que realicen otras instituciones y empresas públicas y privadas a la Secretaría;
 
-VI. Emitir opinión, en el ámbito de competencia de la Secretaría, sobre solicitudes efectuadas por instituciones u organismos nacionales e internacionales en materia de tecnologías relacionadas con el desarrollo marítimo nacional, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal, y
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-VII. Representar a la Secretaría por acuerdo de la persona de titular de la Secretaría, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en materia de investigación científica y desarrollo tecnológico e innovación que sean de interés para la Secretaría.
+VI. Emitir opinión, en el ámbito de competencia de la Secretaría, sobre solicitudes efectuadas por instituciones u organismos nacionales e internacionales en materia de tecnologías relacionadas con el desarrollo marítimo nacional, sin perjuicio de las atribuciones que correspondan a otras dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+VII. Representar a la Secretaría por acuerdo de la persona titular de la Secretaría, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en materia de investigación científica y desarrollo tecnológico e innovación que sean de interés para la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Supervisar los proyectos de investigación, desarrollo tecnológico e innovación a cargo de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 24 Bis.
+
+La Unidad Naval de Protección Civil tiene las atribuciones siguientes:
+
+I. Coordinar con las unidades administrativas competentes de la Secretaría y con base en las disposiciones jurídicas aplicables, la definición de los rubros y claves para el ejercicio de los recursos previstos en el Presupuesto de Egresos de la Federación para la atención de emergencias y daños ocasionados a las instalaciones de la Armada por fenómenos naturales perturbadores;
+
+II. Gestionar ante la Secretaría de Hacienda y Crédito Público y la Coordinación Nacional de Protección Civil, las solicitudes de recursos por concepto de apoyos parciales inmediatos, así como para la atención de daños ocasionados a las instalaciones de la Armada por fenómenos naturales perturbadores;
+
+III. Coordinar con las Unidades Administrativas y Operativas de la Secretaría y con la participación de las dependencias competentes de la Administración Pública Federal, sin perjuicio de sus atribuciones, la adquisición, control y distribución de los insumos y apoyos que la Secretaría proporcionará en las actividades de protección civil para la atención de emergencias ocasionadas por fenómenos naturales, conforme a los lineamientos emitidos en dicha materia;
+
+IV. Elaborar, actualizar, operar y vigilar el programa interno de protección civil de la Secretaría;
+
+V. Coordinar los apoyos que proporcionarán las brigadas de apoyo móvil de la Secretaría en casos de emergencia y zonas de desastre ocasionados por fenómenos naturales perturbadores;
+
+VI. Administrar y controlar el equipamiento de apoyo de la Secretaría para atender emergencias ocasionadas por fenómenos naturales perturbadores;
+
+VII. Dar seguimiento a las acciones que la Secretaría implemente en materia de protección civil, y
+
+VIII. Coordinar con las dependencias competentes de la Administración Pública Federal y la autoridad educativa naval, la capacitación y adiestramiento en temas de protección civil que deban considerarse en los planes y programas de estudio que impartan los establecimientos educativos de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 24 Ter.
+
+La Unidad de la Gubernatura del Archipiélago Islas Marías tiene las atribuciones siguientes:
+
+I. Coordinar la atención de estrategias, programas o acciones para el desarrollo sostenible; recreación de la cultura nacional e indígena; protección ambiental; turismo de bajo impacto ambiental, y desarrollo educativo del territorio que conforma el archipiélago Islas Marías, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Coordinar con las Unidades Administrativas y Operativas de la Secretaría y demás autoridades federales y locales competentes, sin perjuicio de sus atribuciones, en la administración y control de los insumos y apoyos que se reciban para la atención de las estrategias, programas o acciones a que se refiere la fracción anterior, y
+
+III. Dar seguimiento a las estrategias, programas o acciones que realice la Comisión Presidencial encargada de la Coordinación Interinstitucional del Archipiélago Islas Marías.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 24 Quater.
+
+La Coordinación General de Puertos y Marina Mercante tiene las atribuciones siguientes:
+
+I. Someter a la aprobación de la persona titular de la Secretaría los estudios, proyectos y acuerdos internos respecto de los asuntos de su competencia;
+
+II. Vigilar que las atribuciones de las Unidades Administrativas que tenga adscritas se realicen de conformidad con las disposiciones jurídicas aplicables;
+
+III. Dictar las medidas necesarias para el mejoramiento administrativo y la desconcentración administrativa de las Unidades Administrativas que tenga adscritas, así como para la delegación de facultades en personas servidoras públicas subalternas;
+
+IV. Apoyar la capacitación técnica del personal de las Unidades Administrativas que tenga adscritas;
+
+V. Supervisar la formulación del anteproyecto de presupuesto anual de egresos de las Unidades Administrativas que tenga adscritas;
+
+VI. Otorgar los permisos y autorizaciones correspondientes al ámbito de sus atribuciones, así como declarar administrativamente su nulidad o revocación, sin perjuicio de que dichas atribuciones puedan ser delegadas;
+
+VII. Emitir disposiciones y acuerdos administrativos relativos al ejercicio de sus atribuciones;
+
+VIII. Emitir dictamen a solicitud de las Unidades Administrativas que tenga adscritas, respecto de las licitaciones públicas que éstas lleven a cabo, en los términos que establezcan las disposiciones jurídicas aplicables;
+
+IX. Emitir opinión sobre las concesiones, permisos y autorizaciones que otorgue la Secretaría cuando contengan aspectos que se relacionan con su competencia;
+
+X. Proponer la elaboración de normas oficiales mexicanas que se refieran a las materias de su competencia;
+
+XI. Someter a la consideración de la persona titular de la Secretaría las propuestas de organización de las Unidades Administrativas que tenga adscritas;
+
+XII. Resolver los recursos administrativos que, conforme a las disposiciones jurídicas aplicables, le corresponda;
+
+XIII. Coordinar la elaboración de la opinión que se emita sobre los proyectos y programas de desarrollo portuario o marítimo;
+
+XIV. Coordinar las acciones que se requieran con autoridades de los tres órdenes de gobierno en el desarrollo del sector marítimo portuario, y
+
+XV. Las que le correspondan a las Unidades Administrativas que tenga adscritas.
 
 ### CAPÍTULO X. De las Direcciones Generales
 
@@ -867,15 +1039,15 @@ V. Definir las normas y lineamientos para los sistemas de seguridad de polvorine
 
 VI. Emitir y difundir las normas, procedimientos, instructivos y manuales de mantenimiento del armamento naval;
 
-VII. Supervisar las actividades de las Brigadas de Construcción, Dragas y Residencia de Dragado de la Secretaría;
+VII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-VIII. Ordenar y supervisar la elaboración y ejecución de los planes y programas de las obras de dragado de la Secretaría y de aquellos que se requiera para coadyuvar en el desarrollo marítimo portuario;
+VIII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-IX. Proponer para la autorización de su superior jerárquico, el programa de adquisiciones de maquinaria, refacciones, herramientas y equipos complementarios necesarios para mantener la operatividad y modernización de las unidades de dragado;
+IX. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-X. Supervisar la opinión que se emita sobre los proyectos y programas de desarrollo portuario o marítimo, en materia de seguridad nacional;
+X. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-XI. Coordinar las acciones que se requieran con autoridades de los tres niveles de gobierno, en el desarrollo del sector marítimo portuario;
+XI. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 XII. Establecer y mantener enlaces de comunicaciones de voz, datos y video seguras, confiables y oportunas para los servicios de la Secretaría;
 
@@ -908,6 +1080,54 @@ XXV. Promover el desarrollo y operación de las redes mareográfica y meteoroló
 XXVI. Representar a la Secretaría por acuerdo de la persona titular de la Secretaría, en comités, congresos, conferencias y demás eventos, nacionales o internacionales, en las materias a que se refiere el presente artículo, y
 
 XXVII. Proponer a la persona titular de la Subsecretaría de Marina, el otorgamiento de los permisos de vertimientos en las zonas marinas mexicanas, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 27 Bis.
+
+La Dirección General de Obras y Dragado tiene las atribuciones siguientes:
+
+I. Participar en la planeación diseño, coordinación y ejecución de las obras de infraestructura marítimas y de dragado que requieran la Secretaría o cualquier otra autoridad de los tres órdenes de gobierno o particulares, en términos de las disposiciones jurídicas aplicables;
+
+II. Coordinar con la Oficialía Mayor la planeación, diseño, programación y presupuestación anual para la contratación de obra de infraestructura pública que requiera la Secretaría conforme al presupuesto de inversión autorizado a ésta y las prioridades determinadas por la Subsecretaría de Marina;
+
+III. Acordar las necesidades de obra pública para las instalaciones de la Armada en el corto, mediano y largo plazo, en términos de las disposiciones jurídicas aplicables;
+
+IV. Dirigir la ejecución de las obras públicas y servicios relacionados con las mismas de la Secretaría, conforme a las disposiciones jurídicas aplicables, hasta la entrega del bien al usuario final;
+
+V. Asesorar a la Subsecretaría de Marina, técnica y operativamente, sobre los proyectos de obra pública y de todo tipo de infraestructura a realizarse en vías generales de comunicación por agua y sus partes integrantes;
+
+VI. Supervisar, en coordinación con la Oficialía Mayor, la planeación y contratación de la construcción, remodelación, reparación y mantenimiento de obras que requiera la Secretaría;
+
+VII. Emitir los proyectos de obra de infraestructura a ejecutarse por las unidades y brigadas de construcción adscritas a los mandos navales;
+
+VIII. Emitir los proyectos de obra de dragado a ejecutarse por las residencias y unidades de superficie de dragado adscritas a los mandos navales;
+
+IX. Ordenar la implementación de los programas y planes para ejecutar las obras de dragado en canales de acceso y frentes de agua de mandos navales de la Secretaría y de obras de dragado en puertos, ríos, lagunas y esteros que sean ordenadas por el Alto Mando;
+
+X. Participar en los procedimientos de contratación de dragado y validar los aspectos técnicos de los contratos y convenios que deriven de dichos procedimientos;
+
+XI. Proponer la actualización de las cuotas por los diferentes servicios que presta la Secretaría relacionados con el dragado;
+
+XII. Coordinar técnica y operativamente las actividades de las unidades de dragado de la Secretaría;
+
+XIII. Acordar el programa de adquisiciones de maquinaria, refacciones, herramientas y equipos necesarios para el funcionamiento de las unidades de dragado de la Secretaría;
+
+XIV. Emitir opinión técnica sobre los estudios de impacto de los proyectos de construcción de todo tipo de vías generales de comunicación por agua y sus partes integrantes;
+
+XV. Participar y asesorar a las entidades paraestatales sectorizadas a la Secretaría para el logro de sus metas y objetivos contemplados en el Plan Nacional de Desarrollo y en el Programa Sectorial de Marina;
+
+XVI. Participar en el desarrollo de la infraestructura, administración y seguridad portuaria nacional;
+
+XVII. Establecer acuerdos para impulsar la infraestructura marítima, portuaria y dragados que permitan desarrollar el sector de la marina mercante, turístico y pesquero nacional;
+
+XVIII. Construir y supervisar obras marítimas y de dragado en los puertos, terminales, marinas e instalaciones portuarias, que no hayan sido objeto de concesión o permiso, cuando así lo requiera el interés público;
+
+XIX. Autorizar obras marítimas y de dragado, de acuerdo con las especificaciones de construcción en los puertos, terminales, marinas e instalaciones portuarias y demás disposiciones jurídicas aplicables;
+
+XX. Verificar que la construcción de obras marítimas y de dragado que integran los puertos, terminales, marinas e instalaciones portuarias se lleven a cabo, conforme a las condiciones y normas técnicas aplicables, así como autorizar el inicio de dichas obras, y
+
+XXI. Verificar el cumplimiento de las obligaciones que señalen las autorizaciones y demás disposiciones jurídicas aplicables en el ámbito de su competencia.
 
 ###### Artículo 28.
 
@@ -1023,13 +1243,15 @@ III. Proponer la delimitación y determinación de los recintos portuarios de lo
 
 IV. Tramitar el otorgamiento de concesiones a que se refiere la Ley de Puertos, y celebrar los concursos públicos correspondientes, para la administración portuaria integral, así como para el uso, aprovechamiento, construcción, operación y explotación de bienes de dominio público en los puertos, terminales y marinas, y tramitar su prórroga, modificación, renovación, ampliación, revocación, rescate o renuncia, así como la cesión total de las concesiones;
 
-V. Construir y supervisar obras en los puertos, terminales, marinas e instalaciones portuarias, que no hayan sido objeto de concesión o permiso, cuando así lo requiera el interés público;
+V. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 VI. Dar mantenimiento a la infraestructura a su cargo;
 
-VII. Autorizar obras marítimas y de dragado, así como fijar las especificaciones de construcción en los puertos, terminales, marinas e instalaciones portuarias, así como proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Verificar que la construcción de obras que integran los puertos, terminales, marinas e instalaciones portuarias se lleven a cabo, conforme a las condiciones y normas técnicas aplicables, así como autorizar inicio de obras e inicio de operación;
+VII. Fijar las especificaciones de construcción en los puertos, terminales, marinas e instalaciones portuarias, así como proponer la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento;
+
+VIII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 IX. Autorizar los programas maestros de desarrollo portuario y sus modificaciones sustanciales que presenten los administradores portuarios, así como registrar las modificaciones menores o no substanciales a dichos programas;
 
@@ -1047,7 +1269,9 @@ XV. Resolver las quejas que presenten los navieros en relación con las posicion
 
 XVI. Integrar la información estadística del movimiento y operación portuarios (sic) y llevar el catastro de las obras e instalaciones portuarias;
 
-XVII. Verificar el cumplimiento de las obligaciones que señalen las concesiones, permisos, autorizaciones, programas maestros de desarrollo portuario y demás disposiciones jurídicas aplicables en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XVII. Verificar el cumplimiento de las obligaciones que señalen las concesiones, permisos, programas maestros de desarrollo portuario y demás disposiciones jurídicas aplicables en el ámbito de su competencia;
 
 XVIII. Apercibir a los infractores, así como imponer, graduar, reducir y cancelar, en su caso, las sanciones establecidas en las disposiciones jurídicas aplicables en el ámbito de su competencia y, cuando proceda, dar aviso a las autoridades hacendarias que corresponda (sic) y efectuar las notificaciones respectivas;
 
@@ -1057,9 +1281,17 @@ XX. Otorgar los permisos para construir y usar embarcaderos, atracaderos, botade
 
 XXI. Autorizar a las personas físicas y morales para llevar a cabo la función de certificación de laboratorios de prueba, de conformidad con las disposiciones jurídicas aplicables;
 
-XXII. Participar por sí o por conducto de las Capitanías de Puerto en los consejos de administración de las administraciones portuarias integrales de carácter estatal o municipal, y
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-XXIII. Acreditar, designar y comisionar en todo el territorio nacional y en las zonas sobre las que la nación ejerce su soberanía y jurisdicción, a servidores públicos de la Secretaría que tendrán facultades de verificación en términos de la Ley de Puertos, su Reglamento y demás disposiciones jurídicas aplicables y podrán actuar en los asuntos que les ordene y comisione esta Dirección General.
+XXII. Participar por sí o por conducto de las capitanías de puerto en los consejos de administración de las administraciones portuarias integrales de carácter estatal o municipal;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXIII. Acreditar, designar y comisionar en todo el territorio nacional y en las zonas sobre las que la Nación ejerce su soberanía y jurisdicción, a personas servidoras públicas de la Secretaría para que realicen verificaciones en términos de la Ley de Puertos, su Reglamento y demás disposiciones jurídicas aplicables, así como para intervenir en los asuntos que les ordene y comisione esta Dirección General, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXIV. Participar en el desarrollo sustentable de las actividades portuarias, así como colaborar, en el ámbito de su competencia, con otras dependencias y entidades de la Administración Pública Federal en la aplicación de las disposiciones de carácter ambiental al sector portuario, sin perjuicio de las atribuciones de éstas.
 
 ###### Artículo 34.
 
@@ -1069,7 +1301,7 @@ La persona titular de la Dirección General de Puertos, para el ejercicio de sus
 
 La Dirección General de Marina Mercante tiene las atribuciones siguientes:
 
-I. Otorgar autorización a personas físicas o morales para actuar como agente naviero general, agente naviero consignatario de buques y agente naviero protector, vigilar su cumplimiento y, en su caso, revocar, cancelar o suspender la autorización concedida, de conformidad con las disposiciones jurídicas aplicables;
+I. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
 II. Organizar, promover y regular la formación y capacitación del personal de la marina mercante mexicana, así como expedir, controlar, renovar, suspender y revocar, en su caso y de conformidad con las disposiciones jurídicas aplicables, la documentación que acredite su aptitud para prestar servicios a bordo de las embarcaciones, que incluye la capacitación, expedición y terminación de los certificados de competencia de los pilotos de puerto;
 
@@ -1077,13 +1309,31 @@ III. Autorizar a las instituciones educativas que impartirán la educación mar�
 
 IV. Opinar respecto de las solicitudes de concesión para la construcción, operación y explotación de vías navegables;
 
-V. Otorgar los permisos y autorizaciones de navegación para prestar el servicio de pilotaje en vías generales de comunicación por agua, de acuerdo con las disposiciones jurídicas aplicables, así como vigilar su cumplimiento y, en su caso, revocarlos, cancelarlos o suspenderlos;
+V. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-VI. Proponer y tramitar el establecimiento, modificación y actualización de las cuotas y tarifas de los derechos y aprovechamientos relacionados con el servicio de pilotaje y los correspondientes al Registro Público Marítimo Nacional;
+VI. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-VII. Vigilar, en coordinación con la Unidad de Capitanías de Puerto y Asuntos Marítimos y a través de las Capitanías de Puerto, que la navegación y los servicios de pilotaje y remolque en los puertos se realicen en condiciones de seguridad, y
+VII. (DEROGADA, D.O.F. 24 DE NOVIEMBRE DE 2022)
 
-VIII. Establecer las medidas necesarias para mejorar la calidad y eficiencia de los servicios que presta esta Dirección General.
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Establecer las medidas necesarias para mejorar la calidad y eficiencia de los servicios que presta esta Dirección General;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+IX. Planear, formular e implementar las políticas y programas para el desarrollo del transporte por agua y de la marina mercante, de conformidad con lo previsto en la Ley de Navegación y Comercio Marítimos y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+X. Establecer las bases de regulación de tarifas en la prestación de los servicios marítimos en el territorio nacional, incluidos los de navegación costera y de aguas interiores, cuando en opinión de la Comisión Federal de Competencia Económica no existan condiciones de competencia efectiva;
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XI. Integrar la información estadística del transporte marítimo mercante, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XII. Opinar en las negociaciones respecto de tratados internacionales en materia de educación náutica, así como ser la ejecutora de éstos, en el ámbito de su competencia.
 
 ###### Artículo 36.
 
@@ -1127,9 +1377,17 @@ XVI. Participar en el desarrollo costero ordenado y sustentable y participar en 
 
 XVII. Promover la realización de estudios prospectivos y desarrollar, en el ámbito de competencia de la Secretaría, estrategias competitivas para la atracción de inversiones y nuevos negocios que constituyan opciones válidas de desarrollo futuro para los puertos, sin perjuicios de las atribuciones de otras dependencias y entidades de la Administración Pública Federal;
 
-XVIII. Fomentar la integración de negocios entre las entidades paraestatales sectorizadas a la Secretaría para reducir costos y agregar valor a la promoción conjunta de negocios con los clientes de los puertos, y
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
 
-XIX. Participar en organismos internacionales e intervenir en las negociaciones de convenios y tratados que celebre México con otros países en materia de fomento y desarrollo portuario en coordinación con las dependencias competentes de la Administración Pública Federal.
+XVIII. Fomentar la integración de negocios entre las entidades paraestatales sectorizadas a la Secretaría para reducir costos y agregar valor a la promoción conjunta de negocios con los clientes de los puertos;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Participar en organismos internacionales e intervenir en las negociaciones de convenios y tratados que celebre el Estado mexicano con otros países en materia de fomento y desarrollo portuario en coordinación con las dependencias competentes de la Administración Pública Federal, y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2022)</small>
+
+XX. Participar o intervenir en los procedimientos de contrataciones públicas en las materias de su competencia, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 38.
 
@@ -1248,3 +1506,15 @@ La transferencia señalada en el párrafo anterior incluirá la administración 
 SÉPTIMO.- A las unidades administrativas que se crean conforme al presente Reglamento, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Oficialía Mayor de la Secretaría de Marina.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de junio de 2021.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Marina, José Rafael Ojeda Durán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
