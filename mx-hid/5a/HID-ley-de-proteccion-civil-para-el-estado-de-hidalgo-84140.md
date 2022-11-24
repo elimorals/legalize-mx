@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2022-04-12"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -627,9 +627,9 @@ V. Coordinar y asesorar a las Coordinaciones de Protección Civil Municipales, a
 
 VI. Coordinar, supervisar y evaluar todas las acciones que se realicen en el ejercicio de las funciones de la Coordinación Estatal;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y querellarse ante éste cuando proceda, así como fungir como perito en la materia ante autoridades competentes;
+VII. Apoyar y asesorar al Ministerio Público en materia de protección civil y denunciar ante éste las conductas presumiblemente constitutivas de delito, así como fungir como perito en la materia ante autoridades competentes.
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1376,3 +1376,9 @@ P.O. 12 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 182 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 297 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 16 TER DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
