@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2022-04-12"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -211,11 +211,11 @@ VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud o jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física, color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física o mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -291,13 +291,19 @@ XXXI. Estigmatizar o negar derechos a personas con adicciones; que han estado o 
 
 XXXII. Quitar de la matrícula de cualquier centro educativo por condición de embarazo;
 
-XXXIII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-XXXIV. Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
+XXXIII. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXIV. Difundir sin consentimiento de la persona agraviada información sobre su condición y antecedentes de salud física o mental, o sobre cualquier otro dato personal sensible;
 
 XXXV. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales debido a embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud y por antecedentes penales;
 
-XXXVI. Estigmatizar y negar derechos a personas con VIH/SIDA;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XXXVI. Estigmatizar y negar derechos a personas con VIH/SIDA o cualquier condición o antecedentes de salud física o mental;
 
 XXXVII. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
 
@@ -1324,3 +1330,9 @@ P.O. 12 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 183 POR EL QUE SE ADICIONA LA FRACCIÓN XXII BIS AL ARTÍCULO 11 BIS DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 298 QUE REFORMA EL ARTÍCULO 11, Y EL ARTÍCULO 11 BIS FRACCIONES XXXIII, XXXIV Y XXXVI DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
