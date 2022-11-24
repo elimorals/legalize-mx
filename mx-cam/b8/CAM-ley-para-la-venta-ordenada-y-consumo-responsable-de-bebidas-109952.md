@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-venta-ordenada-y-consumo-responsable-de-bebidas-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2016-03-31"
+last_updated: "2022-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2015.
 
@@ -45,11 +45,11 @@ LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL EST
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en todo el Estado de Campeche, y tienen por objeto la protección de la salud como derecho humano reconocido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y en los tratados y demás instrumentos internacionales de los que el Estado mexicano es parte, así como regular todas las actividades destinadas a almacenar, distribuir, vender, comercializar, expender, ofrecer a título gratuito, consumir, promocionar, patrocinar y publicitar bebidas alcohólicas; además de establecer programas en materia de gestión de riesgos, prevención y reducción de daños asociados al abuso del consumo de bebidas alcohólicas.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 2.
 
-Es facultad del Titular del Poder Ejecutivo del Estado vigilar el cumplimiento y aplicación de la presente Ley, a través de las Secretarías de Salud, de Seguridad Pública, Gobierno, Desarrollo Económico, Educación, Turismo y Finanzas; así como del organismo descentralizado Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD); y los organismos desconcentrados, Consejo Estatal de Seguridad Pública del Estado de Campeche (CESS), Consejo Estatal Contra las Adicciones (CECA), la Comisión para la Protección Contra Riesgos Sanitarios (COPRISCAM) y la Junta Reguladora para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas en el Estado de Campeche.
+Es facultad de la Persona Titular del Poder Ejecutivo del Estado vigilar el cumplimiento y aplicación de la presente Ley, a través de las Secretarías de Salud, de Protección y Seguridad Ciudadana, de Gobierno, de Desarrollo Económico, de Educación, de Turismo y, de Administración y Finanzas; así como del Organismo Descentralizado denominado Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD); y los Organismos Desconcentrados denominados, Consejo Estatal de Seguridad Pública del Estado de Campeche (CESP), Consejo Estatal Contra las Adicciones (CECA), la Comisión para la Protección Contra Riesgos Sanitarios (COPRISCAM) y la Junta Reguladora para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas en el Estado de Campeche.
 
 ###### Artículo 3.
 
@@ -65,11 +65,15 @@ IV. Junta Reguladora: Junta Reguladora para la Venta Ordenada y Consumo Responsa
 
 V. Establecimientos: Son los que se dediquen al almacenamiento, distribución, expendio, venta y consumo de bebidas alcohólicas que sólo se autorizarán en los lugares que señale la presente Ley y que reúnan los requisitos previstos en la misma y en su Reglamento, previo el pago de los derechos y otros conceptos que fijen las leyes hacendarias que les sean aplicables.
 
-VI. Licencia: Es la autorización que otorga el Titular del Poder Ejecutivo del Estado, por conducto del Comisionado de la COPRISCAM, previa autorización de la Junta Reguladora, a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o consumo de bebidas alcohólicas en los locales o establecimientos que regula la presente Ley, entendiéndose siempre que es un acto administrativo discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante la autorización personal, transferible con autorización expresa de la Junta Reguladora y condicionada a los requerimientos de esta Ley. Consecuentemente, podrá cancelarse cuando no se cumpla con lo establecido en esta Ley, además de que a juicio del Titular del Poder Ejecutivo del Estado lo requiera el orden público, el interés público, o cuando medie algún otro motivo de interés general, quedando, además, sujeta a la revalidación anual.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VI. Licencia: Es la autorización que otorga la Persona Titular del Poder Ejecutivo del Estado, por conducto de la o el Comisionado de la COPRISCAM, previa autorización de la Junta Reguladora, a las personas físicas o morales que se dediquen al almacenamiento, distribución, venta o consumo de bebidas alcohólicas en los locales o establecimientos que regula la presente Ley, entendiéndose siempre que es un acto administrativo discrecional de la autoridad, que constituye exclusivamente, al otorgarse al solicitante la autorización personal, transferible con autorización expresa de la Junta Reguladora y condicionada a los requerimientos de esta Ley. Consecuentemente, podrá cancelarse cuando no se cumpla con lo establecido en esta Ley, además de que a juicio de la Persona Titular del Poder Ejecutivo del Estado lo requiera el orden público, el interés público, o cuando medie algún otro motivo de interés general, quedando, además sujeta a la revalidación anual;
 
 VII. Ley: Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche.
 
-VIII. Licenciatario: Titular de la licencia expedida bajo esta Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Licenciatario: a la Persona Titular de la Licencia expedida bajo esta Ley y su Reglamento.
 
 IX. Ofrecimiento de bebidas alcohólicas: Entrega de bebidas alcohólicas en forma gratuita, con fines comerciales en los establecimientos.
 
@@ -79,7 +83,9 @@ XI. Patrocinio de bebidas alcohólicas: Apoyo o financiamiento de una actividad,
 
 XII. Permiso: Es la autorización eventual o temporal que otorga la primera autoridad municipal a las personas físicas o morales para venta y consumo de bebidas alcohólicas, con los requisitos y formalidades que establece esta Ley.
 
-XIII. Permisionario: Titular del permiso expedido conforme a esta Ley y Reglamento.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Permisionario: a la Persona Titular del Permiso expedido conforme a esta Ley y su Reglamento.
 
 XIV. Polígonos turísticos: Espacios públicos cuyas áreas comprendidas se encuentren destinadas preponderantemente al uso turístico; podrán integrarse con vías públicas destinadas al tránsito peatonal y, en su caso, aquellas en las cuales sea viable declararlas para efecto de alojamiento de instalaciones o mobiliario urbano, en donde no debe circular ningún tipo de vehículo.
 
@@ -175,9 +181,11 @@ Los establecimientos a los que se refiere el artículo anterior sólo se autoriz
 
 En ningún local o establecimiento se podrá almacenar, distribuir, vender o consumir bebidas alcohólicas en envase abierto o cerrado, sin contar con la licencia o permiso a que se refiere esta Ley. En consecuencia, ningún local o establecimiento podrá iniciar sus actividades, operar o funcionar sin haber obtenido antes la licencia o permiso, según sea el caso.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-El Secretario de Finanzas podrá expedir circulares y disposiciones administrativas de carácter general en materia de pago de derechos y demás aspectos de naturaleza fiscal relacionados con su competencia, que establezcan los criterios de interpretación para la aplicación exacta de las disposiciones que establece esta Ley y su Reglamento. Para tal efecto deberá publicarlas en el Periódico Oficial del Estado.
+La Persona Titular de la Secretaría de Administración y Finanzas podrá expedir circulares y disposiciones administrativas de carácter general en materia de pago de derechos y demás aspectos de naturaleza fiscal relacionados con su competencia, que establezcan los criterios de interpretación para la aplicación exacta de las disposiciones que establece la Ley y su Reglamento. Para tal efecto deberá publicarlas en el Periódico Oficial del Estado.
 
 ###### Artículo 7.
 
@@ -185,11 +193,11 @@ A falta de disposición expresa en esta Ley, se aplicarán las disposiciones de 
 
 ### CAPÍTULO II. DE LA JUNTA REGULADORA PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-Se crea la Junta Reguladora, la cual estará integrada por los titulares de las Secretarías de Gobierno, de Salud, de Desarrollo Económico, de Finanzas, de Seguridad Pública, de Educación, de Cultura, y de Turismo. Esta Junta Reguladora la presidirá el titular de la Secretaría de Gobierno y tomará sus decisiones colegiadamente para:
+Se crea la Junta Reguladora, la cual estará integrada por las personas titulares de las Secretarías de Gobierno, de Salud, de Desarrollo Económico, de Administración y Finanzas, de Protección y Seguridad Ciudadana, de Educación, y de Turismo de la Administración Pública del Estado de Campeche. Esta Junta Reguladora la presidirá la Persona Titular de la Secretaría de Gobierno y tomará sus decisiones colegiadamente para:
 
 I Autorizar las licencias y las revalidaciones de las mismas; En el caso de las licencias en comodato y arrendamiento reguladas en el Capítulo VII de esta Ley, la Junta Reguladora no autorizará el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias reguladas por esta Ley;
 
@@ -209,19 +217,25 @@ VIII Establecer las medidas preventivas y mecanismos de control para evitar la v
 
 IX Establecer medidas para prevenir el uso nocivo de bebidas alcohólicas, prioritariamente en menores de edad;
 
-X Establecer las bases para la coordinación entre los sectores público, privado y social, a través de la firma de los acuerdos o convenios respectivos, para prevenir y reducir el uso nocivo del alcohol;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+X Establecer las bases para la coordinación entre los sectores público, privado y social para prevenir y reducir el uso nocivo del alcohol, a través de la firma de los acuerdos o convenios respectivos; y de manera específica, con los HH. Ayuntamientos que correspondan, para realizar funciones de inspección, verificación y vigilancia, mismos que serán suscritos por la Persona Titular de la Secretaría de Gobierno. Asimismo, la Secretaría de Administración y Finanzas con las autoridades municipales correspondientes, celebrarán convenios de colaboración para sentar las bases que en materia hacendaria correspondan;
 
 XI Aprobar la promoción que realice la COPRISCAM en los establecimientos donde se sirvan bebidas alcohólicas para su consumo; y
 
 XII Expedir circulares y disposiciones administrativas de carácter general, salvo en materia de pago de derechos, que establezcan los criterios de interpretación para la aplicación exacta de las disposiciones que establece esta Ley y su Reglamento. Para tal efecto deberá publicarlas en el Periódico Oficial del Estado. Las circulares y disposiciones administrativas no podrán establecer obligaciones ni facultades más allá de lo que establece la presente Ley así como su Reglamento.
 
-La Junta Reguladora se reunirá una vez al mes, las convocatorias de las sesiones ordinarias y extraordinarias y sus actas se formalizarán de conformidad con el Reglamento de la presente Ley. Para sesionar se requerirá la presencia de cuando menos seis titulares de las Secretarías. Las resoluciones se adoptarán conforme a mayoría simple y, en caso de empate, el Secretario de Gobierno tendrá voto de calidad. A estas reuniones podrá invitarse al Consejo Estatal contra las Adicciones CECA o cualquiera otra instancia federal, estatal o municipal cuando se discutan temas de la competencia de éstas, quienes podrán participar con voz pero sin voto.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+La Junta Reguladora se reunirá una vez al mes, las convocatorias de las sesiones ordinarias y extraordinarias y sus actas se formalizarán de conformidad con el Reglamento de la presente Ley. Para sesionar se requerirá la presencia de la mitad más uno de las Secretarías. Las resoluciones se adoptarán conforme a mayoría simple y, en caso de empate, la o el Secretario de Gobierno tendrá voto de calidad. A estas reuniones podrá invitarse al Consejo Estatal contra las Adicciones (CECA) o cualquier otra instancia Federal, Estatal o Municipal cuando se discutan temas de la competencia de éstas, quienes podrán participar con voz, pero sin voto.
 
 ### CAPÍTULO III. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Son obligaciones de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expenden bebidas alcohólicas:
+Son obligaciones de las o los propietarios, las o los franquiciatarios, las o los representantes legales o las o los encargados de los locales o establecimientos en que se expenden bebidas alcohólicas:
 
 I Contar con la licencia o permiso respectivos para la venta y/o consumo de bebidas alcohólicas;
 
@@ -259,9 +273,11 @@ XI Tener alcoholímetros o medidores para realizar pruebas de detección de into
 
 ### CAPÍTULO IV. DE LAS PROHIBICIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-Son prohibiciones para los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expenden bebidas alcohólicas:
+Son prohibiciones de las o los propietarios, las o los franquiciatarios, las o los representantes legales o las o los encargados de los locales o establecimientos en que se expenden bebidas alcohólicas:
 
 I La venta y consumo de bebidas alcohólicas a menores de 18 años de edad, a personas en evidente estado de ebriedad, a personas armadas, así como a militares y miembros de los cuerpos policiacos que se encuentren uniformados o en servicio, sin excepción alguna;
 
@@ -285,7 +301,9 @@ X Realizar concursos, torneos o eventos públicos de cualquier naturaleza, sea c
 
 XI Las denominadas "barras libres", "hora feliz", así como el otorgamiento a título gratuito de bebidas alcohólicas al público asistente a los establecimientos;
 
-XII Emplear a menores de edad en cualquier establecimiento o lugar de trabajo donde se sirvan bebidas alcohólicas; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XII Emplear a menores de edad en cualquier establecimiento o lugar de trabajo donde se sirvan bebidas alcohólicas;
 
 XIII Emplear publicidad en el interior o exterior del establecimiento que incite al consumo de bebidas alcohólicas en contravención a las leyes y reglamentos en materia de salud; y
 
@@ -309,29 +327,39 @@ V Locales destinados a espectáculos públicos salvo que cuenten con el permiso 
 
 No se otorgarán licencias o permisos para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas a:
 
-I Los servidores públicos de cualquier orden de gobierno;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-II Los que no tengan capacidad legal de ejercicio;
+I Las y los servidores públicos de cualquier orden de Gobierno;
 
-III Los que hubieren tenido licencia o permiso y hayan cedido los derechos de los mismos a terceras personas sin la autorización respectiva de la Junta Reguladora;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IV Los establecimientos situados dentro de un radio de 150 metros de los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, hospicios, asilos, centros asistenciales, fábricas, cuarteles y templos; quedan exceptuados de esta restricción aquellos establecimientos cuyos giros sean únicamente de consumode (sic) bebidas alcohólicas en envase abierto y al copeo en el interior de los mismos, así como aquellos establecimiento (sic) que conformen polígonos turísticos de conformidad con el Capítulo Octavo de esta Ley;
+II Las y los que no tengan capacidad legal de ejercicio;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+III Las y los que hubieren tenido licencia o permiso y hayan cedido los derechos de los mismos a terceras personas sin la autorización respectiva de la Junta Reguladora;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV Los establecimientos situados dentro de un radio de 150 metros de los linderos de los edificios y patios destinados a jardines de niños, instituciones educativas, centros culturales, hospitales, hospicios, asilos, centros asistenciales, fábricas, cuarteles y templos; quedan exceptuados de esta restricción aquellos establecimientos cuyos giros sean únicamente de consumo de bebidas alcohólicas en envase abierto y al copeo en el interior de los mismos, así como aquellos establecimientos que conformen polígonos turísticos de conformidad con el Capítulo Octavo de esta Ley;
 
 V Reincidentes en la infracción de las disposiciones de esta Ley y demás normas jurídicas aplicables en la materia; y
 
 VI Quienes hayan sido condenados por sentencia ejecutoria por delitos con motivo de la venta ilícita o clandestina de bebidas alcohólicas.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-En lo que se refiere a espectáculos públicos masivos, donde esté autorizada la venta de bebidas alcohólicas, la ingesta excesiva de bebidas alcohólicas se considerará como factor de riesgo para su desarrollo, motivo por el cual la Secretaría de Seguridad Pública deberá incluirlo en la determinación de los planes y medidas de seguridad para la realización de este tipo de eventos en coordinación con la Secretaría de Protección Civil.
+En lo que se refiere a espectáculos públicos masivos, donde esté autorizada la venta de bebidas alcohólicas, la ingesta excesiva de bebidas alcohólicas se considerará como factor de riesgo para su desarrollo, motivo por el cual la Secretaría de Protección y Seguridad Ciudadana deberá incluirlo en la determinación de los planes y medidas de seguridad para la realización de este tipo de eventos en coordinación con la Secretaría de Protección Civil.
 
 ###### Artículo 14.
 
 En el supuesto de que exista un establecimiento de venta y consumo de bebidas alcohólicas y, posteriormente se planee construir o establecer un jardín de niños o institución educativa a menos de 150 metros de distancia como lo señala la presente Ley, la Secretaría de Educación solicitará a la Junta Reguladora que emita resolución en la que funde y motive la reubicación o cambio de horario del establecimiento para venta y consumo de bebidas alcohólicas y se le notificará para que proceda a su reubicación en otro lugar que cumpla con el imperativo de la distancia mencionada o al cambio de horario, en un plazo no mayor a tres meses contados a partir del día siguiente de la notificación.
 
-En el caso de que el titular de la licencia rehúse o no pueda reubicarse, en el mismo acto de notificación deberá comunicársele que se procederá a modificar su horario de venta y consumo de alcohol a partir de que entre en funcionamiento el jardín de niños o institución educativa, cuyo horario de apertura modificado será de una hora después de que se terminen las actividades de éstos. En caso de que no acepte el cambio de horario o ubicación, será causal de cancelación definitiva de la licencia para venta y consumo de bebidas alcohólicas.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+En caso de que la persona titular de la licencia rehúse o no pueda reubicarse, en el mismo acto de notificación deberá comunicársele que se procederá a modificar su horario de venta y consumo de alcohol a partir de que entre en funcionamiento el jardín de niños o institución educativa, cuyo horario de apertura modificado será de una hora después de que se terminen las actividades de éstos. En caso de que no acepte el cambio de horario o ubicación, será causal de cancelación definitiva de la licencia para venta y consumo de bebidas alcohólicas.
 
 ### CAPÍTULO V. DE LOS DÍAS Y HORARIOS DE FUNCIONAMIENTO
 
@@ -385,11 +413,15 @@ Los establecimientos no regulados en el artículo anterior, pero con licencia o 
 
 Los horarios establecidos en los artículos anteriores son para la venta y consumo de bebidas alcohólicas, sin que por motivo alguno pueda excederse de lo señalado para tal efecto. En el caso de centros nocturnos, cabarets, discotecas y salones de baile la venta de bebidas alcohólicas se terminará treinta minutos antes de que concluya el horario fijado al establecimiento para su cierre, de manera tal, que a la hora del cierre del mismo, no deberá permanecer ninguno de sus clientes en su interior.
 
-El propietario, tenedor, franquiciatario, representante legal o encargado de establecimiento con venta y consumo de bebidas alcohólicas que no respete los horarios y días para la venta de bebidas alcohólicas se hará acreedor a las sanciones establecidas en esta Ley.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+La o el propietario, la o el tenedor, la o el franquiciatario, la o el representante legal o la o el encargado de establecimiento con venta y consumo de bebidas alcohólicas que no respete los horarios y días para la venta de bebidas alcohólicas se hará acreedora o acreedor a las sanciones establecidas en esta Ley.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-Es facultad del Titular del Poder Ejecutivo del Estado, por conducto de la Junta Reguladora, señalar discrecionalmente y de acuerdo con el interés público, los días en que en los establecimientos a los que se refiere la presente Ley, no podrán venderse ni consumirse bebidas alcohólicas. En este caso, el Ejecutivo a través de la COPRISCAM dará a conocer dichos días por los medios de comunicación social y electrónicos que considere convenientes, respetando los que, en su caso, establezcan otras leyes.
+Es facultad de la Persona Titular del Poder Ejecutivo del Estado, por conducto de la Junta Reguladora, señalar discrecionalmente y de acuerdo con el interés público, los días en que los establecimientos a los que se refiere la presente Ley, no podrán vender ni consumir bebidas alcohólicas. En este caso, la Persona Titular del Poder Ejecutivo del Estado a través de la COPRISCAM dará a conocer dichos días por los medios de comunicación social y electrónicos que considere convenientes, respetando los que, en su caso, establezcan otras leyes.
 
 ###### Artículo 19.
 
@@ -397,9 +429,11 @@ Sólo la Junta Reguladora podrá conceder horas extras a los establecimientos se
 
 ### CAPÍTULO VI. DE LA EXPEDICIÓNDE (SIC) LICENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 20.
 
-Para la apertura de los establecimientos en las actividades de almacenamiento, distribución, venta y consumo a que se refiere esta Ley, se requerirá de licencia que expedirá el Titular del Poder Ejecutivo del Estado, por conducto de la COPRISCAM y con la autorización de la Junta Reguladora, así como la licencia de uso de suelo emitida por el H. Ayuntamiento correspondiente. En el caso de los permisos, la primera autoridad municipal emitirá el permiso correspondiente.
+Para la apertura de los establecimientos en las actividades de almacenamiento, distribución, venta y consumo a que se refiere esta Ley, se requerirá de la licencia que expedirá la Persona Titular del Poder Ejecutivo del Estado, por conducto de la COPRISCAM y con la autorización de la Junta Reguladora, así como la licencia de uso de suelo emitida por el H. Ayuntamiento correspondiente. En el caso de los permisos, la primera autoridad municipal emitirá el permiso correspondiente.
 
 Ningún establecimiento de los que esta Ley regula, podrá iniciar sus actividades sin contar con la licencia o permiso respectivo.
 
@@ -407,9 +441,11 @@ En materia de competencia económica, la autoridad competente será la Comisión
 
 La COPRISCAM podrá celebrar acuerdos y convenios de coordinación con la Comisión Federal de Competencia Económica, de conformidad con lo establecido en el artículo 12 fracción IV de la Ley Federal de Competencia Económica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 21.
 
-Para obtener licencia con el objeto de operar establecimientos destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, el interesado, bajo protesta de decir verdad, deberá presentar su solicitud en las formas que establezca la Junta Reguladora, y la acompañará de los siguientes documentos:
+Para obtener la licencia con el objeto de operar establecimientos destinados para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas, la o el interesado, bajo protesta, a decir verdad, deberá presentar su solicitud en las formas que establezca la Junta Reguladora, y la acompañará de los siguientes documentos:
 
 I Copia certificada del acta de nacimiento si se trata de persona física o copia del acta constitutiva y de los estatutos si se trata de persona moral;
 
@@ -435,13 +471,17 @@ XI Los demás que establezca esta Ley y su Reglamento, así como otras disposici
 
 La COPRISCAM será la instancia receptora de la solicitud de licencia y sus requisitos.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-Recibida la solicitud y los anexos a que se refiere el artículo anterior, el Comisionado de la COPRISCAM integrará el expediente respectivo, llevará a cabo la visita de inspección al local o establecimiento dentro de los 15 días siguientes a la recepción de la solicitud a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las leyes sanitarias, y en 15 días posteriores a la visita de inspección, emitirá su dictamen de viabilidad o no viabilidad, mismo que turnará a la Junta Reguladora y ésta lo analizará con el propósito de emitir su resolución de procedencia o improcedencia, según sea el caso.
+Recibida la solicitud y los anexos a que se refiere el artículo anterior, la Comisionada o el Comisionado de la COPRISCAM integrará el expediente respectivo, llevará a cabo la visita de inspección al local o establecimiento dentro de los 15 días siguientes a la recepción de la solicitud a efecto de comprobar si se reúnen los requisitos establecidos por esta Ley, independientemente de lo que establezcan las leyes sanitarias, y en 15 días posteriores a la visita de inspección, emitirá su dictamen de viabilidad o no viabilidad, misma que turnará a la Junta Reguladora y ésta lo analizará con el propósito de emitir su resolución de procedencia o improcedencia, según sea el caso.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-La Junta Reguladora, dentro de los 45 días siguientes, resolverá si es procedente o no el otorgamiento de la licencia. En el caso de resultar procedente, la expedición de la licencia será firmada por el Comisionado de la COPRISCAM. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado.
+La Junta Reguladora, dentro de los 45 días siguientes, resolverá si es procedente o no el otorgamiento de la licencia. En el caso de resultar procedente, la expedición de la licencia, será firmada por la Comisionada o el Comisionado de la COPRISCAM. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado o la interesada.
 
 ###### Artículo 24.
 
@@ -459,7 +499,9 @@ Por expedición de licencias y permisos, autorización de horarios extraordinari
 
 Las licencias a que se refiere esta Ley tendrán una vigencia de 15 años que coincidirá con el año de calendario, y deberán ser revalidadas de manera anual. Concluido el plazo de vigencia, y una vez que cubra puntualmente con todas sus revalidaciones, para que pueda operar el establecimiento se requerirá de una nueva licencia.
 
-En el caso de que el titular de la licencia, por la causa que fuere, dejara de operar la licencia, la autoridad recaudadora no estará obligada a efectuar devolución por los derechos que haya causado su expedición.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+En el caso de que la persona titular de la licencia, por la causa que fuere, dejara de operar la licencia, la autoridad recaudadora no estará obligada a efectuar devolución por los derechos que haya causado su expedición.
 
 ###### Artículo 27.
 
@@ -471,37 +513,49 @@ El establecimiento de giros diversos en un mismo local, previsto en el párrafo 
 
 Queda prohibido que en un mismo local se opere al amparo de dos o más licencias para establecimientos o giros iguales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 28.
 
-En los casos de fallecimiento del titular de la licencia, se podrá, mediante acto administrativo, reexpedirse la licencia a favor del o de los que hayan sido designados herederos por resolución judicial, que reúnan los requisitos de esta Ley, para lo cual deberá presentarse la solicitud correspondiente ante la COPRISCAM para que por su conducto se turne a la Junta Reguladora y ésta última autorice o no el cambio; entretanto la COPRISCAM emitirá permiso especial para que el establecimiento pueda operar.
+En los casos de fallecimiento de la persona titular de la licencia, se podrá, mediante acto administrativo, reexpedirse la licencia a favor del o de los que hayan sido designados herederos por resolución judicial, que reúnan los requisitos de esta Ley, para lo cual deberá presentarse la solicitud correspondiente ante la COPRISCAM para que por su conducto se turne a la Junta Reguladora y ésta última autorice o no el cambio; entretanto la COPRISCAM emitirá permiso especial para que el establecimiento pueda operar.
 
 En estos casos se reexpedirá la licencia sólo por el tiempo restante del que originalmente haya sido expedida para su vigencia.
 
 ### CAPÍTULO VII. DEL ARRENDAMIENTO Y COMODATO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-Los titulares de licencias para el almacenamiento, distribución, venta y consumo de bebidas alcohólicas expedidas conforme a esta Ley, podrán transmitirlas en arrendamiento o en comodato, siempre y cuando exista autorización expresa de la Junta Reguladora.
+Las personas titulares de licencias para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas expedidas conforme a esta Ley, podrán transmitirlas en arrendamiento o en comodato, siempre y cuando exista autorización expresa de la Junta Reguladora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-El licenciatario podrá conceder el uso de la licencia en comodato o en arrendamiento durante un periodo de hasta 2 años, pudiendo renovarse por periodos similares previo pago de los derechos correspondientes, siempre que el titular de la licencia y el establecimiento en donde se opere, sigan reuniendo los requisitos de esta ley para su vigencia, operatividad y funcionamiento, para tal efecto deberá solicitarse la autorización a la Junta Reguladora y deberá presentar ante la ventanilla de la COPRISCAM los siguientes documentos:
+La o el licenciatario podrá conceder el uso de la licencia en comodato o en arrendamiento durante un periodo de hasta 2 años, pudiendo renovarse por periodos similares previo pago de los derechos correspondientes, siempre que la persona titular de la licencia y el establecimiento en donde se opere, sigan reuniendo los requisitos de esta ley para su vigencia, operatividad y funcionamiento, para tal efecto deberá solicitarse la autorización a la Junta Reguladora y deberá presentar ante la ventanilla de la COPRISCAM los siguientes documentos:
 
 a) Original de la escritura pública expedida ante notario público y copia del contrato de arrendamiento o comodato respectivo;
 
-b) Los documentos vigentes a que se refiere el artículo 21 de esta Ley, a nombre del comodatario, arrendatario, comodante o arrendador;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-c) Manifestación bajo protesta de decir verdad del comodatario o arrendatario en donde se obligue a cumplir con el licenciatario las obligaciones de esta Ley y su reglamento; y
+b) Los documentos vigentes a que se refiere el artículo 21 de esta Ley, a nombre de la o el comodatario, arrendatario, comodante o arrendador;
 
-d) Certificado emitido por la COPRISCAM de que el solicitante de la licencia en arrendamiento o comodato no posee más de dos licencias reguladas por esta Ley.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+c) Manifestación bajo protesta a decir verdad de la o el comodatario o arrendatario, en donde se obligue a cumplir con la o el licenciatario las obligaciones de esta Ley y su reglamento; y
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+d) Certificado emitido por la COPRISCAM de que la o el solicitante de la licencia en arrendamiento o comodato no posee más de dos licencias reguladas por esta Ley.
 
 Una vez reunidos todos los documentos la COPRISCAM remitirá el expediente completo y el proyecto de dictamen a la Junta Reguladora para su análisis y, en su caso, autorización de transmisión de uso de la licencia. El procedimiento de autorización de arrendamiento o comodato se hará de conformidad con el Reglamento de esta Ley.
 
 La transgresión a lo anterior tendrá como consecuencia la nulidad de la operación y dará lugar a la cancelación de la licencia y la clausura del establecimiento que opere al amparo de la misma.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-El arrendamiento o comodato de las licencias causarán los derechos correspondientes de acuerdo con la Ley de Hacienda del Estado de Campeche y se recaudarán en las oficinas de la Secretaría de Finanzas.
+El arrendamiento o comodato de las licencias causarán los derechos correspondientes de acuerdo con la Ley de Hacienda del Estado de Campeche y se recaudarán en las oficinas de la Secretaría de Administración y Finanzas.
 
 ### CAPÍTULO VIII. DE LAS LICENCIAS ESPECIALES POR POLÍGONOS TURÍSTICOS
 
@@ -545,15 +599,19 @@ I El área asignada por licenciatario no podrá comprender más del frente de su
 
 II En el caso de que dos o más solicitantes de licencia o licenciatarios tengan predios que se encuentren de frente y se trate de una vía peatonal, además de la condicionante anterior, sólo podrán abarcar hasta la mitad de la vía pública para ser equitativos entre ambos;
 
-III En el caso de que el área pública permitida tenga características físicas diferentes al trazo común de una calle, tanto en dimensiones como en forma, las áreas asignables a los licenciatarios será proporcional y equitativa, cuidando siempre respetar y no invadir las áreas delimitadas al tránsito peatonal y accesos para personas con discapacidad;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+III En el caso de que el área pública permitida tenga características físicas diferentes al trazo común de una calle, tanto en dimensiones como en forma, las áreas asignables a las y los licenciatarios serán proporcionales y equitativas, cuidando siempre respetar y no invadir las áreas delimitadas al tránsito peatonal y accesos para personas con discapacidad;
 
 IV No se otorgará este tipo de licencias cuando el inmueble de enfrente del solicitante esté destinado a casa habitación; y
 
 V Las demás que establezcan las autoridades competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 38.
 
-Queda prohibido a los titulares de licencias especiales para venta y consumo de bebidas alcohólicas dentro de los polígonos turísticos:
+Queda prohibido a las personas titulares de licencias especiales para venta y consumo de bebidas alcohólicas dentro de los polígonos turísticos:
 
 I La venta de bebidas alcohólicas que no sea en envase abierto o al copeo;
 
@@ -565,9 +623,11 @@ IV La presentación de espectáculos clasificados para adultos; y
 
 V Las demás establecidas en el Capítulo respectivo de Prohibiciones de esta Ley que por la naturaleza del área sean igualmente aplicables; así como aquellas que establezcan las autoridades competentes en su normatividad jurídica correspondiente.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 39.
 
-Los titulares de licencias especiales para venta y consumo de bebidas alcohólicas dentro de los polígonos turísticos deberán mantener permanentemente limpia, ordenada y desinfectada el área asignada en la licencia, además de cumplir con todas las indicaciones que le hagan las autoridades del Estado y del Municipio para su funcionamiento.
+Las personas titulares de licencias especiales para venta y consumo de bebidas alcohólicas dentro de los polígonos turísticos deberán mantener permanentemente limpia, ordenada y desinfectada el área asignada en la licencia, además de cumplir con todas las indicaciones que le hagan las autoridades del Estado y del Municipio para su funcionamiento.
 
 ###### Artículo 40.
 
@@ -575,9 +635,11 @@ Este tipo de licencias especiales para la venta y consumo de bebidas alcohólica
 
 ### CAPÍTULO IX. DE LA REVALIDACIÓN DE LICENCIAS
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 41.
 
-Durante los meses de enero a marzo de cada año, los propietarios, representantes legales, franquiciatarios o encargados de los establecimientos y giros destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, deberán solicitar a la COPRISCAM la revalidación de la licencia correspondiente para el nuevo año.
+Durante los meses de enero a marzo de cada año, las y los propietarios, las o los representantes legales, las o los franquiciatarios o las o los encargados de los establecimientos y giros destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, deberán solicitar a la COPRISCAM la revalidación de la licencia correspondiente para el nuevo año.
 
 ###### Artículo 42.
 
@@ -587,9 +649,9 @@ I Presentar por escrito la correspondiente solicitud, formulada bajo protesta de
 
 II Que el local del establecimiento reúna los requisitos exigidos por esta Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-III Que el titular de la licencia o su representante legal presente comprobantes de pago vigentes de todas sus obligaciones fiscales tanto estatales como municipales, incluidos el impuesto predial, derechos por consumo de agua potable y recolección de basura que genere el establecimiento; en su caso, comprobantes de pagos vigentes de impuestos y derechos federales que hayan sido convenidos para su administración al Estado o al Municipio respectivo;
+III Que la persona titular de la licencia o la o el representante legal presente comprobantes de pago vigentes de todas sus obligaciones fiscales tanto estatales como municipales, incluidos el impuesto predial, derechos por consumo de agua potable y recolección de basura que genere el establecimiento; en su caso, comprobantes de pagos vigentes de impuestos y derechos federales que hayan sido convenidos para su administración al Estado o al Municipio respectivo;
 
 IV Autorización de Protección Civil Municipal; y
 
@@ -623,15 +685,19 @@ Dada la naturaleza eventual o temporal de los permisos, éstos carecen de acto d
 
 Los solicitantes de los permisos deberán satisfacer los mismos requisitos y cumplir con todas las obligaciones que imponen esta Ley y su Reglamento para el caso de las licencias, en lo que les resulte aplicable.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 47.
 
-La Secretaría de Finanzas a través de su Dirección de Recaudación deberá recabar periódicamente de los HH. Ayuntamientos, una relación de los permisos expedidos en los términos de este Capítulo para efectos fiscales.
+La Secretaría de Administración y Finanzas a través de su Órgano Desconcentrado denominado Servicio de Administración Fiscal (SEAFI), y por medio de su Dirección de Recaudación, deberá recabar periódicamente de los HH. Ayuntamientos, una relación de los permisos expedidos en los términos de este Capítulo para efectos fiscales.
 
 ### CAPÍTULO XI. DE LOS CAMBIOS DE DOMICILIO, NOMBRE, RAZÓN SOCIAL Y GIRO DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 48.
 
-La COPRISCAM podrá autorizar los cambios de domicilio, nombre, razón social y giro a los titulares de licencias destinados al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, siempre y cuando se compruebe que el solicitante ha cumplido con todos los requisitos que para la expedición de licencias se encuentran establecidos en la presente Ley y su Reglamento, así como el pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado de Campeche y demás contribuciones estatales y municipales.
+La COPRISCAM podrá autorizar los cambios de domicilio, nombre, razón social y giro a las personas titulares de las licencias destinadas al almacenamiento, distribución, venta y consumo de bebidas alcohólicas, siempre y cuando se compruebe que la o el solicitante ha cumplido con todos los requisitos que para la expedición de licencias se encuentran establecidos en la presente Ley y su Reglamento, así como el pago de los derechos correspondientes mencionados en la Ley de Hacienda del Estado de Campeche y demás contribuciones estatales y municipales.
 
 En todos los casos de cambios, la COPRISCAM deberá comunicarlo a la Junta Reguladora para su control y demás efectos previos en esta Ley y su Reglamento.
 
@@ -643,25 +709,33 @@ La Junta Reguladora podrá disponer el cambio de domicilio de los establecimient
 
 ### CAPÍTULO XII. DE LAS VISITAS DE INSPECCIÓN, VERIFICACIÓN Y VIGILANCIA
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 50.
 
-La Secretaría de Salud y la COPRISCAM podrán ordenar y practicar visitas de inspección, verificación y vigilancia a los establecimientos o a cualquier otro lugar en donde se desarrollen las actividades que regulan la presente Ley y su Reglamento, independientemente de que cuenten o no con la licencia o permiso correspondientes, para verificar el cumplimiento de esta Ley y su Reglamento, así como de las demás disposiciones legales aplicables en la materia. En los ámbitos municipales los HH. Ayuntamientos, coadyuvarán en el cumplimiento de dicha función, por conducto de los servidores públicos que ellos mismos designen.
+La Secretaría de Salud y la COPRISCAM podrán ordenar y practicar visitas de inspección, verificación y vigilancia a los establecimientos o a cualquier otro lugar en donde se desarrollen las actividades que regulan la presente Ley y su Reglamento, independientemente de que cuenten o no con la licencia o permiso correspondientes, para verificar el cumplimiento de esta Ley y su Reglamento, así como de las demás disposiciones legales aplicables en la materia. En los ámbitos municipales los HH. Ayuntamientos, participarán en el cumplimiento de dicha función respecto de los permisos que expidan, así como la que derive de los acuerdos o convenios que al efecto suscriban.
 
-La Policía Ministerial y los Cuerpos de Seguridad Pública del Estado estarán obligados a prestar el auxilio necesario y dar parte de cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Salud, a la COPRISCAM y a la Secretaría de Finanzas.
+La Policía Ministerial y los Cuerpos de Seguridad Pública del Estado estarán obligados a prestar el auxilio necesario y dar parte de cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta, la que remitirán a la Secretaría de Salud, a la COPRISCAM y a la Secretaría de Administración y Finanzas.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 51.
 
-La verificación, para el cumplimiento de las disposiciones fiscales, estará a cargo de los inspectores que designe la Secretaría de Finanzas. Asimismo, el procedimiento, tanto de visita como sancionador, se desarrollará de conformidad con el Código fiscal del Estado de Campeche. La vigilancia, inspección y verificación a los titulares de permisos expedidos por la autoridad municipal competente corresponderá a la misma, a través de sus inspectores quienes se auxiliarán de la Policía Ministerial y de los Cuerpos de Seguridad Pública del Estado destacamentados en la respectiva localidad.
+La verificación, para el cumplimiento de las disposiciones fiscales, estará a cargo de las y los inspectores que designe la Secretaría de Administración y Finanzas. Asimismo, el procedimiento, tanto de visita como sancionador, se desarrollará de conformidad con el Código Fiscal del Estado de Campeche. La vigilancia, inspección y verificación a las y los titulares de permisos expedidos por la autoridad municipal competente corresponderá a la misma, a través de sus inspectoras e inspectores quienes se auxiliarán de la Policía Ministerial y de los Cuerpos de Seguridad Pública del Estado destacamentados en la respectiva localidad.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 52.
 
-Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos o a cualquier otro lugar a que esta Ley se refiere, y deberán previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por cualquiera de las instancias competentes.
+Las y los inspectores en el ejercicio de sus funciones tendrán libre acceso a los establecimientos o a cualquier otro lugar a que esta Ley se refiere, y deberán previamente identificarse ante la persona con quien se entienda la diligencia, con credencial expedida por cualquiera de las instancias competentes.
 
-Los licenciatarios o permisionarios, representantes legales, franquiciatarios, encargados o cualquiera otra persona que se encuentre en el establecimiento o lugar objeto de la inspección, estarán obligados a permitir el acceso a los inspectores así como a dar facilidades e informes a los mismos para el desarrollo de su labor.
+Las y los licenciatarios o permisionarios, representantes legales, franquiciatarios, encargados o cualquier otra persona que se encuentre en el establecimiento o lugar objeto de la inspección, estarán obligados a permitir el acceso a las inspectoras y los inspectores, así como a dar facilidades e informes a los mismos para el desarrollo de su labor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 53.
 
-La visita de inspección, verificación o vigilancia se practicará en el establecimiento o cualquier otro lugar donde se desarrollen las actividades que regula la presente Ley y su Reglamento. Al presentarse los inspectores al lugar en donde deba practicarse la diligencia, entregarán la orden de visita de inspección al destinatario, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, requiriéndole la presentación de la documentación que a continuación se señala:
+La visita de inspección, verificación o vigilancia se practicará en el establecimiento o cualquier otro lugar donde se desarrollen las actividades que regula la presente Ley y su Reglamento. Al presentarse las y los inspectores al lugar en donde deba practicarse la diligencia, entregarán la orden de visita de inspección a la o el destinatario, su representante legal, la o el encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, requiriéndole la presentación de la documentación que a continuación se señala:
 
 I Original de la licencia o permiso;
 
@@ -673,7 +747,9 @@ IV En su caso, comprobante de revalidación anual de la licencia; y
 
 V En su caso, autorización de la Junta Reguladora para arrendar o dar en comodato la licencia.
 
-Además de las fracciones anteriores, los inspectores podrán solicitar todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones a que esta Ley y su Reglamento se refieren, así como los que se señalen en la licencia o permiso respectivo.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Además de las fracciones anteriores, las y los inspectores podrán solicitar todos los elementos y datos necesarios que se requieran para comprobar el cumplimiento de las disposiciones a que esta Ley y su Reglamento se refieren, así como los que se señalen en la licencia o permiso respectivo.
 
 ###### Artículo 54.
 
@@ -683,9 +759,13 @@ I Lugar, hora y fecha en que se practique la visita;
 
 II Nombre, cargo e identificación, de la persona con quien se entienda la diligencia;
 
-III Identificación del inspector que practique la visita, asentando su nombre y el número de su credencial, así como de la autoridad que ordenó la inspección;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IV La designación de dos testigos propuestos por el visitado; si éstos no son designados por el visitado o los designados no aceptan servir como tales, los inspectores los designarán, sin que esta circunstancia invalide los resultados de la visita;
+III Identificación de la o el inspector que practique la visita, asentando su nombre y el número de su credencial, así como de la autoridad que ordenó la inspección;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV La designación de dos testigos propuestos por la o el visitado; si éstos no son designados por la o el visitado o los que fueron designados no aceptan servir como tales, las o los inspectores los designarán, sin que esta circunstancia invalide los resultados de la visita;
 
 V Descripción de la documentación que se ponga a la vista del inspector;
 
@@ -693,13 +773,17 @@ VI Descripción sucinta de los hechos ocurridos durante la visita y las observac
 
 VII Lectura y cierre del acta, firmándola en sus folios todos los que en ella intervinieron.
 
-La negativa a firmar por parte del visitado o recibir copia de la misma o de la orden de visita se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada. Del acta que se levante se dejará una copia al visitado.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+La negativa a firmar por parte de la o el visitado o de recibir una copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la de la diligencia practicada. Del acta que se levante se dejará una copia a la o el visitado.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-En todo caso de venta clandestina de bebidas alcohólicas, se suspenderá la venta y se hará el aseguramiento de las bebidas alcohólicas y envases vacíos de las mismas, así como de los instrumentos y demás bienes que tengan relación directa con esa actividad, tales como refrigeradores, neveras, mesas y sillas, entre otros, para garantizar el interés fiscal, independientemente de la aplicación de las sanciones que se establezcan en esta Ley, su Reglamento y demás leyes aplicables. El producto se pondrá en riguroso inventario a disposición de la Secretaría de Finanzas del Gobierno del Estado para que se afecte al fin que legalmente proceda.
+En todo caso de venta clandestina de bebidas alcohólicas, se suspenderá la venta y se hará el aseguramiento de las bebidas alcohólicas y envases vacíos de las mismas, así como de los instrumentos y demás bienes que tengan relación directa con esa actividad, tales como refrigeradores, neveras, mesas y sillas, entre otros, para garantizar el interés fiscal, independientemente de la aplicación de las sanciones que se establezcan en esta Ley, su Reglamento y demás leyes aplicables. El producto se pondrá en riguroso inventario a disposición de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche para que se afecte al fin que legalmente proceda.
 
-Los inspectores o servidores públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a otras disposiciones, lo comunicarán a la autoridad competente.
+Las y los inspectores o las y los servidores públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a otras disposiciones, lo comunicarán a la autoridad competente.
 
 ### CAPÍTULO XIII. DE LAS CAUSAS DE CANCELACIÓN DE LAS LICENCIAS Y PERMISOS
 
@@ -711,7 +795,9 @@ I Por hechos o actos que se realicen dentro de los establecimientos que alteren 
 
 II Cuando mediante la correspondiente acta de verificación, se compruebe la inactividad del establecimiento por un lapso de treinta días consecutivos o más, o que el establecimiento es inexistente, o cuando se tenga noticia de su baja en cualquiera de los Registros Federal o Estatal de Contribuyentes, o se desconozca el domicilio del titular de la licencia o permiso. En estos casos la cancelación procederá de oficio, mediante resolución administrativa que al efecto se emita;
 
-III En el caso de que el titular de la licencia o permiso presente aviso de suspensión de actividades ante la autoridad fiscal federal, deberá comunicarlo y anexar copia de éste a la COPRISCAM, dentro de los siete días siguientes a la presentación de su aviso de suspensión, para el efecto de darle continuidad a la vigencia de su licencia o permiso, siempre que cumpla con las disposiciones establecidas en esta Ley y su Reglamento y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada autoridad Estatal, ameritará la cancelación de su licencia o permiso;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+III En el caso de que la persona titular de la licencia o permiso presente aviso de suspensión de actividades ante la autoridad fiscal federal, deberá comunicarlo y anexar copia de éste a la COPRISCAM, dentro de los siete días siguientes a la presentación de su aviso de suspensión, para tal efecto de darle continuidad a la vigencia de su licencia o permiso, siempre que cumpla con las disposiciones establecidas en esta Ley y su Reglamento y subsistan las condiciones que dieron origen a su expedición, ya que de no realizar el referido trámite ante la citada autoridad Estatal, ameritará la cancelación de su licencia o permiso;
 
 IV Cuando el establecimiento haya dejado de reunir cualquiera de los requisitos que establece la presente Ley y su Reglamento, o se incurra por parte de los permisionarios en faltas u omisiones graves;
 
@@ -719,15 +805,23 @@ V A quienes vendan bebidas con contenido alcohólico a menores de edad o les per
 
 VI Cuando se compruebe la enajenación, gravamen, prenda o traspaso de la licencia, o cuando se haga arrendamiento o comodato de la misma sin la autorización de la Junta Reguladora, o cuando ésta haya sido alterada o, en su caso, cuando se compruebe la enajenación por cualquier título del permiso;
 
-VII Que se realicen dentro de los establecimientos a los que se refieren la presente Ley y su Reglamento, actos constitutivos de delitos o que entrañen violaciones a las leyes y reglamentos aplicables en la materia, atribuibles al licenciatario, franquiciatario, representante legal o encargado del lugar, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-VIII Que el dueño, encargado o empleado de los establecimientos impidan o dificulten la entrada a las autoridades encargadas de la aplicación y vigilancia de la presente Ley y su Reglamento;
+VII Que se realicen dentro de los establecimientos a los que se refieren la presente Ley y su Reglamento, actos constitutivos de delitos o que entrañen violaciones a las leyes y reglamentos aplicables en la materia, atribuibles a la o el licenciatario, la o el franquiciatario, la o el representante legal o la o el encargado del lugar, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VIII Que la o el dueño, la o el encargado o la o el empleado de los establecimientos impidan o dificulten la entrada de las autoridades encargadas de la aplicación y vigilancia de la presente Ley y su reglamento;
 
 IX En los casos de reincidencia en las infracciones a que se refieren esta Ley y su Reglamento;
 
-X En los casos en que el permisionario haya cambiado de domicilio del establecimiento sin antes haber solicitado de las autoridades correspondientes el permiso respectivo, o de que opere con giro distinto al que indica su licencia;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-XI Por operar fuera de los horarios establecidos en la licencia o permiso correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto el licenciatario o permisionario regularice su situación, a reserva de que su licencia o permiso le pueda ser cancelada si existe reincidencia o motivos graves de acuerdo con la Junta Reguladora o, en su caso, del Municipio; y
+X En los casos en que la o el permisionario haya cambiado de domicilio del establecimiento sin antes haber solicitado el permiso respectivo de las autoridades correspondientes, o de que opere con giro distinto al que indica su licencia;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+XI Por operar fuera de los horarios establecidos en la licencia o permiso correspondiente. En este caso el establecimiento podrá ser clausurado preventivamente en tanto la o el licenciatario o la o el permisionario regularice su situación, a reserva de que su licencia o permiso pueda ser cancelada si existe reincidencia o motivos graves de acuerdo con la Junta Reguladora o, en su caso, del Municipio; y
 
 XII Por contravención a cualquiera de las disposiciones de esta Ley y su Reglamento.
 
@@ -735,17 +829,21 @@ CAPÍTULOXIV (SIC)
 
 DEL PROCEDIMIENTO ADMINISTRATIVO DE CANCELACIÓN DE LICENCIAS Y PERMISOS
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 57.
 
-El Titular del Poder Ejecutivo del Estado por conducto de la Junta Reguladora podrá iniciar, de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley y su Reglamento, el procedimiento de cancelación de la licencia. Una vez tomado el acuerdo en tal sentido, notificará por escrito al licenciatario, la decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
+La Persona Titular del Poder Ejecutivo del Estado por conducto de la Junta Reguladora podrá iniciar, de oficio o a petición de la autoridad que intervenga en la vigilancia de esta Ley y su Reglamento, el procedimiento de cancelación de la licencia. Una vez tomando el acuerdo en tal sentido, notificará por escrito al licenciatario, la decisión y las causas que la fundan y motivan, concediéndole un plazo de diez días para que exponga lo que a sus intereses convenga y ofrezca las pruebas que estime pertinentes, las que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de treinta días.
 
 ###### Artículo 58.
 
 Transcurridos los términos a que se refiere el artículo anterior, la Junta Reguladora dentro del término de 15 días, dictará la resolución que corresponda, la que notificará de inmediato al licenciatario, con la consecuencia de que si se declara la cancelación de la licencia, de inmediato se procederá a la clausura preventiva del establecimiento o a la suspensión de la venta o consumo de bebidas alcohólicas, según sea el caso.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 59.
 
-El Titular del Poder Ejecutivo del Estado, por conducto de la Junta Reguladora, al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos y motivos que apoyen su decisión.
+La Persona Titular del Poder Ejecutivo del Estado, por conducto de la Junta Reguladora, al resolver sobre un procedimiento de cancelación, apreciará discrecionalmente el valor de las pruebas ofrecidas por la o el interesado y expondrá en sus resoluciones los fundamentos y motivos que apoyen su decisión.
 
 ###### Artículo 60.
 
@@ -781,7 +879,9 @@ V Cuando se instalen compartimientos o reservados que se encuentren cerrados o q
 
 VI Cuando se utilicen los establecimientos en que se expendan y consuman bebidas alcohólicas como casa habitación, viviendas u oficinas o que estén comunicadas con ellas, con un solo acceso de entrada al interior de la misma;
 
-VII Por los hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, cuando sea responsabilidad del permisionario o encargado, o bien cuando medien motivos de interés general, de acuerdo con la Junta Reguladora;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+VII Por los hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, cuando sea responsabilidad de la o el permisionario o la o el encargado, o bien cuando medien motivos de interés general, de acuerdo con la Junta Reguladora;
 
 VIII Cuando el establecimiento haya dejado de cumplir cualquiera de los requisitos que establece la presente Ley y su Reglamento, o se incurra por parte de los licenciatarios o permisionarios en faltas u omisiones graves; y
 
@@ -793,7 +893,9 @@ I Cuando la licencia o permiso sea explotada por persona distinta a su titular, 
 
 II Por reincidencia en infracciones a las disposiciones de la presente Ley y su Reglamento;
 
-III Que se realicen dentro de los establecimientos a los que se refieren la presente Ley y su Reglamento, actos constitutivos de delitos o que entrañen violaciones a las leyes y reglamentos aplicables en la materia, atribuibles al licenciatario, franquiciatario, representante legal o encargado del lugar, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar; y
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+III Que se realicen dentro de los establecimientos a los que se refieren la presente Ley y su Reglamento, actos constitutivos de delitos o que entrañen violaciones a las leyes y reglamentos aplicables en la materia, atribuibles a la o el licenciatario, la o el franquiciatario, la o el representante legal o la o el encargado del lugar, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar; y
 
 IV Las demás que señale esta Ley y su Reglamento.
 
@@ -809,29 +911,37 @@ II Si la clausura afecta a un local que además se dedique a otros fines comerci
 
 La clausura podrá derivarse de la visita de inspección que practique la autoridad, sin que haya orden por escrito referente a la clausura, en los supuestos que se mencionan en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 66.
 
-El inspector o persona autorizada que descubra un lugar o establecimiento que funciona en forma diversa a la autorizada en la licencia o permiso que se le haya otorgado en los términos de esta Ley y su Reglamento, levantará acta para consignar el hecho y procederá al aseguramiento provisional de las bebidas alcohólicas que se encuentren en ese lugar o establecimiento, así como a la clausura provisional del mismo. La clausura sólo se levantará cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales en su caso y el titular de la licencia o permiso cumpla con las obligaciones que esta Ley y su Reglamento le imponen. No procederá el levantamiento de la clausura en los casos donde ésta haya sido de carácter definitivo.
+La inspectora o el inspector, o persona autorizada que descubra un lugar o establecimiento que funciona en forma diversa a la autorizada en la licencia o permiso que se le haya otorgado en los términos de esta Ley y su Reglamento, levantará acta para consignar el hecho y procederá al aseguramiento provisional de las bebidas alcohólicas que se encuentren en ese lugar o establecimiento, así como a la clausura provisional del mismo. La clausura sólo se levantará cuando se hayan pagado las sanciones que se hubieren aplicado y demás créditos fiscales en su caso y la persona titular de la licencia o permiso cumpla con las obligaciones que esta Ley y su Reglamento le imponen. No procederá el levantamiento de la clausura en los casos donde ésta haya sido de carácter definitivo.
 
 ###### Artículo 67.
 
 Las bebidas alcohólicas que sean aseguradas en los términos de esta Ley y su Reglamento, a excepción del caso de venta clandestina, deberán ser recuperadas por su propietario en un término de cinco días hábiles, a partir de la fecha en que se hayan cubierto los requisitos que establece la presente Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 68.
 
-Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, las Secretarías de Salud, Finanzas y COPRISCAM levantarán un acta y procederán a destruir los envases abiertos o cerrados que contengan bebidas alcohólicas. Los envases cerrados que contengan bebidas alcohólicas legalmente registrados, podrán ser rematados en los términos del Código Fiscal del Estado.
+Cumplido el plazo que señala el artículo anterior, sin que hubieren sido recuperadas las bebidas alcohólicas, las Secretarías de Salud y, Administración y Finanzas, en conjunto con la COPRISCAM levantarán un acta y procederán a destruir los envases abiertos o cerrados que contengan bebidas alcohólicas. Los envases cerrados que contengan bebidas alcohólicas legalmente registrados, podrán ser rematados en los términos del Código Fiscal del Estado.
 
 Procederá también el remate o destrucción de las bebidas alcohólicas y sus envases que hayan sido aseguradas o decomisadas a establecimientos o casas habitación que en forma clandestina realicen las actividades reguladas por esta Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 69.
 
-Una vez decretada la clausura preventiva o definitiva del establecimiento, los inspectores procederán a colocar los sellos respectivos previo inventario que al efecto formulen.
+Una vez decretada la clausura preventiva o definitiva del establecimiento, las inspectoras o los inspectores procederán a colocar los sellos respectivos previo inventario que al efecto formulen.
 
-Asimismo, cuando se dicte el acuerdo sobre el levantamiento de la clausura se procederá dentro de un término de veinticuatro horas contadas a partir de la fecha de la notificación del mismo, a retirar los sellos y a entregar el local y mobiliario al titular de la licencia o permiso.
+Asimismo, cuando se dicte el acuerdo sobre el levantamiento de la clausura se procederá, dentro de un término de veinticuatro horas contadas a partir de la fecha de la notificación del mismo, a retirar los sellos y a entregar el local y el mobiliario a la persona titular de la licencia o permiso.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 70.
 
-Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los inspectores o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados, se dará vista al Ministerio Público para los efectos legales conducentes.
+Cuando se desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por las inspectoras o los inspectores, o se impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados, se dará vista al Ministerio Público para los efectos legales conducentes.
 
 ###### Artículo 71.
 
@@ -875,11 +985,15 @@ V Manejo ante situaciones de bebedores ebrios, agresivos, pendencieros y otros.
 
 ### CAPÍTULO XVII. DE LA TRANSPARENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 77.
 
-La COPRISCAM publicará a través de los medios electrónicos en su página oficial un Registro Público en el que consten los nombres y apellidos o razón social de los titulares de licencia y, en su caso, de los permisos.
+La COPRISCAM publicará a través de los medios electrónicos en su página oficial un Registro Público en el que consten los nombres y apellidos o razón social de las personas titulares de las licencias y, en su caso, de los permisos.
 
-La COPRISCAM en el caso de solicitud de licencias en arrendamiento o en comodato, revisará el Registro Público de Licencias y Permisos para verificar que no existan más de dos licencias a favor del solicitante y, en su caso, emitir el certificado al que hace referencia el inciso d) del artículo 29 de esta Ley.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+La COPRISCAM en el caso de solicitud de licencias en arrendamiento o en comodato, revisará el Registro Público de Licencias y Permisos para verificar que no existan más de dos licencias a favor de la o el solicitante y, en su caso, emitir el certificado al que hace referencia el inciso d) del artículo 29 de esta Ley.
 
 En ese mismo registro se publicará a quienes hayan cometido infracciones.
 
@@ -893,51 +1007,67 @@ La COPRISCAM publicará a través de los medios electrónicos las estadísticas 
 
 Queda prohibido conducir vehículos por la vía pública, cuando se tenga una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o de alcohol en aire espirado superior a 0.4 miligramos por litro.
 
-Los conductores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-Los conductores deben someterse a las pruebas de detección de ingestión de alcohol cuando lo solicite la autoridad competente.
+Las y los conductores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire expirado, o síntomas simples de aliento alcohólico.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Las y los conductores deben someterse a las pruebas de detección de ingestión de alcohol cuando lo solicite la autoridad competente.
 
 El incumplimiento de lo dispuesto en este artículo se sancionará con arresto administrativo inconmutable de hasta 24 horas, suspensión de la licencia de conductor o, en su caso, cancelación de la licencia en los términos de la Ley en la materia, y aseguramiento del vehículo por representar un riesgo para la circulación; en este último caso, siempre que no haya una persona que pueda hacerse cargo de su conducción, cuya actuación haya sido requerida por el interesado.
 
 También podrá asegurarse el vehículo en los casos en que el conductor se niegue a efectuar las pruebas de detección alcohólica.
 
-Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos ocasionados por el aseguramiento, traslado y depósito del vehículo, serán cubiertos por el conductor o quién legalmente deba responder por él.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos ocasionados por el aseguramiento, traslado y depósito del vehículo, serán cubiertos por la o el conductor, o quién legalmente deberá responder por él.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 80.
 
-Los conductores de vehículos que cometan actos que violen las disposiciones de la presente Ley y su Reglamento, o muestren síntomas de que conducen en estado de ebriedad, están obligados a someterse a las pruebas necesarias con el Médico Legista ante el cual sean presentados o por personal autorizado para tal efecto. En caso de que se certifique que el conductor se encuentra en estado de ebriedad, será aplicable la sanción del artículo anterior.
+Las y los conductores de vehículos que cometan actos que violen las disposiciones de la presente Ley y su Reglamento, o muestren síntomas de que conducen en estado de ebriedad, están obligados a someterse a las pruebas necesarias con el Médico Legista, ante el cual sean presentados, o por personal autorizado para tal efecto. En caso de que se certifique que la o el conductor se encuentra en estado de ebriedad, será aplicable la sanción del artículo anterior.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-Los agentes policiacos pueden detener la marcha de un vehículo cuando la Secretaría de Seguridad Pública, en coordinación con la Secretaría de Salud y la COPRISCAM establezcan y lleven a cabo programas preventivos y de control de ingestión de alcohol o, para conductores de vehículos.
+Las y los agentes policiacos pueden detener la marcha de un vehículo cuando la Secretaría de Protección y Seguridad Ciudadana, en coordinación con la Secretaría de Salud, y la COPRISCAM establezcan y lleven a cabo programas preventivos y de control de ingestión de alcohol o, para conductores de vehículos.
 
-Cuando los conductores consuman bebidas alcohólicas en vehículos en circulación o estacionados en la vía pública, pero no rebasen las tasas de alcohol en la sangre o de aire espirado a que se refiere el artículo anterior, serán acreedores a las sanciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Cuando las y los conductores consuman bebidas alcohólicas en vehículos en circulación o estacionados en la vía pública, pero no rebasen tasas de alcohol en la sangre o de aire espirado a que se refiere el artículo anterior, serán acreedores a las sanciones siguientes:
 
 I. Si el resultado de las pruebas arrojan una tasa de alcohol en la sangre (BAC) entre 0.060 y 0.079 miligramos por 100 mililitros o de alcohol en aire aspirado (BrAC) inferior a 0.40 miligramos/litro, se aplicará multa de conformidad con lo establecido en el artículo 93 de esta Ley, así como el aseguramiento del vehículo por representar un riesgo para la circulación; en este último caso, siempre que no haya una persona que pueda hacerse cargo de su conducción, cuya actuación haya sido requerida por el interesado. Además se hará acreedor a una amonestación; y
 
 II. En caso de que las pruebas arrojen resultados a las tasas inferiores a las señaladas en la fracción anterior, el conductor sólo será amonestado.
 
-También podrá asegurarse el vehículo en los casos en que el conductor se niegue a efectuar las pruebas de detección alcohólica.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos ocasionados por el aseguramiento, traslado y depósito del vehículo, serán cubiertos por el conductor o quién legalmente deba responder por él.
+También podrá asegurarse el vehículo en los casos en que la o el conductor se niegue a efectuar las pruebas de detección alcohólica.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+Los vehículos asegurados serán remitidos al depósito vehicular. Los gastos ocasionados por aseguramiento, traslado y depósito del vehículo, serán cubiertos por la o el conductor o quién legalmente deberá responder por él.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 81.
 
-Cuando los agentes cuenten con dispositivos oficiales de detección de alcohol, se procederá como sigue:
+Cuando las y los agentes cuenten con dispositivos oficiales de detección de alcohol, se procederá como sigue:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-I Los conductores se someterán a las pruebas para la detección del grado de intoxicación que establezca la Secretaría de Seguridad Pública en coordinación con las Secretarías (sic) de Salud y la COPRISCAM;
+I Las y los conductores se someterán a las pruebas para la detección del grado de intoxicación que establezca la Secretaría de Protección y Seguridad Ciudadana en coordinación con la Secretaría de Salud, y la COPRISCAM;
 
 II El agente policiaco entregará un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-III En caso de que el conductor sobrepase el límite permitido de alcohol en la sangre será remitido a las instancias de la Secretaría de Seguridad Pública; y
+III En caso de que la o el conductor sobrepase el límite permitido de alcohol en la sangre será remitido a las instancias de la Secretaría de Protección y Seguridad Ciudadana; y
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IV El agente remitirá un ejemplar del comprobante de los resultados de la prueba a la Secretaría de Seguridad Pública ante el cual sea presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de recuperación y se procederá a la suspensión o cancelación de la licencia de conducir en los términos de la Ley en la materia.
+IV La o el agente remitirá un ejemplar del comprobante de los resultados de la prueba a la Secretaría de Protección y Seguridad Ciudadana ante la cual será presentada o presentado, documento que constituirá prueba fehaciente de la cantidad de alcohol encontrado y servirá de base para el dictamen del Médico Legista que determine el tiempo probable de recuperación y se procederá a la suspensión o cancelación de la licencia de conducir en términos de la Ley en la materia.
 
 ###### Artículo 82.
 
@@ -961,15 +1091,17 @@ VI Promoción de la denuncia ciudadana.
 
 ### CAPÍTULO XIX. DE LAS INFRACCIONES YSANCIONES (SIC)
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 84.
 
-El procedimiento administrativo para decretar las sanciones señaladas en la presente Ley y en su Reglamento, se iniciará con la recepción de las actas de inspección que remitan los inspectores, o las que remitan los Cuerpos Policiacos respectivos.
+El procedimiento administrativo para acreditar las sanciones señalas (sic) en la presente Ley y en su Reglamento, se iniciará con la recepción de las actas de inspección que remitan las inspectoras y los inspectores, o las que remitan los Cuerpos Policiacos respectivos.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 85.
 
-Las Secretarías de Salud, de Seguridad Pública y la COPRISCAM, dentro del ámbito de sus respectivas competencias, serán las autoridades facultadas de llevar este procedimiento y aplicar las sanciones correspondientes, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
+Las Secretarías de Salud, y de Protección y Seguridad Ciudadana, y la COPRISCAM, dentro del ámbito de sus respectivas competencias, serán las autoridades facultadas de llevar este procedimiento y aplicar las sanciones correspondientes, independientemente de que los hechos revistan el carácter de delito, en cuyo caso se harán del conocimiento del Ministerio Público.
 
 ###### Artículo 86.
 
@@ -1003,11 +1135,17 @@ I Los daños que se hayan producido o puedan producirse en la salud de las perso
 
 II La gravedad de la infracción concreta, la disposición que se contraviene, el giro o establecimiento y las demás circunstancias que sirvan de base para individualizar la sanción;
 
-III Las condiciones socio-económicas del infractor;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
 
-IV La calidad de reincidente del infractor; y
+III Las condiciones socio-económicas de la o el infractor;
 
-V El beneficio obtenido por el infractor como resultado de la infracción.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+IV La calidad de reincidente de la o el infractor; y
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+V El beneficio obtenido por la o el infractor como resultado de la infracción.
 
 ###### Artículo 92.
 
@@ -1033,7 +1171,9 @@ h) Por la venta de bebidas alcohólicas fuera de los horarios establecidos en es
 
 i) Por la venta de bebidas con contenido alcohólico en los días prohibidos por las autoridades encargadas de su aplicación, conforme a lo señalado en la presente Ley;
 
-j) A los solicitantes o titulares de licencias o permisos que suministren datos falsos a las autoridades del Estado o Municipios, encargados de la aplicación y vigilancia de la presente Ley;
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+j) A las o los solicitantes o las personas titulares de licencias o permisos que suministren datos falsos a las autoridades del Estado o Municipios, encargados de la aplicación y vigilancia de la presente Ley;
 
 k) A los que en cualquier forma enajenen, traspasen, arrienden, graven, alteren o afecten la licencia o permiso para el almacenamiento, distribución, venta o consumo de bebidas alcohólicas, sin previa autorización de las autoridades competentes;
 
@@ -1059,7 +1199,9 @@ III.- Con multa equivalente de 35 a 170 veces el salario mínimo general diario 
 
 a) Por no tener en lugar visible al público la licencia o permiso y demás documentación y leyendas a que se refiere la fracción VI del artículo 9 de esta Ley;
 
-b) A los propietarios de los establecimientos a que se refiere el artículo 4 fracciones III, IV, VI, VII, X, XX y XXI de esta Ley que no fijen avisos o letreros visibles en el exterior o interior de sus establecimientos donde den a conocer la prohibición de entrada a menores de edad.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+b) A las y los propietarios de los establecimientos a que se refiere el artículo 4 fracciones III, IV, VI, VII, X, XX y XXI de esta Ley que no fijen avisos o letreros visibles en el exterior o interior de sus establecimientos donde den a conocer la prohibición de entrada a menores de edad;
 
 c) Por cualquier otro acto u omisión que no se encuentre previsto en las fracciones anteriores y que infrinja las disposiciones de esta Ley o su Reglamento; y
 
@@ -1071,15 +1213,19 @@ Tratándose de las infracciones señaladas en la presente Ley, en las fracciones
 
 La infracción al artículo 80 fracción I, se sancionará con una multa de 20 a 35 veces el salario mínimo general diario vigente. En la primera reincidencia se aplicará una tercera parte más de la multa impuesta con anterioridad; en las demás reincidencias se aplicará el doble de la multa impuesta en la primera reincidencia y serán motivo de suspensión o, en su caso, cancelación de la licencia de conducir en términos de la Ley en la materia.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 94.
 
-La imposición de las sanciones establecidas en esta Ley y en su Reglamento, es sin perjuicio de la responsabilidad civil o penal en que pueden incurrir los infractores, las cometidas por el licenciatario, franquiciatario, permisionario o el dueño del establecimiento, por un hecho propio o ajeno, entendiéndose en este último caso, cuando las infracciones las cometan, con conocimiento de causa, sus trabajadores, representantes, o cualquier otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
+La imposición de sanciones establecidas en esta Ley y en su Reglamento, es sin perjuicio de la responsabilidad civil o penal en que pueden incurrir las y los infractores, las cometidas por la o el licenciatario, la o el franquiciatario, la o el permisionario o, la o el dueño del establecimiento, por un hecho propio o ajeno, entendiéndose en este último caso, cuando las infracciones las cometan, con conocimiento de causa, las y los trabajadores, las y los representantes, o cualquier otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
 
 ###### Artículo 95.
 
 Cuando la infracción pudiera dar lugar a la cancelación de la licencia o permiso, se estará a lo dispuesto en esta Ley.
 
-La COPRISCAM pondrá a disposición del público una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar sugerencias sobre el uso nocivo de alcohol, así como denunciar el incumplimiento de la Ley, su Reglamento y demás disposiciones legales aplicables en la materia.
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2022)</small>
+
+La COPRISCAM pondrá a disposición del público una línea telefónica de acceso gratuito para que las y los ciudadanos puedan efectuar sugerencias sobre el uso nocivo del alcohol, así como denunciar el incumplimiento de la Ley, su Reglamento y demás disposiciones legales aplicables en la materia.
 
 ## TRANSITORIOS
 
@@ -1136,3 +1282,11 @@ TERCERO.- Los titulares de las licencias y/o sus representantes legales contará
 Para los efectos de lo establecido en los artículos 8, 29 y 77 de la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche, respecto a no autorizar el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias, no será aplicable para el caso de aquellas personas físicas o morales que a partir de la fecha de entrada en vigor de este decreto hayan hecho uso de las figuras jurídicas citadas, siempre que cumplan con los demás requisitos establecidos en la Ley, previo pago de los derechos correspondientes, sin que puedan tener autorizaciones adicionales a las que actualmente tengan vigentes en arrendamiento o comodato y hasta por el plazo que la Ley determina. Aquellas licencias que bajo este supuesto de excepción dejaren de ser objeto de arrendamiento y/o comodato ya no podrán ser arrendadas o comodatadas.
 
 CUARTO.- La conversión de las tarifas de salario mínimo general diario vigente a Unidades de Medida y Actualización, se realizan en cumplimiento del Artículo Tercero Transitorio del decreto por el que se declaran reformados y adicionados (sic) diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+P.O. 24 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 146 POR EL QUE “SE REFORMAN EL ARTÍCULO 2; LAS FRACCIONES VI, VIII Y XIII DEL ARTÍCULO 3; EL ARTÍCULO 6; EL PÁRRAFO PRIMERO, LA FRACCIÓN X Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 8; EL PÁRRAFO PRIMERO DEL ARTÍCULO 9; EL PÁRRAFO PRIMERO Y LA FRACCIÓN XII DEL ARTÍCULO 10; LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 12; EL ARTÍCULO 13; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17; EL ARTÍCULO 18; EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; EL PÁRRAFO PRIMERO DEL ARTÍCULO 21; LOS ARTÍCULOS 22 Y 23; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 26; EL PÁRRAFO PRIMERO DEL ARTÍCULO 28; LOS PÁRRAFOS PRIMERO Y SEGUNDO Y LOS INCISOS B), C) Y D) DEL ARTÍCULO 29; EL ARTÍCULO 30; LA FRACCIÓN III DEL ARTÍCULO 37; EL PÁRRAFO PRIMERO DEL ARTÍCULO 38; LOS ARTÍCULOS 39 Y 41; LA FRACCIÓN III DEL ARTÍCULO 42; EL ARTÍCULO 47; EL PÁRRAFO PRIMERO DEL ARTÍCULO 48; LOS ARTÍCULOS 50, 51 Y 52; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 53; LAS FRACCIONES III Y IV Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 54; EL ARTÍCULO 55; LAS FRACCIONES III, VII, VIII, X Y XI DEL ARTÍCULO 56; LOS ARTÍCULOS 57 Y 59; LA FRACCIÓN VII DEL INCISO A) Y LA FRACCIÓN III DEL INCISO B) DEL ARTÍCULO 63; EL ARTÍCULO 66; EL PÁRRAFO PRIMERO DEL ARTÍCULO 68; LOS ARTÍCULOS 69 Y 70; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 77; LOS PÁRRAFOS SEGUNDO, TERCERO Y SEXTO DEL ARTÍCULO 79; EL ARTÍCULO 80; EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, III Y IV DEL ARTÍCULO 81; LOS ARTÍCULOS 84 Y 85; LAS FRACCIONES III, IV Y V DEL ARTÍCULO 91; EL INCISO J) DE LA FRACCIÓN I Y EL INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 92; EL ARTÍCULO 94 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 95, TODOS DE LA LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido de este decreto.
