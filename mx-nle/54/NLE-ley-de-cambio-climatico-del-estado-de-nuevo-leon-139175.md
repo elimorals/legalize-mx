@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-cambio-climatico-del-estado-de-nuevo-leon-139175"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-20"
-last_updated: "2022-10-26"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139175&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Número 143 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de noviembre de 2019.
 
@@ -53,7 +53,9 @@ La presente Ley tiene por objeto:
 
 I. Garantizar el derecho de toda persona a un ambiente sano para su desarrollo, salud y bienestar, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Nuevo León;
 
-II. Establecer las bases de coordinación entre las Dependencias y Entidades de la Administración Pública Estatal y Municipal, que permita la aplicación de políticas públicas para la adaptación y mitigación al cambio climático, y la mitigación de emisiones de gases y compuestos de efecto invernadero;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+II. Establecer las bases de coordinación entre las Dependencias y Entidades de la Administración Pública Estatal y Municipal, que permita la aplicación de políticas públicas para prevenir, controlar y mitigar la contaminación del aire para una mejor adaptación y mitigación al cambio climático, mediante la disminución y la mitigación de emisiones de gases y compuestos de efecto invernadero;
 
 III. Regular las emisiones de gases y compuestos de efecto invernadero para lograr la estabilización de las concentraciones de la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático, considerando, en su caso, lo previsto por el artículo 2 de la Convención Marco de las Naciones Unidas sobre el cambio climático y demás disposiciones derivadas de la misma;
 
@@ -64,6 +66,10 @@ V. Asegurar que las acciones de adaptación y mitigación al cambio climático c
 VI. Reducir la vulnerabilidad de la población y los ecosistemas del Estado frente a los efectos adversos del cambio climático, así como crear y fortalecer las capacidades del Estado de respuesta al fenómeno;
 
 VII. Promover una cultura ciudadana de participación que conlleve a la reducción de gases y compuestos de efecto invernadero y en general a la protección del medio ambiente, en base a la educación, investigación, y desarrollo de temas que den a conocer acciones para desarrollar la adaptación y mitigación a los efectos derivados del fenómeno de cambio climático en la población;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+VII Bis. Promover la movilidad activa o no motorizada y sistemas de transporte colectivo sustentables, con la finalidad de mitigar la contaminación del aire por emisiones de gases y compuestos de efecto invernadero;
 
 VIII. Contribuir al cumplimiento de las obligaciones internacionales y las metas nacionales a mediano y largo plazo en materia de cambio climático, y promover tanto las políticas nacionales como las de índole local;
 
@@ -127,6 +133,10 @@ XXIV. Fuente fija: Toda instalación establecida en un solo lugar, que tenga com
 
 XXV. Fuente móvil: son los aviones, helicópteros, ferrocarriles, tranvías, tracto camiones, autobuses, camiones, automóviles, motocicletas, embarcaciones, equipo y maquinaria no fijas con motores de combustión y similares, que por su operación generen o puedan generar emisiones contaminantes a la atmosfera. También cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera, al agua y al suelo que no tiene un lugar fijo;
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XXV Bis. Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
+
 XXVI. Fuente natural: Incluye a los volcanes, océanos, planas (sic), suspensión de suelos, emisiones por digestión anaerobia y aerobia de sistemas naturales. En particular a todo (sic) la vegetación y la actividad microbiana en suelos y océanos;
 
 XXVII. Fuente de área: Incluye conjunto (sic) de infraestructura como el tratamiento de aguas residuales, plantas de composteo, rellenos sanitarios, entre otros;
@@ -159,7 +169,9 @@ XL. Resistencia: Capacidad de los sistemas naturales o sociales para persistir a
 
 XLI. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropogéno;
 
-XLII. Secretaría: Secretaría de Desarrollo Sustentable del Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XLII. Secretaría: Secretaría del Medio Ambiente del Estado de Nuevo León;
 
 XLIII. Sumideros: Cualquier proceso, actividad o mecanismo que absorbe el carbono de la atmosfera;
 
@@ -201,9 +213,17 @@ II. Aplicar los instrumentos de política ambiental a que se refiere esta Ley;
 
 III. Aprobar el Programa Estatal de Cambio Climático para el Estado de Nuevo León;
 
-IV. Expedir, en la esfera administrativa, los ordenamientos necesarios para proveer el cumplimiento de la presente Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-V. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
+IV. Desarrollar políticas y programas que tengan por objeto la implementación de la cogeneración eficiente para reducir las emisiones;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+V. Expedir, en el ámbito administrativo, los ordenamientos necesarios para proveer el cumplimiento de la presente Ley; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN V], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+VI. Las demás atribuciones que le otorgue la presente Ley u otros ordenamientos aplicables en la materia.
 
 ###### Artículo 7.
 
@@ -246,6 +266,10 @@ VII. Fomentar la investigación científica y tecnológica, el desarrollo, trans
 VIII. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero para impulsar el transporte eficiente y sustentable, público y privado;
 
 IX. Realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+IX Bis. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero mediante el impulso de la movilidad no motorizada y el transporte con menor costo ambiental, para garantizar la mejora en la calidad del aire;
 
 X. Promover la participación corresponsable de la sociedad en la adaptación y mitigación, de conformidad con lo dispuesto en las leyes locales aplicables;
 
@@ -297,6 +321,10 @@ XXXIII. Vigilar el cumplimiento de esta Ley y los demás ordenamientos que de el
 
 XXXIV. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XXXV. Desarrollar y aplicar incentivos a la inversión tanto pública como privada en la generación de energía eléctrica proveniente de fuentes renovables y tecnologías de cogeneración eficiente.
+
 Para dar cumplimiento a lo previsto en el presente artículo, la Secretaría establecerá una unidad responsable en materia de cambio climático como parte de su estructura orgánica.
 
 ###### Artículo 8.
@@ -329,7 +357,9 @@ VI. Fomentar la participación corresponsable de la sociedad en la planeación, 
 
 VII. Promover el fortalecimiento de capacidades institucionales y sectoriales para la adaptación al cambio climático, así como para la mitigación de las emisiones de gases y compuestos de efecto invernadero;
 
-VIII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente Ley;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente Ley, incluyendo aquellos destinados a la inversión pública y privada para la generación de energía eléctrica de fuentes renovables y tecnologías de cogeneración eficiente.
 
 IX. Coadyuvar con las autoridades federales y estatales en la instrumentación de la Estrategia Nacional y el Programa Estatal de la materia;
 
@@ -399,23 +429,41 @@ c) Secretaría de Educación;
 
 d) Secretaría de Salud;
 
-e) Secretaría de Economía y Trabajo;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-f) Secretaría de Infraestructura;
+e) Secretaría de Economía;
 
-g) Secretaría de Desarrollo Social;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-h) Secretaría de Desarrollo Sustentable;
+f) Secretaría del Trabajo;
 
-i) Secretaría del Desarrollo Agropecuario;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-j) Corporación para el Desarrollo Turístico de Nuevo León;
+g) Secretaría de Movilidad y Planeación Urbana;
 
-k) Servicios de Agua y Drenaje de Monterrey;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-l) Dirección de Protección Civil del Estado;
+h) Secretaría Igualdad e Inclusión;
 
-m) Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado de Nuevo León;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+i) Secretaría del Medio Ambiente;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+j) Secretaría de Desarrollo Regional y Agropecuario;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+k) Secretaría de Turismo;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+l) Servicios de Agua y Drenaje de Monterrey;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+m) Dirección de Protección Civil;
 
 n) Sistema de Transporte Colectivo Metrorrey;
 
@@ -465,9 +513,17 @@ XI. Promover el fortalecimiento de las capacidades estatales en materia de mitig
 
 XII. Promover la realización de campañas de educación e información, para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
-XIII. Promover el acceso a la información pública, la transparencia y la participación social en materia de cambio climático; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Las demás que le confiera el Reglamento de la presente Ley.
+XIII. Promover el acceso a la información pública, la transparencia y la participación social en materia de cambio climático;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Difundir sus trabajos y resultados como publicar en el mes de septiembre un informe anual de actividades; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XV. Las demás que le confiera el Reglamento de la presente Ley.
 
 ###### Artículo 15.
 
@@ -559,13 +615,33 @@ El Reglamento de la presente Ley determinará la integración y el funcionamient
 
 #### SECCIÓN I. EL PROGRAMA ESTATAL DE CAMBIO CLIMÁTICO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 24.
 
-Se crea el Programa Estatal como un instrumento de política transversal derivado del Plan Estatal de Desarrollo, el cual tiene por objeto diseñar e implementar acciones que permitan la adaptación y mitigación a los efectos del cambio climático, a través del aprovechamiento racional de los recursos naturales, garantizando el bienestar social.
+Se crea el Programa Estatal como un instrumento de política transversal derivado del Plan Estatal de Desarrollo, el cual tiene por objeto diseñar e implementar estrategias, políticas y acciones que permitan la adaptación y mitigación a los efectos del cambio climático, a través del aprovechamiento racional de los recursos naturales, garantizando el bienestar social.
 
 ###### Artículo 25.
 
 El Programa Estatal será elaborado por la Secretaría, siguiendo las pautas que marcan el Acuerdo de París y los estudios sobre cambio climático del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) de la Organización de las Naciones Unidas. Será puesto a consideración y aprobado por la Comisión tras la revisión previa del Consejo Técnico.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 25 Bis.
+
+El programa deberá de incluir como mínimo:
+
+I. La planeación de largo plazo, sus objetivos y acciones
+
+II. Los escenarios de cambio climático y los diagnósticos de vulnerabilidad y de capacidad de adaptación
+
+III. Las metas y acciones para la mitigación y adaptación de competencia estatal
+
+IV. La medición, reporte y la verificación de las medidas de adaptación y mitigación, y
+
+V. Las demás que determinen las disposiciones legales en la materia
+
+De igual forma se deberán de incluir programas que tengan por objeto incentivar en actividades y procesos industriales, la eficiencia energética, la implementación de tecnologías limpias que reduzcan el consumo energético y la emisión de gases y compuestos de efecto invernadero, así como el desarrollo y uso de combustibles fósiles alternativos que reduzcan el uso de combustibles fósiles tradicionales
 
 ###### Artículo 26.
 
@@ -697,7 +773,9 @@ b) Promover que los Municipios incluyan en sus reglamentos de construcción, las
 
 c) Fomentar la instalación de sistemas de naturización de azoteas y áreas verdes.
 
-II. La preservación y aumento de sumideros de carbono:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+II. La preservación y aumento de sumideros de carbono, para:
 
 a) Detener y revertir la deforestación;
 
@@ -707,37 +785,103 @@ c) Incorporar los ecosistemas forestales a esquemas de pago de servicios ambient
 
 d) Fomentar el uso de fertilizantes orgánicos;
 
-e) Fortalecer la tecnología e infraestructura para el combate de incendios forestales; y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-f) Fomentar el mercado Estatal de bonos de carbono, el cual será independiente del mercado nacional.
+e) Fortalecer la tecnología e infraestructura para el combate de incendios forestales;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+f) Fomentar el mercado Estatal de bonos de carbono, el cual será independiente del mercado nacional;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+g) Fortalecer los esquemas de manejo sustentable y la restauración de bosques; y
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+h) Fomentar sinergias entre programas y subsidios para actividades ambientales y agropecuarias, que contribuyan a fortalecer el combate a incendios forestales.
 
 III. Procurar la implementación de mecanismos de separación de manejo de residuos urbanos y de manejo especial, para:
 
-a) La operación de plantas de selección y tratamiento de los residuos sólidos quienes deberán contar con tecnología de vanguardia que permita generar energía alterna y verdes (sic); e
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-b) Implementar mecanismos para la diversificación del mercado de residuos a través de plantas de separación, en donde los residuos puedan emplearse en cualquier parte de la cadena productiva, como uso de combustible alterno.
+a) La operación de plantas de selección y tratamiento de los residuos sólidos quienes deberán contar con tecnología de vanguardia que permita generar energía alterna y verdes;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+b) Implementar mecanismos para la diversificación del mercado de residuos a través de plantas de separación, en donde los residuos puedan emplearse en cualquier parte de la cadena productiva, como uso de combustible alterno; y
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+c) Desarrollar acciones y promover el desarrollo y la instalación de infraestructura para minimizar y valorizar los residuos, así como para reducir y evitar las emisiones de metano provenientes de los residuos sólidos urbanos.
 
 IV. En los centros urbanos, desarrollar programas tendientes a:
 
-a) Implementar sistemas de transporte público sustentable;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+a) Diseñar e implementar sistemas de transporte público integrales, y programas de movilidad sustentable en las zonas urbanas o conurbadas para disminuir los tiempos de traslado, el uso de automóviles particulares, los costos de transporte, el consumo energético, la incidencia de enfermedades respiratorias y aumentar la competitividad de la economía regional;
 
 b) Construir obras públicas, con un enfoque sustentable;
 
-c) Fomentar que el alumbrado público, cuente con sistemas ahorradores de energía, que incluyan la utilización y aprovechamiento de energías solares; y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-d) Fomentar edificaciones sustentables que incluyan sistemas de eficiencia energética, así como un envolvente término (sic) adecuado que cumpla con las Normas Oficiales Mexicanas, con Normas Ambientales Estatales, captación de agua pluvial, reúso y descarga de aguas residuales, reducción de emisiones contaminantes al aire y manejo de residuos sólidos sustentables.
+c) Fomentar que el alumbrado público, cuente con sistemas ahorradores de energía, que incluyan la utilización y aprovechamiento de energías solares;
 
-V. Procurar el volumen de generación eléctrica con energías renovables, especialmente eólica, solar, biomasa y otros;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-VI. Fomentar las edificaciones de edificios sustentables;
+d) Fomentar edificaciones sustentables que incluyan sistemas de eficiencia energética, así como un envolvente término (sic) adecuado que cumpla con las Normas Oficiales Mexicanas, con Normas Ambientales Estatales, captación de agua pluvial, reúso y descarga de aguas residuales, reducción de emisiones contaminantes al aire y manejo de residuos sólidos sustentables;
 
-VII. Promover en edificios del Poder Ejecutivo, Legislativo y Judicial, así como de la Administración Pública del Estado, Organismos Estatales Constitucionalmente Autónomos o de los Municipios, para que se instale algún tipo de tecnología solar, para generar electricidad, a fin de reducir el uso de energía no renovable y la emisión de gases de efecto invernadero;
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Preservación y aprovechamiento de recursos hídricos, así como la recarga de mantos acuíferos en coordinación con las autoridades federales correspondientes;
+e) Procurar el volumen de generación eléctrica con energías renovables, especialmente eólica, solar, biomasa y otros;
 
-IX. La ejecución de sistemas de captación y recargas de agua pluviales al subsuelo, mediante la colocación de zanjas de absorción o cualquier otra tecnología que permita la infiltración al subsuelo; y
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-X. La adopción de medidas para el monitoreo y evaluación de los recursos hídricos y sistemas de bombeo, para el establecimiento de indicadores de sustentabilidad.
+f) Fomentar la construcción de edificios sustentables;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+g) Promover en edificios del Poder Ejecutivo, Legislativo y Judicial, así como de la Administración Pública del Estado, Organismos Estatales Constitucionalmente Autónomos o de los Municipios, para que se instale algún tipo de tecnología solar, para generar electricidad, a fin de reducir el uso de energía no renovable y la emisión de gases de efecto invernadero;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+h) Preservación y aprovechamiento de recursos hídricos, así como la recarga de mantos acuíferos en coordinación con las autoridades federales correspondientes;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+i) La ejecución de sistemas de captación y recargas de agua pluviales al subsuelo, mediante la colocación de zanjas de absorción o cualquier otra tecnología que permita la infiltración al subsuelo;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+j) La adopción de medidas para el monitoreo y evaluación de los recursos hídricos y sistemas de bombeo, para el establecimiento de indicadores de sustentabilidad;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+k) Promover e impulsar, conforme a las leyes aplicables, programas de teletrabajo, a fin de reducir desplazamientos y servicios de los trabajadores;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+l) Desarrollar instrumentos económicos para que las empresas otorguen el servicio de transporte colectivo a sus trabajadores hacia los centros de trabajo, a fin de reducir el uso del automóvil;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+m) Incorporación gradual de más ecosistemas a esquemas de conservación.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos, el derecho a la salud, los derechos de los pueblos indígenas, las comunidades locales, los niños, niñas y adolescentes, las personas con discapacidad y las personas en situaciones de vulnerabilidad y el derecho al desarrollo, así como la igualdad de género, el empoderamiento de la mujer y la equidad intergeneracional.
+
+V. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
+
+VI. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
+
+VII. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
+
+VIII. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
+
+IX. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
+
+X. (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 43.
 
@@ -791,7 +935,9 @@ IX. Fomentar la investigación en materia de cambio climático en la Entidad;
 
 X. Promover y valorizar los servicios ambientales;
 
-XI. Fomentar e implementar prácticas agropecuarias sustentables;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XI. Fomentar e implementar prácticas de manejo sustentables a terrenos ganaderos y cultivos agrícolas.
 
 XII. Prevenir riesgos en materia de salud y/o riesgos sanitarios asociados con el cambio climático; y
 
@@ -821,13 +967,21 @@ El Ejecutivo del Estado promoverá la participación de la ciudadanía, para la 
 
 Para promover la participación corresponsable de la ciudadanía, la Secretaría:
 
-I. Convocará a las organizaciones sociales y demás personas interesadas a que manifiesten su opinión sobre:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-a) Productos y servicios que modifican los hábitos, patrones de consumo y estilo de vida para la mejora del bienestar de nuestra sociedad, a través del uso racional de los recursos; y
+I. Convocará a las organizaciones sociales y demás personas, tanto físicas como morales, interesadas a que manifiesten su opinión sobre:
 
-b) Poblaciones que permitan la vida digna de la sociedad en un entorno de eficiencia en el transporte, uso de la energía, el agua y la disposición de los recursos.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-Estas opiniones serán evaluadas por la Comisión, para su publicación y consideración en la implementación y operación del Programa Estatal.
+a) Productos y servicios que modifican los hábitos, patrones de consumo y estilo de vida para la mejora del bienestar de nuestra sociedad, a través, del uso racional de los recursos;
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+b) Poblaciones que permitan la vida digna de la sociedad en un entorno de eficiencia en el transporte, uso de la energía, el agua y la disposición de los recursos; y
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+c) El establecimiento de programas que promuevan el teletrabajo de conformidad con la legislación en la materia, con el objetivo de reducir desplazamientos y servicios de trabajadores.
 
 II. Promoverá el establecimiento de reconocimientos de esfuerzos más destacados de la sociedad para enfrentar el cambio climático; e
 
@@ -932,3 +1086,11 @@ P.O. 26 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171. SE REFORMAN LAS FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI, TODAS DEL ARTÍCULO 31, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 240. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE NUEVO LEÓN.”]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el cumplimiento del presente decreto se realizará de acuerdo a la capacidad presupuestal del Poder Ejecutivo al momento de su aprobación.
