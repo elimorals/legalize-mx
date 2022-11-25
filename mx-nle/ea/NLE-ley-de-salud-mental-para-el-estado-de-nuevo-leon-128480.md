@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2021-08-30"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -376,6 +376,10 @@ IV. Integrar, dirigir, coordinar y regular el Sistema Estatal de Salud Mental co
 V. Diseñar y evaluar políticas de prevención y atención integral en materia de promoción a la salud mental, educación para la salud mental, atención integral médico-psiquiátrica, rehabilitación integral y participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones para la atención de la salud mental;
 
 VI. En coordinación con las demás instancias que conforman el Sistema Estatal de Salud Mental, realizar acciones de sensibilización a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema, con un enfoque de derechos humanos y perspectiva de género;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Brindar, a través de una línea telefónica de emergencia, primeros auxilios psicológicos o atención psicológica de emergencia a las personas que sufran una crisis en su patología de salud mental, a fin de proporcionar atención psicológica en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial;
 
 VII. Diseñar y ejecutar de manera permanente en los medios de difusión campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención y modos de atención, en coordinación con las dependencias e instituciones competentes;
 
@@ -1120,3 +1124,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría Estatal de Salud, tendrá un lapso de 90 días naturales contados a partir del día de la entrada en vigor del presente Decreto, para adecuar sus reglamentos correspondientes a fin de dar cumplimiento al contenido del mismo.
 
 TERCERO.- Las disposiciones contenidas en el presente Decreto estarán sujetas al presupuesto del año en curso. El Titular del Poder Ejecutivo del Estado de ser el caso, incluirá en el proyecto de Egresos del Estado para el Ejercicio 2022, los recursos necesarios para la aplicación del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 186. SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VL (SIC) DEL ARTÍCULO 24 DE IA (SIC) LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN; SE ADICIONA EL ARTÍCULO 71 BIS, A LA LEY ESTATAL DE SALUD.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud contará con un plazo de 180 días hábiles contados a partir de la publicación del presente Decreto para emitir las disposiciones que garanticen el brindar primeros auxilios psicológicos o atención psicológica de emergencia en tiempo real a través de una línea de emergencia.
