@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2022-10-26"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1039,6 +1039,10 @@ VI. Establecer medidas tendientes a prevenir, informar, investigar, atender, con
 
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a la información sobre métodos anticonceptivos, conforme a su edad, desarrollo evolutivo cognoscitivo y madurez fomentando la participación de quienes detenten la patria potestad, tutela o guarda para el desarrollo de una maternidad y paternidad responsable;
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+En caso de declaración por emergencia sanitaria de inmediata ejecución por la autoridad competente, el Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Salud, deberá realizar las acciones necesarias a efecto de garantizar la disponibilidad y accesibilidad a la vacunación universal y gratuita de las Niñas, Niños y Adolescentes en contra del agente patógeno circulante a fin de prevenir y combatir daños a la salud. La aplicación de la vacuna se ajustará a que la misma ya haya sido avalada por la Comisión Federal para la Protección contra Riesgos Sanitarios.
+
 VIII. En los centros de reclusión para mujeres se asegurará que dicha lactancia sea posible en las mismas condiciones que fuera de ellos;
 
 IX. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
@@ -1069,7 +1073,15 @@ En cumplimiento de lo dispuesto en este artículo se procurará aprovechar los r
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Además, deberán orientar en materia de alimentación saludable y actividad física, que impartan las autoridades y/o personal docente en los diferentes centros educativos, de salud y/o de desarrollo integral de la familia, con el objeto de promover desde una temprana edad, la disminución de riesgos por enfermedades crónico degenerativas y concientizar a este sector de la población sobre la importancia del autocuidado personal. Para tal efecto se deberá contar con guías alimentarias y de actividad física actualizadas para niñas, niños y adolescentes que promuevan la alimentación saludable y sostenible.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
 El Sistema Estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes conforme al artículo 97 de la presente Ley; así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en relación a su estado de salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
@@ -3212,3 +3224,15 @@ P.O. 26 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189. SE REFORMAN, LA FRACCIÓN II DEL ARTÍCULO 6, EL ARTÍCULO 7 PRIMER PÁRRAFO Y 8; FRACCIÓN XXII Y XXIII AL ARTÍCULO 13; SE ADICIONAN, LA FRACCIÓN XXV BIS I AL ARTÍCULO 4; LA FRACCIÓN XXIV AL ARTÍCULO 13; EL CAPÍTULO VIGÉSIMO QUINTO AL TÍTULO SEGUNDO DENOMINADO “DERECHOS PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES” Y LOS ARTÍCULOS 119 TER, 119 TER 1, 119 TER 2 Y 119 TER 3, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185. SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 255. SE REFORMAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 60, Y SE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 60 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
