@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-11-03"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 3 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 25 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -123,6 +123,12 @@ III. Determinar las reglas esenciales de organización y ejercicio de la adminis
 
 Los actos, procedimientos administrativos y toda actividad municipal, debe sujetarse a los principios generales previstos en el artículo 4 de la Ley del Procedimiento Administrativo del Estado de Jalisco, sin perjuicio de la vigencia de otros principios generales de Derecho Administrativo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 25 DE NOVIEMBRE DE 2022)</small>
+
+El principio de paridad de género como principio constitucional y convencional, será de observancia obligatoria para el funcionamiento de las dependencias y entidades que conforman la administración pública municipal, así como para la implementación de los procesos de selección y contratación correspondientes, de tal manera que existan condiciones de igualdad entre mujeres y hombres para el acceso al servicios (sic) público municipal.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.M. 25 DE NOVIEMBRE DE 2022)</small>
+
 Asimismo, el personal que labora en la administración pública centralizada y paramunicipal tiene los derechos y obligaciones previstos en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, así como en la demás normatividad burocrática aplicable.
 
 ###### Artículo 12.
@@ -135,7 +141,9 @@ Son normas supletorias de este Código las leyes expedidas por el Congreso del E
 
 Son autoridades responsables de aplicar el presente y de vigilar su cumplimiento, el Ayuntamiento, la Presidenta o el Presidente Municipal y demás servidoras públicas y servidores públicos municipales, en el ámbito de sus respectivas competencias.
 
-En apego a lo ordenado en el artículo 1 párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, dichas autoridades municipales tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+> <small>(REFORMADO, G.M. 25 DE NOVIEMBRE DE 2022)</small>
+
+En apego a lo ordenado en el artículo 1 párrafo tercero de la Constitución Política de los Estados Unidos Mexicanos, dichas autoridades municipales tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, así como de establecer el principio de paridad de género en la integración y funcionamiento de las dependencias y entidades que conforman la administración pública municipal.
 
 ###### Artículo 14.
 
@@ -8180,3 +8188,13 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas remítanse un tanto de las mismas al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
