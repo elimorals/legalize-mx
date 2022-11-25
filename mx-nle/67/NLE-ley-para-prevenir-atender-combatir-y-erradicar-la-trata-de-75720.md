@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-7572
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-30"
-last_updated: "2013-07-10"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2010.
 
@@ -49,11 +49,103 @@ La presente Ley es de orden público e interés social, se aplicará en el terri
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, deberán desarrollar políticas públicas, planes, programas y acciones para prevenir la trata de personas, asimismo, realizar con diligencia las investigaciones necesarias para que los responsables de la trata de personas sean sancionados y brindar atención, protección y asistencia a las víctimas de este delito.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Para la correcta aplicación de esta Ley, las autoridades competentes deberán regirse por los siguientes principios y criterios:
+
+I. Dignidad: La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
+
+En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, están obligadas a garantizar que no se vea disminuido el mínimo existencial de la víctima, ni sea afectado el núcleo esencial de sus derechos.
+
+En cualquier caso, toda norma, institución o acto que se desprenda de la presente Ley serán interpretados de conformidad con los derechos humanos reconocidos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte, aplicando siempre la disposición más benéfica para la persona;
+
+II. Buena fe: Las autoridades presumirán la buena fe de la víctima. Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requiera, así como respetar y permitir el ejercicio efectivo de sus derechos;
+
+III. Proyecto de vida: Tiene un valor esencialmente existencial, atendiendo a la realización integral de la persona. Es decir, en el marco de la transitoriedad de la vida, a cada uno cabe proceder a las opciones que le parecen adecuadas, en el ejercicio del libre desarrollo de la personalidad, para alcanzar la realización de sus ideales, considerando su vocación, aptitudes, circunstancias, potencialidades y aspiraciones, que le permiten fijarse razonablemente determinadas expectativas y acceder a ellas;
+
+IV. Máxima protección: Obligación de cualquier autoridad, de velar por la aplicación más amplia de medidas de protección a la vida, dignidad humana, libertad, seguridad y derechos humanos de las víctimas. Las autoridades adoptarán, en todo momento, medidas para garantizar su seguridad, protección, bienestar físico y psicológico, su intimidad y el resguardo de su identidad y datos personales;
+
+V. Perspectiva de género: Entendida como una visión científica, analítica y política sobre las mujeres y los hombres y las relaciones entre ellos en la sociedad, que permite enfocar y comprender las desigualdades socialmente construidas a fin de establecer políticas y acciones de Estado transversales que permitan construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades y acceso a la justicia;
+
+VI. Prohibición de la esclavitud y de la discriminación, en los términos del artículo 1 ° de la Constitución;
+
+VII. Enfoque diferencial y especializado: Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad u otros factores; en consecuencia, se reconoce que ciertos grupos requieren una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas.
+
+Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, adolescentes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños, por su gravedad, requieren de un tratamiento especializado para su rehabilitación y reintegración a la sociedad;
+
+VIII. Interés superior de la niñez: Entendido como la obligación del Estado de proteger primordialmente los derechos de la niñez y la adolescencia, y de velar por las víctimas y testigos menores de 18 años de edad, atendiendo a su protección y desarrollo armónico e integral.
+
+Los procedimientos señalados en esta Ley reconocerán sus necesidades como sujetos en desarrollo.
+
+El ejercicio de los derechos de los adultos no podrá condicionar el ejercicio de los derechos de las niñas, niños y adolescentes;
+
+IX. Debida diligencia: Obligación de los servidores públicos de dar respuesta inmediata, oportuna, eficiente, eficaz y responsable en la prevención, investigación, persecución y sanción, así como en la reparación integral derivada de la comisión de los delitos materia de esta Ley, incluyendo la protección y asistencia a las víctimas.
+
+Tratándose de mujeres y personas menores de 18 años de edad deberá observarse la aplicación de la debida diligencia estricta, que se traduce en realizar las obligaciones señaladas en el párrafo anterior con especial celeridad, de forma exhaustiva y oportuna, dentro de un plazo razonable, libre de prácticas discriminatorias basadas en estereotipos de género, de conformidad con el interés superior de la niñez y el derecho de las mujeres a una vida libre de violencia;
+
+X. Prohibición de devolución o expulsión: Las víctimas no serán repatriadas a su país o enviadas a su lugar de origen en territorio nacional, cuando su vida, libertad, integridad, seguridad o las de sus familias, corra algún peligro. La autoridad deberá cerciorarse de esta condición.
+
+En el caso de los refugiados, no se les ubicará en fronteras o territorios donde el peligro se produzca por causa de su raza, religión, nacionalidad, pertenencia a determinado grupo social, opiniones políticas o cualquier otra razón que permita creer que su seguridad e integridad estarían en riesgo, independientemente de cuál sea su situación migratoria como extranjero en cuanto a duración y legalidad.
+
+El entorno asistido de los extranjeros, que sean víctimas, será siempre voluntario y conforme a la legislación aplicable;
+
+XI. Victimización secundaria: Las características y condiciones particulares de la víctima no podrán ser motivo para negar dicha condición.
+
+El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos;
+
+XII. Laicidad y libertad de religión: Garantía de libertad de conciencia, asegurando a las victimas la posibilidad de vivir y manifestar su fe y practicar su religión, sin ninguna imposición en los programas o acciones llevados a cabo por las instituciones gubernamentales o de la sociedad civil que otorguen protección y asistencia;
+
+XIII. Presunción de minoría de edad: En los casos que no pueda determinarse o exista duda sobre la minoría de edad o documentos de identificación y no se cuente con dictamen médico, se presumirá ésta;
+
+XIV. Las medidas de atención, asistencia y protección beneficiarán a todas las víctimas, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral, económica o de cualquier otra índole que pudiera existir entre éste y la víctima;
+
+XV. Inadmisibilidad del comportamiento anterior de la víctima: La conducta sexual anterior de la víctima es irrelevante a los fines de probar que la víctima ejercía un tipo de comportamiento sexual determinado o demostrar su predisposición sexual. Asimismo, serán irrelevantes cualesquiera otras consideraciones que aludan al comportamiento, preferencias o actitudes de la víctima;
+
+XVI. Cooperación nacional e internacional: Entendida como la promoción y facilitación para alcanzar los objetivos de esta Ley, así como los de (sic) Ley de Victimas del Estado de Nuevo León;
+
+XVII. Igualdad y no discriminación: En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere la presente Ley, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial;
+
+XVIII. Integralidad, indivisibilidad e interdependencia: Todos los derechos contemplados en esta Ley se encuentran interrelacionados entre sí. No se puede garantizar el goce y ejercicio de los mismos sin que a la vez se garantice el resto de los derechos. La violación de un derecho pondrá en riesgo el ejercicio de otros.
+
+Para garantizar la integridad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada;
+
+XIX. Mínimo existencial: Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia;
+
+XX. No criminalización: Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
+
+Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse;
+
+XXI. Participación conjunta: Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas.
+
+La victima tiene derecho a colaborar con las investigaciones y las medidas para lograr superar su condición de vulnerabilidad, atendiendo el contexto siempre y cuando las medidas no impliquen un detrimento a sus derechos;
+
+XXII. Progresividad y no regresividad: Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados;
+
+XXIII. Publicidad: Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los derechos humanos de las víctimas o las garantías para su protección.
+
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XXIII, P.O. 25 DE NOVIEMBRE DE 2022)
+
+El Gobierno del Estado deberá implementar mecanismos de difusión eficaces a fin de brindar información y orientación a las víctimas acerca de los derechos, garantías y recursos, así como acciones, mecanismos y procedimientos con los que cuenta, los cuales deberán ser dirigidos a las víctimas y publicitarse de forma clara y accesible.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 2 BIS.- Las dependencias y entidades del gobierno estatal y municipal dentro de sus respectivas atribuciones deberán considerar como prioritarios la atención, investigación, prevención y sanción de los delitos materia de esta Ley.
+
+(NOTA: EL 12 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 169/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE NOVIEMBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 251, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 2 TER.- El consentimiento otorgado por la víctima, cualquiera que sea su edad y en cualquier modalidad de los delitos previstos en la Ley General no constituirá causa excluyente de responsabilidad penal.
+
+(NOTA: EL 12 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 169/2022, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE NOVIEMBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 251, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 3.
 
-En todo lo no previsto por esta Ley serán aplicables supletoriamente, en lo que a sus materias corresponda, las disposiciones del Código Penal para el Estado de Nuevo León, del Código de Procedimientos Penales para el Estado de Nuevo León, del Código Procesal Penal para el Estado de Nuevo León, del Código de Procedimientos Civiles para el Estado de Nuevo León, la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León, de la Ley de Extinción de Dominio para el Estado de Nuevo León; y demás leyes.
+En todo lo no previsto por esta Ley serán aplicables supletoriamente, en lo que a sus materias corresponda, las disposiciones DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, del Código Penal para el Estado de Nuevo León, EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO Y LA LEY GENERAL DE VÍCTIMAS, así como la Ley de Victimas del Estado de Nuevo León, y demás leyes aplicables.
 
 ###### Artículo 4.
 
@@ -105,7 +197,9 @@ I. Secretaria General de Gobierno;
 
 II. Secretaría de Finanzas y Tesorería General del Estado;
 
-III. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+III. Fiscalía General de Justicia del Estado de Nuevo León;
 
 IV. Secretaría de Seguridad Pública;
 
@@ -113,19 +207,35 @@ V. Secretaría de Educación;
 
 VI. Secretaría de Salud;
 
-VII. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+VII. Secretaría de Igualdad e Inclusión;
 
 VIII. Secretaría del Trabajo;
 
-IX. Sistema para el Desarrollo Integral de la Familia de Nuevo León;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-X. Instituto Estatal de las Mujeres;
+IX. Secretaría de las Mujeres;
 
-XI. Corporación para el Desarrollo Turístico de Nuevo León;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
-XII. Instituto de Seguridad Pública; y
+X. Sistema para el Desarrollo Integral de la Familia de Nuevo León;
 
-XIII. Un representante de los Presidentes Municipales de Monterrey, San Nicolás de los Garza, Apodaca, Guadalupe, San Pedro Garza García, Santa Catarina, General Escobedo, Cadereyta Jiménez, Santiago, Juárez y García, así como dos representantes de los municipios de la zona norte y dos representantes de los municipios de la zona sur de Nuevo León.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XI. Instituto Estatal de las Mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XII. Corporación para el Desarrollo Turístico de Nuevo León;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Instituto de Seguridad Pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Un representante de los Presidentes Municipales de Monterrey, San Nicolás de los Garza, Apodaca, Guadalupe, San Pedro Garza García, Santa Catarina, General Escobedo, Cadereyta Jiménez, Santiago, Juárez y García, así como dos representantes de los municipios de la zona norte y dos representantes de los municipios de la zona sur de Nuevo León.
 
 Para los efectos de esta Ley, los Municipios pertenecientes a la zona norte, estará comprendida por: Abasolo, Agualeguas, Los Aldamas, Anáhuac, Bustamante, El Carmen, Cerralvo, Ciénega de Flores, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Gral. Zuazua, Los Herreras, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Los Ramones, Sabinas Hidalgo, Salinas Victoria, Hidalgo, Vallecillo y Villaldama. La zona sur estará conformada por los Municipios de: Allende, Aramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones.
 
@@ -147,7 +257,9 @@ I. Comisión Estatal de Derechos Humanos;
 
 II. Poder Judicial del Estado; y
 
-III. Poder Legislativo del Estado, a través del Presidente de la Comisión de Desarrollo Social y Derechos Humanos.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+III. Poder Legislativo del Estado, a través del Presidente de la Comisión de Desarrollo Social, Derechos Humanos y Asuntos indígenas.
 
 ###### Artículo 9.
 
@@ -229,6 +341,22 @@ La capacitación y formación a que se hace referencia en la fracción IX de est
 
 Así mismo esta capacitación y formación incluirán los instrumentos internacionales en materia de derechos humanos y trata de personas, así como la legislación nacional, estatal e internacional referente a la atención y protección de los derechos de niñas, niños, adolescentes, mujeres, adultos mayores, indígenas, de quienes no tienen capacidad para comprender el significado del hecho o de personas que no tienen capacidad de resistirlo.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Artículo 15 BIS.- El Gobierno Estatal en coordinación con los Gobiernos Municipales en función de las facultades exclusivas y concurrentes previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia de las Victimas de estos Delitos, así como en la presente Ley, adoptará y ejecutará las medidas necesarias para:
+
+I. Proteger a los integrantes o emigrantes, en particular a las mujeres, niñas, niños y adolescentes, en el lugar de partida, durante el viaje y en el lugar de destino;
+
+II. Garantizar la vigilancia en estaciones de ferrocarril, aeropuertos, puntos fronterizos y otros lugares públicos, a fin de impedir la comisión de los delitos materia de esta Ley;
+
+III. Supervisar centros de vicio, de lenocinio o establecimientos que puedan ser propicios para la comisión de los delitos materia de esta Ley, así como realizar inspecciones periódicas a fin de impedir que las personas, en especial mujeres, niñas, niños y adolescentes, se expongan al peligro de trata de personas;
+
+IV. Vigilar los establecimientos que presten servicios de internet, las autoridades facultadas para autorizar su operación les exigirán contar con filtros parentales y defensa contra intromisiones no deseadas;
+
+V. Generar medidas, esquemas y programas necesarios con el objeto de prevenir que sean utilizados, mediante publicidad o inserciones pagadas, para cometer alguno de los delitos materia de esta Ley.
+
+VI. Además, diseñarán y aplicarán campañas y actividades de prevención de la Trata de personas.
+
 ###### Artículo 16.
 
 Las políticas públicas, los programas y las acciones que se adopten de conformidad con el presente Capítulo, incluirán, cuando proceda, la colaboración de las Instituciones de Educación Superior, Organismos No Gubernamentales y de la Sociedad Civil.
@@ -257,15 +385,19 @@ VIII. Proporcionar asesoría y asistencia jurídica respecto a los derechos y pr
 
 IX. Las demás que el Consejo, considere necesarias para la protección, atención y asistencia a las víctimas u ofendidos de la trata de personas.
 
-Estas medidas no podrán interpretarse como limitativas de las ya previstas en la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos en el Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Estas medidas no podrán interpretarse como limitativas de las ya previstas en la Ley de Victimas del Estado de Nuevo León.
 
 ###### Artículo 18.
 
 Todas las Instituciones Estatales y Municipales, especialmente los Órganos de Procuración y Administración de Justicia, están obligados a proteger la privacidad y la identidad de las víctimas del delito de trata de personas, previendo la confidencialidad de las actuaciones, conforme a lo señalado en el artículo 20, inciso C) de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-El Consejo promoverá las medidas destinadas a prever la recuperación física, psicológica y social de las víctimas de la trata de personas, incluso, cuando proceda, en coordinación y con apoyo de organizaciones de la Sociedad Civil de probada calidad y eficiencia, Instituciones de Educación Superior, otras organizaciones pertinentes y demás sectores de la Sociedad Civil.
+El Consejo promoverá las medidas destinadas a prever la recuperación física, psicológica, económica y social de las víctimas de la trata de personas, incluso cuando proceda en coordinación y con apoyo de organizaciones de la Sociedad Civil de probada calidad y eficiencia, Instituciones de Educación Superior, otras organizaciones pertinentes y demás sectores de la Sociedad Civil.
 
 ###### Artículo 20.
 
@@ -302,6 +434,36 @@ IX. Establecer metodologías de evaluación y seguimiento de las actividades que
 X. Diseñar ejes rectores de política pública sobre el tema de trata de personas; y
 
 XI. Los demás que el Consejo considere necesarios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO VI. ATENCIÓN, ASISTENCIA, PROTECCIÓN Y PREVENCIÓN EN ZONAS DE ALTA VULNERABILIDAD
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 23.
+
+El Consejo dentro de su Programa Estatal, generara planes específicos en aquellas localidades aisladas y zonas urbanas, identificadas con alta vulnerabilidad, y en las que tengan mayor incidencia el delito de trata de personas.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 24.
+
+Para cumplir lo dispuesto en el artículo anterior, el Consejo establecerá los siguientes aspectos:
+
+I. Acciones específicas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de vulnerabilidad, especialmente acciones de asistencia legal, alimenticia, campañas de salud, educación, vivienda y demás medidas que se consideren de acuerdo a la situación;
+
+II. Canalizar a las autoridades estatales y municipales, para que se otorguen los apoyos a los requerimientos específicos de aquellos grupos en riesgo;
+
+III. Realizar campañas que tiendan a elevar los niveles culturales, sociales, de bienestar social y sensibilización de la población sobre el problema de la trata de personas en todas sus manifestaciones;
+
+IV. Efectuarán programas para las familias, que les permitan dar mejor atención a sus hijas e hijos en la prevención de este delito;
+
+V. Promover la participación de la sociedad en la prevención de este delito y en la atención, protección y asistencia a las víctimas y sus familias, así como el apoyo de los particulares al financiamiento y a las actividades a que se refiere este artículo;
+
+VI. llevar a cabo las acciones de atención, protección y asistencia a las víctimas y sus familias, en relación a (sic) asistencia jurídica, social, médica, psicológica, educativa, laboral y cualquier otro aspecto que asegure la reinserción segura a la vida social en términos de la Ley de Victimas para el Estado de Nuevo León; y
+
+VII. Realizaran las demás actividades que permitan ampliar la calidad y la cobertura de los servicios de prevención de este delito.
 
 T R A N S I T O R I O S
 
@@ -352,3 +514,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto en materia de delitos previstos en el mismo, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Lo anterior en los términos de los Artículos Transitorios Segundo y Quinto del decreto por el que se expide la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública publicado el 30 de noviembre de 2010 en el Diario Oficial de la Federación y los Artículos Transitorios Décimo y Décimo Primero del Decreto por el que se expide la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos; y abroga la Ley para Prevenir y Sancionar la Trata de Personas; y reforma diversas disposiciones de la Ley Federal contra la Delincuencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública, publicado el 14 de junio de 2012 en el Diario Oficial de la Federación.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 251. SE REFORMAN LOS ARTÍCULOS 2, 3, LAS FRACCIONES III, VII, IX, X, XI, XII, XIII DEL ARTÍCULO 7, LA FRACCIÓN III DEL ARTÍCULO 8, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 19; Y POR ADICIÓN LOS ARTÍCULOS 2 BIS, 2 TER, LA FRACCIÓN XIV AL ARTÍCULO 7, 15 BIS, UN CAPÍTULO IV DENOMINADO “ATENCIÓN, ASISTENCIA, PROTECCIÓN Y PREVENCIÓN EN ZONAS DE ALTA VULNERABILIDAD” QUE CONTIENE LOS ARTÍCULOS 23 Y 24 TODOS DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN”.]
+
+UNICO: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
