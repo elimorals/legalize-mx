@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2019-12-20"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -1795,7 +1795,9 @@ b) Incentivos por uso compartido de vehículos y/o por el uso del automóvil fue
 
 c) Carriles a contraflujo o reversibles en vialidades principales y colectoras, en horas pico, en su caso por la implementación de los carriles se deberá efectuar el pago de peaje conforme a las Leyes hacendarias;
 
-d) Incentivos para propietarios de vehículos que utilicen el transporte colectivo;
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+d) Incentivos para propietarios de vehículos que utilicen el transporte colectivo y/o utilicen la bicicleta como medio de transporte;
 
 e) Incentivos para empresas que brinden el uso del transporte colectivo, público y/o privado;
 
@@ -1806,6 +1808,10 @@ g) Incentivos a empresas que tengan como objeto social la gestión o implementac
 h) Incentivos por reducir el costo social y ambiental al crear cercanía vivienda-escuela, vivienda-fuentes de empleo; y
 
 i) Establecer bases para el cobro de estacionamiento en vías públicas de zonas estratégicas, mediante aparatos tipo estaciono metros (sic) digitales, los cuales serán destinados para el mejoramiento y mantenimiento de espacios públicos de la zona estratégica que se trate;
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+j) La promoción del uso de la bicicleta mediante actividades incluyentes con los sectores sociales, privados, y públicos.
 
 VII. Los niveles de prioridad de los proyectos incluidos;
 
@@ -1868,6 +1874,10 @@ IX. Aumentar el número de opciones de servicios y modos de transporte, por medi
 X. Establecer políticas, planes y programas para la prevención de accidente (sic) automovilísticos, que desincentiven el uso de los teléfonos celulares al conducir, o manejar bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefacientes; y
 
 XI. Promover políticas que integren al transporte de carga y fomenten la movilidad institucional, entendida esta última, como aquella realizada por el sector público y privado o instituciones académicas orientadas a racionalizar el uso del automóvil entre quienes acuden a sus instalaciones, incluyendo sistemas de auto compartido, transporte público privado, fomento al uso de la bicicleta, redistribución de acuerdo a su residencia y todo tipo de innovación en el sector privado encaminada a dichos fines.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+XII. Promover que los inmuebles públicos y privados, sean de oficinas, universidades, colegios, escuelas, centros comerciales, centros culturales, centros recreativos, y edificios de departamentos, que cuenten con una capacidad de uso de 30 personas o más, cuenten con estacionamientos para las bicicletas. Los estacionamientos de bicicletas deben ser accesibles, incluyentes, visibles, cómodos, de fácil uso y espaciosos.
 
 La Secretaría expedirá un programa de nivel de zona conurbada o metropolitana, sin perjuicio de que pueda tener alcance regional para la movilidad integral urbana sustentable, éste programa se deberá revisar y en su caso actualizar o confirmar cada 3-tres años.
 
@@ -4223,7 +4233,9 @@ I. Solo podrán desarrollarse en las zonas consideradas aptas para tal fin en lo
 
 II. Deberán sujetarse a las normas básicas que al respecto emita la autoridad en cuanto a coeficiente de ocupación del suelo, coeficiente de uso de suelo, coeficiente de absorción;
 
-III. Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, soluciones de acceso viales y adecuaciones viales necesarias, resultado de un estudio de movilidad realizado conforme lo dispuesto por esta Ley, que prevea la solución de la problemática actual y futura del funcionamiento vial en ese lugar;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+III. Deberán cumplir los requerimientos de cajones de estacionamiento para vehículos y bicicletas de acuerdo con los ordenamientos legales aplicables, soluciones de acceso viales y adecuaciones viales necesarias, resultado de un estudio de movilidad realizado conforme lo dispuesto por esta Ley, que prevea la solución de la problemática actual y futura del funcionamiento vial en ese lugar;
 
 IV. El ancho mínimo de las vías públicas será de 19-diecinueve metros; Con aceras de 3.50-tres punto cincuenta metros;
 
@@ -4529,7 +4541,9 @@ V. Se pagarán los derechos o cuotas de incorporación a los servicios públicos
 
 VI. Las áreas libres de las edificaciones deberán ser arborizadas y ajardinadas en la proporción adecuada al tipo de edificación, magnitud y uso;
 
-VII. Contar con los accesos adecuados y los espacios para estacionamiento en las cantidades requeridas por la dimensión y utilización de la edificación y tipo de zona. En los predios fuera de fraccionamiento autorizado se realizarán las adecuaciones viales y señalamientos que se determinen en el estudio de movilidad emitido conforme lo dispuesto por el artículo 198 de esta Ley;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+VII. Contar con los accesos adecuados y los espacios para estacionamiento para vehículos y bicicletas, en las cantidades requeridas por la dimensión y utilización de la edificación y tipo de zona. En los predios fuera de fraccionamiento autorizado se realizarán las adecuaciones viales y señalamientos que se determinen en el estudio de movilidad emitido conforme lo dispuesto por el artículo 198 de esta Ley;
 
 VIII. Contar con iluminación y ventilación natural por medio de ventanas que den directamente a la vía pública, a patios interiores o espacios abiertos, salvo en los casos que por su naturaleza no las requieran;
 
@@ -6463,7 +6477,9 @@ e) La altura máxima de las edificaciones;
 
 f) El alineamiento para las edificaciones;
 
-g) Los espacios requeridos para estacionamiento en cualquiera de las modalidades previstas en esta Ley; y
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+g) Los espacios requeridos para estacionamiento en cualquiera de las modalidades previstas en esta Ley, incluyendo bicicletas, y transporte no motorizado; y
 
 h) La densidad máxima de unidades de vivienda por hectárea bruta.
 
@@ -7578,3 +7594,11 @@ P.O. 20 DE DICIEMBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los Municipios en un plazo no mayor a 60-sesenta días naturales contados a partir de la entrada en vigor de este Decreto, deberán realizar las reformas necesarias para ajustar sus Reglamentos Municipales a las disposiciones del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 259. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 120 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Gobierno del Estado y los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos.
