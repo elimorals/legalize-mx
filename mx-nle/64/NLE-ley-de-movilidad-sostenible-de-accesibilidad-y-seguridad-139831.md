@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-movilidad-sostenible-de-accesibilidad-y-seguridad-139831
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-08"
-last_updated: "2022-06-10"
+last_updated: "2022-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 8 de enero de 2020.
 
@@ -1893,6 +1893,10 @@ En la implementación de mecanismos para traslados óptimos, se debe contemplar 
 
 En la implementación del uso de la bicicleta como modalidad para el transporte, son fundamentales la habilitación de bici-estacionamientos que reduzcan la posibilidad de robo u otros daños a estos vehículos, bajo la responsabilidad de las administraciones públicas o privadas.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
+
+Los inmuebles que ocupan las administraciones públicas estatal y municipales, así como el Poder Judicial del Estado, el Poder Legislativo del Estado, y los órganos autónomos del Estado, de acuerdo con su disponibilidad presupuestal, promoverán el contar con biciestacionamientos.
+
 ###### Artículo 121.
 
 En caso de que los medios señalados en las fracciones II y III del artículo 117 de la presente Ley, sean ofrecidos como servicio al público de traslado de personas, el prestador del servicio requerirá permiso del Instituto previo dictamen favorable del Comité Técnico en los términos del Reglamento. Debiendo contar con las autorizaciones municipales correspondientes.
@@ -2165,7 +2169,7 @@ IX. Fecha de vencimiento de la póliza de seguro.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
 
-Terminado el plazo de vigencia de la póliza de los vehículos que prestan el servicio de transporte público, esta deberá ser renovada de inmediato por el permisionario o concesionario, dando aviso al Instituto, en los términos que este señale, dentro de los tres días hábiles siguienes al del vencimiento, acompañando copia de la renovación de la póliza de seguro.
+Terminado el plazo de vigencia de la póliza de los vehículos que prestan el servicio de transporte público, esta deberá ser renovada de inmediato por el permisionario o concesionario, dando aviso al Instituto, en los términos que este señale, dentro de los tres días hábiles siguientes al del vencimiento, acompañando copia de la renovación de la póliza de seguro.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE JUNIO DE 2022)</small>
 
@@ -3071,7 +3075,7 @@ Por lo tanto, envíese al Ejecutivo del Estado, para su promulgación y publicac
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los dieciocho días del mes de diciembre de dos mil diecinueve.
 
-PRESIDENTE: DIP. JUAN CARLOS RUÍZ GARCÍA; PRIMERA SECRETARIA: DIP. ALEJANDRA LARA MAIZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTII VILLARREAL.- Rúbricas.
+PRESIDENTE: DIP. JUAN CARLOS RUÍZ GARCÍA; PRIMERA SECRETARIA: DIP. ALEJANDRA LARA MAIZ; SEGUNDA SECRETARIA: DIP. LETICIA MARLENE BENVENUTTI VILLARREAL.- Rúbricas.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 20 de diciembre de 2019.
 
@@ -3170,3 +3174,11 @@ P.O. 10 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para efectos de lo dispuesto en la fracción XXII del artículo 8 de esta Ley, se entienden como Normas Oficiales Mexicanas las NOM-076-SEMARNAT-2012 y NOM-044-SEMARNAT-2017.
+
+P.O. 25 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 259. SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 120 DE LA LEY DE MOVILIDAD SOSTENIBLE Y ACCESIBILIDAD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Gobierno del Estado y los Municipios tendrán un plazo de noventa días hábiles contados a partir de la vigencia del presente Decreto para adecuar sus Reglamentos.
