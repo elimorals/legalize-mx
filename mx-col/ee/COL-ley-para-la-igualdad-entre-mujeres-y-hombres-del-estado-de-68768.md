@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6876
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2019-12-07"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -255,7 +255,9 @@ I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida
 
 II. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
 
-III. Fomentar la participación y representación política equilibrada entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+III. Fomentar la participación y representación política paritaria entre mujeres y hombres;
 
 IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
@@ -587,11 +589,15 @@ d) Las demás consideraciones en materia de salubridad, protección y prevenció
 
 XII. Promover condiciones de trabajo que eviten el acoso sexual y su prevención por medio de la elaboración y difusión de códigos de buenas prácticas, campañas informativas o acciones de formación.
 
-### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-La Política Estatal propondrá los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+La Política Estatal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
 
 ###### Artículo 33.
 
@@ -601,21 +607,21 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-III. Promover la participación equitativa de mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas, en el servicio civil de carrera, así como en altos cargos públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Colima, en las estructuras de los sindicatos y, en los Municipios;
+III. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas, en el servicio civil de carrera de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Colima, en las estructuras de los sindicatos y, en los Municipios;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
 IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil;
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-V. Implementar acciones afirmativas a fin de impulsar la participación equitativa de mujeres y hombres en cargos públicos; y
+V. Implementar acciones afirmativas a fin de impulsar la participación paritaria de mujeres y hombres en cargos públicos; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-VI. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicios (sic) civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
+VI. Fomentar la participación paritaria en los procesos de selección, contratación y ascensos en el servicio civil de carrera.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -884,3 +890,9 @@ P.O. 7 DE DICIEMBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. La observancia del principio de paridad de género a que se refiere el artículo 4 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 179.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
