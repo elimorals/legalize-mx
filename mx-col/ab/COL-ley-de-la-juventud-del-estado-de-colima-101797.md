@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-juventud-del-estado-de-colima-101797"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-12"
-last_updated: "2022-10-08"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE NOVIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA JUVENTUD DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE NOVIEMBRE DE 2022.]</small>
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de julio de 2014.
 
@@ -1123,33 +1123,37 @@ Este premio se tramitará ante la Subsecretaría de las Juventudes del Estado de
 
 El premio consistirá en una medalla y un diploma, pudiendo incluir adicionalmente, una entrega en numerario por el monto determinado en el presupuesto de la Subsecretaría de las Juventudes del Estado de Colima.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022)</small>
+(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2022)
 
-## TÍTULO SEXTO (SIC)
+## TÍTULO SÉPTIMO. (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2022)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO PRIMERO (SIC). DE LA RED DE LA JUVENTUD
 
-### CAPÍTULO PRIMERO (SIC). DE LA RED ESTATAL DE LA JUVENTUD
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2022)
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+###### Artículo 94.
 
-Artículo 91 (SIC).- La Red Estatal de la Juventud estará constituida por todas las instancias municipales de la juventud en el estado, correspondiendo a la Subsecretaría formalizar su incorporación y promover su participación.
+La Red Estatal de las (sic) Juventud estará constituida por todas las instancias municipales de la juventud en el estado, correspondiendo a la Subsecretaría formalizar su incorporación y promover su participación.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2022)
 
-Artículo 92 (SIC).- En los planes, proyectos y/o acciones dirigidas a la juventud que se lleven a cabo desde la Red Estatal de la Juventud, se deberán considerar las diversas características sociales, económicas, políticas, étnicos (sic), culturales y de género en cada uno de los municipios, a efecto de coadyuvar a su desarrollo integral.
+###### Artículo 95.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022)</small>
+En los planes, proyectos y/o acciones dirigidas a la juventud que se lleven a cabo desde la Red Estatal de la Juventud, se deberán considerar las diversas características sociales, económicas, políticas, étnicos, culturales y de género en cada uno de los municipios, a efecto de coadyuvar a su desarrollo integral.
 
-Artículo 93 (SIC).- La Red Estatal de la Juventud, tendrá como objetivos principalmente los siguientes:
+(ADICIONADO, P.O. 8 DE OCTUBRE DE 2022) (F. DE E., P.O. 26 DE NOVIEMBRE DE 2022)
+
+###### Artículo 96.
+
+La Red Estatal de la Juventud, tendrá como objetivos principalmente los siguientes:
 
 I. Dar participación y colaboración a los gobiernos municipales para la formulación y aplicación de políticas públicas enfocadas al desarrollo integral de la juventud;
 
-II. Elaborar, coordinar y apoyar propuestas municipales y estatales que contribuyan a la construcción general de la juventud en el Estado y en las entidades municipales;
+II. Elaborar, coordinar y apoyar propuestas municipales y estatales que contribuyan a la construcción general de la juventud en el estado y en las entidades municipales;
 
 III. Propiciar la vinculación entre instancias municipales de la juventud y de las instancias con la Subsecretaría;
 
-IV. Ofrecer un espacio de comunicación, facilitando los espacios entre las instancias municipales de la juventud, a efecto de fortalecer los programas y acciones encaminada al desarrollo integral de la juventud colimense; y
+IV. Ofrecer un espacio de comunicación, facilitando los espacios entre las instancias municipales de la juventud, a efecto de fortalecer los programas y acciones encaminada (sic) al desarrollo integral de la juventud colimense; y
 
 V. Propiciar el intercambio de experiencias y colaboración mutua con sus integrantes.
 
