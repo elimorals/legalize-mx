@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2022-08-20"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1225,13 +1225,13 @@ Siendo Carta matrimonial la siguiente:
 
 El matrimonio es un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que los pretendientes, previos las formalidades que establece la ley, se presenten ante la autoridad y expresen libremente su voluntad de unirse en matrimonio.
 
-La bigamia y la poligamia continúan prohibidas y sujetas a las penas que les tienen señaladas nuestras leyes.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-El matrimonio, es el medio idóneo para el desarrollo de la familia, conservar la especie y suplir las imperfecciones del individuo que no puede bastarse a sí mismo para llegar a la perfección del género humano, pues ésta no existe en la persona sola, sino en la dualidad conyugal. Los casados deben ser y serán sagrados el uno para el otro, aún más de lo que es cada uno para si.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-El hombre, actuando con fortaleza y responsabilidad, debe proporcionar a la mujer apoyo, protección y comprensión, tratándola siempre con amorosa generosidad, especialmente cuando ella se entrega incondicionalmente a él y que la sociedad se la ha confiado por conducto de este matrimonio.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-La mujer, con actuar igualmente entregada y responsable, debe dar a su esposo, aliento, comprensión, consuelo y buen consejo, tratándolo siempre con amor y con la misma generosidad con la cual desea ser tratada.
+(DEROGADO OCTAVO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022).
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -11866,3 +11866,9 @@ TERCERO. Se derogan en lo conducente todas las disposiciones jurídicas en lo qu
 CUARTO. Los juicios o procedimientos de responsabilidad patrimonial iniciados con anterioridad a la entrada en vigor del presente Decreto continuarán tramitándose hasta su conclusión conforme al ordenamiento jurídico vigente aplicable al momento de su inicio.
 
 QUINTO. El Tribunal y las autoridades administrativas llevarán a cabo campañas de divulgación de la Ley contenida en el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 180.- POR EL QUE SE DEROGAN LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 102 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
