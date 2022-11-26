@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-profesional-de-carrera-del-estado-y-68682"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-04"
-last_updated: "2013-03-23"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de agosto de 2004.
 
@@ -75,15 +75,15 @@ VII. Servidor Público de Carrera: Persona física integrante del Servicio Profe
 
 VIII. Consejo: El Consejo del Servicio Profesional de Carrera que es el Órgano Superior de Gobierno del Sistema;
 
-IX. Instituto: El Instituto de Selección y Capacitación del Estado de Zacatecas, encargado de la selección y capacitación;
+IX. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022)
 
-X. Junta Directiva: Es el órgano superior del Instituto;
+X. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022)
 
-XI. Dirección General: La Dirección General del Instituto;
+XI. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-XII. Secretaría de Administración: Dependencia que fungirá como instancia responsable de la ejecución y desarrollo del Sistema;
+XII. Secretaría de Administración: Dependencia que fungirá como instancia responsable de la ejecución y desarrollo del Sistema, encargada de la selección y capacitación;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -107,9 +107,13 @@ XIX. Catálogo General de Puestos: El integrado por las clasificaciones conjunta
 
 XX. Tabulador: Es el instrumento técnico en el que se especifican los niveles salariales a que tendrán acceso los servidores públicos de carrera;
 
-XXI. Plan General de Capacitación: Es el instrumento mediante el cual el Instituto ejecutará los programas específicos de capacitación en administración pública;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-XXII. Programa: Cada uno de los programa específicos de capacitación desarrollados por el Instituto, siendo los instrumentos que permitirán aumentar los índices de empleabilidad en el servidor público de carrera, a la vez que propicie el perfeccionamiento de conocimientos y habilidades en el mismo; y
+XXI. Plan General de Capacitación: Es el instrumento mediante el cual la Secretaría de Administración ejecutará los programas específicos de capacitación en administración pública;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XXII. Programa: Cada uno de los programas específicos de capacitación desarrollados por la Secretaría de Administración, siendo los instrumentos que permitirán aumentar los índices de empleabilidad en el servidor público de carrera, a la vez que propicie el perfeccionamiento de conocimientos y habilidades en el mismo; y
 
 XXIII. Registro: Es el padrón que contiene la relación de los servidores públicos que ingresan y reingresan al Sistema.
 
@@ -139,7 +143,9 @@ II. Los titulares de las dependencias, coordinadores, subsecretarios, secretario
 
 III. Los Directores Generales de las entidades públicas paraestatales, Secretarios Ejecutivos de Consejos, Titulares de Juntas o Comisiones, Secretarios de Patronatos u homólogos;
 
-IV. Los Magistrados del Tribunal de Conciliación y Arbitraje del Estado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+I (SIC). Los Magistrados del Tribunal de Justicia Laboral Burocrática del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -165,9 +171,11 @@ XIII. Los adscritos a un servicio civil de carrera, que no tenga convenio con el
 
 Los servidores públicos sindicalizados, previa licencia, así como el personal técnico operativo de confianza, podrán ocupar un puesto dentro del Sistema del Servicio Profesional de Carrera, sujetándose para tal efecto al procedimiento de ingreso establecido en el artículo 30 de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-El Servicio Profesional de carrera relativo a los Agentes del Ministerio Público, Peritos, Directores, Jefes de Departamento, Policías Ministeriales y demás personal adscrito a la Procuraduría General de Justicia del Estado, se sujetará a las normas establecidas en la Ley Orgánica del Ministerio Público del Estado, correspondiéndole al Instituto de Formación Profesional dependiente de la misma, su ejecución y desarrollo.
+El Servicio Profesional de carrera relativo a los Agentes del Ministerio Público, Peritos, Directores, Jefes de Departamento, Policías Ministeriales y demás personal adscrito a la Fiscalía General de Justicia del Estado, se sujetará a las normas establecidas en la Ley Orgánica de la Fiscalía General del Estado.
 
 Respecto a la profesionalización de los cuerpos de seguridad pública, se desarrollará de conformidad con lo dispuesto en la Ley de Seguridad Pública del Estado.
 
@@ -175,9 +183,11 @@ Respecto a la profesionalización de los cuerpos de seguridad pública, se desar
 
 En los Planes Estatal y Municipales de Desarrollo, se deberán incluir apartados relativos al Servicio Profesional de Carrera, como parte fundamental de la operación de las dependencias.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 8.
 
-A falta de disposición expresa se aplicarán de manera supletoria, lo dispuesto en la Ley Orgánica de la Administración Pública del Estado, Ley Orgánica del Municipio del Estado, Ley de las Entidades Públicas Paraestatales del Estado, Ley del Servicio Civil del Estado y Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+A falta de disposición expresa se aplicarán de manera supletoria, lo dispuesto en la Ley Orgánica de la Administración Pública del Estado, Ley Orgánica del Municipio del Estado, Ley de las Entidades Públicas Paraestatales y la Ley del Servicio Civil del Estado.
 
 ## TÍTULO SEGUNDO. De los Órganos del Sistema y sus Atribuciones
 
@@ -189,7 +199,7 @@ Para el cumplimiento de las disposiciones contenidas en la presente ley, son ór
 
 I. El Consejo del Servicio Profesional de Carrera;
 
-II. El Instituto de Selección y Capacitación del Estado;
+II. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -257,7 +267,9 @@ IV. Emitir el reglamento interior del Consejo;
 
 V. Analizar y aprobar el catálogo general de puestos, así como el tabulador;
 
-VI. Aprobar a propuesta del Instituto, las bases generales a las que deberán sujetarse las convocatorias de ingreso y promoción al Servicio Profesional de Carrera;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+VI. Aprobar a propuesta de la Secretaría de Administración, las bases generales a las que deberán sujetarse las convocatorias de ingreso y promoción al Servicio Profesional de Carrera;
 
 VII. Aprobar los criterios de puntuación que por profesionalización y desempeño recibirán los servidores públicos de carrera;
 
@@ -265,7 +277,9 @@ VIII. Emitir los criterios respecto de las medidas disciplinarias;
 
 IX. Aprobar el calendario de sesiones del Consejo;
 
-X. Aprobar la suscripción de convenios que celebre el Instituto con las dependencias y entidades federales y estatales, así como con los ayuntamientos e instituciones públicas y privadas, para el otorgamiento de capacitación al personal o con otros fines que beneficien el funcionamiento del servicio;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+X. Aprobar la suscripción de convenios que celebre la Secretaría de Administración con las dependencias y entidades federales y estatales, así como con los ayuntamientos e instituciones públicas y privadas, para el otorgamiento de capacitación al personal o con otros fines que beneficien el funcionamiento del servicio;
 
 XI. Celebrar convenios para favorecer la movilidad de servidores públicos con la Federación, los Estados y Municipios que no sean del Estado de Zacatecas;
 
@@ -289,77 +303,25 @@ Las resoluciones y acuerdos se tomarán por mayoría de los miembros presentes t
 
 A las sesiones del Consejo podrán ser invitados los titulares de las dependencias y entidades de la administración pública estatal, de los ayuntamientos, instituciones públicas y privadas, así como los servidores públicos que dada la naturaleza del asunto a tratar, sea necesaria su presencia y participación, los cuales solo tendrán derecho a voz.
 
-### CAPÍTULO III. Del Instituto de Selección y Capacitación del Estado
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+### CAPÍTULO III. Del Instituto de Selección y Capacitación del Estado
 
 ###### Artículo 17.
 
-Se crea el Instituto de Selección y Capacitación de Estado, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, con domicilio legal en la Ciudad de Zacatecas, Capital, cuya coordinadora de sector será la Secretaría de Administración.
-
-El Instituto tendrá por objeto el reclutamiento, selección, y profesionalización de los servidores públicos a que se refiere el artículo 4 de la presente ley, así mismo otorgar capacitación a los servidores públicos de la administración publica estatal, municipal y paramunicipal.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 18.
 
-Son atribuciones del Instituto:
-
-I. Elaborar el Plan General de Capacitación, para ejecutar los programas específicos en las dependencias;
-
-II. Diseñar y operar proyectos específicos para el reclutamiento, selección capacitación y profesionalización de los servidores públicos;
-
-III. Prestar servicios de asesoría y capacitación al Poder Legislativo y Judicial, ayuntamientos y organizaciones privadas;
-
-IV. Suscribir los convenios, acuerdos y contratos que celebre con instancias capacitadoras, instituciones y organismos de educación superior nacionales y extranjeras, para la impartición de cursos, conferencias, foros o cualquier otro evento de carácter académico, con la finalidad de apoyar a los servidores públicos en su profesionalización.
-
-Asimismo, con los celebrados con otras entidades federativas, ayuntamientos o instituciones nacionales o internacionales de carácter privado; y
-
-V. En general celebrar los actos jurídicos o administrativos que coadyuven a su mejor desempeño.
-
-Las demás que le señale el presente ordenamiento, el reglamento de esta ley, su estatuto orgánico u otras disposiciones.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 19.
 
-La Junta Directiva es el órgano de gobierno del Instituto cuyo presidente es el Gobernador del Estado y se integra con las siguientes vocalías:
-
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
-
-I. El Secretario de Administración en su carácter de Vicepresidente;
-
-II. El Secretario de Finanzas;
-
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
-
-III. El titular de la Unidad de Planeación del Poder Ejecutivo;
-
-IV. Un representante del Sindicato Único de Trabajadores al Servicio del Estado, Municipios y organismos paraestatales debiendo ser su secretario general o persona designada por él;
-
-V. Un representante de la administración pública centralizada y paraestatal que tenga el carácter de servidor público de carrera;
-
-VI. Un representante de la administración pública municipal; y
-
-VII. Un representante de los organismos de capacitación.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 20.
 
-Son facultades y obligaciones de la Junta Directiva las siguientes:
-
-I. Proponer al Presidente del Consejo del Servicio Profesional de Carrera, una terna para elegir al Director General del Instituto;
-
-II. Emitir su Estatuto Orgánico y los manuales necesarios para el reclutamiento, selección, capacitación y profesionalización;
-
-III. Proponer al Consejo las bases para las convocatorias de los procesos de ingreso y promoción al sistema;
-
-IV. Analizar y aprobar la estimación de ingresos y el presupuesto formulado por el Director General, el cual deberá insertarse al presupuesto de egresos del Estado;
-
-V. Nombrar a propuesta del Director General, a los servidores públicos del Instituto;
-
-VI. Conservar e incrementar el patrimonio, así como autorizar inversiones y créditos que no excedan la capacidad financiera del Instituto;
-
-VII. Conocer y aprobar el informe pormenorizado del estado que guarde la administración del Instituto;
-
-VIII. Expedir los ordenamientos necesarios para la mejor organización y funcionamiento del Instituto;
-
-IX. Las demás que le sean conferidas por la presente ley, su reglamento y demás disposiciones aplicables.
+(DEROGADO, P.O. 26 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -371,7 +333,9 @@ IX. Las demás que le sean conferidas por la presente ley, su reglamento y demá
 
 La Secretaría de Administración, en ejercicio de las facultades que le confiere la Ley Orgánica de la Administración Pública del Estado en materia de administración de recursos humanos, fungirá como instancia responsable del Sistema de Servicio Profesional de Carrera.
 
-La Secretaría de Administración y el Instituto, coordinarán esfuerzos para eficientar la capacitación y profesionalización de los servidores públicos, a fin de consolidar el eficaz funcionamiento del Sistema.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+La Secretaría de Administración y el Consejo, coordinarán esfuerzos para eficientar la capacitación y profesionalización de los servidores públicos, a fin de consolidar el eficaz funcionamiento del Sistema.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
@@ -391,7 +355,7 @@ V. Realizar los lineamientos para el eficaz funcionamiento del Registro de Servi
 
 VI. Ejecutar las actividades y acciones que le corresponde para el funcionamiento del sistema;
 
-VII. Informar las vacantes existentes al Instituto, en los términos establecidos en el reglamento del presente ordenamiento;
+VII. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022)
 
 VIII. Elaborar en coordinación con las dependencias, entidades y en su caso los ayuntamientos, el catálogo general de puestos y el tabulador;
 
@@ -399,9 +363,29 @@ IX. Emitir los criterios sobre los cuales se elaborará el registro de servidore
 
 X. Proponer los criterios de puntuación por profesionalismo y desempeño;
 
-XI. Proponer al Consejo las políticas tendientes a la modernización de la gestión administrativa; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XI. Proponer al Consejo las políticas tendientes a la modernización de la gestión administrativa;
 
 XII. Substanciar y resolver los recursos de inconformidad que presenten los servidores públicos sancionados en términos de esta ley.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XIII. Elaborar el Plan General de Capacitación, para ejecutar los programas específicos en las dependencias;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Diseñar y operar proyectos específicos para el reclutamiento, selección capacitación y profesionalización de los servidores públicos;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XV. Prestar servicios de asesoría y capacitación al Poder Legislativo y Judicial, ayuntamientos y organizaciones privadas; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XVI. Suscribir los convenios, acuerdos y contratos que celebre con instancias capacitadoras, instituciones y organismos de educación superior nacionales y extranjeras, para la impartición de cursos, conferencias, foros o cualquier otro evento de carácter académico, con la finalidad de apoyar a los servidores públicos en su profesionalización.
+
+Asimismo, con los celebrados con otras entidades federativas, ayuntamientos o instituciones nacionales o internacionales de carácter privado.
 
 ## TÍTULO TERCERO. De las Atribuciones de los Servidores Públicos de Carrera
 
@@ -505,9 +489,11 @@ V. Las demás que le sean conferidas por la presente ley, su reglamento y demás
 
 Para ingresar a cualquiera de las dependencias, y ocupar alguno de los puestos previstos en el artículo 4° de la presente ley, se deberá dar cumplimiento a lo dispuesto en este título.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-El proceso de reclutamiento y selección al Sistema de Servicio Profesional de Carrera, está a cargo del instituto de selección y capacitación: (sic)
+El proceso de reclutamiento y selección al Sistema de Servicio Profesional de Carrera, está a cargo de la Secretaría de Administración.
 
 ###### Artículo 30.
 
@@ -533,7 +519,9 @@ Reclutamiento es la primera fase del proceso de ingreso y tiene por objeto reclu
 
 La selección es la fase que permitirá garantizar que el personal que se declare apto a prestar un servicio en la administración pública estatal, y en su caso, la administración municipal, cumpla con el perfil del puesto.
 
-El Instituto aplicará los procedimientos de selección a los aspirantes a ingresar a una plaza, mediante concurso interno, externo y/o mixto. Se considerarán aspirantes, a los servidores públicos y a los solicitantes externos que hubieren cubierto los requisitos legales correspondientes.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+La Secretaría de Administración aplicará los procedimientos de selección a los aspirantes a ingresar a una plaza, mediante concurso interno, externo y/o mixto. Se considerarán aspirantes, a los servidores públicos y a los solicitantes externos que hubieren cubierto los requisitos legales correspondientes.
 
 ###### Artículo 33.
 
@@ -551,27 +539,33 @@ II. Los cursos especiales o cualquier otra práctica que considere necesarios la
 
 III. Los exámenes de ingreso que a efectos se dispongan.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 35.
 
-El Instituto deberá emitir y publicar la convocatoria en un diario de mayor circulación en la Entidad y en el Periódico Oficial, Órgano del Gobierno del Estado.
+La Secretaría de Administración deberá emitir y publicar la convocatoria en un diario de mayor circulación en la Entidad y en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### Artículo 36.
 
 Los requisitos de la convocatoria se establecerán en el reglamento de la presente ley.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-La emisión del dictamen es la fase en la cual el Instituto con base en los resultados, propone a la Secretaría de Administración la lista de los aspirantes que son aptos a ocupar la plaza o plazas vacantes.
+La emisión del dictamen es la fase en la cual la Secretaría de Administración con base en los resultados, propone al Consejo la lista de los aspirantes que son aptos a ocupar la plaza o plazas vacantes.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-El dictamen que expida el Instituto, deberá constar por escrito y estar debidamente fundado y motivado.
+El dictamen que expida la Secretaría de Administración, deberá constar por escrito y estar debidamente fundado y motivado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 39.
 
-El Instituto deberá notificar de manera personal el dictamen que emita, a los aspirantes que participaron en el proceso de selección, en un término que no deberá exceder de tres días hábiles siguientes a su emisión.
+La Secretaría de Administración deberá notificar de manera personal el dictamen que emita, a los aspirantes que participaron en el proceso de selección, en un término que no deberá exceder de tres días hábiles siguientes a su emisión.
 
 Los resultados de los dictámenes serán públicos.
 
@@ -639,9 +633,11 @@ III. Especialización;
 
 IV. Formación para el ascenso.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 51.
 
-El diseño y la implementación de las fases de profesionalización estarán a cargo del Instituto, atendiendo a las necesidades de la administración pública estatal y municipal y a las directrices que emita el consejo.
+El diseño y la implementación de las fases de profesionalización estarán a cargo de la Secretaría de Administración, atendiendo a las necesidades de la administración pública estatal y municipal y a las directrices que emita el consejo.
 
 ###### Artículo 52.
 
@@ -655,17 +651,23 @@ La acreditación de la fase de inducción será de carácter introductorio y bus
 
 La actualización es de carácter permanente y tiene por objeto asegurar que los servidores públicos de carrera adquieran la información actualizada en las materias directamente vinculadas con su función.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 55.
 
-La fase de actualización se integra con los cursos que al efecto establezca el Instituto. Dichos cursos podrán ser optativos u obligatorios y se otorgarán puntos a los servidores públicos de carrera que los acrediten.
+La fase de actualización se integra con los cursos que al efecto establezca la Secretaría de Administración. Dichos cursos podrán ser optativos u obligatorios y se otorgarán puntos a los servidores públicos de carrera que los acrediten.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 56.
 
-La fase de especialización es de carácter permanente y tiene como propósito que los servidores públicos de carrera profundicen en los conocimientos necesarios para el desarrollo de sus funciones, comprendiendo las materias específicas relacionadas con el puesto. Dicha fase se integra con los cursos que al efecto establezca el Instituto, mismos que serán optativos u obligatorios, otorgándose puntos a los servidores públicos de carrera que los acrediten.
+La fase de especialización es de carácter permanente y tiene como propósito que los servidores públicos de carrera profundicen en los conocimientos necesarios para el desarrollo de sus funciones, comprendiendo las materias específicas relacionadas con el puesto. Dicha fase se integra con los cursos que al efecto establezca la Secretaría de Administración, mismos que serán optativos u obligatorios, otorgándose puntos a los servidores públicos de carrera que los acrediten.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 57.
 
-En el proceso de formación para el ascenso, el Instituto podrá preparar a los servidores públicos de carrera para poder participar en los concursos y exámenes de ascenso.
+En el proceso de formación para el ascenso, la Secretaría de Administración podrá preparar a los servidores públicos de carrera para poder participar en los concursos y exámenes de ascenso.
 
 ###### Artículo 58.
 
@@ -673,11 +675,13 @@ La acreditación de las fases y la evaluación de los objetivos están previstas
 
 ### CAPÍTULO VI. De la Evaluación, Permanencia y Desarrollo
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 59.
 
-Las dependencias con el apoyo del Instituto y de la Secretaría de Administración realizarán los procesos de evaluación de los servidores públicos de carrera.
+Las dependencias con el apoyo de la Secretaría de Administración realizarán los procesos de evaluación de los servidores públicos de carrera.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 La evaluación estará compuesta por un conjunto de procedimientos e instrumentos que la Secretaría de Administración con apoyo de la Unidad de Planeación del Titular del Poder Ejecutivo y la Secretaría de la Función Pública del Gobierno del Estado propondrán al Consejo, los que tendrán por objeto verificar el cumplimiento de las metas contenidas en el Plan Estatal de Desarrollo, el nivel de profesionalización de los servidores públicos de carrera y apoyar en la toma de decisiones relativas a la permanencia, la separación, la titularidad, promoción y ascenso, así como el otorgamiento o suspensión de incentivos.
 
@@ -803,7 +807,9 @@ Transcurrido el plazo para recabar los informes, la Secretaria de Administració
 
 En un término que no excederá de treinta días hábiles posteriores a la celebración de la audiencia, la Secretaría de Administración o el ayuntamiento, dictarán resolución fundada y motivada.
 
-Contra la resolución que ponga fina al recurso, el promovente podrá interponer juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+Contra la resolución que ponga fin al recurso, el promovente podrá interponer juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado.
 
 ## TRANSITORIOS
 
@@ -888,3 +894,35 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 145.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS PORCIONES NORMATIVAS DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DEL ESTADO Y MUNICIPIOS DE ZACATECAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+Artículo tercero. Se extingue el Instituto de Selección y Capacitación del Estado de Zacatecas, conservando su personalidad jurídica, exclusivamente para efectos del proceso de liquidación.
+
+Artículo cuarto. De acuerdo con lo estipulado en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas del Gobierno del Estado deberá determinar las partidas presupuestales correspondientes, con el objeto de llevar a cabo las acciones necesarias para el proceso de extinción y liquidación y, en su caso, cubrir los pasivos y contingencias que se originen.
+
+Artículo quinto. En los términos de la Ley Orgánica de la Administración Pública del Estado, la Ley de Bienes del Estado de Zacatecas y sus Municipios, la Ley de Entrega-Recepción del Estado y otros cuerpos normativos aplicables, los bienes muebles e inmuebles que conformen el patrimonio del organismo público que se extingue, pasarán a formar parte de la Secretaría de Administración del Gobierno del Estado. Para tal efecto, ésta dependencia levantará un inventario de los mismos y realizará un balance inicial de liquidación.
+
+Artículo sexto. De conformidad con lo previsto en el artículo 13 de la Ley de las Entidades Públicas Paraestatales, se designe un Liquidador, mismo que tendrá a su cargo el proceso de extinción y liquidación y tendrá, además de las facultades que le otorguen las bases de extinción y liquidación que al efecto se emitan, las mencionadas enseguida:
+
+a) Fungirá como representante legal del organismo que se extingue, con amplias facultades para actos de administración y de dominio, pleitos y cobranzas, así como otras análogas.
+
+b) Realizará el proceso de extinción de los órganos de dirección, así como de las unidades administrativas, en su caso.
+
+c) Tendrá bajo su custodia los recursos del organismo público que se extingue, con la estricta finalidad de cumplir con las obligaciones adquiridas.
+
+d) Celebrar los contratos, convenios o cualquier otro instrumento jurídico, relacionado con la extinción y liquidación del organismo.
+
+e) Mantener una permanente coordinación con la Secretaría de Administración y la Coordinación General Jurídica, en relación a los juicios laborales y procedimientos administrativos o de cualquier otra naturaleza, que surjan con motivo de la extinción y liquidación del organismo público descentralizado, así como en los procedimientos de conciliación que, en su caso, se desarrollen ante el Centro de Conciliación Laboral del Estado de Zacatecas.
+
+f) Resolverá cualquier situación inherente al proceso de extinción y liquidación.
+
+Artículo séptimo. La Secretaría de la Función Pública, en el ejercicio de sus atribuciones, vigilará el proceso de extinción y liquidación. Asimismo, en la cuenta pública respectiva, se informará a la Auditoría Superior del Estado sobre el proceso de extinción y liquidación.
+
+Artículo octavo. La Secretaría de Finanzas en coordinación con la Secretaría de la Función Pública, adscribirán los recursos humanos, materiales y financieros del organismo público descentralizado que mediante esta reforma se extingue, a la Secretaría de Administración, en un respeto absoluto a los derechos laborales adquiridos por los trabajadores.
