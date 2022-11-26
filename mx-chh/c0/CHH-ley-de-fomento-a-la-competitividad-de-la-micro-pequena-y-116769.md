@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fomento-a-la-competitividad-de-la-micro-pequena-y-116769
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-24"
-last_updated: "2016-09-24"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de septiembre de 2016.
 
@@ -49,15 +49,19 @@ LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL E
 
 ### CAPÍTULO PRIMERO. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de observancia general e interés público y tiene por objeto fomentar la creación, viabilidad, desarrollo, expansión, productividad, competitividad y sustentabilidad de las micro, pequeñas y medianas empresas del Estado, así como incrementar su participación en el mercado nacional e internacional, en un marco de crecimiento de las cadenas productivas que generen a los productos un mayor valor agregado, con la finalidad de fomentar y preservar el empleo y el bienestar social y económico de los habitantes del Estado de Chihuahua, sin menoscabo de lo dispuesto por las leyes federales de la materia.
+La presente Ley es de observancia general e interés público y tiene por objeto fomentar con perspectiva de género la creación, viabilidad, desarrollo, expansión, productividad, competitividad y sustentabilidad de las micro, pequeñas y medianas empresas del Estado, así como incrementar su participación en el mercado nacional e internacional, en un marco de crecimiento de las cadenas productivas que generen a los productos un mayor valor agregado, con la finalidad de fomentar y preservar el empleo y el bienestar social y económico de los habitantes del Estado de Chihuahua, sin menoscabo de lo dispuesto por las leyes federales de la materia.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 2.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Economía.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Innovación y Desarrollo Económico.
 
-La Secretaría de Economía, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las autoridades federales y municipales, así como con particulares; así mismo, se coordinará con las dependencias y entidades de la administración pública estatal para la implementación de los programas correspondientes.
+La Secretaría de Innovación y Desarrollo Económico, en el ámbito de su competencia, celebrará convenios para establecer los procedimientos de coordinación en materia de apoyo a la micro, pequeña y mediana empresa, entre las autoridades federales y municipales, así como con particulares; así mismo, se coordinará con las dependencias y entidades de la administración pública estatal para la implementación de los programas correspondientes.
 
 ###### ARTÍCULO 3.
 
@@ -85,7 +89,9 @@ X. Organismos Empresariales: Las Cámaras Empresariales y sus Confederaciones en
 
 XI. Reglamento: El Reglamento de esta Ley.
 
-XII. Secretaría: La Secretaría de Economía del Gobierno del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XII. Secretaría: La Secretaría de Innovación y Desarrollo Económico del Gobierno del Estado de Chihuahua.
 
 XIII. Sector Público: Dependencias y Entidades de la Administración Pública del Estado y Municipios de Chihuahua.
 
@@ -101,7 +107,9 @@ I. Crear los mecanismos mediante los cuales la Secretaría elaborará las polít
 
 II. Facilitar el acceso al financiamiento para la correcta capitalización de las MIPYMES.
 
-III. Promover la cultura emprendedora a través de los programas educativos, de incubadoras de empresas y particulares dedicados a tal fin, para impulsar la constitución de nuevas empresas y la consolidación de las existentes.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+III. Promover la cultura emprendedora con perspectiva de género a través de los programas educativos, de incubadoras de empresas y particulares dedicados a tal fin, para impulsar la constitución de nuevas empresas y la consolidación de las ya existentes.
 
 IV. Fomentar entre las MIPYMES los procedimientos, prácticas y normas que contribuyan al avance de la calidad en los procesos de producción, distribución, mercadeo y servicio al cliente.
 
@@ -114,6 +122,10 @@ VII. Estimular la cooperación y asociación de las MIPYMES, a través de sus Or
 VIII. Promover esquemas para la modernización, innovación y desarrollo tecnológico en las MIPYMES.
 
 IX. Impulsar el respeto y conservación del medio ambiente en la creación y desarrollo de las MIPYMES conforme a la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+X. Fomentar la participación de las mujeres en la creación, consolidación y desarrollo de MIPYMES, con la implementación de programas productivos y de financiamiento con perspectiva de género.
 
 ### CAPÍTULO SEGUNDO. DEL DESARROLLO DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -175,6 +187,14 @@ X. Fomento para la expansión nacional e internacional de las MIPYMES.
 
 XI. Promoción de la Economía Social.
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XII. Fomento en coordinación con el Instituto Chihuahuense de las Mujeres de financiamiento a mujeres emprendedoras.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+En todos los programas se garantizará la perspectiva de género.
+
 Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
 
 ###### ARTÍCULO 9.
@@ -227,9 +247,11 @@ VI. La atracción de inversiones.
 
 La Secretaría deberá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevas empresas, con el fin de apoyar el desarrollo económico de las MIPYMES, con enfoque prioritario a las actividades de mayor valor agregado, innovación y contenido tecnológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
-Se crea el Fondo al Fomento a la Micro, Pequeña y Mediana Empresa con la partida presupuestal que en su caso apruebe el Poder Legislativo a propuesta del Poder Ejecutivo. La integración y funcionamiento del Fondo quedará a cargo de la Secretaría de Economía, que operará conforme a los siguientes principios:
+Se crea el Fondo al Fomento a la Micro, Pequeña y Mediana Empresa con la partida presupuestal que en su caso apruebe el Poder Legislativo a propuesta del Poder Ejecutivo. La integración y funcionamiento del Fondo quedará a cargo de la Secretaría de Innovación y Desarrollo Económico, que operará conforme a los siguientes principios:
 
 I. La partida presupuestal para el ejercicio que se trate estará prevista en el Presupuesto de Egresos del Estado.
 
@@ -241,7 +263,9 @@ IV. Los recursos destinados al Fondo que no sean erogados en el año serán acum
 
 V. Los apoyos y/o financiamiento a que se refiere la presente Ley estarán sujetos al saldo disponible en el Fondo.
 
-La Secretaría de Economía, informará al Consejo sobre las acciones a que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+La Secretaría de Innovación y Desarrollo Económico, informará al Consejo sobre las acciones a que se refiere el presente artículo.
 
 ###### ARTÍCULO 16.
 
@@ -287,7 +311,9 @@ El Consejo estará integrado de la siguiente manera:
 
 I. Por un (sic) Presidencia Honoraria, que será quien ocupe la titularidad del Ejecutivo.
 
-II. Por una Presidencia Ejecutiva, que será quien ocupe la titularidad de la Secretaría de Economía.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+II. Por una Presidencia Ejecutiva, que será quien ocupe la titularidad de la Secretaría de Innovación y Desarrollo Económico.
 
 III. Una Secretaría Técnica, que será quien ocupe la titularidad de la Coordinación General de Promoción e Impulso a MIPYMES.
 
@@ -297,7 +323,9 @@ a. La Secretaría de Hacienda.
 
 b. La Secretaría de Trabajo y Previsión Social.
 
-c. La Secretaría de Desarrollo Social.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+c) La Secretaría de Desarrollo Humano y Bien Común.
 
 d. La Secretaría de Desarrollo Urbano y Ecología.
 
@@ -309,7 +337,13 @@ g. Una representación de un municipio de cada región del Estado.
 
 h. Una representación rotativa de las instituciones académicas o Universidades que cuenten con programas de emprendedores o incubadoras de negocios, a invitación del (sic) Presidencia Ejecutiva.
 
-i. Quien presida la Comisión de Economía, Turismo y Servicios del H. Congreso del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+i) Quien presida la Comisión de Economía, Industria y Comercio del H. Congreso del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+j) El Instituto Chihuahuense de las Mujeres.
 
 El Consejo podrá invitar a participar en las sesiones, con voz pero sin voto, a representantes de dependencias federales y especialistas en los temas de discusión.
 
@@ -356,6 +390,10 @@ VII. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES.
 VIII. Instituir el Premio Estatal de Competitividad de las MIPYMES que reconozca de manera natural a las empresas que se hayan destacado en los términos que el mismo Consejo determine.
 
 IX. Discutir y analizar las propuestas que realicen los Municipios y el sector privado para el desarrollo y cumplimiento de los objetivos de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+X. Fomentar la creación de programas para la promoción, creación y financiamiento de proyectos productivos y MIPYMES de mujeres emprendedoras en el Estado.
 
 ###### ARTÍCULO 25.
 
@@ -742,3 +780,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de septiembre del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P. O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0316/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA, DE LA LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE LAS MUJERES.”]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
