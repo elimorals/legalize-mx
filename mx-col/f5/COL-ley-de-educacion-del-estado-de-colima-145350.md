@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-11-19"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -1933,7 +1933,9 @@ I. Cumplir con lo dispuesto en el artículo 3º de la Constitución Política de
 
 II. Cumplir con los planes y programas de estudio que la autoridad educativa estatal haya determinado o considerado procedentes y mantenerlos actualizados;
 
-III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plantel con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la autoridad educativa estatal la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto, atenderá los lineamientos que emita la autoridad educativa federal mediante los cuales se realizará dicha asignación en comités en los que participarán representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plantel con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Con la finalidad de contribuir al logro de la equidad educativa, corresponde a la autoridad educativa estatal definir los lineamientos para la asignación de dichas becas; para tal efecto, se integrarán comités en los que participarán representantes de las instituciones particulares que impartan educación en los términos de la presente Ley;
 
 IV. Cumplir los requisitos previstos en el artículo 132 de esta Ley;
 
@@ -1961,9 +1963,13 @@ Disposiciones para las acciones de vigilancia
 
 1. Con la finalidad de que la educación que impartan los particulares cumpla con los fines establecidos en la Constitución Política de los Estados Unidos Mexicanos, la autoridad educativa estatal que otorgue autorizaciones y reconocimientos de validez oficial de estudios llevarán a cabo, dentro del ámbito de su competencia, acciones de vigilancia por lo menos una vez al año, a las instituciones que imparten servicios educativos respecto de los cuales concedieron dichas autorizaciones o reconocimientos, o que, sin estar incorporadas al Sistema Educativo Estatal, deban cumplir con las disposiciones de la presente Ley; además podrán requerir en cualquier momento información o documentación relacionada con la prestación u oferta del servicio educativo.
 
-2. Para efectos del presente artículo, las personas usuarias de estos servicios prestados por particulares podrán solicitar a la autoridad educativa estatal correspondiente, la realización de acciones de vigilancia con objeto de verificar el cumplimiento de las disposiciones y requisitos para impartir educación en los términos de este Título, incluido el aumento de los costos que carezcan de justificación y fundamentación conforme a las disposiciones legales aplicables o que hayan sido establecidos en los instrumentos jurídicos que rigen las relaciones para la prestación de ese servicio.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
 
-3. Derivado de las acciones de vigilancia, si la autoridad educativa estatal respectiva identifica que los particulares han aumentado los costos en la prestación de los servicios educativos sin apego a las disposiciones aplicables en la materia, darán aviso a las autoridades competentes para los efectos a los que haya lugar.
+2. Para efectos del presente artículo, las personas usuarias de los servicios prestados por particulares podrán solicitar a la autoridad educativa estatal correspondiente, la realización de acciones de vigilancia con objeto de verificar el cumplimiento de las disposiciones y requisitos para impartir educación en los términos de este Título. Tratándose del aumento en los cobros por los servicios que imparten, que carezca de justificación y fundamentación conforme a las disposiciones legales aplicables o que hayan sido establecidos en los instrumentos jurídicos que rigen las relaciones para la prestación de ese servicio, la autoridad educativa estatal deberá turnar el caso a la autoridad federal competente en materia de protección de los derechos del consumidor, para su conocimiento y resolución.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+3. Derivado de las acciones de vigilancia, cuando la autoridad educativa estatal respectiva, tenga conocimiento de que los particulares presumiblemente han infringido disposiciones jurídicas aplicables a la prestación de los servicios educativos, que se encuentren fuera de su ámbito de competencia darán aviso a las autoridades competentes para los efectos a los que haya lugar.
 
 ###### Artículo 141.
 
@@ -1985,7 +1991,9 @@ VI. Abstenerse de ocultar información y de conducirse con falsedad, dolo, mala 
 
 VII. Permitir al servidor público comisionado el correcto desempeño de sus funciones, y
 
-VIII. Proporcionar las facilidades necesarias al servidor público comisionado y a sus auxiliares para llevar a cabo el uso de los instrumentos tecnológicos requeridos durante el desarrollo de la visita, así como, las entrevistas a las personas usuarias del servicio educativo o cualquier otra requerida para la obtención de la información, conforme al alcance y objeto de la visita.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Proporcionar las facilidades necesarias a la servidora pública comisionada y a sus auxiliares para llevar a cabo el uso de los instrumentos tecnológicos necesarios para la verificación consignada en la orden de visita, de conformidad con el alcance, objeto y desarrollo establecidos en dicha orden, así como, para la realización de entrevistas a las personas usuarias del servicio educativo o cualquier otra persona requerida para la obtención de la información. Cuando sea necesario entrevistar por cualquier medio tecnológico, a niñas, niños y adolescentes, se deberá recabar invariablemente el consentimiento expreso del padre, madre o tutor.
 
 ###### Artículo 142.
 
@@ -2075,19 +2083,31 @@ I. Amonestación en caso de incumplimiento a la fracción XXVI del artículo 143
 
 II. Imposición de multa, para lo cual se estará a los siguientes criterios:
 
-a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XV, XVI, XXIII y XXIV del artículo 143 de esta Ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XV, XVI, XXIII, XXIV y XXVII del artículo 143 de esta Ley;
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+A juicio de la autoridad educativa, podrá aplicar la multa prevista en este inciso, cuando exista reincidencia en la conducta sancionada por la fracción I, de este artículo.
 
 b) Multa por el equivalente a un monto mínimo de mil una, y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XX, XXI, XXII, XXV y XXVI del artículo 143 de esta Ley, y
 
-c) Multa por el equivalente a un monto mínimo de siete mil una, y hasta máximo de quince mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones VII y XIII del artículo 143 de esta Ley.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+c) Multa por el equivalente a un monto mínimo de mil una, y hasta máximo de cinco mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en el párrafo 1, fracción XIII del artículo 143 de esta Ley.
 
 Las multas impuestas podrán duplicarse en caso de reincidencia;
 
-III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente respecto a las infracciones señaladas en las fracciones IX y XIV del artículo 143 de esta Ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en el inciso b) de la fracción anterior, o
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+III. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente respecto a las infracciones señaladas en el párrafo 1, fracciones VII, IX y XIV del artículo 143 de esta Ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en el inciso b) de la fracción anterior, o
 
 IV. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVII, XVIII y XIX del artículo 143 de esta Ley.
 
-2. Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV y XXVI del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+2. Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV, XXVI y XXVII del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
 ###### Artículo 145.
 
@@ -2260,3 +2280,13 @@ El presente Decreto entrará en vigor el día 1° de enero de 2023, debiendo pub
 ###### ARTÍCULO SEGUNDO.
 
 Las Secretarías de Salud y de Educación y Cultura considerarán progresivamente, dentro sus presupuestos, los recursos públicos necesarios para el cumplimiento de las obligaciones generadas con el presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 178.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Secretaría de Educación y Cultura del Gobierno del Estado emitirá los lineamientos a que se refiere el artículo 138 fracción III de la presente Ley, así como estos contendrán la conformación de los comités a que hace referencia ese artículo, dentro de los 120 días contados a partir de la entrada en vigor del presente decreto.
+
+En tanto no se expida los lineamientos en referencia se continuará aplicando de manera supletoria el Acuerdo número 205 por el que se determinan los lineamientos generales para regular el otorgamiento de becas en las instituciones particulares de educación primaria y secundaria que cuentan con autorización de estudios, así como las de educación inicial, preescolar y especial que cuentan con reconocimiento de validez oficial de estudios otorgados por la Secretaria de Educación Pública; el cual será aplicable también para la asignación de becas del nivel medio superior en las instituciones educativas particulares.
