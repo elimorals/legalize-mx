@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-administracion-publica-del-estado-de-118697"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-11-30"
-last_updated: "2021-07-07"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento 3 al Número 96 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de noviembre de 2016.
 
@@ -1661,7 +1661,7 @@ XXXI. Colegio de Educación Profesional y Técnica de Zacatecas;
 
 XXXII. Colegio de Estudios Científicos y Tecnológicos del Estado de Zacatecas;
 
-XXXIII. Instituto de Selección y Capacitación del Estado; y
+XXXIII. (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2022).
 
 XXXIV. Universidad Tecnológica de Zacatecas.
 
@@ -1866,3 +1866,35 @@ Artículo cuarto. La transferencia de los recursos financieros se realizará en 
 Artículo quinto. El proceso de entrega recepción relativa al Secretariado Ejecutivo entre la Secretaría General de Gobierno y la Secretaría de Seguridad Pública, ambas del Gobierno del Estado, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes y reglamentos aplicables.
 
 Artículo sexto. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 145.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS PORCIONES NORMATIVAS DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DEL ESTADO Y MUNICIPIOS DE ZACATECAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+Artículo tercero. Se extingue el Instituto de Selección y Capacitación del Estado de Zacatecas, conservando su personalidad jurídica, exclusivamente para efectos del proceso de liquidación.
+
+Artículo cuarto. De acuerdo con lo estipulado en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas del Gobierno del Estado deberá determinar las partidas presupuestales correspondientes, con el objeto de llevar a cabo las acciones necesarias para el proceso de extinción y liquidación y, en su caso, cubrir los pasivos y contingencias que se originen.
+
+Artículo quinto. En los términos de la Ley Orgánica de la Administración Pública del Estado, la Ley de Bienes del Estado de Zacatecas y sus Municipios, la Ley de Entrega-Recepción del Estado y otros cuerpos normativos aplicables, los bienes muebles e inmuebles que conformen el patrimonio del organismo público que se extingue, pasarán a formar parte de la Secretaría de Administración del Gobierno del Estado. Para tal efecto, ésta dependencia levantará un inventario de los mismos y realizará un balance inicial de liquidación.
+
+Artículo sexto. De conformidad con lo previsto en el artículo 13 de la Ley de las Entidades Públicas Paraestatales, se designe un Liquidador, mismo que tendrá a su cargo el proceso de extinción y liquidación y tendrá, además de las facultades que le otorguen las bases de extinción y liquidación que al efecto se emitan, las mencionadas enseguida:
+
+a) Fungirá como representante legal del organismo que se extingue, con amplias facultades para actos de administración y de dominio, pleitos y cobranzas, así como otras análogas.
+
+b) Realizará el proceso de extinción de los órganos de dirección, así como de las unidades administrativas, en su caso.
+
+c) Tendrá bajo su custodia los recursos del organismo público que se extingue, con la estricta finalidad de cumplir con las obligaciones adquiridas.
+
+d) Celebrar los contratos, convenios o cualquier otro instrumento jurídico, relacionado con la extinción y liquidación del organismo.
+
+e) Mantener una permanente coordinación con la Secretaría de Administración y la Coordinación General Jurídica, en relación a los juicios laborales y procedimientos administrativos o de cualquier otra naturaleza, que surjan con motivo de la extinción y liquidación del organismo público descentralizado, así como en los procedimientos de conciliación que, en su caso, se desarrollen ante el Centro de Conciliación Laboral del Estado de Zacatecas.
+
+f) Resolverá cualquier situación inherente al proceso de extinción y liquidación.
+
+Artículo séptimo. La Secretaría de la Función Pública, en el ejercicio de sus atribuciones, vigilará el proceso de extinción y liquidación. Asimismo, en la cuenta pública respectiva, se informará a la Auditoria Superior del Estado sobre el proceso de extinción y liquidación.
+
+Artículo octavo. La Secretaría de Finanzas en coordinación con la Secretaría de la Función Pública, adscribirán los recursos humanos, materiales y financieros del organismo público descentralizado que mediante esta reforma se extingue, a la Secretaría de Administración, en un respeto absoluto a los derechos laborales adquiridos por los trabajadores.
