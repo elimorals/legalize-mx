@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2019-11-02"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -777,11 +777,13 @@ Objeto de la aplicación de recursos.
 
 La aplicación de recursos públicos para la vivienda en el Estado tiene por objeto ampliar la producción y oferta habitacional y el de equilibrar la relación entre el cumplimiento del derecho a la vivienda y los intereses de mercado, de conformidad con el Programa Estatal de Vivienda. Esta Ley reconoce la corresponsabilidad del Estado, en todos sus ámbitos, y el de la sociedad, para la satisfacción progresiva del derecho a la vivienda que consigna la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 47.
 
 Apoyo preferencial del Estado.
 
-El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza, riesgo o vulnerabilidad; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población.
+El Estado tiene la responsabilidad de apoyar preferentemente a la población en situación de pobreza, riesgo, o vulnerabilidad, así como a las mujeres sostén de la familia; por lo que diseñará, definirá y operará un conjunto de mecanismos y acciones para captar y destinar recursos presupuestales, ahorros, subsidios, financiamientos y otras aportaciones para los programas de vivienda que respondan a las necesidades de vivienda de los distintos sectores de la población.
 
 ###### Artículo 48.
 
@@ -1636,6 +1638,14 @@ Las Comisarías de las entidades paraestatales de la Administración Pública Es
 P.O. 2 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0382/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONAN AL ARTÍCULO 85 UN TERCER Y CUARTO PÁRRAFOS; Y AL 87 UN SEGUNDO PÁRRAFO, AMBOS DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0317/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 47 DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
