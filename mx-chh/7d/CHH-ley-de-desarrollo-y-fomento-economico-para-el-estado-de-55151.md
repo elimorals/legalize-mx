@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-y-fomento-economico-para-el-estado-de-55151"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-14"
-last_updated: "2022-06-22"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2007.
 
@@ -86,6 +86,10 @@ XII.- Proponer a la persona titular del Poder Ejecutivo del Estado, las reformas
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2013)</small>
 
 XIII.- Impulsar la coordinación con autoridades federales y municipales para simplificar trámites administrativos para la creación de MIPyMES.
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Fomentar la participación de las mujeres en la vida económica del Estado, con la implementación de programas con perspectiva de género y mecanismos para la eliminación de barreras en el sistema empresarial.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
 
@@ -956,3 +960,9 @@ P.O. 22 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0316/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO Y FOMENTO ECONÓMICO PARA EL ESTADO DE CHIHUAHUA, DE LA LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE CHIHUAHUA Y DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE LAS MUJERES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
