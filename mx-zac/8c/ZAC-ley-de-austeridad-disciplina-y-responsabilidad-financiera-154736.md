@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-austeridad-disciplina-y-responsabilidad-financiera-15473
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Suplemento 62 al Número 104 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de diciembre de 2021.
 
@@ -1487,7 +1487,9 @@ Inversión pública
 
 En la contratación de inversión pública, los Entes Públicos tomarán las medidas necesarias para la adecuada ejecución de los programas de obra pública; el Poder Ejecutivo, las dependencias y entidades ejecutoras, bajo los criterios que establezca la Secretaría de la Función Pública, deberán observar lo siguiente:
 
-I. Implementarán un programa intensivo de capacitación en coordinación con la Secretaría de la Función Pública y el Instituto de Selección y Capacitación del Estado, para el personal encargado de realizar los procedimientos relativos a la licitación, adjudicación y supervisión de contratos de inversión pública, de tal manera que conozcan y apliquen la normatividad de cada fondo o programa;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+
+I. Implementarán un programa intensivo de capacitación en coordinación con la Secretaría de la Función Pública y la Secretaría de Administración, para el personal encargado de realizar los procedimientos relativos a la licitación, adjudicación y supervisión de contratos de inversión pública, de tal manera que conozcan y apliquen la normatividad de cada fondo o programa;
 
 II. Previo al inicio del procedimiento de licitación o adjudicación de contratos de inversión pública, implementarán un sistema de control interno que de manera suficiente garantice que las contrataciones se realicen siempre a precios competitivos o a valores de mercado; es decir, garantizarán no se sobrevaluen los precios ofertados al gobierno, dicho sistema de control interno, deberá ser permanentemente vigilado por la Secretaría de la Función Pública;
 
@@ -2110,3 +2112,37 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil veintiuno. GOBERNADOR DEL ESTADO.- DAVID MONREAL AVILA. SECRETARIA GENERAL DE GOBIERNO.- GABRIELA EVANGELINA PINEDO MORALES. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 145.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS PORCIONES NORMATIVAS DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DEL ESTADO Y MUNICIPIOS DE ZACATECAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS Y DE LA LEY DE AUSTERIDAD, DISCIPLINA Y RESPONSABILIDAD FINANCIERA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+Artículo tercero. Se extingue el Instituto de Selección y Capacitación del Estado de Zacatecas, conservando su personalidad jurídica, exclusivamente para efectos del proceso de liquidación.
+
+Artículo cuarto. De acuerdo con lo estipulado en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, la Secretaría de Finanzas del Gobierno del Estado deberá determinar las partidas presupuestales correspondientes, con el objeto de llevar a cabo las acciones necesarias para el proceso de extinción y liquidación y, en su caso, cubrir los pasivos y contingencias que se originen.
+
+Artículo quinto. En los términos de la Ley Orgánica de la Administración Pública del Estado, la Ley de Bienes del Estado de Zacatecas y sus Municipios, la Ley de Entrega-Recepción del Estado y otros cuerpos normativos aplicables, los bienes muebles e inmuebles que conformen el patrimonio del organismo público que se extingue, pasarán a formar parte de la Secretaría de Administración del Gobierno del Estado. Para tal efecto, ésta dependencia levantará un inventario de los mismos y realizará un balance inicial de liquidación.
+
+Artículo sexto. De conformidad con lo previsto en el artículo 13 de la Ley de las Entidades Públicas Paraestatales, se designe un Liquidador, mismo que tendrá a su cargo el proceso de extinción y liquidación y tendrá, además de las facultades que le otorguen las bases de extinción y liquidación que al efecto se emitan, las mencionadas enseguida:
+
+a) Fungirá como representante legal del organismo que se extingue, con amplias facultades para actos de administración y de dominio, pleitos y cobranzas, así como otras análogas.
+
+b) Realizará el proceso de extinción de los órganos de dirección, así como de las unidades administrativas, en su caso.
+
+c) Tendrá bajo su custodia los recursos del organismo público que se extingue, con la estricta finalidad de cumplir con las obligaciones adquiridas.
+
+d) Celebrar los contratos, convenios o cualquier otro instrumento jurídico, relacionado con la extinción y liquidación del organismo.
+
+e) Mantener una permanente coordinación con la Secretaría de Administración y la Coordinación General Jurídica, en relación a los juicios laborales y procedimientos administrativos o de cualquier otra naturaleza, que surjan con motivo de la extinción y liquidación del organismo público descentralizado, así como en los procedimientos de conciliación que, en su caso, se desarrollen ante el Centro de Conciliación Laboral del Estado de Zacatecas.
+
+f) Resolverá cualquier situación inherente al proceso de extinción y liquidación.
+
+Artículo séptimo. La Secretaría de la Función Pública, en el ejercicio de sus atribuciones, vigilará el proceso de extinción y liquidación. Asimismo, en la cuenta pública respectiva, se informará a la Auditoría Superior del Estado sobre el proceso de extinción y liquidación.
+
+Artículo octavo. La Secretaría de Finanzas en coordinación con la Secretaría de la Función Pública, adscribirán los recursos humanos, materiales y financieros del organismo público descentralizado que mediante esta reforma se extingue, a la Secretaría de Administración, en un respeto absoluto a los derechos laborales adquiridos por los trabajadores.
