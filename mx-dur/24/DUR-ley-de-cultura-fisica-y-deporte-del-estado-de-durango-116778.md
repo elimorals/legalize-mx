@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2022-10-23"
+last_updated: "2022-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -685,7 +685,11 @@ VI. Fomentar la práctica del deporte, en todas las formas y medios a su alcance
 
 VII. Facilitar cuanta información le sea requerida por las autoridades de la administración pública estatal, que se relacione con el otorgamiento del estímulo y la práctica de su disciplina deportiva.
 
-VIII. Las demás que les señale esta Ley, su Reglamento y otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Abstenerse de participar de manera activa en actos o conductas violentas o que inciten la violencia en el deporte, contenidas en la presente Ley.
+
+IX. Las demás que les señale esta Ley, su Reglamento y otros ordenamientos legales.
 
 ### CAPÍTULO XVI. ESTÍMULOS Y APOYOS
 
@@ -875,13 +879,17 @@ VII.- Las que establezcan la presente Ley, el Reglamento, el Código de Conducta
 
 La Comisión Especial Contra la Violencia en el Deporte Duranguense, será la encargada de elaborar y conducir las políticas generales contra la violencia en el deporte.
 
-La Comisión Especial será un órgano colegiado integrado por representantes del Instituto, de los Órganos Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Estatales, del Consejo, de las Ligas Profesionales y, en su caso, de las Comisiones Estatales del Deporte Profesional. La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2022)</small>
+
+La Comisión Especial será un órgano colegiado integrado por representantes del Instituto, de los Órganos Municipales de Cultura Física y Deporte, de las Asociaciones Deportivas Estatales, del Consejo, de las Ligas Deportivas, tanto profesionales como amateur y, en su caso, de las Comisiones Estatales del Deporte Profesional. La composición y funcionamiento de la Comisión Especial se establecerá en el Reglamento de la presente Ley.
 
 En la Comisión Especial podrán participar Dependencias y Entidades de la administración pública estatal, a fin de colaborar, apoyar y desarrollar planes y estudios que aporten eficacia a las acciones encaminadas a la prevención de la violencia en el deporte. Asimismo, podrán participar personas destacadas en el ámbito del deporte. La coordinación y operación de los trabajos de la Comisión Especial, estarán a cargo del Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 84.
 
-Las atribuciones de la Comisión Especial, serán:
+Las atribuciones de la Comisión Especial serán:
 
 I.- Promover e impulsar acciones de prevención contra la violencia en el deporte; para tal efecto deberá elaborar un programa anual de trabajo.
 
@@ -905,7 +913,11 @@ X.- Conformar y publicar la estadística estatal sobre la violencia en el deport
 
 XI.- Informar a las autoridades competentes sobre los riesgos de los eventos deportivos y coadyuvar en la implementación de las medidas necesarias para la protección de personas, instalaciones o bienes.
 
-XII.- Las demás que se establezcan en esta Ley, el Reglamento y demás ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2022)</small>
+
+XII.- Promover y realizar convenios de colaboración, en coordinación con las autoridades estatales y municipales competentes, con las ligas deportivas de las distintas disciplinas, con el objeto de que se comprometan a reconocer, respetar y atender las sanciones que les sean impuestas, como medida para prevenir y erradicar la violencia deportiva.
+
+XIII.- Las demás que se establezcan en esta Ley, el Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 85.
 
@@ -1108,6 +1120,14 @@ Se derogan todas las disposiciones legales que se opongan a lo establecido en el
 P.O. 23 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 226.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 255.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
