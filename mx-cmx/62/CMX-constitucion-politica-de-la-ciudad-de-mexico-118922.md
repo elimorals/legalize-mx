@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2022-06-02"
+last_updated: "2022-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2022.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -330,7 +330,17 @@ A. Derecho a la educación
 
 5. Queda prohibido condicionar la prestación de los servicios educativos a cargo del Estado, incluyendo la inscripción, la aplicación de exámenes, la permanencia y la entrega de documentos, a la entrega de aportaciones, cuotas, donaciones, dádivas o cualquier otro tipo de contraprestación en numerario, bienes o servicios.
 
-6. Atendiendo al principio rector del interés superior de la niñez, las autoridades velarán por el pleno ejercicio del derecho de las niñas y de los niños a recibir educación, garantizando su acceso y respetando su pleno cumplimiento.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 28 DE NOVIEMBRE DE 2022)</small>
+
+6. Atendiendo al principio rector del interés superior de la niñez, las autoridades garantizarán el pleno acceso al derecho de las niñas y los niños a recibir educación.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2022)</small>
+
+En la Ciudad de México, todas las niñas y niños inscritos en planteles públicos de educación básica, tendrán derecho a contar con una beca que se denominará Bienestar para niñas y niños.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2022)</small>
+
+En cada ejercicio fiscal, los planteles educativos de educación pública básica en la Ciudad de México contarán con la asignación presupuestal que determine el Congreso a fin de dignificar las condiciones de los inmuebles, misma que se ejercerá con la participación de los padres y madres de familia. El programa para el ejercicio de este derecho se denominará La escuela es nuestra.
 
 7. Las autoridades educativas promoverán la ampliación paulatina de las jornadas escolares hasta un máximo de ocho horas con programas artísticos, deportes y de apoyo al aprendizaje.
 
@@ -4337,3 +4347,15 @@ G.O. 2 DE JUNIO DE 2022.
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONAN DOS PÁRRAFOS AL NUMERAL 6 DEL APARTADO A DEL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Gobierno de la Ciudad deberá realizar las acciones pertinentes para el cumplimiento al presente Decreto.
+
+CUARTO. El monto de los recursos asignados en el Presupuesto de Egresos de la Ciudad del ejercicio fiscal que corresponda, para los derechos constitucionales Bienestar para niñas y niños y La escuela es nuestra, no podrán ser disminuidos, en términos reales, respecto de lo que se haya asignado en el ejercicio fiscal inmediato anterior.
