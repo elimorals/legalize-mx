@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2022-11-16"
+last_updated: "2022-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -293,9 +293,9 @@ XI. DECIMOPRIMER CIRCUITO:
 
 XII. DECIMOSEGUNDO CIRCUITO:
 
-> <small>(REFORMADO, D.O.F. 15 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 71/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
 
-1. Cinco tribunales colegiados especializados: dos en materia administrativa, uno en materia civil, uno en materia de trabajo y uno en materia penal, todos con residencia en Mazatlán, Sinaloa.
+1. Seis tribunales colegiados especializados: dos en materia administrativa, dos en materia civil y uno en materia de trabajo, con residencia en Mazatlán y uno en materia penal, con residencia en Culiacán.
 
 > <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 36/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE NOVIEMBRE DE 2022)</small>
 
@@ -971,9 +971,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, se integrará por dos tribunales colegiados de Circuito Auxiliares y un juzgado de Distrito Auxiliar.
 
-> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 68/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
 
-5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por tres tribunales colegiados de Circuito Auxiliares, uno con residencia en Culiacán, Sinaloa, uno en los Mochis, Sinaloa y uno en la Paz, Baja California Sur, y cinco juzgados de Distrito Auxiliares, con residencia en Culiacán, Sinaloa.
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por dos tribunales colegiados de Circuito Auxiliares, uno con residencia en los Mochis, Sinaloa y uno en la Paz, Baja California Sur, y cinco juzgados de Distrito Auxiliares, con residencia en Culiacán, Sinaloa.
 
 6. (DEROGADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 49/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)
 
@@ -1053,7 +1053,9 @@ XIX. El Centro de Justicia Penal Federal en el Estado de México, con residencia
 
 XX. El Centro de Justicia Penal Federal en el Estado de Michoacán, con residencia en Morelia, Michoacán.
 
-XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Cuernavaca, Morelos.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 101/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+
+XXI. El Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Xochitepec.
 
 > <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL 3/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE MAYO DE 2019)</small>
 
@@ -9476,3 +9478,37 @@ CUARTO. Las Secretarías Ejecutivas de Administración, y Creación de Nuevos Ó
 QUINTO. Las Direcciones Generales de Tecnologías de la Información, y Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Sexto Circuito que inicia funciones.
 
 SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de sus competencias, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 68/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN CULIACÁN, SINALOA; Y QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Tribunal Colegiado de Circuito que concluye funciones, bajo su nueva denominación, mantendrá la competencia necesaria para emitir la resolución correspondiente en los asuntos que tenga pendientes de resolución.
+
+D.O.F. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 71/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL DÉCIMO SEGUNDO CIRCUITO, CON RESIDENCIA EN MAZATLÁN, SINALOA, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA MATERIA Y CIRCUITO INDICADO; AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL MISMO CIRCUITO Y RESIDENCIA; A LA CREACIÓN E INICIO DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE PRESTARÁ SERVICIO A LOS ÓRGANOS JURISDICCIONALES DE QUE SE TRATA; Y QUE REFORMA EL SIMILAR 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas a su cargo que resulten competentes, dotará al Segundo Tribunal Colegiado en Materia Civil del Décimo Segundo Circuito de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Tribunales Colegiados en Materia Civil del Décimo Segundo Circuito, con residencia en Mazatlán, Sinaloa.
+
+D.O.F. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 101/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y DE LOS JUZGADOS DE DISTRITO, EN RELACIÓN A LA DENOMINACIÓN DEL CENTRO DE JUSTICIA PENAL FEDERAL CON SEDE EN CUERNAVACA, MORELOS DERIVADO DEL CAMBIO DE DOMICILIO A XOCHITEPEC EN LA MISMA ENTIDAD”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
