@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2016-del-pleno-del-consejo-de-la-113121"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2021-03-26"
+last_updated: "2022-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113121&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,15 @@ issue_date: "2016-02-18"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ACUERDO GENERAL 5/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MORELOS, CON RESIDENCIA EN LA CIUDAD DE CUERNAVACA
+ACUERDO GENERAL 5/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MORELOS, CON RESIDENCIA EN XOCHITEPEC
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
-ACUERDO GENERAL 5/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MORELOS, CON RESIDENCIA EN LA CIUDAD DE CUERNAVACA.
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+
+ACUERDO GENERAL 5/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MORELOS, CON RESIDENCIA EN XOCHITEPEC.
 
 CONSIDERANDO
 
@@ -59,9 +61,11 @@ Por lo anterior, se expide el siguiente
 
 ACUERDO
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en la ciudad de Cuernavaca.
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Xochitepec.
 
 ###### Artículo 2.
 
@@ -71,7 +75,9 @@ Para efectos del presente Acuerdo se entenderá por:
 
 I. Administrador: Administrador del Centro de Justicia Penal Federal, en términos del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal;
 
-II. Centro: Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en la ciudad de Cuernavaca;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+
+II. Centro: Centro de Justicia Penal Federal en el Estado de Morelos, con residencia en Xochitepec;
 
 III. Consejo: Consejo de la Judicatura Federal;
 
@@ -115,9 +121,11 @@ Los órganos jurisdiccionales del Centro conocerán y tendrán competencia en lo
 
 La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Morelos, con la totalidad de sus municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-El domicilio del Centro será el ubicado en Boulevard del Lago No. 103, colonia. Villas Deportivas, delegación Miguel Hidalgo, C.P. 62370, Cuernavaca, Morelos.
+El domicilio del Centro será el ubicado en Boulevard Alta Tensión No. 27, Campo denominado Zazacatla, C.P. 62790, en Xochitepec, Morelos.
 
 Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
@@ -199,11 +207,11 @@ Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a 
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO VIGÉSIMO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA EL SIMILAR QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL Y REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA ADMINISTRACIÓN DE ESTOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en el Centro.
+El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 140 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos de los artículos 169 y 170 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en el Centro.
 
 El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
 
@@ -762,3 +770,13 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 102/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 5/2016, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MORELOS, CON RESIDENCIA EN LA CIUDAD DE CUERNAVACA, CON RELACIÓN AL CAMBIO DE DOMICILIO DEL CITADO CENTRO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de sus áreas competentes, deberán llevar a cabo las acciones necesarias para la implementación del presente Acuerdo.
