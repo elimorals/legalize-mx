@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-10-24"
+last_updated: "2022-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -6593,11 +6593,15 @@ VI.- Fomentar el desarrollo de infraestructura de apoyo para el acopio de los re
 
 VII.- (DEROGADA, P.O. 11 DE ABRIL DE 2016)
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 491
 
-2.- Las personas físicas o morales cuya actividad sea la compra, venta, acopio y reciclaje de residuos sólidos urbanos, deberán contar con un permiso ambiental de funcionamiento emitido por el Municipio, conforme a lo establecido en el Reglamento respectivo, el presente Código y demás normatividad aplicable.
+2.- Las personas físicas o morales cuya actividad sea la compra, venta, acopio y reciclaje de residuos sólidos urbanos, deberán contar con un permiso ambiental de funcionamiento emitido por el Municipio conforme a lo establecido en el Reglamento de Protección al Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes, el Reglamento para el Funcionamiento y Operación de los Establecimientos Dedicados a la Compra, Venta, Acopio y Reciclaje de Residuos en el Municipio de Aguascalientes, el presente Código y demás normatividad aplicable.
+
+La Secretaría de Medio Ambiente y Desarrollo Sustentable estará facultada para realizar visitas de inspección por conducto de inspectores adscritos a su Departamento de Gestión Ambiental, para constatar que las personas físicas o morales referidas en el párrafo anterior cuentan con el permiso ambiental de funcionamiento vigente y que cumplen con las condiciones que se señalen en tal permiso, así como con lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Protección Ambiental para el Estado de Aguascalientes, el Reglamento de Protección al Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes, el Reglamento para el Funcionamiento y Operación de los Establecimientos Dedicados a la Compra, Venta, Acopio y Reciclaje de Residuos en el Municipio de Aguascalientes, y demás disposiciones en materia de residuos sólidos urbanos.
+
+Dichas visitas de inspección, se desahogarán de conformidad con lo previsto en el Reglamento de Protección al Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 491
 
@@ -19427,9 +19431,9 @@ VI. Comité Dictaminador.- Será el órgano encargado de analizar, discutir y en
 
 Estará integrado por:
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
 
-a) El Regidor Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados, Rastros y Estacionamientos.
+a) El Regidor Presidente de la Comisión Permanente de Control Reglamentario, Espectáculos, Mercados y Estacionamientos.
 
 b) El Director de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -19458,6 +19462,14 @@ h) Un representante de los Comercios Formales.
 > <small>(ADICIONADO, P.O. 18 DE ENERO DE 2021)</small>
 
 i) Un representante de la Contraloría Municipal, que tendrá participación con voz más no con voto.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
+
+El Comité Dictaminador podrá citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2022)</small>
+
+La vigencia en las funciones de los miembros del Comité Dictaminador a que se refiere este apartado, subsistirá para los servidores públicos, el tiempo que permanezcan en el cargo. Los Integrantes Ciudadanos durarán en sus funciones el término de tres años y serán electos, nombrados o ratificados, según el cargo que ocupen por la Comisión Permanente de Control Reglamentario durante el semestre anterior a la conclusión del periodo.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE AGOSTO DE 2019)</small>
 
@@ -24453,9 +24465,9 @@ SEGUNDO: Las referencias que se hagan y las atribuciones que se otorgan en el pr
 
 P.O. 22 DE NOVIEMBRE DE 2021.
 
-## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
-PRIMERO.- Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
+PRIMERO.– Se instruye al Secretario del H. Ayuntamiento y Director General de Gobierno para que de conformidad a las facultades que me confiere el código municipal del municipio de Aguascalientes, someta a consideración, análisis y discusión y en su caso aprobación del H. Ayuntamiento Constitucional Municipal de Aguascalientes, el presente dictamen.
 
 SEGUNDO.- Las modificaciones al presente Código entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -24469,13 +24481,13 @@ QUINTO.- El personal adscrito a la Dirección de Salud Pública que sea trasferi
 
 La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
-SEXTO.- La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+SEXTO.– La Coordinación General de Salud, a más tardar el día 12 de diciembre del año en curso deberá de realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
 
-SÉPTIMO.- La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
+SÉPTIMO.– La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Coordinación General de Salud, cuente con respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas, así mismo para que todos los bienes que actualmente posea la Dirección de Salud Pública, pasen a la nueva Coordinación General, a efecto de que este cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos adquisición de bienes y servicios, arrendamientos, gato (sic) fijo y corriente, así como todas y cada una de las erogaciones correspondientes
 
-OCTAVO.- La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+OCTAVO.– La Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
-NOVENO.- Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+NOVENO.– Para el ejercicio fiscal 2022, la Secretaría de Finanzas Públicas Municipales, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2022 de la Coordinación General de Salud, a efecto de que esta misma cuente con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
 
 DÉCIMO.- La Coordinación General de la Salud, dentro de los 60 días hábiles siguientes a la entrada en vigor de la presente reforma, deberá proponer al H. Ayuntamiento Constitucional del Municipio de Aguascalientes, el Reglamento Interno de la Coordinación, con el fin de que se encuentre conforme a la presente reforma.
 
@@ -24485,7 +24497,7 @@ DÉCIMO SEGUNDO.- Todos los trámites que hubiesen iniciado bajo la vigencia de 
 
 DÉCIMO TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en el presente Código, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior Director de Salud Pública, se entenderán hechas o conferidas a la actual Coordinación General de Salud.
 
-DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado "De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes", que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado "De la Coordinación General de Salud" que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
+DÉCIMO CUARTO.- Las reformas a los Artículos 98, párrafo cuarto; y 113; se adiciona una fracción XXI que incluye tres incisos; un apartado décimo octavo denominado “De la Coordinación de Transparencia y Acceso a la Información del Municipio de Aguascalientes”, que contendrá el actual Artículo 114 Quater, y un apartado décimo noveno denominado “De la Coordinación General de Salud” que contendrá el Artículo 114 Quinquies, ambos al Capítulo II del Título Segundo del Libro Primero, y se derogan los apartados catorce, quince, dieciséis y diecisiete de la fracción XV del artículo 98, todos del Código Municipal de Aguascalientes.
 
 DÉCIMO QUINTO.- Todas las disposiciones jurídicas del ámbito Municipal que se opongan al presente, se entienden reformadas en el sentido del contenido en el cuerpo del mismo, adecuando los nuevos nombres y funciones.
 
@@ -24598,3 +24610,15 @@ QUINTO.- En un plazo no mayor a los veinte días naturales, contados a partir de
 SEXTO.- El Consejo Directivo de la Academia expedirá su normatividad interna en un plazo no mayor de ciento veinte días hábiles, contados a partir de la fecha de su instalación.
 
 SÉPTIMO.- Por única ocasión los directores que señalan las fracciones II y III del artículo 10, y los integrantes del Consejo que señala el artículo 11 fracción III durarán en su encargo durante el periodo restante de la presente administración y el comprendido de la siguiente administración municipal con la finalidad de consolidar, fortalecer y dar continuidad a los primeros trabajos y objetivos de la Academia.
+
+P.O. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DICTAMEN POR EL QUE SE ADICIONAN LOS PÁRRAFOS 2 Y 3 AL ARTÍCULO 1358 FRACCIÓN VI DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes. Los integrantes ciudadanos de la actual administración del comité, serán electos, nombrados o ratificados, según el cargo que ocupen por la Comisión Permanente de Control Reglamentario durante el semestre anterior a la conclusión del periodo 2024.
+
+P.O. 28 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, AL REGLAMENTO DE PROTECCIÓN AL AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, Y AL REGLAMENTO PARA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRA, VENTA, ACOPIO Y RECICLAJE DE RESIDUOS EN EL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE VISITAS DE INSPECCIÓN A “CHATARRERAS”.]
+
+ÚNICO.- Las presentes reformas, adiciones y derogaciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
