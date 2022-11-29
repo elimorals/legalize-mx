@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-firma-electronica-avanzada-para-el-estado-de-153642"
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-07"
-last_updated: "2022-01-07"
+last_updated: "2022-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 7 de enero de 2022.
 
@@ -43,9 +43,11 @@ LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y de observancia general y tiene por objeto regular y promover en el Estado de Querétaro, el uso de medios digitales, documentos electrónicos y Firma Electrónica Avanzada por parte de los sujetos de la misma para facilitar, agilizar y hacer más accesible los actos en que intervengan.
+La presente Ley es de orden público y de observancia general y tiene por objeto regular y promover en el Estado de Querétaro, el uso de medios digitales, documentos electrónicos, sello electrónico y Firma Electrónica Avanzada por parte de los sujetos de la misma para facilitar, agilizar y hacer más accesible los actos en que intervengan.
 
 ###### Artículo 2.
 
@@ -71,13 +73,17 @@ IV. Los servidores públicos de las dependencias y entidades que en la realizaci
 
 V. Las personas físicas y las jurídicas colectivas.
 
-Los Poderes Legislativo y Judicial, así como los órganos autónomos, observarán las disposiciones de esta Ley, en lo que no se oponga a sus ordenamientos legales.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+Los Poderes Legislativo y Judicial, así como los órganos autónomos, observarán las disposiciones de esta Ley, en lo que no se oponga a sus ordenamientos legales, y de conformidad con los convenios o acuerdos de colaboración en materia de Firma Electrónica Avanzada que al efecto se suscriban.
 
 ###### Artículo 4.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Actos: Las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los sujetos de la Ley que utilicen la Firma Electrónica Avanzada;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+I. Actos: Las comunicaciones, trámites, servicios, actos jurídicos y administrativos, así como procedimientos administrativos en los cuales los sujetos de la Ley utilicen la Firma Electrónica Avanzada o, en su caso, el sello electrónico;
 
 II. Actuaciones electrónicas: Las notificaciones, citatorios, emplazamientos, requerimientos, solicitud de informes o documentos y en su caso, las resoluciones administrativas definitivas que se emitan en los actos a que se refiere esta Ley, que sean comunicadas por medios digitales;
 
@@ -87,11 +93,21 @@ IV. Autoridad Certificadora: La Unidad de Firma Electrónica Avanzada que, confo
 
 V. Buzón Digital Estatal: medio de comunicación oficial incorporado a los portales de Internet de las dependencias, entidades y órganos, a través del cual se comunicará a los particulares o interesados cualquiera de las actuaciones o información materia de procedimientos electrónicos.
 
-VI. Certificado: Certificado digital firmado electrónicamente por la Autoridad Certificadora, que vincula los datos de firma a su autor y confirma su identidad;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
 
-VII. Clave privada: los datos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada, a fin de lograr el vínculo entre dicha firma electrónica y el firmante;
+VI. Certificado: Certificado digital firmado electrónicamente por la Autoridad Certificadora, que vincula los datos de firma electrónica avanzada o sello electrónico a su autor y confirma su identidad;
 
-VIII. Clave pública: Los datos únicos asociados a una llave privada que se utilizan para verificar la firma electrónica avanzada, la cual puede ser de conocimiento público;
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VI BIS. Certificado de sello electrónico: Los datos que en forma electrónica son consignados en un Mensaje de Datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos, y que produce los mismos efectos jurídicos que la firma autógrafa;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VII. Clave privada: los datos que el firmante genera de manera secreta y utiliza para crear su firma electrónica avanzada o sello electrónico, a fin de lograr el vínculo entre dicha firma electrónica o sello electrónico y el firmante;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Clave pública: Los datos únicos asociados a una llave privada que se utilizan para verificar la firma electrónica avanzada o sello electrónico, la cual puede ser de conocimiento público;
 
 IX. Dependencias: Las dependencias y organismos a que se refiere la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro;
 
@@ -103,7 +119,9 @@ XII. Expediente electrónico: Conjunto de documentos electrónicos que, sujetos 
 
 XIII. Firma Electrónica Avanzada: el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios digitales bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
 
-XIV. Firmante: toda persona que utiliza su firma electrónica avanzada para suscribir documentos electrónicos y, en su caso, mensajes de datos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Firmante: toda persona que utiliza su firma electrónica avanzada o su sello electrónico para suscribir documentos electrónicos y, en su caso, mensajes de datos;
 
 XV. Ley: Ley de Firma Electrónica Avanzada para el Estado de Querétaro;
 
@@ -113,9 +131,15 @@ XVII. Mensaje de datos: La información generada, enviada, recibida o archivada 
 
 XVIII. Momento: La fecha, hora, minuto y segundo de la realización de los actos regulados por esta ley;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+XVIII BIS. Promoción electrónica: Las solicitudes, trámites o promociones que los particulares realicen ante las dependencias, entidades y demás unidades administrativas de la administración pública Estatal o Municipal, a través de medios digitales, en términos de la regulación correspondiente;
+
 XIX. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
 
-XX. Sello electrónico: Es una cadena de caracteres que está asociada al emisor del documento y a los datos emitidos que permite conocer si el documento es auténtico, con el fin de identificarlos unívocamente como autores legítimos de un mensaje de datos o documento electrónico, así como la fecha y hora de su emisión;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+XX. Sello electrónico: Los datos biográficos que en forma electrónica son consignados en un Mensaje de Datos, adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al Firmante en relación con el Mensaje de Datos e indicar que el Firmante aprueba la información contenida en el Mensaje de Datos. El sello electrónico produce los mismos efectos jurídicos que la firma autógrafa, se utilizará en los trámites y servicios que la Unidad de Firma Electrónica Avanzada determine mediante disposiciones de carácter general, y será generado mediante un Certificado;
 
 XXI. Sujeto autorizado: Todo servidor público, notario público, valuadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado de Querétaro o representante legal de una persona jurídica colectiva, autorizada para utilizar un sello electrónico;
 
@@ -139,7 +163,9 @@ V. Privacidad: En el diseño y gestión de trámites, servicios y demás actos j
 
 VI. Transparencia y confidencialidad: El tratamiento de la información que se genere con motivo de la autoridad encargada de autentificar, deberá realizarse de conformidad con lo establecido en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro; y
 
-VII. Disponibilidad. La información debe encontrarse a disposición de quienes estén autorizados o facultados para acceder a ella, ya sea por sí, mediante procesos, o bien mediante otros aplicativos.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VII. Disponibilidad: La información debe encontrarse a disposición de quienes estén autorizados o facultados para acceder a ella, ya sea por sí, mediante procesos, o bien mediante otros aplicativos.
 
 ###### Artículo 6.
 
@@ -160,6 +186,14 @@ Asimismo, la Secretaría podrá, a través de la unidad competente, implementar 
 ###### Artículo 9.
 
 La utilización de la Firma Electrónica Avanzada será aplicable de conformidad con los mecanismos que se establezcan en términos del artículo 6 de la presente Ley y, en su caso, por lo que dispongan otras leyes e instrumentos jurídicos que al efecto se celebren.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 9 Bis.
+
+En lo no dispuesto expresamente por la presente Ley o en las demás disposiciones que de ella deriven, se aplicará de manera supletoria lo establecido en las Leyes que regulen el procedimiento específico, la Ley de Procedimientos Administrativos del Estado de Querétaro, y el Código de Procedimientos Civiles del Estado de Querétaro.
+
+El contenido de la presente Ley, no resulta obligatorio en materias de juicio político, responsabilidad administrativa, fiscal, agraria, laboral, electoral, actos de la Universidad Autónoma de Querétaro, ni al Ministerio Público en ejercicio de sus funciones constitucionales
 
 ## Título Segundo. De los medios digitales y de la Firma Electrónica Avanzada
 
@@ -199,15 +233,23 @@ Corresponde a la Unidad de Firma Electrónica Avanzada:
 
 I. Coordinar y Administrar los Servicios de Certificación Electrónica;
 
-II. Habilitar la utilización de la Firma Electrónica Avanzada con validez jurídica;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
 
-III. Fomentar y difundir el uso de la Firma Electrónica Avanzada en todos los actos objeto de la presente Ley;
+II. Habilitar la utilización de la Firma Electrónica Avanzada y el sello electrónico con validez jurídica;
 
-IV. Proponer al Secretario de Finanzas del Estado, los mecanismos que permitan incorporar el uso de la Firma Electrónica Avanzada en los actos objeto de la presente Ley,
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+III. Fomentar y difundir el uso de la Firma Electrónica Avanzada y el sello electrónico en todos los actos objeto de la presente Ley;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+IV. Proponer al Secretario de Finanzas del Estado, los mecanismos que permitan incorporar el uso de la Firma Electrónica Avanzada y del sello electrónico en los actos objeto de la presente Ley;
 
 V. Emitir las disposiciones generales para el adecuado cumplimiento de esta Ley;
 
-VI. Llevar a cabo las acciones necesarias para garantizar el adecuado manejo de la Firma Electrónica Avanzada; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VI. Llevar a cabo las acciones necesarias para garantizar el adecuado manejo de la Firma Electrónica Avanzada y del sello electrónico; y
 
 VII. Las demás que establezcan otras disposiciones aplicables.
 
@@ -295,9 +337,25 @@ V. Por alteración del mecanismo de soporte del Certificado electrónico o viola
 
 VI. Extravío o robo del Certificado;
 
-VII. Daño o falla irrecuperable del mecanismo de soporte del Certificado; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
 
-VIII. Fallecimiento del firmante o interdicción judicialmente declarada.
+VII. Daño o falla irrecuperable del mecanismo de soporte del Certificado;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Fallecimiento del firmante o interdicción judicialmente declarada;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+IX. Se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas jurídicas colectivas. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+X. La persona jurídica colectiva escindente o la sociedad fusionada que desaparezca con motivo de la escisión o fusión, respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista, a través de su representante o apoderado legal; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+XI. Se rescindan o se den por terminados los contratos que dieron origen a la persona jurídica colectiva, en este caso cualquiera de los contratantes será quien presente la solicitud correspondiente.
 
 #### Sección Segunda. De la Suspensión y Revocación del Certificado
 
@@ -383,9 +441,11 @@ VI. Verificar la validez y estatus de su Certificado.
 
 ### Capítulo Cuarto. De las Autoridades Certificadoras
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 32.
 
-La autoridad certificadora en el Estado será la Unidad de Firma Electrónica Avanzada, debiendo observarse lo establecido en la fracción V, del artículo 4 de la presente Ley, así como en su caso lo dispuesto en la Ley de Firma Electrónica Avanzada.
+La autoridad certificadora en el Estado será la Unidad de Firma Electrónica Avanzada, debiendo observarse lo establecido en la fracción IV, del artículo 4 de la presente Ley, así como en su caso lo dispuesto en la Ley de Firma Electrónica Avanzada.
 
 ###### Artículo 33.
 
@@ -407,9 +467,113 @@ V. Las demás que establece esta Ley y las que señalen las disposiciones normat
 
 Los sujetos de la Ley señalados en las fracciones I y II del artículo 3°., (sic) establecerán oficialías de partes digital para cada unidad administrativa o bien de carácter común, para la recepción de mensajes de datos provenientes de las partes que intervengan en los procedimientos a su cargo, misma que será accesible a través de su portal de Internet.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+Las dependencias, entidades y demás entes públicos del Estado, de la administración pública estatal, así como aquellos que opten por implementar la Oficialía de Partes Digital, deberán cumplir con los requerimientos tecnológicos y de comunicación establecidos por la Unidad de Firma Electrónica Avanzada mediante disposiciones generales.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 34 Bis.
+
+Para los efectos de lo señalado en el artículo que antecede, la Unidad de Firma Electrónica Avanzada podrá implementar en su portal de Internet, una Oficialía de Partes Digital Centralizada que podrá ser utilizada por los sujetos señalados en las fracciones I y II del artículo 3 de la presente Ley, para la recepción de mensajes de datos provenientes de las partes que intervengan en los procedimientos a su cargo, para lo cual dichos sujetos deberán:
+
+I. Habilitar la infraestructura necesaria para lograr la interoperabilidad de sus sistemas de trámites electrónicos con la Oficialía de Partes Digital Centralizada, de conformidad con las disposiciones jurídicas aplicables y con la suficiencia presupuestal autorizada con que se cuente;
+
+II. Facilitar de manera permanente el acceso, consulta y transferencia de información para lograr la interconexión e interoperabilidad de sus sistemas de trámites electrónicos con la Oficialía de Partes Digital Centralizada, para aquellos trámites que se gestionen en forma electrónica conforme a las disposiciones jurídicas aplicables;
+
+III. Adecuar sus canales de atención para llevar a cabo los trámites en forma estandarizada y homologada; y
+
+IV. Privilegiar el desahogo de solicitudes de trámites por medios electrónicos.
+
+La Unidad de Firma Electrónica Avanzada emitirá las especificaciones informáticas y los procedimientos de operación de la Oficialía de Partes Digital Centralizada, y establecerá el mecanismo de consulta y de asignación de los trámites y servicios que se ingresen por este canal a cada dependencia, entidad y ente que, conforme a sus atribuciones y facultades les corresponda atender.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 34 Ter.
+
+Cuando se ingrese una solicitud de trámite o de servicio por la Oficialía de Partes Digital Centralizada, o por las Oficialías de Partes Digitales de las dependencias y entidades públicas del Poder Ejecutivo del Estado de Querétaro o por las dependencias y entidades de la administración pública municipal, se emitirá un mensaje de datos con el sello digital de marcado cronológico que fungirá como acuse de recibo que acreditará que la solicitud de servicio o trámite fue recibida por la autoridad correspondiente. En este caso, el mensaje de datos con el sello digital de marcado cronológico identificará a la dependencia que recibió el documento electrónico y se tendrá por recibido en la hora y fecha que se consignen en el marcado cronológico.
+
+En caso de que la solicitud de trámite o servicio ingrese por la Oficialía de Partes Digital Centralizada, y se asigne a una dependencia o entidad estatal o municipal para su atención, se emitirá el mensaje de datos con el sello digital de marcado cronológico de que la solicitud fue asignada y recibida por la dependencia o entidad que corresponda. El mensaje de datos se enviará al Buzón Digital Estatal de la persona que solicita el servicio o trámite.
+
+Las Oficialías de Partes Digitales deberán considerar la emisión automática de un acuse de recibido que incluya:
+
+I. Fecha y hora de presentación;
+
+II. Número de entrada o registro;
+
+III. Descripción de la promoción o actuación electrónica;
+
+IV. Nombre de la Dependencia o Entidad que recibe;
+
+V. Datos de quien realiza la promoción o actuación electrónica; y
+
+VI. Los demás que defina la Unidad de Firma Electrónica Avanzada mediante disposiciones generales.
+
+La Unidad de Firma Electrónica Avanzada establecerá los medios para que las personas puedan comprobar la autenticidad de los mensajes de datos con sello digital de marcado cronológico.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 34 Quáter.
+
+Para la utilización de la Oficialía de Partes Digital, los particulares deberán cumplir con los requisitos siguientes:
+
+I. Contar con certificado vigente;
+
+II. Aceptar los términos y condiciones de uso;
+
+III. Señalar la dirección de correo electrónico, o un número de teléfono móvil relacionado con su Buzón Digital Estatal; y
+
+IV. Reconocer como propia y auténtica la información que se envíe a través de la misma.
+
+Las promociones electrónicas que realicen los particulares a través de la Oficialía de Partes Digital, producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones jurídicas aplicables otorgan a éstos.
+
 ###### Artículo 35.
 
 Cuando alguna disposición legal requiera que en un procedimiento se lleve a cabo notificaciones, citatorios, emplazamientos, requerimientos, solicitudes de informes y en general cualquier acto que implique notificación personal, este requisito podrá tenerse por satisfecho a través del uso de medios digitales, mediante el uso de un Buzón Digital Estatal.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 35 Bis.
+
+Para los efectos del artículo que antecede, el Buzón Digital Estatal será un medio de comunicación oficial a través del cual se comunicará a los particulares o interesados las actuaciones electrónicas o la información materia de procedimientos electrónicos.
+
+La Unidad de Firma Electrónica Avanzada administrará e implementará en su portal de Internet un Buzón Digital Estatal, que será incorporado a los portales de Internet de las dependencias y entidades públicas del Poder Ejecutivo del Estado de Querétaro, así como por notarios, valuadores y demás personas a las que se les haya delegado legalmente el ejercicio de una función pública en el Estado para su uso común.
+
+Las dependencias y entidades públicas señalados (sic) en el párrafo anterior, deberán realizar la notificación de cualquier acto, actuación electrónica o resolución administrativa que emitan en documentos electrónicos, incluyendo cualquiera que pueda ser recurrido, y podrán enviar mensajes de datos con información de interés para las personas que hagan uso del Buzón Digital Estatal.
+
+Las actuaciones electrónicas o actos que realicen en el Buzón Digital Estatal los sujetos señalados en el segundo párrafo de esta disposición, serán emitidos anexando su certificado y el sello digital de marcado cronológico.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 35 Ter.
+
+Las personas que intervengan en los actos previstos en la fracción I, del artículo 4 de esta Ley, deberán señalar medios de contacto electrónicos como una dirección de correo electrónico, o un número de teléfono móvil, a través de los cuales las unidades administrativas de las dependencias y entidades públicas del Poder Ejecutivo del Estado de Querétaro, remitan información de carácter técnico relacionada con el Buzón Digital Estatal y les informen de la existencia de actuaciones electrónicas o información pendiente de notificar por esta vía.
+
+En términos del artículo 19 de la presente Ley, se considera que toda persona que tramite un Certificado acepta la asignación y habilitación del Buzón Digital Estatal y autoriza como medio de contacto para los efectos de éste, el que haya señalado en la generación de dicho Certificado. Por lo anterior, se considera que toda persona que cuenta con un Certificado acepta como medio de notificación el esquema de Buzón Digital Estatal.
+
+Las personas que intervengan en los actos referidos en el primer párrafo del presente artículo, deberán acceder al Buzón Digital Estatal para notificarse de la información o actuaciones inherentes al desarrollo de los procedimientos.
+
+En caso de que el particular haga uso de los medios electrónicos y de la Firma Electrónica Avanzada o del sello electrónico, se entenderá que acepta desarrollarlo por dichos medios y que está de acuerdo en los términos y condiciones previstas para su uso.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 35 Quáter.
+
+Las notificaciones mediante el Buzón Digital Estatal se efectuarán atendiendo a lo siguiente:
+
+I. Las actuaciones o la información por notificar deberán estar contenidas en un documento electrónico en los términos de esta Ley y de su Reglamento y encontrarse vinculado a la autoridad emisora competente;
+
+II. Se utilizará la clave pública del destinatario para generar una cédula electrónica que contendrá cifrada la actuación o información que se pretende enterar;
+
+III. La cédula electrónica se colocará en el Buzón Digital Estatal y se remitirá un aviso al correo electrónico del destinatario y en su caso a los demás medios de contacto que haya registrado a efecto de que acceda al Buzón Digital Estatal y se notifique del contenido;
+
+IV. Para que el destinatario pueda acceder a las actuaciones o información que se le pretende notificar, requerirá utilizar su clave privada debido a la correspondencia guardada con la clave pública con la cual se cifró y generó la cédula electrónica respectiva;
+
+V. En el momento en que el destinatario acceda al contenido de la cédula electrónica se generará un sello digital de marcado cronológico que identificará el momento exacto en que fue efectuada la notificación, generándose los efectos legales correspondientes;
+
+VI. Cuando el destinatario no acceda al contenido de la cédula electrónica dentro de los cinco días hábiles siguientes a la remisión del aviso al correo electrónico y en su caso a los otros medios de contacto que tengan registrados a que se refiere la fracción III del presente artículo, la autoridad competente colocará en el Buzón Digital Estatal un nuevo acuerdo que haga constar que ha transcurrido dicho plazo y reitere la existencia de actuaciones o información pendiente de acceder a notificarse por esta vía por parte del interesado, procediendo simultáneamente a remitirle un nuevo aviso al correo electrónico o medio de contacto que haya señalado; y
+
+VII. Transcurridos tres días hábiles contados a partir del día hábil siguiente a aquel en el que se remitió el nuevo aviso a que se refiere la fracción anterior, sin que el destinatario acceda al contenido de la cédula electrónica, se entenderá que la cédula electrónica le fue notificada el último día del plazo a que se refiere esta fracción y se generará un sello digital de marcado cronológico que identificará el momento exacto en que se realizó la notificación, para efectuar el cómputo de los plazos y términos respectivos y se le dará a conocer al ciudadano.
 
 ###### Artículo 36.
 
@@ -429,7 +593,9 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 Artículo Tercero. El Poder Ejecutivo del Estado deberá realizar los ajustes presupuestales necesarios para la implementación de la presente Ley.
 
-Artículo Cuarto. El Poder Ejecutivo del Estado deberá, dentro de un término que no excederá de seis meses siguientes a la entrada en vigor de la presente ley, expedir los reglamentos y demás disposiciones jurídicas necesarias para su estricta aplicación.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+Artículo Cuarto. El Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, dentro de un término que no excederá de 10 meses siguientes a la entrada en vigor de la misma.
 
 Artículo Quinto. La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, deberá verificar que se provea a la Unidad de Firma Electrónica Avanzada, los recursos humanos, financieros, tecnológicos y materiales dentro de un plazo que no excederá de 30 treinta días hábiles, contados a partir de la fecha de publicación de este ordenamiento.
 
@@ -470,3 +636,53 @@ María Guadalupe Murguía Gutiérrez
 Secretaria de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE EXPIDE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO Y REFORMA EL ARTÍCULO 32 DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la Ley de Mejora Regulatoria del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el 03 de octubre de 2018.
+
+Artículo Tercero. El Titular del Poder Ejecutivo del Estado nombrará o ratificará a la persona Titular de la Comisión de Mejora Regulatoria del Estado de Querétaro, dentro de los treinta días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+Artículo Cuarto. En un plazo no mayor a noventa días naturales contados a partir de su nombramiento, el Comisionado por conducto de la Secretaría de Gobierno someterá a consideración del Titular del Poder Ejecutivo del Estado, el Reglamento Interior de la Comisión de Mejora Regulatoria del Estado de Querétaro.
+
+Artículo Quinto. Las decisiones y los actos realizados por el Consejo de Mejora Regulatoria del Estado de Querétaro instalado con la Ley de Mejora Regulatoria del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el 03 de octubre de 2018, seguirán surtiendo efectos hasta su total conclusión.
+
+Artículo Sexto. El Consejo de Mejora Regulatoria del Estado de Querétaro que entra en vigor con la presente Ley, deberá instalarse dentro de un plazo que no excederá los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+La representación municipal por única ocasión iniciará con los representantes de los Municipios de Querétaro y Corregidora, quienes estarán el periodo que señala la presente Ley.
+
+Artículo Séptimo. El Consejo de Mejora Regulatoria del Estado de Querétaro, en un plazo no mayor a noventa días naturales siguientes a la entrada en vigor de la presente Ley, deberá emitir el Reglamento Interior que regule su funcionamiento, de conformidad con este ordenamiento legal.
+
+Artículo Octavo. Los Sujetos Obligados tendrán los siguientes plazos para el cumplimiento a lo dispuesto por la Ley General, respecto de la herramienta tecnológica del Catálogo Estatal:
+
+I. Dentro de un año siguiente al inicio del funcionamiento de dicha herramienta, para los Sujetos Obligados de las dependencias del Poder Ejecutivo, sus órganos y entidades;
+
+II. Dentro de dos años siguientes al inicio del funcionamiento de la citada herramienta, para los Sujetos Obligados del orden municipal, y
+
+III. Dentro de los dos años siguientes para los Poderes Legislativo y Judicial, así como los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa, que no formen parte del Poder Judicial.
+
+Artículo Noveno. La Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo del Estado de Querétaro, deberá realizar los trámites administrativos correspondientes a efecto de que se provea de los elementos necesarios para el cumplimiento y aplicación de la presente Ley.
+
+Artículo Décimo. Corresponderá a la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo para el cumplimiento de la presente Ley, ajustarse a los recursos públicos que le fueron asignados para tales efectos dentro del Decreto de Presupuesto de Egresos del Estado de Querétaro del ejercicio fiscal 2022.
+
+Artículo Décimo Primero. La presente Ley no conlleva un impacto presupuestario, en razón de su contenido, ello conforme a lo contemplado en el artículo 16 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, por lo que cuenta con dictamen favorable por parte de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Décimo Segundo. Los Municipios, en el ámbito de su competencia, deberán expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes en esta materia, dentro del año siguiente a la entrada en vigor de la presente Ley.
+
+Artículo Décimo Tercero. La Comisión Estatal dentro de los noventa días naturales siguientes al de la entrada en vigor del presente ordenamiento, capacitará a los Sujetos Obligados y sus Responsables Oficiales.
+
+Artículo Décimo Cuarto. El Expediente para Trámites y Servicios comenzará su operación con la Regulación que la Comisión Estatal emita para tal efecto, estando vigente hasta en tanto sean emitidos los Lineamientos Generales a que hace referencia el artículo 46 de esta Ley.
+
+Artículo Décimo Quinto. El Poder Ejecutivo durante 2022, iniciara la aplicación del Análisis de Impacto Regulatorio de manera gradual a través de un programa piloto con los Sujetos Obligados que determine la Comisión Estatal, siendo obligatoria la herramienta para todos los Sujetos Obligados a la presente Ley, a partir de 2023.
+
+Artículo Décimo Sexto. Los procedimientos iniciados por las autoridades con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+Artículo Décimo Séptimo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Décimo Octavo. Lo dispuesto en el Capítulo Quinto del Título Tercero de la Ley de Firma Electrónica Avanzada para el Estado de Querétaro, se implementará una vez que los actos o actuaciones que se pretendan incorporar al uso de la Oficialía de Partes Digital y del Buzón Digital Estatal se encuentren digitalizados, así como que se cuente con los mecanismos de interconexión e interoperabilidad en los sistemas de trámites electrónicos que permitan su adecuada incorporación y uso, conforme al Reglamento de dicha Ley, las bases, lineamientos y demás disposiciones generales que al efecto se expidan.
