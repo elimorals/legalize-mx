@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2020-02-04"
+last_updated: "2022-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -450,6 +450,10 @@ VII. Llevar el registro de las instalaciones deportivas en su municipio, dotando
 > <small>(ADICIONADA, G.O. 25 DE AGOSTO DE 2014)</small>
 
 VIII. Integrar en sus Planes Municipales de Desarrollo a las actividades deportivas como parte de los objetivos, estrategias y prioridades para el desarrollo municipal;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+VIII Bis. Garantizar, conforme a su disponibilidad presupuestal, la existencia de bebederos o depósitos suficientes y con suministro continuo y gratuito de agua potables (sic) en instalaciones deportivas municipales, parques públicos y vialidades, en apoyo a las personas que realizan actividades deportivas o de ejercicio físico y a la población en general; y
 
 > <small>(REFORMADA, G.O. 25 DE AGOSTO DE 2014)</small>
 
@@ -1100,3 +1104,11 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 245 QUE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 27 DE LA LEY DEL SISTEMA ESTATAL DE CUTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
