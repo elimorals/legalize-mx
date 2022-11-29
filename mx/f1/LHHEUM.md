@@ -4,7 +4,7 @@ identifier: "LHHEUM"
 country: "mx"
 rank: "ley"
 publication_date: "2022-10-28"
-last_updated: "2022-11-02"
+last_updated: "2022-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160795&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LHHEUM"
 
 LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 2 DE NOVIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 28 de octubre de 2022.
 
@@ -80,7 +78,13 @@ En el territorio nacional habrá un horario estándar que se establecerá de acu
 
 I. Para los municipios de Acuña, Allende, Guerrero, Hidalgo, Jiménez, Morelos, Nava, Ocampo, Piedras Negras, Villa Unión y Zaragoza, en el estado de Coahuila de Zaragoza; Anáhuac, en el estado de Nuevo León; Nuevo Laredo, Guerrero, Mier, Miguel Alemán, Camargo, Gustavo Díaz Ordaz, Reynosa, Río Bravo, Valle Hermoso y Matamoros, en el estado de Tamaulipas, se aplica el meridiano 75 grados al oeste de Greenwich;
 
-II. Para el estado de Baja California se aplica el meridiano 105 grados al oeste de Greenwich.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 29 DE NOVIEMBRE DE 2022)</small>
+
+II. Para los municipios de Coyame del Sotol, Ojinaga y Manuel Benavides, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 90 grados al oeste de Greenwich;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 29 DE NOVIEMBRE DE 2022)</small>
+
+III. Para el Estado de Baja California, así como para los municipios de Janos, Ascensión, Juárez, Praxedis G. Guerrero y Guadalupe, del Estado de Chihuahua, acorde a sus correlativos a su franja fronteriza, se aplica el meridiano 105 grados al oeste de Greenwich.
 
 El horario estacional fronterizo norte surtirá efecto desde las dos horas del segundo domingo de marzo, y concluirá a las dos horas del primer domingo de noviembre.
 
@@ -115,3 +119,11 @@ Ciudad de México, a 25 de octubre de 2022.- Dip. Santiago Creel Miranda, Presid
 > <small>(F. DE E., D.O.F. 2 DE NOVIEMBRE DE 2022)</small>
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 5 DE LA LEY DE LOS HUSOS HORARIOS EN LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
