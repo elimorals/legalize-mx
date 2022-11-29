@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2022-05-20"
+last_updated: "2022-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -283,6 +283,24 @@ IX.- Las demás previsiones que deberán tomarse en consideración según la nat
 
 X.- Los programas de obra pública indicarán las fechas previstas para la iniciación y terminación de todas sus fases, considerando todas las acciones previas a su ejecución.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+ARTÍCULO 15 BIS.- Sin perjuicio de lo previsto en la fracción IV del artículo anterior, las dependencias, entidades y municipios atendiendo circunstancias de obra, entre otras, la magnitud o naturaleza del proyecto, podrán establecer en las bases del concurso y en el contrato o título de concesión respectivo que los licitantes tendrán a su cargo gestionar la adquisición de los bienes inmuebles o constitución de derechos reales que correspondan para ejecutar las obras, o bien, si se determinan mejores condiciones para la convocante, podrá hacerlo a través de otro contrato de servicios relacionados con la obra pública, en referencia con el contrato de obra o proyecto.
+
+Las bases siempre deberán considerar los montos presupuestados necesarios para cubrir la adquisición de los inmuebles, bienes y derechos necesarios.
+
+Durante la ejecución del contrato a que se refiere el primer párrafo de este artículo, para proceder a la adquisición a través de la vía convencional, la convocante, solicitará según corresponda a la Oficialía Mayor de cada Poder, ayuntamiento o entidad pública, el dictamen de valor de los inmuebles previsto en el artículo 51 fracción III de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, basándose en el avalúo correspondiente, expedido por valuador con nombramiento otorgado por el Poder Ejecutivo del Estado de Querétaro. Las adquisiciones por expropiación se ejecutarán en términos de la legislación especial en la materia.
+
+La adquisición formal de los inmuebles deberá constituir una acción de coordinación entre las distintas dependencias de cada Poder, ayuntamiento o entidad pública de conformidad con la naturaleza de sus atribuciones, considerando lo siguiente:
+
+a) Las negociaciones deberán coordinarse y concluirse por la dependencia de cada Poder, ayuntamiento o entidad pública que, por ministerio de ley, le corresponda ejercer la representación legal suficiente para suscribir los actos jurídicos correspondientes.
+
+b) La patrimonialización de las superficies corresponderá a la dependencia de cada Poder, ayuntamiento o entidad pública encargada de planear, programar, presupuestar y contratar las adquisiciones de bienes inmuebles.
+
+Los detalles de la colaboración y participación de las dependencias o unidades administrativas para con la convocante deberán especificarse en las bases y contrato respectivo.
+
+Una vez acordada la adquisición de los bienes inmuebles, el contratista o concesionario deberá gestionar la formalización y patrimonialización respectiva ante la unidad administrativa del Poder, ayuntamiento o entidad pública de que se trate.
+
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 16.
@@ -335,9 +353,27 @@ La clasificación por especialidad requerida, a que se refiere el primer párraf
 
 Las personas interesadas en registrarse en el Padrón de Contratistas de Obra Pública en el Estado o de los municipios, deberán solicitarlo por escrito ante la dependencia u órgano interno de control que corresponda, cumpliendo con los requisitos que para tal efecto establezca la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SU TABLA], P.O. 29 DE NOVIEMBRE DE 2022)</small>
 
-La vigencia del registro en el Padrón será anual, del 1 de febrero al 31 de enero del siguiente año.
+La vigencia del registro en el Padrón será anual. El periodo de renovación del registro en el Padrón de Contratistas de Obra Pública en el Estado deberá realizarse acorde al último dígito del número de registro, de acuerdo con la siguiente tabla:
+
+ÚLTIMO DÍGITO DEL PERIODO DURANTE
+
+NÚMERO DE REGISTRO EL QUE DEBERÁ RENOVARSE
+
+1 y 2 Enero y febrero
+
+3 y 4 Marzo y abril
+
+5 y 6 Mayo, junio y julio
+
+7 y 8 Agosto y septiembre
+
+9 y 0 Octubre, noviembre y diciembre
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+El contratista que no realice el trámite de renovación durante el periodo que le corresponde perderá el registro y deberá tramitarlo como inscripción.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -724,6 +760,10 @@ XV.- El procedimiento de ajuste de costos o importes, conforme lo establecido en
 XVI.- Proyecto arquitectónico y de ingeniería con jerarquía de ejecutivos, que se requieran para la adecuada elaboración de la proposición; las normas de calidad de los materiales, especificaciones de construcción aplicables, el catálogo de conceptos a llenar el cual deberá contener: cantidades de trabajo, unidades de medición y relación de conceptos de trabajo, indicando de cuáles se deberán presentar los análisis de precios unitarios y los básicos correspondientes, así como la relación de los costos básicos de materiales, mano de obra y maquinaria de construcción que se requiera anexar.
 
 XVII.- Modelo del contrato.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+ARTÍCULO 42 BIS.- En las bases que emitan las dependencias, entidades y municipios, en función del tipo de trabajo, podrán incluir requisitos en términos de las normas ambientales aplicables, para utilizar tecnología sostenible, que permitan la valorización y aprovechamiento de los residuos de la construcción y demolición, a efecto de prevenir, reducir, sustituir, limitar o eliminar el uso de productos comerciales de difícil degradación natural. En este caso y cuando proceda de conformidad con las normas ambientales, se deberá incluir lo relativo al plan de manejo correspondiente como obligación del licitante para considerar en su propuesta.
 
 ###### ARTÍCULO 43.
 
@@ -1192,6 +1232,10 @@ ARTÍCULO 56 UNDECIES.- La Secretaría de Desarrollo Urbano y Obras Públicas es
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 ARTÍCULO 56 DUODECIES.- El estudio y evaluación de la viabilidad de las concesiones será emitido por el Comité de Concesiones de manera previa a la emisión del proceso de licitación.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2022)</small>
+
+ARTÍCULO 56 TERDECIES.- El plazo previsto en el artículo 56 BIS de la presente Ley, podrá fijarse y contabilizarse desde la fecha en que comienza la operación y explotación, dependiendo de la naturaleza y objeto del título.
 
 ## TÍTULO IV. DE LA EJECUCIÓN, SUPERVISIÓN Y CONTROL DE LA OBRA PÚBLICA
 
@@ -2532,3 +2576,13 @@ Artículo Décimo Cuarto. Las hojas de testimonio que deberán utilizar los Nota
 Artículo Décimo Quinto. La Secretaría de Gobierno del Poder Ejecutivo, dictará las provisiones necesarias para el cumplimiento de lo dispuesto en la presente Ley, atendiendo a las circunstancias que se presenten con motivo de la asignación de los números a los Notarios.
 
 Artículo Décimo Sexto. Las contrataciones de servicios integrales a largo plazo previstos en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro o compromisos plurianuales, celebradas en el ejercicio fiscal 2022, les serán aplicables las disposiciones contenidas en los Artículos Tercero, Cuarto y Quinto de la presente Ley.
+
+P.O. 29 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, EN MATERIA DE OBRA PÚBLICA Y ECONOMÍA CIRCULAR".]
+
+Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se deroga cualquier disposición de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga".
