@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-07-20"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -559,9 +559,11 @@ Si el reconocimiento se hiciere en oficina distinta de aquella en que se levant�
 
 Dictada la resolución judicial definitiva que autorice la adopción, la autoridad judicial correspondiente, dentro del término de ocho días, remitirá copia certificada de la resolución al Oficial del Registro Civil respectivo, a fin de que levante el acta de adopción.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 94.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta a la autoridad judicial, al Oficial del Registro Civil o a los adoptantes, según el caso, a las sanciones que procedan por su negligencia.
+La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta a la autoridad judicial, al Oficial del Registro Civil o a las personas adoptantes o adoptante, según el caso, a las sanciones que procedan por su negligencia.
 
 ###### Artículo 95.
 
@@ -575,11 +577,11 @@ La falta de registro de la adopción no quita a ésta sus efectos legales; pero 
 
 El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que al margen cancele el acta de adopción y anote la de nacimiento del adoptado.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 98.
 
-En los casos de adopción, el Oficial del Registro Civil expedirá a los adoptantes, un acta de nacimiento en la que consten los datos previstos en el artículo 66, sin hacer mención del carácter adoptivo del vínculo paterno-filial, mandando cancelar el acta de nacimiento original y que se guarde bajo secreto la resolución judicial, identificando este antecedente con el número del acta de nacimiento que se expida.
+En los casos de adopción, el Oficial del Registro Civil expedirá a las personas adoptantes o adoptante un acta de nacimiento en la que consten los datos previstos en el artículo 66, sin hacer mención del carácter adoptivo del vínculo paterno o materno-filial, mandando cancelar el acta de nacimiento original y que se guarde bajo secreto la resolución judicial, identificando este antecedente con el número del acta de nacimiento que se expida.
 
 ### CAPÍTULO V. De las actas de matrimonio
 
@@ -2615,9 +2617,11 @@ IV.- A las demás funciones protectoras, afectivas y normativas derivadas de la 
 
 ### CAPÍTULO I. Disposiciones generales sobre la adopción
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 410.
 
-La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo del o de los adoptantes y a éstos, los deberes inherentes a la relación paterno-filial.
+La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo o hija de las personas adoptantes o adoptante y a éstos, los deberes inherentes a la relación paterno o materno-filial.
 
 ###### Artículo 411.
 
@@ -2633,31 +2637,41 @@ II.- Que el consentimiento ha sido otorgado libremente y por escrito, sin que ha
 
 III.- Que el consentimiento de la madre, sea otorgado cuando menos diez días después del alumbramiento; y
 
-IV.- Que el adoptante o los adoptados, según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+IV.- Que las personas adoptantes o adoptante o los adoptados, según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 413.
 
-El adoptante tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo.
+Las personas adoptantes o adoptante, tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 414.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o incapacitados, aún cuando sean mayores de edad.
+La persona adoptante mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o incapacitados, aun cuando sean mayores de edad.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 415.
 
-El adoptante deberá tener cuando menos diecisiete años más que el adoptado, pero el Juez podrá dispensar este requisito, cuando la adopción resulte benéfica para la persona que se trata de adoptar.
+La persona adoptante deberá tener cuando menos diecisiete años más que el adoptado, pero el Juez podrá dispensar este requisito, cuando la adopción resulte benéfica para la persona que se trata de adoptar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 416.
 
-El interesado debe solicitar la adopción en forma personal y directa, acreditando además:
+Las personas interesadas deben solicitar la adopción en forma personal y directa, acreditando además:
 
 I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o del incapacitado, como si se tratara de hijo propio, según las circunstancias y necesidades de la persona que se trata de adoptar;
 
 II.- Que la adopción es benéfica para éste;
 
-III.- Que el adoptante es persona de buenas costumbres, y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+III.- Que las personas adoptantes o adoptante presenten estudios mediante los cuales garanticen que son psicológica y económicamente aptos para adoptar y garantizar una vida digna al menor adoptado, y
 
 IV.- Que goza de buena salud física y mental.
 
@@ -2667,9 +2681,11 @@ Estos dos últimos requisitos serán acreditados mediante un estudio especial, r
 
 Cuando se trate de hermanos o de cualquier otra circunstancia que lo aconseje, el Juez puede autorizar la adopción de dos o más menores o incapacitados.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 418.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, aunque sólo uno de los cónyuges cumpla con el requisito de ser mayor de veinticinco años de edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
+Los cónyuges podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, aunque sólo uno de los cónyuges cumpla con el requisito de ser mayor de veinticinco años de edad, pero siempre y cuando la diferencia de edad entre cualquiera de las personas adoptantes y el adoptado sea de diecisiete años cuando menos.
 
 ###### Artículo 419.
 
@@ -2761,11 +2777,11 @@ El Juez que apruebe la adopción, remitirá copia de las diligencias respectivas
 
 ### CAPÍTULO III. De la adopción plena
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 438.
 
-La adopción crea entre los adoptantes y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea del adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
+La adopción crea entre las personas adoptantes o adoptante y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea de las personas adoptantes o adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2773,11 +2789,11 @@ La adopción crea entre los adoptantes y el adoptado, los mismos derechos, oblig
 
 El adoptado se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 440.
 
-Sólo podrán adoptar los dos cónyuges que vivan juntos y que además de cumplir con los requisitos establecidos en los artículos 414, 415 y 416, tengan más de cinco años de c (sic)
+Sólo podrán adoptar los dos cónyuges que vivan juntos y que cumplan con los requisitos establecidos en los artículos 414, 415 y 416.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -2875,11 +2891,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, cuando fueren mentalmente incapaces, cualquiera que sea su edad.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 458.
 
-El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante.
+Las personas adoptantes o adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre, la madre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante.
 
 ###### Artículo 459.
 
@@ -3409,9 +3425,11 @@ Deben observarse todas las reglas, limitaciones y condiciones puestas por el tes
 
 Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 546.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+Las personas adoptantes o adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo o hija adoptiva, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
 ### CAPÍTULO III. De la tutela legítima de los menores
 
@@ -16198,3 +16216,11 @@ B.O. 20 DE JULIO DE 2022.
 Primero.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2879 SE REFORMAN DIVERSOS NUMERALES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Dirección Estatal del Registro Civil contará con sesenta días hábiles a partir de la publicación del presente Decreto, a efecto de que realicen las adecuaciones conducentes a la reglamentación aplicable, en términos del presente Decreto, y dentro del mismo término, deberá realizar cursos de capacitación para su personal, a fin de garantizar el cumplimiento de las disposiciones que mediante el presente Decreto entran en vigor.
