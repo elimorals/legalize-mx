@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2022-09-20"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -261,7 +261,9 @@ Constituye violencia laboral: La negativa ilegal a contratar a la víctima o a r
 
 El hostigamiento sexual es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral y/o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
 
-El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+El acoso sexual es una forma de violencia en la que, sin existir relación de subordinación entre la víctima y el actor, éste se exprese física o verbalmente de manera degradante en relación a la sexualidad de una mujer, atentando contra su dignidad o su libertad en un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 ###### ARTÍCULO 7°.
 
@@ -440,6 +442,10 @@ ARTÍCULO 16 TER.- Las autoridades encargadas de la procuración, administració
 ###### ARTÍCULO 17.
 
 Las órdenes de protección: Son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por los (sic) autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Estatal Electoral y el Instituto Estatal Electoral, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
 > <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
@@ -1159,11 +1165,17 @@ XII. Las demás previstas para el cumplimiento de la presente Ley y otras dispos
 
 Es obligación del Poder Legislativo:
 
-I. Expedir y mantener actualizadas las leyes que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, conforme a esta Ley y a los tratados internacionales del que el Estado Mexicano sea Parte;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-II. Asegurarse de que en Presupuesto de Egresos del Estado, se destinen recursos suficientes para la aplicación de esta Ley;
+I. Expedir, mantener actualizadas, promover y difundir las leyes que tengan por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, conforme a esta Ley, la Ley General, la Constitución Política de los Estados Unidos Mexicanos y a los tratados internacionales suscritos por el Estado Mexicano;
 
-III. Al revisar las cuentas públicas del Estado y Municipios vigilar el puntual y transporte ejercicio de los presupuestos destinados a los programas y políticas relacionados con la prevención, atención, sanción y erradicación de la violencia hacia las mujeres; y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+II. Asegurarse de que en los Presupuestos de Egresos del Estado, se destinen recursos suficientes para la aplicación de esta Ley;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+III. A través de la Auditoría Superior del Estado, revisar las cuentas públicas de las entidades fiscalizadas del Estado y Municipios, vigilar el puntual y transparente ejercicio de las partidas presupuestales destinadas a los programas y políticas relacionados con la prevención, atención, sanción y erradicación de la violencia hacia las mujeres; y
 
 IV. Aplicar la perspectiva de género de manera transversal en sus actividades.
 
@@ -1780,3 +1792,15 @@ B.O. 20 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2849 SE ADICIONAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2876 SE REFORMA EL SEGUNDO PÁRRAFO AL ARTÍCULO 6 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2877 SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 201 Y SE ADICIONA UN ARTÍCULO 201 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
