@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2022-11-19"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2825,13 +2825,15 @@ El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sec
 
 (DEROGADO, P.O. 30 DE JUNIO DE 2015)
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-#### SECCION QUINTA. De la Consejería Jurídica del Gobierno del Estado
+#### SECCION QUINTA. De la Consejería Jurídica y Asistencia Legal del Estado
 
-> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-ARTICULO 98 BIS. La función de Consejero Jurídico del Gobierno del Estado estará a cargo de la dependencia del Ejecutivo que para tal efecto establezca la ley, ejerciendo la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura, en los términos que señala la Ley Orgánica del Poder Ejecutivo del Estado, así como otorgar apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado.
+###### ARTICULO 98 Bis.
+
+La Consejería Jurídica y Asistencia Legal del Gobierno del Estado, ejercerá la representación jurídica del Estado; del Titular del Poder Ejecutivo y de la Gubernatura; brindará el apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado y desarrollará las funciones administrativas necesarias en el ejercicio de su cargo, en los términos que señale la Ley Orgánica del Poder Ejecutivo del Estado.
 
 Como titular de la dependencia, estará una persona que se denominará Consejero Jurídico del Gobierno del Estado, quien para su nombramiento deberá cumplir con los requisitos establecidos en la Ley.
 
@@ -4099,9 +4101,9 @@ El resultado de las evaluaciones del desempeño institucional se deberá conside
 
 La planeación para el desarrollo estatal facilitará la programación del gasto público con base en objetivos y metas; claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, responsables de integrar el Proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
+La Ley preverá la coordinación necesaria entre la instancia técnica, la Secretaría de Finanzas, la Secretaría de Administración y el Director General del Instituto de Planeación para el Bienestar, responsables de integrar el Proyecto de Presupuesto de Egresos del Estado para cada ejercicio fiscal, a fin de dar cumplimiento a lo previsto en este artículo y emitir las disposiciones administrativas correspondientes.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
 
@@ -6330,3 +6332,27 @@ P.O. 19 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 729.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 98 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. En todos los ordenamientos del Estado que se mencione a la "Consejería Jurídica", debe entenderse que se refieren a la "Consejería Jurídica y Asistencia Legal", conforme lo aprobado en la presente reforma.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 730.- MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO DÉCIMO PRIMERO DEL ARTICULO 137, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO DEL ARTÍCULO 26 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y LA FRACCIÓN XI DEL ARTÍCULO 49 BIS, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
+
+TERCERO. El H. Congreso del Estado de Oaxaca deberá armonizar la legislación estatal que corresponda con lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de la fecha de su entrada en vigor.
+
+CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+QUINTO. La Creación del Instituto de Planeación para el Bienestar no representa impacto presupuestal alguno, toda vez que utilizará los recursos asignados a la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
