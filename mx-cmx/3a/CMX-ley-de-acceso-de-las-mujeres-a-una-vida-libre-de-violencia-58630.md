@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2022-06-10"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -184,9 +184,9 @@ IV. Contar con asesoría y representación jurídica gratuita y expedita;
 
 V. Recibir información, atención y acompañamiento médico y psicológico;
 
-> <small>(REFORMADA, G.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en las Casas de Emergencia y los Centros de Refugio destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en Refugios Especializados;
+VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, delitos sexuales, contra la libertad personal, tentativa de feminicidio y lesiones, en las Casas de Emergencia y los Centros de Refugio destinados para tal fin. Cuando se trate de víctimas de trata de personas, las mujeres recibirán atención integral con sus hijas e hijos en Refugios Especializados;
 
 VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
@@ -278,13 +278,15 @@ IX. Simbólica: La que a través de patrones estereotipados, mensajes, valores, 
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 7.
 
-Las modalidades de la violencia contra las mujeres son:
+Las modalidades de violencia contra las mujeres son:
 
-I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, o sociedad de convivencia;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+I. Violencia Familiar: Es aquella que puede ocurrir dentro o fuera del domicilio de la víctima, cometido por parte de la persona agresora con la que tenga o haya tenido parentesco por consanguinidad o por afinidad, derivada de concubinato, matrimonio, sociedad de convivencia o relaciones de hecho;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -495,6 +497,10 @@ Asimismo, diseñará un Plan Anual de Trabajo que contenga las acciones en mater
 ###### Artículo 13.
 
 La prevención es el conjunto de acciones que deberán llevar a cabo las dependencias, entidades de la Ciudad de México y las Alcaldías, conjuntamente con la población, la iniciativa privada, la sociedad civil organizada y los medios de comunicación, para evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo tanto en los ámbitos público y privado.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+La prevención también comprenderá medidas en materia de educación para toda la población, encaminadas a eliminar la cultura y prácticas machistas, roles de género, cualquier tipo de violencia y prejuicios de toda índole.
 
 > <small>(ADICIONADO, G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -1178,7 +1184,9 @@ Las Casas de Emergencia son estancias especialmente acondicionadas para recibir 
 
 Cada una de las 16 Alcaldías de la Ciudad de México deberá contar, por lo menos, con una Casa de Emergencia, que opere bajo los protocolos y modelos de atención aprobados por la Secretaría de las Mujeres.
 
-Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su condición; así como sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella. El período de estancia no será mayor de tres días, previa canalización a un albergue, de ser necesario.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Podrá ingresar a las Casas de Emergencia, cualquier mujer, sin importar su condición, origen étnico o pertenencia a la diversidad sexual; así como sus hijas e hijos de cualquier edad, o cualquier persona que dependa de ella. El periodo de estancia no será mayor de tres días, previa canalización a un albergue, de ser necesario.
 
 > <small>(ADICIONADO, G.O. 26 DE FEBRERO DE 2021)</small>
 
@@ -1260,7 +1268,9 @@ La Secretaría de las Mujeres y las 16 Alcaldías, deberán actuar de forma coor
 
 Con este propósito podrán celebrar convenios o proyectos de coinversión con las organizaciones de la sociedad civil especializadas en los temas de competencia, para el diseño, concertación de acciones y programas de financiamiento y apoyo a las Casas de Emergencia o Centros de Refugio.
 
-Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Las Alcaldías deberán contemplar en su Plan de Egresos de cada año lo establecido en la presente ley para la instalación progresiva, operatividad y/o el mantenimiento de la o las respectivas Casas de Emergencia. Los Centros de Refugio se sujetarán a las disposiciones de financiamiento y concertación de acciones establecidas en la presente ley y demás normativa aplicable.
 
 El Congreso de la Ciudad de México deberá considerar lo establecido por la presente ley para la asignación de recursos a las Alcaldías en cada ejercicio fiscal.
 
@@ -2105,3 +2115,21 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. A efecto de dar cumplimiento a lo dispuesto en el presente decreto, la persona titular de la Jefatura de Gobierno contará con un plazo de 60 días hábiles a partir de su entrada en vigor, para armonizar el contenido del Reglamento de la presente Ley.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL TERCER PÁRRAFO DEL ARTÍCULO 49, Y EL TERCER PÁRRAFO DEL ARTÍCULO 53, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 5, LA FRACCIÓN I DEL ARTÍCULO 7, SE ADICIONA UN SEGUNDO PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 13 TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente decreto las autoridades competentes tendrán 120 días naturales para realizar las adecuaciones reglamentarias correspondientes
