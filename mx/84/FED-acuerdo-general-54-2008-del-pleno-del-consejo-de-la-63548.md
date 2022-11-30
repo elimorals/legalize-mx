@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-54-2008-del-pleno-del-consejo-de-la-63548"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-10"
-last_updated: "2022-03-14"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 54/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 10 de octubre de 2008.
 
@@ -55,23 +55,29 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
-PRIMERO. CONFORMACIÓN, UBICACIÓN Y COMPETENCIA. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por un tribunal Colegiado Auxiliar, un tribunal unitario y tres juzgados de Distrito Auxiliares, el domicilio de los juzgados de Distrito será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción ‘A’, Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero, y los restantes órganos jurisdiccionales estarán en avenida Adolfo López Mateos número 4, Fraccionamiento Las Playas, código postal 39390, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, conformado por tres juzgados de Distrito Auxiliares, cuyo domicilio será el ubicado en Boulevard de las Naciones número 640, Granja 39, Fracción ‘A’, Fraccionamiento Granjas del Marqués, código postal 39890, Acapulco, Guerrero, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
 Juzgado Primero de Distrito del Centro Auxiliar de la Séptima Región.
 
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
+
 Juzgado Cuarto de Distrito del Centro Auxiliar de la Séptima Región.
+
+> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 35/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2018)</small>
 
 Juzgado Quinto de Distrito del Centro Auxiliar de la Séptima Región.
 
-El tribunal unitario se denominará:
+> <small>(DEROGADO QUINTO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
-Tribunal Unitario de Circuito del Centro Auxiliar de la Séptima Región.
+> <small>(DEROGADO SEXTO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
-El tribunal colegiado se denominará:
+> <small>(DEROGADO SÉPTIMO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
-Tribunal Colegiado de Circuito del Centro Auxiliar de la Séptima Región.
+> <small>(DEROGADO OCTAVO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE NOVIEMBRE DE 2022)</small>
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero.
 
@@ -194,3 +200,15 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO GENERAL 61/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA SÉPTIMA REGIÓN, CON RESIDENCIA EN ACAPULCO, GUERRERO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El personal que, conforme al análisis que emprenda la Dirección General de Recursos Humanos, con apoyo de la Secretaría Ejecutiva de Adscripción, deba trasladarse de residencia, podrá hacerlo dentro de los diez días hábiles siguientes a partir de que les sea notificada la transferencia.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
