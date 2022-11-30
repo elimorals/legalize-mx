@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2022-06-02"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -148,7 +148,9 @@ I. Alcaldesas o Alcaldes. Titulares de los órganos político-administrativos de
 
 II. Autoridades Electorales. El Instituto Nacional Electoral, el Instituto Electoral y el Tribunal Electoral ambos de la Ciudad de México;
 
-III. (DEROGADA, G.O. 9 DE ENERO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+III. Candidata a Diputada o Diputado migrante. Es la persona residente en el extranjero con calidad de originaria de la Ciudad de México, que cumple con los requisitos dispuestos por la Constitución Federal y su Ley Reglamentaria en materia de nacionalidad y ciudadanía, así como con lo establecido en las demás disposiciones normativas que resulten aplicables;
 
 IV. Candidato sin partido. La ciudadana o el ciudadano que obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece el presente Código;
 
@@ -196,9 +198,13 @@ XXV. Titular. La persona servidora pública en cargo de elección popular que pr
 
 XXVI. Transeúntes. Las personas que no son originarias de la Ciudad de México y transitan por su territorio;
 
-XVII (SIC). Tribunal Electoral. El Tribunal Electoral de la Ciudad de México;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-XVIII (SIC). Vecinas y vecinos. Las personas que residen por más de seis meses en la Ciudad de México;
+XXVII. Tribunal Electoral. El tribunal Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XXVIII. Vecinas y vecinos. Las personas que residen por más de 6 meses en la Ciudad de México;
 
 C) En lo que se refiere al marco conceptual:
 
@@ -262,9 +268,11 @@ Para los efectos de lo dispuesto por el párrafo octavo del artículo 134 de la 
 
 En la Ciudad de México, son derechos de las ciudadanas y de los ciudadanos:
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables. Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno, en los términos que determinen la Constitución Federal, las Leyes Generales y este Código;
+I. Votar y participar en las elecciones federales, locales, consultas populares y demás mecanismos e instrumentos de participación ciudadana conforme lo dispuesto por este Código y demás disposiciones aplicables.
+
+Las ciudadanas y ciudadanos de la Ciudad de México residentes en el extranjero, tendrán derecho a emitir su voto en la elección para la Jefatura de Gobierno y para las personas Diputadas y Diputados Locales exclusivamente para el caso de candidatos a Diputada o Diputado Migrante, de conformidad con lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local, y este Código;
 
 II. Asociarse libre, individual y voluntariamente a una Asociación Política para participar en forma pacífica en los asuntos políticos de la Ciudad de México;
 
@@ -382,9 +390,11 @@ Este Código reconoce el derecho de los pueblos y barrios originarios y comunida
 
 ### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN DEL CONGRESO LOCAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 11.
 
-Las Diputadas y Diputados del Congreso Local serán electos cada tres años mediante voto universal, libre, directo y secreto, 33 serán electos conforme al principio de mayoría relativa mediante el sistema de distritos electorales uninominales y los otros 33 bajo principio de representación proporcional, en las condiciones establecidas en la Constitución Local y este Código.
+Las Diputadas y Diputados del Congreso Local serán electos cada tres años mediante voto universal, libre, directo y secreto, 33 diputaciones serán electas conforme al principio de mayoría relativa mediante el sistema de distritos electorales uninominales, una diputación electa por el principio de mayoría relativa mediante el voto de las ciudadanas y ciudadanos originarios de la Ciudad de México residentes en el extranjero; y 32 diputaciones electas bajo el principio de representación proporcional en las condiciones establecidas en la Constitución Política de la Ciudad de México y este Código.
 
 Durante el tiempo que dure su encargo deberán residir en la Ciudad de México.
 
@@ -404,15 +414,17 @@ El Congreso Local se regirá por los principios de parlamento abierto. Las Diput
 
 Las Diputadas y los Diputados del Congreso Local son inviolables por las opiniones que manifiesten en el desempeño de su encargo. No podrán ser reconvenidos ni procesados por éstas. La Presidencia del Congreso Local velará por el respeto a la inviolabilidad del recinto donde se reúnan a sesionar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-Las ciudadanas y los ciudadanos originarios que se encuentren en el extranjero podrán ejercer su derecho al sufragio en la elección de jefatura de gobierno.
+Las ciudadanas y los ciudadanos originarios que se encuentren en el extranjero podrán ejercer su derecho al sufragio en la elección de jefatura de gobierno, así como en la fórmula de Candidatos a Diputadas o Diputados migrantes, de conformidad con lo que dispone el Código y los lineamientos que al efecto emita el propio Instituto Electoral, quien tendrá bajo su responsabilidad el registro de las Candidaturas a Diputadas o Diputados Migrantes y la organización de esos comicios; para ello podrá emitir acuerdos y suscribir convenios con el Instituto Nacional, dependencias de competencia federal y local, así como con instituciones de carácter social y privado, debiendo su Consejo General determinar las modalidades que se habrán de emplear para la recepción de esos sufragios, apoyándose para ello en un Comité especial y en un área técnica prevista en el reglamento interno del Instituto Electoral, que le auxilien a valorar los diversos mecanismos empleados para ese efecto por otros organismos electorales y/o proponer elementos innovadores para su instrumentación.
 
 Para ejercer el derecho al voto, las ciudadanas y los ciudadanos originarios residentes en el extranjero deberán contar con credencial para votar con fotografía expedida por el organismo electoral federal cuyo registro corresponda a la Ciudad de México, lo que permitirá acreditar la residencia en esta entidad federativa, aún sin radicar en ella.
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Los partidos políticos podrán postular a las personas candidatas en coalición o candidaturas comunes en esos comicios.
 
 (NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA PLANTEADA EN LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2017, ATRIBUIDA A ESTE ARTÍCULO, RELATIVA A ESTABLECER EN ESTE CÓDIGO MECANISMOS POLÍTICO-ELECTORALES ESPECÍFICOS RELACIONADOS CON EL ACCESO A CARGOS DE ELECCIÓN POPULAR DE LAS PERSONAS INTEGRANTES DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO; EN LA INTELIGENCIA DE QUE LA ASAMBLEA LEGISLATIVA DE LA CIUDAD DE MÉXICO DEBERÁ EMITIR, PREVIA CONSULTA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS DE LA CIUDAD DE MÉXICO, EL ACTO LEGISLATIVO QUE SUBSANE ESA OMISIÓN, EL CUAL DEBERÁ ENTRAR EN VIGOR ANTES DEL PROCESO ELECTORAL SIGUIENTE AL QUE INICIE EN ESA LOCALIDAD EN EL MES DE OCTUBRE DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -478,9 +490,17 @@ En ningún caso el número de concejales podrá ser menor de diez ni mayor de qu
 
 Los cargos de elección popular a que se refiere este título se elegirán de acuerdo al ámbito territorial siguiente:
 
-I. 33 Diputadas y Diputados de mayoría relativa serán electos en distritos locales uninominales, en que se divide la Ciudad de México, cuyo ámbito territorial será determinado por el Instituto Nacional de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-II. 33 Diputadas y Diputados de representación proporcional serán asignados mediante el sistema de listas votadas e integradas conforme lo dispuesto en la Constitución Federal y en este Código y en una sola circunscripción plurinominal que abarcará todo el territorio de la Ciudad de México;
+I. 33 Diputadas y Diputados de mayoría relativa serán electos en distritos locales uninominales, en que se divide la Ciudad de México, cuyo ámbito territorial será determinado por la autoridad electoral correspondiente de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+I. Bis. Una diputada o diputado electo por el principio de mayoría relativa, mediante el voto de las ciudadanas y los ciudadanos originarios de la Ciudad de México residentes en el extranjero.
+
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+II. 32 Diputadas y Diputados de representación proporcional serán asignados mediante el sistema de listas votadas e integradas conforme lo dispuesto en la Constitución Federal, las Leyes Generales, la Constitución Local y este Código y en una sola circunscripción plurinominal que abarcará todo el territorio de la Ciudad de México;
 
 III. Una persona Titular de la Jefatura de Gobierno en todo el territorio de la Ciudad de México, que será considerado como una sola circunscripción. En su caso y para efecto de esa elección se considerarán como emitidos dentro de la circunscripción, los sufragios de los ciudadanos de la Ciudad de México residentes en el extranjero;
 
@@ -564,7 +584,13 @@ I. Tener la ciudadanía mexicana en el ejercicio de sus derechos;
 
 II. Tener dieciocho años cumplidos el día de la elección;
 
-III. Ser persona originaria o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+III. Ser persona originaria o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+En el caso de las candidaturas de personas originarias de la Ciudad de México residentes en el extranjero, no será necesario acreditar los dos años de vecindad efectiva en la Ciudad establecidos en el párrafo precedente; sin embargo, quienes aspiren a esta diputación deberán acreditar de manera fehaciente su calidad de residentes en el extranjero al momento de su registro como candidatos, para lo cual las autoridades electorales determinarán cuáles serán los mecanismos y documentales idóneas para ello;
 
 IV. No estar en servicio activo en el Ejército Federal ni tener mando en la policía de la Ciudad de México, cuando menos antes del inicio del proceso electoral local correspondiente;
 
@@ -1736,13 +1762,13 @@ Se integrará por las y los Consejeros Electorales que formen parte de las Comis
 
 El Consejo General declarará, mediante acuerdo, el inicio formal de los trabajos del Comité Especial y designará al Consejero Electoral que lo presidirá.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2020)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN G.O. DE 30 DE NOVIEMBRE DE 2022, PÁGINA 11.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 76.
 
-En los procesos electorales en que tenga verificativo la elección de Jefa o Jefe de Gobierno, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las y los ciudadanos de la Ciudad de México residentes en el extranjero, únicamente en cuanto a esa elección.
-
-En los procesos electorales en que tenga verificativo la elección de Jefe de Gobierno se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de los ciudadanos de la Ciudad de México residentes en el extranjero, únicamente en cuanto a estas figuras.
+En los procesos electorales en que tenga verificativo la elección de Jefa o jefe de Gobierno, y/o de Persona Diputada Migrante, se conformará un Comité encargado de coordinar las actividades tendientes a recabar el voto de las personas originarias de la Ciudad de México residentes en el extranjero, únicamente en cuanto a estos cargos.
 
 Serán integrantes de este Comité, tres Consejeros Electorales con derecho a voz y voto, y un representante de cada Partido Político quienes sólo tendrán derecho a voz.
 
@@ -1758,7 +1784,9 @@ III. Proponer al Consejo General la propuesta de mecanismos para promover y reca
 
 IV. Presentar al Consejo General la estadística, respecto de la participación de los ciudadanos de la Ciudad de México residentes en el extranjero; y
 
-V. (DEROGADA, G.O. 9 DE ENERO DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+V. Proponer al Consejo General para el escrutinio y cómputo de los votos respecto de la elección de la persona a ocupar el cargo de Jefatura de Gobierno, así como de la elección de la persona que ocupe el cargo de Diputado o Diputada Migrante; el sistema electrónico que se habilite para hacer constar los resultados en las actas y aplicando, en lo que resulte conducente, las disposiciones de la Ley General;
 
 VI. Presentar al Consejo General el proyecto del costo de los servicios postales derivado de los envíos que por correo realice el Instituto a los ciudadanos residentes en el extranjero, así como el costo derivado de los servicios digitales, tecnológicos, operativos y de promoción, para su inclusión en el presupuesto institucional;
 
@@ -8039,3 +8067,13 @@ CUARTO. A partir de la entrada en vigor del presente Decreto y dentro de un marc
 QUINTO. Las comisiones actuales permanecerán vigentes hasta en tanto sean constituidas las nuevas.
 
 La integración de las nuevas comisiones se llevaran acabo (sic) dentro del plazo establecido en el articulo Cuarto Transitorio de este Decreto, las cuales, por única ocasión, se determinaran mediante acuerdo del Consejo General, sin importar la composición actual de las mismas.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 29, EN SUS APARTADOS A, NUMERAL 2 Y C, INCISO B) DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 11; EL PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 17; EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 76 Y SE ADICIONA UN I BIS AL ARTÍCULO 17; Y UN PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 20 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
