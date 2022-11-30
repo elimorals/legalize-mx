@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-regula-el-uso-de-cubrebocas-y-demas-medidas-para-145366
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-27"
-last_updated: "2020-11-30"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD POR COVID-19 EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE NOVIEMBRE DE 2020.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en número 5884 del Periódico Oficial del Estado de Morelos, el martes 27 de noviembre de 2020.
 
@@ -65,11 +63,13 @@ No se consideran cubrebocas todos aquellos con sistema de filtro o válvula; ell
 
 ### CAPÍTULO II. DEL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PREVENTIVAS
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-Uso obligatorio de cubrebocas. El uso de cubrebocas es obligatorio para todas las personas que se encuentren en el territorio del estado de Morelos, en vías y espacios públicos o de uso común cerrados o al aire libre; en el interior de establecimientos ya sea de comercio, industria o servicios; centros de trabajo de cualquier ramo; lugares de culto religioso; centros comerciales y todos aquellos en donde no se puedan aplicar medidas de contención como el distanciamiento físico; así como para usuarios, operadores y conductores de los servicios de transporte de pasajeros y de carga, de conformidad con lo dispuesto por la normativa aplicable.
+Uso obligatorio de cubrebocas. El uso de cubrebocas es obligatorio para todas las personas que se encuentren en el territorio del estado de Morelos, en vías y espacios públicos o de uso común cerrados o al aire libre; en el interior de establecimientos ya sea de comercio, industria o servicios; centros de trabajo de cualquier ramo; lugares de culto religioso; centros comerciales y todos aquellos en donde no se puedan aplicar medidas de contención como el distanciamiento físico; así como para usuarios, operadores y conductores de los servicios de transporte de pasajeros y de carga.
 
-Además del uso de cubrebocas se deberán observar las medidas adicionales dictadas por la autoridad federal correspondiente y las establecidas en la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 4.
 
@@ -79,9 +79,29 @@ I. Menores de 4 años de edad;
 
 II. Personas con problemas para respirar;
 
-III. Personas que requieran de ayuda para colocar y retirar el cubrebocas; y
+III. Personas que requieran de ayuda para colocar y retirar el cubrebocas; y,
 
 IV. Personas que se encuentren en el interior de un vehículo sin compañía.
+
+Además de lo anterior, la Secretaría de Salud estatal, de conformidad con las recomendaciones del Comité Estatal de Seguridad en Salud, considerará los casos de excepción respecto del uso obligatorio de cubrebocas, para lo cual determinará los instrumentos normativos necesarios que permitan establecer las condiciones y medidas para el uso obligatorio de cubrebocas o descontinuar su uso, parcial o totalmente, así como las medidas complementarias y preventivas de seguridad sanitaria ante dicha enfermedad.
+
+Para tal efecto, valorará el comportamiento de la situación epidemiológica por Covid-19 en el estado, así como la información científica y estadística que al respecto generen las autoridades sanitarias correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 4
+
+Bis.- Para determinar las medidas de excepción del uso obligatorio del cubrebocas en espacios públicos abiertos donde se cumpla con la sana distancia de mínimo uno punto cinco metros entre personas, se considerará lo siguiente:
+
+I. Que la ocupación hospitalaria de pacientes con la enfermedad Covid-19 producida por el virus SARSCoV-2 en todo el Sector Salud Estatal, se encuentre por debajo del veinticinco por ciento;
+
+II. Que la tasa de mortalidad por Covid-19 se encuentre por debajo de uno punto cinco por cada cien mil habitantes, y
+
+III. Que la cobertura de vacunación colectiva contra el virus SARS-CoV-2 sea superior al setenta por ciento de la población morelense, conforme a los indicadores de riesgo epidemiológico para la Covid-19.
+
+En espacios cerrados y en el transporte público, se deberá continuar con el uso de cubrebocas. Las personas vulnerables por presentar las enfermedades que se encuentran conforme lo establecido en los criterios para las poblaciones en situaciones de vulnerabilidad y las personas que no cuenten con el esquema de vacunación contra la Covid-19 completo, invariablemente deberán seguir usando el cubrebocas aun en espacios públicos abiertos, o conforme lo determine la Secretaría de Salud, dependiendo de la situación epidemiológica en el estado.
+
+Las condiciones de excepción previstas en el presente artículo no suprimen, de ninguna manera, las medidas complementarias y preventivas de seguridad sanitaria como son; lavado de manos con agua y jabón o alcohol gel al setenta por ciento, sana distancia de por lo menos metro y medio entre cada persona, estornudo de etiqueta y la aplicación de la vacuna contra Covid-19, de acuerdo con los Lineamientos de la Política Nacional de Vacunación contra dicha enfermedad, o conforme a lo que corresponda.
 
 ###### Artículo 5.
 
@@ -278,3 +298,15 @@ SECRETARIO DE GOBIERNO
 LIC. PABLO HÉCTOR OJEDA CÁRDENAS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO QUINIENTOS SETENTA Y UNO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY QUE REGULA EL USO DE CUBREBOCAS Y DEMÁS MEDIDAS PARA PREVENIR LA TRANSMISIÓN DE LA ENFERMEDAD POR COVID-19 EN EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo que sean contrarias al presente Decreto.
