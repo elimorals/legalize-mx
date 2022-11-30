@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2022-06-15"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -3230,11 +3230,9 @@ Al que obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un
 
 Cuando el delito se cometa en contra de persona mayor de sesenta años de edad, las penas se incrementarán en un tercio. Las penas se aumentarán al doble cuando el delito se realice por servidor público miembro o ex-miembro de alguna corporación de seguridad ciudadana de cualquier nivel de gobierno. Se impondrán además al servidor o ex-servidor público, o al miembro o ex miembro de corporación de seguridad ciudadana o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará de cinco a diez años para desempeñar cargos o comisión públicos; TAMBIÉN SE LE SUSPENDERÁ EL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PRIVADA.
 
-(NOTA: EL 10 DE ABRIL DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE AGOSTO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 4 DE AGOSTO DE 2021)</small>
-
-Las penas se aumentarán al doble cuando el delito se realice por servidor público o miembro o ex miembro de alguna corporación de seguridad pública o privada. Se impondrán además al servidor o ex servidor público, o al miembro o ex miembro de corporación de seguridad pública o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará por el mismo tiempo que la pena de prisión impuesta para desempeñar cargos o comisión públicos; TAMBIÉN SE LE SUSPENDERÁ EL DERECHO PARA EJERCER ACTIVIDADES EN CORPORACIONES DE SEGURIDAD PRIVADA.
+Las penas se aumentarán al doble cuando el delito se realice por persona servidora pública o miembro o ex miembro de alguna corporación de seguridad pública o privada. Se impondrán además a la persona servidora o ex servidora pública, o al miembro o ex miembro de corporación de seguridad pública o privada, la destitución del empleo, cargo o comisión público, y se le inhabilitará por el mismo tiempo que la pena de prisión impuesta para desempeñar cualquier cargo público o comisión.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE AGOSTO DE 2021)</small>
 
@@ -4808,13 +4806,17 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-ARTÍCULO 345 BIS. Se le impondrán de tres meses a cinco años de prisión y de 500 a 2,000 días multa, al que derribe, tale, o destruya parcialmente u ocasione la muerte de uno o más árboles.
+ARTÍCULO 345 BIS. Se le impondrán de dos años a diez años de prisión y de 1,000 a 5,000 Unidades de Medida y Actualización vigente, al que de forma ilegal o con dolo derribe, tale u ocasione la muerte de uno o más árboles.
 
-> <small>(REFORMADO, G.O. 27 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en el párrafo anterior se hayan desarrollado en cualquiera de los siguientes lugares, competencia del Distrito Federal:
+La misma pena se impondrá a quien almacene materias primas forestales de forma ilegal, con un fin distinto de aquellas destinadas al uso doméstico.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Las penas previstas en este artículo se duplicarán cuando una o más de las conductas descritas en los párrafos anteriores se realicen de manera reiterada, con ánimo de lucro o cuando se hayan desarrollado en cualquiera de los siguientes lugares, competencia de la Ciudad de México:
 
 I. En un área natural protegida;
 
@@ -4826,9 +4828,13 @@ IV. En una barranca; o
 
 V. En un área verde en suelo urbano.
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por quinientos días multa, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral o jurídica, a ésta se le impondrá la consecuencia jurídica consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, multa hasta por cinco mil Unidades de Medida y Actualización vigente, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+La pena se aumentará en una mitad a las personas servidoras públicas que tengan algún tipo de participación en una o más de las conductas descritas en el presente artículo.
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2011)</small>
 
@@ -6453,6 +6459,22 @@ Segundo. El presente decreto entrará en vigor, al día siguiente de su publicac
 G.O. 15 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO PRIMERO, LA FRACCIÓN II Y III, ADICIONÁNDOSE LA FRACCIÓN IV, RECORRIÉNDOSE EL QUINTO PÁRRAFO DEL ARTÍCULO 236 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA Y ADICIONA EL ARTÍCULO 345 BIS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 236 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
 
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
