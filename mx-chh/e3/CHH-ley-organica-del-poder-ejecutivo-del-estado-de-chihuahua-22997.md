@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2022-07-30"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2022.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE JULIO DE 2022 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -419,9 +417,9 @@ XIV. Secretaría de Coordinación de Gabinete.
 
 XV. Fiscalía General del Estado.
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-XVI. Comisión Estatal para los Pueblos Indígenas.
+XVI.- Secretaría de Pueblos y Comunidades Indígenas.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2020)</small>
 
@@ -1693,29 +1691,49 @@ c) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2021)
 
 XV. Las demás que expresamente le encomienden las leyes, reglamentos y acuerdos.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-ARTICULO 35 QUATER. A la Comisión Estatal para los Pueblos Indígenas corresponde el despacho de los siguientes asuntos:
+ARTICULO 35 QUATER.- A la Secretaría de Pueblos y Comunidades Indígenas corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 I. Diseñar e instrumentar las políticas públicas para los pueblos y comunidades indígenas sustentadas en el respeto a sus derechos humanos y en la transversalidad intercultural de la acción institucional que responda a la realidad indígena.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 II. Diseñar y operar un mecanismo de consulta y participación indígenas, estableciendo los procedimientos técnicos y metodológicos para promover la participación de las autoridades tradicionales y de las comunidades de los pueblos indígenas en la formulación, ejecución, administración y evaluación de los planes y programas de desarrollo social y humano dirigidos a ellas.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 III. Actualizar sistemáticamente el diagnóstico de la realidad de los Pueblos y Comunidades Indígenas del Estado, mediante una metodología participativa.
 
-IV. Ser Instancia de participación y consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal, que tengan como objetivo las comunidades indígenas que habitan en el Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-V. Coordinar las políticas y acciones vinculadas con el desarrollo social y humano de las comunidades indígenas que implementen las dependencias y entidades paraestatales de la administración pública estatal.
+IV. Ser Instancia de participación y consulta para la formulación, ejecución y evaluación de los planes, programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal, que tengan como objetivo los pueblos y comunidades indígenas que habitan en el Estado de Chihuahua.
 
-VI. Instrumentar y operar programas y acciones para el desarrollo social y humano de las comunidades indígenas cuando no correspondan a las atribuciones de otras dependencias y entidades paraestatales de la administración pública estatal.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-VII. Implementar un proceso de capacitación y profesionalización de traductores, así como de un cuadro de profesionistas indígenas que se adscriban a las dependencias gubernamentales que realizan proyectos y programas en las comunidades indígenas;
+V. Coordinar las políticas y acciones vinculadas con el desarrollo social y humano de los pueblos y comunidades indígenas que implementen las dependencias y entidades paraestatales de la administración pública estatal.
 
-VIII. Formular y establecer un mecanismo de consulta y consentimiento previo, libre e informado en los casos de medidas administrativas y legislativas que sean susceptibles de afectarlos directamente para aplicarse en todas las acciones institucionales públicas que afecten el territorio, la cultura, los derechos y el medio ambiente de las comunidades indígenas.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-IX. Proporcionar asesoría jurídica y legal, así como, representación legal en los conflictos que se susciten con las comunidades indígenas por la violación a sus derechos colectivos, así como, en materia fiscal y de auditorías cuando estén constituidas en Ejido o Comunidad Agraria.
+VI. Instrumentar y operar programas y acciones para el desarrollo social y humano de los pueblos y comunidades indígenas cuando no correspondan a las atribuciones de otras dependencias y entidades paraestatales de la administración pública estatal.
 
-X. Establecer un mecanismo de concurrencia y seguimiento para el correcto manejo de los fondos autorizados a los programas y proyectos institucionales que se aplican en las comunidades indígenas.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+VII. Implementar un proceso de capacitación y profesionalización de traductores, así como de un cuadro de profesionistas indígenas que se adscriban a las dependencias gubernamentales que realizan proyectos y programas en los pueblos y comunidades indígenas.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Formular y establecer un mecanismo de consulta y consentimiento previo, libre e informado en los casos de medidas administrativas y legislativas que sean susceptibles de afectarlos directamente para aplicarse en todas las acciones institucionales públicas que afecten el territorio, la cultura, los derechos y el medio ambiente de los pueblos y comunidades indígenas.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+IX. Proporcionar asesoría jurídica y legal, así como representación legal en los conflictos que se susciten con los pueblos y comunidades indígenas, por la violación a sus derechos colectivos, así como en materia fiscal y de auditorías cuando estén constituidas en Ejido o Comunidad Agraria.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+X. Establecer un mecanismo de concurrencia y seguimiento para el correcto manejo de los fondos autorizados a los programas y proyectos institucionales que se aplican en los pueblos y comunidades indígenas.
 
 (NOTA: EL 10 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS IV Y V, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 201/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0513/2019 I P.O., POR EL QUE SE REFORMA LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS EL 11 DE NOVIEMBRE DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1723,21 +1741,45 @@ X. Establecer un mecanismo de concurrencia y seguimiento para el correcto manejo
 
 XI. CELEBRAR CONVENIOS TANTO CON EL PODER JUDICIAL DEL ESTADO, COMO CON EL DE LA FEDERACIÓN Y SUS RESPECTIVOS CONSEJOS DE LA JUDICATURA, PARA COADYUVAR EN LOS PROCESOS DE CAPACITACIÓN EN MATERIA DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, A QUIENES FORMEN PARTE DE LA DEFENSORÍA PÚBLICA, ASÍ COMO A LAS PERSONAS TRADUCTORAS E INTÉRPRETES, SEGÚN CORRESPONDA, QUE INTEGREN LA INSTANCIA ESPECIALIZADA CORRESPONDIENTE.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 XII. Celebrar convenios de coordinación y colaboración con los ayuntamientos para la atención a los asentamientos urbanos de las familias indígenas migrantes.
 
-XIII. Celebrar convenios con el sector social y privado, que coadyuven en la realización de acciones para el bienestar de las comunidades indígenas.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-XIV. Implementar un programa de capacitación sobre las culturas indígenas de la entidad a todo el personal de las dependencias que desarrollen proyectos y acciones institucionales.
+XIII. Celebrar convenios, contratos, acuerdos y cualquier otro acto jurídico con las autoridades federales, estatales y municipales, así como con el sector social y privado, que coadyuven en la realización de acciones para el bienestar de los pueblos y comunidades indígenas.
 
-XV. Establecer un programa coordinado con otras instituciones de la Administración Pública y de la Iniciativa Privada, de apoyo emergente a las comunidades indígenas afectadas por eventos de desastres naturales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XIV. Implementar un programa de capacitación sobre las culturas indígenas en la entidad, a todo el personal de las dependencias que desarrollen proyectos y acciones institucionales.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XV. Establecer un programa coordinado con otras instituciones de la Administración Pública y de la Iniciativa Privada, de apoyo emergente para los pueblos y comunidades indígenas en el Estado, afectados por eventos de desastres naturales.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 XVI. Celebrar convenios para la atención de los jornaleros indígenas con el fin de garantizar el respeto a sus derechos y a su diferencia cultural.
 
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
+
 XVII. Apoyar los procesos de reconstitución del tejido social de los pueblos indígenas.
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2016)</small>
 
 XVIII. Publicar un informe anual sobre el desempeño de sus funciones, los avances e impacto de los programas y proyectos de las dependencias y entidades paraestatales de la administración pública estatal.
 
-XIX. Las demás que establezcan las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XIX. Coordinar programas de desarrollo por sí misma o en coordinación con otras dependencias, los cuales deberán incluir acciones de asistencia, ayudas alimenticias, campañas de salud y demás medidas tendentes a contrarrestar las condiciones sociales que padecen los pueblos y comunidades indígenas.
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XX. Atender las necesidades de cada una de las zonas, por sí o por conducto de la coordinación de consejos consultivos o sus departamentos, en el ejercicio de las atribuciones conferidas en este artículo, según las previsiones de los reglamentos y los acuerdos que dicte el Ejecutivo.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Las demás que le atribuyan expresamente las leyes, los reglamentos y otras disposiciones normativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2021)</small>
 
@@ -3592,3 +3634,23 @@ Los asuntos en litigio en materia de transporte que se encuentren en trámite an
 ###### ARTÍCULO NOVENO.
 
 Las concesiones otorgadas conforme a la ley anterior fenecerán al termino señalado en su otorgamiento, al concluir su vigencia, el titular podrá solicitar a la Secretaría General de Gobierno la revalidación de su permiso o concesión sin sujetarse al procedimiento de concurso señalado por esta Ley, siempre y cuando cumpla con los demás requisitos exigidos para su expedición y su solicitud sea presentada dentro de los sesenta días hábiles anteriores a su vencimiento. Si no hace uso de este derecho dentro del término concedido, la concesión será cancelada definitivamente.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0330/2022 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se autoriza a la Secretaría de Hacienda para llevar a cabo los ajustes programáticos presupuestarios que pudieran derivar del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, las menciones que se hagan a la Comisión Estatal para los Pueblos Indígenas en leyes, reglamentos y disposiciones de cualquier naturaleza, se entenderán referidas a la Secretaría de Pueblos y Comunidades Indígenas.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado emitirá el Reglamento Interior de la Secretaría de Pueblos y Comunidades Indígenas y hará las adecuaciones en los reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
