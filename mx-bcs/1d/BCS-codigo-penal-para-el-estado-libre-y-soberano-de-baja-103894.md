@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2022-09-20"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1323,9 +1323,11 @@ No se tendrá como emoción violenta aquella conducta desplegada por el activo q
 
 Riña. La riña es la contienda de obra y no sólo de palabra entre dos o más personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 144.
 
-Circunstancias calificativas. El homicidio y las lesiones son calificadas cuando se cometen con premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en estado de alteración voluntaria.
+Circunstancias calificativas. El homicidio y las lesiones son calificadas cuando se cometen con premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña o en estado de alteración voluntaria o cuando se cometan en contra de periodistas en los términos que se precisan en la fracción IX de este artículo.
 
 I. Existe premeditación: Cuando se ejecuta la conducta después de haber reflexionado sobre el delito que se va a cometer.
 
@@ -1350,6 +1352,10 @@ VI. Por los medios empleados: Se causen por inundación, incendio, minas, bombas
 VII. Existe saña: Cuando el sujeto activo actúa con crueldad o bien aumente deliberadamente el dolor o sufrimiento de la víctima; o
 
 VIII. Existe estado de alteración voluntaria: Cuando el sujeto activo comete el hecho colocándose deliberadamente en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+IX. Se cometan en agravio de periodistas, de su cónyuge, de sus hijos o de sus parientes en línea recta o colateral hasta el cuarto grado, si tuvieren como finalidad obstaculizar o impedir el ejercicio de la libertad de expresión del ofendido, o en razón del desempeño de su profesión.
 
 ###### Artículo 145.
 
@@ -1921,7 +1927,23 @@ II. Maltrato psicológico o emocional.- Todo acto u omisión, tales como prohibi
 
 III. Miembro de la familia.- Toda persona que se encuentra unida por una relación de matrimonio, concubinato o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente, sin limitación de grado, o parentesco colateral o afín hasta el cuarto grado, así como parentesco civil.
 
-Este delito se perseguirá por querella, salvo que la víctima sea una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 201 Bis.
+
+El delito a que se refiere el artículo anterior se perseguirá por querella, excepto cuando se cometa con la participación de dos o más personas, con el uso de armas de fuego o punzocortantes y se deje cicatriz permanente en alguna parte del cuerpo o se tengan documentados antecedentes o denuncias de violencia familiar cometidos por el mismo agresor contra la víctima, o cuando esta última:
+
+I. Sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho;
+
+II. Presente una discapacidad sensorial, física o mental, total o parcial, temporal o permanente;
+
+III. Sea mayor de sesenta años de edad;
+
+IV. Sea una mujer en estado de embarazo o durante los tres meses posteriores al parto;
+
+V. Exista imposibilidad de la víctima de denunciar:
 
 ###### Artículo 202.
 
@@ -4259,6 +4281,10 @@ En caso que no se acredite que existieron razones de género al privar de la vid
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE ENERO DE 2020)</small>
 
+### CAPÍTULO ÚNICO. DELITO CONTRA LA LIBRE MANIFESTACIÓN DE LAS IDEAS
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 391.
 
 Espionaje contra las Instituciones Policiales, de Seguridad Pública y Procuración de Justicia. Se le impondrán de siete a quince años de prisión y de cuatrocientos a ochocientos días multa, a quien incurra en cualquiera de las conductas siguientes:
@@ -4358,6 +4384,18 @@ Uso indebido de sistemas de videovigilancia. Al que ubique, instale, utilice y o
 ###### Artículo 399.
 
 Daño físico a los sistemas de videovigilancia y comunicaciones. Al que ataque, destruya, robe o sabotee físicamente y de manera intencional cualquier equipo de videovigilancia y su estructura como poste, cámara, enlace, gabinete o cableado que pertenezca a instituciones policiales, de seguridad pública y procuración de justicia, se le impondrá prisión de dos a seis años y multa de hasta cien días. Además de condenarse a la reparación de los daños ocasionados.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+TÍTULO TRIGÉSIMO (SIC)
+
+DELITOS CONTRA LA LIBRE MANIFESTACIÓN DE LAS IDEAS
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+###### Artículo 400.
+
+A quien por sí o por interpósita persona a través de correo electrónico o de redes sociales o dispositivos móviles o fijos envíe mensajes de texto o llamadas telefónicas, de manera personal y directa, o bien atente contra los bienes, la familia o las derivadas por relaciones afectivas o de negocios, con la intensión de inhibir o censurar la libre manifestación de las ideas, se le impondrá una pena de dos a cuatro años de prisión y multa de quinientos a mil días.
 
 T R A N S I T O R I O S:
 
@@ -4684,3 +4722,13 @@ B.O. 20 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2849 SE ADICIONAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2877 SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 201 Y SE ADICIONA UN ARTÍCULO 201 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. EL DECRETO 2878, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE BAJA CALIFORNIA SUR.]</small>
