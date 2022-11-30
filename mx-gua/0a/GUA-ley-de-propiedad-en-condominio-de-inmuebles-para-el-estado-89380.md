@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8938
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-11"
-last_updated: "2021-11-23"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89380&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre del 2012.
 
@@ -925,7 +925,11 @@ XIX. Las bases para la elaboración del programa interno de protección civil, a
 
 XX. La obligación de condóminos, poseedores, administradores o miembros del Comité de Vigilancia, de acudir al Centro Estatal de Justicia Alternativa para resolver sus conflictos, antes de promoverlos en los tribunales. En caso de que se acuda a los tribunales, sin respetar este compromiso, procederá la excepción procesal de compromiso de mediación y conciliación, salvo lo establecido por el último párrafo del artículo 19 de esta Ley; y
 
-XXI. Las materias que le reservan esta Ley y la escritura constitutiva del régimen.
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+XXI. Los criterios de ajuste de los montos de las cuotas, en su caso, por la realización de actividades personales, comerciales, de las referidas en la Ley de Hospedaje a través de Plataformas Digitales del Estado de Guanajuato, o de cualquier otra índole, que signifiquen un mayor uso o aprovechamiento de áreas y bienes de uso común por condóminos o poseedores;
+
+XXII. Las materias que le reservan esta Ley y la escritura constitutiva del régimen.
 
 Integración al apéndice del protocolo notarial
 
@@ -1296,3 +1300,9 @@ P.O. 23 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 3 QUE EMITE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 110, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XXI, RECORRIENDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXI PARA PASAR COMO FRACCIÓN XXII DEL ARTÍCULO 51 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
