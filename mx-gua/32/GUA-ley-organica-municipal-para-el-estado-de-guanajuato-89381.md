@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2021-12-22"
+last_updated: "2022-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -131,13 +131,23 @@ Gobierno Abierto
 
 Los Ayuntamientos impulsarán, mediante la expedición de los reglamentos respectivos, la implementación de mejores prácticas de transparencia para alcanzar los principios contemplados en el presente artículo.
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-Fomento a la innovación tecnológica
+Gobierno Digital
 
 ###### Artículo 9
 
-2. Los ayuntamientos establecerán políticas públicas que tengan por objeto implementar el fortalecimiento, desarrollo y fomento de la ciencia y la innovación tecnológica en el ámbito municipal.
+2. Para lo planeación, ejecución y evaluación de la administración pública municipal y del gobierno de los Ayuntamientos incorporarán el principio de Gobierno Digital.
+
+A través de este principio, se debe implementar el fortalecimiento, desarrollo y fomento de la ciencia y la innovación tecnológica en las políticas públicas, tramites gubernamentales y servicios, facilitando el acceso de estos a la población.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Fortalecimiento y promoción de los derechos de las mujeres y niñas
+
+###### Artículo 9
+
+3. Los Ayuntamientos establecerán acciones, políticas y programas para el fortalecimiento y promoción de los derechos de las mujeres y niñas y la erradicación de cualquier tipo de violencia o discriminación contra las mujeres.
 
 ## Título Segundo
 
@@ -298,6 +308,36 @@ II. Proponer medidas para la preservación del medio ambiente;
 III. Proponer medidas para mejorar la prestación de los servicios públicos y la realización de obra pública; y
 
 IV. Proponer que determinada necesidad colectiva, se declare servicio público, a efecto de que los ayuntamientos presenten las iniciativas conducentes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Comité Municipal Ciudadano
+
+###### Artículo 18
+
+1. Para la designación de Contralor Municipal y Juez Administrativo Municipal el Ayuntamiento constituirá un Comité Municipal Ciudadano integrado por cinco ciudadanos, su cargo será honorífico y durará cuatro años, no tendrán interés alguno con el Ayuntamiento y no podrán ser propuestos como candidatos al cargo de Contralor Municipal o Juez Administrativo Municipal por un periodo de un año contados (sic) a partir de la disolución del Comité Municipal Ciudadano.
+
+En la conformación del Comité Municipal Ciudadano prevalecerá la paridad, de manera que en ningún caso podrá ser más de tres ciudadanos de un mismo género.
+
+El Ayuntamiento convocará, preferentemente, a las instituciones de educación media superior y superior, así como a organizaciones de la sociedad civil del municipio y a la ciudadanía en general para proponer candidatos a fin de integrar el Comité Municipal Ciudadano.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Requisitos de la convocatoria
+
+###### Artículo 18
+
+2. La convocatoria para integrar el Comité Municipal Ciudadano se realizará cumpliendo al menos con las siguientes bases:
+
+I. Los aspirantes deberán ser ciudadanos mexicanos;
+
+II. Los interesados deberán entregar en un solo acto los siguientes documentos: copia de acta de nacimiento, copia de identificación oficial vigente, carta de residencia en el municipio y curriculum vitae, y
+
+III. El Ayuntamiento revisará que se cumpla con los requisitos y evaluará que las personas propuestas cuenten con experiencia o hayan contribuido en las materias de justicia administrativa, participación ciudadana, rendición de cuentas, combate a la corrupción, fiscalización.
+
+Lo no previsto en estas bases mínimas, será resuelto por el Ayuntamiento en los términos que señale el reglamento municipal.
+
+La convocatoria se emitirá al menos con cuarenta y cinco días de anticipación a la fecha de conclusión del periodo del Comité Municipal Ciudadano.
 
 ## Título Tercero
 
@@ -1123,13 +1163,13 @@ n) Otorgar licencias, permisos y autorizaciones; pudiendo delegar esta atribuci�
 
 o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-p) Realizar las acciones para impulsar e implementar la innovación tecnológica a efecto de mejorar el desempeño de las funciones de los servidores públicos municipales y la eficacia en la prestación de los servicios públicos;
+p) Realizar las acciones para impulsar e implementar la innovación tecnológica y el Gobierno Digital a efecto de mejorar el desempeño de las funciones de los servidores públicos municipales y la eficacia en la prestación de los servicios públicos;
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-q) Realizar las actividades que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con la implementación, el fortalecimiento y la promoción de la innovación tecnológica;
+q) Realizar las actividades que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con la implementación, el fortalecimiento y la promoción de la innovación tecnológica y el Gobierno Digital;
 
 r) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la ley reglamentaria relativa;
 
@@ -1157,6 +1197,10 @@ w) Garantizar mediante disposiciones reglamentarias o administrativas el uso, en
 
 3. Infraestructura pública y equipamiento urbano municipal.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+x) Establecer la transversalidad de género en el desarrollo e implementación de los procesos de planeación, programación, presupuestación, diseño de políticas públicas y evaluación dentro de la administración pública municipal.
+
 II. En materia de obra pública y desarrollo urbano:
 
 a) Aprobar y administrar la zonificación y el Programa Municipal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial, así como planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los ayuntamientos respectivos el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a las leyes de la materia;
@@ -1179,9 +1223,9 @@ III. En materia de servicios públicos:
 
 a) Prestar servicios públicos a los habitantes del Municipio;
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-b) Instrumentar los mecanismos para ampliar la cobertura y mejorar la prestación de los servicios públicos, y en su caso, implementar la innovación tecnológica que permita una mayor eficacia en la cobertura y prestación de dichos servicios;
+b) Instrumentar los mecanismos para ampliar la cobertura y mejorar la prestación de los servicios públicos, y en su caso, implementar la innovación tecnológica y el Gobierno Digital que permita una mayor eficacia en la cobertura y prestación de dichos servicios;
 
 c) Procurar la seguridad pública en el territorio municipal; y
 
@@ -1675,9 +1719,13 @@ V. Solicitar y obtener de los demás titulares de las dependencias y entidades d
 
 VI. Proponer al Ayuntamiento políticas públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+VII. Promover la integración de la perspectiva de género en los procesos de planeación, programación, presupuestación, diseño de políticas públicas y evaluación de la administración pública municipal; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
-VII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -2177,6 +2225,10 @@ Ejercicio de funciones
 
 Las dependencias y entidades de la administración pública municipal, ejercerán las funciones que les asigne esta Ley y el reglamento respectivo, o en su caso, el acuerdo de Ayuntamiento que para el efecto se expida, en el que se regule la creación, estructura y funcionamiento de éstos.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+Para el ejercicio de sus funciones las dependencias y entidades de la administración pública municipal se conducirán bajo el principio de gobierno digital.
+
 Requisitos para ser titular de las dependencias y entidades
 
 ###### Artículo 123.
@@ -2397,37 +2449,13 @@ La consulta para la designación de Contralor Municipal estará a cargo del Comi
 
 La violación al procedimiento de designación de Contralor Municipal estará afectada de nulidad.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
+###### Artículo 131
 
-Del Comité Municipal Ciudadano
+1. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2022)
 
 ###### Artículo 131
 
-1. El Ayuntamiento constituirá un Comité Municipal Ciudadano integrado por cinco ciudadanos, su cargo será honorífico y durará cuatro años, no tendrán interés alguno con el Ayuntamiento y no podrán ser propuestos como candidatos al cargo de Contralor Municipal por un periodo de seis años contados a partir de la disolución del Comité Municipal Ciudadano.
-
-En la conformación del Comité prevalecerá la paridad.
-
-El Ayuntamiento convocará, preferentemente, a las instituciones de educación media superior y superior, así como a organizaciones de la sociedad civil del municipio, para proponer candidatos a fin de integrar el Comité Municipal Ciudadano.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2019)</small>
-
-Requisitos de la convocatoria
-
-###### Artículo 131
-
-2. La convocatoria para integrar el Comité Municipal Ciudadano se realizará cumpliendo al menos con las siguientes bases:
-
-I. Los aspirantes deberán ser ciudadanos guanajuatenses y no haber sufrido condena por delito grave señalado por el Código Penal del Estado de Guanajuato, ni por delito que amerite pena corporal de más de un año de prisión;
-
-II. Los interesados deberán entregar en un solo acto los siguientes documentos: copia de acta de nacimiento, copia de identificación oficial vigente, carta de residencia en el municipio y curriculum vitae, y
-
-III. El Ayuntamiento revisará que se cumpla con los requisitos, evaluará las propuestas recibidas considerando el perfil, tomando en cuenta que se hayan destacado por su contribución en materia de fiscalización, rendición de cuentas así como combate a la corrupción y propondrán el listado que estimen más apropiado.
-
-Lo no previsto en estas bases mínimas, será resuelto por el Ayuntamiento en los términos que señale el reglamento municipal.
-
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2021)</small>
-
-La convocatoria se emitirá al menos con cincuenta días de anticipación a la fecha de conclusión del período del Comité Municipal Ciudadano.
+2. (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2022)
 
 > <small>(REFORMADO [N. DE E. SU EPÍGRAFE], P.O. 9 DE ENERO DE 2018)</small>
 
@@ -3095,9 +3123,11 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, a lo di
 
 Principios en la prestación de servicios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 165.
 
-Los ayuntamientos prestarán los servicios públicos, en igualdad de condiciones a todos los habitantes del municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Programa de Gobierno Municipal.
+Los ayuntamientos prestarán los servicios públicos, en igualdad de condiciones a todos los habitantes del municipio, en forma permanente, general, uniforme, continua, de acuerdo al Programa de Gobierno Municipal, y observando el principio de Gobierno Digital.
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2021)</small>
 
@@ -4283,25 +4313,29 @@ En el presupuesto de egresos deberán preverse los recursos materiales y humanos
 
 Nombramiento y destitución de jueces
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 252.
 
-Los jueces administrativos municipales serán nombrados por el Ayuntamiento, por mayoría calificada, de entre la terna que presente el presidente municipal, previa convocatoria pública y únicamente podrán ser removidos en los términos del artículo 126 de esta Ley.
+Los jueces administrativos municipales durarán en su cargo cinco años, sin posibilidad de designación en el periodo inmediato, y serán nombrados por el Ayuntamiento, a partir de una terna formulada por un Comité Municipal Ciudadano previsto en el artículo 18-1 de la presente ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+En el caso de ausencia definitiva del titular del Juzgado Administrativo Municipal, por causas diversas a la conclusión de su periodo, el Ayuntamiento designará al nuevo titular a más tardar cuarenta y cinco días posteriores a la fecha en (sic) se determine la vacante, en los términos del proceso de nombramiento previsto en el presente artículo.
 
-Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado como juez administrativo municipal el que obtenga la mayoría.
+Los Jueces Administrativos Municipales sólo podrán ser destituidos en los términos del artículo 126 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+Para formular su propuesta, el Comité Municipal Ciudadano deberá realizar convocatoria pública.
 
-El mecanismo de convocatoria pública se establecerá en el reglamento del Ayuntamiento y deberá garantizar la participación de los ciudadanos en particular y de la sociedad civil organizada.
+La convocatoria deberá ser publicada en la Gaceta Municipal, en las redes sociales, en la página oficial de internet del Ayuntamiento, en el Periódico Oficial del Gobierno del Estado de Guanajuato, y al menos, en uno de los medios de comunicación impresos en el Municipio, a efecto de que las propuestas que formulen los ciudadanos se integren en una terna que se presentará al Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+Las bases y procedimientos de la convocatoria se establecerán en el reglamento respectivo, apegándose a los principios de gobierno abierto, equidad, oportunidad, transparencia, imparcialidad y honradez; garantizándose la participación de los ciudadanos, en particular y de la sociedad civil organizada.
 
-La información que se genere con motivo de la integración de la terna, es información pública.
+De la propuesta en terna de aspirantes al cargo, el Ayuntamiento nombrará a quien obtenga mayoría calificada.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+Si ninguno de los integrantes obtiene la mayoría calificada, se repetirá la votación entre los dos integrantes de la terna que hayan obtenido el mayor número de votos y de entre ellos, será nombrado Juez Administrativo Municipal el que obtenga la mayoría. La información que se genere con motivo de la integración de la terna es información pública.
 
-La violación al procedimiento de designación de los Jueces Administrativos Municipales estará afectada de nulidad.
+El ayuntamiento deberá iniciar el proceso de nombramiento del Juez Administrativo Municipal, a más tardar cuarenta y cinco días previos a la conclusión del periodo por el que haya sido designado.
+
+La violación al proceso de designación estará afectada de nulidad.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
 
@@ -4862,3 +4896,35 @@ P.O. 22 DE DICIEMBRE DE 2021.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 97 MEDIANTE EL CUAL SE ADICIONAN, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES NORMATIVAS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Las disposiciones reglamentarias deberán ajustarse al presente decreto dentro de los noventa días siguientes a su publicación.
+
+Artículo Tercero. Las personas que hayan sido designadas como Juez Administrativo Municipal con anterioridad a la entrada en vigor del presente decreto, permanecerán hasta que cumplan un periodo de cinco años, salvo que incurran en alguna de las causales de destitución.
+
+Artículo Cuarto. En la integración de la terna para elegir al Juez Administrativo Municipal, el Comité Municipal Ciudadano podrá considerar a quienes hayan ocupado la titularidad del Juzgado Administrativo Municipal, siempre que no hayan sido nombrados por el período de cinco años conforme al artículo 252 de esta Ley, y cumplan con los requisitos previstos en la convocatoria respectiva.
+
+Artículo Quinto. En los Ayuntamientos en los que se encuentre vacante la titularidad del juzgado administrativo municipal contarán con término de cuarenta y cinco días para nombrar al Juez Administrativo Municipal.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 105 MEDIANTE EL CUAL SE ADICIONAN UN ARTÍCULO 9-3, UN INCISO X) A LA FRACCIÓN I DEL ARTÍCULO 76 Y UNA FRACCIÓN VII AL ARTÍCULO 83-10, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 112, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 9-2, 76 FRACCIÓN I INCISOS P Y Q, ASÍ COMO LA FRACCIÓN III INCISO B, Y EL PRIMER PÁRRAFO DEL 165; Y, SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 122 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los Ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos y expedir, dentro de los 180 días siguientes a la publicación del presente decreto, los correspondientes reglamentos en la materia.
+
+Artículo Tercero. Los Ayuntamientos deberán destinar de manera progresiva los recursos que permitan cumplir con las disposiciones del presente decreto.
