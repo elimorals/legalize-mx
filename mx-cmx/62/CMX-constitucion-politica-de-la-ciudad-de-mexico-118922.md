@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2022-11-28"
+last_updated: "2022-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1830,7 +1830,9 @@ A. Integración
 
 1. El Poder Legislativo se deposita en el Congreso de la Ciudad de México.
 
-2. El Congreso de la Ciudad de México se integrará por 66 diputaciones, 33 electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y 33 según el principio de representación proporcional. Las diputaciones serán electas en su totalidad cada tres años, mediante el voto universal, libre y secreto. Por cada persona propietaria se elegirá una suplente del mismo género.
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+2. El Congreso de la Ciudad de México se integrará por 66 diputaciones, 33 electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, una diputación electa por el principio de mayoría relativa mediante el voto de las ciudadanas y ciudadanos originarios de la Ciudad de México residentes en el extranjero; y 32 diputadas y diputados electos según el principio de representación proporcional. Las diputaciones serán electas en su totalidad cada tres años, mediante el voto universal, libre y secreto. Por cada persona propietaria se elegirá una suplente del mismo género.
 
 3. En la integración del Congreso de la Ciudad de México, la ley electoral determinará los mecanismos para cumplir con el principio de paridad de género.
 
@@ -1868,7 +1870,9 @@ a) Tener la ciudadanía mexicana en el ejercicio de sus derechos;
 
 b) Tener dieciocho años cumplidos el día de la elección;
 
-c) Ser originario o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad;
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+c) Ser originario o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección, salvo en el caso de candidaturas de las personas originarias de la Ciudad de México residentes en el extranjero. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad;
 
 d) No estar en servicio activo en el Ejército Federal ni tener mando en la policía de la Ciudad de México, cuando menos antes del inicio del proceso electoral local correspondiente;
 
@@ -4359,3 +4363,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Gobierno de la Ciudad deberá realizar las acciones pertinentes para el cumplimiento al presente Decreto.
 
 CUARTO. El monto de los recursos asignados en el Presupuesto de Egresos de la Ciudad del ejercicio fiscal que corresponda, para los derechos constitucionales Bienestar para niñas y niños y La escuela es nuestra, no podrán ser disminuidos, en términos reales, respecto de lo que se haya asignado en el ejercicio fiscal inmediato anterior.
+
+G.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 29, EN SUS APARTADOS A, NUMERAL 2 Y C, INCISO B) DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 11; EL PRIMER Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 17; EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 76 Y SE ADICIONA UN I. BIS AL ARTÍCULO 17; Y UN PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 20 DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
