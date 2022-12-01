@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-consejo-de-honor-y-justicia-del-sistema-118398"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-25"
-last_updated: "2017-01-25"
+last_updated: "2022-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118398&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-01-23"
 ---
 # REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DEL SISTEMA PENITENCIARIO DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL REGLAMENTO DE LOS ÓRGANOS COLEGIADOS DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL CONSEJO DE HONOR Y JUSTICIA DEL SISTEMA PENITENCIARIO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Reglamento publicado en el número 251 de la Gaceta Oficial de la Ciudad de México, el miércoles 25 de enero de 2017.
 
@@ -567,3 +569,27 @@ Séptimo.- Una vez que la Subsecretaría de Sistema Penitenciario de la Ciudad d
 Octavo.- Quedan derogadas todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
 
 Dado en la residencia oficial del Jefe de Gobierno de la Ciudad de México, a los veintitrés días del mes de enero de dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LOS ÓRGANOS COLEGIADOS DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Los Órganos Colegiados de Honor y Justicia, deberán quedar instalados conforme a su nueva integración, a más tardar en 60 días hábiles posteriores a la entrada en vigor del presente Reglamento.
+
+CUARTO. En un periodo máximo de 45 días hábiles posteriores a la entrada en vigor del presente Reglamento, el pleno de cada Órgano Colegiado deberá aprobar la convocatoria para invitar a las organizaciones de la sociedad civil interesadas en participar en los Órganos Colegiados, cuya difusión estará a cargo de la Dirección General.
+
+En tanto no se ocupen los cargos de las personas que representan a las organizaciones civiles, los Órganos Colegiados sesionarán con los demás miembros, ajustando los porcentajes de instalación de sesión y de votaciones respectivos. Lo cual no podrá exceder de la primera sesión ordinaria.
+
+QUINTO. Los procedimientos administrativos disciplinarios que se hayan iniciado con anterioridad a la entrada en vigor del presente Reglamento se seguirán sustanciando hasta su conclusión de conformidad a la legislación aplicable en la fecha en que se dictó el acuerdo de inicio, sin embargo, las resoluciones serán emitidas por el Órgano Colegiado competente previsto en el presente Reglamento, para conocer el caso.
+
+Los recursos de revisión y de rectificación interpuestos antes de la entrada en vigor del presente Reglamento, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+SEXTO. La Secretaría deberá actualizar sus Manuales en los plazos y condiciones que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+SÉPTIMO. Se abroga el Reglamento del Consejo de Honor y Justicia del Sistema Penitenciario de la Ciudad de México, publicado el 25 de enero de 2017 en la Gaceta Oficial del Distrito Federal no. 251, así como sus reformas posteriores y toda disposición normativa que contravenga el presente Reglamento.
