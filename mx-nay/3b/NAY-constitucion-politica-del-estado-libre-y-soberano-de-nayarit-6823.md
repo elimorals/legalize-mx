@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2022-11-17"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -79,9 +79,9 @@ La ley establecerá los límites, extensiones territoriales y colindancias entre
 
 Los municipios podrán convenir entre sí y en cualquier momento sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-A falta de acuerdo, cualquier municipio podrá acudir ante la Sala Constitucional del Tribunal Superior de Justicia del Estado, la que conocerá de los conflictos por límites territoriales en la vía contenciosa, en términos de lo dispuesto por el artículo 91 de esta Constitución. Sus resoluciones serán inatacables.
+A falta de acuerdo, cualquier municipio podrá acudir ante el Tribunal Superior de Justicia del Estado, quien conocerá de los conflictos por límites territoriales en la vía contenciosa en términos del artículo 91 de esta Constitución. Sus resoluciones serán inatacables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JUNIO DE 2012)</small>
 
@@ -1115,9 +1115,7 @@ Es materia de Decreto toda resolución que otorgue derechos y obligaciones a det
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
-
-Previo a la discusión y aprobación en el Congreso, la comisión legislativa encargada de la dictaminación, podrá consultar a la Sala Constitucional del Tribunal Superior de Justicia respecto de la constitucionalidad de una iniciativa de ley o decreto presentada, opinión que deberá ser emitida en un término de diez días.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1557,9 +1555,9 @@ Es facultad del Pleno del Tribunal Superior de Justicia, emitir los acuerdos gen
 
 La remuneración que perciban por sus servicios los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y Jueces no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia durarán en su encargo diez años, podrán ser ratificados por una sola vez y por el mismo período, salvo que por edad aplique la causa de retiro forzoso. Durante el desempeño de sus funciones sólo podrán ser removidos del cargo en los términos del Título Octavo de esta Constitución y las leyes aplicables.
+Los Magistrados Numerarios del Tribunal Superior de Justicia durarán en su encargo diez años, podrán ser ratificados por una sola vez y por el mismo período, salvo que por edad aplique la causa de retiro forzoso. Durante el desempeño de sus funciones sólo podrán ser removidos del cargo en los términos del Título Octavo de esta Constitución y las leyes aplicables. La Ley Orgánica del Poder Judicial establecerá las competencias del Tribunal Superior de Justicia para la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa de las Magistradas y Magistrados.
 
 Tres meses antes de que concluya el periodo para el que fue nombrado un Magistrado, en los términos que disponga la ley, el Congreso del Estado, previa opinión del Gobernador y del Consejo de la Judicatura, deberá iniciar un procedimiento de evaluación. Al efecto resolverá en definitiva, oyendo al magistrado, fundando y motivando su resolución, la que se dictará a más tardar treinta días antes de que concluya el periodo respectivo.
 
@@ -1605,6 +1603,18 @@ IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
 V.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La ley regulará la forma en que los jueces de primera instancia se asociarán para la unificación de sus criterios considerando la competencia de los mismos, de ser el caso, el juzgador que disienta del criterio adoptado podrá solicitar al Tribunal Superior de Justicia para que, funcionando en Pleno o a través de alguna de sus salas, según disponga su Ley Orgánica, fije el criterio que deberá regir.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La unificación de criterios en términos del párrafo anterior no modificará los asuntos que dieron origen a su discrepancia.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La ley establecerá los términos de creación e interrupción de la jurisprudencia que determinen tanto el Pleno del Tribunal Superior de Justicia como sus salas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2022)</small>
 
 ###### Art. 83.
@@ -1631,9 +1641,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-VI.- No haber sido Secretario del Despacho del Poder Ejecutivo, Fiscal General o Diputado local, durante el año previo al día de la designación.
+VI.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General o Secretario de alguna dependencia del Poder Ejecutivo, durante el año previo al día de la designación.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1649,49 +1659,55 @@ Si la Legislatura rechaza la totalidad de la terna propuesta, el Gobernador some
 
 Los Magistrados del Tribunal Superior de Justicia son inviolables por las opiniones que emitan en el desempeño de sus cargos, y jamás podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley; durarán en su encargo seis años, a cuyo vencimiento podrán ser ratificados, previa evaluación, en los términos que fije la ley, y si lo fueren, sólo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la ley.
+Los titulares de los Juzgados deberán satisfacer los requisitos que exija la ley; durarán en su encargo seis años, a cuyo vencimiento podrán ser ratificados, previa evaluación, en los términos que fije la ley, y si lo fueren, sólo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la ley. La designación de jueces será mediante concursos de oposición y se deberá garantizar que una de cada tres vacantes se concurse de manera pública.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 El nombramiento, adscripción y readscripción de jueces se hará atendiendo a los principios de especialización, idoneidad, experiencia, honorabilidad, equidad de género y no discriminación; con base a méritos y criterios objetivos y mediante los requisitos y procedimientos que para efecto establezca la Ley Orgánica del Poder Judicial para el Estado de Nayarit. Las decisiones del Consejo de la Judicatura dictadas con relación al nombramiento, suspensión temporal impuesta como sanción, destitución e inhabilitación de jueces, podrán ser impugnadas ante el Pleno del Tribunal, el cual resolverá de manera definitiva e inatacable sin que proceda juicio o recurso alguno en contra de las mismas.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 85.
 
-La planeación del desarrollo institucional, evaluación, administración, vigilancia, disciplina y carrera judicial, del Poder Judicial, estará a cargo del Consejo de la Judicatura en los términos que señale la ley, conforme a las siguientes bases:
+En el Poder Judicial, la planeación del desarrollo institucional, evaluación, administración y carrera judicial estará a cargo del Consejo de la Judicatura, Órgano que además tendrá atribuciones de vigilancia y disciplina en los términos que señale la ley. Su integración y funcionamiento se sujetará a lo siguiente:
 
 > <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2020)</small>
 
 1.- Establecerá las bases para el desarrollo de la carrera judicial a través de la fijación del catálogo de puestos, los procedimientos para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización; la cual se regirá por los principios de excelencia, objetividad, imparcialidad, rectitud, probidad, profesionalismo, independencia y paridad de género.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 2.- Determinará el número, división, especialización por materia y competencia territorial de los Juzgados que la ley establezca.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
 3.- Resolverá de manera definitiva e inatacable los conflictos entre el Poder Judicial y sus servidores, en los términos que disponga la ley.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 4.- Podrá expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO [N. DE DE. ESTE PÁRRAFO], P.O. 19 DE MAYO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante procedimiento de insaculación y en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal. En el caso del consejero nombrado por el Congreso del Estado, se designará a un suplente al momento de la elección del consejero propietario. En la integración del Consejo se observará el principio de paridad de género.
+5.- El Consejo de la Judicatura se integrará por cinco miembros, de los cuales, uno será el Presidente del Tribunal Superior de Justicia quien a su vez lo será del Consejo; un Magistrado electo por el Pleno del Tribunal Superior de Justicia, quien durará en su encargo dos años con posibilidad de relección hasta en una ocasión; un Juez de Primera Instancia electo por el Consejo de la Judicatura por un periodo de cuatro años, mediante elección por mayoría en sesión pública, de entre quienes se registren en la convocatoria; un Consejero nombrado por el Congreso del Estado a propuesta de la Comisión de Gobierno, mediante el voto de las dos terceras partes de los diputados presentes en la sesión; y un Consejero designado por el titular del Poder Ejecutivo Estatal. En el caso de los consejeros nombrados por el titular del Poder Ejecutivo Estatal y por el Congreso del Estado, se designará al respectivo suplente al momento de la elección del consejero propietario. En la integración del Consejo se observará el principio de paridad de género, para tal efecto, el Pleno del Tribunal al designar al Magistrado o Magistrada Consejera, el Ejecutivo Estatal y el Congreso del Estado deberán considerar la integración del Consejo al momento en que deban realizar su respectiva designación.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-El procedimiento para la designación de los Consejeros mediante insaculación deberá atender en todo momento los principios de transparencia y máxima publicidad.
+El procedimiento para la designación del Juez Consejero mediante elección por mayoría deberá atender en todo momento los principios de transparencia y máxima publicidad.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordinación de los órganos internos. Será nombrado por el propio Consejo para un periodo de cinco años, de entre el personal de carrera judicial, quien tendrá voz, pero no voto y percibirá una remuneración adecuada al ejercicio del cargo.
+Asimismo, contará con un Secretario Ejecutivo que será la instancia de coordinación de los órganos internos del Consejo. Será nombrado por el propio Consejo considerando el personal de carrera judicial, tendrá derecho de voz, pero no de voto y percibirá una remuneración adecuada al ejercicio del cargo.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
 Los Consejeros nombrados por los Poderes Legislativo y Ejecutivo, deberán reunir los mismos requisitos que para ser Magistrado, durarán en el cargo el tiempo que se encuentre en funciones la Legislatura o el Poder Ejecutivo que los designó y hasta que la siguiente legislatura o Poder Ejecutivo designen a sus respectivos consejeros. Percibirán una remuneración igual a la de un Juez.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-A excepción de los Magistrados, el resto de Consejeros no podrán ser reelectos.
+A excepción del Magistrado Consejero, el resto de los integrantes del Consejo no podrán ser reelectos.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1705,19 +1721,31 @@ Las decisiones del Consejo se tomarán por mayoría de votos o unanimidad, en ca
 
 Toda obstrucción para el adecuado ejercicio del cargo de los Consejeros, será materia de responsabilidad en términos de ley.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+El Juez Consejero rendirá un informe anual dirigido a los titulares de los juzgados de primera instancia sobre las actividades realizadas en su representación.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+El juez consejero será la instancia de comunicación formal entre los juzgadores y el Consejo de la Judicatura en los términos que disponga la ley.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 6.- En el ejercicio de las facultades a que se refiere el presente artículo, el Consejo de la Judicatura funcionará en Pleno o en Comisiones.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 El Pleno resolverá sobre la designación, adscripción, ratificación y remoción del personal jurisdiccional, así como de los demás asuntos que la Ley determine.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+
 7.- El Consejo Consultivo se integrará por cinco consejeros abogados de reconocido prestigio en el Estado, con carácter honorario, designados por el Tribunal Superior de Justicia y funcionará según lo disponga la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 86.
 
-El Tribunal Superior de justicia cada tres años designará a uno de sus miembros como Presidente, sin posibilidad de ser reelecto. En ningún caso la temporalidad al frente de la Presidencia podrá exceder el periodo para el que fue designado como Magistrado.
+El Tribunal Superior de Justicia, el último día hábil del mes de septiembre de cada tres años designará a uno de sus miembros como Presidente, sin posibilidad de ser reelecto. En ningún caso la temporalidad al frente de la Presidencia podrá exceder el periodo para el que fue designado como Magistrado.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1747,7 +1775,9 @@ El Secretario General de Acuerdos, los Jueces y demás servidores que señale la
 
 Los Magistrados Numerarios del Tribunal Superior de Justicia, serán suplidos en sus faltas temporales por los Supernumerarios, en la forma y término que la Ley determine.
 
-Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que determine el Pleno del Consejo de la Judicatura, en atención al orden de prelación previsto en el decreto de su designación, situación que se hará del conocimiento del Gobernador y del Congreso o Diputación Permanente para proceder a la designación de un Magistrado Numerario por un nuevo periodo, de conformidad a lo previsto por el artículo 83 de esta Constitución, sin exceder del término de sesenta días entre la ausencia y la designación.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+Si la falta fuere definitiva, entrará provisionalmente en funciones el Magistrado Supernumerario que determine el Pleno del Tribunal Superior de Justicia, en atención al orden de prelación previsto en el decreto de su designación, situación que se hará del conocimiento del titular del Poder Ejecutivo y del Congreso o Diputación Permanente para proceder a la designación de un Magistrado Numerario por un nuevo periodo, de conformidad a lo previsto por el artículo 83 de esta Constitución, sin exceder del término de sesenta días entre la ausencia y la designación.
 
 La terna que someta el Gobernador para la designación del Magistrado Numerario, podrá incluir a personas que en ese momento tengan el carácter de Magistrados Supernumerarios.
 
@@ -1769,13 +1799,15 @@ Las competencias, modo de suplir las faltas y obligaciones de los Magistrados, J
 
 Los nombramientos de los Magistrados y Jueces del Poder Judicial del Estado, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, de acuerdo al procedimiento establecido por esta Constitución y en la Ley Orgánica respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 90.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo en instituciones científicas, docentes, literarias o de beneficencia.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, Consejeros de la Judicatura en ejercicio, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, del Estado, Municipios o de particulares, salvo los cargos no remunerados en instituciones científicas, docentes, literarias o de beneficencia.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La infracción a lo previsto en el párrafo anterior será sancionado (sic) con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que esta Constitución y las leyes prevean.
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1783,19 +1815,15 @@ Los Magistrados del Tribunal Superior de Justicia, los Jueces y Secretarios, en 
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 91.
 
-En el Tribunal Superior de Justicia habrá una Sala Constitucional que se integrará por cinco Magistrados y funcionará en los términos que disponga la ley.
+El Poder Judicial, a través del Pleno del Tribunal Superior de Justicia, será competente para conocer de los siguientes medios de control constitucional, en los términos que disponga la ley:
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-El Presidente del Tribunal Superior de Justicia será a su vez el Presidente de la Sala Constitucional.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016)</small>
-
-La Sala Constitucional, conocerá en los términos que señale la ley reglamentaria de los asuntos siguientes:
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1821,9 +1849,9 @@ Lo anterior, siempre que tales controversias no sean competencia de la Suprema C
 
 Las controversias tendrán por objeto resolver si la disposición general, el acto o actos impugnados son conformes o contrarios a esta Constitución, y declarar su validez o invalidez.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Siempre que las controversias versen sobre disposiciones generales y la resolución de la Sala Constitucional las declare invalidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos cuatro votos.
+Siempre que las controversias versen sobre disposiciones generales y la resolución del Pleno del Tribunal Superior de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos ocho votos.
 
 En los demás casos la resolución tendrá efectos únicamente respecto de las partes en la controversia.
 
@@ -1843,9 +1871,9 @@ c).- Cuando menos una tercera parte de los integrantes de algún Ayuntamiento, e
 
 d).- La Comisión Estatal de Defensa de los Derechos Humanos, en contra de normas generales que vulneren los derechos fundamentales previstos en esta Constitución.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por cuatro votos de los integrantes de la Sala Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por ocho votos de los integrantes del Pleno del Tribunal Superior de Justicia, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
 
@@ -1853,27 +1881,13 @@ III.- De las acciones de inconstitucionalidad por omisión, en contra de cualqui
 
 El ejercicio de esta acción corresponderá a cualquier autoridad o vecino del Estado.
 
-La resolución que declare fundada la acción de inconstitucionalidad por omisión, deberá ser aprobada cuando menos por tres votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2009)</small>
+La resolución que declare fundada la acción de inconstitucionalidad por omisión, deberá ser aprobada cuando menos por ocho votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año.
 
-IV.- De las cuestiones de inconstitucionalidad planteadas por cualquier autoridad u organismo autónomo, cuando consideren de oficio o a petición de parte, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a esta Constitución, en los términos que establezca la ley;
+IV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2020)</small>
-
-V.- Conocer y resolver, en los términos de la ley respectiva, del juicio de protección de derechos fundamentales, por normas generales por actos u omisiones que vulneren los derechos reconocidos por esta Constitución, provenientes de cualquier autoridad pública; de particulares que realicen actos equivalentes a los de una autoridad y que sus funciones estén determinadas en una norma general.
-
-El juicio de protección de derechos fundamentales se regirá por los siguientes principios:
-
-a).- Será a instancia de parte agraviada, teniendo tal carácter quien aduzca ser titular de un derecho subjetivo que se afecte de manera personal y directa o de un interés legítimo individual o colectivo.
-
-b).- La sentencia solo se ocupará de las partes que hayan acudido a juicio.
-
-c).- Suplir la deficiencia de la queja.
-
-d).- Agotar los medios ordinarios de defensa, con las excepciones que prevea la ley.
-
-El juicio de protección de derechos fundamentales será improcedente contra resolución (sic) interlocutorias o definitivas dictadas por otras salas del Tribunal Superior de Justicia.
+V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2022)
 
 VI.- (DEROGADA, P.O. 10 DE JUNIO DE 2016)
 
@@ -2091,11 +2105,11 @@ El Tribunal de Justicia Administrativa tendrá a su cargo dirimir las controvers
 
 Asimismo, será el órgano competente para imponer, en los términos que disponga la ley, las sanciones a los servidores públicos locales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 104.
 
-El Tribunal de Justicia Administrativa se compondrá por siete Magistrados Numerarios y funcionará en Pleno, así como en dos Salas Colegiadas Administrativas integradas por tres Magistrados Numerarios cada una y por una Sala Unitaria Especializada en Materia de Responsabilidades Administrativas. El Pleno podrá habilitar magistrados de las Salas Colegiadas para conocer, de forma unitaria, de las responsabilidades administrativas.
+El Tribunal de Justicia Administrativa se compondrá por cinco Magistradas o Magistrados Numerarios y funcionará en Pleno y en Salas. La Ley determinará el funcionamiento en Salas atendiendo a las necesidades del servicio. El Pleno estará facultado para expedir acuerdos generales, a fin de lograr una adecuada distribución entre Salas de los asuntos que le competa conocer al Tribunal, así como para lograr una mejor operatividad y el mejor despacho de los asuntos. Dichos acuerdos surtirán efectos después de publicados.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2020)</small>
 
@@ -2147,9 +2161,9 @@ V.- Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido con
 
 VI.- Ser originario del Estado de Nayarit o haber residido en el mismo, durante los dos años anteriores al día de la designación;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-VII.- No haber tenido el cargo de diputado local durante el año previo al día de la designación, ni haber sido Fiscal General, o haber pertenecido a las fuerzas armadas, y
+VII.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General, Secretario de alguna dependencia del Poder Ejecutivo, o haber pertenecido a las fuerzas armadas durante el año previo al día de la designación.
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)</small>
 
@@ -2645,7 +2659,9 @@ III. Se aplicarán sanciones administrativas a los servidores públicos por los 
 
 Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior del Estado y los órganos internos de control, o por sus homólogos en los municipios, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 85 de esta Constitución y en las leyes aplicables, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, custodia y aplicación de recursos públicos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros y demás servidores públicos del Poder Judicial del Estado, se observará lo previsto en el artículo 85 de esta Constitución y en las leyes aplicables, sin perjuicio de las atribuciones de la Auditoría Superior del Estado en materia de fiscalización sobre el manejo, custodia y aplicación de recursos públicos. La Contraloría Interna del Poder Judicial tendrá las atribuciones y competencia que la ley determine.
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
@@ -2665,15 +2681,15 @@ La Auditoría Superior del Estado y la Secretaría del Ejecutivo Estatal respons
 
 La responsabilidad del Estado y sus Municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa, en los términos que establezca la ley. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 124.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Comisionados del organismo garante de la transparencia en el Estado, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
+Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa, los miembros del Consejo de la Judicatura, los Secretarios de Despacho y los Servidores Públicos de la estructura básica centralizada, el Fiscal General, los Jueces de Primera Instancia, los Comisionados del organismo garante de la transparencia en el Estado, los Directores Generales o sus equivalentes de los organismos y empresas descentralizadas, los de sociedades y asociaciones asimiladas a éstas y los de Fideicomisos Públicos, los Coordinadores Generales, Presidentes, Regidores y Síndicos de los Ayuntamientos de la Entidad, así como el Secretario, Tesorero, Directores, Jefes de Departamento y oficinas de los mismos.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a la particular del Estado, a las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
+El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal de Justicia Administrativa y los miembros del Consejo de la Judicatura, sólo podrán ser sujetos de juicio político por violaciones graves a la Constitución General de la República, a la particular del Estado, a las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -4395,7 +4411,7 @@ CUARTO.- Dentro de los ciento veinte días naturales siguientes a que entre en v
 
 QUINTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
 
-SEXTO.- Por única ocasión el Consejo de la Judicatura del Poder Judicial del Estado de Nayarit, remitirá al Congreso del Estado propuesta de la terna para la designación de la siguiente vacante de Magistrado Numerario del Tribunal Superior de Justicia, previa convocatoria pública para el concurso de oposición, entre los jueces de primera instancia que cuenten con más de 10 años de carrera judicial al día de la designación.
+SEXTO.- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2022)
 
 P.O. 21 DE AGOSTO DE 2020.
 
@@ -4510,3 +4526,21 @@ P.O. 17 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
+
+P.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DEL PODER JUDICIAL Y DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- El Magistrado o Magistrada que a la entrada en vigor del presente Decreto ocupe la presidencia del Tribunal Superior de Justicia seguirá en funciones hasta la conclusión del periodo para el que fue designado.
+
+TERCERO.- Dentro de los ciento ochenta días hábiles siguientes a que entre en vigor el presente Decreto, el Congreso del Estado deberá armonizar las disposiciones legales correspondientes.
+
+CUARTO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, los procedimientos jurisdiccionales que se encuentren en trámite en la Sala Constitucional deberán remitirse al Pleno del Tribunal Superior de Justicia, quien procederá a turnarlos para su resolución conforme a la legislación vigente al momento de su inicio, quedando facultado para emitir los acuerdos generales que resulten necesarios para tal fin.
+
+Si en el plazo de un año contado a partir de la entrada en vigor del presente Decreto no existe promoción de parte interesada para ejecutar las sentencias firmes pronunciadas en los procedimientos jurisdiccionales referidos en el párrafo anterior, se decretará la prescripción de plano y se ordenará el archivo definitivo de los expedientes respectivos.
+
+QUINTO.- Para efectos de la nueva integración del Tribunal de Justicia Administrativa, la reforma contenida en el presente Decreto cobrará vigencia una vez que por cualquier causa se generen ausencias o vacantes definitivas en Magistraturas Numerarias, así como una vez realizados los ajustes y reformas indispensables en la Ley Orgánica del Tribunal de Justicia Administrativa.
+
+SEXTO.- Para los efectos del artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit remítase el presente Decreto a los veinte Ayuntamientos de la entidad.
