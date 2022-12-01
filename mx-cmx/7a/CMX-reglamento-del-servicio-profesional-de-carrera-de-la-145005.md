@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-profesional-de-carrera-de-la-145005"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-11-18"
-last_updated: "2020-11-18"
+last_updated: "2022-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145005&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-11-13"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 18 de noviembre de 2020.
 
@@ -40,13 +40,19 @@ REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE L
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento es de orden público y de observancia obligatoria para la Policía de Proximidad de la Ciudad de México. Tienen por objeto establecer las disposiciones normativas que regulan la organización y funcionamiento del Servicio Profesional de Carrera de la Policía de Proximidad de la Ciudad de México.
+El presente Reglamento es de orden público y de observancia obligatoria para la Policía de Proximidad de la Ciudad de México, entre la que se encuentra comprendido el personal de seguridad y custodia de los Centros Penitenciarios de la Ciudad de México.
+
+Tiene por objeto establecer las disposiciones normativas que regulan la organización y funcionamiento del Servicio Profesional de Carrera de la Policía de Proximidad y la carrera penitenciaria a la que se sujeta el personal de seguridad y custodia de los Centros Penitenciarios de la Ciudad de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 2.
 
-Para los efectos del presente ordenamiento se entenderá por:
+Para los efectos del presente ordenamiento, además de lo previsto en la Ley del Sistema de Seguridad Ciudadana y la Ley de Centros Penitenciarios, ambas de la Ciudad de México, se entenderá por:
 
 I. Amonestación: Correctivo disciplinario mediante el cual el superior jerárquico advierte al subordinado la omisión o falta en el cumplimiento de sus deberes, invitándolo a corregirse. Será de palabra y constará por escrito.
 
@@ -58,21 +64,39 @@ IV. Cadete: Persona que se encuentra inscrita en el Curso Básico de Formación 
 
 V. Carrera Policial: Servicio profesional de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento, así como la separación o baja del servicio de las y los integrantes de las instituciones policiales;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+V Bis. Carrera Penitenciaria: instrumento básico para la formación del personal de seguridad y custodia, en los Centros Penitenciarios de la Ciudad de México, para quienes es obligatoria y permanente para ser integrante cumplir con los principios de actuación. Comprende los procedimientos de selección, ingreso, formación, certificación, capacitación, reconocimiento, actualización, evaluación, permanencia, promoción y la remoción o baja del servicio;
+
 VI. Centro de Reclutamiento: Al Centro de Formación y Desarrollo Policial de la Policía Bancaria e Industrial, y al Instituto de Educación Superior de la Policía Auxiliar de la Ciudad de México;
 
-VII. Certificado Único Policial: Documento que acredita a las y los policías y oficiales de guarda y custodia del sistema penitenciario aptos para ingresar o permanecer en las instituciones de seguridad pública y/o ciudadana y que cuentan con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo;
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VI Bis. Centros Penitenciarios: conjunto de establecimientos penitenciarios preventivos, de ejecución de sanciones penales, de reinserción psicosocial, Instituciones Abiertas Casas de Medio Camino y Centros de Sanciones Administrativas de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VII. Certificado Único Policial: documento que acredita a las y los policías, así como al personal de seguridad y custodia, aptos para ingresar o permanecer en las instituciones de seguridad pública y/o ciudadana y que cuentan con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo;
 
 VIII. Correctivo Disciplinario: Medida consistente en la amonestación o arresto, a la que se hace acreedor el personal policial que cometa alguna falta a los principios de actuación previstos en (sic) Ley del Sistema de Seguridad Ciudadana de la Ciudad de México y demás normatividad que rige la actuación policial;
 
-IX. Desarrollo Policial: Conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario de las y los integrantes de las instituciones policiales, que tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como asegurar el cumplimiento de los principios constitucionales;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IX. Desarrollo Policial: conjunto integral de reglas y procesos debidamente estructurados y enlazados entre sí que comprenden la Carrera Policial, la Carrera Penitenciaria, los esquemas de profesionalización, la certificación y el régimen disciplinario de las y los integrantes de las instituciones policiales, que tiene por objeto garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades de los mismos; elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como asegurar el cumplimiento de los principios constitucionales;
 
 X. Disciplina: Conducta recurrente que genere hábitos positivos de actuación policial en apego a los principios y a la normatividad aplicable a la actuación policial, que comprende el aprecio a sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos;
 
 XI. Evaluaciones de control de confianza: Consiste en la aplicación de diversos procesos que tienen como principal finalidad identificar el apego a los perfiles y requisitos del puesto, estado de salud general, posible consumo de sustancias prohibidas, características de personalidad, habilidades y competencias generales, contexto social, patrimonial y laboral, así como el apego a normas; que al valorarlas en su conjunto arrojan la visión biopsicosocial de la persona evaluada de la que se obtiene un resultado integral, único e indisociable;
 
-XII. Función policial: Conjunto de actos y actividades del personal policial, encaminados a salvaguardar la vida, integridad física y patrimonial de las personas, así como a preservar las libertades, el orden y la paz públicos y que tiene como principios rectores la prevención social de las violencias y del delito, así como fomentar la cultura cívica entre la población con estricto respeto a los derechos humanos;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XII. Función policial: conjunto de actos y actividades del personal policial, encaminados a salvaguardar la vida, integridad física y patrimonial de las personas, así como a preservar las libertades, el orden y la paz públicos y que tiene como principios rectores la prevención social de las violencias y del delito, así como fomentar la cultura cívica entre la población con estricto respeto a los derechos humanos, y aquellas orientadas a la operación y funcionamiento de los centros penitenciarios.
 
 XIII. Infractor: Personal policial que incurra en alguna conducta contraria a los principios de actuación y cuya hipótesis se encuentre prevista en la normatividad vigente;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XIII Bis. Ley de Centros Penitenciarios: Ley de Centros Penitenciarios de la Ciudad de México;
 
 XIV. Ley del Sistema: Ley del Sistema de Seguridad Ciudadana de la Ciudad de México;
 
@@ -88,17 +112,31 @@ XIX. Orden: Manifestación externa verbal o escrita del superior con autoridad q
 
 XX. Persona Titular de la Secretaría: La persona Titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-XXI. Personal policial: Persona que, habiendo aprobado el Curso Básico de Formación Inicial y cumplidos los requisitos de ingreso y permanencia, cuenta con nombramiento de policía, constituyéndose como parte integrante del Servicio Profesional de Carrera Policial de la Policía de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XXI. Personal policial: persona que, habiendo aprobado el Curso Básico de Formación Inicial y cumplidos los requisitos de ingreso y permanencia, cuenta con nombramiento de policía, constituyéndose como parte integrante del Servicio Profesional de Carrera Policial de la Policía de Proximidad de la Ciudad de México, incluido el Personal de Seguridad y Custodia;
 
 XXII. Policía de Proximidad: Cuerpos Policiales de Seguridad Ciudadana que se encuentran bajo la responsabilidad y mando de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XXII Bis. Personal de seguridad y custodia: personal que realiza labores de protección, supervisión, vigilancia, contención y todas aquellas orientadas a hacer prevalecer el orden y resguardar la seguridad de las personas dentro de las instalaciones de los Centros Penitenciarios;
+
 XXIII. Profesionalización: Proceso permanente y progresivo de formación que se integra por las etapas o niveles de Formación Inicial, Actualización, Especialización, Promoción, Mandos Medios y Alta Dirección, para desarrollar al máximo las competencias, capacidades, destrezas y habilidades de las y los integrantes de la Policía;
 
-XXIV. Programa de Profesionalización: Programa de Profesionalización de Instituciones de Seguridad Ciudadana de la Ciudad de México;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Programa de Profesionalización: instrumento en el que se establecen los lineamientos, programas, actividades y contenidos mínimos para la profesionalización del personal de las Instituciones de Seguridad Ciudadana, aprobado por la persona titular de la Secretaría y revisado anualmente para su mejora continua, mismo que, deberá apegarse al Programa Rector de Profesionalización aprobado por el Consejo Nacional de Seguridad Pública;
 
 XXV. Secretaría: Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-XXVI. Servicio Profesional de Carrera Policial: Sistema de carácter obligatorio y permanente conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del servicio de los integrantes de las Instituciones Policiales, en igualdad de oportunidades para hombres y mujeres;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XXVI. Servicio Profesional de Carrera Policial: sistema de carácter obligatorio y permanente conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, capacitación, evaluación, promoción y reconocimiento; así como la conclusión del servicio del personal policial, en igualdad de oportunidades para hombres y mujeres;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XXVI Bis. Sistema Penitenciario: conjunto de normas jurídicas e instituciones del Estado que tiene por objeto la supervisión de la prisión preventiva y la ejecución de sanciones penales, así como de las medidas de seguridad derivadas de una sentencia. Está organizado sobre la base del respeto de los derechos humanos, trabajo, capacitación para el mismo, educación, salud y deporte, como medios para lograr la reinserción de la persona sentenciada, así como procurar los medios para que no vuelva a delinquir;
 
 XXVII. Subsecretaría: Subsecretaría de Desarrollo Institucional, y
 
@@ -118,9 +156,13 @@ IV. Instrumentar e impulsar la capacitación y profesionalización permanente de
 
 V. Los demás que establezca la normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-La Carrera Policial, en términos de antigüedad, estará conformada por 30 años de servicio; para acceder al grado inmediato superior se contará con los Programas de formación y manuales respectivos por grado y especialidad. Será responsabilidad de la Universidad de la Policía en coordinación con la Dirección General de Carrera Policial de la Secretaría la elaboración, actualización y disposición de los mismos a todo el personal policial interesado.
+Tanto en la Carrera Policial, como en la Carrera Penitenciaria, la antigüedad estará conformada por 30 años de servicio.
+
+Para acceder al grado inmediato superior se contará con los Programas de formación y manuales respectivos por grado y especialidad. Será responsabilidad de la Universidad de la Policía en coordinación con la Dirección General de Carrera Policial, la elaboración, actualización y disposición de los mismos a todo el personal policial.
 
 ###### Artículo 5.
 
@@ -128,11 +170,15 @@ Las relaciones de trabajo del personal policial al Servicio de la Policía de Pr
 
 Las bases para la operación y desarrollo del Servicio Profesional de Carrera Policial para la Policía de Proximidad de la Ciudad de México, serán establecidas por la Subsecretaría de Desarrollo Institucional.
 
-### CAPÍTULO II. DE LA ESCALA DE JERARQUÍAS DE LA CARRERA POLICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO II. DE LA ESCALA DE JERARQUÍAS DE LA CARRERA POLICIAL Y DE LA CARRERA PENITENCIARIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 6.
 
-La escala de jerarquías dentro de la Carrera Policial se agrupa en cuatro categorías, en orden descendente y en un esquema de jerarquización terciaria, conforme a lo siguiente:
+La escala de jerarquías dentro de la Carrera Policial, y la Carrera Penitenciaria se agrupa en cuatro categorías, en orden descendente y en un esquema de jerarquización terciaria, conforme a lo siguiente:
 
 I. La jerarquía de Comisarios y Comisarias, conformada por los siguientes grados:
 
@@ -180,15 +226,21 @@ La planeación, dirección, ejecución, operación, control y evaluación de la 
 
 Las Comisiones Técnicas de Selección y Promoción tendrán las siguientes funciones:
 
-I. Aprobar los mecanismos, criterios y requisitos que determinen el ingreso y permanencia de las y los integrantes en la Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-II. Expedir las convocatorias para el ingreso de aspirantes y transferencia de personal policial, de acuerdo con las necesidades de la Secretaría;
+I. Aprobar los mecanismos, criterios y requisitos que determinen el ingreso, selección y permanencia de las y los integrantes en la Carrera Policial y la Carrera Penitenciaria;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+II. Expedir las convocatorias para el ingreso y selección de aspirantes y transferencia de personal policial, de acuerdo con las necesidades de la Secretaría;
 
 III. Expedir las convocatorias relativas a los concursos de promoción, señalando las plazas a cubrir y los requisitos necesarios para ocuparlas;
 
 IV. Autorizar los procesos de ascenso previstos en la normatividad que aplica en la materia;
 
-V. Analizar, aprobar y definir los mecanismos y procedimientos de selección para el ingreso, reingreso y promoción que deberán instrumentarse en los diferentes procesos que realicen las Unidades Administrativas facultadas para ello, e instruir las modificaciones pertinentes que a su juicio considere se deban aplicar, a fin de compatibilizar los procedimientos a las necesidades de la corporación y de la Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+V. Analizar, aprobar y definir los mecanismos y procedimientos de selección para el ingreso, reingreso y promoción que deberán instrumentarse en los diferentes procesos que realicen las Unidades Administrativas facultadas para ello, e instruir las modificaciones pertinentes que a su juicio considere se deban aplicar, a fin de compatibilizar los procedimientos a las necesidades de la corporación de la Carrera Policial, y de la Carrera Penitenciaria;
 
 VI. Autorizar la selección realizada por las Unidades Administrativas relativa a las personas que deberán ocupar las plazas vacantes en el nivel superior inmediato, que cumplan con los requisitos establecidos, así como emitir los lineamientos que deberán cumplir las mismas para seleccionar y evaluar a las y los integrantes del Servicio;
 
@@ -204,35 +256,65 @@ X. Las demás que se aprueben por mayoría en el Pleno de la Comisión.
 
 Las Comisiones Técnicas de Selección y Promoción de la Policía de Proximidad de la Ciudad de México estarán integradas de la siguiente manera:
 
-En la Policía Preventiva, por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+A. En la Policía Preventiva, por:
 
 I. Presidencia: Que será la persona Titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
 II. Secretaría Técnica: Que será la persona Titular de la Dirección General de Carrera Policial, quien participará en las sesiones con voz, pero sin voto;
 
-III. Once personas Vocales con voz y voto:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-a. La Persona Titular de la Subsecretaría de Desarrollo Institucional, quien fungirá como presidente suplente en ausencia de la persona Titular de la Secretaría.
+III. Doce personas en calidad de Vocales, que contarán con voz y voto, representadas por las personas titulares de las siguientes Unidades Administrativas:
 
-b. La Persona Titular de la Subsecretaría de Operación Policial.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-c. La Persona Titular de la Subsecretaría de Inteligencia e Investigación Policial.
+a) Subsecretaría de Desarrollo Institucional, quien asumirá la Presidencia en ausencia de la persona titular de la Secretaría.
 
-d. La Persona Titular de la Subsecretaría de Control de Tránsito.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-e. La Persona Titular de la Subsecretaría de Participación Ciudadana y Prevención del Delito.
+b) Subsecretaría de Operación Policial.
 
-f. La Persona Titular de la Oficialía Mayor.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-g. La Persona Titular de la Coordinación General de la Universidad de la Policía de la Ciudad de México.
+c) Subsecretaría de Inteligencia e Investigación Policial
 
-h. La Persona Titular de la Dirección General de la Comisión de Honor y Justicia.
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-i. La Persona Titular de la Dirección General de Asuntos Internos.
+c Bis) Subsecretaría del Sistema Penitenciario.
 
-j. La Persona Titular de la Dirección General de Administración de Personal.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-k. La Persona Titular de la Dirección General del Centro de Evaluación y Control de Confianza.
+d) Subsecretaría de Control de Tránsito.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+e) Subsecretaría de Participación Ciudadana y Prevención del Delito.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+f) Oficialía Mayor.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+g) Coordinación General de la Universidad de la Policía de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+h) Dirección General de los Órganos Colegiados de Honor y Justicia
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+i) Dirección General de Asuntos Internos
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+j) Dirección General de Administración de Personal
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+k) Dirección General del Centro de Evaluación y Control de Confianza
 
 IV. Dos personas asesoras, que participarán en las sesiones con derecho a voz, pero sin voto que serán:
 
@@ -254,23 +336,41 @@ b. Persona con mayor rango y mejor puntaje en el proceso de promoción del año 
 
 La persona con mayor rango y mejor puntaje en el proceso de promoción del año inmediato anterior deberá ser la mejor del sexo opuesto a la persona reconocida como Policía del Año, o en su caso, la persona finalista de la Policía Preventiva, con la finalidad de garantizar la paridad de género.
 
-En la Policía Auxiliar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-I. Presidencia: Que será la persona Titular de la Secretaría de Seguridad Ciudadana;
+B. En la Policía Auxiliar:
 
-II. Secretaría Técnica: La persona titular de la Dirección Ejecutiva de Desarrollo Institucional y Servicios de Apoyo, quien participará en las sesiones con voz, pero sin voto;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-III. Cinco personas Vocales, con voz y voto:
+I. Presidencia: que será la persona titular de la Secretaría de Seguridad Ciudadana;
 
-a. La Persona Titular de la Dirección General de la Policía Auxiliar, quien fungirá como presidente suplente en ausencia de la persona titular de la Secretaría.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-b. La Persona Titular de la Dirección General de Carrera Policial de la Secretaría de Seguridad Ciudadana.
+II. Secretaría Técnica: persona titular de la Dirección Ejecutiva de Desarrollo Institucional y Servicios de Apoyo, quien participará en las sesiones con voz, pero sin voto;
 
-c. La Persona Titular de la Dirección Ejecutiva de Operación Policial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-d. La Persona Titular de la Dirección Ejecutiva de Recursos Humanos y Financieros.
+III. Cinco personas en calidad de Vocales, que contarán con voz y voto, representadas por las personas titulares de las siguientes Unidades Administrativas:
 
-e. La Persona Titular de la Dirección de Inspección General.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+a) Dirección General de la Policía Auxiliar, quien asumirá la presidencia en ausencia de la persona titular de la Secretaría.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+b) Dirección General de Carrera Policial.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+c) Dirección Ejecutiva de Operación Policial.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+d) Dirección Ejecutiva de Recursos Humanos y Financieros.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+e) Dirección de Inspección General.
 
 IV. Dos personas asesoras, que participarán en las sesiones con derecho a voz, pero sin voto que serán:
 
@@ -280,23 +380,41 @@ b. La Persona Titular del Órgano Interno de Control.
 
 V. Tres personas invitadas permanentes con una jerarquía mínima de Inspector o Inspectora dentro de la Corporación, con derecho a voz, pero sin voto, los (sic) cuales serán designadas por la Persona Titular de la Dirección General de la Policía Auxiliar.
 
-En la Policía Bancaria e Industrial, por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-I. Presidencia: Que será la Persona Titular de la Secretaría de Seguridad Ciudadana.
+C. En la Policía Bancaria e Industrial, por:
 
-II. Secretaría Técnica: la Persona Titular de la Jefatura de Departamento de Carrera Policial, quien participará en las sesiones con voz, pero sin voto.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-III. Cinco personas Vocales, con voz y voto:
+I. Presidencia: la Persona Titular de la Secretaría de Seguridad Ciudadana.
 
-a. La Persona Titular de la Dirección General de la Policía Bancaria e Industrial, quien fungirá como presidente suplente en ausencia de la persona titular de la Secretaría.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-b. La Persona Titular de la Dirección de Desarrollo Policial de la Policía Bancaria e Industrial.
+II. Secretaría Técnica: persona titular de la Jefatura de Departamento de Carrera Policial, quien participará en las sesiones con voz, pero sin voto.
 
-c. La Persona Titular de la Dirección Operativa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-d. La Persona Titular de la Dirección Administrativa.
+III. Cinco personas Vocales, quienes contarán con voz y voto y estarán representadas por personas titulares de las siguientes Unidades Administrativas:
 
-e. La Persona Titular de la Dirección General de Carrera Policial de la Secretaría de Seguridad Ciudadana.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+a) Dirección General de la Policía Bancaria e Industrial, quien asumirá la presidencia en ausencia de la persona titular de la Secretaría.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+b) Dirección de Desarrollo Policial de la Policía Bancaria e Industrial.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+c) Dirección Operativa.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+d) Dirección Administrativa.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+e) Dirección General de Carrera Policial.
 
 IV. Dos personas asesoras, que participarán en las sesiones con derecho a voz, pero sin voto que serán:
 
@@ -362,9 +480,27 @@ III. Las demás que les sean encomendadas por Acuerdo de la Comisión.
 
 ### CAPÍTULO II. DE LAS COMISIONES TÉCNICAS DE PROFESIONALIZACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-Las Comisiones Técnicas de Profesionalización de la Policía Preventiva, de la Policía Bancaria e Industrial y de la Policía Auxiliar según corresponda, tendrán las atribuciones siguientes:
+La Secretaría contará con tres Comisiones Técnicas de Profesionalización:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+A. Policía Preventiva;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+B. Policía Bancaria e Industrial; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+C. Policía Auxiliar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+Dichas Comisiones, según corresponda, tendrán las atribuciones siguientes:
 
 I. Elaborar, evaluar y actualizar el Programa de Profesionalización;
 
@@ -376,7 +512,9 @@ IV. Promover el desarrollo de las funciones de investigación, docencia y vincul
 
 V. Fomentar los programas de intercambio, cooperación cultural, recreativa, científica y académica, a través de las instancias de formación policial, y
 
-VI. Las demás que sean necesarias para el cumplimiento de la formación.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VI. Las demás que sean necesarias para la profesionalización del personal policial.
 
 ###### Artículo 16.
 
@@ -386,13 +524,19 @@ I. Presidencia: que será la Persona Titular de la Secretaría de Seguridad Ciud
 
 II. Secretaría Técnica: que será la Persona Titular de la Coordinación General de la Universidad de la Policía de la ciudad de México, quien participará en las sesiones con voz, pero sin voto.
 
-III. Seis Vocalías con voz y voto que serán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+III. Siete Vocales con voz y voto que serán:
 
 a. La Persona Titular de la Subsecretaría de Desarrollo Institucional, quien fungirá como presidente suplente en ausencia de la persona titular de la Secretaría.
 
 b. La Persona Titular de la Subsecretaría de Operación Policial.
 
 c. La Persona Titular de la Subsecretaría de Inteligencia e Investigación Policial.
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+c. Bis. La persona titular de la Subsecretaría del Sistema Penitenciario.
 
 d. La Persona Titular de la Subsecretaría de Control de Tránsito.
 
@@ -416,7 +560,9 @@ c. Las y los representantes que se considere pertinente invitar de Universidades
 
 Por su parte, tanto la Policía Auxiliar como la Policía Bancaria e Industrial contarán con Comisiones Técnicas de Profesionalización propias, que tendrán las mismas funciones enunciadas en el artículo 15, las cuales estarán conformadas de la siguiente manera:
 
-En la Policía Auxiliar:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+En la Policía Auxiliar
 
 I. Presidencia: que será la Persona Titular de la Secretaría de Seguridad Ciudadana.
 
@@ -532,11 +678,13 @@ III. Las demás que les sean encomendadas por acuerdo de la Comisión.
 
 El Reclutamiento es el proceso a cargo de la Universidad y los Centros de Reclutamiento mediante el cual, a través de las convocatorias que emita la Comisión Técnica de Selección y Promoción de cada cuerpo policial, según corresponda, buscan y convocan a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de la Policía de Proximidad de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-La etapa de reclutamiento, así como sus características, alcances, magnitud, tiempos y formas se determinarán por la Comisión Técnica de Selección y Promoción conforme a las necesidades de cada cuerpo policial, considerando las características y modalidades del presupuesto autorizado para el período correspondiente.
+La etapa de reclutamiento, así como sus características, alcances, magnitud, tiempos y formas se determinarán por la Comisión Técnica de Selección y Promoción que corresponda conforme a las necesidades de cada cuerpo policial, considerando las características y modalidades del presupuesto autorizado para el período correspondiente.
 
-La Convocatoria para el ingreso de aspirantes se elaborará tomando en consideración los requerimientos operativos de la Policía de Proximidad de la Ciudad de México.
+La convocatoria para el ingreso de aspirantes se elaborará tomando en consideración los perfiles y requerimientos operativos de los cuerpos policiales de la Policía de Proximidad de la Ciudad de México.
 
 ###### Artículo 24.
 
@@ -692,9 +840,11 @@ El ingreso es el proceso de integración de las y los cadetes que hayan concluid
 
 Los cuerpos policiales consultarán los antecedentes de las y los aspirantes en los Sistemas de Registro Nacionales en los que participen y harán su correspondiente registro en caso de cumplir con todos los requisitos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 37.
 
-Las personas titulares de la Subsecretaría de Desarrollo Institucional, la Dirección General de la Policía Auxiliar y la Policía Bancaria e Industrial según corresponda, expedirán a las y los cadetes que concluyan el Curso Básico de Formación Inicial, el nombramiento o alta oficial, el cual contendrá los datos mínimos siguientes:
+Las personas titulares de la Subsecretaría de Desarrollo Institucional, y las Direcciones Generales de la Policía Auxiliar y de la Policía Bancaria e Industrial, según corresponda, expedirán a las y los cadetes que concluyan el Curso Básico de Formación Inicial, el documento oficial que acredite dicha conclusión, el cual contendrá los datos mínimos siguientes:
 
 I. Nombre completo;
 
@@ -708,17 +858,23 @@ V. Jerarquía y grado, y
 
 VI. Los demás elementos que determine la Secretaría.
 
-La Oficialía Mayor, a través de la Dirección General de Administración de Personal y las áreas homólogas dentro de la Policía Bancaria e Industrial y Policía Auxiliar, registrarán el alta del personal policial incluyéndoles, en su caso, en el Seguro de Vida Institucional correspondiente conforme a la normatividad en la materia.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La Oficialía Mayor, a través de la Dirección General de Administración de Personal y las áreas homólogas dentro de la Policía Bancaria e Industrial y Policía Auxiliar, registrarán el alta del personal policial y generarán el documento que lo haga constar, incluyéndoles, en su caso, en el seguro de vida institucional correspondiente conforme a la normativa en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 38.
 
-El ingreso al Servicio Profesional de Carrera Policial inicia a partir de la entrega del nombramiento o alta oficial, momento en que el personal policial gozará de los derechos consignados en la Ley, empezará a percibir un salario conforme a las políticas y lineamientos aplicables en la materia, serán afiliados a la Caja de Previsión de la Policía Preventiva de la Ciudad de México, o a la Caja de Previsión de la Policía Auxiliar de la Ciudad de México según corresponda, y gozará de los derechos y prerrogativas contenidas en la normatividad correspondiente.
+El ingreso al Servicio Profesional de Carrera Policial inicia a partir de la entrega del documento de alta o constancia de nombramiento oficial, momento en que el personal policial gozará de los derechos consignados en la Ley, empezará a percibir un salario conforme a las políticas y lineamientos aplicables en la materia, serán afiliados a la Caja de Previsión de la Policía Preventiva de la Ciudad de México, o a la Caja de Previsión de la Policía Auxiliar de la Ciudad de México según corresponda, y gozará de los derechos y prerrogativas contenidas en la normativa correspondiente.
 
 La Oficialía Mayor y las áreas homólogas dentro de la Policía Bancaria e Industrial y Policía Auxiliar, expedirán al personal policial las credenciales de identificación y para portación de armas de fuego, así como los uniformes correspondientes conforme a la normatividad aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 39.
 
-El personal que haya pertenecido a otra institución de seguridad pública o ciudadana en los ámbitos federal, estatal o municipal, podrá ingresar a la Policía de Proximidad de la Ciudad de México bajo los siguientes criterios:
+El personal que haya pertenecido a otra institución de seguridad pública, penitenciaria o ciudadana en los ámbitos federal, estatal o municipal, podrá ingresar a la Policía de Proximidad de la Ciudad de México bajo los siguientes criterios:
 
 I. De Postulación
 
@@ -740,7 +896,9 @@ B. Certificación: la o el solicitante deberá sujetarse y aprobar la evaluació
 
 C. Formación complementaria: acreditar la formación complementaria que corresponda.
 
-El ingreso de personas de otras instituciones de seguridad pública o ciudadana a la Policía de Proximidad de la Ciudad de México estará sujeto a las plazas disponibles y a los requisitos adicionales que establezca la Comisión Técnica de Selección y Promoción.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+El ingreso de personas de otras instituciones de seguridad pública, penitenciaria o ciudadana a la Policía de Proximidad de la Ciudad de México estará sujeto a las plazas disponibles y a los requisitos adicionales que establezca la Comisión Técnica de Selección y Promoción correspondiente.
 
 ###### Artículo 40.
 
@@ -760,9 +918,11 @@ IV. Aprobar el curso de formación complementaria impartido por la Universidad d
 
 V. En todo el proceso de transferencia y egreso, deberá observar buena conducta, puntualidad y disciplina.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 42.
 
-Las Convocatorias que al efecto emita la Comisión Técnica de Selección y Promoción de la Secretaría, donde se oferten vacantes para transferencias a la Policía Preventiva, deberán prever las disposiciones relativas al grado, antigüedad y efectos de las transferencias.
+Las Convocatorias que al efecto emita la Comisión Técnica de Selección y Promoción de la Secretaría, donde se oferten vacantes para transferencias a la Policía Preventiva, deberán prever las disposiciones relativas al grado, antigüedad, efectos de la transferencia y requisitos específicos del perfil.
 
 ###### Artículo 43.
 
@@ -828,15 +988,19 @@ IV. Psicológica: Para detectar las características de personalidad y nivel de 
 
 V. Poligráficas: Para identificar, confirmar o descartar conductas de riesgo que impacten los objetivos institucionales, a través de la obtención y verificación de información.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 52.
 
-La Secretaría es responsable de que las personas que integran la Policía de Proximidad obtengan y actualicen el Certificado Único Policial o equivalente que consiste en la evaluación de control de confianza, competencias básicas o profesionales, formación inicial y evaluación del desempeño.
+La Secretaría es responsable de que las personas que integran la Policía de Proximidad obtengan y actualicen el Certificado Único Policial que consiste en la evaluación de control de confianza, competencias básicas o profesionales, formación inicial y evaluación del desempeño de la función policial.
 
-El Certificado Único Policial será expedido por el Centro de Evaluación de Control de Confianza.
+El Certificado Único Policial será expedido por el Centro de Evaluación y Control de Confianza.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 53.
 
-La Policía de Proximidad se integrará única y exclusivamente con personal Certificado por el Centro de Evaluación y Control de Confianza. El personal que no acredite las evaluaciones de control de confianza o que no cumpla con los requisitos para obtener y mantener el Certificado Único Policial, causará baja en términos de lo dispuesto en la Ley General, en la Ley del Sistema y en las demás disposiciones aplicables.
+La Policía de Proximidad se integrará única y exclusivamente con personal Certificado por el Centro de Evaluación y Control de Confianza. El personal que no acredite las evaluaciones de control de confianza o que no cumpla con los requisitos para obtener y mantener el Certificado Único Policial, causará baja en términos de lo dispuesto en la Ley General, la Ley del Sistema, la Ley de Centros Penitenciarios y en las demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -972,7 +1136,9 @@ II. Convocar al personal que considere reúna los requisitos para participar en 
 
 III. Validar o, en caso de ser necesario, adecuar y definir las equivalencias establecidas en la tabla de ponderación de la convocatoria, para cumplimentar o tener por satisfecho algún o algunos de los requisitos solicitados.
 
-IV. Solicitar a las áreas jurídico administrativas de la Secretaría, tales como la Subsecretaría de Inteligencia e Investigación Policial; Dirección General de la Comisión de Honor y Justicia; Dirección General de Asuntos Jurídicos, Dirección General de Asuntos Internos; la Dirección General de Derechos Humanos, Dirección General del Centro de Evaluación y Control de Confianza y la Universidad de la Policía de la Ciudad de México, los antecedentes profesionales y disciplinarios de los participantes en los procesos de promoción, a fin de identificar su buena conducta, formación, capacitación y antigüedad.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IV. Solicitar, a las áreas jurídico administrativas de la Secretaría, tales como la Subsecretaría de Inteligencia e Investigación Policial; Dirección General de los Órganos Colegiados de Honor y Justicia; Dirección General de Asuntos Jurídicos, Dirección General de Asuntos Internos; la Dirección General de Derechos Humanos, Dirección General del Centro de Evaluación y Control de Confianza y la Universidad de la Policía de la Ciudad de México, los antecedentes profesionales y disciplinarios de los participantes en los procesos de promoción, a fin de identificar su buena conducta, formación, capacitación y antigüedad.
 
 V. Las demás que sean determinadas por las propias Comisiones a fin de cumplimentar conforme a la Ley General y la Ley del Sistema, los requisitos para la promoción.
 
@@ -1074,9 +1240,11 @@ Las condecoraciones, reconocimientos, estímulos y recompensas son un derecho de
 
 Se entenderá como condecoración, a las insignias obtenidas por el desempeño, eficiencia, antigüedad, disciplina, lealtad, profesionalismo, honestidad y valor en el cumplimiento del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 77.
 
-Para el otorgamiento de condecoraciones, se contará con un Comité para el Otorgamiento de Condecoraciones, que será la instancia colegiada de carácter técnico consultivo y permanente, cuyo objetivo es el de evaluar y seleccionar al personal policial candidato a recibir condecoraciones y que será presentado ante la Comisión de Honor y Justicia.
+Para el otorgamiento de condecoraciones, se contará con un Comité para el Otorgamiento de Condecoraciones, que será la instancia colegiada de carácter técnico consultivo y permanente, cuyo objetivo es el de evaluar y seleccionar al personal policial candidato a recibir condecoraciones y que será presentado ante la Comisión de Honor y Justicia, o el Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario, según corresponda.
 
 La integración y funcionamiento del Comité para el Otorgamiento de Condecoraciones, quedará establecido en el Régimen de Condecoraciones, Reconocimientos, Estímulos y Recompensas, que emita la Secretaría, así como en el Manual para el Establecimiento de dicho Comité de conformidad con la normatividad aplicable.
 
@@ -1158,13 +1326,17 @@ La conclusión del servicio del personal policial contará con reglamentación e
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 87.
 
-El Régimen Disciplinario tiene como objetivo establecer las normas y procedimientos para la aplicación de sanciones por la comisión de las faltas previstas en la Ley del Sistema de Seguridad Ciudadana de la Ciudadana (sic) de México y demás disposiciones aplicables, en que incurra el personal policial en el ejercicio de sus funciones.
+El Régimen Disciplinario tiene como objetivo establecer las normas y procedimientos para la aplicación de sanciones por la comisión de las faltas previstas en la Ley del Sistema, la Ley de Centros Penitenciarios, el presente Reglamento y demás disposiciones aplicables, en que incurra el personal policial en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 88.
 
-La Comisión de Honor y Justicia es la instancia colegiada facultada para conocer y resolver del procedimiento administrativo disciplinario, así como del recurso de rectificación interpuesto por la imposición de los correctivos disciplinarios previstos en la Ley del Sistema de Seguridad Ciudadana de la Ciudadana (sic) de México.
+La Comisión de Honor y Justicia, y el Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario, son las instancias colegiadas facultadas para conocer y resolver los respectivos procedimientos administrativos disciplinarios, así como del recurso de rectificación interpuesto por la imposición de los correctivos disciplinarios previstos en la Ley del Sistema.
 
 ###### Artículo 89.
 
@@ -1238,9 +1410,11 @@ VII. Cuando la infracción se produzca por caso fortuito.
 
 ### CAPÍTULO II. DE LOS CORRECTIVOS DISCIPLINARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 96.
 
-Los Correctivos Disciplinarios, previstos en la fracción I del artículo 103 de la Ley del Sistema, son las sanciones a que se hace acreedor el personal policial que incurra en conductas que contravengan las disposiciones normativas aplicables en la materia, los cuales consistirán en:
+Los Correctivos Disciplinarios son las sanciones a que se hace acreedor el personal policial que incurra en conductas que contravengan las disposiciones normativas aplicables en la materia, los cuales consistirán en:
 
 I. Amonestación;
 
@@ -1256,9 +1430,11 @@ Corresponde a la persona titular de la Secretaría, a las personas Titulares de 
 
 Corresponde a los Titulares de la Dirección General de Asuntos Internos, de las Unidades Administrativas, Unidades Administrativas Policiales, y de las Unidades Administrativas de Apoyo Técnico-Operativo Policial de la adscripción del personal policial infractor, y a sus homólogos en la Policía Bancaria e Industrial y Policía Auxiliar, así como al superior jerárquico por cargo, orden o comisión, al que se encuentren subordinados, o por el superior jerárquico en grado cuando se encuentren en servicio, respetando la línea de mando, aplicar los correctivos disciplinarios a que se refieren las fracciones I a IV del artículo 96 del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 98.
 
-Los correctivos disciplinarios se aplicarán con independencia de cualquier otra responsabilidad civil, penal o administrativa en que incurra el personal policial infractor y serán aplicables, en los casos siguientes:
+Los correctivos disciplinarios se aplicarán con independencia de cualquier otra responsabilidad civil, penal o administrativa en que incurra el personal policial infractor y serán aplicables en los casos siguientes:
 
 I.- Se impondrá amonestación al personal policial que incurra en alguna de las faltas siguientes:
 
@@ -1266,11 +1442,15 @@ a. Abstenerse de observar un trato respetuoso con todas las personas;
 
 b. El extravío de la identificación oficial que le hubiera sido proporcionado (sic) por la institución para el ejercicio de sus funciones como integrante de esta;
 
-c. Abstenerse de asearse o de usar el cabello y bigote debidamente recortado para hombres y cabello recortado o recogido para mujeres;
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+c. Abstenerse de asearse o de usar el cabello, barba y bigote debidamente recortados para hombres y cabello recogido para mujeres;
 
 d. Alterar el uniforme institucional en la prestación del servicio;
 
-e. Omitir firmar la fatiga de asistencia;
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+e. Omitir firmar la fatiga y/o lista de asistencia;
 
 f. Omitir la entrega a su superior del informe escrito de sus actividades en el servicio o en las misiones que le sean encomendadas;
 
@@ -1292,7 +1472,7 @@ La amonestación será verbal y constará por escrito, expresando el motivo que 
 
 II.- Se impondrá arresto de 12 horas al personal policial que incurra en alguna de las faltas siguientes:
 
-a. Elaborar de manera incorrecta el Informe Policial Homologado, o las notas informativas o de remisión que le sean requeridas;
+a. (DEROGADO, G.O. 1 DE DICIEMBRE DE 2022)
 
 b. Abstenerse de informar oportunamente a los superiores de la inasistencia al servicio de sus subordinados;
 
@@ -1310,7 +1490,9 @@ h. Relajar la disciplina o separarse sin autorización estando en filas;
 
 i. Abstenerse de atender mandatos judiciales para desahogar diligencias;
 
-j. Elaborar boleta de sanción del Reglamento de Tránsito de la Ciudad de México asentando datos incorrectos, falseando la conducta del infractor, o sin seguir el procedimiento establecido;
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+j. Abstenerse de efectuar revisiones periódicas durante su servicio en los Centros Penitenciarios, con el objeto de prevenir la comisión de delitos;
 
 k. Acumular tres amonestaciones escritas, en un periodo de treinta días naturales, y
 
@@ -1320,7 +1502,7 @@ III.- Se impondrá arresto de 24 horas al personal policial que incurra en algun
 
 a. Acumular cinco amonestaciones en un periodo de treinta días naturales;
 
-b. Detener conductores para verificar documentación, sin estar autorizado para ello;
+b. (DEROGADO, G.O. 1 DE DICIEMBRE DE 2022)
 
 c. Aplicar erróneamente las disposiciones administrativas de su competencia;
 
@@ -1332,7 +1514,7 @@ f. Abstenerse de mencionar su número de placa o de mostrar su gafete cuando se 
 
 g. Abstenerse de informar oportunamente al superior jerárquico de las novedades que ocurran durante el servicio o a su término, u omitir información a la superioridad o dar novedades falsas;
 
-h. Abstenerse de elaborar el informe policial homologado, o las notas informativas o de remisión;
+h. (DEROGADO, G.O. 1 DE DICIEMBRE DE 2022)
 
 i. Alterar o asentar datos incorrectos en fatigas de servicio, roles de firma o bitácoras;
 
@@ -1353,6 +1535,14 @@ p. Las demás causas que establezcan otras disposiciones normativas.
 IV.- Se impondrá arresto de 36 horas al personal policial que incurra en alguna de las faltas siguientes:
 
 a. Detener conductores para verificar documentación, sin estar autorizado para ello, habiendo sido sancionado por la misma conducta dentro de los seis meses anteriores;
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+a Bis. Abstenerse de elaborar el Informe Policial Homologado, o las notas informativas o de remisión que le sean requeridas o realizarlas de manera incorrecta;
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+a Ter. Elaborar boleta de sanción del Reglamento de Tránsito de la Ciudad de México asentando datos incorrectos, falseando la conducta del infractor, o sin seguir el procedimiento establecido;
 
 b. Utilizar indebidamente los vehículos, semovientes, equipo electrónico, Radares Móviles o cualquier otro equipo asignado para el cumplimiento del servicio;
 
@@ -1398,15 +1588,19 @@ Una vez cumplido el arresto, se entregará al personal policial una constancia p
 
 ### CAPÍTULO III. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 99.
 
-En términos de lo dispuesto en el artículo 103 de la Ley del Sistema, tratándose de la comisión de faltas graves en contra de los principios de actuación policial, cometidas por integrantes de los cuerpos policiales adscritos a la Secretaría, corresponde a la Comisión de Honor y Justicia, conocer y resolver de aquellos asuntos que ameriten la imposición de las siguientes sanciones:
+Tratándose de la comisión de faltas graves en contra de los principios de actuación policial, cometidas por el personal policial, corresponde a la Comisión de Honor y Justicia, y al Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario, conocer y resolver de aquellos asuntos que ameriten la imposición de las siguientes sanciones:
 
 A. Suspensión, y
 
 B. Destitución.
 
-La calificación de la gravedad será determinada por la Comisión de Honor y Justicia, quien deberá de expresar las razones para emitirla, y deberá tomar en cuenta:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La calificación de la gravedad será determinada por la Comisión de Honor y Justicia, o el Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario, según corresponda, quienes deberán expresar las razones para emitirla, y deberán tomar en cuenta:
 
 I. La conveniencia de suprimir conductas que lesionen la imagen de la corporación o afecten a la ciudadanía;
 
@@ -1422,9 +1616,11 @@ V. La reincidencia en el incumplimiento de sus obligaciones.
 
 La suspensión temporal de funciones podrá ser de carácter preventivo o correctivo, atendiendo a las causas que la motiven.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 101.
 
-La suspensión temporal de carácter preventivo procederá contra el personal policial que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, a juicio de la Comisión de Honor y Justicia, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
+La suspensión temporal de carácter preventivo procederá contra el personal policial que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, a juicio de la Comisión de Honor y Justicia, o del Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario, según corresponda, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general. Dicha suspensión subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente.
 
 En caso de que el personal policial resulte sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, tomando en consideración el ingreso mínimo vital que hayan percibido con motivo de la suspensión preventiva y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
@@ -1458,7 +1654,13 @@ IX. Conducir vehículos al servicio de la Secretaría sin contar con licencia de
 
 X. Elaborar boleta de sanción del Reglamento de Tránsito de la Ciudad de México de manera incorrecta sin seguir el procedimiento establecido, habiendo sido sancionado por la misma conducta en dos ocasiones dentro de los seis meses anteriores;
 
-XI. Causar daño por negligencia o falta inexcusable a los vehículos, equipo electrónico, Radares Móviles y demás equipo asignado, en los casos que se acredite que se ha reparado el daño, y
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XI. Causar daño por negligencia o falta inexcusable a los vehículos, equipo electrónico, Radares Móviles y demás equipo asignado, en los casos que se acredite que se ha reparado el daño;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XI Bis. Negarse a que se le realicen las correspondientes revisiones por cada salida y entrada a los centros penitenciarios donde desempeñe su servicio, y
 
 XII. Las demás que determine la Comisión de Honor y Justicia o establezcan otras disposiciones normativas.
 
@@ -1532,21 +1734,29 @@ XXX. Asistir uniformado a bares, cantinas, centros de apuestas y juegos, prostí
 
 XXXI. Por aquellas otras causas que determinen las disposiciones normativas en la materia.
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 104.
 
-Para efectos de la fracción II del artículo 103 de la Ley del Sistema, toda falta grave que contravenga los principios de actuación y que no constituya delito se harán (sic) del conocimiento de la Dirección General de Asuntos Internos para que ésta a su vez, derivado del análisis del asunto, remita aquellas que considere ante la Comisión de Honor y Justicia por escrito, acompañando el expediente que contenga la información que presuntamente acredite los hechos que se imputan al personal policial.
+Para efectos de la fracción II del artículo 103 de la Ley del Sistema y fracción II del artículo 139 de la Ley de Centros, toda falta grave que contravenga los principios de actuación y que no constituya delito se hará del conocimiento de la Dirección General de Asuntos Internos para que ésta a su vez, derivado del análisis del asunto, remita aquellas que considere ante la Comisión de Honor y Justicia y/o del Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario por escrito, acompañando el expediente que contenga la información que presuntamente acredite los hechos que se imputan al personal policial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 105.
 
-Las faltas graves que cometa el personal policial en contravención a las obligaciones previstas en el artículo 59 de la Ley del Sistema, serán hechas del conocimiento de la Dirección General de Asuntos Internos, anexando la información que presuntamente acredite los hechos que se le imputan para que ésta, en un plazo de ciento ochenta días naturales, emita opinión fundada y motivada sobre la presunta responsabilidad atribuible al o los integrantes de la policía relacionados con la misma; dicho plazo podrá ampliarse hasta por sesenta días naturales más, cuando la Dirección General de Asuntos Internos justifique fundadamente la necesidad de allegarse de mayores elementos de convicción para la debida integración de las carpetas de investigación.
+Las faltas consideradas como graves que cometa el personal policial previstas en el artículo 108 de la Ley del Sistema, así como las previstas en el artículo 137 de la Ley de Centros Penitenciarios, serán hechas del conocimiento de la Dirección General de Asuntos Internos, anexando la información que presuntamente acredite los hechos que se le imputan para que ésta, en un plazo de ciento ochenta días naturales, emita opinión fundada y motivada sobre la presunta responsabilidad atribuible al o los integrantes de la policía relacionados con la misma; dicho plazo podrá ampliarse hasta por sesenta días naturales más, cuando la Dirección General de Asuntos Internos justifique fundadamente la necesidad de allegarse de mayores elementos de convicción para la debida integración de las carpetas de investigación.
 
 En aquellos casos en que la complejidad de la investigación, derivado de las circunstancias de la conducta que se investiga, así como por el número de policías involucrados en la misma, dificulte concluir la investigación en los plazos establecidos en el párrafo que antecede, la Dirección General de Asuntos Internos podrá solicitar de manera fundada y motivada a la persona titular de la Secretaría, la autorización de ampliación del plazo, hasta por ciento veinte días naturales más, para concluir la investigación y emitir la opinión correspondiente.
 
-En caso de encontrar elementos que presuman responsabilidad o la comisión de faltas graves a los principios de actuación policial por parte de los elementos policiales adscritos a la Secretaría, la Dirección General de Asuntos Internos, dentro de los cinco días hábiles siguientes a la conclusión de la investigación, remitirá a la Dirección General de la Comisión de Honor y Justicia la carpeta de investigación correspondiente, para los efectos de los artículos 103 de la Ley del Sistema y 99 del presente Reglamento.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+En caso de encontrar elementos que presuman responsabilidad o la comisión de faltas graves a los principios de actuación policial por parte del personal policial, la Dirección General de Asuntos Internos, dentro de los cinco días hábiles siguientes a la conclusión de la investigación, remitirá a la Dirección General de los Órganos Colegiados de Honor y Justicia la carpeta de investigación correspondiente, para los efectos de los artículos 103 de la Ley del Sistema, 139 de la Ley de Centros Penitenciarios y 99 del presente Reglamento.
 
 Agotados los plazos sin que existan elementos para acreditar la falta, la Dirección General de Asuntos Internos ordenará el archivo de las indagatorias, asentando en Registro de Correctivos Disciplinarios y Sanciones Impuestas a Elementos de la Policía, su conclusión por falta de elementos, notificando en los casos procedentes al elemento investigado de dicha determinación.
 
-La Dirección General de Asuntos Internos entregará mensualmente a la Persona Titular de la Secretaría un informe que señale las indagatorias concluidas señalando aquellas en que se determinó sancionar a personal policial, las archivadas por falta de elementos y las turnadas a la Dirección General de la Comisión de Honor Justicia para los efectos correspondientes.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La Dirección General de Asuntos Internos entregará mensualmente a la persona titular de la Secretaría un informe que señale las indagatorias concluidas, señalando aquellas en que se determinó sancionar a algún integrante de la policía, las archivadas por falta de elementos y las turnadas a la Dirección General de los Órganos Colegiados de Honor Justicia para los efectos correspondientes.
 
 ###### Artículo 106.
 
@@ -1562,7 +1772,9 @@ I. Quejas y Denuncias;
 
 II. Correctivos Disciplinarios y Sanciones, y
 
-III. Procedimientos instaurados ante la Comisión de Honor y Justicia.
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+III. Procedimientos instaurados ante los Órganos Colegiados de Honor y Justicia.
 
 La información contenida en la base de datos del Registro se considera confidencial de acceso restringido por contener datos personales, de conformidad con lo dispuesto en la normatividad de la materia.
 
@@ -1638,15 +1850,19 @@ El órgano revisor únicamente podrá pronunciarse sobre los agravios formulados
 
 ### CAPÍTULO II. TRÁMITE DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 121.
 
-La Dirección General de Asuntos Jurídicos recepcionará el escrito de impugnación y solicitará a la Comisión de Honor y Justicia para que, en el término no mayor a tres días hábiles contados a partir de la solicitud, envíe el expediente administrativo.
+La Dirección General de Asuntos Jurídicos recepcionará el escrito de impugnación y solicitará al Órgano Colegiado de Honor y Justicia que corresponda, que en un término no mayor a tres días hábiles contados a partir de la solicitud, envíe el expediente administrativo de la resolución impugnada.
 
 ### CAPÍTULO III. SUBSTANCIACIÓN DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 122.
 
-Una vez que obre en la Dirección General de Asuntos Jurídicos, el expediente administrativo por parte de la Comisión de Honor y Justicia, se pronunciará sobre su admisión dentro de los tres días hábiles siguientes.
+Una vez que el expediente administrativo obre en la Dirección General de Asuntos Jurídicos, ésta se pronunciará sobre su admisión dentro de los tres días hábiles siguientes.
 
 ###### Artículo 123.
 
@@ -1691,3 +1907,21 @@ SÉPTIMO.- Los grados e insignias del personal policial se actualizarán únicam
 OCTAVO.- La Persona Titular de la Secretaría de Seguridad Ciudadana contará con un terminó no mayor a 120 días naturales para actualizar la normatividad complementaria que asegure el adecuado funcionamiento del Servicio Profesional de Carrera Policial.
 
 Dado en la Residencia Oficial de la Jefa de Gobierno de la Ciudad de México, a los 13 días del mes de noviembre de dos mil veinte. LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A la entrada en vigor del presente Decreto, las personas de nuevo ingreso a la Policía de Proximidad de la Ciudad de México que hayan causado alta en la Policía de Proximidad con el perfil de Custodia Penitenciaria, quedarán sujetos a las disposiciones previstas en el presente Reglamento.
+
+CUARTO. Se instruye a la Secretaría de Administración y Finanzas de la Ciudad de México y a la Secretaría de Seguridad Ciudadana, ambas de la Ciudad de México, para que a través de sus respectivas áreas encargadas de la administración de personal, se garantice que en la transferencia del personal del Sistema Penitenciario se lleven a cabo las evaluaciones de control de confianza para su permanencia, sujetándose al régimen administrativo que la Ley de Centros Penitenciarios de la Ciudad de México y demás normativa aplicable establecen. Asimismo, deberán prever que las plazas del personal transferido cuenten con las condiciones que permitan realizar movimientos ascendentes, de conformidad con la escala jerárquica de la carrera policial, en un plazo que no exceda 90 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México, a través de la Subsecretaría de Desarrollo Institucional, será la encargada de realizar las gestiones para que el personal de Seguridad y Custodia transferido se incorpore al Servicio Profesional de Carrera Penitenciaria.
+
+SEXTO. Los trámites y procedimientos administrativos de la Carrera Penitenciaria que fueron iniciados con anterioridad a la entrada en vigor del presente Reglamento, continuarán hasta su total conclusión conforme a la normativa vigente al momento de su inicio, por el Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario establecido en el Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México; mismo caso con relación a los asuntos y procedimientos relacionados con la aplicación de sanciones derivadas de faltas.
