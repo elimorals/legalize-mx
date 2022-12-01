@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-uniformes-condecoraciones-insignias-y-divisas-784
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-21"
-last_updated: "2011-01-21"
+last_updated: "2022-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-01-20"
 ---
 # REGLAMENTO DE UNIFORMES, CONDECORACIONES, INSIGNIAS, Y DIVISAS DE LA POLICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE UNIFORMES, CONDECORACIONES, INSIGNIAS, DIVISAS Y EQUIPO DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE UNIFORMES, CONDECORACIONES, INSIGNIAS, Y DIVISAS DE LA POLICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 21 de enero de 2011.
 
@@ -285,3 +287,31 @@ QUINTO.- La Subsecretaría de Desarrollo Institucional expedirá dentro de los 3
 SEXTO.- Las controversias que se susciten con motivo de la interpretación y alcance del presente Reglamento serán resueltos por la Subsecretaría de Desarrollo Institucional, previa opinión de la Dirección General de Asuntos Jurídicos.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de enero del año dos mil once. - EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, MANUEL MONDRAGÓN Y KALB.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO DE UNIFORMES, CONDECORACIONES, INSIGNIAS Y DIVISAS DE LA POLICÍA DEL DISTRITO FEDERAL, PUBLICADO EL 21 DE ENERO DE 2011 EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NO. 1017 Y SE EXPIDE EL REGLAMENTO DE UNIFORMES, CONDECORACIONES, INSIGNIAS, DIVISAS Y EQUIPO DE LA POLICÍA DE PROXIMIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de Uniformes, Condecoraciones, Insignias y Divisas de la Policía del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal no. 1017, el 21 de enero de 2011.
+
+CUARTO. Se deja sin efectos el Acuerdo por el que se instituye la Condecoración a la Excelencia Policial, que podrá ser Otorgada a los Elementos de la Secretaría de Seguridad Pública del Distrito Federal, que cumplan los requisitos establecidos en el presente instrumento, publicado en la Gaceta Oficial del Distrito Federal no. 55, el 18 de abril del 2002.
+
+QUINTO. Se deja sin efectos el Acuerdo No. 17 por el que se instituye la Condecoración Post Mortem al Valor Policial, misma que consistirá en Medalla y Diploma con las especificaciones que al efecto determine la Secretaría de Seguridad Pública del Distrito Federal y la cual se entregará a los deudos de los Elementos de la Policía del Distrito Federal que mueran Heroicamente en el cumplimiento de los servicios de Seguridad Pública que les hayan sido encomendados, publicado en la Gaceta Oficial del Distrito Federal no. 20 el 31 de marzo de 1997.
+
+SEXTO. Se dejan sin efectos los numerales Segundo y Tercero del Acuerdo por el que se instituye el día del Policía del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 22 de diciembre de 1995, en los cuales se establece la integración del jurado para la designación del Policía Distinguido, así como las personas a invitar a la ceremonia.
+
+SÉPTIMO. La expedición del Régimen de Condecoraciones, Reconocimientos, Estímulos y Recompensas, se regirá conforme a lo dispuesto (sic) el artículo 81 del Reglamento del Servicio Profesional de Carrera de la Policía de Proximidad de la Ciudad de México.
+
+OCTAVO. Se instruye a la persona titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México, a realizar las gestiones necesarias para la implementación del presente Reglamento.
+
+NOVENO. Queda en vigor el Manual de Uniformes, Condecoraciones, Insignias y Divisas de la Policía de Proximidad de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 26 de enero de 2018, en lo que no se oponga al presente Reglamento, hasta en tanto la Secretaría emita el Manual que lo sustituya.
+
+DÉCIMO. Las Unidades Administrativas Policiales en el ámbito de sus respectivas competencias, implementarán las acciones necesarias para el cumplimiento del presente Reglamento con cargo a su presupuesto, realizando las gestiones necesarias ante la Oficialía Mayor de la Secretaría.
+
+DÉCIMO PRIMERO. Las controversias que se susciten con motivo de la interpretación y alcance del presente Reglamento serán resueltas por la Secretaría, a través de la Subsecretaría de Desarrollo Institucional.
