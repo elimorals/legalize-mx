@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-tecnico-de-formacion-20"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-02-28"
-last_updated: "2001-07-17"
+last_updated: "2022-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1994-02-07"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TECNICO DE FORMACION POLICIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO TÉCNICO DE FORMACIÓN POLICIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 11 DE MARZO DE 1994 Y SE EXPIDE EL REGLAMENTO INTERIOR DE LA UNIVERSIDAD DE LA POLICÍA DE LA CIUDAD DE MÉXICO Y TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD DE LA POLICÍA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 1 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO TECNICO DE FORMACION POLICIAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE JULIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Reglamento Interior publicado en la Gaceta Oficial del Distrito Federal, el lunes 28 de febrero de 1994.
 
@@ -269,3 +271,25 @@ G.O. 17 DE JULIO DE 2001.
 PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Se derogan aquellas disposiciones que se opongan al presente.
+
+G.O. 1 DE DICIEMBRE DE 2022
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO INTERIOR DEL INSTITUTO TÉCNICO DE FORMACIÓN POLICIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 11 DE MARZO DE 1994 Y SE EXPIDE EL REGLAMENTO INTERIOR DE LA UNIVERSIDAD DE LA POLICÍA DE LA CIUDAD DE MÉXICO.</small>
+
+PRIMERO. Se abroga el Reglamento Interior del Instituto Técnico de Formación Policial, publicado en el diario oficial de la federación el 11 de marzo de 1994.
+
+SEGUNDO. Se expide el Reglamento Interior de la Universidad de la Policía de la Ciudad de México, para quedar de la siguiente manera:
+
+[...]
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA UNIVERSIDAD DE LA POLICÍA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento Interior del Instituto Técnico de Formación Policial, publicado en el Diario Oficial de la Federación el 11 de marzo de 1994.
+
+CUARTO. Los asuntos o procedimientos que con la entrada en vigor del presente Decreto se encuentren en trámite en las Unidades Administrativas, respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas que son transferidas, hasta en tanto se actualice la estructura orgánica y los Manuales de la Universidad.
+
+QUINTO. La Secretaría de Seguridad Ciudadana de la Ciudad de México deberá adecuar su estructura orgánica y actualizar sus Manuales Administrativos en los plazos y condiciones que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
