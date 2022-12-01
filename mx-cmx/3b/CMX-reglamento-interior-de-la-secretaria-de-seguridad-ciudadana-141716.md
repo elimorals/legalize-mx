@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2021-10-18"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -46,6 +46,10 @@ I. Ciudad: a la Ciudad de México;
 
 I Bis. Centros Penitenciarios: conjunto de establecimientos penitenciarios preventivos, de ejecución de sanciones penales, de reinserción psicosocial, Instituciones Abiertas Casas de Medio Camino y Centros de Sanciones Administrativas de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+I Ter. Consejo de Honor y Justicia: Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario;
+
 II. Ley: la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
@@ -58,7 +62,15 @@ II Ter. Ley Nacional: Ley Nacional de Ejecución Penal;
 
 III. Ley Orgánica: la Ley Orgánica de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+III Bis. Órganos Colegiados de Honor y Justicia: Comisión de Honor y Justicia de la Secretaría de Seguridad Ciudadana, y Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario;
+
 IV. Persona titular de la Secretaría: la persona Titular de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IV Bis. Personal policial: persona que, habiendo aprobado el Curso Básico de Formación Inicial y cumplidos los requisitos de ingreso y permanencia, cuenta con nombramiento de policía, constituyéndose como parte integrante del Servicio Profesional de Carrera Policial de la Policía de Proximidad de la Ciudad de México, incluido el Personal de Seguridad y Custodia;
 
 V. Policía: la Policía de Proximidad de la Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
@@ -121,6 +133,10 @@ b) Dirección General de la Policía Bancaria e Industrial.
 III. Órganos Colegiados:
 
 a) Comisión de Honor y Justicia.
+
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+b). Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario.
 
 2. Subsecretaría de Operación Policial:
 
@@ -222,7 +238,9 @@ a) Dirección General de Carrera Policial.
 
 b) Dirección General del Centro de Evaluación y Control de Confianza.
 
-c) Dirección General de la Comisión de Honor y Justicia.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+c) Dirección General de los Órganos Colegiados de Honor y Justicia.
 
 d) Dirección General de Seguridad Privada y Colaboración Interinstitucional.
 
@@ -438,9 +456,9 @@ XVIII. Proponer acciones orientadas a la prevención y control de ilícitos en a
 
 XIX. Supervisar en el ámbito de su competencia que se cumplan los requisitos y procedimientos establecidos por el Sistema de Carrera Policial;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XX. Solicitar la intervención de las Direcciones Generales de Asuntos Internos, del Centro de Evaluación y Control de Confianza, y de la Comisión de Honor y Justicia, para la realización de investigaciones, evaluaciones y sustanciación de procedimientos administrativos disciplinarios respecto de policías que hayan cometido faltas previstas en la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México y demás disposiciones aplicables; y
+XX. Solicitar la intervención de las Direcciones Generales de Asuntos Internos, del Centro de Evaluación y Control de Confianza, y de los Órganos Colegiados de Honor y Justicia, para la realización de investigaciones, evaluaciones y sustanciación de procedimientos administrativos disciplinarios respecto de personal policial que haya cometido faltas previstas en la Ley del Sistema de Seguridad Ciudadana de la Ciudad de México y demás disposiciones aplicables; y
 
 XXI. Las demás que le atribuya la normatividad vigente.
 
@@ -592,6 +610,10 @@ II. Diseñar los documentos normativos para el reclutamiento, selección, ingres
 
 II Bis. Colaborar en el establecimiento de las bases para la organización, funcionamiento y desarrollo del Servicio Profesional de Carrera de las y los integrantes del Sistema Penitenciario;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+II Ter. Supervisar que todos los planes, programas, proyectos y demás documentos normativos que rijan la actuación policial, incorporen de manera transversal la perspectiva de género con la finalidad de garantizar la igualdad sustantiva entre mujeres y hombres, así como ambientes laborales libres de violencia por razones de género.
+
 III. Proponer a la persona titular de la Secretaría, acciones para la profesionalización permanente de los integrantes de la Policía;
 
 IV. Emitir opinión sobre los lineamientos del Programa de Profesionalización, acorde a lo establecido en el Sistema de Carrera Policial;
@@ -606,7 +628,21 @@ VIII. Vigilar la correcta aplicación de los procedimientos disciplinarios, así
 
 IX. Diseñar e implementar programas para prevenir actos de corrupción del personal policial, mediante la impartición de cursos y talleres;
 
-X. Colaborar con la Comisión de Honor y Justicia y apoyar el desarrollo de sus funciones a través la Dirección General de la Comisión de Honor y Justicia;
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IX Bis. Asegurar el correcto funcionamiento de la Unidad Especializada de Género;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IX Ter. Promover, en el ámbito de su competencia, el cumplimiento de la actuación policial de los integrantes de la Policía de Proximidad, en lo relativo a violencias por razones de género;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IX Quater. Coordinar acciones con las áreas competentes al interior de la Secretaría para el auxilio inmediato y la protección de la integridad física y psicológica de mujeres víctimas de violencia (sic) género por personal de la Secretaría;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+X. Colaborar con los Órganos Colegiados de Honor y Justicia y apoyar el desarrollo de sus funciones a través de la Dirección General de los Órganos Colegiados de Honor y Justicia;
 
 XI. Dirigir el Registro de Personas y Empresas de Seguridad Privada;
 
@@ -930,9 +966,9 @@ VIII. Proponer al superior inmediato la entrega de reconocimientos y ascensos a 
 
 IX. Aplicar correctivos disciplinarios a los elementos de las unidades, agrupamientos y servicios a su cargo, en los términos de las disposiciones aplicables;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-X. Proporcionar a las Direcciones Generales de Asuntos Internos, de Asuntos Jurídicos, del Centro de Evaluación y Control de Confianza, y de la Comisión de Honor y Justicia, la información necesaria para la instrumentación de los procedimientos a cargo de dichas Unidades;
+X. Proporcionar a las Direcciones Generales de Asuntos Internos, de Asuntos Jurídicos, del Centro de Evaluación y Control de Confianza, y de los Órganos Colegiados de Honor y Justicia, la información necesaria para la instrumentación de los procedimientos a cargo de dichas Unidades;
 
 XI. Asegurar que el personal operativo adscrito a las áreas a su cargo cumpla con los programas de evaluación, actualización y profesionalización del Sistema de Carrera Policial, y
 
@@ -1012,13 +1048,13 @@ XI. Presentar ante el Ministerio Público las denuncias respectivas por hechos c
 
 XII. Ejecutar y llevar un registro de las órdenes de arresto dictadas por las autoridades jurisdiccionales y administrativas;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XIII. Representar a la Secretaría, a su titular, así como a las personas titulares de las Subsecretarías, Oficial Mayor, Coordinaciones Generales, Direcciones Generales Regionales, Direcciones Generales y Ejecutivas, integrantes de la Comisión de Honor y Justicia, así como a cualquier servidor público de la Secretaría, siempre y cuando continúen laborando en la misma, en los juicios o procedimientos en los que por ejercicio de sus funciones se encuentren involucrados;
+XIII. Representar a la Secretaría, a su titular, así como a las personas titulares de las Subsecretarías, Oficial Mayor, Coordinaciones Generales, Direcciones Generales Regionales, Direcciones Generales y Ejecutivas, integrantes de los Órganos Colegiados de Honor y Justicia, así como a cualquier servidor público de la Secretaría, siempre y cuando continúen laborando en la misma, en los juicios o procedimientos en los que por ejercicio de sus funciones se encuentren involucrados;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XIV. Defender jurídicamente a las personas servidoras públicas señaladas en la fracción que antecede, cuando con motivo del ejercicio de sus atribuciones y funciones, los órganos jurisdiccionales, administrativos o del trabajo, les impongan medidas de apremio, en los juicios en que intervengan;
+XIV. Representar jurídicamente a las personas servidoras públicas señaladas en la fracción que antecede, aún en su calidad de personas físicas, cuando con motivo del ejercicio de sus funciones los órganos jurisdiccionales, administrativos o del trabajo, les dicten medidas de apremio, en los juicios en que intervengan, siempre y cuando continúen laborando en la Secretaría;
 
 XV. Suplir a la persona titular de la Secretaría y suscribir en ausencia del mismo, los documentos necesarios, en los casos a que se refieren las fracciones VII y XIV de este artículo, así como en los asuntos que sean de su competencia;
 
@@ -1074,7 +1110,9 @@ XIV. Dar seguimiento a las observaciones y recomendaciones formuladas a las Unid
 
 XV. Emitir opinión fundada y motivada respecto a la procedencia de la aplicación de correctivos disciplinarios y comunicarlo al superior jerárquico del personal Policial sujeto a investigación, cuando finalizada la misma, se acredite que incurrieron en faltas al régimen disciplinario policial, que no constituyan una causa de destitución o suspensión correctiva, en los términos de la normatividad aplicable;
 
-XVI. Remitir a la Comisión de Honor y Justicia las carpetas de investigación administrativas, con la respectiva opinión fundada y motivada de solicitud de suspensión de carácter correctivo o en su caso de destitución del o los elementos investigados;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XVI. Remitir a la Comisión de Honor y Justicia o al Consejo de Honor y Justicia, según sea el caso, las carpetas de investigación administrativas, con la respectiva opinión fundada y motivada de solicitud de suspensión de carácter correctivo o en su caso de destitución del personal policial investigado;
 
 XVII. Recomendar el cese de comisión del personal policial de estructura, cuando se tenga acreditado que, en el cumplimiento del servicio o comisión, se cometieron actos atribuidos a estos que afecten la disciplina y buen funcionamiento de la Unidad Administrativa Policial de su adscripción;
 
@@ -1096,9 +1134,9 @@ XXV. Dar la intervención al Ministerio Público Federal o Local, según corresp
 
 XXVI. Solicitar a la Dirección General de Asuntos Jurídicos la presentación de denuncias o querellas, ante el Ministerio Público Federal o Local, según corresponda, en contra de servidores públicos de la Secretaría, que en su calidad de servidores públicos hayan cometido hechos que la ley señale como delito, como resultado de las investigaciones que al respecto realice;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XXVII. Solicitar a la Comisión de Honor y Justicia la suspensión temporal de carácter preventivo, cuando se cuente de manera indiciaria, con elementos y evidencia probatoria que el personal policial, realizó actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general;
+XXVII. Solicitar a la Comisión de Honor y Justicia o al Consejo de Honor y Justicia, según sea el caso, la suspensión temporal de carácter preventivo, cuando se cuente de manera indiciaria, con elementos y evidencia probatoria que el personal policial realizó actos u omisiones de los que puedan derivarse presuntas responsabilidades o imputaciones y cuya permanencia en el servicio, pudiera afectar a las Instituciones de Seguridad Ciudadana o a la comunidad en general;
 
 XXVIII. Brindar la colaboración, apoyo y auxilio a las autoridades ministeriales y judiciales federales o locales en la ejecución de órdenes de presentación, aprehensión o reaprehensión del personal Policial de la Secretaría requerido;
 
@@ -1244,7 +1282,9 @@ VIII. Asegurar el desarrollo de los procesos de supervisión, investigación y r
 
 IX. Vigilar el cumplimiento de las obligaciones del personal policial a su cargo;
 
-X. Vigilar el cumplimiento de las resoluciones de la Comisión de Honor y Justicia respecto del régimen disciplinario al personal policial adscrito y coadyuvar en los procedimientos de la Dirección General de Asuntos Internos;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+X. Vigilar el cumplimiento de las resoluciones de los Órganos Colegiados de Honor y Justicia, respecto del régimen disciplinario al personal policial adscrito, y coadyuvar en los procedimientos de la Dirección General de Asuntos Internos;
 
 XI. Consolidar los informes de los servicios y dispositivos desarrollados en su área geográfica para orientar la toma de decisiones;
 
@@ -1598,15 +1638,23 @@ VIII. Las demás que le atribuya la normatividad vigente.
 
 Son atribuciones de la Dirección General de Carrera Policial:
 
-I. Planear, implantar, dirigir, supervisar y evaluar el Servicio Profesional de Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-II. Elaborar los procedimientos de reclutamiento, selección, ingreso, reingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento, así como de la separación o baja del servicio que constituyen el Sistema de Carrera Policial del Servicio Profesional de Carrera Policial;
+I. Planear, implantar, dirigir, supervisar y evaluar el Servicio Profesional de Carrera Policial, y Penitenciaria;
 
-III. Diseñar los documentos normativos que regulen el Servicio Profesional de Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+II. Elaborar los procedimientos de reclutamiento, selección, ingreso, reingreso, formación, certificación, permanencia, evaluación, promoción, reconocimiento, así como de la separación o baja del servicio que constituyen el Sistema de Carrera Policial del Servicio Profesional de Carrera Policial, y Penitenciaria;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+III. Diseñar los documentos normativos que regulen el Servicio Profesional de Carrera Policial, y Penitenciaria;
 
 IV. Diseñar documentos normativos que regulen, orienten y sustenten la actuación policial;
 
-V. Elaborar y actualizar los Procedimientos, Instructivos y Formatos que se utilicen en el Servicio Profesional de Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+V. Elaborar y actualizar los Procedimientos, Instructivos y Formatos que se utilicen en el Servicio Profesional de Carrera Policial, y Penitenciaria;
 
 VI. Diseñar, ejecutar y evaluar el Programa para la Detección de Necesidades en materia de capacitación de la Policía de Proximidad;
 
@@ -1618,13 +1666,17 @@ IX. Validar los perfiles y descripción de los grados y jerarquías, para el rec
 
 X. Participar en el funcionamiento de las Comisiones Técnicas previstas en la Ley;
 
-XI. Proponer mecanismos de supervisión del desarrollo de la Carrera Policial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XI. Proponer mecanismos de supervisión del desarrollo de las Carrera (sic) Policial, y Penitenciaria;
 
 XII. Participar en el procedimiento de la emisión del Certificado Único Policial;
 
 XIII. Participar en los programas de evaluación del desempeño y evaluación de competencias;
 
-XIV. Diseñar, implantar y actualizar el Kardex policial para el desarrollo del servicio profesional de carrera policial, y
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XIV. Diseñar, implantar y actualizar el Kárdex policial para el desarrollo del servicio profesional de carrera policial, y penitenciaria;
 
 > <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -1650,7 +1702,9 @@ IV. Comunicar a la persona titular de la Secretaría, personas titulares de las 
 
 V. Administrar los sistemas informáticos autorizados, que contengan la información referente a los procesos de evaluación aplicados en los procedimientos de ingreso, permanencia, promoción, reingreso y para la revalidación, inclusión o exclusión de la Licencia Oficial Colectiva para la Portación de Armas de Fuego;
 
-VI. Colaborar con el Órgano Interno de Control, la Comisión de Honor y Justicia, Unidad de Asuntos Internos, así como con las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría, en los casos que sea procedente;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VI. Colaborar con el Órgano Interno de Control, los Órganos Colegiados de Honor y Justicia, la Unidad de Asuntos Internos, así como con las Unidades Administrativas y Unidades Administrativas Policiales de la Secretaría, en los casos que sea procedente;
 
 > <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -1682,6 +1736,10 @@ XIII. Recomendar la intervención de las Unidades Administrativas, Unidades Admi
 
 XIV. Establecer los procedimientos para la emisión del resultado integral único y definitivo obtenido en los procesos de evaluación aplicados, determinando su vigencia sin que exceda de tres años; sin perjuicio de poder efectuar evaluaciones durante dicho periodo a los servidores públicos en los casos en los que el superior jerárquico lo considere pertinente;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+XIV Bis. Formar y capacitar a personal evaluador en materia de control de confianza;
+
 > <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
 XV. Establecer los requisitos, lineamientos, estándares y criterios que deben reunir los procesos de evaluación requeridos para el ingreso o permanencia del personal de las empresas y corporaciones de seguridad privada;
@@ -1702,27 +1760,35 @@ XIX. Informar a la Dirección General de Seguridad Privada y Colaboración Inter
 
 XX. Las demás que le atribuya la normatividad vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 43.
 
-Son atribuciones de la Dirección General de la Comisión de Honor y Justicia:
+Son atribuciones de la Dirección General de los Órganos Colegiados de Honor y Justicia:
 
-I. Colaborar con la Comisión de Honor y Justicia en la substanciación de los procedimientos administrativos disciplinarios;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-II. Coordinar, supervisar y suscribir en auxilio de la Comisión de Honor y Justicia, todas las diligencias y actuaciones necesarias que sean necesarias para la substanciación de los procedimientos administrativos disciplinarios, con excepción de la resolución de los mismos;
+I. Coadyuvar y auxiliar a los Órganos Colegiados de Honor y Justicia en la substanciación de los procedimientos administrativos disciplinarios;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+II. Coordinar, supervisar y suscribir en auxilio de los Órganos Colegiados de Honor y Justicia, todas las diligencias y actuaciones que sean necesarias para la substanciación de los procedimientos administrativos disciplinarios, con excepción de la resolución de los mismos;
 
 III. Registrar las actas que se elaboren en contra del personal Policial, así como las recomendaciones y opiniones remitidas por las autoridades competentes de la Secretaría, para integrar el expediente respectivo;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-IV. Informar y, en su caso, restituir a las áreas que remitan actas por inasistencias injustificadas, recomendaciones y opiniones para fundar y motivar el inicio del procedimiento administrativo de responsabilidad, cuando en las mismas se detecten deficiencias o inconsistencias, a fin de que sean subsanadas;
+IV. Informar y, en su caso, restituir a las áreas que remitan actas por ausencias injustificadas, recomendaciones y opiniones para fundar y motivar el inicio del procedimiento administrativo de responsabilidad, cuando en las mismas se detecten deficiencias o inconsistencias, a fin de que sean subsanadas, y en caso de que éstas no sean subsanadas o no puedan ser prevenidas, emitir el acuerdo de no recibidas;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-V. Elaborar y suscribir en auxilio de la Comisión de Honor y Justicia los acuerdos de radicación que se emitan para el inicio del procedimiento administrativo disciplinario, así como de los Recursos de Rectificación que se interpongan en contra de los correctivos disciplinarios;
+V. Elaborar y suscribir en auxilio de los Órganos Colegiados de Honor y Justicia, los acuerdos de radicación que se emitan para el inicio del procedimiento administrativo disciplinario, así como de los Recursos de Rectificación que se interpongan en contra de los correctivos disciplinarios;
 
 VI. Suscribir los acuerdos de recepción de expediente y de documentos que deban integrarse al expediente del procedimiento administrativo disciplinario correspondiente;
 
-VII. Instruir la diligencia de notificación desde el inicio de procedimiento administrativo disciplinario y hasta la resolución que emita la Comisión de Honor y Justicia, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VII. Instruir la diligencia de notificación desde el inicio de procedimiento administrativo disciplinario y hasta la resolución que emitan los Órganos Colegiados de Honor y Justicia, de conformidad con la normativa aplicable;
 
 > <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -1732,17 +1798,17 @@ VIII. Suscribir la Cédula de Notificación de inicio de procedimiento y de las 
 
 IX. Suscribir todos los acuerdos y oficios que resulten necesarios durante la tramitación del procedimiento administrativo disciplinario; así como los oficios mediante los cuales se dé atención a las solicitudes realizadas por los policías pertenecientes o que hayan pertenecido a la Secretaría;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-X. Supervisar la elaboración de los acuerdos de suspensión temporal de carácter preventivo, programar mediante la sesión correspondiente, su presentación ante la Comisión de Honor y Justicia, para su discusión y en su caso, aprobación;
+X. Supervisar la elaboración de los acuerdos de suspensión temporal de carácter preventivo, programar mediante la sesión correspondiente, su presentación ante el Órgano Colegiado de Honor y Justicia que corresponda, para su discusión y en su caso, aprobación;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XI. Proponer los acuerdos de improcedencia del inicio del procedimiento administrativo disciplinario y someterlos a la aprobación de la Comisión de Honor y Justicia;
+XI. Emitir los acuerdos de improcedencia del inicio del procedimiento administrativo disciplinario, así como los de no presentados en los casos aplicables;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XII. Formular los proyectos de resolución y programar su presentación ante la Comisión de Honor y Justicia, así como de los Recursos de Rectificación interpuestos en contra de los correctivos disciplinarios, para su discusión y en su caso, aprobación en la sesión correspondiente;
+XII. Formular los proyectos de resolución y programar su presentación ante los Órganos Colegiados de Honor y Justicia, así como de los Recursos de Rectificación interpuestos en contra de los correctivos disciplinarios, para su discusión y en su caso, aprobación en la sesión correspondiente;
 
 > <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -1750,9 +1816,9 @@ XIII. Suscribir las Cédulas de Notificación, de inicio y de las respectivas re
 
 XIV. Colaborar en la determinación de los lineamientos y directrices para el otorgamiento de condecoraciones, estímulos y recompensas al personal policial;
 
-> <small>(REFORMADA, G.O. 18 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
-XV. Informar a las autoridades administrativas de la Secretaría sobre las resoluciones emitidas por la Comisión de Honor y Justicia, así como, las emitidas por la Dirección General de Asuntos Jurídicos en los Recursos de Revisión;
+XV. Informar a las autoridades administrativas de la Secretaría sobre las resoluciones emitidas por los Órganos Colegiados de Honor y Justicia, así como las emitidas por la Dirección General de Asuntos Jurídicos en los Recursos de Revisión;
 
 > <small>(ADICIONADA, G.O. 18 DE OCTUBRE DE 2021)</small>
 
@@ -2614,7 +2680,9 @@ III. Establecer los mecanismos que ejecutarán las Unidades Administrativas y Un
 
 IV. Autorizar los mecanismos para el control de los expedientes del personal, elaboración de nombramientos y los demás documentos correspondientes al personal adscrito a la Secretaría;
 
-V. Vigilar el cumplimiento de las disposiciones laborales y concertar las acciones necesarias para ello, así como ejecutar las resoluciones emitidas por la Comisión de Honor y Justicia;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+V. Vigilar el cumplimiento de las disposiciones laborales y concertar las acciones necesarias para ello, así como ejecutar las resoluciones emitidas por los Órganos Colegiados de Honor y Justicia;
 
 VI. Dirigir la integración del anteproyecto de presupuesto anual de servicios personales de la Secretaría;
 
@@ -2622,7 +2690,9 @@ VII. Coordinar y supervisar la entrega de estímulos y recompensas en los térmi
 
 VIII. (DEROGADA, G.O. 18 DE OCTUBRE DE 2021)
 
-IX. Coadyuvar en la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia, así como por Autoridades Jurisdiccionales, respecto de personal al servicio de la Secretaría;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+IX. Coadyuvar en la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia o el Consejo de Honor y Justicia, así como por Autoridades Jurisdiccionales, respecto del personal al servicio de la Secretaría;
 
 X. Formalizar el término de los efectos del nombramiento de personal adscrito a la Secretaría, en términos de la legislación y normatividad aplicable, y
 
@@ -2832,6 +2902,12 @@ I. Conocer y resolver los casos de suspensión temporal preventiva y correctiva 
 
 II. Conocer y resolver los casos de destitución del personal policial de la Policía de la Ciudad de México, de conformidad con lo establecido en la normatividad aplicable.
 
+> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 72.
+
+El Consejo de Honor y Justicia de la Subsecretaría del Sistema Penitenciario se regirá conforme a lo previsto en la Ley de Centros Penitenciarios de la Ciudad de México y su Reglamento así como por el Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana y demás normativa aplicable.
+
 ## TRANSITORIOS
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
@@ -2873,3 +2949,19 @@ TERCERO. Las disposiciones relativas a la substanciación de los recursos que po
 CUARTO. Los asuntos que, con la entrada en vigor del presente Decreto, se encuentren en trámite en las Unidades Administrativas respecto de las cuales se deroguen o modifiquen atribuciones, serán atendidos y resueltos por aquellas que son transferidas, hasta en tanto se actualice la estructura orgánica y los Manuales de la Secretaría.
 
 QUINTO. Las referencias hechas en otros ordenamientos, a las Unidades Administrativas que mediante el presente Decreto cambian de denominación, se entenderán hechas a aquellas que las sustituyan.
+
+G.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Todas las referencias hechas a la Dirección General de la Comisión de Honor y Justicia en otros ordenamientos, se entenderán realizadas a la Dirección General de los Órganos Colegiados de Honor y Justicia.
+
+CUARTO. Los recursos humanos, materiales, técnicos, tecnológicos y financieros de la Dirección General de la Comisión de Honor y Justicia, serán transferidos a la Dirección General de los Órganos Colegiados de Honor y Justicia, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables, y la Secretaría de Administración y Finanzas.
+
+QUINTO. Los asuntos competencia de la Dirección General de la Comisión de Honor y Justicia, seguirán siendo tramitados y resueltos por la Dirección General de los Órganos Colegiados de Honor y Justicia conforme a la normativa vigente al inicio del procedimiento.
+
+SEXTO. La Secretaría actualizará sus manuales en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
