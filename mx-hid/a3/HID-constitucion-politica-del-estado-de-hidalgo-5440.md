@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2022-06-22"
+last_updated: "2022-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -157,9 +157,9 @@ Artículo 5° Sin distinción alguna, todas y todos los habitantes del Estado ti
 
 La familia es el elemento natural y fundamental de la sociedad y tiene derecho a su protección y desarrollo, por la sociedad, el Estado y la ley.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-El hombre y la mujer son iguales ante la ley.
+La mujer y el hombre son iguales ante la ley.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -563,37 +563,45 @@ IV. (DEROGADA, P.O. 20 DE JUNIO DE 2016)
 
 ### CAPITULO III. DE LOS CIUDADANOS HIDALGUENSES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 16.
 
-Son ciudadanos del Estado, los Hidalguenses que habiendo cumplido 18 años, tengan un modo honesto de vivir.
+Son ciudadanos del Estado, las personas hidalguenses que habiendo cumplido 18 años, tengan un modo honesto de vivir.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-Son prerrogativas del ciudadano del Estado:
+Son prerrogativas de la ciudadanía hidalguense:
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-I.- Votar en las elecciones y consultas populares;
+I.- Votar en las elecciones, consultas populares, así como en los procesos de revocación de mandato que la legislación determine. La ciudadanía con residencia en el extranjero, podrá votar para la elección de Gobernador en los términos que señala la ley;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-II. Ser votado para todos los cargos de elección popular, con las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y con los requisitos, condiciones y términos que determine la legislación;
+II.- Poder ser votada en condiciones de paridad para todos los cargos de elección popular, con las calidades que establezca la ley. El derecho de solicitar el registro de candidatas y candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a las ciudadanas y los ciudadanos que soliciten su registro de manera independiente y con los requisitos, condiciones y términos que determine la legislación;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
 III. Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-IV. Ejercer en toda clase de negocios el derecho de petición, conforme a la Ley; y
+IV.- Ejercer en toda clase de negocios el derecho de petición, conforme a la Ley;
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-V. Ser nombrado para cualquier empleo o comisión del servicio público, con las calidades que establezca la legislación.
+V.- Ser nombrada para cualquier empleo o comisión del servicio público, con las calidades que establezca la legislación;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VI.- Ejercer cargos públicos en condiciones de igualdad y paridad, libre de todo tipo de violencia y discriminación, de conformidad con los requisitos de ingreso que la Ley establezca; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+VII.- Hacer uso de los mecanismos de participación ciudadana previstos en la legislación secundaria, conforme a los procedimientos establecidos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -609,9 +617,9 @@ II. Inscribirse en los Padrones Electorales, en los términos que determine la L
 
 III. Alistarse en la Guardia Nacional;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-IV. Votar en las elecciones y consultas populares, en los términos que señale la Ley;
+IV.- Votar en las elecciones y consultas populares, así como en los procesos de revocación de mandato, en los términos que señale la legislación secundaria;
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 1998)</small>
 
@@ -693,6 +701,10 @@ Las adiciones o supresiones a los nombres de los Municipios se podrán realizar 
 
 La soberanía del Estado, reside esencial y originariamente en el pueblo hidalguense, quien la ejerce por medio de los poderes constituidos en los términos de esta ley fundamental.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en los municipios. En la integración de los organismos autónomos se observará el mismo principio.
+
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 La renovación de los poderes legislativo y ejecutivo, al igual que la de los Ayuntamientos se realizará mediante elecciones libres, auténticas y periódicas, en las que podrán participar los partidos políticos nacionales y estatales, por sí mismos, en coaliciones o en candidaturas comunes, así como los candidatos independientes.
@@ -701,17 +713,17 @@ La renovación de los poderes legislativo y ejecutivo, al igual que la de los Ay
 
 De los partidos políticos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-I.- Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
+I.- Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden. En la postulación de sus candidaturas, se observará el principio de paridad de género.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en la postulación de candidaturas a diputaciones locales y de candidaturas para ayuntamientos, atendiendo los criterios de verticalidad y horizontalidad.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de los órganos de representación política y como organizaciones ciudadanas, hacer posible su acceso al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas que marque la ley electoral para garantizar la paridad de género, en la postulación de candidaturas a los distintos cargos de elección popular, atendiendo los criterios de verticalidad y horizontalidad.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
+Sólo los ciudadanos y ciudadanas podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
@@ -751,7 +763,9 @@ III. La organización de las elecciones estatales y municipales es una función 
 
 El Instituto Estatal Electoral será autoridad en la materia, independiente en sus decisiones, funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia, en los términos que señale la ley.
 
-Será facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones ordinarias y extraordinarias, cuando procedan.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+Es facultad del Consejo General del Instituto Estatal Electoral convocar a elecciones ordinarias y extraordinarias, así como a consulta popular y proceso de revocación de mandato.
 
 El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, en los términos que determine la ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, los derechos y prerrogativas de los partidos políticos, al padrón y lista de electores, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la ley, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, Diputados y Ayuntamientos, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. Las sesiones de todos los órganos colegiados de dirección serán en los términos que señale la ley.
 
@@ -761,9 +775,13 @@ El Consejo General del Instituto Estatal Electoral estará integrado por un Cons
 
 Durante el proceso electoral, concurrirán ante los órganos del Instituto Estatal Electoral, los representantes de los Candidatos Independientes en términos de ley, con derecho a voz.
 
-El consejero Presidente y los Consejeros Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Los Consejeros Electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
+La Consejera o Consejero Presidente y las personas Consejeras Electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+Las personas Consejeras Electorales y demás servidores públicos que establezca la ley, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.
 
 IV. Para garantizar la legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señale esta Constitución, y las leyes respectivas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, fijará los plazos convenientes para el desahogo de todas las instancias impugnativas y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación, en los términos de esta Constitución. Correspondiendo al Tribunal Electoral la aplicación del sistema mencionado.
 
@@ -833,29 +851,29 @@ La sede de cualesquiera de los Poderes podrá transladarse (sic) a otro sitio, c
 
 El ejercicio del Poder Legislativo se deposita en un órgano que se denominará "CONGRESO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO", cuya organización y funcionamiento estará regulado por su propia Ley.
 
-> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-#### SECCION II. DE LA ELECCION DE DIPUTADOS E INSTALACION DEL CONGRESO
+#### SECCIÓN II. DE LA ELECCIÓN DE DIPUTADAS Y DIPUTADOS E INSTALACIÓN DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 29.
 
-El Congreso se integra por 18 Diputados de mayoría electos por votación directa, secreta y uninominal mediante el sistema de distritos electorales y 12 Diputados electos según el principio de representación proporcional, quienes como resultados (sic) de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
+El Congreso se integra por 18 Diputadas y Diputados de mayoría electos por votación directa, secreta y uninominal mediante el sistema de distritos electorales, así como por 12 Diputadas y Diputados electos según el principio de representación proporcional, quienes como resultados de la misma elección se designarán mediante el procedimiento que la Ley de la materia establezca.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 30.
 
-Los Diputados de mayoría relativa y de representación proporcional, son representantes del pueblo y tienen la misma categoría e iguales derechos y obligaciones.
+Las Diputadas y Diputados de mayoría relativa y de representación proporcional, son representantes del pueblo y tienen la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
 Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género, en términos de lo que establezca la ley.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
-Los diputados tienen la obligación de informar en el mes de agosto de cada año, sobre las actividades desempeñadas durante su ejercicio constitucional.
+Las Diputadas y Diputados tienen la obligación de informar en el mes de agosto de cada año, sobre las actividades desempeñadas durante su ejercicio constitucional.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1585,6 +1603,16 @@ El ciudadano electo para suplir las faltas temporales o absolutas del Gobernador
 
 El Gobernador del Estado, podrá ausentarse de la Entidad, sin licencia del Congreso o de la Diputación Permanente, por un plazo que no exceda de treinta días.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 70 Bis.
+
+En el Estado de Hidalgo, el mandato de Gobernador podrá ser revocado en los términos establecidos en esta Constitución y la legislación secundaria.
+
+La solicitud deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional, por un número equivalente, al menos, al diez por ciento de la lista nominal de electores del Estado de Hidalgo, en la mitad más uno de los municipios del Estado; podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta; será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta. La jornada de votación se efectuará en fecha posterior y no coincidente con procesos electorales o de participación ciudadana, locales o federales y quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
+
+La legislación secundaria, establecerá las bases, procedimientos y mecanismos para la realización de un proceso de revocación de mandato.
+
 > <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 #### SECCION II. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
@@ -2041,6 +2069,10 @@ V. Las ausencias del Fiscal Especializado en Delitos de Corrupción, serán supl
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y Jueces del Fuero Común y en un Tribunal de Justicia Administrativa, en los términos de esta Constitución y su Ley Orgánica.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+
+El Poder Judicial deberá observar el principio de paridad de género en el ámbito de su competencia.
+
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 1998)</small>
 
 Será representante del Poder Judicial del Estado de Hidalgo, quien desempeñe el cargo de Presidente del Tribunal Superior de Justicia.
@@ -2071,11 +2103,11 @@ Los magistrados y los jueces en el Estado, tendrán independencia en el ejercici
 
 Las leyes garantizarán a dichos servidores públicos una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo, así como los reconocimientos al desempeño de su función, que les aseguren el digno ejercicio de la misma y establecerán las condiciones para su ingreso, formación y permanencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia, el Tribunal de Justicia Administrativa y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas.
+El Tribunal Superior de Justicia, el Tribunal de Justicia Administrativa y el Tribunal Electoral estarán integrados por el número de magistrados que establezcan las leyes orgánicas respectivas, observando el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -2593,11 +2625,13 @@ Cada municipio será gobernado por un Ayuntamiento de elección popular directa 
 
 El Ayuntamiento es el órgano de Gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 124.
 
-Los Ayuntamientos se integran por un Presidente, los Síndicos y los Regidores que establezca la Ley respectiva.
+Los Ayuntamientos se integran por un Presidente o Presidenta Municipal, las sindicaturas y las regidurías que establezca la Ley respectiva, de conformidad con el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la ley de la materia.
 
@@ -4226,3 +4260,19 @@ SEXTO. La Fiscalía General del Estado, una vez en funciones, deberá proveer lo
 SÉPTIMO. El Poder Legislativo en coordinación con el Poder Ejecutivo, deberán implementar las medidas presupuestales y administrativas necesarias para la correcta transición de la Procuraduría General de Justicia a la Fiscalía General de Justicia como organismo autónomo. Las partidas presupuestales deberán señalarse de manera inmediata en el presupuesto de egresos siguiente al ejercicio fiscal en que se publique el presente Decreto. Este presupuesto deberá destinarse al diseño y planeación estratégica, los cambios organizacionales y de gestión, la construcción y operación de la infraestructura, el equipamiento y las tecnologías de la información y comunicación propias del órgano autónomo y la profesionalización necesaria para el personal de la Institución.
 
 OCTAVO. El Poder Legislativo del Estado garantizará que los fondos y recursos destinados a la procuración de justicia sean progresivos, excepto en los casos y términos que el propio Congreso del Estado establezca, al aprobar el presupuesto de egresos.
+
+P.O. 1 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 315 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los 90 días siguientes a la publicación del presente Decreto, se deberán realizar las adecuaciones necesarias a la legislación secundaria en materia de revocación de mandato.
+
+TERCERO. En relación con las autoridades que no se renuevan mediante procesos electorales, su integración y designación habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
+
+Asimismo, el Poder Ejecutivo velará por el mismo principio, en su facultad de nombrar a las y los Magistrados del Tribunal Superior de Justicia y Magistrados del Tribunal de Justicia Administrativa.
+
+CUARTO. El Poder Judicial en el ámbito de su respectiva competencia, observará el principio de paridad de género, aplicando preferentemente procedimientos de concursos abiertos.
+
+QUINTO. Para efectos de la fracción I del artículo 17, entrará en vigor 180 días después de su publicación en el Periódico Oficial del Estado de Hidalgo y una vez que se realicen las adecuaciones en el Código Electoral para el Estado de Hidalgo.
