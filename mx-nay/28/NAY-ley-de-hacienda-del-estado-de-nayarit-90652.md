@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2021-12-10"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -53,11 +51,27 @@ DEL IMPUESTO SOBRE JUEGOS Y APUESTAS PERMITIDAS Y SOBRE RIFAS, LOTERÍAS Y SORTE
 
 Son objeto del impuesto:
 
-I. Los Juegos y las apuestas permitidas de cualquier clase y que se realicen en el Estado;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-II. La venta total de billetes o boletos para participar en rifas, loterías, sorteos y concursos que se celebren en el Estado, y
+I. Los ingresos percibidos por la organización de Juegos con apuestas permitidas, independientemente del nombre con el que se les designe, que se realicen en el Estado, pudiendo ser:
 
-III. La obtención de premios derivados de rifas, loterías, sorteos y concursos, cuyos boletos o comprobantes de participación se hayan enajenado en el Estado.
+a) Aquellos en los que el premio se pueda obtener por el azar o la destreza del participante en el uso de máquinas.
+
+b) Los que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otros similares.
+
+c) Las apuestas remotas de eventos, competencias deportivas o cualquier juego permitido, efectuado en territorio nacional o en el extranjero, transmitidos en tiempo real y de forma simultánea en video o audio, o ambos.
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+II. La venta total de billetes o boletos para participar en rifas, loterías, sorteos y concursos que se celebren en el Estado;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+III. Los ingresos percibidos por la obtención de premios, derivados de la participación en rifas, loterías, sorteos, juegos con apuestas y concursos de toda clase, cuyos boletos o comprobantes de participación se hayan enajenado en el Estado, independientemente de donde se celebre el evento, y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+IV. Las erogaciones que realicen las personas físicas dentro del territorio del Estado, para participar en juegos con apuestas.
 
 #### SECCIÓN SEGUNDA. De los Sujetos
 
@@ -69,17 +83,51 @@ I. Los propietarios o quienes exploten los establecimientos domiciliados en el E
 
 II. Las personas físicas o morales que organicen juegos y/o exploten apuestas permitidas;
 
-III. Las personas que organicen rifas, loterías y sorteos que se celebren en el Estado, y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-IV. Las personas que sean beneficiadas por premios de las rifas, loterías, sorteos y concursos, cuyos boletos o comprobantes se enajenen en el Estado.
+III. Las personas que organicen rifas, loterías y sorteos que se celebren en el Estado;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+IV. Las personas que sean beneficiadas por premios de las rifas, loterías, sorteos y concursos, cuyos boletos o comprobantes se enajenen en el Estado, y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+V. Las personas físicas que realicen erogaciones para participar en juegos con apuestas que se realicen u organicen dentro del territorio del Estado.
 
 El impuesto que resulte conforme a esta fracción, será retenido por las personas que hagan los pagos de los premios, debiendo enterarlo en los términos del presente capítulo
 
-#### SECCIÓN TERCERA. De la Cuota
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. De la Base y las Tasas
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 3.
 
-Este impuesto se causará y pagará conforme a las cuotas y tasas que señale la Ley de Ingresos del Estado.
+La base del impuesto será como a continuación se establece:
+
+I. Respecto a los juegos y apuestas permitidas será el importe total de los billetes y demás comprobantes que permitan participar en las apuestas que se cruce;
+
+II. Para rifas, loterías y sorteos, la base será el importe total de los boletos vendidos;
+
+III. Sobre los premios obtenidos la base será el monto total de este, y
+
+IV. Se consideran erogaciones para participar en juegos con apuestas, las cantidades que se entreguen por concepto de acceso y utilización de máquinas o instalaciones relacionadas con los juegos con apuestas, cualquiera que sea el nombre con el que se les designe, así como las cargas y recargas adicionales que se realicen mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio, que permitan participar en los juegos con apuestas, ya sea que dichas erogaciones se utilicen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 3 Bis.
+
+Este impuesto se causará y pagará conforme a las tasas que se señalan a continuación:
+
+I. Respecto a los juegos y apuestas permitidas se calculará aplicando la tasa del 4%;
+
+II. Para rifas, loterías y sorteos, la tasa a aplicar será de 8%;
+
+III. Sobre los premios obtenidos la tasa a aplicar será del 6%, y
+
+IV. Referente a las erogaciones para participar en juegos con apuestas se le aplicará una tasa del 10%.
 
 #### SECCIÓN CUARTA. Del Pago
 
@@ -91,13 +139,21 @@ El pago de los impuestos que establece este Título, se hará en los formatos of
 
 I. El impuesto sobre juegos y apuestas permitidas, se calculará mensualmente y se pagará a más tardar el día diez del mes siguiente a aquel en que corresponda el pago;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-II. El impuesto sobre la venta total de billetes o boletos para participar en rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate, y
+II. El impuesto sobre la venta total de billetes o boletos para participar en rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-III. El impuesto por la obtención de premios derivados de rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate.
+III. El impuesto por la obtención de premios derivados de rifas, loterías, sorteos y concursos, en un término no mayor de 15 días a partir de la fecha en que se haya realizado la rifa, lotería, sorteo o concurso de que se trate, y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+IV.- Referente al Impuesto a las Erogaciones que se realicen en juegos con apuestas, el operador del establecimiento en el que se realicen los juegos con apuestas, deberá retener el impuesto al momento de recibir el pago o contraprestación correspondiente, debiendo enterarlo ante las oficinas recaudadora (sic) a más tardar el día 10 del mes siguiente a aquel al que corresponda su retención.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Los operadores de los establecimientos en los que se realicen juegos con apuestas, están obligados a expedir comprobantes por las retenciones realizadas, en los que conste expresamente y por separado el importe retenido.
 
 #### SECCIÓN QUINTA. De las Obligaciones
 
@@ -133,6 +189,10 @@ Las Personas Morales que reciban la prestación de un servicio profesional o arr
 
 También están obligadas al pago de este impuesto, las personas físicas no residentes en el Estado, que presten servicios profesionales en el Estado, a través de establecimientos permanentes, por los ingresos atribuibles a éstos.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Los contribuyentes comprendidos en las fracciones I y II de este artículo que tributen en los términos del Capítulo II y III del Título IV de la Ley del Impuesto sobre la Renta, calcularán y enterarán el impuesto que corresponda en los términos establecidos en las Secciones Segunda, Tercera y Cuarta de este Capítulo.
+
 ###### Artículo 8.
 
 Cuando una persona física realice en un año de calendario, erogaciones superiores a los ingresos que hubiere declarado, las autoridades fiscales procederán como sigue:
@@ -161,29 +221,33 @@ Cuando un contribuyente tenga bases fijas en dos o más Entidades Federativas, p
 
 Para los efectos de esta Sección se consideran ingresos por la prestación de servicios profesionales, los provenientes de la prestación de un servicio personal independiente. Se entiende que los ingresos por la prestación de un servicio personal independiente, los obtiene en su totalidad quien presta el servicio.
 
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá en lo que corresponda, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y a los Capítulos II, Sección I, y X, todos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+En lo relativo a los ingresos y a las deducciones de este impuesto se atenderá en lo que corresponda, adicionalmente a lo previsto en esta Ley, lo establecido en el apartado correspondiente a Disposiciones Generales y al Título IV Capítulo II, Sección I de la Ley del Impuesto Sobre la Renta.
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas e instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas.
+Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, a más tardar el día 10 del mes inmediato posterior a aquél al que corresponda el pago, mediante declaración que presentarán ante las oficinas e instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas.
 
-El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit.
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo a que se refiere el artículo anterior. Al resultado que se obtenga se le aplicará la tasa del 3%.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente el monto que resulte de aplicar la tasa del 1.5% sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse a más tardar el día 10 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
 
-Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener por concepto del impuesto correspondiente el monto que resulte de aplicar la tasa del 1.5% sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos en el año, las deducciones autorizadas para el mismo periodo. Al resultado se le aplicará la tasa del 3%. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos en el año, las deducciones autorizadas para el mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas e instituciones de crédito autorizadas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales, cubrirán como pago provisional a cuenta del impuesto anual, el monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Nayarit, sobre los ingresos percibidos, sin deducción alguna.
+Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales, cubrirán como pago provisional a cuenta del impuesto anual, el monto que resulte de aplicar la tasa del 3%, sobre los ingresos percibidos, sin deducción alguna.
 
-El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 17 días siguientes a la obtención del ingreso. Estos contribuyentes quedarán relevados de la obligación de llevar libros y registros.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 10 días siguientes a la obtención del ingreso. Estos contribuyentes quedarán relevados de la obligación de llevar libros y registros.
 
 Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
 
@@ -233,9 +297,11 @@ Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles, l
 
 Los ingresos en crédito se declararán y se calculará para efectos del pago de este impuesto, hasta el mes de calendario en que concluyo el uso o goce del inmueble en que sean cobrados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 18.
 
-Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección podrán efectuar las deducciones, que corresponda, a lo establecido en el apartado relativo a la (sic) Disposiciones Generales y a los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+Las personas que obtengan ingresos por los conceptos a que se refiere esta Sección, podrán efectuar las deducciones, que corresponda, a lo establecido en el apartado relativo a la (sic) Disposiciones Generales y al Título IV, Capítulo III, Sección I y IV de la Ley del Impuesto Sobre la Renta.
 
 Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35% de los ingresos a que se refiere este capítulo, en substitución de las deducciones a que este artículo se refiere. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del impuesto predial de dichos inmuebles correspondiente al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
 
@@ -249,17 +315,19 @@ La parte proporcional a que se refiere el párrafo que antecede, se calculará c
 
 Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el ejercicio, las deducciones a que se refiere el primer párrafo de este artículo, se aplicaran únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al que se otorgue dicho uso o goce.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-Los contribuyentes que obtengan ingresos de los señalados en esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa que fije anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas, teniendo como fecha límite de presentación a más tardar el día 17 del mes inmediato siguiente al mes que corresponde el pago.
+Los contribuyentes que obtengan ingresos de los señalados en esta Sección, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio que se pagará a la tasa del 5%, que se aplicará a los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles disminuyendo las deducciones autorizadas por esta ley en ese período. El entero de los pagos provisionales se realizará en las oficinas e instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas, teniendo como fecha límite de presentación a más tardar el día 10 del mes inmediato siguiente al mes que corresponde el pago.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 2.5% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención de forma mensual; dichas retenciones deberán enterarse, a más tardar el día 10 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría de Administración y Finanzas. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
 
-Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 1.5% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención de forma mensual; dichas retenciones deberán enterarse, a más tardar el día 17 del mes inmediato posterior a aquel al que corresponda la retención mediante los formatos autorizados por la Secretaría de Administración y Finanzas. El impuesto retenido en los términos de este párrafo, podrá acreditarse contra el que resulte de conformidad con el párrafo anterior.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-El impuesto del ejercicio se calculará anualmente y se pagará a la tasa que establezca anualmente la Ley de Ingresos del Estado de Nayarit, que se aplicará a la totalidad de los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas.
+El impuesto del ejercicio se calculará anualmente y se pagará a la tasa del 5%, que se aplicará a la totalidad de los ingresos por arrendamiento y en general por otorgar el uso o goce temporal de bienes inmuebles, disminuyendo las deducciones autorizadas por esta ley en ese ejercicio. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año a que se refiere el artículo anterior. La declaración del ejercicio deberá presentarse a más tardar el día 30 de abril del año siguiente al que corresponda el pago en las oficinas o instituciones de crédito autorizadas por la Secretaría de Administración y Finanzas.
 
 ###### Artículo 21.
 
@@ -309,7 +377,9 @@ Cuando el contribuyente obtenga ingresos de los previstos en esta Ley y no prese
 
 ## TÍTULO SEGUNDO. SOBRE EL PATRIMONIO
 
-### CAPÍTULO I. DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES MUEBLES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO I. DEL IMPUESTO SOBRE COMPRAVENTA VEHICULAR
 
 #### SECCIÓN PRIMERA. Del Objeto
 
@@ -331,9 +401,11 @@ Servirá de base para el pago del impuesto a que se refiere este Título, el val
 
 #### SECCIÓN CUARTA. De la Cuota
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 28.
 
-Este impuesto se causará y pagará conforme a las cuotas y tasas que señala la Ley de Ingresos del Estado.
+Este impuesto se causará y pagará a la tasa del 2%.
 
 #### SECCIÓN QUINTA. Del Pago
 
@@ -599,7 +671,9 @@ Los retenedores calcularán el impuesto aplicando la tasa referida en el artícu
 
 I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual, y
 
-II. Los retenedores deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar, a más tardar el día 10 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior. La obligación de presentar declaración bimestral subsistirá aun cuando no hubiese cantidad a pagar.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+II. Los retenedores deberán realizar pagos mensuales provisionales a cuenta del impuesto anual a pagar, dentro de los primeros 10 días de calendario del mes siguiente a aquel en que se causó o se retuvo, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el mes inmediato anterior. La obligación de presentar declaración mensual subsistirá aun cuando no hubiese cantidad a pagar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2021)</small>
 
@@ -759,15 +833,21 @@ El impuesto se calculará mensualmente y se pagará a más tardar el día diez d
 
 Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de estos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 72.
 
-Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 67 de esta Ley, a quienes a su vez venderán las citadas bebidas, estarán obligados a retener el 3% y a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 75 fracción II de esta Ley.
+Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el artículo 67 de esta Ley, a quienes a su vez venderán las citadas bebidas, estarán obligados a retener el 4.5% y a llevar un registro mensual de ventas a estas personas, debiendo recabar de ellos y conservar una copia del registro ante el Estado de la obligación a que se refiere el artículo 75 fracción II de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Dicha retención, deberán enterarla en las mismas fechas que establece el artículo 71 de esta Ley, en las formas oficiales autorizadas por la Secretaría de Administración y Finanzas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 También deberán entregar constancia de la retención realizada a las personas que enajenaron las bebidas, para dar validez al acreditamiento que estos tienen derecho a realizar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 Quienes no cumplan con el registro mensual a que se refiere el primer párrafo de este artículo, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
 
@@ -835,29 +915,35 @@ La base de los impuestos adicionales, será el monto de lo que pague por concept
 
 #### SECCIÓN QUINTA. Para el Fomento de la Educación
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 79.
 
 Los impuestos adicionales se causarán y harán efectivos en el momento en que se paguen los impuestos, derechos y productos que establezca la Ley de Ingresos del Estado.
 
 #### SECCIÓN SEXTA. Para la Asistencia Social
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 80.
 
-Este impuesto se causará y pagará conforme a la tarifa que fije la Ley de Ingresos del Estado.
+Este impuesto se causará y pagará conforme a la tasa del 25%.
 
 #### SECCIÓN SÉPTIMA. Para la Universidad Autónoma de Nayarit
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 81.
 
-Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado.
+Este impuesto se causará y pagará conforme a la tasa del 15%.
 
 #### SECCIÓN OCTAVA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 82.
 
-Este impuesto se causará y pagará conforme a las tasas que señala la Ley de Ingresos del Estado y previene la Ley del Patronato para Administrar el citado impuesto.
+Este impuesto se causará y pagará conforme a la tasa del 15%.
 
 #### SECCIÓN PRIMERA. Del Objeto
 
@@ -865,7 +951,7 @@ Este impuesto se causará y pagará conforme a las tasas que señala la Ley de I
 
 ###### Artículo 83.
 
-Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos respecto de los premios obtenidos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
+Se exime del pago de los impuestos adicionales a que se refiere este Capítulo, al Impuesto sobre Nóminas; al Impuesto al Hospedaje; a los Impuestos Cedulares por Prestación de Servicios, Arrendamiento y en general por otorgar el uso o goce de Bienes Inmuebles y por Actividades Empresariales; al Impuesto sobre Tenencia o uso de Vehículos nuevos y de hasta nueve años modelo anterior; al Impuesto a la Venta de Bebidas con Contenido Alcohólico; al Impuesto sobre Juegos y Apuestas permitidas, sobre Rifas, Loterías y Sorteos; y los Derechos por Registro Público de la Propiedad por hipotecas sobre créditos para vivienda de interés social.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE NÓMINAS
 
@@ -1007,7 +1093,9 @@ IV. Cuando el contribuyente no entregue la información solicitada o no atienda 
 
 V. Cuando no se cuente con registro en el padrón estatal de contribuyentes, no se presenten declaraciones o no se pague oportunamente el importe del Impuesto Sobre Nóminas, o se pague el impuesto de forma incorrecta, respecto de las remuneraciones al trabajo personal subordinado relacionado con el ramo de la construcción de bienes inmuebles, se estimarán las erogaciones de conformidad a los costos de mano de obra por metro cuadrado para la obra privada, así como los factores de mano de obra de los contratos de obra pública que rigen las diversas leyes sobre la materia, acorde con la determinación de salarios mínimos que mediante resolución emite el H. Consejo de Representantes de la Comisión Nacional de Salarios Mínimos la cual fija los salarios mínimos generales y profesionales.
 
-#### SECCIÓN PRIMERA. Diversos Aprovechamientos
+#### SECCIÓN PRIMERA. Del Objeto
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 91.
 
@@ -1035,15 +1123,117 @@ VI. Conservar la documentación comprobatoria del pago de las remuneraciones obj
 
 VII. Las personas físicas y jurídico colectivas que reciban las prestaciones del trabajo personal y que no hagan erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicio ante la oficina recaudadora que corresponda a su domicilio y proporcionar los datos que identifiquen a la persona física o jurídica colectiva que haga dichas erogaciones, así como el número total de personas que presten el trabajo.
 
-### CAPÍTULO ÚNICO. DE LOS DERECHOS
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-#### SECCIÓN SEGUNDA. De Las Participaciones Federales
+### CAPÍTULO V. DEL IMPUESTO A LA INDUSTRIA DE EXTRACCIÓN DE MATERIALES PÉTREOS EN TRANSPORTE DE VEHÍCULOS O CAMIONES DE VOLTEO
 
-#### SECCIÓN TERCERA. Ingresos Extraordinarios
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. De los Sujetos
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 91 Bis.
+
+Es objeto de este impuesto el transporte de materiales pétreos, desde su origen, es decir, desde el Banco de Materiales Pétreos legalmente autorizado, independientemente de su destino final.
+
+Se consideran materiales pétreos aquellos que por su naturaleza semejante a los componentes del terreno, tales como roca, o productos de descomposición, arena, grava, jal, tepetate, tezontle, arcilla, o cualquier otro material derivado de rocas que sea susceptible de ser utilizado como material de construcción, como agregado para la fabricación de estos como elementos (sic) ornamental, siempre que no sean preciosas conforme a lo señalado en el artículo 4 de la Ley Minera, mezclas de minerales no metálicos y las sustancias terrosas, y demás minerales o metálicos, así como los agregados pétreos, las piedras y sustrato o capa fértil, el caolín, las rocas y el material en greña.
+
+Cuando el contribuyente omita registrar los ingresos a que se refiere este impuesto, estos podrán ser determinados por la autoridad fiscal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN TERCERA. De la Base
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 91 Ter.
+
+Son sujetos del pago de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado transporten materiales pétreos y los derivados a que se refiere el artículo anterior.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN CUARTA. De la Tasa
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 91 Quater.
+
+Es base de este impuesto el volumen de materiales pétreos o de los derivados a que se refiere este capítulo, que se trasladen en territorio del Estado, y que se determinará conforme al volumen transportado
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN QUINTA. Del Pago
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Artículo 91 Sexties.- El pago de este impuesto deberá efectuarse dentro de los primeros 10 días del mes siguiente en que ocurran las actividades a que se refiere el Artículo 91 Bis de este Capítulo, mediante declaración que presentarán en las formas autorizadas por las (sic) Secretaría de Administración y Finanzas.
+
+Cuando los contribuyentes cuenten con sucursales en diversos municipios del Estado, deberán presentar declaración por cada una de las sucursales.
+
+Las personas físicas o morales que tengan su domicilio fiscal en otro Estado, deberán pagar conforme a lo establecido en esta Ley y en el artículo 1° del Código Fiscal del Estado de Nayarit, el Impuesto por traslado de Materiales Pétreos que se cause por los actos o actividades realizadas dentro del territorio del Estado de Nayarit.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 91 Quinquies.
+
+El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se transporte de los materiales objeto de este impuesto, conforme a lo siguiente:
+
+MATERIAL PÉTREO CUOTA
+
+Rocas o productos de descomposición. 0.20 UMA
+
+Arenas. 0.20 UMA
+
+Gravas. 0.20 UMA
+
+MATERIAL PÉTREO CUOTA
+
+Jal. 0.20 UMA
+
+Tepetate. 0.20 UMA
+
+Arcillas. 0.20 UMA
+
+Tezontle. 0.20 UMA
+
+Rocas. 0.20 UMA
+
+Agregados Pétreos. 0.20 UMA
+
+Piedra. 0.20 UMA
+
+Material en Greña. 0.20 UMA
+
+El destino de lo recaudado por este impuesto será aplicado a la restauración, mantenimiento y rehabilitación de los caminos rurales y carreteras estatales, y con el fin de fomentar la protección al medio ambiente y promover que las empresas extraccioncitas (sic) sean socialmente responsables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEXTA. De las Obligaciones de los Contribuyentes
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. Diversos Aprovechamientos
+
+###### Artículo 91 Septies.
+
+Son obligaciones de los contribuyentes de este impuesto las siguientes:
+
+I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se realicen los actos o actividades objeto de este impuesto;
+
+II. Inscribirse en el Registro Estatal de Contribuyentes, y
+
+III. Llevar un libro de registros de transportación de Materiales Pétreos, en el que se hará constar diariamente la cantidad en metros cúbicos de material que se transportó.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 91 Octies.
+
+La Secretaría de Administración y Finanzas podrá establecer procedimientos para que los contribuyentes de este impuesto, opten por pagar el mismo mediante una cuota fija mensual, la que será determinada por una estimativa que practiquen las autoridades fiscales. Para ello, las autoridades obtendrán el valor estimado mensual de las actividades por el que el contribuyente este obligado al pago de esto (sic) impuesto, pudiendo considerar el valor estimado de dichas actividades durante un año calendario, en cuyo caso dicho valor se dividirá entre doce para obtener el valor de las actividades estimadas.
 
 ## TÍTULO CUARTO. DERECHOS
 
-### CAPITULO ÚNICO. DE LA CONTRIBUCIÓN POR MEJORAS POR OBRAS DE INFRAESTRUCTURA PUBLICA
+### CAPÍTULO ÚNICO. DE LOS DERECHOS
 
 ###### Artículo 92.
 
@@ -1065,17 +1255,25 @@ El funcionario o empleado público que contravenga lo dispuesto anteriormente, s
 
 Los derechos se pagarán de conformidad con las tasas y cuotas que establezca la Ley de Ingresos del Estado y a falta de disposición expresa, la autoridad fiscal determinará su monto teniendo en cuenta el costo que para el Estado tenga la prestación del servicio.
 
-> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 95-A.
 
-El Padrón Vehicular del Estado, estará a cargo de la Secretaría de Administración y Finanzas, en el cual se inscribirán los vehículos que por mandato de la Ley de Tránsito y Transportes del Estado, deban de estar registrados, portar placas y tarjetas de circulación asignadas por el Gobierno del Estado.
+El Padrón de Vehículos del Estado de Nayarit, estará a cargo de la Secretaría de Administración y Finanzas, en el cual se inscribirán los vehículos que, por mandato de la Ley de Movilidad del Estado de Nayarit, deban de estar registrados, portar placas y tarjetas de circulación asignadas por el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 Los propietarios de los vehículos refrendarán su registro y pagarán los derechos de control vehicular a más tardar el 31 de marzo de cada año.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 En el Padrón a que se refiere el primer párrafo, sólo procederá el registro de los trámites por Inscripción, Cambios, Rectificaciones y Bajas, para lo cual los contribuyentes deberán acreditar la propiedad del vehículo, la residencia o domicilio en el Estado, así como no tener adeudos por contribuciones estatales derivadas por la tenencia o uso de dicho vehículo ya sea en esta o en cualquier otra Entidad Federativa.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 La Secretaría de Administración y Finanzas mantendrá actualizado el Padrón Vehicular, para lo cual verificará y comprobará la veracidad de los documentos aportados para los diversos trámites que deberán efectuarse ante las oficinas recaudadoras de rentas.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 Los propietarios de los vehículos deberán pagar los derechos correspondientes por cualquiera de los siguientes trámites:
 
@@ -1093,13 +1291,17 @@ f) Verificación de Documentos para comprobar la legítima procedencia a vehícu
 
 g) Verificación de adeudos pendientes de vehículos procedentes de otros Estados, nacionales o extranjeros
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+
 Para dar de alta un vehículo de procedencia extranjera se deberá acreditar la legal estancia del mismo, en los términos previstos en la Ley Aduanera y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
 
 Para obtener la baja en el Padrón o realizar el canje de placas, además de pagar el derecho correspondiente, será preciso devolver las placas respectivas, salvo en los casos de robo o destrucción, situación que deberá acreditar con la denuncia o información testimonial correspondiente.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO ÚNICO. DE LOS PRODUCTOS DIVERSOS
+### CAPITULO ÚNICO. DE LA CONTRIBUCIÓN POR MEJORAS POR OBRAS DE INFRAESTRUCTURA PUBLICA
 
 ###### Artículo 96.
 
@@ -1325,7 +1527,7 @@ El ingreso que se perciba por este concepto, será destinado para el desarrollo 
 
 ## TÍTULO SEXTO. PRODUCTOS
 
-### CAPÍTULO ÚNICO. DISPOSICIONES APLICABLES AL PROCEDIMIENTO
+### CAPÍTULO ÚNICO. DE LOS PRODUCTOS DIVERSOS
 
 ###### Artículo 112.
 
@@ -1336,6 +1538,8 @@ Quedan comprendidos como productos, los ingresos que obtiene el Estado por activ
 Los productos que perciba el Estado se regularán por los contratos o convenios que se elaboren y su importe deberá enterarse en la recaudación de rentas correspondiente, en los plazos, términos y condiciones que en los mismos se establezcan o por disposiciones que al respecto señala la Ley de Ingresos del Estado.
 
 ## TÍTULO SÉPTIMO. DE OTROS INGRESOS
+
+#### SECCIÓN SEGUNDA. De Las Participaciones Federales
 
 ###### Artículo 114.
 
@@ -1371,6 +1575,8 @@ Los ingresos que el Estado obtenga por los Conceptos señalados en los incisos B
 
 También participará de dicho estímulo indirectamente el personal de la Secretaría de Administración y Finanzas, que para tal efecto determine el Secretario en los lineamientos que se emitan anualmente.
 
+#### SECCIÓN TERCERA. Ingresos Extraordinarios
+
 ###### Artículo 116.
 
 Quedan comprendidas dentro de esta clasificación, los ingresos que obtenga el Estado, provenientes de su adhesión al Sistema Nacional de Coordinación Fiscal, así como por la realización de diversas actas de acuerdo con lo estipulado en el Convenio de Colaboración Administrativa y sus anexos, celebrado entre el Gobierno del Estado y el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
@@ -1382,6 +1588,8 @@ Quedan comprendidos también en este Capítulo, otros ingresos que el gobierno d
 Son ingresos extraordinarios aquellos que la Hacienda Pública del Estado, perciba cuando por las circunstancias especiales el Estado se coloque en la situación de hecho o de derecho para obtenerlos.
 
 ## TÍTULO OCTAVO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO
+
+### CAPÍTULO ÚNICO. DISPOSICIONES APLICABLES AL PROCEDIMIENTO
 
 ###### Artículo 118.
 
@@ -1480,3 +1688,11 @@ Lo establecido en el presente artículo surtirá efectos a partir del mes de mar
 TERCERO.- El aumento en la tasa para el cobro del Impuesto sobre Hospedaje, se llevará a cabo de manera progresiva en los siguientes dos años, es decir, para el ejercicio fiscal 2022 el aumento será del 3% al 4%, por lo que, hasta el ejercicio fiscal 2023 la tasa del impuesto será del 5%.
 
 CUARTO.- Para la implementación del cobro de Contribuciones por Mejoras para Obras de Impacto Vial, el Titular del Poder Ejecutivo del Estado, dentro de los 90 días contados a partir de la entrada en vigor de la presente Ley emitirá las reglas de carácter general que regulen el cobro, procedimientos, administración y destino del ingreso recaudado por este concepto en general.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El Presente Decreto entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Para la implementación del cobro del Impuesto a la Industria de Extracción de Materiales Pétreos en Transporte de Vehículos o Camiones de Volteo, el Titular del Poder Ejecutivo del Estado, dentro de los 90 días contados a partir de la entrada en vigor del presente Decreto, emitirá las Reglas de Carácter General que regulen el cobro, procedimientos, administración y destino del ingreso recaudado por este concepto.
