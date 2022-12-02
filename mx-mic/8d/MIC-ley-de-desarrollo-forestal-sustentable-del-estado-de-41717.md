@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2022-02-18"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -203,9 +203,7 @@ I. Diseñar, formular y aplicar la política forestal en el Estado;
 
 II. Diseñar, organizar y establecer el Servicio Estatal Forestal;
 
-> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2022)</small>
-
-III. La autorización de cambio de uso de suelo en terrenos forestales, por excepción, previa opinión técnica de los miembros del Consejo Estatal Forestal y con base en los estudios técnicos justificativos cuyo contenido se establecerá en el Reglamento, los cuales demuestren que la biodiversidad de los ecosistemas que se verán afectados se mantenga, y que la erosión de los suelos, el deterioro de la calidad del agua o la disminución en su captación se mitiguen en las áreas afectadas por la remoción de la vegetación forestal, y mediando depósito de compensación ambiental para que se lleven a cabo acciones de restauración de los ecosistemas que se afecten, en los términos y condiciones que establezca el Reglamento. Esta facultad será exclusiva del Titular del Poder Ejecutivo Estatal sin que pueda delegarla a organismo alguno;
+III. (DEROGADA, P.O. 2 DE DICIEMBRE DE 2022)
 
 IV. Impulsar en el ámbito de su competencia el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los usuarios del sector, con la participación de los ayuntamientos;
 
@@ -1854,3 +1852,9 @@ P.O. 18 DE FEBRERO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 215 POR EL QUE “SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 7 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
