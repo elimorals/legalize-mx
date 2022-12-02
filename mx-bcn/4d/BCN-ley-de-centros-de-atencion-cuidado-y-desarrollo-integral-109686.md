@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-centros-de-atencion-cuidado-y-desarrollo-integral-109686
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-29"
-last_updated: "2018-12-28"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Baja California, el viernes 29 de mayo de 2015.
 
@@ -525,9 +525,17 @@ XII.- Las demás que les señale esta ley y otras disposiciones legales.
 
 ## TÍTULO IV. DE LAS MEDIDAS DE SALUD, SEGURIDAD Y PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 49.
 
 Los Centros de Atención se sujetarán a las disposiciones de esta Ley y deberán prestar atención física, psicológica, sanitaria, alimentaria y educación inicial.
+
+En los Centros de Atención Infantil, se deberán instalar equipos y sistemas tecnológicos para la captación, grabación de imágenes y sonidos como una medida de seguridad adicional para prevenir cualquier riesgo o emergencia que se presente en las instalaciones, salvaguardando la integridad de las personas menores de edad en términos de las disposiciones legales aplicables.
+
+La captación, grabación de imágenes y sonidos a los que se refiere este artículo, se resguardaran por un periodo de 5 años y se pondrán a disposición inmediata de las autoridades competentes que así lo requieran.
+
+Los equipos y sistemas tecnológicos para la captación y grabación de imágenes y sonidos deberán operar de conformidad con lo dispuesto en los reglamentos de la presente ley.
 
 ###### Artículo 50.
 
@@ -836,3 +844,11 @@ P.O. 28 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 284 MEDIANTE EL CUAL SE APRUEBA LA REFORMA (SIC) LOS ARTÍCULOS 3, 9, 12, 28, 30, 35 Y 38 DE LA LEY DE CENTROS DE ATENCIÓN CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 170 MEDIANTE EL CUAL SE APRUEBA LA REFORMA (SIC) ARTÍCULO 49 DE LA LEY DE CENTROS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado y los Municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 90 días naturales, contados al día siguiente de la publicación del presente Decreto, para realizar las modificaciones reglamentarias correspondientes.
