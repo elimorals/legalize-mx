@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-produccion-artesanal-del-estado-de-baja-859
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-20"
-last_updated: "2015-02-20"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 20 de enero de 2012.
 
@@ -43,9 +43,11 @@ LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público y de interés social, sus disposiciones se aplicarán en todo el territorio del Estado, teniendo estas por objeto, preservar, fomentar, promover, rescatar e impulsar el desarrollo de la actividad artesanal en lo económico y en lo cultural, facilitar la organización y operación de unidades de producción, reconocer al artesano como productor y proteger las artesanías como patrimonio cultural.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-Corresponde la aplicación de esta Ley al Poder Ejecutivo del Estado por conducto de las Secretarías de Desarrollo Económico, de Desarrollo Social y del Trabajo y Previsión Social, sin perjuicio de las atribuciones que otras leyes otorguen a otras autoridades federales, estatales o municipales.
+Corresponde la aplicación de esta Ley al Poder Ejecutivo del Estado por conducto de las Secretarías de Economía e Innovación, de Bienestar y del Trabajo y Previsión Social, sin perjuicio de las atribuciones que otras leyes otorguen a otras autoridades federales, estatales o municipales.
 
 ###### Artículo 3.
 
@@ -59,9 +61,11 @@ III.- Producción Artesanal.- La actividad económica de transformación cuyo pr
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-La Secretaría de Desarrollo Económico, tendrá las siguientes atribuciones:
+La Secretaría de Economía e Innovación, tendrá las siguientes atribuciones:
 
 I.- Promover las artesanías producidas en el Estado, en los mercados local, nacional e internacional, organizando exposiciones, editando videos típicos sobre las artesanías y, en general, realizar todas las acciones tendientes al desarrollo de esta producción artesanal;
 
@@ -73,23 +77,31 @@ III.- Auxiliar a los artesanos, orientándolos y brindándoles información y as
 
 IV.- Integrar un catálogo de artesanías por localidad y/o región, identificando las materias primas que las conforman, así como el tipo de artesanía de que se trata, conforme al procedimiento dispuesto en el capítulo VIII de la Ley de Preservación del Patrimonio Cultural del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 5.
 
-Para la difusión de las artesanías y abrir líneas de mercado local, nacional e internacional, la Secretaría de Desarrollo Económico deberá convenir acciones con las siguientes dependencias:
+Para la difusión de las artesanías y abrir líneas de mercado local, nacional e internacional, la Secretaría de Economía e Innovación deberá convenir acciones con las siguientes dependencias:
 
 a). La Secretaría de Turismo del Estado;
 
-b). La Secretaría de Comercio y Fomento Industrial;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+b). La Secretaría de Economía;
 
 c). La Secretaría de Relaciones Exteriores;
 
-d). El instituto Nacional Indigenista; y
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+d). El Instituto Nacional de Pueblos Indígenas;
 
 e). Las demás que determinen las leyes o lo permitan sus atribuciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-A la Secretaría de Desarrollo Social le corresponderán las siguientes acciones:
+A la Secretaría (sic) Bienestar le corresponderán las siguientes acciones:
 
 I.- Procurar la organización de los artesanos como personas físicas, como personas morales o como unidades de producción artesanal;
 
@@ -99,17 +111,25 @@ III.- Auxiliar a los artesanos del Estado en sus trámites ante dependencias fed
 
 IV.- Apoyar a los artesanos para que realicen los trámites necesarios para que se les reconozca como autores y se les registre en el Registro de Derechos de Autor y obtengan el documento que proteja la titularidad de derechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 7.
 
-Para la preservación y rescate de las artesanías en el Estado, la Secretaría de Desarrollo Social establecerá los convenios necesarios con las siguientes dependencias:
+Para la preservación y rescate de las artesanías en el Estado, la Secretaría de Bienestar establecerá los convenios necesarios con las siguientes dependencias:
 
-a). El Instituto de Cultura de Baja California;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-b). La Secretaría de Educación y Bienestar Social;
+a). La Secretaría de Cultura del Estado;
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+b). La Secretaría de Educación;
 
 c). El Instituto Nacional de Antropología e Historia;
 
-d). La Dirección General de Culturas Populares;
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+d). La Dirección General de Culturas Populares, Indígenas y Urbanas;
 
 e). El Consejo Nacional para la Cultura y las Artes; y
 
@@ -151,17 +171,21 @@ Para efectos de esta ley, el proceso productivo artesanal comprende desde la obt
 
 Los artesanos y sus unidades de producción artesanal, a través de las autoridades señaladas en el Capítulo II de esta Ley, así como a través de diversas instituciones y organismos, del nivel gubernamental estatal o municipal, recibirán asesoramiento en los procesos productivos, diseño, tecnología, control de calidad, empaque, embalaje y demás aspectos propios de la producción.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 13.
 
-Los artesanos y sus unidades de producción artesanal podrán solicitar a la Secretaría de Desarrollo Social la asesoría necesaria para mejorar sus procesos de producción, sobre todo en lo que hace a la adquisición de maquinaria, herramientas y materias primas.
+Los artesanos y sus unidades de producción artesanal podrán solicitar a la Secretaría de Bienestar la asesoría necesaria para mejorar sus procesos de producción, sobre todo en lo que hace a la adquisición de maquinaria, herramientas y materias primas.
 
 ###### Artículo 14.
 
 Los artesanos y sus unidades de producción artesanal, recibirán orientación y apoyo en sus gestiones ante las dependencias que correspondan, para implementar acciones de cuidado al medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración (sic) productos artesanales.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-En aquellos procesos de producción de artesanías en donde se usen materiales o se generen residuos o subproductos riesgosos a la salud o al medio ambiente, los artesanos contarán con el apoyo de la Secretaría Desarrollo Social, para que por su conducto, la Secretaria de Protección al Ambiente los auxilie en el manejo y disposición final de residuos y registro de sus procesos ante las autoridades ambientales.
+En aquellos procesos de producción de artesanías en donde se usen materiales o se generen residuos o subproductos riesgosos a la salud o al medio ambiente, los artesanos contarán con el apoyo de la Secretaría (sic) Bienestar, para que por su conducto, la Secretaria de Medio Ambiente y Desarrollo Sustentable los auxilie en el manejo y disposición final de residuos y registro de sus procesos ante las autoridades ambientales.
 
 ### CAPÍTULO V. DEL FINANCIAMIENTO
 
@@ -169,19 +193,25 @@ En aquellos procesos de producción de artesanías en donde se usen materiales o
 
 Los artesanos que se organicen con apego a lo dispuesto en esta Ley, tendrán el reconocimiento a su personalidad jurídica y podrán acceder a créditos preferenciales y a programas de inversión de las instituciones oficiales, para el fomento e impulso de su producción artesanal.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 17.
 
-A solicitud de los artesanos o sus unidades de producción artesanal, la Secretaría de Desarrollo Social los auxiliará en la integración de solicitudes y expedientes técnicos para obtener financiamiento ante instituciones crediticias.
+A solicitud de los artesanos o sus unidades de producción artesanal, la Secretaría de Bienestar los auxiliará en la integración de solicitudes y expedientes técnicos para obtener financiamiento ante instituciones crediticias.
 
 ### CAPÍTULO VI. DE LA CAPACITACIÓN Y LA INVESTIGACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 18.
 
-Para apoyar la capacitación de los artesanos, la Secretaría de Desarrollo Social registrará a los artesanos con nivel de maestros artesanos y solicitará a la Secretaria del Trabajo y Previsión Social para que promueva cursos y talleres de capacitación, en donde los instructores sean artesanos del Estado.
+Para apoyar la capacitación de los artesanos, la Secretaría de Bienestar registrará a los artesanos con nivel de maestros artesanos y solicitará a la Secretaría de Bienestar para que promueva cursos y talleres de capacitación, en donde los instructores sean artesanos del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Desarrollo Social buscará los mecanismos necesarios para que, en coordinación con la Secretaría de Educación y Bienestar Social, se establezcan talleres-mercado de artesanías, en donde puedan sistematizarse planes y programas de estudio en materia de artesanías, abarcando las áreas de producción, organización, administración y comercialización, buscando la eficacia, competitividad y excelencia de la actividad artesanal.
+La Secretaría de Bienestar buscará los mecanismos necesarios para que, en coordinación con la Secretaría de Educación, se establezcan talleres-mercado de artesanías, en donde puedan sistematizarse planes y programas de estudio en materia de artesanías, abarcando las áreas de producción, organización, administración y comercialización, buscando la eficacia, competitividad y excelencia de la actividad artesanal.
 
 ###### Artículo 20.
 
@@ -191,23 +221,31 @@ Se propiciarán las acciones tendientes a la realización de estudios, investiga
 
 Se promoverá por parte de la Secretaría del Trabajo y Previsión Social, la capacitación para la operación de las unidades de producción en sistemas administrativos, contables, de planeación fiscal, de registro de derechos de autor y de propiedad intelectual.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 22.
 
-La Secretaría de Desarrollo Social, a solicitud de los artesanos, realizará los trámites necesarios ante dependencias federales que correspondan, para promover el intercambio de técnicas, experiencias y formas de producción artesanal con grupos étnicos o de artesanos del interior del país.
+La Secretaría de Bienestar, a solicitud de los artesanos, realizará los trámites necesarios ante dependencias federales que correspondan, para promover el intercambio de técnicas, experiencias y formas de producción artesanal con grupos étnicos o de artesanos del interior del país.
 
 ### CAPÍTULO VII. DE LAS ACCIONES DE PROMOCIÓN Y COMERCIALIZACIÓN A LAS ARTESANÍAS
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-Con la finalidad de promover los productos artesanales que se producen en el Estado, la Secretaría de Desarrollo Económico, incluirá la participación de los artesanos en las exposiciones comerciales y productivas en que participe el Gobierno del Estado. Asimismo procurará la realización de exposiciones de productos artesanales en ferias locales y regionales.
+Con la finalidad de promover los productos artesanales que se producen en el Estado, la Secretaría de Economía e Innovación, incluirá la participación de los artesanos en las exposiciones comerciales y productivas en que participe el Gobierno del Estado. Asimismo procurará la realización de exposiciones de productos artesanales en ferias locales y regionales.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 24.
 
-Para apoyar la comercialización de los productos artesanales, la Secretaría de Desarrollo Económico en coordinación con la Secretaría de Turismo del Estado, realizará anualmente estudios de mercado local, nacional e internacional, y los pondrá a disposición de los artesanos o sus unidades de producción que los soliciten.
+Para apoyar la comercialización de los productos artesanales, la Secretaría de Economía e Innovación en coordinación con la Secretaría de Turismo del Estado, realizará anualmente estudios de mercado local, nacional e internacional, y los pondrá a disposición de los artesanos o sus unidades de producción que los soliciten.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Secretaría de Desarrollo Social, a través de la Secretaría de Planeación y Finanzas, así como a las Instituciones de Asistencia Privada promover y concertar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales, además de aquellos que se considere favorezcan la dignificación de la familia artesanal.
+Corresponde a la Secretaría de Bienestar, a través de la Secretaría de Hacienda, así como a las Instituciones de Asistencia Privada promover y concertar acciones para que los artesanos cuenten con apoyos sociales y estímulos fiscales, además de aquellos que se considere favorezcan la dignificación de la familia artesanal.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -242,3 +280,9 @@ SECRETARIO GENERAL DE GOBIERNO
 P.O. 20 DE FEBRERO DE 2015.
 
 ÚNICO.- La presente adición entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 171 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 5, 6, 7, 13, 15, 17, 18, 19, 22, 23, 24 Y 25 DE LA LEY DE FOMENTO A LA PRODUCCIÓN ARTESANAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
