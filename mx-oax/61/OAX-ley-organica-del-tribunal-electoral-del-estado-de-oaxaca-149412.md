@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-electoral-del-estado-de-oaxaca-149412
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-05-06"
-last_updated: "2021-05-06"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
+(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 170/2022 Y SU ACUMULADA 172/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 677 MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 28 BIS A LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOS DE DICIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 5 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 6 de mayo de 2021.
 
@@ -404,6 +406,14 @@ En caso de presentarse alguna vacante temporal que no exceda de tres meses por p
 ###### Artículo 28.
 
 Tratándose de una vacante definitiva de alguna de las Magistradas o Magistrados, ésta será comunicada, por conducto de la Presidencia, a la Cámara de Senadores para que se provea el procedimiento de sustitución que prevé la Ley General. Las vacantes temporales que excedan de tres meses, serán consideradas como definitivas.
+
+(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 170/2022 Y SU ACUMULADA 172/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 677 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 5 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 28 Bis.
+
+Para el caso de que concluya el periodo para el que fue designado un Magistrado o Magistrada del Tribunal Electoral del Estado de Oaxaca, y el Senado de la Republica no haya hecho la designación de la persona que deba sustituirlo en el cargo, aquel o aquella continuará desempeñando el cargo de Magistrada o Magistrado Electoral, hasta en tanto el Senado de la Republica haga la designación correspondiente.
 
 ###### Artículo 29.
 
@@ -1472,3 +1482,19 @@ QUINTO. Respecto a los dos años que durará la Magistrada o Magistrado en la Pr
 Dado en el Recinto Legislativo del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 17 de marzo de 2021.- Dip. Arcelia López Hernández, Vicepresidenta.- Dip. Rocío Machuca Rojas, Secretaria.- Dip. Saúl Cruz Jiménez, Secretario.- Dip. Maritza Escarlet Vásquez Guerra, Secretaria.- Rúbricas.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 21 de abril de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 26 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 170/2022 Y SU ACUMULADA 172/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 677 MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 28 BIS A LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DOS DE DICIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 5 DE JULIO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 677.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 28 BIS A LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El presente Decreto no constituye de manera alguna la ratificación o reelección en el cargo del Magistrado o Magistrada en funciones, una vez que se dé la designación por parte del Senado de la República se hará la entrega-recepción.
+
+CUARTO. Quedan derogadas todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
