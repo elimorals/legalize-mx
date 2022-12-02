@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2022-08-31"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -989,6 +989,10 @@ V. Efectuar el registro de las condiciones generales de trabajo.
 
 Tan pronto reciba la demanda o el primer escrito relativo a un conflicto individual, colectivo o sindical, el Presidente del Tribunal de Conciliación y Arbitraje citará a las partes dentro de las veinticuatro horas siguientes a una audiencia de conciliación que deberá llevarse a cabo dentro del término de tres días contados a partir de la fecha de la citación. En esta audiencia procurará avenir a las partes; de celebrarse convenio, se elevará a la categoría de laudo ejecutoriado. Si no se avienen, remitirá el expediente a la Secretaría de Acuerdos del Tribunal para que se proceda al arbitraje de conformidad con el procedimiento que establece este capítulo.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Tratándose de conflictos de carácter individual, en la audiencia a que se refiere el párrafo anterior, y de no haber acuerdo conciliatorio entre las partes; se procederá a la apertura de la audiencia de ofrecimiento y recepción de pruebas, alegatos y resolución.
+
 ###### ARTICULO 98.
 
 En el procedimiento ante el Tribunal de Conciliación y Arbitraje no se requiere forma o solemnidad especial en la promoción o intervención de las partes.
@@ -1286,3 +1290,11 @@ P.O. 31 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 186 POR EL QUE "SE REFORMAN LAS FRACCIONES VI Y VII Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 22; Y, SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONA LA FRACCIÓN III DEL ARTÍCULO 22 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
 
 ÚNICO. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 212 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 97 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, para los efectos legales conducentes.
+
+Segundo. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación.
