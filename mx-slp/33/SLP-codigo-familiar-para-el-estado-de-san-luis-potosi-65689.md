@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2022-11-22"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -95,9 +95,11 @@ Las y los extranjeros que se encuentren temporal, o definitivamente en el territ
 
 Las instituciones públicas de asistencia social, públicas y privadas dedicadas a la atención de las familias, que estén debidamente certificadas por el órgano rector de la asistencia social en el Estado, realizarán cursos de preparación matrimonial, de fortalecimiento de la unión conyugal, para fomentar los valores y actitudes que consoliden la estabilidad y armonía de la familia.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 9°.
 
-En caso de conflicto de derechos que tenga relación con las o los menores de edad, y a falta de disposición expresa en este Código, se aplicará lo establecido en la Ley Sobre los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí.
+En caso de conflicto de derechos que tenga relación con las o los menores de edad; de violencia en contra de mujeres embarazadas, o por razones de género, y a falta de disposición expresa en este Código, se aplicará lo establecido en la Ley Sobre los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí; o la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, según sea el caso.
 
 ## TITULO SEGUNDO. DE LA FAMILIA
 
@@ -129,11 +131,11 @@ Para efectos de salvaguarda de ese derecho, en caso de separación, los padres e
 
 Las y los miembros de la familia están obligados a evitar toda conducta de violencia familiar que tenga por efecto causar un daño a otra persona. La violencia familiar se define como el uso de la fuerza física o moral, o las omisiones que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física, psíquica, sexual, o las tres, y que produzca o no lesiones.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 13.
 
-La violencia familiar puede ser denunciada por cualquiera persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; de las personas adultas mayores, o de personas con discapacidad.
+La violencia familiar puede ser denunciada por cualquiera persona, ante el Ministerio Público para los efectos a que haya lugar; de manera particular, cuando el maltrato se infrinja en contra de las o los menores; personas adultas mayores; personas con discapacidad; mujeres embarazadas; o cuando se produzca por razones de género.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -661,11 +663,13 @@ III. Durante el matrimonio el demandante no haya adquirido bienes propios, o hab
 
 La autoridad judicial al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo circunstancias como son: la edad y el estado de salud; la cualificación profesional y las probabilidades de acceso a un empleo; el tiempo dedicado o que se dedicará a los hijos; la colaboración con su trabajo en las actividades mercantiles, industriales o profesionales del otro cónyuge; la duración del matrimonio y de la convivencia conyugal; la pérdida eventual de un derecho de pensión; el caudal y los medios económicos y las necesidades de uno y otro cónyuge; y cualquier otra que el Juez considere relevante.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+(NOTA: EL 7 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 166/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE NOVIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 91.
 
-La o el Juez, al recibir una solicitud de divorcio incausado, tiene la facultad de decretar las medidas provisionales necesarias, a fin de proteger a la familia, el interés superior de las niñas, niños y adolescentes, así como para proteger a las personas incapaces. Y antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, abuelos, tías, tíos, hermanas, o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
+La o el juez, al recibir una solicitud de divorcio incausado, tiene la facultad de decretar las medidas provisionales necesarias, a fin de proteger a la familia, el interés superior de las niñas, niños y adolescentes; LAS PERSONAS INCAPACES; PERSONAS CON DISCAPACIDAD; así como erradicar cualquier tipo de violencia por razones de género. Y antes de que se provea sobre los derechos y obligaciones inherentes a la patria potestad o tutela de las hijas o hijos, la autoridad judicial podrá acordar, a petición de las abuelas, abuelos, tías, tíos, hermanas, o hermanos mayores, cualquier medida que se considere benéfica para las o los menores. La autoridad judicial podrá modificar esa decisión de acuerdo a lo dispuesto en los artículos, 165 y 283 fracción III de este Código.
 
 ###### ARTICULO 92.
 
@@ -678,6 +682,10 @@ De oficio o a petición de parte interesada, durante todo el procedimiento la au
 > <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
 
 La protección para las o los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar y alienación parental, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles para el Estado de San Luis Potosí. En el caso de alienación parental se aplicarán medidas específicas de mediación y terapia.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Las medidas que resulten aplicables de las mencionadas en el párrafo anterior, surtirán efecto para aquellas personas que hayan sufrido o sufran violencia familiar por razones de género.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -3750,5 +3758,13 @@ P.O. 22 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0423.- SE REFORMA EN EL TÍTULO SÉPTIMO LA DENOMINACIÓN DEL ENTONCES CAPÍTULO ÚNICO QUE PASA A SER CAPÍTULO I; Y SE ADICIONA EN LOS ARTÍCULOS 152 Y 165, ASÍ COMO EN EL TÍTULO SÉPTIMO EL CAPÍTULO II “DEL PADRÓN ESTATAL DE PERSONAS DEUDORAS ALIMENTARIAS MOROSAS” Y LOS ARTÍCULOS 167 BIS A 167 SEXTIES, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 53, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0542.- SE REFORMAN LOS ARTÍCULOS 9°, 13 Y 91; Y ADICIONA AL ARTÍCULO 92 EL PÁRRAFO CUARTO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 205 EN SU PÁRRAFO ÚLTIMO Y 205 BIS EN SUS FRACCIONES IV Y V, Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO LA DENOMINACIÓN DEL CAPÍTULO VI; Y ADICIONA AL ARTÍCULO 205 BIS LA FRACCIÓN VI Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO EL CAPÍTULO VII “INCESTO”, CON EL ARTÍCULO 207 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
