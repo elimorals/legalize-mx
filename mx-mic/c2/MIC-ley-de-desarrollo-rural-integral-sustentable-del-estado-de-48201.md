@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2022-05-19"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
@@ -91,9 +91,11 @@ Esta Ley es de observancia general y sus disposiciones son de carácter público
 
 Para los beneficios de esta Ley en el ámbito estatal, son sujetos, los ejidos, comunidades indígenas y las organizaciones o asociaciones de carácter nacional, estatal, regional, distrital, municipal y localidades de pobladores del medio rural que se constituyan o estén constituidas de conformidad con las leyes vigentes y, en general, toda persona física o moral que, de manera individual o colectiva, realice preponderantemente actividades en el medio rural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 5.
 
-El Titular del Poder Ejecutivo del Estado propiciará la coordinación con los órdenes de gobierno para impulsar políticas públicas y programas en el medio rural que serán considerados prioritarios para el desarrollo de la entidad y que estarán orientados a las acciones siguientes:
+El Titular del Poder Ejecutivo del Estado propiciará la coordinación con los órdenes de gobierno para impulsar políticas públicas y programas en el medio rural que serán considerados prioritarios para el desarrollo de la entidad, privilegiando incentivos para proyectos que mejoren la productividad del sector, fomenten el autoempleo y la consolidación organizativa en redes de valor de los pequeños productores y que estarán orientados a las acciones siguientes:
 
 I. Fortalecer la planeación del desarrollo rural;
 
@@ -103,7 +105,9 @@ III. Proponer mecanismos para la transformación e industrialización de bienes 
 
 IV. El fomento a la comercialización de productos y servicios generados por los sujetos del sector rural en el Estado de Michoacán;
 
-V. Fortalecer esquemas de financiamiento en el sector rural;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+V. Fortalecer esquemas de financiamiento en el sector rural, estableciendo apoyos diferenciados con subsidios y créditos a tasas preferenciales para los pequeños productores rurales en las ramas de producción que generan el autoempleo en el campo, con base en el presupuesto anual asignado a la Secretaría;
 
 VI. Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo todas las actividades que se desarrollan en el medio rural;
 
@@ -1674,3 +1678,9 @@ P.O. 19 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 138 POR EL QUE “SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 6, DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 211 POR EL QUE "SE REFORMA EL ARTÍCULO 5 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
