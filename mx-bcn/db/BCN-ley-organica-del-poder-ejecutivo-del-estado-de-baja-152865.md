@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2021-12-06"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -373,7 +373,9 @@ XII. Secretaría del Trabajo y Previsión Social;
 
 XIII. Secretaría de Turismo;
 
-XIV. Secretaría del Campo y la Seguridad Alimentaria;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+XIV. Secretaría de Agricultura y Desarrollo Rural.
 
 XV. Secretaría de Pesca y Acuacultura;
 
@@ -521,7 +523,7 @@ XXI. Normar la administración en lo relativo a política hacendaria, fiscal, ar
 
 XXII. Administrar la recaudación de los impuestos, derechos, contribuciones de mejoras, productos y aprovechamientos que le correspondan al Estado con base a las leyes locales o derivado de los convenios de colaboración administrativa en materia fiscal Federal que celebre el Estado con el Gobierno Federal, así como recibir y administrar las participaciones, aportaciones y demás ingresos federales que correspondan al Estado, a través del organismo desconcentrado denominado Servicio de Administración Tributaria del Estado de Baja California (SATBC);
 
-XXIII. Ejercer la representación del Estado, en materia hacendaria, incluyendo del presupuesto, financiamientos y obligaciones, inversión, deuda pública y contabilidad gubernamental, en los juicios que se ventilen ante los tribunales o instancias, cuando tenga interés el Fisco Estatal y el de la Federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y convenios suscritos en la materia que tengan vigencia en el Estado;
+XXIII. Ejercer la representación del Estado, en materia hacendaria, incluyendo del (sic) presupuesto, financiamientos y obligaciones, inversión, deuda pública y contabilidad gubernamental, en los juicios que se ventilen ante los tribunales o instancias, cuando tenga interés el Fisco Estatal y el de la Federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y convenios suscritos en la materia que tengan vigencia en el Estado;
 
 XXIV. Emitir las bases para fijar precios, tarifas, tasas y cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado, y cuando correspondan a sus atribuciones que no estén previstas en la Ley de Ingresos del Estado;
 
@@ -1203,7 +1205,7 @@ XXII. Diseñar, promover e impartir en su carácter de autoridad corresponsable 
 
 XXIII. Promover la cultura y recreación entre las y los trabajadores y sus familias;
 
-XIV. Vigilar el cumplimiento de la Ley del Servicio Civil del Estado, la reglamentación en la materia y demás normatividad aplicable; y,
+XXIV. Vigilar el cumplimiento de la Ley del Servicio Civil del Estado, la reglamentación en la materia y demás normatividad aplicable; y,
 
 XXV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
@@ -1249,9 +1251,13 @@ XVIII. Generar e impulsar programas y estrategias para la promoción y publicida
 
 XIX. Las que determinen las leyes, reglamentos y demás disposiciones aplicables, y en específico, las que se determinen expresamente en la Ley General de Turismo, o bien que expresamente no estén conferidas a la federación o Ayuntamientos y sean necesarias para la labor y gestión gubernamental.
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO CONTABA CON XXXVII FRACCIONES; Y CON LA REFORMA PUBLICADA EN EL P.O. DE 2 DE DICIEMBRE DE 2022, SE PRECISAN ÚNICAMENTE XXXVI.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 44.
 
-La Secretaría del Campo y la Seguridad Alimentaria, tendrá las atribuciones y obligaciones siguientes:
+La Secretaría de Agricultura y Desarrollo Rural, tendrá las atribuciones y obligaciones siguientes:
 
 I. Planear, implementar, coordinar, evaluar y ejecutar las políticas de desarrollo en los sectores agropecuario, silvícola y de seguridad alimentaria, así como de las acciones, programas y proyectos que permitan su desarrollo sustentable;
 
@@ -1317,15 +1323,21 @@ XXXI. Promover y coordinar la ejecución de programas de infraestructura física
 
 XXXII. Coordinar el Comité de Planeación para el Desarrollo del Estado, así como el funcionamiento del Subcomité Agropecuario y Forestal, en los términos de la ley de la materia;
 
-XXXIII. Promover y coordinar acciones de protección, conservación, reforestación, fomento y vigilancia de los recursos forestales en el Estado;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-XXXIV. Promover los bienes y servicios ambientales de los ecosistemas forestales;
+XXXIII. Ejercer las atribuciones que la legislación federal en materia agropecuaria establece para las entidades federativas, así como las atribuciones descentralizadas por la federación hacía el Estado, mediante convenios;
 
-XXXV. Participar en la elaboración, formulación y aplicación de programas, planes, proyectos forestales o cuencas hidrológico-forestales que no estén expresamente atribuidas a la federación o a los Municipios;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-XXXVI. Ejercer las atribuciones que la legislación federal en materia agropecuaria establece para los estados, así como las atribuciones descentralizadas por la federación hacia el Estado, mediante convenios; y,
+XXXIV. Participar en la planeación del desarrollo rural sustentable en términos de las leyes de la materia;
 
-XXXVII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Coadyuvar con la federación mediante los mecanismos previstos para las entidades federativas en materia de desarrollo rural sustentable; y,
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+XXXVI. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
 ###### ARTÍCULO 45.
 
@@ -1375,7 +1387,7 @@ XXI. Instrumentar las acciones que se deriven de la concertación y coordinació
 
 XXII. Fomentar y apoyar el desarrollo y modernización de la infraestructura pesquera y acuícola en el Estado; y,
 
-XXIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables, y en específico las que se determinen expresamente la Ley General de Pesca y Acuacultura Sustentables, o bien que expresamente no estén conferidas a la federación o Ayuntamientos y sean necesarias para la labor y gestión gubernamental.
+XXIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables, y en específico las que se determinen expresamente (sic) la Ley General de Pesca y Acuacultura Sustentables, o bien que expresamente no estén conferidas a la federación o Ayuntamientos y sean necesarias para la labor y gestión gubernamental.
 
 ###### ARTÍCULO 46.
 
@@ -1593,13 +1605,13 @@ III. Diseñar y aplicar la política cultural del Estado, en coordinación con l
 
 IV. Celebrar los convenios que resulten necesarios para lograr la adecuada coordinación interinstitucional, así como el cumplimiento en general de los objetivos de la política cultural del Estado;
 
-V. Promover, organizar y convocar en colaboración con otros órdenes de gobierno nacionales e internacionales, instituciones u organismos públicos o de interés estatal, la celebración de eventos en temas de interés cultural, artísticos o tendentes al mejoramiento cultural, y a la difusión de las bellas artes y los artes tradicionales o populares, así como organizar la feria estatal del libro;
+V. Promover, organizar y convocar en colaboración con otros órdenes de gobierno nacionales e internacionales, instituciones u organismos públicos o de interés estatal, la celebración de eventos en temas de interés cultural, artísticos o tendentes al mejoramiento cultural, y a la difusión de las bellas artes y los (sic) artes tradicionales o populares, así como organizar la feria estatal del libro;
 
 VI. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, niñas, adolescentes y las juventudes, personas adultas mayores y personas con discapacidad, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, así como vigilar su efectivo acceso a los servicios culturales;
 
 VII. Proponer procedimientos e integrar jurados y comisiones dictaminadoras para los concursos, becas y premios que promueva conjuntamente con el Instituto de Cultura de Baja California o los particulares que lo soliciten;
 
-VIII. Administrar, coordinar y conservar los bienes muebles e inmuebles destinados, a la preservación, promoción y difusión cultural y artística en el Estado;
+VIII. Administrar, coordinar y conservar los bienes muebles e inmuebles destinados a la preservación, promoción y difusión cultural y artística en el Estado;
 
 IX. Promover y administrar la apertura de nuevos centros y fuentes de cultura y arte que respondan a las iniciativas y a los procesos socioculturales del Estado;
 
@@ -1735,7 +1747,7 @@ Las dependencias a que se refiere el párrafo anterior, emitirán los criterios 
 
 Los Organismos Descentralizados son entidades jurídicas públicas, con autonomía de gestión, personalidad y patrimonio propio, cualquiera que sea la forma o estructura legal que adopten.
 
-Podrán ser creados por ley o decreto del Congreso del Estado, o por decreto o acuerdo especial de la Persona Titular del Poder Ejecutivo, cuando la prestación de los servicios públicos o sociales, la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social, por su naturaleza y fines (sic) requieran ser atendidos de manera especial.
+Podrán ser creados por ley o decreto del Congreso del Estado, o por decreto o acuerdo especial de la Persona Titular del Poder Ejecutivo, cuando la prestación de los servicios públicos o sociales, la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica o la obtención y aplicación de recursos para fines de asistencia o seguridad social, por su naturaleza y fines requieran ser atendidos de manera especial.
 
 El instrumento de creación de los Organismos Descentralizados deberá:
 
@@ -1898,3 +1910,21 @@ Gobernadora Constitucional del Estado de Baja California
 Catalino Zavala Márquez
 
 Secretario General de Gobierno del Estado de Baja California
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 169 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 30 Y 44 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las referencias que se hacen o se hagan y las atribuciones que se otorguen en otras leyes, reglamentos, decretos y demás disposiciones legales a la Secretaría del Campo y la Seguridad Alimentaria, se entenderán hechas a la Secretaría de Agricultura y Desarrollo Rural, a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Durante el ejercicio fiscal del año en curso, la Secretaría de Agricultura y Desarrollo Rural funcionará con la misma estructura con la que ha venido funcionando la Secretaría del Campo y la Seguridad Alimentaria, hasta que se realicen las adecuaciones presupuestales correspondientes.
+
+CUARTO. No se afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores con anterioridad al presente Decreto.
+
+QUINTO. Las funciones, facultades, derechos y obligaciones a cargo de la Secretaría del Campo y la Seguridad Alimentaria en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Poder Ejecutivo del Estado, con dependencias y entidades de la Federación y de los Municipios, y con cualquier persona física o moral, se entienden asumidas por la Secretaría de Agricultura y Desarrollo Rural.
+
+SEXTO. En virtud del cambio de denominación de la Secretaría del Campo y la Seguridad Alimentaria, los tramites, procedimientos y demás asuntos que tenga pendiente de concluir o resolver, estarán a cargo de la Secretaría de Agricultura y Desarrollo Rural.
