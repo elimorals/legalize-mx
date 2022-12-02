@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2022-10-14"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -3663,7 +3663,9 @@ ART. 733.- El Ministerio Público, si estima que procede, deducirá ante el juez
 
 ART. 734.- El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 728.
 
-ART. 735.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+ART. 735.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de sesenta a cien días del valor de la unidad de medida y actualización, sin perjuicio de las penas que señale el respectivo Código.
 
 ## TITULO TERCERO. De la Posesión
 
@@ -5431,7 +5433,9 @@ ART. 1351.- Si la identidad del testador no pudiere ser verificada, se declarar�
 
 ART. 1352.- En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
-ART. 1353.- Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+ART. 1353.- Se prohíbe a los notarios y a cualquier otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de ochenta a cien días del valor de la unidad de medida y actualización de multa a los notarios y de la mitad a los que no lo fueren.
 
 ART. 1354.- El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
 
@@ -10632,3 +10636,11 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0541.- SE REFORMAN LOS ARTÍCULOS 735 Y 1353, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
