@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2022-03-04"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -1033,6 +1033,8 @@ VIII.- Considerar en todos los eventos oficiales, traducción simultánea a la L
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 36.
 
 Se Crea el Consejo Consultivo para las Personas con Discapacidad, como instrumento de coordinación entre el Gobierno del Estado y las organizaciones, de carácter técnico consultivo y que tiene por objeto contribuir al establecimiento de una Política de Estado en la materia, así como coadyuvar en la planeación, promoción, vigilancia y evaluación de las acciones, estrategias y programas encaminados a la atención, integración y desarrollo de las personas con discapacidad.
@@ -1095,7 +1097,7 @@ XVI. Expedir en tiempo y forma su Reglamento Interno.
 
 ###### ARTÍCULO 38.
 
-El Consejo estará integrado por los titulares de las siguientes dependencias:
+El Consejo estará integrado por las personas titulares de:
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
 
@@ -1115,13 +1117,17 @@ V. Secretaría de Educación;
 
 VI. Secretaría del Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-VII. Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial, y
+VII. Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-VIII. Fiscalía General del Estado.
+VIII. Secretaría de Inclusión Social e igualdad de Género; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+IX. Fiscalía General del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
@@ -1476,3 +1482,9 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 81 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LOS ARTÍCULOS 3 Y 19 DE LA LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 38 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
