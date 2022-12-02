@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-09-14"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE MAYO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -457,7 +455,9 @@ Se perseguirán por querella de parte los siguientes delitos:
 
 I. Delitos de contagio sexual;
 
-II. Atentados al Pudor, salvo que la víctima sea impúber o persona privada de razón, en cuyo caso el delito será perseguido de oficio;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+II. Abuso sexual, salvo cuando se trate de las conductas contempladas en el párrafo cuarto del artículo 289 y las establecidas en el artículo 289 Bis del presente Código;
 
 III. Estupro;
 
@@ -2383,7 +2383,7 @@ VIII. Alterar, destruir, perder o perturbar ilícitamente el lugar de los hechos
 
 Se impondrá suspensión de tres meses a tres años y multa de diez a treinta días, al defensor de oficio de un inculpado, que sólo se concrete a aceptar el cargo o a solicitar la libertad caucional, sin promover injustificadamente las pruebas conducentes o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
 
-(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 18 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 8 DE JUNIO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
 
@@ -2755,23 +2755,65 @@ Se impondrá prisión de uno a cincos (sic) años y multa de diez a cincuenta d�
 
 ## TÍTULO DÉCIMO TERCERO. DELITOS SEXUALES
 
-### CAPÍTULO I. ATENTADOS AL PUDOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO I. ABUSO SEXUAL
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 289.
 
-Al que sin consentimiento de una persona púber, ejecute en ella un acto erótico, sin el propósito directo e inmediato de llegar a la cópula, se le impondrá sanción de seis meses a dos años de prisión y multa de tres a diez días.
+Comete el delito de abuso sexual, quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
 
-Si se cometiera en impúber o en persona que por cualquier causa no pudiere resistir, la sanción será de uno a cinco años y multa de diez a treinta días.
+Estas conductas se sancionarán con una pena de dos a siete años de prisión y multa de treinta a cincuenta Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+Igualmente comete el delito de abuso sexual, al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de dieciocho años y mayor de catorce años, a quien se le impondrá una pena de tres a ocho años de prisión y multa de cincuenta a cien Unidades de Medida y Actualización.
 
-Cuando se cometa el delito valiéndose de su posición jerárquica o de cualquier circunstancia que implique subordinación, o cuando los hechos ocurran en vehículos destinados al transporte público o en aquellos de transporte privado solicitado a través de una aplicación móvil, en este caso, ejecutado por el conductor del mismo, se le impondrá de dos a siete años de prisión y multa de veinte a cien Unidades de Medida y Actualización diarias.
+Si el sujeto pasivo es una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho, o que no tiene la capacidad para resistirlo, se le impondrá de cuatro a nueve años de prisión y multa de cien a ciento cincuenta Unidades de Medida y Actualización.
+
+Para efectos de este artículo, se entiende por actos sexuales los tocamientos o manoseos corporales, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+
+También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 289 BIS.- Las penas para los delitos previstos en este Capítulo, serán de cuatro a diez años de prisión y multa de ciento cincuenta a doscientas Unidades de Medida y Actualización, cuando:
+
+I. Se hiciere uso de violencia física o psicológica;
+
+II. Intervengan directa o indirectamente de dos o más personas;
+
+III. Al que tenga respecto de la víctima:
+
+a. Parentesco por afinidad o consanguinidad en cualquier grado;
+
+b. Patria potestad, tutela o curatela, o
+
+c. Guarda y custodia;
+
+IV. Quien desempeñe un cargo, empleo o comisión público, utilizando los medios que el cargo, empleo o comisión público le proporcione;
+
+V. El sujeto activo tenga contacto con la víctima por motivos de ejercicio de su profesión, laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza, posición jerárquica o subordinación;
+
+VI. Se cometa por quien habite ocasional o permanentemente en el mismo domicilio de la víctima;
+
+VII. Cuando los hechos ocurran en vehículos destinados al transporte público o en aquellos de transporte privado solicitado a través de una aplicación móvil, en este caso, ejecutado por la persona conductora del mismo;
+
+VIII. Se cometa en despoblado o lugar solitario, o
+
+IX. Cuando los hechos den como resultado una enfermedad incurable transmitida a la víctima.
+
+Además de las penas señaladas en este artículo, cuando se trate de las conductas señaladas en la fracción III de este artículo, la persona sentenciada perderá la patria potestad, tutela, curatela, derecho a alimentos, así como a los derechos sucesorios, en los casos en que la ejerciera sobre la víctima, sin que cese su obligación alimentaria para con ella.
+
+Cuando se trate de los hechos señalados en la fracción IV de este artículo, además de la pena de prisión y multa señalada en este artículo, la persona sentenciada será destituida de su cargo, empleo o comisión o suspendida por un término de dos a cinco años en el ejercicio de su cargo, empleo o comisión.
+
+Igualmente, cuando el sujeto activo tenga contacto con la víctima por motivos del ejercicio de su profesión, laborales, docentes o médicos, en términos de la fracción V de este artículo, además de la pena de prisión y multa señalada en este artículo, la persona sentenciada será destituida de su cargo, empleo o comisión o suspendida por un término de dos a cinco años en el ejercicio de su profesión.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 290.
 
-El ilícito de atentados al pudor, solo se perseguirá a petición del ofendido o de su representante legítimo, a excepción del último párrafo del artículo anterior.
+El delito de abuso sexual, solo se perseguirá a petición de persona ofendida o de su representante legítimo, a excepción de cuando se trate de las conductas contempladas en el párrafo cuarto del artículo 289 y las establecidas en el artículo 289 Bis del presente Código.
 
 ### CAPÍTULO II. ESTUPRO
 
@@ -4754,3 +4796,9 @@ P.O. 14 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ABIGEATO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ABUSO SEXUAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
