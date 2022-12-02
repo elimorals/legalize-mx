@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-10-14"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2547,6 +2547,8 @@ ARTÍCULO 204 BIS. Al que abandone a un adulto mayor en situación de vulnerabil
 
 Para el caso de que el abandono traiga como consecuencia la muerte de la persona, se aplicarán las penas que este propio Código contempla para el homicidio por omisión.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 ### CAPÍTULO V. Usura
 
 ###### ARTÍCULO 205.
@@ -2565,7 +2567,9 @@ IV. Tengan relación con la pareja de alguno de sus progenitores.
 
 Este delito se sancionará con pena de uno a seis años de prisión, y sanción pecuniaria de cien a seiscientos días de la unidad de medida y actualización; asimismo, el culpable perderá el derecho de pensión alimenticia y se le condenará a participar en servicios reeducativos integrales, especializados, y gratuitos.
 
-Cuando el delito se cometa en contra de una persona menor de edad, incapaz, con discapacidad, o mayor de sesenta años de edad, las penas previstas en este artículo se incrementarán hasta en una mitad más de las ya establecidas.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+Cuando el delito se cometa en contra de una persona menor de edad, incapaz, con discapacidad, mayor de sesenta años de edad, una mujer embarazada, o durante los tres meses posteriores al parto, las penas previstas en este artículo se incrementarán hasta en una mitad más de las ya establecidas.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2020)</small>
 
@@ -2577,9 +2581,17 @@ II. La víctima presente una discapacidad sensorial, física, o mental, total, p
 
 III. La víctima sea mayor de sesenta años;
 
-IV. La conducta sea reiterada, es decir, se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima, o
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
-V. Cuando se cometa con la participación de dos o más personas.
+IV. La conducta sea reiterada, es decir, se tengan documentados antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+V. Cuando se cometa con la participación de dos o más personas, o
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
+VI. La víctima se encuentre embarazada o durante los tres meses posteriores al parto.
 
 La autoridad competente deberá de canalizar a la víctima u ofendido del delito de violencia familiar, para que reciba la atención médica y psicológica de urgencia.
 
@@ -2593,7 +2605,7 @@ Se equipara a la violencia familiar cualquiera de los actos señalados en el art
 
 En todos los casos previstos en los artículos precedentes, el Ministerio Público exhortará al responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas necesarias y, dictará, en su caso, la consistente en la prohibición para el agresor de acercarse al ofendido en un radio de cuando menos 100 metros.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO VI. Extorsión
 
@@ -5868,3 +5880,11 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0542.- SE REFORMAN LOS ARTÍCULOS 9°, 13 Y 91; Y ADICIONA AL ARTÍCULO 92 EL PÁRRAFO CUARTO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 205 EN SU PÁRRAFO ÚLTIMO Y 205 BIS EN SUS FRACCIONES IV Y V, Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO LA DENOMINACIÓN DEL CAPÍTULO VI; Y ADICIONA AL ARTÍCULO 205 BIS LA FRACCIÓN VI Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO EL CAPÍTULO VII “INCESTO”, CON EL ARTÍCULO 207 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
