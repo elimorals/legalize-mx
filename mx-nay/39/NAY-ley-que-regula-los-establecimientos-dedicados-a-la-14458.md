@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-regula-los-establecimientos-dedicados-a-la-14458"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-25"
-last_updated: "1996-12-25"
+last_updated: "2022-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCION, ALMACENAMIENTO, DISTRIBUCION Y ENAJENACION DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE NAYARIT
 
-LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS, A LA PRODUCCION, ALMACENAMIENTO, DISTRIBUCION Y ENAJENACION DE BEBIDAS ALCOHOLICAS EN EL -ESTADO DE NAYARIT
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE NAYARIT, PUBLICADA EN EL PERIÓDICO OFICIAL EL 2 DE DICIEMBRE DE 2022; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2023.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS, A LA PRODUCCION, ALMACENAMIENTO, DISTRIBUCION Y ENAJENACION DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE NAYARIT
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley Publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit el miércoles 25 de Diciembre de 1996.
 
@@ -686,3 +688,15 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario general de Gobierno
 
 Lic. Sigfrido de la Torre Miramontes.
+
+P.O. 2 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REGULA LOS ESTABLECIMIENTOS DEDICADOS A LA PRODUCCIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE NAYARIT”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los permisionarios o propietarios actuales, de los establecimientos que esta Ley señala, tendrán un plazo de 60 días naturales, a partir de la entrada en vigor de la presente Ley, para regularizarse conforme a las disposiciones reglamentarias señaladas en esta Ley.
+
+TERCERO.- Se abroga la Ley que Regula los Establecimientos Dedicados, a la Producción, Almacenamiento, Distribución y Enajenación de Bebidas Alcohólicas en el Estado de Nayarit, publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, con fecha 25 de diciembre de 1996.
+
+CUARTO.- Los procedimientos y recursos que se estén tramitando a la entrada en vigor de éste ordenamiento, se seguirán substanciando conforme a las disposiciones de la anterior hasta su conclusión.
