@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-victimas-para-el-estado-de-baja-california-131938"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-29"
-last_updated: "2022-10-17"
+last_updated: "2022-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE VICTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE VÍCTIMAS PARA EL ESTADO DE BAJA CALIFORNIA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2022.]</small>
 
 Ley publicada en la Sección III al Número 49 del Periódico Oficial del Estado de Baja California, el lunes 29 de octubre de 2018.
 
@@ -917,9 +917,9 @@ REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2022)
 
 VI. La persona titular de la Fiscalía General del Estado de Baja California;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2022)</small>
+> <small>(F. DE E., P.O 2 DE DICIEMBRE DE 2022)</small>
 
-VI (SIC). La persona que tenga la representación por cada uno de los Municipios del Estado.
+VII. La persona que tenga la representación por cada uno de los Municipios del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2022)</small>
 
