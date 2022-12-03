@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2021-09-04"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -1052,6 +1052,16 @@ Ante dicha notificación será aplicable el procedimiento establecido en los art
 En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de esta Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos, conforme a las disposiciones legales aplicables.
 
 Las autoridades educativas del Estado, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis.
+
+Las niñas, niños y adolescentes indígenas y afromexicanas tienen derecho a una educación con un enfoque intercultural y plurilingüe, que valore sus lenguas maternas y sus culturas. Dicha educación se basará en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas; y contribuirá al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas nacionales como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+
+Las autoridades educativas estatales, municipales, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para garantizar el ingreso y permanencia de las niñas, niños y adolescentes indígenas y afromexicanos en el Sistema Educativo Estatal; y fortalecerán las escuelas, los centros educativos integrales y albergues escolares indígenas, en materia de infraestructura escolar, servicios básicos y conectividad.
+
+Impulsarán la formación de maestras y maestros que hablen las lenguas de los alumnos y desarrollarán acciones educativas que reconozcan la herencia cultural de los pueblos y comunidades indígenas y afromexicanas; y promoverán la valoración de sus distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías, en los términos de lo dispuesto en el presente capítulo, en la Ley de Educación del Estado de Colima y en las demás disposiciones aplicables, así como en los artículos 2o. y 3o. de la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales.
 
 ###### Artículo 59.
 
@@ -3162,3 +3172,11 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 190.- POR EL QUE SE ADICIONA EL ARTÍCULO 58 BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial del Estado de Colima".
