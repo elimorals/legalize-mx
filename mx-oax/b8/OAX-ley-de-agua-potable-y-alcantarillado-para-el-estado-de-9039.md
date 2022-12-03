@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2022-10-15"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -1195,9 +1195,19 @@ I.- En todo caso, la instalación de retretes deberá ser con cajas de seis litr
 
 II.- Las autoridades de los municipios del Estado serán las responsables de vigilar las disposiciones de esta Ley y su Reglamento al autorizar la construcción o rehabilitación de obras.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 103.
 
-En época de escasez de agua, comprobada o previsible, el organismo operador podrá acordar condiciones de restricción en las zonas y durante el lapso que estime necesario.
+En época de estiaje o de escasez de agua, comprobada o previsible, el organismo operador deberá realizar lo siguiente:
+
+I. Identificar y determinar zonas vulnerables de estiaje, para el establecimiento de estrategias y acciones gubernamentales;
+
+II. Fomentar una cultura de cuidado y ahorro del agua;
+
+III. Garantizar el servicio, a través de tandeos u otros sistemas de distribución, para no dejar a ninguna zona sin agua; y,
+
+IV. Establecer de manera proporcional y equitativa, la restricción en las zonas y durante el lapso que estime necesario.
 
 ### CAPÍTULO III. Cuotas y Tarifas
 
@@ -1800,3 +1810,11 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 732.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 103 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA A ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
