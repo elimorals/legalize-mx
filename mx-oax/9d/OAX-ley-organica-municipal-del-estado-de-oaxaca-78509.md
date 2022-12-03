@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2022-10-15"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1057,9 +1057,13 @@ VII.- Proponer con oportunidad, economía, austeridad, transparencia y honradez,
 
 VIII.- Vigilar la aplicación del Reglamento correspondiente, proponiendo al Ayuntamiento las reformas que estime necesarias; y
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+IX. Sesionar de manera pública, garantizando el acceso a la información de los asuntos que sustancien, los archivos y documentos que resguarden.
+
 > <small>(ADICIONADA, P.O. 12 DE SEPTIEMBRE DE 2020)</small>
 
-IX.- Rendir un informe de actividades al Ayuntamiento, mismo que deberá celebrarse dentro de las dos últimas semanas del mes de noviembre de cada año, sobre las actividades realizadas durante el desempeño de sus funciones, de los dictámenes llevados a cabo y del estado que guardan los asuntos públicos al interior de las Comisiones Municipales.
+X.- Rendir un informe de actividades al Ayuntamiento, mismo que deberá celebrarse dentro de las dos últimas semanas del mes de noviembre de cada año, sobre las actividades realizadas durante el desempeño de sus funciones, de los dictámenes llevados a cabo y del estado que guardan los asuntos públicos al interior de las Comisiones Municipales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2020)</small>
 
@@ -2707,11 +2711,11 @@ ARTÍCULO 126 TERVICIES.- Las Contralorías Internas Municipales que incumplan, 
 
 ### CAPÍTULO V. DEL PRESUPUESTO DE EGRESOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 127.
 
-El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, además que deberá de incorporar la perspectiva de género, con la finalidad de apoyar la transversalidad y el cumplimiento de los programas, proyectos y acciones para la igualdad entre hombres y mujeres, así como los demás programas de actividades del ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
+El Presupuesto de Egresos regulará el gasto público municipal y se formulará con base en los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez, además que deberá de incorporar la perspectiva de género y la perspectiva de infancia y adolescencia con la finalidad de apoyar la transversalidad y el cumplimiento de los programas, proyectos y acciones para la igualdad entre hombres y mujeres, y para garantizar la protección, desarrollo y bienestar de las niñas, niños y adolescentes; así como los demás programas de actividades del ayuntamiento, detallando las asignaciones presupuestarias a nivel de partidas y calendarización del gasto a más tardar el quince de diciembre del año que antecede al ejercicio fiscal.
 
 Tratándose del inicio del Gobierno Municipal, el Ayuntamiento entrante deberá ratificar o, en su caso realizar las modificaciones al Presupuesto de Egresos autorizado por el Ayuntamiento saliente, a más tardar el quince de febrero.
 
@@ -4700,3 +4704,19 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 724.- MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IX, RECORRIENDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 55 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 725.- MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 127 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del ejercicio fiscal siguiente al de su publicación.
