@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-10-15"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -1374,6 +1374,10 @@ El Gobierno del Estado formulará y desarrollará programas de nutrición estata
 ###### ARTICULO 97.
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos nutritivos y de calidad de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos nutritivos y de calidad.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 97 BIS.- Las autoridades educativas del nivel básico se coordinarán con las autoridades sanitarias estatales para llevar un registro y control mensual del peso y talla de niñas, niños y adolescentes, así como del seguimiento de las medidas nutricionales en caso de que su índice de masa corporal mostrara sobrepeso u obesidad. Estas acciones contribuirán a la prevención y control del sobrepeso y obesidad de niñas, niños y adolescentes.
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
@@ -3994,3 +3998,11 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 728.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 97 BIS A LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
