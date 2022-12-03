@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2021-10-16"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -941,9 +941,9 @@ XXXI. Vigilancia del Órgano Superior de Fiscalización del Estado;
 
 XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
-XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional.
+XXXIII. Corredor Interoceánico del Istmo de Tehuantepec y Programas de Desarrollo Regional.
 
 > <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2020)</small>
 
@@ -1612,3 +1612,11 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- El presente Decreto entrara en vigor a partir del día 13 de noviembre del 2021.
 
 SEGUNDO.- Publíquese en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 727.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMA EL INCISO a. Y EL ÚNICO PÁRRAFO AMBOS DE LA FRACCIÓN XXXIII DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria en el Periódico Oficial del Gobierno del Estado de Oaxaca.
