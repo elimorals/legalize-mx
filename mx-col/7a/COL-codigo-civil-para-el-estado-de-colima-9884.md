@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2022-11-26"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1195,9 +1195,9 @@ VI.- Copia del acta de defunción del cónyuge fallecido firmada en forma autóg
 
 VII.- Copia de la dispensa de impedimentos, si los hubo; y
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
-VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de orientación sobre relaciones matrimoniales, que estén avaladas por el Consejo Estatal de Población, misma que acreditará la instrucción en los siguientes temas: derechos y obligaciones de las relaciones matrimoniales; derechos protegidos de las relaciones matrimoniales; derechos y deberes de las niñas, los niños y adolescentes; deberes de los menores; patrimonio de familia; métodos anticonceptivos; violencia familiar; así como causas y procedimientos para el divorcio.
+VIII.- La constancia de que ambos pretendientes asistieron a las pláticas de orientación matrimonial, diseñadas e impartidas por el Sistema Estatal para el Desarrollo Integral de la Familia, y en su caso, por los Sistemas Municipales para el Desarrollo Integral de la Familia, mismas que acreditarán la instrucción en los siguientes temas: fortaleza y responsabilidad conjunta; felicidad y bienestar como personas; igualdad sustantiva y equidad de género; relaciones de pareja; el régimen patrimonial en las capitulaciones matrimoniales; patrimonio de familia; salud sexual; prevención, detección, atención, sanción y erradicación de violencia familiar y de género; y causas y procedimientos para el divorcio, entre otros aspectos.
 
 ART. 99.- En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
@@ -1209,63 +1209,31 @@ ART. 100.- El Oficial del Registro Civil a quien se presente una solicitud de ma
 
 ART. 101.- El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
-ART. 102.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante el Oficial del Registro Civil, los pretendientes o su apoderado especial, constituido en la forma prevenida en el artículo 44 de este ordenamiento y dos testigos por cada uno de ellos, que acrediten su identidad.
+ART. 102.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes, ante la persona Oficial del Registro Civil, las personas pretendientes o la persona que funja como apoderado especial, constituido en la forma prevenida en el artículo 44 de este ordenamiento y dos personas como testigos por cada uno de ellos, que acrediten su identidad.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. Encaso (sic) afirmativo, les será leída la carta matrimonial, y preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, si aceptan los declarará unidos en legítimo matrimonio en nombre de la ley y de la sociedad que representa ese acto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
+Acto continuo, la persona Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a las personas como testigos acerca de si las personas pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, les será leída la carta matrimonial, y preguntará a cada una de las personas pretendientes si es su voluntad celebrar el presente matrimonio, si aceptan, serán declarados unidos en legítimo matrimonio en nombre de la ley y de la sociedad que representa ese acto.
 
 Siendo Carta matrimonial la siguiente:
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+El matrimonio es un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que, las personas que desean ejercitarlo, previas las formalidades que establece esta ley, se presentan ante la autoridad y expresan libremente su voluntad de unirse en matrimonio.
 
-El matrimonio es un contrato civil que se celebra lícita y válidamente ante la autoridad civil. Para su validez es necesario que los pretendientes, previos las formalidades que establece la ley, se presenten ante la autoridad y expresen libremente su voluntad de unirse en matrimonio.
+El matrimonio, es un medio para lograr el desarrollo del género humano, actuando con fortaleza y responsabilidad conjunta, deben proporcionarse apoyo y comprensión, tratándose siempre con respeto hacia ustedes mismos y hacía con las demás personas, así como al entorno natural.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+Las personas cónyuges, una y la otra, se deben y tendrán siempre confianza, solidaridad, no discriminación, aspirando a conseguir una igualdad sustantiva, procurando que al unirse hoy en matrimonio se alcance la consolidación del vínculo sin perder su autonomía como persona.
 
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+Como hemos escuchado, este mensaje comienza diciendo que el matrimonio es un contrato civil. Así lo prevé el Código Civil vigente en nuestro Estado. El matrimonio da lugar al nacimiento de derechos y obligaciones recíprocas para las personas cónyuges y crea un nuevo estado civil para ustedes, con todo lo que ello implica.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022)</small>
+Sin duda el matrimonio es un vínculo en el que dos personas, sin perder su individualidad, deciden unirse para crear un proyecto de vida y trabajar juntos por ese proyecto. Y dado el marco Constitucional del que gozamos en nuestro país, cada pareja puede decidir cuál será ese proyecto de vida con total libertad, para obtener la felicidad y bienestar como personas.
 
-(DEROGADO OCTAVO PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2022).
+La decisión que han tomado, además de ser una decisión consentida e involucrada la parte emocional como un factor determinante, pues se entiende que hay entre ambos un afecto lo suficientemente fuerte como para haberlos hecho llegar al punto de unir sus vidas en matrimonio que hoy han elegido. Aspirando no solo a preservar, sino a fortalecer ese afecto.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+Teniendo la posibilidad jurídica de disolver el vínculo jurídico del matrimonio, pero con la intención de perdurar y que logre proveerlos a ustedes y a la sociedad de la que formen parte, de un ambiente de plenitud.
 
-Los cónyuges, uno y el otro, se deben y tendrán siempre y en todo lugar respeto, fidelidad, confianza y ternura, y procurarán que lo que el uno esperaba del otro al unirse hoy en matrimonio y ésta se convierta en una hermosa realidad.
+Les recuerdo también que todas las personas somos iguales ante la ley, así lo expresa la Constitución Política de los Estados Unidos Mexicanos y demás tratados internacionales suscritos por México.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-Las parejas deberán ser prudentes y atenuar sus faltas, nunca se dirán injurias, porque las injurias deshonran aun más a quien las vierte que a quien las recibe, mucho menos se maltratarán de obra, pues es vergonzoso y cobarde abusar de la fuerza.
-
-Ambos deberán prepararse, con el estudio amistoso y la mutua corrección de sus defectos para desempeñar de la mejor manera posible la mas alta magistratura de la vida que es la de ser padres de familia para que sus hijos encuentren en ustedes el buen ejemplo y una conducta digna de servirles de modelo.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-Como escuchamos, este mensaje comienza diciendo que el matrimonio es un contrato civil. Así lo prevé el Código Civil vigente en nuestro Estado. El matrimonio da lugar al nacimiento de derechos y obligaciones recíprocas para los cónyuges y crea un nuevo estado civil para ustedes, con todo lo que ello implica.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-Sin duda el matrimonio es un vínculo precioso, en el que dos personas, sin perder su individualidad, deciden unirse para crear un proyecto de vida en común y trabajar juntos por ese proyecto. Afortunadamente, dado el marco Constitucional del que gozamos en nuestro País cada pareja puede decidir cuál será ese proyecto de vida con enorme libertad. Obviamente es un gran privilegio y a la vez una enorme responsabilidad.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-La decisión que han tomado, además de ser una decisión racional, ve involucrada la parte emocional como un factor determinante, pues se entiende que hay entre ambos un afecto lo suficientemente fuerte como para haberlos hecho llegar al punto de unir sus vidas en matrimonio que hoy han elegido. Los exhorto no solo a preservar, sino a fortalecer ese afecto.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-No podemos negar la posibilidad jurídica de disolver el vínculo jurídico del matrimonio, pero les recuerdo que el matrimonio no debe ser visto como una unión liviana o pasajera, sino como un lazo con pretensión de perdurar y que logre proveerlos a ustedes y a la sociedad de la que formen parte del ambiente de estabilidad y solidez óptimo.
-
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2013)</small>
-
-Les recuerdo también que aún cuando existen ciertas diferencias naturales somos iguales ante la ley, así lo expresa la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
-
-Construyan un matrimonio digno, que sea de edificación para ustedes como individuos, para su familia y para toda la sociedad.
+Y que alcancen un matrimonio que constituya un bien para ustedes como humanos, como familia y para toda la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -9097,7 +9065,9 @@ III.- Si el donatario incurre en abandono respecto del donante, en el caso previ
 
 ART. 2261.- Es aplicable a la revocación de las donaciones hechas por ingratitud lo dispuesto en los artículos 2,251 al 2,254.
 
-ART. 2262.- La acción de revocación por causa de ingratitud no puede ser renunciada anticipadamente y prescribe dentro de un año, contado desde que tuvo conocimiento del hecho el donador.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+ART. 2262.- La acción de revocación por causa de ingratitud no puede ser renunciada anticipadamente y prescribe dentro de un año, contado desde que tuvo conocimiento del hecho el donador, salvo tratándose de personas adultas mayores, en cuyo caso, la acción podrá ejercerse en cualquier tiempo.
 
 ART. 2263.- Esta acción no podrá ejercitarse contra los herederos del donatario, a no ser que en vida de éste hubiese sido intentada.
 
@@ -11872,3 +11842,27 @@ P.O. 26 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 180.- POR EL QUE SE DEROGAN LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO Y OCTAVO DEL ARTÍCULO 102 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 181.- POR EL QUE SE REFORMA EL ARTÍCULO 102, DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el “Periódico Oficial del Estado de Colima”, debiendo esta realizarse con posterioridad a la publicación de la reforma aprobada al mismo artículo mediante Decreto No. 180.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 187.- POR EL QUE SE REFORMA LA FRACCIÓN VIII AL ARTÍCULO 98 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, realizarán las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas disposiciones que resultan de la reforma materia del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 189.- POR EL QUE SE REFORMA EL ARTÍCULO 2262 DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
