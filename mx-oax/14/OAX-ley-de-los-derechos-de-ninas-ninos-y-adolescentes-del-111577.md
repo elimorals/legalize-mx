@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2022-10-22"
+last_updated: "2022-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -1423,6 +1423,18 @@ El Reglamento de esta Ley establecerá el procedimiento a seguir para determinar
 
 Niñas o niños nacidos de madres privadas de su libertad tienen derecho a recibir todos los servicios básicos y especializados durante y después de su nacimiento, y podrán permanecer con ella hasta los tres años de edad.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+La autoridad penitenciaria adoptará las acciones tendientes a proporcionar las condiciones de vida para el sano desarrollo de niñas y niños.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+El Estado garantizará a las madres en reclusión la obtención de información periódica del estado de salud de sus hijos, con base en un expediente clínico, que también se compartirá con la persona o institución que se haga cargo del menor a partir de su egreso del centro penitenciario, respetando en todo caso la legislación en materia de salud y de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+En su caso niñas y niños cuya madre biológica se encuentre privada de su libertad cumpliendo con una condena, se le permitirá el acceso a la información de los programas sociales que proporcionen las condiciones para su sano desarrollo de conformidad con la normatividad aplicable.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ### CAPÍTULO XXVI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
@@ -2079,6 +2091,34 @@ Los Ayuntamientos contarán con un área administrativa que será la encargada d
 
 La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría Estatal de Protección de forma inmediata.
 
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+Los ayuntamientos deberán contar con un diagnóstico de la situación en la que se desenvuelve á niñez y adolescencia de su municipio, mismo que servirá corno base para la elaboración del programa al que se refiere el presente artículo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+Dicho diagnostico deberá contener de manera enunciativa mas no imitativa los siguientes aspectos:
+
+a) Población;
+
+b) Pobreza y rezago social;
+
+c) Salud y seguridad pública;
+
+d) Acceso a servicios educativos;
+
+e) Situación alimentaria;
+
+f) Infraestructura de comunicaciones acceso a internet;
+
+g) Trabajo infantil
+
+h) Niñas; niños y adolescentes migrantes;
+
+i) Violencia contra la niñez y adolescencia;
+
+j) Situación de la infraestructura para la atención de niñas, niños y adolescentes.
+
 ###### Artículo 120.
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, en el ámbito de sus competencias, a través de su área especializada, dará seguimiento a la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, privilegiando siempre el interés superior del niño.
@@ -2664,3 +2704,23 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 726.- MEDIANTE EL CUAL ADICIONAN UN SEGUNDO, TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 84 DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 734.- MEDIANTE EL CUAL SE ADICIONAN UN TERCER Y CUARTO PÁRRAFOS AL ARTÍCULO 119 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Quedan sin efecto las disposiciones que contravengan el contenido del presente Decreto.
