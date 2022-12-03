@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2022-08-20"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -273,7 +273,9 @@ Para lo anterior deberán, sin menoscabo de otras acciones:
 
 I. Incorporar en sus programas, actividades y ámbitos de competencia, mecanismos que reconozcan y garanticen el derecho humano a la igualdad y a la no discriminación;
 
-II. Diseñar y ejecutar programas permanentes de sensibilización e información para todas las personas servidoras públicas sobre el derecho a la igualdad y a la no discriminación;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+II. Diseñar y ejecutar programas permanentes de capacitación, sensibilización e información para todas las personas servidoras públicas sobre el derecho a la igualdad, a la no discriminación y respeto a la diversidad;
 
 III. Proporcionar de manera ágil y suficiente la información que le sea solicitada por la Comisión que coadyuve a dar solución a los casos de discriminación; y
 
@@ -1238,3 +1240,11 @@ P.O. 20 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 733.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 12 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
