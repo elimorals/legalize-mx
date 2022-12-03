@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2022-11-12"
+last_updated: "2022-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -391,51 +391,55 @@ IX. La Secretaría de Seguridad;
 
 X. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, quien ocupará la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
 
-XI. Procuraduría Social del Estado;
+XI. La Secretaría de Agricultura y Desarrollo Rural;
 
-XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+XII. La Procuraduría Social del Estado;
+
+XIII. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XIII. El Poder Judicial; a través de la Magistrada titular de la Comisión Transitoria de Igualdad de Género y Derechos Humanos;
+XIV. El Poder Judicial; a través de la Magistrada titular de la Comisión Transitoria de Igualdad de Género y Derechos Humanos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XIV. El Poder Legislativo; a través de la Presidenta de la Comisión de Igualdad Sustantiva y de Género;
+XV. El Poder Legislativo; a través de la Presidenta de la Comisión de Igualdad Sustantiva y de Género;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XV. El Sistema Jalisciense de Radio y Televisión;
+XVI. El Sistema Jalisciense de Radio y Televisión;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XVI. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
+XVII. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XVII. Comisión Estatal Indígena;
+XVIII. Comisión Estatal Indígena;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XVIII. La Comisión Estatal de Derechos Humanos;
+XIX. La Comisión Estatal de Derechos Humanos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XIX. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
+XX. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XX. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
+XXI. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XXI. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+XXII. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2020)</small>
 
-XXII. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+XXIII. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2020)</small>
 
@@ -520,6 +524,28 @@ El protocolo para la prevención de la violencia contra mujeres a que hace refer
 ###### Artículo 19.
 
 El Consejo Estatal debe celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, teniendo la obligación de sesionar como mínimo, cada tres meses.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+En los casos en que no sea posible la presencia física de las y los integrantes del Consejo Estatal en un mismo lugar, las sesiones podrán celebrarse a distancia, mediante el uso de herramientas tecnológicas, que cumplan con lo siguiente:
+
+I. La identificación visual plena de las y los integrantes;
+
+II. La interacción e intercomunicación en tiempo real, para propiciar la correcta deliberación de las ideas y asuntos;
+
+III. Garantizar la conexión permanente de todas y todos los integrantes, así como el apoyo, asesoría y soporte informático que les permita su plena participación en la misma;
+
+IV. Transmitirse en vivo para el público en general;
+
+V. Dejar registro audiovisual de la sesión, votaciones y sus acuerdos;
+
+VI. La convocatoria se notifica a través del correo electrónico oficial de cada integrante, adjuntando, orden del día y los documentos que contengan la información correspondiente a los temas a desahogar;
+
+VII. La asistencia será tomada nominalmente, al igual que todas las votaciones;
+
+VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la constancia de la votación firmados por quien presidió la sesión; y
+
+IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
 ###### Artículo 20.
 
@@ -1257,6 +1283,12 @@ XII. La atención de los demás asuntos que en materia de violencia contra las m
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 1 DE JULIO DE 2020)</small>
 
+#### Sección Décima Novena.
+
+De la Secretaría de Agricultura y Desarrollo Rural.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 41 Bis.
 
 Corresponde al Instituto Electoral y de Participación Ciudadana, en el ámbito de sus competencias:
@@ -1266,6 +1298,36 @@ I. Promover la cultura de la no violencia en el marco del ejercicio de los derec
 II. Incorporar la perspectiva de género al monitoreo de las transmisiones sobre las precampañas y campañas electorales en los programas en radio y televisión que difundan noticias, durante los procesos electorales, y
 
 III. Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 41 Ter.
+
+Corresponde a la Secretaría de Agricultura y Desarrollo Rural, además de lo establecido en otros ordenamientos:
+
+I. Llevar a cabo acciones, en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, en el ámbito de sus competencias; en materia de:
+
+a) Promoción del uso, control y ejercicio de la propiedad de la tierra por parte de las mujeres rurales, mujeres de los pueblos y comunidades indígenas y afrodescendientes y otros grupos étnicos, a través de acciones afirmativas al interior de la comunidad y desde los programas y proyectos de las instituciones para combatir la violencia patrimonial y económica;
+
+b) Fomento de la participación política de las mujeres en las asambleas comunales y/o ejidales y establecimiento de mecanismos de atención para prevenir, atender y sancionar la violencia política dentro de estos organismos colectivos;
+
+c) Promoción y realización de estudios diagnósticos sobre las causas y consecuencias de la violencia contra las mujeres del ámbito rural, incluyendo las de pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos;
+
+d) Coordinación de medidas y políticas públicas que propicien una vida libre de violencia y no discriminación de mujeres y de hombres en el ámbito rural, y en pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos;
+
+e) Colaboración en el diseño, con una visión transversal, del programa estatal, orientado a la prevención, atención, sanción y erradicación de la violencia contra las mujeres, con énfasis a las del ámbito rural, incluyendo las de pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos;
+
+f) Fomento de la cultura de respeto a los derechos humanos de las mujeres que habitan en zonas rurales, incluyendo las de pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos;
+
+g) Diseño y difusión de materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en el ámbito rural, incluyendo las de pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos, y
+
+h) Colaboración y coordinación con las secretarías competentes„ (sic) en el diseño de portafolios de acciones inmediatas para prevenir feminicidios y desaparición de personas en contextos de delincuencia organizada en los municipios rurales.
+
+II. Implementar procesos de formación y especialización de servidoras y servidores públicos y del funcionariado de la Secretaría, sobre los derechos de las mujeres y la prevención, atención y acceso a una vida libre de violencia;
+
+III. Promover, apoyar y gestionar la participación ciudadana y de los organismos de la sociedad civil en la elaboración, ejecución y evaluación de políticas públicas orientadas a la prevención, atención, sanción y erradicación de las violencias contra las mujeres del ámbito rural, incluyendo a las de pueblos y comunidades indígenas, afrodescendientes y otros grupos étnicos; y
+
+IV. Valorar, en todo caso, la cancelación en el otorgamiento de apoyos y subsidios económicos para beneficiarios de programas que hayan sido sentenciados como agresores de mujeres o niñas, en delitos relacionados con homicidio, feminicidio y contra la libertad y seguridad sexual, siempre y cuando ello no afecte a las víctimas directas e indirectas de estos actos.
 
 ## TITULO TERCERO. DE LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
@@ -1958,3 +2020,15 @@ P.O. 12 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Los ayuntamientos deberán expedir, si aun no lo han hecho, el reglamento o, en su caso, hacer las adecuaciones normativas, en un plazo no mayor a 60 días hábiles a la entrado (sic) en vigor del presente decreto, y dar cumplimiento a lo establecido en el artículo 42, fracción VII, de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 28868/LXIII/22 QUE ADICIONAN LA FRACCIÓN XI, RECORRIÉNDOSE LAS SUBSECUENTES EN SU NÚMERO Y ORDEN AL ARTÍCULO 17, UNA SECCIÓN DÉCIMA NOVENA AL TÍTULO SEGUNDO Y EL ARTÍCULO 41 TER, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE DICIEMBRE DE 2022.
+
+[N. DE E TRANSITORIO DEL “DECRETO 28869/LXIII/22 QUE ADICIONA UN SEGUNDO PÁRRAFO Y NUEVE FRACCIONES AL ARTÍCULO 19 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
