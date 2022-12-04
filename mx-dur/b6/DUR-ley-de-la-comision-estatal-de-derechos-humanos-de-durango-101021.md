@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2021-07-04"
+last_updated: "2022-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -177,7 +177,13 @@ IX. Proponer a las diversas autoridades del Estado de Durango, en el ámbito de 
 
 X. Promover el estudio, enseñanza, divulgación y prevención de los derechos humanos en el ámbito municipal y estatal; propiciando en la sociedad el desarrollo de esa cultura;
 
-XI. Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión, cuenten con las prerrogativas constitucionales y legales que garanticen la plena vigencia de sus derechos humanos. Asimismo, se podrá solicitar la revisión médica, tanto física y psicológica de los detenidos, cuando se presuma que han sufrido malos tratos, tortura o cuando así lo requieran, comunicando a las autoridades competentes los resultados para que tomen las medidas conducentes y en su caso, se denuncie ante las autoridades competentes;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
+XI. Supervisar, que las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión, cuenten con las prerrogativas constitucionales y legales que garanticen la plena vigencia de sus derechos humanos.
+
+Tratándose de mujeres detenidas o reclusas, vigilar que sean aplicadas las consideraciones específicas establecidas en los instrumentos internacionales para de esta forma se garantice plenamente sus derechos humanos, con perspectiva de género, del mismo modo vigilar sean garantizados los derechos de las niñas y niños hijos de las mismas, que convivan en prisión.
+
+Asimismo, se podrá solicitar la revisión médica, tanto física y psicológica de los detenidos, cuando se presuma que han sufrido malos tratos, tortura o cuando así lo requieran, comunicando a las autoridades competentes los resultados para que tomen las medidas conducentes y en su caso, se denuncie ante las autoridades competentes;
 
 XII. Coordinarse con autoridades federales, estatales o municipales, para la salvaguarda de los derechos humanos de los individuos que se encuentren en el territorio del Estado, concertando además con los diversos sectores de la sociedad, acciones que conlleven al logro de este fin;
 
@@ -1098,3 +1104,11 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto.
+
+P.O. 4 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 266.- QUE CONTIENE REFORMA AL ARTICULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
