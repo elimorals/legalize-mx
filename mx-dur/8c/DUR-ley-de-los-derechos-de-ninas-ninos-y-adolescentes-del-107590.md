@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2022-11-20"
+last_updated: "2022-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -149,41 +149,45 @@ XIX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
 XX. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
 
-XXI. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-XXII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+XXI. Primera Infancia: Periodo que comprende desde el nacimiento hasta los 6 años de edad, es un momento primordial para el crecimiento cognitivo físico y emocional de las personas;
 
-XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
+XXII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+
+XXIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+
+XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
+XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
 
-XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXVII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
+XXVIII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
 
-XXVIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
+XXIX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-XXIX. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
+XXX. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-XXX. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango
+XXXI. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
+XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XXXII. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
+XXXIII. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
 ###### Artículo 6.
 
@@ -292,6 +296,10 @@ XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación; y
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
 XXII. Derecho a la alimentación.
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Derecho a la protección de la primera infancia.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
 
@@ -1073,11 +1081,19 @@ II. La distribución, donación, regalo, venta y suministro de bebidas azucarada
 
 III. La venta, distribución o exhibición de cualquiera de esos productos a través de distribuidores automáticos o máquinas expendedoras.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo Vigésimo Tercero. Derecho a la Protección de la Primera Infancia
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60 Ter.
+
+Niñas y niños tendrán derechos a la protección de su primera infancia. Para garantizar este derecho, las autoridades del Estado y sus Municipios procurarán diseñar programas y políticas públicas que promuevan un desarrollo igualitario durante la primera infancia en materia de salud, nutrición, protección, cuidado y educación.
 
 ## TÍTULO TERCERO. De los derechos y obligaciones
 
-### Capítulo Único. De los Centros de Asistencia Social
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ###### Artículo 61.
 
@@ -1167,7 +1183,7 @@ XII. Educar y supervisar en el conocimiento y uso responsable de las tecnología
 
 Quienes ejercen la patria potestad, tutela o guarda y custodia, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 64.
 
@@ -1183,7 +1199,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Procuraduría de Protección
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 65.
 
@@ -1241,7 +1257,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Tercero. Del Sistema Local de Protección
+### Capítulo Segundo. De la Procuraduría de Protección
 
 ###### Artículo 69.
 
@@ -1383,7 +1399,7 @@ VI. Promover la formación, capacitación y profesionalización del personal de 
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Cuarto. De los Sistemas Municipales de Protección
+### Capítulo Tercero. Del Sistema Local de Protección
 
 ###### Artículo 75.
 
@@ -1483,7 +1499,7 @@ VI. Acreditar las pruebas de control de confianza emitidas por la autoridad comp
 
 El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Cuarto. De los Sistemas Municipales de Protección
 
 #### Sección Primera. De los Integrantes
 
@@ -1721,7 +1737,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
-### Capítulo Sexto. Del Programa Nacional y el Programa Local
+### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
 ###### Artículo 84.
 
@@ -1735,11 +1751,13 @@ Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será
 
 Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Local; se reunirán cuando menos dos veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
 ###### Artículo 85.
 
 La Comisión Estatal de los Derechos Humanos de Durango, en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 86.
 
@@ -1925,7 +1943,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 27 DE DICIEMBRE DE 2020.
 
-## [N. DE E. TRANSITORIOS DEL "QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “QUE CONTIENE REFORMA AL PRIMER PÁRRAF (SIC) Y A LA FRACCIÓN VI DEL ARTÍCULO 82, SE DEROGAN LAS FRACCIONES I, XVII, XIX Y LOS PARRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 82, ASÍ COMO EL SEGUNDO Y TERCER PARRAFO DEL NUMERAL 83, LOS ARTÍCULOS 83 BIS, 83 BIS 1, 83 BIS 2 Y 83 BIS 4, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2206,3 +2224,11 @@ P.O. 20 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 267.- QUE CONTIENE ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
