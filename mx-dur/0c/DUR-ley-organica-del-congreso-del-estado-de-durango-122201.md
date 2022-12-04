@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2022-10-02"
+last_updated: "2022-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1593,7 +1593,9 @@ XXIII. Comisión de Asuntos Familiares y de los Derechos de Niñas, Niños y Ado
 
 XXIV. Igualdad de Género;
 
-XXV. Asuntos Metropolitanos;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
+XXV. Asuntos Metropolitanos e Interestatales;
 
 XXVI. Ciencia, Tecnología e Innovación;
 
@@ -1847,9 +1849,15 @@ II. Proponer que las autoridades competentes lleven a cabo acciones impulsando u
 
 III. Emitir opinión, en el proceso de dictaminación de las otras comisiones legislativas cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género, previo turno de la Presidencia del Congreso del Estado, dicha opinión no será vinculante.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 144.
 
-La Comisión de Asuntos Metropolitanos, conocerá de los planes y programas tendientes al desarrollo e integración regional o metropolitano y de todas aquellas acciones tendientes a la creación de medidas legislativas y administrativas para fortalecer los procesos de desarrollo de áreas conurbadas.
+La Comisión de Asuntos Metropolitanos e Interestatales, conocerá de los planes y programas tendientes al desarrollo e integración regional, metropolitano e interestatal y de todas aquellas acciones tendientes a la creación de medidas legislativas, regulatorias, administrativas y financieras que fortalezcan los procesos para el desarrollo de áreas conurbadas, metropolitanas e interestatales.
+
+La Comisión podrá atender asuntos relacionados con el fin de fomentar, analizar y discutir acciones que faciliten y promuevan el desarrollo, coordinación y gobernanza entre Municipios conurbados con otros Estados, y entre el Estado de Durango con entidades federativas vecinas.
+
+La Comisión de Asuntos Metropolitanos e Interestatales, en coordinación con la Mesa Directiva y la Junta de Gobierno y Coordinación Política, se encargará de crear y gestionar el marco y mecanismo institucional que fomente la relación y colaboración entre el Congreso del Estado de Durango con otras legislaturas estatales para que, a través de ellos, se pueda discutir, concertar, coordinar y ejecutar una agenda legislativa interestatal compartida.
 
 ###### Artículo 145.
 
@@ -3704,3 +3712,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 269.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a esta Ley.
