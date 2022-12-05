@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2022-10-12"
+last_updated: "2022-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -161,9 +161,17 @@ XXXII. Sistema DIF Nacional: El Sistema Nacional para el Desarrollo Integral de 
 
 XXXIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-XXXIV. Sistema Estatal de Información: Lo elabora el Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con el INFOCAM y es un conjunto de datos desagregados que permiten monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en la entidad, incluyendo indicadores cualitativos y cuantitativos; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
 
-XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano forme parte.
+XXXIV. Sistema Estatal de Información: Lo elabora el Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con el INFOCAM y es un conjunto de datos desagregados que permiten monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en la Entidad, incluyendo indicadores cualitativos y cuantitativos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano forme parte;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+XXXVI. Violencia Vicaria: Es un tipo de violencia reconocida en el artículo 5 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche que tiene como víctimas a las niñas, niños y adolescentes teniendo por objeto infligirles un daño, menoscabo, sufrimiento de cualquier naturaleza o la muerte.
 
 ###### Artículo 5.
 
@@ -216,6 +224,10 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas atribu
 En la aplicación de la Ley se tomarán en cuenta las condiciones particulares de las niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el goce y ejercicio igualitario de todos sus derechos.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas atribuciones, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+Las autoridades que tengan conocimiento que una niña, niño o adolescente por su relación de parentesco con la víctima, sea sujeto de violencia vicaria, dictarán las medidas cautelares necesarias para salvaguardar su integridad física y emocional. De igual forma, garantizarán su derecho a convivir o mantener contacto directo con sus familiares de modo regular; siempre y cuando no se determine lo contrario por la autoridad jurisdiccional competente.
 
 ###### Artículo 10.
 
@@ -737,7 +749,7 @@ V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficient
 
 VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
 
-VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de las niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
 VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
@@ -768,6 +780,10 @@ XIX. Inculcar en las niñas, niños y adolescentes el respeto al medio ambiente,
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación; y
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de las niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+XXII. Impulsar acciones que tengan como fin la prevención del suicidio en niñas, niños y adolescentes, principalmente en los centros educativos que comprenden el nivel básico y media superior.
 
 Las autoridades escolares, en el ámbito de sus facultades, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -895,7 +911,7 @@ Las autoridades estatales y municipales vigilarán que se clasifiquen las pelíc
 
 ###### Artículo 67 Bis.
 
-Los comercializadores y arrendadores de videojuegos están obligados a exigir a las personas que pretendan adquirir o arrendar videojuegos clasificados como exclusivos para adultos, que acrediten su mayoría de edad, sin lo cual no podrá realizarse la venta o renta, de conformidad con los lineamientos expedidos por la autoridad competente en esta materia.
+Los comercializadores y arrendadores de videojuegos están obligados a exigir a las personas que pretendan adquirir o arrendar videojuegos clasificados como exclusivos para adultos, que acrediten su mayoría de edad, sin lo cual no podrá realizarse la venta o renta, de conformidad con los lineamientos expedidos por la autoridad compentente en esta materia.
 
 ###### Artículo 68.
 
@@ -1735,6 +1751,10 @@ I. Los Secretarios Ejecutivos de los Sistemas Municipales de Protección.
 
 F. Organismos Públicos Autónomos
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+I. Comisión de Derechos Humanos del Estado de Campeche.
+
 G. Representantes de la sociedad civil:
 
 I. Asociaciones civiles que promuevan la protección y defensa de los derechos de las niñas, niños y adolescentes en el Estado, mismos que serán nombrados por el Sistema DIF Estatal.
@@ -2102,5 +2122,29 @@ P.O. 12 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 130 POR EL QUE "SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 149 POR EL QUE “SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 56 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE "SE REFORMAN LAS FRACCIONES XXXIV Y XXXV Y SE ADICIONA UNA FRACCIÓN XXXVI AL ARTÍCULO 4 Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 9 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan a este decreto.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 151 POR EL QUE “SE ADICIONA UNA FRACCIÓN I AL APARTADO F DEL ARTÍCULO 122 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
