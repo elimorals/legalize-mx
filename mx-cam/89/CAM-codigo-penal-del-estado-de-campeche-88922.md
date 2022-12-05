@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2022-10-26"
+last_updated: "2022-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2645,6 +2645,40 @@ Artículo 224 ter.- Cuando la violencia familiar se cometa en presencia de niña
 
 Artículo 224 quater.- Cuando la violencia familiar se cometa en contra de una mujer que se encuentre en estado de embarazo la pena se aumentará en una mitad.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 224 Quinquies.
+
+Se entiende por violencia vicaria la acción u omisión por parte de quien mantenga o haya mantenido una relación afectiva o sentimental con la víctima y que tenga por objeto por sí o por interpósita persona infligir a los hijos o hijas de ésta un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causarle una afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a la víctima.
+
+Se considera que existe la finalidad de dañar a la víctima, utilizando a los hijos o hijas de ésta, cuando ocurra cualquiera de las circunstancias siguientes:
+
+I. Cuando existan antecedentes de violencia familiar contra la víctima o sus hijos o hijas;
+
+II. Cuando sin orden de la autoridad competente se sustraiga de la custodia o guarda de la víctima a sus hijos o hijas,
+
+III. Existan amenazas de la o el agresor hacia la víctima, de no volver a ver a los hijos o hijas de ésta, o tener la custodia de aquellos;
+
+IV. Se evite la convivencia de los menores con la víctima, teniendo ésta la custodia o guarda de éstos;
+
+V. Exista cualquier acto de manipulación que tenga por objeto que los hijos o hijas menores de edad rechacen, generen rencor, antipatía, desagrado o temor contra la víctima;
+
+VI. Se provoque dilación dolosa de los procesos jurídicos existentes con la intención de romper el vínculo filial;
+
+VII. Muerte o suicidio de los hijos o hijas de la víctima.
+
+A quien cometa el delito de violencia vicaria se le impondrá de cuatro a siete años de prisión y multa de cien a doscientas Unidades de Medida y Actualización.
+
+Las penas previstas se incrementarán hasta en una tercera parte en su mínimo y máximo si se incurre en daño físico a los hijos o hijas de la víctima.
+
+Este delito se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 224 Sexies.
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria o violencia familiar, se le impondrán de tres a seis años de prisión y multa de quinientas a mil quinientas Unidades de Medida y Actualización. Además será destituido e inhabilitado por un plazo de tres a seis años para desempeñar otro empleo, cargo o comisión públicos.
+
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 225.
@@ -4882,3 +4916,11 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
 
 Tercero.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 224 QUINQUIES Y 224 SEXIES AL CAPÍTULO III DENOMINADO “VIOLENCIA FAMILIAR”, DEL TÍTULO SEXTO DENOMINADO “DELITOS CONTRA LA FAMILIA” DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan a este decreto.
