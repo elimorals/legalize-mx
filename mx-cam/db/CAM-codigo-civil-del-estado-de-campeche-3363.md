@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2022-11-09"
+last_updated: "2022-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2000,6 +2000,10 @@ El derecho de convivencia entre padres e hijos se protegerá y respetará en tod
 El padre o la madre a quien se haya confiado la custodia y cuidado del menor, tendrá prohibido realizar conductas que promuevan la separación, rechazo o falta de convivencia con el otro cónyuge o los familiares de éste. Quien no tenga bajo sus cuidados y atenciones a los hijos, estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
 
 En su caso, el juez de lo familiar, en protección de los menores, dictará las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+Art. 301 BIS.- La o el juez podrá, en beneficio de los menores, modificar el ejercicio de la patria potestad y custodia o cuidado de éstos cuando la tenga decretada judicialmente, ya sea de manera provisional o definitiva, cuando se acredite que los menores han sido o están siendo utilizados para cometer violencia vicaria, en los términos que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Campeche y el Código Penal del Estado de Campeche.
 
 ###### Art. 302.
 
@@ -16579,8 +16583,16 @@ Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias que se
 
 P.O. 9 DE NOVIEMBRE DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 144 POR EL QUE “SE REFORMA EL ARTÍCULO 437 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 458 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 144 POR EL QUE "SE REFORMA EL ARTÍCULO 437 Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 458 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 150 POR EL QUE “SE ADICIONA EL ARTÍCULO 301 BIS AL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan a este decreto.
