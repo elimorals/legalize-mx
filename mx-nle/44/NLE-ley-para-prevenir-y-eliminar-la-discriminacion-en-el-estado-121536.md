@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2022-10-17"
+last_updated: "2022-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -83,7 +83,9 @@ VI. Debida diligencia: La obligación de los Entes Públicos del Estado de Nuevo
 
 VII. Discapacidad: Deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir la participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-VIII. Discriminación: Toda distinción, exclusión, restricción o preferencia por acción y omisión, con intención o sin ella, que no sea objetiva, racional ni proporcional y que, basada en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, orientación sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud o jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos humanos y la igualdad real de oportunidades de las personas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+VIII. Discriminación: Toda discriminación, exclusión, restricción o preferencia por acción y omisión, con intensión (sic) o sin ella, que no sea objetiva, racional ni proporcional y que, basaba en uno o más de los siguientes motivos: origen étnico o nacional, el sexo, el género, identidad sexo genérica, orientación sexual, edad, apariencia física, color de piel, características genéticas, discapacidades, condición social, económica, de salud física o mental, jurídica, condición migratoria, embarazo, idioma, lengua o dialecto, religión, opiniones, identidad, ideas o filiación política, estado civil, cultura, situación familiar, antecedentes penales o cualquier otra condición, que tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento o el ejercito de los derechos humanos y la igualdad real de oportunidades de las personas;
 
 IX. Entidades Públicas: Los órganos y dependencias de los Poderes y Municipios, y organismos públicos autónomos;
 
@@ -207,13 +209,15 @@ XXVI. Denegar ajustes razonables, que garanticen, en igualdad de condiciones, el
 
 XXVII. Estigmatizar o negar derechos a personas con adicciones, que han estado o se encuentren en centros de reclusión, o en instituciones de atención a personas con discapacidad mental o psicosocial;
 
-XXVIII. Difundir sin consentimiento de la persona, información sobre su condición de salud, instalaciones de salud ni establecimientos farmacéuticos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Difundir sin consentimiento de la persona, información sobre su condición y antecedentes de salud física o mental, instalaciones de salud ni establecimientos farmacéuticos o sobre cualquier otro dato personal sensible;
 
 XXIX. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de sus recursos naturales, una vez satisfechos los requisitos establecido (sic) en la legislación aplicable y que anule o menoscabe los derechos y libertades, o atente contra la dignidad;
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
 
-XXX. Estigmatizar y negar derechos a personas que viven con enfermedades infecciosas, crónico degenerativas, las que deriven de una emergencia sanitaria y las de transmisión sexual, por su condición;
+XXX. Estigmatizar y negar derechos a personas que viven con enfermedades infecciosas, crónico degenerativas, las que deriven de una emergencia sanitaria, las de transmisión sexual, por su condición, así como cualquier condición o antecedentes de salud física o mental;
 
 XXXI. Restringir el acceso a cualquier lugar por la apariencia de las personas;
 
@@ -223,7 +227,9 @@ XXXIII. Incitar al odio, violencia, difamación, rechazo y burla de otras person
 
 XXXIV. Realizar o promover violencia física, sexual o psicológica, patrimonial o económica por la edad, género, discapacidad, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual;
 
-XXXV. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Negar la prestación de servicios financieros a personas con discapacidad y personas adultas mayores o por motivo de la condición de salud física o mental;
 
 XXXVI. Impedir la libre elección de cónyuge o pareja;
 
@@ -1264,3 +1270,9 @@ P.O. 17 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 238. SE REFORMAN LAS FRACCIONES XXXVIII Y XXXIX Y SE ADICIONA UNA FRACCIÓN XL AL ARTÍCULO 7, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 265. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 4 Y LAS FRACCIONES XXVIII, XXX, Y XXXV DEL ARTÍCULO 7, TODOS DE (SIC) LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
