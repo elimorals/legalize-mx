@@ -4,7 +4,7 @@ identifier: "FED-ley-en-favor-de-los-veteranos-de-la-revolucion-como-8651"
 country: "mx"
 rank: "ley"
 publication_date: "1950-01-07"
-last_updated: "1967-01-19"
+last_updated: "2022-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1949-12-31"
 ---
 # LEY EN FAVOR DE LOS VETERANOS DE LA REVOLUCION COMO SERVIDORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN LA EDICIÓN VESPETINA DEL D.O.F. DE 6 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY EN FAVOR DE LOS VETERANOS DE LA REVOLUCION COMO SERVIDORES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación el sábado 7 de enero de 1950.
 
@@ -190,3 +192,21 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 D.O.F. 19 DE ENERO DE 1967.
 
 UNICO.- Los trabajadores al servicio civil de la Federación que se crean con derecho a ser reconocidos como Veteranos de la Revolución, deberán presentar la solicitud respectiva a la Secretaría de la Defensa Nacional, Comisión Pro Veteranos, en el término de un año contado a partir de la fecha en que entre en vigor el presente Decreto, en la inteligencia de que, de no hacerlo dentro de ese plazo, prescribirá su derecho a solicitar los beneficios, de pensión establecidos por el mismo.
+
+D.O.F. 6 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL “DECRETO POR EL QUE SE ABROGA LA LEY EN FAVOR DE LOS VETERANOS DE LA REVOLUCIÓN COMO SERVIDORES DEL ESTADO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 7 DE ENERO DE 1950”.]</small>
+
+Artículo Único.- Se abroga la Ley en favor de los Veteranos de la Revolución como Servidores del Estado, publicada en el Diario Oficial de la Federación el 7 de enero de 1950.
+
+## Transitorios
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los derechos adquiridos por los familiares o beneficiarios de los veteranos, establecidos en el artículo 16 de la "Ley en favor de los Veteranos de la Revolución como Servidores del Estado", seguirán vigentes en los términos señalados en el mismo artículo.
+
+Tercero.- Los beneficios establecidos en el artículo 16 de la misma Ley, estarán a cargo del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+
+Cuarto.- La Secretaría de la Defensa Nacional deberá publicar el informe de veteranos y los beneficios otorgados a los familiares derechohabientes, el cual deberá actualizarse a los noventa días siguientes de la publicación del presente Decreto.
+
+Quinto.- La Secretaría de la Defensa Nacional deberá realizar una verificación de sobrevivencia dentro de los setenta días posteriores a la entrada en vigor del presente Decreto, para poder cumplir con lo estipulado en el cuarto transitorio.
