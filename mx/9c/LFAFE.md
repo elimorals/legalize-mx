@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2021-02-19"
+last_updated: "2022-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -58,21 +58,21 @@ III.- La Secretaría de la Defensa Nacional, y
 
 IV.- A las demás autoridades federales en los casos de su competencia.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 3.
 
-Las autoridades de los Estados, del Distrito Federal y de los Municipios, en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y su Reglamento señalan.
+Las autoridades de las Entidades Federativas, de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, en sus correspondientes ámbitos de competencia, tendrán la intervención que esta Ley y su Reglamento señalan.
 
 ###### ARTICULO 4.
 
 Corresponde al Ejecutivo de la Unión por conducto de las Secretarías de Gobernación y de la Defensa Nacional, dentro de las respectivas atribuciones que esta Ley y su Reglamento les señalen, el control de todas las armas en el país, para cuyo efecto se llevará un Registro Federal de Armas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 5.
 
-El Ejecutivo Federal, los Gobiernos de los Estados, del Distrito Federal y los Ayuntamientos, realizarán campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo.
+El Ejecutivo Federal, los gobiernos de las Entidades Federativas, de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, realizarán campañas educativas permanentes que induzcan a reducir la posesión, la portación y el uso de armas de cualquier tipo.
 
 Por razones de interés público, sólo se autorizará la publicidad de las armas deportivas para fines cinegéticos y de tiro, en los términos del Reglamento de esta Ley.
 
@@ -168,9 +168,9 @@ l).- Artificios de guerra, gases y substancias químicas de aplicación exclusiv
 
 En general, todas las armas, municiones y materiales destinados exclusivamente para la guerra.
 
-> <small>(REFORMADO, D.O.F. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
-Las de este destino, mediante la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, del Distrito Federal, de los Estados o de los Municipios, así como a servidores públicos extranjeros en los casos a que se refieren los artículos 28 y 28 Bis de esta Ley.
+Las de este destino, mediante la justificación de la necesidad, podrán autorizarse por la Secretaría de la Defensa Nacional, individualmente o como corporación, a quienes desempeñen empleos o cargos de la Federación, de las Entidades Federativas, de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, así como a servidores públicos extranjeros en los casos a que se refieren los artículos 28 y 28 Bis de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -208,11 +208,11 @@ Para los efectos del control de la posesión de armas, las personas físicas deb
 
 Toda persona que adquiera una o más armas, está obligada a manifestarlo a la Secretaría de la Defensa Nacional en un plazo de treinta días. La manifestación se hará por escrito, indicando, marca, calibre, modelo y matrícula si la tuviera.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 18.
 
-Los servidores públicos y jefes de los cuerpos de policía federales, del Distrito Federal, de los Estados y de los Municipios, están obligados a hacer la manifestación a que se refiere el artículo anterior.
+Los servidores públicos y jefes de los cuerpos de policía federales, de las Entidades Federativas, de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, están obligados a hacer la manifestación a que se refiere el artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -254,9 +254,9 @@ Para portar armas se requiere la licencia respectiva.
 
 Los miembros del Ejército, Armada y Fuerza Aérea quedan exceptuados de lo anterior, en los casos y condiciones que señalen las leyes y reglamentos aplicables.
 
-> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
-Los integrantes de las instituciones policiales, federales, estatales, del Distrito Federal y municipales, así como de los servicios privados de seguridad, podrán portar armas en los casos, condiciones y requisitos que establecen la presente ley y las demás disposiciones legales aplicables.
+Los integrantes de las instituciones policiales, federales, estatales, de la Ciudad de México, municipales y alcaldías, así como de los servicios privados de seguridad, podrán portar armas en los casos, condiciones y requisitos que establecen la presente Ley y las demás disposiciones legales aplicables.
 
 ###### ARTICULO 25.
 
@@ -642,11 +642,13 @@ El Reglamento de esta Ley, señalará los plazos para efectuar nuevas ventas a u
 
 La compraventa de armas y cartuchos de uso exclusivo del Ejército, Armada y Fuerza Aérea, se hará por conducto de la institución oficial que señale el Presidente de la República; y se realizará en los términos y condiciones que señalen los ordenamientos que expida la Secretaría de la Defensa Nacional o la Secretaría de Marina, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 52.
 
-La Secretaría de la Defensa Nacional podrá establecer, mediante disposiciones administrativas generales, términos y condiciones relativos a la adquisición de armas y municiones que realicen las dependencias y entidades del Ejecutivo Federal, de los estados, del Distrito Federal y de los municipios, así como los particulares para los servicios de seguridad autorizados o para actividades deportivas de tiro y cacería.
+La Secretaría de la Defensa Nacional podrá establecer, mediante disposiciones administrativas generales, términos y condiciones relativos a la adquisición de armas y municiones que realicen las dependencias y entidades del Ejecutivo Federal, de las Entidades Federativas, de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México, así como los particulares para los servicios de seguridad autorizados o para actividades deportivas de tiro y cacería.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 Dichas disposiciones deberán coadyuvar a lograr los fines de esta ley y propiciar las condiciones que permitan a las autoridades federales y locales cumplir con la función de seguridad pública a su cargo.
 
@@ -776,13 +778,17 @@ IV. Quienes posean cartuchos en cantidades superiores a las que se refiere el ar
 
 Para efectos de la imposición de las sanciones administrativas a que se refiere este artículo, se turnará el caso al conocimiento de la autoridad administrativa local a la que competa el castigo de las infracciones de policía.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría de la Defensa Nacional, así como las demás autoridades federales, estatales, del Distrito Federal o municipales que desempeñen funciones de seguridad, recogerán las armas, previa expedición obligatoria del recibo correspondiente, a todas aquellas personas que las porten sin licencia, sin llevar ésta consigo, o a quienes teniéndola, hayan hecho mal uso de las armas.
+La Secretaría de la Defensa Nacional, así como las demás autoridades federales, estatales, municipales o alcaldías en la Ciudad de México, que desempeñen funciones de seguridad, recogerán las armas, previa expedición obligatoria del recibo correspondiente, a todas aquellas personas que las porten sin licencia, sin llevar ésta consigo, o a quienes teniéndola, hayan hecho mal uso de las armas.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 El arma recogida por no llevar el interesado la licencia, será devuelta previo pago de diez días multa y la exhibición de la licencia. El plazo para exhibir la licencia será de quince días.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1995)</small>
 
 Para los efectos del pago de la multa antes mencionada, se turnará la infracción, a la brevedad, a la autoridad fiscal federal correspondiente.
 
@@ -1129,3 +1135,9 @@ A las personas que hayan cometido un delito de los contemplados en el presente D
 Cuarto. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
 
 Quinto. La aplicación de las normas en los supuestos delictivos a que se refiere el presente Decreto, se hará conforme a lo dispuesto en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 6 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, EN MATERIA DE ARMONIZACIÓN NORMATIVA CON LA DENOMINACIÓN DE LA CIUDAD DE MÉXICO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
