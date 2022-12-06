@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2022-06-16"
+last_updated: "2022-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -297,9 +297,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado; durará cuatro años en su encargo sin posibilidad de reelección y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El proyecto de presupuesto de egresos del Instituto deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -907,9 +907,9 @@ La Ley General de Instituciones y Procedimientos Electorales establece los requi
 
 > <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su proyecto de presupuesto de egresos ante la Legislatura a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda, para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su proyecto de presupuesto de egresos ante la Legislatura a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupuesta, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno y, será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que se presupueste. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1277,15 +1277,13 @@ La Legislatura podrá requerir información o documentación al Gobernador del E
 
 La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 67.
+###### ARTICULO 67.
 
-El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no será menor al presupuesto otorgado en el año inmediato anterior.
+El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
-
-Si durante el ejercicio fiscal que corresponda se modifica el Presupuesto de Egresos del Estado, no se podrán afectar los presupuestos del Poder Judicial, del Poder Legislativo y de los órganos constitucionales autónomos.
+Durante el ejercicio fiscal que corresponda, con la finalidad de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles se podrán realizar ajustes a los presupuestos del Poder Judicial, el Poder Legislativo y de los órganos constitucionales autónomos durante el ejercicio fiscal que corresponda, con base en lo dispuesto en el artículo 15 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y artículo 35 la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes y Decretos
 
@@ -1611,11 +1609,11 @@ VII.- Las demás que le confiera expresamente esta Constitución y la ley respec
 
 #### SECCION SEXTA. De la Revisión y Fiscalización del Estado
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 77.
 
-La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El proyecto de presupuesto de egresos será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos de la Auditoría Superior del Estado no será menor al presupuesto otorgado en el año inmediato anterior.
+La Auditoría Superior del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El proyecto de presupuesto de egresos deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1965,9 +1963,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-El Organismo que establezca la Legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la Legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El proyecto de presupuesto de egresos de la Comisión deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -2093,13 +2091,13 @@ El Fiscal General del Estado y sus agentes, serán responsables de toda falta, o
 
 C.- La Fiscalía General del Estado administrará con autonomía su presupuesto; el Fiscal General del Estado elaborará el anteproyecto de presupuesto de egresos de la Fiscalía General.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho proyecto a la Legislatura del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
+En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho proyecto a la Legislatura del Estado para su discusión y en su caso, aprobación y posterior inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-El presupuesto de egresos para la Fiscalía General del Estado no será menor al presupuesto otorgado en el año inmediato anterior.
+Dicho presupuesto deberá prever la suficiencia presupuestal para permitir el ejercicio eficaz y oportuno de la Fiscalía.
 
 La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
 
@@ -2429,11 +2427,11 @@ Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, r
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 109.
+###### ARTICULO 109.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el proyecto de presupuesto de egresos del Poder Judicial deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -2499,9 +2497,9 @@ Los magistrados no podrán tener, servir o desempeñar al mismo tiempo otro empl
 
 La retribución que perciban los Magistrados del Tribunal de Justicia Administrativa del Estado, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-El proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, no será menor al presupuesto otorgado en el año inmediato anterior.
+El proyecto de presupuesto de egresos del Tribunal deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura, para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -4051,9 +4049,9 @@ e) La elaboración de un informe anual que contenga los avances y resultados del
 
 Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades estatales y municipales, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-El presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, no será menor al presupuesto autorizado en el año inmediato anterior, para tal efecto, el proyecto correspondiente será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda, en los términos que disponga la Ley de la materia. En todo caso, el proyecto de presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas y las personas integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. La persona titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción presentará anualmente ante el Pleno de la Legislatura, un informe de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la Ley aplicable.
+El presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda, en los términos que disponga la Ley de la materia. En todo caso, el proyecto de presupuesto de egresos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción deberá incluir los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas y las personas integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. La persona titular de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción presentará anualmente ante el Pleno de la Legislatura, un informe de labores y resultados, en términos del artículo 51 BIS de esta Constitución y la Ley aplicable.
 
 ###### ARTICULO 162.
 
@@ -5596,3 +5594,11 @@ P.O. 16 DE JUNIO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 007 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
