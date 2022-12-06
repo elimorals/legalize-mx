@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-06-15"
+last_updated: "2022-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "TAM"
 ---
 # LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-(NOTA 2: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2022, DECLARÓ LA INVALIDEZ DEL DECRETO No. 65-172, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO 3, Y 29, PÁRRAFO 2, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DE LA REFERIDA ENTIDAD FEDERATIVA EL QUINCE DE JUNIO DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1291,7 +1289,7 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
-###### ARTÍCULO 66.
+###### ARTICULO 66.
 
 1. La Unidad de la Contraloría interna es el órgano que depende de la Junta de Coordinación Política y tiene a su cargo las siguientes tareas:
 
@@ -1335,9 +1333,9 @@ b) Realizar investigaciones jurídicas y parlamentarias en apoyo al trabajo de D
 
 c) Coordinar el programa de Estancias de Investigación a su cargo;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-d) Colaborar con la Secretaría General el diseño, organización e implementación del Curso de Inducción a la Función Legislativa;
+d) Colaborar con la Secretaría General y la Unidad de Profesionalización Parlamentaria en el diseño, organización e implementación del Curso de Inducción a la Función Legislativa;
 
 e) Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
 
@@ -1345,11 +1343,17 @@ e) Efectuar estudios de derecho comparado en los temas relevantes del interés d
 
 f) Dar seguimiento a las reformas constitucionales y de leyes generales que sean concurrentes con el orden jurídico estatal;
 
-g) Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
 
-h) Instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario;
+g) En coordinación con la Unidad de Profesionalización Parlamentaria fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
 
-i) Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
+
+h) En colaboración con la Unidad de Profesionalización Parlamentaria instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
+
+i) En colaboración con la Unidad de Profesionalización Parlamentaria organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1444,6 +1448,36 @@ b) Adoptar las medidas y decisiones relativas a la vinculación del Centro con o
 c) Gestionar ante la Junta de Coordinación Política la asignación del presupuesto del Centro para el cumplimiento de sus funciones y atribuciones.
 
 7. En los análisis, informes, proyecciones y toda clase de documentos que elabore el Centro, no podrán hacerse recomendaciones de política económica y social.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 66 QUINQUIES.
+
+1. La Unidad de Profesionalización Parlamentaria tiene a su cargo las siguientes atribuciones:
+
+a) Impulsar, analizar, instrumentar, diseñar y desarrollar cursos, diplomados, seminarios y toda clase de actividades académicas tendentes a lograr la mayor profesionalización de las y los Diputados;
+
+b) Promover y realizar permanentemente cursos, seminarios, congresos, foros, conferencias y actividades de capacitación y profesionalización de las y los servidores públicos del Congreso;
+
+c) Promover y realizar convenios de colaboración e intercambio académico y cultural con entidades públicas o privadas, y
+
+d) La planeación, análisis, organización y ejecución de los programas de actualización y especialización relacionados con el servicio parlamentario de carrera, con el objeto de profesionalizar, garantizar y hacer más eficientes los servicios de apoyo parlamentario.
+
+2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, la Unidad contará con la estructura administrativa necesaria, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal de la Unidad deberá contar con un perfil profesional idóneo al de su objeto.
+
+3. El Titular de la Unidad será nombrado por la Junta de Coordinación Política, a propuesta del Presidente de la misma, por un término de tres años, pudiendo ser ratificado, y sólo podrá ser removido por la misma Junta.
+
+4. Para ser nombrado Titular de la Unidad de Profesionalización Parlamentaria, se requiere:
+
+a) Ser mexicano;
+
+b) Estar en pleno de goce de sus derechos civiles y políticos;
+
+c) No haber sido condenado por delito intencional que ameritara pena privativa de la libertad;
+
+d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido, y
+
+e) Acreditar mínimo cinco años en el ejercicio de la profesión y contar con experiencia en materia parlamentaria.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -3736,3 +3770,19 @@ El presente Decreto entrará en vigor a partir de su expedición y se publicará
 ###### ARTÍCULO SEGUNDO.
 
 Quien se encuentre en funciones como Presidente de la Junta de Coordinación Política se mantendrá en su ejercicio hasta entonces se logre una votación en los términos del presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-429 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS D), G), H), E I), DEL PÁRRAFO 1 DEL ARTÍCULO 66 TER Y SE ADICIONA AL ARTÍCULO 66 QUINQUIES A LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El salario y las prestaciones del Titular de la Unidad de Profesionalización Parlamentaria serán homologados al de los Titulares de las Unidades del Congreso.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Coordinación Política, como órgano responsable de designación del Titular de la referida Unidad, tomará las medidas necesarias, a fin de designar de inmediato al Titular de la misma.
