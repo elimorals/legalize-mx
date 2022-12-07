@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2022-10-20"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -809,9 +809,11 @@ a) Al secretario técnico de la propia Junta Política y de Gobierno;
 
 b) Al coordinador del área de Comunicación Social del Congreso del Estado;
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
 c) A los auditores especiales y directores generales de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado, por un periodo de cuatro años y a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública, en términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos.
 
-La remoción de los servidores públicos a que se refiere el presente inciso se realizará por la Junta Política y de Gobierno, previa acreditación de responsabilidad administrativa por sentencia que cause ejecutoria emitida por el Tribunal de Justicia Administrativa, por las causas previstas y aplicables por el artículo 78 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, y
+La remoción de los servidores públicos a que se refiere el presente inciso se realizará soberanamente por la Junta Política y de Gobierno, a propuesta de la Comisión de Hacienda, Presupuesto y Cuenta Pública; y,
 
 d) A los encargados de despacho de los auditores especiales y directores generales de la Entidad Superior de Auditoria y Fiscalización, así como al titular del Instituto de Investigaciones Legislativas y Coordinación de Comunicación Social del Congreso del Estado de Morelos;
 
@@ -1071,9 +1073,9 @@ II. Conocer y dictaminar sobre el Presupuesto de Egresos del Gobierno del Estado
 
 III. Conocer y dictaminar sobre las iniciativas de la Ley de Ingresos del Gobierno del Estado y de los Municipios;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
-IV. Proponer a la Junta Política y de Gobierno para su designación de conformidad con la Constitución Política del Estado Libre y Soberano de Morelos, a los auditores especiales y a los directores generales de la Entidad Superior de Auditoría y Fiscalización.
+IV. Proponer a la Junta Política y de Gobierno para su designación o remoción a los auditores especiales y a los directores generales de la Entidad Superior de Auditoria y Fiscalización, de conformidad con la Constitución Política del Estado Libre y Soberano de Morelos.
 
 V. Solicitar de la Entidad Superior de Auditoría y Fiscalización, la información sobre el ejercicio de los recursos públicos por parte del Gobierno del Estado y de los Ayuntamientos;
 
@@ -3158,3 +3160,13 @@ PRIMERA.- La reforma contenida en el presente decreto entró en vigor al momento
 SEGUNDA.- Remítase el presente decreto al titular del Poder Ejecutivo, para su publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Se derogan las disposiciones de igual o menor rango jerárquico que se opongan a la presente reforma.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS DIECISIETE POR EL QUE SE REFORMAN LOS ARTÍCULOS 50, FRACCIÓN IV, INCISO C) Y 61, FRACCIÓN IV DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan a la presente reforma.
