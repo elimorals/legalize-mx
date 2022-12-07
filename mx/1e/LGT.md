@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2019-07-31"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -256,6 +256,10 @@ IX. Analizar y coadyuvar con la Secretaría de Seguridad Pública, en los casos 
 
 X. Promover y fomentar con la Secretaría de Educación Pública la investigación, educación y la cultura turística;
 
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+
+X Bis. Colaborar y participar con la Secretaría de Salud en el establecimiento de programas, lineamientos, criterios y estándares respecto a la calidad en la prestación de servicios médicos en la industria de Turismo Médico y de Salud, así como, celebrar convenios o cualquier otro acto tendiente a la promoción y fomento del Turismo Médico y de Salud;
+
 XI. Colaborar con la Secretaría del Trabajo y Previsión Social, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad;
 
 XII. Coadyuvar con los comités locales de seguridad aeroportuaria y marítima de los destinos turísticos, que determine la propia Secretaría;
@@ -382,7 +386,9 @@ XVII. Las demás previstas en éste y otros ordenamientos.
 
 La Comisión Ejecutiva de Turismo es una comisión de carácter intersecretarial, que tendrá por objeto conocer, atender y resolver los asuntos de naturaleza turística relacionados con la competencia de dos o más dependencias o entidades de la Administración Pública Federal, así como fungir como órgano de consulta para los asuntos que la Secretaría considere oportuno poner a su consideración.
 
-La Comisión será presidida por el titular de la Secretaría, quien tendrá voto de calidad, y estará integrada por los subsecretarios que designen los titulares de las dependencias y sus equivalentes en las entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables. Asimismo, podrán ser invitados a participar las principales organizaciones sectoriales de turismo, instituciones de educación superior, representantes de los sectores social y privado, exclusivamente con derecho a voz.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+
+La Comisión será presidida por la persona titular de la Secretaría, quién tendrá voto de calidad, y estará integrada por personas con el nivel de subsecretaría que designen las personas titulares de las dependencias y sus equivalentes en la (sic) entidades de la Administración Pública Federal, en los términos de las disposiciones aplicables. Asimismo, podrán ser invitados a participar las principales organizaciones sectoriales de turismo, instituciones de educación superior, representantes de los sectores social y privado, exclusivamente con derecho a voz, garantizando en todo momento el principio de paridad de género.
 
 ### CAPÍTULO VI. De los Consejos Consultivos
 
@@ -390,7 +396,9 @@ La Comisión será presidida por el titular de la Secretaría, quien tendrá vot
 
 El Consejo Consultivo de Turismo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública Federal, con el fin de lograr un desarrollo integral de la actividad turística nacional, utilizando entre otros mecanismo (sic) los foros de consulta y memorias publicadas.
 
-Será presidido por el titular de la Secretaría, y estará integrado por representantes de las dependencias y entidades relacionadas con la actividad turística, así como miembros del sector académico, conforme a lo que establezcan las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+
+Será presidido por la persona titular de la Secretaría, y estará integrado por representantes de las dependencias y entidades relacionadas con la actividad turística, así como integrantes del sector académico, conforme a lo que establezcan las disposiciones reglamentarias, garantizando en todo momento el principio de paridad de género.
 
 Podrán ser invitadas las instituciones y demás entidades públicas, federales o locales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
@@ -400,7 +408,9 @@ Podrán ser invitadas las instituciones y demás entidades públicas, federales 
 
 Los Estados y la Ciudad de México conformarán sus Consejos Consultivos Locales de Turismo, con el fin de lograr un desarrollo integral de la actividad turística local.
 
-Los Consejos Consultivos Locales de Turismo serán presididos por el titular del Ejecutivo Estatal y en su caso por el Jefe de Gobierno de la Ciudad de México, y estarán integrados por los funcionarios locales que tengan a su cargo la materia turística, y aquéllos que determine el Titular del Ejecutivo Local, y presidentes municipales conforme a lo que establezcan las disposiciones reglamentarias.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+
+Los Consejos Consultivos Locales de Turismo serán presididos por la persona titular del Ejecutivo Estatal y, en su caso, por la persona titular de la Jefatura de Gobierno de la Ciudad de México, y estarán integrados por las o los funcionarios locales que tengan a su cargo la materia turística, y aquéllos que determine la persona titular del Ejecutivo Local, y las presidentas o presidentes municipales conforme a lo que establezcan las disposiciones reglamentarias, garantizando en todo momento el principio de paridad de género.
 
 Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado o en la Ciudad de México, las cuales participarán únicamente con derecho a voz.
 
@@ -1117,3 +1127,17 @@ Séptimo. La Secretaría de Hacienda y Crédito Público y la de Turismo realiza
 Octavo. Los derechos de los trabajadores del Consejo de Promoción Turística de México, S.A. de C.V. serán respetados conforme a la legislación y normativa aplicables.
 
 Noveno. Se derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
+
+D.O.F. 7 DE DICIEMBRE DE 2022.
+
+[N. DE E TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 7 DE LA LEY GENERAL DE TURISMO, EN MATERIA DE TURISMO MÉDICO”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto autorizado a la Secretaría de Turismo, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto
+
+D.O.F. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 11, 12 Y 13 DE LA LEY GENERAL DE TURISMO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
