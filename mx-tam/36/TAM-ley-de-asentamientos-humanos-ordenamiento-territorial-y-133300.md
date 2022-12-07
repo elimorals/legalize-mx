@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2021-09-30"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -73,11 +73,21 @@ VI. Establecer y aplicar las bases que regirán la participación del Estado y l
 
 VII. Determinar las bases generales conforme a las cuales los Municipios formularán, aprobarán, administrarán y aplicarán los reglamentos, programas, proyectos, y demás disposiciones en materia de desarrollo urbano, asentamientos humanos u ordenamiento territorial y demás conducentes en el ámbito de su competencia;
 
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
 VIII. Fijar las normas para ordenar y regular y planear toda obra de impacto urbano o regional, de fraccionamiento, rediseño de fraccionamiento, división, fusión, subdivisión y relotificación de terrenos.
 
-El diseño de programas que el mercado inmobiliario y el desarrollo de la vivienda preferentemente de interés social; medio residencial y turístico; y
+El diseño de programas que el mercado inmobiliario y el desarrollo de la vivienda preferentemente de interés social; medio residencial y turístico;
 
-IX. Establecer las infracciones, medidas de seguridad y sanciones, así como el recurso de reconsideración y los procedimientos administrativos que permitan la aplicación de esta Ley.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+IX. Establecer las infracciones, medidas de seguridad y sanciones, así como el recurso de reconsideración y los procedimientos administrativos que permitan la aplicación de esta Ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+X. Fijar las normas para ordenar, regular y planear toda obra de impacto urbano o regional en materia energética que afecte el suelo territorial del Estado.
+
+El desarrollo de programas y convenios que impulsen el mercado en materia energética a través del uso del suelo, así como la preservación del mismo.
 
 ###### Artículo 3.
 
@@ -2117,6 +2127,12 @@ VII. En contraparte a las obligaciones señaladas en la fracción VI de este art
 
 VIII. Una vez concluido el proceso de inscripción ante el Instituto Registral y Catastral del Estado el cual no podrá exceder en tiempo de un año a partir de la fecha en que fuera aprobado el fraccionamiento por la autoridad municipal, y se haya realizado dentro de ese término de tiempo la inscripción correspondiente en el Sistema Estatal, el desarrollador deberá de escriturar por Ley en forma inmediata al municipio las áreas de donación sin reserva ni limitación alguna correspondientes al fraccionamiento, presentado para ello estas en un plazo máximo de 90 días naturales, las escrituras correspondientes indicaran el área total, medidas y colindancias, así como el destino que ocupará cada una en función de área verde, y área de equipamiento urbano para el destino que fueron previstas.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+En caso de que el fraccionador omita por cualquier motivo, escriturar a favor del municipio las áreas de donación, éste tiene la obligación de manifestarle mediante escrito en un término de 10 días naturales al ayuntamiento al que debe de ceder dicha área, las razones por las cuales incumplió con su obligación, anexando las pruebas que considere necesarias. En consecuencia, el Ayuntamiento a través de la Secretaria de Obras Públicas, Desarrollo Urbano y Medio Ambiente, tendrá un término de 15 días naturales para analizar dicho escrito, y emitir una resolución fundada y motivada del porqué considera procedente o improcedente dicho escrito. En caso de ser improcedente, la sanción no puede ser otra que la establecida dentro del artículo 279 fracción III.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VIII.]</small>
+
 Para aquellos desarrollos de régimen de la propiedad en condominio, y donde se reserven las áreas de uso común, verdes y de equipamiento urbano, bastará en los tiempos señalados anteriormente, y en este mismo apartado, el presentar para anexar al expediente del Municipio copia de la escritura que avale que esta se ha generado en reserva de los condóminos indicando sus usos correspondientes.
 
 ###### Artículo 157.
@@ -3447,7 +3463,13 @@ I. A quien se encuentre en el supuesto establecido en la fracción I, del artíc
 
 II. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 277, de esta Ley, la suspensión o demolición de construcciones e instalaciones, y multa de 3,000 a 5,000 veces el valor diario de la Unidad de Medida y Actualización. Si la construcción tiene como fin albergar centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán suspensión, demolición o clausura, y multa equivalente al importe de cinco mil a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2022)</small>
+
 III. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 277, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 4,000 a 6,000 veces la Unidad de Medida y Actualización prevaleciente en la zona económica de que se trate;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+En el caso de la fracción II, inciso e), del artículo 277, ante la actitud contumaz de no realizar el protocolo de la escrituración del área de cesión a favor del municipio, al fraccionador se le aplicará además, la sanción consistente en la revocación de los permisos o autorizaciones para construir o realizar cualquier tipo de obra dentro de dicho predio;
 
 IV. A quien se encuentre en el supuesto contemplado en la fracción VII, del artículo 27 78 (sic), la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 2,500 a 4,500 veces el valor diario de la Unidad de Medida y Actualización. Si el uso dado está relacionado con la instalación u operación de centros donde se presenten espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales, las sanciones aplicables serán la revocación y multa equivalente al importe de 5,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -3658,6 +3680,22 @@ Los efectos legales del presente Decreto aplicarán para las personas que ya se 
 P.O. 30 DE SEPTIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-832 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, FRACCIÓN V, Y 156, FRACCIÓN II, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-414 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 279, FRACCIÓN III; Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EL ACTUAL PARA SER TERCERO A LA FRACCIÓN VIII DEL ARTÍCULO 156; Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III, DEL ARTÍCULO 279, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL, Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-415 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VIII Y IX; Y SE ADICIONA LA FRACCIÓN X, AL ARTÍCULO 2, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
