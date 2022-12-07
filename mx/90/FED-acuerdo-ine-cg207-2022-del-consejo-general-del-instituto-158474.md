@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg207-2022-del-consejo-general-del-instituto-158474
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-05-25"
-last_updated: "2022-05-25"
+last_updated: "2022-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158474&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-04-27"
 ---
 # ACUERDO INE/CG207/2022 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ACTUALIZA EL PROCEDIMIENTO PARA QUE EL INSTITUTO NACIONAL ELECTORAL Y LOS ORGANISMOS PUBLICOS LOCALES VERIFIQUEN DE MANERA PERMANENTE QUE NO EXISTA DOBLE AFILIACION A PARTIDOS POLITICOS YA REGISTRADOS TANTO A NIVEL NACIONAL COMO LOCAL, ESTABLECIDO EN EL ACUERDO INE/CG85/2017
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE PERSONAS AFILIADAS A LOS PARTIDOS POLÍTICOS NACIONALES Y LOCALES, PUBLICADO EN EL D.O.F. DE 7 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ACTUALIZA EL PROCEDIMIENTO PARA QUE EL INSTITUTO NACIONAL ELECTORAL Y LOS ORGANISMOS PÚBLICOS LOCALES VERIFIQUEN DE MANERA PERMANENTE QUE NO EXISTA DOBLE AFILIACIÓN A PARTIDOS POLÍTICOS YA REGISTRADOS TANTO A NIVEL NACIONAL COMO LOCAL, ESTABLECIDO EN EL ACUERDO INE/CG85/2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022 (SIN EFECTOS).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 25 de mayo de 2022.
 
@@ -420,3 +422,29 @@ https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-27-de-abril-de-2
 Página DOF.
 
 www.dof.gob.mx/2022/INE/CGext202204_27_ap_3.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE PERSONAS AFILIADAS A LOS PARTIDOS POLÍTICOS NACIONALES Y LOCALES".]</small>
+
+PRIMERO.- Se dejan sin efectos los Acuerdos INE/CG172/2016, INE/CG851/2016 e INE/CG207/2022. Asimismo, se abrogan los Lineamientos señalados en la consideración 70 del presente Acuerdo.
+
+SEGUNDO.- Se aprueban los Lineamientos para la verificación de los padrones de personas afiliadas a los partidos políticos nacionales y locales, los cuales forman parte del presente Acuerdo como Anexo Uno. Así como, el formato de ratificación, la solicitud de baja, los comprobantes de búsqueda que emite la salida pública del Sistema de Verificación de Personas Afiliadas a los Partidos Políticos, los cuales forman parte integral del presente Acuerdo como Anexos Dos, Tres, Cuatro y Cinco.
+
+TERCERO.- La DEPPP informará a los partidos políticos nacionales los registros clasificados en el estatus "válido" que no cuentan con el dato de fecha de afiliación y establecerá los plazos y procedimientos para que estos notifiquen este dato, a efecto de que la Dirección Ejecutiva proceda a su actualización en el Sistema de verificación. En caso de que los partidos políticos no se pronuncien al respecto, se tomará como fecha de afiliación el 13 de septiembre de 2012. Lo anterior a fin de contar con la totalidad de los datos de las personas afiliadas a los partidos políticos previo al proceso de verificación trianual.
+
+CUARTO.- Las solicitudes, consultas, aclaraciones y en general cualquier comunicación en materia de padrones de personas afiliadas de las diversas instancias u órganos de los PPN dirigidas a la DEPPP deberán gestionarse a través de la oficina de su representación ante el Consejo General de este Instituto y serán respondidas por la misma vía.
+
+QUINTO.- Las solicitudes, consultas, aclaraciones y en general cualquier comunicación en materia de padrones de personas afiliadas de las diversas instancias u órganos de los PPL dirigidas al OPL correspondiente deberán gestionarse a través de la oficina de su representación ante el órgano de dirección del OPL y serán respondidas por la misma vía.
+
+SEXTO.- Se instruye a la Secretaría Ejecutiva coordine a las Direcciones Ejecutivas y Unidades Técnicas del Instituto para que, en su caso, se presenten para su aprobación al Consejo General o a las Comisiones competentes, las propuestas de modificación a los documentos normativos que sufran algún impacto por las disposiciones aprobadas en el presente Acuerdo.
+
+SÉPTIMO.- Se instruye a la Secretaría Ejecutiva para que, a través de la UTVOPL, haga del conocimiento a los OPL el presente Acuerdo y Lineamientos, para que éstos a su vez notifiquen a los PPL los documentos que se aprueban.
+
+OCTAVO.- Se instruye a la DEPPP para que realice las actualizaciones necesarias al Sistema de verificación derivadas de la aprobación del presente Acuerdo las cuales deberá hacer del conocimiento de los PPN y OPL a través de la UTVOPL, a efecto de que estos lo informen a los PPL, una vez que se encuentren disponibles para su operación.
+
+NOVENO.- El presente Acuerdo y los Lineamientos entrarán en vigor a partir del día siguiente al de su aprobación por este Consejo General.
+
+DÉCIMO.- Publíquese en el DOF, en el portal NormaINE y en el portal de Internet del INE.
