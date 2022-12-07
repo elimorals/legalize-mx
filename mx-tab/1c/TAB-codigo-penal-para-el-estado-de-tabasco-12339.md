@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2022-04-13"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2227,9 +2227,9 @@ I.- Al que aproveche energía eléctrica o cualquier otro fluído, sin consentim
 
 II.- Al que se apodere de cosa mueble propia si ésta se halla en poder de otra persona por cualquier título legítimo;
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
-III.- Al que se apodere de frutos pendientes de los árboles o plantas que le dieron origen, aun cuando éstas se encuentren unidas a la tierra;
+III.- Al que se apodere de frutos pendientes de árboles o plantas que le dieron origen, de la cosecha, productos agrícolas o semillas, sin consentimiento de quien legalmente pueda otorgarlo;
 
 IV.- Al que se apodere de objetos de naturaleza transportable aunque se encuentren adheridos a un inmueble.
 
@@ -5580,3 +5580,11 @@ P.O. 13 DE ABRIL DE 2022.
 PRIMERO. El correspondiente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 082 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 178 DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
