@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2022-03-09"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -411,11 +411,13 @@ Los centros de población que estimen haber llenado los requisitos señalados pa
 
 Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que se renovará de conformidad a lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 15 Bis.
 
-Los Municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a su dignidad, así como la incorporación de la perspectiva de género en sus políticas públicas, por lo que para tales fines deberá contar con una dirección denominada Instancia Municipal de la Mujer.
+Los municipios a través de sus funcionarios y servidores públicos darán debido cumplimiento a las disposiciones que emanan de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos, en especial a sus principios rectores de no discriminación, autodeterminación, libertad e igualdad de las mujeres, respeto a su dignidad, así como la incorporación de la perspectiva de género en sus políticas públicas, por lo que para tales fines deberá contar con una dirección denominada Instancia Municipal de la Mujer, procurando que cuenten con el presupuesto, personal y estructura orgánica suficiente para el desarrollo de sus actividades.
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2011)</small>
 
 Todo ello con el fin de garantizar en sus territorios el derecho de acceso de las mujeres a una vida libre de violencia, dentro de un medio ambiente adecuado que favorezca su desarrollo y bienestar.
 
@@ -717,15 +719,17 @@ IV.- Designar una comisión especial integrada por un regidor por cada uno de lo
 
 V.- Los Ayuntamientos podrán acordar por mayoría de sus miembros, integrar comisiones de investigación de hechos que afecten la administración pública municipal. Las comisiones deberán estar integradas de manera plural. Los resultados de las investigaciones se harán del conocimiento del Ayuntamiento y del Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 24 BIS.- Todos los ayuntamientos deberán de crear, instalar o fortalecer la dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la política pública a favor de las mujeres en el municipio.
+
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2018)</small>
-
-###### Artículo 24 Bis.
-
-Todos los Ayuntamientos deberán de crear la Dirección denominada Instancia Municipal de la Mujer, la cual estará encargada de dirigir la Política Pública a favor de las mujeres dentro del Municipio.
 
 Así también, desde el inicio de sus funciones constitucionales, los Ayuntamientos, deberán crear una Instancia Municipal de la Juventud, la cual estará encargada de abrir un espacio físico para la atención, foros, iniciativas y actividades encaminadas a políticas públicas a favor de los jóvenes del municipio y cuya titularidad deberá ser encomendada a un joven.
 
-Para el pleno desarrollo de sus funciones ambas instancias deberán contar con la suficiencia presupuestal necesaria para dicho fin.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+Para el pleno desarrollo de sus funciones ambas instancias se procurarán que cuenten con el presupuesto, personal y estructura orgánica suficiente para el desarrollo de sus actividades durante todo el ejercicio constitucional del municipio.
 
 > <small>(ADICIONADO, P.O. 9 DE MARZO DE 2022)</small>
 
@@ -1745,9 +1749,17 @@ I. Ser ciudadano morelense en pleno uso de sus derechos civiles y políticos;
 
 II. Tener como mínimo veintiún años de edad, cumplidos el día de la designación;
 
-III. Poseer capacidad administrativa y honestidad suficientes; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
 
-IV. No haber sido sentenciado en proceso penal por delito intencional.
+III. Poseer capacidad administrativa y honestidad suficientes;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+IV. No haber sido sentenciado en proceso penal por delito intencional; y,
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+V. Tener los conocimientos suficientes para poder desempeñar el cargo y contar con título y cédula profesional.
 
 ###### Artículo 78.
 
@@ -2127,41 +2139,77 @@ La Secretaría de la Contraloría podrá realizar actos de inspección y vigilan
 
 ### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 89 Bis.
+
+Para los asuntos relacionados la promoción, fortalecimiento y el fomento de las políticas públicas de género, cada ayuntamiento tendrá una dirección de la Instancia Municipal de la Mujer, la titular será nombrada en sesión de Cabildo, formará parte de la estructura de la administración pública municipal, con nombramiento formal debiendo ser independientes del Sistema DIF Municipal y de cualquier regiduría del ayuntamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+Para el pleno desarrollo de sus funciones la Instancia Municipal de la Mujer se procurará que cuente con el presupuesto, personal y estructura orgánica suficiente para el desarrollo de sus actividades durante todo el ejercicio constitucional del municipio.
+
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
-
-###### Artículo 89 Bis.
-
-Para los asuntos relacionados con la perspectiva de género, cada Ayuntamiento tendrá una dirección de la Instancia Municipal de la Mujer, la titular será nombrada en sesión de Cabildo, formara parte de la estructura de la administración pública municipal, con nombramiento formal debiendo ser independientes del Sistema DIF Municipal y de cualquier Regiduría del Ayuntamiento.
 
 La Titular de la Dirección de la Instancia de la Mujer deberá contar con grado académico mínimo de licenciatura y formación de género.
 
-Para su cumplimiento la Titular de la Dirección de la Instancia Municipal de la Mujer tendrá las siguientes facultades:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+Para su cumplimiento la titular de la Dirección de la Instancia Municipal de la Mujer tendrá las siguientes facultades:
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 I. Proponer programas, proyectos y acciones dirigidos al desarrollo integral de las mujeres, en coordinación y concertación de los sectores públicos, privados y sociales;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
+
 II. Promover el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo dirigido a mujeres;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 III. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
+
 IV. Impulsar la profesionalización del personal femenino dentro de la Administración Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 V. Ejecutar en todo el territorio municipal los programas y acciones implementados por el Instituto de la Mujer del Estado de Morelos;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
+
 VI. Promover el acceso a programas sociales y culturales y demás que le ayuden a su desenvolvimiento dentro del desarrollo del Municipio;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 VII. Promover acciones de combate a la pobreza, marginación, migración y exclusión de las mujeres, especialmente en comunidades rurales e indígenas;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
+
 VIII. Promover ante las instancias competentes y coadyuvar en la realización de acciones tendientes a prevenir, atender, sancionar y erradicar cualquier tipo de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 IX. Coordinarse con las instancias federales, estatales y municipales para el desarrollo de programas y proyectos encaminados a promover el desarrollo y la participación de las mujeres en el ámbito social, económico y político del municipio;
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
+
 X. Implementar programas de capacitación para promover la igualdad entre mujeres y hombres en el Municipio;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 XI. Implementar las acciones necesarias para promover la Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-XII. Fungir como enlace ante el Instituto de la Mujer del Estado de Morelos, así como ante el Instituto Nacional de las Mujeres; y
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+XII. Fungir como enlace ante el Instituto de la Mujer del Estado de Morelos, así como ante el Instituto Nacional de las Mujeres, y el Centro de Justicia para las Mujeres de la zona que corresponda.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
 
 XIII. Elaborar el Programa Municipal de Atención y Participación de las Mujeres, el cual estará orientado a impulsar el desarrollo de las mujeres, para lograr e incrementar la integración y participación plena de estas en la vida económica laboral, política, cultural y científica y social del Municipio, así como aspectos del ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
 
 La Conformación de la Instancia Municipal de la Mujer, su organización y sus fines, así como la forma de obtener ingresos extraordinarios al presupuesto municipal, quedarán establecidos en el reglamento municipal de la materia.
 
@@ -2201,15 +2249,23 @@ En términos de lo dispuesto por el artículo 130 de la Constitución Política 
 
 Para tal efecto, los Ayuntamientos, en apoyo del Registro Civil, designarán a los Oficiales del Registro Civil y determinarán el número y ubicación de las Oficialías que sean necesarias, considerando para ello las condiciones socioeconómicas, de distancias y demanda de la población para la prestación del servicio.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+El oficial del Registro Civil en cada municipio podrá llevar a cabo la ceremonia de matrimonio en los actos públicos o eventos en los cuales concurra la o el presidente municipal o la o el síndico municipal y así se determine dentro de cada ayuntamiento.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 91.
 
-Para ser Oficial del Registro Civil, se requiere contar con estudios en Licenciatura en Derecho o pasantía, debidamente acreditados.
+Para ser oficial del Registro Civil, se requiere título de licenciado en derecho y cédula profesional, debidamente expedidos por autoridad competente, al momento de su nombramiento.
 
 ###### Artículo 92.
 
 Son atribuciones de los oficiales del Registro Civil:
 
-I. Autorizar los actos y actas relativos al estado civil de las personas, en la forma y casos que establece la codificación civil estatal, firmándolos de manera autógrafa;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+I. Autorizar los actos y actas relativos al estado civil de las personas, en la forma y casos que establece la codificación familiar estatal, firmándolos de manera autógrafa;
 
 II. Garantizar el cumplimiento de los requisitos que la legislación de la materia prevé para la celebración de los actos y el asentamiento de las actas relativas al estado civil y condición jurídica de las personas;
 
@@ -4452,3 +4508,65 @@ PRIMERA.- Remítase el presente al Gobernador Constitucional del Estado, para lo
 SEGUNDA.- El presente decreto iniciará su vigencia el uno de enero de dos mil veintidós
 
 TERCERA.- Se derogan todas aquellas disposiciones de igual o menor jerarquía jurídica que se oponga (sic) al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS TRECE POR EL QUE SE REFORMA EL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS CATORCE POR EL QUE SE REFORMAN LOS ARTÍCULO *15 BIS, *24 BIS, Y *89 BIS, TODOS ELLOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado.
+
+TERCERA.- Una vez entrando en funciones los 36 municipios del estado de Morelos en su ejercicio constitucional por el periodo 2022-2024, deberán realizar las adecuaciones presupuestales y los ajustes a sus reglamentos y normatividad interna, en un plazo no mayor a noventa días naturales para el cumplimiento del presente decreto.
+
+CUARTA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+QUINTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS QUINCE POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 90 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS DIECISÉIS.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV Y, SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 77 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO SEISCIENTOS DIECIOCHO POR LA QUE SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
+
+CUARTA. Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
