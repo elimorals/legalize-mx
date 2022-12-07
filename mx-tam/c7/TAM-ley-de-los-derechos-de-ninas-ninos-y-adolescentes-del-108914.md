@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2022-09-14"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -491,7 +491,9 @@ III.- Trata de niñas, niños y adolescentes, abuso sexual infantil, explotació
 
 IV.- El tráfico de niñas, niños y adolescentes;
 
-V.- El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Federal y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+
+V.- El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Federal y demás disposiciones aplicables, así como actividades de explotación económica o de otras que sean forzados a realizar y que puedan ser peligrosas para su integridad física, su salud, su desarrollo integral o que les impida estudiar y les limite el libre ejercicio de sus derechos.
 
 VI.- El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables; y
 
@@ -1740,6 +1742,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 14 DE SEPTIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-361 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IX Y X; Y SE ADICIONA LA FRACCIÓN XI, AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-416 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 32, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
