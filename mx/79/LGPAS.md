@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2018-04-24"
+last_updated: "2022-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -806,7 +806,9 @@ El INAPESCA evaluará los resultados de las investigaciones realizadas por las i
 
 La Carta Nacional Pesquera es la presentación cartográfica y escrita que contiene el resumen de la información necesaria del diagnóstico y evaluación integral de la actividad pesquera y acuícola, así como de los indicadores sobre la disponibilidad y conservación de los recursos pesqueros y acuícolas, en aguas de jurisdicción federal. Su contenido tendrá carácter informativo para los sectores productivos y será vinculante en la toma de decisiones de la autoridad pesquera en la adopción e implementación de instrumentos y medidas para el control del esfuerzo pesquero, en la resolución de solicitudes de concesiones y permisos para la realización de actividades pesqueras y acuícolas, y en la implementación y ejecución de acciones y medidas relacionadas con dichos actos administrativos.
 
-La elaboración y actualización de la Carta Nacional Pesquera estará a cargo de la INAPESCA, con la participación que le corresponda a las demás unidades administrativas de la Secretaría y las contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité Asesor Técnico Científico del INAPESCA y deberá publicarse en el Diario Oficial de la Federación anualmente y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2022)</small>
+
+La elaboración y actualización de la Carta Nacional Pesquera estará a cargo de la INAPESCA, con la participación que le corresponda a las demás unidades administrativas de la Secretaría y las contribuciones del sector académico y productivo, que deberán hacerse del conocimiento del Comité Asesor Técnico Científico del INAPESCA y deberá publicarse en el Diario Oficial de la Federación cada dos años y podrán publicarse actualizaciones de las fichas individuales, sin que el total de la Carta pierda su validez.
 
 ###### ARTÍCULO 33.
 
@@ -2257,3 +2259,11 @@ D.O.F. 24 DE ABRIL DE 2018.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría y a las dependencias y entidades que, en su caso, resulten competentes, para el presente ejercicio fiscal y los subsecuentes.
+
+D.O.F. 7 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 32 DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El plazo establecido en el artículo 32 del presente Decreto, correrá a partir de la próxima publicación de la Carta Nacional Pesquera en el Diario Oficial de la Federación.
