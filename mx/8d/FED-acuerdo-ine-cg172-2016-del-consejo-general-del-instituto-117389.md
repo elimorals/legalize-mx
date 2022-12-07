@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg172-2016-del-consejo-general-del-instituto-117389
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-25"
-last_updated: "2017-12-15"
+last_updated: "2022-12-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117389&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-03-30"
 ---
 # ACUERDO INE/CG172/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACION DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLITICOS NACIONALES PARA LA CONSERVACION DE SU REGISTRO Y, SU PUBLICIDAD, ASI COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACION, CANCELACION Y OPOSICION DE LOS DATOS PERSONALES EN POSESION DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE DICIEMBRE DE 2017, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE PERSONAS AFILIADAS A LOS PARTIDOS POLÍTICOS NACIONALES Y LOCALES, PUBLICADO EN EL D.O.F. DE 7 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES PARA LA CONSERVACIÓN DE SU REGISTRO Y, SU PUBLICIDAD, ASÍ COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022 (SIN EFECTOS).
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 25 de noviembre de 2016.
 
@@ -106,3 +106,27 @@ Sexto. Para el bloqueo y supresión de los datos personales, el Comité, a propu
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de internet del INE.
+
+D.O.F. 7 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE PERSONAS AFILIADAS A LOS PARTIDOS POLÍTICOS NACIONALES Y LOCALES”.]</small>
+
+PRIMERO.- Se dejan sin efectos los Acuerdos INE/CG172/2016, INE/CG851/2016 e INE/CG207/2022. Asimismo, se abrogan los Lineamientos señalados en la consideración 70 del presente Acuerdo.
+
+SEGUNDO.- Se aprueban los Lineamientos para la verificación de los padrones de personas afiliadas a los partidos políticos nacionales y locales, los cuales forman parte del presente Acuerdo como Anexo Uno. Así como, el formato de ratificación, la solicitud de baja, los comprobantes de búsqueda que emite la salida pública del Sistema de Verificación de Personas Afiliadas a los Partidos Políticos, los cuales forman parte integral del presente Acuerdo como Anexos Dos, Tres, Cuatro y Cinco.
+
+TERCERO.- La DEPPP informará a los partidos políticos nacionales los registros clasificados en el estatus “válido” que no cuentan con el dato de fecha de afiliación y establecerá los plazos y procedimientos para que estos notifiquen este dato, a efecto de que la Dirección Ejecutiva proceda a su actualización en el Sistema de verificación. En caso de que los partidos políticos no se pronuncien al respecto, se tomará como fecha de afiliación el 13 de septiembre de 2012. Lo anterior a fin de contar con la totalidad de los datos de las personas afiliadas a los partidos políticos previo al proceso de verificación trianual.
+
+CUARTO.- Las solicitudes, consultas, aclaraciones y en general cualquier comunicación en materia de padrones de personas afiliadas de las diversas instancias u órganos de los PPN dirigidas a la DEPPP deberán gestionarse a través de la oficina de su representación ante el Consejo General de este Instituto y serán respondidas por la misma vía.
+
+QUINTO.- Las solicitudes, consultas, aclaraciones y en general cualquier comunicación en materia de padrones de personas afiliadas de las diversas instancias u órganos de los PPL dirigidas al OPL correspondiente deberán gestionarse a través de la oficina de su representación ante el órgano de dirección del OPL y serán respondidas por la misma vía.
+
+SEXTO.- Se instruye a la Secretaría Ejecutiva coordine a las Direcciones Ejecutivas y Unidades Técnicas del Instituto para que, en su caso, se presenten para su aprobación al Consejo General o a las Comisiones competentes, las propuestas de modificación a los documentos normativos que sufran algún impacto por las disposiciones aprobadas en el presente Acuerdo.
+
+SÉPTIMO.- Se instruye a la Secretaría Ejecutiva para que, a través de la UTVOPL, haga del conocimiento a los OPL el presente Acuerdo y Lineamientos, para que éstos a su vez notifiquen a los PPL los documentos que se aprueban.
+
+OCTAVO.- Se instruye a la DEPPP para que realice las actualizaciones necesarias al Sistema de verificación derivadas de la aprobación del presente Acuerdo las cuales deberá hacer del conocimiento de los PPN y OPL a través de la UTVOPL, a efecto de que estos lo informen a los PPL, una vez que se encuentren disponibles para su operación.
+
+NOVENO.- El presente Acuerdo y los Lineamientos entrarán en vigor a partir del día siguiente al de su aprobación por este Consejo General.
+
+DÉCIMO.- Publíquese en el DOF, en el portal NormaINE y en el portal de Internet del INE.
