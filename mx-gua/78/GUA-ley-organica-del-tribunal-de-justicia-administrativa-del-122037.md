@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-tribunal-de-justicia-administrativa-del-122037
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-20"
-last_updated: "2022-10-28"
+last_updated: "2022-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 2017.
 
@@ -307,6 +307,10 @@ El Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato d
 
 En sus faltas temporales, que no excedan de quince días, será suplido por los demás Magistrados en el orden sucesivo atendiendo a la sala de su adscripción. En las faltas que excedan de dicho término y hasta por seis meses improrrogables, el Pleno elegirá al Magistrado que deba sustituirlo; cuando la falta sea definitiva, se elegirá nuevo Presidente para concluir el periodo.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+Artículo 26 A. El Magistrado que tome protesta como Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato, se separará de la Sala de su adscripción y será suplido por un Magistrado Supernumerario.
+
 ###### Artículo 27.
 
 Son atribuciones del Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato:
@@ -429,25 +433,29 @@ III. Acordar con el Presidente lo relativo a las sesiones del Pleno;
 
 IV. Digitalizar la documentación y actuaciones que se requiera incorporar a los expedientes electrónicos tramitados en el juicio en línea, donde se haya impuesto el recurso de reclamación, imprimir y certificar las constancias de los expedientes vinculados y las reproducciones en medios electrónicos de dichas actuaciones;
 
-V. Dar cuenta de los asuntos en las sesiones del Pleno, tomar la votación de los Magistrados, levantar el acta respectiva y comunicar las decisiones que se acuerden;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
 
-VI. Tramitar la correspondencia del Tribunal de Justicia Administrativa del Estado de Guanajuato que no corresponda al Presidente o a las Salas;
+V. Digitalizar la documentación y actuaciones que se requiera incorporar a los expedientes electrónicos tramitados en forma escrita;
 
-VII. Autorizar con su firma las actuaciones del Pleno en unión del Presidente;
+VI. Dar cuenta de los asuntos en las sesiones del Pleno, tomar la votación de los Magistrados, levantar el acta respectiva y comunicar las decisiones que se acuerden;
 
-VIII. Expedir certificaciones de las constancias que obren en los expedientes a su cargo;
+VII. Tramitar la correspondencia del Tribunal de Justicia Administrativa del Estado de Guanajuato que no corresponda al Presidente o a las Salas;
 
-IX. Llevar el turno de los Magistrados que deban formular ponencias para resolución del Pleno y el registro de las sustituciones;
+VIII. Autorizar con su firma las actuaciones del Pleno en unión del Presidente;
 
-X. Verificar la información de las actuaciones del proceso en el Sistema Informático del Tribunal;
+IX. Expedir certificaciones de las constancias que obren en los expedientes a su cargo;
 
-XI. Recibir y procesar la información rendida por las Salas, elaborando gráficas estadísticas de las actividades jurisdiccionales del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+X. Llevar el turno de los Magistrados que deban formular ponencias para resolución del Pleno y el registro de las sustituciones;
 
-XII. Tener bajo su control el archivo general del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+XI. Verificar la información de las actuaciones del proceso en el Sistema Informático del Tribunal;
 
-XIII. Revisar la recopilación de decretos, reglamentos y acuerdos administrativos publicados en el Periódico Oficial del Gobierno del Estado; y
+XII. Recibir y procesar la información rendida por las Salas, elaborando gráficas estadísticas de las actividades jurisdiccionales del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-XIV. Las demás atribuciones que les confieran esta Ley y el Reglamento Interior del Tribunal.
+XIII. Tener bajo su control el archivo general del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+XIV. Revisar la recopilación de decretos, reglamentos y acuerdos administrativos publicados en el Periódico Oficial del Gobierno del Estado; y
+
+XV. Las demás atribuciones que les confieran esta Ley y el Reglamento Interior del Tribunal.
 
 ###### Artículo 33.
 
@@ -495,17 +503,21 @@ VIII. Expedir certificaciones de las constancias que obren en los expedientes ba
 
 IX. Digitalizar la documentación y actuaciones que se requiera incorporar a los expedientes electrónicos tramitados en el juicio en línea, imprimir y certificar las constancias de los expedientes vinculados y las reproducciones en medios electrónicos de dichas actuaciones;
 
-X. Practicar las diligencias que les competan;
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
 
-XI. Capturar la información de las actuaciones del proceso en el Sistema Informático del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+X. Digitalizar la documentación y actuaciones que se requiera incorporar a los expedientes electrónicos tramitados en forma escrita;
 
-XII. Turnar los asuntos para notificación a la Coordinación de Actuarios correspondiente;
+XI. Practicar las diligencias que les competan;
 
-XIII. Asentar las ratificaciones de las representaciones que otorguen los particulares;
+XII. Capturar la información de las actuaciones del proceso en el Sistema Informático del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-XIV. Guardar en el secreto del despacho de la Sala, los documentos, valores, pruebas, pliego de posiciones y demás material probatorio exhibidos por las partes, de conformidad con los lineamientos que para tal efecto emita el Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato; y
+XIII. Turnar los asuntos para notificación a la Coordinación de Actuarios correspondiente;
 
-XV. Las demás atribuciones que les confiera esta Ley y el Reglamento Interior del Tribunal.
+XIV. Asentar las ratificaciones de las representaciones que otorguen los particulares;
+
+XV. Guardar en el secreto del despacho de la Sala, los documentos, valores, pruebas, pliego de posiciones y demás material probatorio exhibidos por las partes, de conformidad con los lineamientos que para tal efecto emita el Pleno del Tribunal de Justicia Administrativa del Estado de Guanajuato; y
+
+XVI. Las demás atribuciones que les confiera esta Ley y el Reglamento Interior del Tribunal.
 
 ###### Artículo 35.
 
@@ -902,5 +914,11 @@ Artículo único. El presente Decreto entrará en vigencia al día siguiente de 
 P.O. 28 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 98 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 170 Y 175 EN SU PRIMER PÁRRAFO RESPECTIVAMENTE Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 170 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 RECORRIÉNDOSE LOS SUBSECUENTES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 113, SE ADICIONAN LOS ARTÍCULOS 26 A, 32, CON UNA FRACCIÓN V Y 34 CON UNA FRACCIÓN X, RECORRIÉNDOSE LAS SUBSECUENTES RESPECTIVAMENTE A LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
