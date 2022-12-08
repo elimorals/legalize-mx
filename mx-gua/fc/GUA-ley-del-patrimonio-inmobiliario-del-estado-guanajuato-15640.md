@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-patrimonio-inmobiliario-del-estado-guanajuato-15640"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-24"
-last_updated: "2013-12-27"
+last_updated: "2022-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO, GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 1999.
 
@@ -660,3 +662,23 @@ P.O. 27 DE DICIEMBRE DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. En lo relativo a los registros del patrimonio inmobiliario y su valuación, el Poder Ejecutivo del Estado deberá realizar lo conducente para cumplir con lo previsto en el presente Decreto, a más tardar el 31 de diciembre de 2014 y los Municipios antes del 31 de diciembre de 2015.
+
+P.O. DE 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL PATRIMONIO INMOBILIARIO DEL ESTADO DE GUANAJUATO”.]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley del Patrimonio Inmobiliario del Estado, contenida en el Decreto Número 212, expedido por la Quincuagésima Séptima Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 103, segunda parte, del 24 de diciembre de 1999.
+
+Emisión de Reglamento
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado expedirá el reglamento de esta Ley, en un plazo que no excederá de 180 días contados a partir de la entrada en vigor del presente Decreto.
+
+Asuntos en trámite
+
+Artículo Cuarto. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se seguirán desarrollando al amparo de las disposiciones de la Ley que se abroga, hasta su conclusión.
