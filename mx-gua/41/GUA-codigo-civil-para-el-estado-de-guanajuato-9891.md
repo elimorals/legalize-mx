@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2022-11-30"
+last_updated: "2022-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -865,11 +865,11 @@ La solicitud deberá ser firmada por los solicitantes, si alguno no pudiere o no
 
 A la solicitud a que se refiere el artículo anterior, se acompañarán los requisitos que establezca el Reglamento del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2022)</small>
 
 ###### Art. 103.
 
-Recibida la solicitud y cumplidos los requisitos, el Registro Civil, previamente a la celebración del matrimonio, deberá informar de manera gratuita a los pretendientes, en la que se les hará saber los derechos y obligaciones que nacen del matrimonio, y los efectos que produce éste respecto a los bienes y con relación a los hijos, además se les dará información sobre salud reproductiva y planificación familiar, así como de prevención, detección, atención, sanción y erradicación de violencia intrafamiliar. De la información proporcionada deberá levantarse constancia que firmarán los pretendientes.
+Recibida la solicitud y cumplidos los requisitos, el Registro Civil, previamente a la celebración del matrimonio, deberá informar de manera gratuita a los pretendientes, en la que se les hará saber los derechos y obligaciones que nacen del matrimonio, y los efectos que produce éste respecto a los bienes y con relación a los hijos, además se les dará información sobre salud reproductiva y planificación familiar, así como de prevención, detección, atención, sanción y erradicación de violencia familiar y de violencia de género. De la información proporcionada deberá levantarse constancia que firmarán los pretendientes.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3611,7 +3611,9 @@ No podrán impedirse, sin justa causa, las relaciones personales entre el menor 
 
 También será considerada como oposición la alienación parental.
 
-El juez aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, impida injustificadamente de manera reiterada la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+El juez aplicará las medidas previstas en el Código de Procedimientos Civiles e incluso podrá decretar el cambio de custodia de los menores previo el procedimiento respectivo, cuando quien tenga decretada judicialmente la custodia provisional o definitiva sobre ellos, impida injustificadamente de manera reiterada la convivencia de los menores con la persona o personas que tengan reconocido judicialmente su derecho a la misma o ejerza violencia vicaria.
 
 ###### Art. 475.
 
@@ -3828,6 +3830,10 @@ V. Por no permitir que se lleven a cabo las convivencias decretadas por autorida
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
 VI. Por la sentencia condenatoria que imponga esta suspensión, en caso de alienación parental.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+VII. Por la sentencia condenatoria que imponga esta suspensión, en caso de violencia vicaria.
 
 ###### Art. 501.
 
@@ -17666,3 +17672,9 @@ P.O. 30 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 109, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 341 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 118, SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 103; Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 474-A; Y SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 500 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
