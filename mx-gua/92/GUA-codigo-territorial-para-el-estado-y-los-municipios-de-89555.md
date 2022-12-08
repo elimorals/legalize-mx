@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2021-11-23"
+last_updated: "2022-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1035,6 +1035,10 @@ XVII bis 6. Promover, coordinar y, en su caso, realizar la investigación y desa
 
 XVIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+XVIII. bis. Coadyuvar con las autoridades y entidades de la Administración Pública Federal, Estatal y Municipal, en las acciones de su competencia para gestionar la dotación de servicios públicos de agua potable y drenaje y en su caso de tratamiento y disposición de aguas residuales, a los asentamientos humanos en proceso de regularización, una vez instaurado el procedimiento administrativo correspondiente tendiente a ello;
+
 XIX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
@@ -1369,6 +1373,10 @@ VII. Diseñar y establecer incentivos y estímulos para la absorción y conserva
 
 VIII. Prestar los servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales y aprobar la propuesta tarifaria;
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+VIII. bis. Evaluar, planear, promover y ejecutar las acciones para la dotación de los servicios públicos referidos en la fracción anterior, a los asentamientos humanos en trámite de regularización, en los términos de la fracción XVIII. bis del artículo 19 y la fracción V del artículo 175 del Código, así como de las disposiciones que en materia de vivienda se establecen en el Título Séptimo;
+
 IX. Promover y estimular la reconversión de tierras agropecuarias degradadas a productivas mediante prácticas de agricultura sustentable o a zonas de conservación ecológica o de recarga de mantos acuíferos;
 
 X. Establecer las medidas necesarias para proteger las zonas de recarga de mantos acuíferos y expedir las declaratorias respectivas;
@@ -1652,6 +1660,10 @@ Atribuciones del organismo operador
 El organismo operador tendrá las atribuciones siguientes:
 
 I. Prestar los servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+II. bis (sic). Participar con las autoridades estatales competentes y los ayuntamientos en las acciones para la dotación de los servicios de agua potable y de drenaje, y en su caso, de tratamiento y disposición de aguas residuales, en los asentamientos humanos sujetos a procesos de regularización de la tenencia de la tierra, en los términos de la fracción V del artículo 175 del Código;
 
 II. Realizar y promover el aprovechamiento sustentable de las fuentes superficiales y subterráneas de agua;
 
@@ -4155,6 +4167,24 @@ IV. Los criterios para la adquisición, aprovechamiento y transmisión de inmueb
 
 V. Los mecanismos para articular la utilización de suelo y reservas territoriales o, en su caso, la regularización de la tenencia de la tierra susceptible al desarrollo urbano, con la dotación de equipamiento e infraestructura urbana;
 
+> <small>(ADICIONADO [N. DE E. CON LOS INCISOS QUE LO INTEGRAN], P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+En los procedimientos de regularización de la tenencia de la tierra ejecutados por el Gobierno del Estado y los ayuntamientos a través de las instancias constituidas para ese objeto, se podrán realizar acciones tendientes a la ejecución de obras de infraestructura, así como la dotación de los servicios públicos de agua potable y de drenaje y en su caso, de tratamiento y disposición de aguas residuales, para los lotes en proceso de regularización, siempre que se cumpla con lo siguiente:
+
+a). El asentamiento humano se localice en zonas cuyo uso de suelo sea apto para vivienda y susceptibles de urbanización, y no comprenda reservas ecológicas, zonas de riesgos o áreas en las que esté prohibida la construcción de vivienda;
+
+b). Se haya instaurado el proceso de regularización de la tenencia de la tierra, para ordenar la situación jurídica de los lotes y de sus poseedores;
+
+c). No se haya incrementado el número de lotes existentes en el asentamiento (sic) partir de que se dio inicio al proceso de regularización, salvo que dicho incremento sea parte de la resolución gubernativa dictada para la regularización del asentamiento humano en los términos de las disposiciones legales correspondientes;
+
+d). El costo de la contratación de los servicios públicos de agua potable y alcantarillado y, en su caso, de tratamiento y disposición de aguas residuales quedará a cargo de los poseedores de los lotes a regularizar;
+
+e). Contar con una consolidación mínima del 30% de viviendas ocupadas del total de los lotes que integran el asentamiento humano susceptible a regularizar;
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
+Para efectos de las disposiciones establecidas en la presente fracción, el inicio del procedimiento de regularización de asentamientos humanos se considerará a partir del acuerdo tomado por los integrantes del Ayuntamiento del municipio de que se trate, correspondiente a la autorización para presentación de solicitud y expediente de regularización ante el Ejecutivo del Estado.
+
 VI. Las medidas que propicien el aprovechamiento de espacios vacantes, lotes baldíos y predios subutilizados que cuenten con equipamiento e infraestructura urbana; y
 
 VII. Los compromisos para la modernización de procedimientos y trámites administrativos en materia catastral, registral y de ordenamiento territorial, así como para la producción y titulación de vivienda.
@@ -5991,9 +6021,11 @@ Las derivaciones de toma de agua o de descarga de alcantarillado requerirán de 
 
 Restricciones por la escasez de agua
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 325.
 
-En épocas de escasez de agua, comprobada o previsible, el organismo operador podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles.
+En épocas de escasez de agua, comprobada o previsible, el organismo operador podrá acordar condiciones de restricción en las zonas y durante el lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles. En todos los casos tendrá prioridad el uso doméstico.
 
 Cuando la escasez de agua sea originada por negligencia o falta de previsión del organismo operador, éste responderá en los términos que prevengan las leyes y el contrato respectivo.
 
@@ -9216,3 +9248,33 @@ Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración defin
 Proceso de entrega-recepción extraordinaria
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+P.O. 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 115, SE REFORMA EL ARTÍCULO 325; Y SE ADICIONAN LA FRACCIÓN XVIII BIS AL ARTÍCULO 19; LA FRACCIÓN VIII BIS AL ARTÍCULO 33; LA FRACCIÓN I BIS AL ARTÍCULO 38; Y UN SEGUNDO Y TERCER PÁRRAFOS A LA FRACCIÓN V DEL ARTÍCULO 175, TODOS ELLOS, DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Realización de estudios técnico-jurídicos a expedientes en trámite
+
+Segundo. El Ejecutivo del Estado, a través de la Comisión Intersecretarial para la Regularización de Asentamientos Humanos (CIPRAH), con la participación de los municipios correspondientes, dentro de los 365 días siguientes a la entrada en vigor del presente Decreto, realizará los estudios técnico-jurídicos a los expedientes conformados por los procesos de regularización de la tenencia de la tierra de los asentamientos humanos que se encuentren en trámite, a fin de identificar e iniciar las gestiones, en los términos del presente Decreto, para la dotación de los servicios públicos de agua potable y alcantarillado y en su caso, de tratamiento y disposición de aguas residuales.
+
+Trámite de beneficiarios de regularizaciones de la tenencia de la tierra que no cuenten todavía con escritura de propiedad
+
+Tercero. Las personas que habiten en los asentamientos humanos que cuenten con resolución gubernativa por la que se haya regularizado la tenencia de la tierra de los lotes que los conforman, y se hubiere identificado al ocupante de los mismos, podrán iniciar los trámites relativos a la contratación y dotación de los servicios de agua potable y alcantarillado y, en su caso, de tratamiento y disposición de aguas residuales, aun cuando no se cuente todavía con título de propiedad sobre el lote respectivo, para lo cual deberán acompañar a su solicitud, copia certificada de la resolución gubernativa.
+
+Para este efecto, se faculta a la Secretaría de Gobierno, por conducto de la Dirección General de Seguridad en la Tenencia de la Tierra, para que se expida, sin costo alguno, a la persona legitimada para ello, copia certificada de la resolución gubernativa de regularización del asentamiento humano en que residan, exclusivamente para el fin establecido en el presente Artículo.
+
+En la certificación se asentará que se expide al interesado exclusivamente para el trámite al que se refiere el presente Artículo y que la misma no constituye constancia de posesión o propiedad de los lotes correspondientes al asentamiento humano.
+
+Inicio de obras mínimas de urbanización
+
+Cuarto. Tratándose de los asentamientos humanos sujetos a procedimientos de regularización, se podrán iniciar las obras mínimas de urbanización, cuando se observen los requisitos contenidos en la fracción V del artículo 175 del Código y los que establezcan en la normatividad aplicable al procedimiento de regularización de la tenencia de la tierra iniciado.
+
+Las obras mínimas serán las necesarias para la prestación de los servicios de suministro de agua potable y drenaje, así como para la operación de la red de alcantarillado.
+
+Implementación progresiva de las disposiciones contenidas en el presente Decreto
+
+Quinto. Las autoridades municipales y los organismos operadores destinarán los recursos que exija la presente reforma, de manera progresiva y de conformidad con su disponibilidad presupuestaria, a fin de dar cumplimiento a las disposiciones del presente decreto.
