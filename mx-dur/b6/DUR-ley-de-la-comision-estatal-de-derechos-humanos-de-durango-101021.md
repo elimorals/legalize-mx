@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2022-12-04"
+last_updated: "2022-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -219,9 +219,9 @@ XX. Desarrollar programas encaminados a la protección de la libertad de expresi
 
 XXI. Difundir programas preventivos en materia de derechos humanos elaborados en la lengua materna de los grupos étnicos reconocidos en el Estado, para que sus integrantes los puedan entender y tengan acceso a una mejor defensa y conocimiento de sus derechos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2022)</small>
 
-XXII. Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, y
+XXII. Impulsar la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes en general y con las particulares consideraciones para los menores integrantes de los grupos indígenas de nuestro Estado y la población transmigrante; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE MAYO DE 2020)</small>
 
@@ -1110,5 +1110,13 @@ P.O. 4 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 266.- QUE CONTIENE REFORMA AL ARTICULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO”.]
 
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 270.- QUE CONTIENE REFORMA AL ARTÍCULO 13 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
