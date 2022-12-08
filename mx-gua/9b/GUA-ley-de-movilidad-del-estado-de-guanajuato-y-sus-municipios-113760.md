@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-movilidad-del-estado-de-guanajuato-y-sus-municipios-1137
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-18"
-last_updated: "2022-06-14"
+last_updated: "2022-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -2105,11 +2105,15 @@ Servicio público de transporte de alquiler sin ruta fija «Taxi»
 
 El servicio público de transporte de alquiler sin ruta fija «Taxi» es aquel que tiene por objeto trasladar personas y sus cosas en vehículos con capacidad de cinco pasajeros incluido el operador, que se puede prestar y ofertar por cualquier medio y se caracteriza por no estar sujeto a itinerarios, rutas, frecuencias ni horarios fijos.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2022)</small>
+
 Forma de prestación
 
 ###### Artículo 153.
 
-El servicio público de alquiler sin ruta fija «taxi» podrá prestarse de manera libre o mediante el servicio conexo de sitio, con las características, vehículos y capacidad de carga que establezca el reglamento de la Ley.
+El servicio público de alquiler sin ruta fija (taxi) podrá prestarse de manera libre o mediante el servicio conexo de sitio, ordinariamente en vehículos tipo sedán entendido como aquel que consta de tres volúmenes en el que el maletero está separado de la cabina y con las características que establezca el reglamento de la Ley.
+
+La prestación del servicio público de alquiler sin ruta fija (taxi) podrá realizarse en vehículos con motores alimentados con fuentes de energía provenientes de electricidad, gasolina, diésel, gas licuado de petróleo y natural, atendiendo la normativa correspondiente.
 
 Servicio público de transporte de personas con discapacidad o movilidad reducida
 
@@ -3736,6 +3740,14 @@ Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración reali
 P.O. 14 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 78, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, AL ARTÍCULO 251 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 119, SE MODIFICA EL ARTÍCULO 153 DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
 
 Inicio de vigencia
 
