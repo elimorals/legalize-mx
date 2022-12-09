@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ciencia-y-tecnologia-del-estado-de-mexico-49893"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2021-05-14"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE 2022.
 
 Ley publicada en la Tercera Sección Bis de la Gaceta del Gobierno del Estado de México, el viernes 31 de diciembre de 2004.
 
@@ -99,7 +99,9 @@ III. Incorporar el desarrollo e innovación tecnológica en los procesos product
 
 IV. Integrar esfuerzos de las diversas comunidades y sectores, tanto de los generadores, como de los usuarios del conocimiento científico y tecnológico, para impulsar áreas estratégicas del conocimiento, con el objeto de fortalecer el desarrollo económico, social y cultural del Estado de México;
 
-V. Brindar atención especial a personas en situación de extrema pobreza, grupos marginados, discapacitados, mujeres, pequeñas empresas y micro empresas, dependencias del Gobierno del Estado y los municipios, instituciones educativas públicas, privadas de tipo básica, media superior y superior.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+V. Brindar atención especial a personas en situación de extrema pobreza, grupos marginados, con discapacidad, mujeres, niñas, niños, adolescentes y personas jóvenes, pequeñas empresas y micro empresas, dependencias del Gobierno del Estado y los municipios, instituciones educativas públicas, privadas de tipo básica, media superior y superior.
 
 ###### ARTICULO 4.
 
@@ -135,7 +137,9 @@ III. La toma de decisiones desde la determinación de políticas generales y pre
 
 IV. Los instrumentos de apoyo a la ciencia y tecnología deberán procurar el desarrollo armónico de la potencialidad científica y tecnológica del Estado, buscando el crecimiento y consolidación de las comunidades académica, científica y tecnológica y del sector productivo;
 
-V. Las políticas, instrumentos y criterios con los que el Ejecutivo del Estado fomente y apoye la investigación científica y el desarrollo tecnológico, deberán buscar el mayor beneficio de estas actividades en la enseñanza y aprendizaje de la ciencia y la tecnología, en la calidad de la educación, desde el tipo básico hasta el superior, así como incentivar la participación y desarrollo de nuevas generaciones de investigadores, mediante el reconocimiento de recursos humanos con talento;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+V. Las políticas, instrumentos y criterios con los que el Ejecutivo del Estado fomente y apoye la investigación científica y el desarrollo tecnológico, deberán buscar el mayor beneficio de estas actividades en la enseñanza y aprendizaje de la ciencia y la tecnología, en la calidad de la educación, desde el tipo básico hasta el superior, así como incentivar la participación y desarrollo de nuevas generaciones de investigadores, proporcionando el reconocimiento y apoyos que la autoridad considere adecuados a los recursos humanos con talento, especialmente cuando se trate de niñas, niños, adolescentes y personas jóvenes;
 
 VI. La concurrencia de aportaciones de recursos públicos y privados para la generación, ejecución, difusión y divulgación de proyectos de investigación científica y desarrollo tecnológico, así como el fomento a la formación de recursos humanos especializados para la innovación y desarrollo tecnológico de la industria, se procurará conforme a las prioridades de desarrollo y consolidación que se demanden en el Estado;
 
@@ -167,7 +171,9 @@ XVII. Los incentivos que se otorguen tendrán por objeto reconocer los logros so
 
 XVIII. Se promoverá la conservación, consolidación, actualización y desarrollo de la infraestructura de investigación existente en el Estado;
 
-XIX. Se fomentará la creación y fortalecimiento de espacios destinados a la divulgación de la ciencia y la tecnología para niños y jóvenes mexiquenses.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+XIX. Se fomentará la creación y fortalecimiento de espacios destinados a la investigación, desarrollo y divulgación de la ciencia y la tecnología para niñas, niños, adolescentes y personas jóvenes mexiquenses.
 
 ###### ARTICULO 7.
 
@@ -345,7 +351,9 @@ III. Asegurará la permanencia, oportunidad y suficiencia de los recursos financ
 
 IV. Controlará la legalidad y transparencia en la aplicación de los recursos financieros asignados a ciencia y tecnología;
 
-V. Fomentará recursos humanos especializados, a través de programas de formación de investigadores en instituciones de educación superior públicas y privadas y centros de investigación públicos y privados nacionales y del extranjero;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+V. Fomentará recursos humanos especializados, a través de programas de formación de investigadores en instituciones de educación superior públicas y privadas y centros de investigación públicos y privados nacionales y del extranjero; así como de programas de identificación, reconocimiento y apoyo de niñas, niños, adolescentes y jóvenes talentos;
 
 VI. Apoyará la creación, desarrollo o consolidación de grupos de investigadores y centros de investigación;
 
@@ -383,7 +391,9 @@ I. Promover la conservación, consolidación, actualización y desarrollo de la 
 
 II. Impulsar la organización de eventos científicos y tecnológicos, encaminados al intercambio de ideas e información y el contacto con especialistas, para propiciar el desarrollo del conocimiento científico y tecnológico;
 
-III. Promover la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en los niños y jóvenes y en la población en general el interés por una formación científica y tecnológica;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+III. Promover la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en las niñas, niños, adolescentes y personas jóvenes, y en la población en general, el interés por una formación en ciencia, tecnología e innovación;
 
 IV. Impulsar en el territorio mexiquense la difusión de programas, proyectos y acciones de impacto estatal, regional, nacional e internacional, así como la producción y difusión de materiales generados por instituciones y organismos similares.
 
@@ -409,9 +419,9 @@ III. Promover actividades para prever, controlar y dar atención oportuna a situ
 
 IV. Impulsar el desarrollo de la ciencia e innovación tecnológica para el mejoramiento de la calidad de la educación en la entidad;
 
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE 2022)</small>
 
-V. Promover la investigación científica y desarrollo tecnológico para la ejecución de programas que den atención a personas discapacitadas, así como a grupos marginados o en extrema pobreza;
+V. Promover la investigación científica y el desarrollo tecnológico para la ejecución de programas que den atención a personas con discapacidad, así como a niñas, niños, adolescentes y personas jóvenes, grupos marginados o en extrema pobreza;
 
 VI. Orientar las actividades de investigación científica y desarrollo tecnológico de la entidad conforme al Plan Estatal de Desarrollo;
 
@@ -472,6 +482,10 @@ III. Promover y participar en programas de apoyo, becas y estancias de investiga
 IV. Fomentar la creación y consolidación de programas de posgrado de alto nivel en el Estado de México;
 
 V. Promover acciones y estrategias para la formación de recursos humanos de alto nivel académico en las dependencias y organismos auxiliares de la administración pública estatal y municipal; en los diferentes sectores y comunidades; en los centros de investigación públicos y privados y en la sociedad en general.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE 2022)</small>
+
+VI. Promover la creación y consolidación de programas de identificación, reconocimiento y apoyo de niñas, niños, adolescentes y personas jóvenes con vocación en tareas de ciencia, tecnología e innovación tecnológica.
 
 #### SECCION II. DEL REGISTRO ESTATAL DE INVESTIGADORES Y TECNOLOGOS
 
@@ -684,3 +698,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE DICIEMBRE 2022.
+
+[N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 111.- POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3, LAS FRACCIONES V Y XIX DEL ARTÍCULO 6, LA FRACCIÓN V DEL ARTÍCULO 22, LA FRACCIÓN III DEL ARTÍCULO 28, LA FRACCIÓN V DEL ARTÍCULO 31 Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 38, DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
