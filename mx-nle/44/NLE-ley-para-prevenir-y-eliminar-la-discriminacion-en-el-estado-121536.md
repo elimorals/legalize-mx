@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2022-12-05"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -352,6 +352,12 @@ V. Diseñar indicadores para la evaluación de las políticas públicas con pers
 VI. Realizar estudios y diagnósticos sobre la situación de la discriminación en el Estado o Municipios; y
 
 VII. Todas las acciones que permitan que las personas que habitan o transitan en el Estado logren la igualdad real de oportunidades y de trato.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 16 BIS.- Todas las oficinas de los poderes públicos del Estado, de los Ayuntamientos, Dependencias y Entidades Estatales y Municipales y de los Organismos Autónomos del Estado de Nuevo León, deberán de contar, como medida de acción integral, con señalética visible, legible y entendible para todo el público, la siguiente leyenda:
+
+"En este lugar NO DISCRIMINAMOS. En NUEVO LEÓN se prohíbe negar, excluir o distinguir el acceso o prestación del servicio a cualquier persona o colectivo social por su origen étnico, nacional, raza, lengua, sexo, género, edad, color de piel, discapacidad, condición jurídica, social o económica, migratoria, identidad indígena, identidad de género, apariencia física, condiciones de salud, religión, formas de pensar, orientación o preferencia sexual, por tener tatuajes, perforaciones o cualquier otra razón que tenga como propósito impedir el goce y ejercicio de los derechos humanos."
 
 ###### ARTÍCULO 17.
 
@@ -1276,3 +1282,11 @@ P.O. 5 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 265. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 4 Y LAS FRACCIONES XXVIII, XXX, Y XXXV DEL ARTÍCULO 7, TODOS DE (SIC) LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2022
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 271. SE ADICIONA EL ARTÍCULO 16 BIS A LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las oficinas de los poderes públicos del Estado, de los Ayuntamientos, Dependencias y Entidades Estatales y Municipales y de los Organismos Autónomos del Estado de Nuevo León tendrán 90 días naturales contados a partir del día de la entrada en vigor de este Decreto para dar cumplimiento a lo establecido en el mismo.
