@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2021-08-02"
+last_updated: "2022-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -156,6 +156,18 @@ Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los
 Las sesiones del Pleno se celebrarán en los días y horas que fije el Reglamento Interior del Supremo Tribunal de Justicia.
 
 De toda sesión del Tribunal se levantará acta que firmarán los Magistrados y el Secretario de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 8 A.- En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Magistrados en un mismo lugar, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas que permitan por lo menos:
+
+I.- La identificación visual plena de los Magistrados, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
+
+II.- La interacción e intercomunicación en tiempo real para propiciar la correcta liberación de ideas y asuntos; y
+
+III.- Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -331,7 +343,9 @@ IV.- Visitar por sí o mandar visitar de acuerdo con las leyes relativas, los Ju
 
 V.- Presentar anualmente a más tardar el último día del mes de febrero, ante el Pleno del Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial;
 
-VI.- Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VI.- Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno, las cuales pueden ser presenciales, o bien virtuales, conforme a lo dispuesto por el artículo 8 A de esta Ley;
 
 VII.- Turnar entre los Magistrados los asuntos de la competencia del Pleno, cuando estime necesario oír su parecer, para acordar algún trámite, o para que formulen el proyecto de resolución que deba ser discutido por el mismo Pleno;
 
@@ -431,9 +445,11 @@ III.- El Magistrado de la Sala Penal que para el efecto designe la propia Sala, 
 
 IV.- El Magistrado de la Sala Penal que para el efecto designe la propia Sala, conocerá y asumirá el carácter de Magistrado Especializado en el Sistema Penal Acusatorio, a fin de resolver el recurso de apelación que se interponga en contra de las resoluciones dictadas por los Jueces de Control; la Sala Penal tendrá competencia para conocer de las resoluciones que sean dictadas por los Jueces o Tribunales de Juicio Oral.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 18.
 
-Las Salas sesionarán en pleno, los días y en horario que establezca el Reglamento Interior del Supremo Tribunal de Justicia.
+Las Salas sesionarán en pleno, de manera presencial o virtual conforme al artículo 8 A de esta Ley, los días y horarios que establezca el Reglamento del Supremo Tribunal de Justicia.
 
 ###### ARTICULO 19.
 
@@ -451,9 +467,9 @@ II.- Distribuir por riguroso turno los negocios entre él y los demás miembros 
 
 III.- Presidir el Pleno de la Sala;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-IV.- Convocar a sesiones;
+IV.- Convocar a sesiones de manera presencial o virtual;
 
 > <small>(REFORMADA, P.O. 13 DE JULIO DE 2009)</small>
 
@@ -795,9 +811,13 @@ ARTÍCULO 33 H.- Las atribuciones del Presidente de la Sala Administrativa será
 
 I.- Representar a la Sala ante toda clase de autoridades;
 
-II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito de los asuntos competencia da (sic) la Sala;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-III.- Convocar y presidir las sesiones y dirigir los debates; y
+II.- Dictar las medidas necesarias para el turno, el despacho pronto y expedito de los asuntos competencia de la Sala;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+III.- Convocar y presidir las sesiones de manera presencial o virtual, y dirigir los debates; y
 
 IV.- Vigilar que se cumpla con las determinaciones de la Sala;
 
@@ -1731,13 +1751,27 @@ El Consejo de la Judicatura Estatal se integrará según lo dispone el Artículo
 
 No podrán formar parte del Consejo los jueces que tengan menos de dos años en el ejercicio de su encargo. Bastará la presencia de cuatro de sus miembros para que el Consejo pueda funcionar, pero siempre deberá contarse con la asistencia del Presidente.
 
-Las sesiones ordinarias del Consejo se efectuarán una vez al mes, el día que fije el reglamento respectivo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+Las sesiones ordinarias del Consejo se efectuarán una vez al mes, de manera presencial o virtual, el día que fije el reglamento respectivo.
 
 Las extraordinarias se celebrarán cuando lo crea necesario el Presidente o lo pida algún consejero.
 
 Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, quienes no podrán abstenerse de votar sino en los casos en que se tengan impedimentos legales. En caso de empate, el Presidente tendrá voto de calidad.
 
 El Consejo tendrá además un Secretario que será el Oficial Mayor del Supremo Tribunal de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+Artículo 94 A.- En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, o cuando así lo determinen, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
+
+I.- La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
+
+II.- La interacción e intercomunicación en tiempo real para propiciar la correcta liberación de ideas y asuntos; y
+
+III.- Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
 
@@ -2764,3 +2798,11 @@ E. Por lo que hace a los Organismos Constitucionales Autónomos, su integración
 ###### ARTÍCULO CUARTO.
 
 Las referencias o alusiones en la redacción de la Constitución Política del Estado de Aguascalientes y de las leyes que de ella emanen, hechas hacia mujeres u hombres, representa a ambos sexos, salvo que de la misma naturaleza de la norma se desprenda la individualización hacia un sexo determinado, que en ningún caso deberá implicar discriminación o trato diferenciado injusto.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY TORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DEAGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
