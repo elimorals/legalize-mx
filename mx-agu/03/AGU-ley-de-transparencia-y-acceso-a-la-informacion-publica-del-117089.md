@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2022-10-31"
+last_updated: "2022-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -469,7 +469,9 @@ III. Fungir como enlace y vínculo entre el ITEA y el Consejo del Sistema Nacion
 
 IV. Solicitar el apoyo, colaboración o auxilio de las autoridades estatales y municipales en sus respectivos ámbitos de competencia;
 
-V. Convocar y conducir las sesiones del Pleno;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+V. Convocar y conducir las sesiones presenciales o virtuales del Pleno;
 
 VI. Por acuerdo del Pleno, promover acciones de inconstitucionalidad en contra de leyes locales expedidas por el Congreso del Estado, que vulneren el Derecho de Acceso a la Información pública y la protección de Datos Personales, en términos de lo dispuesto por el Artículo 42, Fracción XV de la Ley General;
 
@@ -500,6 +502,20 @@ El ITEA contará con un Consejo Consultivo que será una instancia plural que de
 Dicho consejo estará integrado por cinco consejeros cuyo cargo durará tres años con posibilidad de reelección hasta por el mismo periodo y será honorífico; funcionará válidamente con la presencia de tres de sus miembros y tomará sus acuerdos por mayoría de votos. Sesionará de manera ordinaria una vez cada dos meses y de manera extraordinaria cuantas veces estime necesarias el Presidente o la mayoría de sus integrantes. La citación a las sesiones y su desarrollo, se regulará en el Reglamento Interior que expida el ITEA.
 
 El Presidente del Consejo Consultivo será nombrado por la mayoría de los Consejeros; durará en el cargo un año pudiendo ser reelecto por un periodo más.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 30 Bis.
+
+En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
+
+I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
+
+II. La interacción e intercomunicación en tiempo real para propiciar la correcta liberación de ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ###### Artículo 31.
 
@@ -1922,3 +1938,11 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 ###### ARTÍCULO TERCERO.
 
 Aquellos Consejeros que hayan tomado protesta por 7 años de encargo, concluirán su periodo conforme a su designación.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
