@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2021-04-30"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -405,13 +405,13 @@ Las autoridades estatales y municipales competentes convocarán a las organizaci
 
 Corresponderá al Consejo Estatal, al Sistema Estatal de Empleo, y la Secretaría del Trabajo Productividad y Desarrollo Económico del Estado, facilitar la relación entre los organismos de capacitación con las empresas y oficinas públicas y privadas, con el objeto de dar colocación en puestos de trabajo a personas con discapacidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 26.
 
-El Gobierno del Estado y los Ayuntamientos, tanto en su administración centralizada como descentralizada, destinarán por lo menos el 3% de sus respectivas plantas de personal, con el objeto de que sean ocupadas por personas con discapacidad, las cuales deberán cumplir con los requerimientos, condiciones y requisitos de acceso que establezca la ley de la propia autoridad.
+Los Poderes Legislativo y Judicial, así como el Poder Ejecutivo y los Ayuntamientos, tanto en su administración centralizada como descentralizada, destinarán por lo menos el 3% de sus respectivas plantas de personal, atendiendo la perspectiva de género, con el objeto de que sean ocupadas por personas con discapacidad, las cuales deberán cumplir con los requerimientos, condiciones y requisitos de acceso que establezca la ley de la propia autoridad.
 
-Esta disposición no podrá, en ningún caso, significar creación de empleos ni desplazamiento de trabajadores o servidores públicos ya contratados.
+Esta disposición no podrá, en ningún caso, significar creación de nuevos empleos, cargos o comisiones, ni desplazamiento de personas trabajadoras o servidoras públicas ya contratadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -1044,3 +1044,11 @@ P.O. 30 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. La reforma prevista al artículo 26 no significará, por ningún motivo, creación de nuevos espacios laborales a menos que así se crea conveniente, ni tampoco implicará despidos o desplazamiento de trabajadores o servidores públicos ya contratados.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA EL ARTÍCULO 26 DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT, EN MATERIA DE INCLUSIÓN LABORAL”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. La reforma prevista en el artículo 26 no significará, por ningún motivo, creación de nuevos empleos, cargos o comisiones, a menos que así se crea conveniente, ni tampoco aplicará despidos o desplazamientos de personas trabajadoras o servidoras públicas ya contratadas, por lo que se dará cumplimiento a dicha disposición reformada de manera gradual conforme a la disposición presupuestal.
