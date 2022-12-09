@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-12-02"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -595,9 +595,11 @@ La autoridad judicial aplicará las sanciones y éstas serán ejecutadas por las
 
 ### CAPÍTULO II. PRISIÓN
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 51.
 
-La prisión consiste en la privación de la libertad personal, la que podrá ser de tres meses a sesenta años y se extinguirá en los lugares o establecimientos que al efecto designe el órgano encargado de la ejecución de las sanciones.
+La prisión consiste en la privación de la libertad personal, la que podrá ser de tres meses a sesenta años, salvo la excepción prevista en el artículo 361 TER, y se extinguirá en los lugares o establecimientos que al efecto designe el órgano encargado de la ejecución de las sanciones.
 
 ###### ARTÍCULO 52.
 
@@ -3701,31 +3703,71 @@ Se impondrán de cuarenta a sesenta años de prisión y multa de quinientos a mi
 
 Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen motivos de género, cuando se acredite alguna de las circunstancias siguientes:
 
-I. La víctima presente signos recientes de violencia sexual de cualquier tipo;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida o actos de necrofilia;
+I. La víctima presente signos recientes de violencia sexual de cualquier tipo, previas o posteriores a la privación de la vida;
 
-III. Existan antecedentes o indicios legalmente preconstituidos de amenazas, acoso, hostigamiento, violencia intrafamiliar o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-IV. El cuerpo de la víctima sea expuesto o arrojado en un lugar público;
+II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, tortura o tratos crueles e inhumanos, previos o posteriores a la privación de la vida o actos de necrofilia;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+III. Existan antecedentes o indicios legalmente preconstituidos de amenazas, acoso, hostigamiento, lesiones o violencia: intrafamiliar, laboral, comunitaria, política, escolar, económica, patrimonial, psicológica o cualquier otro tipo de violencia motivada por razones de género, del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IV. El cuerpo de la víctima sea expuesto, arrojado o depositado en un lugar público;
 
 V. Cuando el sujeto activo haya cometido sobre la víctima otro delito de tipo sexual;
 
 VI. El homicidio se cometa para ocultar una violación o evitar que se denuncie o sancione dicho ilícito;
 
-VII. La víctima haya sido incomunicada o privada de su libertad, de cualquier forma, o
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-VIII. Que se cometa por odio, aversión obsesiva, discriminación o dominio hacia la mujer.
+VII. La víctima haya sido incomunicada o privada de su libertad, de cualquier forma;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VIII. Que se cometa por odio, aversión obsesiva, discriminación o dominio hacia la mujer;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IX. La pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja o de intimidad con la víctima;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+X. El cuerpo o restos de la víctima hayan sido enterrados, ocultos, incinerados o desmembrados;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XI. Cuando la víctima se haya encontrado en un estado de indefensión. Entiéndase esta como la situación de desprotección real o incapacidad que imposibilite su defensa o la solicitud de auxilio;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XII. Que el sujeto activo haya obligado a la víctima a realizar o ejercer la prostitución, o haya ejercido actos de trata de personas en agravio de la víctima;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XIII. Cuando el sujeto activo mediante engaños tenga comunicación con la víctima a través de redes sociales o cualquier plataforma tecnológica, logrando obtener su confianza de manera previa a la privación de la vida, o
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XIV. La situación de vulnerabilidad en la que se encontraba la víctima al momento de la comisión del delito por el imputado.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+Quien intente dolosamente privar de la vida a una mujer por las razones de género establecidas en este artículo y no lo lograse por cualquier circunstancia, se le considerará como tentativa de feminicidio.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 En caso que no se acredite el feminicidio se aplicarán las reglas del homicidio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 361 Ter.
 
-Se aumentará hasta en una cuarta parte más la pena de prisión señalada en el artículo anterior y multa de seiscientos a mil doscientos días, cuando entre el responsable y la víctima de feminicidio, se actualice alguno de los supuestos siguientes:
+Se impondrá una pena de cincuenta a setenta y cinco años y multa de seiscientos a mil doscientos días, cuando entre el responsable y la victima de feminicidio, se actualice alguno de los supuestos siguientes:
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3739,17 +3781,25 @@ II. Que exista una relación de noviazgo, amistad o cualquier otra relación sen
 
 III. Que el sujeto activo sea padrastro, hijastro o hermanastro de la víctima;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-IV. Que la víctima se encuentre en estado de gravidez, o
+IV. Que la víctima se encuentre en estado de gravidez;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-V. Que la víctima sea menor de dieciocho años de edad.
+V. Que la víctima sea menor de dieciocho años de edad, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. Que el delito fuere cometido previo suministro de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 Tratándose de una relación de parentesco, se impondrá además de la prisión, la pérdida de derechos con respecto a la víctima u ofendidos, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -4802,3 +4852,9 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ABUSO SEXUAL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, RESPECTO AL TIPO PENAL DE FEMINICIDIO CON RELACIÓN A SUS AGRAVANTES DE TENTATIVA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
