@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2022-10-31"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -484,6 +484,18 @@ Durarán en el cargo cuatro años sin posibilidad de reelección en el período 
 El Consejo sesionará de manera ordinaria o extraordinaria y tomará sus decisiones por mayoría de votos de sus miembros presentes.
 
 Las sesiones ordinarias se verificarán una vez al mes. Las sesiones extraordinarias podrán ser convocadas por el Presidente o a solicitud de cuando menos tres miembros del Consejo, para tratar asuntos urgentes o que requieran inmediata resolución.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 25 BIS.- En casos fortuitos o de fuerza mayor que impidan o hagan inconveniente la presencia física de los Consejeros en un mismo lugar, las sesiones podrán celebrarse de manera virtual, empleando herramientas tecnológicas, que permitan por lo menos:
+
+I. La identificación visual plena de los Consejeros, aunque deberá privilegiarse, en caso de que exista la posibilidad del uso de herramientas que lo permitan, la identificación mediante la firma electrónica avanzada;
+
+II. La interacción e intercomunicación en tiempo real para propiciar la correcta liberación de ideas y asuntos; y
+
+III. Dejar registro audiovisual de la sesión y sus acuerdos.
+
+En estos supuestos, la convocatoria, celebración de las sesiones virtuales, redacción y formalización de las correspondientes actas y acuerdos, se sujetarán a las disposiciones reglamentarias.
 
 ### CAPÍTULO IV. De la Junta
 
@@ -1278,3 +1290,11 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES; SE ADICIONA EL ARTÍCULO 25 BIS A LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
