@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-17107"
 country: "mx"
 rank: "ley"
 publication_date: "1994-10-19"
-last_updated: "2010-02-04"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ENERO DE 2010.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 4 DE FEBRERO DE 2010.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Cuarta del Número 78 de la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 1994.
 
@@ -47,9 +45,11 @@ LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO
 
 Se crea el Colegio de Estudios Científicos y Tecnológicos del Estado de México como Organismo Público Descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios.
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-El domicilio del Colegio de Estudios Científicos y Tecnológicos del Estado de México se ubicará en el lugar que determine el Gobernador del Estado por conducto de la Secretaría de Educación, Cultura y Bienestar Social.
+El domicilio del Colegio de Estudios Científicos y Tecnológicos del Estado de México se ubicará en el lugar que determine el Gobernador del Estado por conducto de la Secretaría de Educación.
 
 ###### Artículo 3.
 
@@ -63,15 +63,25 @@ III. Reforzar el proceso enseñanza-aprendizaje con actividades curriculares y e
 
 IV. Promover y difundir la actitud crítica derivada de la verdad científica, la previsión y búsqueda del futuro con base en el objeto de nuestra realidad y valores nacionales;
 
-V. Promover la cultura estatal, nacional y universal, especialmente la de carácter tecnológico; y
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
 
-VI. Realizar programas de vinculación con los sectores público, privado y social que contribuyan a la consolidación del desarrollo tecnológico y social del ser humano.
+V. Promover la cultura estatal, nacional y universal, especialmente la de carácter tecnológico;
+
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. Realizar programas de vinculación con los sectores público, privado y social que contribuyan a la consolidación del desarrollo tecnológico y social del ser humano, y
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VII. Implementar la Educación Dual, como una opción educativa del tipo medio superior, que combina los procesos de enseñanza y aprendizaje en el Organismo y las Unidades Económicas, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### Artículo 4.
 
 Para el cumplimiento de su objeto, el Colegio de Estudios Científicos y Tecnológicos del Estado de México tendrá las siguientes atribuciones:
 
-I. Establecer, organizar, administrar y sostener planteles en los lugares que el Ejecutivo del Estado estime convenientes y necesarios, por conducto de la Secretaría de Educación, Cultura y Bienestar Social, previo estudio de factibilidad;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+I. Establecer, organizar, administrar y sostener planteles en los lugares que el Ejecutivo del Estado estime convenientes y necesarios, por conducto de la Secretaría de Educación, previo estudio de factibilidad;
 
 II. Formular y adecuar sus planes y programas de estudio, mismos que deberán someterse a la autorización de la Secretaría de Educación Pública;
 
@@ -81,6 +91,14 @@ IV. Organizar su estructura conforme a lo previsto en la presente Ley;
 
 V. Diseñar y ejecutar su plan institucional de desarrollo;
 
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+V Bis. Coordinar, ejecutar, vigilar, supervisar y evaluar el proceso del alumnado que se encuentre bajo la modalidad de Educación Dual, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+V Ter. Promover la vinculación del Organismo con las unidades económicas que fomenten el desarrollo de la Educación Dual, para fortalecer la formación teórica y práctica del alumnado;
+
 VI. Establecer equivalencias con estudios del mismo tipo, grado y modalidad educativa realizados en instituciones nacionales y extranjeras;
 
 VII. Organizar y llevar a cabo programas culturales, recreativos y deportivos;
@@ -89,7 +107,9 @@ VIII. Estimular al personal directivo, docente, administrativo y de apoyo para s
 
 IX. Regular los procedimientos de selección e ingreso de los alumnos y establecer las normas para su permanencia en la institución;
 
-X. Establecer los procedimientos de ingreso, permanencia y promoción de su personal académico;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+X. Participar en los procesos de selección para la admisión, promoción y reconocimiento del personal docente y de promoción a cargos con funciones de Dirección, de acuerdo con lo previsto por la Ley General del Sistema para la Carrera de las Maestras y los Maestros y las disposiciones jurídicas aplicables;
 
 XI. Establecer procedimientos de acreditación y certificación de estudios;
 
@@ -123,7 +143,9 @@ I. Dos representantes del Gobierno del Estado, designados por el Ejecutivo Estat
 
 II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-III. Un representante del sector social, nombrado por el Gobierno del Estado a propuesta del Secretario de Educación, Cultura y Bienestar Social; y
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+III. Una persona representante del sector social, nombrado por el Gobierno del Estado a propuesta de la persona titular de la Secretaría de Educación, y
 
 IV. Dos representantes del sector productivo, que participen en el financiamiento del Colegio mediante un Patronato constituido para apoyar a la operación del mismo. Estos representantes serán designados por el propio Patronato.
 
@@ -161,7 +183,9 @@ V. Aprobar los programas y presupuestos del Colegio, así como sus modificacione
 
 VI. Aprobar anualmente, previo dictamen del Auditor Externo, los estados financieros;
 
-VII. Nombrar a los Directores de área y de plantel a propuesta del Director General;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VII. Nombrar a las personas titulares de las Unidades Administrativas del Organismo, a propuesta del Director General;
 
 VIII. Reglamentar la conformación de las comisiones dictaminadoras internas y externas y designar a sus integrantes;
 
@@ -177,9 +201,11 @@ XIII. Designar a los miembros del Patronato del Colegio; y
 
 XIV. Las demás que se deriven de esta Ley o sus Reglamentos.
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-Para el cumplimiento de las facultades establecidas en las fracciones II y III del artículo 8, la Junta Directiva contará con el apoyo de un Consejo Técnico Consultivo, que será un órgano integrado por especialistas de alto reconocimiento académico y profesional con funciones de asesoría. El número de miembros, organización y formas de trabajo estarán establecidos en las normas reglamentarias. El personal académico del Colegio podrá participar en este Consejo.
+Para el cumplimiento de las facultades establecidas en las fracciones II y III del artículo 8, la Junta Directiva contará con el apoyo de un Consejo Técnico Consultivo, que será un órgano integrado por especialistas de alto reconocimiento académico y profesional con funciones de asesoría. El número de miembros, organización y formas de trabajo estarán establecidos en las normas reglamentarias. El personal docente del Colegio podrá participar en este Consejo.
 
 ###### Artículo 10.
 
@@ -237,7 +263,9 @@ IV. Vigilar el cumplimiento de las disposiciones y acuerdos que normen la estruc
 
 V. Proponer a la Junta Directiva las modificaciones a los planes de estudios y los programas académicos, sugeridos por las instancias correspondientes;
 
-VI. Proponer a la Junta Directiva los nombramientos de los Directores de área y de plantel, así como su remoción;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. Proponer a la Junta Directiva los nombramientos de las personas titulares de las Unidades Administrativas del Organismo, así como su remoción;
 
 VII. Conocer de las infracciones a las disposiciones legales de la institución y aplicar, en el ámbito de su competencia las sanciones correspondientes;
 
@@ -267,7 +295,9 @@ XVIII. Las demás que señalen otras disposiciones.
 
 Los Directores de área coordinarán aquellas actividades que se requieran para el buen funcionamiento del Colegio y tendrán las demás funciones que establezca el Reglamento Interior.
 
-Corresponderá a los Directores de plantel la administración del centro educativo a su cargo, así como la ejecución de los planes y programas de estudio del Colegio conforme a lo que establezcan la Junta Directiva y la Dirección General, en términos del reglamento respectivo.
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+Corresponderá a los Directores de plantel la administración del centro educativo a su cargo, así como la ejecución de los planes y programas de estudio del Colegio, de acuerdo con la normativa aplicable.
 
 ### CAPITULO TERCERO. Del Patrimonio
 
@@ -341,35 +371,43 @@ VII. Ejercer las demás facultades que le confieran las disposiciones expedidas 
 
 Para el cumplimiento de su objeto, el Colegio contará con el siguiente personal:
 
-I. Académico;
+> <small>(REFORMADA. G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+I. Docente;
 
 II. Técnico de apoyo; y
 
 III. Administrativo.
 
-Será personal académico el contratado por la institución para el desarrollo de sus funciones sustantivas de docencia, investigación, vinculación y difusión, en los términos de las disposiciones que al efecto se expidan y de los planes y programas académicos que se aprueben.
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+Será personal docente el profesional en la educación media superior que asume ante el Estado y la sociedad la corresponsabilidad del aprendizaje de los educandos en la escuela, considerando sus capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje y en consecuencia, contribuye al proceso de enseñanza aprendizaje, como promotor, coordinador, guía, facilitador, investigador y agente directo del proceso educativo.
 
 El personal técnico de apoyo, será el que se contrate para realizar actividades específicas que posibiliten, faciliten y complementen el desarrollo de las labores académicas.
 
 El personal administrativo será el contratado para desempeñar las tareas de dicha índole.
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-El ingreso, promoción y permanencia del personal académico del Colegio se realizará por concursos de oposición que calificarán comisiones internas en el caso de la promoción, y externas tratándose del ingreso y la permanencia. Dichas comisiones estarán integradas por académicos de alto reconocimiento.
+La admisión, promoción y reconocimiento del personal docente y de promoción a cargos con funciones de Dirección del Colegio, se realizará mediante procesos anuales de selección de acuerdo a la Ley General del sistema para la carrera de las Maestras y Maestros y demás normatividad aplicable.
 
-Los procedimientos y normas que la Junta Directiva expida para regular dichos concursos deberán asegurar el ingreso, promoción y permanencia de personal calificado. Los procedimientos de permanencia del personal académico se aplicarán a partir del quinto año de su ingreso.
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Las relaciones laborales entre el Colegio y su personal académico, técnico de apoyo y administrativo, con excepción del que se contrate por honorarios en términos del Código Civil vigente del Estado de México, se regirán por las disposiciones que regulen las relaciones laborales de los trabajadores con el Estado, de tal manera que para efectos sindicales se entiende al organismo como autónomo.
+Las relaciones laborales entre el Colegio y su personal docente, técnico de apoyo y administrativo, con excepción del que se contrate por honorarios en términos del Código Civil vigente del Estado de México, se regirán por las disposiciones que regulen las relaciones laborales de los trabajadores con el Estado, de tal manera que para efectos sindicales se entiende al organismo como autónomo.
 
-Se considera personal de confianza del Colegio todo aquel que realice funciones de dirección, vigilancia y fiscalización.
+Se considera personal de confianza del Colegio todo aquel que realice funciones de dirección, inspección, vigilancia, auditoría, fiscalización, asesoría y manejo de recursos, así como las previstas en la legislación aplicable.
 
-El personal del Colegio, con la excepción señalada en el primer párrafo de este artículo, gozará de la seguridad social que instituye la Ley de Seguridad Social para Servidores Públicos del Estado de México, de sus Municipios y de los Organismos Coordinados y Descentralizados, por lo que quedarán incorporados a dicho régimen.
+El personal del Colegio, con la excepción señalada en el primer párrafo de este artículo, gozará de la seguridad social que instituye la Ley de Seguridad Social para Servidores Públicos del Estado de México y sus Municipios, por lo que quedarán incorporados a dicho régimen.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 28.
 
-El personal académico de la institución podrá agruparse en la forma que mejor convenga a sus intereses para cumplir sus fines de tipo académico.
+El personal docente de la institución podrá agruparse en la forma que mejor convenga a sus intereses para cumplir sus fines de tipo académico.
 
 ### CAPITULO SEXTO. Del Alumnado
 
@@ -428,3 +466,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igualo menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- A partir del inicio de la vigencia de este Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para llevar a cabo las modificaciones correspondientes a los Reglamentos de los Organismos Públicos Descentralizados a que se refiere el presente Decreto, y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+G.G. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 110.- POR EL QUE SE REFORMAN EL ARTÍCULO 2, LAS FRACCIONES V Y VI DEL ARTÍCULO 3, LAS FRACCIONES I Y X DEL ARTÍCULO 4, LA FRACCIÓN III DEL ARTÍCULO 6, LA FRACCIÓN VII DEL ARTÍCULO 8, EL ARTÍCULO 9, LA FRACCIÓN VI DEL ARTÍCULO 17, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18, LA FRACCIÓN I Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 25, EL ARTÍCULO 26, EL ARTÍCULO 27, Y EL ARTÍCULO 28; SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 3 Y LAS FRACCIONES V BIS Y V TER AL ARTÍCULO 4 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLÓGICOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- A la entrada en vigor del presente Decreto, en todo caso, se respetarán los derechos laborales del personal docente con cargos de funciones de Dirección del Colegio, de conformidad con las disposiciones jurídicas aplicables.
