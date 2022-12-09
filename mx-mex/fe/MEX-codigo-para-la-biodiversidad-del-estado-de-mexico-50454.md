@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2022-03-22"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -647,7 +647,9 @@ XVI. Aplicar las disposiciones jurídicas en materia de prevención y control de
 
 XVII. Establecer medidas para retirar de la circulación, los vehículos automotores que rebasen los límites máximos permisibles de emisiones contaminantes a la atmósfera de conformidad con lo que señale el Reglamento, las normas técnicas estatales y las normas oficiales mexicanas aplicables;
 
-XVIII. Regular la expedición de autorizaciones para el uso del suelo o de las licencias de construcción u operación que no estén reservadas a la Federación, ponderando la evaluación del impacto ambiental que expida la Secretaría en proyectos de obras, acciones, servicios públicos o privados de conformidad con las disposiciones aplicables en materia de desarrollo urbano y medio ambiente;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Regular la expedición de autorizaciones para el uso del suelo o de las licencias de construcción u operación que no estén reservadas a la Federación, buscando en todo momento la protección de las áreas naturales protegidas, los acuíferos, las reservas naturales y las zonas forestales; preponderando la evaluación del impacto ambiental que expida la Secretaría en proyectos de obras, acciones, servicios públicos o privados de conformidad con las disposiciones aplicables en materia de desarrollo urbano y medio ambiente;
 
 XIX. Prevenir y controlar la contaminación de aguas federales que tengan asignadas para la prestación de servicios públicos y de las que se descarguen en los sistemas de drenaje, alcantarillado y saneamiento de centros de población sin perjuicio de las facultades reservadas a la Federación en materia de descarga, infiltración y reuso de aguas residuales;
 
@@ -3641,7 +3643,9 @@ XXIX. Compilar y procesar la información sobre uso doméstico de los recursos f
 
 XXX. Coadyuvar y participar de conformidad con la Ley General de Desarrollo Forestal Sustentable en la adopción y consolidación del Servicio Nacional Forestal;
 
-XXXI. Regular el uso del fuego en relación con actividades agropecuarias o de otra índole que pudieran afectar los ecosistemas forestales;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+XXXI. Regular el uso del fuego en relación con actividades agropecuarias o de otra índole que pudieran afectar los ecosistemas forestales; así como la capacitación y acreditación de personas para realizar quemas en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales;
 
 XXXII. Promover y participar en la restauración de los ecosistemas forestales afectados por incendio o cualquier otro desastre natural;
 
@@ -3712,6 +3716,10 @@ XVIII. Diseñar, formular y aplicar en concordancia con la política nacional y 
 XIX. Promover programas y proyectos de fomento a la educación, la capacitación, investigación y cultura forestal;
 
 XX. Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con los Gobiernos Federal y Estatal y participar en la atención de las emergencias y contingencias forestales de acuerdo con los programas de protección civil;
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+XX Bis. Autorizar cualquier tipo de quema en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales;
 
 XXI. Desarrollar viveros y apoyar programas de producción de plantas;
 
@@ -3801,9 +3809,13 @@ Para su emisión, los Solicitantes deberán cumplir con los requisitos estableci
 
 XIV. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México, en el ámbito de sus respectivas competencias, que los centros de almacenamiento o transformación de materias primas forestales, cumplan con lo establecido en la evaluación técnica de impacto en materia de transformación forestal aplicando dentro del ámbito de sus atribuciones, las medidas de seguridad e imponiendo las infracciones que correspondan por su inobservancia; y
 
-> <small>(REFORMADA, G.G. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2022)</small>
 
-XV. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
+XV. Capacitar y acreditar a las personas que pretendan realizar cualquier tipo de quema en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XV], G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+XVI. Las demás que le atribuyan las disposiciones legales y los convenios o acuerdos en la materia.
 
 ###### Artículo 3.
 
@@ -4091,13 +4103,23 @@ Las dependencias y entidades del Gobierno del Estado y de los Municipios en los 
 
 54. Compete a PROBOSQUE sin perjuicio de las competencias del resto de las dependencias y entidades de la administración pública federal establecer la planificación, coordinación y ejecución de las medidas precisas para la regulación, prevención, detección, combate y extinción de los incendios forestales.
 
-###### Articulo 3.
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
 
-55. PROBOSQUE elaborará un Plan de Protección de Ecosistemas Forestales contra los incendios donde deberá establecer mecanismos de coordinación entre la Federación, el Estado y los Municipios. Para tal efecto anualmente en la aplicación del Plan se harán públicas las medidas de prevención, detección, combate y extinción para luchar contra los incendios.
+De igual forma, compete a PROBOSQUE la capacitación y acreditación para poder realizar quemas en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 3.
+
+55. PROBOSQUE elaborará un Plan de Protección de Ecosistemas Forestales contra los incendios donde deberá establecer mecanismos de coordinación entre la Federación, el Estado y los Municipios. Para tal efecto anualmente en la aplicación del Plan se harán públicas las medidas de prevención, capacitación, acreditación, detección, combate y extinción para luchar contra los incendios.
 
 ###### Articulo 3.
 
 56. Para realizar cualquier tipo de quema en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales los interesados deberán dar aviso a la autoridad municipal por conducto del Secretario General del Ayuntamiento para obtener el permiso correspondiente quien deberá dar respuesta en un plazo no mayor de tres días hábiles, entendiéndose que si no da respuesta ésta será en sentido positivo. La autoridad municipal deberá a su vez informar de la quema autorizada a la Secretaría para que lleve el registro correspondiente.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+El aviso previsto en el párrafo anterior deberá acompañarse de los documentos que comprueben la capacitación y acreditación vigente por parte PROBOSQUE para realizar quemas en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales.
 
 De igual forma el interesado deberá dar aviso de la quema a los dueños de los predios colindantes cuando menos con diez días de anticipación con el objeto de que adopten las precauciones necesarias y coadyuven en los trabajos de control del fuego.
 
@@ -4115,19 +4137,31 @@ IV. La quema deberá iniciarse de arriba hacia abajo en los terrenos con pendien
 
 V. La quema deberá efectuarse en el período y horario establecido en el Reglamento de la Ley General de Desarrollo Forestal Sustentable.
 
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. La persona que realice la quema deberá contar con la capacitación y acreditación vigente que corresponda por parte de PROBOSQUE.
+
 ###### Artículo 3.
 
 58. Quedan prohibidas las quemas en terrenos que estén a una distancia menor a diez kilómetros de poblaciones urbanas o suburbanas.
 
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 3.
 
-59. PROBOSQUE promoverá la celebración de convenios y acuerdos de colaboración con la Federación, los Municipios, organizaciones y asociaciones en las regiones que así se requiera con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto el planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales.
+58 Bis. La autoridad municipal sancionará con el pago de multa por el equivalente de 100 a 1,000 veces el valor diario de la Unidad de Medida y Actualización vigente, a quien no cumpla con lo dispuesto por los artículos 3.56 y 3.57 de este Código.
+
+#### SECCION UNICA. DE LA PREVENCION, COMBATE Y EXTINCION DE LOS INCENDIOS FORESTALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 3.
+
+59. PROBOSQUE promoverá la celebración de convenios y acuerdos de colaboración con la Federación, los Municipios, organizaciones y asociaciones en las regiones que así se requiera con la finalidad de constituir agrupaciones de defensa forestal que tendrán como objeto planear, dirigir y difundir programas y acciones de prevención y combate a incendios forestales; así como para capacitar y acreditar a las personas que efectúen quemas en terrenos agropecuarios colindantes con terrenos forestales y preferentemente forestales.
 
 Las organizaciones de defensa forestal se organizarán conforme a lo establecido en el Reglamento del presente Libro.
 
 Quienes hagan uso del fuego en contravención de las disposiciones de las normas mencionadas, recibirán las sanciones que prevé el presente Libro, sin perjuicio de las establecidas en las leyes penales.
-
-#### SECCION UNICA. DE LA PREVENCION, COMBATE Y EXTINCION DE LOS INCENDIOS FORESTALES
 
 ###### Articulo 3.
 
@@ -4157,6 +4191,8 @@ Cuando los dueños o poseedores de los predios dañados no hagan la restauració
 
 65. La Secretaría y PROBOSQUE fomentarán la capacitación y formación permanente del personal del Estado y de los Municipios que participe en la defensa contra incendios forestales.
 
+### CAPITULO I. DE LOS INSTRUMENTOS ECONOMICOS DEL FOMENTO FORESTAL
+
 ###### Artículo 3.
 
 66. La reforestación que se realice con propósitos de conservación y restauración, las actividades de forestación y las prácticas de agrosilvicultura en terrenos degradados de vocación forestal no requerirán de autorización y solamente estarán sujetas a las normas oficiales mexicanas y normas técnicas estatales.
@@ -4166,8 +4202,6 @@ Las acciones de reforestación que se lleven a cabo en los terrenos forestales s
 La forestación o reforestación de las áreas taladas será una acción prioritaria en los programas de manejo prediales, zonales o regionales.
 
 Para los efectos del presente Capítulo se consideran prioritarias las zonas incendiadas, especialmente las que hayan sufrido incendios reiterados.
-
-### CAPITULO I. DE LOS INSTRUMENTOS ECONOMICOS DEL FOMENTO FORESTAL
 
 ###### Artículo 3.
 
@@ -4183,15 +4217,15 @@ Para tal efecto el Gobierno del Estado y los Municipios podrán celebrar conveni
 
 69. Cuando por causa de utilidad pública sea necesario reforestar en predios de propiedad particular la Secretaría realizará la declaratoria correspondiente, coordinándose con el propietario o poseedor e instrumentando lo necesario a fin de llevarlo a cabo de acuerdo a lo establecido en el Reglamento del presente Libro.
 
-###### Artículo 3.
-
-70. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad forestal deberán sujetarse a las disposiciones de la Ley de Ingresos y Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia y podrán considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero y de mercado establecidos en otras leyes incluyendo los estímulos fiscales, los créditos, las fianzas, los seguros, los fondos y los fideicomisos, así como las autorizaciones en materia forestal cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades forestales.
-
 ## TITULO QUINTO. DEL FOMENTO AL DESARROLLO FORESTAL
 
 ### CAPITULO II. DE LA CULTURA, EDUCACION Y CAPACITACION FORESTALES
 
 #### SECCION PRIMERA. DE LOS INCENTIVOS ECONOMICOS
+
+###### Artículo 3.
+
+70. Las medidas, programas e instrumentos económicos relativos al desarrollo de la actividad forestal deberán sujetarse a las disposiciones de la Ley de Ingresos y Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda y deberán asegurar su eficacia, selectividad y transparencia y podrán considerar el establecimiento y vinculación de cualquier mecanismo normativo o administrativo de carácter fiscal, financiero y de mercado establecidos en otras leyes incluyendo los estímulos fiscales, los créditos, las fianzas, los seguros, los fondos y los fideicomisos, así como las autorizaciones en materia forestal cuando atiendan o posibiliten la realización de los propósitos y objetivos prioritarios de promoción y desarrollo forestal. En todo caso los programas e instrumentos económicos deberán prever la canalización efectiva y suficiente de apoyos para fomentar las actividades forestales.
 
 ###### Artículo 3.
 
@@ -4221,6 +4255,8 @@ El Poder Legislativo del Estado asignará anualmente las partidas necesarias par
 
 75. No serán objeto de los estímulos económico-fiscales estatales y municipales los propietarios y poseedores de aquellos predios que hubiesen realizado acciones de forestación o reforestación con motivo de una sanción de la autoridad competente.
 
+#### SECCION SEGUNDA. DEL FONDO FORESTAL ESTATAL
+
 ###### Artículo 3.
 
 76. El Fondo Forestal Estatal será el instrumento para promover la conservación, incremento, aprovechamiento sostenible y la protección y restauración de los recursos forestales y sus recursos asociados facilitando el acceso a los servicios financieros en el mercado, impulsando proyectos que contribuyan a la integración y competitividad de la cadena productiva y desarrollando los mecanismos de cobro y pago de bienes y servicios ambientales.
@@ -4228,8 +4264,6 @@ El Poder Legislativo del Estado asignará anualmente las partidas necesarias par
 El Fondo Forestal Estatal operará a través de un Comité Mixto, en él habrá una representación igualitaria y proporcionada del sector público estatal y municipal por un lado, y por otro de las organizaciones privadas y sociales del sector forestal.
 
 La existencia del Fondo no limita la creación de diversos fondos privados o sociales tales como fideicomisos que tengan una relación directa con el desarrollo forestal que en todo caso estarán autorizados por la Secretaría.
-
-#### SECCION SEGUNDA. DEL FONDO FORESTAL ESTATAL
 
 ###### Artículo 3.
 
@@ -4246,6 +4280,8 @@ IV. Las aportaciones que los propietarios y poseedores forestales realicen por c
 V. Las aportaciones del sector industrial forestal; y
 
 VI. Los demás recursos legítimos que obtenga por cualquier otro concepto.
+
+### CAPITULO I. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
 ###### Artículo 3.
 
@@ -4267,8 +4303,6 @@ VII. Promover los criterios de política forestal previstos en el presente Códi
 
 VIII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
-### CAPITULO I. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
-
 ###### Artículo 3.
 
 79. En materia de educación y capacitación la Secretaría y PROBOSQUE en coordinación con la Comisión Nacional Forestal, la Secretaría de Educación, Cultura y Bienestar Social y con las demás dependencias o entidades competentes de los tres órdenes de gobierno, así como de los sectores social y privado realizarán las siguientes acciones:
@@ -4289,11 +4323,11 @@ Las anteriores acciones se considerarán enunciativas y no limitativas
 
 80. Se crea la figura jurídica cuyo nombre genérico es pueblos hospital en superficies con áreas forestales permanentes y bajo programa de manejo forestal sujeto de desarrollo sostenible social, económico y ambiental.
 
+#### SECCION PRIMERA. DE LOS PUEBLOS HOSPITAL
+
 ###### Artículo 3.
 
 81. Los pueblos hospital podrán ser beneficiarios de estímulos fiscales en los términos que se establezcan en el presente Libro y su reglamento, y de incentivos otorgados por los entes públicos mediante la atención preferente en lo que respecta a los programas sociales de los diferentes órdenes de gobierno.
-
-#### SECCION PRIMERA. DE LOS PUEBLOS HOSPITAL
 
 ###### Artículo 3.
 
@@ -4337,13 +4371,13 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 91. El Ejecutivo Estatal y los Municipios conforme a sus atribuciones legales y en el ámbito de su competencia promoverán la participación de la sociedad en general en la planeación, diseño, aplicación y evaluación de los programas e instrumentos de la política forestal estatal para que manifiesten su opinión y propuestas respecto de los programas e instrumentos de la política forestal estatal y municipal que conduzcan a una realidad autogestora y potenciadora de las zonas forestales.
 
-###### Artículo 3.
-
-92. El Gobierno del Estado y los Municipios convocarán a foros de consulta a agrupaciones sociales, privadas y personas físicas relacionadas con los servicios técnicos forestales con la finalidad de fomentar, incluyendo sus propuestas y opiniones a los programas y planes relativos al desarrollo forestal estatal y municipal.
-
 ## TITULO SEXTO. DE LA PARTICIPACION CIUDADANA EN MATERIA FORESTAL
 
 ### CAPITULO II. DE LOS CONSEJOS EN MATERIA FORESTAL
+
+###### Artículo 3.
+
+92. El Gobierno del Estado y los Municipios convocarán a foros de consulta a agrupaciones sociales, privadas y personas físicas relacionadas con los servicios técnicos forestales con la finalidad de fomentar, incluyendo sus propuestas y opiniones a los programas y planes relativos al desarrollo forestal estatal y municipal.
 
 ###### Artículo 3.
 
@@ -4357,6 +4391,10 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 
 95. Se crea el Consejo Forestal Estatal como órgano de carácter consultivo, asesoramiento y concertación en materia de planeación, supervisión, evaluación de las políticas y aprovechamiento, conservación y restauración de los recursos forestales. Invariablemente deberá solicitársele su opinión en materia de planeación forestal, reglamentos y normas.
 
+### CAPITULO I
+
+DE LA DENUNCIA POPULAR.
+
 ###### Artículo 3.
 
 96. El Reglamento Interno del Consejo establecerá la composición y funcionamiento del mismo. En él podrán participar representantes de las dependencias y entidades del Poder Ejecutivo Estatal, así como los representantes de los consejos regionales constituidos en el Estado.
@@ -4364,10 +4402,6 @@ El Consejo Forestal Estatal emitirá su opinión respecto de dichos planes.
 En los consejos regionales podrán participar representantes de las autoridades de los Municipios, de ejidos, comunidades indígenas, pequeños propietarios, prestadores de servicios técnicos forestales, industriales, investigadores, académicos y demás personas físicas o jurídicas colectivas relacionadas e interesadas en cada una de las regiones las cuales estarán determinadas por PROBOSQUE.
 
 Para la constitución de estos consejos se estará a lo establecido en el Reglamento que para el efecto se expida, además se propiciará la representación proporcional y equitativa de sus integrantes y que sus normas de operación interna respondan a las necesidades, demandas, costumbres e intereses de cada territorio o región.
-
-### CAPITULO I
-
-DE LA DENUNCIA POPULAR.
 
 ###### Artículo 3.
 
@@ -4377,19 +4411,19 @@ El denunciante deberá aportar todos los elementos de prueba con que cuenten par
 
 Las denuncias a que se refiere este artículo, deberán ser turnadas a la Procuraduría Federal de Protección al Ambiente en el orden federal, o a la Fiscalía Especial contra Delitos Ambientales en el orden estatal, para el trámite que corresponda.
 
-###### Artículo 3.
-
-98. De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable, previo convenio entre Federación, Estados y Municipios; La Secretaría, PROBOSQUE y Gobiernos Municipales por conducto del personal autorizado podrán realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en este Libro, su reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
-
 ## TITULO SEPTIMO. DE LOS MEDIOS DE CONTROL, VIGILANCIA Y SANCION FORESTALES
 
 ### CAPITULO II. DE LAS VISITAS Y OPERATIVOS DE INSPECCION FORESTALES
 
 ###### Artículo 3.
 
-99. Si como resultado de la inspección se detecta una plaga o enfermedad forestal, se notificará de forma inmediata al propietario o poseedor del terreno forestal o preferentemente forestal y se estará a lo dispuesto en el capítulo relativo a la Sanidad Forestal.
+98. De acuerdo a lo previsto en la Ley General de Desarrollo Forestal Sustentable, previo convenio entre Federación, Estados y Municipios; La Secretaría, PROBOSQUE y Gobiernos Municipales por conducto del personal autorizado podrán realizar visitas u operativos de inspección en materia forestal, con el objeto de verificar el cumplimiento de lo dispuesto en este Libro, su reglamento, las normas oficiales mexicanas aplicables y las demás disposiciones que de ellos se deriven.
 
 ### CAPÍTULO II BIS. DEL DICTAMEN DE FACTIBILIDAD DE TRANSFORMACIÓN FORESTAL Y DEL CONSEJO RECTOR DE TRANSFORMACIÓN FORESTAL
+
+###### Artículo 3.
+
+99. Si como resultado de la inspección se detecta una plaga o enfermedad forestal, se notificará de forma inmediata al propietario o poseedor del terreno forestal o preferentemente forestal y se estará a lo dispuesto en el capítulo relativo a la Sanidad Forestal.
 
 ###### Artículo 3.
 
@@ -4407,11 +4441,11 @@ Cuando de las visitas u operativos de inspección se determine que existe riesgo
 
 100 Bis. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
+### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
+
 ###### Artículo 3.
 
 100 Ter. (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
-
-### CAPITULO III. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 3.
 
@@ -4451,15 +4485,17 @@ A juicio de la autoridad, se podrá designar al inspeccionado como depositario d
 
 PROBOSQUE podrá dar destino final a los productos maderables o no maderables asegurados de manera precautoria y los recursos económicos obtenidos se depositarán hasta que se resuelva el procedimiento legal y, una vez emitido el fallo y la resolución cause efectos, estos recursos se entregarán a quien beneficie el sentido de la resolución. El Reglamento determinará los mecanismos para implementar esta disposición.
 
-###### Artículo 3.
-
-102. Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el retiro de las mismas.
-
 ### CAPITULO IV. DE LAS INFRACCIONES
 
 ###### Artículo 3.
 
+102. Cuando se imponga alguna o algunas de las medidas de seguridad previstas en el artículo anterior, se indicarán, en su caso, las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para realizarlas, a fin de que, una vez satisfechas, se ordene el retiro de las mismas.
+
+###### Artículo 3.
+
 103. Se considerarán como infracciones para efectos de este Libro, los casos previstos en la Ley General de Desarrollo Forestal Sustentable y serán sancionadas administrativamente por la Secretaría de conformidad con la misma Ley General y el Código de Procedimientos Administrativos del Estado.
+
+### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
 
 ###### Artículo 3.
 
@@ -4468,8 +4504,6 @@ PROBOSQUE podrá dar destino final a los productos maderables o no maderables as
 Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión esta circunstancia.
 
 La amonestación sólo será aplicable a los infractores por primera vez, a criterio de la Secretaría y servirá de apoyo para incrementar la sanción económica a los reincidentes.
-
-### CAPITULO I. DEL OBJETO Y DE LAS NORMAS PRELIMINARES
 
 ###### Artículo 3.
 
@@ -8236,3 +8270,27 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor a los 180 días naturales posteriores a su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. El Ejecutivo del Estado en un plazo no mayor a 90 días hábiles, deberá expedir las disposiciones reglamentarias y administrativas en materia de su competencia, de conformidad con el presente Decreto.
+
+G.G. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 108.- POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 2.9 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 109 POR EL QUE “SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 3.13, LA FRACCIÓN XV DEL ARTÍCULO 3.17, EL ARTÍCULO 3.55 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 3.59; SE ADICIONA LA FRACCIÓN XX BIS AL ARTÍCULO 3.14, LA FRACCIÓN XVI DEL ARTÍCULO 3.17, UN SEGUNDO PÁRRAFO DEL ARTÍCULO 3.54, UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 3.56, LA FRACCIÓN VI AL ARTÍCULO 3.57 Y EL ARTÍCULO 3.58 BIS DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
