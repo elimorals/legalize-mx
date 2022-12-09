@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2022-07-01"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
-Ley publicada en el Periódico Oficial del Estado de Campeche el miércoles 24 de junio de 1998.
+Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
 JOSE ANTONIO GONZALEZ CURI, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -345,9 +345,11 @@ Los centros educativos públicos y privados deben promover libremente las activi
 
 La organización de las actividades físicas deportivas de las instituciones a las que la Ley les otorga autonomía se regirán por lo que establezcan sus propias legislaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 31.
 
-Son funciones del Instituto de la Juventud y del Deporte, las siguientes:
+Son funciones del Instituto del Deporte del Estado de Campeche, las siguientes:
 
 I.- Planear, programar y ejecutar a través de sus instituciones deportivas las prácticas deportivas y recreativas de acuerdo al Sistema de Deporte no profesional, así como dar lineamientos para conjugar esfuerzos entre los sectores público, privado y social;
 
@@ -355,9 +357,15 @@ II.- Celebrar convenios a través de sus órganos deportivos con las distintas e
 
 III.- Promover la creación del Centro Estatal de Medicina Deportiva y Ciencias Aplicadas al Deporte;
 
-IV.- Cooperar con el desarrollo del deporte para discapacitados;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IV.- Impulsar y ejecutar políticas públicas que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
 
 V.- Crear el Salón de Honor del deportista campechano.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VI.- Promover, formular y ejecutar políticas para garantizar la participación e igualdad de condiciones entre mujeres y hombres en actividades físicas y deportivas.
 
 ###### Artículo 32.
 
@@ -770,3 +778,13 @@ P.O. 1 DE JULIO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE "SE REFORMAN EL PÁRRAFO PRIMERO Y LA FRACCIÓN IV Y, SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 31 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Las referencias efectuadas al Instituto de la Juventud y del Deporte, en la Ley del Deporte y la Cultura Física para el Estado de Campeche, se entenderán realizadas al Instituto del Deporte del Estado de Campeche.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido de este decreto.
