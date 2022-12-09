@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2022-05-16"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -119,9 +119,17 @@ Esta Ley tiene por objeto:
 
 I.- Establecer la responsabilidad del Estado y la coordinación con los Municipios, para generar el marco normativo, institucional y de políticas públicas para impulsar, regular, proteger, fomentar y hacer efectivo el principio de Igualdad de Trato y Oportunidades entre mujeres y hombres, impulsando la equidad en las esferas política, civil, laboral, económica, social y cultural, de manera enunciativa y no limitativa; a fin de fortalecer y llevar a la población aguascalentense hacia una sociedad más solidaria y justa;
 
-II.- Fijar los mecanismos de coordinación entre el Estado, los municipios y la sociedad civil para la integración y funcionamiento del Sistema para la Igualdad; e
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-III.- Impulsar la Transversalidad de la igualdad entre mujeres y hombres, para facilitar la igualdad de condiciones.
+II.- Fijar los mecanismos de coordinación entre el Estado, los municipios y la sociedad civil para la integración y funcionamiento del Sistema para la Igualdad;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+III.- Impulsar la transversalidad de la igualdad entre mujeres y hombres, para facilitar la igualdad de condiciones; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IV.- Proponer los lineamientos y mecanismos institucionales que orienten al Estado hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las mujeres, la paridad de género y la lucha contra toda discriminación basada en el sexo.
 
 ###### Artículo 3°.
 
@@ -181,7 +189,9 @@ VII.- Instancias Municipales de la Mujer: a las unidades administrativas que tie
 
 VIII.- Ley: a la presente Ley para la Igualdad entre Mujeres y Hombres del Estado de Aguascalientes:
 
-IX.- Perspectiva de Género: Enfoque para identificar, cuestionar y valorar a la persona humana como ser sexuado en sus diversas modalidades de expresión, con la finalidad de atender las condiciones que puedan implicar discriminación, desigualdad o exclusión entre mujeres y hombres.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IX.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permite identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
 X.- Programa para la Igualdad: el Programa Estatal para la Igualdad entre Mujeres y Hombres de Aguascalientes; y
 
@@ -611,7 +621,9 @@ IX.- Las demás previstas en las diversas leyes locales en la materia.
 
 Las Instancias Municipales de la Mujer, son organismos auxiliares de los Municipios, que tienen por objeto salvaguardar en su ámbito de competencia, el objeto y los principios de la presente Ley. Su naturaleza, estructura y atribuciones serán establecidas, en su caso, a través de las disposiciones de carácter general, bandos y reglamentos que al efecto expidan los ayuntamientos correspondientes; así como, en su caso, de los convenios de coordinación suscritos.
 
-### CAPÍTULO I. EL SISTEMA PARA LA IGUALDAD
+### CAPÍTULO VII. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y HOMBRES
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 41.
 
@@ -627,11 +639,35 @@ IV.- Impulsar acciones concretas para la participación igualitaria de mujeres y
 
 V.- Las demás que la Ley y otros ordenamientos aplicables le confieren.
 
-### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO I. EL SISTEMA PARA LA IGUALDAD
+
+###### Artículo 41 Bis.
+
+La Política Estatal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 41 Ter.
+
+Para efecto de lo previsto en el artículo anterior, las autoridades correspondientes desarrollaran, en el ámbito de sus competencias, las siguientes acciones:
+
+I.- Favorecer el trabajo parlamentario con perspectiva de género;
+
+II.- Garantizar que la educación en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres y crear conciencia de la necesidad de eliminar toda forma de discriminación;
+
+III.- Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+IV.- Fomentar la participación paritaria de mujeres y hombres en cargos públicos de primer nivel;
+
+V.- Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil; y
+
+VI.- Fomentar la participación paritaria y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicio civil de carrera de los poderes Ejecutivo, Legislativo y Judicial, organismos constitucionalmente autónomos y los Municipios del Estado.
 
 ## TÍTULO CUARTO. EL SISTEMA Y EL PROGRAMA PARA LA IGUALDAD
 
-### CAPÍTULO I. LA VIGILANCIA PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+### CAPÍTULO II. EL PROGRAMA PARA LA IGUALDAD
 
 ###### Artículo 42.
 
@@ -681,7 +717,9 @@ V.- Incluir en el debate público la participación de la sociedad civil organiz
 
 VI.- Elaborar y recomendar estándares que garanticen la transmisión en los medios de comunicación y órganos de comunicación social de los distintos Entes Públicos, de una imagen igualitaria, libre de estereotipos y plural de mujeres y hombres;
 
-VII.- Coadyuvar a la modificación de estereotipos que discriminan y fomentan la desigualdad contra la mujer;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VII.- Coadyuvar a la modificación de estereotipos que discriminan y fomentan la desigualdad y violencia contra la mujer;
 
 VIII.- Impulsar acciones para que en el sector privado se respete el principio de la Igualdad de Trato y Oportunidades en el ámbito laboral y, con esta finalidad, buscar que se adopten medidas dirigidas a evitar cualquier tipo de discriminación laboral entre mujeres y hombres;
 
@@ -689,11 +727,23 @@ IX.- Procurar implementar en materia de acceso al empleo, promoción y formació
 
 X.- Expedir lineamientos en la materia y dotar al IAM de propuesta para la elaboración del Programa para la Igualdad;
 
-XI.- Establecer medidas e incentivos tanto en el sector público como en el privado para la erradicación del acoso sexual y acoso por razón de sexo; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XII.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y las que determinen las disposiciones aplicables.
+XI.- Establecer medidas o incentivos tanto en el sector público como en el privado para la erradicación del acoso sexual y acoso por razón de género;
 
-### CAPÍTULO II. LAS UNIDADES DE GÉNERO
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XII.- Promover el desarrollo de programas y servicios que fomenten la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XIII.- Dar seguimiento a la implementación del Principio Constitucional de Paridad de Género; presentando un informe anual de los avances en la materia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XIV.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema para la Igualdad y las que determinen las disposiciones aplicables.
+
+### CAPÍTULO I. LA VIGILANCIA PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 44.
 
@@ -719,7 +769,7 @@ VII.- Lo demás establecido en el Título Segundo de la presente Ley y demás or
 
 ## TÍTULO QUINTO. LA VIGILANCIA, RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
-### CAPÍTULO III. LAS RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
+### CAPÍTULO II. LAS UNIDADES DE GÉNERO
 
 ###### Artículo 46.
 
@@ -740,6 +790,8 @@ II.- Proponer la realización de estudios e informes técnicos de diagnóstico s
 III.- Difundir información sobre los diversos aspectos relacionados con la Igualdad Sustantiva entre mujeres y hombres; y
 
 IV.- Las demás acciones que sean necesarias para cumplir los objetivos de esta Ley.
+
+### CAPÍTULO III. LAS RESPONSABILIDADES Y SANCIONES PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 49.
 
@@ -822,3 +874,11 @@ P.O. 16 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 230.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
