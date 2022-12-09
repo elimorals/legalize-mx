@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2021-08-27"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -185,9 +185,9 @@ Los municipios realizarán acciones de fomento económico que sean congruentes c
 
 Las autoridades promoverán las acciones que sean necesarias para:
 
-> <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA. G.G. 9 DE DICIEMBRE DE 2022)</small>
 
-I. Diseñar e implementar políticas públicas que estimulen la inversión y generen empleos bien remunerados, mediante el fortalecimiento de la alianza estratégica entre el Gobierno y los sectores social, académico y empresarial;
+I. Diseñar e implementar políticas públicas, de manera incluyente y con perspectiva de género, que estimulen la inversión y generen empleos bien remunerados, mediante el fortalecimiento de la alianza estratégica entre el Gobierno y los sectores social, académico y empresarial;
 
 > <small>(REFORMADA, G.G. 30 DE AGOSTO DE 2012)</small>
 
@@ -325,7 +325,9 @@ IV. El IIFAEM;
 
 V. El IFOMEGEM; y
 
-VI. Los programas y mecanismos de fomento empresarial para el desarrollo económico del Estado, incluidos los de incentivos y estímulos a la inversión productiva.
+> <small>(REFORMADA. G.G. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. Los programas y mecanismos de fomento empresarial para el desarrollo económico del Estado, incluidos los de incentivos y estímulos a la inversión productiva, los cuáles se procurarán realizar de manera incluyente y con perspectiva de género.
 
 El Sistema tendrá como finalidad contribuir al cumplimiento de los objetivos de la Ley.
 
@@ -1968,3 +1970,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por este Decreto.
+
+G.G. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 112.-_ POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTICULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5 Y LA FRACCIÓN VI DEL ARTÍCULO 8 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
