@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-atencion-y-proteccion-a-personas-con-la-148557"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-18"
-last_updated: "2021-03-18"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Sexta del Número 051 del Periódico Oficial del Estado de Nayarit, el jueves 18 de marzo de 2021.
 
@@ -233,11 +233,21 @@ IV. La Secretaría de Bienestar e Igualdad Sustantiva;
 
 V. La Secretaría General de Gobierno;
 
-VI. La Secretaría de Administración y Finanzas, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-VII. La Comisión Estatal de los Derechos Humanos.
+VI. La Secretaría de Administración y Finanzas;
 
-Serán invitados permanentes de la comisión con derecho a voz, pero sin voto, las Delegaciones del Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VII. La Comisión Estatal de los Derechos Humanos, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VIII. La Secretaría del Trabajo y Justicia Laboral.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+Serán invitados permanentes de la comisión con derecho a voz, pero sin voto, las Delegaciones del Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. Cuando así lo considere la comisión, podrá invitar a las Asociaciones en Defensa de los Derechos de las Personas con la Condición del Espectro Autista del Estado de Nayarit.
 
 Quienes sean titulares de las Dependencias que integran la Comisión podrán designar a sus suplentes, preferentemente deberán contar con el rango de subsecretarios o subsecretarias, director o directora.
 
@@ -304,3 +314,11 @@ Dado en Sesión Pública Virtual del Recinto Oficial de este Honorable Congreso 
 Dip. Ignacio Alonso Langarica Ávalos, Presidente.- Rúbrica.- Dip. Claudia Cruz Dionisio, Secretaria.- Rúbrica.- Dip. Elizabeth Rivera Marmolejo, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los diecisiete días del mes de marzo de dos mil veintiuno.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE NAYARIT, EN MATERIA DE INTEGRACIÓN DE LA COMISIÓN INTERINSTITUCIONAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO”.]
+
+ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado del Estado de Nayarit.
