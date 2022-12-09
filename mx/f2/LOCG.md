@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2021-10-06"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1636,6 +1636,16 @@ a) El Senado de la República celebrará sesión solemne en el mes de marzo de c
 
 b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados, titulares de los Organismos Públicos y Organizaciones de la Sociedad Civil dedicadas a la promoción, defensa e investigación de los derechos humanos de las mujeres, así como de las universidades e instituciones educativas del país.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+###### ARTICULO 100 Ter.
+
+1. De acuerdo con el Decreto que crea la medalla de honor “Armada de México”, en conmemoración de la creación de la Armada de México, que otorga el Senado, se deberá cumplir lo siguiente:
+
+a) El Senado de la República celebrará sesión solemne preferentemente el 04 de octubre de cada año, o en la fecha que se señale, para imponer la medalla de honor “Armada de México”, a la persona que haya sido acreedora a la misma, por sus méritos académicos, profesionales, cívicos, su relevancia social, o cualquier otra circunstancia que la Comisión de Marina estime que constituyan acciones o hechos sobresalientes durante la prestación de los servicios que, ordinaria o extraordinariamente les sean encomendados.
+
+b) A la sesión solemne se invitará a las y los titulares del Poder Ejecutivo Federal, la Suprema Corte de Justicia de la Nación, la Cámara de Diputados y a los demás funcionarios y personalidades que la Mesa Directiva determine.
+
 ###### ARTICULO 101.
 
 1. La Comisión Jurisdiccional se integrará por un mínimo de 8 Senadores y un máximo de 12, con la finalidad de que entre ellos se designe a los que habrán de conformar, cuando así se requiera, la sección de enjuiciamiento encargada de las funciones a que se refiere la Ley Federal de Responsabilidades de los Servidores Públicos; en dicha sección deberán estar representados los grupos parlamentarios.
@@ -2779,3 +2789,9 @@ D.O.F. 6 DE OCTUBRE DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. La Mesa Directiva de la Cámara de Diputados resolverá el turno de los asuntos que han sido presentados y turnados durante la LXV Legislatura en la Cámara de Diputados hasta antes de la entrada en vigor del presente Decreto, conforme a sus atribuciones, publicando en la Gaceta Parlamentaria el turno que corresponda atendiendo el contenido y la materia de las nuevas denominaciones de las comisiones ordinarias.
+
+D.O.F. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 100 TER A LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
