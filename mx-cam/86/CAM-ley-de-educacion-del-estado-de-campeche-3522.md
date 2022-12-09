@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2022-08-03"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -401,13 +401,17 @@ XXIV.- Implementar campañas para promover la práctica del ejercicio y los depo
 
 XXV. Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad, la malnutrición y los trastornos alimentarios entre la niñez y la adolescencia, contando para ello con profesionales en nutrición y psicología.
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVI. Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo; y
+XXVI. Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo;
 
-> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVII. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
+XXVII. Coordinarse con la Secretaría de Salud del Estado, para elaborar e integrar contenidos educativos que permitan sensibilizar a los alumnos sobre los diversos trastornos de salud mental y sus consecuencias, así como para implementar protocolos para la detección y atención oportuna de esos trastornos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -561,9 +565,17 @@ El Estado y sus entidades organizarán servicios permanentes de promoción y ase
 
 Artículo 19 BIS.- La Educación Física tiene como finalidad propiciar el desarrollo armónico e integral del individuo en todo su proceso evolutivo. Además de los fines previamente establecidos, deberán observarse los que a continuación se relacionan:
 
-I.- Estimular la disciplina del ejercicio físico y la práctica del deporte a través de los programas oficiales correspondientes; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-II.- Desarrollar actitudes responsables hacia la preservación de la salud, propiciando el rechazo a los vicios.
+I.- Estimular la disciplina del ejercicio físico y la práctica del deporte a través de los programas oficiales correspondientes;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+II.- Desarrollar actitudes responsables hacia la preservación de la salud, propiciando el rechazo a los vicios;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+III.- Solucionar problemas motrices desde sus medios naturales o habituales, apoyándose de las actividades físicas, lúdicas y expresivas.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1478,3 +1490,11 @@ P.O. 3 DE AGOSTO DE 2022.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 152 POR EL QUE "SE REFORMAN LAS FRACCIONES XXVI Y XXVII Y SE ADICIONA UNA FRACCIÓN XXVIII AL ARTÍCULO 13; SE REFORMAN LAS FRACCIONES I Y II Y SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 19 BIS, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
