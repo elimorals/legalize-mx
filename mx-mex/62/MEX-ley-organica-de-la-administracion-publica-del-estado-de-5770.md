@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2022-10-07"
+last_updated: "2022-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -119,9 +119,9 @@ La Oficina de la Gubernatura contará con las unidades de apoyo técnico y estru
 
 Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el artículo 45 de esta Ley, deberán conducir sus actividades bajo el principio de igualdad de género, en forma programada y con base en las políticas, prioridades y restricciones que establezca el Gobierno del Estado, para el logro de los objetivos y metas de los planes de Gobierno.
 
-> <small>(REFORMADO, G.G. 10 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2022)</small>
 
-Asimismo, promoverán que sus planes, programas y acciones, sean realizados con perspectiva de género y crearán Unidades de Igualdad de Género y Erradicación de la Violencia, adscritas orgánicamente a la persona titular de la dependencia u organismo auxiliar correspondiente.
+Asimismo, promoverán que sus planes, programas y acciones, sean realizados de manera incluyente y con perspectiva de género y crearán Unidades de Igualdad de Género y Erradicación de la Violencia, adscritas orgánicamente a la persona titular de la dependencia u organismo auxiliar correspondiente.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -4080,3 +4080,11 @@ G.G. 7 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 112.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5 Y LA FRACCIÓN VI DEL ARTÍCULO 8 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
