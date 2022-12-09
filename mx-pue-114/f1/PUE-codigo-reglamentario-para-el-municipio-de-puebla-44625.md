@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-10-21"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -36119,11 +36119,9 @@ Los servidores públicos que infrinjan las disposiciones contenidas en el presen
 
 ### CAPÍTULO 37. DEL GOBIERNO DIGITAL
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2276.
 
@@ -37297,7 +37295,7 @@ El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas persona
 
 ## TÍTULO ÚNICO
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
 
@@ -37305,397 +37303,171 @@ El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas persona
 
 ###### Artículo 2343.
 
-El presente Capítulo tiene por objeto regular las disposiciones contenidas en la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios y la Ley de Gobernanza Regulatoria para el Estado de Puebla, debiendo:
-
-I. Fomentar y consolidar en el Municipio de Puebla el uso y aprovechamiento estratégico de las tecnologías de la información, a fin de asegurar un Gobierno Digital para una mayor integración y desarrollo de la sociedad; y
-
-II. Establecer las instancias e instrumentos mediante los cuales el Ayuntamiento regulará el uso y aprovechamiento estratégico de las tecnologías de la información, para mejorar la relación de éste con sus ciudadanos, aumentar la eficacia y eficiencia de su gestión, así como de los servicios que prestan e incrementar la transparencia y la participación ciudadana.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2344.
 
-El Ayuntamiento realizará, de manera coordinada y concurrente, en el ámbito de su competencia, las acciones de fomento, planeación, regulación, control, y vigilancia relativas al uso y aprovechamiento estratégico de las tecnologías de la información.
-
-Para el cumplimiento de las disposiciones de este Capítulo, el Ayuntamiento podrá suscribir convenios de colaboración, coordinación, concertación o asociación con autoridades federales, estatales, o municipales, así como con los sectores social, privado y académico, según corresponda, en materia de uso y aprovechamiento estratégico de las tecnologías de la información.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2345.
 
-Para los efectos de este Capítulo, se entiende por:
-
-I. Acuse de Recibo Electrónico.- Constancia electrónica, que emite una autoridad, dependencia u organismo para acreditar la fecha y hora de recepción de una notificación o resolución, a través de medios de comunicación electrónica;
-
-II. Autoridad Certificadora.- Las dependencias y entidades de la Administración Pública Federal y los prestadores de servicios de certificación que conforme a las disposiciones jurídicas, tengan reconocida esta calidad y cuenten con la infraestructura tecnológica para la emisión, administración y registro de certificados digitales, así como para proporcionar servicios relacionados con los mismos, en atención a lo dispuesto por la Ley de Firma Electrónica Avanzada;
-
-III. Ayuntamiento.- Honorable Ayuntamiento del Municipio de Puebla;
-
-IV. Certificado digital.- Documento firmado electrónicamente por la Autoridad Certificadora mediante el cual se vinculan los datos de verificación de firma a un firmante y permite confirmar la identidad del mismo;
-
-V. Comisión.- Comisión de Gobierno Digital e Innovación del Honorable Ayuntamiento del Municipio de Puebla o su equivalente;
-
-VI. Comisión Estatal.- Comisión Estatal de Gobierno Digital;
-
-VII. Contraloría.- Contraloría Municipal del Honorable Ayuntamiento del Municipio de Puebla;
-
-VIII. Copia digital.- Archivo en medios electrónicos de cualquier documento que corresponde fielmente al mismo;
-
-IX. CURS.- Clave Única de Registro de Usuario;
-
-X. Datos personales.- A la información numérica, alfabética, gráfica, acústica o de cualquier otro tipo concerniente a una persona física identificada o identificable. Tal y como son, de manera enunciativa y no limitativa: El origen étnico; las características físicas, morales o emocionales; la vida afectiva y familiar; el domicilio y el teléfono particular, el correo electrónico personal y que no haya sido establecido como oficial por alguna regulación; los bienes que conforman el patrimonio; la ideología; las opiniones políticas, las creencias, las convicciones fisiológicas, morales y religiosas; el estado de salud físico o mental; la preferencia u orientación sexual; la huella digital, la información genética; el número de afiliación a cualquier organismo de seguridad social, y cualquier otro que pudiera resultar de características análogas a las previamente enunciadas, de conformidad con la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla;
-
-XI. Dependencias.- Aquéllas que integran la Administración Pública Centralizada del Honorable Ayuntamiento del Municipio de Puebla;
-
-XII. Documento Electrónico.- El redactado con soporte electrónico signado con la Firma Electrónica Avanzada;
-
-XIII. Entidades.- Los organismos públicos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos, en los que el fideicomitente sea el Municipio de Puebla;
-
-XIV. Fecha electrónica.- El conjunto de datos en forma electrónica utilizados como medio para constatar el momento en que se ha efectuado una actuación sobre otros datos electrónicos a los que están asociados;
-
-XV. Firma Electrónica Avanzada.- Conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de estos, la cual produce los mismos efectos jurídicos que la firma autógrafa conforme a la legislación aplicable;
-
-XVI. Interconexión.- Enlazar entre sí aparatos y/o sistemas, de forma tal que entre ellos puedan fluir datos y/o información;
-
-XVII. Interoperabilidad.- Característica de las tecnologías de la información que les permite su interconexión y funcionamiento conjunto de manera compatible;
-
-XVIII. Ley.- Ley de Gobierno Digital para el Estado de Puebla y sus Municipios;
-
-XIX. Medios electrónicos.- Todos aquellos instrumentos creados para obtener un eficiente intercambio de información de forma automatizada; tales como internet, correo electrónico, y similares;
-
-XX. Mensaje de datos.- La información generada, enviada, recibida o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
-
-XXI. Plataforma Tecnológica Transversal.- Aquella que puede ser empleada a la vez en varias áreas de la estructura organizacional del municipio, sin necesidad de modificarla para cada una de ellas;
-
-XXII. Portales Informativos.- Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso única y exclusivamente a la información que se ofrece al ciudadano;
-
-XXIII. Portales Transaccionales.- Al espacio de una red informática que ofrece, de forma sencilla e integrada, acceso a recursos y servicios, mediante los cuales se pueden realizar transacciones entre el ciudadano y el ente responsable de la información y los servicios ofrecidos en el portal;
-
-XXIV. Programa Anual de Desarrollo Tecnológico.- Documento en el que el municipio, expresa el portafolio de proyectos de tecnologías de la información que se desplegarán en el ejercicio fiscal correspondiente;
-
-XXV. Programa Anual Transversal de Desarrollo Tecnológico.- Documento integrador que contiene los Programas Anuales de Desarrollo Tecnológico, elaborado por la Comisión Estatal;
-
-XXVI. PUAM.- Padrón de Usuarios Acreditados del Municipio de Puebla;
-
-XXVII. RUPA.- Registro Único de Personas Acreditadas que preveé (sic) la Ley de Gobernanza Regulatoria para el Estado de Puebla;
-
-XXVIII. Secretaría.- Secretaría de Innovación Digital y Comunicaciones del Honorable Ayuntamiento del Municipio de Puebla;
-
-XXIX. Servicios.- Conjunto de actividades que tienen como finalidad responder a las necesidades de un ciudadano;
-
-XXX. Tecnologías de la Información.- Conjunto de elementos y técnicas utilizadas en el tratamiento y transmisión de información, principalmente vía electrónica, a través del uso de la informática, internet o las telecomunicaciones;
-
-XXXI. Trámite.- Cualquier solicitud o gestión que los ciudadanos hagan ante una dependencia o Entidad, de manera presencial o electrónica, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tiene a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
-
-XXXII. Servicios digitales.- Aquéllos que el Ayuntamiento ofrece a los ciudadanos de manera electrónica, a través de sus Portales Transaccionales y otros medios electrónicos.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2346.
 
-En materia de Gobierno Digital, el Ayuntamiento tendrá las siguientes atribuciones:
-
-I. Desarrollar acciones y gestiones dirigidas a incorporar activamente el uso de tecnologías de la información, en su funcionamiento y operación, a fin de realizar de manera eficiente su operación interna, así como los trámites y servicios gubernamentales que presten al ciudadano, siempre que no se exija una solemnidad que no sea posible cumplirse a través de medios electrónicos;
-
-II. Diseñar e implementar acciones para impulsar los trámites y servicios digitales;
-
-III. Realizar las gestiones necesarias para difundir y promover entre los ciudadanos los trámites y servicios digitales que se encuentren disponibles a través de los Portales Transaccionales, las ventajas que conllevan y la manera de utilizarlos;
-
-IV. Implementar las políticas dirigidas a garantizar la privacidad y protección de los datos personales, proporcionados por los ciudadanos al efectuar, en sus Portales Transaccionales, trámites y servicios digitales, de acuerdo a lo establecido en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla;
-
-V. Incorporar mejores prácticas del sector tecnológico a todos los programas que incluyan el uso de tecnologías de la información, en especial a los Portales Transaccionales;
-
-VI. Habilitar los medios electrónicos que estime convenientes, para la prestación de los trámites y servicios digitales;
-
-VII. Realizar las acciones necesarias, para promover la conversión, desarrollo y actualización permanente de los Portales Transaccionales;
-
-VIII. Elaborar el Programa Anual de Desarrollo Tecnológico y enviarlo a la Comisión Estatal, para su inclusión en las consideraciones para elaborar el Programa Anual Transversal de Desarrollo Tecnológico;
-
-IX. Emitir copias digitales de los documentos asociados a un trámite o servicio validados con la Firma Electrónica Avanzada correspondiente y con las fechas electrónicas insertados en los documentos electrónicos que integran los expedientes administrativos, previo pago de los derechos previstos en la Ley de Ingresos vigente;
-
-X. Promover la interoperabilidad entre las tecnologías existentes a nivel federal, estatal y municipal;
-
-XI. Proponer la regulación necesaria en materia de uso y aprovechamiento estratégico de las tecnologías de la información con el fin de establecer los requerimientos tecnológicos que deberán observarse para la introducción de conectividad en los edificios públicos que edifiquen o utilicen dentro de su jurisdicción; y
-
-XII. Las demás que le otorgue la legislación aplicable en la materia.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2347.
 
-La Secretaría y la Contraloría quedan facultadas para definir las políticas que se requieran para su eficaz aplicación en el ámbito de sus respectivas competencias.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DE LOS INSTRUMENTOS DEL GOBIERNO DIGITAL
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 PROGRAMA ANUAL DE DESARROLLO TECNOLÓGICO
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2348.
 
-La Secretaría deberá formular y turnar para su validación a la Comisión, dentro de los primeros quince días del mes de julio de cada año, para su posterior presentación a la Comisión Estatal durante el mes de agosto, el Programa Anual de Desarrollo Tecnológico que se planee ejecutar en el ejercicio fiscal siguiente, el cual deberá observar en su elaboración, lo especificado en el Programa Estratégico de Gobierno Digital, lo dispuesto tanto en la Ley, su Reglamento, los lineamientos técnicos elaborados por la Comisión Estatal, la Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla, y la normatividad hacendaria aplicable al municipio.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 PORTALES TRANSACCIONALES
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2349.
 
-La Secretaría será la encargada de llevar a cabo la transformación de los Portales Informativos actuales en Portales Transaccionales, a fin de que los ciudadanos puedan realizar de manera ágil y sencilla, los trámites y servicios digitales que ofrecen las Dependencias y Entidades.
-
-Para el cumplimiento, la Secretaría deberá incorporar las tecnologías de la información a los programas municipales que sean requeridos.
-
-En el caso de los Portales Informativos que, de manera exclusiva, difundan la información básica a que hace referencia la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla, no se realizará dicha transformación.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2350.
 
-La Secretaría deberá garantizar que todos los trámites y servicios ofertados a los ciudadanos, se puedan realizar en formato digital, a fin de que éstos se realicen a través de los Portales Transaccionales, en la medida en que la naturaleza del trámite o servicio lo permita.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2351.
 
-La Contraloría, en coordinación con la Secretaría, deberá mantener permanentemente actualizados y publicados en la Plataforma Tecnológica Transversal, los requisitos para la realización de los trámites y servicios digitales que preste el Ayuntamiento, contenidos en el Registro de Trámites y Servicios Municipales.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2352.
 
-Si un trámite o solicitud de un servicio se inicia en línea, no podrá cambiar su tramitación para realizarse de manera presencial.
-
-No obstante lo anterior, aquellas solicitudes que por alguna razón técnica o jurídica no sean posibles de ser emitidas a través de los Portales Transaccionales, una vez determinada su inviabilidad por la Dependencia o Entidad que conozca del trámite, podrá ser resuelto de manera presencial.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2353.
 
-Los documentos presentados a través de las tecnologías de la información, los documentos autógrafos, los documentos electrónicos; así como, los archivos digitalizados y los documentos firmados en forma autógrafa o con la firma electrónica avanzada de los servidores públicos correspondientes que se encuentren en las bases de datos de las autoridades competentes, producirán los mismos efectos y tendrán el mismo valor probatorio.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DEL PADRÓN DE USUARIOS ACREDITADOS DEL MUNICIPIO DE PUEBLA
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2354.
 
-El PUAM es la base de datos que se conforma con la información y documentos otorgados por los ciudadanos para efecto de realizar trámites y solicitar servicios en línea ante el Ayuntamiento.
-
-Para el caso en que el solicitante ya se encuentre registrado ante el RUPA será válida la tramitación una vez que el Ayuntamiento verifique la autencidad (sic) del registro.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2355.
 
-El PUAM estará a cargo de la Contraloría, quien será la unidad responsable de la administración, operación y control de éste, así como de la protección y tratamiento de los datos que lo integran; Dependencia facultada para emitir los Lineamientos de operación del Padrón y realizar las adecuaciones a los mismos según corresponda. Para efectos de lo anterior las Dependencias y Entidades que cuenten con trámites y servicios registrados ante esta, quedarán sujetos al cumplimiento del presente artículo.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2356.
 
-El PUAM deberá tener interconexión con el RUPA, con el fin de compartir la información contenida en sus bases de datos, siempre que el ciudadano consienta de manera expresa que sus datos y/o documentos pueden ser usados por órganos del Estado diferentes a los que se otorgó en un principio, de conformidad con la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2357.
 
-Es obligación de las personas acreditadas mantener actualizada su información y documentación comprendida en el PUAM de conformidad a las leyes aplicables en la materia.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2358.
 
-Las Dependencias y Entidades podrán hacer uso de los datos del PUAM, con el fin de que puedan realizar trámites o solicitar servicios a favor de los particulares.
-
-Para el uso de los datos que integran el PUAM tendrán que apegarse a lo establecido en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2359.
 
-La Contraloría, por conducto de las Dependencias y Entidades, asignará a los ciudadanos que soliciten su incorporación al PUAM, la CURS, la cual será el acceso para realizar operaciones de trámites y servicios en los Portales Transaccionales, ésta es de carácter personal e intransferible.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2360.
 
-Para proceder al registro en el PUAM los solicitantes deberán acreditar su personalidad, presentando la siguiente documentación:
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-El procedimiento para tramitar la CURS es el siguiente:
-
-I. Descargar y leer los Lineamientos para la operación del PUAM contenidos en el portal informativo del Ayuntamiento www.pueblacapital.gob.mx, sección "Transparencia" / logo "PUAM", llenar la solicitud correspondiente vía electrónica e imprimir su comprobante de cita;
-
-II. Para acreditar la personalidad jurídica, los solicitantes deberán presentar en original para su cotejo y digitalización:
-
-a. Personas físicas: Identificación oficial vigente (credencial de elector, pasaporte, cédula profesional y credencial INAPAM), tratándose de extranjeros el documento que acredite su legal estancia en el país.
-
-b. Personas morales: Acta Constitutiva y última modificación (si hubiera), nombramiento de representante legal e identificación oficial vigente del mismo. Si fuera persona moral extranjera: Acta Constitutiva y en su caso, la apostilla o legalización correspondiente, así como la traducción de dichos documentos efectuados por el perito traductor. Si el representante legal es extranjero deberá presentar el documento que acredite su legal estancia en el país.
-
-c. Comprobante domiciliario con antigüedad no mayor a tres meses.
-
-d. Registro Federal de Contribuyentes.
-
-e. Clave Única de Registro de Población (CURP).
-
-III. Presentarse en el lugar y fecha indicados en la confirmación de la cita, con la documentación antes señalada.
-
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DE LA FIRMA ELECTRÓNICA AVANZADA
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2361.
 
-Podrán ser titulares de la Firma Electrónica Avanzada los servidores públicos adscritos a las Dependencias y Entidades, que estén legalmente facultados para firmar documentos oficiales de la Dependencia o Entidad en cuestión, de acuerdo con la normatividad aplicable.
-
-Los titulares serán informados por escrito, por la Autoridad Certificadora, de las responsabilidades y deberes que asumen con el uso de la Firma Electrónica Avanzada.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2362.
 
-La certificación de las firmas electrónicas avanzadas de los titulares a que se refiere el artículo inmediato anterior y de los particulares se realizará mediante la Autoridad Certificadora.
-
-El certificado electrónico deberá contener, además de las menciones que corresponda, la fecha y hora de la emisión del documento.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2363.
 
-El uso de la Firma Electrónica Avanzada a que se refiere este Capítulo será obligatorio para los servidores públicos si el trámite o servicio se encuentra de manera electrónica en los Portales Transaccionales.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2364.
 
-Para efectos de la integración, operación y uso de la Firma Electrónica Avanzada, resultan aplicables los preceptos establecidos en la Ley de Firma Electrónica Avanzada y la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DE LAS NOTIFICACIONES ELECTRÓNICAS
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2365.
 
-Todos los actos, convenios, comunicaciones, procedimientos administrativos, trámites, requerimientos, citatorios, resoluciones, declaratorias, consultas, acuerdos y en general todas las actuaciones que emitan las Dependencias y Entidades podrán ser notificados a los ciudadanos o a las mismas autoridades Municipales, a través de medios electrónicos, mediante mensajes de datos, siempre que en éstos se ostente la Firma Electrónica Avanzada del servidor público titular.
-
-Las notificaciones a través de medios electrónicos se podrán hacer en cualquier sistema de información que designe el destinatario, como correos electrónicos, institucionales o inclusive a través de una página Web, las cuales surtirán sus efectos a partir de que el destinatario cuente con su acuse de recibo electrónico.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2366.
 
-Para que surta efectos jurídicos un mensaje de datos notificado a través de medios electrónicos, deberá contar siempre y sin excepción con un acuse de recibo electrónico del mismo, generado por el sistema de información utilizado en los medios electrónicos.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2367.
 
-El mensaje de datos se tendrá por expedido en el lugar donde el firmante tenga registrado su domicilio electrónico dentro del certificado, y por recibido en el lugar donde el destinatario tenga establecido el suyo. Cuando se realicen cualquiera de los actos regulados por este Código a través de un mensaje de datos en hora o día inhábil, se tendrá por realizado en la primera hora hábil del siguiente día hábil y se tendrán por no realizados cuando no contengan un mensaje de datos.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2368.
 
-Los mecanismos señalados en los artículos anteriores podrán ser utilizados preferentemente para la citación de las Sesiones de Cabildo, así como para las notificaciones y resoluciones de los Acuerdos que emitan.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2369.
 
-En cumplimiento del artículo anterior el Presidente Municipal, Regidores, Secretario del Ayuntamiento, Síndico Municipal y Titulares de las Dependencias y Entidades, contarán con una cuenta de correo electrónico asignada o registrada por la Dirección de Tecnologías de la Información, que contará con clave de seguridad, misma que será responsabilidad de cada usuario.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2370.
 
-Para la citación y notificación de las Sesiones de Cabildo se observará lo establecido en los artículos relacionados en la materia contenidos en el presente Código y demás disposiciones que resulten aplicables.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DEL DERECHO DE LAS PERSONAS A RELACIONARSE CON EL AYUNTAMIENTO, A TRAVÉS DEL GOBIERNO DIGITAL
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2371.
 
-Las personas tendrán derecho a relacionarse con el Ayuntamiento, a través de medios electrónicos, para recibir por esa vía de comunicación, atención e información gubernamental. Además, tendrán la oportunidad de realizar consultas, formular solicitudes, efectuar pagos y, en general, realizar trámites y servicios digitales de conformidad con la normatividad aplicable.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2372.
 
-En relación con la utilización de los medios electrónicos para la realización de trámites y servicios digitales, las personas físicas y morales tienen, en los términos previstos de la Ley y este Capítulo, los siguientes derechos:
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
-I. A elegir, de entre aquéllos que el Ayuntamiento haya puesto a su disposición, el medio electrónico a través del cual se relacionarán con dichos sujetos;
-
-II. A no entregar, para la realización de trámites y servicios digitales, los documentos que les requieran las dependencias o entidades municipales, en el supuesto de que dichos documentos hayan sido expedidos con anterioridad por cualquiera de los citados sujetos; siempre que así se lo hagan saber a la dependencia ante la que se gestiona el trámite o servicio digital correspondiente;
-
-III. A conocer, por los medios electrónicos que el Ayuntamiento haya puesto a su disposición, la fase de tramitación de los procedimientos administrativos en los que tengan el carácter de solicitantes;
-
-IV. A obtener copias digitales de los documentos que formen parte de los expedientes en los que tengan el carácter de solicitantes, previo pago de derechos previstos en la Ley de Ingresos vigente;
-
-V. A utilizar la Firma Electrónica Avanzada en los actos, procedimientos y trámites y servicios digitales que se lleven a cabo entre los particulares y el Ayuntamiento, en los términos de la legislación aplicable a la materia;
-
-VI. A la garantía de la seguridad y protección de los datos personales otorgados por las personas físicas o morales usuarias de los Portales Informativos o Transaccionales; y
-
-VII. A ser atendido en tiempo y forma en la realización de los trámites y servicios digitales prestados a través de los medios electrónicos que pongan a su disposición el Ayuntamiento.
-
-> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
 DE LAS RESPONSABILIDADES Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
 ###### Artículo 2373.
 
-Los servidores públicos que infrinjan las disposiciones de este Código, serán sancionados conforme lo determina la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2374.
 
-Serán causales de responsabilidad administrativa para los servidores públicos de las Dependencias y Entidades, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, el incurrir en la omisión o incumplimiento de los supuestos que a continuación se establecen:
-
-I. Incorporar a sus Portales Transaccionales, los trámites y servicios digitales que sean de su competencia;
-
-II. Utilizar las medidas, recomendadas por la Coordinación General de Transparencia y la Comisión Estatal, para la seguridad y protección de los datos e información personal proporcionada por los ciudadanos al efectuar, en sus Portales Transaccionales, trámites y servicios digitales; y
-
-III. Mantener permanentemente actualizados sus Portales Transaccionales y los datos establecidos en el Registro.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2375.
 
-Las violaciones al presente Capitulo serán sancionadas sin perjuicio de las acciones legales que procedan, por el Honorable Ayuntamiento de Puebla, mismas que son:
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-I. A quien altere, distorsione, menoscabe o modifique los documentos públicos que se emitan o reciban a través de los medios electrónicos de comunicación, se le impondrá una multa por el equivalente al valor diario de 100 a 200 unidades de medida y actualización, y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-II. A quien haga uso indebido de los medios electrónicos a cargo de los servidores públicos del Gobierno Municipal, se le impondrá una multa por el equivalente al valor diario de 50 a 100 unidades de medida y actualización, y en caso de ser usuario, la revocación de su cuenta de correo electrónico.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-III. A quien elimine, borre o impida que cualquier archivo sea enviado y recibido en tiempo y forma legal se le impondrá una multa por el equivalente al valor diario de 100 a 200 unidades de medida y actualización, y en caso de ser usuario la revocación de su cuenta de correo electrónico.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 ###### Artículo 2376.
 
-En caso de que el ciudadano haga uso indebido de la firma electrónica avanzada en documento apócrifo se hará acreedor a las sanciones que establece éste Código sin perjuicio de aquéllas de carácter penal.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
 
@@ -40170,3 +39942,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Se deroga el Capítulo 37 "Del Gobierno Digital" del Código Reglamentario para el Municipio de Puebla, así como todas las disposiciones que se opongan al presente Reglamento.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
