@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-ambiental-del-estado-de-campeche-65722"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-19"
-last_updated: "2020-05-15"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EDUCACION AMBIENTAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2020.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 19 de diciembre de 2008.
 
@@ -95,9 +95,9 @@ III. Regular que la educación ambiental se incluya en los diversos niveles y mo
 
 IV. Formular, establecer y aplicar el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable y sus instrumentos, de manera que sean compatibles con la protección, preservación, restauración y aprovechamiento sustentable de la biodiversidad y los ecosistemas, bajo criterios de democracia, equidad y justicia social:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-V. Abordar articuladamente las cuestiones ambientales globales, nacionales, regionales y locales, así como promover, fomentar y difundir en todos los niveles escolares una educación ambiental sustentable que integre los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, las causas y consecuencias del cambio climático y sus medidas preventivas;
+V. Abordar articuladamente las cuestiones ambientales globales, nacionales, regionales y locales, así como promover, fomentar y difundir en todos los niveles escolares una educación ambiental sustentable que integre los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, las causas y consecuencias del cambio climático y sus medidas preventivas, la ética ambiental, la economía circular, además de la protección y conservación de las áreas naturales protegidas, como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad.
 
 VI. Reconocer y respetar la pluralidad y diversidad individual y cultural;
 
@@ -179,7 +179,7 @@ La educación ambiental que imparta el Poder Ejecutivo del Estado, a través de 
 
 Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en las leyes ambientales federales y locales, además de las siguientes:
 
-I. CAPACITACIÓN PARA LA EDUCACIÓN AMBIENTAL: Proceso que promueve la adquisición de conocimientos y habilidades teórico-prácticos en y para el trabajo que permitan incorporarse a la actividad productiva y/o mejorar el desempeño laboral con criterios sustentabilidad;
+I. CAPACITACIÓN PARA LA EDUCACIÓN AMBIENTAL: Proceso que promueve la adquisición de conocimientos y habilidades teórico-prácticos en y para el trabajo que permitan incorporarse a la actividad productiva y/o mejorar el desempeño laboral con criterios de sustentabilidad.
 
 II. CENTROS DE RECREACIÓN Y CULTURA AMBIENTAL: Son los espacios de recreación y cultura en donde pueden realizarse actividades encaminadas a la comprensión de la problemática ambiental y a la identificación de alternativas de solución para cada grupo específico de la población.
 
@@ -562,3 +562,11 @@ P.O. 15 DE MAYO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN AMBIENTAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
