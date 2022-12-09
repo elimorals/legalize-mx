@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2022-10-14"
+last_updated: "2022-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -119,9 +119,29 @@ V. Participación social: intervención e integración, individual o colectiva, 
 
 VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VII. Respeto a la diversidad: Reconocimiento de los derechos constitucionales de las personas en términos de su origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-VIII. Transparencia: La información relativa al desarrollo social es pública en los términos de las leyes en la materia.
+VII. Respeto a la diversidad: Reconocimiento de los derechos constitucionales de las personas en términos de su origen étnico, genero, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+VIII. Transparencia: la información relativa al desarrollo social es pública en los términos de las leyes en la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+IX. Dignidad: Reconocimiento de los derechos y libertades inherentes a la calidad de persona;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+X. Bien común: Conjunto de condiciones sociales que permiten que todos los habitantes tengan acceso a una vida más justa, equitativa y equilibrada, favoreciendo el desarrollo integral de todos y cada uno de los miembros de la comunidad;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XI. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre géneros a través de la igualdad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+XII. Interés superior de la niñez: conjunto de acciones y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y efectivas que le permitan vivir plenamente y alcanzar el máximo de bienestar posible, y de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la constitución Política del Estado Libre y Soberano de Nuevo León y la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León.
 
 ## TÍTULO II. DE LAS COMPETENCIAS
 
@@ -640,3 +660,9 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 237. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 26 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 272. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado.
