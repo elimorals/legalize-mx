@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-152290"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-04"
-last_updated: "2022-07-08"
+last_updated: "2022-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152290&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-26"
 
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 4 de noviembre de 2021.
 
@@ -345,9 +345,19 @@ XXV. Certificar los documentos que obren en los archivos del Instituto, que sean
 
 XXVI. Determinar los procedimientos para certificar al personal hablante de lengua indígena y emitir la constancia respectiva, para efecto de las funciones que tiene encomendadas el Instituto;
 
-XXVII. Llevar a cabo funciones de litigio, propias de la defensa penal o asesoría jurídica, cuando por necesidades del servicio así sea requerido, y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVIII. Las demás que le sean conferidas por las normas aplicables.
+XXVII. Llevar a cabo funciones de litigio, propias de la defensa penal o asesoría jurídica, cuando por necesidades del servicio así sea requerido;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Designar a las personas defensoras públicas que fungirán como enlace de la Secretaría Técnica de Combate a la Tortura, Tratos Crueles e Inhumanos, en la Delegación de su adscripción.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XXIX. Interponer juicios de amparo contra omisiones legislativas, y
+
+XXX. Las demás que le sean conferidas por las normas aplicables.
 
 ### CAPÍTULO V. De las Unidades Administrativas
 
@@ -419,9 +429,19 @@ IV. Dirigir el Área de Ciencias Forenses cuya función principal será la de co
 
 Esta área emitirá opiniones técnicas, dictámenes, consultorías técnicas, asesorías y preguntas de interrogatorio, vía correo electrónico o de manera telefónica, a las y los defensores públicos y asesores jurídicos, así como al demás personal con funciones de litigio que así lo soliciten;
 
-V. La o el titular de la Unidad y el personal adscrito a la misma, realizarán funciones de defensa penal y asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio, y
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-VI. Las demás funciones que determine la Dirección General y la normativa aplicable.
+Sus especialistas podrán intervenir en litigios ante la Corte Interamericana de Derechos Humanos en los que el Estado mexicano sea o no parte y se les haya designado de manera extraordinaria para que funjan como peritos o peritas dentro de dicho litigio;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+V. La o el titular de la Unidad y el personal adscrito a la misma, realizarán funciones de defensa penal y asesoría jurídica en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+VI. Interponer juicios de amparo contra omisiones legislativas en materia de derechos humanos, y
+
+VII. Las demás funciones que determine la Dirección General y la normativa aplicable.
 
 El acompañamiento colaborativo que realice la Unidad de Litigio Estratégico en Derechos Humanos podrá consistir, entre otras acciones, en la presentación de escritos en auxilio (amicus curiae) ante juzgados, tribunales y la Suprema Corte de Justicia de la Nación, cuando se estime necesario allegar a esos actores de una opinión técnica jurídica especializada en razón de las complejidades o relevancia de cualquier asunto que tenga relación con el mandato constitucional y objeto del Instituto.
 
@@ -527,11 +547,15 @@ Atribuciones de la Unidad.
 
 Son atribuciones de la Unidad:
 
-I. Coordinar las delegaciones, así como a la Dirección de Prestación del Servicio de Defensa Penal, la Dirección de Ejecución de Sentencias y la Dirección de Coordinación con Delegaciones;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+I. Coordinar las delegaciones, así como a la Dirección de Prestación del Servicio de Defensa Penal, la Dirección de Ejecución Penal y la Dirección de Delegaciones;
 
 II. Supervisar el desempeño y trabajo de las o los delegados;
 
-III. Dirigir, organizar, controlar y coordinar el servicio de defensa penal;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+III. Dirigir, organizar, controlar y coordinar los servicios de defensa, dentro del procedimiento penal, juicios de amparo y ejecución de sentencias, así como las acciones que correspondan ante los órganos jurisdiccionales, ministeriales o administrativos que coadyuven al eficaz desarrollo de las funciones de defensa penal;
 
 IV. Recabar la información procesal de los asuntos a cargo del personal de defensa penal;
 
@@ -543,7 +567,9 @@ VII. Apoyar las peticiones que formule el personal de defensa penal, la persona 
 
 VIII. Atender las solicitudes de información planteadas por otras instituciones públicas, respecto del estado procesal de asuntos en materia penal en los que interviene el Instituto, siempre y cuando, dichas autoridades funden y motiven las mismas con base en sus atribuciones legales;
 
-IX. Dirigir, organizar, controlar y coordinar los servicios de defensa penal, dentro del procedimiento penal, juicios de amparo y ejecución de sentencias;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+IX. Dirigir la elaboración y difusión de las normas relativas al servicio de defensa penal, a efecto de garantizar el acceso a la justicia mediante una defensa adecuada;
 
 X. La o el Titular de la Unidad y el personal adscrito a la misma, podrán realizar funciones de defensa penal en los casos que determine la Dirección General de acuerdo a las necesidades del servicio;
 
@@ -551,7 +577,23 @@ XI. Resolver las consultas formuladas por el personal adscrito a la Unidad sobre
 
 XII. Determinar los criterios de designación de las cargas de trabajo de cada defensora o defensor público, que deberán observar las y los delegados para equilibrarlas, y
 
-XIII. Las demás funciones que determine la Dirección General y la normativa aplicable.
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XIII. Designar a la o las defensoras o defensores públicos que deban intervenir en asuntos específicos con el objeto de equilibrar las cargas de trabajo, considerando la complejidad del caso;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XIV. Investigar, analizar, evaluar y dar seguimiento a las recomendaciones nacionales e internacionales en materia de derechos humanos competencia de la Unidad para proponer acciones que correspondan al Instituto;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XV. Comisionar al personal de defensa penal, para la atención de asuntos relacionados con las atribuciones de la Unidad, autorizando en su caso, el trámite de viáticos y reembolso de los gastos generados;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XVI. Interponer juicios de amparo contra omisiones legislativas en materia penal, y
+
+XVII. Las demás funciones que determine la Dirección General y la normativa aplicable.
 
 #### SECCIÓN SEXTA. De la Unidad de Asesoría Jurídica
 
@@ -605,9 +647,15 @@ XVIII. Comisionar a las y los oficiales para la realización de actividades de a
 
 XIX. Realizar la representación jurídica en casos de extinción de dominio cuando la persona usuaria cumpla con los requisitos para otorgarle el servicio;
 
-XX. Realizar la representación jurídica en asuntos materia de responsabilidad patrimonial del Estado, y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-XXI. Las demás funciones que determine la o el titular de la Dirección General del Instituto y la normativa aplicable.
+XX. Realizar la representación jurídica en asuntos materia de responsabilidad patrimonial del Estado;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XXI. Interponer juicios de amparo contra omisiones legislativas en materia de asesoría jurídica, y
+
+XXII. Las demás funciones que determine la o el titular de la Dirección General del Instituto y la normativa aplicable.
 
 ### CAPÍTULO VI. De las delegaciones
 
@@ -617,17 +665,17 @@ Establecimiento de las delegaciones.
 
 Las delegaciones se establecerán conforme a las necesidades del servicio en cada uno de los Estados de la República, identificándose con la denominación de la entidad federativa en que tengan sede, estarán adscritas orgánicamente a la Unidad de Defensa Penal. Contarán con una o un Delegado, así como con el personal profesional y administrativo que determine el presupuesto.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal, adscrita orgánicamente a la Unidad de Defensa Penal, así como las direcciones de la Unidad de Asesoría Jurídica y tendrán una o un Director, así como el personal profesional y administrativo correspondiente.
+En la Ciudad de México se contará con la Dirección de Prestación del Servicio de Defensa Penal y la Dirección de Ejecución Penal, adscritas orgánicamente a la Unidad de Defensa Penal, así como las direcciones de la Unidad de Asesoría Jurídica y tendrán una o un Director, así como el personal profesional y administrativo correspondiente.
 
 ###### Artículo 18.
 
 Atribuciones y obligaciones.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO DE LA JUNTA DIRECTIVA POR EL QUE SE MODIFICAN LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 10 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-En el interior de la República las y los delegados, y en la Ciudad de México la o el titular de la Dirección de Prestación del Servicio en Defensa Penal, así como de las direcciones de la Unidad de Asesoría Jurídica tendrán las atribuciones y obligaciones siguientes:
+En el interior de la República las y los delegados, y en la Ciudad de México la o el titular de la Dirección de Prestación del Servicio en Defensa Penal y la o el titular de la Dirección de Ejecución Penal, así como de las direcciones de la Unidad de Asesoría Jurídica tendrán las atribuciones y obligaciones siguientes:
 
 I. Planear, organizar, dirigir y supervisar el trabajo, el control administrativo, la gestión y el seguimiento de acciones institucionales con el personal profesional, administrativo, de apoyo y con personal de defensa penal adscrito en cada Delegación o en la Dirección;
 
@@ -665,7 +713,9 @@ XVII. Efectuar labores de difusión de los servicios que proporciona el Institut
 
 XVIII. Informar al personal adscrito a la Delegación, cualquier determinación realizada por la Dirección General cuando así sea requerido;
 
-XIX. Verificar el cumplimiento de las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora, velando en todo momento por el buen funcionamiento de la Delegación correspondiente o de las (sic) Dirección de Prestación del Servicio de Defensa Penal en la Ciudad de México;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XIX. Verificar el cumplimiento de las disposiciones de la Dirección General y resolver, con el conocimiento de ésta, los problemas que se presenten y no admitan demora, velando en todo momento por el buen funcionamiento de la Delegación o de la Dirección correspondiente;
 
 XX. Vigilar que la carga de trabajo sea repartida equitativamente en cada una de las modalidades de la prestación del servicio, de conformidad con los criterios que determinen la o el titular de las Unidades de Defensa Penal y de Asesoría Jurídica, cuando así le sea requerido, estableciendo un sistema de recepción y turno aleatorio de asuntos;
 
@@ -689,15 +739,25 @@ XXIX. Certificar documentos relacionados con su competencia y atribuciones;
 
 XXX. Realizar funciones de defensa penal y asesoría jurídica de acuerdo a las necesidades del servicio, en los casos que determine la Dirección General;
 
-XXXI. Realizar actos que permitan brindar el servicio a las y los usuarios en acciones colectivas incluso fuera de las oficinas sede, para lo cual el personal de la Delegación y de la Dirección de Prestación del Servicio de Defensa Penal en la Ciudad de México deberán buscar acercamientos con posibles personas usuarias;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-XXXII. Asignar a las y los oficiales para la obtención de datos de prueba que la defensa estime necesarios, tales como entrevistas, obtención de videos de cámaras de vigilancia, búsqueda de información, entre otras, sin incurrir en actos de molestia; así como para acudir en apoyo a audiencias;
+XXXI. Realizar actos que permitan brindar el servicio a las y los usuarios en acciones colectivas incluso fuera de las oficinas sede, para lo cual el personal de la Delegación y de las Direcciones correspondientes deberán buscar acercamientos con posibles personas usuarias;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XXXII. Asignar a las y los oficiales para que, en auxilio de las actividades sustantivas de las y los defensores públicos, lleven a cabo acciones tales como la obtención de datos de prueba que la defensa estime necesarios, entrevistas, obtención de videos de cámaras de vigilancia, búsqueda de información, entre otras, sin incurrir en actos de molestia, así como para acudir en apoyo a audiencias;
 
 XXXIII. Comisionar a las y los oficiales para la realización de las actividades de apoyo previstas en la fracción anterior, cuando así se requiera, y a petición del personal de defensa o asesoría, por el plazo que sea necesario, contando con el apoyo de pasajes o viáticos;
 
-XXXIV. Coadyuvar con la Unidad de Asesoría Jurídica para la designación de asesora o asesor jurídicos, a petición de órganos jurisdiccionales, difusión del servicio, identificación y seguimiento de las acciones colectivas, así como de cualquier otro acto de carácter urgente con conocimiento de la Unidad, y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-XXXV. Las demás que determine la Dirección General.
+XXXIV. Coadyuvar con la Unidad de Asesoría Jurídica para la designación de asesora o asesor jurídicos, a petición de órganos jurisdiccionales, difusión del servicio, identificación y seguimiento de las acciones colectivas, así como de cualquier otro acto de carácter urgente con conocimiento de la Unidad;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Supervisar que el personal que realice labores de litigio utilice las herramientas institucionales para la identificación, documentación y atención de posibles casos de tortura o malos tratos, y
+
+XXXVI. Las demás que determine la Dirección General.
 
 ### CAPÍTULO VII. Del Secretariado Técnico
 
@@ -757,9 +817,21 @@ VI. Participar, por instrucción de la o el titular de la Dirección General, en
 
 VII. Organizar, coordinar y dar seguimiento al Grupo de Trabajo de Combate a la Tortura. La o el titular de la Secretaría Técnica es responsable de que el Grupo de Trabajo sesione al menos dos veces al año, se levante un acta del desarrollo de cada sesión y se dé seguimiento a los acuerdos aprobados y los compromisos asumidos por el Instituto.
 
-VIII. La o el titular de la Secretaría y el personal adscrito a la misma, realizarán visitas a los centros de detención, cuando existan indicios de la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, y
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
 
-IX. Las demás funciones que determine la o el titular de la Dirección General y la normatividad aplicable.
+VIII. Llevar un registro pormenorizado de los posibles casos de tortura o malos tratos denunciados, para consulta interna de las personas defensoras públicas, conforme a los procedimientos que establezca la Dirección General.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+IX. Coordinar, a través de las personas defensoras públicas designadas como enlaces en las Delegaciones de su adscripción, estrategias de litigio para atender posibles casos de tortura o malos tratos, difundir información, realizar visitas a centros de detención, y verificar el correcto uso de las herramientas para la identificación, documentación y atención de casos que impliquen estas violaciones.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+X. Interponer juicios de amparo contra omisiones legislativas en materia de combate a la tortura, tratos crueles e inhumanos.
+
+XI. La o el titular de la Secretaría y el personal adscrito a la misma, realizarán visitas a los centros de detención, cuando existan indicios de la posible comisión de actos de tortura o malos tratos en perjuicio de personas representadas por el Instituto, y
+
+XII. Las demás funciones que determine la o el titular de la Dirección General y la normatividad aplicable.
 
 ###### Artículo 23.
 
@@ -917,6 +989,14 @@ Para lo anterior, se deberá justificar por la o el solicitante a la o el titula
 
 En los casos que se sustancien ante Tribunales Federales en materia laboral, el personal de asesoría jurídica podrá solicitar el acompañamiento de una o un especialista del Área de Ciencias Forenses del Instituto conforme a lo previsto en el artículo 824 de la Ley Federal del Trabajo.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+Tratándose de litigios ante la Corte Interamericana de Derechos Humanos en los que el Estado mexicano sea o no parte, podrá designarse de manera extraordinaria a una o un especialista para que funja como perito o perita dentro de dicho litigio. Para ello, se deberá presentar la petición de la persona Defensora Pública Interamericana, por conducto de la Asociación Interamericana de Defensorías Públicas, y que sea parte en el litigio.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+La petición deberá cumplir los requisitos de congruencia, idoneidad, pertinencia, así como las razones basadas en la estrategia jurídica a seguir, establecidos en el párrafo segundo de este artículo.
+
 ###### Artículo 35.
 
 Procedimiento para la designación de personas que pueden fungir como peritos ante el Poder Judicial de la Federación.
@@ -934,6 +1014,18 @@ IV. La o el titular de la Delegación o Dirección que reciba las peticiones por
 V. En cuanto la Unidad de Defensa Penal o la de Asesoría Jurídica tenga conocimiento de la justificación presentada por parte de la Delegación o Dirección a su cargo analizará su procedencia a efecto de proponer a la Dirección General el proyecto de acuerdo correspondiente, y
 
 VI. El Acuerdo será notificado a la Delegación o Dirección por la Unidad que corresponda, a efecto de que, en su caso, autorice la designación, para lo cual deberá agotar el procedimiento establecido en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula la integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 35 Bis.
+
+Procedimiento para la designación de personas que pueden fungir como peritos o peritas ante la Corte Interamericana de Derechos Humanos.
+
+Las personas Defensoras Públicas Interamericanas, a través de la Asociación Interamericana de Defensorías Públicas podrán solicitar la designación de peritas o peritos de las especialidades con las que cuente el Instituto, para que funjan como tal ante la Corte Interamericana de Derechos Humanos.
+
+La o el solicitante justificará la necesidad de la prueba pericial, expresando detalladamente la congruencia, idoneidad, pertinencia, así como las razones basadas en la estrategia jurídica a seguir.
+
+En cuanto la Unidad de Litigio Estratégico en Derechos Humanos tenga conocimiento de la justificación presentada por parte de las personas Defensoras Públicas Interamericanas, a través de la Asociación Interamericana de Defensorías Públicas, analizará su procedencia a efecto de proponer a la Dirección General la respuesta correspondiente, la cual será notificada a dicha Asociación.
 
 ###### Artículo 36.
 
@@ -983,7 +1075,13 @@ Son obligaciones ante las y los usuarios hablantes de lengua indígena:
 
 Canalización a la institución competente.
 
-Los requerimientos hechos por cualquier autoridad al Instituto para otorgar un servicio de asesoría jurídica a alguna persona usuaria, se atenderán si son competencia de este órgano auxiliar, en caso contrario y a fin de no provocar un retraso en su atención, deberán ser canalizados por el personal jurídico de este Instituto a la autoridad competente para la asistencia jurídica que requiera la persona, remitiendo a su vez copia de la solicitud de origen.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+Cuando una autoridad o institución canalice por oficio a alguna persona usuaria y de éste se desprende notoria y evidentemente que no es competencia del Instituto, la persona será canalizada por el personal jurídico a la autoridad o institución competente para la asistencia jurídica que requiera, remitiendo a su vez copia de la solicitud de origen.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+En caso de duda o en aquellos que se advierta que el asunto puede ser competencia del Instituto, se remitirán a una persona asesora jurídica o defensora pública para su análisis, quienes determinarán el servicio a brindar. Si del análisis se desprende que el Instituto no es competente para atender ese asunto, el personal jurídico canalizará a la persona usuaria a la institución competente remitiendo a su vez copia de la solicitud de origen y de la opinión emitida.
 
 Lo anterior no es impedimento para atender a quienes acudan personalmente al Instituto sin intermediación de alguna autoridad.
 
@@ -1022,6 +1120,10 @@ Actuación de las y los defensores públicos.
 El servicio de defensa penal se presta en asuntos del orden federal, en todas las etapas del procedimiento hasta la ejecución de sentencias. Las y los titulares de las delegaciones y de las direcciones de la Unidad de Defensa Penal, deberán procurar que sea la misma persona quien lleve la representación en todas las etapas, excepto en la de ejecución penal.
 
 El servicio de defensa en la etapa de ejecución penal será proporcionado por las y los defensores especializados, quienes realizarán dicha función de manera preponderante. Sin embargo, atendiendo a la carga de trabajo y necesidades del servicio, podrán ser designados para llevar representaciones en otras etapas. Asimismo, atendiendo a las circunstancias descritas, podrá designarse, por excepción, a defensoras y defensores públicos no especializados en ejecución penal, para otorgar el servicio en dicha materia.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+Para la prestación del servicio de defensa penal, las y los defensores públicos contarán con un oficial jurídico, quien en términos del artículo 24 de la Ley Federal de Defensoría Pública, fungirá como personal de auxilio para llevar a cabo las actividades administrativas y sustantivas a cargo de éstos.
 
 Lo anterior, a fin de que se brinde una defensa adecuada y efectiva.
 
@@ -1115,7 +1217,7 @@ a) Asuntos de los que conozcan las y los jueces de distrito en materia de trabaj
 
 b) Asuntos en los que debe brindar representación jurídica a trabajadores o sus beneficiarios, por incapacidad técnica manifiesta o sistemática de la o el apoderado legal, a petición expresa del tribunal laboral, en términos de la Ley Federal del Trabajo;
 
-c) Asuntos en que la parte trabajadora solicite el auxilio en el desahogo de la prueba pericial, en términos de la Ley Federal del Trabajo;
+c) (DEROGADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)
 
 d) Asuntos en los que sea procedente promover recurso de reconsideración contra las resoluciones dictadas por los tribunales laborales federales que pongan fin al juicio ordinario, y
 
@@ -1127,7 +1229,9 @@ VI. Tratándose de asuntos en los que sea procedente promover acciones colectiva
 
 VII. En todas las materias, tratándose de juicios de amparo en que las y los titulares de órganos jurisdiccionales requieran la designación de una representación especial para un niño, niña, adolescente o persona adulta que tenga alguna limitación para representarse por sí misma por encontrarse en un grupo en situación de vulnerabilidad y/o categoría sospechosa, siempre que no se trate de persona adulta privada o no de su libertad en un procedimiento de naturaleza penal federal en que se designará a una o un defensor público, dada su especialidad en la materia.
 
-Dado que el servicio de asesoría jurídica es gratuito, se prestará en la Delegación o adscripción que corresponda al domicilio particular de la persona usuaria, para no incidir en su patrimonio.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+Dado que el servicio de asesoría jurídica es gratuito, se prestará en la Delegación o adscripción que corresponda al domicilio particular de la persona usuaria, para no incidir en su patrimonio, salvo lo dispuesto para los casos de urgencia y para aquellos casos en los que la persona usuaria compruebe que su domicilio quede más cerca de una Delegación distinta a la que le corresponde.
 
 ###### Artículo 49.
 
@@ -1152,6 +1256,14 @@ II. Asesoría. Se proporciona a la persona solicitante respecto al problema plan
 III. Representación. Consiste en el patrocinio legal que se otorga a la persona que solicita la prestación del servicio, por ser destinataria del mismo conforme a lo dispuesto en la Ley y en estas Bases. En caso de duda deberá practicarse estudio socioeconómico, para determinar si cumple con los requisitos correspondientes. La actuación de la asesoría jurídica comprende todas las fases procedimentales o instancias judiciales que prevén las leyes respectivas, agotando los recursos legales previstos y la promoción del juicio de amparo si fuere necesario.
 
 Cuando la o el usuario exprese por escrito, en forma clara y precisa, que no tiene interés en que se le siga representando por causa no imputable a la asesoría jurídica, se dará por concluido el servicio haciéndose las anotaciones que procedan.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS] POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+El servicio de representación jurídica podrá incluir los siguientes tipos de intervenciones:
+
+a) Acompañamiento: Cuando la o el asesor jurídico asiste a alguna persona en la solución de algún conflicto y que intervenga en defensa de los derechos de la persona usuaria sin que necesariamente deba agotarse un medio de defensa. Dicha intervención podrá ser ante la contraparte, sea esta una autoridad administrativa o un particular.
+
+b) Coadyuvancia: Cuando en los asuntos laborales, la autoridad jurisdiccional solicite la intervención de una o un asesor jurídico laboral para coadyuvar en el proceso de defensa de los derechos de las y los trabajadores, éstos podrán intervenir única y exclusivamente para ese efecto.
 
 ###### Artículo 51.
 
@@ -1199,7 +1311,9 @@ II. Enseguida, la asesoría jurídica entrevista a la o el solicitante, quien de
 
 III. Si el asunto es competencia del Instituto, la asesoría jurídica debe analizar las manifestaciones de la o el solicitante, así como los documentos o expedientes aportados, para determinar si es viable representarlo ante la instancia administrativa o judicial que corresponda. Si no es viable la representación del asunto, elabora el dictamen técnico-jurídico que procede y únicamente se le da a la persona interesada la asesoría pertinente, concluyendo su atención;
 
-IV. Si la representación es viable, la o el solicitante es destinatario del servicio o del estudio socioeconómico, en los casos que se estime necesario practicarlo, se desprende que reúne los requisitos establecidos por la Ley y por estas Bases para que se le otorgue, se procede a la representación jurídicamente, durante todas las etapas o instancias que las leyes aplicables contemplen, salvo los casos previstos en la Ley para el retiro del mismo;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+IV. Si la representación es viable, la o el solicitante es destinatario del servicio o del estudio socioeconómico, en los casos que se estime necesario practicarlo, se desprende que reúne los requisitos establecidos por la Ley y por estas Bases para que se le otorgue, las y los asesores jurídicos pueden optar por la adopción de mecanismos alternativos de solución de controversias que contribuyan a reducir la judicialización de casos, en beneficio de las y los usuarios del Instituto. De no lograr el resultado esperado por la persona usuaria se procederá a la representación jurídica durante todas las etapas o instancias que las leyes aplicables contemplen, salvo los casos previstos en la Ley para el retiro del mismo;
 
 V. Cuando el servicio se otorgue en la modalidad de representación, la asesoría jurídica proporcionará a la persona solicitante una tarjeta informativa que contiene sus datos, obligaciones y los números telefónicos de las oficinas centrales del Instituto y de la Delegación respectiva, en su caso, para quejas o comentarios, firmando aquélla de recibido en el registro correspondiente, y
 
@@ -1222,6 +1336,10 @@ I. Cuando se trate de actos que, si llegaren a consumarse, harían físicamente 
 II. Cuando se trate de actos inminentes, que de consumarse harían imposible la reparación del daño que causaren, y se deduzca que es un asunto atendible por la Institución, y
 
 III. Cuando se trate de asuntos en los que esté por vencerse el plazo para promover o contestar demandas, interponer recursos o solicitar el amparo de la justicia federal en su caso, y se advierta en la primera entrevista que es un asunto de competencia del Instituto y que la persona solicitante se encuentra en alguno de los supuestos para otorgar el servicio.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 9 DE DICIEMBRE DE 2022)</small>
+
+Para los casos de urgencia deberá estarse al lugar en el que se realiza la solicitud del servicio, independientemente del domicilio de la persona usuaria haciendo uso de las herramientas tecnológicas y de los enlaces de coordinación con el objeto de evitar mayores dilaciones.
 
 ###### Artículo 55.
 
@@ -2092,3 +2210,15 @@ D.O.F. 8 DE JULIO DE 2022.
 PRIMERO. El presente Acuerdo y su ANEXO ÚNICO entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el transitorio siguiente.
 
 SEGUNDO. Las y los Titulares de Unidad responsables de los observatorios que estén vigentes hasta la fecha en que se emite el presente acuerdo, presentarán un informe a la Junta Directiva en la última sesión ordinaria de 2022, a celebrarse el 26 de septiembre del presente año, en términos de la modificación aprobada en esta sesión ordinaria.
+
+D.O.F. 9 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL“ACUERDO QUE EMITE EL TITULAR DE LA UNIDAD DE DEFENSA PENAL EN SUPLENCIA POR AUSENCIA DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE DIVERSAS MODIFICACIONES Y ADICIONES A LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA.”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del 26 de septiembre del 2022, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiséis de septiembre del año dos mil veintidós, estarán disponibles en los siguientes vínculos electrónicos: https://www.ifdp.cjf.gob.mx/resources/documentos/2022/acuerdo_JD_ORD_IV_26_09_2022-03.pdf y www.dof.gob.mx/2022/CJF/ModBasesGenerales_26sep22.pdf
+
+## TRANSITORIOS
+
+ÚNICO. Las modificaciones y adiciones de las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del veintiséis de septiembre del año dos mil veintidós, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
