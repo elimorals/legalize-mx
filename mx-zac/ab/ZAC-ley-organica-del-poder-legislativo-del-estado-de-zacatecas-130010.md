@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2022-09-03"
+last_updated: "2022-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -97,7 +97,13 @@ Las sesiones virtuales se regirán por los principios de transparencia, rendici�
 
 La Legislatura residirá en la ciudad de Zacatecas, capital del estado, y tendrá su propio recinto.
 
-Sesionará en su recinto sede, o en otro cuando así lo requiera la celebración de sesiones o cuando se den circunstancias extraordinarias, para lo cual el lugar seleccionado será declarado recinto oficial por el Pleno de la Legislatura.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+Sesionará en su recinto sede, o en otro cuando así lo requiera la celebración de sesiones especiales o cuando se den circunstancias extraordinarias, para lo cual el lugar seleccionado será declarado recinto oficial por el Pleno de la Legislatura.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+En el caso de las sesiones especiales, la Mesa Directiva hará la propuesta del lugar de la sesión al Pleno, señalando si dicha sesión tendrá el carácter de ordinaria, extraordinaria o solemne, de conformidad con esta Ley.
 
 ###### Artículo 7.
 
@@ -1015,9 +1021,15 @@ Una vez aprobados los dictámenes que contienen leyes o decretos, corresponde al
 
 Los dictámenes de puntos de acuerdo se remitirán al Ejecutivo del Estado para que sean publicados por una sola vez en el Periódico Oficial, Órgano del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+Cumplido lo establecido en el presente artículo y tratándose de citaciones, comparecencias, investigaciones y convocatorias previstas en la Constitución estatal y esta Ley, las dependencias o entes públicos a las que se dirijan responderán oficialmente por escrito para su adecuado seguimiento institucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 80.
 
-La Legislatura tendrá dos periodos ordinarios de sesiones; el primero iniciará el primero de agosto, con excepción del año de su instalación el cual iniciará el ocho de septiembre, y concluirá el quince de diciembre, pudiéndose prorrogar hasta el treinta de diciembre del mismo año; el segundo comenzará el primero de febrero y terminará el treinta de junio.
+La Legislatura tendrá dos periodos ordinarios de sesiones; el primero iniciará el primero de agosto, con excepción del año de su instalación el cual iniciará el ocho de septiembre, y concluirá el quince de diciembre, pudiéndose prorrogar hasta el treinta de diciembre del mismo año; el segundo comenzará el primero de marzo y terminará el treinta de junio.
 
 La Legislatura podrá ser convocada a periodos extraordinarios de sesiones en los términos que establece la Constitución estatal.
 
@@ -1279,7 +1291,9 @@ I. La representación política de la Legislatura ante los Poderes Ejecutivo y J
 
 II. Abrir, prorrogar, suspender, declarar recesos y clausurar las sesiones del Pleno, de conformidad con esta Ley y el Reglamento General;
 
-III. Citar a los diputados a sesión;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+III. Citar a las diputadas y diputados a sesión;
 
 IV. Dar curso reglamentario a las iniciativas, dictámenes, propuestas, comunicados y otros asuntos ingresados a la Legislatura y determinar el trámite que deban seguir;
 
@@ -1289,29 +1303,41 @@ V. Conducir los debates, deliberaciones y mociones;
 
 VI. Cumplimentar el orden del día para las sesiones, para lo cual tomará en consideración las propuestas de la Junta de Coordinación Política;
 
-VII. Requerir a los diputados para que concurran a las sesiones de la Legislatura e imponer, en su caso, las medidas o sanciones que correspondan;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-VIII. Exhortar a los diputados a guardar orden durante el desarrollo de la sesión;
+VII. Requerir a las diputadas y diputados para que concurran a las sesiones de la Legislatura e imponer, en su caso, las medidas o sanciones que correspondan;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VIII. Exhortar a las diputadas y diputados a guardar orden durante el desarrollo de la sesión;
 
 IX. Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere motivo para ello;
 
 X. Solicitar el auxilio de la fuerza pública, en los términos que establece esta Ley;
 
-XI. Firmar con los Secretarios las leyes, decretos y reglamentos que se expidan y los que se remitan al Ejecutivo para su promulgación;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+XI. Firmar con las secretarías de la Mesa Directiva las leyes, decretos y reglamentos que se expidan y los que se remitan al Ejecutivo para su promulgación;
 
 XII. Rendir los informes requeridos por las autoridades judiciales federales y locales, así como firmar la correspondencia y demás comunicaciones de la Legislatura;
 
 XIII. Representar a la Legislatura en las ceremonias a las que concurran los titulares de los otros poderes del Estado y, en general, en todos los actos públicos;
 
-XIV. Habilitar en el curso de alguna sesión plenaria, de entre los diputados presentes, a quienes por esa ocasión sustituirán a los Secretarios que por cualquier circunstancia se ausentaran de la sesión;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-XV. Tomar las protestas de ley a los servidores públicos que correspondan;
+XIV. Habilitar en el curso de alguna sesión plenaria, de entre las diputadas o diputados presentes, a quienes por esa ocasión sustituyan a quienes ocupen una secretaría y que, por cualquier circunstancia, se ausenten de la sesión;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+XV. Tomar las protestas de ley a las personas servidoras públicas que correspondan;
 
 XVI. Requerir a las comisiones legislativas para que le den trámite a los asuntos que se les turnen en tiempo y forma, en su caso, emitir las excitativas que correspondan;
 
 XVII. Presentar, por su conducto, el quince de septiembre de cada año, un informe sobre el cumplimiento de sus obligaciones constitucionales y legales, así como el informe de actividades al final de su mandato;
 
-XVIII. Acordar y dar trámite a las solicitudes de los diputados;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Acordar y dar trámite a las solicitudes de las diputadas y diputados;
 
 XIX. Verificar, en el diario de debates, la fidelidad de los dictámenes y acuerdos aprobados;
 
@@ -1319,7 +1345,11 @@ XIX. Verificar, en el diario de debates, la fidelidad de los dictámenes y acuer
 
 XX. Coordinar sus labores con las que realicen los órganos técnicos de apoyo, y
 
-XXI. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+XXI. Ordenar a la Dirección de Apoyo Parlamentario el envío de la Gaceta Parlamentaria publicada a las diputadas y diputados, preferentemente, a través del medio electrónico autorizado, y
+
+XXII. Las demás que establezca esta Ley, su Reglamento General y demás disposiciones o acuerdos que emita la Legislatura.
 
 ###### Artículo 113.
 
@@ -1561,17 +1591,21 @@ XIII. Las demás que le asigne esta Ley, su Reglamento General, así como los ac
 
 ### Capítulo Sexto. Comisiones Legislativas
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 130.
 
-Las Comisiones Legislativas son órganos internos de la Legislatura que tienen como facultades el conocimiento, análisis y dictamen de las iniciativas, acuerdos y demás asuntos presentados a la Asamblea y turnados por el Presidente de la Mesa Directiva o la Dirección de Apoyo Parlamentario.
+Las Comisiones Legislativas son órganos internos de la Legislatura que tienen como facultades el conocimiento, análisis y dictamen de las iniciativas, acuerdos y demás asuntos presentados a la Asamblea y turnados por la Presidencia de la Mesa Directiva o la Dirección de Apoyo Parlamentario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 131.
 
-Las Comisiones Legislativas se constituyen con carácter definitivo y funcionan para toda una Legislatura; se deben integrar mínimo por tres diputados, máximo por cinco, un Presidente y los demás Secretarios, salvo las excepciones previstas en el Reglamento General y las que, en su caso, determine el Pleno.
+Las Comisiones Legislativas se constituyen y funcionan para toda una Legislatura; se integran por acuerdo del Pleno a propuesta de la Junta de Coordinación Política, mínimo por tres diputadas o diputados, máximo por cinco, una diputada o diputado la presidirá y los demás ocuparán una secretaría, salvo las excepciones previstas en el Reglamento General y las que, en su caso, determine el Pleno.
 
-Se procurará que en ellas se encuentren representados los diferentes grupos parlamentarios, que sean en número impar, y que cada uno de los diputados que integren la Legislatura, presida una comisión y sea secretario, por lo menos, en dos comisiones, y son las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+Se procurará que en ellas se encuentren representados los diferentes grupos parlamentarios constituidos ante la Junta de Coordinación Política, que sean en número impar, y que cada diputada o diputado que integre la Legislatura, presida una comisión y ocupe, al menos, dos secretarías en otras comisiones, y son las siguientes:
 
 I. Agricultura, Ganadería y Desarrollo Rural Sustentable;
 
@@ -2834,3 +2868,15 @@ Artículo primero. El presente Decreto entrará en vigor el día de su aprobaci�
 Artículo segundo. En su oportunidad, publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo tercero. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 153.- DE LA LXIV LEGISLATURA DEL ESTADO, MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y DEL REGLAMENTO GENERAL DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Los manuales de organización y procedimientos, deberán adecuarse al contenido del presente Decreto antes del 31 de diciembre de 2022, incluyendo en su proceso lo relativo al área para madres lactantes de esta Legislatura.
+
+Artículo cuarto. Respecto a la adición del artículo 79 de la Ley Orgánica del Poder Legislativo, en un plazo de 40 días se deberán actualizar las leyes relacionadas al cumplimiento del mismo.
