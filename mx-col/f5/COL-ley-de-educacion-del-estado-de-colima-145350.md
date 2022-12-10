@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-145350"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-25"
-last_updated: "2022-11-26"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145350&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "COL"
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE DICIEMBRE DE 2022.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 25 de noviembre de 2020.
 
@@ -1095,9 +1097,17 @@ Medidas para preservar la integridad física, psicológica y social del educando
 
 4. Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, o quienes ejerzan la patria potestad, las autoridades educativas escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2022)</small>
 
-5. Con el consentimiento de quienes ejerzan la patria potestad y/o tutores se aplicará el cuestionario de tamizaje POSIT a los alumnos de educación básica y media superior, cuando así se considere necesario por el Director del plantel, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
+5. La autoridad educativa estatal adoptará e implementará las facilidades necesarias, a fin de que, las mujeres o personas menstruantes estudiantes que hayan sido diagnosticadas con dismenorrea, previa acreditación mediante comprobante médico emitido por Médico especialista en Ginecología adscrito a Institución Pública de Salud, puedan ausentarse del aula sin que ello represente alguna afectación posterior en su evaluación escolar.
+
+> <small>[N. DE E. PERTENECE AL PUNTO 5, P.O. 4 DE JUNIO DE 2022]</small>
+
+Debiendo el Centro Educativo al que asistan observar la viabilidad para recibir las clases de forma virtual y/o realizar la entrega de trabajos a través de plataformas digitales y/o aplicar exámenes en la misma modalidad, cuando éstas concurran en las fechas en que sea necesario el ausentarse.
+
+(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2022) (F. DE E., P.O. 10 DE DICIEMBRE DE 2022)
+
+6. Con el consentimiento de quienes ejerzan la patria potestad y/o tutores se aplicará el cuestionario de tamizaje POSIT a los alumnos de educación básica y media superior, cuando así se considere necesario por el Director del plantel, salvaguardando en todo momento los derechos de las niñas, niños y adolescentes.
 
 ###### Artículo 80.
 
