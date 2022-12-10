@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2020-06-17"
+last_updated: "2022-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -605,17 +605,15 @@ La Secretaría generará mecanismos para apoyar y promover la creación y difusi
 
 ### Capítulo VIII. Educación inclusiva
 
-(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 193/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE ZACATECAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 Educación inclusiva
 
 ###### Artículo 44.
 
 La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 193/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE ZACATECAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La educación inclusiva se basa en la valoración de la diversidad, estableciendo las condiciones para que el sistema responda con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
 Finalidad de la educación inclusiva
 
@@ -631,17 +629,27 @@ III. Favorecer la plena participación de los educandos, su educación y facilit
 
 IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
 
-(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 193/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE ZACATECAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VI. Proporcionar en todos los educandos, con énfasis en los que se encuentran en situación de discapacidad, la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión social y laboral, a fin de propiciar su participación plena, autónoma y en igualdad de condiciones tanto en la educación como en la sociedad, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VII. Promover que el currículo esté diseñado universalmente, considerando la singularidad de cada alumno, con el objetivo de lograr la calidad educativa de los educandos a partir de asumir la diversidad en el aula.
 
 Educación especial
 
 ###### Artículo 46.
 
 En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos que enfrenten barreras para el aprendizaje y la participación asociada a una discapacidad, así como a los que presenten aptitudes sobresalientes.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+Las barreras para el aprendizaje y la participación son aquellas que impiden a las personas el acceso, la permanencia, el tránsito, la conclusión o la construcción de aprendizajes relevantes dentro del sistema educativo, pueden ser estructurales, normativas y didácticas.
 
 La Secretaría, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
 
@@ -655,11 +663,13 @@ IV. Establecer un sistema de diagnóstico temprano y atención especializada par
 
 V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+VI. Garantizar el máximo potencial de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
 
-(NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 193/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE ZACATECAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VII. Promover culturas, actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
 Medidas para garantizar la educación inclusiva
 
@@ -667,15 +677,43 @@ Medidas para garantizar la educación inclusiva
 
 Para garantizar la educación inclusiva, la Secretaría, en el ámbito de su competencia, ofrecerá las medidas pertinentes, entre ellas:
 
-I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas, dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+I. Facilitar material adecuado para el aprendizaje de la Lengua de Señas Mexicana y del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario, para el desarrollo de habilidades, actitudes y conocimientos comunicativos de los educandos para propiciar su interacción y fortalecer sus relaciones sociales;
 
-III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
 
-IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad, y
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana y sistema Braille, dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas; además, promoverá que todos los educandos reciban nociones básicas de ambos sistemas, para propiciar y garantizar la inclusión;
 
-V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social.
+
+Para tales efectos, se promoverá el uso de los avances tecnológicos que fomenten la creatividad y faciliten la comunicación y el aprendizaje de los educandos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VI. Crear un programa específico de becas para alumnos con discapacidad, de conformidad con los recursos presupuestales disponibles, con la finalidad de garantizar su ingreso, permanencia y egreso en el sistema educativo estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VII. Establecer señalamientos para la accesibilidad en escuelas públicas y privadas, dependencias oficiales y empresas privadas;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+VIII. Capacitar a los docentes de educación básica en el conocimiento de la Lengua de Señas Mexicana y el sistema Braille, para propiciar un mejor aprendizaje de los educandos, y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2022)</small>
+
+IX. Promover que los docentes de educación básica implementen nuevos enfoques de enseñanza y aprendizaje, a partir de las necesidades, canales, ritmos y estilos de aprendizaje de los alumnos.
 
 (NOTA: EL 17 DE MAYO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 193/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE ZACATECAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2032,3 +2070,15 @@ DADO en la Sala de Sesiones de la Honorable Legislatura del Estado de Zacatecas,
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los dos días del mes de junio del año dos mil veinte. GOBERNADOR DEL ESTADO.- ALEJANDRO TELLO CRISTERNA. SECRETARIO GENERAL DE GOBIERNO.- JEHÚ EDUÍ SALAS DÁVILA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194.- DE LA LXIV LEGISLATURA DEL ESTADO, MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+Artículo tercero. La Secretaría de Educación deberá prever en el proyecto de presupuesto que remita a la Secretaría de Finanzas partidas presupuestales para generar un programa específico de becas para alumnos con discapacidad, así como para garantizar la señalización adecuada en las escuelas públicas.
