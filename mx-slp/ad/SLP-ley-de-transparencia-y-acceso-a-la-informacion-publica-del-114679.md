@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2022-07-01"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -2585,9 +2585,17 @@ En ningún caso será necesario que el particular ratifique el recurso de revisi
 
 Si el escrito de interposición del recurso no cumple con alguno de los requisitos establecidos en el artículo anterior y la CEGAIP no cuenta con elementos para subsanarlos, se prevendrá al recurrente, por una sola ocasión y a través del medio que haya elegido para recibir notificaciones, con el objeto de que subsane las omisiones dentro de un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la notificación de la prevención, con el apercibimiento de que, de no cumplir, se desechará el recurso de revisión.
 
-La prevención tendrá el efecto de interrumpir el plazo que tienen la CEGAIP para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+La prevención tendrá el efecto de interrumpir el plazo que tienen la CEGAIP para resolver el recurso, por lo que comenzará a computarse en los términos establecido (sic) en el artículo 169 BIS de esta Ley.
 
 No podrá prevenirse por el nombre que proporcione el solicitante.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 169 BIS. Si el escrito de interposición del recurso de revisión cumple con los requisitos del artículo 168 de esta Ley, la CEGAIP deberá dictar el acuerdo de admisión del recurso, dentro de los tres días siguientes al de la fecha en que lo haya recibido.
+
+Para el caso de haber procedido en los términos del artículo 169 de esta Ley, la CEGAIP deberá dictar el acuerdo de admisión del recurso, dentro de los tres días siguientes al de la fecha en que se haya desahogado la prevención.
 
 ###### ARTÍCULO 170.
 
@@ -2753,37 +2761,15 @@ La CEGAIP revisará de oficio, que los sujetos obligados publiquen o actualicen 
 
 ###### ARTÍCULO 189.
 
-Las medidas de apremio y sanciones se impondrán tomando en cuenta los siguientes elementos:
-
-I. La gravedad de la responsabilidad en que se incurra;
-
-II. La conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley y las que se dicten con base en ella, o cualquiera otra que rija el correcto desempeño del servidor público en materia de transparencia;
-
-III. El beneficio de los sujetos obligados, daño o perjuicio al derecho humano de acceso a la información, derivado del incumplimiento de las obligaciones;
-
-IV. las circunstancias socioeconómicas del servidor público;
-
-V. El nivel jerárquico y los antecedentes del infractor;
-
-VI. La antigüedad en el servicio;
-
-VII. La reincidencia en el incumplimiento de sus obligaciones, y
-
-VIII. En su caso, las condiciones exteriores y los medios de ejecución de la falta.
-
-Para los efectos de esta Ley, se considerará reincidente al servidor público que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones en materia de transparencia a que se refiere el artículo 197 del presente Ordenamiento, incurra nuevamente en una o varias conductas infractoras a dicho precepto legal, siempre que entre aquella declaración de responsabilidad y ésta o estas nuevas conductas no haya transcurrido un período de tres años.
-
-En caso de reincidencia, la CEGAIP podrá imponer una multa equivalente hasta el doble de la que se hubiera determinado por el órgano garante.
-
-Tratándose de entidades públicas, el servidor público que reiteradamente incurra en cualquiera de las conductas previstas en el artículo 197 de esta Ley, además de la sanción correspondiente por cada violación, será sancionado con destitución de su cargo, e inhabilitación para el ejercicio de otros puestos de servicio público, hasta por quince años, previo procedimiento que promueva la CEGAIP, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí, ante la entidad pública competente.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2022)
 
 ### Capítulo II. De las Medidas de Apremio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 190.
 
-La CEGAIP, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos, candidatas y candidatos independientes, o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+La CEGAIP, en el ámbito de su competencia, podrá imponer indistintamente al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos, candidatas y candidatos independientes, o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
 I. Amonestación pública o privada, y
 
@@ -2794,6 +2780,24 @@ El incumplimiento de los sujetos obligados será difundido en el portal de oblig
 En caso de que el incumplimiento de las determinaciones de la CEGAIP implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 197 de esta Ley, ésta deberá denunciar los hechos ante la autoridad competente.
 
 Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 190 Bis.
+
+Para calificar las medidas de apremio establecidas en el presente Capítulo, la CEGAIP deberá considerar:
+
+I. La gravedad de la falta del sujeto obligado, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones de la CEGAIP y la afectación al ejercicio de sus atribuciones;
+
+II. La condición económica del infractor, y
+
+III. La reincidencia.
+
+La CEGAIP establecerá mediante lineamientos de carácter general, las atribuciones de las áreas encargadas de calificar la gravedad de la falta de observancia a sus determinaciones y de la notificación y ejecución de las medidas de apremio que apliquen e implementen, conforme a los elementos desarrollados en este Capítulo.
+
+En caso de reincidencia, la CEGAIP podrá imponer una multa equivalente hasta el doble de la que se hubiera determinado por la CEGAIP.
+
+Para los efectos de esta Ley se considerará reincidente, al que habiendo incurrido en infracción por incumplimiento de alguna de las obligaciones a que se refiere el artículo 197 del presente ordenamiento y por la cual haya sido sancionado, incurra nuevamente en una o varias conductas que infrinjan dicho precepto legal.
 
 ###### ARTÍCULO 191.
 
@@ -2987,9 +2991,19 @@ Se aplicará multa adicional de hasta cincuenta unidades de medidas y actualizac
 
 En caso de que el incumplimiento de las determinaciones de la CEGAIP implique la presunta comisión de un delito, ésta deberá denunciar los hechos ante la autoridad competente.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 214.
 
-En caso de reincidencia y consideraciones para la determinación del monto de las sanciones establecidas en este capítulo se atenderá a lo dispuesto en el Título Octavo, capítulo I de esta Ley.
+Para determinar el monto de las multas y calificar las sanciones establecidas en el Capítulo III del Título Octavo de esta Ley, la CEGAIP deberá considerar:
+
+I. La gravedad de la falta del sujeto obligado, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones del Instituto y la afectación al ejercicio de sus atribuciones;
+
+II. La condición económica del infractor;
+
+III. La reincidencia, y
+
+IV. En su caso, el cumplimiento espontáneo de las obligaciones que dieron origen al procedimiento sancionatorio, el cual podrá considerarse como atenuante de la sanción a imponerse.
 
 ###### ARTÍCULO 215.
 
@@ -3232,6 +3246,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0357.- SE REFORMA EL ARTÍCULO 41 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 41 DOS PÁRRAFOS, ÉSTOS COMO PENÚLTIMO Y ÚLTIMO, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0546.- SE REFORMAN LOS ARTÍCULOS 190 EN SU PÁRRAFO PRIMERO Y 214; ADICIONA EL ARTÍCULO 190 BIS; Y DEROGA EL ARTÍCULO 189, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0548.- SE REFORMA EL ARTÍCULO 169 EN SU PÁRRAFO SEGUNDO; Y ADICIONA EL ARTÍCULO 169 BIS, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
