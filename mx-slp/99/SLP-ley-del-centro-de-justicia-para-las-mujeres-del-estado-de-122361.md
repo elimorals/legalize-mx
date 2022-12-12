@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-centro-de-justicia-para-las-mujeres-del-estado-de-12236
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2021-07-15"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 3 de junio de 2017.
 
@@ -105,7 +105,9 @@ IX. Secretaría de Desarrollo Social y Regional;
 
 X. Secretaría de Educación del Gobierno del Estado;
 
-XI. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+XI. Secretaría de Seguridad y Protección Ciudadana;
 
 XII. Secretaría de Salud;
 
@@ -263,7 +265,9 @@ III. La Coordinación General del Centro quien fungirá como Secretaría Técnic
 
 IV. Las siguientes nueve vocalías:
 
-a) Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+a) Secretaría de Seguridad y Protección Ciudadana.
 
 b) Secretaría de Desarrollo Social y Regional.
 
@@ -1091,11 +1095,15 @@ VI. Apoyar a las usuarias para el cambio de plantel escolar de sus menores hijas
 
 VII. Elaborar de (sic) material didáctico sobre violencia de género.
 
-### Capítulo XI. Secretaría de Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo XI. Secretaría de Seguridad y Protección Ciudadana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 69.
 
-La Secretaría de Seguridad Pública del Estado, deberá adscribir al Centro a los agentes que se requieran, quienes además de las funciones que les corresponden como miembros de los cuerpos de seguridad pública, deberán estar preparados para atender sus funciones con perspectiva de género y de derechos humanos y atenderán las funciones específicas que se señalan a continuación:
+La Secretaría de Seguridad y Protección Ciudadana, deberá adscribir al Centro a los agentes que se requieran, quienes además de las funciones que les corresponden como miembros de los cuerpos de seguridad pública, deberán estar preparados para atender sus funciones con perspectiva de género y de derechos humanos, y atenderán las funciones específicas que se señalan a continuación:
 
 I. Realizar los rondines de seguridad del Interior y exterior del Centro;
 
@@ -1109,9 +1117,11 @@ V. Permanecer en enlace y contar con el Directorio de con (sic) los cuerpos de s
 
 VI. Las demás que le asigne la Coordinación General o la Dirección Administrativa relacionadas con la naturaleza de su encomienda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 70.
 
-Corresponde además de lo señalado en el artículo inmediato anterior a la Secretaría de Seguridad Pública:
+Corresponde además de lo señalado en el artículo inmediato anterior, a la Secretaría de Seguridad y Protección Ciudadana:
 
 I. Atender los reportes de auxilio a policías con protocolos de actuación;
 
@@ -1310,3 +1320,11 @@ CUARTO. El Poder Ejecutivo del Estado deberá asignar anualmente, a partir del e
 2. Centro de Justicia para Mujeres ubicado en el municipio de Matehuala, S. L. P.
 
 3. Centro de Justicia para Mujeres ubicado en el municipio de Matlapa, S. L. P.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
