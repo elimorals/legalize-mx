@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2022-06-08"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,63 +21,27 @@ state: "SLP"
 ---
 # LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE BIENES ASEGURADOS ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS
+LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 25 de febrero de 2004.
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
-PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE SEXAGESIMA PRIMERA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO A SU CARGO EL SIGUIENTE:
+Dr. Fernando Toranzo Fernández, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-DECRETO NUMERO 162
+DECRETO 964
 
-LA SEXAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCION POLITICA LOCAL;
+La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-DECRETO POR EL QUE SE CREA LA LEY DE BIENES ASEGURADOS ABANDONADOS Y DECOMISADOS PARA EL ESTADO DE CHIAPAS
+EXPOSICIÓN DE MOTIVOS
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+[...]
 
-### CAPITULO UNICO
+ÚNICO. Se EXPIDE la Ley de Bebidas Alcohólicas del Estado de San Luís Potosí, para quedar como sigue
 
-###### ARTICULO 1.
+LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-LA PRESENTE LEY TIENE POR OBJETO REGULAR LA ADMINISTRACION Y DESTINO FINAL DE LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS EN LA AVERIGUACION PREVIA Y PROCESO PENAL. SUS DISPOSICIONES SON DE ORDEN PUBLICO Y DE OBSERVANCIA GENERAL EN TODO EL ESTADO DE CHIAPAS.
-
-###### ARTICULO 2.
-
-LA ADMINISTRACION Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS EN OTRAS MATERIAS, SE REGIRAN POR LAS DISPOSICIONES LEGALES QUE RESULTEN APLICABLES.
-
-###### ARTICULO 3.
-
-LAS DISPOSICIONES DE ESTA LEY SERAN APLICABLES DESDE QUE LOS BIENES SEAN TRANSFERIDOS AL ORGANO ENCARGADO DE SU ADMINISTRACION, HASTA QUE SE REALICE EL DESTINO FINAL DE LOS MISMOS.
-
-###### ARTICULO 4.
-
-PARA LOS EFECTOS DE ESTA LEY SE ENTIENDE POR:
-
-I. INTERESADO: LA PERSONA QUE CONFORME A DERECHO TENGA INTERES JURIDICO SOBRE LOS BIENES A QUE SE REFIERE ESTA LEY O EN SU CASO, AQUELLA QUE TENGA INTERES EN PARTICIPAR EN LOS PROCEDIMIENTOS DE LA ENAJENACION PREVISTOS EN LA MISMA;
-
-II. CONSEJO: EL CONSEJO PARA LA SUPERVISION Y CONTROL DE LA ADMINISTRACION DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS;
-
-III. MINISTERIO PUBLICO: EL MINISTERIO PUBLICO DEL FUERO COMUN;
-
-IV. PROCURADURIA: LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO; Y
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-V. DIRECCION DE BIENES: LA DIRECCION DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS POR LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 5.
-
-TODOS LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS, INDEPENDIENTEMENTE DE QUE SU ASEGURAMIENTO, DECLARACION DE ABANDONO, O DECOMISO, HAYA SIDO DECRETADO DURANTE LA AVERIGUACION PREVIA O EN EL PROCESO PENAL, SERAN ADMINISTRADOS POR LA DIRECCION DE BIENES, DE CONFORMIDAD CON LO PREVISTO EN LA PRESENTE LEY Y DEMAS DISPOSICIONES APLICABLES.
-
-###### ARTICULO 6.
-
-HABIENDOSE PRESENTADO CUALQUIERA DE LOS SUPUESTOS A QUE SE REFIERE EL ARTICULO ANTERIOR, SE ESTARA A LAS DISPOSICIONES LEGALES APLICABLES PARA DAR DESTINO A LOS BIENES Y DETERMINAR LA NATURALEZA DE LOS INGRESOS CORRESPONDIENTES.
-
-## TITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE ADMINISTRACION, DE ASEGURAMIENTO, ABANDONO Y DECOMISO DE BIENES
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1º.
 
@@ -201,17 +165,7 @@ Para la venta, distribución, consumo y suministro de bebidas alcohólicas de cu
 
 Los establecimientos de acceso restringido, centros y clubes sociales, deportivos y recreativos, deberán contar también con la licencia correspondiente, para venta, consumo, y suministro de bebidas alcohólicas, debiendo sujetarse a los requisitos que por giro y clasificación marque esta Ley. Así como el respectivo pago por cada uno de ellos, en su caso.
 
-### CAPITULO I. GENERALIDADES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 7.
-
-EL ESTADO POR CONDUCTO DEL PODER JUDICIAL DEL ESTADO, LA PROCURADURIA, EL MINISTERIO PUBLICO, EL CONSEJO Y LA DIRECCION DE BIENES, EN EL AMBITO DE SUS RESPECTIVAS COMPETENCIAS, QUEDAN FACULTADOS PARA APLICAR LA PRESENTE LEY Y DEMAS DISPOSICIONES APLICABLES, ASEGURANDO EL RESPETO DE LOS DERECHOS DE LOS GOBERNADOS EN LO RELATIVO A BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS.
-
-###### ARTICULO 8.
-
-EL ASEGURAMIENTO, DECLARACION DE ABANDONO, DECOMISO, DEVOLUCION, ENAJENACION, Y DESTRUCCION DE BIENES, SE SUJETARAN A LO DISPUESTO EN ESTA LEY, EN LA LEGISLACION PENAL Y DEMAS APLICABLE.
+### CAPÍTULO II. De las Autoridades
 
 ###### ARTÍCULO 5º.
 
@@ -301,1001 +255,567 @@ X. Registrar las infracciones señaladas en el artículo 52 de esta Ley, precisa
 
 XI. Informar a la autoridad encargada de la expedición de las licencias de conducir, al menos una vez al mes, de aquellas infracciones de vialidad o tránsito cometidas en contravención a esta Ley.
 
-###### ARTICULO 9.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-EL CONSEJO TENDRA COMO OBJETIVO LA SUPERVISION Y CONTROL DE UNA ADECUADA ADMINISTRACION DE LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS.
+###### ARTÍCULO 9°.
 
-### CAPITULO II. DEL CONSEJO TECNICO PARA LA SUPERVISION Y CONTROL DE LA ADMINISTRACION DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS
+La Secretaría de Seguridad y Protección Ciudadana, así como las autoridades de seguridad pública de los municipios, en el ámbito de su competencia, coadyuvarán con las autoridades estatales y municipales en vigilar el cumplimiento de esta Ley.
 
-###### ARTICULO 10.
+### CAPÍTULO III. De la Clasificación de los Establecimientos
 
-EL CONSEJO, PARA LA SUPERVISION Y CONTROL DE LA ADMINISTRACION DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS, SE INTEGRARA POR:
+###### ARTÍCULO 10.
 
-I. EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO, QUIEN LO PRESIDIRA.
+Para los efectos de la presente Ley, los establecimientos a que se refiere el artículo 2º de esta Ley, se clasifican en:
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+I. Los dedicados a la venta y suministro de bebidas alcohólicas, para consumo inmediato dentro de los mismos: bares, cervecerías, centros nocturnos o de entretenimiento, hoteles y moteles con servicio al cuarto, y pulquerías;
 
-II. EL FISCAL ESPECIALIZADO JURIDICO NORMATIVO DE LA PROCURADURIA.
+II. Aquéllos en donde en forma accesoria puede autorizarse la venta y suministro de bebidas alcohólicas, para consumo inmediato dentro de los mismos: restaurantes, restaurante-bar, centros o clubes sociales, deportivos o recreativos, centros nocturnos, baños públicos, hoteles, moteles, establecimientos turísticos, salones de eventos y banquetes, cafés, cines, billares, boliches, fondas, cenadurías, taquerías, teatros, antojerías, y similares;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-III. EL FISCAL ESPECIALIZADO DE VISITADURIA DE LA PROCURADURIA.
+III. Aquéllos en los que se puede autorizar en forma eventual y transitoria la venta y suministro de bebidas alcohólicas para consumo inmediato dentro de los mismos: jardines o salones de fiestas, estadios, centros de convenciones, arenas de box y lucha libre, plazas de toros, lienzos charros, carriles para carreras de caballos, palenques móviles, palenques permanentes, centros de espectáculos culturales, artísticos y deportivos, ferias estatales, regionales y municipales;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-IV. UN REPRESENTANTE DEL PODER JUDICIAL.
+IV. Aquéllos en donde puede autorizarse el almacenaje, venta, distribución y suministro de bebidas alcohólicas en envase cerrado para llevar: almacenes, agencias, depósitos, destilerías, distribuidoras, tiendas de autoservicio, abarrotes, misceláneas, tendajones, licorerías, vinaterías, supermercados y minisúper, y
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-V. EL CONTRALOR GENERAL DE LA PROCURADURIA.
+V. Aquéllos en donde puede autorizarse la producción, el almacenaje, la venta, distribución, suministro de bebidas alcohólicas en su modalidad de cerveza artesanal, sea en envase cerrado para llevar, o para su consumo inmediato dentro de los mismos.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+### CAPÍTULO IV. De las Licencias
 
-VI. EL COORDINADOR DE ADMINISTRACION Y FINANZAS DE LA PROCURADURIA.
+###### ARTÍCULO 11.
 
-VII. UN SECRETARIO TECNICO QUE SERA DESIGNADO POR EL CONSEJO, QUIEN TENDRA VOZ PERO NO VOTO.
+La expedición de licencias para la venta, distribución, consumo o suministro de bebidas alcohólicas corresponde al Poder Ejecutivo del Estado; y los ayuntamientos podrán expedir estas licencias, previo convenio que celebren con el Ejecutivo del Estado, siempre y cuando se trate de establecimientos cuyo giro mercantil sea la venta de bebidas alcohólicas hasta de media graduación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2009)</small>
+Tratándose de comunidades indígenas, éstas podrán expedir licencias, previo convenio que celebren con el Ejecutivo del Estado, escuchando la opinión del ayuntamiento correspondiente, siempre y cuando se trate de establecimientos cuyo giro mercantil sea la venta de bebidas alcohólicas de baja graduación.
 
-LOS ACUERDOS Y DECISIONES DEL CONSEJO SE APROBARAN POR MAYORIA DE VOTOS DE SUS INTEGRANTES Y EN CASO DE EMPATE, EL PRESIDENTE TENDRA VOTO DE CALIDAD.
+Tratándose de licencias temporales, en los casos de bebidas alcohólicas de alta graduación, serán expedidas por el Ejecutivo del Estado; en los casos de bebidas alcohólicas hasta media graduación, las licencias serán expedidas por el ayuntamiento respectivo, y se otorgarán a quienes las soliciten y cumplan con los requisitos establecidos en esta Ley, exclusivamente una vez al año y por un lapso no mayor de treinta días naturales.
 
-### CAPITULO III. DE LA DIRECCION DE BIENES
+En lo referente a licencias para degustación de bebidas alcohólicas dentro de las instalaciones de establecimientos comerciales, en donde los productores y distribuidores lleven a cabo la venta sus productos, éstas serán autorizadas por un lapso no mayor a cinco semanas al año, por establecimiento.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 12.
 
-###### ARTICULO 11.
+Únicamente podrá otorgarse licencia para venta, distribución, consumo y suministro de bebidas alcohólicas, a los establecimientos considerados en el artículo 10 de esta Ley, y específicamente:
 
-SON FACULTADES DEL CONSEJO LAS SIGUIENTES:
+I. A billares, boliches y cervecerías, sólo para venta, distribución y suministro de bebidas alcohólicas de baja graduación, para consumo inmediato dentro del local;
 
-I. CONOCER SOBRE EL ASEGURAMIENTO, INVENTARIO Y APLICACION DE LOS BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS;
+II. A restaurantes de todo tipo, según su modalidad y clasificación, la licencia deberá condicionarse a la venta y suministro de bebidas alcohólicas, para consumo inmediato, acompañado de alimentos;
 
-II. SUPERVISAR EL OTORGAMIENTO EN DEPOSITO DE BIENES ASEGURADOS, DECOMISADOS Y ABANDONADOS, RESGUARDOS O CUALQUIER OTRO INSTRUMENTO QUE PERMITA SU USO, ASI COMO SU REVOCACION;
+III. A depósitos, distribuidoras y agencias para venta de cerveza de hasta media graduación, en envase cerrado para llevar;
 
-III. EMITIR ACUERDOS Y LINEAMIENTOS GENERALES PARA LA DEBIDA ADMINISTRACION DE LOS BIENES ASEGURADOS, ASI COMO PARA EVITAR QUE SE ALTEREN, DETERIOREN, DESAPAREZCAN O DESTRUYAN;
+IV. A destilerías, almacenes, abarrotes, misceláneas, tendajones, licorerías o vinaterías, supermercado, minisúper, tiendas departamentales y tiendas de conveniencia, para venta de bebidas alcohólicas en envase cerrado para llevar;
 
-IV. EMITIR ACUERDOS Y LINEAMIENTOS GENERALES A LOS QUE DEBERAN AJUSTARSE LOS DEPOSITARIOS, ADMINISTRADORES O INTERVENTORES CON CARACTER DEFINITIVO;
+V. A pulquerías, deberá especificar que se autoriza únicamente la venta, consumo y suministro de pulque, sin que tal producto pueda alterarse con ninguna otra clase de bebida alcohólica;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-V. SOLICITAR, EXAMINAR Y SUPERVISAR LOS INFORMES GENERALES PERIODICOS QUE DEBA RENDIR LA DIRECCION DE BIENES, RELACIONADOS CON LA ADMINISTRACION Y MANEJO DE LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS, ASI COMO SOBRE EL DESEMPEÑO DE LOS DEPOSITARIOS, INTERVENTORES O ADMINISTRADORES QUE SE HUBIEREN DESIGNADO;
+VI. A casinos, cines, y teatros licencia que deberá condicionarse a la venta y suministro de bebidas alcohólicas para consumo inmediato dentro del establecimiento, y con servicio de restaurante completo;
 
-VI. CONSTITUIR, ENTRE SUS INTEGRANTES GRUPOS DE TRABAJO PARA LA REALIZACION DE ESTUDIOS Y DEMAS ASUNTOS QUE EL PROPIO CONSEJO LES ENCOMIENDE;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-VII. SUPERVISAR QUE LA BASE DE DATOS A QUE SE REFIERE EL ARTICULO 16 DE ESTA LEY SE ACTUALICE PERMANENTEMENTE; Y
+VII. A hoteles y moteles que ofrezcan dentro de sus mismas instalaciones, los servicios de centro nocturno, bar, restaurante-bar, salón para fiestas, centro social o de convenciones, servicio al cuarto, se expedirá una licencia única que ampare los mismos, y
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-VIII. LAS DEMAS QUE SE SEÑALEN EN ESTA LEY, Y DEMAS DISPOSICIONES APLICABLES.
+VIII. A microcervecerías, salas de degustación, boutiques de cerveza artesanal, y cervecerías artesanales para producción, venta, distribución y suministro de bebidas alcohólicas de baja y media graduación, para consumo inmediato dentro del local, y venta en envase cerrado para llevar.
 
-###### ARTICULO 12.
+###### ARTÍCULO 13.
 
-EL CONSEJO DESIGNARA A SU SECRETARIO; QUIEN TENDRA LA REPRESENTACION DEL MISMO PARA TODOS LOS EFECTOS LEGALES, Y RENDIRA LOS INFORMES PREVIOS Y JUSTIFICADOS EN LOS JUICIOS DE AMPARO EN QUE EL PROPIO CONSEJO SEA SEÑALADO COMO AUTORIDAD RESPONSABLE.
+Las licencias expedidas por la autoridad competente, serán válidas únicamente para ser explotadas en el domicilio para el cual fueron autorizadas; y se especificará en la misma la modalidad y clasificación a que se sujetará la venta, distribución, consumo o suministro de bebidas alcohólicas. Bajo ninguna circunstancia podrá ser explotada en otro domicilio al autorizado, siendo causa de cancelación el hecho de ser explotada en otro domicilio.
 
-###### ARTICULO 13.
+###### ARTÍCULO 14.
 
-EL CONSEJO SESIONARA CUANDO MENOS CADA TRES MESES. SUS REUNIONES SERAN VALIDAS CON LA ASISTENCIA DE POR LO MENOS CUATRO DE SUS INTEGRANTES. LAS RESOLUCIONES SE TOMARAN POR MAYORIA DE VOTOS PRESENTES, TENIENDO EL PRESIDENTE VOTO DE CALIDAD PARA EL CASO DE EMPATE.
+No podrán ser titulares de licencias para venta, distribución y suministro de bebidas alcohólicas:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE OCTUBRE DE 2009)</small>
+I. Los servidores públicos estatales o municipales, que intervengan en la expedición de licencias para venta y suministro de bebidas alcohólicas, ya sea permanentes, temporales o de degustación, ni sus familiares hasta el cuarto grado; o aquéllos que participan en la verificación e inspección de establecimientos en los que se vendan, suministren o consuman bebidas alcohólicas; prohibición que prevalecerá hasta un año después de haber dejado su cargo;
 
-###### ARTICULO 14.
+II. Los menores de edad, con excepción en los casos de ser un derecho adquirido por sucesión legítima, y siempre y cuando cuente con tutor legal;
 
-LA DIRECCION DE BIENES, TENDRA POR OBJETO LA ADMINISTRACION DE LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS EN LOS TERMINOS PREVISTOS EN ESTA LEY Y DEMAS DISPOSICIONES APLICABLES.
+III. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+IV. Los que hayan sido titulares de alguna licencia que se haya cancelado por violaciones a las disposiciones en la materia.
 
-###### ARTICULO 15.
+###### ARTÍCULO 15.
 
-LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS SERAN ADMINISTRADOS POR LA DIRECCION DE BIENES DE CONFORMIDAD CON LAS DISPOSICIONES DE LA PRESENTE LEY Y DEMAS ORDENAMIENTOS LEGALES HASTA QUE SE RESUELVA SU DESTINO FINAL.
+No se expedirán licencias para la venta y suministro de bebidas alcohólicas a bares, billares, boliches, casinos, cervecerías, centros nocturnos, depósitos, licorerías o vinaterías y pulquerías, si los establecimientos se encuentran dentro de unidades, o conjuntos habitacionales; o si el predio donde se localiza se encuentra a una distancia menor de doscientos metros a la redonda respecto de planteles educativos, cementerios, industrias, zonas industriales, instituciones de beneficencia pública, hospitales, sindicatos, mercados, oficinas de partidos políticos, o centros donde se practique el deporte amateur; exceptuando los centros o clubes sociales, deportivos o recreativos que dentro de sus instalaciones cuenten con áreas destinadas para estas clasificaciones.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+No se otorgarán licencias a tendajones, misceláneas, tiendas de abarrotes, minisúper, o tiendas de conveniencia si se encuentran a menos de cien metros de planteles educativos.
 
-###### ARTICULO 16.
+En el caso de comunidades indígenas, y previo acuerdo de la asamblea general comunitaria de hombres y mujeres que corresponda, no se expedirán licencias si el predio donde se localizan se encuentra a una distancia menor de hasta ochocientos metros a la redonda con respecto a infraestructura de salud, educativa, de viviendas o conjuntos habitacionales, de espacios de esparcimiento, de templos, u otros sitios de expresión espiritual, religiosa o ceremonial, s (sic) sociales, espacios de reunión que por costumbre se tengan, o cementerios.
 
-LA DIRECCION DE BIENES, INTEGRARA UNA BASE DE DATOS CON EL REGISTRO DE LOS BIENES, QUE PODRA SER CONSULTADA POR LA AUTORIDAD JUDICIAL, DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL, AUTORIDADES DEL FUERO COMUN ENCARGADAS DE LA PROCURACION E IMPARTICION DE JUSTICIA, ASI COMO LAS PERSONAS QUE ACREDITEN TENER UN INTERES LEGITIMO PARA ELLO.
+La distancia se contará a partir de la puerta principal de acceso de clientes de los establecimientos, a la puerta principal de acceso de las personas a los lugares a que se refiere el párrafo primero de este artículo, dicha medición se realizará entre los puntos más cortos avanzando por la superficie de la vía pública.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 16.
 
-###### ARTICULO 17.
+No se autorizarán nuevas licencias para operar, en un establecimiento donde ya exista licencia en vigor de la misma clasificación.
 
-LA DIRECCION DE BIENES PODRA ADMINISTRAR, ENAJENAR, DONAR, O DESTRUIR DIRECTAMENTE LOS BIENES QUE LE SEAN TRANSFERIDOS O NOMBRAR DEPOSITARIOS, LIQUIDADORES, INTERVENTORES O ADMINISTRADORES DE LOS MISMOS, ASI COMO ENCOMENDAR A TERCEROS LA ENAJENACION Y DESTRUCCION DE ESTOS, PREVIO ACUERDO DEL CONSEJO.
+###### ARTÍCULO 17.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Los interesados en obtener licencia permanente para la venta, distribución, consumo o suministro de bebidas alcohólicas, en los establecimientos a que se refiere esta Ley, deberán presentar ante la Secretaría General de Gobierno; el ayuntamiento respectivo; o la autoridad indígena comunal o ejidal que corresponda, según sea el caso, solicitud por escrito con los siguientes datos y documentos:
 
-###### ARTICULO 18.
+I. Nombre, denominación o razón social; domicilio y ubicación del lugar en que pretenda establecerse; nacionalidad; registro federal de contribuyentes; lugar y fecha de nacimiento del solicitante; y la clasificación del negocio;
 
-LA PERSONA QUE TENGA A SU CARGO LA DIRECCION DE BIENES, SERA DESIGNADA EN LOS TERMINOS ESTABLECIDOS EN LAS DISPOSICIONES APLICABLES QUE RIJAN SU REGULACION.
+II. Actividad o actividades que se pretendan realizar en el establecimiento; y la información del capital invertido;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. Copia certificada del acta de nacimiento si se trata de persona física; o copia certificada del acta constitutiva de la sociedad si se trata de persona moral, así como de documento que acredite su personalidad;
 
-###### ARTICULO 19.
+IV. Dictamen técnico de la autoridad de protección civil que corresponda, respecto de la seguridad en las instalaciones del establecimiento;
 
-PARA EFECTOS DE ESTA LEY LA PERSONA QUE TENGA A SU CARGO LA DIRECCION DE BIENES TENDRA LAS SIGUIENTES FACULTADES:
+V. Plano que indique la ubicación del establecimiento, en relación con las manzanas más próximas;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+VI. Licencia de uso de suelo vigente, expedida por autoridad competente;
 
-I. REPRESENTAR A LA DIRECCION DE BIENES, PARA TODOS LOS EFECTOS LEGALES Y DELEGAR ESA REPRESENTACION EN LOS TERMINOS QUE SEÑALE LAS DISPOSICIONES APLICABLES QUE LA RIJAN;
+VII. Dictamen sanitario expedido por los Servicios de Salud en el Estado, respecto de las condiciones sanitarias del establecimiento;
 
-II. RENDIR LOS INFORMES PREVIOS Y JUSTIFICADOS EN LOS JUICIOS DE AMPARO CUANDO SEA SEÑALADA COMO AUTORIDAD RESPONSABLE;
+VIII. Dictamen técnico de la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+IX. Comprobante de propiedad del inmueble, o copia certificada del contrato que acredite el derecho al uso del mismo, y
 
-III. DIRIGIR Y COORDINAR LAS ACTIVIDADES DE LA DIRECCION DE BIENES, DE CONFORMIDAD CON LO DISPUESTO EN ESTA LEY Y EN LAS DISPOSICIONES QUE A EFECTO APRUEBE EL CONSEJO;
+X. (DEROGADA, P.O. 17 DE MARZO DE 2020)
 
-IV. ASISTIR CON VOZ PERO SIN VOTO A LAS SESIONES DEL CONSEJO;
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-V. DESIGNAR Y REMOVER DEPOSITARIOS, INTERVENTORES ADMINISTRADORES DE LOS BIENES, DE MANERA PROVISIONAL Y SOMETER A CONSIDERACION DEL CONSEJO, EL NOMBRAMIENTO DEFINITIVO;
+En lo que respecta a las fracciones IV, VII y VIII de este artículo, el trámite lo realizará la autoridad que esté conociendo de la solicitud; la cual tendrá un término de cinco días hábiles a partir de la fecha en que recibió la misma, para pedir las opiniones o dictámenes correspondientes. Así mismo, las autoridades competentes tendrán diez días hábiles a partir de su recepción, para emitir el dictamen respectivo. En caso de que las autoridades correspondientes no emitan los dictámenes en los plazos señalados, serán sujetos de las sanciones que establece la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
-VI. LAS DEMAS QUE SEÑALEN OTROS ORDENAMIENTOS O QUE LE OTORGUE EL CONSEJO.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Una vez reunidos los requisitos, las autoridades competentes tendrán un plazo de dos meses para resolver respecto de la solicitud de otorgamiento de licencia; en caso de que la respuesta sea negativa, se otorgará al solicitante un plazo de dos meses para solventar las inconsistencias que la motivaron. Una vez solventada la solicitud la autoridad tendrá el plazo de un mes para resolver de manera definitiva. En todo caso, la autoridad estará obligada a resolver por escrito al solicitante sobre su petición.
 
-### CAPITULO I. DEL ASEGURAMIENTO
+Tratándose de licencias temporales, el solicitante deberá cubrir los requisitos señalados en las fracciones I, II, IV y VII de este artículo, especificando la fecha y duración del evento o espectáculo a realizar; en los casos de licencia de degustación, el solicitante deberá cubrir los requisitos señalados en las fracciones I y II de este artículo.
 
-###### ARTICULO 20.
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-LA DIRECCION DE BIENES, CONTARA CON UN ADMINISTRADOR, QUIEN TENDRA LAS FACULTADES NECESARIAS PARA LA DEBIDA INSPECCION, SUPERVISION Y VIGILANCIA DE LAS ACTIVIDADES DE LA DIRECCION DE BIENES. ASISTIRA CON VOZ PERO SIN VOTO A LAS SESIONES DEL CONSEJO.
+###### ARTÍCULO 18.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Presentada la solicitud y documentos señalados en el artículo anterior, la autoridad estatal o municipal, según sea el caso, dentro del término de treinta días hábiles, llevará a cabo una visita al establecimiento para verificar los datos proporcionados, notificándole con por lo menos cuarenta y ocho horas de anticipación al solicitante, para que se encuentre presente durante la verificación y firme de conformidad el acta respectiva. Las visitas de verificación deberán cumplir el procedimiento que establece el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
-###### ARTICULO 21.
+###### ARTÍCULO 19.
 
-LA DIRECCION DE BIENES, RENDIRA UN INFORME MENSUAL DETALLADO AL CONSEJO, SOBRE LOS BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS Y SU ADMINISTRACION, ASI COMO DE LAS ENAJENACIONES QUE HAYA REALIZADO EN LOS TERMINOS DE ESTA LEY Y DEMAS DISPOSICIONES APLICABLES, CON EL OBJETO DE VERIFICAR QUE REALIZO SUS FUNCIONES DE CONFORMIDAD CON LO PREVISTO EN ESTA LEY Y DEMAS DISPOSICIONES APLICABLES.
+Una vez integrado el expediente con todos los requisitos que establece esta Ley, la autoridad estatal o municipal, dentro del término de veinte días hábiles a partir del siguiente en que haya realizado la visita al establecimiento para la verificación de los datos proporcionados, deberá resolver respecto si es procedente la expedición de la licencia, expresando los razonamientos y fundamentos que justifiquen el sentido de la resolución.
 
-## TITULO TERCERO. DE LOS BIENES ASEGURADOS
+### CAPÍTULO V. Del Refrendo de Licencias
 
-### CAPITULO II. DE ADMINISTRACION Y DEPOSITO DE BIENES ASEGURADOS
+###### ARTÍCULO 20.
 
-#### SECCION PRIMERA. GENERALIDADES
+Las licencias tendrán vigencia a partir de la fecha en que se expidan, y los titulares de las mismas o sus representantes legales, deberán solicitar por escrito la autorización de pago de refrendo durante el mes de enero de cada año.
 
-###### ARTICULO 22.
+###### ARTÍCULO 21.
 
-EL ASEGURAMIENTO DE BIENES ES UNA MEDIDA PRECAUTORIA Y PROVISIONAL QUE NO CONSISTE EN LA PRIVACION DEFINITIVA DE LA PROPIEDAD DE LOS MISMOS, Y TIENE POR OBJETIVO GARANTIZAR LA REPARACION DEL DAÑO Y EL CUMPLIMIENTO DE OTRAS DISPOSICIONES APLICABLES.
+Para obtener la autorización de pago de refrendo de la licencia, se requiere que los establecimientos continúen reuniendo los requisitos señalados por el artículo 17 de esta Ley.
 
-###### ARTICULO 23.
+Los establecimientos podrán seguir operando hasta en tanto se resuelva la autorización del refrendo de la licencia, previo pago de derechos que correspondan, antes de su vencimiento.
 
-EL MINISTERIO PUBLICO PROCEDERA DE INMEDIATO AL ASEGURAMIENTO DE AQUELLOS BIENES QUE CONFORME A LAS DISPOSICIONES APLICABLES CORRESPONDA ASEGURAR.
+### CAPÍTULO VI. De los Cambios de Domicilio, y Expedición de Nuevas Licencias por Traspaso de Establecimientos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 22.
 
-###### ARTICULO 24.
+Las licencias que se otorguen conforme a la presente Ley, no podrán ser motivo de donación o cesión; ni ser objeto de actos de comercio; por lo que no podrán ser vendidas, cedidas, arrendadas, permutadas, o gravadas.
 
-AL REALIZAR EL ASEGURAMIENTO, LOS AGENTES DEL MINISTERIO PUBLICO, CON EL AUXILIO DE LA POLICIA DE APOYO MINISTERIAL, BURO MINISTERIAL DE INVESTIGACION, ACTUARIOS Y DEMAS FUNCIONARIOS QUE DESIGNE LA AUTORIDAD JUDICIAL, SEGUN CORRESPONDA DEBERAN:
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
-I. LEVANTAR ACTA QUE INCLUYA INVENTARIO CON LA DESCRIPCION Y EL ESTADO EN QUE SE ENCUENTREN LOS BIENES QUE SE ASEGUREN;
+Los notarios públicos que certifiquen actos que contravengan esta disposición serán sujetos a las sanciones que dispone la Ley del Notariado para el Estado; sin perjuicio de las señaladas en el Código Penal del Estado.
 
-II. DAR FE MINISTERIAL DE LOS BIENES ASEGURADOS;
+Cuando el titular de la licencia sea persona física, al serle otorgada deberá señalar expresamente ante la autoridad que la expida, a un beneficiario en caso de su fallecimiento durante la vigencia de la misma. Dado el caso, si el beneficiario solicita el cambio de la licencia a su nombre, deberá presentar copia certificada de su acta de nacimiento y una identificación oficial, así como copia certificada del acta de defunción del titular.
 
-III. DECRETAR EL ACUERDO DE ASEGURAMIENTO;
+La autoridad aprobará tal cambio, siempre y cuando el beneficiario y el establecimiento cumplan con los requisitos que establece esta Ley.
 
-IV. IDENTIFICAR LOS BIENES ASEGURADOS CON SELLOS, MARCAS CUÑOS, FIERROS, SEÑALES U OTROS MEDIOS ADECUADOS;
+El establecimiento para el cual hubiere sido expedida la licencia deberá ser explotado invariablemente por su titular, bajo pena de cancelación de la misma. La expedición de los comprobantes fiscales a los consumidores será prueba fehaciente de la persona que explota la licencia.
 
-V. PROVEER LAS MEDIDAS CONDUCENTES E INMEDIATAS PARA EVITAR QUE LOS BIENES ASEGURADOS SE DESTRUYAN, ALTEREN O DESAPAREZCAN;
+###### ARTÍCULO 23.
 
-> <small>(F. DE E., P.O. 3 DE MARZO DE 2004)</small>
+Cuando bajo cualquier título legal se transmita la propiedad o posesión de un establecimiento en el que opere una licencia, sí el adquiriente o posesionario está interesado en seguir con en (sic) el mismo giro, se procederá de la siguiente forma:
 
-VI. SOLICITAR SE HAGA CONSTAR EL ASEGURAMIENTO EN LOS REGISTROS PUBLICOS QUE CORRESPONDAN;
+I. El titular de la licencia que operaba en el establecimiento objeto de transmisión, deberá dar aviso de la operación a que se refiere el párrafo anterior dentro de los treinta días hábiles siguientes a la fecha del contrato respectivo, manifestando en su caso, si solicitará cambio de domicilio; de no hacerlo así, se procederá a cancelar la referida licencia;
 
-VII. SOLICITAR EN SU CASO QUE SE REALICE EL PERITAJE DE AVALUO CORRESPONDIENTE;
+II. El nuevo poseedor o propietario del establecimiento, deberá hacer por escrito del conocimiento de la autoridad el documento certificado por fedatario público, que acredite la operación de transmisión o traspaso del establecimiento respectivo; y anexará a la solicitud, los documentos señalados en las fracciones I, II, III, IX y X del artículo 17 de esta Ley, y
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. En caso de que el nuevo solicitante cubra los requisitos señalados en la fracción anterior, y el local o establecimiento continúe reuniendo los requerimientos que establece el artículo 17 de este Ordenamiento, se procederá en los términos señalados en el artículo 19 de esta Ley.
 
-VIII. PROCEDER A ENTREGARLOS A LA DIRECCION DE BIENES, EN UN TERMINO NO MAYOR DE CUARENTA Y OCHO HORAS DE HABER CONCLUIDO EL ASEGURAMIENTO; Y,
+###### ARTÍCULO 24.
 
-IX. LAS DEMAS QUE SEÑALEN ESTA LEY Y DEMAS DISPOSICIONES APLICABLES.
+Cuando el titular de una licencia pretenda cambiar de domicilio, conservará la titularidad de la misma en tanto encuentra otro que reúna los requisitos para que le sea concedido el cambio de domicilio; siempre y cuando el nuevo establecimiento cumpla con las disposiciones previstas en esta Ley. En ningún caso y bajo ninguna circunstancia, podrá iniciar operaciones hasta no contar con la autorización expresa respectiva.
 
-### CAPITULO I. DE LA DEVOLUCION
+Los cambios de domicilio sólo podrán autorizarse por la autoridad que hubiera expedido la licencia correspondiente.
 
-#### SECCION PRIMERA. DE LA DEVOLUCION DE BIENES EN LA AVERIGUACION PREVIA
+Los titulares de las licencias expedidas conforme a la presente Ley, no podrán solicitar cambio de domicilio en un periodo mínimo de un año, contado a partir de la fecha en que fuera expedida su licencia.
 
-###### ARTICULO 76.
+### CAPÍTULO VII. De la Cancelación de Licencias
 
-LA DEVOLUCION DE BIENES, PROCEDE EN LA AVERIGUACION PREVIA, CUANDO EL MINISTERIO PUBLICO, RESUELVA EL NO EJERCICIO DE LA ACCION PENAL, DETERMINE LA RESERVA, O SE LEVANTE EL ASEGURAMIENTO DE CONFORMIDAD CON LAS DISPOSICIONES APLICABLES.
+###### ARTÍCULO 25.
 
-###### ARTICULO 77.
+Las licencias para la venta, distribución, consumo o suministro de bebidas alcohólicas, se otorgarán cuando se reúnan los requisitos que este Ordenamiento señala, y la autoridad competente constate que procede la expedición; y las mismas serán motivo de cancelación cuando se infrinjan las disposiciones de la presente Ley o demás disposiciones relativas.
 
-CUANDO PROCEDA LA DEVOLUCION DE BIENES ASEGURADOS, QUEDARAN A DISPOSICION DE QUIEN TENGA DERECHO A ELLO. EL MINISTERIO PUBLICO NOTIFICARA SU RESOLUCION AL INTERESADO O SU REPRESENTANTE LEGAL DENTRO DE LOS TREINTA DIAS SIGUIENTES, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO 28 DE ESTA LEY, PARA QUE EN EL PLAZO DE TRES MESES TRATANDOSE DE BIENES MUEBLES Y SEIS MESES EN LOS BIENES INMUEBLES, CONTADOS A PARTIR DE LA NOTIFICACION AL INTERESADO SE PRESENTE A RECOGERLOS, BAJO EL APERCIBIMIENTO QUE DE NO HACERLO SE DECLARARAN ABANDONADOS EN LOS TERMINOS DEL ARTICULO 93, DE ESTA LEY.
+###### ARTÍCULO 26.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Son causas de cancelación de licencias:
 
-###### ARTICULO 78.
+I. Cuando el titular o su representante no realice dentro del plazo señalado por esta Ley, el trámite y pago de refrendo anual, o bien el refrendo no le sea autorizado;
 
-LA DIRECCION DE BIENES, AL MOMENTO DE QUE EL INTERESADO O SU REPRESENTANTE LEGAL SE PRESENTE A RECOGER LOS BIENES DEBERA:
+II. Cuando la licencia opere en domicilio distinto al autorizado;
 
-I. LEVANTAR ACTA EN LA QUE SE HAGA CONSTAR EL DERECHO DEL INTERESADO O SU REPRESENTANTE LEGAL QUE SE PRESENTE A RECIBIR LOS BIENES;
+III. Cuando el titular sea reincidente en el incumplimiento de la presente Ley;
 
-II. REALIZAR UN INVENTARIO DE LOS BIENES;
+IV. Cuando el titular de la licencia o encargado del establecimiento impidan o dificulten la entrada de las autoridades competentes conforme a esta Ley;
 
-III. ENTREGAR LOS BIENES AL INTERESADO O SU REPRESENTANTE LEGAL.
+V. Cuando a juicio de la autoridad, según se trate, la trasgresión a esta Ley sea de tal gravedad, que por su repercusión social amerite su cancelación;
 
-###### ARTICULO 79.
+VI. Cuando lo soliciten las autoridades ejidales, comunales o indígenas, previo acuerdo de asamblea general, y sólo respecto a establecimientos que se encuentren dentro de su jurisdicción.
 
-LA DEVOLUCION DE LOS BIENES ASEGURADOS, INCLUIRA LA ENTREGA DE LOS FRUTOS QUE HUBIERE GENERADO, MENOS LOS GASTOS DE MANTENIMIENTO Y ADMINISTRACION, NECESARIOS PARA QUE DICHOS BIENES NO SE PIERDAN O DETERIOREN.
+VII. Cuando el titular de la licencia, sea declarado inhabilitado para ejercer el comercio respecto de la misma licencia, por resolución definitiva dictada por autoridad competente, y
 
-###### ARTICULO 80.
+VIII. En los demás casos que establezcan esta Ley y disposiciones relativas.
 
-LA DEVOLUCION DE NUMERARIO COMPRENDERA LA ENTREGA DEL PRINCIPAL Y DE SUS RENDIMIENTOS DURANTE EL TIEMPO QUE HAYA SIDO ADMINISTRADO, A LA TASA REFERIDA EN EL ARTICULO 54 DE ESTA LEY.
+### CAPÍTULO VIII. De los Horarios
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 27.
 
-###### ARTICULO 81.
+Los establecimientos que se señalan en el artículo 10 de esta Ley, podrán permanecer abiertos al público dentro del horario autorizado, según su giro comercial, pero únicamente podrán vender o suministrar y, en su caso, permitir el consumo de bebidas alcohólicas, en el horario que determine cada ayuntamiento, y dentro de los límites siguientes:
 
-LA DIRECCION DE BIENES, AL DEVOLVER EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS, RENDIRA CUENTAS DE LA ADMINISTRACION QUE HUBIERA REALIZADO A LA PERSONA QUE TENGA DERECHO A ELLO, Y LE ENTREGARA LOS DOCUMENTOS, OBJETOS Y EN GENERAL TODO AQUELLO QUE HAYA COMPRENDIDO LA ADMINISTRACION.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-###### ARTICULO 82.
+I. Bares, cervecerías, salas de degustación, y cervecerías artesanales: de 10:00 a 2:00 horas del día siguiente;
 
-A PARTIR DE LA RECEPCION DE LOS BIENES, EL INTERESADO O SU REPRESENTANTE LEGAL TENDRAN UN PLAZO DE 30 DIAS HABILES PARA INTERPONER EL RECURSO DE REVISION POR LAS CONDICIONES EN QUE SE ENCUENTREN LOS MISMOS Y LAS CUENTAS QUE SE LES RINDIERON EN TERMINOS DE LO ESTABLECIDO POR LAS NORMAS APLICABLES.
+II. Billares, cines, baños públicos y boliches: de 11:00 a 23:00 horas;
 
-###### ARTICULO 83.
+III. Pulquerías: de 11:00 a 19:00 horas;
 
-EL RECURSO A QUE SE REFIERE EL ARTICULO ANTERIOR SERA DETERMINADO EN EL REGLAMENTO QUE REGULE LA PRESENTE LEY.
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+IV. Depósitos, agencias, distribuidoras, destilerías y boutiques de cerveza artesanal: de 10:00 a 23:00 horas;
 
-###### ARTICULO 84.
+V. Supermercados, minisupers, tiendas departamentales, tiendas de conveniencia, abarrotes, misceláneas, tendajones, licorerías y vinaterías: de 9:00 a 23:00 horas;
 
-CUANDO SE DETERMINE POR LA AUTORIDAD COMPETENTE LA DEVOLUCION DE LOS BIENES QUE HUBIEREN SIDO PREVIAMENTE ENAJENADOS CON BASE EN LO EXPUESTO EN EL ARTICULO 59 DE ESTA LEY, Y LA DIRECCION DE BIENES NO SE ENCUENTRE EN POSIBILIDAD DE DEVOLVERLOS, SE TENDRA POR CUMPLIDA ENTREGANDO EL VALOR DE LOS BIENES AL REALIZARSE EL ASEGURAMIENTO MAS LOS RENDIMIENTOS CORRESPONDIENTES, CALCULADOS A LA TASA REFERIDA EL (SIC) ARTICULO 54 DE ESTA LEY.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+VI. Restaurantes y restaurantes - bar, cuya actividad preponderante sea la transformación y venta de alimentos: de 11:00 a 2:00 horas del día siguiente;
 
-###### ARTICULO 85.
+VII. Fondas, cines, cafés, cenadurías, taquerías, antojerías y similares: de 11:00 a 1:00 horas del día siguiente;
 
-LA DIRECCION DE BIENES, SERA RESPONSABLE DE LOS DAÑOS DERIVADOS DE LA PERDIDA, EXTRAVIO O DETERIORO DE LOS BIENES ASEGURADOS QUE ADMINISTRA, POR ELLO, Y PARA EVITAR DAÑO AL ERARIO PUBLICO, DEBERAN DE CUMPLIR CON LO DISPUESTO EN EL ARTICULO 39, DE ESTA LEY, AMEN, DE LAS DEMAS DISPOSICIONES A QUE HAYAN LUGAR. QUIEN TENGA DERECHO A LA DEVOLUCION DE BIENES QUE HUBIERAN SUFRIDO DAÑOS PODRA RECLAMARLE SU PAGO.
+VIII. Centros nocturnos: de 21:00 a 2:00 horas del día siguiente; exceptuando las discotecas que será de 19:00 a 2:00 horas del día siguiente; para el caso de fechas especiales como lo son, el primer domingo de febrero; tercer domingo de marzo; treinta de abril; quince de septiembre; tercer domingo de noviembre; veinticuatro, y treinta y uno de diciembre; o la duración de ferias ya sean nacionales, estatales, o regionales, la autoridad correspondiente podrá ampliar el horario de venta y funcionamiento de las 19:00 hasta las 3:00 horas del día siguiente;
 
-#### SECCION SEGUNDA. DE LA DEVOLUCION DE BIENES EN EL PROCESO PENAL
+IX. Los hoteles y moteles deberán acatar los horarios establecidos para cada uno de los giros de los diversos servicios que presten en sus instalaciones, y para los cuales estén autorizados respectivamente en la licencia única, y
 
-###### ARTICULO 86.
+X. Los centros o clubes sociales, deportivos y recreativos en los que se dé servicio solamente a socios e invitados, deberán respetar los horarios establecidos en este artículo, para venta y consumo en las áreas de restaurante, bar y centro nocturno, respectivamente.
 
-LA DEVOLUCION DE LOS BIENES ASEGURADOS PROCEDE EN EL PROCESO PENAL CUANDO LA AUTORIDAD JUDICIAL HAYA DICTADO SENTENCIA ABSOLUTORIA O CUANDO EL MINISTERIO PUBLICO DESISTA DE LA ACCION PENAL Y EL JUEZ DE LA CAUSA HAYA RESUELTO DICHA PETICION.
+###### ARTÍCULO 28.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Los centros nocturnos, cabaret, o discoteca, además de las obligaciones señaladas en el artículo 32 de la presente Ley, deberán:
 
-###### ARTICULO 87.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-CUANDO PROCEDA LA DEVOLUCION DE BIENES ASEGURADOS, LA AUTORIDAD JUDICIAL LO NOTIFICARA AL MINISTERIO PUBLICO Y A LA DIRECCION DE BIENES, PARA QUE DE INMEDIATO, MANIFIESTEN LO QUE A SU INTERES CONVENGA.
+I. Contar con la presencia de al menos un elemento de seguridad por cada cincuenta clientes, en base a la capacidad máxima del establecimiento, y los cuales deberán estar acreditados por la Secretaría de Seguridad y Protección Ciudadana; o la Dirección de Seguridad Pública Municipal;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+II. Informar anualmente a las autoridades competentes acerca de la implementación del programa emitido por el Gobierno del Estado dirigido a las y los conductores de vehículos automotores, sobre las consecuencias de manejar bajo los influjos del alcohol;
 
-###### ARTICULO 88.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-AL SER NOTIFICADA LA DIRECCION DE BIENES, RESPECTO DE LA DEVOLUCION DE BIENES PROCEDERA A REALIZAR LA MISMA EN TERMINOS DE LO ESTABLECIDO EN LA SECCION ANTERIOR DE ESTE CAPITULO.
+III. Contar con alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los usuarios o clientes que se les aplique la prueba. Los medidores o alcoholímetros deben tener las características y tiempo máximo de uso señalado por la Secretaría de Seguridad y Protección Ciudadana;
 
-###### ARTICULO 25.
+IV. Contar con arcos detectores de metales o detectores portátiles, en cada uno de los accesos para clientes del establecimiento;
 
-EL MINISTERIO PUBLICO QUE DECRETE EL ASEGURAMIENTO, DEBERA NOTIFICARLO AL INTERESADO O SU REPRESENTANTE LEGAL, DENTRO DE LOS TREINTA DIAS SIGUIENTES A SU EJECUCION, PARA EL EFECTO DE QUE MANIFIESTE LO QUE A SU INTERES CONVENGA, ENTREGANDO O PONIENDO A SU DISPOSICION SEGUN SEA EL CASO UNA COPIA CERTIFICADA DEL ACTA A QUE SE REFIERE EL ARTICULO ANTERIOR.
+V. Contar con al menos un paramédico de guardia de las 20:00 horas hasta la hora del cierre del establecimiento, el que estará debidamente acreditado por la Secretaría de Salud del Estado;
 
-###### ARTICULO 26.
+VI. Desarrollar un plan de acción social a favor del consumo responsable de bebidas alcohólicas, entendiéndose éste como las medidas de difusión que implementará el establecimiento para prevenir el consumo excesivo de alcohol, así como las consecuencias negativas de conducir en estado de ebriedad, y
 
-EN LA NOTIFICACION A QUE SE REFIERE EL ARTICULO ANTERIOR, SE APERCIBIRA AL INTERESADO O SU REPRESENTANTE LEGAL PARA QUE NO ENAJENE O GRAVE LOS BIENES ASEGURADOS.
+VII. Contar y promover el apoyo de un servicio de taxis para los clientes que lo requieran.
 
-### CAPITULO II. DEL ABANDONO
+###### ARTÍCULO 29.
 
-###### ARTICULO 89.
+En el caso que se haya expedido licencia para eventos, espectáculos, así como de fiestas o reuniones particulares que se celebren en clubes y centros sociales, deportivos, hoteles, moteles, restaurantes, salones para fiesta y centros de convenciones, así como en las licencias de degustación, el horario será fijado por la autoridad que otorgue la licencia o permiso correspondiente.
 
-POR ABANDONO SE ENTIENDE LA PERDIDA DEL DERECHO DE PROPIEDAD, SOBRE UNA COSA MEDIANTE LA DESPOSESION DE LA MISMA, QUE HA DE REALIZARSE CON LA INTENCION DE DEJAR DE SER PROPIETARIO.
+###### ARTÍCULO 30.
 
-###### ARTICULO 90.
+Los establecimientos y locales a que se refiere el artículo 10 de esta Ley, deberán suspender la distribución, venta y suministro de bebidas alcohólicas en las fechas siguientes:
 
-LOS BIENES DECLARADOS ABANDONADOS, SUS FRUTOS Y PRODUCTOS, ASI COMO LOS DERIVADOS DE SU ENAJENACION, SERAN CONSIDERADOS COMO APROVECHAMIENTOS PARA EL ESTADO.
+I. Los días que se determinen conforme a la legislación electoral federal y estatal, relativos a las jornadas electorales;
 
-###### ARTICULO 91.
+II. Los que en forma expresa determinen los ayuntamientos, por acuerdo de cabildo, a solicitud de las autoridades ejidales, comunales o indígenas, acordada en asamblea; además, en casos de riesgo, emergencia o por causa de seguridad pública, y
 
-LOS BIENES ASEGURADOS RESPECTO DE LOS CUALES EL INTERESADO O SU REPRESENTANTE LEGAL NO HAYAN MANIFESTADO LO QUE A SU DERECHO CONVENGA, CAUSARAN ABANDONO EN LOS CASOS SIGUIENTES:
+III. Los que en forma expresa, para fechas y plazos determinados, fije el titular del Poder Ejecutivo del Estado.
 
-I. CUANDO SE TRATE DE BIENES MUEBLES, TRANSCURRIDOS 3 MESES CONTADOS A PARTIR DE LA NOTIFICACION;
+Cuando la autoridad estatal o municipal haya determinado la prohibición de la distribución, venta y suministro de bebidas alcohólicas, deberá dar aviso por escrito a los titulares de las licencias, y a la población a través de los medios de comunicación masiva, por lo menos con setenta y dos horas de anticipación al inicio de la suspensión, especificando el día y la hora en que inicia y concluye la suspensión temporal determinada, exceptuando los casos en que la suspensión sea por caso de riesgo, emergencia o por causa de seguridad pública.
 
-II. CUANDO SE TRATE DE BIENES INMUEBLES, TRANSCURRIDOS 6 MESES. CONTADOS A PARTIR DE LA NOTIFICACION.
+### CAPÍTULO IX. De los Derechos y Obligaciones de los Titulares
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 31.
 
-###### ARTICULO 92.
+Los titulares y solicitantes de licencias tienen derecho a demandar de las autoridades, el cumplimiento de las obligaciones consignadas a su cargo en la presente Ley.
 
-LA DIRECCION DE BIENES, NOTIFICARA AL INTERESADO O SU REPRESENTANTE LEGAL EL VENCIMIENTO DE LOS PLAZOS PREVISTOS EN EL ARTICULO ANTERIOR, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO 28, DE ESTA LEY, PARA QUE EN UN PLAZO DE 30 DIAS A PARTIR DE LA NOTIFICACION MANIFIESTE LO QUE A SU DERECHO CONVENGA, APERCIBIDO QUE DE NO HACERLO, LOS BIENES SE DECLARARAN ABANDONADOS, EN TERMINOS DEL ARTICULO SIGUIENTE DE ESTA LEY.
+###### ARTÍCULO 32.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Son obligaciones de los titulares de las licencias:
 
-###### ARTICULO 93.
+I. Tener en lugar visible del establecimiento, la licencia original, y el recibo de pago de refrendo, o copias certificadas de los mismos;
 
-LA DIRECCION DE BIENES, PROCEDERA A DECLARAR ABANDONADOS LOS BIENES ASEGURADOS CONFORME A LAS REGLAS SIGUIENTES:
+II. Realizar sus actividades dentro de los horarios establecidos por esta Ley, y en el caso del artículo 27 de este Ordenamiento, por los fijados por la autoridad estatal, o municipal; respetando la clasificación para la cual fue autorizada la licencia; así como tener en lugares visibles del establecimiento, un aviso que indique el horario de venta, consumo y suministro de bebidas alcohólicas;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. Cumplir con todos y cada uno de los requisitos y normas que marca la Ley de Salud del Estado de San Luis Potosí, durante la vigencia de la licencia;
 
-I. TRANSCURRIDOS LOS PLAZOS PREVISTOS EN LOS ARTICULOS 77, 91 Y 92 DE ESTA LEY, LA DIRECCION DE BIENES, NOTIFICARA AL INTERESADO O A SU REPRESENTANTE LEGAL EN LOS TERMINOS DEL ARTICULO 28, Y LO APERCIBIRA QUE DE NO MANIFESTAR LO QUE A SU DERECHO CONVENGA DENTRO DE LOS 30 DIAS SIGUIENTES A LA NOTIFICACION LOS BIENES SERAN DECLARADOS ABANDONADOS;
+IV. Negar la venta y suministro de bebidas alcohólicas a:
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+a) Menores de edad, o a personas que no tienen capacidad para comprender el significado del hecho.
 
-II. CONCLUIDO EL PLAZO DE 30 DIAS A QUE SE REFIERE LA FRACCION ANTERIOR, SIN QUE EL INTERESADO O SU REPRESENTANTE LEGAL MANIFIESTEN LO QUE A SU INTERES CONVENGA, LA DIRECCION DE BIENES, DECLARARA QUE LOS BIENES HAN CAUSADO ABANDONO A FAVOR DEL ESTADO, A PARTIR DE DICHA DECLARACION SE ESTARA A LO DISPUESTO POR EL ARTICULO 90;
+b) Miembros uniformados de las corporaciones policiacas o militares.
 
-III. SI DENTRO DEL PLAZO A QUE SE REFIERE LA FRACCION ANTERIOR, SE PRESENTA EL INTERESADO O SU REPRESENTANTE LEGAL A RECOGER LOS BIENES SOBRE LOS QUE PREVIAMENTE SE HAYA RESUELTO SU DEVOLUCION EN LOS TERMINOS DE ESTA LEY, SE LE DEVOLVERAN PREVIO ACUSE DE RECIBO Y SIN MAS TRAMITE.
+c) Personas que porten armas de cualquier tipo.
 
-###### ARTICULO 27.
+d) Personas que se encuentren en notorio estado de ebriedad, o bajo la influencia de alguna droga o enervante.
 
-EN LA NOTIFICACION, DEBERA APERCIBIRSE AL INTERESADO O SU REPRESENTANTE LEGAL QUE DE NO MANIFESTAR LO QUE A SU DERECHO CONVENGA, EN LOS PLAZOS A QUE SE REFIERE EL ARTICULO 90 DE ESTA LEY, LOS BIENES CAUSARAN ABANDONO A FAVOR DEL ESTADO, O EN SU CASO, SE APLICARA SU PRODUCTO A LA REPARACION DEL DAÑO.
+e) Inspectores y verificadores de los establecimientos, cuando se encuentren en servicio.
 
-###### ARTICULO 28.
+Para tal efecto, deberán tener en lugar visible del establecimiento, un aviso al público que indique esta prohibición, así como señalar que la venta o suministro de bebidas alcohólicas a menores de dieciocho años de edad es un delito que sanciona el Código Penal del Estado, con pena privativa de libertad;
 
-LAS NOTIFICACIONES SE PRACTICARAN COMO SIGUE:
+V. Prohibir, tratándose de bares, cabarets, casinos, cervecerías, centros nocturnos y pulquerías, la contratación, y entrada a menores edad; para permitir el acceso a los establecimientos señalados, los propietarios deberán solicitar a los clientes, sin excepción alguna, que presenten una identificación oficial, a fin de que acrediten su mayoría de edad;
 
-I. PERSONALMENTE CON EL INTERESADO O SU REPRESENTANTE LEGAL, DE CONFORMIDAD CON LAS REGLAS SIGUIENTES:
+VI. Prohibir el ejercicio de la prostitución en cualquiera de los establecimientos en que se consuman, vendan o suministren bebidas alcohólicas;
 
-A) LA NOTIFICACION SE PRACTICARA EN EL DOMICILIO DEL INTERESADO; EN CASO DE QUE EL INTERESADO SE ENCUENTRE PRIVADO DE SU LIBERTAD, LA NOTIFICACION PERSONAL SE HARA EN EL LUGAR DONDE SE ENCUENTRE DETENIDO;
+VII. Denunciar actos que pongan en peligro el orden en los establecimientos, recurriendo para ello al auxilio de la fuerza pública. Asimismo, dar aviso inmediato a las autoridades competentes cuando tengan conocimiento o encuentren en el local, sobre persona o personas que consuman o posean estupefacientes, o cualquier otra droga enervante;
 
-B) EL NOTIFICADOR DEBERA CERCIORARSE DEL DOMICILIO, ENTREGAR COPIA DE LA RESOLUCION QUE SE NOTIFIQUE Y RECABAR NOMBRE Y FIRMA DE LA PERSONA CON QUIEN SE ENTIENDA LA DILIGENCIA; ASENTANDO LOS DATOS DEL DOCUMENTO OFICIAL CON EL QUE SE IDENTIFIQUE;
+VIII. Permitir el acceso a las autoridades correspondientes, a efecto que se lleve a cabo la inspección o verificación que la presente Ley les faculta realizar;
 
-C) DE NO ENCONTRARSE LA PERSONA POR NOTIFICAR EN LA PRIMERA BUSCA, SE LE DEJARA CITATORIO EN EL DOMICILIO DESIGNADO PARA QUE ESPERE A UNA HORA FIJA DEL DIA HABIL SIGUIENTE Y SI NO ESPERA O SE NIEGA A RECIBIR LA NOTIFICACION SE FIJARA INSTRUCTIVO EN UN LUGAR VISIBLE DEL DOMICILIO Y LA NOTIFICACION SE PRACTICARA MEDIANTE EDICTOS EN TERMINOS DE LA FRACCION II DE ESTE ARTICULO;
+IX. Impedir que se lleven a cabo en sus establecimientos, juegos de azar y que se hagan apuestas, salvo aquellos establecimientos que cuenten con la debida licencia de juegos otorgada por la autoridad competente en la materia;
 
-D) EN TODOS LOS CASOS DEBERA LEVANTARSE ACTA CIRCUNSTANCIADA DE LA DILIGENCIA QUE SE PRACTIQUE;
+X. Cuidar en caso de tener música en vivo o grabada, que ésta no rebase los límites máximos permisibles establecidos en la normatividad ambiental, que para tal efecto emitan las autoridades en la materia;
 
-II. POR EDICTOS; CUANDO SE DESCONOZCA LA IDENTIDAD O DOMICILIO DEL INTERESADO, ASI COMO EN LOS CASOS A QUE SE REFIERE EL INCISO C) DE LA FRACCION ANTERIOR, DE CONFORMIDAD CON LAS REGLAS SIGUIENTES:
+XI. Cumplir con las medidas de seguridad, así como las normas oficiales mexicanas u otras aplicables en la materia de protección civil, que deban observarse en los establecimientos regulados por esta Ley;
 
-A) LOS EDICTOS SE PUBLICARAN EN EL PERIODICO OFICIAL DEL ESTADO, Y EN DOS PERIODICOS DE MAYOR CIRCULACION EN EL ESTADO, POR DOS VECES, CON INTERVALO DE TRES DIAS;
+XII. Tener a la vista de los clientes, en todo momento, las botellas de bebidas alcohólicas que se utilizan para vender y suministrar en la modalidad de copeo;
 
-B) LOS EDICTOS DEBERAN CONTENER UN RESUMEN DE LA RESOLUCION POR NOTIFICAR;
+XIII. Destruir las botellas de bebidas alcohólicas al momento de que se termine el producto, a efecto de evitar que sean rellenadas en posterioridad, de lo anterior se exceptúan las botellas de cerveza retornable;
 
-III. LAS NOTIFICACIONES PERSONALES SURTIRAN EFECTOS EL DIA EN QUE HUBIERAN SIDO PRACTICADAS Y LAS EFECTUADAS POR EDICTOS EL DIA DE LA ULTIMA PUBLICACION;
+XIV. Evitar las promociones como la denominada “barra libre” o a precio menor de su venta al mayoreo; y todas aquéllas que inviten al consumo inmoderado de bebidas alcohólicas;
 
-IV. LOS PLAZOS ESTABLECIDOS EN ESTA LEY, EMPEZARAN A CORRER AL DIA SIGUIENTE DE AQUEL EN QUE HAYA SURTIDO SUS EFECTOS LA NOTIFICACION RESPECTIVA.
+XV. Informar, capacitar, y hacer cumplir a los empleados y encargados del establecimiento sobre las disposiciones del presente Ordenamiento;
 
-###### ARTICULO 29.
+XVI. Incluir en la venta de botella cerrada para consumo inmediato, por lo menos, el triple del contenido de la misma de bebidas no alcohólicas con las que se pueda mezclar, además del hielo, y
 
-EN AQUELLOS CASOS EN QUE EL MINISTERIO PUBLICO CONSIGNE AVERIGUACIONES PREVIAS EN LAS CUALES HAYA ASEGURADO BIENES, LA AUTORIDAD JUDICIAL, DEBERA RATIFICAR O NO EL ASEGURAMIENTO DECRETADO POR LA REPRESENTACION SOCIAL.
+XVII. Las demás que señalen esta Ley y otras disposiciones aplicables, sean federales, estatales o municipales.
 
-###### ARTICULO 30.
+###### ARTÍCULO 33.
 
-EN LOS CASOS EN QUE LOS BIENES QUE SE ASEGUREN HAYAN SIDO PREVIAMENTE EMBARGADOS, INTERVENIDOS, SECUESTRADOS O ASEGURADOS, SE NOTIFICARA EL NUEVO ASEGURAMIENTO A LAS AUTORIDADES QUE HAYAN ORDENADO DICHOS ACTOS. LOS BIENES CONTINUARAN EN CUSTODIA DE QUIEN SE HAYA DESIGNADO PARA ESE FIN, Y A DISPOSICION DEL MINISTERIO PUBLICO Y DE LAS AUTORIDADES JUDICIALES PARA LOS EFECTOS DEL PROCEDIMIENTO PENAL.
+Los bares, billares, boliches, casinos, cervecerías, centros nocturnos y pulquerías, salvo la salida de emergencia, no podrán tener comunicación con habitaciones, comercios o locales ajenos a su clasificación, de manera que sus únicos accesos deberán ser hacia la calle, evitando la vista del exterior hacia el interior con la instalación de persianas, biombos, celosías o canceles, de conformidad con la normativa en seguridad y protección civil.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 34.
 
-### CAPITULO III. DEL DECOMISO
+El consumo de bebidas alcohólicas en estadios, plazas de toros, lienzos charros, auditorios y, en general, en toda clase de eventos y espectáculos públicos, deberá hacerse en vasos plásticos, de cartón o de algún material equivalente.
 
-###### ARTICULO 94.
+### CAPÍTULO X. De la Vigilancia e Inspección
 
-EL DECOMISO ES LA PERDIDA DE LA PROPIEDAD O POSESION DE LOS INSTRUMENTOS DEL DELITO Y DE LAS COSAS QUE SEAN OBJETO O PRODUCTOS DEL MISMO.
+###### ARTÍCULO 35.
 
-###### ARTICULO 95.
+Para la inspección y vigilancia del cumplimiento de esta Ley, se consideran hábiles las veinticuatro horas de todos los días del año. Las autoridades legalmente competentes podrán, de conformidad con las disposiciones aplicables y en estrictos términos de los artículos 14 y 16 de la Constitución Federal, inspeccionar y verificar los bienes necesarios, con el objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual deberán cumplir, ineludiblemente, las formalidades previstas para las visitas de inspección y verificación.
 
-LA AUTORIDAD JUDICIAL, MEDIANTE SENTENCIA EN EL PROCESO PENAL CORRESPONDIENTE, PODRA DECRETAR EL DECOMISO DE BIENES CON EXCEPCION DE LOS QUE HAYAN CAUSADO ABANDONO EN LOS TERMINOS DE ESTA LEY.
+Las inspecciones se entenderán con el titular de la licencias y, en su ausencia, con su representante legal, el encargado del establecimiento, o con quien se encuentre atendiendo el mismo.
 
-###### ARTICULO 96.
+###### ARTÍCULO 36.
 
-LOS BIENES DECOMISADOS, SUS FRUTOS Y PRODUCTOS, ASI COMO LOS DERIVADOS DE SU ENAJENACION, SERAN CONSIDERADOS COMO APROVECHAMIENTOS PARA EL ESTADO.
+Las inspecciones que realicen las autoridades que gozan de tal atribución, según lo establecido por la presente Ley, a los establecimientos señalados en la misma, se sujetarán a las siguientes bases:
 
-###### ARTICULO 97.
+I. El inspector deberá contar con orden escrita, con nombre, cargo, y firma autógrafa de la autoridad competente que la expide; debidamente requisitada, sin dejar espacios en blanco, ni contener tachaduras, o enmendaduras; en la que se expresará el domicilio del establecimiento por inspeccionar; la fecha; el objeto de la visita; una debida fundamentación y motivación;
 
-LOS APROVECHAMIENTOS A QUE SE REFIERE EL ARTICULO ANTERIOR, UNA VEZ DESCONTADOS LOS COSTOS DE ADMINISTRACION Y GASTOS DE MANTENIMIENTO Y CONSERVACION DE LOS BIENES SERAN DESTINADOS A LA PROCURADURIA, PODER JUDICIAL Y A LA SECRETARIA DE SALUD EN FORMA PROPORCIONAL.
+II. Los inspectores deberán practicar la visita dentro de las cuarenta y ocho horas siguientes a la expedición de la orden;
 
-###### ARTICULO 98.
+III. El inspector deberá identificarse debidamente con el titular de la licencia, su representante legal; el encargado del establecimiento; o con quien se encuentre atendiendo el mismo;
 
-COMO EXCEPCION A LO DISPUESTO EN EL ARTICULO ANTERIOR EL CONSEJO PODRA ACORDAR, SEGUN LA NATURALEZA DE LOS BIENES, QUE EN LUGAR DE SU ENAJENACION SEAN DESTINADOS A LA PROCURADURIA SEGUN SUS NECESIDADES.
+IV. El inspector levantará acta circunstanciada por triplicado, en formas foliadas, en la que constará:
 
-###### ARTICULO 99.
+a) Nombre y razón social del establecimiento.
 
-LOS BIENES QUE LA PROCURADURIA VENGA UTILIZANDO DE CONFORMIDAD CON EL ARTICULO 72 DE ESTA LEY, SE ASIGNARA EN USO A LA PROPIA PROCURADURIA, PARA QUE CONTINUE UTILIZANDOLO EN EL DESARROLLO DE SUS FUNCIONES.
+b) Fecha y hora en que inicia y concluye la diligencia.
 
-###### ARTICULO 100.
+c) Domicilio del establecimiento en que se lleva a cabo la inspección.
 
-CUANDO LAS AUTORIDADES DE LOS MUNICIPIOS, ASI COMO LAS DE OTROS ESTADOS DE LA REPUBLICA O PAISES, HUBIERAN COLABORADO EN INVESTIGACIONES CUYA CONSECUENCIA HAYA SIDO EL DECOMISO O ABANDONO DE BIENES, EL PRODUCTO DE SU ENAJENACION, PODRA COMPARTIRSE CON DICHAS AUTORIDADES, DE CONFORMIDAD CON LAS DISPOSICIONES APLICABLES.
+d) Nombre y cargo de la persona con quien se entendió la diligencia.
 
-## TITULO QUINTO. DE LA ENAJENACION DE LOS BIENES ABANDONADOS Y DECOMISADOS
+e) Nombre y domicilio de dos testigos de asistencia que hayan estado presentes en el desarrollo de la inspección, propuestos por la persona con quien se atendió la diligencia, o en su negativa por el inspector.
 
-###### ARTICULO 31.
+f) Las firmas, del inspector, de la persona con quien se entendió la diligencia, si desea hacerlo, y de los dos testigos de asistencia.
 
-EN AQUELLOS CASOS EN QUE SE LEVANTARE EL EMBARGO, INTERVENCION, SECUESTRO O ASEGURAMIENTOS PREVIOS, QUIEN LOS TENGA BAJO SU CUSTODIA, LOS ENTREGARA A LA DIRECCION DE BIENES.
+g) Los hechos y circunstancias de la inspección;
 
-###### ARTICULO 32.
+V. El inspector comunicará al interesado, haciéndolo constar en el acta, que en caso de no estar de acuerdo con el resultado de la inspección, cuenta con cinco días hábiles para presentar ante la autoridad competente, las pruebas y alegatos que a su derecho convengan, y
 
-LOS BIENES ASEGURADOS NO PODRAN SER ENAJENADOS O GRAVADOS POR SUS PROPIETARIOS, DEPOSITARIOS, INTERVENTORES O ADMINISTRADORES, DURANTE EL TIEMPO QUE DURE EL ASEGURAMIENTO EN LA AVERIGUACION PREVIA Y EN EL PROCEDIMIENTO PENAL, SALVO LOS CASOS EXPRESAMENTE SEÑALADOS POR ESTA LEY U OTRAS DISPOSICIONES APLICABLES.
+VI. Uno de los tantos legibles del acta se entregará al interesado; otro quedará en poder de la autoridad calificadora; y el original se remitirá a la Secretaría General de Gobierno, o al ayuntamiento, en su caso.
 
-###### ARTICULO 33.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2022)</small>
 
-EL ASEGURAMIENTO NO IMPLICA MODIFICACION ALGUNA A LOS GRAVAMENES EXISTENTES CON ANTERIORIDAD SOBRE LOS BIENES.
+###### ARTÍCULO 37.
 
-###### ARTICULO 34.
+Transcurrido el plazo a que hace referencia la fracción V del artículo anterior, la autoridad estatal, o municipal, según sea el caso, calificará el acto dentro del término de diez días hábiles, considerando la gravedad de la infracción, si la hubiese, las circunstancias que hubieran concurrido, si existe reincidencia, así como las pruebas y alegatos del interesado, en su caso, y dictará la resolución que proceda, debidamente fundada y motivada, notificándola al interesado para los efectos procedentes, en los términos previstos en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
-LA ADMINISTRACION DE LOS BIENES ASEGURADOS, COMPRENDE LA RECEPCION, REGISTRO, CUSTODIA, CONSERVACION Y SUPERVISION. SERAN CONSERVADOS EN EL ESTADO EN QUE SE HAYAN ASEGURADO, PARA SER DEVUELTOS EN LAS MISMAS CONDICIONES, SALVO EL DETERIORO NORMAL QUE SE LES CAUSE POR EL TRANSCURSO DEL TIEMPO, PODRAN UTILIZARSE O SER ENAJENADOS UNICA Y EXCLUSIVAMENTE EN LOS CASOS Y CUMPLIENDO LOS REQUISITOS ESTABLECIDOS EN ESTA LEY Y DEMAS DISPOSICIONES LEGALES.
+### CAPÍTULO XI. De las Acciones para Prevenir el Abuso en el Consumo de Bebidas Alcohólicas
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+###### ARTÍCULO 38.
 
-### CAPITULO I. DE LA DONACION
+Las autoridades estatales y municipales, a través de las respectivas dependencias, implementarán programas, acciones y campañas permanentes de difusión, tendientes a inhibir en las personas el consumo de bebidas alcohólicas mediante el conocimiento de los efectos que el abuso del alcohol genera, y fomentarán la participación de las asociaciones de padres de familia en los mismos.
 
-###### ARTICULO 101.
+###### ARTÍCULO 39.
 
-LOS BIENES PUEDEN SER DONADOS EN CASOS EXCEPCIONALES Y PREVIO CUMPLIMIENTO DE LOS REQUISITOS QUE EN SU CASO PREVEA EL CODIGO PENAL DEL ESTADO DE CHIAPAS, A FAVOR DE LOS MUNICIPIOS O DE ORGANIZACIONES CIVILES, PARA QUE SEAN UTILIZADOS EN LOS SERVICIOS PUBLICOS LOCALES, CON FINES EDUCATIVOS O DE ASISTENCIA SOCIAL, O A INSTITUCIONES AUTORIZADAS PARA RECIBIR DONATIVOS, QUE LO REQUIERAN PARA EL DESARROLLO DE SUS ACTIVIDADES.
+Las autoridades estatales y municipales celebrarán convenios con las instituciones educativas a fin de que se establezcan programas para promover, en los casos de infracciones cometidas por alumnos con aliento alcohólico, o en estado de ebriedad, tratamientos, servicios comunitarios, conferencias o alguna otra medida tendiente a solucionar dicha problemática en la juventud.
 
-###### ARTICULO 102.
+Para tal efecto se procurará que los padres, o quienes tengan la patria potestad, tutela o custodia del joven, participen activamente.
 
-EN CASO DE DONACION SE LEVANTARA ACTA CIRCUNSTANCIADA EN LA QUE FIRMARAN LOS QUE INTERVENGAN EN EL ACTO.
+###### ARTÍCULO 40.
 
-###### ARTICULO 103.
+La autoridad encargada de la expedición y renovación de la licencia de conducir, deberá entregar al solicitante la información que señale los efectos del consumo indebido o abusivo de bebidas alcohólicas, las infracciones que se señalan en esta Ley y las sanciones que correspondan, así como cualquier otra información que tenga por objeto concientizar a los conductores sobre los riesgos que se presentan al manejar con aliento alcohólico, o en estado de ebriedad.
 
-EL ACTA A QUE SE REFIERE EL ARTICULO ANTERIOR ASI COMO EL ACUSE DE RECEPCION DEL DONATARIO SE DEBERA AGREGAR A LA CAUSA PENAL O AVERIGUACION PREVIA SEGUN EL CASO CORRESPONDIENTE.
+La autoridad referida en el párrafo precedente deberá mantener en su archivo un registro de las infracciones de tránsito que se hayan cometido por conducir con aliento alcohólico, o en estado de ebriedad, así como de las suspensiones de las licencias de conducir.
 
-###### ARTICULO 35.
+###### ARTÍCULO 41.
 
-QUIENES RECIBAN BIENES ASEGURADOS, EN DEPOSITO, INTERVENCION O ADMINISTRACION, ESTAN OBLIGADOS A RENDIR A LA DIRECCION DE BIENES, UN INFORME MENSUAL DE LOS MISMOS Y DARLE TODAS LAS FACILIDADES PARA SU SUPERVISION Y VIGILANCIA.
+Las autoridades apoyarán y cooperarán con los centros de prevención y organizaciones no gubernamentales, que tengan como objetivo reducir el abuso en el consumo del alcohol o sus consecuencias, o brindar tratamiento a las personas que así lo requieran, siempre que sus actividades sean congruentes con los planes y programas que el Estado o los municipios establezcan.
 
-###### ARTICULO 36.
+Los ayuntamientos podrán convenir con asociaciones legalmente constituidas a fin de desarrollar acciones para procurar la seguridad de los asistentes a los establecimientos donde se venden, expenden o consumen bebidas alcohólicas, así como la de la población en general, en la vía pública.
 
-LAS ARMAS DE FUEGO, MUNICIONES, EXPLOSIVOS Y NARCOTICOS SE REMITIRAN A LA PROCURADURIA GENERAL DE LA REPUBLICA POR INCOMPETENCIA COMO LO ESTABLECE LA LEGISLACION PENAL FEDERAL.
+### CAPÍTULO XII. De las Prohibiciones
 
-###### ARTICULO 37.
+###### ARTÍCULO 42.
 
-LOS BIENES ASEGURADOS QUE RESULTEN DEL DOMINIO PUBLICO O PRIVADO DEL ESTADO O DE LOS MUNICIPIOS, SE RESTITUIRAN A LA DEPENDENCIA O ENTIDAD CORRESPONDIENTE, DE ACUERDO CON SU NATURALEZA, Y LO QUE DISPONGAN LAS NORMAS APLICABLES.
+Se prohíbe estrictamente la entrada a menores de edad a, bares, cervecerías, centros nocturnos, cabarets y pulquerías, debiendo el propietario o encargado, colocar un aviso en la parte más visible del interior y exterior del establecimiento, que señale esta prohibición. Se exceptúan los eventos en que no se vendan, consuman o suministren bebidas con contenido alcohólico.
 
-### CAPITULO II. DE LA VENTA
+###### ARTÍCULO 43.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Queda prohibida la venta, distribución, consumo, o suministro de bebidas alcohólicas de cualquier tipo y graduación, en la vía pública, campos deportivos y lugares de esparcimiento al aire libre; con excepción de los casos en que se cuente con la licencia correspondiente. La persona que lo haga sin contar con dicha licencia, se le sancionará conforme a lo que establece esta Ley y demás normatividad aplicable.
 
-###### ARTICULO 104.
+Asimismo, queda prohibida la venta de bebidas alcohólicas en casas habitación; así como la simulación de la venta de bebidas alcohólicas, mediante el cobro por el acceso a las referidas casas habitación.
 
-LA VENTA SERA LA FORMA JURIDICA RESPECTO DE LA TRANSMISION DE LA PROPIEDAD DE LOS BIENES ABANDONADOS, DECOMISADOS Y EN SU CASO DE LOS BIENES SEMOVIENTES, FUNGIBLES, PERECEDEROS Y LOS QUE SU MANTENIMIENTO IMPLIQUE UN GASTO ADICIONAL AL PRESUPUESTO DE LA AUTORIDAD, A TRAVES DE LOS PROCEDIMIENTOS DE LICITACION PUBLICA, SUBASTA, REMATE O ADJUDICACION DIRECTA.
+En los casos a que se refiere este artículo, se deberá hacer del conocimiento del Ministerio Público.
 
-###### ARTICULO 105.
+###### ARTÍCULO 44.
 
-EL PRECIO DE VENTA DE LOS BIENES ABANDONADOS Y DECOMISADOS SERA:
+Queda prohibido utilizar las bebidas alcohólicas para realizar pagos en especie, ya sea a título de salario, remuneración, compensación o cualquier otra figura similar. El patrón o persona que lo haga será consignado a las autoridades correspondientes, y sancionado con las penas que para tal delito establezca el Código Penal del Estado de San Luis Potosí, sin perjuicio de las sanciones administrativas a que se haga acreedor de acuerdo con la presente Ley.
 
-I. EL QUE SEÑALE EL AVALUO VIGENTE;
+###### ARTÍCULO 45.
 
-II. EL VALOR COMERCIAL;
+Queda prohibido otorgar licencia para la venta y distribución de bebidas alcohólicas, así como el consumo y suministro de las mismas, en planteles educativos, centros de trabajo, templos, hospitales, cementerios, circos, tianguis, zonas industriales, plazas y parques públicos.
 
-III. EL VALOR DE MERCADO.
+###### ARTÍCULO 46.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Los solicitantes de licencias, y cambios de domicilio para la venta, distribución, consumo o suministro de bebidas alcohólicas, no podrán vender o suministrar ninguna bebida alcohólica mientras se encuentre en trámite su solicitud.
 
-###### ARTICULO 106.
+En caso de incumplimiento a esta disposición, el trámite se cancelará y el solicitante no podrá volver a tramitar licencia por el término de dos años a partir de la fecha en que se haya notificado la infracción. Se aplicarán además, a quien lo haga, las sanciones administrativas que correspondan según lo previsto por esta Ley.
 
-RESPETANDO SIEMPRE EL PRECIO BASE DE VALOR EN QUE FUERON VALUADOS SEGUN LO SEÑALADO POR LOS PERITOS, EN TODOS LOS CASOS LA DIRECCION DE BIENES, DEBERA JUSTIFICAR LAS RAZONES DE LA ELECCION TANTO DEL METODO DE LA VALUACION COMO DEL VALUADOR.
+###### ARTÍCULO 47.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+A los titulares y dependientes de los establecimientos a que se refiere la fracción IV del artículo 10 de esta Ley, además de las obligaciones que les impone la misma, les está prohibido suministrar o permitir el consumo de bebidas alcohólicas dentro de sus instalaciones, debiendo tener en lugares visibles del establecimiento, avisos que hagan saber al público de dicha prohibición, y en los que se advierta que quien consuma bebidas alcohólicas dentro del mismo, se hará acreedor a las sanciones que establecen esta Ley y las disposiciones relativas. Tendrán además, avisos visibles al público, informando de las sanciones que se pueden aplicar a las personas que consuman bebidas alcohólicas en la vía pública.
 
-###### ARTICULO 107.
+###### ARTÍCULO 48.
 
-PARA LA REALIZACION DE LAS ENAJENACIONES A QUE SE REFIERE ESTE TITULO, LA DIRECCION DE BIENES, TENDRA TODAS LAS FACULTADES Y OBLIGACIONES DE UN MANDATARIO PARA PLEITOS Y COBRANZAS, ACTOS DE ADMINISTRACION, ACTOS DE DOMINIO Y PARA OTORGAR Y SUSCRIBIR TITULOS DE CREDITO.
+Queda prohibido a los propietarios, o titulares de licencia, dependientes o encargados de los establecimientos a que se refiere el artículo 10 de esta Ley, vender o suministrar bebidas alcohólicas a personas en evidente estado de ebriedad, o que muestren signos claros y externos de dependencia alcohólica, así como prestar los servicios en estado de ebriedad o con aliento alcohólico, o consumiendo bebidas alcohólicas o bajo el influjo de drogas, enervantes o cualquier otro psicotrópico.
 
-## TITULO SEXTO. DE LOS PROCEDIMIENTOS DE ENAJENACION
+###### ARTÍCULO 49.
 
-###### ARTICULO 38.
+Son prohibiciones para los almacenistas, distribuidores y titulares de licencia de bebidas alcohólicas, las siguientes:
 
-SE HARA CONSTAR EN EL REGISTRO PUBLICO QUE CORRESPONDA DE CONFORMIDAD CON LAS DISPOSICIONES APLICABLES:
+I. Vender, distribuir o suministrar bebidas alcohólicas que estén adulteradas, alteradas, contaminadas, o falsificadas, en los términos de las disposiciones de salud aplicables; sin perjuicio de las sanciones administrativas que puedan imponer las autoridades sanitarias, o de las sanciones penales que correspondan cuando sean constitutivas de un delito; debiendo para ello, respaldar mediante análisis clínico-químico la calidad del producto, en caso de que en la etiqueta del producto no contenga especificación al respecto;
 
-I. EL ASEGURAMIENTO DE BIENES INMUEBLES, DERECHOS REALES, AERONAVES, EMBARCACIONES, EMPRESAS, NEGOCIACIONES, ESTABLECIMIENTOS Y CUALQUIER OTRO BIEN SUSCEPTIBLE DE REGISTRO O CONSTANCIA;
+II. Vender, distribuir o suministrar bebidas alcohólicas a establecimientos que no cuenten con la licencia correspondiente o permiso especial o que se encuentran sancionados con clausura temporal o definitiva; así como a casas habitación en las que se vendan bebidas alcohólicas;
 
-II. EL NOMBRAMIENTO DEL DEPOSITARIO INTERVENTOR O ADMINISTRADOR, DE LOS BIENES A QUE SE REFIERE LA FRACCION ANTERIOR;
+III. Invadir la vía pública con objetos propios de su clasificación;
 
-III. EL REGISTRO O SU CANCELACION SE REALIZARAN SIN MAS REQUISITO QUE EL OFICIO DEL MINISTERIO PUBLICO.
+IV. Tener en existencia bebidas alcohólicas en envases distintos, en características o capacidad, a los normalmente autorizados;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+V. Las promociones a precio menor de su venta al mayoreo, y todas aquéllas que inviten al consumo inmoderado de bebidas alcohólicas;
 
-###### ARTICULO 39.
+VI. Obsequiar o vender bebidas alcohólicas a los oficiales de tránsito, agentes de policía, militares y demás encargados de la seguridad pública, cuando estén en servicio o porten uniforme, así como a los inspectores en materia de bebidas alcohólicas;
 
-LA DIRECCION DE BIENES O EL DEPOSITARIO, INTERVENTOR O ADMINISTRADOR DE BIENES ASEGURADOS, DEBERAN DE CONTRATAR SEGUROS PARA EL CASO DE PERDIDA O DAÑO DE LOS BIENES.
+VII. Vender, ceder, arrendar, transferir o permitir de cualquier forma la explotación de la licencia por un tercero;
 
-###### ARTICULO 40.
+VIII. Anunciarse al público por cualquier medio, con un giro de los previstos en esta Ley, distintos al autorizado en su licencia;
 
-A LOS FRUTOS O RENDIMIENTOS DE LOS BIENES, DURANTE EL TIEMPO DEL ASEGURAMIENTO, SE LES DARA EL MISMO TRATAMIENTO QUE A LOS BIENES ASEGURADOS QUE LOS GENEREN.
+IX. Permitir el acceso de personas a los establecimientos, en cantidad superior a la a la (sic) determinada en el dictamen emitido por la autoridad competente, y
 
-###### ARTICULO 41.
+X. Comercializar bebidas alcohólicas que contengan una proporción mayor al 55% de alcohol etílico en volumen.
 
-LOS RECURSOS QUE SE OBTENGAN DE LA ADMINISTRACION DE LOS BIENES ASEGURADOS, SE DESTINARAN A RESARCIR EL COSTO DE MANTENIMIENTO Y ADMINISTRACION DE LOS MISMOS Y EL REMANENTE SI LO HUBIERA, SE ENTREGARA A QUIEN EN SU MOMENTO ACREDITE TENER DERECHO, EN TERMINOS DEL ARTICULO 84 DE LA PRESENTE LEY.
+### CAPÍTULO XIII. De las Sanciones
 
-### CAPITULO I. GENERALIDADES
+###### ARTÍCULO 50.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+Las infracciones a la presente Ley serán sancionadas por la autoridad estatal o municipal que hubiese conocido de ellas, con independencia de las que correspondan al orden penal.
 
-###### ARTICULO 108.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-LOS PROCEDIMIENTOS DE ENAJENACION PREVISTOS EN ESTA LEY, SON DE ORDEN PUBLICO Y TIENE POR OBJETO ENAJENAR DE FORMA ECONOMICA, EFICAZ Y TRANSPARENTE, LOS BIENES ABANDONADOS, DECOMISADOS Y EN SU CASO LOS BIENES SEMOVIENTES, FUNGIBLES, PERECEDEROS Y LOS QUE SU MANTENIMIENTO IMPLIQUE UN GASTO ADICIONAL AL PRESUPUESTO DE LA AUTORIDAD, ASI COMO DE ASEGURAR LAS MEJORES CONDICIONES EN LA ENAJENACION DE LOS BIENES, OBTENER EL MAYOR VALOR DE RECUPERACION POSIBLE Y LAS MEJORES CONDICIONES DE OPORTUNIDAD, ASI COMO LA REDUCCION DE LOS COSTOS DE ADMINISTRACION Y CUSTODIA.
+###### ARTÍCULO 51.
 
-###### ARTICULO 109.
+Toda persona que consuma bebidas alcohólicas en la vía pública, dentro de vehículos automotores, o en establecimientos en los cuales la ley prohíbe su consumo, será sancionada con multa de veinte a doscientas veces el valor diario de la unidad de medida y actualización vigente en la fecha en que hubiese cometido la infracción. Tratándose de jornaleros o personas que perciban el salario mínimo como única fuente de ingresos, se estará a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-ESTARAN IMPEDIDAS PARA PARTICIPAR EN LOS PROCEDIMIENTOS DE ENAJENACION REGULADOS POR ESTA LEY, LAS PERSONAS QUE SE ENCUENTREN EN LOS SUPUESTOS SIGUIENTES:
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-I. LAS INHABILITADAS PARA DESEMPEÑAR UN EMPLEO CARGO O COMISION EN EL SERVICIO PUBLICO;
+###### ARTÍCULO 52.
 
-II. LAS QUE NO HUBIEREN CUMPLIDO CON CUALQUIERA DE LAS OBLIGACIONES DERIVADAS DE LOS PROCEDIMIENTOS PREVISTOS EN ESTA LEY, POR CAUSA IMPUTABLES A ELLAS;
+Cuando el titular de la licencia o encargado del establecimiento, impida o dificulte la entrada de las autoridades encargadas de la aplicación de esta Ley, al interior de los establecimientos a que hace referencia el artículo 10 de este Ordenamiento, se aplicará multa de cien a cuatrocientas veces el valor diario de la unidad de medida y actualización vigente; y será puesto a disposición del Ministerio Público, solicitando desde luego su intervención, y sin perjuicio de las sanciones administrativas que le correspondan de acuerdo a lo establecido en esta Ley.
 
-III. AQUELLAS QUE HUBIEREN PROPORCIONADO INFORMACION QUE RESULTE FALSA O QUE HAYAN ACTUADO CON DOLO O MALA FE, EN LA INTEGRACION DE LA AVERIGUACION PREVIA PARA LA ADJUDICACION DE UN BIEN;
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-IV. AQUELLAS QUE SEAN DECLARADAS EN QUIEBRA O CONCURSO CIVIL O MERCANTIL;
+###### ARTÍCULO 53.
 
-V. AQUELLAS QUE HUBIERAN PARTICIPADO EN PROCEDIMIENTOS SIMILARES CON EL GOBIERNO DEL ESTADO Y SE ENCUENTREN EN SITUACION DE ATRASO EN LOS PAGOS DE LOS BIENES, POR CAUSAS IMPUTABLES A ELLOS MISMOS;
+Cuando se compruebe que los titulares de las licencias o sus encargados, permiten el ejercicio de la prostitución en el establecimiento, además de la cancelación de la licencia, se les impondrá una multa de cien a cuatrocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
 
-VI. LAS DEPENDENCIAS O ENTIDADES DE ADMINISTRACION PUBLICA FEDERAL O ESTATAL, AUTORIDADES ESTATALES O MUNICIPALES, PERSONAS, EMPRESAS O INSTITUCIONES ESPECIALIZADAS EN LA PROMOCION DE LOS MISMOS;
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-VII. LOS AGENTES ADUANALES Y DICTAMINADORES ADUANEROS, RESPECTO DE LOS BIENES DE PROCEDENCIA EXTRANJERA;
+###### ARTÍCULO 54.
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cuatrocientas a ochocientas veces el valor diario de la unidad de medida y actualización vigente, independientemente de las penas que les imponga la autoridad judicial.
 
-VIII. LOS SERVIDORES PUBLICOS DEL CONSEJO O DE LA DIRECCION DE BIENES;
+Cuando se compruebe que los titulares de las licencias, o sus empleados o encargados venden, suministran o permiten el consumo (sic) bebidas alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de quinientas a mil veces el valor diario de la unidad de medida y actualización vigente, y se dará aviso a la autoridad investigadora, a efecto de denunciar los delitos que resulten.
 
-IX. LAS DEMAS QUE POR CUALQUIER CAUSA SE ENCUENTREN IMPEDIDAS PARA ELLO POR DISPOSICION DE LEY.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-###### ARTICULO 110.
+###### ARTÍCULO 55.
 
-CUALQUIER PROCEDIMIENTO DE ENAJENACION U ACTO QUE SE REALICE EN CONTRA DE LO DISPUESTO EN ESTE TITULO, SERA NULO DE PLENO DERECHO.
+Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia; o bebidas alcohólicas adulteradas, alteradas, contaminadas, o falsificadas, se le impondrá una multa de seiscientas a mil doscientas veces el valor diario de la unidad de medida y actualización vigente, sin perjuicio de las sanciones penales que correspondan.
 
-###### ARTICULO 111.
+###### ARTÍCULO 56.
 
-LOS SERVIDORES PUBLICOS QUE PARTICIPEN EN LA REALIZACION DE LOS PROCEDIMIENTOS DE ENAJENACION PREVISTOS EN ESTA LEY, SERAN RESPONSABLES POR LA INOBSERVANCIA DE LAS DISPOSICIONES ESTABLECIDAS EN LA MISMA, EN TERMINOS DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS, SIN PERJUICIO DE LA RESPONSABILIDAD PENAL QUE CORRESPONDA CONFORME A LAS LEYES.
+El servidor público que reciba, exija o solicite compensaciones, gratificaciones, prebendas o emolumentos por expedir licencias, o por agilizar los trámites para la expedición de las mismas; el que omita la celebración de la visita de verificación o de inspección, la simule, o declare datos falsos que favorezcan al interesado en el acta de inspección, será suspendido temporalmente del puesto que desempeñe; y sancionado en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
-###### ARTICULO 112.
+###### ARTÍCULO 57.
 
-LA VENTA DE BIENES ABANDONADOS O DECOMISADOS SE REALIZARA PREFERENTEMENTE A TRAVES DEL PROCEDIMIENTO DE LICITACION PUBLICA.
+Las demás infracciones a esta Ley cometidas por los titulares de las licencias, o sus encargados, o personal, serán calificadas por la autoridad estatal o municipal, según sea el caso, y éstas de acuerdo a la gravedad o reincidencia de la falta, podrán imponer indistintamente, una o varias de las siguientes sanciones:
 
-###### ARTICULO 113.
+I. Apercibimiento por escrito para que se subsane o corrija la falta, dentro del plazo que fije la autoridad, a partir de la fecha en que sea recibida la notificación;
 
-LOS PROCEDIMIENTOS DE SUBASTA Y DE REMATE SE PODRAN LLEVAR A CABO EN LOS SIGUIENTES CASOS:
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-I. CUANDO ASI LO ESTABLEZCAN OTRAS DISPOSICIONES LEGALES;
+II. Multa de veinte a doscientas veces el valor diario de la unidad de medida y actualización vigente a la fecha en que se cometa la infracción;
 
-II. CUANDO EL VALOR DE ENAJENACION DE LOS BIENES NO EXCEDA DE LOS MONTOS QUE SE ESTABLEZCAN PARA TAL EFECTO EN LA LEY;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2018)</small>
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
+III. Multa de doscientas a mil doscientas veces el valor diario de la unidad de medida y actualización vigente a la fecha en que se cometa la infracción;
 
-III. CUANDO A JUICIO DE LA DIRECCION DE BIENES, ESTOS PROCEDIMIENTOS ASEGUREN LAS MEJORES CONDICIONES AL ESTADO;
+IV. Arresto hasta por treinta y seis horas;
 
-IV. EN LOS DEMAS CASOS QUE SE PREVEAN EN LA LEY.
+V. Clausura parcial o total del establecimiento o de los refrigeradores, hieleras y, en general, de los muebles en que se contengan bebidas alcohólicas, hasta por treinta días, y
 
-###### ARTICULO 42.
+VI. Clausura definitiva de los establecimientos y cancelación de la licencia. Cuando se realice en ellos la comisión de alguno de los delitos contra la vida, la integridad corporal y la salud de las personas, y que se haya comprobado la culpabilidad; o negligencia por parte de los propietarios o encargados del establecimiento, en los términos de las leyes aplicables en la materia; y por las violaciones graves a este Ordenamiento.
 
-EN CASO DE QUE LOS BIENES SEAN DECOMISADOS O ABANDONADOS, SE DISPONDRA DE LOS RECURSOS A QUE SE REFIERE EL ARTICULO ANTERIOR, DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO 95 DE ESTA LEY.
+Para efectos de la aplicación de este artículo, se consideran violaciones graves, la infracción reiterada a las fracciones IV, V, VI y IX del artículo 32 de este Ordenamiento; así como incurrir en los casos señalados en las fracciones I, II y IV del artículo 49 de esta Ley.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+### CAPÍTULO XIV. De las Medidas de Seguridad
 
-###### ARTICULO 43.
+###### ARTÍCULO 58.
 
-RESPECTO DE LOS BIENES ASEGURADOS, LA DIRECCION DE BIENES Y EN SU CASO LOS DEPOSITARIOS, INTERVENTORES O ADMINISTRADORES, QUE HAYA DESIGNADO, TENDRAN ADEMAS DE LAS OBLIGACIONES PREVISTAS EN ESTA LEY, LAS QUE SEÑALE EL CODIGO CIVIL PARA EL ESTADO DE CHIAPAS, ASI COMO LAS QUE PARA EL EFECTO ESTABLEZCAN OTRAS DISPOSICIONES LEGALES.
+La autoridad competente podrá decretar las siguientes medidas de seguridad:
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+I. Suspensión temporal de la venta, distribución o suministro de bebidas alcohólicas, en los establecimientos, cuando se verifiquen los supuestos de infracción a que se refiere el párrafo último del artículo anterior;
 
-###### ARTICULO 44.
+II. El aseguramiento de bebidas alcohólicas en establecimientos que no cuenten con la licencia para la venta y distribución de las mismas, expedida por la autoridad competente;
 
-PARA LA DEBIDA CONSERVACION Y EN SU CASO BUEN FUNCIONAMIENTO DE LOS BIENES ASEGURADOS, INCLUYENDO EL DE LOS INMUEBLES DESTINADOS A ACTIVIDADES AGROPECUARIAS, EMPRESAS, NEGOCIACIONES Y ESTABLECIMIENTOS; LA DIRECCION DE BIENES TENDRA TODAS LAS FACULTADES Y OBLIGACIONES DE UN MANDATARIO PARA PLEITOS Y COBRANZAS Y ACTOS DE ADMINISTRACION; Y EN LOS CASOS PREVISTOS EN ESTA LEY EN ACTOS DE DOMINIO. LOS DEPOSITARIOS, INTERVENTORES Y ADMINISTRADORES QUE LA DIRECCION DE BIENES DESIGNE, TENDRAN SOLO LAS FACULTADES PARA PLEITOS Y COBRANZAS Y DE ADMINISTRACION QUE DICHA DIRECCION DE BIENES LES OTORGUE.
+III. El aseguramiento de bebidas alcohólicas, cuando exista la duda respecto de que el contenido de las mismas esté adulterado, alterado, contaminado, o falsificado, a efecto de que sean analizados por la autoridad sanitaria en el Estado;
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+IV. El aseguramiento de bebidas alcohólicas a granel o de aquellos envasados que durante su transporte en territorio del Estado, no se acompañe con la documentación que ampare su origen, destino y constancia expedida por la Secretaría Estatal de Salud, donde se especifique que el producto es apto para consumo humano. El Reglamento de esta Ley establecerá el procedimiento para llevar a cabo el aseguramiento de las bebidas a que se refiere esta fracción, y
 
-###### ARTICULO 45.
+V. La presentación de las denuncias penales, administrativas, sanitarias y fiscales que correspondan, ante las autoridades competentes.
 
-TRATANDOSE DE PRODUCTOS PERECEDEROS, SE FACULTA A LA DIRECCION DE BIENES, PARA DONAR ESOS BIENES A FAVOR DE INSTITUCIONES PUBLICAS O PRIVADAS DE BENEFICENCIA, PARA QUE SEAN UTILIZADOS Y EN CASO DE QUE POSTERIORMENTE PROCEDA LA DEVOLUCION, SE HARA UN PAGO POR SU EQUIVALENTE.
+Para efectos de esta Ley se entiende por bebidas alcohólicas a granel, las que se encuentren contenidas en recipientes cuya capacidad exceda a cinco mil mililitros; las envasadas son aquéllas que se encuenrftran (sic) contenidas en envases de hasta cinco mil mililitros
 
-###### ARTICULO 46.
+### CAPÍTULO XV. De los Recursos
 
-EL ASEGURAMIENTO DE BIENES NO IMPLICA QUE ESTOS ENTREN AL ERARIO DEL ESTADO. PARA SU ADMINISTRACION NO SERAN APLICABLES LAS DISPOSICIONES PROPIAS DE LOS BIENES DEL ESTADO.
+###### ARTÍCULO 59.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 47.
-
-LA DIRECCION DE BIENES, ASI COMO LOS DEPOSITARIOS, ADMINISTRADORES O INTERVENTORES DE BIENES ASEGURADOS, DARAN TODAS LAS FACILIDADES PARA QUE EL MINISTERIO PUBLICO QUE ASI LO REQUIERA, PRACTIQUE CON DICHOS BIENES TODAS LAS DILIGENCIAS NECESARIAS.
-
-###### ARTICULO 48.
-
-CUANDO EL MINISTERIO PUBLICO, RESUELVA EL NO EJERCICIO DE LA ACCION PENAL, LOS BIENES ASEGURADOS SERAN DEVUELTOS A QUIEN TENGA DERECHO A ELLOS CONFORME A LO DISPUESTO EN LA SECCION PRIMERA DEL CAPITULO PRIMERO, DEL TITULO CUARTO DE ESTA LEY.
-
-###### ARTICULO 49.
-
-EN CASO DE QUE SE EJERCITE LA ACCION PENAL, LOS BIENES ASEGURADOS SE PONDRAN A DISPOSICION DE LA AUTORIDAD JUDICIAL PARA LOS EFECTOS DEL PROCESO, SIN QUE ESTO IMPLIQUE NECESARIAMENTE LA ENTREGA MATERIAL DE LOS MISMOS.
-
-### CAPITULO II. DE LA LICITACION PUBLICA
-
-###### ARTICULO 114.
-
-LA ENAJENACION DE LOS BIENES ABANDONADOS Y DECOMISADOS, SE REALIZARA PREFERENTEMENTE A TRAVES DE LICITACION PUBLICA, MEDIANTE CONVOCATORIA EN LA QUE SE ESTABLECERA EN SU CASO EL COSTO Y LA FORMA DE PAGO DE LAS BASES, MISMO QUE SERA FIJADO EN ATENCION A LA RECUPERACION DE LAS EROGACIONES POR PUBLICACION DE LA CONVOCATORIA Y POR LOS DOCUMENTOS QUE AL EFECTO SE ENTREGUEN. LOS INTERESADOS PODRAN REVISAR LAS BASES, PREVIO PAGO DE LAS MISMAS.
-
-###### ARTICULO 115.
-
-LA PUBLICACION DE LA CONVOCATORIA SE HARA EN EL PERIODICO OFICIAL DEL ESTADO, EN 2 DIARIOS DE MAYOR CIRCULACION DEL ESTADO, UN DIARIO DE MAYOR CIRCULACION DONDE SE ENCUENTRE EL BIEN A LICITAR, O POR CUALQUIER OTRO MEDIO MECANICO, ELECTRONICO, OPTICO O DE CUALQUIER TECNOLOGIA QUE PERMITA LA EXPRESION DE LA OFERTA.
-
-###### ARTICULO 116.
-
-LA CONVOCATORIA CONTARA CON LOS SIGUIENTES REQUISITOS:
-
-I. EL NOMBRE, DENOMINACION O RAZON SOCIAL DE LA ENTIDAD TRANSFERENTE;
-
-II. LA DESCRIPCION, CONDICION FISICA Y UBICACION DE LOS BIENES, EN CASO DE BIENES MUEBLES ADICIONALMENTE SE SEÑALARAN SUS CARACTERISTICAS, CANTIDAD Y UNIDAD DE MEDIDA, Y TRATANDOSE DE BIENES INMUEBLES LA SUPERFICIE TOTAL, LINDEROS Y COLINDANCIAS,
-
-III. LA DESCRIPCION DE LOS DOCUMENTOS QUE AMPAREN LA PROPIEDAD, TITULARIDAD O POSIBILIDAD DE DISPONER DE LOS BIENES PARA SU ENAJENACION;
-
-IV. EL PRECIO BASE DEL BIEN ASEGURADO;
-
-V. LA FORMA EN QUE SE DEBERA REALIZAR EL PAGO POR EL ADQUIRENTE;
-
-VI. TRATANDOSE DE BIENES MUEBLES, EL PLAZO MAXIMO EN QUE DEBERAN SER RETIRADOS LOS BIENES POR EL ADQUIRENTE Y EN CASO DE BIENES INMUEBLES, LA FECHA EN QUE SE PODRA DISPONER DE LOS MISMOS;
-
-VII. EN LOS CASOS A QUE SE REFIERE LA FRACCION ANTERIOR, SE DEBERA INDICAR QUE DE NO PRESENTARSE EL INTERESADO PARA LOS EFECTOS CONDUCENTES EN LA FECHA ESTABLECIDA, SE LE GENERARAN GASTOS DE ADMINISTRACION, ALMACENAMIENTO Y CUSTODIA;
-
-VIII. LUGAR, FECHA, HORARIOS Y CONDICIONES REQUERIDAS PARA MOSTRAR FOTOGRAFIAS, CATALOGOS, PLANOS O PARA QUE LOS INTERESADOS TENGAN ACCESO A LOS SITIOS EN QUE SE ENCUENTREN LOS BIENES PARA SU INSPECCION FISICA CUANDO PROCEDA;
-
-IX. EL COSTO Y FORMA DE PAGO DE LAS BASES DE LICITACION; LUGAR, FECHA Y HORA EN QUE LOS INTERESADOS PODRAN OBTENER LAS MISMAS;
-
-X. FECHA LIMITE PARA QUE LOS INTERESADOS SE INSCRIBAN EN LA LICITACION;
-
-XI. FORMA Y MONTO DE LA GARANTIA DE SERIEDAD DE OFERTAS Y DE CUMPLIMIENTO DE LAS OBLIGACIONES QUE SE DERIVEN DE LOS CONTRATOS DE COMPRA VENTA QUE EN SU CASO DEBERAN OTORGAR LOS INTERESADOS;
-
-XII. LA EXISTENCIA, EN SU CASO DE GRAVAMENES, LIMITACIONES DE DOMINIO, O CUALQUIER OTRA CARGA QUE RECAIGA SOBRE LOS BIENES,
-
-XIII. LA FECHA, HORA Y LUGAR, O EN SU CASO PLAZO PARA LA CELEBRACION DEL ACTO DE FALLO;
-
-XIV. CRITERIOS PARA LA EVALUACION DE LAS OFERTAS DE COMPRA Y PARA LA ADJUDICACION,
-
-XV. LA INDICACION DE QUE SE DEBERA SUSCRIBIR CONVENIO DE CONFIDENCIALIDAD CUANDO SE TRATE DE BIENES QUE POR SU NATURALEZA IMPLIQUEN EL MANEJO DE INFORMACION CONFIDENCIAL O PRIVILEGIADA;
-
-XVI. LA INDICACION DE QUE NINGUNA DE LAS CONDICIONES ESTABLECIDAS EN LAS BASES DE LICITACION, ASI COMO LAS PROPOSICIONES PRESTADAS POR LOS LICITANTES, PODRAN SER NEGOCIADAS;
-
-XVII. LA INDICACION DE QUE NO PODRAN PARTICIPAR LAS PERSONAS QUE SE ENCUENTREN EN LOS SUPUESTOS PREVISTOS EN EL ARTICULO 109, DE ESTA LEY;
-
-XVIII. LAS PENAS CONVENCIONALES QUE SE APLICARAN POR MORA O INCUMPLIMIENTO EN EL PAGO; Y
-
-XIX. LAS SANCIONES QUE PROCEDERAN EN CASO DE INCUMPLIMIENTO POR PARTE DEL OFERENTE.
-
-###### ARTICULO 117.
-
-SE CONSIDERARA DESIERTA LA LICITACION CUANDO SE CUMPLA CUALQUIERA DE LOS SIGUIENTES SUPUESTOS:
-
-I. NINGUNA PERSONA ADQUIERA LAS BASES;
-
-II. CUANDO NADIE SE REGISTRE PARA PARTICIPAR EN EL ACTO DE APERTURA DE OFERTAS; Y
-
-III. QUE LAS OFERTAS QUE SE PRESENTEN NO SEAN ACEPTABLES.
-
-###### ARTICULO 118.
-
-SE CONSIDERARA QUE LAS OFERTAS DE COMPRA NO SON ACEPTABLES, CUANDO NO CUBRAN EL PRECIO BASE DE VENTA DEL BIEN O NO CUMPLAN CON LA TOTALIDAD DE LOS REQUISITOS ESTABLECIDOS EN LA CONVOCATORIA Y EN LAS BASES.
-
-###### ARTICULO 119.
-
-LAS BASES ESTARAN A DISPOSICION DE LOS INTERESADOS A PARTIR DE LA FECHA DE PUBLICACION DE LA CONVOCATORIA Y HASTA CINCO DIAS NATURALES PREVIOS AL ACTO DE PRESENTACION DE OFERTAS Y CONTENDRAN COMO MINIMO LO SIGUIENTE:
-
-I. LA REFERENCIA EXACTA DE LA CONVOCATORIA A LA CUAL CORRESPONDEN LAS MISMAS;
-
-II. LOS ELEMENTOS A QUE SE REFIERE EL ARTICULO 116 DE ESTA LEY;
-
-III. LOS DOCUMENTOS POR LOS CUALES EL INTERESADO ACREDITA SU PERSONALIDAD JURIDICA;
-
-IV. INSTRUCCIONES PARA ELABORAR Y ENTREGAR O PRESENTAR OFERTAS HACIENDO MENCION DE QUE DICHAS OFERTAS DEBERAN SER EN FIRME;
-
-V. LUGAR, FECHA Y HORA EN QUE LOS INTERESADOS PODRAN OBTENER LAS BASES DE LICITACION, Y EN SU CASO, EL COSTO Y FORMA DE PAGO DE LAS MISMAS;
-
-VI. LOS CRITERIOS CLAROS Y DETALLADOS PARA LA ADJUDICACION DEL BIEN;
-
-VII. FORMA Y TERMINOS PARA LA FORMALIZACION DE LA OPERACION Y ENTREGA FISICA DEL BIEN. EN EL CASO DE INMUEBLES, LOS GASTOS INCLUYENDO LOS DE ESCRITURACION, SERAN POR CUENTA Y RESPONSABILIDAD ABSOLUTA DEL ADQUIRENTE. TRATANDOSE DE CONTRIBUCIONES, ESTAS SE ENTERARAN POR CADA UNA DE LAS PARTES QUE LAS CAUSEN;
-
-VIII. EL SEÑALAMIENTO DE LAS CAUSAS DE DESCALIFICACION DE LA LICITACION;
-
-IX. LA INDICACION DE QUE NINGUNA DE LAS CONDICIONES DE LAS BASES DE LICITACION, ASI COMO LAS PROPUESTAS PRESENTADAS POR LOS LICITANTES, PODRAN SER NEGOCIADAS;
-
-X. LA INDICACION DE QUE NO PODRAN PARTICIPAR LAS PERSONAS QUE SE ENCUENTREN EN LOS SUPUESTOS PREVISTOS EN EL ARTICULO 109 DE ESTA LEY;
-
-XI. LA INDICACION DE QUE EL FALLO SE DARA A CONOCER POR LOS MISMOS MEDIOS EN QUE SE HUBIERA HECHO LA CONVOCATORIA O EN SESION PUBLICA SEGUN SE DETERMINE; Y
-
-XII. CUALQUIER OTRA QUE DE ACUERDO A LA NATURALEZA DE LOS BIENES O SU CONDICION DE VENTA SEÑALE EL CONSEJO.
-
-###### ARTICULO 120.
-
-EL PLAZO PARA LA PRESENTACION DE LAS OFERTAS, NO PODRA SER MAYOR A 10 DIAS HABILES CONTADOS A PARTIR DE LA FECHA DE PUBLICACION DE LA CONVOCATORIA DE LA LICITACION, SALVO QUE POR LA NATURALEZA DE LOS BIENES, EL CONSEJO CONSIDERE CONVENIENTE ESTABLECER UN PLAZO MAYOR.
-
-###### ARTICULO 121.
-
-LOS ACTOS DE PRESENTACION Y DE APERTURAS DE OFERTAS, SE LLEVARAN A CABO CONFORME A LO SIGUIENTE:
-
-I. LOS LICITANTES ENTREGARAN SUS OFERTAS EN SOBRE CERRADO, EN FORMA INVIOLABLE O POR LOS MEDIOS ELECTRONICOS, OPTICOS O DE CUALQUIER OTRA TECNOLOGIA QUE GARANTICEN LA CONFIDENCIALIDAD DE LAS OFERTAS HASTA EL ACTO DE APERTURA;
-
-II. LA APERTURA DE LAS OFERTAS SE REALIZARAN A MAS TARDAR, EL SEGUNDO DIA HABIL SIGUIENTE A AQUEL EN QUE VENZA EL PLAZO DE PRESENTACION DE OFERTAS;
-
-III. LA CONVOCANTE EN UN PLAZO NO MAYOR DE 3 DIAS HABILES, CONTADOS A PARTIR DEL ACTO DE APERTURA DE OFERTAS, PROCEDERA A LA EVALUACION DE LAS MISMAS, CON PLENO APEGO A LO DISPUESTO EN EL ARTICULO 119;
-
-IV. CONCLUIDO EL ANALISIS DE LAS OFERTAS, SE PROCEDERA DE INMEDIATO A EMITIR EL FALLO;
-
-V. EL FALLO SE DARA A CONOCER POR EL MISMO MEDIO EN QUE SE HUBIERA HECHO LA CONVOCATORIA O EN SESION PUBLICA, SEGUN SE DETERMINE EN LAS BASES, HACIENDO DEL CONOCIMIENTO PUBLICO EL NOMBRE DEL GANADOR Y EL MONTO DE LA OFERTA GANADORA. EN SU CASO SE DEBERA INFORMAR A LA DIRECCION ELECTRONICA DE LAS PERSONAS INTERESADAS POR CORREO CERTIFICADO CON ACUSE DE RECIBO U OTROS MEDIOS QUE DETERMINE PARA TAL EFECTO EL CONSEJO, QUE SUS PROPUESTAS FUERON DESECHADAS Y LAS CAUSAS QUE MOTIVARON TAL DETERMINACION;
-
-VI. SE LEVANTARA ACTA EN LA QUE SE DEJARA CONSTANCIA DE LA PARTICIPACION DE LOS LICITANTES, DEL MONTO DE OFERTAS DE COMPRA, DE LAS OFERTAS ACEPTADAS O DESECHADAS, DE LAS RAZONES POR LAS QUE EN SU CASO FUERON DESECHADAS, DEL PRECIO BASE DE VENTA, ASI COMO DE AQUELLOS ASPECTOS QUE EN SU CASO SEAN RELEVANTES Y DIGNOS DE CONSIGNAR EN DICHA ACTA.
-
-###### ARTICULO 122.
-
-EN CASO DE EMPATE EN EL PROCEDIMIENTO DE LICITACION PUBLICA, EL BIEN SE ADJUDICARA AL LICITANTE QUE PRIMERO HAYA PRESENTADO SU OFERTA.
-
-###### ARTICULO 123.
-
-EL ADJUDICATARIO PERDERA A FAVOR DEL ESTADO, LA GARANTIA QUE HUBIERE OTORGADO SI POR CAUSAS IMPUTABLES A EL, LA OPERACION NO SE FORMALIZA DENTRO DEL PLAZO DE 5 DIAS HABILES CONTADOS A PARTIR DEL DIA EN QUE SE DE A CONOCER LA ADJUDICACION.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 124.
-
-PARA EL CASO DE QUE SE ACTUALICE EL SUPUESTO A QUE SE REFIERE EL ARTICULO ANTERIOR, LA DIRECCION DE BIENES ESTARA EN POSIBILIDAD DE ADJUDICAR EL BIEN AL PARTICIPANTE QUE HAYA PRESENTADO LA SEGUNDA OFERTA DE COMPRA MAS ALTA QUE NO HUBIERE SIDO DESCALIFICADA, Y ASI SUCESIVAMENTE, EN CASO DE QUE NO SE ACEPTE LA ADJUDICACION, SIEMPRE QUE SU POSTURA SEA MAYOR O IGUAL AL PRECIO BASE DE VENTA FIJADO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 125.
-
-EN EL SUPUESTO DE QUE LA FALTA DE FORMALIDAD DE LA ADJUDICACION SEA IMPUTABLE A LA DIRECCION DE BIENES, EL LICITANTE GANADOR PODRA SOLICITAR QUE LE SEAN REEMBOLSADOS LOS GASTOS NO RECUPERABLES EN QUE HUBIERE INCURRIDO, DERIVADOS DEL PROCEDIMIENTO DE LICITACION PUBLICA, SIEMPRE QUE ESTOS SEAN RAZONABLES, ESTEN DEBIDAMENTE COMPROBADOS Y SE RELACIONEN DIRECTAMENTE CON LA LICITACION DE QUE SE TRATE.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 126.
-
-EN CASO DE ATRASO DE LA DIRECCION DE BIENES, EN LA FORMALIZACION DE LA ADJUDICACION DEL BIEN LICITADO, SE PROGRAMARA EN IGUAL PLAZO, LA FECHA DE CUMPLIMIENTO DE LAS OBLIGACIONES ASUMIDAS POR AMBAS PARTES.
-
-###### ARTICULO 50.
-
-QUEDARAN A DISPOSICION DE LA AUTORIDAD JUDICIAL, PARA LOS EFECTOS DEL PROCESO PENAL, LOS BIENES ASEGURADOS DURANTE EL MISMO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 51.
-
-SI EL AGENTE DEL MINISTERIO PUBLICO ORDENA LA RESERVA DE LA AVERIGUACION PREVIA Y NO EJERCITA LA ACCION PENAL O LEVANTA EL ASEGURAMIENTO, DEBE NOTIFICARLO TANTO AL INTERESADO COMO A LA DIRECCION DE BIENES.
-
-#### SECCION SEGUNDA. DE LOS BIENES MUEBLES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 52.
-
-LOS BIENES MUEBLES ASEGURADOS SERAN CUSTODIADOS Y CONSERVADOS EN LOS LUGARES QUE DETERMINE LA DIRECCION DE BIENES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 53.
-
-LA MONEDA NACIONAL O EXTRANJERA QUE SE ASEGURE DEBERA DEPOSITARSE EN LAS CUENTAS QUE DISPONGA LA PROCURADURIA, A DISPOSICION DE LA DIRECCION DE BIENES, PARA QUE RESPONDA DE ELLA ANTE LA AUTORIDAD QUE HAYA ORDENADO EL ASEGURAMIENTO.
-
-###### ARTICULO 54.
-
-LOS DEPOSITOS A QUE SE REFIERE EL ARTICULO ANTERIOR, DEVENGARAN INTERESES A LA TASA QUE CUBRAN LOS BANCOS CORRESPONDIENTES, POR LOS DEPOSITOS QUE RECIBA.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 55.
-
-EN CASO DE ASEGURAMIENTO DE BILLETES O PIEZAS METALICAS QUE POR TENER MARCAS, SEÑAS U OTRAS CARACTERISTICAS SEA NECESARIO CONSERVARLOS PARA FINES DE LA AVERIGUACION PREVIA, EL MINISTERIO PUBLICO ASI LO INDICARA A LA DIRECCION DE BIENES, PARA QUE LOS GUARDE Y CONSERVE EN EL ESTADO EN QUE LOS RECIBA. EN ESTOS CASOS, LOS DEPOSITOS NO DEVENGARAN INTERESES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 56.
-
-EL MINISTERIO PUBLICO QUE ASEGURE DEPOSITOS, TITULOS DE CREDITO Y EN GENERAL CUALESQUIERA BIENES O DERECHOS RELATIVOS A OPERACIONES, QUE LAS INSTITUCIONES FINANCIERAS ESTABLECIDAS EN EL PAIS CELEBREN CON SUS CLIENTES, DARA AVISO INMEDIATO A LA DIRECCION DE BIENES Y A LAS AUTORIDADES COMPETENTES, QUIENES TOMARAN LAS MEDIDAS NECESARIAS PARA EVITAR QUE LOS TITULARES RESPECTIVOS REALICEN CUALQUIER ACTO CONTRARIO AL ASEGURAMIENTO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 57.
-
-LAS ESPECIES DE FLORA Y FAUNA DE RESERVA ECOLOGICA QUE SE ASEGUREN, EN LOS PROCESOS NO RESERVADOS POR LA FEDERACION DE ACUERDO A LO PREVISTO EN EL ARTICULO 457, DEL CODIGO PENAL PARA EL ESTADO DE CHIAPAS; SERAN DOTADAS DE LOS CUIDADOS NECESARIOS POR LA DIRECCION DE BIENES Y EN ALGUNOS CASOS DEPOSITADAS EN ZOOLOGICOS O EN INSTITUCIONES ANALOGAS, CONSIDERANDO LA OPINION DE LA SECRETARIA DE MEDIO AMBIENTE Y VIVIENDA.
-
-### CAPITULO III. DE LA SUBASTA
-
-###### ARTICULO 127.
-
-EN EL PROCESO DE ENAJENACION, SE CONTEMPLA LA SUBASTA PARA LA VENTA DE LOS BIENES, ESTABLECIENDO EL DESARROLLO DE LA JUNTA DE POSTORES EN LA QUE SE ADJUDICARAN LOS BIENES SUBASTADOS A LOS MEJORES OFERENTES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 128.
-
-LA DIRECCION DE BIENES, CON BASE EN LO DISPUESTO EN EL ARTICULO 116, DE ESTA LEY, LLEVARA A CABO EL PROCEDIMIENTO DE SUBASTA PUBLICA, EL CUAL DEBERA EFECTUARSE DENTRO DE LOS 10 DIAS HABILES SIGUIENTES A LA PUBLICACION DE LA CONVOCATORIA.
-
-###### ARTICULO 129.
-
-LA JUNTA DE POSTORES EN LA QUE SE ADJUDICARAN LOS BIENES SUBASTADOS A LOS MEJORES OFERENTES, SE DESARROLLARA EN LOS SIGUIENTES TERMINOS:
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-I. SE NOMBRARA A UN REPRESENTANTE DE LA DIRECCION DE BIENES, PARA MOSTRAR FISICAMENTE EL BIEN AFECTO A SUBASTA, SIEMPRE QUE LA NATURALEZA DEL MISMO LO PERMITA;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-II. LOS INTERESADOS PODRAN MEJORAR SUS OFERTAS DURANTE LA CELEBRACION DE LA SUBASTA, PARA LO CUAL DEBERAN MANIFESTARLO EN FORMA ESCRITA, A TRAVES DE LOS FORMATOS QUE PARA TAL EFECTO PROPORCIONE EN EL ACTO DE SUBASTA LA DIRECCION DE BIENES, EN PRESENCIA DEL RESTO DE LOS PARTICIPANTES Y DEL ENCARGADO DE LA SUBASTA, QUIEN TENDRA LA OBLIGACION DE ASENTAR TALES SITUACIONES AL IGUAL QUE TODO LO QUE OCURRA EN LA SUBASTA, EN EL ACTO QUE AL EFECTO LLEVE A CABO;
-
-III. LOS OFERENTES CONTARAN CON INTERVALOS DE TIEMPO QUE SE DARAN A CONOCER EN FORMA PREVIA AL INICIO DEL ACTO, LOS QUE SERVIRAN PARA IR MEJORANDO LA ULTIMA POSTURA MANIFESTADA.
-
-###### ARTICULO 130.
-
-EL BIEN SE ADJUDICARA A LA MEJOR OFERTA Y CONDICIONES DE PRECIO Y OPORTUNIDAD.
-
-###### ARTICULO 131.
-
-EN LAS BASES DE LA SUBASTA SE ESTABLECERAN LAS INSTRUCCIONES PARA PRESENTAR OFERTAS DE COMPRA.
-
-###### ARTICULO 58.
-
-TRATANDOSE DE DELITOS CULPOSOS OCASIONADOS CON MOTIVO DEL TRANSITO DE VEHICULOS, ESTOS SE ENTREGARAN EN DEPOSITO AL CONDUCTOR O A QUIEN SE LEGITIME COMO SU PROPIETARIO O POSEEDOR; SIEMPRE QUE SE OTORGUE FIANZA BASTANTE QUE GARANTICE LA REPARACION DEL DAÑO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-### CAPITULO IV. DEL REMATE
-
-###### ARTICULO 132.
-
-EL PROCEDIMIENTO DE REMATE SE REALIZARA DE ACUERDO A LO DISPUESTO POR EL ARTICULO 116 DE ESTA LEY.
-
-###### ARTICULO 133.
-
-TODO REMATE DE BIENES SERA PUBLICO Y DEBERA EFECTUARSE DENTRO DE LOS 10 DIAS HABILES SIGUIENTES A SU CONVOCATORIA.
-
-###### ARTICULO 134.
-
-PARA QUE SE LLEVE A CABO EL REMATE DE BIENES SE DEBERA ANUNCIAR SU VENTA POR 2 VECES CON 3 DIAS HABILES DE DIFERENCIA. LOS AVISOS SE PUBLICARAN EN EL PERIODICO OFICIAL DEL ESTADO, EN UN DIARIO DE MAYOR CIRCULACION DEL ESTADO Y EN UN DIARIO DE MAYOR CIRCULACION DEL LUGAR DONDE SE LLEVE A CABO EL REMATE, O A TRAVES DE MEDIOS ELECTRONICOS, OPTICOS O DE CUALQUIER OTRA TECNOLOGIA.
-
-###### ARTICULO 135.
-
-EL ACTO DE REMATE Y DE APERTURA DE OFERTAS SE LLEVARA A CABO CONFORME A LO SIGUIENTE:
-
-I. POSTURA LEGAL, ES LA QUE CUBRE AL MENOS LAS DOS TERCERAS PARTES DEL PRECIO BASE DE VENTA DEL BIEN;
-
-II. EL NOMBRE, CAPACIDAD LEGAL Y DOMICILIO DEL POSTOR; Y
-
-III. LA CANTIDAD QUE SE OFREZCA POR LOS BIENES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 136.
-
-EL OFERENTE AL FORMULAR SU POSTURA, DEBERA ENTREGAR A LA DIRECCION DE BIENES EN EL ACTO DE REMATE, EL DIEZ POR CIENTO DE ESTA, EN CHEQUE CERTIFICADO O EFECTIVO. LA DIRECCION DE BIENES, RETENDRA EL IMPORTE REFERIDO HASTA QUE SE DECLARE FINCADO EL REMATE Y DESPUES DE ESA FECHA LO REGRESARA A LOS OFERENTES QUE NO HAYAN RESULTADO GANADORES, EL DIEZ POR CIENTO DE LA POSTURA GANADORA SE APLICARA AL PAGO DEL BIEN ADJUDICADO.
-
-###### ARTICULO 137.
-
-SI EN LA PRIMERA ALMONEDA NO HUBIERA POSTURA LEGAL, SE CITARA A OTRA, PARA LO CUAL DENTRO DE LOS 5 DIAS HABILES SIGUIENTES SE PUBLICARAN LOS AVISOS CORRESPONDIENTES POR UNA SOLA VEZ, DE MANERA QUE ENTRE LA PUBLICACION DEL AVISO Y LA FECHA DEL REMATE, MEDIE UN TERMINO QUE NO SEA MAYOR DE 3 DIAS HABILES. EN LA ALMONEDA SE TENDRA COMO PRECIO INICIAL, EL PRECIO BASE DE VENTA DEL BIEN CON DEDUCCION DE UN CINCO POR CIENTO.
-
-### CAPITULO V. DE LA ADJUDICACION DIRECTA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 138.
-
-LA ADJUDICACION DIRECTA SE REALIZARA PREVIO DICTAMEN DE LA DIRECCION DE BIENES, EL CUAL SE EMITIRA DE ACUERDO CON LO QUE AL RESPECTO DISPONGA ESTA LEY O DETERMINE EL CONSEJO, DEBERA CONSTAR POR ESCRITO EN LOS SIGUIENTES CASOS:
-
-I. CUANDO SE TRATE DE BIENES DE FACIL DESCOMPOSICION O DETERIORO O DE MATERIALES INFLAMABLES O NO FUNGIBLES, SIEMPRE QUE EN LA LOCALIDAD NO SE PUEDAN GUARDAR O DEPOSITAR EN LUGARES APROPIADOS PARA SU CONSERVACION;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-II. SE TRATE DE BIENES CUYO MANTENIMIENTO O CONSERVACION IMPLIQUE UN GASTO ADICIONAL AL PRESUPUESTO DE LA AUTORIDAD;
-
-III. SE TRATE DE BIENES QUE HABIENDO SALIDO A LICITACION PUBLICA, SUBASTA O REMATE EN PRIMERA ALMONEDA NO SE HUBIERAN PRESENTADO POSTORES.
-
-## TITULO SEPTIMO. DE LA DESTRUCCION DE BIENES
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 139.
-
-EN LOS CASOS DE LOS BIENES SIN VALOR ECONOMICO O CUYO VALOR SEA IGUAL O MENOR A LOS GASTOS DE ENVIO, PUBLICACION DE EDICTOS, ALMACENAJE Y TRANSPORTACION. LA DIRECCION DE BIENES, PODRA LLEVAR ACABO LA DESTRUCCION DE LOS BIENES SIN VALOR ECONOMICO, CADUCOS O INCOSTEABLES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 140.
-
-LA DIRECCION DE BIENES, PROCEDERA A LA DESTRUCCION DE DOCUMENTOS PUBLICOS O PRIVADOS, COMO SON LICENCIAS PARA CONDUCIR, PASAPORTES, ACTAS DEL REGISTRO CIVIL, CREDENCIALES O CUALQUIER OTRO DOCUMENTO, QUE ESTABLEZCAN LAS DISPOSICIONES QUE REGULEN LOS BIENES DE QUE SE TRATE.
-
-###### ARTICULO 141.
-
-EN LOS CASOS DE PRODUCTOS, OBJETOS O SUBSTANCIAS QUE SE ENCUENTREN EN EVIDENTE ESTADO DE DESCOMPOSICION, ADULTERACION O CONTAMINACION, QUE NO LOS HAGAN APTOS PARA SER CONSUMIDOS O QUE PUEDAN RESULTAR NOCIVOS PARA LA SALUD DE LAS PERSONAS, DEBERA DARSE INTERVENCION INMEDIATA A LAS AUTORIDADES SANITARIAS PARA QUE DENTRO DEL AMBITO DE SUS ATRIBUCIONES AUTORICEN LA DESTRUCCION DE DICHOS BIENES.
-
-###### ARTICULO 142.
-
-EN TODOS LOS CASOS DE DESTRUCCION DE BIENES, SE LEVANTARA ACTA CIRCUNSTANCIADA QUE FIRMARAN LOS QUE INTERVENGAN EN EL ACTO, DEBIENDOSE OBSERVAR LAS DISPOSICIONES DE SEGURIDAD, SALUD, PROTECCION AL MEDIO AMBIENTE Y DEMAS QUE RESULTEN APLICABLES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 143.
-
-EN TODAS LAS DESTRUCCIONES, LA DIRECCION DE BIENES DEBERA SELECCIONAR EL METODO O LA FORMA DE DESTRUCCION MENOS CONTAMINANTE, EL METODO DE DESTRUCCION QUE SE SELECCIONE NO DEBERA OPONERSE A LAS NORMAS OFICIALES EXPEDIDAS POR LOS GOBIERNOS FEDERAL, ESTATAL O MUNICIPAL.
-
-T R A N S I T O R I O S
-
-###### ARTICULO PRIMERO.
-
-LA PRESENTE LEY INICIARA SU VIGENCIA A PARTIR DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
-
-###### ARTICULO SEGUNDO.
-
-EL CONSEJO TECNICO PARA LA SUPERVISON (SIC) Y CONTROL DE LA ADMINISTRACION DE BIENES ASEGURADOS, ABANDONADOS Y DECOMISADOS, DEBERA CONSTITUIRSE DENTRO DE LOS CIENTO OCHENTA DIAS SIGUIENTES A LA ENTRADA EN VIGOR DE ESTA LEY.
-
-EL EJECUTIVO DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
-
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN LA CIUDAD DE TUXTLA GUTIERREZ, A LOS 17 DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL CUATRO. D. P. C. JORGE ANTONIO MORALES MESSNER.- D. S. C. PEDRO CHULIN JIMENEZ.- RUBRICAS.
-
-DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS; A LOS VEINTICINCO DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL CUATRO.
-
-PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- RUBEN F. VELAZQUEZ LOPEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 21 DE OCTUBRE DE 2009.
-
-Artículo Primero.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-###### ARTICULO 59.
-
-LOS BIENES SEMOVIENTES, FUNGIBLES, Y LOS QUE SU MANTENIMIENTO IMPLIQUE UN GASTO ADICIONAL AL PRESUPUESTO DE DICHA AUTORIDAD, ASI COMO PERECEDEROS, PREVIO DICTAMEN QUE ASI LO DETERMINE LA DIRECCION DE BIENES, SERAN ENAJENADOS POR ESTA DE ACUERDO CON LOS PROCEDIMIENTOS PREVISTOS EN ESTA LEY Y DEMAS DISPOSICIONES APLICABLES.
-
-###### ARTICULO 60.
-
-LOS BIENES PERECEDEROS PODRAN SER DONADOS A PERSONAS O INSTITUCIONES QUE REALICEN ACTIVIDADES DE BENEFICENCIA, DE INVESTIGACION CIENTIFICA U OTRAS ANALOGAS, QUE LOS REQUIERAN PARA EL DESARROLLO DE SUS ACTIVIDADES.
-
-###### ARTICULO 61.
-
-EN LOS SUPUESTOS A QUE SE REFIEREN LOS DOS ARTICULOS ANTERIORES, SERA APLICABLE LO DISPUESTO EN EL ARTICULO 84 DE ESTA LEY.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 62.
-
-EL PRODUCTO QUE SE OBTENGA DE LA ENAJENACION DE LOS BIENES A QUE SE REFIEREN LOS ARTICULOS 59 Y 60, DE ESTA LEY SE INTEGRARA AL FONDO PARA EL DESARROLLO Y MEJORA DE LA PROCURACION GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS, DE CONFORMIDAD AL ARTICULO 51, DEL CODIGO PENAL DEL ESTADO, Y QUE TAL RECURSO, QUEDEN A DISPOSICION DE LA DIRECCION DE BIENES, EN EL MOMENTO DE QUE SEA REQUERIDO POR ALGUNA AUTORIDAD COMPETENTE EN EL ASUNTO.
-
-#### SECCION TERCERA. DE LOS BIENES INMUEBLES
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 63.
-
-LOS INMUEBLES QUE SE ASEGUREN, PODRAN QUEDAR DEPOSITADOS CON ALGUNO DE SUS OCUPANTES, POR UN ADMINISTRADOR O A QUIEN DESIGNE LA DIRECCION DE BIENES, SIN DEJAR DE CUMPLIR CON LO DISPUESTO EN EL ARTICULO 75, DE ESTA LEY. LOS ADMINISTRADORES DESIGNADOS NO PODRAN ENAJENAR O GRABAR LOS INMUEBLES A SU CARGO. EN TODO CASO, SE RESPETARAN LOS DERECHOS LEGITIMOS DE TERCEROS.
-
-###### ARTICULO 64.
-
-LOS INMUEBLES ASEGURADOS SUSCEPTIBLES DE DESTINARSE A ACTIVIDADES AGROPECUARIAS, SERAN ADMINISTRADOS A FIN DE MANTENERLOS PRODUCTIVOS.
-
-#### SECCION CUARTA. DE LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 65.
-
-LA DIRECCION DE BIENES, NOMBRARA UN ADMINISTRADOR PARA LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS QUE SE ASEGUREN.
-
-###### ARTICULO 66.
-
-EL ASEGURAMIENTO NO SERA CAUSA PARA EL CIERRE O SUSPENSION DE ACTIVIDADES DE EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS CON ACTIVIDADES LICITAS.
-
-> <small>(F. DE E., P.O. 3 DE MARZO DE 2004)</small>
-
-###### ARTICULO 67.
-
-EL ADMINISTRADOR DE LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS QUE SE ENCUENTREN ASEGURADOS, TENDRA LAS FACULTADES NECESARIAS EN TERMINO DE LAS DISPOSICIONES APLICABLES, PARA MANTENERLOS EN OPERACION Y BUENA MARCHA DEL NEGOCIO, PERO NO PODRA ENAJENAR NI GRAVAR LOS BIENES QUE CONSTITUYAN PARTE DEL ACTIVO FIJO DE LA EMPRESA, NEGOCIACION O ESTABLECIMIENTO.
-
-###### ARTICULO 68.
-
-EL CONSEJO PODRA AUTORIZAR AL ADMINISTRADOR QUE PROCEDA A LA SUSPENSION O CIERRE DEFINITIVO DE LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS, CUANDO LAS ACTIVIDADES DE ESTOS RESULTEN INCOSTEABLES.
-
-###### ARTICULO 69.
-
-TRATANDOSE DE EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS EN QUE SE REALICEN ACTIVIDADES ILICITAS, EL ADMINISTRADOR PROCEDERA A SU REGULARIZACION, SI ELLO NO FUERE POSIBLE PROCEDERA LA SUSPENSION, CANCELACION Y LIQUIDACION DE DICHAS ACTIVIDADES. EN CUYO CASO TENDRA, UNICAMENTE PARA TALES EFECTOS LAS FACULTADES NECESARIAS PARA LA ENAJENACION DE ACTIVOS FIJOS, LA QUE SE REALIZARA DE ACUERDO A LOS PROCEDIMIENTOS PREVISTOS EN ESTA LEY Y DEMAS DISPOSICIONES APLICABLES.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 70.
-
-EL ADMINISTRADOR TENDRA INDEPENDENCIA RESPECTO AL PROPIETARIO, ORGANOS DE ADMINISTRACION, ASAMBLEAS DE ACCIONISTAS, DE SOCIOS O DE PARTICIPES, ASI COMO DE CUALQUIER OTRO ORGANO DE LAS EMPRESAS, NEGOCIACIONES O ESTABLECIMIENTOS ASEGURADOS. RESPONDERA DE SU ACTUACION UNICAMENTE ANTE LA DIRECCION DE BIENES Y, EN EL CASO DE QUE INCURRA EN RESPONSABILIDAD PENAL, SE ESTARA A LAS DISPOSICIONES APLICABLES.
-
-#### SECCION QUINTA. DEL USO DE LOS BIENES ASEGURADOS
-
-###### ARTICULO 71.
-
-EL CONSEJO PODRA AUTORIZAR A ADMINISTRADORES O INTERVENTORES DE BIENES ASEGURADOS, PARA QUE UTILICEN LOS BIENES QUE HAYAN RECIBIDO, LO QUE EN SU CASO HARAN DE CONFORMIDAD CON LOS LINEAMIENTOS QUE EXPIDA DICHO CONSEJO.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 72.
-
-LA DIRECCION DE BIENES, OTORGARA A LA PROCURADURIA EN DEPOSITO, LOS BIENES ASEGURADOS QUE EL PROCURADOR O EL SERVIDOR PUBLICO EN QUIEN DELEGUE ESTA FUNCION LE SOLICITEN POR ESCRITO, Y AUTORICE A LAS DIFERENTES AREAS DEL USO DE LOS BIENES PARA EL DESARROLLO DE SUS FUNCIONES.
-
-###### ARTICULO 73.
-
-CUANDO PROCEDA LA DEVOLUCION DE BIENES QUE SE HAYAN UTILIZADO CONFORME A LOS ARTICULOS ANTERIORES DE ESTE CAPITULO, EL DEPOSITARIO, ADMINISTRADOR O INTERVENTORES CUBRIRAN LOS DAÑOS OCASIONADOS POR SU USO.
-
-###### ARTICULO 74.
-
-EL SEGURO CORRESPONDIENTE AL USO DE BIENES DEBERA CUBRIR LA PERDIDA Y LOS DAÑOS QUE SE ORIGINEN POR EL USO DE LOS MISMOS.
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 75.
-
-LOS DEPOSITARIOS, ADMINISTRADORES O INTERVENTORES RENDIRAN A LA DIRECCION DE BIENES, UN INFORME MENSUAL PORMENORIZADO SOBRE LA UTILIZACION DE BIENES ASEGURADOS.
-
-## TITULO CUARTO. DE LA DETERMINACION SOBRE BIENES ASEGURADOS
+El particular que se considere afectado por una resolución emitida por la autoridad correspondiente, podrá impugnarla mediante los recursos que establece la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; o bien optar por el juicio de nulidad en términos de la Ley de Justicia Administrativa del Estado.
 
 ## TRANSITORIOS
 
@@ -1392,3 +912,19 @@ P.O. 26 DE MAYO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE JUNIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0335.- SE REFORMAN LOS ARTÍCULO 17 EN SU PÁRRAFO DÉCIMO SEGUNDO, 18 Y 22 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
