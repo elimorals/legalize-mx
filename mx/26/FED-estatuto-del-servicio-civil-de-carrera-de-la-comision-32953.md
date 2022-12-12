@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-civil-de-carrera-de-la-comision-32953"
 country: "mx"
 rank: "estatuto"
 publication_date: "2003-07-22"
-last_updated: "2003-07-22"
+last_updated: "2022-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32953&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-07-08"
 ---
 # ESTATUTO DEL SERVICIO CIVIL DE CARRERA DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO CIVIL DE CARRERA DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL D.O.F. DE 12 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO CIVIL DE CARRERA DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 julio de 2003.
 
@@ -628,3 +630,27 @@ Quinto. Los Titulares de las Unidades Responsables propondrán a la Coordinació
 Sexto. En aquellos casos no previstos expresamente en este Estatuto, será el Comité Directivo la instancia encargada de interpretarlo.
 
 Ciudad de México, Distrito Federal, a los ocho días del mes de julio de dos mil tres.- El Presidente de la Comisión Nacional de los Derechos Humanos y de su Consejo Consultivo, José Luis Soberanes Fernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO CIVIL DE CARRERA DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS".]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo del Consejo Consultivo de la Comisión Nacional de los Derechos Humanos por el que se aprueba el Estatuto del Servicio Civil de Carrera de la Comisión Nacional de los Derechos Humanos, publicado en el Diario Oficial de la Federación el 22 de julio de 2003 y los Lineamientos para la Evaluación del Personal de Carrera de la Comisión Nacional de los Derechos Humanos expedidos por el Comité Directivo del Servicio Civil de Carrera en marzo de 2004, así como todas las disposiciones que se opongan al presente Estatuto.
+
+TERCERO. El Comité Directivo y los Subcomités de Elaboración y Actualización de Exámenes y de Inconformidades, se instalarán durante los treinta días naturales siguientes a la entrada en vigor del Estatuto. Asimismo, el Comité Directivo deberá realizar su primera sesión ordinaria dentro de dicho plazo y establecer su calendario de sesiones para el año 2022.
+
+CUARTO. Las personas servidoras públicas que hayan obtenido la titularidad de su plaza conforme al Acuerdo del Consejo Consultivo de la Comisión Nacional de los Derechos Humanos por el que se aprueba el Estatuto del Servicio Civil de Carrera de la Comisión Nacional de los Derechos Humanos, publicado en el Diario Oficial de la Federación, el 22 de julio de 2003, serán consideradas como integrantes del Servicio Civil de Carrera de la Comisión Nacional, siempre y cuando cumplan con las ramas de especialización mencionadas en el artículo 4 y les aplicará este Estatuto a partir de su entrada en vigor.
+
+QUINTO. A la entrada en vigor del Estatuto, las personas servidoras públicas con nombramiento provisional y que no hayan obtenido la titularidad en el Servicio Civil de Carrera de la Comisión Nacional en los términos del artículo transitorio anterior, no se considerarán miembros del Servicio Civil de Carrera de la Comisión Nacional, en tanto no tenga el nombramiento definitivo.
+
+SEXTO. A partir de la entrada en vigor del presente Estatuto, la Coordinación General de Administración y Finanzas, a través de la DGRH, deberá realizar todos los trámites para que las plazas del Servicio Civil de Carrera que no se encuentren ocupadas y cuya adscripción no corresponda a las ramas de especialización mencionadas en el artículo 4 de este Estatuto, se modifiquen para ser consideradas de libre designación.
+
+SÉPTIMO. A partir de la entrada en vigor de este Estatuto, las personas servidoras públicas del Servicio Civil de Carrera que se encuentren ocupando una plaza de libre designación con motivo de una licencia sin goce de sueldo, otorgada en términos del artículo 39 del Estatuto del Servicio Civil de Carrera de la Comisión Nacional de los Derechos Humanos, publicado en el Diario Oficial de la Federación, el 22 de julio de 2003, deberán iniciar los trámites para realizar la entrega-recepción de los puestos de libre designación, mismos que deberán estar concluidos a más a tardar el último día de vigencia de la licencia sin goce de sueldo. Una vez que entre en vigor este Estatuto, el Comité Directivo no podrá autorizar licencias sin goce de sueldo para ocupar plazas de libre designación.
+
+Las personas que venían ocupando plazas del Servicio Civil de Carrera de manera interina, con motivo de una licencia sin goce de sueldo de su titular, deberán iniciar los trámites para realizar la entrega-recepción de los puestos de libre designación, mismos que deberán estar concluidos a más a tardar el último día de vigencia de la licencia sin goce de sueldo.
+
+OCTAVO. Los presentes estatutos no son retroactivos en perjuicio de persona alguna. Se aplicarán al personal de nuevo ingreso y activo.
