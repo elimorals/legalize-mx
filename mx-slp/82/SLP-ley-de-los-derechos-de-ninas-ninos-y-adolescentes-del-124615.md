@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2022-09-09"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -2013,7 +2013,9 @@ h) La Secretaría de Cultura.
 
 i) La Secretaria de Finanzas.
 
-j) La Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+j) La Secretaría de Seguridad y Protección Ciudadana.
 
 k) La Secretaria de Desarrollo Social y Regional.
 
@@ -2674,3 +2676,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 TERCERO. Para atender lo ahora dispuesto en la fracción VIII del artículo 53 que se reforma mediante este Decreto, el Estado y los municipios, en el ámbito de sus respectivas competencias, darán cumplimiento a dicho precepto de manera progresiva, continua y sistemática, en la medida de las posibilidades presupuestales que se asignen al rubro de infraestructura física educativa; debiendo considerar el aumento que se requiere para cumplir la obligación que deriva del mismo, desde su planeación, presupuestación y forma de asignación. El Congreso del Estado, al aprobar el Presupuesto de Egresos del Estado, deberá verificar que se cumpla con lo antes señalado en los próximos ejercicios fiscales, hasta que se alcance el objetivo y finalidad que ahora se establece.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
