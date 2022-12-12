@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2022-11-08"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1031,7 +1031,9 @@ c) Secretaría de Finanzas.
 
 d) Fiscalía General del Estado.
 
-e) Secretaría de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+e) Secretaría de Seguridad y Protección Ciudadana.
 
 f) Secretaría de Educación.
 
@@ -2125,9 +2127,11 @@ Dichas entidades deberán diseñar e implementar un sistema de seguimiento que l
 
 Todo procedimiento de ingreso, selección, permanencia, estímulo, promoción y reconocimiento de servidores públicos que, por su competencia, tengan trato directo o brinden su servicio a víctimas en cumplimento de medidas de asistencia, ayuda, apoyo, reparación integral o cualquier mecanismo de acceso a la justicia, deberá incluir dentro de los criterios de valoración, un rubro relativo a derechos humanos.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 164.
 
-La Fiscalía General del Estado y la Secretaría de Seguridad Pública, deberán disponer, en conjunción con lo establecido por la Conferencia Nacional de Procuración de Justicia, lo pertinente para que los contenidos temáticos señalados en la Ley General de Víctimas, la presente Ley y sus reglamentaciones pertinentes sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
+La Fiscalía General del Estado, y la Secretaría de Seguridad y Protección Ciudadana, deberán disponer, en conjunción con lo establecido por la Conferencia Nacional de Procuración de Justicia, lo pertinente para que los contenidos temáticos señalados en la Ley General de Víctimas, la presente Ley y sus reglamentaciones pertinentes sean parte de las estrategias, políticas y modelos de profesionalización, así como los de supervisión de los programas correspondientes en los institutos de capacitación.
 
 ###### ARTÍCULO 165.
 
@@ -2430,3 +2434,11 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
