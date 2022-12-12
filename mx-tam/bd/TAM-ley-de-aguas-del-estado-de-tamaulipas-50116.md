@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2022-09-14"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -933,9 +933,9 @@ Los municipios podrán celebrar contratos y convenios para la prestación de los
 
 1. La Comisión, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-2. En el caso de los órganos de la administración de los organismos operadores de naturaleza intermunicipal, regional o estatal, les serán aplicables las disposiciones previstas para los organismos operadores municipales, con excepción de la designación del Gerente General que estará a cargo del Ejecutivo del Estado. Dicha designación deberá de ser ratificada por el Congreso del Estado a través de mayoría calificada. Por cuanto hace a la remoción del Gerente General, ésta únicamente podrá ser realizada por el Ejecutivo del Estado, debiendo contar para lo anterior con la ratificación de la mayoría calificada por parte del Congreso del Estado.
+2. En el caso de los órganos de administración de los organismos operadores de naturaleza estatal, les serán aplicables las disposiciones previstas para los organismos operadores municipales, con excepción de la designación del Gerente General que estará a cargo del Ejecutivo del Estado.
 
 ###### Artículo 23.
 
@@ -1049,33 +1049,35 @@ b) La Gerencia General.
 
 1. El Consejo de Administración de los organismos operadores municipales estará integrado por:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-I. Un representante del Municipio que será el Presidente Municipal, quien fungirá como Presidente;
+I. El Presidente Municipal, quien fungirá como Presidente;
 
-II. (DEROGADA, P.O. 1 DE JULIO DE 2022)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+II. Los titulares de tres dependencias municipales, las que serán, preferentemente, las responsables del desarrollo social, desarrollo urbano, obras públicas, desarrollo económico o medio ambiente;
 
-III. Un representante del Ejecutivo del Estado cuya dependencia esté relacionada con la operación del agua;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+III. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
 IV. Un Diputado al Congreso del Estado con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-V. Cuatro representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social del Municipio, de entre quienes se nombrará al Secretario.
+V. Tres representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social del Municipio, de entre quienes se nombrará al Secretario.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-2. La designación de los representantes de los sectores social y privado quedará establecida en el decreto de creación del organismo operador.
+2. La designación de los titulares representantes del Municipio y de los sectores social y privado quedará establecida en el decreto de creación del organismo operador.
 
 3. Los integrantes del Consejo tendrán voz y voto, y el Presidente tendrá voto de calidad. Los cargos serán honoríficos y podrán ser relevados libremente por los órganos y sectores que representen.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-4. Por cada integrante del consejo se designará un suplente.
+4. Por cada integrante propietario del Consejo se designará un suplente.
 
 5. El Consejo de Administración sesionará validamente con la concurrencia de la mayoría de sus miembros. Sus decisiones se tomarán por mayoría de votos.
 
@@ -1085,17 +1087,17 @@ V. Cuatro representantes de los sectores social y privado que tengan representat
 
 I. Los presidentes municipales de los municipios que hayan celebrado convenio;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-II. Tres representantes del Ejecutivo del Estado, quienes serán un servidor público de la Comisión, otro de la Secretaría de Salud y otro de la Secretaría de Finanzas;
+II. Tres representantes del Ejecutivo del Estado, de entre los cuales uno será servidor público de la Comisión y otro de la Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2007)</small>
 
 III. Un Diputado al Congreso del Estado con residencia en el distrito o los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Coordinación Política al Pleno del Poder Legislativo, para que éste resuelva por mayoría simple de los diputados presentes; y
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-IV. Un representante de los sectores social, privado y educativo que tenga representatividad en el desarrollo económico, social y cultural en el territorio de los municipios asociados, quien será designado en los términos del decreto de creación que corresponda, debiendo representar a los usuarios domésticos, comerciales y/o industriales.
+IV. Tres representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social en el territorio de los municipios asociados, quienes serán designados en los términos del decreto de creación que corresponda, debiendo uno representar, preferentemente, a los usuarios domésticos, otro a los comerciales y de servicio, y el último a los industriales.
 
 2. Por cada integrante propietario se designará un suplente y Los integrantes del Consejo tendrán voz y voto, teniendo el Presidente voto de calidad. Los cargos serán honoríficos y podrán ser relevados libremente por los órganos y sectores que representen.
 
@@ -1103,15 +1105,11 @@ IV. Un representante de los sectores social, privado y educativo que tenga repre
 
 4. El Presidente del Consejo de Administración será el Presidente Municipal del Ayuntamiento que haya realizado la mayor aportación al patrimonio del organismo operador. Para tal efecto, en el convenio y el decreto de creación se deberá mencionar el importe de las aportaciones de cada uno de los municipios que hayan convenido asociarse para conformar el organismo operador regional o intermunicipal.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
-5. Por cuanto hace a los Organismos Operadores Estatales, el Presidente del Consejo será designado por votación de la mayoría del Consejo de Administración en la primera junta de instalación del Consejo.
+5. (DEROGADO, P.O. 12 DE DICIEMBRE DE 2022)
 
 6. El Secretario del Consejo de Administración será el Presidente Municipal del Ayuntamiento que haya realizado la segunda mayor aportación al patrimonio del organismo operador.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
-7. Por cuanto hace a los Organismos Operadores Estatales, el Secretario del Consejo será designado por votación de la mayoría del Consejo de Administración en la primera junta de instalación del Consejo.
+7. (DEROGADO, P.O. 12 DE DICIEMBRE DE 2022)
 
 8. El Consejo de Administración sesionará válidamente con la concurrencia de la mayoría de sus miembros. Sus decisiones se tomarán por mayoría de votos.
 
@@ -1171,9 +1169,9 @@ XVI. Aprobar y expedir el Estatuto Orgánico del organismo y sus modificaciones,
 
 XVII. Verificar la generación de información para actualizar el Sistema Estatal de Información del Sector Agua para el Estado;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Nombrar y remover al Gerente General del Organismo, con excepción de aquellos de naturaleza intermunicipal, regional o estatal, en los que la designación estará a cargo del Ejecutivo del Estado;
+XVIII. Nombrar y remover al Gerente General del Organismo, con excepción de aquellos de naturaleza estatal;
 
 > <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3264,3 +3262,19 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Comisión Estatal del Agua de Tamaulipas elaborará el semáforo del cuidado del agua, en el que se establecerán las medidas de cuidado, de acuerdo con el color del semáforo, tomando en cuenta la disponibilidad del agua en cada municipio o región del Estado, dentro de los 120 días siguientes a la publicación del presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-479 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas designadas como Gerentes Generales de los Organismos Operadores de naturaleza Estatal, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Consejos de Administración de los Organismos Operadores Municipales, Intermunicipales y Regionales se integrarán conforme a lo establecido en el presente Decreto.
