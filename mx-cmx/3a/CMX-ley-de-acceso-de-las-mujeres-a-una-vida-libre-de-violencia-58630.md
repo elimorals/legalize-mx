@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2022-11-30"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -275,6 +275,18 @@ La violencia feminicida se sanciona de acuerdo con lo establecido en el artícul
 > <small>(ADICIONADA, G.O. 13 DE JULIO DE 2017)</small>
 
 IX. Simbólica: La que a través de patrones estereotipados, mensajes, valores, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+X. Violencia Vicaria: es la acción u omisión cometida por quien tenga o haya tenido una relación de matrimonio, concubinato o haya mantenido una relación de hecho o de cualquier otro tipo, por sí o por interpósita persona, que provoque la separación de la madre con sus hijas e hijos o persona vinculada significativamente a la mujer, a través de la retención, sustracción, ocultamiento, maltrato, amenaza, puesta en peligro o promoviendo mecanismos jurídicos y no jurídicos que retrasen, obstaculicen, limiten e impidan la convivencia, para manipular, controlar a la mujer o dañar el vínculo afectivo, que ocasionen o puedan ocasionar un daño psicoemocional, físico, patrimonial o de cualquier otro tipo a ella y a sus hijas e hijos o persona vinculada significativamente a la mujer, e incluso el suicidio a las madres y a sus hijas e hijos o persona vinculada significativamente a la mujer, así como desencadenar en el feminicidio u homicidio de las hijas e hijos perpetrados por su progenitor.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 12 DE DICIEMBRE DE 2022]</small>
+
+Este tipo de violencia puede cometerse también a través de familiares o personas con relación afectiva de quien comete este tipo de violencia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, G.O. 12 DE DICIEMBRE DE 2022]</small>
+
+Es particularmente grave cuando las instituciones destinadas a la atención y acceso a la justicia, al no reconocerla, emiten determinaciones, resoluciones y sentencias sin perspectiva de género vulnerando derechos humanos de las mujeres y el interés superior de la niñez.
 
 ### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -2133,3 +2145,11 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su prom
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. A partir de la entrada en vigor del presente decreto las autoridades competentes tendrán 120 días naturales para realizar las adecuaciones reglamentarias correspondientes
+
+G.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
