@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bebe-seguro-de-la-ciudad-de-mexico-117740"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2021-03-02"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117740&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-19"
 
 LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 22 de diciembre de 2016.
 
@@ -68,9 +68,13 @@ I. La Administración Pública de la Ciudad de México;
 
 II. El Congreso de la Ciudad de México;
 
-III. Los padres, ascendientes, tutores, personas responsables y miembros de la familia de las niñas y los niños, y
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
 
-IV. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+III. Las madres y los padres, ascendientes, tutores, personas responsables y miembros de la familia de las niñas y los niños, y
+
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+IV. La ciudadanía y la sociedad civil organizada, cualquiera que sea su forma o denominación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -148,7 +152,9 @@ XI. Línea de Acción: Conjunto de estrategias de orientación y organización d
 
 XII. Nutrición: La nutrición es la ingesta de alimentos en relación con las necesidades dietéticas del organismo;
 
-XIII. Padrón de Derechohabientes: Base de datos en la que están contenidos de manera estructurada y sistematizada los nombres y datos de las personas que, cubriendo los requisitos establecidos en las reglas de operación, han sido incorporadas como usuarios o derechohabientes a los programas sociales a cargo de las dependencias, delegaciones y entidades de la Administración Pública local;
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+XIII. Padrón de Derechohabientes: Base de datos en la que están contenidos de manera estructurada y sistematizada los nombres y datos de las personas que, cubriendo los requisitos establecidos en las reglas de operación, han sido incorporadas como usuarios o derechohabientes a los programas sociales a cargo de las dependencias, alcaldías y entidades de la Administración Pública local;
 
 XIV. Política de Atención Integral: la política de atención integral para el desarrollo de las niñas y los niños en primera infancia en la Ciudad de México;
 
@@ -200,9 +206,11 @@ El apoyo económico será entregado a los derechohabientes en forma mensual por 
 
 El DIF-CDMX determinará los mecanismos y procedimientos de acceso a la obtención de este apoyo económico, que permita exclusivamente la adquisición de alimentos, medicamentos o enseres indispensables para su adecuado desarrollo integral.
 
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-En casos de excepción, por ejemplo, las solicitudes más apremiantes de los organismos gubernamentales encargados de proteger los derechos humanos, se someterán a consideración del Titular de la Dirección General del DIF CDMX y/o a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, que valorará, y en su caso podrá aprobar las solicitudes de apoyo económico exentando la presentación de alguno o algunos de los requisitos necesarios.
+En casos de excepción, por ejemplo, las solicitudes más apremiantes de los organismos gubernamentales encargados de proteger los derechos humanos se someterán a consideración del Titular de la Dirección General del DIF CDMX y/o a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia de la Ciudad de México, que valorará, y en su caso podrá aprobar las solicitudes de apoyo económico exentando la presentación de alguno o algunos de los requisitos necesarios.
 
 > <small>(REFORMADO, G.O. 2 DE MARZO DE 2021)</small>
 
@@ -270,13 +278,19 @@ Lo anterior, además de comprobar que se ha acudido mensual o periódicamente a 
 
 Los ciudadanos que consideren haber sido afectados en la aplicación del Programa de BEBÉ SEGURO CDMX, podrán acudir, en primera instancia a manifestar su reclamo o inconformidad de manera escrita dirigida a DIF-CDMX.
 
-De igual manera los interesados afectados por actos o resoluciones, concernientes al programa, podrán presentar su inconformidad por escrito conforme a lo establecido en la Ley de Procedimiento Administrativo del Distrito Federal, ante el superior jerárquico de la autoridad emisora del acto que impugna.
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
 
-En caso de que el interesado considere incumplimiento de cualquier disposición presente, podrá presentar su queja por escrito ante la Contraloría Interna en el DIF CDMX; la Contraloría General del Distrito Federal y/o en los medios electrónicos dispuestos en el portal respectivo de estas instancias.
+De igual manera los interesados afectados por actos o resoluciones, concernientes al programa, podrán presentar su inconformidad por escrito conforme a lo establecido en la Ley de Procedimiento Administrativo de la Ciudad de México, ante el superior jerárquico de la autoridad emisora del acto que impugna.
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+En caso de que el interesado considere incumplimiento de cualquier disposición presente, podrá presentar su queja por escrito ante la Contraloría Interna en el DIF CDMX; la Secretaría de la Contraloría General de la Ciudad de México y/o en los medios electrónicos dispuestos en el portal respectivo de estas instancias.
+
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 23.
 
-Los requisitos, derechos, obligaciones, procedimientos y plazos para que las personas derechohabientes puedan acceder al disfrute de los beneficios de este programa social, serán difundidos por el DIF-CDMX y estarán plasmados en carteles distribuidos en los Centros de Desarrollo Comunitario del mismo, delegaciones y colonias de alta pobreza, determinadas por el área que opera el programa; así como en hospitales materno infantiles de la Secretaría de Salud de la CDMX.
+Los requisitos, derechos, obligaciones, procedimientos y plazos para que las personas derechohabientes puedan acceder al disfrute de los beneficios de este programa social, serán difundidos por el DIF-CDMX y estarán plasmados en carteles distribuidos en los Centros de Desarrollo Comunitario del mismo, alcaldías y colonias de alta pobreza, determinadas por el área que opera el programa; así como en hospitales materno infantiles de la Secretaría de Salud de la Ciudad de México.
 
 ### CAPÍTULO VI. DE LAS SANCIONES APLICABLES A LOS SERVIDORES PÚBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY
 
@@ -311,3 +325,11 @@ G.O. 2 DE MARZO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 2, EL PRIMER PÁRRAFO DEL ARTÍCULO 3, LA FRACCIÓN I DEL ARTÍCULO 4, LA FRACCIÓN V DEL ARTÍCULO 5, Y, EL ARTÍCULO 13; TODOS ELLOS DE LA LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 2; LA FRACCIÓN XIII DEL ARTÍCULO 6; EL ARTÍCULO 12; EL PÁRRAFO SEGUNDO Y TERCERO DEL ARTÍCULO 22 Y EL ARTÍCULO 23 DE LA LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
