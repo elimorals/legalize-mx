@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2022-12-02"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1265,7 +1265,9 @@ IV. Que no haya sido condenado anteriormente por delito doloso, y
 
 V. Que se trate de delitos que hayan afectado directa y exclusivamente intereses particulares.
 
-No procederá el perdón en el delito de violencia familiar; así como en los que expresamente se determinen en el capítulo relativo a los delitos ambientales.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+No procederá el perdón en el delito de violencia familiar.
 
 ###### ARTÍCULO 105.
 
@@ -3961,9 +3963,7 @@ VII. Autorice transportar cualquier residuo considerado como peligroso por sus c
 
 VIII. Preste sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, y falte a la verdad provocando con ello que se cause un daño a los recursos naturales; a la flora; la fauna; los ecosistemas; la calidad del agua; o al ambiente.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
-
-Los delitos previstos en el presente capítulo se perseguirán de oficio y, en su caso, por la denuncia o querella que presente la Secretaría de Ecología y Gestión Ambiental, así como cualquier persona o autoridad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO VIII. Tráfico de Influencia
 
@@ -4033,17 +4033,17 @@ VII. Realice obras, o edificaciones en suelos destinados a, vialidades; áreas v
 
 Para los efectos de los capítulos, I, II, III, y V, del presente Título, se estará a las definiciones establecidas en la Ley General del Equilibrio Ecológico y la Protección Ambiental; la Ley Ambiental del Estado de San Luis Potosí; y la Ley Estatal de Protección a los Animales; así como las determinadas en los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 310.
 
-Los delitos previstos en los capítulos I a III del presente Título se perseguirán por denuncia o querella interpuesta por cualquier persona o autoridad, salvo que el daño ambiental ocasionado sea irreversible, en cuyo caso, se perseguirán de oficio.
+Los delitos previstos en los capítulos, I a III del presente Título se perseguirán de oficio, o por la denuncia que presente la Secretaría de Ecología y Gestión Ambiental; el ayuntamiento correspondiente; o el organismo operador de agua que tenga conocimiento por sí, o por efectos de una denuncia popular.
 
 ###### ARTÍCULO 311.
 
 La Secretaría de Ecología y Gestión Ambiental deberá coadyuvar con la autoridad que conozca de la investigación, o el proceso penal seguido por las denuncias o querellas, respecto de los delitos a que se refieren los capítulos I a III de este Titulo.
 
-La Secretaría de Ecología y Gestión Ambiental del Estado tiene la facultad para otorgar el perdón, por la comisión de delitos tipificados en los capítulos I a III del presente Título, en los casos que proceda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -4239,11 +4239,15 @@ VI. Tiene obligación por razón de su empleo, cargo o comisión, de custodiar, 
 
 VII. Otorga empleo, cargo o comisión públicos, o celebra contratos de prestación de servicios profesionales, mercantiles o de cualquier otra naturaleza, en ejercicio de sus funciones o con motivo de ellas, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se le nombró, o no se cumplirá el contrato otorgado;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-VIII. Omita la remisión en tiempo y forma establecidos en la ley de las cuentas públicas, en los términos del artículo 12 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, y
+VIII. Omita la remisión en tiempo y forma establecidos en la ley de las cuentas públicas, en los términos del artículo 12 de la Ley de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí;
 
-IX. Omita, de acuerdo a sus atribuciones, en términos de los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado, cualquiera de las siguientes conductas:
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+IX. Omita presentar dentro de los tres meses siguientes a que tenga conocimiento, la denuncia o querella que corresponda, en los términos a que se refiere el artículo 310 de este Código, y
+
+X. Omita, de acuerdo a sus atribuciones, en términos de los artículos, 127 de la Constitución Política de los Estados Unidos Mexicanos; y 133 de la Constitución Política del Estado, cualquiera de las siguientes conductas:
 
 a) Incluir en el proyecto de presupuesto de egresos correspondiente, los tabuladores desglosados de las remuneraciones que se proponga perciban los servidores públicos de los poderes, Ejecutivo, Legislativo, o Judicial; de los organismos constitucionalmente autónomos; o de las entidades descentralizadas, o de las entidades paraestatales.
 
@@ -4515,7 +4519,7 @@ III. Cuando el monto de lo distraído o de los fondos utilizados indebidamente e
 
 ### CAPÍTULO II. Delitos Contra la Seguridad del Tránsito de Vehículos
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 340.
 
@@ -4835,19 +4839,15 @@ A quien entorpezca, paralice o deje de prestar un servicio público de transport
 
 ###### ARTÍCULO 357.
 
-Comete el delito contra la seguridad del tránsito de vehículos, la persona que:
-
-I. Conduce un vehículo con temeridad y pone en peligro la vida, la salud o los bienes de alguien, o
-
-II. Maneja vehículos de motor en estado de ebriedad, o bajo el influjo de medicamentos, estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares.
+Comete el delito contra la seguridad de tránsito de vehículos, quien conduce un vehículo con temeridad y pone en peligro la vida, la salud o los bienes de alguien.
 
 Este delito se sancionará con una pena de seis meses a dos años de prisión, sanción pecuniaria de sesenta a doscientos días valor de la unidad de medida y actualización, y suspensión de derechos para conducir vehículos por el doble del tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 358.
 
-Si el delito a que se refiere la fracción II del artículo anterior se comete por conductores de vehículos de transporte público de pasajeros, la pena será de tres a ocho años de prisión, sanción pecuniaria de trescientos a ochocientos días del valor de la unidad de medida y actualización, y suspensión de derechos para conducir vehículos por el doble de tiempo de la pena de prisión impuesta, sin perjuicio de las penas que correspondan si comete otro delito.
+Si el delito a que se refiere el artículo anterior se comete por conductores de vehículos de transporte público de pasajeros, o de conductores de empresas de redes de transporte, la pena se incrementará en una mitad, sin perjuicio de las penas que correspondan si comete otro delito.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -5886,5 +5886,21 @@ P.O. 2 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0542.- SE REFORMAN LOS ARTÍCULOS 9°, 13 Y 91; Y ADICIONA AL ARTÍCULO 92 EL PÁRRAFO CUARTO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 205 EN SU PÁRRAFO ÚLTIMO Y 205 BIS EN SUS FRACCIONES IV Y V, Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO LA DENOMINACIÓN DEL CAPÍTULO VI; Y ADICIONA AL ARTÍCULO 205 BIS LA FRACCIÓN VI Y EN LA PARTE ESPECIAL EN EL TÍTULO SEXTO EL CAPÍTULO VII “INCESTO”, CON EL ARTÍCULO 207 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0545.- SE REFORMAN LOS ARTÍCULOS 104 EN SU PÁRRAFO ÚLTIMO, 310 Y 323 EN SU FRACCIÓN VIII; ADICIONA AL ARTÍCULO 323 UNA FRACCIÓN, ÉSTA COMO IX; Y DEROGA DE LOS ARTÍCULOS 305 EL PÁRRAFO ÚLTIMO Y 311 EL PÁRRAFO SEGUNDO, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0550.- SE REFORMAN LOS ARTÍCULOS 357 Y 358, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
