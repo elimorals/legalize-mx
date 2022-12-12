@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-11-28"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1179,7 +1179,9 @@ En la Sesión de instalación del H. Ayuntamiento y en las Sesiones Solemnes, el
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL, DE SUS FUNCIONES Y SUS ATRIBUCIONES
 
-### CAPÍTULO II. De las Funciones y Atribuciones de los Servidores Públicos Municipales
+### CAPÍTULO II
+
+De las Funciones y Atribuciones de los Servidores Públicos Municipales.
 
 APARTADO PRIMERO
 
@@ -1407,27 +1409,21 @@ Departamento de Desarrollo Infantil.
 
 Coordinación de CEDECOS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS APARTADOS], P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-VII.- SECRETARÍA DE COMUNICACIÓN SOCIAL
+VII.- SECRETARÍA DE COMUNICACIÓN SOCIAL.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
+Coordinación Operativa.
+
+Departamento Administrativo.
 
 Departamento de Producción Gráfica.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
-
 Departamento de Comunicación Digital.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 Departamento de Información.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
-
 Departamento de Difusión.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2014)</small>
 
 Departamento de Análisis y Síntesis.
 
@@ -2113,6 +2109,8 @@ III.- Ante la omisión de las designaciones referidas en las fracciones anterior
 
 IV.- El servidor público que supla la ausencia, tendrá a su cargo las atribuciones y obligaciones que le corresponden al titular.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ### CAPÍTULO I. De las Normas que Regulan las Actividades de los Trabajadores al Servicio del Gobierno Municipal
 
 APARTADO PRIMERO
@@ -2221,13 +2219,17 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
 APARTADO TERCERO
 
-De la Coordinación General de Comunicación Social
+De la Secretaría de Comunicación Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 101.
 
-Corresponde a la Coordinación General de Comunicación Social:
+Corresponde a la Secretaría de Comunicación Social:
 
 I. Coordinar los programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Dependencias o Unidades Administrativas.
 
@@ -2435,7 +2437,9 @@ VI. Realizar análisis, estudios y encuestas en materia de opinión pública y d
 
 VII. Coordinarse con la Secretaria Particular de la Presidencia Municipal para el diseño, seguimiento y evaluación de la Agenda, así como para establecer las bases para la integración y contenido de las giras del Titular de la Presidencia Municipal;
 
-VIII. Coordinarse con la Coordinación General de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+VIII. Coordinarse con la Secretaría de Comunicación Social para la definición, seguimiento y evaluación de las políticas de difusión institucional;
 
 IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2014)
 
@@ -2591,7 +2595,9 @@ VIII. Participar con la Dirección de Modernización Tecnológica, en la moderni
 
 IX. Cumplir con la normatividad que emita la Dirección de Modernización Tecnológica, en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo.
 
-X. Observar las normas que la Coordinación General Comunicación Social emita respecto a toda comunicación oficial que se genere en las áreas de su competencia.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+X. Observar las normas que la Secretaría de Comunicación Social emita respecto a toda comunicación oficial que se genere en las áreas de su competencia.
 
 XI. Asistir a las reuniones a que sea citado por las Comisiones del H. Ayuntamiento, las cuales se celebrarán de acuerdo a la regularidad requerida, y mantener una comunicación constante con los Regidores y Síndicos del ramo.
 
@@ -3831,9 +3837,9 @@ VII. Presidente(a) del Comité Municipal para el Desarrollo Integral de la Famil
 
 VIII. Titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-IX. Titular de la Coordinación General de Comunicación Social;
+IX. Titular de la Secretaría de Comunicación Social;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -24622,3 +24628,15 @@ P.O. 28 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, AL REGLAMENTO DE PROTECCIÓN AL AMBIENTE Y MANEJO DE ÁREAS VERDES DEL MUNICIPIO DE AGUASCALIENTES, Y AL REGLAMENTO PARA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS DEDICADOS A LA COMPRA, VENTA, ACOPIO Y RECICLAJE DE RESIDUOS EN EL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE VISITAS DE INSPECCIÓN A “CHATARRERAS”.]
 
 ÚNICO.- Las presentes reformas, adiciones y derogaciones, iniciaran su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “H. AYUNTAMIENTO DE AGUASCALIENTES: REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Al momento de la aprobación de la presente reforma por parte del Honorable Ayuntamiento Constitucional del Municipio de Aguascalientes, se deberá iniciar el procedimiento de designación para las (sic) Coordinación Operativa y el Departamento Administrativo, dentro de los siguientes treinta días hábiles.
+
+TERCERO. La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
+
+CUARTO. Quedan sin efecto todas aquellas disposiciones jurídicas del ámbito Municipal que se opongan al presente Decreto.
