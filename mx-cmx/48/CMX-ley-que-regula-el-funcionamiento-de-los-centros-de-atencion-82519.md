@@ -4,7 +4,7 @@ identifier: "CMX-ley-que-regula-el-funcionamiento-de-los-centros-de-atencion-825
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-19"
-last_updated: "2020-03-20"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82519&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-05-17"
 
 LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 19 de agosto de 2011.
 
@@ -416,7 +416,13 @@ III. De madres solteras que requieran la atención de su niña o niño por motiv
 
 IV. Que su madre, padre y/o tutor, se encuentren en condiciones de pobreza o vulnerabilidad económica;
 
-V. Se atiendan a niñas o niños con algún grado de discapacidad; y,
+> <small>(REFORMADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+V. Se atiendan a niñas o niños con algún grado de discapacidad;
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+V Bis. Una vez atendidos los supuestos de las fracciones anteriores, se procederá a dar prioridad en la admisión a las hijas e hijos de padres y/o tutores que se encuentren en situaciones similares a las señaladas en las fracciones I, II y III de este artículo; y
 
 VI. Se encuentren en los demás casos que determine el Comité de Desarrollo Interinstitucional de Atención y Cuidado de la Infancia
 
@@ -685,3 +691,11 @@ PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México, para su p
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- La Jefatura de Gobierno contará con 30 días contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones correspondientes al Reglamento de la Ley que Regula el Funcionamiento de los Centros de Atención y Cuidado Infantil para el Distrito Federal.
+
+G.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN V BIS AL ARTÍCULO 27 DE LA LEY QUE REGULA EL FUNCIONAMIENTO DE LOS CENTROS DE ATENCIÓN Y CUIDADO INFANTIL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
