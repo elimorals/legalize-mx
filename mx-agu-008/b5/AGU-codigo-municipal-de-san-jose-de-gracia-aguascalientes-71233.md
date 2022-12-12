@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2022-06-13"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1479,13 +1479,13 @@ En el caso de las faltas temporales de los encargados de las Dependencias Públi
 
 ## TÍTULO SEGUNDO. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 141.
 
-Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, la oficina de Presidencia Municipal contará con las siguientes unidades administrativas:
+Para el conocimiento, estudio, planeación y despacho de los asuntos de su competencia, el Presidente Municipal contará con las siguientes unidades administrativas:
 
-l. SECRETARÍA DEL H. AYUNTAMIENTO:
+I. SECRETARÍA DEL H. AYUNTAMIENTO:
 
 A. Secretario del H. Ayuntamiento;
 
@@ -1495,21 +1495,19 @@ C. Departamento de Reglamentos y Licencias;
 
 D. Departamento de Comunicación Social;
 
-E. Coordinación Municipal de Protección Civil;
+E. Departamento de Deporte y de la Juventud;
 
-F. Unidad Médica Prehospitalaria;
+F. Área de la Unidad Médica Prehospitalaria;
 
-G. Departamento de Acción Cívica; y
-
-H. Archivo Municipal.
+G. Área de Archivo Municipal.
 
 II. JEFATURA DE GABINETE:
 
 A. Jefe de Gabinete;
 
-B. Dirección de Asuntos Jurídicos; y.
+B. Dirección de Asuntos Jurídicos; y
 
-C. Área de Jueces Calificadores.
+C. Departamento de Jueces Calificadores
 
 III. ÓRGANO INTERNO DE CONTROL:
 
@@ -1533,29 +1531,29 @@ A. Dirección de Finanzas;
 
 B. Subdirección de Finanzas;
 
-C. Área de Contabilidad;
+C. Departamento de Contabilidad;
 
 D. Área de Ingresos;
 
-E. Área de Egresos;
+E. Área de Egresos; y
 
 F. Caja Recaudadora.
 
 V. DIRECCIÓN DE ADMINISTRACIÓN:
 
-A. Director de Administración;
+A. Dirección de Administración;
 
-B. Área de Recursos Humanos;
+B. Departamento de Recursos Humanos;
 
-C. Área de Control Patrimonial;
+C. Departamento de Control Patrimonial;
 
-D. Área de Proveeduría;
+D. Departamento de Proveeduría;
 
-E. Área de Informática;
+E. Departamento de Control Vehicular;
 
-F. Área de Control Vehicular;
+F. Área de Informática; y
 
-G. Unidad de Vinculación y Capacitación.
+G. Área de Vinculación Educativa.
 
 VI. DIRECCIÓN DE AGUA POTABLE:
 
@@ -1563,55 +1561,77 @@ A. Dirección de Agua Potable;
 
 B. Subdirección de Agua Potable;
 
-C. Área de Cultura del Agua.
+C. Área de Cultura del Agua; y
+
+D. Elementos Operativos.
 
 VII. DIRECCIÓN DE DESARROLLO SOCIAL
 
-A. Director de Desarrollo Social;
+A. Dirección de Desarrollo Social;
 
-B. Instancia de la Juventud;
+B. Dirección de Desarrollo Económico y Agropecuario; y
 
-C. Área del Deporte.
+C. Área de vinculación con Mariana Trinitaria.
 
-VIII. DIRECCIÓN DE DESARROLLO ECONÓMICO Y AGROPECUARIO
+VIII. DIRECCIÓN DE DESARROLLO URBANO Y PLANEACIÓN TERRITORIAL
 
-A. Director de Desarrollo Social, Económico y Agropecuario.
+A. Dirección de Desarrollo Urbano y Planeación Territorial;
+
+B. Asesor de Desarrollo Urbano;
+
+C. Departamento de Catastro;
+
+D. Departamento de Ecología; y
+
+E. Área de supervisión.
 
 IX. DIRECCIÓN DE SERVICIOS PÚBLICOS:
 
-A. Director de Servicios Públicos;
+A. Dirección de Servicios Públicos;
 
 B. Subdirección de Servicios Públicos
 
-C. Encargado de Panteones
+C. Área de Panteones
 
 D. Área de Limpia
 
 E. Área de Parques y Jardines
 
+F. Área de balconería;
+
+G. Área de carpintería;
+
+H. Área de electricistas; y
+
+I. Elementos operativos.
+
 X. DIRECCIÓN DE OBRAS PÚBLICAS
 
-A. Director de Obras Públicas;
+A. Dirección de Obras Públicas;
 
 B. Subdirección de Obras Públicas;
 
-C. Supervisión de Obra;
+C. Departamento de Gestión y Licitación;
 
-D. Área de Proyectos, Gestión, Licitación, Construcción y Conservación;
+D. Departamento de Proyectos
 
-E. Dirección de Desarrollo Urbano y Planeación;
+E. Área de Supervisión de Obra; y
 
-F. Departamento de Catastro;
-
-G. Departamento de Ecología.
+F. Elementos operativos.
 
 XI. DIRECCIÓN DE SEGURIDAD PÚBLICA Y MOVILIDAD
 
-A. Director de Seguridad Pública y Movilidad;
+A. Dirección de Seguridad Pública y Movilidad;
 
-B. Subdirector de Seguridad Pública y Movilidad
+B. Subdirección de Seguridad Pública y Movilidad;
 
-C. Área de Prevención al Delito;
+C. Coordinación Municipal de Protección Civil;
+
+D. Área de Prevención al Delito;
+
+E. Área de Profesionalización y Capacitación; y
+
+F. Elementos operativos.
 
 XII. DIF MUNICIPAL:
 
@@ -1621,27 +1641,53 @@ B. Dirección del Sistema para el Desarrollo Integral de la Familia;
 
 C. Subdirección del Sistema para el Desarrollo Integral de la Familia;
 
-D. Instancia Municipal de la Mujer;
+D. Área de Psicología;
 
-E. Área de Psicología;
+E. Área de Trabajo Social;
 
-F. Área de Trabajo Social;
+F. Área de Rehabilitación;
 
-G. Área de Rehabilitación;
+G. Área de Atención al Adulto Mayor;
 
-H. Área Jurídica;
+H. Área Jurídica; y
 
-I. Departamento de Atención Ciudadana.
+I. Área Médica.
 
 XIII. DIRECCIÓN DE TURISMO
 
-A. Director de Turismo;
+A. Dirección de Turismo;
 
 B. Patronato de la Feria, fiestas y festivales;
 
-C. Departamento de Cultura.
+C. Departamento de Cultura; y
+
+D. Encargado del parque temático.
+
+XIV. INSTANCIA MUNICIPAL DE LA MUJER
+
+A. Directora de la Instancia Municipal de la Mujer;
+
+B. Área Jurídica;
+
+C. Área de Trabajo Social; y
+
+D. Área de Atención Psicológica.
 
 Para efectos del presente Código, se entiende como unidad administrativa la dependencia de la administración pública municipal prevista en el presente artículo creada para el ejercicio de las atribuciones y el despacho de los asuntos que corresponden al Municipio, sin importar su esquema administrativo.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 141 BIS.- La Oficina Ejecutiva del Presidente Municipal estará integrada con las siguientes áreas:
+
+I. Secretaría Particular;
+
+II. Asesores;
+
+III. Jefatura del Departamento de Acción Cívica, giras y eventos;
+
+IV. Área de Atención Ciudadana; y
+
+V. Chofer.
 
 ### CAPÍTULO I. De Las Facultades de las Dependencias de la Administración Pública Municipal
 
@@ -13972,6 +14018,14 @@ PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su pub
 P.O. 13 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DE “REFORMAS AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA”.]
+
+PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA DEL ARTÍCULO 141 Y ADICIÓN DEL ARTÍCULO 141 BIS DEL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA”.]
 
 PRIMERO.- El presente punto de acuerdo surte efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
