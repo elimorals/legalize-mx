@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2022-06-08"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -255,9 +255,11 @@ X. Registrar las infracciones señaladas en el artículo 52 de esta Ley, precisa
 
 XI. Informar a la autoridad encargada de la expedición de las licencias de conducir, al menos una vez al mes, de aquellas infracciones de vialidad o tránsito cometidas en contravención a esta Ley.
 
-###### ARTÍCULO 9º.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-La Secretaría de Seguridad Pública del Estado, así como las autoridades de seguridad pública de los municipios, en el ámbito de su competencia, coadyuvarán con las autoridades estatales y municipales en vigilar el cumplimiento de esta Ley.
+###### ARTÍCULO 9°.
+
+La Secretaría de Seguridad y Protección Ciudadana, así como las autoridades de seguridad pública de los municipios, en el ámbito de su competencia, coadyuvarán con las autoridades estatales y municipales en vigilar el cumplimiento de esta Ley.
 
 ### CAPÍTULO III. De la Clasificación de los Establecimientos
 
@@ -501,11 +503,15 @@ X. Los centros o clubes sociales, deportivos y recreativos en los que se dé ser
 
 Los centros nocturnos, cabaret, o discoteca, además de las obligaciones señaladas en el artículo 32 de la presente Ley, deberán:
 
-I. Contar con la presencia de al menos un elemento de seguridad por cada cincuenta clientes, en base a la capacidad máxima del establecimiento, y los cuales deberán estar acreditados por la Secretaría de Seguridad Pública del Estado; o la Dirección de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+I. Contar con la presencia de al menos un elemento de seguridad por cada cincuenta clientes, en base a la capacidad máxima del establecimiento, y los cuales deberán estar acreditados por la Secretaría de Seguridad y Protección Ciudadana; o la Dirección de Seguridad Pública Municipal;
 
 II. Informar anualmente a las autoridades competentes acerca de la implementación del programa emitido por el Gobierno del Estado dirigido a las y los conductores de vehículos automotores, sobre las consecuencias de manejar bajo los influjos del alcohol;
 
-III. Contar con alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los usuarios o clientes que se les aplique la prueba. Los medidores o alcoholímetros deben tener las características y tiempo máximo de uso señalado por la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
+
+III. Contar con alcoholímetros o medidores para realizar pruebas de detección de intoxicación o nivel de alcohol en la sangre, previo consentimiento de los usuarios o clientes que se les aplique la prueba. Los medidores o alcoholímetros deben tener las características y tiempo máximo de uso señalado por la Secretaría de Seguridad y Protección Ciudadana;
 
 IV. Contar con arcos detectores de metales o detectores portátiles, en cada uno de los accesos para clientes del establecimiento;
 
@@ -914,3 +920,11 @@ P.O. 8 DE JUNIO DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
