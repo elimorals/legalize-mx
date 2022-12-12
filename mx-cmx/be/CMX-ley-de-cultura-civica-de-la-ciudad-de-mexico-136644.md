@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2022-06-15"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -616,9 +616,7 @@ I. Permitir a la persona propietaria o poseedora de un animal que este transite 
 
 II. Impedir o estorbar de cualquier forma el uso de la vía y el espacio público, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello, para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de expresión artística o cultural de asociación o de reunión pacífica;
 
-(NOTA: EL 13 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III. USAR EL ESPACIO PÚBLICO SIN CONTAR CON LA AUTORIZACIÓN QUE SE REQUIERA PARA ELLO;
+III. (DEROGADA, G.O. 12 DE DICIEMBRE DE 2022)
 
 IV. Apagar, sin autorización el alumbrado público o afectar algún elemento del mismo que impida su normal funcionamiento;
 
@@ -926,13 +924,31 @@ Las actuaciones deberán constar por escrito o por sistema informático y perman
 
 Cuando la persona probable infractora no hable español, o se trate de una persona con discapacidad para comunicarse y no cuente con persona traductora o intérprete, se le proporcionará una, sin cuya presencia el procedimiento administrativo no podrá dar inicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 53.
 
-En caso de que la persona probable infractor (sic) sea una Persona Adolescente, la Persona Juzgadora citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
+En caso de que la persona probable infractora sea una Persona Adolescente, la persona juzgadora citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución
 
-(NOTA: EL 13 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 72/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 14 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
 
-En tanto acude quien custodia o tutela a la Persona Adolescente, ésta deberá permanecer en la oficina del Juzgado, en la sección de personas adolescentes. Si por cualquier causa no asistiera el responsable de la persona adolescente en un plazo de dos horas, SE OTORGARÁ UNA PRÓRROGA DE CUATRO HORAS. SI AL TÉRMINO DE LA PRÓRROGA NO ASISTIERA EL RESPONSABLE, la Persona Juzgadora le nombrará un representante de la Administración Pública de la Ciudad de México para que lo asista y defienda, que podrá ser una Persona Defensora de Oficio, después de lo cual determinará su responsabilidad.
+En tanto acude quien custodia o tutela a la Persona Adolescente, ésta deberá permanecer en la oficina del Juzgado, en la sección de personas adolescentes. Si por cualquier causa no asistiera el responsable de la persona adolescente hasta por un plazo de dos horas, la Persona Juzgadora le nombrará a una persona representante del Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes de la Ciudad de México o a una persona Defensora de Oficio, la cual deberá ser profesional en derecho, para que lo asista y defienda y con ello determine la responsabilidad del infractor.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+La atención y asistencia del representante sustituto o coadyuvante, deberá ser inmediata a su designación, para lo cual la Persona Juzgadora deberá establecer las medidas necesarias de coordinación para este propósito.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+Cualquier persona que ostente la representación, no podrá deslindarse de las obligaciones que aquí se imponen, cualquier inasistencia, deberá ser justificada de forma pormenorizada y por escrito, señalando la imposibilidad para haber designado un representante sustituto o coadyuvante.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+Estos representantes deberán continuar bajo la figura de representación en coadyuvancia hasta en tanto exista una revocación de este encargo de quien detente la custodia o tutela, ya sea legal o de hecho.
+
+> <small>(ADICIONADO, G.O. 12 DE DICIEMBRE DE 2022)</small>
+
+En todos los casos, la Persona Juzgadora se asegurará y hará constar que, conforme a la edad, desarrollo evolutivo, cognoscitivo y grado de madurez de la Persona Adolescente, tenga conocimiento de su situación, la duración del procedimiento, a los derechos que tiene y las posibles sanciones a que puede ser acreedora.
 
 En caso de que la persona adolescente resulte responsable, la Persona Juzgadora lo amonestará y le hará saber las consecuencias jurídicas y sociales de su conducta.
 
@@ -1791,3 +1807,13 @@ G.O. 15 DE JUNIO DE 2022.
 Primero.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 28; SE MODIFICA EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO, RECORRIÉNDOSE LOS DEMÁS EN SU ORDEN, DEL ARTÍCULO 53 DE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+Primero.- Remítase a la persona Titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- Se derogan las disposiciones que se opongan al presente ordenamiento.
