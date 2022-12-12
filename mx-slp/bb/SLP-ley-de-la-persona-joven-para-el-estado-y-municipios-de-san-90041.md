@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2021-03-06"
+last_updated: "2022-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -949,9 +949,9 @@ XV. Fungir como representante del Ejecutivo del Estado en materia de la juventud
 
 XVI. Promover campañas para la difusión de los derechos de las personas jóvenes en el Estado de San Luis Potosí, y
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
-XVII. Concertar acuerdos y convenios de colaboración y coordinación con la Dirección General de Ejecución de Medidas para Menores, adscrita a la Secretaría de Seguridad Pública del Estado, para la implementación de los mecanismos de ejecución de medidas de orientación y protección de los jóvenes menores, y
+XVII. Concertar acuerdos y convenios de colaboración y coordinación con la Dirección General de Ejecución de Medidas para Menores, adscrita a la Secretaría de Seguridad y Protección Ciudadana, para la implementación de los mecanismos de ejecución de medidas de orientación y protección de los jóvenes menores, y
 
 XVIII. Las demás que señalen otras disposiciones legales y el Reglamento.
 
@@ -1362,3 +1362,11 @@ P.O. 6 DE MARZO DE 2021.
 PRIMERO. Este Decreto entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
