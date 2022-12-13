@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2022-11-18"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -287,7 +287,9 @@ VIII. Constituir el Consejo Consultivo Municipal de Turismo en términos de lo d
 
 IX. Celebrar convenios y acuerdos de coordinación y/o de colaboración con los sectores público, social y privado que sean necesarios para lograr el cumplimiento de sus atribuciones en materia turística, los cuales deberán publicarse en el Periódico Oficial del Estado;
 
-X. Crear y mantener áreas adecuadas para que sean utilizadas por personas con algún tipo de discapacidad, adultos mayores, etc., y tengan acceso a gozar de las actividades turísticas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+X. Crear y mantener áreas adecuadas para que sean utilizadas por personas con algún tipo de discapacidad, adultos mayores, para que tengan acceso a gozar de las actividades turísticas. Tratándose de aquellos destinos turísticos que hayan sido considerados como playas inclusivas derivado de la obtención de las certificaciones como playas limpias sustentables y Bandera Azul, otorgadas por las autoridades competentes, prestará además, de manera gratuita, servicios de andaderas y sillas anfibias, bastones y muletas para playa, formatos o señalética accesible, así como, llevar a cabo la capacitación de personal para brindar la atención de personas con discapacidad, en lenguas de señas mexicanas y primeros auxilios, además, contar con palapas exclusivas para personas con discapacidad adaptadas con rampas de madera dura y alfombra especial, entre otros;
 
 XI. Organizar y vigilar el cumplimiento de los programas de auxilio y asistencia al turista;
 
@@ -581,6 +583,38 @@ La Secretaría promoverá inversiones que tiendan a incrementar las instalacione
 
 Los Municipios destinarán una partida de su presupuesto anual para promover el Turismo Social.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO QUINTO BIS. DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DEL TURISMO ACCESIBLE
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 BIS.
+
+1. La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a la población con alguna discapacidad.
+
+2. Corresponde a la Secretaría, en coordinación con los Ayuntamientos de la Entidad que cuenten con playas susceptibles de ser inclusivas, promover la gestión, ante las autoridades e instancias correspondientes, de las certificaciones y distintivos para ser consideradas como playas limpias sustentables, y de Bandera Azul, a fin de garantizar que dichas playas cuenten con espacios adaptados y con señalética accesible para las personas con discapacidad y adultas mayores con movilidad reducida.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 TER.
+
+1. Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+
+2. La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
+
+3. La Secretaría, y los Municipios, supervisarán a través de su mecanismo de implementación y coordinación municipal, que lo dispuesto en dicho Capítulo se cumpla.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 QUÁTER.
+
+Los Municipios destinarán una partida de su presupuesto anual para promover la prestación del Turismo Accesible.
+
 ## TÍTULO SEXTO. DE LA PROMOCIÓN Y FOMENTO DEL TURISMO
 
 ### CAPÍTULO I. DE LA PROMOCIÓN TURÍSTICA
@@ -596,10 +630,6 @@ Los Municipios destinarán una partida de su presupuesto anual para promover el 
 ## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
 ### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
-
-## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
-
-### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 45.
 
@@ -639,7 +669,7 @@ VII. Cualquier otra actividad cuya finalidad sea la comunicación persuasiva par
 
 En la Promoción Turística y material promocional que edite la Secretaría, se dará preferencia a aquellos prestadores de servicios turísticos que en sus productos, servicios e instalaciones, así como en sus materiales gráficos y audiovisuales utilicen la marca turística de Tamaulipas.
 
-### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 50.
 
@@ -693,9 +723,9 @@ II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incid
 
 III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
 
-## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 55.
 
@@ -792,6 +822,10 @@ III. Se negará su renovación de inscripción al mismo.
 7. Los Módulos de Información Turística deberán estar ubicados en corredores turísticos y serán espacios de información y orientación al turista.
 
 8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
+
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+
+## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
@@ -1102,6 +1136,14 @@ El presente decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-407 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXXVII, Y SE ADICIONA LA FRACCIÓN XXXVIII, RECORRIENDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 5, DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-424 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
