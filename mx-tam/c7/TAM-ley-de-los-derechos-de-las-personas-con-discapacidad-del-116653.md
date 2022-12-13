@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2022-06-14"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -122,6 +122,10 @@ XXV.- Modelo Social: Conjunto de principios, fundamentos, directrices y concepto
 XXVI.- Persona con Discapacidad: Toda persona que por razón congénita o adquirida, presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, que le limitan la capacidad de realizar una o más actividades de la vida diaria, y que sea agravada por el entorno social y puede impedir su inclusión plena y efectiva en igualdad de condiciones con los demás;
 
 XXVII.- Perro Guía: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+XXVII BIS.- Playas inclusivas: Son aquellas playas para uso recreativo con señaléticas accesibles y certificadas como playas limpias sustentables, y que cuentan con distintivo Bandera Azul, y que permiten garantizar espacios adaptados para las personas con discapacidad y adultas mayores con movilidad reducida.
 
 XXVIII.- Prevención: La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales o a evitar que las deficiencias ya producidas tengan mayores consecuencias negativas;
 
@@ -639,7 +643,9 @@ Los Partidos Políticos con registro en el Estado de Tamaulipas deberán garanti
 
 Los Órganos de la Administración Pública del Estado de Tamaulipas, deberán promover en todo momento la participación activa de las personas con discapacidad o sus representantes en los órganos o mecanismos de consulta, sobre todo en aquellos en los que se tomen decisiones relativas a las personas con discapacidad.
 
-### CAPÍTULO XI. DE LA PARTICIPACIÓN EN LA VIDA CULTURAL, ACTIVIDADES RECREATIVAS Y EL DEPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XI. DE LA PARTICIPACIÓN EN LA VIDA CULTURAL, ACTIVIDADES TURÍSTICAS, RECREATIVAS Y EL DEPORTE
 
 ###### ARTÍCULO 40.
 
@@ -679,9 +685,15 @@ La Secretaría de Turismo promoverá el derecho de las personas con discapacidad
 
 I.- Establecer programas y normas a fin de que la infraestructura destinada a brindar servicios turísticos en el territorio estatal cuente con facilidades de accesibilidad universal;
 
-II.- Establecer programas para la promoción turística de las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
 
-III.- Las demás que dispongan otros ordenamientos.
+II.- Establecer programas para la promoción turística de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+III.- La Secretaría de Turismo del Estado en coordinación con los Ayuntamientos de la Entidad que cuenten con playas susceptibles de ser inclusivas, promoverá la gestión ante las autoridades e instancias correspondientes, las certificaciones y distintivos para ser consideradas como playas limpias sustentables, y Bandera Azul; y
+
+IV.- Las demás que dispongan otros ordenamientos.
 
 ## TÍTULO SEGUNDO. DEL SISTEMA INTERSECTORIAL DE PROTECCIÓN Y GESTIÓN INTEGRAL DE DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -1313,11 +1325,11 @@ Dentro de un plazo no mayor a 180 días naturales a partir de la entrada en vigo
 
 ###### ARTÍCULO TERCERO.
 
-Treinta días naturales antes de que los representantes de la Sociedad Civil que forman parte del Sistema lntersectorial concluyan su periodo como integrantes del mismo; la Secretaría Ejecutiva emitirá la Convocatoria Pública para la designación de los representantes de organizaciones estatales de y para personas con discapacidad del Consejo Consultivo Ciudadano, quedando a salvo los derechos de los representantes actuales para reelegirse.
+Treinta días naturales antes de que los representantes de la Sociedad Civil que forman parte del Sistema Intersectorial concluyan su periodo como integrantes del mismo; la Secretaría Ejecutiva emitirá la Convocatoria Pública para la designación de los representantes de organizaciones estatales de y para personas con discapacidad del Consejo Consultivo Ciudadano, quedando a salvo los derechos de los representantes actuales para reelegirse.
 
 ###### ARTÍCULO CUARTO.
 
-Ante la eventual renuncia de alguno de los representantes de la sociedad civil que formarán parte del Consejo Consultivo Ciudadano, el Secretario Ejecutivo del Sistema lntersectorial de Protección y Gestión Integral de derechos de las Personas con Discapacidad, emitirá Convocatoria para la designación de dicha vacante.
+Ante la eventual renuncia de alguno de los representantes de la sociedad civil que formarán parte del Consejo Consultivo Ciudadano, el Secretario Ejecutivo del Sistema Intersectorial de Protección y Gestión Integral de derechos de las Personas con Discapacidad, emitirá Convocatoria para la designación de dicha vacante.
 
 P.O. 20 DE AGOSTO DE 2019.
 
@@ -1410,3 +1422,11 @@ Los 43 Ayuntamientos de la Entidad tendrán hasta un año a partir de la entrada
 ###### ARTÍCULO TERCERO.
 
 Remítase a la Comisión de Derechos Humanos del Estado de Tamaulipas, para su seguimiento y atención, el presente Decreto, especialmente a lo referente en el Artículo Segundo Transitorio.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-424 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
