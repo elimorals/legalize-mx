@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-procedimientos-administrativos-sancionadores-1475
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-02-15"
-last_updated: "2021-02-15"
+last_updated: "2022-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2021-01-29"
 ---
 # REGLAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES EN MATERIA DE FISCALIZACION DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE FISCALIZACIÓN Y DE LIQUIDACIÓN Y SE EXPIDE EL REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. (IECM/ACU-CG-072/2022), PUBLICADO EN LA G.O. DE 13 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES EN MATERIA DE FISCALIZACIÓN DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Reglamento publicado en el Tomo I del Número 535 de la Gaceta Oficial de la Ciudad de México, el lunes 15 de febrero de 2021.
 
@@ -927,3 +929,57 @@ En caso de que el sujeto sancionado incumpla con la obligación de pagar las mul
 ÚNICO. En tanto no esté en operación el sistema para la realización de las notificaciones electrónicas éstas se realizarán de manera personal en los términos establecidos en el propio Reglamento.
 
 > <small>[N. DE E. VÉASE ANEXO ÚNICO EN LA G.O. DE 15 DE FEBRERO DE 2021, PÁGINA 274.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE ABROGAN DIVERSOS ORDENAMIENTOS EN MATERIA DE FISCALIZACIÓN Y DE LIQUIDACIÓN Y SE EXPIDE EL REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO. (IECM/ACU-CG-072/2022), PUBLICADO EN LA G.O. DE 13 DE DICIEMBRE DE 2022", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+A c u e r d o:
+
+PRIMERO. Se expide el "Reglamento de Fiscalización del Instituto Electoral de la Ciudad de México", en términos de los documentos Anexos, que forman parte integral del presente Acuerdo.
+
+SEGUNDO. Se abrogan los siguientes ordenamientos:
+
+1. Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales en la Ciudad de México, aprobado el 4 de septiembre de 2017 por el Consejo General, mediante Acuerdo IECM/ACU-CG-034/2017.
+
+2. Reglamento para la Fiscalización de los Recursos de las Organizaciones de Ciudadanos que manifiesten su interés en constituirse como Partido Político Local de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General, mediante Acuerdo IECM/ACU-CG-030/2017.
+
+3. Reglamento para la Fiscalización de los Recursos de las Organizaciones de Observadores Electorales, aprobado el 4 de agosto de 2017 por el Consejo General, mediante Acuerdo IECM/ACU-CG-031/2017.
+
+4. Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General, mediante Acuerdo IECM/ACU-CG-028/2017.
+
+5. Reglamento para la liquidación y disolución de las Asociaciones Civiles constituidas por las personas aspirantes y candidaturas sin partido en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General, mediante Acuerdo IECM/ACU-CG-014/2021.
+
+6. Reglamento de procedimientos administrativos sancionadores en materia de fiscalización en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General, mediante Acuerdo IECM/ACU-CG-015/2021.
+
+TERCERO. El presente Acuerdo entrará en vigor al momento de su publicación en los estrados de las oficinas centrales del Instituto Electoral y sus Anexos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Publíquese el presente Acuerdo y sus Anexos en los estrados de oficinas centrales, en los estrados electrónicos y para mayor difusión en las oficinas de las treinta y tres Direcciones Distritales de este Instituto Electoral.
+
+QUINTO. Publíquese el presente Acuerdo en la Página de Internet www.iecm.mx; realícense las adecuaciones procedentes en virtud de la determinación asumida por el Consejo General en el apartado de Transparencia de la citada página electrónica y difúndase la misma en las redes sociales en que este Instituto participa.
+
+SEXTO. Remítase el presente Acuerdo y sus Anexos a la Gaceta Oficial de la Ciudad de México para su publicación.
+
+T R A N S I T O R I O S
+
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Una vez que entre en vigor el presente acuerdo, se abrogan los siguientes ordenamientos:
+
+- Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales en la Ciudad de México, aprobado el 4 de septiembre de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-034/2017.
+
+- Reglamento para la Fiscalización de los Recursos de las Organizaciones de Ciudadanos que manifiesten su interés en constituirse como Partido Político Local de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-030/2017.
+
+- Reglamento para la Fiscalización de los Recursos de las Organizaciones de Observadores Electorales, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-031/2017.
+
+- Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto, mediante el Acuerdo IECM/ACU-CG-028/2017.
+
+- Reglamento para la liquidación y disolución de las Asociaciones Civiles constituidas por las personas aspirantes y candidaturas sin partido en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General del Instituto, mediante el Acuerdo IECM/ACU-CG-014/2021.
+
+- Reglamento de procedimientos administrativos sancionadores en materia de fiscalización en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General del Instituto, mediante el Acuerdo IECM/ACU-CG-015/2021.
+
+Tercero. Hasta en tanto entren en vigor las disposiciones contenidas en el presente Reglamento, los procedimientos que se encuentren en trámite serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Cuarto. Los Sujetos Obligados deberán generar los reportes conforme a los formatos establecidos en el presente Reglamento.
