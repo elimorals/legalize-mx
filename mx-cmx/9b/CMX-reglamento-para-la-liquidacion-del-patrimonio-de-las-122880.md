@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-liquidacion-del-patrimonio-de-las-122880"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2022-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122880&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO PARA LA LIQUIDACION DEL PATRIMONIO DE LAS ASOCIACIONES POLITICAS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 13 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LAS ASOCIACIONES POLÍTICAS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -1271,3 +1273,29 @@ ANEXOS
 PARTIDO POLÍTICO
 
 > <small>[N. DE E. VÉASE ANEXOS EN LA G.O. DE 16 DE AGOSTO DE 2017, PÁGINAS DE LA 294 A LA 311.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE DICIEMBRE DE 2022.
+
+[N. DE E TRANSITORIOS DEL “REGLAMENTO DE FISCALIZACIÓN DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Reglamento entrará en vigor al momento de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Una vez que entre en vigor el presente acuerdo, se abrogan los siguientes ordenamientos:
+
+- Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Locales en la Ciudad de México, aprobado el 4 de septiembre de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-034/2017.
+
+- Reglamento para la Fiscalización de los Recursos de las Organizaciones de Ciudadanos que manifiesten su interés en constituirse como Partido Político Local de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-030/2017.
+
+- Reglamento para la Fiscalización de los Recursos de las Organizaciones de Observadores Electorales, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto mediante el Acuerdo IECM/ACU-CG-031/2017.
+
+- Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas de la Ciudad de México, aprobado el 4 de agosto de 2017 por el Consejo General del Instituto, mediante el Acuerdo IECM/ACU-CG-028/2017.
+
+- Reglamento para la liquidación y disolución de las Asociaciones Civiles constituidas por las personas aspirantes y candidaturas sin partido en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General del Instituto, mediante el Acuerdo IECM/ACU-CG-014/2021.
+
+- Reglamento de procedimientos administrativos sancionadores en materia de fiscalización en la Ciudad de México, aprobado el 29 de enero de 2021 por el Consejo General del Instituto, mediante Acuerdo IECM/ACU-CG-015/2021.
+
+Tercero. Hasta en tanto entren en vigor las disposiciones contenidas en el presente Reglamento, los procedimientos que se encuentren en trámite serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Cuarto. Los Sujetos Obligados deberán generar los reportes conforme a los formatos establecidos en el presente Reglamento.
