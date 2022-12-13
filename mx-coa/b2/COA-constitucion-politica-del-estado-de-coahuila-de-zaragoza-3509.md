@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2022-09-29"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,13 +20,11 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]
-
-[NOTA 2: EL 5 DE ENERO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2022 Y SUS ACUMULADAS 145/2022, 146/2022, 148/2022, 150/2022 Y 151/2022, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 270 PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTINUEVE DE SEPTIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 20 DE ENERO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/]
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO UNO DEL DECRETO NÚMERO 255, PUBLICADO EN EL P.O. DE 29 DE JUNIO DE 2022, SE DECLARA LA INVALIDEZ Y SE DEJA SIN EFECTOS LISA Y LLANAMENTE EL DECRETO 193 MEDIANTE EL CUAL SE REFORMARON Y ADICIONARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2022.]</small>
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -120,11 +118,13 @@ Las personas son iguales ante la ley. Esta protegerá la organización y el desa
 
 Los derechos humanos son inalienables, imprescriptibles, irrenunciables, irrevocables y exigibles. En la aplicación e interpretación de las normas de derechos humanos prevalecerá el principio por persona.
 
-(NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2020)</small>
+El Estado reconoce a todos los pueblos indígenas que se han asentado, transitan y/o habitan en nuestro territorio, sin importar su origen o la época en que iniciaron su residencia o pertenencia originaria, y a los que descienden de poblaciones afromexicanas establecidas en territorio coahuilense; así como aquellas, que de manera enunciativa y no limitativa, sin tener establecimiento fijo o permanente, habitan o transitan de manera nómada y organizada para preservar su lenguaje, costumbres, tradiciones y cultura; a quienes se les brindarán todos los apoyos necesarios para la conservación y preservación de su lenguaje, cultura, costumbres, formas de subsistencia, además de garantizarles todos los derechos que los tratados internacionales y las leyes nacionales confieren a los pueblos y comunidades indígenas y afromexicanas en el territorio coahuilense.
 
-EL ESTADO RECONOCE A TODOS LOS PUEBLOS INDÍGENAS QUE SE HAN ASENTADO EN NUESTRO TERRITORIO, SIN IMPORTAR SU ORIGEN O LA ÉPOCA EN QUE INICIARON SU RESIDENCIA, Y A LOS TRIBALES QUE DESCIENDEN DE POBLACIONES AFROMEXICANAS, A ESTAS COMUNIDADES SE LES BRINDARÁN TODOS LOS APOYOS NECESARIOS PARA LA CONSERVACIÓN DE SU CULTURA, LENGUA, COSTUMBRES Y FORMAS DE SUBSISTENCIA, ADEMÁS DE GARANTIZARLES TODOS LOS DERECHOS QUE LOS TRATADOS INTERNACIONALES Y LAS LEYES NACIONALES CONFIEREN A LAS ETNIAS MEXICANAS. LOS PUEBLOS MASCOGO Y KICKAPOO GOZAN DEL RECONOCIMIENTO COMO COMUNIDADES INDÍGENAS Y AFROMEXICANAS DEL ESTADO DE COAHUILA DE ZARAGOZA PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES.
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+Los pueblos originarios y descendientes que habitan o transitan, y en su caso, se establezcan de manera fija, temporal o permanente en el territorio coahuilense, de manera enunciativa y no limitativa, como Negros Mascogos, Kikapú, Mazahua, la comunidad y/o nación N'dee/ N'nee/ Ndé, Seminoles, Irritila, Huachichil, la comunidad y/o nación Coahuilteca/Pakahua gozan del reconocimiento como pueblos y/o comunidades indígenas y afromexicanas del Estado de Coahuila de Zaragoza para todos los efectos legales correspondientes.
 
 (NOTA: EL 13 DE JULIO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 285/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 739 POR EL QUE SE ADICIONA EL CUARTO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)
 
@@ -1954,6 +1954,10 @@ III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la 
 
 IV. Nombrar, suspender y remover libremente a los secretarios del ramo, a los subsecretarios, a los directores de los diferentes ramos, a los Oficiales del Registro Civil y a todos los demás servidores públicos del Poder Ejecutivo, cuyo nombramiento, suspensión o remoción no estén determinados de otro modo en esta Constitución y las leyes.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+En caso de que el Gobernador del Estado resulte electo por una coalición electoral, podrá considerar que las designaciones a que se refiere el párrafo anterior se realicen de forma plural, de conformidad con las bases establecidas en el convenio de coalición previsto en la fracción XXX de este artículo, cuando se opte por dicha forma de gobierno.
+
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 V. Celebrar, con el carácter de Representante del Estado y con observancia de lo dispuesto en los ordenamientos legales aplicables, convenios y contratos que fueren favorables o necesarios en los diversos ramos de la Administración Pública, tanto con los Gobiernos Federal, Estatales y Municipales, como con entidades paraestatales y paramunicipales y personas físicas o morales de carácter público o privado.
@@ -2074,9 +2078,17 @@ XXVIII. A. Promover ante el Pleno del Tribunal Superior de Justicia, las controv
 
 XXIX. Emitir lineamientos y normatividad aplicable a la contabilidad gubernamental.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+XXX. En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos nacionales o estatales con registro vigente, con independencia de que estén o no representados en el Congreso del Estado.
+
+El gobierno de coalición se regulará por el convenio respectivo, del (sic) cual se deberá enviar al Congreso del Estado para su conocimiento.
+
+El convenio establecerá las bases y los acuerdos generales celebrados entre las fuerzas políticas coaligadas, así como las causas de disolución de este.
+
 > <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-XXX. Las demás que expresamente le concedan las Leyes.
+XXXI. Las demás que expresamente le concedan las Leyes.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
 
@@ -6097,3 +6109,25 @@ El Congreso del Estado deberá realizar las adecuaciones a las leyes secundarias
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 311.- SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV, Y SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XXX, RECORRIENDO EL CONTENIDO ACTUAL A LA FRACCIÓN XXXI, QUE SE CREA, DEL ARTÍCULO 82 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Una vez publicado el presente Decreto, el Congreso del Estado realizará las adecuaciones necesarias a la legislación secundaria.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado contará con noventa días a partir de la aprobación del presente Decreto, para implementar la ley reglamentaria.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 312.- SE REFORMA EL CUARTO PÁRRAFO, SE ADICIONA UN QUINTO PÁRRAFO RECORRIENDO LOS ULTERIORES, DEL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
