@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2022-06-14"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3147,9 +3147,21 @@ En todos los delitos previstos en este capítulo, además de la sanción de pris
 
 Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes:
 
-I.- Además de las sanciones que resulten por los delitos consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o privación para el caso de reincidencia; y
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
 
-II.- Estarán obligados a la reparación del daño por sus actos propios y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
+I.- Además de las sanciones que resulten por los delitos consumados, según sean dolosos o culposos, se les aplicará suspensión de un mes a dos años en el ejercicio de la profesión o privación para el caso de reincidencia;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+II.- Estarán obligados a la reparación del daño por sus actos propios y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+III.- Los supuestos y las penas que se refieren en la fracción I, se aplicarán cuando los prestadores de la salud, brinden su servicio bajo el influjo de sustancias tóxicas, embriagantes, estupefacientes o psicotrópicos;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+IV.- No existirá delito, ni se entenderá doloso o culposo, cuando el paciente presente efectos secundarios, complicaciones propias de los tratamientos indicados o cuando se realice todo lo necesario e idóneo para salvaguardar la integridad física o la vida del paciente.
 
 ###### ARTICULO 236.
 
@@ -3175,7 +3187,13 @@ I.- Impedir la salida de un paciente, cuando éste o sus familiares lo soliciten
 
 II.- Retener a un recién nacido por los motivos a que se refiere la parte final de la fracción anterior;
 
-III.- Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+III.- Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+IV.- Negar el ingreso, atención y estabilización a cualquier persona, en caso de urgencia.
 
 La misma sanción se impondrá a los encargados o administradores de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
@@ -6982,3 +7000,11 @@ P.O. 14 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-427 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
