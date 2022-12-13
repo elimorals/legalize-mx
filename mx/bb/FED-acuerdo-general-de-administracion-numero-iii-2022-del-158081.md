@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-iii-2022-del-158081"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2022-05-04"
-last_updated: "2022-05-04"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158081&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2022-04-27"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ABRIL DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECE LA POLÍTICA DE INCLUSIÓN Y LAS MEDIDAS GENERALES PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS PERSONAS CON DISCAPACIDAD EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en el Número 3 del Diario Oficial de la Federación, el miércoles 4 de mayo de 2022.
 
@@ -77,7 +77,9 @@ I. Accesibilidad: las medidas pertinentes, así como los sistemas y las tecnolog
 
 II. Acción afirmativa: la medida especial, específica y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Estas acciones se adecuarán a la situación que quiera remediarse y se implementarán de conformidad con el principio de proporcionalidad;
 
-III. Ajustes razonables: las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
+III. Ajustes razonables: las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad, así como personas cuidadoras o de apoyo, el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
 IV. Áreas: las previstas con tal carácter en el Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y los acuerdos generales de administración emitidos posteriormente;
 
@@ -115,6 +117,10 @@ XX. Personas con dificultad: las personas que se enfrentan a ciertas dificultade
 
 XXI. Personas con discapacidad: las personas que por una diversidad física, psicosocial, intelectual y/o sensorial, al interactuar con diversas barreras que la sociedad no ha sido capaz de eliminar, ven impedidas su inclusión y participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
+XXI Bis. Personas cuidadoras o de apoyo: las personas que desempeñen funciones de cuidado o apoyo directo a personas con discapacidad;
+
 XXII. SIRAP: el Sistema de Registro Administrativo de Personal;
 
 XXIII. Suprema Corte: la Suprema Corte de Justicia de la Nación;
@@ -135,7 +141,9 @@ I. Establecer las Medidas Generales que se implementarán al interior de la Supr
 
 II. Crear la Unidad de Inclusión Laboral y Derechos Humanos de las Personas con Discapacidad, que tiene como función principal guiar la implementación de las medidas generales, la cual estará adscrita a la Dirección General de Derechos Humanos de la Suprema Corte;
 
-III. Señalar las atribuciones de la Unidad de Inclusión Laboral y Derechos Humanos de las Personas con Discapacidad, así como las obligaciones a cargo de los órganos y áreas de la Suprema Corte para la debida implementación de las medidas pgenerales (sic), y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
+III. Establecer las atribuciones de la Unidad de Inclusión Laboral y Derechos Humanos de las Personas con Discapacidad, así como las obligaciones a cargo de los órganos y áreas de la Suprema Corte para la debida implementación de las medidas generales, y
 
 IV. Crear el Comité de Accesibilidad e Inclusión mediante el cual se coordinarán los esfuerzos entre los distintos órganos y áreas de la Suprema Corte para aprobar y unificar criterios sobre temas de mayor trascendencia, por considerarse acciones estructurales o institucionales, correspondientes a la accesibilidad y la inclusión laboral de las personas con discapacidad o con necesidad de algún ajuste razonable al interior de la institución.
 
@@ -179,9 +187,13 @@ b) Alcanzar y mantener el porcentaje del tres por ciento establecido como meta m
 
 c) Incrementar progresivamente la meta mínima;
 
-III. Implementación y administración de un sistema de registro que permita conocer el número y adscripción de todas las personas con discapacidad o con dificultades para realizar alguna actividad laboral que trabajen en la Suprema Corte, así como los ajustes razonables o ayudas técnicas que pudieran requerir;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
 
-IV. Establecimiento de un procedimiento para la solicitud de los ajustes razonables o ayudas técnicas que requiera el personal con discapacidad que trabaje en la Suprema Corte;
+III. Implementación y administración de un sistema de registro que permita conocer el número y adscripción de todas las personas con discapacidad o con dificultades para realizar alguna actividad laboral que trabajen en la Suprema Corte y de aquellas personas servidoras públicas cuidadoras o de apoyo, así como los ajustes razonables o ayudas técnicas que pudieran requerir, según corresponda;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
+IV. Establecimiento de un procedimiento para la solicitud de los ajustes razonables o ayudas técnicas que requiera, según corresponda, el personal con discapacidad y las personas cuidadoras o de apoyo, que trabajen en la Suprema Corte;
 
 V. Desarrollo de acciones que permitan la adopción del modelo social de la discapacidad, así como una cultura de inclusión y respeto a los derechos humanos de las personas con discapacidad para generar percepciones positivas y una mayor conciencia social respecto a ellas, promoviendo el reconocimiento de sus capacidades, méritos y habilidades, así como sus aportaciones en la Suprema Corte;
 
@@ -215,7 +227,9 @@ III. Analizar y determinar la procedencia de las solicitudes de ayudas técnicas
 
 IV. Gestionar con los órganos y áreas la ejecución de las ayudas técnicas y ajustes razonables que se estimen procedentes, siempre y cuando éstos puedan ser realizados internamente por alguna de ellas, sin necesidad de adquirir o tomar en arrendamiento bienes o contratar la prestación de servicios u obra pública, con cargo al presupuesto de la Suprema Corte;
 
-V. A solicitud expresa, brindar apoyo a los órganos y áreas en la implementación de ayudas técnicas y ajustes razonables para las personas con discapacidad;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
+V. A solicitud expresa, brindar apoyo a los órganos y áreas en la implementación de ayudas técnicas y ajustes razonables para las personas con discapacidad y para las personas cuidadoras o de apoyo, según corresponda;
 
 VI. Solicitar la opinión de procedencia a los órganos y áreas correspondientes cuando el personal adscrito a ellas solicite ayudas técnicas y ajustes razonables;
 
@@ -377,23 +391,31 @@ DESARROLLO DE LAS MEDIDAS GENERALES Y SU IMPLEMENTACIÓN
 
 ### CAPÍTULO OCTAVO. SISTEMA DE REGISTRO ADMINISTRATIVO DE PERSONAL
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 15.
 
 Características del SIRAP. La Suprema Corte contará con un Sistema de Registro Administrativo de Personal (SIRAP), el cual será administrado y operado de manera conjunta por la DGRH y la DGDH, mediante la Unidad de Inclusión.
 
 El SIRAP permitirá conocer el número de personas que laboran en la Suprema Corte que tienen una discapacidad y/o alguna dificultad para el desarrollo de sus actividades laborales, su adscripción, así como las ayudas técnicas y ajustes razonables que éstas requieran. Dicha información permitirá monitorear de manera constante y actualizada el porcentaje establecido como meta mínima de personas con discapacidad que trabajan en la Suprema Corte y proponer estrategias generales dirigidas a los órganos y áreas para incentivar su incremento anual y progresivo.
 
+Asimismo, el SIRAP permitirá conocer el número de personas cuidadoras o de apoyo, su adscripción, así como los ajustes razonables que requieran.
+
 El SIRAP servirá como una herramienta para fines estadísticos y de registro, así como el medio idóneo para solicitar las ayudas técnicas y ajustes razonables que las personas requieran para realizar sus actividades en igualdad de condiciones. Asimismo, proporcionará información relevante a la Unidad de Inclusión que le permitirá proponer la implementación de acciones afirmativas, estrategias y medidas institucionales que los diversos órganos y áreas podrían adoptar para fortalecer la contratación e inclusión de las personas con discapacidad en todos sus ámbitos de participación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DE ADMINISTRACIÓN X/2022, DEL CINCO DE DICIEMBRE DE DOS MIL VEINTIDOS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 13 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 16.
 
-Cuestionario. El SIRAP contará con un cuestionario dirigido al personal de la Suprema Corte, a fin de conocer si tienen alguna discapacidad y/o dificultad para realizar sus actividades laborales y, en su caso, si requieren una ayuda técnica o ajuste razonable.
+Cuestionario. El SIRAP contará con un cuestionario dirigido al personal de la Suprema Corte, a fin de conocer si tienen alguna discapacidad, dificultad para realizar sus actividades laborales y/o si son personas cuidadoras o de apoyo de una persona con discapacidad, así como, en su caso, si requieren una ayuda técnica o ajuste razonable, según corresponda.
 
 La DGRH comunicará a las personas de nuevo ingreso que cuentan con un plazo de treinta días naturales a partir de su ingreso a la Suprema Corte para contestar el cuestionario del SIRAP. Asimismo, la DGRH verificará que todo el personal de nuevo ingreso responda el cuestionario respectivo.
 
 El SIRAP estará disponible en todo momento a fin de que las personas que laboran en la Suprema Corte puedan actualizar su información en caso de sobrevenir un cambio en su condición de vida, una situación de discapacidad o una dificultad que constituya una barrera para realizar sus actividades en el ámbito laboral, así como la necesidad de solicitar una ayuda técnica o un ajuste razonable.
 
-Las personas servidoras públicas a las que les sobrevenga alguna situación que pueda dificultarles realizar sus actividades laborales de manera temporal y/o que requieran de algún apoyo técnico o ajuste razonable, podrán reportarlo a la brevedad posible en el SIRAP. Este reporte servirá como solicitud formal en términos del artículo 18 del presente Acuerdo General de Administración, a fin de que sea atendida por la Unidad de Inclusión y el órgano o área de la Suprema Corte a la que se encuentran adscritas, en el ámbito de sus atribuciones.
+Del mismo modo, el SIRAP estará disponible en todo momento para que las personas que llegaran a enfrentar una situación de desigualdad laboral derivada de su labor como persona cuidadora o de apoyo, se encuentren en posibilidad de solicitar un ajuste razonable.
+
+Las personas servidoras públicas a las que les sobrevenga alguna situación que pueda dificultarles realizar sus actividades laborales de manera temporal o alguna situación de desigualdad derivada de su labor como persona cuidadora o de apoyo, y requieran de algún apoyo técnico o ajuste razonable, según corresponda, podrán reportarla a la brevedad posible en el SIRAP. Este reporte servirá como solicitud formal en términos del artículo 18 del presente Acuerdo General de Administración, a fin de que sea atendida por la Unidad de Inclusión y el órgano o área de la Suprema Corte a la que se encuentran adscritas, en el ámbito de sus atribuciones.
 
 La DGRH y la Unidad de Inclusión, en colaboración, implementarán una campaña institucional anual para promover la actualización de la información en el SIRAP.
 
@@ -606,3 +628,17 @@ Así lo acordó y firma el Ministro Arturo Zaldívar Lelo de Larrea, Presidente 
 Ministro Presidente Arturo Zaldívar Lelo de Larrea.- Firmado electrónicamente.- Director General de Asuntos Jurídicos, Luis Fernando Corona Horta.- Firmado electrónicamente.
 
 EN LA CIUDAD DE MÉXICO A VEINTISIETE DE ABRIL DE DOS MIL VEINTIDÓS, EL MAESTRO LUIS FERNANDO CORONA HORTA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN LOS ARTÍCULOS 9, FRACCIÓN X, Y 35, FRACCIÓN XX, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN RELACIÓN CON EL NUMERAL SEGUNDO, FRACCIÓN I, DEL ACUERDO GENERAL DE ADMINISTRACIÓN NUMERO I/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL VEINTIOCHO DE ENERO DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICA ORGÁNICA Y FUNCIONALMENTE SU ESTRUCTURA ADMINISTRATIVA CERTIFICA: Que la presente copia constante de setenta fojas útiles, concuerda fiel y exactamente con el ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ABRIL DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECE LA POLÍTICA DE INCLUSIÓN Y LAS MEDIDAS GENERALES PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS PERSONAS CON DISCAPACIDAD EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, formalizado mediante Firma Electrónica Certificada del Poder Judicial de la Federación, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CINCO DE DICIEMBRE DE DOS MIL VEINTIDÓS, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISÉIS DE ABRIL DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECE LA POLÍTICA DE INCLUSIÓN Y LAS MEDIDAS GENERALES PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS DE LAS PERSONAS CON DISCAPACIDAD EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Las modificaciones al SIRAP que sean necesarias para dar cumplimiento al presente Acuerdo General de Administración, deberán quedar implementadas a más tardar el quince de diciembre de 2022.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración número III/2022, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiséis de abril de dos mil veintidós, por el que se establece la política de inclusión y las medidas generales para la protección de los derechos humanos de las personas con discapacidad en la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
