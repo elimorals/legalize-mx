@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2022-05-05"
+last_updated: "2022-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -812,6 +812,10 @@ Corresponde a la Secretaría vigilar y controlar la creación y funcionamiento d
 ###### ARTICULO 25.
 
 La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetarán a la Normas Oficiales Mexicanas, a lo dispuesto a esta ley y disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+
+Se exime de responsabilidades a los prestadores de la salud, cuando los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, no cuente con las condiciones, el equipamiento y el instrumental médico mínimo indispensable. En este supuesto, la responsabilidad recaerá en la institución de salud.
 
 ###### ARTICULO 26.
 
@@ -3834,3 +3838,11 @@ P.O. 5 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-427 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
