@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-del-estado-de-guanajuato-para-el-ejercicio-1533
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-31"
-last_updated: "2022-07-21"
+last_updated: "2022-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Parte del Número 261 del Periódico Oficial del Estado de Guanajuato, el viernes 31 de diciembre de 2021.
 
@@ -2347,21 +2347,21 @@ construcción $ 215.00
 
 3. Grúa $ 465.00
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 IV. Para el servicio especial de
 
 transporte, por mes o fracción de
 
 mes, a excepción del servicio
 
-especial de transporte ejecutivo,
+especial de transporte comercial
 
-comercial y de emergencia $ 56.00
+y de emergencia $56.00
 
 Tratándose de instituciones de seguridad o de servicio social, los permisos para prestar los servicios señalados en esta fracción están exentos del pago de este derecho.
 
-V. Para servicio especial de transporte
-
-ejecutivo, por año $ 2,638.00
+V. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2022)
 
 En materia de otros servicios de transporte
 
@@ -2385,11 +2385,15 @@ acredita como concesionarios o
 
 permisionarios $ 141.00
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 III. Prórrogas a vehículos del
 
 servicio público y especial de
 
-transporte $ 479.00
+transporte, así como del
+
+servicio de transporte privado $479.00
 
 IV. Autorización de depósitos de
 
@@ -2411,13 +2415,17 @@ transporte público y especial,
 
 por año y por flotilla $ 800.00
 
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 VII. Reconocimiento anual como
 
 Centro Capacitador de Operadores
 
 de los servicios público y especial
 
-de transporte $ 2,742.00
+de transporte, así como del servicio
+
+de transporte privado $2,742.00
 
 VIII. Actualización de estatus
 
@@ -2485,29 +2493,31 @@ XIX. Autorización de sitio o base
 
 de contratación $ 990.00
 
-XX. Por baja y alta de vehículo en
+XX. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2022)
 
-el Registro Estatal de Concesiones
+XXI. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2022)
 
-y Permisos del Transporte, para el
+XXII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2022)
 
-servicio especial de transporte
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-ejecutivo por siniestro, caso
+XXIII. Por la emisión anual
 
-fortuito o condiciones mecánicas $ 264.00
+del código de respuesta rápida $3,000.00
 
-XXI. Por reconocimiento de plataforma
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-tecnológica para gestión de servicios
+XXIV. Por la reposición del código
 
-de transporte $ 60,799.00
+de respuesta rápida $ 1,500.00
 
-XXII. Modificación o duplicado del
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-permiso del servicio especial de
+XXV. Por el uso anual de
 
-transporte ejecutivo $ 252.00
+la infraestructura digital
+
+estatal de transporte $1,500.00
 
 ### Capítulo VI. Servicios que presta la Secretaría de Infraestructura, Conectividad y Movilidad
 
@@ -2864,3 +2874,15 @@ P.O. 21 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 81 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022”.]
 
 Artículo Primero. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 167 DE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Descuento por el uso de la infraestructura digital estatal de transporte
+
+Artículo Segundo. Las personas prestadoras del servicio de transporte privado, así como las concesionarias y permisionarias del servicio público de transporte de personas en la modalidad de alquiler sin ruta fija "Taxi", se les aplicará el descuento del 100% por concepto del pago del derecho por el uso anual de la infraestructura digital estatal de transporte contemplado en el artículo 31, fracción XXV de esta Ley.
