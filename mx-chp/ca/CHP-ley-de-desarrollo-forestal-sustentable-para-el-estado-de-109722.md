@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-109722
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2015-07-01"
+last_updated: "2022-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 1 de julio de 2015.
 
@@ -35,7 +37,9 @@ Decreto Número 264
 
 La Honorable Sexagésima Quinta Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-Considerando...
+Considerando
+
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas ha tenido a bien emitir el siguiente Decreto de:
 
@@ -1998,3 +2002,23 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 30 días del mes de Junio del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 014 QUE EMITE LA SEXAGÉSIMA OCTAVA LEGISLATURA CORRESPONDIENTE A LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, expedida bajo el Decreto número 264, publicada en el Periódico Oficial número 187, Segunda Sección, Tomo III, de fecha uno de julio del año dos mil quince.
+
+Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural y la Secretaría de Protección Civil, en un término no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá someter a la consideración del Titular del Poder Ejecutivo del Estado, el proyecto de Reglamento de la misma, para efectos de su expedición y publicación correspondiente; en tanto, seguirán siendo aplicables, en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, publicado en el Periódico Oficial número 395, de fecha 19 de septiembre de 2018.
+
+Artículo Quinto.- Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes por el término en que fueron otorgados.
+
+Artículo Sexto.- El Consejo Estatal Forestal deberá quedar instalado, de acuerdo a su nueva conformación para el debido cumplimiento al presente Decreto, en un plazo de 30 días hábiles contados a partir de su publicación en el Periódico Oficial.
+
+Artículo Séptimo.- Todos los procedimientos y recursos administrativos relacionados con las materias del presente Decreto, que se hubieren iniciado con anterioridad a la fecha de entrada en vigor el presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
