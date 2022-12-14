@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2022-10-12"
+last_updated: "2022-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -113,7 +113,9 @@ Automóvil híbrido: aquellos automóviles eléctricos, que además cuenten con 
 
 Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
 
-Vehículo: a los automóviles: ómnibus, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos, automóviles híbridos y motocicleta.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+Vehículo: A los automóviles: autobuses, camiones y tractores no agrícolas tipo quinta rueda, las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos, automóviles híbridos y motocicleta.
 
 Peso bruto vehicular: es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
 
@@ -329,7 +331,9 @@ Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligad
 
 Los ejercicios fiscales coincidirán con el año de calendario.
 
-Cuando los contribuyentes inicien actividades con posterioridad al 1º de enero, en dicho año el ejercicio fiscal se considerará irregular, debiendo cumplir con el pago provisional del período en el que se encuentre el inicio de sus actividades y terminando el 31 de diciembre del año de que se trate.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+Se considerará irregular el ejercicio fiscal cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, debiendo cumplir con el pago definitivo del período en el que se encuentre el inicio de sus actividades y terminando el 31 de diciembre del año de que se trate.
 
 En los casos de que una sociedad entre en liquidación, sea fusionada o se escinda, se atenderá a las disposiciones establecidas en el Código Fiscal de la Federación.
 
@@ -499,7 +503,9 @@ Son obligaciones de los contribuyentes:
 
 I. Inscribirse en el Registro Estatal de contribuyentes ante la Secretaría a través de las Áreas de recaudación de ingresos que correspondan a su domicilio fiscal, en un plazo que no exceda de un mes de la fecha de iniciación de operaciones, observándose lo establecido en el reglamento de este Código;
 
-II. Presentar las declaraciones provisionales y anuales y pagar las contribuciones fiscales a las que están obligados en los términos que determinen las disposiciones hacendarías;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+II. Presentar las declaraciones definitivas y anuales y pagar las contribuciones fiscales a las que están obligados en los términos que determinen las disposiciones hacendarías.
 
 III. Llevar la contabilidad en los términos de la legislación federal y conservar en su domicilio a disposición de las autoridades hacendarias toda documentación relacionada con el cumplimiento de las disposiciones hacendarias; los contribuyentes cuyo domicilio fiscal este fuera del territorio del Estado de Chiapas, pero tengan un establecimiento, sucursal o local que utilicen para el desempeño de sus actividades deberán tener datos e información de su contabilidad relacionados con el cumplimiento de obligaciones de contribuciones locales, sin que por ello se considere que se lleva la contabilidad fuera del domicilio fiscal;
 
@@ -511,7 +517,9 @@ Los contribuyentes que, encontrándose sujetos a facultades de comprobación y n
 
 VI. Los contribuyentes que tengan obligaciones de presentar declaraciones de conformidad con este Código, continuarán haciéndolo en tanto no presenten los avisos a los que se refiere la fracción V de este artículo;
 
-VII. Tratándose de las declaraciones de pago provisional los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar o saldo a favor, así como la primera declaración sin pago. Cuando se presente una declaración de pago provisional sin impuesto a cargo o sin saldo a favor, se presumirá que no existe impuesto a pagar en las declaraciones de pagos provisionales posteriores y no se presentarán las siguientes declaraciones de pago provisional del ejercicio de que se trate, hasta que exista cantidad a pagar o saldo a favor en alguna de ellas o se inicie un nuevo ejercicio, siempre y cuando, la declaración sin pago haya sido presentada en tiempo y forma;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+VII. Tratándose de las declaraciones definitivas, los contribuyentes deberán presentar dichas declaraciones aun cuando no haya cantidad a pagar o saldo a favor.
 
 VIII. Los contribuyentes con domicilio en la Entidad que detenten la propiedad, posesión o el uso de vehículos, deben solicitar su inscripción dentro del Registro Estatal de Vehículos ante la Secretaría, a través de las áreas de recaudación de ingresos dentro del plazo estipulado en el artículo 36 fracciones I y III de este Código. Cuando por cualquier motivo un contribuyente deje de estar dentro de los supuestos a los que se refieren las fracciones indicadas en la presente fracción, deberán inscribirse dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
 
@@ -721,9 +729,11 @@ Se aceptarán como medios de pago, el efectivo, los cheques certificados o de ca
 
 Cuando la situación económica de los contribuyentes sea insuficiente para cubrir los créditos fiscales, la Secretaría podrá celebrar convenios con aquellos en relación al pago de dichos créditos, mismos que se suscribirán en los términos que fije la propia Secretaría de acuerdo con el presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 41.
 
-Las autoridades hacendarias, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y determinadas y de sus accesorios, así como los créditos fiscales y sus accesorios derivados de las determinaciones que realicen los órganos estatales de fiscalización para el resarcimiento de daños al erario estatal y multas, así como las que emitan las autoridades administrativas y judiciales, sin que dicho plazo exceda de doce meses para pago diferido y de veinticuatro meses para pago en parcialidades, siempre y cuando los contribuyentes:
+Las autoridades hacendarias, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y determinadas y de sus accesorios, las que se deriven de las sanciones determinadas por facultades de comprobación y fiscalización y sus accesorios, así como los créditos fiscales y sus accesorios derivados de las determinaciones que realicen los órganos estatales de fiscalización para el resarcimiento de daños al erario estatal y multas, así como las que emitan las autoridades administrativas y judiciales, sin que dicho plazo exceda de doce meses para pago diferido y de veinticuatro meses para pago en parcialidades, siempre y cuando los contribuyentes:
 
 I. Presenten el formato que establezca para tales efectos la Secretaría.
 
@@ -899,7 +909,9 @@ No obstante lo dispuesto en el párrafo anterior, el contribuyente podrá modifi
 
 I. Cuando sólo incrementen sus ingresos o las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado.
 
-II. Cuando sólo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+II. Cuando sólo disminuyan sus deducciones o pérdidas o reduzcan las cantidades acreditables o compensadas o los pagos definitivos o de contribuciones a cuenta.
 
 III. Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
 
@@ -1117,9 +1129,11 @@ Las solicitudes de revocación a que se refiere el artículo 17-H del citado Có
 
 Cuando en términos del artículo 17-I del Código Fiscal de la Federación, la integridad y autoría de un documento digital con firma electrónica avanzada o sello digital será verificable mediante el método de remisión al documento original con la clave pública del autor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 62.
 
-Las autoridades hacendarias podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias, así como en los avisos de compensación correspondientes, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones y avisos.
+Las autoridades hacendarias podrán solicitar a los contribuyentes, responsables solidarios o terceros, datos, informes o documentos adicionales, que consideren necesarios para aclarar la información asentada en las declaraciones de pago definitivo, del ejercicio y complementarias, así como en los avisos de compensación correspondientes, siempre que se soliciten en un plazo no mayor de tres meses siguientes a la presentación de las citadas declaraciones y avisos.
 
 Las personas antes mencionadas deberán proporcionar la información solicitada dentro de los quince días siguientes a la fecha en la que surta efectos la notificación de la solicitud correspondiente.
 
@@ -1149,7 +1163,9 @@ III. En los demás casos, quince días contados a partir del siguiente a aquél 
 
 Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones hacendarías, las autoridades exigirán la presentación del documento respectivo ante las oficinas correspondientes procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
-I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio fiscal, podrá hacerse efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o la que resulte para dichos períodos de la determinación formulada por la autoridad según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+I. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea definitivo o del ejercicio fiscal, podrá hacerse efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o la que resulte para dichos períodos de la determinación formulada por la autoridad según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones. Esta cantidad a pagar tendrá el carácter de pago definitivo y no libera a los obligados de presentar la declaración omitida.
 
 Cuando la omisión sea de una declaración de las que se conozca de una manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia Secretaría podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
 
@@ -1171,7 +1187,9 @@ II. Se presentó o debió haberse presentado declaración o aviso que correspond
 
 III. Se hubiere cometido la infracción a las disposiciones hacendarias; pero si la infracción fuese de carácter continuo o continuado, el término correrá a partir del día siguiente al que se hubiese cesado la consumación o se hubiese realizado la última conducta o hecho respectivamente.
 
-El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud de inscripción ante la Secretaría, al Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no se requiera, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos provisionales.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud de inscripción ante la Secretaría, al Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas; en este último caso el plazo de diez años se computará a partir del día siguiente a aquel en que se debió haber presentado la declaración del ejercicio. En los casos en que posteriormente el contribuyente en forma espontánea presente la declaración omitida y cuando ésta no se requiera, el plazo será de cinco años, sin que en ningún caso este plazo de cinco años, sumado al tiempo transcurrido entre la fecha en que debió presentarse la declaración omitida y la fecha en que se presentó espontáneamente, exceda de diez años. Para los efectos de este artículo las declaraciones del ejercicio no comprenden las de pagos definitivos.
 
 En los casos de responsabilidad solidaria a que se refiere la fracción III del artículo 35 de este Código el plazo será de tres años a partir de que la garantía del interés fiscal resulte insuficiente.
 
@@ -1937,9 +1955,9 @@ En el caso de notificaciones por correo electrónico, el acuse de recibo consist
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos a los referidos en la fracción anterior.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin dar el aviso de cambio de domicilio y en los demás casos que señalen las leyes hacendarías y este Código; misma que se efectuará fijando durante seis días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la Secretaría; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin dar el aviso de cambio de domicilio y en los demás casos que señalen las leyes hacendarías y este Código; misma que se efectuará fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezca la Secretaría; dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del séptimo día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión; se hará mediante publicaciones en cualquiera de los siguientes medios:
 
@@ -3265,7 +3283,9 @@ Igual sanción se aplicará al que dolosamente altere o destruya las máquinas r
 
 Comete el delito de falsificación o uso de medios de control fiscal, el particular o servidor público que:
 
-I. Sin autorización de la Secretaría grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquellos las matrices, punzones, dados, clichés, negativos, calcomanías, tarjetas de circulación, placas o comprobantes de pago, que se utilicen como medio de control fiscal, o los use, los ponga en circulación, los enajene o transmita; y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+I. Sin autorización de la Secretaría grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquellos las matrices, punzones, dados, clichés, negativos, calcomanías, tarjetas de circulación, placas, licencias de conducir, comprobantes de pago o cualquier otro efecto valorado, que se utilicen como medio fiscal, o los use, los ponga en circulación, los enajene o transmita.
 
 II. A sabiendas de su falsificación los ostente como pago de contribuciones, en perjuicio del erario estatal.
 
@@ -3377,13 +3397,13 @@ Son responsables solidarios del pago de este impuesto quienes contraten o reciba
 
 El impuesto se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 232.
 
-Están obligados a efectuar la retención del impuesto, las personas físicas o morales, la Federación, el Estado, Municipio, sus dependencias y organismos descentralizados, desconcentrados y órganos autónomos que otorguen contratos de obra privada, pública o de prestación de servicios, con personas físicas o morales.
+Están obligados a efectuar la retención del impuesto, las personas físicas o morales, la Federación, el Estado, Municipio, sus dependencias y organismos descentralizados, desconcentrados y órganos autónomos que otorguen contratos de obra privada, pública o de prestación de servicios, con personas físicas o morales, aun cuando el servicio se lleve a cabo vía remota a través de plataformas virtuales.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-Los retenedores del impuesto sobre nómina efectuarán la retención de la tasa del 2% en el momento en que se lleven a cabo los pagos de las estimaciones de ejecución o avances de obras o prestación de servicios a los sujetos del citado impuesto.
+Los retenedores del impuesto sobre nóminas efectuarán la retención de la tasa del 2% en el momento en que se lleven a cabo los pagos de las estimaciones de ejecución o avances de obras o prestación de servicios a los sujetos del citado impuesto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -3391,9 +3411,11 @@ Los retenedores del impuesto sobre nómina efectuarán la retención de la tasa 
 
 El monto de las contribuciones a retener se determinará conforme lo establece el artículo 9º del Reglamento de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 234.
 
-El retenedor efectuará la retención del impuesto en el momento en que se lleven a cabo los pagos de las estimaciones de ejecución o avance de obras o prestación de servicios a los sujetos del impuesto, y lo enterará mediante declaración, conjuntamente con los pagos provisionales que corresponda al periodo en que se efectúe la retención.
+El retenedor efectuará la retención del impuesto y lo enterará mediante declaración, conjuntamente con los pagos definitivos que corresponda al periodo en que se efectúe la retención.
 
 Los retenedores de este impuesto presentarán declaración anual, de la retención efectuada, a más tardar en el mes de abril de cada año, mediante los formatos autorizados por la Secretaría.
 
@@ -3409,15 +3431,17 @@ Es base de este impuesto el monto de los pagos señalados en el artículo 229 de
 
 Los contribuyentes del Impuesto Sobre Nóminas determinarán y pagarán el impuesto aplicando la tasa del 2% sobre la base gravable señalada en este artículo.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 236.
 
-El pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva, en el área de recaudación de ingresos correspondiente, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre. Se presentará la declaración anual, que tendrá el carácter de informativa, del período del primero de enero al 30 de abril de cada año. Para realizar los pagos referidos se utilizarán las formas autorizadas por la Secretaría.
+El pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva, dentro de los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre. Se presentará la declaración anual, que tendrá el carácter de informativa, del período del primero de enero al 30 de abril de cada año. Para realizar los pagos referidos se utilizarán las formas autorizadas por la Secretaría.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 237.
 
-Los contribuyentes del impuesto, deberán formular declaraciones aún cuando no hubieran realizado las erogaciones a que se refiere el párrafo anterior, en el periodo de que se trate, hasta en tanto no presente el aviso de baja o de suspensión temporal de actividades al padrón.
+Los contribuyentes del impuesto, deberán formular declaraciones continuas, aun cuando no hubieran realizado las erogaciones a que se refiere el artículo anterior, en el periodo de que se trate, hasta en tanto no presente el aviso de baja o de suspensión temporal de actividades al padrón.
 
 ###### Artículo 238.
 
@@ -3535,7 +3559,9 @@ Están exceptuadas del pago de este impuesto, las personas físicas y morales qu
 
 La base de este impuesto es el valor total del vehículo según factura expedida por el fabricante, ensamblador o distribuidor al consumidor por vez primera.
 
-A falta de la factura original a la que hace referencia el párrafo anterior, se estará a los valores que para tal efecto especifique la propia Secretaría que en ningún caso podrá ser menor al valor de mercado en el momento de la operación.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+A falta de la factura original a la que hace referencia el párrafo anterior, o existan facturas subsecuentes a la expedida por vez primera, se estará a los valores que para tal efecto especifique la propia Secretaría que en ningún caso podrá ser menor al valor de mercado en el momento de la operación.
 
 Los contribuyentes que adquieran vehículos automotores usados, determinarán y pagarán el impuesto correspondiente, aplicando la tasa del 1% sobre la base gravable señalada en el presente artículo.
 
@@ -4019,35 +4045,17 @@ El Fondo General de Participaciones se constituirá con las cantidades que resul
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo General de Participaciones, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 274.
 
-El Fondo de Fomento Municipal se constituirá con las cantidades que resulten de la fracción II del artículo 272 de este Código y se distribuirá a los Municipios conforme al procedimiento y fórmula siguientes:
+El Fondo de Fomento Municipal se constituirá con las cantidades que resulten de la fracción II, del artículo 272 de este Código y se distribuirá a los Municipios conforme al procedimiento y fórmula siguientes:
 
-I Con la cantidad equivalente del Fondo de Fomento Municipal, asignada a los Municipios en el año 2015.
+I. Con la cantidad equivalente del Fondo de Fomento Municipal, asignada a los Municipios en el año 2015.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+II. El excedente del ejercicio actual con relación al 2015, se distribuirá con base en lo siguiente:
 
-II El excedente del ejercicio actual con relación al 2015, se distribuirá con base en lo siguiente:
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-40% C1: En proporción a la población de cada Municipio, respecto al total de habitantes del Estado.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-15% C2: Con base al incremento promedio de tres períodos en la recaudación del impuesto predial, con un máximo de hasta el doble de la recaudación, respecto a la suma total del Estado.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-20% C3: En función a la proporción que represente la recaudación del impuesto predial y derechos por suministro de agua, en el último año de la información validada por la SHCP para el cálculo, respecto a la suma total del Estado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-25% C4: Para los Municipios que suscribieron convenio con el Estado, en materia de impuesto predial; en proporción a la recaudación de este impuesto, en el último año de la información validada por la SHCP para el cálculo, respecto a la suma total de los mismos
-
-> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2019, PÁGINAS DE LA 37 A LA 39.]</small>
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. 14 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31 A LA 32.]</small>
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones del Fondo de Fomento Municipal, sean iguales o menores a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente recibida por el Estado en el año de cálculo, en proporción al monto asignado para cada Municipio en el año 2015.
 
@@ -4823,79 +4831,17 @@ La planeación, programación, presupuestación, ejercicio, control y evaluació
 
 Los Órganos Ejecutores de los Poderes Legislativo y Judicial, así como los Órganos Autónomos a través de sus áreas correspondientes, son responsables de la planeación, programación, presupuestación, contabilidad, ejercicio, control y rendición de cuentas del Presupuesto de Egresos que se les asignen en cada ejercicio fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 339.
 
 Los Organismos Públicos, son responsables de la planeación, programación, presupuestación, contabilidad, ejercicio, control y rendición de cuentas de sus programas, proyectos y actividades, así como de la administración eficiente y eficaz del ejercicio de los recursos con especial atención a los parámetros de medición y evaluación del desempeño, el grado de cumplimiento de objetivos y metas con base en indicadores que permitan evaluar los resultados obtenidos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
 Para efectos de registro presupuestario y contable, los Organismos Públicos, deben utilizar el sistema presupuestario que provea la Secretaría, a fin de sistematizar, homogeneizar y obtener información veraz, confiable y oportuna, que permita la rendición de cuentas y transparencia del ejercicio de los recursos públicos.
 
 La Secretaría efectuará revisión selectiva de los elementos cualitativos e impulsará disposiciones y acciones de reformas en política presupuestaria y contable, así como la modernización de los sistemas para el registro, seguimiento, control e integración del gasto público, sus avances y rendición de cuentas.
 
 Los Organismos Públicos en el ejercicio de sus recursos, para el desarrollo de sus atribuciones, están obligados a registrar la orientación e impacto de sus recursos, programas y proyectos, con base a la metodología y sistemas emitidos por la Secretaría.
-
-En relación a los recursos federales transferidos, los Organismos Públicos observarán las disposiciones jurídicas aplicables y se sujetarán a la presentación de la información financiera que dichas disposiciones establezcan; en los programas en que concurra recursos federales, estatales, y en su caso, municipales, se harán las anotaciones respectivas identificando el monto correspondiente a cada orden de gobierno.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
-
-La información del ejercicio y destino del gasto federalizado así como, respecto al reintegro de los recursos federales no devengados por los Organismos Públicos, para efectos de los informes trimestrales y la Cuenta Pública deben presentarse en los formatos aprobados por el CONAC.
-
-Para dar cumplimiento a las disposiciones federales relacionadas con los recursos federalizados, debe de observarse lo siguiente:
-
-I. Los Organismos Públicos son responsables de:
-
-a. Administrar y registrar los recursos conforme a la normatividad correspondiente.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2021)</small>
-
-b) Informar y validar trimestralmente sobre el ejercicio, destino y resultados obtenidos, a través del Sistema de Reporte de Recursos Federales Transferidos establecido por la Secretaría de Hacienda y Crédito Público, en los veinticinco días naturales posteriores a la terminación de cada trimestre del ejercicio fiscal.
-
-Dicha información debe contener como mínimo los siguientes rubros:
-
-1. Grado de avance en el ejercicio de los recursos federales transferidos.
-
-2. Recursos aplicados conforme a reglas de operación, y en el caso de recursos locales, a las demás disposiciones aplicables.
-
-3. Proyectos, metas y resultados obtenidos con los recursos aplicados.
-
-4. La demás información de acuerdo a las disposiciones legales vigentes.
-
-c. Atender las observaciones de la Secretaría, dentro de los cinco días naturales posteriores al plazo señalado en el inciso anterior, a efecto de coadyuvar con la calidad de la información. Asimismo, de existir observaciones de las dependencias y entidades federales, deben atenderse dentro de los cinco días naturales posteriores a los veinte días naturales después de terminado el trimestre respectivo.
-
-d. Enviar informes definitivos sobre el ejercicio, destino y resultados y, en su caso, reintegros de los recursos federales que les fueron transferidos durante el ejercicio fiscal, en los plazos que determine la Secretaría de Hacienda y Crédito Público.
-
-e. Resolver lo que corresponda en casos de observación o recomendación de las autoridades de fiscalización y control.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-f) Responsabilizarse de la información que registren en el Sistema de Reporte de Recursos Federales Transferidos.
-
-g. En términos de lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, Ley de Coordinación Fiscal y la Ley General de Contabilidad Gubernamental, deben de informar de forma pormenorizada sobre el avance físico de las obras y acciones respectivas, y en su caso, la diferencia entre el monto de los recursos transferidos y aquellos erogados, así como los resultados de las evaluaciones que se hayan realizado.
-
-h. Generar y publicar en su respectiva página de Internet la información financiera conforme a las normas, estructura, formatos y contenido de la información que para tal efecto establezca el CONAC.
-
-i. Presentar a la Secretaría, durante el primer cuatrimestre de cada año, el informe del avance de la implantación y operación del Presupuesto basado en Resultados y del Sistema de Evaluación del Desempeño, para cumplir con las normas, metodologías, lineamientos y con los formatos que establezca el CONAC, para armonizar la elaboración y presentación de la información financiera.
-
-j. Publicar en sus respectivas páginas de Internet a más tardar el último día hábil de abril su programa anual de evaluaciones, así como las metodologías e indicadores de desempeño; asimismo publicar en Internet a más tardar a los 30 días posteriores a la conclusión de las evaluaciones, los resultados de las mismas e informar sobre las personas que realizaron dichas evaluaciones.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
-
-k. Gestionar ante el SIAFF, el alta de los beneficiarios del pago de recursos federales etiquetados en el Catálogo de Beneficiarios y Cuentas Bancarias.
-
-II. La Secretaría es responsable de:
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-a) Remitir a la Secretaría de Hacienda y Crédito Público a través del Sistema de Reporte de Recursos Federales Transferidos, la información capturada por los Organismos Públicos de los avances, ejercicio y destino de los recursos federales y revisar de forma selectiva la información correspondiente, a más tardar a los cinco días naturales posteriores a la fecha señalada en el inciso b. de la fracción I de este artículo.
-
-b) Publicar los informes trimestrales y ponerlos a disposición del público en general a través de su página electrónica de Internet o de otros medios locales de difusión, a más tardar a los cinco días hábiles posteriores que el Ejecutivo Federal lo entregue al Congreso de la Unión.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-III. Cerrado el plazo de captura y revisión del Sistema de Reporte de Recursos Federales Transferidos, la Secretaría de Hacienda y Crédito Público retoma de este sistema, la información para ser integrada, y una vez revisada por las dependencias federales coordinadoras de los fondos, es entregada al Congreso de la Unión.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
@@ -4911,7 +4857,9 @@ a) Capturar, validar y enviar su información a más tardar a los quince días n
 
 b) La información que se registre en el Sistema, debe contener los rubros que señala el artículo 72 de la Ley General de Contabilidad Gubernamental.
 
-c) Atender las observaciones de la Secretaría, dentro de los cinco días naturales posteriores al plazo señalado en el inciso anterior, para efectos de asegurar la calidad de la información.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+c) Atender las observaciones de la Secretaría, dentro de los cinco días naturales posteriores al plazo señalado en el inciso a) de esta fracción, para efectos de asegurar la calidad de la información.
 
 d) Atender las observaciones de las dependencias y entidades federales, debiendo ser subsanadas a más tardar dentro de los cinco días naturales posteriores a los veinte días naturales después de terminado el trimestre que corresponda.
 
@@ -4975,45 +4923,29 @@ El gasto público estatal se determina con base al presupuesto que se formula co
 
 Artículo 342 A.- El Presupuesto de Egresos deberá registrarse a nivel de Proyecto, desglosándose todos los gastos de los Servicios Personales, Materiales y Suministros, Servicios Generales, y todos aquellos recursos asociados al cumplimiento de su operatividad y función, así como de sus objetivos, indicadores y metas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 343.
 
-La Secretaría, al integrar el Proyecto de Presupuesto de Egresos de los Organismos Públicos, cuidará la asignación de las fuentes de financiamientos establecidas en la Iniciativa de la Ley de Ingresos y en apego a los Clasificadores Presupuestarios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+La Secretaría, al integrar el Proyecto de Presupuesto de Egresos estará en equilibrio con el ingreso, asignando a cada Organismo Público los recursos respectivos de acuerdo a los fondos establecidos en la Iniciativa de la Ley de Ingresos y en apego a los Clasificadores Presupuestarios.
 
 Lo anterior no será aplicable al Poder Judicial, quien conforme a lo dispuesto en el artículo 73 de la Constitución Política del Estado Libre y Soberano de Chiapas, elaborará su Proyecto de Presupuesto de Egresos y lo enviará a través del Consejo de la Judicatura, al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 344.
 
 El Presupuesto de Egresos de los Órganos Ejecutores que integran los Poderes Ejecutivo y Legislativo, así como el de los Órganos Autónomos, se presenta por ejercicio fiscal a iniciativa del Gobernador del Estado. Para el caso de los Órganos Ejecutores que integran el Poder Judicial, el Proyecto de Presupuesto de Egresos será presentado al Congreso del Estado, en términos de lo dispuesto en las fracciones I, III, IV, V, VI, VII, XIV, XV, XVI y XVII del artículo 349 de éste Código y demás disposiciones vigentes. En ambos casos, será examinado, discutido y aprobado por el Congreso del Estado, para su aplicación durante el periodo de un año, a partir del primero de enero.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
 La iniciativa de Ley de Ingresos; el Proyecto de Presupuesto de Egresos; el Decreto de Presupuesto de Egresos y demás documentos que dispongan los ordenamientos legales, deberán publicarse en las respectivas páginas de Internet.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 Los ordenamientos a que se refiere el párrafo anterior, una vez que hayan sido aprobados por el Poder Legislativo, así como los dictámenes, acuerdos de comisión y, en su caso, actas de aprobación correspondientes conforme al marco jurídico aplicable, deberán publicarse en las respectivas páginas de Internet.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2021)</small>
+La Ley de Ingresos y el Presupuesto de Egresos aprobados por el Congreso del Estado, así como los anexos de información, deberán publicarse en el Periódico Oficial a más tardar el 31 de diciembre.
 
-El Presupuesto de Egresos Aprobado Calendarizado se comunicarán oficialmente:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-I. En los primeros 10 días hábiles posteriores a la aprobación del Presupuesto de Egresos.
-
-II. Si es aprobado antes del 10 de octubre, se comunicará a más tardar el 30 de noviembre.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+Dentro de los 10 días hábiles posteriores a la publicación del Presupuesto de Egresos en el Periódico Oficial, la Secretaría deberá comunicar a los Organismos Públicos el Presupuesto de Egresos Aprobado Calendarizado.
 
 La Secretaría y los Municipios deben publicar en sus respectivas páginas de Internet los calendarios del Presupuesto de Egresos con base mensual, en los formatos y plazos que determine el CONAC.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría elaborará y difundirá en su respectiva página de Internet, los documentos dirigidos a la ciudadanía que expliquen de manera sencilla y en formatos accesibles, el contenido de la información financiera, relativa al Presupuesto de Egresos.
 
@@ -5249,19 +5181,19 @@ La aprobación y ejecución de nuevas obligaciones financieras, se realizará en
 
 La Secretaría publicará en el Periódico Oficial y en su página de Internet, los anexos de información del ingreso, del gasto y demás información que corresponda, dentro de los 30 días naturales posteriores a la aprobación de la Ley de Ingresos y del Presupuesto de Egresos, en cumplimiento de las disposiciones, normas y formatos emitidos por el CONAC y demás instancias de consulta autorizadas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 351.
 
-La Secretaría emitirá lineamientos, asimismo entregará el sistema computarizado, los techos de gasto y establecerá plazos que permitan a los Organismos Públicos, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
+La Secretaría emitirá lineamientos, asimismo entregará el sistema computarizado, los techos de gasto, establecerá plazos y/o disposiciones administrativas de carácter general que permitan a los Organismos Públicos, elaborar su respectivo Anteproyecto de Presupuesto de Egresos para el ejercicio fiscal que corresponda.
 
-Los Organismos Públicos, deberán elaborar sus Anteproyectos de Presupuesto de Egresos, con sujeción a la normatividad, techo de gasto y plazos establecidos, y los remitirán a la Secretaría de manera oficial y a través del sistema correspondiente.
+Los Organismos Públicos deberán elaborar sus Anteproyectos de Presupuesto de Egresos con sujeción de las disposiciones administrativas de carácter general, a la normatividad, al techo de gasto y plazos establecidos, con el objeto que dichos Anteproyectos sean compatibles con los Clasificadores Presupuestarios, debiendo ser remitidos a la Secretaría de manera oficial y a través del sistema correspondiente.
+
+En la integración del Anteproyecto de Presupuesto de Egresos y durante el ejercicio presupuestario, los Organismos Públicos deberán realizar el registro del Presupuesto a nivel de partida específica de gasto en el que se identifique el consumo de bienes y servicios que permita el control, la disciplina, la programación, la toma de decisiones, la rendición de cuentas y la transparencia.
 
 Los Organismos Públicos son responsables de elaborar y definir el calendario de su presupuesto a nivel de partida específica de gasto, desde la fase de integración de su Anteproyecto de Presupuesto de Egresos, en términos a lo que establezca el Reglamento del Código.
 
-La Secretaría, está facultada para formular e integrar el Anteproyecto de Presupuesto de Egresos, cuando los Organismos Públicos no lo presenten en los plazos, términos y techos de gasto establecidos; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2022)</small>
+La Secretaría, está facultada para formular e integrar el Anteproyecto de Presupuesto de Egresos, cuando los Organismos Públicos no lo presenten en los plazos, así como en términos de las disposiciones aplicables y techos de gasto establecidos; si se excede en este último, podrá no recibir dicho Anteproyecto y en su caso realizar los ajustes que correspondan.
 
 El Proyecto de Presupuesto de Egresos debe ser presentado por la Secretaría al Gobernador del Estado a más tardar el 30 de noviembre de cada ejercicio fiscal, para su oportuno envío al Congreso del Estado, excepto cuando haya cambio de administración sexenal, en cuyo caso, será a más tardar el 15 de diciembre.
 
@@ -5335,17 +5267,17 @@ V. Validación del Organismo Público normativo y en su caso del Órgano de Gobi
 
 Los Organismos Públicos podrán celebrar contratos de Asociación Público-Privada en que su vigencia rebase el ejercicio fiscal en términos de la Ley de Asociaciones Público Privadas para el Estado de Chiapas en cuyo caso, los presupuestos de los ejercicios subsecuentes considerarán los costos que en su momento se encuentren vigentes o los que se pacten en el contrato y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores con motivo de los contratos celebrados.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 357.
 
-En la reasignación de recursos humanos, materiales y financieros a programas y proyectos, es responsabilidad de los Organismos Públicos y/o la Coordinadora de Sector, la definición, soporte y justificación correspondiente; la Secretaría y en su caso el Organismo Público normativo que corresponda, determinará la procedencia.
+En la reasignación de recursos humanos, materiales y financieros a programas y proyectos, es responsabilidad de los Organismos Públicos, la definición, soporte y justificación correspondiente; la Secretaría y en su caso el Organismo Público normativo que corresponda, determinará la procedencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 358.
 
-La Secretaría a través de las áreas correspondientes llevará el registro presupuestario, contable, de operaciones y el resguardo de la documentación comprobatoria de las Unidades Responsables de Apoyo: Provisiones Salariales y Económicas, Deuda Pública, Obligaciones; así como de Organismos Subsidiados y Municipios.
-
-Tratándose de la Unidad Responsable de Apoyo Provisiones Salariales y Económicas, se generará de manera automática su registro contable, producto de las operaciones presupuestarias realizadas.
+La Secretaría a través de las áreas correspondientes llevará el control de las operaciones presupuestables y contables de las Unidades Responsables de Apoyo: Organismos Subsidiados; Ayuda a la Ciudadanía; Deuda Pública; Obligaciones; Municipios; Provisiones Salariales y Económicas; mismos que tendrán el resguardo de la documentación soporte de los procesos efectuados.
 
 Dentro de las Unidades Responsables de Apoyo, podrán crearse subunidades o subclasificaciones que permitan identificar el destino y orientación de los recursos públicos, a fin de dar transparencia al registro.
 
@@ -5399,7 +5331,7 @@ De los movimientos que se efectúen en los términos de este artículo, el Gober
 
 La Secretaría, emitirá la normatividad en materia financiera para los Organismos Públicos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 361.
 
@@ -5407,13 +5339,11 @@ Los Organismos Públicos gestionarán ante la Secretaría a través de la Tesore
 
 Para efectos de la presentación de la información financiera y la Cuenta Pública deberá existir una cuenta ejecutora productiva específica por cada fondo de aportaciones federales, programa de subsidios y convenio de reasignación, a través de los cuales se ministren recursos federales.
 
-A excepción de las Dependencias y Entidades, que gestionarán ante la Secretaría de Hacienda a través de la Tesorería Única, la apertura de cuentas ejecutoras, los demás Organismos Públicos (Poder Legislativo, Judicial, Órganos Autónomos, Universidades y Municipios) deben notificar a la Tesorería Única, las cuentas bancarias en las cuales se radicarán los recursos financieros, correspondientes a las participaciones fiscales federales, aportaciones federales y otros.
+A excepción de las Dependencias y Entidades, que gestionarán ante la Secretaría de Hacienda a través de la Tesorería Única, la apertura de cuentas ejecutoras, los demás Organismos Públicos (Poder Legislativo, Judicial, Órganos Autónomos, Universidades y Municipios) deben notificar a la Tesorería Única, las cuentas bancarias en las cuales se radicarán los recursos financieros, correspondientes a recursos de libre disposición y recursos federales etiquetados.
 
-En las cuentas ejecutoras productivas específicas se manejarán exclusivamente los recursos federales del ejercicio fiscal respectivo y sus rendimientos, y no podrán incorporar recursos locales ni las aportaciones que realicen, en su caso, los beneficiarios de las obras y acciones.
+Para la presentación de la información financiera y la Cuenta Pública, los Organismos Públicos incluirán la relación de las cuentas receptoras productivas específicas, en las cuales se depositaron los recursos federales etiquetados, por cualquier concepto, durante el ejercicio fiscal correspondiente.
 
-Para la presentación de la información financiera y la Cuenta Pública, los Organismos Públicos incluirán la relación de las cuentas receptoras productivas específicas, en las cuales se depositaron los recursos federales transferidos, por cualquier concepto, durante el ejercicio fiscal correspondiente.
-
-Los recursos federales solo podrán ser transferidos por las dependencias y entidades de la Administración Pública Federal a dichas cuentas receptoras productivas específicas, a través de la Tesorería Única, salvo en el caso de ministraciones relacionadas con obligaciones de los Organismos Públicos, que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por los artículos 9, 50 y 51 de la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables.
+Los recursos federales etiquetados solo podrán ser transferidos por las dependencias y entidades de la Administración Pública Federal a dichas cuentas receptoras productivas específicas, a través de la Tesorería Única, salvo en el caso de ministraciones relacionadas con obligaciones de los Organismos Públicos, que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por los artículos 9, 50 y 51 de la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables.
 
 Los Organismos Públicos implementarán programas para que los pagos se hagan directamente en forma electrónica, mediante abono en cuenta de los beneficiarios, salvo en las localidades donde no haya disponibilidad de servicios bancarios.
 
@@ -5441,9 +5371,9 @@ El Ejecutivo Estatal, por conducto de la Secretaría, dispondrá que los fondos 
 
 Para los efectos de lo anterior, la Secretaría emitirá las normas y lineamientos para implantación y funcionamiento del pago centralizado, así también tomando en cuenta las necesidades específicas de cada caso, establecerá las excepciones procedentes, sin perjuicio de las obligaciones que correspondan a los ejecutores del gasto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-Las Adecuaciones Presupuestarias en la modalidad de traspaso o recalendarización, deberán tramitarse durante los dos primeros cuatrimestres del ejercicio fiscal que corresponda, por lo que a partir del tercer cuatrimestre, dichas adecuaciones serán rechazadas, así mismo, para solicitarlas, deberán apegarse a los requisitos y plazos que indique la normatividad en materia presupuestaria; las excepciones serán autorizadas por la Secretaría.
+Las Adecuaciones Presupuestarias en las modalidades de traspaso, recalendarización y liberación deberán tramitarse durante los dos primeros cuatrimestres del ejercicio fiscal que corresponda, por lo que a partir del tercer cuatrimestre, dichas adecuaciones serán rechazadas, así mismo, para solicitarlas, deberán apegarse a los requisitos y plazos que indique la normatividad en materia presupuestaria; las excepciones plenamente justificadas podrán ser autorizadas por la Secretaría.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -5451,9 +5381,11 @@ Artículo 363 A.- Todo recurso financiero que la Tesorería Única deposite a la
 
 Una vez concluido dicho proceso, oficialmente se le comunicará a los Organismos Públicos para que soliciten la liberación de su presupuesto, quedando bajo la responsabilidad de estos el ejercicio, erogación y comprobación del gasto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 364.
 
-Las ministraciones de recursos a los Organismos Públicos, comprendidos en el Presupuesto de Egresos, se sujetan estrictamente a los calendarios de gasto autorizados por la Secretaría de acuerdo con los programas, proyectos y metas correspondientes, en el número de radicaciones que ésta considere, misma que está facultada para suspender las ministraciones de recursos, cuando:
+Las ministraciones de recursos a los Organismos Públicos, comprendidos en el Presupuesto de Egresos, se sujetarán a los calendarios de gasto autorizados de acuerdo con los programas, proyectos y metas correspondientes, en el número de radicaciones que ésta considere, misma que está facultada para suspender las ministraciones de recursos, cuando:
 
 I. No envíen la información que les sea requerida, entre otras, en relación con el ejercicio de su presupuesto, avance trimestral, informe final de cumplimiento, indicadores y metas señaladas en los programas y proyectos que tengan a su cargo.
 
@@ -5511,13 +5443,17 @@ En los casos que la Secretaría determine que existe subejercicio, el Organismo 
 
 La Secretaría y la Secretaría de la Honestidad y Función Pública podrán suscribir con los Organismos Públicos, convenios o bases de desempeño, cuya vigencia podrá exceder el ejercicio fiscal correspondiente, a fin de establecer compromisos de resultados y medidas presupuestarias que promuevan un ejercicio más eficiente y eficaz del gasto público, así como una efectiva rendición de cuentas. Los Organismos Públicos que suscriban dichos convenios o bases se sujetarán a los controles presupuestarios establecidos en dichos instrumentos, conforme al marco jurídico aplicable, a sus presupuestos autorizados y a las medidas que determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 367.
 
 Los Organismos Públicos que al cierre de cada mes tengan recursos de libre disposición no comprometidos o no devengados, deberán gestionar y enviar a la Secretaría las reducciones presupuestarias, el recibo oficial por los saldos disponibles y el reintegro respectivo, a más tardar dentro de los primeros diez días naturales del mes siguiente.
 
-Asimismo al cierre del ejercicio fiscal, los Organismos Públicos que tengan recursos de libre disposición no comprometidos o no devengados al 31 de diciembre, deberán gestionar y enviar a la Secretaría las reducciones presupuestarias, el recibo oficial por los saldos disponibles y el reintegro respectivo, a más tardar el quince de enero de cada año.
+Al cierre del ejercicio fiscal, los Organismos Públicos que tengan recursos de libre disposición no comprometidos o no devengados al 31 de diciembre, deberán gestionar y enviar a la Secretaría las reducciones presupuestarias, el recibo oficial por los saldos disponibles y el reintegro respectivo, a más tardar el quince de enero de cada año.
+
+Tratándose de los recursos remanentes obtenidos en las contrataciones, deberán ser reintegrados a la Secretaría a más tardar dentro de los diez días naturales siguientes posteriores a la contratación.
+
+Los Organismos Públicos deben elaborar la reducción de los recursos no liberados a más tardar el 31 de agosto del ejercicio en curso, debiendo presentar en este plazo la adecuación presupuestaria correspondiente.
 
 Para efectos de los párrafos anteriores, si los Organismos Públicos no realizan las reducciones presupuestarias, la Secretaría quedará facultada para efectuarlos.
 
@@ -5549,9 +5485,9 @@ VI. Los recursos adicionales que reciba el Estado, por ingresos derivados de la 
 
 VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-La Secretaría está facultada para efectuar las Adecuaciones Presupuestarias a los programas y proyectos, que correspondan, con la finalidad que con menos recursos se cumplan los objetivos y metas fijadas; así como para garantizar recursos que tenga como objetivo atender las prioridades del Estado en los años que así se requieran las erogaciones, siempre y cuando existan las disponibilidades presupuestarias o la correspondiente fuente de ingresos.
+La Secretaría está facultada para efectuar las Adecuaciones Presupuestarias a los programas y proyectos, que correspondan, con la finalidad que con menos recursos se cumplan los objetivos y metas fijadas; así como para garantizar o autorizar la asignación de recursos que tenga como objetivo atender las prioridades del Estado en los años que así se requieran las erogaciones, siempre y cuando existan las disponibilidades presupuestarias o la correspondiente fuente de ingresos.
 
 El Gobernador del Estado, al presentar al Congreso del Estado la Cuenta Pública del ejercicio que corresponda, informará de las erogaciones efectuadas.
 
@@ -5603,9 +5539,11 @@ Los recursos que los Organismos Públicos del Ejecutivo, destinen a la adquisici
 
 Los Organismos Públicos deben efectuar los trámites necesarios ante el Organismo Público competente, para mantener actualizado el registro catastral y contable de los bienes inmuebles propiedad del Gobierno del Estado, que estén utilizando para el desarrollo de sus funciones.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 372.
 
-Las remuneraciones fijadas al personal que preste sus servicios al Gobierno del Estado, no podrán ser modificadas, si no están previstas en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
+Las remuneraciones fijadas al personal que preste sus servicios al Gobierno del Estado, no podrán ser modificadas, si no están previstas en el Presupuesto de Egresos del ejercicio fiscal correspondiente; lo anterior, en apego a las disposiciones de racionalidad, austeridad y disciplina presupuestaria.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -5751,11 +5689,11 @@ Cuando por comisión el personal deba trasladarse fuera de su lugar de adscripci
 
 La asignación de viáticos y pasajes debe regirse por lo señalado en la normatividad correspondiente. La Secretaría y la Secretaría de la Honestidad y Función Pública, están facultadas para solicitar a los Organismos Públicos del Ejecutivo la presentación de información, para los efectos administrativos y legales a que haya lugar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 385.
 
-En proyectos institucionales, los Organismos Públicos no podrán traspasar los recursos destinados a servicios personales, publicaciones oficiales y aquellos que específicamente determine la Secretaría, salvo los que previamente autorice ésta; los recursos no erogados quedarán como economías del presupuesto.
+En proyectos institucionales, los Organismos Públicos no podrán traspasar los recursos destinados a servicios personales, publicaciones oficiales y aquellos que específicamente determine la Secretaría, salvo los que previamente autorice ésta; los recursos no erogados deberán ser reintegrados a la Secretaría en términos de lo dispuesto por el artículo 367 de este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
@@ -5771,7 +5709,9 @@ Articulo 385 B.- La Secretaría contará con un sistema de registro y control de
 
 La Secretaría, efectuará los cobros, depósitos y pagos de recursos a las cuentas bancarias correspondientes a los Organismos Públicos del Ejecutivo, con base en el Presupuesto de Egresos; así como autorizar el calendario de gasto y efectuar las adecuaciones presupuestarias y ministraciones de los recursos financieros de los Organismos Públicos quienes serán responsables de administrar y ejercer su presupuesto autorizado y harán sus pagos por sí mismos o a través de esta Secretaría, de acuerdo a los lineamientos que para tal efecto emita.
 
-Los pagos correspondientes a los poderes Legislativo y Judicial, se harán por conducto de sus propios órganos.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+Los pagos correspondientes a los Poderes Legislativo y Judicial, y los Órganos Autónomos se harán por conducto de sus órganos facultados.
 
 ###### Artículo 387.
 
@@ -6839,11 +6779,11 @@ I. Procedimiento Administrativo de Ejecución establecido en los artículo (sic)
 
 II. Demanda ante los Tribunales Competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 473.
 
-La Procuraduría Fiscal, una vez realizado el cobro de las pólizas de fianzas, remitirá los recursos cubiertos a la Tesorería Única a través del formato de solicitud de recibo oficial y anexará cheque correspondiente a nombre de la Secretaría, mismo que se depositará en una cuenta específica y productiva.
+La Procuraduría Fiscal remitirá a la Tesorería Única, los recursos correspondientes a las pólizas de fianzas recuperadas y sus accesorios, a través del formato de solicitud de recibo oficial y anexará cheque a nombre de la Secretaría, mismo que se depositará en una cuenta específica y productiva y/o ficha de depósito o de transferencia correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -7216,5 +7156,13 @@ P.O. 12 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 005 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
 
 Artículo Primero.- El presente Decreto, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 017 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veintitrés.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
