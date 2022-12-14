@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-118264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-20"
-last_updated: "2021-08-25"
+last_updated: "2022-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-01-16"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 20 de enero de 2017.
 
@@ -53,15 +53,11 @@ IV. El destino y ejercicio de los recursos provenientes de financiamientos contr
 
 La Auditoría Superior de la Federación podrá fiscalizar las operaciones que involucren recursos públicos federales o participaciones federales a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, asociaciones público privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos de estados y municipios, entre otras operaciones.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO EN EL D.O.F. DE 25 DE AGOSTO DE 2021, PÁGINAS DE LA 2 A LA 6; SE ADVIERTE QUE CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 25 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 3.
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos que le competen, la Auditoría Superior de la Federación contará con las siguientes unidades administrativas y servidores públicos:
-
-> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 Auditor Superior de la Federación
 
@@ -89,175 +85,179 @@ Dirección de Innovación para el Conocimiento
 
 Centro de Estudios de la Auditoría Superior de la Federación
 
-Dirección de Estudios de la Auditoría Superior de la Federación “A”
+Dirección de Estudios de la Auditoría Superior de la Federación "A"
 
-Dirección de Estudios de la Auditoría Superior de la Federación “B”
+Dirección de Estudios de la Auditoría Superior de la Federación "B"
 
 Dirección General de Difusión
 
 Dirección de Difusión
 
-> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
-
 Auditoría Especial de Cumplimiento Financiero
 
-Dirección General de Auditoría Financiera Federal “A”
+Dirección General de Auditoría Financiera Federal "A"
 
-Dirección de Auditoría “A1”
+Dirección de Auditoría "A1"
 
-Dirección de Auditoría “A2”
+Dirección de Auditoría "A2"
 
-Dirección de Auditoría “A3”
+Dirección de Auditoría "A3"
 
-Dirección de Auditoría “A4”
+Dirección de Auditoría "A4"
 
-Dirección General de Auditoría Financiera Federal “B”
+Dirección General de Auditoría Financiera Federal "B"
 
-Dirección de Auditoría “B1”
+Dirección de Auditoría "B1"
 
-Dirección de Auditoría “B2”
+Dirección de Auditoría "B2"
 
-Dirección de Auditoría “B3”
+Dirección de Auditoría "B3"
 
-Dirección General de Auditoría Financiera Federal “C”
+Dirección General de Auditoría Financiera Federal "C"
 
-Dirección de Auditoría “C1”
+Dirección de Auditoría "C1"
 
-Dirección de Auditoría “C2”
+Dirección de Auditoría "C2"
 
-Dirección de Auditoría “C3”
+Dirección de Auditoría "C3"
 
 Dirección General de Auditoría de Inversiones Físicas Federales
 
-Dirección de Auditoría “D1”
+Dirección de Auditoría "D1"
 
-Dirección de Auditoría “D2”
+Dirección de Auditoría "D2"
 
-Dirección de Auditoría “D3”
+Dirección de Auditoría "D3"
 
-Dirección de Auditoría “D4”
+Dirección de Auditoría "D4"
 
-Dirección de Auditoría “D5”
+Dirección de Auditoría "D5"
 
 Dirección General de Auditoría Forense de Cumplimiento Financiero
 
-Dirección de Auditoría Forense de Cumplimiento Financiero “A”
+Dirección de Auditoría Forense de Cumplimiento Financiero "A"
 
-Dirección de Auditoría Forense de Cumplimiento Financiero “B”
+Dirección de Auditoría Forense de Cumplimiento Financiero "B"
 
-Dirección de Auditoría Forense de Cumplimiento Financiero “C”
+Dirección de Auditoría Forense de Cumplimiento Financiero "C"
 
 Dirección General de Auditoría de Tecnologías de Información y Comunicaciones
 
-Dirección de Auditoría de Tecnologías de Información y Comunicaciones “A”
+Dirección de Auditoría de Tecnologías de Información y Comunicaciones "A"
 
-Dirección de Auditoría de Tecnologías de Información y Comunicaciones “B”
+Dirección de Auditoría de Tecnologías de Información y Comunicaciones "B"
 
-Dirección de Auditoría de Tecnologías de Información y Comunicaciones “C”
-
-> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
+Dirección de Auditoría de Tecnologías de Información y Comunicaciones "C"
 
 Auditoría Especial de Desempeño
 
 Dirección General de Auditoría de Desempeño al Desarrollo Económico
 
-Dirección de Auditoría de Desempeño al Desarrollo Económico “A”
+Dirección de Auditoría de Desempeño al Desarrollo Económico "A"
 
-Dirección de Auditoría de Desempeño al Desarrollo Económico “B”
+Dirección de Auditoría de Desempeño al Desarrollo Económico "B"
 
-Dirección de Auditoría de Desempeño al Desarrollo Económico “C”
+Dirección de Auditoría de Desempeño al Desarrollo Económico "C"
 
 Dirección General de Auditoría de Desempeño al Desarrollo Social
 
-Dirección de Auditoría de Desempeño al Desarrollo Social “A”
+Dirección de Auditoría de Desempeño al Desarrollo Social "A"
 
-Dirección de Auditoría de Desempeño al Desarrollo Social “B”
+Dirección de Auditoría de Desempeño al Desarrollo Social "B"
 
 Dirección General de Auditoría de Desempeño a Gobierno y Finanzas
 
-Dirección de Auditoría de Desempeño a Gobierno y Finanzas “A”
+Dirección de Auditoría de Desempeño a Gobierno y Finanzas "A"
 
-Dirección de Auditoría de Desempeño a Gobierno y Finanzas “B”
+Dirección de Auditoría de Desempeño a Gobierno y Finanzas "B"
 
 Dirección General de Auditoría de Desempeño a Programas Presupuestarios
 
-Dirección de Auditoría de Desempeño a Programas Presupuestarios “A”
+Dirección de Auditoría de Desempeño a Programas Presupuestarios "A"
 
-Dirección de Auditoría de Desempeño a Programas Presupuestarios “B”
+Dirección de Auditoría de Desempeño a Programas Presupuestarios "B"
 
 Dirección de Evaluación a las Políticas Públicas
 
 Dirección General de Auditoría y Evaluación a los Sistemas de Control Interno
 
-Dirección de Auditoría y Evaluación a los Sistemas de Control Interno “A”
+Dirección de Auditoría y Evaluación a los Sistemas de Control Interno "A"
 
-Dirección de Auditoría y Evaluación a los Sistemas de Control Interno “B”
-
-> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
+Dirección de Auditoría y Evaluación a los Sistemas de Control Interno "B"
 
 Auditoría Especial del Gasto Federalizado
 
 Dirección General de Auditoría Forense del Gasto Federalizado
 
-Dirección de Auditoría Forense del Gasto Federalizado “A”
+Dirección de Auditoría Forense del Gasto Federalizado "A"
 
-Dirección de Auditoría Forense del Gasto Federalizado “B”
+Dirección de Auditoría Forense del Gasto Federalizado "B"
 
-Dirección de Auditoría Forense del Gasto Federalizado “C”
+Dirección de Auditoría Forense del Gasto Federalizado "C"
 
 Dirección General de Evaluación del Gasto Federalizado
 
-Dirección de Evaluación del Gasto Federalizado “A”
+Dirección de Evaluación del Gasto Federalizado "A"
 
-Dirección de Evaluación del Gasto Federalizado “B”
+Dirección de Evaluación del Gasto Federalizado "B"
 
-Dirección General de Auditoría del Gasto Federalizado “A”
+Dirección General de Auditoría del Gasto Federalizado "A"
 
-Dirección de Auditoría del Gasto Federalizado “A1”
+Dirección de Auditoría del Gasto Federalizado "A1"
 
-Dirección de Auditoría del Gasto Federalizado “A2”
+Dirección de Auditoría del Gasto Federalizado "A2"
 
-Dirección de Auditoría del Gasto Federalizado “A3”
+Dirección de Auditoría del Gasto Federalizado "A3"
 
-Dirección General de Auditoría del Gasto Federalizado “B”
+Dirección General de Auditoría del Gasto Federalizado "B"
 
-Dirección de Auditoría del Gasto Federalizado “B1”
+Dirección de Auditoría del Gasto Federalizado "B1"
 
-Dirección de Auditoría del Gasto Federalizado “B2”
+Dirección de Auditoría del Gasto Federalizado "B2"
 
-Dirección de Auditoría del Gasto Federalizado “B3”
+Dirección de Auditoría del Gasto Federalizado "B3"
 
-Dirección General de Auditoría del Gasto Federalizado “C”
+Dirección General de Auditoría del Gasto Federalizado "C"
 
-Dirección de Auditoría del Gasto Federalizado “C1”
+Dirección de Auditoría del Gasto Federalizado "C1"
 
-Dirección de Auditoría del Gasto Federalizado “C2”
+Dirección de Auditoría del Gasto Federalizado "C2"
 
-Dirección de Auditoría del Gasto Federalizado “C3”
+Dirección de Auditoría del Gasto Federalizado "C3"
 
-Dirección General de Auditoría del Gasto Federalizado “D”
+Dirección General de Auditoría del Gasto Federalizado "D"
 
-Dirección de Auditoría del Gasto Federalizado “D1”
+Dirección de Auditoría del Gasto Federalizado "D1"
 
-Dirección de Auditoría del Gasto Federalizado “D2”
+Dirección de Auditoría del Gasto Federalizado "D2"
 
-Dirección de Auditoría del Gasto Federalizado “D3”
-
-> <small>(REFORMADO [N. DE E. CON SUS DEPENDENCIAS], D.O.F. 25 DE AGOSTO DE 2021)</small>
+Dirección de Auditoría del Gasto Federalizado "D3"
 
 Auditoría Especial de Seguimiento, Informes e Investigación
 
-Dirección General de Seguimiento “A”
+Dirección General de Seguimiento "A"
 
-Dirección de Seguimiento “A.1”
+Dirección de Seguimiento "A.1"
 
-Dirección de Seguimiento “A.2”
+Dirección de Seguimiento "A.2"
 
-Dirección General de Seguimiento “B”
+Dirección General de Seguimiento "B"
 
-Dirección de Seguimiento “B.1”
+Dirección de Seguimiento "B.1"
 
-Dirección de Seguimiento “B.2”
+Dirección de Seguimiento "B.2"
+
+Dirección General de Seguimiento "C"
+
+Dirección de Seguimiento "C.1"
+
+Dirección de Seguimiento "C.2"
+
+Dirección General de Seguimiento "D"
+
+Dirección de Seguimiento "D.1"
+
+Dirección de Seguimiento "D.2"
 
 Dirección General de Informes, Control y Registro
 
@@ -265,51 +265,69 @@ Dirección Editorial de Informes de Auditoría
 
 Dirección de Control y Registro
 
-Dirección General de Investigación
+Dirección General de Investigación "A"
 
-Dirección de Investigación “A”
+Dirección de Investigación "A.1"
 
-Dirección de Investigación “B”
+Dirección de Investigación "A.2"
 
-Dirección de Investigación “C”
+Dirección de Investigación "A.3"
+
+Dirección General de Investigación "B"
+
+Dirección de Investigación "B.1"
+
+Dirección de Investigación "B.2"
+
+Dirección General de Investigación "C"
+
+Dirección de Investigación "C.1"
+
+Dirección de Investigación "C.2"
 
 Unidad de Asuntos Jurídicos
 
 Dirección General Jurídica
 
-Dirección Jurídica “A”
+Dirección Jurídica "A"
 
-Dirección Jurídica “B”
+Dirección Jurídica "B"
 
-Dirección Jurídica “C”
+Dirección Jurídica "C"
 
-Dirección Jurídica “D”
+Dirección Jurídica "D"
 
 Dirección General de Responsabilidades
 
-Dirección de Responsabilidades “A”
+Dirección de Responsabilidades "A"
 
-Dirección de Responsabilidades “B”
+Dirección de Responsabilidades "B"
 
-Dirección de Responsabilidades “C”
+Dirección de Responsabilidades "C"
 
-Dirección de Responsabilidades “D”
+Dirección de Responsabilidades "D"
 
 Dirección General de Responsabilidades a los Recursos Federales en Estados y Municipios
 
-Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “A”
+Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios "A"
 
-Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “B”
+Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios "B"
 
-Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “C”
+Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios "C"
 
-Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios “D”
+Dirección de Responsabilidades a los Recursos Federales en Estados y Municipios "D"
 
-Dirección General de Substanciación
+Dirección General de Substanciación "A"
 
-Dirección de Substanciación “A”
+Dirección de Substanciación "A.1"
 
-Dirección de Substanciación “B”
+Dirección de Substanciación "A.2"
+
+Dirección General de Substanciación "B"
+
+Dirección de Substanciación "B.1"
+
+Dirección de Substanciación "B.2"
 
 Unidad General de Administración
 
@@ -355,9 +373,9 @@ Dirección General de Normatividad y Enlace Legislativo
 
 Dirección de Normatividad
 
-Dirección de Homologación y Análisis Legislativo “A”
+Dirección de Homologación y Análisis Legislativo "A"
 
-Dirección de Homologación y Análisis Legislativo “B”
+Dirección de Homologación y Análisis Legislativo "B"
 
 Dirección de Enlace Legislativo
 
@@ -379,19 +397,15 @@ Dirección de Colaboración Institucional y Vinculación con el Sistema Nacional
 
 Unidad de Igualdad de Género y Cultura de la Fiscalización
 
-Dirección General de Igualdad de Género y Cultura de la Fiscalización “A”
+Dirección General de Igualdad de Género y Cultura de la Fiscalización "A"
 
-Dirección de Igualdad de Género y Cultura de la Fiscalización “A1”
+Dirección de Igualdad de Género y Cultura de la Fiscalización "A1"
 
-Dirección General de Igualdad de Género y Cultura de la Fiscalización “B”
+Dirección General de Igualdad de Género y Cultura de la Fiscalización "B"
 
-Dirección de Igualdad de Género y Cultura de la Fiscalización “B1”
-
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+Dirección de Igualdad de Género y Cultura de la Fiscalización "B1"
 
 Subdirectores, Jefes de Departamento, Coordinadores de Auditores, Auditores, Asesores, Secretarios Técnicos, Vigilantes, Supervisores de área administrativa y técnica, Trabajadores de Base y demás personal que se requiera para satisfacer las necesidades del servicio.
-
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
 La denominación, organización y funciones de las unidades administrativas que no se señalen en este Reglamento, se precisarán en el Manual de Organización de la Auditoría Superior de la Federación.
 
@@ -443,7 +457,9 @@ XIV. Efectuar visitas domiciliarias para exigir la exhibición de los libros, pa
 
 XV. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, informes de presunta responsabilidad administrativa, denuncias de hechos y denuncias de juicio político;
 
-XVI. Promover las responsabilidades administrativas, para lo cual la Dirección General de Investigación presentará el informe de presunta responsabilidad administrativa correspondiente, ante la Dirección General de Substanciación, para que ésta, de considerarlo procedente, turne y presente el expediente ante el Tribunal;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XVI. Promover las responsabilidades administrativas, para lo cual las Direcciones Generales de Investigación presentarán el informe de presunta responsabilidad administrativa correspondiente, ante las Direcciones Generales de Substanciación, para que éstas, de considerarlo procedente, turnen y presenten el expediente ante el Tribunal;
 
 XVII. Dar vista a los órganos internos de control competentes cuando detecte posibles responsabilidades no graves para que continúen la investigación respectiva y, en su caso, promuevan la imposición de las sanciones que procedan;
 
@@ -451,7 +467,9 @@ XVIII. Verificar el desempeño de los órganos internos de control y su apego a 
 
 XIX. Promover y dar seguimiento ante las autoridades competentes de la imposición de las sanciones que correspondan a los servidores públicos federales, de las entidades federativas, de los municipios y de las alcaldías de la Ciudad de México; y los particulares, a las que se refiere el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y presentar denuncias y querellas penales;
 
-XX. Recurrir, a través de la Dirección General de Investigación, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XX. Recurrir, a través de las Direcciones Generales de Investigación, las determinaciones del Tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables;
 
 XXI. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga;
 
@@ -597,7 +615,7 @@ XVIII. Las demás que señale la Ley de Fiscalización y Rendición de Cuentas d
 
 El Auditor Superior de la Federación podrá adscribir orgánicamente las unidades administrativas de la Auditoría Superior de la Federación y emitir los acuerdos delegatorios que se requieran mediante publicación en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 10.
 
@@ -609,49 +627,43 @@ II. Definir y elaborar presentaciones y mensajes de la Auditoría Superior de la
 
 III. Definir el contenido y alcance de documentos técnicos con los que participe la Auditoría Superior de la Federación en foros nacionales e internacionales;
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
-
-IV. Promover la observancia de la Política de Integridad de la Auditoría Superior de la Federación;
-
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+IV. Establecer la política y estrategia institucionales en materia de ética e integridad;
 
 V. Organizar, coordinar, presidir y dar seguimiento a las reuniones del Comité de Integridad de la Auditoría Superior de la Federación, el cual se integra además de la Unidad Técnica, por las personas Titulares de cada una de las Auditorías Especiales, Unidad de Asuntos Jurídicos, Unidad General de Administración y Unidad de Normatividad y Enlace Legislativo;
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+VI. Coordinar la participación de la Auditoría Superior de la Federación en los organismos de cooperación interinstitucional que le instruya su superior jerárquico;
 
-VI. Coordinar la participación de la Auditoría Superior de la Federación en los organismos de cooperación institucional que se le instruya por su superior jerárquico;
+VII. Diseñar y, en su caso, actualizar la metodología para la identificación de las áreas claves con riesgo detectadas en la fiscalización superior en el contexto del artículo 34, fracción II, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
-VII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+VIII. Planear, acordar, dirigir y coordinar las acciones de colaboración y participación interinstitucional en materia de fiscalización superior que desarrolle la Auditoría Superior de la Federación en el ámbito internacional, incluyendo la Organización Internacional de las Entidades Fiscalizadoras Superiores, Organización Latinoamericana y del Caribe de Entidades Fiscalizadoras Superiores, entre otros organismos, así como con las entidades de fiscalización superior de otros países;
 
-VIII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+IX. Definir la estrategia y criterios para proporcionar el servicio gratuito de defensoría de oficio en los procedimientos por faltas administrativas graves substanciados por la Auditoría Superior de la Federación, en términos de la Ley General de Responsabilidades Administrativas;
 
-IX. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+X. Coordinar la integración y seguimiento del Programa Anual de Actividades de la Auditoría Superior de la Federación;
 
-X. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+XI. Definir las políticas y estrategias para llevar a cabo el análisis y seguimiento a los Sistemas de Gestión de Calidad e Institucional de Control Interno, y de los procesos institucionales;
 
-XI. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+XII. Autorizar y coordinar la implementación del Programa Anual de Auditorías Internas al Sistema de Gestión de Calidad de la Auditoría Superior de la Federación;
 
-XII. Diseñar y, en su caso, actualizar, la metodología para la identificación de las áreas claves con riesgo detectadas en la fiscalización superior en el contexto del artículo 34, fracción II, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+XIII. Intervenir en los actos de entrega-recepción de los asuntos, cargos y comisiones conferidos a los servidores públicos de mando medio y superior de la Auditoría Superior de la Federación, de conformidad con la normatividad aplicable;
 
-XIII. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+XIV. Dirigir, acordar y coordinar la estrategia institucional en materia de difusión;
 
-XIV. Planear, acordar, dirigir y coordinar las acciones de colaboración interinstitucional en materia de fiscalización superior que desarrolle la Auditoría Superior de la Federación en el ámbito internacional, incluyendo la Organización Internacional de las Entidades Fiscalizadoras Superiores, Organización Latinoamericana y del Caribe de Entidades Fiscalizadoras Superiores, entre otros organismos, así como las entidades de fiscalización superior de otros países;
+XV. Coordinar la política de capacitación y estudios profesionales de nivel superior que permita desarrollar las capacidades técnicas del personal de la Auditoría Superior de la Federación y del personal de los entes con los que se comparta el conocimiento en materia de fiscalización; así como definir la política institucional para la impartición de educación de nivel superior en materia de Fiscalización en cualquiera de las modalidades que oferte la Auditoría Superior de la Federación y expedir los Títulos correspondientes;
 
-XV. (DEROGADA, D.O.F. 25 DE AGOSTO DE 2021)
+XVI. Definir las políticas, estrategias, normas y lineamientos en materia de capacitación, desarrollo y transferencia de conocimientos; aprobar el Plan Anual de Capacitación y Desarrollo de la Auditoría Superior Federación y definir los criterios y directrices para suscribir convenios y memorándums de entendimiento e intercambio con instituciones afines nacionales e internacionales;
 
-> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+XVII. Definir las políticas, estrategias, normas y lineamientos de profesionalización del personal incorporado al Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación, de conformidad con el Estatuto y la normatividad aplicable;
 
-XV Bis. Coordinar las funciones de las áreas de su adscripción;
+XVIII. Definir y acordar la política, estrategia, criterios y lineamientos para la elaboración de estudios, investigaciones y análisis económicos, sociales o de cualquier otra índole que coadyuven a la fiscalización superior; así como participar en la elaboración de insumos para la integración del Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, en el análisis del Informe de Avance de la Gestión Financiera, de la información económica, contable, financiera, programática y presupuestaria de la Cuenta Pública, así como elaborar los informes trimestrales de Coyuntura Económica, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones jurídicas aplicables;
 
-XVI. Expedir copias certificadas de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
+XIX. Expedir copia certificada de constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
 
-XVII. Designar al personal de confianza de las áreas a su cargo, así como tramitar ante la Unidad General de Administración la terminación de los efectos de sus nombramientos cuando proceda, acompañando los documentos que acrediten las razones de dicha terminación, en los términos de las disposiciones jurídicas aplicables;
+XX. Designar al personal de confianza de las áreas a su cargo, así como tramitar ante la Unidad General de Administración la terminación de los efectos de sus nombramientos cuando proceda, acompañando los documentos que acrediten las razones de dicha terminación, en los términos de las disposiciones jurídicas aplicables;
 
-XVIII. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los servidores públicos de las unidades administrativas que dependan de él, para lo cual deberá de informar a la Dirección General de Recursos Humanos para los efectos administrativos correspondientes, y
+XXI. Adscribir, remover, cambiar de adscripción, comisionar y reasignar a los servidores públicos de las unidades administrativas bajo su mando e informar a la Dirección General de Recursos Humanos para los efectos administrativos correspondientes; y
 
-XIX. Las demás que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
-
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+XXII. Las demás que establezcan las disposiciones jurídicas aplicables o le encargue el Auditor Superior de la Federación.
 
 El Titular de la Unidad Técnica de la Auditoría Superior de la Federación para el despacho de los asuntos de su competencia será auxiliado por los Directores Generales, Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores señalados en el artículo 3 de este Reglamento; así como por los Secretarios Técnicos, Administrativos, Apoyos Técnicos y demás personal de apoyo especializado para el mejor desempeño de sus funciones.
 
@@ -1041,9 +1053,13 @@ XIII. Notificar, en su caso, la solventación de acciones a las entidades fiscal
 
 XIV. Promover, en su caso, el procedimiento para el fincamiento de responsabilidades resarcitorias que se derive de la no solventación del pliego de observaciones;
 
-XV. Coordinar y supervisar las investigaciones que realice la Dirección General de Investigación, respecto de las conductas, actos u omisiones de los servidores públicos y/o particulares, que puedan constituir faltas administrativas, a fin de que estén debidamente fundadas y motivadas;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
-XVI. Conocer de las investigaciones que, debidamente fundadas y motivadas, realice la Dirección General de Investigación, respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas;
+XV. Coordinar y supervisar las investigaciones que realicen las Direcciones Generales de Investigación, respecto de las conductas, actos u omisiones de los servidores públicos y/o particulares, que puedan constituir faltas administrativas, a fin de que estén debidamente fundadas y motivadas;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XVI. Conocer de las investigaciones que, debidamente fundadas y motivadas, realicen las Direcciones Generales de Investigación, respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas;
 
 XVII. Autorizar la incorporación a las investigaciones de las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales;
 
@@ -1431,6 +1447,10 @@ XII. Vigilar el cumplimiento de las disposiciones laborales aplicables al funcio
 
 XIII. Detectar las necesidades de capacitación del personal que tenga adscrito y proponer conforme a los lineamientos y normas aplicables al Instituto de Capacitación y Desarrollo en Fiscalización Superior las actividades de capacitación correspondientes, así como evaluar su desempeño conforme a las políticas y procedimientos establecidos en la Auditoría Superior de la Federación;
 
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XIII Bis. Impartir y llevar a cabo cualquier actividad de docencia que se requiera, en el marco de sus atribuciones y con base en la experiencia profesional y laboral con la que cuente;
+
 XIV. Proponer a su superior jerárquico los nombramientos del personal de confianza de las áreas a su cargo, así como tramitar ante la Unidad General de Administración la terminación de los efectos de dichos nombramientos cuando procedan, acompañando los documentos que acrediten las razones de dicha terminación, en los términos de las disposiciones jurídicas aplicables;
 
 XV. Proponer a su superior jerárquico los proyectos de manuales de organización y de procedimientos correspondientes a la dirección general a su cargo, así como las modificaciones requeridas;
@@ -1593,45 +1613,81 @@ Los Directores Generales, para el despacho de los asuntos de su competencia, ser
 
 Las atribuciones a que hacen referencia las fracciones V, VI, IX, XXI, XXIII, XXIV, XXV, XXVI, XXVIII, XXX, XXXIII, XXXIV, XXXV, XXXVI, LII, LX, LXII, LXV y LXX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 21 Bis.
 
-El Instituto de Capacitación y Desarrollo en Fiscalización Superior, estará adscrito a la Unidad Técnica de la Auditoría Superior de la Federación y su Director General tendrá las siguientes atribuciones:
+La Auditoría Superior de la Federación contará con un Instituto de Capacitación y Desarrollo en Fiscalización Superior, el cual tendrá la naturaleza jurídica de institución de educación superior en términos de la Ley General de Educación Superior, que tendrá como finalidad impartir educación de nivel superior en materia de Fiscalización Superior, así como realizar actividades de extensión académica las cuales, de manera enunciativa más no limitativa, pueden comprender: cursos de actualización, diplomados o equivalentes, tendientes a la formación y profesionalización altamente especializada en las áreas de fiscalización, rendición de cuentas, transparencia, presupuesto y otras disciplinas afines. El Instituto de Capacitación y Desarrollo en Fiscalización Superior estará adscrito a la Unidad Técnica de la Auditoría Superior de la Federación y su Director General tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 I. Actualizar las políticas, normas y lineamientos en materia de capacitación, investigación, desarrollo y transferencia de conocimiento y verificar su aplicación;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 II. Identificar las necesidades de capacitación requeridas por las diferentes áreas de la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 III. Elaborar en coordinación con las unidades administrativas el Plan Anual de Capacitación y Desarrollo de la Auditoría Superior de la Federación;
 
-IV. Implementar los programas, cursos y actividades contenidos en el Plan Anual de Capacitación y Desarrollo, así como otras acciones de capacitación que se acuerden con las unidades administrativas, conforme a los lineamientos y normas aplicables;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+IV. Implementar los programas, cursos y actividades contenidos en el Plan Anual de Capacitación y Desarrollo, así como llevar a cabo las actividades inherentes a la impartición de la educación de nivel superior y las actividades de extensión académica en las áreas de fiscalización, rendición de cuentas, transparencia, presupuesto y otras disciplinas afines;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 V. Evaluar el desempeño de los instructores y los resultados de los cursos impartidos, así como promover la formación de instructores internos;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 VI. Evaluar el aprendizaje del personal capacitado y la transferencia e impacto de la capacitación en las actividades que realiza;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 VII. Coordinar las investigaciones académicas internas y externas, en materia de fiscalización superior;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 VIII. Participar en el funcionamiento del Servicio Fiscalizador de Carrera de la Auditoría Superior de la Federación, conforme lo establezca el Estatuto y normativa correspondiente;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 IX. Realizar las actividades de profesionalización y evaluación de conocimientos al personal del Servicio Fiscalizador de Carrera;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 X. Llevar a cabo la selección de instructores para la impartición de cursos a cargo del Instituto de Capacitación y Desarrollo en Fiscalización Superior;
 
-XI. Realizar los estudios e investigaciones en temas vinculados con las funciones de la Auditoría Superior de la Federación, que le sean requeridos;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XI. Coordinar los procedimientos de control escolar y servicios escolares de los estudios profesionales de nivel superior que sean impartidos por la Auditoría Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 XII. Definir los temas y coordinar la elaboración de las publicaciones y estudios que edite la Auditoría Superior de la Federación y que sean realizados por académicos o expertos;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 XIII. Dirigir y supervisar el Centro de Documentación Institucional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 XIV. Suscribir, a nombre y representación de la Auditoría Superior de la Federación, los memorándums de entendimiento, relacionados con la capacitación, en estricto apego a las disposiciones jurídicas que rijan la materia;
 
-XV. Registrar ante las autoridades competentes en materia de capacitación los requisitos y cursos que así lo requieran, con el fin de elevar las competencias institucionales y expedir las certificaciones correspondientes;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XV. Registrar ante las autoridades competentes en materia de capacitación y estudios de nivel superior, los requisitos, cursos y planes de estudio de nivel superior que así lo requieran, con el fin de elevar las competencias institucionales y expedir los certificados, certificaciones y títulos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 XVI. Proponer, coordinar y actualizar los convenios de intercambio en materia de capacitación, investigación, desarrollo y transferencia de conocimiento con otras instituciones afines, nacionales o internacionales;
 
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+
 XVII. Sostener relaciones de intercambio, consejo y promoción con organismos similares, nacionales e internacionales, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 XVIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
@@ -2341,9 +2397,13 @@ IV. Determinar la conclusión, solventación o archivo por falta de elementos, d
 
 V. Emitir, en su caso y de conformidad con la normativa aplicable, los dictámenes de no solventación del pliego de observaciones e integrar el expediente técnico determinando en cantidad líquida, el monto de los daños o perjuicios, o ambos, a la Hacienda Pública Federal o, en su caso, al patrimonio de los entes públicos federales o de las entidades paraestatales federales, precisando la presunta responsabilidad de los infractores, a fin de que se instruya el procedimiento para el fincamiento de responsabilidades resarcitorias y participar en la substanciación de dicho procedimiento;
 
-VI. Remitir a la Dirección General de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
-VII. Remitir a la Dirección General de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+VI. Remitir a las Direcciones Generales de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+VII. Remitir a las Direcciones Generales de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
@@ -2379,9 +2439,13 @@ IV. Determinar la conclusión, solventación o archivo por falta de elementos, d
 
 V. Emitir, en su caso y de conformidad con la normativa aplicable, los dictámenes de no solventación del pliego de observaciones e integrar el expediente técnico determinando en cantidad líquida, el monto de los daños o perjuicios, o ambos, a la Hacienda Pública Federal o, en su caso, al patrimonio de los entes públicos federales o de las entidades paraestatales federales, precisando la presunta responsabilidad de los infractores, a fin de que se instruya el procedimiento para el fincamiento de responsabilidades resarcitorias y participar en la substanciación de dicho procedimiento;
 
-VI. Remitir a la Dirección General de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
-VII. Remitir a la Dirección General de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+VI. Remitir a las Direcciones Generales de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+VII. Remitir a las Direcciones Generales de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
@@ -2400,6 +2464,74 @@ XII. Las demás que en el ámbito de su competencia le otorguen las disposicione
 > <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 2021)</small>
 
 Las atribuciones a que hacen referencia las fracciones I a la VII, X y XII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Ter 1.
+
+La Dirección General de Seguimiento “C” estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
+
+I. Recibir de las unidades administrativas auditoras, la información y documentación relativa a cada una de las auditorías que practicaron, que incluya una cédula resumen en la que se contextualice la situación de las recomendaciones y acciones;
+
+II. Recibir la información y documentación que las entidades fiscalizadas presenten sobre las recomendaciones y acciones que se les hayan notificado con los informes individuales;
+
+III. Suscribir el dictamen sobre la no atención de las acciones, derivado de las respuestas recibidas de las entidades fiscalizadas, así como el oficio de pronunciamiento correspondiente;
+
+IV. Determinar la conclusión, solventación o archivo por falta de elementos, de las recomendaciones o acciones, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Emitir, en su caso y de conformidad con la normativa aplicable, los dictámenes de no solventación del pliego de observaciones e integrar el expediente técnico determinando en cantidad líquida, el monto de los daños o perjuicios, o ambos, a la Hacienda Pública Federal o, en su caso, al patrimonio de los entes públicos federales o de las entidades paraestatales federales, precisando la presunta responsabilidad de los infractores, a fin de que se instruya el procedimiento para el fincamiento de responsabilidades resarcitorias y participar en la substanciación de dicho procedimiento;
+
+VI. Remitir a las Direcciones Generales de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+
+VII. Remitir a las Direcciones Generales de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+VIII. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
+
+IX. Mantener depurado y actualizado el trámite de las recomendaciones y acciones, para que la información, que en términos de ley remite la Auditoría Superior de la Federación a la Cámara, por conducto de la Comisión de Vigilancia, sobre el estado que guarda la solventación de observaciones, recomendaciones y acciones a las entidades fiscalizadas, sea congruente y confiable;
+
+X. Coadyuvar con las unidades administrativas auditoras en la revisión de los direccionamientos de las acciones, previo a su formalización en los informes individuales de auditoría;
+
+XI. Comisionar personal durante la ejecución de las auditorías, cuando así lo solicite la unidad administrativa auditora, a fin de coadyuvar en la obtención de los elementos técnicos, jurídicos y administrativos que se requieran para encausar adecuadamente los resultados obtenidos y las observaciones determinadas;
+
+XII. Establecer criterios, procedimientos y reglas para la adecuada integración de los elementos técnicos, jurídicos y administrativos que deben obtener las unidades administrativas auditoras durante la ejecución de las auditorías; y
+
+XIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+Las atribuciones a que hacen referencia las fracciones I a la VII, XI y XIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Ter 2.
+
+La Dirección General de Seguimiento “D” estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
+
+I. Recibir de las unidades administrativas auditoras, la información y documentación relativa a cada una de las auditorías que practicaron, que incluya una cédula resumen en la que se contextualice la situación de las recomendaciones y acciones;
+
+II. Recibir la información y documentación que las entidades fiscalizadas presenten sobre las recomendaciones y acciones que se les hayan notificado con los informes individuales;
+
+III. Suscribir el dictamen sobre la no atención de las acciones, derivado de las respuestas recibidas de las entidades fiscalizadas, así como el oficio de pronunciamiento correspondiente;
+
+IV. Determinar la conclusión, solventación o archivo por falta de elementos, de las recomendaciones o acciones, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Emitir, en su caso y de conformidad con la normativa aplicable, los dictámenes de no solventación del pliego de observaciones e integrar el expediente técnico determinando en cantidad líquida, el monto de los daños o perjuicios, o ambos, a la Hacienda Pública Federal o, en su caso, al patrimonio de los entes públicos federales o de las entidades paraestatales federales, precisando la presunta responsabilidad de los infractores, a fin de que se instruya el procedimiento para el fincamiento de responsabilidades resarcitorias y participar en la substanciación de dicho procedimiento;
+
+VI. Remitir a las Direcciones Generales de Investigación el expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones;
+
+VII. Remitir a las Direcciones Generales de Investigación el expediente técnico que contenga las presuntas responsabilidades administrativas de conformidad con el artículo 17, fracción XVI, de la Ley de Fiscalización y Rendición de Cuentas de la Federación;
+
+VIII. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
+
+IX. Mantener depurado y actualizado el trámite de las recomendaciones y acciones, para que la información, que en términos de ley remite la Auditoría Superior de la Federación a la Cámara, por conducto de la Comisión de Vigilancia, sobre el estado que guarda la solventación de observaciones, recomendaciones y acciones a las entidades fiscalizadas, sea congruente y confiable;
+
+X. Coadyuvar con las unidades administrativas auditoras en la revisión de los direccionamientos de las acciones, previo a su formalización en los informes individuales de auditoría;
+
+XI. Comisionar personal durante la ejecución de las auditorías, cuando así lo solicite la unidad administrativa auditora, a fin de coadyuvar en la obtención de los elementos técnicos, jurídicos y administrativos que se requieran para encausar adecuadamente los resultados obtenidos y las observaciones determinadas;
+
+XII. Establecer criterios, procedimientos y reglas para la adecuada integración de los elementos técnicos, jurídicos y administrativos que deben obtener las unidades administrativas auditoras durante la ejecución de las auditorías; y
+
+XIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
+
+Las atribuciones a que hacen referencia las fracciones I a la VII, XI y XIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -2449,25 +2581,23 @@ XIX. Las demás que en el ámbito de su competencia le otorguen las disposicione
 
 Las atribuciones a que hacen referencia las fracciones IX, XIV, XVII y XIX, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
-Artículo 38 Quiquies. La Dirección General de Investigación es la unidad administrativa de la Auditoría Superior de la Federación a cargo de las investigaciones de las faltas administrativas derivadas de la fiscalización superior.
+Artículo 38 Quiquies. Las Direcciones Generales de Investigación "A", Investigación "B" e Investigación "C" son las unidades administrativas de la Auditoría Superior de la Federación a cargo de las investigaciones de las faltas administrativas derivadas de la fiscalización superior.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 38 Sexies.
 
-La Dirección General de Investigación deberá observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
-
-> <small>(REFORMADO, D.O.F. 8 DE JULIO DE 2021)</small>
+Las Direcciones Generales de Investigación "A", Investigación "B" e Investigación "C" deberán observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
 La investigación por la presunta responsabilidad de faltas administrativas iniciará derivado de las auditorías practicadas de forma presencial o a través de medios electrónicos durante la fiscalización superior.
 
-> <small>(ADICIONADO, D.O.F. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 38 Septies.
 
-La Dirección General de Investigación estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
+La Dirección General de Investigación "A" estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
 
 I. Recibir de las Direcciones Generales de Seguimiento los expedientes y dictámenes técnicos por la falta de solventación de los pliegos de observaciones;
 
@@ -2481,15 +2611,13 @@ V. Acceder a la información necesaria para el esclarecimiento de los hechos con
 
 VI. Ordenar la práctica de visitas de verificación;
 
-VII. Formular requerimientos de información y documentación a los entes públicos y a las personas físicas o morales que sean materia de la investigación, sí como a cualquier otra, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, en términos de las disposiciones jurídicas aplicables;
+VII. Formular requerimientos de información y documentación a los entes públicos y a las personas físicas o morales que sean materia de la investigación, así como a cualquier otra, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, en términos de las disposiciones jurídicas aplicables;
 
 VIII. Imponer las medidas para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
 
 IX. Determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas y, en su caso, calificarlas;
 
-X. Suscribir y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa para su presentación ante la Dirección General de Substanciación dentro del plazo de 30 días naturales a partir de la calificación de la falta administrativa;
-
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
+X. Suscribir y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa para su presentación ante las Direcciones Generales de Substanciación dentro del plazo de 30 días naturales a partir de la calificación de la falta administrativa;
 
 XI. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
 
@@ -2503,11 +2631,133 @@ XV. Recurrir las determinaciones del Tribunal, de la Fiscalía Especializada y d
 
 XVI. Preparar y tramitar los informes previo y justificado, que deban rendir los servidores públicos de la Auditoría Superior de la Federación en los juicios de amparo que se promuevan con motivo de los procedimientos de investigación de presuntas faltas administrativas; y, en general, formular todas las promociones que se refieran a dichos juicios, en calidad de autoridad responsable o tercero interesado;
 
-XVII. Comparecer, de conformidad con la Ley General de Responsabilidades Administrativas, dentro del procedimiento de responsabilidad administrativa, ante la Dirección General de Substanciación, el Tribunal y la Fiscalía, según corresponda;
+XVII. Comparecer, de conformidad con la Ley General de Responsabilidades Administrativas, dentro del procedimiento de responsabilidad administrativa, ante las Direcciones Generales de Substanciación, el Tribunal y la Fiscalía, según corresponda;
 
-XVIII. Solicitar a la Dirección General de Substanciación y al Tribunal, según corresponda, que se decreten las medidas cautelares correspondientes;
+XVIII. Solicitar a las Direcciones Generales de Substanciación y al Tribunal, según corresponda, que se decreten las medidas cautelares correspondientes;
 
-XIX. Instruir, por sí o a través de sus Directores de Área, el procedimiento de investigación, para lo cual dichos Directores tendrán todas las facultades necesarias para el desahogo de las diligencias que se estimen pertinentes, con excepción de las siguientes actuaciones procedimentales, que serán emitidas exclusivamente por el titular de la Dirección General de Investigación:
+XIX. Instruir, por sí o a través de sus Directores de Área, el procedimiento de investigación, para lo cual dichos Directores tendrán todas las facultades necesarias para el desahogo de las diligencias que se estimen pertinentes, con excepción de las siguientes actuaciones procedimentales, que serán emitidas exclusivamente por el titular de la Dirección General de Investigación "A":
+
+a) Inicio de investigación.
+
+b) Orden para la práctica de visita de verificación.
+
+c) Solicitud de medidas cautelares.
+
+d) Aplicación de medidas para hacer cumplir determinaciones.
+
+e) Conclusión y archivo de expediente.
+
+f) Determinación de existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como falta administrativa y su calificación.
+
+g) Remisión a la Dirección General Jurídica de la copia certificada del expediente en los casos en que se presuma la comisión de un delito.
+
+h) Suscribir el Informe de Presunta Responsabilidad Administrativa.
+
+XX. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Octies.
+
+La Dirección General de Investigación "B" estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
+
+I. Recibir de las Direcciones Generales de Seguimiento los expedientes y dictámenes técnicos por la falta de solventación de los pliegos de observaciones;
+
+II. Realizar investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas;
+
+III. Incorporar a sus investigaciones las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales;
+
+IV. Sugerir al Auditor Especial de Seguimiento, Informes e Investigación, mecanismos de cooperación necesarios a fin de fortalecer los procedimientos de investigación;
+
+V. Acceder a la información necesaria para el esclarecimiento de los hechos con inclusión de aquella que las disposiciones legales en la materia consideren de carácter confidencial, debiendo mantener la misma reserva o secrecía conforme a lo que se determine en las leyes. No serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal, bancaria, fiduciaria o relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios;
+
+VI. Ordenar la práctica de visitas de verificación;
+
+VII. Formular requerimientos de información y documentación a los entes públicos y a las personas físicas o morales que sean materia de la investigación, así como a cualquier otra, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, en términos de las disposiciones jurídicas aplicables;
+
+VIII. Imponer las medidas para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+IX. Determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas y, en su caso, calificarlas;
+
+X. Suscribir y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa para su presentación ante las Direcciones Generales de Substanciación dentro del plazo de 30 días naturales a partir de la calificación de la falta administrativa;
+
+XI. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
+
+XII. Promover el Informe de Presunta Responsabilidad Administrativa y en su caso, penal a los servidores públicos de la Auditoría Superior de la Federación, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información;
+
+XIII. Emitir, en su caso, acuerdo de conclusión y archivo del expediente si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, sin perjuicio de que pueda abrirse nuevamente la investigación, si se presentan nuevos indicios o pruebas suficientes para determinar la existencia de la infracción y responsabilidad del infractor;
+
+XIV. Impugnar la determinación de las autoridades resolutoras de abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público o particular, así como interponer los recursos que resulten procedentes, en términos de la Ley General de Responsabilidades Administrativas;
+
+XV. Recurrir las determinaciones del Tribunal, de la Fiscalía Especializada y de cualquier otra autoridad, en términos de las disposiciones legales aplicables;
+
+XVI. Preparar y tramitar los informes previo y justificado, que deban rendir los servidores públicos de la Auditoría Superior de la Federación en los juicios de amparo que se promuevan con motivo de los procedimientos de investigación de presuntas faltas administrativas; y, en general, formular todas las promociones que se refieran a dichos juicios, en calidad de autoridad responsable o tercero interesado;
+
+XVII. Comparecer, de conformidad con la Ley General de Responsabilidades Administrativas, dentro del procedimiento de responsabilidad administrativa, ante las Direcciones Generales de Substanciación, el Tribunal y la Fiscalía, según corresponda;
+
+XVIII. Solicitar a las Direcciones Generales de Substanciación y al Tribunal, según corresponda, que se decreten las medidas cautelares correspondientes;
+
+XIX. Instruir, por sí o a través de sus Directores de Área, el procedimiento de investigación, para lo cual dichos Directores tendrán todas las facultades necesarias para el desahogo de las diligencias que se estimen pertinentes, con excepción de las siguientes actuaciones procedimentales, que serán emitidas exclusivamente por el titular de la Dirección General de Investigación "B":
+
+a) Inicio de investigación.
+
+b) Orden para la práctica de visita de verificación.
+
+c) Solicitud de medidas cautelares.
+
+d) Aplicación de medidas para hacer cumplir determinaciones.
+
+e) Conclusión y archivo de expediente.
+
+f) Determinación de existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como falta administrativa y su calificación.
+
+g) Remisión a la Dirección General Jurídica de la copia certificada del expediente en los casos en que se presuma la comisión de un delito.
+
+h) Suscribir el Informe de Presunta Responsabilidad Administrativa.
+
+XX. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+Artículo 38 Novies. La Dirección General de Investigación “C” estará adscrita a la Auditoría Especial de Seguimiento, Informes e Investigación, y su titular tendrá las siguientes atribuciones:
+
+I. Recibir de las Direcciones Generales de Seguimiento los expedientes y dictámenes técnicos por la falta de solventación de los pliegos de observaciones;
+
+II. Realizar investigaciones debidamente fundadas y motivadas respecto de las conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas;
+
+III. Incorporar a sus investigaciones las técnicas, tecnologías y métodos de investigación que observen las mejores prácticas internacionales;
+
+IV. Sugerir al Auditor Especial de Seguimiento, Informes e Investigación, mecanismos de cooperación necesarios a fin de fortalecer los procedimientos de investigación;
+
+V. Acceder a la información necesaria para el esclarecimiento de los hechos con inclusión de aquella que las disposiciones legales en la materia consideren de carácter confidencial, debiendo mantener la misma reserva o secrecía conforme a lo que se determine en las leyes. No serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal, bancaria, fiduciaria o relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios;
+
+VI. Ordenar la práctica de visitas de verificación;
+
+VII. Formular requerimientos de información y documentación a los entes públicos y a las personas físicas o morales que sean materia de la investigación, así como a cualquier otra, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas, en términos de las disposiciones jurídicas aplicables;
+
+VIII. Imponer las medidas para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+IX. Determinar la existencia o inexistencia de actos u omisiones que la Ley General de Responsabilidades Administrativas señale como faltas administrativas y, en su caso, calificarlas;
+
+X. Suscribir y, en su caso, elaborar el Informe de Presunta Responsabilidad Administrativa para su presentación ante las Direcciones Generales de Substanciación dentro del plazo de 30 días naturales a partir de la calificación de la falta administrativa;
+
+XI. Elaborar y remitir a la Dirección General Jurídica, el dictamen y expediente técnico que integre la documentación y comprobación necesarias para promover las acciones legales en el ámbito penal que procedan como resultado de las irregularidades que se detecten;
+
+XII. Promover el Informe de Presunta Responsabilidad Administrativa y en su caso, penal a los servidores públicos de la Auditoría Superior de la Federación, cuando derivado de las auditorías a cargo de ésta, no formulen las observaciones sobre las situaciones irregulares que detecten o violen la reserva de información;
+
+XIII. Emitir, en su caso, acuerdo de conclusión y archivo del expediente si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, sin perjuicio de que pueda abrirse nuevamente la investigación, si se presentan nuevos indicios o pruebas suficientes para determinar la existencia de la infracción y responsabilidad del infractor;
+
+XIV. Impugnar la determinación de las autoridades resolutoras de abstenerse de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público o particular, así como interponer los recursos que resulten procedentes, en términos de la Ley General de Responsabilidades Administrativas;
+
+XV. Recurrir las determinaciones del Tribunal, de la Fiscalía Especializada y de cualquier otra autoridad, en términos de las disposiciones legales aplicables;
+
+XVI. Preparar y tramitar los informes previo y justificado, que deban rendir los servidores públicos de la Auditoría Superior de la Federación en los juicios de amparo que se promuevan con motivo de los procedimientos de investigación de presuntas faltas administrativas; y, en general, formular todas las promociones que se refieran a dichos juicios, en calidad de autoridad responsable o tercero interesado;
+
+XVII. Comparecer, de conformidad con la Ley General de Responsabilidades Administrativas, dentro del procedimiento de responsabilidad administrativa, ante las Direcciones Generales de Substanciación, el Tribunal y la Fiscalía, según corresponda;
+
+XVIII. Solicitar a las Direcciones Generales de Substanciación y al Tribunal, según corresponda, que se decreten las medidas cautelares correspondientes;
+
+XIX. Instruir, por sí o a través de sus Directores de Área, el procedimiento de investigación, para lo cual dichos Directores tendrán todas las facultades necesarias para el desahogo de las diligencias que se estimen pertinentes, con excepción de las siguientes actuaciones procedimentales, que serán emitidas exclusivamente por el titular de la Dirección General de Investigación “C”:
 
 a) Inicio de investigación.
 
@@ -2538,6 +2788,10 @@ II. Analizar, revisar, formular y someter a la consideración del Titular de la 
 > <small>(ADICIONADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
 II Bis. Elaborar y actualizar la normativa de carácter jurídico y los lineamientos necesarios para el cumplimiento de disposiciones jurídicas y someterlos a aprobación del Titular de la Unidad de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+II Ter. Participar en la coordinación del personal que ejerza funciones de apoyo jurídico o asesoría jurídica que se encuentre adscrito a las unidades administrativas de la Auditoría Superior de la Federación, para el efecto de la determinación de criterios jurídicos institucionales, así como someter éstos a la aprobación del Titular de la Unidad de Asuntos Jurídicos
 
 III. Participar en la elaboración de los informes individuales, específicos y General en el ámbito de su competencia;
 
@@ -2601,6 +2855,18 @@ XXVIII. Opinar sobre el no ejercicio o el desistimiento de la acción penal, y p
 
 XXIX. Dar seguimiento a las denuncias penales y atender los requerimientos de las autoridades competentes, recabando la información en las unidades administrativas auditoras, previo análisis de los mismos;
 
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XXIX Bis. Participar en la substanciación de Mecanismos Alternativos de Solución de Controversias en Materia Penal y pronunciarse respecto a la suspensión condicional del proceso y el procedimiento abreviado, conforme a la normatividad aplicable y a la opinión técnica que emitan las áreas competentes, a petición de la Dirección General Jurídica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XXIX Ter. Celebrar acuerdos reparatorios, conforme a la normatividad aplicable y a la opinión técnica que emitan las áreas competentes, a petición de la Dirección General Jurídica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+XXIX Quater. Solicitar a las direcciones generales competentes la opinión técnica que se requiera conforme a la normatividad aplicable;
+
 XXX. Preparar, en apoyo al Auditor Superior de la Federación las impugnaciones, de las determinaciones de la Fiscalía Especializada y del Tribunal;
 
 XXXI. Preparar, en el ámbito de su competencia, los informes previo y justificado que deba rendir la Auditoría Superior de la Federación en los juicios de amparo y en aquellos en los que sus servidores públicos sean señalados como autoridades responsables, así como intervenir en representación de la Auditoría Superior de la Federación cuando ésta tenga el carácter de tercero interesado y, en general, formular todas las promociones que se refieran a dichos juicios;
@@ -2615,7 +2881,9 @@ XXXV. Promover la imposición de sanciones administrativas y penales que se deri
 
 XXXVI. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
-Las atribuciones a que se refieren las fracciones XXV, XXVI, XXVII, XXVIII y XXIX de este artículo podrán ser ejercidas indistintamente por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores adscritos a la Dirección General Jurídica.
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+Las atribuciones a que se refieren las fracciones XXV, XXVI, XXVII, XXVIII, XXIX y XXIX Bis de este artículo podrán ser ejercidas indistintamente por los Directores, Subdirectores, Jefes de Departamento, Coordinadores de Auditores y Auditores adscritos a la Dirección General Jurídica.
 
 ###### Artículo 40.
 
@@ -2697,23 +2965,23 @@ XV. Las demás que en el ámbito de su competencia le otorguen las disposiciones
 
 (DEROGADO, D.O.F. 13 DE JULIO DE 2018)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 45.
 
-La Dirección General de Substanciación es la unidad administrativa de la Auditoría Superior de la Federación encargada de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa y hasta la conclusión de la audiencia inicial.
+Las Direcciones Generales de Substanciación "A" y Substanciación "B" son las unidades administrativas de la Auditoría Superior de la Federación encargadas de dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad administrativa, hasta la conclusión de la audiencia inicial.
 
-La Dirección General de Substanciación deberá observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
+Las Direcciones Generales de Substanciación "A" y Substanciación "B" deberán observar los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material y respeto a los derechos humanos.
 
-> <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 46.
 
-La Dirección General de Substanciación estará adscrita a la Unidad de Asuntos Jurídicos y su titular tendrá las siguientes atribuciones:
+La Dirección General de Substanciación "A" estará adscrita a la Unidad de Asuntos Jurídicos y su titular tendrá las siguientes atribuciones:
 
 I. Emitir, en caso de considerarlo procedente, el acuerdo de admisión del Informe de Presunta Responsabilidad Administrativa con el que se dará inicio al procedimiento de responsabilidad, o abstenerse de iniciar el mismo en términos del artículo 101 de la Ley General de Responsabilidades Administrativas;
 
-II. Decretar, cuando sea procedente, la acumulación en términos del artículo 185 y 186 de la Ley General de Responsabilidades Administrativas;
+II. Decretar, cuando sea procedente, la acumulación en términos de los artículos 185 y 186 de la Ley General de Responsabilidades Administrativas;
 
 III. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
 
@@ -2723,17 +2991,47 @@ V. Conocer y tramitar los incidentes, así como los medios de impugnación que s
 
 VI. Decretar las medidas cautelares establecidas en la Ley General de Responsabilidades Administrativas;
 
-VII. Prevenir, o en su caso tener por no presentado el Informe de Presunta Responsabilidad Administrativa remitido por la Dirección General de Investigación en términos del artículo 195 de la Ley General de Responsabilidades Administrativas;
+VII. Prevenir, o en su caso tener por no presentado el Informe de Presunta Responsabilidad Administrativa remitido por las Direcciones Generales de Investigación en términos del artículo 195 de la Ley General de Responsabilidades Administrativas;
 
 VIII. Decretar el desechamiento cuando se actualice alguna de las hipótesis del artículo 196, así como sobreseer en términos del artículo 197, ambos de la Ley General de Responsabilidades Administrativas;
 
-IX. Substanciar y presentar ante el Tribunal el expediente de presunta responsabilidad administrativa que le remita la Dirección General de Investigación en los casos de faltas administrativas graves;
+IX. Substanciar y presentar ante el Tribunal el expediente de presunta responsabilidad administrativa que le remitan las Direcciones Generales de Investigación en los casos de faltas administrativas graves;
 
-X. Expedir copia certificada de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental, y
+X. Expedir copia certificada de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y
 
 XI. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las demás disposiciones jurídicas aplicables.
 
-Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI de este artículo podrán ser ejercidas indistintamente por los Directores adscritos a la Dirección General de Substanciación.
+Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI de este artículo podrán ser ejercidas indistintamente por los Directores adscritos a la Dirección General de Substanciación "A".
+
+> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 46 Bis.
+
+La Dirección General de Substanciación "B" estará adscrita a la Unidad de Asuntos Jurídicos y su titular tendrá las siguientes atribuciones:
+
+I. Emitir, en caso de considerarlo procedente, el acuerdo de admisión del Informe de Presunta Responsabilidad Administrativa con el que se dará inicio al procedimiento de responsabilidad, o abstenerse de iniciar el mismo en términos del artículo 101 de la Ley General de Responsabilidades Administrativas;
+
+II. Decretar, cuando sea procedente, la acumulación en términos de los artículos 185 y 186 de la Ley General de Responsabilidades Administrativas;
+
+III. Habilitar días y horas inhábiles para la práctica de aquellas diligencias que a su juicio se requieran;
+
+IV. Hacer uso de los medios de apremio a que se refiere el artículo 120 de la Ley General de Responsabilidades Administrativas para hacer cumplir sus determinaciones;
+
+V. Conocer y tramitar los incidentes, así como los medios de impugnación que sean de su competencia;
+
+VI. Decretar las medidas cautelares establecidas en la Ley General de Responsabilidades Administrativas;
+
+VII. Prevenir, o en su caso tener por no presentado el Informe de Presunta Responsabilidad Administrativa remitido por la Direcciones Generales de Investigación en términos del artículo 195 de la Ley General de Responsabilidades Administrativas;
+
+VIII. Decretar el desechamiento cuando se actualice alguna de las hipótesis del artículo 196, así como sobreseer en términos del artículo 197, ambos de la Ley General de Responsabilidades Administrativas;
+
+IX. Substanciar y presentar ante el Tribunal el expediente de presunta responsabilidad administrativa que le remitan las Direcciones Generales de Investigación en los casos de faltas administrativas graves;
+
+X. Expedir copia certificada de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y
+
+XI. Las demás que en el ámbito de su competencia le otorguen la Ley General de Responsabilidades Administrativas y las demás disposiciones jurídicas aplicables.
+
+Las atribuciones a que se refieren las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X y XI de este artículo podrán ser ejercidas indistintamente por los Directores adscritos a la Dirección General de Substanciación "B".
 
 ###### Artículo 47.
 
@@ -3003,9 +3301,7 @@ IV. Proponer los requisitos que los informes individuales de auditoría e inform
 
 V. Mantener actualizada la normativa técnica en el Sistema de Control de Documentos;
 
-> <small>(REFORMADA, D.O.F. 25 DE AGOSTO DE 2021)</small>
-
-VI. Vigilar, en coordinación con la Dirección General de Sistemas que el Sistema de Control y Seguimiento de Auditorías cumpla con las disposiciones normativas de los procesos de Planeación, Desarrollo, Integración del Informe General, Seguimiento y Fincamiento de Responsabilidades Resarcitorias;
+VI. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA, D.O.F. 13 DE JULIO DE 2018)</small>
 
@@ -3089,13 +3385,15 @@ XXVI. Las demás que en el ámbito de su competencia le otorguen las disposicion
 
 La Dirección General de Planeación y Evaluación estará adscrita a la Unidad de Normatividad y Enlace Legislativo y su titular tendrá las siguientes atribuciones:
 
-I. Supervisar y coordinar la elaboración, seguimiento y evaluación del Plan Estratégico Institucional de la Auditoría Superior de la Federación, en colaboración con las áreas competentes, así como proponer las mejoras correspondientes; mismo que será el instrumento básico para el Programa Anual de Actividades;
+> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
-II. Requerir a las entidades fiscalizadas información para efectos de la planeación para la fiscalización superior;
+I. Supervisar y coordinar la elaboración, seguimiento y evaluación del Plan Estratégico Institucional de la Auditoría Superior de la Federación, en colaboración con las áreas competentes, así como proponer las mejoras correspondientes;
+
+II. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 III. Proponer la elaboración y actualización de las disposiciones normativas para regular la planeación estratégica y de auditorías, así como los lineamientos, manuales y metodologías sobre las materias correspondientes;
 
-IV. Elaborar y presentar propuestas de auditorías, estudios y evaluaciones de políticas públicas;
+IV. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 V. Coordinar el grupo de planeación para la integración y seguimiento del Programa Anual de Auditorías;
 
@@ -3111,21 +3409,21 @@ X. Operar el sistema para la presentación y atención de las denuncias electró
 
 XI. Proponer indicadores estratégicos que permitan evaluar el desempeño de las actividades correspondientes a la Dirección a su cargo y someterlas a la consideración de su superior jerárquico;
 
-XII. Coordinar la elaboración de los estudios, opiniones, informes y demás documentos que le sean encomendados;
+XII. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 XIII. Asesorar en materia de planeación y programación de auditorías a las áreas que lo soliciten;
 
 XIV. Impulsar y coordinar acciones de fortalecimiento institucional con las áreas correspondientes;
 
-XV. Participar, cuando así corresponda, en el procedimiento de revisión institucional de los informes de auditoría que se consideren estratégicos, con el fin de contribuir a la mejora de la calidad de éstos;
+XV. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 XVI. Definir y conducir iniciativas de evaluación y análisis, así como desarrollar propuestas de mejora a los instrumentos de planeación y a lo largo del proceso de fiscalización, según corresponda;
 
-XVII. Proponer a su superior jerárquico modificaciones a la ley o, en su caso, reformas constitucionales para mejorar el proceso de planeación de la fiscalización superior, y
+XVII. (DEROGADA, D.O.F. 14 DE DICIEMBRE DE 2022)
 
 XVIII. Las demás que en el ámbito de su competencia le otorguen las disposiciones jurídicas aplicables.
 
-Las atribuciones a que hacen referencia las fracciones II y XVIII, de este artículo podrán ejercerse a través de medios físicos o electrónicos mediante el Buzón Digital de la Auditoría Superior de la Federación o cualquier otra herramienta tecnológica que al efecto implemente la Auditoría Superior de la Federación.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE AGOSTO DE 2021)</small>
 
@@ -3278,6 +3576,10 @@ V. Intervenir en la forma que determine su superior jerárquico en el análisis 
 VI. Proponer a su superior jerárquico la aplicación de los mecanismos de coordinación, programación, control, evaluación y de mejoramiento de la eficiencia operativa y funcional del área a su cargo, tanto en el ámbito interno como hacia el resto de las áreas de la Auditoría Superior de la Federación, de acuerdo con los manuales de organización y de procedimientos;
 
 VII. Detectar las necesidades de capacitación del personal de la Dirección y presentarlas a consideración de su superior jerárquico;
+
+> <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2022)</small>
+
+VII Bis. Impartir y llevar a cabo cualquier actividad de docencia que se requiera, en el marco de las atribuciones de la unidad administrativa a la que se encuentren adscritos y con base en la experiencia profesional y laboral con la que cuenten;
 
 VIII. Formular y proponer a su superior jerárquico los proyectos de manuales de organización y de procedimientos correspondientes a la dirección a su cargo;
 
@@ -3704,3 +4006,9 @@ SEGUNDO. Todas las referencias en las disposiciones administrativas vigentes a l
 TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Acuerdo continuarán su despacho por las unidades administrativas competentes, conforme a las disposiciones del presente Acuerdo.
 
 CUARTO. Los dictámenes técnicos para la presentación de denuncia de hechos que a la entrada en vigor del presente Acuerdo se encuentren en las unidades administrativas auditoras, deberán ser remitidos a la Dirección General de Seguimiento "A" y a la Dirección General de Seguimiento "B", en términos de las directrices que para tal efecto se establezcan.
+
+D.O.F. 14 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
