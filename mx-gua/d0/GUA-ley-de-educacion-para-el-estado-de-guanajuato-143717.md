@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2021-11-23"
+last_updated: "2022-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -717,7 +717,9 @@ VIII. Gestionar los recursos para el apoyo de los servicios educativos de su com
 
 IX. Vigilar el cumplimiento del calendario escolar aplicable a la educación básica;
 
-X. Promover en los educandos el conocimiento y formación en materia de educación sexual, orientación vocacional y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+X. Promover en los educandos el conocimiento y formación en materia de educación sexual, orientación vocacional con perspectiva de género y métodos de estudio, que contribuya al desarrollo de sus proyectos de vida;
 
 XI. Establecer los mecanismos administrativos para que el Sistema Educativo Estatal opere en forma integrada, con el seguimiento y evaluación de su ejecución;
 
@@ -1673,7 +1675,9 @@ IV. Ser respetados por su libertad de convicciones éticas, de conciencia, de re
 
 V. Tener un docente frente a grupo que contribuya al logro de su aprendizaje y desarrollo integral;
 
-VI. Recibir orientación educativa y vocacional;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+VI. Recibir orientación educativa y vocacional con perspectiva de género;
 
 VII. Participar de los procesos que se deriven en los planteles educativos, en los términos de las disposiciones respectivas;
 
@@ -1729,9 +1733,13 @@ Orientación vocacional
 
 Las instituciones educativas que operan en el Estado deberán proporcionar la orientación vocacional necesaria, a fin de que el educando esté en condiciones de elegir su profesión para continuar con la educación media superior, superior o su inserción en el campo productivo.
 
-La orientación vocacional que otorguen las instituciones educativas deberá contribuir a que el educando defina satisfactoriamente su proyecto de vida y desarrolle sus potencialidades.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
 
-La Secretaría y demás instancias educativas de carácter estatal podrán coordinarse, con asociaciones de profesionistas u otros organismos para otorgar la orientación vocacional.
+La orientación vocacional que otorguen las instituciones educativas deberá contribuir a que el educando defina satisfactoriamente su proyecto de vida y desarrolle sus potencialidades incluyendo información actualizada sobre las áreas de conocimiento más demandadas y su oportunidad laboral.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría y demás instancias educativas de carácter estatal podrán coordinarse, con asociaciones de profesionistas u otros organismos para otorgar la orientación vocacional con perspectiva de género.
 
 Inscripción de mayores de edad y emancipados
 
@@ -3274,3 +3282,9 @@ Para todos los efectos legales correspondientes, las referencias al Instituto de
 Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las secretarías de Desarrollo Social y Humano; y de Infraestructura, Conectividad y Movilidad para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+P.O. 14 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 120 DE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
