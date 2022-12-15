@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-de-oaxaca-126043"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2021-12-18"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 20 de diciembre de 2017.
 
@@ -1187,7 +1187,7 @@ Se causarán y pagarán derechos por los servicios públicos que se realice (sic
 
 > <small>[N. DE E. VÉASE TABLA DE CUOTAS EN EL P.O. DE 20 DE DICIEMBRE DE 2017, PÁGINA 28.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE CUOTAS EN EL P.O. DE 29 DE DICIEMBRE DE 2018, PÁGINA 25; Y 15 DE DICIEMBRE DE 2022, PÁGINA 25.]</small>
 
 A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y, 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
 
@@ -1308,5 +1308,15 @@ P.O. 18 DE DICIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 755.- MEDIANTE EL CUAL SE REFORMAN LOS INCISOS A) Y C) DE LA FRACCIÓN IV DEL ARTÍCULO 56 DE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
