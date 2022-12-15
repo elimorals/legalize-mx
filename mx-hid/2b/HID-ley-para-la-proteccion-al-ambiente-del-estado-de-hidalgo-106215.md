@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2022-05-23"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -856,6 +856,10 @@ El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas compe
 La Secretaría, previa determinación y a petición del gobernador, promoverá ante las instancias correspondientes el otorgamiento de estímulos a las personas físicas y morales que realicen acciones para la protección, preservación o restauración del equilibrio ecológico.
 
 Cuando se trate de programas institucionales que incluyan acciones de restauración, éstas últimas deberán incluir especies nativas o adecuadas a cada región a fin de evitar la sustitución de especies.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+Los instrumentos económicos deben estar orientados a generar equidad social, además, en su diseño, desarrollo y aplicación se deberá hacer con perspectiva de género e interculturalidad sobre la distribución de costos y beneficios que posean los objetivos de la política ambiental local.
 
 ###### Artículo 29.
 
@@ -3420,3 +3424,9 @@ P.O. 23 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 198 QUE ADICIONA LA FRACCIÓN XIX BIS DEL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 308 QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 28 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
