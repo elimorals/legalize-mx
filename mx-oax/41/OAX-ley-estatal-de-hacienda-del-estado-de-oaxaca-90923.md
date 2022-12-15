@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2021-12-18"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -1179,9 +1179,65 @@ Tratándose de contribuyentes con establecimientos en diversos lugares del terri
 
 La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
-### CAPÍTULO OCTAVO. PARA EL DESARROLLO SOCIAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO NOVENO. IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
+### CAPÍTULO SÉPTIMO BIS. IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 A. Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado, con excepción de la cerveza, el aguamiel y productos derivados de su fermentación, ya que se encuentran expresamente reservadas a la Federación.
+
+Para efectos de este Capítulo, se entenderá como venta final la que se efectúa en el territorio del Estado, cuando en el mismo se realice la entrega material de los bienes objeto de este Capítulo, por parte del importador, productor, envasador o distribuidor, según sea el caso, para su posterior venta al público en general o consumo.
+
+De igual forma se causará el presente impuesto cuando el importador, productor, envasador o distribuidor, según sea el caso, enajene directamente al público en general los bienes objeto de este capítulo en botella cerrada.
+
+Asimismo, se considerará venta final, el faltante de inventario o el consumo propio de las bebidas descritas en el presente Capítulo.
+
+Se entenderá como bebidas con contenido alcohólico, aquellas que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 B. Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que realicen en el territorio del Estado la venta final de bebidas con contenido alcohólico.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 C. La base para el cálculo y determinación de este impuesto, será el precio de la venta final de las bebidas con contenido alcohólico, sin incluir los Impuestos al Valor Agregado, ni el Impuesto Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 D. Este impuesto se determinará aplicando a la base la tasa del 4.5 por ciento.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 E. El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto del presente Capítulo, cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada la tasa respectiva.
+
+Cuando la contraprestación percibida no sea en dinero, sino total o parcialmente en bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos se tomarán en cuenta en caso de donación, cuando por ello deba pagar el presente Impuesto.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 F. El impuesto, será enterado por el enajenante mediante presentación de declaración definitiva de forma bimestral, dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente, en los formatos y conforme a las reglas de carácter general que emita la Secretaría. Este impuesto no será acreditable contra otros impuestos locales o federales.
+
+Los contribuyentes del Impuesto a la Venta Final de Bebidas con contenido Alcohólico, deberán formular declaraciones hasta en tanto no presenten aviso de disminución de obligaciones, suspensión de actividades o cancelación al Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 57 G. Los sujetos obligados de este impuesto, además de las obligaciones establecidas en la Ley, tendrán las siguientes:
+
+I. Registrarse para los efectos de este impuesto, ante la Secretaría, mediante aviso que será presentado en las formas o medios electrónicos, que para tal efecto se autorice por la misma.
+
+II. Llevar un registro pormenorizado de las ventas, por cada establecimiento, local, agencia o sucursal en que se efectúen, identificando los montos de cada una de dichas operaciones y las cantidades que integran la base del impuesto.
+
+III. Expedir comprobantes por cada una de las operaciones, sin que el impuesto establecido en este Capítulo se traslade en forma expresa y por separado.
+
+IV. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del Código, y
+
+V. Las demás que se establezcan en esta Ley y los demás ordenamientos fiscales.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+Articulo 57 H. No se causará este impuesto por las ventas de bebidas alcohólicas cuando éstas se realicen al público en general, en botellas abiertas o por copeo, para su consumo en el mismo lugar o establecimiento en el que se enajenen.
+
+### CAPÍTULO OCTAVO. PARA EL DESARROLLO SOCIAL
 
 ###### ARTÍCULO 58.
 
@@ -1241,81 +1297,7 @@ Las personas físicas, morales o unidades económicas que se instalen dentro del
 
 Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que se instalen dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de seis por ciento sobre la base que señala en el artículo 61 de esta Ley por los cinco años siguientes.
 
-### CAPÍTULO NOVENO BIS. IMPUESTO SOBRE LA EXTRACCIÓN DE MATERIALES POR REMEDIACIÓN AMBIENTAL
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 A. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aun y cuando constituyan vetas, mantos o yacimientos, tales como los agregados pétreos, la andesita, las arcillas, la arena, el azufre, la caliza, la grava, la riolita, las rocas dimensionables, la sal, la vermiculita, el yeso, piedras y sustrato o capa fértil.
-
-Para estos efectos, la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado. No se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
-
-Para efectos del presente artículo se entenderá como:
-
-I. Agregados Pétreos: Los materiales granulares sólidos inertes que se emplean en los firmes de las carreteras con o sin adición de elementos activos y con granulometrías adecuadas; se utilizarán para la fabricación de productos artificiales resistentes, mediante su mezcla con materiales aglomerados de activación hidráulica (cementos, cales, entre otros) o con ligantes asfálticos, y
-
-II. Rocas dimensionables: el granito, la cantera, el mármol, el ónix, roca travertino, rocas sedimentarias y demás rocas para la construcción.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 B. Son sujetos de este impuesto las personas físicas, las personas morales o unidades económicas que dentro del territorio del Estado extraigan del suelo y subsuelo materiales referidos en el Artículo 69 A.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 C. La base de este impuesto es el volumen de metros cúbicos de material extraído del suelo y subsuelo que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 D. Este impuesto se causará aplicando a la base las cuotas por metro cúbico que se extraiga de los materiales objeto de la contribución, en los términos siguientes:
-
-Material Cuota en UMA
-
-Agregados Pétreos 0.31
-
-Andesita 0.47
-
-Arcillas 0.19
-
-Arena 0.25
-
-Azufre 2.04
-
-Caliza 0.21
-
-Grava 0.20
-
-Riolita 0.31
-
-Rocas dimensionables 2.94
-
-Sal 0.67
-
-Vermiculita 7.45
-
-Yeso 0.40
-
-Piedras y sustrato o capa fértil 0.13
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 E. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente en que ocurran las actividades de extracción de materiales objeto de la contribución.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
-
-ARTÍCULO 69 F. Los sujetos obligados al pago de este impuesto tendrán a su cargo las obligaciones siguientes:
-
-I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este Capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos;
-
-II. Presentar las declaraciones del impuesto y enterar y pagar el impuesto correspondiente en la forma y los términos previstos en este Capítulo y en las Reglas;
-
-III. Llevar la contabilidad de conformidad con el Código.
-
-IV. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo;
-
-V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
-
-VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del Código; y
-
-VII. Las demás que señale la ley y los ordenamientos fiscales aplicables.
+### CAPÍTULO NOVENO. IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
 ###### ARTÍCULO 63.
 
@@ -1497,7 +1479,81 @@ La presentación de declaraciones informativas a que refiere este artículo se r
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO NOVENO BIS. IMPUESTO SOBRE LA EXTRACCIÓN DE MATERIALES POR REMEDIACIÓN AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 A. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aun y cuando constituyan vetas, mantos o yacimientos, tales como los agregados pétreos, la andesita, las arcillas, la arena, el azufre, la caliza, la grava, la riolita, las rocas dimensionables, la sal, la vermiculita, el yeso, piedras y sustrato o capa fértil.
+
+Para estos efectos, la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado. No se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
+
+Para efectos del presente artículo se entenderá como:
+
+I. Agregados Pétreos: Los materiales granulares sólidos inertes que se emplean en los firmes de las carreteras con o sin adición de elementos activos y con granulometrías adecuadas; se utilizarán para la fabricación de productos artificiales resistentes, mediante su mezcla con materiales aglomerados de activación hidráulica (cementos, cales, entre otros) o con ligantes asfálticos, y
+
+II. Rocas dimensionables: el granito, la cantera, el mármol, el ónix, roca travertino, rocas sedimentarias y demás rocas para la construcción.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 B. Son sujetos de este impuesto las personas físicas, las personas morales o unidades económicas que dentro del territorio del Estado extraigan del suelo y subsuelo materiales referidos en el Artículo 69 A.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 C. La base de este impuesto es el volumen de metros cúbicos de material extraído del suelo y subsuelo que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 D. Este impuesto se causará aplicando a la base las cuotas por metro cúbico que se extraiga de los materiales objeto de la contribución, en los términos siguientes:
+
+Material Cuota en UMA
+
+Agregados Pétreos 0.31
+
+Andesita 0.47
+
+Arcillas 0.19
+
+Arena 0.25
+
+Azufre 2.04
+
+Caliza 0.21
+
+Grava 0.20
+
+Riolita 0.31
+
+Rocas dimensionables 2.94
+
+Sal 0.67
+
+Vermiculita 7.45
+
+Yeso 0.40
+
+Piedras y sustrato o capa fértil 0.13
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 E. El pago de este impuesto se efectuará mediante declaración bimestral definitiva que deberá ser presentada en los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente en que ocurran las actividades de extracción de materiales objeto de la contribución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 69 F. Los sujetos obligados al pago de este impuesto tendrán a su cargo las obligaciones siguientes:
+
+I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este Capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos;
+
+II. Presentar las declaraciones del impuesto y enterar y pagar el impuesto correspondiente en la forma y los términos previstos en este Capítulo y en las Reglas;
+
+III. Llevar la contabilidad de conformidad con el Código.
+
+IV. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, así como del resto de las obligaciones a su cargo en términos del Código; y
+
+VII. Las demás que señale la ley y los ordenamientos fiscales aplicables.
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -1541,8 +1597,6 @@ III. Los no comprendidos en las fracciones de la Ley de Ingresos causadas en eje
 
 ### CAPÍTULO ÚNICO
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
-
 ###### ARTÍCULO 74.
 
 Son los ingresos que obtienen las diversas dependencias y entidades de la Administración Pública por sus actividades de producción y/o comercialización, entre los cuales se encuentran:
@@ -1557,6 +1611,8 @@ III. Los provenientes por ventas de bienes y servicios producidos en establecimi
 
 ### CAPÍTULO ÚNICO
 
+> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 ###### ARTÍCULO 75.
 
 Son los recursos que por disposición de la Ley de Coordinación Fiscal le corresponden al Estado y Municipios de la Entidad; inclúye los recursos destinados a la ejecución de programas federales que mediante la reasignación de recursos presupuestarios se obtiene en los términos de los Convenios que celebre el Gobierno del Estado con la Federación.
@@ -1570,6 +1626,8 @@ Son los recursos que por disposición de la Ley de Coordinación Fiscal le corre
 Son los recursos destinados en forma directa o indirecta a los sectores públicos, privado y externo, organismos y empresas paraestatales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
 
 ## TÍTULO NOVENO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTO
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 77.
 
@@ -1720,5 +1778,15 @@ P.O. 18 DE DICIEMBRE DE 2021.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintidós, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 756.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO SÉPTIMO BIS “IMPUESTO A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO”, CON LOS ARTÍCULOS 57 A, 57 B, 57 C, 57 D, 57 E, 57 F, 57 G Y 57 H A LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
