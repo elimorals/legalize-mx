@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2022-10-22"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -316,6 +316,12 @@ b) El desempeño productivo por el tiempo que autodeterminen, siempre colocando 
 c) Que las oportunidades de trabajo que se pongan a su disposición sean acordes a sus capacidades físicas, aptitudes y habilidades; y,
 
 d) La integración de bolsas de trabajo que deberán conformarse por el Estado y en su caso, por los ayuntamientos, con la inclusión de ofertas laborales, en las que deberán participar corresponsablemente, tanto los gobiernos de ambos niveles como las empresas privadas y la sociedad civil organizada.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO D, P.O. 15 DE DICIEMBRE DE 2022.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+Para efectos del párrafo anterior, las autoridades estatales y municipales, garantizarán que al menos el 2% del total de la plantilla laboral de las administraciones públicas sea destinada a la contratación de personas adultas mayores, en caso de no cumplirse se sancionará conforme a lo establecido en el artículo 35 de esta misma Ley.
 
 VIII. A la asistencia social, que incluye:
 
@@ -936,3 +942,11 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 745.- MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL INCISO D), DE LA FRACCIÓN VII DEL ARTÍCULO 9 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
