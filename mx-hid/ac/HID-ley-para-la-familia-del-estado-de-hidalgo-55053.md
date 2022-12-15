@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2022-11-24"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -165,9 +165,7 @@ Toda persona tiene obligación de revelar al Oficial del Registro del Estado Fam
 
 Son impedimentos para contraer matrimonio:
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
-
-I.- Incapacidad mental;
+I.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2022)
 
 II.- El parentesco por consanguinidad sin limitación de grado en la línea recta ascendente o descendente;
 
@@ -3506,3 +3504,9 @@ P. O. 24 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 311 QUE DEROGA LA FRACCIÓN PRIMERA DEL ARTÍCULO 19 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
