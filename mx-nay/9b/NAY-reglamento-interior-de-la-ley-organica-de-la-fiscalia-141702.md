@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-ley-organica-de-la-fiscalia-141702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-23"
-last_updated: "2020-01-23"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,653 +21,389 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE NAYARIT
 
-REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE SAN LUIS RÍO COLORADO DEL ESTADO DE SONORA
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en la Sección Primera del Número 15 del Periódico Oficial del Estado de Nayarit, el jueves 23 de enero de 2020.
+Reglamento publicado en el Boletín Oficial del Estado de Sonora, el miércoles 27 de marzo de 2013.
 
-Lic. Petronilo Díaz Ponce Medrano, Fiscal General del Estado de Nayarit, con fundamento en lo dispuesto por los artículos 21 de la Constitución Política de los Estados Unidos Mexicanos; 7, 92, 93 de la Constitución Política para el Estado de Nayarit, y 11 fracción XII y Cuarto Transitorio de la Ley Orgánica de la Fiscalía General del Estado de Nayarit, y;
+El Consejo Directivo de la Universidad Tecnológica de San Luis Rio Colorado con fundamento en lo establecido en los artículos 56 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora y 13, fracción II, del Decreto que Crea la Universidad Tecnológica de San Luis Rio Colorado, ha tenido a bien aprobar el siguiente:
 
-CONSIDERANDO
-
-Las instituciones del estado, como expresiones del quehacer humano, deben adaptarse a los tiempos, condiciones y necesidades de la sociedad, máxime, tratándose de tópicos de procuración y acceso a la justicia, cuya efectiva materialización redunde en brindar a la ciudadanía un servicio moderno, eficaz y empático.
-
-En ese sentido, bajo tal mística, nuestro estado presenta importantes avances en materia normativa como lo fue la implementación de reformas en la asignatura procesal-penal, a la par de la especialización de la investigación criminal y el desarrollo y modernización de la infraestructura y equipo para el desempeño de las tareas ministeriales, entre otros aspectos de análoga envergadura.
-
-En efecto, en virtud de la reforma a la Constitución Política de los Estados Unidos Mexicanos en materia de justicia penal y seguridad pública, difundida el 18 de junio de 2008, en el Diario Oficial de la Federación, la cual instauró un nuevo orden jurídico nacional, que vinculó tanto a la federación y a los estados a adoptar el sistema procesal penal acusatorio; en nuestra entidad fueron publicadas en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit, las reformas a la Constitución Política para el Estado, en vista y derivado de las cuales, se adecuó el orden jurídico local, a fin de incorporar las disposiciones constitucionales del sistema procesal penal acusatorio, instaurando con trascendente acto legislativo, el inicio del cambio generacional y parteaguas de alta relevancia para transitar del sistema mixto de corte inquisitivo a uno de carácter e índole mayormente garantista como una nueva cultura de procuración e impartición de justicia.
-
-A partir de las enmiendas mencionas (sic), una parte fundamental del referido proceso de transición giró en torno a las (sic) modernización, mejora, independencia y autonomía de las instituciones operadoras del mismo, entre ellas las destinadas a la procuración de justicia.
-
-A su vez, en observancia a dicha enmienda a la Constitución Política de los Estados Unidos Mexicanos, el constituyente permanente local, mediante decreto legislativo, reformó y adicionó diversos dispositivos de la Constitución Política para el Estado de Nayarit, el cual, fue publicado en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit, con fecha 14 de enero del 2017, estableciendo a rango constitucional, la organización del Ministerio Público en una Fiscalía General del Estado, con naturaleza jurídica de órgano público autónomo, dotado de personalidad jurídica y patrimonio propio, especificando en su artículo 7 fracción XV y 92 que “el estado tiene la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, independencia, indivisibilidad y progresividad. Todos los habitantes del estado gozaran sea cual fuere su condición: fracción XV. El ejercicio de la acción penal ante los órganos jurisdiccionales, corresponde al Ministerio Público. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos que determine la ley”. “El Ministerio Público es el representante legítimo de los intereses sociales y es una institución autónoma, dotado de personalidad jurídica y de patrimonio, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos”.
-
-En tal sentido, con fecha 28 de mayo del año dos mil diecinueve, el Poder Legislativo del estado reformó la Ley Orgánica de la Fiscalía General del Estado de Nayarit, mismo que fue publicado en el Periódico Oficial Órgano de Gobierno del Estado de Nayarit; en tal sentido, con base en lo dispuesto en el citado artículo 92 de la Constitución Política del Estado de Nayarit, por cuanto al Artículo Cuatro Transitorio, por el que se reformaron y adicionaron diversas disposiciones de la Ley Orgánica de la Fiscalía General del Estado de Nayarit, en correlación con la declaratoria de entada (sic) en vigor de la autonomía constitucional de la señalada fiscalía, emitida por la Legislatura XXXI del Congreso Local, y la correspondiente toma de protesta del cargo como Fiscal General del Estado ante el pleno del Poder Legislativo Estatal, en su sesión ordinaria del 21 de diciembre del 2017, resulta procedente la emisión del presente reglamento interior, bajo la visión de atender las exigencias sociales de disponer y contar con una institución del Ministerio Público, que además de libre e independiente, se consolide en el ámbito de la profesionalización, eficacia en los procesos de gestión y atención, así como en los objetivos vislumbrados y que éticamente se comprometa debidamente con la procuración y el acceso a la justicia de manera efectiva, deberes que como Fiscalía General, se tienen claros en aras de su pleno cumplimiento.
-
-Los tiempos que develan un trabajo coordinado de las distintas autoridades en la materia, desde el respectivo ámbito de sus atribuciones, nos exige continuar por la brecha transitada, siempre con el propósito de mejorar constantemente, en este caso, en el específico rumbo de la procuración de justicia, a través de una investigación de inteligencia y científica del delito, bajo un enfoque moderno y eficiente, con base en el cual, se lleve a cabo el esclarecimiento de los hechos delictuosos, la protección de la persona inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen.
-
-Con esa base, y la adecuada complementariedad normativa y orgánica que permita a esta institución procuradora de justicia, la aplicación eficaz de sus componentes organizacionales al nuevo arquetipo jurídico, ahora como organismo constitucional autónomo, todo ello en armonía con la visión de este nuevo esquema, y, sobre todo, en aras de generar un andamiaje normativo ad hoc, cumpliendo así con la reserva reglamentaria dispuesto (sic) en la Ley Orgánica de la Fiscalía General del Estado, la emisión del presente Reglamento Interior refrenda que la defensa y protección de los mandatos constitucionales y legales es y siempre será, el motivo conductor de nuestras atribuciones.
-
-En ese sentido, los esfuerzos se destinan de manera multidimensional, con la única apuesta de generar las condiciones propicias para la correcta funcionalidad de una institución referente en el tópico de la procuración de justicia.
-
-Por todo ello, de cara a la sociedad Nayarita, con la emisión de este Reglamento Interior de la Fiscalía General del Estado de Nayarit, al tempo (sic) de atender la obligación legal conducente, se fortalece y visibiliza la evolución organizacional de esta recientemente constituida institución autónoma, y se patentiza el trabajo de uno de los principales operadores del sistema procesal penal acusatorio y de su deber de estar a la altura de sus exigencias, coadyuvando de esta manera para que el mismo se consolide, sobre las bases y principios consagrados a nivel constitucional, que haga propio el respeto y promoción irrestricta a los derechos humanos.
-
-De esta manera, el presente reglamento, con el ánimo de concentrar las disposiciones según la materia, tendrá por objeto establecer y regular la integración, organización, estructura operación y funcionamiento de la Fiscalía General del Estado, así como de los servidores públicos adscritos a ella, siendo el mismo de orden público, interés social y de observancia general, estructurándose en cinco títulos, el primero de ellos denominado “Disposiciones generales”, se integran precisamente las disposiciones generales, destacando en el la descripción del señalado objeto, su aplicación y competencia institucional.
-
-Por su parte, el título segundo “De la estructura orgánica de la Fiscalía General”, se aborda la configuración estructural orgánica de esta representación social, lo cual se hace desde un enfoque general, desglosando a su vez de manera enunciativa, las diversas áreas que integran la Fiscalía General del Estado, sus requisitos y suplencias de sus integrantes.
-
-Por su parte el título tercero “Facultades y obligaciones de los servidores públicos de la Fiscalía General”, es el más amplio de todos por su propia naturaleza y exigencia legal de contenido, se lleva a cabo bajo un orden sistemático, un ejercicio descriptivo particularizado de aquellas funciones, competencias y facultades, tanto comunes como específicas, de cada una de las diversas áreas que conforman, tanto la institución, desde las correspondientes al Fiscal General, hasta la escale (sic) primaria del (sic) persona integrante de este órgano constitucional autónomo, generando con ello una delimitación del ejercicio del servicio público, respecto a las tareas que por materia, responsabilidad y especialización nos corresponden, todo lo anterior, respetando el marco constitucional y legal que delinea y enmarca nuestro quehacer.
-
-Por su parte el título cuarto, denominado “Designaciones especiales, vacaciones, estímulos y recompensas”, establece los periodos a que tendrán derecho los servidores públicos, atendiendo la nueva Ley Burocrática, ello sin que perjudique las funciones y actividades de la Fiscalía General del Estado; de igual manera, se prevé el calendario del periodo vacacional con aprobación de la Dirección General de Administración, de manera escalonada y al grado de preferencia de los servidores público (sic); atendiendo al eficaz cumplimento de los servidores públicos, en aras de una excelente procuración de justicia a la sociedad nayarita; se prevé estimular a los mismos, con base en su nivel y resultado en el desempeño de sus funciones.
-
-Por su parte el título quinto, denominado “De los Órganos Colegiados”, en él se prevé la capacitación, formación, actualización y especialización del personal de carrera, para que la sociedad nayarita, tenga servidores públicos calificados en la procuración de justicia; así también, se prevé las reglas que se habrán de seguir por cuando a la preservación y conservación de bienes asegurados, decomisados y abandonados.
-
-Así mismo, Se integra el apartado de artículos transitorios, contemplando el primero de ellos el inicio de su vigencia del propio reglamento interior, mientras que en los subsecuentes e (sic) disponen particulares, como la abrogación del Reglamento Interior de la entonces Procuraduría General de Justicia, de fecha 10 de enero del 2014; con relación al Sistema Tradicional de Justicia Penal, define las formas y facultades de los órganos de la dependencia; de igual manera, se dispone el mecanismo de vigencia para las unidades especializadas y de investigación que operan en el sistema de justicia penal acusatorio, y para la operación de diversas áreas.
-
-En suma, el presente instrumento reglamentario, coadyuva a fortalecer las funciones de la Fiscalía General del Estado de Nayarit, como órgano constitucionalmente autónomo para el debido ejercicio de sus atribuciones, que habrá de desempeñar con la diligencia y responsabilidad, que exige el cumplimiento de las atribuciones conferidas a la institución del Ministerio Público y que demanda este órgano constitucional autónomo, observando en todo momento las disposiciones constitucionales, legales y convencionales aplicables; de igual forma, con base en los principios de respeto a los derechos humanos, objetividad, honradez, certeza, buena fe, unidad, indivisibilidad, irrevocabilidad, imparcialidad, irrecusabilidad, independencia, legalidad, probidad, profesionalismo, celeridad, eficiencia, eficacia, autonomía, publicidad, transparencia y perspectiva de género, a fin de garantizar el integro cumplimiento del deber y adecuado funcionamiento de esta institución.
-
-Finamente (sic), con acciones de esta índole, se pone de manifiesto el compromiso y responsabilidad con el espíritu de la reforma en materia de seguridad y justicia, acaecida en el año 2008 y las ulteriores derivadas de esta, así como por segur (sic) trabajando día a día porque el reconocimiento de los derechos de todas y todos, no sea meramente formal, sino que se traduzca en un disfrute real y efectivo, congruente con las políticas públicas y los presupuestos normativos contemplados en los ordenamiento (sic) jurídicos en la materia, encaminados a fortalecer la justicia en el estado de Nayarit.
-
-Por lo anteriormente expuesto y con fundamento en lo establecido por los artículos 1, 4, 8, 11 fracción XII de la Ley Orgánica de la Fiscalía General del Estado de Nayarit, tengo a bien expedir el siguiente:
-
-REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE SAN LUIS RÍO COLORADO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. Disposiciones preliminares
+### CAPÍTULO I. DEL OBJETO Y ESTRUCTURA
 
-###### Artículo 1.
+###### ARTÍCULO 1.
 
-Objeto del reglamento.
+La Universidad Tecnológica de San Luis Río Colorado, es un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, que tiene como objeto:
 
-Este Reglamento tiene por objeto establecer las normas necesarias de organización y funcionamiento de la Fiscalía General del Estado de Nayarit, para el ejercicio de las atribuciones y el despacho de los asuntos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, su Ley y demás disposiciones legales aplicables le confieren a dicho órgano autónomo, al Fiscal General y al Ministerio Público del Estado.
+I. Impartir educación del tipo superior tecnológica, para formar profesionistas con aptitudes y conocimientos científicos y tecnológicos para aplicarlos en la solución creativa de los problemas que afectan a los sectores público, privado y social del Estado y el país;
 
-Las disposiciones de este Reglamento son de orden público e interés social y de observancia general para los servidores públicos adscritos a la Fiscalía General del Estado de Nayarit.
+II. Ofrecer programas de continuidad de estudios para los egresados del nivel Técnico Superior Universitario, que les permita alcanzar los niveles académicos de licenciatura, con base en los requisitos y el modelo académico aprobado;
 
-###### Artículo 2.
+III. Realizar investigación científica y tecnológica que contribuya a ampliar el conocimiento y que se traduzca en aportaciones concretas para el mejoramiento y mayor eficacia en la producción de bienes y servicios, y la elevación de la calidad de vida de la comunidad;
 
-Glosario.
+IV. Promover el desarrollo de perfiles académicos que correspondan a las necesidades de la región, con un sentido de innovación e incorporación a los avances científico y tecnológico nacional e internacional; y
 
-Para efectos de este Reglamento, se entenderá por:
+V. Fomentar vínculos con otros sectores a través de acciones de concertación, para buscar la formación de alumnos competitivos, sustentada en una educación de calidad, con las habilidades, destrezas, conocimientos y técnicas que demanda el mercado laboral.
 
-I. Fiscalía General: La Fiscalía General del Estado;
+###### ARTÍCULO 2.
 
-II. Fiscal General: El titular de la Fiscalía General del Estado;
+Para el cumplimiento de su objeto, la Universidad Tecnológica del San Luis Río Colorado, en adelante “la Universidad” contará con un Consejo Directivo que será su máxima autoridad; un Rector, y las siguientes unidades administrativas:
 
-III. Estado: El Estado de Nayarit;
+I. Dirección Académica;
 
-IV. Municipios: Los Municipios del Estado de Nayarit;
+II. Dirección de Vinculación;
 
-V. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+III. Dirección de Administración y Finanzas;
 
-VI. Constitución Local: La Constitución Política del Estado Libre y Soberano de Nayarit;
+IV. Subdirección de Planeación y Evaluación; y
 
-VII. Ley del Sistema Estatal: La Ley del Sistema Estatal de Seguridad Pública;
+V. Unidad Jurídica.
 
-VIII. Ley del Sistema Nacional: La Ley General del Sistema Nacional de Seguridad Pública;
+El Consejo Directivo se integrará y funcionará en los términos previstos en el “Decreto que Crea la Universidad Tecnológica de San Luis Río Colorado”, su Reglamento Interior y en las demás disposiciones jurídicas aplicables.
 
-IX. Ley Nacional de Mecanismos Alternativos: La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+###### ARTÍCULO 3.
 
-X. Ley Orgánica: La Ley Orgánica de la Fiscalía General del Estado de Nayarit;
+La Universidad planeará sus actividades y las conducirá en forma programada, con base en las prioridades, restricciones y políticas de desarrollo que para el logro de los objetivos y metas del Plan Estatal de Desarrollo y de los programas respectivos, establezcan el Consejo Directivo y el Rector, en el ámbito de sus atribuciones.
 
-XI. Reglamento: El presente ordenamiento;
+###### ARTÍCULO 4.
 
-XII. Instituciones de Seguridad Pública: Las Instituciones que conforman el Sistema Nacional y Estatal de seguridad pública;
+El máximo Órgano de Gobierno de la Universidad es el Consejo Directivo, cuya integración, facultades y obligaciones están consignadas en los artículos 9 y 13 del Decreto que la crea.
 
-XIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública;
+El Consejo Directivo evaluará la forma en que los objetivos serán alcanzados y la manera en que las estrategias básicas serán conducidas, atendiendo además, los informes que en materia de control y auditoría le sean turnados, y vigilará la implementación de las medidas correctivas a que hubiese lugar.
 
-XIV. Sistema Estatal: El Sistema Estatal de Seguridad Pública.
+###### ARTÍCULO 5.
 
-XV. Fiscalía anticorrupción. La fiscalía especializada en materia de combate a la corrupción.
+El Consejo Directivo estará presidido por el Presidente y en ausencia de éste por el Vicepresidente, o en su defecto por sus respectivos suplentes, y celebrará sesiones en forma ordinaria y extraordinaria en el lugar, fecha y hora que para el efecto se indique en la respectiva convocatoria.
 
-XVI. Fiscal Anticorrupción: El titular de la fiscalía especializada en materia de combate a la corrupción.
+###### ARTÍCULO 6.
 
-XVII. Fiscalía Electoral: La fiscalía especializada en materia de delitos electorales.
+El Presidente del Consejo Directivo tendrá a su cargo las siguientes funciones:
 
-XVIII. Fiscal electoral: El titular de la fiscalía especializada en materia de delitos electorales.
+I. Instalar, presidir y clausurar las sesiones del Consejo Directivo, y en caso de empate dar voto de calidad;
 
-XIX. Órgano de Control Interno;
+II. Convocar a sesiones ordinarias y extraordinarias del Consejo cuando lo considere necesario;
 
-XX. Instituto: El Instituto de Capacitación Especializada en Procuración de Justicia.
+III. Diferir o suspender las sesiones, cuando existan causas que a su juicio pudieran afectar la celebración o el desarrollo de las mismas;
 
-XXI. Servicio de carrera: Al servicio de carrera de procuración de justicia; y
+IV. Suscribir conjuntamente con los demás miembros del Consejo, las actas de las sesiones; y
 
-XXII. UMA: La Unidad de Medida y Actualización, considerando su valor diario en términos de la ley reglamentaria del artículo 26, apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+V. Las demás que le confieran el presente Reglamento y otras disposiciones jurídicas aplicables.
 
-###### Artículo 3.
+### CAPÍTULO II. DEL CONSEJO DIRECTIVO
 
-Función de la Fiscalía General.
+###### ARTÍCULO 7.
 
-Corresponde a la Fiscalía General, en su carácter de órgano ejecutor de los fines de la institución del Ministerio Público llevar a cabo lo siguiente:
+El Vicepresidente del Consejo Directivo tendrá a su cargo las siguientes funciones:
 
-I. Representar a la sociedad, investigar los hechos que la ley señale como delitos y perseguir a los probables responsables de los mismos;
+I. Asistir a las sesiones del Consejo Directivo;
 
-II. Realizar ante los órganos jurisdiccionales la solicitud de legal detención, la formulación de imputación del o los probables participes de un hecho que la ley señale como delito, así como solicitar vinculación a proceso, medidas cautelares, plazo de cierre de investigación, formular acusación y exigir la reparación del daño en los casos que sea procedente;
+II. Suscribir conjuntamente con los demás miembros integrantes del Consejo, las acatas de las sesiones; y
 
-III. Aplicar criterios de oportunidad, en los casos y términos que marca el Código Nacional de Procedimientos Penales;
-
-IV. Interponer los recursos correspondientes contra resoluciones adversas a los intereses de la sociedad;
-
-V. Intervenir en los asuntos del orden civil, mercantil, familiar, penal y de justicia para adolescentes;
-
-VI. Coadyuvar a la prestación del servicio jurídico a las víctimas, asistencia y atención tanto médica como psicológica de emergencia, desde la comisión del hecho que la ley señala como delito y proteger en todo momento sus derechos e intereses de acuerdo a la normatividad aplicable;
-
-VII. Adoptar las medidas necesarias para proteger a los testigos;
-
-VIII. Solicitar informes, documentos y opiniones de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal que sean necesarios para el esclarecimiento de un hecho que la ley considere como delito, asimismo, podrá requerir informes y documentos de los particulares para los mismos fines, en los términos previstos por las normas aplicables; y,
-
-IX. Las demás que le sean conferidos por la Constitución Local, la Ley Orgánica, este Reglamento y otros ordenamientos legales aplicables.
-
-El Fiscal General, el personal de la Fiscalía General y los órganos auxiliares de este, tienen a su cargo el ejercicio de las actividades encaminadas a cumplir con lo dispuesto en este artículo, de conformidad con lo establecido en la Ley, este Reglamento y otros ordenamientos legales aplicables.
-
-###### Artículo 4.
-
-Facultades del Fiscal General.
-
-El Fiscal General es el encargado de planear, conducir y desarrollar las actividades de la Fiscalía General, en forma programada y de conformidad con las políticas, estrategias y prioridades que para el logro de sus objetivos y metas que determine.
-
-El Fiscal General determinará la adscripción de las unidades subalternas, órganos técnicos y agencias de la Fiscalía General, así como su organización, funcionamiento, modificación de las áreas y atribuciones, en la medida en que lo requiera la prestación del servicio.
-
-El Fiscal General podrá asignar o delegar facultades a los servidores públicos de la Fiscalía General, según sea el caso, mediante disposiciones de carácter general o especial, sin perder por ello la posibilidad del ejercicio directo.
-
-El Fiscal General expedirá acuerdos, circulares, instructivos, manuales de organización, de procedimientos y de servicios al público necesarios para el mejor funcionamiento de la Fiscalía General y, en el caso que sea pertinente, ordenará su publicación.
-
-###### Artículo 5.
-
-De los Agentes del Ministerio Público.
-
-Serán considerados Agentes del Ministerio Público, los servidores públicos siguientes:
-
-I. El Fiscal General; y
-
-II. El Director General de Investigación Ministerial y Procesos Judiciales;
-
-III. El personal adscrito a las Unidades de Investigación o Agencias de Trámite, que sean designados conforme a la Ley Orgánica, esta (sic) reglamento y demás disposiciones aplicables; y
-
-IV. Órganos y demás servidores públicos que tengan bajo su mando a Agentes del Ministerio Público.
-
-###### Artículo 6.
-
-Obligaciones de los Servidores Públicos.
-
-Los servidores públicos de la Fiscalía General, en el ámbito de sus respectivas competencias, deberán observar las disposiciones emitidas por el Fiscal General, para asegurar la preservación e integridad de los indicios, evidencias, objetos, instrumentos o productos del hecho delictuoso que se encuentren bajo su custodia a fin de garantizar su validez procesal.
-
-### CAPÍTULO II. De las autoridades auxiliares
-
-###### Artículo 7.
-
-Autoridades Auxiliares del Ministerio Público.
-
-La Agencia de Investigación Criminal, la Policía Estatal Preventiva, de Tránsito, las Policías de los municipios y demás cuerpos de seguridad de la entidad, serán autoridades auxiliares de la Fiscalía General, en los términos de la Ley Orgánica y de la Ley del Sistema Estatal, a quienes les corresponderá:
-
-I. Remitir a la Dirección General de Investigación Ministerial y Procesos Judiciales, un informe mensual de los asuntos en que participen con el carácter de auxiliares de la Fiscalía General;
-
-II. Comunicar al Agente del Ministerio Público correspondiente, los hechos que la ley señala como delito que tengan conocimiento durante el ejercicio de sus funciones;
-
-III. Presentar al Director General de Investigación Ministerial y Procesos Judiciales sus excusas para intervenir en un determinado asunto;
-
-IV. Solicitar asesoría, cuando así lo consideren, al Director General de Investigación Ministerial y Procesos Judiciales o a los Agentes del Ministerio Público e Investigadores; y
-
-V. El ejercicio de las demás atribuciones y obligaciones que les confiera la Ley Orgánica, este Reglamento y otros ordenamientos legales y normativos aplicables.
+III. Las demás que le confieran el presente Reglamento y otras disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. ESTRUCTURA ORGÁNICA DE LA FISCALÍA GENERAL, REQUISITOS Y SUPLENCIAS DE SUS INTEGRANTES
 
-### CAPÍTULO I. De la estructura orgánica de la Fiscalía General
+### CAPÍTULO III. DEL CONSEJO TÉCNICO
 
-###### Artículo 8.
+###### ARTÍCULO 8.
 
-De la Fiscalía General.
+Los demás integrantes del Consejo Directivo tendrán a su cargo las siguientes funciones:
 
-La Fiscalía General, para el cumplimiento de las atribuciones, funciones y el despacho de los asuntos de su competencia, contará con la estructura orgánica siguiente:
+I. Asistir a las sesiones del Consejo Directivo;
 
-A. Despacho del Fiscal General:
+II. Analizar y proponer la solución de los asuntos turnados al Consejo Directivo, formulando las observaciones y propuestas que estime conveniente (sic);
 
-I. La Secretaría Particular;
+III. Emitir su voto en los asuntos que sean sometidos a su consideración;
 
-II. La Oficina de Concertación para la Consolidación del Sistema de Justicia Penal Acusatorio, que se integrará de conformidad con las necesidades del servicio y la disponibilidad presupuestal;
+IV. Suscribir conjuntamente con los demás miembros integrantes del Consejo Directivo, las actas de las sesiones; y
 
-III. La Coordinación General de la Unidad de Soluciones Alternativas en Materia Penal;
+V. Las demás que le confieran el presente Reglamento y otras disposiciones jurídicas aplicables.
 
-IV. El Departamento de Desarrollo e Innovación Tecnológica;
+### CAPÍTULO III (SIC). DEL PATRONATO
 
-V. El Departamento de Comunicación Social;
+###### ARTÍCULO 9.
 
-VI. La Coordinación de Psicología, Trabajo Social y Área Legal;
+Las sesiones del Consejo Directivo se llevarán a cabo de conformidad con lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, el Reglamento para la Celebración de Sesiones de los Órganos de Gobierno de las Entidades de la Administración Pública Estatal, y el Decreto de creación de la Universidad.
 
-VII. La Coordinación General de Asesores Jurídicos de las Víctimas u Ofendidos del Delito;
+###### ARTÍCULO 10.
 
-VIII. La Unidad de Análisis, Monitoreo y Evaluación; y
+El Consejo Técnico funcionará como órgano de asesoría y apoyo del Rector de la Universidad y tendrá a su cargo el estudio, análisis y propuestas de solución de los asuntos que se le encomienden y estará formado por:
 
-IX. La Unidad de Análisis Criminal.
+I. El Rector, quien lo presidirá;
 
-B. De las Fiscalías Especializadas por disposición de la Constitucional Local:
+II. El Secretario, que será designado por el Rector; y
 
-I. La Fiscalía Especializadas (sic) en Materia de Combate a la Corrupción; y
+III. Los Vocales, que serán el Director Académico, el Director de Vinculación, el Director de Administración y Finanzas, el Subdirector de Planeación y Evaluación, los Subdirectores y Coordinadores de Carrera y el titular de la unidad jurídica.
 
-II. La Fiscalía Especializada en Materia de Delitos electorales.
+###### ARTÍCULO 11.
 
-C. Parte Operativa:
+Corresponde al Consejo Técnico las siguientes funciones:
 
-I. La Dirección General de Investigación Ministerial y Procesos Judiciales;
+I. Emitir opinión sobre las normas relativas a la organización y funcionamiento académico de la Universidad;
 
-II. La Dirección General de la Agencia de Investigación Criminal;
+II. Presentar proyectos de normas de carácter académico;
 
-III. La Dirección General de Servicios Periciales.
+III. Conocer, analizar y emitir opinión sobre los planes y programas académicos; y
 
-D. Parte Administrativa:
+IV. Recomendar alternativas de solución a los problemas que afecten la disciplina y el orden de la Universidad.
 
-I. La Dirección General de Administración;
+###### ARTÍCULO 12.
 
-II. La Dirección de Contabilidad y Presupuesto;
+Las sesiones ordinarias del Patronato se celebrarán por lo menos una vez por año y serán convocadas por su Presidente. Las sesiones extraordinarias podrán ser solicitadas por el mismo Presidente del Patronato o por el Rector cuantas veces sea necesario para el buen funcionamiento de la organización.
 
-III. El Instituto de Capacitación Especializado en Procuración de Justicia; y
+###### ARTÍCULO 13.
 
-IV. La Dirección General de Asuntos Jurídicos.
+La convocatoria para las reuniones ordinarias y extraordinarias del Patronato se acompañará de un orden del día que comprenderá: Lectura del acta de la sesión anterior y el apoyo documental de los asuntos a tratar, mismos que se harán llegar a los integrantes del Patronato, cuando menos con cinco días hábiles de anticipación a la fecha de la celebración de la sesión, cuando ésta sea ordinaria y con tres días hábiles cuando sea extraordinaria.
 
-E. Órganos de Control:
+###### ARTÍCULO 14.
 
-I. El Órgano Interno de Control; y
+El Rector, además de las facultades y obligaciones que le confiere el artículo 16 del Decreto de Creación de la Universidad, tendrá las siguientes:
 
-II. La Dirección de Asuntos Internos.
+I. Conducir el funcionamiento de la Universidad, vigilando el exacto y oportuno cumplimiento de los acuerdos del Consejo Directivo;
 
-Además, la Fiscalía General contará con las áreas y el personal necesario para el cumplimiento de sus atribuciones, mismas que serán creadas mediante acuerdo expedido por el Fiscal General, de conformidad a la disponibilidad presupuestal.
+II. Acordar con los titulares de las unidades administrativas y con los servidores públicos de las mismas el despacho de los asuntos de la competencia de éstos, cuando así lo considere necesario;
 
-### CAPÍTULO II. De los requisitos de mandos superiores y cargos específicos
+III. Definir las políticas de instrumentación de los sistemas de control que fueren necesarios, tomando las acciones correspondientes para corregir las deficiencias que se detectaren y presentar al Consejo Directivo informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programa de mejoramiento;
 
-###### Artículo 9.
+IV. Proporcionar al Comisario Público Oficial o Ciudadano designados (sic) por la Secretaría de la Contraloría General, las facilidades e informes necesarios para el desempeño de su función;
 
-Requisitos para ser Fiscal General.
+V. Presentar al Consejo Directivo el informe del desempeño de las actividades del Organismo, incluyendo el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes;
 
-Para ser Fiscal General se requiere cumplir los requisitos que establece la Constitución Local.
+VI. Presentar anualmente al Consejo Directivo, dentro de los dos primeros meses del año, los estados financieros y el informe de actividades del ejercicio anterior;
 
-###### Artículo 10.
+VII. Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo con la normatividad de la materia;
 
-Requisitos para Secretario Particular del Fiscal.
+VIII. Someter a la consideración del Consejo Directivo, a más tardar en la primera quincena del mes de octubre de cada año, el anteproyecto del programa-presupuesto de la Universidad, mismo que deberá elaborarse de conformidad con la legislación aplicable; y
 
-Para ser Secretario Particular del Fiscal se requiere que se cumplan con los siguientes requisitos:
+IX. Las demás que se le asignen en otras disposiciones legales y reglamentarias aplicables y las que expresamente le encomiende el Consejo Directivo.
 
-I. Ser ciudadano mexicano;
+### CAPÍTULO IV. DEL RECTOR
 
-II. Gozar de buena reputación;
+###### ARTÍCULO 15.
 
-III. No haber sido condenado por delito doloso; y
+Los titulares que estarán al frente de las Direcciones, Subdirección y Unidad que constituyen la Universidad tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables de su correcto funcionamiento. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de la Universidad. Les corresponden las siguientes atribuciones genéricas:
 
-IV. Tener título de Licenciado en Derecho al momento de que vaya a ser designado.
+I. Organizar, dirigir, coordinar, controlar y evaluar el desempeño de las labores encomendadas a las distintas áreas que integren la unidad administrativa correspondiente;
 
-###### Artículo 11.
+II. Formular los anteproyectos de programas y presupuestos que les correspondan y someterlos a la consideración del Rector;
 
-Requisitos para ser Director General.
+III. Conducir sus actividades de acuerdo con los programas aprobados y las políticas que señale el Rector, para el logro de los objetivos y prioridades establecidos para la entidad;
 
-Para ser Titular de alguna de las Direcciones Generales de la Fiscalía General se requieren los mismos requisitos que para ser Fiscal General, con excepción al título profesional, el cual, deberá ser afín a las funciones de cada dirección.
+IV. Rendir los informes y formular los dictámenes, estudios y opiniones que solicite el Rector;
 
-###### Artículo 12.
+V. Aplicar y vigilar el cumplimiento, en el área de su competencia, de las leyes, reglamentos, decretos, acuerdos, circulares, procedimientos y demás disposiciones relacionadas con los servicios y actividades de la competencia de la respectiva unidad administrativa, tomando las medidas adecuadas para prevenir y corregir la violación de esas normas y para la aplicación, en su caso, de las sanciones procedentes;
 
-Requisitos para cargos directivos diversos.
+VI. Acordar con el Rector los asuntos de la competencia de la unidad a su cargo;
 
-Para ocupar el cargo de Director, Coordinador General o de Área, Titular de Unidad o Jefe de Departamento, se requiere:
+VII. Someter a la consideración del Rector los proyectos de modernización y desarrollo administrativo de la unidad administrativa correspondiente, para su mejor funcionamiento y despacho de los asuntos a su cargo;
 
-I. Ser ciudadano mexicano por nacimiento;
+VIII. Implementar y mantener el Sistema Integral de Archivos, así como elaborar los procedimientos, normatividad de control de administración documental y los criterios específicos de organización de archivos, de acuerdo con la normatividad de la materia;
 
-II. Estar en ejercicio de sus derechos políticos y civiles;
+IX. Coadyuvar en el cumplimiento de la normatividad expedida por el control, organización, circulación y conservación de los documentos y archivo;
 
-III. Poseer el día de la designación título profesional afín a las funciones que realizará, expedido por autoridad o institución legalmente facultada para ello; y
+X. Atender al público en los asuntos de la competencia de la Unidad Administrativa respectiva; y
 
-IV. Aprobar el proceso de evaluación de control de confianza.
+XI. Las demás que les confieran las distintas disposiciones legales reglamentarias vigentes o les encomiende el Rector.
 
-###### Artículo 13.
+###### ARTÍCULO 16.
 
-Requisitos para mandos de la Agencia de Investigación Criminal.
+A la Dirección Académica le corresponden las siguientes atribuciones:
 
-Para ser Comandante, Jefe de Grupo o Subjefe de Grupo de la Agencia de Investigación Criminal se requiere:
+I. Definir y proponer políticas institucionales para conformar la oferta educativa de la Universidad;
 
-I. Tener cuando menos treinta y cinco años cumplidos al día de la designación;
+II. Supervisar la operación del modelo académico en las carreras que se ofrecen, en coordinación con cada una de las direcciones de carrera;
 
-II. Acreditar buena conducta durante su desempeño en el servicio;
+III. Participar en los proyectos de propuestas de oferta educativa de la Universidad, para someterla a la aprobación del Consejo Directivo;
 
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. Integrar los planes de estudio y documentos curriculares de las carreras de la Universidad;
 
-IV. Tener un nivel educativo mínimo de licenciatura o su equivalente;
+V. Dictaminar la vigencia, pertinencia, flexibilidad y congruencia de los planes de estudio de la Universidad;
 
-V. Aprobar el proceso de evaluación de control de confianza;
+VI. Planear y supervisar la coedición, edición y distribución de materiales didácticos que utilice la Universidad;
 
-VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas legales aplicables;
+VII. Proponer y supervisar las estrategias de evaluación de los procesos de enseñanza aprendizaje y de desarrollo curricular de los programas educativos;
 
-VII. No estar bajo investigación alguna de derechos humanos;
+VIII. Apoyar los convenios de intercambio nacional e internacional en materia de diseño, desarrollo curricular y de auxiliares didácticos;
 
-VIII. Aprobar el examen de selección correspondiente, y
+IX. Coordinar grupos de asesores externos y de académicos para el diseño de contenidos de los auxiliares didácticos, guiones de programas audiovisuales y software educativo, de acuerdo con los planes de estudio vigentes;
 
-IX. Cumplir con los demás requisitos que establece la Ley del Sistema Estatal, este Reglamento y otros ordenamientos legales aplicables.
+X. Coordinar la elaboración de planes y programas de formación y actualización del personal académico;
 
-###### Artículo 14.
+XI. Coordinar el diseño y desarrollo de programas y cursos dentro de la modalidad de educación a distancia dirigidos a los alumnos, personal académico, empleados y público en general;
 
-Requisitos para Agentes de la Agencia de Investigación Criminal.
+XII. Difundir entre los estudiantes de la Universidad valores, actitudes y hábitos con la finalidad de encauzar su vocación y el desarrollo de las capacidades personales que garanticen su éxito escolar y su incorporación al campo laboral y a la sociedad;
 
-Los agentes de la Agencia de Investigación Criminal, deberán cumplir con los requisitos que señala el artículo 39 de la Ley Orgánica.
+XIII. Formular los exámenes psicológicos a los estudiantes que sirvan para definir aptitudes, habilidades y destrezas que permitan determinar la carrera profesional técnica a seguir;
 
-### CAPÍTULO III. De las suplencias
+XIV. Integrar la documentación necesaria para el registro de la Universidad y adición de carreras ante la Dirección General de Profesiones, adscrita a la Secretaría de Educación Pública;
 
-###### Artículo 15.
+XV. Dar seguimiento, junto a la Dirección de Vinculación, a los convenios firmados por la Universidad y el sector productivo de bienes y servicios para las estadías profesionales y visitas de los alumnos a empresas; y
 
-Suplencias.
-
-El personal de la Fiscalía General será suplido de la siguiente manera:
-
-I. El Fiscal General, en los términos previstos por el artículo 12 de la Ley Orgánica;
-
-II. El Director General de Investigación Ministerial y Procesos Judiciales, por el Subdirector de Investigación Ministerial;
-
-III. El Director General de la Agencia de Investigación Criminal, por el Subdirector General Operativo;
-
-IV. Con excepción de lo previsto en las fracciones anteriores, los Directores Generales, serán suplidos por los Subdirectores, Coordinadores o Jefes de Área, Titulares de Unidad o Jefes de Departamento que sean designados por el Fiscal General;
-
-V. Los Directores de Área por los Coordinadores o Jefes de Departamento, según sea el caso;
-
-VI. Los Titulares de Unidad, Jefes de Departamento y Coordinadores, por quien designe el Fiscal General;
-
-VII. Los Agentes del Ministerio Público, por los Agentes del Ministerio Público Auxiliar de la adscripción; los Peritos, elementos de la Agencia de Investigación Criminal y demás personal, por quienes designe el Fiscal General; y
-
-VIII. En caso de imposibilidad para actuar en suplencia de conformidad con lo previsto en el presente artículo, los servidores públicos de la Fiscalía General, podrán ser suplidos por el funcionario que designe el Fiscal General.
-
-Las suplencias a que se refieren las fracciones IV, V, VI, VII y VII (sic), requerirán la habilitación mediante oficio de instrucción, por parte del Fiscal General o del servidor público en quien delegue esta facultad.
-
-###### Artículo 16.
-
-Suplencias del Consejo Técnico de Carrera Policial.
-
-Los Servidores Públicos que conforman el Consejo Técnico de la Carrera Policial, de acuerdo a lo que dispone el artículo 94 de la Ley Orgánica, serán suplidos como sigue:
-
-I. En el caso de ausencia de alguno de los servidores públicos indicados en el presente artículo serán suplidos por el Director General de Asuntos Jurídicos; y
-
-II. En el caso que sea necesario suplir a todos los servidores públicos que integran el Consejo Técnico, la suplencia se hará por los servidores públicos que designe el Fiscal General, en los términos del último párrafo del artículo 15 del presente reglamento.
+XVI. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y el Rector, dentro de la esfera de sus atribuciones.
 
 ## TÍTULO TERCERO. FACULTADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO I. Del Despacho del Fiscal General
+### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES ADMINISTRATIVAS
 
-###### Artículo 17.
+###### ARTÍCULO 17.
 
-Del Fiscal General.
+A la Dirección de Vinculación le corresponden las siguientes atribuciones:
 
-Además de las atribuciones que establece la Ley Orgánica, el Fiscal General tendrá las siguientes:
+I. Proponer al Consejo Directivo, para su aprobación, las políticas necesarias para orientar las acciones de vinculación a realizar por la Universidad;
 
-I. Dirigir y coordinar las actividades de la Fiscalía General en la investigación y persecución de los delitos, en el ejercicio de la acción penal en las audiencias de control, de formulación de imputación o de vinculación a proceso, en la aplicación de los criterios de oportunidad y salidas alternas, en las audiencias de juicio oral, en la ejecución de las resoluciones que dicten las autoridades judiciales, así como las actividades donde se apliquen mecanismos alternativos de solución de controversias en que las Unidades de Soluciones Alternativas en Materia Penal formen parte;
+II. Proponer los criterios normativos y elaborar el Programa Anual de Vinculación, promoviendo la obtención de recursos financieros y materiales mediante los convenios firmados con los sectores productivo, público y social;
 
-II. Encomendar a cualquiera de los Agentes del Ministerio Público, Investigadores o adscritos, independientemente de sus funciones, el estudio y análisis de los asuntos que estime convenientes;
+III. Promover la realización de estudios que identifiquen los requerimientos de educación superior, capacitación, especialización y actualización de recursos humanos de los sectores productivo, público, educativo y social;
 
-III. Intervenir por sí o por medio de los Agentes del Ministerio Público correspondientes, en los asuntos del orden penal, civil, mercantil o familiar y, en general, en todos aquellos en que la Fiscalía General, en su carácter de órgano ejecutor de las atribuciones de la institución del Ministerio Público, deba ser oído conforme a la ley;
+IV. Elaborar mecanismos para difundir en la Universidad, en los sectores productivo, educativo, público y social sobre las políticas y normatividad establecidas para la vinculación institucional;
 
-IV. Dictar las medidas conducentes para preservar el lugar de los hechos o del hallazgo y la integridad de los indicios ahí presentes, lo que incluye de forma enunciativa: fijar, señalar, levantar, embalar, entregar y resguardar, los bienes, huellas, vestigios, instrumentos, objetos o productos que estuvieren relacionados en un trecho que la ley señale como delito;
+V. Diseñar las estrategias de seguimiento de los convenios celebrados por la Universidad, a fin de que respondan tanto a las políticas y normas de vinculación institucional como a las necesidades específicas de los sectores productivo, público, educativo y social;
 
-V. Autorizar por si, o por medio de la persona a quien delegue esa facultad, la modificación de las formulaciones de imputación por causas supervenientes y en beneficio del acusado hasta antes de la realización de la audiencia, la aplicación del proceso abreviado, la suspensión del proceso a prueba y la suspensión del proceso por sustracción del imputado a la acción de la justicia o por estado de inimputabilidad del procesado;
+VI. Elaborar la metodología para asegurar la incorporación de las necesidades del sector productivo a los servicios que ofrece la Universidad;
 
-VI. Autorizar por sí o por medio de la persona a quien delegue esa facultad analizar y en su caso autorizar las determinaciones de no ejercicio de la acción penal, criterios de oportunidad, y fungir como órgano consultivo en materia de fundamentación y motivación en las determinaciones de abstención de investigar y archivo temporal;
+VII. Establecer esquemas de vinculación para reorientar los programas educativos y de capacitación que ofrece la Universidad;
 
-VII. Acordar con el Congreso del Estado y darle cuenta de los principales asuntos referentes al funcionamiento de la Fiscalía General, según lo establecido en la Constitución Política del Estado Libre y Soberano de Nayarit, en la Ley Orgánica, este Reglamento y demás ordenamientos aplicables;
+VIII. Integrar un banco de información de los convenios celebrados con empresas y con los distintos organismos públicos y privados;
 
-VIII. Habilitar en casos de urgencia, de manera expresa y en forma transitoria, Licenciados en Derecho que presten sus servicios en la Fiscalía General, como Agentes del Ministerio Público, siempre que éstos cumplan los requisitos establecidos en el artículo 27 de la Ley Orgánica;
+IX. Registrar y elaborar el informe sobre los recursos monetarios y en especie obtenidos mediante los convenios por parte de los sectores productivo, público, educativo y social en coordinación con la Dirección de Administración y Finanzas;
 
-IX. Habilitar en casos de urgencia, de manera expresa y en forma transitoria, a los empleados de la Fiscalía General, como agentes de la Agencia de Investigación Criminal, siempre que éstos cumplan los requisitos señalados en la Ley de Sistema Estatal, para el ingreso a las instituciones policiales, con excepción del requisito relativo a la aprobación del curso de ingreso;
+X. Organizar el proceso de implantación de programas de atención comunitaria;
 
-X. Calificar y aprobar en su caso, las excusas que presenten los Agentes del Ministerio Público investigadores, elementos de la Agencia de Investigación Criminal, así como de los y (sic) Peritos, para no intervenir en determinados asuntos;
+XI. Fomentar las relaciones institucionales de la Universidad con las autoridades locales, estatales y federales;
 
-XI. Emitir las instrucciones generales y específicas que estime convenientes, para el cumplimiento de sus funciones y para lograr la unidad de criterio y acción del órgano autónomo;
+XII. Participar conjuntamente con las demás unidades administrativas de la Universidad, en la organización de los eventos que generen su difusión, en coordinación con los organismos públicos y privados de la región;
 
-XII. Promover la pronta, expedita y debida procuración e impartición de justicia, observando la legalidad y el respeto de los derechos humanos en el ejercicio de esa función;
+XIII. Dar seguimiento a los acuerdos institucionales contraídos por la Universidad; y
 
-XIII. Recibir quejas sobre las demoras, excesos, irregularidades o faltas en el despacho de los asuntos en que intervenga personal de la Fiscalía General;
+XIV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y el Rector, dentro de la esfera de sus atribuciones.
 
-XIV. Conocer y sancionar, conforme a las leyes aplicables, las faltas cometidas por el personal de la Fiscalía General;
+###### ARTÍCULO 18.
 
-XV. Promover la investigación y en su caso sanción de la responsabilidad en que incurrieren los servidores públicos de la Fiscalía General, por los delitos que cometan en el desempeño de su cargo;
+A la Dirección de Administración y Finanzas le corresponden las siguientes atribuciones:
 
-XVI. Establecer las unidades administrativas de acuerdo con las necesidades de la Fiscalía General y con las previsiones fijadas en el presupuesto anual;
+I. Realizar los procesos y procedimientos relativos a la adquisición y contratación de bienes, obras y servicios, así como de abastecimiento de recursos materiales y la prestación de los servicios generales, así como vigilar que estos se lleven de conformidad con lo que establece la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionadas con Bienes Muebles de la Administración Pública Estatal y la Ley de Obras Públicas del Estado de Sonora;
 
-XVII. Asignar al personal a su cargo a las diversas áreas de la Fiscalía General y realizar los cambios de adscripción según las necesidades del servicio, así como conceder licencias y vacaciones en los términos de ley, de este Reglamento y demás disposiciones legales aplicables;
+II. Organizar, dirigir y supervisar la elaboración y ejecución de programas y acciones de protección y seguridad para salvaguardar la integridad del personal y los bienes de la Universidad;
 
-XVIII. Formular y presentar al Congreso del Estado la evaluación anual de labores y demás informes relativos a la operación de la Fiscalía General;
+III. Administrar los recursos financieros y materiales de la Universidad, de acuerdo con sus prioridades institucionales y con estricto apego a la normatividad vigente, sujetándose a los criterios de racionalidad, eficiencia y oportunidad;
 
-XIX. Elaborar propuestas en materia de procuración y fiscalización de justicia para la integración del Plan Estatal de Desarrollo correspondiente y demás programas inherentes a su competencia;
+IV. Desarrollar estrategias financieras, que logren optimizar el uso y aplicación de los recursos presupuestales, ingresos propios y créditos autorizados a la Universidad;
 
-XX. Aprobar el anteproyecto de presupuesto de egresos de la Fiscalía General y someterlo a la consideración del Congreso del Estado;
+V. Conducir y supervisar la revisión de los contratos laborales y los lineamientos que rijan la relación laboran (sic) y que establezca la Universidad;
 
-XXI. Resolver las dudas que se susciten con motivo de la interpretación o aplicación de este Reglamento, los criterios, manuales de operación o lineamientos que expida, así como los casos no previstos en dichos documentos;
+VI. Elaborar los informes de avance de resultados de las operaciones financieras asignados a esta Dirección, para su presentación a la Rectoría;
 
-XXII. Pedir el sobreseimiento del proceso o la libertad absoluta del inculpado, en los casos en que procedan y dentro de los términos que señala la Ley de la materia;
+VII. Coordinar la instalación del comité de adquisiciones;
 
-XXIII. Organizar a la Dirección de Servicios Periciales con la estructura administrativa que se requiera, de acuerdo con las características del servicio;
+VIII. Regular y establecer las bases para la verificación física de mobiliario, equipo y demás bienes inventariables asignados a la Universidad;
 
-XXIV. Ordenar a la Agencia de Investigación Criminal y, en su caso, solicitar el apoyo correspondiente a las policías preventivas estatal o municipales, el cumplimiento de las órdenes de aprehensión, reaprehensión, localización, presentación, cateo y comparecencia dictadas por la autoridad competente;
+IX. Difundir entre las unidades administrativas de la universidad las normas y procedimientos que se deberán observar para la contratación de bienes y servicios;
 
-XXV. Expedir los acuerdos, circulares, lineamientos, criterios, instructivos, manuales de organización, de procedimientos y de servicios al público, así como protocolos necesarios para el mejor funcionamiento del órgano autónomo;
+X. Proponer acciones e intervenir en la captación, manejo y aplicación de los ingresos propios que sean generados por el cobro de los servicios que ofrece la Universidad, observando la normatividad en la materia;
 
-XXVI. Expedir los nombramientos de los servidores públicos adscritos a la Fiscalía General;
+XI. Participar en coordinación con la Dirección Académica, en el análisis y elaboración de propuestas de planes y programas de estudio, para formular el programa de equipamiento correspondiente;
 
-XXVII. Suscribir los convenios y acuerdos de coordinación, colaboración y concertación en materia de su competencia con el Poder Ejecutivo y Legislativo Estatales, organismos autónomos, con el gobierno federal, los municipios u otras entidades públicas, así como con personas físicas o morales; y
+XII. Conducir la formulación e integración de los manuales de organización de la Universidad;
 
-XXVIII. Las demás que le sean conferidos por la Constitución Local, la Ley Orgánica, este Reglamento y otros ordenamientos legales aplicables.
+XIII. Coordinar el manejo de donaciones de equipo obsoleto y en desuso así como las bajas correspondientes;
 
-###### Artículo 18.
+XIV. Coordinar el establecimiento de programas y convenios en los diferentes ámbitos de la Universidad con autoridades de seguridad pública, protección civil, servicios de emergencia e instituciones de salud locales, a fin de contar con su apoyo en caso de emergencia; y
 
-Solicitud de informes.
+XV. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y el Rector, dentro de la esfera de sus atribuciones.
 
-En los términos de la Ley Orgánica, el Fiscal General podrá solicitar por escrito los documentos e informes necesarios para integrar la carpeta de investigación o para formular imputación ante los órganos jurisdiccionales, a los titulares de oficinas públicas, a personas físicas o jurídico colectivas de que se trate, quienes deberán responder en un plazo no mayor de treinta días, o en el plazo que de acuerdo a la urgencia considere necesario y en caso contrario, podrá aplicar las medidas de apremio establecidas en las leyes penales aplicables.
+###### ARTÍCULO 19.
 
-El Fiscal General podrá delegar la facultad señalada en el párrafo anterior, en sus Agentes del Ministerio Público Investigadores o en cualquier otro servidor público que estime conveniente.
+A la Subdirección de Planeación y Evaluación le corresponden las siguientes atribuciones:
 
-###### Artículo 19.
+I. Evaluar la gestión institucional de la Universidad, a partir de los objetivos, estrategias y prioridades establecidas en su Programa Operativo Anual, y de las que determinen (sic) la Secretaría de Educación y Cultura;
 
-De la Secretaría Particular del Fiscal General.
+II. Fungir como enlace en materia de acceso a la información, de conformidad con la Ley de Acceso a la Información Pública del Estado de Sonora;
 
-La Secretaría Particular del Despacho del Fiscal General tendrá las siguientes facultades y obligaciones:
+III. Dar seguimiento a la evolución de los sectores educativos (sic) y productivo con objeto de identificar necesidades y prioridades de atención en los ámbitos de gestión de la Universidad;
 
-I. Vigilar el buen funcionamiento del Despacho del Fiscal General;
+IV. Coordinar la elaboración del Plan Institucional de Desarrollo de la Universidad y su seguimiento, así como la del Programa Anual y su integración;
 
-II. Coordinar la agenda de trabajo del Fiscal General;
+V. Proponer en coordinación de la Dirección de Administración y Finanzas, las políticas y criterios para la asignación del presupuesto, en congruencia con las prioridades institucionales;
 
-III. Recibir la correspondencia y documentación destinada al Fiscal General;
+VI. Proponer las políticas y lineamientos para evaluar permanentemente el avance y cumplimiento de los objetivos y metas institucionales y su impacto social y económico;
 
-IV. Atender las solicitudes de audiencia que los ciudadanos presenten al Fiscal General y agenciarlas de acuerdo a la disponibilidad de horario del Fiscal General;
+VII. Implementar esquemas de modernización académica que contribuyan al cumplimiento del objeto de la Universidad;
 
-V. Canalizar la documentación recibida en el Despacho del Fiscal General a las (sic) diferentes órganos que integran la dependencia;
+VIII. Elaborar estrategias que promuevan la cultura de calidad y filosofía de mejora continua;
 
-VI. Hacer del conocimiento del Fiscal General, las solicitudes de apoyo emitidas por otras autoridades federales, estatales o municipales;
+IX. Proponer e impulsar políticas y lineamientos que aseguren la calidad, pertinencia y oportunidad de los servicios de la Universidad;
 
-VII. Atender a los trabajadores de la Fiscalía General que soliciten audiencia con el Fiscal General y hacerlo del conocimiento del mismo;
+X. Elaborar informes de avance de resultados de los proyectos asignados a las unidades administrativas de la Universidad, para su presentación a la Rectoría;
 
-VIII. Revisar diariamente los informes rendidos por el personal de la Fiscalía General e informar al Fiscal General los aspectos más relevantes;
+XI. Determinar la metodología, técnicas e instrumentos para la realización de estudios de planeación prospectiva;
 
-IX. Contestar la correspondencia oficial relativa al Despacho del Fiscal General;
+XII. Elaborar propuestas de crecimiento de la infraestructura institucional con base en estimaciones sectoriales de crecimiento de la demanda y en congruencia con la disponibilidad de recursos;
 
-X. Rendirle periódicamente informes de las actividades que se realicen al Fiscal General;
+XIII. Analizar técnicas matemáticas, estadísticas y econométricas, y evaluar su aplicabilidad a los fenómenos sociales, demográficos y económicos que influyen en la oferta y demanda de los servicios educativos y de capacitación;
 
-XI. Coordinar las actividades de los Agentes del Ministerio Público y demás personal adscrito al Despacho del Fiscal; y
+XIV. Diseñar metodologías para el establecimiento de metas anuales en congruencia con las planteadas en el Plan Institucional;
 
-XII. Las demás que le encomiende el Fiscal General, en términos de la Ley, este Reglamento; los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
+XV. Proponer permanentemente políticas, estrategias y objetivos de corto y mediano plazos que orienten el desarrollo de la Universidad;
 
-###### Artículo 20.
+XVI. Participar conjuntamente con la Dirección de Administración y Finanzas en las gestiones para la autorización del Programa Operativo Anual y del anteproyecto de presupuesto de egresos de la Universidad;
 
-De la Oficina de Concertación para la Consolidación del Sistema de Justicia Penal Acusatorio.
+XVII. Proporcionar la información programática para la elaboración de informes de gestión requeridos por la Secretaría de Educación y Cultura, como dependencia coordinadora de sector;
 
-La Oficina de Concertación para la Consolidación del Sistema de Justicia Penal Acusatorio tendrá las siguientes facultades y obligaciones:
+XVIII. Proponer al Rector, en coordinación con las Direcciones previstas en el artículo 2º de este Reglamento, los indicadores de gestión que se aplicarán en la evaluación de los programas y proyectos institucionales;
 
-I. Sugerir acciones para la evaluación y mejora del sistema de justicia penal acusatorio en la Fiscalía General;
+XIX. Dirigir las actividades de evaluación de las Direcciones previstas en el artículo 2º de este Reglamento, para que éstas sean congruentes con su operación; y
 
-II. Coadyuvar con la Dirección General de Administración, el Departamento de Desarrollo e Innovación Tecnológica y, en su caso, con cualquier otra dependencia Federal, Estatal o Municipal, en la implementación y utilización de infraestructura, equipamiento, tecnología y software vinculados al sistema de justicia penal acusatorio;
+XX. Las demás que le confieran las disposiciones legales y reglamentarias aplicables y el Rector dentro de la esfera de sus atribuciones.
 
-III. Supervisar la aplicación del procedimiento penal acusatorio en la Fiscalía General, con la finalidad de identificar áreas de oportunidad, y en su caso, dar vista a la Unidad de Análisis Monitoreo y Evaluación, para el estudio del proceso administrativo correspondiente;
+###### ARTÍCULO 20.
 
-IV. Revisar la parte operativa de la estructura orgánica de la Fiscalía General, con la finalidad de proponer al Fiscal General su reorganización mediante la creación, fusión y desaparición de áreas o servicios;
+A la unidad Jurídica le corresponden las siguientes atribuciones:
 
-V. Revisar la normatividad aplicable al sistema penal acusatorio, con la finalidad de elaborar proyectos de reforma y ponerlos a consideración de la Dirección General de Asuntos Jurídicos para los efectos conducentes;
+I. Representar al Rector y a los funcionarios de la Universidad en toda clase de procedimientos judiciales y administrativos, cuando proceda, formulando y presentando demandas, denuncias, querellas y desistimientos, así como ofreciendo, presentando y, en su caso, desahogando todo tipo de pruebas, y dando contestación y seguimiento a las demandas y reclamaciones en contra de actos o resoluciones emitidos por la Universidad o sus unidades administrativas en el ejercicio de las facultades que les confieren el presente Reglamento, la Ley Orgánica del Poder Ejecutivo del Estado y demás ordenamientos legales aplicables;
 
-VI. Rendir informes de las actividades que se realicen al Fiscal General; y
+II. Formular los informes previos y justificados que deban rendir el Rector y los servidores públicos de la Universidad, en relación con los juicios de amparo interpuestos contra actos de la Universidad; actuar en estos juicios con las facultades de delegado para presentar promociones, asistir a las audiencias, rendir pruebas, formular alegatos, promover incidentes y los recursos previstos en la Ley de la materia;
 
-VII. Las demás que le encomiende el Fiscal General, en términos de la Ley, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
+III. Denunciar o querellarse ente el Ministerio Público de los hechos que puedan constituir delitos de los servidores públicos de la Universidad en el desempeño de sus funciones, así como ante la Secretaría de la Contraloría General, de los hechos que pudieran constituir responsabilidad administrativa; así como denunciar o querellarse ante el Ministerio Público competente de los hechos delictuosos en que la Universidad resulte ofendida o en aquellos en que tenga conocimiento o interés, coadyuvar en estos casos con el Ministerio Público, en representación de la Universidad y, cuando proceda, otorgar el perdón legal y pedir al Ministerio Público que solicite el sobreseimiento de los procesos penales;
 
-###### Artículo 21.
+IV. Elaborar los anteproyectos de iniciativas de leyes, decretos, reglamentos, acuerdos y demás normatividad que el Rector le solicite, y que sean de la competencia de la Universidad, así como sus modificaciones;
 
-De la Unidad de Soluciones Alternativas en Materia Penal.
+V. Realizar estudios, emitir opiniones y formular dictámenes respecto a las consultas de carácter jurídico que le sean formuladas por el Rector o por los responsables de las unidades administrativas de la Universidad y fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulan el funcionamiento de la Universidad, de conformidad con las disposiciones normativas aplicables;
 
-La Coordinación General de la Unidad de Soluciones Alternativas en Materia Penal será la encargada de vigilar que en todo el Estado, se realicen los procedimientos en materia de justicia alternativa de forma adecuada y estará integrada de la siguiente manera:
+VI. Supervisar, de acuerdo con las directrices que le indique el Rector, la formulación de los convenios, contratos y demás actos jurídicos en los que la Universidad sea parte y llevar su registro;
 
-I. Coordinador General;
+VII. Expedir copias certificadas de los documentos existentes en los archivos de la propia unidad administrativa de conformidad con las disposiciones legales aplicables; y
 
-II. Unidades de Soluciones de Alternativas en Materia Penal Regionales;
+VIII. Las demás que le confieren las disposiciones normativas aplicables y el Rector, dentro de la esfera de sus atribuciones.
 
-III. Facilitadores y Facilitadoras certificados;
+###### ARTÍCULO 21.
 
-IV. Área de evaluación y seguimiento;
+Las funciones de control y evaluación de la Universidad, estarán a cargo del Órgano de Control y Desarrollo Administrativo, órgano desconcentrado de la Secretaría de la Contraloría General, dependiente jerárquica, administrativa y funcionalmente de la misma, el cual despachará en las oficinas de la Universidad, y ejercerá sus funciones en los términos de los artículos 57 y 59 de la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, el Reglamento Interior de la mencionada Secretaría, las “Normas Generales que establecen el marco de actuación de los Órganos de Control y Desarrollo Administrativo adscritos a las Entidades de la Administración Pública Paraestatal” y demás ordenamientos jurídicos y disposiciones generales aplicables.
 
-V. Área de notificadores e invitadores;
+Para la operación de dicho Órgano de Control de la Universidad proporcionará los recursos materiales, servicios generales e instalaciones físicas adecuadas y necesarias para su funcionamiento, otorgándole la colaboración técnica y toda la información requerida para el cumplimiento de las funciones que le corresponde desarrollar.
 
-VI. Personal administrativo para realizar labores de apoyo.
+###### ARTÍCULO 22.
 
-###### Artículo 22.
+Las funciones de vigilancia de la Universidad estarán a cargo de los Comisarios Públicos Oficial y Ciudadano, designados por la Secretaría de la Contraloría General, quienes ejercerán las funciones previstas en la Ley Orgánica del Poder Ejecutivo del Estado de Sonora, el Manual del Comisario Público y demás disposiciones legales y reglamentarias aplicables, sin perjuicio de las que la Dependencia antes mencionada les asigne específicamente.
 
-Del Coordinador General de la Unidad de Soluciones Alternativas en Materia Penal.
+###### ARTÍCULO 23.
 
-Al frente de la Coordinación General de la Unidad de Soluciones Alternativas en Materia Penal habrá un titular quien tendrá las siguientes facultades y obligaciones:
+El Comisario Público titular será suplido durante sus ausencias por el Comisario Público que designe la Secretaría de la Contraloría General.
 
-I. Representar a los Coordinadores Regionales y en su caso, a las Unidades de Soluciones Alternativas Penales de la Fiscalía General;
+###### ARTÍCULO 24.
 
-II. Conducir el funcionamiento de los Coordinadores Regionales y Unidades de Soluciones Alternativas en Materia Penal de la Fiscalía General, vigilando el cumplimiento de sus objetivos;
+El Consejo Directivo y demás dependientes jerárquicos de la Universidad, en su caso, deberán proporcionar oportunamente al Comisario Público la información y documentación que requiera para el cumplimiento de sus funciones.
 
-III. Coordinar al personal que labore en las distintas Unidades de Soluciones Alternativas en Materia Penal de la Fiscalía General y a los Coordinadores Regionales;
+###### ARTÍCULO 25.
 
-IV. Emitir acuerdos y determinaciones en los asuntos de su competencia;
+Durante las ausencias temporales del Rector, el despacho y la resolución de los asuntos de la Universidad estarán a cargo del Director de Vinculación.
 
-V. Vigilar que los coordinadores regionales y las Unidades de Soluciones Alternativas en Materia Penal apliquen correctamente la normatividad que regulan la solución de controversias por medios alternos al procedimiento penal;
+###### ARTÍCULO 26.
 
-VI. Vigilar que el personal encargado de dar el seguimiento a los acuerdos o convenios suscritos por las partes;
-
-VII. Rendir periódicamente al Fiscal General y al Director General de Investigación Ministerial y Procesos Judiciales, un informe de las actividades que se realicen, así como los resultados;
-
-VIII. Supervisar la integración de una base de datos de los asuntos que se tramiten, la cual contendrá al menos, el número de asuntos atendidos, su estatus y en su caso, el resultado final; así mismo, la alimentación de la base nacional y la información que se remita al Centro Nacional de Información del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
-
-IX. Las demás que le encomiende el Fiscal General, la Ley Orgánica, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
-
-###### Artículo 23.
-
-Funciones concurrentes.
-
-El Coordinador General de la Unidad de Soluciones Alternativas en Materia Penal podrá realizar las funciones que está ley y demás disposiciones normativas aplicables les confieren a los Coordinadores Regionales y a los facilitadores adscritos a las Unidades de Soluciones Alternativas en Materia Penal.
-
-###### Artículo 24.
-
-De las Unidades de Soluciones de Alternativas en Materia Penal Regionales.
-
-Las Unidades de Soluciones de Alternativas en Materia Penal Regionales serán presididas por Coordinadores Regionales, quienes serán los encargados de vigilar el funcionamiento de las Unidades de su competencia por razón de territorio y tendrán las siguientes facultades y obligaciones:
-
-I. Canalizar a las partes que ocurran a la Unidad, a las dependencias o instituciones que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su debida atención;
-
-II. Evaluar las solicitudes de los interesados con el objeto de designar al facilitador y determinar el medio alternativo de solución de controversias idóneo;
-
-III. Emitir las reglas para la designación del facilitador en cada caso;
-
-IV. Revisar y en su caso aprobar, los acuerdos o convenios a que hayan llegado las partes a través de la mediación o de la conciliación, los cuales deberán ser firmados por los participantes, así como por el facilitador que intervino;
-
-V. En caso de que las partes no hayan logrado resolver su conflicto por un mecanismo alternativo, autorizará reiniciar el procedimiento de investigación de dicho delito;
-
-VI. Representar a las Unidades de Soluciones Alternativas en Materia Penal que por razón de territorio sean de su competencia;
-
-VII. Conducir el funcionamiento de la (sic) Unidades de Soluciones Alternativas en Materia Penal que por razón de su territorio sean de su competencia, vigilando el cumplimiento de sus objetivos;
-
-VIII. Coordinar a los facilitadores y demás personal que labore en la Unidad de Soluciones Alternativas en Materia Penal que por razón de su territorio sean de su competencia;
-
-IX. Emitir acuerdos y determinaciones en los asuntos de la competencia de la Unidad de Soluciones Alternativas en Materia Penal que por razón de su territorio sean de su competencia;
-
-X. Vigilar el cumplimiento de la normatividad aplicable a la solución de controversias por mecanismos alternativos;
-
-XI. Vigilar el cumplimiento de los acuerdos o convenios suscritos por las partes;
-
-XII. Rendir periódicamente al Coordinador General de Soluciones Alternativas en Materia Penal, un informe de las actividades que se realicen, así como los resultados;
-
-XIII. Las demás que le encomiende el Fiscal General, el Coordinador General de Soluciones Alternativas en Materia Penal, la Ley Orgánica, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
-
-###### Artículo 25.
-
-De los facilitadores y facilitadoras certificados.
-
-Las Unidades de Soluciones Alternativas en Materia Penal contarán con facilitadores y facilitadoras certificados, quienes tendrán las siguientes facultades y obligaciones:
-
-I. Desarrollar su función de acuerdo a los principios rectores que sustentan los mecanismos alternativos de solución de controversias desde la recepción de los casos que le lleguen, hasta la conclusión del procedimiento;
-
-II. Realizar una entrevista inicial a la persona solicitante del proceso, en la que deberá recabar el registro de sus datos, del invitado y elaborará una breve reseña del caso a tratar, calificará la solicitud y resolverá si la controversia planteada puede ser solucionada por los mecanismos alternos de solución de controversias;
-
-III. Citar hasta por dos veces a la parte contraria a una entrevista inicial, una vez calificada de procedente la solicitud referida en la fracción anterior, a efecto de hacerle saber en qué consiste el procedimiento;
-
-IV. Realizar la mediación, conciliación o junta restaurativa en la forma y términos establecidos en la Ley Nacional de Mecanismos Alternativos y, en su caso, en la Ley Justicia Alternativa para el Estado de Nayarit, y demás disposiciones aplicables;
-
-V. Vigilar que en el trámite de mediación o conciliación no se afecten derechos de terceros o intereses de menores o incapaces;
-
-VI. Garantizar que las partes entiendan el proceso y los alcances de la mediación o conciliación desde el inicio hasta su conclusión;
-
-VII. Negar el servicio o dar por concluido el procedimiento de mediación o conciliación, en caso de advertir alguna simulación en el trámite del mecanismo alternativo o cuando se advierta que la voluntad de alguna de las partes este viciada;
-
-VIII. Cambiar el mecanismo alternativo cuando con acuerdo de las partes, resulte conveniente emplear uno distinto al inicialmente elegido;
-
-IX. Dar por terminado el procedimiento de mediación o conciliación, de acuerdo a lo estipulado en Ley Nacional de Mecanismos Alternativos;
-
-X. Mantener la confidencialidad de las actuaciones;
-
-XI. Facilitar la comunicación directa de los interesados;
-
-XII. Autorizar copia simple o certificada a las partes del acuerdo o convenio a que hayan llegado a través de la mediación o de la conciliación;
-
-XIII. Dar seguimiento al cumplimiento de los acuerdos o convenios firmados por las partes;
-
-XIV. Mantener comunicación y coordinación con el Director del Instituto Especializado de Capacitación en Procuración de Justicia del Estado para la actualización y profesionalización del personal de (sic) que la integra;
-
-XV. Rendirle periódicamente informes de las actividades que se realicen al Coordinador General de la Unidad de Soluciones Alternativas en Materia Penal; y
-
-XVI. Las demás que le encomiende el Fiscal General, el Coordinador de la Unidad de Soluciones Alternativas en Materia Penal, (sic) Ley Nacional de Mecanismos Alternativos, la Ley Orgánica, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
-
-###### Artículo 26.
-
-Del Departamento de Desarrollo e Innovación Tecnológica.
-
-El Departamento de Desarrollo e Innovación Tecnológica, tendrá las siguientes facultades y obligaciones:
-
-I. Establecer mecanismos que garanticen la óptima operación de los sistemas de información con los que cuente la Fiscalía General;
-
-II. Brindar asesoría técnica al personal de la Fiscalía General para el debido uso del equipo de cómputo;
-
-III. Diseñar, implementar y supervisar los programas relativos al funcionamiento del equipo tecnológico de la Fiscalía General;
-
-IV. Desarrollar, implementar y administrar los sistemas de información que sirvan de apoyo a las actividades operativas y administrativas de la Fiscalía General;
-
-V. Proporcionar servicios de soporte técnico y mantenimiento al equipo de cómputo adscrito a la Fiscalía General;
-
-VI. Crear, implementar, administrar y resguardar las bases de datos de información de las investigaciones y procesos en que intervenga la Fiscalía General;
-
-VII. Aprobar, supervisar y dirigir las labores que realicen las Unidades de Desarrollo e Innovación Tecnológica ubicadas en las coordinaciones regionales de la Fiscalía General;
-
-VIII. Diseñar e implementar planes de contingencia que garanticen el restablecimiento de la capacidad operativa en la Fiscalía General ante fallas en equipos de cómputo, así como desastres ambientales;
-
-IX. Analizar, proponer y emitir opinión técnica al Fiscal General, sobre la adquisición, renovación, desarrollo e implementación de los equipos de cómputo, sistemas de información e infraestructura tecnológica de la Fiscalía General;
-
-X. Supervisar los trabajos del personal a su cargo, o de terceros que por la necesidad del servicio se contraten, referente al desarrollo de sistemas de información, infraestructura de redes, de comunicaciones e instalaciones de equipos de cómputo en la Fiscalía General;
-
-XI. Rendir periódicamente al Fiscal General un informe de los trabajos realizados por las áreas a su cargo;
-
-XII. Mantener la operatividad y disponibilidad de los equipos de cómputo, sistemas de información, bases de datos y redes de comunicación de la Fiscalía General;
-
-XIII. Realizar la actualización de los sistemas de información de acuerdo a las reformas del marco normativo y las necesidades operativas en materia de procuración de justicia en la Fiscalía General;
-
-XIV. Coordinar la integración de estrategias para el desarrollo de sistemas de información, proyectos de telecomunicaciones y tecnologías de la Fiscalía General;
-
-XV. Diseñar e implementar herramientas para las unidades administrativas de la Fiscalía General que faciliten la recopilación de información;
-
-XVI. Instrumentar estrategias para procesar datos y satisfacer necesidades de información requerida por las instancias administrativas e instituciones de procuración de Justicia del Estado;
-
-XVII. Suministrar, integrar, sistematizar, actualizar, intercambiar y administrar información de acuerdo a lo establecido por las leyes, en coordinación con los órganos de la Fiscalía General;
-
-XVIII. Administrar las bases de datos de Plataforma México, Sistema Único de Información Criminal y el resto de la información de apoyo al Sistema Nacional de Procuración de Justicia;
-
-XIX. Llevar el control estadístico de todos los procesos hasta su conclusión;
-
-XX. Establecer procesos y procedimientos para la óptima operación del equipo tecnológico con que cuente la Fiscalía General; y
-
-XXI. Las demás que le encomiende el Fiscal General, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
+En las ausencias de uno o varios titulares de las unidades administrativas de la Universidad, éstos serán suplidos por los servidores públicos que designe el Rector.
 
 ###### Artículo 27.
 
@@ -931,7 +667,7 @@ IX. Evaluar riesgos que permitan a la Dirección General de Investigación Minis
 
 X. Las demás que señale la Ley Orgánica, este reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
 
-### CAPÍTULO II. De las Fiscalías Especializadas por disposición de la Constitucional Local
+### CAPÍTULO VI. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS UNIDADES ADMINISTRATIVAS
 
 ###### Artículo 36.
 
@@ -999,7 +735,7 @@ I. Participar como parte integrante en el Comité Coordinador del Sistema Estata
 
 II. Fungir como enlace, conforme a los mecanismos institucionales y ámbito de su competencia, con las instancias estatales y municipales que se encarguen de fiscalizar recursos y de la vigilancia, seguimiento y evaluación de las instancias y servidores públicos, para la atención de alguna investigación penal;
 
-### CAPÍTULO III. De la Dirección General de Investigación Ministerial y Procesos Judiciales
+### CAPÍTULO VII. DEL CONTROL Y VIGILANCIA
 
 ###### Artículo 38.
 
@@ -1705,7 +1441,7 @@ XIV. Rendirle informes de las actividades que se realicen al Coordinador de Just
 
 XV. Las demás que le encomiende el Fiscal General, el Director General de Investigación Ministerial y Procesos Judiciales, el Subdirector de Procesos Judiciales, su coordinador, la Ley Orgánica, este Reglamento, los Manuales de Organización y demás disposiciones legales aplicables.
 
-### CAPITULO IV. De la Dirección General de la Agencia de Investigación Criminal
+### CAPÍTULO VIII. DE LAS SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 62.
 
@@ -3735,33 +3471,69 @@ XI. Representar a la Fiscalía General en los procesos judiciales, con relación
 
 XII. Las demás que le encomiende el Fiscal General, el Director General de Investigación Ministerial y Procesos Judiciales, el Titular de la Bodega de Evidencias, la Ley Orgánica, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
 
-## ARTÍCULOS TRANSITORIOS
+## TRANSITORIOS
 
-PRIMERO. Este Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+###### ARTÍCULO PRIMERO.
 
-SEGUNDO. Se abroga el Reglamento Interior de la Procuraduría General de Justicia del Estado de Nayarit, publicado el 10 de enero de 2004, Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-TERCERO. Los trámites y actos que realice la Fiscalía General, que correspondan al Sistema de Justicia Penal Mixto o Tradicional, se sustanciarán conforme a las facultades y obligaciones que otorga el presente reglamento a los órganos que integran la Fiscalía General del Estado; no obstante lo anterior, las disposiciones no previstas en el presente instrumento jurídico y que no se contrapongan al mismo, contenidas en el reglamento a que se refiere el artículo transitorio segundo, podrán aplicarse, hasta la conclusión de los procedimientos en trámite iniciados conforme al sistema antes citado.
+###### ARTÍCULO SEGUNDO.
 
-CUARTO. Se derogan las disposiciones de igual o menor rango que se opongan a lo establecido en este ordenamiento.
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior.
 
-QUINTO. El Fiscal General, resolverá las cuestiones que no se encuentren previstas en este Reglamento o que requieran disposiciones expresas para ser implementadas.
+Dado en la ciudad de San Luis Río Colorado, Sonora, a los__ días del mes de Enero de 2013.
 
-SEXTO. Los órganos, unidades administrativas, de investigación y especializadas previstas en este Reglamento, las que pudieran crearse, así como el personal que las integra, entrarán en funciones en la medida de la disponibilidad presupuestal.
+ORGANIGRAMA ESTRUCTURAL
 
-SÉPTIMO. En tanto se cuente con el Plan de Persecución Penal, la Unidad de Análisis Monitoreo y Evaluación, realizará sus funciones conforme a lo dispuesto en el Plan Estatal de Desarrollo por cuanto a la Fiscalía General del Estado, lo previsto por el marco normativo aplicable.
+> <small>N. DE E. VÉASE ORGANIGRAMA ESTRUCTURAL EN EL B.O. DE 27 DE MARZO DE 2013, PÁGINA 13.</small>
 
-OCTAVO. Las Unidades Especializadas y de Investigación que operan en el Sistema de Justicia Penal Acusatorio y Oral, no contempladas en el presente reglamento, seguirán realizando sus funciones de conformidad al Acuerdo Administrativo que tiene por objeto la modificación de especialización de las Agencias del Ministerio Público que operaran en la Ciudad de Tepic, publicado el 30 de diciembre del 2015, en el Periódico Oficial, Órgano del Estado de Nayarit.
+CONSEJO DIRECTIVO
 
-NOVENO. La Dirección de Asuntos Internos se integrará con el personal que conformaba la Visitaduría General y demás servidores públicos necesarios de acuerdo con la disponibilidad presupuestal.
+Lic. Vicente Pacheco Castañeda
 
-DÉCIMO. El Director de Asuntos Internos contará con 30 días hábiles, a partir de la entrada en vigor del presente reglamento, para realizar la entrega recepción al Titular del Órgano Interno de Control, con relación a los expedientes integrados en materia de responsabilidades administrativas, con la finalidad de que éste continúe con la sustanciación de los mismos y en su oportunidad resuelva conforme a lo previsto por la ley de la materia y las facultades y atribuciones que le otorga la Ley Orgánica de la Fiscalía General del Estado y el presente reglamento.
+Subsecretario de Educación Media Superior y Superior
 
-Dado en el Edificio Sede de la Fiscalía General en la ciudad de Tepic, Nayarit, a los veintitrés días del mes de enero de dos mil veinte.
+Ing. Mario Alberto Palafox
 
-El Fiscal General del Estado, Lic. Petronilo Díaz Ponce Medrano. – Rúbrica.
+Agente Fiscal San Luis Rio Colorado
 
-INDICE
+Lic. Czarina Valencia Rosas
+
+Coordinador Regional General de la Secretaría de Economía en SLRC
+
+Mtro. Jorge M. Acoltzi Alacázar
+
+Director de Administración y Finanzas de la Coordinación General de Universidades Tecnológicas
+
+Lic. Juan Roberto Carrillo Pérez
+
+Director de CECATI 124 de San Luis Rio Colorado
+
+Lic. Martín Ortega Velez
+
+Secretario del Ayuntamiento de San Luis Rio Colorado
+
+C.P. Luis Carlos Valencia Rosas
+
+Representante de Sector Productivo
+
+Lic. Benito Basilio Covarrubias
+
+Representante del Sector Productivo
+
+C. Miguel Lardín Salle
+
+Representante de Sector Social
+
+C.P. Ricardo Ruiz Paredes
+
+Comisario Público Oficial
+
+Ing. Carlos Enrique Ramírez Escamilla
+
+Rector de la Universidad Tecnológica de San Luis Rio Colorado
+
+San Luis Rio Colorado al 1 de marzo del 2013
 
 ## Titulo Primero. Disposiciones generales. 6
 
