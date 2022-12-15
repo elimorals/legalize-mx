@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2011-del-pleno-del-consejo-de-la-83058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-09-30"
-last_updated: "2022-03-14"
+last_updated: "2022-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-09-22"
 ---
 # ACUERDO GENERAL 33/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [CREA EL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGION, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL ACUERDO GENERAL 100/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DÉCIMA PRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 33/2011, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 2011.
 
@@ -278,3 +280,15 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 100/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DÉCIMA PRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+CUARTO. Se abroga (sic) Acuerdo General 33/2011 del Pleno del Consejo la Judicatura Federal, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos jurisdiccionales que lo integrarán.
