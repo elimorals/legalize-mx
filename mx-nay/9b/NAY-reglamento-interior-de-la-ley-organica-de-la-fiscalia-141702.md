@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-ley-organica-de-la-fiscalia-141702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-23"
-last_updated: "2020-01-23"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Sección Primera del Número 15 del Periódico Oficial del Estado de Nayarit, el jueves 23 de enero de 2020.
 
@@ -1427,39 +1429,7 @@ IV. Las demás que le encomiende el Fiscal General, el Director General de Inves
 
 ###### Artículo 53.
 
-De la Unidad de la (sic) Inteligencia Patrimonial y Económica.
-
-El Titular de la Unidad de Inteligencia Patrimonial y Económica en lo sucesivo UIPE, tendrá a su cargo bienes asegurados, decomisados y abandonados, y tendrá las tendrá las (sic) siguientes facultades y obligaciones:
-
-I. Dirigir, coordinar y cuando así proceda, coadyuvar con la investigación y persecución de delitos en materia patrimonial y económica, competencia de UIPE;
-
-II. Dirigir, supervisar y coordinar al personal auxiliar de la UIPE, así como orientar y dar seguimiento a la actuación del personal ministerial en asuntos de su competencia;
-
-III. Establecer directrices para el adecuado funcionamiento de la UIPE, las cuales deben ser acordes a las políticas institucionales de la Fiscalía General;
-
-IV. Ejercer de manera directa, cuando así lo determine, cualquiera de las funciones del personal a su cargo;
-
-V. Proponer criterios para la actuación ministerial y de índole jurídico procedimental en el marco de su competencia;
-
-VI. Implementar mecanismos de coordinación y colaboración con diversas autoridades, en el ámbito de su competencia;
-
-VII. Proponer y en su caso, implementar, planes y programas destinados a detectar la comisión de delitos en materia patrimonial y económica, en el ámbito de su competencia;
-
-VIII. Gestionar las solicitudes de colaboración;
-
-IX. Solicitar el apoyo y colaboración de las diversas áreas de la Fiscalía General para el desarrollo de sus funciones;
-
-X. Proponer la capacitación del personal en materia de atención, investigación patrimonial y económica;
-
-XI. Proponer la celebración de convenios con instituciones u organismos públicos o privados, estatales, nacionales o extranjeros, en el ámbito de su competencia;
-
-XII. Informar periódicamente al Subdirector de Investigación Ministerial sobre los asuntos que conozca;
-
-XIII. Observar los instrumentos internacionales en la materia de su competencia y difundirlos entre el personal de la dependencia;
-
-XIV. Fungir como Secretario Técnico del Comité de Bienes Asegurados, Decomisados y Abandonados de la Fiscalía General; y
-
-XV. Las demás que le encomiende el Fiscal General, el Director General de Investigación Ministerial y Procesos Judiciales, el Subdirector de Investigación Ministerial, la Ley Orgánica, este Reglamento, los Manuales de Organización y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2022)
 
 ###### Artículo 54.
 
@@ -3691,11 +3661,9 @@ VI. Establecer los órganos y comisiones que deban auxiliarlo en el desempeño d
 
 De la integración.
 
-El Comité de Bienes Asegurados, Decomisados y Abandonados, estará integrado por:
-
 a) Director General de Administración;
 
-b) Titular de la Unidad de Inteligencia Patrimonial y Económica;
+b) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2022)
 
 c) El Jefe del Departamento del Control de Activos;
 
@@ -3709,8 +3677,6 @@ f) Demás que designe el Fiscal General.
 
 De las facultades y obligaciones.
 
-El Comité de Bienes Asegurados, Decomisados y Abandonados tendrá las siguientes facultades y obligaciones:
-
 I. Resguardar los bienes asegurados, decomisados y recuperados, que le sean remitidos por el Titular de la Bodega de Indicios y Evidencias, para lo cual, deberá implementar procedimientos y técnicas tendentes a garantizar su preservación y conservación;
 
 II. Implementar mecanismos para el registro y control de los bienes asegurados, decomisados y recuperados que mantenga en su resguardo;
@@ -3719,7 +3685,9 @@ III. Mantener actualizado el registro de ingreso, salidas, reingreso y destino f
 
 IV. Recibir de los órganos, fiscalías, unidades y demás áreas que integran la Fiscalía General, los instrumentos, objetos, valores, vehículos o productos del delito que estén asegurados y en procesos para causar abandono y/o decomiso;
 
-V. Administrar u operar, los bienes asegurados que los Agentes del Ministerio Público y la Unidad de Inteligencia Patrimonial y Económica pongan a disposición del Comité para dichos efectos;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+V. Administrar u operar los bienes asegurados que los Agentes del Ministerio Público pongan a disposición del Comité para dichos efectos.
 
 VI. Integrar el inventario, vigilancia, resguardar y custodiar los bienes, objetos, valores y vehículos, que sea puestos a disposición, así como entregar en resguardo;
 
@@ -3731,7 +3699,9 @@ IX. Solicitar cuando resulte procedente, la determinación del destino final de 
 
 X. Requerir a las áreas de la Fiscalía General, los bienes, objetos, valores y vehículos, que este (sic) relacionados con investigaciones a cargo de la Fiscalía General y que sean necesarios para el cumplimiento de sus funciones;
 
-XI. Representar a la Fiscalía General en los procesos judiciales, con relación a los bienes asegurados que se encuentren bajo su resguardo, por conducto del Titular de la Unidad de Inteligencia Patrimonial y Económica;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+XI. Representar a la Fiscalía General en los procesos judiciales, con relación a los bienes asegurados que se encuentren bajo su resguardo, por conducto de cualquier integrante concurrente con facultades, y
 
 XII. Las demás que le encomiende el Fiscal General, el Director General de Investigación Ministerial y Procesos Judiciales, el Titular de la Bodega de Evidencias, la Ley Orgánica, este Reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
 
@@ -3930,3 +3900,15 @@ Departamento de Planeación, Seguimiento y Evaluación. 103
 ### Capítulo I. Consejo Técnico del Servicio de Carrera de Procuración de Justicia. 112
 
 ### Capítulo II. Comité de Bienes Asegurados, Decomisados y Abandonados de la Fiscalía General. 113. Artículos Transitorios. 114
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ADMINISTRATIVO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT".]
+
+Artículo Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
+
+Artículo Segundo. Se abroga el Acuerdo Administrativo que crea la Unidad de Inteligencia Patrimonial y Económica de la Fiscalía General del Estado, publicado el 1 de julio de 2019 en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
+
+Artículo Tercero. Publíquese en el Periódico Oficial Órgano del Gobierno del estado de Nayarit, así como en el Portal Web de la Fiscalía General del estado de Nayarit y dese a conocer a la estructura interna de la Fiscalía General del Estado.
