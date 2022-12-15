@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-11-24"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2215,6 +2215,12 @@ XXVII.- Las demás que le asignen las Leyes y Reglamentos.
 
 En cada Ayuntamiento, habrá una Contraloría que tendrá por objeto la vigilancia y evaluación del desempeño de las distintas áreas de la administración Municipal, para promover la productividad, eficiencia y eficacia, a través de la implantación de sistemas de control interno, adecuado a las circunstancias, así como vigilar, en su ámbito, el cumplimiento de la Ley de Responsabilidades de Servidores Públicos.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 105 BIS.- La Contraloría estará a cargo de una persona titular cuyo nombramiento deberá realizarse en los términos de esta ley; asimismo, contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares recaerán en personas distintas.
+
+La Contraloría contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objetivo.
+
 ###### ARTÍCULO 106.
 
 La Contraloría, tendrá las siguientes facultades y obligaciones:
@@ -4102,3 +4108,11 @@ P.O. 24 DE NOVIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 307 QUE ADICIONA UN ARTÍCULO 105 BIS A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los Ayuntamientos del Estado de Hidalgo deberán contemplar en su proyecto de Presupuesto de Egresos 2023 y subsiguientes, todo lo relativo y necesario para la conformación y operación de las Unidades de Investigación, Substanciación y Resolución de sus Contralorías Municipales.
