@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2021-10-16"
+last_updated: "2022-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -169,6 +169,10 @@ Los Municipios, además de las Participaciones establecidas en la presente Ley r
 
 Cuando sea aplicable el monto garantizado del ejercicio 2013 por lo que respecta a los fondos establecidos en las fracciones I, II, III, V, VI y VII, el importe mensual a distribuir para cada fondo, será aquella que se obtenga de dividir entre doce la cantidad total que cada municipio recibió por los mismos conceptos en el ejercicio 2013. Para ello será necesario que la operación se realice por cada uno de los fondos a que se refieren las fracciones señaladas en este párrafo.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+En el supuesto de que, la entidad federativa reciba recursos correspondientes al Fondo de Estabilización de los Ingresos de las Entidades Federativas (FEIEF), destinados a compensar la disminución en los fondos de participaciones en ingresos federales vinculados con la Recaudación Federal Participable, con respecto a lo estimado en la Ley de Ingresos de la Federación, de los Fondos establecidos en las fracciones I, II y VII, la distribución se realizará con base en los coeficientes determinados para la distribución del Fondo General de Participaciones, Fondo de Fiscalización y Recaudación y Fondo de Fomento Municipal, señalados en los artículos 6, 6D y 7 de esta Ley.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2018)</small>
 
 ###### ARTÍCULO 6.
@@ -308,6 +312,14 @@ ARTICULO 7 C.- El Estado deberá participar a sus Municipios el 100% de la recau
 Para efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto Sobre la Renta, una vez descontadas las devoluciones por dicho concepto.
 
 Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este artículo, los Municipios deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto Sobre la Renta correspondiente a los ingresos por salarios pagados con cargo a sus Participaciones y otros ingresos, debiendo informar a la Secretaría dicho entero.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
+
+Artículo 7D. El Estado participará a sus municipios el 20% que efectivamente recaude del impuesto a la venta final de bebidas con contenido alcohólico, a que se refiere el capítulo Séptimo Bis de la Ley Estatal de Hacienda, dentro de los 5 días hábiles posteriores al cierre del mes en el cual se reciba el entero del impuesto, conforme a las siguientes bases:
+
+I. El 50% se distribuirá entre los municipios, en proporción directa al número de habitantes que cada uno tenga, conforme a la última información publicada por el Instituto Nacional de Estadística, Geografía e Informática, y
+
+II. El 50% restante, se distribuirá en partes iguales, entre los municipios del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1024,3 +1036,13 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+15 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 754.- MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFOÍAL ARTÍCULO 5 Y EL ARTÍCULO 7 D; Y SE REFORMAN LOS ARTICULOS 6, 6B Y 6C DE LA LEY DE COORDINACION FISCAL PARA EL ESTAÓO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el uno de enero de dos mil veintitrés, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
