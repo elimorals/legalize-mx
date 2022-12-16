@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2022-11-30"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -4011,6 +4011,10 @@ VI. Áreas de palmares de competencia estatal que se encuentran en los oasis, ar
 
 Las penas previstas en este artículo se aumentarán en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales endémicos en una cantidad igual o mayor a mil metros cúbicos o se afecte fauna endémica que haga de esas áreas su hábitat natural sin importar el número de ejemplares o especies.
 
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
+Toda persona que conozca o tenga indicios de un hecho probablemente constitutivo del presente delito, deberá hacerlo del conocimiento inmediato del Ministerio Público quien deberá iniciar con la investigación correspondiente.
+
 ###### Artículo 370.
 
 Tala ilícita. Se impondrán de seis meses a cuatro años de prisión y de quinientos a mil quinientos días multa, a quien ilícitamente derribe, tale u ocasione la muerte de una especie endémica de flora o recurso forestal.
@@ -4732,3 +4736,13 @@ B.O. 30 DE NOVIEMBRE DE 2022.
 B.O. 30 DE NOVIEMBRE DE 2022.
 
 > <small>[N. DE E. EL DECRETO 2878, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE BAJA CALIFORNIA SUR.]</small>
+
+B.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2886 SE ADICIONA EL ARTÍCULO 369 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 369 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se adiciona respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
