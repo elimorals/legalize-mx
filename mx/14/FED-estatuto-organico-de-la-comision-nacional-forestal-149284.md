@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-149284"
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-04-30"
-last_updated: "2021-04-30"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149284&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-03-31"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2022.
 
 Estatuto publicado en el Número 27 del Diario Oficial de la Federación, el viernes 30 de abril de 2021.
 
@@ -71,7 +71,9 @@ B. Unidades Administrativas:
 
 I. Dirección General;
 
-II. Coordinación de Apoyo y Proyectos Especiales;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+II. Coordinación General de Desarrollo Institucional y Proyectos Especiales;
 
 III. Coordinación General Jurídica;
 
@@ -85,7 +87,9 @@ VII. Coordinación General de Planeación e Información;
 
 VIII. Unidad de Asuntos Internacionales y Fomento Financiero, y
 
-IX. Unidad de Vinculación Sectorial.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+IX. Unidad de Vinculación y Género.
 
 C. Órgano Interno de Control.
 
@@ -99,15 +103,25 @@ a) Promotorías de Desarrollo Forestal;
 
 b) Coordinación en la Ciudad de México; y
 
-c) Coordinación en la Región Norte.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
-II. Coordinación de Apoyo y Proyectos Especiales:
+c) Gerencia de Gestión y Seguimiento Institucional.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+II. Coordinación General de Desarrollo Institucional y Proyectos Especiales:
 
 a) Gerencia de Comunicación y Producción;
 
 b) Gerencia Técnica; y
 
-c) Gerencia de Gestión y Seguimiento Institucional.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+c) Gerencia de Desarrollo Institucional; y
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+d) Gerencia de Proyectos Especiales.
 
 III. Coordinación General Jurídica:
 
@@ -171,11 +185,17 @@ b) Gerencia de Financiamiento; y
 
 c) Gerencia de Bosques y Cambio Climático.
 
-IX. Unidad de Vinculación Sectorial.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
-Las personas titulares de las Unidades Administrativas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos adscritos a su Unidad.
+IX. Unidad de Vinculación y Género.
 
-Las personas titulares de la Coordinación en la Ciudad de México y la Región Norte tendrán facultades para atender las gestiones que indique la Dirección General ante entidades públicas o privadas, nacionales o internacionales de cualquier nivel de gobierno.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+Las personas titulares de las Unidades Administrativas y subalternas podrán delegar las atribuciones y funciones que consideren convenientes en los servidores públicos adscritos a su Unidad.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+La persona titular de la Coordinación en la Ciudad de México tendrá facultades para atender las gestiones que indique la Dirección General ante entidades públicas o privadas, nacionales o internacionales de cualquier nivel de gobierno.
 
 La persona titular de la Coordinación General Jurídica será nombrada y en su caso, removida, por la persona titular de la Consejería Jurídica del Ejecutivo Federal, en concordancia con lo establecido en el artículo 43, fracción VII de la Ley Orgánica de la Administración Pública Federal.
 
@@ -199,7 +219,9 @@ La Dirección General estará a cargo de un titular de la Dirección General, a 
 
 I. Expedir los acuerdos, lineamientos, circulares y demás disposiciones de carácter administrativo;
 
-II. La persona titular de la Dirección General de la CONAFOR, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente, podrá delegar mediante Acuerdo que se publicará en el Diario Oficial de la Federación, las facultades que de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a éste, en los servidores públicos de las Unidades Administrativas o subalternas de este organismo. Lo anterior, sin perjuicio de ejercerlas directamente.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+II. La persona titular de la Dirección General de la CONAFOR, con excepción de aquellas que por disposición legal expresa o determinación de la Junta de Gobierno le correspondan exclusivamente, podrá delegar las facultades que de conformidad con este Estatuto, así como de otros ordenamientos, correspondan a éste, en los servidores públicos de las Unidades Administrativas o subalternas de este organismo. Lo anterior, sin perjuicio de ejercerlas directamente.
 
 Las personas titulares de las Unidades Administrativas y de las Subalternas de CONAFOR deberán seguir ejerciendo las facultades que les correspondan conforme a este Estatuto, sin perjuicio de las facultades que sean delegadas en términos del párrafo anterior;
 
@@ -231,7 +253,9 @@ II. Suscribir los documentos relativos al ejercicio de sus facultades y aquellos
 
 III. Autorizar las erogaciones y vigilar el ejercicio del presupuesto asignado a la Promotoría de Desarrollo Forestal;
 
-IV. Elaborar diagnósticos relativos a la problemática estatal en materia forestal y planes que den perspectiva al desarrollo del sector;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+IV. Participar en la elaboración de diagnósticos relativos a la problemática estatal en materia forestal y planes que den perspectiva al desarrollo del sector;
 
 V. Contribuir en las acciones que la CONAFOR acuerde con la federación, el gobierno estatal y los gobiernos municipales para el desarrollo forestal integral del estado, con la participación que corresponda a la Delegación Federal de Programas para el Desarrollo en cada entidad;
 
@@ -257,13 +281,17 @@ XV. Auxiliar a las Unidades Administrativas, siguiendo las disposiciones, sistem
 
 XVI. Realizar el cotejo y la certificación de los documentos que obren en original, en sus archivos;
 
-XVII. Elaborar y entregar de manera oportuna, informes periódicos de avances y resultados de la aplicación de los programas anuales de trabajo en su respectiva entidad federativa, a las Unidades Administrativas encargadas del seguimiento de los mismos;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XVII. Elaborar y entregar de manera oportuna, informes periódicos de avances y resultados que contribuyan desde su respectiva Entidad Federativa al seguimiento del Programa Anual de Trabajo de la CONAFOR;
 
 XVIII. Dar seguimiento a los contratos de adquisiciones, arrendamientos, servicios y de obras públicas y servicios relacionados con las mismas, suscribir aquellos contratos en los que funjan como área responsable del contrato y realizar los demás actos que se señalen en las Políticas, Bases y Lineamientos en Contrataciones;
 
 XIX. Solicitar a las Unidades Administrativas requirentes que realicen el trámite para la rescisión de los contratos y convenios, cuando funjan como área responsable de los mismos y a su juicio se haya actualizado alguna causal de rescisión;
 
-XX. Coordinar los procesos de planeación, operación y evaluación de las Promotorías Locales adscritas a la Promotoría de Desarrollo Forestal, en el ámbito territorial que les corresponda;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XX. Coordinar los procesos de planeación, operación y evaluación de las Promotorías Locales adscritas a la Promotoría de Desarrollo Forestal, en el ámbito territorial que les corresponda y participar en el proceso de planeación de las Unidades Administrativas y Subalternas en lo que corresponde a su ámbito territorial;
 
 XXI. Recibir, gestionar, resolver y en general realizar todos los actos necesarios para substanciar los trámites competencia de la entidad, establecidos en la Ley General de Desarrollo Forestal Sustentable y su reglamento;
 
@@ -309,15 +337,21 @@ XV. Proporcionar a las Promotorías de Desarrollo Forestal, en el ámbito de su 
 
 XVI. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 13.
 
-La persona titular de la Coordinación de Apoyo y Proyectos Especiales tendrá las atribuciones siguientes:
+La persona titular de la Coordinación General de Desarrollo Institucional y Proyectos Especiales tendrá las atribuciones siguientes:
 
-I. Proponer estrategias, métodos y procedimientos en materia de proyectos especiales y otros que determine la Dirección General, para contribuir en la operación y funcionamiento de las áreas sustantivas de la institución y apoyar en la coordinación y seguimiento de temas transversales, para contribuir al cumplimiento de las metas y objetivos de la CONAFOR;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+I. Proponer estrategias, métodos y procedimientos en materia de desarrollo institucional y proyectos especiales y otros que determine la Dirección General, para contribuir en la operación y funcionamiento de las áreas sustantivas de la institución y apoyar en la coordinación y seguimiento de temas transversales, para contribuir al cumplimiento de las metas y objetivos de la CONAFOR;
 
 II. Asesorar a la Dirección General de la CONAFOR en los asuntos y temas que éste considere necesarios, para coadyuvar en el cumplimiento de las metas y objetivos institucionales;
 
-III. Asesorar en aspectos técnicos forestales a la Coordinación General Jurídica y demás Unidades Administrativas;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+III. Asesorar en aspectos técnicos y de política forestal a las demás Unidades Administrativas;
 
 IV. Participar en eventos nacionales e internacionales en representación de la institución y dar seguimiento a los asuntos, programas y eventos que determine el titular de la Dirección General, para contribuir al logro de los objetivos institucionales;
 
@@ -329,7 +363,9 @@ VII. Participar en las acciones dirigidas a mejorar la coordinación de las áre
 
 VIII. Apoyar en la identificación y seguimiento de las obligaciones establecidas en la Ley General de Desarrollo Forestal Sustentable, su Reglamento y Normas Oficiales de las áreas sustantivas de la CONAFOR; y sugerir medidas para su atención y cumplimiento desde el punto de vista técnico;
 
-IX. Contribuir en la elaboración de diagnósticos de los programas prioritarios de la CONAFOR, para identificar sus fortalezas y debilidades y coadyuvar en la identificación de estrategias y mecanismos de financiamiento nacional e internacional para el sector forestal, para mejorar el desempeño institucional y promover nuevas alternativas de financiamiento;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+IX. Contribuir en la elaboración de diagnósticos de los programas prioritarios de la CONAFOR, para identificar sus fortalezas y debilidades y coadyuvar en la identificación de estrategias y mecanismos de financiamiento nacional e internacional para el sector forestal, para mejorar el desempeño institucional y promover nuevas alternativas de financiamiento, así como conducir las acciones de la Estrategia Nacional de Financiamiento Forestal para consolidar la actualización y la integración de todos sus instrumentos y proyectos financieros;
 
 X. Diseñar, proponer, desarrollar y evaluar las estrategias, políticas y programas de información y comunicación de la CONAFOR;
 
@@ -337,7 +373,13 @@ XI. Difundir periódicamente los programas y actividades en general que realice 
 
 XII. Colaborar con la Dirección General, así como con las Unidades Administrativas en la divulgación y amplia difusión de las actividades que realicen en el desempeño de sus atribuciones; y
 
-XIII. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XIII. Coordinar y sistematizar la información sobre el seguimiento y la evaluación del Desarrollo Institucional; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XIV. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
 
 ###### ARTÍCULO 14.
 
@@ -415,7 +457,7 @@ IV. Promover el manejo integrado del paisaje, considerando los componentes de pr
 
 V. Diseñar, promover, implementar y evaluar estrategias para la formación y fortalecimiento de redes de valor, a fin de contribuir a la integración productiva, el comercio justo y el cooperativismo entre los principales actores del sector;
 
-VI. Coordinar, con la participación que corresponda a la Coordinación General de Planeación e Información y a las Promotorías de Desarrollo Forestal, la atención y en su caso, resolución de los trámites competencia de la CONAFOR, previstos en la Ley General de Desarrollo Forestal Sustentable, con excepción de las notificaciones relacionadas con la aplicación de medidas fitosanitarias para la prevención de plagas y enfermedades forestales y la expedición de remisiones forestales relacionados éstas;
+VI. (DEROGADA, D.O.F. 16 DE DICIEMBRE DE 2022)
 
 VII. Proponer la celebración de acuerdos y colaborar en su ejecución con los gobiernos de las entidades federativas y municipales que soliciten la descentralización de la administración y promoción de acciones y funciones de la CONAFOR en materia de manejo y aprovechamiento sustentable de los recursos forestales y sus recursos asociados en zonas forestales o de aptitud preferentemente forestal;
 
@@ -483,7 +525,9 @@ XXXVIII. Fomentar la exportación de productos forestales;
 
 XXXIX. Promover estrategias para la inclusión financiera del sector forestal a través de la colaboración y coordinación con diversas instituciones financieras nacionales e internacionales, así como desarrollar instrumentos que faciliten el acceso al crédito de los productores forestales;
 
-XL. Dirigir, administrar y operar los Centros de Educación y Capacitación Forestal, el Centro de Formación Forestal y el Centro de Investigación y Transferencia de Tecnología Forestal;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XL. Coordinar, administrar y operar los Centros de Educación y Capacitación Forestal, el Centro de Formación Forestal y el Centro de Investigación y Transferencia de Tecnología Forestal;
 
 XLI. Fomentar y orientar la participación organizada de la sociedad civil en programas de educación, capacitación, investigación y cultura forestal; y
 
@@ -547,7 +591,9 @@ XXVI. Promover proyectos de investigación necesarios para resolver los problema
 
 XXVII. Difundir, a través de las Promotorías de Desarrollo Forestal con el apoyo de los gobiernos de las entidades federativas, de los municipios y de los Consejos Estatales Forestales, las medidas de prevención y manejo de plagas y enfermedades forestales, así como de prevención, combate y control de incendios forestales;
 
-XXVIII. Realizar directamente o en forma coordinada con estados y/o municipios, las actividades para la detección, diagnóstico, prevención, combate y control de plagas y enfermedades forestales;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Realizar o coordinar las actividades para la detección, diagnóstico, prevención, combate y control de plagas y enfermedades forestales;
 
 XXIX. Establecer los criterios técnicos y administrativos para la atención y en su caso resolución las notificaciones relacionadas con la aplicación de medidas fitosanitarias para la prevención de plagas y enfermedades forestales y la expedición de remisiones forestales relacionadas a éstas;
 
@@ -657,7 +703,9 @@ X. Crear y mantener actualizados los bancos de información para el Sistema Naci
 
 XI. Proponer y apoyar el desarrollo, funcionamiento y operación de los sistemas de información de las distintas áreas de la CONAFOR con el fin de garantizar la integración del Sistema Nacional de Información Forestal;
 
-XII. Diseñar, implementar y operar en coordinación con las demás Unidades Administrativas sistemas para el control y seguimiento de los programas que opera la Entidad;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XII. Diseñar, implementar y operar en coordinación con las demás Unidades Administrativas los sistemas de gestión de los incentivos o subsidios que opera la Entidad;
 
 XIII. Coordinar, en colaboración con otras Unidades Administrativas de la CONAFOR, el establecimiento de indicadores estratégicos y de gestión, para el seguimiento, monitoreo y evaluación de avances y resultados de los programas de la CONAFOR;
 
@@ -667,7 +715,9 @@ XV. Promover y apoyar la creación y funcionamiento de los Sistemas Estatales de
 
 XVI. Generar reportes, informes y publicaciones sobre la situación del sector forestal a partir de los datos contenidos en el Sistema Nacional de Información Forestal;
 
-XVII. Coordinar el diseño e implementación del Sistema Nacional de Monitoreo Forestal, así como el Sistema Nacional de Medición, Reporte y Verificación de la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación forestal;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XVII. Coordinar el diseño e implementación del Sistema Nacional de Monitoreo Forestal, así como el Sistema Nacional de Medición, Reporte y Verificación de la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación forestal, así como las relativas a la conservación, el manejo forestal sustentable y el incremento de los acervos de carbono;
 
 XVIII. Integrar, monitorear y mantener actualizado el Inventario Nacional Forestal y de Suelos y el monitoreo de los recursos forestales así cómo participar en el diseño del mismo;
 
@@ -697,7 +747,9 @@ XXX. Coordinar el diseño e implementación de los mecanismos institucionales pa
 
 XXXI. Formular el nivel de referencia de emisiones del sector forestal del país y coadyuvar con el Instituto Nacional de Ecología y Cambio Climático en la formulación de reportes relativos a la contabilidad de emisiones de gases de efecto invernadero en el sector forestal;
 
-XXXII. Coordinar acciones con el Instituto Nacional de Ecología y Cambio Climático y los gobiernos estatales para asegurar la consistencia en el monitoreo y reporte de emisiones de gases de efecto invernadero en el sector forestal;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+XXXII. Coordinar acciones con el Instituto Nacional de Ecología y Cambio Climático y los gobiernos estatales para asegurar la consistencia en la medición y reporte de emisiones de gases de efecto invernadero en el sector forestal;
 
 XXXIII. Fungir como enlace con otras dependencias de la Administración Pública Federal para el intercambio de información en materia de monitoreo forestal y de contabilidad de emisiones de gases de efecto invernadero provenientes del sector forestal;
 
@@ -713,7 +765,9 @@ XXXVIII. Promover de acuerdo a la ley de la materia, la desconcentración y desc
 
 XXXIX. Promover, apoyar, organizar, la participación de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política forestal, a través de los órganos consultivos y de participación ciudadana que determinen las disposiciones jurídicas correspondientes, en coordinación con las Unidades Administrativas;
 
-XL. Diseñar, coordinar y evaluar, las políticas, lineamientos y programas en materia igualdad de género, jóvenes y comunidades y pueblos indígenas;
+REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2022)
+
+XL. Diseñar, coordinar y evaluar, las políticas, lineamientos y programas en materia de atención a jóvenes, comunidades y pueblos indígenas;
 
 XLI. Apoyar con la Información requerida, actualizada y detallada de las Promotorías de Desarrollo Forestal en las giras de trabajo de la persona titular de la Dirección General; y
 
@@ -771,9 +825,11 @@ XXIII. Participar en el Grupo de Trabajo REDD+ de la Comisión Intersecretarial 
 
 XXIV. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 20.
 
-La persona titular de la Unidad de Vinculación Sectorial tendrá las atribuciones siguientes:
+La persona titular de la Unidad de Vinculación y Género tendrá las atribuciones siguientes:
 
 I. Colaborar con la Dirección General para fortalecer los mecanismos de vinculación entre la CONAFOR y la Secretaría de Medio Ambiente y Recursos Naturales, así como con el resto de sus organismos desconcentrados y descentralizados, para alcanzar el debido cumplimiento de los objetivos y metas en común;
 
@@ -789,7 +845,13 @@ VI. Fomentar y consolidar acuerdos entre los distintos sectores de la sociedad p
 
 VII. Construir, coordinar e implementar mecanismos de participación y vinculación con distintos sectores de la sociedad que estén vinculados con temas forestales; y
 
-VIII. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+VIII. Diseñar, coordinar y evaluar, las políticas, lineamientos y programas en materia de igualdad de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+IX. Las demás que les sean otorgadas por otros instrumentos normativos o delegadas en términos de este Estatuto.
 
 ### CAPÍTULO CUARTO. DE LOS ÓRGANOS DE VIGILANCIA Y DE CONTROL INTERNO
 
@@ -817,11 +879,13 @@ La CONAFOR contará para el desempeño de sus funciones con los comités o subco
 
 ### CAPÍTULO SEXTO. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 25.
 
-Durante las ausencias de la persona titular de la Dirección General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del servidor público que designe mediante la expedición del oficio correspondiente; o a falta de designación, por la persona titular de la Coordinación de Apoyo y Proyectos Especiales; y a falta de ambos, por la persona titular de la Coordinación General Jurídica.
+Durante las ausencias de la persona titular de la Dirección General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del servidor público que designe mediante la expedición del oficio correspondiente; o a falta de designación, por la persona titular de la Coordinación General de Desarrollo Institucional y Proyectos Especiales; y a falta de ambos, por la persona titular de la Coordinación General Jurídica.
 
-Para el caso de que la persona titular de la Dirección General deje el cargo por cualquier causa, y hasta en tanto se realice una nueva designación, el despacho y resolución de los asuntos de la Dirección General estará a cargo de la persona titular de la Coordinación de Apoyo y Proyectos Especiales y, a falta de éste, de la persona titular de la Coordinación General Jurídica.
+Para el caso de que la persona titular de la Dirección General deje el cargo por cualquier causa, y hasta en tanto se realice una nueva designación, el despacho y resolución de los asuntos de la Dirección General estará a cargo de la persona titular de la Coordinación General de Desarrollo Institucional y Proyectos Especiales y, a falta de éste, de la persona titular de la Coordinación General Jurídica.
 
 ###### ARTÍCULO 26.
 
@@ -829,11 +893,13 @@ Las personas titulares de las Unidades Administrativas en sus ausencias temporal
 
 Para el caso de que la persona titular de la Unidad Administrativa deje de prestar sus servicios por cualquier causa, ésta será suplido por el o la servidora pública que designe la persona titular de la Dirección General, hasta en tanto sea aprobado por la Junta de Gobierno el nombramiento respectivo.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 27.
 
-Las personas titulares de las Gerencias, Unidades y las Promotorías de Desarrollo Forestal, en sus ausencias temporales, serán suplidas, por el servidor público que para tal efecto se designe. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por la persona titular de la Dirección General, o en su defecto por el titular de la Unidad Administrativa, en el que se señale la persona servidora pública que actuará como suplente y la temporalidad del encargo.
+Las restantes personas servidoras públicas adscritas a cualquier Unidad Administrativa, en sus ausencias temporales, serán suplidas por la persona que para tal efecto sea designada por la persona superior jerárquica de la ausente. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, en el que se señale la persona servidora pública que actuará como suplente y la temporalidad del encargo. Sin perjuicio de lo anterior la persona titular de la Dirección General está facultada para designar suplente en todos los casos dejando sin efectos cualquier determinación previa en términos de este artículo.
 
-Para el caso de que las personas titulares de las Gerencias, Unidades o Promotorías de Desarrollo Forestal dejen de prestar sus servicios por cualquier causa, éstos serán suplidos por el o la persona servidor público que designe la persona titular de la Dirección General o el titular de la Unidad Administrativa que se trate, en este último caso, previo el visto bueno la Dirección General hasta en tanto sea aprobado el nombramiento respectivo.
+Para el caso de que las personas titulares de las Gerencias, Unidades o Promotorías de Desarrollo Forestal dejen de prestar sus servicios por cualquier causa, éstos serán suplidos por el o la persona servidor público que designe la persona titular de la Dirección General o el titular de la Unidad Administrativa que se trate, en este último caso, previo el visto bueno (sic) la Dirección General hasta en tanto sea aprobado el nombramiento respectivo. Las restantes personas servidoras públicas que dejen de prestar sus servicios por cualquier causa serán suplidas por quien designe la persona titular de la Unidad Administrativa correspondiente.
 
 ### CAPÍTULO SÉPTIMO. DE LAS MODIFICACIONES AL ESTATUTO ORGÁNICO
 
@@ -856,3 +922,17 @@ TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
 CUARTO.- Todas las obligaciones atribuidas en manuales, lineamientos, políticas, normas, reglas de operación o cualquier normatividad administrativa, a las áreas que en virtud de la emisión de este Estatuto cambian de denominación o se integran a una nueva, se entenderán conferidas a las Unidades Administrativas o Subalternas que derivado del presente Estatuto tengan conferidas las funciones o atribuciones de que se trate; hasta en tanto se realizan las modificaciones conducentes.
 
 Zapopan, Jalisco, a 31 de marzo de 2021.- El Director General de la Comisión Nacional Forestal, León Jorge Castaños Martínez.- Rúbrica.- El Prosecretario Técnico de la Junta de Gobierno de la CONAFOR, David Cabrera Hermosillo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet de la Comisión Nacional Forestal.
+
+CUARTO.- Todas las obligaciones atribuidas en manuales, lineamientos, políticas, normas, reglas de operación o cualquier normatividad administrativa, a las áreas que en virtud de la emisión de este Estatuto cambian de denominación o se integran a una nueva, se entenderán conferidas a las Unidades Administrativas o Subalternas que derivado del presente Estatuto tengan conferidas las funciones o atribuciones de que se trate; hasta en tanto se realizan las modificaciones conducentes.
