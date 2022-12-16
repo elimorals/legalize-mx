@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2021-12-16"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -1961,6 +1961,14 @@ El día y hora de la cita, la o el notificador deberá constituirse en el domici
 
 En caso de que ésta o éste último se negase a recibir la notificación, ésta se hará por instructivo que se fijará en lugar visible de dicho domicilio, debiendo la o el notificador asentar razón de tal circunstancia, o por cualquiera de los otros medios previstos en el artículo 103 de este Código.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento (sic) los honorarios que establece este Código.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+Tratándose de los honorarios a que se refiere el párrafo que antecede, la autoridad fiscal los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 107.
@@ -3498,3 +3506,15 @@ P.O. 16 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 2022, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 156 POR EL QUE "SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 106 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el 1° de enero de 2023, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
