@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-periodico-oficial-del-estado-de-michoacan-de-ocampo-450
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-06"
-last_updated: "2005-06-06"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 6 de junio de 2005.
 
@@ -111,47 +111,65 @@ VIII. El precio al público del ejemplar, el número consecutivo de la edición 
 
 IX. El tiraje correspondiente de la edición.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 8°.
 
-En el Portal de Internet del Gobierno del Estado, deberá publicarse una versión digital del Periódico Oficial, la que servirá de medio de consulta y carecerá de valor legal.
+El Periódico Oficial se editará de forma impresa y en forma digital, la cual se publicará en el portal informativo del Gobierno del Estado y del diverso de la Dirección, así como en aquellos portales o sitios de internet que determine la Secretaría, dichas ediciones tendrán idénticas características y contenido, la versión digital servirá de medio de consulta y carecerá de valor legal.
+
+En la página web oficial de los Poderes Legislativo y Judicial deberá de existir un enlace a la página electrónica del Periódico Oficial.
+
+La versión digital del Periódico Oficial sólo tendrá validez legal y el carácter de documental pública cuando se emita a solicitud de parte a través de la Dirección, asegurando la integridad y autenticidad de su contenido a través de la firma y sello electrónico correspondientes y previo pago de la contribución respectiva, la página web del Periódico Oficial tendrá una sección para hacer la compra directa de ediciones del periódico por medios digitales.
 
 ### Capítulo II. De la Dirección del Periódico Oficial
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 9°.
 
-El Director, tendrá las obligaciones y atribuciones siguientes:
+La o el Director será nombrado por la o el titular de la Secretaría y tendrá las siguientes atribuciones:
 
-I. Imprimir, editar y circular el Periódico Oficial;
+I. Editar, imprimir y publicar el Periódico Oficial en tiempo y forma;
 
-II. Compilar y constatar la fidelidad con sus originales, debidamente firmados y sellados, de la información que se publique en el Periódico Oficial;
+II. Recibir en custodia la documentación que habrá de publicarse como soporte de la edición respectiva, siempre que cumpla con los requisitos previstos en esta Ley;
 
-III. Publicar los documentos remitidos por el Secretario en un plazo no mayor de diez días naturales;
+III. Solicitar el respaldo electrónico o digital de los documentos fuente a publicar;
 
-IV. Solicitar el respaldo magnético de los documentos fuente a publicar;
+IV. Compilar y constatar la fidelidad con sus originales, debidamente firmados y sellados, de la información que se publique en el Periódico Oficial;
 
-V. Vigilar que la impresión del Periódico Oficial se realice con la periodicidad, calidad y tiraje necesarios;
+V. Compilar y registrar cronológicamente los ejemplares del Periódico Oficial;
 
-VI. Remitir al Archivo del Congreso del Estado al menos un ejemplar de cada edición para su guarda y custodia, el día de su publicación;
+VI. Elaborar los índices anuales de publicaciones;
 
-VII. Llevar un registro cronológico de las publicaciones ordinarias y extraordinarias del Periódico Oficial;
+VII. Difundir el periódico oficial en el Estado de Michoacán;
 
-VIII. Determinar los procesos técnicos adecuados para la impresión del Periódico Oficial;
+VIII. Establecer sistemas de venta y suscripción a los particulares;
 
-IX. Archivar y conservar el acervo histórico del Periódico Oficial;
+IX. Expedir certificaciones de los ejemplares del Periódico Oficial;
 
-X. Llevar un archivo de los documentos fuente remitidos para su publicación;
+X. Administrar y vigilar la página electrónica del Periódico Oficial y sus redes sociales oficiales;
 
-XI. Publicar en la primera quincena de cada mes un índice general del contenido de las publicaciones correspondientes al mes inmediato anterior y dentro del primer trimestre de cada año un índice por materia de las publicaciones del año inmediato anterior;
+XI. Emitir ejemplares del Periódico Oficial con firma y sello electrónico, garantizando la integridad y autenticidad, de conformidad con la (sic) establecido en la Ley de Firma Electrónica Certificada del Estado de Michoacán Ocampo;
 
-XII. Archivar al menos cinco ejemplares de cada publicación;
+XII. Llevar un registro cronológico de las publicaciones ordinarias y extraordinarias del Periódico Oficial;
 
-XIII. Conservar ejemplares para venta o reposición por el término de un año y realizar las reimpresiones necesarias;
+XIII. Determinar los procesos técnicos adecuados para la impresión del Periódico Oficial;
 
-XIV. Proporcionar los servicios de información, consulta, asesoría y venta del acervo compilado en su hemeroteca;
+XIV. Archivar y conservar el acervo histórico del Periódico Oficial, de acuerdo a la legislación en materia de archivos;
 
-XV. Publicar la fe de erratas; y,
+XV. Remitir al Archivo del Congreso del Estado al menos un ejemplar de cada edición para su guarda y custodia, el día de su publicación o en caso de no ser día hábil, al día hábil siguiente;
 
-XVI. Las demás que le señalen las disposiciones legales y la Secretaría.
+XVI. Publicar en la primera quincena de cada mes un índice general del contenido de las publicaciones correspondientes al mes inmediato anterior y dentro del primer trimestre de cada año un índice por materia de las publicaciones del año inmediato anterior;
+
+XVII. Archivar al menos cinco ejemplares de cada publicación;
+
+XVIII. Conservar ejemplares para venta o reposición por el término de un año y realizar las reimpresiones necesarias;
+
+XIX. Proporcionar los servicios de información, consulta, asesoría y venta del acervo compilado en su hemeroteca;
+
+XX. Publicar la fe de erratas; y,
+
+XXI. Las demás que establezcan otras disposiciones jurídicas aplicables y las que le instruya la o el titular de la Secretaría, que no sean contrarias a la normatividad correspondiente.
 
 ### Capítulo III. De la Fe de Erratas
 
@@ -193,6 +211,28 @@ Se exceptúan de pago las inserciones en el Periódico Oficial previstas en los 
 
 El Gobernador, a través de la Tesorería General, podrá eximir del pago las inserciones que requieran realizar los particulares en cumplimiento a disposiciones legales, cuando se trate de personas que de conformidad con los estudios socioeconómicos que se realicen, carezcan de recursos para hacer el pago correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO V. DIFUSIÓN DEL PERIÓDICO OFICIAL POR MEDIOS ELECTRÓNICOS
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 18.
+
+Para su consulta gratuita en internet, el Periódico Oficial será difundido en el portal informativo del Gobierno del Estado y del diverso de la Dirección, a la par de su edición impresa.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 19.
+
+La publicación electrónica tiene la finalidad de divulgar mediante el libre acceso, el contenido de las ediciones del Periódico Oficial, la versión digital servirá de medio de consulta y carecerá de valor legal. Salvo en los casos que se adquiera la versión electrónica del Periódico Oficial de conformidad con el procedimiento establecido en la presente Ley cumpliendo dichos documentos con lo estipulado en la Ley de Firma Electrónica Certificada del Estado de Michoacán de Ocampo, para su plena validez legal.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 20.
+
+La alteración ele la información contenida en las ediciones digitales o físicas del Periódico Oficial, será sancionada por las disposiciones jurídicas aplicables.
+
 ## TRANSITORIOS
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
@@ -212,3 +252,25 @@ PRESIDENTE.- DIP. ALFONSO JESÚS MARTÍNEZ ALCAZAR.- SECRETARIA.- DIP. CITLALLI 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de mayo del año 2005 dos mil cinco.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 300 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 8° Y 9°, Y SE ADICIONA UN CAPÍTULO V Y LOS ARTÍCULO 18, 19 Y 20 A LA DE LA (SIC) LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado, establecerá partidas presupuestales adicionales destinadas a la Dirección del Periódico Oficial para cumplir las acciones inmediatas contempladas en el presente Decreto y deberá incluir en el siguiente ejercicio fiscal correspondiente partidas presupuestales necesarias para el pleno cumplimiento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto de los trámites y servicios, el Titular del Poder Ejecutivo del Estado, estará obligado a colocar en los Portales Transaccionales para la venta digital del Periódico Oficial, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a los 180 días hábiles a partir de la publicación del presente Decreto y establecer los métodos de validez y autenticación de los documentos digitales que venda vía electrónica el Periódico Oficial de conformidad con la Ley de Firma Electrónica Certificada del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado, contará con un plazo de 90 días hábiles para emitir la reglamentación correspondiente para el cumplimiento del presente Decreto.
