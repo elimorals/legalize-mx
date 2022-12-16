@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-31-2016-del-pleno-del-consejo-de-la-115054"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2021-03-26"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115054&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 31/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE TAMAULIPAS, CON RESIDENCIA EN REYNOSA Y CIUDAD VICTORIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -93,7 +93,9 @@ VI. Juzgadores: Jueces de Control, Juez de Ejecución, así como tribunales de E
 
 VII. Pleno: Pleno del Consejo; y
 
-VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
+> <small>(REFORMADA POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+VIII. Tribunal de Alzada: Tribunal Colegiado de Apelación del Decimonoveno Circuito, con residencia en Matamoros, Tamaulipas.
 
 ###### Artículo 3.
 
@@ -205,9 +207,9 @@ I. La sustitución recaerá en otro juez de Distrito del mismo Centro; y
 
 II. De no ser posible la sustitución en los términos previstos en la fracción anterior, deberá hacerse del conocimiento de la Secretaría Ejecutiva de Creación de Nuevos Órganos y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, para que sea analizada y en su caso, se efectúe la propuesta respectiva al órgano competente a fin de que se determine el Juez al que le corresponderá la sustitución.
 
-Tratándose de la sustitución del Tribunal de Alzada del Centro con sede en Reynosa, se habilita al Cuarto Tribunal Unitario del Décimo Noveno Circuito, con sede en Nuevo Laredo, Tamaulipas, para conocer con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
-Para la sustitución del Tribunal de Alzada del Centro con sede en Ciudad Victoria, se habilita a los Tribunales Unitarios del Décimo Noveno Circuito, con sede en Matamoros, para conocer, con ese carácter, de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
 
 > <small>(ADICIONADO POR EL PUNTO VIGESIMONOVENO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS DIVERSOS QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL, EN RELACIÓN CON LA SUSTITUCIÓN DE LOS JUECES DE DISTRITO, D.O.F. 21 DE SEPTIEMBRE DE 2020)</small>
 
@@ -219,7 +221,9 @@ La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distri
 
 El personal de los Centros junto con sus juzgadores disfrutará de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso, se procurará que permanezcan dos jueces de Distrito en cada Centro.
 
-El personal de los Tribunales de Alzada de los Centros disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración de los Centros, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que los Centros no detengan su actividad.
+> <small>(REFORMADO POR EL ARTÍCULO 10 DEL ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2022)</small>
+
+El personal de la Administración de los Centros disfrutará de los periodos vacacionales en términos del párrafo anterior. Las personas Administradoras deberán tomar las medidas necesarias para que haya servidoras y servidores públicos de guardia en los Centros durante dicho periodo vacacional, a fin de que estos no detengan su actividad.
 
 La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
@@ -836,3 +840,33 @@ QUINTO. La Dirección General de Gestión Judicial difundirá los instructivos n
 SEXTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y las Direcciones Generales de Gestión Judicial; y de Tecnologías de la Información, llevarán a cabo la revisión integral del funcionamiento y operación de la gestión judicial de los Centros de Justicia Penal Federal, así como las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 SÉPTIMO. La aplicación de este Acuerdo será respecto del ingreso de nuevos asuntos a partir de su entrada en vigor.
+
+D.O.F. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 99/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DEL TRIBUNAL COLEGIADO DE APELACIÓN DEL DECIMONOVENO CIRCUITO, CON RESIDENCIA EN MATAMOROS, TAMAULIPAS, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO; Y QUE REFORMA DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación continuarán tramitándose hasta su resolución final de conformidad con las disposiciones vigentes al momento de su inicio, para lo cual:
+
+I. Los Tribunales Unitarios de Circuito que concluirán funciones remitirán los asuntos de su índice al Tribunal Colegiado de Apelación de nueva creación, de forma que se reciban el día de su inicio de funciones, para continuar con el trámite hasta su conclusión, cumplimentación, en su caso, y archivo definitivo;
+
+II. La Presidenta o Presidente del Tribunal Colegiado de Apelación registrará en sus libros electrónicos de control los asuntos que se encuentren en trámite o cumplimiento, señalando en el rubro de observaciones el número de expediente originalmente asignado, el Tribunal Unitario de Circuito de origen y que derivan de la remisión de asuntos ordenada en el presente Acuerdo. Asimismo, los distribuirá de manera equitativa entre las tres Magistradas y Magistrados integrantes del Tribunal, mediante el uso del sistema que determine el Consejo para ello;
+
+III. Con el objeto de llevar a cabo adecuadamente la recepción y distribución de asuntos:
+
+a. Para el Tribunal Colegiado de Apelación, los días del 16 al 23 de diciembre de 2022 serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad; y
+
+b. Para los Tribunales Unitarios Primero, Cuarto, Tercero, Sexto y Séptimo del Decimonoveno Circuito, con residencia en Ciudad Victoria, Nuevo Laredo, Reynosa y Tampico, los días del 8 al 15 de diciembre de 2022, serán inhábiles pero laborables, sin perjuicio de que se recibirán asuntos nuevos urgentes y se dará seguimiento a los asuntos ya radicados que tengan esa misma calidad.
+
+IV. No se registrarán los asuntos en archivo definitivo, pero el Tribunal Colegiado de Apelación continuará con su resguardo y trámites archivísticos que correspondan, en términos de la normatividad aplicable, para lo cual las áreas administrativas dependientes de la Secretaría Ejecutiva de Administración habilitarán espacios suficientes para que el archivo de cada Tribunal Unitario de Circuito se traslade al Tribunal Colegiado de Apelación que dé seguimiento a sus asuntos. Si es necesario acordar alguna petición en un asunto en archivo definitivo, entonces será registrado y turnado por la Presidencia del Tribunal, entre las tres personas que lo integran; y
+
+V. Una vez que algún procedimiento iniciado con anterioridad al inicio de funciones del Tribunal Colegiado de Apelación sea turnado a alguna Magistrada o Magistrado integrante del órgano, ésta o éste continuará su trámite, resolución y, en su caso ejecución y archivo, de manera unitaria, conforme a la legislación procesal aplicable al momento de su inicio.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al traslado de mobiliario, equipo y demás insumos.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información; y de Gestión Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficialía de partes del Tribunal Colegiado de Apelación del Decimonoveno Circuito que inicia funciones.
+
+SEXTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
