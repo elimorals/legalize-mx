@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-ley-organica-de-la-fiscalia-141702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-23"
-last_updated: "2022-12-15"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE DICIEMBRE DE 2022.]</small>
 
 Reglamento publicado en la Sección Primera del Número 15 del Periódico Oficial del Estado de Nayarit, el jueves 23 de enero de 2020.
 
@@ -1093,7 +1093,7 @@ e) La Coordinación de Derechos Humanos;
 
 f) La Bodega de Indicios y Evidencias;
 
-g) La Unidad de Inteligencia Patrimonial y Económica.
+g) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2022) (F. DE E., P.O. 16 DE DICIEMBRE DE 2022)
 
 ###### Artículo 41.
 
@@ -3661,6 +3661,10 @@ VI. Establecer los órganos y comisiones que deban auxiliarlo en el desempeño d
 
 De la integración.
 
+> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+El Comité de Bienes Asegurados, Decomisados y Abandonados, estará integrado por:
+
 a) Director General de Administración;
 
 b) (DEROGADO, P.O. 15 DE DICIEMBRE DE 2022)
@@ -3676,6 +3680,10 @@ f) Demás que designe el Fiscal General.
 ###### Artículo 138.
 
 De las facultades y obligaciones.
+
+> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+El Comité de Bienes Asegurados, Decomisados y Abandonados tendrá las siguientes facultades y obligaciones:
 
 I. Resguardar los bienes asegurados, decomisados y recuperados, que le sean remitidos por el Titular de la Bodega de Indicios y Evidencias, para lo cual, deberá implementar procedimientos y técnicas tendentes a garantizar su preservación y conservación;
 
