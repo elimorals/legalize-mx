@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-11-30"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,27 @@ state: "BCS"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2009.
+CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
 
-DECRETO NUMERO: 10
+Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
-LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO.
+GUILLERMO MERCADO MORENO, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER.
 
-LA HONORABLE X LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
+QUE EL H. CONGRESO DE ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-D E C R E T A:
+DECRETO NUMERO 1090
 
-LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
+EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
+
+DECRETA:
+
+CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
+
+Disposiciones Preliminares
 
 ###### Artículo 1o.
 
@@ -75,1697 +81,563 @@ La ley sólo queda abrogada o derogada por otra posterior que así lo declare ex
 
 ###### Artículo 10.
 
-El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación, que deberán reunir los mismos requisitos. En la primera sesión que celebren en el mes de Febrero, los Consejeros Electorales elegirán a uno de ellos, como Presidente del Instituto, quien lo será por un período de tres años, pudiendo ser reelecto para un período igual.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-Las Comisiones permanentes serán las de: Partidos Políticos .y Radio Difusión; Organización Informática y Estadística; Capacitación Electoral y Comunicación Social; Jurídica; Fiscalización; Administración; Transparencia, Información y Estudios Electorales.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-El Consejo General integrará las comisiones transitorias que considere necesarias para el desempeño de sus atribuciones. Dichas comisiones estarán integradas por tres consejeros, un secretario técnico y tres representantes de partidos políticos, exceptuando en lo referente a la Comisión de Fiscalización, previo sorteo llevado a cabo por el Consejo General, siempre serán presididas por un Consejero Electoral.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-En todos los asuntos que les encomienden, las comisiones deberán presentar un informe, dictamen o proyecto de resolución, según el caso.
-
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-Los Directores y/o Jefes de Unidad de las áreas correspondientes fungirán como Secretarios Técnicos de las Comisiones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica en contrario.
 
 ###### Artículo 11.
 
-Los Consejeros Electorales, propietarios y suplentes, del Consejo General serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios. Para ser Consejero Electoral del Consejo General, deberán reunirse los siguientes requisitos:
-
-a).- Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-b).- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
-
-c).- Tener más de veinticinco años de edad, el día de la designación;
-
-d).- Poseer al día de la designación, título y cédula profesional de nivel licenciatura;
-
-e).- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
-
-f).- Tener una residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previos a su designación;
-
-g).- No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
-
-h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político ó agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a la designación; y
-
-i).- No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+Las leyes que establecen excepción a las reglas generales, no son aplicables a caso alguno que no esté expresamente previsto en las mismas leyes.
 
 ###### Artículo 12.
 
-El Consejero Presidente y los Consejeros Electorales tendrán las siguientes atribuciones y obligaciones:
-
-I. Participar en las sesiones del Consejo General con derecho a voz y voto, así como en los trabajos de las Comisiones;
-
-II. Proponer al Consejo General, con apego a la Ley, diversas políticas de trabajo que faciliten el cumplimiento de los fines del Instituto;
-
-III. Vigilar, en lo personal, que la estructura del Instituto cumpla con las obligaciones constitucionales y legales en materia electoral, y que las actividades se guíen y rijan por los principios rectores de la función estatal electoral, y en caso de detectar lo contrario, informar al Pleno del Consejo General o, en su caso, a la Contraloría Interna, para efecto de que se tomen las medidas correctivas pertinentes;
-
-IV. Realizar tareas de investigación y difusión acerca de temas electorales;
-
-V. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones constitucionales y legales de la materia; y
-
-VI. Las demás que le otorgue la Constitución Particular, la presente Ley y demás ordenamientos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+Las leyes del Estado de Baja California Sur, incluyendo las que se refieren al estado y capacidad de las personas, se aplican a todos los habitantes del mismo, ya sean nacionales o extranjeros, estén domiciliados en él o sean transeúntes; pero tratándose de extranjeros se tendrá presente lo que dispongan las leyes federales sobre la materia.
 
 ###### Artículo 13.
 
-El procedimiento para la designación de los Consejeros Electorales, propietarios y suplentes, y del Contralor Interno, se sujetará al trámite siguiente:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos;
-
-II. Los grupos parlamentarios presentaran sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados.
-
-III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV. El citado Dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, a los Consejeros Electorales y al Contralor Interno del Instituto;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-V. La designación de los Consejeros Electorales y el Contralor Interno del Instituto, se mandará a publicar en el Periódico Oficial del Estado;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley. En el caso de que un Consejero Suplente tenga que entrar en funciones, éste deberá rendir la protesta ante el Consejo General.
+Los efectos jurídicos de los actos y contratos celebrados fuera del Estado de Baja California Sur, que deban ser ejecutados dentro de su territorio, se regirán por las disposiciones de este Código y demás ordenamientos locales y por las leyes federales, en su caso.
 
 ###### Artículo 14.
 
-El Consejo General tendrá las siguientes atribuciones:
-
-(ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
-
-I. Expedir los reglamentos internos y estatutos que sean necesarios para el buen funcionamiento del Instituto;
-
-> <small>(F. DE E., P.O. 9 DE JULIO DE 2007)</small>
-
-Aprobar su anteproyecto de Presupuesto de Egresos, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, que le presente la Junta General a través del Consejero Presidente, quien ordenará lo conducente para que dichos documentos se integren en tiempo y forma; asimismo vigilará y evaluará su cumplimiento;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. Designar, de las ternas que proponga el Consejero Presidente, al Secretario General, a los directores de área y a los titulares de la unidades técnicas de Comunicación Social, Informática y Estadística, y del Centro de Información del Instituto, en los términos de la presente Ley;
-
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 9 DE JULIO DE 2007)
-
-III. Remover a propuesta del Consejero Presidente, con la aprobación de las dos terceras partes de los integrantes del Consejo General, a los funcionarios antes señalados cuando dejen de reunir los requisitos para su designación, falten a la probidad o eficiencia o violenten los principios rectores de la función electoral, en todo caso se les otorgará la garantía de audiencia. Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV.- Designar entre las propuestas, de al menos el doble por cargo, que al efecto realice la Junta General, a los Consejeros Presidentes y Consejeros Electorales Propietarios y Suplentes, así como a los Vocales de los Consejos Municipales y los Distritales del Instituto;
-
-> <small>(F. DE E., P.O. 9 DE JULIO DE 2007)</small>
-
-V. Resolver en los términos de la Ley Electoral sobre el otorgamiento o pérdida del registro de las agrupaciones políticas, partidos políticos locales, la acreditación ante el Instituto de los partidos políticos nacionales y mandar a publicar las mismas en el Periódico Oficial del Gobierno del Estado; así como resolver respecto de los convenios de coalición que se presenten con motivo de los procesos electorales;
-
-VI. Resolver los recursos de revocación que se hayan interpuesto de conformidad con lo dispuesto por la Ley de Medios;
-
-VII. Resolver las consultas que le formulen las agrupaciones políticas, los partidos políticos o coaliciones, en el ámbito de su competencia;
-
-VIII. Determinar el número y tipo de las casillas y enviar a los Consejos Distritales las listas correspondientes;
-
-IX. Conocer los informes que la Junta General rinda por conducto del Consejero Presidente;
-
-X. Aprobar los convenios que se celebren con el Instituto Federal Electoral y otros organismos electorales, vigilando el cumplimiento de los mismos;
-
-XI. Aprobar los topes de gastos de campaña que puedan efectuar los partidos políticos o coaliciones en términos de la Ley Electoral;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2009)</small>
-
-XII. Coordinarse con el Instituto Federal Electoral para efecto de la fiscalización de los recursos económicos otorgados a los Partidos Políticos;
-
-XIII. Aprobar los lineamientos en materia de encuestas o sondeos de opinión que formule la Junta General;
-
-XIV. Aprobar los mecanismos y programas, para la verificación de gabinete y de campo del padrón y lista nominal de electores, en coordinación con la autoridad en la materia, antes de cada proceso electoral;
-
-XV. Aprobar, supervisar y evaluar los programas y lineamientos mediante los cuales el Instituto coadyuve al desarrollo de la cultura política y democrática y la educación cívica en la entidad;
-
-XVI. Aprobar el programa de capacitación para los ciudadanos que sean insaculados para integrar las Mesas Directivas de Casilla, dando seguimiento y evaluación periódica;
-
-XVII. Aprobar el modelo de las boletas electorales y los formatos de la documentación electoral en los términos de la Ley Electoral;
-
-XVIII. Recibir y, en su caso, aprobar las solicitudes de acreditación de los ciudadanos mexicanos que pretendan participar como observadores electorales;
-
-XIX. Acordar la procedencia o improcedencia respecto de los convenios de coalición y de fusión que celebren los partidos políticos;
-
-XX. Registrar las plataformas electorales que presenten los partidos políticos y coaliciones;
-
-XXI. Registrar, cuando resulten procedentes, las candidaturas para Gobernador del Estado y las listas de candidatos a Diputados por el principio de Representación Proporcional y supletoriamente el registro de las formulas de Diputados por el Principio de Mayoría Relativa y las planillas de Ayuntamientos;
-
-XXII. Solicitar directamente o por medio de sus órganos, el auxilio de la fuerza pública para garantizar, en los términos de la Ley Electoral, el adecuado desarrollo del proceso electoral;
-
-XXIII. Realizar el cómputo de la elección de Gobernador; formular la declaración de validez de la elección de Gobernador Electo; expedir la constancia; y ordenar la publicación en el Periódico Oficial del Gobierno de Estado;
-
-XXIV. Realizar el cómputo para la asignación de Diputados y Regidores por el principio de Representación Proporcional; hacer la declaración de validez; así como expedir las constancias respectivas; solo en caso de fuerza mayor, podrá realizar en forma supletoria los cómputos distritales y municipales.
-
-XXV. Aplicar las sanciones que le competan, a quienes infrinjan las disposiciones de la Ley Electoral y del presente ordenamiento;
-
-XXVI. Vigilar la oportuna integración, instalación y adecuado funcionamiento de los órganos del Instituto y solicitar los informes que estime necesarios;
-
-XXVII. Vigilar que las actividades de los partidos políticos, coaliciones o agrupaciones políticas estatales se desarrollen con apego a la Ley Electoral y cumplan con las obligaciones a que están sujetos;
-
-XXVIII. Vigilar y supervisar las prerrogativas de los partidos políticos, coaliciones y agrupaciones políticas, a fin de que éstas, se otorguen y ejerzan con apego a la Ley Electoral y aprobar, en su caso, el resultado de la fiscalización;
-
-XXIX. Requerir a la Junta General que investigue por los medios a su alcance, hechos que afecten de modo relevante los procesos electorales, los derechos de los partidos políticos o el incumplimiento de sus obligaciones, ordenar la instrucción de los procedimientos e imponer las sanciones correspondientes, en los términos de la presente Ley y demás legislación electoral;
-
-XXX. Crear nuevas unidades técnicas en los términos que dispone la presente Ley; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XXXI. Remover a los Consejeros Presidentes, Consejeros Electorales y a los Vocales de los Consejos Municipales y los Distritales, cuando éstos incurran en causas graves, previamente calificadas;
-
-XXXII. Proponer a la Legislatura modificaciones a la legislación electoral, con base a las experiencias obtenidas durante los procesos electorales;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XXXIII. Aprobar la creación de comisiones, de conformidad con lo establecido en el artículo 10 de esta Ley;
-
-XXXVI. Llevar a cabo una campaña en los medios de comunicación masiva en la entidad, por lo menos durante dos meses antes del día de la jornada electoral, para hacer del conocimiento público de las diversas conductas que constituyan delito electoral, de acuerdo con lo establecido en el Código Penal del Estado;
-
-XXXV. Aprobar los convenios que firme el Instituto para la coadyuvancia en la organización de las elecciones para elegir Alcaldes, Delegados y Subdelegados Municipales, así como de las solicitudes de instrumentación de las formas de participación ciudadana que señale la ley;
-
-XXXVI. Aprobar los lineamientos técnicos para la instrumentación del programa de resultados electorales preliminares;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XXXVII. Establecer la demarcación territorial en distritos electorales, conforme a lo establecido en la Constitución y en particular, a la Ley Electoral;
-
-XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y (sic)
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XXXIX.- Aprobar los lugares y el tiempo en que deberán exhibirse los listados nominales de electores que proponga la comisión de organización, informática y estadística;
-
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2007)</small>
-
-XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás que le confieren la Constitución Particular, esta Ley y los ordenamiento electorales.
+Los bienes inmuebles sitos en el Estado de Baja California Sur, y los bienes muebles que en él se encuentren, se regirán por las leyes del Estado y por las Federales, en su caso, independientemente del origen y nacionalidad de sus titulares.
 
 ###### Artículo 15.
 
-En las elecciones ordinarias, el funcionamiento del Consejo General se ajustará a los plazos y términos establecidos en la Ley Electoral, en la Ley de Medios y en el presente ordenamiento. Tratándose de elecciones extraordinarias, se ajustará a los plazos que establezca la convocatoria respectiva.
+Los actos jurídicos, en todo lo relativo a su forma se regirán por las leyes del lugar donde se realicen. Sin embargo, los residentes fuera del Estado de Baja California Sur, quedan en libertad para sujetarse a las formas prescritas por este Código y demás leyes locales, cuando el acto haya de tener ejecución en el Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+Cuando se trate de actos sobre bienes inmuebles ubicados dentro del Estado, para que produzcan efectos contra terceros, deberán inscribirse en el Registro Público de la Propiedad del lugar de su ubicación, aún cuando no se exija este requisito en el lugar de su realización.
 
 ###### Artículo 16.
 
-Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día 16 de marzo del año de la elección, a fin de realizar los actos correspondientes.
-
-Durante el proceso electoral, el Consejo General deberá sesionar en forma ordinaria por lo menos dos veces al mes y en forma extraordinaria a convocatoria del Consejero Presidente cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos.
-
-En el tiempo que transcurra entre dos procesos electorales, el Consejo General deberá sesionar en forma ordinaria cada tres meses, y en forma extraordinaria cuando fuere necesario.
+Los habitantes del Estado de Baja California Sur, tienen obligación de ejercer sus actividades y de usar y disponer de sus bienes en forma que no perjudique a la colectividad, bajo las sanciones establecidas en este Código y en las leyes locales respectivas.
 
 ###### Artículo 17.
 
-Las sesiones del Consejo General serán públicas y se desarrollarán conforme a las reglas y procedimientos siguientes:
-
-I. Serán convocadas por el Consejero Presidente, por lo menos con veinticuatro horas de anticipación, debiendo publicar la correspondiente convocatoria y el orden del día en los estrados del Instituto;
-
-II. A la convocatoria deberá adjuntarse el orden del día y copias de los documentos indispensables, relativos a los asuntos a tratar;
-
-III. Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría de los Consejeros del Consejo General, con derecho a voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de partidos o de las coaliciones.
-
-IV. Cuando no se reúna el quórum establecido en la fracción anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos o de coalición que asistan, debiendo estar presente el Consejero Presidente; y
-
-V. En caso de que no asistiera el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos o de coalición que asistan, debiendo otro consejero del Consejo General sustituir para esa única sesión al Consejero Presidente.
+Cuando alguno, explotando la suma ignorancia, notoria inexperiencia o extrema necesidad de otro, obtenga un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tendrá derecho de pedir la rescisión del contrato o, en su defecto, la reducción equitativa de su obligación, dentro del año de ocurrida la lesión.
 
 ###### Artículo 18.
 
-En las sesiones del Consejo General, sólo podrán participar y hacer uso de la palabra, a quienes la presente Ley y demás ordenamientos electorales faculte. Las personas que asistan a las sesiones, deberán guardar el debido orden y no podrán participar de ninguna forma en las discusiones.
-
-Para garantizar el orden, el Consejero Presidente podrá tomar las siguientes medidas:
-
-I. Exhortación a guardar el orden;
-
-II. Ordenar que se abandone el recinto; o
-
-III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quien lo haya alterado.
+El silencio, obscuridad o insuficiencia de la ley, no autorizan a los jueces o tribunales para dejar de resolver una controversia.
 
 ###### Artículo 19.
 
-Las resoluciones o acuerdos del Consejo General serán aprobados por mayoría de votos, salvo que, por disposición expresa de la Ley o de la Constitución Particular, se requiera de las dos terceras partes. El Consejero Presidente tendrá voto de calidad en caso de empate.
+Las controversias judiciales del orden civil deberán resolverse conforme a la letra de la ley o a su interpretación jurídica y, a falta de ley, conforme a los principios generales de derecho.
 
 ###### Artículo 20.
 
-El Consejo General ordenará la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que expresamente se ordenen en la presente Ley, así de como aquellos que se consideren pertinentes.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la controversia se decidirá a favor del que trata de evitarse perjuicios y no a favor del que pretenda obtener lucro. Si el conflicto fuere entre derechos iguales o de la misma especie, se decidirá observando la mayor igualdad posible entre los interesados.
 
 ###### Artículo 21.
 
-Los Consejeros Electorales del Instituto, durarán en su encargo seis años.
+La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por falta de cumplimiento de la ley que ignoraban o, de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente al interés público, ni se lesionen derechos de terceros.
 
 # LIBRO PRIMERO. De las personas
 
-## TÍTULO PRIMERO. DEL INSTITUTO ELECTORAL
+## TÍTULO PRIMERO. De las personas físicas
 
 ###### Artículo 22.
 
-La retribución que reciban el Consejero Presidente y los Consejeros Electorales, será la prevista en el Presupuesto de Egresos del Instituto.
+La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos previstos en este Código.
 
 ###### Artículo 23.
 
-Durante el tiempo que ejerzan sus funciones, el Consejero Presidente y los Consejeros Electorales del Consejo General no podrán, en ningún caso, aceptar o desempeñar cargo, empleo o comisión de la Federación, del Estado, de los Municipios, de los partidos políticos o de sus organizaciones adherentes.
+La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la capacidad de ejercicio; pero los incapaces pueden ejercer sus derechos o contraer obligaciones por medio de sus representantes.
 
 ###### Artículo 24.
 
-El Consejero Presidente y los Consejeros Electorales del Consejo General, no podrán desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, de derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y objetividad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+El mayor de edad tiene la facultad de disponer libremente de su persona y de sus bienes, salvo las limitaciones que establece la ley.
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS CENTRALES
+## TÍTULO SEGUNDO. De las personas jurídicas
 
 ###### Artículo 25.
 
-El Consejo General podrá otorgar a los Consejeros Electorales, licencias para ausentarse temporalmente de sus funciones, hasta por quince días. La licencia que exceda de ese término y hasta noventa días dentro de los procesos electorales, deberá ser otorgada por la Legislatura del Estado o la Diputación Permanente, en su caso. Las solicitudes de licencia deberán estar debidamente justificadas.
+Son personas de creación jurídica;
 
-La ausencia de los Consejeros Electorales que exceda los plazos otorgados en la licencia, será considerada como definitiva.
+I.- La Nación, los Estados y los Municipios;
+
+II.- Las demás corporaciones de carácter público reconocidas por la ley;
+
+III.- Las sociedades civiles o mercantiles;
+
+IV.- Los sindicatos, las asociaciones profesionales y las demás (sic) que se refiere la fracción XVI del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
+
+V.- Las sociedades cooperativas y mutualistas;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VI.- Las asociaciones distintas de las enumeradas, que se propongan fines políticos, científicos, artísticos, de recreo o cualquier otro fin lícito, siempre que no fueren desconocidas por la ley;
+
+> <small>(REFORMADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VII.- Las personas jurídicas extranjeras de naturaleza privada, y
+
+> <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2016)</small>
+
+VIII.- Los condominios.
 
 ###### Artículo 26.
 
-Para suplir a los Consejeros Electorales en sus ausencias temporales, el Consejero Presidente convocará a los suplentes en orden de prelación conforme a su designación, para que se presenten a rendir Protesta de Ley, y desde luego, entren al desempeño de su encargo.
-
-Cuando los Consejeros Electorales no asistan a tres sesiones consecutivas, ordinarias y/o extraordinarias, sin causa justificada o sin previa licencia, se entenderá que renuncian al cargo. Para tal efecto, el Consejero Presidente convocará a los suplentes en orden de prelación conforme a su designación para que se integren de manera definitiva, comunicando tal circunstancia a la Legislatura del Estado o a la Diputación Permanente, en su caso, para que acuerde lo procedente.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Las personas jurídicas pueden ejercitar todos los derechos que sean necesarios para realizar su objeto social.
 
 ###### Artículo 27.
 
-La Legislatura del Estado o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar el cargo a los Consejeros Electorales del Consejo General, cuando dejen de reunir alguno de los requisitos de elegibilidad, violenten los principios rectores de la función electoral o incurran en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Las personas jurídicas obran y se obligan por medio de los órganos que las representen, sea por disposición de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas o de sus estatutos.
 
 ###### Artículo 28.
 
-El Consejero Presidente del Consejo General, es quien preside al Instituto; convoca y conduce las sesiones del Consejo General y la Junta General; vigila la ejecución y el cumplimiento de los acuerdos y resoluciones emitidos por dichos Organos; y vela por la unidad y cohesión de las actividades del Instituto.
+Las personas jurídicas se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
 
-## TÍTULO TERCERO. DE LOS ÓRGANOS DESCONCENTRADOS
+## TÍTULO TERCERO. Del domicilio
 
 ###### Artículo 29.
 
-Son atribuciones del Consejero Presidente del Consejo General, las siguientes:
+El domicilio real de las personas físicas es el lugar donde residen habitualmente y, a falta de éste, el centro principal de sus negocios. En ausencia de éstos, el lugar donde simplemente residan y, en su defecto, el lugar donde se encontraren.
 
-I. Convocar, presidir y conducir las sesiones del Consejo General y la Junta General;
-
-II. Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo General y la Junta General;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-III. Proponer al Consejo General las ternas para el nombramiento del Secretario General, de los directores de área y de los titulares de las unidades técnicas y del Centro de Información Electoral en términos de esta Ley;
-
-IV. Establecer vínculos entre el Instituto y las autoridades federales, estatales y municipales para lograr su apoyo y colaboración en sus respectivos ámbitos de competencia, cuando sea necesario para el cumplimiento de los fines del Instituto;
-
-V. Rendir un informe anual al Consejo General sobre las actividades del Instituto, en la primera sesión del mes de enero de cada año;
-
-VI. Con el auxilio del Secretario General, recibir de los partidos políticos y coaliciones las solicitudes de registro de candidatos a Gobernador del Estado, así como la lista de candidatos a Diputados por el principio de Representación Proporcional; y, de manera supletoria, las de candidatos a Diputados por el Principio de Mayoría Relativa y Miembros de los Ayuntamientos, sometiéndolas a la consideración del Consejo General para que determine sobre su procedencia;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VII. Vigilar la instalación y funcionamiento de los Consejos Municipales y los Distritales;
-
-VIII. Remitir, oportunamente, al titular del Poder Ejecutivo, el Proyecto de Presupuesto de Egresos del Instituto que prepare la Junta General, una vez que haya sido aprobado por el Consejo General, a fin de que sea incluido en el Proyecto de Presupuesto del Estado.
-
-IX. Informar oportunamente a la Legislatura del Estado o a la Diputación Permanente, en su caso, de las vacantes que se originen entre los Consejeros Electorales del Consejo General, para los efectos legales correspondientes;
-
-X. Firmar junto con el Secretario General todos los acuerdos o resoluciones que emita el Consejo General;
-
-XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca la Ley Electoral y los que determine el Consejo General; y (sic)
-
-XII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XIII. Representar legalmente al Instituto;
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XIV. Otorgar poderes a nombre del Instituto, para actos de administración y de representación. Para otorgar actos de dominio, este deberá ser especial y requerirá de la aprobación del Consejo General;
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XV. Coordinar toda la estructura administrativa del Instituto;
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XVI. Las demás que le confieren esta Ley y demás ordenamientos electorales.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
 
 ###### Artículo 30.
 
-En las ausencias del Consejero Presidente del Consejo General, deberá estarse a lo siguiente:
-
-I. En las ausencias que no excedan de quince días, será suplido por el Secretario General del Instituto;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. En caso de ausencia definitiva, el Consejo General nombrará de entre ellos, a un nuevo Consejero Presidente, y convocará al Consejero Suplente que en orden de prelación corresponda para cubrir la consejería vacante; y
-
-III. (DEROGADA, P.O. 3 DE MARZO DE 2009)
+El domicilio legal de una persona física es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos o el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
 
 ###### Artículo 31.
 
-La Junta General es el Organo de carácter ejecutivo y de naturaleza colegiada, encargado de proponer las políticas generales y los programas del Instituto; aprobar los procedimientos administrativos internos y desarrollarlos; así como ejecutar en el ámbito administrativo las resoluciones y acuerdos del Consejo General.
+Se considera domicilio legal:
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad esté sujeto;
+
+II.- Del menor de edad quien no esté bajo la patria potestad y del incapacitado, el de su tutor;
+
+III.- En el caso de menores o incapaces abandonados, el que resulte conforme a las circunstancias previstas en el artículo 29;
+
+IV.- De los cónyuges, el lugar en que hayan fijado la morada común, aplicándose en su defecto las reglas del artículo 29;
+
+V.- De los militares en servicio activo, el lugar en que estén destinados;
+
+VI.- De los servidores públicos, el lugar donde desempeñen sus funciones por más de seis meses; y
+
+VII.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, el centro penitenciario en el que hayan sido internados, por lo que toca a las relaciones jurídicas posteriores a la condena. En cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
 ###### Artículo 32.
 
-La Junta General será presidida y estará coordinada permanentemente por el Consejero Presidente. La Junta General estará integrada por: la Secretaría General y las Direcciones de Organización, de Capacitación Electoral, Jurídica, de Partidos Políticos y de Administración, quienes conformarán la estructura ejecutiva del Instituto, en tanto que las Unidades Técnicas de Comunicación Social, de Informática y Estadística y del Centro de Información, conformarán la estructura técnica del Instituto.
+Cuando una persona tenga dos o más domicilios, se le considerará domiciliada en el lugar en que simplemente resida. Y si viviere en varios, aquél en que se le encontrase.
 
 ###### Artículo 33.
 
-La Junta General tendrá las siguientes atribuciones:
+Las personas jurídicas tienen su domicilio en el lugar donde se halle establecida su administración.
 
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
+Las que tengan su administración fuera del Estado de Baja California Sur, pero que ejecuten actos jurídicos dentro de la Entidad, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo lo que a esos actos se refiere.
 
-I. Elaborar y proponer para su aprobación al Consejo General, las políticas generales, el anteproyecto de Presupuesto de Egresos del Instituto, el Programa Anual de Actividades, los programas operativos correspondientes a los procesos electorales y los de trabajo, investigación, de educación cívica y de estudio, conforme a los fines del Instituto; y vigilar y evaluar su cumplimiento con la periodicidad que señale el reglamento respectivo;
-
-II. Proponer a la aprobación del Consejo General los reglamentos internos, estatutos, así como las modificaciones a los mismos, en su caso, que sean necesarios para el buen funcionamiento del Instituto;
-
-III. Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-IV. Evaluar el desempeño del Servicio Profesional Electoral, y en su caso, hacer cumplir las disposiciones del Estatuto que regule dicho servicio, que estará a cargo de la Dirección de Administración;
-
-V. Supervisar el cumplimiento de las normas aplicables al otorgamiento o cancelación de registro o acreditación, en su caso, de las agrupaciones políticas, partidos políticos y coaliciones, así como de su financiamiento y prerrogativas;
-
-VI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-VII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-VIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-IX. Recibir de los partidos políticos, las observaciones a la lista nominal de electores, para su registro y remisión, previo acuerdo del Consejo General, a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral;
-
-X. Proponer para su aprobación al Consejo General el Programa de Capacitación a ciudadanos que fungirán como funcionarios electorales, además de los materiales didácticos que se ocuparán para el mismo;
-
-XI. Someter a consideración del Consejo General la documentación y material electoral, para su aprobación en los términos de la Ley Electoral;
-
-XII. Someter al conocimiento y, en su caso, a la aprobación del Consejo General, los asuntos de su competencia; y
-
-XIII. Las demás que le confiera esta Ley y los demás ordenamientos electorales.
+Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
 ###### Artículo 34.
 
-La Junta General se reunirá por lo menos una vez al mes en sesiones ordinarias y en forma extraordinaria a convocatoria del Consejero Presidente cuando así lo considere necesario; sus acuerdos o resoluciones se tomarán por mayoría de votos y el Consejero Presidente tendrá voto de calidad en caso de empate.
+Las personas físicas y jurídicas tienen derecho a designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
-## TÍTULO CUARTO. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS
+## TÍTULO CUARTO. Del Registro Civil
 
-### Capítulo Primero. Disposiciones Generales
+### CAPÍTULO I
 
-###### Artículo 1.
-
-Las disposiciones de esta Ley son de orden público, reglamentarias del Artículo 49 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y tienen por objeto regular la organización, funcionamiento y atribuciones del Instituto Electoral de Quintana Roo.
-
-###### Artículo 2.
-
-Para los efectos de esta Ley, se entenderá por:
-
-Constitución Particular: La Constitución Política del Estado Libre y Soberano de Quintana Roo.
-
-Ley Electoral: La Ley Electoral de Quintana Roo.
-
-Ley de Medios: La Ley Estatal de Medios de Impugnación en Materia Electoral.
-
-Tribunal: El Tribunal Electoral de Quintana Roo.
-
-Instituto: El Instituto Electoral de Quintana Roo.
-
-Consejo General: El Consejo General del Instituto Electoral de Quintana Roo.
-
-Junta General: La Junta General del Instituto Electoral de Quintana Roo.
-
-Secretaría General: La Secretaría General del Instituto Electoral de Quintana Roo.
-
-###### Artículo 3.
-
-La aplicación e interpretación de la presente Ley corresponde al Instituto, al Tribunal y a la Legislatura del Estado, en sus respectivos ámbitos de competencia.
-
-La interpretación de esta Ley se realizará conforme a los criterios, gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+Disposiciones generales.
 
 ###### Artículo 35.
 
-El Secretario General es el Secretario de Acuerdos del Consejo General. El Secretario General, cuando así lo determine el Consejero Presidente, orientará a los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas con el Órgano Superior de Dirección para el cumplimiento de sus acuerdos.
+El Registro Civil es la institución de orden público y de interés social por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
 
 ###### Artículo 36.
 
-Para ser Secretario General se requerirán los mismos requisitos que para ser Consejero Electoral del Consejo General y además contar con título de Licenciado en Derecho.
+El Registro Civil estará constituido por una Dirección Estatal, un Archivo Central, y las Direcciones del Registro Civil de los Ayuntamientos y Oficialías del Registro Civil que acuerde el Ejecutivo del Estado, a propuesta de los Presidentes Municipales respectivos.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para garantizar y facilitar el registro de los menores nacidos en clínicas, sanatorios u hospitales de las instituciones de salud pública o privadas, se podrán establecer en ellas módulos dependientes de las Oficialías del Registro Civil. Para lo cual se deberá celebrar un convenio de cooperación entre la Dirección del Registro Civil del Ayuntamiento que corresponda, la Institución de Salud Pública o Privada, y la Coordinación Estatal del Registro Civil.
 
 ###### Artículo 37.
 
-El Secretario General durará en su cargo dos procesos electorales ordinarios sucesivos, incluyendo los extraordinarios que se lleven a cabo entre dichos períodos, pudiendo ser reelecto hasta por un proceso más. Cuando haya dos o más elecciones simultáneas, se considerarán como un sólo proceso electoral.
+La titularidad de las oficialías del Registro Civil estará a cargo de servidores públicos municipales, denominados "Oficiales del Registro Civil", designados por el Presidente Municipal respectivo, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2010)</small>
+
+Para ser Oficial del Registro Civil, se deberán cubrir los siguientes requisitos:
+
+I.- Ser ciudadanos Sudcaliforniano en pleno ejercicio de sus derechos civiles y con residencia efectiva de tres años en el Estado;
+
+II.- Ser mayor de 18 años al día de su designación;
+
+III.- Contar preferentemente con estudios de nivel Licenciatura, con título y cédula con una antigüedad mínima de tres años, expedida por autoridad o institución legalmente facultada para ello; y
+
+IV.- Gozar de buena reputación.
 
 ###### Artículo 38.
 
-El Secretario General será sustituido en sus ausencias no mayores de quince días, por el Director Jurídico. En las ausencias del Secretario General que excedan de este término, el Consejo General del Instituto acordará lo conducente.
+En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos idóneos que corroboren el dicho de los interesados. Todos deberán firmar las actas o estampar su huella dactilar, debiéndose imprimir en ellas el sello de la Oficialía.
+
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2021)</small>
 
 ###### Artículo 39.
 
-El Secretario General será removido de su cargo, por las dos terceras partes de los Miembros del Consejo General con derecho a voto, cuando se considere que ha incurrido en conductas contrarias a los principios rectores de la función electoral, deje de reunir los requisitos de elegibilidad o incurra en responsabilidad, en términos de lo que disponga esta Ley y la de Responsabilidades de los Servidores Públicos del Estado, en su caso. Invariablemente se le otorgara la garantía de audiencia.
+En el Estado de Baja California Sur estará a cargo de los oficiales del Registro Civil, autorizar los actos del estado civil de las personas y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción de los mexicanos y extranjeros residentes en el Estado y el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género previa anotación correspondiente al acta de nacimiento primigenia. Así como inscribir las ejecutorias que declaren la ausencia, el otorgamiento de la tutela, la presunción de muerte, la pérdida o suspensión de derechos de familia, y la limitación de la capacidad legal para administrar bienes.
 
 ###### Artículo 40.
 
-El titular de la Secretaría General estará investido de fe pública respecto a las actuaciones de los Organos Centrales del Instituto y sancionará sus acuerdos y resoluciones.
+Las actas del Registro Civil deberán asentarse en formatos especiales, que se denominarán "Formas del Registro Civil"; las inscripciones se harán por quintuplicado, mecanográficamente o por medios electrónicos. En ambos casos deberán contener la "Clave Única del Registro de Población" o, en su defecto, su transcripción. La inscripción hecha en forma computarizada, se regirá por el procedimiento de guarda y distribución de las copias del respaldo informático y, tratándose de forma mecanográfica, los formatos, una vez utilizados, se encuadernarán en volúmenes hasta de doscientas actas correspondientes al año a que se refieran.
+
+Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acta que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas estarán de éstos.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Tratándose de actas de nacimiento, la autoridad registral correspondiente deberá contar con formatos que permitan a los progenitores registrar a los menores en términos de los dispuesto en los artículos 66 y 71 del presente ordenamiento.
 
 ###### Artículo 41.
 
-El Secretario General del Instituto, tendrá las siguientes atribuciones:
+Las actas del Registro Civil, sólo se pueden asentar en las formas de que habla el artículo anterior. La infracción de esta regla producirá nulidad del acta, además de la destitución del Oficial del Registro Civil.
 
-I. Actuar como Secretario General del Consejo General, con voz pero sin voto, auxiliando al mismo en el ejercicio de sus atribuciones;
+###### Artículo 42.
 
-II. Preparar el orden del día de las sesiones del Consejo General previo acuerdo del Consejero Presidente, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación en la sesión subsecuente;
+Si se perdiere o destruyere alguna de las actas del Registro Civil, se sacará inmediatamente copia de alguno de los ejemplares o formatos que obren en los demás archivos.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+La Secretaría General de Gobierno cuidará que se cumpla esta disposición y, a este efecto, el Oficial del Registro Civil del lugar donde ocurra la pérdida, o la Coordinación Estatal del Registro Civil, dará aviso a las dependencias que conservan copias del acta, para que remitan un ejemplar certificado.
 
-III. En el ámbito de su competencia, informar al Consejero Presidente, sobre el cumplimiento, en los Consejos Municipales y los Distritales, de los acuerdos y resoluciones del Consejo General;
+###### Artículo 43.
 
-IV. Sustanciar, con el auxilio de la Dirección Jurídica, el procedimiento de otorgamiento o pérdida de registro de las Agrupaciones Políticas, Partidos políticos locales o de las coaliciones, así como sobre la acreditación de los Partidos Políticos Nacionales, hasta dejarlos en estado de resolución;
+El estado civil sólo se comprueba con las actas relativas del Registro Civil; ningún otro documento ni medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley.
 
-V. Presentar a la consideración del Consejo General, previa revisión de la Junta General, el proyecto de resolución respecto al otorgamiento y pérdida de registro de las agrupaciones políticas estatales, de los partidos políticos locales o coaliciones, así como de la acreditación de los Partidos Políticos Nacionales una vez concluido el procedimiento respectivo;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VI. Recibir copia de los expedientes de todas las elecciones y dar cuenta al Consejo General de los informes que sobre ellos reciba de los Consejos Municipales y los Distritales del Instituto, para los efectos procedentes;
-
-VII. Integrar los expedientes con las actas de cómputo para la asignación de Diputados y Regidores por el principio de Representación Proporcional y presentarlas oportunamente al Consejo General;
-
-VIII. Expedir los documentos que acrediten la personalidad de los Consejeros Electorales y de los representantes de las agrupaciones políticas acreditadas ante el Instituto y de los partidos políticos o coaliciones ante el Consejo General;
-
-IX. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-X. Informar al Consejo General de las resoluciones emitidas por los Tribunales y tomar las medidas necesarias para su cumplimiento;
-
-XI. Firmar, junto con el Consejero Presidente del Consejo General, todos los acuerdos y resoluciones que emita el Organo Superior de Dirección;
-
-XII. Preparar, previo acuerdo con el Consejero Presidente, el orden del día de las reuniones de la Junta General, dar fe de lo actuado y acordado en ellas, levantar el acta correspondiente y someterla a la aprobación de ese órgano colegiado;
-
-XIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-XIV. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-XV. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-XVI. Llevar el control del archivo y los libros oficiales del Instituto;
-
-XVII. Certificar toda la documentación que obre en los archivos del Instituto; y
-
-XVIII. Las demás que, conforme a la naturaleza de sus funciones, le sean conferidas por el Consejo General o el Consejero Presidente, esta Ley y la demás legislación electoral aplicable.
-
-###### Articulo 42.
-
-(DEROGADO, P.O. 29 DE JUNIO DE 2007)
-
-###### Articulo 43.
-
-(DEROGADO, P.O. 29 DE JUNIO DE 2007)
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las formas en que pueda suponerse que se encontraba el acta, el acto sólo podrá probarse en la forma y términos que establezca el Código de Procedimientos Civiles.
 
 ###### Artículo 44.
 
-Son atribuciones ejecutivas del Secretario General del Instituto, las siguientes:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-I. Cumplir los acuerdos del Consejo General y de la Junta General;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. Auxiliará al Consejero Presidente en la coordinación del desarrollo y avance de las actividades a cargo de las direcciones, unidades y del Centro de Información Electoral, así como el cumplimiento de los acuerdos del Consejo General y de la Junta General en las Vocalías Ejecutivas Municipales y las Distritales, por conducto de sus respectivos Vocales Ejecutivos;
-
-III. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-IV. Preparar para la aprobación de la Junta General, el Proyecto de Calendario Operativo para elecciones ordinarias y extraordinarias, de acuerdo con las convocatorias respectivas e instrumentar su cumplimiento en el ámbito de su competencia;
-
-V. Asistir a las sesiones del Consejo General y de la Junta General; y
-
-VI. Las demás que le confiera esta Ley, el Consejo General o el Consejero Presidente, conforme a la naturaleza de sus funciones.
+La Coordinación Estatal del Registro Civil establecerá con el Registro Nacional de Población las normas y procedimientos técnicos para convalidar recíprocamente la información que se derive de los actos del estado civil de las personas, a fin de otorgarle plena validez y seguridad jurídica a los instrumentos y mecanismos técnicos automatizados que se utilicen.
 
 ###### Artículo 45.
 
-El Instituto contará, dentro de sus Órganos Centrales con las Direcciones de Organización, de Capacitación Electoral, Jurídica, de Partidos políticos y de Administración, las que estarán adscritas a la Presidencia del Instituto.
+Las formas del Registro Civil serán autorizadas y distribuidas por la Coordinación Estatal del Registro Civil.
 
-Al frente de cada una de estas direcciones de área habrá un Director que será nombrado y removido por el Consejo General, a propuesta del Consejero Presidente.
+De las actas que se levanten, los Oficiales del Registro Civil entregarán una copia al interesado, conservando el original en el archivo de la Oficialía; dos a la Coordinación del Registro Civil para que una se conserve en su archivo central y la otra se remita a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, y la última al Instituto Nacional de Estadística, Geografía e Informática, en la forma y plazos que establezca el reglamento. El Oficial del Registro Civil que viole esta disposición será destituido del cargo.
 
 ###### Artículo 46.
 
-Para ser Director de Área, se deberán satisfacer los siguientes requisitos:
-
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad, y ser ciudadano quintanarroense, con una residencia efectiva en la entidad no menos de 10 años y cinco años de vecindad en cualquiera de los Municipios del Estado, anteriores a la fecha de designación;
-
-II. Estar en pleno ejercicio de sus derechos políticos y civiles, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
-
-III. Tener más de veinticinco años de edad;
-
-IV. Poseer título y cédula profesional preferentemente, en áreas o disciplinas vinculadas con la función que habrán de desempeñar; y
-
-V. Contar con experiencia en el área correspondiente.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VII, VIII, XI y XIII, del Artículo 11 de la presente Ley.
+No podrá asentarse en las actas, ni por vía de nota o advertencia, sino precisamente lo que deba ser declarado en el acto a que ellas se refieren y lo que esté expresamente previsto en la ley. Cualquier inserción que contravenga lo anterior se tendrá por no puesta y será testada de oficio o a petición de parte.
 
 ###### Artículo 47.
 
-Los directores serán sustituidos en sus ausencias temporales, por el funcionario que designe el Consejero Presidente.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-En caso de ausencia definitiva, se procederá al nombramiento de un nuevo director en términos de esta Ley.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-Podrán ser removidos de su cargo, en los términos y condiciones previstas en esta Ley.
+Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren, o podrán ser representados por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o reconocimiento de hijos, las firmas deberán ratificarse ante Notario Público, Juez de lo Familiar, Mixto de Primera Instancia o Menor.
 
 ###### Artículo 48.
 
-La Dirección de Organización tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. Apoyar y vigilar la integración, instalación y funcionamiento de los Consejos Municipales, los Distritales, las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas del Instituto;
-
-II. Elaborar los formatos de la documentación electoral, de acuerdo a lo establecido en la presente Ley, para someterlos, por conducto de la Junta General, a la aprobación del Consejo General;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-III. Recabar de los Consejos Municipales y los Distritales del Instituto, copia de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
-
-IV. Recabar la documentación necesaria e integrar los expedientes, a fin de que el Consejo General efectúe los cómputos que conforme a la Ley Electoral debe realizar;
-
-V. Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
-
-VI. Rendir a la Junta General un informe estadístico sobre las elecciones, en términos de la presente Ley;
-
-VII. Elaborar, supervisar y evaluar los sistemas logísticos para el resguardo y distribución de la documentación y material electoral utilizados en cada elección;
-
-VIII. Establecer y aplicar los lineamientos para la integración, uso y resguardo de los archivos documentales de los Organos Desconcentrados del Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-IX. Acordar con el Consejo Presidente los asuntos de su competencia; y
-
-X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad, prefiriéndose a los parientes y a los que designen los interesados.
 
 ###### Artículo 49.
 
-La Dirección de Capacitación Electoral tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-I. Elaborar y proponer a la Junta General los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que desarrollarán los Organos del Instituto, debiendo someterse a la aprobación del Consejo General, a través del Consejero Presidente;
-
-II. Coordinar y vigilar el cumplimiento de los programas señalados en la fracción anterior;
-
-III. Diseñar, elaborar e integrar el material didáctico y los instructivos electorales, debiendo someterlos a la aprobación del Consejo General a través de la Junta General;
-
-IV. Orientar a los ciudadanos para el ejercicio de sus derechos y cumplimiento de sus obligaciones político electorales;
-
-V. Ejecutar y supervisar el cumplimiento del Programa de Capacitación aprobado por el Consejo General para la integración de las Mesas Directivas de Casilla;
-
-VI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-VII. (DEROGADA, P.O. 20 DE JUNIO DE 2007)
-
-VIII. Llevar a cabo los programas de capacitación, evaluación y apoyar en la selección de los integrantes de los Organos Desconcentrados del Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-IX. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-X. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+La alteración de actas hecha por el Oficial o funcionario del Registro Civil, la falsificación o la inserción de circunstancias o declaraciones falsas, así como la superposición de hojas, la destrucción de las mismas o su desaparición, será causa de destitución del Oficial o del funcionario del Registro Civil que las realice o permita, sin perjuicio de la aplicación de las penas previstas para el delito correspondiente y de la obligación de indemnizar los daños y perjuicios al afectado.
 
 ###### Artículo 50.
 
-La Dirección Jurídica tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-I. Apoyar al Consejero Presidente en la elaboración de proyectos de resolución y los acuerdos previstos en esta Ley, así como al Consejero Presidente en la defensa legal del Instituto ante las distintas autoridades jurisdiccionales y administrativas;
-
-II. Intervenir en la elaboración y revisión de los proyectos de reglamentos internos, estatutos, manuales de organización y procedimientos, lineamientos, contratos, convenios y demás actos de los Organos del Instituto;
-
-III. En su caso, Integrar los expedientes relativos a las faltas administrativas, los de imposición de sanciones, en los términos de la legislación o normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-IV. Elaborar los contratos de arrendamiento y de prestación de servicios que celebre el Instituto, así como los demás documentos que impliquen actos de administración, conforme a los lineamientos que fije el Consejero Presidente;
-
-V. Asesorar y apoyar a los Organos Centrales y Desconcentrados del Instituto, para que sus actividades se rijan con apego a los principios de constitucionalidad y legalidad;
-
-VI. Apoyar al Consejero Presidente del Consejo General y al Secretario General en el trámite y seguimiento de los requerimientos formulados por autoridades jurisdiccionales federales y locales;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-VII. Auxiliar al Consejero Presidente en el trámite y seguimiento de los medios (sic) impugnación, federales y locales, en materia electoral;
-
-VIII. Realizar los estudios y análisis jurídicos correspondientes, para promover la cultura política y democrática y fortalecer el régimen interior del Instituto, conforme a la legislación aplicable, coadyuvando con la Dirección de Capacitación Electoral;
-
-IX. Elaborar los proyectos de resolución de los recursos de revocación en términos de lo previsto por la Ley de Medios;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-X. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-XI. Las demás que le señale esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+Los vicios y defectos de las actas, sujetan al Oficial del Registro Civil a hacer las correcciones que señale el reglamento respectivo, pero cuando sean substanciales producirán la nulidad del acto.
 
 ###### Artículo 51.
 
-La Dirección de Partidos Políticos tendrá las siguientes atribuciones:
+Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apéndices y documentos con ellas relacionados, excepto en los casos prohibidos por la ley. El responsable del Archivo Central y los Oficiales del Registro Civil están obligados a expedirlas.
 
-I. Tramitar las solicitudes que formulen las organizaciones que pretendan constituirse como agrupaciones políticas estatales y partidos políticos locales, de los partidos políticos nacionales que soliciten su acreditación ante el Instituto, para que sean sometidas en su oportunidad al Consejo General;
-
-II. Intervenir en el procedimiento de registro de los convenios de coalición o fusión entre partidos políticos, en los términos de la presente Ley y de lo que disponga la Ley Electoral;
-
-III. Inscribir en el libro respectivo el registro de agrupaciones políticas estatales, partidos políticos, así como los convenios de coaliciones y de fusión;
-
-IV. Recibir y tramitar los avisos de modificación a los documentos básicos de las agrupaciones políticas estatales y los partidos políticos;
-
-V. Coordinar las acciones para sustanciar el procedimiento de otorgamiento o pérdida de registro de las agrupaciones políticas estatales y de partidos políticos locales que se encuentre en los supuestos previstos por la Ley Electoral;
-
-VI. Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o locales, así como las coaliciones, puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VII. Llevar el libro de registro de los integrantes de los órganos directivos de las agrupaciones políticas estatales, partidos políticos y de sus representantes acreditados ante los Consejos General, Municipales o Distritales, en su caso;
-
-VIII. Llevar los libros de registro de los candidatos a los cargos de elección popular;
-
-IX. Vigilar que los contenidos de la propaganda y de la difusión de los partidos políticos y coaliciones en medios de comunicación, se encuentren apegados a los requisitos exigidos por la Ley Electoral;
-
-X. (DEROGADA, P.O. 3 DE MARZO DE 2009)
-
-XI. Elaborar propuestas para la organización de debates entre candidatos;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XII. Elaborar lineamientos técnicos para la presentación de los informes de origen, monto y aplicación de los ingresos y egresos de los partidos políticos, coaliciones y agrupaciones políticas los que serán sometidos a consideración del Consejo General para su aprobación;
-
-XIII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XIV. Analizar los informes anuales y de campaña que presenten los partidos políticos, coaliciones y agrupaciones políticas estatales, con los cuales den cuenta del origen y monto de los ingresos que percibieron durante el ejercicio inmediato anterior, por cualquier tipo de fínanciamiento, así como su aplicación y empleo, presentando vía Comisión de Fiscalización, el proyecto de dictamen correspondiente;
-
-XV. Ordenar, previo acuerdo del Consejo General, la realización de auditorías a los partidos políticos, coaliciones y agrupaciones políticas;
-
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-XVI. Presentar a la Comisión de Fiscalización los Dictámenes que se formulen respecto de las auditorías practicadas a los partidos políticos, coaliciones y agrupaciones políticas, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso;
-
-XVII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XVIII. Establecer los criterios para vigilar permanentemente el cumplimiento de los topes de gastos de campaña que acuerde el Consejo General;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XIX. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-XX. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+Ninguna otra autoridad podrá expedir copia certificada de las actas del Registro Civil, salvo lo que disponga el Coordinador Estatal de esta dependencia.
 
 ###### Artículo 52.
 
-El Director de Administración tendrá las siguientes atribuciones:
-
-I. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales del Instituto;
-
-II. Organizar y dirigir la administración de los recursos humanos, financieros y materiales, así como la prestación de los servicios generales en el Instituto;
-
-III. Formular el Anteproyecto Anual de Presupuesto de Egresos del Instituto;
-
-IV. Establecer y operar los sistemas administrativos para el ejercicio del Presupuesto;
-
-V. Realizar las gestiones necesarias para la liberación y comprobación de los recursos financieros autorizados en el Presupuesto de Egresos;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-VI. Elaborar y firmar la documentación para las erogaciones que con cargo al Presupuesto de Egresos aprobado, deba ejercer el Instituto, previa autorización del Consejero Presidente;
-
-VII. Planear, dirigir y controlar las actividades referentes a adquisiciones, enajenaciones, arrendamientos, almacenes y suministros de bienes y servicios, conforme a los lineamientos institucionales;
-
-VIII. Elaborar las bases y los procedimientos de licitación pública para la contratación de particulares o de empresas que otorguen bienes o servicios al Instituto;
-
-IX. Atender las necesidades administrativas de los Organos del Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-X. Aplicar las normas y lineamientos para el reclutamiento, capacitación, contratación y desarrollo del personal administrativo del Instituto, integrando los expedientes respectivos de conformidad a los procedimientos administrativos y de recursos humanos, aprobados por la Junta General y los establecidos en el Estatuto del Servicio Profesional Electoral, cuyas acciones quedarán bajo su cargo y tendrán efecto sobre el personal administrativo del Instituto;
-
-XI. Vigilar y supervisar a los Organos Desconcentrados en el manejo y operación de los recursos materiales, financieros y humanos otorgados;
-
-XII. Promover el diseño de sistemas automatizados e informáticos, que coadyuven a la elaboración de los controles administrativos;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XIII. Proponer a la Junta General para su aprobación, los manuales, Estatuto del Servicio Profesional, normas y criterios técnicos en materia administrativa, para la mejor organización y funcionamiento del Instituto;
-
-XIV. Suministrar, previa autorización, a los partidos políticos, coaliciones y agrupaciones políticas estatales, los recursos económicos que, en su caso, les corresponda y de conformidad con lo que establezca la Ley;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XV. Acordar con el Consejero Presidente los asuntos de su competencia;
-
-XVI. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XVII. Autorizar las altas, bajas y readscripción del personal administrativo del Instituto, previa autorización del Consejero Presidente; y
-
-XVIII. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General y la Junta General.
+En las actas del Registro Civil se efectuarán las anotaciones que relacionen el acto con otros, inscritos sobre la misma persona, de la manera en que disponga expresamente la ley o la autoridad judicial, en su caso.
 
 ###### Artículo 53.
 
-El Instituto contará, dentro de sus órganos centrales, con una estructura técnica, la cual se conformará por las Unidades Técnicas de Comunicación Social; de Informática y Estadística; y del Centro de Información Electoral, y sus titulares serán nombrados y removidos por el Consejo General, a propuesta del Consejero Presidente.
+Los actos y actas del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualesquiera de ellos, así como de sus parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, no podrán ser autorizados por el mismo funcionario, sino por el Oficial de la adscripción más próxima.
 
 ###### Artículo 54.
 
-Para ser titular de las Unidades Técnicas, deberán satisfacer los siguientes requisitos:
+Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones certifique que ocurrió en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa ante el Juez competente.
 
-I. Ser mexicano por nacimiento, sin tener otra nacionalidad y ser ciudadano quintanarroense, con una residencia efectiva no menos de 10 años en la entidad y cinco años de vecindad, anteriores a la fecha de designación;
-
-II. Estar en pleno ejercicio de sus derechos políticos y civiles, no estar sujeto a proceso penal y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
-
-III. Tener más de veinticinco años de edad;
-
-IV. Poseer título y cédula profesional preferentemente, en áreas o disciplinas vinculadas con la función que habrán de desempeñar; y
-
-V. Contar con experiencia en el área correspondiente.
-
-Además, deberán cumplir con los requisitos señalados en las fracciones II, V, VII, VIII, X, XI, XII y XIII, del Artículo 11 de la presente Ley.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, se tendrán por ciertas hasta que se pruebe lo contrario.
 
 ###### Artículo 55.
 
-Las ausencias temporales de los titulares a que se refieren los artículos anteriores, serán cubiertas por los servidores electorales que designen (sic) el Consejero Presidente.
+Para establecer el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten, legalizadas y traducidas, si se trata de idioma extranjero, conforme a las disposiciones del Código Federal de Procedimientos Civiles, debiendo transcribirse en la Oficialía del Registro Civil del domicilio del interesado.
 
 ###### Artículo 56.
 
-La Unidad de Comunicación Social, estará adscrita al Consejo General durante los procesos electorales, y fuera de estos, a la Junta General bajo la coordinación del Consejero Presidente y tendrá las siguientes atribuciones:
-
-I. Difundir de manera oportuna las funciones, programas y actividades del Instituto;
-
-II. Proponer, diseñar y sistematizar instrumentos de divulgación para mantener los vínculos entre el Instituto, la ciudadanía, los partidos políticos y los medios de comunicación;
-
-III. Instrumentar los mecanismos necesarios de comunicación masiva para promover al Instituto como el Organismo encargado de desarrollar los procesos electorales de la entidad, instrumentar las formas de participación ciudadana y las demás que le confiere la Ley, con apego a los ordenamientos legales que lo rigen;
-
-IV. Promover el desarrollo de campañas de información a los ciudadanos sobre sus derechos y obligaciones político electorales;
-
-V. Fomentar en los ciudadanos la importancia del sistema de partidos políticos en los procesos electorales;
-
-VI. Proponer al Consejero Presidente del Consejo General, el Programa Operativo Anual de Actividades de la Unidad;
-
-VII. Comunicar permanentemente al Consejero Presidente del Consejo General, del monitoreo y seguimiento de la información que se publique en los medios de comunicación en materia electoral;
-
-VIII. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-IX. Las demás que le confiera esta Ley, la Ley Electoral, el Consejo General, la Junta General y el Consejero Presidente del Consejo General.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
+Los Oficiales del Registro Civil se suplirán en sus faltas temporales unos a otros; cuando esto no fuere posible, suplirá dichas faltas la primera autoridad política de ese municipio.
 
 ###### Artículo 57.
 
-La Unidad Técnica de Informática y Estadística, estará adscrita a la Junta General, y su titular tendrá las siguientes atribuciones:
+Las Oficialías del Registro Civil estarán bajo el control, inspección y vigilancia de un Coordinador Estatal del Registro Civil quien sancionará las faltas y omisiones de sus propios empleados. Las del Coordinador serán sancionadas por el titular del Ejecutivo.
 
-I. Coordinar las actividades informáticas, estableciendo lineamientos de procesamiento de datos para eficientar el desarrollo de las actividades de los Organos del Instituto;
+Las faltas u omisiones de los Oficiales del Registro Civil, serán sancionadas por los Presidentes Municipales, de acuerdo con este Código y el Reglamento respectivo, sin perjuicio de la responsabilidad civil o penal en que incurran.
 
-II. Administrar, coordinar y racionalizar los recursos técnicos que requieran los Organos del Instituto en materia de informática;
+La Coordinación Estatal del Registro Civil, o sus delegados, cuidará la legalidad de las actuaciones e inscripciones que se hagan en las formas del Registro Civil, pudiendo inspeccionarlas en cualquier época y, en su caso, dar vista al Ministerio Público cuando considere que se ha cometido algún delito, o a las autoridades administrativas, por las faltas de sus servidores públicos.
 
-III. Investigar, determinar y gestionar la adquisición de equipo y programas de cómputo que sean convenientes para los Organos que integran el Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-IV. Proponer al Consejero Presidente la distribución y asignación de los equipos de cómputo, de acuerdo a las necesidades de los diferentes Órganos del Instituto;
-
-V. Establecer integralmente los lineamientos en materia de procesamiento electrónico de datos, en tal forma que se obtenga información veraz, confiable y oportuna;
-
-VI. Establecer políticas y mecanismos de seguridad de datos y respaldo de los mismos;
-
-VII. Coordinar y elaborar sistemas de información solicitados por los Organos del Instituto;
-
-VIII. Procesar y actualizar la información institucional, para facilitar la consulta de la misma por parte de los interesados;
-
-IX. Actualizar los datos del Sistema de Información Electoral e incorporar las opciones e información que la dinámica del Instituto requiera;
-
-X. Actualizar la infraestructura computacional para el funcionamiento de la Intranet del Instituto;
-
-XI. Recopilar datos de los Organos del Instituto, para la elaboración de la numeralia y estadística correspondientes;
-
-XII. Capacitar y mantener actualizado al personal encargado del procesamiento de datos en el Instituto;
-
-XIII. Establecer relación con áreas de informática de otros Organismos Electorales, a fin de intercambiar información sobre los sistemas de procesamiento electrónico en el ámbito electoral;
-
-XIV. Diseñar e instrumentar, previa aprobación, el Programa de Resultados Preliminares Electorales;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XV. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XVI. Las demás que le confiera esta Ley, la Ley Electoral y el Consejero Presidente.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JUNIO DE 2007)</small>
-
-### Capítulo Segundo. De la Integración del Instituto
-
-###### Artículo 4.
-
-El Instituto es el organismo público, depositario de la autoridad electoral responsable de la función estatal de preparar, desarrollar, organizar y vigilar las elecciones locales, e instrumentar las formas de participación ciudadana que señale la Ley, independiente en sus decisiones, autónomo en su funcionamiento y profesional en su desempeño, con personalidad jurídica y patrimonio propios; contando para el cumplimiento de sus fines con órganos permanentes y temporales, centrales y desconcentrados.
-
-De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la Ley de los Municipios.
-
-Para el desempeño de sus funciones, el Instituto contará con el apoyo y colaboración de las autoridades federales, estatales y municipales.
-
-El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo.
-
-###### Artículo 5.
-
-Son fines del Instituto:
-
-I. Contribuir al desarrollo de la vida democrática;
-
-II. Contribuir al fortalecimiento del régimen de partidos políticos;
-
-III. Garantizar a los ciudadanos el ejercicio de los derechos político electorales y vigilar el cumplimiento de sus obligaciones;
-
-IV. Garantizar la celebración periódica y pacífica de las elecciones de Gobernador, Diputados y miembros de los Ayuntamientos;
-
-V. Velar por la autenticidad y efectividad del voto;
-
-VI. Coadyuvar en la promoción y difusión de la cultura política y democrática de la entidad; y
-
-VII. Las demás que señale la Ley.
-
-###### Artículo 6.
-
-Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
-
-###### Artículo 7.
-
-Para el cumplimiento de sus fines, el Instituto contará permanentemente con un Consejo General, una Junta General, una Secretaría General, una Contraloría Interna, las Direcciones de: Organización, Capacitación Electoral, Jurídica, de Partidos Políticos, y de Administración; las Unidades Técnicas de: Comunicación Social, Informática y Estadística y el Centro de Información Electoral. Cada órgano tendrá las atribuciones que señale la Ley Electoral y el presente ordenamiento; su estructura y organización será establecida en el Reglamento Interno del Instituto y en los Manuales de Organización que al efecto apruebe y expida el Consejo General a propuesta de la Junta General, con excepción de lo relativo a la Contraloría Interna.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-En los procesos electorales, el Instituto Electoral se integrará además, con los Consejos Municipales, Juntas Municipales Ejecutivas, Consejos Distritales, Juntas Distritales Ejecutivas y Mesas Directivas de Casilla.
-
-Para el mejor funcionamiento del Instituto y para el cumplimiento de sus responsabilidades, el Consejo General podrá crear temporalmente unidades técnicas de acuerdo a las necesidades del servicio y la disponibilidad presupuestal.
-
-###### Artículo 8.
-
-El Instituto tendrá su domicilio en la capital del Estado y ejercerá sus funciones en todo el territorio del mismo a través de sus órganos centrales y desconcentrados.
+### CAPÍTULO II. De las actas de nacimiento
 
 ###### Artículo 58.
 
-La Unidad Técnica del Centro de Información Electoral, estará adscrito a la Junta General, y su titular tendrá las siguientes atribuciones:
+Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil en su oficina, pudiendo acudir éste al lugar en que se encuentre, cuando sea necesario.
 
-I. Organizar y custodiar el acervo bibliográfico, hemerográfico, videográfico y documental del Instituto;
-
-II. Establecer y ofrecer a los usuarios los mecanismos y procedimientos, tradicionales y electrónicos, para su consulta;
-
-III. Ofrecer a los usuarios servicios informativos de calidad a través de medios tradicionales y electrónicos, para su consulta;
-
-IV. Propiciar la celebración de convenios con otras instituciones para el intercambio de información y documentación;
-
-V. Coordinar y vigilar el desarrollo del programa editorial del Instituto;
-
-VI. Difundir los servicios que preste y promover la consulta de las obras editoriales y demás publicaciones del Instituto;
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-VII. Acordar con el Consejero Presidente los asuntos de su competencia; y
-
-> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-VIII. Las demás que le confiera esta Ley, la Ley Electoral y el Consejero Presidente.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
 
 ###### Artículo 59.
 
-Los Consejos Distritales son Organos Desconcentrados del Instituto, encargados de la preparación, desarrollo y vigilancia de los procesos electorales en los Distritos Uninominales Electorales y residirán en la cabecera de cada uno de éstos. Solo funcionarán durante los procesos electorales y serán apoyados técnica y administrativamente por una Junta Distrital Ejecutiva.
+Tienen obligación de declarar el nacimiento, el padre o la madre y, a falta de éstos, los abuelos por cualquier línea, dentro de los siete días naturales posteriores al nacimiento.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+
+Los médicos, cirujanos o parteras que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los siete días naturales siguientes al parto. La misma obligación tiene el jefe de familia en cuyo lugar se produjo el alumbramiento, si éste ocurrió fuera de la casa paterna.
+
+Si el nacimiento hubiese tenido lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración.
 
 ###### Artículo 60.
 
-Los Consejos Distritales Electorales que residan en los Distritos Electorales cuyo territorio comprenda a un Municipio, tendrán a su cargo la preparación, desarrollo y vigilancia de las elecciones para renovar el Ayuntamiento respectivo.
-
-En aquellos Municipios que comprendan dos o más Distritos Electorales, la preparación, desarrollo y vigilancia de elecciones de Ayuntamientos recaerá en aquel Consejo Distrital que resida en el Distrito Electoral de número más bajo.
-
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
-
-Los Consejos Distritales del Instituto, se integrarán por un Consejero Presidente y cuatro Consejeros electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un representante por cada uno de los Partidos Políticos con registro o acreditación, según el caso, ante el Consejo General y los Vocales, Secretario de Organización, y de capacitación de la Junta Distrital Ejecutiva.
-
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
-
-Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+En los casos en que se de aviso del nacimiento, sin presentación del menor para su registro, el Oficial del Registro Civil dará vista a la Procuraduría de la Defensa del Menor y la Familia, para que esta dependencia realice gestiones de investigación y mediación ante los padres o custodios del recién nacido, para que lo presenten ante el Oficial del Registro Civil a inscribir su nacimiento y, en los casos de hijos extramatrimoniales, para que ambos padres lo reconozcan.
 
 ###### Artículo 61.
 
-Los Consejos Municipales son órganos desconcentrados del Instituto, encargados de la preparación, desarrollo y vigilancia de los procesos electorales en los Municipios del Estado, en los supuestos que previene el actual artículo. Residirán en la cabecera municipal.
+El registro de nacimiento podrá ser ordinario o extemporáneo.
 
-Cuando en el territorio de un distrito electoral uninominal existan dos o más Municipios, se instalaran los Consejos Municipales para conocer del proceso electoral para renovar los Ayuntamientos de aquellos en donde no sean cabecera distrital.
+Será registro ordinario el efectuado dentro del plazo establecido en el primer párrafo del artículo 59. Por registro extemporáneo se entiende el realizado después de los seis meses de ocurrido el nacimiento, pero antes de los siete años.
 
-Los Consejos Municipales solo funcionarán durante los procesos electorales y serán apoyados técnica y administrativamente por una Junta Municipal Ejecutiva.
+Queda prohibido a los Oficiales del Registro Civil asentar los nacimientos de personas que tengan más de siete años de edad. El registro correspondiente, en este caso, deberá tramitarse ante la autoridad judicial competente, por la vía de jurisdicción voluntaria, salvo en los casos de campañas especiales de registro extemporáneo.
 
-Los Consejos Municipales se integrarán por un Consejero Presidente y cuatro Consejeros electorales, con voz y voto; concurrirán, además, con voz pero sin voto: un representante por cada uno de los Partidos Políticos con registro o acreditación, según el caso, ante el Consejo General y los Vocales, Secretario de Organización, y de capacitación de la Junta Municipal Ejecutiva.
-
-Para el Consejero Presidente y los Consejeros Electorales se elegirán tres Consejeros Suplentes comunes en orden de prelación. En caso de que los primeros faltasen en tres ocasiones sin causa justificada a las sesiones, los suplentes entrarán en funciones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 62.
 
-Los Consejeros Presidentes y Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales y las Distritales Ejecutivas, deberán satisfacer los mismos requisitos señalados para los Consejeros Electorales del Consejo General, con excepción del nivel académico, que será el de bachillerato. La residencia efectiva será por cinco años en el Municipio o en el Distrito Electoral de que se trate, según corresponda.
+El Ejecutivo del Estado deberá instrumentar una vez al año campañas especiales de registro extemporáneo de nacimientos, o cuando alguno de los H. Ayuntamientos de la entidad lo solicite al Gobernador del Estado, y en las cuales los interesados deberán cumplir los requisitos que para el caso se establezcan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
-El procedimiento de selección de los Consejeros Presidentes y de los Consejeros Electorales de los Consejos Municipales y los Distritales, así como los Vocales de las Juntas Municipales Ejecutivas y las Juntas Distritales Ejecutivas, se ajustará a lo siguiente:
-
-I. El Consejo General emitirá una convocatoria en la que se establecerán los requisitos que deberán cubrir los aspirantes, así como el procedimiento de su capacitación, de acuerdo al programa previamente aprobado;
-
-II. Recepcionadas las solicitudes, se revisará quienes cumplen con los requisitos de Ley, y quienes los cumplan, tomaran un curso de capacitación organizado para tal efecto, y al término del mismo presentarán una evaluación;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-III. Concluida la etapa de capacitación, la Junta General elaborará una lista con los nombres de todos los aspirantes, por Municipio y por Distrito según sea el caso, que hayan asistido al curso de capacitación y las remitirá al Pleno del Consejo General del Instituto, juntamente con las evaluaciones obtenidas;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV. El Consejo General designará, de entre las personas mencionadas en la lista que refiere la fracción anterior, con base en el perfil curricular y la evaluación obtenida en el curso que se menciona en la fracción, (sic) de presente artículo, a los ciudadanos que ocuparán los cargos de Consejeros Presidentes y los Consejeros Electorales, propietarios y suplentes, de los Consejos Municipales y los Distritales, a más tardar el 31 de marzo del año de la elección.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+Las campañas a que se refiere el artículo anterior, tendrán una duración mínima de seis meses, debiendo consignarse si deben ser instrumentadas para toda la población o sólo para grupos marginados, así como la exención en el pago de los derechos correspondientes, si se otorgase.
 
 ###### Artículo 64.
 
-Los Consejos Municipales y los Distritales del Instituto, se instalarán en la primera semana del mes de abril del año de la elección.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-A partir de su instalación y hasta la conclusión del proceso electoral, los Consejos Municipales y los Distritales del Instituto sesionarán por lo menos una vez al mes.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-Para poder iniciar a sesionar válidamente deberán estar presentes la mayoría de los Consejeros de los Consejos Municipales y los Distritales, con derecho a voz y voto, entre los que deberá estar el Consejero Presidente y la mayoría de los representantes de los partidos políticos o los de la coalición, en su caso.
-
-Cuando no se reúna el quórum establecido en el párrafo anterior, la sesión se realizará dentro de las veinticuatro horas siguientes con los Consejeros y representantes de los partidos políticos o de coalición que asistan, debiendo estar presente el Consejero Presidente.
-
-En caso de que no asistiere el Consejero Presidente, dentro de las veinticuatro horas siguientes se realizará la sesión con los Consejeros y representantes de los partidos políticos o de coalición que asistan, debiendo otro Consejero del Consejo General sustituir para esa única sesión al Consejero Presidente.
+Las instituciones de salud públicas o privadas, los médicos, enfermeras, ó matronas que hubieren asistido al parto, deberán expedir una constancia pública o privada, según el caso, que acredite el nacimiento de una persona, identificando invariablemente a la madre y al recién nacido.
 
 ###### Artículo 65.
 
-Los Consejos Distritales del Instituto, tendrán las siguientes atribuciones:
+En las poblaciones en que no haya Oficial del Registro Civil, el niño será presentado a la persona que ejerza la autoridad municipal, quien expedirá la constancia respectiva para que los interesados la exhiban al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
-I. Vigilar la observancia de esta Ley, la Ley Electoral, así como los acuerdos y resoluciones de las autoridades electorales;
-
-II. Cumplir con los acuerdos que dicte el Consejo General;
-
-III. Intervenir, conforme al presente ordenamiento y la Ley Electoral, dentro de sus respectivos Distritos, en la preparación desarrollo y vigilancia del proceso electoral;
-
-IV. Declarar y hacer constar que los representantes nombrados por los partidos políticos o coaliciones han quedado incorporados al propio Consejo y a sus actividades;
-
-V. Recibir del Instituto los recursos económicos y materiales necesarios y suficientes para el desempeño de sus funciones;
-
-VI. Recibir del Instituto, la cartografía de las secciones electorales, el proyecto para la ubicación de casillas y las listas nominales de electores;
-
-VII. Recibir del Instituto la propuesta conteniendo el número y la ubicación de las casillas y, en su caso, aprobarla o modificarla, así como resolver las objeciones que al respecto formulen los partidos políticos o coaliciones;
-
-VIII. Revisar la ubicación de casillas propuesta por el Instituto y realizar las modificaciones pertinentes, en su caso.
-
-IX. Realizar las insaculaciones necesarias, de entre quienes cumplan los requisitos de ley, a fin de seleccionar a los funcionarios de las Mesas Directivas de Casillas en el ámbito de sus respectivos Distritos, conforme al procedimiento señalado por esta Ley, así como asegurarse de que los nombramientos de los funcionarios de casillas sean oportunamente recibidos, o en su caso, tomar las medidas pertinentes a fin de que se designe a los funcionarios sustitutos;
-
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-X.- Nombrar, a propuesta de sus integrantes con derecho a voz y voto, los asistentes necesarios para el ejercicio de sus funciones en un número que no podrá ser mayor al veinte por ciento de las casillas que comprenden el distrito salvo que por razones fundadas acuerde incrementar, sujeto desde luego, a la disponibilidad presupuestal del Instituto.
-
-Sus funciones serán auxiliar al proceso de capacitación o selección de los integrantes de las Mesas Directivas de Casillas, de comunicación entre éstas y los Consejos Distritales Electorales y las demás que expresamente les ordenen estos últimos. En ningún caso podrán sustituir en sus funciones a los funcionarios de casilla.
-
-XI. Registrar las fórmulas de candidatos a Diputados por el Principio de Mayoría Relativa;
-
-XII. Registrar los nombramientos de los representantes de los partidos o coaliciones ante las Mesas Directivas de Casillas y los representantes generales en los términos de esta Ley;
-
-XIII. Entregar a los Presidentes de las Mesas Directivas de Casillas, el material y la documentación electoral a que se refiere la Ley de la materia;
-
-XIV. Recibir de los funcionarios de la Mesas Directivas de Casillas los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Gobernador del Estado, Diputados y Ayuntamientos;
-
-XV. Remitir, en su caso, a los Consejos Distritales encargados de la elección municipal, los paquetes electorales que contengan la documentación y el expediente relativo a la elección de Ayuntamientos, en un plazo que en ningún caso podrá ser superior a veinticuatro horas.
-
-XVI. Realizar el cómputo Distrital de la elección del Gobernador del Estado;
-
-XVII. Efectuar el cómputo Distrital y emitir la declaración de validez de la elección de Diputados por el Principio de Mayoría Relativa;
-
-XVIII. Expedir la constancia de mayoría y validez de la elección a la fórmula de candidatos a Diputados de Mayoría Relativa que haya obtenido el triunfo en el Distrito correspondiente;
-
-XIX. Recibir los medios de impugnación que se presenten en contra de los actos o resoluciones y remitirlos a la autoridad competente para su resolución, en términos de lo establecido en la Ley de Medios;
-
-XX. Informar al Consejo General a través de la Junta General sobre el desarrollo de sus actividades;
-
-XXI. Solicitar el auxilio de la fuerza pública para garantizar el normal desarrollo del proceso electoral;
-
-XXII. Dejar constancia de cada sesión, en las actas correspondientes. Una vez aprobadas, se entregará copia de cada acta a los Integrantes del Consejo Distrital, enviándose una de éstas al Consejo General a través de la Dirección de Organización;
-
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-XXIII.- Tomar las medidas necesarias para la exhibición de la lista nominal de electores, en los plazos y términos que acuerde el Consejo General;
-
-XXIV. Cumplir con los programas que determine la Junta General;
-
-XXV. Vigilar el cumplimiento de las disposiciones legales y lineamientos relativos a la propaganda electoral;
-
-XXVI. Recibir, en el ámbito de su competencia, las solicitudes de registro como observadores electorales, así como vigilar que se imparta a los solicitantes el curso de capacitación respectivo, y remitir las peticiones al Consejo General para los efectos legales que correspondan;
-
-XXVII. Aprobar el orden del día de sus sesiones; y (sic)
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-XXVIII.- Recibir, revisar y verificar los contenidos de los paquetes electorales que el Instituto envíe a los Consejos Distritales; y
-
-(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-XXIX.- Las demás que le confiera el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y la Junta General.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
 
 ###### Artículo 66.
 
-Los Consejos Distritales que tengan a su cargo la preparación, desarrollo y vigilancia de las elecciones de Ayuntamientos, tendrán además de las que prevenga la Ley Electoral para cada uno de ellos, las siguientes atribuciones:
+El acta de nacimiento deberá contener lugar y fecha del registro, hora, día, mes, año y lugar de nacimiento; el sexo, el nombre que se le imponga y los apellidos de los progenitores en el orden de prelación que ellos convengan, o los apellidos de la madre, cuando lo presente individualmente como hijo extramatrimonial; la mención de si se presenta vivo o muerto, la impresión dactilar y la Clave Única del Registro de Población que se asigne al registrado.
 
-I. Registrar las planillas para elegir Ayuntamientos en los términos establecidos en la Ley Electoral;
+El Juez del Registro Civil deberá especificar, de forma expresa, el orden de apellidos que acuerden los progenitores. El orden de apellidos convenido será considerado para los demás hijos e hijas del mismo vínculo.
 
-II. Recibir de los demás Consejos Distritales en el Municipio los paquetes electorales que contengan la documentación correspondiente a la elección de Ayuntamientos;
-
-III. Realizar el cómputo municipal y emitir la declaración de validez de la elección;
-
-IV. Expedir la constancia de mayoría y validez a la planilla de candidatos que haya obtenido el triunfo en el Municipio correspondiente;
-
-V. Las demás que le confiere el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General y Junta General.
-
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
-
-A los Consejos Municipales les será (sic) aplicables, en lo conducente y en su esfera de competencia, las atribuciones conferidas a los Consejos Distritales.
+Si se desconoce el nombre de los padres, el Juez del Registro Civil le pondrá el nombre y apellidos, haciendo constar esta circunstancia en el acta. Cuando no haya acuerdo entre los progenitores, el juez dispondrá el orden de los apellidos, atendiendo al que por orden alfabético corresponda. No se reputará de oficio el apellido paterno.
 
 ###### Artículo 67.
 
-El Consejero Presidente de los Consejos Municipales y los Distritales, será además en consecuencia, el Vocal Ejecutivo de la Junta Municipal Ejecutiva y de la Junta Distrital Ejecutiva.
-
-A). El Presidente de los Consejos Municipales tendrá las siguientes atribuciones:
-
-I.- Convocar y conducir las sesiones del Consejo Municipal;
-
-II.- Recibir las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
-
-III.- Dar cuenta al Consejero Presidente del Consejo General del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
-
-IV.- Expedir la constancia de mayoría a la planilla de candidatos de los Ayuntamientos, en los términos establecidos en la Ley Electoral;
-
-V.- Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Municipal respectivo, los resultados de los cómputos municipales;
-
-VI.- Vigilar el cumplimiento de los acuerdos o resoluciones tomadas por el propio Consejo Municipal o el Consejo General;
-
-VII.- Proveer de toda la información y documentación necesaria y que le sea solicitada por los Consejeros, y los representantes de los partidos políticos o coaliciones, relacionados estrictamente con las etapas del proceso electoral, se exceptúa el aspecto administrativo y las demás que señale la Ley;
-
-VIII.- Distribuir entre los Miembros del Consejo Municipal, copias de los documentos recibidos de los Órganos Centrales del Instituto; y
-
-IX.- Las demás que le confiere el presente ordenamiento, la Ley Electoral, el Consejo General y la Junta General.
-
-B). El Presidente de los Consejos Distritales tendrá las siguientes atribuciones:
-
-I.- Convocar y conducir las sesiones del Consejo Distrital;
-
-II.- Recibir las solicitudes de registro de candidaturas a Diputados por el Principio de Mayoría Relativa, y en su caso, las solicitudes de registro de planillas de candidatos para Miembros del Ayuntamiento respectivo;
-
-III.- Dar cuenta al Consejero Presidente del Consejo General del Instituto, del desarrollo de las elecciones y de los medios de impugnación interpuestos ante el Consejo que preside, dentro de los plazos establecidos en la Ley Electoral y de Medios;
-
-IV.- Expedir la constancia de mayoría a la fórmula de candidatos a Diputados por el Principio de Mayoría Relativa, en los términos establecidos en la Ley Electoral;
-
-V.- Expedir, en su caso, la constancia de mayoría a la planilla de candidatos de los Ayuntamientos, en los términos establecidos en la Ley Electoral;
-
-VI.- Entregar a los Presidentes de las Mesas Directivas de Casilla, en presencia de los integrantes del Consejo Distrital que así lo deseen, la documentación y útiles necesarios para el debido cumplimiento de sus funciones;
-
-VII.- Dar a conocer, mediante avisos colocados en el exterior del local del Consejo Distrital respectivo, los resultados de los cómputos distritales y municipales, en su caso;
-
-VIII.- Vigilar el cumplimiento de los acuerdos o resoluciones tomadas por el propio Consejo Distrital o el Consejo General;
-
-IX.- Proveer de toda la información y documentación necesaria y que le sea solicitada por los Consejeros, y los representantes de los partidos políticos o coaliciones, relacionados estrictamente con las etapas del proceso electoral, se exceptúa el aspecto administrativo y las demás que señale la Ley;
-
-X.- Distribuir entre los Miembros del Consejo Distrital, copias de los documentos recibidos de los Órganos Centrales del Instituto; y
-
-XI.- Las demás que le confiere el presente ordenamiento, la Ley Electoral, el Consejo General y la Junta General.
+Cuando al presentar al menor uno de los padres exhiba copia certificada del acta de matrimonio, se asentará el nombre del otro cónyuge como progenitor, aunque no comparezca, salvo sentencia judicial en contrario.
 
 ###### Artículo 68.
 
-Las Juntas Municipales y Distritales Ejecutivas, se integran por el Consejero Presidente quien fungirá como Vocal Ejecutivo, el Vocal Secretario del Consejo Distrital y, los Vocales Organización y de Capacitación; sesionarán por lo menos una vez al mes durante los procesos electorales y le serán aplicables, en lo conducente, los mismos lineamientos que esta Ley dispone para la Junta General.
-
-Las funciones del Vocal Ejecutivo, serán las siguientes:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. Presidir la Junta Municipal o Distrital Ejecutiva, según corresponda;
-
-II. Coordinar las vocalías y distribuir entre ellas los asuntos que les correspondan;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-III. Vigilar en su jurisdicción, que se ejecuten los programas de capacitación electoral, en su caso;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV. Verificar que se publique la integración y ubicación de las Mesas Directivas de Casilla, en los términos de la ley electoral, e informar de la publicación al Consejo Distrital, en su caso;
-
-V. Gestionar y, en su caso, proveer a las Vocalías, los elementos necesarios para el cumplimiento de las tareas encomendadas;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VI. Informar al Consejo Municipal o Distrital, según corresponda, sobre el desarrollo de sus actividades, y someter a consideración del mismo los asuntos de su competencia; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VII. Las demás que le confiere el Consejo General, el Consejo al que pertenezcan y la Ley.
+Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre y apellidos del padre o de la madre, cuando éstos lo reconozcan por si o por mandatario; siempre que se asiente el nombre de un progenitor, se incluirán los datos de los abuelos por la línea que corresponda.
 
 ###### Artículo 69.
 
-El Vocal Secretario de las Juntas Municipales y las Distritales Ejecutivas del Instituto, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. Auxiliar al Consejo Municipal o Distrital, y a su Presidente, en el ejercicio de sus atribuciones;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. Preparar el orden del día de las sesiones del Consejo Municipal o Distrital, declarar la existencia del quórum, dar fe de lo actuado, levantar el acta correspondiente y someterla a la aprobación del propio Consejo;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-III. Informar sobre el cumplimiento de los acuerdos del Consejo Municipal o Distrital;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV. Recibir, tramitar y turnar, los medios de impugnación que se interpongan en contra de los actos o resoluciones del Consejo Municipal o Distrital, en los términos que señala la Ley de Medios;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-V. Informar al Consejo Municipal o Distrital de las resoluciones dictadas por el Tribunal;
-
-VI. Expedir los documentos que acrediten la personalidad de los Consejeros y de los representantes de los partidos políticos y coaliciones;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VII. Certificar toda la documentación que obre en los archivos del Consejo Municipal o Distrital y la Junta Municipal o Distrital, según corresponda;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VIII. Llevar el archivo del Consejo Municipal o Distrital y remitirlo a la Junta General, al concluir el proceso electoral;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IX. Firmar, junto con el Consejero Presidente, los acuerdos y resoluciones que emita el Consejo Municipal o Distrital; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-X. Las demás que le sean conferidas por el presente ordenamiento, la Ley Electoral, la Ley de Medios, el Consejo General, la Junta General y el Presidente del Consejo Municipal o Distrital según corresponda.
+Cuando el menor sea presentado por persona distinta de los padres, se efectuará el registro sin otorgarle filiación, pero sí nombre y apellidos ficticios.
 
 ###### Artículo 70.
 
-El Vocal de Organización y el de Capacitación de las Juntas Ejecutivas Distritales de los Consejos Distritales del Instituto, tendrá las siguientes atribuciones:
+En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dichas notas se testarán de oficio por el encargado del Registro Civil.
 
-a).- Vocal de Capacitación:
-
-I. Realizar en el Distrito Electoral, las acciones para el cumplimiento de los programas de educación cívica, capacitación electoral y difusión de la cultura política y democrática, que hayan sido aprobadas por el Consejo General;
-
-II. Notificar y capacitar a los ciudadanos insaculados para ocupar los cargos de funcionarios de las Mesas Directivas de Casilla;
-
-III. Distribuir el material didáctico y los instructivos electorales aprobados por el Consejo General, a los ciudadanos insaculados para ocupar los cargos de funcionarios de las Mesas Directivas de Casilla;
-
-IV. Informar durante la etapa de preparación del proceso electoral al Consejo Distrital sobre los avances y resultados de la capacitación a los ciudadanos insaculados;
-
-V. Las demás que se le confiera.
-
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2009)</small>
-
-Los vocales de Organización y de Capacitación de las Juntas Municipales Ejecutivas tendrán las atribuciones que les confiera la Ley Electoral y los Consejos Municipales, siempre y cuando no invadan las conferidas a los de las Juntas Distritales Ejecutivas.
-
-b).- El Vocal de Organización:
-
-I. Auxiliar en el proceso de verificación de cumplimiento de requisitos legales, de la propuesta de ubicación de las Mesas Directivas de Casilla, y en su caso, realizar propuestas alternas al Consejo Distrital por conducto de su Presidente;
-
-II. Coadyuvar, en la entrega del material y documentación electoral, a los Presidentes de las Mesas Directivas de Casilla;
-
-III. Proponer rutas electorales; y
-
-IV. Las demás que se le confieran.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2022)</small>
 
 ###### Artículo 71.
 
-Las Mesas Directivas de Casilla, son Órganos Desconcentrados del Instituto, integrados por ciudadanos, que funcionarán durante la jornada electoral, para la recepción del voto y el escrutinio y cómputo de la votación recibida en las casillas.
+El nombre de las personas físicas se constituye con el nombre propio y los apellidos de los progenitores en el orden de prelación que ellos convengan.
 
-Las Mesas Directivas de Casilla, como autoridad electoral, tienen a su cargo durante la jornada electoral, respetar y hacer respetar la libre emisión y efectividad del sufragio, garantizar el secreto del voto, asegurar la autenticidad del escrutinio y cómputo, y las demás que le señale la Ley.
+El nombre propio no se constituirá con palabras denigrantes o números que afecten la dignidad del registrado.
 
 ###### Artículo 72.
 
-Las Mesas Directivas de Casilla se integrarán con un Presidente, un Secretario, dos escrutadores y tres suplentes generales, designados conforme al procedimiento señalado en esta Ley.
-
-Los ciudadanos que integren las Mesas Directivas de Casilla, deberán reunir los siguientes requisitos:
-
-I. Estar inscrito en el padrón electoral y contar con credencial para votar;
-
-II. Estar en pleno ejercicio de sus derechos políticos y civiles;
-
-III. Residir en la sección electoral respectiva;
-
-IV. No ser servidor público de confianza con mando superior, ni tener cargo de dirección partidista de cualquier jerarquía;
-
-V. No tener parentesco en línea directa consanguínea o colateral hasta el segundo grado con candidatos registrados en la elección de que se trate; y
-
-VI. Saber leer y escribir y no tener más de sesenta años al día de la elección.
+La madre tiene la obligación de reconocer a su hijo. Si al registrarse el nacimiento de un hijo extramatrimonial ésta no comparece, se dará vista al Ministerio Público para que inicie oficiosamente la investigación de la maternidad ante los tribunales.
 
 ###### Artículo 73.
 
-Los Consejos Distritales del Instituto, tomarán las medidas necesarias a fin de que los ciudadanos designados para integrar las Mesas Directivas de Casilla reciban, con la anticipación debida a la jornada electoral, la capacitación adecuada para el desempeño de sus funciones.
+Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro Civil, éste se trasladará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el acta.
 
 ###### Artículo 74.
 
-El procedimiento para la integración de las Mesas Directivas de Casilla, será el siguiente:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. Del 1º al 10 de abril del año de la elección, el Consejo General procederá a elegir por sorteo el mes que servirá de base para la insaculación de los integrantes de las Mesas Directivas de Casilla;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. Del 11 al 15 de abril del año de la elección, el Instituto en coordinación con el Registro Federal de Electores, y en presencia de los representantes de los partidos políticos o coaliciones que así lo deseen, procederán a extraer de las listas nominales de electores formuladas con corte al 31 de enero del año de la elección, a cuando menos un 10% de ciudadanos por cada sección electoral, sin que en ningún caso, el número de ciudadanos de insaculados sea menor a 50. En caso necesario, se seleccionará los nacidos en los meses siguientes hasta alcanzar el mínimo;
-
-III. El Consejo General verificará que los ciudadanos que resultaron sorteados cumplan con los requisitos que exige el presente ordenamiento, no pudiendo ser ciudadanos nacidos en el mismo mes con respecto a la insaculación del proceso local electoral inmediato anterior; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IV. Los Consejos Distritales notificarán del 16 al 30 de abril del año de la elección a los ciudadanos insaculados, y además, les impartirán un curso de capacitación a los que cumplan con los requisitos. Dicho curso contendrá los temas y la información que el Consejo General apruebe mediante el programa de capacitación y los materiales didácticos a utilizar.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2022)
 
 ###### Artículo 75.
 
-Durante el mes de abril del año de la elección, los Consejos Distritales procederán a una segunda insaculación, la cual se realizará de la siguiente forma:
-
-I. Se presentará a los integrantes del Consejo, un listado de los ciudadanos capacitados y que cumplan con los requisitos establecidos por este ordenamiento, siendo ordenado el listado de manera alfabética y por sección electoral;
-
-II. Se sorteará una letra, la cual deberá ser asentada en el acta de la sesión, a partir del primer ciudadano que su apellido paterno empiece con esta letra, se contará el número de integrantes de la Mesa Directiva de Casilla;
-
-III. Una vez obtenidos los nombres de los 7 ciudadanos, se organizarán por grado de escolaridad, atribuyéndole mayor responsabilidad a desempeñar en las casillas, a quienes tengan mayor escolaridad; y
-
-IV. Partiendo del orden de la lista organizada de mayor a menor escolaridad, se designarán los cargos a desempeñar empezando por los cuatro propietarios y posteriormente los tres suplentes generales.
-
-(REFORMADO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-Si aplicadas las medidas señaladas en las fracciones anteriores no fuesen suficientes los ciudadanos para cubrir todos los cargos, el Consejo Distrital procederá a obtener de la lista nominal, al menos el doble de los que hagan falta, partiendo de la misma letra sorteada y el mes subsecuente al utilizado en la primera insaculación, para que sean convocados, capacitados, evaluados y designados como funcionarios de las Mesas Directivas de Casilla. El Consejo General acordará los criterios para la aplicación de este último procedimiento.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoriada excluyendo la paternidad.
 
 ###### Artículo 76.
 
-Los Consejos Distritales del Instituto, notificarán personalmente a los integrantes de las Mesas Directivas de Casilla su nombramiento, les impartirán una nueva capacitación, a fin de fortalecer sus conocimientos para el buen desempeño de sus funciones.
+Los progenitores de un hijo incestuoso tienen derecho de que su nombre conste en el acta de nacimiento, pero en ella no se expresará esta circunstancia.
 
 ###### Artículo 77.
 
-Las Mesas Directivas de Casilla tendrán las siguientes atribuciones:
-
-I. Instalar y clausurar la Casilla en los términos que dispone la Ley Electoral;
-
-II. Recibir la votación de los electores;
-
-III. Efectuar el escrutinio y cómputo de la votación recibida en la casilla;
-
-IV. Permanecer en la casilla desde su instalación hasta su clausura;
-
-V. Llenar las actas correspondientes, de conformidad con la Ley Electoral;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VI. Integrar en los paquetes electorales, la documentación correspondiente a cada elección para entregarla en los plazos señalados por la Ley Electoral, al Consejo Municipal y Distrital, según corresponda; y
-
-VII. Las demás que les confiera esta Ley y la Ley Electoral.
+Todo persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado, deberá presentarlo ante el Agente del Ministerio Público de su jurisdicción, con los vestidos, valores o cualesquiera otros objetos encontrados con él, quién integrará la averiguación respectiva, mencionando en ella el nombre de la persona o de la institución que se hará cargo de su protección, solicitando al Oficial del Registro Civil que levante el acta de nacimiento.
 
 ###### Artículo 78.
 
-Los Presidentes de las Mesas Directivas de Casilla, tendrán las siguientes atribuciones:
+La misma obligación tienen los directores o administradores de establecimientos de reclusión, hospitales, casas de maternidad o cualquier institución de protección social, respecto a los menores nacidos o expuestos en ellos.
 
-I. Dirigir los trabajos de la Mesa Directiva de Casilla y vigilar el cumplimiento de las disposiciones de la Ley Electoral, sobre el funcionamiento de las Casillas;
-
-II. Recibir del Consejo Distrital, la documentación, formas aprobadas, útiles y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación;
-
-III. Identificar a los electores que se presenten a sufragar, con su credencial para votar, en los términos que señale la Ley;
-
-IV. Mantener el orden en el interior y en el exterior de la casilla, con auxilio de la fuerza pública si fuese necesario;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-V. Suspender la votación temporalmente en caso de alteración del orden, que se presenten condiciones que impidan la emisión libre y secreta del voto, o que atenten contra la seguridad personal de los electores, de los representantes de los partidos políticos o coaliciones, o de los miembros de la Mesa Directiva de Casilla, debiendo notificar de esta circunstancia al Consejo Municipal y Distrital que corresponda en su caso;
-
-VI. Retirar de la casilla a cualquier persona que incurra en alteración grave del orden o realice actos que lleven la intención manifiesta de retardar la votación o el escrutinio y cómputo, y asentar los hechos en las hojas de incidentes;
-
-VII. Supervisar el escrutinio y cómputo, con auxilio del Secretario y ante los representantes de los partidos políticos o coaliciones presentes;
-
-VIII. Fijar en lugar visible al exterior de la casilla los resultados del cómputo de cada una de las elecciones;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IX. Turnar oportunamente al Consejo Municipal y al Distrital, en su caso, los paquetes electorales y las copias de la documentación respectiva en los términos de la Ley Electoral;
-
-X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y (sic)
-
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
-
-XI. Identificar con su credencial para votar con fotografía y pertenecer al listado nominal, a los que estando en la fila se conviertan por ausencia de los insaculados en funcionarios de casilla; y
-
-XII. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 79.
 
-Los Secretarios de las Mesas Directivas de Casilla, tendrán las siguientes atribuciones:
+En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el medico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de el.
 
-I. Llenar las actas que correspondan y que ordene la Ley Electoral así como distribuirla en los términos que la misma establece;
-
-II. Contar el número de boletas electorales recibidas antes de iniciar la votación;
-
-III. Comprobar que el nombre del elector figure en la lista nominal correspondiente;
-
-(REFORMADA, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-IV. Recibir los escritos de protesta y de incidentes sin mediar discusión alguna que presenten los representantes de los partidos políticos y coaliciones, haciendo constar tal hecho en el apartado correspondiente del acta de la jornada electoral;
-
-V. Inutilizar las boletas sobrantes de conformidad con lo dispuesto por la Ley Electoral; y
-
-VI. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 80.
 
-Los escrutadores de las Mesas Directivas de Casilla, tendrán las siguientes atribuciones:
-
-I. Contar la cantidad de boletas depositadas en cada urna y cotejar con el número de electores de la lista nominal, los que ejercieron su derecho al voto;
-
-II. Contar el número de votos emitidos en favor de cada candidato, fórmula o planilla de cada partido político o coalición;
-
-III. Auxiliar al Presidente o al Secretario de las Mesas Directivas de Casilla, en las actividades que les encomienden; y
-
-IV. Las demás que les confiera el presente ordenamiento y la Ley Electoral.
+El acta de registro de un menor expósito solo podrá anularse en el caso de que, con posterioridad a su expedición, se conozca la filiación del menor y que esta sea declarada por la autoridad judicial competente, antes de que el menor fuere dado en adopción.
 
 ###### Artículo 81.
 
-Cada partido político o coalición con registro contará con un representante propietario y su respectivo suplente ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto, quienes concurrirán con voz pero sin voto.
-
-Los partidos políticos o coaliciones, que hubieren registrado a sus candidatos, fórmulas y planillas tendrán el derecho a nombrar representantes ante las Mesas Directivas de Casilla.
-
-Por cada casilla, los partidos políticos podrán nombrar hasta dos representantes propietarios y sus respectivos suplentes. Los suplentes únicamente podrán estar en las casillas cuando no estén los propietarios.
-
-En cada uno de los Distritos Electorales Uninominales, los partidos políticos o coaliciones, podrán nombrar un representante general propietarios por cada diez casillas Urbanas, y uno por cada cinco rurales, con sus respectivos suplentes.
-
-Sólo habrán representantes de partidos cuando éstos participen por sí solos en el proceso electoral, y de la coalición en caso de haberse autorizado, ante los Órganos del Instituto.
-
-(REFORMADO, P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
-
-Los representantes de los partidos o coaliciones ante las Mesas Directivas de Casilla, deberán contar con credencial electoral con fotografía y estar inscrito en el listado nominal de alguna sección perteneciente al Municipio donde se instale la Mesa Directiva de Casilla ante la cual se pretende acreditar. Los representantes generales, deberán pertenecer y estar inscritos en el listado nominal de alguna sección electoral del Municipio al que pertenezca una de las Mesas Directivas de Casilla ante las cuales se pretende acreditar.
+Se prohibe al Oficial del Registro Civil y a los testigos hacer inquisición directa o indirecta sobre la paternidad o maternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al menor, aunque parezcan sospechosas de falsedad, sin perjuicio de que sean castigadas conforme a las prescripciones del Código Penal.
 
 ###### Artículo 82.
 
-Los representantes de los partidos políticos deberán registrarse y obtener su acreditación ante el Consejo General, dentro de los nueve días anteriores del inicio del proceso electoral y podrán ser sustituidos en cualquier tiempo por el partido político que los registró mediante escrito presentado ante la autoridad electoral correspondiente.
+Si el nacimiento aconteciera durante un viaje por tierra dentro del territorio del Estado, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+Si el nacimiento ocurriere a bordo de una embarcación ó aeronave nacional, deberá estarse a las disposiciones relativas en el Código Civil para el Distrito Federal en Materia Común y para toda la República Mexicana en Materia Federal.
 
 ###### Artículo 83.
 
-Los partidos políticos y/o coaliciones deberán registrar en la Dirección de Partidos Políticos y obtener de ésta, la acreditación de sus representantes ante los Consejos Municipales y los Distritales del Instituto, a más tardar el día 31 de marzo del año de la elección.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-En este caso, los representantes de los partidos políticos y coaliciones, deberán presentar ante los Consejos Municipales y los Distritales del Instituto, la acreditación expedida por la Dirección de Partidos Políticos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+Si al dar aviso del nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de defunción.
 
 ###### Artículo 84.
 
-Los partidos políticos o coaliciones no tendrán representantes en los Consejos General, Municipales y Distritales y no formarán parte de los mismos, en el proceso electoral de que se trate, cuando:
+Cuando se trate de un parto múltiple, se levantará una acta por cada uno de los nacidos.
 
-I. El registro o acreditación de los representantes no se realice en los plazos y términos previstos en los Artículos anteriores; y
-
-II. El representante propietario, y en su caso, el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del Organo Electoral ante el cual se encuentran acreditados.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-En el caso de la fracción anterior a la primera falta, por conducto del Consejero Presidente del Consejo General, Municipal o Distrital, según corresponda, se requerirá al representante para que concurra a la siguiente sesión y se dará aviso al representante legal del partido político o coalición, a fin de que se compela a asistir a su representante. En todo caso, tratándose de los Consejos Municipales y los Distritales, informarán por escrito al Consejo General del Instituto, con el propósito de que se entere al Pleno de dicha situación.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-El Consejo General deberá emitir la resolución que corresponda y la comunicará al partido político o coalición. En los Consejos Municipales y los Distritales, cuando se acumulare la tercera inasistencia sin causa justificada, el Consejero Presidente solicitará al Consejo General que emita la resolución que amerite el caso.
-
-### Capítulo Primero. Del Consejo General
-
-###### Artículo 9.
-
-El Consejo General del Instituto es el Organo Superior de Dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, de promover la cultura política y democrática, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO III. De las actas de reconocimiento
 
 ###### Artículo 85.
 
-La Contraloría Interna del Instituto es la encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Consejo General, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+El acta de nacimiento surte efectos de reconocimiento del hijo, en relación a los progenitores que comparezcan y admitan este vínculo.
 
 ###### Artículo 86.
 
-El Titular de la Contraloría Interna del Instituto, deberá satisfacer los mismos requisitos que se exigen para ser Consejero Electoral del Consejo General; sus estudios deberán ser contabilidad, administración, economía y finanzas, o derecho.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Si el reconocimiento del hijo se hiciere después de haber sido registrado el nacimiento, se formará acta por separado y se hará la anotación correspondiente en la de nacimiento.
 
 ###### Artículo 87.
 
-El Contralor Interno del Instituto, será elegido por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, mediante el proceso establecido en el artículo 13 de la presente ley.
-
-El Contralor Interno del Instituto durará en su encargo seis años.
-
-La retribución del Contralor Interno será la misma que se señale para los Consejeros Electorales del Instituto.
-
-Sus ausencias temporales serán cubiertas por el servidor electoral, designado por el Consejo General, de entre los que le sigan en jerarquía.
-
-El Contralor Interno no podrá tener otro empleo, cargo o comisión, con excepción de aquéllos en que actúe en representación del órgano al que pertenece y del que desempeñe en asociaciones docentes, científicas, culturales, de investigación o de beneficencia, siempre y cuando no sea remunerado.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+Para el asentamiento de una acta de reconocimiento, es requisito indispensable que los interesados exhiban al Oficial del Registro Civil, copia certificada del acta de nacimiento de la persona reconocida.
 
 ###### Artículo 88.
 
-La Contraloría Interna del Instituto, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-I. Aprobar los contenidos del Programa Anual de Auditoría Interna del Instituto;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-II. Ordenar la ejecución y supervisión del Programa Anual de Auditoría Interna del Instituto;
-
-III. Autorizar los programas específicos de auditoría interna que practique;
-
-IV. Vigilar la correcta ejecución de cada una de las auditorías internas, estableciendo la extensión y profundidad que las mismas requieran;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-V. Requerir al servidor o funcionario electoral que corresponda, por sí o a través de su superior jerárquico, el cumplimiento de las observaciones, que con motivo de los resultados de la auditoría, se hayan formulado;
-
-VI. Aplicar, y en su caso, promover ante las instancias correspondientes las acciones administrativas y legales que deriven de los resultados de las auditorías;
-
-VII. Revisar en la ejecución de las auditorías internas, que el ejercicio del gasto se haya realizado de conformidad con las disposiciones legales, normas y lineamientos que regulan su ejercicio; que las operaciones financieras se registren contable y presupuestalmente en forma oportuna; la calidad de los controles administrativos para proteger el patrimonio institucional y evaluar desde el punto de vista programático las metas y objetivos de los programas a cargo del Instituto y, en su caso, determinar las desviaciones de los mismos y las causas que les dieron origen;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VIII. Recibir, investigar y emitir la resolución que conforme a la Ley proceda, respecto de las quejas y denuncias que se presenten en contra del Consejero Presidente, Consejeros Electorales y el Secretario General del Consejo General, integrantes de la Junta General, de los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como de los Vocales de las Juntas Municipales y Distritales Ejecutivas, de los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamentos y de todo funcionario o servidor del Instituto, en los términos de la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-IX. Establecer mecanismos para difundir la obligación de presentar ante la propia Contraloría Interna, la declaración de situación patrimonial por parte de los servidores y funcionarios del Instituto que estén obligados, de acuerdo con la normatividad que el propio titular de la Contraloría Interna expida y mande a publicar en el Periódico Oficial del Estado;
-
-X. Participar en los actos de entrega-recepción de los servidores electorales del Instituto de mandos medios y superiores, con motivo de su separación del cargo, en los términos de la normatividad aplicable;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XI. Remitir un informe a la sociedad, de periodicidad mensual, y uno global del ejercicio en el mes de enero, mismos que se difundirán en la página electrónica del Instituto;
-
-XII. Emitir observaciones y recomendaciones a los titulares de las áreas auditadas;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XIII. Remitir recomendaciones sobre las normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales, financieros y servicios, que elabore la Dirección de Administración. Las recomendaciones serán vinculatorias;
-
-XIV. Verificar el cumplimiento de la normatividad relativa a la adquisición de bienes y servicios;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XV. Determinar y aplicar las sanciones previstas en el artículo 91 de la presente Ley, así como expedir toda la normatividad inherentes a la función otorgada, debiéndose mandar a publicar en el Periódico Oficial del Estado; y
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-XVI. Las demás que le confiera la Ley.
+El acta de reconocimiento debe contener: lugar y fecha del reconocimiento; el nombre, apellidos, edad, fecha y lugar de nacimiento; domicilio, Clave Única del Registro de Población asignada y la huella dactilar del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los padres del reconocedor; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso; y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
 
 ###### Artículo 89.
 
-El Consejero Presidente, los Consejeros Electorales y el Secretario General del Consejo General, los integrantes de la Junta General, los Consejeros Presidente y Electorales de los Consejos Municipales y Distritales, así como los Vocales de las Juntas Municipales y Distritales Ejecutivas, los titulares de las Unidades Técnicas, los Directores, Subdirectores, los Jefes de Departamento y todo funcionario o servidor del Instituto, podrán ser sancionados en la forma, términos y por las causas de responsabilidad administrativa revistas en el presente capítulo y en las que se prevengan en el reglamento que al efecto expida la Contraloría Interna.
+Si el reconocimiento se hace con posterioridad al registro de nacimiento, además de lo dispuesto en el artículo anterior, es necesario que el acta contenga los siguientes requisitos:
 
-El Titular de la Contraloría Interna del Instituto sólo será sancionado por la Legislatura o la Diputación Permanente, en su caso. Podrá ser removido de su cargo con la misma votación que se necesitó para su nombramiento, cuando dejen de reunir alguno de los requisitos de elegibilidad, violente los principios rectores de su función o incurra en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento;
+
+II.- Si ya había sido reconocido previamente por uno de los progenitores, se requiere la comparecencia o el consentimiento de éste expresado por escrito y ante dos testigos;
+
+III.- Si el hijo es menor de edad, pero mayor de 14 años, se expresará su consentimiento y el de su tutor o la persona que lo tenga bajo su patria potestad; y
+
+IV.- Si el hijo es menor de 14 años, se expresará sólo el consentimiento del tutor o de quien lo tenga bajo su patria potestad.
 
 ###### Artículo 90.
 
-Son causas de responsabilidad de los servidores del Instituto las siguientes:
-
-I. Realizar conductas que atenten contra la autonomía del Instituto o de sus miembros y de los principios rectores en materia electoral, de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad;
-
-II. Aceptar o ejercer consignas, presiones o cualquier acción que implique subordinación ilegal, respecto de alguna autoridad, persona, partido político, coalición o agrupación política;
-
-III. Incurrir en faltas de probidad o descuido en el desempeño de las funciones o labores que deban realizar;
-
-IV. Difundir públicamente, y sin autorización, la información a la que tengan acceso por motivo de sus funciones;
-
-V. Dejar de desempeñar sin causa justificada las funciones que tengan a su cargo;
-
-VI. No observar las reglas de trato o respeto o incurrir en abuso de autoridad;
-
-VII. Observar falta de respeto e insubordinación a sus superiores o incumplir las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
-
-VIII. No se abstengan de desempeñar otro empleo, cargo o comisión oficial o particular que esta Ley prohibe;
-
-IX. No concurrir al desempeño de sus funciones; y
-
-X. Las demás que se deriven de la legislación electoral, disposiciones reglamentarias administrativas y estatutarias del propio Instituto.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del término de quince días al Oficial del Registro Civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Código.
 
 ###### Artículo 91.
 
-Las sanciones aplicables a las faltas administrativas contempladas en el Artículo anterior, consistirán en:
-
-I. Amonestación privada o pública;
-
-II. Suspensión de uno a quince días, sin goce de sueldo;
-
-III. Sanción económica;
-
-IV. Destitución del cargo; e
-
-V. Inhabilitación para ocupar un cargo en los Organos del Instituto.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho ante fedatario público, conforme a las disposiciones de este Código.
 
 ###### Artículo 92.
 
-Las sanciones previstas en las fracciones IV y V del artículo anterior, no le serán aplicables al Consejero Presidente y los Consejeros Electorales. Sin embargo, cuando se les aplique cualquier otra sanción, el titular de la Contraloría Interna del Instituto remitirá un duplicado del expediente a la Legislatura o a la Diputación Permanente, en su caso, para los fines a que haya lugar.
+Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia certificada de ésta al Oficial que haya registrado el nacimiento, para que haga la anotación en el acta respectiva.
 
-Las sanciones serán determinadas y aplicadas tomando en consideración la gravedad de la falta, la incidencia o reincidencia de la misma y el comportamiento del servidor o funcionario del Instituto durante el desempeño de sus funciones.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-### Capítulo Segundo. Del Consejero Presidente
+### CAPÍTULO IV. De las actas de adopción
 
 ###### Artículo 93.
 
-La Contraloría Interna del Instituto, de oficio, por denuncia o queja recibida, iniciará el procedimiento disciplinario para identificar, investigar y determinar las responsabilidades administrativas en que pudieran haber incurrido los servidores y funcionarios del Instituto.
+Dictada la resolución judicial definitiva que autorice la adopción, la autoridad judicial correspondiente, dentro del término de ocho días, remitirá copia certificada de la resolución al Oficial del Registro Civil respectivo, a fin de que levante el acta de adopción.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 94.
 
-Las denuncias o quejas que se formulen, deberán presentarse por escrito con los elementos probatorios para establecer la presunción de responsabilidad del servidor de que se trate.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta a la autoridad judicial, al Oficial del Registro Civil o a las personas adoptantes o adoptante, según el caso, a las sanciones que procedan por su negligencia.
 
 ###### Artículo 95.
 
-Para la determinación de las responsabilidades a que se refiere el presente capítulo, la Contraloría Interna del Instituto, deberá otorgarle al servidor o funcionario respectivo, la garantía de audiencia, corriéndole traslado del escrito de denuncia o queja, o bien del acta que contenga las razones por las que de oficio se haya iniciado el procedimiento, para que en el término de tres días hábiles manifieste lo que a su derecho corresponda, y ofrezca pruebas de descargo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 96.
 
-Al concluir el procedimiento a que se refiere el artículo anterior, la Contraloría Interna del Instituto, emitirá su resolución a fin de determinar si el servidor o funcionario incurrió o no en falta administrativa, y en su caso, determinar y aplicar las sanciones previstas en el presente capítulo. Contra la determinación de las sanciones no existirá ningún medio de impugnación interno.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+(DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
 ###### Artículo 97.
 
-El Instituto contará con servidores generales y de confianza. Por la naturaleza de sus nombramientos, el ejercicio del cargo y de las funciones que desempeñan, son servidores de confianza, los directores, titulares de las unidades técnicas, subdirectores, jefes de departamento, Consejeros y Vocales de los Consejos Distritales y a los que se les asigne ese carácter en el presente ordenamiento y en la demás normatividad correspondiente del Instituto.
+El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que al margen cancele el acta de adopción y anote la de nacimiento del adoptado.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 98.
 
-En el Reglamento Interno del Instituto, o en el estatuto correspondiente, en su caso, se regularán las relaciones laborales de éste con sus servidores generales y de confianza y deberán contemplarse las condiciones en que habrán de prestarse los servicios, así como los derechos y obligaciones de los servidores del Instituto, tomando en consideración la naturaleza de la materia electoral y los requerimientos de los procesos electorales de la entidad.
+En los casos de adopción, el Oficial del Registro Civil expedirá a las personas adoptantes o adoptante un acta de nacimiento en la que consten los datos previstos en el artículo 66, sin hacer mención del carácter adoptivo del vínculo paterno o materno-filial, mandando cancelar el acta de nacimiento original y que se guarde bajo secreto la resolución judicial, identificando este antecedente con el número del acta de nacimiento que se expida.
 
-### Capítulo Tercero. De la Junta General
+### CAPÍTULO V. De las actas de matrimonio
 
 ###### Artículo 99.
 
-Por razón de la independencia y autonomía legales que le corresponden al Instituto, como organismo público de naturaleza electoral que requiere de una jurisdicción especial, el Tribunal será competente para conocer y resolver las controversias laborales que se susciten entre el Instituto y sus servidores, sean estos de confianza o generales, con exclusión de cualquier otra instancia o autoridad jurisdiccional o administrativa de competencia local o federal.
+Las personas que pretendan contraer matrimonio, presentarán por escrito la solicitud al Oficial del Registro Civil del domicilio de cualquiera de ellos, en la forma que para tal efecto autorice la Coordinación Estatal del Registro Civil, en la que expresen:
+
+I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad, lugar y fecha de nacimiento, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha en que ésta ocurrió;
+
+II.- Que no tienen impedimento legal para casarse; y
+
+III.- Que es su voluntad unirse en matrimonio.
+
+Este escrito deberá ser firmado por los interesados; quienes deberán acreditar plenamente su identidad, y si alguno no pudiere o no supiere escribir, pondrá su huella dactilar y firmará a su ruego otra persona conocida, mayor de edad y vecina del lugar.
 
 ###### Artículo 100.
 
-El servidor del Instituto que se considere afectado en sus derechos laborales, podrá promover la controversia laboral, personalmente o por conducto de representante autorizado mediante escrito que presente directamente ante el Tribunal, dentro de los quince días hábiles siguientes a aquél en que se le haya notificado o tenga conocimiento del acto o resolución impugnada.
+Al escrito a que se refiere el artículo anterior, se acompañará:
+
+I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes o, en su defecto, un dictamen médico que compruebe la edad de ambos, cuando por su aspecto no sea notorio que ambos contrayentes son mayores de 18 años;
+
+II.- (DEROGADA, B.O. 30 DE JUNIO DE 2014)
+
+III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimentos legales para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+
+IV.- Los exámenes de laboratorio pertinentes donde se indique que los pretendientes no padecen sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa o hereditaria.
+
+Los laboratorios encargados de los servicios de sanidad de carácter oficial, tienen la obligación de expedir gratuitamente este certificado a los indigentes;
+
+V.- El convenio o capitulaciones que los pretendientes deben celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 30 DE JUNIO DE 2014)</small>
+
+No puede dejarse de presentar este convenio ni aun a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio y el Oficial del Registro Civil está obligado a asesorarlos e incluso a redactarlo a petición de los interesados. Si no expresan su voluntad en ningún sentido, se entenderá que se casan bajo el régimen de separación de bienes.
+
+Si fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura;
+
+VI.- Copia certificada del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+VII.- Copia certificada de la dispensa de impedimentos, si los hubo;
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+VIII.- Para el caso de matrimonio de mexicano con extranjero, copia de la autorización expedida por la Secretaría de Gobernación; y
+
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2010)</small>
+
+IX.- Constancia de haber recibido pláticas e información sobre violencia familiar, derechos y obligaciones del matrimonio; expedida por la Procuraduría de la Defensa del Menor y la Familia del Sistema DIF Municipal en coordinación con las Instituciones o Instancias adecuadas en dicha materia.
 
 ###### Artículo 101.
 
-La interposición, sustanciación y resolución de las controversias laborales, se sujetará a las disposiciones relativas contenidas en la Ley Orgánica del Tribunal Electoral de Quintana Roo y a lo que disponga la Ley de Medios, en su caso.
+El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos previstos en los artículos anteriores, fijará el lugar, fecha y hora para la celebración del matrimonio, dentro de los ocho días siguientes.
 
-## TRANSITORIOS
-
-Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo.- El Instituto Electoral de Quintana Roo, quedará instalado tan luego se nombren y rindan protesta su Consejero Presidente y los Consejeros Electorales; la designación de los mismos, habrá de realizarse a más tardar el 31 de Enero del año 2003.
-
-Artículo Tercero.- En consecuencia, el Organismo Público Autónomo denominado Consejo Estatal Electoral quedará extinguido, y desde luego, su Consejero Presidente y los Consejeros Electorales, Propietarios y Suplentes, concluirán en su encargo, una vez que se de cumplimiento a lo señalado en el Artículo anterior.
-
-Artículo Cuarto.- Se incorporará al patrimonio del Instituto Electoral de Quintana Roo, el presupuesto, la totalidad de bienes, archivos y personal del Consejo Estatal Electoral, quedando a salvo los derechos laborales de dicho personal. El Consejero Presidente del Instituto, tan luego que haya rendido la protesta de Ley, procederá a recibir el presupuesto, bienes, archivos y personal señalados; asimismo, adoptará las medidas necesarias para iniciar el buen funcionamiento del Instituto Electoral de Quintana Roo.
-
-Artículo Quinto.- Se derogan todas aquellas disposiciones que contravengan a la presente Ley.
-
-SALON DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS CATORCE DIAS DEL MES DE AGOSTO DEL AÑOS DOS MIL DOS.
-
-DIPUTADA PRESIDENTA:
-
-(EN FUNCIONES)
-
-GABRIELA M. RODRIGUEZ GALVEZ.
-
-DIPUTADO SECRETARIO:
-
-ELIZAMA BE CITUK.
-
-CON FUNDAMENTO EN LO DISPUESTO POR EL ARTICULO 91, FRACCION II DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NUMERO 10 EXPEDIDO POR LA HONORABLE X LEGISLATURA DEL ESTADO, A LOS CATORCE DÍAS DEL MES DE AGOSTO DEL AÑO 2002, LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTISEIS DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL DOS.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
-
-LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ.
-
-EL SECRETARIO DE GOBIERNO
-
-VÍCTOR M. ALCERRECA SANCHEZ
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 16 DE DICIEMBRE DE 2003.
-
-Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo.- El Consejero Presidente y los Consejeros Electorales Propietarios y Suplentes del Consejo General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios del Tribunal Electoral de Quintana Roo, que fueron electos el 31 de enero de 2003, durarán en su encargo seis años, contados a partir de esa propia fecha.
-
-Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan a la presente.
-
-P.O. 29 DE JUNIO DE 2007.
-
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 3 DE MARZO DE 2009.
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2014)</small>
 
 ###### Artículo 102.
 
@@ -1861,11 +733,7 @@ El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plen
 
 También podrá exigirse declaración bajo protesta a los testigos que los interesados presenten, a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado de sanidad.
 
-### Capítulo Cuarto
-
-Del Secretario General.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO VI. De las actas de divorcio
 
 ###### Artículo 118.
 
@@ -1883,9 +751,7 @@ El acta de divorcio expresará el nombre, apellido, edad, la Clave Única de Reg
 
 Extendida el acta, se anotarán en las de nacimiento y matrimonio de los divorciados, y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio, en el apéndice correspondiente.
 
-### Capítulo Quinto
-
-De las Funciones Ejecutivas del Secretario General.
+### CAPÍTULO VII. De las actas de defunción
 
 ###### Artículo 122.
 
@@ -1959,17 +825,13 @@ Cuando una autoridad judicial ordene la exhumación de un cadáver, y resulte qu
 
 Una vez levantada el acta de defunción, se mandará hacer la anotación marginal de esta circunstancia en las actas de nacimiento y matrimonio del fallecido.
 
-### Capítulo Sexto. De las Direcciones de Área del Instituto
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+### CAPÍTULO VIII. Anotación de la emancipación por matrimonio
 
 ###### Artículo 135.
 
 (DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
-### Capítulo Séptimo. De las Unidades Técnicas
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
+### CAPÍTULO IX. De la inscripción de las ejecutorias que declaran o modifican el estado civil o la pérdida o suspensión de los derechos de familia
 
 ###### Artículo 136.
 
@@ -1987,7 +849,7 @@ Tratándose de resoluciones judiciales dictadas en el extranjero que declaren o 
 
 Cuando se recobre la patria potestad, la capacidad para administrar bienes, se revoque la adopción o la tutela, se presente la persona declarada ausente o presuntamente muerta, se dará aviso al Oficial del Registro Civil por la autoridad judicial que corresponda para que cancele la inscripción a que se refiere el artículo 136.
 
-### Capítulo Primero. De los Consejos Distritales
+### CAPÍTULO X. De la nulidad, rectificación, modificación y reposición de las actas del Registro Civil
 
 ###### Artículo 140.
 
@@ -2123,11 +985,11 @@ El juicio de nulidad, reposición, rectificación o modificación de actas, se s
 
 La sentencia que cause ejecutoria en el juicio en que se impugnó una acta del Registro Civil, se comunicará al Oficial del Registro Civil que corresponda y éste hará una referencia de ello al margen del acta impugnada, sea que el fallo conceda o niegue la nulificación, la rectificación o la reposición.
 
-## TÍTULO QUINTO. DE LA CONTRALORÍA INTERNA Y DE LAS RESPONSABILIDADES
+## TÍTULO QUINTO. Del matrimonio
 
-### Capítulo Segundo. Del Consejero Presidente
+### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE JUNIO DE 2019)</small>
 
 ###### Artículo 150.
 
@@ -2189,9 +1051,9 @@ No obstante, si el matrimonio no se celebra, los prometidos tienen derecho a exi
 
 Tratándose de mexicanos que se casen en el extranjero, pero que tengan o fijen su residencia en el Estado de Baja California Sur, a los tres meses de su llegada al Estado, podrán solicitar que se transcriba el acta de matrimonio en el Registro Civil de su domicilio, para que éste tenga efectos retroactivos en la entidad, desde la fecha de su celebración, siempre que cubra los requisitos formales para su validez. Si se hace después, sólo tendrá efectos desde el día en que se hizo la transcripción.
 
-### Capítulo tercero. De las Juntas Distritales Ejecutivas
+### CAPÍTULO II. De los requisitos para contraer matrimonio
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2019)</small>
 
 ###### Artículo 157.
 
@@ -2217,9 +1079,7 @@ Para contraer matrimonio ambos contrayentes deben tener 18 años cumplidos.
 
 (DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
-### Capítulo Cuarto. De los Vocales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO III. De los impedimentos para contraer matrimonio
 
 ###### Artículo 163.
 
@@ -2239,7 +1099,9 @@ VI.- El adulterio judicialmente comprobado, habido entre las personas que preten
 
 VII.- El atentado contra la vida de uno de los cónyuges, para contraer matrimonio con el que quede viudo;
 
-VIII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
+VIII.- La violencia física o psicológica.
 
 IX.- La impotencia incurable para la cópula, salvo cuando exista por causa de la edad o cuando por otra diversa causa sea conocida por ambos contrayentes, el síndrome de inmunodeficiencia adquirida y cualquier otra enfermedad crónica e incurable, que sea, además, contagiosa o hereditaria;
 
@@ -2265,7 +1127,7 @@ El tutor no puede contraer matrimonio con la persona que está o ha estado bajo 
 
 Si se llegare a celebrar ilícitamente matrimonio en contravención de lo dispuesto en este artículo, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre, dando vista al Ministerio Público.
 
-### Capítulo Quinto. De las Mesas Directivas de Casilla
+### CAPÍTULO IV. De los derechos y obligaciones que nacen del matrimonio
 
 ###### Artículo 167.
 
@@ -2277,13 +1139,13 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada, s
 
 Los derechos y obligaciones que este Código otorga e impone a la pareja conyugal, serán siempre iguales para cada uno de sus miembros, independientemente de cuál sea su aportación económica al sostenimiento de la familia, por lo que de común acuerdo determinarán todo lo relativo al domicilio, trabajo de los cónyuges, atención y cuidado del hogar, educación, protección y espaciamiento de los hijos, así como sobre la administración y disposición de los bienes comunes y los que administren a los hijos.
 
-> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar, que se entiende como el uso de la violencia física o psicológica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra otro integrante de la misma.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar, entendiendo ésta como el uso de la violencia física, psicológica, emocional, patrimonial o económica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra otro integrante de la misma.
 
-> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-Para los efectos de este artículo, se consideran miembros de la familia a los cónyuges, concubinos, parientes consanguíneos en línea recta, ascendente o descendente, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+Para los efectos de este artículo, se consideran miembros de la familia a los cónyuges, concubinos, parientes consanguíneos en línea recta, ascendente o descendente, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima o fuera de ella.
 
 ###### Artículo 169.
 
@@ -2325,9 +1187,7 @@ El contrato de compraventa sólo puede celebrarse entre cónyuges, cuando el mat
 
 Durante el matrimonio, los cónyuges podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción no corre entre ellos mientras dure el vínculo.
 
-### Capítulo Único. De los Representantes ante los Organos del Instituto
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO V. Del contrato de matrimonio en relación con los bienes
 
 ###### Artículo 177.
 
@@ -2349,9 +1209,7 @@ Las capitulaciones matrimoniales, la modificación de éstas, o el cambio de ré
 
 (DEROGADO, B.O. 30 DE JUNIO DE 2014)
 
-### Capítulo Primero. De la Contraloría Interna
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO VI. De la sociedad conyugal
 
 ###### Artículo 181.
 
@@ -2441,9 +1299,7 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 No puede renunciarse anticipadamente a los gananciales que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a los gananciales que les correspondan.
 
-### Capítulo Segundo. De las Responsabilidades
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO VII. De la administración y suspensión de la sociedad conyugal
 
 ###### Artículo 192.
 
@@ -2473,7 +1329,7 @@ El abandono injustificado por más de seis meses del domicilio conyugal por uno 
 
 Cuando se solicite la suspensión legal de la sociedad conyugal, se procederá desde luego a formar inventario, especificando los bienes de la sociedad, así como las deudas o cargas que deban traerse a colación, aunque no se pida su liquidación.
 
-### Capítulo Único. Disposiciones Generales
+### CAPÍTULO VIII. De la liquidación de la sociedad conyugal
 
 ###### Artículo 198.
 
@@ -2633,9 +1489,11 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuese un tercero, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 230.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuese el otro cónyuge.
+Las donaciones antenupciales son revocables y se entienden revocadas por ingratitud por parte del donatario, cuando el donante fuese el otro cónyuge.
 
 ###### Artículo 231.
 
@@ -2717,7 +1575,7 @@ El parentesco por consanguinidad en línea colateral, en el tercero y cuarto gra
 
 ###### Artículo 246.
 
-La acción de nulidad que nace del adulterio habido entre las personas que hayan contraído matrimonio, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y por los ascendientes o descendientes o el Ministerio Público, si el matrimonio se ha disuelto por muerte del cónyuge ofendido. En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2022)
 
 ###### Artículo 247.
 
@@ -2839,7 +1697,7 @@ II.- Cuando se celebre sin que hayan transcurrido los términos fijados en los A
 
 Los que infrinjan lo dispuesto en el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, incurrirán en las penas que señale el Código de la materia.
 
-## TÍTULO SEXTO. DE LAS RELACIONES Y CONTROVERSIAS LABORALES
+## TÍTULO SEXTO. Del divorcio
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -3763,9 +2621,11 @@ IV.- A las demás funciones protectoras, afectivas y normativas derivadas de la 
 
 ### CAPÍTULO I. Disposiciones generales sobre la adopción
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 410.
 
-La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo del o de los adoptantes y a éstos, los deberes inherentes a la relación paterno-filial.
+La adopción es el estado jurídico mediante el cual se confiere al adoptado la situación de hijo o hija de las personas adoptantes o adoptante y a éstos, los deberes inherentes a la relación paterno o materno-filial.
 
 ###### Artículo 411.
 
@@ -3781,31 +2641,41 @@ II.- Que el consentimiento ha sido otorgado libremente y por escrito, sin que ha
 
 III.- Que el consentimiento de la madre, sea otorgado cuando menos diez días después del alumbramiento; y
 
-IV.- Que el adoptante o los adoptados, según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+IV.- Que las personas adoptantes o adoptante o los adoptados, según el caso, han recibido la debida asesoría y capacitación sobre los alcances psíquicos, afectivos y jurídicos que la adopción les implica.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 413.
 
-El adoptante tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo.
+Las personas adoptantes o adoptante, tendrá respecto de la persona y los bienes del menor o incapacitado, los mismos derechos y obligaciones que existen en el parentesco consanguíneo.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 414.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o incapacitados, aún cuando sean mayores de edad.
+La persona adoptante mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar a uno o más menores o incapacitados, aun cuando sean mayores de edad.
+
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 415.
 
-El adoptante deberá tener cuando menos diecisiete años más que el adoptado, pero el Juez podrá dispensar este requisito, cuando la adopción resulte benéfica para la persona que se trata de adoptar.
+La persona adoptante deberá tener cuando menos diecisiete años más que el adoptado, pero el Juez podrá dispensar este requisito, cuando la adopción resulte benéfica para la persona que se trata de adoptar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 416.
 
-El interesado debe solicitar la adopción en forma personal y directa, acreditando además:
+Las personas interesadas deben solicitar la adopción en forma personal y directa, acreditando además:
 
 I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o del incapacitado, como si se tratara de hijo propio, según las circunstancias y necesidades de la persona que se trata de adoptar;
 
 II.- Que la adopción es benéfica para éste;
 
-III.- Que el adoptante es persona de buenas costumbres, y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
+III.- Que las personas adoptantes o adoptante presenten estudios mediante los cuales garanticen que son psicológica y económicamente aptos para adoptar y garantizar una vida digna al menor adoptado, y
 
 IV.- Que goza de buena salud física y mental.
 
@@ -3815,9 +2685,11 @@ Estos dos últimos requisitos serán acreditados mediante un estudio especial, r
 
 Cuando se trate de hermanos o de cualquier otra circunstancia que lo aconseje, el Juez puede autorizar la adopción de dos o más menores o incapacitados.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 418.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, aunque sólo uno de los cónyuges cumpla con el requisito de ser mayor de veinticinco años de edad, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos.
+Los cónyuges podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo, aunque sólo uno de los cónyuges cumpla con el requisito de ser mayor de veinticinco años de edad, pero siempre y cuando la diferencia de edad entre cualquiera de las personas adoptantes y el adoptado sea de diecisiete años cuando menos.
 
 ###### Artículo 419.
 
@@ -3909,11 +2781,11 @@ El Juez que apruebe la adopción, remitirá copia de las diligencias respectivas
 
 ### CAPÍTULO III. De la adopción plena
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 438.
 
-La adopción crea entre los adoptantes y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea del adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
+La adopción crea entre las personas adoptantes o adoptante y el adoptado, los mismos derechos, obligaciones y parentesco que ligan a los padres con sus hijos biológicos, entrando los menores a formar parte de la familia consanguínea de las personas adoptantes o adoptante para todos los efectos legales, al tiempo que extingue el parentesco con la familia de origen.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -3921,11 +2793,11 @@ La adopción crea entre los adoptantes y el adoptado, los mismos derechos, oblig
 
 El adoptado se desvincula totalmente de su familia consanguínea, por lo que no le serán exigibles las obligaciones derivadas de este tipo de parentesco, ni tendrá derecho alguno respecto de esos mismos parientes, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 440.
 
-Sólo podrán adoptar los dos cónyuges que vivan juntos y que además de cumplir con los requisitos establecidos en los artículos 414, 415 y 416, tengan más de cinco años de c (sic)
+Sólo podrán adoptar los dos cónyuges que vivan juntos y que cumplan con los requisitos establecidos en los artículos 414, 415 y 416.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4023,11 +2895,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, cuando fueren mentalmente incapaces, cualquiera que sea su edad.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 ###### Artículo 458.
 
-El adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante.
+Las personas adoptantes o adoptante y el adoptado tienen el deber de darse alimentos, en los casos en que lo tienen el padre, la madre y los hijos biológicos, transmitiéndose esta obligación al adoptado y a la familia del adoptante.
 
 ###### Artículo 459.
 
@@ -4179,11 +3051,11 @@ Si faltare alguna de las dos personas a quienes corresponde ejercer la patria po
 
 A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestar y corregir, pero evitando los castigos crueles e innecesarios, la violencia física y psicológica.
 
-> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 485.
 
-Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, o que abusan de su derecho a corregir o ejerzan violencia intrafamiliar, promoverá la suspensión o pérdida de la patria potestad, en su caso.
+Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, a que abusan de su derecho a corregir o ejerzan violencia familiar, promoverá la suspensión o pérdida de la patria potestad, en su caso.
 
 ###### Artículo 486.
 
@@ -4315,9 +3187,9 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio necesario que lleven aparejada esta sanción;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia intrafamiliar, pudieran comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos;
+III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia familiar, pudieren comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -4557,9 +3429,11 @@ Deben observarse todas las reglas, limitaciones y condiciones puestas por el tes
 
 Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 ###### Artículo 546.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+Las personas adoptantes o adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo o hija adoptiva, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
 ### CAPÍTULO III. De la tutela legítima de los menores
 
@@ -16997,31 +15871,21 @@ TRANSITORIOS:
 
 > <small>(REFORMADO, B.O. 17 DE ENERO DE 1997)</small>
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+Este Código entrará en vigor el día 15 de Junio de 1997.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-La adecuación de la normatividad que resulte necesaria efectuar conforme a las disposiciones del presente Decreto, deberá realizarse a partir de la entrada en vigor del mismo.
+Desde esa misma fecha, quedan sin efecto las disposiciones del Código Civil del Distrito Federal vigentes hasta entonces por disposición expresa del artículo segundo transitorio de la Constitución Política del Estado de Baja California Sur.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2009)</small>
+###### ARTICULO TERCERO.
 
-###### ARTÍCULO TERCERO.
+Las disposiciones de este Código regirán los efectos jurídicos de los actos anteriores a su vigencia, si con su aplicación no se violan derechos adquiridos.
 
-La Primera elección del Consejero Presidente, en términos del Artículo 10 primer párrafo, se efectuará en la primera sesión que celebre el Consejo General en el mes de febrero del año que corresponda.
+###### ARTICULO CUARTO.
 
-###### ARTÍCULO CUARTO.
-
-Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
-
-P.O. 15 DE ABRIL DE 2009.
-
-PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
-
-P.O. 27 DE NOVIEMBRE DE 2009.
+Se abroga la Ley del Registro Civil del Estado de Baja California Sur, aprobada por el Congreso del Estado mediante el Decreto número 299, de fecha 11 de diciembre de 1981.
 
 ###### ARTICULO QUINTO.
 
@@ -17069,9 +15933,45 @@ Se derogan todos aquellos ordenamientos y disposiciones que se opongan el (sic) 
 
 B.O. 7 DE ENERO DE 2002.
 
-###### ARTÍCULO ÚNICO.
+###### ARTICULO UNICO
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 15 DE DICIEMBRE DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2006.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2006.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2008.
+
+DECRETO 1739, POR EL QUE SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 289 Y SE REFORMAN LOS ARTÍCULOS 289, EN SU FRACCIÓN VII, 302, 322 Y 481 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno (sic) Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+B.O. 31 DE MARZO DE 2008.
+
+DECRETO 1745, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2010.
+
+DECRETO 1844, POR EL QUE SE ADICIONAN Y REFORMAN LOS ARTÍCULOS 37, 278, 279, Y 281 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2010.
+
+DECRETO 1845, POR EL QUE SE REFORMA Y SE ADICIONA EL ARTÍCULO 100 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -17320,3 +16220,19 @@ B.O. 20 DE JULIO DE 2022.
 Primero.- El Presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2879 SE REFORMAN DIVERSOS NUMERALES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- La Dirección Estatal del Registro Civil contará con sesenta días hábiles a partir de la publicación del presente Decreto, a efecto de que realicen las adecuaciones conducentes a la reglamentación aplicable, en términos del presente Decreto, y dentro del mismo término, deberá realizar cursos de capacitación para su personal, a fin de garantizar el cumplimiento de las disposiciones que mediante el presente Decreto entran en vigor.
+
+B.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2883 SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 163, SEGUNDO PÁRRAFO DEL ARTÍCULO 168, 485, FRACCIÓN III DEL ARTÍCULO 507 Y EL ARTÍCULO 230; SE DEROGAN LOS ARTÍCULOS 74 Y 246 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
