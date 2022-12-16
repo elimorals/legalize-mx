@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2022-02-25"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE FEBRERO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -1125,455 +1123,307 @@ El pago de los derechos que establece el artículo anterior, deberá hacerse por
 
 ### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
 
-> <small>(REFORMADO, P.O. DE 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 56.
 
-Los Derechos por la prestación de los servicios del Estado, a través del Registro Público de la Propiedad y de Comercio, se causarán y pagarán de la forma siguiente:
+Los Derechos por los servicios que preste el Estado a través del Registro Público de la Propiedad y de Comercio, se causarán y pagarán de la forma siguiente:
 
-I.- Por la inscripción de actos contenidos en documentos relativos a actos de comercio, sociedades y personas morales mercantiles.
+I. Por la inscripción de actos contenidos en documentos relativos a actos de comercio, sociedades y personas morales mercantiles.
 
-Unidad de
+Concepto Unidades de Medida
 
-Medida y
+y Actualización
 
-Actualización
+1. Inscripción de Acta de sesión de consejo de administración 3.5
 
-1 Calificación o análisis jurídico de cualquier
+2. Inscripción de Asamblea 3.5
 
-documento que se presente para su inscripción
+3. Inscripción de Constitución de Sociedad mercantil 5
 
-y se niegue la misma, por no ser inscribible,
+4. Inscripción de Constitución/Modificación de Sociedad Microindustrial 5
 
-o se resuelva sin inscripción voluntaria del
+5. Inscripción de Depósito de firmas 3.5
 
-interesado o por resolución judicial 1
+6. Inscripción de Matriculación de Comerciante Individual 3
 
-2 Inscripción de Acta de sesión de consejo de
+7. Inscripción de Poder por Persona Moral o Representación 4
 
-administración 3.5
+8. Inscripción de Registro y/o Modificación de Sociedad Extranjera 5
 
-3 Inscripción de Asamblea 3.5
+9. Inscripción de Renuncia de Poderes de Comercio 4
 
-4 Inscripción de Constitución de Sociedad mercantil 5
+10. Inscripción de contrato de Arrendamiento Financiero
 
-5 Inscripción de Constitución/Modificación de
+(Inmueble)-Comercio 3
 
-Sociedad Microindustrial 5
+11. Inscripción de Cancelación de gravamen de comercio 2.5
 
-6 Inscripción de Depósito de firmas 3.5
+12. Inscripción de Convenio modificatorio de comercio 2.13
 
-7 Inscripción de Matriculación de Comerciante
-
-Individual 3
-
-8 Inscripción de Poder por Persona Moral o
-
-Representación 4
-
-9 Inscripción de Registro y/o Modificación de
-
-Sociedad Extranjera 5
-
-10 Inscripción de Renuncia de Poderes de
-
-Comercio 4
-
-11 Inscripción de contrato de Arrendamiento
-
-Financiero (Inmueble)-Comercio 3
-
-12 Inscripción de Cancelación de gravamen
-
-de comercio 2.5
-
-13 Inscripción de Convenio modificatorio de
-
-comercio 2.13
-
-14 Inscripción de Rectificación/Cancelación de
+13. Inscripción de Rectificación/Cancelación de
 
 Inscripciones/Anotaciones de Comercio 3
 
-15 Inscripción de Poder para otorgar o suscribir
+14. Inscripción de Poder para otorgar o suscribir Títulos de Crédito 4
 
-Títulos de Crédito 4
+15. Inscripción de Anotación por Orden Autoridad - Comercio 3
 
-16 Inscripción de Anotación por Orden
+16. Inscripción de Sentencia de Concurso Mercantil/Declaración
 
-Autoridad-Comercio 3
+de Quiebra 3
 
-17 Inscripción de Sentencia de Concurso
+17. Inscripción de Corredor Público 3
 
-Mercantil/Declaración de Quiebra 3
+18. Inscripción de Capitulaciones Matrimoniales - Comercio 3
 
-18 Inscripción de Corredor Público 3
+19. Inscripción de Nombramiento y cancelación de
 
-19 Inscripción de Capitulaciones
+Interventor - Comercio 3
 
-Matrimoniales-Comercio 3
+20. Inscripción de Cancelación de Anotación por orden
 
-20 Inscripción de Nombramiento y cancelación
+de autoridad - Comercio 3
 
-de Interventor-Comercio 3
+21. Inscripción de Toma de razón en el Registro Público de Comercio 3
 
-21 Inscripción de Cancelación de Anotación
+22. Inscripción de Subrogación de acreedor en créditos garantizados 4
 
-por orden de autoridad-Comercio 3
+23. Inscripción de Constitución de Sociedad por acciones simplificada 5
 
-22 Inscripción de Toma de razón en el Registro
+24. Inscripción de Modificación de Sociedad por acciones simplificada 5
 
-Público de Comercio 3
+25. Inscripción de Acuerdo de Disolución y liquidación en términos del
 
-23 Inscripción de Subrogación de acreedor
+artículo 249 Bis 1 fracción II de la Ley General de
 
-en créditos garantizados 4
+Sociedades Mercantiles 4
 
-24 Inscripción de Constitución de Sociedad
+26. Inscripción de Cancelación de folio en términos del artículo
 
-por acciones simplificada 5
+249 Bis 1 fracción VII de la Ley General de Sociedades Mercantiles 4
 
-25 Inscripción de Modificación de Sociedad
+27. Inscripción de Cancelación de Inscripción de comercio 4
 
-por acciones simplificada 5
+II. Por la inscripción de actos contenidos en documentos relativos a la propiedad, limitaciones o gravámenes de bienes inmuebles.
 
-26 Inscripción de Acuerdo de Disolución y
+Concepto Unidades de Medida
 
-liquidación en términos del artículo 249 Bis 1
+y Actualización
 
-fracción II de la Ley General de Sociedades
+1. Inscripción de Adjudicación por herencia 3
 
-Mercantiles 4
+2. Inscripción de Adjudicación por remate 3
 
-27 Inscripción de Cancelación de folio en
+3. Inscripción de Dación en pago 3
 
-términos del artículo 249 Bis 1 fracción VII de
+4. Inscripción de Disolución de copropiedad y aplicación de bienes 3
 
-la Ley General de Sociedades Mercantiles 4
+5. Inscripción de Disolución de sociedad conyugal 3
 
-28 Inscripción de Cancelación de Inscripción
+6. Inscripción de Decreto 3
 
-de comercio 4
+7. Inscripción de Fideicomiso en traslativo 3
 
-II.- Por la inscripción de actos contenidos en documentos relativos a la propiedad, limitaciones o gravámenes de bienes inmuebles.
+8. Inscripción de Fraccionamiento por lote 3
 
-Unidad de
+9. Inscripción de Fusión de predios 3
 
-Medida y
+10. Inscripción de Modificación/rectificación de medidas y colindancias 3
 
-Actualización
+11. Inscripción de Permuta 3
 
-1 Calificación o análisis jurídico de cualquier
+12. Inscripción de Prescripción positiva 3
 
-documento que se presente para su inscripción
+13. Inscripción de Información ad-perpetuam 3
 
-y se niegue la misma, por no ser inscribible,
-
-o se resuelva sin inscripción voluntaria del
-
-interesado o por resolución judicial 1
-
-2 Inscripción de Adjudicación por herencia 3
-
-3 Inscripción de Adjudicación por remate 3
-
-4 Inscripción de Dación en pago 3
-
-5 Inscripción de Disolución de copropiedad y
-
-aplicación de bienes 3
-
-6 Inscripción de Disolución de sociedad
-
-conyugal 3
-
-7 Inscripción de Decreto 3
-
-8 Inscripción de Fideicomiso en traslativo 3
-
-9 Inscripción de Fraccionamiento por lote 3
-
-10 Inscripción de Fusión de predios 3
-
-11 Inscripción de Modificación/rectificación
-
-de medidas y colindancias 3
-
-12 Inscripción de Permuta 3
-
-13 Inscripción de Prescripción positiva 3
-
-14 Inscripción de Información ad-perpetuam 3
-
-15 Inscripción de Acta aclaratoria, rectificación,
+14. Inscripción de Acta aclaratoria, rectificación,
 
 reposición y cancelación 3
 
-16 Inscripción de Subdivisión de predio 3
+15. Inscripción de Subdivisión de predio 3
 
-17 Inscripción de Traslativo de dominio,
+16. Inscripción de Traslativo de dominio, compraventa, donación 5
 
-compraventa, donación 5
+17. Inscripción de Anotación de embargo 3
 
-18 Inscripción de Anotación de embargo 3
+18. Inscripción de Arrendamiento Financiero 2.5
 
-19 Inscripción de Arrendamiento Financiero 2.5
+19. Inscripción de Cancelación de embargo por autoridad 2.5
 
-20 Inscripción de Cancelación de embargo
+20. Inscripción de Cancelación de gravamen 2.5
 
-por autoridad 2.5
+21. Inscripción de Cancelación de limitaciones de propiedad 2.5
 
-21 Inscripción de Cancelación de gravamen 2.5
+22. Inscripción de Cédula hipotecaria-Demanda de juicio hipotecario 3
 
-22 Inscripción de Cancelación de limitaciones
+23. Inscripción de Constitución de patrimonio familiar 3
 
-de propiedad 2.5
+24. Inscripción de Contrato de arrendamiento 3
 
-23 Inscripción de Cédula hipotecaria-Demanda
+25. Inscripción de Convenio modificatorio de gravamen 3
 
-de juicio hipotecario 3
+26. Inscripción de Gravamen 3
 
-24 Inscripción de Constitución de patrimonio
+27. Inscripción de Plan de Desarrollo Urbano 3
 
-familiar 3
+28. Inscripción de Promesa de compra venta 2.5
 
-25 Inscripción de Contrato de arrendamiento 3
+29. Inscripción de Servidumbre de paso 3
 
-26 Inscripción de Convenio modificatorio
+30. Inscripción de Anotación preventiva de demanda 3
 
-de gravamen 3
+31. Inscripción de Segundo Aviso Preventivo 2
 
-27 Inscripción de Gravamen 3
+32. Inscripción de Cancelación de anotación 2.5
 
-28 Inscripción de Plan de Desarrollo Urbano 3
+33. Inscripción de Declaración de herederos 2.5
 
-29 Inscripción de Promesa de compra venta 2.5
+34. Inscripción de Demanda de amparo 3
 
-30 Inscripción de Servidumbre de paso 3
+35. Inscripción de Fianza 3
 
-31 Inscripción de Anotación preventiva
+36. Inscripción de Cancelación de fianza 2.5
 
-de demanda 3
+37. Inscripción de Primer Aviso Preventivo 2.5
 
-32 Inscripción de Segundo Aviso Preventivo 2
+38. Inscripción de Fideicomiso de garantía y administración 2.5
 
-33 Inscripción de Cancelación de anotación 2.5
+39. Inscripción de Constitución de sociedad conyugal - capitulaciones
 
-34 Inscripción de Declaración de herederos 2.5
+matrimoniales 3
 
-35 Inscripción de Demanda de amparo 3
+40. Inscripción de Obra nueva 3
 
-36 Inscripción de Fianza 3
+41. Inscripción de Compraventa con Reserva de Dominio 3
 
-37 Inscripción de Cancelación de fianza 2.5
+42. Inscripción de Transmisión de propiedad y extinción total o parcial
 
-38 Inscripción de Primer Aviso Preventivo 2.5
+de fideicomiso 3
 
-39 Inscripción de Fideicomiso de garantía
+43. Inscripción de Anotación por orden judicial 3
 
-y administración 2.5
+44. Inscripción de Acta de Asamblea de Condóminos 3.5
 
-40 Inscripción de Constitución de sociedad
+45. Inscripción de Modificación al régimen de propiedad en Condominio 3.5
 
-conyugal-capitulaciones matrimoniales 3
+46. Inscripción de Comodato 3
 
-41 Inscripción de Anotación de resolución de
+47. Inscripción de Poder a persona física 4
 
-sobreseimiento 0
+48. Inscripción de Modificación de Fideicomiso 3.5
 
-42 Inscripción de Anotación de sentencia
+49. Inscripción de Anotación Marginal 3
 
-definitiva de amparo 0
+50. Inscripción de Cancelación de Fideicomiso 3
 
-43 Inscripción de Interlocutoria en el incidente
+51. Inscripción de Cancelación de Anotación Marginal 3
 
-de suspensión definitiva 0
+52. Inscripción de Cancelación de comodato 3
 
-44 Inscripción de Obra nueva 3
+53. Inscripción de Cancelación de arrendamiento financiero 3
 
-45 Inscripción de Compraventa con Reserva
+54. Inscripción de Reversión de propiedad 3
 
-de Dominio 3
+55. Inscripción de Créditos y traslativos otorgados para adquisición o
 
-46 Inscripción de Suspensión provisional
+construcción de vivienda de interés social o popular 4
 
-de amparo 0
+III. Por la inscripción de actos contenidos en documentos relativos a (Sociedades o
 
-47 Inscripción de Transmisión de propiedad y
+asociaciones) personas morales civiles.
 
-extinción total o parcial de fideicomiso 3
+Concepto Unidades de Medida
 
-48 Inscripción de Anotación por orden judicial 3
+y Actualización
 
-49 Inscripción de Acta de Asamblea de
+1. Inscripción de Inscripción de asamblea de sociedad civil 3.5
 
-Condóminos 3.5
+2. Inscripción de Inscripción de sociedad civil 5
 
-50 Inscripción de Modificación al régimen de
+3. Inscripción de Poder por Persona Moral 4
 
-propiedad en Condominio 3.5
+4. Inscripción de Anotación por Orden Judicial 3
 
-51 Inscripción de Título de Propiedad 0
+5. Inscripción de Cancelación de Anotación Judicial 3
 
-52 Inscripción de Comodato 3
+6. Inscripción de Rectificación y Reposición de Inscripciones 3
 
-53 Inscripción de Poder a persona física 4
+7. Inscripción de Registro de Estatutos de Persona Moral Extranjera 3
 
-54 Inscripción de Modificación de Fideicomiso 3.5
+8. Inscripción de Renuncia de Cargo 3
 
-55 Inscripción de Anotación Marginal 3
+9. Inscripción de Anotación de Litigio 3
 
-56 Inscripción de Cancelación de Fideicomiso 3
+IV. Por la expedición de documentos correspondientes a copias simples, copias certificadas, certificados consultas de folio, búsquedas, inscripciones, calificaciones, registros de firma y sello y demás documentos no especificados:
 
-57 Inscripción de Cancelación de Anotación
+Concepto Unidad de Medida
 
-Marginal 3
+y Actualización
 
-58 Inscripción de Cancelación de comodato 3
+1. Expedición de Certificado de existencia o inexistencia de
 
-59 Inscripción de Cancelación de
+gravamen de comercio 2
 
-arrendamiento financiero 3
+2. Expedición de Certificado de Inscripción de comercio 2
 
-60 Inscripción de Reversión de propiedad 3
+3. Expedición de Certificado de inscripción con historial registral
 
-61 Inscripción de Créditos y traslativos
+de comercio 2.5
 
-otorgados para adquisición o construcción
-
-de vivienda de interés social o popular 4
-
-III.- Por la inscripción de actos contenidos en documentos relativos a (Sociedades o asociaciones) personas morales civiles.
-
-Unidad de
-
-Medida y
-
-Actualización
-
-1 Calificación o análisis jurídico de cualquier
-
-documento que se presente para su inscripción
-
-y se niegue la misma, por no ser inscribible,
-
-o se resuelva sin inscripción voluntaria del
-
-interesado o por resolución judicial 1
-
-2 Inscripción de Inscripción de asamblea de
-
-sociedad civil 3.5
-
-3 Inscripción de Inscripción de sociedad civil 5
-
-4 Inscripción de Poder por Persona Moral 4
-
-5 Inscripción de Anotación por Orden Judicial 3
-
-6 Inscripción de Cancelación de Anotación
-
-Judicial 3
-
-7 Inscripción de Rectificación y Reposición
-
-de Inscripciones 3
-
-8 Inscripción de Registro de Estatutos de Persona
-
-Moral Extranjera 3
-
-9 Inscripción de Renuncia de Cargo 3
-
-10 Inscripción de Anotación de Litigio 3
-
-IV.- Por la expedición de documentos correspondientes a copias simples, copias certificadas, certificados consultas de folio, búsquedas, inscripciones, calificaciones, registros de firma y sello y demás documentos no especificados:
-
-Unidad de
-
-Medida y
-
-Actualización
-
-1 Expedición de Certificado de existencia o
-
-inexistencia de gravamen de Comercio 2
-
-2 Expedición de Certificado de Inscripción
+4. Expedición de Certificado de no inscripción en oficina registral
 
 de comercio 2
 
-3 Expedición de Certificado de inscripción con
+5. Expedición de Copia certificada de comercio 2 .5
 
-historial registral de comercio 2
+6. Expedición de Copia simple de comercio 1.5
 
-4 Expedición de Certificado de no inscripción
+7. Consulta de folio mercantil electrónico 2
 
-en oficina registral de Comercio 2
+8. Consulta o Búsqueda de sociedad mercantil o socios (oficios) 6
 
-5 Expedición de Copia certificada de comercio 2
+9. Expedición de Certificado de inscripción con historial
 
-6 Expedición de Copia simple de comercio 1.5
+registral - propiedades (tracto sucesivo). 3
 
-7 Consulta de folio mercantil electrónico 2
+10. Expedición de Copia certificada de propiedades 2.5
 
-8 Consulta o Búsqueda de sociedad mercantil o
+11. Búsqueda/Consulta de folio real electrónico o libro físico
 
-socios (oficios) 6
+proporcionando datos registrales o folio real 3
 
-9 Expedición de Certificado de inscripción con
+12. Consulta o Búsqueda de propiedades (por nombre, dirección
 
-historial registral-propiedades (tracto sucesivo) 2
+o datos parciales) 6
 
-10 Expedición de Copia certificada de
+13. Expedición de certificado negativo de propiedad 2
 
-propiedades 2
+14. Expedición de certificado de única propiedad 2
 
-11 Búsqueda/Consulta de folio real electrónico
+15. Expedición de certificado de existencia o inexistencia de
 
-o libro físico proporcionando datos registrales o
+gravámenes con descripción de medidas y colindancias 2.5
 
-folio real 3
+16. Inscripción de aviso de testamento 1.5
 
-12 Consulta o Búsqueda de propiedades (por
+17. Búsqueda aviso de testamento 1.5
 
-nombre, dirección o datos parciales) 6
+18. Expedición de Copia certificada de sociedades civiles 2
 
-13 Expedición de certificado negativo de
+19. Expedición de Certificado de no inscripción de Sociedad civil 2
 
-propiedad 2
+20. Inscripción de sociedad civil de convivencia 5
 
-14 Expedición de certificado de única
+21. Expedición de Certificado de gravamen de sociedad rural 2
 
-propiedad 2
+22. Documento no especificado 3
 
-15 Expedición de certificado de existencia o
+23. Registro de Firma y sello de fedatario 1
 
-inexistencia de gravámenes con descripción de
+24. Expedición de Certificado negativo de inscripción 2
 
-medidas y colindancias 2.5
-
-16 Inscripción de aviso de testamento 1.5
-
-17 Búsqueda aviso de testamento 1.5
-
-18 Expedición de Copia certificada de
-
-sociedades civiles 2
-
-19 Expedición de Certificado de no inscripción
-
-de Sociedad civil 2
-
-20 Inscripción de sociedad civil de convivencia 5
-
-21 Expedición de Certificado de gravamen de
-
-sociedad rural 2
-
-22 Documento no especificado 3
-
-23 Registro de Firma y sello de fedatario 1
+25. Por alerta inmobiliaria de 12 meses 5
 
 ### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
@@ -3780,3 +3630,15 @@ P.O. 16 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMA EL ARTÍCULO 56 DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el 1 de enero de 2023, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
