@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2022-10-14"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -879,9 +879,9 @@ IX. Verificar que los programas, estrategias, acciones, políticas y servicios q
 
 X. Evaluar el cumplimiento de las políticas, estrategias y acciones establecidas por el sistema nacional de seguridad pública en los términos de ley;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
-XI. Desarrollar, implantar, y evaluar, en corresponsabilidad con otras instituciones, la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas;
+XI. Desarrollar, implantar, y evaluar, en corresponsabilidad con otras instituciones, la política en materia de prevención social del delito, con carácter integral, e implementar la política criminal en el ámbito estatal, sobre las causas que generan la comisión de delitos y conductas antisociales; así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que conduzcan al respeto a la legalidad y a la protección de las víctimas, dicha política de prevención brindará atención prioritaria a las zonas con altos índices de marginación social y alta incidencia delictiva;
 
 XII. Elaborar y publicar informes de actividades del Consejo Estatal;
 
@@ -2269,7 +2269,9 @@ Como organismos auxiliares de seguridad pública con participación ciudadana, s
 
 Para mejorar el servicio de seguridad pública, el Centro Estatal y las instancias de coordinación que prevé esta Ley, promoverán la participación de la comunidad, y tendrán como objetivo actuar sobre las causas que originan la violencia y la delincuencia, a través de las siguientes acciones que se señalan de modo enunciativo y no limitativo:
 
-I. Planear, programar, implementar y evaluar políticas públicas, programas y acciones en prevención social de la violencia y la delincuencia, con participación ciudadana;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+I. Planear, programar, implementar y evaluar políticas públicas, programas y acciones en prevención social de la violencia y la delincuencia, con participación ciudadana, y con atención prioritaria a las zonas con altos índices de marginación social y alta incidencia delictiva;
 
 II. Proponer al Consejo Estatal lineamientos de prevención social;
 
@@ -3166,5 +3168,13 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0415.- SE ADICIONA AL TÍTULO DÉCIMO SEXTO, EL ARTÍCULO 175 BIS, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0563.- SE REFORMAN LOS ARTÍCULOS 46 EN SU FRACCIÓN XI Y 143 EN SU FRACCIÓN I, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
