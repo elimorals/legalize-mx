@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2021-12-27"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -177,9 +177,11 @@ Cuando los usuarios convengan en recibir la prestación de servicios de hospedaj
 
 Tratándose de los servicios de hospedaje prestados por las marinas turísticas, se considerará como base de este impuesto el 20% del total de sus ingresos, por atraque de embarcaciones y/o renta de muelles.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 16.
 
-El impuesto se calculará aplicando la tasa del 3% a la base gravable establecida en el Artículo anterior.
+El impuesto se calculará aplicando la tasa del 4% a la base gravable establecida en el artículo anterior.
 
 ###### Artículo 17.
 
@@ -187,21 +189,41 @@ El contribuyente trasladará el impuesto en forma expresa y por separado a las p
 
 Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a las personas a quienes preste los servicios gravados, de un monto equivalente al impuesto establecido en este ordenamiento.
 
-> <small>(REFORMADO, B.O. 23 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-Los ingresos recaudados por este Impuesto en cada uno de los municipios se distribuirán de la manera siguiente:
+Los ingresos recaudados por este Impuesto se distribuirán conforme a la siguiente:
 
-I. El 80% para su promoción turística nacional e internacional, en las acciones que determine el Comité Técnico del Fideicomiso constituido para la administración de los recursos recaudados por el impuesto a que se refiere el presente Capítulo.
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-II. (DEROGADA, B.O. 23 DE ENERO DE 2012)
+I. Los ingresos que correspondan a tres puntos porcentuales de la tasa referida en el artículo 16 de la presente ley, serán repartidos de la siguiente manera:
 
-III. El 17.5% de la recaudación en el Estado se destinará para la promoción turística de todo el Estado en general, a nivel nacional e internacional. Estos recursos serán administrados por el Fideicomiso de Turismo Estatal.
+a) El 80 por ciento de los ingresos recaudados en cada municipio será transferido por la Secretaría de Finanzas y Administración del Gobierno del Estado a los correspondientes Fideicomisos Estatales constituidos en cada municipio, para ser destinados a su promoción turística nacional e internacional, conforme a las acciones que determinen los comités técnicos de los referidos fideicomisos;
 
-IV. El 2.5% de la recaudación en el Estado para los gastos originados con motivo de la administración del Impuesto sobre la Prestación de Servicios de Hospedaje.
+b) El 17.5 por ciento de los ingresos recaudados en cada municipio será (sic) transferidos por la Secretaría de Finanzas y Administración del Gobierno del Estado al Fideicomiso de Turismo Estatal, para ser destinados a la promoción turística de todo el Estado a nivel nacional e internacional, conforme a las acciones que determine su comité técnico; y
 
-En el supuesto de que quedaren remanentes una vez cubiertos los gastos de administración, estos recursos deberán destinarse sin mayor trámite a los fines y en la proporción previstos en las Fracciones I y III de este Artículo.
+c) El 2.5 por ciento de los ingresos recaudados en todo el Estado serán ejercidos por la Secretaría de Finanzas y Administración del Gobierno del Estado para cubrir los gastos originados con motivo de la administración del impuesto sobre hospedaje.
+
+> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
+II. Los ingresos que correspondan a un punto porcentual de la tasa referida en el artículo 16 de la presente ley, serán transferidos directamente por la Secretaría de Finanzas y Administración del Gobierno del Estado al patrimonio de los Fideicomisos para Obras de Infraestructura Social (FOIS) señalados en la fracción II del artículo 40 de esta ley, para ser destinados a obras de infraestructura social conforme a los siguientes porcentajes:
+
+a) El 60 por ciento de los ingresos se transferirá al Fideicomiso de Obras de Infraestructura Social constituido en aquel municipio en el que se haya obtenido el mayor porcentaje de recaudación del impuesto al hospedaje, en el año anterior disponible;
+
+b) El 40 por ciento restante se repartirá en partes iguales a los Fideicomisos de Obras de Infraestructura Social constituidos en cada uno de los demás municipios del Estado.
+
+III. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2022)
+
+IV. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2022)
+
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
+En caso de obtenerse ingresos excedentes por este impuesto, un punto porcentual de la tasa prevista en el artículo 16, deberá distribuirse en términos de la fracción II del presente artículo; y los ingresos excedentes por este impuesto relativos a los tres puntos porcentuales restantes de la tasa establecida en el artículo citado, deberán distribuirse de la siguiente manera:
+
+a) El 50 por ciento al Fondo de Contingencia Estatal para realizar acciones preventivas o atender daños ocasionados por desastre naturales; y
+
+b) El 50 por ciento restante se aportará a los Fideicomisos de Turismo, de acuerdo con los porcentajes establecidos en los incisos a) y b) de la fracción I del presente artículo.
 
 ###### Artículo 19.
 
@@ -1336,3 +1358,19 @@ PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2022, previa s
 SEGUNDO.- A partir de la aprobación del presente Decreto y hasta antes de la entrada en vigor del mismo, el Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado de Baja California Sur, deberán llevar a cabo la actualización de las Reglas de Carácter General a que hace referencia el último párrafo del artículo 129 Bis del presente Decreto
 
 TERCERO.- Se derogan las disposiciones normativas que se opongan a lo establecido en el presente Decreto.
+
+B.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2884 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 01 de enero del año 2023, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur, salvo lo dispuesto en el artículo transitorio siguiente que entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Sin menoscabo de lo previsto en el artículo transitorio primero, el Titular del Poder Ejecutivo del Estado de Baja California Sur, por conducto de la Secretaría de Finanzas y Administración del Gobierno del Estado, realizará la adecuación y armonización de todas las disposiciones jurídicas de carácter administrativo que guarden relación con la materia del presente Decreto, particularmente las relativas a los contratos de los fideicomisos de administración, inversión y fuente de pago para obras de infraestructura social, constituidos en cada municipio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
