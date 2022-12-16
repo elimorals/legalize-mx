@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2022-11-08"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -795,7 +795,9 @@ X. Estacionamientos públicos;
 
 XI. Jardines de niños, guarderías, dispensarios, consultorios y capillas de velación;
 
-XII. Lienzos charros, circos o ferias eventuales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+XII. Lienzos charros, circos, ferias eventuales y fiestas patronales;
 
 XIII. Instalaciones de electricidad y alumbrado público;
 
@@ -821,9 +823,9 @@ XXIII. Edificios para estacionamientos de vehículos;
 
 XXIV. Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
-XXV. Áreas o inmuebles en los que se lleven a cabo actos públicos de manera extraordinaria, en los que deberá además contarse con un programa especial, a fin de establecer medidas de prevención y reacción;
+XXV. Áreas o inmuebles en los que se lleven a cabo actos públicos de manera extraordinaria, en los que deberá además contarse con un programa especial o específico, a fin de establecer medidas de prevención y reacción de preferencia con las autoridades de seguridad pública estatal y municipal a quienes se les citará;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2018)</small>
 
@@ -881,7 +883,9 @@ VI. Las demás que en materia de protección civil determinen las disposiciones 
 
 Cuando se apliquen las medidas de seguridad previstas se precisará su temporalidad y, en su caso, las acciones para su suspensión.
 
-Previo a la realización de eventos públicos y en espacios de concentración masiva, deberán elaborarse programas especiales o programas específicos de protección civil, los que deberán ser aprobados por las autoridades en materia de protección civil a que se refiere esta Ley, con la anticipación al evento mismo. Las principales medidas preventivas y de reacción de cada programa, deberán ser difundidas con oportunidad y claridad al público participante, por parte del organizador, antes del evento, o a más tardar al inicio del mismo.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+Previo a la realización de eventos públicos y de concentración masiva, deberán elaborarse programas especiales o específicos de protección civil, sujetos al aforo del evento. Mismos que deberán ser entregados con la antelación debida a las autoridades en materia de protección civil, para su aprobación y coordinación con las instancias necesarias a que se refiere esta Ley. Las principales medidas preventivas y de reacción de cada programa, deberán ser difundidas por parte del organizador de manera clara y oportuna al público participante, mediante los medios de comunicación o digitales que tengan mayor alcance para los asistentes. La difusión se realizará en dos fases: la primera con una anticipación de tres días previos a la realización del evento; y la segunda al inicio del mismo.
 
 Así mismo, las coordinaciones a que se refiere este artículo, podrán promover ante las autoridades competentes, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
 
@@ -893,9 +897,13 @@ Son conductas sancionables:
 
 I. Omitir permanentemente en los establecimientos que por su propia naturaleza, o por el uso al que estén destinados y que reciban una afluencia constante o masiva de personas, el programa específico de protección civil autorizado y supervisado por la Coordinación Estatal;
 
-II. Omitir, los propietarios o responsables de inmuebles en donde se realicen eventos masivos, en coordinación con las autoridades de protección civil, prácticas o simulacros que permitan orientar y auxiliar a la concurrencia en casos de emergencia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
-III. No permitir el acceso de personal autorizado de la Coordinación Estatal o municipal, para inspeccionar inmuebles, instalaciones y equipos, y
+II. Omitir, los propietarios o responsables de inmuebles en donde se realicen eventos masivos, en coordinación con las autoridades de protección civil, prácticas o simulacros que permitan orientar y auxiliar a los asistentes en casos de emergencia;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+III. No permitir el acceso del personal autorizado por parte de la Coordinación Estatal o municipal, para inspeccionar inmuebles, instalaciones y equipos, y
 
 IV. Incumplir disposiciones emitidas por la Coordinación Estatal o municipal.
 
@@ -905,11 +913,13 @@ Las conductas descritas en el artículo anterior serán sancionadas con:
 
 I. Amonestación;
 
-II. Clausura temporal o definitiva, total o parcial de los establecimientos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+II. Clausura temporal o definitiva, total o parcial de los establecimientos o eventos;
 
-III. Multa equivalente al monto de cincuenta a mil días de la unidad de medida y actualización vigente donde se cometió la infracción;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+III. Multa equivalente al monto de cincuenta a mil quinientos (sic) unidades de medida y actualización vigente en la zona donde se cometió la infracción;
 
 IV. Suspensión de obras, instalaciones o servicios, y
 
@@ -924,6 +934,12 @@ En caso de reincidir en las conductas a que alude el artículo que precede, ser�
 ###### ARTÍCULO 68.
 
 Los actos o resoluciones que dicten o ejecuten las autoridades en materia de protección civil con apoyo en la presente Ley, podrán impugnarse mediante el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 69.
+
+Cuando las autoridades, funcionarios en materia de protección civil, y el personal autorizado por las coordinaciones Estatal o municipales incumplan las obligaciones a su cargo, con independencia de las sanciones penales que procedan, se les instaurará procedimiento de responsabilidad de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -1058,6 +1074,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0417.- SE REFORMA EL ARTÍCULO 6º EN SU FRACCIÓN XVIII, DE LA LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO; SE ADICIONA AL ARTÍCULO 62, EL PÁRRAFO ÚLTIMO, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0562.- SE REFORMAN LOS ARTÍCULOS 62 EN SUS FRACCIONES XII Y XXV, 65 EN SU PÁRRAFO PENÚLTIMO, 66 EN SUS FRACCIONES II Y III Y 67 EN SUS FRACCIONES II Y III; Y ADICIONA EL ARTÍCULO 69, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
