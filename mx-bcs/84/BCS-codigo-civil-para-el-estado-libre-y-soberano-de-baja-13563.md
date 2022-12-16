@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2022-11-30"
+last_updated: "2022-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2022.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -463,7 +463,7 @@ Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solici
 
 ###### Artículo 74.
 
-Si el hijo fuere adulterino, podrá asentarse en el acta de nacimiento el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que desconozca la paternidad.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2022)
 
 ###### Artículo 75.
 
@@ -1099,7 +1099,9 @@ VI.- El adulterio judicialmente comprobado, habido entre las personas que preten
 
 VII.- El atentado contra la vida de uno de los cónyuges, para contraer matrimonio con el que quede viudo;
 
-VIII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
+VIII.- La violencia física o psicológica.
 
 IX.- La impotencia incurable para la cópula, salvo cuando exista por causa de la edad o cuando por otra diversa causa sea conocida por ambos contrayentes, el síndrome de inmunodeficiencia adquirida y cualquier otra enfermedad crónica e incurable, que sea, además, contagiosa o hereditaria;
 
@@ -1137,13 +1139,13 @@ Toda persona tiene derecho a decidir de manera libre, responsable e informada, s
 
 Los derechos y obligaciones que este Código otorga e impone a la pareja conyugal, serán siempre iguales para cada uno de sus miembros, independientemente de cuál sea su aportación económica al sostenimiento de la familia, por lo que de común acuerdo determinarán todo lo relativo al domicilio, trabajo de los cónyuges, atención y cuidado del hogar, educación, protección y espaciamiento de los hijos, así como sobre la administración y disposición de los bienes comunes y los que administren a los hijos.
 
-> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia intrafamiliar, que se entiende como el uso de la violencia física o psicológica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra otro integrante de la misma.
+Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar, entendiendo ésta como el uso de la violencia física, psicológica, emocional, patrimonial o económica, así como la omisión grave, que de manera reiterada ejerza un miembro de la familia contra otro integrante de la misma.
 
-> <small>(ADICIONADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-Para los efectos de este artículo, se consideran miembros de la familia a los cónyuges, concubinos, parientes consanguíneos en línea recta, ascendente o descendente, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima.
+Para los efectos de este artículo, se consideran miembros de la familia a los cónyuges, concubinos, parientes consanguíneos en línea recta, ascendente o descendente, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, que habite en la misma casa de la víctima o fuera de ella.
 
 ###### Artículo 169.
 
@@ -1487,9 +1489,11 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuese un tercero, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 230.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuese el otro cónyuge.
+Las donaciones antenupciales son revocables y se entienden revocadas por ingratitud por parte del donatario, cuando el donante fuese el otro cónyuge.
 
 ###### Artículo 231.
 
@@ -1571,7 +1575,7 @@ El parentesco por consanguinidad en línea colateral, en el tercero y cuarto gra
 
 ###### Artículo 246.
 
-La acción de nulidad que nace del adulterio habido entre las personas que hayan contraído matrimonio, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y por los ascendientes o descendientes o el Ministerio Público, si el matrimonio se ha disuelto por muerte del cónyuge ofendido. En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio.
+(DEROGADO, B.O. 16 DE DICIEMBRE DE 2022)
 
 ###### Artículo 247.
 
@@ -3047,11 +3051,11 @@ Si faltare alguna de las dos personas a quienes corresponde ejercer la patria po
 
 A las personas que tienen al hijo bajo su patria potestad, incumbe la obligación de protegerlo y educarlo convenientemente. Tienen la facultad de amonestar y corregir, pero evitando los castigos crueles e innecesarios, la violencia física y psicológica.
 
-> <small>(REFORMADO, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 485.
 
-Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, o que abusan de su derecho a corregir o ejerzan violencia intrafamiliar, promoverá la suspensión o pérdida de la patria potestad, en su caso.
+Cuando llegue a conocimiento del Ministerio Público, que las personas que ejercen la patria potestad no cumplen con la obligación del artículo anterior, a que abusan de su derecho a corregir o ejerzan violencia familiar, promoverá la suspensión o pérdida de la patria potestad, en su caso.
 
 ###### Artículo 486.
 
@@ -3183,9 +3187,9 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derec
 
 II.- En los casos de divorcio necesario que lleven aparejada esta sanción;
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2022)</small>
 
-III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia intrafamiliar, pudieran comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos;
+III.- Cuando las costumbres depravadas de los padres, el abandono de sus deberes o actos de violencia familiar, pudieren comprometer la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no constituyan delitos.
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -16224,3 +16228,11 @@ B.O. 30 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- La Dirección Estatal del Registro Civil contará con sesenta días hábiles a partir de la publicación del presente Decreto, a efecto de que realicen las adecuaciones conducentes a la reglamentación aplicable, en términos del presente Decreto, y dentro del mismo término, deberá realizar cursos de capacitación para su personal, a fin de garantizar el cumplimiento de las disposiciones que mediante el presente Decreto entran en vigor.
+
+B.O. 16 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2883 SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 163, SEGUNDO PÁRRAFO DEL ARTÍCULO 168, 485, FRACCIÓN III DEL ARTÍCULO 507 Y EL ARTÍCULO 230; SE DEROGAN LOS ARTÍCULOS 74 Y 246 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
