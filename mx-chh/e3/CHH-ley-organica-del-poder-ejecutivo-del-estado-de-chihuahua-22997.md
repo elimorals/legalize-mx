@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2022-11-30"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -1351,9 +1351,7 @@ XXVII.- Diseñar, dirigir y coordinar la implementación de la política de mejo
 
 XXVIII.- Emitir disposiciones para fomentar la creación, modificación o eliminación de normas y regulaciones con la finalidad de fomentar la calidad regulatoria y mejorar el desempeño gubernamental.
 
-> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
-
-XXIX.- Coordinar la estrategia de digitalización de los trámites y servicios de la Administración Pública Estatal y de las plataformas digitales para la estandarización y cumplimiento de las obligaciones de transparencia respectivas; así como consolidar el uso y aprovechamiento de las tecnologías de la información, para fomentar canales directos de vinculación con la ciudadanía, administrando a su vez la información generada.
+XXIX.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2018)</small>
 
@@ -1650,6 +1648,10 @@ e) Ser el enlace con la Federación, otras entidades gubernamentales, la iniciat
 f) Detectar las necesidades en materia de tecnología de la información y comunicación de la Administración Pública Estatal, y recomendar las acciones para su desarrollo y modernización.
 
 g) Planear, desarrollar y mantener la infraestructura de tecnología de la información y comunicación a nivel competitivo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+h) Coordinar la estrategia de digitalización de los trámites, servicios, procesos y procedimientos de la Administración Pública Estatal, así como la implementación de las plataformas digitales que para esto se requieran.
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3654,3 +3656,49 @@ A partir de la entrada en vigor del presente Decreto, las menciones que se hagan
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado emitirá el Reglamento Interior de la Secretaría de Pueblos y Comunidades Indígenas y hará las adecuaciones en los reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/EXLEY/0390/2022 I P.O.".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Firma Electrónica Avanzada del Estado de Chihuahua, publicada en (sic) Periódico Oficial del Estado el ocho de julio de dos mil veinte.
+
+TERCERO.- Se abroga la Ley de Software Libre y Código Abierto del Estado de Chihuahua, publicada en el Periódico Oficial del Estado el veinte de octubre de dos mil dieciocho.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+QUINTO.- Las disposiciones legales y administrativas expedidas en las materias reguladas por esta Ley, que al momento de su publicación se encuentren vigentes, seguirán siendo aplicables en lo que no se opongan a esta norma, hasta en tanto se expidan las que deban sustituirlas.
+
+SEXTO.- Dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley, se deberá instalar el Consejo, por convocatoria de la Presidencia.
+
+SÉPTIMO.- El Poder Ejecutivo deberá iniciar la implementación de portales informativos y portales transaccionales dentro del primer año siguiente a la publicación del presente Decreto.
+
+Los demás órganos del Estado deberán iniciar la implementación de portales informativos y portales transaccionales conforme a su capacidad técnica, operativa, material y presupuestal.
+
+OCTAVO.- El primer Programa deberá ser emitido a más tardar ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+NOVENO.- El primer Programa de Seguridad Informática deberá ser emitido dentro del primer año posterior a la publicación del primer Programa.
+
+DÉCIMO.- La primera Estrategia General de TIC, deberá ser emitida dentro de los primeros seis meses posteriores a la publicación del primer Programa.
+
+UNDÉCIMO.- En lo que concierne a lo establecido en el artículo 28 de esta Ley, esta entrará en vigor una vez que se hayan publicado los primeros proyectos internos, debiendo dicho rubro formar parte de la Estrategia General de TIC inmediata posterior.
+
+DUODÉCIMO.- El Programa Estatal para la Creación, Desarrollo, Validación, Utilización y Difusión del Software Libre y Código Abierto seguirá vigente hasta en tanto se expida la primera Estrategia General de TIC.
+
+DECIMOTERCERO.- La ventanilla virtual deberá entrar en operaciones dentro del año siguiente a la entrada en vigor del presente Decreto.
+
+DECIMOCUARTO.- A partir de la entrada en vigor del presente Decreto, todos los trámites, servicios, procesos y procedimientos administrativos o jurisdiccionales, comunicaciones y demás actos que recaigan dentro de la competencia de los órganos del Estado podrán ser desahogados de manera digital, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DECIMOQUINTO.- El Poder Ejecutivo, a través de las instancias correspondientes, realizará las adecuaciones estructurales y las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto, a efecto de garantizar el ejercicio de las atribuciones transferidas.
+
+DECIMOSEXTO.- La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+DECIMOSÉPTIMO.- Las menciones contenidas en otras disposiciones legales, respecto de las dependencias y entidades cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+DECIMOCTAVO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la dependencia o entidad que resulten competentes en virtud de este, hasta que se den las transferencias necesarias.
+
+DECIMONOVENO.- El Poder Ejecutivo contará con un término de 180 días naturales a partir de la entrada en vigor del presente Decreto, para presentar las reformas legales, reglamentarias y administrativas necesarias para adecuar el marco jurídico estatal, a efecto de poder estar en aptitud de dar viabilidad programática y orgánica al presente Decreto.
+
+VIGÉSIMO.- Las facultades y compromisos derivados de convenios o acuerdos celebrados con dependencias o entidades de la Administración Pública Federal, Estatal o Municipal serán asumidos por el área competente de conformidad con el presente Decreto.
