@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2021-12-27"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -685,13 +685,35 @@ III. Por la expedición, renovación y reposición de licencias para conducir ve
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA 108.]</small>
 
-Permiso provisional para manejar sin licencia por 30 días: 1 U.M.A.
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 17 DE DICIEMBRE DE 2022, PÁGINA 120.]</small>
 
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento de la tarifa a que se refiere esta fracción.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-IV. Por día de estancia de vehículos en el corralón: 0.4 U.M.A.
+Permiso provisional para manejar sin licencia por 30 días 2.0 U.M.A.
 
-V. Por aplicación del examen médico y de competencia para conducir vehículos de motor: 2.5 U.M.A.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+Tratándose de renovaciones de licencia, los ciudadanos lazarocardenses gozarán del 50% de descuento de la tarifa realizando el trámite dentro de los diez primeros días posteriores a la fecha de vencimiento de la licencia.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+IV. Por arrastre de grúa en hechos de tránsito:
+
+a) Arrastre: 9.3. U.M.A.
+
+b) Abanderamiento y custodia en grúa: 7.9 U.M.A.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+V. Por día de estancia de vehículos en el corralón: 1.0. U.M.A
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Por aplicación del examen médico y de competencia para conducir vehículos de motor: 2.5. U.M.A.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VII. Por expedición de constancia de no infracción: 2.12 U.M.A.
 
 #### SECCIÓN II. REGISTRO DE VEHÍCULOS
 
@@ -749,7 +771,7 @@ Los derechos por los servicios que presta el Registro Civil, se pagarán de acue
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 109 A LA 111.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINA 36.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINA 36; 17 DE DICIEMBRE DE 2022, PÁGINAS DE LA 121 A LA 123.]</small>
 
 Los derechos señalados en los incisos i), j), y k) de esta fracción, se causarán con la expedición por cada copia certificada del acto correspondiente.
 
@@ -805,11 +827,11 @@ b) Zona Turística 1.0 UMA
 
 Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la fracción IV, de este artículo, podrá convenir con el Estado la mejor manera de llevarla a cabo, a fin de no ocasionar con su ejercicio afectación a la población.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 68.
 
-La ejecución de toda obra sin licencia respectiva, se impondrá una sanción por un importe equivalente de 50 hasta 100 UMA, atendiendo para ello, entre otros factores, la gravedad de la falta, la capacidad de pago del infractor y el objeto o finalidad de la construcción de la obra; dicha multa podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
+La ejecución de toda obra sin licencia respectiva, se impondrá una sanción por un importe equivalente de 70 UMA hasta 120 UMA, atendiendo para ello, entre otros factores, la gravedad de la falta, la capacidad de pago del infractor y el objeto o finalidad de la construcción de la obra; dicha multa podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia.
 
 ###### Artículo 69.
 
@@ -857,9 +879,13 @@ d) Comercial en Zona Hotelera por unidad privativa: 10 U.M.A.
 
 II. Por la autorización subdivisión o fraccionamiento de predios de tipo general:
 
-a) Cuando resulten 2 lotes: 4.60 U.M.A.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-b) Cuando resulten más de 2 lotes, por cada lote excedente: 4.03 U.M.A.
+a) Cuando resulten 2 lotes: 5.60 U.M.A.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+b) Cuando resulten más de 2 lotes, por cada lote excedente: 5.03 U.M.A.
 
 III. Por la fusión de predios en general:
 
@@ -953,7 +979,7 @@ Los derechos respectivos se cubrirán previamente de acuerdo con las cuotas que 
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 118 A LA 121.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 39.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 38 A LA 39; 17 DE DICIEMBRE DE 2022, PÁGINA 124.]</small>
 
 Artículo 84 (SIC).- Concluido el plazo que establece el artículo anterior, los alineamientos podrán refrendarse en los términos y bajo las condiciones siguientes:
 
@@ -991,6 +1017,10 @@ V. Constancia de uso de suelo del establecimiento, y
 
 VI. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VII. Constancia de terminación de obra.
+
 Esta Licencia de Funcionamiento se expedirá por establecimiento y por giro de acuerdo a la clasificación que establece el artículo 88 de esta Ley.
 
 ###### Artículo 87.
@@ -1004,6 +1034,14 @@ II. Copia del recibo del pago del impuesto predial correspondiente al ejercicio 
 III. Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas; y
 
 IV. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+V. Constancia de no adeudo del pago del derecho de saneamiento ambiental, únicamente para hoteles, posadas o casas de huéspedes, hostales y moteles, así como cualquier centro o establecimiento de hospedaje contratado a través de plataformas digitales o similares o cualquier otra forma de contratación.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Permiso de operación.
 
 Asimismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 85 de la presente Ley.
 
@@ -1087,7 +1125,7 @@ III. Ganado lanar o cabrío hasta 0.2 U.M.A.
 
 IV. Aves hasta 0.03 U.M.A.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
 
@@ -1349,7 +1387,7 @@ Las cuotas y tarifas aplicables por la prestación de los servicios mencionados 
 
 TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS DE LA ISLA DE HOLBOX DEL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.
 
-> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 40 A LA 41.]</small>
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 40 A LA 41; 17 DE DICIEMBRE DE 2022, PÁGINAS DE LA 126 A LA 128.]</small>
 
 TABULADOR DE TARIFAS POR CONCEPTO DE DERECHOS POR EL SERVICIO DE RECOLECCIÓN, TRANSPORTE, TRATAMIENTO Y DESTINO FINAL DE RESIDUOS SÓLIDOS PARA LAS LOCALIDADES EXCEPTO LA ISLA DE HOLBOX, DEL MUNICIPIO DE LÁZARO CÁRDENAS, QUINTANA ROO.
 
@@ -1451,13 +1489,79 @@ TARIFA
 
 I. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 U.M.A. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-II. Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir el equivalente a 2.5 U.M.A.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+II. Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir el equivalente a 3.0 U.M.A.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+Se exentará de esta contribución a particulares y dependencias federales, estatales y municipales cuando se trate de árboles en la vía pública que, por su crecimiento, causen alguna afectación. Las dependencias federales, estatales y municipales, así como cualquier institución pública estarán exentas cuando los árboles al interior de un predio del que acrediten su propiedad o posesión causen afectación por su crecimiento. Este trámite será refrendado anualmente.
 
 III. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 U.M.A. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
 
-IV. Por la expedición del permiso de Operación, el solicitante deberá cubrir el equivalente a 20 U.M.A.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-V. Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 15 U.M.A.
+IV. Por el estudio, análisis de la solicitud y en su caso la expedición del Permiso de Operación Ambiental, el equivalente a 10 U.M.A.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+Quedarán exentas de esta contribución aquellas fuentes fijas a cargo de las unidades administrativas y dependencias de los gobiernos federal, estatal o municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de expedición de este permiso, cuando se trate del inicio de operación de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del derecho respectivo, previa acreditación de los requisitos que establezca el ayuntamiento. Este trámite será refrendado anualmente.
+
+> <small>(REFORMADA [N. DE E. CON SU TABLA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+V. Por el estudio, análisis y en su caso, la expedición de la Anuencia de Manifestación de Impacto Ambiental para el desarrollo de proyectos de construcción de obra civil, el solicitante deberá cubrir las tarifas, de acuerdo a la siguiente tabla:
+
+Tipo de obra
+
+1. Casa habitación unifamiliar 15 U.M.A.
+
+2. Comercial y de servicios 20 U.M.A.
+
+3. Turístico hotelero 25 U.M.A.
+
+4. Turístico residencial 30 U.M.A.
+
+5. Comercio y vivienda (mixto) 35 U.M.A.
+
+6. Otras no especificadas 40 U.M.A.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Por el estudio, análisis de la solicitud y en su caso, la expedición de la Anuencia de Manifestación de Impacto Ambiental para el desarrollo de proyectos de construcción de obra civil a realizarse por licitación, se deberá cubrir el equivalente a 15 U.M.A.
+
+> <small>(ADICIONADA [N. DE E. CON SU TABLA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VII. Por el estudio y expedición de la Anuencia de Manifestación de Impacto Ambiental por modificación del desarrollo de proyectos de construcción de obra civil, el solicitante deberá cubrir las tarifas, de acuerdo a lo señalado en las siguientes:
+
+TARIFAS
+
+I. Por remodelación de obra civil 10 U.M.A.
+
+II. Por ampliación de proyecto de construcción 15 U.M.A.
+
+III. Por actualización de anuencia de
+
+manifestación de impacto ambiental
+
+por cambio de promovente, persona
+
+física o moral 8 U.M.A.
+
+IV. Por regularización de obra previamente
+
+construida sin haber gestionado los permisos,
+
+anuencias, constancias y demás relativos
+
+aplicables de competencia municipal. 100 a 150 U.M.A.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VIII. Por el registro y alta de instalaciones para reunir temporalmente de forma segura y ambientalmente adecuada, los residuos valorizables recuperados de los residuos sólidos urbanos y de manejo especial, de una o de diferentes fuentes, se deberá cubrir el equivalente a 60 U.M.A.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -1471,7 +1575,7 @@ II. Por el registro de establecimientos de cría de animales: 10 U.M.A.
 
 III. Por el registro a Prestadores de Servicios vinculados con el Manejo, Producción y Venta de Animales: 10 U.M.A.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO XXVI. SERVICIOS PRESTADOS POR LA AUTORIDAD MUNICIPAL DE PROTECCIÓN CIVIL
 
@@ -1703,9 +1807,7 @@ a) Las personas que presenten alguna discapacidad.
 
 b) Quienes acrediten ser residentes de Lázaro Cárdenas;
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
-
-c) Quien acredite ser Quintananarroense (sic); y
+c) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
 
@@ -1729,9 +1831,9 @@ El cobro del derecho que se aplique a aquellos huéspedes adicionales que se alo
 
 4 huéspedes o más por habitación por noche: 75 % de la UMA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-Tratándose de los visitantes, que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago será igualmente de 30% de la U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, o en su caso a través del módulo que asigne la tesorería municipal para recibir el derecho.
+Tratándose de los visitantes, que no se hospeden en algún establecimiento de los referidos en el párrafo anterior, el pago será igualmente de 30% de la U.M.A. y lo deberán realizar a través de la operadora marítima de transporte de pasajeros con ruta dentro del ámbito territorial del municipio, de los prestadores de servicios turísticos (lanchas) o en su caso a través del módulo que asigne la tesorería municipal para recibir el derecho.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -1741,7 +1843,23 @@ Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas
 
 ###### Artículo 132 Sexies.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2020) (REPUBLICADA SU DEROGACIÓN, P.O. 17 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 132 Septies.
+
+Por la expedición de la constancia de no adeudo de pago del derecho de saneamiento ambiental el solicitante deberá cubrir el importe de 1.0 U.M.A.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 132 Octies.
+
+Para la correcta administración de la recaudación obtenida por lo previsto en el presente Capítulo, deberá constituirse un fideicomiso el cual estará regido por un Comité Técnico, quienes tendrán la encomienda de vigilar la recaudación y dar seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental.
+
+El Comité Técnico del Fideicomiso deberá estar integrado por siete ciudadanos, de los cuales, tres representantes con probada reputación deberán ser nombrados por los principales sectores hoteleros, social y productivos establecidos en el Municipio y cuatro representantes del gobierno municipal en funciones, debiéndose renovar a los siete representantes al renovarse la respectiva administración municipal.
+
+Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
@@ -2082,3 +2200,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
+
+P.O. 17 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 022 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Todas las contribuciones que se encuentren calculadas o referenciadas con el Salario Mínimo General S.M.G. en la presente Ley serán calculadas en términos del valor de la Unidad de Medida de Actualización U.M.A para todos los efectos de la Ley de Hacienda del Municipio de Lázaro Cárdenas, Quintana Roo y demás disposiciones reglamentarias en materia de ingresos.
+
+TERCERO. En un plazo no mayor de noventa días naturales posteriores a la entrada en vigor del presente decreto y previa convocatoria del Honorable Ayuntamiento del Municipio de Lázaro Cárdenas, Quintana Roo, deberá constituirse un fideicomiso para la correcta administración de la recaudación derivada del cobro de Derecho de Saneamiento Ambiental, el cual estará regido por un Comité Técnico, que tendrá la encomienda de vigilar la recaudación y dar seguimiento a la aplicación de los recursos públicos que se generen por el Derecho de Saneamiento Ambiental.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
