@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2022-08-17"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1764,6 +1764,28 @@ I. Por sí, o por interpósita persona, utilizando la violencia física o moral,
 II. Con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
 Al que cometa el delito de intimidación, se le impondrá de dos a nueve años de prisión y multa de treinta a trescientas veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 206 Ter.
+
+Para sancionar los delitos cometidos en el Título Octavo Delitos Cometidos por Servidores Públicos, de este ordenamiento, se estará a lo siguiente:
+
+Cualquier persona podrá denunciar en calidad de afectado un acto de corrupción cometido por servidores públicos, aunque no se demuestre una afectación directa a una persona en lo particular.
+
+A toda persona que denuncie, aporte datos eficaces y efectivos referentes a actos de corrupción cometidos por servidores públicos:
+
+I.- Se le otorgará una recompensa con valor económico equivalente al 50 por ciento de la cantidad que el estado recupere tras los procedimientos de sanción de los actos ilícitos. Dicha recompensa será entregada una vez que el servidor público haya sido encontrado culpable de dicho delito.
+
+II.- Cuando no sea posible cuantificar el beneficio de la recompensa, esta será equivalente a 353 salarios diarios mínimos vigentes.
+
+III.- Al sancionar cualquier acto de corrupción, los juzgadores quedan obligados a especificar si algún ciudadano ha participado en el proceso y es merecedor de recompensa económica, señalando el monto, en tal caso deberá emitir una sentencia en versión pública para sea difundida en el periódico oficial y deberá emitir el acuerdo respectivo para que la Secretaría de Finanzas del Gobierno del Estado realice el pago a favor del ciudadano en un máximo de 10 días hábiles.
+
+IV.- Por ningún motivo se perseguirá a los funcionarios que hagan públicos documentos oficiales con el fin de denunciar un acto de corrupción cometido por otros servidores públicos.
+
+V.- La Fiscalía General de Justicia del Estado de Zacatecas deberá facilitar seguridad y protección a quien denuncie un acto de corrupción cuando exista riesgo de represalias.
+
+VI.- Toda persona podrá filmar cualquier acto de autoridad para documentar posibles actos de corrupción y no podrá ser detenido por filmar, aun cuando se alegue obstrucción de la justicia.
 
 ## TITULO NOVENO
 
@@ -4240,3 +4262,11 @@ P.O. 17 DE AGOSTO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 111.- MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 206 TER. AL CÓDIGO PENAL DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
