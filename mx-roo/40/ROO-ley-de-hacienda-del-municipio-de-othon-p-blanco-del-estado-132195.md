@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-othon-p-blanco-del-estado-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-12-24"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 24 del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -87,7 +87,9 @@ I. La propiedad de predios urbanos y suburbanos;
 
 II. La propiedad de predios rústicos;
 
-III. La propiedad y posesión ejidal urbana;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+III. La propiedad ejidal urbana.
 
 IV. La posesión de predios urbanos, suburbanos y rústicos en los casos siguientes:
 
@@ -191,13 +193,21 @@ El pago del impuesto podrá efectuarse totalmente dentro del primer bimestre. Lo
 
 Cuando el impuesto se pague en una sola emisión, por anticipado, cubra todo el año y sea enterado por la Tesorería Municipal, el contribuyente gozará de un descuento, previo acuerdo del Ayuntamiento con base en lo siguiente:
 
-I. Hasta un 25% si se cubre en una sola emisión, siempre y cuando el pago se efectúe antes del 31 de enero del año inmediato anterior al que deba realizarse el pago.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-II. Hasta un 15% si se cubre en una sola emisión y el pago se efectúa el último día hábil del mes de febrero del año al que se deba realizar el pago.
+I. Hasta un 15% si se cubre en una sola emisión, siempre y cuando el pago se efectúe durante los días hábiles del mes de enero del año en que se deba realizar el pago;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-III. Hasta un 50% si se cubre en una sola emisión y el pago se efectúa hasta el último día hábil del mes de febrero del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del Instituto Nacional del Adulto Mayor (INAPAM) o INSEN, así como a los trabajadores del H. Ayuntamiento. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de quince mil UMA. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en las fracciones anteriores de este artículo.
+II. Hasta un 10% si se cubre en una sola emisión y el pago se efectúa durante los días hábiles del mes de febrero del año al que se deba realizar el pago;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+III. Hasta un 5% si se cubre en una sola emisión y el pago se efectúa durante los días hábiles del mes de marzo del año al que se deba realizar el pago, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+IV. Hasta un 50% si se cubre en una sola emisión y el pago se efectúa hasta el último día hábil del mes de marzo del año al que se deba realizar el pago si el contribuyente es una persona con discapacidad, pensionado, jubilado o cuente con su credencial del Instituto Nacional del Adulto Mayor (INAPAM) o INSEN, así como a los trabajadores del H. Ayuntamiento. Este beneficio se aplicará a un solo inmueble del contribuyente, siempre y cuando dicho inmueble corresponda al domicilio de su propia casa habitación y cuyo valor catastral no exceda de veinte mil UMA. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en las fracciones anteriores de este artículo.
 
 ###### Artículo 17.
 
@@ -213,7 +223,9 @@ I. Los inmuebles pertenecientes a los institutos de vivienda del Estado o Munici
 
 II. El fundo legal;
 
-III. La propiedad comunal ejidal parcelaria, de dominio pleno, cuando estos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+III. La propiedad comunal ejidal parcelaria, de dominio pleno, cuando estos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de lotes urbanos.
 
 #### SECCIÓN VI. DE LAS DISPOSICIONES DIVERSAS
 
@@ -1105,13 +1117,15 @@ Los actos de Registro Civil Municipal se efectuarán previo aviso y pago de los 
 
 Los Oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos a que se refieren este capítulo serán responsables solidarios de su pago.
 
-### CAPÍTULO IV. DE LAS LICENCIAS PARA CONSTRUCCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO IV. DE LAS LICENCIAS PARA CONSTRUCCIÓN Y CONSTANCIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 78.
 
-Toda licencia de construcción en cualquiera de sus modalidades: obra nueva, reparación, reconstrucción, restauración, remodelación, ampliación y licencia de construcción especial; sus refrendos, y la constancia de terminación de obras, causarán derechos. Su pago se efectuará previo a su expedición con base en los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente, de acuerdo a la tipología y aplicando la tarifa siguiente:
+Toda licencia de construcción en cualquiera de sus modalidades: obra nueva, reparación, reconstrucción, restauración, remodelación, ampliación y licencia de construcción especial; sus refrendos, la constancia de terminación de obras y la constancia de Municipalización en sus respectivas modalidades, causarán derechos. Su pago se efectuará previo a su expedición con base en los planos y cálculos a que deba someterse la construcción, una vez que hayan sido aprobados por la autoridad correspondiente, de acuerdo a la tipología y aplicando la tarifa siguiente:
 
 I. Cuando se trate de casa habitación:
 
@@ -1230,6 +1244,14 @@ XII. Por el registro y revalidación de los peritos responsables de obra y corre
 a. Por el registro de peritos responsables de obra y corresponsables, en cualquier tiempo: 50.0 UMA.
 
 b. Por la revalidación del registro de peritos responsables de obra y corresponsables, anualmente: 40.0 UMA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+XIII. Por la emisión de la Constancia de Municipalización se pagará la siguiente tarifa 100 UMA.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+XIV. Por la emisión de la Constancia de terminación de obra de urbanización, se pagará la siguiente tarifa de 10 UMA.
 
 ###### Artículo 79.
 
@@ -1389,19 +1411,29 @@ Por los servicios de panteones que preste el Municipio, se cobrarán los derecho
 
 I. La concesión temporal o la adquisición a perpetuidad de terrenos en los panteones:
 
-a) Primer patio, concesión o refrendos por seis años: 7.2 UMA a 13.2 UMA
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-b) Segundo patio o refrendo por seis años: 5.00 UMA a 9.3 UMA
+a) Concesión o refrendos por seis años: 5.0 UMA a 13.2 UMA
 
-c) Primer patio. Perpetuidad: 40.0 UMA a 50.0 UMA
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-d) Segundo patio. Perpetuidad: 15.0 UMA a 20.0 UMA
+b) Perpetuidad : 15.0 UMA a 50.0 UMA
 
-e) Zona de restos áridos, por 6 años: 3.8 UMA a 5.0 UMA
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-f) Zona de restos áridos y osarios a perpetuidad: 20.0 UMA a 40.0 UMA
+c) Zona de restos áridos, por 6 años: 3.8 UMA a 5.0 UMA
 
-g) Las inhumaciones en el tercer patio (fosa común) serán gratuitas.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+d) Zona de restos áridos y osarios a perpetuidad : 20.0 UMA a 40.0 UMA
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+e) Las inhumaciones en la fosa común serán gratuitas.
+
+f) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
+
+g) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
 
 II. Por el traslado de cadáveres o restos áridos, exhumaciones y/o inhumaciones, se cobrará la tarifa siguiente:
 
@@ -1451,9 +1483,9 @@ Si dentro del primer año de hecho un refrendo de temporalidad se solicita la pe
 
 El Municipio concederá las licencias para las exhumaciones y traslado de cadáveres o restos, una vez satisfechos los requisitos de salubridad y el pago de los derechos correspondientes.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO VII. DEL ALINEAMIENTO DE PREDIOS, NÚMERO OFICIAL, CONSTANCIA DE USO DE SUELO, MEDICIÓN DE SOLARES DEL FUNDO LEGAL, SERVICIOS CATASTRALES Y DE DESARROLLO URBANO
+### CAPÍTULO VII. DEL ALINEAMIENTO DE PREDIOS, NÚMERO OFICIAL, CONSTANCIA DE USO DE SUELO, MEDICIÓN DE LOTES DEL FUNDO LEGAL, SERVICIOS CATASTRALES Y DE DESARROLLO URBANO
 
 ###### Artículo 92.
 
@@ -1689,15 +1721,21 @@ VI. Por concepto de actualización del titular o cambio de titular en una consta
 
 Los alineamientos, certificaciones, subdivisiones, fusiones, lotificaciones o fraccionamientos de predios tendrán una vigencia de seis meses contados a partir de la fecha de su expedición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 94.
 
-Concluido el plazo que establece el artículo anterior, los alineamientos podrán refrendarse en los términos y bajo las condiciones siguientes:
+Concluido el plazo que establece el artículo anterior, los alineamientos, las certificaciones, rectificaciones, apeo y deslinde podrán refrendarse en los términos y bajo las condiciones siguientes:
 
-I. Por los tres meses siguientes, las autoridades catastrales municipales refrendarán los alineamientos a solicitud de los interesados. En este caso se deberá cubrir previamente el 50% de la cuota respectiva;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+I. Por los tres meses siguientes, las autoridades municipales refrendarán los alineamientos las certificaciones, rectificaciones, apeo y deslinde a solicitud de los interesados. En este caso se deberá cubrir previamente el 50% de la cuota respectiva;
 
 II. Concluidos los tres meses del último refrendo, no podrá concederse otro, debiendo presentarse nueva solicitud y cubrirse el importe íntegro del derecho correspondiente;
 
-III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.8 UMA.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+III. La expedición de copias de alineamiento las certificaciones, rectificaciones, apeo y deslinde o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.8 UMA.
 
 ### CAPÍTULO VIII. DE LAS LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
@@ -2173,15 +2211,13 @@ IV. Por difusión fonética de publicidad en la vía pública por unidad de soni
 
 V. Mantas y lonas; en la vía pública, por mes: 0.10 a 0.73 UMA
 
-VI. Por anuncios espectaculares con altura mínima de tres metros, por anuncio anualmente:
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
+VI. Por anuncios espectaculares con altura mínima de tres metros por metro cuadrado anualmente:
 
-a) Cuyo contenido se despliegue a través de una sola carátula o vista: 2.5 UMA
+a) Cuyo contenido se despliegue a través de una sola carátula o vista: 9.5 UMA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2021)</small>
-
-b) Cuyo contenido se despliegue a través de dos o más carátulas o vistas: 24.6 UMA
+b) Cuyo contenido se despliegue a través de dos o más carátulas o vistas: 14.0 UMA
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2021)</small>
 
@@ -2263,27 +2299,45 @@ Este derecho debe ser cubierto a la Tesorería Municipal contra el otorgamiento 
 
 Las concesiones de permisos de ruta deberán ser supervisadas por las autoridades municipales y los propietarios, poseedores o choferes de los vehículos a quienes se otorgó el permiso deberán mostrarlos a las autoridades competentes cuando éstas lo requieran.
 
-### CAPÍTULO XVII. DE LA LIMPIEZA DE SOLARES BALDÍOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XVII. DE LA LIMPIEZA DE LOTES BALDÍOS
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 120.
 
-Los propietarios o poseedores de solares o predios baldíos y con construcciones, deberán efectuar el desmonte, desyerbado o limpieza de su inmueble, retirando las ramas, basura o escombro, al menos dos veces al año a más tardar en los meses de mayo y noviembre respectivamente, así como delimitarlos y bardearlos, a fin de evitar condiciones de insalubridad o de inseguridad a la población.
+Los propietarios o poseedores de lotes baldíos con o sin construcción, deberán efectuar la limpieza, desmonte, desyerbado de su inmueble, retirando las ramas, basura o escombro, al menos dos veces al año a más tardar en los meses de mayo y noviembre respectivamente, así como delimitarlos y bardearlos, a fin de evitar condiciones de insalubridad o de inseguridad a la población.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 121.
 
-Si los propietarios o poseedores de solares o predios referidos no cumplieran con la disposición anterior, el Ayuntamiento realizará la limpieza del mismo.
+Si los propietarios o poseedores de lotes referidos no cumplan con la disposición anterior, el Ayuntamiento realizará la limpieza del mismo.
 
-La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbe. En caso de no cumplir el requerimiento formulado por la autoridad, ésta podrá por sí misma o mediante la contratación de terceros efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles estarán obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una multa de 164.0 a 274.0 UMA. En caso de reincidencia, la multa ascenderá, de 275.0 a 384.0 UMA.
+La Dirección de Medio Ambiente y Ecología del Municipio podrá requerir en cualquier momento al propietario o poseedor del lote independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbe. En caso de no cumplir el requerimiento formulado por la autoridad, ésta podrá por sí misma o mediante la contratación de terceros efectuar el servicio de desmonte, desyerbado de lotes o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios o poseedores de los bienes inmuebles estarán obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, de conformidad con la tarifa que refiere el artículo 122 de la presente Ley, además la autoridad impondrá una multa de 164.0 a 274.0 UMA. En caso de reincidencia, la multa ascenderá, de 275.0 a 384.0 UMA.
 
-Para efectos de lo dispuesto en el presente capítulo, se dará la reincidencia cuando por segunda vez la autoridad realice la limpieza, desmonte o desyerbe de los predios con o sin construcción y aplique la multa respectiva, haciéndose acreedor el propietario o poseedor de estos inmuebles a la aplicación de la tarifa y multa que por reincidencia establecen este artículo y el artículo 122 de la presente ley.
+Para efectos de lo dispuesto en el presente artículo, se dará la reincidencia cuando por segunda vez la autoridad realice la limpieza, desmonte o desyerbe de los lotes y aplique la multa respectiva.
 
 ###### Artículo 122.
 
 Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los derechos conforme a la tarifa siguiente:
 
-I. Por cada metro cuadrado: 0.55 UMA
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-II. En caso de reincidencia, por metro cuadrado: 1.10 UMA
+I. Desmonte por cada metro cuadrado: 0.55 UMA
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+II. Desyerbe por cada metro cuadrado: 0.55 UMA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+III. Limpieza por cada metro cuadrado : 0.55 UMA
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+IV. En caso de reincidencia, por metro cuadrado: 1.10 UMA
 
 ###### Artículo 123.
 
@@ -2369,11 +2423,17 @@ c) De 21 a 30 metros de altura: 60.0 UMA
 
 d) De 31 metros de altura en adelante: 75.0 UMA
 
-V. Por la autorización del Dictamen de anuencia de Protección civil, para la tramitación de las licencias de funcionamiento.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+V. Por la autorización del dictamen de anuencia de protección civil para la tramitación de las licencias de funcionamiento:
 
 > <small>[N. DE E. VÉASE TABLA EN EL NÚMERO EXTRAORDINARIO DEL P.O. DE 24 DE DICIEMBRE DE 2021, PÁGINAS DE LA 130 A LA 137.]</small>
 
-VI. Por la revalidación anual de registro: 20.0 UMA
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA P.O. DE 17 DE DICIEMBRE DE 2022, PAGINAS DE LA 72 A LA 84.]</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Pago de dictámenes extemporáneos por año fiscal. 20.0 UMA
 
 VII. Anuencia para transporte de combustible, vigente por 6 meses.
 
@@ -2387,6 +2447,18 @@ IX. Por la emisión de diagnósticos de riesgos: 10.0 a 50.0 UMA
 
 X. Servicio de capacitación e integración de brigadas en materia de protección civil: 10.0 a 50.0 UMA
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+XI. Permiso luces navideñas 4.0 UMA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+XII. Permiso para eventos socio-organizativos 17.0 UMA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+XIII. Reposición de documentos 2.0 UMA
+
 ### CAPÍTULO XXI. DEL (SIC) SERVICIOS EN MATERIA DE ECOLOGÍA Y PROTECCIÓN AL AMBIENTE
 
 ###### Artículo 129.
@@ -2395,13 +2467,47 @@ Por los servicios que presta el Municipio en materia de ecología y protección 
 
 I. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de chapeo y desmonte el solicitante deberá de cubrir 0.13 UMA por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-II. Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir 2.75 UMA
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+II. Por el estudio y análisis de la solicitud y en su caso, el solicitante deberá cubrir el monto de la siguiente forma:
+
+a) Expedición o prórroga de permisos de poda, se cobrará 2.75 UMA, por árbol.
+
+b) Expedición o prórroga de permisos de derribo o tala:
+
+Hasta 5 árboles 2.75 UMA por árbol, más la reforestación de 5 árboles por cada árbol talado.
+
+Más de 6 a 10 árboles 3.75 UMA por árbol, más la reforestación de 10 árboles, por cada árbol talado.
 
 III. Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de Desarrollo, el solicitante deberá de cubrir 0.09 UMA por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
 
 IV. Por la expedición del permiso de operación ambiental: 13.5 UMA
 
 V. Por estudio y expedición de factibilidad ecológica, se causará el equivalente a: 10.0 UMA
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Por la expedición del permiso de sonido para fuentes fijas y Mercados Públicos Municipales, de acuerdo a lo establecido en las Normas Oficiales Mexicanas y la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo, se pagará de la siguiente forma:
+
+a) Para fines publicitarios que generen emisiones de sonido por bocinas dentro o fuera de las fuentes fijas, se deberá cubrir el monto de:
+
+Hasta por 4 horas 3 UMA.
+
+Más de 4 horas 3 UMA, más 0.5 UMA por hora adicional.
+
+b) Para actividades y operaciones inherentes a los procesos que se realicen en las fuentes fijas, se deberá cubrir el monto de: 3.5 UMA.
+
+c) Para fines publicitarios que generen emisiones de sonido por bocinas en los mercados públicos municipales se cubrirá de la siguiente tarifa mensual:
+
+1.- Mercado denominado lázaro Cárdenas del Rio e Ignacio Manuel Altamirano 20 UMA.
+
+2.- Mercado denominado Andrés Quintana Roo 15 UMA
+
+3.- Mercado denominado S de abril y Lic. Benito Juárez García 5.0 UMA.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+El incumplimiento de las disposiciones establecidas con anterioridad será sancionado con base en lo previsto en el Código Fiscal Municipal.
 
 ###### Artículo 130.
 
@@ -2751,11 +2857,41 @@ Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas
 
 Quedan exentos del pago de este derecho, respecto de la fracción II del artículo 142 Quater, de esta Ley, quienes acrediten ser residentes del municipio de Othón P. Blanco.
 
-### CAPÍTULO I. DE LA VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXX. DE LOS SERVICIOS QUE PRESTA EL INSTITUTO MUNICIPAL DE LA CULTURA FÍSICA Y EL DEPORTE
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 142 Sépties.
+
+Por los servicios que presta el Instituto Municipal de la Cultura Física y el Deporte, se pagarán los derechos de conformidad con la siguiente:
+
+TARIFA
+
+I. Por el uso de los estadios o instalaciones deportivas, se causarán los derechos conforme a la tarifa siguiente:
+
+a) Evento deportivo de 2 horas sin alumbrado público. 5.0 UMA
+
+b) Evento deportivo de 2 horas con alumbrado público. 7.0 UMA
+
+e) Evento deportivo de 2 horas y menos de 4 sin alumbrado público. 7.7 UMA
+
+d) Evento deportivo de 2 horas y menos de 4 con alumbrado público. 10.9 UMA
+
+e) Evento deportivo de 4 horas sin alumbrado público. 10.3 UMA
+
+f) Evento deportivo de 4 horas sin alumbrado público. 14.5 UMA
+
+g) Evento no deportivo 30 UMA
+
+h) Evento deportivo profesional. 32 UMA
+
+II. Por expedición o reposición de credencial de jugador o jugadora. 0.20 UMA
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO II. DE LOS BIENES MOSTRENCOS
+### CAPÍTULO I. DE LA VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 143.
 
@@ -2773,7 +2909,7 @@ En todos los casos en que se autorice la enajenación de bienes de los municipio
 
 Los bienes de uso común o destinados al servicio de los municipios no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante autorización de la Legislatura del Estado.
 
-### CAPÍTULO III. DE LOS MERCADOS Y OTROS SITIOS
+### CAPÍTULO II. DE LOS BIENES MOSTRENCOS
 
 ###### Artículo 147.
 
@@ -2783,7 +2919,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil constituirá un ingreso para la hacienda municipal.
 
-### CAPÍTULO IV. DEL ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. DE LOS MERCADOS Y OTROS SITIOS
 
 ###### Artículo 149.
 
@@ -2791,21 +2927,55 @@ Por locales en los mercados y otros sitios, será pagada una renta mensual de ac
 
 I. Mercados:
 
-a) Accesorios y locales con puerta a la calle, por metro cuadrado: 1.7 UMA a 2.2 UMA
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
 
-b) Accesorios en el pasaje, por metro cuadrado: 0.55 UMA a 1.7 UMA
+a) Denominados Lázaro Cárdenas e Ignacio Manuel Altamirano, se pagarán con base a los siguientes metros lineales:
 
-c) Locales en el interior, por metro cuadrado: 1.10 UMA a 2.21 UMA
+a) 2.00 a 5.00 metros. 1.7UMA
 
-d) Carnicerías, por metro cuadrado: 1.1 UMA a 1.7 UMA
+b) 5.01 a 10.00 metros. 2.4 UMA
 
-e) Pescaderías, por metro cuadrado: 1.1 UMA a 1.7 UMA
+c) 10.01 a 15.00 metros. 2.8 UMA
 
-f) Los que establezcan fuera de los mercados, puestos de frutas, verduras, carnes cocidas o cualquier otro artículo alimenticio, por metro cuadrado: 0.55 UMA a 1.1 UMA
+d) 15.01 a 20.00 metros. 3.3 UMA
 
-g) Servicios frigoríficos, por metro: 0.65 UMA a 1.1 UMA
+e) 20.01 a 36.00 metros. 5.5 UMA
 
-h) Servicios de almacenaje, por metro cuadrado: 0.55 UMA a 1.0 UMA
+f) 36.01 a 80.00 metros. 9.1 UMA
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+b) Denominado Andrés Quintana Roo, se pagará con base a los siguientes metros lineales:
+
+a) 2.00 a 8.00 metros. 2.2 UMA.
+
+b) 8.01 a 16.00 metros. 2.4 UMA
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+c) Denominado 05 de abril se pagará con base a los siguientes metros lineales:
+
+a) 2.00 a 7.00 metros. 1.2 UMA
+
+b) 7.01 a 16.00 metros. 1.6 UMA
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+d) Denominado Lic. Benito Juárez, se pagará con base a los siguientes metros lineales:
+
+a) 2.00 a 10.00 metros. 0.8 UMA
+
+b) 10.01 a 30.00 metros. 2.0 UMA
+
+Se gozará de un 25% de descuento de los conceptos antes descritos, siempre y cuando se realice el pago de renta durante los primeros diez días del mes.
+
+e) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
+
+f) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
+
+g) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
+
+h) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2022)
 
 II. En sitios frente a espectáculos públicos:
 
@@ -2829,7 +2999,21 @@ c) Cuando los vendedores no establezcan puestos semifijos en la vía pública, d
 
 d) Otros no especificados, diario: 0.10 UMA a 6.50 UMA
 
-### CAPÍTULO V. DE LOS CRÉDITOS A FAVOR DEL MUNICIPIO
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+V. Por el acceso a las instalaciones del Zoológico Payo Obispo, se pagará la siguiente tarifa:
+
+1. De 03 a 11 años la cantidad de 5 pesos.
+
+2. De 11 años en adelante la cantidad de 20 pesos.
+
+3. Adultos Mayores y personas con discapacidad están exentos.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
+VI. Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del Municipio, se pagará la tarifa de 5 pesos por persona.
+
+### CAPÍTULO IV. DEL ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 150.
 
@@ -2839,19 +3023,19 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter estatal que al respecto existan.
 
-### CAPÍTULO VI. DE LA VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO V. DE LOS CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 152.
 
 Se consideran productos aquellos ingresos que obtiene el municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO VII. DE LOS PRODUCTOS DIVERSOS
+### CAPÍTULO VI. DE LA VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 153.
 
 El Municipio podrá obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO. DE LOS APROVECHAMIENTOS
+### CAPÍTULO VII. DE LOS PRODUCTOS DIVERSOS
 
 ###### Artículo 154.
 
@@ -2859,7 +3043,7 @@ Los productos no especificados en este capítulo, así como el costo administrat
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO ÚNICO. DE LAS PARTICIPACIONES
+### CAPÍTULO ÚNICO. DE LOS APROVECHAMIENTOS
 
 ###### Artículo 155.
 
@@ -2867,7 +3051,7 @@ Son aprovechamientos los ingresos que correspondan a las funciones de derecho p�
 
 ## TÍTULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPÍTULO ÚNICO. DE LAS APORTACIONES FEDERALES
+### CAPÍTULO ÚNICO. DE LAS PARTICIPACIONES
 
 ###### Artículo 156.
 
@@ -2881,13 +3065,15 @@ Como Participaciones estatales se entienden aquellos ingresos que el Estado entr
 
 ## TÍTULO SÉPTIMO. DE LAS APORTACIONES FEDERALES
 
-### CAPÍTULO ÚNICO. OTROS INGRESOS
+### CAPÍTULO ÚNICO. DE LAS APORTACIONES FEDERALES
 
 ###### Artículo 158.
 
 Son ingresos que percibirá el Municipio por recursos transferidos por la Federación derivados de fondos adicionales a las participaciones, con base en las estimaciones que se tengan de la recaudación federal participable.
 
 ## TÍTULO OCTAVO. OTROS INGRESOS
+
+### CAPÍTULO ÚNICO. OTROS INGRESOS
 
 ###### Artículo 159.
 
@@ -2992,3 +3178,11 @@ SEGUNDO: En un plazo no mayor de noventa días naturales posteriores a la entrad
 El Comité además tendrá la encomienda de vigilar la recaudación de la contribución que se perciba en las arcas municipales por el concepto del derecho de saneamiento. El Comité deberá estar integrado por cinco ciudadanos representantes de los principales sectores sociales y productivos establecidos en el Municipio y su cargo será honorario.
 
 TERCERO: Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 015 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto, entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
