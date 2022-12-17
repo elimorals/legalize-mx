@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2022-06-25"
+last_updated: "2022-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1403,9 +1403,11 @@ VIII. Sea deudora o deudor, acreedora o acreedor, heredera o heredero o legatari
 
 El reglamento interior determinará la forma en la que se tramitará la calificación de la excusa o impedimento, así como la o el servidor público que lo supla en estos casos.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 148.
 
-El procedimiento ante el Tribunal se iniciará con la presentación del escrito de demanda, la cual se notificará a la parte demandada, dentro de las setenta y dos horas siguientes a su recepción, mediante la entrega de una copia simple, a efecto de que produzca su contestación en el improrrogable término de cinco días hábiles siguientes al del traslado, con el apercibimiento de tener a la demandada aceptando los hechos expresados en la reclamación, en el caso de no hacerlo.
+El procedimiento ante el Tribunal se iniciará con la presentación del escrito de demanda, la cual se notificará a la parte demandada, dentro de las setenta y dos horas siguientes a su recepción, mediante la entrega de una copia simple, a efecto de que produzca su contestación en el improrrogable término de quince días hábiles siguientes al del traslado, con el apercibimiento de tener a la demandada aceptando los hechos expresados en la reclamación, en el caso de no hacerlo.
 
 ###### ARTICULO 149.
 
@@ -2068,3 +2070,15 @@ SEGUNDO.- Las obligaciones que se generan en las fracciones XVI y XVII del artí
 TERCERO.- Las Entidades o dependencia pública, contemplaran en la creación de sus anteproyectos de sus presupuestos de egresos a partir del ejercicio fiscal 2023, el cumplimiento de manera gradual de las obligaciones contenidas en el presente Decreto.
 
 CUARTO.- Las Entidades o dependencia pública, preverán los espacios en los centros de trabajo para la creación de ludotecas y lactarios de manera gradual conforme a las obligaciones contenidas en el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 224.- POR EL QUE SE REFORMA EL ARTÍCULO 148 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO
+
+Los procedimientos laborales previstos en el Capítulo II, del Título Quinto, de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima, en trámite y pendientes de emplazamiento a la entrada en vigor del presente Decreto, se substanciarán atendiendo al plazo previsto en la presente reforma para contestar la demanda; en tanto que, los procedimientos laborales en los que ya se hubiere practicado el emplazamiento a la entrada en vigor del presente Decreto, se substanciarán en términos de la legislación vigente al momento de haberse realizado el emplazamiento en cita.
