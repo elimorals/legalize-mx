@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2021-03-23"
+last_updated: "2022-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -109,13 +109,15 @@ VIII. Las bases para garantizar el efectivo acceso de toda persona a la informac
 
 Queda prohibida toda práctica discriminatoria en los programas y acciones de desarrollo social y humano, de conformidad con lo establecido en la Constitución Política del Estado Libre y Soberano de Durango.
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 4.
 
-La política de desarrollo social y humano se sujetará a los principios rectores de universalidad, integralidad, equidad, solidaridad, participación, sustentabilidad, libertad, subsidiaridad, transparencia y el interés superior de la niñez.
+La política pública de desarrollo social se integra por el conjunto de principios, acciones, estrategias, y programas, que tienen como objetivo propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social.
+
+La política de desarrollo social contempla la identificación de desventajas y superación de la pobreza de las personas, promoviendo la inclusión, la educación, la salud, la alimentación y la generación de empleo, ingreso, autoempleo y capacitación.
+
+La política de desarrollo social se sujetará a los principios de libertad, justicia distributiva, solidaridad, integralidad, participación social, sustentabilidad, respeto a la diversidad, libre determinación y autonomía de los pueblos indígenas y sus comunidades, transparencia, perspectiva de género, e interés superior de la niñez, de conformidad con la Ley General de Desarrollo Social, y el capítulo tercero de esta Ley.
 
 > <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
 
@@ -205,9 +207,7 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Ley: La Ley de Desarrollo Social para el Estado de Durango;
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 II. Secretaría: La Secretaría de Bienestar Social del Gobierno del Estado;
 
@@ -265,35 +265,25 @@ XXVII. Padrón de beneficiarios: Relación oficial que incluye a las personas at
 
 XXVIII. Dirección General del Registro Civil: Entidad del Estado encargada de, entre otras funciones, la expedición de actas del estado civil de las personas, nacimientos, defunciones, etc.;
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXIX. Beneficiarios: Las personas atendidas por los planes y programas de desarrollo social y humano que por sus condiciones de vida así lo han requerido y que cumplen con la normatividad establecida en los planes y programas de la materia;
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXX. Equidad de género: Los derechos y capacidades de hombres y mujeres en la participación, en el diseño, programación, ejecución y evaluación de los planes y programas de desarrollo social (sic) sean en circunstancias de igualdad;
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXXI. Programa de desarrollo social: Acción gubernamental dirigida a modificar la condición de desigualdad social mediante la entrega de un bien o una transferencia de recursos, la cual se norma a partir de las respectivas reglas de operación.
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020) (F. DE E., P.O. 3 DE ENERO DE 2021)
 
 XXXII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias.
 
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-XXXIII. Interés superior de la niñez: Conjunto de acciones, políticas y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible, de conformidad con lo establecido en la Constitución Política de las Estados Unidos Mexicanos, los tratados ¡internacionales (sic) aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado Libre y Soberano de Durango y la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Durango.
+XXXIII. Perspectiva de género: Una visión científica, analítica y política sobre las mujeres y los hombres que se propone eliminar las causas de la opresión de género, como la desigualdad, la injusticia y la jerarquización de las personas basada en el género; que se plantea la equidad de género en el diseño y ejecución de las políticas públicas de bienestar y desarrollo social.
 
 ###### Artículo 8.
 
@@ -952,3 +942,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Los municipios deberán modificar el presupuesto de egresos en el mes de febrero del año 2021, atendiendo el presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 282.- QUE CONTIENE REFORMAS A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
