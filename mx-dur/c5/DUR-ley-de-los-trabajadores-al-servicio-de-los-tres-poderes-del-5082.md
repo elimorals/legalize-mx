@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2022-11-10"
+last_updated: "2022-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2022.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -549,7 +549,9 @@ III.- Cumplir con las obligaciones que les impongan las condiciones generales de
 
 IV.- Guardar la discreción correspondiente en los asuntos que lleguen a su conocimiento por motivo del trabajo.
 
-V.- Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus compañeros.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2022)</small>
+
+V.- Evitar la ejecución de actos que pongan en peligro su seguridad, su salud y las de sus compañeros.
 
 VI.- Asistir puntualmente a sus labores.
 
@@ -558,6 +560,14 @@ VII.- Sustraerse a toda clase de propaganda dentro de los edificios o lugares de
 VIII.- Asistir a los Institutos de Capacitación para mejorar su preparación y eficiencia.
 
 IX.- Cuidar los edificios, obras, maquinarias, instrumentos, útiles, materias primas y demás objetos relacionados con el trabajo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2022)</small>
+
+X.- En caso emergencia sanitaria declarada por la autoridad competente, por fenómenos meteorológicos o cualquier otro caso de fuerza mayor o situación que implique el acatamiento de medidas de protección civil, por las que se precise la ausencia de los trabajadores en los centros de trabajo, éstos podrán desempeñar la labor respectiva de manera no presencial, mediante el uso de las tecnologías de la información y comunicación, siempre que así lo permita la naturaleza de su función y conforme las medidas implementadas, con la misma atingencia, cuidado y esmero que en cualquier otro tiempo.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 18 DE DICIEMBRE DE 2022.]</small>
+
+Aquellos trabajadores que se encuentren realizando sus funciones conforme a los supuestos del párrafo anterior, deberán mantenerse en comunicación constante y periódica con sus jefes inmediatos y a su disposición de manera permanente en los horarios laborales.
 
 ### CAPITULO SEXTO. DE LA SUSPENSION TEMPORAL DEL NOMBRAMIENTO DE LOS TRABAJADORES
 
@@ -1572,3 +1582,11 @@ P.O. 10 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281.- QUE CONTIENE REFORMA A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
