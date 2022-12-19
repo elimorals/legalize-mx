@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2022-06-13"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -16007,6 +16007,14 @@ Los elementos operativos de seguridad pública que colaboren en un siniestro con
 
 En todo lo relativo a derechos de los elementos del servicio de Bomberos, correctivo disciplinario, régimen disciplinario y causas de destitución de los elementos, serán aplicables los artículos relativos a los elementos operativos.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+A fin de reconocer a los servidores públicos que se destaquen por su desempeño dentro del Departamento de Protección Civil, el Ayuntamiento, por conducto del Presidente Municipal y los integrantes de la Comisión Permanente de Postulaciones, entregará de forma trimestral un estímulo consistente en el valor de 50 Unidades de Medida y Actualización al elemento que durante ese periodo se haya destacado por su dedicación en los procesos de formación continua y evaluación del desempeño y que haya realizado acciones relevantes en favor de la sociedad.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+El estímulo se acompañará de una constancia que acredite su otorgamiento, y contendrá el nombre del integrante operativo, la fecha y lugar de expedición y el concepto por el cual será acreedor al reconocimiento, para ser anexado a su expediente personal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2019)</small>
 
 ## TITULO TERCERO. DE LA MOVILIDAD MUNICIPAL
@@ -29776,3 +29784,11 @@ Artículo Segundo. Las disposiciones referentes a la designación del Contralor 
 Artículo Tercero. El Ayuntamiento contará con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para proveer las adecuaciones administrativas o presupuestales que sean necesarias para la creación de los órganos internos de control de los entes paramunicipales y para la designación de sus respectivos titulares, así como para emprender las acciones pertinentes para la puesta en marcha del servicio civil de carrera en los términos señalados por la presente normatividad. Será hasta entonces cuando dichas disposiciones resulten aplicables a los supuestos regulados por ellas.
 
 Artículo Cuarto. Mientras se crea el órgano interno de control de la Comisión de Agua Potable y Alcantarillado del Municipio de Pabellón de Arteaga, el Comisario de ese ente continuará desempeñando las funciones que le asignan las disposiciones referentes a dicho cargo, según lo establecido en las normas aplicables antes de la entrada en vigor del presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 856 DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Dentro del plazo de dos meses contados a partir de la entrada en vigor del presente Decreto se procederá a integrar el proceso de selección para el otorgamiento de los primeros estímulos previstos en el presente Decreto.
