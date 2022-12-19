@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2022-12-03"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -95,7 +95,9 @@ XVII. Iniciativa preferente: La que presenta el Titular del Poder Ejecutivo del 
 
 XVIII. Iniciativa: El acto jurídico por el cual se da inicio el proceso legislativo.
 
-XIX. Instituto de Transparencia: El Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XIX. Órgano Garante: Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
 
 XX. Jucopo: La Junta de Coordinación Política del Congreso.
 
@@ -103,7 +105,9 @@ XXI. Legislatura: El periodo de tiempo que dura el mandato de un órgano legisla
 
 XXII. Ley de Datos Personales: La Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca.
 
-XXIII. Ley de Transparencia: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Ley de Transparencia: Ley de Trasparencias (sic), Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
 
 XXIV. Ley: La Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
 
@@ -873,17 +877,19 @@ I. Administración Pública;
 
 II. Administración y Procuración de Justicia;
 
-III. Agropecuaria, Forestal, de Minería y Pesca;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+III. Fomento Agroalimentario y Desarrollo Rural;
 
 IV. Agua y Saneamiento;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-V. Pueblos Indígenas y Afromexicano;
+V. Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-VI. Cultura, Juventud, Cultura Física y Deporte;
+VI. Culturas, Artes, Juventud, Cultura Física y Deporte;
 
 VII. (DEROGADA, P.O. 31 DE OCTUBRE DE 2020)
 
@@ -891,11 +897,13 @@ VIII. Democracia y Participación Ciudadana;
 
 IX. Derechos Humanos;
 
-X. Desarrollo Económico, Industrial, Comercial y Artesanal;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2019)</small>
+X. Desarrollo Económico;
 
-XI. Bienestar y Fomento Cooperativo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XI. Bienestar, Tequio, Inclusión y Fomento Cooperativo;
 
 XII. Educación, Ciencia, Tecnología e Innovación;
 
@@ -903,21 +911,31 @@ XIII. Estudios Constitucionales;
 
 XIV. Fortalecimiento y Asuntos Municipales;
 
-XV. Gobernación y Asuntos Agrarios;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XV. Gobierno y Asuntos Agrarios;
 
 XVI. Grupos en Situación de Vulnerabilidad;
 
 XVII. Hacienda;
 
-XVIII. Igualdad de Género;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-XIX. Infraestructuras, Desarrollo Urbano y Ordenamiento Territorial;
+XVIII. Mujeres e Igualdad de Género;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XIX. Infraestructuras y Comunicaciones;
 
 XX. Instructora;
 
-XXI. Medio Ambiente, Energías Renovables y Cambio Climático;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-XXII. Movilidad, Comunicaciones y Transportes;
+XXI. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XXII. Movilidad y Transportes;
 
 XXIII. Presupuesto y Programación;
 
@@ -935,7 +953,9 @@ XXIX. Transparencia, Acceso a la Información y Congreso Abierto;
 
 XXX. Turismo;
 
-XXXI. Vigilancia del Órgano Superior de Fiscalización del Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XXXI. Vigilancia de la Auditoría Superior de Fiscalización del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1393,9 +1413,11 @@ El Congreso tiene la obligación de poner a disposición de la ciudadanía la in
 
 El Comité de Transparencia y la Unidad de Transparencia serán las instancias que proporcionen la información requerida por la ciudadanía, y serán los encargados de supervisar y actualizar permanentemente, en términos de la presente Ley y su reglamento, la información pública del Congreso en su portal de internet.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 110.
 
-En materia de acceso a la información pública, el Congreso observará lo establecido en la Ley General de Transparencia y Acceso a la Información Pública, en la Constitución Local, la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca y en los demás ordenamientos que regulen aspectos relacionados con el tema.
+En materia de acceso a la información pública, el Congreso observará lo establecido en la Ley General de Transparencia y Acceso a la Información Publica, en la Constitución Local, la Ley de Transparencia y Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, y en los demás ordenamientos que regulen aspectos relacionados con el tema.
 
 ###### ARTÍCULO 111.
 
@@ -1591,7 +1613,7 @@ TERCERO. La Sexagésima Cuarta Legislatura del Honorable Congreso del Estado de 
 
 P.O. 24 DE AGOSTO DE 2021.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2580.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES IX Y XII, Y SE ADICIONAN (SIC) UN SEGUNDO PÁRRAFO A LA FRACCIÓN V Y LA FRACCIÓN XIII RECORRIÉNDOSE LA SUBSECUENTE, TODAS DEL ARTÍCULO 89 DE LA LEY ÓRGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 55 RECORRIÉNDOSE LA SUBSECUENTE; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y UN TERCER PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 61, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
@@ -1620,3 +1642,23 @@ P.O. 3 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 748.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III, V, VI, X, XI, XV, XVIII, XIX, XXI, XXII Y XXXI DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las referencias de las Comisiones Permanentes previstas en la legislación vigente, se entenderá que corresponden a las denominaciones previstas en el presente Decreto. El H. Congreso del Estado de Oaxaca deberá armonizar la legislación estatal y reglamentaria que corresponda con lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de su aprobación.
+
+CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquías que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 749.- MEDIANTE EL CUAL SE REFORMAN I AS FRACCIONES XIX Y XXIII DEL ARTÍCULO 3, Y EL ARTICULO 110, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
