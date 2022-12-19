@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2022-11-23"
+last_updated: "2022-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1305,7 +1305,9 @@ Profesoras y profesores visitantes. La Escuela Judicial podrá contratar a profe
 
 Para la contratación de personas expertas con residencia en el extranjero, el o la Directora General de la Escuela Judicial o la Comisión podrán solicitar a éstas que presenten la documentación probatoria que consideren pertinente respecto de su trayectoria académica.
 
-La Escuela Judicial deberá someter la contratación de profesoras y profesores invitados a consideración de la Comisión para su aprobación, en donde deberá exponer la trayectoria académica de la profesora o profesor y la forma en que impactaría en la implementación de los Planes Anuales a que refiere el artículo 91 del presente Acuerdo. Una vez aprobada la contratación anterior, se informará a la Comisión de Administración para que ésta por su parte instruya a Recursos Humanos lo conducente.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA CONTRATACIÓN DE PROFESORAS Y PROFESORES VISITANTES, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
+
+La Escuela Judicial deberá someter la contratación de profesoras y profesores invitados a consideración de la Comisión para su aprobación, en donde deberá exponer la trayectoria académica de la profesora o profesor y la forma en que impactaría en la implementación de los Planes Anuales a que refiere el artículo 91 del presente Acuerdo. Una vez aprobada la contratación anterior, en caso de que se requiera de algún apoyo extraordinario, deberá solicitarse autorización de la Comisión de Administración, a efecto de que instruya a las áreas administrativas, para que, en el ámbito de sus competencias, atiendan las necesidades de la Escuela Judicial, en relación con la prestación de dichos servicios profesionales.
 
 ###### Artículo 111.
 
@@ -2538,3 +2540,11 @@ QUINTO. Para el personal administrativo y de la defensoría pública federal, el
 SEXTO. Para las personas titulares de órganos jurisdiccionales, a partir del mes de junio de 2025, la acreditación del "Curso Básico de Género", así como el "Curso para generar espacios libres de violencia" serán exigibles en el procedimiento de ratificación, es decir, la Secretaría Ejecutiva de Carrera Judicial recabará el informe de acreditación de ambos cursos a la Escuela Federal de Formación Judicial.
 
 SÉPTIMO. Se instruye al Instituto Federal de Defensoría Pública para que, en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, realice los ajustes necesarios a sus Bases Generales de Organización y Funcionamiento.
+
+D.O.F. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA CONTRATACIÓN DE PROFESORAS Y PROFESORES VISITANTES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
