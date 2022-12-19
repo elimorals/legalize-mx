@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2022-09-19"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1111,7 +1111,7 @@ Dirección de Servicios Públicos y Ecología;
 
 Dirección de Asuntos Jurídicos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Dirección de Seguridad Pública y Movilidad Municipal;
 
@@ -1191,33 +1191,61 @@ Delegado;
 
 Subdelegado.
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 VI.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Secretaría del H. Ayuntamiento y Director General de Gobierno;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 Subdirección General de Gobierno;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Coordinación Jurídica;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 Coordinación de Fomento Deportivo;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Coordinación de Acción Cívica y Cultural;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 Coordinación de Desarrollo Turístico;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Departamento de Reglamentos y Mercados;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 Departamento de Control Sanitario y Rastros;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Departamento de Protección Civil;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
 Departamento de Logística;
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+Departamento de Enlace con Relaciones Exteriores;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 Unidad Municipal de Paramédicos
 
-Unidad del Archivo Municipal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+Unidad del Archivo Municipal
 
 > <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1359,19 +1387,19 @@ Departamento de Jueces Calificadores.
 
 FRACCIÓN XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y MOVILIDAD MUNICIPAL.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Director de Seguridad Pública y Movilidad Municipal;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Subdirector Operativo de Seguridad Pública y Movilidad Municipal.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Subdirector de Asuntos Internos y Jurídico de Seguridad Pública y Movilidad Municipal.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, [N. DE E. CON SUS INCISOS], P.O. 30 DE AGOSTO DE 2021)</small>
 
 Escala Básica:
 
@@ -1383,39 +1411,39 @@ c) Policía Tercero, y
 
 d) Policía.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Servicio Médico;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Prevención del Delito;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Trabajo Social;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Unidad de Análisis;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Unidad de Inteligencia;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Profesionalización;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Operadores de Cámaras;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Administración; y
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2021)</small>
 
 Departamento de Armería.
 
@@ -21754,3 +21782,11 @@ PRIMERO.- La presente reforma del Código Municipal de San Francisco de los Romo
 SEGUNDO.- Para el caso de que, en alguna norma, manual, lineamientos, reglamento o código de orden Municipal donde se le confieran facultades y atribuciones a la Dirección de Contraloría Municipal de San Francisco de los Romo, se entenderán conferidas al ahora Órgano Interno de Control de San Francisco de los Romo, Aguascalientes.
 
 TERCERO.- Queda sin efectos las publicaciones realizadas con antelación, así mismo todo lo no establecido en el artículo 108 del presente ordenamiento debe referenciarse a lo establecido en el Reglamento Interior del Órgano Interno de Control del Municipio de San Francisco de los Romo del Estado de Aguascalientes y en las leyes secundarias de las materias de que se tratase.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
