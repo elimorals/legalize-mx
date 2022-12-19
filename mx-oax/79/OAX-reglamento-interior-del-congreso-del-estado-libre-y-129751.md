@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2022-12-03"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -97,7 +97,9 @@ XVII. Iniciativa preferente: La que presenta el Titular del Poder Ejecutivo del 
 
 XVIII. Iniciativa: El acto jurídico por el cual se da inicio el proceso legislativo.
 
-XIX. Instituto de Transparencia: El Instituto de Acceso a la Información Pública y Protección de Datos Personales de Oaxaca.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XIX. Órgano Garante: Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
 
 XX. Jucopo: La Junta de Coordinación Política del Congreso.
 
@@ -105,7 +107,9 @@ XXI. Legislatura: El periodo de tiempo que dura el mandato de un órgano legisla
 
 XXII. Ley de Datos Personales: La Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca.
 
-XXIII. Ley de Transparencia: La Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Ley de Transparencia: Ley de Trasparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
 
 XXIV. Ley: La Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
 
@@ -609,9 +613,13 @@ e. El referente a la designación del Consejero miembro del Poder Legislativo pa
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-III. Agropecuaria, Forestal, Minería y Pesca; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-a. La Legislación que tienda a la proyección y crecimiento de las actividades productivas agropecuarias, forestales, pesqueras y mineras en el Estado;
+III. Fomento Agroalimentario y Desarrollo Rural; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+a. La Legislación que tienda a la proyección y crecimiento de las actividades productivas agroalimentarias y pecuarias, forestales, pesqueras y mineras en el Estado;
 
 b. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia agrícola, ganadera, pesquera, acuícola y minera del Estado;
 
@@ -633,13 +641,15 @@ d. Participar en la regulación, gestión, conservación, preservación y atenci
 
 e. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-V. Pueblos Indígenas y Afromexicano; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+V. Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los pueblos y comunidades indígenas y afromexicanas;
 
-b. Impulsar mecanismos jurídicos de desarrollo de los pueblos y comunidades indígenas y afromexicanas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+b. Impulsar mecanismos jurídicos de desarrollo de los pueblos y comunidades indígenas y afromexicanas en la Entidad, fortaleciendo sus usos, costumbres, lenguas, culturas e idiosincrasia, así como la interculturalidad;
 
 c. Fortalecer el marco jurídico que garantice la participación de los Pueblos y Comunidades Indígenas en la sociedad;
 
@@ -653,31 +663,55 @@ g. Coadyuvar, dentro del ámbito de su competencia, en la realización de las Co
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-VI. Cultura, Juventud, Cultura Física y Deporte, le corresponde el dictamen y conocimiento de los siguientes asuntos:
+VI. Culturas, Artes, Juventud, Cultura Física y Deporte; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-a. La legislación en materia de cultura, juventud, cultura física y deporte;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+a. La legislación en materia de culturas, artes, juventud, cultura física y deporte;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 b. Solicitar al Ejecutivo del Estado la celebración de convenios que tiendan a la creación de instituciones culturales y deportivas;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 c. La promoción de iniciativas de ley, tendientes a favorecer a la juventud oaxaqueña en todos los órdenes;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 d. Promover la participación de la sociedad ante las Instituciones, Organismos Públicos y Privados, Estatales o Nacionales en la vida deportiva;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 e. La denominación de años o días festivos oficiales en materia cultural;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 f. El otorgamiento de reconocimientos y estímulos cívicos;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 g. Iniciativas que soliciten la inscripción de nombres, leyendas o apotegmas en el Muro de Honor del Honorable Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 h. Estudiar, analizar y dictaminar iniciativas de ley, decretos y acuerdos en materia del Patrimonio Natural, Cultural e Histórico tangible e intangible de nuestro Estado;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 i. Promover la atención, salvaguarda, conservación y protección del patrimonio cultural, artístico, documental y arquitectónico e histórico del Estado de Oaxaca;
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 j. Favorecerá la implementación de políticas públicas ante las instituciones del sector público, privado y social en materia de cultura física y deporte;
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
 k. Promover acciones de promoción, fomento y difusión de las actividades recreativas y deportivas; y
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 l. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
@@ -723,7 +757,9 @@ e. La relación con la Defensoría de los Derechos Humanos del Pueblo de Oaxaca 
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-X. Desarrollo Económico, Industrial, Comercial y Artesanal; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+X. Desarrollo Económico; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Adecuar y analizar la legislación tendiente a la promoción del desarrollo económico, Industrial, Comercial y Artesanal de las diferentes regiones del Estado;
 
@@ -733,9 +769,9 @@ c. Promover la celebración de los convenios que celebre el Congreso del Estado 
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-XI. Bienestar y Fomento Cooperativo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+XI. Bienestar, Tequio, Inclusión y Fomento Cooperativo; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población;
 
@@ -783,7 +819,9 @@ e. Lo relativo a la resolución conciliatoria de los conflictos que surjan entre
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XV. Gobernación y Asuntos Agrarios; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XV. Gobierno y Asuntos Agrarios; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Suspensión y revocación de mandato de los integrantes de los Ayuntamientos;
 
@@ -831,7 +869,9 @@ e. Los referidos a la autorización para la emisión de valores, certificados, o
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XVIII. Igualdad de Género; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Mujeres e Igualdad de Género; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
 a. Estudiará y vigilará lo relativo a iniciativas y reformas a las Leyes del Estado en los que se traten temas relativos a la mujer;
 
@@ -845,11 +885,17 @@ e. Los que se relacionen con la discriminación o maltrato por razones de sexo, 
 
 f. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XIX. Infraestructuras, Desarrollo Urbano y Ordenamiento Territorial; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con legislación en materia de desarrollo urbano y obra pública, para que sean de utilidad e impacto social;
+XIX. Infraestructuras y Comunicaciones; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-b. Los relacionados en materia de asentamientos humanos, desarrollo urbano, obra pública, servicios e infraestructura básica;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+a. Los que se refieran a las iniciativas de ley o modificaciones, relacionadas con la legislación en materia de desarrollo urbano, obra pública y comunicaciones, para que sean de utilidad e impacto social;
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+b. Los relacionados en materia de asentamientos humanos, desarrollo urbano, obra pública, comunicaciones, servicios e in (sic) infraestructura básica;
 
 c. Los relacionados con las zonas metropolitanas;
 
@@ -871,9 +917,13 @@ b. Practicar las diligencias necesarias para comprobar la conducta o hecho mater
 
 c. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXI. Medio Ambiente, Energías Renovables y Cambio Climático; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-a. Adecuar el marco jurídico para la preservación del medio ambiente y de los recursos naturales;
+XXI. Medio Ambiente, Biodiversidad, Energías, Sostenibilidad y Cambio Climático, le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+a. Adecuar el marco jurídico para la preservación del medio ambiente, de la biodiversidad y de los recursos naturales;
 
 b. Promocionar el aprovechamiento racional y sostenible de los recursos;
 
@@ -889,9 +939,13 @@ g. Dictaminar en todo lo relativo al aprovechamiento y promoción de las fuentes
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXII. Movilidad, Comunicaciones y Transportes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-a. Impulsar un marco jurídico que regule el transporte, las comunicaciones, movilidad y tránsito en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
+XXII. Movilidad y Transportes; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+a. Impulsar un marco jurídico que regule el transporte, movilidad y tránsito en la Entidad, con la finalidad de establecer los mecanismos necesarios para el eficaz desarrollo en la materia;
 
 b. Proponer a las Dependencias y Organismos el establecimiento de vínculos de intercambio de información, análisis de sistema y servicios de transporte eficiente, competitivo y seguro, y;
 
@@ -967,7 +1021,9 @@ d. Promover y vigilar la protección de datos personales en posesión del Poder 
 
 e. Proponer y revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial del Poder Legislativo;
 
-f. Lo relativo a la designación de los Comisionados del Instituto de Acceso a la Información Pública y Protección de Datos Personales, y;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+f. Lo relativo a la designación de los Comisionados del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
 
 g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
@@ -981,19 +1037,29 @@ c. Fomentar la regulación turística y el fortalecimiento de la estructura de l
 
 d. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXXI. Vigilancia del Órgano Superior de Fiscalización del Estado; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+XXXI. Vigilancia de la Auditoria Superior de Fiscalización del Estado;
 
 a. Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
 
-b. Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos al Órgano Superior de Fiscalización del Estado de Oaxaca;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+b. Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior de Fiscalización del Estado;
 
 c. Dictaminar las respectivas Cuentas Públicas;
 
-d. Evaluar que el Órgano Superior de Fiscalización del Estado de Oaxaca, cumpla eficazmente con las funciones que le competen;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-e. Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Titular y Sub auditores del Órgano Superior de Fiscalización del Estado de Oaxaca, que se integrará con las propuestas recibidas;
+d. Evaluar que la Auditoría Superior de Fiscalización del Estado, cumpla eficazmente con las funciones que le competen;
 
-f. Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Titular y Sub auditores del Órgano Superior de Fiscalización del Estado de Oaxaca, que se integrará con las propuestas recibidas;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+e. Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno del Congreso, el dictamen relativo a la titularidad de la Auditoria Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas;
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+f. Dictaminar acerca de la solicitud de licencia, renuncia o remoción de la titularidad de la Auditoria Superior de Fiscalización del Estado, que se integrará con las propuestas recibidas;
 
 g. Proponer a la Junta de Coordinación Política del Congreso del Estado la contratación del personal de la Unidad Técnica, que auxiliará a la Comisión en el Desempeño de sus funciones, y;
 
@@ -1393,9 +1459,11 @@ VII. Solicitudes de permiso en términos de lo dispuesto por el artículo 81 de 
 
 Salvo disposición legal en contrario, para el cómputo de los plazos señalados en días, se considerarán días hábiles; los establecidos en meses, de fecha a fecha; y los indicados en horas, de momento a momento. Los días inhábiles son los sábados, domingos y días festivos. Al inicio de cada año de ejercicio de la Legislatura, previo acuerdo de la Jucopo, la Presidencia de la Mesa Directiva dará a conocer los días que se consideran como inhábiles.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 66.
 
-En el caso de que las iniciativas impliquen un impacto presupuestal, la comisión o comisiones deberán solicitar a la Comisión de Presupuesto y Programación y a la Secretaría de Finanzas del Gobierno del Estado, una proyección de dicho impacto. Lo anterior de conformidad con lo dispuesto por la Ley de Presupuesto y Responsabilidad Hacendaria en vigor.
+En el caso de que las iniciativas impliquen un impacto presupuestal, la comisión o comisiones deberán solicitar al Centro de Estudios Económicos y de Finanzas Públicas y a la Secretaría de Finanzas del Gobierno del Estado, una proyección de dicho impacto. Lo anterior de conformidad con lo dispuesto por la Ley de Presupuesto y Responsabilidad Hacendaria en vigor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -3026,3 +3094,31 @@ P.O. 3 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 748.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III, V, VI, X, XI, XV, XVIII, XIX, XXI, XXII Y XXXI DEL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las referencias de las Comisiones Permanentes previstas en la legislación vigente, se entenderá que corresponden a las denominaciones previstas en el presente Decreto. El H. Congreso del Estado de Oaxaca deberá armonizar la legislación estatal y reglamentaria que corresponda con lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de su aprobación.
+
+CUARTO. Quedan derogadas todas las disposiciones de igual o menor jerarquías que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 749 POR EL QUE “SE REFORMAN LAS FRACCIONES XIX Y XXIII DEL ARTÍCULO 3 Y LA LETRA F. DE LA FRACCIÓN XXIX DEL ARTÍCULO 42 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 750.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 66, DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
