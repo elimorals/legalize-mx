@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-bacalar-del-estado-de-153782"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-27"
-last_updated: "2021-12-27"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 194 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 27 de Diciembre de 2021.
 
@@ -41,23 +41,35 @@ I. Matrimonios
 
 a) En las oficinas del registro civil en días y horas hábiles 11
 
-b) Fuera de las oficinas del registro civil en días y horas
+b) Fuera de las oficinas del registro civil en días y horas hábiles 39
 
-hábiles 39
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-c) Fuera de las oficinas del registro civil en sábados y domingos y días festivos 39
+c) Fuera de las oficinas del registro civil en días y horas inhábiles 42
 
 d) Registro de matrimonios contraídos por mexicanos fuera de la República 12
 
 e) Matrimonios entre extranjeros en la oficina del Registro Civil 76
 
-f) Matrimonios entre extranjeros fuera de la oficina del Registro Civil 136.2
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-g) Matrimonio entre extranjeros y mexicanos en las oficinas del Registro Civil 18.4
+f) Matrimonios entre mexicanos y extranjeros fuera de la oficina del Registro Civil 136.2
 
-h) Matrimonio (sic) extranjeros y mexicanos fuera de las oficinas del Registro Civil 40
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
 
-k) (sic) Por la expedición de copias certificadas de actos del estado civil de las personas a través de medios remotos o terminales electrónicas. 1.2
+g) Matrimonio entre extranjeros y mexicanos en las oficinas del Registro Civil 20
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+h) Matrimonio entre extranjeros y mexicanos fuera de las oficinas del Registro Civil en días y horas hábiles 45
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+i) Matrimonio entre extranjeros y mexicanos fuera de las oficinas del Registro Civil en días y horas inhábiles 50
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+j) Por la expedición de copias certificadas de actos del estado civil de las personas a través de mediosremotos (sic) o terminales electrónicas. 12
 
 II. Divorcios:
 
@@ -85,7 +97,9 @@ f) Expedición de actas de defunción, por cada una 2
 
 g) Expedición de actas de matrimonio 2
 
-h) Transcripción de documentos 5.1
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+h) Orden de inhumación 1.4
 
 i) Expedición de acta de reconocimiento 1.4
 
@@ -93,11 +107,17 @@ j) Expedición de acta de adopción. 5.1
 
 k) Expedición de acta de inscripción 5.1
 
-l) Constancia de inexistencia registral 104
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+l) Reposición de formatos 1.4
 
 m) Certificación de documentos 12.4
 
-n) Búsqueda de documentos 12.4
+(NOTA: EL 24 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2023, DECLARÓ LA INVALIDEZ DEL INCISO n) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+n) BÚSQUEDA DE DOCUMENTOS 1.4
 
 o) Otros no especificados 12.4
 
