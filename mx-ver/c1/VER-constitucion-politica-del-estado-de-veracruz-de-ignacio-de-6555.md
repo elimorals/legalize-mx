@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2022-08-11"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -2109,35 +2109,61 @@ b) La Comisión se integrará por: Cuatro periodistas; dos propietarios o direct
 
 c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, y durarán en su encargo cuatro años con posibilidad de reelección por una sola vez. La Ley señalará el procedimiento para la designación del Presidente de la Comisión, así como las atribuciones de éste, de los demás comisionados y del secretario ejecutivo.
 
-> <small>(ADICIONADA, G.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2022)</small>
 
-VI. El Tribunal Estatal de Justicia Administrativa es un organismo dotado de plena autonomía para dictar sus fallos, la ley establecerá su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tiene personalidad jurídica y patrimonio propios, independencia en sus decisiones, y será la máxima autoridad en la materia, con la jurisdicción y competencia que determine esta Constitución, su Ley Orgánica y demás legislación relativa. Asimismo, formará parte del Sistema Estatal Anticorrupción.
+VI. El Tribunal de Justicia Administrativa del Estado de Veracruz es un organismo dotado de plena autonomía para dictar sus fallos, la ley establecerá su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones; tiene personalidad jurídica y patrimonio propios, independencia en sus decisiones, y será la máxima autoridad en la materia, con la jurisdicción y competencia que determine esta Constitución, su Ley Orgánica y demás legislación relativa. Asimismo, formará parte del Sistema Estatal Anticorrupción.
+
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
 Será competente para dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales o municipales por las responsabilidades administrativas que la ley determine como graves y a los particulares que incurran en actos vinculados con faltas administrativas graves; fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales y municipales y a los particulares afectados por los hechos o actos de servidores públicos.
 
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
+
 El Tribunal ejercerá sus funciones bajo los principios de autonomía, legalidad, plena jurisdicción, honestidad, responsabilidad, austeridad, transparencia, independencia jurisdiccional, imparcialidad, objetividad, profesionalismo, excelencia, motivación y fundamentación, vocación de servicio y responsabilidad en el uso de los elementos materiales.
 
-El Tribunal funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley; y se integrará por cuatro magistrados.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2022)</small>
+
+El Tribunal funcionará con un Pleno, una Sala Superior y Salas Regionales Unitarias, de conformidad con lo dispuesto en la Ley, y se integrará por seis magistraturas.
+
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
 Los Magistrados del Tribunal serán nombrados por el Congreso a propuesta del Gobernador, durarán en su encargo diez años improrrogables y sólo serán removidos de conformidad con lo dispuesto por esta Constitución y la ley.
 
-Para ser magistrado del Tribunal Estatal de Justicia Administrativa se requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2022)</small>
+
+Para ser magistrado del Tribunal de Justicia Administrativa del Estado de Veracruz, se deberá de cumplir con los requisitos siguientes, que en ningún caso podrán ser dispensados:
+
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
 a) Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
 
-b) Tener, cuando menos, treinta años cumplidos al día de la designación;
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2022)</small>
 
-c) Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, con una antigüedad mínima de cinco años, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+b) Tener, cuando menos, treinta y cinco años cumplidos al día de la designación;
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2022)</small>
+
+c) Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, con una antigüedad mínima de diez años, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
 
 d) Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
+> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
+
 e) No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 19 DE DICIEMBRE DE 2022)</small>
 
 f) Los demás requisitos que señale la ley.
 
-No podrán ser magistrados del Tribunal Estatal de Justicia Administrativa las personas que hayan ocupado el cargo de Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2022)</small>
 
-El Tribunal contará con un Órgano Interno de Control que ejercerá sus funciones en coordinación con el Órgano de Fiscalización Superior del Estado, cuyo titular será nombrado por el Congreso del Estado, con la aprobación de las dos terceras partes de sus miembros presentes.
+No podrán ser magistrados del Tribunal de Justicia Administrativa del Estado de Veracruz las personas que hayan ocupado el cargo de Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2022)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Veracruz, contará con un Órgano Interno de Control, de conformidad con las leyes aplicables, cuyo titular debe de ser elegido por el Congreso del Estado con la aprobación de las dos terceras partes de sus miembros presentes.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE OCTUBRE DE 2017)</small>
 
@@ -4076,3 +4102,23 @@ G.O. 11 DE AGOSTO DE 2022.
 Primero. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Queda extinto el Tribunal Estatal de Justicia Administrativa de Veracruz. Se derogan todas las disposiciones que se opongan al presente Decreto. A partir de la entrada en funcionamiento del Tribunal de Justicia Administrativa del Estado de Veracruz (TRIJAEV), todas las leyes en que se haga mención al Tribunal extinto se interpretarán referidas al nuevo Tribunal que entra en funciones.
+
+TERCERO. La LXVI Legislatura del H. Congreso del Estado, deberá de realizar las adecuaciones a la Ley Orgánica del Tribunal Estatal de Justicia Administrativa y a los demás ordenamientos jurídicos aplicables derivadas del presente Decreto, a más tardar dentro de los 30 días posteriores a la entrada en vigor del mismo. En dichos ajustes se podrá establecer la sección especializada en materia de responsabilidad administrativa.
+
+CUARTO. Las y los Magistrados del Tribunal Estatal de Justicia Administrativa estarán a lo dispuesto por el presente Decreto. Asimismo, se les otorgará una indemnización por terminación de funciones equivalente a tres meses de percepciones ordinarias.
+
+QUINTO. En un plazo no mayor a 60 días posteriores a la fecha de la publicación de la reforma a la Ley Orgánica, se deberán iniciar los procesos constitucionales para dar cumplimiento al presente Decreto. El Congreso del Estado emitirá la convocatoria para la designación del titular del Órgano Interno de Control, dentro de los sesenta días posteriores a la entrada en vigor de las reformas aludidas.
+
+SEXTO. Los recursos materiales, financieros y presupuestales con que cuenta el Tribunal Estatal de Justicia Administrativa, incluyendo todos los bienes, se transferirán al Tribunal de Justicia Administrativa del Estado de Veracruz, al entrar en funciones. Por cuanto al recurso humano se estará a lo dispuesto en (sic) ley. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final de conformidad con la integración del nuevo Tribunal.
+
+SÉPTIMO. En términos del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, hasta en tanto se nombren magistraturas, se suspenderán los plazos procesales, sin que ello implique denegación de la justicia administrativa.
+
+OCTAVO. Dadas las circunstancias sobre el posible trastorno al funcionamiento del órgano autónomo extinto, dese inicio al procedimiento que en derecho proceda.
