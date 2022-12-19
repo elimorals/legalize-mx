@@ -4,7 +4,7 @@ identifier: "NAY-codigo-fiscal-del-estado-de-nayarit-79751"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-01-22"
-last_updated: "2016-11-08"
+last_updated: "2022-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # CODIGO FISCAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Código publicado en la Sección Décima Octava del Periódico Oficial del Estado de Nayarit, el sábado 22 de enero de 2011.
 
@@ -2320,3 +2322,17 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO FISCAL DEL ESTADO DE NAYARIT”.]
+
+PRIMERO. El presente Código entrará en vigor el día primero de enero de 2023, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Código Fiscal del Estado de Nayarit, publicado con fecha 22 de enero de 2011, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit y demás disposiciones fiscales que se opongan al presente Código.
+
+TERCERO. Los procedimientos y recursos que se estén tramitando a la entrada en vigor de este ordenamiento, se seguirán substanciando conforme a las disposiciones del Código anterior, hasta su conclusión.
+
+CUARTO. Para efectos de poner en vigor el uso de medios electrónicos, ópticos o de cualquier otra tecnología, así como de firma electrónica avanzada, documentos y sellos digitales, y a fin de que sea válida su utilización, se estará a lo que en su momento sea decretado por el Titular del Poder Ejecutivo del Estado.
+
+QUINTO. En un plazo que no deberá exceder de 120 días naturales posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones normativas, administrativas y operativas que resulten necesarias para el cumplimiento del presente Código.
