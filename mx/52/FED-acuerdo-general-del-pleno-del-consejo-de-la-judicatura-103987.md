@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2022-11-23"
+last_updated: "2022-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -9677,9 +9677,17 @@ VI. Proponer a la Comisión de Administración las acciones de reingeniería de 
 
 VII. Proponer a las áreas administrativas que correspondan, la celebración de convenios de colaboración con instituciones educativas y centros de investigación en materia de indicadores, evaluación de la gestión, mejora continua de procesos, o cualquier otra materia encaminada a mejorar la eficiencia administrativa y en consecuencia la racionalidad del gasto;
 
-VIII. Aprobar el calendario de sesiones ordinarias del año siguiente, en la última sesión ordinaria de cada año; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
 
-IX. Las demás que estén previstas en esta Sección y las que le sean conferidas por el Pleno o la Comisión de Administración.
+VIII. Aprobar el calendario de sesiones ordinarias en la última sesión ordinaria de cada año;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
+
+IX. Aprobar las justificaciones para la adquisición o arrendamiento de vehículos que por su naturaleza su valor comercial exceda el límite señalado en la normatividad aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
+
+X. Las demás que estén previstas en esta Sección y las que sean conferidas por el Pleno o la Comisión de Administración.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
 
@@ -9793,11 +9801,15 @@ Los invitados solamente estarán presentes durante la discusión del tema para e
 
 Artículo 704 Quindecies. La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente el Consejo.
 
-La Secretaría Técnica emitirá la convocatoria de sesiones ordinarias a los integrantes, asesores e invitados, con una anticipación de cuando menos siete días previos a la fecha de celebración.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría Técnica remitirá la convocatoria de sesiones ordinarias a los integrantes, asesores e invitados, con una anticipación de cuando menos tres días hábiles previos a la fecha de celebración.
 
 La convocatoria deberá incluir el orden del día, las carpetas y demás información a tratar en la sesión correspondiente.
 
-Las convocatorias para las sesiones extraordinarias del Comité se emitirán, cuando menos, con cinco días de anticipación a la fecha de la celebración de la sesión, a la cual se anexará el orden del día, las carpetas, así como la información a tratar en la sesión correspondiente.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO, D.O.F. 19 DE DICIEMBRE DE 2022)</small>
+
+Las convocatorias para las sesiones extraordinarias del Comité se remitirán, de ser posible con veinticuatro horas de anticipación a la fecha de la celebración de la sesión, a la cual se anexará el orden del día, las carpetas, así como la información a tratar en la sesión correspondiente.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA CREACIÓN DEL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL PROPIO CONSEJO, D.O.F. 20 DE SEPTIEMBRE DE 2021)</small>
 
@@ -14442,3 +14454,11 @@ QUINTO. Para el personal administrativo y de la defensoría pública federal, el
 SEXTO. Para las personas titulares de órganos jurisdiccionales, a partir del mes de junio de 2025, la acreditación del "Curso Básico de Género", así como el "Curso para generar espacios libres de violencia" serán exigibles en el procedimiento de ratificación, es decir, la Secretaría Ejecutiva de Carrera Judicial recabará el informe de acreditación de ambos cursos a la Escuela Federal de Formación Judicial.
 
 SÉPTIMO. Se instruye al Instituto Federal de Defensoría Pública para que, en un término de 30 días hábiles a partir de la entrada en vigor del presente Acuerdo, realice los ajustes necesarios a sus Bases Generales de Organización y Funcionamiento.
+
+D.O.F. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
