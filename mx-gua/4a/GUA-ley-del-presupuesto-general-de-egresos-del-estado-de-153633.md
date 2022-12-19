@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-presupuesto-general-de-egresos-del-estado-de-153633"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-30"
-last_updated: "2021-12-30"
+last_updated: "2022-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Vigésima Segunda Parte del Número 260 del Periódico Oficial del Estado de Guanajuato, el jueves 30 de diciembre de 2021.
 
@@ -1021,6 +1021,12 @@ Aplicación de ingresos para (sic) Cruz Roja Mexicana y Bomberos
 
 Artículo Tercero. De los recursos recaudados por concepto de refrendo anual de placas metálicas, contenido en el artículo 14, fracciones I y II de la Ley de Ingresos del Estado de Guanajuato para el Ejercicio Fiscal de 2022, se destinará de la tarifa aplicable la cantidad de $15.00 (quince pesos 00/100 M.N.), a la Delegación de la Cruz Roja Mexicana en Guanajuato, y $15.00 (quince pesos 00/100 M.N.) a la Asociación de Bomberos del Estado de Guanajuato, A.C., los que serán depositados en los fideicomisos creados por cada una de dichas instituciones.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2022)</small>
+
+Igualdad de oportunidades y derechos humanos
+
+Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración deberá autorizar las ampliaciones líquidas para que se destinen recursos a programas, procesos o proyectos de inversión prioritarios, entre otros, con la finalidad de cerrar la brecha de desigualdad y hacer efectiva la igualdad de oportunidades y derechos humanos para la comunidad LGTBIQ+ y otros grupos en situación de vulnerabilidad, de conformidad con la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato.
+
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. - GUANAJUATO, GTO., 20 DE DICIEMBRE DE 2021.- ARMANDO RANGEL HERNÁNDEZ.- DIPUTADO PRESIDENTE.- CUAUHTÉMOC BECERRA GONZÁLEZ.- DIPUTADO VICEPRESIDENTE.- NOEMÍ MÁRQUEZ MÁRQUEZ.- DIPUTADA SECRETARIA.- JANET MELANIE MURILLO CHÁVEZ.-DIPUTADA SECRETARIA.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -1098,3 +1104,11 @@ No hay recursos asignados para el ejercicio fiscal 2022.
 > <small>[N. DE E. VEÁSE ANEXO 30 EN EL P.O. DE 30 DE DICIEMBRE DE 2021, PÁGINAS DE LA 279 A LA 280.]</small>
 
 > <small>[N. DE E. VEÁSE ANEXO 31 EN EL P.O. DE 30 DE DICIEMBRE DE 2021, PÁGINAS DE LA 281 A LA 282.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 171, POR EL CUAL, SE ADICIONA UN ARTÍCULO CUARTO TRANSITORIO A LA LEY DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2022".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
