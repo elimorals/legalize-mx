@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-02-22"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -289,11 +289,9 @@ La Secretaría de Finanzas enviará dicha información al Comité de Vigilancia 
 
 Adicionalmente, los municipios percibirán recursos de los fondos señalados en las fracciones IV, V y VI del artículo 4 de esta ley, debiendo asignarse según se trate, de la siguiente manera:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I. El Fondo de Fiscalización se distribuirá trimestralmente tomando como base el crecimiento porcentual de cada uno de los Municipios, del Impuesto Predial y de los Derechos de Agua comparando los dos ejercicios fiscales anteriores al actual, se determinará la sumatoria de los porcentajes, se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo.
+I. El Fondo de Fiscalización y Recaudación se distribuirá de manera mensual y se incluirán los ajustes trimestrales y aquellos que correspondan, tomando como base el crecimiento porcentual de cada uno de los Municipios, del Impuesto Predial y de los Derechos de Agua comparando los dos ejercicios fiscales anteriores al actual, se determinará la sumatoria de los porcentajes, se dividirá el porcentaje de cada Municipio entre la sumatoria para obtener el coeficiente de distribución de este Fondo.
 
 II. El Fondo de Extracción de Hidrocarburos se distribuirá en un 60 por ciento a partes iguales entre los municipios productores o extractores de petróleo o gas en el Estado y en el 40 por ciento restante entre los demás municipios en partes iguales.
 
@@ -1068,3 +1066,15 @@ El presente Decreto entrará en vigor el primero de enero de 2022, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-495 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2023.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
