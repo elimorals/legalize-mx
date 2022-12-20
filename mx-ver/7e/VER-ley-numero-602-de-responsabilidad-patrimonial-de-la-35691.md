@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-602-de-responsabilidad-patrimonial-de-la-35691"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2020-02-04"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DE LA ADMINISTRACION PUBLICA ESTATAL Y MUNICIPAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el miércoles 31 de diciembre de 2003.
 
@@ -187,9 +187,11 @@ e) En los casos de concurrencia de administraciones u organismos deudores, el ra
 
 Al peticionario que inicie un procedimiento de reclamación y resulte no motivado o motivado en consideraciones frívolas, se le impondrá una multa del valor diario de tres a cien Unidades de Medida y Actualización vigente, dependiendo de las circunstancias personales del peticionario.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-Las resoluciones definitivas que nieguen la indemnización pedida o cuyo monto no satisfaga al peticionario, podrán impugnarse, a elección del interesado, a través del recurso de revocación ante el superior jerárquico del órgano resolutor o mediante el juicio contencioso ante la Sala Regional competente del Tribunal de lo Contencioso Administrativo del Estado.
+Las resoluciones definitivas que nieguen la indemnización pedida o cuyo monto no satisfaga al peticionario, podrán impugnarse, a elección del interesado, a través del recurso de revocación ante el superior jerárquico del órgano resolutor o mediante el juicio contencioso ante la Sala Regional Unitaria competente del Tribunal de Justicia Administrativa del Estado de Veracruz.
 
 ### Capítulo IV. De la concurrencia
 
@@ -286,3 +288,51 @@ SEGUNDO. Para los efectos legales procedentes, todas las leyes, decretos, códig
 TERCERO. Las obligaciones y supuestos denominados en Unidad de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en la citada unidad, por el valor de dicha unidad a la fecha correspondiente.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 463 POR EL QUE SE REFORMA LA DENOMINACIÓN, SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY NÚMERO 367 ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO NÚMERO 14 DE PROCEDIMIENTOS ADMINISTRATIVOS; SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY NÚMERO 366 DE RESPONSABILIDADES ADMINISTRATIVAS; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 10 DE LA LEY NÚMERO 348 DEL SISTEMA ESTATAL ANTICORRUPCIÓN; Y, SE REFORMA EL ARTÍCULO 19 DE LA LEY NÚMERO 602 DE RESPONSABILIDAD PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL; TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Tribunal de Justicia Administrativa del Estado de Veracruz subrogará las funciones del Tribunal Estatal de Justicia Administrativa de Veracruz en los términos del párrafo primero de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos; ante lo que, los asuntos incoados ante aquél serán continuados por este último.
+
+CUARTO.- El titular del Órgano Interno de Control en funciones estará a lo dispuesto en el diverso Decreto por el que se Reforma la fracción VI del artículo 67 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, cuya declaratoria fue hecha por esta Soberanía en fecha 13 de diciembre del 2022, así como por el presente Decreto, otorgándosele una indemnización por terminación de funciones equivalente a tres meses de sus percepciones ordinarias.
+
+QUINTO.- Continúa en su vigencia el acuerdo número TEJAV/01/04/22 emitido por el entonces Pleno del Tribunal Estatal de Justicia Administrativa del Estado de Veracruz, relativo a días inhábiles para plazos procesales con motivo del periodo vacacional, del 12 de diciembre del 2022 al 03 de enero del 2023.
+
+SEXTO.- A partir de la entrada en vigor del presente Decreto y hasta la conclusión del plazo arriba citado, los magistrados del Tribunal de Justicia Administrativa del Estado de Veracruz podrán tomar posesión genérica de las instalaciones y funciones del Tribunal Estatal de Justicia Administrativa de Veracruz, celebrando para ello la Primera Sesión Ordinaria del Pleno del Tribunal para dar cumplimiento al presente Decreto. Dicha acta deberá publicarse en la Gaceta Oficial del Estado para los efectos a que haya lugar.
+
+A partir de ello, el Pleno del Tribunal podrá celebrar las Sesiones Extraordinarias que resulten necesarias para emitir los acuerdos de su competencia para el buen funcionamiento del Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+SÉPTIMO.- El Pleno del Tribunal podrá, a partir de la entrada en vigor del presente Decreto, determinar mediante acuerdo tomado en Sesión Extraordinaria, la suspensión de plazos procesales para la continuación de asuntos jurisdiccionales atendidos por el extinto Tribunal Estatal de Justicia Administrativa de Veracruz en términos de la Ley y el Código de Procedimientos Administrativos, por un plazo máximo de hasta veinte días hábiles, el cual podrá ser prorrogado por una sola ocasión en los mismos términos, lo que deberá de ser publicado de forma inmediata en (sic) Gaceta Oficial del Estado para efectos de certeza jurídica de los justiciables.
+
+En el mismo plazo, el Pleno mediante diverso acuerdo tomado en Sesión Extraordinaria, fundado y motivado, determinará la asignación específica de los expedientes en trámite de primera instancia en las Salas Unitarias del extinto Tribunal Estatal de Justicia Administrativa a la entrada en vigor del presente Decreto, a cada una de las Salas Regionales Unitarias del Tribunal de Justicia Administrativa del Estado de Veracruz conforme al contenido de éste; lo que, será notificado previamente por tales órganos jurisdiccionales a las partes para efectos de su certeza jurídica.
+
+Previo a la fecha de reanudación de la actividad jurisdiccional de la Sala Superior y Salas Regionales Unitarias del Tribunal de Justicia Administrativa del Estado de Veracruz en los términos del presente Decreto, el Pleno deberá publicar en la Gaceta Oficial del Estado el día en que ello habrá de suceder, el domicilio oficial que corresponderá a cada uno de los citados órganos jurisdiccionales así como cualquier otra circunstancia que se considere necesaria, para los efectos de la certeza jurídica de los justiciables.
+
+OCTAVO.- En el plazo del artículo anterior, los órganos jurisdiccionales y Unidades Administrativas del Tribunal de Justicia Administrativa del Estado de Veracruz recibirán de forma específica los recursos materiales, humanos, financieros, expedientes, cuadernos, libros, registros y demás existentes del extinto Tribunal Estatal de Justicia Administrativa de Veracruz, conforme al contenido de los Lineamientos Para la Entrega y Recepción de los Recursos que Tengan Asignados las Personas Servidoras Públicas del Tribunal Estatal de Justicia Administrativa. Así mismo dotará de instalaciones, recursos materiales, personal, plataformas o sistemas electrónicos y demás necesarios para el funcionamiento de las Salas Regionales Unitarias.
+
+Los recursos financieros, humanos y materiales asignados por el Decreto de Presupuesto de Egresos para el ejercicio fiscal 2022 por esta Soberanía en favor del Tribunal Estatal de Justicia Administrativa de Veracruz, para el resto de este ejercicio fiscal, serán ejercidos en términos del presente Decreto por el Tribunal de Justicia Administrativa del Estado de Veracruz, atendiendo cada caso acorde a lo dispuesto en la ley correspondiente.
+
+NOVENO.- Al reanudarse los plazos procesales en los términos del presente Decreto, las Salas Regionales Unitarias y la Sala Superior comenzarán inexcusablemente por atender en primer orden los asuntos jurisdiccionales que se encuentren en estado de dictarse la sentencia o resolución respectiva, para lo cual se contará con un plazo de hasta cuatro meses, salvo que situación procesal específica justifique lo contrario.
+
+DÉCIMO.- Las plataformas y sistemas electrónicos del Tribunal existentes a la entrada en vigor del presente Decreto estarán vigentes y en uso en tanto el Tribunal de Justicia Administrativa del Estado de Veracruz determina de forma específica respecto de cada una de éstas.
+
+DÉCIMO PRIMERO.- El Tribunal de Justicia Administrativa del Estado de Veracruz realizará ante toda clase de autoridades y particulares las gestiones jurisdiccionales o administrativas tendentes a la extinción administrativa del Tribunal Estatal de Justicia Administrativa de Veracruz, continuando los derechos y obligaciones adquiridos por éste.
+
+DÉCIMO SEGUNDO.- Hágase efectiva la indemnización de los magistrados del extinto Tribunal Estatal de Justicia Administrativa, en términos del Decreto por el que se Extingue el Tribunal Estatal de Justicia Administrativa, y Reforma la Fracción VI del Artículo 67, de la Constitución Política del Estado de Veracruz, para Crear el Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+El Pleno del Tribunal de Justicia Administrativa del Estado de Veracruz hará la adecuación o expedirá la normatividad administrativa necesaria conforme a las disposiciones del presente Decreto, en un plazo no mayor a un año siguiente al inicio de su vigencia.
+
+En tanto, continúan en vigor los reglamentos, manuales, lineamientos o demás disposiciones actualmente existentes en lo que no contravengan el contenido del presente Decreto, en cuyo caso se aplicará lo dispuesto en éste.
+
+Los casos no previstos serán resueltos o reglamentados de forma temporal a través de acuerdos emitidos por el Pleno, en lo que se expiden las disposiciones a que se refiere el párrafo primero.
+
+En tanto no exista designación de titulares de Unidades Administrativas u órganos jurisdiccionales y demás personal del Tribunal diverso a los que se refiere el presente Decreto, continuarán en sus funciones y obligaciones los existentes a la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO TERCERO.– Por esta única ocasión, esta Soberanía, al hacer las designaciones de magistraturas del Tribunal de Justicia Administrativa del Estado de Veracruz realizará las adscripciones de cada una de éstas a las Salas Regionales Unitarias y Ponencias de la Sala Superior respectivas, así como quién ejercerá la Presidencia del Tribunal.
+
+DÉCIMO CUARTO.- A partir de la entrada en vigor del presente Decreto, toda referencia en leyes, códigos o cualquier otra normatividad, que se haga al extinto Tribunal Estatal de Justicia Administrativa, deberá tenerse hecha en favor del Tribunal de Justicia Administrativa del Estado de Veracruz.
