@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2022-05-11"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -164,29 +164,33 @@ V. Deporte: Actividad física, organizada y reglamentada, que tiene por finalida
 
 VI. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
 
-VII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
 
-VIII. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
+VII. Deporte Adaptado: Al que realizan las personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado;
+
+VIII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+
+IX. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-IX. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
+X. Activación Física: Ejercicio o movimiento del cuerpo humano que se realiza para mejora de la aptitud y la salud física y mental de las personas;
 
 > <small>(REFORMADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-X. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+XI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+XII. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y
+XIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos, y
 
 > <small>(ADICIONADA, D.O.F. 9 DE MAYO DE 2014)</small>
 
-XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
+XIV. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 
 > <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
 
@@ -270,7 +274,11 @@ III. Proponer planes y programas que contribuyan a fomentar, promover y estimula
 
 IV. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, y
 
-V. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+V. Promover mecanismos que posibiliten la detección oportuna de niñas, niños, adolescentes y jóvenes con talento deportivo en la educación básica y educación media superior, y
+
+VI. Las demás que le otorgue esta Ley u otros ordenamientos legales.
 
 ###### Artículo 14.
 
@@ -678,7 +686,9 @@ XXVI. (DEROGADA, D.O.F. 6 DE NOVIEMBRE DE 2020)
 
 XXVII. Fomentar la cultura física, la recreación, la rehabilitación y el deporte entre la población en general, como medio para la prevención del delito;
 
-XXVIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Formular programas para promover la cultura física y deporte adaptado entre las personas con discapacidad;
 
 XXIX. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado, y
 
@@ -1150,9 +1160,11 @@ V. Colaborar y apoyar a la CONADE en todo lo relacionado al desarrollo del depor
 
 #### Sección Quinta. Del Comité Paralímpico Mexicano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 73.
 
-El Comité Paralímpico Mexicano es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, constituida por las Asociaciones Deportivas Nacionales que rigen y organizan los deportes y modalidades deportivas para las personas con discapacidad, debidamente afiliadas a las Federaciones Deportivas Internacionales que cuenten con el reconocimiento del Comité Paralímpico Internacional.
+El Comité Paralímpico Mexicano es una asociación civil autónoma, con personalidad jurídica y patrimonio propios, constituida por las Asociaciones Deportivas Nacionales que rigen y organizan el deporte adaptado y sus modalidades deportivas para las personas con discapacidad, debidamente afiliadas a las Federaciones Deportivas Internacionales que cuenten con el reconocimiento del Comité Paralímpico Internacional.
 
 Su objeto consiste fundamentalmente en fomentar, proteger y velar por el desarrollo del deporte y el movimiento paralímpicos, así como la difusión de los ideales paralímpicos en nuestro país y representar al Comité Paralímpico Internacional en México y su actividad es considerada de utilidad pública.
 
@@ -1198,9 +1210,15 @@ VI. Coordinar un área de mediación y conciliación con la participación de pe
 
 Para efectos de esta fracción se entiende por mediación la función de establecer comunicación y negociación entre las partes para prevenir o resolver un conflicto, y por conciliación el método para proponer a las partes alternativas concretas de solución para que resuelvan de común sus diferencias;
 
-VII. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar y ejecutar o que no acaten y ejecuten en sus términos, los acuerdos, decisiones, laudos y resoluciones emitidos por la propia CAAD, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
 
-VIII. Las demás que establezca la presente Ley y otras disposiciones reglamentarias.
+VII. Imponer correcciones disciplinarias y medidas de apremio a todas aquellas personas físicas o morales, organismos y entidades deportivas por conducto de sus titulares que se nieguen a acatar y ejecutar o que no acaten y ejecuten en sus términos, los acuerdos, decisiones, laudos y resoluciones emitidos por la propia CAAD;
+
+> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+VIII. Garantizar a los deportistas con discapacidad la defensa de sus derechos en los procesos de apelación en los que intervengan, en términos de la fracción III de este artículo, y
+
+IX. Las demás que establezca la presente Ley y otras disposiciones reglamentarias.
 
 ###### Artículo 80.
 
@@ -1388,11 +1406,11 @@ La CONADE promoverá, coordinará e impulsará en coordinación con la SEP la en
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SINADE, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del país de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 101.
 
-La CONADE participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Federal, Gobiernos de las Entidades Federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México, organismos públicos, sociales y privados, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+La CONADE participará en la elaboración de programas de capacitación en actividades de activación física, cultura física y deporte con las Dependencias y Entidades de la Administración Pública Federal, Gobiernos de las Entidades Federativas, Municipales y de las demarcaciones territoriales de la Ciudad de México, organismos públicos, sociales y privados, nacionales e internacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y el deporte. En los citados programas, se deberá contemplar la capacitación y especialización con respecto del deporte adaptado y sus modalidades que practican las personas con algún tipo de discapacidad.
 
 ###### Artículo 102.
 
@@ -2181,3 +2199,15 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, EN MATERIA DE DEPORTE ADAPTADO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 13 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
