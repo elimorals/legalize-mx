@@ -4,7 +4,7 @@ identifier: "LGSMIME"
 country: "mx"
 rank: "ley_general"
 publication_date: "1996-11-22"
-last_updated: "2022-04-19"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9006&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSMIME"
 
 LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 22 de noviembre de 1996.
 
@@ -592,9 +592,9 @@ a) Apercibimiento;
 
 b) Amonestación;
 
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
 
-c) Multa de cincuenta hasta cinco mil veces el salario mínimo diario general vigente en el Distrito Federal. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+c) Multa de cincuenta hasta cinco mil veces la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 d) Auxilio de la fuerza pública; y
 
@@ -1747,3 +1747,9 @@ D.O.F. 19 DE ABRIL DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO H) AL NUMERAL 1 DEL ARTÍCULO 10 DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
