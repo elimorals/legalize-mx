@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-ordenamiento-territorial-desarrollo-urbano-y-96157"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-10-07"
-last_updated: "2022-10-17"
+last_updated: "2022-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ORDENAMIENTO TERRITORIAL, DESARROLLO URBANO Y VIVIENDA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Código publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2013.
 
@@ -12218,3 +12218,51 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 251.- SE EXPIDE EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+EL presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo previsto en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, se abroga el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes de fecha 7 de octubre de 2013, en edición vespertina, Tomo LXXVI, Número 40, así como sus reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades correspondientes deberán emitir la normatividad necesaria para el cumplimiento del Código Urbano para el Estado de Aguascalientes que se expide mediante el presente Decreto.
+
+Hasta en tanto no se cumpla con la disposición establecida en el párrafo anterior, seguirá vigente toda aquella reglamentación, normatividad, lineamientos y disposiciones expedidas conforme al Código que se abroga, en la medida en que no contravengan las disposiciones del Código Urbano para el Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los trámites administrativos iniciados durante la vigencia del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes que se abroga, se concluirán conforme a las disposiciones que les dieron origen.
+
+En cuanto a los fraccionamientos, subdivisiones y condominios, se entenderán por concluidos cuando éstos sean municipalizados total o parcialmente o entregados a los condóminos, también de manera total o parcial. En caso de que requieran una modificación, renovación o extinción de su autorización les aplicará el presente Código.
+
+Derivado de lo referido en el párrafo anterior, las etapas de urbanización de los fraccionamientos, condominios o desarrollos inmobiliarios especiales, que inicien sus obras posteriormente a la entrada en vigor de este Código, se sujetarán a las disposiciones del mismo.
+
+###### ARTÍCULO QUINTO.
+
+A la entrada en vigor del presente Decreto, las concesiones que hayan sido otorgadas por las autoridades competentes deberán adecuarse a las disposiciones del Código Urbano para el Estado de Aguascalientes, en todo aquello que sea posible, salvaguardando los derechos adquiridos por los concesionarios.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias de cualquier disposición jurídica hecha al Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, se entenderán realizadas al Código Urbano para el Estado de Aguascalientes que se expide mediante el presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los órganos y organismos auxiliares establecidos en el Código que se expide deberán instalarse dentro de los 30 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las autoridades correspondientes deberán adecuar sus procesos administrativos y sistemas digitales, a fin de integrar procedimientos en los que se reciban y analicen expedientes de forma física y digital, siendo la tendencia hacia la integración del expediente digital único.
+
+Hasta en tanto no se cumpla con la disposición establecida en el párrafo anterior, seguirá vigente toda aquella reglamentación, normatividad y disposiciones expedidas, en la medida en que no contravengan las disposiciones de este Código.
+
+###### ARTÍCULO NOVENO.
+
+Se deberá expedir la Ley que Crea la Procuraduría Estatal del Desarrollo Urbano y Ordenamiento Territorial, para que esta inicie su operación a partir del 1° de enero de 2024. Para la creación de la Procuraduría Estatal del Desarrollo Urbano, el Poder Ejecutivo Estatal deberá considerar en el Presupuesto de Egresos del Ejercicio Fiscal del año 2024 la partida presupuestal correspondiente para su operación y funcionamiento, así como los recursos humanos y materiales para su funcionamiento.
