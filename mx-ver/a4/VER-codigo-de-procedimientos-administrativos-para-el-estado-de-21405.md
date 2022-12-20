@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2020-09-17"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -133,9 +133,9 @@ XXVIII. Servidores públicos: Las personas que desempeñan un empleo, cargo o co
 
 XXIX. Sistema de información: El utilizado para generar, enviar, recibir, archivar o procesar de alguna forma un mensaje de datos; y
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-XXX. Tribunal: El Tribunal Estatal de Justicia Administrativa; y
+XXX. Tribunal: El Tribunal de Justicia Administrativa del Estado de Veracruz; y
 
 > <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -3075,35 +3075,43 @@ Sólo podrán intervenir en juicio quienes tengan un interés jurídico o legít
 
 Cuando las partes tengan reconocida la personería ante la autoridad demandada, ésta será admitida en el juicio, siempre que se compruebe esa circunstancia con las constancias respectivas.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 284.
 
-Las partes deberán señalar, en el escrito inicial que presenten, domicilio en el municipio donde resida el Tribunal, para que en él se hagan las notificaciones personales indicadas en este Código. En caso contrario, se les requerirá para que lo señalen en un plazo de tres días, con el apercibimiento que de no hacerlo, las notificaciones que deban ser personales se efectuarán por lista de acuerdos.
+Las partes deberán señalar, en el escrito inicial que presenten, domicilio en el municipio donde resida la Sala Regional Unitaria, para que en él se hagan las notificaciones personales indicadas en este Código. En caso contrario, se les requerirá para que lo señalen en un plazo de tres días, con el apercibimiento que de no hacerlo, las notificaciones que deban ser personales se efectuarán por lista de acuerdos.
 
 ###### Artículo 285.
 
 Las diligencias que deban practicarse fuera del recinto de las Salas del Tribunal, se encomendarán a los secretarios de acuerdos o actuarios de la Sala correspondiente.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de Justicia Administrativa o Tribunal Judicial de la entidad federativa de que se trate. El Tribunal, a solicitud de parte, podrá entregar el exhorto al interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su trámite, pudiéndose devolver el documento diligenciado por conducto del mismo interesado.
+Las diligencias que deban realizarse fuera de la jurisdicción de las Salas Regionales Unitarias, pero dentro del territorio del Estado, se encomendarán por medio de exhorto a las que corresponda. La Sala Regional Unitaria emisora, a solicitud de parte, podrá entregar el exhorto al interesado, quién bajo su más estricta responsabilidad lo hará llegar a la Sala Regional Unitaria de destino para su debida atención, pudiéndose devolver el documento diligenciado por conducto del mismo interesado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de Justicia Administrativa de la entidad federativa de que se trate. El Tribunal, a solicitud de parte, podrá entregar el exhorto al interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su trámite, pudiéndose devolver el documento diligenciado por conducto del mismo interesado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 286.
 
-Los magistrados del Tribunal estarán impedidos para conocer de los juicios en que intervengan, en los casos previstos por la Ley Orgánica del Tribunal Estatal de Justicia Administrativa. Cuando alguno de los magistrados del Tribunal se encuentre impedido, hará la manifestación ante el presidente del Tribunal, quien la remitirá a la Sala Superior para que califique la excusa de plano y, cuando proceda, designe a quien deba sustituir al magistrado impedido.
+Los magistrados de las Salas Regionales Unitarias estarán impedidos para conocer de los juicios en que intervengan, en los casos previstos por la Ley. Cuando alguno de los magistrados se encuentre impedido, hará la manifestación ante el presidente del Tribunal, quien la remitirá a la Sala Superior para que califique la excusa de plano y, cuando proceda, designe a quien deba sustituir al magistrado impedido.
 
 En el caso de que, presentándose un impedimento, el magistrado que conozca del asunto no se excuse en los términos del párrafo anterior, la parte perjudicada podrá recusarlo a través de la interposición del incidente a que se refieren los artículos 312, fracción V, 317 y 318 de este Código.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 287.
 
-Los secretarios de acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán en el centro de lo escrito y pondrán el sello oficial en el fondo del cuaderno, de manera que queden selladas las dos caras.
+El secretario general o los secretarios de acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán en el centro de lo escrito y pondrán el sello oficial en el fondo del cuaderno, de manera que queden selladas las dos caras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 288.
 
-Las resoluciones del Tribunal tendrán el carácter de
+Las resoluciones de las Salas del Tribunal tendrán el carácter de:
 
 I. Acuerdos, las determinaciones de trámite;
 
@@ -3173,17 +3181,19 @@ V. En los demás casos en que por disposición legal haya impedimento para emiti
 
 El sobreseimiento del juicio podrá ser total o parcial, en relación a alguna de las partes o a alguno de los actos impugnados.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 291.
 
-Contestada la demanda, el magistrado examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia a sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no sea clara, ésta se decidirá en la sentencia definitiva.
+Contestada la demanda, el magistrado de la Sala Regional Unitaria examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia a sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no sea clara, ésta se decidirá en la sentencia definitiva.
 
 ### CAPÍTULO III. DE LA DEMANDA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 292.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la Autoridad que emitió el acto o ante la Oficialía de Partes del Tribunal, dentro de los quince días siguientes al en que surta efectos la notificación del acto o resolución que se impugna, o al en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
+La demanda deberá formularse por escrito y presentarse directamente ante la Autoridad que emitió el acto o ante la Oficialía de Partes de la Sala Regional Unitaria con jurisdicción en términos del presente Código, dentro de los quince días siguientes al en que surta efectos la notificación del acto o resolución que se impugna, o al en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
 
 I. Tratándose de la resolución negativa o afirmativa fictas, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
 
@@ -3205,9 +3215,13 @@ V. Cuando se impugnen actos o resoluciones en la vía sumaria, deberá presentar
 
 VI. Cuando una ley de forma expresa disponga otro plazo.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-La demanda también podrá enviarse por correo certificado con acuse de recibo, y se tomará como fecha de presentación aquella en que se deposite. Cuando la demanda se presente ante la Autoridad que emitió el acto, ésta se encontrará obligada a enviarla al Tribunal en un término de cinco días hábiles, de no hacerlo en el término señalado, el Tribunal podrá decretar como medida de apremio la imposición de una multa por veinte UMAS y, de ser necesario, el Tribunal tomará las medidas que correspondan para garantizar el envío oportuno de la demanda.
+La demanda también podrá enviarse por correo certificado con acuse de recibo dirigida al domicilio oficial de la Sala Regional Unitaria señalada como competente por la parte actora, y se tomará como fecha de presentación aquella en que se deposite en la oficina de correos del Servicio Postal Mexicano.
+
+> <small>(ADICIONADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Cuando la demanda se presente ante la Autoridad que emitió el acto u omitió dar respuesta en términos del presente Código, ésta se encontrará obligada a enviarla íntegramente a la Sala Regional Unitaria señalada como competente por la parte actora en un término de cinco días hábiles, de no hacerlo en el término señalado, la Sala Regional Unitaria podrá decretar como medida de apremio la imposición de una multa por veinte UMAS y, de ser necesario, la citada Sala tomará las medidas que correspondan para garantizar el envío oportuno de la demanda.
 
 ###### Artículo 293.
 
@@ -3239,9 +3253,9 @@ VIII. Las pruebas que se ofrezcan; y
 
 IX. La solicitud de suspensión del acto impugnado, sin perjuicio que la misma se solicite hasta antes de la celebración de la audiencia de ley.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-Cuando se omitan los requisitos a que se refieren las fracciones I, II y VI la Sala Unitaria desechará por improcedente la demanda interpuesta. Cuando se omitan los requisitos previstos en las fracciones III, IV, V, VII y VIII la citada Sala requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según el caso.
+Cuando se omitan los requisitos a que se refieren las fracciones I, II y VI la Sala Regional Unitaria desechará por improcedente la demanda interpuesta. Cuando se omitan los requisitos previstos en las fracciones III, IV, V, VII y VIII la citada Sala requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según el caso.
 
 ###### Artículo 294.
 
@@ -3263,9 +3277,9 @@ V. Los documentos que ofrezca como prueba; y
 
 VI. El interrogatorio para los testigos y cuestionario para los peritos, en caso del ofrecimiento de las pruebas testimonial o pericial.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-Si no se adjuntan a la demanda los documentos a que se refiere este precepto, la Sala Unitaria requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
+Si no se adjuntan a la demanda los documentos a que se refiere este precepto, la Sala Regional Unitaria requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -3273,11 +3287,11 @@ Si no se adjuntan a la demanda los documentos a que se refiere este precepto, la
 
 Dentro de los tres días siguientes a la presentación de la demanda, se dictará acuerdo sobre su admisión. En el mismo acuerdo se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Tratándose de la suspensión deberá resolverse dentro del término de veinticuatro horas siguientes a la presentación de la demanda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 297.
 
-La Sala Unitaria desechará la demanda, cuando:
+La Sala Regional Unitaria desechará la demanda, cuando:
 
 I. No contenga la firma autógrafa o huella digital del promovente;
 
@@ -3363,9 +3377,9 @@ En la contestación de la demanda no podrán cambiarse los fundamentos de derech
 
 En caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-En la contestación de la demanda o hasta antes del cierre de instrucción, la autoridad demandada podrá allanarse a los hechos o a las pretensiones del demandante. El allanamiento, en cualquier caso, no exime al Tribunal de estudiar las cuestiones planteadas para determinar la validez o invalidez del acto impugnado.
+En la contestación de la demanda o hasta antes del cierre de instrucción, la autoridad demandada podrá allanarse a los hechos o a las pretensiones del demandante, o revocar el acto o negativa ficta impugnados. En ambos casos la Sala Regional Unitaria no estará eximida de estudiar en la sentencia respectiva las cuestiones efectivamente planteadas en el juicio, acorde a las nuevas circunstancias. Esto sin perjuicio de las disposiciones en materia de improcedencia, sobreseimiento o cualquier otra de orden e interés público.
 
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -3383,13 +3397,13 @@ Se dictará acuerdo sobre la contestación de demanda a más tardar al tercer d�
 
 Iniciado el juicio contencioso administrativo, podrán decretarse todas las medidas cautelares necesarias o la suspensión del acto impugnado, para el efecto de mantener las cosas en el estado en que se encuentren, en tanto se dicte sentencia. No se otorgarán las medidas cautelares ni la suspensión, si se sigue perjuicio al interés público, si se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-La Sala Unitaria podrá decretar medidas cautelares positivas cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
+La Sala Regional Unitaria podrá decretar medidas cautelares positivas cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-La suspensión del acto impugnado se decretará dentro del término de veinticuatro horas siguientes a la presentación de la demanda y las medidas cautelares se decretarán de plano, ambos casos a cargo de la Sala Unitaria, en el mismo acuerdo en que se admita la demanda y podrá solicitarlas el actor en el escrito de demanda, o en cualquier momento mientras se encuentre en trámite el juicio ante la Sala Unitaria que conozca el asunto.
+La suspensión del acto impugnado se decretará dentro del término de veinticuatro horas siguientes a la presentación de la demanda y las medidas cautelares se decretarán de plano, ambos casos a cargo de la Sala Regional Unitaria, en el mismo acuerdo en que se admita la demanda y podrá solicitarlas el actor en el escrito de demanda, o en cualquier momento mientras se encuentre en trámite el juicio ante la Sala Regional Unitaria que conozca el asunto.
 
 Cuando se otorguen las medidas cautelares o la suspensión del acto, se comunicarán sin demora a la autoridad demandada para su inmediato cumplimiento.
 
@@ -3407,13 +3421,15 @@ La suspensión podrá concederse con efectos restitutorios, siempre que proceda 
 
 La suspensión podrá ser revocada o modificada por la sala, en cualquier momento del juicio, previa vista que se conceda a los interesados en un plazo de tres días, si varían las condiciones en las cuales se otorgó.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 307.
 
-Tratándose de multas, impuestos, derechos o cualquier otro concepto que de conformidad con las leyes sea considerado o equiparado a un crédito fiscal, la Sala podrá conceder la suspensión del procedimiento administrativo de ejecución.
+Tratándose de multas, impuestos, derechos o cualquier otro concepto que de conformidad con las leyes sea considerado o equiparado a un crédito fiscal, la Sala Regional Unitaria podrá conceder la suspensión del procedimiento administrativo de ejecución.
 
-Cuando de conformidad con las leyes fuere necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá, una vez que éste se encuentre debidamente garantizado, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada. No obstante lo anterior, la Sala que conozca del asunto podrá conceder dicha suspensión sin necesidad de que se garantice el interés fiscal, por notoria insuficiencia económica del demandante.
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Cuando de conformidad con las leyes fuere necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá, una vez que éste se encuentre debidamente garantizado, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada. No obstante lo anterior, la Sala Regional Unitaria que conozca del asunto podrá conceder dicha suspensión sin necesidad de que se garantice el interés fiscal, por notoria insuficiencia económica del demandante.
 
 ###### Artículo 308.
 
@@ -3429,15 +3445,17 @@ En los casos en que la suspensión sea procedente, se concederá en forma que no
 
 El acuerdo en el que se conceda la suspensión del acto impugnado, surtirá sus efectos desde la fecha de su otorgamiento y tendrá vigencia incluso durante la substanciación del recurso de revisión ante la Sala Superior del Tribunal.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-El acuerdo en que se niegue la suspensión dejará expedita la facultad de la autoridad demandada para la ejecución del acto impugnado, aun cuando se interponga el recurso de reclamación; pero si la Sala Unitaria revoca el acuerdo recurrido y concede la suspensión, ésta surtirá sus efectos de manera inmediata.
+El acuerdo en que se niegue la suspensión dejará expedita la facultad de la autoridad demandada para la ejecución del acto impugnado, aun cuando se interponga el recurso de reclamación; pero si la Sala Regional Unitaria revoca el acuerdo recurrido y concede la suspensión, ésta surtirá sus efectos de manera inmediata.
 
 ###### Artículo 311.
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los quince días siguientes al en que surta efectos la notificación del auto que declare ejecutoriada la sentencia.
 
-La Sala, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos que deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+La Sala Regional Unitaria, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos que deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
 
 ### CAPÍTULO VI. DE LOS INCIDENTES
 
@@ -3445,7 +3463,9 @@ La Sala, dentro de los tres días siguientes, dará vista a las demás partes y 
 
 En el juicio contencioso serán de previo y especial pronunciamiento, los incidentes de:
 
-I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+I. Incompetencia por razón de territorio;
 
 II. Acumulación de autos;
 
@@ -3459,9 +3479,15 @@ V. Recusación por causa de impedimento.
 
 Cuando la promoción del incidente sea frívola e improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o resolución del procedimiento, se impondrá a quien lo promueva una multa de cincuenta hasta cien UMAS. La misma regla se aplicará cuando se trate de la promoción de diligencias, medios de impugnación y en general actuaciones de forma frívola y notoriamente improcedente, cuando éstas obstaculicen innecesariamente el procedimiento, la resolución o la ejecución de la sentencia.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 313.
 
-(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017) (DEROGADO [N. DE E. REPUBLICADO], G.O. 15 DE NOVIEMBRE DE 2018)
+Cuando ante una de las Salas Regionales Unitarias se promueva juicio del que otra deba conocer por razón de territorio conforme a lo dispuesto en el presente Código, aquella de oficio se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos.
+
+Si la Sala Regional Unitaria a la que se le envían las actuaciones del expediente acepta el conocimiento del asunto ante ella planteado, lo hará saber a la remitente así como a las partes intervinientes, avocándose a su continuación. En caso contrario, con la notificación que de ello haga a la sala remitente así como a las partes, remitirá las actuaciones a la Sala Superior para que ésta determine la Sala Regional Unitaria competente, a la que una vez resuelto se le enviarán las constancias para su debido trámite y resolución respecto de la pretensión de las partes, debiendo notificar de ello a todos los intervinientes.
+
+Cualquiera de las partes en un juicio podrá ocurrir ante la Sala Superior promoviendo la incompetencia respectiva, para lo cual se exhibirá copia certificada de la demanda y demás constancias que estime pertinentes. La Sala Superior resolverá de plano la cuestión de competencia y ordenará la remisión de los autos a la Sala Regional que corresponda, la cual deberá continuar y resolver el asunto motivo del juicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -3481,33 +3507,37 @@ Las solicitudes de acumulación notoriamente infundadas se desecharán de plano.
 
 Las notificaciones dentro del juicio contencioso que no fueren practicadas conforme a lo dispuesto en este Código, serán anulables. En este caso la parte perjudicada podrá pedir que se declare su nulidad dentro de los tres días siguientes a aquél en que tenga conocimiento del acto, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva el incidente respectivo.
 
-Si se admite el incidente de nulidad de notificaciones, la Sala resolverá lo procedente en un plazo de tres días. En el caso de que se declare la nulidad, la Sala ordenará la reposición del procedimiento a partir de la notificación anulada.
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Si se admite el incidente de nulidad de notificaciones, la Sala correspondiente resolverá lo procedente en un plazo de tres días. En el caso de que se declare la nulidad, la citada Sala ordenará la reposición del procedimiento a partir de la notificación anulada.
 
 ###### Artículo 316.
 
 La interrupción del juicio contencioso por causa de muerte, disolución, incapacidad o declaratoria de ausencia durará como máximo un año y se sujetará a lo siguiente:
 
-I. Se decretará por la Sala a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo; y
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+I. Se decretará por la Sala Regional Unitaria a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a que se refiere este artículo; y
 
-II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el autor, la Sala acordará la reanudación del juicio, ordenando que su primera notificación se realice al representante de la sucesión o de la liquidación según sea el caso, por estrados de la autoridad demandada, en la que se le requerirá para que señale domicilio para oír y recibir notificaciones personales en el municipio donde reside el Tribunal.
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el autor, la Sala Regional Unitaria acordará la reanudación del juicio, ordenando que su primera notificación se realice al representante de la sucesión o de la liquidación según sea el caso, por estrados de la autoridad demandada, en la que se le requerirá para que señale domicilio para oír y recibir notificaciones personales en el municipio donde reside la citada Sala.
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 317.
 
-Las partes podrán recusar a los magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere la Ley Orgánica del Tribunal Estatal de Justicia Administrativa.
+Las partes podrán recusar a los magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere la presente Ley.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 318.
 
-La recusación de magistrados se promoverá mediante escrito que se presente ante la Sala Unitaria en que se halle adscrito el magistrado, acompañando las pruebas que se ofrezcan. La Sala Unitaria, dentro de los cinco días siguientes, enviará al presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento de la Sala Superior. A falta de informe, se presumirá cierto el impedimento. Si la Sala Superior considera fundada la recusación, el magistrado recusado será sustituido por quien esa designe.
+La recusación de magistrados se promoverá mediante escrito que se presente ante la Sala Regional Unitaria en que se halle adscrito el magistrado, acompañando las pruebas que se ofrezcan. La Sala Regional Unitaria, dentro de los cinco días siguientes, enviará al presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento de la Sala Superior. A falta de informe, se presumirá cierto el impedimento. Si la Sala Superior considera fundada la recusación, el magistrado recusado será sustituido por quien esa designe.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el secretario General de Acuerdos del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar ésta fundada, sustituirá al magistrado recusado.
+Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el Secretario General del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar ésta fundada, sustituirá al magistrado recusado.
 
 Los magistrados que conozcan de una recusación serán irrecusables para ese sólo efecto.
 
@@ -3551,9 +3581,11 @@ Concluida la audiencia, los autos serán turnados para resolver, lo cual deberá
 
 En la vía sumaria, desahogada la audiencia, se pronunciará sentencia dentro de los cinco días siguientes a la fecha de su celebración.
 
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 324.
 
-En cualquier momento de la tramitación del juicio contencioso, hasta antes del cierre de la instrucción, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las normas. Los convenios respectivos aprobados por el magistrado de la Sala del conocimiento producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
+En cualquier momento de la tramitación del juicio contencioso, hasta antes del cierre de la instrucción, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las normas. Los convenios respectivos aprobados por el magistrado de la Sala Regional Unitaria del conocimiento producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
 
 ### CAPÍTULO VIII. DE LA SENTENCIA
 
@@ -3607,11 +3639,11 @@ V. Arbitrariedad, desproporción, desigualdad, injusticia manifiesta, desvío de
 
 Las sentencias que declaren la nulidad del acto impugnado precisarán la forma y términos en que las autoridades deben otorgar o restituir a los particulares en el pleno goce de los derechos afectados.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 328.
 
-Las partes podrán formular excitativa de justicia ante la Sala competente, si el magistrado de la sala competente no dicta sentencia dentro del plazo legal respectivo.
+Las partes podrán formular excitativa de justicia ante la Sala Superior, si el magistrado de la Sala Regional Unitaria no dicta sentencia dentro del plazo legal respectivo.
 
 Recibida la excitativa de justicia, el Presidente de la Sala Superior solicitará informe al magistrado que corresponda, quien deberá rendirlo dentro del plazo de tres días. Si se encuentra fundada la excitativa, el Presidente otorgará al magistrado un plazo que no excederá de tres días para que dicte la resolución correspondiente.
 
@@ -3627,29 +3659,27 @@ III. Las consentidas expresamente por las partes o sus representantes legales.
 
 ### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 330.
 
-Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala Unitaria competente la comunicará por oficio y sin demora alguna, a las autoridades demandadas para su cumplimiento.
+Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala Regional Unitaria competente la comunicará por oficio y sin demora alguna, a las autoridades demandadas para su cumplimiento. En el propio oficio en que se haga la notificación a los demandados, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia respectiva.
 
-En el propio oficio en que se haga la notificación a los demandados, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia respectiva.
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 331.
 
-Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala Unitaria competente, de oficio o a petición de parte, solicitará un informe a las autoridades para que manifiesten lo conducente. Se procederá de la misma forma, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
+Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala Regional Unitaria competente, de oficio o a petición de parte, solicitará un informe a las autoridades para que manifiesten lo conducente. Se procederá de la misma forma, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
-La Sala Unitaria resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma o si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa de cincuenta hasta mil UMAS. Cuando la naturaleza del acto lo permita, el magistrado comisionará al Secretario de Acuerdos de la Sala o al actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+La Sala Regional Unitaria resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma o si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa de cincuenta hasta mil UMAS. Cuando la naturaleza del acto lo permita, el magistrado comisionará al Secretario de Acuerdos de la referida Sala o al actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2018) (F. DE E., G.O. 4 DE FEBRERO DE 2019)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 332.
 
-En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá, a instancia de la Sala Unitaria, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos. Si agotados los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista al Congreso del Estado, para los efectos a que haya lugar.
+En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá, a instancia de la Sala Regional Unitaria, solicitando del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos. Si agotados los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista al Congreso del Estado, para los efectos a que haya lugar.
 
 > <small>(ADICIONADO, G.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -3665,19 +3695,21 @@ Cuando el actor fallezca o se haya declarado ausente durante el periodo de ejecu
 
 Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 332 Bis.
 
-En el caso de inejecución de sentencia, la Sala Superior, una vez determinado el incumplimiento por la imposibilidad manifiesta de la autoridad condenada, ordenará a la Sala Unitaria instruir de oficio el cumplimiento sustituto de la sentencia, a fin de determinar lo conducente sobre el modo o cuantía de la restitución.
+En el caso de inejecución de sentencia, la Sala Superior, una vez determinado el incumplimiento por la imposibilidad manifiesta de la autoridad condenada, ordenará a la Sala Regional Unitaria instruir de oficio el cumplimiento sustituto de la sentencia, a fin de determinar lo conducente sobre el modo o cuantía de la restitución.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 333.
 
-Si la naturaleza del acto lo permite, la Sala Unitaria determinará el cumplimiento sustituto de las ejecutorias, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiere obtener el actor.
+Si la naturaleza del acto lo permite, la Sala Regional Unitaria determinará el cumplimiento sustituto de las ejecutorias, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiere obtener el actor.
 
-En esos casos, cualquiera de las partes podrá solicitar el cumplimiento sustituto de la ejecutoria ante la Sala Unitaria, la que, previa solicitud del juicio contencioso original, resolverá de plano, allegándose de los elementos necesarios para proveer lo conducente sobre el modo o cuantía de la restitución.
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+En esos casos, cualquiera de las partes podrá solicitar el cumplimiento sustituto de la ejecutoria ante la Sala Regional Unitaria, la que, previa solicitud del juicio contencioso original, resolverá de plano, allegándose de los elementos necesarios para proveer lo conducente sobre el modo o cuantía de la restitución.
 
 ###### Artículo 334.
 
@@ -3699,17 +3731,17 @@ II. Queja; y
 
 III. Revisión.
 
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 337.
 
-El recurso de reclamación tiene por objeto que las Salas Unitarias o la Sala Superior revoquen, modifiquen o confirmen sus propios acuerdos.
+El recurso de reclamación tiene por objeto que las Salas Regionales Unitarias o la Sala Superior revoquen, modifiquen o confirmen sus propios acuerdos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 338.
 
-El recurso de reclamación es procedente en contra de acuerdos de trámite pronunciados por los Magistrados de las Salas Unitarias que:
+El recurso de reclamación es procedente en contra de acuerdos de trámite pronunciados por los Magistrados de las Salas Regionales Unitarias que:
 
 > <small>(REFORMADA, G.O. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -3729,11 +3761,11 @@ IV. Concedan o nieguen la suspensión o señalen el monto de las fianzas o contr
 
 V. Desechen las pruebas ofrecidas hasta antes de la celebración de la audiencia del juicio.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 339.
 
-El recurso de reclamación se interpondrá por escrito, con expresión de agravios y acompañando las copias respectivas para cada una de las partes, dentro del plazo de tres días, contados a partir del siguiente al en que surta efectos la notificación del acuerdo recurrido, ante la Sala Unitaria que conozca del juicio.
+El recurso de reclamación se interpondrá por escrito, con expresión de agravios y acompañando las copias respectivas para cada una de las partes, dentro del plazo de tres días, contados a partir del siguiente al en que surta efectos la notificación del acuerdo recurrido, ante la Sala Regional Unitaria que conozca del juicio.
 
 ###### Artículo 340.
 
@@ -3751,33 +3783,33 @@ II. Contra la omisión de la autoridad responsable, de tramitar la demanda o cua
 
 III. Contra actos de las autoridades tendentes a repetir el acto o procedimiento anulado.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 342.
 
-El recurso de queja deberá interponerse por escrito, ante la Sala que conozca o hubiere conocido del juicio, dentro de un plazo de tres días contados a partir del día siguiente al en que surta sus efectos la notificación de la resolución recurrida, o en cualquier momento ante oficialía de partes común del Tribunal, cuando se omita tramitar la demanda presentada ante la autoridad responsable, debiendo acompañar una copia del acuse de presentación ante la referida autoridad, y copias del recurso para cada una de las partes involucradas.
+El recurso de queja deberá interponerse por escrito ante la Sala que conozca o hubiere conocido del juicio, dentro de un plazo de tres días contados a partir del día siguiente al en que surta sus efectos la notificación de la resolución recurrida, o en cualquier momento cuando se omita tramitar la demanda presentada ante la autoridad responsable, debiendo acompañar una copia del acuse de presentación ante la referida autoridad, y copias del recurso para cada una de las partes involucradas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 343.
 
-Admitido el recurso, la Sala requerirá a la autoridad contra la que se hubiere Interpuesto, para que rinda un informe con justificación sobre la materia de la queja, dentro de un plazo de tres días y dentro de los tres días siguientes dictará la resolución que proceda.
+Admitido el recurso, la Sala Regional Unitaria requerirá a la autoridad contra la que se hubiere Interpuesto, para que rinda un informe con justificación sobre la materia de la queja, dentro de un plazo de tres días y dentro de los tres días siguientes dictará la resolución que proceda.
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 La falta de informes establece la presunción de ser ciertos los hechos que el interesado le impute a las autoridades. En este supuesto, las autoridades omisas se harán acreedoras a una multa de cincuenta a cien UMAS, que impondrá de plano la Sala que conozca de la queja al resolver el recurso.
 
-> <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 343 Bis.
 
-En caso de que se reclame la omisión de dar trámite a la demanda presentada ante la autoridad responsable, el recurrente deberá expresar los agravios y los hechos bajo protesta de decir verdad.
+En caso de que se reclame la omisión de dar trámite a la demanda presentada ante la autoridad responsable, el recurrente deberá expresar los agravios y los hechos bajo protesta dé decir verdad. La Sala Regional Unitaria que haya admitido el recurso requerirá inmediatamente a la autoridad para que, en un término de tres días, rinda un informe con justificación y, en su caso, remita la demanda y las constancias que hayan sido presentadas por el actor, así como aquellas que considere pertinentes.
 
-La Sala que haya admitido el recurso requerirá inmediatamente a la autoridad para que, en un término de tres días, rinda un informe con justificación y, en su caso, remita la demanda y las constancias que hayan sido presentadas por el actor, así como aquellas que considere pertinentes.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 344.
 
-El recurso de revisión es procedente contra las resoluciones pronunciadas por las Salas Unitarias que:
+El recurso de revisión es procedente contra las resoluciones pronunciadas por las Salas Regionales Unitarias que:
 
 I. Decreten o nieguen el sobreseimiento del juicio;
 
@@ -3785,13 +3817,15 @@ II. Decidan la cuestión planteada, por violaciones cometidas en ellas o durante
 
 III. Pongan fin al procedimiento de ejecución de la sentencia.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 345.
 
-El recurso de revisión podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de cinco días siguientes al en que surta efectos la notificación de la resolución que se impugne. Se presentará ante la Sala Unitaria correspondiente para su remisión y posterior resolución de la Sala Superior.
+El recurso de revisión podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de cinco días siguientes al en que surta efectos la notificación de la resolución que se impugne. Se presentará ante la Sala Regional Unitaria correspondiente para su remisión y posterior resolución de la Sala Superior.
 
-De ser procedente el recurso, el Presidente de la Sala Superior designará a un magistrado ponente y mandará correr traslado del mismo a las demás partes por el plazo de cinco días posteriores al en que surta efectos la notificación, para que expongan lo que a su derecho convenga.
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+De ser procedente el recurso, el Presidente de la Sala Superior designará a la ponencia de un magistrado de dicha Sala y mandará correr traslado del mismo a las demás partes por el plazo de cinco días posteriores al en que surta efectos la notificación, para que expongan lo que a su derecho convenga.
 
 > <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -4044,3 +4078,51 @@ G.O. 17 DE SEPTIEMBRE DE 2020.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 463 POR EL QUE SE REFORMA LA DENOMINACIÓN, SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY NÚMERO 367 ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA; SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO NÚMERO 14 DE PROCEDIMIENTOS ADMINISTRATIVOS; SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY NÚMERO 366 DE RESPONSABILIDADES ADMINISTRATIVAS; SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 10 DE LA LEY NÚMERO 348 DEL SISTEMA ESTATAL ANTICORRUPCIÓN; Y, SE REFORMA EL ARTÍCULO 19 DE LA LEY NÚMERO 602 DE RESPONSABILIDAD PATRIMONIAL DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y MUNICIPAL; TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Tribunal de Justicia Administrativa del Estado de Veracruz subrogará las funciones del Tribunal Estatal de Justicia Administrativa de Veracruz en los términos del párrafo primero de la fracción VI del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos; ante lo que, los asuntos incoados ante aquél serán continuados por este último.
+
+CUARTO.- El titular del Órgano Interno de Control en funciones estará a lo dispuesto en el diverso Decreto por el que se Reforma la fracción VI del artículo 67 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, cuya declaratoria fue hecha por esta Soberanía en fecha 13 de diciembre del 2022, así como por el presente Decreto, otorgándosele una indemnización por terminación de funciones equivalente a tres meses de sus percepciones ordinarias.
+
+QUINTO.- Continúa en su vigencia el acuerdo número TEJAV/01/04/22 emitido por el entonces Pleno del Tribunal Estatal de Justicia Administrativa del Estado de Veracruz, relativo a días inhábiles para plazos procesales con motivo del periodo vacacional, del 12 de diciembre del 2022 al 03 de enero del 2023.
+
+SEXTO.- A partir de la entrada en vigor del presente Decreto y hasta la conclusión del plazo arriba citado, los magistrados del Tribunal de Justicia Administrativa del Estado de Veracruz podrán tomar posesión genérica de las instalaciones y funciones del Tribunal Estatal de Justicia Administrativa de Veracruz, celebrando para ello la Primera Sesión Ordinaria del Pleno del Tribunal para dar cumplimiento al presente Decreto. Dicha acta deberá publicarse en la Gaceta Oficial del Estado para los efectos a que haya lugar.
+
+A partir de ello, el Pleno del Tribunal podrá celebrar las Sesiones Extraordinarias que resulten necesarias para emitir los acuerdos de su competencia para el buen funcionamiento del Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+SÉPTIMO.- El Pleno del Tribunal podrá, a partir de la entrada en vigor del presente Decreto, determinar mediante acuerdo tomado en Sesión Extraordinaria, la suspensión de plazos procesales para la continuación de asuntos jurisdiccionales atendidos por el extinto Tribunal Estatal de Justicia Administrativa de Veracruz en términos de la Ley y el Código de Procedimientos Administrativos, por un plazo máximo de hasta veinte días hábiles, el cual podrá ser prorrogado por una sola ocasión en los mismos términos, lo que deberá de ser publicado de forma inmediata en Gaceta Oficial del Estado para efectos de certeza jurídica de los justiciables.
+
+En el mismo plazo, el Pleno mediante diverso acuerdo tomado en Sesión Extraordinaria, fundado y motivado, determinará la asignación específica de los expedientes en trámite de primera instancia en las Salas Unitarias del extinto Tribunal Estatal de Justicia Administrativa a la entrada en vigor del presente Decreto, a cada una de las Salas Regionales Unitarias del Tribunal de Justicia Administrativa del Estado de Veracruz conforme al contenido de éste; lo que, será notificado previamente por tales órganos jurisdiccionales a las partes para efectos de su certeza jurídica.
+
+Previo a la fecha de reanudación de la actividad jurisdiccional de la Sala Superior y Salas Regionales Unitarias del Tribunal de Justicia Administrativa del Estado de Veracruz en los términos del presente Decreto, el Pleno deberá publicar en la Gaceta Oficial del Estado el día en que ello habrá de suceder, el domicilio oficial que corresponderá a cada uno de los citados órganos jurisdiccionales así como cualquier otra circunstancia que se considere necesaria, para los efectos de la certeza jurídica de los justiciables.
+
+OCTAVO.- En el plazo del artículo anterior, los órganos jurisdiccionales y Unidades Administrativas del Tribunal de Justicia Administrativa del Estado de Veracruz recibirán de forma específica los recursos materiales, humanos, financieros, expedientes, cuadernos, libros, registros y demás existentes del extinto Tribunal Estatal de Justicia Administrativa de Veracruz, conforme al contenido de los Lineamientos Para la Entrega y Recepción de los Recursos que Tengan Asignados las Personas Servidoras Públicas del Tribunal Estatal de Justicia Administrativa. Así mismo dotará de instalaciones, recursos materiales, personal, plataformas o sistemas electrónicos y demás necesarios para el funcionamiento de las Salas Regionales Unitarias.
+
+Los recursos financieros, humanos y materiales asignados por el Decreto de Presupuesto de Egresos para el ejercicio fiscal 2022 por esta Soberanía en favor del Tribunal Estatal de Justicia Administrativa de Veracruz, para el resto de este ejercicio fiscal, serán ejercidos en términos del presente Decreto por el Tribunal de Justicia Administrativa del Estado de Veracruz, atendiendo cada caso acorde a lo dispuesto en la ley correspondiente.
+
+NOVENO.- Al reanudarse los plazos procesales en los términos del presente Decreto, las Salas Regionales Unitarias y la Sala Superior comenzarán inexcusablemente por atender en primer orden los asuntos jurisdiccionales que se encuentren en estado de dictarse la sentencia o resolución respectiva, para lo cual se contará con un plazo de hasta cuatro meses, salvo que situación procesal específica justifique lo contrario.
+
+DÉCIMO.- Las plataformas y sistemas electrónicos del Tribunal existentes a la entrada en vigor del presente Decreto estarán vigentes y en uso en tanto el Tribunal de Justicia Administrativa del Estado de Veracruz determina de forma específica respecto de cada una de éstas.
+
+DÉCIMO PRIMERO.- El Tribunal de Justicia Administrativa del Estado de Veracruz realizará ante toda clase de autoridades y particulares las gestiones jurisdiccionales o administrativas tendentes a la extinción administrativa del Tribunal Estatal de Justicia Administrativa de Veracruz, continuando los derechos y obligaciones adquiridos por éste.
+
+DÉCIMO SEGUNDO.- Hágase efectiva la indemnización de los magistrados del extinto Tribunal Estatal de Justicia Administrativa, en términos del Decreto por el que se Extingue el Tribunal Estatal de Justicia Administrativa, y Reforma la Fracción VI del Artículo 67, de la Constitución Política del Estado de Veracruz, para Crear el Tribunal de Justicia Administrativa del Estado de Veracruz.
+
+El Pleno del Tribunal de Justicia Administrativa del Estado de Veracruz hará la adecuación o expedirá la normatividad administrativa necesaria conforme a las disposiciones del presente Decreto, en un plazo no mayor a un año siguiente al inicio de su vigencia.
+
+En tanto, continúan en vigor los reglamentos, manuales, lineamientos o demás disposiciones actualmente existentes en lo que no contravengan el contenido del presente Decreto, en cuyo caso se aplicará lo dispuesto en éste.
+
+Los casos no previstos serán resueltos o reglamentados de forma temporal a través de acuerdos emitidos por el Pleno, en lo que se expiden las disposiciones a que se refiere el párrafo primero.
+
+En tanto no exista designación de titulares de Unidades Administrativas u órganos jurisdiccionales y demás personal del Tribunal diverso a los que se refiere el presente Decreto, continuarán en sus funciones y obligaciones los existentes a la fecha de entrada en vigor del presente Decreto.
+
+DÉCIMO TERCERO.- Por esta única ocasión, esta Soberanía, al hacer las designaciones de magistraturas del Tribunal de Justicia Administrativa del Estado de Veracruz realizará las adscripciones de cada una de éstas a las Salas Regionales Unitarias y Ponencias de la Sala Superior respectivas, así como quién ejercerá la Presidencia del Tribunal.
+
+DÉCIMO CUARTO.- A partir de la entrada en vigor del presente Decreto, toda referencia en leyes, códigos o cualquier otra normatividad, que se haga al extinto Tribunal Estatal de Justicia Administrativa, deberá tenerse hecha en favor del Tribunal de Justicia Administrativa del Estado de Veracruz.
