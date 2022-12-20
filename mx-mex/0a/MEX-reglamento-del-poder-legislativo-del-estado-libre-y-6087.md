@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2022-10-07"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 7 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1155,25 +1153,37 @@ Las iniciativas que el Gobernador del Estado presentare con carácter de prefere
 
 Si las iniciativas carecen del apartado previsto por el inciso c) de la fracción citada, el Presidente solicitará de inmediata (sic) a su autor que subsane la omisión dentro del plazo de 48 horas y ordenará que las iniciativas se turnen a comisiones una vez recibida la información. Si la omisión no es subsanada dentro del plazo citado, podrá presentarlas nuevamente dentro del mismo período de sesiones con el carácter de preferente, si aún se encontrare dentro del plazo a que se refiere el artículo 81 fracción V, inciso a), de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México. Si dicho plazo hubiere transcurrido sin que la omisión hubiere sido subsanada, las iniciativas se tendrán por presentadas sin el carácter de preferente.
 
-> <small>(REFORMADO, G.G. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 72.
 
-Las proposiciones con punto de acuerdo serán presentadas, respecto de asuntos de interés general; cuyos efectos repercutan al Estado de México, así como exhortar respetuosamente en el ámbito de colaboración entre los Poderes del estado, la realización o cesación en la ejecución de determinados actos, el cumplimiento concreto de obligaciones, y se sujetarán a los (sic) siguientes bases:
+Las proposiciones con punto de acuerdo serán presentadas, respecto de asuntos de interés general, cuyos efectos repercutan al Estado de México, así como exhortar respetuosamente en el ámbito de colaboración entre los Poderes del Estado, la realización o cesación en la ejecución de determinados actos, el cumplimiento concreto de obligaciones, y se sujetarán a las siguientes bases:
 
-> <small>(REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2022)</small>
 
-I. Deberán registrarse ante la Presidencia de la Legislatura o la Secretaría de Asuntos Parlamentarios, y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta de diez minutos;
+I. Deberán registrarse ante la Presidencia de la Legislatura y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta diez minutos;
 
-II. Ninguna proposición podrá discutirse en el pleno sin que primero pase a la Comisión o Comisiones y éstas dictaminen. En caso de resultar positivo el dictamen, se remitirá a la Directiva a fin de que se enliste en el orden del día de la sesión a fin de que se programe su discusión y votación en el pleno. En caso negativo, se comunicará al autor, y si persiste el interés de discutirse se someterá al pleno de la Legislatura para su resolución.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Ninguna proposición podrá discutirse en el pleno sin que primero pase a la Comisión o Comisiones y éstas dictaminen. Una vez emitido el dictamen correspondiente, deberá ser remitido a la Directiva a fin de que se programe en el orden del día de la sesión conducente para su discusión y votación en el pleno;
+
+> <small>(REFORMADA, G.G. 23 DE ABRIL DE 2019)</small>
 
 III. Sólo podrá dispensarse el requisito de dictamen de las proposiciones que por acuerdo se califique como de urgente y/o de obvia resolución.
 
+> <small>(REFORMADA, G.G. 23 DE ABRIL DE 2019)</small>
+
 IV. El número de proposiciones que podrán registrarse en cada sesión será el que la Conferencia para la Dirección y Programación de los Trabajos Legislativos determine atendiendo al desahogo eficiente del orden del día.
+
+> <small>(REFORMADA, G.G. 23 DE ABRIL DE 2019)</small>
 
 V. El retiro de una proposición corresponderá sólo a su autor y respecto a las que se presenten a nombre de Grupo Parlamentario, el retiro podrá hacerlo el Coordinador correspondiente, en ambos supuestos, deberá solicitarse a la Directiva antes de iniciar su discusión en el pleno.
 
+> <small>(REFORMADA, G.G. 23 DE ABRIL DE 2019)</small>
+
 VI. La Junta de Coordinación Política o la Legislatura, podrá respaldar previa autorización del proponente la presentación de aquellas proposiciones de acuerdo que se le presenten para su incorporación en el orden del día como asuntos de urgente u obvia resolución, haciendo el reconocimiento que corresponda.
+
+> <small>(REFORMADO, G.G. 23 DE ABRIL DE 2019)</small>
 
 Al finalizar de (sic) cada periodo ordinario, la Directiva presentará un informe al pleno, sobre el estado de las proposiciones de acuerdo, y sobre las respuestas a los acuerdos aprobados en donde se informará de la o las autoridades a la que vayan dirigidas, la fecha en la que se les notificó a éstas, si se (sic) recibieron o no la respuesta, y en su caso una sinopsis de la respuesta emitida.
 
@@ -1225,13 +1235,47 @@ Cuando las comisiones consideren que no existen los elementos suficientes para d
 
 Tratándose de las iniciativas que el Gobernador del Estado hubiere presentado con carácter de preferente, las comisiones podrán solicitar, por conducto del Presidente de la Legislatura, la información adicional que requieran. Si, a juicio de las comisiones, aun con la información adicional no existen los elementos suficientes para emitir su dictamen, las iniciativas serán turnadas al Presidente de la Legislatura para su discusión en el Pleno.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-Los dictámenes se presentarán por escrito y contendrán una exposición clara y precisa del asunto a que se refieran; las consideraciones sobre si se reúnen los requisitos de forma y fondo; en su caso, las propuestas de modificaciones a la iniciativa; los puntos resolutivos, que serán las proposiciones concretas que comprendan la opinión de las comisiones sobre el asunto respectivo; y, el texto del proyecto de ley o decreto.
+Los dictámenes que resuelvan las comisiones se presentarán por escrito y contendrán los siguientes elementos:
 
-> <small>(ADICIONADO, G.G. 28 DE OCTUBRE DE 2010)</small>
+I. Encabezado o título del dictamen donde se especifique el asunto y objeto del mismo, así como el ordenamiento u ordenamientos que pretenda expedir, reformar, adicionar, derogar o abrogar;
 
-Si a juicio de la Legislatura resulta necesario, se deberá incorporar también un glosario de términos, a fin de dar mayor claridad y objetividad al proyecto de decreto de que se trate.
+II. Nombre de la Comisión o Comisiones que lo presentan;
+
+III. Fundamento legal para la emisión del dictamen correspondiente;
+
+IV. Contenido del asunto o asuntos a que se refieran, entre ellos el planteamiento del problema;
+
+V. Antecedentes del procedimiento;
+
+VI. Nombre del presentante o presentantes;
+
+VII. En su caso, proceso de análisis, señalando las actividades realizadas, como entrevistas, comparecencias, audiencias públicas o foros, con el fin de tener mayores elementos para la elaboración del dictamen correspondiente;
+
+VIII. Análisis y valoración de los argumentos del presentante o presentantes que sustentan el asunto o asuntos de que se trate;
+
+IX. Análisis y estudio técnico de los textos normativos propuestos, y en su caso, la argumentación expresa respecto de si estos son aprobados, modificados, o desechados;
+
+X. En el caso de los dictámenes de carácter aprobatorio, estos se deberán integrar por:
+
+a) El proyecto de decreto;
+
+b) La denominación del proyecto de ley o decreto;
+
+c) El texto normativo que se somete a la consideración del Pleno, y
+
+d) Los artículos transitorios.
+
+XI. En el caso de los dictámenes de carácter desaprobatorio, este se deberá acompañar del proyecto de acuerdo respectivo;
+
+XII. En ambos casos el voto aprobatorio de la mayoría de las diputadas y de los diputados de la Comisión o Comisiones que dictaminan, deberá hacerse constar mediante firma autógrafa, o digital; y
+
+XIII. Fecha de la reunión de la comisión o comisiones, en que se aprueba.
+
+Asimismo, deberá acompañarse de la lista de asistencia de la reunión en que se aprobó el dictamen de mérito, a efecto de verificar el quórum.
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -2996,3 +3040,11 @@ G.G. 30 DE SEPTIEMBRE DE 2024.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 113.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I Y II DEL ARTÍCULO 72 Y EL ARTÍCULO 78 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
