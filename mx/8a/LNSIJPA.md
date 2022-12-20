@@ -4,7 +4,7 @@ identifier: "LNSIJPA"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-16"
-last_updated: "2020-12-01"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115164&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNSIJPA"
 
 LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el jueves 16 de junio de 2016.
 
@@ -508,7 +508,9 @@ IV. Recibir información sobre las leyes, reglamentos u otras disposiciones que 
 
 V. No recibir castigos corporales ni cualquier tipo de medida que vulnere sus derechos o ponga en peligro su salud física o mental;
 
-VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica de primer nivel en términos de la Ley General de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+VI. Recibir asistencia médica preventiva y de tratamiento para el cuidado de la salud, así como atención y tratamiento psicológico atendiendo a las necesidades propias de su edad y sexo en, por lo menos, centros de salud que brinden asistencia médica y psicológica de primer nivel en términos de la Ley General de Salud; en el Centro Especializado y, en caso de que sea insuficiente la atención brindada dentro de reclusión o se necesite asistencia médica avanzada, se podrá solicitar el ingreso de atención especializada a dicho Centro o bien, que la persona sea remitida a un Centro de salud público en los términos que establezca la ley;
 
 VII. Recibir en todo momento una alimentación nutritiva, adecuada y suficiente para su desarrollo, así como vestimenta suficiente y digna que garantice su salud y formación integral;
 
@@ -522,7 +524,9 @@ XI. Salir del Centro Especializado, bajo las medidas de seguridad pertinentes pa
 
 a) Recibir atención médica especializada, cuando ésta no pueda ser proporcionada en el mismo.
 
-b) Acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario, así como para visitarlos en su lecho de muerte, siempre y cuando las condiciones de seguridad lo permitan, de conformidad con el Reglamento aplicable.
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+b) Acudir al sepelio de sus ascendientes o descendientes en primer grado, su cónyuge, concubina o concubinario o de quien ejerciera la patria potestad, tutela o cuidado, así como para visitarlos en su lecho de muerte, siempre y cuando las condiciones de seguridad lo permitan, de conformidad con el Reglamento aplicable.
 
 En ambos casos, las salidas serán bajo la vigilancia que determinen las autoridades del Centro Especializado;
 
@@ -3226,7 +3230,9 @@ V. Alentar a las personas adolescentes a comprender y respetar opiniones y punto
 
 VI. Suministrar información y orientación en lo que se refiere a la formación profesional, las oportunidades de empleo y las perspectivas laborales;
 
-VII. Proporcionarles apoyo emocional positivo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+VII. Proporcionarles tratamiento psicológico;
 
 VIII. Reconocer, atender, erradicar y prevenir los distintos tipos de violencia, con el objeto de lograr una convivencia libre de violencia en el entorno escolar;
 
@@ -3351,3 +3357,11 @@ D.O.F. 1 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 102 DE LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores del gasto correspondiente, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
