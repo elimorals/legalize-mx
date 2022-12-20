@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2022-12-09"
+last_updated: "2022-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1231,11 +1231,11 @@ XLII.- Coordinar la política estatal de fortalecimiento institucional del desar
 
 XLIII.- Las demás que le señalen otras leyes reglamentos y disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 32.
 
-La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las políticas, programas, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal, sus servicios conexos y los sistemas de transporte masivo o de alta capacidad, así como el desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
+La Secretaría de Movilidad es la dependencia encargada de planear, formular, dirigir, coordinar, gestionar, evaluar, ejecutar y supervisar las acciones, políticas, programas, protocolos, proyectos y estudios para el desarrollo del sistema integral de movilidad, incluyendo el servicio público de transporte de jurisdicción estatal, sus servicios conexos y los sistemas de transporte masivo o de alta capacidad, así como el desarrollo y administración de la infraestructura vial primaria y de la regulación de las comunicaciones de jurisdicción local.
 
 > <small>(REFORMADO, G.G. 2 DE AGOSTO DE 2002)</small>
 
@@ -1307,9 +1307,9 @@ XVI.- Expedir las bases a que deben sujetarse los concursos públicos para el ot
 
 XVII.- Participar con el gobierno federal en la construcción, conservación y administración de aeródromos civiles en territorio estatal;
 
-> <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2022)</small>
 
-XVIII.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso y erradicar la violencia con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
+XVIII. Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de transporte, infraestructura vial y de comunicaciones de jurisdicción local, así como fomentar programas y campañas para promover la educación vial y la cultura de movilidad con el objeto de reducir índices de accidentes, fomentar el trato respetuoso, la sensibilización de la inclusión e igualdad para toda la población, así como combatir el acoso y erradicar la violencia de género en todas sus modalidades, con atención especial a niñas, niños, adultos mayores, personas con discapacidad, mujeres y demás grupos vulnerables;
 
 > <small>(REFORMADA, G.G. 29 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1383,9 +1383,13 @@ XXXV.- Aprobar la implementación y operación de los Centros de Gestión y Cont
 
 XXXVI.- Definir la operación de las rutas alimentadoras para el transporte de alta capacidad; y
 
-XXXVII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE DICIEMBRE DE 2022)</small>
 
-XXXVIII.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
+XXXVII. Emitir, en coordinación con las autoridades competentes, protocolos de actuación para prevenir los distintos tipos de violencia contra las mujeres, niñas y adolescentes en el servicio público de transporte.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE DICIEMBRE DE 2022)</small>
+
+XXXVIII. Implementar acciones, políticas, programas de capacitación, protocolos y proyectos para fomentar una movilidad segura y con perspectiva género.
 
 XXXIX.- (DEROGADA, G.G. 13 DE SEPTIEMBRE DE 2017)
 
@@ -4088,3 +4092,15 @@ G.G. 9 DE DICIEMBRE DE 2022.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 114.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES XVIII, XXXVII Y XXXVIII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Secretaría de Movilidad del Estado de México, en un plazo no mayor a 90 días hábiles realizará los ajustes a sus disposiciones jurídicas internas.
+
+CUARTO. La Secretaría de Movilidad del Estado de México, progresivamente y con base en su suficiencia presupuestal, destinará recursos financieros para fomentar la movilidad segura y con perspectiva de género.
