@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2022-06-02"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -921,9 +921,9 @@ P.O. 31 DE DICIEMBRE DE 2020.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 475.- QUE CONTIENE REFORMA LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO, SE REFORMA EL ARTÍCULO 34, SE REFORMA EL ARTÍCULO 35 Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 37 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2023, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
+PRIMERO.- El presente decreto entrará en vigor el 1 de enero del año 2024, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- El Poder Ejecutivo del Estado deberá expedir, dentro de 90 días posteriores a la publicación del presente decreto, las disposiciones administrativas a fin de dar cumplimiento al mismo.
 
@@ -948,3 +948,19 @@ P.O. 2 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 291.- QUE CONTIENE REFORMA AL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 475, PUBLICADO EN EL PERIÓDICO OFICIAL NUMERO 103 BIS, DE FECHA 26 DE DICIEMBRE DE 2021 EN MATERIA DE SEGUROS DE DAÑOS CONTRA TERCEROS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el 1 de enero del año 2024, previa publicación del presente en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Queda sin efecto el Decreto número 70 y publicado en el Periódico Oficial No. 103 BIS, de fecha 26 de diciembre de 2021.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
