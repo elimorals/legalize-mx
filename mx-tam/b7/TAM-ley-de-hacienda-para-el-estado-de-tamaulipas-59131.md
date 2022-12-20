@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-07-19"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1659,8 +1659,6 @@ En los derechos que se causen por matrimonios a domicilio, los Oficiales del Reg
 
 DEL OBJETO
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 64.
 
 Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
@@ -1921,9 +1919,13 @@ I. Por la inscripción de las escrituras, de terrenos que no excedan de 250 metr
 
 Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por el Instituto Registral y Catastral del Estado.
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-II. Por la parte que exceda cuando el monto de la operación sea de doscientos mil pesos hasta setecientos mil pesos; pagara por derechos de registro el monto de tres veces el valor diario de la Unidad de Medida y Actualización por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la operación se destine a la construcción de casa habitación o a la adquisición de vivienda, el adquirente sea persona física; y contrate a través de los programas de apoyo a la vivienda que se instrumenten por el Gobierno Federal, Estatal y Municipal, así como sus organismos públicos descentralizados; además de las adquisiciones que realicen las personas físicas a través de créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores;
+II. Por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando el monto de la operación sea de doscientos mil pesos a setecientos mil pesos, pagará por derechos de registro el monto de tres veces el valor diario de la Unidad de Medida y Actualización y se destine a la construcción o adquisición de vivienda a través de los programas de apoyo a la vivienda que se instrumenten por el Gobierno Federal, Estatal, Municipal y Organismos Públicos Descentralizados, así como también aquellas adquisiciones que se realicen a través de instituciones financieras o concedidas por los patrones a sus trabajadores.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando el monto de la operación sea mayor a setecientos mil pesos pagará por concepto de derechos de registro el 8 al millar;
 
 III. Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior;
 
@@ -1948,8 +1950,6 @@ VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tr
 No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales en causas penales, juicios de amparo, juicios de alimentos atendiendo al principio pro-persona, a las personas que se encuentren registradas en el Registro Estatal de la Comisión Estatal de Atención a Víctimas del Estado de Tamaulipas, además por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
 
 #### SECCION II. DE LOS SUJETOS
-
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 68.
 
@@ -2015,9 +2015,9 @@ En ningún caso la cantidad a pagar será mayor a quinientas veces el valor diar
 
 XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-XVII. Búsqueda de documentos siete veces el valor diario de la Unidad de Medida y Actualización; certificaciones o copia certificada, una vez el valor diario de la Unidad de Medida y Actualización;
+XVII. Por la expedición de Certificado de existencia o inexistencia de gravamen, certificado de inscripción, certificado de no inscripción, seis veces el valor diario de la Unidad de Medida y Actualización, Certificado de inscripción con historial, siete veces el valor diario de la Unidad de Medida y Actualización; y copia certificada, una vez el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2330,8 +2330,6 @@ V. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 VI. Se eximen de pago de derechos, por los servicios solicitados en las fracciones I, II y IV de este artículo, por las autoridades respecto de bienes inmuebles y/o derechos reales pertenecientes a la Nación, al Gobierno de Tamaulipas, sus Municipios y Organismos Públicos Descentralizados.
 
 ### CAPITULO VI-BIS. DERECHOS POR LA EMISION DE GASES A LA ATMOSFERA
-
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 73.
 
@@ -2933,161 +2931,63 @@ b).- Por la actualización anual del Plan de Manejo, quince veces el valor diari
 
 ###### Artículo 76 Bis.
 
-El objetivo y finalidad del derecho es que la Hacienda Pública del Estado cuente con recursos que le permitan financiar las políticas y programas de adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero, al fomento de la sustentabilidad en las actividades económicas, industriales y productivas en el Estado, así como para cumplir con las obligaciones de protección a la salud, al ambiente y a la preservación y restauración del equilibrio ecológico, de conformidad con lo establecido por los artículos 4º, 25 y 73, fracción XXIX-G, de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 16 de la Constitución Política del Estado Libre y Soberano de Tamaulipas.
-
-Asimismo, este derecho tiene como finalidad que los contribuyentes que se encuentren en el supuesto de causación, aporten a la hacienda pública en proporción a la afectación a los componentes del medioambiente y los efectos negativos generados por el sustrato económico que llevan a cabo, cuando éste produzca emisiones de carbono u otros gases a la atmósfera.
-
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 ###### Artículo 76 Ter.
 
-Para efectos de este Capítulo serán aplicables de manera supletoria el Código para el Desarrollo Sustentable del Estado de Tamaulipas y demás disposiciones vigentes en el Estado en materia de derecho al medio ambiente sano, que no sean contrarias a la naturaleza del derecho fiscal.
-
-Para determinar la base gravable, las autoridades fiscales podrán considerar:
-
-I.- Los libros y registros sea cual fuera su denominación, que los sujetos obligados al pago del derecho deban llevar conforme a las disposiciones legales, sean de carácter fiscal, mercantil o para dar cumplimiento a las normas en materia de ecología y medio ambiente; y
-
-II.- Cuando no sea posible determinar la base gravable en los términos de la fracción anterior, las autoridades fiscales podrán estimar la cantidad conforme a la información que se obtenga de otras autoridades, terceros, estudios científicos o tecnológicos, considerando el tipo de actividades realizadas por el contribuyente y la producción o venta del periodo en el que se causó el derecho.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION III. DE LA BASE
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 76 Quater.
 
-Son objeto de este derecho las emisiones a la atmósfera de las sustancias generadas por los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo a partir de la tonelada 25 al mes.
-
-Para los efectos de este artículo, se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-No serán objeto de este derecho, las emisiones a la atmósfera de las sustancias generadas por los procesos productivos que se desarrollen en el Estado que provengan de la utilización de gas natural.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION IV. DE LA TARIFA
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 76 Quinquies.
 
-Son sujetos y están obligados al pago de este derecho, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas en el territorio del Estado y que emitan más de 25 toneladas al mes de las emisiones a que se refiere el artículo 76 Sexies.
-
-También quedan comprendidos como sujetos de este derecho, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas productivas del Estado, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION V. DEL ENTERO
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 76 Sexies.
 
-Es base de este derecho la masa de emisiones contaminantes gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas, a partir de la tonelada 25 al mes.
-
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal Ambiental a cargo de la Secretaría de Desarrollo Urbano y Medio Ambiente.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 76 Quater de esta Ley en Bióxido de Carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-TABLA DE CONVERSION
-
-Gases Efecto Invernadero Composición Molecular Equivalencia
-
-Bióxido de Carbono CO2 1
-
-Metano CH4 28
-
-Óxido nitroso N2O 265
-
-Hidrofluro-carbonos HFC-23 12,400
-
-HFC-125 3,170
-
-HFC-134ª 1,300
-
-HFC-152ª 138
-
-HFC-227ea 3,350
-
-HFC-236fa 8,060
-
-HFC-43-10mee 1,650
-
-Perfluoro-carbonos CF4 6,630
-
-C2F6 11,100
-
-C4F10 9,200
-
-C6F14 7,910
-
-Hexafluoro de azufre SF6 23,500
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION VI. DE LAS OBLIGACIONES
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 76 Septies.
 
-El derecho se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este derecho y que afectan el territorio del Estado, aplicando una tarifa impositiva por el equivalente a tres veces el valor diario de la Unidad de Medida y Actualización, a partir de la tonelada 25 al mes, emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
-
-Asimismo, para el caso de que se exceda la unidad de medida señalada en el párrafo anterior como tonelada, sin que las emisiones alcancen la siguiente unidad de medida o tonelada, la tarifa impositiva por ese excedente se deberá calcular de forma directamente proporcional a la porción que exceda de la tonelada correspondiente.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 #### SECCION VII. DESTINO DEL DERECHO
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
-
 ###### Artículo 76 Octies.
 
-El contribuyente hará el entero del derecho a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 76 Nonies.
 
-Los contribuyentes estarán obligados a presentar aviso de inscripción ante la Secretaría y llevar un Libro Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría y de la Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado de Tamaulipas, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
-
-En el Libro Registro de Emisiones Contaminantes se consignarán los datos siguientes:
-
-I.- Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
-
-II.- Composición química básica del combustible consumido y/o producido;
-
-III.- Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
-
-IV.- En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
-
-V.- Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría de Desarrollo Urbano y Medio Ambiente.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE JULIO DE 2020)</small>
 
 ###### Artículo 76 Decies.
 
-Los ingresos que se obtengan de la recaudación del derecho establecido en este Capítulo se destinarán al sostenimiento de las actividades y obligaciones siguientes:
-
-I.- Las previstas en el artículo 2 y 8 de la Ley General de Cambio Climático;
-
-II.- Las obligaciones a las que se refieren los artículos 1, 4, 5, fracciones III y IX, 54, 55, 56 y 57 de la Ley de Cambio Climático para el Estado de Tamaulipas;
-
-III.- La prevista en el artículo 47 de la Ley de Transición Energética;
-
-IV.- Obras, infraestructura y operación de los servicios de salud en el Estado;
-
-V.- Obras, infraestructura, preservación, restauración, manejo o remediación del equilibrio ecológico;
-
-VI.- Acciones estatales de inspección y vigilancia de fuentes fijas de contaminantes y de cumplimiento de las disposiciones ambientales aplicables; y
-
-VII.- Generación de proyectos para desarrollo sustentable y sostenible que protejan el ambiente.
+(DEROGADO, P.O. 20 DE DICIEMBRE DE 2022)
 
 ### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
 
@@ -4312,3 +4212,15 @@ P.O. 19 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-495 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2023.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
