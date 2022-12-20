@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2022-07-21"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -141,9 +141,13 @@ X. Violencia política: es la acción u omisión que, en el ámbito político, p
 
 XI. Violencia por acoso: Es la agresión reflejada en cualquier acto expresivo, verbal o físico, motivada u orientada por discriminación con base en el género, que pretenda coaccionar a la persona acosada con molestias o requerimientos que la coloquen intencionalmente en una situación de riesgo, incluso en aquellos casos donde no exista subordinación, pero el acosador cometa un ejercicio abusivo del poder que ponga a la víctima en estado de indefensión; y
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-XII. Violencia Digital: acción u omisión que se produce cuando una persona provoca o realiza daños físicos o psicológicos a una mujer, utilizando las tecnologías de la información y comunicación, vulnerando principalmente su dignidad, intimidad, libertad y vida privada; y
+XII. Violencia digital: Es la acción u omisión realizada mediante el uso de las tecnologías de la información y comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios, o videos reales, simulados o alterados de contenido erótico o sexual de una mujer sin su consentimiento, vulnerando su dignidad, intimidad, libertad, vida privada o imagen propia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+Para efectos del presente, se entenderá por tecnologías de la información y comunicación, aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -153,7 +157,15 @@ XIII. Violencia institucional: Son los actos u omisiones de las personas que ten
 
 XIV. Violencia simbólica: Es la expresión, emisión o difusión por cualquier medio, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad; y
 
-XV. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+XV. Violencia mediática: Es la acción u omisión realizada a través de cualquier medio de comunicación, que de manera directa o indirecta promueva la sumisión o explotación de mujeres, estereotipos sexistas, haga apología de la violencia contra las mujeres, las adolescentes y las niñas, la cosificación de sus cuerpos, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, o contenidos que la injurian, difaman, discriminan, deshonran, humillan o que atentan contra su autoestima, salud, integridad, dignidad, libertad o seguridad; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+XVI. Violencia vicaria: Es cualquier acción u omisión ejercida contra una mujer con la finalidad de causarle daño o sufrimiento, realizada por una persona con quien tenga o haya tenido relación de matrimonio, concubinato, noviazgo o análoga y, se dirige en contra de las hijas, hijos o personas significativas; y
+
+XVII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
 
@@ -200,6 +212,10 @@ V. Institucional: es cualquier tipo de violencia contra la mujer consistente en 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
 VI. En la comunidad digital: es la violencia que se ejerce dentro de un grupo de personas que forman una red digital, los cuales tienen intereses comunes por cada uno de sus miembros y tienen un código común de comunicación que es utilizado por enlaces electrónicos e interfaces gráficos de usuario.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+VII. En los medios de comunicación: es la violencia que se ejerce al utilizar los medios de comunicación para producir o difundir contenidos que atentan contra la autoestima, salud, integridad, dignidad, libertad o seguridad de las mujeres, adolescentes y niñas, que impide su desarrollo y que atenta contra la igualdad.
 
 ### Capítulo III. Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
@@ -1554,3 +1570,15 @@ Artículo Segundo. Dentro de un término que no exceda de ciento veinte días co
 Artículo Tercero. Las autoridades correspondientes deberán desarrollar los programas de capacitación necesarios para dar cumplimiento al presente Decreto.
 
 Artículo Cuarto. Las autoridades correspondientes deberán integrar de manera progresiva en su presupuesto, los recursos para el cumplimiento del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 116, SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 5; Y SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN XII Y LA FRACCIÓN XV RECORRIÉNDOSE EN SU ORDEN LA NUMERACIÓN DE LA FRACCIÓN SUBSECUENTE DEL ARTÍCULO 5; Y UNA FRACCIÓN VII AL ARTÍCULO 6, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 117, SE ADICIONA UNA FRACCIÓN XVI, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
