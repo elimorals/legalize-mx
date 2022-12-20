@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2019-12-06"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -77,7 +77,9 @@ La asistencia social comprende acciones de promoción, prevención, protección 
 
 Son sujetos a la recepción de los servicios de asistencia social, preferentemente, los siguientes:
 
-I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+I.- Menores y mujeres en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
 
 II.- Menores infractores; en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
 
@@ -217,13 +219,21 @@ XIV.- El establecimiento y manejo del sistema estatal de información básica en
 
 XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación del trabajo para los menores;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-XVI.- El fomento de acciones de paternidad responsable, que respalden la preservación de los derechos de los menores en apego al interés superior del niño, la satisfacción de sus necesidades y su salud física y mental; y
+XVI.- El fomento de acciones de paternidad responsable, que respalden la preservación de los derechos de los menores en apego al interés superior del niño, la satisfacción de sus necesidades y su salud física y mental;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
 
-XVII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan a los sujetos de asistencia social su desarrollo integral.
+XVII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan a los sujetos de asistencia social su desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+XVIII.- La atención especializada a víctimas de violencia familiar y de género; y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+XIX.- El apoyo a la educación y atención de la salud sexual y reproductiva.
 
 ###### ARTICULO 13.
 
@@ -942,3 +952,11 @@ SEXTO. Los integrantes de la Comisión Directiva del Instituto, celebrarán sesi
 SÉPTIMO. El Titular del Poder Ejecutivo expedirá el Reglamento Interior del Instituto de la Discapacidad del Estado de Puebla aprobado por la Comisión Directiva del Instituto, dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 OCTAVO. Cuando se haga referencia a la Comisión Estatal Coordinadora, se debe entender como realizada al Instituto de la Discapacidad del Estado de Puebla.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 12, Y ADICIONA LAS FRACCIONES XVIII Y XIX AL 12 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
