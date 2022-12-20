@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-primer-empleo-del-estado-de-puebla-119013"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-13"
-last_updated: "2022-06-22"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de enero de 2017.
 
@@ -145,6 +145,10 @@ Para tener derecho al estímulo a que se refiere el artículo 8 de la presente L
 
 El patrón no perderá el beneficio que le otorga el presente Capítulo en caso de que al trabajador de primer empleo le sea rescindido su contrato de trabajo en términos de lo establecido por el artículo 47 de la Ley Federal del Trabajo y éste sea sustituido por otro trabajador de primer empleo, siempre que el patrón conserve el puesto de nueva creación durante el periodo establecido en el artículo 10 de esta Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 12 BIS. Los Patrones que hagan un mal uso de los beneficios fiscales concedidos en la presente Ley, alteren o simulen datos o no cumplan con los requerimientos tendientes a acreditar el derecho a los beneficios, se les aplicarán las sanciones establecidas en las leyes correspondientes.
+
 ### CAPÍTULO IV. DEL PROCEDIMIENTO PARA LA APLICACIÓN DEL APOYO Y REQUISITOS
 
 ###### ARTÍCULO 13.
@@ -264,6 +268,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 7 DE LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DEL PRIMER EMPLEO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
