@@ -4,7 +4,7 @@ identifier: "LGIPE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-05-23"
-last_updated: "2020-04-13"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100928&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPE"
 
 LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda y Tercera Sección del Diario Oficial de la Federación, el viernes 23 de mayo de 2014.
 
@@ -3856,7 +3856,9 @@ I. El tope máximo de gastos de campaña será equivalente al veinte por ciento 
 
 b) Para la elección de diputados y senadores, a más tardar el día último de diciembre del año de la elección, procederá en los siguientes términos:
 
-I. El tope máximo de gastos de campaña para la elección de diputados por el principio de mayoría relativa será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección presidencial entre trescientos. Para el año en que solamente se renueve la Cámara de Diputados, la cantidad a que se refiere esta fracción será actualizada con el índice de crecimiento del salario mínimo diario en el Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+I. El tope máximo de gastos de campaña para la elección de diputados por el principio de mayoría relativa será la cantidad que resulte de dividir el tope de gasto de campaña establecido para la elección presidencial entre trescientos. Para el año en que solamente se renueve la Cámara de Diputados, la cantidad a que se refiere esta fracción será actualizada con el valor de la Unidad de Medida y Actualización, y
 
 II. Para cada fórmula en la elección de senadores por el principio de mayoría relativa, el tope máximo para gastos de campaña será la cantidad que resulte de multiplicar la suma del tope de gasto de campaña para la elección de diputados por el número de distritos que comprenda la entidad de que se trate. En ningún caso el número de distritos que se considerará será mayor de veinte.
 
@@ -6340,7 +6342,9 @@ a) Respecto de los partidos políticos:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Distrito Federal, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta diez mil veces la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 III. Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -6358,7 +6362,9 @@ b) Respecto de las agrupaciones políticas:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Distrito Federal, según la gravedad de la falta, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta diez mil veces la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -6372,7 +6378,9 @@ c) Respecto de las personas aspirantes, precandidatas o candidatas a cargos de e
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, y
 
 III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -6382,7 +6390,9 @@ d) Respecto de las Candidatas y los Candidatos Independientes:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta cinco mil veces la Unidad de Medida y Actualización;
 
 III. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -6394,11 +6404,17 @@ e) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol�
 
 I. Con amonestación pública;
 
-II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente para el Distrito Federal; en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
 
-III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cien mil días de salario mínimo general vigente para el Distrito Federal, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo, y
+II. Respecto de los ciudadanos, o de los dirigentes y afiliados a los partidos políticos: con multa de hasta quinientas veces la Unidad de Medida y Actualización; en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo;
 
-IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente para el Distrito Federal, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+III. Respecto de las personas morales por las conductas señaladas en la fracción anterior: con multa de hasta cien mil veces la Unidad de Medida y Actualización, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo, y
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o moral, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 f) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -6406,13 +6422,17 @@ I. Con amonestación pública;
 
 II. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales federales o locales, según sea el caso, y
 
-III. Con multa de hasta doscientos días de salario mínimo general vigente para el Distrito Federal, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+III. Con multa de hasta doscientas veces la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 g) Respecto de los concesionarios de radio y televisión:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cien mil días de salario mínimo general vigente para el Distrito Federal, que en el caso de concesionarios de radio será de hasta cincuenta mil días de salario mínimo; en caso de reincidencia hasta con el doble de los montos antes señalados, según corresponda;
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta cien mil veces la Unidad de Medida y Actualización, que en el caso de concesionarios de radio será de hasta cincuenta mil veces la Unidad de Medida y Actualización; en caso de reincidencia hasta con el doble de los montos antes señalados, según corresponda;
 
 III. Cuando no transmitan, conforme a las pautas aprobadas por el Instituto, los mensajes a que se refiere este Capítulo, además de la multa que, en su caso se imponga, deberán subsanar de inmediato la omisión, utilizando para tal efecto el tiempo comercializable o para fines propios que la ley les autoriza;
 
@@ -6424,7 +6444,9 @@ h) Respecto de las organizaciones de ciudadanos que pretendan constituir partido
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Distrito Federal, según la gravedad de la falta, y
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta, y
 
 III. Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional, y
 
@@ -6432,7 +6454,9 @@ i) Respecto de las organizaciones sindicales, laborales o patronales, o de cualq
 
 I. Con amonestación pública, y
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Distrito Federal, según la gravedad de la falta.
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2022)</small>
+
+II. Con multa de hasta cinco mil veces la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 ###### Artículo 457.
 
@@ -7225,3 +7249,9 @@ D.O.F. 13 DE ABRIL DE 2020.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el ejercicio fiscal que corresponda, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES Y DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
