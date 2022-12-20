@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-136
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-05-24"
-last_updated: "2022-10-25"
+last_updated: "2022-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136355&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-05-10"
 
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE DICIEMBRE DE 2022.
 
 Estatuto publicado en el Número 98 de la Gaceta Oficial de la Ciudad de México, el viernes 24 de mayo de 2019.
 
@@ -248,7 +248,9 @@ I.II.2. Enlace de Apoyo de Asuntos Jurídicos.
 
 II. Órgano Interno de Control
 
-II.1. Unidad Departamental de Fiscalización.
+> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
+II.1. Unidad Departamental de Auditoría.
 
 > <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2022)</small>
 
@@ -530,9 +532,11 @@ XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que c
 
 XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las Direcciones Generales de Coordinación de Órganos Internos de Control, las que correspondan a las unidades administrativas de apoyo técnico-operativo adscritas; así como las que expresamente le atribuyan otros ordenamientos jurídicos o administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 26.
 
-A la Unidad Departamental de Fiscalización, le corresponde:
+A la Unidad Departamental de Auditoría (sic):
 
 I. Acordar, según corresponda, con la persona titular del Órgano Interno de Control, el trámite y resolución de los asuntos de su competencia;
 
@@ -1259,6 +1263,14 @@ SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 G.O. 25 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS A LOS ARTÍCULOS 15, FRACCIONES II.2 Y II.3, 27 Y 28 DEL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO."]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO DE LA CAPTRALIR AUTORIZA LAS REFORMAS A LOS ARTÍCULOS 15, FRACCIÓN II.1 y 26 DEL ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO".
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
