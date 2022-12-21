@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2022-10-21"
+last_updated: "2022-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -697,9 +697,21 @@ XVI.- Intervenir, en coordinación con las autoridades competentes del Estado, e
 
 XVII.- Realizar de manera coordinada con la Federación las acciones pertinentes para el ejercicio de los programas insertos en el Convenio de Desarrollo Social, debiendo promover la celebración de mecanismos institucionales para la elaboración e integración uniforme de los indicadores derivados de dicho Convenio; y
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XVIII.- Encabezar la Secretaría Ejecutiva del Gabinete Social del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XIX.- Ejecutar y dar seguimiento a los acuerdos tomados por el Gabinete Social del Estado de Hidalgo, así como convocar a las personas titulares de las entidades que lo conforman a reuniones ordinarias;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XX.- Coordinarse con la persona Titular de la Secretaría Técnica para elaborar y entregar un informe anual al Congreso del Estado de Hidalgo sobre la transferencia, asignación y destino de los bienes a los que se refiere la Ley Nacional de Extinción de Dominio, así como de las actividades y reuniones del Gabinete Social del Estado de Hidalgo;
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+XXI.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 27.
 
@@ -1793,9 +1805,73 @@ XIII. Las demás que, en relación con su competencia, le señale el Gobernador,
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-### CAPITULO ÚNICO. ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL Y FIDEICOMISOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO III. DEL GABINETE SOCIAL DEL ESTADO DE HIDALGO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Bis.
+
+El Gabinete Social del Estado de Hidalgo, es la instancia colegiada de formulación y coordinación de la asignación y transferencia de los bienes a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, los bienes asegurados, abandonados y decomisados en los procedimientos penales, así como los recibidos de acuerdos reparatorios o por el pago de reparación del daño a favor del Estado, aprobados por el Ministerio Público o la Autoridad Judicial, los recibidos derivados de los acuerdos o convenios que restituyan el patrimonio del Estado y los que las dependencias y entidades de la Administración Pública Estatal determinen entregar al Instituto Hidalguense para Devolver al Pueblo lo Robado para un fin social, el cual estará integrado por:
+
+I.- La persona Titular del Poder Ejecutivo Estatal, quien lo presidirá y podrá nombrar su suplente;
+
+II.- La persona Titular de la Secretaría de Desarrollo Social, quien encabezará la Secretaría Ejecutiva;
+
+III.- La persona Titular de la Secretaría de Gobierno;
+
+IV.- La persona Titular de la Secretaría de Finanzas Públicas;
+
+V.- La persona Titular de la Secretaría de Educación Pública;
+
+VI.- La persona Titular de la Secretaría de Salud, y
+
+VII.- La persona Titular de la Dirección General del Instituto Hidalguense para Devolver al Pueblo lo Robado, quien encabezará la Secretaría Técnica.
+
+Con excepción de la persona Titular del Ejecutivo Estatal, los demás integrantes del Gabinete no podrán nombrar suplente. La persona Titular del Ejecutivo Estatal podrá nombrar un suplente con un cargo jerárquico inferior inmediato.
+
+Podrán ser invitados otras personas titulares de Secretarías de Estado o personas titulares de Entidades Paraestatales a las sesiones de este Gabinete.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Ter.
+
+El Gabinete Social del Estado de Hidalgo tendrá a su cargo las atribuciones siguientes:
+
+I.- Proponer, definir y supervisar las pautas, criterios, planes, programas, proyectos y acciones institucionales e interinstitucionales, mediante los cuales se determine la pertinencia de la asignación o transferencia de un bien extinto, relacionado o vinculado con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, los bienes asegurados, abandonados o decomisados en los procedimientos penales, así como los recibidos de acuerdos reparatorios o por el pago de reparación del daño a favor del Estado, aprobados por el Ministerio Público o la Autoridad Judicial, los derivados de los acuerdos o convenios que restituyan el patrimonio del Estado y los que las dependencias y entidades de la Administración Pública Estatal determinen entregar al Instituto Hidalguense para Devolver al Pueblo lo Robado para un fin social;
+
+II.- Recabar información de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos sujetos a asignación o transferencia, así como de los bienes asegurados, abandonados o decomisados en los procedimientos penales, respecto de sus características, las necesidades de la región, la coyuntura política y social que rodea al bien en cuestión y demás características relevantes necesarias para la determinación de su destino o, en su caso, destrucción;
+
+Para efectos de lo anterior, la autoridad administradora a la que se refiere la Ley Nacional de Extinción de Dominio, elaborará una relación de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los bienes asegurados, abandonados y decomisados en los procedimientos penales, que podrán ser susceptibles de asignación de conformidad con sus características, así como propuestas para su mejor aprovechamiento en favor del interés público;
+
+III.- Determinar el destino de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y de los bienes asegurados, abandonados y decomisados en los procedimientos penales, al pago de las erogaciones derivadas de la ejecución de programas sociales, así como los recibidos de acuerdos reparatorios o por el pago de reparación del daño a favor del Estado, aprobados por el Ministerio Público o la Autoridad Judicial, los recibidos derivados de los acuerdos o convenios que restituyan el patrimonio del Estado y los que las dependencias y entidades de la Administración Pública Estatal determinen entregar al Instituto Hidalguense para Devolver al Pueblo lo Robado para un fin social, conforme a los objetivos establecidos en el Plan Estatal de Desarrollo u otras políticas prioritarias;
+
+IV.- Establecer mecanismos de asignación conforme a las características del bien y el contexto social en que se encuentre, tomando en consideración criterios de seguridad, utilidad y justicia; los bienes que no sean asignados por la instancia colegiada, deberán ser monetizados por la autoridad administradora y el producto de la venta se administrará en el Fondo de Reserva o el Fondo de Administración, según corresponda.
+
+V.- Ejecutar y vigilar el cumplimiento de los convenios que se celebren con las entidades federativas, municipios o instituciones a las que se asignen bienes cuyo dominio se declare extinto en sentencia;
+
+VI.- Llevar un registro de los bienes, cuyo dominio se declare extinto en sentencia, así como de los recursos obtenidos por la enajenación de los bienes asegurados y decomisados en los procedimientos penales que serán transferidos, en el que se señale sus características y propósitos, mismo que deberá publicarse en la página de internet del Gabinete Social;
+
+VII.- Generar, en el ámbito de su competencia, versiones públicas de las transferencias y resoluciones tomadas en torno a los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como de los recursos obtenidos por la enajenación de los bienes asegurados y decomisados en los procedimientos penales;
+
+VIII.- Coordinarse con la autoridad administradora a la que se refiere la Ley Nacional de Extinción de Dominio, así como con las dependencias y entidades de la Administración Pública del Estado de Hidalgo o de las entidades federativas que sean destinatarias de bienes cuyo dominio se declare extinto en sentencia, a efecto de hacer más eficiente la administración y destino de los bienes que conforman el Fondo de Reserva y el Fondo de Administración, y;
+
+IX.- Expedir y modificar su Reglamento Interior por conducto de su Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 38 Quáter.
+
+El Gabinete Social del Estado de Hidalgo podrá celebrar reuniones ordinarias y extraordinarias a saber:
+
+I.- Las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, mismas que serán convocadas por la persona Titular de la Secretaría Ejecutiva, y
+
+II.- Las reuniones extraordinarias se convocarán en cualquier momento por la persona Titular del Ejecutivo Estatal.
 
 ## TITULO TERCERO. DEL SECTOR PARAESTATAL
+
+### CAPITULO ÚNICO. ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL Y FIDEICOMISOS
 
 ###### Artículo 39.
 
@@ -1978,3 +2054,29 @@ P.O. 21 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 251 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 333 QUE EXPIDE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINCIÓN DE DOMINIO DEL ESTADO DE HIDALGO Y QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. La Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, entrara? en vigor a los sesenta días naturales de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las reformas y adiciones a Ley Orgánica de la Administración Pública para el Estado de Hidalgo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO. Entrada la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado de Hidalgo en vigor, respecto de los Bienes sujetos a los procedimientos penales y/o de extinción de dominio que se encuentren en trámite, la administración, enajenación y destino de los mismos, se ajustara? a lo dispuesto por ésta.
+
+CUARTO. El Reglamento de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado de Hidalgo, el Reglamento del Gabinete Social del Estado de Hidalgo, así como el Estatuto Orgánico del Instituto Hidalguense para Devolver al Pueblo lo Robado, deberán ser emitidos dentro de los ochenta días naturales a la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno del Instituto Hidalguense para Devolver al Pueblo lo Robado, deberá tener su primera sesión ordinaria a los primeros diez días hábiles de la entrada en vigor de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado.
+
+SEXTO. La Secretaría de Finanzas Públicas otorgara?, conforme a la disponibilidad presupuestal, los recursos que sean necesarios para la instalación y funcionamiento del Instituto Hidalguense para Devolver al Pueblo lo Robado, así como del Gabinete Social del Estado de Hidalgo, en tanto que el Congreso del Estado determine lo conducente en el Presupuesto de Egresos del ejercicio correspondiente.
+
+SÉPTIMO. La Fiscalía General de Justicia del Estado de Hidalgo conservará en depósito, bajo su responsabilidad y con las obligaciones a que se refiere (sic) Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, los bienes asegurados, abandonados, decomisados y de extinción de dominio que se encuentren en su custodia a la entrada en vigor de este Decreto. Dichos bienes serán inventariados y entregados al Instituto Hidalguense para Devolver al Pueblo lo Robado, cuando éste los requiera.
+
+OCTAVO. El Instituto Hidalguense para Devolver al Pueblo lo Robado entrará en funciones a los sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+NOVENO. Todas las referencias de (sic) Fiscalía General de Justicia del Estado de Hidalgo a que hace mención la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, se entenderán a la Procuraduría General de Justicia del Estado de Hidalgo. Lo anterior hasta que se dé cumplimiento a lo dispuesto por el artículo Segundo Transitorio del Decreto 218, que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo en fecha 22 de junio de 2022.
+
+DÉCIMO. Se abroga la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo en fecha 10 de noviembre de 2014.
+
+DÉCIMO PRIMERO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan al mismo.
