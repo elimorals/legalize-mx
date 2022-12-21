@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2020-11-05"
+last_updated: "2022-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -1125,7 +1125,9 @@ El Instituto notificará la resolución al denunciante y al sujeto obligado, den
 
 Las resoluciones que emita el Instituto son vinculantes, definitivas e inatacables para los sujetos obligados. El particular podrá impugnar la resolución a través del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
-El sujeto obligado deberá cumplir con la resolución en un plazo de cinco días, a partir del día siguiente al en que se le notifique la misma.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+El sujeto obligado deberá cumplir con la resolución en un plazo de diez días, a partir del día siguiente en que se le notifique la misma.
 
 ###### Artículo 42.
 
@@ -1361,9 +1363,7 @@ VIII. Se encuentre contenida dentro de las investigaciones de hechos que la ley 
 
 IX. Las que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidos en esta Ley y no la contravengan; así como las previstas en tratados internacionales.
 
-(NOTA: EL 22 DE ABRIL DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2016 Y SUS ACUMULADAS 93/2016 Y 95/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE ABRIL DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-X. LA CONTENIDA EN LAS REVISIONES Y AUDITORÍAS REALIZADAS DIRECTA O INDIRECTAMENTE POR LOS ÓRGANOS DE CONTROL O DE FISCALIZACIÓN ESTATALES, HASTA EN TANTO SE PRESENTEN ANTE LA AUTORIDAD COMPETENTE LAS CONCLUSIONES RESPECTIVAS Y HAYA DEFINITIVIDAD EN LOS PROCEDIMIENTOS CONSECUENTES; Y
+X. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2022)
 
 XI. Las demás contenidas en la Ley General.
 
@@ -1527,7 +1527,9 @@ III. Fungir como ponentes en los asuntos que les sean turnados y presentar al Pl
 
 IV. Suplir la deficiencia de la queja en los trámites de los recursos de revisión, en términos del artículo 146 de la Ley General;
 
-V. Instruir los recursos que les sean turnados, formular el proyecto de resolución y, en su caso, solicitar la ampliación para emitir la resolución por un periodo de diez días hábiles más, cuando haya causa justificada, en términos de la presente Ley;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+V. Instruir los recursos que les sean turnados, formular el proyecto de resolución y, en su caso, solicitar la ampliación para emitir la resolución, cuando haya causa justificada, en términos de la presente Ley;
 
 VI. Proponer asuntos para su inclusión en el orden del día de las sesiones ordinarias;
 
@@ -1683,17 +1685,23 @@ XXV. Firmar convenios, acuerdos, contratos, bases de colaboración y demás acto
 
 XXVI. Delegar facultades a los servidores públicos subalternos, con excepción de las indelegables;
 
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XXVI Bis. Representar legalmente al Instituto y delegar dicha función al Servidor Público que designe;
+
 XXVII. Nombrar a los servidores públicos del instituto, que deberán ser ratificados por el Pleno; y
 
 XXVIII. Las demás que expresamente le confieran esta Ley, las leyes del Estado y demás disposiciones aplicables.
 
 Se consideran facultades indelegables del Comisionado Presidente, las señaladas en las fracciones II, III, V. VI, VII, VIII, IX, XI, XIII, XIV, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXVI y XXVII de este artículo.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 88.
 
-El Comisionado Presidente rendirá, en el mes de mayo, un informe anual de labores al Congreso del Estado sobre el acceso a la información, con base en los datos que le rindan los sujetos obligados y la atención brindada a las solicitudes de particulares; los asuntos atendidos por el Instituto; los recursos planteados y resueltos, así como otras incidencias y problemas observados en el cumplimiento de esta Ley.
+El Comisionado Presidente rendirá cuentas sobre el estado que guarda su gestión y deberá presentar anualmente un informe de actividades a los Poderes Legislativo y Ejecutivo en términos de lo dispuesto por el artículo 67, párrafo segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
 
-El informe será público y de difusión obligada en todo el Estado.
+El informe será público y de difusión obligada en todo el Estado, tomará en consideración los datos que le rindan los sujetos obligados y la atención brindada a las solicitudes de particulares; los asuntos atendidos por el Instituto; los recursos planteados y resueltos, así como otras incidencias y problemas observados en el cumplimiento de esta Ley.
 
 #### Sección Cuarta. Del Pleno
 
@@ -1785,9 +1793,19 @@ XXXVIII. Aprobar licencias a los Comisionados para ausentarse temporalmente de s
 
 XXXIX. Aprobar, a solicitud de cualquiera de los Comisionados y siempre por causa justificada y cuando no afecte el funcionamiento del Instituto, licencias a los demás servidores públicos del Instituto, mayores a cinco días, y señalar quiénes suplirán esas ausencias;
 
-XL. Informar al Congreso del Estado sobre la falta injustificada o ausencia absoluta de alguno de los Comisionados, para los efectos legales procedentes; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XL. Informar al Congreso del Estado sobre la falta injustificada o ausencia absoluta de alguno de los Comisionados, para los efectos legales procedentes;
 
 XLI. Aprobar la celebración de convenios y contratos, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XLII. Crear, fusionar y suprimir unidades administrativas y plazas, de conformidad con la disponibilidad presupuestal del Instituto para hacer efectiva (sic) sus atribuciones, a propuesta de Presidencia, pudiendo establecer coordinaciones en diferentes regiones del Estado con el objeto de expandir, socializar y difundir los derechos de acceso a la información y de protección de datos personales; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XLIII. Emitir, en lo no previsto en esta Ley, los lineamentos y acuerdos que se requieran en materia de transparencia y protección de datos personales de conformidad con la legislación aplicable.
 
 ###### Artículo 91.
 
@@ -1797,7 +1815,15 @@ Las resoluciones que adopte el Pleno se tomarán por mayoría de votos y para se
 
 El Pleno sesionará de manera ordinaria y extraordinaria, conforme a las reglas siguientes:
 
-I. Las sesiones se llevarán a cabo en el domicilio legal del Instituto, salvo acuerdo previo del Pleno para celebrarlas en un lugar distinto, y tendrán carácter público;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+I. Las sesiones se llevarán a cabo en el domicilio legal del Instituto, salvo acuerdo previo del Pleno para celebrarlas en un lugar distinto, y tendrán carácter público; en los casos en que así lo determine el Pleno, las sesiones podrán celebrarse a distancia, empleando cualquier medio de comunicación electrónico que permita por lo menos:
+
+a) La identificación visual plena de los integrantes del Pleno;
+
+b) La interacción e intercomunicación, en tiempo real, para propiciar la correcta deliberación de la (sic) ideas y asuntos; y
+
+c) Dejar registro audiovisual de la sesión y sus acuerdos.
 
 II. Las sesiones ordinarias se celebrarán, al menos, cuatro veces al año; y las sesiones extraordinarias se celebrarán todas las veces que fueren necesarias para tratar asuntos cuya importancia o urgencia así lo ameriten;
 
@@ -1935,13 +1961,17 @@ El Pleno emitirá el Reglamento para el Servicio Profesional de Carrera, para la
 
 El Instituto tendrá, para la gestión y el desempeño de sus atribuciones, la estructura administrativa señalada en la presente Ley, que se conducirá bajo los principios de austeridad presupuestal y disciplina.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 98.
 
-El Instituto contará con las áreas administrativas siguientes, que dependerán directamente de la Presidencia:
+Para el debido ejercicio de sus funciones y para el cumplimento de sus obligaciones el Instituto contará con las áreas administrativas que dependerán directamente de:
 
-I. Secretaría Ejecutiva, que contará con una Dirección de Administración y Finanzas;
+A. Presidencia:
 
-II. Secretaría de Acuerdos, que contará con una Secretaría Auxiliar, la Oficina de Actuarios y la Oficialía de Partes;
+I. Secretaría Ejecutiva, la que contará con una Dirección de Administración y Finanzas;
+
+II. Secretaría de Acuerdos, que contará con Secretarías Auxiliares y la Oficialía de Partes;
 
 III. Dirección de Asuntos Jurídicos;
 
@@ -1955,15 +1985,21 @@ VII. Dirección de Archivos;
 
 VIII. Dirección de Comunicación Social e Imagen;
 
-IX. Unidad de Sistemas Informáticos;
+IX. Dirección de Tecnologías de la Información;
 
-X. Órgano de Control Interno;
+X. Unidad de Género; y
 
-XI. Coordinaciones Regionales; y
+XI. Las demás áreas previstas en la normatividad interior en términos de la fracción XLII del artículo 90 de esta Ley.
 
-XII. Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, que acuerde el Pleno, de conformidad con la disponibilidad presupuestal del Instituto.
+B. De los Comisionados:
 
-Además de la estructura antes señalada, cada Comisionado contará con el personal administrativo y auxiliar necesario para el desempeño de sus funciones, de acuerdo con el presupuesto anual aprobado, incluyendo tres secretarios de estudio y cuenta por lo menos en cada ponencia, quienes deberán ser Licenciados en Derecho, con una antigüedad mínima de dos años en el ejercicio de la profesión y con experiencia en la materia de transparencia y acceso a la información pública.
+I. Coordinación de Ponencia;
+
+II. Secretarios de Estudio y Cuenta; y
+
+III. Auxiliares Jurídicos, y demás personal operativo y administrativo que resulte necesario para su funcionamiento, en términos del presupuesto aprobado.
+
+Los servidores públicos del Instituto, serán trabajadores de confianza debido a la naturaleza de las funciones que estos desempeñan, debiendo cubrir con el perfil y los requisitos establecidos en el reglamento respectivo.
 
 ###### Artículo 99.
 
@@ -2011,7 +2047,9 @@ I. (DEROGADA, G.O. 6 DE NOVIEMBRE DE 2017)
 
 II. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
 
-III. Dar fe de las sesiones del Pleno, para lo cual firmará las actas, acuerdos y resoluciones del Pleno, verificando el correcto levantamiento e integración de las actas;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+III. Dar fe de las sesiones del Órgano de Gobierno, para lo cual firmará las actas y acuerdos del Pleno, verificando su correcto levantamiento e integración;
 
 IV. Ejercer el presupuesto asignado por el Congreso del Estado, siguiendo las directrices que al caso señale el Pleno;
 
@@ -2039,7 +2077,7 @@ XII. Someter a la aprobación del Pleno y, en su caso, del Comité de Adquisicio
 
 XIII. Presentar al Congreso del Estado la solicitud de autorización para el procedimiento de baja de bienes muebles del Instituto, previo acuerdo del Pleno;
 
-XIV. Otorgar y revocar poderes y mandatos, en los términos del Código Civil para el Estado;
+XIV. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2022)
 
 XV. Dar fe y certificar, previa confrontación o cotejo con su original o matriz, los documentos o instrumentos específicos que existan en los archivos del Instituto, conforme a sus funciones legales. Al efecto, la certificación podrá efectuarse mediante sello u holograma oficiales. De conformidad con los artículos 71, 75 y 110 del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, tratándose de documentos ofrecidos como pruebas en los medios de impugnación, expedidos por autoridades distintas al Instituto y de los que sólo existan copias certificadas en los archivos de éste, únicamente procederá expedir constancia de la existencia de dichas copias certificadas en los archivos o expedientes del Instituto. En ningún caso procederá el envío y certificación de expedientes administrativos en forma genérica o global;
 
@@ -2101,7 +2139,9 @@ El Secretario de Acuerdos tendrá las atribuciones siguientes:
 
 I. Auxiliar al Comisionado Presidente en la asignación y tramitación de los recursos y demás procedimientos interpuestos ante el Instituto, así como en los de los asuntos que en general le competan;
 
-II. Asistir a los Comisionados en la sustanciación y resolución de los recursos de revisión y de protección de datos personales, en los procedimientos de verificación de falta de respuesta y otros, incluida la revisión de los proyectos de resolución correspondientes;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+II. Asistir a las Ponencias en la sustanciación y resolución de los recursos de revisión, de protección de datos personales, en los procedimientos de verificación de falta de respuesta y otros;
 
 III. Apoyar al Comisionado Presidente en la elaboración del orden del día y de las actas de las sesiones del Pleno;
 
@@ -2131,9 +2171,13 @@ XIV. Dar fe de los actos realizados por el Comisionado ponente en la tramitació
 
 XV. Dar fe y certificar, previa confrontación o cotejo con su original o matriz, los documentos o instrumentos específicos que existan en los archivos del Instituto, relacionados con los expedientes de recurso de revisión y procedimientos de verificación de falta de respuesta a solicitudes de acceso a la información, concluidos o en trámite, conforme a sus funciones legales. Al efecto, la certificación podrá efectuarse mediante sello u holograma oficiales. De conformidad con los artículos 71, 75 y 110 del Código de Procedimientos Administrativos para el Estado, tratándose de documentos ofrecidos como pruebas en los medios de impugnación o juicios, expedidos por autoridades distintas a la Secretaría a su cargo y de los que sólo existan copias certificadas en los archivos de ésta, únicamente procederá expedir constancia de la existencia de dichas copias certificadas en los archivos o expedientes de la Secretaría de la que es titular. En ningún caso procederá el envío y certificación de expedientes administrativos en forma genérica o global;
 
-XVI. Notificar en tiempo y forma a los sujetos obligados, así como a los particulares, por conducto de los actuarios notificadores, los acuerdos y resoluciones del Pleno o del Comisionado ponente, de los recursos y del procedimiento de verificación de falta de respuesta;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XVII. Remitir a la Unidad de Sistemas Informáticos el registro de los recursos, así como de procedimientos de verificación de falta de respuesta a solicitudes de acceso a la información, concluidos o en trámite, interpuestos ante el Instituto, así como la versión pública de los asuntos tratados en las sesiones;
+XVI. Auxiliar en las notificaciones que deban realizarse a los sujetos obligados, así como a los particulares, los acuerdos y resoluciones del Pleno o del Comisionado ponente, de los recursos y del procedimiento de verificación de falta de respuesta;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XVII. Remitir a la Dirección de Tecnologías de la Información, el registro de los recursos, concluidos o en trámite, interpuestos ante el Instituto, los procedimientos de verificación de falta de respuesta a solicitudes de acceso a la información, así como la versión pública de los asuntos tratados en las sesiones;
 
 XVIII. Aprobar el otorgamiento de licencias, hasta por tres días, sin que puedan otorgarse más de dos licencias en un periodo de noventa días, a los servidores públicos subalternos, en términos de lo dispuesto por el Pleno;
 
@@ -2157,7 +2201,9 @@ I. Planear, programar, presupuestar, ejercer y registrar los recursos financiero
 
 II. Elaborar, en coordinación con las áreas administrativas, el proyecto de programa anual de actividades del Instituto y someterlo al conocimiento del Secretario Ejecutivo, para los efectos procedentes;
 
-III. Elaborar el proyecto de presupuesto de egresos del Instituto para que, por conducto del Secretario Ejecutivo, se someta a la aprobación del Pleno;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+III. Elaborar, en coordinación con las áreas administrativas, el proyecto de presupuesto de egresos del Instituto para que, por conducto de la Secretaría Ejecutiva, se someta a la aprobación del Pleno;
 
 IV. Otorgar caución para asegurar el correcto manejo de los recursos a su cargo, en términos de lo señalado por el Código Financiero para el Estado;
 
@@ -2227,13 +2273,19 @@ VIII. Rendir los informes ante el Instituto Nacional de Transparencia, Acceso a 
 
 IX. Rendir, ante los tribunales de amparo, los informes previos y justificados en los juicios de amparo en los que el Instituto, el Comisionado Presidente, los demás Comisionados o los titulares de las áreas administrativas del Instituto aparezcan como demandados, o como autoridad responsable, así como formular alegatos en los juicios en que resulten con el carácter de tercero perjudicado, dando seguimiento a todas las fases del juicio, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan a favor de las partes;
 
-X. Rendir, ante las Salas Regionales del Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado, contestación de demandas en los Juicios de Nulidad en los que el Instituto, el Comisionado Presidente, los Comisionados, o los titulares de las áreas administrativas del Instituto, resulten como autoridad demandada, dando seguimiento a todas las fases del juicio, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan en favor de la parte que él representa o patrocina;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+X. Rendir ante el Tribunal Estatal de Justicia Administrativa, contestación de demandas en los Juicios de Nulidad en los que el Instituto, el Comisionado Presidente, los Comisionados, o los titulares de las áreas administrativas del Instituto, resulten como autoridad demandada, dando seguimiento a todas las fases del juicio, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan en favor de la parte que él representa o patrocina;
 
 XI. Promover Juicio de Amparo ante los tribunales federales, así como Juicio de Lesividad ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado, dando seguimiento a todas las fases del juicio correspondiente, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan en favor del Instituto como parte;
 
-XII. Contestar acciones civiles y mercantiles promovidas en contra del Instituto, así como promover las mismas ante los tribunales competentes, previa instrucción del Secretario Ejecutivo o del servidor público a favor de quien éste haya delegado la representación legal del Instituto para tales efectos, dando seguimiento a todas las fases del juicio correspondiente, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan a las partes; pudiendo incluso desistirse, previa autorización del Secretario Ejecutivo;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XIII. Preparar y dar seguimiento a los procedimientos administrativos y penales ante las autoridades competentes, previa instrucción del Secretario Ejecutivo para el caso, por conducto del Secretario de Acuerdos;
+XII. Contestar acciones civiles y mercantiles promovidas en contra del Instituto, así como promover las mismas ante los tribunales competentes, dando seguimiento a todas las fases del juicio correspondiente, pudiendo formular alegatos, ofrecer pruebas, interponer toda clase de recursos, acciones e incidentes, así como ejercitar todos los derechos procesales que las leyes de la materia reconozcan a las partes;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XIII. Presentar denuncias o querellas, así como dar seguimiento a los procedimientos administrativos y penales ante las autoridades competentes;
 
 XIV. Llevar el seguimiento y control de los procesos y procedimientos promovidos por y en contra del Instituto, así como aquellos en los que éste sea tercero perjudicado;
 
@@ -2247,7 +2299,23 @@ XVIII. Sustanciar la denuncia por incumplimiento de los sujetos obligados, respe
 
 XIX. Proporcionar al Pleno la información que le sea requerida;
 
-XX. Conocer del recurso de revocación previsto por la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+XX. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XX Bis. Realizar las inspecciones y supervisiones que resulten necesarias para verificar que los sujetos obligados den cumplimiento a la Ley;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XX Ter. Emitir las recomendaciones que deriven de las inspecciones y supervisiones realizadas a los sujetos obligados y vigilar que éstas sean solventadas de conformidad con lo ordenado;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XX Quater. Supervisar de manera permanente el cumplimiento de las obligaciones de los sujetos obligados, mediante el control de expedientes administrativos en relación con la verificación de obligaciones de transparencia;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XX Quinquies. Informar a la superioridad cuando tenga conocimiento de incumplimiento de la Ley y demás normatividad de la materia por parte de sujetos obligados, con la finalidad de que el Pleno determine las acciones necesarias, ejecutar éstas e informar oportunamente de sus resultados;
 
 XXI. Rendir al Pleno un informe trimestral de actividades realizadas; y
 
@@ -2271,13 +2339,15 @@ VI. Realizar estudios acerca de la cultura de la transparencia, el derecho de ac
 
 VII. Planear estrategias de comunicación que permitan difundir la cultura de la transparencia, a través de medios de comunicación masivos y electrónicos;
 
-VIII. Realizar las inspecciones y supervisiones que resulten necesarias para verificar que los sujetos obligados den cumplimiento a la Ley;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
 
-IX. Emitir las recomendaciones que deriven de las inspecciones y supervisiones realizadas a los sujetos obligados y vigilar que éstas sean solventadas de conformidad con lo ordenado;
+VIII. Coadyuvar con la Dirección de Asuntos Jurídicos en la realización de las inspecciones y supervisiones que resulten necesarias para verificar que los sujetos obligados den cumplimiento a la Ley;
+
+IX. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2022)
 
 X. Supervisar de manera permanente el cumplimiento de las obligaciones de los sujetos obligados, mediante el control de expedientes administrativos;
 
-XI. Elaborar y presentar, en el mes de diciembre, el proyecto del programa anual del año siguiente, relativo a la inspección y supervisión a sujetos obligados respecto del cumplimiento de la Ley, así como la ejecución de la demás normatividad de la materia, para su aprobación por el Pleno, para que, una vez ejecutado, se informe oportunamente de sus resultados;
+XI. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2022)
 
 XII. Informar a la superioridad cuando tenga conocimiento de incumplimiento de la Ley y demás normatividad de la materia por parte de sujetos obligados, con la finalidad de que el Pleno determine las acciones necesarias, ejecutar éstas e informar oportunamente de sus resultados;
 
@@ -2289,9 +2359,11 @@ XIV. Las demás que expresamente establezcan la Ley, las disposiciones aplicable
 
 La Dirección de Transparencia contará con los servidores públicos que apruebe el Pleno, y tendrá las atribuciones que para el caso prevén los artículos 99 y 134 de la presente Ley y las que le sean asignadas por el Pleno.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 108.
 
-La Dirección de Datos Personales contará con los servidores públicos que apruebe el Pleno, y tendrá las funciones que para el efecto señala la Ley para la Tutela de los Datos Personales en el Estado de Veracruz de Ignacio de la Llave y las que le sean asignadas por el Pleno.
+La Dirección de Datos Personales contará con los servidores públicos que apruebe el Pleno, y tendrá las funciones que para el efecto señala la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Veracruz de Ignacio de la Llave y las que le sean asignadas por el Pleno.
 
 ###### Artículo 109.
 
@@ -2353,9 +2425,11 @@ XIII. Rendir al Pleno un informe trimestral de actividades realizadas; y
 
 XIV. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 111.
 
-La Unidad de Sistemas Informáticos tendrá las atribuciones siguientes:
+La Dirección de Tecnologías de la Información tendrá las atribuciones siguientes:
 
 I. Diseñar, desarrollar, administrar e implementar los sistemas informáticos necesarios para apoyar las funciones de las distintas áreas administrativas del Instituto;
 
@@ -2396,6 +2470,12 @@ XVIII. Informar a la superioridad, cuando tenga conocimiento de incumplimiento d
 XIX. Rendir al Pleno un informe trimestral de las actividades realizadas; y
 
 XX. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 111 Bis.
+
+La Unidad de Género será el área encargada de promover la Igualdad Sustantiva, mediante la incorporación de la perspectiva de género en los programas, proyectos y acciones del Instituto y tendrá las atribuciones que, para el efecto, señalen las leyes de la materia y el Reglamento del Instituto.
 
 ###### Artículo 112.
 
@@ -2449,29 +2529,7 @@ XI. Las demás que expresamente establezcan la Ley, las disposiciones aplicables
 
 ###### Artículo 114.
 
-La Oficina de Actuarios contará con un Coordinador de Actuaría y los actuarios notificadores que el Pleno determine.
-
-El Coordinador de Actuaría tendrá, además de las mismas atribuciones que tienen los actuarios, la de distribuir las responsabilidades entre los actuarios notificadores, así como la supervisión de su debido cumplimiento.
-
-Los actuarios notificadores tendrán las atribuciones siguientes:
-
-I. Notificar en tiempo y forma los acuerdos y resoluciones del Pleno, o los que provengan de los Comisionados en los asuntos que les corresponde conocer;
-
-II. Elaborar los documentos requeridos para el tipo de notificación que se vaya a realizar;
-
-III. Turnar a la Unidad de Sistemas Informáticos los documentos e información requerida para enviar las notificaciones por correo electrónico o a través de la Plataforma Nacional o el Sistema de Notificaciones Electrónicas;
-
-IV. Turnar al titular de la Unidad de Sistemas Informáticos los documentos e información requerida, para enviar las notificaciones por correo electrónico;
-
-V. Cumplir con las formas y plazos para realizar notificaciones, previstos en la presente Ley;
-
-VI. Razonar cada notificación realizada y elaborar el documento correspondiente;
-
-VII. Integrar al expediente de recurso de revisión, así como de procedimiento de verificación de falta de respuesta a solicitudes de acceso a información, todos los documentos que se generen con motivo del proceso de notificación;
-
-VIII. Resguardar los expedientes que les sean entregados al Secretario de Acuerdos para notificaciones; y
-
-IX. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -2571,25 +2629,7 @@ Las Subdirecciones estarán bajo la responsabilidad del titular del Órgano Inte
 
 ###### Artículo 116.
 
-El Instituto contará con cuatro Coordinaciones Regionales, que tendrán las atribuciones siguientes:
-
-I. Atender y orientar a la población acerca de la transparencia, acceso a la información, protección de datos personales y rendición de cuentas;
-
-II. Capacitar a los sujetos obligados y a los particulares acerca de los objetivos de esta Ley;
-
-III. Dar a conocer y expandir el ejercicio de los derechos de acceso a la información pública y de protección de datos personales;
-
-IV. Realizar estudios acerca de la cultura de transparencia, derecho de acceso a la información, rendición de cuentas y protección de datos personales;
-
-V. Apoyar al Pleno;
-
-VI. Coadyuvar con la Dirección de Capacitación y Vinculación Ciudadana;
-
-VII. Informar al Pleno sobre las actividades realizadas en la región correspondiente;
-
-VIII. Apoyar las acciones encaminadas a la formación de la cultura de transparencia, el derecho de acceso a la información y protección de datos personales; y
-
-IX. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2022)
 
 ###### Artículo 117.
 
@@ -2603,9 +2643,11 @@ Las ausencias temporales del Secretario de Acuerdos serán suplidas por el Secre
 
 Para efecto del régimen de suplencias, el Secretario Ejecutivo y el Secretario de Acuerdos deberán solicitar la licencia respectiva al Pleno, dando aviso al Órgano de Control Interno, con setenta y dos horas de anticipación. En caso de urgencia, el Comisionado Presidente podrá autorizar las licencias. En caso de autorización, se comunicará por escrito a quien deba ejercer la suplencia, señalándole el tiempo de su duración.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 120.
 
-Las ausencias temporales del titular del Órgano de Control Interno, que no excedan de diez días naturales, serán suplidas por el servidor público que designe el Pleno. En caso de ausencia definitiva, el Pleno informará al Congreso del Estado para que haga la designación correspondiente, en términos de la normatividad aplicable.
+Las ausencias temporales del titular del Órgano de Control Interno, que no excedan de diez días naturales, serán suplidas por el servidor público que él designe. En caso de ausencia definitiva, el Pleno informará al Congreso del Estado para que haga la designación correspondiente, en términos de la normatividad aplicable.
 
 ###### Artículo 121.
 
@@ -2725,7 +2767,9 @@ Las Unidades de Transparencia estarán a cargo de un titular y del personal de a
 
 Cada sujeto obligado contará con el número adecuado de servidores en su Unidad de Transparencia, de acuerdo a las áreas que la conformen, para permitir la facilidad y prontitud del cumplimiento del derecho de acceso a la información.
 
-Quedará bajo la responsabilidad del titular del sujeto obligado que la preparación y la experiencia de los servidores públicos correspondan con la facultad que se les encomienda.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+El responsable de la Unidad de Transparencia deberá tener el perfil adecuado para el cumplimiento de las obligaciones que se derivan de la presente Ley y, preferentemente, contar con certificación en materia de acceso a la información, transparencia y protección de datos personales que, para el efecto, emita el Instituto.
 
 ###### Artículo 134.
 
@@ -3011,7 +3055,9 @@ El recurso de revisión deberá contener:
 
 I. El nombre del recurrente o, en su caso, de su representante o del tercero interesado;
 
-II. Domicilio para oír y recibir notificaciones o correo electrónico;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+II. Domicilio para oír y recibir notificaciones o correo electrónico de las personas enunciadas en la fracción anterior;
 
 III. La Unidad de Transparencia del sujeto obligado ante la cual se presentó la solicitud cuyo trámite da origen al recurso;
 
@@ -3039,11 +3085,17 @@ No podrá prevenirse por el nombre que proporcione el solicitante.
 
 Son partes en el recurso de revisión:
 
-> <small>(REFORMADA, G.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
 
-I. El recurrente; y
+I. El recurrente o su representante legal;
 
-II. El sujeto obligado.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+II. El sujeto obligado; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+III. El tercero interesado.
 
 ###### Artículo 162.
 
@@ -3213,9 +3265,11 @@ III. Las que no haya sido posible obtener con anterioridad, por causas que no se
 
 ### CAPÍTULO V. De la Sustanciación del recurso de revisión
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 192.
 
-El Instituto resolverá el recurso de revisión en un plazo de veinte días, contado a partir de la admisión del mismo, en los términos que establezca la presente Ley, plazo que podrá ampliarse por una sola vez y hasta por un periodo igual, conforme al procedimiento siguiente:
+El Instituto resolverá el recurso de revisión en un plazo de cuarenta días hábiles, contado a partir de la admisión del mismo, en los términos que establezca la presente Ley, plazo que podrá ampliarse por una sola vez y hasta por un periodo de veinte días hábiles, conforme al procedimiento siguiente:
 
 I. Una vez presentado el recurso, el Secretario de Acuerdos dará cuenta al Comisionado Presidente, quien emitirá un auto en el que ordene registrarlo en el libro de gobierno, asignándole una clave de identificación cronológica y lo remitirá a uno de los Comisionados para que conozca del asunto y funja como ponente. En la asignación respectiva, se observará una distribución equitativa de las cargas de trabajo de los tres Comisionados;
 
@@ -3227,19 +3281,23 @@ III. El Comisionado ponente al que se le haya turnado estudiará el recurso y de
 
 a) Requerir al recurrente para que, en un plazo de cinco días hábiles siguientes al en que surta efectos la notificación, subsane la omisión de alguno de los requisitos que refiere el artículo 159. La prevención tendrá el efecto de interrumpir el plazo que tiene el instituto para resolver el recurso;
 
-b) Al admitir el recurso, el Comisionado ponente deberá integrar el expediente y ponerlo a disposición de las partes, adjuntando copia debidamente cotejada y sellada de éste, así como de sus anexos, para que en un término de siete días manifiesten lo que a su derecho convenga y ofrezcan todo tipo de pruebas y alegatos.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
 
-En el caso de existir tercero interesado, se le hará la notificación para que, en el mismo plazo, acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes; y
+b) Al admitir el recurso, el Comisionado ponente deberá integrar el expediente y ponerlo a disposición de las partes, para que en un término de siete días manifiesten lo que a su derecho convenga y ofrezcan todo tipo de pruebas y alegatos. En el caso de existir tercero interesado, se le hará la notificación para que, en el mismo plazo, acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes; y
 
 c) Desechar de plano el medio de impugnación, en un plazo que no exceda los cinco días hábiles contados a partir del día siguiente al en que se haya recibido o, en su caso, en que se haya desahogado la prevención respectiva o fenecido el plazo para ello cuando se dé alguno de los supuestos previstos en el artículo 160 o se acredite cualquiera de las causales de notoria improcedencia señaladas en el artículo 222 de esta Ley.
 
 IV. El Instituto no estará obligado a atender la información remitida por el sujeto obligado una vez decretado el cierre de instrucción;
 
-V. El Comisionado ponente podrá determinar la celebración de audiencias con las partes; asimismo, durante el procedimiento deberá observar la suplencia de la queja a favor del recurrente en términos de Ley y asegurarse de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+V. El Comisionado ponente podrá determinar la celebración de audiencias en las que se deberá privilegiar la solución del conflicto sobre los formalismos procedimentales; asimismo, durante el procedimiento deberá observar la suplencia de la queja a favor del recurrente en términos de Ley y asegurarse de que las partes puedan presentar, de manera oral o escrita, los argumentos que funden y motiven sus pretensiones;
 
 VI. Concluida la audiencia o transcurrido el plazo previsto en la fracción III, inciso b), de este artículo, el Comisionado ponente procederá a decretar el cierre de instrucción y el expediente pasará a resolución;
 
-VII. El Comisionado ponente deberá elaborar y presentar el proyecto de resolución dentro de los diecisiete días hábiles, contados a partir del día siguiente de que se haya presentado el recurso de revisión; para ello dictará auto o proveído en el que se turnará el proyecto y copia del expediente a los integrantes del Pleno, para su aprobación;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+VII. Decretado el cierre de instrucción, se elaborará un proyecto de resolución, el cual deberá ser presentado por el Comisionado Ponente ante el Pleno del Instituto;
 
 VIII. Cuando haya causa justificada, el Comisionado ponente o el Pleno podrá solicitar la prórroga a que se refiere el párrafo primero de este artículo, y para ello deberá fundar y motivar las razones por las que la solicite; y
 
@@ -3415,7 +3473,9 @@ En los acuerdos del Pleno por los que se pone fin al recurso de revisión, el Co
 
 La resolución pronunciada por el Pleno, que revoque o modifique la decisión emitida por la Unidad de Transparencia, establecerá además:
 
-I. El plazo para su cumplimiento, que en ningún caso excederá de cinco días hábiles, contados a partir del siguiente a aquel en que surta efectos la notificación a la Unidad de Transparencia o al titular del sujeto obligado, según sea el caso;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+I. El plazo para su cumplimiento, que en ningún caso excederá de diez días hábiles, contados a partir del siguiente a aquel en que surta efectos la notificación a la Unidad de Transparencia o al titular del sujeto obligado, según sea el caso. Excepcionalmente, el Instituto, previa fundamentación y motivación, podrá ampliar el plazo para el cumplimiento, cuando el asunto así lo requiera;
 
 II. Los procedimientos para asegurar su ejecución;
 
@@ -3423,9 +3483,11 @@ III. El término de tres días hábiles siguientes al en que cumpla la resoluci�
 
 IV. La prevención para la Unidad de Transparencia de que, en caso de desacato, se dará inicio a los procedimientos a que se refiere la presente Ley.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 219.
 
-Una vez aprobada la resolución definitiva del recurso, el Secretario de Acuerdos procederá a recabar las firmas correspondientes, los votos particulares o concurrentes de los Comisionados que así los hayan formulado y, posteriormente, procederá a notificar a las partes, por conducto de cualquiera de los actuarios del Instituto.
+Una vez aprobada la resolución definitiva del recurso, el Secretario de Acuerdos procederá a recabar las firmas correspondientes, los votos particulares o concurrentes de los Comisionados que así los hayan formulado y, posteriormente, procederá a notificar a las partes.
 
 ###### Artículo 220.
 
@@ -3467,7 +3529,9 @@ I. El recurrente se desista expresamente del recurso;
 
 II. El recurrente fallezca o, tratándose de personas morales, se extinga;
 
-III. El sujeto obligado modifique o revoque, a satisfacción del particular, el acto o resolución recurrida antes de emitirse la resolución del Pleno; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+III. El sujeto obligado responsable del acto, lo modifique o revoque de tal manera que el recurso de revisión quede sin materia; y
 
 IV. Admitido el recurso aparezca alguna causal de improcedencia en los términos de la presente Ley.
 
@@ -3563,9 +3627,11 @@ I. Las que, admitiendo algún medio de impugnación, no fueran recurridas o, hab
 
 II. Las consentidas expresamente por las partes o sus representantes.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 239.
 
-Las resoluciones deberán cumplirse en un plazo no mayor a cinco días, contado a partir de que surta efectos su notificación.
+Las resoluciones deberán cumplirse en un plazo no mayor a diez días, contado a partir de que surta efectos su notificación o dentro del plazo señalado en la resolución del Instituto, de conformidad con lo establecido en el artículo 218, fracción I, de la presente Ley.
 
 ###### Artículo 240.
 
@@ -3617,7 +3683,9 @@ III. Por lista de acuerdos, en la que se omitirán los datos personales del recu
 
 IV. Por comparecencia, cuando las partes acudan directamente al Instituto y siempre que no se haya efectuado la notificación personal o por oficio; y
 
-V. Por medios electrónicos, a través del sistema de notificaciones electrónicas o la Plataforma Nacional.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+V. Por medios electrónicos, a través del sistema de notificaciones electrónicas, de la Plataforma Nacional de Transparencia o de los sistemas que para tal efecto habilite el Pleno del Instituto.
 
 ###### Artículo 247.
 
@@ -3817,6 +3885,10 @@ Todos los ingresos por concepto de multas impuestas por el Instituto, recaudados
 
 Antes de la aplicación de las medidas de apremio y de las sanciones previstas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Veracruz de Ignacio de la Llave, se concederá al infractor la garantía de audiencia, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2022)</small>
+
+El Instituto expedirá las normas del procedimiento, en las que se regule lo relativo a la forma, términos y cumplimiento de los plazos a que se refieren los procedimientos sancionatorios previstos en esta Ley, incluyendo la presentación de pruebas y alegatos, la celebración de audiencias, el cierre de instrucción y la ejecución de sanciones.
+
 ## TRANSITORIOS
 
 Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
@@ -3930,3 +4002,15 @@ SEGUNDO. El Poder Judicial del Estado contará con un plazo de 180 días para in
 TERCERO. El Poder Judicial del Estado deberá realizar las adecuaciones normativas y tecnológicas necesarias para cumplir con lo previsto en el presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 246 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Dentro de los noventa días siguientes a que entre en vigor el presente Decreto, el Pleno del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales deberá realizar las adecuaciones normativas correspondientes en su Reglamento Interior.
+
+TERCERO.- Dentro de los ciento ochenta días siguientes de la entrada en vigor del presente Decreto, el Pleno del Instituto Veracruzano de Acceso a la Información y Protección de Datos Personales emitirá los criterios, términos y lineamientos de la certificación a que se refiere el párrafo tercero del artículo 133 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Veracruz de Ignacio de la Llave.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
