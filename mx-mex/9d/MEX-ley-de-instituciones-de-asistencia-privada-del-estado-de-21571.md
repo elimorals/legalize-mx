@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-instituciones-de-asistencia-privada-del-estado-de-21571"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-12"
-last_updated: "2016-12-20"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno, el 12 de junio de 2001.
 
@@ -37,9 +37,7 @@ LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
 
-LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA
-
-DEL ESTADO DE MEXICO
+LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -947,9 +945,11 @@ Las responsabilidades en las que incurran los notarios y los jueces por no acata
 
 ### CAPITULO DECIMO SEPTIMO. DE LOS MEDIOS DE IMPUGNACION
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 126.
 
-Contra los actos y resoluciones que dicte o ejecute la Junta, en aplicación de esta Ley, las personas afectadas tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia Junta o promover juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones que dicte o ejecute la Junta, en aplicación de esta Ley, las personas afectadas tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia Junta o promover juicio ante el Tribunal de Justicia Administrativa del Estado de México, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -1028,3 +1028,11 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 129.- POR EL QUE SE REFORMA EL ARTÍCULO 126 DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 207 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
