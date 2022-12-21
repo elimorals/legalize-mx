@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vivienda-para-el-estado-de-puebla-68344"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-17"
-last_updated: "2022-07-15"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el viernes 17 de abril de 2009.
 
@@ -133,29 +133,33 @@ XVI. Sistema.- Sistema Estatal de Vivienda;
 
 XVII. Vivienda.- Área construida que cuenta con el conjunto de satisfactores y servicios propios de la habitación;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Vivienda Ecológica.- Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
+XVIII. Vivienda Sostenible. Aquella en la que se aplican criterios de sostenibilidad para promover una mejor calidad de vida;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XIX. Vivienda Popular.- Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
+XIX. Vivienda Ecológica. Aquella en la que se aplican criterios ecológicos y eco-tecnologías para promover una mejor calidad de vida para el usuario o usuarios sin deteriorar la calidad del medio ambiente;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XX. Vivienda Progresiva.- Aquella que se construye en etapas de acuerdo a los recursos del beneficiario;
+XX. Vivienda Popular. Aquella cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por diez el salario mínimo general diario vigente en el Estado, elevada esta cantidad al año;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XXI. Sector Privado.- Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
+XXI. Vivienda Progresiva. Aquella que se construye en etapas de acuerdo a los recursos del beneficiario
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XXII. Sector Público.- Toda dependencia, entidad u organismo de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda, y
+XXII. Sector Privado. Toda persona física o moral que produzca bienes o servicios relacionados con la vivienda con fines preponderantes de lucro;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XXIII. Sector Social.- Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
+XXIII. Sector Público. Toda dependencia, entidad u organismo de la administración pública, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Sector Social. Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular.
 
 ###### Artículo 5.
 
@@ -213,17 +217,21 @@ XVII.- Fomentar la integración de redes de productores y distribuidores de mate
 
 XVIII.- Promover la investigación tecnológica a la innovación y promoción de sistemas constructivos socialmente apropiados;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XIX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a efecto de reducir costos;
+XIX.- Promover y estimular el uso de ecotecnologías, tecnologías y criterios de carácter innovador para garantizar la generación de vivienda sostenible;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XX.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares; y
+XX.- Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador a efecto de reducir costos;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
 
-XXI.- Fomentar la accesibilidad y asequibilidad de la vivienda.
+XXI.- Fomentar la calidad de la vivienda y orientar los criterios mínimos de los espacios habitables y auxiliares; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+XXII.- Fomentar la accesibilidad y asequibilidad de la vivienda.
 
 ###### Artículo 8.
 
@@ -1070,6 +1078,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VII A XX DEL ARTÍCULO 4, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 7 Y EL ARTÍCULO 73, Y ADICIONA LAS FRACCIONES XXI, XXII Y XXIII AL ARTÍCULO 4 Y LA FRACCIÓN XXI AL ARTÍCULO 7, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVIII, XIX, XX, XXI, XXII Y XXIII DEL ARTÍCULO 4, LAS FRACCIONES XIX, XX Y XXI DEL 7, Y ADICIONA LAS FRACCIONES XXIV AL ARTÍCULO 4 Y XXII AL ARTÍCULO 7, DE LA LEY DE VIVIENDA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
