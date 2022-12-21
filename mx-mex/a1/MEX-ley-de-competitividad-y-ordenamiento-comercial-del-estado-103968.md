@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2022-03-10"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -2495,9 +2495,11 @@ Cuando se detecte que el local clausurado no tiene sellos, se ordenará por ofic
 
 ### CAPÍTULO V. DE LOS MEDIOS DE IMPUGNACIÓN
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 207.
 
-Los afectados por actos y/o resoluciones de las autoridades, podrán interponer el Recurso de Inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México, o el Juicio Contencioso Administrativo ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+Los afectados por actos y/o resoluciones de las autoridades, podrán interponer el Recurso de Inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México, o el Juicio Contencioso Administrativo ante el Tribunal de Justicia Administrativa del Estado de México.
 
 T R A N S I T O R I O S
 
@@ -2934,3 +2936,11 @@ SEXTO. El presente Decreto, no genera gasto adicional al Presupuesto del Poder E
 SÉPTIMO. La Comisión Estatal de Mejora Regulatoria emitirá el manual de funcionamiento del Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 OCTAVO. La Dirección General del Sistema Estatal de Informática emitirá los Lineamientos correspondientes al mantenimiento, almacenamiento, manejo y resguardo de la información y documentación contenida en el Expediente para Trámites y Servicios dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. DECRETO NÚMERO 129.- POR EL QUE SE REFORMA EL ARTÍCULO 126 DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 207 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]</small>
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
