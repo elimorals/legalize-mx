@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2022-10-21"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -511,7 +511,9 @@ IV. Identificar los procesos de generación de desastre, para atenuar daños a l
 
 V. Elaborar el Catálogo de Medios y Recursos Movilizables, manteniendo comunicación con los Sistemas Estatal y Municipales, coordinando la agilización de su disponibilidad en casos de emergencia;
 
-VI. Realizar y mantener actualizado el Atlas de Riesgos del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+VI. Realizar y actualizar anualmente el Atlas de Riesgos del Estado;
 
 VII. Llevar a cabo el auxilio, apoyo y recuperación ante una emergencia o desastre;
 
@@ -905,7 +907,9 @@ VII. Promover la elaboración del Programa Interno de Protección Civil, en todo
 
 VIII. Elaborar y actualizar el Catálogo de Medios y Recursos Movilizables en caso de emergencia o desastre;
 
-IX. Elaborar, formular, implementar y mantener actualizado el Atlas Municipal de Riesgos y clasificar la información que se considerará reservada; así como los Programas Especiales que se requieran, de acuerdo con los riesgos identificados en el Municipio, destacando los de mayor recurrencia;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+IX. Elaborar, formular, implementar y actualizar anualmente el Atlas Municipal de Riesgos y clasificar la información que se considerará reservada; así como los Programas Especiales que se requieran, de acuerdo con los riesgos identificados en el Municipio, destacando los de mayor recurrencia;
 
 X. Identificar los procesos de generación de desastres, para atenuar daños a la población;
 
@@ -1880,6 +1884,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 30 Y LA FRACCIÓN IX DEL ARTÍCULO 63, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
