@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-11-25"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 25 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 21 DE DICIEMBRE DE 2022.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -6575,13 +6575,21 @@ LII. Participar en la formulación de proyectos y planeación de obras de movili
 
 LIII. Coordinarse con la Dirección de Movilidad y Transporte para la integración, aplicación y supervisión de criterios de accesibilidad universal para el espacio público, así como, para todas aquellas obras y proyectos de intervención urbana;
 
-> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2022)</small>
 
-LIV. Actualizar, desarrollar, definir y aplicar los instrumentos para la gestión y evaluación de políticas de resiliencia de acuerdo a las innovaciones y tendencias de la materia, en apego a la normatividad aplicable; y
+LIV. Actualizar, desarrollar, definir y aplicar los instrumentos para la gestión y evaluación de políticas de resiliencia de acuerdo a las innovaciones y tendencias de la materia, en apego a la normatividad aplicable;
 
-> <small>(ADICIONADA, G.M. 1 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2022)</small>
 
-LV. Difundir entre la población, información respecto de las medidas en materia de resiliencia.
+LV. Difundir entre la población, información respecto de las medidas en materia de resiliencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 21 DE DICIEMBRE DE 2022)</small>
+
+LVI. Publicar en tiempo real, a través de plataformas digitales de forma georreferenciada y mediante datos abiertos, la información relativa a la identificación preparación, procedimientos de contratación ejecución y finalización de los proyectos de infraestructura, obra pública y servicios relacionados con la misma una vez contratado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 21 DE DICIEMBRE DE 2022)</small>
+
+LVII. Concentrar la información y registrar el histórico, sobre el contenido de los proyectos de infraestructura, obra pública y servicios relacionados con la misma en las plataformas digitales.
 
 Subsección IV
 
@@ -8198,3 +8206,17 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. El presente ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en el artículo 42 fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA Y AL REGLAMENTO DE CONTRATACIÓN Y EJECUCIÓN DE LA OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor el día 1 primero de enero de 2023 dos mil veintitrés, previa publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Se instruye a la Coordinación General de Análisis Estratégico y Comunicación para que, en conjunto con la Dirección de Obras Públicas, la Dirección de Transparencia y Buenas Prácticas y las áreas o entes de gobierno y de la sociedad que considere necesarios, elaboren y ejecuten un plan estratégico que permita la difusión permanente de la información que se genere, relativa a la publicación de la información en materia de proyectos de infraestructura, obra pública o servicios relacionados con la misma que contrate el municipio; así como de las plataformas digitales en las cuales se publique dicha información.
+
+Cuarto. La información a que se refiere el artículo 11 Bis del Reglamento de Contratación y Ejecución de la Obra Pública y Servicios Relacionados con la Misma del Municipio de Guadalajara deberá considerar el histórico de al menos dos periodos de gobierno municipal y comenzará con aquella que se genere a partir de la entrada en vigor de la presente reforma.
+
+Quinto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
