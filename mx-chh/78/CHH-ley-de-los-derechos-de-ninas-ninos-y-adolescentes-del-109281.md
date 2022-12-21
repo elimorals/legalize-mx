@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-06-11"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -213,9 +213,11 @@ XIV. La accesibilidad.
 
 La Autonomía Progresiva, entendida como el reconocimiento del ejercicio gradual de los derechos, de acuerdo al proceso de evolución de facultades cognitivas, madurez y desarrollo de niñas, niños y adolescentes, constituirá un elemento primordial a considerar en toda acción que se realice en los ámbitos jurídico, social y familiar, a fin de garantizar un crecimiento y desarrollo integral.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley, incluyendo el uso de las tecnologías de la información para lograr mayor alcance en la difusión de estos derechos.
 
 ###### Artículo 13.
 
@@ -2668,6 +2670,14 @@ Siguiendo los procedimientos que resulten aplicables, en su caso, háganse las p
 P.O. 11 DE JUNIO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLEY/0213/2022 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE EDUCACIÓN, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y A LA LEY DE JUVENTUD PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0333/2022 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
