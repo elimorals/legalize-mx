@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2022-10-21"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -739,7 +739,11 @@ XV. Aprobar en sesión de cabildo los movimientos registrados en el libro especi
 
 XVI. Acordar el destino o uso de los bienes inmuebles municipales;
 
-XVII. Nombrar y remover al secretario, tesorero, titulares de las unidades administrativas y de los organismos auxiliares, a propuesta del presidente municipal; para la designación de estos servidores públicos se preferirá en igualdad de circunstancias a los ciudadanos del Estado vecinos del municipio;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
+XVII. Nombrar y remover a las personas titulares de la secretaría, tesorería, de las unidades administrativas y de los organismos auxiliares a propuesta de la persona titular de la presidencia municipal; para la designación de estas se preferirá en igualdad de circunstancias a la ciudadanía del Estado, vecina del municipio; observando los principios de igualdad y equidad y garantizando la paridad de género.
+
+La paridad de género se deberá aplicar a las dependencias de la administración municipal referidas en el artículo 87 de (sic) presente Ley;
 
 XVIII. Administrar su hacienda en términos de ley, y controlar a través del presidente y síndico la aplicación del presupuesto de egresos del municipio;
 
@@ -917,9 +921,13 @@ XLIV. Crear el Registro Municipal de Unidades Económicas, donde se especifique 
 
 XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto urbano y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
 
-> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE DICIEMBRE DE 2022)</small>
 
-XLVI. Las demás que señalen las leyes y otras disposiciones legales.
+XLVI. Promover la ejecución municipal de programas de dignificación, calidad y mejora permanente del servicio público de los mercados, así como del comercio semifijo, con el objeto de impulsar su rentabilidad y desarrollo digno en beneficio de las y los habitantes del Municipio, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 21 DE DICIEMBRE DE 2022)</small>
+
+XLVII. Las demás que señalen las leyes y otras disposiciones legales.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -1137,9 +1145,11 @@ Cuando el Ejecutivo del Estado tenga conocimiento de alguna o algunas de las sit
 
 ### CAPITULO PRIMERO. De los Presidentes Municipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 48.
 
-El presidente municipal tiene las siguientes atribuciones:
+La persona titular de la presidencia municipal tiene las siguientes atribuciones:
 
 I. Presidir y dirigir las sesiones del ayuntamiento;
 
@@ -1167,9 +1177,9 @@ V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayunta
 
 V Bis. Elaborar, con la aprobación del cabildo, el presupuesto correspondiente al pago de las responsabilidades económicas derivadas de los conflictos laborales;
 
-> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
-VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal, favoreciendo para tal efecto el principio de igualdad y equidad de género;
+VI. Proponer al ayuntamiento los nombramientos de las personas titulares de la secretaría, tesorería y de las dependencias y organismos auxiliares de la administración pública municipal, observando en todo tiempo que en su integración se respeten los principios de igualdad, equidad y garantizando la paridad de género;
 
 > <small>(REFORMADA, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1511,13 +1521,23 @@ V. Autorizar inhumaciones y exhumaciones;
 
 VI. Hacer lo que no esté previsto en esta Ley y en otros ordenamientos municipales.
 
-> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 59.
 
-La elección de las personas titulares de las delegaciones y subdelegaciones será mediante voto libre, secreto y directo de las personas vecinas de la localidad y se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada titularidad de delegación o subdelegación deberá elegirse un suplente del mismo género. Es responsabilidad de los ayuntamientos observar los principios de igualdad, equidad y garantizar la paridad de género, entre mujeres y hombres para integrar las delegaciones municipales.
+La elección de las personas titulares de las Delegaciones y Subdelegaciones será mediante voto libre, secreto y directo de las personas vecinas de la localidad y se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento, misma que deberá establecer la obligación de que las candidaturas sean ocupadas paritariamente. Por cada persona titular de Delegación y Subdelegación deberá elegirse un suplente del mismo género o mujer. Bajo ninguna circunstancia estará permitido que el cargo de suplente sea ocupado por un hombre, si la persona titular recae en una mujer. Es responsabilidad de los ayuntamientos observar los principios de igualdad, equidad y garantizar la paridad de género, entre mujeres y hombres para integrar las delegaciones municipales.
+
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
 Los ayuntamientos podrán celebrar convenios con el Instituto Electoral del Estado de México en términos de lo establecido en el artículo 11, párrafo décimo cuarto en la Constitución Política del Estado Libre y Soberano de México con treinta días de anticipación de la expedición (sic) la convocatoria.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
+La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria, entre el segundo domingo de marzo y el 30 de ese mes del primer año de gobierno del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
+La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el 15 de abril del mismo año.
 
 > <small>(ADICIONADO, G.G. 21 DE OCTUBRE DE 2022)</small>
 
@@ -1539,11 +1559,11 @@ II. Ser vecino, en términos de esta Ley, de la delegación, subdelegación muni
 
 III. Ser de reconocida probidad.
 
-> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-Las jefaturas de sector, de sección y de manzana serán nombradas por el Ayuntamiento, el cual deberá observar para su designación los principios de igualdad, equidad y garantizar la paridad de género.
+Las jefaturas de sector o de sección y de manzana serán nombradas por el ayuntamiento, el cual deberá observar para su designación los principios de igualdad y equidad, garantizando la paridad de género.
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
 
@@ -1577,9 +1597,9 @@ IV. Las demás organizaciones que determinen las leyes y reglamentos o los acuer
 
 Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, de entre sus miembros, a propuesta del presidente municipal, a más tardar en la tercera sesión ordinaria que celebren al inicio de su gestión.
 
-> <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
-Las comisiones se conformarán de forma plural y proporcional, tomando en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento, procurando la paridad de género en la designación de presidencias de las comisiones del ayuntamiento.
+Las comisiones se conformarán de forma plural, paritaria y proporcional, tomando en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación, experiencia de las personas integrantes del ayuntamiento, observando los principios de igualdad, equidad y garantizando la paridad de género en la designación de presidencias de las comisiones del ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
 
@@ -1689,13 +1709,15 @@ Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y 
 
 Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
-> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 73.
 
-Cada Consejo de Participación Ciudadana Municipal se integrará, hasta con cinco vecinos y vecinas del Municipio, con sus respectivos suplentes del mismo género; observado (sic) los principios de igualdad, equidad y garantizando la paridad de género, uno de los cuales lo presidirá, otro fungirá como Secretario y otro como Tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del Ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el Ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El Ayuntamiento expedirá los nombramientos respectivos firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
+Cada consejo de participación ciudadana municipal se integrará hasta con cinco personas vecinas del municipio, con sus respectivos suplentes del mismo género o mujer, la integración de estos deberá observar los principios de igualdad, equidad y garantizar la paridad de género. De entre las personas que conformen el consejo una estará a cargo de la presidencia, una de la secretaría y una de la tesorería, en su caso dos vocales, que serán electos en las diversas localidades por habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección.
 
-Quienes integren el Consejo de Participación Ciudadana y que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del Consejo de Participación Ciudadana para el periodo inmediato siguiente.
+El ayuntamiento expedirá los nombramientos respectivos firmados por la persona titular de la presidencia municipal y la persona titular de la secretaría del ayuntamiento, entregándose a las personas electas a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
+
+Las personas integrantes del consejo de participación ciudadana que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del consejo de participación ciudadana para el periodo inmediato siguiente.
 
 ###### Artículo 74.
 
@@ -1901,11 +1923,15 @@ El Coordinador General Municipal de Mejora Regulatoria, además de los requisito
 
 ### CAPITULO PRIMERO. De las Dependencias Administrativas
 
-> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 86.
 
-Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el cabildo a propuesta del presidente municipal, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas dependencias y entidades de la administración municipal, ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley, sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Municipio.
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el cabildo a propuesta de la persona titular de la presidencia municipal, las que estarán subordinadas a esta. Las personas servidoras públicas titulares de las referidas dependencias y entidades de la administración municipal, ejercerán las funciones propias de su competencia y serán responsables por el ejercicio de dichas funciones y atribuciones contenidas en la Ley, sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Municipio.
+
+La designación de las personas titulares de las dependencias y entidades de la administración pública municipal se deberá realizar observando los principios de igualdad, equidad y garantizando la paridad de género.
+
+Por su parte estas deberán observar y garantizar los mismos principios en la asignación de las personas que ocupen cargo de toma de decisión al interior de sus áreas; así como implementar las acciones necesarias para favorecer dicha paridad.
 
 ###### Artículo 87.
 
@@ -3049,9 +3075,9 @@ Una vez decretada la municipalización del servicio, si el ayuntamiento carece d
 
 Las funciones de seguridad pública del municipio en su respectivo ámbito de competencia, estarán a cargo de un Director de Seguridad Pública Municipal o su equivalente, el cual deberá ser nombrado en los términos y requisitos establecidos en la Ley de Seguridad del Estado de México.
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
 
-En cada municipio se deberán integrar cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
+En cada municipio se deberán integrar cuerpos de seguridad pública, de búsqueda de personas, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
 
 ###### Artículo 143.
 
@@ -3094,6 +3120,18 @@ El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende e
 ###### Artículo 144 Quinquies.
 
 Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 144 Sexies.
+
+El Ayuntamiento deberá establecer la Célula de Búsqueda Municipal de conformidad con lo establecido en la Ley en Materia de Desaparición Forzada de Personas y Desaparición cometida por Particulares para el Estado Libre y Soberano de México.
+
+La Célula de Búsqueda Municipal deberá mantener comunicación y coordinación permanente con la Fiscalía General de Justicia del Estado de México, a través de la Fiscalía Especializada para la Investigación y Persecución de Delitos en Materia de Desaparición Forzada y Desaparición Cometida por Particulares, la Comisión de Búsqueda de Personas del Estado de México, así como con las personas servidoras públicas de organismos públicos nacionales y estatales que contribuyan en la búsqueda de personas desaparecidas. Sus atribuciones se ejercerán de conformidad con lo dispuesto por la Ley en Materia de Desaparición Forzada de Personas y Desaparición cometida por Particulares para el Estado Libre y Soberano de México y el Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas y las demás disposiciones jurídicas aplicables.
+
+El Ayuntamiento proveerá los recursos financieros, técnicos, de infraestructura y humanos necesarios para el desempeño de sus funciones, debiendo garantizar para tal efecto, la continuidad del personal que la conforma.
+
+La Célula de Búsqueda Municipal deberá contar con la disponibilidad inmediata, de personal especializado y capacitado en materia de búsqueda de personas que cuente con la certificación respectiva y acredite los criterios de idoneidad que emita la Comisión de Búsqueda de Personas del Estado de México o la Comisión Nacional de Búsqueda de Personas, según corresponda.
 
 ### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
 
@@ -5682,3 +5720,37 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 124.- POR EL QUE SE REFORMA LA FRACCIÓN XLVI Y SE ADICIONA LA FRACCIÓN XLVII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Los ayuntamientos deberán llevar a cabo los ajustes normativos y expedirán la reglamentación correspondiente para darle cumplimiento dentro de los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los ayuntamientos que cuenten con la suficiencia y capacidad presupuestal para dicho efecto deberán dar cumplimiento a lo previsto en el presente Decreto en términos del mismo, en caso contrario deberán contemplar lo conducente para el ejercicio fiscal inmediato siguiente.
+
+G.G. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 125.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTICULO 142 Y SE ADICIONA EL ARTÍCULO 144 SEXIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Los ayuntamientos deberán cumplir con lo dispuesto en el presente Decreto a más tardar a los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+G.G. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 126.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto.
+
+CUARTO. El Poder Legislativo contará con un plazo que no deberá ser mayor a 180 días posteriores a la entrada en vigor del presente Decreto, para reformar las denominaciones de los cargos referidos en la presente Ley, en su forma genérica.
