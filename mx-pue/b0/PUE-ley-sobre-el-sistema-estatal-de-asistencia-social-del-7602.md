@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2022-12-20"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -95,7 +95,9 @@ V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato
 
 VI.- Personas con discapacidad o incapaces;
 
-VII.- Indigentes;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE 2022)</small>
+
+VII.- Personas en situación de calle;
 
 VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
@@ -956,6 +958,14 @@ OCTAVO. Cuando se haga referencia a la Comisión Estatal Coordinadora, se debe e
 P.O. 20 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 Y LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 12, Y ADICIONA LAS FRACCIONES XVIII Y XIX AL 12 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
