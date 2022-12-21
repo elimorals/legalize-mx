@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-fiscalizacion-superior-del-estado-de-chihuahua-138065"
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-07"
-last_updated: "2021-01-27"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo al Número 72 del Periódico Oficial del Estado de Chihuahua, el sábado 7 de septiembre de 2019.
 
@@ -224,6 +224,10 @@ La Cuenta Pública deberá contener como mínimo lo señalado en la Ley General 
 La Auditoría Superior deberá informar a la Comisión, en un plazo no mayor a cinco días hábiles contados a partir de la fecha establecida en este artículo, el incumplimiento de dicha obligación por parte de los entes públicos.
 
 Con independencia de lo anterior, la Auditoría Superior, iniciará el proceso de Fiscalización Superior de la gestión financiera del ente público que haya incurrido en la omisión.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+La Auditoría Superior, estará facultada para requerir por escrito a los entes públicos que incumplan con la obligación de presentar la Cuenta Pública en los plazos previstos por este artículo. El requerimiento establecerá un plazo no mayor a cinco días hábiles contados a partir de la notificación del mismo. De no presentarse esta información, las personas servidoras públicas serán sancionadas conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -986,6 +990,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0943/2020 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13, PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0336/2022 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 13, UN SEXTO PÁRRAFO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
