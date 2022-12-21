@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-administracion-de-bienes-asegurados-decomisados-103
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-11-10"
+last_updated: "2022-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINCIÓN DE DOMINIO DEL ESTADO DE HIDALGO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 21 DE DICIEMBRE DE 2022; ÚLTIMO ORDENAMEINTO QUE ENTRA EN VIGOR A LOS 60 DÍAS NATURALES DE SU PUBLICACIÓN.]</small>
+
 LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -358,3 +360,31 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 333 QUE EXPIDE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS, DECOMISADOS Y EXTINCIÓN DE DOMINIO DEL ESTADO DE HIDALGO Y QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, entrara´ en vigor a los sesenta días naturales de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las reformas y adiciones a Ley Orgánica de la Administración Pública para el Estado de Hidalgo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO. Entrada la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado de Hidalgo en vigor, respecto de los Bienes sujetos a los procedimientos penales y/o de extinción de dominio que se encuentren en trámite, la administración, enajenación y destino de los mismos, se ajustara´ a lo dispuesto por ésta.
+
+CUARTO. El Reglamento de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado de Hidalgo, el Reglamento del Gabinete Social del Estado de Hidalgo, así como el Estatuto Orgánico del Instituto Hidalguense para Devolver al Pueblo lo Robado, deberán ser emitidos dentro de los ochenta días naturales a la entrada en vigor del presente Decreto.
+
+QUINTO. La Junta de Gobierno del Instituto Hidalguense para Devolver al Pueblo lo Robado, deberá tener su primera sesión ordinaria a los primeros diez días hábiles de la entrada en vigor de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado.
+
+SEXTO. La Secretaría de Finanzas Públicas otorgara´, conforme a la disponibilidad presupuestal, los recursos que sean necesarios para la instalación y funcionamiento del Instituto Hidalguense para Devolver al Pueblo lo Robado, así como del Gabinete Social del Estado de Hidalgo, en tanto que el Congreso del Estado determine lo conducente en el Presupuesto de Egresos del ejercicio correspondiente.
+
+SÉPTIMO. La Fiscalía General de Justicia del Estado de Hidalgo conservará en depósito, bajo su responsabilidad y con las obligaciones a que se refiere (sic) Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, los bienes asegurados, abandonados, decomisados y de extinción de dominio que se encuentren en su custodia a la entrada en vigor de este Decreto. Dichos bienes serán inventariados y entregados al Instituto Hidalguense para Devolver al Pueblo lo Robado, cuando éste los requiera.
+
+OCTAVO. El Instituto Hidalguense para Devolver al Pueblo lo Robado entrará en funciones a los sesenta días naturales de la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+NOVENO. Todas las referencias de Fiscalía General de Justicia del Estado de Hidalgo a que hace mención la Ley para la Administración y Destino de Bienes Asegurados, Abandonados, Decomisados y Extinción de Dominio del Estado, se entenderán a la Procuraduría General de Justicia del Estado de Hidalgo. Lo anterior hasta que se dé cumplimiento a lo dispuesto por el artículo Segundo Transitorio del Decreto 218, que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo en fecha 22 de junio de 2022.
+
+DÉCIMO. Se abroga la Ley para la Administración de Bienes Asegurados, Decomisados o Abandonados para el Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo en fecha 10 de noviembre de 2014.
+
+DÉCIMO PRIMERO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan al mismo.
