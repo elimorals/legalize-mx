@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-para-el-estado-de-queretaro-123879"
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-11"
-last_updated: "2021-10-08"
+last_updated: "2022-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE TRÁNSITO PARA EL ESTADO DE QUERÉTARO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO EL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 69 del Periódico Oficial del Estado de Querétaro, el miércoles 11 de octubre de 2017.
 
@@ -875,9 +873,11 @@ Los carriles confinados y los preferentes, tienen como finalidad que el tránsit
 
 Serán prioritariamente instalados en las vías de mayor afluencia vehicular del estado, de conformidad con las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-La planeación y determinación de los carriles confinados y los preferentes, corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado de Querétaro, al Instituto Queretano del Transporte, así como a las dependencias municipales, en el ámbito de sus respectivas competencias. Para efectos de lo anterior, deberá considerarse al menos lo siguiente:
+La planeación y determinación de los carriles confinados y los preferentes, corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo del Estado de Querétaro, a la Agencia de Movilidad del Estado de Querétaro, así como a las dependencias municipales, en el ámbito de sus respectivas competencias. Para efectos de lo anterior, deberá considerarse al menos lo siguiente:
 
 I. La afluencia vehicular de la vía;
 
@@ -889,7 +889,9 @@ IV. La suficiencia presupuestal con la que se cuente en el Estado y la posibilid
 
 V. Las que señalen otras disposiciones jurídicas aplicables.
 
-La planeación y determinación de los carriles confinados por parte de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo y del Instituto Queretano del Transporte se realizarán conforme a las disposiciones jurídicas aplicables.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2022)</small>
+
+La planeación y determinación de los carriles confinados por parte de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo y de la Agencia de Movilidad del Estado de Querétaro se realizarán conforme a las disposiciones aplicables.
 
 ###### Artículo 79.
 
@@ -1314,3 +1316,51 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 21 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, LEY DE TRÁNSITO PARA EL ESTADO DE QUERÉTARO, LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE QUERÉTARO Y LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Tercero. Hasta tanto se expidan los reglamentos respectivos, serán aplicables en lo conducente, las disposiciones legales vigentes en la materia, en todo lo que no contravenga lo dispuesto en la presente Ley.
+
+Artículo Cuarto. El Gobernador del Estado nombrará al Director General de la Agencia de Movilidad del Estado de Querétaro, dentro los 10 diez días naturales siguientes al de la entrada en vigor de la presente Ley.
+
+Artículo Quinto. En tanto se expide el nombramiento de Director General de la Agencia, asumirá dichas funciones, en carácter de encargado de despacho, el Director General del Instituto Queretano del Transporte.
+
+Artículo Sexto. Dentro de los quince días naturales posteriores a la entrada en vigor de la presente Ley, el Consejo Directivo de la Agencia celebrará su sesión de instalación.
+
+Artículo Séptimo. A partir de la entrada en vigor de la presente Ley, todos los programas públicos, recursos humanos, materiales y financieros asignados al Instituto Queretano del Transporte, se transferirán a la Agencia de Movilidad del Estado de Querétaro.
+
+Los trabajadores del Instituto Queretano del Transporte, que son transferidos a la Agencia en términos de la presente Ley, conservan sus derechos laborales.
+
+Artículo Octavo. A partir de la entrada en vigor de la presente Ley, todas las referencias en otros ordenamientos legales al Instituto Queretano del Transporte o Instituto, se entenderán hechas a la Agencia de Movilidad del Estado de Querétaro.
+
+Artículo Noveno. Los asuntos iniciados ante el Instituto Queretano del Transporte, que a la fecha de entrada en vigor de esta Ley se encuentren en trámite, continuarán el mismo y serán resueltos por la Agencia, en cuyo caso deberá aplicarse la legislación de la materia vigente a la fecha de su iniciación.
+
+Artículo Décimo. Las concesiones, permisos y demás autorizaciones expedidas con anterioridad al inicio de la vigencia de la presente Ley, continuarán produciendo sus efectos en los términos en que fueron expedidas; sujetándose en lo relativo a la supervisión, control, vigilancia y demás procedimientos a lo dispuesto en la presente Ley.
+
+Las concesiones, permisos y demás autorizaciones expedidas con anterioridad al inicio de la vigencia de la presente Ley, continuarán explotándose bajo las condiciones que se establecen en la presente ley, debiéndose actualizar la información necesaria para obtener el nuevo título que ampare su concesión.
+
+Artículo Décimo Primero. La Agencia, a efecto de generar condiciones de equidad y equilibrio en el desarrollo económico del sector establecerá el cobro de derechos por las actividades de refrendo anual de una concesión de servicio público de taxi en un monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), así como por la revisión física y mecánica de los vehículos destinados al servicio público en la modalidad de taxi para el refrendo anual de una concesión a partir del ejercicio 2023.
+
+Artículo Décimo Segundo. Con la finalidad de regularizar la prestación del servicio, las personas titulares de concesiones para prestar el servicio público de taxi así como de permisos de transporte privado de pasajeros que cuenten con adeudos derivado del refrendo o renovación de concesiones o permisos de ejercicios anteriores, podrán realizar el pago de los mismos, cubriendo únicamente el monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), por concepto de refrendo o renovación, y el monto equivalente a 3 (tres) Unidades de Medida de Actualización (UMA), por concepto de revisión física y mecánica de los vehículos destinados al servicio público en la modalidad de taxi y especializado en la modalidad de transporte privado de pasajeros, por cada uno de los ejercicios adeudados.
+
+El plazo para regularizar su concesión no deberá exceder del 28 de febrero de 2023, en el caso de que no lleve a cabo la regularización, se iniciará el procedimiento de revocación previsto por la presente Ley.
+
+Artículo Décimo Tercero. Las personas físicas y morales que actualmente presten de manera irregular el servicio de transporte público o especializado en cualquiera de sus modalidades, deberán dejar de prestarlo, bajo la pena de hacerse acreedores a las sanciones que prevé la presente ley.
+
+La Agencia podrá implementar programas de actualización, regularización, sustitución y reposición de concesiones y permisos atendiendo a la viabilidad que resulte del análisis correspondiente, privilegiando la necesidad del servicio en el caso concreto, bajo los principios de utilidad pública y racionalidad, previo pago de las contribuciones correspondientes.
+
+Artículo Décimo Cuarto. Corresponderá a la Agencia de Movilidad del Estado de Querétaro realizar las adecuaciones presupuestales a lo autorizado en el Decreto de Presupuesto de Egresos del Estado de Querétaro del ejercicio fiscal 2022, aprobado por la Legislatura del Estado de Querétaro, con relación al Instituto Queretano del Transporte y con motivo de la entrada en vigor de la presente Ley, a fin de que dicha Agencia cuente con los recursos humanos, financieros, materiales y demás necesarios para su adecuada operación.
+
+Por lo que, derivado de las adecuaciones antes señaladas, y por cuanto ve al ejercicio fiscal 2023 y subsecuentes, la Agencia de Movilidad del Estado de Querétaro, deberá gestionar dentro de los Presupuestos de Egresos del Estado de Querétaro de los ejercicios que corresponda y éstos sean debidamente aprobados.
+
+Artículo Décimo Quinto. El Programa Estatal de Transporte 2021-2027 publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” en fecha 5 de septiembre de 2022, continuará vigente por el periodo constitucional de la administración estatal 2021-2027.
+
+Artículo Décimo Sexto. Todas las referencias al Programa Estatal de Transporte 2021-2027 publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” en fecha 5 de septiembre de 2022, se entenderán hechas al Programa Estatal de Transporte Público en materia de Movilidad.
+
+Artículo Décimo Séptimo. A partir de la entrada en vigor de la presente Ley, todas las referencias en otros ordenamientos legales a la Ley de Movilidad para el Transporte del Estado de Querétaro se entenderán hechas a la Ley de la Agencia de Movilidad y Modalidades de Transporte Público para el Estado de Querétaro.
