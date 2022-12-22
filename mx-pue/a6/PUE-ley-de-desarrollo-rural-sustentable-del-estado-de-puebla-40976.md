@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2021-11-08"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -329,7 +329,9 @@ I.- El fomento a la investigación y desarrollo tecnológico agropecuario, la ap
 
 II.- El desarrollo de los recursos humanos, la asistencia técnica y el fomento a la organización económica y social de los agentes de la sociedad rural;
 
-III.- La inversión tanto pública como privada para la tecnificación, modernización, rehabilitación, ampliación y mejoramiento de la infraestructura hidroagrícola, la conservación y mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación y los caminos rurales y forestales para la extracción de productos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+III.- La inversión tanto pública como privada para la tecnificación, modernización, rehabilitación, ampliación y mejoramiento de la infraestructura hidroagrícola, la conservación y mejoramiento de los recursos naturales en las cuencas hídricas, el almacenaje, la electrificación, la comunicación; y la construcción y mantenimiento de los caminos rurales, forestales y saca cosechas, que faciliten la extracción de productos y agilicen su comercialización;
 
 IV.- El apoyo a la inversión de los productores y demás agentes de la sociedad rural, para la capitalización, actualización tecnológica y reconversión sustentable de las unidades de producción y empresas rurales que permitan su constitución, incrementar su productividad y su mejora continua;
 
@@ -729,7 +731,9 @@ Para tal fin, concertará con el Gobierno Federal y Ayuntamientos, organizacione
 
 El Gobierno del Estado, a través de las dependencias y entidades competentes de la Administración Pública del Estado, y en coordinación con los Ayuntamientos, promoverán el desarrollo de la electrificación a base de las energías alternativas, de los caminos rurales y obras de conservación y restauración de suelos y agua considerándolos como elementos básicos para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
 
-La infraestructura de comunicación rural, buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con las cabeceras municipales. Para ello, promoverá la construcción y mantenimiento de caminos rurales, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+La infraestructura de comunicación rural, buscará abatir los rezagos de aislamiento, incomunicación y deficiencias que las regiones rurales tienen en relación con las cabeceras municipales. Para ello, promoverá la construcción y mantenimiento de caminos rurales, forestales y saca cosechas, de sistemas de telecomunicaciones y telefonía rural, de sistemas rurales de transporte de personas y de productos.
 
 ###### ARTÍCULO 80.
 
@@ -967,11 +971,13 @@ El Gobierno del Estado, en la administración de riesgos inherentes al cambio te
 
 Los apoyos económicos se entregarán prioritariamente por conducto de las organizaciones mutualistas o fondos de aseguramiento de los productores y también de las empresas aseguradoras de los productores debidamente constituidas.
 
-###### ARTÍCULO 109.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Los servicios de aseguramiento en la administración de los riesgos inherentes a las actividades agropecuarias que se realicen y la cobertura de precios, serán difundidos por la Secretaría, orientando a los productores y demás agentes de la sociedad rural.
+ARTÍCULO 109
 
-El servicio de aseguramiento que promueva el Gobierno del Estado, procurará incluir los instrumentos para la cobertura de riesgos de producción y las contingencias climatológicas y sanitarias, además de complementarse con instrumentos para el manejo de riesgos de paridad cambiaria y de mercado y de pérdidas patrimoniales en caso de desastres naturales, a efecto de proporcionar a los productores mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
+Los servicios de aseguramiento en la administración de los riesgos inherentes a las actividades agropecuarias que se realicen y la cobertura de precios, serán difundidos por la Secretaría, orientando a los productores y demás agentes de la sociedad rural; de manera que tengan conocimiento de las condiciones de acceso a dichos servicios.
+
+El servicio de aseguramiento que promueva el Gobierno del Estado, procurará incluir los instrumentos para la cobertura de riesgos de producción y las contingencias climatológicas y sanitarias, además de complementarse con instrumentos para el manejo de riesgos de paridad cambiaria y de mercado y de pérdidas patrimoniales en caso de desastres naturales, con cobertura de riesgos y subsidios, previa valoración técnica certificada para determinar las necesidades de cobertura, que permita a los productores recuperar al menos el monto de su inversión en insumos y mano de obra: a efecto de proporcionarles mayor capacidad para administrar los riesgos relevantes en la actividad económica del sector.
 
 ###### ARTÍCULO 110.
 
@@ -999,9 +1005,11 @@ Las obras a que se refiere el artículo 112 de la presente Ley, se aplicarán ú
 
 Los apoyos que se otorguen para la reconversión productiva deberán ser considerados en los programas estatal y municipal y deberán operar en forma coordinada y complementaria con los tres órdenes de gobierno.
 
-###### ARTÍCULO 115.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-El Gobierno del Estado procurará apoyos, que tendrán como propósito compensar al productor y demás agentes de la sociedad rural por desastres naturales en regiones determinadas y eventuales contingencias de mercado, cuyas modalidades y mecanismos de apoyo serán definidos por las diferentes dependencias y entidades de los órdenes de gobierno participantes.
+ARTÍCULO 115
+
+El Gobierno del Estado de conformidad con el artículo 109 de esta ley, procurará apoyos, mediante previsiones y disposiciones presupuestales suficientes, a través de la Ley de Egresos del Estado de Puebla, para el ejercicio fiscal que corresponda, de manera que puedan concurrir recursos económicos, con los que dispongan para tal efecto los gobiernos Federal y municipales y que tendrán como propósito compensar al productor y demás agentes de la sociedad rural por desastres naturales en regiones determinadas y eventuales contingencias de mercado, cuyas modalidades y mecanismos de apoyo serán definidos por las diferentes dependencias y entidades de los órdenes de gobierno participantes.
 
 ### CAPÍTULO XIII. DE LA INFORMACIÓN ECONÓMICA Y PRODUCTIVA
 
@@ -1510,3 +1518,19 @@ P.O. 8 DE NOVIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 30 Y EL SEGUNDO PÁRRAFO DEL 79, AMBOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 109 Y 115 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
