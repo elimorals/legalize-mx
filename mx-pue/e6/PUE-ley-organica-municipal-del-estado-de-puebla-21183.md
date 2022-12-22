@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-08-16"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -3669,7 +3669,9 @@ II.- Ayudar al Ayuntamiento en el desempeño de las funciones que le encomiende;
 
 III.- Dar las facilidades y coadyuvar en su caso con el Ayuntamiento para que este procure la seguridad y el orden público del pueblo;
 
-IV.- Gestionar ante el Ayuntamiento de su jurisdicción, la construcción de las obras de interés público que considere necesarias;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+IV.- Promover y gestionar obras y servicios públicos que considere necesarios, ante el Gobierno Estatal, Dependencias Federales, Organizaciones no Gubernamentales Nacionales e Internacionales, y el ayuntamiento de su jurisdicción, informando a la Autoridad competente la deficiencia de éstas, para su pronta atención, reparación y/o sustitución;
 
 V.- Nombrar, a propuesta del Presidente de la Junta, al secretario y tesorero de la Junta Auxiliar, los que son funcionarios de confianza y podrán ser removidos libremente;
 
@@ -4500,5 +4502,13 @@ P.O. 16 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO A) DE LA FRACCIÓN XLV DEL ARTÍCULO 78 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 230 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
