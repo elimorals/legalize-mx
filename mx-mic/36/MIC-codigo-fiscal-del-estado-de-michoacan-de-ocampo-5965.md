@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2020-12-31"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -531,7 +531,9 @@ II. El nombre, la denominación o razón social, el domicilio fiscal y el regist
 
 III. Señalar la autoridad a la que se dirige y el propósito de la promoción; y
 
-IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas, así como la dirección de correo electrónico para los mismos efectos.
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
@@ -769,11 +771,13 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 La responsabilidad solidaria a que se refiere esta fracción se calculará multiplicando el porcentaje de participación que haya tenido el socio u accionista en el capital social suscrito al momento de la causación por la contribución omitida en la parte que no se logre cubrir con los bienes de la empresa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 23.
 
-Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaria y proporcionar la información relacionada con su identidad, su domicilio y en general, su situación fiscal, mediante los avisos que para tal efecto establezca la Secretaria.
+Las personas físicas y morales, que habitualmente realicen actividades gravadas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría y proporcionar la información relacionada con su identidad, su domicilio y en general, su situación fiscal, mediante los avisos que para tal efecto establezca la Secretaría, así como registrar y mantener actualizada una sola dirección de correo electrónico y un número telefónico del contribuyente, o bien, los medios de contacto que determine la Secretaría a través de reglas de carácter general.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La Secretaría asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales estatales, debiendo conservar en su domicilio fiscal, la documentación comprobatoria de haber cumplido con las obligaciones que establece este Código.
 
@@ -799,6 +803,42 @@ Las personas obligadas al pago de contribuciones, deberán conservar por el tér
 
 La documentación correspondiente a aquellos conceptos respecto de los cuales se hubiera promovido algún recurso o juicio, se conservará durante un plazo igual al señalado en el párrafo anterior, computado a partir de la fecha en que quede firme la resolución que les ponga fin.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTICULO 25-A.
+
+Cualquier autoridad, ente público, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial, del Estado de Michoacán de Ocampo y de sus municipios, que conforman esta entidad federativa, así como, órganos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos federales o estatales, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con las personas físicas, morales o entes jurídicos que:
+
+I. Tengan a su cargo créditos fiscales firmes;
+
+II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+III. No se encuentren inscritos en el Registro Estatal de Contribuyentes;
+
+IV. Habiendo vencido el plazo para presentar alguna declaración, provisional o no, así como aquellas declaraciones correspondientes a retenciones y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción también aplicará a la falta de cumplimiento de cualquier otra declaración informativa, que se establezca para tal efecto en la Ley de Ingresos del Estado de Michoacán;
+
+V. Estando inscritos en el Registro Estatal de Contribuyentes, se encuentren como no localizados;
+
+VI. Tengan sentencia condenatoria firme por algún delito fiscal. El impedimento para contratar será por un periodo igual al de la pena impuesta, a partir de que cause firmeza la sentencia; y,
+
+VII. Hayan manifestado en las declaraciones de pagos provisionales, retenciones, definitivos o anuales, ingresos y retenciones que no concuerden con los expedientes, documentos o bases de datos que leven (sic) las autoridades fiscales, tengan en su poder o a las que tengan acceso.
+
+La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+Para estos efectos, en el convenio se establecerá que los sujetos a que se refiere el primer párrafo de este artículo retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes.
+
+Los particulares tendrán derecho al otorgamiento de subsidios o estímulos previstos en los ordenamientos aplicables, siempre que no se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+Los sujetos establecidos en el primer párrafo de este artículo que tengan a su cargo la aplicación de subsidios o estímulos deberán abstenerse de aplicarlos a las personas que se ubiquen en los supuestos previstos en las fracciones del presente artículo, salvo que tratándose de la fracción III, no tengan obligación de inscribirse en el Registro Estatal de Contribuyentes.
+
+Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III, IV y VII, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquél en que la autoridad les notifique la irregularidad detectada.
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que debe obtenerse a través de la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán.
+
+Los contribuyentes que requieran obtener la opinión del cumplimiento de obligaciones fiscales para realizar alguna operación comercial o de servicios, para obtener subsidios y estímulos, para realizar algún trámite fiscal u obtener alguna autorización en materia de impuestos internos, incluyendo los de comercio exterior, así como para las contrataciones por adquisición de bienes, arrendamiento, prestación de servicio y obra pública que vayan a realizar con los sujetos señalados en el primer párrafo de este artículo, deberán hacerlo mediante el procedimiento que establezca la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán, mediante reglas de carácter general.
+
+Para participar como proveedores de los sujetos señalados en el primer párrafo de este artículo, los contribuyentes estarán obligados a autorizar al Servicio de Administración Tributaria para que haga público el resultado de la opinión del cumplimiento, a través del procedimiento que establezca la Secretaría, mediante reglas de carácter general, además de cumplir con lo establecido en las fracciones anteriores.
+
 ## TITULO TERCERO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 ### CAPITULO UNICO
@@ -815,9 +855,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-III. Los Directores Generales de: Política Tributaria, y Jurídico;
+III. Los Directores Generales de: El Servicio de Administración Tributaria del Estado de Michoacán de Ocampo (SATMICH) o su equivalente y el Jurídico de la Secretaría de Finanzas y Administración del Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -1089,6 +1129,8 @@ Las instancias o peticiones que se formulen a las autoridades fiscales deberán 
 
 Cuando se requiera al promovente que cumpla con los requisitos omitidos o proporcione los elementos necesarios para resolver, el término se contará desde que el requerimiento haya sido cumplido.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 36.
 
 Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
@@ -1097,11 +1139,23 @@ I. Constar por escrito;
 
 II. Señalar a la autoridad que lo emite;
 
-III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y
+III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate; y,
 
 IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se haya dirigido. Cuando se ignore el nombre, se señalarán los datos suficientes que permitan su identificación.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de ésta.
+
+En el caso de resoluciones administrativas que consten en documentos digitales, deberán contener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+
+Para la emisión y regulación de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría, serán aplicables las disposiciones previstas en la legislación estatal aplicable.
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+Asimismo, la integridad y autoría del documento que contenga el sello resultado de la firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución, podrá ser comprobada a través de los medios que la Secretaría establezca.
+
+Adicionalmente, los funcionarios de la Secretaría, podrán utilizar su firma electrónica avanzada en cualquier documento que emitan en ejercicio de sus atribuciones, además de las resoluciones administrativas que se deban notificar, conforme a lo dispuesto en este artículo.
 
 ###### ARTICULO 37.
 
@@ -1811,23 +1865,35 @@ Son infracciones relacionadas con el Registro Estatal de Contribuyentes las sigu
 
 I. No solicitar el empadronamiento de personas o negociaciones cuando se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente en forma espontánea;
 
-II. No tener en lugar visible la cédula de empadronamiento, cuando lo exijan las disposiciones fiscales estatales; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+II. No tener en lugar visible la cédula de empadronamiento, cuando lo exijan las disposiciones fiscales estatales;
 
-III. No presentar o hacerlo extemporáneamente los avisos o manifestaciones a que esté obligado.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+III. No presentar o hacerlo extemporáneamente los avisos o manifestaciones a que esté obligado; y,
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+IV. No registrar o no mantener actualizados los medios de contacto conforme lo previsto en el artículo 23 de este Código.
 
 ###### ARTICULO 60.
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. El equivalente de 20 a 30 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción I; y,
+I. El equivalente de 20 a 30 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción I;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. El equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones II y III.
+II. El equivalente de 10 a 20 veces el valor diario de (sic)
+
+(sic) la Unidad de Medida y Actualización, a las comprendidas en las fracciones II y III; y,
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+III. El equivalente de 20 a 30 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción IV.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2463,47 +2529,39 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 113.
 
 Las notificaciones de los actos administrativos se harán:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
 I. Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos;
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes o en el que se considere su domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o desocupe el domicilio fiscal después de que se haya notificado un crédito fiscal antes de que se haya pagado o garantizado, una vez que se haya notificado el inicio de facultades de comprobación del cumplimiento de las obligaciones fiscales, y en los demás casos que señalen las Leyes fiscales y este Código;
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes o en el que se considere su domicilio fiscal, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación o desocupe el domicilio fiscal después de que se haya notificado un crédito fiscal antes de que se hay (sic) pagado o garantizado, una vez que se haya notificado el inicio de facultades de comprobación del cumplimiento de las obligaciones fiscales, y en los demás casos que señalen las Leyes fiscales y este Código.
+IV. Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el territorio nacional;
 
-IV. Por edictos, únicamente en caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el territorio nacional; y
+V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 116 de este Código; y,
 
-V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 116 de este Código.
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-VI. La autoridad podrá practicar notificaciones a través del portal oficial o mediante correo electrónico, de citaciones, requerimientos, solicitudes, resoluciones y demás actos. Para estos efectos, el contribuyente señalará a la autoridad fiscal que las notificaciones se le realicen a través de medios electrónicos, indicando su cuenta o correo electrónico, no obstante deberá de indicar de manera alterna el domicilio para recibir y oír notificaciones en el territorio del Estado.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+VI. La autoridad podrá practicar notificaciones a través del portal oficial de citaciones, requerimientos, solicitudes, resoluciones y demás actos, enviándose previamente un aviso electrónico a su dirección de correo electrónico, de que se realizará la notificación. El aviso electrónico de notificación deberá ser enviado cuando menos con tres días de anticipación a la publicación de la citación, requerimiento, solicitud, resolución y demás actos de que se trate, en el portal oficial.
 
 Una vez que se notifique, la autoridad recibirá el acuse de recibo el cual consistirá en un conjunto de caracteres numéricos o alfanuméricos que se obtendrá del destinatario de forma automática y que se formalizará al acceder al enlace que se señale en el correo electrónico.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
 Para regular los formatos, procedimientos o requisitos para este tipo de notificaciones, las autoridades fiscales emitirán las reglas de carácter general correspondientes.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse por el interesado, dicha impresión contendrá un sello digital que lo autentifique.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+Las notificaciones electrónicas se entenderán realizadas con la sola publicación en el portal oficial, y con independencia del envío, cuando así proceda, de los avisos electrónicos.
 
 En el caso de que la autoridad, no reciba el acuse de recibo por parte del contribuyente dentro del plazo de tres días contados a partir de la fecha en que se envió la notificación por medios electrónicos, procederá a realizar la notificación de forma personal en términos del presente Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
 Cuando se realicen notificaciones por medios electrónicos se tendrá como fecha de notificación la que corresponda al acuse de recibo y surtirá efectos a partir del día hábil siguiente.
+
+Mientras no se haya realizado la notificación por el Portal Oficial, podrán apersonarse en la Secretaría para ser notificados personalmente. Una vez realizada la notificación por el Portal Oficial, cuando esto proceda, deberán acudir a la Secretaría a recoger los anexos correspondientes, de ser el caso, en el entendido de que con o sin la entrega de los mismos, los plazos comenzarán a computarse a partir del día siguiente al en que surta efectos la notificación correspondiente. El personal de la Secretaría, en todos los casos, previo levantamiento de razón, entregará los citados anexos.
+
+La notificación surtirá sus efectos al tercer día hábil siguiente a aquél en que se haya realizado la publicación en el Portal Oficial o al día hábil siguiente a aquél en que se haya realizado la notificación personalmente en las instalaciones designadas por la Secretaría, cuando así proceda, en términos de lo establecido por este artículo.
+
+Dicho aviso deberá incluir el archivo electrónico que contenga la citación, requerimiento, solicitud, resolución y demás actos de que se trate.
 
 ###### ARTICULO 114.
 
@@ -3510,3 +3568,65 @@ P.O. 31 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 504 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, 8, 27 FRACCIÓN VI, VII, X; 11, Y LA FRACCIÓN I DEL 88; SE ADICIONAN UNA FRACCIÓN II RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 105, UN PÁRRAFO TERCERO AL ARTÍCULO 171, Y SE DEROGA EL PÁRRAFO DÉCIMO DEL ARTÍCULO 20, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 324.- “APARTADO TERCERO.- SE REFORMAN LOS ARTÍCULOS 17 FRACCIÓN IV, 23 PRIMER PÁRRAFO, 26 FRACCIÓN III, 36, 59 FRACCIONES II Y III, 60 FRACCIONES I Y II, Y 113; SE ADICIONAN LOS ARTÍCULOS 25-A, UNA FRACCIÓN IV AL ARTÍCULO 59, UNA FRACCIÓN III AL ARTÍCULO 60; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Ingresos de Origen Federal que percibirá el Gobierno del Estado, referidos en el artículo 1º codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5 de la Ley de Ingresos contenida en el presente Decreto, podrán modificarse conforme a lo siguiente:
+
+I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2023;
+
+II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2023;
+
+III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por (sic) a los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
+
+IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
+
+V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
+
+Al conocerse los montos referidos en este artículo, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2023.
+
+TERCERO. Con respecto a los ingresos establecidos en el presente Decreto, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en el mismo.
+
+CUARTO. Cuando algún gravamen no se encuentre previsto en la Ley de Ingresos contenida en el presente Decreto, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en la Ley de Ingresos contenida en el presente Decreto, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+
+QUINTO. El 35 por ciento de honorarios referidos en la Ley de Ingresos contenida en el presente Decreto, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad.
+
+SEXTO. Por lo que corresponde a las tres primeras columnas (lado izquierdo) del artículo 1° de la Ley de Ingresos contenida en el presente Decreto, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el 1 Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado.
+
+SÉPTIMO. Se implementará el Programa "Apoyo de Escrituración Social" por parte del Gobierno del Estado a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo durante todo el Ejercicio Fiscal 2023, en materia de Derechos por Servicios de la Dirección del Registro Público de la Propiedad y Derechos por Servicios de Catastro, que consiste en otorgar un estímulo fiscal del 100% de los Derechos que estén obligados a pagar los contribuyentes en materia de inscripción de documentos de propiedad, certificado de libertad de gravamen, desglose de predios, valuación, revisión de aviso y/o cancelación (traslado de dominio) y certificados catastrales siempre y cuando se dé cumplimiento a lo siguiente:
+
+I. Tengan como objetivo la Regularización de Asentamientos Humanos a través de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, el Registro Agrario Nacional y el Instituto Nacional del Suelo Sustentable;
+
+II. Se hayan cubierto en especie o en pago las Áreas de donación a las que están obligados los interesados al momento de fraccionar;
+
+III. Los beneficiarios no cuenten con vivienda propia;
+
+IV. La familia que ocupe un predio no sea propietaria de otro inmueble o tenga posesión de terrenos en otros asentamientos irregulares y no sea beneficiada por la regulación de más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano;
+
+V. Se encuentren dentro de los municipios de alta y muy alta marginación;
+
+VI. En ningún caso el estímulo fiscal a que se refiere este artículo dará lugar a devolución, compensación, acreditación o saldo a favor alguno;
+
+VII. La solicitud del estímulo fiscal a que se refiere el presente programa no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa;
+
+VIII. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del programa de estímulo fiscal; y,
+
+IX. Los demás que considere necesarios el Instituto Registral y Catastral del Estado de Michoacán de Ocampo.
+
+OCTAVO. Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2023, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital. El monto del derecho a pagar por las citadas licencias será de $2,500.00 (Dos mil quinientos pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2023.
+
+NOVENO. Para efecto de lo señalado en la Ley de Ingresos contenida en el presente Decreto, cuando esta haga mención del refrendo anual de circulación, la Secretaría de Finanzas y Administración, de acuerdo a las disposiciones legales aplicables, emitirá las reglas de carácter general que correspondan.
+
+DÉCIMO. Las facultades de coordinación de recaudación de ingresos, reservadas a la Subsecretaría de Ingresos a través de las oficinas recaudadoras del Estado, serán transferidas al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, cuando se constituya como un órgano desconcentrado de la Secretaría de Finanzas y Administración, una vez que entre en vigor la Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
+
+DÉCIMO PRIMERO. Los Organismos Públicos Descentralizados que perciban ingresos por venta de bienes y prestación de servicios, deberán reportarlos al Sistema de Control de Ingresos de Entidades Paraestatales de la Secretaría de Finanzas y Administración, a más tardar el día 5 del mes siguiente al que se trate, atendiendo al Acuerdo de Austeridad, Ordenamiento y Transparencia del Gasto Público de la Administración Pública del Estado de Michoacán de Ocampo, Período 2021-2027 y sus Lineamientos, con la finalidad de contar con los elementos que permitan la trazabilidad ingreso-gasto de dichos Organismos.
+
+DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, con los respectivos anexos.
+
+DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
