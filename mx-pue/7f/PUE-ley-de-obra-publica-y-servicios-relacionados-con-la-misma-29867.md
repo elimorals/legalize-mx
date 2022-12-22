@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2021-09-22"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -245,7 +245,9 @@ Para estos casos, el Presidente podrá designar una persona para asistir a los d
 
 En la planeación y programación de las obras públicas y de los servicios relacionados con las mismas, las dependencias y entidades deberán ajustarse a:
 
-I.- Lo dispuesto por la Ley de Desarrollo Urbano Sustentable del Estado y la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+I.- Lo dispuesto por la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Puebla, la Ley del Agua para el Estado de Puebla y la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable;
 
 II.- Los objetivos y prioridades previstas en los Planes de Desarrollo Urbano, Social y Económico del Estado y de sus Municipios y en los programas sectoriales, institucionales, regionales y especiales, en su caso; así como a las previsiones contenidas en sus programas anuales;
 
@@ -1738,3 +1740,11 @@ P.O. 22 DE SEPTIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA, Y EL ARTÍCULO 7 DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
