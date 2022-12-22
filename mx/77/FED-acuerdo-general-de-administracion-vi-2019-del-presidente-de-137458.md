@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vi-2019-del-presidente-de-137
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-08-08"
-last_updated: "2021-09-30"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-07-11"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2022.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 8 de agosto de 2019.
 
@@ -59,7 +59,13 @@ A falta de disposición expresa, serán aplicables las disposiciones contenidas 
 
 Para efectos de este Acuerdo se entenderá por:
 
-I. Áreas: Las señaladas en la fracción IV del artículo 2o. del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación y referidas en el Acuerdo General de Administración I/2019.
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+I. Acuerdo General de Administración III/2022: el Acuerdo General de Administración número III/2022, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiséis de abril de dos mil veintidós, por el que se establece la Política de Inclusión y las Medidas Generales para la Protección de los Derechos Humanos de las Personas con Discapacidad en la Suprema Corte de Justicia de la Nación;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+I Bis. Áreas: las señaladas en el artículo 2o., fracción IV, del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación;
 
 II. Asuntos Jurídicos: La Dirección General de Asuntos Jurídicos.
 
@@ -127,11 +133,19 @@ XXXIII. Servicios Médicos: La Dirección General de Servicios Médicos;
 
 XXXIV. Sindicato: El Sindicato de Trabajadores del Poder Judicial de la Federación;
 
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+XXXIV Bis. SIRAP: el Sistema de Registro Administrativo de Personal;
+
 XXXV. Suprema Corte: La Suprema Corte de Justicia de la Nación;
 
 XXXVI. Tesorería: La Dirección General de Tesorería de la Suprema Corte;
 
 XXXVII. Transformación: Es la modificación de los derechos y obligaciones originales de una plaza;
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+XXXVII Bis. Unidad de Inclusión: la Unidad de Inclusión Laboral y Derechos Humanos de las Personas con Discapacidad;
 
 XXXVIII. Vacante: La disponibilidad de una plaza originada por su creación o la ausencia temporal o definitiva de su ocupante;
 
@@ -403,9 +417,9 @@ A partir de la fecha de notificación del ganador del concurso escalafonario, se
 
 Los nombramientos interinos se otorgarán por la sustitución temporal del titular de una plaza, en los casos siguientes:
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO X/2021 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Licencias por maternidad, paternidad, adopción, prejubilatorias y comisión sindical, hasta por el tiempo señalado en la licencia;
+I. Licencias por maternidad, paternidad, adopción, prejubilatorias, comisión sindical y discapacidad psicosocial o mental, hasta por el tiempo señalado en la licencia;
 
 II. Licencias por enfermedad emitidas por el ISSSTE, de 30 días o más; y
 
@@ -473,7 +487,9 @@ Para el otorgamiento de nombramientos se observará lo previsto en la Ley Genera
 
 Para los efectos del presente Acuerdo, se entiende por licencia al permiso otorgado al servidor público para ausentarse de sus labores por tiempo determinado, en términos de la normativa vigente.
 
-Las licencias podrán ser otorgadas con o sin goce de sueldo, por el tiempo, supuestos y requisitos que se establecen en el presente Acuerdo y en los lineamientos que al efecto se emitan y deberán ser presentadas invariablemente ante el titular del órgano o área de adscripción del servidor público solicitante.
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+Las licencias podrán ser otorgadas con o sin goce de sueldo, por el tiempo, supuestos y requisitos que se establecen en el presente Acuerdo y en los lineamientos que al efecto se emitan y deberán ser presentadas invariablemente ante el titular del Órgano o Área de adscripción del servidor público solicitante, salvo que se establezca de otra forma en el presente Acuerdo General de Administración.
 
 Las ausencias producto del otorgamiento de licencias con goce de sueldo no generan vacantes, por lo que no podrán ser sustituidas por otro servidor público, ni se podrá solicitar plaza o persona alguna para cubrirlas, salvo en los casos establecidos en el artículo 23 del presente Acuerdo.
 
@@ -497,9 +513,17 @@ VII. Días económicos;
 
 VIII. Comisión sindical;
 
-IX. Asuntos personales graves y/o urgentes; y
+> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
 
-X. Las que determinen, en su caso, el Presidente o el Comité de Gobierno.
+IX. Asuntos personales graves y/o urgentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+X. Motivo de que una persona servidora pública viva con algún tipo de discapacidad psicosocial o mental, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+XI. Las que determinen, en su caso, el Presidente o el Comité de Gobierno.
 
 Las licencias médicas por enfermedad y por maternidad, serán expedidas por el ISSSTE, o en su caso, ésta última por Servicios Médicos, por el tiempo consignado en ellas en términos de la normativa aplicable.
 
@@ -517,37 +541,95 @@ Los servidores públicos podrán solicitarla a partir del nacimiento de la hija 
 
 Las personas servidoras públicas a quienes se conceda la adopción de un infante disfrutarán de una licencia con goce de sueldo por noventa días consecutivos. En este supuesto también se incluirá a los progenitores por gestación subrogada.
 
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 29 Quater.
+
+Las licencias para personas servidoras públicas que viven con algún tipo de discapacidad psicosocial o mental tendrán como objetivo que éstas puedan reincorporarse a sus actividades laborales y cumplirlas de manera óptima, así como eliminar las barreras que puedan enfrentar en el ámbito laboral con motivo de su discapacidad.
+
+Los procedimientos para la solicitud y otorgamiento de licencias para personas que viven con algún tipo de discapacidad psicosocial o mental se determinarán en los lineamientos que para tal efecto emita la Unidad de Inclusión.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 29 Quinquies.
+
+Los requisitos para el otorgamiento de las licencias para personas que viven con algún tipo de discapacidad psicosocial o mental, son los siguientes:
+
+I. La Unidad de Inclusión haya determinado previamente la procedencia de un ajuste razonable en términos del Acuerdo General de Administración III/2022, con el objetivo de eliminar las barreras en el ámbito laboral que enfrenta la persona servidora pública con discapacidad psicosocial o mental;
+
+II. El ajuste razonable se haya aplicado por lo menos durante tres meses;
+
+III. La aplicación del ajuste razonable no haya sido suficiente para eliminar la barrera en el ámbito laboral, y
+
+IV. No se haya otorgado a la persona servidora pública una licencia de este tipo anteriormente, salvo lo previsto en el artículo 29 Septimus del presente Acuerdo General de Administración.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 29 Sexies.
+
+La persona servidora pública interesada podrá solicitar la licencia para personas que viven con algún tipo de discapacidad psicosocial o mental, para lo cual indicará si es con o sin goce de sueldo, y el periodo requerido, sujetándose a los requisitos y plazos máximos previstos en este Acuerdo General de Administración.
+
+La solicitud de licencia y los documentos que la acompañen se presentarán ante la Unidad de Inclusión, a través del SIRAP, la cual solicitará la opinión de la persona titular del Órgano o Área de adscripción de la persona solicitante, y de Servicios Médicos. Asimismo, la Unidad de Inclusión entrevistará a la persona solicitante y podrá allegarse de los elementos que estime convenientes.
+
+Con base en la perspectiva del modelo social de la discapacidad, así como la evaluación de la situación particular de la persona servidora pública y la existencia objetiva de barreras que impiden su inclusión laboral en igualdad de condiciones y de manera óptima, la Unidad de Inclusión determinará el otorgamiento de las licencias con goce de sueldo o sin goce de sueldo hasta por seis meses, o bien, elaborará un proyecto de resolución en el caso de licencia sin goce de sueldo por más de seis meses, que someterá a consideración de la persona titular de la Oficialía Mayor, según corresponda.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 29 Septimus. Si al término de la licencia con goce de sueldo para personas que viven con algún tipo de discapacidad psicosocial o mental, la persona servidora pública considera que no han sido superadas las barreras que permitan su inclusión laboral en igualdad de condiciones y de manera óptima, podrá solicitar licencia sin goce de sueldo, hasta por nueve meses.
+
+Esta licencia se solicitará con 15 días de anticipación, cuando menos, a la fecha de finalización de la licencia con goce de sueldo, y se tramitará y resolverá, en lo conducente, conforme a lo dispuesto en el artículo anterior.
+
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 30.
 
 La autorización de las licencias con goce de sueldo, cuyo otorgamiento no corresponda al Pleno de este Alto Tribunal, se otorgará por:
 
-I. El Presidente o el Comité de Gobierno cuando se trate de las establecidas en la fracciones VIII, IX y X del artículo anterior, mayores a tres meses y hasta seis meses;
+I. El Presidente o el Comité de Gobierno cuando se trate de las establecidas en las fracciones VIII, IX y XI del artículo 29 del presente Acuerdo General de Administración, mayores a tres meses y hasta seis meses;
 
-II. El Oficial Mayor, cuando se trate de las establecidas en las fracciones IX y X del artículo anterior, hasta por tres meses;
+II. El Oficial Mayor, cuando se trate de las establecidas en las fracciones IX y XI del artículo 29 del presente Acuerdo General de Administración, hasta por tres meses;
 
-III. El Titular de Recursos Humanos, tratándose de las licencias establecidas en las fracciones de la I a la VI del artículo anterior; y
+III. El Titular de Recursos Humanos, tratándose de las licencias establecidas en las fracciones de la I a la VI del artículo 29 del presente Acuerdo General de Administración;
 
-IV. El Titular del Órgano o Área, bajo su responsabilidad, tratándose de las licencias establecidas en las fracciones VII y IX del artículo anterior, hasta por cinco días.
+IV. El Titular del Órgano o Área, bajo su responsabilidad, tratándose de las licencias establecidas en las fracciones VII y IX del artículo 29 del presente Acuerdo General de Administración, hasta por cinco días, y
 
-Para efectos del otorgamiento de las licencias a que se refiere la fracción IX del artículo anterior, los solicitantes deberán documentar las justificaciones correspondientes y contar con la conformidad del Titular del Órgano o Área al que se encuentran adscritos, conforme a lo establecido en el presente Acuerdo.
+V. La Unidad de Inclusión, tratándose de las licencias establecidas en la fracción X del artículo 29 del presente Acuerdo General de Administración, hasta por tres meses.
 
-Las prórrogas y modificaciones de las licencias establecidas en la fracción VIII del artículo anterior del presente Acuerdo, serán autorizadas por el Oficial Mayor, siempre y cuando esto no implique un número mayor de comisiones.
+Para efectos del otorgamiento de las licencias a que se refiere la fracción IX del artículo 29 del presente Acuerdo General de Administración, los solicitantes deberán documentar las justificaciones correspondientes y contar con la conformidad del Titular del Órgano o Área al que se encuentran adscritos, conforme a lo establecido en el presente Acuerdo.
+
+Las prórrogas y modificaciones de las licencias establecidas en la fracción VIII del artículo 29 del presente Acuerdo, serán autorizadas por el Oficial Mayor, siempre y cuando esto no implique un número mayor de comisiones.
+
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 31.
 
 Las licencias sin goce de sueldo se podrán otorgar hasta por un año cuando el servidor público requiera atender asuntos personales, cumpliendo los requisitos que al respecto se establecen en este Acuerdo. También se podrán otorgar a los servidores públicos de base, para ocupar otra plaza.
 
+En el caso de las licencias, sin goce de sueldo, para personas que viven con algún tipo de discapacidad psicosocial o mental, se podrán otorgar por un periodo no mayor a nueve meses.
+
 En ningún caso se otorgarán licencias sin goce de sueldo al personal que ocupe plazas de confianza para ocupar diversa plaza, salvo aquellas que refieran a las denominadas licencias por comisión en otro Órgano del Poder Judicial, en cuyo caso se requerirá de la autorización del Presidente o del Comité de Gobierno.
 
-Los servidores públicos con licencia sin goce de sueldo, estarán obligados a notificar al Titular del Órgano o Área de su adscripción, con al menos quince de días de anticipación al vencimiento de su licencia, su decisión de reincorporase a laborar o dar por terminada su relación laboral.
+Las personas servidoras públicas con licencia sin goce de sueldo, estarán obligadas a notificar a la persona titular del Órgano o Área de su adscripción, con al menos quince días de anticipación al vencimiento de su licencia, su decisión de reincorporase a laborar o dar por terminada su relación laboral. En el caso de licencias sin goce de sueldo para personas que viven con algún tipo de discapacidad psicosocial o mental, el aviso se realizará a través del SIRAP, tanto a la persona titular del Órgano o Área, como a la persona titular de la Unidad de Inclusión.
+
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 32.
 
-La autorización de las licencias sin goce de sueldo, previa conformidad del Titular del Órgano o Área al que se encuentra adscrito el servidor público solicitante, se otorgarán por:
+A excepción de las licencias sin goce de sueldo para personas que viven con algún tipo de discapacidad psicosocial o mental, la autorización de las licencias sin goce de sueldo, previa conformidad de la persona titular del Órgano o Área al que se encuentra adscrita la persona servidora pública solicitante, se otorgará por:
 
-I. El Oficial Mayor, mayores a seis meses y hasta por un año; y
+I. La persona titular de la Oficialía Mayor, mayores a seis meses y hasta por un año, y
 
-II. El Titular del Órgano o Área, hasta por seis meses.
+II. La persona titular del Órgano o Área, hasta por seis meses.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 32 Bis.
+
+Las licencias sin goce de sueldo para personas que viven con algún tipo de discapacidad psicosocial o mental serán autorizadas por:
+
+I. La persona titular de la Oficialía Mayor, mayores a seis meses y hasta por nueve meses, y
+
+II. La persona titular de la Unidad de Inclusión, hasta por seis meses.
 
 ###### ARTÍCULO 33.
 
@@ -804,3 +886,19 @@ TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administr
 CUARTO. Se autoriza a la persona titular de la Oficialía Mayor de la Suprema Corte de Justicia de la Nación, a expedir o reformar la normativa, en el ámbito de sus atribuciones, que sea necesaria para dar cumplimiento a lo dispuesto en el presente Acuerdo General de Administración.
 
 QUINTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO XII/2022, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE CATORCE DE DICIEMBRE DE DOS MIL VEINTIDÓS, EN MATERIA DE OTORGAMIENTO DE LICENCIAS PARA PERSONAS CON DISCAPACIDAD PSICOSOCIAL O MENTAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN VI/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE ONCE DE JULIO DE 2019, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LAS PLAZAS, INGRESOS, NOMBRAMIENTOS, LICENCIAS, COMISIONES, READSCRIPCIONES, SUSPENSIÓN Y TERMINACIÓN DEL NOMBRAMIENTO DE LOS SERVIDORES PÚBLICOS Y QUE REGULA LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS DE ESTE ALTO TRIBUNAL, SALVO LOS DE SUS SALAS”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Acuerdo General de Administración VI/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de once de julio de 2019, por el que se establecen las normas relativas a las plazas, ingresos, nombramientos, licencias, comisiones, readscripciones, suspensión y terminación del nombramiento de los servidores públicos y que regula la administración de los recursos humanos de este Alto Tribunal, salvo los de sus Salas, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. La Unidad de Inclusión de la Suprema Corte de Justicia de la Nación emitirá los lineamientos necesarios para regular el procedimiento para el otorgamiento de licencias para personas que viven con algún tipo de discapacidad psicosocial o mental a que se refiere el presente Acuerdo General de Administración, sin perjuicio de las atribuciones que correspondan a otros órganos o áreas.
+
+QUINTO. La Dirección General de Tecnologías de la Información deberá implementar los ajustes que se requieran al Sistema de Registro Administrativo de Personal con motivo de la entrada en vigor del presente Acuerdo General de Administración, a más tardar el 31 de marzo de 2023.
+
+SEXTO. Publíquese el presente Acuerdo General de Administración en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
