@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2022-11-09"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -1475,9 +1475,9 @@ El Presidente podrá celebrar reuniones de evaluación y análisis con miembros 
 
 ###### ARTÍCULO 86.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-1.- El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente de la Fiscalía General de Justicia del Estado.
+1.- El Consejo Estatal de Seguridad Pública contará con un órgano administrativo desconcentrado que tendrá la función de apoyar a las autoridades de seguridad pública para el cumplimiento de sus objetivos. Este órgano dependerá directamente de la Secretaría General de Gobierno.
 
 2.- La estructura, organización y funciones del Consejo Estatal de Seguridad Pública se establecerán en el reglamento respectivo.
 
@@ -2358,3 +2358,51 @@ Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-500 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Administración, así como a la Contraloría Gubernamental y a la Fiscalía General de Justicia del Estado de Tamaulipas, a realizar de manera inmediata las adecuaciones y transferencias presupuestales, financieras y de recursos humanos, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Fiscalía General de Justicia del Estado vinculados con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se transferirán a la Secretaría General de Gobierno, y a la Secretaría de Finanzas, respectivamente, según corresponda, para que se asignen conforme a la naturaleza de sus funciones.
+
+El presupuesto ejercido por la Fiscalía General de Justicia del Estado vinculado con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y el de la Unidad de Inteligencia Financiera y Económica, se comprobará conforme a la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; al Centro Estatal de Evaluación y Control de Confianza; al Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se reincorporarán a las áreas a las que estaban adscritos hasta antes de la entrada en vigor del Decreto 65-183, expedido y aprobado por la Legislatura 65 del Congreso del Estado Libre y Soberano de Tamaulipas, en fecha 30 de junio de 2022, de manera inmediata, sin que dicho proceso pueda exceder de 30 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y de la Unidad de Inteligencia Financiera y Económica, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Administración, y Secretaría de Finanzas, así como a la Contraloría Gubernamental y a la Fiscalía General de Justicia del Estado de Tamaulipas, a realizar de manera inmediata, los procedimientos correspondientes a llevar a cabo las adecuaciones normativas y de estructura orgánica a las que haya lugar, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
