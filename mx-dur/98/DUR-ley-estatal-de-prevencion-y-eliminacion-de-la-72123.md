@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2021-06-17"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -73,9 +73,11 @@ La Administración Pública Estatal, en todos sus actos, deberá observar el res
 
 Corresponde al Estado, a los ayuntamientos y a los organismos públicos autónomos, observar, tutelar y promover el goce y ejercicio efectivo de los derechos fundamentales o constitucionales en condiciones de igualdad de las personas, consagrados por el orden jurídico mexicano.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-Para los efectos del artículo que antecede, se deben eliminar aquellos obstáculos que limiten el ejercicio de los derechos e impidan el pleno desarrollo de las personas y grupos, así como su efectiva participación en la vida política, económica, cultural y social del Estado, promoviendo la participación de los particulares en la prevención y eliminación de estos obstáculos.
+Para los efectos del artículo que antecede, se deben eliminar aquellos obstáculos que limiten el ejercicio de los derechos e impidan el pleno desarrollo de las personas y grupos, así como su efectiva participación en la vida política, económica, cultura (sic) y social del Estado, promoviendo la participación de los particulares en la prevención y eliminación de estos obstáculos, así como promoviendo la cultura de la denuncia.
 
 ###### Artículo 7.
 
@@ -229,9 +231,17 @@ XXXII. Restringir o limitar el uso de su lengua, usos, costumbres y cultura, en 
 
 XXXIII. Limitar o negar el otorgamiento de concesiones, permisos o autorizaciones para el aprovechamiento, administración o usufructo de recursos naturales, una vez satisfechos los requisitos establecidos en la legislación aplicable;
 
-XXXIV. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión; de cualquier persona dentro de un grupo, escuela o culto religioso, organismo público o privado; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XXXV. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual o creencia religiosa o identidad de género.
+XXXIV. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecución o exclusión; de cualquier persona dentro de un grupo, escuela o culto religioso, organismo público o privado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual o creencia religiosa o identidad de género; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XXXVI. Inhibir, restringir o limitar la práctica de la denuncia por actos de discriminación o violatorios del derecho a la igualdad.
 
 ### CAPÍTULO III. MEDIDAS POSITIVAS Y COMPENSATORIAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
@@ -397,9 +407,11 @@ X. Llevar a cabo campañas permanentes de información en los medios de comunica
 
 XI. Promover la erradicación de usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 27.
 
-Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas tendientes a favorecer la igualdad real de oportunidades y a prevenir y eliminar las formas de discriminación de las personas a que se refiere esta Ley.
+Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas tendientes a favorecer la igualdad real de oportunidades y a prevenir y eliminar las formas de discriminación de las personas a que se refiere esta Ley, así como la promoción de la práctica y la cultura de la denuncia.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
@@ -545,19 +557,23 @@ I. La impartición de cursos o seminarios que promuevan la igualdad de oportunid
 
 II. La fijación de carteles en cualquier establecimiento, de quienes incumplan alguna disposición de esta Ley, en los que se promueva la modificación de conductas discriminatorias;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, en dichos carteles se incluirá la promoción e impulso a la cultura de la denuncia de actos discriminatorios.
+
 III. La presencia del personal, de promover y verificar la adopción de medidas a favor de la igualdad de oportunidades; y la eliminación de toda forma de discriminación en cualquier establecimiento, de quienes sean objeto de una resolución, por el tiempo que disponga el organismo;
 
 IV. La publicación íntegra de la resolución emitida en el órgano de difusión; y
 
 V. La publicación o difusión de una síntesis de la resolución en los medios impresos o electrónicos de comunicación.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 55 Bis.
 
-El titular de todo establecimiento mercantil en general está obligado a exhibir un letrero visible que señale "En este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y de la Fiscalía General del Estado.
+El titular de todo establecimiento mercantil en general está obligado a exhibir un letrero visible que señale “En este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo” incluyendo para quejas o denuncias, los teléfonos de emergencia y de la Fiscalía General del Estado.
 
-Las dependencias de la Administración Pública Estatal y Municipal estarán obligadas a exhibir un letrero visible que señale "En estas oficinas públicas no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y de la Fiscalía General del Estado.
+Las dependencias de la Administración Pública Estatal y Municipal estarán obligadas a exhibir un letrero visible que señale “En estas oficinas públicas no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo” incluyendo para quejas o denuncias, los teléfonos de emergencia y de la Fiscalía General del Estado.
 
 ###### Artículo 56.
 
@@ -571,11 +587,13 @@ III. La reincidencia.
 
 Se entiende que existe reincidencia cuando la misma persona incurra en nueva violación a la prohibición de discriminar.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 74.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 57.
 
-El Ejecutivo del Estado podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos y será otorgado previa solicitud de la parte interesada.
-
-El reconocimiento será de carácter honorífico, tendrá una vigencia de un año y podrá servir de base para la obtención de beneficios que, en su caso, establezca el Estado, en los términos de la legislación aplicable.
+El Ejecutivo del Estado podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para la prevención y denuncia de la discriminación en sus prácticas, instrumentos organizativos y presupuestos y será otorgado previa solicitud de la parte interesada.
 
 ### CAPÍTULO VII. DE LOS RECURSOS
 
@@ -682,3 +700,11 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 300.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 6, 18, 27, 55, 55 BIS Y 57 DE LA LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN, EN MATERIA DE CULTURA Y PROMOCIÓN DE LA DENUNCIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
