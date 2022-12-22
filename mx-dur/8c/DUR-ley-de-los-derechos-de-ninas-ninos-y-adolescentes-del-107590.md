@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2022-12-04"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -97,9 +97,11 @@ Las autoridades estatales y municipales, en el diseño y ejecución de política
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, artística, ambiental, ética y cívica de niñas, niños y adolescentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 5.
 
-Para los efectos de esta Ley, se entenderá por
+Para los efectos de esta Ley, se entenderá por:
 
 I. Acciones Afirmativas: Medidas temporales que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad entre niñas, niños y adolescentes. Se adecuarán a la situación a remediar y deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
 
@@ -109,13 +111,13 @@ III. Adopción Internacional: Aquélla que se realice en términos de lo dispues
 
 IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-V. Castigo Corporal: Todo castigo en el que se utilice de manera severa o innecesaria la fuerza física y tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve;
+V. Castigo corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano u otro objeto, empujones, pellizcos, mordidas, jalones de cabello u orejas, quemaduras, obligar a mantener posturas incómodas o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. Castigo Humillante: Cualquier trato que vulnere la dignidad, la salud mental y psicológica de niñas, niños y adolescentes, y que no corresponda a la naturaleza intrínseca de las medidas correctivas, como medio de disciplina positiva en beneficio de niñas, niños y adolescentes.
+VI. Castigo humillante: Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y/o cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
 VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
@@ -515,9 +517,9 @@ Dentro de las responsabilidades de velar por el sano desarrollo de niñas, niño
 
 Las autoridades estatales y municipales, estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Queda prohibido el uso del castigo corporal en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
+Queda prohibido el uso del castigo corporal y humillante en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
 
 ###### Artículo 30.
 
@@ -723,9 +725,13 @@ XV. Adoptar medidas para responder a las necesidades de niñas, niños y adolesc
 
 XVI. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
 
-XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, prohibiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física, mental y/o emocional de niñas, niños y adolescentes, incluyendo el castigo corporal o humillante;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Erradicar las prácticas pedagógicas discriminatorias, excluyentes, que atenten contra la dignidad humana o integridad, especialmente el castigo corporal y los tratos humillantes y degradantes;
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
@@ -1093,7 +1099,9 @@ Niñas y niños tendrán derechos a la protección de su primera infancia. Para 
 
 ## TÍTULO TERCERO. De los derechos y obligaciones
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo Primero. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
 
 ###### Artículo 61.
 
@@ -1183,23 +1191,93 @@ XII. Educar y supervisar en el conocimiento y uso responsable de las tecnología
 
 Quienes ejercen la patria potestad, tutela o guarda y custodia, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
 
-### Capítulo Único. De los Centros de Asistencia Social
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo Segundo. De la Representación de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 64.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección.
+Las niñas, niños y adolescentes involucrados en procedimientos administrativos o jurisdiccionales tienen derecho a contar con un representante que funja como intermediario.
 
-Al efecto, la Procuraduría de Protección ejercerá la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones jurídicas aplicables.
+La intermediación adulta implica, en sintonía con el enfoque de derechos de la infancia y bajo un esquema de protección integral, asegurar el ejercicio de la integralidad de sus derechos, teniendo presente en todo momento el principio del interés superior de la niñez, así como y (sic) su autonomía progresiva y no puede ser interrumpida o suspendida.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Bis.
+
+La representación de niñas, niños y adolescentes podrá ser:
+
+I. Originaria;
+
+II. Coadyuvante; y
+
+III. En Suplencia.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Ter.
+
+La representación originaria de niñas, niños y adolescentes estará a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en el Código Civil del Estado de Durango y demás disposiciones aplicables.
 
 Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
 
-El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Federal, esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+Artículo 64 Quárter. La representación coadyuvante es aquella ejercida por la Procuraduría de Protección, de manera constante y oficiosa a la par del ejercicio de la representación originaria. Esta funcionará como un acompañamiento que se da, de forma proporcional y acorde a las necesidades de la niña, niño y/o adolescente. Por ello, el trabajo de la representación coadyuvante puede significar diferentes tipos de acción, que pueden consistir en asesorar, apoyar, informar y ejecutar.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Quinquies.
+
+La representación coadyuvante procurará todas las herramientas necesarias dirigidas a que la familia, así como la niña, niño o adolescente, participen en procedimientos judiciales o administrativos que cumplan con los estándares esenciales de protección
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Sexies.
+
+La representación coadyuvante estará basada en el principio de la menor separación de la familia y en el principio de proporcionalidad en la intervención del Estado en las decisiones que tome aquella cuando hace posible, a través de la representación originaria, el desarrollo de los derechos de la niña, niño o adolescente. El Estado, coadyuvará a la protección de los derechos de la niña, niño o adolescente, en la medida que proporcionalmente resulte necesaria.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Septies.
+
+Cuando el proceso se inicie por algunos de los padres o quienes ejerzan la patria potestad de niñas, niños y/o adolescentes, en contra del otro, la labor de la Procuraduría de Protección debe estar guiada por la imparcialidad, teniendo a la niña, niño o adolescente como eje de su representación y con independencia de las acciones de representación que puedan desarrollar sus padres.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Octies.
+
+Las niñas, niños y adolescentes que no cuenten con una representación originaria por desconocer el paradero de sus familiares y que no exista alguien que pueda tener la tutela sobre ellos mismos o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, no podrán carecer por tal motivo de una representación, en estos casos la representación en suplencia corresponderá a la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Nonies.
+
+Antes de nombrar una representación en suplencia, se deberán buscar todas las alternativas posibles dentro de la misma familia para que la niña, niño o adolescente pueda contar con su representación originaria. La representación en suplencia funciona como último recurso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 64 Decies.
+
+La representación en suplencia no podrá ser decidida de oficio por la Procuraduría de Protección, esta representación deberá ser decretada por el órgano administrativo o jurisdiccional competente que conozca del asunto en el que estén involucrados o participando las niñas, niños y/o adolescentes, y sólo en los casos que estrictamente resulte imprescindible su aplicación, hasta entonces, la Procuraduría de Protección referida puede ejercer únicamente la representación coadyuvante.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Artículo 64 Undecies. En el caso de la aparición o reclamación de la representación originaria o por parte de un familiar, se deberá privilegiar la reunificación familiar y garantizar que sea la familia la que lleve la representación de la niña, niño o adolescente, salvo que esto sea contrario a su interés superior de la niñez.
+
+La representación en suplencia se sujetará a los momentos y casos específicos para los que se requiera a la Procuraduría (sic) Protección, por el tiempo necesario para proteger los intereses de las niñas, niños y/o adolescentes en cuestión.
+
+El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Federal, la Ley, esta Ley y demás disposiciones jurídicas aplicables. No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 65.
 
@@ -1257,7 +1335,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Procuraduría de Protección
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 69.
 
@@ -1287,9 +1365,9 @@ III. Los cursos y programas educativos destinados a servidores públicos, padres
 
 IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-V. En las instituciones educativas, de recreación, esparcimiento y deporte, los educadores o maestros velarán por el respeto de los derechos de niñas, niños y adolescentes, a efecto de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación;
+V. En las instituciones educativas, deportivas, religiosas, de salud, de cuidado, penales o de cualquier índole o quienes tengan trato con niñas, niños y adolescentes, se velará por el respeto de sus derechos, a efecto de evitar cualquier tipo (sic) maltrato, perjuicio, daño, agresión, castigo corporal, humillante, abuso o explotación; y
 
 > <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
@@ -1399,7 +1477,7 @@ VI. Promover la formación, capacitación y profesionalización del personal de 
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Tercero. Del Sistema Local de Protección
+### Capítulo Segundo. De la Procuraduría de Protección
 
 ###### Artículo 75.
 
@@ -1499,7 +1577,7 @@ VI. Acreditar las pruebas de control de confianza emitidas por la autoridad comp
 
 El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
-### Capítulo Cuarto. De los Sistemas Municipales de Protección
+### Capítulo Tercero. Del Sistema Local de Protección
 
 #### Sección Primera. De los Integrantes
 
@@ -1737,7 +1815,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2020)
 
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Cuarto. De los Sistemas Municipales de Protección
 
 ###### Artículo 84.
 
@@ -1751,13 +1829,13 @@ Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será
 
 Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Local; se reunirán cuando menos dos veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
-### Capítulo Sexto. Del Programa Nacional y el Programa Local
+### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
 ###### Artículo 85.
 
 La Comisión Estatal de los Derechos Humanos de Durango, en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
 ###### Artículo 86.
 
@@ -1770,6 +1848,8 @@ Los programas locales preverán acciones de mediano y largo alcance, indicarán 
 El Sistema Local y los Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 88.
 
@@ -2232,3 +2312,11 @@ P.O. 4 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 299.- QUE CONTIENE REFORMAS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO Y A LA LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
