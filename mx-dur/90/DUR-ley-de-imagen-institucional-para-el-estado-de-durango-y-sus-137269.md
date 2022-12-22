@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-imagen-institucional-para-el-estado-de-durango-y-sus-137
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-06"
-last_updated: "2019-06-06"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el No. 45 del Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2019.
 
@@ -119,9 +119,11 @@ LA SEXAGÉSIMA OCTAVA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBE
 
 Las disposiciones de esta Ley, son de observancia general, interés social y obligatoria para todas las dependencias y entidades que forman parte de la administración pública estatal y municipal, ya sea centralizada, paraestatal o paramunicipal, los Poderes Ejecutivo, Legislativo y Judicial del Estado, y órganos constitucionales autónomos del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 2.
 
-La presente Ley tiene por objeto establecer lineamientos y criterios para regular el uso institucional de la imagen de los entes públicos y la difusión institucional de las dependencias y entidades.
+La presente Ley tiene por objeto establecer lineamientos y criterios para regular el uso institucional de la imagen de los entes públicos.
 
 ###### Artículo 3.
 
@@ -139,27 +141,49 @@ a) Blanco (Pantone 1-1-C);
 
 b) Gris (Pantone Cool Grey - C 40 M30 G20 K66);
 
-c) Negro (Pantone Black C C20 M20 Y 20 K100), y
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-d) Gris (Pantone C 177-1 U C31 M22 G28 K0).
+c) Negro (Pantone Black C C20 M20 Y 20 K100);
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+d) Gris (Pantone C 177-1 U C31 M22 G28 K0);
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+e) Gris (Pantone Cool Grey 1C – C12 M10 Y12 K0);
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+f) Gris (Pantone 424 C – C56 M47 Y48 K14);
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+g) Gris (Pantone 427 C – C17 M12 Y12 K0), y
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+h) Gris (Pantone 429 C – C37 M27 Y26 K0).
 
 III. Entes públicos: Las dependencias y entidades que forman parte de la administración pública estatal y municipal, ya sea centralizada, paraestatal o paramunicipal, los Poderes Ejecutivo, Legislativo y Judicial del Estado, y órganos constitucionales autónomos del Estado.
 
 IV. Equipamiento urbano: Conjunto de objetos, piezas y mobiliario instalados en la vía pública o en espacios públicos, y que proveen a los ciudadanos servicios o son útiles para la realización de actividades económicas, sociales, culturales o recreativas.
 
-V. Imagen institucional: Es el conjunto de elementos visuales, que incluyen el logotipo oficial, colores, impresos, eslóganes, símbolos, que principalmente identifican y distinguen a los entes públicos del Estado de Durango.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. Lema: Es una frase que expresa motivación, intención que describe la forma de conducta de una persona, grupo o institución de un Estado. y
+V. Imagen institucional: Es el conjunto de elementos visuales, que incluyen el logotipo oficial, colores, impresos, eslóganes, que principalmente identifican y distinguen a los entes públicos del Estado de Durango.
 
-VII. Logotipo: símbolo formado por imágenes o letras que sirve para identificar a una identidad pública. Los colores institucionales que prevé la fracción II del presente artículo, deberán ser utilizados en su conjunto y sin excepción alguna por parte de los sujetos de esta ley, en la siguiente forma:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-a) El color Blanco (Pantone 1-1-C) deberá ser utilizado como color base para la pinta de edificios, impresión de documentación oficial, y en general en la identificación de los bienes muebles e inmuebles propiedad del ente público respectivo.
+VI. Lema: Es una frase que expresa motivación, intención que describe la forma de conducta de una persona, grupo o institución de un Estado.
 
-b) El color Gris (Pantone Cool Grey - C 40 M30 G20 K66) deberá ser utilizado como color complementario, el cual deberá ser usado en la tipografía en orden de prioridad secundario.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-c) El color Negro (Pantone Black C C20 M20 Y 20 K100) deberá ser utilizado como color principal de tipografía para edificios, impresión de documentación oficial, así como en la identificación de los bienes muebles e inmuebles propiedad del ente público respectivo. y
+VII. Logotipo: símbolo formado por imágenes o letras que sirve para identificar a una identidad pública. y
 
-d) El color Gris (Pantone C 177-1 U C31 M22 G28 K0), deberá ser utilizado en cenefas, plecas, vivos, relieves y demás elementos que permitan la mejor identificación de los bienes muebles e inmuebles propiedad del ente público obligado en términos de esta ley.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+VIII. Órganos internos de control: Las unidades administrativas (sic) que se refiere la Ley General de Responsabilidades Administrativas.
 
 ### CAPÍTULO SEGUNDO. IMAGEN INSTITUCIONAL
 
@@ -169,13 +193,13 @@ d) El color Gris (Pantone C 177-1 U C31 M22 G28 K0), deberá ser utilizado en ce
 
 El Poder Ejecutivo deberá utilizar como imagen institucional oficial el Escudo del Estado Libre y Soberano de Durango, su lema, un logotipo y los colores institucionales previstos en la fracción II del artículo 4 de esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-El Poder Ejecutivo, sus dependencias y entidades, solo podrán incluir en sus documentos, publicaciones y demás material impreso, así como audiovisual que usen de carácter oficial en el uso de sus atribuciones, el lema, un logotipo y el Escudo del Estado respetando sus características y tipografía regulada por la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango. Además del uso del Escudo oficial del Estado, deberán utilizar de forma exclusiva los colores institucionales que regula la fracción II del artículo 4 de esta ley.
+Para el manejo e impresión de papelería oficial que utilicen las dependencias y entidades del Poder Ejecutivo para su identificación, o el material y publicidad de los eventos en lo (sic) que se usen el lema, logotipo y el Escudo del Estado, se deberán respetar las características y tipografía regulada por la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango. Además del uso del Escudo oficial del Estado, los entes públicos deberán utilizar de forma exclusiva los colores institucionales que regula la fracción II del artículo 4 de esta ley y solamente podrán adicionar bajo el logotipo la referencia oficial de la Dependencia o Entidad de que se trata.
 
-El Poder Ejecutivo, sus dependencias y entidades, solamente podrán adicionar bajo el mismo, la referencia oficial de la Dependencia o Entidad de que se trata.
-
-Para la identificación de las dependencias y entidades del Poder Ejecutivo, así como el manejo e impresión de papelería oficial que utilicen éstas, o el material y publicidad de los eventos, queda prohibido, utilizar eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
+De igual manera, queda prohibido el uso de eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
 
 ###### Artículo 7.
 
@@ -187,13 +211,13 @@ Para la identificación institucional de los bienes inmuebles y edificios públi
 
 El Poder Legislativo deberá utilizar como imagen institucional oficial el Escudo Oficial del Congreso del Estado de Durango, su lema, logotipo y los colores institucionales previstos en la fracción II del artículo 4 de esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 9.
 
-El Poder Legislativo y sus dependencias, solo podrán incluir en sus documentos, publicaciones y demás material impreso, así como audiovisual que usen de carácter oficial en el uso de sus atribuciones, su lema, logotipo y el Escudo del Poder Legislativo del Estado y de forma exclusiva y conjunta los colores institucionales que regula la fracción II del artículo 4 de esta ley.
+Para el manejo e impresión de papelería oficial que utilicen el Poder Legislativo y sus dependencias para su identificación, o el material y publicidad de los eventos en lo (sic) que se usen el lema, logotipo y el Escudo del Estado, se deberán respetar las características y tipografía regulada por la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango. Además del uso del Escudo oficial del Estado, los entes deberán utilizar de forma exclusiva los colores institucionales que regula la fracción II del artículo 4 de esta ley y solamente podrán adicionar bajo el logotipo la referencia oficial de la Dependencia o Entidad de que se trata.
 
-El Poder Legislativo y sus dependencias, solamente podrán adicionar la referencia oficial de la Dependencia de que se trata.
-
-Para la identificación de las dependencias del Poder Legislativo, así como el manejo e impresión de papelería oficial que utilicen éstas, o el material y publicidad de los eventos, queda estrictamente prohibido, utilizar eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
+De igual manera, queda prohibido el uso de eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
 
 ###### Artículo 10.
 
@@ -205,13 +229,13 @@ Para la identificación institucional de los bienes inmuebles y edificios públi
 
 El Poder Judicial deberá utilizar como imagen de identidad institucional Oficial el Escudo del Estado de Durango, pudiendo utilizar además el Escudo Oficial del Poder Judicial del Estado de Durango, su lema, logotipo y de forma exclusiva los colores institucionales que regula la fracción II del artículo 4 de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 12.
 
-El Poder Judicial y sus órganos, solo podrán incluir en sus documentos, publicaciones y demás material impreso, así como audiovisual que usen de carácter oficial en el uso de sus atribuciones, su lema, logotipo, el Escudo del Estado respetando sus características y tipografía regulada por la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango, en su caso el Escudo del Poder Judicial del Estado y de forma exclusiva y conjunta los colores institucionales que regula la fracción II del artículo 4 de esta Ley.
+Para el manejo e impresión de papelería oficial que utilicen el Poder Judicial y sus órganos para su identificación, o el material y publicidad de los eventos en lo (sic) que se usen el lema, logotipo y el Escudo del Estado, se deberán respetar las características y tipografía regulada por la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango. Además del uso del Escudo oficial del Estado, los entes deberán utilizar de forma exclusiva los colores institucionales que regula la fracción II del artículo 4 de esta ley y solamente podrán adicionar bajo el logotipo la referencia oficial de la Dependencia o Entidad de que se trata.
 
-El Poder Judicial y sus órganos, solamente podrán adicionar la referencia oficial de la Dependencia de que se trata.
-
-Para la identificación de las distintas áreas del Poder Judicial, así como el manejo e impresión de papelería oficial que utilicen éstas, o el material y publicidad de los eventos, queda estrictamente prohibido, utilizar eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
+De igual manera, queda prohibido el uso de eslóganes e imágenes que tengan relación directa con los emblemas de los partidos políticos nacionales o locales, o asociación política.
 
 ###### Artículo 13.
 
@@ -225,11 +249,11 @@ Los Ayuntamientos utilizarán como imagen de identidad institucional el Escudo M
 
 Solamente podrá adicionarse, la referencia oficial de la Dirección Municipal de que se trata, sin que pueda señalarse el periodo de la administración municipal, leyenda o inscripción de cualquier tipo. En este tenor, no podrán utilizarse colores que sean de identificación o asociación con el partido político que se encuentre en ejercicio del poder público.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-Será aplicable lo dispuesto en el artículo anterior respecto a documentos, publicaciones y demás material impreso, así como audiovisual, que sea usado de carácter oficial y de difusión en el uso de sus atribuciones.
-
-Los municipios del Estado podrán utilizar el Escudo del Estado de Durango, cuando así se considere, respetando sus características y tipografía en términos de la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango.
+Los municipios del Estado podrán utilizar el Escudo del Estado de Durango, respetando sus características y tipografía en términos de la Ley sobre el Escudo, la Bandera y el Himno del Estado de Durango, así como los colores institucionales que regula la fracción II, del artículo 4 de esta Ley, cuando se trate del manejo e impresión de papelería oficial que utilicen para su identificación como autoridad municipal
 
 ###### Artículo 16.
 
@@ -273,17 +297,33 @@ En el caso de la creación de un Municipio contemplado en la Constitución del E
 
 Los documentos administrativos o papelería oficial referidos en esta Ley, podrán llevar impreso como parte del contenido del texto, el año conmemorativo al cuál se quiera hacer alusión, evitando desperdicio de papel y se obtenga el ahorro económico por este concepto.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 23 Bis.
+
+Quedan exceptuados del cumplimiento de las obligaciones de imagen institucional establecidas en esta Ley, los bienes inmuebles y edificios públicos que, por su finalidad, naturaleza o carácter oficial, tengan justificadas la identificación e imagen distintas a las instituidas en esta ley; tales como museos y tiendas gubernamentales, así como aquellos considerados como monumentos históricos o artísticos, y los muebles, inmuebles y elementos de equipamiento urbano y señalética de tránsito, protección civil, salud y demás materias cuya regulación de códigos de identificación corresponda a leyes, Normas Oficiales y demás regulación específica.
+
+Para la validación y registro de las excepciones a que hace referencia el presente artículo, El ente público en cuestión deberá comunicarlo mediante escrito justificativo al Órgano Interno de Control respectivo, mismo que deberá, en su caso, validar y registrar dicha excepción.
+
 ### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 24.
 
 Para determinar las sanciones administrativas para los servidores públicos que incumplan las disposiciones establecidas en la presente ley, se atenderá a lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 25.
+
+Los órganos internos de control de los entes públicos serán los responsables de la revisión del cumplimiento de las disposiciones de esta ley, así como para la imposición de sanciones administrativas en caso de inobservancia, ello con independencia de las consecuencias civiles, penales o de cualquier otra naturaleza legal que, con motivo del incumplimiento de la presente ley, pudieran derivarse, y cuyo conocimiento corresponde a las autoridades competentes de tales materias.
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente decreto entrará en vigor el 1 de septiembre de 2019 para los 39 Ayuntamientos del Estado, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
-SEGUNDO.- El presente decreto entrará en vigor el día 1 de enero de 2023 para los Poderes Ejecutivo, Legislativo y Judicial así como para los órganos constitucionales autónomos, previa publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+SEGUNDO.- El presente decreto entrará en vigor el día 1 de enero de 2025 para los Poderes Ejecutivo, Legislativo y Judicial así como para los órganos constitucionales autónomos, previa publicación en el Periódico Oficial del Gobierno del Estado
 
 TERCERO.- Los entes públicos, a través del área que corresponda, dictará las medidas reglamentarias y administrativas que correspondan en un plazo que no exceda de 90 días a partir de la entrada en vigor que corresponda.
 
@@ -316,3 +356,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 301.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE IMAGEN INSTITUCIONAL, PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
