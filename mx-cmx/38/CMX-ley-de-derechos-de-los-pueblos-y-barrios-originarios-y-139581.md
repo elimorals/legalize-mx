@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-derechos-de-los-pueblos-y-barrios-originarios-y-139581"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-20"
-last_updated: "2019-12-20"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139581&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-12-18"
 
 LEY DE DERECHOS DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el número 246 de la Gaceta Oficial de la Ciudad de México, el viernes 20 de diciembre de 2019.
 
@@ -724,13 +724,21 @@ Las mujeres indígenas tienen derecho al reconocimiento, protección y goce de t
 
 La mujer y el hombre indígenas son iguales en derechos. Las autoridades de la Ciudad adoptarán medidas para garantizar su igualdad sustantiva de trato y oportunidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 45.
 
-Vida libre de violencia
+Vida libre de violencia.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 22 DE DICIEMBRE DE 2022)</small>
 
 1. Las mujeres de los pueblos, barrios y comunidades, independiente de su edad o condición, tienen derecho a una vida libre de violencia. El Gobierno de la Ciudad adoptará medidas para asegurar que las mujeres gocen de protección y garantías plenas contra todas las formas de violencia y discriminación. Las autoridades se conducirán con la debida diligencia para prevenir, investigar, sancionar y reparar integralmente las violaciones a sus derechos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2022)</small>
+
 2. Las mujeres de los pueblos, barrios y comunidades que sean víctimas directas o indirectas de cualquier tipo de violencia, de conformidad con las leyes en la materia, con perspectiva de género e interculturalidad y mediante los mecanismos adecuados, tendrán derecho a:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 22 DE DICIEMBRE DE 2022)</small>
 
 I. Ser tratadas con respeto a su dignidad y al ejercicio pleno de sus derechos;
 
@@ -740,7 +748,9 @@ III. Recibir información veraz, suficiente y adecuada que les permita decidir s
 
 IV. Contar con asesoría y representación jurídica gratuita y expedita;
 
-V. Recibir información, atención y acompañamiento médico y psicológico;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
+
+V. Recibir información, atención y acompañamiento médico y psicológico, especialmente cuando se trate de atención gineco-obstétrica;
 
 VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia, en las casas de emergencia y los centros de refugio destinados para tal fin. En caso de víctimas de trata en sus diferentes modalidades, las mujeres recibirán atención integral con sus hijas e hijos en refugios especializados;
 
@@ -919,3 +929,13 @@ Palacio Legislativo del Congreso de la Ciudad de México, a los veintiséis día
 POR LA MESA DIRECTIVA.- DIPUTADA ISABELA ROSALES HERRERA, PRESIDENTA.- DIPUTADA MARTHA SOLEDAD VENTURA ÁVILA, SECRETARIA.- DIPUTADA MARGARITA SALDAÑA HERNÁNDEZ, SECRETARIA.- (Firmas)
 
 Con fundamento en lo dispuesto por los artículos 122, apartado A, fracción III de la Constitución Política de los Estados Unidos Mexicanos; 32, apartado C, numeral 1, inciso a) de la Constitución Política de la Ciudad de México; 2 párrafo segundo, 3 fracciones XVII y XVIII, 7 párrafo primero, 10 fracción II, 12 y 21 párrafo primero de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los dieciocho días del mes de diciembre del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUIZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTÍZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, LA LEY DE DERECHOS DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO Y LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO PARA PREVENIR LA VIOLENCIA OBSTÉTRICA A LAS MUJERES INDÍGENAS”.]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México y en consecuencia sea publicado en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del siguiente día de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
