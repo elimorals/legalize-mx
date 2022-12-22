@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-y-acciones-urbanisticas-del-estado-3839
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2017-12-29"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 25 de febrero de 2004.
 
@@ -321,9 +321,11 @@ Los Ayuntamientos, en el ámbito de sus respectivas competencias, expedirán los
 
 Los actos jurídicos materia de esta Ley, sólo podrán realizarse mediante autorización municipal o de la autoridad que resulte competente de conformidad con los convenios celebrados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 7.
 
-En todo lo no previsto en esta Ley, serán aplicables supletoriamente, la Ley Orgánica Municipal, la Ley de Planeación para el Desarrollo del Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Agua y Saneamiento del Estado de Puebla, el Código de Defensa Social, el de Procedimientos en Materia de Defensa Social, el Código Civil y el de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+En todo lo no previsto en esta Ley, serán aplicables supletoriamente, la Ley Orgánica Municipal, la Ley de Planeación para el Desarrollo del Estado de Puebla, la Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Puebla, la Ley del Agua para el Estado de Puebla, el Código Penal del Estado Libre y Soberano de Puebla, el Código Nacional de Procedimientos Penales, el Código Civil y el de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES, SUS ATRIBUCIONES Y DE LOS ÓRGANOS AUXILIARES
 
@@ -1652,3 +1654,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA, Y EL ARTÍCULO 7 DE LA LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
