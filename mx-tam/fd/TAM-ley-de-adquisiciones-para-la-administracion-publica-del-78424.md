@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2022-07-01"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -357,9 +357,7 @@ V. Demostrar su solvencia económica y capacidad para la producción y suministr
 
 VI. Acreditar el cumplimiento de las normas sobre inscripción o registro que exijan las disposiciones de orden fiscal o administrativo;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
-
-VII. Exhibir Constancia de Antecedentes de No Corrupción; y
+VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 VIII. Pagar los derechos que establezca la ley respectiva.
 
@@ -1260,3 +1258,15 @@ SEGUNDO. En un plazo de 30 días, la Fiscalía General de Justicia del Estado, d
 TERCERO. La Secretaría de Finanzas realizará los ajustes conducentes que deriven del presente Decreto, a los ordenamientos legales correspondientes.
 
 CUARTO. Los recursos que se obtengan por el cobro del derecho relativo a la expedición de la Constancia de Antecedentes de No Corrupción se destinarán al fortalecimiento de las atribuciones, facultades y obligaciones propias de la Fiscalía Especializada en Combate a la Corrupción.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-501 MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
