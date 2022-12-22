@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2022-10-21"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -128,6 +128,8 @@ VIII. El desarrollo de la enseñanza e investigación científica y tecnológica
 
 IX. La garantía de seguridad sanitaria a todas las personas en esta entidad.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2022)
+
 ###### Artículo 5.
 
 Para los efectos del derecho a la salud se consideran, entre otros, los siguientes servicios básicos:
@@ -154,7 +156,9 @@ X. La disponibilidad de medicamentos y otros insumos esenciales para la salud, e
 
 XI. La promoción del mejoramiento de la nutrición y de las condiciones de alimentación, especialmente en materia del combate a la obesidad y los trastornos alimentarios;
 
-XII. La asistencia médica a los grupos de atención prioritaria, de manera especial, los pertenecientes a las comunidades indígenas, las niñas y niños, las personas mayores en áreas de atención geriátrica y personas con discapacidad;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XII. La asistencia médica a los grupos de atención prioritaria, de manera especial, las personas de identidad indígena, afrodescendientes, las niñas y niños, las mujeres y personas con capacidad de gestar, las personas mayores en áreas de atención geriátrica, personas con discapacidad, y todas aquellas reconocidas (sic) la Constitución Política de la Ciudad de México, así como a los integrantes de los pueblos, barrios originarios y comunidades indígenas residentes.
 
 XIII. La atención integral del consumo de sustancias psicoactivas, particularmente al tabaco, la cannabis, el alcohol y la farmacodependencia;
 
@@ -1274,11 +1278,15 @@ IX. Las demás que le señalen otras leyes y disposiciones aplicables.
 
 ### CAPÍTULO VI. ATENCIÓN MATERNO-INFANTIL
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2022)
+
 ###### Artículo 64.
 
 La atención a la salud materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención digna a las mujeres y personas embarazadas, sin violencia ni discriminación y con perspectiva de género y derechos humanos durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
+
+I. La atención digna a las mujeres y personas embazadas, sin violencia ni discriminación y con perspectiva de género, interseccionalidad, derechos humanos y perspectiva intercultural durante el embarazo, el parto y el puerperio;
 
 II. La atención de niñas y niños, así como la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y de su correcta nutrición. Para el cumplimiento de esto último, la Secretaría dará a conocer, por los medios de su alcance y en el ámbito de su competencia, la importancia de la lactancia materna, así como las conductas consideradas discriminatorias que limitan esta práctica y con ello, afecten la dignidad humana de la mujer y el derecho a la alimentación de las niñas y los niños;
 
@@ -2789,3 +2797,11 @@ G.O. 21 DE OCTUBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, LA LEY DE DERECHOS DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO Y LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO PARA PREVENIR LA VIOLENCIA OBSTÉTRICA A LAS MUJERES INDÍGENAS.”]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México y en consecuencia sea publicado en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del siguiente día de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
