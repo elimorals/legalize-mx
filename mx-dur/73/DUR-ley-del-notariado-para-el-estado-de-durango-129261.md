@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-129261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-12"
-last_updated: "2022-06-26"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de abril de 2018.
 
@@ -1635,19 +1635,31 @@ Los Notarios en cumplimiento de su responsabilidad social participarán en campa
 
 Los Notarios participarán en programas de apoyos a personas de escasos recursos, de fomento a la vivienda y regularización de la tenencia de la propiedad inmueble, y otorgamiento de testamentos. En estos casos las condiciones de su participación, así como los honorarios, se acordarán en los convenios de colaboración que suscriban las autoridades correspondientes y el Colegio.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 188.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Artículo 179 BIS. En el mes de marzo de cada año se implementará una campaña de escrituración de vivienda de interés social y popular y terrenos, la cual consistirá en la prestación del servicio notarial para tal fin, a un costo reducido a la población que lo solicite. Cada año se deberá suscribir un convenio de colaboración tripartita por parte del Colegio, el Gobierno Estatal y los Gobiernos Municipales para el desarrollo de dicha campaña de escrituración. En los convenios que se celebren deberá establecerse como mínimo lo siguiente:
+
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
-
-Artículo 179 BIS. En el mes de marzo de cada año se implementará una campaña de escrituración de vivienda de interés social y popular, la cual consistirá en la prestación del servicio notarial para tal fin, a un costo reducido a la población que lo solicite.
-
-Cada año se deberá suscribir un convenio de colaboración tripartita por parte del Colegio, el Gobierno Estatal y los Gobiernos Municipales para el desarrollo de dicha campaña de escrituración.
-
-En los convenios que se celebren deberá establecerse como mínimo lo siguiente:
 
 a) Cada trámite es personal, intransferible y único;
 
-b) El trámite se limita a casas y terrenos de interés social y vivienda popular, atendiendo a las definiciones contenidas en la Ley General de Desarrollo Urbano para el Estado de Durango;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+b) El trámite se limita a viviendas y terrenos con las siguientes características:
+
+Viviendas: Con valor de hasta 32 Unidades de Medida y Actualización (UMAS) elevadas al año.
+
+Terrenos: Con valor de hasta 5 Unidades de Medida y Actualización (UMAS) elevadas al año.
+
+Así como las demás establecidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 c) Para acceder al beneficio correspondiente, deberá cumplirse con los requisitos que prevea la legislación civil.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
 Previo al inicio formal de la campaña de escrituración, el Congreso del Estado, las autoridades estatales y municipales, así como el Colegio deberán implementar un programa de socialización en el Estado acerca del objeto de este artículo.
 
@@ -2212,3 +2224,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 308.- QUE CONTIENE REFORMA AL ARTÍCULO 179 BIS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
