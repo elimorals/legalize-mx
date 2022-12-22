@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2022-10-26"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -1515,7 +1515,9 @@ Efectos y características de la prescripción.
 
 La prescripción es personal y extingue la pretensión punitiva y la potestad de ejecutar las penas y las medidas de seguridad y para ello bastará el transcurso del tiempo señalado por la ley.
 
-Los delitos de homicidio doloso, feminicidio, violación, secuestro, trata de personas, robo previsto en el artículo 328 fracciones I y II de este código, los cometidos con medios violentos como armas y explosivos; la tentativa punible de los delitos mencionados, son imprescriptibles.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Los delitos de homicidio doloso, feminicidio, violación, secuestro, trata de personas, inducción al suicidio previsto en el artículo 246 Bis, robo previsto en el artículo 328 fracciones I y II de este Código, los cometidos con medios violentos como armas y explosivos; la tentativa punible de los delitos mencionados, son imprescriptibles.
 
 > <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -2791,29 +2793,27 @@ Salvo que se trate del supuesto previsto en la fracción X del artículo 239, en
 
 Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2020)</small>
-
-I. Que el sujeto activo lo cometa por odio o aversión hacia las mujeres;
+I. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
 
 II. La víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-III. A la víctima se le hayan infligido lesiones o mutilaciones infamantes o degradantes, previas o posteriores a la privación de la vida;
+III. Que la víctima presente signos de violencia física, se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida, o actos de necrofilia;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-IV. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+IV. Existan antecedentes o datos de cualquier tipo de violencia de las previstas enunciativamente en el artículo 6 de la Ley que Garantiza a las Mujeres un (sic) Vida libre de Violencia en el Estado de Tlaxcala, que pongan en riesgo la integridad física de la víctima por parte del activo;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-V. Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+V. Cuando la víctima sea la cónyuge, concubina, o el sujeto activo haya mantenido alguna otra relación de pareja o sentimental, afectiva o de confianza con ésta;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. Existan datos que establezcan por cualquier medio, incluyendo los electrónicos que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo contra la víctima;
+VI. Existan datos que establezcan por cualquier medio, incluyendo los electrónicos que hubo amenazas, directas o indirectas, relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo contra la víctima;
 
 > <small>(REFORMADA, P.O. 12 DE JULIO DE 2017)</small>
 
@@ -2831,9 +2831,9 @@ A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta a
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter patrimonial y sucesorio.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+Toda privación de la vida de una mujer, incluso aquella que de manera inicial pareciera no haber sido causada por motivos criminales, como el suicidio o los accidentes, debe ser investigada con perspectiva de género y como probable feminicidio, entendida aquélla en los términos que establece la fracción VI, del Artículo 5, de la Ley General para la Igualdad entre Mujeres y Hombres. En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -2843,15 +2843,15 @@ Al servidor público que retarde o entorpezca maliciosamente o por negligencia l
 
 Se presumirá que existió una relación sentimental entre el sujeto activo y la víctima cuando esta sea o haya sido concubina, amasia o novia del sujeto activo o que hayan tenido una relación de hecho por la que vivieron juntos, así como por el hecho de mantener relaciones sexuales de manera reiterada.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-La pena se agravará hasta en una tercera parte, cuando la víctima sea menor de edad, se encontrare en estado de gravidez, sea persona discapacitada o adulta mayor, así como en los casos en que el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+La pena se agravará hasta en una tercera parte, cuando la víctima, en relación con el sujeto activo, sea menor de edad, se encontrare en estado de gravidez, sea persona discapacitada, adulta mayor o tenga algún vínculo de parentesco, así como en los casos en que el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 229 Bis.
 
-Si entre el activo y la víctima existió una relación sentimental, afectiva, de confianza o de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientas veinte veces el valor de la Unidad de Medida y Actualización.
+Si existió una relación que implique subordinación de la víctima o superioridad del sujeto activo, y se acredita cualquiera de los supuestos establecidos en el artículo anterior, se impondrán de cuarenta a setenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientas veinte veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -2875,13 +2875,9 @@ Si en la comisión de este delito concurre alguna circunstancia agravante de las
 
 En el caso de que el delito se cometa en términos de la fracción X, del artículo 239, no aplicará la penalidad del párrafo anterior, sino que se impondrán de cincuenta a setenta años de prisión, y multa de dos mil ciento sesenta a cuatro mil seiscientos veinte Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2017)</small>
-
 ###### Artículo 230 Bis.
 
-A quien prive de la vida a una mujer, sea su cónyuge, concubina o haya mantenido con ella alguna otra relación de pareja permanente, con conocimiento de esa relación, se le considerara feminicidio y se estará a lo dispuesto en el artículo 229 de este código.
-
-Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple intencional.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
 
@@ -3080,6 +3076,16 @@ Si el sujeto activo prestare el auxilio hasta el punto de ejecutar él mismo la 
 ###### Artículo 246.
 
 A quien induzca a otro para que se prive de la vida, se le impondrá prisión de tres a ocho años y multa de doscientas dieciséis a quinientas setenta y seis veces el valor de la Unidad de Medida y Actualización si el suicidio se consuma.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 246 Bis.
+
+Cualquier persona que ayude, preste auxilio, induzca u obligue a una mujer al suicidio, se le impondrá una pena de doce a veinticuatro años de prisión y una multa de quinientas a dos mil unidades de medida y actualización, cuando concurra cualquiera de las siguientes circunstancias:
+
+I. Que el suicidio fuera precedido por cualquier forma de violencia de las previstas en el artículo 6º de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, cometida por el sujeto activo contra la victima, o
+
+II. Que el sujeto activo se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes entre él y la víctima.
 
 ###### Artículo 247.
 
@@ -5588,6 +5594,18 @@ Se derogan todas aquellas disposiciones que se opongan al contenido del presente
 P.O. 26 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 120.- SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONAN LAS FRACCIONES VII, VIII Y IX AL ARTÍCULO 292 DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 161.- SE REFORMAN, ADICIONA Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TLAXCALA".]
 
 ###### ARTÍCULO PRIMERO.
 
