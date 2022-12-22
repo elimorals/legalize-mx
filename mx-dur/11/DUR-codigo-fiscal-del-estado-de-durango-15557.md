@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2021-12-30"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO FISCAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -857,9 +857,13 @@ XVII. Delegar en el Secretario de Finanzas y de Administración del Estado y en 
 
 XVIII. Las demás que le otorgan como autoridad fiscal, la Constitución Política del Estado, la presente ley y los demás ordenamientos fiscales.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-ARTICULO 67 BIS.- El Gobernador del Estado, durante el mes de marzo podrá otorgar subsidios que podrán ser hasta de un 80% en el pago de derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio, así como en los gastos respectivos de ejecución, multas y recargos aplicables a los trámites relacionados con la escrituración de viviendas de interés social y popular, así como de terrenos populares, de acuerdo a las características que se contienen en la Ley General de Desarrollo Urbano para el Estado de Durango; atendiendo a que estos beneficios se otorgarán únicamente al propietario de una sola vivienda o terreno.
+ARTICULO 67 BIS.- El Gobernador del Estado, durante el mes de marzo podrá otorgar subsidios que podrán ser hasta de un 80% en el pago de derechos por los servicios que presta el Registro Público de la Propiedad y del Comercio, así como en los gastos respectivos de ejecución, multas y recargos aplicables a los trámites relacionados con la escrituración de viviendas de interés social y popular, así como de terrenos populares, de acuerdo a las características que se contienen en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Durango; atendiendo a que estos beneficios se otorgarán únicamente al propietario de una sola vivienda o terreno.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+La conclusión de los trámites y pagos a cargo de los beneficiarios a que hace referencia este artículo, podrán efectuarse con posterioridad al 31 de marzo, siempre y cuando se hayan iniciado dentro de dicho mes, y se finalicen dentro del mismo año fiscal de que se trate.
 
 ###### ARTICULO 68.
 
@@ -2888,3 +2892,11 @@ P.O. 30 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. El Secretario de Finanzas y de Administración, emitirá los lineamientos a que se refiere el artículo 38 del Código Fiscal del Estado de Durango, en el término de 180 días naturales, contados a partir de que entre en vigor el presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 298.- QUE CONTIENE ADICIÓN A UN SEGUNDO PÁRRAFO Y AL ARTÍCULO 62 BIS DEL CÓDIGO FISCAL MUNICIPAL Y ADICIÓN A UN SEGUNDO PÁRRAFO AL ARTÍCULO 67 BIS DEL CÓDIGO FISCAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente decreto.
