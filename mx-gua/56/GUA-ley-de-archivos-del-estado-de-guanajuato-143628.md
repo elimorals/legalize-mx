@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-archivos-del-estado-de-guanajuato-143628"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-13"
-last_updated: "2020-07-13"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143628&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "GUA"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA RELATIVA A QUE NO SE PREVÉ LA EXISTENCIA DE UNA ESTRUCTURA ORGÁNICA Y PATRIMONIAL PARA EL ARCHIVO GENERAL DEL ESTADO, QUE PREVEA INCLUSO AL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO U ÓRGANO FUNCIONALMENTE EQUIVALENTE, QUE DEBE CONTENER LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO, EXPEDIDA MEDIANTE EL DECRETO LEGISLATIVO NÚMERO 192, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRECE DE JULIO DE DOS MIL VEINTE; POR LO QUE SE VINCULA AL CONGRESO DEL ESTADO DE GUANAJUATO PARA QUE, A MÁS TARDAR EN EL PRÓXIMO PERIODO ORDINARIO DE SESIONES, REALICE LOS AJUSTES QUE, EN SU CASO, CONSIDERE PERTINENTES EN SU LEGISLACIÓN INTERNA A FIN DE OTORGAR UNA ESTRUCTURA ORGÁNICA, FUNCIONAL Y PRESUPUESTAL AL ARCHIVO GENERAL DEL ESTADO, ACORDE CON LO MANDATADO EN EL ARTÍCULO 71 DE LA LEY GENERAL DE ARCHIVOS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el No. 139 del Periódico Oficial del Estado de Guanajuato, el lunes 13 de Julio de 2020.
 
@@ -107,9 +105,9 @@ V. Archivo de trámite: al integrado por documentos de archivo de uso cotidiano 
 
 VI. Archivo General: al Archivo General de la Nación;
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VII. ARCHIVO GENERAL DEL ESTADO: A LA UNIDAD ADMINISTRATIVA ESPECIALIZADA EN MATERIA DE ARCHIVOS, QUE TIENE POR OBJETO PROMOVER LA ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS, PRESERVAR, INCREMENTAR Y DIFUNDIR EL PATRIMONIO DOCUMENTAL, CON EL FIN DE SALVAGUARDAR SU MEMORIA DE CORTO, MEDIANO Y LARGO PLAZO, ASÍ COMO CONTRIBUIR A LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS;
+VII. Archivo General del Estado: al organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, especializado en materia de archivos;
 
 VIII. Archivo histórico: al integrado por documentos de conservación permanente y de relevancia para la memoria del Estado y los municipios, así como de la nación, cuyo carácter es público;
 
@@ -683,11 +681,11 @@ Los sujetos obligados deberán proteger la validez jurídica de los documentos d
 
 Integración y colaboración
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 50.
 
-En cada sujeto obligado deberá existir un Grupo Interdisciplinario, que estará integrado por PROFESIONALES MULTIDISCIPLINARIOS DE LA MISMA INSTITUCIÓN, REPRESENTANTES DE las áreas O SUS EQUIVALENTES, siguientes:
+En cada sujeto obligado deberá existir un Grupo Interdisciplinario integrado por los titulares de las áreas siguientes:
 
 I. Jurídica;
 
@@ -883,8 +881,6 @@ Consejo Estatal
 
 El Consejo Estatal es el órgano de coordinación del sistema estatal encargado de promover el desarrollo técnico y normativo en el manejo uniforme e integral de la administración de documentos en los sujetos obligados.
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA RELATIVA A QUE NO SE PREVÉ LA EXISTENCIA DE UNA ESTRUCTURA ORGÁNICA Y PATRIMONIAL PARA EL ARCHIVO GENERAL DEL ESTADO, QUE PREVEA INCLUSO AL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO U ÓRGANO FUNCIONALMENTE EQUIVALENTE, QUE DEBE CONTENER LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO, EXPEDIDA MEDIANTE EL DECRETO LEGISLATIVO NÚMERO 192, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRECE DE JULIO DE DOS MIL VEINTE; POR LO QUE SE VINCULA AL CONGRESO DEL ESTADO DE GUANAJUATO PARA QUE, A MÁS TARDAR EN EL PRÓXIMO PERIODO ORDINARIO DE SESIONES, REALICE LOS AJUSTES QUE, EN SU CASO, CONSIDERE PERTINENTES EN SU LEGISLACIÓN INTERNA A FIN DE OTORGAR UNA ESTRUCTURA ORGÁNICA, FUNCIONAL Y PRESUPUESTAL AL ARCHIVO GENERAL DEL ESTADO, ACORDE CON LO MANDATADO EN EL ARTÍCULO 71 DE LA LEY GENERAL DE ARCHIVOS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
 Integración
 
 ###### Artículo 66.
@@ -901,9 +897,9 @@ IV. El titular del Archivo General del Estado, quien presidirá el Consejo Estat
 
 V. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. El presidente del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, QUIEN FUNGIRÁ COMO TITULAR DE LA SECRETARÍA TÉCNICA;
+VI. El presidente del Instituto de Acceso a la Información Pública para el Estado de Guanajuato;
 
 VII. El titular de la Auditoria Superior del Estado de Guanajuato;
 
@@ -915,6 +911,10 @@ X. Un representante de los archivos privados de interés público; y
 
 XI. Un representante de la Universidad de Guanajuato.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XII. Un representante del Consejo Técnico y Científico Archivístico.
+
 Los representantes señalados en las fracciones II, III y XI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
 
 Para la designación del representante de los municipios señalado en la fracción IX y el representante de los archivos privados de interés público señalado en la fracción X se estará a lo que establezca el reglamento.
@@ -924,6 +924,10 @@ Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los ór
 Los consejeros, en sus ausencias, podrán nombrar un suplente, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la del consejero titular.
 
 Los integrantes del Consejo Estatal no recibirán remuneración alguna por su participación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+El Consejo Estatal contará con una secretaría técnica que será nombrada y removida por quien asuma la presidencia del Consejo.
 
 Regiones
 
@@ -947,9 +951,9 @@ El Consejo Estatal sesionará de manera ordinaria dos veces al año y extraordin
 
 Las convocatorias a las sesiones ordinarias contendrán cuando menos, el lugar, fecha y hora de la celebración de la sesión, el orden del día y, en su caso, los documentos que serán analizados.
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-EN PRIMERA CONVOCATORIA HABRÁ QUÓRUM ESTANDO PRESENTES LA MAYORÍA DE SUS INTEGRANTES. EN LA SEGUNDA CONVOCATORIA PODRÁ SESIONAR CON LOS MIEMBROS QUE SE ENCUENTREN PRESENTES.
+En primera convocatoria habrá quórum estando presentes la mayoría de sus integrantes; en segunda convocatoria se podrá sesionar con los miembros que se encuentren presentes. Tanto en la primera como en la segunda convocatoria deberá estar presente el presidente o su suplente.
 
 Tomarán sus acuerdos por mayoría simple de votos de sus miembros presentes en la sesión y, en caso de empate, el presidente tendrá el voto dirimente.
 
@@ -1073,11 +1077,11 @@ Sin perjuicio de lo dispuesto por el artículo 84 de la Ley General de Archivos,
 
 Conformación
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 79.
 
-Los sujetos obligados deberán determinar los documentos que constituyen su patrimonio documental, QUE CONFORMARÁN EL PATRIMONIO DOCUMENTAL DEL ESTADO.
+Los sujetos obligados deberán determinar los documentos que constituyen su patrimonio documental.
 
 Protección
 
@@ -1203,7 +1207,255 @@ Obligaciones de los usuarios
 
 Los usuarios de los archivos deberán respetar las disposiciones legales para la consulta y conservación de los documentos.
 
-## TITULO SEXTO. INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO SEXTO. ARCHIVO GENERAL DEL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo I. Organización y funcionamiento
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Naturaleza Jurídica y objeto
+
+###### Artículo 96
+
+1. Se constituye el Archivo General del Estado como un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, especializado en materia de archivos, que tiene por objeto promover la administración homogénea de los archivos, preservar, incrementar y difundir el patrimonio documental del estado, con el fin de salvaguardar la memoria de corto, mediano y largo plazo, así como contribuir a la transparencia y rendición de cuentas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Atribuciones
+
+###### Artículo 96
+
+2. Para el cumplimiento de su objeto, el Archivo General del Estado tiene las siguientes atribuciones:
+
+I. Fungir, mediante su titular, como presidente del Consejo Estatal;
+
+II. Organizar, conservar y difundir el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones jurídicas aplicables;
+
+III. Difundir y proyectar el derecho a la memoria del Estado, en coordinación con los sujetos obligados;
+
+IV. Elaborar, actualizar y publicar en formatos abiertos los inventarios documentales de cada fondo en su acervo;
+
+V. Fungir como órgano de consulta de los sujetos obligados, en materia archivística;
+
+VI. Llevar a cabo el registro y validación de los instrumentos de control archivístico de los sujetos obligados del Poder Ejecutivo;
+
+VII. Emitir el dictamen de baja documental o de transferencia secundaria para los sujetos obligados del Poder Ejecutivo, los cuales se considerarán de carácter histórico;
+
+VIII. Autorizar, recibir y resguardar las transferencias secundarias de los documentos de archivo con valor histórico producidos por el Poder Ejecutivo;
+
+IX. Analizar la pertinencia de recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo;
+
+X. Recibir transferencias de documentos de archivo con valor histórico de sujetos obligados distintos al Poder Ejecutivo;
+
+XI. Analizar y aprobar, en su caso, las peticiones de particulares que posean documentos y soliciten sean incorporados de manera voluntaria a acervos del Archivo General;
+
+XII. Establecer técnicas de reproducción que no afecten la integridad física de los documentos;
+
+XIII. Proveer, cuando los documentos históricos presenten un deterioro físico que impida acceder a ellos directamente, su conservación y restauración que permita su posterior reproducción que no afecte la integridad del documento;
+
+XIV. Desarrollar investigaciones encaminadas a la organización, conservación y difusión del patrimonio documental que resguarda;
+
+XV. Emitir dictámenes técnicos sobre archivos en peligro de destrucción o pérdida, y las medidas necesarias para su rescate;
+
+XVI. Establecer mecanismos de cooperación y asesoría con otras instituciones gubernamentales y privadas;
+
+XVII. Publicar y distribuir obras y colecciones para apoyar el conocimiento de su acervo, así como para promover la cultura archivística, de consulta y aprovechamiento del patrimonio documental de la (sic) Estado;
+
+XVIII. Diseñar e implementar programas de capacitación en materia de archivos;
+
+XIX. Promover la incorporación de la materia archivística en programas educativos de diversos niveles académicos;
+
+XX. Definir el procedimiento para el acceso a los documentos contenidos en sus archivos históricos;
+
+XXI. Custodiar el patrimonio documental del Estado de su acervo;
+
+XXII. Realizar la declaratoria de patrimonio documental del Estado;
+
+XXIII. Realizar la declaratoria de interés público respecto de documentos o archivos privados;
+
+XXIV. Coadyuvar con las autoridades competentes en la recuperación y, en su caso, incorporación a sus acervos de archivos que tengan valor histórico;
+
+XXV. Expedir copias certificadas, transcripciones paleográficas y dictámenes de autenticidad de los documentos existentes en sus acervos;
+
+XXVI. Determinar los procedimientos para proporcionar servicios archivísticos al público usuario;
+
+XXVII. Brindar asesoría técnica sobre gestión documental y administración de archivos;
+
+XXVIII. Fomentar el desarrollo profesional de archivólogos, archivónomos y archivistas, a través de convenios de colaboración o concertación con autoridades e instituciones educativas públicas o privadas, nacionales o extranjeras;
+
+XXIX. Proporcionar los servicios complementarios que determinen las disposiciones reglamentarias y demás disposiciones jurídicas aplicables;
+
+XXX. Suscribir convenios en materia archivística, en coordinación con las autoridades competentes en la materia;
+
+XXXI. Coordinar acciones con las instancias competentes a fin de prevenir y combatir el tráfico ilícito del patrimonio documental del Estado;
+
+XXXII. Organizar y participar en eventos en la materia; y
+
+XXXIII. Las demás establecidas en esta Ley y en otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Integración
+
+###### Artículo 96
+
+3. Para la realización de sus atribuciones, objetivos y fines, el Archivo General del Estado contará como mínimo con los siguientes órganos:
+
+I. Órgano de Gobierno;
+
+II. Dirección General;
+
+III. Consejo Técnico y Científico Archivístico; y
+
+IV. Órgano Interno de Control.
+
+El Consejo Técnico y Científico Archivístico operará conforme a los lineamientos emitidos para tal efecto por el Órgano de Gobierno.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo II. Órgano de Gobierno
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Atribuciones
+
+###### Artículo 96
+
+4. El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado que, además de lo previsto en la Ley Orgánica del Poder Ejecutivo del Estado, tendrá las siguientes atribuciones:
+
+I. Evaluar la operación administrativa, así como el cumplimiento de los objetivos y metas del Archivo General del Estado;
+
+II. Emitir los lineamientos para el funcionamiento del Consejo Técnico y Científico Archivístico; y
+
+III. Las demás previstas en otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Integración
+
+###### Artículo 96
+
+5. El Órgano de Gobierno estará conformado por los siguientes integrantes propietarios:
+
+I. La Secretaría de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Finanzas, Inversión y Administración;
+
+III. La Secretaría de Educación;
+
+IV. El Instituto Estatal de la Cultura;
+
+V. La Secretaría de la Transparencia y Rendición de Cuentas; y
+
+VI. El Instituto de Innovación, Ciencia y Emprendimiento para la Competitividad para el Estado de Guanajuato.
+
+Los integrantes del Órgano de Gobierno deberán tener, por lo menos, nivel de Subsecretario o su equivalente. Por cada miembro propietario habrá un suplente que deberá tener nivel, por lo menos, de director general o su equivalente.
+
+La presidencia o a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz, pero sin voto.
+
+Los integrantes del Órgano de Gobierno no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo III. Director General
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Atribuciones
+
+###### Artículo 96
+
+6. El Director General, además de las previstas en (sic) Ley Orgánica del Poder Ejecutivo, tendrá las siguientes atribuciones:
+
+I. Supervisar que la actividad del Archivo General del Estado cumpla con las disposiciones legales, administrativas y técnicas aplicables, así como con los programas y presupuestos aprobados;
+
+II. Proponer al Órgano de Gobierno las medidas necesarias para el funcionamiento del Archivo General del Estado;
+
+III. Proponer al Órgano de Gobierno el proyecto de Reglamento Interior;
+
+IV. Nombrar y remover a los servidores públicos del Archivo General del Estado, cuyo nombramiento no corresponda al Órgano de Gobierno; y
+
+V. Las demás previstas en esta Ley y en otras disposiciones jurídicas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Nombramiento y remoción
+
+###### Artículo 96
+
+7. El Director General será nombrado y removido por el Gobernador del Estado y, durante su gestión, no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo IV. Consejo Técnico y Científico Archivístico
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Integración
+
+###### Artículo 96
+
+8. El Archivo General del Estado contará con un Consejo Técnico y Científico Archivístico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+El Consejo Técnico y Científico Archivístico estará formado por trece integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+
+Los integrantes del Consejo Estatal no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo V. Órgano Interno de Control
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Control y vigilancia
+
+###### Artículo 96
+
+9. El control y vigilancia del Archivo General del Estado estará a cargo del Órgano Interno de Control, conforme a las disposiciones jurídicas correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo VI. Patrimonio del Archivo General del Estado
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Integración del patrimonio
+
+###### Artículo 96
+
+10.- El patrimonio del Archivo General del Estado se integrará con:
+
+I. Los recursos que le sean asignados anualmente conforme al Presupuesto General de Egresos del Estado correspondiente;
+
+II. Los derechos y bienes muebles e inmuebles que sean de su dominio y que adquieran en el futuro;
+
+III. Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las dependencias y entidades del Gobierno Federal y Estatal le otorguen;
+
+IV. Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
+
+V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+
+VI. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
+
+VII. Los demás bienes, derechos e ingresos que obtenga por cualquier título jurídico.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo VII. Relaciones laborales
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Regulación laboral
+
+###### Artículo 96
+
+11. Las relaciones laborales entre el Archivo General del Estado y sus trabajadores deben sujetarse a lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y las demás disposiciones jurídicas aplicables.
+
+## TÍTULO SÉPTIMO. INFRACCIONES Y SANCIONES
 
 ### Capítulo único. Infracciones y sanciones
 
@@ -1223,9 +1475,9 @@ IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, 
 
 V. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de un empleo, cargo o comisión;
 
-(NOTA: EL 21 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO Y DÉCIMO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 231/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE ABRIL DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental AUTORIZADOS POR EL GRUPO INTERDISCIPLINARIO, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos; y
+VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos; y
 
 VII. Cualquier otra acción u omisión que contravenga lo dispuesto en esta Ley y demás disposiciones aplicables que de ellos deriven.
 
@@ -1310,3 +1562,15 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 187 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ARCHIVOS DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado y demás sujetos obligados, deberán emitir las adecuaciones reglamentarias y normativas para ajustarlas a lo dispuesto por el presente decreto, dentro del plazo de noventa días.
+
+En el mismo plazo, la Secretaría de Finanzas, Inversión y Administración y demás dependencias que conforme a sus atribuciones deban intervenir, llevarán a cabo las gestiones necesarias para que se autorice la estructura orgánica y funcional del Archivo General del Estado, y se efectúen las previsiones y adecuaciones presupuestarias y financieras, para su adecuada operación.
