@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2019-08-22"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -251,9 +251,9 @@ II. El proyecto de Decreto deberá incluir:
 
 A) La descripción de los rubros de ingresos armonizados hasta su tercer nivel, conforme a lo aprobado por el CONAC;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-B) Las cuotas, tarifas y tasas por cada uno de los rubros de ingresos. Lo dispuesto en este inciso no será aplicable para el caso de la Iniciativa de Ley de Ingresos del Gobierno del Estado;
+B) Las cuotas, tarifas y tasas por cada uno de los rubros de ingresos;
 
 C) Los montos estimados por cada uno de los rubros de ingresos, para el ejercicio fiscal correspondiente, clasificados por su origen;
 
@@ -306,6 +306,32 @@ Deberán establecer los criterios generales de política económica y las medida
 ###### ARTÍCULO 12.
 
 La Secretaría, realizará los estudios pertinentes con el propósito de formular una política de gasto público razonable respecto al desenvolvimiento de los indicadores de desempeño e impacto en la sociedad y de contar con criterios financieros, que permitan incrementar la eficiencia en el aprovechamiento de los arbitrios del Estado, los cuales deberán de ser observadas (sic) en todos los Entes Públicos en el ámbito estatal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 12 BIS. El Congreso del Estado, en el Presupuesto de Egresos, podrá autorizar presupuesto multianual para obra pública. Las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos y no podrán exceder los ejercicios fiscales que correspondan al ejercicio de gobierno de la administración que los contrate.
+
+Los ejecutores del gasto podrán celebrar contratos de obras públicas que requieran presupuesto multianual, durante el ejercicio fiscal, siempre que:
+
+I. Justifiquen que su celebración representa ventajas económicas o que sus términos o condiciones son más favorables;
+
+II. Justifiquen el plazo de la contratación y que el mismo no afectará negativamente la competencia económica en el sector de que se trate;
+
+III. Identifiquen el gasto corriente o de inversión correspondiente; y,
+
+IV. Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
+
+Las dependencias requerirán la autorización presupuestaria de la Secretaría de Finanzas y Administración para la celebración de los contratos a que se refiere este artículo, en los términos del reglamento correspondiente. En el caso de las entidades, se sujetarán a la autorización de su titular conforme a las disposiciones aplicables. El o los contratos de las obras que requieran presupuesto multianual, no podrán rebasar, por sí o en conjunto, tope presupuestal autorizado por el Congreso del Estado.
+
+Las dependencias y entidades deberán informar a la Secretaría de Contraloría sobre la celebración de los contratos a que se refiere este artículo, dentro de los 30 días posteriores a su formalización.
+
+El Gobierno del Estado, a través de los ejecutores del gasto y previa validación de la Secretaría de Finanzas y Administración, expedirá Certificados de Avance de Obra para documentar los compromisos de pago amparados en estimaciones por obra ejecutada, conforme a los términos pactados en el contrato respectivo.
+
+Los ejecutores del gasto deberán incluir en los informes trimestrales un reporte sobre el monto total erogado durante el periodo, correspondiente a los contratos a que se refiere este artículo, así como incluir las previsiones correspondientes en sus ante proyectos de presupuesto para el siguiente ejercicio fiscal.
+
+El proyecto de Presupuesto de Egresos deberá prever, en un capítulo específico, los compromisos multianuales y las previsiones de gasto correspondientes que deriven de contratos de obra pública, y estarán sujetos a la disponibilidad presupuestaria. Los compromisos excedentes no cubiertos tendrán preferencia respecto de otras previsiones de gasto en cada ejercicio fiscal.
+
+La autorización para contratar obra pública con presupuesto multianual contenida en un Presupuesto de Egresos, tendrá vigencia durante los ejercicios fiscales subsecuentes, sin exceder del periodo que corresponda a la administración en turno.
 
 APARTADO A: ÁMBITO ESTATAL
 
@@ -1616,3 +1642,63 @@ P.O. 22 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Ingresos de Origen Federal que percibirá el Gobierno del Estado, referidos en el artículo 1º codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5 de la Ley de Ingresos contenida en el presente Decreto, podrán modificarse conforme a lo siguiente:
+
+I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2023;
+
+II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2023;
+
+III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por a los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
+
+IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
+
+V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
+
+Al conocerse los montos referidos en este artículo, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2023.
+
+TERCERO. Con respecto a los ingresos establecidos en el presente Decreto, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en el mismo.
+
+CUARTO. Cuando algún gravamen no se encuentre previsto en la Ley de Ingresos contenida en el presente Decreto, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en la Ley de Ingresos contenida en el presente Decreto, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+
+QUINTO. El 35 por ciento de honorarios referidos en la Ley de Ingresos contenida en el presente Decreto, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad.
+
+SEXTO. Por lo que corresponde a las tres primeras columnas (lado izquierdo) del artículo 1° de la Ley de Ingresos contenida en el presente Decreto, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el l Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado.
+
+SÉPTIMO. Se implementará el Programa "Apoyo de Escrituración Social" por parte del Gobierno del Estado a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo durante todo el Ejercicio Fiscal 2023, en materia de Derechos por Servicios de la Dirección del Registro Público de la Propiedad y Derechos por Servicios de Catastro, que consiste en otorgar un estímulo fiscal del 100% de los Derechos que estén obligados a pagar los contribuyentes en materia de inscripción de documentos de propiedad, certificado de libertad de gravamen, desglose de predios, valuación, revisión de aviso y/o cancelación (traslado de dominio) y certificados catastrales siempre y cuando se dé cumplimiento a lo siguiente:
+
+I. Tengan como objetivo la Regularización de Asentamientos Humanos a través de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, el Registro Agrario Nacional y el Instituto Nacional del Suelo Sustentable;
+
+II. Se hayan cubierto en especie o en pago las Áreas de donación a las que están obligados los interesados al momento de fraccionar;
+
+III. Los beneficiarios no cuenten con vivienda propia;
+
+IV. La familia que ocupe un predio no sea propietaria de otro inmueble o tenga posesión de terrenos en otros asentamientos irregulares y no sea beneficiada por la regulación de más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano;
+
+V. Se encuentren dentro de los municipios de alta y muy alta marginación;
+
+VI. En ningún caso el estímulo fiscal a que se refiere este artículo dará lugar a devolución, compensación, acreditación o saldo a favor alguno;
+
+VII. La solicitud del estímulo fiscal a que se refiere el presente programa no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa;
+
+VIII. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del programa de estímulo fiscal; y,
+
+IX. Los demás que considere necesarios el Instituto Registral y Catastral del Estado de Michoacán de Ocampo.
+
+OCTAVO. Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2023, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital. El monto del derecho a pagar por las citadas licencias será de $2,500.00 (Dos mil quinientos pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2023.
+
+NOVENO. Para efecto de lo señalado en la Ley de Ingresos contenida en el presente Decreto, cuando esta haga mención del refrendo anual de circulación, la Secretaría de Finanzas y Administración, de acuerdo a las disposiciones legales aplicables, emitirá las reglas de carácter general que correspondan.
+
+DÉCIMO. Las facultades de coordinación de recaudación de ingresos, reservadas a la Subsecretaría de Ingresos a través de las oficinas recaudadoras del Estado, serán transferidas al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, cuando se constituya como un órgano desconcentrado de la Secretaría de Finanzas y Administración, una vez que entre en vigor la Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
+
+DÉCIMO PRIMERO. Los Organismos Públicos Descentralizados que perciban ingresos por venta de bienes y prestación de servicios, deberán reportarlos al Sistema de Control de Ingresos de Entidades Paraestatales de la Secretaría de Finanzas y Administración, a más tardar el día 5 del mes siguiente al que se trate, atendiendo al Acuerdo de Austeridad, Ordenamiento y Transparencia del Gasto Público de la Administración Pública del Estado de Michoacán de Ocampo, Período 2021-2027 y sus Lineamientos, con la finalidad de contar con los elementos que permitan la trazabilidad ingreso-gasto de dichos Organismos.
+
+DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, con los respectivos anexos.
+
+DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
