@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2022-09-01"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -53,9 +53,13 @@ LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MIC
 
 La presente Ley es de orden público e interés social y siendo reglamentaria del artículo 129 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo tiene por objeto regular el gasto y las acciones relativas a la planeación, programación, presupuestación, seguimiento, evaluación, licitación, adjudicación, ejecución, conservación, mantenimiento, remodelación, demolición y control de las obras públicas y los servicios relacionados con las mismas que, por sí o por conducto de terceros, realicen:
 
-I. Las dependencias del Poder Ejecutivo, señaladas en el artículo 18 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. Las entidades a que se refiere el artículo 5° de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+I. Las dependencias del Poder Ejecutivo, señaladas en el artículo 17 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+II. Las entidades a que se refiere el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
 III. Los ayuntamientos de los municipios del Estado; y,
 
@@ -362,6 +366,24 @@ VII. Las demás previsiones que deban tomarse en consideración según la natura
 ###### Artículo 15.
 
 En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total que incluya los factores de probables incrementos o ajuste de costos, así como de financiamientos, los cuales dependerán del tiempo que para ejecutar la obra en relación con la probable autorización se tenga, en función a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se atenderá a los costos que, en ese momento se encuentren vigentes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 15 Bis.
+
+Para la autorización presupuestaria de la Secretaría de Finanzas y Administración respecto a obras que requieran presupuesto multianual, conforme a lo dispuesto en la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo, los ejecutores del gasto deberán:
+
+I. Determinar el presupuesto total y el de cada ejercicio presupuestal necesario, sin exceder los ejercicios correspondientes a la administración en turno;
+
+II. En la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que en su momento se encuentren vigentes, tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos;
+
+III. El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente;
+
+IV. La asignación presupuestal aprobada para cada contrato servirá de base para otorgar, en su caso, el porcentaje pactado por concepto de anticipo;
+
+V. Observar lo dispuesto en el artículo 12 Bis de la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo; y,
+
+VI. La información sobre estos contratos se difundirá a través de la página de internet de la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo.
 
 ### CAPITULO SEGUNDO. DEL PADRON DE CONTRATISTAS DE OBRAS PUBLICAS
 
@@ -1536,3 +1558,9 @@ P.O. 1 DE SEPTIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría, tendrá un plazo de noventa días para reformar en su caso, el Reglamento de la presente Ley, así como emitir los lineamientos o guías de elaboración de los estudios de impacto social, para dar cumplimiento con lo establecido en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 325 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 1°, Y SE ADICIONA EL ARTÍCULO 15 BIS, A LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
