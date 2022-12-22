@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2022-07-14"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -149,7 +149,9 @@ IX. La educación para la salud;
 
 X. La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad, otros trastornos de la conducta alimentaria y pie diabético, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
-XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
 
 XII. La salud ocupacional en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1593,9 +1595,11 @@ La Secretaría de Salud Pública en el Estado, en coordinación con las autorida
 
 La Secretaría de Salud Pública del Estado tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso, deberán reunir de conformidad con lo que establezcan los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 140.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
+El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características de las personas.
 
 ## TITULO NOVENO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
@@ -2881,9 +2885,11 @@ II. En caso de epidemia grave, y
 
 III. Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 299.
 
-Las Autoridades Sanitarias competentes del Estado podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
+Las Autoridades Sanitarias competentes del Estado podrán ordenar o proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades a las personas o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
 ###### ARTICULO 300.
 
@@ -3554,6 +3560,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL APARTADO C DEL ARTÍCULO 12, Y ADICIONA LA FRACCIÓN X AL APARTADO C DEL ARTÍCULO 12 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XI DEL APARTADO A DEL ARTÍCULO 4, Y LOS ARTÍCULOS 140 Y 299 DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
 
