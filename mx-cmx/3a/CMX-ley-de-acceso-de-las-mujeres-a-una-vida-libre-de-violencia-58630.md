@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2022-12-12"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -204,6 +204,8 @@ X. A la protección de su identidad y la de su familia.
 
 ### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
 Los tipos de violencia contra las mujeres son:
@@ -246,25 +248,19 @@ VI. Violencia contra los Derechos Reproductivos: Toda acción u omisión que lim
 
 La violencia contra los derechos reproductivos se concreta al no cumplir con lo establecido en el artículo 144 del Código Penal para el Distrito Federal.
 
-> <small>(ADICIONADA, G.O. 11 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VII. Violencia Obstétrica: Es toda acción u omisión que provenga de una o varias personas, que proporcionen atención médica o administrativa, en un establecimiento privado o institución de salud pública del gobierno de la Ciudad de México que dañe, lastime, o denigre a las mujeres de cualquier edad durante el embarazo, parto o puerperio, así como la negligencia, juzgamiento, maltrato, discriminación y vejación en su atención médica; se expresa por el trato deshumanizado, abuso de medicación y patologización de los procesos naturales, vulnerando la libertad e información completa, así como la capacidad de las mujeres para decidir libremente sobre su cuerpo, salud, sexualidad o sobre el número y espaciamiento de sus hijos.
+VII. Violencia Obstétrica: Es toda acción u omisión que provenga de una o varias personas, que proporcionen atención médica o administrativa, en un establecimiento privado o institución de salud pública del gobierno de la Ciudad de México que dañe, lastime, o denigre a las mujeres de cualquier edad, cultura, grupo étnico u origen durante el embarazo, parto o puerperio, así como la negligencia, juzgamiento, maltrato, discriminación y vejación en su atención médica; se expresa por el trato deshumanizado, abuso de medicación y patologización de los procesos naturales, vulnerando la libertad e información completa, así como la capacidad de las mujeres para decidir libremente sobre su cuerpo, salud, sexualidad o sobre el número y espaciamiento de sus hijos. Se caracteriza por:
 
-Se caracteriza por:
-
-a) Omitir o retardar la atención oportuna y eficaz de las emergencias y servicios obstétricos;
+a) Omitir o retardar la atención oportuna y eficaz de las emergencias y servicios obstétricos; especialmente cuando se trate de mujeres indígenas y/o afrodescendientes;
 
 b) Obligar a la mujer a parir en condiciones ajenas a su voluntad o contra sus prácticas culturales, cuando existan los medios necesarios para la realización del parto humanizado y parto natural;
 
 c) Obstaculizar el apego precoz de la niña o niño con su madre sin causa médica justificada, negándole la posibilidad de cargarle y amamantarle inmediatamente después de nacer;
 
-d) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de medicamentos o técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+d) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de medicamentos o técnicas de aceleración, sin obtener el consentimiento voluntario, culturalmente adecuado, expreso e informado de la mujer;
 
-e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; y
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE JUNIO DE 2022)</small>
-
-La violencia obstétrica se sanciona de acuerdo con lo establecido en los artículos 149, 150, 151, 151 Bis, 151 Ter, 152 y 153 del Código Penal para el Distrito Federal.
+e) Practicar el parto por vía de cesárea, existiendo condiciones para el parto natural, o; Imponer bajo cualquier medio el uso de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, culturalmente adecuado, expreso e informado de la mujer; y
 
 VIII. Violencia Feminicida: Toda acción u omisión que constituye la forma extrema de violencia contra las mujeres producto de la violación de sus derechos humanos y que puede culminar en homicidio u otras formas de muerte violenta de mujeres.
 
@@ -530,13 +526,17 @@ Así como las medidas de seguridad que determine el órgano jurisdiccional en ma
 
 Las medidas de prevención general, son aquellas que desde los distintos ámbitos de acción de las dependencias, entidades de la Ciudad de México y las Alcaldías, están destinadas a toda la colectividad y tienen como propósito evitar la comisión de conductas delictivas y otros actos de violencia contra las mujeres, así como propiciar su empoderamiento.
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 14 Bis.
 
-Serán consideradas como medidas especiales de prevención aquellas que permitan a las mujeres embarazadas, con discapacidad, de la tercera edad o afectadas por cualquiera otra condición de vulnerabilidad, el establecimiento de acciones concretas y obligatorias para que gocen de las siguientes facilidades:
+Serán consideradas como medidas especiales de prevención aquellas que permitan a las mujeres embarazadas, con discapacidad, de la tercera edad, de identidad indígena, pertenecientes a un pueblo y barrio originario o comunidad indígena residente, afrodescendiente o afectadas por cualquiera otra condición de vulnerabilidad, el establecimiento de acciones concretas y obligatorias para que gocen de las siguientes facilidades:
 
-I. Contar con una atención preferente, ágil, pronta y expedita cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier Autoridad Local;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2022)</small>
+
+I. Contar con una atención preferente, ágil, pronta, expedita y culturalmente adecuada, cuando se encuentren realizando algún trámite, solicitando algún servicio o participando de algún procedimiento ante cualquier Autoridad Local;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2013)</small>
 
 II. Ser atendidas con prontitud y diligencia por los particulares que brinden algún servicio público.
 
@@ -654,13 +654,13 @@ f) Realizar estudios estadísticos e investigaciones que permitan la elaboració
 
 V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
 La Secretaría de Salud de la Ciudad de México deberá:
 
-I. Realizar estudios estadísticos e investigaciones en materia de salud pública cuyos resultados contribuyan en la elaboración de políticas públicas para la prevención;
+I. Realizar estudios estadísticos e investigaciones en materia de salud pública con perspectiva de género e interseccionalidad cuyos resultados contribuyan en la elaboración de políticas públicas para la prevención.
 
 II. Elaborar e instrumentar mecanismos, programas y acciones tendientes a identificar y disminuir los factores de riesgo que afectan la salud de las mujeres;
 
@@ -668,11 +668,11 @@ III. Generar y difundir información sobre los derechos sexuales y reproductivos
 
 IV. Ejecutar programas especializados para prevenir las afectaciones en la salud mental de las mujeres;
 
-> <small>(REFORMADA, G.O. 29 DE JULIO DE 2010)</small>
+V. Elaborar informes semestrales de las acciones realizadas en el cumplimiento de la NOM-046-SSA2-2005 Oficiales Mexicanas en materia de salud para las mujeres,
 
-V. Elaborar informes semestrales de las acciones realizadas en el cumplimiento de la NOM-046-SSA2-2005 “Violencia familiar, sexual y contra las mujeres. Criterios para la prevención y atención” y las demás Normas Oficiales Mexicanas en materia de salud para las mujeres, y
+VI. Garantizar servicios de interpretación u otros medios adecuados, así como procurar realizar programas de sensibilización a su personal sobre la atención a mujeres pertenecientes a los Pueblos y Barrios Originarios y Comunidades Indígenas, así como a mujeres afrodescendientes y;
 
-VI. Las demás que le señalen las disposiciones legales.
+VII. Las demás que le señalen las disposiciones legales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
 
@@ -1444,27 +1444,19 @@ II. Dictar las medidas u órdenes de protección necesarias para salvaguardar la
 
 III. Las demás que le atribuyan otros ordenamientos legales.
 
-(REPUBLICADO PRIMER PÁRRAFO, G.O. 23 DE NOVIEMBRE DE 2020)
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Artículo 61 bis. La Secretaría de Salud, desde la perspectiva de género, deberá:
+###### Artículo 61 Bis.
 
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+La Secretaría de Salud, desde la perspectiva de género, la interseccionalidad y la perspectiva intercultural deberá:
 
-I.- A petición de la mujer interesada, practicar el examen que compruebe la existencia de su embarazo, así como su interrupción, en los casos relacionados con una solicitud de interrupción del mismo;
+I. A petición de la mujer interesada, practicar el examen que compruebe la existencia de su embarazo, así como su interrupción, en los casos relacionados con una solicitud de interrupción del mismo;
 
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
-
-II. Proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
-
-> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+II. Proporcionar a la mujer información imparcial, objetiva, veraz, suficiente y en su caso culturalmente adecuada sobre los procedimientos, riesgos, consecuencias y efectos; así como los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
 
 De igual manera, en el período posterior a la interrupción del embarazo, ofrecerá la orientación y apoyos necesarios para propiciar la rehabilitación personal y familiar de la mujer.
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2020)</small>
-
 La Secretaría de Salud coordinará acciones con la Fiscalía con el fin de implementar los mecanismos necesarios para el debido cumplimiento a lo establecido en esta fracción; y
-
-> <small>(ADICIONADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 III. Las demás que le atribuyan otros ordenamientos legales.
 
@@ -2153,3 +2145,11 @@ G.O. 12 DE DICIEMBRE DE 2022.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DE LA CIUDAD DE MÉXICO, LA LEY DE DERECHOS DE LOS PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES EN LA CIUDAD DE MÉXICO Y LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE LA CIUDAD DE MÉXICO PARA PREVENIR LA VIOLENCIA OBSTÉTRICA A LAS MUJERES INDÍGENAS".]
+
+PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México y en consecuencia sea publicado en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del siguiente día de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
