@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-anticorrupcion-del-estado-de-puebla-120383"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-02-11"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Trigésima Tercera Sección al Número 19 del Periódico Oficial del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -123,13 +123,17 @@ El servicio público en el Estado, se regirá por los principios rectores de leg
 
 ### CAPÍTULO I. DEL OBJETO DEL SISTEMA ESTATAL ANTICORRUPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-El Sistema Estatal tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre los entes públicos señalados en la presente Ley, en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar en el Estado de Puebla, la política estatal en la materia.
+El Sistema Estatal tiene por objeto establecer principios, bases generales, políticas públicas y procedimientos para la coordinación entre los entes públicos señalados en la presente Ley, en la prevención, detección y sanción de faltas administrativas y hechos de corrupción, así como la fiscalización y control de recursos públicos. Es una instancia cuya finalidad es establecer, articular y evaluar en el Estado de Puebla, la política estatal en la materia.
 
 Las políticas públicas establecidas por el Comité Coordinador del Sistema Nacional Anticorrupción y el Comité Coordinador del Sistema Estatal Anticorrupción son obligatorias y deberán ser implementadas por todos los entes públicos a los que se hace referencia en la presente Ley.
 
-La Secretaría Ejecutiva dará seguimiento en el Estado, a la implementación de dichas políticas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+El sistema estatal podrá denunciar o dar aviso, según corresponda al ministerio publico competente, respecto de posibles bienes que podrían ser sujetos al procedimiento de extinción de dominio.
 
 ###### ARTÍCULO 7.
 
@@ -199,9 +203,9 @@ II. El titular de la Auditoría Superior del Estado de Puebla;
 
 III. El titular de la Fiscalía Especializada de Combate a la Corrupción del Estado de Puebla;
 
-> <small>(REFORMADA, P.O.11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-IV. La persona Titular de la Secretaría de la Función Pública del Estado de Puebla;
+IV. El Titular de la Secretaría de la Función Pública;
 
 V. Un representante del Consejo de la Judicatura;
 
@@ -245,9 +249,21 @@ El Comité Coordinador Estatal se reunirá en sesión ordinaria cada tres meses.
 
 Para que el Comité Coordinador Estatal pueda sesionar es necesario que esté presente la mayoría de sus integrantes.
 
-Para el desahogo de sus reuniones, el Comité Coordinador Estatal podrá invitar a los representantes del Sistema Nacional, los Sistemas Locales y los Órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Puebla, otros entes públicos, así como a organizaciones de la sociedad civil.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Para el desahogo de sus reuniones, el Comité Coordinador Estatal invitara a los demás integrantes del Comité Estatal de Participación Ciudadana con derecho a voz; también podrán invitar a los representantes del Sistema Nacional, los Sistemas Locales y los Órganos internos de control de los organismos con autonomía reconocida en la Constitución Política del Estado Libre y Soberano de Puebla, otros entes públicos, así como organizaciones de la sociedad civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+El Comité Coordinador Estatal por acuerdo de la mayoría de sus integrantes, podrá celebrar sesiones ordinarias y extraordinarias a distancia mediante el uso de herramientas tecnológicas ante un (sic) circunstancia o situación inevitable o impredecible que esté debidamente justificada y que impida la presencia de la mayoría de sus integrantes conforme a las formalidades que al tenor previsto en la normativa de las sesiones de carácter presencial.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 El Sistema Estatal sesionará previa convocatoria del Comité Coordinador Estatal en los términos en que este último lo determine.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Las sesiones deberán difundirse haciendo uso de las tecnologías de la información y comunicación con las que se disponga para dicho fin.
 
 ###### ARTÍCULO 14.
 
@@ -321,6 +337,14 @@ De presentarse la ausencia temporal del representante, el Comité Estatal de Par
 
 El Comité Estatal de Participación Ciudadana se reunirá, previa convocatoria de su Presidente, cuando así se requiera a petición de la mayoría de sus integrantes. Las decisiones se tomarán por mayoría de votos de los miembros presentes y en caso de empate, se volverá a someter a votación, y en caso de persistir el empate se enviará el asunto a la siguiente sesión.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+El Comité Estatal de Participación Ciudadana podrá sesionar por motivos de causas de fuerza mayor o debidamente justificadas con el apoyo de herramientas tecnológicas cumpliendo con las formalidades señaladas en la presente Ley para las sesiones presenciales.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Las sesiones deberán difundirse haciendo uso de las tecnologías de la información y comunicación con las que se dispongan para dicho fin.
+
 ###### ARTÍCULO 21.
 
 El Comité Estatal de Participación Ciudadana tendrá las atribuciones siguientes:
@@ -355,7 +379,9 @@ X. Opinar o proponer, a través de su participación en la Comisión Ejecutiva, 
 
 XI. Proponer mecanismos de articulación entre organizaciones de la sociedad civil, la academia y grupos ciudadanos;
 
-XII. Proponer reglas y procedimientos mediante los cuales se recibirán las peticiones, solicitudes y denuncias fundadas y motivadas que la sociedad civil pretenda hacer llegar a la Auditoría Superior del Estado de Puebla;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XII. Proponer reglas y procedimientos mediante las cuales reciban las peticiones, solicitudes y denuncias fundadas y motivadas que los ciudadanos pretendan hacer llegar a las instancias competentes, integrantes del Comité Coordinador Estatal;
 
 XIII. Opinar sobre el programa anual de trabajo del Comité Coordinador Estatal;
 
@@ -397,6 +423,10 @@ La Secretaría Ejecutiva del Sistema Estatal es un organismo descentralizado, no
 
 La Secretaría Ejecutiva tiene por objeto fungir como órgano de apoyo técnico del Comité Coordinador Estatal, a efecto de proveerle la asistencia técnica, así como los insumos necesarios para el desempeño de sus atribuciones, conforme a lo dispuesto por la presente Ley.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, auxiliara al Comité Estatal de Participación Ciudadana para el cumplimiento de las funciones, que así requiera, conforme a lo dispuesto en la siguiente Ley.
+
 ###### ARTÍCULO 26.
 
 El patrimonio de la Secretaría Ejecutiva estará integrado por:
@@ -425,7 +455,7 @@ IV. Responsabilidades administrativas de servidores públicos; y
 
 V. Transparencia y acceso a la información pública, conforme a la Ley de la materia.
 
-> <small>(REFORMADO, P.O.11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 La Secretaría de la Función Pública y el órgano interno de control, como excepción a lo previsto en el artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Puebla, no podrán realizar auditorías o investigaciones encaminadas a revisar aspectos distintos a los señalados expresamente en este artículo.
 
@@ -771,6 +801,12 @@ Toda la información relacionada con la emisión, aceptación, rechazo, cumplimi
 
 En caso que el Comité Coordinador Estatal considere que las medidas de atención a la recomendación no están justificadas con suficiencia, que la autoridad destinataria no realizó las acciones necesarias para su debida implementación o cuando ésta sea omisa en los informes a que se refieren los artículos anteriores, podrá solicitar a dicha autoridad la información que considere relevante.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 61.
+
+En (sic) el Comité Estatal de Participación Ciudadana tendrá una vinculación permanente con las instancias competentes a efecto de dar seguimiento a las peticiones que realicen los ciudadanos, conforme a lo dispuesto en la normatividad aplicable y a los acuerdos del Comité Coordinador Estatal.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los párrafos siguientes.
@@ -844,3 +880,13 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 6, LA FRACCIÓN IV DEL 10, EL TERCER Y CUARTO PÁRRAFO DEL 13, LA FRACCIÓN XII DEL 21, EL ÚLTIMO PÁRRAFO DEL 27, Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 13, UN SEGUNDO Y TERCER PÁRRAFO AL 20, UN SEGUNDO PÁRRAFO AL 25 Y EL 16, TODOS DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los integrantes del Comité Coordinador Estatal deberá (sic) designar en un término de 30 días hábiles a los enlaces que auxiliaran para la recepción de quejas y denuncias, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
