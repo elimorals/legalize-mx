@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asentamientos-humanos-ordenamiento-territorial-y-159291"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-02"
-last_updated: "2022-06-02"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 44 del Periódico Oficial del Estado de Durango, el jueves 2 de junio de 2022.
 
@@ -221,9 +221,13 @@ LXIV. Uso del suelo: A los fines particulares a que podrán dedicarse determinad
 
 LXV. Vivienda Ecológica Sustentable: A la estructura o proceso de construcción que sean responsables con el medio ambiente y que ocupen en su edificación recursos eficientes durante todo el tiempo de vida de una construcción, que además tenga una adecuada ubicación, que evite riesgos y que promueva el uso eficaz de energía, del agua y el adecuado manejo de los desechos sólidos;
 
-LXVI. Vivienda de Interés Social: A la vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 metros cuadrados de terreno, con una superficie construida máxima de 80 metros cuadrados, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte veces la Unidad de Medida y Actualización elevada al año;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-LXVII. Vivienda Popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 metros cuadrados de terreno, con una superficie construida máxima de 130 metros cuadrados, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos veces la Unidad de Medida y Actualización elevado al año y con todos los servicios de urbanización;
+LXVI. Vivienda de Interés Social: A la vivienda, progresiva o terminada, que se encuentre edificada en una superficie no mayor de 180 metros cuadrados de terreno, con una superficie construida máxima de 80 metros cuadrados, cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte veces la Unidad de Medida y Actualización elevada al año. Tratándose de vivienda construida en el medio rural, será de interés social toda aquélla cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte veces la Unidad de Medida y Actualización elevada al año, independientemente de las medidas de la superficie en que se encuentre edificada y la superficie construida.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+LXVII. Vivienda Popular: La vivienda terminada que se encuentre edificada en una superficie no mayor de 180 metros cuadrados de terreno, con una superficie construida máxima de 130 metros cuadrados, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos veces la Unidad de Medida y Actualización elevado al año y con todos los servicios de urbanización. Tratándose de vivienda construida en el medio rural, será vivienda popular toda aquélla cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos veces la Unidad de Medida y Actualización elevado al año, independientemente de que cuente o no con todos los servicios de urbanización, y de las medidas de la superficie en que se encuentre edificada y la superficie construida.
 
 LXVIII. Zona metropolitana: A los centros de población o conurbaciones que, por su complejidad, interacciones, relevancia social y económica, conforman una unidad territorial de influencia dominante y revisten importancia estratégica para el desarrollo estatal;
 
@@ -3944,3 +3948,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 M.A.P. JORGE CLEMENTE MOJICA VARGAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 305.- QUE CONTIENE REFORMAS AL ARTÍCULO 3 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE DURANGO, EN MATERIA DE VIVIENDA DE INTERES SOCIAL Y POPULAR”.]
+
+PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
