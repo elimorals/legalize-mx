@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2022-12-04"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -2701,7 +2701,9 @@ Las iniciativas serán dirigidas a los Secretarios de la Mesa Directiva; deberá
 
 El Secretario de Servicios Legislativos, informará al Presidente y a los Secretarios de la Mesa Directiva, sobre las iniciativas recibidas, para efectos de enlistarlas en el orden del día de la sesión que corresponda.
 
-Las iniciativas y proposiciones de acuerdo, así como los asuntos generales, serán registrados ante la Secretaría de Servicios Parlamentarios, al menos el día anterior al que pretendan tratarse, cerrando el plazo a las veinte horas, a efecto de que los miembros de la Legislatura, tengan conocimiento oportuno de la orden del día. Las proposiciones de acuerdo, deberán a su registro, señalar el tema a tratar.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Las iniciativas y proposiciones de acuerdo, así como los asuntos generales, serán registrados ante la Secretaría de Servicios Legislativos, al menos el día anterior al que pretendan tratarse, cerrando el plazo a las diecinueve horas, a efecto de que los miembros de la Legislatura, tengan conocimiento oportuno de la orden del día. Las proposiciones de acuerdo, deberán a su registro, señalar el tema a tratar.
 
 ###### Artículo 180.
 
@@ -3724,3 +3726,15 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a esta Ley.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 307.- QUE CONTIENE REFORMA AL TERCER PARRAFO DEL ARTICULO 179 DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
