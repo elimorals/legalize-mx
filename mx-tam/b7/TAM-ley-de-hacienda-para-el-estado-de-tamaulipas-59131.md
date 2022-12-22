@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-12-20"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1395,9 +1395,7 @@ e).- Resguardo de motocicleta, automóvil, SUV o camioneta, en encierros de la F
 
 f).- Constancia de Antecedentes Penales, tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
-g) Constancia de Antecedentes de No Corrupción, tres veces el valor diario de la Unidad de Medida y Actualización.
+g).- (DEROGADO, P.O. 22 DE DICIEMBRE DE 2022).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -4224,3 +4222,15 @@ El presente Decreto se publicará en el Periódico Oficial del Estado, y entrar�
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-501 MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]}
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
