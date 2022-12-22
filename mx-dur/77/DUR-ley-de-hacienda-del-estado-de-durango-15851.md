@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2022-10-16"
+last_updated: "2022-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -2405,11 +2405,21 @@ contrayentes: 20
 
 IV Registro de Divorcios. 5
 
-V La corrección de actas y anotaciones
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Marginales, cuando el error no sea
+V La corrección de actas y 4 por
 
-propio del registro. 4
+anotaciones marginales, cuando todo el
+
+el error no sea propio del registro. contenido
+
+a corregir
+
+o anotar
+
+marginalmente
+
+en el acta.
 
 VI La inscripción de actas de adopción,
 
@@ -4016,3 +4026,11 @@ Queda sin efectos lo establecido en la fracción III, del Apartado A, del artíc
 TERCERO. Los ayuntamientos del Estado, por conducto de sus direcciones de seguridad pública o sus equivalentes, vigilarán el cumplimiento de lo dispuesto en el presente decreto.
 
 CUARTO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 302.- QUE CONTIENE REFORMA A LA FRACCIÓN V DEL ARTÍCULO 58 DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente Decreto.
