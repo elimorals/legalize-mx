@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2022-01-07"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "QUE"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MARZO DE 2023 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE ENERO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -86,6 +86,10 @@ Los obligados a presentar avisos, declaraciones, realizar pagos o aquellos que s
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
 Quien haga el pago de contribuciones deberá obtener la forma oficial, el recibo oficial o la forma valorada que determine para tal efecto la Secretaría de Finanzas o los comprobantes que las disposiciones respectivas establezcan.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Para efectos de lo establecido en el presente artículo, se entenderán como formas valoradas a aquellos documentos pre impresos, placas de circulación, vales canjeables, tarjetas de ayudas sociales, permisos o concesiones, entre otros, que son utilizados para la prestación de los servicios a que se refiere la presente Ley y que, por su incidencia en el proceso de recaudación de ingresos del Estado, adquieren un valor público.
 
 Para la determinación y pago de las contribuciones y sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cincuenta centavos más próximo, inferior o superior, según corresponda.
 
@@ -233,13 +237,13 @@ II. Para motocicletas, los centímetros cúbicos; y
 
 III. Para remolques, autobuses y camiones de más de 3,500 kg, la capacidad de carga establecida en el comprobante fiscal.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Tasa
 
 ###### Artículo 15.
 
-La tasa del impuesto por la adquisición de automóviles y camiones de hasta 3,500 kg, que no sean nuevos, será el 1.25% del valor obtenido conforme al artículo anterior. Cuando la cantidad que resulte sea inferior al equivalente a 7.5 UMA, se cobrará esta cantidad en sustitución de la que resulte de aplicar dicha tasa.
+La tasa del impuesto por la adquisición de automóviles y camiones de hasta 3,500 kg, que no sean nuevos, será el 1.5% del valor obtenido conforme al artículo anterior. Cuando la cantidad que resulte sea inferior al equivalente a 9 UMA, se cobrará esta cantidad en sustitución de la que resulte de aplicar dicha tasa.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -285,13 +289,19 @@ De 20,001 a 30,000 kg 73
 
 De 30,001 kg en adelante 79
 
+> <small>(REFORMADO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 Por la adquisición de vehículos de motor y remolques a que se refiere esta Ley, cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, se pagarán:
 
 Vehículo o remolque UMA
 
-Automóviles y camiones con capacidad de carga de más de 3,500 kg 14
+Automóviles y camiones con capacidad de carga 14
 
-Automóviles y camiones con capacidad de carga de hasta 3,500 kg 8
+de más de 3,500 kg
+
+Automóviles y camiones con capacidad de carga 9
+
+de hasta 3,500 kg
 
 Motocicletas 4
 
@@ -487,11 +497,11 @@ Apartado A
 
 Vehículos de más de diez años modelo anterior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 27.
 
-Los tenedores o usuarios de vehículos cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, previstos en este artículo, calcularán el impuesto a que se refiere este apartado de acuerdo a la siguiente clasificación:
+Los tenedores o usuarios de vehículos cuyo año modelo tenga diez o más años de antigüedad al ejercicio fiscal en curso, previstos en este artículo, calcularán el impuesto a que se refiere este apartado de acuerdo a la siguiente clasificación:
 
 TIPO DE VEHÍCULO UMA
 
@@ -499,9 +509,11 @@ Motocicleta 3
 
 Automóvil 4
 
-Camión, Autobús y Camión Tipo
+Camión, Autobús y Camión Tipo 7
 
-Tractor No Agrícola (Quinta Rueda) 7
+Tractor No Agrícola
+
+(Quinta Rueda)
 
 Embarcaciones 10
 
@@ -521,25 +533,25 @@ Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o q
 
 Lo dispuesto en el párrafo anterior, únicamente resultará aplicable respecto del impuesto sobre tenencia o uso de vehículos causado con posterioridad a la adquisición de las calidades a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 28.
 
-Tratándose de los vehículos previstos en este artículo, de más de diez años de fabricación anteriores al de aplicación de este apartado, el impuesto se pagará conforme a la siguiente:
-
-TABLA.
+Tratándose de los vehículos previstos en este artículo, de más de diez años de fabricación anteriores al de aplicación de este apartado, el impuesto se pagará conforme a la siguiente tabla:
 
 TIPO DE VEHÍCULOS CUOTA
 
 Aeronaves: $0.00
 
-Hélice $690.47
+Hélice $901.89
 
-Turbohélice $3,822.26
+Turbohélice $4,992.64
 
-Reacción $5,522.25
+Reacción $7, 213.16
 
-Helicópteros $849.22
+Helicópteros $1,109. 25
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 El monto de las cuotas establecidas en este artículo, se actualizarán con el factor a que se refiere el artículo 37 de esta Ley.
 
@@ -607,29 +619,13 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 Tratándose de automóviles, ómnibus, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
+I. En el caso de automóviles nuevos, destinados al transporte de hasta quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente tarifa:
 
-TARIFA
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31618.]</small>
 
-Límite inferior Límite superior Cuota fija Tasa para aplicarse
-
-sobre el excedente
-
-del límite inferior
-
-$ $ $ %
-
-0.01 620,912.63 0.00 3
-
-620,912.64 1,194,911.94 18,627.38 9
-
-1,194,911.95 1,606,093.88 70,287.32 10
-
-1,606,093.89 2,017,275.81 111,405.51 11
-
-2,017,275.82 En adelante 156,635.52 12
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
 
@@ -665,29 +661,13 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.875%.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 35.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente tarifa:
 
-TARIFA
-
-Límite inferior Límite superior Cuota fija Tasa para aplicarse
-
-sobre el excedente
-
-del límite inferior
-
-$ $ $ %
-
-0.01 459,693.71 0.00 3
-
-459,693.72 809,056.69 13,790.81 9
-
-809,056.70 1,087,461.78 45,233.48 10
-
-1,087,461.79 En adelante 73,073.99 11
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31619.]</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
@@ -879,19 +859,39 @@ Objeto
 
 Es objeto de este impuesto la prestación del servicio de hospedaje en el Estado de Querétaro.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Se consideran servicios de hospedaje, la prestación, por tiempo determinado, de alojamiento o albergue de personas a cambio de una contraprestación, dentro de los cuales quedan comprendidos los servicios prestados por:
+
+I. Hoteles, moteles, hostales o posadas;
+
+II. Áreas de pernoctación destinadas a albergues móviles, tales como campamentos o paraderos de casas rodantes;
+
+III. Tiempo compartido; y
+
+IV. Cualquier inmueble en el que se preste alojamiento o albergue por tiempo determinado, de forma parcial o total, a una o más personas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Se entiende que los servicios de hospedaje a que se refiere el párrafo anterior se realizan en el Estado, cuando éstos tengan lugar o surtan sus efectos de hecho o de derecho de manera parcial o total en el territorio de la entidad, con independencia del lugar donde se acuerde o se realice el pago o contraprestación por dicho servicio.
+
 Para efectos de este impuesto, no se considerarán servicios de hospedaje: el de albergue o alojamiento en hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados u orfanatos, casas de huéspedes sin fines turísticos y de beneficencia o asistencia social.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Sujeto
 
 ###### Artículo 44.
 
-Están obligadas al pago de este impuesto las personas físicas o morales que presten el servicio de hospedaje en el Estado de Querétaro.
+Están obligadas al pago de este impuesto las personas físicas o morales que presten el servicio de hospedaje en el Estado de Querétaro, por tiempo determinado, por sí o a través de alguna plataforma digital, en forma total o parcial, los cuales deberán estar inscritos en el registro de contribuyentes que establezcan las autoridades fiscales.
 
-Para efectos de este impuesto, se entiende que la prestación del servicio de hospedaje se realiza en el Estado de Querétaro, cuando ésta tenga lugar o surta sus efectos de hecho o de derecho parcial o totalmente en el territorio que lo comprende, independientemente del lugar donde se concierte o se realice el pago o contraprestación por dicho servicio.
+Para efectos del párrafo anterior, se entiende por plataforma digital, la aplicación tecnológica operada por una entidad nacional o extranjera que facilita las interacciones entre dos o más grupos de usuarios distintos pero interdependientes, ya sean personas físicas o morales, quienes interactúan a través de Internet permitiendo a éstos contratar con terceros, los servicios de hospedaje establecidos en el presente Capítulo.
 
-El contribuyente trasladará dicho impuesto, en forma expresa y por separado, a las personas que reciban los servicios de hospedaje. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en este Capítulo.
+En los supuestos previstos en el artículo 43, párrafo segundo, fracciones I a IV, cuando intervenga una persona física o moral en su carácter de intermediario, promotor, facilitador o cualquier otra actividad análoga en el cobro de las contraprestaciones por servicios de hospedaje a través de la plataforma digital, con independencia del medio por el cual se cubra la contraprestación del servicio de hospedaje, dicha persona física o moral se encuentra obligada a retener el impuesto correspondiente y enterarlo a la autoridad fiscal utilizando las formas autorizadas por la misma, a través de los medios que disponga para tal fin.
+
+Las personas físicas o morales señaladas en el párrafo anterior, deberán inscribirse en el registro de contribuyentes que establezcan las autoridades fiscales en su carácter de retenedor en términos de lo establecido en las disposiciones legales aplicables.
+
+El contribuyente trasladará este impuesto, en forma expresa y por separado, a las personas que reciban los servicios de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en este Capítulo.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -903,15 +903,21 @@ La base del impuesto será el total de las contraprestaciones que se perciban co
 
 El impuesto se causará, cuando se reciban efectivamente las contraprestaciones a que se refiere el párrafo anterior.
 
-Para efectos de la integración de la base del impuesto, no se incluirán los alimentos y demás servicios relacionados con los mismos y el impuesto al valor agregado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+En la integración de la base del impuesto, no se incluirán los alimentos, bebidas, transportación, uso de instalaciones, otros similares y demás servicios relacionados con los mismos y el impuesto al valor agregado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Cuando los contribuyentes convengan la prestación de servicios de hospedaje que incluyan los conceptos referidos en el párrafo anterior, los contribuyentes deberán desglosar o comprobar la prestación de estos últimos. En caso contrario, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Tasa
 
 ###### Artículo 46.
 
-El impuesto a pagar será el que resulte de aplicar tasa del 2.5% sobre la base del mismo.
+El impuesto a pagar será el que resulte de aplicar la tasa del 3.5% sobre la base del mismo correspondiente al total del valor de las contraprestaciones que se perciban por servicios de hospedaje.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -941,9 +947,15 @@ d) La Dirección de Ingresos negará el empadronamiento en los casos siguientes:
 
 En los casos anteriores, la Dirección de Ingresos notificará la negativa al solicitante, en un plazo no mayor de diez días a partir de la fecha en que haya sido recibido el aviso.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+e) Los retenedores de este impuesto están obligados a empadronarse ante la Dirección de Ingresos, dependiente de la Secretaría de Finanzas, dentro de los diez días siguientes a la fecha de inicio de operaciones, en términos de lo establecido en las disposiciones legales aplicables.
+
 II. De los cambios:
 
-a) En los casos de cambio de objeto, giro, nombre o razón social, así como en los de traslado o traspaso del negocio, los contribuyentes deberán dar aviso a la Dirección de Ingresos, dentro de los diez días siguientes a la fecha en que se hayan realizado las modificaciones expresadas, devolviendo el documento de empadronamiento para su canje o cancelación, según corresponda.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+a) En los casos de cambio de objeto, giro, nombre, denominación o razón social, así como en los de traslado o traspaso del negocio, los contribuyentes deberán dar aviso a la Dirección de Ingresos, dentro de los diez días siguientes a la fecha en que se hayan realizado las modificaciones expresadas, devolviendo el documento de empadronamiento para su canje o cancelación, según corresponda.
 
 b) Los documentos de empadronamiento no serán transferibles, ni aun en los casos de traspaso y sólo ampararán el giro al que correspondan, en el lugar y con las características que en los mismos se indiquen.
 
@@ -955,9 +967,9 @@ b) Los documentos de empadronamiento no serán transferibles, ni aun en los caso
 
 De las declaraciones y pago del impuesto:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. La presentación de la declaración y, en su caso, el pago del impuesto deberá hacerse dentro de los primeros veintidós días de cada mes, mediante declaración en la que se manifiesten las contraprestaciones efectivamente percibidas por el servicio de hospedaje en el mes inmediato anterior, por cada establecimiento o sucursal que tenga dentro del territorio del Estado.
+I. La presentación de la declaración y, en su caso, el pago del impuesto deberá hacerse dentro de los primeros veintidós días de cada mes. En la misma, se manifestarán las contraprestaciones efectivamente percibidas o retenidas por el servicio de hospedaje prestado por sí o a través de plataforma digital en el mes inmediato anterior, por cada establecimiento, sucursal, casa, departamento o demás modalidades, dentro del territorio del Estado.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -971,7 +983,9 @@ a) El monto total de las contraprestaciones efectivamente percibidas por el serv
 
 b) El importe del impuesto causado en los términos de este Capítulo.
 
-c) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2018)
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+c) Periodo de pago en formato de mes y año.
 
 III. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
@@ -979,9 +993,11 @@ IV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
 V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2014)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 49.
 
-Otras obligaciones de los contribuyentes:
+Otras obligaciones de las personas físicas y morales sujetas a este impuesto en términos del artículo 44 de esta Ley:
 
 I. Firmar los documentos previstos por este Capítulo, bajo protesta de decir verdad;
 
@@ -999,9 +1015,9 @@ IV. Conservar durante cinco años la documentación y demás elementos contables
 
 V. Expedir comprobantes fiscales por la prestación de los servicios de hospedaje, en los que se haga constar el nombre del huésped, su domicilio, el número de días y/o noches que se le prestó el servicio y las cantidades efectivamente percibidas por tal motivo. Asimismo, deberá señalarse por separado la cantidad que corresponda al impuesto por la prestación de servicio de hospedaje causado y el desglose de los demás servicios prestados.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-En el caso de inspecciones o auditorías a negocios quedan obligados los contribuyentes a proporcionar al personal designado, la documentación y demás elementos contables y comprobatorios necesarios para el desahogo de la diligencia.
+En el caso de inspecciones o auditorías a negocios, quedan obligados los contribuyentes a proporcionar al personal designado, la documentación y demás elementos contables y comprobatorios necesarios para el desahogo de cualquier diligencia a que haya lugar.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1151,21 +1167,35 @@ Objeto
 
 Es objeto de este impuesto:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. La realización, organización y celebración de loterías, rifas, concursos y juegos con apuestas y sorteos, independientemente del nombre con el que se designen, que se realicen, organicen, celebren o que surtan sus efectos dentro del territorio del Estado, aun mediante la utilización de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, sin importar el lugar en donde se realice el evento.
+I. La realización, organización y celebración de loterías, rifas, concursos y juegos con apuestas y sorteos, independientemente del nombre con el que se designen, que requieran permiso o autorización de conformidad con la Ley Federal de Juegos y Sorteos y su Reglamento, que se realicen, organicen, celebren o que surtan sus efectos dentro del territorio del Estado, aun mediante la utilización de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, sin importar el lugar en donde se realice el evento.
 
-Se entienden comprendidos en los juegos con apuestas, la captación y operación de cruce de apuestas a que se refiere la Ley Federal de Juegos y Sorteos y su Reglamento, cuando ésta se realice en territorio del Estado, a través de centros de apuestas remotas o libros foráneos autorizados por la autoridad competente para tales efectos; y
+Se entienden comprendidos en los juegos con apuestas, la recepción, captación, explotación y operación de cruce de apuestas a que se refiere la Ley Federal de Juegos y Sorteos y su Reglamento, cuando ésta se realice en territorio del Estado, a través de centros de apuestas remotas o libros foráneos autorizados por la autoridad competente para tales efectos; y
 
 II. La obtención de ingresos por la recepción de premios que se otorguen con motivo de loterías, rifas, sorteos, concursos y juegos con apuestas, que se celebren o que surtan sus efectos dentro del territorio del Estado, aún y cuando el premio sea entregado y/o cobrado fuera del mismo.
 
 Para los efectos del párrafo anterior, se entenderán también comprendidos los ingresos que por obtención de premios perciban las personas físicas y morales con domicilio en el Estado, que participen en loterías, rifas, sorteos y concursos que realicen, organicen o celebren los organismos descentralizados de la Administración Pública Federal.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-También será objeto de este impuesto la obtención de ingresos por la recepción de premios con motivo del uso de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, que se realice en el territorio del Estado de Querétaro, aún y cuando el premio no se (sic) entregado o cobrado fuera del mismo.
+También será objeto de este impuesto la obtención de ingresos por la recepción de premios con motivo del uso de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar; y que el referido uso se realice en el territorio del Estado de Querétaro, aún y cuando el premio no sea entregado o cobrado fuera del mismo.
 
 Para efectos de este Capítulo, se entiende que las loterías, rifas, sorteos, concursos y juegos con apuestas, surten sus efectos en territorio del Estado, cuando los billetes, boletos y demás comprobantes que permitan participar en las actividades mencionadas, sean enajenados, entregados, otorgados o distribuidos en dicho territorio.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, quedan comprendidos en los juegos con apuestas los siguientes conceptos:
+
+a) Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos en los que éste haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+b) Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio, en el establecimiento ubicado en el territorio del Estado de Querétaro.
+
+c) Aquellos establecimientos autorizados por autoridad competente, en los que reciban, capten, crucen o exploten apuestas, así como a los establecimientos o agencias que reciban información con fines de lucro, en los que se apuesten sobre carreras de caballos, galgos, gallos o cualquier otro evento, realizado en el Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a esta.
 
 Este impuesto se causará independientemente de la denominación que se le dé al pago necesario para participar en las actividades a que se refiere este Capítulo.
 
@@ -1227,17 +1257,17 @@ Base y tasa
 
 El impuesto a que se refiere el presente Capítulo, se calculará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Los sujetos que realicen, organicen o celebren loterías, rifas, sorteos y concursos descritos en la fracción I del artículo 62 de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 15% sobre el total de las cantidades percibidas de los participantes de dichas actividades;
+I. Los sujetos que realicen, organicen o celebren loterías, rifas, sorteos y concursos descritos en la fracción I del artículo 62 de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 6% sobre el total de las cantidades percibidas de los participantes de dichas actividades;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. Los sujetos que realicen, organicen o celebren juegos con apuestas descritos en la fracción I del artículo 62 de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 15% sobre el monto total de las apuestas recibidas; y
+II. Los sujetos que realicen, organicen o celebren juegos con apuestas descritos en la fracción I del artículo 62 de esta Ley, calcularán el impuesto a su cargo, aplicando la tasa del 6% sobre el monto total de las apuestas recibidas; y
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-III. Los sujetos que obtengan premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas, así como del uso de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, deberán calcular el impuesto aplicando la tasa del 6% sobre el monto total del premio o sobre el valor del premio obtenido cuando éste no sea en efectivo.
+III. Los sujetos que obtengan premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas establecidos en la fracción II del artículo 62 de esta Ley, así como del uso de aparatos electromecánicos, mecánicos, electrónicos y otros similares accionados o no por monedas, deberán calcular el impuesto aplicando la tasa del 6% sobre el monto total del premio o sobre el valor del premio obtenido cuando éste no sea en efectivo.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -1283,9 +1313,9 @@ I. Cuando el impuesto se cause con motivo de la realización de las actividades 
 
 Lo anterior, no será aplicable en el caso de organizadores accidentales, quienes deberán ajustarse a lo dispuesto en el inciso b), fracción II, del artículo 69 de esta Ley; y
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. Cuando el impuesto se cause con motivo de la obtención de premios que perciban las personas físicas y morales, derivados de loterías, rifas, sorteos, concursos y juegos con apuestas, que se celebren o que surtan sus efectos dentro del territorio del Estado, el organizador de los mismos deberá retener el monto del impuesto causado y enterarlo mediante declaración de pago, a más tardar el día 22 del mes siguiente a la fecha de su causación.
+II. Cuando el impuesto se cause con motivo de la obtención de premios que perciban las personas físicas y morales, derivados de loterías, rifas, sorteos, concursos y juegos con apuestas previstos en la fracción II del artículo 62 de esta Ley, que se celebren o que surtan sus efectos dentro del territorio del Estado, el organizador de los mismos deberá retener el monto del impuesto causado y enterarlo mediante declaración de pago a la Dirección de Ingresos dependiente de la Secretaría de Finanzas, a más tardar el día 22 del mes siguiente a la fecha de su causación. Lo anterior, independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleven a cabo algunos de los juegos mencionados en el artículo 62 de esta Ley.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1337,7 +1367,9 @@ d) Proporcionar mensualmente a las autoridades fiscales la información correspo
 
 e) Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de las actividades a que se refiere este Capítulo, dentro de los 5 días hábiles siguientes a que esto ocurra.
 
-f) Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+f) Conservar por un plazo de 5 años a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda.
 
 g) Si los premios ofrecidos consisten en bienes distintos de dinero, señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o eventos de que trata el presente Capítulo, el valor en moneda nacional de los mismos.
 
@@ -1361,13 +1393,95 @@ b) Presentar declaración de pago dentro de los cinco días hábiles siguientes 
 
 c) Llevar un registro analítico y pormenorizado de las operaciones que se hubieren realizado con motivo del evento por el que se cause el impuesto, así como del pago o entrega de los premios a que se refiere la fracción III del artículo 66 de esta Ley y presentarlo anexo a la declaración de pago.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo Sexto Bis. Del Impuesto a las Erogaciones en Juegos y Concursos con Apuestas
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Objeto y sujetos
+
+###### Artículo 69 Bis.
+
+Están obligadas al pago de este impuesto las personas que realicen erogaciones para participar en las siguientes actividades dentro del territorio del Estado de Querétaro:
+
+I. Juegos y concursos con apuestas, independientemente del nombre con el que se designen, incluyendo aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar;
+
+II. Juegos con apuestas en los que el premio se obtenga por el mero azar o la destreza del participante en el uso de máquinas, que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante, independientemente que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares. Igualmente, se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador;
+
+III. Quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos;
+
+IV. Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por la autoridad competente, en los que se reciban, capten, crucen o exploten apuestas, así como a los establecimientos o agencias que reciban información con fines de lucro en los que se apuesten sobre carreras de caballos, galgos o cualquier otro evento; y
+
+V. Se incluyen como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con las apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a esta.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Base y tasa
+
+###### Artículo 69 Ter.
+
+El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectivamente realizadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie, por medios electrónicos o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen cualquier carga que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refieren las fracciones I a V del artículo 69 Bis de esta Ley, o el uso o acceso a las máquinas de juegos a que se refiere dicho artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Momento de causación
+
+###### Artículo 69 Quáter.
+
+El impuesto se causará en el momento en que el sujeto erogue los montos o contraprestaciones al operador del establecimiento, correspondientes a la apuesta en los juegos con apuestas o concursos y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Retención del impuesto
+
+###### Artículo 69 Quinquies.
+
+El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos, retendrá el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente y deberá enterarlo ante las oficinas autorizadas a más tardar el día 22 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 69 OCTIES de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 69 Sexies.
+
+El impuesto previsto en este Capítulo se causará y pagará con independencia del impuesto a que se refiere el Capítulo Sexto del Título Tercero de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Obligaciones diversas de los contribuyentes
+
+###### Artículo 69 Septies.
+
+Los operadores de los establecimientos en los que se realicen los juegos con apuestas, concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de retener y enterar el impuesto a que se refiere el artículo 69 QUINQUIES de esta Ley, están obligados a:
+
+I. Registrarse en el Padrón Estatal de Contribuyentes;
+
+II. Expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado; y
+
+III. Presentar a más tardar el último día hábil del mes de abril, la declaración informativa en la que conste de manera clara el folio de los comprobantes fiscales expedidos en el ejercicio fiscal anterior, acorde a los mecanismos, formas y medios electrónicos, que para tal efecto establezca la Secretaría de Finanzas del Poder Ejecutivo, de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Responsables solidarios
+
+###### Artículo 69 Octies.
+
+Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos o concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos o concursos referidos en el artículo 69 Bis de esta Ley;
+
+II. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos o concursos objeto del presente impuesto;
+
+III. Los propietarios o poseedores de las máquinas de juegos a que se refiere este Capítulo; y
+
+IV. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 69 Bis de esta Ley.
+
 ### Capítulo Séptimo. Impuesto Sobre Nóminas
-
-Objeto
-
-### Capítulo Octavo. Impuesto Sobre la Venta de Bienes cuya Enajenación se encuentra gravada por la Ley del Impuesto Especial Sobre Producción y Servicios
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 Objeto
 
@@ -1445,9 +1559,11 @@ V. Presentar anualmente una declaración informativa a más tardar en el mes de 
 
 VI. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de fiscalización, la información, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto.
 
-### Capítulo Noveno. Impuestos Ecológicos
+### Capítulo Octavo. Impuesto Sobre la Venta de Bienes cuya Enajenación se encuentra gravada por la Ley del Impuesto Especial Sobre Producción y Servicios
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
+Objeto
 
 ###### Artículo 74.
 
@@ -1577,9 +1693,9 @@ IV. Pagar el impuesto determinado a su cargo, mediante declaración que será pr
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-### Capítulo Primero. Por la Licencia para el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas
+### Capítulo Noveno. Impuestos Ecológicos
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 #### Sección I. Disposiciones Generales
 
@@ -1607,6 +1723,10 @@ Objeto
 
 2. Es objeto de este impuesto la extracción del suelo y subsuelo de materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos, aún y cuando constituyan vetas, mantos, depósito natural o yacimiento geológico de agregados pétreos, grava, piedra, tezontle, tepetate, arena, arenilla, tepecil o cualquier material no metálico derivado de las rocas o de procesos de sedimentación o metamorfismo.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, para efectos del presente artículo se entenderá que es objeto de este impuesto la extracción del suelo y subsuelo de materiales sobre los cuales se efectúe el aprovechamiento, explotación y restauración de bancos de materiales de construcción y ornamento no reservados a la Federación y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición o fragmentación de las rocas, mediante trabajos a cielo abierto.
+
 Para efectos de este artículo la extracción deberá realizarse en el territorio del Estado.
 
 En ningún momento se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
@@ -1615,7 +1735,9 @@ Para efectos de este artículo se entenderá por:
 
 I. Minerales no metálicos de bajo impacto ambiental: arena, arenilla, tezontle, tepetate, tepecil, arcilla, una combinación de los anteriores, o aquellas de igual o semejante naturaleza, características o propiedades; y
 
-II. Minerales no metálicos de alto impacto ambiental: grava, granito, roca volcánica, basalto, mármol, ónix, roca travertino, rocas sedimentarias, rocas metamórficas y rocas ígneas, o aquellas de igual o semejante naturaleza, características o propiedades.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+II. Minerales no metálicos de alto impacto ambiental: grava, granito, roca volcánica, basalto, ónix, roca travertino, rocas sedimentarias, rocas metamórficas y rocas ígneas, o aquellas de igual o semejante naturaleza, características o propiedades.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -1693,13 +1815,15 @@ Objeto
 
 Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de las siguientes sustancias sujetas a reporte en los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como en los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable: bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluorocarbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
 Sujetos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 83 Bis
 
-9. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+9. Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, generadores de emisiones de gases de efecto invernadero, las cuales se encuentren obligadas a la presentación de reporte en el Registro de Emisiones y Transferencia de Contaminantes de competencia estatal, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 Para efectos del párrafo anterior se entenderán como instalaciones o fuentes fijas de emisiones a la atmósfera, las estipuladas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y el Código Ambiental del Estado de Querétaro.
 
@@ -1711,9 +1835,13 @@ Base
 
 10. Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 Para la determinación de las toneladas emitidas, los sujetos de este impuesto realizarán la conversión de los gases establecidos en el artículo 83 BIS-8 de esta Ley en Bióxido de Carbono Equivalente (CO2e), multiplicando cada tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55679.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31626.]</small>
 
 Para efecto de realizar la conversión en toneladas de los elementos citados con antelación se toma como referencia el Acuerdo que establece los gases y compuestos de efecto invernadero que se agrupan para efectos de reporte de emisiones, así como sus potenciales de calentamiento, publicado en el Diario Oficial de la Federación el 14 de agosto de 2015.
 
@@ -1725,13 +1853,13 @@ Cuota
 
 11. El impuesto se causará en el momento que los sujetos de este impuesto realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 5.6 UMA por tonelada emitida de Bióxido de Carbono Equivalente (CO2e) o la conversión del mismo, establecida en el artículo 83 BIS-10 de esta Ley.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 Época y forma de pago
 
 ###### Artículo 83 Bis
 
-12. Los contribuyentes pagarán el impuesto a que se refiere esta Sección de manera anual, mediante declaración que se presentará en las formas y medios autorizados por la Secretaría de Finanzas, en el mes siguiente a aquel en que se haya realizado el respectivo informe en los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable.
+12. Los contribuyentes pagarán el impuesto a que se refiere esta Sección de manera anual, mediante declaración que se presentará en las formas y medios autorizados por la Secretaría de Finanzas, a más tardar el día veintidós del mes de julio del año en que se haya realizado el respectivo informe en los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -1751,13 +1879,15 @@ IV. Presentar los avisos, datos, documentos, informes y registros que les solici
 
 V. Poner a disposición de las autoridades competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de este impuesto, inclusive los relacionados en materia ambiental que sean referenciados en esta Ley para el pago de las contribuciones, así como del resto de las obligaciones a su cargo en términos de la presente Sección;
 
-VI. Determinar la base gravable de este impuesto mediante medición o estimación directa de las emisiones que generen y, en su caso, se tomará como referencia los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+VI. Determinar la base gravable de este impuesto, conforme al dictamen de inventario de emisiones generado por el Organismo de Inspección para la verificación de informes de emisiones de gases de efecto invernadero acreditado y registrado en el Padrón de Prestadores de servicios ambientales de conformidad con lo que establezca la Secretaría de Desarrollo Sustentable, así como a los Registros de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, y los reportes de emisiones del Registro de Emisiones y Transferencia de Contaminantes (RETC) Estatal, de la Secretaría de Desarrollo Sustentable;
 
 VII. Los sujetos de este impuesto presentarán una declaración informativa a la Secretaría de Desarrollo Sustentable, a más tardar el día veintidós del mes inmediato posterior en que haya concluido el periodo correspondiente;
 
 VIII. Realizar el Informe del Registro de Emisiones y Transferencias de Contaminantes, previsto en el Código Ambiental del Estado de Querétaro, cuando se realicen las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo referidos en el artículo 83 BIS-8;
 
-IX. Obtener dictamen de inventario de emisiones emitido por el Organismo de Inspección para la verificación de informes de emisiones de gases de efecto invernadero acreditado y registrado en el Padrón de Prestadores de servicios ambientales de conformidad a como lo establezca la Secretaría de Desarrollo Sustentable; y
+IX. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 X. Las demás que señale la presente Ley y los ordenamientos fiscales aplicables.
 
@@ -1893,11 +2023,9 @@ II. Cuando no sea posible determinar la base gravable en los términos de la fra
 
 ## Título Cuarto. De los Derechos
 
-### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad y del Comercio
+### Capítulo Primero. Por la Licencia para el Almacenaje, Venta, Porteo y Consumo de Bebidas Alcohólicas
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 84.
 
@@ -2033,11 +2161,11 @@ Del cambio de otros datos informativos sobre el establecimiento o del titular de
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-### Capítulo Tercero. Por los servicios prestados por el Archivo General de Notarías
+### Capítulo Segundo. Por los servicios prestados por el Registro Público de la Propiedad y del Comercio
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-Objeto
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 90.
 
@@ -2085,7 +2213,7 @@ II. Adquisición o transmisión de derechos posesorios;
 
 III. Acta de asamblea de condóminos;
 
-IV. Contrato de arrendamiento de bienes;
+IV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 V. Servidumbres;
 
@@ -2119,9 +2247,19 @@ XVI. Constitución de habitación;
 
 XVII. Protocolización de plano y deslinde catastral de predios con superficie no mayor a 5,000 metros cuadrados. Tratándose de predios con una superficie mayor, se estará a lo dispuesto en el artículo 105, fracción III, de la presente Ley; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XVIII. La modificación al plan de desarrollo urbano (cambio de uso de suelo) y el resello de planos.
+XVIII. La modificación al plan de desarrollo urbano (cambio de uso de suelo).
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 94 Bis.
+
+Por la inscripción del contrato de arrendamiento de inmuebles, se causará y pagará:
+
+I. 3 UMA, siempre y cuando al calce del contrato se incluya la constancia de que el notario o el juez competente, se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva; y
+
+II. 6 UMA, cuando adicional a la inscripción del contrato, se solicite la expedición de la constancia que acredite que el Registrador se cercioró de la autenticidad de las firmas y de la voluntad de las partes, debidamente firmada y con el sello respectivo.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2183,13 +2321,11 @@ VII. Adjudicación que se realice a favor de los beneficiarios, respecto de bien
 
 VIII. Cancelación de convenio.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 99.
 
-Por la inscripción de fianzas, obligaciones solidarias, compraventa con reserva de dominio de bienes muebles, constitución de garantías reales sobre inmuebles, compraventa de bienes muebles, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 3.125 al millar sobre el importe de operación.
+Por la inscripción de fianzas, obligaciones solidarias, constitución de garantías reales sobre inmuebles, convenios que impliquen ampliación del crédito, ampliación de garantía, disolución de copropiedad o actos o contratos relativos a la disolución de la subdivisión del régimen de copropiedad, se cobrará por concepto de derechos el 3.125 al millar sobre el importe de operación.
 
 En el caso de ampliación de garantía, los derechos se calcularán sobre el valor que se le asigne a los bienes que servirán de garantía y, en caso de que no se establezca, sobre el total de la cantidad que se está garantizando.
 
@@ -2261,13 +2397,17 @@ c) Nomenclatura de calles;
 
 d) Licencia de ejecución de obras de urbanización;
 
-e) Venta de lotes;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+e) Venta de lotes o unidades privativas;
 
 f) Protocolización de planos;
 
 g) Protocolización de resello de planos;
 
-h) Acta de entrega-recepción; y,
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+h) Acta de entrega-recepción de fraccionamiento o condominio; y
 
 i) Cualquier ampliación, renovación o ratificación de las autorizaciones antes citadas.
 
@@ -2285,15 +2425,19 @@ Las inscripciones, anotaciones, cancelaciones, expediciones de certificados o ce
 
 Por la expedición de certificados y copias certificadas, causarán y pagarán el equivalente correspondiente, conforme a lo siguiente:
 
-I. Expedición de certificados de gravamen y de libertad de gravamen por 20 años, 10 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. Expedición de certificados de gravamen y de libertad de gravamen de más de 20 años, 14 UMA;
+I. Expedición de certificados de gravamen y de libertad de gravamen por cada 10 años, 5 UMA;
+
+II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 III. Expedición de certificados de inscripción y de no inscripción, 10 UMA;
 
 IV. Certificado de propiedad, de no propiedad y de única propiedad, 6 UMA;
 
-V. Certificado de historial registral de hasta 10 años, 16 UMA;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+V. Certificado de historial registral de hasta 10 años, 20 UMA;
 
 VI. Certificado de historial registral de más de 10 y hasta 20 años, 21 UMA;
 
@@ -2345,6 +2489,10 @@ Tratándose de instituciones de crédito, de auxiliares de crédito, sociedades 
 
 Lo dispuesto en el primer párrafo de este artículo no será aplicable tratándose de la inscripción de convenios modificatorios de contratos de crédito con garantía hipotecaria otorgados en favor de los desarrolladores inmobiliarios para la construcción de fraccionamientos o condominios, cuando éstos no impliquen la novación del contrato, ni la constitución de nuevas garantías o ampliación de las otorgadas en el contrato de crédito originario, así como en la cancelación de los citados contratos, que deban registrarse en más de un folio, siempre que el contrato del cual deriven se haya registrado originalmente en un solo folio, caso en el cual se cobrará lo correspondiente a una sola inscripción.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Aplicará la misma regla del párrafo anterior en la inscripción de la extinción parcial de fideicomisos y de sus convenios modificatorios, cuando éstos no impliquen la ampliación del patrimonio fideicomitido, mediante la aportación de inmuebles.
+
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
@@ -2373,13 +2521,19 @@ MAS DE 16 80
 
 Por los derechos de cada reingreso de cualquiera de los actos contemplados en los artículos 92, 105, y 110 BIS de la presente Ley como resultado de la calificación registral, se causará y pagará un derecho de 15 UMA.
 
-Por reingreso de inscripción de cualquier otro acto se causará y pagará 1 UMA.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Se causará y pagará 1 UMA por cada reingreso relativo a la inscripción de cualquier otro acto no contemplado en los numerales a que se refiere el párrafo anterior.
 
 El reingreso por devolución por error del Registro Público de la Propiedad no generará cobro.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE CAPÍTULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
 
-### Capítulo Cuarto. De los servicios prestados por Autoridades Catastrales
+### Capítulo Tercero. Por los servicios prestados por el Archivo General de Notarías
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P. O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA EL ARTÍCULO SEGUNDO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO “LA SOMBRA DE ARTEAGA” DEL 03 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE EL TEXTO DEL PRESENTE ARTÍCULO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]</small>
+
+Objeto
 
 ###### Artículo 111.
 
@@ -2393,61 +2547,13 @@ Sujeto
 
 Son sujetos los contribuyentes solicitantes de los servicios prestados por el Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
-Tasa
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 113.
 
 Por los servicios prestados por el Archivo General de Notarías, causarán y pagarán de conformidad con lo siguiente:
 
-CONCEPTO NÚMERO DE HOJAS UMA
-
-Expedición de De 3 a 5 hojas 11
-
-testimonio.
-
-De 6 a 9 hojas 16
-
-De 10 a 15 hojas 21
-
-De 16 hojas en adelante 24
-
-Avisos e informes de testamento, búsqueda de documentos,
-
-constancias, copias certificadas del apéndice del protocolo,
-
-por cada diez hojas. 4
-
-Copias certificadas del instrumento notarial del tomo del
-
-protocolo por cada 20 hojas. 5
-
-> <small>(F. DE E., P.O. 7 DE ENERO DE 2022)</small>
-
-Autorización de cada folio. 0.1
-
-Revisión de exactitud de la razón de cierre de tomo, por cada
-
-ocasión y tomo. 4
-
-Inscripción en el libro de Registro de Notarías. 11
-
-Expedición de copias simples del apéndice del protocolo por
-
-cada diez hojas. 2
-
-Expedición de copias simples del instrumento notarial del tomo
-
-del protocolo por cada 20 hojas. 3.5
-
-Aviso de testamento sobre la vivienda de interés social o
-
-popular. 0
-
-Por correcciones en los avisos de testamento y avisos de
-
-poderes. 1.25
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31629.]</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2455,7 +2561,7 @@ poderes. 1.25
 
 Por el servicio de guarda y custodia de testamento público cerrado, se causará y pagará el equivalente a 11 UMA.
 
-### Capítulo Quinto. Por los servicios prestados por Autoridades del Trabajo y Previsión Social
+### Capítulo Cuarto. De los servicios prestados por Autoridades Catastrales
 
 ###### Artículo 115.
 
@@ -2559,9 +2665,33 @@ XXXVII. Copia digital en formato de documento portátil (PDF) de croquis de ubic
 
 XXXVIII. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en tamaño carta, oficio o doble carta, 6 UMA;
 
-XXXIX. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas de 40X60 cm hasta un metro cuadrado, 8 UMA, y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XL. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas mayores de un metro cuadrado, 8 UMA por metro cuadrado.
+XXXIX. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas de 40X60 cm hasta un metro cuadrado, 8 UMA;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XL. Copia digital en formato de documento portátil (PDF) de planos catastrales, planos de levantamiento topográfico o planos de deslinde catastral, en medidas mayores de un metro cuadrado, 8 UMA por metro cuadrado;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XLI. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 12 UMA;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XLII. Impresión de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 12 UMA por metro cuadrado;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XLIII. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en tamaño carta, oficio o doble carta, con ortofoto digital de fondo, 10.5 UMA;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XLIV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas de 40x60 hasta un metro cuadrado, con ortofoto digital de fondo, 18 UMA; y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XLV. Impresión certificada de croquis de ubicación de un predio registrado en el padrón catastral, que contenga clave catastral y, en su caso, nomenclatura de vialidades, en medidas mayores de un metro cuadrado, con ortofoto digital de fondo, 18 UMA por metro cuadrado.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -2569,19 +2699,17 @@ XL. Copia digital en formato de documento portátil (PDF) de planos catastrales,
 
 Por la ejecución de deslindes catastrales se causarán y pagarán:
 
-> <small>(REFORMADA [N. DE E. CON SUS CANTIDADES], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 I. De acuerdo a la superficie del predio causará y pagará conforme a lo siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28569.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31630.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 56691.]</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+II. Cuando el contribuyente opte por efectuar el procedimiento de deslinde catastral con apoyo de un dictaminador catastral o un topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se pagará el 70 por ciento de los montos establecidos en la fracción I del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad, así como la solicitud y la documentación requerida para el trámite de deslinde catastral.
 
-II. Cuando el contribuyente opte por efectuar el procedimiento de deslinde catastral con apoyo de un topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se pagará el 70 por ciento de los montos establecidos en la fracción I del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad, así como la solicitud y la documentación requerida para el trámite de deslinde catastral.
-
-El expediente referido en el párrafo anterior se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectará alguna inconsistencia atribuible al topógrafo externo que motive una nueva revisión del expediente, se causarán y pagarán 21 UMA por la citada revisión. El topógrafo externo a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral; cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
+El expediente referido en el párrafo anterior se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectara alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que motive una nueva revisión del expediente, se causarán y pagarán 21 UMA por la citada revisión. El dictaminador catastral o topógrafo externo a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral; cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
 
 III. Cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o, asistiendo, se niegue a señalarlos, se causará y pagará un 20 por ciento de los montos establecidos en la fracción I del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes contado a partir de la fecha de programación inicial de la diligencia de deslinde; en caso contrario, se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
 
@@ -2593,81 +2721,53 @@ V. Cuando derivado del deslinde catastral se detecten diferencias en cuanto a la
 
 VI. Cuando una vez concluido el procedimiento de deslinde catastral sea necesario realizar alguna modificación al plano resultante del mismo, con motivo de pronunciamiento, opinión técnica o resolución de autoridad competente, el solicitante deberá pagar la cantidad correspondiente al 20 por ciento sobre el monto de los derechos establecidos en la fracción I del presente artículo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo; y
+VII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VIII. Cuando el interesado solicite la suspensión de un procedimiento de deslinde catastral, por cada solicitud subsecuente a la primera hasta la sexta, se pagarán 25 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo.
+VIII. Cuando el interesado solicite la suspensión de un procedimiento de deslinde catastral, por cada solicitud subsecuente a la primera hasta la sexta, se pagarán 25 UMA por cada suspensión; a partir de la séptima solicitud de suspensión se considerará una reactivación del procedimiento y se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en la fracción I del presente artículo; y
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+IX. Por la cancelación de un procedimiento de deslinde catastral concluido que no haya sido protocolizado a solicitud del interesado por causas ajenas a la Dirección de Catastro, se causará y pagará el equivalente a 15 UMA.
 
 ###### Artículo 118.
 
-Por la ejecución de levantamientos topográficos de planimetría, se causarán y pagarán:
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
-I. De predios con superficie:
-
-Metros Cuadrados UMA Adicionar 1.25 UMA por cada:
-
-Hasta de 150 27 Costo fijo
-
-De más de 150 27 17.50 m2 hasta llegar a 500 m2
-
-De más de 500 52 32.89 m2 hasta llegar a 1,000 m2
-
-De más de 1,000 71 94.34 m2 hasta llegar a 5,000 m2
-
-De más de 5,000 124 172.02 m2 hasta llegar a 20,000 m2
-
-De más de 20,000 233 238.85 m2 hasta llegar a 50,000 m2
-
-De más de 50,000 390 473.48 m2 hasta llegar a 100,000 m2
-
-De más de 100,000 522 762.20 m2 hasta llegar a 500,000 m2
-
-De más de 500,000 1,178 1,142.60 m2 hasta llegar a 1,000,000 m2
-
-De más de 1,000,000 1,725 1,428.25 m2 excedentes
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
-
-II. Cuando el contribuyente opte por efectuar el procedimiento de levantamiento topográfico con apoyo de un topógrafo externo inscrito en (sic) Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se pagará el 50 por ciento de los montos establecidos en la fracción I del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de levantamiento topográfico.
-
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, P.O. 23 DE DICIEMBRE DE 2021]</small>
-
-El expediente referido en el párrafo anterior, se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de levantamiento topográfico.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 119.
 
 Por la ejecución de replanteos topográficos se causarán y pagarán, respecto de predios con superficie:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA por cada
+Metros Cuadrados UMA Adicionar 1.25 UMA
 
-Hasta de 150 84 Costo fijo
+por cada
 
-De más de 150 84 5 m2 hasta llegar a 500 m2
+Hasta de 150 85 Costo fijo
 
-De más de 500 176 6 m2 hasta llegar a 1,000 m2
+De más de 150 85 4.5 m2 hasta llegar a 500 m2
 
-De más de 1,000 286 26 m2 hasta llegar a 5,000 m2
+De más de 500 182.22 5 m2 hasta llegar a 1,000 m2
 
-De más de 5,000 488 33 m2 hasta llegar a 20,000 m2
+De más de 1,000 307.22 26 m2 hasta llegar a 5,000 m2
 
-De más de 20,000 1,084 40 m2 hasta llegar a 50,000 m2
+De más de 5,000 499.53 32 m2 hasta llegar a 20,000 m2
 
-De más de 50,000 2,069 80 m2 hasta llegar a 100,000 m2
+De más de 20,000 1,085.47 37 m2 hasta llegar a 50,000 m2
 
-De más de 100,000 2,725 100 m2 hasta llegar a 500,000 m2
+De más de 50,000 2,098.98 80 m2 hasta llegar a 100,000 m2
 
-De más de 500,000 5,350 120 m2 hasta llegar a 1,000,000 m2
+De más de 100,000 2,880.23 100 m2 hasta llegar a 500,000 m2
 
-De más de 1,000,000 7,537 150 m2 excedentes
+De más de 500,000 7,046.90 120 m2 hasta llegar a 1,000,000 m2
+
+De más de 1,000,000 11,213.56 150 m2 excedentes
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 Si el solicitante requiere la realización de un deslinde catastral inmediatamente posterior a la ejecución del replanteo topográfico y siempre que el dictamen aporte los datos técnicos para realizarlo, el monto de los derechos por concepto de la ejecución del deslinde catastral se calculará al 50 por ciento de lo señalado en el artículo 117 de esta Ley.
 
@@ -2677,89 +2777,145 @@ Si el solicitante requiere la realización de un deslinde catastral inmediatamen
 
 Por la ejecución de plano catastral que contenga elementos físicos o virtuales de un predio o un desarrollo inmobiliario, se causarán y pagarán:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 I. Cuando impliquen la realización de trabajos técnicos de topografía o geodesia, de un predio o un desarrollo inmobiliario con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA por cada:
+Metros Cuadrados UMA Adicionar 1.25 UMA
 
-Hasta de 150 37 Costo fijo
+por cada:
 
-De más de 150 37 14 m2 hasta llegar a 500 m2
+Hasta de 150 39 Costo fijo
 
-De más de 500 70 25 m2 hasta llegar a 1,000 m2
+De más de 150 39 14 m2 hasta llegar
 
-De más de 1,000 96 120 m2 hasta llegar a 5,000 m2
+a 500 m2
 
-De más de 5,000 140 145 m2 hasta llegar a 20,000 m2
+De más de 500 70.25 23 m2 hasta llegar
 
-De más de 20,000 276 170 m2 hasta llegar a 50,000 m2
+a 1,000 m2
 
-De más de 50,000 507 300 m2 hasta llegar a 100,000 m2
+De más de 1,000 97.42 117 m2 hasta llegar
 
-De más de 100,000 726 600 m2 hasta llegar a 500,000 m2
+a 5,000 m2
 
-De más de 500,000 1,601 1,200 m2 hasta llegar a 1,000,000 m2
+De más de 5,000 140.16 135 m2 hasta llegar
 
-De más de 1,000,000 2,148 1,500 m2 excedentes
+a 20,000 m2
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+De más de 20,000 279.05 163 m2 hasta llegar
+
+a 50,000 m2
+
+De más de 50,000 509.11 265 m2 hasta llegar
+
+a 100,000 m2
+
+De más de 100,000 744.96 580 m2 hasta llegar
+
+a 500,000 m2
+
+De más de 500,000 1,607.03 1,000 m2 hasta llegar
+
+a 1,000,000 m2
+
+De más de 1,000,000 2,232.03 1,500 m2 excedentes
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SU TABLA], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 II. Cuando impliquen la realización de trabajos de cartografía o aerofotografía, de un predio o un desarrollo inmobiliario con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.00 UMA por cada:
+Metros Cuadrados UMA Adicionar 1.00 UMA
 
-Hasta de 150 19 Costo fijo
+por cada:
 
-De más de 150 19 50 m2 hasta llegar a 500 m2
+Hasta de 150 21 Costo fijo
 
-De más de 500 27 140 m2 hasta llegar a 1,000 m2
+De más de 150 21 50 m2 hasta llegar
 
-De más de 1,000 30 360 m2 hasta llegar a 5,000 m2
+a 500 m2
 
-De más de 5,000 42 500 m2 hasta llegar a 20,000 m2
+De más de 500 28 140 m2 hasta llegar
 
-De más de 20,000 74 700 m2 hasta llegar a 50,000 m2
+a 1,000 m2
 
-De más de 50,000 119 1,200 m2 hasta llegar a 100,000 m2
+De más de 1,000 31.57 360 m2 hasta llegar
 
-De más de 100,000 162 1,600 m2 hasta llegar a 500,000 m2
+a 5,000 m2
 
-De más de 500,000 425 2,400 m2 hasta llegar a 1,000,000 m2
+De más de 5,000 42.68 450 m2 hasta llegar
 
-De más de 1,000,000 644 3,200 m2 excedentes
+a 20,000 m2
+
+De más de 20,000 76.02 680 m2 hasta llegar
+
+a 50,000 m2
+
+De más de 50,000 120.13 1,100 m2 hasta llegar
+
+a 100,000 m2
+
+De más de 100,000 165.59 1,500 m2 hasta llegar
+
+a 500,000 m2
+
+De más de 500,000 432.25 2,100 m2 hasta llegar
+
+a 1,000,000 m2
+
+De más de 1,000,000 670.35 3,200 m2 excedentes
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 Con ortofoto de fondo, se adicionarán 6 UMA.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 III. Cuando el plano catastral se genere con información obtenida de un procedimiento de deslinde catastral, que se haya realizado dentro de un periodo no mayor de cinco años a partir de la solicitud del plano catastral, siempre y cuando el predio conserve las condiciones físicas o jurídicas; para un predio con superficie de:
 
-Metros Cuadrados UMA Adicionar 1.25 UMA por cada:
+Metros Cuadrados UMA Adicionar 1.25 UMA
 
-Hasta de 150 19 Costo fijo
+por cada:
 
-De más de 150 19 25 m2 hasta llegar a 500 m2
+Hasta de 150 20 Costo fijo
 
-De más de 500 38 70 m2 hasta llegar a 1,000 m2
+De más de 150 20 24 m2 hasta llegar
 
-De más de 1,000 47 180 m2 hasta llegar a 5,000 m2
+a 500 m2
 
-De más de 5,000 76 250 m2 hasta llegar a 20,000 m2
+De más de 500 38.23 65 m2 hasta llegar
 
-De más de 20,000 155 350 m2 hasta llegar a 50,000 m2
+a 1,000 m2
 
-De más de 50,000 268 600 m2 hasta llegar a 100,000 m2
+De más de 1,000 47.84 175 m2 hasta llegar
 
-De más de 100,000 377 800 m2 hasta llegar a 500,000 m2
+a 5,000 m2
 
-De más de 500,000 1,033 1,200 m2 hasta llegar a 1,000,000 m2
+De más de 5,000 76.42 210 m2 hasta llegar
 
-De más de 1,000,000 1,580 1,600 m2 excedentes
+a 20,000 m2
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+De más de 20,000 165.70 365 m2 hasta llegar
 
-IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
+a 50,000 m2
+
+De más de 50,000 268.44 550 m2 hasta llegar
+
+a 100,000 m2
+
+De más de 100,000 382.08 750 m2 hasta llegar
+
+a 500,000 m2
+
+De más de 500,000 1,048.74 1,100 m2 hasta llegar
+
+a 1,000,000 m2
+
+De más de 1,000,000 1,616.93 1,600 m2 excedentes
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+IV. En el caso de las fracciones I y III de este artículo, cuando el contribuyente opte por efectuar el procedimiento para la elaboración del plano catastral mediante dictaminador catastral o topógrafo externo inscrito en el Padrón de Contratistas de Obra Pública del Estado de Querétaro y reconocido por la Dirección de Catastro, se causará y pagará el 50 por ciento de los montos establecidos en las fracciones I y III del presente artículo, siempre y cuando dicho dictaminador catastral o topógrafo externo presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al dictaminador catastral o topógrafo externo que ocasionará una nueva revisión, pagará 21 UMA por la misma. El dictaminador catastral o topógrafo externo al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -2963,19 +3119,13 @@ Se exceptúa del pago de los derechos previstos en el presente artículo, el acc
 
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS CANTIDADES], P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 124.
 
 Por la elaboración de avalúos individuales para efectos catastrales, realizados a solicitud del interesado, se causarán y pagarán derechos de conformidad con lo siguiente:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINA 28570.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2021, PÁGINA 55697.]</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
-
-Los avalúos catastrales que practique la Dirección de Catastro, tendrán vigencia por el ejercicio administrativo que corresponda a su fecha de elaboración.
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31633.]</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3029,9 +3179,9 @@ Tratándose de la regularización de asentamientos humanos derivado de programas
 
 Por los servicios a cargo de la Dirección de Catastro que a continuación se indican, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Por la notificación o cédula de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación catastral se realice como producto de la conclusión de un trámite o servicio catastral, 4 UMA;
+I. Por la cédula de registro catastral solicitada por los contribuyentes o usuarios, excepto cuando la emisión de la notificación catastral se realice como producto de la conclusión de un trámite o servicio catastral, 4 UMA;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3049,7 +3199,9 @@ b) Por la expedición del plano catastral, 8 UMA;
 
 c) Por la estimación del valor catastral, 16 UMA, y,
 
-d) Por la ejecución del levantamiento topográfico con cinta o con receptor móvil del Sistema de Posicionamiento Global (GPS), que permita verificar las medidas, superficie y georreferenciación aproximada, se causarán y pagarán el 30% de los derechos establecidos en la fracción I, del artículo 118 de esta Ley;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+d) Por la ejecución del levantamiento topográfico con cinta o con receptor móvil del Sistema de Posicionamiento Global (GPS), que permita verificar las medidas, superficie y georreferenciación aproximada, se causarán y pagarán el 20 por ciento de los derechos establecidos en la fracción I, del artículo 119 BIS de esta Ley;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3073,11 +3225,11 @@ Cuando se trate de avalúos que se realicen para la primera operación traslativ
 
 En los dos últimos supuestos, el valuador con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, deberá acreditar fehacientemente dicha circunstancia mediante la documentación oficial correspondiente;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. Por la expedición del archivo digital del área de dibujo del plano de levantamiento topográfico o deslinde catastral en coordenadas terrestres o UTM, 14 UMA.
+VI. Por la expedición del archivo digital en formato de dibujo (DWG) del área de dibujo del plano de levantamiento topográfico, plano catastral o deslinde catastral en coordenadas terrestres o UTM, 14 UMA.
 
-Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan;
+Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos, planos o deslindes catastrales que correspondan;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -3121,9 +3273,9 @@ XIV. Por la cancelación de trámites a solicitud del interesado, por causas aje
 
 XV. Por la expedición de copias simples de documentos catastrales con fojas de una hasta cinco, 4 UMA y por cada foja excedente 0.10 UMA;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XVI. Por el marcaje de vértices de predios producto del procedimiento de deslinde catastral o levantamiento topográfico, cuando se cuente con los elementos técnicos para su realización, de 1 a 5 vértices, 20 UMA y por vértice adicional, 3 UMA.
+XVI. Por el marcaje de vértices de predios producto del procedimiento de deslinde catastral o plano catastral, cuando se cuente con los elementos técnicos para su realización, de 1 a 5 vértices, 20 UMA y por vértice adicional, 3 UMA.
 
 La prestación de este servicio no incluye monumentación;
 
@@ -3167,9 +3319,9 @@ XXII. Por el alta de predio omiso, 4 UMA;
 
 Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando la solicitud para empadronar un predio, provenga de una dependencia u organismo federal, encargado de emitir títulos de propiedad derivados de la desincorporación del régimen de propiedad social; y,
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XXIII. Por la validación y complementación de un expediente para ingreso de la solicitud de deslinde catastral, levantamiento topográfico, plano catastral o replanteo, 5 UMA.
+XXIII. Por la validación y complementación de un expediente para ingreso de la solicitud de deslinde catastral, plano catastral o replanteo topográfico, 5 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
@@ -3177,7 +3329,7 @@ XXIII. Por la validación y complementación de un expediente para ingreso de la
 
 Por los documentos que expida o los servicios que preste la Dirección de Catastro a la Federación, al Estado o a los municipios, así como a sus organismos y entidades, se causará y pagará el 50% de la cuota señalada en los artículos de este Capítulo, salvo las excepciones ahí establecidas.
 
-### Capítulo Sexto. Por los servicios prestados por las Autoridades de Educación
+### Capítulo Quinto. Por los servicios prestados por Autoridades del Trabajo y Previsión Social
 
 ###### Artículo 129.
 
@@ -3209,7 +3361,7 @@ III. Por la certificación emitida a las empresas, 178 UMA, por empresa.
 
 El pago de la certificación se realizará previamente a la aplicación de la evaluación señalada en la fracción II, de acuerdo a lo que establezca el programa respectivo y no será objeto de devolución en caso de que sus trabajadores no obtengan resultado aprobatorio.
 
-### Capítulo Séptimo. Por los servicios prestados por las Autoridades de la Secretaría de Desarrollo Urbano y Obras Públicas
+### Capítulo Sexto. Por los servicios prestados por las Autoridades de Educación
 
 ###### Artículo 130.
 
@@ -3321,15 +3473,13 @@ Por certificación profesional. 15
 
 Por los servicios que presta la Dirección de Educación, se causarán y pagarán los siguientes derechos:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28573 A LA 28574.]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31634 A LA 31535.]</small>
 
 ###### Artículo 135.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-### Capítulo Octavo. Por los servicios prestados por las Autoridades de la Secretaría de Gobierno
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+### Capítulo Séptimo. Por los servicios prestados por las Autoridades de la Secretaría de Desarrollo Urbano y Obras Públicas
 
 ###### Artículo 136.
 
@@ -3373,9 +3523,9 @@ No pagarán los derechos a que se refiere este artículo, las personas físicas 
 
 Por los servicios prestados respecto de agentes y empresas inmobiliarias, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Por la expedición y renovación de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 50 UMA;
+I. Por la expedición y renovación de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará el equivalente a 7 UMA;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3433,19 +3583,19 @@ Por la reproducción de expediente de desarrollos
 
 inmobiliarios en medios electrónicos. 4
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 139 Bis.
 
-Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 28 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 23 UMA.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+Por la inscripción en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 56 UMA; por la renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, causará y pagará el equivalente a 46 UMA.
 
 ###### Artículo 139 Ter.
 
-Por el envío por mensajería con acuse de recibido de la constancia de Registro en el Padrón de Contratistas al domicilio del interesado, causará y pagará el equivalente a 3 UMA.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
-### Capítulo Noveno. Por los servicios prestados por la Procuraduría General de Justicia del Estado
+### Capítulo Octavo. Por los servicios prestados por las Autoridades de la Secretaría de Gobierno
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 140.
 
@@ -3553,57 +3703,71 @@ Por la expedición de constancia de ejercicio de la función notarial. 20
 
 Por la expedición de nombramiento de Notario. 119
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 143
 
-Bis. Por los servicios prestados por la Dirección de Gobierno en relación con permisos y licencias expedidas por la Secretaría de la Defensa Nacional, se causarán y pagarán los siguientes derechos:
+Bis. Por los servicios prestados por la Dirección de Gobierno relativos a los permisos, autorizaciones y licencias que a continuación se describen, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Por la expedición de cada uno de los dictámenes de anuencia en materia de armas y municiones:
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+I. Por la expedición de cada uno de los dictámenes de anuencia en materia de armas y municiones, en relación con permisos y licencias expedidas por la Secretaría de la Defensa Nacional:
 
 CONCEPTO UMA
 
-Para la fabricación de armas de fuego, cartuchos, cartuchos de
+Para la fabricación de armas de fuego, cartuchos, 53
 
-fuego central, armas deportivas o municiones esféricas de plomo. 53
+cartuchos de fuego central, armas deportivas o
 
-Para talleres dedicados a la reparación de armas de fuego o gas. 53
+municiones esféricas de plomo.
 
-Para el registro de un club o asociación de deportistas de tiro y cacería. 42
+Para talleres dedicados a la reparación de 53
 
-Para coleccionistas o museos de armas de fuego. 27
+armas de fuego o gas.
 
-Por la adquisición y posesión de nuevas armas destinadas al
+Para el registro de un club o asociación de 42
 
-enriquecimiento de una colección o de un museo. 2
+deportistas de tiro y cacería.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+Para coleccionistas o museos de armas de 27
 
-II. Por la expedición de cada uno de los dictámenes de anuencia en materia de explosivos y sustancias químicas:
+fuego.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+Por la adquisición y posesión de nuevas armas 2
+
+destinadas al enriquecimiento de una colección
+
+o de un museo.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+II. Por la expedición de cada uno de los dictámenes de anuencia en materia de explosivos y sustancias químicas, en relación con permisos y licencias expedidas por la Secretaría de la Defensa Nacional:
 
 CONCEPTO UMA
 
 Para el almacenamiento de materiales explosivos. 97
 
-Para la fabricación de explosivos o sustancias químicas relacionadas
+Para la fabricación de explosivos o sustancias 97
 
-con éstos, así como para el almacenamiento de materia prima
+químicas relacionadas con éstos, así como para el
 
-y productos terminados. 97
+almacenamiento de materia prima y productos
 
-Para el almacenamiento de explosivos o sustancias químicas
+terminados.
 
-relacionadas con éstos. 97
+Para el almacenamiento de explosivos o sustancias 97
 
-Para el almacenamiento de sustancias químicas en la fabricación
+químicas relacionadas con éstos.
 
-y venta de artificios pirotécnicos. 14
+Para el almacenamiento de sustancias químicas 14
+
+en la fabricación y venta de artificios pirotécnicos.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+III. Por la expedición de cualquier otro dictamen de anuencia que requieran las dependencias federales distintos de los previstos en las fracciones anteriores, se causarán y pagarán 21 UMA.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 Por la modificación de un dictamen de anuencia previamente expedido, se causarán y pagarán los mismos derechos que para su otorgamiento.
 
@@ -3709,9 +3873,13 @@ A B C
 
 10,001 en adelante 102.87 104.10 106.60
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-V. Por la emisión de dictámenes técnicos sobre riesgos por fenómenos perturbadores se causarán y pagarán 60.25 UMA.
+V. Por la emisión de dictámenes técnicos sobre riesgos por fenómenos perturbadores, se causarán y pagarán:
+
+a) Dictámenes técnicos tendientes a la determinación de aforo permitido para establecimiento, 7.5 UMA y
+
+b) Dictámenes técnicos relativos a la revisión estructural de un inmueble, 60.5 UMA;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3753,15 +3921,13 @@ Zona B: Cadereyta de Montes, Ezequiel Montes, Tequisquiapan, Amealco y Colón.
 
 Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín, Arroyo Seco y Tolimán.
 
-### Capítulo Décimo. Por los servicios prestados por la Secretaría de la Contraloría
+### Capítulo Noveno. Por los servicios prestados por la Procuraduría General de Justicia del Estado
 
 ###### Artículo 145.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
 
-### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+### Capítulo Décimo. Por los servicios prestados por la Secretaría de la Contraloría
 
 ###### Artículo 146.
 
@@ -3799,7 +3965,9 @@ Copia certificada tamaño oficio, por hoja. 0.1395
 
 Por la expedición de la constancia de no inhabilitación a favor de las personas que pretendan ingresar al servicio público, se causará y pagará un derecho equivalente a 1.40 UMA.
 
-### Capítulo Décimo Segundo. Por los servicios prestados por Autoridades Fiscales
+### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 151.
 
@@ -3955,9 +4123,7 @@ Constancia de instructor de manejo 3
 
 Autorización de vehículo para impartir clases de manejo 2
 
-### Capítulo Décimo Tercero. Por los servicios prestados por la Legislatura
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+### Capítulo Décimo Segundo. Por los servicios prestados por Autoridades Fiscales
 
 ###### Artículo 154.
 
@@ -4065,25 +4231,25 @@ Público Automóvil, camión y autobús 26
 
 III. La expedición de placas metálicas, tarjeta de circulación y calcomanía de identificación vehicular para auto antiguo, para personas con discapacidad y de policía, causarán los derechos correspondientes de acuerdo al transporte y tipo a que se refiere la fracción anterior;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 3 UMA;
+IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 4 UMA;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-V. Por la reposición de la tarjeta de circulación se pagará 2 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular;
+V. Por la reposición de la tarjeta de circulación se pagará 3 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 3 UMA;
+VI. Por el trámite relativo al aviso a otras entidades federativas sobre el alta de vehículos provenientes de otras entidades en el Padrón Vehicular Estatal, se pagarán 4 UMA;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 2.5 UMA; y
+VII. Por la actualización al Padrón Vehicular Estatal derivada del cambio de propietario se pagarán 3.5 UMA; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 5 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente.
+VIII. Por la obtención de placas metálicas de circulación con características especiales, las cuales estarán sujetas a los requisitos y procedimientos que para tal efecto establezca la Secretaría de Finanzas, se pagarán 6 UMA adicionales a los derechos correspondientes de acuerdo al transporte y tipo a que se refieren las fracciones II y III del presente.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -4163,9 +4329,9 @@ Las personas físicas o morales que pretendan realizar el cambio de propietario 
 
 Tratándose de vehículos nuevos, el contribuyente solo deberá presentar la documentación señalada en las fracciones I, II, y III de este artículo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-El contribuyente o su representante legal deberán presentar el vehículo a revisión física cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, se causarán y pagarán 6 UMA.
+El contribuyente o su representante legal deberán presentar el vehículo a revisión física cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, causará y pagará 7 UMA.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
@@ -4271,11 +4437,17 @@ Las autoridades fiscales no autorizarán movimientos en el Padrón Vehicular Est
 
 Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales; así como las personas con discapacidad que lo acrediten con la constancia emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, causarán y pagarán un 50% de los derechos contemplados por el artículo 157 de esta Ley, debiendo acreditar ante la autoridad correspondiente el supuesto anterior con la documentación original de la misma.
 
-Lo dispuesto en el párrafo anterior, únicamente resultará aplicable respecto de los derechos contemplados por el artículo 157, causados con posterioridad a la adquisición de las calidades a que se refiere este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-### Capítulo Décimo Cuarto. Por los Servicios Prestados por el Poder Judicial
+Para efectos del párrafo anterior, adicionalmente se deberá acreditar que la unidad vehicular es de uso particular, presentando la documentación correspondiente. Lo anterior, quedará sujeto a revisión y verificación domiciliaria por parte de la autoridad fiscal, a fin de determinar la aplicación de este precepto.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Lo dispuesto en el párrafo primero del presente artículo, únicamente resultará aplicable respecto de los derechos contemplados por el artículo 157 de la presente Ley, causados con posterioridad a la adquisición de las calidades a que se refiere este artículo.
+
+### Capítulo Décimo Tercero. Por los servicios prestados por la Legislatura
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 165.
 
@@ -4313,9 +4485,9 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-### Capítulo Décimo Quinto. Por los servicios prestados por la Oficialía Mayor
+### Capítulo Décimo Cuarto. Por los Servicios Prestados por el Poder Judicial
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 166.
 
@@ -4351,9 +4523,9 @@ Se exceptúa del pago de los derechos por búsqueda de información del archivo,
 
 En el supuesto de que la autoridad posea la información en medio electrónico y el particular solicite que le sea entregada la información a través de dicho medio, únicamente se pagará el costo correspondiente al material del medio electrónico en el que sea entregada la información.
 
-### Capítulo Décimo Sexto. Por los servicios prestados por Otras Autoridades Administrativas
+### Capítulo Décimo Quinto. Por los servicios prestados por la Oficialía Mayor
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 167.
 
@@ -4363,7 +4535,9 @@ I. El importe de la suscripción al Padrón de Proveedores y Prestadores de Serv
 
 II. El importe de refrendo o revalidación al Padrón de Proveedores y Prestadores de Servicios del Poder Ejecutivo del Estado de Querétaro, que será la cantidad de 3 UMA, para personas físicas, y de 5 UMA, en el caso de personas morales.
 
-### Capítulo Décimo Séptimo. Por los servicios prestados por el Estado en Materia de Transporte Público
+### Capítulo Décimo Sexto. Por los servicios prestados por Otras Autoridades Administrativas
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 168.
 
@@ -4479,13 +4653,17 @@ XXIII. Por la autorización de la licencia para la explotación de bancos de mat
 
 XXIV. Por la modificación de datos del registro de prestadores de servicios ambientales, se pagará el equivalente a 11 UMA;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+XXV. Por el registro de Plan de Manejo de Residuos de Manejo Especial, se pagará el equivalente a 40 UMA;
+
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XXV. Por la actualización de planes de manejo de residuos urbanos y de manejo especial, se pagará el equivalente a 21 UMA; y,
+XXVI. Por la actualización de planes de manejo de residuos urbanos y de manejo especial, se pagará el equivalente a 21 UMA; y,
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-XXVI. Por la expedición de copias simples de expedientes a cargo de la Secretaría de Desarrollo Sustentable, se pagará el equivalente a 0.07 UMA por foja y el equivalente a 0.15 UMA por foja, para la expedición de copias certificadas.
+XXVII. Por la expedición de copias simples de expedientes a cargo de la Secretaría de Desarrollo Sustentable, se pagará el equivalente a 0.07 UMA por foja y el equivalente a 0.15 UMA por foja, para la expedición de copias certificadas.
 
 Para los efectos de este artículo, se atenderá a la estratificación de empresas establecida por las autoridades federales competentes, que al efecto se publique en el Diario Oficial de la Federación.
 
@@ -4523,9 +4701,17 @@ Menores de 12 años y personas adultas mayores: 2.3125
 
 Por el uso y aprovechamiento del Querétaro Centro de Congresos, se causarán y pagarán:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28577 A LA 28580.]</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 30908 A LA 30910; 23 DE DICIEMBRE DE 2021, PÁGINAS DE LA 55709 A LA 55711.]</small>
+I. Por el uso de espacios del Querétaro Centro de Congresos (sic) causará y pagará, conforme a los (sic) siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31638 A LA 31639.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+II. Por el uso de bienes dentro del Querétaro Centro de Congresos (sic) causará y pagará, conforme a los (sic) siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31640.]</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -4533,9 +4719,7 @@ Por el uso y aprovechamiento del Querétaro Centro de Congresos, se causarán y 
 
 Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, se causarán y pagarán, por evento, los siguientes derechos:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28580 A LA 28582.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 21 DE DICIEMBRE DE 2020, PÁGINAS DE LA 30911 A LA 30912]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINAS DE LA 31640 A LA 31641.]</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -4543,27 +4727,27 @@ Por el uso y aprovechamiento de los bienes del Querétaro Teatro Metropolitano, 
 
 Por los servicios prestados por la Secretaría de Desarrollo Agropecuario, consistentes en la admisión a las instalaciones del Parque Recreativo Cimacuático, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-I. Adultos $29.00;
+I. Adultos $30.00;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-II. Niños y adultos mayores $17.00; y
+II. Niños y adultos mayores $20.00; y
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 III. Grupos:
 
-a) Escuelas $12.00 por persona.
+a) Escuelas $15.00 por persona.
 
-b) Sector empresarial y de servicios $23.00 por persona.
+b) Sector empresarial y de servicios $25.00 por persona.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 171.
 
-Por la obtención de bases de licitación pública que emitan las autoridades administrativas, se causarán y pagarán los valores establecidos en el siguiente el tabulador:
+Por la obtención de bases de licitación pública que emitan las autoridades administrativas, con excepción de contrataciones de obra pública, causará y pagará los valores establecidos en el siguiente el (sic) tabulador:
 
 UMA MONTO
 
@@ -4577,19 +4761,55 @@ UMA MONTO
 
 152 De $80,000,000.01 o más
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 171 Bis.
+
+Por la obtención de bases de licitación pública en materia de obra pública que emitan las autoridades administrativas, causará y pagará los valores establecidos en el siguiente el tabulador:
+
+UMA MONTO
+
+104 De $0.00 a $15,000,000.00
+
+144 De $15,000,000.01 a $30,000,000.00
+
+184 De $30,000,000.01 a $45,000,000.00
+
+224 De $45,000,000.01 a $60,000,000.00
+
+254 De $60,000,000.01 a $80,000,000.00
+
+304 De $80,000,000.01 a $100,000,000.00
+
+354 De $100,000,000.01 a $250,000,000.00
+
+404 De $250,000,000.01 a $400,000,000.00
+
+454 De $400,000,000.01 a $600,000,000.00
+
+504 De $600,000,000.01 a $750,000,000.00
+
+554 De $750,000,000.01 a $1,000,000,000.00
+
+604 De $1,000,000,000.01 o más
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 172.
 
 Por los servicios prestados por el Poder Ejecutivo del Estado de Querétaro, cuando su costo no se encuentre previsto por esta Ley, así como cuando se trate de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro o de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, PÁGINAS DE LA 28582 A LA 28583.]</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31642.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 23 DE DICIEMBRE DE 2021, PÁGINA 55712.]</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 Tratándose de solicitudes formuladas en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, la búsqueda de información que deban realizar las dependencias, entidades o unidades administrativas no generará costo alguno.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
+
 Cuando la información objeto de la petición se encuentre en sistemas informáticos y sea necesario procesarla, el cobro de su procesamiento será el equivalente al que corresponda por cada hoja digitalizada, en términos de este artículo, excepto tratándose de solicitudes realizadas de conformidad con lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2019)</small>
 
 Los costos de envío, incluidos los de embalaje, para la entrega de la información, por concepto de servicios de correo certificado o mensajería, tratándose de solicitudes formuladas en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Querétaro, deberán ser cubiertos por los solicitantes, haciendo de conocimiento a la Unidad de Transparencia los servicios que hayan contratado, para proceder con el envío respectivo.
 
@@ -4599,47 +4819,71 @@ Los costos de envío, incluidos los de embalaje, para la entrega de la informaci
 
 Por el uso y aprovechamiento de los bienes asignados a la Secretaría de la Juventud, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ESPACIO PERIODO UMA
 
-Auditorio Por Evento 75
+Auditorio Por evento 160
 
-Galería Día 19
+Por día 160
 
-Salón “Co- working” Día 3
+Cabina de radio Por hora 2
 
-Mes 38
+Cabina de radio 2 Por hora 3
 
-Salón conocimiento 16
+Cabina de TV Por día 41
 
-Cabina de radio 42
+Cabina de TV Por hora 3
 
-Día
+> <small>(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Cabina de TV 42
+### Capítulo Décimo Séptimo
 
-Sala de juntas 4
-
-Cafetería Nuqleo Mes 55
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2017)</small>
-
-### Capítulo Décimo Octavo. Por la Prestación de Servicios Públicos exclusivos del Estado
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 172 Ter.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
+Estarán obligadas al pago de los derechos por concepto de admisión a los espacios a cargo de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2018)</small>
+MUSEOS UMA
 
-### Capítulo Único
+Museo de Arte de Querétaro, Museo de 0.3118
+
+Arte Contemporáneo Querétaro y
+
+Museo de la Ciudad.
+
+Museo de la Restauración de la República, 0.2079
+
+Museo de los Conspiradores y la Galería
+
+Libertad.
+
+Museo Histórico de la Sierra Gorda y 0.1039
+
+el Museo Comunitario de Pinal de
+
+Amoles “General Tomás Mejía”.
+
+El pago de este derecho deberá hacerse previamente al ingreso a los espacios a que se refiere este artículo.
+
+> <small>(DEROGADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+
+### Capítulo Décimo Octavo
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 172 Quáter.
 
-(DEROGADO, P.O. 19 DE DICIEMBRE DE 2018)
+Por el uso de los espacios administrados por la Secretaría de Cultura, referidos en el artículo 172 TER de la presente Ley y demás inmuebles administrados por la misma, causarán y pagarán, los siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL NÚMERO 89 DEL P.O. DE 22 DE DICIEMBRE DE 2022, PÁGINA 31643.]</small>
+
+El pago a que se refiere este artículo se efectuará previamente a la realización del evento.
 
 ## Título Quinto. De los Productos
 
-### Capítulo Primero. De los Aprovechamientos
+### Capítulo Único
 
 ###### Artículo 173.
 
@@ -4691,7 +4935,7 @@ La explotación y aprovechamiento de bienes propiedad del Estado, realizados por
 
 ## Título Sexto. De los Aprovechamientos y Contribuciones Especiales
 
-### Capítulo Segundo. De las Contribuciones Especiales
+### Capítulo Primero. De los Aprovechamientos
 
 ###### Artículo 175.
 
@@ -4713,7 +4957,7 @@ Los recargos deben considerarse en todo caso como indemnización al Erario del E
 
 Son otros aprovechamientos, aquellos no considerados específicamente en los artículos anteriores y que no sean impuestos, derechos o productos.
 
-### Capítulo Único
+### Capítulo Segundo. De las Contribuciones Especiales
 
 ###### Artículo 180.
 
@@ -4740,6 +4984,8 @@ Son aportaciones federales, las cantidades de dinero que envía el Gobierno Fede
 Son otras transferencias, las cantidades de dinero que con ese carácter asigna el Gobierno Federal al Estado, condicionada su asignación a la consecución de determinados objetivos de política económica y social.
 
 ## Título Noveno. De Los Ingresos Extraordinarios
+
+### Capítulo Único
 
 ###### Artículo 183.
 
@@ -6094,3 +6340,213 @@ XXV. Para los Asentamientos en proceso de regularización con la Comisión de Re
 ###### ARTÍCULO DÉCIMO.
 
 Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el 1 de enero de 2023, bajo las modalidades previstas en los artículos subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor de la presente Ley, quedarán suspendidas para el Ejercicio Fiscal 2023, las disposiciones relativas al Impuesto de Entretenimientos Públicos Municipales previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado ele Querétaro, respecto de la circunscripción territorial de aquellos Municipios en cuyas Leyes de Ingresos se prevea el impuesto de entretenimientos públicos municipales y que tengan celebrado convenio de colaboración en materia fiscal con el Poder Ejecutivo del Estado, en el que se establezcan las bases para la recaudación de dicho impuesto municipal, de conformidad con lo establecido en la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro.
+
+Las obligaciones nacidas antes de la entrada en vigor de la presente Ley por concepto del impuesto sobre diversiones y entretenimientos públicos previsto en el Capítulo Quinto del Título Tercero de la Ley de Hacienda del Estado de Querétaro, deberán cumplirse en los términos previstos en dicha Ley respecto de los montos, formas y plazos establecidos, así como en las demás disposiciones fiscales estatales.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de la presente Ley, deberán substanciarse y resolverse en términos de las disposiciones fiscales estatales vigentes hasta el 31 de diciembre de 2022.
+
+###### ARTÍCULO CUARTO.
+
+Los retenedores a que se refiere el artículo 44, párrafo tercero, de la Ley de Hacienda del Estado de Querétaro, que hayan iniciado operaciones de manera previa a la entrada en vigor de esta Ley, darán cumplimiento a la obligación prevista en el párrafo cuarto del citado numeral, dentro de los 10 días siguientes a que cobre vigencia la misma.
+
+###### ARTÍCULO QUINTO.
+
+Las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro que ya cuenten en su estructura orgánica con Unidades Informáticas o equivalentes en materia de tecnologías de la información, deberán adecuar sus Reglamentos o normatividad correspondiente a efecto de dar cumplimiento a esta Ley, en un plazo de 60 días naturales contados a partir de la entrada en vigor de la presente Ley.
+
+En tanto no se expidan dichas disposiciones jurídicas se seguirán aplicando en lo conducente las disposiciones normativas correspondientes de las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en lo (sic) contravengan a la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+A partir de la entrada en vigor de la presente Ley, las dependencias y entidades del Poder Ejecutivo en cuya estructura orgánica no se contemple la existencia de Unidades Informáticas o equivalentes en materia de tecnologías de la información observarán las disposiciones que emita la Secretaría de Finanzas del Poder Ejecutivo, a través de la Subsecretaría de Tecnologías de la Información, para la implementación de las reformas y adiciones aprobadas respecto de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro.
+
+###### ARTÍCULO SÉPTIMO.
+
+Corresponderá a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, la creación, nombramiento y remoción de Unidades Informáticas o equivalentes en las dependencias y entidades del Poder Ejecutivo del Estado de Querétaro, en los términos previstos en la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro y de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, con motivo de la entrada en vigor de la presente Ley.
+
+Por tanto, las entidades y dependencias del Poder Ejecutivo distintas de la Secretaría de Finanzas no podrán crear plazas o contratar vía honorarios o prestación de servicios a personas físicas o morales para llevar a cabo funciones en materia de tecnologías de la información, así como la adquisición, arrendamiento, comodato, depósito o por alguna otra figura jurídica, sistemas informáticos o servicios relacionados con éstos, equipo de cómputo, servidores o bienes muebles relacionados.
+
+###### ARTÍCULO OCTAVO.
+
+Dentro de los otros ingresos derivados del Sistema de Colaboración Administrativa Estatal Intermunicipal previstos en el segundo párrafo del artículo 2 de la Ley de Coordinación Fiscal Estatal Intermunicipal del Estado de Querétaro, se incluyen los relativos a la recaudación que obtenga el Estado por concepto del impuesto por la prestación del servicio de hospedaje establecido en la Ley de Hacienda del Estado de Querétaro, la cual será distribuida entre los municipios que cumplan con los siguientes elementos de elegibilidad:
+
+I. Consideren en su Ley de Ingresos el cobro del impuesto que tenga por objeto el uso de la propiedad inmobiliaria destinada para la prestación de servicios de hospedaje.
+
+II. Acrediten haber recaudado ingresos por dicho impuesto en los dos ejercicios fiscales anteriores a la suscripción del convenio correspondiente
+
+III. Suscriban convenio de colaboración administrativa con la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, respecto del impuesto señalado en la fracción I del presente artículo.
+
+La fórmula de distribución de la recaudación obtenida por concepto del impuesto por la prestación del servicio de hospedaje, se establecerá en el convenio que al efecto se suscriba con los municipios que cumplan con los criterios de elegibilidad señalados en el presente artículo.
+
+La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro pondrá a disposición de los municipios el convenio al que hace referencia el artículo 33 de la presente Ley para su firma en su caso, a más tardar el último día hábil del mes de enero de 2023.
+
+###### ARTÍCULO NOVENO.
+
+Para efectos del impuesto de entretenimientos públicos municipales previsto en la Ley de Hacienda de los Municipios del Estado de Querétaro, tratándose de entretenimientos públicos que se ofrezcan gratuitamente, pero que se condicione el acceso del público a la compra de un artículo en promoción, se tomará como base del impuesto el 50% del valor del artículo promocionado.
+
+###### ARTÍCULO DÉCIMO.
+
+Para efectos de lo establecido en el artículo 88, párrafo tercero de la Ley de Hacienda de los Municipios del Estado de Querétaro quedarán exceptuados los inmuebles propiedad de la Federación, Estado y Municipios.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Respecto a la contribución obtenida por la prestación del servicio de transporte a demanda, se estará a lo dispuesto en el Título Tercero Bis de la Ley de la Agencia de Movilidad y Modalidades de Transporte Público para el Estado de Querétaro.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para efectos del artículo 57 BIS, del Código Fiscal del Estado de Querétaro, podrá tenerse como positiva la opinión de cumplimiento que genere la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, respecto de aquellas obligaciones que se encuentren vinculadas con una autorización de pago, en parcialidades o diferido, de créditos fiscales, realizando las anotaciones correspondientes.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2023, serán las siguientes:
+
+I. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, se autoriza a la Dirección de Catastro adscrita a la Secretaría de Finanzas, a realizar la aplicación del cobro del derecho equivalente a 1.25 UMA, respecto de bienes considerados como vivienda de interés social o popular;
+
+II. Se causará una tasa cero con motivo de los derechos a que se refieren las fracciones I, X y XI del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades federales, estatales o municipales, siempre que éstas soliciten la prestación de los servicios previstos en dichas fracciones en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+III. Se causará una tasa cero con motivo de los derechos a que se refiere la fracción XXII del artículo 127 de la Ley de Hacienda del Estado de Querétaro, con relación a autoridades estatales o municipales, siempre que éstas soliciten la prestación del servicio en ejercicio de sus funciones de derecho público y respecto a predios que formen parte de su patrimonio;
+
+IV. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo y conforme a los requisitos que para tal efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, se causará una tasa cero por los derechos correspondientes;
+
+V. Durante el periodo que al efecto establezca la Secretaría de Gobierno del Poder Ejecutivo del Estado de Querétaro, causará una tasa cero por la prestación de los servicios previstos en el artículo 142 de la Ley de Hacienda del Estado de Querétaro, de conformidad con lo siguiente:
+
+a) Rectificación de acta;
+
+b) Expedición de copias certificadas de actas del estado civil de las personas, levantadas en el Estado de Querétaro, por cada hoja, bajo los siguientes supuestos:
+
+1. La expedición de la primera copia certificada, que con motivo de un procedimiento administrativo de rectificación de acta haya sido resuelto por la Dirección Estatal del Registro Civil, cuyo formato se imprima en español o en lengua indígena.
+
+2. La expedición de una copia certificada de acta de nacimiento impresa en sistema braille, que soliciten las personas físicas ciegas o débiles visuales; y
+
+c) La expedición de copias certificadas de actas del estado civil de las personas, levantadas en otra entidad federativa, por medio de la Base de Datos Nacional a partir de la Conexión Interestatal, tratándose de copia certificada de acta de nacimiento impresa en sistema braille que soliciten las personas físicas ciegas o débiles visuales;
+
+VI. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+PERIODO DE PAGO DESCUENTO
+
+Enero 2023 10 por ciento
+
+Febrero 2023 8 por ciento
+
+Marzo 2023 5 por ciento
+
+VII. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios fiscales de reducciones de hasta el noventa y cinco por ciento de las contribuciones conforme a lo establecido en la Ley de Hacienda del Estado de Querétaro en el ejercicio fiscal 2023;
+
+VIII. Se autoriza a las autoridades fiscales a realizar la cancelación de los créditos fiscales por incosteabilidad en el cobro durante el ejercicio fiscal 2023.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2022, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión, incluyendo las sanciones emitidas por los Juzgados.
+
+Se autoriza a las autoridades fiscales la aplicación de la cancelación de los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como de los derechos por control vehicular previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2018 y anteriores;
+
+IX. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, de hasta el noventa y nueve por ciento; debiendo la Secretaría de Finanzas realizar las autorizaciones a través de los lineamientos de aplicación correspondientes;
+
+X. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro, se generarán las acciones administrativas correspondientes;
+
+XI. En caso de robo de placas metálicas, se causarán y pagarán al 50% los derechos establecidos en el artículo 157, fracción II de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2023, siempre y cuando el contribuyente acredite dicha circunstancia de conformidad con los criterios normativos establecidos por la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro;
+
+XII. Se autoriza a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para realizar la aplicación del beneficio contemplado en el artículo 164 de la Ley de Hacienda del Estado de Querétaro, hasta por tres unidades vehiculares por cada contribuyente que actualice el supuesto previsto en dicho artículo, quedando facultada para autorizar la ampliación del beneficio de conformidad con los lineamientos que al efecto emita la misma;
+
+XIII. Se autoriza al Centro de Congresos y Querétaro (sic) Teatro Metropolitano para que en términos de los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, apliquen un factor de reducción de hasta el 50% del cobro de los derechos respectivos, de conformidad a los lineamientos emitidos por el mismo Centro de Congresos y Teatro Metropolitano;
+
+XIV. Se causará una tasa cero por la prestación de los servicios previstos en el artículo 172 Ter de la Ley de Hacienda del Estado de Querétaro, con relación a las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso por parte de la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, para realizar estudios afines a los espacios a que se refiere dicho artículo. Asimismo, se causará una tasa cero con motivo de este derecho, con relación a los visitantes que accedan a los espacios los días domingos y días festivos;
+
+XV. Se causará una tasa cero respecto de los conceptos referidos en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, con relación a las instituciones públicas o privadas que realicen conjuntamente con la Secretaría de Cultura del Poder Ejecutivo, eventos culturales, educativos, cívicos o de asistencia social, así como las personas físicas o morales que realicen actividades de promoción, difusión y comercialización culturales, educativas, artísticas, cívicas o de asistencia social, previa celebración del convenio correspondiente;
+
+XVI. Se faculta a la Secretaría de Cultura del Poder Ejecutivo para llevar a cabo la aplicación de lo establecido en el artículo 172 Quáter de la Ley de Hacienda del Estado de Querétaro, en función del uso de los espacios y a través de los lineamientos que para tal efecto se emitan, previa validación de la Secretaría de Finanzas del Poder Ejecutivo;
+
+XVII. Los derechos por vivienda de interés social o popular que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro, se causarán al 50 por ciento conforme a las siguientes:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+XVIII. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa de viviendas de interés social o popular.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+XIX. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad del Estado de Querétaro que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+XX. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad del Estado de Querétaro, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes.
+
+e) La inscripción de los actos provenientes de los Programas de Regularización, siempre y cuando se presenten mediante oficio de petición de la autoridad que regularizó;
+
+XXI. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad del Estado de Querétaro para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+XXII. Los recursos derivados de aprovechamientos relativos al concepto de multas y sanciones, por incumplimiento a las disposiciones en materia de verificación vehicular, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro, a que se refiere el Código Ambiental del Estado de Querétaro y los Programas que se financien con dicho Fondo;
+
+XXIII. Se autoriza a la Secretaría de Seguridad Ciudadana para la creación de Programas Estatales para la aplicación de un factor de reducción de hasta el setenta y cinco por ciento del cobro por concepto de los derechos que, de conformidad con lo previsto en el Capítulo Décimo Primero del Título Cuarto de la Ley de Hacienda del Estado de Querétaro, deban pagarse por los servicios que preste la citada dependencia, previa validación de la Secretaría de Finanzas;
+
+XXIV. La Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro realizará las acciones administrativas conducentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enterarán los impuestos previstos en los Capítulos Sexto y Sexto Bis del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXV. Se faculta al Titular de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro para que, en el ejercicio de sus facultades, expida los acuerdos administrativos necesarios para el manejo de los asuntos financieros y tributarios del Estado.
+
+Asimismo, estará facultado para expedir aquellos que autoricen los estímulos fiscales a través de disposiciones y procesos relativos a los numerales 70 al 73 de la Ley de Hacienda del Estado de Querétaro que tengan por objeto establecer los mecanismos para optimizar la recaudación estatal.
+
+Para el ejercicio fiscal 2023, se autoriza a la Secretaría de Finanzas del Poder Ejecutivo para que por su conducto autorice los esquemas necesarios a efecto de otorgar estímulos fiscales directos respecto al capítulo noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro;
+
+XXVI. Se faculta a las autoridades fiscales para emitir y autorizar programas estatales vinculados al Plan Estatal de Desarrollo Querétaro 2021-2027, de beneficios fiscales por declaración oportuna respecto al Capitulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro para el ejercicio fiscal 2023;
+
+XXVII. Los contribuyentes de los impuestos establecidos en las Secciones II, III y IV del Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, podrán reducir de la base gravable, las toneladas o su correspondiente conversión, que se certifiquen mediante los sellos de bajas de emisiones otorgados y transferidos a través del mecanismo establecido por la Secretaría de Desarrollo Sustentable, relativos a la compensación de emisiones de gases de efecto invernadero a la atmósfera y la absorción de bióxido de carbono por actividades de conservación de zonas forestales, energía, ganadería sustentable y reducción de emisiones en el manejo de residuos, en términos de lo previsto en la Ley de Cambio Climático para el Estado de Querétaro;
+
+XXVIII. Los recursos obtenidos en términos de lo previsto en el Capítulo Noveno del Título Tercero de la Ley de Hacienda del Estado de Querétaro, serán destinados principalmente a obras de infraestructura en el Estado, así como para proyectos ambientales;
+
+XXIX. Se autoriza a la Secretaria de Finanzas del Poder Ejecutivo del Estado de Querétaro, para la aplicación de estímulos fiscales de hasta el veinte por ciento por concepto del impuesto por remediación ambiental en la extracción de materiales, establecido en el artículo 83 BIS-5 de la Ley de Hacienda del Estado de Querétaro, en términos de los lineamientos que para tal efecto se emitan.
+
+XXX. En el caso de los derechos que se causen en términos de la Ley de Hacienda del Estado de Querétaro, se utilizará la Unidad de Medida y Actualización para su determinación y cálculo, de conformidad con lo establecido en la Ley de la Unidad de Medida y Actualización del Estado de Querétaro y demás disposiciones que al efecto resulten aplicables.
+
+Así mismo, en términos del numeral 170 de la Ley de Hacienda del Estado de Querétaro se fijan los derechos en pesos, ya que se hace más dinámico el cobro de los mismos;
+
+XXXI. Los aprovechamientos generados por la Secretaría de Seguridad Ciudadana por las infracciones establecidas en el artículo 48 del Reglamento de la Ley de Tránsito para el Estado de Querétaro, serán destinados preferentemente a proyectos y programas de Seguridad, de conformidad a lo establecido en el Plan Estatal de Desarrollo Querétaro 2021-2027;
+
+XXXII. Para los Asentamientos en proceso de regularización con la Comisión de Regularización de la Tenencia de la Tierra (CORETT), actualmente Instituto Nacional del Suelo Sustentable (INSUS), con el Instituto de la Vivienda del Estado de Querétaro (IVEQ) o la Secretaría de Desarrollo Social del Estado de Querétaro (SEDESOQ), o cualquier otro programa de regularización del Estado o de los Municipios en dicha materia podrán contar con estímulos fiscales previa validación de la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+###### ARTÍCULO DECIMO.
+
+Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
