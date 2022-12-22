@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2022-02-11"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -375,11 +375,11 @@ Sin perjuicio de lo dispuesto en los tres artículos anteriores, la Secretaría,
 
 En estos casos, se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse y que no tengan ninguna limitante legal para que se les otorgue la adjudicación.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 22.
 
-La selección de cualquier procedimiento de excepción a la licitación pública que realicen las adjudicantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, que aseguren las mejores condiciones para el Estado o los Municipios, según corresponda. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción cuando se trate de los supuestos que prevén los artículos 18, 19, 20 y 21 de esta Ley, deberán constar en un dictamen por escrito y firmado por el Titular de la Unidad Administrativa de la Dependencia o Entidad solicitante responsable de la adjudicación, en el que se expresarán el o los supuestos que motivan el ejercicio de dicha opción, se hará constar el análisis de la o las propuestas, en su caso, y se señalarán las demás razones para la adjudicación del contrato.
+La selección de cualquier procedimiento de excepción a la licitación pública que realicen las adjudicantes deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, transparencia y honradez, que aseguren las mejores condiciones para el Estado o los Municipios, según corresponda. El acreditamiento de los criterios mencionados y la justificación de las razones para el ejercicio de la opción cuando se trate de los supuestos que prevén los artículos 18, 19, 20 y 21 de esta Ley, deberán constar en un dictamen por escrito y firmado por el Titular de la Unidad Administrativa de la Dependencia o Entidad solicitante responsable de la adjudicación, en el que se expresarán el o los supuestos que motivan el ejercicio de dicha opción, se hará constar el análisis de la o las propuestas, en su caso, y se señalarán las demás razones para la adjudicación del contrato.
 
 SECCIÓN TRES: COMPRAS INTERGUBERNAMENTALES
 
@@ -2440,3 +2440,11 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 22 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
