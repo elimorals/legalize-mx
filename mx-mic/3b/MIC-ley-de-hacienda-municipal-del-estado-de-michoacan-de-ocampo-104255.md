@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2021-12-31"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -579,9 +579,11 @@ IV. Los peritos valuadores autorizados que no apliquen correctamente en la valua
 
 #### SECCIÓN TERCERA. DE LA BASE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 53.
 
-La base gravable de este impuesto sobre Adquisición de Inmuebles, será el valor que se determine mediante avalúo practicado por perito autorizado, en los términos de la Ley de Catastro. Dicho valor será ratificado o rectificado por la Secretaría de Finanzas y Administración, o por la Autoridad Municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
+La base gravable de este impuesto sobre Adquisición de Inmuebles, será el que resulte más alto entre el valor de adquisición y el valor catastral determinado en los términos de la Ley de Catastro. En caso de que el valor catastral a que se refiere la fracción II de este artículo resulte el mayor para los efectos de este artículo, dicho valor será ratificado o rectificado por el Instituto Registral y Catastral del Estado de Michoacán de Ocampo, o por la Autoridad Municipal correspondiente, en los términos de dicha Ley de Catastro, dentro de los cuatro meses siguientes contados a partir de la fecha de la presentación del aviso del acto administrativo de dominio.
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
@@ -2074,3 +2076,65 @@ Primero. El presente Decreto entrará en vigor el día 1° de enero de 2022, pre
 Segundo. Dese cuenta del presente Decreto a los 113 Municipios del Estado de Michoacán de Ocampo, para sus efectos conducentes.
 
 Tercero. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos procedentes.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 324 “APARTADO SEXTO. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 53 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Los Ingresos de Origen Federal que percibirá el Gobierno del Estado, referidos en el artículo 1º codificación numeral 8.1, 8.2, 8.3, 8.4 y 8.5 de la Ley de Ingresos contenida en el presente Decreto, podrán modificarse conforme a lo siguiente:
+
+I. Los montos de Participaciones en Ingresos Federales referidos en el numeral 8.1, estarán sujetos a lo que se publique en el Decreto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2023;
+
+II. Los montos de los Fondos de Aportaciones Federales referidos en el numeral 8.2, estarán sujetos a lo que señale el Decreto de Presupuesto de Egresos de la Federación para el Año 2023;
+
+III. Los montos de los Convenios de Reasignación de Recursos, referidos en el numeral 8.3, se sujetarán a los importes que efectivamente se acuerde por las partes y se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal sujetos por a (sic) los montos previstos para tal efecto. Dichos montos fueron determinados de conformidad con lo dispuesto por el artículo 5° de la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios;
+
+IV. Los montos de los Incentivos derivados de la Colaboración Fiscal, referidos en el numeral 8.4, se sujetarán a los importes que efectivamente se determinen y recauden;
+
+V. Los montos de los Fondos Distintos de Aportaciones, referidos en el numeral 8.5, se sujetarán a los importes que efectivamente se consignen en los convenios que en su oportunidad suscriba el Gobierno del Estado de Michoacán de Ocampo, con las dependencias y entidades de la Administración Pública Federal.
+
+Al conocerse los montos referidos en este artículo, la Secretaría de Finanzas y Administración los incorporará en el trimestre fiscal respectivo, que formará parte de la Cuenta Pública de la Hacienda Estatal, para el Ejercicio Fiscal del Año 2023.
+
+TERCERO. Con respecto a los ingresos establecidos en el presente Decreto, de ser necesario, el Titular del Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, podrá emitir disposiciones administrativas de carácter general, las cuales tendrán como propósito facilitar y simplificar el cumplimiento de las obligaciones establecidas en el mismo.
+
+CUARTO. Cuando algún gravamen no se encuentre previsto en la Ley de Ingresos contenida en el presente Decreto, pero se establezca en alguna ley, acuerdo, o reglamento estatal respectivamente, éste se causará, liquidará y pagará conforme a lo señalado por estos últimos. Asimismo, cuando en alguna ley, acuerdo o reglamento se establezca alguno de los ingresos previstos en la Ley de Ingresos contenida en el presente Decreto, y además los primeros señalen otros ingresos no considerados en esta última, se podrán aplicar con las cuotas relativas a los servicios con los que guarden mayor semejanza.
+
+QUINTO. El 35 por ciento de (sic) honorarios referidos en la Ley de Ingresos contenida en el presente Decreto, se determinarán y pagarán conforme al mecanismo que señale la Secretaría de Finanzas y Administración a través de su Dirección de Contabilidad.
+
+SEXTO. Por lo que corresponde a las tres primeras columnas (lado izquierdo) del artículo 1° de la Ley de Ingresos contenida en el presente Decreto, la misma corresponde a la estructura de codificación considerada en el Clasificador por Rubro de Ingresos del Gobierno del Estado de Michoacán, el cual tiene su base en el l (sic) Clasificador por Rubro de Ingresos, expedido por el Consejo Nacional de Armonización Contable. Por lo que la falta de continuidad en la numeración de la referida codificación, obedece a que alguna numeración se destina a los Ingresos de los Municipios y que no es aplicable al Estado.
+
+SÉPTIMO. Se implementará el Programa "Apoyo de Escrituración Social" por parte del Gobierno del Estado a través del Instituto Registral y Catastral del Estado de Michoacán de Ocampo durante todo el Ejercicio Fiscal 2023, en materia de Derechos por Servicios de la Dirección del Registro Público de la Propiedad y Derechos por Servicios de Catastro, que consiste en otorgar un estímulo fiscal del 100% de los Derechos que estén obligados a pagar los contribuyentes en materia de inscripción de documentos de propiedad, certificado de libertad de gravamen, desglose de predios, valuación, revisión de aviso y/o cancelación (traslado de dominio) y certificados catastrales siempre y cuando se dé cumplimiento a lo siguiente:
+
+I. Tengan como objetivo la Regularización de Asentamientos Humanos a través de la Secretaría de Desarrollo Urbano y Movilidad del Estado de Michoacán, el Registro Agrario Nacional y el Instituto Nacional del Suelo Sustentable;
+
+II. Se hayan cubierto en especie o en pago las Áreas de donación a las que están obligados los interesados al momento de fraccionar;
+
+III. Los beneficiarios no cuenten con vivienda propia;
+
+IV. La familia que ocupe un predio no sea propietaria de otro inmueble o tenga posesión de terrenos en otros asentamientos irregulares y no sea beneficiada por la regulación de más de un lote, cuya superficie no podrá exceder de la extensión determinada por la reglamentación y los programas de desarrollo urbano;
+
+V. Se encuentren dentro de los municipios de alta y muy alta marginación;
+
+VI. En ningún caso el estímulo fiscal a que se refiere este artículo dará lugar a devolución, compensación, acreditación o saldo a favor alguno;
+
+VII. La solicitud del estímulo fiscal a que se refiere el presente programa no constituirá instancia y las resoluciones que dicte la autoridad fiscal al respecto, no podrán ser impugnadas por los medios de defensa;
+
+VIII. La Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán deberá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación del programa de estímulo fiscal; y,
+
+IX. Los demás que considere necesarios el Instituto Registral y Catastral del Estado de Michoacán de Ocampo.
+
+OCTAVO. Previo al cumplimiento de los requisitos que establece la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento para tal efecto, así como el pago del derecho correspondiente, durante todo el Ejercicio Fiscal 2023, se podrán otorgar licencias de vigencia permanente de automovilista y motociclista, mismas que se podrán expedir de manera digital. El monto del derecho a pagar por las citadas licencias será de $2,500.00 (Dos mil quinientos pesos 00/100 M.N.), para las clasificaciones de automovilista y motociclista. El presente incentivo tendrá vigencia durante todo el Ejercicio Fiscal 2023.
+
+NOVENO. Para efecto de lo señalado en la Ley de Ingresos contenida en el presente Decreto, cuando esta haga mención del refrendo anual de circulación, la Secretaría de Finanzas y Administración, de acuerdo a las disposiciones legales aplicables, emitirá las reglas de carácter general que correspondan.
+
+DÉCIMO. Las facultades de coordinación de recaudación de ingresos, reservadas a la Subsecretaría de Ingresos a través de las oficinas recaudadoras del Estado, serán transferidas al Servicio de Administración Tributaria del Estado de Michoacán de Ocampo, cuando se constituya como un órgano desconcentrado de la Secretaría de Finanzas y Administración, una vez que entre en vigor la Ley del Servicio de Administración Tributaria del Estado de Michoacán de Ocampo.
+
+DÉCIMO PRIMERO. Los Organismos Públicos Descentralizados que perciban ingresos por venta de bienes y prestación de servicios, deberán reportarlos al Sistema de Control de Ingresos de Entidades Paraestatales de la Secretaría de Finanzas y Administración, a más tardar el día 5 del mes siguiente al que se trate, atendiendo al Acuerdo de Austeridad, Ordenamiento y Transparencia del Gasto Público de la Administración Pública del Estado de Michoacán de Ocampo, Período 2021-2027 y sus Lineamientos, con la finalidad de contar con los elementos que permitan la trazabilidad ingreso-gasto de dichos Organismos.
+
+DÉCIMO SEGUNDO. Túrnese el presente Decreto al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo, con los respectivos anexos.
+
+DÉCIMO TERCERO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para sus efectos conducentes.
+
+DÉCIMO CUARTO. El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno de conformidad con lo dispuesto por el artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
