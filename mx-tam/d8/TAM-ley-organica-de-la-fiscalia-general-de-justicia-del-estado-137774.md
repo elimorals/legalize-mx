@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2022-11-09"
+last_updated: "2022-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -121,9 +121,7 @@ VI. Intervenir como representante social en los procesos en materia (sic) civile
 
 VII. Intervenir en las acciones de inconstitucionalidad o controversias constitucionales;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
-
-VIII. Coordinar el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+VIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 IX. Las demás que señalen otras disposiciones aplicables.
 
@@ -263,9 +261,7 @@ a) (DEROGADO, P.O. 19 DE OCTUBRE DE 2021)
 
 b) Unidad Especializada en Combate al Secuestro.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
-c) Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ### CAPÍTULO II. DEL FISCAL GENERAL
 
@@ -737,9 +733,9 @@ XVII. Participar como integrante en el Comité Coordinador del Sistema Estatal A
 
 XVIII. Proponer al Fiscal General, el nombramiento de Agentes del Ministerio Público de designación especial que se pretendan adscribir a la Fiscalía Especializada;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-XIX. Propondrá al Fiscal General los nombramientos o la remoción de los coordinadores generales, coordinadores, directores, titulares de las unidades administrativas y personal con funciones no sustantivas de la Fiscalía Especializada en Combate a la Corrupción;
+XIX. Nombrar y, en su caso, remover (sic) los coordinadores generales, coordinadores, directores, titulares de las unidades administrativas y personal con funciones no sustantivas, de la Fiscalía Especializada en Combate a la Corrupción;
 
 XX. Diseñar e implementar, planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos, en materia de corrupción en el ámbito de su competencia;
 
@@ -759,7 +755,7 @@ XXVII. Promover la extinción de dominio de los bienes de los imputados o senten
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2020)</small>
 
-XXVIII. Dar intervención a la unidad administrativa en materia de servicios periciales y ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
+XXVIII. Dar intervención a la unidad administrativa en materia de servicios pericialesy ciencias forenses, para dar trámite y desahogo a los peritajes solicitados en el término que al efecto establezca el Ministerio Público y que resulten acordes con la complejidad del peritaje a realizar;
 
 XXIX. Presentar anualmente al Fiscal General un informe sobre actividades sustantivas y de resultados, el cual será público en términos de lo previsto en la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y demás disposiciones aplicables. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso;
 
@@ -769,79 +765,27 @@ XXX. Elaborar y remitir al Fiscal General su anteproyecto de presupuesto, a efec
 
 XXXI. Someter a la consideración del Fiscal General, el proyecto de rotación y sustitución de los Agentes del Ministerio Público adscritos a su Fiscalía especializada;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+XXXII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
-XXXII. Coordinar la Unidad de Inteligencia Financiera y Económica; y
-
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
-
-XXXIII. Expedir constancias de Antecedentes de No Corrupción, prevista en la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios, previo pago del derecho correspondiente y cumplimiento de los requisitos establecidos en el reglamento de esta ley; y
+XXXIII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 XXXIV. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
 Las facultades establecidas en las fracciones VI a la IX de la presente disposición son facultades indelegables del Fiscal Especializado.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
-La Unidad de Inteligencia Financiera y Económica estará adscrita a la Fiscalía Especializada en Combate a la Corrupción y estará a cargo de un titular de la Unidad.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 27 Bis.
 
-La Unidad de Inteligencia Financiera y Económica será la encargada de obtener y analizar información fiscal, financiera, patrimonial y económica para coadyuvar en la investigación de hechos ilícitos.
-
-La persona titular de la Unidad de Inteligencia Financiera y Económica, será designada por la persona titular de la Fiscalía Especializada en Combate a la Corrupción y ejercerá las atribuciones previstas en el reglamento.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 27 Ter.
 
-Para ser designado Titular de la Unidad de Inteligencia Financiera y Económica, se requiere cumplir los siguientes requisitos:
-
-I. Ser ciudadana o ciudadano mexicano, en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-II. Tener por lo menos treinta años cumplidos el día de la designación;
-
-III. Contar con título profesional de licenciatura en derecho, abogacía, ciencias jurídicas, administrativas o afín con las funciones de la unidad, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente;
-
-IV. Contar con experiencia profesional en materia fiscal, de derecho, financiera, contable y/o económica;
-
-V. Gozar de buena reputación y no haber sido sentenciado por la comisión de delito doloso;
-
-VI. En su caso, tener acreditado el Servicio Militar Nacional;
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VIII. Aprobar las evaluaciones de control de confianza previstas en la legislación aplicable; y
-
-IX. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 27 Quater.
 
-A la Unidad de Inteligencia Financiera y Económica, le corresponden las siguientes atribuciones y obligaciones:
-
-I. Generar, obtener, analizar y consolidar información financiera, fiscal, patrimonial y económica de las personas, para la investigación de hechos ilícitos con la finalidad de remitir la información a las autoridades competentes;
-
-II. Proponer al Fiscal General la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de información, experiencias, conocimientos y avances tecnológicos;
-
-III. Requerir a las dependencias, órganos político-administrativos, unidades administrativas, órganos desconcentrados, fideicomisos públicos, organismos públicos descentralizados, y demás entidades de la Administración Pública del Estado, de la Federación y de los municipios, la información y documentación necesaria para el ejercicio de las atribuciones que se le confieren, los informes y datos que posean con motivo de sus atribuciones;
-
-IV. Remitir al agente del Ministerio Público competente las constancias, reportes, avisos, documentación, datos, alertas, imágenes e informes sobre las conductas que en el ejercicio de sus funciones tuvieran conocimiento pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie que pudieran constituir actividades ilícitas dentro del ámbito de su competencia;
-
-V. Suscribir los documentos relativos al ejercicio de sus atribuciones;
-
-VI. Coordinarse con las autoridades competentes para la práctica de los actos de fiscalización que resulten necesarios con motivo del ejercicio de sus facultades;
-
-VII. Participar, en el ámbito de su competencia, en la formulación, vigilancia y cumplimiento de los convenios o acuerdos de coordinación o colaboración suscritos en los términos de las leyes, reglamentos o acuerdos aplicables;
-
-VIII. Acceder, compilar, explotar, analizar y consolidar la información contenida en las bases de datos con que cuentan los órganos centrales, descentralizados, desconcentrados y paraestatales que conforman la organización de la Administración Pública del Estado, con el fin de generar datos estadísticos, mapas patrimoniales que identifiquen factores de riesgo, así como patrones inusuales en materia financiera, fiscal, patrimonial y económica para el cumplimento de sus atribuciones;
-
-IX. Recabar, recibir, recopilar e investigar reportes, documentos, informes y operaciones en el comercio electrónico para detectar conductas que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de posibles delitos informáticos o relacionados con el acceso ilícito a sistemas y equipos de informática con la finalidad de aportar la información a las autoridades competentes; y
-
-X. Las demás que sean necesarias para el ejercicio de sus funciones, las que le sean conferidas y las demás que le atribuyan expresamente el reglamento de esta ley y otras disposiciones.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 28.
 
@@ -1375,9 +1319,7 @@ IV. Oficiales Ministeriales y Auxiliares Profesionales;
 
 V. Auxiliares Ministeriales y Auxiliares Técnicos; y
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
-
-VI. Unidad de Inteligencia Financiera y Económica.
+VI. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 B) Suplementarios:
 
@@ -2031,45 +1973,21 @@ XI. Promover la formación y capacitación del personal de la Unidad Especializa
 
 XII. Las demás que le confiera el Reglamento, otras disposiciones o le encomiende la persona titular de la Fiscalía General.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO III. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
-
 ###### Artículo 97.
 
-El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública es un órgano desconcentrado de la Fiscalía General, estará integrado con personal especializado y contará con la Coordinación General del Centro Estatal de Evaluación y Control de Confianza, Dirección del Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y demás unidades administrativas que establezca el Reglamento interno y demás ordenamientos aplicables, cuyos titulares serán designados y removidos libremente por el Fiscal General.
-
-Tiene por objeto ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal de Seguridad Publica y atender la observancia de los acuerdos del Consejo Nacional de Seguridad Publica; así como, gestionar la ministración, ejercicio y supervisión de los recursos de aportación federal y estatal en la materia, para el fortalecimiento de las instituciones de seguridad pública del Estado.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 98.
 
-La persona titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, deberá contar con los siguientes requisitos:
-
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
-
-II. Tener más de treinta años de edad;
-
-III. Contar con título profesional de nivel licenciatura debidamente registrado;
-
-IV. Ser de reconocida capacidad y probidad, y acreditar experiencia profesional, preferentemente académica, en alguna de las materias relativas a la seguridad pública;
-
-V. No haber ocupado un cargo de dirigencia partidista en el año anterior a su designación, ni haber sido sentenciado por delito doloso;
-
-VI. No estar inhabilitado como servidor público;
-
-VII. Aprobar las evaluaciones de control de confianza previstas en la legislación aplicable; y
-
-VIII. Los demás requisitos constitucionales y legales que rijan el ingreso y permanencia de las y los servidores públicos en las instituciones de seguridad pública.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 ###### Artículo 99.
 
-La persona titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, tendrá las facultades y obligaciones establecidas en la Ley de Coordinación del Sistema de Seguridad Pública del Estado de Tamaulipas, su Reglamento interno, la presente Ley, su reglamento y las demás que prevean las leyes y disposiciones aplicables.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2022)
 
 T R A N S I T O R I O S
 
@@ -2442,3 +2360,63 @@ Las estructuras orgánicas internas de la Secretaría de Seguridad Pública para
 ###### ARTÍCULO DÉCIMO TERCERO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-500 MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Finanzas, Secretaría de Administración, así como a la Contraloría Gubernamental y a la Fiscalía General de Justicia del Estado de Tamaulipas, a realizar de manera inmediata las adecuaciones y transferencias presupuestales, financieras y de recursos humanos, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos materiales y financieros asignados a la Fiscalía General de Justicia del Estado vinculados con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se transferirán a la Secretaría General de Gobierno, y a la Secretaría de Finanzas, respectivamente, según corresponda, para que se asignen conforme a la naturaleza de sus funciones.
+
+El presupuesto ejercido por la Fiscalía General de Justicia del Estado vinculado con el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y el de la Unidad de Inteligencia Financiera y Económica, se comprobará conforme a la legislación aplicable.
+
+###### ARTÍCULO QUINTO.
+
+Los recursos humanos adscritos al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; al Centro Estatal de Evaluación y Control de Confianza; al Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se reincorporarán a las áreas a las que estaban adscritos hasta antes de la entrada en vigor del Decreto 65-183, expedido y aprobado por la Legislatura 65 del Congreso del Estado Libre y Soberano de Tamaulipas, en fecha 30 de junio de 2022, de manera inmediata, sin que dicho proceso pueda exceder de 30 días naturales, a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las personas titulares del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y de la Unidad de Inteligencia Financiera y Económica, continuarán en su encargo hasta en tanto se realicen las designaciones correspondientes, en términos de la normatividad aplicable.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se instruye a la Secretaría General de Gobierno, Secretaría de Administración, y Secretaría de Finanzas, así como a la Contraloría Gubernamental y a la Fiscalía General de Justicia del Estado de Tamaulipas, a realizar de manera inmediata, los procedimientos correspondientes a llevar a cabo las adecuaciones normativas y de estructura orgánica a las que haya lugar, derivados de la presente reforma, sin que tales procesos puedan exceder de 30 días naturales, contados a partir de su entrada en vigor.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto no se emita la normatividad jurídica y administrativa indispensable para el funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, se seguirán aplicando las disposiciones legales y administrativas vigentes al momento de la entrada en vigor del presente Decreto, en lo que no se opongan al mismo.
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos de responsabilidad administrativa, de separación y remoción de cargo, iniciados con antelación a la entrada en vigor del presente Decreto, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+###### ARTÍCULO DÉCIMO.
+
+Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite ante alguna de las unidades administrativas del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza, el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica, serán atendidos por éstos hasta su conclusión.
+
+Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de los que sean partes tanto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; el Centro Estatal de Evaluación y Control de Confianza; el Centro General de Coordinación, Comando, Control, Comunicaciones, Cómputo e Inteligencia y la Unidad de Inteligencia Financiera y Económica a la entrada en vigor del presente Decreto, se continuarán tramitando por dichas áreas a través de sus unidades administrativas, hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios y/o entes administrativos.
+
+P.O. 22 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-501 MEDIANTE EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
