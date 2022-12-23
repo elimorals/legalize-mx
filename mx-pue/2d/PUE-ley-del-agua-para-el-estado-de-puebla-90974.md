@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2021-01-28"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -225,15 +225,21 @@ I. Difundir información sobre efectos adversos de la contaminación del agua;
 
 II. Promover la conciencia sobre la necesidad y las ventajas de tratar las Aguas Residuales y su Reúso;
 
-III. Fomentar el uso racional y conservación del agua como tema de seguridad nacional y alentar el empleo de procedimientos y tecnologías orientadas a su uso eficiente;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+III. Fomentar el uso racional y conservación del agua como tema de seguridad nacional y alentar el empleo de procedimientos y tecnologías orientadas a su uso eficiente y conservación;
 
 IV. Instrumentar campañas permanentes de difusión sobre la cultura del agua;
 
-V. Coordinar con las autoridades en materia de educación en los órdenes federal, estatal y municipal para que se incorporen en los programas de estudio de todos los niveles educativos los conceptos de cultura del agua, especialmente, el relativo a la condición finita del recurso; su valor económico, social y ambiental; su uso eficiente; las necesidades y ventajas del tratamiento y Reúso; la conservación del agua y su entorno; así como la importancia del pago oportuno del Usuario por la prestación de los Servicios Públicos que recibe;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+V. Coordinar con las autoridades en materia de educación en los órdenes federal, estatal y municipal para que se incorporen en los programas de estudio de todos los niveles educativos los conceptos de cultura del agua, especialmente, el relativo a la condición finita y vital del recurso; su alto valor económico, social y ambiental; su uso eficiente; su contribución a lograr la gestión integrada de los recursos hídricos; las necesidades y ventajas del tratamiento y Reúso de las aguas residuales; la conservación del agua y su entorno; así como la importancia del pago oportuno del Usuario por la prestación de los Servicios Públicos que recibe;
 
 VI. Favorecer la creación y fortalecimiento de los espacios de la cultura del agua en los municipios del Estado para difundir y realizar las acciones previstas en esta Ley; y
 
-VII. Fomentar el interés de la sociedad en sus distintas organizaciones ciudadanas, colegios de profesionales, órganos académicos y organizaciones de Usuarios, para que se realicen estudios y trabajos de investigación en tomo al manejo y conservación cuantitativa y cualitativa de los recursos hídricos.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+VII. Fomentar el interés de la sociedad en sus distintas organizaciones ciudadanas, colegios de profesionales, órganos académicos y organizaciones de Usuarios, para participar en la toma de decisiones, asunción de compromisos y responsabilidades en la ejecución, financiamiento, seguimiento y evaluación de actividades diversas en la gestión de recursos hídricos, así como en los estudios y trabajos de investigación que se realicen en torno al manejo y conservación cuantitativa y cualitativa de los recursos hídricos.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN DE LOS RECURSOS HÍDRICOS
 
@@ -2276,6 +2282,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 28 DE ENERO DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I, II, III, IV, V, VI Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17 DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+[N. DE E TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, V Y VII DEL ARTÍCULO 6 DE LA LEY DEL AGUA PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
