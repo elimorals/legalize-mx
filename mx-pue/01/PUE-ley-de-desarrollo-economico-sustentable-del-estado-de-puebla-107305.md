@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2022-07-01"
+last_updated: "2022-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -169,9 +169,17 @@ XLIII. Subcomité: Subcomité del Sector Productivo organizado en cumplimiento a
 
 XLIV. Unidad de producción o unidad productiva: Instalación física destinada a actividades económicas;
 
-XLV. Vocación económica o vocación productiva: Actividad económica que encuentra las condiciones geográficas, físicas, sociales y/o ambientales óptimas para su desarrollo en alguna región del Estado y por ello es determinada y publicada por el Ejecutivo, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-XLVI. Zona industrial: Demarcación en la que están establecidas o van a establecerse empresas y que puede o no contar con parques industriales.
+XLV. Vocación económica o vocación productiva: Actividad económica que encuentra las condiciones geográficas, físicas, sociales y/o ambientales óptimas para su desarrollo en alguna región del Estado y por ello es determinada y publicada por el Ejecutivo;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+XLVI. Zona industrial: Demarcación en la que están establecidas o van a establecerse empresas y que puede o no contar con parques industriales; y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+XLVII. Inclusión financiera: El acceso y uso de servicios financieros formales bajo una regulación apropiada que garantice esquemas de protección al consumidor y promueva la educación financiera para mejorar la capacidad financiera de todos los segmentos de la población.
 
 ### CAPÍTULO III. DE LOS OBJETIVOS DE LA LEY
 
@@ -217,9 +225,9 @@ XVII. Establecer los mecanismos mediante los cuales la Secretaría elaborará la
 
 XVIII. Impulsar la comercialización de productos poblanos en los mercados locales, nacionales e internacionales;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-XIX. Establecer las condiciones para impulsar, entre los recién egresados de los sistemas de educación media y superior, la cultura emprendedora, la innovación y la creación de empresas, y
+XIX. Establecer las condiciones para impulsar, entre los recién egresados de los sistemas de educación media y superior, la cultura emprendedora, la innovación, la creación de empresas y la inclusión financiera, promoviendo el uso responsable de los productos y servicios financieros; y
 
 (ADICIONADA, P.O. 1 DE JULIO DE 2022
 
@@ -421,7 +429,9 @@ VII. Colaborar con los Municipios para que elaboren, en el ámbito de su compete
 
 VIII. Impulsar y asesorar a los Municipios integrantes de las regiones para que desarrollen infraestructura logística y de conectividad con la finalidad de facilitar el establecimiento de inversiones productivas y la consolidación de centros de comercio;
 
-IX. Impulsar la educación técnica y la capacitación en áreas de conocimiento relacionadas con la vocación económica de las regiones y/o los sectores estratégicos presentes en ellas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+IX. Impulsar la educación técnica y la capacitación en áreas de conocimiento relacionadas con la vocación económica de las regiones y/o los sectores estratégicos presentes en ellas, así como impulsar la formación y cultura que fomente la Inclusión Financiera.
 
 X. Coadyuvar con los productores para desarrollar esquemas de producción y comercialización competitivos;
 
@@ -1286,6 +1296,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE JULIO DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5, Y ADICIONA LA FRACCIÓN XX AL 5 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XLV Y XLVI DEL ARTÍCULO 4, LA FRACCIÓN XIX DEL 5 Y LA FRACCIÓN IX DEL 18, Y ADICIONA LA FRACCIÓN XLVII AL 4 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
