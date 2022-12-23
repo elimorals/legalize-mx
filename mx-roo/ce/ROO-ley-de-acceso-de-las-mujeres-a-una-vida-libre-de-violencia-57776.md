@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2022-09-07"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -199,11 +199,11 @@ X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de daña
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 6.
 
-Para efectos de esta ley se entenderá por violencia familiar todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, moral, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Para efectos de esta ley se entenderá por violencia familiar todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, moral, patrimonial, económica o sexual a las mujeres, dentro o fuera del domicilio familiar, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio o concubinato.
 
 La definición de violencia familiar prevista en este artículo, se establece sin perjuicio de las definiciones establecidas en otras disposiciones legales del Estado.
 
@@ -225,11 +225,27 @@ VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas 
 
 En los casos de violencia familiar contra las mujeres serán aplicables las disposiciones de la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo en cuanto no se opongan a la presente Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO I BIS. DE LA VIOLENCIA EN RELACIONES DE HECHO Y DE NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 7 BIS.- Se entenderá por violencia en las relaciones de hecho, todo acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, moral, patrimonial, económica o sexual a las mujeres, llevado a cabo en su contra por la persona agresora que mantiene con la mujer una relación de hecho.
+
+Para efectos de esta ley se entenderá por una relación de hecho, aquélla que existe entre dos o más personas unidas, o que hayan estado unidas por una relación de noviazgo, sentimental, de afinidad, reciprocidad, dependencia, solidaridad y/o ayuda mutua, cuya convivencia es constante y estable, aunque no vivan en el mismo domicilio.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 7 TER.- El Gobierno del Estado y los municipios, en el respectivo ámbito de sus facultades y competencias, deberán generar políticas públicas dirigidas a identificar, prevenir, atender y disminuir los factores que propician está modalidad de violencia, creando campañas de información y concientización para erradicar los roles discriminatorios, los estereotipos sexistas, la resolución violenta de conflictos y la misoginia.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 7 QUÁTER.- El Estado a través de sus dependencias gubernamentales y en el ámbito de sus respectivas facultades y competencias, diseñará e implementará programas que brinden servicios reeducativos integrales para víctimas y agresores, además de proporcionar atención psicología (sic) y legal de manera gratuita para quienes sean víctimas de esta modalidad de violencia.
+
+El Instituto Quintanarroense de la Mujer, previo acuerdo con las autoridades educativas, deberá realizar cursos y talleres encaminados a promover espacios libres de violencia contra las mujeres, de prejuicios o estereotipos sexistas con enfoque en derechos humanos y perspectiva de género en las instituciones educativas del Estado.
+
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
-
-### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
-
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 8.
 
@@ -299,13 +315,9 @@ VI. Proporcionar atención psicológica y legal, especializada y gratuita a quie
 
 VII. Implementar sanciones administrativas para los superiores jerárquicos del hostigador o acosador cuando sean omisos en recibir o dar curso a una queja, o en ambas.
 
-### CAPÍTULO III BIS. DE LA VIOLENCIA DIGITAL
+### CAPÍTULO III. DE LA VIOLENCIA EN LA COMUNIDAD
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-ARTÍCULO 15 BIS.- Por violencia Digital se entienden todos aquellos actos individuales o colectivos, realizados a través de las Tecnologías de la Información y la Comunicación, que tengan por objeto o resultado, denigrar, discriminar, o menoscabar la autoestima, la intimidad, el honor, la dignidad o el derecho a la propia imagen, de las mujeres, impidiendo el libre desarrollo de su personalidad.
-
-Se considera también violencia digital la difusión, revelación, publicación, o reproducción de contenido audiovisual, grabaciones de voz, conversaciones telefónicas, o imágenes estáticas o en movimiento, de naturaleza sexual o erótica de otra persona, sin su consentimiento.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2021)</small>
 
 ###### ARTÍCULO 14.
 
@@ -349,9 +361,15 @@ Los protocolos a que refiere la fracción VI deberán publicarse en el Periódic
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
-### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
+### CAPÍTULO III BIS. DE LA VIOLENCIA DIGITAL
 
-### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+ARTÍCULO 15 BIS.- Por violencia Digital se entienden todos aquellos actos individuales o colectivos, realizados a través de las Tecnologías de la Información y la Comunicación, que tengan por objeto o resultado, denigrar, discriminar, o menoscabar la autoestima, la intimidad, el honor, la dignidad o el derecho a la propia imagen, de las mujeres, impidiendo el libre desarrollo de su personalidad.
+
+Se considera también violencia digital la difusión, revelación, publicación, o reproducción de contenido audiovisual, grabaciones de voz, conversaciones telefónicas, o imágenes estáticas o en movimiento, de naturaleza sexual o erótica de otra persona, sin su consentimiento.
+
+### CAPÍTULO IV. DE LA VIOLENCIA INSTITUCIONAL
 
 ###### ARTÍCULO 16.
 
@@ -365,7 +383,7 @@ El Estado y los municipios, en el ámbito de sus respectivas competencias, tiene
 
 Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el Estado y los municipios, en el ámbito de sus respectivas competencias deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
 
-### CAPÍTULO VI. DE LAS ORDENES DE PROTECCIÓN
+### CAPÍTULO V. DE LA VIOLENCIA FEMINICIDA Y DE LA ALERTA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES
 
 ###### ARTÍCULO 19.
 
@@ -415,97 +433,7 @@ La Secretaría de Gobierno será la encargada de coordinar y dar seguimiento a l
 
 Ante la violencia feminicida, se deberá resarcir el daño conforme a lo dispuesto por la Ley General.
 
-### CAPÍTULO VII. DE LA VIOLENCIA POLÍTICA
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-ARTÍCULO 32 BIS.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
-
-Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
-
-Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
-
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-ARTÍCULO 32 TER.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
-
-I. Imponer con base en estereotipos de género, la realización de actividades y tareas distintas a las funciones y atribuciones propias de la representación política, cargo o función;
-
-II. Impedir u obstaculizar el ejercicio pleno de sus derechos políticos y electorales mediante el condicionamiento o la restricción de recursos, ocultamiento de información, aplicación de sanciones que no estén debidamente fundadas y motivadas, amenazas o amedrentamiento hacia su persona o familia;
-
-III. Registrar a las mujeres como candidatas en distritos electorales en los que el partido político que las postule, haya obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
-
-IV. Proporcionar a las mujeres que aspiran a un cargo de elección popular, candidatas o electas, titulares o suplentes o designadas para una función pública o que ocupan un cargo de elección popular, información indebida, dolosa, falsa, imprecisa o incompleta que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
-
-V. Inducir, obligar o instruir a las mujeres a realizar u omitir actos inadecuados a las funciones públicas propias de su encargo;
-
-VI. Imponerles o asignarles responsabilidades que limiten el ejercicio de las funciones propias del cargo;
-
-VII. Impedir u obstruir por cualquier medio que las mujeres electas, designadas, titulares, suplentes o nombradas para una función pública, tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, o del derecho a voz y voto;
-
-VIII. Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea o fuera de período señalado sobre la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación o que se le declare inelegible;
-
-IX. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio o impedir o restringir su reincorporación al cargo al que fueren nombradas o electas tras hacer uso de la licencia de maternidad o de cualquier otra licencia o permiso justificado o contemplado en la normatividad.
-
-X. Restringir o impedir el uso de facultades inherentes en la Constitución Política del Estado, así como de las leyes electorales, para proteger sus derechos frente a los actos que violenten o limiten el ejercicio de su representación política;
-
-XI. Efectuar cualquier acto de discriminación previsto en la Constitución Política del Estado Libre y Soberano de Quintana Roo, o en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, o en el artículo 132 del Código Penal para el Estado Libre y Soberano de Quintana Roo y que tengan como resultado impedir, negar, anular o menoscabar la dignidad y el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
-
-XII. Publicar o revelar información, de manera directa o indirecta, personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política, para difamar o menoscabar su dignidad humana, con el propósito de influir en el electorado u obtener la renuncia y/o licencia al cargo electo o en ejercicio;
-
-XIII. Obligar, intimidar para que participen en proyectos o adopten decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política;
-
-XIV. Impedir, obstaculizar, manipular o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior a que haya obtenido sentencia favorable ante las autoridades electorales;
-
-XV. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
-
-XVI. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios que sean violatorios de los derechos humanos;
-
-XVII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
-
-XVIII. Obligar a una mujer mediante el uso de la fuerza, amenazas, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
-
-XIX. Incumplir las disposiciones jurídicas locales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
-
-XX. Restringir o anular el derecho al voto libre y secreto de las mujeres u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
-
-XXI. Ocultar información u omitir la convocatoria para el registro de las candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
-
-XXII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género, que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
-
-XXIII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
-
-XXIV. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
-
-XXV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
-
-XXVI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
-
-XXVII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
-
-XXVIII. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
-
-XXIX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
-
-XXX. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género, y
-
-XXXI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres, en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos y electorales.
-
-La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades.
-
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-ARTÍCULO 32 QUATER.- En materia de violencia política contra las mujeres en razón de género, el Estado y los Municipios en el ámbito de su competencia, deberán:
-
-I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en el ejercicio de sus derechos políticos y electorales;
-
-II. Impulsar programas preventivos que protejan integralmente a víctimas de violencia política contra las mujeres en razón de género;
-
-III. Establecer mecanismos que favorezcan la erradicación de la violencia política contra las mujeres en razón de género, en coadyuvancia con los partidos políticos;
-
-IV. Proporcionar atención integral que implique la médica, psicológica, legal, especializada y gratuita a las mujeres víctimas de violencia política en razón de género, e
-
-V. Investigar, y en su caso imponer las sanciones administrativas correspondientes, contra quien ejerza violencia política contra las mujeres.
+### CAPÍTULO VI. DE LAS ORDENES DE PROTECCIÓN
 
 ###### ARTÍCULO 25.
 
@@ -677,11 +605,101 @@ Las personas mayores de 12 años de edad podrán solicitar por sí mismas a las 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE JULIO DE 2017)</small>
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN DEL ESTADO Y LOS MUNICIPIOS EN El SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO VII. DE LA VIOLENCIA POLÍTICA
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+ARTÍCULO 32 BIS.- La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+ARTÍCULO 32 TER.- La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+I. Imponer con base en estereotipos de género, la realización de actividades y tareas distintas a las funciones y atribuciones propias de la representación política, cargo o función;
+
+II. Impedir u obstaculizar el ejercicio pleno de sus derechos políticos y electorales mediante el condicionamiento o la restricción de recursos, ocultamiento de información, aplicación de sanciones que no estén debidamente fundadas y motivadas, amenazas o amedrentamiento hacia su persona o familia;
+
+III. Registrar a las mujeres como candidatas en distritos electorales en los que el partido político que las postule, haya obtenido el más bajo porcentaje de votación en las anteriores elecciones, sean municipales, estatales o federales;
+
+IV. Proporcionar a las mujeres que aspiran a un cargo de elección popular, candidatas o electas, titulares o suplentes o designadas para una función pública o que ocupan un cargo de elección popular, información indebida, dolosa, falsa, imprecisa o incompleta que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+V. Inducir, obligar o instruir a las mujeres a realizar u omitir actos inadecuados a las funciones públicas propias de su encargo;
+
+VI. Imponerles o asignarles responsabilidades que limiten el ejercicio de las funciones propias del cargo;
+
+VII. Impedir u obstruir por cualquier medio que las mujeres electas, designadas, titulares, suplentes o nombradas para una función pública, tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, o del derecho a voz y voto;
+
+VIII. Proporcionar al Organismo Público Local Electoral datos falsos o información incompleta o errónea o fuera de período señalado sobre la identidad de la mujer o mujeres candidatas a algún cargo de elección popular, con la finalidad de limitar o impedir su participación o que se le declare inelegible;
+
+IX. Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio o impedir o restringir su reincorporación al cargo al que fueren nombradas o electas tras hacer uso de la licencia de maternidad o de cualquier otra licencia o permiso justificado o contemplado en la normatividad.
+
+X. Restringir o impedir el uso de facultades inherentes en la Constitución Política del Estado, así como de las leyes electorales, para proteger sus derechos frente a los actos que violenten o limiten el ejercicio de su representación política;
+
+XI. Efectuar cualquier acto de discriminación previsto en la Constitución Política del Estado Libre y Soberano de Quintana Roo, o en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, o en el artículo 132 del Código Penal para el Estado Libre y Soberano de Quintana Roo y que tengan como resultado impedir, negar, anular o menoscabar la dignidad y el ejercicio de los derechos humanos de las mujeres electas o en el ejercicio de su representación política;
+
+XII. Publicar o revelar información, de manera directa o indirecta, personal, privada o falsa, de las mujeres candidatas, electas, designadas o en el ejercicio de su representación política, para difamar o menoscabar su dignidad humana, con el propósito de influir en el electorado u obtener la renuncia y/o licencia al cargo electo o en ejercicio;
+
+XIII. Obligar, intimidar para que participen en proyectos o adopten decisiones en contra de su voluntad o del interés público, aprovechándose de su representación política;
+
+XIV. Impedir, obstaculizar, manipular o restringir a las mujeres, la reincorporación al cargo público al que fueren nombradas o electas, posterior a que haya obtenido sentencia favorable ante las autoridades electorales;
+
+XV. Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+XVI. Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios que sean violatorios de los derechos humanos;
+
+XVII. Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+XVIII. Obligar a una mujer mediante el uso de la fuerza, amenazas, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+XIX. Incumplir las disposiciones jurídicas locales, nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+XX. Restringir o anular el derecho al voto libre y secreto de las mujeres u obstaculizar sus derechos de asociación y afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+XXI. Ocultar información u omitir la convocatoria para el registro de las candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+XXII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género, que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+XXIII. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+XXIV. Obstaculizar o impedir el acceso a la justicia de las mujeres para proteger sus derechos políticos;
+
+XXV. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+XXVI. Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+XXVII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad;
+
+XXVIII. Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres y la garantía del debido proceso;
+
+XXIX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+XXX. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género, y
+
+XXXI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres, en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos y electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades.
+
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
+
+ARTÍCULO 32 QUATER.- En materia de violencia política contra las mujeres en razón de género, el Estado y los Municipios en el ámbito de su competencia, deberán:
+
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en el ejercicio de sus derechos políticos y electorales;
+
+II. Impulsar programas preventivos que protejan integralmente a víctimas de violencia política contra las mujeres en razón de género;
+
+III. Establecer mecanismos que favorezcan la erradicación de la violencia política contra las mujeres en razón de género, en coadyuvancia con los partidos políticos;
+
+IV. Proporcionar atención integral que implique la médica, psicológica, legal, especializada y gratuita a las mujeres víctimas de violencia política en razón de género, e
+
+V. Investigar, y en su caso imponer las sanciones administrativas correspondientes, contra quien ejerza violencia política contra las mujeres.
 
 ## TÍTULO TERCERO. DE LAS COMPETENCIAS, SISTEMAS Y PROGRAMAS
 
-### CAPÍTULO II. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR, Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DE LA PARTICIPACIÓN DEL ESTADO Y LOS MUNICIPIOS EN El SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 33.
 
@@ -689,7 +707,7 @@ El Estado y los Municipios, se coordinarán con la Federación para la integraci
 
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará el idioma, lengua, dialecto, edad, condición social, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
-### CAPÍTULO III. DEL PROGRAMA ESTATAL INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO II. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR, Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 34.
 
@@ -757,7 +775,7 @@ El Titular del Poder Ejecutivo del Estado de Quintana Roo, a través de la Secre
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación, en su caso, por el titular del Poder ejecutivo del Estado.
 
-### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO III. DEL PROGRAMA ESTATAL INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 36.
 
@@ -799,7 +817,7 @@ El Ejecutivo del Estado propondrá en el Proyecto de Presupuesto de Egresos del 
 
 Para efectos del párrafo anterior, dentro de la propuesta correspondiente, deberá contemplarse, necesariamente, la asignación de recursos presupuestales suficientes, para la instalación, operación y mantenimiento, de al menos 1 refugio por cada 400 mil habitantes, con capacidad para la atención de al menos 10 usuarias cada uno, para la atención de mujeres víctimas de violencia, a los que se refiere la presente Ley, correspondiendo al Poder Legislativo del Estado, en el ámbito de su competencia, realizar los ajustes conducentes, para su debido cumplimiento.
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO IV. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### ARTÍCULO 38.
 
@@ -1461,7 +1479,7 @@ XI. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a la 
 
 ## TÍTULO CUARTO. DE LAS VÍCTIMAS
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### ARTÍCULO 49.
 
@@ -1513,9 +1531,7 @@ VIII. En los casos de violencia familiar, las mujeres que tengan hijas, hijos, o
 
 El agresor debe participar obligatoriamente en los tratamientos psicoterapéuticos reeducativos con perspectiva de género, cuando se le determine por mandato de autoridad competente.
 
-### CAPÍTULO ÚNICO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
 
 ###### ARTÍCULO 52.
 
@@ -1589,9 +1605,9 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+### CAPÍTULO ÚNICO. DEL REGISTRO PÚBLICO DE PERSONAS AGRESORAS SEXUALES DEL ESTADO DE QUINTANA ROO
 
-> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 58] , P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 58.
 
@@ -1646,6 +1662,10 @@ V. Perfil Genético.
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDAD (SIC) Y SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REUBICADO ANTES ARTÍCULO 58] , P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 62.
 
@@ -1796,3 +1816,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Seguridad Pública contará con un plazo de noventa días hábiles para la implementación de las disposiciones del presente decreto y la creación del Reglamento del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo. La Secretaría de Seguridad Pública realizará las adecuaciones correspondientes a su actual presupuesto para la implementación del Registro Público de Personas Agresoras Sexuales del Estado de Quintana Roo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 027 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
