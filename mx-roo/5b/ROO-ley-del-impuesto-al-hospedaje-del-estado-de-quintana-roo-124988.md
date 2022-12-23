@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-al-hospedaje-del-estado-de-quintana-roo-124988
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2020-12-21"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario al Número 146 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de diciembre de 2017.
 
@@ -55,9 +55,9 @@ La presente Ley es de carácter general y aplicable en el Estado de Quintana Roo
 
 Para los efectos de esta Ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-I. ANFITRIÓN. Nombre que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración, en forma total o parcial, de manera permanente o eventual, a través de una plataforma digital.
+I. ANFITRIÓN. Nombre que se le asigna a la persona física o moral que brinda servicios de hospedaje en inmuebles de su propiedad, posesión o administración, en forma total o parcial, de manera permanente o eventual, a través de una plataforma tecnológica o digital;
 
 II. CÓDIGO. El Código Fiscal del Estado de Quintana Roo.
 
@@ -67,9 +67,9 @@ IV. IMPUESTO. El Impuesto al Hospedaje.
 
 V. LEY. La Ley del Impuesto al Hospedaje del Estado de Quintana Roo.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-VI. PLATAFORMA TECNOLÓGICA O DIGITAL: Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet, y que para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, permitiendo contratar los servicios ofrecidos por el prestador de servicio de hospedaje.
+VI. PLATAFORMA TECNOLÓGICA O DIGITAL. Programas descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular, internet o cualquier otra red, y que para efectos de la presente Ley, permiten a la persona física o moral propietaria o usuaria de la misma, administrar y operar en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, que ponga en contacto a los anfitriones oferentes de servicios de hospedaje y los usuarios demandantes de los mismos, permitiendo al usuario contratar los servicios ofrecidos por el prestador de servicio de hospedaje;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -101,11 +101,11 @@ La recaudación y administración del impuesto es de la competencia de la Secret
 
 ## TÍTULO II. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 4.
 
-Es objeto del impuesto al hospedaje establecido en esta ley, los servicios de hospedaje que presten las personas físicas y las morales dentro del territorio del Estado de Quintana Roo, que otorguen:
+Es objeto del impuesto al hospedaje establecido en esta ley, los servicios de hospedaje que presten anfitriones, así como personas físicas y las morales dentro del territorio del Estado de Quintana Roo, que otorguen:
 
 I. Hoteles, moteles, mesones, posadas, hosterías;
 
@@ -131,9 +131,9 @@ VI. Los demás establecimientos en donde se brinde albergue temporal de personas
 
 Para efectos de la causación de este impuesto, solo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma digital y en caso de que se cubra por este medio, está obligada a retener y a enterar el impuesto a las personas a las que se preste el servicio de hospedaje, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, debiendo proporcionar al Anfitrión, constancia de dicha retención.
+En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje a través de plataforma tecnológica o digital y en caso de que se cubra por este medio, está obligada a retener y a enterar el impuesto a las personas a las que se preste el servicio de hospedaje, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, debiendo proporcionar al Anfitrión, constancia de dicha retención.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
 
@@ -143,9 +143,11 @@ Cuando el anfitrión tenga como actividad económica la prestación de servicios
 
 No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, asilos, conventos, seminarios e internados.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 6.
 
-El impuesto se causará en el momento de pago por la prestación del servicio de hospedaje, incluyendo en su caso, depósitos, anticipos, intereses o cualquier otro concepto relacionado con el mismo.
+El impuesto se causará en el momento de pago por la prestación del servicio de hospedaje, incluyendo en su caso, depósitos, reembolsos, anticipos, intereses o cualquier otro concepto relacionado con el mismo.
 
 ## TÍTULO III. DE LOS SUJETOS
 
@@ -157,9 +159,9 @@ Son sujetos del impuesto, las personas físicas, morales o unidades económicas 
 
 Cuando el servicio de hospedaje se brinde a través de un anfitrión, este deberá solicitar su inscripción ante el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento por cada uno de los establecimientos en donde se brinde el servicio de hospedaje, cumpliendo con todos y cada uno de los requisitos previstos en las disposiciones fiscales del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-Las plataformas digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento con el carácter de retenedor.
+Las plataformas tecnológicas o digitales que intervengan como intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes y obtener la Licencia de Funcionamiento con el carácter de retenedor, a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 11 de la Ley, y de conformidad con los lineamientos que para ello emita la Secretaría.
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -169,9 +171,31 @@ Cuando se lleve a cabo la inscripción a que se refiere este párrafo, las plata
 
 El SATQ dará a conocer en su página de Internet y en el Periódico Oficial del Estado de Quintana Roo, durante el mes de marzo de cada ejercicio fiscal, la lista de plataformas digitales que se encuentren inscritos (sic) en el Registro Estatal de Contribuyentes o tengan renovación vigente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-Para tal efecto, la plataforma digital que intervenga en el cobro de las contraprestaciones por servicio de hospedaje, deberá proporcionar a la Secretaría su Padrón de Anfitriones con base a las reglas que al efecto emita ésta, debiendo emitir una constancia de manera individual a sus anfitriones del cumplimento de esta obligación.
+Para tal efecto, la plataforma tecnológica o digital que intervenga en el cobro de las contraprestaciones por servicio de hospedaje deberá proporcionar a la Secretaría, su Padrón de Anfitriones con base a las reglas que al efecto emita ésta, debiendo expedir una constancia de manera individual a sus anfitriones del cumplimento de esta obligación, la cual tendrá una vigencia de tres años calendario contados a partir de su expedición.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+El Padrón de los Anfitriones deberá considerar al menos lo siguiente:
+
+I. Nombre o, en su caso, denominación o razón social tratándose de personas jurídico-colectivas, así como nacionalidad del anfitrión;
+
+II. Registro Fiscal de Contribuyentes;
+
+III. Comprobante de domicilio en el que prestarán los servicios de hospedaje;
+
+IV. Números telefónicos y direcciones de correo electrónico, en su caso, cuentas verificadas o cuentas empresariales de redes sociales del Anfitrión;
+
+V. La denominación de la plataforma tecnológica o digital a través de la cual se ofrecen y promocionan los servicios de hospedaje;
+
+VI. Fecha de apertura o inicio de funcionamiento de la casa, departamento o demás modalidades a que se refiere (sic) las fracciones V y VI del artículo 4 de esta ley, y
+
+VII. Licencia de funcionamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Sin perjuicio de lo anterior, los Anfitriones deberán inscribirse en la Plataforma Estatal de Servicios Turísticos, prevista en la Ley de Turismo del Estado de Quintana Roo.
 
 ###### ARTÍCULO 7
 
@@ -179,9 +203,13 @@ Bis. (DEROGADO, P.O. 21 DE DICIEMBRE DE 2020)
 
 ## TÍTULO IV. DE LA TASA Y LA BASE
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 8.
 
-El impuesto se calculará aplicando la tasa del 3% sobre el valor de facturación y/o contratación de los servicios a que se refieren los artículos 4 y 9 de esta Ley.
+El impuesto se calculará aplicando la tasa del 5% sobre el valor de facturación y/o contratación de los servicios a que se refieren los artículos 4 y 9 de esta Ley.
+
+Tratándose de los supuestos contemplados en la fracción V del artículo 4 de esta Ley, quien cobre las contraprestaciones por los servicios de hospedaje, ya sea el Anfitrión o la plataforma tecnológica o digital, calculará el impuesto aplicando la tasa del 6%.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2018)</small>
 
@@ -207,15 +235,23 @@ Cuando se omita efectuar el desglose a que se refiere el párrafo anterior, la b
 
 Los prestadores de servicios tendrán la obligación de determinar, retener y enterar el impuesto, en forma expresa y por separado, a las personas que paguen los servicios objeto de esta contribución, ya sea que dichos pagos se efectúen por los beneficiarios directos del servicio o a través de terceros por conducto de agencias de viaje, intermediario, promotor, facilitador, o cualquier denominación que se le asigne.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+En el caso de que el cobro se realice a través de una plataforma tecnológica o digital que actúa como intermediario, ésta deberá realizar la determinación, retención y entero del impuesto a la autoridad fiscal, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, emitiendo el comprobante de cumplimiento al prestador del servicio de hospedaje.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Cuando el servicio de hospedaje se preste a través de las modalidades previstas en las fracciones V y VI del artículo 4 de esta ley y se generen pagos de tarifas adicionales a la del servicio de hospedaje, éstas deberán exhibirse en la plataforma tecnológica o digital y en su caso, en lugares visibles para los usuarios y deberán ser respetadas en los términos publicados.
+
 ###### ARTÍCULO 12.
 
 Este Impuesto en ningún caso se considerará que forma parte del valor de los servicios de hospedaje.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-Los prestadores de servicios de hospedaje deberán enterar las retenciones efectuadas mediante pagos mensuales definitivos, a más tardar el día 17 del mes siguiente a aquel en que se causó, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este.
+Los prestadores de servicios de hospedaje deberán enterar las retenciones efectuadas mediante pagos mensuales definitivos, a más tardar el día 10 del mes siguiente a aquel en que se causó, en las formas autorizadas por la Secretaría a través del SATQ, conforme a los medios electrónicos dispuestos por este.
 
 El pago mensual definitivo será la cantidad que resulte de aplicar la tasa del impuesto sobre el valor total de facturación y/o contratación de los servicios a que se refieren los artículos 4 y 9 de esta Ley, obtenidos en el período por el que se efectúa el pago.
 
@@ -268,6 +304,22 @@ Los retenedores que presten servicios de hospedaje, deberán de proporcionar men
 ###### ARTÍCULO 18.
 
 (DEROGADO, P.O. 18 DE ABRIL DE 2018)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO VI. DE LOS FIDEICOMISOS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 19.
+
+Se constituyen los fideicomisos de promoción turística, de bienestar y de salud, cuya fuente de financiamiento se obtendrá aplicando la tasa establecida en el párrafo primero artículo 8 de esta Ley, los cuales se administrarán de la siguiente manera:
+
+I. Fideicomiso de Promoción Turística: Se destinará el 20% del total de lo aprobado por concepto del Impuesto al Hospedaje en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente;
+
+II. Fideicomiso del Bienestar: Se destinará el 10% del total de lo aprobado por concepto del Impuesto al Hospedaje, en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente, y
+
+III. Fideicomiso de la Salud: Se destinará el 10% del total de lo aprobado por concepto del Impuesto al Hospedaje en la Ley de Ingresos del ejercicio fiscal que corresponda, hasta alcanzar el monto proporcional del Ingreso aprobado en la Ley de Ingresos del ejercicio fiscal correspondiente.
 
 ## TRANSITORIOS
 
@@ -344,3 +396,19 @@ P.O. 21 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2021, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 030 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL HOSPEDAJE DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023.
+
+Por cuanto a la reforma del artículo 8, ésta entrará en vigor a partir del 1° de abril del año 2023.
+
+SEGUNDO. La Secretaría deberá emitir las reglas de inscripción en el Padrón de Anfitriones a que se refiere el artículo 7 de esta Ley, a más tardar el 31 de marzo de 2023, mismas que deberán ser publicadas en el Periódico Oficial del Estado de Quintana Roo.
+
+TERCERO. Los Anfitriones deberán inscribirse en el padrón de anfitriones a que se refiere el artículo 7 de esta Ley, en un periodo de 180 días naturales contados a partir de la publicación de las reglas de inscripción del Padrón de Anfitriones.
+
+CUARTO. La Secretaría dentro del plazo de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar los trámites administrativos y legales pertinentes para la formalización de los fideicomisos de promoción turística, de bienestar y de salud previstos en el artículo 19 de la presente ley.
+
+QUINTO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
