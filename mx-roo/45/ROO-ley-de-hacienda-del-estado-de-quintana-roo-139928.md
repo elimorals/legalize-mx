@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2021-12-22"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -253,9 +253,7 @@ IX. SATQ: Servicio de Administración Tributaria del Estado de Quintana Roo;
 
 X. Secretaría: Secretaría de Finanzas y Planeación;
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
-XI. Turista: Las personas extranjeras que viajen temporalmente fuera de su lugar de residencia habitual, transitan o llegan al territorio estatal y utilizan alguno de los servicios turísticos a que se refiere la Ley General de Turismo y la Ley de Turismo del Estado de Quintana Roo.
+XI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 21 DE DICIEMBRE DE 2020)</small>
 
@@ -805,7 +803,9 @@ Los tenedores o usuarios de los vehículos a que se refiere el artículo anterio
 
 ### CAPÍTULO III. DE LOS IMPUESTOS SOBRE LA PRODUCCIÓN, EL CONSUMO Y TRANSACCIONES
 
-#### SECCIÓN ÚNICA. Del Impuesto Sobre Adquisición de Vehículos de Motor Usados entre Particulares
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. Del Impuesto Sobre Adquisición de Vehículos de Motor Usados entre Particulares
 
 Del Objeto
 
@@ -882,6 +882,120 @@ Quedan exentos de este impuesto:
 I. La adquisición, cesión o transmisión de derechos de vehículos de motor usados, que realicen los Gobiernos Federal, Estatal o Municipales, y
 
 II. La adquisición entre cónyuges o entre ascendientes o descendientes en línea recta en primer grado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. Del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en Envase Cerrado
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Del Objeto
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Bis. Es objeto de este impuesto la venta final de bebidas con contenido alcohólico en envase cerrado llevada a cabo en el territorio del estado de Quintana Roo, a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+Para efecto de este Impuesto se considerarán bebidas con contenido alcohólico, aquellas definidas con tal carácter en la Ley del Impuesto Especial Sobre Producción y Servicios.
+
+Se entiende por venta final la que realice cualquier persona física o moral de los bienes a los que se refiere este artículo, al último adquiriente en envase cerrado, para su consumo o posterior comercialización en envase abierto.
+
+También se considerará que la venta final de los bienes en envase cerrado se efectúe en el territorio del Estado, cuando en el mismo se realice la entrega de los mismos por parte del productor, envasador, distribuidor o importador, según sea el caso, para su posterior comercialización en envase abierto o consumo.
+
+De igual manera se considerará venta final de bebidas con contenido alcohólico el faltante de inventario.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De los Sujetos
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Ter. Son sujetos de este impuesto las personas físicas o morales que realicen en el territorio del Estado de Quintana Roo la venta final de bebidas con contenido alcohólico al último adquiriente en envase cerrado, para su consumo o posterior comercialización en envase abierto, a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+Aquellos contribuyentes que adquieran bebidas con contenido alcohólico en envase cerrado, para su posterior comercialización en envase abierto, estarán obligados a efectuar la retención del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado, cuando no acrediten que sus proveedores cuenten con inscripción en el Registro Estatal de Contribuyentes en el Estado de Quintana Roo. La retención corresponderá a la tasa prevista en el artículo 60 Quinquies, sin incluir el Impuesto al Valor Agregado y el Impuesto Especial Sobre Producción y Servicios, mismo que se consignará en la constancia de retención que tramitará el cliente en el formato que dará a conocer la Secretaría por conducto del SATQ mediante reglas de carácter general.
+
+El entero de la retención se efectuará mediante declaración mensual que se presentará a más tardar el día 17 del mes siguiente al que correspondan las retenciones, mediante los formatos que la Secretaría de a conocer por conducto del SATQ mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De la Base
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Quáter. La base de este impuesto será el precio percibido por la venta final de bebidas con contenido alcohólico en envase cerrado, sin incluir el Impuesto al Valor Agregado y el Impuesto Especial Sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De la Tasa
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Quinquies. La tasa del impuesto será del 4.5% que se aplicará sobre la base percibida por la venta de bebidas con contenido alcohólico en envase cerrado, de acuerdo a lo que señala el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De la Causación y Determinación
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Sexies. El impuesto se causará en el momento en que el enajenante perciba efectivamente el importe correspondiente al precio de venta final de las bebidas con contenido alcohólico objeto de la presente sección y cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando la tasa prevista en el artículo 60 Quinquies, a la parte de la contraprestación cobrada.
+
+Se considera que se percibe efectivamente el importe correspondiente al precio final, cuando sea cobrado en efectivo, transferencia bancaria, cheque, tarjeta de débito o crédito, en bienes o en servicios, aun cuando aquéllas correspondan a anticipos, depósitos o a cualquier otro concepto sin importar el nombre con el que se les designe, o bien, cuando el interés del acreedor quede satisfecho mediante cualquier forma de extinción de las obligaciones que den lugar a las contraprestaciones.
+
+Los contribuyentes sujetos al pago de este impuesto no lo trasladarán de forma expresa y por separado a las personas que adquieran las bebidas con contenido alcohólico en envase cerrado en términos del artículo 60-Bis. El impuesto deberá incluirse en el precio correspondiente, sin que se considere que forma parte del precio de venta al público, ni se entienda violatorio de precios o tarifas, incluyendo las oficiales, por lo que no se desglosará en el comprobante que al efecto se emita.
+
+El impuesto no será acreditable contra otros impuestos locales o federales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Del pago
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Septies. El impuesto se pagará mensualmente mediante declaraciones definitivas a más tardar el día 17 del mes siguiente inmediato posterior a aquél en que se realice la venta final de bebidas con contenido alcohólico en envase cerrado, en las oficinas, establecimientos y medios autorizados por la Secretaría a través del SATQ.
+
+Si un contribuyente tuviera varios establecimientos, locales o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que corresponda a dichos establecimientos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De las Obligaciones
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Octies. Los contribuyentes a que se refiere esta Sección, además de las obligaciones señaladas en esta ley y demás disposiciones fiscales, deberá (sic) cumplir con lo siguiente:
+
+I. Presentar aviso de alta de la obligación para efectos de control, utilizando las formas autorizadas por la Secretaría a través del SATQ, en los términos y plazos que señale el Código, siguientes a que inicie las operaciones o a que empiece a enajenar las bebidas señaladas en el artículo 60-Bis. El SATQ podrá inscribir a los retenedores cuando por informes o documentos que tenga a su disposición o que tenga conocimiento por otros medios presuma que ha llevado a cabo actos o actividades que causen el impuesto de referencia.
+
+II. Llevar a cabo un registro pormenorizado de las ventas finales que realicen por cada establecimiento, local, agencia o sucursal en que se efectúe, desglosando los montos de cada una de dichas operaciones y las cantidades que integran la base de este impuesto.
+
+III. Expedir los comprobantes que reúnan los requisitos establecidos en el Código Fiscal de la Federación, sin que el impuesto establecido en esta Sección se traslade en forma expresa y por separado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Nonies. Aquellos contribuyentes que adquieran bebidas con contenido alcohólico en envase cerrado, para su posterior comercialización en envase abierto, estarán obligados a presentar declaración informativa semestral de las compras efectuadas a sus proveedores, a más tardar el día 17 del mes julio y el día 17 del mes de enero de cada año, por medio de los formatos que la Secretaría de a conocer por conducto del SATQ mediante reglas de carácter general.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 60
+
+Decies. Los Municipios tendrán participación del 20% del monto de la recaudación que se obtenga en el Estado por el Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado, de conformidad con el artículo 10-C de la Ley de Coordinación Fiscal.
+
+La distribución será en términos del artículo 23-Bis de la Ley de Coordinación Fiscal del Estado de Quintana Roo.
 
 #### SECCIÓN ÚNICA. Del Impuesto Sobre la Extracción de Materiales del Suelo y Subsuelo
 
@@ -1033,19 +1147,9 @@ Son los ingresos que se perciben por funciones de derecho público, cuyos elemen
 
 Son los ingresos que percibe el Estado por uso o enajenación de bienes muebles, inmuebles e intangibles, por recuperaciones de capital o en su caso patrimonio invertido, de conformidad con la legislación aplicable en la materia.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 74
 
-Bis. Las personas turistas que ingresen al Estado de Quintana Roo pagarán el aprovechamiento a que se refiere el presente artículo por el Uso y Aprovechamiento de bienes de dominio público y beneficios derivados del ejercicio de las funciones de derecho público del Estado de Quintana Roo.
-
-El aprovechamiento se fijará a razón de una cuota de 2.5 veces el valor diario de la UMA, y se causará al momento en que la persona turista ingrese al territorio del Estado de Quintana Roo.
-
-El aprovechamiento deberá ser enterado a la autoridad fiscal por las personas turistas que ingresen al Estado de Quintana Roo, utilizando las formas autorizadas por el SATQ a través de los mecanismos que al efecto emita el SATQ.
-
-El SATQ a través de (sic) Reglas de Carácter General determinará el mecanismo de recaudación y entero del aprovechamiento referido.
-
-Los retenedores de este aprovechamiento deberán enterarlo de conformidad con lo dispuesto por el artículo 9 de la presente Ley, a más tardar el día 17 del mes siguiente a aquél en que se causó.
+Bis. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2022)
 
 ### CAPÍTULO II. DE LOS INGRESOS POR VENTA DE BIENES Y PRESTACIÓN DE SERVICIOS DE ENTIDADES PARAESTATALES EMPRESARIALES NO FINANCIERAS CON PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1212,3 +1316,13 @@ P.O. 22 DE DICIEMBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 035, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023.
+
+SEGUNDO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Dentro de un plazo de 30 días a partir de la entrada en vigor del presente Decreto, la Secretaría deberá emitir las reglas de carácter general para la operación y cumplimiento de las obligaciones fiscales en materia del Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en envase cerrado.
