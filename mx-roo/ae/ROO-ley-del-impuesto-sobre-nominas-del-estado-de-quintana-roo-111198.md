@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2021-12-22"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -123,7 +123,9 @@ g) Costo total de mano de obra.
 
 h) Bitácora y/o Estimaciones de construcción.
 
-Para efectos de lo propuesto en el presente artículo, la tasa del 3% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarlo mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Para efectos de lo propuesto en el presente artículo, la tasa del 4% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarlo mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2018)</small>
 
@@ -131,7 +133,9 @@ II. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse me
 
 III. En caso de omitir la obligación prevista en la fracción I de este artículo, la Secretaría requerirá a los sujetos a que se refiere el primer párrafo del presente artículo para que dentro de los seis días hábiles siguientes a aquél en que surta efectos la notificación, proporcionen la documentación necesaria para determinar el impuesto a cargo, debiendo exhibir y proporcionar, con independencia del Aviso de Inicio de Obra a que se refiere el presente artículo, la licencia de construcción expedida por la autoridad municipal competente.
 
-IV. Transcurrido el plazo anterior sin que los sujetos obligados hubieren proporcionado la documentación señalada en la fracción I de este artículo, la autoridad fiscal competente considerará que las contribuciones no enteradas son las que resulten de aplicar la tasa del 3% sobre una cantidad equivalente a cuatro veces la UMA elevado al periodo por el que se omitió la contribución por cada uno de los trabajadores bajo su dependencia de manera directa o a través de un intermediario, contratista, tercero o cualquiera que sea su denominación; más las actualizaciones y recargos que se generen;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+IV. Transcurrido el plazo anterior sin que los sujetos obligados hubieren proporcionado la documentación señalada en la fracción I de este artículo, la autoridad fiscal competente considerará que las contribuciones no enteradas son las que resulten de aplicar la tasa del 4% sobre una cantidad equivalente a cuatro veces la UMA elevado al periodo por el que se omitió la contribución por cada uno de los trabajadores bajo su dependencia de manera directa o a través de un intermediario, contratista, tercero o cualquiera que sea su denominación; más las actualizaciones y recargos que se generen;
 
 Lo anterior con independencia de los enteros mensuales que deban realizarse hasta la conclusión de la obra.
 
@@ -175,19 +179,25 @@ Asimismo, previo a la celebración del instrumento jurídico, deberán inscribir
 
 Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 2, calculados por ejercicios fiscales, salvo lo señalado por el artículo 11, ambos de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 6.
 
-El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
+El presente impuesto se causará y pagará aplicando la tasa del 4% sobre la base gravable señalada en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+De la tasa mencionada en el presente artículo se destinará el 12.5% del total de lo recaudado en el presente impuesto, hasta alcanzar un monto equivalente al aprobado en la Ley de Ingresos del ejercicio fiscal que corresponda, al fideicomiso creado para el fortalecimiento de la seguridad en el Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ENERO DE 2017)</small>
 
 ## TÍTULO IV. DE LA ÉPOCA DE PAGO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 7.
 
-Las personas físicas, morales o unidades económicas, aun cuando tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales que tendrán el carácter de definitivos, a más tardar el día 17 del mes siguiente a aquel en el que se causó el impuesto, mediante las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta.
+Las personas físicas, morales o unidades económicas, aun cuando tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales que tendrán el carácter de definitivos a más tardar el día 10 del mes siguiente a aquel en el que se causó el impuesto, mediante las formas autorizadas por la Secretaría, a través de los medios dispuestos por ésta.
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
@@ -199,11 +209,11 @@ Están obligados a presentar aviso en términos del segundo párrafo del artícu
 
 La obligación de presentar declaraciones mensuales subsistirá aun cuando no hubiese cantidad a cubrir.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-El pago mensual será la cantidad que resulte de aplicar a las erogaciones previstas en el artículo 2 de esta ley por cada periodo en que se efectúe el pago, la tasa del 3%.
+El pago mensual será la cantidad que resulte de aplicar a las erogaciones previstas en el artículo 2 de esta ley por cada período en que se efectúe el pago, la tasa del 4%, hasta alcanzar un monto equivalente al proporcional del ingreso aprobado en la Ley de Ingresos del ejercicio fiscal que corresponda, en el entendido que el recurso que exceda dicho monto será destinado a los conceptos y en los términos establecidos en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -486,3 +496,17 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 031, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023.
+
+Se crea el fideicomiso para el fortalecimiento de la seguridad del Estado, para efectos del párrafo segundo del artículo 6 de este decreto.
+
+SEGUNDO. Para efectos de lo dispuesto en el segundo párrafo del Artículo 6, la Secretaría de Finanzas y Planeación, dentro del plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las gestiones jurídicas y administrativas necesarias para constituir el fideicomiso para el fortalecimiento de la seguridad del Estado.
+
+TERCERO. Hasta en tanto no se encuentre constituido el fideicomiso para el fortalecimiento de la seguridad del Estado, la Secretaría de Finanzas y Planeación del Estado de Quintana Roo, concentrará en una cuenta creada para ese fin, los monto que correspondan al porcentaje referido en el segundo párrafo del artículo 6 de lo recaudado en el Impuesto Sobre Nóminas.
+
+CUARTO. Quedan sin efectos todas las demás disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
