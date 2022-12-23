@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2021-12-22"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -191,7 +191,9 @@ Por los servicios que preste la Secretaría de Gobierno, se causarán los derech
 
 CONCEPTO UMA
 
-I. Apostillamiento de documentos 4.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+I. Apostillamiento de documentos 6.00
 
 II. Por análisis y calificación de documentos para Aspirante al ejercicio del Notariado 25.00
 
@@ -461,7 +463,9 @@ e) Expedición de actas de adopción 4.00
 
 f) Expedición de actas de inscripción 4.00
 
-g) Búsqueda de documentos 10.00
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+g) Búsqueda de documentos 3.00
 
 h) Rectificación y/o aclaración de actas
 
@@ -697,7 +701,7 @@ i) Expedición de Patente de Notario Público Titular. 32.00
 
 j) Patente de Notario Público Titular Requisitada. 32.00
 
-k) Nombramiento (sic) Notario Público Suplente o Auxiliar Requisitado. 32.00
+k) (DEROGADO, P.O. 23 DE DICIEMBRE DE 2022)
 
 l) Convenio de Suplencia entre Notarios Públicos Titulares. 60.00
 
@@ -1047,7 +1051,11 @@ CONCEPTO TARIFA
 
 I. Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados souvenirs; 240.00
 
-II. Por evento; 80.00
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+II. Por evento, por cada punto
+
+de venta 80.00
 
 III. Servicio público especializado. 110.00
 
@@ -1717,7 +1725,9 @@ Estarán exentos del pago de este derecho los visitantes nacionales y extranjero
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+#### SECCIÓN NOVENA. DEL DERECHO A VISITANTES EXTRANJEROS
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 51
 
@@ -1741,11 +1751,9 @@ Sexies. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+
 #### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -1757,6 +1765,28 @@ CONCEPTO UMA
 
 l. Gestión y trámite para la expedición de Pasaporte. 4.00
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 51
+
+Octies. Las personas visitantes extranjeras al ingresar al Estado deberán pagar un derecho conforme a la tarifa siguiente:
+
+CONCEPTO UMA
+
+Por el uso o aprovechamiento de 2.50
+
+bienes inmuebles del dominio
+
+público del Estado.
+
+El derecho previsto en este artículo deberá ser enterado en los medios autorizados por la Secretaría a través del SATQ, que se dará a conocer mediante reglas de carácter general.
+
+Estarán exentos del pago de los derechos a que se refiera el presente artículo, las personas visitantes extranjeras que ingresen al Estado de Quintana Roo por la frontera sur de la Entidad.
+
 > <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
@@ -1767,11 +1797,9 @@ l. Gestión y trámite para la expedición de Pasaporte. 4.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
-
 ### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
 
-#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 52.
 
@@ -1847,9 +1875,7 @@ Inmobiliario 15.00
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
 
 ###### Artículo 54.
 
@@ -2013,7 +2039,9 @@ Contratistas del Estado de Quintana Roo. 10.00
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 56.
 
@@ -2237,7 +2265,7 @@ II. Análisis y calificación para emitir la congruencia de uso de suelo de los 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 61.
 
@@ -2399,7 +2427,7 @@ c) Servicio público/Vans. 0.5755
 
 > <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 62.
 
@@ -2421,7 +2449,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 63.
 
@@ -2429,9 +2457,7 @@ Estarán exentos del pago de los derechos a que se refiere el presente artículo
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 64.
 
@@ -2473,7 +2499,9 @@ IX. Verificación de animales, productos y subproductos para ingreso al Estado. 
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 66.
 
@@ -2517,7 +2545,7 @@ XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de 
 
 > <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 67.
 
@@ -2535,7 +2563,7 @@ III. Peritos valuadores. 17.25
 
 ### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 68.
 
@@ -2567,7 +2595,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 70.
 
@@ -2583,7 +2611,7 @@ Los servicios médicos asistenciales que se otorguen a la población con segurid
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 72.
 
@@ -2595,7 +2623,7 @@ Por el análisis de la documentación para participar en la designación de desp
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 73
 
@@ -2675,7 +2703,9 @@ automovilista o motociclista 1.4
 
 Tratándose de personas afiliadas al Instituto Nacional de las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
-Durante la vigencia de las diversas Ferias de Empleo, organizadas por la Secretaría del Trabajo y Previsión Social, los buscadores de empleo gozarán del 50% de descuento en el pago de los derechos a que se refiere esta fracción.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Durante la vigencia de las diversas Ferias de Empleo, organizadas por la Secretaría del Trabajo y Previsión Social, los buscadores de empleo gozarán del 100% de descuento en el pago de los derechos a que se refiere esta fracción.
 
 II. Permiso provisional para manejar sin licencia por:
 
@@ -2693,17 +2723,13 @@ III. Por arrastre de grúa 9.57
 
 IV. Por día de estancia en el corralón 0.46
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-V. Permiso o autorización para
+V. Permiso para la circulación en la vía
 
-circular con cristales polarizados
+pública de vehículos particulares
 
-por 1 año, para el servicio particular,
-
-con base a lo dispuesto en la normatividad
-
-de la materia. 6.5
+con polarizado en cristales. 6.5
 
 a) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
@@ -2711,23 +2737,15 @@ b) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
 c) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-El pago de este derecho deberá
+La vigencia del permiso a que se refiere esta
 
-efectuarse dentro de los primeros
+fracción será de un ejercicio fiscal y el pago
 
-tres meses de cada año. Los propietarios
+deberá efectuarse dentro de los
 
-o posesionarios de vehículos que
-
-posterior a este plazo, opten por polarizar
-
-los cristales de sus unidades, deberán
-
-obtener el permiso correspondiente
-
-previo el pago de derechos.
+primeros tres meses de cada año.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -2738,6 +2756,22 @@ realicen el pago de este derecho dentro
 del plazo establecido en el párrafo anterior,
 
 gozarán de un 50% de descuento.
+
+> <small>(ADICIONADO [N. DE E. CON SU TABLA], P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+1. Vehículos sin antecedente registral en el Padrón
+
+Vehicular Estatal, pagarán el derecho para circular con
+
+cristales polarizados conforme a lo siguiente:
+
+Permiso obtenido en el periodo UMA
+
+Abril-Junio 2.60
+
+Julio-Septiembre 1.95
+
+Octubre-Diciembre 1.30
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
@@ -2851,11 +2885,21 @@ Son sujetos de este derecho, las personas físicas o morales que requieran y sol
 
 Este derecho se causará y pagará en las oficinas, establecimientos o instituciones de crédito autorizadas por la Secretaría al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos, por la prestación de los siguientes servicios y la correspondiente tarifa:
 
-I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento la cantidad de 12.40 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-II. Por el servicio de protección de personas por el tiempo de doce horas diarias se causará por cada elemento, la cantidad de 25.00 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban;
+I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento, la cantidad de 15.00 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban;
 
-III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 UMA, por cada 3 kilómetros de recorrido.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+II. Por el servicio de protección de personas por el tiempo de doce horas diarias causará por cada elemento, la cantidad de 30.00 UMA, pagadero en términos de lo establecido en los contratos que se suscriban;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 UMA, por cada 3 kilómetros de recorrido, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+IV. Por el servicio de vigilancia especial de instalaciones por el tiempo de veinticuatro horas diarias, se causará por cada elemento la cantidad de 22.50 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban.
 
 ###### Artículo 81.
 
@@ -3103,7 +3147,7 @@ Policiales. 9.67
 
 ### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 83.
 
@@ -3111,7 +3155,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 84.
 
@@ -3119,7 +3163,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 85.
 
@@ -3127,7 +3171,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 86.
 
@@ -3135,7 +3179,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 87.
 
@@ -3143,7 +3187,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 88.
 
@@ -3151,7 +3195,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 89.
 
@@ -3159,7 +3203,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 90.
 
@@ -3167,7 +3211,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 91.
 
@@ -3175,7 +3219,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 92.
 
@@ -3183,7 +3227,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 93.
 
@@ -3191,7 +3235,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 94.
 
@@ -3199,7 +3243,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 95.
 
@@ -3207,7 +3251,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 96.
 
@@ -3215,7 +3259,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 97.
 
@@ -3223,7 +3267,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 98.
 
@@ -3231,7 +3275,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 99.
 
@@ -3239,7 +3283,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 100.
 
@@ -3247,7 +3291,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 101.
 
@@ -3263,7 +3307,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 104.
 
@@ -3275,7 +3319,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 106.
 
@@ -3283,7 +3327,7 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 107.
 
@@ -3291,13 +3335,15 @@ Policiales. 9.67
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 108.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
 
 ###### Artículo 109.
 
@@ -3517,13 +3563,21 @@ a) Por la primera foja 0.237
 
 b) Por cada foja excedente 0.07
 
-2. Por legalizaciones y certificaciones 1.73
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
-3. Copias certificadas de convenios
+2. Por certificaciones 1.73
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+3. Por legalizaciones 3.0
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+4. Copias certificadas de convenios
 
 transaccionales, exhortos y autorizaciones
 
-para escrituraciones. 9.00
+para escrituraciones. 9.0
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
@@ -3782,3 +3836,11 @@ TERCERO. Durante el ejercicio fiscal 2022, se otorga un estímulo fiscal del 50%
 CUARTO. El pago de los derechos por los servicios contemplados en las fracciones XIV, XV y XVI del artículo 29 de la presente Ley entrará en vigor a partir del primero de abril del año 2022.
 
 QUINTO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto, de igual o inferior jerarquía.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 029 POR EL QUE SE REFORMAN, DEROGA Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1º de enero del año 2023.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
