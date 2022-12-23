@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-145928"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2020-12-21"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 170 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 21 de diciembre de 2020.
 
@@ -211,6 +213,10 @@ De las cantidades que el Estado reciba por concepto del Impuesto Sobre la Renta 
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 21 DE DICIEMBRE DE 2020, PAGINAS 72 Y 73.]</small>
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Se entiende por monto liquidado y monto total al resultado de la distribución del fondo del mes que corresponda, sin incluir el ajuste cuatrimestral, trimestral y definitivo.
+
 ###### Artículo 13.
 
 De los recursos que reciba el Estado por concepto de reintegro del Fondo del Impuesto Sobre la Renta a que hace referencia el artículo 3-B de la Ley de Coordinación Fiscal, será reintegrado el 100% a los municipios el Impuesto Sobre la Renta que estos hubieren pagado por concepto de sueldos y salarios de sus trabajadores, en los términos y plazos que informe la Federación.
@@ -267,13 +273,27 @@ El Estado, a través de la Secretaría, independientemente de la publicación a 
 
 En el mes de febrero de cada año, la Secretaría deberá informar a los municipios los importes que por concepto de participaciones e incentivos derivados de la colaboración fiscal federal les hubiere correspondido en el ejercicio inmediato anterior; así como su comportamiento en relación con lo estimado para dicho ejercicio fiscal; lo anterior con independencia de su publicación en el micrositio dispuesto en el portal de la propia Secretaría.
 
+> <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO II-BIS. DE LOS INGRESOS ESTATALES PARTICIPABLES A LOS MUNICIPIOS
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN ÚNICA. DE LOS INGRESOS ESTATALES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 23
+
+Bis. De conformidad con el artículo 10-C de la Ley de Coordinación Fiscal, se participará a los Municipios el 20% del monto de la recaudación que se obtenga en el Estado por el Impuesto a la Venta Final de Bebidas con Contenido Alcohólico en Envase Cerrado.
+
+La distribución será en proporción a lo recaudado en cada Municipio correspondiente al mes inmediato anterior de las cifras de la cuenta pública del Poder Ejecutivo y se liquidará a más tardar la segunda semana del mes siguiente, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 23 DE DICIEMBRE DE 2022, PÁGINAS DE LA 115 A LA 116.]</small>
+
 ### CAPÍTULO III. DE LOS FONDOS DE APORTACIONES FEDERALES
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
-
-### CAPÍTULO IV. DE LA COLABORACIÓN ADMINISTRATIVA
-
-#### SECCIÓN II. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL
 
 ###### Artículo 24.
 
@@ -297,7 +317,7 @@ Las aportaciones federales con cargo a los Fondos señalados en este artículo y
 
 No procederán anticipos contra el entero de los recursos provenientes de los Fondos a que se refiere este capítulo.
 
-#### SECCIÓN III. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
+#### SECCIÓN II. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL
 
 ###### Artículo 28.
 
@@ -345,7 +365,7 @@ Las aportaciones federales que con cargo a este fondo reciban los municipios pod
 
 Los financiamientos que den origen a las obligaciones a que hace referencia el artículo anterior únicamente podrán destinarse a los fines establecidos en el artículo 21 de esta ley.
 
-#### SECCIÓN I. DE LOS ORGANOS DEL SISTEMA ESTATAL DE LA COORDINACIÓN FISCAL
+#### SECCIÓN III. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
 
 ###### Artículo 34.
 
@@ -377,7 +397,7 @@ Las aportaciones federales que con cargo a este Fondo podrán afectarse para gar
 
 Para efectos del párrafo anterior, las obligaciones contraídas por los municipios deberán estar relacionadas con el pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
 
-### CAPÍTULO V. DEL SISTEMA ESTATAL DE COORDINACIÓN FISCAL
+### CAPÍTULO IV. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 39.
 
@@ -399,9 +419,9 @@ Las autoridades fiscales de ambos órdenes de gobierno, se considerarán en el e
 
 Ambas partes conservarán la facultad para fijar criterios generales de interpretación y de aplicación de las disposiciones fiscales y de las reglas de colaboración administrativa que señalen los convenios respectivos dentro del ámbito de sus respectivas competencias.
 
-### CAPÍTULO VI. DE LAS VIOLACIONES AL SISTEMA ESTATAL DE COORDINACIÓN FISCAL
+### CAPÍTULO V. DEL SISTEMA ESTATAL DE COORDINACIÓN FISCAL
 
-#### SECCIÓN II. LA REUNIÓN ESTATAL DE FUNCIONARIOS FISCALES
+#### SECCIÓN I. DE LOS ORGANOS DEL SISTEMA ESTATAL DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 42.
 
@@ -413,7 +433,7 @@ II. La Comisión Estatal de Funcionarios Fiscales, y
 
 III. La Junta Estatal de Coordinación Fiscal.
 
-#### SECCIÓN III. DE LA COMISIÓN ESTATAL DE FUNCIONARIOS FISCALES
+#### SECCIÓN II. LA REUNIÓN ESTATAL DE FUNCIONARIOS FISCALES
 
 ###### Artículo 43.
 
@@ -423,13 +443,17 @@ I. El titular de la Secretaría;
 
 II. El Subsecretario de Ingresos de la Secretaría;
 
-III. El Subsecretario Técnico Hacendario de la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+III. El Subsecretario de Análisis Económico y Finanzas Públicas;
 
 IV. El titular del Servicio de Administración Tributaria del Estado de Quintana Roo, y
 
 V. Por los Tesoreros de cada Municipio del Estado.
 
-La Reunión será presidida conjuntamente por el titular de la Secretaría y el Presidente Municipal del lugar donde se lleve a cabo la reunión.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+La Reunión será presidida por el titular de la Secretaría.
 
 El titular de la Secretaría podrá ser suplido por el Subsecretario de Ingresos, y los tesoreros municipales por la persona que al efecto designen.
 
@@ -451,7 +475,7 @@ III. Poner a consideración de los municipios nuevas fuentes impositivas para el
 
 IV. Aprobar los reglamentos de funcionamiento de la propia Reunión Estatal, de la Comisión Estatal de Funcionarios Fiscales y de sus grupos de trabajo y de la Junta Estatal de Coordinación Fiscal.
 
-#### SECCIÓN IV. DE LA JUNTA ESTATAL DE COORDINACIÓN FISCAL
+#### SECCIÓN III. DE LA COMISIÓN ESTATAL DE FUNCIONARIOS FISCALES
 
 ###### Artículo 46.
 
@@ -459,7 +483,9 @@ La Comisión Estatal de Funcionarios Fiscales se integrará conforme a las regla
 
 I. Estará formada por la Secretaría y por tres municipios. Será presidida conjuntamente por el titular de la Secretaría, que podrá ser suplido por el Subsecretario de Ingresos, y por el tesorero que elija la Comisión entre sus miembros. En esta elección no participará la Secretaría.
 
-II. Los Municipios estarán representados por un municipio de cada Grupo que al efecto elijan, los cuales actuarán a través del titular de sus tesorerías o por la persona que éste designe para suplirlo.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+II. Los Municipios estarán representados por un Municipio de cada Grupo que se menciona en la fracción III que al efecto elijan, los cuales actuarán a través del titular de sus tesorerías o por la persona que éste designe para suplirlo.
 
 III. Los municipios que integren la Comisión Estatal de Funcionarios Fiscales serán elegidos por cada uno de los grupos que a continuación se expresan, debiendo representarlos en forma rotativa:
 
@@ -475,7 +501,7 @@ IV. Los municipios miembros de la Comisión Estatal durarán en su encargo dos a
 
 V. La Comisión Estatal de Funcionarios Fiscales, será convocada por el titular de la Secretaría, a través del Subsecretario de Ingresos o por cualquiera de los miembros de dicha Comisión. En la convocatoria se señalarán los asuntos que deban tratarse.
 
-VI. (SIC)
+VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2022)
 
 ###### Artículo 47.
 
@@ -494,6 +520,8 @@ V. Determinar las infracciones y ajustes en la distribución de recursos por vio
 VI. Exhortar al municipio que incumpla con alguna disposición contenida en el presente ordenamiento, o en los acuerdos tomados por la propia Comisión;
 
 VII. Las demás que le encomiende la Reunión Estatal de Funcionarios Fiscales y la Secretaría.
+
+#### SECCIÓN IV. DE LA JUNTA ESTATAL DE COORDINACIÓN FISCAL
 
 ###### Artículo 48.
 
@@ -520,6 +548,8 @@ VII. Someter a consideración de la Comisión Estatal de Funcionarios Fiscales e
 VIII. Coordinar los programas de capacitación fiscal municipal;
 
 IX. Las demás que la Reunión Estatal de Funcionarios Fiscales o la Comisión Estatal de Funcionarios Fiscales le asignen.
+
+### CAPÍTULO VI. DE LAS VIOLACIONES AL SISTEMA ESTATAL DE COORDINACIÓN FISCAL
 
 ###### Artículo 50.
 
@@ -608,3 +638,13 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS VEINTIÚN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL VEINTE
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, DR. JORGE ARTURO CONTRERAS CASTILLO, RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 033 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2023.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
