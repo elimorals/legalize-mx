@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2022-08-24"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -419,9 +419,13 @@ El Ejecutivo del Estado y los Ayuntamientos de los Municipios, podrán convenir 
 
 ### CAPÍTULO IV. DEL FOMENTO DEL SECTOR SOCIAL DE LA ECONOMÍA
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 30.
 
-El Ejecutivo del Estado y los Ayuntamientos de los Municipios, fomentarán las actividades productivas con potencial de mercado para promover la generación de empleos y de ingresos de personas, familias, grupos y organizaciones productivas.
+El Ejecutivo del Estado y los Ayuntamientos de los Municipios, fomentarán las actividades productivas con potencial de mercado para promover la generación de empleos y de ingresos de personas, familias, grupos y organizaciones productivas y en general del sector social de la economía; promoviendo los valores de los Derechos Humanos, de la inclusión social y en general, el desarrollo integral del ser humano.
+
+Se entenderá por sector social de la economía, al que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan.
 
 ###### Artículo 31.
 
@@ -898,3 +902,11 @@ P.O. 24 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 30 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan aquellas disposiciones que se opongan a o (sic) previsto en el presente Decreto.
