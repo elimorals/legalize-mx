@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2022-04-06"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -1059,6 +1059,10 @@ IX. Elaborar y difundir materiales educativos para la prevención y atención de
 
 La Secretaría, en el ámbito de su respectiva competencia, emitirá protocolos de actuación que sean necesarios para el cumplimiento del artículo anterior de esta Ley. Entre los protocolos que emita, deberán encontrarse para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 92 BIS. Las autoridades educativas promoverán, en todo proceso educativo, contenidos no estereotipados de las mujeres y de los hombres, evitando la realización de concursos, certámenes, elecciones o cualquier otra forma de competencia en la que se evalúe, de forma integral o parcial, la belleza o la apariencia física de niñas, niños y adolescentes.
+
 ###### ARTÍCULO 93.
 
 La Secretaría emitirá los lineamientos para la contratación optativa de un seguro escolar contra accidentes personales para educandos que cursen el tipo básico. Dichas disposiciones contendrán los esquemas de subsidios que, en su caso, contemple el Gobierno del Estado de Puebla.
@@ -1896,6 +1900,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 6 DE ABRIL DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XII DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 119 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 92 BIS A LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
