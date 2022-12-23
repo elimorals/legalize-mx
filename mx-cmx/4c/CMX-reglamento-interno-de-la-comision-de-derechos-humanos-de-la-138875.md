@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2021-12-24"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
@@ -1006,23 +1006,27 @@ VII. Realizar actividades de mediación social encaminadas a facilitar el diálo
 
 De la Dirección Ejecutiva de Promoción y Agendas en Derechos Humanos
 
-> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], G.O. 20 DE NOVIEMBRE DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 23 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 57.
 
-Integración
+INTEGRACIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 20 DE NOVIEMBRE DE 2019)</small>
 
 Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Promoción y Agendas en Derechos Humanos contará con al menos:
 
-> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
 
-I. Una Coordinación General de Promoción e Información;
+I. (ABROGADA [N. DE E. DEROGADA], G.O. 23 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2019)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
 
-II. Una Dirección de Área, y
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2022)</small>
+
+II. Dos Direcciones de Área; y
 
 III. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
@@ -1228,13 +1232,21 @@ La persona titular de la Dirección Ejecutiva de Investigación e Información e
 
 De la Dirección General de Administración
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 23 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 63.
 
-Integración
+INTEGRACIÓN
 
 Para el cumplimiento de sus atribuciones, la Dirección General de Administración contará con:
 
-I. Una Coordinación General para la Profesionalización en Derechos Humanos;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
+
+> <small>(REFORMADA, G.O. 23 DE DICIEMBRE DE 2022)</small>
+
+I. Una Dirección para la Profesionalización en Derechos Humanos;
 
 II. Una Dirección de Recursos Humanos;
 
@@ -2323,3 +2335,25 @@ SEGUNDO. Las reformas, adiciones y derogación antes mencionadas entrarán en vi
 PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
 
 SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico Yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
+
+G.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADO EL ACUERDO 18/2022, POR EL CUAL EL CONSEJO DE LA MISMA APROBÓ REFORMAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf]</small>
+
+Primero. La presente reforma al Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 12/2022 de fecha trece de diciembre de dos mil veintidós, entrará en vigor el 01 de enero de 2023.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México, mediante enlace electrónico.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL “AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DEL SITIO OFICIAL DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, DONDE PODRÁ SER CONSULTADO EL ACUERDO 18/2022, POR EL CUAL EL CONSEJO DE LA MISMA APROBÓ REFORMAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]</small>
+
+PRIMERO. Se da a conocer el enlace electrónico del sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México, donde podrá ser consultado el Acuerdo 18/2022 de este Organismo, de fecha 13 de diciembre de 2022, por el cual se aprueba abrogar la fracción I y reformar la fracción II del artículo 57, así como reformar la fracción I del artículo 63; del Reglamento Interno de la Comisión de Derechos Humanos de la Ciudad de México el cual estará disponible para su consulta y descarga en el siguiente enlace electrónico: https://cdhcm.org.mx/wp-content/uploads/2022/12/Acuerdo-Reforma-RI.Dic-22_ESTRADOS.pdf
+
+SEGUNDO. Las modificaciones antes mencionadas entrarán en vigor el día 01 de enero de 2023.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. Se designa como responsable de la funcionalidad y permanencia del enlace electrónico en el sitio oficial de la Comisión de Derechos Humanos de la Ciudad de México a Yolanda Ramírez Hernández, Directora General Jurídica de la Comisión de Derechos Humanos de la Ciudad de México, con correo electrónico yolanda.ramirez@cdhcm.org.mx, y teléfono 5552295600, extensión 2451.
