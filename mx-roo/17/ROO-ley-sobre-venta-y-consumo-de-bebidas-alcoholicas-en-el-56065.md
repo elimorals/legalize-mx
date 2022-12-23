@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2021-12-22"
+last_updated: "2022-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -380,6 +380,10 @@ De manera particular, en el caso de que el titular de una Licencia de Bebidas Al
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
 
 De igual forma, en el caso de pérdida o extravío del documento original de la Licencia de Bebidas Alcohólicas, el titular deberá reportarlo por escrito a la Secretaría, y solicitar al Ejecutivo su reposición de acuerdo a lo señalado en el Reglamento de esta Ley, así como cubrir el pago de derechos establecidos para este caso en la Ley de Derechos del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de la renovación de la Licencia de Bebidas Alcohólicas, ésta se llevará a cabo cada seis años, para lo cual, el titular de la licencia deberá solicitarla al vencimiento de la misma ante la Secretaría, previo el pago de derechos establecido en la Ley de Derechos del Estado de Quintana Roo.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2019)</small>
 
@@ -1482,3 +1486,11 @@ P.O. 22 DE DICIEMBRE DE 2021.
 PRIMERO. El presente decreto entrará en vigor a partir del día 1o. de enero de 2022, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente decreto.
+
+P.O. 23 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 032 POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 16 DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1º de enero de 2023.
+
+SEGUNDO. Quedan sin efectos todas las demás disposiciones de Igual o menor Jerarquía que se opongan al presente Decreto.
