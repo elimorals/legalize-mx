@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-coordinacion-fiscal-del-estado-de-chihuahua-y-sus-131737
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-24"
-last_updated: "2021-12-22"
+last_updated: "2022-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE CHIHUAHUA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 24 de noviembre de 2018.
 
@@ -443,11 +443,13 @@ La distribución entre los municipios de los recursos del Fondo para el Desarrol
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL ANEXO DEL P.O. DE 24 DE NOVIEMBRE DE 2018, PÁGINAS DE LA 25 A LA 26]</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico, programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, y su destino y aplicación será revisado y evaluado por la Auditoría Superior del Estado de Chihuahua, la cual deberá informar a la Secretaría, los resultados obtenidos respecto del ejercicio de esta función.
+Los recursos del Fondo para el Desarrollo Socioeconómico Municipal que se distribuyan entre los municipios, tendrán como destino específico, programas y proyectos municipales que generen beneficios socioeconómicos netos para el desarrollo municipal, incluido el gasto corriente que resulte indispensable para la ejecución de dichos programas y proyectos, y su destino y aplicación será revisado y evaluado por la Auditoría Superior del Estado de Chihuahua.
 
-Para la aplicación de los recursos, se conformará en cada Ayuntamiento una Comisión de Inversión para el Desarrollo Socioeconómico Municipal, la cual estará encargada de formular, evaluar y proponer al Ayuntamiento programas y proyectos que generen beneficios socioeconómicos netos para el desarrollo municipal, quien aprobará la aplicación de los recursos considerando fundamentalmente lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Para la aplicación de los recursos, cada Ayuntamiento deberá formular y evaluar los programas y proyectos que generen beneficios socioeconómicos netos para el desarrollo municipal, y aprobará la aplicación de los recursos considerando fundamentalmente lo siguiente:
 
 I. La problemática a resolver u oportunidad a aprovechar.
 
@@ -822,3 +824,21 @@ APLICABLE
 Los ingresos adicionales que se recauden con motivo de la aplicación de las tasas señaladas en este artículo, respecto de los ingresos que se hubieran obtenido de haber aplicado la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua, durante los ejercicios fiscales 2022 y 2023, se destinarán a cubrir necesidades presupuestales en materia de salud, educación, seguridad pública, así como de la Fiscalía General del Estado y saneamiento financiero, de acuerdo con lo que se establezca y apruebe en el Presupuesto de Egresos del Estado de Chihuahua, correspondiente a los ejercicios fiscales 2022 y 2023.
 
 Las contribuciones extraordinarias a que se refieren los Decretos 266-94-XI-P.E. y 842/2012 VI P.E., publicados en el Periódico Oficial del Estado de Chihuahua del 30 de abril de 1994 y del 22 de septiembre de 2012, respectivamente, se determinarán tomando como base de los mismos, el Impuesto Sobre Nóminas causado, determinado considerando la tasa del 3% establecida en el artículo 75 de la Ley de Hacienda del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO CUARTO.
+
+Con el propósito de que la Secretaría de Hacienda lleve a cabo lo dispuesto en el artículo 34-1, los municipios deberán suscribir el Convenio a que se refiere dicha disposición, a más tardar el 31 de marzo de 2023. Dicho Convenio deberá incluir la autorización para que, con cargo a los recursos que les correspondan del Fondo General de Participaciones, se cubran las cantidades faltantes que deriven del mecanismo de potenciación, correspondientes al ejercicio fiscal en curso o anteriores.
+
+P.O. 24 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0475/2022 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintitrés, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de devolución señaladas en el Código Fiscal del Estado que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose y se resolverán conforme al artículo 67 del Código Fiscal del Estado anterior al presente Decreto.
