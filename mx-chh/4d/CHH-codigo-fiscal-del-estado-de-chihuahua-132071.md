@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-132071"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-31"
-last_updated: "2020-12-31"
+last_updated: "2022-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2022.
 
 Código publicado en el Folleto Anexo al Número 104 del Periódico Oficial del Estado de Chihuahua, el lunes 31 de diciembre de 2018.
 
@@ -855,13 +855,25 @@ En ningún caso los intereses a cargo del Fisco Estatal excederán de los que se
 
 La cantidad entregada al contribuyente en concepto de devolución, se aplicará primero a intereses y, posteriormente, a las cantidades a que por disposición de ley tenga derecho el contribuyente, y a aquellas que fueron pagadas indebidamente. En caso que existan remanentes a favor del particular, se deberán pagar intereses por estos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 67.
 
-Las autoridades fiscales efectuarán la devolución mediante cheque nominativo o depósito en la cuenta del contribuyente, para lo cual, este deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos que el día de vencimiento del plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables al particular o la institución financiera designada por este, dicho plazo se suspenderá hasta en tanto pueda efectuarse.
+Las autoridades fiscales efectuarán la devolución a través de depósito en la cuenta del contribuyente, para lo cual, este deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el número de su cuenta bancaria. Para estos efectos, los estados de cuenta que expidan las instituciones financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos que el día de vencimiento del plazo a que se refiere el precepto citado no sea posible efectuar el depósito por causas imputables al particular o la institución financiera designada por este, dicho plazo se suspenderá hasta en tanto pueda efectuarse.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+De manera excepcional, y únicamente a petición del contribuyente, se podrá solicitar que la devolución respectiva se realice mediante orden de pago cuando no tenga una cuenta bancaria, para lo cual, este deberá señalar en la solicitud de devolución o en la declaración correspondiente la excepción referida.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Así mismo, se podrá llevar a cabo la devolución respectiva, por algún otro medio electrónico que la Secretaría ponga a disposición del contribuyente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 68.
 
-En caso de que el pago se realice mediante cheque nominativo, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva, y siempre que el cheque se encuentre efectivamente a su disposición. El cheque estará a disposición del contribuyente durante un plazo de 30 días.
+En caso de que el pago se realice mediante orden de pago, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva.
 
 ###### Artículo 69.
 
@@ -1005,7 +1017,9 @@ La responsabilidad solidaria comprenderá además de los créditos fiscales omit
 
 Además de quienes las leyes fiscales establezcan esta responsabilidad, son responsables solidarios con los contribuyentes:
 
-I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de las contribuciones que no hubieren sido retenidas o recaudadas conforme las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
 
 II. Las personas que estén obligadas a efectuar pagos por cuenta del contribuyente, hasta por el monto de las cantidades que el erario hubiere dejado de percibir por responsabilidad de estos.
 
@@ -1021,6 +1035,14 @@ c) No lleve contabilidad, la oculte o la destruya.
 
 d) Desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio en los términos de este Código y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+e) No se localice en el domicilio fiscal registrado ante el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+f) Omita enterar a las autoridades fiscales, dentro del plazo que las leyes establezcan, las cantidades que por concepto de contribuciones hubiere retenido o recaudado.
+
 V. Los adquirentes a cualquier título de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
 
 VI. Los representantes sea cual fuere el nombre con que se les designe, de personas no residentes en el estado, cuando con su intervención, estas efectúen en este, actividades por las que deban pagarse contribuciones, hasta por el monto de las contribuciones omitidas y sus accesorios.
@@ -1033,7 +1055,13 @@ IX. Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
 X. Los terceros que por voluntad propia así lo manifiesten, hasta por el valor de los bienes dados en garantía, cuando para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, sin que en ningún caso su responsabilidad exceda del valor de estos.
 
-XI. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate y siempre que se actualicen las hipótesis previstas en los incisos a, b y c de la fracción IV de este artículo.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XI. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate y siempre que se actualicen las hipótesis previstas en todos los incisos de la fracción IV de este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+La responsabilidad solidaria a que se refiere el párrafo anterior, se calculará multiplicando el porcentaje de participación que haya tenido el socio o accionista en el capital social suscrito al momento de la causación, por la contribución omitida, en la parte que no se logre cubrir con los bienes de la empresa.
 
 XII. Las personas residentes en el Estado, a quienes les presten servicios personales subordinados o independientes, cuando estos debieron ser pagados por residentes fuera del Estado, hasta por el monto del crédito fiscal omitido.
 
@@ -1143,9 +1171,7 @@ En el ámbito estatal y para efectos del adecuado ejercicio de sus funciones, la
 
 ###### Artículo 92.
 
-Los hechos que las autoridades fiscales conozcan con motivo del ejercicio de sus facultades de comprobación, o bien que consten en los expedientes, documentos o bases de datos que tengan en su poder o a las que tengan acceso, así como los proporcionados por otras autoridades, podrán utilizarse como sustento de la motivación de las resoluciones que emitan.
-
-Cuando el afectado no tenga conocimiento de los expedientes o documentos que hubieren sido proporcionados por otras autoridades y estos vayan a utilizarse para motivar las resoluciones de la autoridad fiscal, dichas autoridades deberán correr traslado al afectado, concediéndole un plazo de quince días para que manifieste lo que a su derecho convenga, y en su caso presente los documentos que desvirtúen los hechos que hubieren informados por las referidas autoridades.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 93.
 
@@ -1603,13 +1629,17 @@ III. Fianza otorgada por institución autorizada, la que no gozará de los benef
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
-V. Embargo en la vía administrativa.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+V. Embargo en la vía administrativa de bienes muebles tangibles e inmuebles, excepto predios rústicos.
 
 VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría.
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+El Reglamento establecerá los requisitos que deberán reunir las garantías. La Secretaría vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueren, exigirá su ampliación. En los casos en que los contribuyentes, a requerimiento de la autoridad fiscal, no lleven a cabo la ampliación o sustitución de garantía suficiente, esta procederá al secuestro o embargo de otros bienes para garantizar el interés fiscal.
 
 La autoridad fiscal podrá dispensar la garantía del interés fiscal en los supuestos establecidos en el Reglamento.
 
@@ -1723,9 +1753,15 @@ En los casos de sociedades en liquidación, cuando se hubieran nombrado varios l
 
 Cuando los interesados en el ejercicio de sus derechos hubiesen señalado domicilio para recibir notificaciones al iniciar alguna instancia, o en el curso de algún procedimiento administrativo, las notificaciones referentes a las actuaciones derivadas de dicha promoción, trámite o la resolución de los mismos, deberán realizarse y surtirán plenamente sus efectos legales si se realizan en el domicilio señalado para ello, hasta en tanto no designen expresamente otro domicilio para tales efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 133.
 
-Al realizarse una notificación personal, el notificador se constituirá en el domicilio en que deba practicarse y requerirá la presencia del contribuyente o su representante legal. Si no se encuentra a el contribuyente o a su representante legal, dejara citatorio en el domicilio para que espere a una hora fija del día hábil siguiente, y si la persona citada o su representante legal no esperaren, se practicará la diligencia con cualquier persona que se encuentre en dicho domicilio, o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, esta se hará por medio de instructivo que se fijara en lugar visible del domicilio del interesado, de lo cual deberá dejarse constancia en el acta o documento escrito que al efecto se levante.
+Al realizarse una notificación personal, el notificador se constituirá en el domicilio en que deba practicarse y requerirá la presencia del contribuyente o su representante legal. Si no se encuentra al contribuyente o a su representante legal, dejará citatorio en el domicilio para que espere a una hora fija del día hábil siguiente.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Si la persona citada o su representante legal no esperaren, se practicará la diligencia con cualquier persona que se encuentre en dicho domicilio, o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, o en el supuesto de que en el domicilio no se encuentre alguna persona con quien pueda llevarse a cabo la diligencia, esta se hará por cualquiera de los medios previstos en el artículo 126 de este Código, de lo cual deberá dejarse constancia en el acta o documento escrito que al efecto se levante.
 
 En el caso de visitas domiciliarias la notificación de la orden se llevará a cabo en el lugar o lugares señalados en la misma.
 
@@ -1833,6 +1869,12 @@ III. Al notificar la orden de visita domiciliaria en el lugar o lugares señalad
 
 Los testigos podrán ser sustituidos en cualquier tiempo por no comparecer al lugar en que se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de serlo; en estos casos, los visitadores requerirán a la persona con quien se entienda la diligencia para que designe otros que los sustituyan, y en caso de su negativa para hacerlo, los visitadores los designarán. La sustitución de testigos no invalida los resultados de la visita.
 
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN III, P.O. 24 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Si al cierre del acta que se levante, el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la diligencia.
+
 ###### Artículo 141.
 
 Para su desarrollo y respeto a los derechos de los contribuyentes las visitas domiciliarias deberán sujetarse a lo siguiente:
@@ -1853,6 +1895,10 @@ V. En la última acta parcial que al efecto se levante, deberá hacerse mención
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que este sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que estos se encuentran en poder de una autoridad.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Los visitadores tendrán la facultad para realizar la valoración de los documentos o informes obtenidos de terceros en el desarrollo de la visita, así como de los documentos, libros o registros que presente el contribuyente dentro de los plazos establecidos en el párrafo anterior para desvirtuar los hechos u omisiones mencionados en la última acta parcial. La valoración comprenderá la idoneidad y alcance de los documentos, libros, registros o informes de referencia, como resultado del análisis, la revisión, la comparación, la evaluación o la apreciación, realizadas en lo individual o en su conjunto, con el objeto de desvirtuar o no los citados hechos u omisiones.
+
 VI. Cuando resulte imposible continuar o concluir la visita en el domicilio del visitado, las actas en que se haga constar los hechos u omisiones atribuibles al visitado podrán levantarse en las oficinas de la autoridad fiscal. En este caso, deberá notificarse al visitado previamente de esta circunstancia en cualquiera de las formas previstas en este Código excepto en el supuesto de que el visitado hubiere desaparecido del domicilio durante el desarrollo de la visita.
 
 Cuando el personal actuante hubiera recabado la información necesaria para determinar la situación fiscal del revisado, y después del levantamiento del acta última parcial, se levantará acta final; las actas parciales que se hubieren levantado, formarán parte del acta final, aun cuando en esta no se haga mención expresa de dicha circunstancia.
@@ -1860,6 +1906,12 @@ Cuando el personal actuante hubiera recabado la información necesaria para dete
 VII. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
 VIII. Cuando de la revisión interna que realice la autoridad de las actas de visita y demás documentación relacionadas con ellas, se determine que el procedimiento realizado no se ha ajustado a las disposiciones aplicables y con ello pudieran verse afectados los derechos del contribuyente y la legalidad de la determinación del crédito fiscal resultante, la autoridad, de oficio, podrá por una sola vez, reponer el procedimiento a partir de la violación cometida.
+
+[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VIII, P.O. 24 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+Para los efectos de este artículo, se entenderá por circunstanciar detallar pormenorizadamente toda la información y documentación obtenida dentro de la visita domiciliaria, a través del análisis, la revisión, la comparación contra las disposiciones fiscales, así como la evaluación, estimación, apreciación, cálculo, ajuste y percepción, realizado por los visitadores, sin que se entienda en modo alguno que la acción de circunstanciar constituye valoración de pruebas.
 
 #### Sección Segunda. De la Revisión en las Oficinas de la Autoridad
 
@@ -2478,6 +2530,24 @@ III. Cuando el contribuyente sobre el que debe trabarse embargo de bienes no sea
 En este caso, corresponderá a la autoridad ejecutora proceder al señalamiento de bienes sobre los cuales se trabara el embargo respectivo.
 
 IV. De las diligencias se levantará acta circunstanciada de la que se entregará copia a la persona con quien se entienda la misma, y en su caso, se podrá notificar al propietario de los bienes embargados a través del buzón fiscal o vía estrados en los términos de la fracción anterior.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 181
+
+Bis. La autoridad fiscal, tratándose de créditos exigibles, podrá llevar a cabo el embargo de bienes, por buzón fiscal, estrados o edictos, siempre que se trate de los siguientes:
+
+I. Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo.
+
+II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de Dependencias y Entidades del Ejecutivo Estatal y Municipios y de instituciones o empresas de reconocida solvencia.
+
+III. Bienes inmuebles.
+
+IV. Bienes intangibles.
+
+Para tal efecto, la autoridad fiscal previamente emitirá declaratoria de embargo en la que detallará los bienes afectados, misma que hará del conocimiento del deudor a través de buzón tributario, por estrados o por edictos, según corresponda.
+
+Una vez que surta efectos la notificación del embargo, se continuará con el procedimiento administrativo de ejecución.
 
 ###### Artículo 182.
 
@@ -3440,3 +3510,15 @@ Durante el tiempo de vigencia de las acciones decretadas para combatir la contig
 ###### ARTÍCULO CUARTO.
 
 Para los efectos previstos en el presente Decreto, en la Ley de Coordinación Fiscal del Estado de Chihuahua y sus Municipios, y demás disposiciones aplicables, se entiende por correo electrónico oficial de las personas que funjan como autoridades fiscales estatales, aquel que tenga la terminación @chihuahua.gob.mx; las autoridades fiscales estatales podrán comunicarse entre sí, y con las autoridades fiscales federales en materia fiscal federal coordinada, por ese medio electrónico; y se considera este con el mismo valor que un documento físico con firma autógrafa y con sello de la oficina de la autoridad correspondiente, independientemente de sus anexos digitalizados. En los casos en que las mencionadas autoridades utilicen en sus correos electrónicos una terminación diferente a la referida, bastará con que señalen por oficio presentado físicamente, con firma autógrafa y debidamente sellado, ante la diversa autoridad fiscal ante la cual pretendan actuar por dicha vía electrónica, cuál es la terminación oficial del correo electrónico, así como las direcciones de correo electrónico específicas de los servidores públicos que actuarán en tales términos.
+
+P.O. 24 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0475/2022 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintitrés, sin perjuicio de su publicación en el Periódico Oficiar del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de devolución señaladas en el Código Fiscal del Estado que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose y se resolverán conforme al artículo 67 del Código Fiscal del Estado anterior al presente Decreto.
