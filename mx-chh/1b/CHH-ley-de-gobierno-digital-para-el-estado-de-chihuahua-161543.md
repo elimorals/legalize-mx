@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-gobierno-digital-para-el-estado-de-chihuahua-161543"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-17"
-last_updated: "2022-12-17"
+last_updated: "2022-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE GOBIERNO DIGITAL PARA EL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE DICIEMBRE DE 2022.]</small>
 
 Ley publicada en el Folleto Anexo del Número 101 del Periódico Oficial del Estado de Chihuahua, el sábado 17 de diciembre de 2022.
 
@@ -1187,7 +1187,9 @@ III. Colaborar en el desarrollo de sistemas informáticos y demás herramientas 
 
 IV. Recibir las solicitudes para la creación de los certificados de firma electrónica avanzada y realizar el procedimiento para su expedición, conforme a lo establecido en el Reglamento de esta Ley.
 
-V. Adoptar las Normas Oficiales Mexicanas y estándares emitidos por las autoridades certificadoras mencionadas en la Ley de Firma Electrónica Avanzada del Estado de Chihuahua, para efecto de homologar los criterios técnicos que operarán en la creación y uso de los certificados de firma electrónica avanzada.
+> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+V. Adoptar las Normas Oficiales Mexicanas y estándares emitidos por las autoridades certificadoras mencionadas en la Ley de Firma Electrónica Avanzada, para efecto de homologar los criterios técnicos que operarán en la creación y uso de los certificados de firma electrónica avanzada.
 
 VI. Expedir o negar la expedición de los certificados de firma electrónica avanzada, de acuerdo con lo establecido en esta Ley y su Reglamento.
 
@@ -1301,9 +1303,11 @@ VI. Los organismos con autonomía constitucional.
 
 VII. Los ayuntamientos.
 
+> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 94.
 
-Los órganos del Estado podrán celebrar convenio de colaboración con las autoridades certificadoras establecidas en la Ley de Firma Electrónica Avanzada del Estado de Chihuahua, a efecto de que estas últimas, provean el servicio de expedición de certificados de firma electrónica avanzada y estos certificados sean válidos en los trámites, servicios, procesos y procedimientos administrativos o jurisdiccionales, comunicaciones y demás actos que se encuentren bajo la competencia de los órganos del Estado.
+Los órganos del Estado podrán celebrar convenio de colaboración con las autoridades certificadoras establecidas en la Ley de Firma Electrónica Avanzada, a efecto de que estas últimas, provean el servicio de expedición de certificados de firma electrónica avanzada y estos certificados sean válidos en los trámites, servicios, procesos y procedimientos administrativos o jurisdiccionales, comunicaciones y demás actos que se encuentren bajo la competencia de los órganos del Estado.
 
 #### SECCIÓN DÉCIMA. DE LAS PRESTADORAS DE SERVICIOS DE CERTIFICACIÓN
 
