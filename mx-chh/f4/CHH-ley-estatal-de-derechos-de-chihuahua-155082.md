@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-derechos-de-chihuahua-155082"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE DERECHOS DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2022.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 29 de diciembre de 2021.
 
@@ -85,23 +85,111 @@ Para determinar las cuotas de los derechos establecidos en esta Ley se considera
 
 Cuando en un mismo acto el contribuyente deba efectuar el pago de dos o más derechos, deberá considerar, en todo caso, la cuota ajustada que corresponda a cada derecho.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 4
+
+1.- Para efectos de la presente Ley, se entenderá por:
+
+3D: Tercera Dimensión
+
+BIS: Bilingüe Internacional y Sustentable
+
+CD-R: Disco Compacto Grabable
+
+CECYT: Colegio de Estudios Científicos y Tecnológicos
+
+CENEVAL: Centro Nacional para la Evaluación de la Educación Superior
+
+CSWA: Certified Solidworks Associate
+
+CULT: Cultura
+
+CURP: Clave Única de Registro de Población
+
+DELF: Diploma de Estudios en Lengua Francesa
+
+DIF: Desarrollo Integral de la Familia
+
+DOCS: Documentos
+
+DVD+R: Disco Dvd Grabable
+
+E.S.E.M: Estructura Socioeconómica de México
+
+EGEL: Exámenes Generales para el Egreso de la Licenciatura
+
+EMSAD: Educación Media Superior a Distancia
+
+EXANII: Exámenes Nacionales de Ingreso
+
+GRAF: Gráficas
+
+GREC: Grecolatina
+
+HRS: Horas
+
+ICHD: Instituto Chihuahuense del Deporte y Cultura Física
+
+IMSS: Instituto Mexicano del Seguro Social
+
+INSEN: Instituto Nacional de la Senectud
+
+ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado
+
+ITEP: International English Proficiency Test
+
+IVA: Impuesto al Valor Agregado
+
+LEPEPMI: Licenciatura en Educación Preescolar y Primaria para el Medio Indígena
+
+M3: Metro Cúbico
+
+NO: Número
+
+OP: Operar
+
+OPT: Oxford Placement Test
+
+P.A.S.A.S: Programa de Agentes de Servicio de Asistencia de Seguridad
+
+REG: Regional
+
+S.E.A: Sistema de Enseñanza Abierta
+
+SEECH: Servicios Educativos del Estado de Chihuahua
+
+SEM: Seminario
+
+SUAC: Sistema Único de Administración Catastral
+
+SUV'S: Sport Utility Vehicle
+
+T.S.: Técnico Superior
+
+T.S.C: Técnico Superior en Ciencias
+
+T.S.U.: Técnico Superior Universitario
+
+TOEFL: Test of English as a Foreign Language
+
+UTCJ: Universidad Tecnológica de Ciudad Juárez
+
+UTM: Sistema de Coordenadas “Universal Transversal de Mercator”
+
+UTV: Utility Task Vehicle
+
 ###### Artículo 5o.
 
 Tratándose de los servicios que a continuación se enumeran que sean prestados por cualquiera de las dependencias del Poder Ejecutivo, se pagarán derechos conforme a las cuotas que para cada caso a continuación se señalan, salvo en aquellos casos que en esta Ley se establecen expresamente:
 
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-I. Por cada certificación, constancia O COPIA CERTIFICADA en documentos:
+I. Por cada certificación o constancia en documentos, por cada hoja tamaño carta u oficio. 0.2359 UMAs
 
-a) De una hoja tamaño carta u oficio. 1.3819 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-b) Por cada hoja o fracción excedente. 0.1883 UMAs
-
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-II. COPIA FOTOSTÁTICA SIMPLE EN PAPEL TAMAÑO
-
-CARTA U OFICIO, POR CADA HOJA. 0.0117 UMAs
+II. Copia fotostática simple en papel tamaño carta u oficio, por cada hoja. 0.0041 UMAs
 
 ###### Artículo 6o.
 
@@ -149,7 +237,9 @@ III. Apostillamiento de documentos
 
 para uso en el extranjero. 13.1284 UMAs
 
-#### SECCIÓN SEGUNDA. DIRECCIÓN DE GOBERNACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. SUBSECRETARÍA DE GOBERNACIÓN
 
 ###### Artículo 8o.
 
@@ -237,9 +327,17 @@ c) Con aforo de 81 personas en adelante 925.1998 UMAs
 
 12) Hotel modalidad básica. 1323.0508 UMAs
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 13) Centro recreativo con venta de cerveza,
 
-vinos y licores. 2358.8486 UMAs
+vinos y licores.
+
+a) Con aforo de 1 a 500 personas 519.6425 UMAs
+
+b) Con aforo de 501 a 1000 personas 1039.2850 UMAs
+
+c) Con aforo de 1001 en delante 1558.9275 UMAs
 
 II. Por la revalidación anual de las licencias de los establecimientos en los que se venden, suministran o consumen bebidas alcohólicas en envase cerrado, abierto o al copeo:
 
@@ -332,6 +430,10 @@ c) Cambio de titular. 601.3976 UMAs
 d) Disminución de giro. 117.9643 UMAs
 
 e) Asignación de denominación. 93.4945 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+f) Por la rectificación y/o corrección y/o aclaración de datos de licencias de bebidas alcohólicas 10.3998 UMAs
 
 IV. Por la integración documental para el otorgamiento de una licencia para la operación de establecimientos en los que venden, suministran o consumen bebidas alcohólicas en envase cerrado, abierto o al copeo. 77.4588 UMAs
 
@@ -515,9 +617,11 @@ Por búsquedas en el archivo notarial de la Dirección del Registro Público de 
 
 Por la constitución o modificación del patrimonio familiar, incluidas las notas marginales al calce y la ratificación de documentos y reconocimiento de firmas, se pagará el derecho conforme a la cuota de. 13.9255 UMAs
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 29.
 
-Por cada inscripción, anotación o cancelación de asiento que realice la Dirección del Registro Público de la Propiedad y del Notariado, se pagará el derecho conforme a la cuota de 21.9902 UMAs, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de este Capítulo:
+Por cada inscripción, anotación o cancelación de asiento que realice la Dirección del Registro Público de la Propiedad y del Notariado, entendiéndose que la inscripción incluye la permanente publicidad de los actos y hechos jurídicos inscritos para surtir sus efectos frente a terceros, garantizando su conservación, preservación y organización, conforme a las disposiciones correspondientes, permitiendo su reproducción y consulta de manera indefinida e inmediata, proporcionando seguridad jurídica, así como la eventual responsabilidad subsidiaria del Estado, se pagará el derecho conforme a la cuota de 21.9902 UMAs, con las excepciones que se señalan en las fracciones siguientes y en los demás artículos de este Capítulo:
 
 I. Las inscripciones traslativas de dominio de propiedad inmuebles o garantías constituidas sobre estos, se pagará el derecho conforme a la cuota de. 167.3734 UMAs
 
@@ -853,13 +957,23 @@ VII. Revisión de Programa Interno Categoría G. 553.4703 UMAs
 
 Por la revisión de Programas Especiales para eventos, se pagarán los derechos conforme a las cuotas siguientes:
 
-I. Revisión de Programas Especiales Categoría A. 13.3047 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-II. Revisión de Programas Especiales Categoría B. 39.9138 UMAs
+I. Revisión de Programas Especiales Categoría A Riesgo Bajo 13.3047 UMAs
 
-III. Revisión de Programas Especiales Categoría C. 79.8275 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-IV. Revisión de Programas Especiales Categoría D. 172.9595 UMAs
+II. Revisión de Programas Especiales Categoría B Riesgo Medio 39.9138 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+III. Revisión de Programas Especiales Categoría C Riesgo
+
+Medio Alto 79.8275 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IV. Revisión de Programas Especiales Categoría D Riesgo Alto 172.9595 UMAs
 
 #### SECCIÓN SEXTA. PERIÓDICO OFICIAL DEL ESTADO
 
@@ -897,7 +1011,347 @@ IV. Anexo, por cada página. 0.0112 UMAs
 
 Por el Periódico Oficial y sus Anexos en formato digital por cada ejemplar en disco compacto grabable (CD-R), se pagará el derecho conforme a la cuota siguiente. 0.5277 UMAs
 
-#### SECCIÓN PRIMERA. SERVICIOS VARIOS DE LA SECRETARÍA DE DESARROLLO URBANO Y ECOLOGÍA
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SÉPTIMA. SUBSECRETARÍA DE TRANSPORTE
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+1. Por el otorgamiento de concesión para prestar el servicio público de transporte de pasajeros masivo, colectivo en sus modalidades de urbano, conurbado o metropolitano, suburbano y foráneo de pasajeros, modalidad de características especiales y taxi, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Otorgamiento o revalidación hasta por un año de vigencia
+
+por cada unidad registrada 12.7763 UMAs
+
+II. Por cada año adicional al primero de vigencia por cada
+
+unidad registrada 2.7763 UMAs
+
+III. Por diez años de vigencia por unidad registrada nueva 111.5823 UMAs
+
+IV. Por quince años de vigencia por unidad registrada nueva,
+
+para servicio público de transporte de pasajeros masivo 156.2152 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+2. Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en las modalidades de personal, turístico, transporte de carga en las modalidades de carga en general, grúas, servicio de carga riesgosa y de residuos; y transporte de agua, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Otorgamiento o revalidación hasta por un año
+
+de vigencia por cada unidad para prestar el servicio 13.4123 UMAs
+
+II. Por cada año adicional al primero de vigencia
+
+por cada unidad registrada 13.4123 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+3. Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en la modalidad de escolar, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Hasta por un año de vigencia por cada unidad para
+
+prestar el servicio 12.7763 UMAs
+
+II. Por cada año adicional al primero de vigencia
+
+por cada unidad registrada 12.7763 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+4. Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en la modalidad de publicitario, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Hasta por un año de vigencia por cada unidad
+
+para prestar el servicio 167.3734 UMAs
+
+II. Por cada año adicional al primero de vigencia
+
+por cada unidad registrada 167.3734 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+5. Por el otorgamiento de registro o prórroga de registro de transporte especializado, vigencia de 6 años, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Por el otorgamiento de registro de transporte especializado en la modalidad de transporte de valores, vigencia por 6 años 12.7763 UMAs
+
+II. Por el otorgamiento de registro de transporte especializado en la modalidad de funerarias, escuela de manejo y autos de arrendamiento, vigencia por 6 años 12.7763 UMAs
+
+Por el otorgamiento de registro de transporte especializado en la modalidad de ambulancias, no se pagará el derecho a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+6. Por el otorgamiento de autorización o prórroga de autorización a empresas de redes de transporte, vigencia de 5 años, se pagará el derecho conforme a la siguiente cuota 278.9556 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+7. Por la inscripción de anotaciones marginales en el Registro Estatal de Transporte a concesiones, permisos, autorizaciones y registros, se pagará el derecho conforme a la siguiente cuota 1.7854 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Articulo 57
+
+8. Por la actualización y modificación de concesiones y permisos, se pagará el derecho conforme a la siguiente cuota 3.3475 UMAs
+
+No se pagará el derecho a que se refiere este artículo, por la transmisión de la concesión de taxi por fallecimiento del titular al beneficiario de la lista de sucesión inscrita en el Registro Estatal de Transporte.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+9. Por la inscripción o modificación en la lista de sucesión de la concesión de taxi en el Registro Estatal de Transporte, se pagará el derecho conforme a la siguiente cuota 5.0213 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Articulo 57
+
+10. Por la autorización de ampliación, cambio de ruta o adición de unidades del servicio público de transporte de pasajeros, por unidad, a solicitud de los concesionarios de la ruta, se pagará el derecho conforme a la siguiente cuota 17.9202 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+11. Por la autorización de reubicación de sitio o concesión de taxi, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Por reubicación de sitio asignado como base de servicio de taxi, a solicitud de los concesionarios del mismo sitio 17.9202 UMAs
+
+II. Por reubicación de concesión de taxi del sitio asignado como base de servicio 17.9202 UMAs
+
+III. Por autorización de punto fuera de base de servicio 2.1535 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+12. Por el otorgamiento del permiso temporal para prestar el servicio de transporte público, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Para la prestación eventual de un servicio especial, hasta por una ocasión en un año y plazo que no supere los quince días 5.6126 UMAs
+
+II. Sustitución temporal de vehículos hasta por un plazo de noventa días en un año (no aplica para la modalidad de taxi):
+
+a) Con vigencia hasta 30 días 5.5792 UMAs
+
+b) Con vigencia hasta 60 días 8.3687 UMAs
+
+c) Con vigencia hasta 90 días 10.6004 UMAs
+
+III. Por el permiso temporal en caso de extrema urgencia hasta por un plazo de siete días, renovable por una sola ocasión en un periodo de un año 1.3390 UMAs
+
+IV. Por el permiso temporal de comprobar la necesidad de aumentar el servicio o cambiar algún itinerario, en cualquier clase de servicio, hasta por un máximo de 45 días:
+
+a) Con vigencia hasta 15 días 2.1536 UMAs
+
+b) Con vigencia hasta 30 días 3.5818 UMAs
+
+c) Con vigencia hasta 45 días 5.6126 UMAs
+
+V. Por el permiso temporal para el transporte de objetos o maquinaria de gran peso o volumen 8.3687 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+13. Por la expedición de la tarjeta de identificación de transporte, se pagarán derechos conforme a las siguientes cuotas:
+
+I. De concesionario o permisionario 6.8624 UMAs
+
+II. De conductor de transporte público 1.4060 UMAs
+
+III. De conductor de empresas de redes de transporte 1.4060 UMAs
+
+IV. Reimpresión de tarjetón de identificación de servicio público 0.8927 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+14. Por la inscripción en el Registro Público de Transporte, se pagarán derechos conforme a las siguientes cuotas:
+
+I. De concesionarios, permisionarios, empresas de redes de transporte y empresas de servicio registradas 2.0889 UMAs
+
+II. De las concesiones, permisos, autorizaciones y registros 2.0889 UMAs
+
+III. De vehículos titulares de las concesiones y permisos:
+
+a) Alta de unidad 1.7407 UMAs
+
+b) Baja de unidad 1.7407 UMAs
+
+IV. Afiliación de vehículos a empresa de redes de transporte 1.7407 UMAs
+
+V. De vehículos de empresas de servicio registradas 1.7407 UMAs
+
+VI. De conductores:
+
+a) De conductor con licencia de transporte público 1.7854 UMAs
+
+b) De conductor de empresas de redes de transporte 0.8927 UMAs
+
+VII. Contratos y convenios relacionados con los servicios de transporte, incluyendo fideicomisos y organismos del sistema integrado de transporte 2.9012 UMAs
+
+VIII. Domicilio en el Estado de la empresa de redes de transporte 2.0865 UMAs
+
+IX. Plataforma tecnológica con la que opere la empresa de redes de transporte 2.0865 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+15. Por la expedición o reexpedición de constancia, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Expedición y reexpedición de constancia de concesionario, permisionario, empresa de redes de transporte autorizada o empresa registrada 2.1536 UMAs
+
+II. Expedición o reexpedición de constancia de conductor 2.1536 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+16. Por la revisión de proyecto para la modificación de ruta de transporte colectivo urbano o de sitio, o modificación de flota por reubicación de unidad de cualquiera de estas dos modalidades de transporte, se pagará el derecho conforme a la siguiente cuota 17.9202 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+17. Por la elaboración de estudio y proyecto de transporte urbano colectivo, se pagará el derecho conforme a la siguiente cuota 113.5506 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+18. Por la elaboración de estudio y proyecto de taxi, se pagará el derecho conforme a la siguiente cuota 35.7064 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+19. Por anexos de los estudios y proyectos de transporte público, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Impresión de plano oficial 7.1636 UMAs
+
+II. Impresión de horarios oficiales por ruta o ramal 7.1636 UMAs
+
+III. Impresión de itinerario oficial de ruta o ramal 7.1636 UMAs
+
+IV. Impresión de estudio autorizado de transporte público 12.6423 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+20. Por estudio para la evaluación económica para determinación de tarifa en ruta de transporte de pasajeros, se pagará el derecho conforme a la siguiente cuota 113.5461 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+21. Por permiso para ubicar unidades fuera del sitio autorizado, con vigencia hasta por 15 días naturales, se pagará el derecho conforme a la siguiente cuota 0.8927 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+22. Por examen toxicológico para choferes de servicio público, se pagará el derecho conforme a la siguiente cuota 3.4479 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+23. Por revisión físico mecánica y documental a vehículos de servicio público de transporte, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Revisión física a vehículos de servicio público de transporte 2.0643 UMAs
+
+II. Revisión mecánica a vehículos dentro de modelo de Ley, de servicio público de transporte 4.1398 UMAs
+
+III. Certificación mecánica a vehículos de servicio público de transporte 8.2795 UMAs
+
+IV. Revisión físico mecánica para trámite de permiso temporal 2.1871 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+24. Por reimpresión de documentos emitidos por la Dirección de Transporte, se pagará el derecho conforme a la siguiente cuota 0.9597 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+25. Por módulo de capacitación teórica y práctica para conductores con licencia de transporte público que se registren en la Dirección de Transporte, se pagará el derecho conforme a !a siguiente cuota 4.4633 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+26. Por suministro y colocación de señalamiento de parada de transporte público por cambio de ruta, se pagará el derecho conforme a la siguiente cuota 13.2114 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+27. Por la prestación de servicios relativos a aforos de servicio público de transporte, revisión de estudios de movilidad para fraccionamientos nuevos, se pagará el derecho conforme a la siguiente cuota 22.9860 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+28. Por elaboración de estudio de movilidad para fraccionamientos nuevos, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Para fraccionamientos de hasta 100 lotes 77.6836 UMAs
+
+II. Para fraccionamientos de 101 hasta 500 lotes 101.5957 UMAs
+
+III. Para fraccionamientos de 501 lotes en adelante 161.3591 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+29. Por engomado de identificación y distintivo por modalidad de transporte público, se pagará el derecho conforme a la siguiente cuota 0.6026 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+30. Por permiso provisional a choferes de servicio público de transporte para llevar vestimenta que difiera de la autorizada, por prescripción médica, se pagará el derecho conforme a la siguiente cuota 5.0213 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+31. Por permiso temporal al transporte de carga, para transitar por zonas urbanas en vialidades restringidas, se pagará el derecho conforme a la siguiente cuota 5.8358 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+32. Por servicio de geolocalización digital del vehículo con el que se presta el servicio de transporte público, se pagará el derecho conforme a la siguiente cuota 26.9583 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+33. Por la transferencia de concesiones y permisos entre particulares que realizaron su trámite antes del 21 de marzo de 2020, se pagará el derecho conforme a la siguiente cuota 119.7836 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 57
+
+34. Elaboración de estudio de factibilidad para punto fuera de base a solicitud de los concesionarios del sitio 3.9054 UMAs
 
 ### CAPÍTULO II. DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
 
@@ -905,9 +1359,21 @@ Por el Periódico Oficial y sus Anexos en formato digital por cada ejemplar en d
 
 Por inscripción en el padrón único de contratistas del Estado, se pagará el derecho conforme a la siguiente cuota. 29.7431 UMAs
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 58
+
+1. Por baja en el padrón único de contratistas del Estado, se pagará el derecho conforme a la siguiente cuota 29.7431 UMAs
+
 ###### Artículo 59.
 
 Por revalidación anual de la inscripción en el padrón de contratistas, se pagará el derecho conforme a la siguiente cuota. 19.8196 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 59
+
+1. Por suspensión de la inscripción en el padrón de contratistas, se pagará el derecho conforme a la siguiente cuota 19.8196 UMAs
 
 ###### Artículo 60.
 
@@ -1253,9 +1719,73 @@ Por el registro estatal de certificación de profesionistas, se pagará el derec
 
 Por el permiso temporal para extranjeros, se pagará el derecho conforme a la siguiente cuota. 4.4383 UMAs
 
-### CAPÍTULO V. DE LA SECRETARÍA DE SALUD DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO URBANO Y ECOLOGÍA
+### CAPÍTULO IV (SIC). DE LA SECRETARÍA DE EDUCACIÓN Y DEPORTE
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+1. Acreditación de estándares de competencia 20.7857 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+2. Renovación de estándares de competencia 15.5892 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+3. Certificado de competencia 8.8339 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+4. Acreditación de centro de evaluación
+
+(por primera vez) 109.9165 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+5. Renovación anual de acreditación de centro de evaluación 32.3235 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+6. Acreditación y reacreditación de evaluadores independientes 12.0678 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Articulo 115
+
+7. Reposición de certificados 5.1046 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+8. Capacitación 37.4264 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+9. Evaluación 19.1350 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 115
+
+10. Proceso de evaluación cruzada 48.6697 UMAs
+
+### CAPÍTULO V. DE LA SECRETARÍA DE SALUD DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
 ###### Artículo 116.
 
@@ -1365,47 +1895,17 @@ Por el permiso sanitario para el traslado de cadáveres de seres humanos de una 
 
 Por la opinión técnica por escrito para la elaboración de la etiqueta de productos alimenticios de uso y consumo humano que impliquen un riesgo sanitario, por etiqueta, se pagará el derecho conforme a la siguiente cuota. 13.0329 UMAs
 
-### CAPÍTULO VII. DE LA SECRETARÍA DE DESARROLLO RURAL
+### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO URBANO Y ECOLOGÍA
 
-#### SECCIÓN SEGUNDA. DIRECCIÓN DE CATASTRO
+#### SECCIÓN PRIMERA. SERVICIOS VARIOS DE LA SECRETARÍA DE DESARROLLO URBANO Y ECOLOGÍA
 
 ###### Artículo 127.
 
-Por el acceso a las áreas naturales protegidas cuya administración sea a cargo del Gobierno del Estado, así como otras reservas, se pagará por vehículo por día conforme a las siguientes cuotas:
-
-I. Vehículos automotores:
-
-a) Motocicletas, automóviles, pick-ups y
-
-embarcaciones mayores de 10 metros de
-
-eslora y otros. 0.5481 UMAs
-
-b) Automóviles o pick-ups con remolque o
-
-semi-remolque. 1.1199 UMAs
-
-c) Camiones, ómnibus y embarcaciones mayores
-
-de 10 metros de eslora. 2.2873 UMAs
-
-Los profesores, estudiantes, personas mayores de 60 años de edad, miembros de federaciones de excursionismo, montañismo y deportivas, pagarán el 50% (cincuenta por ciento) del monto del derecho; los pasantes e investigadores para realizar estudios afines al área quedan exentos del pago del derecho, previa autorización de la Secretaría.
-
-d) Razors (vehículo a todo terreno). 4.4633 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 128.
 
-Por la autorización para el uso o aprovechamiento de áreas naturales protegidas, de competencia estatal, así como otras reservas, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Por la autorización anual. 50.3110 UMAs
-
-II. Por la autorización por evento diario. 3.1171 UMAs
-
-III. Por el permiso de prestadores de servicios turísticos, por evento diario, por unidad de transporte terrestre:
-
-a) Motorizada. 5.2732 UMAs
-
-b) No motorizada. 1.4773 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 129.
 
@@ -1517,11 +2017,13 @@ Cambio de razón social, se pagará el derecho conforme a la siguiente cuota. 5.
 
 Por los servicios en materia de prevención y control de contaminación, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Recepción, evaluación y otorgamiento sobre la solicitud
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-de revalidación de la licencia de funcionamiento a
+I. Recepción, evaluación y otorgamiento de la
 
-fuentes fijas de jurisdicción estatal. 41.7764 UMAs
+resolución de la licencia de funcionamiento a
+
+fuentes fijas de jurisdicción estatal 41.7764 UMAs
 
 II. Recepción, evaluación y otorgamiento sobre la solicitud
 
@@ -1627,383 +2129,417 @@ Por la inscripción individual a los talleres de asesoría y capacitación para 
 
 Por la asistencia a cursos y talleres de capacitación en materias relacionadas con el medio ambiente, cobro por hora, se pagará el derecho conforme a la siguiente cuota. 1.8104 UMAs
 
-#### SECCIÓN TERCERA. DIRECCIÓN DE TRANSPORTE
+#### SECCIÓN SEGUNDA. DIRECCIÓN DE CATASTRO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 147.
 
-Por la expedición de imágenes aerofotogramétricas de los predios, se pagarán los derechos conforme a las siguientes cuotas:
+Por la expedición de coordenadas geodésicas (X, Y y Z) de un vértice geodésico (punto de control) se pagarán los derechos conforme a la siguiente cuota 25.0000 UMAs
 
-I. Imágenes satelitales de los predios, por hectárea. 1.8828 UMAs
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-II. Imagen generada por dron, por hectárea. 2.3210 UMAs
+###### Artículo 147
+
+1. Por el posicionamiento de un vértice geodésico, sujeto a cotización por motivos de la ubicación del punto y los viáticos, si es el caso.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 148.
 
-Por la localización y levantamiento topográficos de predios, por vértice geodésico, se pagará el derecho conforme a la cuota siguiente. 6.2758 UMAs
+Por la ejecución de vuelos aerofotográficos con dron para la obtención de imágenes digitales de alta resolución. Para llevar a cabo estos trabajos se requiere la adquisición, de parte del usuario de la información, de al menos las coordenadas UTM de un punto de control. Se pagarán los derechos conforme a las siguientes cuotas.
+
+I. En zona urbana y suburbana:
+
+a) De 1 a 20 Has 18.0000 UMAs/Ha.
+
+b) De 21 a 50 Has 12.0000 UMAs/Ha.
+
+c) De 51 a 100 Has 10.0000 UMAs/Ha.
+
+d) De 101 a 500 Has 4.0000 UMAs/Ha.
+
+e) De 501 y más 3.0000 UMAs/Ha.
+
+II. En zona rústica:
+
+a) De 1 a 20 Has. 16.0000 UMAs/Ha.
+
+b) De 21 a 50 Has. 10.0000 UMAs/Ha.
+
+c) De 51 a 100 Has. 8.0000 UMAs/Ha.
+
+d) De 101 a 500 Has. 3.0000 UMAs/Ha.
+
+e) De 501 y más 2.0000 UMAs/Ha.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 149.
 
-Por la elaboración de un oficio informativo, por predio, se pagará el derecho conforme a la siguiente cuota. 1 .8828 UMAs
+Por la comercialización de imágenes digitales aerofotográficas de alta resolución tomadas con avión y de archivo. Se pagarán los derechos conforme a las siguientes cuotas.
+
+I. Localidad 11.0000 UMAs/Ha.
+
+II. Colonia 11.0000 UMAs/Ha.
+
+III. Manzana 3.0000 UMAs
+
+IV. Predio 2.0000 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 149
+
+1. Por la comercialización de imágenes digitales aerofotográficas de alta resolución tomadas con dron y de archivo se pagarán los derechos conforme a las siguientes cuotas.
+
+I. Localidad 12.0000 UMAs/Ha.
+
+II. Colonia 12.0000 UMAs/Ha.
+
+III. Manzana 3.0000 UMAs
+
+IV. Predio 2.0000 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 149
+
+2. Por la comercialización de cartografía catastral digital urbana básica de archivo se pagarán los derechos conforme a las siguientes cuotas.
+
+I. Localidad 5.0000 UMAs/Ha.
+
+II. Colonia 5.0000 UMAs/Ha.
+
+III. Manzana 3.0000 UMAs
+
+IV. Predio 2.0000 UMAs
+
+Cada layer de cartografía digital adicional tendrá el costo de 1.0000 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 149
+
+3. Por la comercialización de cartografía catastral digital rústica de archivo se pagarán los derechos conforme a la siguiente cuota 4.0000 UMAs/Ha.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 150.
 
-Por la expedición de cartografía urbana y rústica, por hectárea, se pagará el derecho conforme a la siguiente cuota. 1.8828 UMAs
+Por la comercialización de impresiones de imágenes digitales de alta resolución con la cartografía digital urbana y suburbana, de archivo, en papel bond tamaño doble carta, a color o blanco y negro, se pagarán los derechos conforme a las siguientes cuotas.
+
+I. Blanco y negro:
+
+a) Localidad 1.5000 UMAs
+
+b) Colonia 1.0000 UMAs
+
+c) Manzana 0.7000 UMAs
+
+d) Predio 0.5000 UMAs
+
+II. Color:
+
+a) Localidad 2.0000 UMAs
+
+b) Colonia 1.5000 UMAs
+
+c) Manzana 1.0000 UMAs
+
+d) Predio 0.7500 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 150
+
+1. Por la comercialización de impresiones de imágenes digitales de alta resolución con cartografía básica en papel bond en plotter, a color o blanco y negro. Se pagarán los derechos conforme a las siguientes cuotas.
+
+1. Blanco y negro:
+
+a) Localidad:
+
+1. Formato 2Mx2M 8.0000 UMAs
+
+2. Formato 1Mx1M 6.0000 UMAs
+
+3. Formato 0.6Mx0.6M 3.0000 UMAs
+
+b) Colonia:
+
+1. Formato 2Mx2M 8.0000 UMAs
+
+2. Formato 1Mx1M 6.0000 UMAs
+
+3. Formato 0.6Mx0.6M 3.0000 UMAs
+
+c) Manzana:
+
+1. Formato 1Mx1M 4.0000 UMAs
+
+2. Formato 0.6Mx0.6M 2.0000 UMAs
+
+d) Predio:
+
+1. Formato 0.6Mx0.6M 2.0000 UMAs
+
+II. Color:
+
+a) Localidad:
+
+1. Formato 2Mx2M 10.0000 UMAs
+
+2. Formato 1Mx1M 8.0000 UMAs
+
+3. Formato 0.6Mx0.6M 5.0000 UMAs
+
+b) Colonia:
+
+1. Formato 2Mx2M 10.0000 UMAs
+
+2. Formato 1Mx1M 8.0000 UMAs
+
+3. Formato 0.6Mx0.6M 5.0000 UMAs
+
+c) Manzana:
+
+1. Formato 1Mx1M 6.0000 UMAs
+
+2. Formato 0.6Mx0.6M 4.0000 UMAs
+
+d) Predio:
+
+1. Formato 0.6Mx0.6M 4.0000 UMAs
+
+Cada layer de cartografía digital adicional tendrá el costo de 1.0000 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 150
+
+2. Por la comercialización de impresiones de cartografía digital, en papel bond en plotter, a color o blanco y negro. Se pagarán los derechos conforme a las siguientes cuotas.
+
+I. Blanco y negro:
+
+a) Localidad:
+
+1. Formato 2Mx2M 8.0000 UMAs
+
+2. Formato 1Mx1M 7.0000 UMAs
+
+3. Formato 0.6Mx0.6M 5.0000 UMAs
+
+b) Colonia:
+
+1. Formato 2Mx2M 8.0000 UMAs
+
+2. Formato 1Mx1M 7.0000 UMAs
+
+3. Formato 0.6Mx0.6M 5.0000 UMAs
+
+c) Manzana:
+
+1. Formato 1Mx1M 5.0000 UMAs
+
+2. Formato 0.6Mx0.6M 4.0000 UMAs
+
+d) Predio:
+
+1. Formato 0.6Mx0.6M 4.0000 UMAs
+
+II. Color:
+
+a) Localidad:
+
+1. Formato 2Mx2M 10.0000 UMAs
+
+2. Formato 1Mx1M 9.0000 UMAs
+
+3. Formato 0.6Mx0.6M 7.0000 UMAs
+
+b) Colonia:
+
+1. Formato 2Mx2M 10.0000 UMAs
+
+2. Formato 1Mx1M 9.0000 UMAs
+
+3. Formato 0.6Mx0.6M 7.0000 UMAs
+
+c) Manzana:
+
+1. Formato 1Mx1M 7.0000 UMAs
+
+2. Formato 0.6Mx0.6M 6.0000 UMAs
+
+d) Predio:
+
+1. Formato 0.6Mx0.6M 6.0000 UMAs
+
+Cada layer de cartografía digital adicional, tendrá el costo de 1.0000 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 151.
 
-Por la cédula de valuación catastral, por predio, se pagará el derecho conforme a la siguiente cuota. 1.8828 UMAs
+Comercialización del Sistema Único de Administración Catastral (SUAC), se pagarán los derechos conforme a la siguiente cuota 100,000.0000 UMAs
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 151
+
+1. Comercialización de la Plataforma Estatal de Información Territorial del Estado de Chihuahua, se pagarán los derechos conforme a la siguiente cuota 200,000.0000 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 152.
 
-Por la capacitación para la conservación y mejoramiento del catastro, por Talleres, asesorías y capacitaciones, por persona, se pagará el derecho conforme a la siguiente cuota. 4.2241 UMAs
+Por la certificación de información de predios urbanos, suburbanos, rústicos y fundos mineros, del Estado de Chihuahua, de archivos físicos y digitales, se pagarán los derechos conforme a la siguiente cuota 6.0000 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 153.
 
-Por la certificación de medidas y colindancias de predios de municipios que cuenten con convenio firmado, no se pagarán derechos.
+Por la capacitación, para la actualización y mejoramiento del catastro por medio de talleres y asesorías. Por persona por tema, se pagarán los derechos conforme a la siguiente cuota 10.0000 UMAs
 
-Por la certificación de medidas y colindancias de predios urbanos, se pagará el derecho conforme a la siguiente cuota. 5.5792 UMAs
-
-#### SECCIÓN PRIMERA. DIRECCIÓN DE LA DIVISIÓN DE SEGURIDAD BANCARIA, COMERCIAL E INDUSTRIAL
+#### SECCIÓN TERCERA. DIRECCIÓN DE TRANSPORTE
 
 ###### Artículo 154.
 
-Por el otorgamiento de concesión para prestar el servicio público de transporte de pasajeros masivo, colectivo en sus modalidades de urbano, conurbado o metropolitano, suburbano y foráneo de pasajeros, modalidad de características especiales y taxi, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Otorgamiento o revalidación hasta por un año
-
-de vigencia por cada unidad registrada. 12.7763 UMAs
-
-II. Por cada año adicional al primero de vigencia
-
-por cada unidad registrada. 12.7763 UMAs
-
-III. Por diez años de vigencia por unidad
-
-registrada nueva. 111.5823 UMAs
-
-IV. Por quince años de vigencia por unidad registrada
-
-nueva, para servicio público de transporte de
-
-pasajeros masivo. 156.2152 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 155.
 
-Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en las modalidades de personal, turístico, transporte de carga en las modalidades de carga en general, grúas, servicio de carga riesgosa y de residuos; y transporte de agua, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. Otorgamiento o revalidación hasta por un año
-
-de vigencia por cada unidad para prestar
-
-el servicio. 13.4123 UMAs
-
-II. Por cada año adicional al primero de
-
-vigencia por cada unidad registrada. 13.4123 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 156.
 
-Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en la modalidad de escolar, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. Hasta por un año de vigencia por cada unidad
-
-para prestar el servicio. 12.7763 UMAs
-
-II. Por cada año adicional al primero de vigencia
-
-por cada unidad registrada. 12.7763 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 157.
 
-Por el otorgamiento de permiso para prestar el servicio público en transporte especializado en la modalidad de publicitario, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. Hasta por un año de vigencia por cada unidad
-
-para prestar el servicio. 167.3734 UMAs
-
-II. Por cada año adicional al primero de vigencia
-
-por cada unidad registrada. 167.3734 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 158.
 
-Por el otorgamiento de registro o prórroga de registro de transporte especializado, vigencia de 6 años, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. Por el otorgamiento de registro de transporte
-
-especializado en la modalidad de transporte de
-
-valores, vigencia por 6 años. 12.7763 UMAs
-
-II. Por el otorgamiento de registro de transporte
-
-especializado en la modalidad de funerarias,
-
-escuela de manejo y autos de arrendamiento,
-
-vigencia por 6 años. 12.7763 UMAs
-
-Por el otorgamiento de registro de transporte especializado en la modalidad de ambulancias, no se pagará el derecho a que se refiere este artículo.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 159.
 
-Por el otorgamiento de autorización o prórroga de autorización a empresas de redes de transporte, vigencia de 5 años, se pagará el derecho conforme a la siguiente cuota. 278.9556 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 160.
 
-Por la inscripción de anotaciones marginales en el Registro Estatal de Transporte a concesiones, permisos, autorizaciones y registros. 1.7854 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 161.
 
-Por la actualización y modificación de concesiones y permisos, se pagará el derecho conforme a la siguiente cuota. 3.3475 UMAs
-
-No se pagará el derecho a que se refiere este artículo, por la transmisión de la concesión de taxi por fallecimiento del titular al beneficiario de la lista de sucesión inscrita en el Registro Estatal de Transporte.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 162.
 
-Por la inscripción o modificación en la lista de sucesión de la concesión de taxi en el Registro Estatal de Transporte, se pagará el derecho conforme a la siguiente cuota. 5.0213 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 163.
 
-Por la autorización de ampliación, cambio de ruta o adición de unidades del servicio público de transporte de pasajeros, por unidad, a solicitud de los concesionarios de la ruta, se pagará el derecho conforme a la siguiente cuota. 17.9202 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 164.
 
-Por la autorización de reubicación de sitio o concesión de taxi, se pagarán los derechos conforme a las siguientes cuotas:
-
-I. Por reubicación de sitio asignado como base de
-
-servicio de taxi, a solicitud de los concesionarios
-
-del mismo sitio. 17.9202 UMAs
-
-II. Por reubicación de concesión de taxi del sitio
-
-asignado como base de servicio. 17.9202 UMAs
-
-III. Por autorización de punto fuera de
-
-base de servicio. 2.1535 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 165.
 
-Por el otorgamiento del permiso temporal para prestar el servicio de transporte público, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Para la prestación eventual de un servicio especial, hasta por una ocasión en un año y plazo que no supere los quince días. 5.6126 UMAs
-
-II. Sustitución temporal de vehículos hasta por un plazo de noventa días en un año (no aplica para la modalidad de taxi):
-
-a) Con vigencia hasta 30 días. 5.5792 UMAs
-
-b) Con vigencia hasta 60 días. 8.3687 UMAs
-
-c) Con vigencia hasta 90 días. 10.6004 UMAs
-
-III. Por el permiso temporal en caso de extrema urgencia hasta por un plazo de siete días, renovable por una sola ocasión en un periodo de un año. 1.3390 UMAs
-
-IV. Por el permiso temporal de comprobar la necesidad de aumentar el servicio o cambiar algún itinerario, en cualquier clase de servicio, hasta por un máximo de 45 días:
-
-a) Con vigencia hasta 15 días. 2.1536 UMAs
-
-b) Con vigencia hasta 30 días. 3.5818 UMAs
-
-c) Con vigencia hasta 45 días. 5.6126 UMAs
-
-V. Por el permiso temporal para el transporte de objetos o maquinaria de gran peso o volumen. 8.3687 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 166.
 
-Por la expedición de la tarjeta de identificación de transporte, se pagarán derechos conforme a las siguientes cuotas:
-
-I. De concesionario o permisionario. 6.8624 UMAs
-
-II. De conductor de transporte público. 1.4060 UMAs
-
-III. De conductor de empresas de redes
-
-de transporte. 1.4060 UMAs
-
-IV. Reimpresión de tarjetón de identificación
-
-de servicio público. 0.8927 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 167.
 
-Por la inscripción en el Registro Público de Transporte, se pagarán derechos conforme a las siguientes cuotas:
-
-I. De concesionarios, permisionarios, empresas de
-
-redes de transporte y empresas de servicio
-
-registradas. 2.0889 UMAs
-
-II. De las concesiones, permisos,
-
-autorizaciones y registros. 2.0889 UMAs
-
-III. De vehículos titulares de las concesiones y permisos:
-
-a) Alta de unidad. 1.7407 UMAs
-
-b) Baja de unidad. 1.7407 UMAs
-
-IV. Afiliación de vehículos a empresa de redes
-
-de transporte. 1.7407 UMAs
-
-V. De vehículos de empresas de
-
-servicio registradas. 1.7407 UMAs
-
-VI. De conductores:
-
-a) De conductor con licencia de transporte
-
-público. 1.7854 UMAs
-
-b) De conductor de empresas de redes de
-
-transporte. 0.8927 UMAs
-
-VII. Contratos y convenios relacionados con los
-
-servicios de transporte, incluyendo fideicomisos y
-
-organismos del sistema integrado de
-
-transporte. 2.9012 UMAs
-
-VIII. Domicilio en el Estado de la empresa
-
-de redes de transporte. 2.0865 UMAs
-
-IX. Plataforma tecnológica con la que opere
-
-la empresa de redes de transporte. 2.0865 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 168.
 
-Por la expedición o reexpedición de constancia, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Expedición y reexpedición de constancia de
-
-concesionario, permisionario, empresa de
-
-redes de transporte autorizada o empresa
-
-registrada. 2.1536 UMAs
-
-II. Expedición o reexpedición de constancia
-
-de conductor. 2.1536 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 169.
 
-Por la revisión de proyecto para la modificación de ruta de transporte colectivo urbano o de sitio, o modificación de flota por reubicación de unidad de cualquiera de estas dos modalidades de transporte, se pagará el derecho conforme a la siguiente cuota. 17.9202 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 170.
 
-Por la elaboración de estudio y proyecto de transporte urbano colectivo, se pagará el derecho conforme a la siguiente cuota. 113.5506 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 171.
 
-Por la elaboración de estudio y proyecto de taxi, se pagará el derecho conforme a la siguiente cuota. 35.7064 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 172.
 
-Por anexos de los estudios y proyectos de transporte público, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Impresión de plano oficial. 7.1636 UMAs
-
-II. Impresión de horarios oficiales por ruta o ramal. 7.1636 UMAs
-
-III. Impresión de itinerario oficial de ruta o ramal. 7.1636 UMAs
-
-IV. Impresión de estudio autorizado de
-
-transporte público. 12.6423 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 173.
 
-Por estudio para la evaluación económica para determinación de tarifa en ruta de transporte de pasajeros, se pagará el derecho conforme a la siguiente cuota. 113.5461 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 174.
 
-Por permiso para ubicar unidades fuera del sitio autorizado, con vigencia hasta por 15 días naturales, se pagará el derecho conforme a la siguiente cuota. 0.8927 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 175.
 
-Por Examen toxicológico para choferes de servicio público, se pagará el derecho conforme a la siguiente cuota. 3.4479 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 176.
 
-Por revisión físico mecánica y documental a vehículos de servicio público de transporte, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Revisión física a vehículos de servicio público
-
-de transporte. 2.0643 UMAs
-
-II. Revisión mecánica a vehículos dentro de modelo
-
-de Ley, de servicio público de transporte. 4.1398 UMAs
-
-III. Certificación mecánica a vehículos de servicio
-
-público de transporte. 8.2795 UMAs
-
-IV. Revisión físico mecánica para trámite de permiso temporal. 2.1871 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 177.
 
-Por reimpresión de documentos emitidos por la Dirección de Transporte, se pagará el derecho conforme a la siguiente cuota. 0.9597 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 178.
 
-Por módulo de capacitación teórica y práctica para conductores con licencia de transporte público que se registren en la Dirección de Transporte, se pagará el derecho conforme a la siguiente cuota. 4.4633 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 179.
 
-Por suministro y colocación de señalamiento de parada de transporte público por cambio de ruta, se pagará el derecho conforme a la siguiente cuota. 13.2114 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 180.
 
-Por la prestación de servicios relativos a aforos de servicio público de transporte, revisión de estudios de movilidad para fraccionamientos nuevos, se pagará el derecho conforme a la siguiente cuota. 22.9860 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 181.
 
-Por elaboración de estudio de movilidad para fraccionamientos nuevos, se pagarán derechos conforme a las siguientes cuotas:
-
-I. Para fraccionamientos de hasta 100 lotes. 77.6836 UMAs
-
-II. Para fraccionamientos de hasta 500 lotes. 101.5957 UMAs
-
-III. Para fraccionamientos de más de 1,000 lotes. 161.3591 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 182.
 
-Por engomado de identificación y distintivo por modalidad de transporte público, se pagará el derecho conforme a la siguiente cuota. 0.6026 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 183.
 
-Por permiso provisional a choferes de servicio público de transporte para llevar vestimenta que difiera de la autorizada, por prescripción médica, se pagará el derecho conforme a la siguiente cuota. 5.0213 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 184.
 
-Por permiso temporal al transporte de carga, para transitar por zonas urbanas en vialidades restringidas, se pagará el derecho conforme a la siguiente cuota. 5.8358 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 185.
 
-Por servicio de geolocalización digital del vehículo con el que se presta el servicio de transporte público, se pagará el derecho conforme a la siguiente cuota. 26.9583 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 186.
 
-Por la transferencia de concesiones y permisos entre particulares que realizaron su trámite antes del 21 de marzo de 2020, se pagará el derecho conforme a la siguiente cuota. 119.7836 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
 ###### Artículo 187.
 
-Elaboración de estudio de factibilidad para punto fuera de base a solicitud de los concesionarios del sitio. 3.9054 UMAs
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2022)
 
-### CAPÍTULO VIII. DE LA SECRETARÍA DE HACIENDA
+### CAPÍTULO VII. DE LA SECRETARÍA DE DESARROLLO RURAL
 
 ###### Artículo 188.
 
@@ -2035,7 +2571,7 @@ I. Por la inscripción no se pagará el derecho previsto en este artículo.
 
 II. Revalidación. 22.3165 UMAs
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE CULTURA
+### CAPÍTULO VIII. DE LA SECRETARÍA DE HACIENDA
 
 ###### Artículo 193.
 
@@ -2057,7 +2593,7 @@ Por el servicio de hospedaje de vehículos por día, se pagará el derecho confo
 
 Por la emisión de la opinión de cumplimiento de obligaciones fiscales estatales, se pagará el derecho conforme a la siguiente cuota. 2.7152 UMAs
 
-### CAPÍTULO X. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+### CAPÍTULO IX. DE LA SECRETARÍA DE CULTURA
 
 ###### Artículo 198.
 
@@ -2191,7 +2727,7 @@ VI. Museo Casa Griensen, no se pagarán derechos por la entrada al Museo.
 
 VII. Al Museo de Hidalgo, no se pagarán derechos por la entrada al Museo.
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+### CAPÍTULO X. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
 ###### Artículo 200.
 
@@ -2201,9 +2737,9 @@ Por cada capacitación y evaluación de competencias laborales en términos de l
 
 Por cada evaluación de competencia laboral en términos de la acreditación del sistema nacional de competencia, se pagará el derecho conforme a la siguiente cuota. 11.6046 UMAs
 
-### CAPÍTULO XII. DE LA SECRETARÍA DE INNOVACIÓN Y DESARROLLO ECONÓMICO
+### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-#### SECCIÓN SEGUNDA. DIRECCIÓN DE LA DIVISIÓN DE POLICÍA VIAL
+#### SECCIÓN PRIMERA. DIRECCIÓN DE LA DIVISIÓN DE SEGURIDAD BANCARIA, COMERCIAL E INDUSTRIAL
 
 ###### Artículo 202.
 
@@ -2215,7 +2751,9 @@ II. Por la revalidación anual de la autorización para la prestación de los se
 
 III. Por la modificación de la autorización para la prestación de servicios de seguridad privada, por cambio de modalidad. 165.6796 UMAs
 
-IV. Por la inscripción de la autorización para prestar servicios de seguridad privada otorgada por la autoridad federal. 102.7256 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IV. Por la inscripción de la autorización para prestar servicios de seguridad privada otorgada por la autoridad federal 164.3609 UMAs
 
 V. Por la expedición de cada Cédula de identificación del Personal Operativo, otorgada por la autoridad competente. 0.4281 UMAs
 
@@ -2241,109 +2779,171 @@ XV. Por cada inscripción al curso básico para escolta con uso de arma con dura
 
 XVI. Por cada inscripción al curso de especialización para escolta con uso de arma con duración de 3 semanas. 285.8871 UMAs
 
-XVII. Servicio de oficial (tarifa fija) sector privado. 14.0433 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Servicio de suboficial A (tarifa fija) sector privado 12.4027 UMAs
+XVII. Servicio de oficial sector privado (por día) 14.0433 UMAs
 
-XIX. Servicio de suboficial B (tarifa fija) sector privado. 9.5254 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XX. Análisis de riesgo (tarifa fija) sector privado. 1154.2307 UMAs
+XVIII. Servicio de suboficial A sector privado (por día) 12.4027 UMAs
 
-XXI. Uniforme y prendas de protección (incluye pisa cuello, grado, porta placa, camisola, pantalón, chamarra, botas, cinturón, chaleco táctico, fornitura, esposas, piernera, linterna, guantes y bastón) 2 al año. 0.9899 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXII. Chaleco antibalas (vida útil de 3 años). 0.3601 UMAs
+XIX. Servicio de suboficial B sector privado (por día) 9.5254 UMAs
 
-XXIII. Terminal digital portátil (radio) y accesorios (vida útil 3 años). 0.2572 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXIV. Arma corta (incluye 1 cargador y 500 municiones) vida útil 3 años. 0.3215 UMAs
+XX. Servicio completo oficial P.A.S.A.S. (por día) 15.1364 UMAs
 
-XXV. Arma larga (incluye 1 cargador y 500 municiones) vida útil 3 años. 0.7716 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXVI. Vehículo operativo Balizado. 12.5471 UMAs
+XXI. Servicio completo suboficial A P.A.S.A.S. (por día) 13.4957 UMAs
 
-XXVII. Gasto vehículo blindado zona urbana. 170.9915 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXVIII. Gasto vehículo blindado zona rural
+XXII. Servicio completo suboficial B P.A.S.A.S. (por día) 10.6184 UMAs
 
-(caminos y/o brechas no pavimentadas). 256.4679 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXIX. Por constancias por modalidades de servicios de seguridad privada:
+XXIII. Servicio intermedio oficial P.A.S.A.S. (por día) 14.3648 UMAs
 
-a) Seguridad y protección personal. 4.7634 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-b) Seguridad y protección de bienes. 4.7634 UMAs
+XXIV. Servicio intermedio suboficial A P.A.S.A.S. (por día) 12.7242 UMAs
 
-c) Seguridad y protección en el traslado de valores. 4.7634 UMAs
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-d) Seguridad y protección de la información. 4.7634 UMAs
+XXV. Servicio intermedio suboficial B P.A.S.A.S. (por día) 9.8468 UMAs
 
-e) Seguridad y protección en sistemas de prevención
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-y responsabilidades. 4.7634 UMAs
+XXVI. Servicio básico oficial P.A.S.A.S. (por día) 14.8149 UMAs
 
-f) Fabricación, comercialización, almacenamiento,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-transportación o distribución de vestimenta e
+XXVII. Servicio básico suboficial A P.A.S.A.S. (por día) 13.1743 UMAs
 
-instrumentos. 4.7634 UMAs
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-g) Servicios de blindaje. 4.7634 UMAs
+XXVIII. Servicio básico suboficial B P.A.S.A.S. (por día) 10.2969 UMAs
 
-h) Sistemas electrónicos. 4.7634 UMAs
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-i) Capacitación y/o adiestramiento. 4.7634 UMAs
+XXIX. Servicio de oficial equipamiento (por día) 15.6506 UMAs
 
-XXX. Expedición de cédulas de identificación, por modalidad de servicio para seguridad privada:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-a) Cédula para guardias, eventual por 30 días. 5.9925 UMAs
+XXX. Servicio de suboficial A equipamiento (por día) 14.0100 UMAs
 
-b) Cédulas para guardias por vigilante vehicular. 1.9054 UMAs
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-c) Cédulas para guardias de bares, terraza y
+XXXI. Servicio de suboficial B equipamiento (por día) 11.1326 UMAs
 
-centros nocturnos. 5.9925 UMAs
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-d) Cédula para guardias en custodia y
+XXXII. Servicio de ejemplar canino K-9 (por día) 6.9424 UMAs
 
-traslado de valores. 5.9925 UMAs
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-e) Cédula para guardia como escolta personal. 5.9925 UMAs
+XXXIII. Análisis de riesgo sector privado 1154.2307 UMAs
 
-XXXI. Cursos básicos a prestadores de servicio de seguridad privada (6 meses):
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-a) Armamento y técnicas de tiro. 6.1371 UMAs
+XXXIV. Vehículo operativo balizado (por día) 12.5471 UMAs
 
-b) Conocimiento básico de seguridad a inmuebles. 6.1371 UMAs
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-c) Atención ciudadana. 6.1371 UMAs
+XXXV. Vehículo blindado zona urbana (por día) 170.9915 UMAs
 
-XXXII. Cursos Especializados (anuales) para los servicios de seguridad privada:
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-a) Reacción a la emboscada. 50.2121 UMAs
+XXXVI. Vehículo blindado zona rural - caminos y/o brechas no pavimentadas (por día) 256.4679 UMAs
 
-b) Disturbios civiles (antimotines): Manejo de
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-reacciones a grupos de masas en conflictos
+XXXVII. Unidad médica con paramédico táctico (por día) 37.3525 UMAs
 
-civiles. 33.4748 UMAs
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-c) Manejo defensivo y ofensivo. 22.3165 UMAs
+XXXVIII. Servicio centro de mando móvil (por día) 49.9042 UMAs
 
-d) Manejo y seguridad de armas de fuego. 33.4748 UMAs
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-e) Protección a funcionarios. 44.6330 UMAs
+XXXIX. Servicio de oficial de Minas (por día) 16.7429 UMAs
 
-f) Capacitación, evaluación y certificación de búsqueda
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-y detección de aromas con binomios K-9
+XL. Servicio de suboficial de Minas (por día) 15.0904 UMAs
 
-(entrenador y perro). 50.2121 UMAs
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-g) Capacitación, evaluación y certificación de
+XLI. Por constancias por modalidades de servicios de seguridad privada:
 
-binomios K-9 de seguridad y protección
+a) Seguridad y protección personal 4.7634 UMAs
 
-(entrenador y perro). 50.2121 UMAs
+b) Seguridad y protección de bienes 4.7634 UMAs
+
+c) Seguridad y protección en el traslado de valores 4.7634 UMAs
+
+d) Seguridad y protección de la información 4.7634 UMAs
+
+e) Seguridad y protección en sistemas de prevención y responsabilidades 4.7634 UMAs
+
+f) Fabricación, comercialización, almacenamiento, transportación o distribución de vestimenta e instrumentos 4.7634 UMAs
+
+g) Servicios de blindaje 4.7634 UMAs
+
+h) Sistemas electrónicos 4.7634 UMAs
+
+i) Capacitación y/o adiestramiento 4.7634 UMAs
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLII. Expedición de cédulas de identificación, por modalidad de servicio para seguridad privada:
+
+a) Cédula para guardias, eventual por 30 días 5.9925 UMAs
+
+b) Cédula para guardias por vigilante vehicular 1.9054 UMAs
+
+c) Cédula para guardias de bares, terraza y centros nocturnos 5.9925 UMAs
+
+d) Cédula para guardias en custodia y traslado de valores 5.9925 UMAs
+
+e) Cédula para guardia como escolta personal 5.9925 UMAs
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLIII. Cursos básicos a prestadores de servicio de seguridad privada (6 meses):
+
+a) Armamento y técnicas de tiro 6.1371 UMAs
+
+b) Conocimiento básico de seguridad a inmuebles 6.1371 UMAs
+
+c) Atención ciudadana 6.1371 UMAs
+
+g) Inscripción preparatoria abierta 2.7281 UMAs
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLIV. Cursos Especializados (anuales) para los servicios de seguridad privada:
+
+a) Reacción a la emboscada 50.2121 UMAs
+
+b) Disturbios civiles (antimotines): Manejo de reacciones a grupos de masas en conflictos civiles 33.4748 UMAs
+
+c) Manejo defensivo y ofensivo 22.3165 UMAs
+
+d) Manejo y seguridad de armas de fuego 33.4748 UMAs
+
+e) Protección a funcionarios 44.6330 UMAs
+
+f) Capacitación, evaluación y certificación de búsqueda y detección de aromas con binomios K-9 (entrenador y perro) 50.2121 UMAs
+
+g) Capacitación, evaluación y certificación de binomios K-9 de seguridad y protección (entrenador y perro) 50.2121 UMAs
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN SEGUNDA. SUBSECRETARÍA DE MOVILIDAD DEL ESTADO
 
 ###### Artículo 203.
 
@@ -2591,7 +3191,7 @@ Por retiro de estructura de bandera completa, se pagará el derecho conforme a l
 
 Permiso para señalamiento de área de carga y descarga o área de descenso, se pagará el derecho conforme a la siguiente cuota. 3.0441 UMAs
 
-### CAPÍTULO XIII. DE LA UNIVERSIDAD TECNOLÓGICA DE LA BABÍCORA
+### CAPÍTULO XII. DE LA SECRETARÍA DE INNOVACIÓN Y DESARROLLO ECONÓMICO
 
 ###### Artículo 227.
 
@@ -2613,7 +3213,7 @@ b) Reexpedición. 55.7912 UMAs
 
 c) Renovación. 55.7912 UMAs
 
-### CAPÍTULO XIV. DE LA UNIVERSIDAD TECNOLÓGICA DE CAMARGO
+### CAPÍTULO XIII. DE LA UNIVERSIDAD TECNOLÓGICA DE LA BABÍCORA
 
 ###### Artículo 228.
 
@@ -2671,7 +3271,11 @@ e) Asesorías Preparatoria Abierta. 0.5580 UMAs
 
 f) Inscripción cuatrimestral ruta transporte. 2.7897 UMAs
 
-### CAPÍTULO XV. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+g) Inscripción preparatoria abierta 2.7281 UMAs
+
+### CAPÍTULO XIV. DE LA UNIVERSIDAD TECNOLÓGICA DE CAMARGO
 
 ###### Artículo 229.
 
@@ -2681,9 +3285,13 @@ I. Cuota de inscripción T.S.U. 25.1061 UMAs
 
 II. Cuota de inscripción Ingeniería. 30.6852 UMAs
 
-III. Cuota de Titulación T.S.U. 11.1583 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-IV. Cuota de Titulación Ingeniería. 14.5058 UMAs
+III. Cuota de Titulación T.S.U. 12.9910 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IV. Cuota de Titulación Ingeniería 16.1089 UMAs
 
 V. Credencial. 0.8928 UMAs
 
@@ -2711,67 +3319,317 @@ XVI. Malla curricular. 0.2791 UMAs
 
 XVII. Ficha de inscripción. 5.4676 UMAs
 
-### CAPÍTULO XVI. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA SUR
+### CAPÍTULO XV. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA
 
 ###### Artículo 230.
 
 Por los servicios prestados por la Universidad Tecnológica de Chihuahua, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Cuota de Inscripción T.S.U. despresurizado. 15.0078 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-II. Cuota de Inscripción T.S.U. intensivo. 21.8143 UMAs
+I. Cuota de Inscripción T.S.U. despresurizado 17.9277 UMAs
 
-III. Cuota de inscripción Ingeniería. 29.6251 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-IV. Seguro de accidentes. 2.9011 UMAs
+II. Cuota de Inscripción T.S.U. intensivo 23.6437 UMAs
 
-V. Ficha de ingreso. 5.5791 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-VI. Gasto administrativo. 3.3475 UMAs
+III. Cuota de inscripción Ingeniería 31.4903 UMAs
 
-VII. Expedición de credencial. 1.1158 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-VIII. Constancia de estudios. 0.4463 UMAs
+IV. Seguro de accidentes 2.7021 UMAs
 
-IX. Kardex / historial de estudios. 0.6695 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-X. Titulación T.S.U. 22.3164 UMAs
+V. Ficha de ingreso 5.1964 UMAs
 
-XI. Titulación Ingeniería. 33.4747 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XII. Reposición comprobante inscripción. 0.4463 UMAs
+VI. Gasto administrativo 3.1179 UMAs
 
-XIII. Examen de colocación de inglés. 1.3390 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XIV. Reposición de boleta. 0.4463 UMAs
+VII. Reexpedición de credencial 1.0393 UMAs
 
-XV. Casas de cuidado diario. 1.5064 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XVI. Examen especial. 1.3390 UMAs
+VIII. Constancia de estudios 0.4157 UMAs
 
-XVII. Contraseña proyecta. 0.5021 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Certificado parcial de estudios. 2.2316 UMAs
+IX. Relación de estudios /Kárdex 0.6236 UMAs
 
-XIX. Duplicado de certificado. 2.2316 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XX. Revalidación externa. 3.3475 UMAs
+X. Titulación T.S.U. 24.9428 UMAs
 
-XXI. Certificación de título. 5.5791 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXII. Curso preparación examen de admisión. 10.6003 UMAs
+XI. Titulación Ingeniería 35.3357 UMAs
 
-XXIII. Curso nivelación para nuevo ingreso. 5.5791 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXIV. Diplomado de inglés. 13.3899 UMAs
+XII. Reposición comprobante 0.4157 UMAs
 
-XXV. Cursos abiertos. 17.8532 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XXVI. Cursos cerrados (a empresas). 288.7380 UMAs
+XIII. Examen de colocación de inglés 2.2864 UMAs
 
-XXVII. Proyecto de investigación. 53.3882 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO XVII. DE LA UNIVERSIDAD TECNOLÓGICA DE CIUDAD JUÁREZ
+XIV. Reposición de boleta 0.4157 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XV. Constancia de trámite de titulación 0.4157 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XVI. Examen especial 1.2471 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XVII. Restablecer contraseña proyecta 0.4677 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Certificado parcial de estudios 2.0786 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XIX. Duplicado de certificado 2.0786 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XX. Revalidación externa 3.1179 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXI. Certificación de título 5.1964 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXII. Curso preparación examen de admisión 9.8732 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Curso nivelación para nuevo ingreso 7.2750 UMAs
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Diplomado de inglés básico 1, por alumno 10.4656 UMAs
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXV. Diplomado de inglés básico 1, por persona externa 12.5442 UMAs
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXVI. Diplomado de inglés básico 2, por alumno 10.7670 UMAs
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXVII. Diplomado de inglés básico 2, por persona externa 12.8456 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Diplomado de inglés principiante 1, por alumno 11.1723 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXIX. Diplomado de inglés principiante 1, por persona externa 13.2509 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXX. Diplomado de inglés principiante 2, por alumno 11.7439 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXI. Diplomado de inglés principiante 2, por persona externa 13.8225 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXII. Diplomado de inglés intermedio 1, por alumno 12.6065 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXIII. Diplomado de inglés intermedio 1, por persona externa 14.6851 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXIV. Diplomado de inglés intermedio 2, por alumno 14.0303 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Diplomado de inglés intermedio 2, por persona externa 16.1089 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXVI. Diplomado de inglés avanzado 1, por alumno 16.8884 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXVII. Diplomado de inglés avanzado 1, por persona externa 18.9670 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXVIII. Diplomado de inglés avanzado 2, por alumno 25.4625 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XXXIX. Diplomado de inglés avanzado 2, por persona externa 27.5411 UMAs
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XL. Cursos abiertos por persona 23.9036 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLI. Cuota de biblioteca 0.1559 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLII. Examen a título de suficiencia 2.0786 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLIII. Cuota por inscripción extemporánea 3.1179 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLIV. Examen inglés ITEP alumno 8.3143 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLV. Cuota de inscripción T.S.U. BIS 26.5018 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLVI. Cuota de inscripción ingeniería BIS 34.8160 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLVII. Examen ITEP CORE 6.8177 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLVIII. ITEP Plus 14.1343 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+XLIX. OXFORD (OPT) 1.5589 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+L. Certificación CSWA 2.5982 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LI. Evento Académico 4.6768 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LII. Gafete Institucional 0.8834 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LIII. DELF A1 Internos 7.2022 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LIV. DELF A1 Externos 10.2889 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LV. DELF A2 Internos 8.0025 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LVI. DELF A2 Externos 11.4321 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LVII. DELF B1 Internos 9.8212 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LVIII. DELF B1 Externos 14.0303 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LIX. DELF B2 Internos 11.8478 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LX. DELF B2 Externos 19.7464 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXI. DELF C1 Internos 28.5803 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXII. DELF C1 Externos 28.5803 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXIII. DELF C2 Internos 32.7375 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXIV. DELF C2 Externos 32.7375 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXV. Licitación 19.7464 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXVI. Contenido temático 3.1179 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXVII. TOEFL Alumnos 10.9125 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXVIII. TOEFL Externos 12.4714 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXIX. Examen perito traductor (inglés) 12.4714 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXX. Ficha de ingreso unidad académica Ojinaga 3.1179 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXI. Ficha de ingreso unidad académica Cuauhtémoc 3.1179 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXII. Examen perito traductor (Francés) 12.4714 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXIII. Constancia de calificaciones 0.4157 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXIV. Constancia de egresado no titulado 0.4157 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXV. Boleta de calificaciones 0.4157 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+LXXVI. Reimpresión de estado de cuenta 0.4157 UMAs
+
+### CAPÍTULO XVI. DE LA UNIVERSIDAD TECNOLÓGICA DE CHIHUAHUA SUR
 
 ###### Artículo 231.
 
@@ -2807,7 +3665,7 @@ XIV. Seguro por prácticas. 2.0086 UMAs
 
 XV. Constancias. 0.4464 UMAs
 
-### CAPÍTULO XVIII. DE LA UNIVERSIDAD TECNOLÓGICA DE PAQUIMÉ
+### CAPÍTULO XVII. DE LA UNIVERSIDAD TECNOLÓGICA DE CIUDAD JUÁREZ
 
 ###### Artículo 232.
 
@@ -2889,9 +3747,11 @@ e) Colegiatura de curso de inglés teens
 
 (13 a 16 años de edad). 15.0637 UMAs
 
-f) Examen bulats (alumnos y egresados). 6.6950 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-g) Examen bulats (público en general). 8.9266 UMAs
+f) Examen de certificación del idioma Inglés 12.4715 UMAs
+
+g) (DEROGADA, P.O. 24 DE DICIEMBRE DE 2022)
 
 VI. Artes y oficios:
 
@@ -2911,7 +3771,7 @@ e) Colegiatura personas con discapacidad
 
 (pronto pago). 6.6950 UMAs
 
-### CAPÍTULO XIX. DE LA UNIVERSIDAD TECNOLÓGICA DE PARRAL
+### CAPÍTULO XVIII. DE LA UNIVERSIDAD TECNOLÓGICA DE PAQUIMÉ
 
 ###### Artículo 233.
 
@@ -2951,7 +3811,7 @@ XVI. Copia de documentación. 0.0559 UMAs
 
 XVII. Copia simple. 0.0113 UMAs
 
-### CAPÍTULO XX. DE LA UNIVERSIDAD TECNOLÓGICA PASO DEL NORTE
+### CAPÍTULO XIX. DE LA UNIVERSIDAD TECNOLÓGICA DE PARRAL
 
 ###### Artículo 234.
 
@@ -2983,7 +3843,7 @@ X. Titulación T.S.U. 6.1371 UMAs
 
 XI. Titulación Ingeniería. 10.6004 UMAs
 
-### CAPÍTULO XXI. DE LA UNIVERSIDAD TECNOLÓGICA DE LA TARAHUMARA
+### CAPÍTULO XX. DE LA UNIVERSIDAD TECNOLÓGICA PASO DEL NORTE
 
 ###### Artículo 235.
 
@@ -3011,11 +3871,13 @@ X. Inscripción Ingeniería. 3.9054 UMAs
 
 XI. Inscripción T S.U. 2.2316 UMAs
 
-XII. Titulación TSU. 21.2006 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-XIII. Titulación Ingeniería. 23.4322 UMAs
+XII. Titulación Ingeniería y T.S.U. 23.4322 UMAs
 
-### CAPÍTULO XXII. DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
+XIII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2022)
+
+### CAPÍTULO XXI. DE LA UNIVERSIDAD TECNOLÓGICA DE LA TARAHUMARA
 
 ###### Artículo 236.
 
@@ -3033,7 +3895,19 @@ V. Kardex. 0.5580 UMAs
 
 VI. Título. 13.3900 UMAs
 
-### CAPÍTULO XXIII. DEL INSTITUTO TECNOLÓGICO SUPERIOR DE NUEVO CASAS GRANDES
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+VII. Examen Remedial 2.5982 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+VIII. Copias B/N (Biblioteca) 0.0104 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IX. Copias color (Biblioteca) 0.0208 UMAs
+
+### CAPÍTULO XXII. DEL COLEGIO DE BACHILLERES DEL ESTADO DE CHIHUAHUA
 
 ###### Artículo 237.
 
@@ -3279,17 +4153,29 @@ XX. Folletos para el S.E.A. Juárez (guías):
 
 58) Aplicar Funciones Sistema Operativo. 0.7254 UMAs
 
-59) IV Elaborar Hoja de Cálculo. 0.9709 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-60) IV Elaborar Documentos Electrónicos. 0.9709 UMAs
+59) Elaborar Hoja de Cálculo 0.9709 UMAs
 
-61) V Utilizar Software Editar Imágenes. 0.8593 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-62) V Utilizar Software Dis. Manejo de Gráficos. 0.7254 UMAs
+60) Elaborar Documentos Electrónicos 0.9709 UMAs
 
-63) VI Diseñar Ánima Elementos Multimedia. 0.7254 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-64) VI Diseñar Páginas Web. 0.7254 UMAs
+61) Utilizar Software Editar Imágenes 0.8593 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+62) Utilizar Software Dis. Manejo de Gráficos 0.7254 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+63) Diseñar Ánima Elementos Multimedia 0.7254 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+64) Diseñar Páginas Web 0.7254 UMAs
 
 65) Gestionar Trámites Fiscales. 0.8593 UMAs
 
@@ -3307,25 +4193,37 @@ Comerciales. 0.4799 UMAs
 
 71) Elaborar Liquidaciones Seguridad Social. 0.4799 UMAs
 
-72) III Conocer la Ley Aduanera. 0.7254 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-73) III Entender el Derecho y su Función Social. 0.7254 UMAs
+72) Conocer la Ley Aduanera 0.7254 UMAs
 
-74) IV Identificar los Aranceles y Tratados
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-Internacionales. 0.7254 UMAs
+73) Entender el Derecho y su Función Social 0.7254 UMAs
 
-75) IV Aplicar Actividades en el Comercio Exterior. 0.7254 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-76) V Comprender el Comercio Exterior. 0.7254 UMAs
+74) Identificar los Aranceles y Tratados Internacionales 0.7254 UMAs
 
-77) V Reconocer las Conductas del Consumidor. 0.7254 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-78) VI Aplicar Terminología de Economía
+75) Aplicar Actividades en el Comercio Exterior 0.7254 UMAs
 
-Internacional. 0.7254 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-79) VI Distinguir las Teorías Macroeconómicas. 0.7254 UMAs
+76) Comprender el Comercio Exterior 0.7254 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+77) Reconocer las Conductas del Consumidor 0.7254 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+78) Aplicar Terminología de Economía Internacional 0.7254 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+79) Distinguir las Teorías Macroeconómicas 0.7254 UMAs
 
 XXI. Folletos para el S.E.A. Chihuahua (guías):
 
@@ -3575,7 +4473,7 @@ XXV. Renta de concesión de papelería:
 
 15) Plantel 19. 39.2770 UMAs
 
-### CAPÍTULO XXIV. DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
+### CAPÍTULO XXIII. DEL INSTITUTO TECNOLÓGICO SUPERIOR DE NUEVO CASAS GRANDES
 
 ###### Artículo 238.
 
@@ -3673,9 +4571,7 @@ XXI. Examen teórico práctico de comprensión de una lengua extranjera:
 
 3) Egresados en generaciones de 2004 en adelante. 13.2784 UMAs
 
-### CAPÍTULO XXV. DE LAS DEPENDENCIAS DEL PODER EJECUTIVO
-
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO XXIV. DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 
 ###### Artículo 239.
 
@@ -3685,71 +4581,135 @@ I. Cursos abiertos según la especialidad:
 
 a) Lista regular (precio por hora):
 
-1) Aeronáutica, de. 0.7254 a 0.8591 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-2) Calidad, de. 0.2902 a 0.6137 UMAs
+1) Aeronáutica 0.8591 UMAs
 
-3) Dibujo Industrial, de. 0.3572 a 1.1716 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-4) Electricidad, de. 0.2902 a 0.5467 UMAs
+2) Calidad 0.6137 UMAs
 
-5) Electrónica, de. 0.3572 a 0.5467 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-6) Energías Renovables, de. 0.4687 a 0.7364 UMAs
+3) Dibujo Industrial 1.1716 UMAs
 
-7) Informática, de. 0.2344 a 0.6137 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-8) Inglés, de. 0.2344 a 0.2454 UMAs
+4) Electricidad 0.5467 UMAs
 
-9) Mantenimiento Industrial, de. 0.4130 a 0.6137 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-10) Máquinas Herramienta, de. 0.1898 a 0.7364 UMAs
+5) Electrónica 0.5467 UMAs
 
-11) Mecatrónica, de. 0.2009 a 0.6137 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-12) Metrología Dimensional, de. 0.1675 a 0.7364 UMAs
+6) Energías Renovables 0.7364 UMAs
 
-13) Plásticos, de. 0.2456 a 0.7364 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-14) Refrigeración, de. 0.5469 a 0.5913 UMAs
+7) Informática 0.6137 UMAs
 
-15) Soldadura, de. 0.4130 a 1.2274 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-16) Administración, de. 0.2791 a 0.8257 UMAs
+8) Inglés 0.2454 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+9) Mantenimiento Industrial 0.6137 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+10) Máquinas Herramienta 0.7364 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+11) Mecatrónica 0.6137 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+12) Metrología Dimensional 0.7364 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+13) Plásticos 0.7364 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+14) Refrigeración 0.5913 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+15) Soldadura 1.2274 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+16) Administración 0.8257 UMAs
 
 b) Lista plan emergente apoyo crisis (precio por hora):
 
-1) Aeronáutica. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-2) Calidad. 0.1396 a 0.5579 UMAs
+1) Aeronáutica 0.5579 UMAs
 
-3) Dibujo Industrial. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-4) Electricidad. 0.1396 a 0.5579 UMAs
+2) Calidad 0.5579 UMAs
 
-5) Electrónica. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-6) Energías Renovables. 0.1396 a 0.5579 UMAs
+3) Dibujo Industrial 0.5579 UMAs
 
-7) Informática. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-8) Inglés. 0.1396 a 0.5579 UMAs
+4) Electricidad 0.5579 UMAs
 
-9) Mantenimiento Industrial. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-10) Máquinas Herramienta. 0.1396 a 0.5579 UMAs
+5) Electrónica 0.5579 UMAs
 
-11) Mecatrónica. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-12) Metrología Dimensional. 0.1396 a 0.5579 UMAs
+6) Energías Renovables 0.5579 UMAs
 
-13) Plásticos. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-14) Refrigeración. 0.1396 a 0.5579 UMAs
+7) Informática 0.5579 UMAs
 
-15) Soldadura. 0.1396 a 0.5579 UMAs
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-16) Administración. 0.1396 a 0.5579 UMAs
+8) Inglés 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+9) Mantenimiento Industrial 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+10) Máquinas Herramienta 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+11) Mecatrónica 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+12) Metrología Dimensional 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+13) Plásticos 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+14) Refrigeración 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+15) Soldadura 0.5579 UMAs
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+16) Administración 0.5579 UMAs
 
 II. Servicios escolares:
 
@@ -3779,65 +4739,101 @@ h) Reposición de ficha de pago
 
 referenciado. 0.1117 UMAs
 
-### CAPÍTULO XXVI. DEL H. CONGRESO DEL ESTADO DE CHIHUAHUA
-
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO XXV. DE LAS DEPENDENCIAS DEL PODER EJECUTIVO
 
 ###### Artículo 240.
 
 Por los servicios prestados derivados de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, se pagarán los derechos conforme a las siguientes cuotas:
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 I. Por papel impreso tamaño carta:
 
-a) Blanco y negro, por cada hoja. 0.0141 UMAs
+a) Blanco y negro, por cada hoja 0.0041 UMAs
 
-b) A color, por cada hoja. 0.0951 UMAs
+b) A color, por cada hoja 0.0097 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 II. Papel impreso tamaño oficio:
 
-a) Blanco y negro, por cada hoja. 0.0223 UMAs
+a) Blanco y negro, por cada hoja 0.0041 UMAs
 
-b) A color, por cada hoja. 0.1013 UMAs
+b) A color, por cada hoja 0.0097 UMAs
 
-III. Disco compacto grabable (CD-R) cada uno. 0.1996 UMAs
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
 
-IV. Disco DVD grabable (DVD+R), cada uno. 0.3549 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO XXVII. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+III. Cuando la información se solicite en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información, se cobrará por concepto de derecho, el valor de mercado que el mismo tenga en el lugar en que se emita la información.
 
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La información deberá ser entregada sin costo cuando el particular proporcione el medio magnético, electrónico o el mecanismo necesario para reproducir la información.
+
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+La unidad de transparencia de la dependencia de que se trate, podrá exceptuar del pago de derechos, cuando se atiendan a las circunstancias socioeconómicas del solicitante, de conformidad con lo dispuesto en el último párrafo del artículo 64 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
+
+### CAPÍTULO XXVI. DEL H. CONGRESO DEL ESTADO DE CHIHUAHUA
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 24 DE DICIEMBRE DE 2022, PÁGINAS DE LA 45 A LA 46.]</small>
 
 ###### Artículo 241.
 
 Por los servicios prestados derivados de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, se pagarán los derechos conforme a las cuotas siguientes:
 
-I. Copia en papel tamaño carta, por cada hoja. 0.0065 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-II. Copia en papel tamaño oficio, por cada hoja. 0.0081 UMAs
+I. Copia en papel tamaño carta, por cada hoja 0.0041 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+II. Copia en papel tamaño oficio, por cada hoja 0.0041 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 III. Papel impreso tamaño carta:
 
-a) Blanco y negro, por cada hoja. 0.0141 UMAs
+a) Blanco y negro, por cada hoja 0.0041 UMAs
 
-b) A color, por cada hoja. 0.0951 UMAs
+b) A color, por cada hoja 0.0097 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 IV. Papel impreso tamaño oficio:
 
-a) Blanco y negro por cada hoja. 0.0223 UMAs
+a) Blanco y negro, por cada hoja 0.0041 UMAs
 
-b) A color, por cada hoja. 0.1013 UMAs
+b) A color, por cada hoja 0.0097 UMAs
 
-V. Disco compacto grabable (CD-R), cada uno. 0.2344 UMAs
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
 
-VI. Disco DVD grabable (DVD+R) cada uno. 0.4799 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+V. Cuando la información se solicite en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información, se cobrará por concepto de derecho, el valor de mercado que el mismo tenga en el lugar en que se emita la información.
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+La información deberá ser entregada sin costo cuando el particular proporcione el medio necesario para reproducir la información.
+
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+La unidad de transparencia podrá exceptuar del pago de derechos, cuando se atiendan a las circunstancias socioeconómicas del solicitante, de conformidad con lo dispuesto en el último párrafo del artículo 64 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 242.
 
-Por cada certificación, constancia o copia certificada en documentos, se pagarán los derechos conforme al siguiente párrafo:
-
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-POR LA EXPEDICIÓN DE COPIAS CERTIFICADAS DE DOCUMENTOS POR CADA HOJA TAMAÑO CARTA U OFICIO, SE PAGARÁ EL DERECHO CONFORME A LA SIGUIENTE CUOTA. 0.2359 UMAs
+Por cada certificación o constancia en documentos, se pagará la siguiente cuota 0.2359 UMAs
 
 ###### Artículo 243.
 
@@ -3855,29 +4851,55 @@ IV. Por la venta de bases de licitación con
 
 recursos estatales. 19.3886 UMAs
 
+### CAPÍTULO XXVII. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
 ###### Artículo 244.
 
 Por los servicios prestados derivados de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, se pagarán los derechos conforme a las siguientes cuotas:
 
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
 I. Copia fotostática simple en papel tamaño
 
-carta u oficio por cada hoja. 0.0168 UMAs
+carta u oficio por cada hoja 0.0041 UMAs
 
-II. Papel impreso tamaño carta:
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
 
-a) Blanco y negro, por cada hoja. 0.0168 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-b) A color por cada hoja. 0.2511 UMAs
+II. Copia en papel tamaño oficio, por cada hoja 0.0041 UMAs
 
-III. Papel impreso tamaño oficio:
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
 
-a) Blanco y negro, por cada hoja. 0.0168 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-b) A color por cada hoja. 0.2511 UMAs
+III. Papel impreso tamaño carta:
 
-IV. Disco compacto grabable (CD-R) cada uno. 0.2009 UMAs
+a) Blanco y negro, por cada hoja 0.0041 UMAs
 
-V. Disco DVD grabable (DVD+R) cada uno. 0.2009 UMAs
+b) A color, por cada hoja 0.0097 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IV. Papel impreso tamaño oficio:
+
+a) Blanco y negro, por cada hoja 0.0041 UMAs
+
+b) A color, por cada hoja 0.0097 UMAs
+
+La información deberá ser entregada sin costo, cuando implique la entrega de no más de veinte hojas simples.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+V. Cuando la información se solicite en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información, se cobrará por concepto de derecho, el valor de mercado que el mismo tenga en el lugar en que se emita la información.
+
+La información deberá ser entregada sin costo cuando el particular proporcione el medio necesario para reproducir la información.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+La unidad de transparencia podrá exceptuar del pago de derechos, cuando se atiendan a las circunstancias socioeconómicas del solicitante, de conformidad con lo dispuesto en el último párrafo del artículo 64 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
 ###### Artículo 245.
 
@@ -3887,23 +4909,37 @@ I. Autorización de instituciones académicas. 278.9556 UMAs
 
 II. Certificación de facilitador privado. 66.9494 UMAs
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+III. Curso de alineación para certificación y/o registro 31.1785 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+IV. Reposición de certificación como facilitador privado 10.3928 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+V. Validación y registro por convenio facilitadores externos 10.3928 UMAs
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+VI. Segunda revisión de convenio facilitadores externos 5.1964 UMAs
+
 ###### Artículo 246.
 
 Por los servicios prestados en la Dirección de Recursos Materiales y Servicios Generales, se pagarán los derechos conforme a las siguientes cuotas:
 
 I. Venta de bases de licitaciones. 11.1583 UMAs
 
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-II. EXPEDICIÓN DE DOCUMENTO DE MANERA DIGITAL
+II. Expedición de documento de manera digital en disco compacto o grabable (CD-R), disco DVD grabable (DVD+R) o en cualquier otro medio magnético, electrónico para almacenar información, se cobrará por concepto de derecho, el valor de mercado que el mismo tenga en el lugar en que se emita la información.
 
-EN CD/DVD, CADA UNO. 0.2009 UMAs
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2022)</small>
 
-(NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+III. Copias simples e impresiones en blanco y
 
-III. COPIAS SIMPLES E IMPRESIONES EN BLANCO Y
-
-NEGRO (OFICIO O CARTA). 0.0168 UMAs
+negro (oficio o carta). 0.0041 UMAs
 
 IV. Copia de identificación. 0.0335 UMAs
 
@@ -3918,6 +4954,952 @@ I. Impresión de kardex. 0.4241 UMAs
 (NOTA: EL 24 DE OCTUBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2022 Y SU ACUMULADA 30/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 II. COPIA SIMPLE DE TAMAÑO CARTA U OFICIO. 0.0168 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXVIII. PARQUE NACIONAL CUMBRES DE MAJALCA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 248.
+
+Por el acceso al uso o aprovechamiento al área natural protegida Parque Nacional Cumbres de Majalca, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Automóviles, suv's camionetas 1.0392 UMAs
+
+II. Suv's modificados, ATV's y motocicletas (circulando o en remolque) 2.5982 UMAs
+
+III. Remolque 1.5589 UMAs
+
+IV. Vehículos de carga: camioneta, camión, dompe y otros 2.0785 UMAs
+
+V. Vans, camión de pasajeros (escolar, scouts, etc.) 3.1178 UMAs
+
+VI. Personas en estos vehículos (6 personas no se cobran) 0.5196 UMAs
+
+VII. Vehículo de turismo (vans, camión, otros) 31.1785 UMAs
+
+VIII. UTV's (circulando o en remolque) 5.1964 UMAs
+
+IX. Personas a pie, bicicleta o caballo 0.5196 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXIX. SERVICIOS EDUCATIVOS DEL ESTADO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 249.
+
+Por los servicios prestados por Servicios Educativos del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Costo por participación en licitación 10.3928 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXX. SUBSISTEMA DE PREPARATORIA ABIERTA Y TELEBACHILLERATO DEL ESTADO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 250.
+
+Por los servicios prestados por el Subsistema de Preparatoria Abierta y Telebachillerato del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Aplicador de preparatoria abierta 4.1571 UMAs
+
+II. Certificado de preparatoria abierta 3.1178 UMAs
+
+III. Constancia de estudios de preparatoria abierta 0.5196 UMAs
+
+IV. Certificado de antecedentes académicos de preparatoria abierta 0.7274 UMAs
+
+V. Inscripción de preparatoria abierta 1.5589 UMAs
+
+VI. Equivalencia de preparatoria abierta 2.0785 UMAs
+
+VII. Guía de estudios preparatoria abierta 0.4157 UMAs
+
+VIII. Exámenes de preparatoria abierta 0.8626 UMAs
+
+IX. Duplicado de credencial de preparatoria abierta 0.5092 UMAs
+
+X. Duplicado de certificado final de preparatoria abierta 0.6443 UMAs
+
+XI. Cuota de inscripción de Telebachillerato 5.1964 UMAs
+
+XII. Certificado final de Telebachillerato 3.1178 UMAs
+
+XIII. Examen de regularización de Telebachillerato 0.5196 UMAs
+
+XIV. Duplicado de certificado de Telebachillerato 2.0785 UMAs
+
+XV. Certificado parcial de Telebachillerato 1.0392 UMAs
+
+XVI. Equivalencia de Telebachillerato 1.5589 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXI. UNIVERSIDAD POLITÉCNICA DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 251.
+
+Por los servicios prestados por la Universidad Politécnica de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Inscripción/Colegiatura 26.1899 UMAs
+
+II. Recuperación de asignatura en segunda oportunidad 5.7160 UMAs
+
+III. Ficha de admisión 4.3649 UMAs
+
+IV. Titulación 21.3053 UMAs
+
+V. Expedición de documentos/Constancias 0.4676 UMAs
+
+VI. Expedición de documentos/Relación de materias 0.8314 UMAs
+
+VII. Expedición de documentos/Duplicado de credencial 0.9353 UMAs
+
+VIII. Expedición de documentos/Contenido temático de asignatura 1.2471 UMAs
+
+IX. Expedición de documentos/Certificado parcial 1.4549 UMAs
+
+X. Expedición de documentos/Certificado completo (reposición) 1.8707 UMAs
+
+XI. Expedición de documentos/Carta pasante 1.5589 UMAs
+
+XII. Expedición de documentos/Impresión de boleta de calificaciones por el departamento de servicios escolares 0.2598 UMAs
+
+XIII. Expedición de documentos/Reimpresión de comprobante de inscripción 0.2598 UMAs
+
+XIV. Derecho de revalidación y/o equivalidación de materias 6.7553 UMAs
+
+XV. Revalidación y/o equivalidación de cada materia 1.7667 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXII. UNIVERSIDAD PEDAGÓGICA NACIONAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 252.
+
+Por los servicios prestados por (sic) Universidad Pedagógica Nacional del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Registro electrónico para trámite Cédula 3.1178 UMAs
+
+II. Carta pasante 0.8314 UMAs
+
+III. Boleta de calificaciones 0.2078 UMAs
+
+IV. Kárdex de calificaciones 0.2078 UMAs
+
+V. Relación de estudios parcial 0.8314 UMAs
+
+VI. Relación de estudios terminal 2.0785 UMAs
+
+VII. Constancias 0.5196 UMAs
+
+VIII. Duplicado de credencial 0.6235 UMAs
+
+IX. Curso de actualización profesional 11.4321 UMAs
+
+X. Curso opción tesis posgrado 45.7285 UMAs
+
+XI. Curso opción tesis licenciatura 41.5713 UMAs
+
+XII. Cursos y talleres 15.5892 UMAs
+
+XIII. Examen extraordinario 2.5982 UMAs
+
+XIV. Examen de inglés 36.3749 UMAs
+
+XV. Ficha de admisión licenciatura 6.7553 UMAs
+
+XVI. Ficha de admisión maestría 3.1178 UMAs
+
+XVII. Ficha de admisión licenciatura medio indígena 2.5982 UMAs
+
+XVIII. Ficha de admisión doctorado 4.1571 UMAs
+
+XIX. Ficha de admisión licenciatura virtual 3.1178 UMAs
+
+XX. Ficha licenciatura en educación y desarrollo 2.5982 UMAs
+
+XXI. Trámite de título de licenciatura 18.7071 UMAs
+
+XXII. Trámite de título de posgrado 20.7856 UMAs
+
+XXIII. Servicios educativos licenciatura semestral 36.3749 UMAs
+
+XXIV. Servicios educativos maestría semestral 45.7285 UMAs
+
+XXV. Servicios educativos licenciatura en educación preescolar y primaria para el medio indígena (LEPEPMI) 23.9035 UMAs
+
+XXVI. Servicios educativos maestría cuatrimestre 30.1392 UMAs
+
+XXVII. Servicios educativos doctorado en educación 103.9284 UMAs
+
+XXVIII. Servicios educativos licenciatura cuatrimestre 23.9035 UMAs
+
+XXIX. Inscripción especialidades 31.1785 UMAs
+
+XXX. Servicios educativos doctorado en desarrollo 93.5356 UMAs
+
+XXXI. Servicios educativos licenciatura virtual 34.2964 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXIII. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 253.
+
+Por los servicios prestados por el Colegio de Estudios Científicos y Tecnológicos del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. CECyT
+
+a) Cuota semestral 15.6000 UMAs
+
+b) Curso intensivo de regularización. 0.8900 UMAs
+
+c) Examen de regularización 0.8900 UMAs
+
+d) Constancia de estudios 0.4100 UMAs
+
+e) Duplicado de certificado de estudios 1.0400 UMAs
+
+f) Duplicado de credencial 1.0400 UMAs
+
+g) Ficha de examen de admisión 1.0400 UMAs
+
+h) Recursamiento intersemestral 2.8000 UMAs
+
+i) Trámite de titulación 2.8000 UMAs
+
+j) Seguro escolar 3.1200 UMAs
+
+k) Certificado parcial de estudios 0.6200 UMAs
+
+l) Pre dictamen de convalidación 1.0400 UMAs
+
+m) Copias fotostáticas 0.5200 UMAs
+
+n) Constancia de autenticidad de documentos 0.1000 UMAs
+
+o) Autenticidad de certificados 0.4200 UMAs
+
+p) Historiales académicos 0.3600 UMAs
+
+q) Portabilidades 0.5200 UMAs
+
+r) Boleta parcial y final 0.7800 UMAs
+
+II. Educación Media Superior a Distancia (EMSaD)
+
+a) Cuota semestral 12.5000 UMAs
+
+b) Curso intensivo de regularización 0.8900 UMAs
+
+c) Examen de regularización 0.8900 UMAs
+
+d) Constancia de estudios 0.4100 UMAs
+
+e) Duplicado de certificado de estudios 1.0400 UMAs
+
+f) Duplicado de credencial 1.0400 UMAs
+
+g) Ficha de examen de admisión 1.0400 UMAs
+
+h) Recursamiento intersemestral 1.5600 UMAs
+
+i) Trámite de titulación 2.8000 UMAs
+
+j) Certificado parcial de estudios 0.6200 UMAs
+
+k) Predictamen de convalidación 1.0400 UMAs
+
+l) Constancia de autenticidad de documentos 0.1000 UMAs
+
+m) Autenticidad de certificados 0.4200 UMAs
+
+n) Historiales académicos 0.3600 UMAs
+
+o) Portabilidades 0.5200 UMAs
+
+p) Boleta parciales y finales 0.7800 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXIV. EL COLEGIO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 254.
+
+Por los servicios prestados por El Colegio de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Cuota de inscripción y colegiatura.
+
+a) Especialidad en Investigación.
+
+1. Inscripción 66.5142 UMAs
+
+b) Maestría en Métodos de Investigación Científica.
+
+1. Inscripción semestral 25.9821 UMAs
+
+2. Colegiatura semestral 71.7106 UMAs
+
+c) Maestría en Gobierno Urbano y Ciudad.
+
+1. Inscripción semestral 25.9821 UMAs
+
+2. Colegiatura semestral 103.9284 UMAs
+
+d) Doctorado en investigación.
+
+1. Inscripción anual 38.4535 UMAs
+
+2. Colegiatura Semestral 187.0712 UMAs
+
+II. Cuota por servicios académicos.
+
+a) Credencial 1.5589 UMAs
+
+b) Resello de credencial 0.4157 UMAs
+
+c) Constancia de estudios 1.0392 UMAs
+
+d) Relación de estudios 3.1178 UMAs
+
+e) Relación de estudios (por materia) 0.1558 UMAs
+
+f) Corrección del título 2.2344 UMAs
+
+g) Examen profesional 25.9821 UMAs
+
+h) Trámite de título y cédula 31.1785 UMAs
+
+i) Duplicado de cédula 4.1883 UMAs
+
+j) Revalidación de materias Exento
+
+k) Equivalencia de materias Exento
+
+III. Trámite de especialidad en investigación:
+
+a) Registro de diploma 5.1964 UMAs
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXV. CONSEJO ESTATAL DE POBLACIÓN
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 255.
+
+Por los servicios prestados por el Consejo Estatal de Población, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Pláticas sobre planificación familiar 1.0392 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXVI. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 256.
+
+Por los servicios prestados por el Colegio de Educación Profesional Técnica del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Planteles:
+
+a) Chihuahua I 13.0430 UMAs
+
+b) Chihuahua II 13.0430 UMAs
+
+c) Cuauhtémoc 13.0430 UMAs
+
+d) Delicias 13.0430 UMAs
+
+e) Parral 13.0430 UMAs
+
+f) Juárez I 13.7705 UMAs
+
+g) Juárez II 13.7705 UMAs
+
+h) Juárez III 13.7705 UMAs
+
+II. Constancia 0.5716 UMAs
+
+III. Duplicado de certificado 1.5589 UMAs
+
+IV. Reposición de credencial 0.9353 UMAs
+
+V. Asesoría complementaria intersemestral (semestre en curso) 1.3510 UMAs
+
+VI. Asesoría complementaria intersemestral 3.9492 UMAs
+
+VII. Acto Protocolario 1.6628 UMAs
+
+VIII. Costo por trámite de titulación 6.2357 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXVII. INSTITUTO CHIHUAHUENSE DEL DEPORTE Y CULTURA FÍSICA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 257.
+
+Por los servicios prestados por el Instituto Chihuahuense del Deporte y Cultura Física, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Estadio Manuel L. Almanza
+
+a) Evento deportivo diurno público escolar 31.8000 UMAs
+
+b) Evento deportivo diurno privado escolar 63.6000 UMAs
+
+c) Evento deportivo diurno privado 106.0000 UMAs
+
+d) Evento deportivo nocturno público escolar 52.5000 UMAs
+
+e) Evento deportivo nocturno privado escolar 105.0000 UMAs
+
+f) Evento deportivo nocturno privado 175.0000 UMAs
+
+g) Hora/entrenamiento diurno público escolar 1.5000 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 3.0000 UMAs
+
+i) Hora/entrenamiento diurno privado 5.0000 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 2.7000 UMAs
+
+k) Hora/entrenamiento nocturno privado escolar 5.4000 UMAs
+
+l) Hora/entrenamiento nocturno privado 9.0000 UMAs
+
+m) Evento cultural o social público escolar 447.6000 UMAs
+
+n) Evento cultural o social privado escolar 895.2000 UMAs
+
+o) Evento cultural o social privado 1492.0000 UMAs
+
+II. Estadio Carta Blanca (Juárez)
+
+a) Evento deportivo diurno público escolar 31.9500 UMAs
+
+b) Evento deportivo diurno privado escolar 63.6000 UMAs
+
+c) Evento deportivo diurno privado 106.0000 UMAs
+
+d) Evento deportivo nocturno público escolar 31.8000 UMAs
+
+e) Evento deportivo nocturno privado escolar 63.6000 UMAs
+
+f) Evento deportivo nocturno privado 106.0000 UMAs
+
+g) Hora/entrenamiento diurno público escolar 1.3500 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 2.7000 UMAs
+
+i) Hora/entrenamiento diurno privado 4.5000 UMAs
+
+j) Evento cultural o social público escolar 374.4000 UMAs
+
+k) Evento cultural o social privado escolar 748.8000 UMAs
+
+l) Evento cultural o social privados 1248.0000 UMAs
+
+III. Estadio Chihuahua y Juárez
+
+a) Evento deportivo diurno público escolar 44.4000 UMAs
+
+b) Evento deportivo diurno privado escolar 88.8000 UMAs
+
+c) Evento deportivo diurno privado 148.0000 UMAs
+
+d) Evento deportivo nocturno público escolar 70.5000 UMAs
+
+e) Evento deportivo nocturno privado escolar 141.0000 UMAs
+
+f) Evento deportivo nocturno privado 235.0000 UMAs
+
+g) Hora/entrenamiento diurno público escolar 3.0000 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 6.0000 UMAs
+
+i) Hora/entrenamiento diurno privado 100000 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 4.2000 UMAs
+
+k) Hora/entrenamiento nocturno privada escolar 8.4000 UMAs
+
+l) Hora/entrenamiento nocturno privado 14.0000 UMAs
+
+m) Evento cultural o social público escolar 780.0000 UMAs
+
+n) Evento cultural o social privado escolar 1560.0000 UMAs
+
+o) Evento cultural o social privado 2600.0000 UMAs
+
+IV. Estadio Olímpico
+
+a) Evento deportivo diurno público escolar 31.1785 UMAs
+
+b) Evento deportivo diurno privado escolar 62.3570 UMAs
+
+c) Evento deportivo diurno privado 103.9284 UMAs
+
+d) Evento deportivo nocturno público escolar 53.0035 UMAs
+
+e) Evento deportivo nocturno privado escolar 106.0070 UMAs
+
+f) Evento deportivo nocturno privado 176.6784 UMAs
+
+g) Hora/entrenamiento diurno público escolar 1.2471 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 2.4942 UMAs
+
+i) Hora/entrenamiento diurno privado 4.1571 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 2.0577 UMAs
+
+k) Hora/entrenamiento nocturno privada escolar 4.1155 UMAs
+
+l) Hora/entrenamiento nocturno privado 6.8592 UMAs
+
+m) Evento cultural o social público escolar 374.1425 UMAs
+
+n) Evento cultural o social privado escolar 748.2851 UMAs
+
+o) Evento cultural o social privado 1247.1419 UMAs
+
+V. Gimnasio Nayo Revilla
+
+a) Evento deportivo diurno público escolar 5.7680 UMAs
+
+b) Evento deportivo diurno privado escolar 11.5360 UMAs
+
+c) Evento deportivo diurno privado 19.2267 UMAs
+
+d) Evento deportivo nocturno público escolar 14.3421 UMAs
+
+e) Evento deportivo nocturno privado escolar 28.6842 UMAs
+
+f) Evento deportivo nocturno privado 47.8071 UMAs
+
+g) Hora/entrenamiento diurno público escolar 1.1536 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 2.3072 UMAs
+
+i) Hora/entrenamiento diurno privado 3.8453 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 2.5566 UMAs
+
+k) Hora/entrenamiento nocturno privada escolar 5.1132 UMAs
+
+l) Hora/entrenamiento nocturno privado 8.5221 UMAs
+
+m) Evento cultural o social público escolar 84.1820 UMAs
+
+n) Evento cultural o social privado escolar 168.3641 UMAs
+
+o) Evento cultural o social privado 280.6069 UMAs
+
+p) Evento académico público escolar 77.9437 UMAs
+
+q) Evento académico privado escolar 155.8927 UMAs
+
+VI. Canchas Sintéticas Azules
+
+a) Evento deportivo diurno público escolar 3.7414 UMAs
+
+b) Evento deportivo diurno privado escolar 7.4828 UMAs
+
+c) Evento deportivo diurno privado 12.4714 UMAs
+
+d) Evento deportivo nocturno público escolar 5.9239 UMAs
+
+e) Evento deportivo nocturno privado escolar 11.8478 UMAs
+
+f) Evento deportivo nocturno privado 19.7464 UMAs
+
+g) Hora/entrenamiento diurno público escolar 0.6235 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 1.2471 UMAs
+
+i) Hora/entrenamiento diurno privado 2.0785 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 1.0912 UMAs
+
+k) Hora/entrenamiento nocturno privado escolar 2.1824 UMAs
+
+l) Hora/entrenamiento nocturno privado 3.6374 UMAs
+
+m) Evento cultural o social público escolar 17.1482 UMAs
+
+n) Evento cultural o social privado escolar 34.2964 UMAs
+
+o) Evento cultural o social privado 57.1606 UMAs
+
+VII. Jardines el Mortero
+
+a) Área No.1 nocturno público escolar 62.0453 UMAs
+
+b) Área No.1 nocturno privado escolar 124.0906 UMAs
+
+c) Área No.1 nocturno privado 206.8177 UMAs
+
+d) Área No. 2 y 3 nocturno público escolar 38.9731 UMAs
+
+e) Área No. 2 y 3 nocturno privado escolar 77.9463 UMAs
+
+f) Área No. 2 y 3 nocturno privado 129.9106 UMAs
+
+g) Área No. 1 diurno público escolar 22.4485 UMAs
+
+h) Área No. 1 diurno privado escolar 44.8971 UMAs
+
+i) Área No. 1 diurno privado 78.8285 UMAs
+
+j) Área No. 2 y 3 diurno público escolar 14.9657 UMAs
+
+k) Área No. 2 y 3 diurno privado escolar 29.9314 UMAs
+
+l) Área No. 2 y 3 diurno privado 49.8856 UMAs
+
+VIII. Unidad Bugarini
+
+a) Evento deportivo campo No. 1 y 2 público escolar 5.6121 UMAs
+
+b) Evento deportivo campo No. 1 y 2 privado escolar 11.2242 UMAs
+
+c) Evento deportivo campo No. 1 y 2 privado 18.7071 UMAs
+
+d) Evento deportivo nocturno campo No.1 público escolar 8.4182 UMAs
+
+e) Evento deportivo nocturno campo No.1 privado escolar 16.8364 UMAs
+
+f) Evento deportivo nocturno campo No.1 privado 28.0606 UMAs
+
+g) Hora/entrenamiento diurno público escolar 0.9353 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 1.8707 UMAs
+
+i) Hora/entrenamiento diurno privado 3.1178 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 1.4030 UMAs
+
+k) Hora/entrenamiento nocturno privado escolar 2.8060 UMAs
+
+l) Hora/entrenamiento nocturno privado 4.6767 UMAs
+
+m) Evento cultural o social público escolar 32.7374 UMAs
+
+n) Evento cultural o social privado escolar 65.4749 UMAs
+
+o) Evento cultural o social privado 109.1249 UMAs
+
+IX. Campos fútbol americano ciudad deportiva y unidad deportiva sur
+
+a) Evento deportivo diurno público escolar 4.6767 UMAs
+
+b) Evento deportivo diurno privado escolar 9.3535 UMAs
+
+c) Evento deportivo diurno privado 15.5892 UMAs
+
+d) Evento deportivo nocturno público escolar 7.7946 UMAs
+
+e) Evento deportivo nocturno privado escolar 15.5392 UMAs
+
+f) Evento deportivo nocturno privado 25.9821 UMAs
+
+g) Hora/entrenamiento diurno público escolar 0.8106 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 1.6212 UMAs
+
+i) Hora/entrenamiento diurno privado 2.7021 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 1.0288 UMAs
+
+k) Hora/entrenamiento nocturno privado escolar 2.0577 UMAs
+
+l) Hora/entrenamiento nocturno privado 3.4296 UMAs
+
+m) Evento cultural o social público escolar 38.9731 UMAs
+
+n) Evento cultural o social privado escolar 77.9463 UMAs
+
+o) Evento cultural o social privado 129.9106 UMAs
+
+X. Campos de futbol, béisbol
+
+a) Evento deportivo diurno público escolar 3.8973 UMAs
+
+b) Evento deportivo diurno privado escolar 7.7946 UMAs
+
+c) Evento deportivo diurno privado 12.9910 UMAs
+
+d) Evento deportivo nocturno público escolar 5.9239 UMAs
+
+e) Evento deportivo nocturno privado escolar 11.8478 UMAs
+
+f) Evento deportivo nocturno privado 19.7464 UMAs
+
+g) Hora/entrenamiento diurno público escolar 0.6235 UMAs
+
+h) Hora/entrenamiento diurno privado escolar 1.2471 UMAs
+
+i) Hora/entrenamiento diurno privado 2.0785 UMAs
+
+j) Hora/entrenamiento nocturno público escolar 0.9353 UMAs
+
+k) Hora/entrenamiento nocturno privado escolar 1.8707 UMAs
+
+l) Hora/entrenamiento nocturno privado 3.1178 UMAs
+
+m) Evento cultural o social público escolar 37.3612 UMAs
+
+n) Evento cultural o social privado escolar 74.7225 UMAs
+
+o) Evento cultural o social privado 124.5375 UMAs
+
+XI. Estacionamiento Ciudad Deportiva
+
+a) Por el servicio de hospedaje diario por vehículo 5.1964 UMAs
+
+XII. Tabulador de precios para uso de cancha de tenis
+
+a) Acceso individual para un usuario 20 sesiones 3.1178 UMAs
+
+b) Acceso individual para un usuario 10 sesiones 2.0785 UMAs
+
+c) Acceso familiar para dos usuarios 20 sesiones 5.7160 UMAs
+
+d) Acceso familiar para tres usuarios 20 sesiones 7.7946 UMAs
+
+e) Acceso familiar para cuatro usuarios 20 sesiones 9.3535 UMAs
+
+f) Acceso familiar para cinco usuarios 20 sesiones 10.3928 UMAs
+
+g) Acceso familiar para 6 o más usuarios 20 sesiones 10.9124 UMAs
+
+h) Acceso recreativo 1 hora 0.5196 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXVIII. INSTITUTO CHIHUAHUENSE DE INFRAESTRUCTURA FÍSICA EDUCATIVA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 258.
+
+Por los servicios prestados por el Instituto Chihuahuense de Infraestructura Física Educativa, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por costo de participación de licitaciones de obras, servicios y adquisiciones relacionadas con las mismas, con cargo a recursos estatales 20.0000 UMAs
+
+II. Por concepto de capacitación y gastos de supervisión a cada contrato de obra pública celebrado con cargo a recursos estatales 312.0000 UMAs
+
+III. Por la elaboración de proyectos ejecutivos en materia de infraestructura física educativa 31.0000 UMAs
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XXXIX. INSTITUTO CHIHUAHUENSE DE SALUD
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 259.
+
+Por los servicios prestados por el Instituto Chihuahuense de Salud, se pagarán derechos conforme a las cuotas establecidas en el Tabulador de Servicios Médicos que se encuentre vigente, publicado en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XL. SERVICIOS DE SALUD DE CHIHUAHUA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 260.
+
+Por los servicios prestados por Servicios de Salud de Chihuahua, se pagarán derechos conforme a las cuotas establecidas en el Tabulador de Servicios Médico Asistenciales que se encuentre vigente, publicado en el Periódico Oficial del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XLI. DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO (DIF)
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 261.
+
+Por los servicios prestados por el Desarrollo Integral de la Familia del Estado de Chihuahua, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el acceso a las instalaciones del Parque Familiar Colibrí se pagarán las siguientes cuotas:
+
+a) Entrada general por persona 0.2078 UMAs
+
+b) Entrada pista de patinaje 0.1039 UMAs
+
+II. Por otorgar el uso temporal de las instalaciones en el Parque Familiar Colibrí se pagarán las siguientes cuotas:
+
+a) Paquete evento infantil, 4 horas, 110 personas (incluye 4 juegos con uso de 30 minutos cada uno) 46.7678 UMAs
+
+b) 5 juegos por 4 horas, 500 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 114.3213 UMAs
+
+c) 6 juegos por 4 horas, 600 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 137.1856 UMAs
+
+d) 7 juegos por 4 horas, 700 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 160.0498 UMAs
+
+e) 8 juegos por 4 horas, 800 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 182.9141 UMAs
+
+f) 9 juegos por 4 horas, 900 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 205.7784 UMAs
+
+g) 10 juegos por 4 horas, 1000 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 228.6426 UMAs
+
+h) 11 juegos por 4 horas, 1100 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 251.5069 UMAs
+
+i) 12 juegos por 4 horas, 1200 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 274.3712 UMAs
+
+j) 13 juegos por 4 horas, 1300 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 297.2355 UMAs
+
+k) 14 juegos por 4 horas, 1400 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 320.0997 UMAs
+
+l) 15 juegos por 4 horas, 1500 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 342.9640 UMAs
+
+m) 16 juegos por 4 horas, 1600 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 365.8283 UMAs
+
+n) 17 juegos por 4 horas, 1700 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 388.6925 UMAs
+
+o) 18 juegos por 4 horas, 1800 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 411.5568 UMAs
+
+p) 19 juegos por 4 horas, 1900 personas (no incluye rueda de la fortuna, carritos chocones, pista de patinaje y tobogán) 434.4211 UMAs
+
+q) 4 horas, todos los juegos, 5,000 personas 783.1012 UMAs
+
+r) 6 horas, todos los juegos, 5,000 personas 1016.0309 UMAs
+
+s) 8 horas, todos los juegos, 5,000 personas 1354.7079 UMAs
+
+III. Parque Familiar Colibrí (costos extras fijos)
+
+a) Rueda de la fortuna, 4 horas 114.3213 UMAs
+
+b) Pista de patinaje, 4 horas 57.1606 UMAs
+
+c) Carros chocones, 4 horas 34.2964 UMAs
+
+d) Tobogán, 4 horas 5.7160 UMAs
+
+IV. Por el acceso a las instalaciones del Semilla Museo Interactivo se pagarán las siguientes cuotas:
+
+a) General
+
+1. Entrada adultos 0.4157 UMAs
+
+2. Entrada niñas, niños y adolescentes 0.3637 UMAs
+
+3. Entrada adultos mayores 0.3117 UMAs
+
+4. Sala temporal 0.1558 UMAs
+
+V. Por acceso a las instalaciones del Semilla Museo Interactivo durante la visita pedagógica se pagarán las siguientes cuotas:
+
+a) Evento científico- Barco de Vapor (1 hora con 50 minutos de duración) 0.1766 UMAs
+
+b) Evento científico- Cadena de ADN (1 hora de duración) 0.1143 UMAs
+
+c) Evento científico- Papalote (Benjamín Franklin) (1 hora de duración) 0.1143 UMAs
+
+d) Evento Científico- Telescopios (1 hora de duración) 0.1143 UMAs
+
+e) Evento de la Ciencia- Gel de Gorila (30 minutos de duración) 0.1039 UMAs
+
+f) Evento de la Ciencia- Masa tipo plastilina (30 minutos de duración) 0.1039 UMAs
+
+g) Evento de la Ciencia- Pelota de Bórax (30 minutos de duración) 0.1039 UMAs
+
+VI. Por otorgar el uso temporal de inmuebles propiedad del Semilla Museo Interactivo se pagarán las siguientes cuotas:
+
+a) Auditorio Leonardo Da Vinci, 1 hora, 420 personas 41.5713 UMAs
+
+b) Auditorio Galileo Galilei, 1 hora, 120 personas 20.7856 UMAs
+
+c) Vestíbulo, 1 hora, 150 personas 15.5892 UMAs
+
+d) Pasillo de transición, 1 hora, 100 personas 11.4321 UMAs
+
+e) Salón de usos múltiples, 1 hora, 50 personas 7.2749 UMAs
+
+f) Biblioteca digital, 1 hora, 100 personas 11.4321 UMAs
+
+g) Evento infantil, 4 horas, 100 personas 38.4535 UMAs
+
+h) Evento infantil, exceso de aforo, 4 horas, por persona extra 0.4157 UMAs
+
+i) Teatro al aire libre, 1 hora, 120 personas 10.3928 UMAs
+
+j) Temporales, 1 hora, 100 personas 10.3928 UMAs
+
+k) Estacionamiento, 1 hora, 100 personas 10.3928 UMAs
+
+l) Área del huerto, 1 hora, 80 personas 10.3928 UMAs
+
+m) Área tiburón, 1 hora, 80 personas 10.3928 UMAs
+
+n) Librería entrada, 1 hora, 30 personas 7.2749 UMAs
+
+VII. Por los servicios otorgados por el Centro de Rehabilitación y Educación Especial (CREE) se pagarán las siguientes cuotas:
+
+a) Consulta de valoración para constancia de discapacidad 1.6628 UMAs
+
+b) Consulta médica especializada 3.3257 UMAs
+
+c) Examen de lenguaje 3.3257 UMAs
+
+d) Valoración psicológica 3.3257 UMAs
+
+e) Sesión de terapia (física, ocupacional, lenguaje, psicología, estimulación temprana, cuartos de estimulación sensorial) 2.2864 UMAs
+
+f) Sesión de tratamiento isocinético 3.3257 UMAs
+
+g) Electromiografía para 2 miembros 12.4714 UMAs
+
+h) Electromiografía para 4 miembros 24.9428 UMAs
+
+i) Potenciales evocados 12.4714 UMAs
+
+j) Potenciales evocados auditivos 12.4714 UMAs
+
+k) Valoración isocinética inicial 13.5107 UMAs
+
+l) Audiometrías/Timpanometrías 3.1178 UMAs
+
+m) Electrocardiograma digital en reposo 3.1178 UMAs
+
+n) Electrocardiograma dinámico 10.3928 UMAs
+
+o) Rayos X una placa 2.0785 UMAs
+
+p) Rayos X dos o más placas 1.5589 UMAs
+
+q) Prótesis transtibial 174.5998 UMAs
+
+r) Prótesis transfemoral 233.8391 UMAs
+
+s) Consulta cardiopulmonar 3.3257 UMAs
+
+t) Pruebas ergo espiro métricas o de esfuerzo 20.7856 UMAs
+
+u) Pruebas de función pulmonar 11.4321 UMAs
+
+v) Test de marcha 11.4321 UMAs
+
+w) Terapia cardiaca y respiratoria 2.2864 UMAs
+
+x) Reposición de carnet 0.4157 UMAs
 
 T R A N S I T O R I O S
 
@@ -3954,3 +5936,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de diciembre del año dos mil veintiuno.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA. MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. CÉSAR GUSTAVO JÁUREGUI MORENO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLYC/0475/2022 I P.O.”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintitrés, sin perjuicio de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las solicitudes de devolución señaladas en el Código Fiscal del Estado que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán substanciándose y se resolverán conforme al artículo 67 del Código Fiscal del Estado anterior al presente Decreto.
