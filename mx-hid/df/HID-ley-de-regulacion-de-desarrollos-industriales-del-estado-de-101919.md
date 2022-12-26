@@ -4,7 +4,7 @@ identifier: "HID-ley-de-regulacion-de-desarrollos-industriales-del-estado-de-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2014-07-14"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de julio de 2014.
 
@@ -231,7 +231,11 @@ Los fraccionadores, promotores y propietarios de los Desarrollos Industriales te
 
 Con el fin de proteger las inversiones de los fraccionadores, promotores y propietarios, los Desarrollos Industriales deberán contar con un reglamento interno que cubra los requisitos especificados en la Norma Técnica Mexicana de especificaciones de Parques Industriales vigente, el cual deberá ser aprobado por la Corporación de Fomento de Infraestructura Industrial.
 
-El reglamento interno deberá incluirse en texto integrado o como anexo en las escrituras públicas de compraventa de los lotes industriales que sean enajenados. Este reglamento debe tener carácter de obligatoriedad y ser respetado por los industriales, proyectistas, constructores, usuarios y visitantes del parque industrial.
+El reglamento interno deberá incluirse en texto integrado o como anexo en las escrituras públicas de compraventa de los lotes industriales que sean enajenados. Este reglamento debe tener carácter de obligatoriedad y ser respetado por los industriales, proyectistas, constructores, usuarios y visitantes del parque industrial..
+
+> <small>(ADICIONADO, P.0. 26 DE DICIEMBRE DE 2022)</small>
+
+Dicho reglamento deberá garantizar el desarrollo de infraestructura fiable, sostenible, resiliente y de calidad.
 
 ### CAPÍTULO TERCERO. ASPECTOS FÍSICOS DE LOS LOTES INDUSTRIALES
 
@@ -300,3 +304,11 @@ PRESIDENTE, DIP. LEONARDO PÉREZ CALVA.- RÚBRICA; SECRETARIO, DIP. MARIO ALBERT
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS CUATRO DÍAS DEL MES DE JULIO DEL AÑO DOS MIL CATORCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 328 QUE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 13 DE LA LEY DE REGULACIÓN DE DESARROLLOS INDUSTRIALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
