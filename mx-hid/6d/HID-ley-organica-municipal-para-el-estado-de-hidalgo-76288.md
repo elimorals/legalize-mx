@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2022-12-15"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -414,6 +414,10 @@ III. Evaluar en conjunto con las autoridades municipales, el cumplimiento de los
 ###### ARTÍCULO 28.
 
 Los Ayuntamientos expedirán las normas reglamentarias que establezcan las formas y procedimientos que garanticen el acceso a los instrumentos de participación ciudadana, que contribuyan al mejoramiento del quehacer municipal con la finalidad de que se atiendan eficazmente las necesidades de la población, y, que al mismo tiempo, les permita expresar su aprobación o rechazo a los actos del Ayuntamiento y la Administración Pública Municipal, respecto de los Bandos, reglamentos, circulares y cualquier disposición administrativa de observancia general.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 27 TER.- Los Ayuntamientos incentivarán la participación ciudadana en las acciones de conservación, mantenimiento y limpieza con los camellones, jardines, glorietas, banquetas municipales, espacios deportivos, así como el mantenimiento, de los jardines ubicados en los espacios municipales, en coordinación con las áreas municipales competentes.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -947,7 +951,9 @@ Asimismo, coadyuvar en los términos de la Ley Federal Sobre Monumentos y Zonas 
 
 De igual manera, será tarea del Ayuntamiento, hacer del conocimiento de los ciudadanos, respecto del patrimonio al que hace referencia la Ley Federal Sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas y que se encuentre dentro de su propiedad, y todas las acciones que se llevarán a cabo para la conservación del mismo, observando en todo momento los ordenamientos jurídicos aplicables;
 
-e).- Enajenar, a título gratuito u oneroso, los inmuebles de dominio privado del Municipio, únicamente cuando así lo aprueben las dos terceras partes de los integrantes del Ayuntamiento, previa localización y medición de la propiedad y avalúo por peritos; la venta se efectuará en los términos de la autorización y conforme a lo previsto por la Ley de la materia;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+e).- Enajenar, a título gratuito u oneroso, los inmuebles de dominio privado del Municipio únicamente cuando así lo aprueben las dos terceras partes de los integrantes del Ayuntamiento y se justifique el interés público, previa localización y medición de la propiedad y avalúo por peritos; la venta se efectuará en los términos de la autorización y conforme a lo previsto por la Ley de la materia;
 
 f).- Formular las estadísticas de productividad del Municipio, con toda clase de datos relacionados con la actividad comercial, industrial y agropecuaria de su circunscripción;
 
@@ -2853,7 +2859,9 @@ I.- Señalar la superficie, medidas, linderos y ubicación exacta del inmueble;
 
 II.- Anotar el valor catastral o fiscal del inmueble;
 
-III.- Establecer los términos de la operación y motivos que se tengan para realizarla;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+III.- Establecer los términos de la operación y motivos de interés público que se tengan para realizarla;
 
 IV.- Acompañar en su caso, la documentación suficiente para acreditar la propiedad del inmueble;
 
@@ -2862,6 +2870,10 @@ V.- Comprobar que el inmueble no está destinado a un servicio público Municipa
 VI.- Cuando se trate de una permuta, se cuidará que el valor comercial del inmueble, que se proyecta recibir, sea por lo menos equiparable al que se pretende entregar; y
 
 VII.- Señalar el destino que se dará a los fondos que se obtengan de la venta.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 132 BIS.- No podrán ser sujetos de venta, permuta, donación, comodato o cesión, las áreas verdes donadas por fraccionadores.
 
 ###### ARTÍCULO 133.
 
@@ -4116,3 +4128,9 @@ P.O. 15 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los Ayuntamientos del Estado de Hidalgo deberán contemplar en su proyecto de Presupuesto de Egresos 2023 y subsiguientes, todo lo relativo y necesario para la conformación y operación de las Unidades de Investigación, Substanciación y Resolución de sus Contralorías Municipales.
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 331 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
