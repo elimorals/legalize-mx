@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2022-05-23"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -109,13 +109,17 @@ XI. Medalla "Al Mérito Deportivo";
 
 XII. Medalla "María del Carmen Martín del Campo Ramírez";
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-XIII. Medalla “3 de Diciembre, Día Internacional de las Personas con Discapacidad”; y
+XIII. Medalla “3 de diciembre. Día Internacional de las Personas con Discapacidad”;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-XIV. Medalla “Antonio Acevedo Escobedo”.
+XIV. Medalla “Antonio Acevedo Escobedo”; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+XV. Medalla “Carolina Villanueva de García”.
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -230,6 +234,14 @@ ARTÍCULO 12 G (SIC).- Esta medalla se otorgará a la Persona con alguna Discapa
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2019)</small>
 
 ARTÍCULO 12 H.- Esta medalla se entregará a quienes se distingan, en el uso eficiente, ético y responsable de los medios de comunicación, por la veracidad y objetividad de la información que manejan y de los artículos, así como el interés que susciten y el efecto socialmente benéfico que produzcan. El otorgamiento de este premio no está condicionado por la amplitud de la cobertura del órgano de difusión; así mismo sólo serán beneficiarias las personas físicas, individualmente o en grupo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+#### Sección XV. Medalla “Carolina Villanueva de García”
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 12 I.- Esta medalla se otorgará a las Personas Morales con Fines No Lucrativos que estén legalmente constituidas, con presencia en el Estado, que hayan presentado y demostrado hechos altruistas de alto impacto en beneficio de personas vulnerables.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -426,3 +438,15 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Durante la Sexagésima Quinta Legislatura el reconocimiento señalado en el presente Decreto se realizará el 8 de marzo de 2023
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 253.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto de la Medalla que establece el Artículo 12 I, del presente Decreto, por acuerdo de la Comisión de Postulaciones, se podrá otorgar un estímulo económico de acuerdo a la disponibilidad presupuestaria, previa autorización del Comité de Administración.
