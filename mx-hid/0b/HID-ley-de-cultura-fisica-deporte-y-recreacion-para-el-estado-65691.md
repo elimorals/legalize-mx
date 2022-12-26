@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2022-10-27"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -77,9 +77,17 @@ VII.- Determinar criterios para asegurar la congruencia y aplicación entre los 
 
 VIII.- Definir los principios que garanticen a la población en igualdad de condiciones y oportunidades, el acceso, enseñanza, práctica, conocimiento y desarrollo del deporte;
 
-IX.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y de los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-X.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y a fortalecer la integración familiar a través del deporte.
+IX.- Promover y ejecutar acciones para el reconocimiento público y difusión de las actividades sobresalientes de las y de los deportistas del Estado; estimulando la práctica del deporte con reconocimientos a nivel Local, Estatal, Nacional e Internacional;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+X.- Operar e implementar programas integrales que vayan dirigidos a disminuir la drogadicción juvenil y a fortalecer la integración familiar a través del deporte; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+XI.- Promover las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y reducir los riegos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje.
 
 Objeto que tienen (sic) el propósito de coadyuvar en la formación y desarrollo integral de las y de los habitantes del Estado de Hidalgo, en las actividades relacionadas con la cultura física, el deporte y la recreación.
 
@@ -105,11 +113,21 @@ Los proyectos, programas y acciones que realicen las Autoridades Estatales y Mun
 
 I.- Formar y coadyuvar al desarrollo integral del ser humano, en lo individual, social y familiar;
 
-II.- Fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de la persona y contribuir al fomento de la solidaridad como valor social;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-III.- Integrar los proyectos y programas educativos, de salud, laborales y de formación personal; y
+II.- Fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de la persona;
 
-IV.- Requerir del esfuerzo coordinado y de colaboración entre distintos ámbitos de gobierno y éstos con la sociedad.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+III.- Integrar los proyectos y programas educativos, de salud, laborales y de formación personal;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+IV.- Requerir del esfuerzo coordinado y de colaboración entre distintos ámbitos de gobierno y éstos con la sociedad; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+V.- Fomentar actitudes solidarias, propiciar la cultura de paz, de la legalidad y la no violencia en cualquier tipo de sus manifestaciones.
 
 ###### Artículo 6.
 
@@ -262,6 +280,22 @@ IV.- Normar la actividad de las asociaciones deportivas y establecer sus derecho
 V.- Garantizar mecanismos de igualdad de oportunidades en la práctica deportiva a sus trabajadores; y
 
 VI.- Promover la cultura de la educación física y el deporte entre los habitantes del Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 13 Bis.
+
+El Poder Ejecutivo del Estado y los ayuntamientos establecerán una coordinación y colaboración respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto en la normatividad aplicable y se sujetará a lo siguiente:
+
+I.- Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes;
+
+II.- La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, o estatales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III.- La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales o autoridades estatales en términos de lo que dispongan las leyes aplicables;
+
+IV.- A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades estatales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate; y
+
+V.- Las autoridades estatales y municipales, capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones, así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
@@ -645,9 +679,15 @@ XIII.- Cooperar con el desarrollo del deporte adaptado y de la tercera edad, ade
 
 XIV.- Programar, apoyar y ejecutar programas de desarrollo del deporte en zonas indígenas, procurando estimular la participación de sus habitantes de manera cuantitativa y cualitativa;
 
-XV.- Vigilar que las asociaciones y organismos deportivos cuenten con programas anuales de trabajo, los cuales serán elaborados al inicio de cada temporada y al término de ésta, serán sujetos de una evaluación; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-XVI.- Las demás que le otorgue el Instituto Hidalguense del Deporte, esta Ley, su Reglamento y demás normas reglamentarias y estatutarias.
+XV.- Vigilar que las asociaciones y organismos deportivos cuenten con programas anuales de trabajo, los cuales serán elaborados al inicio de cada temporada y al término de ésta, serán sujetos de una evaluación;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+XVI.- Definir lineamientos para la prevención del dopaje y la violencia en el deporte; así como el fomento de la cultura de paz en el deporte, conforme a la normatividad aplicable; y
+
+XVII.- Las demás que le otorgue el Instituto Hidalguense del Deporte, esta Ley, su Reglamento y demás normas reglamentarias y estatutarias.
 
 ### CAPÍTULO IV
 
@@ -1275,7 +1315,9 @@ Se declara de interés público y utilidad social, la construcción, remodelaci�
 
 El Instituto Hidalguense del Deporte, verificará que las instalaciones deportivas cumplan con las condiciones mínimas necesarias y promoverá que sean las adecuadas para la práctica del deporte, con la calidad y seguridad que se requieran.
 
-En la construcción de instalaciones deportivas, deberán tomarse en cuenta las especificaciones técnicas y arquitectónicas necesarias para el desarrollo de cada modalidad deportiva.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+En las instalaciones destinadas a la activación física, la cultura física, el deporte y en las que se celebren eventos o espectáculos deportivos, deberán tomarse en cuenta las especificaciones técnicas y arquitectónicas necesarias para el desarrollo de cada modalidad deportiva, así como proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable.
 
 ###### Artículo 127.
 
@@ -1353,9 +1395,9 @@ Este fondo se integrará con las aportaciones que los sectores público, social 
 
 El Fondo Estatal del Deporte, operará de acuerdo a las especificaciones normativas para el funcionamiento de fideicomisos, según lo establezcan las Leyes respectivas.
 
-## TÍTULO DÉCIMO SEGUNDO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-PROTECCIÓN A LA SALUD.
+## TÍTULO DÉCIMO SEGUNDO. PROTECCIÓN A LA SALUD Y CULTURA FÍSICA
 
 ### CAPÍTULO I
 
@@ -1475,17 +1517,63 @@ III.- Practicar directamente u ordenar la aplicación de los exámenes para dete
 
 Serán sancionadas por las leyes de la materia de esta Ley y su Reglamento, las y los deportistas a quienes se les haya comprobado que incurrieron en dopaje en competencias deportivas organizadas por el Estado, a través del Instituto Hidalguense del Deporte, así como las y los instructores, entrenadores y médicos, que hayan inducido o administrado sustancias o métodos prohibidos que dieron lugar a la determinación del dopaje.
 
-### CAPÍTULO I
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-DE LA FORMACIÓN Y CAPACITACIÓN DE DEPORTISTAS.
+### CAPÍTULO V
+
+DE LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 161 Bis.
+
+Las disposiciones previstas en este Capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, el Estado y los Municipios. El Consejo Directivo del Sistema Estatal de Cultura Física, Deporte y Recreación, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos cuando así lo requieran.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 161 Ter.
+
+Para efectos de esta Ley, por actos o conductas violentas o que incitan a la violencia en el deporte se entienden los siguientes:
+
+I.- La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II.- La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III.- La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV.- La irrupción no autorizada en los terrenos de juego;
+
+V.- La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI.- La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+VII.- Las demás que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 161 Quáter.
+
+Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
+
+I.- Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos; y
+
+II.- Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia administrativa, civil y penal aplicables de carácter federal o estatal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 161 Quinquies.
+
+Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emitan el Instituto Hidalguense del Deporte y el Consejo Directivo del Sistema Estatal de Cultura Física, Deporte y Recreación, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Nacionales respectivas.
 
 ## TÍTULO DÉCIMO TERCERO
 
 DE LA FORMACIÓN Y CAPACITACIÓN.
 
-### CAPÍTULO II
+### CAPÍTULO I
 
-DE LA FORMACIÓN DE ENTRENADORES E INSTRUCTORES DEPORTIVOS.
+DE LA FORMACIÓN Y CAPACITACIÓN DE DEPORTISTAS.
 
 ###### Artículo 162.
 
@@ -1499,19 +1587,17 @@ El Instituto Hidalguense del Deporte, coordinará e impulsará la enseñanza, in
 
 El Instituto Hidalguense del Deporte, elaborará programas de capacitación, en actividades de cultura física y deporte con las Dependencias y Entidades federales, Estatales y Municipales, organismos públicos, sociales y privados, Nacionales e Internacionales, para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
 
-### CAPÍTULO III
+### CAPÍTULO II
 
-DE LA CAPACITACIÓN DE DEPORTISTAS.
+DE LA FORMACIÓN DE ENTRENADORES E INSTRUCTORES DEPORTIVOS.
 
 ###### Artículo 165.
 
 Corresponde al Instituto Hidalguense del Deporte, programar cursos de formación, capacitación y actualización para las y los entrenadores e instructores deportivos de las diferentes disciplinas deportivas y, coordinar las actividades competentes al desarrollo del deporte para personas con discapacidad y senectos, así como fomentar, promover y coordinar las actividades e instalaciones adecuadas que permitan desarrollar el deporte para las personas con discapacidad y demás poblaciones especiales.
 
-### CAPÍTULO I
+### CAPÍTULO III
 
-DE LAS INFRACCIONES.
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
+DE LA CAPACITACIÓN DE DEPORTISTAS.
 
 ###### Artículo 166.
 
@@ -1529,7 +1615,11 @@ Los prospectos selectivos podrán ser becados en las Instituciones educativas o 
 
 DE LAS INFRACCIONES, SANCIONES Y RECURSOS.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I
+
+DE LAS INFRACCIONES.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2022)</small>
 
 ###### Artículo 169.
 
@@ -1539,9 +1629,7 @@ Son infracciones de las y los deportistas, entrenadores, preparadores físicos, 
 
 Son infracciones a la presente Ley y su Reglamento, todo acto u omisión que contravenga a la misma, a toda infracción recaerá una sanción en el ámbito administrativo, independientemente de aquellas responsabilidades civiles, penales u oficiales que resulten.
 
-### CAPÍTULO III
-
-DE LOS RECURSOS.
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 171.
 
@@ -1577,9 +1665,9 @@ Las organizaciones de deportistas, los deportistas y, en general, cualquier pers
 
 Los organismos deportivos como: Comités regionales, asociaciones, ligas, clubes y equipos deportivos que participen en el Sistema Estatal de Cultura Física, Deporte y Recreación, así como las y los directivos, jueces, árbitros y organizadores en competencias deportivas oficiales, podrán demandar la aplicación de sanciones en contra de cualquier presunto infractor ante el Instituto Hidalguense del Deporte o ante el Consejo Municipal del Deporte, según corresponda en los términos que se regulen por el Reglamento de la presente Ley.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III
 
-DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEPORTIVO.
+DE LOS RECURSOS.
 
 #### SECCIÓN I
 
@@ -1622,6 +1710,10 @@ El recurso se podrá interponer en contra de las resoluciones que impongan sanci
 Contra las resoluciones de las autoridades, organismos y agrupaciones deportivas participantes en el Sistema Estatal de Cultura Física, Deporte y Recreación por las que se impongan sanciones, procederá el recurso de reconsideración ante quien emitió el acto, a fin de que revoque, confirme o modifique la resolución en términos de lo establecido en el Reglamento de la presente Ley, sin perjuicio de interponer el recurso de inconformidad.
 
 ## TÍTULO DÉCIMO QUINTO
+
+DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEPORTIVO.
+
+### CAPÍTULO ÚNICO
 
 DE LA COMISIÓN ESTATAL DE APELACIÓN Y ARBITRAJE DEPORTIVO.
 
@@ -1754,5 +1846,11 @@ P.O. 21 DE OCTUBRE DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 288 QUE REFORMA LOS ARTÍCULOS 2, 10, 17, 38, 65, 93 Y ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 6 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 330 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
