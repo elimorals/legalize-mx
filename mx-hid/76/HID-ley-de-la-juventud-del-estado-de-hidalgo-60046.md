@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-10-27"
+last_updated: "2022-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -78,6 +78,10 @@ VII.- Director.- Director del Instituto Hidalguense de la Juventud;
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
 VIII.- Programa.- Programa Estatal de Atención a la Juventud;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+VIII Bis.- Programa Municipal. Programa Municipal de Atención a las Juventudes; y
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2019)</small>
 
@@ -853,9 +857,25 @@ VI.- Promover, organizar y crear dentro del territorio de su competencia, progra
 
 VII.- Implementar dentro del ámbito de su competencia, el Programa, en coordinación con el Instituto;
 
-VIII.- Destinar una partida de su Presupuesto Anual de Egresos, en beneficio de la juventud; y
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-IX.- Las demás que señalen esta Ley y demás disposiciones legales aplicables.
+VII Bis.- Definir, establecer y aplicar la Política Municipal de la Juventud a través del Programa Municipal, adecuándola a las características y necesidades del municipio y considerando lo enunciado en la presente Ley.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+VIII.- Destinar una partida de su Presupuesto Anual de Egresos, en beneficio de la juventud;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+IX.- Otorgar reconocimientos y/o estímulos a aquellas personas jóvenes que se hayan destacado en el ámbito de desarrollo integral de la atención a la juventud; y
+
+X.- Las demás que señalen esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 70 Bis.
+
+El Programa Municipal y las acciones emprendidas en la materia por los municipios serán establecidas en coordinación con la Política Estatal de la Juventud.
 
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE ATENCIÓN A LA JUVENTUD
 
@@ -1242,5 +1262,11 @@ P.O. 27 DE JULIO DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 291 QUE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 2 Y ARTÍCULO 13 BIS, ASÍ COMO TAMBIÉN SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 8, LA DENOMINACIÓN DE LA SECCIÓN TERCERA, LA FRACCIÓN III DEL ARTÍCULO 22 Y LA FRACCIÓN XXI DEL ARTÍCULO 58 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 329 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN LA LEY DE JUVENTUD DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
