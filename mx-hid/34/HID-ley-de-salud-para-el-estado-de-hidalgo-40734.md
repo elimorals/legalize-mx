@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2022-10-27"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -365,7 +365,9 @@ II.- Ejercer la vigilancia y control de la sanidad en los límites con otras Ent
 
 III.- Coordinar el Sistema de Salud de Hidalgo y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
-IV.- Formular y desarrollar programas locales de salud, considerando los principios y objetivos de la planeación nacional;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+IV.- Formular y desarrollar programas locales de salud, considerando los principios y objetivos de la planeación nacional e incorporando enfoques con perspectiva de género.
 
 V.- Promover, orientar, y fomentar las acciones de los Municipios en la prestación de servicios sanitarios;
 
@@ -2442,5 +2444,11 @@ P.O. 15 DE JULIO DE 2022.
 P.O. 27 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 287 REFORMA LA FRACCIÓN I DEL ARTÍCULO 142 QUINQUIES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO Y ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. TRANSITORIO EL “DECRETO NUM. 327 QUE REFORMA EL ARTÍCULO 5, APARTADO A, FRACCIÓN IV DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]</small>
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
