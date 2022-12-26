@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2022-11-24"
+last_updated: "2022-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -439,6 +439,10 @@ El pago de sueldos o salarios caídos que refiere la presente Ley será computad
 
 V. Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+V Bis. Proporcionar capacitación a las y los trabajadores en materia de derechos humanos, combate a la corrupción, igualdad y equidad de género, la prevención y eliminación de la discriminación, derechos culturales y lingüísticos de la población indígena, entre otras;
+
 VI. Cubrir las aportaciones que fijen las leyes y convenios que se celebren, para que, en su caso, los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
 a) Atención médica, quirúrgica, farmacéutica y hospitalaria, y en su caso, indemnización por accidentes de trabajo y enfermedades profesionales;
@@ -525,7 +529,9 @@ Son obligaciones de los trabajadores:
 
 I. Desempeñar sus labores con la intensidad, cuidado y esmero apropiados, sujetándose a la dirección de sus jefes y a las leyes y reglamentos respectivos;
 
-II. Observar buenas costumbres dentro del servicio;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+
+II. Observar buenas costumbres y brindar un trato no discriminatorio dentro del servicio;
 
 III. Cumplir con las obligaciones que les impongan las condiciones generales de trabajo;
 
@@ -537,9 +543,9 @@ VI. Asistir puntualmente a sus labores;
 
 VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2022)</small>
 
-VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente entre otros temas, y de manera esencial, sobre primeros auxilios y protección civil, derechos humanos, combate a la corrupción, igualdad y equidad de género y la prevención y eliminación de la discriminación, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
+VIII. Asistir a los institutos de capacitación para mejorar su preparación y eficiencia y recibir capacitación permanente entre otros temas, y de manera esencial, sobre primeros auxilios y protección civil, derechos humanos, combate a la corrupción, igualdad y equidad de género, prevención y eliminación de la discriminación, derechos culturales y lingüísticos de la población indígena, lo que les permitirá obtener mayores habilidades y aptitudes para proporcionar a las personas una atención más eficiente, respetuosa y un buen trato.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2022)</small>
 
@@ -1484,5 +1490,11 @@ P.O. 12 DE ABRIL DE 2022.
 P.O. 24 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 303 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 26 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 324 POR EL QUE SE REFORMA LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
