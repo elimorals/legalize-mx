@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-08-29"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -4045,9 +4045,13 @@ La misma sanción se impondrá al fedatario público que en ejercicio de sus fun
 
 Crueldad contra los animales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de seis meses a dos años de prisión y multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de uno a cuatro años de prisión y de cincuenta a quinientos días multa.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Cuando las lesiones que resulten del daño físico infligido pongan en riesgo la vida del animal, incluido el envenenamiento, o el sujeto activo capture en imágenes, fotografías, videograbaciones o por cualquier medio el daño físico infligido, la pena se aumentará hasta en una mitad de la máxima.
 
 ###### Artículo 310.
 
@@ -4055,19 +4059,23 @@ Equiparación y excluyentes
 
 Se equipara al delito de crueldad organizar, promover o realizar actos públicos o privados de riña de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales con excepción de la charrería, jaripeos, peleas de gallos, corridas de toros, novillos o becerros, o cualquier otra debidamente autorizada.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 311.
 
 Maltrato animal
 
-Comete el delito de maltrato quien, en el trato doméstico o laboral cotidiano, realice actos abusivos o negligentes, u omisiones, que menoscaben la integridad física de cualquier animal que no constituya plaga o peligro para la salud o vida humana, y se le impondrán de seis meses a un año de prisión y de veinte a doscientos días multa.
+Comete el delito de maltrato quien, en el trato doméstico o laboral cotidiano, realice actos abusivos o negligentes, u omisiones, que menoscaben el bienestar o la integridad física de cualquier animal que no constituya plaga o peligro para la salud o vida humana, y se le impondrán de uno a dos años de prisión y de veinte a doscientos días multa.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+Se equipara al delito de maltrato animal:
 
-Se equipará al maltrato animal, el abandono de un animal que no constituya plaga o peligro para la salud o vida humana, cuando el propietario, poseedor o responsable lo deje en situación de desamparo en la vía pública, en lugares de alto riesgo o en el propio domicilio.
+a) El abandono de un animal que no constituya plaga o peligro para la salud o vida humana, cuando el propietario, poseedor o responsable lo deje en situación de desamparo en la vía pública, en lugares de alto riesgo o en el propio domicilio;
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2022)</small>
+b) Realizar cualquier acto sexual con animales no humanos sin fines veterinarios o de esterilización;
 
-Se le impondrán de seis meses a un año de prisión y de veinte a doscientos días multa.
+c) Realizar cualquier acto sexual con animales no humanos por gusto, placer o atracción hacia éstos; y,
+
+d) Disponer o utilizar animales no humanos como objetos sexuales.
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
@@ -4486,5 +4494,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE AGOSTO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 187 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 236, 237 Y 290; Y, SE ADICIONA EL CAPÍTULO V AL TÍTULO VIGÉSIMO SEGUNDO DEL LIBRO SEGUNDO, LOS ARTÍCULOS 301 TER Y 301 QUÁTER, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 217 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 309 Y EL ARTÍCULO 311; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 309; Y, SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 311, PASANDO SU CONTENIDO A FORMAR PARTE DEL INCISO A) DEL PÁRRAFO SEGUNDO DEL PROPIO ARTÍCULO 311, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
