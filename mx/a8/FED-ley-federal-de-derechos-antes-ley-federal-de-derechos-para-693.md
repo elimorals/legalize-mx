@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2022-11-14"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2022.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -217,7 +217,7 @@ Cuando no se llenen los requisitos legales para la prestación de los servicios 
 
 Tratándose de los derechos que se causen por ejercicios, cuando el uso o aprovechamiento de los bienes del dominio público de la Federación sea por un período menor, el pago del derecho se hará proporcionalmente al periodo en el que se use o aproveche el bien.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
 
@@ -237,7 +237,7 @@ Certificadas de documentos,
 
 por cada hoja tamaño carta
 
-u oficio $23.22 $23
+u oficio $25.03 $25
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -249,23 +249,23 @@ II.- Reposición de constancias
 
 o duplicados de las mismas,
 
-así como de calcomanías $197.05 $197
+así como de calcomanías $212.40 $212
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 III.- Compulsa de documentos,
 
-por hoja $13.64 $14
+por hoja $14.70 $15
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 IV.- Copias de planos certificados,
 
-por cada una $142.20 $142
+por cada una $153.28 $153
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-V.- Legalización de firmas $641.26 $641
+V.- Legalización de firmas $691.21 $691
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -277,7 +277,7 @@ constancias distintas de la (sic)
 
 señaladas en las fracciones
 
-que anteceden $197.05 $197
+que anteceden $212.40 $212
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -357,7 +357,7 @@ Lo dispuesto en el presente artículo, también será aplicable a cualquier órg
 
 #### SECCION PRIMERA. Servicios Migratorios
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -373,39 +373,39 @@ Sin ajuste Con ajuste
 
 I. Visitante sin permiso para realizar
 
-actividades remuneradas $637.76 $638
+actividades remuneradas $687.44 $687
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. Visitante con permiso para realizar
 
-actividades remuneradas $3,557.81 $3,558
+actividades remuneradas $3,834.96 $3,835
 
 III. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-IV. Visitante Trabajador Fronterizo $476.00 $476
+IV. Visitante Trabajador Fronterizo $513.08 $513
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-V. Visitante con fines de adopción $3,451.82 $3,452
+V. Visitante con fines de adopción $3,720.72 $3,721
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 VI. Residente Temporal:
 
-a). Hasta un año $4,738.66 $4,739
+a). Hasta un año $5,107.80 $5,108
 
-b). Dos años $7,100.44 $7,100
+b). Dos años $7,653.56 $7,654
 
-c). Tres años $8,992.89 $8,993
+c). Tres años $9,693.44 $9,693
 
-d). Cuatro años $10,658.22 $10,658
+d). Cuatro años $11,488.50 $11,488
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. Residente Permanente $5,775.74 $5,776
+VII. Residente Permanente $6,225.67 $6,226
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -417,7 +417,7 @@ la misma cuota del derecho según corresponda.
 
 Respecto a las fracciones II, V, VI y VII la cuota
 
-aplicable será de $1,458.87 $1,459
+aplicable será de $1,572.52 $1,573
 
 (ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013) N. DE E. EN SU CONTENIDO.
 
@@ -439,21 +439,21 @@ Tratándose de extranjeros que arriben al país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 9o.
 
-Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,513.95 $1,514
+Por la recepción y estudio de la solicitud y, en su caso, la autorización del cambio de condición de estancia se pagará el derecho conforme a la cuota de $1,631.89 $1,632
 
 El pago a que se refiere este artículo será sin perjuicio del derecho que corresponda por el otorgamiento de la nueva condición de estancia a adquirir en términos del artículo 8o. de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 10.
 
-Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,513.95 $1,514
+Por la recepción y estudio de la solicitud y, en su caso, la regularización de la situación migratoria en los términos de las disposiciones migratorias se pagará el derecho conforme a la cuota de $1,631.89 $1,632
 
 No pagarán los derechos a que se refiere este artículo los extranjeros que soliciten la regularización de su situación migratoria con fundamento en las fracciones III, IV y V del artículo 133 de la Ley de Migración.
 
@@ -481,13 +481,13 @@ d). Miembros de la tripulación en activo que ingresen al país a bordo de aeron
 
 e). Cuando sean autorizados bajo los convenios de cooperación o intercambio educativo, cultural y científico.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 12.
 
-Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $165.33 $165
+Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $178.21 $178
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -497,7 +497,7 @@ Tratándose de pasajeros que abandonen el país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -511,21 +511,21 @@ ajuste Con ajuste
 
 I. Certificados en los que se haga
 
-constar la situación migratoria $484.45 $484
+constar la situación migratoria $522.19 $522
 
-II. Permiso de salida y regreso al país $484.45 $484
+II. Permiso de salida y regreso al país $522.19 $522
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $3,557.81 $3,558
+III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $3,834.96 $3,835
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-IV. Autorización o reposición de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $1,122.22 $1,122
+IV. Autorización o reposición de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $1,209.64 $1,210
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-V. Obtención o actualización de la Constancia de inscripción de empleador $345.53
+V. Obtención o actualización de la Constancia de inscripción de empleador $345.53 $346
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -535,11 +535,13 @@ No pagarán la cuota señalada en la fracción III del presente artículo, los e
 
 (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-ARTICULO 14 BIS.- Por la recepción, estudio de la solicitud y, en su caso, la autorización de visas por unidad familiar u oferta de empleo, que se tramiten ante el Instituto Nacional de Migración, se pagará el derecho conforme a la cuota de $219.07
+ARTICULO 14 BIS.- Por la recepción, estudio de la solicitud y, en su caso, la autorización de visas por unidad familiar u oferta de empleo, que se tramiten ante el Instituto Nacional de Migración, se pagará el derecho conforme a la cuota de $219.07 $219
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -565,21 +567,21 @@ en embarcaciones cargueras, al
 
 desembarque y despacho,
 
-respectivamente $7,578.32 $7,578
+respectivamente $8,168.67 $8,169
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-1. De 1 a 500 personas $4,737.55 $4,738
+1. De 1 a 500 personas $5,106.61 $5,107
 
-2. De 501 a 1000 personas $6,151.53 $6,152
+2. De 501 a 1000 personas $6,630.73 $6,631
 
-3. De 1001 a 1500 personas $7,325.00 $7,325
+3. De 1001 a 1500 personas $7,895.62 $7,896
 
 4. De 1501 personas,
 
-en adelante $8,330.82 $8,331
+en adelante $8,979.79 $8,980
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -599,7 +601,7 @@ de pasajeros en vuelos de
 
 fletamento, al ingreso y a la
 
-salida del país $2,302.87 $2,303
+salida del país $2,482.26 $2,482
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -609,13 +611,13 @@ Tratándose de las aeronaves particulares que sin fines de lucro se utilicen par
 
 (DEROGADO, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 15.
 
-Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $4,376.30 $4,376
+Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje APEC Business Travel Card (ABTC), se pagarán derechos conforme a la cuota de $4,717.21 $4,717
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -661,7 +663,7 @@ No pagarán los derechos a los que se refiere esta Sección los extranjeros que 
 
 #### SECCION SEGUNDA. Certificados de Licitud
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 19.
 
@@ -671,23 +673,23 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Certificado de licitud de título $3,696.18 $3,696
+I.- Certificado de licitud de título $3,984.11 $3,984
 
 II.- Certificado de licitud de
 
-contenido $4,620.39 $4,620
+contenido $4,980.32 $4,980
 
 III.- Duplicado de certificado de
 
-licitud de título $1,847.84 $1,848
+licitud de título $1,991.79 $1,992
 
 IV.- Duplicado de licitud de
 
-contenido $2,309.81 $2,310
+contenido $2,489.74 $2,490
 
 V.- Registro de cambio de
 
-editor responsable $3,291.85 $3,292
+editor responsable $3,548.29 $3,548
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -699,7 +701,7 @@ VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 #### SECCION TERCERA. Publicaciones
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 19-A.
 
@@ -717,7 +719,7 @@ cuota de Cuota
 
 Sin ajuste Con ajuste
 
-$2,330.29 $2,330
+$2,511.82 $2,512
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -741,7 +743,7 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 #### SECCION CUARTA. Servicios de Cinematografía, Televisión y Radio
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -759,13 +761,13 @@ I. Por la supervisión, clasificación y autorización de cada material cinemato
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-a). Avance publicitario $900.80 $901
+a). Avance publicitario $970.97 $971
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 b). Película destinada a
 
-exhibición pública $7,214.01 $7,214
+exhibición pública $7,775.98 $7,776
 
 Los contribuyentes podrán
 
@@ -777,7 +779,7 @@ cada minuto de duración de
 
 la película conforme a la
 
-cuota de $80.25 $80
+cuota de $86.50 $86
 
 c).- Videograma o material
 
@@ -785,7 +787,7 @@ grabado, en cualquier formato
 
 o modalidad, por cada media
 
-hora o fracción $1,331.07 $1,331
+hora o fracción $1,434.76 $1,435
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -805,7 +807,7 @@ IV.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
 (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -829,7 +831,7 @@ programación, en más del
 
 50% de su tiempo, esté en
 
-el supuesto de esta fracción $12,760.28 $12,760
+el supuesto de esta fracción $13,754.31 $13,754
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -843,7 +845,7 @@ de derechos de explotación
 
 comercial, que no corresponda
 
-al supuesto del inciso anterior $1,275.82 $1,276
+al supuesto del inciso anterior $1,375.21 $1,375
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -855,15 +857,15 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $1,584.90 $1,585
+de programa de concurso $1,708.36 $1,708
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-1. Horario ordinario de servicio $1,272.97 $1,273
+1. Horario ordinario de servicio $1,372.13 $1,372
 
 2. Fuera de horario ordinario de
 
-servicio $1,782.18 $1,782
+servicio $1,921.01 $1,921
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
@@ -875,7 +877,7 @@ en su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $1,584.90 $1,585
+extranjero $1,708.36 $1,708
 
 IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
@@ -883,7 +885,7 @@ V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-VI. Por el trámite, estudio, clasificación y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de $345.17 $345
+VI. Por el trámite, estudio, clasificación y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de $372.06 $372
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -891,7 +893,7 @@ VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 IX.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -913,7 +915,7 @@ en México, de programación
 
 originada, desarrollada o
 
-proveniente del extranjero $696.73 $697
+proveniente del extranjero $751.01 $751
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -925,15 +927,15 @@ su caso, la autorización anual
 
 o modificación de las condiciones
 
-de programa de concurso $1,584.90 $1,585
+de programa de concurso $1,708.36 $1,708
 
 b). Por la supervisión de programa de concurso por cada hora o fracción, se pagarán las siguientes cuotas:
 
-1. Horario ordinario de servicio $1,272.97 $1,273
+1. Horario ordinario de servicio $1,372.13 $1,372
 
 2. Fuera de horario ordinario de
 
-servicio $1,782.18 $1,782
+servicio $1,921.01 $1,921
 
 Para los efectos de este inciso, se entiende como horario ordinario de servicio el comprendido de las 9:00 a las 18:00 horas, de lunes a viernes.
 
@@ -943,7 +945,7 @@ su caso, la autorización anual
 
 por transmisiones en idioma
 
-extranjero $1,584.90 $1,585
+extranjero $1,708.36 $1,708
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -959,19 +961,19 @@ por cada 15 minutos o fracción
 
 de duración por material, la
 
-cuota de $345.01 $345
+cuota de $371.89 $372
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION QUINTA. Apostillamiento
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 19-G.
 
-Por el apostillamiento de documentos públicos federales, por cada documento $1,742.64 $1,743
+Por el apostillamiento de documentos públicos federales, por cada documento $1,878.39 $1,878
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -981,7 +983,7 @@ No se pagará el derecho por el apostillamiento de documentos públicos que sean
 
 #### SECCION SEXTA. Servicios insulares
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMERO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -999,13 +1001,13 @@ II.- Por el estudio y trámite de
 
 la solicitud de concesión en
 
-territorio insular $2,160.32 $2,160
+territorio insular $2,328.61 $2,329
 
 III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 IV.- Por la expedición de la
 
-concesión en territorio insular $4,320.98 $4,321
+concesión en territorio insular $4,657.58 $4,658
 
 V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1029,7 +1031,7 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 #### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1045,7 +1047,7 @@ documentos de identidad y
 
 viaje con validez hasta
 
-por un año $754.67 $755
+por un año $813.46 $815
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1055,7 +1057,7 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-un año y hasta por tres años $1,471.46 $1,470
+un año y hasta por tres años $1,586.09 $1,585
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1065,17 +1067,17 @@ documentos de identidad y
 
 viaje con validez mayor a
 
-tres años y hasta por seis años $1,998.77 $2,000
+tres años y hasta por seis años $2,154.47 $2,155
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 IV. Pasaportes ordinarios con
 
-validez hasta por diez años $3,506.11 $3,505
+validez hasta por diez años $3,779.24 $3,780
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-V. Pasaportes oficiales $689.80 $690
+V. Pasaportes oficiales $743.54 $745
 
 VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
@@ -1109,7 +1111,7 @@ Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio 
 
 #### SECCION SEGUNDA. ServiciosConsulares (sic)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 22.
 
@@ -1119,11 +1121,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Actuaciones matrimoniales $956.46 $955
+I.- Actuaciones matrimoniales $1,030.97 $1,030
 
 II.- Legalización de firmas o
 
-Sellos $812.08 $810
+Sellos $875.34 $875
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1135,7 +1137,7 @@ a).- Visados a certificados de
 
 análisis, de libre venta y
 
-médicos, por cada uno $974.49 $975
+médicos, por cada uno $1,050.40 $1,050
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1153,7 +1155,7 @@ y expedición de las visas
 
 ordinarias en pasaportes
 
-extranjeros $812.08
+extranjeros $875.34 $875
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -1171,7 +1173,7 @@ de visitante sin permiso
 
 para realizar actividades
 
-remuneradas de larga duración $531.09
+remuneradas de larga duración $572.46 $570
 
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -1181,7 +1183,7 @@ se refiere la presente fracción
 
 sean solicitadas a través de
 
-medios electrónicos $174.62
+medios electrónicos $174.62 $175
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -1201,31 +1203,31 @@ a).- Pasavantes o patentes
 
 provisionales de navegación,
 
-por cada uno $4,078.73 $4,080
+por cada uno $4,396.46 $4,395
 
 b).- Matrícula consular a
 
-mexicanos, por cada una $613.66 $615
+mexicanos, por cada una $661.46 $660
 
 c).- Importación de psicotrópicos
 
-y estupefacientes $1,390.37 $1,390
+y estupefacientes $1,498.68 $1,500
 
 d).- Copia certificada de actas del
 
-registro civil, por cada una $288.65 $290
+registro civil, por cada una $311.14 $310
 
 e).- De los que se expiden a
 
-petición de parte, por cada uno $1,389.55 $1,390
+petición de parte, por cada uno $1,497.80 $1,500
 
 f).- Lista de menaje de casa
 
-a mexicanos $2,126.28 $2,125
+a mexicanos $2,291.92 $2,290
 
 g).- Lista de menaje de casa a
 
-extranjeros $2,848.45 $2,850
+extranjeros $3,070.34 $3,070
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1241,7 +1243,7 @@ Cuando los servicios a que se refiere este artículo, sean prestados en territor
 
 Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1255,7 +1257,7 @@ Sin ajuste Con ajuste
 
 I.- Por la renuncia de derechos
 
-Hereditarios $2,580.78 $2,580
+Hereditarios $2,781.82 $2,780
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -1263,21 +1265,21 @@ II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
 a).- Generales o especiales
 
-otorgados por personas físicas $2,580.78 $2,580
+otorgados por personas físicas $2,781.82 $2,780
 
 b).- Generales o especiales
 
-otorgados por personas morales $3,880.20 $3,880
+otorgados por personas morales $4,182.47 $4,180
 
 III.- Por cada testamento
 
-público abierto $6,605.47 $6,605
+público abierto $7,120.04 $7,120
 
 IV.- Por la expedición de
 
 subsecuentes testimonios,
 
-por hoja $162.33 $160
+por hoja $174.98 $175
 
 V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
@@ -1293,13 +1295,13 @@ que ejerzan la patria potestad
 
 o la tutela sobre niñas, niños y
 
-adolescentes o incapaces $992.55
+adolescentes o incapaces $1,069.87 $1,070
 
 VIII.- Por otras certificaciones
 
 distintas a las señaladas en el
 
-artículo 22 de esta Ley $255.62 $255
+artículo 22 de esta Ley $275.53 $275
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -1405,7 +1407,7 @@ IX.- Por la expedición de los certificados de presunción de nacionalidad mexic
 
 #### SECCION TERCERA. Permisos Conforme al Artículo 27 Constitucional y Cartas de Naturalización
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1427,7 +1429,7 @@ III.- Por el examen de cada solicitud
 
 de permiso a que se refieren las
 
-fracciones IV, V, y VII $488.74 $490
+fracciones IV, V, y VII $526.81 $525
 
 IV.- Para la celebración de contratos u obtención de concesiones:
 
@@ -1439,7 +1441,7 @@ del Gobierno Federal o de los
 
 gobiernos de las Entidades
 
-Federativas o de los Municipios $8,613.03 $8,615
+Federativas o de los Municipios $9,283.99 $9,285
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -1451,7 +1453,7 @@ constituir fideicomisos a que
 
 se refiere el artículo 11 de la
 
-Ley de Inversión Extranjera $17,743.96 $17,745
+Ley de Inversión Extranjera $19,126.21 $19,125
 
 b).- Para la modificación de
 
@@ -1459,7 +1461,7 @@ los permisos para la constitución
 
 de los fideicomisos a que se
 
-refiere el inciso anterior $7,983.41 $7,985
+refiere el inciso anterior $8,605.32 $8,605
 
 c).- Por la solicitud extemporánea
 
@@ -1471,13 +1473,13 @@ de fideicomiso, de conformidad
 
 con lo dispuesto en la Ley de
 
-Inversión Extranjera $8,699.33 $8,700
+Inversión Extranjera $9,377.01 $9,375
 
 d).- Para los demás casos no
 
 señalados en los incisos
 
-anteriores $586.25 $585
+anteriores $631.92 $630
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -1493,7 +1495,7 @@ exploración y explotación
 
 de minas o aguas en el
 
-territorio nacional $8,613.03 $8,615
+territorio nacional $9,283.99 $9,285
 
 VII.- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2011)
 
@@ -1515,7 +1517,7 @@ extranjeros en zona
 
 restringida, destinados a
 
-fines no residenciales $1,207.84 $1,210
+fines no residenciales $1,301.93 $1,300
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -1537,7 +1539,7 @@ admisión de extranjeros en zona
 
 restringida, destinados a fines no
 
-residenciales. $9,285.57 $9,285
+residenciales. $10,008.92 $10,010
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -1545,7 +1547,7 @@ XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XIV.- Los no especificados
 
-en las fracciones anteriores $586.25 $585
+en las fracciones anteriores $631.92 $630
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -1561,9 +1563,9 @@ extranjeros, de bienes inmuebles
 
 fuera de la zona restringida en
 
-el territorio nacional $4,640.03
+el territorio nacional $4,640.03 $4,640
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1587,7 +1589,7 @@ en su caso, expedición del
 
 certificado de nacionalidad
 
-mexicana $2,026.65 $2,025
+mexicana $2,184.53 $2,185
 
 b).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -1599,7 +1601,7 @@ en su caso, expedición de la
 
 declaratoria de nacionalidad
 
-mexicana $1,303.95 $1,305
+mexicana $1,405.53 $1,405
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1609,7 +1611,7 @@ en su caso, expedición de la
 
 constancia de renuncia a
 
-la nacionalidad mexicana $1,174.33 $1,175
+la nacionalidad mexicana $1,265.81 $1,265
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1623,7 +1625,7 @@ del Apartado B del artículo 30 de la
 
 Constitución Política de los Estados Unidos
 
-Mexicanos $7,788.10 $7,790
+Mexicanos $8,394.79 $8,395
 
 III.- (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
@@ -1635,7 +1637,7 @@ expedición, renovación o reposición de
 
 cada constancia de no antecedentes de
 
-naturalización $377.33 $375
+naturalización $406.72 $405
 
 > <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -1643,7 +1645,7 @@ V.- Por la solicitud, análisis y, en su caso,
 
 expedición de copia certificada de
 
-documentos de nacionalidad $571.75 $570
+documentos de nacionalidad $616.29 $615
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -1663,7 +1665,7 @@ Las cuotas de los derechos señaladas en el presente Capítulo, se ajustarán pa
 
 (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1693,7 +1695,7 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $36,481.57 $36,482
+sociedades de inversión: $39,323.48 $39,323
 
 II. Por la autorización para la
 
@@ -1711,7 +1713,7 @@ inversión y sociedades
 
 valuadoras de acciones de
 
-sociedades de inversión: $375,191.88 $375,192
+sociedades de inversión: $404,419.33 $404,419
 
 III. Por la autorización para la
 
@@ -1725,7 +1727,7 @@ de inversión de capitales o de
 
 sociedades de inversión de
 
-objeto limitado: $328,454.46 $328,454
+objeto limitado: $354,041.06 $354,041
 
 IV. Por el estudio y trámite de
 
@@ -1735,7 +1737,7 @@ sociedades inmobiliarias y
 
 empresas de servicios auxiliares
 
-o complementarios: $36,481.57 $36,482
+o complementarios: $39,323.48 $39,323
 
 V. Por el estudio y trámite de
 
@@ -1745,13 +1747,13 @@ la constitución y operación de
 
 una institución calificadora de
 
-valores: $32,304.56 $32,305
+valores: $34,821.09 $34,821
 
 VI. Por la autorización de una
 
 institución calificadora de
 
-valores: $375,191.88 $375,192
+valores: $404,419.33 $404,419
 
 VII. Por el estudio y trámite de
 
@@ -1765,7 +1767,7 @@ renta variable, en instrumentos
 
 de deuda, de capitales y de objeto
 
-limitado: $30,108.17 $30,108
+limitado: $32,453.60 $32,454
 
 VIII. Por el estudio y trámite de
 
@@ -1773,19 +1775,19 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-uniones de crédito: $32,304.54 $32,305
+uniones de crédito: $34,821.06 $34,821
 
 IX. Por la autorización para la
 
 constitución y operación de
 
-uniones de crédito: $332,232.63 $332,233
+uniones de crédito: $358,113.55 $358,114
 
 X. Por cualquier certificación que
 
 se expida relativa al Registro
 
-Nacional de Valores: $628.37 $628
+Nacional de Valores: $677.32 $677
 
 XI. Por el estudio y trámite de
 
@@ -1799,7 +1801,7 @@ las Federaciones a que se
 
 refiere la Ley de Ahorro y
 
-Crédito Popular $50,180.71 $50,181
+Crédito Popular $54,089.79 $54,090
 
 XII. Por el estudio y trámite
 
@@ -1821,7 +1823,7 @@ de Integración Financiera Rural
 
 a que se refiere la Ley de
 
-Ahorro y Crédito Popular $30,108.42 $30,108
+Ahorro y Crédito Popular $32,453.87 $32,454
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -1833,13 +1835,13 @@ la solicitud de autorización para
 
 la constitución y operación de
 
-casas de bolsa: $32,304.54 $32,305
+casas de bolsa: $34,821.06 $34,821
 
 XIV. Por la autorización para
 
 la constitución y operación de
 
-casas de bolsa: $468,453.21 $468,453
+casas de bolsa: $504,945.72 $504,946
 
 XV. Por el estudio y trámite de la
 
@@ -1851,7 +1853,7 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $32,304.54 $32,305
+con valores: $34,821.06 $34,821
 
 XVI. Por la autorización para la
 
@@ -1861,7 +1863,7 @@ sociedades que administran
 
 sistemas para facilitar operaciones
 
-con valores: $332,232.63 $332,233
+con valores: $358,113.55 $358,114
 
 XVII. Por el estudio y trámite de la
 
@@ -1869,13 +1871,13 @@ solicitud de autorización para la
 
 constitución y operación de
 
-proveedores de precios: $32,304.54 $32,305
+proveedores de precios: $34,821.06 $34,821
 
 XVIII. Por la autorización para la
 
 constitución y operación de
 
-proveedores de precios: $332,232.63 $332,233
+proveedores de precios: $358,113.55 $358,114
 
 XIX. Por el estudio y trámite de la
 
@@ -1883,7 +1885,7 @@ solicitud para obtener el
 
 reconocimiento como organismo
 
-autorregulatorio: $46,845.32 $46,845
+autorregulatorio: $50,494.57 $50,495
 
 XX. Por el estudio y trámite de
 
@@ -1893,7 +1895,7 @@ el establecimiento de oficinas de
 
 representación de entidades
 
-financieras del exterior: $28,107.19 $28,107
+financieras del exterior: $30,296.74 $30,297
 
 XXI. Por la autorización para la
 
@@ -1903,13 +1905,13 @@ sociedades de inversión de renta
 
 variable, en instrumentos de deuda,
 
-de capitales y de objeto limitado: $57,942.35 $57,942
+de capitales y de objeto limitado: $62,456.06 $62,456
 
 XXII. Por la autorización para el
 
 inicio de operaciones de casas de
 
-bolsa: $1,442,428.54 $1,442,429
+bolsa: $1,554,793.72 $1,554,794
 
 XXIII. Por el estudio y trámite
 
@@ -1917,13 +1919,13 @@ de la solicitud de autorización
 
 para la constitución y operación
 
-de instituciones de banca múltiple: $57,707.99 $57,708
+de instituciones de banca múltiple: $62,203.44 $62,203
 
 XXIV. Por la autorización
 
 para la constitución y operación
 
-de instituciones de banca múltiple: $848,647.13 $848,647
+de instituciones de banca múltiple: $914,756.74 $914,757
 
 XXV. Por la autorización
 
@@ -1931,11 +1933,11 @@ para el inicio de operaciones
 
 de instituciones de banca
 
-múltiple: $2,715,670.80 $2,715,671
+múltiple: $2,927,221.56 $2,927,222
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $28,055.14 $28,055
+XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $30,240.64 $30,241
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -1953,7 +1955,7 @@ términos de la Ley General de
 
 Organizaciones y Actividades
 
-Auxiliares del Crédito: $32,553.76 $32,554
+Auxiliares del Crédito: $35,089.70 $35,090
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -1967,7 +1969,7 @@ asesor en inversiones en
 
 términos de la Ley del Mercado
 
-de Valores: $36,763.62 $36,764
+de Valores: $39,627.51 $39,628
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -1981,7 +1983,7 @@ o transmisor de dinero, en términos de
 
 la Ley General de Organizaciones y
 
-Actividades Auxiliares del Crédito: $2,714.29 $2,714
+Actividades Auxiliares del Crédito: $2,925.73 $2,926
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -2013,7 +2015,7 @@ que pudiesen ubicarse en los supuestos de
 
 los artículos 139 Quáter o 400 Bis del
 
-Código Penal Federal: $14,725.00 $14,725
+Código Penal Federal: $15,872.08 $15,872
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -2041,9 +2043,9 @@ que pudiesen ubicarse en los supuestos de
 
 los artículos 139 Quáter o 400 Bis del
 
-Código Penal Federal: $14,725.00 $14,725
+Código Penal Federal: $15,872.08 $15,872
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2059,7 +2061,7 @@ I. Solicitud de inscripción o
 
 actualización de la misma y/o
 
-autorización de oferta pública: $26,660.92 $26,661
+autorización de oferta pública: $28,737.81 $28,738
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2073,13 +2075,13 @@ de promoción, comercialización o
 
 publicidad sobre valores, dirigida
 
-al público en general: $26,660.92 $26,661
+al público en general: $28,737.81 $28,738
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No se pagarán los derechos a que se refiere esta fracción, cuando la solicitud se presente conjuntamente con la autorización señalada en la fracción I de este artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2105,7 +2107,7 @@ a). Tratándose de acciones:
 
 Emisora sin que los derechos a
 
-pagar por este concepto excedan de: $4,243,235.62 $4,243,236
+pagar por este concepto excedan de: $4,573,783.67 $4,573,784
 
 2. Emitidas por Sociedades Anónimas Promotoras de Inversión Bursátil:
 
@@ -2113,7 +2115,7 @@ pagar por este concepto excedan de: $4,243,235.62 $4,243,236
 
 Emisora sin que los derechos a
 
-pagar por este concepto excedan de: $2,121,617.80 $2,121,618
+pagar por este concepto excedan de: $2,286,891.83 $2,286,892
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2123,7 +2125,7 @@ pagar por este concepto excedan de: $2,121,617.80 $2,121,618
 
 Emisora sin que los derechos a
 
-pagar por este concepto excedan de: $4,243,235.62 $4,243,236
+pagar por este concepto excedan de: $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2135,7 +2137,7 @@ b). Tratándose de títulos de crédito o valores inscritos que otorguen a sus t
 
 que los derechos a pagar por este concepto
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2147,7 +2149,7 @@ derechos a pagar en el primer año contado
 
 a partir de la obtención de la autorización por
 
-programa excedan de: $1,188,105.97 $1,188,106
+programa excedan de: $1,280,659.43 $1,280,659
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2159,7 +2161,7 @@ de valor y en proporción a su plazo sin
 
 que los derechos a pagar por este concepto
 
-en un ejercicio excedan de: $1,188,105.97 $1,188,106
+en un ejercicio excedan de: $1,280,659.43 $1,280,659
 
 c). Tratándose de acciones de sociedades de inversión:
 
@@ -2175,7 +2177,7 @@ d). Tratándose de títulos opcionales emitidos por sociedades anónimas incluye
 
 de emisión sin que los derechos a pagar
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2185,7 +2187,7 @@ e). Tratándose de valores con plazo mayor a un año emitidos por entidades para
 
 los derechos a pagar por este concepto
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -2195,7 +2197,7 @@ f). Tratándose de valores emitidos por las entidades federativas y municipios, 
 
 los derechos a pagar por este concepto
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2207,7 +2209,7 @@ en proporción a su plazo sin que los derechos a
 
 pagar por este concepto en un ejercicio
 
-excedan de: $1,188,105.97 $1,188,106
+excedan de: $1,280,659.43 $1,280,659
 
 h). Tratándose de bonos de regulación monetaria emitidos por el Banco de México:
 
@@ -2217,7 +2219,7 @@ en proporción a su plazo sin que los derechos a
 
 pagar por este concepto en un ejercicio
 
-excedan de: $1,188,105.97 $1,188,106
+excedan de: $1,280,659.43 $1,280,659
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2229,7 +2231,7 @@ i). Tratándose de emisores de valores que mantengan inscritos valores de los se
 
 que los derechos a pagar por este
 
-concepto excedan de $4,243,235.62 $4,243,236
+concepto excedan de $4,573,783.67 $4,573,784
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2237,7 +2239,7 @@ concepto excedan de $4,243,235.62 $4,243,236
 
 0.27 al millar del monto emitido sin que los
 
-derechos a pagar por año excedan de: $1,188,105.97 $1,188,106
+derechos a pagar por año excedan de: $1,280,659.43 $1,280,659
 
 j). Tratándose de emisoras de valores que al
 
@@ -2261,7 +2263,7 @@ de cada programa, 0.27 al millar del monto
 
 emitido sin que los derechos a pagar por este
 
-concepto excedan de: $1,188,105.97 $1,188,106
+concepto excedan de: $1,280,659.43 $1,280,659
 
 k). Tratándose de la inscripción o ampliación
 
@@ -2273,7 +2275,7 @@ se pagará una cuota de 0.3 al millar sobre el
 
 monto emitido sin que los derechos a pagar por
 
-este concepto excedan de: $4,243,235.62 $4,243,236
+este concepto excedan de: $4,573,783.67 $4,573,784
 
 l). Tratándose de la inscripción o ampliación
 
@@ -2289,7 +2291,7 @@ Nacional de Valores, se pagará una cuota de
 
 los derechos a pagar por este concepto
 
-excedan de: $1,188,105.97 $1,188,106
+excedan de: $1,280,659.43 $1,280,659
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2301,7 +2303,7 @@ m). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 los derechos a pagar por este concepto
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,784
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuadas o no, al amparo de cada programa:
 
@@ -2309,7 +2311,7 @@ excedan de: $4,243,235.62 $4,243,236
 
 los derechos a pagar por año
 
-excedan de: $1,188,105.97 $1,188,106
+excedan de: $1,280,659.43 $1,280,659
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2321,13 +2323,13 @@ n). Tratándose de títulos fiduciarios y demás valores emitidos al amparo de f
 
 derechos a pagar por este concepto
 
-excedan de: $4,243,235.62 $4,243,236
+excedan de: $4,573,783.67 $4,573,787
 
 2. En el caso de programas de emisión o emisiones con vigencia igual o menor a un año, efectuados o no, al amparo de cada programa:
 
 0.35 al millar del monto emitido, sin que los
 
-derechos a pagar por año excedan de: $1,188,105.97 $1,188,106
+derechos a pagar por año excedan de: $1,280,659.43 $1,280,659
 
 ñ). Tratándose de títulos fiduciarios y demás
 
@@ -2353,7 +2355,7 @@ o no al amparo de cada programa, 0.35 al millar
 
 del monto emitido sin que los derechos a pagar
 
-por año excedan de: $1,188,105.97 $1,188,106
+por año excedan de: $1,280,659.43 $1,280,659
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2361,7 +2363,7 @@ III.- Cualquier canje de acciones que no implique un aumento en el monto de capi
 
 IV. Inscripción preventiva de acciones en el
 
-Registro Nacional de Valores: $16,972.95 $16,973
+Registro Nacional de Valores: $18,295.14 $18,295
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2375,7 +2377,7 @@ Tratándose de ampliación de la inscripción de acciones, la base del cobro ser
 
 (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2405,7 +2407,7 @@ La cuota que resulte de conformidad
 
 con lo previsto en esta fracción, en
 
-ningún caso podrá ser inferior a: $468,453.21 $468,453
+ningún caso podrá ser inferior a: $504,495.72 $504,946
 
 II. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -2425,7 +2427,7 @@ b). El resultado de multiplicar 0.021500 al millar, por el valor de sus activos 
 
 La cuota que resulte, en ningún caso
 
-será inferior a $9,015,178.38 $9,015,178
+será inferior a $9,717,460.78 $9,717,461
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2443,7 +2445,7 @@ b). El resultado de multiplicar 0.007110 al millar, por el valor de sus activos 
 
 La cuota que resulte, en ningún
 
-caso será inferior a $5,409,107.01 $5,409,107
+caso será inferior a $5,830,476.45 $5,830,476
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2483,7 +2485,7 @@ b). El resultado de multiplicar 18.750000 al millar, por el importe que resulte 
 
 La cuota que resulte, en ningún
 
-caso será inferior a $721,214.26 $721,214
+caso será inferior a $777,396.85 $777,397
 
 VII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -2499,11 +2501,11 @@ a). (DEROGADO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
 La cuota que resulte, en ningún
 
-caso será inferior a $108,129.39 $108,129
+caso será inferior a $16,552.67 $116,553
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $3,916,599.97, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
+IX. Cada Federación constituida en los términos de la Ley de Ahorro y Crédito Popular pagará una cuota de $4,221,703.11, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural, que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos totales;
 
@@ -2511,11 +2513,11 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito total menos las reservas preventivas.
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $31,332.81 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, tal cuota en ningún caso podrá ser inferior a $33,773.64 por cada una de las sociedades financieras populares, sociedades financieras comunitarias u organismos de integración financiera rural que supervise la Federación de que se trate.
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $23,499,599.73, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
+X. El Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores pagará una cuota de $25,330,218.55, o bien, podrá optar por pagar una cuota equivalente al resultado de la suma de las siguientes cantidades relativas a cada una de las Sociedades Cooperativas de Ahorro y Préstamo que supervise:
 
 a). El resultado de multiplicar 0.10000 al millar, por el valor de sus pasivos;
 
@@ -2523,13 +2525,13 @@ b). El resultado de multiplicar 0.25000 al millar, por el valor de su cartera de
 
 c). El resultado de multiplicar 0.00800 al millar, por el valor de su cartera de crédito menos las estimaciones preventivas para riesgos crediticios.
 
-En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $31,332.81 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
+En caso de optar por pagar la cuota equivalente al resultado de la suma de las cantidades obtenidas de las operaciones contenidas en los incisos a), b) y c) anteriores, en ningún caso dicha cuota podrá ser inferior a $33,773.64 por cada sociedad que supervise el Fondo de Supervisión Auxiliar de Sociedades Cooperativas de Ahorro y Préstamo y de Protección a sus Ahorradores.
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,691,971.18, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
+XI. Cada entidad que pertenezca al sector de Sociedades de Inversión, entendiéndose para estos efectos a las entidades que cuenten con autorización para constituirse y operar como tales en términos de la legislación aplicable, excluyendo a las Sociedades de Inversión Especializadas en Fondos de Ahorro para el Retiro, pagará una cuota de $1,823,775.73, o bien, podrá optar por pagar el equivalente al valor que resulte menor entre el total de las operaciones de venta de activos objeto de inversión que realice la Sociedad de Inversión y el total de las operaciones de compra de dichos activos, multiplicado por 0.0065 al millar.
 
-La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $33,945.86
+La cuota que resulte de la aplicación de la opción prevista en esta fracción en ningún caso podrá ser inferior a $36,590.24
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en el Registro Nacional de Valores, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
@@ -2555,7 +2557,7 @@ c). El resultado de multiplicar 0.011650 al millar, por el valor del total de su
 
 La cuota que resulte, en ningún
 
-caso será inferior a $288,485.72 $288,486
+caso será inferior a $310,958.76 $310,959
 
 > <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2563,7 +2565,7 @@ XIV. Financiera Rural:
 
 La Financiera Rural, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de $3,010,842.48 $3,010,842
+a). Una cuota de $3,245,387.11 $3,245,387
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2577,7 +2579,7 @@ XV. Fideicomisos Públicos:
 
 Los fideicomisos públicos, que conforme a la Ley de Instituciones de Crédito formen parte del Sistema Bancario Mexicano, pagarán una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de $2,926,795.82 $2,926,796
+a). Una cuota de $3,154,793.21 $3,154,793
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2589,7 +2591,7 @@ XVI. Instituto del Fondo Nacional para el Consumo de los Trabajadores:
 
 El Instituto del Fondo Nacional para el Consumo de los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de: $2,732,258.98 $2,732,259
+a). Una cuota de: $2,945,101.95 $2,945,102
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2601,7 +2603,7 @@ XVII. Instituto del Fondo Nacional de la Vivienda para los Trabajadores:
 
 El Instituto del Fondo Nacional de la Vivienda para los Trabajadores, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de: $2,732,258.98 $2,732,259
+a). Una cuota de: $2,945,101.95 $2,945,102
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2629,7 +2631,7 @@ La cuota que resulte de conformidad con
 
 lo previsto en esta fracción en ningún caso
 
-podrá ser inferior a: $901,517.85 $901,518
+podrá ser inferior a: $971,746.09 $971,746
 
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2643,7 +2645,7 @@ La cuota que resulte de conformidad
 
 con lo previsto en esta fracción, en ningún caso
 
-podrá ser inferior a: $1,311,668.99 $1,311,669
+podrá ser inferior a: $1,413,848.00 $1,413,848
 
 > <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -2651,7 +2653,7 @@ XX. Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los 
 
 El Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, pagará una cuota equivalente al resultado de la suma de las siguientes cantidades:
 
-a). Una cuota de $2,651,083.63 $2,651,084
+a). Una cuota de $2,857,603.04 $2,857,603
 
 b). El resultado de multiplicar 0.020883 al millar, por el total de sus activos.
 
@@ -2661,7 +2663,7 @@ XXI. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 En la elaboración de los cálculos aritméticos a que se refieren las fracciones I a X y XII a XX del presente artículo, no se considerarán los resultados negativos que, en su caso, se obtengan durante el proceso de cómputo de la cuota, salvo lo dispuesto en el inciso b) de la fracción VI de este artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -2691,7 +2693,7 @@ para constituirse y operar como tales en
 
 términos de las disposiciones aplicables,
 
-pagará la cuota $4,902,487.05 $4,902,487
+pagará la cuota $5,284,390.79 $5,284,391
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2707,7 +2709,7 @@ concesión para constituirse y operar como
 
 tales en términos de la legislación aplicable,
 
-pagará la cuota de $12,256,217.59 $12,256,218
+pagará la cuota de $13,210,976.94 13,210,977
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2723,7 +2725,7 @@ cuenten con la autorización correspondiente
 
 en términos de la legislación aplicable, pagará
 
-la cuota de $4,085,405.88 $4,085,406
+la cuota de $4,403,659.00 $4,403,659
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2737,7 +2739,7 @@ tales efectos a las sociedades que cuenten
 
 con la concesión correspondiente en términos
 
-de la legislación aplicable, pagará la cuota de $4,085,405.88 $4,085,406
+de la legislación aplicable, pagará la cuota de $4,403,659.00 $4,403,659
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2755,7 +2757,7 @@ en la administración a entidades financieras en
 
 términos de las disposiciones aplicables, o en la
 
-realización de su objeto, pagará la cantidad de: $161,943.26 $161,943
+realización de su objeto, pagará la cantidad de: $174,558.64 $174,559
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -2775,7 +2777,7 @@ del cumplimiento de las disposiciones
 
 establecidas en el artículo 95 Bis de la citada
 
-ley, la cuota de $45,418.63 $45,419
+ley, la cuota de $48,956.74 $48,957
 
 VIII. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -2797,7 +2799,7 @@ que con tal carácter se constituyan y sean
 
 autorizadas en términos de la Ley del Mercado
 
-de Valores, deberá pagar: $749,599.47 $749,599
+de Valores, deberá pagar: $807,993.27 $807,993
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -2813,7 +2815,7 @@ sociedades que cuenten con la concesión
 
 correspondiente en términos de la legislación
 
-aplicable, pagará la cuota de $7,353,730.56 $7,353,731
+aplicable, pagará la cuota de $7,926,586.17 $7,926,586
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2827,7 +2829,7 @@ facilitar las operaciones con valores,
 
 autorizadas en términos de la Ley del
 
-Mercado de Valores pagará la cantidad de: $610,165.94 $610,166
+Mercado de Valores pagará la cantidad de: $657,697.87 $657,698
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2841,7 +2843,7 @@ Financieras del Exterior, pagará por cada
 
 una de las Entidades que represente la
 
-cantidad de: $99,767.38 $99,767
+cantidad de: $107,539.26 $107,539
 
 > <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -2851,7 +2853,7 @@ Cada entidad que pertenezca al sector de
 
 Operadores del Mercado de Futuros y
 
-Opciones, pagará la cantidad de: $139,293.62 $139,294
+Opciones, pagará la cantidad de: $150,144.59 $150,145
 
 Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Operadores del Mercado de Futuros y Opciones, las instituciones de crédito, casas de bolsa y demás personas físicas y morales que pueden o no ser socios de la Bolsa de Futuros y Opciones en términos de lo previsto en las disposiciones que regulan a las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, y cuya función sea actuar como comisionista de uno o más Socios Liquidadores, en la celebración de contratos de futuros y contratos de opciones, y que pueden tener acceso al sistema electrónico de negociación de la bolsa para la celebración de dichos contratos.
 
@@ -2875,7 +2877,7 @@ reconocimiento para actuar como organismo
 
 autorregulatorio bancario o del mercado de
 
-valores, pagará la cantidad de: $645,486.77 $645,487
+valores, pagará la cantidad de: $695,770.19 $695,770
 
 b). Los organismos autorregulatorios que
 
@@ -2901,7 +2903,7 @@ directivos de las instituciones de crédito, así
 
 como de sus apoderados, pagarán la cantidad
 
-de: $1,803,035.68 $1,803,036
+de: $1,943,492.16 $1,943,492
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -2911,7 +2913,7 @@ Financieras Populares y de Protección a sus
 
 Ahorradores a que se refiere la Ley de Ahorro
 
-Y Crédito Popular pagará la cuota de: $31,332.81 $31,333
+Y Crédito Popular pagará la cuota de: $33,773.64 $33,774
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2923,7 +2925,7 @@ proveedores de precios, autorizados en
 
 términos de la Ley del Mercado de Valores
 
-pagará: $922,238.32 $922,238
+pagará: $994,080.69 $994,081
 
 XIX. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -2941,7 +2943,7 @@ autorizadas conforme a la Ley para Regular
 
 a las Sociedades de Información Crediticia,
 
-pagará la cantidad de: $1,712,883.87 $1,712,884
+pagará la cantidad de: $1,846,317.52 $1,846,318
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -2953,11 +2955,11 @@ Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones d
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-a). Que actúen como referenciadoras: $63,106.23 $63,106
+a). Que actúen como referenciadoras: $68,022.21 $68,022
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-b). Que actúen como integrales: $126,212.52 $126,213
+b). Que actúen como integrales: $136,044.48 $136,044
 
 > <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -2969,9 +2971,9 @@ Cada entidad que pertenezca al sector de Sociedades Operadoras de Sociedades de 
 
 a). De renta variable y de inversión en
 
-instrumentos de deuda: $126,825.52 $126,826
+instrumentos de deuda: $136,705.23 $136,705
 
-b). De capitales o de objeto limitado: $107,803.53 $107,804
+b). De capitales o de objeto limitado: $116,201.42 $116,201
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2989,13 +2991,13 @@ carácter se refiere la Ley de Sociedades
 
 de Inversión, pagará la cantidad de por
 
-cada Fondo valuado. $1,233.27 $1,233
+cada Fondo valuado. $1,329.34 $1,329
 
 La cuota que resulte de conformidad con
 
 lo previsto en esta fracción, en ningún caso
 
-podrá ser inferior a $51,761.06 $51,761
+podrá ser inferior a $55,793.25 $55,793
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3003,11 +3005,11 @@ XXIV. Socios Liquidadores:
 
 Cada entidad que pertenezca al sector de
 
-Socios Liquidadores pagará la cantidad de: $874,672.30 $874,672
+Socios Liquidadores pagará la cantidad de: $942,809.27 $942,809
 
 Para efectos de lo previsto en esta fracción se entenderá que este sector lo conforman los fideicomisos que sean socios de una bolsa y que participen en el patrimonio de una cámara de compensación en términos de lo dispuesto por las Reglas a las que habrán de sujetarse las sociedades y fideicomisos que intervengan en el establecimiento y operación de un mercado de futuros y opciones cotizados en bolsa, teniendo como finalidad liquidar y, en su caso, celebrar por cuenta de clientes, contratos de futuros y contratos de opciones operados en bolsa.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -3033,7 +3035,7 @@ a). Con sólo acciones inscritas:
 
 que los derechos a pagar por este concepto
 
-excedan de: $678,917.71 $678,918
+excedan de: $731,805.40 $731,805
 
 2. Emitidas por sociedades Anónimas Promotoras de Inversión Bursátil:
 
@@ -3043,7 +3045,7 @@ i). Que se encuentren en cumplimiento del programa de adopción progresiva del r
 
 sin que los derechos a pagar por este
 
-concepto excedan de: $203,675.33 $203,675
+concepto excedan de: $219,541.64 $219,542
 
 ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del régimen aplicable a las Sociedades Anónimas Bursátiles:
 
@@ -3051,7 +3053,7 @@ ii). Que no hayan dado cumplimiento a su programa de adopción progresiva del r�
 
 sin que los derechos a pagar por este
 
-concepto excedan de: $407,350.61 $407,351
+concepto excedan de: $439,083.22 $439,083
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3061,7 +3063,7 @@ concepto excedan de: $407,350.61 $407,351
 
 sin que los derechos a pagar por este
 
-concepto excedan de: $678,917.71 $678,918
+concepto excedan de: $731,805.40 $731,805
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -3073,7 +3075,7 @@ circulación de cada emisión, sin que los
 
 derechos a pagar por este concepto
 
-excedan de: $509,188.26 $509,188
+excedan de: $548,854.03 $548,854
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -3097,7 +3099,7 @@ derechos muebles o inmuebles sin que los
 
 derechos a pagar por este concepto excedan
 
-de: $203,675.33 $203,675
+de: $219,541.64 $219,542
 
 d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen:
 
@@ -3105,7 +3107,7 @@ d). Valores emitidos por organismos descentralizados del Gobierno Federal, Gobie
 
 de cada emisión sin que los derechos a pagar
 
-por este concepto excedan de: $509,188.26 $509,188
+por este concepto excedan de: $548,854.03 $548,854
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -3115,9 +3117,9 @@ e). Títulos de crédito que representen acciones:
 
 de cada emisión sin que los derechos a pagar por
 
-este concepto excedan de: $135,783.55 $135,784
+este concepto excedan de: $146,361.09 $146,361
 
-f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $135,783.55 $135,784, por cada emisión.
+f). Otros títulos o valores inscritos distintos a los señalados en los incisos anteriores: $146,361.09 $146,361, por cada emisión.
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3129,7 +3131,7 @@ circulación de cada emisión sin que los
 
 derechos a pagar por este concepto
 
-excedan de: $135,783.55 $135,784
+excedan de: $18,295.14 $18,295
 
 II. (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -3313,7 +3315,7 @@ Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emis
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -3347,7 +3349,7 @@ Los derechos a que se refieren las fracciones anteriores, se pagarán por mensua
 
 III. Las sociedades controladoras de
 
-grupos financieros $832,674.91 $832,675 anuales.
+grupos financieros $897,540.29 $897,540 anuales.
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -3359,25 +3361,25 @@ cuyas sociedades controladoras se encuentren
 
 bajo supervisión de la Comisión Nacional de
 
-Seguros y Fianzas $45,418.63 $45,419 anuales.
+Seguros y Fianzas $48,956.74 $48,957 anuales.
 
 V.- Por los servicios de inspección y vigilancia
 
 Que se prestan a los intermediarios de reaseguro
 
-cuota mensual $10,433.72 $10,434
+cuota mensual $11,246.51 $11,247
 
 VI.- Por los servicios de Inspección y vigilancia
 
 que se prestan a las oficinas de representación
 
-de reaseguradoras extranjeras cuota mensual $6,260.22 $6,260
+de reaseguradoras extranjeras cuota mensual $6,747.89 $6,748
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 La Secretaría de Hacienda y Crédito Público, como facilidad administrativa, publicará en el Diario Oficial de la Federación el resultado de las operaciones aritméticas previstas en el presente artículo según la información que le sea proporcionada por la Comisión Nacional de Seguros y Fianzas.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3391,21 +3393,21 @@ Sin ajuste Con ajuste
 
 I.- Por la autorización provisional proporcionada
 
-a agentes de seguros personas físicas $2,533.19 $2,533
+a agentes de seguros personas físicas $2,730.53 $2,731
 
 II.- Por la autorización definitiva a agentes de
 
 seguros personas físicas para actuar por
 
-cuenta propia con vigencia de tres años $3,984.06 $3,984
+cuenta propia con vigencia de tres años $4,294.42 $4,294
 
 III.- Por el refrendo trianual de las autorizaciones
 
-definitivas a agentes personas físicas $2,084.44 $2,084
+definitivas a agentes personas físicas $2,246.82 $2,247
 
 IV.- Por la autorización a agentes de
 
-seguros personas morales $12,667.92 $12,668
+seguros personas morales $13,654.75 $13,655
 
 V.- Por la autorización para ejercer la actividad
 
@@ -3413,17 +3415,17 @@ de apoderado de un agente de seguros
 
 persona moral para intervenir en el asesoramiento
 
-y contratación de seguros $3,984.06 $3,984
+y contratación de seguros $4,294.42 $4,294
 
 VI.- Por el refrendo trianual de la autorización
 
-a que se refiere la fracción anterior $2,084.44 $2,084
+a que se refiere la fracción anterior $2,246.82 $2,247
 
 VII.- Por la autorización para ejercer la
 
 actividad de agente mandatario de instituciones
 
-de seguros $195.42 $195
+de seguros $210.64 $211
 
 VIII.- Por la presentación del examen de
 
@@ -3433,7 +3435,7 @@ ejercer la actividad de agente de seguros
 
 persona física o apoderado de agente de
 
-seguros persona moral $909.93 $910
+seguros persona moral $980.81 $981
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -3445,9 +3447,9 @@ técnica, para ejercer la actividad de agente
 
 de seguros persona física o apoderado de
 
-agente de seguros persona moral $470.00 $470
+agente de seguros persona moral $506.61 $507
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3461,7 +3463,7 @@ Sin ajuste Con ajuste
 
 I.- Por la autorización definitiva como
 
-Intermediario de reaseguro. $12,668.05 $12,668
+Intermediario de reaseguro. $13,654.89 $13,655
 
 II.- Por la autorización para ejercer la
 
@@ -3469,13 +3471,13 @@ actividad de apoderado de intermediario
 
 de reaseguro, para intervenir en el
 
-asesoramiento y contratación de reaseguro $3,984.06 $3,984
+asesoramiento y contratación de reaseguro $4,294.42 $4,294
 
 III.- Por el refrendo quinquenal de la
 
 autorización a que se refiere la
 
-fracción anterior $2,084.44 $2,084
+fracción anterior $2,246.82 $2,247
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -3483,13 +3485,13 @@ V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 30-C.
 
-Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones y sociedades mutualistas de seguros, ya sea como personas físicas o morales, se pagará una cuota de $1,841.00 $1,841 por concepto de derechos por cada una de las pruebas siguientes:
+Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones y sociedades mutualistas de seguros, ya sea como personas físicas o morales, se pagará una cuota de $1,984.41 $1,984 por concepto de derechos por cada una de las pruebas siguientes:
 
 I. Elaboración y firma de las notas técnicas de los productos de seguros, que ofrezcan al público las instituciones y sociedades mutualistas de seguros.
 
@@ -3499,7 +3501,7 @@ III. Elaboración de los dictámenes actuariales sobre la situación y suficienc
 
 IV. Elaboración y firma de la prueba de solvencia dinámica.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 30-D.
 
@@ -3509,9 +3511,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$805.74 $806
+$868.51 $869
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3529,7 +3531,7 @@ y, en su caso, el otorgamiento del
 
 reconocimiento como organización
 
-aseguradora u organización afianzadora $45,832.43 $45,832
+aseguradora u organización afianzadora $49,402.78 $49,403
 
 II. Por el estudio, trámite de la solicitud
 
@@ -3539,7 +3541,7 @@ establecimiento de oficinas de
 
 representación de Reaseguradoras
 
-Extranjeras $27,499.46 $27,499
+Extranjeras $29,641.67 $29,642
 
 III. Por el estudio y trámite de la solicitud
 
@@ -3549,7 +3551,7 @@ operación de instituciones de seguros,
 
 sociedades mutualistas de seguros o
 
-instituciones de fianzas $56,460.22 $56,460
+instituciones de fianzas $60,858.47 $60,858
 
 IV. Por la autorización para la constitución
 
@@ -3557,7 +3559,7 @@ y operación de instituciones de seguros,
 
 sociedades mutualistas de seguros o
 
-instituciones de fianzas $84,690.34 $84,690
+instituciones de fianzas $91,287.72 $91,288
 
 V. Por la emisión del dictamen para el
 
@@ -3565,9 +3567,9 @@ inicio de operaciones de instituciones de
 
 seguros, sociedades mutualistas de
 
-seguros o instituciones de fianzas $153,423.57 $153,424
+seguros o instituciones de fianzas $165,375.27 $165,375
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3591,13 +3593,13 @@ II. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 III. Las sociedades controladoras
 
-de grupos financieros $832,674.91 $832,675 anuales.
+de grupos financieros $897,540.29 $897,540 anuales.
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $45,418.63 $45,419
+IV. Cada empresa de servicios complementarios que forme parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $48,956.74 $48,957
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -3613,15 +3615,15 @@ I.- Por la autorización definitiva a agentes
 
 de fianzas personas físicas para actuar por
 
-cuenta propia con vigencia de tres años $3,984.06 $3,984
+cuenta propia con vigencia de tres años $4,294.42 $4,294
 
 II.- Por el refrendo trianual de las autorizaciones
 
-definitivas a agentes personas físicas $2,084.44 $2,084
+definitivas a agentes personas físicas $2,246.82 $2,247
 
 III.- Por la autorización a agentes de
 
-fianzas personas morales $12,666.69 $12,667
+fianzas personas morales $13,653.43 $13,653
 
 IV.- Por la autorización para ejercer la actividad
 
@@ -3629,21 +3631,21 @@ de apoderado de un agente de fianzas persona
 
 moral para intervenir en el asesoramiento y
 
-contratación de fianzas $3,984.06 $3,984
+contratación de fianzas $4,294.42 $4,294
 
 V.- Por el refrendo trianual de la autorización
 
-a que se refiere la fracción anterior $2,084.44 $2,084
+a que se refiere la fracción anterior $2,246.82 $2,247
 
 VI.- Por la autorización provisional proporcionada
 
-a agentes de fianzas personas físicas $2,534.89 $2,535
+a agentes de fianzas personas físicas $2,732.36 $2,732
 
 VII.- Por la autorización para ejercer la
 
 actividad de agente mandatario de
 
-instituciones de fianzas $195.42 $195
+instituciones de fianzas $210.64 $211
 
 VIII.- Por la presentación del examen de
 
@@ -3653,7 +3655,7 @@ ejercer la actividad de agente de fianzas
 
 persona física o apoderado de agente de
 
-fianzas persona moral $909.93 $910
+fianzas persona moral $980.81 $981
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -3665,15 +3667,15 @@ técnica, para ejercer la actividad de agente
 
 de fianzas persona física o apoderado de
 
-agente de fianzas persona moral $470.00 $470
+agente de fianzas persona moral $506.61 $507
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31-A
 
-1. Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, ya sea como personas físicas o morales, se pagará una cuota de $1,841.00 $1,841 por concepto de derechos por cada una de las pruebas siguientes:
+1. Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, ya sea como personas físicas o morales, se pagará una cuota de $1,984.41 $1,984 por concepto de derechos por cada una de las pruebas siguientes:
 
 I. Elaboración y firma de las notas técnicas para soportar la adecuada operación de los productos que ofrezcan al público las instituciones de fianzas.
 
@@ -3693,7 +3695,7 @@ IV. Elaboración y firma de la prueba de solvencia dinámica.
 
 #### SECCION SEGUNDA. De la Comisión Nacional del Sistema de Ahorro para el Retiro
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -3701,23 +3703,23 @@ IV. Elaboración y firma de la prueba de solvencia dinámica.
 
 Las Administradoras de Fondos para el Retiro, las instituciones públicas que realicen funciones similares a éstas, las Empresas Operadoras de la Base de Datos Nacional SAR y las Sociedades de Inversión Especializadas de Fondos para el Retiro pagarán el derecho de inspección y vigilancia que se efectúa en éstas, conforme a las siguientes cuotas:
 
-I. Las Administradoras de Fondos para el Retiro y las instituciones públicas que realicen funciones similares, por el capital suscrito y pagado por los trabajadores en las Sociedades de Inversión Especializadas de Fondos para el Retiro que inviertan las cuotas y aportaciones de los seguros de retiro, cesantía en edad avanzada y vejez establecidos en la Ley del Seguro Social y en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, $103,080.63 por concepto de cuota anual y adicionalmente $0.2358 anuales por cada mil pesos del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez.
+I. Las Administradoras de Fondos para el Retiro y las instituciones públicas que realicen funciones similares, por el capital suscrito y pagado por los trabajadores en las Sociedades de Inversión Especializadas de Fondos para el Retiro que inviertan las cuotas y aportaciones de los seguros de retiro, cesantía en edad avanzada y vejez establecidos en la Ley del Seguro Social y en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, $111,110.61 por concepto de cuota anual y adicionalmente $0.2542 anuales por cada mil pesos del saldo total de las subcuentas de retiro, cesantía en edad avanzada y vejez.
 
-II. Las Sociedades de Inversión Especializadas de Fondos para el Retiro $97,778.11
+II. Las Sociedades de Inversión Especializadas de Fondos para el Retiro $105,395.02
 
 El pago de las cuotas anuales a que se refieren las fracciones I y II anteriores, deberá realizarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra.
 
-Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales o las instituciones públicas que realicen funciones similares que inicien operaciones, durante el año calendario deberán cubrir la cuota anual de $103,080.63 o de $97,778.11, según corresponda, a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización o, en su caso, inicien operaciones. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
+Las Administradoras de Fondos para el Retiro o Sociedades de Inversión Especializadas de Fondos para el Retiro que obtengan autorización para organizarse y operar como tales o las instituciones públicas que realicen funciones similares que inicien operaciones, durante el año calendario deberán cubrir la cuota anual de $111,110.61 o de $105,395.02, según corresponda, a que se refieren las fracciones I y II del presente artículo, a más tardar el último día hábil del mes inmediato posterior al mes en que obtengan dicha autorización o, en su caso, inicien operaciones. El monto de dicha cuota anual será proporcional al número de meses que resten al año calendario de que se trate.
 
-Para los efectos de la cuota anual adicional de $0.2358 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 20 del mes respectivo.
+Para los efectos de la cuota anual adicional de $0.2542 a que se refiere la fracción I anterior, se realizarán pagos provisionales trimestrales en los meses de abril, julio y octubre del ejercicio fiscal de que se trate y enero del siguiente, a más tardar el día 20 del mes respectivo.
 
-Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.2358, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
+Para determinar el monto de cada pago trimestral a que se refiere el párrafo anterior se deberá multiplicar cada $1,000.00 del saldo total del capital suscrito y pagado por los trabajadores invertido en las Sociedades de Inversión Especializadas de Fondos para el Retiro a que se refiere el primer párrafo de la fracción I de este artículo por la cuota anual de $0.2542, dividida entre cuatro, tomando como total de recursos el valor de dicho capital que resulte al último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-III. Las Empresas Operadoras de la Base de Datos Nacional SAR $3,010,842.48 por cada Administradora de Fondos para el Retiro y por cada institución pública que realice funciones similares.
+III. Las Empresas Operadoras de la Base de Datos Nacional SAR $3,245,387.11 por cada Administradora de Fondos para el Retiro y por cada institución pública que realice funciones similares.
 
 El pago de derechos a que se refiere la presente fracción deberá enterarse a más tardar el día 20 del mes de enero del ejercicio fiscal que transcurra. En caso que se incorpore una nueva Administradora de Fondos para el Retiro o institución pública que realice funciones similares durante el año calendario, el pago por la nueva entidad deberá cubrirse a más tardar el último día hábil del mes inmediato posterior al mes en que se autorice ésta y será proporcional al número de meses que resten al año calendario de que se trate.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -3729,7 +3731,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$454,186.32 $454,186
+$489,567.43 $489,567
 
 ###### ARTICULO 33.
 
@@ -3739,7 +3741,7 @@ $454,186.32 $454,186
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 34.
 
@@ -3749,7 +3751,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$150,542.12 $150,542
+$162,269.35 $162,269
 
 ###### ARTICULO 34-A.
 
@@ -3779,7 +3781,7 @@ Los ingresos que se obtengan por la recaudación de los derechos por los servici
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -3793,7 +3795,7 @@ Sin ajuste Con ajuste
 
 a).- Por la inscripción en el registro del
 
-despacho de mercancías $7,187.68 $7,188
+despacho de mercancías $7,747.60 $7,748
 
 b).- Por la autorización de depósito fiscal
 
@@ -3803,13 +3805,13 @@ y fabricación de vehículos a empresas de
 
 la industria automotriz terminal o manufacturera
 
-de vehículos de autotransporte $14,607.26 $14,607
+de vehículos de autotransporte $15,745.17 $15,745
 
 c).- Por la autorización para la entrada o
 
 salida de mercancías del territorio nacional
 
-por lugar distinto al autorizado $14,143.50 $14,143
+por lugar distinto al autorizado $15,245.28 $15,245
 
 d).- Por la concesión o autorización para
 
@@ -3817,43 +3819,43 @@ prestar los servicios de manejo, almacenaje
 
 y custodia de mercancías de comercio
 
-exterior $76,514.31 $76,514
+exterior $82,474.77 $82,475
 
 e).- Por la autorización para prestar los
 
 servicios de carga, descarga, estiba, acarreo
 
-y trasbordo de mercancías en el recinto fiscal $14,607.26 $14,607
+y trasbordo de mercancías en el recinto fiscal $15,745.17 $15,745
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-f).- Por la autorización de representante legal $11,593.04 $11,593
+f).- Por la autorización de representante legal $12,496.14 $12,496
 
 g).- Por la autorización de dictaminador
 
-aduanero $11,593.04 $11,593
+aduanero $12,496.14 $12,496
 
 h).- Por la autorización para la entrada y
 
 salida de mercancías por tuberías, ductos,
 
-cables u otros medios de conducción $12,752.38 $12,752
+cables u otros medios de conducción $13,745.79 $13,746
 
 i).- Por la autorización de depósito fiscal
 
 temporal para locales destinados a
 
-exposiciones internacionales de mercancías $6,955.84 $6,956
+exposiciones internacionales de mercancías $7,497.70 $7,498
 
 j).- Por la inscripción en el Registro de
 
-empresas transportistas $7,651.41 $7,651
+empresas transportistas $8,247.45 $8,247
 
 k).- Por la autorización para el establecimiento
 
 de depósito fiscal para la exposición y ventas
 
-de mercancías extranjeras y nacionales $63,692.35 $63,692
+de mercancías extranjeras y nacionales $68,653.98 $68,654
 
 l).- Por la habilitación de un inmueble en
 
@@ -3863,11 +3865,11 @@ mercancías bajo el régimen de recinto
 
 fiscalizado estratégico y la autorización
 
-o prórroga para su administración: $88,010.51 $88,011
+o prórroga para su administración: $94,866.53 $94,867
 
 m).- Por la inscripción en el registro de
 
-empresas certificadas $33,003.94 $33,004
+empresas certificadas $35,574.95 $35,575
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -3875,19 +3877,19 @@ n).- Por la autorización de mandatario
 
 de agente aduanal o de mandatario de
 
-agencia aduanal $12,643.88 $12,644
+agencia aduanal $13,628.84 $13,629
 
 ñ).- Por la autorización para destinar
 
 mercancías al régimen de recinto
 
-fiscalizado estratégico $30,347.63 $30,348
+fiscalizado estratégico $32,711.71 $32,712
 
 o).- Por la autorización para prevalidar
 
 electrónicamente los datos contenidos
 
-en los pedimentos $10,251.66 $10,252
+en los pedimentos $11,050.26 $11,050
 
 p).- Por la autorización para el procesamiento
 
@@ -3895,7 +3897,9 @@ electrónico de datos necesarios para llevar a
 
 cabo el control de la importación temporal de
 
-remolques, semirremolques y portacontenedores $10,251.66 $10,252
+remolques, semirremolques y
+
+portacontenedores $11,050.26 $11,050
 
 q).- Por la autorización para que dentro
 
@@ -3903,19 +3907,19 @@ de los recintos fiscalizados, las mercancías
 
 en ellos almacenadas puedan ser objeto de
 
-elaboración, transformación o reparación $10,251.66 $10,252
+elaboración, transformación o reparación $11,050.26 $11,050
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-r).- Por la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $10,166.80 $10,167
+r).- Por la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $10,958.79 $10,959
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-s).- Por la adición de cada bodega, sucursal o instalación a la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $4,200.37 $4,200
+s).- Por la adición de cada bodega, sucursal o instalación a la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $4,527.58 $4,528
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-t).- Por la autorización para la fabricación o importación de candados a que se refiere la Ley Aduanera $1,920.27 $1,920
+t).- Por la autorización para la fabricación o importación de candados a que se refiere la Ley Aduanera $2,069.86 $2,070
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3929,7 +3933,7 @@ de los días y horas hábiles señalados
 
 por el Servicio de Administración
 
-Tributaria $250.90 $251
+Tributaria $270.45 $270
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3973,7 +3977,7 @@ IV.- Diez días naturales de aquél en que queden en depósito ante la aduana, e
 
 Los plazos a que se refieren las fracciones I y II de este artículo se computarán a partir del día siguiente a aquél en que el almacén reciba las mercancías.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -3987,13 +3991,13 @@ Sin ajuste Con ajuste
 
 I.- Por cada quinientos kilogramos o fracción y durante:
 
-a).- Los primeros quince días naturales $14.62 $15
+a).- Los primeros quince días naturales $15.76 $16
 
-b).- Los siguientes treinta días naturales $28.50 $28
+b).- Los siguientes treinta días naturales $30.72 $31
 
 c).- El tiempo que transcurra después de
 
-vencido el plazo señalado en el inciso anterior $46.18 $46
+vencido el plazo señalado en el inciso anterior $49.78 $50
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
@@ -4015,7 +4019,7 @@ III.- Los equipajes o efectos personales de
 
 pasajeros, por cada cien kilogramos o fracción,
 
-diariamente $23.72 $24
+diariamente $25.57 $26
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4083,7 +4087,7 @@ Los interesados dispondrán de tres días hábiles para el retiro de sus mercanc
 
 Los almacenistas serán responsables de cualquier omisión en el cobro de los derechos de almacenaje, originada por la inexactitud del lugar en que los efectos hayan estado depositados, así como por la indebida entrega de mercancías que ya estén abandonadas, o no se haya pagado, parcial o totalmente el derecho de almacenaje.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4115,7 +4119,7 @@ con programas autorizados por la Secretaría de
 
 Economía (Industria Manufacturera, Maquiladora
 
-y de Servicios de Exportación IMMEX): $378.35 $378
+y de Servicios de Exportación IMMEX): $407.82 $408
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4155,9 +4159,9 @@ mercancías que de conformidad con las
 
 disposiciones aplicables no tengan valor en
 
-aduana, por cada operación. $378.35 $378
+aduana, por cada operación. $407.82 $408
 
-V.- En las operaciones de exportación $379.37 $379
+V.- En las operaciones de exportación $408.92 $409
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -4169,25 +4173,25 @@ También se pagará este derecho por cada operación en que se utilice el pedime
 
 VI.- Tratándose de las efectuadas por los
 
-Estados extranjeros $371.01 $371
+Estados extranjeros $399.91 $400
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-a).- De tránsito interno $378.35 $378
+a).- De tránsito interno $407.82 $408
 
-b).- De tránsito internacional $359.29 $359
+b).- De tránsito internacional $387.28 $387
 
 c).- De extracción del régimen de
 
-depósito fiscal para retorno $378.35 $378
+depósito fiscal para retorno $407.82 $408
 
 d).- La parte II de los pedimentos
 
-de importación; exportación o tránsito $378.35 $378
+de importación; exportación o tránsito $407.82 $408
 
-e).- Por cada rectificación de pedimento $364.25 $364
+e).- Por cada rectificación de pedimento $392.63 $393
 
 VIII.- Del 8 al millar, sobre el valor que
 
@@ -4195,7 +4199,7 @@ tenga el oro para los efectos del impuesto
 
 general de importación, sin exceder de la
 
-cuota de $4,009.08 $4,009
+cuota de $4,321.39 $4,321
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
@@ -4241,7 +4245,7 @@ Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nu
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -4257,11 +4261,11 @@ Sin ajuste Con ajuste
 
 I.- Por el examen para aspirante a agente aduanal,
 
-representante legal o dictaminador aduanero $11,794.72 $11,795
+representante legal o dictaminador aduanero $12,713.53 $12,714
 
 II.- Por la expedición de la patente de
 
-agente aduanal $23,585.97 $23,586
+agente aduanal $25,423.32 $25,423
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -4271,11 +4275,11 @@ III.- Por el examen para aspirante a mandatario de agente aduanal o agencia adua
 
 a). Correspondiente a la etapa de
 
-conocimientos $6,320.90 $6,321
+conocimientos $6,813.30 $6,813
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-b). Correspondiente a la etapa psicotécnica $5,800.59 $5,801
+b). Correspondiente a la etapa psicotécnica $6,252.46 $6,252
 
 IV.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
@@ -4283,21 +4287,21 @@ IV.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 V.- Por la expedición de autorización de
 
-aduana adicional $2,103.16 $2,103
+aduana adicional $2,267.00 $2,267
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 VI.- Por la expedición de autorización de
 
-cambio de aduana de adscripción $2,237.26 $2,237
+cambio de aduana de adscripción $2,411.54 $2,412
 
 > <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 VII.- Por la expedición de la autorización
 
-de agencia aduanal $63,445.67 $63,446
+de agencia aduanal $68,388.09 $68,388
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 52.
 
@@ -4307,7 +4311,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$5,202.33 $5,202
+$5,607.59 $5,608
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -4355,13 +4359,15 @@ $5,202.33 $5,202
 
 #### SECCION OCTAVA. Resoluciones Relativas a Contraprestaciones u Operaciones Celebradas entre Partes Relacionadas
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 53-G.
 
-Por el estudio y trámite de cada solicitud de resolución relativa a los precios, montos de contraprestaciones o márgenes de utilidad, en operaciones celebradas entre partes relacionadas, se pagarán derechos conforme a la cuota de $275,906.07
+Por el estudio y trámite de cada solicitud de resolución relativa a los precios, montos de contraprestaciones o márgenes de utilidad, en operaciones celebradas entre partes relacionadas, se pagarán derechos conforme a la cuota de $297,399.15 $297,399
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -4373,25 +4379,25 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$55,181.21 $55,181
+$59,479.83 $59,480
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION NOVENA. Otros Servicios
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [N. DE E. REPUBLICADA] MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 53-I.
 
-Por la obtención de códigos de seguridad que se impriman en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, se pagará el derecho de códigos de seguridad conforme a la cuota de $0.1255 por cada uno.
+Por la obtención de códigos de seguridad que se impriman en las cajetillas, estuches, empaques, envolturas o cualquier otro objeto que contenga cigarros u otros tabacos labrados para su venta en México, se pagará el derecho de códigos de seguridad conforme a la cuota de $0.1353 por cada uno.
 
 ###### ARTICULO 53-J.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [N. DE E. REPUBLICADAS] MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -4399,17 +4405,17 @@ Por la obtención de códigos de seguridad que se impriman en las cajetillas, es
 
 Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a lo siguiente:
 
-I. Tratándose de marbetes físicos la cuota de $0.5178 por cada uno.
+I. Tratándose de marbetes físicos la cuota de $0.5581 por cada uno.
 
 II. Tratándose de folios electrónicos para la
 
-impresión de marbetes electrónicos la cuota de $0.3474 por cada uno.
+impresión de marbetes electrónicos la cuota de $0.3745 por cada uno.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 53-L.
 
-Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $1.93 por cada uno.
+Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $2.08 por cada uno.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
@@ -4433,7 +4439,7 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 #### SECCION UNICA (SIC). Actividades Reguladas en Materia Energética
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -4447,27 +4453,27 @@ Cuota
 
 Sin ajuste Con ajuste
 
-a). Hasta 10 MW: $130,454.85 $130,455
+a). Hasta 10 MW: $140,617.28 $140,617
 
-b). Mayor a 10 y hasta 50 MW: $170,241.52 $170,242
+b). Mayor a 10 y hasta 50 MW: $183,503.33 $183,503
 
-c). Mayor a 50 y hasta 200 MW: $251,733.64 $251,734
+c). Mayor a 50 y hasta 200 MW: $271,343.69 $271,344
 
-d). Mayor a 200 MW: $1,064,754.83 $1,064,755
+d). Mayor a 200 MW: $1,147,699.23 $1,147,699
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 II. Por la supervisión de los permisos de energía eléctrica, se pagará anualmente el derecho de supervisión, conforme a las siguientes cuotas:
 
-a). Hasta 3 MW $22,878.27 $22,878
+a). Hasta 3 MW $24,660.49 $24,660
 
-b). Mayor a 3 y hasta 10 MW $125,405.64 $125,406
+b). Mayor a 3 y hasta 10 MW $135,174.74 $135,175
 
-c). Mayor a 10 y hasta 50 MW $309,307.72 $309,308
+c). Mayor a 10 y hasta 50 MW $333,402.79 $333,403
 
-d). Mayor a 50 y hasta 200 MW $511,120.22 $511,120
+d). Mayor a 50 y hasta 200 MW $550,936.49 $550,936
 
-e). Mayor a 200 MW $1,554,521.45 $1,554,521
+e). Mayor a 200 MW $1,675,618.67 $1,675,619
 
 III. Por la modificación de los títulos de permiso de energía eléctrica, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -4485,7 +4491,7 @@ aplicables a los organismos a cargo de la
 
 prestación del servicio público de energía
 
-eléctrica anualmente: $937,135.03 $937,135
+eléctrica anualmente: $1,010,137.85 $1,010,138
 
 V. Aprobación o modificación de los Modelos
 
@@ -4493,13 +4499,13 @@ de Convenios y Contratos para la realización
 
 de actividades reguladas en términos de la
 
-Ley de la Comisión Reguladora de Energía: $18,741.90 $18,742
+Ley de la Comisión Reguladora de Energía: $20,201.89 $20,202
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ARTICULO 56 BIS.- En ningún caso se pagará el derecho de permiso de generación de energía eléctrica por el análisis, evaluación de la solicitud y, en su caso, la expedición o modificación del título de permiso, exclusivamente, cuando sea bajo las modalidades de fuentes de energía renovables.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -4515,7 +4521,7 @@ Sin ajuste Con ajuste
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-a). Permisos de distribución de gas natural $837,259.80 $837,260
+a). Permisos de distribución de gas natural $902,482.34 $902,482
 
 b). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -4523,13 +4529,13 @@ b). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 c). Permisos de transporte de gas natural de
 
-acceso abierto $837,259.80 $837,260
+acceso abierto $902,482.34 $902,482
 
 d). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 e). Tratándose de permisos para el
 
-almacenamiento de gas natural: $5,622,684.62 $5,622,685
+almacenamiento de gas natural: $6,060,691.75 $6,060,692
 
 f). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -4537,25 +4543,25 @@ II. Por la supervisión de los permisos de gas natural, se pagará anualmente el
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
-a). Permisos de distribución de gas natural $662,288.41 $662,288
+a). Permisos de distribución de gas natural $713,880.68 $713,881
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 b). Permisos de transporte de
 
-gas natural de acceso abierto $600,894.58 $600,895
+gas natural de acceso abierto $647,704.27 $647,704
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 c). Permisos de almacenamiento
 
-de gas natural $805,941.08 $805,941
+de gas natural $868,723.89 $868,724
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 d). Permisos de transporte de
 
-gas natural para usos propios $236,089.09 $236,089
+gas natural para usos propios $254,480.43 $254,480
 
 e). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -4565,7 +4571,7 @@ f). Permisos de transporte de gas natural para
 
 usos propios en su modalidad de sociedades
 
-de autoabastecimiento $305,640.64 $305,641
+de autoabastecimiento $329,450.05 $329,450
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4579,7 +4585,7 @@ cada periodo de cinco años realice la Comisión
 
 Reguladora de Energía, de conformidad a las
 
-disposiciones legales aplicables $561,189.33 $561,189
+disposiciones legales aplicables $604,905.98 $604,906
 
 IV. Por la modificación de los títulos de permiso de gas natural, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -4591,7 +4597,7 @@ V. Por el análisis, evaluación y, en su caso, renovación de los permisos de d
 
 #### SECCION PRIMERA. Minería
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -4609,11 +4615,11 @@ Sin ajuste Con ajuste
 
 a). Permisos para la distribución de gas licuado
 
-de petróleo por medio de ductos $823,362.89 $823,363
+de petróleo por medio de ductos $887,502.86 $887,503
 
 b). Permisos para el transporte de gas licuado
 
-de petróleo por medio de ductos $823,362.89 $823,363
+de petróleo por medio de ductos $887,502.86 $887,503
 
 c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -4621,7 +4627,7 @@ c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 d). Permisos para el almacenamiento de gas licuado
 
-de petróleo $823,362.89 $823,363
+de petróleo $887,502.86 $887,503
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4629,11 +4635,11 @@ II. Por la supervisión de los permisos en materia de gas licuado de petróleo, 
 
 a). Permisos para la distribución de gas
 
-licuado de petróleo por medio de ductos $662,288.41 $662,288
+licuado de petróleo por medio de ductos $713,880.68 $713,881
 
 b). Permisos para el transporte de gas
 
-licuado de petróleo por medio de ductos $600,894.58 $600,895
+licuado de petróleo por medio de ductos $647,704.27 $647,704
 
 c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -4641,7 +4647,7 @@ c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 d). Permisos para el almacenamiento de gas
 
-licuado de petróleo $805,913.30 $805,913
+licuado de petróleo $868,693.95 $868,694
 
 III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -4661,7 +4667,7 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -4673,15 +4679,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$5,358.35 $5,358
+$5,775.77 $5,776
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 61.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía o la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por estas dependencias, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $3,309.73
+Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Energía o la Comisión Reguladora de Energía, en el ámbito de sus respectivas competencias, para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por estas dependencias, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $3,567.56 3,568
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -4693,7 +4701,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$165,860.54 $165,861
+$178,781.08 $178,781
 
 Por la recepción y análisis de la solicitud y, en su caso, la expedición de la prórroga de cada uno de los permisos descritos en el párrafo anterior, se pagará el derecho conforme a la cuota referida en dicho párrafo.
 
@@ -4713,7 +4721,7 @@ Por la recepción y análisis de la solicitud y, en su caso, la cesión de cada 
 
 (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014) 61,907.96 61,908
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4725,7 +4733,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$17,727.39 $17,727
+$19,108.35 $19,108
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
@@ -4751,7 +4759,7 @@ Los ingresos que se obtengan por el pago de derechos por los servicios que sean 
 
 #### SECCION SEGUNDA. Minería
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -4773,19 +4781,19 @@ Excedente del
 
 Límite Inferior
 
-1 30 $752.61 $12.24
+1 30 $811.24 $13.19
 
-31 100 $1,139.65 $22.74
+31 100 $1,228.43 $24.51
 
-101 500 $2,794.28 $55.33
+101 500 $3,011.95 $59.64
 
-501 1000 $26,090.77 $72.09
+501 1000 $28,123.24 $77.71
 
-1,001 5,000 $72,675.27 $4.3658
+1,001 5,000 $78,336.67 $4.7059
 
-5,001 50,000 $92,245.65 $3.1294
+5,001 50,000 $99,431.59 $3.3732
 
-50,001 en adelante $233,870.61 $2.8858
+50,001 en adelante $252,089.13 $3.1106
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -4795,7 +4803,7 @@ Por el estudio, trámite y resolución de cada solicitud de prórroga de concesi
 
 (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992) (REPUBLICADO, D.O.F. 2 DE AGOSTO DE 1994)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4813,7 +4821,7 @@ I.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 II. Reducción, división, identificación o unificación
 
-de superficie $3,027.91 $3,028
+de superficie $3,263.78 $3,264
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -4821,21 +4829,21 @@ III. Agrupamiento de concesiones mineras,
 
 la incorporación o separación de éstas a
 
-uno o más de ellos $1,513.95 $1,514
+uno o más de ellos $1,631.89 $1,632
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 IV. Expedición de duplicado del título de
 
-concesión o asignación minera $756.98 $757
+concesión o asignación minera $815.95 $816
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 V. Inscripción en el registro de
 
-peritos mineros $756.98 $757
+peritos mineros $815.95 $816
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -4853,27 +4861,27 @@ relativos a la transmisión de la titularidad de
 
 concesiones mineras o de los derechos que
 
-de ellas deriven $1,513.95 $1,514
+de ellas deriven $1,631.89 $1,632
 
 II. Cancelación de las inscripciones relativas
 
 a los actos, contratos o convenios a que alude
 
-la fracción anterior $756.98 $757
+la fracción anterior $815.95 $816
 
-III. Inscripción de Sociedades mineras $3,027.91 $3,028
+III. Inscripción de Sociedades mineras $3,263.78 $3,264
 
 IV. Inscripción de las modificaciones
 
-estatutarias de dichas sociedades $1,513.95 $1,514
+estatutarias de dichas sociedades $1,631.89 $1,632
 
-V. Avisos notariales preventivos $756.98 $757
+V. Avisos notariales preventivos $815.95 $816
 
 VI. Anotaciones preventivas para interrumpir
 
 la cancelación de las inscripciones de
 
-contratos o convenios sujetos a temporalidad $756.98 $757
+contratos o convenios sujetos a temporalidad $815.95 $816
 
 VII. Revisión de la documentación que
 
@@ -4883,7 +4891,7 @@ requeridas para la inscripción o cancelación
 
 de los actos, contratos o convenios
 
-mencionados en las fracciones anteriores $756.98 $757
+mencionados en las fracciones anteriores $815.95 $816
 
 ###### ARTICULO 65-A.
 
@@ -4893,7 +4901,7 @@ mencionados en las fracciones anteriores $756.98 $757
 
 (DEROGADO POR ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCIÓN DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4911,19 +4919,19 @@ I. Por cada plano a escala 1:50,000 que corresponda
 
 a las hojas topográficasdel Instituto Nacional de
 
-Estadística y Geografía $4,541.86 $4,542
+Estadística y Geografía $4,895.67 $4,896
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. Por cada porción de las hojas anteriores de
 
-5 minutos de latitud y de longitud $756.98 $757
+5 minutos de latitud y de longitud $815.95 $816
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III. Por cada porción a que se refiere la
 
-fracción anterior a escala 1:25,000 $2,876.51 $2,877
+fracción anterior a escala 1:25,000 $3,100.59 $3,101
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -4967,7 +4975,7 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4991,7 +4999,7 @@ adquisiciones con regulación específica y
 
 en las que la inversión extranjera participe
 
-en más del 49% $8,563.73 $8,564
+en más del 49% $9,230.84 $9,231
 
 II.- Constitución de fideicomisos de acciones
 
@@ -4999,7 +5007,7 @@ o partes sociales, por virtud de los cuales se
 
 deriven derechos en favor de la inversión
 
-extranjera $8,563.73 $8,564
+extranjera $9,230.84 $9,231
 
 III.- Por afectación de acciones para que
 
@@ -5009,7 +5017,7 @@ de inversión neutra, o la emisión de series
 
 especiales de acciones neutras por parte
 
-de sociedades mexicanas $8,307.18 $8,307
+de sociedades mexicanas $8,954.31 $8,954
 
 IV.- Entrada a nuevos campos de actividad
 
@@ -5017,7 +5025,7 @@ económica, en donde se requiera resolución
 
 favorable de la Comisión Nacional de Inversiones
 
-Extranjeras $1,643.52 $1,644
+Extranjeras $1,771.55 $1,772
 
 V.- Autorización para la inscripción de personas
 
@@ -5025,17 +5033,17 @@ morales extranjeras en el Registro Público
 
 de la Propiedad y el Comercio, o para su
 
-establecimiento en la República Mexicana $2,405.27 $2,405
+establecimiento en la República Mexicana $2,592.64 $2,593
 
 VI.- Replanteamiento a resoluciones específicas
 
 o autorizaciones y exención de cumplimiento de
 
-programas y compromisos $8,226.98 $8,227
+programas y compromisos $8,867.86 $8,868
 
 VII.- Reconsideraciones o revisiones de
 
-resoluciones específicas $985.98 $986
+resoluciones específicas $1,062.79 $1,063
 
 VIII.- Por recepción, estudio o resolución
 
@@ -5043,15 +5051,15 @@ de consultas o confirmaciones de criterio
 
 que se presenten sobre la legislación
 
-aplicable en materia de inversión extranjera $825.63 $826
+aplicable en materia de inversión extranjera $889.95 $890
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-a).- Por la primera prórroga $825.63 $826
+a).- Por la primera prórroga $889.95 $890
 
-b).- Por la segunda y ulteriores prórrogas $1,651.51 $1,652
+b).- Por la segunda y ulteriores prórrogas $1,780.16 $1,780
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -5065,7 +5073,7 @@ Extranjeras a que se refiere el artículo 77
 
 de la Ley Federal de Telecomunicaciones
 
-y Radiodifusión $24,322.78 $24,323
+y Radiodifusión $26,217.52 $26,218
 
 XI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -5085,13 +5093,13 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 #### SECCION CUARTA. Normas Oficiales
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 73-A.
 
-Por el trámite y, en su caso, registro y autorización para el uso de las marcas y contraseñas oficiales, se pagarán derechos conforme a la cuota de: $1,904.28 $1,904
+Por el trámite y, en su caso, registro y autorización para el uso de las marcas y contraseñas oficiales, se pagarán derechos conforme a la cuota de: $2,052.62 $2,053
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5111,7 +5119,7 @@ Cuando para la prestación de los servicios a que se refiere esta Sección, se r
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 73-F.
 
@@ -5121,37 +5129,39 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$801.50 $801
+$863.94 $864
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 73-G.
 
-Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Economía para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por esta dependencia, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $12,870.80
+Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Economía para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, tecnologías o procedimientos alternativos a los previstos en las Normas Oficiales Mexicanas expedidas por esta dependencia, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $13,873.44 $13,873
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 73-H.
 
-Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la autorización de prórroga de etiquetado por Inexactitud de Datos, se pagarán los derechos conforme a la cuota de: $10,272.79 $10,273
+Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la autorización de prórroga de etiquetado por Inexactitud de Datos, se pagarán los derechos conforme a la cuota de: $11,073.04 $11,073
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 73-I.
 
-Por la recepción y estudio de la solicitud y, en su caso, la emisión de dictamen de cumplimiento de los dispositivos de seguridad esenciales en vehículos nuevos, se pagarán los derechos conforme a la cuota de: $9,988.99 $9,989
+Por la recepción y estudio de la solicitud y, en su caso, la emisión de dictamen de cumplimiento de los dispositivos de seguridad esenciales en vehículos nuevos, se pagarán los derechos conforme a la cuota de: $10,767.13 $10,767
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 73-J.
 
-Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la aprobación de organismos de certificación, unidades de inspección, laboratorios de prueba o laboratorios de calibración, para evaluar la conformidad de Normas Oficiales Mexicanas emitidas por la Secretaría de Economía, así como Estándares y Normas Internacionales referidos en dichas Normas, se pagarán los derechos conforme a la cuota de: $10,521.69 $10,522
+Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la aprobación de organismos de certificación, unidades de inspección, laboratorios de prueba o laboratorios de calibración, para evaluar la conformidad de Normas Oficiales Mexicanas emitidas por la Secretaría de Economía, así como Estándares y Normas Internacionales referidos en dichas Normas, se pagarán los derechos conforme a la cuota de: $11,341.33 $11,341
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -5185,7 +5195,7 @@ Por la recepción y estudio de la solicitud, dictaminación y, en su caso, la ap
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -5197,7 +5207,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$210,818.13 $210,818
+$227,240.86 $227,241
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -5213,7 +5223,7 @@ Los ingresos que se obtengan por la recaudación del derecho a que se refiere el
 
 #### SECCION SEPTIMA. Servicios de Certificación de Firma Electrónica en Actos de Comercio
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -5231,19 +5241,19 @@ acreditación como prestador del servicio de
 
 certificación para la emisión de certificados
 
-digitales $61,514.95 $61,515
+digitales $66,306.96 $66,307
 
 II. Por la acreditación como prestador del
 
 servicio de certificación para la emisión de
 
-certificados digitales $294,772.30 $294,772
+certificados digitales $317,735.06 $317,735
 
 III. Por el cese voluntario como prestador
 
 del servicio de certificación para la emisión
 
-de certificados digitales $216,074.64 $216,075
+de certificados digitales $232,906.85 $232,907
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -5263,7 +5273,7 @@ de documentos impresos de certificados
 
 digitales u otros servicios adicionales
 
-relacionados con la firma electrónica $30,922.04 $30,922
+relacionados con la firma electrónica $33,330.87 $33,331
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -5279,7 +5289,7 @@ de documentos impresos de certificados
 
 digitales u otros servicios adicionales
 
-relacionados con la firma electrónica $189,859.65 $189,860
+relacionados con la firma electrónica $204,649.72 $204,650
 
 (REUBICADA CON LOS ARTÍCULOS QUE LA INTEGRAN [N. DE E. ANTES SECCIÓN SÉPTIMA DEL CAPÍTULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -5399,7 +5409,7 @@ III.- Lugares en donde exista personal adscrito las 24 horas del día.
 
 IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la sanidad fitopecuaria del país.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -5419,7 +5429,7 @@ movilización nacional de productos y
 
 subproductos vegetales sujetos a regulación
 
-fitosanitaria $127.32 $127
+fitosanitaria $137.24 $137
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5429,7 +5439,7 @@ movilización nacional de animales vivos,
 
 productos y subproductos animales, sujetos
 
-a regulación zoosanitaria $127.32 $127
+a regulación zoosanitaria $137.24 $137
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5437,7 +5447,7 @@ III.- Por cada certificado fitosanitario internacional
 
 para la exportación de vegetales, sus productos
 
-y subproductos $637.80 $638
+y subproductos $687.48 $687
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5449,7 +5459,7 @@ y subproductos, así como productos químicos,
 
 farmacéuticos, biológicos y alimenticios para
 
-uso en animales y consumo por éstos $637.80 $638
+uso en animales y consumo por éstos $687.48 $687
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5457,7 +5467,7 @@ V.- Por cada certificado fitosanitario internacional
 
 para la importación de vegetales, sus productos
 
-y subproductos $2,750.30 $2,750
+y subproductos $2,964.55 $2,965
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5471,7 +5481,7 @@ químicos, farmacéuticos, biológicos y
 
 alimenticios para uso en animales y consumo
 
-por éstos $2,750.30 $2,750
+por éstos $2,964.55 $2,965
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -5479,7 +5489,7 @@ VII. Por cada autorización de la certificación
 
 como establecimiento Tipo Inspección Federal
 
-(TIF) o ampliación de la misma $25,102.87 $25,103
+(TIF) o ampliación de la misma $27,058.38 $27,058
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5495,7 +5505,7 @@ tratamiento hidrotérmico, empresas de tratamiento
 
 cuarentenario, centros de acopio de granos y
 
-semillas regulados $1,233.36 $1,233
+semillas regulados $1,329.44 $1,329
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -5509,7 +5519,7 @@ productos biológicos, químicos, farmacéuticos
 
 o alimenticios para uso o consumo de dichas
 
-especies $2,775.37 $2,775
+especies $2,991.57 $2,992
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -5531,7 +5541,7 @@ En caso de que la expedición de los certificados señalados en las fracciones V
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -5543,9 +5553,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$3,083.51 $3,084
+$3,323.72 $3,324
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -5563,23 +5573,23 @@ I.- Personas Físicas: Médico Veterinario
 
 Responsable, Tercero Especialista o
 
-Profesional Autorizado $948.29 $948
+Profesional Autorizado $1,022.16 $1,022
 
-II.- Organismos de certificación $112,717.88 $112,718
+II.- Organismos de certificación $121,498.60 $121,499
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Unidades de verificación:
 
-a).- Personas físicas $1,063.15 $1,063
+a).- Personas físicas $1,145.97 $1,146
 
-b).- Personas morales $8,608.87 $8,609
+b).- Personas morales $9,279.50 $9,279
 
-IV.- Laboratorios de pruebas $3,402.59 $3,403
+IV.- Laboratorios de pruebas $3,667.65 $3,668
 
 V. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5591,9 +5601,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$8,154.49 $8,154
+$8,789.72 $8,790
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -5605,7 +5615,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$74,464.92 $74,465
+$80,265.74 $80,266
 
 En caso de que los autorizados para operar alguno de los establecimientos antes señalados, solicite un cambio o ampliación de mercancías, cambio de domicilio del punto o ampliación de las instalaciones, se pagará el 50% de los derechos previstos en el párrafo anterior.
 
@@ -5617,7 +5627,7 @@ En caso de que los autorizados para operar alguno de los establecimientos antes 
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5629,7 +5639,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$1,669.36 $1,669
+$1,799.40 $1,799
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -5641,7 +5651,7 @@ Los ingresos que se obtengan por la recaudación de derechos a que se refiere es
 
 #### SECCION TERCERA. Certificación y protección del obtentor de variedades vegetales
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5655,21 +5665,21 @@ Sin ajuste Con ajuste
 
 I.- Por el estudio y trámite de la solicitud de
 
-protección de derechos del obtentor $19,991.37 $19,991
+protección de derechos del obtentor $21,548.70 $21,549
 
 II.- Por la expedición de la constancia
 
-de presentación $1,063.15 $1,063
+de presentación $1,145.97 $1,146
 
-III.- Por la expedición del título del obtentor $9,782.80 $9,783
+III.- Por la expedición del título del obtentor $10,544.88 $10,545
 
 IV.- Por el reconocimiento del derecho
 
-de prioridad $1,063.15 $1,063
+de prioridad $1,145.97 $1,146
 
-V.- Por cambio de denominación $2,700.80 $2,701
+V.- Por cambio de denominación $2,911.19 $2,911
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5683,25 +5693,25 @@ Sin ajuste Con ajuste
 
 I. (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
-II.- Por cada copia certificada del Título $539.86 $540
+II.- Por cada copia certificada del Título $581.92 $582
 
 REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
 III.- Por el registro de la transmisión total o
 
-parcial del derecho $955.98 $956
+parcial del derecho $1,030.45 $1,030
 
 IV.- Copia de la caracterización de la
 
-variedad protegida $539.92 $540
+variedad protegida $581.98 $582
 
 V.- Por la presentación de correcciones e
 
 Información adicional por causa imputable
 
-al usuario. $350.83 $351
+al usuario. $378.16 $378
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 89.
 
@@ -5711,7 +5721,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$4,172.01 $4,172
+$4,497.01 $4,497
 
 ###### ARTICULO 89-A.
 
@@ -5723,7 +5733,7 @@ $4,172.01 $4,172
 
 Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Sección, cuando los servicios sean prestados a instituciones de enseñanza e investigación, públicas o propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5737,21 +5747,21 @@ Sin ajuste Con ajuste
 
 I.- Por la expedición de certificado de origen
 
-para exportación, por cada uno $470.11 $470
+para exportación, por cada uno $506.73 $507
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 II.- Por la expedición de certificados de
 
-calidad, por etiqueta $2.64 $3
+calidad, por etiqueta $2.85 $3
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 III.- Por la autorización a personas físicas o morales como organismos de certificación de semillas o como mantenedores de la identidad varietal:
 
-a).- Autorización $12,760.28 $12,760
+a).- Autorización $13,754.31 $13,754
 
-b).- Por refrendo anual $6,380.02 $6,380
+b).- Por refrendo anual $6,877.02 $6,877
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -5759,7 +5769,7 @@ IV.- Por el estudio de la solicitud y, en su caso,
 
 la inscripción en el catálogo de variedades
 
-factibles de certificación $392.05 $392
+factibles de certificación $422.59 $423
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5767,7 +5777,7 @@ V.- Por la expedición del certificado
 
 internacional de calidad de semilla,
 
-por etiqueta $4.92 $5
+por etiqueta $5.30 $5
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5775,13 +5785,13 @@ VI.- Por la expedición de certificado
 
 Internacional de calidad, para semilla
 
-finalmente no certificada $490.25 $490
+finalmente no certificada $528.44 $528
 
 > <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCION CUARTA. Sanidad Acuícola
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5803,7 +5813,7 @@ productos biológicos, químicos, farmacéuticos
 
 o alimenticios para uso o consumo de dichas
 
-especies $817.06 $817
+especies $880.71 $881
 
 III. Para tránsito internacional de especies
 
@@ -5813,7 +5823,7 @@ así como productos biológicos, químicos,
 
 farmacéuticos o alimenticios para uso o
 
-consumo de dichas especies $678.18 $678
+consumo de dichas especies $731.01 $731
 
 IV. Para movilización de especies acuícolas
 
@@ -5823,7 +5833,7 @@ de productos biológicos, químicos,
 
 farmacéuticos o alimenticios parauso o
 
-consumo de dichas especies $653.67 $654
+consumo de dichas especies $704.59 $705
 
 V. Para establecimientos en operación
 
@@ -5837,7 +5847,7 @@ así como productos químicos, biológicos,
 
 farmacéuticos y alimenticios para el uso
 
-o consumo de dichas especies $3,595.17 $3,595
+o consumo de dichas especies $3,875.23 $3,875
 
 VI. Para uso y aplicación de antibióticos,
 
@@ -5845,27 +5855,27 @@ Medicamentos veterinarios, aditivos y
 
 demás sustancias químicas a los organismos
 
-de cultivo $1,585.14 $1,585
+de cultivo $1,708.62 $1,709
 
 VII. Para introducción de especies acuícolas
 
 vivas a un cuerpo de agua de jurisdicción
 
-federal $653.67 $654
+federal $704.59 $705
 
 VIII. Para instalaciones en las que se realicen
 
-actividades acuícolas $3,595.17 $3,595
+actividades acuícolas $3,875.23 $3,875
 
 IX. Para especies acuáticas vivas capturadas
 
 de poblaciones naturales que se destinen a la
 
-acuacultura $653.67 $654
+acuacultura $704.59 $705
 
-X. Para unidades de cuarentena $3,595.17 $3,595
+X. Para unidades de cuarentena $3,875.23 $3,875
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5877,7 +5887,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$653.67 $654
+$704.59 $705
 
 ###### ARTICULO 90-C.
 
@@ -5895,7 +5905,7 @@ $653.67 $654
 
 #### SECCION QUINTA. De los Organismos Genéticamente Modificados
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -5911,25 +5921,25 @@ I. Por el permiso de liberación experimental
 
 al ambiente de organismos genéticamente
 
-modificados, incluyendo su importación $68,113.52 $68,114
+modificados, incluyendo su importación $73,419.56 $73,420
 
 II. Por el permiso de liberación al ambiente
 
 en programa piloto de organismos genéticamente
 
-modificados, incluyendo su importación $68,113.52 $68,114
+modificados, incluyendo su importación $73,419.56 $73,420
 
 III. Por el permiso de liberación comercial al
 
 ambiente de organismos genéticamente
 
-modificados, incluyendo su importación $68,113.52 $68,114
+modificados, incluyendo su importación $73,419.56 $73,420
 
 Tratándose de la solicitud de reconsideración
 
 de resolución negativa de cada permiso a que
 
-se refiere este artículo, se pagar la cuota de $21,227.78 $21,228
+se refiere este artículo, se pagar la cuota de $22,881.42 $22,881
 
 ###### ARTICULO 90-G.
 
@@ -6389,7 +6399,7 @@ se refiere este artículo, se pagar la cuota de $21,227.78 $21,228
 
 #### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -6413,13 +6423,13 @@ a). Para la operación y explotación de los servicios de autotransporte federal
 
 vehicular, dos placas, calcomanía de identificación
 
-vehicular y tarjeta de circulación $4,320.49 $4,320
+vehicular y tarjeta de circulación $4,657.06 $4,657
 
 Cuando los servicios a que se refiere el
 
 presente numeral sean solicitados a través
 
-de medios electrónicos $3,295.07 $3,295
+de medios electrónicos $3,551.76 $3,552
 
 2. (DEROGADO, D.O.F. 8 DE DICIEMBRE DE 2020)
 
@@ -6439,13 +6449,13 @@ internacional de pasajeros, turismo y carga;
 
 para operar servicios transfronterizos
 
-de turismo $806.93 $807
+de turismo $869.79 $870
 
 Cuando los servicios a que se refiere el
 
 presente numeral sean solicitados a través
 
-de medios electrónicos $261.92 $262
+de medios electrónicos $282.32 $282
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6455,7 +6465,7 @@ vehículos que transportan pasajeros y
 
 cargas de hasta 4.50 metros de altura,
 
-por permiso especial $789.50 $789
+por permiso especial $851.00 $851
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -6467,7 +6477,7 @@ y explotación de terminales de
 
 pasajeros del autotransporte federal,
 
-por permiso. $2,563.21 $2,563
+por permiso. $2,762.88 $2,763
 
 II.- Autorizaciones:
 
@@ -6475,23 +6485,23 @@ a).- Para la cesión de derechos y
 
 obligaciones establecidos en los
 
-permisos, por trámite. $2,699.72 $2,700
+permisos, por trámite. $2,910.03 $2,910
 
 b).- Para el traslado de mancuernas,
 
 tricuernas, cuatricuernas y
 
-pentacuernas, por permiso. $2,380.56 $2,381
+pentacuernas, por permiso. $2,566.01 $2,566
 
 c).- Para el inicio de operación de terminal de autotransporte de pasajeros, por autorización:
 
-1.- Central. $15,493.78 $15,494
+1.- Central. $16,700.75 $16,701
 
-2.- Individual. $2,761.93 $2,762
+2.- Individual. $2,977.08 $2,977
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-d) Especiales de conectividad a usuarios o transportistas de carga consolidada, permisionarios de pasaje o turismo, para utilizar un camino de menor clasificación, por autorización $789.50 $789
+d) Especiales de conectividad a usuarios o transportistas de carga consolidada, permisionarios de pasaje o turismo, para utilizar un camino de menor clasificación, por autorización $851.00 $851
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
@@ -6505,13 +6515,13 @@ de autotransporte federal en sus diversas
 
 modalidades, servicios auxiliares y de
 
-arrendamiento, por placa $1,103.98 $1,104
+arrendamiento, por placa $1,189.98 $1,190
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 b). Reposición de calcomanía de identificación
 
-vehicular, por calcomanía $178.64 $179
+vehicular, por calcomanía $192.56 $193
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -6523,11 +6533,11 @@ para los servicios de autotransporte federal
 
 en sus diversas modalidades, servicios
 
-auxiliares y de arrendamiento, por tarjeta $640.31 $640
+auxiliares y de arrendamiento, por tarjeta $690.19 $690
 
 1.- Por la modificación o reposición
 
-de la tarjeta de circulación, por tarjeta. $256.95 $257
+de la tarjeta de circulación, por tarjeta. $276.97 $277
 
 B. Canje de placas metálicas y calcomanías de identificación:
 
@@ -6539,13 +6549,13 @@ servicio de carga, pasajeros, turismo,
 
 servicios auxiliares, arrendamiento y
 
-traslado, por vehículo. $2,252.14 $2,252
+traslado, por vehículo. $2,427.58 $2,428
 
 II.- Canje de placa metálica y calcomanía de
 
 identificación para remolque y semirremolque,
 
-por vehículo. $1,122.05 $1,122
+por vehículo. $1,209.46 $1,209
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -6555,15 +6565,15 @@ I. Emisión de la licencia federal digital
 
 de conductor, por una categoría en la
 
-modalidad nacional o internacional $174.27 $174
+modalidad nacional o internacional $187.85 $188
 
 II. Solicitud de categoría adicional,
 
 cambio de categoría o cambio de
 
-modalidad $174.27 $174
+modalidad $187.85 $188
 
-III. Renovación de categoría $174.27 $174
+III. Renovación de categoría $187.85 $188
 
 D. Servicios diversos:
 
@@ -6577,7 +6587,7 @@ Incluye alta de vehículo, dos placas,
 
 calcomanía de identificación vehicular
 
-y tarjeta de circulación $3,572.83 $3,573
+y tarjeta de circulación $3,851.15 $3,851
 
 Cuando los servicios a que se refiere
 
@@ -6585,7 +6595,7 @@ el presente inciso sean solicitados a
 
 través de medios electrónicos, por
 
-cada vehículo motriz $3,052.41 $3,052
+cada vehículo motriz $3,290.19 $3,290
 
 b). Por cada unidad de arrastre.
 
@@ -6593,7 +6603,7 @@ Incluye alta de vehículo, una placa,
 
 calcomanía de identificación
 
-vehicular y tarjeta de circulación $2,550.21 $2,550
+vehicular y tarjeta de circulación $2,748.87 $2,749
 
 Cuando los servicios a que se refiere
 
@@ -6601,7 +6611,7 @@ el presente inciso sean solicitados a
 
 través de medios electrónicos, por
 
-cada unidad de arrastre $2,029.80 $2,030
+cada unidad de arrastre $2,187.92 $2,188
 
 c). Por cada vehículo automotor, remolque
 
@@ -6613,7 +6623,7 @@ federal y servicios auxiliares; o cambio de
 
 modalidad. Incluye alta de vehículo y
 
-modificación de la tarjeta de circulación $1,007.18 $1,007
+modificación de la tarjeta de circulación $1,085.64 $1,086
 
 Cuando los servicios a que se refiere el
 
@@ -6621,7 +6631,7 @@ presente inciso sean solicitados a través
 
 de medios electrónicos, por cada vehículo
 
-automotor, remolque o semirremolque $486.76 $487
+automotor, remolque o semirremolque $524.68 $525
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6633,7 +6643,7 @@ camino de menor clasificación para
 
 autotransporte federal de pasajeros o
 
-de turismo, por dictamen $789.50 $789
+de turismo, por dictamen $851.00 $851
 
 III.- Suscripción de convenio anual celebrado
 
@@ -6643,19 +6653,19 @@ Transportes con las empresas fabricantes y
 
 distribuidoras de vehículos nuevos y empresas
 
-trasladistas, por convenio. $180.65 $181
+trasladistas, por convenio. $194.72 $195
 
 IV.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
 a).- Por el pago de la renta mensual
 
-de placas de traslado, por vehículo. $899.25 $899
+de placas de traslado, por vehículo. $969.30 $969
 
 b).- Expedición o reposición de placa
 
 metálica de identificación de traslado,
 
-por vehículo. $1,091.93 $1,092
+por vehículo. $1,176.99 $1,177
 
 V.- Por el otorgamiento de cada juego
 
@@ -6667,7 +6677,7 @@ entregue a los centros de verificación
 
 de emisiones contaminantes de los
 
-vehículos de pasaje y carga. $20.06 $20
+vehículos de pasaje y carga. $21.62 $22
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6689,7 +6699,7 @@ del peso y dimensiones máximos que establece la
 
 Norma Oficial Mexicana correspondiente, en cada
 
-embarque transportado, por aprobación $1,502.32 $1,502
+embarque transportado, por aprobación $1,619.35 $1,619
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6707,13 +6717,13 @@ de peso y dimensiones máximos que establece
 
 la Norma Oficial Mexicana correspondiente, en
 
-cada embarque transportado, por aprobación $1,502.32 $1,502
+cada embarque transportado, por aprobación $1,619.35 $1,619
 
 VIII.- Por el estudio y, en su caso, aprobación
 
 de la instalación de unidades de verificación o
 
-laboratorios de prueba, por unidad. $1,535.52 $1,536
+laboratorios de prueba, por unidad. $1,655.14 $1,655
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -6725,9 +6735,9 @@ de la Norma Oficial Mexicana correspondiente,
 
 de acuerdo con lo que establece la Ley Federal
 
-sobre Metrología y Normalización, por aprobación $1,502.32 $1,502
+sobre Metrología y Normalización, por aprobación $1,619.35 $1,619
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -6741,27 +6751,27 @@ Sin ajuste Con ajuste
 
 I.- Expedición de permiso para transporte
 
-privado, por permiso. $2,298.25 $2,298
+privado, por permiso. $2,477.28 $2,477
 
 II.- Expedición de la tarjeta de circulación
 
-para el transporte privado, por tarjeta. $1,346.87 $1,347
+para el transporte privado, por tarjeta. $1,451.79 $1,452
 
 III.- Reposición o modificación de la tarjeta
 
 de circulación para el transporte privado,
 
-por tarjeta. $411.50 $411
+por tarjeta. $443.56 $444
 
 IV.- Revalidación de la tarjeta de circulación
 
-para el transporte privado, por tarjeta. $1,103.98 $1,104
+para el transporte privado, por tarjeta. $1,189.98 $1,190
 
 V.- Alta de vehículo automotor, remolque o
 
 semirremolque en el permiso de transporte
 
-privado de personas o carga, por vehículo. $828.98 $829
+privado de personas o carga, por vehículo. $893.56 $894
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -6769,17 +6779,17 @@ Cuando los permisos a que se refiere la
 
 presente fracción sean solicitados a través de
 
-medios electrónicos, por vehículo $267.97 $268
+medios electrónicos, por vehículo $288.84 $289
 
 VI.- Permiso para el transporte de materiales
 
-peligrosos y sus residuos, por permiso. $2,507.03 $2,507
+peligrosos y sus residuos, por permiso. $2,702.33 $2,702
 
 VII.- Permiso especial por un año para el
 
 tránsito de grúas industriales del servicio
 
-privado, por vehículo, por permiso. $806.90 $807
+privado, por vehículo, por permiso. $869.76 $870
 
 VIII.- Permiso por un solo viaje para vehículos
 
@@ -6787,7 +6797,7 @@ privados de autotransporte de objetos
 
 voluminosos o de gran peso, con exceso de
 
-peso o dimensión, por permiso. $768.77 $769
+peso o dimensión, por permiso. $828.66 $829
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -6805,7 +6815,7 @@ peso o dimensión, por permiso. $768.77 $769
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -6821,7 +6831,7 @@ I.- Por extensión de horario de los servicios de
 
 control de tránsito aéreo, por cada minuto o
 
-fracción, conforme a la cuota de $16.92 $17
+fracción, conforme a la cuota de $18.24 $18
 
 II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -6881,7 +6891,7 @@ VI.- Que participen en festivales aéreos organizados por la autoridad aeronáut
 
 (DEROGADO, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6893,9 +6903,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por cada concesión de Aeropuertos $42,534.88 $42,535
+I.- Por cada concesión de Aeropuertos $45,848.35 $45,848
 
-a).- Por su modificación $5,316.72 $5,317
+a).- Por su modificación $5,730.89 $5,731
 
 II.- Por cada permiso de:
 
@@ -6909,7 +6919,7 @@ servicios generales; helipuertos de servicio
 
 privado; helipuertos de servicio privado con
 
-contrato con terceros o hidroaeródromos $10,633.56 $10,634
+contrato con terceros o hidroaeródromos $11,461.91 $11,462
 
 b).- Explotación de aeródromos de servicio
 
@@ -6921,7 +6931,7 @@ servicios generales; helipuertos de servicio
 
 privado; helipuertos de servicio privado con
 
-contrato con terceros o hidroaeródromos $10,633.56 $10,634
+contrato con terceros o hidroaeródromos $11,461.91 $11,462
 
 c).- Ampliación o remodelación de la infraestructura
 
@@ -6935,25 +6945,25 @@ generales; helipuertos de servicio privado;
 
 helipuertos de servicio privado con contrato
 
-con terceros o hidroaeródromos $10,633.56 $10,634
+con terceros o hidroaeródromos $11,461.91 $11,462
 
 d).- Por la modificación de los permisos a que
 
-se refiere esta fracción $5,316.72 $5,317
+se refiere esta fracción $5,730.89 $5,731
 
 III.- (DEROGADA, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-a).- De uso privado $5,316.72 $5,317
+a).- De uso privado $5,730.89 $5,731
 
-b).- De uso público $21,267.34 $21,267
+b).- De uso público $22,924.07 $22,924
 
-c).- Para aviones agrícolas $2,126.56 $2,127
+c).- Para aviones agrícolas $2,292.22 $2,292
 
 d).- Para aerostatos, aviones ultraligeros
 
-u otros análogos $2,126.56 $2,127
+u otros análogos $2,292.22 $2,292
 
 V.- Por la autorización de extensión de horario
 
@@ -6961,7 +6971,7 @@ en los aeródromos civiles, por cada media hora
 
 o fracción con tolerancia de cinco minutos
 
-posteriores a la media hora $637.80 $638
+posteriores a la media hora $687.48 $687
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -6979,7 +6989,7 @@ d). La verificación y certificación de radares y radioayudas a la navegación 
 
 e). Participar en festivales aéreos organizados por la autoridad aeronáutica.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6993,9 +7003,9 @@ Sin ajuste Con ajuste
 
 I.- Por verificación mayor o verificación a las
 
-condiciones de concesiones y permisos $8,527.70 $8,528
+condiciones de concesiones y permisos $9,192.01 $9,192
 
-II.- Por verificación menor $1,701.19 $1,701
+II.- Por verificación menor $1,833.71 $1,834
 
 III.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
@@ -7011,13 +7021,13 @@ aéreos y sobre aspectos específicos a
 
 concesionarios y permisionarios en especial a
 
-las aeronaves, sus partes y refacciones $539.97 $540
+las aeronaves, sus partes y refacciones $582.03 $582
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 No se pagará el derecho a que se refiere esta fracción cuando se verifique a los Centros de Formación, Capacitación y Adiestramiento operados por la Secretaría de Comunicaciones y Transportes.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 156.
 
@@ -7027,13 +7037,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$119,523.48 $119,523
+$128,834.36 $128,834
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 No se pagará el derecho a que se refiere este artículo por los servicios de certificación mediante vuelos de inspección a las instalaciones de ayudas a la navegación aérea propiedad de la Secretaría de Comunicaciones y Transportes operadas por la misma.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7049,9 +7059,9 @@ Sin ajuste Con ajuste
 
 I. Por la expedición de cada certificado de capacidad, licencia o permiso para:
 
-a).- Personal de vuelo $1,701.19 $1,701
+a).- Personal de vuelo $1,833.71 $1,834
 
-b).- Personal de tierra $1,275.82 $1,276
+b).- Personal de tierra $1,375.21 $1,375
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7061,17 +7071,17 @@ Por la recuperación de licencia se pagará la misma cuota establecida en los in
 
 II.- Por la revalidación de licencia al:
 
-a).- Personal de vuelo $850.42 $850
+a).- Personal de vuelo $916.67 $917
 
-b).- Personal de tierra $637.80 $638
+b).- Personal de tierra $687.48 $687
 
-III.- Por reposición de la licencia $637.80 $638
+III.- Por reposición de la licencia $687.48 $687
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 No se pagarán los derechos a que se refieren las fracciones I y II de este artículo cuando los servicios correspondientes sean solicitados por el personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7087,15 +7097,15 @@ I.- Por la expedición de los siguientes certificados:
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-a) De aeronavegabilidad $4,002.04 $4,002
+a) De aeronavegabilidad $4,313.80 $4,314
 
-b).- De matrícula $2,126.56 $ 2,127
+b).- De matrícula $2,292.22 $2,292
 
 c). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 d).- De aeronavegabilidad o matrículas de
 
-aeronaves agrícolas $ 1,275.82 $ 1,276
+aeronaves agrícolas $1,375.21 $1,375
 
 e).- De aeronavegabilidad o matrícula de
 
@@ -7103,25 +7113,25 @@ aerostatos, aeronaves ultraligeras u otros
 
 análogos, cuando operen fuera de las áreas
 
-geográficas autorizadas a sus clubes $ 1,275.82 $ 1,276
+geográficas autorizadas a sus clubes $1,375.21 $1,375
 
 II.- Por la expedición de certificados de
 
-homologación por emisión de ruido $ 1,275.82 $ 1,276
+homologación por emisión de ruido $1,375.21 $1,375
 
 III.- Por la renovación o reposición del certificado
 
-de aeronavegabilidad o matrícula $ 2,126.56 $ 2,127
+de aeronavegabilidad o matrícula $2,292.22 $2,292
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 IV. Por la expedición del certificado
 
-de aeródromo $ 12,910.44 $12,910
+de aeródromo $13,916.16 $13,916
 
 V.- Por la asignación de marcas de nacionalidad
 
-y matrícula con siglas especiales $ 27,833.32 $ 27,833
+y matrícula con siglas especiales $30,001.54 $30,002
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7129,15 +7139,15 @@ VI. Por la expedición del certificado de
 
 especificaciones del sistema de gestión
 
-de seguridad operacional $ 46,115.95 $46,116
+de seguridad operacional $49,708.38 $49,708
 
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 VII. Por la expedición del certificado de producción
 
-de aeronaves y sus componentes $ 24,073.36 $24,073
+de aeronaves y sus componentes $25,948.67 $25,949
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7147,13 +7157,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por el otorgamiento $73,751.53 $73,752
+I. Por el otorgamiento $79,496.77 $79,497
 
-II. Por la renovación $ 5,608.39 $5,608
+II. Por la renovación $6,045.28 $6,045
 
-III. Por la convalidación $ 2,047.38 $2,047
+III. Por la convalidación $2,206.87 $2,207
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7165,9 +7175,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Concesión $ 42,534.88 $ 42,535
+I.- Concesión $45,848.35 $45,848
 
-II.- Permiso $ 21,267.34 $ 21,267
+II.- Permiso $22,924.07 $22,924
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -7175,17 +7185,17 @@ No se pagará el derecho establecido en esta fracción cuando los permisos se ot
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-III. Autorización $ 1,940.50 $1,940
+III. Autorización $2,091.66 $2,092
 
-IV.- Permiso de aeronaves para uso agrícola $ 10,633.56 $ 10,634
+IV.- Permiso de aeronaves para uso agrícola $11,461.91 $11,462
 
 V.- Autorización de clubes aéreos y de
 
-Aeromodelismo $ 2,126.56 $ 2,127
+Aeromodelismo $2,292.22 $2,292
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 160.
 
@@ -7195,13 +7205,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$2,126.56 $2,127
+$2,292.22 $2,292
 
-Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $1,275.82 $1,276
+Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $1,375.21 $1,375
 
 cada vuelo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -7213,7 +7223,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$2,363.41 $2,363
+$2,547.52 $2,548
 
 No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
@@ -7221,7 +7231,7 @@ No se pagarán los derechos a que se refiere este artículo cuando los servicios
 
 #### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -7233,7 +7243,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$593.95 $594
+$640.22 $640
 
 ###### ARTICULO 163.
 
@@ -7243,7 +7253,7 @@ $593.95 $594
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7267,29 +7277,29 @@ III.- Por la expedición de autorización para la permanencia de artefactos nava
 
 a).- Hasta 500 unidades de arqueo
 
-bruto $11.7132
+bruto $12.6257
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 b).- De 500.01 hasta 1,000 unidades de arqueo
 
-bruto $9.6842
+bruto $10.4386
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 c).- De 1,000.01 hasta 5,000 unidades de arqueo
 
-bruto $8.0463
+bruto $8.6731
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 d).- De 5,000.01 hasta 15,000 unidades de arqueo
 
-bruto $6.0324
+bruto $6.5023
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-e).- De 15,000.01 en adelante $ 4.0181
+e).- De 15,000.01 en adelante $4.3311
 
 IV.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -7301,29 +7311,29 @@ VI. Por la expedición del permiso de navegación para embarcaciones mercantes e
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-a).- Hasta 500 unidades de arqueo bruto $43.83 $44
+a).- Hasta 500 unidades de arqueo bruto $47.24 $47
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 b).- De 500.01 hasta 1,000 unidades de arqueo
 
-bruto $36.32 $36
+bruto $39.15 $39
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 c).- De 1,000.01 hasta 5,000 unidades de arqueo
 
-bruto $30.45 $30
+bruto $32.82 $33
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 d).- De 5,000.01 hasta 15,000 unidades de arqueo
 
-bruto $22.87 $23
+bruto $24.65 $25
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-e).- De 15,000.01 en adelante $ 15.21 $ 15
+e).- De 15,000.01 en adelante $16.39 $16
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7331,7 +7341,7 @@ VII. Por la expedición del permiso especial para servicio de
 
 pasajeros a partir de 2 unidades de arqueo bruto, por unidad
 
-de arqueo bruto o fracción $10.33 $10
+de arqueo bruto o fracción $11.13 $11
 
 VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -7363,7 +7373,7 @@ I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
 
 II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -7383,7 +7393,7 @@ a la administración portuaria integral o a la
 
 construcción, operación y explotación de
 
-terminales marinas e instalaciones portuarias $ 72,946.91 $ 72,947
+terminales marinas e instalaciones portuarias $78,629.47 $78,629
 
 II.- Permiso para la prestación de servicios
 
@@ -7393,11 +7403,11 @@ embarcaderos, atracaderos, botaderos y
 
 demás similares en las vías generales de
 
-comunicación por agua $ 18,529.29 $ 18,529
+comunicación por agua $19,972.72 $19,973
 
 III.- Autorización para la construcción de
 
-obras marítimas y de dragado $ 58,123.45 $ 58,123
+obras marítimas y de dragado $62,651.27 $62,651
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -7417,7 +7427,7 @@ IV.- Las instalaciones de señales marítimas y maniobras de rescate.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7439,19 +7449,19 @@ a).- Embarcaciones de pasajeros, de hasta 499.99 unidades
 
 de arqueo bruto, equipadas para brindar servicios de
 
-pernocta, descanso y recreativos a bordo y en puerto $20,645.06 $20,645
+pernocta, descanso y recreativos a bordo y en puerto $22,253.31 $22,253
 
 b).- Embarcaciones de 500 hasta 1,000
 
-unidades de arqueo bruto $43,166.92 $43,167
+unidades de arqueo bruto $46,529.62 $46,530
 
 c).- Embarcaciones de 1,000.01 hasta
 
-5,000.00 unidades de arqueo bruto $57,244.22 $57,244
+5,000.00 unidades de arqueo bruto $61,703.54 $61,704
 
 d).- Embarcaciones de más de 5,000.01
 
-unidades de arqueo bruto $66,628.36 $66,628
+unidades de arqueo bruto $71,818.71 $71,819
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7459,15 +7469,15 @@ II.- Transporte de pasajeros en navegación de cabotaje:
 
 a).- Embarcaciones cuya capacidad sea
 
-hasta 3.5 unidades de arqueo bruto $917.50 $917
+hasta 3.5 unidades de arqueo bruto $988.97 $989
 
 b).- Embarcaciones mayores a 3.5 y menores
 
-de 500 unidades de arqueo bruto $1,835.00 $1,835
+de 500 unidades de arqueo bruto $1,977.95 $1,978
 
 c).- Embarcaciones de 500 o más unidades
 
-de arqueo bruto $3,670.00 $3,670
+de arqueo bruto $3,955.89 $3,956
 
 III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -7529,7 +7539,7 @@ IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7549,7 +7559,7 @@ II.- Títulos profesionales al Personal de la
 
 marina mercante nacional, tanto de cubierta
 
-como de máquinas $1,233.99 $1,234
+como de máquinas $1,330.12 $1,330
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -7557,13 +7567,13 @@ III.- Certificados de competencia para mandar
 
 embarcaciones, tanto en el departamento de
 
-cubierta como en el de máquinas $822.48 $822
+cubierta como en el de máquinas $886.55 $887
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 IV.- Certificados de competencia especial para
 
-mandar o laborar en buques especializados $1,645.58 $1,646
+mandar o laborar en buques especializados $1,773.77 $1,774
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -7573,21 +7583,21 @@ V.- Documento oficial para poder ejercer como tripulante en la categoría inmedi
 
 a).- Personal subalterno, para ejercer un cargo
 
-que requiera certificado de competencia $822.48 $822
+que requiera certificado de competencia $886.55 $887
 
-b).- Personal titulado $1,233.99 $1,234
+b).- Personal titulado $1,330.12 $1,330
 
 VI.- Expedición de refrendos de títulos a
 
-oficialidad de la marina mercante $616.73 $617
+oficialidad de la marina mercante $664.77 $665
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 VII.- Por la expedición de la autorización para
 
-prestar el servicio de pilotaje $924.77 $925
+prestar el servicio de pilotaje $996.81 $997
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -7603,9 +7613,9 @@ Sin ajuste Con ajuste
 
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-a).- Navegación de Altura $10,953.47 $10,953
+a).- Navegación de Altura $11,806.75 $11,807
 
-b).- Navegación de Cabotaje $7,823.52 $7,824
+b).- Navegación de Cabotaje $8,432.97 $8,433
 
 c).- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -7615,9 +7625,9 @@ II.- Por la expedición de la autorización para
 
 actuar como Agente Naviero General o Agente
 
-Naviero Protector $22,274.17 $22,274
+Naviero Protector $24,009.33 $24,009
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -7631,11 +7641,11 @@ Sin ajuste Con ajuste
 
 I. Para ejercer como institución educativa
 
-particular, o su renovación $13,643.24 $13,643
+particular, o su renovación $14,706.05 $14,706
 
 II. Para ejercer como instructor en instituciones
 
-educativas particulares, o su renovación $1,363.19 $1,363
+educativas particulares, o su renovación $1,469.38 $1,469
 
 ###### ARTICULO 171-C.
 
@@ -7653,7 +7663,7 @@ educativas particulares, o su renovación $1,363.19 $1,363
 
 #### SECCION OCTAVA. Otorgamiento de permisos
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7675,7 +7685,7 @@ carreteras y puentes de jurisdicción federal,
 
 por cada 100 metros o fracción que exceda
 
-de dicha longitud $2,997.24 $2,997
+de dicha longitud $3,230.72 $3,231
 
 II.- Estudios técnicos de planos, proyectos y
 
@@ -7685,7 +7695,7 @@ por cruzamientos superficiales, subterráneos o
 
 aéreos que atraviesen carreteras y puentes de
 
-jurisdicción federal $2,997.24 $2,997
+jurisdicción federal $3,230.72 $3,231
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -7709,129 +7719,129 @@ de telecomunicación que se realicen dentro de
 
 los derechos de vía de carreteras, puentes o vías
 
-férreas, por kilómetro o fracción $1,791.47 $1,791
+férreas, por kilómetro o fracción $1,931.03 $1,931
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-a).- Proyecto a realizar en terreno plano $29,349.03 $29,349
+a).- Proyecto a realizar en terreno plano $31,635.32 $31,635
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-1.- Geometría en corte $32,326.49 $32,326
+1.- Geometría en corte $34,844.72 $34,845
 
-2.- Geometría en terraplén $35,303.90 $35,304
+2.- Geometría en terraplén $38,054.07 $38,054
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-1.- Geometría en corte $38,281.35 $38,281
+1.- Geometría en corte $41,263.47 $41,263
 
-2.- Geometría en terraplén $41,258.84 $41,259
+2.- Geometría en terraplén $44,472.90 $44,473
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
 a).- Con superficie total del proyecto hasta
 
-3,000 M2 $68,906.67 $68,907
+3,000 M2 $74,274.50 $74,274
 
 b).- Con superficie total del proyecto hasta
 
-5,000 M2 $82,092.62 $82,093
+5,000 M2 $88,487.64 $88,488
 
 c).- Con superficie total del proyecto hasta
 
-10,000 M2 $96,129.10 $96,129
+10,000 M2 $103,617.56 $103,618
 
 d).- Con superficie mayor a los 10,000 M2,
 
-por cada 1,000 M2 adicionales $2,764.55 $2,765
+por cada 1,000 M2 adicionales $2,979.91 $2,980
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
 a).- Por obras desarrolladas en un tramo de
 
-1 Km. de longitud $29,349.03 $29,349
+1 Km. de longitud $31,635.32 $31,635
 
 b).- Por obras desarrolladas en un tramo
 
-no mayor de 5 Km. de longitud $35,303.90 $35,304
+no mayor de 5 Km. de longitud $38,054.07 $38,054
 
 c).- Por obras desarrolladas en un tramo
 
-no mayor de 20 Km. de longitud $41,258.84 $41,259
+no mayor de 20 Km. de longitud $44,472.90 $44,473
 
 d).- Por obras desarrolladas en un tramo mayor
 
-de 20 Km., por cada kilómetro adicional $425.15 $425
+de 20 Km., por cada kilómetro adicional $458.27 $458
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
 a).- Proyecto comprendido en un
 
-tramo no mayor de 1 Km. $5,954.70 $5,955
+tramo no mayor de 1 Km. $6,418.57 $6,419
 
 b).- Proyecto comprendido en un
 
-tramo no mayor de 5 Km. $11,909.56 $11,910
+tramo no mayor de 5 Km. $12,837.31 $12,837
 
 c).- Proyecto comprendido en un
 
-tramo no mayor de 20 Km. $14,461.70 $14,462
+tramo no mayor de 20 Km. $15,588.27 $15,588
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $425.15 $425
+kilómetro adicional $458.27 $458
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
 a).- Proyecto comprendido en un
 
-tramo no mayor de 1 Km $5,954.70 $5,955
+tramo no mayor de 1 Km $6,418.57 $6,419
 
 b).- Proyecto comprendido en un
 
-tramo no mayor de 5 Km $9,697.76 $9,698
+tramo no mayor de 5 Km $10,453.22 $10,453
 
 c).- Proyecto comprendido en un
 
-tramo no mayor de 20 Km $14,461.70 $14,462
+tramo no mayor de 20 Km $15,588.27 $15,588
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $425.15 $425
+kilómetro adicional $458.27 $458
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
 a).- Con superficie total del proyecto
 
-no mayor de 100 M2 $32,326.49 $32,326
+no mayor de 100 M2 $34,844.72 $34,845
 
 b).- Con superficie total del proyecto
 
-mayor de 100 M2 $45,512.34 $45,512
+mayor de 100 M2 $49,057.75 $49,058
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
 a).- Proyecto comprendido en un
 
-tramo no mayor de 1 Km $5,954.70 $5,955
+tramo no mayor de 1 Km $6,418.57 $6,419
 
 b).- Proyecto comprendido en un
 
-tramo no mayor de 5 Km $11,909.56 $11,910
+tramo no mayor de 5 Km $12,837.31 $12,837
 
 c).- Proyecto comprendido en un
 
-tramo no mayor de 20 Km $14,461.70 $14,462
+tramo no mayor de 20 Km $15,588.27 $15,588
 
 d).- Proyecto comprendido en un
 
 tramo mayor de 20 Km., por
 
-kilómetro adicional $425.15 $425
+kilómetro adicional $458.27 $458
 
 XIII.- Por revisión, permiso y supervisión
 
@@ -7841,13 +7851,13 @@ contemplados en el proyecto original o
 
 que requiera modificación en los caminos
 
-y puentes de cuota $8,932.15 $8,932
+y puentes de cuota $9,627.96 $9,628
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION NOVENA. Otros Servicios
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -7859,17 +7869,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Subterráneas $2,221.71 $2,222
+I.- Subterráneas $2,394.78 $2,395
 
-II.- Aéreos $2,221.71 $2,222
+II.- Aéreos $2,394.78 $2,395
 
-III.- A nivel $3,045.02 $3,045
+III.- A nivel $3,282.23 $3,282
 
-IV.- A desnivel $7,571.91 $7,572
+IV.- A desnivel $8,161.76 $8,162
 
-V.- Pasos superiores $15,062.14 $15,062
+V.- Pasos superiores $16,235.48 $16,235
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -7881,19 +7891,19 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Laderas o escapes $3,045.02 $3,045
+I.- Laderas o escapes $3,282.23 $3,282
 
-II.- Espuelas hasta 1,000 metros $4,526.36 $4,526
+II.- Espuelas hasta 1,000 metros $4,878.96 $4,879
 
-III.- Cortas vías $2,221.71 $2,222
+III.- Cortas vías $2,394.78 $2,395
 
-IV.- Patios y terminales $15,062.14 $15,062
+IV.- Patios y terminales $16,235.48 $16,235
 
-V.- Vías particulares $7,407.31 $7,407
+V.- Vías particulares $7,984.34 $7,984
 
-VI.- Levantamientos de vías $7,407.31 $7,407
+VI.- Levantamientos de vías $7,984.34 $7,984
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -7905,17 +7915,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Arrendamientos $2,221.71 $2,222
+I.- Arrendamientos $2,394.78 $2,395
 
-II.- Enajenaciones $2,221.71 $2,222
+II.- Enajenaciones $2,394.78 $2,395
 
-III.- Donaciones $3,045.02 $3,045
+III.- Donaciones $3,282.23 $3,282
 
-IV.- Permutas $3,039.66 $3,040
+IV.- Permutas $3,276.45 $3,276
 
-V.- Construcciones de edificios $7,407.31 $7,407
+V.- Construcciones de edificios $7,984.34 $7,984
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 172-D.
 
@@ -7925,9 +7935,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$4,009.08 $4,009
+$4,321.39 $4,321
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7941,23 +7951,23 @@ Sin ajuste Con ajuste
 
 I.- Para la prestación de servicios auxiliares,
 
-por cada uno $12,760.28 $12,760
+por cada uno $13,754.31 $13,754
 
 II.- Para construir accesos, cruzamientos e
 
 instalaciones marginales en el derecho de
 
-vía de las vías férreas $12,760.28 $12,760
+vía de las vías férreas $13,754.31 $13,754
 
 III.- Para instalar anuncios y señales
 
 Publicitarias en el derecho de vía, por
 
-anuncio o señal publicitaria $10,823.99 $10,824
+anuncio o señal publicitaria $11,667.18 $11,667
 
 IV.- Para construir y operar puentes
 
-sobre vías férreas $25,520.81 $25,521
+sobre vías férreas $27,508.88 $27,509
 
 V.- Por el otorgamiento de permisos de
 
@@ -7967,13 +7977,13 @@ desestiba, alijo, acarreo, almacenaje y
 
 transbordo que se ejecuten en el derecho
 
-de vía de las vías férreas $15,702.62 $15,703
+de vía de las vías férreas $16,925.85 $16,926
 
 VI.- Por asignación de inicial y número, o
 
-matrícula al equipo ferroviario $799.20 $799
+matrícula al equipo ferroviario $861.46 $861
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -7981,11 +7991,11 @@ matrícula al equipo ferroviario $799.20 $799
 
 Por los servicios relacionados con el otorgamiento de licencias federales digitales ferroviarias, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Por la expedición $760.12 $760
+I. Por la expedición $819.33 $819
 
-II. Por la revalidación $760.12 $760
+II. Por la revalidación $819.33 $819
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7999,7 +8009,7 @@ Sin ajuste Con ajuste
 
 I.- Por verificación especial a los
 
-concesionarios e vías férreas $2,977.25 $2,977
+concesionarios e vías férreas $3,209.18 $3,209
 
 II.- Por la verificación técnica de las condiciones
 
@@ -8009,25 +8019,25 @@ los concesionarios del servicio público de
 
 transporte ferroviario, por cada unidad tractiva
 
-o de arrastre $1,275.82 $1,276
+o de arrastre $1,375.21 $1,375
 
 a).- Por la expedición de la constancia
 
-de aprobación $254.96 $255
+de aprobación $274.82 $275
 
 III.- Por verificación para la construcción o
 
-reconstrucción de obras ferroviarias $2,977.25 $2,977
+reconstrucción de obras ferroviarias $3,209.18 $3,209
 
 IV.- Por la verificación de las instalaciones
 
-de los servicios auxiliares $2,744.37 $2,744
+de los servicios auxiliares $2,958.16 $2,958
 
 ###### ARTICULO 172-H.
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -8041,9 +8051,9 @@ Sin ajuste Con ajuste
 
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-a).- Por la expedición del título $2,977.25 $2,977
+a).- Por la expedición del título $3,209.18 $3,209
 
-b).- Por la reposición del título $2,126.56 $2,127
+b).- Por la reposición del título $2,292.22 $2,292
 
 II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
@@ -8059,9 +8069,9 @@ Kilómetros Kilómetros
 
 y entidades paraestatales de la
 
-Administración Pública Federal $1,063.15 $1,488.45 $1,913.86
+Administración Pública Federal $1,145.97 $1,604.40 $2,062.95
 
-2.- Particulares exclusivamente $4,678.62 $8,932.15 $13,185.71
+2.- Particulares exclusivamente $5,043.08 $9,627.96 $14,212.88
 
 III.- Por la autorización para la
 
@@ -8069,11 +8079,11 @@ cesión total o parcial de derechos
 
 y obligaciones establecidos en las
 
-concesiones o permisos $2,551.84 $2,552
+concesiones o permisos $2,750.63 $2,751
 
-IV.- Por prórroga de la vigencia $2,977.25 $2,977
+IV.- Por prórroga de la vigencia $3,209.18 $3,209
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -8087,17 +8097,17 @@ Sin ajuste Con ajuste
 
 I.- Manuales de sistemas de control
 
-de tránsito $10,834.46 $10,834
+de tránsito $11,678.46 $11,678
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-II.- Horarios ferroviarios $10,036.40
+II.- Horarios ferroviarios $10,036.40 10,036
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
-III.- Reglamento interno de transporte $9,350.77
+III.- Reglamento interno de transporte $9,350.77 9,351
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 172-K.
 
@@ -8107,9 +8117,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$19,986.41 $19,986
+$21,543.35 $21,543
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 172-L.
 
@@ -8119,9 +8129,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$16,717.18 $16,717
+$18,019.45 $18,019
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 172-M.
 
@@ -8131,9 +8141,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$1,272.91 $1,273
+$1,372.07 $1,372
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 172-N.
 
@@ -8143,13 +8153,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$21,447.18 $21,447
+$23,117.92 $23,118
 
 > <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPITULO IX. Del Instituto Federal de Telecomunicaciones
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8163,33 +8173,33 @@ Sin ajuste Con ajuste
 
 A. Para uso comercial:
 
-I. Por la expedición del título de concesión $38,977.87 $38,978
+I. Por la expedición del título de concesión $42,014.25 $42,014
 
-II. Por la prórroga $16,497.59 $16,498
+II. Por la prórroga $17,782.75 $17,783
 
 B. Para uso privado:
 
 I. Con propósitos de comunicación privada:
 
-a). Por la expedición del título de concesión $38,977.87 $38,978
+a). Por la expedición del título de concesión $42,014.25 $42,014
 
-b). Por la prórroga $16,497.59 $16,498
+b). Por la prórroga $17,782.75 $17,783
 
-II. Por la expedición del título de concesión con propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipos $17,804.95 $17,805
+II. Por la expedición del título de concesión con propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipos $19,191.96 $19,192
 
 No pagarán derechos las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo.
 
 III. Con propósitos de radioaficionados:
 
-a). Por la expedición del título de concesión $1,878.35 $1,878
+a). Por la expedición del título de concesión 2,024.67 $2,025
 
-b). Por la prórroga $961.54 $962
+b). Por la prórroga $1,036.44 $1,036
 
 C. Para uso público y social:
 
-I. Por la expedición del título de concesión $38,977.87 $38,978
+I. Por la expedición del título de concesión $42,014.25 $42,014
 
-II. Por la prórroga $16,497.59 $16,498
+II. Por la prórroga $17,782.75 $17,783
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -8197,7 +8207,7 @@ Cuando la explotación de los servicios objeto de la concesión de bandas de fre
 
 Los estudios de solicitudes y, en su caso, la expedición de título o prórroga de concesiones o de autorizaciones de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago del derecho previsto en este artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -8209,9 +8219,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$15,710.45 $15,710
+$16,934.29 $16,934
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8223,9 +8233,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$8,607.51 $8,608
+$9,278.04 $9,278
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -8233,15 +8243,15 @@ $8,607.51 $8,608
 
 Por el estudio y, en su caso, la expedición de la constancia de autorización para el uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico para uso secundario, así como por la autorización de las modificaciones técnicas, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Por el otorgamiento $15,657.72 $15,658
+I. Por el otorgamiento $16,877.46 $16,877
 
 II. Por aquellas modificaciones técnicas
 
 que no impliquen la ampliación de cobertura o
 
-cambio de ubicación geográfica $8,130.45 $8,130
+cambio de ubicación geográfica $8,763.81 $8,764
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8253,9 +8263,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$13,083.96 $13,084
+$14,103.20 $14,103
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8267,9 +8277,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$16,304.08 $16,304
+$17,574.17 $17,574
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8283,21 +8293,21 @@ Sin ajuste Con ajuste
 
 I. Para uso comercial:
 
-a). Por la expedición del título de concesión $22,282.16 $22,282
+a). Por la expedición del título de concesión $24,017.94 $24,018
 
-b). Por la prórroga $9,858.24 $9,858
+b). Por la prórroga $10,626.20 $10,626
 
 II. Para uso social:
 
-a). Por la expedición del título de concesión $22,282.16 $22,282
+a). Por la expedición del título de concesión $24,017.94 $24,018
 
-b). Por la prórroga $9,858.24 $9,858
+b). Por la prórroga $10,626.20 $10,626
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-III. Para uso público, por la prórroga $9,573.90 $9,574
+III. Para uso público, por la prórroga $10,319.71 $10,320
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -8315,37 +8325,37 @@ I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 II. Por el cambio de la titularidad
 
-por cesión de derechos $19,521.88 $19,522
+por cesión de derechos $21,042.63 $21,043
 
 III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-IV. Por la prestación de servicios adicionales para concesiones que hagan uso del espectro radioeléctrico $24,621.33 $24,621
+IV. Por la prestación de servicios adicionales para concesiones que hagan uso del espectro radioeléctrico $26,539.33 $26,539
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-V. Por la prestación de servicios adicionales para concesiones que no hagan uso del espectro radioeléctrico $9,002.26 $9,002
+V. Por la prestación de servicios adicionales para concesiones que no hagan uso del espectro radioeléctrico $9,703.54 $9,704
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en cada título de concesión o en cada autorización $1,370.89 $1,371
+VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en cada título de concesión o en cada autorización $1,477.68 $1,478
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $14,060.02 $14,060
+VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $15,155.30 $15,155
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra, cambio de altura del centro eléctrico y horario de operación tratándose de estaciones de amplitud modulada $13,083.96 $13,084
+VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra, cambio de altura del centro eléctrico y horario de operación tratándose de estaciones de amplitud modulada $14,103.20 $14,103
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tal como distintivo de llamada $7,156.27 $7,156
+IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tal como distintivo de llamada $7,713.74 $7,714
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-X. Por el cambio o el intercambio, por título de concesión involucrado en la operación de que se trate, de canal, frecuencias, bandas de frecuencias o recursos orbitales $15,748.55 $15,749
+X. Por el cambio o el intercambio, por título de concesión involucrado en la operación de que se trate, de canal, frecuencias, bandas de frecuencias o recursos orbitales $16,975.36 $16,975
 
 XI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
@@ -8357,9 +8367,9 @@ consolidación de una o más concesiones
 
 para instalar, operar y explotar una red pública
 
-de telecomunicaciones $14,827.88 $14,828
+de telecomunicaciones $15,982.97 $15,983
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8371,11 +8381,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la autorización $7,708.39 $7,708
+I. Por la autorización $8,308.87 $8,309
 
-II. Por la prórroga $4,236.54 $4,237
+II. Por la prórroga $4,566.57 $4,567
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8393,23 +8403,23 @@ II. Por cambio en la titularidad por cesión
 
 o transferencia de derechos, según
 
-corresponda $3,745.90 $3,746
+corresponda $4,037.71 $4,038
 
 III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 IV. Por la ampliación de plazos para el
 
-cumplimiento de obligaciones $1,370.89 $1,371
+cumplimiento de obligaciones $1,477.68 $1,478
 
 V. Tratándose de permisos, por la ampliación
 
-al área de cobertura de los servicios $1,537.79 $1,538
+al área de cobertura de los servicios $1,657.58 $1,658
 
 VI. Por modificaciones en las
 
-características técnicas $1,798.68 $1,799
+características técnicas $1,938.80 $1,939
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8421,11 +8431,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la expedición de la autorización $4,605.63 $4,606
+I. Por la expedición de la autorización $4,964.41 $4,964
 
-II. Por la prórroga $3,529.54 $3,530
+II. Por la prórroga $3,804.49 $3,804
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8443,19 +8453,19 @@ II. Por cambio en la titularidad por cesión
 
 o transferencia de derechos, según
 
-corresponda $3,745.90 $3,746
+corresponda $4,037.71 $4,038
 
 III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 IV. Por la ampliación de plazos para el
 
-cumplimiento de obligaciones $1,370.89 $1,371
+cumplimiento de obligaciones $1,477.68 $1,478
 
 V. Por modificación en las características
 
-técnicas y de operación $3,022.40 $3,022
+técnicas y de operación $3,257.84 $3,258
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8467,11 +8477,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la expedición de autorización $11,958.20 $11,958
+I. Por la expedición de autorización $12,889.74 $12,890
 
-II. Por la prórroga $6,778.50 $6,778
+II. Por la prórroga $7,306.55 $7,307
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -8489,7 +8499,7 @@ I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 II. Por el cambio en la titularidad por
 
-transferencia de derechos $3,745.90 $3,746
+transferencia de derechos $4,037.71 $4,038
 
 III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -8499,13 +8509,15 @@ IV. Por la ampliación de plazos para el
 
 cumplimiento de obligaciones establecidas
 
-en la autorización $1,370.89 $1,371
+en la autorización $1,477.68 $1,478
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 V. Por modificación en las
 
-características técnicas $4,182.69 $4,183
+características técnicas $4,508.52 $4,509
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -8513,15 +8525,19 @@ características técnicas $4,182.69 $4,183
 
 Por el estudio de la solicitud y, en su caso, la expedición, reexpedición o ampliación de los certificados de homologación de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Por el certificado de homologación tipo A, o su ampliación $812.45
+I. Por el certificado de homologación
 
-II. Por el certificado de homologación tipo B $2,827.87
+tipo A, o su ampliación $812.45 $812
 
-III. Por el certificado de homologación tipo C $3,193.92
+II. Por el certificado de homologación tipo B $2,827.87 $2,828
 
-IV. Por la reexpedición del certificado de homologación tipo A, B o C, por cada uno $657.71
+III. Por el certificado de homologación tipo C $3,193.92 $3,194
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+IV. Por la reexpedición del certificado
+
+de homologación tipo A, B o C, por cada uno $657.71 $658
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8533,11 +8549,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por Expedición $1,591.33 $1,591
+I. Por Expedición $1,715.29 $1,715
 
-II. Por Exámenes $798.85 $799
+II. Por Exámenes $861.08 $861
 
-III. Por Revalidación $1,157.08 $1,157
+III. Por Revalidación $1,247.22 $1,247
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -8563,23 +8579,23 @@ IV. Tratándose de las modificaciones de concesiones para uso público y social 
 
 V. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 174-L
 
-1. Por el estudio y, en su caso, la expedición de licencia de estación de radio a bordo de barcos y/o aeronaves $1,741.55 $1,742
+1. Por el estudio y, en su caso, la expedición de licencia de estación de radio a bordo de barcos y/o aeronaves $1,877.22 $1,877
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 174-L
 
-2. Por el estudio y, en su caso, la asignación de códigos de identidad del servicio móvil marítimo MMSI $1,741.55 $1,742
+2. Por el estudio y, en su caso, la asignación de códigos de identidad del servicio móvil marítimo MMSI $1,877.22 $1,877
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -8587,13 +8603,13 @@ V. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 3. Por el estudio de la solicitud y, en su caso, la acreditación de peritos en materia de telecomunicaciones y/o radiodifusión, se pagarán los derechos conforme a las siguientes cuotas:
 
-I. Por la acreditación de perito por primera vez $7,391.43 $7,391
+I. Por la acreditación de perito por primera vez $7,967.22 $7,967
 
-II. Por la revalidación de la acreditación $3,149.44 $3,149
+II. Por la revalidación de la acreditación $3,394.78 $3,395
 
 III. Por la acreditación de perito en una
 
-segunda especialidad $2,852.13 $2,852
+segunda especialidad $3,074.31 $3,074
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8635,7 +8651,7 @@ El pago de los derechos a que se refiere este capítulo se realizará sin perjui
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 176-A.
 
@@ -8645,13 +8661,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$60.93 $61
+$65.68 $66
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No se pagará este derecho por los permisos que soliciten la Federación, las Entidades Federativas o los Municipios.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8665,7 +8681,7 @@ Sin ajuste Con ajuste
 
 I.- Expedición de cédula individual
 
-de registro de objeto $17.84 $18
+de registro de objeto $19.23 $19
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8683,13 +8699,13 @@ autorizada o registrada por el Instituto Nacional
 
 de Antropología e Historia, sin límite de objetos
 
-y por cada operación $158.21 $158
+y por cada operación $170.53 $171
 
 b).- De exportación de reproducción autorizada,
 
 cuando éstas carezcan de sello, marca o registro
 
-por unidad de empaque $1,585.66 $1,586
+por unidad de empaque $1,709.18 $1,709
 
 III.- Dictámenes
 
@@ -8699,7 +8715,7 @@ b) Para establecer delimitación de inmuebles
 
 privados con monumentos y zonas
 
-arqueológicas, a petición de parte $399.93 $400
+arqueológicas, a petición de parte $431.08 $431
 
 ###### ARTICULO 178.
 
@@ -8713,7 +8729,7 @@ arqueológicas, a petición de parte $399.93 $400
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -8739,7 +8755,7 @@ independientemente de la prima de seguro o
 
 garantía que proceda por el valor del
 
-monumento histórico o artístico $528.21 $528
+monumento histórico o artístico $569.36 $569
 
 b).- (DEROGADO, D.O.F. 14 DE NOVIEMBRE DE 2022)
 
@@ -8747,7 +8763,7 @@ III.- Por el dictamen para certificar el carácter
 
 histórico o artístico de un bien mueble
 
-o inmueble $158.21 $158
+o inmueble $170.53 $171
 
 ###### ARTICULO 180.
 
@@ -8767,7 +8783,7 @@ o inmueble $158.21 $158
 
 #### SECCION SEGUNDA. Derechos de Autor
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -8783,29 +8799,29 @@ I. Recepción, examen, estudio y, en su caso,
 
 registro de cada obra literaria o artística, o de
 
-una obra derivada o versión $300.41 $300
+una obra derivada o versión $323.81 $324
 
 II. Recepción, examen, estudio y, en su caso,
 
 registro de las características gráficas y
 
-distintivas de cada obra $300.41 $300
+distintivas de cada obra $323.81 $324
 
 III. Recepción, examen, estudio y, en su caso,
 
 registro de cada fonograma, videograma
 
-o libro $300.41 $300
+o libro $323.81 $324
 
 IV. Búsqueda y expedición de cada
 
 constancia de antecedentes o datos de
 
-registro o de inscripción $213.87 $214
+registro o de inscripción $230.53 $231
 
 V.- Recepción, examen, estudio y, en su
 
-caso, inscripción de cada convenio o contrato $1,579.63 $1,580
+caso, inscripción de cada convenio o contrato $1,702.68 $1,703
 
 VI.- Inscripción de cada poder otorgado para
 
@@ -8813,7 +8829,7 @@ gestionar ante el Instituto Nacional del Derecho
 
 de Autor, cuando la representación conferida
 
-abarque todos los asuntos del mandante $1,579.63 $1,580
+abarque todos los asuntos del mandante $1,702.68 $1,703
 
 VII.- Recepción, examen y estudio de cada
 
@@ -8827,7 +8843,7 @@ patrimoniales de autor y, en su caso,
 
 inscripción de la anotación marginal
 
-correspondiente $2,368.14 $2,368
+correspondiente $2,552.62 $2,553
 
 VIII.- Recepción, examen, estudio y, en su
 
@@ -8835,7 +8851,7 @@ caso, inscripción de cada acta, documento,
 
 escritura y estatutos de las sociedades de
 
-gestión colectiva $2,368.14 $2,368
+gestión colectiva $2,552.62 $2,553
 
 IX.- Recepción, examen, estudio y, en su
 
@@ -8843,7 +8859,7 @@ caso, inscripción de cada convenio o
 
 contrato celebrado por las sociedades de
 
-gestión colectiva $2,095.36 $2,095
+gestión colectiva $2,258.59 $2,259
 
 X.- Inscripción de cada poder especial que
 
@@ -8853,13 +8869,13 @@ colectiva para el cobro de percepciones
 
 derivadas de los derechos de autor o
 
-derechos conexos $996.32 $996
+derechos conexos $1,073.93 $1,074
 
 XI.- Inscripción de cada poder que autorice
 
 la gestión individual de derechos
 
-patrimoniales $1,984.68 $1,985
+patrimoniales $2,139.29 $2,139
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -8869,7 +8885,7 @@ queja dentro del procedimiento de avenencia
 
 y, en su caso, por la realización de la primera
 
-audiencia en el procedimiento de avenencia $549.92 $550
+audiencia en el procedimiento de avenencia $592.76 $593
 
 Tratándose de las subsecuentes audiencias, por la celebración de cada una se pagará el 50% de la cuota establecida en esta fracción.
 
@@ -8883,7 +8899,7 @@ XIV.- Solicitud y dictamen de reservas de
 
 derechos al uso exclusivo de títulos de
 
-publicaciones o difusiones periódicas $2,381.61 $2,382
+publicaciones o difusiones periódicas $2,567.14 $2,567
 
 XV.- Solicitud y dictamen de la renovación
 
@@ -8891,7 +8907,7 @@ de reservas de derechos al uso exclusivo
 
 de títulos de publicaciones o difusiones
 
-periódicas $1,250.15 $1,250
+periódicas $1,347.54 $1,348
 
 XVI.- Solicitud y dictamen de reservas de
 
@@ -8903,7 +8919,7 @@ de caracterización, nombres artísticos,
 
 denominaciones de grupos artísticos o
 
-promociones publicitarias $4,703.91 $4,704
+promociones publicitarias $5,070.34 $5,070
 
 XVII.- Solicitud y dictamen de la renovación
 
@@ -8915,7 +8931,7 @@ humanos de caracterización, nombres
 
 artísticos y denominaciones de grupos
 
-artísticos $2,459.92 $2,460
+artísticos $2,651.55 $2,652
 
 XVIII.- Solicitud de análisis y búsqueda
 
@@ -8925,7 +8941,7 @@ denominaciones de publicaciones o
 
 difusiones periódicas, nombres artísticos
 
-o denominaciones de grupos artísticos $251.19 $251
+o denominaciones de grupos artísticos $270.76 $271
 
 XIX.- Solicitud de análisis y búsqueda de
 
@@ -8935,23 +8951,23 @@ de personajes humanos de caracterización,
 
 personajes ficticios o simbólicos, o
 
-promociones publicitarias $405.01 $405
+promociones publicitarias $436.56 $437
 
 XX.- Solicitud y dictamen de anotaciones
 
 marginales en los expedientes de reservas
 
-de derechos al uso exclusivo $1,250.15 $1,250
+de derechos al uso exclusivo $1,347.54 $1,348
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 XXI. Respecto del Número Internacional Normalizado del Libro (ISBN):
 
-a). Por el otorgamiento del ISBN $257.99 $258
+a). Por el otorgamiento del ISBN $278.09 $278
 
 b). Por la expedición de cada
 
-certificado o constancia $186.21 $186
+certificado o constancia $200.72 $201
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -8969,19 +8985,19 @@ correspondiente, de cualquier acto o instrumento
 
 que tenga por efecto la revocación del poder
 
-otorgado, previamente inscrito $2,211.49 $2,211
+otorgado, previamente inscrito $2,383.77 $2,384
 
 XXV.- Solicitud, dictamen y, en su caso, expedición
 
 de la autorización de apoderado para la
 
-gestión individual de derechos patrimoniales $2,330.29 $2,330
+gestión individual de derechos patrimoniales $2,511.82 $2,512
 
 XXVI. Solicitud de práctica de visita de
 
 inspección a establecimientos comerciales
 
-a petición de parte $935.20 $935
+a petición de parte $1,008.05 $1,008
 
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
@@ -8995,13 +9011,13 @@ constancia relacionados con el Número
 
 Internacional Normalizado para Publicaciones
 
-Periódicas (ISSN) $186.21 $186
+Periódicas (ISSN) $200.72 $201
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 #### SECCION TERCERA. Registro y Ejercicio Profesional
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9013,7 +9029,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Registro de colegio de Profesionistas $10,781.79 $10,782
+I.- Registro de colegio de Profesionistas $11,621.69 $11,622
 
 II.- Registro de establecimiento educativo
 
@@ -9021,25 +9037,25 @@ legalmente autorizado para expedir títulos
 
 profesionales, diplomas de especialidad o
 
-grados académicos $10,781.79 $10,782
+grados académicos $11,621.69 $11,622
 
 III.- Revalidación de título profesional, de
 
 diploma de especialidad y de grado
 
-académico $2,155.73 $2,156
+académico $2,323.66 $2,324
 
 IV.- Registro de título profesional, de diploma
 
-de especialidad y de grado académico $1,077.63 $1,078
+de especialidad y de grado académico $1,161.58 $1,162
 
 V.- Expedición de autorización para el
 
-ejercicio de una especialidad $1,080.31 $1,080
+ejercicio de una especialidad $1,164.47 $1,164
 
 VI.- Expedición de autorización para constituir
 
-un colegio de profesionistas $1,077.67 $1,078
+un colegio de profesionistas $1,161.62 $1,162
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -9047,59 +9063,59 @@ VII.- Enmiendas al registro profesional:
 
 a).- En relación con colegios de
 
-profesionistas $1,077.67 $1,078
+profesionistas $1,161.62 $1,162
 
 b).- En relación con establecimiento
 
-educativo $1,077.67 $1,078
+educativo $1,161.62 $1,162
 
 c).- En relación con título profesional o
 
-grado académico $215.03 $215
+grado académico $231.78 $232
 
 d).- Inscripción de asociado a un colegio
 
 de profesionistas que no figuren en el
 
-registro original $42.38 $42
+registro original $45.68 $46
 
 e).- En relación con Federaciones de
 
-Colegios de Profesionistas $1,299.78 $1,300
+Colegios de Profesionistas $1,401.03 $1,401
 
 f).- Inscripción de asociado a una Federación
 
 de Colegios de Profesionistas que no figure
 
-en el registro original $1,299.78 $1,300
+en el registro original $1,401.03 $1,401
 
 VIII.- Expedición de duplicado de cédula
 
 o de autorización para el ejercicio de una
 
-especialidad $432.74 $433
+especialidad $466.45 $466
 
 IX.- Expedición de cédula profesional con
 
 efectos de patente o de cédula de grado
 
-académico $430.59 $431
+académico $464.13 $464
 
 X.- Expedición de autorización provisional
 
 para ejercer por estar el título profesional
 
-en trámite o para ejercer como pasante $430.59 $431
+en trámite o para ejercer como pasante $464.13 $464
 
-XI.- Consultas de archivo $196.44 $196
+XI.- Consultas de archivo $211.74 $212
 
 XII.- Constancias de antecedentes
 
-Profesionales $428.00 $428
+Profesionales $461.34 $461
 
 XIII.- Registro de Federación de
 
-Colegios de Profesionistas $14,447.43 $14,447
+Colegios de Profesionistas $15,572.88 $15,573
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -9107,7 +9123,7 @@ XIV. Licencia para el ejercicio
 
 profesional de extranjeros al
 
-amparo de tratados internacionales $483.91
+amparo de tratados internacionales $483.91 $484
 
 ###### ARTICULO 185-A.
 
@@ -9117,7 +9133,7 @@ amparo de tratados internacionales $483.91
 
 #### SECCION CUARTA. Servicios de Educación
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -9135,13 +9151,13 @@ I.- Por solicitud, estudio y resolución del trámite de:
 
 a).- Reconocimiento de validez oficial de
 
-estudios de tipo superior $12,151.65 $12,152
+estudios de tipo superior $13,098.26 $13,098
 
 b).- Cambios a cada plan y programa de
 
 estudio de tipo superior con reconocimiento
 
-de validez oficial $5,252.13 $5,252
+de validez oficial $5,661.27 $5,661
 
 c).- Cambio o ampliación de domicilio, o
 
@@ -9149,7 +9165,7 @@ establecimiento de un plantel adicional,
 
 respecto de cada plan de estudios con
 
-reconocimiento de validez oficial $4,590.81 $4,591
+reconocimiento de validez oficial $4,948.43 $4,948
 
 II.- Por solicitud, estudio y resolución del
 
@@ -9159,7 +9175,7 @@ preescolar, primaria, secundaria, normal y
 
 demás para la formación de maestros, sea
 
-cual fuere la modalidad $1,326.27 $1,326
+cual fuere la modalidad $1,429.59 $1,430
 
 III.- Por solicitud, estudio y resolución del
 
@@ -9169,31 +9185,31 @@ de estudios de los niveles medio superior o
 
 equivalente y de formación para el trabajo,
 
-sea cual fuere la modalidad $1,326.27 $1,326
+sea cual fuere la modalidad $1,429.59 $1,430
 
 IV.- Acreditación y certificación a estudiantes
 
-de preparatoria abierta, por examen $83.00 $83
+de preparatoria abierta, por examen $89.47 $89
 
 V.- Exámenes profesionales o de grado:
 
-a) De tipo superior $263.41 $263
+a) De tipo superior $283.93 $284
 
-b).- De tipo medio superior $132.20 $132
+b).- De tipo medio superior $142.50 $142
 
 VI.- Exámenes a título de suficiencia:
 
-a) De educación primaria $52.06 $52
+a) De educación primaria $56.12 $56
 
 b).- De educación secundaria y de educación
 
-media superior, por materia $29.62 $30
+media superior, por materia $31.93 $32
 
-c).- De tipo superior, por materia. $97.08 $97
+c).- De tipo superior, por materia. $104.64 $105
 
 d).- Del Instituto Nacional de Bellas Artes y
 
-Literatura, por materia $126.85 $127
+Literatura, por materia $136.73 $137
 
 e).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -9201,23 +9217,23 @@ VII.- Exámenes extraordinarios, por materia:
 
 a).- De educación secundaria y de educación
 
-media superior $24.19 $24
+media superior $26.07 $26
 
-b).- De tipo superior $97.11 $97
+b).- De tipo superior $104.67 $105
 
 c).- Del Instituto Nacional de Bellas Artes
 
-y Literatura $76.76 $77
+y Literatura $82.74 $83
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-a).- De tipo superior $256.30 $256
+a).- De tipo superior $276.27 $276
 
 b).- De educación secundaria y de educación
 
-media superior $61.98 $62
+media superior $66.81 $67
 
-c).- De capacitación para el trabajo industrial $42.34 $42
+c).- De capacitación para el trabajo industrial $45.64 $46
 
 IX.- (DEROGADA, D.O.F. 24 DE DICIEMBRE DE 2007)
 
@@ -9227,53 +9243,53 @@ de conocimientos, por cada certificado de
 
 competencia ocupacional en capacitación
 
-para el trabajo industrial $691.41 $691
+para el trabajo industrial $745.27 $745
 
 XI.- Expedición de duplicado de certificados de terminación de estudios:
 
 a).- De educación básica y de educación
 
-media superior $61.98 $62
+media superior $66.81 $67
 
-b).- De tipo superior $194.72 $195
+b).- De tipo superior $209.89 $210
 
 XII.- Por solicitud de revalidación de estudios:
 
-a).- De educación básica $42.33 $42
+a).- De educación básica $45.63 $46
 
-b).- De educación media-superior $425.15 $425
+b).- De educación media-superior $458.27 $458
 
-c).- De educación superior $1,275.82 $1,276
+c).- De educación superior $1,375.21 $1,375
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
 a).- De educación básica y educación
 
-media superior $16.04 $16
+media superior $17.29 $17
 
-b).- De tipo superior $51.00 $51
+b).- De tipo superior $54.97 $55
 
 c).- Del Instituto Nacional de Bellas Artes
 
-y Literatura $51.00 $51
+y Literatura $54.97 $55
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-a).- De educación básica $42.33 $42
+a).- De educación básica $45.63 $46
 
-b).- De educación media-superior $425.15 $425
+b).- De educación media-superior $458.27 $458
 
-c).- De educación superior $1,275.82 $1,276
+c).- De educación superior $1,375.21 $1,375
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-a).- De educación superior $102.46 $102
+a).- De educación superior $110.44 $110
 
-b).- De educación media superior $45.78 $46
+b).- De educación media superior $49.35 $49
 
-c).- De educación secundaria $43.90 $44
+c).- De educación secundaria $47.32 $47
 
-d).- De educación primaria $9.68 $10
+d).- De educación primaria $10.43 $10
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -9289,39 +9305,39 @@ XIX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 XX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-XXI.- Consultas o constancias de Archivo $197.05 $197
+XXI.- Consultas o constancias de Archivo $212.40 $212
 
-XXII.- Cambio de carrera $104.87 $105
+XXII.- Cambio de carrera $113.04 $113
 
 XXIII.- Dictamen psicopedagógico para
 
-cambio de carrera $157.96 $158
+cambio de carrera $170.27 $170
 
 XXIV.- Inscripción:
 
-a).- En curso de verano $210.63 $211
+a).- En curso de verano $227.04 $227
 
-b).- En curso de regularización $210.63 $211
+b).- En curso de regularización $227.04 $227
 
 c).- (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
-XXV.- Materias libres para alumnos Inscritos $97.34 $97
+XXV.- Materias libres para alumnos Inscritos $104.92 $105
 
 XXVI.- Expedición de duplicado de credencial
 
-de la preparatoria abierta $48.79 $49
+de la preparatoria abierta $52.59 $53
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 XXVII. Por hora de capacitación para
 
-el trabajo industrial $9.37 $9
+el trabajo industrial $10.10 $10
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
 #### SECCION PRIMERA. Registro Agrario Nacional
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -9345,15 +9361,15 @@ actos jurídicos que no provengan del Fondo
 
 de Apoyo para los Núcleos Agrarios sin
 
-Regularizar $160.20 $160
+Regularizar $172.68 $173
 
 II.- Títulos de dominio pleno de colonias, siempre
 
 y cuando no provengan del Programa de
 
-Regularización de Colonias $160.07 $160
+Regularización de Colonias $172.54 $173
 
-III.- Títulos de propiedad de origen parcelario $305.03 $305
+III.- Títulos de propiedad de origen parcelario $328.79 $329
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -9363,31 +9379,31 @@ o de derechos sobre tierras de uso común; así
 
 como de certificados de derechos agrarios, por
 
-cada uno $160.07 $160
+cada uno $172.54 $173
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 D.- Por la expedición de otros documentos:
 
-I.- Constancias $160.07 $160
+I.- Constancias $172.54 $173
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
 II.- Oficios informativos sobre ubicación
 
-de predios $209.58 $210
+de predios $225.91 $226
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 III.- Listado de ejidatarios o comuneros con
 
-derechos vigentes $308.22 $308
+derechos vigentes $332.23 $332
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 IV. Listados prediales referenciados a carta
 
-catastral, por cada hoja tamaño carta u oficio $79.84 $80
+catastral, por cada hoja tamaño carta u oficio $86.06 $86
 
 E. (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
@@ -9407,11 +9423,11 @@ rectificación o cancelación, así como por
 
 la cancelación o rectificación de las
 
-inscripciones $79.84 $80
+inscripciones $86.06 $86
 
 IV.- Por la expedición de copias certificadas
 
-de cada plano tamaño carta u oficio $22.34 $22
+de cada plano tamaño carta u oficio $24.08 $24
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. DE LA FRACCIÓN], D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -9451,7 +9467,7 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 #### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -9481,15 +9497,15 @@ VIII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 IX.- Expedición de certificados de libertad
 
-o existencia de gravámenes $379.37 $379
+o existencia de gravámenes $408.92 $409
 
 X.- Expedición de certificados de inscripción
 
-de propiedad federal $632.92 $633
+de propiedad federal $682.22 $682
 
 XI.- Expedición de certificados de
 
-no inscripción federal $632.92 $633
+no inscripción federal $682.22 $682
 
 XII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -9501,15 +9517,15 @@ de los documentos o datos que obran en el Sistema
 
 de Información Inmobiliaria Federal y Paraestatal,
 
-por cada hoja $30.95 $31
+por cada hoja $33.36 $33
 
 XIV.- Expedición de copia certificada de
 
-folio real $850.20 $850
+folio real $916.43 $916
 
 XV.- Expedición de copia certificada de
 
-documento inscrito $637.80 $638
+documento inscrito $687.48 $687
 
 XVI.- (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
@@ -9517,7 +9533,7 @@ XVI.- (DEROGADA, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
 XVII.- Asientos registrales en folio
 
-real que soliciten particulares $850.20 $850
+real que soliciten particulares $916.43 $916
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9527,7 +9543,7 @@ El pago de los derechos que establece este artículo comprende la búsqueda de a
 
 No pagarán los derechos a que se refieren las fracciones X, XIII, XIV y XV de este artículo el poder legislativo y las autoridades judiciales o administrativas cuando así lo requieran para el ejercicio de funciones de investigación o procuración de justicia.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -9545,13 +9561,13 @@ I.- Por recepción y estudio de solicitudes de
 
 concesión o permiso sobre inmuebles del
 
-dominio público $4,514.24 $4,514
+dominio público $4,865.90 $4,866
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por recepción y estudio de solicitudes de
 
-enajenación de inmuebles de la Federación $1,233.71 $1,234
+enajenación de inmuebles de la Federación $1,329.82 $1,330
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9559,7 +9575,7 @@ III.- Por otorgamiento o prórroga de concesión
 
 o permiso sobre bienes de dominio público de
 
-la Federación $2,257.00 $2,257
+la Federación $2,432.82 $2,433
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9573,7 +9589,7 @@ depósito de restos humanos áridos o cremados
 
 en templos de propiedad federal o sus
 
-anexidades $15,348.97 $15,349
+anexidades $16,544.65 $16,545
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9585,7 +9601,7 @@ depósito de restos humanos áridos o cremados
 
 en templos de propiedad federal o sus
 
-anexidades $7,674.40 $7,674
+anexidades $8,272.24 $8,272
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9597,7 +9613,7 @@ construcción, demolición, modificación,
 
 ampliación, adaptación o reparación dentro
 
-de inmuebles de propiedad federal $9,585.91 $9,586
+de inmuebles de propiedad federal $10,332.65 $10,333
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -9629,7 +9645,7 @@ Los ingresos que se obtengan por la recaudación de este derecho, que no estén 
 
 #### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -9643,19 +9659,19 @@ Sin ajuste Con ajuste
 
 I. Por el otorgamiento o autorización de sustitución
 
-de concesiones para la pesca comercial $13,891.87 $13,892
+de concesiones para la pesca comercial $14,974.05 $14,974
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II.- Por la expedición de permisos para:
 
-a).- La pesca comercial $1,266.32 $1,266
+a).- La pesca comercial $1,364.97 $1,365
 
 b).- Para realizar los trabajos pesqueros
 
 necesarios para fundamentar la solicitud
 
-de las concesiones de pesca comercial $759.54 $760
+de las concesiones de pesca comercial $818.71 $819
 
 c).- La pesca de fomento a personas físicas
 
@@ -9663,7 +9679,7 @@ o morales cuya actividad u objeto social
 
 sea la captura, comercialización o transformación
 
-de productos pesqueros $761.09 $761
+de productos pesqueros $820.38 $820
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -9671,45 +9687,45 @@ III.- Por el otorgamiento de permiso para:
 
 a).- Instalar artes de pesca fija, en aguas
 
-de jurisdicción federal $763.56 $764
+de jurisdicción federal $823.04 $823
 
 b).- La recolección del medio natural de
 
-reproductores $1,210.77 $1,211
+reproductores $1,305.09 $1,305
 
 c).- La transferencia de permisos de
 
-pesca comercial $1,229.45 $1,229
+pesca comercial $1,325.22 $1,325
 
 d).- Desembarcar productos pesqueros frescos,
 
 enhielados o congelados en puertos mexicanos,
 
-por embarcaciones extranjeras $761.09 $761
+por embarcaciones extranjeras $820.38 $820
 
 IV.- Por el otorgamiento de una concesión
 
-para acuacultura comercial $18,570.21 $18,570
+para acuacultura comercial $20,016.83 $20,017
 
 V.- Por la expedición de permiso para
 
-acuacultura de fomento $9,560.10 $9,560
+acuacultura de fomento $10,304.83 $10,305
 
 VI.- Por el otorgamiento de permiso para
 
-acuacultura didáctica $3,234.38 $3,234
+acuacultura didáctica $3,486.34 $3,486
 
 VII.- Por el otorgamiento de autorización
 
 para la sustitución de titular de los derechos
 
-de la concesión acuícola $2,387.10 $2,387
+de la concesión acuícola $2,573.06 $2,573
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 VIII.- Por el otorgamiento de un permiso
 
-para acuacultura comercial $4,367.67 $4,368
+para acuacultura comercial $4,707.91 $4,708
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
@@ -9733,7 +9749,7 @@ IV.- La pesca didáctica que realizan las instituciones educativas del país, re
 
 V.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 191-C.
 
@@ -9743,7 +9759,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$4,235.49 $4,235
+$4,565.43 $4,565
 
 ###### ARTICULO 191-D.
 
@@ -9765,7 +9781,7 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -9783,13 +9799,13 @@ I.- Por cada título de asignación o concesión
 
 para explotar, usar o aprovechar aguas nacionales
 
-incluyendo su registro $5,522.34 $5,522
+incluyendo su registro $5,952.53 $5,953
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II.- Por cada permiso de descarga de aguas residuales
 
-a un cuerpo receptor, incluyendo su registro $7,352.76 $7,353
+a un cuerpo receptor, incluyendo su registro $7,925.54 $7,926
 
 III.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -9799,15 +9815,15 @@ IV.- Por la prórroga o modificación, a petición de
 
 parte interesada, de los títulos o permisos a que se
 
-refieren las fracciones I y II de este artículo $2,382.21 $2,382
+refieren las fracciones I y II de este artículo $2,567.78 $2,568
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 V.- Por cada transmisión de títulos de concesión
 
-y permisos de descarga $4,293.72 $4,294
+y permisos de descarga $4,628.20 $4,628
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -9823,7 +9839,7 @@ I.- Por cada título de concesión para la extracción
 
 de materiales de cauces, vasos y depósitos
 
-de propiedad nacional $1,973.50 $1,973
+de propiedad nacional $2,127.24 $2,127
 
 II.- Por cada título de concesión para el uso o
 
@@ -9833,7 +9849,7 @@ vasos, lagos o lagunas, así como esteros,
 
 zonas federales y demás bienes nacionales
 
-regulados por la Ley de Aguas Nacionales $1,974.55 $1,975
+regulados por la Ley de Aguas Nacionales $2,128.37 $2,128
 
 III.- Por cada permiso para la construcción de
 
@@ -9847,7 +9863,7 @@ perforación de pozos para uso de aguas del
 
 subsuelo o para la construcción de obras en
 
-zona federal $6,028.64 $6,029
+zona federal $6,498.27 $6,498
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -9857,7 +9873,7 @@ Nacional del Agua para la construcción de las siguientes obras
 
 hidráulicas u obras que afecten bienes nacionales a cargo de la
 
-Comisión Nacional del Agua: $338,948.23 $338,948
+Comisión Nacional del Agua: $365,352.30 $365,352
 
 a). Presas con capacidad de almacenamiento igual o mayor a tres
 
@@ -9943,7 +9959,7 @@ V.- Por cada título de concesión para el uso o aprovechamiento
 
 de infraestructura hidráulica federal, incluyendo la prestación de
 
-los servicios respectivos $6,344.69 $6,345
+los servicios respectivos $6,838.94 $6,839
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -9951,27 +9967,27 @@ VI.- Por la prórroga o modificación, a petición de parte
 
 interesada, de los títulos o permisos a que se refieren las
 
-fracciones I a V de este artículo $2,382.21 $2,382
+fracciones I a V de este artículo $2,567.78 $2,568
 
 > <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 VII.- Por cada transmisión de títulos de concesión a que
 
-se refieren las fracciones I, II y V de este artículo $4,319.99 $4,320
+se refieren las fracciones I, II y V de este artículo $4,656.52 $4,657
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 192-B.
 
-Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de $6,205.41 $6,205
+Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de $6,688.81 $6,689
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9993,7 +10009,7 @@ a la información sobre antecedentes registrales,
 
 a cargo de la Comisión Nacional del Agua, por
 
-cada una $456.86 $457
+cada una $492.45 $492
 
 Los usuarios que utilicen la página electrónica de la Comisión Nacional del Agua en internet o utilicen el equipo de cómputo que ponga a disposición del público en general dicha Comisión, para consultar los antecedentes registrales que obran en el Registro Público de Derechos de Agua, no estarán obligados al pago del derecho.
 
@@ -10005,13 +10021,13 @@ constancias de las inscripciones o
 
 documentos que obren en el Registro
 
-Público, por cada uno $232.55 $233
+Público, por cada uno $250.67 $251
 
 V.- Por la emisión de mapas con información
 
 registral, a cargo de la Comisión Nacional
 
-del Agua, por cada uno $367.82 $368
+del Agua, por cada uno $396.47 $396
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -10051,7 +10067,7 @@ XI. Con excepción del uso doméstico amparado en los títulos de concesión y d
 
 El ejercicio de las facultades a que se refiere este artículo, es independiente y sin menoscabo de las atribuciones que competen a la Secretaría de Hacienda y Crédito Público.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -10063,7 +10079,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$8,633.97 $8,634
+$9,306.56 $9,307
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -10071,9 +10089,9 @@ $8,633.97 $8,634
 
 Por los servicios de aprobación de organismos de certificación, laboratorios de prueba y unidades de verificación, que efectúe la Comisión Nacional del Agua, para evaluar la conformidad de las Normas Oficiales Mexicanas y estándares en materia hídrica, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación como organismo de certificación, laboratorio de prueba o unidad de verificación para evaluar la conformidad de las Normas Oficiales Mexicanas $5,101.85
+I. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación como organismo de certificación, laboratorio de prueba o unidad de verificación para evaluar la conformidad de las Normas Oficiales Mexicanas $5,101.85 $5,102
 
-II. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación de laboratorios de prueba que realizan análisis de calidad del agua para evaluar la conformidad de las Normas Oficiales Mexicanas y estándares en materia de descargas de aguas residuales $9,685.51
+II. Por el análisis de la solicitud y, en su caso, la expedición de la aprobación de laboratorios de prueba que realizan análisis de calidad del agua para evaluar la conformidad de las Normas Oficiales Mexicanas y estándares en materia de descargas de aguas residuales $9,685.51 $9,686
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -10101,7 +10119,7 @@ Permisos para Pesca Deportiva.
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -10115,23 +10133,23 @@ Sin ajuste Con ajuste
 
 I.- Por el otorgamiento de la concesión,
 
-anualmente $4,935.90 $4,936
+anualmente $5,320.41 $5,320
 
 > <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 II.- Por el otorgamiento de cada
 
-autorización $480.87 $481
+autorización $518.33 $518
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-a).- Hasta 500 metros $616.73 $617
+a).- Hasta 500 metros $664.77 $665
 
-b).- De 501 a 1000 metros $770.86 $771
+b).- De 501 a 1000 metros $830.91 $831
 
-c).- De 1001 en adelante $863.51 $864
+c).- De 1001 en adelante $930.78 $931
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -10145,9 +10163,9 @@ IV.- Por el otorgamiento de autorizaciones para prestadores de servicios turíst
 
 a).- Por unidad de transporte terrestre:
 
-1.- Motorizada $513.69 $514
+1.- Motorizada $553.71 $554
 
-2.- No motorizada $102.17 $102
+2.- No motorizada $110.13 $110
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -10159,13 +10177,13 @@ eslora, incluyendo vehículos o aparatos
 
 sumergibles o anfibios, tablas de oleaje y
 
-sus equivalentes $513.69 $514
+sus equivalentes $553.71 $554
 
 2.- Embarcaciones mayores de 12 metros
 
 de eslora, incluyendo vehículos o aparatos
 
-sumergibles o anfibios y sus equivalentes $10,283.00 $10,283
+sumergibles o anfibios y sus equivalentes $11,084.05 $11,084
 
 3.- Motocicletas acuáticas y subacuáticas y
 
@@ -10173,11 +10191,11 @@ demás aparatos motorizados equivalentes,
 
 diferentes a los enunciados en los numerales
 
-1 y 2 de este inciso $722.13 $722
+1 y 2 de este inciso $778.38 $778
 
 c).- Otros vehículos distintos a los señalados
 
-en los incisos anteriores $256.30 $256
+en los incisos anteriores $276.27 $276
 
 d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -10187,7 +10205,7 @@ V.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 194-C
 
@@ -10197,13 +10215,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$153.84 $154
+$165.82 $166
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -10237,7 +10255,7 @@ ganados al mar o a cualquier otro depósito de
 
 aguas marítimas, se pagará el derecho
 
-conforme a la siguiente cuota $2,986.50 $2,986
+conforme a la siguiente cuota $3,219.15 $3,219
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -10257,35 +10275,35 @@ por m2 excedente
 
 del límite inferior
 
-0.01 500.00 $2,054.41 $0.0000
+0.01 500.00 $2,214.45 $0.0000
 
-500.01 1,000.00 $2,054.41 $5.7531
+500.01 1,000.00 $2,214.45 $6.2013
 
-1,000.01 2,500.00 $4,931.69 $4.2958
+1,000.01 2,500.00 $5,315.87 $4.6304
 
-2,500.01 5,000.00 $11,377.66 $2.3257
+2,500.01 5,000.00 $12,263.98 $2.5069
 
-5,000.01 10,000.00 $17,195.92 $1.4815
+5,000.01 10,000.00 $18,535.48 $1.5969
 
-10,000.01 15,000.00 $24,610.90 $1.1392
+10,000.01 15,000.00 $26,528.09 $1.2279
 
-15,000.01 20,000.00 $30,315.96 $0.9933
+15,000.01 20,000.00 $32,677.57 $1.0707
 
-20,000.01 25,000.00 $35,288.56 $0.8592
+20,000.01 25,000.00 $38,037.54 $0.9261
 
-25,000.01 50,000.00 $39,591.91 $0.7133
+25,000.01 50,000.00 $42,676.12 $0.7689
 
-50,000.01 100,000.00 $57,470.25 $0.3942
+50,000.01 100,000.00 $61,947.18 $0.4249
 
-100,000.01 150,000.00 $77,283.51 $0.2986
+100,000.01 150,000.00 $83,303.90 $0.3219
 
-150,000.01 En adelante $92,270.71 $0.1996
+150,000.01 En adelante $99,458.60 $0.2151
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
 III.- Por la cesión de la concesión entre
 
-Particulares $6,708.24 $6,708
+Particulares $7,230.81 $7,231
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -10305,7 +10323,7 @@ Este derecho se pagará independientemente del que corresponda por el uso o apro
 
 #### SECCION SEXTA. Servicios de Vida Silvestre
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -10331,7 +10349,7 @@ material biológico de flora y fauna silvestres,
 
 terrestres y acuáticas realizada en el país por
 
-extranjeros $20,471.88 $20,472
+extranjeros $22,066.64 $22,067
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -10355,7 +10373,7 @@ Amenazadas de Fauna y Flora Silvestres de la
 
 que México forma parte, cualquiera que sea su
 
-resolución $721.44 $721
+resolución $777.64 $778
 
 III.- Para colecta de material parental de
 
@@ -10371,19 +10389,19 @@ Amenazadas de Fauna y Flora Silvestres, de
 
 la que México forma parte, para su reproducción
 
-o propagación $858.57 $859
+o propagación $925.45 $925
 
 IV.- Por la autorización de colecta de
 
 recursos biológicos con fines de utilización
 
-en biotecnología $20,744.59 $20,745
+en biotecnología $22,360.59 $22,361
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10397,7 +10415,7 @@ Sin ajuste Con ajuste
 
 I.- Por cada solicitud de registro en materia
 
-de vida silvestre $562.12 $562
+de vida silvestre $605.91 $606
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -10407,23 +10425,23 @@ II.- Por el trámite y, en su caso, expedición
 
 de cada licencia de prestadores de servicios
 
-de aprovechamiento en caza deportiva $1,560.38 $1,560
+de aprovechamiento en caza deportiva $1,681.93 $1,682
 
 III.- Por la expedición de cintillo
 
-de aprovechamiento cinegético $361.73 $362
+de aprovechamiento cinegético $389.91 $390
 
 > <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 IV.- Por la expedición o reposición de cada licencia de caza deportiva:
 
-a). De modalidad anual $702.52 $703
+a). De modalidad anual $757.25 $757
 
-b). De modalidad indefinida $2,184.43 $2,184
+b). De modalidad indefinida $2,354.60 $2,355
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -10437,13 +10455,13 @@ Sin ajuste Con ajuste
 
 I.- Distrito Federal, México, Morelos, Puebla,
 
-Tlaxcala, Hidalgo y Querétaro $25.14 $25
+Tlaxcala, Hidalgo y Querétaro $27.10 $27
 
 II.- Jalisco, Michoacán, Aguascalientes,
 
 Guanajuato, Nuevo León, San Luis Potosí
 
-y Zacatecas $33.92 $34
+y Zacatecas $36.56 $37
 
 III.- Baja California, Baja California Sur,
 
@@ -10455,15 +10473,15 @@ Tabasco, Guerrero, Oaxaca, Chiapas,
 
 Campeche, Yucatán, Quintana Roo y
 
-Sinaloa $42.33 $42
+Sinaloa $45.63 $46
 
-IV.- Por supervisión anual, por Hectárea $12.42 $12
+IV.- Por supervisión anual, por Hectárea $13.39 $13
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
 #### SECCION SEPTIMA. Impacto Ambiental
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10479,27 +10497,27 @@ I.- Por la recepción, evaluación y, en su caso,
 
 el otorgamiento de la resolución del informe
 
-preventivo $14,733.06 $14,733
+preventivo $15,880.77 $15,881
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación de impacto ambiental, en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-a). $39,619.91 $39,620
+a). $42,706.30 $42,706
 
-b). $79,241.67 $79,242
+b). $85,414.60 $85,415
 
-c). $118,863.45 $118,863
+c). $128,122.91 $128,123
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación del impacto ambiental, en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-a). $51,848.40 $51,848
+a). $55,887.39 $55,887
 
-b). $103,694.93 $103,695
+b). $111,772.77 $111,773
 
-c). $155,541.44 $155,541
+c). $167,658.12 $167,658
 
 IV.- (DEROGADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
@@ -10523,7 +10541,7 @@ VI.- Por la evaluación y resolución de la
 
 solicitud de modificación de proyectos
 
-autorizados en materia de impacto ambiental $10,616.24 $10,616
+autorizados en materia de impacto ambiental $11,443.25 $11,443
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
@@ -10541,9 +10559,9 @@ Equilibrio Ecológico y la Protección al
 
 Ambiente en Materia de Evaluación del
 
-Impacto Ambiental, se pagará la cuota de: $4,869.54 $4,870
+Impacto Ambiental, se pagará la cuota de: $5,248.88 $5,249
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -10559,23 +10577,23 @@ I. Por el permiso de liberación experimental
 
 al ambiente de organismos genéticamente
 
-modificados, incluyendo su importación $33,680.09 $33,680
+modificados, incluyendo su importación $36,303.77 $36,304
 
 II. Por el permiso de liberación al ambiente en
 
 programa piloto de organismos genéticamente
 
-modificados, incluyendo su importación $33,680.09 $33,680
+modificados, incluyendo su importación $36,303.77 $36,304
 
 III. Por el permiso de liberación comercial al
 
 ambiente de organismos genéticamente
 
-modificados, incluyendo su importación $33,680.09 $33,680
+modificados, incluyendo su importación $36,303.77 $36,304
 
 Tratándose de la solicitud de reconsideración de resolución negativa de cada permiso a que se refiere este artículo, se pagará la cuota
 
-$29,047.25 $29,047
+$31,310.03 $31,310
 
 ###### ARTICULO 194-J.
 
@@ -10585,7 +10603,7 @@ $29,047.25 $29,047
 
 #### SECCION OCTAVA. Servicios Forestales
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -10601,15 +10619,15 @@ I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,000 metros cúbicos $6,348.28 $6,348
+hasta 1,000 metros cúbicos $6,842.81 $6,843
 
 III.- De más de 1,000 metros cúbicos
 
-hasta 5,000 metros cúbicos $8,675.99 $8,676
+hasta 5,000 metros cúbicos $9,351.85 $9,352
 
 IV.- De más de 5,000 metros
 
-cúbicos en adelante $11,109.51 $11,110
+cúbicos en adelante $11,974.94 $11,975
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -10639,7 +10657,7 @@ e). La solicitud de modificación sea para cambiar la cronología de las anualid
 
 f). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado no ejercido de la última anualidad cuando sea por motivos de una declaratoria de emergencia o desastre natural, que emita la autoridad competente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -10655,13 +10673,13 @@ I.- Hasta 500 metros cúbicos EXENTO EXENTO
 
 II.- De más de 500 metros cúbicos
 
-hasta 1,500 metros cúbicos $4,014.47 $4,014
+hasta 1,500 metros cúbicos $4,327.20 $4,327
 
 III.- De más de 1,500 metros cúbicos
 
-hasta 3,000 metros cúbicos $5,419.52 $5,420
+hasta 3,000 metros cúbicos $5,841.70 $5,842
 
-IV.- De más de 3,000 metros cúbicos $7,025.32 $7,025
+IV.- De más de 3,000 metros cúbicos $7,572.59 $7,573
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -10691,7 +10709,7 @@ e). La solicitud de modificación sea para cambiar la cronología de las anualid
 
 f). La solicitud de modificación sea exclusivamente para el aprovechamiento de saldos de arbolado no ejercido de la última anualidad cuando sea por motivos de una declaratoria de emergencia o desastre natural, que emita la autoridad competente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -10703,43 +10721,43 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Hasta 1 hectárea $1,375.47 $1,375
+I. Hasta 1 hectárea $1,482.62 $1,483
 
 II. De más de 1 hectárea hasta
 
-10 hectáreas $ 1,904.48 $ 1,904
+10 hectáreas $2,052.84 $2,053
 
 III. De más de 10 hectáreas hasta
 
-50 hectáreas $ 4,020.59 $ 4,021
+50 hectáreas $4,333.79 $4,334
 
 IV. De más de 50 hectáreas
 
-hasta 200 hectáreas $ 8,041.16 $ 8,041
+hasta 200 hectáreas $8,667.57 $8,668
 
-V. De más de 200 hectáreas $ 12,273.36 $ 12,273
+V. De más de 200 hectáreas $13,229.45 $13,229
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 Cuando la solicitud se refiera a terrenos incendiados que requieran de un dictamen especial, se pagará adicionalmente el 20% de las cuotas establecidas en las fracciones anteriores.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 194-N.
 
-Por la recepción, evaluación y, en su caso, la autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $8,675.99 $8,676
+Por la recepción, evaluación y, en su caso, la autorización de plantación forestal comercial en terrenos preferentemente forestales, en superficies mayores a 800 hectáreas, se pagará la cuota de $9,351.85 $9,352
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 194-N
 
-1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de $529.02 $529
+1. Por la expedición de los certificados de inscripción o de constancias del Registro Forestal Nacional, se pagarán derechos, por cada uno, conforme a la cuota de $570.23 $570
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -10761,7 +10779,7 @@ de cada hoja de requisitos fitosanitarios
 
 para la importación de materias primas,
 
-productos y subproductos forestales $1,587.08 $1,587
+productos y subproductos forestales $1,710.71 $1,711
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -10777,7 +10795,7 @@ fitosanitario internacional para la
 
 exportación o la reexportación de
 
-materias primas o productos forestales $1,269.67 $1,270
+materias primas o productos forestales $1,368.58 $1,369
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -10791,9 +10809,9 @@ taxonómica de muestras entomológicas o
 
 patológicas detectadas en productos y/o
 
-subproductos forestales de importación $1,798.68 $1,799
+subproductos forestales de importación $1,938.80 $1,939
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 194-N
 
@@ -10803,9 +10821,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$ 2,327.72 $ 2,328
+$2,509.05 $2,509
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -10821,7 +10839,7 @@ de la autorización para la colecta y
 
 uso de recursos biológicos forestales,
 
-con fines de utilización en biotecnología $6,592.07 $6,592
+con fines de utilización en biotecnología $7,105.59 $7,106
 
 II. Por la recepción, evaluación de la
 
@@ -10831,7 +10849,7 @@ de la autorización para la colecta y
 
 uso de recursos biológicos forestales,
 
-con fines de utilización en investigación $773.35 $773
+con fines de utilización en investigación $833.59 $834
 
 III. Por la recepción, evaluación de la
 
@@ -10841,7 +10859,7 @@ la autorización para la colecta y uso
 
 de recursos genéticos forestales,
 
-con fines comerciales $6,592.07 $6,592
+con fines comerciales $7,105.59 $7,106
 
 IV. Por la recepción, evaluación de la
 
@@ -10853,7 +10871,7 @@ biológicos forestales, con fines de
 
 investigación para la generación
 
-de información científica básica $773.35 $773
+de información científica básica $833.59 $834
 
 V. Por la recepción, evaluación de la solicitud y,
 
@@ -10861,7 +10879,7 @@ en su caso, la expedición de la autorización para
 
 la colecta y uso de recursos genéticos forestales,
 
-con fines de investigación $773.35 $773
+con fines de investigación $833.59 $834
 
 VI. Por la recepción, evaluación de la solicitud y,
 
@@ -10871,7 +10889,7 @@ la colecta de recursos genéticos forestales,
 
 con fines de investigación para la generación de
 
-información científica básica $773.35 $773
+información científica básica $833.59 $834
 
 ###### ARTICULO 194-N
 
@@ -10881,7 +10899,7 @@ información científica básica $773.35 $773
 
 #### SECCION NOVENA. Prevención y Control de la Contaminación
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 (REUBICADO Y REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
@@ -10895,11 +10913,11 @@ Sin ajuste Con ajuste
 
 I.- Por la recepción y evaluación de solicitud
 
-de licencia $ 3,174.15 $ 3,174
+de licencia $3,421.42 $3,421
 
 II.- Actualización de la licencia de
 
-funcionamiento o de la licencia ambiental $ 1,587.08 $ 1,587
+funcionamiento o de la licencia ambiental $1,710.71 $1,711
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -10919,7 +10937,7 @@ III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2002)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 (REUBICADO Y REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
@@ -10933,39 +10951,39 @@ Sin ajuste Con ajuste
 
 I. Operación de unidades para la recolección
 
-y transporte de residuos peligrosos $ 5,030.72 $ 5,031
+y transporte de residuos peligrosos $5,422.61 $5,423
 
 II. Instalación y operación de centros de acopio
 
-y almacenamiento de residuos peligrosos $ 5,028.01 $ 5,028
+y almacenamiento de residuos peligrosos $5,419.69 $5,420
 
 III. Instalación y operación de sistemas de
 
 reciclaje o coprocesamiento de residuos
 
-peligrosos $ 3,174.15 $ 3,174
+peligrosos $3,421.42 $3,421
 
 IV. Instalación y operación de sistemas de
 
-reutilización de residuos peligrosos $ 3,174.15 $ 3,174
+reutilización de residuos peligrosos $3,421.42 $3,421
 
 V. Instalación y operación de sistemas de
 
-tratamiento de residuos peligrosos $ 8,287.33 $ 8,287
+tratamiento de residuos peligrosos $8,932.91 $8,933
 
 VI. Instalación y operación de sistemas de
 
-incineración de residuos peligrosos $ 66,799.27 $ 66,799
+incineración de residuos peligrosos $72,002.93 $72,003
 
 VII. Instalación y operación de sistemas
 
 para el confinamiento o disposición final
 
-de residuos peligrosos $ 109,991.99 $ 109,992
+de residuos peligrosos $118,560.37 $118,560
 
 VIII. Prestación de servicios de manejo
 
-de residuos peligrosos $ 7,860.29 $ 7,860
+de residuos peligrosos $8,472.61 $8,473
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -10975,7 +10993,7 @@ Por las solicitudes de transferencia, modificación o prórroga de la autorizaci
 
 Los microgeneradores organizados que presenten las solicitudes a que se refiere la fracción I del presente artículo pagarán el 50% de la cuota establecida en este artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -10989,15 +11007,15 @@ Sin ajuste Con ajuste
 
 I.- Para importar residuos peligrosos o residuos
 
-que no tienen características de peligrosidad $ 2,551.74 $ 2,552
+que no tienen características de peligrosidad $2,750.52 $2,751
 
-II.- Para exportar residuos peligrosos $ 1,198.84 $1,199
+II.- Para exportar residuos peligrosos $1,292.23 $1,292
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
 Por los trámites subsecuentes y solicitudes de prórroga y modificación a la autorización se pagará el 50% de la cuota establecida en este artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 194-T
 
@@ -11007,9 +11025,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$ 3,135.01 $ 3,135
+$3,379.23 $3,379
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -11021,19 +11039,19 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Estudio de riesgo Nivel 0 $ 1,448.85 $ 1,449
+I.- Estudio de riesgo Nivel 0 $1,561.72 $1,562
 
-II.- Estudio de riesgo Nivel 1 $ 2,216.04 $ 2,216
+II.- Estudio de riesgo Nivel 1 $2,388.67 $2,389
 
-III.- Estudio de riesgo Nivel 2 $ 3,281.80 $ 3,282
+III.- Estudio de riesgo Nivel 2 $3,537.45 $3,537
 
-IV.- Estudio de riesgo Nivel 3 $ 4,503.03 $ 4,503
+IV.- Estudio de riesgo Nivel 3 $4,853.82 $4,854
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental se pagará el 50% de la cuota establecida en las fracciones del presente artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -11045,9 +11063,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$1,566.65 $1,567
+$1,688.69 $1,689
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 194-T
 
@@ -11057,13 +11075,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$848.65 $849
+$914.76 $915
 
 > <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 No se pagará el derecho establecido en el presente artículo por las solicitudes de modificación o integración al registro de planes de manejo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -11079,27 +11097,27 @@ Sin ajuste Con ajuste
 
 I. Pasivo ambiental:
 
-a). Por volumen de suelo hasta por 1000 m³ $1,697.28 $1,697
+a). Por volumen de suelo hasta por 1000 m³ $1,829.50 $1,829
 
-b). Por metro cúbico adicional $2.54
+b). Por metro cúbico adicional $2.74
 
 El monto del derecho a que se refiere esta
 
-fracción no podrá exceder de $59,405.31 $59,405
+fracción no podrá exceder de $64,032.98 $64,033
 
-II. Emergencia ambiental $1,803.02 $1,803
+II. Emergencia ambiental $1,943.48 $1,943
 
 Tratándose de la solicitud de autorización
 
 para la transferencia de sitios contaminados
 
-se pagará la cuota de $5,409.09 $5,409
+se pagará la cuota de $5,830.46 $5,830
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION DECIMA. De la Inspección y Vigilancia
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -11113,13 +11131,13 @@ Sin ajuste Con ajuste
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-I.- Por la verificación del cumplimiento de regulaciones y restricciones no arancelarias de cada contenedor sujeto a revisión y, en su caso, la emisión del registro de verificación a la importación o exportación de ejemplares, productos y subproductos de flora y fauna silvestre; recursos acuáticos y marinos; ejemplares, productos y subproductos forestales; cuyo objetivo final sea el comercio o la industrialización de los mismos; así como por la importación, exportación y retorno de materiales y residuos peligrosos cuyo objetivo final sea el comercio, la industrialización, la reutilización, el reciclaje, el co-procesamiento o el tratamiento de los mismos $815.40 $815
+I.- Por la verificación del cumplimiento de regulaciones y restricciones no arancelarias de cada contenedor sujeto a revisión y, en su caso, la emisión del registro de verificación a la importación o exportación de ejemplares, productos y subproductos de flora y fauna silvestre; recursos acuáticos y marinos; ejemplares, productos y subproductos forestales; cuyo objetivo final sea el comercio o la industrialización de los mismos; así como por la importación, exportación y retorno de materiales y residuos peligrosos cuyo objetivo final sea el comercio, la industrialización, la reutilización, el reciclaje, el co-procesamiento o el tratamiento de los mismos $878.92 $879
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 II.- Por la verificación del cumplimiento de regulaciones y restricciones no arancelarias de cada contenedor sujeto a revisión y, en su caso, la emisión del registro de verificación a la importación o exportación de ejemplares, productos y subproductos de flora y fauna silvestre; recursos acuáticos y marinos; ejemplares, productos y subproductos forestales; cuyo objetivo final sea distinto al comercio o la industrialización; así como la exportación y retorno de materiales y residuos peligrosos cuyo objetivo final sea la disposición final o incineración de los mismos en el país importador, o bien, sea distinto al comercio o la industrialización
 
-$218.62 $219
+$235.65 $236
 
 III.- Por la constancia de cumplimiento de la
 
@@ -11127,7 +11145,7 @@ inspección ocular de las envolturas, tarimas
 
 y embalajes de madera que se importan como
 
-soporte de mercancías $226.66 $227
+soporte de mercancías $244.32 $244
 
 > <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -11141,13 +11159,13 @@ de todas las especies de camarón en aguas marinas
 
 de jurisdicción federal, que acrediten la debida
 
-instalación de los excluidores, por cada acta $2,582.50 $2,582
+instalación de los excluidores, por cada acta $2,783.68 $2,784
 
 V.- Por la expedición de la constancia de no
 
 daño ambiental en la zona federal marítimo
 
-terrestre $5,397.24 $5,397
+terrestre $5,817.68 $5,818
 
 > <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -11155,7 +11173,7 @@ VI. Por la revisión, evaluación y, en su caso,
 
 certificación de vehículos nuevos en planta,
 
-por cada línea de vehículos $1,988.04 $1,988
+por cada línea de vehículos $2,142.91 $2,143
 
 VII. (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 2020)
 
@@ -11177,7 +11195,7 @@ Ambiente y Recursos Naturales, se pagarán
 
 derechos por cada solicitud, independientemente
 
-del número de aprobaciones emitidas $20,314.52 $20,315
+del número de aprobaciones emitidas $21,897.02 $21,897
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -11187,7 +11205,7 @@ IX. Por el estudio, trámite y, en su caso,
 
 aprobación o modificación como Auditor
 
-Ambiental $1,155.09 $1,155
+Ambiental $1,245.07 $1,245
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -11209,7 +11227,7 @@ Los ingresos que se obtengan por la recaudación de los derechos contenidos de l
 
 Cuando los solicitantes, con base en el artículo 109-Bis 1 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y conforme a los lineamientos de carácter general que emita la Secretaría de Medio Ambiente y Recursos Naturales, presenten una solicitud única para dos o más trámites o servicios establecidos de la Sección Quinta a la Sección Novena del presente Capítulo para la autorización de un proyecto, sólo pagarán el derecho más alto que corresponda a los trámites y servicios solicitados.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -11221,7 +11239,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$13,141.12 $13,141
+$14,164.81 $14,165
 
 Por la solicitud y, en su caso, autorización de la modificación del Documento Técnico Unificado a que se refiere este artículo se pagará el 35% de la cuota prevista en el párrafo que antecede.
 
@@ -11233,7 +11251,7 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 
 #### SECCION PRIMERA. Autorizaciones en Materia Sanitaria
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -11247,21 +11265,21 @@ Cuota
 
 Sin ajuste Con ajuste
 
-a). Televisión e Internet $ 28,888.85 $ 28,889
+a). Televisión e Internet $31,139.29 $31,139
 
 b). Cine, video en lugares públicos cerrados
 
-y en medios de transporte público $ 4,020.59 $ 4,021
+y en medios de transporte público $4,333.79 $4,334
 
-c).- Radio $ 2,856.73 $ 2,857
+c).- Radio $3,079.27 $3,079
 
-d).- Prensa $ 952.25 $ 952
+d).- Prensa $1,026.43 $1,026
 
 e). Folletos, catálogos, carteles y otros
 
-medios similares $ 655.98 $ 656
+medios similares $707.08 $707
 
-f).- Anuncios en exteriores $ 5,078.62 $ 5,079
+f).- Anuncios en exteriores $5,474.24 $5,474
 
 Los derechos que se establecen en esta fracción, se pagarán por cada tipo de mensaje que comprenda la autorización que se otorgue, según el medio publicitario que se utilice de los señalados en los incisos de esta fracción.
 
@@ -11277,17 +11295,17 @@ II.- (DEROGADA. D.O.F. 13 DE NOVIEMBRE DE 2008)
 
 III. Por cada solicitud y, en su caso, expedición de licencia sanitaria de establecimientos de insumos para la salud, o por cada solicitud de visita de verificación sanitaria en el extranjero para certificación de buenas prácticas de fabricación de fármacos, medicamentos y otros insumos para la salud, se pagará el derecho conforme a las siguientes cuotas:
 
-a). Por fábrica o laboratorio $ 107,246.93 $ 107,247
+a). Por fábrica o laboratorio $115,601.47 $115,601
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de centros de mezcla para la preparación de mezclas parenterales nutricionales y medicamentosas, se pagará el 50% del derecho que corresponda a este inciso.
 
-b). Por almacén de depósito y distribución $ 34,743.63 $ 34,744
+b). Por almacén de depósito y distribución $37,450.16 $37,450
 
-c).- Por farmacia o botica $ 1,692.89 $ 1,693
+c).- Por farmacia o botica $1,824.77 $1,825
 
-d).- Droguerías $ 4,232.19 $ 4,232
+d).- Droguerías $4,561.88 $4,562
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -11313,13 +11331,13 @@ a). Para establecimientos de atención médica
 
 donde se practiquen actos quirúrgicos u
 
-obstétricos, por cada uno: $24,503.99 $24,504
+obstétricos, por cada uno: $26,412.85 $26,413
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 b). Para establecimientos que presten
 
-servicio de hemodiálisis, por cada uno: $23,912.35 $23,912
+servicio de hemodiálisis, por cada uno: $25,775.12 $25,775
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11329,7 +11347,7 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022 D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -11345,9 +11363,9 @@ Sin ajuste Con ajuste
 
 I.- Por la solicitud y, en su caso, el registro de Medicamentos Alopáticos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-a). Medicamento genérico $ 90,988.55 $ 90,989
+a). Medicamento genérico $98,076.56 $98,077
 
-b). Medicamento molécula nueva $ 162,692.45 $ 162,692
+b). Medicamento molécula nueva $175,366.19 $175,366
 
 II.- Por la solicitud y, en su caso, el registro
 
@@ -11355,43 +11373,43 @@ de medicamentos homeopáticos, herbolarios
 
 y vitamínicos, se pagará por cada uno el
 
-derecho conforme a la cuota de $ 21,636.43 $ 21,636
+derecho conforme a la cuota de $23,321.91 $23,322
 
 III.- Por la solicitud y, en su caso, el registro de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, productos higiénicos e insumos de uso odontológico que no sean medicamentos, se pagará por cada uno, el derecho conforme a las siguientes cuotas:
 
-a). Clase I $ 13,522.77 $ 13,523
+a). Clase I $14,576.19 $14,576
 
-b). Clase II $ 19,833.38 $ 19,833
+b). Clase II $21,378.40 $21,378
 
-c). Clase III $ 25,242.50 $ 25,242
+c). Clase III $27,208.89 $27,209
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 IV.- Por la solicitud y, en su caso, el registro de plaguicidas, según la categoría toxicológica que le corresponda, y nutrientes vegetales, se pagará el derecho de registro por cada producto, conforme a las siguientes cuotas:
 
-a). Categoría toxicológica 1 $ 90,325.29 $ 90,325
+a). Categoría toxicológica 1 $97,361.63 $97,362
 
-b). Categoría toxicológica 2 $ 75,271.06 $ 75,271
+b). Categoría toxicológica 2 $81,134.68 $81,135
 
-c). Categoría toxicológica 3 $ 52,902.43 $ 52,902
+c). Categoría toxicológica 3 $57,023.53 $57,024
 
-d). Categoría toxicológica 4 $ 38,137.34 $ 38,137
+d). Categoría toxicológica 4 $41,108.24 $41,108
 
-e). Categoría toxicológica 5... $ 24,616.61 $ 24,617
+e). Categoría toxicológica 5... $26,534.24 $26,534
 
-f). Nutrientes vegetales $ 7,818.92 $ 7,819
+f). Nutrientes vegetales $8,428.01 $8,428
 
 V.- Por la solicitud y, en su caso, el registro
 
 de cada producto que contenga sustancias
 
-tóxicas de alto y mediano riesgo para la salud $ 9,939.21 $ 9,939
+tóxicas de alto y mediano riesgo para la salud $10,713.47 $10,713
 
 VI.- Por la solicitud y, en su caso, el registro
 
 de cada producto que contenga sustancias
 
-tóxicas de bajo riesgo para la salud $ 1,987.33 $ 1,987
+tóxicas de bajo riesgo para la salud $2,142.14 $2,142
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -11403,25 +11421,25 @@ Por otras modificaciones, renovación o prórroga que se soliciten a los registr
 
 > <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
-VII. Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
+VII.- Por la solicitud y, en su caso, el otorgamiento de cada permiso para la importación de plaguicidas, según la categoría toxicológica que le corresponda, y de nutrientes vegetales y de sustancias tóxicas, se pagarán derechos conforme a las siguientes cuotas:
 
-a). Categoría toxicológica 1 $ 33,871.97 $ 33,872
+a). Categoría toxicológica 1 $36,510.60 $36,511
 
-b). Categoría toxicológica 2 $ 17,203.95 $ 17,204
+b). Categoría toxicológica 2 $18,544.14 $18,544
 
-c). Categoría toxicológica 3 $ 7,406.34 $ 7,406
+c). Categoría toxicológica 3 $7,983.29 $7,983
 
-d). Categoría toxicológica 4 $ 2,860.30 $ 2,860
+d). Categoría toxicológica 4 $3,083.12 $3,083
 
-e). Categoría toxicológica 5... $ 1,890.94 $ 1,891
+e). Categoría toxicológica 5 $2,038.24 $2,038
 
-f). Nutrientes vegetales $ 4,681.17 $ 4,681
+f). Nutrientes vegetales $5,045.83 $5,046
 
-g). Sustancias tóxicas $ 4,650.74 $ 4,651
+g). Sustancias tóxicas $5,013.03 $5,013
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos de servicios de sangre, con excepción de lo establecido en la fracción I del artículo 195-K-2 de esta Ley $14,050.57 $14,051
+VIII.- Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos de servicios de sangre, con excepción de lo establecido en la fracción I del artículo 195-K-2 de esta Ley $15,145.11 $15,145
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -11435,13 +11453,13 @@ del permiso de importación para suplementos
 
 alimenticios, se pagará el derecho conforme a
 
-la cuota de: $ 5,770.79 $ 5,771
+la cuota de: $6,220.33 $6,220
 
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-X. Por la solicitud y, en su caso, expedición
+X.- Por la solicitud y, en su caso, expedición
 
 de la licencia sanitaria para establecimientos
 
@@ -11453,7 +11471,7 @@ bancos de órganos, tejidos y células; bancos
 
 de células troncales o establecimientos de
 
-medicina regenerativa $13,491.46 $13,491
+medicina regenerativa $14,542.44 $14,542
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11481,7 +11499,7 @@ que practiquen procedimientos de modificación
 
 a la apariencia física mediante tatuajes,
 
-perforación o micropigmentación $ 6,183.59 $ 6,184
+perforación o micropigmentación $6,665.29 $6,665
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -11501,7 +11519,7 @@ de alimentos para consumo humano o que se
 
 destinen a una finalidad de salud pública o a la
 
-biorremediación. $ 281,071.94 $ 281,072
+biorremediación. $302,967.44 $302,967
 
 XIII.- Por la expedición de cada certificado
 
@@ -11511,7 +11529,7 @@ pagará el derecho de certificados, para
 
 libre venta o para exportación conforme
 
-a la cuota de $ 3,489.44 $ 3,489
+a la cuota de $3,761.27 $3,761
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -11525,7 +11543,7 @@ a la cuota de $ 3,489.44 $ 3,489
 
 #### SECCION TERCERA. Fomento y Análisis Sanitario
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -11551,7 +11569,7 @@ perfumería y belleza, y de las materias primas y
 
 aditivos que intervengan en su elaboración, por tipo
 
-de producto, se pagará la cuota de $ 2,962.54 $ 2,963
+de producto, se pagará la cuota de $3,193.32 $3,193
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -11569,7 +11587,7 @@ pagarán derechos por cada solicitud, y por
 
 cada autorización emitida, conforme a la
 
-cuota de $ 10,146.42 $ 10,146
+cuota de $10,936.83 $10,937
 
 > <small>(ADICIONADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -11583,21 +11601,21 @@ Quedan exceptuados del pago del derecho establecido en esta fracción, las insti
 
 III.- Por cada solicitud de visita de verificación para materias primas o medicamentos que sean o contengan estupefacientes, psicotrópicos o precursores químicos por:
 
-a).- Constatación de destrucción $ 2,996.79 $ 2,997
+a).- Constatación de destrucción $3,230.24 $3,230
 
 b).- Enfajillamiento, sello y lacre con
 
-fines de exportación $ 2,996.79 $ 2,997
+fines de exportación $3,230.24 $3,230
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-c).- De balance de medicamentos $5,877.14 $5,877
+c).- De balance de medicamentos $6,334.97 $6,335
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-d).- Toma de muestra y liberación $2,321.17 $2,321
+d).- Toma de muestra y liberación $2,501.99 $2,502
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -11611,19 +11629,19 @@ Sin ajuste Con ajuste
 
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-a).- De alto riesgo sanitario $ 10,062.51 $ 10,063
+a).- De alto riesgo sanitario $10,846.38 $10,846
 
-b).- De riesgo medio sanitario $ 6,708.24 $ 6,708
+b).- De riesgo medio sanitario $7,230.81 $7,231
 
-c).- De riesgo bajo sanitario $ 3,353.82 $ 3,354
+c).- De riesgo bajo sanitario $3,615.08 $3,615
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-a).- De alto riesgo sanitario $ 2,012.12 $ 2,012
+a).- De alto riesgo sanitario $2,168.86 $2,169
 
-b).- De riesgo medio sanitario $ 1,676.51 $ 1,677
+b).- De riesgo medio sanitario $1,807.11 $1,807
 
-c).- De riesgo bajo sanitario $ 1,341.19 $ 1,341
+c).- De riesgo bajo sanitario $1,445.67 $1,446
 
 ###### ARTICULO 195-D
 
@@ -11633,7 +11651,7 @@ c).- De riesgo bajo sanitario $ 1,341.19 $ 1,341
 
 #### SECCION CUARTA. Otros Servicios
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -11647,7 +11665,7 @@ Sin ajuste Con ajuste
 
 I.- Libre venta para exportación de
 
-insumos para la salud $ 2,430.26 $ 2,430
+insumos para la salud $2,619.58 $2,620
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -11655,13 +11673,13 @@ III.- De transportes, de riesgo alto
 
 o medio, directo o indirecto, para
 
-la salud humana $ 2,683.00 $ 2,683
+la salud humana $2,892.01 $2,892
 
 IV.- De transportes de riesgo bajo,
 
 directo o indirecto, para la salud
 
-humana $ 1,341.19 $ 1,341
+humana $1,445.67 $1,446
 
 > <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
@@ -11669,13 +11687,13 @@ V. Sobre sistemas de abastecimiento de agua
 
 privados, para determinar la condición sanitaria
 
-de las instalaciones hidráulicas $7,128.81 $7,129
+de las instalaciones hidráulicas $7,684.14 $7,684
 
 VI.- Sobre la calidad sanitaria fisicoquímica
 
-y bactereológica del agua de uso y consumo
+y bactereológica (sic) del agua de uso y consumo
 
-humano $ 3,353.82 $ 3,354
+humano $3,615.08 $3,615
 
 VII.- Sobre las condiciones sanitarias de las
 
@@ -11685,13 +11703,13 @@ de agua de uso y consumo humano o industrial,
 
 que utilicen como fuente de abastecimiento
 
-los pozos de carácter privado $ 10,062.51 $ 10,063
+los pozos de carácter privado $10,846.38 $10,846
 
 VIII.- Equipos e instalaciones para el proceso
 
 del agua para uso y consumo humano e
 
-industrial $ 6,708.24 $ 6,708
+industrial $7,230.81 $7,231
 
 IX.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
@@ -11699,13 +11717,13 @@ X.- Por cada certificado de buenas prácticas
 
 de fabricación o de manufactura de insumos
 
-para la salud $ 2,281.68 $ 2,282
+para la salud $2,459.42 $2,459
 
 ###### ARTICULO 195-F.
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2003)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11723,7 +11741,7 @@ I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y be
 
 a).- Por cada solicitud de permiso
 
-de importación $ 5,770.79 $ 5,771
+de importación $6,220.33 $6,220
 
 b).- Por cada solicitud de prórroga,
 
@@ -11731,19 +11749,19 @@ corrección o de cualquier otra modificación
 
 relacionada con el permiso sanitario previo
 
-de importación $ 1,080.05 $ 1,080
+de importación $1,164.19 $1,164
 
 c).- Por el muestreo de los productos
 
 señalados en el permiso sanitario
 
-previo de importación $ 2,563.30 $ 2,563
+previo de importación $2,762.98 $2,763
 
 d).- Por cualquier otra modalidad relacionada
 
 con la autorización sanitaria previa de
 
-importación no especificada $ 385.04 $ 385
+importación no especificada $415.03 $415
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -11751,17 +11769,17 @@ II.- De materias primas y productos terminados de medicamentos que no sean o con
 
 a).- Por cada solicitud del permiso
 
-sanitario de importación de materia prima $ 5,982.98 $ 5,983
+sanitario de importación de materia prima $6,449.05 $6,449
 
 b).- Por cada solicitud del permiso sanitario
 
-de importación de producto terminado $ 5,982.98 $ 5,983
+de importación de producto terminado $6,449.05 $6,449
 
 c).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
 d).- Por la modificación, corrección o prórroga
 
-en el permiso sanitario de importación $ 361.01 $ 361
+en el permiso sanitario de importación $389.13 $389
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11771,23 +11789,23 @@ a).- Por cada solicitud del permiso
 
 sanitario de importación en materia
 
-prima $ 2,554.49 $ 2,554
+prima $2,753.48 $2,753
 
 b).- Por cada solicitud del permiso
 
 sanitario de importación de producto
 
-terminado $ 2,554.49 $ 2,554
+terminado $2,753.48 $2,753
 
 c).- Por cada solicitud del permiso
 
-sanitario de importación para donación $ 361.01 $ 361
+sanitario de importación para donación $389.13 $389
 
 d).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario de
 
-importación $ 361.01 $ 361
+importación $389.13 $389
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -11799,7 +11817,7 @@ terminado de medicamentos que
 
 sean o contengan estupefacientes
 
-o sustancias psicotrópicas $ 2,554.49 $ 2,554
+o sustancias psicotrópicas $2,753.48 $2,753
 
 b).- (DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
 
@@ -11807,7 +11825,7 @@ c).- Por la modificación, corrección
 
 o prórroga en el permiso sanitario
 
-previo de exportación $ 361.01 $ 361
+previo de exportación $389.13 $389
 
 > <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
@@ -11817,27 +11835,27 @@ a). Por cada solicitud del permiso
 
 sanitario de importación de
 
-materia prima $ 11,653.62 $ 11,654
+materia prima $12,561.44 $12,561
 
 b). Por cada solicitud del permiso
 
 sanitario de importación de
 
-producto terminado $ 11,653.62 $ 11,654
+producto terminado $12,561.44 $12,561
 
 c). Por cada solicitud del
 
 permiso sanitario de
 
-importación para uso personal $ 327.59 $ 328
+importación para uso personal $353.11 $353
 
 d). Por la modificación o
 
 prórroga en el permiso
 
-sanitario de importación $ 327.59 $ 328
+sanitario de importación $353.11 $353
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -11855,23 +11873,23 @@ de certificado con o sin análisis de laboratorio,
 
 así como por cualquier otra modalidad
 
-relacionada y no especificada $ 1,233.71 $ 1,234
+relacionada y no especificada $1,329.82 $1,330
 
 II.- En caso de certificados que requieran de
 
 muestreo para análisis de laboratorio se
 
-pagará adicionalmente $ 2,003.20 $ 2,003
+pagará adicionalmente $2,159.25 $2,159
 
 III.- Por la corrección o modificación de un
 
 certificado expedido y que se encuentre
 
-vigente $ 925.19 $ 925
+vigente $997.26 $997
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -11891,7 +11909,7 @@ plaza, muestreo y liberación de materia prima,
 
 fármacos o medicamentos que contengan
 
-estupefacientes o psicotrópicos $ 2,275.04 $ 2,275
+estupefacientes o psicotrópicos $2,452.27 $2,452
 
 II.- Por la solicitud de liberación para la
 
@@ -11903,7 +11921,7 @@ de productos biológicos, biotecnológicos,
 
 hemoderivados o antibióticos, se pagará
 
-por cada solicitud de liberación $ 2,308.07 $ 2,308
+por cada solicitud de liberación $2,487.87 $2,488
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -11913,11 +11931,11 @@ IV.- Por los servicios de reposición de licencias sanitarias y registros sanita
 
 a).- Por la reposición de cada
 
-licencia sanitaria $ 880.10 $ 880
+licencia sanitaria $948.66 $949
 
 b).- Por la reposición de cada
 
-registro sanitario $ 1,760.17 $ 1,760
+registro sanitario $1,897.29 $1,897
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2003)
 
@@ -11929,19 +11947,19 @@ de cada medicamento o dispositivo médico
 
 con fines de registro sanitario, se pagará por
 
-cada solicitud de protocolo de investigación $ 6,717.32 $ 6,717
+cada solicitud de protocolo de investigación $7,240.60 $7,241
 
 VII.- Por cada solicitud de autorización de la
 
 Clave alfanumérica de remedios herbolarios,
 
-se pagará $ 5,133.19 $ 5,133
+se pagará $5,533.07 $5,533
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 Por las modificaciones solicitadas a las autorizaciones señaladas en las fracciones VI y VII de este artículo se pagará el 75% del derecho que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -11953,19 +11971,19 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por la expedición $ 9,753.77 $ 9,754
+I.- Por la expedición $10,513.59 $10,514
 
 > <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 II.- Por la modificación del
 
-certificado sanitario $400.55
+certificado sanitario $431.75 $432
 
 III.- Por cualquier otra modalidad
 
-no especificada $ 400.55 $ 401
+no especificada $431.75 $432
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -11979,17 +11997,17 @@ Sin ajuste Con ajuste
 
 I.- De cesión de derechos de autorizaciones
 
-sanitarias entre personas físicas $ 165.07 $ 165
+sanitarias entre personas físicas $177.93 $178
 
 II.- De cesión de derechos de autorizaciones
 
 sanitarias entre personas morales o entre
 
-personas físicas y morales $ 827.72 $ 828
+personas físicas y morales $892.20 $892
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -12001,17 +12019,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por dictamen provisional $ 5,201.82 $ 5,202
+I.- Por dictamen provisional $5,607.04 $5,607
 
 II.- Por dictamen definitivo, incluida
 
-la visita de inspección y vigilancia $ 23,409.62 $ 23,410
+la visita de inspección y vigilancia $25,233.23 $25,233
 
 III.- Por dictamen anual, incluida la
 
-visita de inspección y vigilancia $ 15,605.61 $ 15,606
+visita de inspección y vigilancia $16,821.29 $16,821
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -12027,31 +12045,31 @@ I.- Por cada solicitud y, en su caso, la
 
 expedición de licencia sanitaria de
 
-Servicios de Transfusión $ 1,214.71 $ 1,215
+Servicios de Transfusión $1,309.34 $1,309
 
 II.- Por la solicitud de permiso de internación
 
 o salida de unidades de sangre, componentes
 
-y células progenitoras hematopoyéticas $ 737.08 $ 737
+y células progenitoras hematopoyéticas $794.50 $794
 
 III.- Por la solicitud de autorización de
 
-ingresos de sangre y hemocomponentes $ 935.13 $ 935
+ingresos de sangre y hemocomponentes $1,007.98 $1,008
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Por la modificación a la licencia o permiso indicado en las fracciones de este artículo, se pagarán el 75% del derecho que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 ###### ARTICULO 195-K
 
-3.- Por el certificado de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de $5,500.68 $5,501
+3.- Por el certificado de efectividad bacteriológica de equipos o sustancias germicidas para potabilización de agua tipo doméstico, se pagarán derechos conforme a la cuota de $5,929.18 $5,929
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -12063,9 +12081,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$2,244.41 $2,244
+$2,419.25 $2,419
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-K
 
@@ -12075,13 +12093,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$ 15,863.90 $ 15,864
+$17,099.70 $17,100
 
 ###### ARTICULO 195-K
 
 6.- (DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-K
 
@@ -12091,9 +12109,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$ 3,557.81 $ 3,558
+$3,834.96 $3,835
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -12107,13 +12125,13 @@ Sin ajuste Con ajuste
 
 I.- Por la licencia sanitaria para servicios
 
-urbanos de fumigación y control de plagas $ 5,775.67 $ 5,776
+urbanos de fumigación y control de plagas $6,225.59 $6,226
 
 II.- Por la licencia sanitaria para
 
 Establecimientos que fabrican sustancias
 
-tóxicas o peligrosas para la salud $ 16,986.01 $ 16,986
+tóxicas o peligrosas para la salud $18,309.22 $18,309
 
 III.- Por la licencia sanitaria para
 
@@ -12121,9 +12139,9 @@ establecimientos que fabrican, formulan,
 
 mezclan o envasan plaguicidas y
 
-nutrientes vegetales $ 27,063.24 $ 27,063
+nutrientes vegetales $29,171.47 $29,171
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-K
 
@@ -12133,13 +12151,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$ 7,766.91 $ 7,767
+$8,371.95 $8,372
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
 Por la solicitud de modificación a las condiciones de la licencia sanitaria señalada en este artículo se pagará el 75% del derecho que corresponda.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -12151,11 +12169,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por la expedición $3,311.39 $3,311
+I.- Por la expedición $3,569.35 $3,569
 
-II.- Por la modificación $1,815.19 $1,815
+II.- Por la modificación $1,956.59 $1,957
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -12167,11 +12185,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por la expedición $14,389.73 $14,390
+I.- Por la expedición $15,510.69 $15,511
 
-II.- Por la modificación $11,716.39 $11,716
+II.- Por la modificación $12,629.10 $12,629
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-K
 
@@ -12181,7 +12199,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$5,269.61 $5,270
+$5,680.11 $5,680
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -12273,7 +12291,7 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 #### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -12289,21 +12307,21 @@ cartuchos, cartuchos de fuego central,
 
 armas deportivas o municiones esféricas
 
-de plomo $25,860.00 $25,860
+de plomo $27,874.49 $27,874
 
 II. Para la fabricación, importación y
 
-exportación de partes de escopeta $25,860.00 $25,860
+exportación de partes de escopeta $27,874.49 $27,874
 
 III. Para la compra y consumo de
 
 cartuchos industriales, de salva
 
-o deportivos $25,860.00 $25,860
+o deportivos $27,874.49 $27,874
 
 IV. Para talleres dedicados a la
 
-reparación de armas de fuego o gas $25,467.00 $25,467
+reparación de armas de fuego o gas $27,450.88 $27,451
 
 B. Por la expedición de cada uno de los siguientes permisos ordinarios:
 
@@ -12311,11 +12329,11 @@ I. De importación o exportación
 
 de armas, cartuchos y elementos
 
-constitutivos $17,898.00 $17,898
+constitutivos $19,292.25 $19,292
 
 II. Para la compra de cartuchos
 
-deportivos a los expendios autorizados $2,769.00 $2,769
+deportivos a los expendios autorizados $2,984.71 $2,985
 
 III. Por la ampliación de vigencia
 
@@ -12323,7 +12341,7 @@ de un permiso ordinario de
 
 importación o exportación de
 
-armas y municiones $8,058.00 $8,058
+armas y municiones $8,685.72 $8,686
 
 IV. Por la modificación de un
 
@@ -12331,7 +12349,7 @@ permiso ordinario de importación
 
 o exportación de armas y
 
-municiones $8,469.00 $8,469
+municiones $9,128.74 $9,129
 
 Para el caso de la modificación del permiso por cambio de destino, se pagará el derecho establecido en la fracción I de este Apartado.
 
@@ -12339,35 +12357,35 @@ C. Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
 I. Para la importación o exportación
 
-de armas y cartuchos $16,068.00 $16,068
+de armas y cartuchos $17,319.70 $17,320
 
 II. Para la compra-venta, donación o
 
-permuta de armas o cartuchos $402.00 $402
+permuta de armas o cartuchos $433.32 $433
 
 III. Para la importación o exportación
 
 temporal de armas de fuego y cartuchos,
 
-con fines cinegéticos o de tiro $3,240.00 $3,240
+con fines cinegéticos o de tiro $3,492.40 $3,492
 
 IV. Para la transportación de armas:
 
-a). Hasta por tres armas $1,491.00 $1,491
+a). Hasta por tres armas $1,607.15 $1,607
 
-b). Por cada arma adicional $495.00 $495
+b). Por cada arma adicional $533.56 $534
 
 V. Por la ampliación de vigencia de un
 
 permiso extraordinario de importación o
 
-exportación de armas y municiones $8,058.00 $8,058
+exportación de armas y municiones $8,685.72 $8,686
 
 VI. Por la modificación de un permiso
 
 extraordinario de importación o exportación
 
-de armas y municiones $8,469.00 $8,469
+de armas y municiones $9,128.74 $9,129
 
 Para el caso de la modificación del permiso por cambio de destino, se pagará el derecho establecido en la fracción I de este Apartado.
 
@@ -12375,7 +12393,7 @@ D. Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
 I. Por el permiso para coleccionista o
 
-museo de armas de fuego $12,954.00 $12,954
+museo de armas de fuego $13,963.12 $13,963
 
 II. Por la autorización para la
 
@@ -12385,81 +12403,81 @@ armas destinadas al enriquecimiento
 
 de una colección o de un museo, e
 
-inscripción en el mismo permiso $1,188.00 $1,188
+inscripción en el mismo permiso $1,280.55 $1,281
 
 E. Por el trámite de cada registro:
 
 I. Por el registro inicial para organizador
 
-cinegético o criador de fauna silvestre $32,634.00 $32,634
+cinegético o criador de fauna silvestre $35,176.19 $35,176
 
-a). Por su revalidación $16,698.00 $16,698
+a). Por su revalidación $17,998.77 $17,999
 
 II. Anual para club o asociación de
 
-deportistas de tiro y cacería $24,150.00 $24,150
+deportistas de tiro y cacería $26,031.29 $26,031
 
-III. Por el registro de un arma de fuego $165.00 $165
+III. Por el registro de un arma de fuego $177.85 $178
 
 IV. Por la expedición de cada
 
-constancia de registro $510.00 $510
+constancia de registro $549.73 $550
 
 F. Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
 I. Por la expedición de:
 
-a). Licencia particular individual $5,212.00 $5,212
+a). Licencia particular individual $5,618.01 $5,618
 
-b). Licencia particular colectiva $81,006.00 $81,006
+b). Licencia particular colectiva $87,316.37 $87,316
 
-c). Licencia oficial colectiva $26,388.00 $26,388
+c). Licencia oficial colectiva $28,443.63 $28,444
 
 II. Por la revalidación de:
 
-a). Licencia particular individual $5,212.00 $5,212
+a). Licencia particular individual $5,618.01 $5,618
 
 b). Licencia particular colectiva:
 
-1. De 1 a 500 armas $81,006.00 $81,006
+1. De 1 a 500 armas $87,316.37 $87,316
 
-2. De 501 a 1000 armas $121,509.00 $121,509
+2. De 501 a 1000 armas $130,974.55 $130,975
 
-3. De 1001 a 2000 armas $162,012.00 $162,012
+3. De 1001 a 2000 armas $174,632.73 $174,633
 
-4. De 2001 armas en adelante $202,515.00 $202,515
+4. De 2001 armas en adelante $218,290.92 $218,291
 
 III. Por la modificación de licencia
 
-particular colectiva u oficial colectiva $6,132.00 $6,132
+particular colectiva u oficial colectiva $6,609.68 $6,610
 
 IV. Por baja de armamento de las licencias
 
 oficiales colectivas y particulares colectivas,
 
-por robo, extravío o destrucción $12,298.00 $12,298
+por robo, extravío o destrucción $13,256.01 $13,256
 
 V. Por baja de personal de las
 
 licencias oficiales colectivas y
 
-particulares colectivas $11,256.00 $11,256
+particulares colectivas $12,132.84 $12,133
 
 VI. Por alta de personal de las licencias oficiales colectivas y particulares colectivas:
 
-a) De 1 a 50 personas $6,419.00 $6,419
+a) De 1 a 50 personas $6,919.04 $6,919
 
-b) De 51 a 100 personas $12,838.00 $12,838
+b) De 51 a 100 personas $13,838.08 $13,838
 
-c) De 101 a 200 personas $19,257.00 $19,257
+c) De 101 a 200 personas $20,757.12 $20,757
 
-d) De 201 a 500 personas $25,676.00 $25,676
+d) De 201 a 500 personas $27,676.16 $27,676
 
-e) De 501 personas en adelante $32,095.00 $32,095
+e) De 501 personas en adelante $34,595.20 $34,595
 
 Cuando se paguen los derechos a que se refieren las fracciones IV, V o VI de este Apartado, no se estará obligado al pago del derecho establecido en la fracción III del mismo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -12473,7 +12491,7 @@ I. Para la compra, almacenamiento y
 
 consumo o compra-consumo de materiales
 
-explosivos $25,505.60 $25,506
+explosivos $27,492.49 $27,492
 
 II. Para la fabricación de explosivos o
 
@@ -12483,23 +12501,23 @@ así como para la adquisición y
 
 almacenamiento de materia prima y productos
 
-terminados $25,505.60 $25,506
+terminados $27,492.49 $27,492
 
 III. Para la compra-venta, compra-consumo
 
 o almacenamiento de explosivos o sustancias
 
-químicas relacionadas con éstos $26,006.40 $26,006
+químicas relacionadas con éstos $28,032.30 $28,032
 
 IV. Para la compra, almacenamiento y consumo
 
 de sustancias químicas en la fabricación y venta
 
-de artificios pirotécnicos $3,463.50 $3,463
+de artificios pirotécnicos $3,733.31 $3,733
 
 Por la modificación de los permisos señalados
 
-en esta fracción $2,539.90 $2,540
+en esta fracción $2,737.76 $2,738
 
 V. Por intervenciones para importación o
 
@@ -12507,7 +12525,7 @@ exportación de armas, municiones, explosivos
 
 y sustancias químicas, a partir de la segunda
 
-intervención $7,400.00 $7,400
+intervención $7,976.46 $7,976
 
 Por la inspección para el reinicio de
 
@@ -12517,13 +12535,13 @@ suspendido a solicitud del interesado,
 
 se pagará el derecho conforme a la cuota
 
-de $6,230.90 $6,231
+de $6,716.29 $6,716
 
 B. Por la expedición de cada uno de los siguientes permisos ordinarios:
 
 I. Para la compra de material explosivo
 
-o sustancias químicas $3,224.60 $3,225
+o sustancias químicas $3,475.80 $3,476
 
 II. De importación o exportación de
 
@@ -12531,7 +12549,7 @@ explosivos o sustancias químicas
 
 relacionadas con éstos o por la
 
-modificación del permiso $16,329.00 $16,329
+modificación del permiso $17,601.03 $17,601
 
 C. Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
@@ -12539,7 +12557,7 @@ I. Para la compra-consumo, importación
 
 o exportación de material explosivo o
 
-sustancias químicas $20,723.30 $20,723
+sustancias químicas $22,337.65 $22,338
 
 II. Por la modificación a un permiso
 
@@ -12547,13 +12565,13 @@ extraordinario de importación o
 
 exportación de explosivos o sustancias
 
-químicas relacionados con éstos $16,329.00 $16,329
+químicas relacionados con éstos $17,601.03 $17,601
 
 III. Para la compra-venta de artificios
 
-pirotécnicos $3,505.00 $3,505
+pirotécnicos $3,778.04 $3,778
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12575,13 +12593,13 @@ de explosivos, sustancias químicas
 
 relacionadas con éstos, artificios, armamento
 
-o municiones $21,857.85 $21,858
+o municiones $23,560.58 $23,561
 
 II.- Por el trámite de autorización:
 
 a).- De libros de compras y ventas a personas
 
-físicas o morales con permiso general $225.23 $225
+físicas o morales con permiso general $242.78 $243
 
 b).- (DEROGADO, D.O.F. 12 DE NOVIEMBRE DE 2021)
 
@@ -12595,13 +12613,13 @@ condiciones, por ubicación, técnica de
 
 trabajo u otro motivo que no afecte la
 
-clase de producción permitida $18,459.80 $18,460
+clase de producción permitida $19,897.82 $19,898
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION TERCERA. Servicio Militar Nacional
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -12613,23 +12631,23 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por el permiso para salir del país $246.51 $247
+I.- Por el permiso para salir del país $265.71 $266
 
 II.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
 III.- Por corrección de los datos base de la
 
-cartilla $246.51 $247
+cartilla $265.71 $266
 
 IV.- (DEROGADA, D.O.F. 1 DE ENERO DE 2002)
 
-V.- Por expedición de duplicado de cartilla $246.51 $247
+V.- Por expedición de duplicado de cartilla $265.71 $266
 
 VI.- Por la elaboración de oficios, cuando
 
 siendo mayor de 40 años no obtuvo la cartilla
 
-del Servicio Militar Nacional $484.69 $485
+del Servicio Militar Nacional $522.45 $522
 
 > <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -12639,7 +12657,7 @@ del Servicio Militar Nacional $484.69 $485
 
 #### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -12657,25 +12675,25 @@ I.- Por el estudio y trámite de la solicitud para la autorización o para su re
 
 a).- Para prestar servicios de seguridad
 
-privada en los bienes $21,267.34 $21,267
+privada en los bienes $22,924.07 $22,924
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 b).- Para prestar los servicios de seguridad
 
-privada en el traslado de bienes o valores $20,919.88 $20,920
+privada en el traslado de bienes o valores $22,549.54 $22,550
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 c).- Para prestar los servicios de seguridad
 
-privada a personas $21,267.34 $21,267
+privada a personas $22,924.07 $22,924
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 d).- Para prestar los servicios de sistemas
 
-de prevención y responsabilidades $19,813.02 $19,813
+de prevención y responsabilidades $21,356.45 $21,356
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -12685,23 +12703,23 @@ de la información y por cualquier actividad
 
 vinculada con los servicios de
 
-seguridad privada $19,813.02 $19,813
+seguridad privada $21,356.45 $21,356
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 f).- Para prestar servicios de alarmas
 
-y de monitoreo electrónico $19,705.28 $19,705
+y de monitoreo electrónico $21,240.32 $21,240
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 g).- Para fungir como centro de capacitación
 
-privado $19,705.28 $19,705
+privado $21,240.32 $21,240
 
 II.- Por la expedición de la autorización
 
-o de su revalidación $6,380.92 $6,381
+o de su revalidación $6,877.99 $6,878
 
 III.- Por la inscripción de cada persona que
 
@@ -12709,7 +12727,7 @@ preste los servicios a que se refiere este
 
 artículo, en el Registro Nacional del Personal
 
-de Seguridad Público (sic) $213.19 $213
+de Seguridad Público (sic) $229.80 $230
 
 IV.- Por la inscripción de cada arma de fuego
 
@@ -12719,7 +12737,7 @@ morales a que se refiere este artículo, en el
 
 Registro Nacional de Empresas de Seguridad
 
-Privada $64.68 $65
+Privada $69.72 $70
 
 V.- Por la consulta de antecedentes policiales
 
@@ -12731,25 +12749,25 @@ que cuentan las instituciones que presten los
 
 servicios de seguridad privada, por cada
 
-integrante $63.48 $63
+integrante $68.43 $68
 
 VI.- Por la modificación de la autorización o,
 
 en su caso, de la revalidación, a que se
 
-refiere este artículo $3,746.80 $3,747
+refiere este artículo $4,038.68 $4,039
 
 VII.- Por la expedición de cada cédula de
 
 identificación del personal, con el registro
 
-asignado en su inscripción $60.25 $60
+asignado en su inscripción $64.94 $65
 
-VIII.- Por cambio de representante legal $9,483.11 $9,483
+VIII.- Por cambio de representante legal $10,221.84 $10,222
 
 IX.- Por cambio en la titularidad de las
 
-acciones o partes sociales $9,483.11 $9,483
+acciones o partes sociales $10,221.84 $10,222
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -12767,9 +12785,9 @@ la instalación de sistemas de blindaje en
 
 todo tipo de vehículos automotores mediante
 
-holograma numerado $500.00
+holograma numerado $500.00 $500
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-X
 
@@ -12779,9 +12797,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$556.17 $556
+$599.50 $599
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 195-X
 
@@ -12791,9 +12809,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$5,739.30 $5,739
+$6,186.39 $6,186
 
-Por la modificación de la opinión respectiva $5,739.30 $5,739
+Por la modificación de la opinión respectiva $6,186.39 $6,186
 
 > <small>(ADICIONADO CON LA SECCIÓN Y EL ARTÍCULO QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -12815,7 +12833,7 @@ Por la modificación de la opinión respectiva $5,739.30 $5,739
 
 #### SECCION UNICA. Servicios Marítimos
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -12825,31 +12843,31 @@ Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de l
 
 I. Por el abanderamiento o dimisión de bandera de embarcaciones o artefactos navales, tomando en cuenta la unidad de arqueo bruto:
 
-a). Hasta de 50 unidades de arqueo bruto $1,358.39 $1,358
+a). Hasta de 50 unidades de arqueo bruto $1,464.21 $1,464
 
 b). De más de 50 hasta 500 unidades de
 
-arqueo bruto $1,626.13 $1,626
+arqueo bruto $1,752.81 $1,753
 
 c). De más de 500 hasta 5,000 unidades de
 
-arqueo bruto $3,065.51 $3,066
+arqueo bruto $3,304.31 $3,304
 
 d). De más de 5,000 hasta 15,000 unidades
 
-de arqueo bruto $4,223.43 $4,223
+de arqueo bruto $4,552.44 $4,552
 
 e). De 15,000.01 hasta 25,000 unidades de
 
-arqueo bruto $9,820.30 $9,820
+arqueo bruto $10,585.30 $10,585
 
 f). De 25,000.01 hasta 50,000 unidades de
 
-arqueo bruto $14,179.68 $14,180
+arqueo bruto $15,284.28 $15,284
 
 g). De más de 50,000.01 unidades
 
-de arqueo bruto $15,986.59 $15,987
+de arqueo bruto $17,231.95 $17,232
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -12857,227 +12875,227 @@ II. Por la expedición del certificado de matrícula para embarcaciones o artefa
 
 a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
 
-1. Hasta de 5 unidades de arqueo bruto $1,183.69 $1,184
+1. Hasta de 5 unidades de arqueo bruto $1,275.90 $1,276
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,369.48 $1,369
+arqueo bruto $1,476.16 $1,476
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,693.97 $1,694
+arqueo bruto $1,825.93 $1,826
 
 b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
 
-1. Hasta de 5 unidades de arqueo bruto $1,183.69 $1,184
+1. Hasta de 5 unidades de arqueo bruto $1,275.90 $1,276
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,369.48 $1,369
+arqueo bruto $1,476.16 $1,476
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,555.29 $1,555
+arqueo bruto $1,676.45 $1,676
 
 c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-1. Hasta de 5 unidades de arqueo bruto $1,040.20 $1,040
+1. Hasta de 5 unidades de arqueo bruto $1,121.23 $1,121
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,369.48 $1,369
+arqueo bruto $1,476.16 $1,476
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,555.29 $1,555
+arqueo bruto $1,676.45 $1,676
 
 d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-1. Hasta de 5 unidades de arqueo bruto $1,063.96 $1,064
+1. Hasta de 5 unidades de arqueo bruto $1,146.84 $1,147
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,406.99 $1,407
+arqueo bruto $1,516.59 $1,517
 
 3. De 10.01 hasta 20 unidades
 
-de arqueo bruto $1,640.55 $1,641
+de arqueo bruto $1,768.35 $1,768
 
 e). Para embarcaciones que efectúen en cualquier tipo de servicio, navegación de altura, cabotaje e interior, o para artefactos navales que efectúen cualquier tipo de servicio:
 
 1. De 20.01 hasta 100 unidades de
 
-arqueo bruto $1,646.34 $1,646
+arqueo bruto $1,774.59 $1,775
 
 2. De 100.01 hasta 500 unidades
 
-de arqueo bruto $1,924.60 $1,925
+de arqueo bruto $2,074.53 $2,075
 
 3. De 500.01 hasta 5,000 unidades
 
-de arqueo bruto $2,268.50 $2,268
+de arqueo bruto $2,445.22 $2,445
 
 4. De 5,000.01 hasta 15,000 unidades
 
-de arqueo bruto $2,612.44 $2,612
+de arqueo bruto $2,815.95 $2,816
 
 5. De 15,000.01 hasta 25,000 unidades
 
-de arqueo bruto $7,502.01 $7,502
+de arqueo bruto $8,086.42 $8,086
 
 6. De 25,000.01 hasta 50,000 unidades
 
-de arqueo bruto $10,502.24 $10,502
+de arqueo bruto $11,320.36 $11,320
 
 7. De más de 50,000.01 unidades
 
-de arqueo bruto $12,004.00 $12,004
+de arqueo bruto $12,939.11 $12,939
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
 
-1. De hasta 5 metros de eslora $121.33 $121
+1. De hasta 5 metros de eslora $130.78 $131
 
-2. De 5.01 hasta 10 metros de eslora $308.86 $309
+2. De 5.01 hasta 10 metros de eslora $332.92 $333
 
 III. Por la reposición o modificación del certificado de matrícula por cambio de características, cambio de nombre de la embarcación o artefacto naval, cambio de propietario, cambio del tipo de navegación o cambio de puerto:
 
 a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
 
-1. Hasta de 5 unidades de arqueo bruto $1,021.88 $1,022
+1. Hasta de 5 unidades de arqueo bruto $1,101.48 $1,101
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,376.33 $1,376
+arqueo bruto $1,483.55 $1,484
 
 3. De 10.01 hasta 20 unidades
 
-de arqueo bruto $1,691.74 $1,692
+de arqueo bruto $1,823.53 $1,824
 
 b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
 
-1. Hasta de 5 unidades de arqueo bruto $1,010.79 $1,011
+1. Hasta de 5 unidades de arqueo bruto $1,089.53 $1,090
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,026.04 $1,026
+arqueo bruto $1,105.97 $1,106
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,435.31 $1,435
+arqueo bruto $1,547.12 $1,547
 
 c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-1. Hasta de 5 unidades de arqueo bruto $1,021.88 $1,022
+1. Hasta de 5 unidades de arqueo bruto $1,101.48 $1,101
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,060.72 $1,061
+arqueo bruto $1,143.35 $1,143
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,319.87 $1,320
+arqueo bruto $1,422.69 $1,423
 
 d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-1. Hasta de 5 unidades de arqueo bruto $980.40 $980
+1. Hasta de 5 unidades de arqueo bruto $1,056.77 $1,057
 
 2. De 5.01 hasta 10 unidades de
 
-arqueo bruto $1,021.88 $1,022
+arqueo bruto $1,101.48 $1,101
 
 3. De 10.01 hasta 20 unidades de
 
-arqueo bruto $1,435.31 $1,435
+arqueo bruto $1,547.12 $1,547
 
 e). Para embarcaciones o artefactos navales que efectúen cualquier tipo de servicio y/o cualquier tipo de navegación:
 
 1. De 20.01 hasta 100 unidades de
 
-arqueo bruto $1,866.21 $1,866
+arqueo bruto $2,011.59 $2,012
 
 2. De 100.01 hasta 500 unidades
 
-de arqueo bruto $2,010.29 $2,010
+de arqueo bruto $2,166.89 $2,167
 
 3. De 500.01 hasta 5,000 unidades de
 
-arqueo bruto $2,184.40 $2,184
+arqueo bruto $2,354.56 $2,355
 
 4. De 5,000.01 hasta 15,000 unidades
 
-de arqueo bruto $2,777.77 $2,778
+de arqueo bruto $2,994.16 $2,994
 
 5. De 15,000.01 hasta 25,000 unidades
 
-de arqueo bruto $7,231.78 $7,232
+de arqueo bruto $7,795.14 $7,795
 
 6. De 25,000.01 hasta 50,000 unidades
 
-de arqueo bruto $9,884.32 $9,884
+de arqueo bruto $10,654.31 $10,654
 
 7. De más de 50,000.01 unidades de
 
-arqueo bruto $11,252.89 $11,253
+arqueo bruto $12,129.49 $12,129
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 f). Para el caso de las embarcaciones sin cubierta corrida, destinadas a la pesca ribereña, se pagarán las cuotas correspondientes a su eslora:
 
-1. De hasta 5 metros de eslora $121.33 $121
+1. De hasta 5 metros de eslora $130.78 $131
 
-2. De 5.01 hasta 10 metros de eslora $308.86 $309
+2. De 5.01 hasta 10 metros de eslora $332.92 $333
 
 IV. Por expedición de pasavantes, se cobrarán las siguientes cuotas por unidades de arqueo bruto:
 
-a). Hasta de 5 unidades de arqueo bruto $161.45 $161
+a). Hasta de 5 unidades de arqueo bruto $174.03 $174
 
 b). De más de 5 hasta 10 unidades de
 
-arqueo bruto $283.00 $283
+arqueo bruto $305.05 $305
 
 c). De más de 10 hasta 20 unidades
 
-de arqueo bruto $404.43 $404
+de arqueo bruto $435.94 $436
 
 d). De 20.01 hasta 100 unidades de
 
-arqueo bruto $1,012.30 $1,012
+arqueo bruto $1,091.16 $1,091
 
 e). De 100.01 hasta 500 unidades de
 
-arqueo bruto $1,214.81 $1,215
+arqueo bruto $1,309.44 $1,309
 
 f). De 500.01 hasta 1,000 unidades
 
-de arqueo bruto $1,619.90 $1,620
+de arqueo bruto $1,746.09 $1,746
 
 g). De 1,000.01 hasta 5,000 unidades
 
-de arqueo bruto $2,835.43 $2,835
+de arqueo bruto $3,056.31 $3,056
 
 h). De 5,000.01 hasta 15,000 unidades
 
-de arqueo bruto $3,645.63 $3,646
+de arqueo bruto $3,929.62 $3,930
 
 i). De 15,000.01 hasta 25,000 unidades
 
-de arqueo bruto $4,861.22 $4,861
+de arqueo bruto $5,239.91 $5,240
 
 j). De 25,000.01 hasta 50,000 unidades
 
-de arqueo bruto $6,076.72 $6,077
+de arqueo bruto $6,550.10 $6,550
 
 k). De más de 50,000.01 unidades de
 
-arqueo bruto $8,102.51 $8,103
+arqueo bruto $8,733.70 $8,734
 
 > <small>(REFORMADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 V. Por la revisión de los cálculos de arqueo y de francobordo y, en su caso, por la expedición de certificados, por cada unidad de arqueo bruto de conformidad con lo siguiente:
 
-a). Hasta 1,000 unidades de arqueo bruto $5.22 por unidad
+a). Hasta 1,000 unidades de arqueo bruto $5.63 por unidad
 
 b). De más de 1,000 hasta 5,000 unidades
 
@@ -13085,7 +13103,7 @@ de arqueo bruto, por las primeras 1,000, la
 
 cuota señalada en el inciso anterior, y por
 
-cada una o fracción de las excedentes $2.72 por unidad
+cada una o fracción de las excedentes $2.93 por unidad
 
 c). De más de 5,000 hasta 15,000 unidades
 
@@ -13093,7 +13111,7 @@ de arqueo bruto, por las primeras 5,000, la
 
 cuota señalada en el inciso anterior y por
 
-cada una o fracción de las excedentes $2.44 por unidad
+cada una o fracción de las excedentes $2.63 por unidad
 
 d). De más de 15,000 unidades de arqueo
 
@@ -13101,17 +13119,17 @@ bruto, por las primeras 15,000, la cuota
 
 señalada en el inciso anterior y por cada
 
-una o fracción de las excedentes $2.15 por unidad
+una o fracción de las excedentes $2.32 por unidad
 
 VI. Por la expedición de autorización para la extracción,
 
 remoción o reflotación de embarcaciones, aeronaves
 
-o artefactos navales $6,319.57 $6,320
+o artefactos navales $6,811.86 $6,812
 
 VII. Por la autorización para el desguace de
 
-embarcaciones o artefactos navales $8,543.84 $8,544
+embarcaciones o artefactos navales $9,209.41 $9,209
 
 VIII. Por autorizar el embarque de técnicos
 
@@ -13119,21 +13137,21 @@ extranjeros en embarcaciones y artefactos navales
 
 con permiso o autorización para operar en las zonas
 
-marinas mexicanas, por cada técnico $1,434.63 $1,435
+marinas mexicanas, por cada técnico $1,546.39 $1,546
 
 IX. Autorización para realizar regatas o
 
-competencias deportivas náuticas $1,497.64 $1,498
+competencias deportivas náuticas $1,614.31 $1,614
 
 X. Autorización de amarre temporal de
 
-embarcaciones y artefactos navales $1,503.79 $1,504
+embarcaciones y artefactos navales $1,620.94 $1,621
 
 > <small>(ADICIONADA, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 XI. Por la modificación o reposición del
 
-certificado de arqueo o francobordo $1,965.62
+certificado de arqueo o francobordo $1,965.62 $1,966
 
 No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
 
@@ -13141,7 +13159,7 @@ I. Las dedicadas exclusivamente a fines humanitarios o científicos, y
 
 II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13149,21 +13167,21 @@ II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios ofi
 
 1. Por la solicitud, análisis y, en su caso, por el abanderamiento, dimisión de bandera, expedición de certificado de matrícula, reposición o modificación del certificado de matrícula de una unidad fija mar adentro, se tomará en cuenta su peso en toneladas:
 
-I. Hasta 5,000 toneladas $1,572.77 $1,573
+I. Hasta 5,000 toneladas $1,695.29 $1,695
 
-II. De más de 5,000 hasta 10,000 toneladas $1,958.55 $1,959
+II. De más de 5,000 hasta 10,000 toneladas $2,111.12 $2,111
 
-III. De más de 10,000 hasta 20,000 toneladas $2,144.14 $2,144
+III. De más de 10,000 hasta 20,000 toneladas $2,311.17 $2,311
 
-IV. De más de 20,000 hasta 30,000 toneladas $2,601.23 $2,601
+IV. De más de 20,000 hasta 30,000 toneladas $2,803.87 $2,804
 
-V. De más de 30,000 hasta 40,000 toneladas $7,072.54 $7,073
+V. De más de 30,000 hasta 40,000 toneladas $7,623.49 $7,623
 
-VI. De más de 40,000 hasta 50,000 toneladas $9,815.13 $9,815
+VI. De más de 40,000 hasta 50,000 toneladas $10,579.73 $10,580
 
-VII. De más de 50,000 toneladas $11,406.18 $11,406
+VII. De más de 50,000 toneladas $12,294.72 $12,295
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13175,33 +13193,33 @@ I. Transporte de pasajeros para embarcaciones menores en navegación interior:
 
 a). Embarcaciones cuya capacidad sea hasta 3.5 unidades
 
-de arqueo bruto $923.11 $923
+de arqueo bruto $995.02 $995
 
 b). Embarcaciones mayores a 3.5 y menores
 
-de 500 unidades de arqueo bruto $1,846.22 $1,846
+de 500 unidades de arqueo bruto $1,990.04 $1,990
 
 II. Turismo náutico:
 
 a). Embarcaciones cuya capacidad sea hasta 3.5 unidades
 
-de arqueo bruto $1,957.67 $1,958
+de arqueo bruto $2,110.17 $2,110
 
 b). Embarcaciones mayores a 3.5 y menores
 
-de 500 unidades de arqueo bruto $5,152.12 $5,152
+de 500 unidades de arqueo bruto $5,553.47 $5,553
 
 c). Embarcaciones de 500 o más unidades
 
-de arqueo bruto $6,885.87 $6,886
+de arqueo bruto $7,422.28 $7,422
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-3. Por la solicitud, análisis y, en su caso, expedición del permiso para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de $5,080.98 $5,081
+3. Por la solicitud, análisis y, en su caso, expedición del permiso para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de $5,476.79 $5,477
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13215,7 +13233,7 @@ I. Servicio de transporte marítimo de pasajeros con embarcaciones de hasta de 3
 
 II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tales como motos acuáticas, kayaks, botes de remos y otras de hasta 3 metros de eslora.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13227,179 +13245,179 @@ I. Por el reconocimiento de embarcaciones o artefactos navales:
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-a). Hasta 10 unidades de arqueo bruto $113.87 $114
+a). Hasta 10 unidades de arqueo bruto $122.74 $123
 
 b). De más de 10 y hasta 20 unidades de
 
-arqueo bruto $520.56 $521
+arqueo bruto $561.11 $561
 
 c). De más de 20 y hasta 50 unidades de
 
-arqueo bruto $909.02 $909
+arqueo bruto $979.83 $980
 
 d). De más de 50 y hasta 75 unidades de
 
-arqueo bruto $3,253.68 $3,254
+arqueo bruto $3,507.14 $3,507
 
 e). De más de 75 y hasta 100 unidades de
 
-arqueo bruto $3,749.21 $3,749
+arqueo bruto $4,041.27 $4,041
 
 f). De más de 100 y hasta 200 unidades de
 
-arqueo bruto $4,995.49 $4,995
+arqueo bruto $5,384.64 $5,385
 
 g). De más de 200 y hasta 300 unidades de
 
-arqueo bruto $6,192.37 $6,192
+arqueo bruto $6,674.76 $6,675
 
 h). De más de 300 y hasta 500 unidades de
 
-arqueo bruto $8,832.75 $8,833
+arqueo bruto $9,520.82 $9,521
 
 i). De más de 500 y hasta 1,000 unidades de
 
-arqueo bruto $11,853.79 $11,854
+arqueo bruto $12,777.20 $12,777
 
 j). De más de 1,000 y hasta 2,000 unidades
 
-de arqueo bruto $14,084.15 $14,084
+de arqueo bruto $15,181.31 $15,181
 
 k). De más de 2,000 unidades de arqueo brutos,
 
 por las primeras 2,000 la cuota señalada en el
 
-inciso anterior, y por cada una o fracción de las excedentes $3.5100
+inciso anterior, y por cada una o fracción de las excedentes $3.78
 
 Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
 II. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
 
-a). Hasta de 100 unidades de arqueo bruto $3,854.65 $3,855
+a). Hasta de 100 unidades de arqueo bruto $4,154.93 $4,155
 
 b). De más de 100 hasta 500 unidades de
 
-arqueo bruto $4,838.04 $4,838
+arqueo bruto $5,214.92 $5,215
 
 c). De más de 500 hasta 1,000 unidades de
 
-arqueo bruto $5,888.80 $5,889
+arqueo bruto $6,347.54 $6,348
 
 d). De más de 1,000 a 5,000 unidades de
 
-arqueo bruto $7,683.98 $7,684
+arqueo bruto $8,282.56 $8,283
 
 e). De más de 5,000 a 10,000 unidades de
 
-arqueo bruto $9,314.88 $9,315
+arqueo bruto $10,040.51 $10,041
 
 f). De más de 10,000 unidades de
 
-arqueo bruto $11,850.23 $11,850
+arqueo bruto $12,773.36 $12,773
 
 III. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
 
-a). Hasta de 100 unidades de arqueo bruto $1,698.71 $1,699
+a). Hasta de 100 unidades de arqueo bruto $1,831.04 $1,831
 
 b). De más de 100 hasta 500 unidades de
 
-arqueo bruto $2,341.71 $2,342
+arqueo bruto $2,524.13 $2,524
 
 c). De más de 500 hasta 1,000 unidades de
 
-arqueo bruto $5,083.89 $5,084
+arqueo bruto $5,479.93 $5,480
 
 d). De más de 1,000 a 5,000 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 e). De más de 5,000 a 10,000 unidades de
 
-arqueo bruto $8,322.93 $8,323
+arqueo bruto $8,971.29 $8,971
 
 f). De más de 10,000 unidades de
 
-arqueo bruto $10,743.61 $10,744
+arqueo bruto $11,580.54 $11,581
 
 IV. Por el reconocimiento total en los casos de construcción, reparación o modificación para verificar el estado de avance y el cumplimiento de las especificaciones y normas aplicables, se pagarán los derechos correspondientes de acuerdo a las unidades de arqueo bruto conforme a las siguientes cuotas:
 
 a). Hasta 50 unidades de arqueo bruto,
 
-comprendiendo 3 inspecciones parciales $8,028.23 $8,028
+comprendiendo 3 inspecciones parciales $8,653.63 $8,654
 
 b). De más de 50 hasta 100 unidades de arqueo
 
-bruto, comprendiendo 3 inspecciones parciales $11,810.56 $11,811
+bruto, comprendiendo 3 inspecciones parciales $12,730.60 $12,731
 
 c). De más de 100 hasta 200 unidades de arqueo
 
-bruto, comprendiendo 4 inspecciones parciales $16,034.58 $16,035
+bruto, comprendiendo 4 inspecciones parciales $17,283.67 $17,284
 
 d). De más de 200 hasta 300 unidades de arqueo
 
-bruto, comprendiendo 4 inspecciones parciales $19,415.48 $19,415
+bruto, comprendiendo 4 inspecciones parciales $20,927.95 $20,928
 
 e). De más de 300 hasta 500 unidades de arqueo
 
-bruto, comprendiendo 4 inspecciones parciales $23,224.00 $23,224
+bruto, comprendiendo 4 inspecciones parciales $25,033.15 $25,033
 
 f). De más de 500 hasta 1000 unidades de arqueo
 
-bruto, comprendiendo 4 inspecciones parciales $30,887.57 $30,888
+bruto, comprendiendo 4 inspecciones parciales $33,293.71 $33,294
 
 g). De más de 1000 hasta 5000 unidades de arqueo
 
-bruto, comprendiendo 4 inspecciones parciales $38,113.79 $38,114
+bruto, comprendiendo 4 inspecciones parciales $41,082.85 $41,083
 
 h). De más de 5000 hasta 15000 unidades de arqueo bruto,
 
-comprendiendo 5 inspecciones parciales $47,928.66 $47,929
+comprendiendo 5 inspecciones parciales $51,662.30 $51,662
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 i). De más de 15000 hasta 25000 unidades de arqueo
 
-bruto, comprendiendo 5 inspecciones parciales $57,719.02
+bruto, comprendiendo 5 inspecciones parciales $62,215.33 $62,215
 
 j). De más de 25000 hasta 50000 unidades de arqueo bruto,
 
-comprendiendo 6 inspecciones parciales $95,973.94 $95,974
+comprendiendo 6 inspecciones parciales $103,450.31 $103,450
 
-k). De más de 50000 unidades de arqueo bruto en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $3.8800 $4 por cada unidad de arqueo bruto o fracción excedente.
+k). De más de 50000 unidades de arqueo bruto en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $4.18 $4 por cada unidad de arqueo bruto o fracción excedente.
 
 V. Por el reconocimiento en dique seco o testificación de inspección submarina de embarcaciones y artefactos navales, conforme a las siguientes cuotas:
 
-a). Hasta 200 unidades de arqueo bruto $6,256.37 $6,256
+a). Hasta 200 unidades de arqueo bruto $6,743.74 $6,744
 
 b). De más de 200 hasta 300 unidades de
 
-arqueo bruto $7,528.62 $7,529
+arqueo bruto $8,115.10 $8,115
 
 c). De más de 300 hasta 1000 unidades
 
-de arqueo bruto $10,055.62 $10,056
+de arqueo bruto $10,838.95 $10,839
 
 d). De más de 1000 hasta 5000 unidades
 
-de arqueo bruto $12,405.80 $12,406
+de arqueo bruto $13,372.21 $13,372
 
 e). De más de 5000 hasta 10000 unidades de
 
-arqueo bruto $17,844.20 $17,844
+arqueo bruto $19,234.26 $19,234
 
 f). De más de 10000 unidades de arqueo
 
-bruto $22,908.24 $22,908
+bruto $24,692.79 $24,693
 
 VI. Por el reconocimiento de unidades fijas mar adentro:
 
-a). Hasta 300 toneladas $6,192.37 $6,192
+a). Hasta 300 toneladas $6,674.76 $6,675
 
-b). De más de 300 y hasta 500 toneladas $8,832.75 $8,833
+b). De más de 300 y hasta 500 toneladas $9,520.82 $9,521
 
-c). De más de 500 y hasta 1,000 toneladas $11,853.79 $11,854
+c). De más de 500 y hasta 1,000 toneladas $12,777.20 $12,777
 
-d). De más de 1,000 y hasta 2,000 toneladas $14,084.15 $14,084
+d). De más de 1,000 y hasta 2,000 toneladas $15,181.31 $15,181
 
 e). De más de 2,000 toneladas, por las
 
@@ -13407,11 +13425,11 @@ primeras 2,000 la cuota señalada en el inciso
 
 anterior, y por cada una o fracción de las
 
-excedentes $3.5100 $4
+excedentes $3.78 $4
 
 Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13419,31 +13437,31 @@ Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que result
 
 5. Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
 
-I. Señales en escolleras $7,171.03 $7,171
+I. Señales en escolleras $7,729.65 $7,730
 
-II. Señales en faros $36,157.64 $36,158
+II. Señales en faros $38,974.32 $38,974
 
-III. Señales en muelles $8,453.49 $8,453
+III. Señales en muelles $9,112.02 $9,112
 
 IV. Señales en atracaderos y peines de
 
-marinas turísticas $28,038.39 $28,038
+marinas turísticas $30,222.58 $30,223
 
-V. Señales de enfilaciones $16,286.86 $16,287
+V. Señales de enfilaciones $17,555.61 $17,556
 
-VI. Señales flotantes $17,240.74 $17,241
+VI. Señales flotantes $18,583.79 $18,584
 
-VII. Señales diurnas $9,694.56 $9,695
+VII. Señales diurnas $10,449.77 $10,450
 
-VIII. Señales laterales fijas $8,138.85 $8,139
+VIII. Señales laterales fijas $8,772.87 $8,773
 
-IX. Señales acústicas $17,662.78 $17,663
+IX. Señales acústicas $19,038.71 $19,039
 
-X. Señales radioeléctricas $28,694.94 $28,695
+X. Señales radioeléctricas $30,930.28 $30,930
 
-XI. Otras señales $8,089.33 $8,089
+XI. Otras señales $8,719.49 $8,719
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13451,27 +13469,27 @@ XI. Otras señales $8,089.33 $8,089
 
 6. Por los servicios de verificación de las pruebas de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación, conforme |a las siguientes cuotas:
 
-I. Hasta 200 unidades de arqueo bruto $6,379.30 $6,379
+I. Hasta 200 unidades de arqueo bruto $6,876.25 $6,876
 
 II. De más de 200 hasta 300 unidades
 
-de arqueo bruto $7,528.62 $7,529
+de arqueo bruto $8,115.10 $8,115
 
 III. De más de 300 hasta 1,000 unidades
 
-de arqueo bruto $10,055.62 $10,056
+de arqueo bruto $10,838.95 $10,839
 
 IV. De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $12,405.80 $12,406
+de arqueo bruto $13,372.21 $13,372
 
 V. De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $17,844.20 $17,844
+de arqueo bruto $19,234.26 $19,234
 
 VI. De más de 10,000 unidades de
 
-arqueo bruto $22,908.24 $22,908
+arqueo bruto $24,692.79 $24,693
 
 VII. Por la revisión del protocolo de la prueba
 
@@ -13479,9 +13497,9 @@ de estabilidad, banco, botadura, sistemas y
 
 equipamiento, pruebas de mar y tirón a punto
 
-fijo, se pagará por cada embarcación $2,058.03 $2,058
+fijo, se pagará por cada embarcación $2,218.35 $2,218
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13489,29 +13507,29 @@ fijo, se pagará por cada embarcación $2,058.03 $2,058
 
 7. Por la revisión de los documentos técnicos, de embarcaciones y artefactos navales, establecidos en el Reglamento de la Ley de Navegación y Comercio Marítimos y, en su caso, expedición del documento de cumplimiento, se pagará por cada documento presentado, las siguientes cuotas:
 
-I. Hasta 200 unidades de arqueo bruto $6,822.12 $6,822
+I. Hasta 200 unidades de arqueo bruto $7,353.56 $7,354
 
 II. De más de 200 hasta 300 unidades
 
-de arqueo bruto $7,679.92 $7,680
+de arqueo bruto $8,278.19 $8,278
 
 III. De más de 300 hasta 1,000 unidades
 
-de arqueo bruto $10,490.79 $10,491
+de arqueo bruto $11,308.02 $11,308
 
 IV. De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $11,813.65 $11,814
+de arqueo bruto $12,733.93 $12,734
 
 V. De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $17,989.62 $17,990
+de arqueo bruto $19,391.01 $19,391
 
 VI. De más de 10,000 unidades de
 
-arqueo bruto $23,183.88 $23,184
+arqueo bruto $24,989.90 $24,990
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13519,9 +13537,11 @@ arqueo bruto $23,183.88 $23,184
 
 8. Por la revisión del manual de operación de dique flotante y, en su caso, expedición del documento de aprobación, se pagará el derecho de revisión anual, conforme a las siguientes cuotas:
 
-I. Dique menor de 150 metros de eslora $22,990.27 $22,990
+I. Dique menor de 150 metros de eslora $24,781.21 $24,781
 
-II. Dique de 150 metros o más de eslora $35,050.12 $35,050
+II. Dique de 150 metros o más de eslora $37,780.52 $37,781
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -13529,13 +13549,13 @@ II. Dique de 150 metros o más de eslora $35,050.12 $35,050
 
 9.- Por la inspección, verificación y, en su caso, expedición y renovación del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos y diques flotantes, se pagará el derecho, conforme a las cuotas siguientes:
 
-I. Por la expedición $39,843.05
+I. Por la expedición $39,843.05 $39,843
 
-II. Por la renovación $27,054.71
+II. Por la renovación $27,054.71 $27,055
 
-Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,420.31
+Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,420.31 $2,420
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13543,11 +13563,11 @@ Por el análisis de la solicitud y, en su caso, autorización del personal técn
 
 10. Por la revisión de los documentos y, en su caso, autorización como inspector naval privado a personas físicas o morales, se pagarán anualmente las siguientes cuotas:
 
-I. Por persona moral $29,074.83 $29,075
+I. Por persona moral $31,339.76 $31,340
 
-II. Por persona física $3,854.65 $3,855
+II. Por persona física $4,154.93 $4,155
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13559,51 +13579,51 @@ I. Por la revisión de la evaluación de protección:
 
 a). De más de 10 hasta 200 unidades
 
-de arqueo bruto $6,124.04 $6,124
+de arqueo bruto $6,601.10 $6,601
 
 b). De más de 200 hasta 500 unidades
 
-de arqueo bruto $7,258.75 $7,259
+de arqueo bruto $7,824.21 $7,824
 
 c). De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 d). De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 e). De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $15,512.42 $15,512
+de arqueo bruto $16,720.84 $16,721
 
 f). De más de 10,000 unidades de arqueo
 
-bruto $25,004.96 $25,005
+bruto $26,952.85 $26,953
 
 II. Por la revisión y, en su caso, aprobación del Plan de Protección:
 
 a). De más de 10 hasta 200 unidades de
 
-arqueo bruto $6,456.16 $6,456
+arqueo bruto $6,959.09 $6,959
 
 b). De más de 200 hasta 500 unidades de
 
-arqueo bruto $7,646.31 $7,646
+arqueo bruto $8,241.96 $8,242
 
 c). De más de 500 hasta 1,000 unidades de
 
-arqueo bruto $10,321.96 $10,322
+arqueo bruto $11,126.04 $11,126
 
 d). De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $11,740.25 $11,740
+de arqueo bruto $12,654.82 $12,655
 
 e). De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $17,632.95 $17,633
+de arqueo bruto $19,006.56 $19,007
 
-f). De más de 10,000 de unidades de arqueo bruto $28,514.41 $28,514
+f). De más de 10,000 de unidades de arqueo bruto $30,735.68 $30,736
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
 
@@ -13611,25 +13631,25 @@ III. Por la verificación de la implantación del Plan de Protección y, en su c
 
 a). De más de 10 y hasta 200 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 b). De más de 200 y hasta 500 unidades
 
-de arqueo bruto $7,258.75 $7,259
+de arqueo bruto $7,824.21 $7,824
 
 c). De más de 500 y hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 d). De más de 1,000 y hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 e). De más de 5,000 y hasta 10,000 unidades
 
-de arqueo bruto $16,978.40 $16,978
+de arqueo bruto $18,301.02 $18,301
 
-f). De más de 10,000 unidades de arqueo bruto $25,004.96 $25,005
+f). De más de 10,000 unidades de arqueo bruto $26,952.85 $26,953
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -13637,27 +13657,27 @@ IV. Por la expedición, reposición o renovación del Certificado Internacional 
 
 a). De más de 10 hasta 200 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 b). De más de 200 y hasta 500 unidades
 
-de arqueo bruto $7,258.75 $7,259
+de arqueo bruto $7,824.21 $7,824
 
 c). De más de 500 y hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 d). De más de 1,000 y hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 e). De más de 5,000 y hasta 10,000 unidades
 
-de arqueo bruto $15,512.42 $15,512
+de arqueo bruto $16,720.84 $16,721
 
-f). De más de 10,000 unidades de arqueo bruto $25,004.96 $25,005
+f). De más de 10,000 unidades de arqueo bruto $26,952.85 $26,953
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -13669,21 +13689,21 @@ I. Por la expedición, reposición o
 
 renovación de la declaración de
 
-cumplimiento $4,273.70 $4,274
+cumplimiento $4,606.62 $4,607
 
-II. Por la evaluación de protección $30,043.11 $30,043
+II. Por la evaluación de protección $32,383.47 $32,383
 
 III. Por la revisión y, en su caso,
 
-aprobación del plan de protección $11,251.72 $11,252
+aprobación del plan de protección $12,128.23 $12,128
 
 IV. Por la verificación inicial o
 
 anual de la implantación del plan
 
-de protección $22,169.53 $22,170
+de protección $23,896.54 $23,897
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -13693,21 +13713,21 @@ de protección $22,169.53 $22,170
 
 I. Expedición, reposición o renovación de
 
-la declaración nacional de cumplimiento $3,035.33 $3,035
+la declaración nacional de cumplimiento $3,271.78 $3,272
 
-II. Por la evaluación de protección $15,193.61 $15,194
+II. Por la evaluación de protección $16,377.19 $16,377
 
 III. Por la revisión y, en su caso,
 
-aprobación del plan de protección $8,257.61 $8,258
+aprobación del plan de protección $8,900.88 $8,901
 
 IV. Verificación inicial, anual o de
 
 renovación de la implementación del
 
-plan de protección $11,847.05 $11,847
+plan de protección $12,769.94 $12,770
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -13719,23 +13739,23 @@ I. Por la expedición, reposición o
 
 renovación de la declaración de
 
-cumplimiento $6,911.13 $6,911
+cumplimiento $7,449.51 $7,450
 
 II. Por la evaluación de
 
-protección $60,017.63 $60,018
+protección $64,693.00 $64,693
 
 III. Por la revisión y, en su caso,
 
-aprobación del plan de protección $15,274.68 $15,275
+aprobación del plan de protección $16,464.58 $16,465
 
 IV. Por la verificación inicial,
 
 anual o de renovación de la
 
-implantación del plan de protección $40,447.85 $40,448
+implantación del plan de protección $43,598.74 $43,599
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13745,71 +13765,73 @@ implantación del plan de protección $40,447.85 $40,448
 
 I. Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
 
-a). Por empresa $11,627.10 $11,627
+a). Por empresa $12,532.85 $12,533
 
 b). Por buque:
 
-1. De 10 hasta 200 unidades de arqueo bruto $4,692.82 $4,693
+1. De 10 hasta 200 unidades
+
+de arqueo bruto $5,058.39 $5,058
 
 2. De más de 200 hasta 500 unidades
 
-de arqueo bruto $5,637.46 $5,637
+de arqueo bruto $6,076.62 $6,077
 
 3. De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $6,961.27 $6,961
+de arqueo bruto $7,503.55 $7,504
 
 4. De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $9,717.31 $9,717
+de arqueo bruto $10,474.29 $10,474
 
 5. De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $12,224.36 $12,224
+de arqueo bruto $13,176.64 $13,177
 
 6. De más de 10,000 unidades de
 
-arqueo bruto $17,045.70 $17,046
+arqueo bruto $18,373.56 $18,374
 
 También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
 
 II. Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
 
-a) Por empresa $31,891.26 $31,891
+a) Por empresa $34,375.59 $34,376
 
 b) Por buque:
 
 1. De más de 10 y hasta 200 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 2. De más de 200 y hasta 500 unidades
 
-de arqueo bruto $7,258.75 $7,259
+de arqueo bruto $7,824.21 $7,824
 
 3. De más de 500 y hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 4. De más de 1,000 y hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 5. De más de 5,000 y hasta 10,000 unidades
 
-de arqueo bruto $15,512.42 $15,512
+de arqueo bruto $16,720.84 $16,721
 
 6. De más de 10,000 unidades de
 
-arqueo bruto $25,004.96 $25,005
+arqueo bruto $26,952.85 $26,953
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 195-Z
 
-13. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de $6,124.04 $6,124
+13. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de $6,601.10 $6,601
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13821,7 +13843,7 @@ I. Las dedicadas exclusivamente a fines educativos, humanitarios o científicos.
 
 II. Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13831,13 +13853,13 @@ II. Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén ded
 
 I. Expedición y reposición de libreta de mar y documento
 
-de identidad marítima se pagará por cada uno $493.70 $494
+de identidad marítima se pagará por cada uno $532.16 $532
 
 II. Por la expedición o reposición de refrendo y
 
-dispensa a personal subalterno $798.20 $798
+dispensa a personal subalterno $860.38 $860
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13847,57 +13869,57 @@ dispensa a personal subalterno $798.20 $798
 
 I. Cada certificado estatutario emitido por los inspectores navales privados y las Organizaciones Reconocidas (OR) autorizadas, conforme a las siguientes cuotas:
 
-a). Hasta 10 unidades de arqueo bruto $46.35 $46
+a). Hasta 10 unidades de arqueo bruto $49.96 $50
 
 b). De más de 10 y hasta 20 unidades
 
-de arqueo bruto $52.02 $52
+de arqueo bruto $56.07 $56
 
 c). De más de 20 y hasta 50 unidades
 
-de arqueo bruto $90.08 $90
+de arqueo bruto $97.10 $97
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 d). De más de 50 y hasta 75 unidades
 
-de arqueo bruto $243.10 $243
+de arqueo bruto $262.04 $262
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 e). De más de 75 y hasta 100 unidades
 
-de arqueo bruto $299.98 $300
+de arqueo bruto $323.35 $323
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 f). De más de 100 y hasta 200 unidades
 
-de arqueo bruto $314.84 $315
+de arqueo bruto $339.37 $339
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 g). De más de 200 y hasta 300 unidades
 
-de arqueo bruto $362.58 $363
+de arqueo bruto $390.82 $391
 
 h). De más de 300 y hasta 500 unidades
 
-de arqueo bruto $442.49 $442
+de arqueo bruto $476.96 $477
 
 i). De más de 500 y hasta 1,000 unidades
 
-de arqueo bruto $592.56 $593
+de arqueo bruto $638.72 $639
 
 j). De más de 1,000 y hasta 2,000 unidades
 
-de arqueo bruto $703.94 $704
+de arqueo bruto $758.78 $759
 
 k). Por las primeras 2,000 unidades de aqueo bruto
 
 la cuota señalada en el inciso anterior, y por cada
 
-una o fracción de las excedentes $1.7600 $2
+una o fracción de las excedentes $1.90 $2
 
 II. Cada reporte de cada servicio de evaluación y
 
@@ -13905,9 +13927,9 @@ verificación de protección marítima a embarcaciones,
 
 que realizan las Organizaciones de Protección Reconocidas
 
-(OPR), se pagará la cuota de: $1,830.79 $1,831
+(OPR), se pagará la cuota de: $1,973.41 $1,973
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13917,9 +13939,9 @@ que realizan las Organizaciones de Protección Reconocidas
 
 expedición del certificado técnico de
 
-operación y navegabilidad $1,698.71 $1,699
+operación y navegabilidad $1,831.04 $1,831
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13929,9 +13951,9 @@ operación y navegabilidad $1,698.71 $1,699
 
 en su caso, renovación de la aprobación de los talleres de
 
-reparaciones navales $2,621.84 $2,622
+reparaciones navales $2,826.08 $2,826
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13941,9 +13963,9 @@ reparaciones navales $2,621.84 $2,622
 
 expedición de la autorización a terceros para la elaboración
 
-de documentos técnicos $1,698.71 $1,699
+de documentos técnicos $1,831.04 $1,831
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13953,29 +13975,29 @@ de documentos técnicos $1,698.71 $1,699
 
 I. De más de 10 hasta 200 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 II. De más de 200 hasta 500 unidades
 
-de arqueo bruto $7,258.75 $7,259
+de arqueo bruto $7,824.21 $7,824
 
 III. De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 IV. De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 V. De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $15,512.42 $15,512
+de arqueo bruto $16,720.84 $16,721
 
 VI. De más de 10,000 unidades de
 
-arqueo bruto $25,004.96 $25,005
+arqueo bruto $26,952.85 $26,953
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
@@ -13985,53 +14007,53 @@ arqueo bruto $25,004.96 $25,005
 
 I. De más de 10 hasta 200 unidades de
 
-arqueo bruto $6,124.04 $6,124
+arqueo bruto $6,601.10 $6,601
 
 II. De más de 200 hasta 500 unidades de
 
-arqueo bruto $7,258.75 $7,259
+arqueo bruto $7,824.21 $7,824
 
 III. De más de 500 hasta 1,000 unidades
 
-de arqueo bruto $8,521.45 $8,521
+de arqueo bruto $9,185.27 $9,185
 
 IV. De más de 1,000 hasta 5,000 unidades
 
-de arqueo bruto $11,057.19 $11,057
+de arqueo bruto $11,918.55 $11,919
 
 V. De más de 5,000 hasta 10,000 unidades
 
-de arqueo bruto $15,512.42 $15,512
+de arqueo bruto $16,720.84 $16,721
 
 VI. De más de 10,000 unidades de
 
-arqueo bruto $25,004.96 $25,005
+arqueo bruto $26,952.85 $26,953
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación $750.68 $751
+22. Por el trámite y, en su caso, expedición, reposición o modificación del Registro Sinóptico Continuo, se pagará por cada embarcación $809.16 $809
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
-
-> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
-
-###### ARTICULO 195-Z
-
-23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques $726.49 $726
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida $28,137.84 $28,138
+23. Por el trámite y, en su caso, expedición o reposición de la constancia de Pruebas de Conformidad del Sistema de Identificación y Seguimiento de Largo Alcance de los Buques $783.08 $783
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+24. Por el trámite y, en su caso, expedición, reposición o renovación de la autorización como Organización de Protección Reconocida $30,329.78 $30,330
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -14041,29 +14063,31 @@ arqueo bruto $25,004.96 $25,005
 
 > <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-I. Receptora de basuras $1,439.61 $1,440
+I. Receptora de basuras $1,551.76 $1,552
 
 > <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
-II. Receptora de sustancias nocivas líquidas e hidrocarburos $1,531.82 $1,532
+II. Receptora de sustancias nocivas
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+líquidas e hidrocarburos $1,651.15 $1,651
 
-> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
-
-###### ARTICULO 195-Z
-
-26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales $1,439.61 $1,440
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
 ###### ARTICULO 195-Z
 
-27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas $2,432.53 $2,433
+26. Por la autorización a terceros para efectuar el servicio de inspección submarina a embarcaciones y artefactos navales nacionales $1,551.76 $1,552
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
+
+###### ARTICULO 195-Z
+
+27. Por la verificación y, en su caso, asignación de número de registro permanente y certificado de aprobación marítima a estaciones de servicio para el mantenimiento a equipos de radiocomunicación marítima e instalaciones eléctricas $2,622.02 $2,622
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -14073,37 +14097,37 @@ II. Receptora de sustancias nocivas líquidas e hidrocarburos $1,531.82 $1,532
 
 I. De más de 3 hasta 20 unidades
 
-de arqueo bruto $341.10 $341
+de arqueo bruto $367.67 $368
 
 II. De más de 20 hasta 100 unidades
 
-de arqueo bruto $513.85 $514
+de arqueo bruto $553.88 $554
 
 III. De más de 100 hasta 500
 
-unidades de arqueo bruto $842.50 $842
+unidades de arqueo bruto $908.13 $908
 
 IV. De más de 500 hasta
 
-1,000 unidades de arqueo bruto $1,714.76 $1,715
+1,000 unidades de arqueo bruto $1,848.34 $1,848
 
 V. De más de 1,000 hasta
 
 15,000 unidades de arqueo
 
-bruto $3,439.48 $3,439
+bruto $3,707.42 $3,707
 
 VI. De más de 15,000 hasta
 
-25,000 unidades de arqueo bruto $4,382.05 $4,382
+25,000 unidades de arqueo bruto $4,723.41 $4,723
 
 VII. De más de 25,000 hasta
 
-50,000 unidades de arqueo bruto $5,054.36 $5,054
+50,000 unidades de arqueo bruto $5,448.09 $5,448
 
 VIII. De más de 50,000 unidades
 
-de arqueo bruto $6,094.33 $6,094
+de arqueo bruto $6,569.08 $6,569
 
 Para los efectos de la fracción I y cuando la embarcación se utilice para el servicio de carga y pasaje en navegación interior, se pagará el 50% de la cuota establecida.
 
@@ -14115,11 +14139,13 @@ No se pagará el derecho a que se refiere este artículo, por las embarcaciones 
 
 El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
 > <small>(ADICIONADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 195-Z
 
-29.- Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de $22,818.74
+29.- Por el análisis de la solicitud y, en su caso, expedición del permiso de vertimiento en las zonas marinas mexicanas, se pagará el derecho conforme a la cuota de $22,818.74 $22,819
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -14127,7 +14153,7 @@ El pago que deba realizarse a la autoridad competente por los servicios anterior
 
 ### CAPITULO I. Bosques y Áreas Naturales Protegidas
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 196.
 
@@ -14145,7 +14171,7 @@ corteza autorizado de: caoba, cedro rojo,
 
 primavera, fresno, nogal, guayacán y otras
 
-especies similares $3,416.07 $3,416
+especies similares $3,682.18 $3,682
 
 b) Maderas, por metro cúbico rollo fustal
 
@@ -14153,19 +14179,19 @@ sin corteza autorizado de: canshan, barí,
 
 jobo, chacáguanacastle, ceiba, bojón,
 
-cedrillo y especies similares $643.61 $644
+cedrillo y especies similares $693.75 $694
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-e) Chicle, por tonelada autorizada $8,873.27 $8,873
+e) Chicle, por tonelada autorizada $9,564.50 $9,564
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-a) De ganado mayor $21.50 $21
+a) De ganado mayor $23.17 $23
 
-b) De ganado menor $10.37 $10
+b) De ganado menor $11.18 $11
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -14177,7 +14203,7 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 El derecho sobre bosques se pagará previamente al aprovechamiento de bosques, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 197-A.
 
@@ -14187,7 +14213,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$186.13
+$200.63
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -14197,7 +14223,7 @@ El pago del derecho a que este artículo se refiere, se hará previamente al apr
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere este artículo, se destinarán a la Comisión Nacional Forestal para los programas de restauración forestal con especies nativas.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -14205,7 +14231,7 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 Por el uso o aprovechamiento no extractivo de los elementos naturales y escénicos que se realizan en las Áreas Naturales Protegidas marinas, insulares y terrestres sujetos al régimen de dominio público de la Federación, derivado de actividades recreativas, turísticas y deportivas de buceo autónomo, buceo libre, esquí acuático, recorridos en embarcaciones motorizadas y no motorizadas, observación de fauna marina en general, pesca deportiva en cualquiera de sus modalidades, la navegación en mares, canales, esteros, rías y lagunas costeras, ciclismo, paseo a caballo, rappel, montañismo, excursionismo, alta montaña, campismo, pernocta, observación de aves y otra fauna y flora silvestre, espeleología, escalada en roca, visitas guiadas y no guiadas, descenso en ríos, uso de kayak y otras embarcaciones a remo o motorizadas y recorridos en vehículos motorizados se pagarán derechos, conforme a las siguientes cuotas:
 
-I. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga baja por la alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $96.63 $97.00
+I. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga baja por la alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $104.16 $104
 
 - Parque Nacional Bahía de Loreto
 
@@ -14245,13 +14271,13 @@ I. Por persona, por día, por cada Área Natural Protegida considerada como de c
 
 - Área de Protección de Flora y Fauna Yum Balam
 
-I Bis. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $1,610.55 $1,611.00
+I Bis. Por persona, por día, por cada Área Natural Protegida considerada como de muy baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $1,736.01 $1,736
 
 - Parque Nacional Revillagigedo
 
 - Reserva de la Biosfera Isla Guadalupe
 
-I Ter. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga media por la mediana vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $53.69 $54.00
+I Ter. Por persona, por día, por cada Área Natural Protegida considerada como de capacidad de carga media por la mediana vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $57.87 $58
 
 - Parque Nacional Arrecife de Puerto Morelos
 
@@ -14367,7 +14393,7 @@ I Ter. Por persona, por día, por cada Área Natural Protegida considerada como 
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $322.11 $322.00
+I Quáter. Por persona, por día, por cada Área Natural Protegida considerada como de baja capacidad de carga por la muy alta vulnerabilidad y fragilidad de sus ecosistemas, de conformidad con la siguiente lista: $347.20 $347
 
 - Reserva de la Biosfera Banco Chinchorro
 
@@ -14379,11 +14405,11 @@ Reserva de la Biosfera Islas Marías
 
 > <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
-II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis, I Ter y I Quáter por persona, por día, por Área Natural Protegida: $41.12 $41
+II. Por las demás Áreas Naturales Protegidas no enlistadas en las fracciones I, I Bis, I Ter y I Quáter por persona, por día, por Área Natural Protegida: $44.32 $44
 
 No pagarán el derecho establecido en esta fracción, las personas que hayan pagado el derecho señalado en las fracciones I, I Bis, I Ter y I Quáter de este artículo, siempre y cuando la visita a las Áreas Naturales Protegidas por las que se efectúa el pago previsto en esta fracción se realice el mismo día.
 
-III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $1,610.55 $1,611.00
+III. Las personas podrán optar por pagar los derechos a que se refiere este artículo, por persona, por año, para todas las Áreas Naturales Protegidas, con excepción de las señaladas en la fracción I Bis del presente artículo: $1,736.01 $1,736
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -14415,7 +14441,7 @@ En el caso de que para acceder a una determinada Área Natural Protegida que por
 
 ### CAPITULO II. Pesca
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 199.
 
@@ -14425,7 +14451,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-$3,595.94 $3,596
+$3,876.06 $3,876
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -14439,7 +14465,7 @@ El pago del derecho a que se refiere este artículo se hará previamente a la ex
 
 Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrados en esta materia por México con otros países.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -14463,63 +14489,63 @@ REGISTRO DE LA
 
 EMBARCACIÓN
 
-I.- ABULÓN $1,016.42
+I.- ABULÓN $1,095.60
 
-II.- SARGAZO $135.84 $3,679.07
+II.- SARGAZO $146.42 $3,965.67
 
-III.- ALGAS MARINAS $6,252.39 $3,679.07
+III.- ALGAS MARINAS $6,739.45 $3,965.67
 
-IV.- ALMEJAS $854.72 $3,679.07
+IV.- ALMEJAS $921.30 $3,965.67
 
-V.- ANCHOVETA $93.33
+V.- ANCHOVETA $100.60
 
-VI.- CALAMAR $138.49
+VI.- CALAMAR $149.28
 
-VII.- CAMARÓN DE ALTAMAR $63.54
+VII.- CAMARÓN DE ALTAMAR $68.49
 
 VIII.- CAMARÓN DE AGUAS
 
-PROTEGIDAS $131.61
+PROTEGIDAS $141.86
 
-IX.- CANGREJO $110.31
+IX.- CANGREJO $118.90
 
-X.- CARACOL $463.40
+X.- CARACOL $499.50
 
-XI.- ERIZO $2,135.04
+XI.- ERIZO $2,301.36
 
-XII.- JAIBA $72.06
+XII.- JAIBA $77.67
 
 XIII.- ESPECIES MARINAS
 
-DE ESCAMA $93.33
+DE ESCAMA $100.60
 
 XIV.- ESPECIES DE ESCAMA
 
-DE AGUA DULCE $46.51
+DE AGUA DULCE $50.13
 
-XV.- LANGOSTA $442.07
+XV.- LANGOSTA $476.51
 
-XVI.- LANGOSTINO $72.06
+XVI.- LANGOSTINO $77.67
 
-XVII.- OSTIÓN $93.33
+XVII.- OSTIÓN $100.60
 
-XVIII.- PICUDOS $80.55
+XVIII.- PICUDOS $86.82
 
-XIX.- PULPO $263.49 $357.07
+XIX.- PULPO $284.02 $384.89
 
-XX.- SARDINA $93.33
+XX.- SARDINA $100.60
 
-XXI.- TIBURÓN $23.41
+XXI.- TIBURÓN $25.23
 
-XXII.- TÚNIDOS $63.54
+XXII.- TÚNIDOS $68.49
 
 XXIII.- OTRAS PESQUERÍAS
 
-MARINAS $84.84 $357.07
+MARINAS $91.45 $384.89
 
 XXIV.- OTRAS PESQUERÍAS
 
-DE AGUA DULCE $46.51 $357.07
+DE AGUA DULCE $50.13 $384.89
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
@@ -14529,7 +14555,7 @@ de camarón del medio natural, para abastecer
 
 unidades de producción acuícola, se pagará la
 
-cuota de $978.01
+cuota de $1,054.20
 
 por cada millón de organismos
 
@@ -14541,7 +14567,7 @@ Las cuotas anuales señaladas en las fracciones I a la XXIV deberán pagarse, po
 
 El pago se efectuará atendiendo a la vigencia y fecha de expedición de los permisos o concesiones de pesca comercial, los que se refieran a períodos menores a un año se cubrirán mediante cuotas por cada mes o fracción, dividiendo la cuota anual correspondiente a la especie de que se trate entre doce. El pago de cuotas correspondientes a años subsecuentes amparados por el permiso o concesión expedido se cubrirá dentro del mes de enero del ejercicio fiscal correspondiente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -14553,13 +14579,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por un día $166.89 $167
+I.- Por un día $179.89 $180
 
-II.- Por una semana $418.37 $418
+II.- Por una semana $450.96 $451
 
-III.- Por un mes $627.62 $628
+III.- Por un mes $676.51 $677
 
-IV.- Por un año $837.05 $837
+IV.- Por un año $902.26 $902
 
 V.- Para excursiones de pesca deportiva
 
@@ -14567,7 +14593,7 @@ procedentes del extranjero, por cada
 
 integrante y por viaje de más de tres
 
-días y hasta por un año $1,190.74 $1,191
+días y hasta por un año $1,283.50 $1,283
 
 En este último caso, si son menores a tres días, se pagará la cuota señalada por día, multiplicada por el número de días de viaje.
 
@@ -14579,33 +14605,33 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 ### CAPITULO III. Puerto y Atraque
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200.
 
-Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $8.44, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales que usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $9.10, por unidad de arqueo bruto o fracción.
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 200-A.
 
-Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $3.74, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones entren a los puertos nacionales o a las terminales de uso público fuera de puerto habilitado pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $4.03, por unidad de arqueo bruto o fracción.
 
 Tratándose de las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos o terminales de uso público fuera de puerto habilitado, siguientes al primero.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTICULO 201.
 
-Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $2.68, por unidad de arqueo bruto o fracción.
+Las personas físicas y morales cuyas embarcaciones usen los puertos nacionales o las terminales de uso público fuera de puerto habilitado, pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $2.89, por unidad de arqueo bruto o fracción.
 
 Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto o terminal de uso público fuera de puerto habilitado en que entren.
 
@@ -14615,7 +14641,7 @@ Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el
 
 Los derechos a que se refieren los artículos 200, 200-A y 201 de esta ley se pagarán dentro de los 5 días siguientes a aquél en que entre a puerto la embarcación o previo a su salida, lo que ocurra primero.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14627,13 +14653,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por embarcación comercial $0.82
+I.- Por embarcación comercial $0.88
 
-II.- Por yate $0.53
+II.- Por yate $0.57
 
-III.- Por embarcación arrejerada $0.37
+III.- Por embarcación arrejerada $0.40
 
-IV.- Por embarcación local comercial $0.55
+IV.- Por embarcación local comercial $0.59
 
 Para los efectos de este artículo, se entiende por embarcación comercial cualquiera que se destine a la realización de actos de comercio; por yate, toda embarcación que esté destinada exclusivamente al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro; por embarcación arrejerada, aquella que únicamente utiliza el muelle para ser amarrada, por lo que no atraca en el mismo, o bien sólo hace contacto con él con su proa o su popa por hallarse en posición perpendicular al muelle; y por embarcación local comercial, la que opera únicamente en un puerto y está registrada en el mismo.
 
@@ -14695,7 +14721,7 @@ Los derechos a que se refiere este capítulo no se causarán cuando el uso o apr
 
 ### CAPITULO IV. Muelle, Embarque y Desembarque
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14707,15 +14733,15 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Mercancías de exportación $7.99 $8
+I.- Mercancías de exportación $8.61 $9
 
-II.- Mercancías de importación $17.24 $17
+II.- Mercancías de importación $18.58 $19
 
-III.- Mercancías de tráfico de cabotaje $4.11 $4
+III.- Mercancías de tráfico de cabotaje $4.43 $4
 
 El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -14729,11 +14755,11 @@ Sin ajuste Con ajuste
 
 I.- En instalaciones no dedicadas exclusivamente
 
-al servicio de pasajeros $40.22 $40
+al servicio de pasajeros $43.35 $43
 
 II.- En instalaciones exclusivas para
 
-pasajeros $60.55 $61
+pasajeros $65.27 $65
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 
@@ -14817,21 +14843,21 @@ Las autoridades portuarias, antes de expedir el despacho de salida de una embarc
 
 ### CAPITULO V. Salinas
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 211-A.
 
-Están obligados a pagar el derecho de explotación de sal, las personas físicas o morales, titulares de permisos, autorizaciones o concesiones mineras que al amparo de las mismas exploten las sales o subproductos que se obtengan de salinas formadas de aguas provenientes de mares actuales, en forma natural o artificial. El derecho se calculará aplicando la cantidad de $2.6463 por cada tonelada enajenada de sal o sus subproductos.
+Están obligados a pagar el derecho de explotación de sal, las personas físicas o morales, titulares de permisos, autorizaciones o concesiones mineras que al amparo de las mismas exploten las sales o subproductos que se obtengan de salinas formadas de aguas provenientes de mares actuales, en forma natural o artificial. El derecho se calculará aplicando la cantidad de $2.8524 por cada tonelada enajenada de sal o sus subproductos.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 El derecho se pagará semestralmente mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria, dentro de los 5 días posteriores al último día del semestre al que corresponda el pago.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 211-B.
 
-Las personas físicas o morales a que se refiere el artículo anterior, que para realizar las actividades descritas en este Capítulo usen o aprovechen la zona federal marítimo terrestre, adicionalmente al derecho previsto en el artículo 211-A de esta Ley, pagarán anualmente el derecho de uso de la zona federal marítimo terrestre para la explotación de salinas, por cada metro cuadrado, la cantidad de $0.1637
+Las personas físicas o morales a que se refiere el artículo anterior, que para realizar las actividades descritas en este Capítulo usen o aprovechen la zona federal marítimo terrestre, adicionalmente al derecho previsto en el artículo 211-A de esta Ley, pagarán anualmente el derecho de uso de la zona federal marítimo terrestre para la explotación de salinas, por cada metro cuadrado, la cantidad de $0.1765
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -14957,7 +14983,7 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 Están obligadas al pago del derecho sobre agua, las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -15015,11 +15041,11 @@ Zona de disponibilidad 1 a 4 $0.2198
 
 Los ingresos que se obtengan por la recaudación del derecho a que se refiere este Apartado, se destinarán a la Comisión Nacional del Agua para la instalación de dispositivos de medición y tecnificación del propio sector agropecuario.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 223.
+###### ARTICULO 223
 
 BIS.- Las personas físicas y morales a que se refieren los artículos 222 y 223 de esta Ley, que trasvasen directamente las aguas nacionales, así como aquéllas que se beneficien del trasvase indirecto, pagarán adicionalmente a las cuotas previstas en el artículo 223 citado, las cuotas siguientes atendiendo a los usos establecidos en el artículo 223 de esta Ley, así como a las zonas de disponibilidad de donde se efectúa la exportación del agua trasvasada y la de importación.
 
@@ -15405,7 +15431,7 @@ La Comisión Nacional del Agua informará, trimestralmente, al H. Congreso de la
 
 ### CAPITULO IX. Uso o goce de Inmuebles
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -15421,7 +15447,7 @@ Sin ajuste Con ajuste
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota $3.8444
+Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie, la siguiente cuota $4.1439
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -15437,13 +15463,13 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-IV.- De $0.0604 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+IV.- De $0.0651 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-V.- De $3.8990 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+V.- De $4.2027 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-VI.- De $3.9085 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
+VI.- De $4.2130 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
 
-VII.- De $0.1541 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
+VII.- De $0.1661 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
 
 VIII.- (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
@@ -15455,7 +15481,7 @@ donde se instalen módulos o máquinas
 
 expendedoras de bienes o servicios, se pagará
 
-por metro cuadrado o fracción, por cada mes $361.01 $361
+por metro cuadrado o fracción, por cada mes $389.13 $389
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -15471,7 +15497,7 @@ X.- Por el depósito de restos humanos
 
 en templos de propiedad federal o sus
 
-anexidades, por cada depósito $1,047.12 $1,047
+anexidades, por cada depósito $1,128.69 $1,129
 
 XI.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
@@ -15481,11 +15507,11 @@ Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicar
 
 Para los efectos de este artículo, no se estará obligado al pago de los derechos tratándose de los siguientes casos:
 
-a).- Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo 37 de la Ley de Puertos;
+a).- Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo 37 de la Ley de Puertos; $101.00 $101
 
-b).- Las personas físicas o morales contratadas por dependencias del Gobierno Federal o por sus organismos descentralizados, para la realización de servicios tales como conservación, mantenimiento, vigilancia, limpieza o jardinería que deben realizar en el interior de los inmuebles y que requieren de espacios para el alojamiento de equipos, enseres diversos y la estancia de personas, por los espacios ocupados en dichos inmuebles;
+b).- Las personas físicas o morales contratadas por dependencias del Gobierno Federal o por sus organismos descentralizados, para la realización de servicios tales como conservación, mantenimiento, vigilancia, limpieza o jardinería que deben realizar en el interior de los inmuebles y que requieren de espacios para el alojamiento de equipos, enseres diversos y la estancia de personas, por los espacios ocupados en dichos inmuebles; $1,111.05 $1,111
 
-c).- Las empresas contratistas y arrendadoras financieras que ejecuten obras dentro de los inmuebles de que se trate a cargo del Gobierno Federal, por dichos inmuebles.
+c).- Las empresas contratistas y arrendadoras financieras que ejecuten obras dentro de los inmuebles de que se trate a cargo del Gobierno Federal, por dichos inmuebles. $70.69 $71
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15519,7 +15545,7 @@ Los derechos a que se refiere este artículo se enterarán mediante pagos defini
 
 Los bienes a que se refiere este artículo en ningún caso serán objeto de los derechos establecidos en los artículos 232 y 232-A.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -15547,33 +15573,33 @@ bola
 
 ($ /m2) ($ /m2) ($ /m2)
 
-ZONA I $0.44 $0.177 $1.64
+ZONA I $0.47 $0.191 $1.77
 
-ZONA II $1.07 $0.177 $3.46
+ZONA II $1.15 $0.191 $3.73
 
-ZONA III $2.30 $0.177 $7.06
+ZONA III $2.48 $0.191 $7.61
 
-ZONA IV $3.55 $0.177 $10.64
+ZONA IV $3.83 $0.191 $11.47
 
-ZONA V $4.78 $0.177 $14.28
+ZONA V $5.15 $0.191 $15.39
 
-ZONA VI $7.44 $0.177 $21.50
+ZONA VI $8.02 $0.191 $23.17
 
-ZONA VII $9.94 $0.177 $28.69
+ZONA VII $10.71 $0.191 $30.92
 
-ZONA VIII $18.77 $0.177 $54.01
+ZONA VIII $20.23 $0.191 $58.22
 
-ZONA IX $25.07 $0.177 $72.03
+ZONA IX $27.02 $0.191 $77.64
 
-ZONA X $50.32 $0.177 $144.25
+ZONA X $54.24 $0.191 $155.49
 
 ZONA XI Subzona A
 
-$22.70 $0.161 $81.58
+$24.47 $0.174 $87.94
 
 Subzona B
 
-$45.57 $0.161 $163.31
+$49.12 $0.174 $176.03
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -15645,7 +15671,7 @@ ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco d
 
 ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15655,17 +15681,17 @@ ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quinta
 
 Material $ /M3
 
-Grava $19.10
+Grava $20.59
 
-Arena $19.10
+Arena $20.59
 
-Arcillas y limos $13.87
+Arcillas y limos $14.95
 
-Materiales en greña $14.96
+Materiales en greña $16.13
 
-Piedra bola $16.50
+Piedra bola $17.79
 
-Otros $5.72
+Otros $6.17
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -15799,7 +15825,7 @@ III.- Determinar la cantidad de materiales extraídos de los cauces, vasos y zon
 
 Cuando las autoridades fiscales hagan las valuaciones a que se refiere este artículo, proporcionarán al contribuyente un extracto del avalúo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -15815,33 +15841,33 @@ I.- Zona 1 $/M3
 
 Estados de Baja California, Guanajuato, Sinaloa, Sonora, Tabasco, Veracruz y Zacatecas:
 
-Grava $29.62
+Grava $31.93
 
-Arena $29.62
+Arena $31.93
 
-Arcillas y Limos $23.26
+Arcillas y Limos $25.07
 
-Materiales en Greña $23.26
+Materiales en Greña $25.07
 
-Piedra $25.40
+Piedra $27.38
 
-Otros $10.61
+Otros $11.44
 
 II.- Zona 2
 
 Los Estados no comprendidos en la fracción anterior y el Distrito Federal:
 
-Grava $19.05
+Grava $20.53
 
-Arena $19.05
+Arena $20.53
 
-Arcillas y Limos $14.80
+Arcillas y Limos $15.95
 
-Materiales en Greña $14.80
+Materiales en Greña $15.95
 
-Piedra $16.92
+Piedra $18.24
 
-Otros $6.33
+Otros $6.82
 
 El derecho por extracción de materiales se pagará previamente, mediante declaración que se presente en las oficinas que autorice el Servicio de Administración Tributaria.
 
@@ -15893,7 +15919,7 @@ VI.- El volumen o cualquier información proporcionada por el contribuyente a la
 
 Tratándose del derecho a que se refieren los artículos 232, fracciones I, segundo párrafo, IV y V y 236 de esta Ley, la Comisión Nacional del Agua está facultada para ejercer las atribuciones establecidas en el artículo 192-E de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -15909,15 +15935,15 @@ I.- Anuncios publicitarios que tienen una
 
 superficie total hasta de 50 metros
 
-cuadrados $7,115.81 $7,116
+cuadrados $7,670.13 $7,670
 
 II.- Anuncios publicitarios que tienen una
 
 superficie total de más de 50 metros
 
-cuadrados y de hasta 75 metros cuadrados $10,673.91 $10,674
+cuadrados y de hasta 75 metros cuadrados $11,505.41 $11,505
 
-III.- Señales informativas $10,672.63 $10,673
+III.- Señales informativas $11,504.03 $11,504
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -15949,7 +15975,7 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 #### SECCION PRIMERA. Aprovechamiento Extractivo
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -15961,19 +15987,19 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Borrego Cimarrón $626,026.23 $626,026
+I.- Borrego Cimarrón $674,793.67 $674,794
 
 II.- Venado Bura en Sonora o Cola
 
-Blanca texano $60,216.82 $60,217
+Blanca texano $64,907.71 $64,908
 
-III.- Puma $23,186.13 $23,186
+III.- Puma $24,992.33 $24,992
 
 IV.- Venado Bura Cola Blanca en
 
-el resto del país y Temazate $18,548.90 $18,549
+el resto del país y Temazate $19,993.86 $19,994
 
-V.- Faisán de Collar $11,593.04 $11,593
+V.- Faisán de Collar $12,496.14 $12,496
 
 VI.- Patos, palomas, codornices,
 
@@ -15981,23 +16007,23 @@ cercetas, gansos, perdiz, tinamú,
 
 branta negra del pacífico y otras
 
-aves, por lote $34,122.87 $34,123
+aves, por lote $36,781.04 $36,781
 
 VII.- Guajolote Silvestre
 
-y Pavo Ocelado $6,955.84 $6,956
+y Pavo Ocelado $7,497.70 $7,498
 
 VIII.- Zorra gris y otros
 
-pequeños mamíferos $6,955.84 $6,956
+pequeños mamíferos $7,497.70 $7,498
 
-IX.- Gato Montés $4,637.22 $4,637
+IX.- Gato Montés $4,998.46 $4,998
 
 X.- Jabalí (de collar, labios
 
-blancos, europeo) $4,637.22 $4,637
+blancos, europeo) $4,998.46 $4,998
 
-XI.- Borrego Audat o Berberisco $1,159.28 $1,159
+XI.- Borrego Audat o Berberisco $1,249.59 $1,250
 
 XII.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -16031,7 +16057,7 @@ No se estará obligado al pago del derecho a que se refiere este artículo, cuan
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -16043,7 +16069,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por persona, por día: $40.85 $41
+I. Por persona, por día: $44.03 $44
 
 II. Se podrá optar por pagar el derecho a que
 
@@ -16055,7 +16081,7 @@ conservación de las tortugas propiedad de la
 
 Nación y en los centros para la conservación
 
-e investigación de la vida silvestre: $424.87 $425
+e investigación de la vida silvestre: $457.97 $458
 
 > <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -16119,7 +16145,7 @@ Los Poderes de la Unión, las entidades paraestatales federales y los organismos
 
 Lo dispuesto en este Capítulo, será aplicable para cualquier concesión, permiso, asignación o como se denomine de acuerdo con las disposiciones jurídicas aplicables, por lo que las referencias efectuadas en este Capítulo a los términos antes señalados, serán aplicados igualmente a las figuras que se determinen en las disposiciones jurídicas aplicables en la materia.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -16135,9 +16161,9 @@ Sin ajuste Con ajuste
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-a).- Por cada estación base $11,718.22 $11,718
+a).- Por cada estación base $12,631.07 $12,631
 
-b).- Por cada estación repetidora $17,577.41 $17,577
+b).- Por cada estación repetidora $18,946.69 $18,947
 
 II.- Para quienes únicamente cuenten
 
@@ -16147,7 +16173,7 @@ red, se pagará por todos los equipos
 
 móviles, portátiles o terminales de
 
-radiocomunicación privada de usuario $7,709.35 $7,709
+radiocomunicación privada de usuario $8,309.91 $8,310
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -16157,7 +16183,7 @@ nivel nacional, no importando la
 
 cantidad de estaciones bases,
 
-móviles o fijas $1,570,910.24 $1,570,910
+móviles o fijas $1,693,284.15 $1,693,284
 
 a).- Por frecuencia asignada a nivel
 
@@ -16165,7 +16191,7 @@ regional, se pagará por Entidad
 
 Federativa, sin importar la cantidad
 
-de estaciones bases, móviles o fijas $76,011.22 $76,011
+de estaciones bases, móviles o fijas $81,932.49 $81,932
 
 V.- Por los sistemas de alta frecuencia H.F.,
 
@@ -16175,7 +16201,7 @@ frecuencia, tomando como mínimo dos
 
 horas diarias, por equipo terminal base
 
-o móvil $1,648.99 $1,649
+o móvil $1,777.45 $1,777
 
 VI.- Por la autorización provisional
 
@@ -16183,7 +16209,7 @@ que no exceda de seis meses, se
 
 pagará diariamente por cada
 
-frecuencia $125.99 $126
+frecuencia $135.80 $136
 
 VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2002)
 
@@ -16193,11 +16219,11 @@ VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de prueb
 
 a).- En sistemas que operen en
 
-periodos de hasta seis meses $3,766.50 $3,766
+periodos de hasta seis meses $4,059.91 $4,060
 
 b).- En sistemas que operen en
 
-periodos superiores a seis meses $7,533.10 $7,533
+periodos superiores a seis meses $8,119.93 $8,120
 
 IX.- Para el servicio privado móvil
 
@@ -16209,19 +16235,19 @@ cada frecuencia sin importar el
 
 número de bases, móviles
 
-y repetidores $15,425.29 $15,425
+y repetidores $16,626.92 $16,627
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 X.- Por el uso y aprovechamiento del espectro radioeléctrico para uso secundario:
 
-a). En la banda de 88 a 108 MHz $11,328.60 $11,329
+a). En la banda de 88 a 108 MHz $12,211.10 $12,211
 
-b). En las demás bandas de frecuencias $44,546.61 $44,547
+b). En las demás bandas de frecuencias $48,016.79 $48,017
 
 Si el uso a que se refiere esta fracción resultara por un período menor a un año, el monto del derecho que se deberá pagar será el que se obtenga de dividir la cuota del inciso a) o b), según corresponda, entre 365 y su resultado multiplicarlo por la cantidad de días autorizados.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -16237,13 +16263,13 @@ I.- Por cada megahertz utilizado en territorio
 
 nacional para prestar servicios de
 
-telecomunicaciones en la banda C: $124.66 $125
+telecomunicaciones en la banda C: $134.37 $134
 
 II.- Por cada megahertz utilizado en territorio
 
 nacional para prestar servicios de
 
-telecomunicaciones en la banda Ku: $190.73 $191
+telecomunicaciones en la banda Ku: $205.59 $206
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en la (sic) fracciones I y II anteriores, según corresponda.
 
@@ -16273,7 +16299,7 @@ Asimismo, el monto anual que se haya pagado ante las autoridades del país de or
 
 Para los efectos del presente artículo, en ningún caso se podrán acreditar los pagos por el uso de bandas de frecuencias que en su caso, el concesionario haya efectuado o efectúe ante las autoridades del país de origen del sistema satelital extranjero. El acreditamiento a que se refiere este artículo no dará lugar a devolución o compensación alguna.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -16289,13 +16315,13 @@ I.- Por cada megahertz utilizado en territorio
 
 nacional para prestar servicios de
 
-telecomunicaciones en la banda C: $124.66 $125
+telecomunicaciones en la banda C: $134.37 $134
 
 II.- Por cada megahertz utilizado en territorio
 
 nacional para prestar servicios de
 
-telecomunicaciones en la banda Ku: $190.73 $191
+telecomunicaciones en la banda Ku: $205.59 $206
 
 Cuando el concesionario utilice bandas de frecuencia del espectro radioeléctrico por fracciones de día, pagará la parte proporcional de las cuotas establecidas en las fracciones I y II anteriores, según corresponda.
 
@@ -16329,7 +16355,7 @@ Para los efectos del presente artículo, en ningún caso se podrán acreditar lo
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -16349,7 +16375,7 @@ de enlace estudio-planta y de estaciones
 
 móviles remotas de estaciones de radiodifusión
 
-en A.M. y F.M. $8,987.71 $8,988
+en A.M. y F.M. $9,687.85 $9,688
 
 II.- Por cada frecuencia que utilice una
 
@@ -16359,7 +16385,7 @@ de enlace estudio-planta y de estaciones
 
 móviles remotas de estaciones de radiodifusión
 
-de televisión $17,976.06 $17,976
+de televisión $19,376.40 $19,376
 
 III.- Por cada frecuencia que se utilice para
 
@@ -16369,7 +16395,7 @@ fija para prestar servicios públicos de radio
 
 restringido con señal digitalizada o de sistemas
 
-de música continua $9,255.09 $9,255
+de música continua $9,976.06 $9,976
 
 IV.- Por cada frecuencia que se utilice para
 
@@ -16379,7 +16405,7 @@ fija para prestar servicios públicos de televisión
 
 restringida, sistemas de televisión por cable
 
-o televisión de alta definición $18,510.33 $18,510
+o televisión de alta definición $19,952.28 $19,952
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -16409,6 +16435,8 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 244.
@@ -16419,13 +16447,15 @@ Los concesionarios y permisionarios de bandas de frecuencias del espectro radioe
 
 > <small>[N. DE E. VÉASE TABLA B EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 56 A LA 57.]</small>
 
-> <small>[N. DE E. VÉASE CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021, PÁGINA 629.]</small>
+> <small>[N. DE E. VÉASE CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022, PÁGINA 838.]</small>
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -16437,7 +16467,7 @@ Los concesionarios de bandas de frecuencias del espectro radioeléctrico compren
 
 > <small>[N. DE E. VÉASE TABLA B EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINA 58.]</small>
 
-> <small>[N. DE E. VÉASE CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021, PÁGINAS 629 A LA 630.]</small>
+> <small>[N. DE E. VÉASE CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 838 A LA 839.]</small>
 
 Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto, provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -16445,7 +16475,7 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 ###### ARTICULO 244-B.
 
@@ -16557,7 +16587,7 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -16593,7 +16623,7 @@ California, Baja California Sur
 
 y el municipio de San Luis Río
 
-Colorado del estado de Sonora $24,247.20
+Colorado del estado de Sonora $26,136.06
 
 Todos los municipios de Sinaloa
 
@@ -16601,7 +16631,7 @@ y todos los de Sonora, excepto el
 
 municipio de San Luis Río
 
-Colorado $20,526.31
+Colorado $22,125.31
 
 Todos los municipios de los estados
 
@@ -16611,7 +16641,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, San Pedro, Torreón y
 
-Viesca del estado de Coahuila $5,484.21
+Viesca del estado de Coahuila $5,911.43
 
 Todos los municipios de los estados
 
@@ -16623,7 +16653,7 @@ municipios de Francisco I. Madero,
 
 Matamoros, Torreón, San Pedro y
 
-Viesca $9,690.68
+Viesca $10,445.58
 
 Todos los municipios de los estados
 
@@ -16641,7 +16671,7 @@ Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo $14,290.73
+Villa Hidalgo $15,403.98
 
 Todos los municipios de
 
@@ -16661,19 +16691,19 @@ Jalisco, Santa María de los Angeles,
 
 Teocaltiche, Villa Guerrero y
 
-Villa Hidalgo del estado de Jalisco $6,899.98
+Villa Hidalgo del estado de Jalisco $7,437.49
 
 Todos los municipios de los estados
 
 de Guerrero, Oaxaca, Puebla, Tlaxcala
 
-y Veracruz $11,735.14
+y Veracruz $12,649.31
 
 Todos los municipios de los estados de
 
 Campeche, Chiapas, Quintana Roo,
 
-Tabasco y Yucatán $5,739.77
+Tabasco y Yucatán $6,186.90
 
 Todos los municipios de los estados de
 
@@ -16681,7 +16711,7 @@ Hidalgo, Morelos y Estado de México,
 
 y todas las delegaciones del Distrito
 
-Federal $19,849.05
+Federal $21,395.29
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla mencionada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla B. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -16689,7 +16719,7 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -16725,7 +16755,7 @@ Tabla B
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021, PÁGINAS DE LA 631 A LA 632.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 840 A LA 841.]</small>
 
 Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la Tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística, Geografía e Informática, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
 
@@ -16733,7 +16763,7 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -16903,7 +16933,7 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -16925,7 +16955,7 @@ Para los casos en que el área de cobertura de una concesión o permiso cubra m�
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones o el que lo sustituya.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17039,7 +17069,7 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17147,7 +17177,7 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17257,7 +17287,7 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 2020)</small>
 
@@ -17349,7 +17379,7 @@ Todos los municipios de los estados de
 
 Guerrero, Oaxaca, Puebla, Tlaxcala y
 
-Veracruz. $64.54
+Veracruz. $69.54
 
 Todos los municipios de los estados de
 
@@ -17371,17 +17401,19 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
+
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
 ###### ARTICULO 245.
 
 El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales de microondas entre dos estaciones terminales para servicios públicos o privados de señales de telecomunicaciones, se pagará anualmente por cada enlace y por megahertz concesionado, conforme a las siguientes cuotas:
 
-I.- Por cada megahertz concesionado en bandas inferiores a 1 gigahertz $8,700.14
+I.- Por cada megahertz concesionado en bandas inferiores a 1 gigahertz $8,700.14 $8,700
 
-II.- Por cada megahertz concesionado en bandas iguales o superiores a 1 gigahertz pero inferiores a 24 gigahertz $982.80
+II.- Por cada megahertz concesionado en bandas iguales o superiores a 1 gigahertz pero inferiores a 24 gigahertz $982.80 $983
 
-III.- Por cada megahertz concesionado en bandas iguales o superiores a 24 gigahertz $138.78
+III.- Por cada megahertz concesionado en bandas iguales o superiores a 24 gigahertz $138.78 $139
 
 En caso de que se tenga concesionado menos de un megahertz en el título respectivo en la banda de que se trate, se pagará la parte proporcional de la cuota que corresponda según las fracciones anteriores.
 
@@ -17389,7 +17421,7 @@ En caso de que se tenga concesionado menos de un megahertz en el título respect
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 202.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -17405,9 +17437,9 @@ Sin ajuste Con ajuste
 
 I.- Por telefonía rural comunal:
 
-a).- Por cada estación base o repetidor $1,603.40 $1,603
+a).- Por cada estación base o repetidor $1,728.30 $1,728
 
-b).- Por estación terminal $601.06 $601
+b).- Por estación terminal $647.88 $648
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -17417,21 +17449,21 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos en sistemas punto a punto o punto a multipunto:
 
-a).- Por nodo, se pagará por cada frecuencia $8,226.98 $8,227
+a).- Por nodo, se pagará por cada frecuencia $8,867.86 $8,868
 
 b).- Por cada estación fija, se pagará
 
-por cada frecuencia $4,112.88 $4,113
+por cada frecuencia $4,433.27 $4,433
 
 c).- Por frecuencia asignada a nivel regional
 
 se pagará por entidad federativa, sin importar
 
-la cantidad de estaciones o nodos $76,011.42 $76,011
+la cantidad de estaciones o nodos $81,932.71 $81,933
 
-d).- Por cada estación fija remota $4,112.88 $4,113
+d).- Por cada estación fija remota $4,433.27 $4,433
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -17443,9 +17475,9 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por cada estación terminal $8,230.35 $8,230
+I.- Por cada estación terminal $8,871.49 $8,871
 
-II.- Por cada canal telefónico $16,461.33 $16,461
+II.- Por cada canal telefónico $17,743.67 $17,744
 
 ###### ARTICULO 246.
 
@@ -17601,7 +17633,7 @@ ARTICULO 258 Quintus.- (DEROGADO, D.O.F. 11 DE AGOSTO DE 2014)
 
 Están obligadas a pagar los derechos sobre minería que establece este Capítulo todas las personas físicas o morales titulares de una concesión o que desarrollen trabajos relacionados con la exploración o explotación de sustancias o minerales sujetos a la aplicación de la Ley Minera.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -17617,27 +17649,27 @@ Concesiones y asignaciones mineras Cuota por hectárea
 
 I. Durante el primer y segundo año
 
-de vigencia $8.63
+de vigencia $9.30
 
 II. Durante el tercero y cuarto año
 
-de vigencia $12.91
+de vigencia $13.92
 
 III. Durante el quinto y sexto año
 
-de vigencia $26.68
+de vigencia $28.76
 
 IV. Durante el séptimo y octavo
 
-año de vigencia $53.66
+año de vigencia $57.84
 
 V. Durante el noveno y décimo
 
-año de vigencia $107.32
+año de vigencia $115.68
 
 VI. A partir del décimo primer
 
-año de vigencia $188.86
+año de vigencia $203.57
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará considerando la parte proporcional que le corresponda con base en las mismas.
 
@@ -17887,7 +17919,7 @@ En caso de que no se pueda medir el volumen de agua descargada durante el trimes
 
 Los contribuyentes a que se refiere la fracción I del artículo 277-B de esta Ley, cuya infraestructura de drenaje y alcantarillado esté conectada con otro contribuyente del mismo tipo y no se pueda identificar el volumen de descarga de cada uno de ellos, podrán determinarlo multiplicando el volumen descargado por los contribuyentes interconectados por la proporción de habitantes que corresponda al contribuyente, la cual se obtendrá de dividir el número de habitantes del contribuyente entre la totalidad de habitantes en las localidades o municipios interconectados en su red de alcantarillado, en términos del último Censo General de Población y Vivienda publicado por el Instituto Nacional de Estadística y Geografía.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -17911,7 +17943,7 @@ Los contribuyentes cuya actividad que origina la descarga no esté comprendida e
 
 El monto del derecho a pagar será enterado por el contribuyente en los términos del artículo 283 de esta Ley.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -18531,7 +18563,7 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 ### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -18539,13 +18571,13 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
-Categoría I: $85.00 $85
+Categoría I: $91.62 $90
 
-Categoría II: $70.00 $70
+Categoría II: $75.45 $75
 
-Categoría III: $65.00 $65
+Categoría III: $70.06 $70
 
-Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $300.00 $300
+Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $323.37 $325
 
 Para efectos de este artículo se consideran:
 
@@ -18571,7 +18603,7 @@ No pagarán el derecho a que se refiere este artículo, las personas mayores de 
 
 Lo dispuesto en el párrafo anterior no será aplicable para las categorías previstas en el presente artículo, en las visitas después del horario normal de operación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -18583,7 +18615,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- $60.23 mensuales por cada metro cuadrado o fracción, cuando el uso o goce
+I.- $64.92 mensuales por cada metro cuadrado o fracción, cuando el uso o goce
 
 consista en la realización de actividades comerciales y el espacio no exceda de
 
@@ -18593,13 +18625,13 @@ consista en la realización de actividades comerciales y el espacio no exceda de
 
 El pago del derecho a que se refiere esta fracción, se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-II.- $36.12 por cada metro cuadrado o fracción que se use, goce o aproveche para cada evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones, realizado en espacios exteriores de cualquier tipo.
+II.- $38.93 por cada metro cuadrado o fracción que se use, goce o aproveche para cada evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones, realizado en espacios exteriores de cualquier tipo.
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 El pago del derecho a que se refiere esta fracción, se efectuará previamente a la realización del evento.
 
-III.- $10,036.14 $10,036
+III.- $10,817.96 $10,818
 
 por evento cultural de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como auditorios, vestíbulos y salas.
 
@@ -18619,7 +18651,7 @@ a).- Las instituciones públicas que realicen conjuntamente con el Instituto Nac
 
 b).- Las instituciones públicas que realicen conjuntamente con el Instituto Nacional de Antropología e Historia actividades de promoción, difusión y comercialización culturales, previa celebración de un convenio.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -18627,11 +18659,11 @@ b).- Las instituciones públicas que realicen conjuntamente con el Instituto Nac
 
 1.- Están obligadas al pago del derecho por el acceso a los museos propiedad de la Federación y administrados por el Instituto Nacional de Bellas Artes y Literatura, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
 
-Recinto tipo 1: $79.06 $80
+Recinto tipo 1: $85.22 $85
 
-Recinto tipo 2: $59.29 $60
+Recinto tipo 2: $63.91 $65
 
-Recinto tipo 3: $39.53 $40
+Recinto tipo 3: $42.61 $45
 
 Para los efectos de este artículo se consideran:
 
@@ -18655,7 +18687,7 @@ Las cuotas de los derechos señalados en el presente artículo, se ajustarán pa
 
 No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos. Las personas integrantes del Consejo Internacional de Museos pagarán el 50% de la cuota a que se refiere el presente artículo.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18667,11 +18699,11 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Museo Nacional de Culturas Populares $18.04 $18
+I. Museo Nacional de Culturas Populares $19.45 $19
 
 II. Museo Nacional de los Ferrocarriles
 
-Mexicanos $18.04 $18
+Mexicanos $19.45 $19
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
@@ -18679,7 +18711,7 @@ El pago del derecho a que se refiere este precepto deberá hacerse previo al ing
 
 De las 9:00 horas a las 17:00 horas, no pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubiladas, pensionadas, personas con discapacidad, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Consejo Nacional para la Cultura y las Artes para realizar estudios afines a los museos a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho quienes accedan a los museos los domingos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18691,17 +18723,17 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. $57.94 mensuales por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
+I. $62.45 mensuales por cada metro cuadrado o fracción, cuando el uso o goce consista en la realización de actividades comerciales y el espacio no exceda de 30 metros cuadrados.
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-II. $57.71 por cada metro cuadrado o fracción que se use, goce o aproveche para actividades de promoción, difusión y comercialización cultural y educativa por parte de entidades de la administración pública paraestatal, previa celebración de un convenio.
+II. $62.21 por cada metro cuadrado o fracción que se use, goce o aproveche para actividades de promoción, difusión y comercialización cultural y educativa por parte de entidades de la administración pública paraestatal, previa celebración de un convenio.
 
 El pago del derecho a que se refiere esta fracción se efectuará mensualmente mediante declaración que se presentará en las oficinas autorizadas a más tardar el día 17 del mes siguiente al que corresponda el pago.
 
-III. $34.76 por cada metro cuadrado o fracción que se use o aproveche para actividades o eventos de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones realizado en espacios exteriores de cualquier tipo.
+III. $37.47 por cada metro cuadrado o fracción que se use o aproveche para actividades o eventos de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de instalaciones realizado en espacios exteriores de cualquier tipo.
 
-IV. $9,657.04 $9,657
+IV. $10,409.32 $10,409
 
 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados, tales como salas y aulas.
 
@@ -18713,9 +18745,9 @@ desmontaje de equipos y accesorios, realizado
 
 en auditorios, vestíbulos, teatros experimentales
 
-y foros al aire libre, por cada uno $25,459.42 $25,459
+y foros al aire libre, por cada uno $27,442.71 $27,443
 
-V. $45,075.89 $45,076
+V. $48,587.30 $48,587
 
 por evento de hasta cuatro horas de duración, incluido el tiempo de montaje y desmontaje de equipos y accesorios, realizado en espacios cerrados en bibliotecas y teatros.
 
@@ -18725,7 +18757,7 @@ Las cuotas a que se refieren las fracciones III, IV y V de este artículo se inc
 
 Para los efectos de este artículo, no estarán obligados al pago de los derechos al que el mismo se refiere las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -18739,11 +18771,11 @@ Sin ajuste Con ajuste
 
 I.- Por la reproducción fotográfica, dibujo o
 
-ilustración, a cualquier escala, por pieza $2,278.82 $2,279
+ilustración, a cualquier escala, por pieza $2,456.34 $2,456
 
-II.- Por toma de molde, por pieza $6,077.42 $6,077
+II.- Por toma de molde, por pieza $6,550.85 $6,551
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -18759,17 +18791,17 @@ I.- Reproducción fiel del monumento
 
 independientemente de la escala y
 
-materiales $2,507.03 $2,507
+materiales $2,702.33 $2,702
 
 II.- Reproducción basada en una
 
-versión libre del monumento $5,014.65 $5,015
+versión libre del monumento $5,405.29 $5,405
 
 Se exceptúa del pago de los derechos establecidos en este artículo a la producción artesanal, cuando el artesano cuente con el reconocimiento y registro otorgados por la autoridad competente.
 
 No pagarán los derechos establecidos en este artículo las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -18783,7 +18815,7 @@ Sin ajuste Con ajuste
 
 A. Filmaciones o videograbaciones:
 
-I.- Por día $13,044.83 $13,045
+I.- Por día $14,061.02 $14,061
 
 II.- Por cada 30 minutos o fracción de
 
@@ -18797,7 +18829,7 @@ independientemente de los derechos por
 
 el uso o reproducción señalados en el
 
-artículo 288-E de esta Ley $815.14 $815
+artículo 288-E de esta Ley $878.64 $879
 
 III.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 40% del monto de los derechos citados en las fracciones I y II de este apartado.
 
@@ -18807,13 +18839,13 @@ I.- Por día en zona arqueológica, museo, o
 
 monumento del patrimonio nacional bajo
 
-custodia de los institutos competentes $6,522.33 $6,522
+custodia de los institutos competentes $7,030.42 $7,030
 
 II.- Las instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, pagarán el 60% del monto de los derechos citados en la fracción I de este apartado.
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18827,17 +18859,17 @@ Sin ajuste Con ajuste
 
 A. Filmaciones o videograbaciones:
 
-I. Por día $12,552.11 $12,552
+I. Por día $13,529.92 $13,530
 
-II. Por día, cuando se trata de locaciones $81,136.61 $81,137
+II. Por día, cuando se trata de locaciones $87,457.15 $87,457
 
 El cobro de este derecho es independiente a los que se causen por el uso o aprovechamiento de los inmuebles.
 
-B. Tratándose de tomas fotográficas $6,275.97 $6,276 por día
+B. Tratándose de tomas fotográficas $6,764.87 $6,765
 
 No pagarán los derechos establecidos en este artículo las instituciones públicas que realicen conjuntamente con el Consejo Nacional para la Cultura y las Artes, eventos culturales, educativos, cívicos o de asistencia social, así como las que realicen actividades de promoción, difusión y comercialización culturales, educativas, cívicas o de asistencia social, previa celebración de un convenio.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -18855,19 +18887,19 @@ promoción, enseñanza o investigación
 
 de la cultura, la ciencia o el arte, por
 
-fotografía $400.79 $401
+fotografía $432.01 $432
 
 II.- Para instituciones o personas distintas
 
 de las señaladas en la fracción anterior,
 
-por fotografía $601.37 $601
+por fotografía $648.22 $648
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 No pagarán los derechos establecidos en este artículo, las autoridades e instituciones públicas competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos, en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -18879,13 +18911,13 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I.- Impreso de 1 a 1000 ejemplares $250.31 $250
+I.- Impreso de 1 a 1000 ejemplares $269.81 $270
 
 II.- Impreso de 1001 ejemplares en adelante
 
 o publicado en soporte filmado, videograbado
 
-o digital $751.61 $752
+o digital $810.16 $810
 
 No pagarán los derechos establecidos en este artículo las autoridades competentes en la investigación, conservación, restauración y recuperación de los monumentos arqueológicos, artísticos e históricos y de las zonas de monumentos en términos de la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos.
 
@@ -18899,7 +18931,7 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ### CAPITULO XVII. Derecho por el Uso, Goce o Aprovechamiento del Espacio Aéreo Mexicano
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, D.O.F. DEL 27 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023, D.O.F. DEL 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -18915,13 +18947,13 @@ Cuotas por kilómetro volado
 
 Aeronaves según envergadura Cuota
 
-Grandes $10.53
+Grandes $11.35
 
-Medianas $7.05
+Medianas $7.60
 
-Pequeñas Tipo B $2.44
+Pequeñas Tipo B $2.63
 
-Pequeñas Tipo A $0.32
+Pequeñas Tipo A $0.34
 
 El cálculo de los kilómetros volados se realizará de acuerdo a la distancia ortodrómica, conforme a lo siguiente:
 
@@ -18945,25 +18977,25 @@ Tipo de aeronaves Cuota
 
 Con envergadura de hasta 10.0 metros
 
-y helicópteros $140.49
+y helicópteros $151.43
 
 Con envergadura de más de 10.0 metros
 
-y hasta 11.1 metros $200.72
+y hasta 11.1 metros $216.36
 
 Con envergadura de más de 11.1 metros
 
-y hasta 16.7 metros $301.08
+y hasta 16.7 metros $324.53
 
 III.- Tratándose de las siguientes aeronaves se podrá optar por pagar el derecho a que se refiere este artículo mediante una cuota única por cada vez que les sea suministrado combustible a la aeronave de que se trate, exceptuándose los sobrevuelos, conforme a la siguiente tabla:
 
 Aeronaves según envergadura Cuota
 
-Grandes $24,261.36
+Grandes $26,151.32
 
-Medianas $16,188.30
+Medianas $17,449.37
 
-Pequeñas Tipo B $5,580.12
+Pequeñas Tipo B $6,014.81
 
 Lo dispuesto en este artículo, es independiente del pago por los servicios de extensión de horario a que se refiere el artículo 150-C de esta Ley.
 
