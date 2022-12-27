@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2022-12-15"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1135,9 +1135,9 @@ XVI. Es derecho de los partidos políticos participar en las elecciones, a trav�
 
 Los partidos políticos deberán respetar los sistemas electorales de los pueblos y comunidades indígenas para la elección de sus autoridades o representantes, en términos del artículo 2 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-C. DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA
+C. DE LOS MECANISMOS DE PARTICIPACIÓN CIUDADANA.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -1189,23 +1189,61 @@ b) La aprobación de la mayoría simple de los votos emitidos.
 
 El resultado del referéndum será publicado por el Instituto Estatal Electoral y de Participación Ciudadana en el Periódico Oficial del Gobierno del Estado. El Poder Legislativo del Estado dará a conocer el resultado del referéndum mediante los medios, mecanismos y recursos de comunicación social con los que cuente, bajo el principio de máxima publicidad.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-III. La consulta ciudadana sobre revocación de mandato es el mecanismo por el cual las ciudadanas y los ciudadanos oaxaqueños pueden ordenar al Congreso del Estado la destitución del Gobernador del Estado. Procede la consulta ciudadana sobre la revocación de mandato cuando se presenten los supuestos y se cumplan los siguientes requisitos:
+III. La revocación de mandato de la persona titular de la Gubernatura:
 
-a) Se formule la solicitud por escrito ante el Instituto Estatal Electoral y de Participación Ciudadana y la suscriban cuando menos cinco por ciento de las y los ciudadanos oaxaqueños inscritos en la lista nominal de electores del Estado;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-b) Haya transcurrido al menos una tercera parte del mandato del titular del Poder Ejecutivo del Estado, y
+El proceso de revocación de mandato de la persona titular de la Gubernatura del Estado de Oaxaca, se llevará a cabo conforme a lo siguiente:
 
-c) Se expresen las razones que lleven a solicitar la revocación del mandato,
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El Instituto Estatal Electoral y de Participación Ciudadana organizará y convocará a la consulta a la ciudadanía a fin de que esta se pronuncie mediante sufragio libre, directo, secreto y universal.
+a) Será convocado por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca a petición de la ciudadanía, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores del estado, en la mitad más uno de los municipios.
 
-Para que el resultado de la votación sea válido y de pleno derecho, es indispensable que el número de electores que participe en la consulta para la revocación de mandato sea cuando menos la mitad más uno a la que participó en las elecciones en las cuales fue electo el titular del Poder Ejecutivo del Estado.
+El Instituto, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
 
-La consulta sobre revocación de mandato procederá solamente tres veces en el periodo para el que fue electo el Gobernador, y no podrán realizarse dos en un lapso menor a los dos años.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 72 de esta Constitución.
+b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.
+
+La ciudadanía podrá recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c) Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d) Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato sólo procederá por mayoría absoluta.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+e) El Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca dentro del ámbito de sus respectivas competencias tendrán a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato de la persona titular del Poder Ejecutivo Local, los cuales podrán ser impugnados ante el Tribunal Electoral del Estado de Oaxaca, en los términos de lo dispuesto en los artículos 25 apartado D, y 114 BIS fracción I, de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+f) El Tribunal Electoral del Estado de Oaxaca, realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 72 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+El Instituto, promoverá la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.
 
 IV.- Las autoridades administrativas estatales y municipales, en el ámbito de su competencia, establecerán obligatoriamente audiencias públicas y periódicas para que los ciudadanos del Estado, de manera directa, les planteen asuntos de interés público en los términos que determine la Ley.
 
@@ -1901,9 +1939,9 @@ XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas q
 
 Aprobar al Titular del Poder Ejecutivo y a los Ayuntamientos la afectación, como fuente o garantía de pago, de los ingresos que les correspondan y sean susceptibles de afectación conforme a la legislación aplicable, o en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de procesos de bursatilización, deuda pública o de proyectos de asociación pública privada, que contrate el estado o en su caso los municipios, no podrán destinar más de lo que establezcan las leyes respectivas. Así mismo autorizar la desafectación de esos ingresos en términos de la legislación aplicable.
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-XXVII. Expedir el decreto correspondiente para que el Instituto Estatal Electoral y de Participación Ciudadana, convoque a elecciones de Gobernador, Diputados y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos, así como para declarar la procedencia de la consulta de revocación de mandato;
+XXVII. Expedir el decreto correspondiente para que el Instituto Estatal Electoral y de Participación Ciudadana, convoque a elecciones de Gobernador o Gobernadora, Diputados y Diputadas y Ayuntamientos en los periodos constitucionales o cuando por cualquier causa hubiere falta absoluta de estos servidores públicos.
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3175,9 +3213,7 @@ IV. Conocer de las peticiones formuladas por el Gobernador del Estado, por trein
 
 V. Sustanciar y resolver el juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, y;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
-
-VI. Solventar y resolver los recursos relativos a los requisitos de la revocación del mandato señalados en el artículo 25 de la Constitución, en los términos y plazos señalados por la Ley.
+VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3667,7 +3703,9 @@ e) Las demás causas previstas en esta Constitución y por las causas expresamen
 
 VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
-VIII. El Tribunal Estatal Electoral emitirá, en su caso, la Declaratoria de Revocación de Mandato de Gobernador del Estado, en los términos de esta Constitución y las Leyes; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+VIII. Resolver los medios de impugnación que se presenten para controvertir los resultados de los procesos de revocación de mandato, así como las determinaciones del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, sobre la misma materia, de acuerdo con lo previsto en los artículos. 25 apartado D, y 114 BIS fracción I, de esta Constitución; realizar el cómputo final de la votación del proceso de revocación de mandato, una vez resueltas todas las impugnaciones que se hubieren interpuesto; emitir la declaratoria de validez de la revocación de mandato, y las demás que disponga la ley de la materia; y
 
 IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.
 
@@ -6474,3 +6512,13 @@ SEXTO. El Congreso del Estado, en un término de 90 días, deberá legislar para
 SÉPTIMO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
 
 OCTAVO. El Congreso del Estado, por conducto de la Comisión Permanente que le corresponda por sus funciones, denominación o atribuciones; dentro del plazo de 60 días hábiles posteriores a la publicación del presente Decreto, emitirá la convocatoria correspondiente para la designación de la persona Titular de la Auditoría Superior de Fiscalización del Estado de Oaxaca.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 761.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER PÁRRAFO, Y LOS INCISOS A), B), C) Y SE ADICIONAN LOS INCISOS D), E), F) Y G) DE LA FRACCIÓN III DEL APARTADO C DEL ARTÍCULO 25; SE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 59; SE DEROGA LA FRACCIÓN VI DEL APARTADO B DEL ARTÍCULO 106; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 114 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca y la Gaceta Parlamentaria.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Oaxaca, deberá expedir la Ley Reglamentaria de Revocación de Mandato en un plazo no mayor a sesenta días naturales.
