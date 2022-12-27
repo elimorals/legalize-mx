@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2022-05-18"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -1018,19 +1018,23 @@ Los trabajadores quedarán obligados a prestar los servicios y tendrán derecho 
 
 ### CAPITULO IV. Vacaciones
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 76.
 
-Los trabajadores que tengan más de un año de servicios disfrutarán de un período anual de vacaciones pagadas, que en ningún caso podrá ser inferior a seis días laborables, y que aumentará en dos días laborables, hasta llegar a doce, por cada año subsecuente de servicios.
+Las personas trabajadoras que tengan más de un año de servicios disfrutarán de un periodo anual de vacaciones pagadas, que en ningún caso podrá ser inferior a doce días laborables, y que aumentará en dos días laborables, hasta llegar a veinte, por cada año subsecuente de servicios.
 
-Después del cuarto año, el período de vacaciones se aumentará en dos días por cada cinco de servicios.
+A partir del sexto año, el periodo de vacaciones aumentará en dos días por cada cinco de servicios.
 
 ###### Artículo 77.
 
 Los trabajadores que presten servicios discontinuos y los de temporada tendrán derecho a un período anual de vacaciones, en proporción al número de días trabajados en el año.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 78.
 
-Los trabajadores deberán disfrutar en forma continua seis días de vacaciones, por lo menos.
+Del total del periodo que le corresponda conforme a lo previsto en el artículo 76 de esta Ley, la persona trabajadora disfrutará de doce días de vacaciones continuos, por lo menos. Dicho periodo, a potestad de la persona trabajadora podrá ser distribuido en la forma y tiempo que así lo requiera.
 
 ###### Artículo 79.
 
@@ -13907,3 +13911,11 @@ D.O.F. 18 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE LA DEFENSORÍA PÚBLICA, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES Y DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE JUSTICIA LABORAL, LIBERTAD SINDICAL Y NEGOCIACIÓN COLECTIVA", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 76 Y 78 DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE VACACIONES”.]
+
+Primero.- El presente Decreto entrará en vigor el 1.° de enero de 2023, o al día siguiente de su publicación en el Diario Oficial de la Federación, si esta fuera en el año 2023.
+
+Segundo.- Las modificaciones motivo del presente Decreto serán aplicables a los contratos individuales o colectivos de trabajo vigentes a la fecha de su entrada en vigor, cualquiera que sea su forma o denominación, siempre que resulten más favorables a los derechos de las personas trabajadoras.
