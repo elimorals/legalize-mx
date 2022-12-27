@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2020-11-10"
+last_updated: "2022-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GRO"
 ---
 # CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -4136,3 +4138,21 @@ Las reformas, adiciones y derogaciones relativas al presente Decreto, entraran e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 420".]
+
+PRIMERO. El presente Código entrará en vigor al (sic) día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Comuníquese el presente Código a la titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+CUARTO. A partir de la entrada en vigor de este Código, se abroga el Código Fiscal del Estado de Guerrero Número 429, publicado en el Periódico Oficial del Gobierno del Estado Número 104 Alcance I, de fecha viernes 28 de diciembre de 2001.
+
+QUINTO. Los asuntos en trámite y los recursos de revocación que se encuentren pendientes por resolver a la entrada en vigor del presente Código Fiscal continuarán su trámite hasta su resolución conforme a las disposiciones del Código Fiscal del Estado de Guerrero número 429, publicado en el Periódico Oficial del Gobierno del Estado Número 104 Alcance I, de fecha viernes 28 de diciembre de 2001.
+
+SEXTO. Los créditos fiscales generados antes de la vigencia de este Código, pero que aún no se hayan notificado se sujetarán a las disposiciones y ordenamientos legales aplicables en el momento en que se generaron.
+
+SÉPTIMO. Se abrogan todas las disposiciones y ordenamientos fiscales en lo que se opongan al presente Código Fiscal del Estado de Guerrero.
