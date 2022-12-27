@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-160407"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el No. 70 del Periódico Oficial del Estado de Querétaro, el viernes 30 de septiembre de 2022.
 
@@ -715,7 +715,9 @@ Cuando un Magistrado supernumerario tenga impedimento, se excuse o sea recusado,
 
 Para ser Secretario de Acuerdos, Secretario Auxiliar, Secretario Proyectista y Actuario del Tribunal, se requiere:
 
-I. Ser mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente;
 
@@ -1395,7 +1397,9 @@ II. Tener cuando menos treinta años de edad cumplidos al día de la designació
 
 III. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente, con cinco años de práctica profesional, cuando menos, contados a partir de la obtención de dicho título, con capacitación en el área administrativa;
 
-IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena privativa de libertad;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+IV. Gozar de buena reputación;
 
 V. Tener carrera judicial; y
 
@@ -1463,7 +1467,7 @@ II. Tener cuando menos veinticinco años de edad cumplidos al día de la designa
 
 III. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente;
 
-IV. No haber sido condenado por delito doloso que amerite pena de prisión; y,
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
 
 V. Tener carrera judicial y haber satisfecho los requisitos de la convocatoria que expida el Consejo de la Judicatura.
 
@@ -2954,3 +2958,15 @@ Rúbrica
 María Guadalupe Murguía Gutiérrez
 
 Secretaria de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley
+
+Artículo Tercero. Remítase al Titular del Poder del Poder (sic) Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
