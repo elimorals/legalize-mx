@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2021-12-23"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -276,6 +276,14 @@ Asimismo, los trabajadores disfrutarán de cinco días hábiles, con goce de sue
 Las dependencias, entidades y demás entes públicos, en el ámbito de sus competencias, promoverán y otorgarán la autorización para que las trabajadoras mayores de 40 años puedan acudir anualmente a las instituciones médicas que correspondan, para realizarse estudios preventivos de cáncer de mama y cervicouterino.
 
 Las dependencias, entidades y demás entes públicos, preferentemente establecerán un calendario durante el mes de octubre de cada año, a fin de que atendiendo a la naturaleza de las actividades que desempeñen, gradualmente se otorgue la autorización a favor de las trabajadoras.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 33 Quater.
+
+Las dependencias, entidades y demás entes públicos, en el ámbito de sus competencias, promoverán y otorgarán la autorización para que los trabajadores mayores de 40 años puedan acudir anualmente a las instituciones médicas que correspondan, para realizarse estudios preventivos de cáncer de próstata.
+
+Las dependencias, entidades y demás entes públicos, preferentemente establecerán un calendario durante el mes de noviembre de cada año, a fin de que atendiendo a la naturaleza de las actividades que desempeñen, gradualmente se otorguen las autorizaciones a favor de los trabajadores.
 
 ### Capítulo Tercero. De los salarios
 
@@ -2140,3 +2148,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 33 QUATER, A LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones contrarias a la presente ley.
+
+Artículo Tercero. Las dependencias públicas establecerán los mecanismos conjuntamente con los trabajadores, a fin de que atendiendo a la naturaleza de las actividades que desempeñen, se otorguen gradualmente las autorizaciones.
+
+Artículo Cuarto. Envíese al Titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
