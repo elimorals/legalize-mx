@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2022-12-22"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -2695,9 +2695,11 @@ Se concede acción popular para denunciar ante las autoridades competentes la ma
 
 ### CAPÍTULO XV. DE LA TESORERÍA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 163.
 
-Cada Municipio contará con una Tesorería Municipal, que será la dependencia encargada de administrar el Patrimonio Municipal. La Tesorería Municipal estará a cargo de un Tesorero, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento a propuesta del Presidente Municipal, y será remunerado de acuerdo con el presupuesto respectivo.
+Cada Municipio contará con una Tesorería Municipal, que será la dependencia encargada de administrar el Patrimonio Municipal. La Tesorería Municipal estará a cargo de un Tesorero, quien deberá tener los conocimientos suficientes para poder desempeñar el cargo y preferentemente contar con título profesional en las áreas económica, contable o administrativa, además de cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento a propuesta del Presidente Municipal, y será remunerado de acuerdo con el presupuesto respectivo.
 
 ###### ARTÍCULO 164.
 
@@ -4510,5 +4512,13 @@ P.O. 22 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 230 DE LA LEY ORGÁNICA MUNICIPAL”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 163 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
