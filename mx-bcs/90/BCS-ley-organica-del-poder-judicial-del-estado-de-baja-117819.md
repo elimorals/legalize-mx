@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2022-04-29"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -235,7 +235,9 @@ VIII. Imponer a los Magistrados, las correcciones disciplinarias que procedan, c
 
 IX. Ordenar, por conducto del Presidente del Tribunal, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos durante su encargo o con motivo del mismo, imputables a magistrados o servidores públicos adscritos al Tribunal Superior de Justicia, que deban ser sancionados por las autoridades competentes;
 
-X. Conocer de las excitativas de justicia presentadas en contra de los Magistrados del Tribunal;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+X. Conocer de las excitativas de justicia presentadas en contra de las Magistradas y los Magistrados del Tribunal y de las Juezas y los Jueces Laborales;
 
 XI. Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
 
@@ -271,7 +273,9 @@ XXII. Emitir los acuerdos generales y circulares que estime pertinentes en el á
 
 XXIII. Aprobar los manuales de procedimientos que sometan a su consideración los Magistrados de las Salas del Tribunal;
 
-XXIV. Revisar a petición de parte interesada, las decisiones del Pleno del Consejo respecto a la designación, adscripción, destitución, ratificación y no ratificación de jueces, para el efecto de verificar que se ajustaron a las reglas previstas en esta Ley;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Resolver, a petición de parte interesada, en los términos que disponga esta Ley, de las revisiones administrativas a que se refiere el párrafo décimo del artículo 100 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
 
 XXV. Disponer los casos en que los Magistrados deban utilizar toga;
 
@@ -279,15 +283,21 @@ XXVI. Tomar conjuntamente con el Consejo de la Judicatura, la protesta constituc
 
 XXVII. Informar a la Comisión de Vigilancia y Disciplina sobre los casos en los que se adviertan actuaciones de Jueces o Juezas y por lo que hace a los funcionarios judiciales, en términos de la Constitución, que pudieran derivar en responsabilidad en el desempeño de las funciones jurisdiccionales;
 
-XXVIII. Establecer criterios de interpretación jurídica cuando no exista jurisprudencia al respecto y resolver cuando los sustentados por las Salas de la materia sean contradictorios, vigilando su cumplimiento;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Establecer mediante acuerdo general, criterios de interpretación jurídica vinculantes, siempre que no exista jurisprudencia obligatoria respecto al tema, en términos del artículo 217 y demás relativos de la Ley de Amparo Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos y ello permita establecer la interpretación que deba prevalecer ante la discrepancia o contradicción entre los criterios sustentados por sus Salas o los órganos jurisdiccionales de primera instancia, vigilando su cumplimiento;
 
 XXIX. Resolver sobre la responsabilidad administrativa de los consejeros de la Judicatura;
 
 XXX. Instrumentar estímulos a la productividad del personal adscrito al Tribunal Superior de Justicia del Estado, atenta la disponibilidad presupuestal; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-XXXI. Conocer de las recusaciones interpuestas en contra de los jueces y secretarios instructores adscritos a los Tribunales Laborales; y
+XXXI. Conocer de las excusas y recusaciones interpuestas en contra de los jueces y secretarios instructores adscritos a los Tribunales Laborales;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXI Bis.- Decidir sobre las cuestiones de competencia que se susciten entre los Tribunales Laborales; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -365,7 +375,13 @@ Corresponde al Presidente del Tribunal Superior de Justicia:
 
 I. Convocar a los Magistrados a sesiones del Pleno, presidirlas, dirigir los debates y conservar el orden en las sesiones y en las audiencias;
 
-II. Representar legalmente al Poder Judicial, al Tribunal Superior de Justicia y a su Pleno, asumiendo para los efectos legales procedentes la representación del Poder Judicial, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en Magistrados o Jueces para la celebración de actos cívicos oficiales y para la atención de actos administrativos o asuntos litigiosos mediante la concesión de mandatos limitados, previa aprobación del Pleno del Tribunal.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+II. Representar legalmente al Poder Judicial, al Tribunal Superior de Justicia y a su Pleno, asumiendo para los efectos legales procedentes la representación del Poder Judicial, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en Magistrados, Jueces, o servidores públicos del Poder Judicial del Estado, para la celebración de actos cívicos oficiales; y previa aprobación del Pleno del Tribunal, para la atención de actos administrativos o asuntos litigiosos mediante el otorgamiento de mandatos limitados.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de asuntos litigiosos, además de las servidoras y los servidores públicos señalados en el párrafo anterior, la representación podrá delegarse a terceros, mediante el otorgamiento de mandatos limitados, previa aprobación del Pleno del Tribunal;
 
 III. Llevar la correspondencia oficial con los Poderes del Estado, la Federación, los Ayuntamientos y con los demás Estados y la Ciudad de México;
 
@@ -673,6 +689,24 @@ En cada Partido Judicial habrá el número necesario de Juzgados de Primera Inst
 
 Previo acuerdo del Pleno del Consejo, se fijará la competencia en las materias penal, civil, familiar, mercantil y mixta de dichos órganos jurisdiccionales. En el caso de los Tribunales Laborales, como instancias jurisdiccionales especializadas, conocerán solamente de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Las Juezas y los Jueces del Poder Judicial serán designados observando lo dispuesto en el último párrafo del numeral 89 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley. Duraran seis años en el Ejercicio de su encargo, al término de los cuales, si fueran ratificados, solo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la Ley y la demás normatividad aplicable al caso.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para la ratificación de los jueces del Poder Judicial, el Consejo de la Judicatura, tomará en consideración los siguientes elementos:
+
+a) El desempeño que haya tenido el juez de que se trate en el ejercicio de su función;
+
+b) Los resultados de las visitas de inspección;
+
+c) El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+
+d) No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo; y
+
+e) Las demás que se estimen pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de inicio del proceso de ratificación.
+
 ###### Artículo 41.
 
 Los Jueces del Poder Judicial deberán residir en sus respectivos Partidos Judiciales y no podrán ausentarse de su circunscripción territorial, sin licencia previa del Presidente del Consejo de la Judicatura.
@@ -859,6 +893,8 @@ XI. Mantener actualizado el Sistema de Gestión Judicial; y
 
 XII. Las demás controversias del orden familiar.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DERCRETO 2890 PUBLICADO EN EL B.O. DE 27 DE DICIEMBRE DE 2022, PAGÍNAS 12 Y 15.]</small>
+
 > <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
 ###### Artículo 48 Bis.
@@ -875,21 +911,15 @@ IV. La nulidad, cumplimiento o la ejecución de los convenios celebrados por las
 
 V. Las demás que la Ley Federal del Trabajo y otros ordenamientos les confieran.
 
-Los Tribunales Laborales tendrán la competencia territorial que mediante Acuerdos Generales establezca el Pleno del Consejo. Sus jueces serán designados observando lo dispuesto en el último párrafo del numeral 89 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley. Durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca el Consejo de la Judicatura.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Para la ratificación de los Jueces en materia Laboral, el Consejo de la Judicatura, tomará en consideración los siguientes elementos:
+Los Tribunales Laborales tendrán la competencia territorial que Mediante Acuerdos Generales establezca el Pleno del Consejo.
 
-a) El desempeño que haya tenido el Juez de que se trate en el desempeño de su función;
-
-b) Los resultados de las visitas de inspección;
-
-c) El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditadas de manera fehaciente;
-
-d) No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo; y
-
-e) Las demás que se estimen pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de inicio del proceso de ratificación.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
 Los Jueces en materia laboral tendrán la competencia material y formal conforme a la Ley Federal del Trabajo y las facultades y obligaciones que establece la presente Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
 Los Jueces en materia laboral deberán observar en sus sentencias y resoluciones los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
@@ -1007,7 +1037,9 @@ Los Juzgados penales del sistema acusatorio se integrarán por Jueces de Control
 
 Por regla general los Tribunales de Enjuiciamiento serán unipersonales y estarán conformados por un Juez de enjuiciamiento que no haya conocido de las etapas previas al Juicio de que se trate; el pleno del Consejo de la Judicatura emitirá mediante Acuerdo General, los supuestos en que excepcionalmente podrán integrarse de manera colegiada dicho Tribunales.
 
-Los Jueces de Control deberán residir en su respectivo Partido Judicial, y no podrán ausentarse de su circunscripción territorial sin licencia previa del Presidente del Consejo de la Judicatura, a excepción de aquellos Jueces de Control que sean comisionados para integrar (sic) Tribunal de Enjuiciamiento, o cuando se requiera la realización de un acto procesal que amerite su traslado fuera de su circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica; en el primer supuesto podrán hacerlo previa comisión otorgada por la Presidencia del Consejo de la Judicatura para ese efecto; y en el segundo previo aviso fundado y motivado al mencionado órgano.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Las Juezas y los Jueces de Control deberán residir en su respectivo Partido Judicial, pero podrán ausentarse de su circunscripción territorial con licencia previa del Presidente del Consejo de la Judicatura, o cuando sean comisionados para integrar Tribunal de Enjuiciamiento.
 
 ###### Artículo 54.
 
@@ -1085,9 +1117,9 @@ XXVI. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
 El cargo de Juez Coordinador será honorifico, quien lo desempeñe fungirá como un enlace para la centralización de las peticiones y requerimientos que los jueces realicen al Administrador de Gestión Jurídico Administrativa del juzgado de su adscripción, a la Coordinación Estatal de Gestión para los Juzgados del Sistema Penal Acusatorio, y al Consejo de la Judicatura o a otros operadores del sistema penal, según corresponda y tendrá las facultades que se establezcan en el Reglamento y en los Acuerdos Generales que emita el Pleno del Consejo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Los Jueces de Control ejercerán su jurisdicción en todo el territorio del Estado, con independencia de la circunscripción territorial del Juzgado y Partido Judicial al que estén adscritos, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+Las Juezas y los Jueces de Control ejercerán su jurisdicción en todo el territorio del Estado, con independencia de la circunscripción territorial del Juzgado y Partido Judicial al que estén adscritos.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -1127,9 +1159,9 @@ IX. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
 X. (DEROGADA, B.O. 18 DE FEBRERO DE 2022)
 
-> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El Tribunal de Enjuiciamiento ejercerá su jurisdicción en todo el territorio del Estado, con independencia del lugar donde se encuentre radicada la causa penal que motive el Juicio, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+El Tribunal de enjuiciamiento ejercerá su jurisdicción en todo el territorio del Estado, con independencia del lugar donde se encuentre radicada la causa penal que motive el juicio.
 
 > <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -1512,6 +1544,10 @@ I. Permanecer en el Juzgado o Tribunal dentro del horario que al efecto establez
 > <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
 II. Recibir del Secretario o Secretario Instructor los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado o Tribunal, firmando el libro respectivo; y
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Al efecto, se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del pleno se cumpla con el registro y control mediante el sistema de gestión electrónica; y
 
 > <small>(REFORMADA, B.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -1943,11 +1979,19 @@ XIII. Dictar las medidas pertinentes, a efecto de que en los Partidos Judiciales
 
 XIV. Administrar el Fondo Auxiliar para la Administración de Justicia;
 
-XV. Emitir los acuerdos que estime pertinentes para garantizar el adecuado funcionamiento de los órganos y dependencias del Poder Judicial;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XV. Emitir los reglamentos y acuerdos generales que estime pertinentes para garantizar el adecuado funcionamiento de los órganos y dependencias del Poder Judicial;
 
 XVI. Establecer los Acuerdos Generales para el acceso a las audiencias en los procesos jurisdiccionales, a los periodistas o representantes de los medios de comunicación y, las condiciones que deberán observar;
 
-XVII. Emitir los acuerdos que regulen los medios electrónicos de comunicación procesal que podrán ser utilizados para la recepción de promociones, notificaciones y trámites relacionados con las causas jurisdiccionales, así como los mecanismos que permitan garantizar su realización y recepción en tiempo y contenido;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVII. Establecer mediante Acuerdos Generales o Reglamentos, la normatividad y los criterios necesarios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos y de servicio al público, así como la organización, administración y resguardo de los archivos de los órganos jurisdiccionales y dependencias del Poder Judicial, incluyendo la regulación suficiente, para la presentación de escritos, practicar notificaciones y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen o no la Firma Electrónica, de conformidad con lo estipulado en las leyes de la materia.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+De igual forma, emitir los lineamientos para la utilización de la videoconferencia en tiempo real para el desahogo de audiencias y diligencias judiciales en los asuntos de la competencia de los órganos jurisdiccionales del Poder Judicial; con la aprobación del Tribunal Superior de Justicia del Estado, cuando las normas a observar incidan en dicha instancia;
 
 XVIII. Determinar la información que deba ser considerada como reservada, en términos de la ley de la materia;
 
@@ -2007,9 +2051,17 @@ El Consejo de la Judicatura contará con los servidores públicos que establece 
 
 Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
 
-I. Representar legalmente al Consejo de la Judicatura y a su Pleno, asumiendo esta representación para los efectos legales procedentes, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en otros Consejeros para la celebración de actos cívicos oficiales y para la atención de actos administrativos o asuntos litigiosos mediante la concesión de mandatos limitados, previa aprobación del Pleno del Consejo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-En los casos de los actos de dominio, sólo podrá celebrar contratos previa autorización del Pleno del Consejo.
+I. Representar legalmente al Consejo de la Judicatura y a su Pleno, asumiendo esta representación para los efectos legales procedentes, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en otros Consejeros o Servidores Públicos del Poder Judicial del Estado, para la celebración de actos cívicos oficiales; y previa aprobación del Pleno del Consejo, para la atención de actos administrativos o asuntos litigiosos, mediante el otorgamiento de mandato limitado.
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de asuntos litigiosos, además de los servidores públicos señalados en el párrafo anterior, la representación podrá delegarse a terceros, mediante el otorgamiento de mandatos limitados, previa aprobación del Pleno del Consejo;
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+En los casos de los actos de dominio, solo podrá celebrar contratos previa autorización del Pleno del Consejo.
 
 II. Convocar a los Consejeros a sesiones del Pleno, presidirlas, dirigir los debates y conservar el orden en las sesiones y en las audiencias;
 
@@ -2239,9 +2291,9 @@ En los asuntos del orden penal, cuando no estuvieren designados especialmente po
 
 En los asuntos civiles, mercantiles, familiares, penales, de justicia administrativa o fiscal, las partes interesadas podrán nombrar libremente los peritos que les convengan. Los peritos nombrados por las partes o en su rebeldía por el Juez, serán remunerados por aquéllas en los términos del convenio o contrato respectivo y, a falta de convenio o contrato, conforme al arancel previsto en la presente Ley.
 
-> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-En los asuntos laborales la designación de peritos se realizará conforme lo señala la Ley Federal del Trabajo, corriendo a cargo de la parte oferente de la prueba pericial la remuneración de los honorarios que correspondan o en su caso, el arancel previsto en la presente Ley.
+En los asuntos laborales la designación de peritos se realizará conforme lo señala la Ley Federal del Trabajo. Solo en la etapa de ejecución correrá a cargo de la parte oferente de la prueba pericial la remuneración de los honorarios del perito, la cual se hará en los términos del convenio o contrato respectivo y a falta de estos, conforme al arancel previsto en la presente Ley.
 
 ###### Artículo 134.
 
@@ -2505,7 +2557,9 @@ XVI. Archivo Judicial.
 
 Para ser Oficial Mayor se deberán reunir los mismos requisitos que para ser Juez.
 
-El requisito del título y cedula de Licenciado en Derecho podrá ser dispensado por acuerdo del Pleno del Consejo, siempre que se trate de Licenciado en Administración y áreas afines.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+El requisito relativo a la profesión podrá dispensarse por acuerdo del Pleno del Consejo, pero en todo caso se deberá contar con título y cédula de nivel licenciatura.
 
 La Oficialía Mayor dependerá del Consejo de la Judicatura en términos de su reglamento interno
 
@@ -3421,6 +3475,10 @@ I. Recibir y dar trámite a las determinaciones que remitan los jueces de la mat
 
 II. Llevar los libros de registro de las convivencias familiares llevadas a cabo en el Centro;
 
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Al efecto, se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del Pleno se cumpla con el registro y control mediante el sistema de gestión electrónica;
+
 III. Vigilar que las convivencias se lleven a cabo con la supervisión del personal adscrito al Centro de Convivencia Familiar;
 
 IV. Informar periódicamente a los jueces que hayan decretado la convivencia familiar, o a petición de éstos, sobre el desarrollo y cumplimiento de la misma y de cualquier acontecimiento extraordinario que ponga en peligro inminente la integridad de los menores;
@@ -3502,6 +3560,10 @@ III. Realizar las notificaciones personales a los beneficiarios conforme lo prev
 IV. Firmar los recibos de caja y expedir los recibos de entrega; solicitando en su caso a la persona autorizada para recibir las cantidades depositadas a su favor que proporcione los datos de la cuenta bancaria de la institución de su preferencia, para el cobro de las consignaciones periódicas; lo que se notificará a la parte depositante y se informará lo conducente a la Dirección del Fondo Auxiliar para la Administración de Justicia del Poder Judicial;
 
 V. Llevar el registro en los libros de control de la oficina principal de la Central de Consignaciones y supervisar los de los demás módulos;
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Al efecto, se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del pleno se cumpla con el registro y control mediante el sistema de gestión electrónica;
 
 VI. Rendir al Presidente del Consejo de la Judicatura, dentro de los cinco primeros días hábiles de cada mes, un informe de actividades de la oficina principal y de los módulos, desarrolladas en el mes inmediato anterior;
 
@@ -4173,9 +4235,9 @@ Procede la excitativa de justicia a petición de cualquiera de las partes, si tr
 
 La excitativa de justicia se presentará por escrito ante la Presidencia del Tribunal Superior de Justicia y conocerá el Pleno del Tribunal cuando se interponga en contra de algún Magistrado, y la Sala de la materia respectiva cuando se trate de un Juez.
 
-> <small>(ADICIONADO, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Tratándose de las excitativas de justicia contra un juez laboral, estás serán resueltas por las salas unitarias civiles.
+Tratándose de las excitativas de justicia contra una Jueza o un Juez Laboral, estas serán resueltas por el Pleno del Tribunal.
 
 ###### Artículo 256.
 
@@ -4577,6 +4639,46 @@ En los negocios cuya cuantía sea indeterminada, el árbitro cobrará de doscien
 
 Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO DÉCIMO CUARTO. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 308.
+
+Las decisiones dictadas por el Consejo de la Judicatura serán definitivas e inatacables, salvo las que se refieran a la designación, adscripción, ratificación o no ratificación y remoción de jueces, las cuales podrán impugnarse ante el Pleno del Tribunal Superior de Justicia del Estado, mediante el recurso de revisión administrativa.
+
+El recurso de revisión administrativa tendrá como único objeto que el Pleno del Tribunal Superior de Justicia del Estado determine si el Consejo de la Judicatura designó, adscribió, ratificó, no ratificó o removió a un juez, con estricto apego a los requisitos formales previstos en esta ley, o en los reglamentos interiores y acuerdos generales expedidos por el propio Consejo de la Judicatura.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 309.
+
+El recurso de revisión administrativo podrá interponerse:
+
+I. Tratándose de las resoluciones de la designación o adscripción con motivo de un examen de oposición, por cualquiera de las personas que hubieran participado en él, o cuando se dé con motivo de un acuerdo del Consejo de la Judicatura;
+
+II. Tratándose de las resoluciones de remoción, por lo Jueza o el Juez afectado por la misma; y
+
+III. Tratándose de las resoluciones de ratificación o no ratificación, por la Jueza o el Juez o funcionario judicial afectado.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 310.
+
+El recurso de revisión administrativa deberá presentarse por escrito ante el Presidente del Consejo de la Judicatura, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de la resolución que haya de combatirse. Su trámite, sustanciación y resolución se hará conforme a las normas reglamentarias que para tal efecto expida el Pleno del Tribunal y en lo no previsto será de aplicación supletoria el ordenamiento procesal civil vigente en la entidad.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 311.
+
+Las resoluciones del Pleno del Tribunal Superior de Justicia del Estado que declaren fundado el recurso de revisión administrativa planteado, se limitarán a declarar la nulidad del acto impugnado para el efecto de que el Consejo de la Judicatura dicte una nueva resolución en un plazo no mayor a treinta días hábiles.
+
+La nulidad del acto que se reclama no producirá la invalidez de las actuaciones del juez nombrado o adscrito.
+
+La interposición de la revisión administrativa suspenderá los efectos de la resolución impugnada.
+
 T R A N S I T O R I O S:
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de la publicación del presente Decreto, con las siguientes excepciones:
@@ -4728,3 +4830,23 @@ B.O. 29 DE ABRIL DE 2022.
 PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2890 SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 89 Y EL DÉCIMO PÁRRAFO DEL ARTÍCULO 100 AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN LAS FRACCIONES X, XXIV, XXVIII Y XXXI DEL ARTÍCULO 14; LA FRACCIÓN II DEL ARTÍCULO 22; EL ARTÍCULO 48 BIS; EL PÁRRAFO TERCERO DEL ARTÍCULO 53; EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 55; EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 56; LAS FRACCIONES XV Y XVII DEL ARTÍCULO 113; LOS PÁRRAFOS PRIMERO Y SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 115; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 133; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 144 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 255; Y SE ADICIONAN LA FRACCIÓN XXXI BIS AL ARTÍCULO 14; UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 22; UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO COMPUESTO POR LOS INCISOS A), B), C), D) Y E ) AL ARTÍCULO 40, UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 67; UN PÁRRAFO SEGUNDO A LA FRACCIÓN XVII DEL ARTÍCULO 113; UN TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 115; UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 199; UN PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL ARTÍCULO 208 Y EL TÍTULO DÉCIMO CUARTO DENOMINADO "DEL RECURSO DE REVISIÓN ADMINISTRATIVA", MISMO QUE ESTA CONFORMADO POR LOS ARTÍCULOS 308, 309, 310 Y 311 TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Baja California Sur deberá expedir las normas reglamentarias relativas al trámite, sustanciación y resolución del recurso de revisión administrativa a que se hace alusión en el presente decreto, dentro de los 30 días siguientes a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Los jueces que hayan recibido nombramiento definitivo con anterioridad a la entrada en vigor del presente decreto no serán sujetos al procedimiento de ratificación y solo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezcan esta Ley y sus normas reglamentarias.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
