@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2022-10-13"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -395,7 +395,9 @@ I. El Gobernador del Estado, o el funcionario a quien éste designe, quien la pr
 
 II. Los siguientes funcionarios:
 
-a) El Secretario de Planeación del Desarrollo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+a) El Secretario de Finanzas.
 
 b) El Secretario de Ecología y Gestión Ambiental.
 
@@ -3748,3 +3750,11 @@ P.O. 13 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0396.- SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO LEGISLATIVO 269, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL 25 DE FEBRERO DE 2022”.]
 
 ÚNICO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0575.- SE REFORMA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 10 DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
