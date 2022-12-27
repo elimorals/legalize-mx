@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2022-12-22"
+last_updated: "2022-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -173,11 +173,11 @@ IX. El tiempo extraordinario dentro de los márgenes señalados en la Ley Federa
 
 Para que los conceptos mencionados en este precepto se excluyan como integrantes de la base del impuesto a que se refiere este capítulo, deberán estar debidamente registrados en la contabilidad del contribuyente.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 5.
 
-El impuesto se determinará aplicando a la base que señala el artículo anterior, la tasa del 2.0%.
+El impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa del 3%; para aquellos contribuyentes que cuenten con una plantilla laboral de hasta 10 trabajadores, la tasa aplicable será del 2%
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -329,13 +329,19 @@ ARTICULO 18 BIS.- Es facultad del titular del Poder Ejecutivo exentar total o pa
 
 ### CAPITULO III. DEL IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTICULO 19.
 
 Es objeto de este impuesto los servicios de hospedaje dentro del Estado, a cambio de una contraprestación en dinero o en especie.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Para los efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a través de hoteles, moteles, villas, cabañas, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de naturaleza análoga, incluyendo los prestados bajo la modalidad de tiempo compartido.
+Para los efectos de este impuesto, se consideran servicios de hospedaje la prestación de alojamiento o albergue temporal de personas a través de: hoteles, villas, cabañas, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de naturaleza análoga, incluyendo los prestados bajo la modalidad de tiempo compartido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Los establecimientos que disponen de apartamentos con garaje y entrada independiente para viajeros de paso o estancias de corta duración, denominados moteles.
 
 Se entiende que los servicios de hospedaje se prestan en el Estado, siempre que el establecimiento donde se lleve a cabo el alojamiento o albergue se encuentre dentro de su territorio.
 
@@ -357,11 +363,11 @@ Para los efectos de este artículo, no formarán parte de la base gravable, el v
 
 Cuando los servicios de hospedaje incluyan servicios accesorios, tales como transporte, alimentación, uso de Instalaciones y otros similares, y en la documentación comprobatoria no se desglosen o desagreguen de tal forma que permitan acreditar la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde en su totalidad a servicios de hospedaje.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 22.
 
-El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 2.0%.
+El impuesto se determinará aplicando a la base gravable a que se refiere el artículo anterior, la tasa del 3.0%; para efectos del tercer párrafo del artículo 19, la tasa será del 5%
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -1153,9 +1159,13 @@ IX. Los demás casos que las leyes aplicables determinen.
 
 ARTICULO 44 bis 23.- El Titular del Poder Ejecutivo, por conducto de la Secretaría de Finanzas y de Administración otorgara un subsidio del 100% en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, en beneficio de todas las personas físicas y morales propietarias, tenedoras o usuarias de vehículos, que cumplan con los requisitos siguientes:
 
-I. Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos, ya sea estatal o federal; o en su caso, tener convenio de pago en parcialidades de dicho impuesto;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-II. Estar al corriente en el pago de los derechos e impuestos previstos en la Ley de Hacienda del Estado y en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto;
+I. Estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos Estatal;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+II. Estar al corriente en el pago de los derechos e impuestos previstos en la Ley de Hacienda del Estado, que se vinculen con la propiedad tenencia o uso o prestación de servicios relacionados con los vehículos objeto de este impuesto,
 
 III. Comprobar la adquisición en territorio del Estado, tratándose de vehículos nuevos, y
 
@@ -1173,23 +1183,395 @@ IV. Tener actualizados, en los casos que proceda, los datos en el Registro Estat
 
 ARTICULO 44 bis 24.- Las infracciones a las disposiciones a que se refiere este Capítulo, serán sancionadas de conformidad con lo previsto en el Código Fiscal del Estado y demás disposiciones aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO IX. IMPUESTO A LA VENTA FINAL DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 TER.- El objeto de este impuesto es gravar la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en el territorio del Estado, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+Para efectos de este impuesto se entenderá como bebidas alcohólicas, las que a la temperatura de quince grados centígrados tengan una graduación alcohólica de más de tres grados Gay Lussac hasta cincuenta y cinco grados Gay Lussac, incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor, de conformidad con la Ley del Impuesto Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 1.- Están obligados al pago del impuesto las personas físicas o morales que realicen la venta final de bebidas alcohólicas en envase cerrado llevada a cabo en territorio del Estado, en los establecimientos abiertos al público en general a excepción de la cerveza en todas sus presentaciones, aguamiel y productos de su fermentación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 2.- La base de este impuesto será el precio percibido por la venta final disminuyendo los impuestos al Valor Agregado y Especial sobre Producción y Servicios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 3.- Este impuesto se causará en el momento en el que efectivamente se perciban los ingresos y sobre el monto que de ellos se obtenga y se determinará de acuerdo a la tasa del 4 5%.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 4.- Los contribuyentes sujetos al pago de este impuesto no lo trasladarán de forma expresa y por separado a las personas que adquieran las bebidas alcohólicas en términos del artículo 44 TER.
+
+El impuesto deberá incluirse en el precio de venta final, sin que se considere que forma parte del precio correspondiente ni se entienda violatorio de precios o tarifas, incluyendo los oficiales, por lo que no se desglosará en el comprobante que al efecto se emita.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 5.- El impuesto no será acreditable contra otros impuestos locales o contra impuestos federales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 6.- El impuesto se pagará mensualmente mediante declaraciones definitivas a más tardar el día 17 del mes siguiente inmediato posterior a aquél en que se realice la venta final de bebidas alcohólicas, a través de las formas y medios que para tal efecto autorice la Secretaría de Finanzas y de Administración, a través de disposiciones de carácter general.
+
+Si un contribuyente tuviera varios establecimientos, locales, o sucursales en el territorio del Estado, presentará por todos ellos una sola declaración de pago por las operaciones que corresponda a dichos establecimientos, a través de puntos y medios de pago que para ello determine la autoridad fiscal competente mediante las disposiciones que para tal efecto expida.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 7.- Los contribuyentes obligados al entero de este impuesto deberán llevar a cabo un registro pormenorizado de las ventas finales que realicen, desglosando los montos de cada una de dichas operaciones y las cantidades que integran la base de este impuesto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 ter 8.- Los contribuyentes sujetos al pago del impuesto, estarán obligados a inscribirse en el Padrón Estatal de Contribuyentes, dentro del mes siguiente a la fecha de inicio de sus operaciones, ante la autoridad fiscal que corresponda a su domicilio, mediante aviso que será presentado en las formas y medios que para tal efecto emita la Secretaría de Finanzas y de Administración. El aviso a que se refiere esta fracción deberá ser presentado por cada uno de los establecimientos, sucursales, locales, puestos fijos y semifijos en la vía pública de los contribuyentes que se ubique dentro del territorio del Estado;
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO X. IMPUESTOS ECOLÓGICOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### SECCION I. DEL IMPUESTO PARA PRESERVACIÓN Y RESTAURACIÓN ECOLÓGICA EN LA EXTRACCIÓN DE MATERIALES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 QUATER.- Es objeto de este impuesto el aprovechamiento y la extracción del suelo y subsuelo de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, aún y cuando constituyan vetas, mantos o yacimientos tales como: agregados pétreos, arcillas, arena, caliza, cantera, grava, rocas, piedras y sustrato o capa fértil y otros.
+
+Para efectos de este artículo la extracción deberá realizarse por medio de trabajos a cielo abierto en el territorio del Estado.
+
+En ningún momento se considerarán objeto de este impuesto los minerales o sustancias a que hace referencia el artículo 4 de la Ley Minera.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quater 1.- Son sujetos del pago de este impuesto las personas físicas y las personas morales o unidades económicas que dentro del territorio del Estado extraigan del suelo y subsuelo materiales que constituyan depósitos de igual o semejante naturaleza a los componentes del terreno, tales como: agregados pétreos, arcillas, arena, caliza, cantera, grava, rocas, piedras y sustrato o capa fértil y otros.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quater 2.- La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quater 3.- El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución conforme a lo siguiente:
+
+Material Tarifa por m3
+
+Grava $19.24
+
+Arena $19.24
+
+Arcillas y limos $15.40
+
+Materiales en greña $15.40
+
+Rocas $17.32
+
+Piedras y sustrato o capa fértil $9.62
+
+Piedras de construcción y de adorno
+
+de mármol de granito y ónix $428.18
+
+Cantera $19.24
+
+Travertinos $428.18
+
+Agregados pétreos $19.24
+
+Caliza $10.58
+
+Otros $13.47
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quater 4.- Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 17 del mes siguiente a que realicen u ocurran las actividades a que se refiere el artículo 44 QUATER de esta Ley, mediante declaración que presentarán en las formas y medios autorizados por la Secretaría de Finanzas y de Administración.
+
+Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría de Finanzas y de Administración.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quater 5.- Son obligaciones de los contribuyentes de este impuesto, las siguientes:
+
+I. Las personas físicas y morales o unidades económicas que para efecto de impuestos federales tengan su domicilio fiscal en otras entidades, pero que realicen las actividades a que se refiere este capítulo, deberán registrar como domicilio fiscal estatal, el lugar en donde se originen sus actos;
+
+II. Presentar las declaraciones del impuesto y enterar y pagar el impuesto correspondiente en la forma y los términos previstos en esta Sección;
+
+III. Registrarse o empadronarse en la oficina recaudadora que corresponda al lugar de la ubicación de los terrenos explotados;
+
+IV. Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo;
+
+V. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto, y
+
+VI. Las demás que señale la ley y los ordenamientos fiscales aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN II. DE LA EMISIÓN DE GASES A LA ATMÓSFERA
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 QUINQUIES.- Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
+
+Para los efectos de este impuesto se considera emisión a la atmósfera, la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quinquies 1.- Son sujetos y están obligados al pago de este impuesto, las personas físicas, las personas morales y las unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto en el territorio del Estado.
+
+También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quinquies 2.- Es base de este impuesto la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como en el Registro de Emisiones y Transferencia de Contaminantes que integra la Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango.
+
+Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 44 QUINQUIES de esta Ley en bióxido de carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
+
+CLASES EFECTO COMPOSICIÓN EQUIVALENCIA
+
+INVERNADERO MOLECULAR CO2
+
+Bióxido de carbono CO2 1
+
+Metano CH4 23
+
+Óxido Nitroso N20 296
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quinquies 3.- El impuesto se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten el territorio del Estado, aplicando una cuota impositiva por el equivalente a 179 pesos por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quinquies 4.- A cuenta de este Impuesto se harán pagos provisionales mensuales, que se presentarán a más tardar el día 17 del mes siguiente que corresponda al mismo, mediante los formularios que para esos efectos apruebe y publique la Secretaría de Finanzas y de Administración.
+
+Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 quinquies 5.- Los contribuyentes estarán obligados a presentar aviso de inscripción ante la Secretaría de Finanzas y de Administración y llevar un Libro de Registro de Emisiones Contaminantes, que estará a disposición de la Secretaría de Recursos Naturales y Medio Ambiente del Gobierno del Estado de Durango, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN III. DE LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 SEXIES.- Es objeto de este impuesto la emisión de sustancias contaminantes, que se depositen, desechen o descarguen al suelo, subsuelo o agua en el territorio del Estado
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 sexies 1.- Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades que los ubiquen en el supuesto del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 sexies 2.- Es base de este impuesto la cantidad en metros cuadrados de terreno o metros cúbicos de agua afectados, según corresponda, con sustancias contaminantes que se emitan o se viertan desde la o las instalaciones o fuentes fijas, expresadas en:
+
+I. Para suelo y subsuelo, en la cantidad de miligramos por kilogramo, base seca, obtenidos de muestras que se realicen conforme a las Normas Oficiales Mexicanas en cada cien metros cuadrados de terreno, de acuerdo con lo siguiente:
+
+a) Suelos contaminados por hidrocarburos:
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-138-SEMARNAT/SSA1-2012: "Límites máximos permisibles de hidrocarburos en suelos y lineamientos para el muestreo en la caracterización y especificaciones para la remediación".
+
+Contaminante Contaminante Cantidad de miligramos por
+
+kilogramo, base seca, por cada cien
+
+metros cuadrados de terreno
+
+Benceno 6
+
+Tolueno 40
+
+Etilbenceno 10
+
+Xilenos (suma de isómeros) 40
+
+Benzo[a]pireno 2
+
+Dibenzo[a,h]antraceno 2
+
+Benzo[a]antraceno 2
+
+Benzo[b]fluoranteno 2
+
+Benzo[k]fluoranteno 8
+
+Indeno (1,2,3-cd) pireno 2
+
+b) Suelos contaminados por: arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, níquel, plata, plomo, selenio, talio y vanadio.
+
+Las muestras para determinar la cantidad de miligramos por kilogramo, base seca, por cada cien metros cuadrados de terreno, se obtendrán conforme a la Norma Oficial Mexicana NOM-147-SEMARNAT/SSA1-2004: "Que establece criterios para determinar las concentraciones de remediación de suelos contaminados por arsénico, bario, berilio, cadmio, cromo hexavalente, mercurio, niquel, plata, plomo, selenio, talio y vanadio".
+
+Contaminante Cantidad de miligramos por kilogramo, base
+
+seca, por cada cien metros cuadrados de terreno
+
+Arsénico 22
+
+Bario 5400
+
+Berilio 150
+
+Cadmio 37
+
+Cromo Hexavalente 280
+
+Mercurio 23
+
+Níquel 1600
+
+Plata 390
+
+Plomo 400
+
+Selenio 390
+
+Talio 5.2
+
+Vanadio 78
+
+II. Para agua en miligramos en litros, que se presenten por cada metro cúbico, con base en lo siguiente:
+
+Las muestras para determinar la cantidad de miligramos por litro por cada metro cúbico de agua, se obtendrán conforme a la Norma Oficial Mexicana NOM-001- SEMARNAT-1996: "Que establece los límites máximos permisibles de contaminantes en las descargas residuales en aguas y bienes nacionales"
+
+a) Contaminantes en aguas residuales básicos:
+
+Contaminante Cantidad de miligramos por litro, por metro cúbico
+
+Grasas y Aceites 25
+
+Sólidos Suspendidos Totales 60
+
+Demanda Bioquímica de Oxigeno 5 60
+
+Nitrógeno Total 25
+
+Fósforo Total 10
+
+b) Contaminantes en aguas residuales, ocasionado por metales pesados y cianuros:
+
+Contaminante Cantidad de miligramos por litro, por metro cúbico
+
+Arsénico 0.1
+
+Cadmio 0.1
+
+Cianuro 1
+
+Cobre 4
+
+Cromo 0.5
+
+Mercurio 0.005
+
+Níquel 2
+
+Plomo 0.2
+
+Zinc 10
+
+Para efectos de esta sección, se entenderá que los valores presentados en este artículo representan una unidad de contaminantes en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 sexies 3.- El impuesto se causará aplicando los equivalentes y cuotas siguientes:
+
+I. Suelo y subsuelo: una cuota impositiva por el equivalente a 25 pesos por cada cien metros cuadrados afectados con las sustancias contaminantes señaladas en el artículo 44 SEXIES 2 fracción I de esta Ley; y
+
+II. Agua: contaminantes en aguas residuales básicos y en aguas residuales, ocasionado por metales pesados y cianuros, una cuota impositiva por el equivalente a 100 pesos por cada metro cúbico afectado con las sustancias contaminantes señaladas en el artículo 44 SEXIES 2 fracción II de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 sexies 4.- Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este artículo la cuota se pagará por cada contaminante.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 sexies 5.- El pago de este impuesto deberá efectuarse mediante declaración mensual, dentro de los primeros 17 días naturales del mes siguiente al que corresponda dicha declaración, en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas y de Administración o en la forma y términos que se establezcan en el Código Fiscal del Estado, utilizando las formas aprobadas para tal efecto.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN IV. DEL IMPUESTO AL DEPÓSITO O ALMACENAMIENTO DE RESIDUOS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 SEPTIES.- Es objeto de este impuesto el depósito o el almacenamiento de residuos en vertederos públicos o privados, situados en el Estado, que, al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso, que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 septies 1.- Son sujetos de este impuesto las personas físicas y morales, así como las unidades económicas sean o no residentes en el Estado, generadoras del residuo y que por sí mismas o a través de intermediarios depositen o almacenen residuos en vertederos públicos o privados, que, al originar su liberación en el ambiente, sean un constituyente tóxico o peligroso que suscita efectos de riesgo en la salud humana, a los ecosistemas o al equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 septies 2.- Es base gravable para este impuesto la cantidad en tonelada de residuos depositados o almacenados en vertederos públicos o privados, situados en el Estado que sean generados durante un mes de calendario o fracción del mismo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 septies 3.- El impuesto al depósito o almacenamiento de residuos se causará aplicando una cuota de 100 pesos por tonelada de residuos depositados o almacenados en vertederos públicos o privados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 septies 4.- El impuesto determinado deberá ser enterado mensualmente por las personas físicas y morales, así como las unidades económicas dentro de los primeros 17 días del mes siguiente a su vencimiento, en cualquier oficina recaudadora de rentas de la Secretaría de Finanzas y Administración o en la forma y términos que se establezcan en el Código Fiscal del Estado, utilizando las formas aprobadas para tal efecto.
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN I. OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 OCTIES.- Están obligadas al pago de este impuesto las personas físicas que obtengan ingresos por otorgar el uso o goce temporal de bienes inmuebles que se encuentren ubicados en el territorio del Estado de Durango, con independencia de que el contribuyente tenga su domicilio fiscal fuera del mismo. Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles, los provenientes del arrendamiento o subarrendamiento y en general por otorgar a título oneroso el uso o goce temporal de bienes inmuebles, en cualquier otra forma.
+
+Para los efectos de este capítulo, los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el año de calendario en el que sean cobrados.
+
+No pagarán el impuesto a que hace referencia el primer párrafo de este artículo, aquellos contribuyentes cuyos ingresos mensuales no rebasen la cantidad de 15,000.00 (Quince mil pesos 00/100 m.n.).
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 octies 1.- En lo relativo a los ingresos y deducciones de este impuesto cedular, se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en los Capítulos III y X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 octies 2.- Los contribuyentes a que se refiere este capítulo, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio correspondiente, mediante declaración, a más tardar el día 17 del mes inmediato posterior a aquél al que corresponda el pago.
+
+El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa del 3.5%, acreditándose el impuesto retenido durante el periodo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 octies 3.- Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Padrón Estatal de Contribuyentes.
+
+Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
+
+Cuando los ingresos a que se refiere este capítulo se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del Estado de Durango, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al 50% del monto que resulte de aplicar la tasa que para tal efecto señala el artículo 44 OCTIES 2, sin deducción alguna.
+
+La retención deberá reflejarse en el comprobante expedido conforme a la legislación fiscal aplicable que emita la persona física sujeta a este impuesto y enterarse en el mismo periodo que se establece para el pago de este impuesto.
+
+Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración a más tardar el día 28 de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas y de Administración, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. A la utilidad fiscal que se obtenga, se le aplicará la tasa que para para (sic) tal efecto señala el artículo 44 OCTIES 2, contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante e (sic) año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 44 octies 4. Los contribuyentes que obtengan ingresos de los señalados en este capítulo, además de efectuar los pagos de este impuesto, tendrán las siguientes obligaciones:
+
+I Inscribirse en el Padrón Estatal de Contribuyentes, dentro del mes siguiente a la fecha de inicio de sus operaciones, ante la autoridad fiscal que corresponda a su domicilio, mediante aviso que será presentado en las formas autorizadas;
+
+II. El aviso a que se refiere esta fracción deberá ser presentado por cada local, establecimiento, agencia o sucursal que se ubique dentro del territorio del Estado; y
+
+III. Presentar declaraciones provisionales y anuales
+
+### CAPITULO XI. IMPUESTOS CEDULARES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ### CAPITULO I. DISPOSICIONES GENERALES
-
-### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
+### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -1227,7 +1609,7 @@ La Federación, las Entidades Federativas, los Municipios, los Organismos Descen
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2003)</small>
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
+### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
@@ -1607,7 +1989,9 @@ II. Por los informes o certificaciones que soliciten el Gobierno Federal o los M
 
 III. Por los informes que soliciten las autoridades para asuntos Penales o para Juicios de Amparo.
 
-### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
+### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 57.
 
@@ -1979,391 +2363,9 @@ impresión. Hasta 2.3
 
 En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 UMA diaria por hoja hasta 100 hojas más, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 UMA diaria por hoja.
 
-### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
+### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio Ambiente proporcione, causarán derechos, conforme a la UMA diaria o fracción de la misma de acuerdo a lo siguiente:
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y de sus reglamentos, causarán derechos conforme a lo siguiente:
-
-UMA PORCENTAJE
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
-
-a) Inversión de menos de 500,000.00 pesos. 25
-
-b) Inversión de 500,000.00 hasta
-
-1,000,000.00 de pesos. 50
-
-c) Inversión de 1,000,000.01
-
-hasta 5,000,000.00 de pesos. 100
-
-d) Inversión de 5,000,000.01 hasta
-
-10,000,000.00 de pesos. 200
-
-e) Inversión de 10,000,000.01 hasta
-
-15,000,000.00 de pesos. 300
-
-f) Inversión de 15,000,000.01 hasta
-
-20,000,000.00 400
-
-g) Inversión de 20,000,000.01 hasta
-
-25,000,000.00 de pesos. 500
-
-h) Inversión de 25,000,000.01 hasta
-
-30,000,000.00 de pesos. 600
-
-i) Inversión de 30,000,000.01 hasta
-
-35,000,000.00 de pesos. 700
-
-j) Inversión de 35,000,000.01 hasta
-
-40,000,000.00 de pesos. 800
-
-k) Inversión de 40,000,000.01 hasta
-
-45,000,000.00 de pesos. 900
-
-l) Inversión de 45,000,000.01 hasta
-
-50,000,000.00 de pesos. 1000
-
-m) Inversión de más de
-
-50,000,000.00 pesos. 1100
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-2. Por la evaluación y dictaminación de quemas
-
-a cielo abierto. 15
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-3. Por la solicitud de prorrogas del informe
-
-preventivo, la manifestación de impacto ambiental
-
-y/o el estudio de riesgo
-
-a) Prorrogas por 6 meses 25
-
-b) Prorrogas por 1 año 50
-
-c) Prorrogas por más de 1 año 100
-
-4. Por la evaluación y dictaminación del
-
-estudio de riesgo de impacto
-
-ambiental.
-
-a) Inversión de 50,000.00 hasta 50
-
-500,000.00 pesos
-
-b) Inversión de 500,000.01 hasta 100
-
-1,000,000.00 de pesos
-
-c) Inversión de más de 1,000,000.00 de 150
-
-pesos
-
-5. Por la solicitud para modificar la obra o 15
-
-actividad después de emitida su
-
-autorización en materia de impacto
-
-ambiental en su modalidad particular,
-
-para su evaluación.
-
-6. Por la solicitud para modificar la obra o 40
-
-actividad después de emitida su
-
-autorización en materia de impacto
-
-ambiental en su modalidad regional,
-
-para su Evaluación.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
-
-II. Se causarán derechos por concepto de control de flora y fauna, en concordancia con la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus Reglamentos, como sigue:
-
-1. Por la expedición de cada certificado 14
-
-para exportación de flora silvestre.
-
-2. Por la expedición de permiso para 14
-
-aprovechamiento de flora y fauna
-
-silvestre para su utilización productiva.
-
-3. Por la expedición de permisos
-
-cinegéticos:
-
-A propietarios de predios (por hectárea). 3
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
-
-III. Los derechos que se causarán por concepto de control y prevención de la contaminación del aire, se dividen en fuentes fijas y fuentes móviles en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus reglamentos.
-
-> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-1.- Los derechos correspondientes a fuentes fijas,
-
-se pagarán conforme a lo siguiente
-
-a) Por la evaluación y dictaminación de la 50
-
-licencia ambiental única.
-
-b) Por solicitud de cambio y/o actualización de la
-
-licencia ambiental única. 50
-
-c) Por la recepción y evaluación de la cédula de
-
-operación anual. 10
-
-2. Los derechos por servicios prestados
-
-correspondientes a fuentes móviles, se
-
-establecen por varios conceptos:
-
-a) Por la licencia para operar plantas 10
-
-móviles de emergencia.
-
-b) Por el servicio de certificación y 6
-
-verificación de emisiones de
-
-contaminantes de vehículos
-
-automotores de combustión
-
-interna correspondiente a
-
-transporte público.
-
-c) Por el servicio de certificación y 2
-
-verificación de emisiones
-
-contaminantes de vehículos
-
-Automotores de combustión
-
-interna correspondiente a
-
-transporte del servicio particular.
-
-d). Por la reposición del certificado o 2
-
-de la calcomanía de verificación
-
-vehicular, relativos a la emisión
-
-de contaminantes.
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
-
-IV. Para los derechos por la prestación de
-
-servicios para la prevención y control de
-
-la contaminación del agua, se establece
-
-la siguiente cuota:
-
-1. Por inscripción en el padrón de 43
-
-descargas de aguas residuales y
-
-supervisión y verificación de la
-
-calidad de las mismas
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-V. En sus funciones de derecho público, el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
-
-UMA PORCENTAJE
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
-
-1. Por la evaluación y dictaminación de planes de manejo que se presentan por primera vez de Empresas públicas y privadas, se causará un Derecho de acuerdo a lo siguiente:
-
-a) Generadoras, recicladoras, almacenadoras
-
-y/o transportistas de residuos 50
-
-b) Recicladora, almacenadora y/o transportista
-
-de residuos con más de una actividad 75
-
-c) Para las dedicadas al tratamiento
-
-de residuos. 100
-
-d) Para las dedicadas a la incineración
-
-de residuos. 250
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
-
-2. Por la evaluación y dictaminación y en su caso autorización de las renovaciones en empresas públicas y privadas de las siguientes actividades en materia de residuos, se causará un derecho de acuerdo a lo siguiente:
-
-a) Para generadoras de residuos. 20
-
-b) Para las dedicadas a la recolección y
-
-transporte de residuos. 25
-
-c) Para las dedicadas al almacenamiento
-
-de residuos. 25
-
-d) Para las dedicadas al reciclaje
-
-de residuos. 25
-
-e) Para las dedicadas al reuso de residuos. 25
-
-f) Para las con más de una actividad
-
-de entre recicladora, almacenadora y/o
-
-transportista de residuos 35
-
-g) Para las dedicadas al tratamiento
-
-de residuos. 50
-
-h) Para las dedicadas a la incineración
-
-de residuos. 500
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
-
-3. Por la evaluación de cada solicitud y en su caso autorización de proyectos para la construcción o rehabilitación o clausura de sitios de disposición final.
-
-a) Para sitios de disposición final
-
-con recepción mayor a 100 toneladas
-
-por día de residuos. 100
-
-b) Para sitios de disposición final
-
-con recepción de 50 hasta 100
-
-toneladas por día de residuos. 75
-
-c) Para sitios de disposición final con
-
-recepción de 10 hasta menos de 50
-
-toneladas por día de residuos. 50
-
-d) Para sitios de disposición final
-
-con recepción menor a 10
-
-toneladas por día de residuos. 25
-
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
-
-VI. Se causarán derechos por los servicios
-
-prestados para la prevención de control
-
-de la contaminación generada por ruido,
-
-vibraciones, olores, energía lumínica,
-
-térmica y radiaciones electromagnéticas
-
-no ionizantes:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-1. Por la licencia para operar fuentes móviles 50
-
-que generen ruido, vibraciones, olores, visual,
-
-energía lumínica, térmica y-o radiaciones
-
-electromagnéticas no ionizantes.
-
-2. Por la licencia para operar fuentes 46
-
-móviles que generen ruido,
-
-vibraciones, olores, visual, energía
-
-lumínica, térmica y-o radiaciones
-
-electromagnéticas no ionizantes.
-
-> <small>(F. DE E., P.O. 3 DE ENERO DE 2021)</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
-
-VII. Se causarán derechos por la extracción en los bancos de material pétreo para la construcción u ornamento de conformidad con lo siguiente:
-
-Por cada m3 de material: UMA
-
-a) Grava 0.20
-
-b) Arena 0.20
-
-c) Arcillas y limos 0.16
-
-d) Materiales en greña 0.16
-
-e) Piedra 0.18
-
-f) Otros 0.10
-
-El sujeto obligado al pago del derecho por extracción en los bancos de material pétreo a que tenga derecho, deberá presentar aviso ante la Secretaría de Recursos Naturales y Medio Ambiente respecto al volumen y tipo de material que tenga programado extraer. Con dicho aviso, autorizado por la autoridad que corresponda de esa Secretaría, el contribuyente deberá realizar el pago del derecho que en su caso corresponda, en las oficinas de recepción de pagos autorizada por la Secretaría de Finanzas y de Administración.
-
-El aviso a que se refiere el párrafo anterior y pago del derecho correspondiente, se presentará y pagará mensualmente, dentro de los diez días previos a la extracción, considerando el volumen y tipo de material que se tenga programado extraer durante ese periodo.
-
-Las personas físicas y morales que extraigan materiales pétreos, estarán obligados a llevar un registro diario de los volúmenes y tipo de materiales extraídos, en el formato que para tal electo autorice la Secretaría de Recursos Naturales y Medio Ambiente.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-VIII. Otras no especificadas que no sean de
-
-competencia federal, ni municipal, de acuerdo
-
-con las leyes, reglamentos y normas de su
-
-competencia. 20
-
-> <small>(ADICIONADO CON EL APARTADO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 58.
 
@@ -2485,353 +2487,9 @@ XVI Otros servicios no especificados
 
 en las fracciones anteriores: 3
 
-### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-Artículo 69 BIS 1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma en los supuestos siguientes:
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-I. De las autorizaciones:
-
-a) Por la autorización de Libros de Control de
-
-medicamentos para uso de farmacias, boticas y
-
-droguerías, por cada 100 hojas: 6
-
-b) Autorización de libros de control de
-
-medicamentos para uso intrahospitalario por libro,
-
-por cada 100 hojas: 10
-
-c) Autorización de responsable sanitario
-
-farmacia: 6
-
-d) Cambio de responsable sanitario y libros de
-
-control en farmacias: 9
-
-e) Autorización para recetarios especiales con
-
-códigos de barras: 10
-
-f) Autorización subsecuente para recetarios
-
-especiales con código de barras: 10
-
-g) Autorización anual para responsable
-
-embalsamador: 15
-
-h) Otras autorizaciones no consideradas en esta
-
-fracción: 10
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-II. De las constancias de los procesos de
-
-destrucción y respectiva expedición:
-
-a) De la destrucción de productos, desde 1 Kg. A
-
-1,000 Kg. Si excede, por cada 1,000 Kg., pagarán
-
-una cuota igual: 10
-
-b) Para la baja y destrucción de medicamentos
-
-controlados: 10
-
-c) De funcionamiento adecuado a establecimientos
-
-de atención médica: 50
-
-d) De funcionamiento adecuado a establecimientos
-
-de asistencia social: 10
-
-e) De no inconveniente para el funcionamiento entre
-
-otros establecimientos de: baños públicos, albercas,
-
-balnearios, centro (sic) recreativos y deportivos con
-
-fines de lucro, salones de belleza y peluquerías,
-
-establecimientos de hospedaje, por habitación y
-
-transporte de agua en cualquier modalidad de vehículo: 15
-
-f). De destrucción de objetos, productos o sustancias
-
-que puedan ser nocivas para la salud de las personas,
-
-hasta cincuenta kilos o litros: 10
-
-g) De destrucción de objetos, productos o sustancias que
-
-puedan ser nocivas para la salud de las personas,
-
-más de cincuenta kilos o litros: 20
-
-h) Otras constancias no consideradas en esta fracción: 15
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-III. Por Capacitación y asesoría:
-
-a) Capacitación a petición de parte para manejadores
-
-de alimentos, plantas purificadoras y empacadoras de
-
-alimentos, uso y manejo de plaguicidas y control sanitario
-
-de la publicidad, dirigido a personal operativo o directivo;
-
-por persona: 2
-
-b) Capacitación de manejo y dispensación de medicamentos
-
-para personal de farmacias, por persona: 2
-
-c) Capacitación en materia sanitaria al personal médico y
-
-paramédico que labora en hospitales, clínicas, consultorios
-
-médicos y laboratorios de análisis clínicos; entre otros: 5
-
-d) Capacitación a petición de parte para propietarios y
-
-empleados de establecimientos o locales cuyo giro sea el
-
-control de plagas y a los de maquiladoras y empresas con
-
-programas de exportación que utilicen sustancias químicas en
-
-sus procesos; por persona: 5
-
-e) Asesoría en materia de operatividad técnica de
-
-establecimientos de atención médica; por evento: 10
-
-f) Asesoría en materia de normatividad sanitaria de
-
-establecimientos de atención médica; por evento: 10
-
-g) Otras no consideradas en esta fracción; por unidad
-
-o por evento: 10
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-IV. De los Servicios del Laboratorio Estatal de Salud Pública
-
-a) Prueba Tamiz VIH 2
-
-b) Confirmatorio de VIH CON W BLOT 25
-
-c) VDRL (Sífilis) 1
-
-d) Prueba confirmatoria Sífilis (Treponema Pallidum) 2.5
-
-e) Hepatitis B superficie y core 5.5
-
-f) Hepatitis C 2
-
-g) Hepatitis A 2
-
-h) Hepatitis B 5.5
-
-i) Paludismo 2
-
-j) V.- cholerae, hisopo de Moore e Hisopos rectales: 4
-
-k) Dengue Ig M 2
-
-l) Dengue Ig G 3
-
-m) Sarampión Ig M 4
-
-n) Sarampión Ig G 5
-
-o) Rubéola Ig G 4.5
-
-p) Rubéola Ig M 6
-
-q) TORCH 26
-
-r) Brucella Tamiz con Rosa de Bengala 1
-
-s) Brucella confirmatoria 3
-
-t) Conteo de Linfocitos CD 4 y CD 8 12
-
-u) Carga Viral para VIH 38
-
-v) Aislamiento e identificación de entero bacterias en
-
-muestras fecales 4
-
-w) Identificación del virus de rabia en necropsias 3
-
-x) Cuenta de Mesofílicos Aerobios 3.5
-
-y) Coniformes totales en placa 3
-
-z) Coniformes Totales 3
-
-a.1) Coliformes fecales 3.5
-
-b.1) Escherichia coli 3.5
-
-c.1) Salmonella 5.5
-
-d.1) Staphylococcus Aureus 5.5
-
-e.1) Hongos y levaduras 5.5
-
-f.1) V. Cholerae 4
-
-g.1) Fluor en Agua 3
-
-h.1) Arsénico en agua 3
-
-i.1) Plomo en agua 3
-
-j.1) Tuberculosis (baciloscopia) 1
-
-k.1) Tuberculosis (cultivo Mycobacterium) 6
-
-l.1) Otras pruebas no consideradas 10
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-V. De las Licencias:
-
-a) Licencia sanitaria estatal anual para microempresa:
-
-ferreteras, tiendas de pinturas con ventas de solventes: 10
-
-b) Licencia sanitaria estatal anual para pequeña empresa:
-
-Ferreteras, tiendas de pinturas con ventas de solventes: 20
-
-c) Licencia sanitaria estatal anual para mediana empresa:
-
-ferreteras, tiendas de pinturas con ventas de solventes 40
-
-d) Licencia sanitaria estatal anual para gran empresa:
-
-Ferreteras, tiendas de pinturas con ventas de solventes: 100
-
-e) Otras licencias no consideradas: 20
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
-
-VI. Servicios diversos:
-
-a) Visita de verificación de las condiciones sanitarias de
-
-establecimientos: 15
-
-b) Permiso de exhumación y/o reinhumación: 10
-
-c) Expedición de certificado sobre calidad bacteriológica de
-
-pozo de agua para abastecimiento privado: 20
-
-d) Expedición de copias certificadas de documentos; por
-
-cada foja: .2
-
-e) Otros servicios no considerados: 10
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 69 BIS 2.- Los Servicios que presta la Secretaría de Seguridad Pública, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma conforme a lo siguiente:
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
-
-I. De la autorización y otros trámites para el funcionamiento de las empresas de seguridad privada:
-
-CONCEPTO CUOTA
-
-1. Por el estudio y trámite de la solicitud para la
-
-autorización o para su revalidación: 37
-
-2. Los derechos por la expedición de la autorización o su revalidación de acuerdo a cada modalidad de Seguridad Privada se causarán:
-
-a) Para prestar los servicios de traslado y protección
-
-de personas. 230
-
-b) Para prestar los servicios de traslado y custodia
-
-de bienes o valores. 226
-
-c) Para prestar los servicios de vigilancia en inmuebles. 230
-
-d) Para prestar los servicios de localización e
-
-información sobre personas físicas o morales y bienes. 214
-
-e) Por la prestación del servicio consistente en la
-
-preservación, integridad y disponibilidad de la
-
-información del prestatario, vinculada directamente
-
-con los servicios de seguridad privada. 214
-
-f) Prestación de servicios relacionados de manera
-
-directa o indirecta con la instalación o comercialización
-
-de sistemas de blindaje en todo tipo de vehículos
-
-automotores y vinculada directamente con los servicios
-
-de seguridad privada. 214
-
-g) Prestación de servicios relacionados con la actividad
-
-de sistemas de alarmas a establecimientos industriales,
-
-comerciales o a casas habitación y vinculada
-
-directamente con servicios de seguridad privada. 214
-
-3. Por la inscripción en el Registro Nacional del
-
-Personal de Seguridad Pública. Por cada persona
-
-física operativa con que cuentan los prestadores
-
-de servicios de seguridad privada. 2
-
-4. Por la consulta de antecedentes, policiales en el
-
-Registro Nacional del Personal de Seguridad Pública,
-
-y en el Registro Estatal, respecto a cada persona
-
-operativa con que cuentan los prestadores de servicios
-
-de seguridad privada. 1
-
-5. Por la expedición de cada cédula de identificación del
-
-personal operativo, misma que será de uso obligatorio. 1
 
 ###### ARTICULO 59.
 
@@ -3145,7 +2803,7 @@ fracciones anteriores. 3.0
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO UNICO
+### CAPITULO VII. DE LOS DERECHOS POR INSCRIPCION EN EL PADRON DE PROPIETARIOS Y POSEEDORES DE VEHICULOS AUTOMOTORES DE PROCEDENCIA EXTRANJERA
 
 ###### ARTICULO 60.
 
@@ -3595,7 +3253,359 @@ en el presente artículo 10
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio Ambiente proporcione, causarán derechos, conforme a la UMA diaria o fracción de la misma de acuerdo a lo siguiente:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y de sus reglamentos, causarán derechos conforme a lo siguiente:
+
+UMA PORCENTAJE
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
+
+a) Inversión de menos de 500,000.00 pesos. 25
+
+b) Inversión de 500,000.00 hasta
+
+1,000,000.00 de pesos. 50
+
+c) Inversión de 1,000,000.01
+
+hasta 5,000,000.00 de pesos. 100
+
+d) Inversión de 5,000,000.01 hasta
+
+10,000,000.00 de pesos. 200
+
+e) Inversión de 10,000,000.01 hasta
+
+15,000,000.00 de pesos. 300
+
+f) Inversión de 15,000,000.01 hasta
+
+20,000,000.00 400
+
+g) Inversión de 20,000,000.01 hasta
+
+25,000,000.00 de pesos. 500
+
+h) Inversión de 25,000,000.01 hasta
+
+30,000,000.00 de pesos. 600
+
+i) Inversión de 30,000,000.01 hasta
+
+35,000,000.00 de pesos. 700
+
+j) Inversión de 35,000,000.01 hasta
+
+40,000,000.00 de pesos. 800
+
+k) Inversión de 40,000,000.01 hasta
+
+45,000,000.00 de pesos. 900
+
+l) Inversión de 45,000,000.01 hasta
+
+50,000,000.00 de pesos. 1000
+
+m) Inversión de más de
+
+50,000,000.00 pesos. 1100
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+2. Por la evaluación y dictaminación de quemas
+
+a cielo abierto. 15
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+3. Por la solicitud de prorrogas del informe
+
+preventivo, la manifestación de impacto ambiental
+
+y/o el estudio de riesgo
+
+a) Prorrogas por 6 meses 25
+
+b) Prorrogas por 1 año 50
+
+c) Prorrogas por más de 1 año 100
+
+4. Por la evaluación y dictaminación del
+
+estudio de riesgo de impacto
+
+ambiental.
+
+a) Inversión de 50,000.00 hasta 50
+
+500,000.00 pesos
+
+b) Inversión de 500,000.01 hasta 100
+
+1,000,000.00 de pesos
+
+c) Inversión de más de 1,000,000.00 de 150
+
+pesos
+
+5. Por la solicitud para modificar la obra o 15
+
+actividad después de emitida su
+
+autorización en materia de impacto
+
+ambiental en su modalidad particular,
+
+para su evaluación.
+
+6. Por la solicitud para modificar la obra o 40
+
+actividad después de emitida su
+
+autorización en materia de impacto
+
+ambiental en su modalidad regional,
+
+para su Evaluación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
+
+II. Se causarán derechos por concepto de control de flora y fauna, en concordancia con la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus Reglamentos, como sigue:
+
+1. Por la expedición de cada certificado 14
+
+para exportación de flora silvestre.
+
+2. Por la expedición de permiso para 14
+
+aprovechamiento de flora y fauna
+
+silvestre para su utilización productiva.
+
+3. Por la expedición de permisos
+
+cinegéticos:
+
+A propietarios de predios (por hectárea). 3
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
+
+III. Los derechos que se causarán por concepto de control y prevención de la contaminación del aire, se dividen en fuentes fijas y fuentes móviles en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y sus reglamentos.
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+1.- Los derechos correspondientes a fuentes fijas,
+
+se pagarán conforme a lo siguiente
+
+a) Por la evaluación y dictaminación de la 50
+
+licencia ambiental única.
+
+b) Por solicitud de cambio y/o actualización de la
+
+licencia ambiental única. 50
+
+c) Por la recepción y evaluación de la cédula de
+
+operación anual. 10
+
+2. Los derechos por servicios prestados
+
+correspondientes a fuentes móviles, se
+
+establecen por varios conceptos:
+
+a) Por la licencia para operar plantas 10
+
+móviles de emergencia.
+
+b) Por el servicio de certificación y 6
+
+verificación de emisiones de
+
+contaminantes de vehículos
+
+automotores de combustión
+
+interna correspondiente a
+
+transporte público.
+
+c) Por el servicio de certificación y 2
+
+verificación de emisiones
+
+contaminantes de vehículos
+
+Automotores de combustión
+
+interna correspondiente a
+
+transporte del servicio particular.
+
+d). Por la reposición del certificado o 2
+
+de la calcomanía de verificación
+
+vehicular, relativos a la emisión
+
+de contaminantes.
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+IV. Para los derechos por la prestación de
+
+servicios para la prevención y control de
+
+la contaminación del agua, se establece
+
+la siguiente cuota:
+
+1. Por inscripción en el padrón de 43
+
+descargas de aguas residuales y
+
+supervisión y verificación de la
+
+calidad de las mismas
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+V. En sus funciones de derecho público, el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
+
+UMA PORCENTAJE
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+1. Por la evaluación y dictaminación de planes de manejo que se presentan por primera vez de Empresas públicas y privadas, se causará un Derecho de acuerdo a lo siguiente:
+
+a) Generadoras, recicladoras, almacenadoras
+
+y/o transportistas de residuos 50
+
+b) Recicladora, almacenadora y/o transportista
+
+de residuos con más de una actividad 75
+
+c) Para las dedicadas al tratamiento
+
+de residuos. 100
+
+d) Para las dedicadas a la incineración
+
+de residuos. 250
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+2. Por la evaluación y dictaminación y en su caso autorización de las renovaciones en empresas públicas y privadas de las siguientes actividades en materia de residuos, se causará un derecho de acuerdo a lo siguiente:
+
+a) Para generadoras de residuos. 20
+
+b) Para las dedicadas a la recolección y
+
+transporte de residuos. 25
+
+c) Para las dedicadas al almacenamiento
+
+de residuos. 25
+
+d) Para las dedicadas al reciclaje
+
+de residuos. 25
+
+e) Para las dedicadas al reuso de residuos. 25
+
+f) Para las con más de una actividad
+
+de entre recicladora, almacenadora y/o
+
+transportista de residuos 35
+
+g) Para las dedicadas al tratamiento
+
+de residuos. 50
+
+h) Para las dedicadas a la incineración
+
+de residuos. 500
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+3. Por la evaluación de cada solicitud y en su caso autorización de proyectos para la construcción o rehabilitación o clausura de sitios de disposición final.
+
+a) Para sitios de disposición final
+
+con recepción mayor a 100 toneladas
+
+por día de residuos. 100
+
+b) Para sitios de disposición final
+
+con recepción de 50 hasta 100
+
+toneladas por día de residuos. 75
+
+c) Para sitios de disposición final con
+
+recepción de 10 hasta menos de 50
+
+toneladas por día de residuos. 50
+
+d) Para sitios de disposición final
+
+con recepción menor a 10
+
+toneladas por día de residuos. 25
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+
+VI. Se causarán derechos por los servicios
+
+prestados para la prevención de control
+
+de la contaminación generada por ruido,
+
+vibraciones, olores, energía lumínica,
+
+térmica y radiaciones electromagnéticas
+
+no ionizantes:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+
+1. Por la licencia para operar fuentes móviles 50
+
+que generen ruido, vibraciones, olores, visual,
+
+energía lumínica, térmica y-o radiaciones
+
+electromagnéticas no ionizantes.
+
+2. Por la licencia para operar fuentes 46
+
+móviles que generen ruido,
+
+vibraciones, olores, visual, energía
+
+lumínica, térmica y-o radiaciones
+
+electromagnéticas no ionizantes.
+
+VII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
+
+VIII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADO CON EL APARTADO Y ARTÍCULO QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 67.
 
@@ -3611,13 +3621,365 @@ en el presente artículo 10
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE JUNIO DE 2003)</small>
 
+### CAPITULO IX. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE SALUD
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+Artículo 69 BIS 1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma en los supuestos siguientes:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+I. De las autorizaciones:
+
+a) Por la autorización de Libros de Control de
+
+medicamentos para uso de farmacias, boticas y
+
+droguerías, por cada 100 hojas: 6
+
+b) Autorización de libros de control de
+
+medicamentos para uso intrahospitalario por libro,
+
+por cada 100 hojas: 10
+
+c) Autorización de responsable sanitario
+
+farmacia: 6
+
+d) Cambio de responsable sanitario y libros de
+
+control en farmacias: 9
+
+e) Autorización para recetarios especiales con
+
+códigos de barras: 10
+
+f) Autorización subsecuente para recetarios
+
+especiales con código de barras: 10
+
+g) Autorización anual para responsable
+
+embalsamador: 15
+
+h) Otras autorizaciones no consideradas en esta
+
+fracción: 10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+II. De las constancias de los procesos de
+
+destrucción y respectiva expedición:
+
+a) De la destrucción de productos, desde 1 Kg. A
+
+1,000 Kg. Si excede, por cada 1,000 Kg., pagarán
+
+una cuota igual: 10
+
+b) Para la baja y destrucción de medicamentos
+
+controlados: 10
+
+c) De funcionamiento adecuado a establecimientos
+
+de atención médica: 50
+
+d) De funcionamiento adecuado a establecimientos
+
+de asistencia social: 10
+
+e) De no inconveniente para el funcionamiento entre
+
+otros establecimientos de: baños públicos, albercas,
+
+balnearios, centro (sic) recreativos y deportivos con
+
+fines de lucro, salones de belleza y peluquerías,
+
+establecimientos de hospedaje, por habitación y
+
+transporte de agua en cualquier modalidad de vehículo: 15
+
+f). De destrucción de objetos, productos o sustancias
+
+que puedan ser nocivas para la salud de las personas,
+
+hasta cincuenta kilos o litros: 10
+
+g) De destrucción de objetos, productos o sustancias que
+
+puedan ser nocivas para la salud de las personas,
+
+más de cincuenta kilos o litros: 20
+
+h) Otras constancias no consideradas en esta fracción: 15
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+III. Por Capacitación y asesoría:
+
+a) Capacitación a petición de parte para manejadores
+
+de alimentos, plantas purificadoras y empacadoras de
+
+alimentos, uso y manejo de plaguicidas y control sanitario
+
+de la publicidad, dirigido a personal operativo o directivo;
+
+por persona: 2
+
+b) Capacitación de manejo y dispensación de medicamentos
+
+para personal de farmacias, por persona: 2
+
+c) Capacitación en materia sanitaria al personal médico y
+
+paramédico que labora en hospitales, clínicas, consultorios
+
+médicos y laboratorios de análisis clínicos; entre otros: 5
+
+d) Capacitación a petición de parte para propietarios y
+
+empleados de establecimientos o locales cuyo giro sea el
+
+control de plagas y a los de maquiladoras y empresas con
+
+programas de exportación que utilicen sustancias químicas en
+
+sus procesos; por persona: 5
+
+e) Asesoría en materia de operatividad técnica de
+
+establecimientos de atención médica; por evento: 10
+
+f) Asesoría en materia de normatividad sanitaria de
+
+establecimientos de atención médica; por evento: 10
+
+g) Otras no consideradas en esta fracción; por unidad
+
+o por evento: 10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+IV. De los Servicios del Laboratorio Estatal de Salud Pública
+
+a) Prueba Tamiz VIH 2
+
+b) Confirmatorio de VIH CON W BLOT 25
+
+c) VDRL (Sífilis) 1
+
+d) Prueba confirmatoria Sífilis (Treponema Pallidum) 2.5
+
+e) Hepatitis B superficie y core 5.5
+
+f) Hepatitis C 2
+
+g) Hepatitis A 2
+
+h) Hepatitis B 5.5
+
+i) Paludismo 2
+
+j) V.- cholerae, hisopo de Moore e Hisopos rectales: 4
+
+k) Dengue Ig M 2
+
+l) Dengue Ig G 3
+
+m) Sarampión Ig M 4
+
+n) Sarampión Ig G 5
+
+o) Rubéola Ig G 4.5
+
+p) Rubéola Ig M 6
+
+q) TORCH 26
+
+r) Brucella Tamiz con Rosa de Bengala 1
+
+s) Brucella confirmatoria 3
+
+t) Conteo de Linfocitos CD 4 y CD 8 12
+
+u) Carga Viral para VIH 38
+
+v) Aislamiento e identificación de entero bacterias en
+
+muestras fecales 4
+
+w) Identificación del virus de rabia en necropsias 3
+
+x) Cuenta de Mesofílicos Aerobios 3.5
+
+y) Coniformes totales en placa 3
+
+z) Coniformes Totales 3
+
+a.1) Coliformes fecales 3.5
+
+b.1) Escherichia coli 3.5
+
+c.1) Salmonella 5.5
+
+d.1) Staphylococcus Aureus 5.5
+
+e.1) Hongos y levaduras 5.5
+
+f.1) V. Cholerae 4
+
+g.1) Fluor en Agua 3
+
+h.1) Arsénico en agua 3
+
+i.1) Plomo en agua 3
+
+j.1) Tuberculosis (baciloscopia) 1
+
+k.1) Tuberculosis (cultivo Mycobacterium) 6
+
+l.1) Otras pruebas no consideradas 10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+V. De las Licencias:
+
+a) Licencia sanitaria estatal anual para microempresa:
+
+ferreteras, tiendas de pinturas con ventas de solventes: 10
+
+b) Licencia sanitaria estatal anual para pequeña empresa:
+
+Ferreteras, tiendas de pinturas con ventas de solventes: 20
+
+c) Licencia sanitaria estatal anual para mediana empresa:
+
+ferreteras, tiendas de pinturas con ventas de solventes 40
+
+d) Licencia sanitaria estatal anual para gran empresa:
+
+Ferreteras, tiendas de pinturas con ventas de solventes: 100
+
+e) Otras licencias no consideradas: 20
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+VI. Servicios diversos:
+
+a) Visita de verificación de las condiciones sanitarias de
+
+establecimientos: 15
+
+b) Permiso de exhumación y/o reinhumación: 10
+
+c) Expedición de certificado sobre calidad bacteriológica de
+
+pozo de agua para abastecimiento privado: 20
+
+d) Expedición de copias certificadas de documentos; por
+
+cada foja: .2
+
+e) Otros servicios no considerados: 10
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 69 BIS 2.- Los Servicios que presta la Secretaría de Seguridad Pública, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
+
+I. De la autorización y otros trámites para el funcionamiento de las empresas de seguridad privada:
+
+CONCEPTO CUOTA
+
+1. Por el estudio y trámite de la solicitud para la
+
+autorización o para su revalidación: 37
+
+2. Los derechos por la expedición de la autorización o su revalidación de acuerdo a cada modalidad de Seguridad Privada se causarán:
+
+a) Para prestar los servicios de traslado y protección
+
+de personas. 230
+
+b) Para prestar los servicios de traslado y custodia
+
+de bienes o valores. 226
+
+c) Para prestar los servicios de vigilancia en inmuebles. 230
+
+d) Para prestar los servicios de localización e
+
+información sobre personas físicas o morales y bienes. 214
+
+e) Por la prestación del servicio consistente en la
+
+preservación, integridad y disponibilidad de la
+
+información del prestatario, vinculada directamente
+
+con los servicios de seguridad privada. 214
+
+f) Prestación de servicios relacionados de manera
+
+directa o indirecta con la instalación o comercialización
+
+de sistemas de blindaje en todo tipo de vehículos
+
+automotores y vinculada directamente con los servicios
+
+de seguridad privada. 214
+
+g) Prestación de servicios relacionados con la actividad
+
+de sistemas de alarmas a establecimientos industriales,
+
+comerciales o a casas habitación y vinculada
+
+directamente con servicios de seguridad privada. 214
+
+3. Por la inscripción en el Registro Nacional del
+
+Personal de Seguridad Pública. Por cada persona
+
+física operativa con que cuentan los prestadores
+
+de servicios de seguridad privada. 2
+
+4. Por la consulta de antecedentes, policiales en el
+
+Registro Nacional del Personal de Seguridad Pública,
+
+y en el Registro Estatal, respecto a cada persona
+
+operativa con que cuentan los prestadores de servicios
+
+de seguridad privada. 1
+
+5. Por la expedición de cada cédula de identificación del
+
+personal operativo, misma que será de uso obligatorio. 1
+
 ### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+### CAPITULO UNICO
+
+## TITULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
-
-## TITULO CUARTO. DE LOS PRODUCTOS
 
 ###### ARTICULO 70.
 
@@ -4034,3 +4396,13 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en el presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 313.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE HACIENDA DEL ESTADO DE DURANGO.”]
+
+PRIMERO. Para efectos de las Secciones III y IV, referente a los Impuestos De la Emisión de Contaminantes al Suelo, Subsuelo y Agua y Del Impuesto al Depósito o Almacenamiento de Residuos, del Capítulo X denominado Impuestos Ecológicos, se publicarán mediante Reglas de Carácter General, las consideraciones para la determinación de la base gravable, las obligaciones de los contribuyentes con respecto a estos Impuestos, las formas autorizadas para el pago, la identificación de los residuos y efectos que genera, glosario de términos, excepciones y estímulos, a más tardar, el día ultimo de (sic) mes de julio, para iniciar la vigencia de dichas disposiciones a partir del día 01 de agosto del 2023.
+
+SEGUNDO El presente Decreto entrará en vigor en el Estado de Durango, el día 1 de enero del 2023, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO. Se derogan las disposiciones que se opongan a la presente Ley.
