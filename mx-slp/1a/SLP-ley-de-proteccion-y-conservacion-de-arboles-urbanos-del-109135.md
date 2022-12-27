@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2017-05-20"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -187,9 +187,25 @@ XV. Las demás que conforme a la presente Ley, y el reglamento municipal les cor
 
 ### CAPÍTULO V. De la Poda, Derribo, y Trasplante del Arbolado Urbano
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 11.
 
-Toda persona autorizada, antes de iniciar los trabajos de poda, deberá observar las condiciones en que se encuentra el árbol a podar, tomando en cuenta las características propias de la especie vegetal a la cual pertenece.
+La solicitud para la poda, derribo, trasplante o restitución de árboles urbanos, referidos en la presente Ley, deberá contener:
+
+I. Datos del solicitante;
+
+II. La propuesta de la persona que realizará los trabajos para el manejo y tratamiento del arbolado urbano;
+
+III. Los motivos justificativos para llevarse a cabo la poda, derribo o trasplante;
+
+IV. El registro fotográfico del árbol que permita observar sus condiciones generales, y
+
+V. Domicilio y ubicación del árbol o árboles a tratar.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 11 BIS. Toda persona autorizada, antes de iniciar los trabajos de poda, deberá observar las condiciones en que se encuentra el árbol a podar, tomando en cuenta las características propias de la especie vegetal a la cual pertenece.
 
 ###### ARTÍCULO 12.
 
@@ -395,7 +411,13 @@ III. Las demás organizaciones de la sociedad civil que existan y que se formen,
 
 IV. Las demás que la Secretaría considere necesario incluir y que presten algún servicio en materia de arbolado urbano cumpliendo con los requisitos del Registro Estatal de Peritos.
 
-### CAPÍTULO X. Del Perito Dictaminador
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO X. Del Perito Dictaminador; y del Dictamen Técnico
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### Sección Primera. Del Perito Dictaminador
 
 ###### ARTÍCULO 41.
 
@@ -409,15 +431,77 @@ Todo Perito Dictaminador deberá de contar con la capacitación técnica imparti
 
 Todo Perito Dictaminador deberá de contar con la licencia vigente emitida por la Secretaría, quien es la autoridad que lo acredita como: Perito Dictaminador en Poda, Derribo, Trasplante, y Restitución de Árboles.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+#### Sección Segunda. Del Dictamen Técnico
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 44.
 
-El dictamen técnico, además de la información que la autoridad municipal estime conveniente, deberá de contener al menos la siguiente:
+El dictamen técnico sobre la poda, derribo, trasplante o restitución del árbol urbano, contendrá lo siguiente:
 
-I. La ubicación, características y condición en las que se encuentre el árbol urbano;
+I. El lugar, fecha y hora donde se extiende;
 
-II. El motivo de la poda o derribo, y
+II. Domicilio donde se encuentra el árbol;
 
-III. Las especificaciones y observaciones que deban acatar, en su caso, los responsables, para contribuir al cuidado, conservación y protección del arbolado urbano.
+III. Detalles del lugar en que se ubica, sus condiciones y características que tiene;
+
+IV. Nombre popular y científico, altura aproximada de éste, diámetro del tronco y aproximado de la copa del mismo;
+
+V. La afectación o daño que puede provocar el árbol sobre el que se dictamina, y el motivo de la poda, derribo, trasplante o restitución;
+
+VI. El diagnóstico del estado del árbol, especificando si tiene plaga y si es así, cuál es;
+
+VII. Precisar si es poda, derribo, trasplante o restitución, si la misma se permite:
+
+VIII. Número de árboles de la misma especie en el municipio;
+
+IX. Nombre y firma del dictaminador técnico que llevó a cabo el dictamen, y
+
+X. Las observaciones o sugerencias del perito dictaminador.
+
+Además, en cuanto la Secretaría de Ecología y Gestión Ambiental (SEGAM), cuente con el Inventario Estatal Forestal previsto en el artículo 12 fracción VII de la Ley de Fomento para el Desarrollo Forestal Sustentable del Estado de San Luis Potosí, en el dictamen técnico en el caso de un derribo, se establecerá el número de ejemplares de árboles de la especie que se derriba existentes en el municipio correspondiente, en la zona urbana del mismo.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 BIS. Si el dictamen técnico resuelve procedente la autorización de la poda, se tiene que acreditar que:
+
+I. Se trata de una causa necesaria;
+
+II. Que el árbol a tratar se encuentra contemplado dentro de las causas para la poda de esta Ley;
+
+III. Se tenga la certeza que la poda no ocasionará un daño o deterioro más severo al ya existente al mismo árbol, bienes o personas;
+
+IV. Se rebase el sesenta por ciento del follaje del árbol sobre un bien inmueble, y
+
+V. Exista un riesgo por factores climatológicos.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 TER. Con el propósito de que el dictamen técnico determine la autorización del derribo, se debe constatar que:
+
+I. Se confirme que la situación del árbol a tratar, se encuentra contemplada dentro de las causas para su derribo en esta Ley;
+
+II. El árbol esté causando alguna afectación, o representa algún peligro inminente para bienes muebles, inmuebles y personas, y
+
+III. Resulte improcedente la viabilidad para el trasplante.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 44 QUÁTER. Para que el dictamen técnico resuelva procedente la autorización de trasplante, se debe constatar que:
+
+I. Se confirme que la situación del árbol a tratar, se encuentra contemplada dentro de las causas para su trasplante en esta Ley, y
+
+II. Sea posible y recomendable realizar el trasplante, según lo establecido por esta Ley y el dictamen técnico correspondiente, para lo cual se tomará en cuenta:
+
+a) Exista justificación para la remoción del árbol.
+
+b) El tiempo de estadía en ese sitio.
+
+c) Su condición fitosanitaria.
+
+d) Su edad y vigor.
 
 ### CAPÍTULO XI. De la Cultura, Educación, Capacitación e Investigación en Materia de Arbolado Urbano
 
@@ -798,5 +882,13 @@ P.O. 20 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0633.- SE REFORMA EL ARTÍCULO 12 DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0571.- SE REFORMAN LOS ARTÍCULOS 11 Y 44, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO X; Y ADICIONA AL CAPÍTULO X LAS SECCIONES, PRIMERA “DEL PERITO DICTAMINADOR” Y LOS VIGENTES ARTÍCULOS 41, 42 Y 43, SEGUNDA “DEL DICTAMEN TÉCNICO” Y LOS ARTÍCULOS 44 REFORMADO, 44 BIS, 44 TER Y 44 QUÁTER, ASÍ MISMO EL ARTÍCULO 11 BIS, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
