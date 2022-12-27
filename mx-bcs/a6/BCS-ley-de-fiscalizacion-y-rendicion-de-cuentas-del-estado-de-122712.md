@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12271
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-17"
-last_updated: "2019-06-20"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Gobierno del Estado de Baja California Sur, el lunes 17 de Julio de 2017.
 
@@ -121,7 +121,9 @@ XVIII. Informe específico: el informe derivado de denuncias a que se refiere el
 
 XIX. Informes Individuales: los informes de cada una de las auditorías practicadas a las entidades fiscalizadas;
 
-XX. Informe Mensual: El Informe que mensualmente y como parte integrante de la cuenta pública, rinden de manera consolidada cada uno de los Entes Públicos a la Auditoría Superior del Estado de Baja California Sur, conforme a los artículos 42, 52, 53 y 55 de la Ley General de Contabilidad Gubernamental;
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XX. Informe Mensual: El Informe que mensualmente y como parte integrante de la cuenta pública, rinden de manera consolidada por medios electrónicos en formatos autorizados cada uno de los Entes Públicos a la Auditoría Superior del Estado de Baja California Sur, conforme a los artículos 42, 52, 53 y 55 de la Ley General de Contabilidad Gubernamental;
 
 XXI.- Ley de Ingresos: la Ley de Ingresos del Estado y la de cada uno de los municipios del ejercicio fiscal en revisión;
 
@@ -225,7 +227,9 @@ La Auditoría Superior del Estado realizará un análisis del Informe de Avance 
 
 La Cuenta Pública será presentada en el plazo previsto en el artículo 64 fracción XXX, de la Constitución Política del Estado Libre y Soberano de Baja California Sur, conforme a lo que establecen los artículos 4 fracción IX, 42, 52, 53 y 55 de la Ley General de Contabilidad Gubernamental.
 
-Con independencia de lo dispuesto en el párrafo que precede, los Entes Públicos rendirán directamente a la Auditoría Superior del Estado, los informes mensuales referidos en la fracción XX del artículo 4 de esta Ley, dentro de los 30 días naturales posteriores a la conclusión del mes de que se trate.
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Con independencia de lo dispuesto en el párrafo que precede, los Entes Públicos rendirán directamente por vía electrónica en los formatos autorizados a la Auditoría Superior del Estado, los informes mensuales referidos en la fracción XX del artículo 4 de esta Ley, dentro de los 30 días naturales posteriores a la conclusión del mes de que se trate.
 
 ###### Artículo 14.
 
@@ -1326,3 +1330,15 @@ B.O. 20 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2608 SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 91 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2899 SE REFORMA EL PÁRRAFO CUARTO DE LA FRACCIÓN XXX DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 4 Y 13 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos de auditorías iniciados por la Auditoría Superior del Estado de Baja California Sur antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de dictaminación, se seguirán practicando mediante la revisión de documentación e información financiera recabada en forma física.
+
+Tercero.- La Auditoría Superior del Estado de Baja California Sur deberá emitir los lineamientos para el uso de la vía electrónica y la firma electrónica en los procedimientos de certificación y envío de la cuenta pública y de los informes mensuales a cargo de las entidades fiscalizadas y publicarlo en su página oficial de internet, en un plazo de 90 días naturales posteriores a la entrada en vigor del presente decreto.
+
+Cuarto.- Las entidades fiscalizadas deberán presentar los informes mensuales a que se refieren los artículos 4 y 13 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, dentro del término legal por la vía electrónica a partir del informe mensual del mes de Enero del año 2023, ante la Auditoría Superior del Estado.
