@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2021-12-29"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -619,7 +619,9 @@ I. Hoteles, moteles, tiempo compartido o multipropiedad, campamentos, hosterías
 
 II. Casas o departamentos, enteros o por habitaciones privadas o compartidas.
 
-De los ingresos que se generen por la recaudación de este Impuesto, las dos terceras partes serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y, una tercera parte será destinada a la Secretaría de Finanzas y Administración del Estado para los gastos de operación y vigilancia en el cobro de este impuesto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+De los ingresos que se generen por la recaudación de este Impuesto, el 50 por ciento serán destinados al Fideicomiso para la promoción turística nacional e internacional de los destinos turísticos que aplican dicho impuesto, en la que se considere la planeación, organización, ejecución, desarrollo, supervisión y evaluación de programas de promoción y publicidad que tengan como objetivos incrementar cuantitativa y cualitativamente los flujos turísticos, y el otro 50 por ciento destinada (sic) a la Secretaría de Finanzas y Administración del estado para los gastos de operación y vigilancia en el cobro de este impuesto.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -755,9 +757,9 @@ IV.- Tratándose de automóviles y motocicletas eléctricos nuevos que además c
 
 V.- En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
-Las cantidades establecidas en la tarifa se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van a aplicar la tarifa entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el Periódico Oficial del Estado, a más tardar el diez de enero de cada año.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El Índice Nacional de precios al Consumidor que aplicará para los efectos del párrafo anterior es el publicado por el Instituto Nacional de Estadística y Geografía (INEGI) en los términos de los articulos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2021, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2021.]</small>
 
@@ -2089,47 +2091,61 @@ Por la reposición de documentos expedidos por la Secretaría de Medio Ambiente 
 
 DERECHOS DIVERSOS.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 121.
 
-Se cobrarán en Unidad de Medida y Actualización como derechos diversos, por el ejercicio notarial, los siguientes:
+Se cobrarán las tarifas expresadas en pesos como derechos diversos, por el ejercicio notarial, los siguientes:
 
 I. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2020)
 
 II. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2020)
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-III. Autorización de 300 folios para protocolo abierto 17.64
+III. Autorización de 300 folios para protocolo abierto $2,036.00
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-IV. Expedición de 300 folios de protocolo abierto 20.72
+IV. Expedición de 300 folios de protocolo abierto $2,392.00
 
-V. Autorización de libro de certificaciones fuera de protocolo 12.39
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-VI. Autorización de libro de control de folios 8.86
+V. Autorización de libro de certificaciones fuera de protocolo $1,430.00
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+VI. Autorización de libro de control de folios $1,024.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 122.
 
-Por los servicios prestados por el Archivo de Notarías, se causarán los siguientes derechos en Unidad de Medida y Actualización:
+Por los servicios prestados por el Archivo de Notarías, se causarán los siguientes derechos en las tarifas expresadas en pesos siguientes:
 
-I.- Por la búsqueda de testamento. 16.28
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-II.- Por la expedición de copias certificadas de documentos, por cada hoja. 1.86
+I.- Por la búsqueda de testamento. $1,723.00
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-III.- Por la búsqueda de instrumentos notariales. 16.22
+II.- Por la expedición de copias certificadas de documentos, por cada hoja. $197.00
 
-IV.- Expedición de copias certificadas y simples de los protocolos del Archivo General de Notarías. 2.96 por foja.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+III.- Por la búsqueda de instrumentos notariales. $1,717.00
 
-V.- Por las anotaciones marginales de instrumentos notrariales 2.60.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+IV.- Expedición de copias certificadas y simples de los protocolos del Archivo General de Notarías. por foja. $314.00
 
-VI.- Constancia de existencia o inexistencia de instrumentos notariales 2.0.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+V.- Por las anotaciones marginales de instrumentos notariales $275.00
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+VI.- Constancia de existencia o inexistencia de instrumentos notariales $211.00
 
 ###### ARTÍCULO 123.
 
@@ -2137,17 +2153,19 @@ Por la participación en el concurso de Licitación Pública para la adquisició
 
 El pago por este Derecho se realizará conforme al Tabulador que publique en el Periódico Oficial del Gobierno del Estado de Guerrero, la Secretaría de Finanzas y Administración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 124.
 
-Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales se pagará en Unidad de Medida y Actualización
+Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales se pagará en tarifa expresada en Unidades de Medida y Actualización:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-I.- Inscripción Inicial 40.0
+I.- Inscripción Inicial 41.2 UMA´s
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-II.- Refrendo Anual 18.45
+II.- Refrendo Anual 19.0 UMA´s
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -2155,29 +2173,23 @@ II.- Refrendo Anual 18.45
 
 Para el cobro de los derechos por el servicio de autorización de avalúos con fines fiscales, se tomará como base y se aplicará la siguiente tarifa:
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-T A R I F A
+LÍMITE INFERIOR LÍMITE SUPERIOR Pesos
 
-LÍMITE LÍMITE UMA CUOTA
+$1.00 $500,000.00 $ 289.00
 
-INFERIOR SUPERIOR MARGINAL
+$500,001.00 EN ADELANTE Para determinar el
 
-$ 1.00 $500,000.00 3.00 $0.00
+pago del derecho,
 
-$500,001.00 $1,000,000.00 3.50 $20.00
+se aplicará la
 
-$1,000,001.00 $2,000,000.00 4.00 $25.00
+fórmula mencionada
 
-$2,000,001.00 $3,000,000.00 4.50 $30.00
+en el último párrafo
 
-$3,000,001.00 $4,000,000.00 5.00 $35.00
-
-$4,000,001.00 $5,000,000.00 5.50 $40.00
-
-$5,000,001.00 $6,000,000.00 6.00 $45.00
-
-$6,000,001.00 En adelante 6.50 $50.00
+de este artículo.
 
 a).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
@@ -2195,9 +2207,9 @@ g).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
 h).- (DEROGADO, P.O. 29 DE DICIEMBRE DE 2021)
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Exceptuando el primer rango de la TARIFA; el pago del derecho se determinará considerando el monto total del avalúo dividido entre el límite inferior correspondiente, el resultado se multiplicará por el valor de la UMA vigente, al que se le adicionará la cuota marginal que le es aplicable.
+Exceptuando el primer rango de la tarifa, el pago del derecho se determinará considerando el monto total del avalúo con fines fiscales, multiplicado por el factor 0.000578. El factor se determina considerando el límite inferior del primer rango, dividido entre el límite superior del primer rango ($289.00 entre $500,000.00).
 
 ###### ARTÍCULO 126.
 
@@ -2229,9 +2241,11 @@ D. Dependencias Federales 103
 
 E. Instituciones Extranjeras 206
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 127.
 
-Para el cobro de los derechos por copia certificada del Avalúo de bienes inmuebles con fines fiscales, se aplicará conforme a la siguiente tarifa: 2 Unidades de Medida y Actualización.
+Para el cobro de los derechos por copia certificada del Avalúo de bienes inmuebles con fines fiscales, se aplicará conforme a la siguiente tarifa: $200.00.
 
 ###### ARTÍCULO 128.
 
@@ -2323,37 +2337,61 @@ Por los servicios que preste el Instituto de la Policía Auxiliar del Estado de 
 
 I.- Por los servicios de seguridad y protección de personas y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares:
 
-a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 175 Unidades de Medida y Actualización, mensuales;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-b).- Por dos elementos alternados con servicios de 24 horas, 350 Unidades de Medida y Actualización, mensuales;
+a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 173 Unidades de Medida y Actualización, mensuales;
 
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 11 Unidades de Medida y Actualización diarios; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 11 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 22 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
+b).- Por dos elementos alternados con servicios de 24 horas, 346 Unidades de Medida y Actualización, mensuales;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 10 Unidades de Medida y Actualización diarios, y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 10 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 20 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
 
 II.- Por asesoría para la presentación de proyectos integrales de seguridad, 30 Unidades de Medida y Actualización;
 
 III.- Por los servicios de custodia de bienes y valores, incluyendo su traslado:
 
-a).- 5% sobre el valor declarado por los servicios prestados dentro de la localidad en que se contrate; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-b).- 5% sobre el valor declarado, más el equivalente a una Unidad de Medida y Ecualización (sic) por cada 5 kilómetros recorridos, tratándose fuera de la localidad en que se contrate el servicio.
+a).- 4% sobre el valor declarado por los servicios prestados dentro de la localidad en que se contrate, y
 
-IV.- Por los servicios de seguridad y protección de personas, en la modalidad de resguardante personal o escolta, 75 Unidades de Medida y Actualización, mensuales por persona acreditada;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+b).- 4% sobre el valor declarado, más el equivalente a una Unidad de Medida y Actualización por cada 5 kilómetros recorridos, tratándose fuera de la localidad en que se contrate el servicio.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+IV.- Por los servicios de seguridad y protección de personas, en la modalidad de resguardante personal o escolta, 74 Unidades de Medida y Actualización, mensuales por persona acreditada;
 
 V.- Por los servicios análogos que se relacionan con el cumplimiento de su objeto:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 115 A LA 116.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 11 A LA 12.]</small>
+
 VI.- Por los servicios de seguridad y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares en modalidad de guardia blanca:
 
-a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 115 Unidades de Medida y Actualización, mensuales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-b).- Por dos elementos alternados con servicios de 24 horas, 230 Unidades de Medida y Actualización, mensuales;
+a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 114 Unidades de Medida y Actualización, mensuales.
 
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores, se cobrarán 7 Unidades de Medida y Actualización diarios; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobraran 7 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 14 Unidades de Medidas y Actualización diarios, por servicio de 24 horas.
+b).- Por dos elementos alternados con servicios de 24 horas, 228 Unidades de Medida y Actualización, mensuales;
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores, se cobrarán 6 Unidades de Medida y Actualización diarios, y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 6 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 12 Unidades de Medidas y Actualización diarios, por servicio de 24 horas.
 
 Cuando el contratante de servicio no cubra en tiempo y forma el pago correspondiente serán objeto del cobro de recargos y actualizaciones, conforme los artículos 141 y 142 de la presente Ley.
 
@@ -2365,13 +2403,21 @@ Por cada uno de los servicios establecidos en el presente artículo; el solicita
 
 VII.- Por los servicios de seguridad y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares en modalidad de Fuerza Especial:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 220 Unidades de Medida y Actualización, mensuales;
 
-b).- Por dos elementos alternados con servicios de 24 horas, 440 Unidades de Medida y Actualización, mensuales;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 14 Unidades de Medida y Actualización diarios; y
+b).- Por dos elementos alternados con servicios de 24 horas, 434 Unidades de Medida y Actualización, mensuales;
 
-d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobraran 14 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 28 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 13 Unidades de Medida y Actualización diarios, y
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobrarán 13 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 26 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
 
 ###### ARTÍCULO 133.
 
@@ -2385,27 +2431,155 @@ DERECHOS POR SERVICIOS PROPORCIONADOS POR LA SECRETARÍA DE PROTECCIÓN CIVIL.
 
 Por los servicios prestados a los sectores públicos y privados que soliciten a la Secretaría de Protección Civil, se causarán y cobrarán los siguientes derechos:
 
-I. Por la emisión de dictámenes de riesgo a conjuntos habitacionales, escuelas privadas, instalaciones sanitarias privadas, rellenos sanitarios, gaseras, estaciones de gas LP para carburación, gasolineras y en general empresas, industrias, futuras y las que se pretendan modificar. $3,000.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El monto podría incrementarse, cuando la superficie del inmueble sea superior a los 500 m2, hasta por $680.00 adicionales por cada 100 m2.
+I.- Por la emisión de dictámenes de riesgo de acuerdo con su tipo:
 
-La Dependencia podrá realizar exenciones de pago de derechos, cuando se trate de casos de interés social o popular de autoconstrucción.
+a) Gasolineras, establecimientos de almacenamiento y distribución de hidrocarburos, establecimientos de almacenamientos de pólvora, centrales termoeléctricas, instalaciones generadoras de energía, rellenos sanitarios y las (sic) demás que son considerados de muy alto riesgo, ferias móviles y demás establecimientos que se consideren de alto riesgo $10,000.00.
 
-II. Por la emisión de dictamen a estancias infantiles privadas y con sostenimiento de la Secretaría de Desarrollo Social, además de escuelas privadas existentes. $2,380.00
+b) Escuelas privadas, cines bares, teatros, discotecas, restaurantes, centros comerciales, tiendas de auto servicio, farmacias, hospitales, sanatorios y clínicas privadas, templos, establecimientos de hospedaje, estacionamientos, baños públicos, panaderías, pastelerías, laboratorios de procesos industriales y clínicos. $7,000.00.
 
-III.- Por impartición de cada curso de capacitación a personas morales o físicas, como entidades del sector privado: $2,500.00
+c) Fraccionamientos, predios, unidades habitacionales, viviendas unifamiliares y viviendas en general, con una superficie menor a 500 m2 $3,000.00
 
-IV.- Por evaluación como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
+El monto se incrementará, cuando la superficie del inmueble sea superior a los 500 m2, hasta por $400.00 adicionales por cada 100 m2.
 
-a) Persona Moral: $4,080.00
+La Dependencia podrá realizar exenciones de pago de derechos, cuando se trate de casos particulares de interés social o popular de autoconstrucción que no tenga fines redituables y/o en caso de emergencia causado por un fenómeno perturbador.
 
-b) Persona Física: $2,700.00
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-V. Reevaluación como terceros acreditados.
+II.- Por evaluación como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
 
-Persona Moral: $1,360.00
+a) Persona Moral: $5,000.00
 
-Persona Física: $1,020.00
+b) Persona Física: $4,500.00
+
+1. Reevaluación como terceros acreditados:
+
+a) Persona Moral: $6,000.00
+
+b) Persona Física: $3,500.00
+
+2. Por renovación de registro:
+
+a) Persona Moral: $6,000.00
+
+b) Persona Física: $4,500.00
+
+3. Por registro como Grupo Voluntario de Protección Civil, en el estado:
+
+a) Nuevo Registro $2,000.00
+
+b) Renovación $2,500.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+III.- Por la emisión de vistos buenos a los Programas Internos y/o Planes de Emergencias de acuerdo con el tipo:
+
+a) Programas internos de acuerdo con el tipo I $5,000.00
+
+b) Programas internos de acuerdo con el tipo II $4,000.00
+
+c) Programas internos de acuerdo con el tipo III $2,000.00
+
+d) Programas internos no considerados en los anteriores (escuelas públicas, hospitales públicos, organismos gubernamentales de los tres órdenes de gobiernos) $1,000.00
+
+e) Inmuebles particulares para uso comercial o de oficinas. $2,000.00
+
+f) Circos, ferias eventuales, Lienzos charros, quema de fuegos pirotécnicos, estructuras móviles. $2,000.00
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+IV.- Por la presentación del servicio de auxilio y prehospitalario en eventos masivos, por parte de la Dirección General de atención a Emergencias, solicitados, por los particulares.
+
+a) De 200 a 800 personas, $ 2,500.00
+
+b) De 801 a 1500 personas, $ 3,000.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c) De 1501 a 2300 personas, $3,500.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d) De 300 a 5000 personas, $4,300.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+e) De 5001 en adelante, $6,000.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+V.- Por el servicio de traslados de pacientes a:
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+a) En traslado local, $500.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+b) En traslado local con paramédico, $700.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+c) En traslado foráneo por cada 100 km, $300.00
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+d) En traslados foráneos con paramédico por cada 101 km, $550.00
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+VI.- Por la impartición de cursos de capacitación a personas morales y/o físicas, así como entidades del sector privado en la (sic) que se emitirá constancia correspondiente por persona:
+
+a) De elaboración de programa interno, con una duración de 12 de horas, $1,500.00
+
+b) Diseño de escenarios y simulacros, con una duración de 8 horas $1,300.00
+
+c) Primer Respondiente en Primeros Auxilios, con una duración de 12 horas $1,700.00
+
+d) Prevención de incendios y de uso de extintores, con duración de 8 horas $1,800.00
+
+e) Como actuar ante una emergencia, duración de 5 horas $800.00
+
+f) Plan Familiar de Protección Civil, con duración de 4 horas $400.00
+
+g) Uso y Manejo de gas L.P. en el Hogar, con duración de 2 horas $600.00
+
+h) Primeros Auxilios psicológicos, con una duración de 4 horas $900.00
+
+i) R.C.P. Básico, con una duración de 6 horas $1,600.00
+
+j) Curso Integral de Protección Civil, con una duración de 12 horas $1,300.00
+
+k) Selección y administración de refugios temporales con duración de 5 horas $1,500.00
+
+l) Evacuación y Repliegue con duración de 6 horas $1.000.00
+
+m) Gestión Integral del Riesgo con perspectiva de género, con duración de 3 horas $1,600.00
+
+n) Retorno a la nueva normalidad y medidas de prevención del COVID-19, con duración de 4 horas $600.00
+
+o) Normativa en materia de Protección Civil con duración de 4 horas $2,150.00
+
+p) Seguridad e higiene en el ambiente laboral 36 horas $2,400.00
+
+q) Nudos y amarres con una duración de 8 horas $800.00
+
+r) Rescate acuático con una duración de 4 horas $3,000.00
+
+s) Formación de bomberos básicos con duración de 32 horas $2,000.00
+
+t) Búsqueda y rescate en Estructuras Colapsadas con una duración con duración (sic) de 40 horas
+
+u) Prevención de accidentes con duración de 24 horas $4,000.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+VII.- Expedición de copias certificadas $16.00
 
 ### CAPÍTULO XV. DERECHOS POR SERVICIOS PROPORCIONADOS POR LA SECRETARÍA DE CULTURA
 
@@ -2581,17 +2755,17 @@ a).- Las leyes, libros y demás publicaciones tendrán el precio que señale el 
 
 b).- Se considerará también como productos, el importe de los esqueletos de las manifestaciones o formas valoradas digitales que se suministren en las oficinas fiscales, las que serán provistas por la Secretaría de Finanzas y Administración y cuyo precio será determinado por la misma.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Formato de permiso para circular sin placas a los H. Ayuntamientos por 30 días, 0.45 Unidad de Medida y Actualización. Estas formas valoradas deberán adquirirse por los H. Ayuntamientos en las Administraciones o agencias fiscales, de la Subsecretaria de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del Estado.
+Formato de permiso para circular sin placas a los H. Ayuntamientos por 30 días, $300.00. Estas formas valoradas deberán adquirirse por los H. Ayuntamientos en las administraciones o agencias fiscales, de la Subsecretaría de Ingresos de la Secretaría de Finanzas y Administración del Gobierno del estado.
 
 La Secretaría de Finanzas y Administración proveerá y controlará los formatos utilizados para la prestación de los diversos servicios a cargo de la Dirección General del Registro Público de la Propiedad y del Comercio.
 
 c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-d).- Forma valorada digital de avaló de bienes inmuebles con fines fiscales, 1.0 unidades de medida y actualización; y Otros.
+d).- Forma valorada digital de avalúo de bienes inmuebles con fines fiscales, $150.00, y otros.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2020)</small>
 
@@ -2777,23 +2951,39 @@ Por la prestación de los servicios proporcionados por el Hospital del Niño y l
 
 Por la prestación de los servicios proporcionados por la Comisión de Infraestructura Carretera y Aeroportuaria del Estado de Guerrero, se aplicarán las siguientes tarifas:
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 CONCEPTO IMPORTE
+
+(Pesos)
 
 Verificación (Control de Calidad)
 
-Estudio de Suelo
+Estudio de Suelo 10,760.00
 
-Estudio de concretos
+Estudio de concretos 10,696.00
 
-Estudio de asfaltos
+Estudio de asfaltos 10,869.00
 
-Estudios de aceros 10,166.10
+Estudios de aceros 10,674.00
 
-Estudio de tabique, piedra para mampostería, tubería 7,158.50
+Estudio de tabique, piedra
+
+para mampostería, tubería 7,516.00
 
 Bases
 
-Pago de base de licitación pública estatal $ 3,500.00
+Pago de base de licitación pública estatal 5,000.00
+
+Invitación a cuando menos tres personas 3,000.00
+
+Inscripción al padrón de contratistas 500.00
+
+Refrendo al padrón de contratistas 250.00
+
+Refrendo extraordinario al padrón
+
+de contratistas 400.00
 
 ###### ARTÍCULO 151.
 
@@ -2801,7 +2991,7 @@ Por la prestación de los servicios proporcionados por la Universidad Tecnológi
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 137 A LA 138.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 82 A LA 83.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78; 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 82 A LA 83; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 16 A LA 17.]</small>
 
 ###### ARTÍCULO 152.
 
@@ -2967,29 +3157,43 @@ Por la prestación de los servicios proporcionados por el Parque Papagayo, se ap
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 144 A LA 145.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 79 A LA 80; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 84.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 79 A LA 80; 31 DE DICIEMBRE DE 2018, PÁGINA 84; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 17 A LA 19.]</small>
 
 ###### ARTÍCULO 156.
 
 Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Acapulco, se aplicarán las siguientes tarifas:
 
-CONCEPTO PRECIOS UNITARIOS
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+CONCEPTO TARIFA
 
 (Pesos)
 
-Sombrilla c/2 Sillas 40.00
+Sombrilla c/2 sillas 48.00
 
 Sillón solo 10.00
 
-Toldo 3x3 c/6 Sillas 85.00
+Toldo 3x3 c/6 sillas 97.00
 
-Camastro 30.00
+Camastro 29.00
 
-Renivelación de Playa 66.00
+Renivelación de Playa (por día) 3,138.00
 
-Recolección de basura 300.00 Mensuales
+Recolección de basura hoteles
 
-Los Precios no incluyen IVA
+y condominios (tonelada) 267.00
+
+Recolección de basura
+
+Restaurantes (mensuales) 1,705.00
+
+Barrido Marino en área de embollado 2,607.00
+
+Guardavida en condominios u hoteles (por día) 579.00
+
+Arrendamiento de baños públicos 2,897.00
+
+Las tarifas no incluyen el Impuesto al Valor Agregado (IVA).
 
 ###### ARTÍCULO 157.
 
@@ -3003,11 +3207,15 @@ Por la prestación de los servicios proporcionados por el Instituto Tecnológico
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 147 A LA 149.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 20 A LA 21.]</small>
+
 ###### ARTÍCULO 159.
 
 Por la prestación de los servicios proporcionados por la Universidad Politécnica del Estado de Guerrero, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 149 A LA 150.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 21 A LA 22.]</small>
 
 ###### ARTÍCULO 160.
 
@@ -3019,47 +3227,49 @@ Por la prestación de los servicios proporcionados por la Universidad Tecnológi
 
 Por la prestación de los servicios proporcionados por el Fideicomiso para el Desarrollo Económico y Social de Acapulco, se aplicarán las siguientes tarifas:
 
-DERECHOS: UNIDAD
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-DE MEDIDA
+CONCEPTO TARIFA
 
-CONSTANCIA DE NO PROPIEDAD 0.802
+(Pesos)
 
-INSPECCIÓN DE ESTUDIO SOCIOECONÓMICO 5.615
+CONSTANCIA DE NO PROPIEDAD 77.00
 
-CONSTANCIA DE NO ADEUDO 5.294
+INSPECCIÓN DE ESTUDIO SOCIOECONÓMICO 540.00
 
-ESCRITURACIÓN (HASTA 200 M2) 44.922
+CONSTANCIA DE NO ADEUDO 509.00
 
-EXCEDENTE POR METRO CUADRADO 0.240
+ESCRITURACIÓN (HASTA 200M2) 4,322.00
 
-CESIÓN DE DERECHOS ENTRE FAMILIARES 48.130
+EXCEDENTE POR METRO CUADRADO 23.00
 
-CESIÓN DE DERECHOS ENTRE PARTICULARES 80.218
+CESIÓN DE DERECHOS ENTRE FAMILIARES 4,631.00
 
-CANCELACIÓN DE CLÁUSULAS Y DERECHO AL TANTO 80.218
+CESIÓN DE DERECHOS ENTRE PARTICULARES 7,719.00
 
-SUBDIVSIÓN (SIC) O FUSIÓN DE LOTES 32.087
+CANCELACIÓN DE CLÁUSULAS
 
-REPLANTEO DE MEDIDAS 8.824
+Y DERECHO AL TANTO 7,719.00
 
-COPIAS DEL EXPEDIENTE 5.615
+SUBDIVISIÓN O FUSIÓN DE LOTES 3,087.00
 
-COPIAS DE PLANO EN GENERAL 4.813
+REPLANTEO DE MEDIDAS 849.00
 
-PLANO INDIVIDUAL 1.604
+COPIAS DEL EXPEDIENTE 540.00
+
+COPIAS DE PLANO EN GENERAL 463.00
+
+PLANO INDIVIDUAL 154.00
 
 SOLICITUD DEL TRÁMITE DE ASIGNACIÓN
 
 DE CUENTA CATASTRAL A LA
 
-DIRECCCIÓN (SIC) DE CATASTRO E IMPUESTO
+DIRECCIÓN DE CATASTRO E IMPUESTO PREDIAL 625.00
 
-PREDIAL 6.5
+RENOVACIÓN DE LA CONSTANCIA DE NO ADEUDO 529.00
 
-RENOVACIÓN DE LA CONSTANCIA DE NO ADEUDO 5.5
-
-CONSTANCIA DE TRAMITACIÓN DE ESCRITURA 5.5
+CONSTANCIA DE TRAMITACIÓN DE ESCRITURA 529.00
 
 ###### ARTÍCULO 162.
 
@@ -3079,11 +3289,15 @@ Por la prestación de los servicios proporcionados por el Colegio de Bachilleres
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 154 A LA 159.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 23 A LA 26.]</small>
+
 ###### ARTÍCULO 165.
 
 Por la prestación de los servicios proporcionados por el Instituto de Seguridad Social de los Servidores Públicos del Estado de Guerrero, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 159 A LA 160.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 26 A LA 30.]</small>
 
 ###### ARTÍCULO 166.
 
@@ -3097,7 +3311,7 @@ Por la prestación de los servicios proporcionados por el Instituto del Deporte 
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 161 A LA 162.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 85 A LA 86.]</small>
+[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 85 A LA 86; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 30 A LA 32.
 
 ###### ARTÍCULO 168.
 
@@ -3183,13 +3397,15 @@ Por la prestación de los servicios proporcionados por el Instituto Estatal de C
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 164 A LA 173.]</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 172.
 
-Por la prestación de los servicios proporcionados por el Centro Estatal de Oftalmología, se aplicarán las siguientes tarifas:
+Por la prestación de los servicios proporcionados por el Instituto Estatal de Oftalmología, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 173 A LA 176.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 81 A LA 84; P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 86 A LA 92.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 81 A LA 84; 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 86 A LA 92; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 32 A LA 34. ]</small>
 
 ###### ARTÍCULO 173.
 
@@ -3243,7 +3459,7 @@ ARTÍCULO 175 BIS I.- Por la prestación de los servicios proporcionados por el 
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 87 A LA 90.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 93 A LA 95.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 93 A LA 95; 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 34 A LA 37.]</small>
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
@@ -4186,3 +4402,13 @@ PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, e
 SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
 
 TERCERO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 423, POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2023.
+
+SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
+
+TERCERO. Comuniquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
