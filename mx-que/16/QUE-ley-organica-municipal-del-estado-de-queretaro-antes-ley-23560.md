@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2022-06-10"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -450,6 +450,10 @@ Para los efectos de esta Ley se entenderá por mayoría absoluta aquella que imp
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 Para la abrogación o derogación de cualquier proveído del Ayuntamiento se requerirá el voto de la mayoría calificada, a excepción de los reglamentos municipales, en los que bastará con mayoría simple.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Las sesiones del Ayuntamiento y de sus órganos que sean públicas, deberán ser transmitidas en vivo a través de plataformas digitales que al efecto se establezcan y estar disponibles en la página oficial del gobierno municipal.
 
 ###### ARTICULO 28.
 
@@ -3298,3 +3302,13 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA EL ARTÍCULO 27 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
