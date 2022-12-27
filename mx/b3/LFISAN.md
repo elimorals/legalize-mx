@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2021-12-28"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022”, PUBLICADA EN EL D.O.F. 28 DE DICIEMBRE DE 2021.]
+[NOTA 2: PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024 Y SUS ANEXOS 1, 5, 8, 15, 19 Y 27”, PUBLICADA EN EL D.O.F. 29 DE DICIEMBRE DE 2023.]
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
@@ -176,13 +176,13 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022", PUBLICADA EN EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 Y SUS ANEXOS 1, 5, 8, 15, 19, 26 Y 27”, PUBLICADA EN EL D.O.F. 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
 II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo materiales o equipo opcional, especial, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $272,471.43. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022", PUBLICADA EN EDICIÓN VESPERTINA DEL D.O.F. DE 28 DE DICIEMBRE DE 2021.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 Y SUS ANEXOS 1, 5, 8, 15, 19, 26 Y 27”, PUBLICADA EN EL D.O.F. 27 DE DICIEMBRE DE 2022.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 12 DE NOVIEMBRE DE 2021)</small>
 
@@ -3163,3 +3163,61 @@ fracción II segundo párrafo: $292,552.58 y hasta $370,566.61
 C. Código de claves vehiculares
 
 > <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 28 DE DICIEMBRE DE 2021, PÁGINAS DE LA 6 A LA 453.]</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2022.
+
+> <small>[N. DE E. LA “RESOLUCIÓN MISCELÁNEA FISCAL PARA 2023 Y SUS ANEXOS 1, 5, 8, 15, 19, 26 Y 27”, PUBLICADA EL 27 DE DICIEMBRE DE 2022, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA MODIFICACIÓN AL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2022, PUBLICADA EL 27 DE DICIEMBRE DE 2022.]</small>
+
+Modificación al Anexo 15 de la Resolución Miscelánea Fiscal para 2022
+
+Contenido
+
+Impuesto sobre Automóviles Nuevos
+
+A. Tarifa para determinar el Impuesto sobre Automóviles Nuevos para el año 2023.
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023.
+
+C. Código de Claves Vehiculares:
+
+1. Registradas.
+
+2. Canceladas.
+
+A. Tarifa para determinar el impuesto sobre automóviles nuevos para el año 2023.
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+$ $ $ sobre el excedente
+
+del límite inferior
+
+%
+
+0.01 339,469.04 0.00 2.0
+
+339,469.05 407,362.78 6,789.27 5.0
+
+407,362.79 475,256.78 10,184.11 10.0
+
+475,256.79 611,044.00 16,973.48 15.0
+
+611,044.01 En adelante 37,341.52 17.0
+
+Si el precio del automóvil es superior a $ 937,389.49 se reducirá del monto del impuesto determinado la cantidad que resulte de aplicar el 7% sobre la diferencia entre el precio de la unidad y los $937,389.49
+
+B. Cantidades correspondientes a la fracción II del artículo 8o. de la Ley Federal del ISAN para el año 2023.
+
+###### Artículo 8o.
+
+fracción II primer párrafo: $315,342.42
+
+###### Artículo 8o.
+
+fracción II segundo párrafo: $315,342.43 y hasta $399,433.75
+
+C. Código de claves vehiculares
+
+> <small>[N. DE E. VÉASE CÓDIGO DE CLAVES VEHICULARES EN EL D.O.F. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 784 A LA 804.]</small>
