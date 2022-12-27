@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-baja-167
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2016-12-31"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 10 de julio de 2000.
 
@@ -115,9 +115,9 @@ No se reputará como prestación de servicios profesionales con derecho a pago d
 
 II. Asociarse libremente en los términos del artículo 9º de la Constitución Política de los Estados Unidos Mexicanos, en cualquiera de las agrupaciones profesionistas legalmente registradas por la Dirección;
 
-> <small>(REFORMADA, B.O. 20 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-III. Obtener la constancia por la prestación del servicio social profesional; en dicha constancia se deberá acreditar la experiencia adquirida por el profesionista:
+III. Obtener la constancia por la prestación del servicio social profesional, el cual será reconocido como parte de la experiencia profesional de las y los profesionistas que lo hayan acreditado en los términos de esta Ley; en dicha constancia se deberá acreditar además de la experiencia, las habilidades y capacidades adquiridas por el profesionista;
 
 IV. Participar en los cursos de actualización profesional que impartan las instituciones de educación superior o las agrupaciones de profesionistas; y
 
@@ -1018,3 +1018,11 @@ Los bienes muebles e inmuebles, y en general todos los activos de las secciones 
 ###### ARTICULO QUINTO.
 
 Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo. El Ejecutivo del Estado, en un plazo que no excederá de treinta días naturales contados a partir de la publicación del presente decreto, deberá actualizar la reglamentación de la Ley para el Ejercicio de las Profesiones de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2887 SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7° DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
