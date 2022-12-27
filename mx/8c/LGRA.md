@@ -4,7 +4,7 @@ identifier: "LGRA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2016-07-18"
-last_updated: "2021-11-22"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,11 @@ abbreviation: "LGRA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+[NOTA 2: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE COMUNICACIÓN SOCIAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE DICIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/]
+
 LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -542,13 +544,23 @@ VII. Rendir cuentas sobre el ejercicio de las funciones, en términos de las nor
 
 VIII. Colaborar en los procedimientos judiciales y administrativos en los que sea parte;
 
-> <small>(REFORMADA, D.O.F. 19 DE NOVIEMBRE DE 2019)</small>
+(NOTA: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
 
-IX. Cerciorarse, antes de la celebración de contratos de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un Conflicto de Interés. Las manifestaciones respectivas deberán constar por escrito y hacerse del conocimiento del Órgano interno de control, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, D.O.F. 19 DE NOVIEMBRE DE 2019)</small>
+IX. CERCIORARSE, ANTES DE LA CELEBRACIÓN DE CONTRATOS DE ADQUISICIONES, ARRENDAMIENTOS O PARA LA ENAJENACIÓN DE TODO TIPO DE BIENES, PRESTACIÓN DE SERVICIOS DE CUALQUIER NATURALEZA O LA CONTRATACIÓN DE OBRA PÚBLICA O SERVICIOS RELACIONADOS CON ÉSTA, QUE EL PARTICULAR MANIFIESTE BAJO PROTESTA DE DECIR VERDAD QUE NO DESEMPEÑA EMPLEO, CARGO O COMISIÓN EN EL SERVICIO PÚBLICO O, EN SU CASO, QUE A PESAR DE DESEMPEÑARLO, CON LA FORMALIZACIÓN DEL CONTRATO CORRESPONDIENTE NO SE ACTUALIZA UN CONFLICTO DE INTERÉS. LAS MANIFESTACIONES RESPECTIVAS DEBERÁN CONSTAR POR ESCRITO Y HACERSE DEL CONOCIMIENTO DEL ÓRGANO INTERNO DE CONTROL, PREVIO A LA CELEBRACIÓN DEL ACTO EN CUESTIÓN. EN CASO DE QUE EL CONTRATISTA SEA PERSONA MORAL, DICHAS MANIFESTACIONES DEBERÁN PRESENTARSE RESPECTO A LOS SOCIOS O ACCIONISTAS QUE EJERZAN CONTROL SOBRE LA SOCIEDAD;
 
-X. Sin perjuicio de la obligación anterior, previo a realizar cualquier acto jurídico que involucre el ejercicio de recursos públicos con personas jurídicas, revisar su constitución y, en su caso, sus modificaciones con el fin de verificar que sus socios, integrantes de los consejos de administración o accionistas que ejerzan control no incurran en conflicto de interés.
+(NOTA: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2022)</small>
+
+X. SIN PERJUICIO DE LA OBLIGACIÓN ANTERIOR, PREVIO A REALIZAR CUALQUIER ACTO JURÍDICO QUE INVOLUCRE EL EJERCICIO DE RECURSOS PÚBLICOS CON PERSONAS JURÍDICAS, REVISAR SU CONSTITUCIÓN Y, EN SU CASO, SUS MODIFICACIONES CON EL FIN DE VERIFICAR QUE SUS SOCIOS, INTEGRANTES DE LOS CONSEJOS DE ADMINISTRACIÓN O ACCIONISTAS QUE EJERZAN CONTROL NO INCURRAN EN CONFLICTO DE INTERÉS, Y
+
+(NOTA: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XI AL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2022)</small>
+
+XI. ABSTENERSE DE REALIZAR PROPAGANDA GUBERNAMENTAL CON RECURSOS PÚBLICOS QUE INCLUYA NOMBRES, IMÁGENES, VOCES O SÍMBOLOS QUE IMPLIQUEN PROMOCIÓN PERSONALIZADA DE CUALQUIER SERVIDOR PÚBLICO.
 
 Para efectos de esta Ley se entiende que un socio o accionista ejerce control sobre una sociedad cuando sean administradores o formen parte del consejo de administración, o bien conjunta o separadamente, directa o indirectamente, mantengan la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital, tengan poder decisorio en sus asambleas, estén en posibilidades de nombrar a la mayoría de los miembros de su órgano de administración o por cualquier otro medio tengan facultades de tomar las decisiones fundamentales de dichas personas morales.
 
@@ -727,6 +739,10 @@ También se considera uso indebido de recursos públicos la omisión de rendir c
 Será responsable de contratación indebida de ex Servidores Públicos el particular que contrate a quien haya sido servidor público durante el año previo, que posea información privilegiada que directamente haya adquirido con motivo de su empleo, cargo o comisión en el servicio público, y directamente permita que el contratante se beneficie en el mercado o se coloque en situación ventajosa frente a sus competidores. En este supuesto también será sancionado el ex servidor público contratado.
 
 ### Capítulo IV. De las Faltas de particulares en situación especial
+
+(NOTA: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 73.
 
@@ -2081,3 +2097,25 @@ D.O.F. 22 DE NOVIEMBRE DE 2021.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días, a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
+
+(NOTA: EL 8 DE MAYO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2023 Y SUS ACUMULADAS 30/2023, 31/2023, 37/2023, 38/2023, 43/2023 Y 47/2023, DECLARÓ LA INVALIDEZ DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE COMUNICACIÓN SOCIAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE DICIEMBRE DE DOS MIL VEINTIDÓS, LA CUAL SURTIÓ EFECTOS EL 8 DE MAYO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+
+D.O.F. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE COMUNICACIÓN SOCIAL Y DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La persona titular del Ejecutivo Federal debe realizar las adecuaciones reglamentarias correspondientes en un plazo no mayor a 180 días hábiles a partir de la publicación del presente Decreto.
+
+En el mismo plazo, la Secretaría de Gobernación emitirá los Lineamientos a que se refieren los artículos 4, 25, 28 y 37 de la Ley General de Comunicación Social.
+
+Tercero. Los Entes Públicos, en un plazo máximo de 120 días hábiles siguientes a la entrada en vigor del presente Decreto, adecuarán conforme a éste, sus disposiciones legales y reglamentarias.
+
+Cuarto. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Quinto. En caso de inicio de labores o de gestión, los Entes Públicos emitirán su Estrategia y Programa Anual de Comunicación Social de ese ejercicio fiscal a los tres meses siguientes a que se haya emitido y publicado su Programa de trabajo, o equivalente.
+
+En los ordenamientos locales se establecerán las disposiciones transitorias conducentes para el procedimiento referido en el párrafo anterior.
+
+Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
