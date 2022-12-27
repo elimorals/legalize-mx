@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2022-04-29"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1313,9 +1313,9 @@ La revisión y fiscalización de la cuenta pública será realizada a través de
 
 Si del examen que realice la Auditoría Superior del Estado aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio del propio Congreso del Estado; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación de los Informes del resultado de la Fiscalización Superior de la Cuenta Pública.
+La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada simultáneamente al Congreso del Estado y a la Auditoría Superior del Estado por medios electrónicos en los formatos autorizados, por ésta última a más tardar el 30 de abril del año siguiente. Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador, suficientemente justificada a juicio del propio Congreso del Estado; la prórroga no deberá exceder de 30 días naturales y, en tal supuesto, la Auditoría Superior del Estado contará con el mismo tiempo adicional para la presentación de los informes del resultado de la fiscalización superior de la cuenta pública.
 
 > <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -2083,9 +2083,9 @@ XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
 La ley establecerá las bases mediante las cuales el Consejo de la Judicatura procederá en la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, observando el principio de paridad de género, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Los Jueces Laborales serán designados mediante concursos abiertos, observando el principio de paridad de género, con base en criterios objetivos y de acuerdo al procedimiento (sic) disponga la Ley. Asimismo, deberán contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+Las Juezas y los Jueces del Poder Judicial serán designados mediante concurso, observando el principio de paridad de género, conforme a las bases que se establezcan en la convocatoria respectiva y con arreglo al procedimiento que disponga la normatividad que resulte aplicable. Asimismo, deberán contar con capacidad y experiencia en la materia que les corresponda. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
 > <small>(REFORMADO, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -2363,9 +2363,9 @@ El Pleno del Tribunal podrá solicitar al Consejo de la Judicatura la expedició
 
 La ley establecerá los términos y procedimientos para el ejercicio de las atribuciones del Consejo de la Judicatura respecto de los procedimientos por faltas administrativos (sic) de los miembros y funcionarios Judiciales del Poder Judicial del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación y remoción de Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no procede juicio ni recurso alguno en contra de las mismas, salvo las que se refieran a la designación, adscripción, ratificación o no ratificación y remoción de Juezas y Jueces, las cuales podrán ser revisadas por el Tribunal Superior de Justicia únicamente para verificar que hayan sido adoptadas conforme a las reglas que establezca esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 31 DE JULIO DE 2016)</small>
 
@@ -4672,3 +4672,35 @@ B.O. 29 DE ABRIL DE 2022.
 PRIMERO.- El Presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2890 SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTICULO 89 Y EL DÉCIMO PÁRRAFO DEL ARTÍCULO 100 AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN LAS FRACCIONES X, XXIV, XXVIII Y XXXI DEL ARTÍCULO 14; LA FRACCIÓN II DEL ARTÍCULO 22; EL ARTÍCULO 48 BIS; EL PÁRRAFO TERCERO DEL ARTÍCULO 53; EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 55; EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 56; LAS FRACCIONES XV Y XVII DEL ARTÍCULO 113; LOS PÁRRAFOS PRIMERO Y SEGUNDO DE LA FRACCIÓN I DEL ARTÍCULO 115; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 133; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 144 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 255; Y SE ADICIONAN LA FRACCIÓN XXXI BIS AL ARTÍCULO 14; UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 22; UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO COMPUESTO POR LOS INCISOS A), B), C), D) Y E ) AL ARTÍCULO 40, UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 67; UN PÁRRAFO SEGUNDO A LA FRACCIÓN XVII DEL ARTÍCULO 113; UN TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 115; UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 199; UN PÁRRAFO SEGUNDO A LA FRACCIÓN V DEL ARTÍCULO 208 Y EL TÍTULO DÉCIMO CUARTO DENOMINADO “DEL RECURSO DE REVISIÓN ADMINISTRATIVA”, MISMO QUE ESTA CONFORMADO POR LOS ARTÍCULOS 308, 309, 310 Y 311 TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Baja California Sur deberá expedir las normas reglamentarias relativas al trámite, sustanciación y resolución del recurso de revisión administrativa a que se hace alusión en el presente decreto, dentro de los 30 días siguientes a su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Los jueces que hayan recibido nombramiento definitivo con anterioridad a la entrada en vigor del presente decreto no serán sujetos al procedimiento de ratificación y solo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezcan esta Ley y sus normas reglamentarias.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2899 SE REFORMA EL PÁRRAFO CUARTO DE LA FRACCIÓN XXX DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE REFORMAN LOS ARTÍCULOS 4 Y 13 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Los procedimientos de auditorías iniciados por la Auditoría Superior del Estado de Baja California Sur antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de dictaminación, se seguirán practicando mediante la revisión de documentación e información financiera recabada en forma física.
+
+Tercero.- La Auditoría Superior del Estado de Baja California Sur deberá emitir los lineamientos para el uso de la vía electrónica y la firma electrónica en los procedimientos de certificación y envío de la cuenta pública y de los informes mensuales a cargo de las entidades fiscalizadas y publicarlo en su página oficial de internet, en un plazo de 90 días naturales posteriores a la entrada en vigor del presente decreto.
+
+Cuarto.- Las entidades fiscalizadas deberán presentar los informes mensuales a que se refieren los artículos 4 y 13 de la Ley de Fiscalización y Rendición de Cuentas del Estado de Baja California Sur, dentro del término legal por la vía electrónica a partir del informe mensual del mes de Enero del año 2023, ante la Auditoría Superior del Estado.
