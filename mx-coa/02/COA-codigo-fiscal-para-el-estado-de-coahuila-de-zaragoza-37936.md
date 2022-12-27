@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2021-12-22"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -415,11 +415,9 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará conforme al valor del día que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-Se aceptarán como medios de pago, los cheques certificados, los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autoricen las autoridades fiscales. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fijen las autoridades fiscales. Los créditos fiscales podrán ser cubiertos en especie, previa autorización debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+Se aceptarán como medios de pago, los cheques certificados, los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México, siempre y cuando la opción de pago elegida por el contribuyente se encuentre debidamente referenciada, con la clave que para tal efecto se plasme en el estado de cuenta obtenido del portal de pagos que administra la Secretaría de Finanzas. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autoricen las autoridades fiscales. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fijen las autoridades fiscales. Los créditos fiscales podrán ser cubiertos en especie, previa autorización debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
 
@@ -1583,13 +1581,11 @@ II. La omisión haya sido corregida por el contribuyente después de que las aut
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 67.
 
-Las autoridades fiscales podrán condonar las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
+Las autoridades fiscales podrán reducir las multas por infracción a las disposiciones fiscales, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -3202,6 +3198,22 @@ P.O. 22 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día primero de enero de dos mil veintidós.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 401.- SE REFORMAN, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 21; ASÍ COMO EL PRIMER PÁRRAFO AL ARTÍCULO 67; AMBOS DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veintitrés.
 
 ###### ARTÍCULO SEGUNDO.
 
