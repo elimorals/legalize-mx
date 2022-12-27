@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2021-12-27"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ABRIL DE 2023 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1213,7 +1215,93 @@ XIV.- Ejercer las facultades que la Constitución General de la República le ot
 
 XV.- Emitir conjuntamente, según corresponda, con la Dirección de Finanzas y con la Oficialía Mayor, los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas, así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación conforme a las disposiciones legales aplicables, que se realicen en el Poder Legislativo del Estado; y
 
-XVI.- Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno y la Junta de Gobierno y Coordinación Política.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVI.- Recibir las denuncias y quejas en contra de los servidores públicos del Congreso del Estado por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de la ley de la materia;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVII.- Presentar a consideración y aprobación de la Junta de Gobierno la propuesta de Código de Ética de los Servidores Públicos del Poder Legislativo, así como de sus correspondientes modificaciones;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVIII.- Elaborar el anteproyecto de presupuesto anual de la Controlaría, que será enviado a la Junta de Gobierno y Coordinación Política para su valoración e integración al proyecto de presupuesto del Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XIX.- Requerir a las unidades administrativas del Congreso del Estado, la información y documentación necesaria para cumplir con sus facultades y obligaciones;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XX.- Delegar atribuciones por medio de acuerdos que permitan el desarrollo de sus facultades y obligaciones;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXI. Supervisar y vigilar que, en los arrendamientos, contratos de adquisición de bienes muebles y contratación de servicios, que celebre el Congreso del Estado, se observen las disposiciones legales y administrativas que correspondan de conformidad con las leyes que sean aplicables;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXII.- Vigilar que anualmente se realice y actualice el inventario de bienes muebles e inmuebles del Congreso del Estado y establecer medidas y criterios para su control, poniéndolo a consideración de la Junta de Gobierno;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXIII.- Llevar el registro de las sanciones administrativas que, en su caso, les hayan sido impuestas a los servidores públicos del Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXIV.- Expedir las constancias que acrediten lo existencia o no de sanción administrativa impuesta a los servidores públicos del Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXV.- Vigilar los procesos de entrega y recepción de las áreas administrativas del Congreso del Estado, para verificar que se realicen conforme a las normas y lineamientos aplicables;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXVI.- Fomentar los valores que deben distinguir a los servidores públicos del Congreso del Estado;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXVII.- Fomentar y promover la cultura de la denuncia respecto de los actos indebidos de los servidores públicos;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXVIII.- Diseñar, implementar y supervisar el sistema de control, fiscalización y evaluación de las unidades administrativas del Congreso del Estado, orientado a mejorar los procedimientos administrativos y vigilar su cumplimiento;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXIX.- Supervisar a todos aquellos que ejerzan recursos del presupuesto de egresos del Congreso del Estado, así como establecer los procedimientos para la práctica de auditorías internas a las mismas;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXX.- Fungir como órgano de asesoría y capacitación para las unidades administrativas del Congreso del Estado, cuando lo soliciten, en materia de control y vigilancia de los recursos públicos, responsabilidades y aplicación de la normatividad administrativa;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXI.- Auxiliar a las unidades administrativas del Congreso, en la revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXII.- Supervisar y evaluar a las unidades administrativas del Congreso del Estado, conforme lo establezca la normatividad legal aplicable;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXIII. Realizar visitas, revisiones, verificaciones y auditorías a las unidades administrativas del Congreso del Estado, a fin de supervisar su adecuado funcionamiento, y en su caso promover lo necesario, para corregir las deficiencias u omisiones en que hubieran incurrido;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXIV.- Expedir certificaciones de los documentos que obren en los archivos de la Contraloría, salvaguardando la información en términos de la legislación aplicable en materia de transparencia, acceso a la información pública y protección de datos personales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XXXV.- Las demás que expresamente le confieran otros ordenamientos legales o que determine el Pleno o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para el ejercicio de sus atribuciones la Contraloría del Poder Legislativo contará con los servidores públicos, las unidades administrativas y los recursos económicos que a propuesta de la Junta de Gobierno, apruebe el Congreso del Estado y se determinen en el presupuesto de la misma.
+
+> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+El reglamento interno de la Contraloría del Poder legislativo que expida el Congreso del Estado establecerá el catálogo de competencias de cada una de las áreas a que alude el párrafo anterior.
 
 Artículo 72
 
@@ -2616,3 +2704,11 @@ B.O. 27 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2803 SE REFORMAN EL SEGUNDO, TERCER Y SEXTO PÁRRAFOS DEL ARTÍCULO 96 Y CUARTO Y QUINTO PÁRRAFOS DEL ARTÍCULO 191 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO. - El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2889 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 71 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. El Congreso del Estado deberá aprobar el Reglamento Interno de la Controlaría del Poder Legislativo a que hace referencia el último párrafo del artículo 71 del presente decreto en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del mismo.
