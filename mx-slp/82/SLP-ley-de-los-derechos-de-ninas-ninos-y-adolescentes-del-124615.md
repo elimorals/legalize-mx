@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2022-12-12"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -559,7 +559,13 @@ ARTÍCULO 30 TER. Los centros de asistencia social que reciban niñas, niños y 
 
 Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos, o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
 
-El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente, haya sido acogido en un Centro de Asistencia Social y, concluirá, cuando el Sistema Estatal DIF, a través de la Procuraduría de Protección, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente. Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado, y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente, haya sido acogido en un Centro de Asistencia Social y, concluirá, cuando el Sistema Estatal DIF, a través de la Procuraduría de Protección, levante la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Se considera expósito a las niñas, niños o adolescentes que son colocados en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado, y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a las niñas, niños o adolescentes cuyo origen se conoce, se considerará abandonado.
 
 Durante el término referido se investigará el origen de niñas, niños y adolescentes, y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los centros de asistencia social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo a la niña, niño o adolescente.
 
@@ -2682,5 +2688,13 @@ P.O. 12 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0547.- REFORMA A LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ, A LA LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, ASÍ COMO A LA LEY DEL CENTRO DE JUSTICIA PARA LAS MUJERES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0568.- SE REFORMA EL ARTÍCULO 30 TER EN SU PÁRRAFO TERCERO; Y ADICIONA AL MISMO ARTÍCULO 30 TER UN PÁRRAFO, ESTE COMO CUARTO, POR LO QUE ACTUALES, CUARTO, Y QUINTO, PASAN A SER PÁRRAFOS, QUINTO, Y SEXTO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
