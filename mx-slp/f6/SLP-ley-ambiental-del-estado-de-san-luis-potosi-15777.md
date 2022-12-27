@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2022-07-15"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,45 +21,31 @@ state: "SLP"
 ---
 # LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DEL COMITE DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE LA COMISION ESTATAL DE INFORMACION GUBERNAMENTAL DEL ESTADO DE QUERETARO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 29 de enero de 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
-Considerando.
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
-Por lo anteriormente expuesto y fundado, expido el siguiente:
+Fernando Silva Nieto, Gobernador Constitucional del Estado Libre Soberano de San Luis Potosí, a sus habitantes sabed:
 
-Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la Comisión Estatal de Información Gubernamental del Estado de Querétaro
+Que la Quincuagésima Quinta Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
+
+DECRETO 392
+
+LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+
+[...]
+
+LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capítulo I. Disposiciones generales
+### CAPITULO UNICO
 
-###### Artículo 1.
-
-El presente Reglamento tiene por objeto regular la organización, operación y funcionamiento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la Comisión Estatal de Información Gubernamental del Estado de Querétaro, como órgano colegiado de estudio, evaluación y aplicación de la normatividad en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios.
-
-###### Artículo 2.
-
-Para efectos del presente Reglamento se entenderá por:
-
-I. Comisión: la Comisión Estatal de Información Gubernamental;
-
-II. Comité: El Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de la Comisión Estatal de Información Gubernamental;
-
-III. Ley: la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro; y
-
-IV. Reglamento Interior: El Reglamento Interior de la Comisión Estatal de Información Gubernamental.
-
-###### Artículo 3.
-
-Los integrantes del Comité actuarán conforme a los criterios de transparencia, eficiencia, eficacia, economía, imparcialidad y honradez, buscando siempre el beneficio para la Comisión.
-
-###### Artículo 4.
-
-Los aspectos no previstos en el presente Reglamento serán resueltos por el Comité en términos de la normatividad aplicable.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTICULO 1o.
 
@@ -325,6 +311,10 @@ Los instrumentos de la política ambiental estatal y municipal señalados en el 
 
 Cuando las autorizaciones, licencias y permisos, que por cualquier concepto expidan las autoridades estatales o municipales, se refieran precisa o incidentalmente a materias ambientales, sus titulares quedarán sujetos, en lo que corresponda, al cumplimiento de las obligaciones, limitaciones y prohibiciones contempladas en los reglamentos y la normatividad ambiental a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para la expedición de las normas técnicas ecológicas se estará a lo dispuesto por el artículo 36 de la LGEEPA.
+
 ###### ARTICULO 5o.
 
 Para los efectos de este ordenamiento, se denominarán:
@@ -353,137 +343,9 @@ IX. A la Comisión Intersecretarial Estatal para el Control de Plaguicidas, Fert
 
 ## TITULO SEGUNDO. DE LA DISTRIBUCION DE COMPETENCIAS Y COORDINACION
 
-### Capítulo II. De las atribuciones y estructura del Comité
+### CAPITULO UNICO
 
-###### Artículo 5.
-
-Corresponde al Comité:
-
-I. Atender las solicitudes de adquisición, enajenación, arrendamiento y contratación de bienes y servicios que presente la Comisión, para efectos de su autorización mediante el dictamen correspondiente;
-
-II. Cumplir con la normatividad estatal en materia de adquisición y contratación de bienes y servicios;
-
-III. Elaborar las bases de licitación con apoyo de las áreas destinatarias de los bienes y servicios;
-
-IV. Desarrollar los procedimientos de adquisición, arrendamientos y contratación de servicios en términos de la Ley;
-
-V. Efectuar las acciones necesarias para soportar sus decisiones;
-
-VI. Realizar los actos de presentación y apertura de proposiciones en los procedimientos de licitación pública o invitación restringida;
-
-VII. Emitir el dictamen o fallo para la adjudicación de los contratos en los procedimientos de licitación pública o invitación restringida;
-
-VIII. Dictaminar sobre los arrendamientos, enajenaciones y contratación de bienes y servicios;
-
-IX. Implementar el procedimiento de enajenación de bienes muebles propiedad de la Comisión de conformidad con la normatividad aplicable;
-
-X. Vigilar la actualización del padrón de proveedores de la Comisión;
-
-XI. Aprobar los procedimientos necesarios para el desarrollo de sus actividades;
-
-XII. Recibir, tramitar y resolver las inconformidades que presenten los concursantes y proveedores respecto a los actos relacionados con el Comité, atendiendo a lo dispuesto en el capítulo Décimo Cuarto de la Ley; y
-
-XIII. Las demás que le confieran la Ley, el presente Reglamento y el Comisionado Ejecutivo.
-
-###### Artículo 6.
-
-El Comité se integra por:
-
-I. El Comisionado Ejecutivo de la Comisión como Presidente;
-
-II. El titular de la unidad administrativa encargada de la administración de la Comisión como Secretario Ejecutivo;
-
-III. El titular de la unidad administrativa encargada de la capacitación y difusión del derecho de acceso a la información pública como Vocal;
-
-IV. El titular de la unidad administrativa encargada de los asuntos jurídicos de la Comisión como Vocal; y
-
-V. El Comisionado ciudadano que determine el Comisionado Ejecutivo como Vocal.
-
-El vocal referido en la fracción V deberá entregar al Presidente una fianza de fidelidad dentro de los diez días hábiles posteriores a su nombramiento. Si el Comité sesiona antes de dicho plazo, la fianza deberá entregarse al Presidente durante la sesión.
-
-#### Sección Primera. Del Presidente
-
-###### Artículo 7.
-
-Corresponde al Presidente del Comité:
-
-I. Convocar a las sesiones del Comité;
-
-II. Presidir las sesiones del Comité;
-
-III. Aprobar los asuntos que se tratarán en cada sesión;
-
-IV. Determinar el orden del día para el desahogo de las sesiones;
-
-V. Declarar el inicio y término de la sesión;
-
-VI. Decretar los recesos que se consideren necesarios;
-
-VII. Conceder el uso de la palabra a los integrantes del Comité;
-
-VIII. Determinar y en su caso coordinar la elaboración de los informes de las actividades del Comité;
-
-IX. Emitir su voto en los asuntos que se traten en el Comité y el voto de calidad en caso de empate en la votación;
-
-X. Suscribir las actas del Comité; y
-
-XI. Las demás que señale la normatividad aplicable.
-
-#### Sección Segunda. Del Secretario Ejecutivo
-
-###### Artículo 8.
-
-Corresponde al Secretario Ejecutivo del Comité:
-
-I. Auxiliar al Presidente y al Comité en el ejercicio de los asuntos que le confiere la Ley y el presente Reglamento;
-
-II. Publicar en el sitio oficial de Internet de la Comisión las convocatorias, adjudicaciones y demás actos y resoluciones derivadas de los procedimientos que se implementen y que determine el Presidente;
-
-III. Enviar a los integrantes del Comité los documentos y anexos de los asuntos a tratar;
-
-IV. Pasar la lista de asistencia de los integrantes del Comité, llevar el registro de ella y declarar la existencia del quórum legal;
-
-V. Elaborar las actas correspondientes de las sesiones del Comité, sometiéndolas a la consideración del mismo;
-
-VI. Levantar constancia de la votación de los integrantes del Comité;
-
-VII. Integrar los expedientes de los asuntos desahogados por el Comité;
-
-VIII. Resguardar la documentación derivada de los actos del Comité;
-
-IX. Dar fe de los actos del Comité;
-
-X. Emitir su voto en los asuntos que se requiera;
-
-XI. Llevar a cada una de las sesiones del Comité la documentación que se requiera;
-
-XII. Vigilar el oportuno cumplimiento de los objetivos que se haya propuesto el Comité, así como del cumplimiento de los acuerdos y los compromisos adquiridos por parte de las áreas de la Comisión implicadas, informando al Presidente;
-
-XIII. Firmar las actas del Comité, y
-
-XIV. Las demás que le confiera la Ley, el presente Reglamento y el Presidente.
-
-#### Sección Tercera. De los Vocales
-
-###### Artículo 9.
-
-Corresponde a los Vocales:
-
-I. Asistir a las sesiones de Comité;
-
-II. Emitir su voto en los asuntos que se les requiera;
-
-III. Contribuir al buen desarrollo de las sesiones del Comité;
-
-IV. Coadyuvar, cuando así lo solicite el Presidente, en los asuntos del Comité;
-
-V. Apoyar al Presidente y al Secretario Ejecutivo en la elaboración de la normatividad del Comité;
-
-VI. Evaluar las tablas comparativas técnicas y económicas derivadas de los procedimientos que implemente el Comité;
-
-VII. Realizar las responsabilidades que el Presidente les encomiende para el buen desarrollo de los asuntos que resuelva el Comité; y
-
-VIII. Las demás que les confiera la Ley, el presente Reglamento y el Presidente.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 6o.
 
@@ -739,75 +601,153 @@ En el ejercicio de las facultades que en materia agrícola, ganadera, forestal, 
 
 Los principios, criterios y normas a que se refiere el párrafo anterior serán de observancia y aplicación estricta y obligatoria en la formulación de los planes y programas sectoriales, así como en toda acción emprendida o por emprender por cualquier autoridad estatal o municipal. La inobservancia e inaplicación de los principios y criterios normativos por parte de las autoridades estatales y municipales, en la ejecución de obras públicas y acciones serán objeto de sanción en los términos previstos en la presente Ley.
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-A fin de cumplir con sus atribuciones, el Comité celebrará sesiones que serán de carácter ordinario o extraordinario.
+Para la protección y aprovechamiento de los recursos naturales corresponderá a la SEGAM, en coordinación con la SEDARH y con las dependencias estatales que en su caso corresponda, las atribuciones y obligaciones siguientes:
 
-Las sesiones ordinarias se celebrarán de manera anual y se convocarán con al menos tres días hábiles de anticipación; las extraordinarias podrán ser convocadas en cualquier tiempo con al menos veinticuatro horas hábiles de anticipación.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-Las sesiones, independientemente del carácter que tengan, serán convocadas por el Presidente.
+I. Efectuar y promover estudios, investigaciones, experimentos, pruebas de campo, usos de nuevas tecnologías, aplicaciones de mejores prácticas e innovaciones tecnológicas a fin de determinar los mejores métodos para la conservación y recuperación del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales;
 
-La convocatoria a las sesiones contendrá la fecha, hora y lugar en que habrá de celebrarse así como el orden del día de los puntos a tratarse los cuales consistirán en:
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-I. Verificación del quórum y declaración de instalación de la sesión;
+II. Solicitar de las autoridades competentes que adopten las medidas que correspondan, para que los ejidos, comunidades y los pequeños propietarios de la Entidad, den cumplimiento a las medidas de cuidado y conservación del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales, contribuyendo a la realización de los programas correspondientes;
 
-II. Aprobación del orden del día;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
 
-III. Aprobación del acta de la sesión anterior;
+III. Promover ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural de la Federación, que en las unidades de producción cuya organización le corresponda impulsar en el territorio estatal, de acuerdo a las leyes de la materia, se apliquen las acciones concretas que se propongan para lograr la protección del suelo, subsuelo, agua, bosques, flora, fauna y los demás recursos naturales;
 
-IV. Los asuntos a tratar en la sesión, sin que se incluya el tratamiento de dos o más asuntos en un solo punto y;
+IV. Promover y participar en los programas que tiendan a evitar la sobreutilización y degradación de los suelos, así como vigilar el cumplimiento de las disposiciones de las leyes de la materia en los casos de minifundios, tierras ociosas y demás relativas;
 
-V. Asuntos generales, tratándose de sesiones ordinarias.
+V. Celebrar con el acuerdo del titular del Ejecutivo del Estado, acuerdos de coordinación con la federación y municipios, así también los convenios de concertación de acciones con los sectores social y privado, conducentes a los propósitos contenidos en las fracciones I a IV de este artículo, y
 
-Anexo a cada convocatoria se integrará la documentación necesaria respecto a los puntos y asuntos a tratar en caso de que sea necesaria.
+VI. Impulsar y participar cuando corresponda, en la elaboración, implementación y control de los programas pertinentes.
 
-Para la instalación y desahogo de las sesiones del Comité deberá estar presente al menos el Presidente, el Secretario Ejecutivo y un Vocal.
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2017)</small>
+
+La SEGAM impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, desarrollo, conservación, y reproducción para la restauración de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
 
 ## TITULO TERCERO. DE LA POLITICA AMBIENTAL
 
-### Capítulo III. Del funcionamiento del Comité
+### CAPITULO UNICO
 
-#### Sección Primera. De las Sesiones
+###### ARTICULO 11.
 
-###### Artículo 11.
+El criterio general básico para la elaboración, orientación y aplicación de la política estatal y municipal en materia de protección y aprovechamiento de los recursos naturales de la Entidad, así como de los programas de acciones, obras y servicios, acuerdos de coordinación y convenios de concertación, a través de los cuales aquellas se desarrollan, será el de hacer compatibles los ciclos ecológicos, la renovabilidad y capacidad de los suelos, la diversidad biológica de los ecosistemas y el equilibrio de las estructuras hidrológicas, con los modelos productivos y métodos tecnológicos en aplicación, sus principios económicos y el propósito esencial de eficientar sus resultados, a fin de no atentar de manera irreversible la conservación y renovabilidad de los recursos naturales.
 
-Los miembros del Comité podrán proponer al Presidente la inclusión de asuntos generales a tratar en la sesión, lo que será permitido sólo en las sesiones ordinarias, estando en posibilidades de solicitarlo desde el momento en que reciban la convocatoria, hasta antes del cierre de la sesión.
+###### ARTICULO 12.
 
-###### Artículo 12.
+La política ambiental del Estado responderá a las peculiaridades ecológicas de la Entidad y guardará concordancia con los lineamientos de acción nacionales que establezca la federación, para lo cual observará los siguientes principios:
 
-Las sesiones extraordinarias se limitarán al tratamiento de los puntos para la que sean convocadas.
+I. Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dinámico dependen la vida y las posibilidades productivas del estado y del país;
+
+II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, compatible con su equilibrio dinámico e integridad;
+
+III. Las autoridades de la Entidad y los particulares deben asumir una responsabilidad respecto de la protección del ambiente;
+
+IV. Quien realice obras o actividades ya sea del sector público o del sector privado que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o remediar los daños que cause, así como a asumir los costos ambientales que dicha afectación implique; asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable y responsable los recursos naturales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+En el caso de personas del sector privado que efectúen obras o actividades que afecten o puedan afectar el ambiente, pero que dicha obra o actividad no les genere los ingresos y no tenga otra fuente laboral o teniéndola nos (sic) les alcance para remediar los daños y asumir los costos ambientales; las autoridades ambientales correspondientes deberán tomar en cuenta esta situación al momento (sic) prevenir o exigir la remediación o el pago del costo ambiental; además de asesorarlos técnicamente y financieramente, que les permita emigrar de los esquemas contaminantes a mecanismos de producción amigables con el medio ambiente; y estableciendo algún programa de apoyo económico para estas personas durante el tiempo que dure la sustitución de su esquema (sic) producción para que tengan alguna fuente de ingreso;
+
+V. La responsabilidad respecto al ambiente comprende tanto las condiciones presentes como las que se determinen para la calidad de vida de las futuras generaciones;
+
+VI. La prevención de las causas que generan o pueden generar impactos ambientales adversos, se reconoce como el medio más eficaz para evitar el deterioro ambiental;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+VII. El aprovechamiento de los recursos naturales renovables deberá realizarse de manera que se asegure el sostenimiento de su diversidad y renovabilidad;
+
+VIII. Los recursos naturales no renovables deben ser utilizados de modo que se evite el peligro de su agotamiento y la generación de efectos ambientales adversos;
+
+IX. La coordinación entre las dependencias y entidades de la administración pública y entre los distintos ámbitos de gobierno, así como la concentración con la sociedad, son indispensables para la eficacia de las acciones ambientales;
+
+X. Son sujetos principales de la concertación ambiental, no solamente los individuos, sino también los grupos y organizaciones sociales. El propósito de la concertación de acciones ambientales es para reorientar la relación entre la sociedad y la naturaleza;
+
+XI. Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar; las autoridades en los términos de ésta y otras leyes, tomarán las medidas para garantizar ese derecho fundamental;
+
+XII. Debe garantizarse el derecho de las comunidades y pueblos indígenas a la protección, conservación, uso y aprovechamiento sustentable de los elementos naturales y antrópicos, a la salvaguarda y uso de la biodiversidad biológica y cultural de su entorno, de acuerdo a lo que determine la LGEEPA, esta Ley y otros ordenamientos aplicables;
+
+XIII. El mejoramiento de las condiciones de vida de la población es necesaria para el desarrollo sustentable;
+
+XIV. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para evitar el deterioro ambiental y elevar la calidad de vida de los habitantes de la Entidad;
+
+XV. Es interés y responsabilidad del Gobierno del Estado que las actividades que se lleven a cabo dentro del territorio de la Entidad y en aquellas zonas donde ejerce su soberanía y jurisdicción, no afecten el ambiente de otras entidades federativas o de zonas de jurisdicción federal;
+
+XVI. Las autoridades competentes, en igualdad de circunstancias ante los demás estados de la federación, promoverán la conservación y restauración del equilibrio dinámico de los ecosistemas regionales, y
+
+XVII. La gestión ambiental municipal, así como la descentralización de funciones hacia los municipios del Estado, es de orden fundamental y prioritario para el Gobierno del Estado, con el fin de avanzar hacia un auténtico desarrollo sustentable.
 
 ## TITULO CUARTO. INSTRUMENTOS DE POLITICA AMBIENTAL
 
 ### CAPITULO I. PLANEACION AMBIENTAL
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-El día y hora señalados para que tenga verificativo la sesión del Comité, el Presidente, declarará instalada la sesión y presidirá su desarrollo.
+En la planeación estatal del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico del territorio de la Entidad, que se establezcan de conformidad con la LGEEPA, esta Ley y las demás disposiciones en la materia.
 
-###### Artículo 14.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
-Las sesiones se celebrarán en el domicilio legal de la Comisión y en casos de excepción, en el lugar que designe el Presidente.
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y, en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo, el Programa Estatal de Acción ante el Cambio Climático, y los programas correspondientes.
 
-#### Sección Segunda. De las Actas de Sesión
+###### ARTICULO 14.
+
+Los instrumentos mediante los cuales el Estado y los ayuntamientos, en su caso, llevarán a cabo los propósitos de la política ambiental, son los siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+I. Los planes de ordenamiento ecológico del territorio y los programas derivados de los mismos; los programas locales derivados del Programa Estatal de Acción ante el Cambio Climático; así como las declaratorias de áreas naturales protegidas de jurisdicción estatal y municipal, así como sus correspondientes planes de manejo o recuperación que, como integrantes del ordenamiento ecológico de la Entidad están establecidos y regulados en esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
+
+II. Las licencias de uso del suelo de obras o actividades que se pretendan realizar fuera de las áreas urbanas o urbanizables;
+
+III. Los instrumentos económicos;
+
+IV. La autorización en materia de impacto ambiental para el desarrollo de obras y actividades, que pueden generar deterioro ambiental o rebasar los límites y condiciones establecidas en la normatividad ambiental vigente;
+
+V. Los acuerdos de coordinación entre los diferentes ámbitos de gobierno y los convenios de concertación con las organizaciones representativas de la comunidad;
+
+VI. Las medidas para prevenir contingencias ambientales o controlar emergencias ecológicas;
+
+VII. Los sistemas de monitoreo atmosférico, así como sus laboratorios de análisis;
+
+VIII. El sistema de información, seguimiento y evaluación de los programas derivados de los planes de desarrollo urbano y ordenamiento ecológico del territorio, así como las declaratorias de áreas naturales protegidas de competencia estatal y municipal, e igualmente de las autorizaciones en materia de impacto ambiental y de los demás actos relativos de las autoridades estatales y municipales;
+
+IX. La inspección, vigilancia, control y medidas de seguridad que la SEGAM y los respectivos Ayuntamientos por sí o por conducto de los organismos operadores del agua en el ámbito de su competencia realicen, así como las sanciones administrativas que procedan en uso de las facultades que la presente Ley y las disposiciones reglamentarias aplicables les otorgan, y
+
+X. La participación ciudadana en los términos previstos en esta Ley.
 
 ### CAPITULO II. ORDENAMIENTO ECOLOGICO
 
-###### Artículo 15.
+###### ARTICULO 15.
 
-De cada sesión del Comité se levantará el acta respectiva por el Secretario Ejecutivo, misma que deberá someterse a la aprobación de los miembros del mismo en la sesión siguiente y la cual deberá contener al menos lo siguiente:
+En la formulación del ordenamiento ecológico de la Entidad se deberán considerar los siguientes criterios:
 
-I. Día, hora y lugar en que tuvo verificativo;
+I. La naturaleza y características de los ecosistemas existentes en el territorio estatal y en las zonas sobre las que el Estado ejerce su Soberanía y jurisdicción;
 
-II. Nombre y cargo de los participantes de la sesión;
+II. La vocación de cada zona o región en función de sus recursos naturales, la distribución y dinámica de la población y las actividades económicas predominantes;
 
-III. Relación sucinta ordenada y clara de cuanto se trate y acuerde en las sesiones;
+III. El deterioro ambiental existente en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas;
 
-Una vez aprobada, los participantes de la sesión en cuestión firmarán al margen y al final el acta.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
-###### Artículo 16.
+IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y sus condiciones ambientales;
 
-El Presidente autorizará el Libro de Actas del Comité, el cual será integrado y resguardado por el Secretario Ejecutivo, quien podrá emitir las copias certificadas que le instruya el Presidente.
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades, y
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+
+VI. Los cambios climáticos persistentes y/o severos que modifican las condiciones del medio ambiente de una zona.
+
+###### ARTICULO 16.
+
+El ordenamiento ecológico de la Entidad y de las zonas sobre las que el Estado ejerce su soberanía y jurisdicción, se llevará a cabo a través de los planes de ordenamiento ecológico regionales y locales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 17.
 
@@ -1151,6 +1091,10 @@ III. Fomentar la incorporación de información confiable y suficiente sobre las
 
 IV. Otorgar incentivos a quien realice acciones para la protección, conservación o restauración del ambiente;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Cuando la persona que pueda afectar o dañar, o lo afecte o dañe al ambiente, y su actividad a la que se dedique no le genere los ingresos y no tenga otra fuente laboral o teniéndola nos (sic) les alcance para remediar los daños y asumir los costos ambientales; las autoridades ambientales correspondientes deberán tomar en cuenta esta situación al momento de prevenir o exigir la remediación o el pago del costo ambiental; además de asesorarlo técnica y financieramente, que le permita emigrar de los esquemas contaminantes a mecanismos de producción amigables con el medio ambiente; y estableciendo algún programa de apoyo económico para estas personas durante el tiempo que dure la sustitución de su esquema (sic) producción puedan tener alguna fuente de ingreso;
+
 V. Procurar que quien dañe el ambiente o haga un uso indebido de los elementos naturales o antrópicos, asuma los costos ambientales respectivos;
 
 VI. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
@@ -1185,9 +1129,9 @@ II. La utilización de sistemas de ahorro de energía, y el uso de fuentes de en
 
 III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los programas de ordenamiento territorial y desarrollo urbano y programas de ordenamiento ecológico regional y local;
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los programas de ordenamiento territorial y desarrollo urbano, y programas de ordenamiento ecológico regional y local, para evitar emisiones contaminantes a la atmósfera en zonas urbanas;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1553,13 +1497,17 @@ VIII. Dar aviso inmediato a la autoridad competente en caso de descompostura o f
 
 IX. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en la presente Ley y sus reglamentos;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal, y
+X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-XI. Generar un programa de planeación estratégica de corto, mediano y largo plazo para reducir los niveles de contaminación atmosférica.
+XI. Generar un programa de planeación estratégica de corto, mediano y largo plazo para reducir los niveles de contaminación atmosférica, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XII. Sujetarse a las disposiciones que emitan el Estado y los municipios para evitar la quema de cualquier tipo de residuo sólido o líquido, previstas en la fracción XI del artículo 74 de esta Ley.
 
 Las empresas públicas, las privadas y los particulares en general que pretendan realizar el cambio de sus sistemas de combustión por el uso de combustibles más limpios como el gas natural, deberán comunicarlo previamente a la SEGAM, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
 
@@ -1654,6 +1602,10 @@ La SEGAM, posterior a los procedimientos señalados en este Ordenamiento, en su 
 III. Expedir anualmente el Programa Estatal de Verificación Vehicular, y
 
 IV. Las demás que le correspondan de conformidad con este Ordenamiento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 83 BIS. En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, la SEGAM deberá emitir la Norma Técnica Ecológica Estatal, en la cual establezca disposiciones y lineamientos de carácter técnicos que deben reunir los sitios destinados a la instalación y reubicación, en su caso de aquellos lugares en los que se elaboren o producen elementos de construcción de tipo como ladrillos y demás similares, con base en lo dispuesto por el párrafo segundo del artículo 4° de esta Ley.
 
 ###### ARTICULO 84.
 
@@ -2003,9 +1955,9 @@ II. De limpieza y control de los predios baldíos, para evitar que se transforme
 
 III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2022)</small>
 
-IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas de plástico, y
+IV. De concientización y organización ciudadana vecinal para promover la cultura, educación y capacitación ambientales, para la eliminación del uso de bolsas, envases, cucharas, cuchillos, tenedores, popotes y desechables todos de plástico, así como desechables de unicel, y
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2021)</small>
 
@@ -3085,13 +3037,19 @@ Las conductas constitutivas de delitos en materia ambiental, se sancionaran de c
 
 Se impondrá de uno a cuatro años de prisión, y sanción pecuniaria de cien a cuatrocientos días del valor de la Unidad de Medida y Actualización, a quien se ostente, sin serlo, como representante de cualquier autoridad, con el objeto de verificar cualquier dato relacionado a lo dispuesto en el artículo 104 fracción V inciso c), de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2022)</small>
 
 ###### ARTICULO 175.
 
-La SEGAM deberá presentar denuncia o querella, según proceda, respecto de los delitos en materia ambiental de los que tenga conocimiento.
+La SEGAM o cualquier autoridad deberán presentar denuncia o querella, y en el caso de las personas lo podrán hacer, según proceda, respecto de los delitos de materia ambiental de los que se tenga conocimiento.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
 Tratándose de delitos ambientales, como autoridad en la materia, la SEGAM deberá coadyuvar con el Ministerio Público del fuero común.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2022)</small>
+
+ARTICULO 175 BIS. La SEGAM proporcionará en la materia de su competencia, los dictámenes técnicos que le soliciten la Fiscalía General del Estado o las autoridades judiciales, con motivo de las denuncias o querellas presentadas por la comisión de delitos en contra del medio ambiente.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -3209,19 +3167,215 @@ El Fondo Ambiental Público se sujetará a los mecanismos de control, auditoría
 
 Las políticas, bases, y lineamientos de operación del Fondo Ambiental Público, se establecerán en su Reglamento.
 
-## Transitorios
+## TRANSITORIOS
 
-Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+PRIMERO. La presente Ley entrará en vigor el día primero de marzo del año dos mil.
 
-Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+SEGUNDO. Se abroga la Ley de Protección Ambiental del Estado, publicada en el Periódico Oficial del Estado, según Decreto número 533 de fecha tres de julio de mil novecientos noventa.
 
-Dado en la sede de la Comisión Estatal de Información Gubernamental en el Estado de Querétaro el día veintidós del mes de diciembre de dos mil nueve, para su debida publicación y observancia.
+> <small>(F. DE E., P.O. 19 DE ABRIL DE 2000)</small>
 
-Javier Rascado Pérez
+TERCERO. Se derogan los artículos 1° fracciones III y IX último párrafo; 2° fracción VI; 3° fracción III, 6° fracción IV; 11 fracción XII; 12 fracciones III y VIII; 13 fracción VII; 16 fracciones IV y V; 18 fracciones I, incisos e) y f) y III inciso b); 19 fracciones I, incisos e) y f) y III inciso d); 20 fracciones I, inciso h), III incisos d) y e) y VIII, 31 fracciones IV, VIII, IX y X; 33 fracción V; 45 a 50; 57 fracciones I, IV y VII; 66 a 69 del Código Ecológico y Urbano del Estado de San Luis Potosí.
 
-Comisionado Ejecutivo
+CUARTO. La SEGAM contará con un plazo de ocho meses contados a partir de la entrada en vigor de la presente Ley para expedir los listados de actividades riesgosas y el acuerdo administrativo respecto de las actividades que causan impacto significativo en la Entidad.
 
-Rúbrica
+QUINTO. Para las obras o actividades dentro de la Entidad señaladas en el artículo 118 de esta Ley que se estén realizando o estén en funcionamiento al entrar la misma en vigor, y que produzcan o puedan producir daños al ambiente o rebasen los límites y condiciones previstas en los reglamentos y normatividad, la SEGAM podrá requerir de sus propietarios o de quienes las lleven a cabo, que presenten una manifestación de impacto ambiental en los términos establecidos en los artículos 117 a 127 de esta Ley.
+
+La manifestación referida deberá presentarse dentro del plazo de noventa días naturales siguientes a la fecha de la notificación del respectivo requerimiento; en su caso, deberá entregarse posteriormente la información adicional que exija la SEGAM. La resolución que al respecto se expida podrá ratificar el funcionamiento de la obra o actividad en los mismos términos precisados en la manifestación, o bien señalar las medidas preventivas y correctivas que deban adoptarse para abatir y reducir los impactos ambientales adversos identificados y evaluados que se ocasionen, dentro del plazo que a tal efecto se fije, o disponer la reubicación de la actividad cuyos impactos ambientales no puedan ser reducidos a los límites permisibles correspondientes.
+
+Las medidas que se dispongan implantar podrán referirse, según el caso, a la instalación de equipos de control de emisiones por gases, humos y polvos; tratamientos de aguas residuales; seguridad y operación de las faenas; prevención de accidentes; así como control de energía térmica, ruido, vibraciones y olores.
+
+SEXTO. Cuando se esté en los casos de presentar un estudio de riesgo bajo la modalidad de informe preliminar en el caso que prevé el artículo 91 de esta Ley, se estará a lo previsto en la LGEEPA y el reglamento de la misma en materia de residuos peligrosos, hasta en tanto la SEGAM expida mediante acuerdo administrativo los instructivos correspondientes.
+
+SEPTIMO. Los asuntos que se encuentren en trámite ante otra dependencia estatal a la fecha de entrar en vigor de este ordenamiento, deberán continuar ante dichas instancias cualquiera que fuere el estado en que se encuentra el respectivo trámite.
+
+OCTAVO. Los procedimientos y recursos administrativos relacionados con las materias de la Ley de Protección Ambiental Estatal o del Código Ecológico y Urbano en lo que se refiere a la protección ambiental, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, así como a las demás disposiciones aplicables en la materia de que se trate.
+
+NOVENO. En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora en lo que no lo contravengan.
+
+DECIMO. El Estado podrá ejercer las facultades de que disponen los ayuntamientos u organismos operadores del agua en materia de protección al ambiente a petición expresa de éstos, hasta en tanto cuenten con sus respectivos reglamentos o adecuen sus Bandos de Policía y Buen Gobierno, y cuenten con la capacidad técnica y administrativa necesarias; igualmente para los casos de combustiones a cielo abierto a que se refieren los artículos 8 fracción IV y 81 de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+DECIMO PRIMERO. El otorgamiento de las licencias de uso de suelo por parte de los ayuntamientos a que se refiere esta Ley, podrá llevarse a cabo por éstos una vez que cuenten con sus respectivos Programas de Ordenamiento Ecológico, de Desarrollo Urbano, o para el caso de que contaren con ellos, hasta en tanto no se emita por las autoridades correspondientes, un dictamen de congruencia de éstos y hasta en tanto dispongan con la capacidad técnica, administrativa y financiera necesarias. Mientras tanto, dichas atribuciones serán ejercidas tanto por la SEGAM como por la SEDUVOP, debiéndose contar con el dictamen técnico correspondiente, previamente a su expedición, que será otorgado por la SEGAM, en los casos previstos en esta Ley y en la Ley de Desarrollo Urbano.
+
+Los ayuntamientos contarán con un plazo de trescientos sesenta y cinco días para la emisión de sus respectivos planes y programas a que se refiere el párrafo anterior, una vez vencido el plazo sin haberlo hecho, deberán convenir con la autoridad respectiva el ejercicio de dichas funciones.
+
+DECIMO SEGUNDO. La SEGAM promoverá ante la Secretaría de Finanzas, la incorporación de los mecanismos y procedimientos correspondientes, que le permitan contar con recursos destinados a la ejecución de proyectos y acciones de prevención, mejoramiento y restauración ambiental en la Entidad.
+
+DECIMO TERCERO. Se derogan todas las disposiciones de igual o menor rango que se contrapongan a lo establecido en la presente Ley.
+
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+
+DADO en el Salón de Sesiones del H. Congreso del Estado, a los nueve días del mes de diciembre de mil novecientos noventa y nueve.
+
+Diputado Presidente: Víctor Manuel Pérez González, Diputado Secretario: Antonio Rivera Barrón, Diputado Secretario: José Carmen García Vázquez. (Rúbricas).
+
+Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+
+DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los trece días del mes de diciembre de mil novecientos noventa y nueve.
+
+El Gobernador Constitucional del Estado
+
+LIC. FERNANDO SILVA NIETO
+
+(Rúbrica)
+
+El Secretario General de Gobierno
+
+LIC. JUAN CARLOS BARRON CERDA
+
+(Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P. O. 19 DE SEPTIEMBRE DE 2006.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días naturales de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los ayuntamientos deberán adecuar sus áreas de administración urbana, así como organizar las mesas colegiadas de dictaminación y recepción de fraccionamientos, a más tardar el treinta y uno de octubre de dos mil seis.
+
+CUARTO. En tanto los ayuntamientos no cuenten con la estructura administrativa adecuada, podrán acordar con la SEDUVOP que se lleve a cabo la asesoría correspondiente.
+
+QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la Ley de Desarrollo Urbano, y los demás que fueren necesarios con relación a la misma, antes del treinta y uno de mayo del año dos mil siete.
+
+P.O. 7 DE MARZO DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Quincuagésima Octava legislatura del Honorable Congreso del Estado de San Luis Potosí, se adhiere al Acuerdo emanado de la Sexagésima Segunda Legislatura del Honorable Congreso del Estado de Chihuahua, en el que se exhorta a las legislaturas del país, para que dentro de su marco competencial, se pronuncien en contra de la apertura de empresas dedicadas a la incineración de desechos, que pretendan establecerse dentro del territorio nacional.
+
+P.O. 28 DE MARZO DE 2009.
+
+UNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE SEPTIEMBRE DE 2009.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO. La Comisión de Ecología y Medio Ambiente del Honorable Congreso del Estado, acuerda presentar iniciativa que plantee exentar de obligaciones fiscales, a las personas morales que utilicen y obsequien bolsas de plástico biodegradables.
+
+P.O. 11 DE MAYO DE 2010.
+
+DECRETO NÚMERO 185, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3°; 7°; 8°; 91; 102; 103; 104; 106; 107; 109; 132; ASÍ COMO EN EL TÍTULO SÉPTIMO LA DENOMINACIÓN DEL CAPÍTULO II, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 11 DE MAYO DE 2010.
+
+DECRETO NÚMERO 186, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3°; 7°; 8°; 102; 102 BIS; 156 Y 161 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales en lo que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2011.
+
+DECRETO NÚMERO 694 POR EL QUE SE REFORMA EL ARTÍCULO 47 EN SU FRACCIÓN IV; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 47, ESTA COMO V, POR LO QUE ACTUAL V PASA A SER FRACCIÓN VI, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2011.
+
+DECRETO NÚMERO 696 POR EL QUE SE REFORMA LOS ARTÍCULOS, 3° EN SUS FRACCIONES LIV Y LV, 5° EN SU FRACCIÓN III, 7° EN SU FRACCIÓN III, 8° EN SUS FRACCIONES XV Y XXX, 13 EN SU PÁRRAFO SEGUNDO, 14 EN SU FRACCIÓN I, 15 EN SUS FRACCIONES IV Y V, 61 EN SU FRACCIÓN VI, 73, 74 EN SUS FRACCIONES VII, XII Y XIII, 81 EN SU PÁRRAFO ÚLTIMO, Y 115 EN SU PÁRRAFO PRIMERO; Y ADICIONA A LOS ARTÍCULOS, 1° LA FRACCIÓN III BIS, 2° LA FRACCIÓN III BIS, 3° LAS FRACCIONES LVI A LXI, 8° LAS FRACCIONES III BIS, XVIII BIS Y XVIII TER, 15 LA FRACCIÓN VI, Y EL ARTÍCULO 44 BIS; ASÍ COMO AL TÍTULO CUARTO EL CAPÍTULO III BIS DENOMINADO "DE LAS FACULTADES EN MATERIA DE CAMBIO CLIMÁTICO" Y SUS ARTÍCULOS 44 TER A 44 DECIES, Y AL 74 LA FRACCIÓN XIV, DE Y A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Programa Estatal de Verificación Vehicular se expedirá a más tardar ciento veinte días después de la publicación del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO 916, POR EL QUE SE ADICIONA EL ARTÍCULO 134 BIS, A LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2012.
+
+DECRETO NÚMERO 917, POR EL QUE SE REFORMAN LOS ARTÍCULOS, 4° EN SU PÁRRAFO PRIMERO, 8° EN SU FRACCIÓN XXXII, 111 EN SU FRACCIÓN III, Y 179, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE JUNIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquéllos que así lo requieran.
+
+P.O. 13 DE SEPTIEMBRE DE 2012.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 1 DE AGOSTO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable deberán ser constituidos e instalados dentro de los noventa días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Una vez integrados los Consejos Consultivos Municipales de Medio Ambiente Sustentable, tendrá un plazo de ciento ochenta días para la elaboración de su reglamento interno.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 1 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JULIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0206.- DEROGACIONES DE Y A LOS ARTÍCULOS, 1° SU FRACCIÓN III BIS, 2° SU FRACCIÓN III BIS, 7° SU FRACCIÓN III, 8° SU FRACCIÓN XVIII TER, EL CAPÍTULO III BIS Y SUS ARTÍCULOS, 44 TER A 44 DECIES, DE LA LEY AMBIENTAL DEL ESTADO”.]
 
@@ -3618,5 +3772,21 @@ P.O. 9 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0139.- SE REFORMA LOS ARTÍCULOS 1°, 7°, 8°, 23, 26, 32, 38, 41, 44, 45, 47, 48, 61, 68, 69, 70, 98, 110; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXVII BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0362.- SE REFORMAN LOS ARTÍCULOS 109 EN SU FRACCIÓN IV Y 175 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL ARTÍCULO 175 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 305 EN SU PÁRRAFO ÚLTIMO Y 310, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0572.- SE REFORMAN LOS ARTÍCULOS, 12 EN SU FRACCIÓN IV, 45 EN SU FRACCIÓN IV, 47 EN SU FRACCIÓN IV Y 75 EN SUS FRACCIONES X Y XI; Y ADICIONA A LOS ARTÍCULOS, 4° EL PÁRRAFO TERCERO Y 75 LA FRACCIÓN XII, Y EL ARTÍCULO 83 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
