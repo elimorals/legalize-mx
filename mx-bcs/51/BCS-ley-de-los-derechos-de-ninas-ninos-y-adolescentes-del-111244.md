@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2022-07-10"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -87,7 +87,9 @@ IV. El interés superior de la niñez deberá ser considerado de manera primordi
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
-V. Incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley. Mismo que deberá aprobar el Congreso del Estado en el caso que corresponda.
+> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+V. Incorporar en sus proyectos de presupuesto la asignación anual de recursos económicos con los que permitan cumplir la (sic) acciones que establezca esta Ley, Mismo que deberá aprobar el Congreso del Estado de forma anual y progresiva.
 
 De la misma manera los Ayuntamientos incorporarán y aprobarán en sus presupuestos para dar cumplimiento a las acciones de la presente Ley.
 
@@ -2360,3 +2362,11 @@ B.O. 10 DE JULIO DE 2022.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2896 SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
