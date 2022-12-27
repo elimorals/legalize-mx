@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2022-10-14"
+last_updated: "2022-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -173,7 +173,9 @@ Los entes públicos facilitarán los auxilios que requiera la Auditoría Superio
 
 Los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado para efectos de sus auditorías e investigaciones, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades o entidades, y de los derechos de los usuarios del sistema financiero.
 
-De no proporcionar la información, los responsables serán sancionados en los términos de la Ley de Responsabilidades y, en su caso, en términos de la legislación penal aplicable.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Ante la negativa de proporcionar la información requerida, la Auditoría Superior del Estado impondrá la medida de apremio a que se refiere el artículo 10 de esta Ley, con independencia de las sanciones a que se hagan acreedores los responsables, en los términos de la Ley de Responsabilidades y, en su caso, en términos de la legislación penal aplicable.
 
 Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado podrá fijarlo y no será inferior a diez días hábiles ni mayor a quince días hábiles contados a partir del día siguiente a que haya surtido efectos la notificación correspondiente.
 
@@ -511,9 +513,13 @@ La Auditoría Superior del Estado dará cuenta al Congreso en los informes indiv
 
 La Auditoría Superior del Estado informará al Congreso, por conducto de la Comisión, del estado que guarda la solventación de observaciones a las entidades fiscalizadas, respecto a cada uno de los Informes Individuales que se deriven de las funciones de fiscalización.
 
-Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar el primer día hábil de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-El informe semestral se elaborará con base en los formatos que al efecto establezca la Auditoria, los cuales serán aprobados por la Comisión; e incluirá invariablemente los montos efectivamente resarcidos al patrimonio de los entes públicos, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley de Responsabilidades y esta Ley. Asimismo deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí y se mantendrá de manera permanente en la página en Internet.
+Para tal efecto, el reporte a que se refiere este artículo será trimestral y deberá ser presentado a más tardar el primer día hábil de los meses de mayo, agosto, noviembre y febrero de cada año, con los datos disponibles al cierre de cada trimestre del ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+El informe trimestral se elaborará con base en los formatos que al efecto establezca la Auditoría, los cuales serán aprobados por la Comisión; e incluirá invariablemente los montos efectivamente resarcidos al patrimonio de los entes públicos, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley de Responsabilidades y esta Ley. Asimismo deberá publicarse en la página de Internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí y se mantendrá de manera permanente en la página en Internet.
 
 En dicho informe, la Auditoría Superior del Estado dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
 
@@ -973,7 +979,9 @@ IX. Presidir de forma dual con el Titular de la Contraloría General del Estado,
 
 X. Ser el enlace entre la Auditoria Superior del Estado y la Comisión;
 
-XI. Solicitar a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización de las Cuentas Pública requiera la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XI. Solicitar a las entidades fiscalizadas, servidores públicos y a los particulares, sean éstos personas físicas o morales, la información que con motivo de la fiscalización de las Cuentas Pública requiera la Auditoría Superior del Estado, así como imponer, ante la negativa de proporcionar la información requerida, la medida de apremio a que se refiere el artículo 10 de esta Ley, con independencia de las sanciones a que se hagan acreedores los responsables, en los términos de la Ley de Responsabilidades;
 
 XII. Ejercer las atribuciones que corresponden a la Auditoría Superior del Estado en los términos de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, la presente Ley y del Reglamento Interior de la propia Auditoría Superior del Estado;
 
@@ -1498,5 +1506,21 @@ P.O. 14 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0411.- SE DEROGA DEL ARTÍCULO 71, LA FRACCIÓN II, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0569.- SE REFORMA EL ARTÍCULO 37 EN SUS PÁRRAFOS, SEGUNDO, Y TERCERO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0570.- SE REFORMAN LOS ARTÍCULOS, 9° EN SU PÁRRAFO TERCERO; Y 77 EN SU FRACCIÓN XI DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis ".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
