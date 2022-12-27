@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2021-12-27"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -1161,9 +1161,15 @@ Por los servicios prestados por la Comisión Estatal para la Protección contra 
 
 Tarifa:
 
-I. Por Curso de Capacitación, por persona, (máximo 20 personas) de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
-a) Manejadores de Alimentos; $288.00
+l. Por Curso de Capacitación presencial (curso o curso-taller) y/o virtual (capacitación por videoconferencia) por persona, (máximo 20 personas) de:
+
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+a) Manejadores de Alimentos $288.00
+
+y/o materia prima;
 
 b) Plantas Purificadoras; $288.00
 
@@ -1249,11 +1255,11 @@ f) Balance de medicamento psicotrópico y/o
 
 estupefacientes de los Grupos I, II y III, y $1,829.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
 g) Autorización de libros para establecimientos de
 
-salud con servicio de sangre. $399.00
+salud con servicio de sangre. $444.00
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1284,6 +1290,38 @@ vía de clasificar, certificarse, así como por
 mantenimiento; $20,000.00
 
 XVI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVII. Constancia de Condición Sanitaria; $500.00
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Refrendo de Constancia de $250.00
+
+Condición Sanitaria Anual;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XIX. Por la reposición de aviso de $200.00
+
+funcionamiento por causas ajenas a la
+
+Institución;
+
+> <small>(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XX. Por la reposición de aviso de Responsable $200.00
+
+Sanitario por causas ajenas a la institución;
+
+(ADICIONADA, B.O. 27 DE DICIEMBRE DE 2022
+
+XXI. Por la reposición de la Constancia $300.00
+
+de Condición Sanitaria por causas
+
+ajenas a la institución.
 
 ###### Artículo 23.
 
@@ -2358,3 +2396,11 @@ B.O. 27 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se le concede un término de hasta el 31 de Diciembre de 2021 a la Secretaría de Seguridad Pública del Estado de Baja California Sur, con el objeto de que constituya en conjunto con la Secretaría de Finanzas y Administración del Estado de Baja California Sur, el fondo para el programa de mantenimiento, actualización y adquisición de la infraestructura y equipamiento de video vigilancia, y elabore el plan de trabajo para dar cumplimento al último párrafo del Artículo 28 Bis de la Ley de Derechos y Productos del Estado de Baja California Sur.
+
+B.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2900 SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 22 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 01 de enero del año 2023 previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones normativas que se opongan a lo establecido en el presente Decreto.
