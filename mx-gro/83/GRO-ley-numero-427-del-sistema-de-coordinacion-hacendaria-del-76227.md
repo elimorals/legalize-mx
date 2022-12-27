@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-427-del-sistema-de-coordinacion-hacendaria-del-76227
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-13"
-last_updated: "2020-11-10"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 13 de agosto de 2010.
 
@@ -423,13 +423,13 @@ El monto de las Participaciones Federales a favor de los Municipios se determina
 
 I.- 20% de los ingresos que perciba el Estado provenientes del Fondo General de Participaciones.
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-II.- 100% de los ingresos que perciba el Estado correspondientes al Fondo de Fomento Municipal, que será distribuido de la manera siguiente:
+II.- El 100% de los ingresos que perciba el estado correspondiente al Fondo de Fomento Municipal, será distribuido en dos partes de la manera siguiente:
 
-a) Se garantiza que los Municipios reciban el monto total del recurso del Fondo de Fomento Municipal que recibieron en el ejercicio fiscal 2013, más el 70% del excedente del Fondo en comento; ponderado con la población; y
+a) La primera parte garantiza el monto total del recurso del Fondo de Fomento Municipal que los municipios recibieron en el ejercicio fiscal 2013, más el incremento entre el año 2013 y el año en que se efectúa el cálculo. El incremento entre el año 2013 y el año en que se efectúa el cálculo se distribuirá en un 70% en proporción directa a la población del municipio, y el 30% en proporción directa a los ingresos propios de cada uno de ellos, y
 
-b) Sólo para aquellos Municipios que hayan convenido la coordinación de la administración y cobro del Impuesto Predial, tendrán acceso al 30% restante, del excedente del Fondo de Fomento Municipal, en proporción directa a la recaudación respectiva 2013.
+b) De la segunda parte, sólo participarán los municipios que hayan convenido la coordinación fiscal en la administración y cobro del impuesto predial a que se refiere el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, de la cual, del 100% del monto correspondiente por la existencia de dicha coordinación fiscal, el 70% se distribuirá en proporción directa a la población de cada municipio, y un 30% en proporción directa a sus ingresos propios.
 
 III.- 20% de los ingresos que correspondan al Estado derivado de participaciones en el Impuesto Federal Sobre Tenencia o Uso de Vehículos.
 
@@ -489,13 +489,19 @@ El Fondo para la Infraestructura a Municipios se distribuirá conforme a la fór
 
 La Secretaría, enterará a los Municipios las cantidades a que se refiere esta fracción, dentro de los primeros cinco días del mes siguiente en que se recauden o se reciban.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 31.
 
-El Fondo de Fomento Municipal se distribuirá conforme a la fórmula siguiente:
+El 100% del Fondo de Fomento Municipal se distribuirá en dos partes conforme a lo siguiente:
 
-> <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 2 DE SEPTIEMBRE DE 2014, PÁGINAS DE LA 10 A LA 11.</small>
+La primera parte se distribuirá entre todos los municipios que conforman el Gobierno del Estado Libre y Soberano de Guerrero de acuerdo con la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 7 A LA 8.]</small>
+
+La segunda parte o excedente del Fondo de Fomento Municipal a que se refiere el inciso b) fracción II del artículo 27 de esta Ley la recibirán únicamente los municipios que hayan firmado Convenio Marco de Colaboración Administrativa en Materia Hacendaria y el Anexo I para la Administración del Impuesto Predial, se distribuirá conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 27 DE DICIEMBRE DE 2022, PÁGINAS DE LA 8 A LA 9.]</small>
 
 ###### ARTÍCULO 32.
 
@@ -1032,3 +1038,13 @@ Las reformas, adiciones y derogaciones relativas al presente Decreto, entraran e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 422, POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 427 DEL SISTEMA DE COORDINACIÓN HACENDARIA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 1 de enero del 2023.
+
+SEGUNDO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado de Guerrero para su observancia y conocimiento general.
+
+TERCERO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
