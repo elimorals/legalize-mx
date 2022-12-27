@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2022-07-15"
+last_updated: "2022-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -310,6 +310,10 @@ LXIII. Vulnerabilidad: incapacidad de un sistema climático, hidrológico o huma
 Los instrumentos de la política ambiental estatal y municipal señalados en el Título Cuarto de esta Ley, así como todo otro acto de autoridad o medida del gobierno estatal y de los ayuntamientos que, directa o indirectamente se refieran a las materias comprendidas en dicha política, deberán encuadrarse en el régimen que establezcan los reglamentos, bandos de policía y gobierno de los municipios, y la normatividad ambiental, que expidan la Federación y el Gobierno de la Entidad, de conformidad con lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y en la presente Ley.
 
 Cuando las autorizaciones, licencias y permisos, que por cualquier concepto expidan las autoridades estatales o municipales, se refieran precisa o incidentalmente a materias ambientales, sus titulares quedarán sujetos, en lo que corresponda, al cumplimiento de las obligaciones, limitaciones y prohibiciones contempladas en los reglamentos y la normatividad ambiental a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Para la expedición de las normas técnicas ecológicas se estará a lo dispuesto por el artículo 36 de la LGEEPA.
 
 ###### ARTICULO 5o.
 
@@ -642,6 +646,10 @@ II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se aseg
 III. Las autoridades de la Entidad y los particulares deben asumir una responsabilidad respecto de la protección del ambiente;
 
 IV. Quien realice obras o actividades ya sea del sector público o del sector privado que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o remediar los daños que cause, así como a asumir los costos ambientales que dicha afectación implique; asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable y responsable los recursos naturales;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+En el caso de personas del sector privado que efectúen obras o actividades que afecten o puedan afectar el ambiente, pero que dicha obra o actividad no les genere los ingresos y no tenga otra fuente laboral o teniéndola nos (sic) les alcance para remediar los daños y asumir los costos ambientales; las autoridades ambientales correspondientes deberán tomar en cuenta esta situación al momento (sic) prevenir o exigir la remediación o el pago del costo ambiental; además de asesorarlos técnicamente y financieramente, que les permita emigrar de los esquemas contaminantes a mecanismos de producción amigables con el medio ambiente; y estableciendo algún programa de apoyo económico para estas personas durante el tiempo que dure la sustitución de su esquema (sic) producción para que tengan alguna fuente de ingreso;
 
 V. La responsabilidad respecto al ambiente comprende tanto las condiciones presentes como las que se determinen para la calidad de vida de las futuras generaciones;
 
@@ -1083,6 +1091,10 @@ III. Fomentar la incorporación de información confiable y suficiente sobre las
 
 IV. Otorgar incentivos a quien realice acciones para la protección, conservación o restauración del ambiente;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+Cuando la persona que pueda afectar o dañar, o lo afecte o dañe al ambiente, y su actividad a la que se dedique no le genere los ingresos y no tenga otra fuente laboral o teniéndola nos (sic) les alcance para remediar los daños y asumir los costos ambientales; las autoridades ambientales correspondientes deberán tomar en cuenta esta situación al momento de prevenir o exigir la remediación o el pago del costo ambiental; además de asesorarlo técnica y financieramente, que le permita emigrar de los esquemas contaminantes a mecanismos de producción amigables con el medio ambiente; y estableciendo algún programa de apoyo económico para estas personas durante el tiempo que dure la sustitución de su esquema (sic) producción puedan tener alguna fuente de ingreso;
+
 V. Procurar que quien dañe el ambiente o haga un uso indebido de los elementos naturales o antrópicos, asuma los costos ambientales respectivos;
 
 VI. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
@@ -1117,9 +1129,9 @@ II. La utilización de sistemas de ahorro de energía, y el uso de fuentes de en
 
 III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los programas de ordenamiento territorial y desarrollo urbano y programas de ordenamiento ecológico regional y local;
+IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los programas de ordenamiento territorial y desarrollo urbano, y programas de ordenamiento ecológico regional y local, para evitar emisiones contaminantes a la atmósfera en zonas urbanas;
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -1485,13 +1497,17 @@ VIII. Dar aviso inmediato a la autoridad competente en caso de descompostura o f
 
 IX. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en la presente Ley y sus reglamentos;
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal, y
+X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal;
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
-XI. Generar un programa de planeación estratégica de corto, mediano y largo plazo para reducir los niveles de contaminación atmosférica.
+XI. Generar un programa de planeación estratégica de corto, mediano y largo plazo para reducir los niveles de contaminación atmosférica, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+XII. Sujetarse a las disposiciones que emitan el Estado y los municipios para evitar la quema de cualquier tipo de residuo sólido o líquido, previstas en la fracción XI del artículo 74 de esta Ley.
 
 Las empresas públicas, las privadas y los particulares en general que pretendan realizar el cambio de sus sistemas de combustión por el uso de combustibles más limpios como el gas natural, deberán comunicarlo previamente a la SEGAM, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
 
@@ -1586,6 +1602,10 @@ La SEGAM, posterior a los procedimientos señalados en este Ordenamiento, en su 
 III. Expedir anualmente el Programa Estatal de Verificación Vehicular, y
 
 IV. Las demás que le correspondan de conformidad con este Ordenamiento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+
+ARTICULO 83 BIS. En materia de prevención y control de la contaminación atmosférica producida por fuentes fijas, la SEGAM deberá emitir la Norma Técnica Ecológica Estatal, en la cual establezca disposiciones y lineamientos de carácter técnicos que deben reunir los sitios destinados a la instalación y reubicación, en su caso de aquellos lugares en los que se elaboren o producen elementos de construcción de tipo como ladrillos y demás similares, con base en lo dispuesto por el párrafo segundo del artículo 4° de esta Ley.
 
 ###### ARTICULO 84.
 
@@ -3760,5 +3780,13 @@ P.O. 15 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0362.- SE REFORMAN LOS ARTÍCULOS 109 EN SU FRACCIÓN IV Y 175 EN SU PÁRRAFO PRIMERO; Y ADICIONA EL ARTÍCULO 175 BIS, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 305 EN SU PÁRRAFO ÚLTIMO Y 310, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0572.- SE REFORMAN LOS ARTÍCULOS, 12 EN SU FRACCIÓN IV, 45 EN SU FRACCIÓN IV, 47 EN SU FRACCIÓN IV Y 75 EN SUS FRACCIONES X Y XI; Y ADICIONA A LOS ARTÍCULOS, 4° EL PÁRRAFO TERCERO Y 75 LA FRACCIÓN XII, Y EL ARTÍCULO 83 BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
