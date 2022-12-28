@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-el-desarrollo-economico-sostenible-del-estado-de-13917
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-16"
-last_updated: "2019-11-16"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 16 de noviembre de 2019.
 
@@ -507,7 +507,9 @@ V. Por disposición legal.
 
 El patrimonio del fideicomiso de administración e inversión denominado Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco, se integrará con:
 
-I. Las aportaciones anuales que efectúe el Gobierno del Estado de Tabasco, que serán del 20% de la recaudación del Impuesto Sobre Nóminas que obtenga el Estado, por la aplicación del 2.5% que establece la fracción II del artículo 30 de la Ley de Hacienda del Estado de Tabasco. Exceptuándose las cantidades que paguen los municipios, sus órganos y entidades;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+I. Las aportaciones anuales que, en su caso, efectúe el Gobierno del Estado de Tabasco, de conformidad con la disponibilidad presupuestaria, que podrán ser de hasta el 20% de la recaudación del Impuesto Sobre Nóminas que obtenga el Estado, por la aplicación del 2.5% que establece la fracción II del artículo 30 de la Ley de Hacienda del Estado de Tabasco; exceptuándose las cantidades que paguen los municipios, sus órganos y entidades;
 
 II. En su caso con aportaciones de entidades públicas o privadas;
 
@@ -608,3 +610,125 @@ SECRETARIO DE GOBIERNO
 GUILLERMO ARTURO DEL RIVERO LEÓN
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE “SE REFORMA: LA FRACCIÓN I, DEL ARTÍCULO 37 DE LA LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintitrés, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 no contempla los recursos refrendados del ejercicio fiscal 2022, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2023.
+
+QUINTO. Lo dispuesto en el artículo 12 fracción IV, de la Ley de Hacienda del Estado de Tabasco, será aplicable a las cesiones de derecho o endosos que se realicen a facturas o comprobantes que amparen la propiedad de bien mueble a partir del ejercicio fiscal 2023.
+
+SEXTO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio del 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2023; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2023, y deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo de pago
+
+Fiscal
+
+Derecho de refrendo 20% 01 al 31 de enero de 2023
+
+anual de placas, 15% 2023 01 al 28 de febrero de 2023.
+
+tarjeta de circulación 10% 01 al 31 de marzo de 2023.
+
+y calcomanías. 5% 01 al 30 de abril de 2023.
+
+SÉPTIMO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placa y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, vigente, causados en los ejercicios anteriores al 2023; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Multas 50% 01 de enero
+
+al 30 de
+
+Recargos 50% abril de
+
+2023.
+
+Actualización 50%
+
+Honorarios de 30%
+
+notificación y
+
+gastos
+
+de ejecución
+
+Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+OCTAVO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+NOVENO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2023, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO SEGUNDO. El pago del refrendo anual para el ejercicio 2023 a que se refiere (sic) artículo 79, fracción II, inciso B), subinciso (o), de la Ley de Hacienda del Estado de Tabasco, se cobrará de la siguiente manera:
+
+CONCEPTO UMA PERIODO DE PAGO
+
+Refrendo anual de la
+
+licencia de
+
+funcionamiento
+
+a que se refiere 400.00 Del 1 al 31 de enero de 2023.
+
+el artículo 79,
+
+fracción II, inciso B),
+
+sub-inciso (o), de la
+
+Ley de Hacienda
+
+del Estado de
+
+Tabasco, para
+
+el ejercicio 2023.
+
+A partir del 1 de febrero de 2023, a los licenciatarios que no efectúen el pago del refrendo antes señalado, se les aplicará lo establecido en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco y su Reglamento, sin perjuicio de los recargos, actualizaciones, gastos de ejecución y honorarios que en su caso se generen, de conformidad con el Código Fiscal del Estado de Tabasco.
