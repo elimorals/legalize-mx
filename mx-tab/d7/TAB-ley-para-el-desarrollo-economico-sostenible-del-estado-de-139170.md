@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-el-desarrollo-economico-sostenible-del-estado-de-13917
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-16"
-last_updated: "2019-11-16"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,640 +21,714 @@ state: "TAB"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO SOSTENIBLE DEL ESTADO DE TABASCO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO
 
-ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2022.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2019 (ABROGADO).
+Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 16 de noviembre de 2019.
 
-Estatuto publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 19 de enero de 2016.
+DECRETO 153
 
-ACUERDO por el que se expide el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+ADÁN AUGUSTO LÓPEZ HERNÁNDEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL; A SUS HABITANTES SABED:
 
-Al margen izquierdo un logotipo, que dice: Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
-NUVIA MAGDALENA MAYORGA DELGADO, Directora General de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, con fundamento en los artículos 22, fracción I de la Ley Federal de las Entidades Paraestatales, 9, fracción XI y 11, fracción XII de la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, y
+LA SEXAGÉSIMA TERCERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-CONSIDERANDO
+ANTECEDENTES
 
-Que con fecha 21 de mayo de 2003, se publicó en el Diario Oficial de la Federación la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, la cual prevé, en el artículo 9, fracción XI, que la Junta de Gobierno aprobará el Estatuto Orgánico de la Comisión que regule las facultades de cada unidad administrativa;
+[...]
 
-Que el Plan Nacional de Desarrollo 2013-2018, publicado en el Diario Oficial de la Federación el 20 de mayo de 2013, establece como Meta Nacional, un México Incluyente, cuya estrategia 2.2.3 establece fomentar el bienestar de los pueblos y comunidades indígenas, fortalecer su proceso de desarrollo social y económico, respetando las manifestaciones de su cultura y el ejercicio de sus derechos.
+DÉCIMO.- De conformidad a lo dispuesto por el artículo 36, fracción I, de la Constitución Política del Estado Libre y Soberano de Tabasco, este Congreso del Estado se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el presente:
 
-Que el Programa para un Gobierno Cercano y Moderno 2013-2018, publicado el 30 de agosto de 2013, establece como objetivo optimizar el uso de los recursos en la Administración Pública Federal, cuya estrategia 3.3 establece orientar las estructuras orgánicas y ocupacionales hacia los objetivos estratégicos, lo cuales consisten en evitar la duplicidad de funciones, la eliminación de plazas de mandos medios y superiores cuya existencia no tenga justificación y las modificaciones organizacionales que consideren funciones transversales susceptibles a compactarse, entre otros;
+DECRETO 153
 
-Que el Programa Especial de los Pueblos Indígenas 2014-2018, la Comisión estableció dos acciones inmediatas de la más alta prioridad para fortalecer su presencia, ampliar su cobertura e incrementar el aprovechamiento de los recursos que el Gobierno de la República dirige sistemáticamente a los pueblos y comunidades indígenas de nuestro país, la primera consistió en reestructurar las reglas de operación y los lineamientos de los programas a cargo de la Institución, y la segunda está dirigida a modernizar nuestra estructura administrativa;
+###### ARTÍCULO ÚNICO.
 
-Que en la Cuarta sesión ordinaria de la H. Junta de Gobierno de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas celebrada el 17 de diciembre de 2015, el citado cuerpo colegiado aprobó el acuerdo número 5.4ª.15, “6. Aprobación del Estatuto Orgánico y de la modificación de la Estructura Orgánica, Ocupacional y Salarial de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas”, de conformidad con lo dispuesto por los artículos 58, fracción VIII de la Ley Federal de las Entidades Paraestatales, a través del cual autoriza las modificaciones propuestas al Estatuto Orgánico del Organismo, así como a realizar las gestiones necesarias ante las instancias correspondientes para lograr su publicación en el Diario Oficial de la Federación;
+Se expide la Ley para el Desarrollo Económico Sostenible del Estado de Tabasco, para quedar como sigue:
 
-Que la Comisión Nacional para el Desarrollo de los Pueblos Indígenas recibió el día 22 de diciembre de 2015, el oficio COFEME/15/4585 de la Comisión Federal de Mejora Regulatoria (COFEMER), por el que emitió resolución favorable respecto a la exención de la Manifestación de Impacto Regulatorio (MIR) al Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, por lo que he tenido a bien publicar el siguiente:
+LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO
 
-ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
-
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-### CAPÍTULO ÚNICO
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 1.
 
-El objeto del presente Estatuto Orgánico es regular la estructura y funciones de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, organismo descentralizado, no sectorizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, que goza de autonomía operativa, técnica, presupuestal y administrativa.
+Las disposiciones de esta Ley son de orden público, interés social y observancia general en el estado de Tabasco, en los términos previstos por el artículo 76 de la Constitución Política del Estado Libre y Soberano de Tabasco.
 
-El objeto de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, está descrito en los artículos 2o. de la Constitución Política de los Estados Unidos Mexicanos, así como 2 y 3 de la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+Los municipios concurrirán en términos de la presente Ley y de sus propias disposiciones, en la observancia y aplicación de la misma.
 
 ###### Artículo 2.
 
-Para los efectos de este ordenamiento, se entenderá por:
+Para efectos de esta Ley se entenderá:
 
-I. Comisión: La Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+I. Actividad Económica: el conjunto de acciones para la producción, distribución y consumo de bienes y servicios;
 
-II. Consejo: El Consejo Consultivo de la Comisión;
+II. Análisis Económico: el método para separar, examinar y evaluar de forma cuantitativa y cualitativa, las interrelaciones entre las distintas Unidades Económicas, así como los fenómenos y situaciones que de ella derivan, tanto al interior de la economía, como en su relación con el exterior;
 
-III. Delegaciones: Unidades Administrativas representantes de la Comisión en las Entidades Federativas;
+III. Cadenas Productivas: cada una de las etapas del proceso de producción de un bien o servicio que comprende la obtención de sus insumos originarios, su transformación, venta, distribución y consumo;
 
-IV. Director General: El Titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+IV. Competitividad: la capacidad de las empresas de producir bienes y servicios de forma eficiente, haciendo que sus productos sean atractivos, tanto dentro como fuera del país;
 
-V. Entidades: Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos que tengan el carácter de entidad paraestatal a que se refieren los artículos 3, 45, 46 y 47 de la Ley Orgánica de la Administración Pública Federal y 2o. de la Ley Federal de las Entidades Paraestatales;
+V. Consejo: el Consejo Consultivo para el Desarrollo Sostenible del Estado de Tabasco;
 
-VI. Estatuto: El Estatuto Orgánico de la Comisión;
+VI. Desarrollo Económico: el cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie el mejoramiento en la calidad de vida de la población;
 
-VII. Junta de Gobierno: El Órgano de Gobierno de la Comisión;
+VII. Empresa: en singular o plural, es la unidad económica de producción y distribución de bienes y servicios;
 
-VIII. Ley: La Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+VIII. Industrialización: el proceso donde se producen predominantemente bienes manufacturados con un mayor valor agregado;
 
-IX. Presidente: El Presidente de la Junta de Gobierno, quien será designado por el Titular del Ejecutivo Federal entre los miembros de ésta;
+IX. Ley: la Ley para el Desarrollo Económico Sostenible del Estado de Tabasco;
 
-X. Principios Institucionales: Son los principios de transversalidad de las políticas públicas, la promoción de la no discriminación, la consulta y el enfoque de género para el desarrollo integral y sustentable de los pueblos y comunidades indígenas, observando el carácter multiétnico y pluricultural de la Nación, así como fomentar el desarrollo sustentable para el uso racional de los recursos naturales de las regiones indígenas, sin arriesgar el patrimonio de las generaciones futuras;
+X. PLED: el Plan Estatal de Desarrollo;
 
-XI. Prosecretario: El Prosecretario de la Junta de Gobierno;
+XI. PND: el Plan Nacional de Desarrollo;
 
-XII. Secretario: La persona que tenga a cargo la secretaría de la Junta de Gobierno;
+XII. Políticas Sectoriales: las dirigidas a promover el desarrollo económico de sectores específicos de la economía nacional;
 
-XIII. Secretario Técnico: La persona que tenga a cargo la secretaría del Consejo, y
+XIII. Políticas Transversales: las orientadas a generar un mayor desarrollo económico en dos o más sectores o regiones de la economía nacional;
 
-XIV. Unidades Administrativas: Los órganos de la estructura organizacional a los cuales se les confieren funciones específicas que los distinguen de los demás en la Comisión.
+XIV. Reglamento: el Reglamento de la Ley para el Desarrollo Económico Sostenible del Estado de Tabasco;
 
-## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y LAS FUNCIONES
+XV. Secretaría: la Secretaría para el Desarrollo Económico y la Competitividad;
+
+XVI. Secretario: el o la titular de la Secretaría para el Desarrollo Económico y la Competitividad;
+
+XVII. Sistema: el Sistema de Información Económica de Tabasco;
+
+XVIII. UMA: la Unidad de Medida y Actualización, determinada por el Instituto Nacional de Geografía y Estadística; y
+
+XIX. Unidades Económicas: las reconocidas en el Directorio Estadístico Nacional de Unidades Económicas del Instituto Nacional de Estadística y Geografía (INEGI).
 
 ###### Artículo 3.
 
-Para el cumplimiento de su objeto, la Comisión contará con:
+Son objetivos de esta Ley:
 
-I. La Junta de Gobierno;
+I. Promover la implementación, supervisión, evaluación y reorientación de las políticas públicas para el desarrollo económico sostenible del Estado en las dimensiones local, regional, nacional e internacional, alineados al PND y al PLED;
 
-II. La Dirección General, y
+II. Diseñar e implementar políticas públicas en materia de competitividad y productividad;
 
-III. El Consejo.
+III. Impulsar actividades económicas encaminadas a promover la industrialización y consolidación de los productos y servicios en el Estado, en mejoramiento de la calidad de vida de los tabasqueños;
+
+IV. Fomentar el uso de energías alternativas entre las Unidades Económicas;
+
+V. Vincular a las Unidades Económicas con las instituciones educativas públicas y privadas, locales, nacionales e internacionales;
+
+VI. Constituir el Sistema de Información Económica de Tabasco;
+
+VII. Impulsar el uso de las Tecnologías de la Información y Comunicación en las actividades económicas;
+
+VIII. Fomentar la responsabilidad social empresarial entre las Unidades Económicas;
+
+IX. Fijar los criterios para la certificación de las actividades económicas empresariales;
+
+X. Promover la realización de eventos para exponer bienes y servicios;
+
+XI. Incentivar el empleo de mujeres, jóvenes, personas con discapacidad y de grupos sociales en situación de vulnerabilidad; y
+
+XII. Propiciar la inversión nacional y extranjera en el Estado para atraer capital productivo.
 
 ###### Artículo 4.
 
-La Junta de Gobierno tendrá las siguientes atribuciones:
+La aplicación de esta Ley corresponderá al Poder Ejecutivo del Estado a través de la Secretaría, y a los municipios mediante sus Direcciones de Fomento Económico y Turismo.
 
-I. Autorizar, en su caso, la distribución del total de los ingresos excedentes que obtenga la Comisión, para el desarrollo de los pueblos y comunidades indígenas;
-
-II. Aprobar los lineamientos y criterios en materia indígena para el diseño y operación de los programas y proyectos de la Administración Pública Federal;
-
-III. Aprobar los mecanismos de colaboración entre las dependencias y entidades de la Administración Pública Federal, siempre que dos o más concurran en la ejecución de acciones de gobierno en materia indígena;
-
-IV. Autorizar a la Comisión para efecto de que inicie las gestiones necesarias ante las instancias competentes, a fin de instrumentar y operar nuevos programas, proyectos y acciones para el desarrollo de los pueblos y comunidades indígenas, cuando no correspondan a las atribuciones de otras dependencias o entidades o, en su caso, en colaboración con éstas;
-
-V. Nombrar de entre sus integrantes, a quienes deban participar en las sesiones del Consejo Consultivo, cuando dicha participación se considere necesaria;
-
-VI. Invitar, a iniciativa de sus integrantes o del Director General, a representantes del Consejo Consultivo, cuando dicha participación se estime necesaria para las deliberaciones sobre los temas de su agenda;
-
-VII. Conocer las recomendaciones y propuestas del Consejo Consultivo;
-
-VIII. Conocer los informes de evaluación e impacto de las políticas públicas y de la aplicación de los programas y proyectos de gobierno en materia indígena que le presente el Director General y proponer, en consecuencia, las medidas pertinentes. Para ello, cuidará la observancia de lo dispuesto en los artículos 1o., 2o., 18 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-IX. Aprobar las adecuaciones presupuestarias a los programas y proyectos de la Comisión. Aquellas adecuaciones que por disposiciones legales, reglamentarias o normativas les resulten aplicables, deberán someterse adicionalmente a la autorización de la Secretaría de Hacienda y Crédito Público, y
-
-X. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y otras disposiciones aplicables.
+Los reglamentos municipales que se emitan para dar cumplimiento a lo dispuesto por la Ley deberán especificar los incentivos y beneficios fiscales que se podrán otorgar a las Unidades Económicas y empresas legalmente constituidas.
 
 ###### Artículo 5.
 
-La Junta de Gobierno se integrará de conformidad con lo señalado en la Ley y para su funcionamiento contará con un Presidente, un Secretario y un Prosecretario.
+Se aplicarán supletoriamente:
 
-En ausencia del Presidente, las sesiones serán presididas por otro integrante de la Junta de Gobierno que sea elegido por mayoría de entre sus miembros. Adicionalmente, participarán también en las sesiones de la Junta de Gobierno el Secretario y el Prosecretario, que serán nombrados, el primero, a propuesta del Presidente de la Junta de Gobierno y el segundo, a propuesta del Director General, ambos únicamente con derecho a voz.
+I. El Código de Comercio;
 
-### CAPÍTULO I. DE LOS ÓRGANOS DE LA COMISIÓN
+II. La Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional;
+
+III. La Ley de la Economía Social y Solidaria, reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía;
+
+IV. La Ley Federal de Competencia Económica; y
+
+V. La Ley General de Sociedades Mercantiles.
+
+### Capítulo II. Del Consejo Consultivo para el Desarrollo Sostenible del Estado
 
 ###### Artículo 6.
 
-Corresponde al Presidente:
-
-I. Instalar, presidir, y levantar las sesiones;
-
-II. Diferir o suspender la reunión por causas que pudieran afectar su celebración o el desarrollo de la misma y que a su juicio así lo ameriten;
-
-III. Resolver en caso de empate con su voto de calidad;
-
-IV. Firmar las actas de las sesiones, y
-
-V. Proponer a la Junta de Gobierno el nombramiento del Secretario.
+El Consejo es el órgano colegiado auxiliar del Poder Ejecutivo del Estado, que tiene por objeto analizar, asesorar, opinar y en su caso proponer acciones, políticas y proyectos que impulsen el Desarrollo Económico sostenible del Estado, asegurando la participación de las Unidades Económicas que intervienen.
 
 ###### Artículo 7.
 
-El Secretario tendrá las siguientes funciones:
+El Consejo se integra por:
 
-I. Llevar el orden del día en las sesiones de la Junta de Gobierno;
+I. El o la titular de la Secretaría, quien lo presidirá;
 
-II. Dirigir y moderar las intervenciones;
+II. El o la titular de la Secretaría de Finanzas;
 
-III. Someter a consideración del pleno, los asuntos contenidos en el orden del día;
+III. El o la titular de la Secretaría para el Desarrollo Energético;
 
-IV. Presentar para su aprobación los proyectos de acuerdos, y
+IV. El o la titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
 
-V. Convocar a las sesiones de la Junta de Gobierno, cuando el Director General se vea imposibilitado para hacerlo.
+V. El o la titular de la Comisión Estatal de Mejora Regulatoria;
+
+VI. El o la titular de la Subsecretaría de Promoción y Atracción de Inversiones, quien fungirá como secretario técnico;
+
+VII. El diputado o la diputada que presida la Comisión de Fomento y Desarrollo Industrial, Económico, Artesanal, Comercial y Turístico;
+
+VIII. El o la presidente en funciones del Consejo Coordinador Empresarial de Tabasco; y
+
+IX. Dos representantes de instituciones académicas públicas o privadas.
 
 ###### Artículo 8.
 
-El Prosecretario tendrá las siguientes funciones:
-
-I. Suplir las ausencias temporales del Secretario;
-
-II. Proponer el calendario de sesiones;
-
-III. Proponer el orden del día para las sesiones, integrar la documentación que se presentará en la sesión y enviar la convocatoria que emita el Director General y los documentos respectivos con la antelación debida a los integrantes de la Junta de Gobierno, Secretario, Comisarios Públicos e invitados;
-
-IV. Elaborar el acta correspondiente de cada sesión y recabar la firma de conformidad del Presidente, del Secretario y de los miembros asistentes;
-
-V. Conservar la documentación soporte de los asuntos tratados en la Junta de Gobierno por el término que señalan las disposiciones legales aplicables;
-
-VI. Expedir las constancias de los acuerdos que se tomen en el pleno de la Junta de Gobierno, previo a la aprobación del acta para los trámites que se requieran;
-
-VII. Dar seguimiento a los acuerdos de la Junta de Gobierno hasta su conclusión;
-
-VIII. Integrar los informes que el Director General deba presentar a la Junta de Gobierno, y
-
-IX. Comunicar a las Unidades Administrativas responsables, los acuerdos del Órgano de Gobierno que les competa atender, dar seguimiento a éstos e informar a la Junta de Gobierno hasta su conclusión.
+Las sesiones del Consejo serán convocadas por el secretario técnico, previo acuerdo con el o la presidente, o a solicitud de alguno de los miembros del Consejo. El quórum legal para sesionar será por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por mayoría de votos de los miembros presentes, teniendo el o la presidente voto de calidad, en caso de empate.
 
 ###### Artículo 9.
 
-Además de las atribuciones previstas en los artículos 22 y 59 de la Ley Federal de las Entidades Paraestatales y 11 de la Ley, el Titular de la Comisión tendrá las siguientes:
-
-I. Proponer a la Junta de Gobierno, la distribución del total de los recursos adicionales que se aprueben, para el desarrollo de los pueblos y comunidades indígenas;
-
-II. Proponer a la Junta de Gobierno las adecuaciones presupuestarias a que se refiere el artículo 4, fracción IX de este Estatuto;
-
-III. Proponer a la Junta de Gobierno los criterios y las disposiciones para racionalizar el gasto administrativo y autorizar las erogaciones identificadas como gasto sujeto a criterios de racionalidad;
-
-IV. Presentar a la Junta de Gobierno la propuesta de administración desconcentrada de funciones, programas y recursos;
-
-V. En coordinación con la Secretaría de Hacienda y Crédito Público, proponer a las dependencias y entidades de la Administración Pública Federal los lineamientos y criterios para orientar los procesos de definición de sus presupuestos anuales que se reflejarán en las previsiones de gasto que correspondan a la atención de la población indígena del Presupuesto de Egresos de la Federación;
-
-VI. Instrumentar y operar los programas, proyectos y acciones de la Comisión, cuando no correspondan a otras dependencias o entidades o, en su caso, en colaboración con éstas;
-
-VII. Someter a la aprobación de la Junta de Gobierno los lineamientos y criterios que serán propuestos para el diseño y operación de los programas y proyectos de la Administración Pública Federal en materia indígena, observando los Principios Institucionales;
-
-VIII. Proponer a la Junta de Gobierno los mecanismos de colaboración entre las dependencias y entidades, siempre que dos o más concurran en la ejecución de acciones de gobierno en materia indígena;
-
-IX. Celebrar los convenios y acuerdos de colaboración, coordinación y concertación con las dependencias y entidades de la Administración Pública Federal, con los gobiernos estatales y municipales y con las organizaciones de los sectores social y privado, respectivamente, para llevar a cabo programas, proyectos y acciones conjuntos en favor de los pueblos y comunidades indígenas, así como asesorar y apoyar la gestión de dichas comunidades ante las instancias competentes;
-
-X. Promover los derechos de los indígenas ante las autoridades administrativas y judiciales en los diferentes órdenes de gobierno;
-
-XI. Establecer las bases para integrar y operar los sistemas de información y de consulta indígenas, de acuerdo a lo dispuesto por las fracciones IX y XVI del artículo 2 de la Ley;
-
-XII. Designar al Secretario Técnico del Consejo;
-
-XIII. Proponer al Presidente de la Junta de Gobierno, la invitación de uno o más representantes del Consejo para participar en sus sesiones, cuando así lo estime conveniente;
-
-XIV. Incorporar tecnologías que promuevan y fomenten la eficacia e impacto de las políticas y acciones de la Comisión, mediante un programa de innovación tecnológica;
-
-XV. Presentar a la Junta de Gobierno los informes de evaluación e impacto de las políticas públicas y de la aplicación de los programas y proyectos de gobierno en materia indígena y proponer, en consecuencia, las medidas pertinentes. Para ello, cuidará la observancia de lo dispuesto en los artículos 1o., 2o., 18 y 115 de la Constitución Política de los Estados Unidos Mexicanos;
-
-XVI. Acordar con los titulares de las Unidades Administrativas de la Comisión, los asuntos de sus respectivas competencias;
-
-XVII. Con sujeción a la normatividad aplicable y con la intervención que corresponda a la Secretaría de Relaciones Exteriores, participar en organismos, foros e instrumentos internacionales en la materia;
-
-XVIII. Participar en las reuniones y negociaciones internacionales y promover el cumplimiento de tratados y acuerdos internacionales suscritos por México, de conformidad con los objetivos establecidos en su Ley;
-
-XIX. Suscribir acuerdos, convenios de colaboración y declaraciones conjuntas que la Comisión promueva ante instituciones homólogas de otros países, organismos, agencias de cooperación y fundaciones internacionales, de acuerdo con la normativa vigente en la materia y en coordinación con la Secretaría de Relaciones Exteriores, en su caso;
-
-XX. Someter a aprobación de la Junta de Gobierno los proyectos de reformas del Estatuto;
-
-XXI. Autorizar, dirigir, coordinar y verificar las actividades de comunicación social, de manera que las difusiones o transmisiones de la Comisión se ajusten a los lineamientos normativos dictados por las autoridades competentes, y
-
-XXII. Las demás que señalen la normatividad aplicable.
+Todos los miembros del Consejo podrán designar mediante oficio a un suplente. El cargo como miembro del Consejo será honorífico y por lo tanto, no remunerado.
 
 ###### Artículo 10.
 
-El Consejo se constituirá por los representantes a que se refiere el artículo 12 de la Ley y tendrá las funciones que le confiera y apruebe la Junta de Gobierno, sesionará de conformidad con lo establecido en el artículo 13 de la Ley y contará con una Secretaría Técnica del Consejo cuya persona titular será designada por el Director General.
+El o la presidente del Consejo podrá convocar en calidad de invitados especiales, con derecho a voz, pero sin voto, a los servidores públicos y a las instituciones privadas que por sus funciones se considere conveniente que asistan a las sesiones del Consejo.
 
 ###### Artículo 11.
 
-Para el cumplimiento del objeto y funciones de la Comisión, el Director General contará con las áreas de apoyo que requiera, mismas que se especificarán en el Manual General de Organización de la Comisión y con las siguientes Unidades Administrativas centrales y las que se ubiquen en el interior de la República:
+Son atribuciones del Consejo las siguientes:
 
-A. Coordinaciones Generales:
+I. Impulsar la participación ciudadana democrática y plural en las actividades económicas;
 
-I. De Planeación y Evaluación;
+II. Promover la generación de nuevas fuentes de empleos;
 
-II. De Infraestructura;
+III. Promover, impulsar y gestionar la elaboración de análisis económicos anuales del Estado;
 
-III. De Fomento a la Producción y Productividad Indígena;
+IV. Proponer el fortalecimiento de instrumentos financieros para el desarrollo y crecimiento de la micro, pequeña y mediana empresa;
 
-IV. De Derechos Indígenas;
+V. Proponer proyectos y programas para el asesoramiento de las Unidades Económicas;
 
-V. De Patrimonio Cultural e Investigación;
+VI. Impulsar la integración de grupos interrelacionados empresarialmente con estrategias para obtener beneficios comunes;
 
-VI. De Asuntos Jurídicos;
+VII. Proponer la implementación de incentivos a las Unidades Económicas de los sectores productivos;
 
-VII. De Delegaciones y Concertación; y
+VIII. Proponer y promover proyectos para empoderar el potencial logístico del Estado;
 
-VIII. De Administración y Finanzas.
+IX. Promover y proponer acciones en materia de competitividad y productividad;
 
-B. Delegaciones de la Comisión en las Entidades Federativas
+X. Proponer y promover acciones en materia de Mejora Regulatoria, simplificación de trámites y servicios, así como la eficiencia en la gestión pública gubernamental;
 
-La Comisión contará con las demás áreas que figuren en su estructura orgánica, cuyas funciones deberán especificarse y regularse en el Manual General de Organización de la Comisión.
+XI. Impulsar políticas sectoriales y transversales en las actividades económicas estatales;
 
-Adicionalmente, la Comisión contará con un Órgano Interno de Control, así como con un Órgano de Vigilancia que se regirán de conformidad a lo dispuesto en los artículos 23 y 24 de este Estatuto.
+XII. Diseñar y proponer estrategias y acciones para atraer inversión y coinversión;
+
+XIII. Promover líneas de acción para impulsar el comercio exterior;
+
+XIV. Asesorar en la constitución del Registro Único de Empresas;
+
+XV. Asesorar, opinar y proponer modificaciones a los incentivos que otorgue la Secretaría;
+
+XVI. Fomentar y promover la implementación de las Tecnologías de la Información y Comunicación en las actividades económicas;
+
+XVII. Emitir opinión sobre la demanda e instalación de unidades industriales, centros comerciales y de servicios;
+
+XVIII. Impulsar la investigación, el desarrollo tecnológico y la competitividad de las empresas establecidas en el Estado;
+
+XIX. Proponer la integración de grupos de trabajos especializados para el desarrollo y crecimiento económicos;
+
+XX. Proponer la elaboración del Código de Ética y Reglas de Integridad para la Responsabilidad Social Empresarial;
+
+XXI. Proponer la implementación de proyectos y programas de vinculación educativa con los sectores productivos;
+
+XXII. Promover acuerdos entre las Unidades Económicas y las instituciones educativas; y
+
+XXIII. Impulsar el involucramiento temprano de estudiantes de la educación media y superior en las actividades económicas.
+
+Las propuestas que el Consejo genere en materia de Mejora Regulatoria a que refiere la fracción X del presente artículo, deberán estar alineadas a las que emita el Consejo de Mejora Regulatoria del Estado de Tabasco.
 
 ###### Artículo 12.
 
-El Director General será suplido en sus ausencias por los titulares de la Coordinación General de Planeación y Evaluación, de la Coordinación General de Infraestructura, de la Coordinación General de Fomento a la Producción y Productividad Indígena, de la Coordinación General de Derechos Indígenas, de la Coordinación General de Patrimonio Cultural e Investigación, de la Coordinación General de Asuntos Jurídicos, de la Coordinación General de Delegaciones y Concertación y de la Coordinación General de Administración y Finanzas, en ese orden.
+El Reglamento determinará la participación de los empresarios, agrupaciones empresariales y de las instituciones educativas públicas y privadas en el Consejo, así como la distribución de competencia y las atribuciones específicas de sus miembros.
 
-Los demás funcionarios y servidores públicos serán suplidos en sus ausencias por las personas que ocupen los puestos inmediatos inferiores que de ellos dependan.
-
-### CAPÍTULO II. DE LAS UNIDADES ADMINISTRATIVAS
+### Capítulo III. Del Sistema de Información Económica de Tabasco
 
 ###### Artículo 13.
 
-A los titulares de las Coordinaciones Generales y de las Delegaciones de la Comisión a las que hace referencia el artículo 11 del Estatuto, les corresponden las siguientes atribuciones:
-
-I. Promover el respeto a los derechos humanos de la población indígena, de igualdad y la no discriminación, transparencia, acceso a la información, fomentando el ejercicio de rendición de cuentas, para el desarrollo de los pueblos y comunidades indígenas;
-
-II. Representar a la Comisión en los actos o en las comisiones que el Director General determine, a quien mantendrán informado sobre el desarrollo. ejecución y conclusión de los mismos;
-
-III. Celebrar convenios, contratos, acuerdos, cartas de intención y demás instrumentos jurídicos y administrativos necesarios para el cumplimiento de la normatividad jurídica aplicable y en el ámbito de sus atribuciones, así como emitir los acuerdos y las autorizaciones que les correspondan;
-
-IV. Dirigir y coordinar el funcionamiento de las Unidades Administrativas de su adscripción, y en su caso, apoyar su evaluación;
-
-V. Expedir copias certificadas de los documentos que integran los expedientes relativos a los asuntos de su competencia;
-
-VI. Promover recursos financieros o en especie, de organismos internacionales, dependencias, entidades de los tres órdenes de gobierno, personas físicas y morales, para fortalecer los programas, proyectos y acciones Institucionales;
-
-VII. Informar y acordar con el Director General, los asuntos de su competencia, y
-
-VIII. Las demás que le encomiende el Director General en términos de las disposiciones legales aplicables, así como las que competan a las Unidades Administrativas de su adscripción.
-
-Para el despacho de sus funciones, se auxiliarán en el ejercicio de sus facultades por el personal que se requiera para el desarrollo y cumplimiento de las mismas.
+El Sistema es la herramienta tecnológica en la que se compila la información económica del Estado con el objeto de contar con información actualizada para la toma de decisiones de las Unidades Económicas, el cual tendrá carácter público y estará vinculado a un sitio de internet con datos abiertos.
 
 ###### Artículo 14.
 
-Compete a la Coordinación General de Planeación y Evaluación:
-
-I. Definir y coordinar los procesos y la participación de las Unidades Administrativas de la Comisión en la planeación institucional, a fin de promover el desarrollo integral y sustentable de la población indígena;
-
-II. Establecer los modelos de planeación de las políticas, programas y estrategias de coordinación interinstitucional con las dependencias y entidades de la Administración Pública Federal, estatales y municipales, para la instrumentación de acciones orientadas al desarrollo integral y sustentable de los pueblos y comunidades indígenas;
-
-III. Coordinar acciones que garanticen la alineación de los objetivos y metas institucionales a las prioridades nacionales establecidas en el Plan Nacional de Desarrollo, el Programa Especial de los Pueblos Indígenas, así como el Programa Anual de Trabajo;
-
-IV. Proponer a la Dirección General para su autorización los criterios y mecanismos de coordinación para la planeación, seguimiento y evaluación de la operación y resultados de los programas, acciones y estrategias institucionales, así como de los programas anuales de trabajo de las Unidades Administrativas que integran la Comisión;
-
-V. Coordinar y dar seguimiento al diseño de criterios que permitan orientar los presupuestos anuales de las dependencias y entidades de la Administración Pública Federal focalizados hacia la población indígena, etiquetados en el correspondiente anexo del Presupuesto de Egresos de la Federación y previsto en el artículo 2, fracción XVII de la Ley;
-
-VI. Definir los lineamientos para la participación de las Unidades Administrativas de la Comisión para la integración y elaboración de los informes de actividades y resultados de la acción institucional e interinstitucional, de conformidad con las disposiciones normativas aplicables;
-
-VII. Realizar las evaluaciones institucionales de las políticas, los programas, los proyectos y las acciones a cargo de la Comisión, garantizando el cumplimiento a los objetivos y metas establecidas en la planeación nacional;
-
-VIII. Establecer las acciones para el cumplimiento de los objetivos estratégicos y metas institucionales, a través del Sistema de Control Interno Institucional, la administración de riesgos y las acciones de simplificación regulatoria;
-
-IX. Establecer las directrices para la operación del Sistema de Información e Indicadores de la Comisión a fin de disponer de datos e información estadística y cartográfica que permita la identificación, cuantificación y caracterización de la población indígena de México;
-
-X. Establecer las acciones para el seguimiento de la gestión y resultados de la aplicación de los instrumentos de política de la Administración Pública Federal, orientados al desarrollo de los pueblos y comunidades indígenas, a fin de proponer las adecuaciones conceptuales, presupuestales, programáticas y operativas aplicables a la Comisión que se consideren pertinentes;
-
-XI. Determinar los criterios para la integración, elaboración y publicación del informe anual sobre los avances y resultados de las acciones de la Comisión y de la Administración Pública Federal, en materia de desarrollo de los pueblos y comunidades indígenas;
-
-XII. Definir los mecanismos institucionales respecto de contenidos, difusión de proyectos, estudios, investigaciones, evaluaciones y diagnósticos que se elaboren en las Unidades Administrativas de la Comisión;
-
-XIII. Definir los criterios y mecanismos de coordinación interinstitucional para compartir información, datos y cooperación técnica que soliciten las dependencias y entidades de la Administración Pública Federal;
-
-XIV. Establecer criterios en forma conjunta con la Coordinación General de Administración y Finanzas, para orientar los procesos de definición de los presupuestos y metas anuales de los programas presupuestarios de la Comisión;
-
-XV. Proponer a la Dirección General las políticas para coordinar la contratación, operación y supervisión de la evaluación y monitoreo de las acciones derivadas de la aplicación de los recursos de los programas presupuestales de la Comisión de conformidad con los criterios emitidos por las instancias competentes y la normatividad aplicable;
-
-XVI. Establecer, conforme a las disposiciones normativas aplicables, los lineamientos, criterios y procedimientos de carácter técnico que deban regir a las Unidades Administrativas para la operación del Comité de Mejora Regulatoria Interna, y presidir dicha instancia;
-
-XVII. Proponer esquemas para atender peticiones específicas que se planteen directamente a la Dirección General de la Comisión, para ordenar y determinar su nivel de prioridad, analizando pertinencia, oportunidad, focalización y disponibilidad de recursos presupuestales, regido previamente por criterios de factibilidad social y aportación al desarrollo comunitario y regional;
-
-XVIII. Apoyar en las acciones que realiza el Secretario Técnico del Consejo, y
-
-XIX. Apoyar en la coordinación y concertación de acciones encaminadas a la consulta a pueblos y comunidades indígenas cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente.
+La operación y actualización del Sistema estará a cargo de la Secretaría.
 
 ###### Artículo 15.
 
-Compete a la Coordinación General de Infraestructura:
+El Sistema tendrá los objetivos siguientes:
 
-I. Dirigir la programación, operación, control y seguimiento de los programas institucionales a su cargo para el desarrollo de acciones de infraestructura y vivienda indígena previo acuerdo con el Director General, de conformidad con la planeación institucional;
+I. Recopilar, capturar, procesar y analizar la información estadística y geográfica del Estado en materia económica;
 
-II. Determinar y autorizar la coordinación de acciones con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, para la atención de las necesidades de infraestructura básica y vivienda de los pueblos y comunidades indígenas;
+II. Integrar información generada por el sector público, privado y social en materia económica;
 
-III. Determinar los instrumentos normativos y procedimentales para instrumentar acciones de atención a demanda, planeación, operación, supervisión y monitoreo del programa a cargo, en materia de infraestructura básica y vivienda, que cumplan con los principios institucionales;
+III. Integrar un Registro Único de Empresas;
 
-IV. Coordinar acciones de asesoría a ciudadanos, comunidades y organizaciones indígenas en materia de infraestructura y vivienda para apoyarlas en sus gestiones ante las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal o Sector Privado, siempre y cuando no represente para la Comisión asumir responsabilidades o costos ante terceros;
+IV. Integrar información que permita la elaboración de una estadística de la economía formal e informal en el Estado;
 
-V. Proponer las estrategias para la coordinación de la Comisión con las distintas dependencias y entidades de la Administración Pública Federal, los gobiernos estatales y municipales y los integrantes de los sectores social y privado, cuyo propósito sea la concertación de proyectos y acciones dirigidos al desarrollo económico y social de la población indígena;
+V. Compilar información que permita realizar estudios especializados e investigación para el diagnóstico y análisis económico;
 
-VI. Determinar y autorizar la coordinación o concertación de acciones con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, sectores privado y social con el propósito de mejorar la calidad de vida de los pueblos y comunidades indígenas;
+VI. Intercambiar datos con sistemas o centros de información públicos o privados del país; y
 
-VII. Establecer y operar los mecanismos de seguimiento y verificación de los programas y acciones de colaboración y coordinación con dependencias y entidades de la Administración Pública Federal, los gobiernos estatales y municipales y los integrantes de los sectores social y privado;
-
-VIII. Verificar el cumplimiento de compromisos con dependencias y entidades, así como los gobiernos estatales y municipales, que garanticen la orientación de acciones y recursos hacia los pueblos y comunidades indígenas;
-
-IX. Promover y apoyar la operación de los programas y estrategias del gobierno federal en el marco de atención de los pueblos y comunidades indígenas, y
-
-X. Promover la actualización permanente y mejora continua de la normativa y reglas de operación que regulan el funcionamiento de los programas, proyectos y acciones a su cargo.
+VII. Difundir la información económica generada a través de medios electrónicos, impresos o magnéticos.
 
 ###### Artículo 16.
 
-Compete a la Coordinación General de Fomento a la Producción y Productividad Indígena:
+El Registro Único de Empresas al que se refiere la fracción III del artículo anterior, se conformará con la información que recaben los municipios y el Estado.
 
-I. Dirigir la programación, operación, control y seguimiento de los programas institucionales a su cargo para el desarrollo de acciones de producción y productividad indígena, de conformidad con la planeación institucional;
-
-II. Establecer mecanismos para el desarrollo de los programas y proyectos de su competencia, relacionados con la generación de ingresos monetarios y no monetarios de la población indígena, considerando el cumplimiento de los principios institucionales;
-
-III. Promover y difundir a través de los programas y acciones a su cargo, los esquemas de apoyo o de financiamiento preferenciales, incentivando la creación y desarrollo de empresas y proyectos productivos en pueblos y comunidades indígenas, fomentando el acompañamiento de iniciativas productivas que favorezcan la innovación, el aumento de la productividad, sustentabilidad económica y la comercialización de sus productos;
-
-IV. Impulsar la constitución y realización de proyectos y estrategias productivas que contribuyan a incrementar la infraestructura económica regional, y fortalezcan las capacidades productivas, organizativas y de comercialización de la población indígena, fomentando el aprovechamiento sustentable de sus recursos naturales promoviendo la competitividad comercial de sus productos elaborados, así como de los servicios turísticos que oferten;
-
-V. Establecer instrumentos conceptuales y metodológicos, para la operación de los programas, proyectos y acciones a su cargo;
-
-VI. Realizar, gestionar y coordinar por sí o a través de terceros las acciones de capacitación, asistencia técnica y promotoría social en apoyo a los proyectos productivos;
-
-VII. Elaborar los criterios para la utilización de marcas registradas que deriven de los programas a su cargo y de los productos que se generen por parte de los beneficiarios;
-
-VIII. Llevar a cabo las acciones de seguimiento y supervisión operativa de los programas y proyectos de su competencia, y
-
-IX. Realizar el seguimiento, la integración y el análisis de la información que permita elaborar los documentos sobre los avances de metas, cumplimiento de objetivos y generación de resultados de los programas, proyectos y acciones a su cargo.
+Para tales efectos los municipios contarán con un Registro Municipal de Empresas, cuya integración, operación y actualización se sujetará a las bases establecidas en el Reglamento.
 
 ###### Artículo 17.
 
-Compete a la Coordinación General Derechos Indígenas:
+El Reglamento establecerá los procedimientos, requisitos, uso y medios para la operación y funcionamiento del Sistema.
 
-I. Asesorar en materia de derechos indígenas al Director General, a las instancias competentes de los tres órdenes de gobierno y en su caso, proponer criterios y promover la observancia de estos derechos en las políticas públicas;
-
-II. Proponer e impulsar estrategias para el reconocimiento, vigencia y protección de los derechos humanos de la población indígena, entre otras acciones a través de la promoción de la celebración de convenios de colaboración en esa materia;
-
-III. Diseñar y establecer los mecanismos de asistencia para los indígenas que así lo soliciten en asuntos ante autoridades federales, estatales y municipales;
-
-IV. Fortalecer la capacidad institucional en la materia, así como promover la protección de los derechos indígenas y su acceso a la justicia;
-
-V. Impulsar y fortalecer las acciones de asistencia en materia penal para indígenas sujetos a proceso, mediante mecanismos de colaboración con la Coordinación General de Asuntos Jurídicos;
-
-VI. Promover acciones para garantizar el acceso a la jurisdicción del Estado de la población indígena en los tres órdenes de gobierno, así como promover la capacitación de abogados, intérpretes, traductores y peritos que asistan a la población indígena;
-
-VII. Fortalecer la capacitación en derechos de los pueblos y comunidades indígenas, para personal de la Comisión en colaboración con la unidad administrativa facultada de la Administración Pública Federal relacionada con la materia y la población indígena;
-
-VIII. Promover la elaboración de proyectos de iniciativas y reformas constitucionales y/o legales para el reconocimiento y vigencia de los derechos indígenas, y realizar su seguimiento;
-
-IX. Fomentar y difundir el respeto a los derechos indígenas en las dependencias y entidades de la administración Pública Federal, así como en las instancias competentes de las entidades federativas y municipales;
-
-X. Coordinar el diseño de estrategias en materia de atención y prevención de conflictos para verificar la observancia del mandato constitucional, en materia de vigencia y ejercicio de los derechos indígenas;
-
-XI. Dirigir la programación, operación, control y seguimiento de los programas institucionales a su cargo para el desarrollo de acciones de promoción y defensa de los derechos de los pueblos y comunidades indígenas, de conformidad con la planeación institucional;
-
-XII. Establecer la coordinación y concertación con las dependencias y entidades de la Administración Pública Federal, gobiernos estatales y municipales o cualquier otra autoridad, así como con las organizaciones de la sociedad civil, grupos organizados e instituciones académicas para el desarrollo de las acciones de promoción y defensa de los derechos de los pueblos y comunidades indígenas;
-
-XIII. Proponer criterios y promover la observancia de los derechos indígenas en las políticas públicas orientadas a los pueblos y comunidades indígenas, y
-
-XIV. Designar peritos en materia indígena.
-
-### CAPÍTULO ÚNICO
+### Capítulo IV. De la Vinculación con el Sistema Educativo
 
 ###### Artículo 18.
 
-Compete a la Coordinación General de Patrimonio Cultural e Investigación:
+La Secretaría realizará acciones que permitan la vinculación de las Unidades Económicas con las instituciones educativas públicas y privadas, locales, nacionales e internacionales, para lo cual promoverá la celebración de acuerdos.
 
-I. Dirigir la programación, operación, control y seguimiento de los programas institucionales a su cargo para el desarrollo de acciones en materia de derechos culturales y de comunicación indígena, de conformidad con la planeación institucional;
-
-II. Establecer políticas, programas y acciones para la salvaguarda del patrimonio cultural de los pueblos indígenas de México;
-
-III. Coordinar las acciones de la Comisión en materia de desarrollo de las culturas de los pueblos indígenas y promover la vinculación cultural con dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, organismos internacionales, organizaciones de la sociedad civil, pueblos indígenas e instancias académicas para emprender acciones de investigación, intercambio, reproducción, rescate y difusión del patrimonio cultural;
-
-IV. Plantear estrategias para el reconocimiento de las prácticas culturales indígenas en la planeación institucional;
-
-V. Impulsar el reconocimiento y el ejercicio pleno de los derechos culturales de los pueblos indígenas, para que reproduzcan, rescaten, y difundan las expresiones tangibles e intangibles de su patrimonio cultural;
-
-VI. Promover y conducir la realización de investigaciones y estudios sobre la diversidad cultural que permitan generar insumos para el fortalecimiento cultural de los pueblos y las comunidades indígenas, así como coordinar la realización de publicaciones;
-
-VII. Diseñar y ejecutar acciones de documentación de las culturas indígenas, desarrollo de colecciones, control de inventarios, catalogación, curaduría, clasificación, conservación, restauración y digitalización en los acervos de la Comisión, así como promover y normar el uso, consulta y préstamo de los mismos, y
-
-VIII. Desarrollar mecanismos de difusión del patrimonio cultural indígena en los museos que opera la Comisión, así como organizar y promover exposiciones y actividades culturales y educativas.
+### Capítulo V. De la Responsabilidad Social Empresarial
 
 ###### Artículo 19.
 
-Compete a la Coordinación General de Asuntos Jurídicos:
-
-I. Intervenir en los asuntos de carácter legal en que tenga injerencia o interés la Comisión, el Director General y las Unidades Administrativas;
-
-II. Asesorar en materia jurídica al Director General, y a las Unidades Administrativas de la Comisión;
-
-III. Emitir opiniones respecto de las consultas jurídicas que en el ámbito de competencia de la Comisión, realicen las dependencias y entidades de la Administración Pública Federal, gobiernos de las entidades federativas y de los municipios o cualquier otra autoridad;
-
-IV. Asesorar al Director General en el análisis, propuesta y formulación de anteproyectos de leyes, reglamentos, decretos, acuerdos, manuales, órdenes y demás disposiciones en materias relacionadas con el objeto de la Comisión, que sometan a su consideración las Unidades Administrativas;
-
-V. Dar seguimiento a los proyectos de iniciativas de leyes, reglamentos, decretos o acuerdos que sean de interés de la Comisión;
-
-VI. Proponer y establecer, criterios de interpretación y aplicación, de disposiciones que normen el funcionamiento de la Comisión, cuando no esté conferida expresamente a otra Unidad Administrativa u órgano de la Comisión;
-
-VII. Coadyuvar en la elaboración de contratos, convenios, acuerdos y demás instrumentos análogos en los que las Unidades Administrativas de la Comisión participen, y en su caso, emitir el dictamen jurídico correspondiente;
-
-VIII. Resguardar los contratos, convenios, acuerdos y demás instrumentos análogos de los que se deriven derechos y obligaciones a cargo de la Comisión que concreten y remitan las Unidades Administrativas;
-
-IX. Coordinar la relación jurídica de la Comisión, con las dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y de los municipios;
-
-X. Representar al Director General, a la Comisión y a las Unidades Administrativas ante los Tribunales Federales, del fuero común, Juntas Federales y Locales de Conciliación y Arbitraje y ante toda autoridad, en los trámites jurisdiccionales en materia civil, penal, mercantil, administrativa, laboral y de cualquier otra naturaleza, así como en cualquier otro asunto de carácter legal en que tenga interés e injerencia la Comisión, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y desistirse, allanarse o transigir en las mismas, y reconvenir a la contraparte, celebrar convenios y conciliar, ejercitar acciones y oponer excepciones, ofrecer y rendir toda clase de pruebas, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones en su nombre y actuar en todas las instancias del juicio, procedimiento o recurso, así como interponer los recursos que procedan en dichos juicios; formular ante el Ministerio Público denuncias y querellas por delitos de cualquier naturaleza, ofrecer y rendir toda clase de pruebas, desistirse, otorgar perdón legal previa autorización de la Junta de Gobierno proceda, así como coadyuvar en todos los supuestos anteriores con el Ministerio Público competente en representación del referido organismo, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Comisión, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Unidad y los representantes que acredite, en cada uno de los casos en que intervengan;
-
-XI. Rendir los informes previos y justificados en los juicios de amparo interpuestos contra actos del Director General, la Comisión y las Unidades Administrativas, interponer los medios de impugnación que sean procedentes, actuar en estos juicios con las facultades de delegado en términos de la Ley de la materia; ofrecer pruebas, formular alegatos y atender su tramitación; asimismo intervenir cuando aquellos tengan el carácter de terceros perjudicados;
-
-XII. Suscribir en ausencia del Director General, Coordinadores Generales, Delegados de la Comisión y demás servidores públicos de la Comisión, los trámites legales relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y rendición de informes previos y justificados a una autoridad;
-
-XIII. Representar a la Comisión, al Director General y a las Unidades Administrativas, en toda clase de investigaciones y procedimientos administrativos tramitados por la Comisión Nacional de los Derechos Humanos u otros organismos autónomos;
-
-XIV. Solicitar a los servidores públicos y Unidades Administrativas de la Comisión, la documentación e información que requiera para el cumplimiento de sus atribuciones;
-
-XV. Coordinar y supervisar funcionalmente a los responsables jurídicos de las Delegaciones para el desempeño y desarrollo de las actividades que tienen encomendadas, y
-
-XVI. Notificar las resoluciones administrativas que emita, así como las que dicten las Unidades Administrativas adscritas a la Comisión.
+Se considera responsabilidad social empresarial el integrar en la visión de la empresa, el respeto a los derechos humanos y al medio ambiente, con base en los indicadores cualitativos y cuantitativos que expida la Secretaría a propuesta del Consejo.
 
 ###### Artículo 20.
 
-Compete a la Coordinación General de Delegaciones y Concertación:
-
-I. Establecer los mecanismos para la organización y funcionamiento de las Delegaciones de la Comisión;
-
-II. Coordinar y supervisar el funcionamiento de las Delegaciones de la Comisión, con objeto de que cumplan las políticas, estrategias, programas, proyectos y acciones de la Comisión, en su caso, con la intervención de las Unidades Administrativas competentes de la Comisión;
-
-III. Asegurar que las Delegaciones de la Comisión apoyen con información de las entidades federativas, sus regiones y municipios, para proponer la formulación, modificación y ejecución de los programas, proyectos y acciones;
-
-IV. Coordinar y articular con las Unidades Administrativas de la Comisión, sus relaciones con las Delegaciones de la Comisión;
-
-V. Coordinar las instrucciones que emita el Director General, para el cumplimiento de acciones de colaboración o coordinación por parte de las Delegaciones de la Comisión, con las representaciones de la Administración Pública Federal Estatal y Municipal;
-
-VI. Difundir los criterios, normas, lineamientos, programas y demás disposiciones que se emitan, para su observancia en las Delegaciones de la Comisión;
-
-VII. Diseñar y establecer la normatividad de operación de los Consejos Técnicos Estatales en coordinación con la unidad administrativa facultada para que las Delegaciones de la Comisión evalúen su desempeño; así como vigilar y evaluar su observancia;
-
-VIII. Proponer los movimientos de personal de las Delegaciones de la Comisión y Centros Coordinadores para el Desarrollo Indígena;
-
-IX. Controlar y promover la asesoría, asistencia técnica y administrativa cuando así lo requieran las Delegaciones de la Comisión;
-
-X. Verificar que las Delegaciones de la Comisión atiendan las solicitudes que se le formulen a la Comisión;
-
-XI. Impulsar acciones de concertación social con grupos, organizaciones, pueblos y comunidades indígenas para favorecer el diálogo en atención a las demandas siempre y cuando no represente para la Comisión asumir responsabilidades o costos ante terceros;
-
-XII. Administrar el Sistema de Atención de Solicitudes Indígenas coordinando a las Unidades Administrativas de la institución; o canalizarlas a las instancias correspondientes de los tres órdenes de gobierno, así como realizar el seguimiento y supervisar el cumplimiento de su atención y en su caso, tomar las medidas o previsiones necesarias;
-
-XIII. Instruir y dar atención a la ciudadanía, autoridades tradicionales y municipales, organizaciones indígenas, comunidades y público en general, que la soliciten para realizar gestiones ante agencias, organismos y dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
-
-XIV. Operar y dirigir la programación, control, supervisión y seguimiento de los programas y proyectos a su cargo, de conformidad con la planeación institucional;
-
-XV. Establecer la coordinación para identificar, de manera conjunta con los pueblos y comunidades indígenas, así como con las dependencias y entidades de la Administración Pública Federal, estatales y municipales, las necesidades de las casas y comedores del niño indígena, estableciendo los mecanismos de coordinación y colaboración institucional necesarios en la materia;
-
-XVI. Coordinar las acciones para la formulación del Programa Anual de Trabajo de los programas y proyectos a su cargo, supervisando su funcionamiento, a fin de que los servicios se brinden bajo condiciones de calidad, calidez, oportunidad y seguridad, y llevar un registro pormenorizado de la población beneficiaria, a efecto de evaluar su impacto y eficacia institucional;
-
-XVII. Apoyar a las dependencias y entidades de la Administración Pública Federal, estatales y municipales, así como a las organizaciones de los sectores social y privado que lo soliciten, para acciones en materia de alfabetización a los pueblos y comunidades indígenas;
-
-XVIII. Coordinar la capacitación del personal que labore en las casas y comedores del niño indígena, en materia de respeto a los derechos de las niñas, niños y adolescentes;
-
-XIX. Coordinar acciones que permitan mejorar la operación para la atención de los beneficiarios del programa, con la participación de las dependencias y entidades de la Administración Pública Federal, estatales, municipales, sectores social y privado e instituciones académicas especializadas, a efecto de garantizar condiciones de seguridad, salubridad y el respeto a los derechos humanos, así como la asistencia y orientación especializada, y
-
-XX. Gestionar las donaciones para la operación, equipamiento y rehabilitación para las casas del niño indígena y sus beneficiarios, provenientes de las dependencias y entidades de la Administración Pública Federal, estatales, municipales, personas físicas, organizaciones públicas y privadas nacionales o internacionales que permitan fortalecer las acciones en favor de los beneficiarios del programa.
+La integridad corporativa, es parte de la responsabilidad social empresarial, y consiste en instrumentar y cumplir con lo dispuesto en los códigos de ética para prevenir, combatir y sancionar la corrupción.
 
 ###### Artículo 21.
 
-Compete a la Coordinación General de Administración y Finanzas:
+La Secretaría en coadyuvancia con la Secretaría de la Función Pública en el ámbito de sus respectivas competencias, podrán diseñar reglas, lineamientos y criterios anticorrupción que permitan realizar quejas y denuncias por violaciones a la integridad corporativa.
 
-I. Dirigir la planeación y administración de los recursos humanos, financieros, materiales y servicios generales, de adquisiciones y obra pública, promoviendo las acciones necesarias que permitan su uso racional y eficiente, así como establecer, con la aprobación del Director General, normas, lineamientos, sistemas y procedimientos para la óptima administración de dichos recursos, de conformidad con las disposiciones jurídicas aplicables;
-
-II. Coordinar y supervisar el desempeño de las funciones inherentes a la administración de recursos humanos, materiales y financieros de la Comisión de los enlaces administrativos;
-
-III. Dirigir el funcionamiento de los comités y subcomités que se conformen para atender las materias referidas en la fracción I de este artículo y los demás que se señalen en las leyes y disposiciones correspondientes;
-
-IV. Autorizar los nombramientos y movimientos del personal, así como la terminación de la relación laboral cuando así corresponda;
-
-V. Administrar las políticas laborales contenidas en el contrato colectivo de trabajo, así como representar y conducir las relaciones de la Comisión con el Sindicato Nacional de Trabajadores Indigenistas;
-
-VI. Administrar el Servicio Profesional de Carrera de la Comisión y proponer al Director General modificaciones al Estatuto del Servicio Profesional de Carrera de la Comisión para que, en su caso, se someta a la autorización de la Junta de Gobierno y expedir los nombramientos del personal sujeto al mismo;
-
-VII. Autorizar el otorgamiento de las licencias, estímulos, recompensas y prestaciones que establezcan las disposiciones aplicables, así como imponer las sanciones por incumplimiento a sus obligaciones en materia laboral al personal de la Comisión no sujeto al Servicio Profesional de Carrera;
-
-VIII. Coordinar el diseño y las modificaciones de la estructura organizacional de la Comisión, y proponerlos al Director General para su autorización;
-
-IX. Coordinar la elaboración del Manual General de Organización, de procedimientos y de servicios de la Comisión, para someterlos a la autorización del Director General;
-
-X. Presentar propuesta de modificación de los tabuladores de sueldos y esquemas de prestaciones aplicables al personal de la Comisión y solicitar su autorización y registro ante las instancias correspondientes;
-
-XI. Administrar el Programa Anual de Capacitación del Personal de la Comisión;
-
-XII. Promover y coordinar el Programa de Servicio Social y prácticas profesionales;
-
-XIII. Gestionar la autorización del presupuesto de la Comisión, así como de los recursos provenientes de las aportaciones y donativos de otras instituciones públicas y privadas;
-
-XIV. Proponer los criterios para definir la estructura programática y los programas institucionales de mediano y largo plazos, así como para el proyecto de presupuesto anual de la Comisión;
-
-XV. Autorizar las erogaciones de acuerdo con lo establecido en la fracción I de este artículo, vigilar el ejercicio del presupuesto autorizado y supervisar su registro contable en los sistemas correspondientes establecidos por la Secretaría de Hacienda y Crédito Público;
-
-XVI. Someter a consideración del Director General las adecuaciones presupuestarias y la distribución de los recursos adicionales;
-
-XVII. Planear, organizar y dirigir el registro contable de las operaciones financieras de la Comisión, y el de sus bienes patrimoniales y obligaciones, así como coordinar el proceso de formulación e integración de la Cuenta de la Hacienda Pública Federal del ejercicio del Presupuesto de Egresos de la Federación que corresponda;
-
-XVIII. Verificar el cumplimiento de las obligaciones fiscales y administrativas de la Comisión, estableciendo medidas de control correspondientes;
-
-XIX. Dirigir las acciones de vinculación de los programas presupuestarios con las estrategias que deriven del Plan Nacional de Desarrollo vigente;
-
-XX. Coordinar los procesos para la contratación de adquisiciones de bienes, servicios y obra pública que requieran celebrar las Unidades Administrativas;
-
-XXI. Administrar los bienes muebles e inmuebles a cargo de la Comisión, en los términos de la normatividad aplicable;
-
-XXII. Establecer, dirigir y coordinar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información de la Comisión, así como emitir las normas necesarias para su operación, desarrollo y vigilancia;
-
-XXIII. Supervisar los procesos de seguimiento en el ejercicio presupuestal, realizando concurrentemente acciones de coordinación con las Unidades Administrativas;
-
-XXIV. Coordinar con las Unidades Administrativas el seguimiento para la atención de las observaciones emitidas y los requerimientos de información solicitados por las instancias de fiscalización, designando al servidor público adscrito a la Coordinación General a su cargo, que fungirá como enlace, y
-
-XXV. Coadyuvar con la Coordinación General de Planeación y Evaluación en la integración del informe anual de la Comisión, de conformidad con lo previsto en el artículo 2o, fracción XVIII de la Ley.
+### Capítulo VI. De las Certificaciones
 
 ###### Artículo 22.
 
-Compete a las Delegaciones de la Comisión en las Entidades Federativas:
-
-I. Administrar el presupuesto, recursos humanos, materiales y tecnológicos que se le asignen, así como supervisar a las Unidades Administrativas de su área de competencia territorial, de conformidad con las políticas, normas y procedimientos vigentes en materia de transparencia, evaluación del desempeño y rendición de cuentas, bajo un esquema de comunicación y coordinación permanente con las Unidades Administrativas competentes;
-
-II. Identificar y aprobar la cobertura territorial de los Centros Coordinadores para el Desarrollo Indígena a su cargo;
-
-III. Verificar que las Unidades Administrativas de su adscripción, cumplan con los criterios, reglas de operación y lineamientos en la ejecución de los programas, proyectos y acciones a cargo de la Comisión;
-
-IV. Supervisar el trabajo de los Centros Coordinadores para el Desarrollo Indígena, en su área de competencia territorial, de conformidad con las políticas, normas y procedimientos que dicte la Comisión, así como evaluar su desempeño en sesiones de Consejo Técnico Estatal, informando de ello a la Coordinación General de Delegaciones y Concertación;
-
-V. Promover y fortalecer mecanismos de colaboración, coordinación y concertación con las autoridades federales, estatales, municipales y tradicionales en su área de competencia territorial, para la gestión y atención de los asuntos relacionados con el desarrollo integral de los pueblos y comunidades indígenas, informando de ello a la Coordinación General de Delegaciones y Concertación;
-
-VI. Llevar a cabo los procesos para la contratación de adquisiciones de bienes, servicios y obra pública que requieran celebrar, en su ámbito territorial, bajo la supervisión de la Coordinación General de Administración y Finanzas, realizando los actos inherentes a esa facultad;
-
-VII. Apoyar los procesos de consulta que se realicen a población indígena, promoviendo la participación de los pueblos, comunidades y organizaciones indígenas en las instancias competentes de la Comisión, para contribuir con la formulación, ejecución y evaluación de los planes y programas de desarrollo;
-
-VIII. Facilitar la realización de diagnósticos, estudios y evaluaciones, así como de seguimiento de indicadores y todos aquellos instrumentos necesarios que soliciten las Unidades Administrativas de la Comisión, en el ámbito de su competencia;
-
-IX. Coadyuvar con las Unidades Administrativas competentes de la Comisión en acciones de capacitación, inducción y sensibilización, conforme a la normatividad vigente;
-
-X. Formular, dentro de su área de competencia territorial ante el Ministerio Público correspondiente, las denuncias, querellas y declaratorias que la Comisión haya sufrido o pueda sufrir perjuicio por delitos de cualquier naturaleza;
-
-XI. Representar a la Comisión, dentro de su área de competencia territorial, en juicios administrativos, civiles, laborales, mercantiles y en otros de cualquier materia en que dicho Organismo sea parte o en los que tenga interés jurídico, informando a la Coordinación General de Asuntos Jurídicos;
-
-XII. Atender las solicitudes que le sean turnadas, así como realizar el seguimiento de su atención, informando a la Coordinación General de Delegaciones y Concertación, del trámite otorgado;
-
-XIII. Asistir, cuando así lo soliciten los Centros Coordinadores para el Desarrollo Indígena, la asistencia técnica o administrativa y asesoría en el ejercicio de sus atribuciones;
-
-XIV. Apoyar la promoción de los procesos de reconstitución de los pueblos y comunidades indígenas, así como la vigencia de sus derechos, y
-
-XV. Las demás que le encomienden el Coordinador General de Delegaciones y Concertación y las disposiciones legales aplicables.
-
-## TÍTULO TERCERO. DE LOS ÓRGANOS DE CONTROL Y VIGILANCIA
+La certificación es un documento expedido por un tercero idóneo, que acredita habilidades y competencias personales, capacidades de las empresas y la calidad de los productos, conforme a la normatividad especializada.
 
 ###### Artículo 23.
 
-La Comisión contará con un Órgano Interno de Control, al frente del cual habrá un titular que se auxiliará de los titulares de las áreas de Auditoría Interna; de Auditoría para Desarrollo y Mejora de la Gestión Pública, y de Responsabilidades y de Quejas, mismos que serán designados por el Titular de la Secretaría de la Función Pública.
+Corresponde a la Secretaría implementar, integrar y operar un Registro Público Estatal de Certificaciones, a fin de que se inscriban las certificaciones de las personas, empresas y productos.
 
-Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en los ordenamientos legales y administrativos aplicables.
-
-Asimismo, para cubrir las necesidades del servicio contarán con el personal adscrito a dicho Órgano Interno de Control que figure en su estructura autorizada, conforme a las disposiciones normativas aplicables.
-
-Las ausencias de los titulares del Órgano Interno de Control y de las áreas de Responsabilidades; de Quejas; Auditoría Interna y Auditoría para Desarrollo y Mejora de la Gestión Pública, serán suplidas en términos de las disposiciones jurídicas aplicables.
-
-La Comisión proporcionará al titular del Órgano Interno de Control los recursos humanos, materiales, presupuestales y tecnológicos que requiera para la atención de los asuntos a su cargo y de los titulares de las áreas de Auditoría Interna; de Auditoría para Desarrollo y Mejora de la Gestión Pública, y de Responsabilidades y de Quejas. Asimismo, los servidores públicos de la Comisión están obligados a atender con diligencia las instrucciones, requerimientos o resoluciones de los titulares antes señalados, conforme a la competencia de éstos.
+El Reglamento establecerá las disposiciones administrativas correspondientes al Registro Público Estatal de Certificaciones para su operación.
 
 ###### Artículo 24.
 
-La Comisión contará con un Órgano de Vigilancia, que estará integrado por un Comisario Público Propietario y un Suplente que serán designados por la Secretaría de la Función Pública, en los términos de la Ley Orgánica de la Administración Pública Federal, quienes ejercerán las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales y los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en el Reglamento Interior de la Secretaría de la Función Pública.
+Son inscribibles en el Registro Público Estatal de Certificaciones:
 
-Para el mejor desarrollo del sistema de control y auditoría y evaluación gubernamental, los Comisarios Públicos y los Vocales analizarán los riesgos y problemas de corrupción y, en su caso, la falta de transparencia en la aplicación de los recursos de la Comisión. La Junta de Gobierno y el Director General deberán proporcionarles la información que les sea solicitada.
+I. Certificadores;
 
-Asistirán en representación de la Secretaría de la Función Pública, con voz pero sin voto, a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y podrán asistir a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
+II. Personas certificadas;
+
+III. Sistemas de Gestión de Calidad;
+
+IV. Sistemas de Gestión Medioambientales;
+
+V. Sistemas de Gestión de Prevención de Riesgos Laborales;
+
+VI. Sistemas de Gestión de personas;
+
+VII. Certificados de productos ecológicos;
+
+VIII. Certificados de denominaciones de origen o similares;
+
+IX. Marcas de garantía;
+
+X. Marcas de conformidad;
+
+XI. Calidad; y
+
+XII. Otras certificaciones expedidas por entes legalmente constituidos.
+
+### Capítulo VII. De los Incentivos
+
+###### Artículo 25.
+
+El Poder Ejecutivo estatal, previo cumplimiento de los requisitos que se fijan en esta Ley y su Reglamento podrá otorgar incentivos y beneficios fiscales a las Unidades Económicas y empresas legalmente constituidas, siempre que se encuentren al corriente en el cumplimiento de sus obligaciones fiscales estatales y federales, así como que acrediten por medios idóneos alguno de los siguientes:
+
+I. Estrategias para el consumo de productos locales;
+
+II. La promoción de inversión o coinversión con valor agregado para el Estado;
+
+III. El incremento anual de empleos formales;
+
+IV. La inversión o titularidad de descubrimientos, inventos o investigaciones científicas, por sí o convenidas con instituciones públicas o privadas;
+
+V. El desarrollo de habilidades y competencias del factor humano empleado;
+
+VI. La implementación acreditable de responsabilidad social empresarial;
+
+VII. El incremento en la productividad y competitividad;
+
+VIII. La agroindustria o Industrialización;
+
+IX. La certificación en la producción de bienes y servicios;
+
+X. El desarrollo y crecimiento de actividades económicas no petroleras;
+
+XI. La integración de grupos para la formación de cadenas productivas;
+
+XII. La vinculación de las actividades económicas con el Sistema Educativo con fines de inversión y productividad en bienes y servicios;
+
+XIII. La participación en proyectos y programas de infraestructura para el desarrollo y crecimiento económicos;
+
+XIV. La sustitución de importaciones por bienes y servicios del Estado;
+
+XV. El diseño de modelos de exportación de bienes y servicios;
+
+XVI. El establecimiento de actividades o empresas; o
+
+XVII. El establecimiento de empresas para el desarrollo y crecimiento económicos, generadoras de empleos formales en zonas de pobreza extrema.
+
+###### Artículo 26.
+
+El otorgamiento de incentivos se regirá por los principios de transparencia y rendición de cuentas, y estará supeditado a la aprobación del Comité Dictaminador.
+
+### Capítulo VIII. Del Comité Dictaminador y de las Modalidades de Incentivos
+
+###### Artículo 27.
+
+El Comité Dictaminador es el encargado de determinar la procedencia de los incentivos, y en su caso establecer el porcentaje, monto, tipo y plazo de los incentivos previstos en la presente Ley.
+
+El Comité se integra por:
+
+I. El o la titular de la Secretaría;
+
+II. El o la titular de la Secretaría de Finanzas;
+
+III. El o la titular de la Secretaría de Administración e Innovación Gubernamental;
+
+IV. El o la titular de la Coordinación General Ejecutiva de la Gubernatura;
+
+V. El o la titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca; y
+
+VI. El o la presidente en funciones del Consejo Coordinador Empresarial de Tabasco.
+
+Cada integrante podrá nombrar un suplente, el cual tendrá todas las atribuciones inherentes a este.
+
+###### Artículo 28.
+
+El Comité Dictaminador estará presidido por el o la Secretaria quien tendrá voto de calidad.
+
+###### Artículo 29.
+
+El o la presidente podrá invitar a que participen en las reuniones del Comité Dictaminador con voz, pero sin voto a los titulares de otros entes públicos, y representantes del sector privado que estén relacionados con el asunto de que se trate.
+
+El Comité Dictaminador sesionará las veces que sean necesarias y podrá auxiliarse de un servidor público no miembro del Comité que fungirá como secretario, mismo que será designado por el o la presidente, y que tendrá a su cargo la elaboración de las actas respectivas y demás funciones que le designe el o la Presidente.
+
+###### Artículo 30.
+
+Para el otorgamiento de incentivos deberá considerarse por lo menos:
+
+I. Número de empleos directos a generar, empleos de nueva creación para jóvenes trabajadores de primer empleo, personas productivas con discapacidad, personas adultas mayores y remuneración promedio;
+
+II. Número de empleos de hombres y mujeres en condiciones de igualdad y equidad y su nivel de remuneración;
+
+III. Número de empleos de personas con discapacidad y de grupos sociales en situación de vulnerabilidad;
+
+IV. Inversión por monto, ubicación geográfica, índice de rentabilidad, perspectivas de crecimiento y plazos;
+
+V. Informe de Desarrollo e Innovación Tecnológica;
+
+VI. Integración de Cadenas Productivas regionales y nacionales;
+
+VII. Nivel de utilización de los materiales e insumos locales;
+
+VIII. Programa de capacitación para la formación de los empleados;
+
+IX. Preservación del medio ambiente y del patrimonio cultural;
+
+X. Aprovechamiento sustentable de los recursos naturales y racionalidades de consumo en agua y electricidad;
+
+XI. Contribución de la inversión al desarrollo científico y tecnológico;
+
+XII. Fomento de la cooperación con el sector educativo, en lo relativo a formación y capacitación de técnicos y profesionistas;
+
+XIII. Sustitución de las importaciones por insumos, componentes, servicios o productos de origen local;
+
+XIV. Volumen y valor de las ventas nacionales e internacionales; y
+
+XV. Vinculación con el comercio exterior.
+
+###### Artículo 31.
+
+La Secretaría implementará un programa anual de supervisión y verificación de los incentivos otorgados y podrá sancionar, emitir recomendaciones u otorgar constancia de integridad de acuerdo con lo dispuesto en esta Ley, su Reglamento y demás normatividad aplicable.
+
+###### Artículo 32.
+
+La Secretaría en el ámbito de su competencia y de conformidad con su suficiencia presupuestal, otorgará como incentivo adicional asesoría, auxilio y coadyuvancia a las empresas y Unidades Económicas en el desarrollo de sus actividades.
+
+###### Artículo 33.
+
+Los incentivos podrán consistir en:
+
+I. Programas y becas para el desarrollo de habilidades y competencias;
+
+II. Instalación o mejora de servicios públicos y seguridad;
+
+III. Diseño e implementación de programas para exportación;
+
+IV. Proveer de infraestructura o financiamiento;
+
+V. Asesoría para incrementar la productividad y consumo interno;
+
+VI. Estímulos fiscales por tiempo determinado previa resolución emitida en términos de la normatividad aplicable;
+
+VII. Promoción de productos y servicios del ámbito local; y
+
+VIII. Los demás que señale el Reglamento.
+
+###### Artículo 34.
+
+Los incentivos aprobados por el Comité Dictaminador serán otorgados por las dependencias y entidades facultadas para tal efecto, dentro de los plazos que al efecto se establezcan en el acuerdo respectivo.
+
+###### Artículo 35.
+
+El o la Secretaria previo acuerdo del Comité Dictaminador realizará las gestiones conducentes para la exención o reducción de impuestos federales o locales, cuando por caso fortuito o fuerza mayor, las empresas lo requieran.
+
+###### Artículo 36.
+
+Los incentivos concluyen:
+
+I. Por cumplirse con el objeto, motivo o fin para los cuales fueron otorgados;
+
+II. Por mutuo acuerdo;
+
+III. Por sobrevenir imposibilidad de cumplimiento;
+
+IV. Por resolución del Comité Dictaminador; y
+
+V. Por disposición legal.
+
+### Capítulo IX. Del Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco
+
+###### Artículo 37.
+
+El patrimonio del fideicomiso de administración e inversión denominado Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco, se integrará con:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+I. Las aportaciones anuales que, en su caso, efectúe el Gobierno del Estado de Tabasco, de conformidad con la disponibilidad presupuestaria, que podrán ser de hasta el 20% de la recaudación del Impuesto Sobre Nóminas que obtenga el Estado, por la aplicación del 2.5% que establece la fracción II del artículo 30 de la Ley de Hacienda del Estado de Tabasco; exceptuándose las cantidades que paguen los municipios, sus órganos y entidades;
+
+II. En su caso con aportaciones de entidades públicas o privadas;
+
+III. Los productos de sus operaciones; y
+
+IV. Los demás recursos que se generen por cualquier otro concepto.
+
+### Capítulo X. De las Sanciones
+
+###### Artículo 38.
+
+La facultad de aplicar sanciones administrativas a los solicitantes y beneficiarios de incentivos o apoyos financieros otorgados o gestionados por la Secretaría, le corresponde al Comité Dictaminador.
+
+La Secretaría notificará personalmente a las partes, las sanciones a que se hayan hecho acreedoras.
+
+Con el objeto de respetar la garantía de audiencia, para la aplicación de las sanciones deberá seguirse el procedimiento establecido en el Reglamento de la presente Ley.
+
+###### Artículo 39.
+
+Las sanciones podrán consistir en:
+
+I. Multa de cien a tres mil quinientos veces el valor diario de la UMA;
+
+II. Revocación del incentivo o apoyo financiero; y
+
+III. Restitución del importe de los incentivos o apoyos económicos.
+
+###### Artículo 40.
+
+Se consideran conductas que ameritan sanción, cuando el beneficiario por sí o por medio de sus representantes:
+
+I. Aporte información o documentación falsa para que se le otorguen los incentivos o apoyos financieros;
+
+II. Aplique los incentivos o apoyos financieros de manera distinta a lo establecido en la Ley o acto que le dio origen;
+
+III. Ceda a terceros los incentivos o apoyos financieros que le fueron otorgados, salvo que previamente hayan sido autorizados por el Comité Dictaminador;
+
+IV. Omita dar aviso de la reubicación de sus instalaciones, del cambio en el monto de la inversión, del número de empleos o del cambio de giro, en un término no mayor a quince días hábiles; y
+
+V. Incumplimiento de las disposiciones establecidas en la Ley y su Reglamento.
+
+###### Artículo 41.
+
+Para la aplicación de sanciones se tomará en cuenta la gravedad de la infracción, antecedentes, circunstancias personales y situación socioeconómica del infractor. En caso de reincidencia se aplicará multa hasta por el doble del límite máximo de la sanción que corresponda.
+
+###### Artículo 42.
+
+En el caso de la sanción prevista en la fracción III del artículo 39, la devolución deberá hacerse en un plazo no mayor a treinta días hábiles posteriores a la fecha en que se notifique la sanción, con pago de los intereses generados por todo el tiempo en que se hubieren otorgado los incentivos, de conformidad a lo establecido por el artículo 362 del Código de Comercio.
+
+###### Artículo 43.
+
+Las sanciones previstas en la Ley se aplicarán sin perjuicio de la responsabilidad civil, penal o de cualquier otra naturaleza, exigible en los términos de las disposiciones legales aplicables, para lo cual la Secretaría deberá dar aviso a las autoridades correspondientes.
+
+### Capítulo XI. De los Recursos
+
+###### Artículo 44.
+
+Las resoluciones que impongan las sanciones administrativas previstas en la Ley podrán ser impugnadas ante el titular del Poder Ejecutivo, mediante el recurso de revocación, el cual será substanciado en los términos que establezca el Reglamento.
+
+###### Artículo 45.
+
+En caso de inconformidad con la resolución, el interesado podrá promover el juicio correspondiente ante el Tribunal de Justicia Administrativa.
 
 ## TRANSITORIOS
 
-Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 26 de julio de 2010.
+SEGUNDO. Se abroga la Ley de Fomento Económico del Estado de Tabasco, publicada en el Periódico Oficial del Estado, número 5603, de fecha 18 de mayo de 1996.
 
-Tercero. El Director General proveerá lo necesario para que el Manual General de Organización de la Comisión corresponda a las disposiciones que establecen la Ley y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
+TERCERO. El Ejecutivo estatal expedirá el Reglamento de la Ley en un término no mayor al de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
 
-Cuarto. En tanto entra en vigor el Manual General de Organización de la Comisión, el Director General podrá emitir las normas y lineamientos para la operación de ésta.
+CUARTO. El Consejo deberá instalarse dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
 
-Dado en la Ciudad de México, Distrito Federal, a los 21 días del mes de diciembre de dos mil quince.- La Directora General, Nuvia Magdalena Mayorga Delgado.- Rúbrica.
+QUINTO. La Secretaría deberá constituir el Sistema y el Registro Público Estatal de Certificaciones dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+SEXTO. El Registro Único de Empresas y el Registro Municipal de Empresas se constituirán en un plazo no mayor a los ciento ochenta días hábiles posteriores a la entrada en vigor del Reglamento.
 
-D.O.F. 20 DE MARZO DE 2019.
+SÉPTIMO. Los incentivos otorgados de conformidad con la Ley que por virtud del presente Decreto se abrogan, continuarán en los términos en que fueron acordados.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS”.]
+OCTAVO. La Secretaría de Finanzas previo acuerdo con el titular del Poder Ejecutivo determinará la integración del Comité Técnico del fideicomiso que se menciona en el Capítulo IX de la presente Ley, de conformidad con lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, para lo cual deberá realizar las adecuaciones pertinentes al Contrato de Fideicomiso y a las Reglas de Operación del “Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco” en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
 
-Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS DOCE DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIECINUEVE. DIP. RAFAEL ELÍAS SÁNCHEZ CABRALES, PRESIDENTE; DIP. MARÍA ESTHER ZAPATA ZAPATA, SECRETARIA. RÚBRICAS.
 
-Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 19 de enero de 2016.
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto corresponda a las disposiciones que establecen la Ley del Instituto Nacional de los Pueblos Indígenas y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO; A LOS TRECE DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIECINUEVE.
 
-Cuarto. En virtud de la reasignación de competencias, los asuntos que se encuentran en trámite a la fecha de publicación de este Estatuto serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les da la competencia en el mismo.
+“SUFRAGIO EFECTIVO. NO REELECCIÓN.”
 
-Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente ordenamiento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el presente ordenamiento.
+ADÁN AUGUSTO LÓPEZ HERNÁNDEZ
 
-Quinto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, el Director General podrá emitir las normas y lineamientos para la operación de éste.
+GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO
+
+MARCOS ROSENDO MEDINA FILIGRANA
+
+SECRETARIO DE GOBIERNO
+
+GUILLERMO ARTURO DEL RIVERO LEÓN
+
+COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE “SE REFORMA: LA FRACCIÓN I, DEL ARTÍCULO 37 DE LA LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintitrés, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 no contempla los recursos refrendados del ejercicio fiscal 2022, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2023.
+
+QUINTO. Lo dispuesto en el artículo 12 fracción IV, de la Ley de Hacienda del Estado de Tabasco, será aplicable a las cesiones de derecho o endosos que se realicen a facturas o comprobantes que amparen la propiedad de bien mueble a partir del ejercicio fiscal 2023.
+
+SEXTO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio del 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2023; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2023, y deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo de pago
+
+Fiscal
+
+Derecho de refrendo 20% 01 al 31 de enero de 2023
+
+anual de placas, 15% 2023 01 al 28 de febrero de 2023.
+
+tarjeta de circulación 10% 01 al 31 de marzo de 2023.
+
+y calcomanías. 5% 01 al 30 de abril de 2023.
+
+SÉPTIMO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placa y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, vigente, causados en los ejercicios anteriores al 2023; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Multas 50% 01 de enero
+
+al 30 de
+
+Recargos 50% abril de
+
+2023.
+
+Actualización 50%
+
+Honorarios de 30%
+
+notificación y
+
+gastos
+
+de ejecución
+
+Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+OCTAVO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+NOVENO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2023, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO SEGUNDO. El pago del refrendo anual para el ejercicio 2023 a que se refiere (sic) artículo 79, fracción II, inciso B), subinciso (o), de la Ley de Hacienda del Estado de Tabasco, se cobrará de la siguiente manera:
+
+CONCEPTO UMA PERIODO DE PAGO
+
+Refrendo anual de la
+
+licencia de
+
+funcionamiento
+
+a que se refiere 400.00 Del 1 al 31 de enero de 2023.
+
+el artículo 79,
+
+fracción II, inciso B),
+
+sub-inciso (o), de la
+
+Ley de Hacienda
+
+del Estado de
+
+Tabasco, para
+
+el ejercicio 2023.
+
+A partir del 1 de febrero de 2023, a los licenciatarios que no efectúen el pago del refrendo antes señalado, se les aplicará lo establecido en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco y su Reglamento, sin perjuicio de los recargos, actualizaciones, gastos de ejecución y honorarios que en su caso se generen, de conformidad con el Código Fiscal del Estado de Tabasco.
