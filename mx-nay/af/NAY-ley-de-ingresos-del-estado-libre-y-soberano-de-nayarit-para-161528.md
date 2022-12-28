@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-161
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2022-12-27"
-last_updated: "2022-12-27"
+last_updated: "2022-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2023
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE DICIEMBRE DE 2022 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, PARA EL EJERCICIO FISCAL 2023
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE DICIEMBRE DE 2022.]</small>
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2022.
 
@@ -3719,13 +3719,19 @@ individualmente desarrollen funciones de seguridad
 
 privada a terceros, pagarán. 1.9
 
-CONCEPTO TARIFA EN UMA VIGENTE
+> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-III (SIC).- Por la autorización a personas morales que empleen
+II.- Por la autorización a personas físicas que
 
-personas para que desarrollen actividades de Seguridad
+empleen personas para que desarrollen actividades
 
-Privada, pagarán. 136.1
+de seguridad privada, pagarán por cada elemento. 1.9
+
+III.- Por la autorización a personas morales que
+
+empleen personas para que desarrollen actividades
+
+de Seguridad Privada, pagarán. 136.1
 
 IV.- Por la autorización a personas físicas o morales que
 
