@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2021-12-21"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -589,6 +589,10 @@ Si se obtiene autorización para pagar a plazos, ya sea en forma diferida o en p
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco estatal, así como a los valores de bienes u operaciones de que se traten, será 1.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 23.
@@ -1035,6 +1039,10 @@ I. Tengan a su cargo créditos fiscales firmes, ya sea de naturaleza local en t�
 
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código; o créditos fiscales federales controlados por las Unidades Administrativas de la Secretaría de Finanzas en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal celebrado entre la Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de Tabasco, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por el Código Fiscal de la Federación.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Tengan a su cargo adeudos por concepto de servicios, derechos y aprovechamientos que prestan las diversas dependencias del Poder Ejecutivo, sus órganos administrativos desconcentrados, así como aquellos que prestan los organismos públicos descentralizados, el Poder Judicial del Estado de Tabasco, y los órganos con autonomía constitucional, previstos en la Ley de Hacienda del Estado de Tabasco.
+
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
@@ -1046,6 +1054,10 @@ IV. Habiendo vencido el plazo para presentar alguna declaración, y con independ
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 V. Hayan manifestado en las declaraciones de pagos del impuesto sobre nómina al que estén obligados, salarios que no concuerden con la información que declare en el Sistema Único de Autodeterminación (SUA) obtenido de la Delegación en Tabasco del Instituto Mexicano del Seguro Social, documentos o bases de datos que lleven las autoridades fiscales, tengan en su poder o a las que tengan acceso.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+VI. Se encuentren definitivamente en la situación a que se refiere el artículo 69- B, cuarto párrafo y 69-B Bis, noveno párrafo, del Código Fiscal de la Federación.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2019,7 +2031,9 @@ b) Cuando los contribuyentes manifiesten su intención de cubrir las contribucio
 
 c) Los importes correspondientes a la multa no reducida derivada de impuestos retenidos o trasladados, así como las cantidades inherentes a estos, deberán ser cubiertos dentro de los tres días siguientes a la notificación de la resolución en que se autorice la reducción; esta última surtirá sus efectos cuando el Contribuyente cumpla con el pago a plazos que, en su caso, se autorice.
 
-d) Cuando derivado del ejercicio de facultades de comprobación, se deban pagar multas por incumplimiento a las obligaciones fiscales federales distintas a las obligaciones de pago, el porcentaje de reducción se calculará de acuerdo con el procedimiento previsto en la fracción III de este artículo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+d) Cuando derivado del ejercicio de facultades de comprobación, se deban pagar multas por incumplimiento a las obligaciones fiscales estatales distintas a las obligaciones de pago, el porcentaje de reducción se calculará de acuerdo con el procedimiento previsto en la fracción III de este artículo.
 
 II. Las autoridades fiscales reducirán las multas determinadas por la omisión en el pago de una obligación fiscal, conforme al siguiente procedimiento:
 
@@ -2063,7 +2077,9 @@ e) Los importes correspondientes a la multa no reducida derivada de impuestos re
 
 La resolución de reducción de multas fiscales, surtirá efectos cuando el Contribuyente cumpla con el pago del remanente correspondiente al importe del porcentaje de la multa que no se redujo. Las multas no reducidas, así como el monto de las contribuciones omitidas y sus accesorios, según sea el caso, los cuales, previa actualización en términos de los artículos 22 y 57 de este Código, deberán ser cubiertos de los diez días siguientes a la fecha en que surta efectos la notificación de la resolución de reducción.
 
-III. Tratándose de por (sic) incumplimiento a las obligaciones fiscales estatales distintas a las obligaciones de pago a contribuyentes, se determinará el porcentaje de reducción atendiendo a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+III. Tratándose de multas por incumplimiento a las obligaciones fiscales estatales distintas a las obligaciones de pago a contribuyentes, se determinará el porcentaje de reducción atendiendo a lo siguiente:
 
 a) La antigüedad de la infracción se computará a partir de que la autoridad fiscal notifica el acto administrativo que da origen a la sanción y hasta la fecha de presentación de la solicitud de reducción.
 
@@ -2087,7 +2103,9 @@ Más de 5 años 40%
 
 c) Para estos efectos, el contribuyente deberá haber subsanado la causa que dio origen a la sanción.
 
-IV. Para efectos de este artículo, no procederá la reducción de multas en cualquiera de los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+IV. Para efectos de este artículo, no procederá la reducción de multas por incumplimiento de obligaciones fiscales de pago y por incumplimiento a las obligaciones fiscales estatales distintas a las de pago en cualquiera de los siguientes supuestos:
 
 a) De contribuyentes que estén o hayan estado sujetos a una causa penal en la que se haya dictado sentencia condenatoria por delitos de carácter fiscal y esta se encuentre firme; en el caso de personas jurídico colectivas, el representante legal o representantes legales o los socios y accionistas o cualquier persona que tenga facultades de representación, no deberán estar vinculadas a un procedimiento penal en las que se haya determinado mediante sentencia condenatoria firme su responsabilidad por la comisión de algún delito fiscal en términos del artículo 80 de este Código.
 
@@ -2100,6 +2118,10 @@ c) Que sean conexas con un acto que se encuentre impugnado.
 d) Tratándose de multas por infracciones contenidas en disposiciones que no sean fiscales.
 
 e) Respecto de multas que la autoridad fiscal haya autorizado su reducción hasta en dos ocasiones, y estas no hayan surtido efectos porque el Contribuyente no realizó el pago de la parte no reducida en el plazo otorgado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+f) De contribuyentes que cuenten con multas o sanciones tipificadas como agravantes o reincidencia, en términos del artículo 62 de este Código.
 
 La solicitud de reducción de multas, en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
 
@@ -2114,6 +2136,14 @@ I. Se considerará como agravante el hecho de que el infractor sea reincidente. 
 a) Tratándose de infracciones por omisión en el pago de contribuciones, incluyendo las retenidas o recaudadas, la segunda o posteriores veces que se sancione al infractor por dicha omisión; y
 
 b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, incluyendo las retenidas, la segunda o posteriores veces que se sancione al infractor por esas infracciones;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+La reincidencia que refiere el presente artículo, será considerada como tal lisa y llanamente, sin necesidad que la autoridad revisora o impositora de la sanción se pronuncie al respecto, aun y cuando el contribuyente se encuentre sujeto a facultades de comprobación, sólo bastará que se ubique en el supuesto de ser sancionado por segunda ocasión o posteriores veces (sic).
 
 II. También será agravante en la comisión de una infracción, cuando se de cualquiera de los supuestos siguientes:
 
@@ -2487,7 +2517,9 @@ Para que proceda la condena condicional, la sustitución o conmutación de sanci
 
 Comete el delito de defraudación fiscal quien con engaños o aprovechamientos de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco estatal.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años, si el monto de lo defraudado no excede de treinta mil nuevos pesos; cuando exceda, la pena será de tres a nueve años de prisión.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años, si el monto de lo defraudado no excede de mil veces el valor diario de la Unidad de Medida y Actualización vigente; cuando exceda, la pena será de tres a nueve años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo defraudado, la pena será de tres meses a seis años de prisión.
 
@@ -2561,9 +2593,11 @@ Se impondrá sanción de tres meses a seis años de prisión, al que dolosamente
 
 Se impondrá sanción de tres meses a seis años de prisión, a los servidores públicos que ordenen o practiquen visita domiciliaria, embargos o realicen la revisión física de mercancías sin mandamiento escrito de autoridad fiscal competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 93.
 
-Se impondrá de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de ocho mil nuevos pesos; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $74,060.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -2669,11 +2703,11 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 99.
 
-Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquél en el que se hubiera f ijado (sic) o publicado el documento.
+Las notificaciones por estrados se realizarán publicando el documento que se pretenda notificar durante diez días en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue publicado; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimoprimer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -4666,3 +4700,121 @@ Las sanciones previstas en los artículos 76 Bis y 76 Ter del Código Fiscal del
 Las demás reformas y adiciones al Código Fiscal del Estado de Tabasco serán aplicables a las personas físicas a partir del día uno de julio del año dos mil veintidós y a las personas jurídicas colectivas a partir del día uno de enero del año dos mil veintitrés.
 
 DÉCIMO SEGUNDO. La Secretaría de Finanzas emitirá en un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, las Reglas de Carácter General a que refiere el artículo 30 Septies del Código Fiscal del Estado de Tabasco, las cuales deberán ser publicadas en el Periódico Oficial del Estado y en su página de internet.
+
+P.O. 28 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE “SE REFORMAN: EL ARTÍCULO 61, FRACCIÓN I, INCISO D), III, IV; 86 PÁRRAFO TERCERO; 93, PÁRRAFO PRIMERO; Y 99. SE ADICIONAN: UN DÉCIMO TERCER PÁRRAFO AL ARTÍCULO 22; UN SEGUNDO PÁRRAFO A LA FRACCIÓN II Y UNA FRACCIÓN VI AL ARTÍCULO 34 BIS; EL INCISO F) A LA FRACCIÓN IV DEL ARTÍCULO 61; Y EL SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 62”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintitrés, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaría de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 no contempla los recursos refrendados del ejercicio fiscal 2022, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2023.
+
+QUINTO. Lo dispuesto en el artículo 12 fracción IV, de la Ley de Hacienda del Estado de Tabasco, será aplicable a las cesiones de derecho o endosos que se realicen a facturas o comprobantes que amparen la propiedad de bien mueble a partir del ejercicio fiscal2023.
+
+SEXTO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio del 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2023; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2023, y deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo
+
+fiscal de pago
+
+Derecho de 20% 01 al 31 de enero de 2023
+
+refrendo anual 15% 01 al 28 de febrero de 2023.
+
+de placas, 10% 2023 01 al 31 de marzo de 2023.
+
+tarjeta de 5% 01 al 30 de abril de 2.023.
+
+circulación
+
+y calcomanías.
+
+SÉPTIMO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placa y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, vigente, causados en los ejercicios anteriores al 2023; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de
+
+pago
+
+Multas 50%
+
+Recargos 50% 01 de enero
+
+al 30 de
+
+Actualización 50% abril de 2023.
+
+Honorarios de 30%
+
+notificación y
+
+gastos de
+
+ejecución
+
+Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+OCTAVO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+NOVENO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2023, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos sea 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO SEGUNDO. El pago del refrendo anual para el ejercicio 2023 a que se refiere (sic) artículo 79, fracción II, inciso B), subinciso (o), de la Ley de Hacienda del Estado de Tabasco, se cobrará de la siguiente manera:
+
+CONCEPTO UMA PERIODO DE PAGO
+
+Refrendo anual de la
+
+licencia de funcionamiento
+
+a que se refiere el artículo
+
+79, fracción II , inciso B), 400.00 Del 1 al 31 de enero de 2023.
+
+sub-inciso (o), de la Ley de
+
+Hacienda del Estado de
+
+Tabasco, para el ejercicio
+
+2023.
+
+A partir del 1 de febrero de 2023, a los licenciatarios que no efectúen el pago del refrendo antes señalado, se les aplicará lo establecido en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco y su Reglamento, sin perjuicio de los recargos, actualizaciones, gastos de ejecución y honorarios que en su caso se generen, de conformidad con el Código Fiscal del Estado de Tabasco.
