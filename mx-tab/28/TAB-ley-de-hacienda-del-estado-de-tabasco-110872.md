@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2021-12-21"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -204,6 +204,14 @@ Para la recaudación de este impuesto se observarán las siguientes reglas:
 I. Las personas que lleven a cabo las operaciones traslativas a que este impuesto se refiere, deberán presentar, al efectuarse el acto, la factura original o comprobante que ampare la propiedad del bien mueble usado ante la Receptoría de Rentas correspondiente y ésta procederá a efectuar el cobro del impuesto, expidiendo el recibo oficial respectivo y sellando la factura o comprobante; para hacer constar que el impuesto ha sido cubierto; y
 
 II. Tratándose de vehículos, las autoridades de tránsito en el Estado, no darán trámite a ninguna solicitud de alta o baja si no se hubiere cubierto previamente el impuesto a que se refiere este capítulo, así como lo referente al pago sobre refrendo anual de placa de circulación, tarjeta de circulación y calcomanía.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+III. Si la firma que se encuentra plasmada en el anverso de la factura o comprobante que ampare la propiedad del bien mueble, no coincide con la identificación oficial del otorgante, se ratificará la firma del mismo ante las autoridades fiscales, notario o fedatario público y ante testigos, acompañando copia de la identificación del otorgante, previo cotejo de su original.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+IV. En caso que la factura original o comprobante que ampare la propiedad del bien mueble usado, posea más de dos traslados de dominio, posteriores al propietario inscrito en el Registro Estatal de Vehículos, se solicitará copia de la identificación oficial de la persona que se encuentra registrada y del último cedente.
 
 ###### Artículo 13.
 
@@ -621,13 +629,17 @@ Los obligados a retener el impuesto, al efectuar el entero de la retención, deb
 
 #### SECCIÓN SEGUNDA. DEL OBJETO, SUJETO Y BASE
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 39.
 
-Son objeto de este impuesto, los ingresos que se perciban únicamente por los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre y cuando sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles, de conformidad con lo establecido en la fracción XIV del artículo 15 de la Ley del Impuesto al Valor Agregado.
+Son objeto de este impuesto, los servicios profesionales de medicina, cuando su prestación requiera título de médico conforme a las leyes, siempre y cuando sean prestados por personas físicas, ya sea individualmente o por conducto de sociedades civiles, de conformidad con lo establecido en la fracción XIV del artículo 15 de la Ley del Impuesto al Valor Agregado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 40.
 
-Son sujetos de este impuesto, las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado.
+Son sujetos de este impuesto, las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado, mediante transferencia bancaria o tarjeta bancaria de débito o crédito, sin limitar a los usuarios que requieran sus servicios a recibir el pago exclusivamente en efectivo.
 
 Cuando las personas físicas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán sujetas del impuesto, por la participación que les corresponda en los ingresos de la organización.
 
@@ -647,9 +659,19 @@ Será obligación de las personas físicas y jurídicas colectivas, que en sus i
 
 Para efectos del párrafo anterior, los referidos prestadores de servicio podrán acreditar en la declaración bimestral del Impuesto Sobre Honorarios por actividades profesionales y ejercicios lucrativos no gravados por la ley del impuesto al valor agregado, el monto por concepto de este impuesto que hayan pagado a las personas físicas y jurídicas colectivas, que en sus instalaciones permitan la prestación de procedimientos quirúrgicos.
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Las personas físicas o jurídicas colectivas que omitan presentar el aviso a que hace referencia el tercer párrafo de este artículo, serán solidariamente responsables del impuesto que se deje de pagar.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Para efectos de calcular el impuesto omitido causado por los prestadores de servicio a que se refiere el tercer párrafo del presente artículo, la Autoridad Fiscal en el ejercicio de sus facultades de comprobación, podrá determinar presuntivamente la contribución omitida, utilizando para tal efecto el procedimiento establecido en los artículos 48 y 48 ter del Código Fiscal del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 41.
 
-Quienes hagan pagos a contribuyentes eventuales de este impuesto, deberán retenerlo y enterarlo a la Receptoría de Rentas que corresponda, dentro de los 5 días siguientes a la fecha en que se cause, siendo en todo caso solidariamente responsables de este impuesto.
+Las personas físicas o jurídicas colectivas que en sus establecimientos permitan la prestación de las actividades profesionales y ejercicios lucrativos no gravados por la Ley del Impuesto al Valor Agregado y que a su vez realicen el pago de los honorarios respectivos a los profesionales de medicina, deberán retener y enterar bimestralmente este impuesto en la Receptoría de Rentas que corresponda en forma, a más tardar el día 20 de los meses de: marzo, mayo, julio, septiembre, noviembre, así como, de enero del siguiente año; en todos los casos, posterior a la acusación del impuesto, siendo en todo caso solidariamente responsables de este impuesto.
 
 ###### Artículo 42.
 
@@ -657,25 +679,17 @@ Es base de este impuesto, el monto total de los ingresos a que se refiere el art
 
 #### SECCIÓN TERCERA. DE LAS TASAS Y PAGO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 43.
 
-El impuesto se causará, liquidará y pagará conforme a las siguientes tasas:
+El impuesto se causará, liquidará y pagará conforme a la tasa del 3% sobre el importe total de los ingresos.
 
-I. En forma habitual sobre el importe total de los ingresos. 3.0%
-
-II. En forma eventual sobre el importe total de los ingresos. 10.0%
-
-Para el pago del 10.0 por ciento a que se refiere la fracción II de este artículo, serán responsables solidarios los propietarios o representantes legales de las clínicas, hospitales, sanatorios y los médicos particulares que tengan convenios o estén asociados con los sujetos del impuesto.
-
-Cuando exista (sic) consultas eventuales en consultorios particulares o en algún otro lugar, sean estos hoteles, casas de huéspedes o domicilios particulares, las autoridades fiscales habilitarán al personal para la verificación de los ingresos y la revisión del pago de este impuesto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 44.
 
-El pago del impuesto a que se refiere este capítulo, se efectuará de la manera siguiente:
-
-I. En forma habitual se hará bimestralmente, a más tardar el día 20 de los meses de: marzo, mayo, julio, septiembre, noviembre; así como, de enero del siguiente año.
-
-II. En forma eventual a los 5 días siguientes de percibir el ingreso.
+El pago del impuesto a que se refiere este capítulo, se efectuará bimestralmente, a más tardar el día 20 de los meses de: marzo, mayo, julio, septiembre, noviembre; así como, de enero del siguiente año.
 
 #### SECCIÓN CUARTA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES Y DE TERCEROS
 
@@ -694,6 +708,10 @@ II. Presentar en la Receptoría de Rentas que corresponda a su domicilio fiscal 
 III. Presentar los avisos, documentos, datos e información que le solicite la autoridad fiscal en relación con este impuesto, dentro de los plazos y lugares señalados al efecto.
 
 IV. Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, que en forma general señala la Secretaría y que podrán ser los mismos que establezcan las disposiciones fiscales federales correspondientes.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+V. Aceptar el pago de los honorarios que cobre por las actividades a que hace referencia este capítulo, mediante transferencia bancaria o tarjeta bancaria de débito o crédito, sin limitar a los usuarios que requieran sus servicios a recibir el pago exclusivamente en efectivo.
 
 ###### Artículo 46.
 
@@ -1451,11 +1469,11 @@ primera copia certificada del acta de nacimiento,
 
 no se cobrará este derecho.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-VII. Por certificación de acta de defunción,
+VII. Por certificación de acta de defunción y
 
-supervivencia y matrimonio se pagará. 2.0 UMA
+matrimonio; 2.0 UMA
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
@@ -2129,7 +2147,9 @@ VIII. Por la expedición de la constancia de no
 
 infracción. 3.0 UMA
 
-IX. Reposición de licencia de conducir, en caso de
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+IX. Reimpresión de licencia de conducir, en caso de
 
 robo, extravío o deterioro, estando vigente ese
 
@@ -2565,7 +2585,9 @@ b) Tratándose de predios rústicos, en transición con pendiente ascendente (+)
 
 (a) Mayor a 45 grados. 13.0 UMA
 
-XIII. Por la expedición anual de constancia que acredite su inscripción como perito valuador o perito topógrafo en la Secretaría. 14.0 UMA
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XIII. Por la expedición anual de constancia que acredite su inscripción como perito valuador o perito topógrafo en la Secretaría. 15.0 UMA
 
 XIV. Por la expedición anual de constancia que acredite su inscripción como dibujante técnico en la Secretaría. 14.0 UMA
 
@@ -2797,6 +2819,10 @@ b) Envase abierto:
 
 (ñ) Cine V.I.P. 500.0 UMA
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+(o) Restaurante-Bar. 500.0 UMA
+
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 III. Por el cambio de domicilio en cualquiera de los
@@ -2963,13 +2989,17 @@ VII. Por modificación de cada permiso de
 
 cada establecimiento. 100.0 UMA
 
-#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+#### SECCIÓN ÚNICA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 81.
 
 La Secretaría establecerá un registro estatal de vehículos, con la finalidad de llevar un control de los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, emisión de tarjetas de circulación y otorgamiento de juego de placas, calcomanías y demás comprobantes de pago de impuestos y derechos establecidos en las leyes estatales y federales.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Conforme a lo establecido en esta sección, a fin de validar la información o datos que se encuentran en los documentos proporcionados y en la unidad automotriz, todos los contribuyentes tenedores, usuarios o propietarios de vehículos automotores, que realicen ante el Registro Estatal de Vehículos: altas, cambio de propietario, cambio de motor o color, deberán cumplir previamente con la verificación física y documental de dichas unidades ante la Secretaría de Finanzas, atendiendo el procedimiento que para tal efecto dicte la propia dependencia.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2019)</small>
 
@@ -3527,8 +3557,6 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 #### SECCIÓN SEGUNDA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 88.
 
 Por los servicios prestados por la Secretaría de Finanzas, relacionados con la emisión de la constancia de cumplimiento de obligaciones fiscales, se causarán y pagarán los derechos siguientes:
@@ -3685,15 +3713,15 @@ de Proveedores de Bienes Muebles y
 
 Servicios del Estado de Tabasco. 6.0 UMA
 
-### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE BIENESTAR, SUSTENTABILIDAD Y CAMBIO CLIMÁTICO
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 91.
 
 Por los servicios prestados por la Secretaría de Educación, sus órganos desconcentrados, así como los organismos descentralizados sectorizados a ésta, se causarán y pagarán los derechos conforme al Anexo Primero de la presente Ley.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
@@ -3793,11 +3821,7 @@ del protocolo de pruebas tecnológicas para el
 
 tratamiento de residuos de manejo especial. 60.0 UMA
 
-c) Por la disposición final de residuos de manejo
-
-especial en sitios de disposición final autorizada
-
-por tonelada. 1.0 UMA
+c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 
 d) Por la renovación de la vigencia de autorizaciones
 
@@ -3811,11 +3835,7 @@ f) Por la transferencia de derechos y obligaciones de
 
 autorizaciones de residuos de manejo especial. 100.0 UMA
 
-g) Por la autorización para la prestación de
-
-servicios de manejos de residuos de manejo
-
-especial por más de 3 actividades. 500.0 UMA
+g) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 
 h) Por la autorización para la recolección
 
@@ -3863,9 +3883,23 @@ q) Por la autorización para la disposición final de
 
 residuos de manejo especial. 200.0 UMA
 
-r) Por la autorización para el tratamiento de
+r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 
-residuos de manejo especial. 140.0 UMA
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+s) Por cualquier modificación de Registros o
+
+Planes de Manejo de Residuos de manejo
+
+especial. 10.00 UMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+t) Por la liberación de residuos provenientes
+
+del tratamiento de residuos de manejo especial
+
+de competencia estatal, por tonelada. 1.00 UMA
 
 IV. Derechos por trámites en materia de prevención y control de la contaminación atmosférica:
 
@@ -3969,47 +4003,13 @@ fabricación, elaboración, producción o
 
 manufactura de bolsas y popotes de plástico. 150.0 UMA
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 #### SECCIÓN PRIMERA
 
 ###### Artículo 91-B.
 
-Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza “Yumka’” del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-I. Entrada general:
-
-a) Niño. 0.71 UMA
-
-b) Adulto. 1.42 UMA
-
-c) Adulto mayor con tarjeta expedida por el
-
-Instituto Nacional de las Personas Adultas Mayores. 0.71 UMA
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
-
-I. En apoyo al turismo del Estado, a los adultos y niños que presente cupón o carta de algún hotel domiciliado en el Estado, obtendrán el 40 por ciento de descuento.
-
-II. En apoyo a la educación, se otorgan los siguientes descuentos:
-
-a) A los maestros y estudiantes de escuelas de preescolar y primaria, secundarias, preparatorias y universidades de Tabasco, el 60 por ciento de descuento.
-
-b) A los maestros que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 40 por ciento de descuento.
-
-c) A los estudiantes menores de 12 años y que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 20 por ciento de descuento.
-
-d) A los maestros, así como a los estudiantes siempre que éstos sean mayores de 12 años y pertenezcan a escuelas de secundaria, preparatoria y universidades del resto de la República Mexicana, el 40 por ciento de descuento.
-
-Para poder ser beneficiados con los descuentos otorgados en la presente fracción, los maestros y estudiantes deberán presentar copia del documento que los acredite como tales respectivamente.
-
-III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco.
-
-IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumká" del Estado de Tabasco en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 2022)
 
 ### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
 
@@ -4377,17 +4377,7 @@ a) Por la recepción, evaluación y resolución del Dictamen de Impacto Urbano G
 
 b) Por la recepción, evaluación y resolución del Dictamen de Impacto Urbano para instalaciones y estaciones de servicio de Gas Licuado de Petróleo y gasolinas. 480.0 UMA
 
-II. Por el cobro de los trámites de Dictamen para la Conveniencia y Forma de Penetración en el territorio:
-
-a) Kilómetro base, desde la revisión hasta el dictamen. 700.0 UMA
-
-b) Kilómetro suplementario sin edificaciones. 80.0 UMA
-
-c) Kilómetro suplementario con edificaciones. 160.0 UMA
-
-d) Baterías, localizaciones de pozos, estaciones de compresión, centrales de almacenamiento y bombeo, centrales de recolección, áreas de trampas, cabezales de recolección y otros. 700.0 UMA
-
-e) Visita de campo adicional por causas imputables al solicitante. 300.0 UMA
+II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
 III. Derechos por trámites en materia de Certificación de Predio por Ubicación en Zona de Riesgo.
 
@@ -4605,6 +4595,10 @@ gg) Draga de cortador y succión con sus accesorios,
 
 serie 370 HP. 172.66 UMA
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+hh) Cargador Frontal Línea 955-L, marca Caterpillar. 29.61 UMA
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 Cuando el equipo sea excedente de dimensiones como norma preventiva, se cobrará adicionalmente el uso diario de un vehículo piloto guía.
@@ -4774,6 +4768,10 @@ ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 3.63 UMA
 gg) Draga de cortador y succión con sus accesorios,
 
 serie 370 HP marca, Ellicott. 153.47 UMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+hh) Cargador Frontal Línea 955-L, marca Caterpillar. 27.50 UMA
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -5033,11 +5031,11 @@ g) Nuez de semilla de coco enano malayo. 0.115 UMA
 
 h) Mazorca de cacao para semilla. 0.115 UMA
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 i) Vareta terminal madura para injertación de diferentes
 
-especies. 0.115 UMA
+especies. 0.057 UMA
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -5053,9 +5051,11 @@ III. El costo por el uso de maquinaria agrícola,
 
 por los productores agropecuarios:
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
 a) Uso de tractor (capacidad hasta 90 hp) para
 
-actividades de mecanización por mes. 334.75 UMA
+actividades de mecanización por mes. 155.89 UMA
 
 b) Uso de tractor (capacidad mayor a 90 hp)
 
@@ -5286,6 +5286,10 @@ sombra, etc. 0.060 UMA
 (b) Con descuento del 40%. 0.036 UMA
 
 (c) Con descuento del 60%. 0.024 UMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+d) Planta clonada. 0.103 UMA
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -5959,29 +5963,35 @@ a) Uso de las instalaciones por día:
 
 Con la finalidad de promover el esparcimiento cultural en el Estado de Tabasco, se fijan las siguientes tarifas siempre que las instalaciones del Teatro Esperanza Iris sean solicitadas para su uso por:
 
-(a) Con fines lucrativos o no lucrativos,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-para personas físicas o jurídico colectivas
+(a) Con fines lucrativos o no lucrativos, para
 
-(morales), que no se encuentren catalogadas,
+personas físicas o jurídico colectivas (morales),
+
+y escuelas e instituciones de educación privada,
 
 cubrirán un costo general de: 780.92 UMA
 
-(b) Escuelas privadas, academias de arte,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-instituciones o agrupaciones de arte legalmente
+(b) Escuelas e instituciones de educación pública,
 
-constituidas y registradas antes autoridad
+instituciones, academias, y agrupaciones de arte
 
-competente y que dentro de sus objetivos
+legalmente constituidas y registradas ante autoridad
 
-acrediten tener fines culturales, educativos,
+competente que acrediten tener dentro de sus
 
-recreativos, científicos y tecnológicos; y escuelas
+objetivos fines culturales, recreativos, científicos y
 
-públicas, cubrirán un costo de: 295.89 UMA
+tecnológicos. 295.89 UMA
 
-(c) Instituciones gubernamentales. 205.37 UMA
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+(c) Entes Públicos distintos a los previstos en los
+
+sub-incisos (a) y (b) de este inciso. 205.37 UMA
 
 b) Uso de las instalaciones para ensayo por día. 136.91 UMA
 
@@ -6165,7 +6175,7 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 #### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 100.
 
@@ -6211,7 +6221,9 @@ Poder Ejecutivo para la venta de cartuchos de uso deportivo. 52.0 UMA
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 103.
 
@@ -6245,6 +6257,18 @@ XIII. Ingreso al Centro de Cuidado del Adulto Mayor (CECUIDAM) para el público 
 
 XIV. Talleres para adultos mayores del CECUIDAM, se cobrará el derecho al mes. 2.36 UMA
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XV. Inscripción Anual Centro de Atención Infantil (CAI) ISSET. 15.59 UMA
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XVI. Servicio mensual Centro de Atención Infantil (CAI) Particular. 41.58 UMA
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XVII. Servicio mensual Centro de Atención Infantil (CAI) lista de raya, contratos o supernumerarios ISSET. 10.92 UMA
+
 ###### Artículo 104.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
@@ -6269,7 +6293,7 @@ XIV. Talleres para adultos mayores del CECUIDAM, se cobrará el derecho al mes. 
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 110.
 
@@ -6303,55 +6327,105 @@ No se cobrará por emisión de las constancias de afectaciones a que se refiere 
 
 VII. Estudio de prefactibilidad de análisis de riesgo. 100.00 UMA
 
-VIII. Dictamen de seguridad e inspección en edificaciones de 0.01 a 50 metros cuadrados. 60.00 UMA
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-IX. Dictamen de seguridad e inspección en edificaciones de 50.01 a 100 metros cuadrados. 100.00 UMA
+VIII. Dictamen de seguridad e inspección en edificaciones:
 
-X. Dictamen de seguridad e inspección en edificaciones de 100.01 a 150 metros cuadrados. 125.00 UMA
+a) Edificaciones de 0.01 a 50 metros cuadrados. 60.00 UMA
 
-XI. Dictamen de seguridad e inspección en edificaciones de 150.01 a 200.00 metros cuadrados. 150.00 UMA
+b) Edificaciones de 50.01 a 100 metros cuadrados. 100.00 UMA
 
-XII. Dictamen de seguridad e inspección en edificaciones de 200.01 a 250 metros cuadrados. 200.00 UMA
+c) Edificaciones de 100.01 a 150 metros cuadrados. 125.00 UMA
 
-XIII. Dictamen de seguridad e inspección en edificaciones de 250.01 a 300 metros cuadrados. 250.00 UMA
+d) Edificaciones de 150.01 a 200 metros cuadrados. 150.00 UMA
 
-XIV. Dictamen de seguridad e inspección en edificaciones de 300.01 a 500.00 metros cuadrados. 300.00 UMA
+e) Edificaciones de 200.01 a 250 metros cuadrados. 200.00 UMA
 
-XV. Dictamen de seguridad e inspección en edificaciones de 500.01 metros cuadrados en adelante. 350.0 UMA
+f) Edificaciones de 250.01 a 300 metros cuadrados. 250.00 UMA
+
+g) Edificaciones de 300.01 a 500 metros cuadrados. 300.00 UMA
+
+h) Edificaciones de 500.01 en adelante 350.00 UMA
+
+IX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+X. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XIV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
 XVI. Renovación del dictamen de seguridad e inspección en edificaciones sin modificaciones que se encuentren operando. 50.00 UMA
 
-XVII. Dictamen de riesgo en predios de 0.01 a 1.00 hectárea. 60.00 UMA
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Dictamen de riesgo en predios de 1.01 a 5.00 hectáreas. 100.00 UMA
+XVII. Dictamen de riesgo en predios:
 
-XIX. Dictamen de riesgo en predios de 5.01 a 10.00 hectáreas. 150.00 UMA
+a) Predios de 0.01 a 1.00 hectárea. 60.00 UMA
 
-XX. Dictamen de riesgo en predios de 10.01 a 20.00 hectáreas. 200.00 UMA
+b) Predios de 1.01 a 5.00 hectáreas. 100.00 UMA
 
-XXI. Dictamen de riesgo en predios de 20.01 a 50.00 hectáreas. 300.00 UMA
+c) Predios de 5.01 a 10.00 hectáreas. 150.00 UMA
 
-XXII. Dictamen de riesgo en predios de 50.01 a 100.00 hectáreas. 400.00 UMA
+d) Predios de 10.01 a 20.00 hectáreas. 200.00 UMA
 
-XXIII. Dictamen de riesgo en predios de 100.01 a 200.00 hectáreas. 500.00 UMA
+e) Predios de 20.01 a 50.00 hectáreas. 300.00 UMA
 
-XXIV. Dictamen de riesgo en predios de 200.01 a 300.00 hectáreas. 600.00 UMA
+f) Predios de 50.01 a 100.00 hectáreas. 400.00 UMA
 
-XXV. Dictamen de riesgo en predios de 300.01 a 400.00 hectáreas. 700.00 UMA
+g) Predios de 100.01 a 200.00 hectáreas. 500.00 UMA
 
-XXVI. Dictamen de riesgo en predios de 400.01 a 500.00 hectáreas. 800.00 UMA
+h) Predios de 200.01 a 300.00 hectáreas. 600.00 UMA
 
-XXVII. Dictamen de riesgo en predios de 500.01 a 600.00 hectáreas. 900.00 UMA
+i) Predios de 300.01 a 400.00 hectáreas. 700.00 UMA
 
-XXVIII. Dictamen de riesgo en predios de 600.01 a 700.00 hectáreas. 1,000.00 UMA
+j) Predios de 400.01 a 500.00 hectáreas. 800.00 UMA
 
-XXIX. Dictamen de riesgo en predios de 700.01 a 800.00 hectáreas. 1,100.00 UMA
+k) Predios de 500.01 a 600.00 hectáreas. 900.00 UMA
 
-XXX. Dictamen de riesgo en predios de 800.01 a 900.00 hectáreas. 1,200.00 UMA
+l) Predios de 600.01 a 700.00 hectáreas. 1,000.00 UMA
 
-XXXI. Dictamen de riesgo en predios de 900.01 a 1,000 hectáreas. 1,300.00 UMA
+m) Predios de 700.01 a 800.00 hectáreas. 1,100.00 UMA
+
+n) Predios de 800.01 a 900.00 hectáreas. 1,200.00 UMA
+
+o) Predios de 900,01 a 1,000 hectáreas. 1,300.00 UMA
 
 En predios con más de 1,000 hectáreas, por cada 50 hectáreas adicionales se cobrará 450.00 UMA.
+
+XVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XIX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXIV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXVI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXVII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXIX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXX. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
+
+XXXI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
 XXXII. Resguardo de eventos socio-organizativos por un tiempo máximo de 8 horas:
 
@@ -6403,27 +6477,49 @@ n) Curso en sistema de alerta temprana 5.00 UMA
 
 o) Curso de primeros auxilios psicológicos en emergencia y desastre. 5.00 UMA
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+p) Curso para el manejo de motores fuera de borda. 5.00 UMA
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+q) Cursos especiales de protección civil. 18.00 UMA
+
 En caso de agrupar un número mínimo de 10 personas hasta un máximo de 50, se cobrará 4.00 UMA por persona.
 
 XXXVI. Dictamen para la emisión de opinión por parte del Gobernador Constitucional del Estado, para el uso de sustancias explosivas en la industria y en los centros artesanales, como requisito para que la Secretaría de la Defensa Nacional otorgue el permiso correspondiente:
 
-a) Sobre predios de 10 a 200 metros cuadrados. 7.00 UMA
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-b) Sobre predios de 201 a 500 metros cuadrados. 95.00 UMA
+a) Sobre predios de 10 a 200 metros cuadrados. 15.00 UMA
 
-c) Sobre predios de 501 a 1,000 metros cuadrados. 120.00 UMA
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-d) Sobre predios de 1,001 a 10,000 metros cuadrados. 195.00 UMA
+b) Sobre predios de 201 a 500 metros cuadrados. 100.00 UMA
 
-e) Sobre predios de 10,001 a 50,000 metros cuadrados. 420.00 UMA
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
-f) Sobre predios con más de 50,000 metros cuadrados. 645.00 UMA
+c) Sobre predios de 501 a 1,000 metros cuadrados. 125.00 UMA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+d) Sobre predios de 1,001 a 10,000 metros cuadrados. 150.00 UMA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+e) Sobre predios de 10,001 a 50,000 metros cuadrados. 200.00 UMA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+f) Sobre predios con más de 50,000 metros cuadrados. 250.00 UMA
 
 XXXVII. Poda de árbol en domicilio o establecimientos particulares. 20.00 UMA
 
 XXXVIII. Tala de árbol en domicilio o establecimientos particulares. 40.00 UMA
 
-XXXIX. Atención de sistemas de contención de agua como cisternas, albercas y tinacos por cada uno de ellos y hasta un total de 10,000 litros. 15.00 UMA
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XXXIX. Atención de sistemas de suministro a empresas privadas o centros comerciales, cisternas y tinacos por cada uno de ellos y hasta un total de 10,000 litros. 15.00 UMA
 
 XL. Resguardos de eventos acuáticos particulares como competencias de pesca deportiva, carreras de lanchas, eventos religiosos y similares por un tiempo máximo de 8 horas:
 
@@ -6441,7 +6537,9 @@ f) De 9,001 personas en adelante. 325.00 UMA
 
 XLI. Retiro de espectaculares en propiedad privada. 20.00 UMA
 
-XLII. Recorridos y arrastres de lanchas y chalanas en medio acuático en un radio de 15 km. 45.00 UMA
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+XLII. Recorridos y arrastres de lanchas y chalanas en medio acuático en un radio de 15 km a particulares. 45.00 UMA
 
 XLIII. Rescate de vehículos particulares en aguas profundas. 100.00 UMA
 
@@ -6519,13 +6617,9 @@ a) Por 4 horas. 15.00 UMA
 
 b) Por 8 horas. 30.00 UMA
 
-XLVIII. Dictamen técnico en materia de riesgos:
+XLVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
-a) Trabajo con visita de campo. 30.00 UMA
-
-b) Trabajo documental. 15.00 UMA
-
-#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
 
 ###### Artículo 111.
 
@@ -6723,6 +6817,8 @@ XXXIII. Por el uso anual de espacio
 
 para publicidad en espectacular F. 133.90 UMA
 
+#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+
 ###### Artículo 112.
 
 Por los servicios relacionados al Instituto de Vivienda de Tabasco, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
@@ -6759,143 +6855,161 @@ venta de lotes y viviendas. 2.80 UMA
 
 Por los servicios prestados por la Comisión Estatal de Agua y Saneamiento, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes abajo descritos.
 
-Cuando no se tenga instalado un aparato de medición que determine el volumen de agua por causas no imputables al usuario, la tarifa de agua se pagará únicamente la cuota mínima en el rango de consumo de 0 a 25 m3.
+Cuando no se tenga instalado un aparato de medición que determine el volumen de agua por causas no imputables al usuario, la tarifa de agua se pagará únicamente la cuota mínima en el rango de consumo establecido.
 
-I. USO DOMÉSTICO. Por la recaudación de los Derechos de Agua (sic) Uso Doméstico, mensual por vivienda:
+I. USO DOMÉSTICO. Por la recaudación de los Derechos de Agua Uso Doméstico, mensual por inmueble:
 
-a) Popular:
+A) Popular:
 
-(a) Popular de 0 hasta 25m3 (Cuota mínima). 0.37 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 0.37 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.03 UMA
 
-b) Medio:
+B) Medio:
 
-a) Medio de 0 hasta 25 m3 (Cuota mínima). 0.47 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 0.47 UMA
 
-b) De 26 m3 en adelante precio por m3. 0.04 UMA
+(b) De 26 m3 en adelante precio por m3. 0.04 UMA
 
-c) Múltiple:
+C) Múltiple:
 
-(a) Múltiple de 0 hasta 25 m3 (Cuota mínima). 0.71 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 0.71 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.06 UMA
 
-d) Residencial:
+D) Residencial sin alberca:
 
-(a) Residencial de 0 hasta 25 m3 (Cuota mínima). 1.10 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 1.10 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.09 UMA
 
-e) Residencial alberca uso común:
+E) Residencial alberca uso común:
 
-(a) Residencial con alberca para uso común de 0 hasta 25 m3 (Cuota mínima). 1.47 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 1.52 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.12 UMA
 
-f) Residencial alberca uso privado:
+F) Residencial alberca uso privado:
 
-(a) Residencial con alberca para uso privado de 0 hasta 25 m3 (Cuota mínima). 1.54 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 1.60 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.13 UMA
 
-g) Comercial:
+G) Comercial:
 
-(a) Comercial de 0 hasta 25 m3 (Cuota mínima). 2.42 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 2.42 UMA
 
 (b) De 26 m3 en adelante precio por m3. 0.19 UMA
 
-h) Viviendas abandonadas. 0.19 UMA
+H) Viviendas abandonadas. 0.19 UMA
 
-II. USO COMERCIAL. Por la recaudación de los Derechos de Agua Comercial, mensual:
+I) Solo drenaje 0.19 UMA
 
-a) Básico:
+Los usuarios a que se refiere el artículo 4, fracción LVII de la Ley de Usos de Agua del Estado de Tabasco, que sean personas de la tercera edad, propietarios de un inmueble con toma de uso de agua doméstico, y que se encuentren afiliados al Instituto Nacional de las Personas Adultas Mayores, recibirán un descuento del 50% sobre el adeudo total a pagar al presentar la credencial del INAPAM vigente.
 
-(a) Básico de 0 hasta 25 m3 (Cuota mínima). 3.22 UMA
+II. USO COMERCIAL. Por la recaudación de los Derechos de Agua Uso Comercial, mensual por inmueble:
 
-(b) De 26 m3 en adelante precio por m3. 0.26 UMA
+A) Básico:
 
-b) General:
+(a) De 0 hasta 25 m3 (Cuota mínima). 3.22 UMA
 
-(a) General de 0 hasta 25 m3 (Cuota mínima). 5.60 UMA
+(b) De 26 m3 en adelante precio por m3. 0.20 UMA
 
-(b) De 26 m3 en adelante precio por m3. 0.45 UMA
+B) General:
 
-c) Especial:
+(a) De 0 hasta 25 m3 (Cuota mínima). 5.60 UMA
 
-(a) Especial:
+(b) De 26 m3 en adelante precio por m3. 0.20 UMA
 
-1. Especial de 0 hasta 25 m3 (Cuota mínima). 22.23 UMA
+C) Especial:
 
-2. De 26 m3 en adelante precio por m3. 1.78 UMA
+(a) De 0 hasta 25 m3 (Cuota mínima). 23.11 UMA
 
-(b) Especial lavadoras de autos y camiones:
+(b) De 26 m3 en adelante precio por m3. 0.20 UMA
 
-1. De 0 hasta 25 m3 (Cuota mínima). 23.82 UMA
+D) Lavadoras de autos y camiones:
 
-2. De 26 m3 en adelante precio por m3. 1.91 UMA
+(a) De 0 hasta 50m3 (Cuota mínima). 24.77 UMA
 
-(c) Especial purificadoras de agua en casa habitación o módulos independientes:
+(b) De 51 m3 en adelante precio por m3. 0.20 UMA
 
-1. De 0 hasta 25 m3 (Cuota mínima). 23.82 UMA
+E) Purificadoras de agua en casa habitación o módulos independientes:
 
-2. De 26 m3 en adelante precio por m3. 1.91 UMA
+(a) De 0 hasta 50 m3 (Cuota mínima). 15.58 UMA
 
-(d) Especial lavado y planchado de ropa:
+(b) De 51 m3 en adelante precio por m3. 0.20 UMA
 
-1. De 0 hasta 25 m3 (Cuota mínima). 22.23 UMA
+F) Lavado y planchado de ropa:
 
-2. De 26 m3 en adelante precio por m3. 1.78 UMA
+(a) De 0 hasta 50 m3 (Cuota mínima). 22.23 UMA
 
-d) Macro medición:
+(b) De 51 m3 en adelante precio por m3. 0.20 UMA
 
-Tomas mayores de 1" hasta 2". No se permiten mayores diámetros.
+G) Macromedición (Tomas de 1" hasta 2”):
 
-(a) Macro-medición de 0 hasta 25 m3 (Cuota mínima). 69.90 UMA
+(a) De 0 hasta 100 m3 (Cuota mínima). 76.19 UMA
 
-(b) De 26m3 en adelante precio por m3. 5.59 UMA
+(b) De 101 m3 en adelante precio por m3. 0.20 UMA
 
-III. USO INDUSTRIAL Por la recaudación de los Derechos de Agua Industrial, mensual:
+H) Locales comerciales abandonados. 1.04 UMA
 
-a) Servicios:
+I) Solo drenaje 1.77 UMA
 
-(a) Servicios de 0 hasta 25 m3. Tomas hasta de 1" (Cuota mínima). 22.23 UMA
+III. USO INDUSTRIAL. Por la recaudación de los Derechos de Agua Industrial, mensual por inmueble.
 
-(b) De 26 m3 en adelante precio por m3. 1.78 UMA
+A) Servicios (Tomas hasta de 1"):
 
-b) Producción:
+(a) De 0 hasta 100 m3 (Cuota mínima). 22.23 UMA
 
-(a) Producción de 0 hasta 25 m3. Tomas mayores de 1" hasta 2". No se permiten de mayores diámetros (Cuota mínima). 125.81 UMA
+(b) De 101 m3 en adelante precio por m3. 0.30 UMA
 
-(b) De 26 m3 en adelante precio por m3. 10.06 UMA
+B) Producción (Tomas de 1” hasta 2"):
 
-IV. USO PÚBLICO. Por la recaudación de los Derechos de Agua en inmuebles destinados al servicio público, mensual:
+(a) De 0 hasta 100 m3 (Cuota mínima). 125.81 UMA
 
-a) Oficinas, Parques, Jardines, Centros de Salud y dependencias generales:
+(b) De 101 m3 en adelante precio por m3. 0.30 UMA
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 13.39 UMA
+C) Solo drenaje 5.20 UMA
 
-(b) De 26m3 en adelante precio por m3. 1.07 UMA
+IV. USO PÚBLICO. Por la recaudación de los Derechos de Agua en inmuebles destinados al servicio público, mensual por inmueble:
 
-b) Mercados en zona húmeda, por local:
+A) Oficinas, Parques, Jardines, Centros de Salud y dependencias generales:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 14.35 UMA
+(a) De 0 hasta 100 m3 (Cuota mínima). 13.39 UMA
 
-(b) De 26 m3 en adelante precio por m3. 1.15 UMA
+(b) De 101 m3 en adelante precio por m3. 0.05 UMA
 
-c) Hospitales:
+B) Mercados en zona húmeda, por local:
 
-(a) De 0 hasta 25 m3 (Cuota mínima). 14.35 UMA
+(a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA
 
-(b) De 26 m3 en adelante precio por m3. 1.15 UMA
+(b) De 101 m3 en adelante precio por m3. 0.10 UMA
 
-d) Locales públicos abandonados. 3.34 UMA
+C) Hospitales:
 
-V. DERECHOS DE AGUA EN CAMPAMENTOS HABITACIONALES, VIVIENDAS O INMUEBLES PARA ALOJAMIENTOS MASIVOS DE PERSONAL. Por la recaudación de los Derechos de Agua para consumo humano en Campamentos habitacionales, viviendas e inmuebles de alojamiento masivo.
+(a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA
 
-a) 0 hasta 25 m3 (Cuota mínima). 62.90 UMA
+(b) De 101 m3 en adelante precio por m3. 0.05 UMA
 
-b) De 26 m3 en adelante precio por m3. 5.03 UMA
+D) Universidades y Escuelas Públicas
+
+(a) De 0 hasta 100 m3 (Cuota mínima). 14.35 UMA.
+
+(b) De 101 m3 en adelante precio por m3. 0.05 UMA.
+
+E) Locales públicos abandonados. 3.34 UMA
+
+F) Solo drenaje 1.00 UMA
+
+V. USO EN CAMPAMENTOS HABITACIONALES, VIVIENDAS O INMUEBLES PARA ALOJAMIENTOS MASIVOS DE PERSONAL. Por la recaudación de los Derechos de Agua para consumo humano en Campamentos habitacionales, viviendas e inmuebles de alojamiento masivo, mensual por módulo:
+
+A) Módulos
+
+(a) De 0 hasta 100 m3 (Cuota mínima). 62.90 UMA
+
+(b) De 101 m3 en adelante precio por m3. 0.30 UMA
+
+B) Solo drenaje 10.40 UMA
 
 VI. CONTRATOS. Por los contratos de adhesión de los servicios de agua potable:
 
@@ -6905,7 +7019,7 @@ b) Doméstico medio. 10.48 UMA
 
 c) Doméstico múltiple. 10.80 UMA
 
-d) Doméstico residencial. 22.56 UMA
+d) Doméstico residencial sin alberca. 22.56 UMA
 
 e) Doméstico residencial con alberca de uso común. 23.36 UMA
 
@@ -6917,23 +7031,37 @@ h) Comercial básico. 32.24 UMA
 
 i) Comercial general. 40.29 UMA
 
-j) Comercial especial. 112.81 UMA
+j) Comercial especial. 56.40 UMA
 
-k) Comercial macro medición. 120.86 UMA
+k) Comercial lavadora autos y camiones. 56.73 UMA
 
-l) Industrial servicios. 112.81 UMA
+l) Comercial purificadera dispensadora. 57.16 UMA
 
-m) Industrial producción. 128.92 UMA
+m) Comercial lavadora y planchadora de ropa. 57.79 UMA
 
-n) Servicio público. 24.14 UMA
+n) Comercial macro medición. 60.43 UMA
 
-o) Campamentos (costo por persona). 1.11 UMA
+o) Industrial servicios. 67.68 UMA
 
-VII. INTERCONEXIÓN. Por los costos de interconexión a los servicios de agua potable o sistemas de drenaje y alcantarillado (Medidas superiores a la media pulgada de diámetro hasta 3").
+p) Industrial producción. 77.35 UMA
 
-a) Para agua potable:
+q) Servicio público oficinas 24.17 UMA
 
-(a) Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
+r) Servicio público mercados. 25.32 UMA
+
+s) Servicio público hospitales. 26.49 UMA
+
+t) Servicio público escuelas públicas. 26.49 UMA
+
+u) Campamentos (costo por persona). 0.30 UMA
+
+v) Contrato Comité Rural 2.15 UMA
+
+VII. INTERCONEXIÓN. Por los costos de los derechos de interconexión a los servicios de agua potable o sistemas de drenaje y alcantarillado (medidas superiores a la 1/2” de diámetro hasta 3”).
+
+A) Para agua potable:
+
+a. Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
 
 1. Interés popular. 36.00 UMA
 
@@ -6941,55 +7069,55 @@ a) Para agua potable:
 
 3. Interés residencial. 90.00 UMA
 
-(b) Usuarios comerciales:
+b. Usuarios comerciales:
 
 Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4"). 518.46 UMA
+1. Tres cuartos de pulgada (3/4”). 518.46 UMA
 
-2. Una pulgada (1"). 788.46 UMA
+2. Una pulgada (1”). 788.46 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 1,058.46 UMA
+3. Una pulgada y cuarto (1 1/4”). 1,058.46 UMA
 
-4. Una pulgada y media (1 1/2"). 1,688.46 UMA
+4. Una pulgada y media (1 1/2”). 1,688.46 UMA
 
-5. Dos pulgadas (2"). 3,038.46 UMA
+5. Dos pulgadas (2”). 3,038.46 UMA
 
-6. Dos pulgadas y media (2 1/2"). 4,793.46 UMA
+6. Dos pulgadas y media (2 1/2”). 4,793.46 UMA
 
-7. Tres pulgadas (3"). 6,278.46 UMA
+7. Tres pulgadas (3”). 6,278.46 UMA
 
-(c) Usuarios industriales.
+c. Usuarios industriales.
 
 Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4"). 1,035.00 UMA
+1. Tres cuartos de pulgada (3/4”). 1,035.00 UMA
 
-2. Una pulgada (1"). 1,170.00 UMA
+2. Una pulgada (1”). 1,170.00 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 1,710.00 UMA
+3. Una pulgada y cuarto (1 1/4”). 1,710.00 UMA
 
-4. Una pulgada y media (1 1/2"). 2,520.00 UMA
+4. Una pulgada y media (1 1/2”). 2,520.00 UMA
 
-5. Dos pulgadas (2"). 4,500.00 UMA
+5. Dos pulgadas (2”). 4,500.00 UMA
 
-6. Dos pulgadas y media (2 1/2"). 7,200.00 UMA
+6. Dos pulgadas y media (2 1/2”). 7,200.00 UMA
 
-7. Tres pulgadas (3"). 9,360.00 UMA
+7. Tres pulgadas (3”). 9,360.00 UMA
 
-8. Cuatro pulgadas (4"). 10,890.00 UMA
+8. Cuatro pulgadas (4”). 10,890.00 UMA
 
-(d) Usuarios para campamentos habitacionales:
+d. Usuarios para campamentos habitacionales:
 
 1. Por persona 8.37 UMA
 
-(e) Usuarios para hoteles y moteles.
+e. Usuarios para hoteles y moteles.
 
 1. Por Habitación 22.50 UMA
 
-b) PARA DRENAJE Y ALCANTARILLADO.
+B) PARA DRENAJE Y ALCANTARILLADO.
 
-(a) Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
+a. Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
 
 1. Interés popular. 25.02 UMA
 
@@ -6997,113 +7125,57 @@ b) PARA DRENAJE Y ALCANTARILLADO.
 
 3. Interés residencial. 63.00 UMA
 
-(b) Usuarios comerciales.
+b. Usuarios comerciales:
 
 Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4"). 362.92 UMA
+1. Tres cuartos de pulgada (3/4”). 362.92 UMA
 
-2. Una pulgada (1"). 551.92 UMA
+2. Una pulgada (1”). 551.92 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 740.92 UMA
+3. Una pulgada y cuarto (1 1/4”). 740.92 UMA
 
-4. Una pulgada y media (1 1/2"). 1,181.92 UMA
+4. Una pulgada y media (1 1/2”). 1,181.92 UMA
 
-5. Dos pulgadas (2"). 2,126.92 UMA
+5. Dos pulgadas (2”). 2,126.92 UMA
 
-6. Dos pulgadas y media (2 1/2"). 3,355.42 UMA
+6. Dos pulgadas y media (2 1/2”). 3,355.42 UMA
 
-7. Tres pulgadas (3"). 4,394.92 UMA
+7. Tres pulgadas (3”). 4,394.92 UMA
 
-(c) Usuarios industriales.
+c. Usuarios industriales.
 
 Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4"). 724.50 UMA
+1. Tres cuartos de pulgada (3/4”). 724.50 UMA
 
-2. Una pulgada (1"). 819.00 UMA
+2. Una pulgada (1”). 819.00 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 1,197.00 UMA
+3. Una pulgada y cuarto (1 1/4”). 1,197.00 UMA
 
-4. Una pulgada y media (1 1/2"). 1,764.00 UMA
+4. Una pulgada y media (1 1/2”). 1,764.00 UMA
 
-5. Dos pulgadas (2"). 3,150.00 UMA
+5. Dos pulgadas (2”). 3,150.00 UMA
 
-6. Dos pulgadas y media (2 1/2"). 5,040.00 UMA
+6. Dos pulgadas y media (2 1/2”). 5,040.00 UMA
 
-7. Tres pulgadas (3"). 6,552.00 UMA
+7. Tres pulgadas (3”). 6,552.00 UMA
 
-8. Cuatro pulgadas (4"). 7,623.00 UMA
+8. Cuatro pulgadas (4”). 7,623.00 UMA
 
-(d) Para campamentos habitacionales:
+d. Usuarios para campamentos habitacionales:
 
 1. Por persona. 5.86 UMA
 
-(e) Para hoteles y moteles:
+e. Para hoteles y moteles:
 
 1. Por Habitación. 15.75 UMA
 
-VIII. SUPERVISIÓN. Por los costos de los gastos de supervisión de los trabajos de interconexión a los servicios de agua potable y/o sistemas de alcantarillado (medidas superiores a la media pulgada de diámetro).
+VIII. SUPERVISIÓN. Por los costos de los gastos de supervisión de los trabajos de interconexión a los servicios de agua potable o sistemas de drenaje y alcantarillado (medidas superiores a la 1/2” de diámetro).
 
-a) Para agua potable:
+A) Para agua potable:
 
-(a) Usuarios domésticos (fraccionamientos o conjuntos habitacionales horizontales/verticales). Monto por cada vivienda:
-
-1. Interés popular. 3.6 UMA
-
-2. Interés medio. 5.4 UMA
-
-3. Interés residencial. 9.0 UMA
-
-(b) Usuarios comerciales.
-
-Diámetro de la toma de agua:
-
-1. Tres cuartos de pulgada (3/4"). 51.84 UMA
-
-2. Una pulgada (1"). 78.84 UMA
-
-3. Una pulgada y cuarto (1 1/4"). 105.84 UMA
-
-4. Una pulgada y media (1 1/2"). 168.84 UMA
-
-5. Dos pulgadas (2"). 303.84 UMA
-
-6. Dos pulgadas y media (2 1/2"). 479.84 UMA
-
-7. Tres pulgadas (3"). 627.84 UMA
-
-(c) Usuarios industriales.
-
-Diámetro de la toma de agua:
-
-1. Tres cuartos de pulgada (3/4"). 103.50 UMA
-
-2. Una pulgada (1"). 117.00 UMA
-
-3. Una pulgada y cuarto (1 1/4"). 171.00 UMA
-
-4. Una pulgada y media (1 1/2"). 252.00 UMA
-
-5. Dos pulgadas (2"). 450.00 UMA
-
-6. Dos pulgadas y media (2 1/2"). 720.00 UMA
-
-7. Tres pulgadas (3"). 936.00 UMA
-
-8. Cuatro pulgadas (4"). 1,089.00 UMA
-
-(d) Para campamentos habitacionales:
-
-1. Por persona. 0.84 UMA
-
-(e) Para hoteles y moteles.
-
-1. Por Habitación. 2.00 UMA
-
-b) Para drenaje y/o alcantarillado:
-
-(a) Usuarios domésticos (fraccionamientos o conjuntos habitacionales horizontales/verticales). Monto por cada vivienda:
+a. Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
 
 1. Interés popular. 3.6 UMA
 
@@ -7111,101 +7183,175 @@ b) Para drenaje y/o alcantarillado:
 
 3. Interés residencial. 9.0 UMA
 
-(b) Usuarios comerciales.
+b. Usuarios comerciales:
 
-Diámetro de la toma de agua:
+Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4''). 51.84 UMA
+1. Tres cuartos de pulgada (3/4”). 51.84 UMA
 
-2. Una pulgada (1"). 78.84 UMA
+2. Una pulgada (1”). 78.84 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 105.84 UMA
+3. Una pulgada y cuarto (1 1/4”). 105.84 UMA
 
-4. Una pulgada y media (1 1/2"). 168.84 UMA
+4. Una pulgada y media (1 1/2”). 168.84 UMA
 
-5. Dos pulgadas (2"). 303.84 UMA
+5. Dos pulgadas (2”). 303.84 UMA
 
-6. Dos pulgadas y media (2 1/2"). 479.84 UMA
+6. Dos pulgadas y media (2 1/2”). 479.84 UMA
 
-7. Tres pulgadas (3"). 627.84 UMA
+7. Tres pulgadas (3”). 627.84 UMA
 
-(c) Usuarios industriales.
+c. Usuarios industriales.
 
-Diámetro de la toma de agua:
+Diámetro de la toma:
 
-1. Tres cuartos de pulgada (3/4"). 103.50 UMA
+1. Tres cuartos de pulgada (3/4”). 103.50 UMA
 
-2. Una pulgada (1"). 117.00 UMA
+2. Una pulgada (1”). 117.00 UMA
 
-3. Una pulgada y cuarto (1 1/4"). 171.00 UMA
+3. Una pulgada y cuarto (1 1/4”). 171.00 UMA
 
-4. Una pulgada y media (1 1/2"). 252.00 UMA
+4. Una pulgada y media (1 1/2”). 252.00 UMA
 
-5. Dos pulgadas (2"). 450.00 UMA
+5. Dos pulgadas (2”). 450.00 UMA
 
-6. Dos pulgadas y media (2 1/2"). 720.00 UMA
+6. Dos pulgadas y media (2 1/2”). 720.00 UMA
 
-7. Tres pulgadas (3"). 936.00 UMA
+7. Tres pulgadas (3”). 936.00 UMA
 
-8. Cuatro pulgadas (4"). 1,089.00 UMA
+8. Cuatro pulgadas (4”). 1,089.00 UMA
 
-(d) Para campamentos habitacionales.
+d. Usuarios para campamentos habitacionales:
 
 1. Por persona 0.84 UMA
 
-(e) Para hoteles y moteles.
+e. Usuarios para hoteles y moteles.
+
+1. Por Habitación 2.00 UMA
+
+B) PARA DRENAJE Y ALCANTARILLADO.
+
+a. Usuarios domésticos (Fraccionamientos, Privadas, Clusters, Conjuntos habitacionales horizontales/verticales). Monto por vivienda.
+
+1. Interés popular. 3.6 UMA
+
+2. Interés medio. 5.4 UMA
+
+3. Interés residencial. 9.0 UMA
+
+b. Usuarios comerciales:
+
+Diámetro de la toma:
+
+1. Tres cuartos de pulgada (3/4”). 51.84 UMA
+
+2. Una pulgada (1”). 78.84 UMA
+
+3. Una pulgada y cuarto (1 1/4”). 105.84 UMA
+
+4. Una pulgada y media (1 1/2”). 168.84 UMA
+
+5. Dos pulgadas (2”). 303.84 UMA
+
+6. Dos pulgadas y media (2 1/2”). 479.84 UMA
+
+7. Tres pulgadas (3”). 627.84 UMA
+
+c. Usuarios industriales.
+
+Diámetro de la toma:
+
+1. Tres cuartos de pulgada (3/4”). 103.50 UMA
+
+2. Una pulgada (1”). 117.00 UMA
+
+3. Una pulgada y cuarto (1 1/4”). 171.00 UMA
+
+4. Una pulgada y media (1 1/2”). 252.00 UMA
+
+5. Dos pulgadas (2”). 450.00 UMA
+
+6. Dos pulgadas y media (2 1/2”). 720.00 UMA
+
+7. Tres pulgadas (3”). 936.00 UMA
+
+8. Cuatro pulgadas (4”). 1,089.00 UMA
+
+d. Usuarios para campamentos habitacionales:
+
+1. Por persona. 0.84 UMA
+
+e. Usuarios para hoteles y moteles.
 
 1. Por Habitación. 2.00 UMA
 
-IX. PIPAS. Por suministro de agua potable en pipa:
+IX. PIPAS.
 
-a) Suministro de 5 mil litros de agua potable (incluye renta de la pipa). 11.52 UMA
+A) SUMINISTRO DE AGUA POTABLE:
 
-b) Suministro de 10 mil litros de agua potable (no incluye renta de la pipa). 17.27 UMA
+1. Suministro de 5 mil litros de agua potable (incluye renta de la pipa). 3.59 UMA
 
-c) Suministro de 10 mil litros de agua potable para uso doméstico, incluye la renta de la pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará. 20.72 UMA
+2. Suministro de 10 mil litros de agua potable (no incluye renta de la pipa):
 
-d) Suministro de 10 mil litros de agua potable para uso doméstico, incluye la renta de la pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará. 26.89 UMA
+a. Zona Ríos, Chontalpa y Sierra 4.48 UMA.
 
-e) Suministro de 10 mil litros de agua potable para uso doméstico, incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará. 30.24 UMA
+b. Zona Costera 6.72 UMA.
 
-f) Suministro de 10 mil litros de agua potable para uso industrial, incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará. 34.56 UMA
+3. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará). 8.96 UMA
 
-X. TOMAS DOMICILIARIAS. Por los costos relacionados con la toma de agua domiciliaria:
+4. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará). 13.44 UMA
 
-a) Instalación. (Por vivienda)
+5. Suministro de 10 mil litros de agua potable para uso doméstico (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 17.92 UMA
 
-(a) De media pulgada (1/2") de diámetro en terracería/arcilla hasta un metro cúbico de excavación (no incluye material). 8.64 UMA
+6. Suministro de 10 mil litros de agua potable para uso industrial (incluye la renta de la pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 22.40 UMA
 
-(b) Por cada metro cúbico de excavación adicional en terracería/arcilla (no incluye material). 3.5 UMA
+7. Suministro de un litro de agua potable. 0.01 UMA
 
-(c) De media pulgada (1/2") de diámetro en asfalto/concreto hasta un metro cúbico de excavación (no incluye material). 14.39 UMA
+B) SUMINISTRO DE AGUA TRATADA DE PLANTAS DE TRATAMIENTO DE AGUA RESIDUALES, PARA USO INDUSTRIAL Y AGRICOLA:
 
-(d) Por cada metro cúbico de excavación adicional en asfalto/concreto (no incluye material). 4.76 UMA
+1. Suministro de 1 metro cúbico de agua tratada sin pipa. 0.18 UMA
 
-b) Reinstalación. 14.00 UMA
+2.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 10 km a la redonda de la planta potabilizadora donde cargará) 6.27 UMA
 
-XI. MEDIDORES, CUADROS Y VÁLVULAS. Por suministro e instalación de medidor, cuadro y válvula. (Por vivienda)
+3. Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 20 km a la redonda de la planta potabilizadora donde cargará) 9.40 UMA
 
-a) Suministro e instalación de medidor de media pulgada (1/2") de diámetro. 20.33 UMA
+4.Suministro de 10 metros cúbicos de agua tratada (incluye renta de pipa en un radio de hasta 30 km a la redonda de la planta potabilizadora donde cargará). 12.54 UMA
 
-b) Instalación de medidor de media pulgada (1/2") de diámetro. 3.50 UMA
+X. TOMAS DOMICILIARIAS. Por los costos relacionados con la toma de agua domiciliaria (por inmueble):
 
-c) Suministro e instalación de cuadro y válvula de media pulgada (1/2") de diámetro (no incluye material). 11.50 UMA
+A) Instalación.
 
-d) Instalación de cuadro y válvula de media pulgada (1/2") de diámetro (no incluye material). 4.50 UMA
+1. De media pulgada (1/2”) de diámetro en terracería/arcilla hasta un metro cúbico de excavación (no incluye material). 8.64 UMA
 
-e) Suministro e instalación de medidor de una pulgada (1") de diámetro. 46.62 UMA
+2. Por cada metro cúbico de excavación adicional en terracería/arcilla (no incluye material). 3.5 UMA
 
-f) Instalación de medidor de una pulgada (1") de diámetro. 3.50 UMA
+3. De media pulgada (1/2”) de diámetro en asfalto/concreto hasta un metro cúbico de excavación (no incluye material). 14.39 UMA
 
-g) Suministro e instalación de cuadro y válvula de una pulgada (1") de diámetro (no incluye material). 10.82 UMA
+4. Por cada metro cúbico de excavación adicional en asfalto/concreto (no incluye material). 4.76 UMA
 
-h) Instalación de cuadro y válvula de una pulgada (1") de diámetro (no incluye material). 4.50 UMA
+B) Reinstalación/reconexión. 14.00 UMA
 
-i) Suministro e instalación de medidor de dos pulgadas (2") de diámetro. 67.70 UMA
+XI. MEDIDORES, CUADROS Y VÁLVULAS. Por suministro e instalación de medidor, cuadro y válvula. (Por inmueble).
 
-j) Instalación de medidor de dos pulgadas (2") de diámetro. 3.50 UMA
+a) Suministro e instalación de medidor de media pulgada (1/2”) de diámetro. 20.33 UMA
+
+b) Instalación de medidor de media pulgada (1/2”) de diámetro. 3.50 UMA
+
+c) Suministro e instalación de cuadro y válvula de media pulgada (1/2”) de diámetro (no incluye material). 11.50 UMA
+
+d) Instalación de cuadro y válvula de media pulgada (1/2”) de diámetro (no incluye material). 4.50 UMA
+
+e) Suministro e instalación de medidor de una pulgada (1”) de diámetro. 46.62 UMA
+
+f) Instalación de medidor de una pulgada (1”) de diámetro. 3.50 UMA
+
+g) Suministro e instalación de cuadro y válvula de una pulgada (1”) de diámetro (no incluye material). 10.82 UMA
+
+h) Instalación de cuadro y válvula de una pulgada (1”) de diámetro (no incluye material). 4.50 UMA
+
+i) Suministro e instalación de medidor de dos pulgadas (2”) de diámetro. 67.70 UMA
+
+j) Instalación de medidor de dos pulgadas (2”) de diámetro. 3.50 UMA
 
 k) Suministro e instalación de cuadro y válvula de dos pulgadas (2") de diámetro (no incluye material). 9.83 UMA
 
@@ -7215,33 +7361,43 @@ m) Suministro e instalación de medidor sencillo de tres pulgadas (3") de diáme
 
 n) Instalación de medidor de tres pulgadas (3") de diámetro. 21.42 UMA
 
-ñ) Suministro e instalación de cuadro y válvula de tres pulgadas (3") de diámetro (no incluye material). 10.82 UMA
+o) Suministro e instalación de cuadro y válvula de tres pulgadas (3") de diámetro (no incluye material). 10.82 UMA
 
-o) Instalación de cuadro y válvula de tres pulgadas (3") de diámetro (no incluye material). 14.50 UMA
+p) Instalación de cuadro y válvula de tres pulgadas (3") de diámetro (no incluye material). 14.50 UMA
 
-p) Suministro e instalación de macro medidor ultrasónico con sistema remoto, de tres pulgadas (3") para campamentos. 874.36 UMA
+q) Suministro e instalación de macro medidor ultrasónico con sistema remoto, de media pulgada (1/2”). 243.26 UMA
+
+r) Suministro e instalación de macro medidor ultrasónico con sistema remoto, de una pulgada (1"). 254.31 UMA
+
+s) Suministro e instalación de macro medidor ultrasónico con sistema remoto, de dos pulgadas (2”). 275.48 UMA
+
+t) Suministro e instalación de macro medidor ultrasónico con sistema remoto, de tres pulgadas (3"). 297.85 UMA
 
 XII. DESAZOLVE. Por los costos del servicio de desazolve:
 
-a) De fosa séptica en un radio de hasta 10 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 50.00 UMA
+a) De fosa séptica en un radio de hasta 10 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 15.00 UMA
 
-b) De fosa séptica en un radio de hasta 20 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 55.00 UMA
+b) De fosa séptica en un radio de hasta 20 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 16.50 UMA
 
-c) De fosa séptica en un radio de hasta 30 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 60.00 UMA
+c) De fosa séptica en un radio de hasta 30 km a la redonda de la planta de tratamiento de aguas residuales donde se descargará. 20.00 UMA
 
 d) Metro cúbico de descarga de aguas residuales a la planta de tratamiento de agua residuales. 2.8 UMA
 
-e) Servicio de un equipo hidroneumático tipo Vactor para desazolve de alcantarillado hasta 100 metros lineales. 34.52 UMA
+e) Servicio de un equipo hidroneumático tipo Vactor para desazolve de alcantarillado hasta 100 metros lineales. 15.00 UMA
 
-XIII. CAMBIOS, CONSTANCIAS, BAJAS. Por los costos de cambios, constancias, bajas, reactivación y revisión:
+f) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de visita de tipo común, incluye limpieza con agua a presión 3.80 UMA
+
+g) Servicio de un equipo hidroneumático tipo Váctor para desazolve de un pozo de sedimentos y desarenador, incluye limpieza con agua a presión 109.85 UMA
+
+XIII. CAMBIOS, CONSTANCIAS, BAJAS. Por los costos de cambios, constancias, bajas y reactivación:
 
 a) Cambio de giro de contrato de usuario doméstico, popular, medio, múltiple, residencial, residencial con alberca de uso común o privado, y comercial a usuario comercial básico o general. 21.87 UMA
 
 b) Cambio de giro de contrato de usuario doméstico popular, medio, múltiple, residencial y comercial a usuario comercial especial o macro medición. 79.42 UMA
 
-c) Cambio de giro de contrato de usuario doméstico popular, medio, múltiple, residencial y comercial; así como usuario comercial básico, general, especial y macro medición a usuario industrial (sic) servicios o producción. 85.18 UMA
+c) Cambio de giro de contrato de usuario doméstico popular, medio, múltiple, residencial y comercial; así como usuario comercial básico, general, especial y macro medición a usuario industrial servicios o producción. 85.18 UMA
 
-d) Cambio de giro de contrato de usuario doméstico popular, medio, múltiple, residencial, comercial; usuario comercial básico, general, especial, macro medición; así como industrial (sic) servicios o producción a servicio público. 10.36 UMA
+d) Cambio de giro de contrato de usuario doméstico popular, medio, múltiple, residencial, comercial; usuario comercial básico, general, especial, macro medición; así como industrial servicios o producción a servicio público. 10.36 UMA
 
 e) Constancia de no adeudo a usuario con toma doméstica. 1.19 UMA
 
@@ -7249,79 +7405,31 @@ f) Constancia de no adeudo a usuario con toma comercial. 2.38 UMA
 
 g) Constancia de no adeudo a usuario con toma industrial. 2.96 UMA
 
-h) Constancia de no adeudo a usuario con toma (sic) servicio público 2.96 UMA
+h) Constancia de no adeudo a usuario con toma servicio público 2.96 UMA
 
-i) Constancia de factibilidad del servicio de agua. 2.96 UMA
+i) Constancia de no adeudo a usuario con toma campamento. 2.96 UMA
 
-j) Cambio de nombre del usuario en el contrato. 1.19 UMA
+j) Constancia de factibilidad del servicio de agua (toma 1/2”). 2.96 UMA
 
-k) Cambio de domicilio del usuario en el contrato 1.19 UMA
+k) Constancia de no contrato de agua potable. 2.96 UMA
 
-l) Baja temporal del contrato (liquidando adeudo). 2.38 UMA
+l) Cambio de nombre/razón social del usuario en el contrato. 1.19 UMA
 
-m) Baja definitiva del contrato y corte de la toma de agua (liquidando adeudo). 8.90 UMA
+m) Cambio de domicilio del usuario en el contrato. 1.19 UMA
 
-n) Reactivación del contrato de baja temporal. 1.78 UMA
+n) Baja temporal del contrato (liquidando adeudo). 2.38 UMA
 
-ñ) Revisión de los proyectos de fraccionamientos:
+o) Baja definitiva del contrato y corte de la toma de agua (liquidando adeudo). 8.90 UMA
 
-(a) Revisión para agua potable.
+p) Reactivación del contrato de baja temporal. 1.78 UMA
 
-1. Usuarios Domésticos (Costo por vivienda):
+q) Visita de Inspección por Trámite Administrativo 3.53 UMA
 
-a. Interés popular. 2.16 UMA
+r) Espacio publicitario mensual en recibo de pago 75.48 UMA
 
-b. Interés medio. 3.24 UMA
+XIV. REVISIÓN DE PROYECTOS:
 
-c. Interés residencial 5.40 UMA
-
-2. Usuarios comerciales.
-
-Diámetro de la toma de agua:
-
-a. Tres cuartos de pulgada (3/4"). 31.10 UMA
-
-b. Una pulgada (1"). 47.30 UMA
-
-c. Una pulgada y cuarto (1 1/4"). 63.50 UMA
-
-d. Una pulgada y media (1 1/2"). 101.30 UMA
-
-e. Dos pulgadas (2"). 182.28 UMA
-
-f. Dos pulgadas y media (2 1/2"). 207.60 UMA
-
-g. Tres pulgadas (3"). 376.70 UMA
-
-3. Usuarios Industriales.
-
-Diámetro de la toma de agua:
-
-a. Tres cuartos de pulgada (3/4"). 62.10 UMA
-
-b. Una pulgada (1"). 70.20 UMA
-
-c. Una pulgada y cuarto (1 1/4"). 102.60 UMA
-
-d. Una pulgada y media (1 1/2"). 151.20 UMA
-
-e. Dos pulgadas (2"). 270.00 UMA
-
-f. Dos pulgadas y media (2 1/2"). 432.00 UMA
-
-g. Tres pulgadas (3"). 361.60 UMA
-
-h. Cuatro pulgadas (4"). 653.40 UMA
-
-4. Para campamento (sic) habitacionales:
-
-a. Por persona. 0.50 UMA
-
-5. Para hoteles y moteles:
-
-a. Por Habitación. 1.20 UMA
-
-(b) Revisión para drenaje y/o alcantarillado:
+A) Revisión para agua potable.
 
 1. Usuarios Domésticos (Costo por vivienda):
 
@@ -7331,45 +7439,41 @@ b. Interés medio. 3.24 UMA
 
 c. Interés residencial 5.40 UMA
 
-2. Usuarios comerciales.
+2. Usuarios comerciales. Diámetro de la toma:
 
-Diámetro de la toma de agua:
+a. Tres cuartos de pulgada (3/4”). 31.10 UMA
 
-a. Tres cuartos de pulgada (3/4"). 31.10 UMA
+b. Una pulgada (1”). 47.30 UMA
 
-b. Una pulgada (1"). 47.30 UMA
+c. Una pulgada y cuarto (1 1/4”). 63.50 UMA
 
-c. Una pulgada y cuarto (1 1/4"). 63.50 UMA
+d. Una pulgada y media (1 1/2”). 101.30 UMA
 
-d. Una pulgada y media (1 1/2"). 101.30 UMA
+e. Dos pulgadas (2”). 182.28 UMA
 
-e. Dos pulgadas (2"). 182.28 UMA
+f. Dos pulgadas y media (2 1/2”). 207.60 UMA
 
-f. Dos pulgadas y media (2 1/2"). 207.60 UMA
+g. Tres pulgadas (3”). 376.70 UMA
 
-g. Tres pulgadas (3"). 376.70 UMA
+3. Usuarios Industriales. Diámetro de la toma:
 
-3. Usuarios Industriales.
+a. Tres cuartos de pulgada (3/4”). 62.10 UMA
 
-Diámetro de la toma de agua:
+b. Una pulgada (1”). 70.20 UMA
 
-a. Tres cuartos de pulgada (3/4"). 62.10 UMA
+c. Una pulgada y cuarto (1 1/4”). 102.60 UMA
 
-b. Una pulgada (1") 70.20 UMA
+d. Una pulgada y media (1 1/2”). 151.20 UMA
 
-c. Una pulgada y cuarto (1 1/4"). 102.60 UMA
+e. Dos pulgadas (2”). 270.00 UMA
 
-d. Una pulgada y media (1 1/2"). 151.20 UMA
+f. Dos pulgadas y media (2 1/2”). 432.00 UMA
 
-e. Dos pulgadas (2"). 270.00 UMA
+g. Tres pulgadas (3”). 361 .60 UMA
 
-f. Dos pulgadas y media (2 1/2"). 432.00 UMA
+h. Cuatro pulgadas (4”). 653.40 UMA
 
-g. Tres pulgadas (3") 361.60 UMA
-
-h. Cuatro pulgadas (4") 653.40 UMA
-
-4. Para campamento (sic) habitacionales:
+4. Para campamento habitacionales:
 
 a. Por persona. 0.50 UMA
 
@@ -7377,15 +7481,67 @@ a. Por persona. 0.50 UMA
 
 a. Por Habitación. 1.20 UMA
 
-XIV. AGUA PURIFICADA. Por los costos de la prestación del servicio de agua purificada:
+B) Revisión para drenaje y/o alcantarillado:
+
+1. Usuarios Domésticos (Costo por vivienda):
+
+a. Interés popular. 2.16 UMA
+
+b. Interés medio. 3.24 UMA
+
+c. Interés residencial 5.40 UMA
+
+2. Usuarios comerciales. Diámetro de la toma:
+
+a. Tres cuartos de pulgada (3/4”). 31.10 UMA
+
+b. Una pulgada (1”). 47.30 UMA
+
+c. Una pulgada y cuarto (1 1/4”). 63.50 UMA
+
+d. Una pulgada y media (1 1/2”). 101.30 UMA
+
+e. Dos pulgadas (2”). 182.28 UMA
+
+f. Dos pulgadas y media (2 1/2”). 207.60 UMA
+
+g. Tres pulgadas (3”). 376.70 UMA
+
+3. Usuarios Industriales. Diámetro de la toma:
+
+a. Tres cuartos de pulgada (3/4”). 62.10 UMA
+
+b. Una pulgada (1”). 70.20 UMA
+
+c. Una pulgada y cuarto (1 1/4”). 102.60 UMA
+
+d. Una pulgada y media (1 1/2”). 151.20 UMA
+
+e. Dos pulgadas (2”). 270.00 UMA
+
+f. Dos pulgadas y media (2 1/2”). 432.00 UMA
+
+g. Tres pulgadas (3”). 361.60 UMA
+
+h. Cuatro pulgadas (4”). 653.40 UMA
+
+4. Para campamento habitacionales:
+
+a. Por persona. 0.50 UMA
+
+5. Para hoteles y moteles:
+
+a. Por Habitación. 1.20 UMA
+
+XV. AGUA PURIFICADA. Por los costos de la prestación del servicio de agua purificada:
 
 a) Suministro de agua purificada, en planta, para rellenar garrafón de 20 lts. público en general (no incluye garrafón). 0.11 UMA
 
 b) Suministro de agua purificada en garrafón de 20 lts. con reparto al público en general (no incluye garrafón). 0.26 UMA
 
-c) Suministro de agua purificada en botella en presentación de 500 ml. 0.06 UMA
+c) Suministro de agua purificada en botella en presentación de 500 ml. 0.04 UMA
 
-d) Suministro de agua purificada en botella en presentación de 350 ml. 0.04 UMA
+d) Suministro de agua purificada en botella en presentación de 350 ml. 0.02 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -7526,6 +7682,40 @@ VI. Por el estacionamiento por vehículo en temporada de feria o eventos especia
 VII. Por el uso de las áreas verdes del Museo por día, hasta 300 personas. 273.82 UMA
 
 El Consejo de Administración del Museo podrá fijar las tarifas que se cobrarán cuando la Sala Tabasco se otorgue para alguna de las actividades señaladas en el artículo 118 de la Ley de Hacienda del Estado de Tabasco.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 113 Quater.
+
+Por los servicios prestados por el Centro de Interpretación y Convivencia con la Naturaleza "Yumka", organismo público descentralizado sectorizado a la Secretaría de Bienestar, Sustentabilidad y Cambio Climático, se causarán y pagarán los derechos siguientes:
+
+Entrada general:
+
+a) Niño. 0.71 UMA
+
+b) Adulto. 1.42 UMA
+
+c) Adulto mayor con tarjeta expedida por el Instituto Nacional de las Personas Adultas Mayores. 0.71 UMA
+
+En relación a los servicios establecidos en el presente artículo, se otorgan los beneficios siguientes:
+
+I. En apoyo al turismo del Estado, a los adultos y niños que presente cupón o carta de algún hotel domiciliado en el Estado, obtendrán el 40 por ciento de descuento.
+
+II. En apoyo a la educación, se otorgan los siguientes descuentos:
+
+a) A los maestros y estudiantes de escuelas de preescolar y primaria, secundarias, preparatorias y universidades de Tabasco, el 60 por ciento de descuento.
+
+b) A los maestros que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 40 por ciento de descuento.
+
+c) A los estudiantes menores de 12 años y que pertenezcan a escuelas de preescolar y primaria del resto de la República Mexicana, el 20 por ciento de descuento.
+
+d) A los maestros, así como a los estudiantes siempre que éstos sean mayores de 12 años y pertenezcan a escuelas de secundaria, preparatoria y universidades del resto de la República Mexicana, el 40 por ciento de descuento.
+
+Para poder ser beneficiados con los descuentos otorgados en la presente fracción, los maestros y estudiantes deberán presentar copia del documento que los acredite como tales respectivamente.
+
+III. En apoyo al bienestar cultural y recreativo de los trabajadores de las dependencias, órganos desconcentrados, organismos descentralizados de la administración pública estatal, Poderes Legislativo y Judicial, así como los órganos autónomos y los Municipios, se les otorgará el 50 por ciento de descuento siempre que éstas suscriban convenios con el Centro de Interpretación y Convivencia con la Naturaleza "Yumka".
+
+IV. A los maestros y estudiantes que a través del organismo descentralizado denominado Sistema para el Desarrollo Integral de la Familia de Estado de Tabasco, sean canalizadas al Centro de Interpretación y Convivencia con la Naturaleza "Yumka" en apoyo al bienestar familiar, recibirán el 80 por ciento de descuento, de igual forma se otorgará el 70 por ciento de descuento a los padres de familia de dichos estudiantes.
 
 ### CAPÍTULO PRIMERO. PRODUCTOS
 
@@ -7707,11 +7897,11 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 99; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 126 A LA 129.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO SEGUNDO, P.O. 5 DE JULIO DE 2017, PÁGINAS DE LA 86 A LA 234; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 97 A LA 112; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 87 A LA 99; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 126 A LA 129; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 100 A LA 111]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -8492,3 +8682,127 @@ Las sanciones previstas en los artículos 76 Bis y 76 Ter del Código Fiscal del
 Las demás reformas y adiciones al Código Fiscal del Estado de Tabasco serán aplicables a las personas físicas a partir del día uno de julio del año dos mil veintidós y a las personas jurídicas colectivas a partir del día uno de enero del año dos mil veintitrés.
 
 DÉCIMO SEGUNDO. La Secretaría de Finanzas emitirá en un plazo no mayor de 180 días naturales a partir de la entrada en vigor del presente Decreto, las Reglas de Carácter General a que refiere el artículo 30 Septies del Código Fiscal del Estado de Tabasco, las cuales deberán ser publicadas en el Periódico Oficial del Estado y en su página de internet.
+
+P.O. 28 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 085 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 39; 40, PÁRRAFO PRIMERO; 41; 43; 44; 72, FRACCIÓN VII; 75, FRACCIÓN IX; 78, FRACCIÓN XIII; LA DENOMINACIÓN DEL CAPÍTULO SEXTO BIS Y SU “SECCIÓN PRIMERA” PASA A SER “SECCIÓN ÚNICA”;98-A, FRACCIÓN I, INCISO I), Y FRACCIÓN III, INCISO A); 98-C, FRACCIÓN X, INCISO A), SUB-INCISOS (A), (B) Y (E); 110, FRACCIONES VIII, XVII, XXXVI, INCISOS A), B), E), D), E) Y F), XXXIX Y XLII; 113; ARTÍCULO PRIMERO DEL ANEXO PRIMERO, FRACCIONES VIII, XIV INCISO A), XV, INCISO A), XXXI, INCISOS A), E), E I); EL ARTÍCULO SEGUNDO DEL ANEXO PRIMERO; EL ARTÍCULO QUINTO DEL ANEXO PRIMERO, FRACCIONES I, II Y VI; EL ARTÍCULO SÉPTIMO DEL ANEXO PRIMERO, FRACCIONES VII, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX Y XXXI; DÉCIMO SÉPTIMO DEL ANEXO PRIMERO, FRACCIONES IX, XXIV Y XXV; DÉCIMO NOVENO DEL ANEXO PRIMERO, FRACCIONES II, III, IV, V, VII, VIII, IX, XI, XIV, XX, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXXIII, XXXV, XXXVII, XXXIX, XLI, XLII, XLIII, XLIV, XLV, XLVI, LI, LIII, LIV Y LV; EL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO, FRACCIONES I, VIII, IX, X, XI, XIII, XIV, XVIII, XX, XXII Y XXVIII; EL ARTÍCULO VIGÉSIMO PRIMERO DEL ANEXO PRIMERO; VIGÉSIMO CUARTO DEL ANEXO PRIMERO, FRACCIÓN I; ANEXO SEGUNDO, FRACCIONES I, III, LA TABLA DE INCISO VI Y VII. SE ADICIONAN: SE ADICIONAN LAS FRACCIONES III Y IV AL PÁRRAFO DÉCIMO DEL ARTÍCULO 12; LOS PÁRRAFOS SÉPTIMO Y OCTAVO AL ARTÍCULO 40; LA FRACCIÓN V AL ARTÍCULO 45; EL SUB-INCISO (O) AL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 79; EL PÁRRAFO SEGUNDO AL ARTÍCULO 81; LOS INCISOS S), T) A LA FRACCIÓN III DEL ARTÍCULO 91-A;EL INCISO HH) A LA FRACCIÓN I Y EL INCISO HH) A LA FRACCIÓN II, DEL ARTÍCULO 96; EL INCISO D) A LA FRACCIÓN I DEL ARTÍCULO 98-B; LAS FRACCIONES XV, XVI Y XVII AL ARTÍCULO 103; LOS INCISOS P) Y Q) A LA FRACCIÓN XXXV, DEL ARTÍCULO 110; LA SECCIÓN OCTAVA AL CAPÍTULO DÉCIMO CUARTO, DENOMINADO “CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA “YUMKA”, INTEGRADO POR EL ARTÍCULO 113 QUÁTER, EL INCISO E) DE LA FRACCIÓN XVI DEL ARTÍCULO PRIMERO DEL ANEXO PRIMERO; LA (SIC) FRACCIONES XXXII Y XXXIII AL ARTÍCULO SÉPTIMO DEL ANEXO PRIMERO; LOS INCISOS F), G) Y H) A LA FRACCIÓN III, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL Y XLI AL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; LAS FRACCIONES LIX, LX, LXI, LXII, LXIII, LXIV, LXV, LXVI, LXVII, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI, LXXVII Y LXXVIII AL ARTÍCULO DÉCIMO NOVENO DEL ANEXO PRIMERO; LAS FRACCIONES XXIX, XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL Y XLI AL ARTÍCULO VIGÉSIMO DEL ANEXO PRIMERO; LA FRACCIÓN VI Y LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO AL ARTÍCULO VIGÉSIMO CUARTO DEL ANEXO PRIMERO; LAS FILAS ER Y ES DE LA TABLA DEL INCISO A) DE LA FRACCIÓN II, LAS FRACCIONES VIII Y IX AL ANEXO SEGUNDO. SE DEROGAN: LOS INCISOS E), G) Y R) DE LA FRACCIÓN III DEL ARTÍCULO 91-A; LA SECCIÓN SEGUNDA DEL CAPÍTULO SEXTO BIS INTEGRADA POR EL ARTÍCULO 91-B; LA FRACCIÓN II DEL ARTÍCULO 95; LAS FRACCIONES IX, X, XI, XII, XIII, XIV, XV, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI Y XLVIII DEL ARTÍCULO 110; LAS FRACCIONES I, IV, XI, EL INCISO E) DE LA FRACCIÓN XII, Y LOS INCISOS B), E) Y D) DE LA FRACCIÓN XXXI DEL ARTÍCULO PRIMERO DEL ANEXO PRIMERO; LAS FRACCIONES III, IV, V, VI Y VII DEL ARTÍCULO TERCERO DEL ANEXO PRIMERO; EL ARTÍCULO CUARTO DEL ANEXO PRIMERO; LAS FRACCIONES III, IV, V, VII Y VIII DEL ARTÍCULO QUINTO DEL ANEXO PRIMERO; LAS FRACCIONES VIII Y IX DEL ARTÍCULO SÉPTIMO DEL ANEXO PRIMERO; LAS FRACCIONES XXIV, XXV, XXX, XXXI Y XXXII DEL ARTÍCULO DÉCIMO DEL ANEXO PRIMERO; LAS FRACCIONES XXVIII, XXIX Y XXX, DEL ARTÍCULO DÉCIMO SÉPTIMO DEL ANEXO PRIMERO; LAS FRACCIONES I, VI, XV, XVII, XVIII, XIX, XXI, XXII, XXXVIII, XL, XLVII, XLVIII, XLIX, L, LVI, LVII Y LVIII DEL ARTÍCULO DÉCIMO NOVENO DEL ANEXO PRIMERO; EL ARTÍCULO VIGÉSIMO SEXO (SIC) DEL ANEXO PRIMERO; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil veintitrés, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaría estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023 no contempla los recursos refrendados del ejercicio fiscal 2022, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2023.
+
+QUINTO. Lo dispuesto en el artículo 12 fracción IV, de la Ley de Hacienda del Estado de Tabasco, será aplicable a las cesiones de derecho o endosos que se realicen a facturas o comprobantes que amparen la propiedad de bien mueble a partir del ejercicio fiscal 2023.
+
+SEXTO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en el ejercicio del 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorga un estímulo fiscal para las personas físicas y jurídicas colectivas, consistente en un 20%, 15%, 10% y 5% de descuento por concepto del derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causado en el ejercicio fiscal 2023; los contribuyentes que se adhieran al presente estímulo no deberán tener adeudos en sus obligaciones vehiculares anteriores al ejercicio fiscal 2023, y deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Ejercicio Periodo de pago
+
+Fiscal
+
+Derecho de refrendo 20% 01 al 31 de enero de 2023
+
+anual de placas,
+
+tarjeta de circulación 15% 2023 01 al 28 de febrero de 2023.
+
+y calcomanías.
+
+10% 01 al 31 de marzo de 2023.
+
+5% 01 al 30 de abril de 2023.
+
+SÉPTIMO. Los determinados por concepto de derecho de refrendo anual de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción IV y 86 fracción IV de la Ley de Hacienda del Estado de Tabasco, causados en los ejercicios anteriores al 2023.
+
+Por el periodo comprendido del 1 de enero al 30 de abril de 2023, se otorgan estímulos fiscales consistentes en descuentos en el pago por conceptos de multas, recargos, actualización, honorarios de notificación y gastos de ejecución, causados por la omisión del pago por los conceptos de refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, así como por el concepto de canje de placa y emisión de documentos que amparan a la unidad para que circule legalmente en la vía pública, establecidos en los artículos 85 fracciones IV y V, 86 fracciones IV y V de la Ley de Hacienda del Estado de Tabasco, vigente, causados en los ejercicios anteriores al 2023; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+Conceptos Estímulo Periodo de pago
+
+Multas 50% 01 de
+
+enero
+
+Recargos 50% al 30 de
+
+abril de
+
+Actualización 50% 2023.
+
+Honorarios de 30%
+
+notificación y
+
+gastos de
+
+ejecución
+
+Los estímulos a que se refiere este artículo, también procederán aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán aplicar los estímulos establecidos en este artículo transitorio a los créditos fiscales pagados y en ningún caso dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión a los estímulos previstos en este artículo no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+OCTAVO. La Secretaría de Finanzas expedirá dentro de los 15 días hábiles siguientes a la entrada en vigor del presente Decreto, las reglas que considere necesarias para la correcta aplicación de los estímulos fiscales que se otorgan en los artículos transitorios que anteceden.
+
+La Secretaría de Finanzas informará, de conformidad a lo establecido en el artículo 2 de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2023, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+NOVENO. El Ejecutivo Estatal a través de la Secretaría de Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2023, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente Decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año modelos sea (sic) 2016 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares será autorizada por la Secretaría de Finanzas quien deberá expedir a más tardar a los 15 días hábiles siguientes a la entrada en vigor del presente Decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de este;
+
+II. Que la autoridad fiscal competente no requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6 fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas; así como, todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+DÉCIMO. Con fundamento en el artículo 116 del Código Fiscal del Estado, se declara la prescripción de los créditos y obligaciones fiscales derivadas de las contribuciones por conceptos de usos de agua en sus diversas modalidades: doméstico, comercial, industrial y por inmuebles destinados al servicio público; correspondientes a los servicios que presta la Comisión Estatal de Agua y Saneamiento, así como sus accesorios, anteriores al ejercicio fiscal 2018, que se encuentren en el sistema de recaudación de la Secretaría de Finanzas; siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
+
+Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+DÉCIMO PRIMERO. Cuando se trate de Impuestos y Derechos municipales en los que se coordine el Estado con los ayuntamientos municipales para que el primero cobre y administre por cuenta del municipio, los descuentos e incentivos fiscales se ajustarán a lo que previamente acuerden las partes.
+
+DÉCIMO SEGUNDO. El pago del refrendo anual para el ejercicio 2023 a que se refiere (sic) artículo 79, fracción II, inciso B), subinciso (o), de la Ley de Hacienda del Estado de Tabasco, se cobrará de la siguiente manera:
+
+CONCEPTO UMA PERIODO DE PAGO
+
+Refrendo anual de
+
+la licencia de
+
+funcionamiento
+
+a que se refiere 400.00 Del 1 al 31 de enero de 2023.
+
+el artículo 79,
+
+fracción II, inciso B),
+
+sub-inciso (o), de la
+
+Ley de Hacienda
+
+del Estado de
+
+Tabasco, para
+
+el ejercicio 2023.
+
+A partir del 1 de febrero de 2023, a los licenciatarios que no efectúen el pago del refrendo antes señalado, se les aplicará lo establecido en la Ley que Regula la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco y su Reglamento, sin perjuicio de los recargos, actualizaciones, gastos de ejecución y honorarios que en su caso se generen, de conformidad con el Código Fiscal del Estado de Tabasco.
