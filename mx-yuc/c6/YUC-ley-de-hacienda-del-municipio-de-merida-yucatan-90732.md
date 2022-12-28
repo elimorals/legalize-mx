@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2022-01-20"
+last_updated: "2022-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 20 DE ENERO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -821,7 +819,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 5 A LA 36; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 7 A LA 47, 23 DE DICIEMBRE DE 2020, PÁGINAS DE LA 31 A LA 40; 29 DE DICIEMBRE DE 2021, PÁGINAS 24 A LA 55; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 5 A LA 36.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -829,7 +827,7 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60; 29 DE DICIEMBRE DE 2021, PÁGINAS 55 A LA 64.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 36 A LA 43; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 47 A LA 60; 29 DE DICIEMBRE DE 2021, PÁGINAS 55 A LA 64; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 36 A LA 46.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -837,7 +835,7 @@ III.- Los valores unitarios para los terrenos ubicados en el periférico y las c
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 60 A LA 61; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 64 A LA 65.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 60 A LA 61; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 64 A LA 65; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 46 A LA 47.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -851,97 +849,43 @@ IV.- Los valores unitarios para los locales correspondientes a las plazas comerc
 
 > <small>(F. DE E., D.O. 20 DE ENERO DE 2022)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 61 A LA 62; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 65 A LA 66.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46; 28 DE DICIEMBRE DE 2018, PÁGINA 44; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 61 A LA 62; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 65 A LA 66; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 47 A LA 48.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en las siguientes tablas:
+V.- Los valores unitarios para los diferentes tipos de construcción se aplicarán conforme a las siguientes tablas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.]</small>
+a) En caso de que el predio tenga un servicio catastral de diligencia de verificación del área de peritos de la Dirección de Catastro del Municipio de Mérida, se aplicarán los siguientes criterios:
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51; 28 DE DICIEMBRE DE 2018, PÁGINAS DE LA 45 A LA 49; 30 DE DICIEMBRE DE 2019, PÁGINAS DE LA 63 A LA 66; 29 DE DICIEMBRE DE 2021, PÁGINAS DE LA 67 A LA 70.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2022, PÁGINAS DE LA 49 A LA 52.]</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
+En los casos en los que el predio cuente con construcción correspondiente a volado de concreto, este se podrá valuar con el elemento de construcción y el estado de conservación inmediato anterior al que se hubiere aplicado a la construcción de concreto. Para el supuesto de volados distintos a concreto, se estará a lo dispuesto en las especificaciones contenidas en el inciso b) siguiente.
 
-V Bis.- Para determinar el valor unitario de construcción a aplicar dependiendo de sus especificaciones, se utilizarán las tablas de criterios de valuación de la construcción establecidos por sección, unidad habitacional o comisarías del Municipio de Mérida, de acuerdo al tipo de construcción indicado en el plano· catastral y de conformidad con lo que se señala en el inciso b de la fracción XIII del Artículo 28 Bis del Reglamento del Catastro del Municipio de Mérida.
+b) Cuando no se puedan determinar las especificaciones a que se refiere el inciso a) que antecede por no existir una diligencia de verificación, se aplicarán los siguientes criterios de valuación, de acuerdo con la información contenida en el plano catastral:
 
-Cuando no se puedan determinar las especificaciones a que se refiere el párrafo que antecede, se aplicará el tipo de construcción genérico indicado en las propias tablas.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2022, PÁGINAS DE LA 52 A LA 57.]</small>
 
-A) Para las secciones 1, 2 y 3 los criterios de valuación serán los siguientes:
+c) En los casos en que respecto de algún inmueble del Municipio de Mérida se hubiera emitido una cédula por recatastración debido a la detección de construcción no manifestada, el valor genérico aplicado a la superficie de construcción no manifestada será actualizado anualmente con el valor correspondiente a la clasificación de MODERNO-CALIDAD-BUENO, con independencia de la antigüedad de la construcción, sus elementos y/o estado de conservación.
 
-B) [N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 51.]
+V Bis.- (DEROGADA, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-B) (SIC) Para las unidades habitacionales México Norte, Residencial Montecristo, Ampliación Plan de Ayala, Buenavista, Gonzalo Guerrero, Montes de Amé, San Ramón, San Ramón Norte, Villas La Hacienda, Xaman Kab, Aurea Residencial, Residencial Piedrasul, Altabrisa, Residencial San Antonio, Residencial Sol Campestre, San Antonio Cucul, Montealban, Monterreal, Xaman Tan, Villareal, Privada Los Alamos, Xo'tik, Residencial Puerta de Piedra Dzityá, Royal del Parque, San Antonio Residencial, Condominio Alto Viento, Condominio Modena, Condominio Novara, Condominio Privada Temozón Norte, Condominio Punta Lomas, Condominio San Andrés Cocoyoles, Condominio Temozón 39, Bogdan, Algarrobos Desarrollo Residencial, San Pedro Cholul (sección 35), Alura, Cholul 26, Cloverleaf Cholul, Jalapa, Las Fincas Cholul, Vida Verde, Condominios de la sección 35, Floresta Residencial, Los Héroes, Cerradas de Gran Santa Fe, Gran Santa Fe, Gran Santa Fe II, Gran Santa Fe Norte, Sian Ka'An II, Ceiba II, El Arca y los complementos de las secciones 16 y 26, los criterios de valuación serán los siguientes:
+A) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 52.]</small>
+B) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-C) Para las unidades habitacionales Campestre, Benito Juárez Norte, Privada Sodzil, Verona de San Angelo, Condominio San Antonio Cucul, Montecristo, Montebello, Condominios Cabo Norte, Las Fincas, Punta Lago Privada Residencial, Residencial Xcanatun, Ceiba II, Altozano, Ceiba, Condominio Artisana, Condominio Chaactun, Condominio El Sueño, Condominio Privada Club de Golf, Condominio Villareal y los complementos de las secciones 34, 35, 44 y 45 los criterios de valuación serán los siguientes:
+C) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 52.]</small>
+D) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-D) Para la unidad habitacional Villas del Rey los criterios de valuación serán los siguientes:
+E) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
+F) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-E) Para la unidad habitacional Vía Montejo y el condominio Yucatán Village & Resort (Contry Club) los criterios de valuación serán los siguientes:
+G) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
+H) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
-F) Para los complementos de las secciones 37, 38, 39, 40, 42, 43, 47, 48, 49 y 50 y los predios ubicados en las comisarías con hasta 300.00 metros cuadrados de construcción pertenecientes al Municipio de Mérida, los criterios de valuación serán los siguientes:
-
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
-
-G) Para las unidades habitacionales no contempladas en las fracciones I, II, III, IV, V y VI de este inciso; complementos de las secciones 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 36, 41 y 46; y predios en comisarías con más de 300.00 metros cuadrados de construcción, pertenecientes al Municipio de Mérida, los criterios serán los siguientes:
-
-> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 54.]</small>
-
-H) Para los predios ubicados en las calles y avenidas principales los valores genéricos de la construcción serán los equivalentes a Moderno-Mediano-Regular y Moderno-Mediano-Bueno, dependiendo de su ubicación.
-
-I) Para los predios ubicados en el periférico y calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico el valor genérico de la construcción será el equivalente a Moderno-Mediano-Regular.
-
-Significado de la clasificación
-
-A-P-R: Antiguo-Popular-Regular
-
-A-E-R: Antiguo-Económico-Regular
-
-A-M-R: Antiguo-Mediano-Regular
-
-M-P-R: Moderno-Popular-Regular
-
-M-E-R: Moderno-Económico-Regular
-
-M-M-R: .Moderno-Mediano-Regular
-
-M-P-B: Moderno-Popular-Bueno
-
-M-E-B: Moderno-Económico-Bueno
-
-M-M-B: Moderno-Mediano-Bueno
-
-M-C-B: Moderno-Calidad-Bueno
-
-M-L-B: Moderno-Lujo-Bueno
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-M-P-N: Moderno-Popular-Nuevo
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-M-E-N: Moderno-Económico-Nuevo
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-M-M-N: Moderno-Mediano-Nuevo
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-M-L-N: Moderno- Lujo-Nuevo
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2019)</small>
-
-Nota: En los casos en que se realice una visita de inspección al predio, se podrán modificar los criterios de valuación especificados en este inciso, de acuerdo con las características físicas de la construcción observadas en la inspección.
+I) (DEROGADO, D.O. DE 28 DE DICIEMBRE DEL 2022)
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1041,7 +985,9 @@ Tratándose de predios en Régimen de Propiedad en· Condominio, la superficie d
 
 J) DE CONSTRUCCIÓN
 
-Dependiendo de la antigüedad de la construcción el valor unitario de la misma podrá demeritarse hasta con un factor de 0.50 adicional al factor de demérito aplicable a los valores unitarios de construcción en relación al valor unitario del terreno, este demérito será determinado por dictamen generado mediante diligencia solicitada a la Dirección de catastro.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Dependiendo de la antigüedad de la construcción el valor unitario de la misma podrá demeritarse hasta con un factor de 0.50 adicional al factor de demérito aplicable a los valores unitarios de construcción en relación con el valor unitario del terreno, este demérito será determinado por dictamen generado mediante diligencia solicitada a la Dirección de Catastro.
 
 NOTA 1.- Los tablajes catastrales; así como los predios urbanos ubicados en las secciones catastrales de la 31 a la 50, podrán ser demeritados hasta con el factor 0.50, respecto de la superficie restante a la del lote tipo de 1,000.00 M2, siempre y cuando no se haya aplicado para el predio el factor de demérito por superficie.
 
@@ -1213,9 +1159,9 @@ X.- La renuncia o repudio de la herencia o del legado, efectuado después del re
 
 XI.- La adquisición que se realice a través de un contrato de fideicomiso, en los términos de los supuestos relacionados en el Código Fiscal de la Federación.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-XII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del valor de la porción que le corresponde.
+XII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del valor de la porción que le corresponde, respecto a los predios o tablajes ubicados en el Municipio de Mérida.
 
 XIII.- La adquisición de la propiedad de bienes inmuebles, en virtud de remate judicial o administrativo.
 
@@ -1239,9 +1185,9 @@ II.- En la adquisición que realicen los Estados Extranjeros, en los casos que e
 
 III.- Cuando se adquiera la propiedad de Inmuebles, con motivo de la constitución de la sociedad conyugal.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las partes adjudicadas no excedan del valor de las porciones que a cada uno de los copropietarios o al cónyuge le correspondan. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
+IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las partes adjudicadas no excedan del valor de las porciones que a cada uno de los copropietarios o al cónyuge le correspondan; en estos casos solo se considerarán los predios o tablajes que se encuentren ubicados dentro del Municipio de Mérida. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
@@ -1251,11 +1197,11 @@ VI.- La donación entre consortes, ascendientes y descendientes en línea direct
 
 De la base
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 58.
 
-La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición; el valor contenido en la cédula catastral vigente, y el valor contenido en el avalúo pericial expedido por las autoridades fiscales, las instituciones de crédito, el Instituto de Administración y Avalúos de. Bienes Nacionales, por corredor público, valuador con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública.
+La base del Impuesto Sobre Adquisición de Inmuebles, será el valor que resulte mayor entre el precio de adquisición; el valor contenido en la cédula catastral vigente, y el valor contenido en el avalúo comercial expedido por las autoridades fiscales, las instituciones de crédito, el Instituto de Administración y Avalúos de Bienes Nacionales, por corredor público, valuador con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública.
 
 a).- (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013)
 
@@ -1335,6 +1281,14 @@ Cuando se formalice la adquisición de un inmueble que provenga del trámite de 
 
 Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán vigencia hasta el treinta y uno de diciembre del año de su expedición o hasta que la Dirección de Catastro del Municipio de Mérida emita una nueva cédula catastral correspondiente al inmueble materia de la adquisición.
 
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+A los avalúos presentados para efectos de una traslación de dominio, se adjuntará la Constancia de Validación de Avalúo Comercial emitida por la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+No tendrán que llevar la Constancia de Validación de Avalúo Comercial las traslaciones a título gratuito señaladas en el artículo 57 de esta Ley y las operaciones que provengan de procedimientos judiciales o administrativos.
+
 Vigencia de los avalúos
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
@@ -1353,6 +1307,8 @@ El impuesto a que se refiere esta sección, se causará y pagará aplicando la s
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. 29 DE DICIEMBRE DE 2021, PÁGINA 76.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 28 DE DICIEMBRE DE 2022, PÁGINA 67.]</small>
+
 Para el cálculo de éste, la diferencia entre la base del impuesto y el límite inferior que corresponda, se multiplicará por el factor aplicable al excedente del límite inferior que corresponda y al resultado obtenido se le sumará la cuota fija que corresponda; el importe de dicha operación será el Impuesto Sobre Adquisición de Inmuebles a pagar.
 
 La base del Impuesto será el valor mayor de conformidad al artículo 58 de esta Ley.
@@ -1367,9 +1323,9 @@ Los fedatarios públicos y las personas que por disposición legal tengan funcio
 
 I.- Nombre, domicilio fiscal o domicilio para oír y recibir notificaciones y Registro Federal de Contribuyentes (RFC) del adquirente, nombre y domicilio del enajenante.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-II.- Nombre del fedatario público, número que le corresponda a la notaría o escribanía y su dirección de correo electrónico. En caso de tratarse de persona distinta a los anteriores, con funciones notariales, deberá expresar su nombre y el cargo que detenta.
+II.- Nombre del fedatario público, número que le corresponda a la notaría y su dirección de correo electrónico. En caso de tratarse de persona distinta a los anteriores, con funciones notariales, deberá expresar su nombre y el cargo que detenta.
 
 III.- Firma y sello, en su caso, del autorizante.
 
@@ -1399,15 +1355,17 @@ A la manifestación señalada en este artículo, se acumulará copia del avalúo
 
 De los responsables solidarios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 62.
 
-Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo y del comprobante fiscal digital (CFDI) donde se acredite haber pagado el impuesto, o bien, original del recibo y del comprobante fiscal digital (CFDI) con importe cero y copia del manifiesto sellado por la Dirección de Finanzas y Tesorería Municipal, cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
+Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, el recibo y el comprobante fiscal digital (CFDI) donde se acredite haber pagado el impuesto, así como su manifiesto sellado o validado por la Dirección de Finanzas y Tesorería Municipal; o bien, el recibo y el comprobante fiscal digital (CFDI) con importe cero y el manifiesto sellado por la mencionada Dirección de Finanzas y Tesorería
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+Municipal, cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
 
-Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. La citada acumulación deberá constar en la inscripción correspondiente.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. Éstos deberán validar y autenticar los recibos de pago del impuesto sobre adquisición de inmuebles, mediante los mecanismos tecnológicos proporcionados para dicho efecto. La citada acumulación deberá constar en la inscripción correspondiente.
 
 En caso contrario, los fedatarios públicos, las personas que tengan funciones notariales y los registradores serán solidariamente responsables del pago del impuesto y sus accesorios legales.
 
@@ -1537,9 +1495,9 @@ Los derechos que establece esta Ley se pagarán por los servicios que preste el 
 
 Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-#### Sección Segunda. De los Servicios que presta la Dirección de Desarrollo Urbano
+#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
 
 De los sujetos
 
@@ -1809,7 +1767,11 @@ e) Se pagará de acuerdo al giro de que se trate:
 
 6. Restaurante, video bar, cabaret, centro nocturno o disco 685 Licencia
 
-7. Sala de fiestas cerrada 286 Licencia
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+7. Sala de fiestas cerrada, sala de recepciones, salón de
+
+baile, salón de banquetes 286 Licencia
 
 8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente 354 Licencia
 
@@ -2009,7 +1971,9 @@ c) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
 d) Con superficie mayor de 240 m2 0.06 Metro Cuadrado
 
-e) De excavación de zanjas en la vía pública 0.02 Metro Lineal
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+e) De excavación de zanjas en vialidades 0.25 Metro Lineal
 
 f) De excavación distinta a la señalada en el inciso e) 0.03 Metro Cúbico
 
@@ -2723,25 +2687,37 @@ Concepto Veces la unidad de medida y actualización
 
 Por cada cabeza de ganado por introductor al mes:
 
-Vacuno: Por las primeras 50 cabezas de ganado 4.0
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+I. Vacuno: Por las primeras 50 cabezas de ganado 4.0
 
 > <small>(DEROGADO SEGUNDO CONCEPTO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
 > <small>(DEROGADO TERCER CONCEPTO, D.O. 28 DE DICIEMBRE DE 2018)</small>
 
-Porcino:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-Peso de hasta 50 kg 1.0
+II. Porcino:
 
-Peso de entre 50.01 y hasta 135 kg 2.0
+a) Peso de hasta 50 kg 1.0
 
-Peso de más de 135 kg 3.0
+b) Peso entre 50.01 y hasta 85 kg 1.5
 
-Equino 4.0
+c) Peso entre 85.01 y hasta 135 kg 2.0
 
-Caprino 1.0
+d) Peso de más de 135 kg
 
-Ovino 1.0
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+III. Equino: 4.0
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+IV. Caprino: 1.0
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+V. Ovino: 1.0
 
 De la matanza fuera del rastro público
 
@@ -3111,9 +3087,11 @@ f) De 201 fracciones en adelante 50.0
 
 En caso de requerir una nueva revisión, se pagarán los derechos establecidos en los incisos anteriores del presente artículo.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 94.
 
-Quedan exentas del pago de los derechos que se establecen en esta Sección los inmuebles propiedad de las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda.
+Quedan exentos del pago de los derechos que se establecen en esta Sección los inmuebles propiedad de las instituciones públicas cuya actividad esté relacionada directamente con la promoción, desarrollo y otorgamiento de vivienda, así como aquellos bienes de dominio público de la Federación, del Estado o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales, organismos descentralizados o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### ARTÍCULO 95.
 
@@ -3433,7 +3411,9 @@ b) (DEROGADO, D.O. 30 DE DICIEMBRE DE 2019)
 
 2.- (DEROGADO, D.O. 30 DE DICIEMBRE DE 2019)
 
-V.- Por otorgar el derecho de uso a perpetuidad, dentro de los Panteones o cementerios Públicos Municipales:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+V.- Por otorgar el derecho de uso por tiempo indefinido, dentro de los Panteones o Cementerios Públicos Municipales:
 
 a) General, Xoclán y Chuburná se pagará:
 
@@ -4255,9 +4235,9 @@ III.- Por cada 4 metros de frente de bodega, por concepto de mantenimiento y lim
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-IV.- Por el uso del centro de almacenaje temporal de residuos de manejo especial ante la recepción de cada tambor que deposite sus desechos en este: 18.60 pesos
+IV.- Por el servicio de almacenaje temporal de residuos de manejo especial, por tambor: 0.22 U.M.A.
 
 Del pago
 
@@ -4265,9 +4245,9 @@ Del pago
 
 Las cuotas a que se refiere la fracción I del artículo 140 deberán ser pagadas previamente a la entrada del vehículo a las instalaciones de la central de abasto de Mérida.
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-En el caso a que se refiere la fracción II del artículo 140, las cuotas deberán ser pagadas en forma mensual a más tardar dentro de los primeros 5 días naturales del mes siguiente al cual correspondan. Las cuotas a que se refiere la fracción III del mencionado artículo 140, deberán ser cubiertas en forma mensual dentro de los primeros diez días naturales del mes siguiente al cual correspondan.
+En el caso a que se refiere la fracción II del artículo 140, las cuotas deberán ser pagadas en forma mensual a más tardar dentro de los primeros 5 días naturales del mes siguiente al cual correspondan. Las cuotas a que se refiere la fracción III del artículo 140, deberán ser cubiertas en forma mensual dentro de los primeros diez días naturales del mes siguiente al cual correspondan. Las cuotas a que se refiere la fracción IV del mencionado artículo 140, deberán ser cubiertas en forma quincenal los días quince y el último día del mes al cual correspondan.
 
 > <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -4307,23 +4287,25 @@ ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las 
 
 ARTÍCULO 144 B.- El objeto de los derechos establecidos en esta sección son los servicios prestados por el Departamento de Protección Civil por concepto de:
 
-I.- Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+I.- Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos.
 
-II.- Emisión de Dictamen de Riesgo.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+II.- Revisión y análisis de la solicitud de Dictamen de Riesgo.
 
-III.- Emisión de Análisis de Riesgo.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+III.- Revisión y análisis de la solicitud de Análisis de Riesgo.
 
-IV.- Revisión y Registro de Programas Internos de Protección Civil.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+IV.- Revisión documental y análisis de la solicitud para obtener el Registro del Programa Interno de Protección Civil.
 
-V.- Emisión de Constancia de Cumplimiento de Requisitos en Materia de Protección Civil.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+V.- Revisión y análisis de la solicitud de Constancia de Cumplimiento de Requisitos en Materia de Protección Civil.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4331,57 +4313,83 @@ ARTÍCULO 144 C.- Los derechos por los servicios a que se refiere la presente se
 
 I.- Por la Constancia de Conformidad respecto de seguridad y ubicación para el consumo de pirotecnia y explosivos: 10 U.M.A.
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-II.- Emisión de Dictamen de Riesgo:
+II.- Por la revisión y análisis de la solicitud de Dictamen de Riesgo:
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 a) Para establecimientos con ocupación de hasta 500.00 m2 6 U.M.A.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 b) Para establecimientos con ocupación de 500.01 hasta 3,000.00 m2 18 U.M.A.
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 c) Para establecimientos con ocupación de 3,000.01 hasta 6,000.00 m2 36 U.M.A.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 d) Para establecimientos con ocupación de más de 6,000.00 m2 72 U.M.A.
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-III.- Emisión de Análisis de Riesgo:
+III.- Por la revisión y análisis de la solicitud de Análisis de Riesgo:
 
-a) Para edificaciones de hasta 500.00 m2 6 U.M.A.
+a) Para proyectos con superficies por construir de hasta 500.00 m2
 
-b) Para edificaciones de 500.01 hasta 3,000.00 m2 18 U.M.A.
+b) Para proyectos con superficies por construir de 500.01 hasta 3,000.00 m2
 
-c) Para edificaciones de 3,000.01 hasta 6,000.00 m2 36 U.M.A.
+c) Para proyectos con superficies por construir de 3,000.01 hasta 6,000.00 m2
 
-d) Para edificaciones de más de 6,000.00 m2 72 U.M.A.
+d) Para proyectos con superficies por construir de más de 6,000.00m2
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-IV.- Revisión y registro de programas internos de Protección Civil:
+IV. - Por la revisión documental y análisis de la solicitud para obtener el registro del Programa Interno de Protección Civil:
 
-a) Cuando sea presentado para su registro por primera ocasión 60 U.M.A.
+a) Cuando se trate de un Programa Interno de Protección Civil presentado para su registro por primera ocasión
 
-b) Por la actualización de la vigencia de registros previamente emitidos 18 U.M.A.
+b) Cuando se trate de la actualización de la vigencia de un registro previamente emitido por la Coordinación Municipal de Protección Civil
 
-> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE DICIEMBRE DE 2022)</small>
 
-V.- Emisión de constancia de cumplimiento de requisitos en materia de Protección Civil:
+V.- Por la revisión y análisis de la solicitud de Constancia de Cumplimiento de Requisitos en Materia de Protección Civil::
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 a) Por evento con aforo de 1 y hasta 99 personas 5 U.M.A.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 b) Por evento con aforo de 100 y hasta 499 personas 10 U.M.A.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 c) Por evento con aforo de 500 y hasta 999 personas 15 U.M.A.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 d) Por evento con aforo de 1,000 y hasta 4,999 personas 25 U.M.A.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
+
 e) Por evento con aforo de 5,000 y hasta 9,999 personas 50 U.M.A.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 f) Por evento con aforo a partir de 10,000 personas 100 U.M.A.
 
 > <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2021)</small>
 
 El pago de los derechos establecidos en la presente sección se pagará al momento de realizar la solicitud del servicio.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 144 D.- Estarán exentos del pago del derecho por los servicios establecidos en las fracciones II, III y IV del artículo 144-C, los bienes inmuebles que estén directamente relacionados con la operación de las dependencias de la Administración Pública Municipal.
+
+Estarán exentos del pago del derecho por el servicio establecido en la fracción V del artículo 144-C, los eventos organizados por alguna dependencia de la Administración Pública Municipal.
 
 ### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
 
@@ -6562,3 +6570,111 @@ Se derogan todas las disposiciones legales que eximan a los particulares del pag
 ###### ARTÍCULO NOVENO.
 
 Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2022, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
+
+D.O. 28 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 581/2022 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil veintitrés, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2023 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2023, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48, las bonificaciones se otorgarán de conformidad con lo establecido en el Programa de Estímulo que al efecto expida el Cabildo del H. Ayuntamiento de Mérida.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2023, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2023, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2023, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2023.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2023, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2023 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal, así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros “A”, “B-1”, “B-2”, “B-3” y “B-4” de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2023, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2022.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2023 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2023, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
