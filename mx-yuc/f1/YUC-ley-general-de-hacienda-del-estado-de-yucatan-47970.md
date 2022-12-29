@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2022-06-07"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -739,21 +739,45 @@ g) Número de Licencia de Construcción.
 
 h) Número de metros cuadrados de construcción.
 
-II.- Presentar el Aviso de Incidencias de Obra, correspondiente a la suspensión, reanudación, cancelación y terminación de la obra, dentro de los diez días hábiles siguientes a la fecha de la incidencia.
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II.- Presentar el Aviso de Incidencias de Obra, correspondiente a la suspensión, reanudación, modificación, cancelación y terminación de la obra, dentro de los diez días hábiles siguientes a la fecha de la incidencia.
 
 Los avisos a que se refiere este artículo deberán presentarse a través de los medios que para tal efecto disponga la Agencia de Administración Fiscal de Yucatán mediante reglas de carácter general.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
-ARTÍCULO 27 K.- Los contribuyentes que hayan realizado pagos a más de cien trabajadores en promedio mensual o que hayan erogado más de $ 12´000,000.00 moneda nacional por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios en el ejercicio fiscal, en términos del artículo 21 de esta ley, deberán presentar la determinación del pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal, mediante dictamen emitido por contador público registrado ante la Agencia de Administración Fiscal de Yucatán.
+ARTÍCULO 27 K.- Los contribuyentes que hayan realizado pagos a más de cien trabajadores en promedio mensual o que hayan erogado más de $12'000,000.00 moneda nacional por concepto de remuneración al trabajo personal subordinado, así como las erogaciones por remuneraciones a honorarios asimilables a salarios en el ejercicio fiscal, en términos del artículo 21 de esta ley, deberán acreditar el cumplimiento de las obligaciones fiscales mediante la presentación del dictamen emitido por contador público registrado ante la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 Los contribuyentes a que se refiere el párrafo anterior deberán presentar el aviso correspondiente a más tardar el 31 de marzo del ejercicio siguiente al que se dictaminen y el dictamen a más tardar el 30 de junio del ejercicio inmediato posterior al que se dictamina, ambos en términos del Código Fiscal del Estado de Yucatán y de las reglas de carácter general que para tal efecto expida la Agencia de Administración Fiscal de Yucatán. Tanto el aviso como el dictamen se presentarán en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+No surtirá efecto fiscal alguno el dictamen a que se refiere el párrafo anterior cuando ocurra alguna de las siguientes situaciones:
+
+I. Se presente el aviso fuera del plazo previsto en el párrafo anterior.
+
+II. Cuando el dictamen y la información relacionada con él se presenten fuera de los plazos legales.
+
+III. Las demás que se determinen en las reglas de carácter general que emita la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 En caso de que en el dictamen se determinen diferencias a pagar, estas deberán enterarse mediante declaración complementaria en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán dentro de los diez días siguientes a la presentación del dictamen.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 Lo dispuesto anteriormente no será aplicable a los contribuyentes que, estando obligados a presentar el dictamen en términos de este artículo, decidan presentar información alternativa al dictamen y pagar el impuesto mediante declaración mensual definitiva, siempre que reúnan los requisitos establecidos en las disposiciones de carácter general que emita la Agencia de Administración Fiscal de Yucatán.
 
-La Agencia de Administración Fiscal de Yucatán está facultada para emitir las reglas de carácter general para el cumplimiento de la obligación de los contribuyentes señalada en el párrafo tercero de este artículo.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+La Agencia de Administración Fiscal de Yucatán está facultada para emitir las reglas de carácter general para el cumplimiento de la obligación de los contribuyentes señalada en el párrafo cuarto de este artículo.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Lo dispuesto en este artículo no será aplicable a los poderes legislativo, ejecutivo o judicial estatal y federal, así como a los organismos autónomos estatales y federales, los organismos o empresas de la administración pública estatal y federal, las universidades e instituciones de educación superior cuya ley de creación otorgue autonomía, ni a los municipios.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1491,7 +1515,9 @@ También quedan comprendidos como sujetos de este impuesto, la Federación, el E
 
 AJ.- La base de este impuesto lo constituye la cuantía de carga contaminante de las emisiones a la atmosfera gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
 
-Para la determinación de la base gravable, el contribuyente la realizará mediante medición o estimación directa de las emisiones a la atmósfera que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal de Emisiones a cargo de la Secretaría de Desarrollo Sustentable.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Para la determinación de la base gravable, el contribuyente la realizará mediante medición directa o estimación de las emisiones a la atmósfera que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones del Registro Estatal de Emisiones a cargo de la Secretaría de Desarrollo Sustentable.
 
 Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
 
@@ -1605,6 +1631,10 @@ AP.- Para efectos de este Capítulo serán aplicables, de manera supletoria, la 
 
 AQ.- Para efectos de lo establecido en este capítulo, cuando exista una disminución de los contaminantes objeto de este impuesto y esta sea equivalente a un 20% o más entre un ejercicio fiscal y otro, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción en un 15% del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Para los efectos de la determinación de la disminución de los contaminantes señalada en el primer párrafo de este artículo no se considerarán los estímulos a que hace referencia el artículo 47-AQ-Bis.
+
 Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Agencia de Administración Fiscal de Yucatán, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
 
 El estímulo fiscal a que se refiere este artículo se podrá acreditar contra el monto del impuesto que efectivamente se deba pagar en la declaración provisional y en la declaración anual del ejercicio. La aplicación del estímulo no generará saldos a favor.
@@ -1613,7 +1643,77 @@ Cuando sin tener derecho a ello se acredite contra el impuesto a pagar el estím
 
 Cuando se haya pagado el impuesto mediante el acreditamiento del estímulo fiscal, y posteriormente se presente una declaración complementaria reduciendo el importe del impuesto a cargo del contribuyente, solo procederá la devolución de cantidades a favor cuando estas deriven de un pago efectivamente realizado.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 47
+
+AQ-BIS.- Para los efectos de este capítulo los contribuyentes adicionalmente gozarán de un estímulo fiscal consistente en la disminución de una cantidad de toneladas de dióxido de carbono equivalente contra el total de la cuantía de la carga contaminante de las emisiones gravadas por el impuesto a que se refiere este capítulo, de conformidad con lo siguiente:
+
+I. De hasta el 100% de la cantidad de toneladas de dióxido de carbono equivalente evitadas o reducidas, de acuerdo con lo siguiente:
+
+a) Las toneladas de dióxido de carbono equivalente de las emisiones evitadas por el empleo de energías renovables en las instalaciones o fuentes fijas del contribuyente en las que se emitan los gases de efecto invernadero gravados para el desarrollo de procesos productivos en el territorio del estado de Yucatán, las cuales se determinarán empleando el valor vigente del factor de emisión del Sistema Eléctrico Nacional que emita la Comisión Reguladora de Energía, para el cálculo de las emisiones indirectas de gases de efecto invernadero por consumo de electricidad por tonelada de dióxido de carbono equivalente, por cada megavatio por hora (MWh) de energía consumida.
+
+Para acreditarlo, el contribuyente deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad de energía eléctrica consumida de la red y la cantidad de energía eléctrica consumida que haya sido generada por energías renovables, así como la metodología utilizada para su determinación.
+
+b) Las toneladas de dióxido de carbono equivalente de las emisiones evitadas por la generación de energía eléctrica a partir de biogás producido en las instalaciones o fuentes fijas del contribuyente en las que se emitan los gases de efecto invernadero gravados para el desarrollo de procesos productivos en el territorio del estado de Yucatán, las cuales se determinarán empleando el valor vigente del factor de emisión del Sistema Eléctrico Nacional que emita la Comisión Reguladora de Energía, para el cálculo de las emisiones indirectas de gases de efecto invernadero por consumo de electricidad por tonelada de dióxido de carbono equivalente, por cada megavatio por hora (MWh) de energía consumida.
+
+Para acreditarlo, el contribuyente deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad en toneladas de dióxido de carbono equivalente evitadas, la cantidad de biogás producido y la energía eléctrica producida a partir de dicho biogás, así como la metodología utilizada para su cuantificación.
+
+c) Las toneladas de dióxido de carbono equivalente de las emisiones evitadas por la implementación de proyectos de eficiencia energética en las instalaciones o fuentes fijas del contribuyente en las que se emitan los gases de efecto invernadero gravados para el desarrollo de procesos productivos en el territorio del estado de Yucatán, las cuales se determinarán empleando el valor vigente del factor de emisión del Sistema Eléctrico Nacional que emita la Comisión Reguladora de Energía, para el cálculo de las emisiones indirectas de gases de efecto invernadero por consumo de electricidad por tonelada de dióxido de carbono equivalente, por cada megavatio por hora (MWh) de energía consumida.
+
+Para acreditarlo, el contribuyente deberá reportar en su Libro de Registro de Emisiones Contaminantes, los datos del proyecto de eficiencia energética implementado, indicando el periodo de su implementación, los resultados obtenidos en reducción de consumo de energía, y la metodología utilizada para su cuantificación de emisiones.
+
+d) Las toneladas de dióxido de carbono equivalente de las emisiones reducidas por el uso de Fracción Inorgánica del Residuo Sólido Urbano (FIRSU) como combustible alterno en las instalaciones o fuentes fijas del contribuyente en las que se emitan los gases de efecto invernadero gravados para el desarrollo de procesos productivos en el territorio del estado de Yucatán, a efecto de evitar su disposición, las cuales se determinarán empleando el factor de 2.07 toneladas de dióxido de carbono equivalente por cada tonelada de FIRSU consumida. Para acreditarlo, el contribuyente deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad de toneladas de residuos sólidos urbanos utilizados y el cálculo correspondiente de las emisiones de dióxido de carbono equivalente por este proceso, así como la metodología utilizada para su cuantificación.
+
+e) Las toneladas de dióxido de carbono equivalente de las emisiones reducidas por el manejo y la valorización adecuada de residuos sólidos urbanos en el territorio del estado de Yucatán, a efecto de evitar su depósito en los sitios de disposición final, las cuales se determinarán empleando el factor de 0.32 toneladas de dióxido de carbono equivalente por cada tonelada de residuo reducida. Para acreditarlo, el contribuyente deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad en toneladas de residuos sólidos urbanos reducidos, así como la metodología utilizada para la cuantificación de su volumen. Para efectos de este párrafo se entenderá por valorización adecuada de residuos sólidos urbanos el contar con estrategias de manejo integral de residuos establecidas en la Licencia Única Ambiental o Cédula de Operación Anual, en términos del Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán.
+
+f) Las toneladas de dióxido de carbono equivalente de las emisiones reducidas por el saneamiento de sitios de disposición final de residuos sólidos urbanos ubicados en el territorio del estado de Yucatán, las cuales se determinarán empleando el factor de 0.32 toneladas de dióxido de carbono equivalente por cada tonelada de residuo sólido urbano contenido en el sitio de disposición final saneado. Para acreditarlo, el contribuyente deberá informar en su libro de registro de emisiones contaminantes la cantidad en toneladas de residuos sólidos urbanos saneados, así como la metodología utilizada para la cuantificación de su volumen. Para efectos de este párrafo, se entenderá por saneamiento al retiro de residuos sólidos urbanos de un sitio de disposición no regulado y su traslado y disposición final hacia un sitio regulado.
+
+El valor del factor de emisión del Sistema Eléctrico Nacional que emita la Comisión Reguladora de Energía, para el cálculo de las emisiones indirectas de gases de efecto invernadero por consumo de electricidad por tonelada de dióxido de carbono equivalente a que se refieren los incisos a), b) y c) de esta fracción, será el que se encuentre vigente en el mes en que se determinen las emisiones evitadas, de conformidad con la publicación que realice la Comisión Reguladora de Energía, en términos del artículo 12 del Reglamento de la Ley de Transición Energética.
+
+II. De hasta el 20% de la cantidad de toneladas de dióxido de carbono equivalente capturadas, de acuerdo con lo siguiente:
+
+a) Las toneladas de dióxido de carbono equivalentes de las emisiones capturadas en áreas destinadas a conservación forestal, ubicadas en el territorio del estado de Yucatán, de las que se pueda acreditar la propiedad y posesión a cargo del contribuyente, o bien, de aquellas que, siendo propiedad de un tercero, el contribuyente pueda acreditar mediante instrumento jurídico que otorgue a su favor el derecho de aprovechamiento del carbono capturado y el compromiso de preservación del área de conservación forestal, al menos, durante el ejercicio fiscal en el que desee se aplique el estímulo fiscal. Las emisiones se determinarán empleando el factor de 6.68 toneladas de dióxido de carbono equivalente por hectárea, por la captura de carbono en selvas cálido húmedas, y 2.26 toneladas de dióxido de carbono equivalente por hectárea, por la captura de carbono en selvas cálido secas, por cada hectárea destinada a conservación, de acuerdo con las ecorregiones establecidas por la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
+
+El estado de conservación del área destinada a conservación forestal deberá ser determinado por un tercero que cuente con cédula profesional de ser persona bióloga, ingeniera forestal, agrónoma o de profesión afín; o centro de investigación o educación reconocido para llevar a cabo dicha determinación.
+
+El contribuyente deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad de toneladas de dióxido de carbono equivalente capturado, así como la ubicación del área destinada a conservación forestal en coordenadas geográficas, la superficie destinada a conservación y las emisiones totales capturadas en toneladas de carbono equivalente.
+
+b) Las toneladas de dióxido de carbono equivalentes de las emisiones capturadas en áreas reforestadas, ubicadas en el territorio del estado de Yucatán, de las que se pueda acreditar la propiedad y posesión a cargo del contribuyente, o bien, de aquellas que, siendo propiedad de un tercero, el contribuyente pueda acreditar mediante instrumento jurídico que otorgue a su favor el derecho de aprovechamiento del carbono capturado y el compromiso de preservación del área reforestada, al menos, durante el ejercicio fiscal en el que desee se aplique el estímulo fiscal. Las emisiones se determinarán mediante el cálculo del volumen forestal acumulado en el año, con base en ecuaciones alométricas elaboradas por un tercero que cuente con cédula profesional de persona bióloga, ingeniera forestal, agrónoma o profesión afín; o centro de investigación o educación reconocido para llevar a cabo los cálculos, cuyos resultados deberán informarse en el Libro de Registro de Emisiones Contaminantes. El contribuyente deberá conservar la documentación que ampare la metodología empleada para el cálculo de las emisiones.
+
+III. De hasta un 100% de la cantidad en toneladas de dióxido de carbono equivalente generadas por la obtención de algún producto a través de calcinación o sinterización de materia prima que no pueda ser sustituido en su proceso productivo. Las emisiones se determinarán empleando el factor que defina la Secretaría de Medio Ambiente y Recursos Naturales al establecer las particularidades técnicas y las fórmulas para la aplicación de metodologías para el cálculo de emisiones de gases o compuestos de efecto invernadero en toneladas de dióxido de carbono equivalente por tonelada de dióxido de carbono proveniente de la calcinación y sinterización de la materia prima. El contribuyente deberá conservar la documentación que ampare la metodología empleada para el cálculo de las emisiones.
+
+IV. La cantidad de hasta quinientas toneladas de dióxido de carbono equivalente.
+
+Al aplicar los estímulos fiscales previstos en este artículo, los contribuyentes únicamente podrán deducir del total de las emisiones a la atmósfera gravadas por el impuesto señalado en este capítulo, una cantidad igual o menor a la cuantía de la carga contaminante de las emisiones gravadas por el impuesto a que se refiere este capítulo.
+
+Los estímulos fiscales previstos en este artículo podrán ser aplicados en los pagos provisionales y en la declaración anual que correspondan al ejercicio fiscal en que se generen las emisiones.
+
+Cuando el contribuyente aplique los estímulos previstos en este artículo sin tener derecho a ello o los aplique en cantidad mayor a la que tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 47
+
+AQ-TER.- Para los efectos de este capítulo los contribuyentes que utilicen gas natural en los procesos productivos que se desarrollen en sus instalaciones o fuentes fijas establecidas en territorio del estado de Yucatán gozarán de un estímulo fiscal consistente en la disminución de una cantidad de toneladas de dióxido de carbono equivalente contra el total de la cuantía de carga contaminante de las emisiones a la atmósfera gravadas por el impuesto a que se refiere este capítulo, de conformidad con lo siguiente:
+
+Hasta el 93% de la cantidad de toneladas de dióxido de carbono equivalente generadas por la utilización de gas natural en los procesos productivos que se desarrollen en sus instalaciones o fuentes fijas que se encuentren establecidas en el territorio del estado de Yucatán. Para acreditarlo, la persona física, la persona moral o unidad económica deberá informar en su Libro de Registro de Emisiones Contaminantes la cantidad de toneladas de dióxido de carbono equivalente generadas por el uso de gas natural, así como la metodología utilizada para su cuantificación. De igual manera, deberá conservar la documentación que ampare la metodología empleada para el cálculo de las emisiones.
+
+El estímulo fiscal previsto en este artículo podrá ser aplicado en los pagos provisionales y en la declaración anual que corresponda.
+
+Los contribuyentes que opten por realizar la aplicación del estímulo fiscal señalado en este artículo no podrán aplicar adicionalmente, los estímulos fiscales señalados en el artículo 47-AQ-Bis. Una vez que el contribuyente elija la opción de aplicación del estímulo fiscal establecido en este artículo no podrá cambiar la opción elegida durante el ejercicio fiscal que corresponda.
+
+Cuando el contribuyente aplique los estímulos previstos en este artículo sin tener derecho a ello o los aplique en cantidad mayor a la que tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
+
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+### CAPÍTULO XII. IMPUESTO A LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### ARTÍCULO 47
 
@@ -1621,17 +1721,17 @@ AR.- Es objeto de este impuesto la emisión de sustancias contaminantes generada
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
+#### SECCIÓN CUARTA. DE LA CAUSACIÓN Y LA CUOTA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
 ###### ARTÍCULO 47
 
 AS.- Son sujetos de este impuesto las personas físicas, las personas morales, así como las unidades económicas que, en el territorio del Estado, independientemente del domicilio fiscal del contribuyente, bajo cualquier título, por sí mismas o a través de intermediarios, realicen los actos o actividades establecidas en el artículo anterior.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO XII. IMPUESTO A LA EMISIÓN DE CONTAMINANTES AL SUELO, SUBSUELO Y AGUA
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-#### SECCIÓN TERCERA. DE LA BASE
+#### SECCIÓN QUINTA. DEL PAGO
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1755,7 +1855,7 @@ La unidad de contaminante de suelo, subsuelo o agua siempre se deberá expresar 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN CUARTA. DE LA CAUSACIÓN Y LA CUOTA
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1767,11 +1867,13 @@ I. Suelo y subsuelo: una cuota impositiva por el equivalente a 0.27 UMA por cada
 
 II. Agua: una cuota impositiva por el equivalente a 0.20 UMA por cada unidad de contaminantes de agua de las señaladas en el artículo 47-AT, fracción II, de esta Ley, hallada por metro cúbico.
 
-Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este capítulo la cuota se pagará por cada unidad de contaminante.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Si el suelo, subsuelo o agua fueron contaminados con dos o más sustancias de las mencionadas en este capítulo, la cuota se pagará por cada unidad de contaminante asociada a cada sustancia reportada.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN QUINTA. DEL PAGO
+#### SECCIÓN SÉPTIMA. DEL DESTINO
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1781,9 +1883,21 @@ AV.- El impuesto se calculará aplicando a las unidades de contaminantes, previs
 
 El impuesto se pagará mediante declaración mensual definitiva, que relacionará las unidades de contaminantes en metros cuadrados de terreno o metros cúbicos de agua afectados según corresponda a que se refiere el artículo 47-AT de esta ley que el contribuyente haya generado en el mes de calendario que corresponda, y que presentarán los contribuyentes en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán, a más tardar el día diecisiete del mes de calendario siguiente, a la fecha de su causación o el día hábil siguiente si aquel no lo fuere.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Los contribuyentes podrán optar por presentar la declaración a que se refiere el segundo párrafo de este artículo, mediante declaración trimestral definitiva o declaración semestral definitiva, para lo cual relacionarán las unidades de contaminantes en metros cuadrados de terreno o en metros cúbicos de agua afectados, de conformidad con el artículo 47-AT de esta ley, que el contribuyente haya generado en el trimestre o semestre de calendario que corresponda.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Los contribuyentes deberán informar la opción elegida a través de los medios que para tal efecto establezca la Agencia de Administración Fiscal de Yucatán.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Los contribuyentes que opten por presentar su declaración con base en las opciones señaladas en este artículo no podrán variar la opción elegida hasta concluir el ejercicio fiscal.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+#### SECCIÓN OCTAVA. DE LA SUPLETORIEDAD
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1791,7 +1905,9 @@ El impuesto se pagará mediante declaración mensual definitiva, que relacionar�
 
 AW.- Los contribuyentes sujetos al pago del Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua a que se refiere este Capítulo, deberán cumplir con las siguientes obligaciones:
 
-I. Presentar aviso de inscripción ante la Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+I. Presentar aviso de inscripción ante la Agencia de Administración Fiscal de Yucatán.
 
 II. Llevar su contabilidad de conformidad con el Código Fiscal del Estado de Yucatán, y conforme a las reglas de carácter general que, en su caso, emita la Agencia de Administración Fiscal de Yucatán, se deberán identificar las operaciones por las que deba pagarse este impuesto;
 
@@ -1801,13 +1917,11 @@ IV. Proporcionar la información que en relación con este impuesto se solicite 
 
 V. Llevar un registro específico de las sustancias contaminantes mencionadas en este capítulo, que sean adquiridas y utilizadas en actividades industriales y agropecuarias, así como las cantidades que en estado físico sólido, semisólido o líquido se emitieron al suelo, subsuelo o agua; para ello, el contribuyente deberá contar con medidor volumétrico para medición de las aguas que se depositen, desechen, descarguen o inyecten al suelo, subsuelo o al agua;
 
-VI. Realizar las pruebas mensuales de muestreo previstas en las Normas Oficiales Mexicanas establecidas en el artículo 47-AT de esta Ley, y
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. Realizar las pruebas de muestreo previstas en las Normas Oficiales Mexicanas establecidas en el artículo 47-AT de esta ley, y
 
 VII. Cualquier otra obligación de carácter formal que se establezca mediante reglas de carácter general emitidas por la Agencia de administración Fiscal de Yucatán o la Secretaría de Desarrollo Sustentable.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-#### SECCIÓN SÉPTIMA. DEL DESTINO
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -1821,9 +1935,9 @@ II. Cuando no sea posible determinar la base gravable en los términos de la fra
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN OCTAVA. DE LA SUPLETORIEDAD
+#### SECCIÓN NOVENA. DE LOS ESTÍMULOS
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 47
 
@@ -1853,9 +1967,9 @@ VIII. La planeación y construcción de vivienda, para la reubicación de los ha
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN NOVENA. DE LOS ESTÍMULOS
+#### SECCIÓN PRIMERA. DE LA PROPIEDAD
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 47
 
@@ -1863,25 +1977,29 @@ BA.- Para efectos de este capítulo serán aplicables, de manera supletoria, la 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-###### ARTÍCULO 47
-
-BB.- Para efectos de lo establecido en este capítulo, cuando exista una disminución de los contaminantes objeto de este impuesto y esta sea equivalente a un 20% o más entre un ejercicio fiscal y otro, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción en un 15% del impuesto que le corresponda pagar en el ejercicio inmediato siguiente en el que se observe la disminución.
-
-Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Agencia de Administración Fiscal de Yucatán, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
-
-El estímulo fiscal a que se refiere este artículo se podrá acreditar contra el monto del impuesto que efectivamente se deba pagar en la declaración mensual. La aplicación del estímulo no generará saldos a favor.
-
-Cuando sin tener derecho a ello se acredite contra el impuesto a pagar el estímulo fiscal establecido en este artículo o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
-
-Cuando se haya pagado el impuesto mediante el acreditamiento del estímulo fiscal, y posteriormente se presente una declaración complementaria reduciendo el importe del impuesto a cargo del contribuyente, solo procederá la devolución de cantidades a favor cuando estas deriven de un pago efectivamente realizado.
-
-#### SECCIÓN PRIMERA. DE LA PROPIEDAD
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
-
 #### SECCIÓN SEGUNDA. DEL COMERCIO
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 47
+
+BB.- Para efectos de lo establecido en este capítulo, cuando exista una disminución los contaminantes objeto de este impuesto y esta disminución sea equivalente a un 20% o más del periodo que corresponda la declaración respecto al mismo periodo comprendido de enero a diciembre del año calendario inmediato anterior, se otorgará un estímulo fiscal a los contribuyentes que consistirá en una reducción del 15% del impuesto que le corresponda pagar en las declaraciones del año calendario siguiente a aquel en que se observe la disminución.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Para la procedencia del estímulo, los contribuyentes deberán acreditar ante la Agencia de Administración Fiscal de Yucatán, las reducciones efectivas a través de la documentación que contable y jurídicamente sea procedente.
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+El estímulo fiscal a que se refiere este artículo se podrá acreditar contra el monto del impuesto que efectivamente se deba pagar en la declaración que corresponda. La aplicación del estímulo no generará saldos a favor.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Cuando sin tener derecho a ello se acredite contra el impuesto a pagar el estímulo fiscal establecido en este artículo o se haga en cantidad mayor a la que se tenga derecho, las autoridades fiscales exigirán el pago del impuesto omitido actualizado y de los accesorios que correspondan.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+Cuando se haya pagado el impuesto mediante el acreditamiento del estímulo fiscal, y posteriormente se presente una declaración complementaria reduciendo el importe del impuesto a cargo del contribuyente, solo procederá la devolución de cantidades a favor cuando estas deriven de un pago efectivamente realizado.
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
@@ -4011,9 +4129,9 @@ a) De 1 hasta 20 personas 50.00 UMA
 
 b) Por persona adicional 3.00 UMA
 
-> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
-VII.- Autorización o aprobación de programas internos de protección civil 50.00 UMA
+VII.- Revisión de los requisitos previstos en la Ley de Protección Civil del Estado de Yucatán y, en su caso, aprobación de programas internos de protección civil 50.00 UMA
 
 VIII.- (DEROGADA, D.O. 31 DE DICIEMBRE DE 2019)
 
@@ -4459,7 +4577,7 @@ XXVI.- Validación de título profesional, de diploma de especialidad o de grado
 
 ARTÍCULO 85 X.- Los servicios que presta el Instituto de Movilidad y Desarrollo Urbano Territorial, causarán derechos de conformidad con lo siguiente:
 
-I.- Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 UMA
+I.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2022)
 
 II.- Emisión del tarjetón único del operador de transporte público 2.00 UMA
 
@@ -4523,9 +4641,9 @@ XVIII.- Expedición de certificado de operador titular de transporte de pasajero
 
 XIX.- Emisión de la constancia de transporte de carga a las empresas de redes de transporte 240.00 UMA
 
-> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XX.- Por el permiso anual para prestar el servicio particular de transporte de pasajeros 114.90 UMA
+XX.- Por el permiso anual para prestar el servicio particular de transporte de pasajeros 55.00 UMA
 
 > <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2019)</small>
 
@@ -4554,6 +4672,14 @@ XXVI.- Expedición del certificado de operador titular de transporte alternativo
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 XXVII.- Expedición del certificado de operador adhesivo de transporte alternativo 1.00 UMA
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXVIII.- Expedición al cedente de la Constancia de Historial de infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y el reglamento aplicable 0.5 UMA
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXIX.- Expedición al cesionario de la Constancia de Historial de infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Yucatán y el reglamento aplicable 0.5 UMA
 
 Los derechos por los servicios previstos en las fracciones X y XI de este artículo serán aplicables únicamente en caso de que el área a evaluar pertenezca a un municipio que no preste los referidos servicios o a solicitud de este.
 
@@ -5264,3 +5390,25 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 584/2022 POR EL QUE SE MODIFICAN LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el 1 de enero de 2023, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Excepción
+
+Artículo segundo. Durante el ejercicio fiscal 2023, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal de conformidad con el artículo 22-Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
+
+Así mismo, durante el ejercicio fiscal 2023, los intermediarios, contratistas, terceros o cualquiera que sea su denominación que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22-Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal así como tampoco a suministrar la información a que se refieren (sic) el artículo 27-F de la citada ley.
+
+Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua
+
+Artículo tercero. Los contribuyentes del Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua que cuenten con título de concesión de aguas nacionales o permiso de descarga otorgados por la Comisión Nacional del Agua, en términos de la Ley de Aguas Nacionales, la cantidad de miligramos por litro por cada metro cubico para cada contaminante señalado en la fracción II del artículo 47-AT para el cálculo de las unidades contaminantes de agua, serán los parámetros físicos, químicos y biológicos y los niveles máximos permitidos en las descargas de aguas residuales determinados por la Comisión Nacional del Agua en las condiciones particulares de descarga del referido título de concesión o permiso de descarga, durante los meses en los cuales continúe vigente este.
+
+Para efectos de lo anterior, los contribuyentes que se encuentren en el supuesto de este artículo transitorio deberán presentar, a más tardar el 17 de febrero del año que se trate, y si este fuera inhábil al día hábil siguiente, a la Agencia de Administración Fiscal de Yucatán, adjunto al aviso respecto al Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, la copia del título de concesión, permiso o documento donde se especifiquen las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua.
+
+La Agencia de Administración Fiscal de Yucatán y la Secretaría de Administración y Finanzas podrán expedir las disposiciones complementarias que sean necesarias para la correcta y debida aplicación de este artículo transitorio.
