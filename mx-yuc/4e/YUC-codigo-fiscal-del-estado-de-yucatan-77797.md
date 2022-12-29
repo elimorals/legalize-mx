@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2021-12-30"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -2079,6 +2079,10 @@ VI. No expedir o no entregar comprobante de sus actividades, cuando las disposic
 
 VII. Grabar en medios magnéticos o en cualquier otro medio que autorice la Agencia de Administración Fiscal de Yucatán, documentación o información para efectos fiscales sin cumplir con los requisitos que establezcan las disposiciones relativas.
 
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VIII. No presentar el dictamen dentro del término previsto en el artículo 27-K, párrafo segundo, de la Ley General de Hacienda del Estado de Yucatán.
+
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 109.
@@ -2096,6 +2100,10 @@ IV. De 5 a 71 UMA, a la señalada en la fracción V.
 V. De 106 a 578 UMA, a la señalada en la fracción VI.
 
 VI. De 18 a 89 UMA, a la establecida en la fracción VII. La multa procederá sin perjuicio de que los documentos grabados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VII. De 215 a 623 UMA a la señalada en la fracción VIII.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -4068,3 +4076,25 @@ D.O. 30 DE DICIEMBRE DE 2021.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 584/2022 POR EL QUE SE MODIFICAN LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el 1 de enero de 2023, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Excepción
+
+Artículo segundo. Durante el ejercicio fiscal 2023, las personas físicas, personas morales y unidades económicas que tengan la obligación de retener el impuesto sobre erogaciones por remuneración al trabajo personal de conformidad con el artículo 22-Bis de la Ley General de Hacienda del Estado de Yucatán, no tendrán la obligación de realizar la retención cuando subcontraten servicios especializados o de ejecución de obras especializadas, y estarán eximidas de las obligaciones señaladas en el artículo 27-E de la ley referida.
+
+Así mismo, durante el ejercicio fiscal 2023, los intermediarios, contratistas, terceros o cualquiera que sea su denominación que presten servicios especializados o de ejecución de obras especializadas, no estarán obligados a presentar el aviso a que se refiere el artículo 22-Ter de la Ley General de Hacienda del Estado de Yucatán, ni estarán obligados a realizar el desglose en el comprobante fiscal de los conceptos por los cuales se cause el impuesto sobre erogaciones por remuneración al trabajo personal así como tampoco a suministrar la información a que se refieren el artículo 27-F de la citada ley.
+
+Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua
+
+Artículo tercero. Los contribuyentes del Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua que cuenten con título de concesión de aguas nacionales o permiso de descarga otorgados por la Comisión Nacional del Agua, en términos de la Ley de Aguas Nacionales, la cantidad de miligramos por litro por cada metro cubico para cada contaminante señalado en la fracción II del artículo 47-AT para el cálculo de las unidades contaminantes de agua, serán los parámetros físicos, químicos y biológicos y los niveles máximos permitidos en las descargas de aguas residuales determinados por la Comisión Nacional del Agua en las condiciones particulares de descarga del referido título de concesión o permiso de descarga, durante los meses en los cuales continúe vigente este.
+
+Para efectos de lo anterior, los contribuyentes que se encuentren en el supuesto de este artículo transitorio deberán presentar, a más tardar el 17 de febrero del año que se trate, y si este fuera inhábil al día hábil siguiente, a la Agencia de Administración Fiscal de Yucatán, adjunto al aviso respecto al Impuesto a la Emisión de Contaminantes al Suelo, Subsuelo y Agua, la copia del título de concesión, permiso o documento donde se especifiquen las condiciones particulares de descarga determinadas por la Comisión Nacional del Agua.
+
+La Agencia de Administración Fiscal de Yucatán y la Secretaría de Administración y Finanzas podrán expedir las disposiciones complementarias que sean necesarias para la correcta y debida aplicación de este artículo transitorio.
