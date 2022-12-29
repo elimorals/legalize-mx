@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2022-10-21"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -929,9 +929,11 @@ VII.- La destitución, inhabilitación o suspensión para el desempeño de funci
 
 VIII.- La suspensión y el impedimento a que se refieren las fracciones III y IV anteriores, comenzarán desde que cause ejecutoria la sentencia y durarán todo el tiempo de la condena.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 65.
 
-La inhabilitación para desempeñar empleos o cargos públicos, produce no sólo la pérdida de aquellos sobre los cuales recae la sanción, sino también incapacidad para obtener los mismos u otros de igual categoría del mismo ramo, por un plazo que se fijará en la sentencia y que no excederá de diez años.
+En caso de inhabilitación para desempeñar empleos o encargos públicos, genera no sólo la pérdida de aquellos sobre los cuales recae la sanción, sino también incapacidad para obtener los mismos u otros de igual categoría del mismo ramo, por un plazo que se fijará en la sentencia que deberá ser acorde a la falta cometida, la sanción no excederá de diez años.
 
 ###### Artículo 66.
 
@@ -3380,6 +3382,12 @@ La sanción se duplicará si alguno de estos aditamentos es utilizado para comet
 > <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
 
 Para los efectos del presente ordenamiento, se considerará como Servidor Público, al Notario que cuente con la Patente en Ejercicio; incluyendo a su Auxiliar o Substituto según sea el caso.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 258 Bis.
+
+Se impondrá de uno a cuatro años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización, al responsable o encargado del establecimiento en que se preste (sic) servicios de atención a la salud mental o adicciones, sin contar con el aviso de funcionamiento respectivo, así como con el registro como institución especializada ante la Comisión Nacional contra las Adicciones.
 
 #### SECCION SEPTIMA.- DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
@@ -7688,6 +7696,22 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 P.O. 21 DE OCTUBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA, LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 65 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 258 BIS AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
