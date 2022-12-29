@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2021-12-30"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -77,123 +77,127 @@ V.- Balance Presupuestario: La diferencia entre los ingresos totales incluidos e
 
 VI.- Balance Presupuestario de Recursos Disponibles: La diferencia entre los ingresos de libre disposición, incluidos en la ley de ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el presupuesto de egresos, con excepción de la amortización de la deuda;
 
-VII.- Contraloría: La Secretaría de la Contraloría General;
+> <small>(ADICIONADA, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
-VIII.- Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos Federal y el Presupuesto de Egresos de la Federación;
+VII.- Consejo: el Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán;
 
-IX.- Cuenta por Liquidar Certificada: El instrumento mediante el cual los servidores públicos con atribuciones legales autorizan el pago de los compromisos adquiridos con cargo a su presupuesto de egresos;
+VIII.- Contraloría: La Secretaría de la Contraloría General;
 
-X.- Cuenta Pública: La cuenta pública estatal a que se refiere el artículo 30, fracción VII, de la Constitución Política del Estado de Yucatán y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
+IX.- Criterios Generales de Política Económica: El documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos Federal y el Presupuesto de Egresos de la Federación;
 
-XI.- Déficit Presupuestal: La situación que ocurre cuando los montos previstos en la Ley de Ingresos son inferiores a los previstos en el Presupuesto de Egresos o cuando los ingresos de los entes públicos son inferiores a sus gastos en los presupuestos, así como el monto resultante de la diferencia entre estos conceptos;
+X.- Cuenta por Liquidar Certificada: El instrumento mediante el cual los servidores públicos con atribuciones legales autorizan el pago de los compromisos adquiridos con cargo a su presupuesto de egresos;
 
-XII.- Dependencias: Las dependencias establecidas en el Código de la Administración Pública de Yucatán así como el Despacho del Gobernador;
+XI.- Cuenta Pública: La cuenta pública estatal a que se refiere el artículo 30, fracción VII, de la Constitución Política del Estado de Yucatán y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;
 
-XIII.- Dependencias Coordinadoras de Sector: Las dependencias que designe el Poder Ejecutivo del Estado en los términos de esta ley, con el fin de orientar y coordinar la planeación, programación, presupuestación, ejercicio, control y evaluación del gasto y de los resultados, de una o más entidades de la Administración Pública paraestatal;
+XII.- Déficit Presupuestal: La situación que ocurre cuando los montos previstos en la Ley de Ingresos son inferiores a los previstos en el Presupuesto de Egresos o cuando los ingresos de los entes públicos son inferiores a sus gastos en los presupuestos, así como el monto resultante de la diferencia entre estos conceptos;
 
-XIV.- Deuda Pública: Los financiamientos contratados por los entes públicos, en términos de la ley en materia de deuda pública;
+XIII.- Dependencias: Las dependencias establecidas en el Código de la Administración Pública de Yucatán así como el Despacho del Gobernador;
 
-XV.- Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los ejecutores de gasto, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
+XIV.- Dependencias Coordinadoras de Sector: Las dependencias que designe el Poder Ejecutivo del Estado en los términos de esta ley, con el fin de orientar y coordinar la planeación, programación, presupuestación, ejercicio, control y evaluación del gasto y de los resultados, de una o más entidades de la Administración Pública paraestatal;
 
-XVI.- Economías: Los remanentes de recursos no devengados del presupuesto de egresos;
+XV.- Deuda Pública: Los financiamientos contratados por los entes públicos, en términos de la ley en materia de deuda pública;
 
-XVII.- Ejecutores de Gasto: Los referidos en el artículo 5 de esta ley, cuyas erogaciones se realizan con cargo al Presupuesto de Egresos;
+XVI.- Disciplina Financiera: La observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los ejecutores de gasto, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
-XVIII.- Entes Públicos: Los poderes Ejecutivo, Legislativo y Judicial; los organismos autónomos estatales; los municipios; los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos del estado y sus municipios, así como cualquier otro ente sobre el que el estado o los municipios tengan control sobre sus decisiones o acciones;
+XVII.- Economías: Los remanentes de recursos no devengados del presupuesto de egresos;
 
-XIX.- Entidades: las que constituyen la Administración Pública Paraestatal, de conformidad con el Código de la Administración Pública del Estado; y las que constituyen la Administración Pública Paramunicipal;
+XVIII.- Ejecutores de Gasto: Los referidos en el artículo 5 de esta ley, cuyas erogaciones se realizan con cargo al Presupuesto de Egresos;
 
-XX.- Estructura Programática: El conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar las metas de los programas presupuestados, los cuales deberán ser evaluados mediante indicadores de desempeño y estar alineados con el plan estatal de desarrollo y los programas de mediano plazo que de él deriven. Igualmente, ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto;
+XIX.- Entes Públicos: Los poderes Ejecutivo, Legislativo y Judicial; los organismos autónomos estatales; los municipios; los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos del estado y sus municipios, así como cualquier otro ente sobre el que el estado o los municipios tengan control sobre sus decisiones o acciones;
 
-XXI.- Evaluación del Desempeño: La apreciación sistemática y objetiva de un programa o proyecto en curso o concluido, de su diseño, su puesta en práctica y sus resultados, con el propósito de determinar la pertinencia y el logro de sus objetivos, así como su eficiencia, eficacia, impacto y sostenibilidad en relación con el desarrollo del estado;
+XX.- Entidades: las que constituyen la Administración Pública Paraestatal, de conformidad con el Código de la Administración Pública del Estado; y las que constituyen la Administración Pública Paramunicipal;
 
-XXII.- Financiamiento: Las operaciones constitutivas de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos, derivada (sic) de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
+XXI.- Estructura Programática: El conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los ejecutores de gasto para alcanzar las metas de los programas presupuestados, los cuales deberán ser evaluados mediante indicadores de desempeño y estar alineados con el plan estatal de desarrollo y los programas de mediano plazo que de él deriven. Igualmente, ordena y clasifica las acciones de los ejecutores de gasto para delimitar la aplicación del gasto;
 
-XXIII.- Financiamiento Neto: La diferencia entre las disposiciones realizadas de los financiamientos y las amortizaciones efectuadas de la deuda pública;
+XXII.- Evaluación del Desempeño: La apreciación sistemática y objetiva de un programa o proyecto en curso o concluido, de su diseño, su puesta en práctica y sus resultados, con el propósito de determinar la pertinencia y el logro de sus objetivos, así como su eficiencia, eficacia, impacto y sostenibilidad en relación con el desarrollo del estado;
 
-XXIV.- Flujo de Efectivo: El registro de las entradas y salidas de recursos líquidos de un periodo o un ejercicio fiscal, el cual puede, en su caso, considerar un saldo inicial de recursos;
+XXIII.- Financiamiento: Las operaciones constitutivas de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los entes públicos, derivada (sic) de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-XXV.- Gasto Corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias asociadas a dichos conceptos, asignaciones, subsidios, donativos y apoyos;
+XXIV.- Financiamiento Neto: La diferencia entre las disposiciones realizadas de los financiamientos y las amortizaciones efectuadas de la deuda pública;
 
-XXVI.- Gasto Etiquetado: Las erogaciones que realizan el Estado y los municipios con cargo a las transferencias federales etiquetadas. En el caso de los municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del estado con un destino específico;
+XXV.- Flujo de Efectivo: El registro de las entradas y salidas de recursos líquidos de un periodo o un ejercicio fiscal, el cual puede, en su caso, considerar un saldo inicial de recursos;
 
-XXVII.- Gasto no Etiquetado: Las erogaciones que realizan el estado y los municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los municipios, se excluye el gasto que realicen con recursos del estado con un destino específico;
+XXVI.- Gasto Corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias asociadas a dichos conceptos, asignaciones, subsidios, donativos y apoyos;
 
-XXVIII.- Gasto no Programable: Las erogaciones a cargo del Gobierno del Estado y los ayuntamientos que derivan del cumplimiento de obligaciones legales o de su respectivo presupuesto de egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
+XXVII.- Gasto Etiquetado: Las erogaciones que realizan el Estado y los municipios con cargo a las transferencias federales etiquetadas. En el caso de los municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del estado con un destino específico;
 
-XXIX.- Gasto Programable: Las erogaciones que el Gobierno del Estado y los ayuntamientos realizan en cumplimiento de sus atribuciones, conforme a los programas para proveer bienes y servicios públicos a la población;
+XXVIII.- Gasto no Etiquetado: Las erogaciones que realizan el estado y los municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los municipios, se excluye el gasto que realicen con recursos del estado con un destino específico;
 
-XXX.- Gasto Total: La totalidad de las erogaciones aprobadas y ejercidas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+XXIX.- Gasto no Programable: Las erogaciones a cargo del Gobierno del Estado y los ayuntamientos que derivan del cumplimiento de obligaciones legales o de su respectivo presupuesto de egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
 
-XXXI.- Indicador: La expresión cualitativa o cuantitativa observable que permite describir características, comportamientos o fenómenos de la realidad, a través del establecimiento de una relación entre variables. Esta relación, comparada con periodos anteriores, productos similares o una meta o compromiso, permite evaluar el desempeño y su evolución en el tiempo. Son insumos necesarios para llevar a cabo el seguimiento y la evaluación de la gestión y el desempeño;
+XXX.- Gasto Programable: Las erogaciones que el Gobierno del Estado y los ayuntamientos realizan en cumplimiento de sus atribuciones, conforme a los programas para proveer bienes y servicios públicos a la población;
 
-XXXII.- Indicador de Desempeño: El que permite verificar cambios producidos por la intervención gubernamental a través de programas, proyectos o acciones, expresados en resultados referenciados a lo programado. Se clasifica en indicadores de gestión y de resultado;
+XXXI.- Gasto Total: La totalidad de las erogaciones aprobadas y ejercidas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-XXXIII.- Indicadores de Gestión: El que se enfoca al seguimiento y evaluación del desempeño de las estructuras organizacionales, a partir de la cadena insumo- actividad o proceso- productos o servicios;
+XXXII.- Indicador: La expresión cualitativa o cuantitativa observable que permite describir características, comportamientos o fenómenos de la realidad, a través del establecimiento de una relación entre variables. Esta relación, comparada con periodos anteriores, productos similares o una meta o compromiso, permite evaluar el desempeño y su evolución en el tiempo. Son insumos necesarios para llevar a cabo el seguimiento y la evaluación de la gestión y el desempeño;
 
-XXXIV.- Indicadores de Resultado: El que permite medir tanto los efectos inmediatos o de corto plazo como los efectos de largo plazo o de impacto generados por los servicios o productos de un programa, proyecto o actividad sobre la población beneficiaria;
+XXXIII.- Indicador de Desempeño: El que permite verificar cambios producidos por la intervención gubernamental a través de programas, proyectos o acciones, expresados en resultados referenciados a lo programado. Se clasifica en indicadores de gestión y de resultado;
 
-XXXV.- Informes Trimestrales: Los informes sobre la situación de las finanzas públicas y la deuda pública que el Poder Ejecutivo del estado presenta trimestralmente al Congreso del Estado;
+XXXIV.- Indicadores de Gestión: El que se enfoca al seguimiento y evaluación del desempeño de las estructuras organizacionales, a partir de la cadena insumo- actividad o proceso- productos o servicios;
 
-XXXVI.- Ingresos de Libre Disposición: Los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
+XXXV.- Indicadores de Resultado: El que permite medir tanto los efectos inmediatos o de corto plazo como los efectos de largo plazo o de impacto generados por los servicios o productos de un programa, proyecto o actividad sobre la población beneficiaria;
 
-XXXVII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
+XXXVI.- Informes Trimestrales: Los informes sobre la situación de las finanzas públicas y la deuda pública que el Poder Ejecutivo del estado presenta trimestralmente al Congreso del Estado;
 
-XXXVIII.- Ingresos Locales: Aquellos ingresos percibidos por el estado, los municipios y demás entes públicos derivados de impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por la explotación o venta de bienes, la explotación o ejercicio de derechos al amparo de concesiones, de la prestación de servicios y los demás que legítimamente reciba el Estado o los municipios en términos de las disposiciones aplicables;
+XXXVII.- Ingresos de Libre Disposición: Los ingresos locales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
-XXXIX.- Ley de Disciplina Financiera: La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+XXXVIII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-XL.- Ley de Ingresos: La ley de ingresos del estado de Yucatán que anualmente autoriza el Congreso para el ejercicio fiscal correspondiente;
+XXXIX.- Ingresos Locales: Aquellos ingresos percibidos por el estado, los municipios y demás entes públicos derivados de impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por la explotación o venta de bienes, la explotación o ejercicio de derechos al amparo de concesiones, de la prestación de servicios y los demás que legítimamente reciba el Estado o los municipios en términos de las disposiciones aplicables;
 
-XLI.- Organismos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Yucatán a las que se asignen recursos del presupuesto de egresos, a través de los ramos autónomos;
+XL.- Ley de Disciplina Financiera: La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XLII.- Percepciones Extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
+XLI.- Ley de Ingresos: La ley de ingresos del estado de Yucatán que anualmente autoriza el Congreso para el ejercicio fiscal correspondiente;
 
-XLIII.- Percepciones Ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los entes públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
+XLII.- Organismos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Yucatán a las que se asignen recursos del presupuesto de egresos, a través de los ramos autónomos;
 
-XLIV.- Presupuesto basado en Resultados: La estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
+XLIII.- Percepciones Extraordinarias: Los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
 
-XLV.- Presupuesto de Egresos: El Presupuesto de Egresos del estado o municipio, aprobado por el Congreso o el Ayuntamiento, respectivamente;
+XLIV.- Percepciones Ordinarias: Los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en los entes públicos, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
-XLVI.- Programa: La suma de acciones, procesos y recursos organizados de manera sistemática, lógica, coherente e integrada. Se lleva a cabo con el fin de atender necesidades específicas y alcanzar los resultados y las metas de los objetivos propuestos en la planeación y la programación. Permite definir parámetros de comportamiento de cada uno de sus componentes y etapas, para detectar, corregir y mejorar su contribución a los objetivos establecidos en la planeación o la programación;
+XLV.- Presupuesto basado en Resultados: La estrategia para asignar recursos en función del cumplimiento de objetivos previamente definidos, determinados por la identificación de demandas a satisfacer, así como por la evaluación periódica que se haga de su ejecución con base en indicadores de desempeño;
 
-XLVII.- Programa Presupuestario: La intervención pública objeto de asignación de recursos presupuestales, integrada por dos o más componentes, que tiene como propósito resolver un problema social, satisfacer una necesidad o aprovechar una oportunidad, mediante la adquisición, producción o entrega de dos o más bienes o servicios públicos, subsidios o ayudas;
+XLVI.- Presupuesto de Egresos: El Presupuesto de Egresos del estado o municipio, aprobado por el Congreso o el Ayuntamiento, respectivamente;
 
-XLVIII.- Proyecto de Presupuesto: El documento que elabora, integra y consolida la secretaría y que contiene la estimación de gastos a efectuar por parte de los ejecutores de gasto del Gobierno del Estado para el año inmediato siguiente, con base en el programa presupuestario, así como los similares que se sometan a la aprobación del cabildo;
+XLVII.- Programa: La suma de acciones, procesos y recursos organizados de manera sistemática, lógica, coherente e integrada. Se lleva a cabo con el fin de atender necesidades específicas y alcanzar los resultados y las metas de los objetivos propuestos en la planeación y la programación. Permite definir parámetros de comportamiento de cada uno de sus componentes y etapas, para detectar, corregir y mejorar su contribución a los objetivos establecidos en la planeación o la programación;
 
-XLIX.- Proyectos de Inversión: La acción limitada en el tiempo que utiliza total o parcialmente recursos públicos con el fin de crear, ampliar, mejorar, modernizar o recuperar la capacidad productora de bienes o servicios públicos, cuyos beneficios se generan durante su vida útil, así como lograr productos o beneficios con el objetivo de mejorar la productividad del sector público. Su finalidad es mejorar las condiciones de vida de la sociedad en su conjunto;
+XLVIII.- Programa Presupuestario: La intervención pública objeto de asignación de recursos presupuestales, integrada por dos o más componentes, que tiene como propósito resolver un problema social, satisfacer una necesidad o aprovechar una oportunidad, mediante la adquisición, producción o entrega de dos o más bienes o servicios públicos, subsidios o ayudas;
 
-L.- Proyectos para la Prestación de Servicios: Los previstos en la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán;
+XLIX.- Proyecto de Presupuesto: El documento que elabora, integra y consolida la secretaría y que contiene la estimación de gastos a efectuar por parte de los ejecutores de gasto del Gobierno del Estado para el año inmediato siguiente, con base en el programa presupuestario, así como los similares que se sometan a la aprobación del cabildo;
 
-LI.- Ramo: La previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
+L.- Proyectos de Inversión: La acción limitada en el tiempo que utiliza total o parcialmente recursos públicos con el fin de crear, ampliar, mejorar, modernizar o recuperar la capacidad productora de bienes o servicios públicos, cuyos beneficios se generan durante su vida útil, así como lograr productos o beneficios con el objetivo de mejorar la productividad del sector público. Su finalidad es mejorar las condiciones de vida de la sociedad en su conjunto;
 
-LII.- Reglamento: El reglamento de esta ley;
+LI.- Proyectos para la Prestación de Servicios: Los previstos en la Ley de Proyectos para la Prestación de Servicios del Estado de Yucatán;
 
-LIII.- Reglas de Operación: Las disposiciones normativas a las que se sujeta la ejecución de determinados programas que generalmente implican el otorgamiento de subsidios y ayudas, en numerario o en especie, con el fin de asegurar y transparentar la aplicación eficiente, eficaz y oportuna de los recursos públicos asignados a estos;
+LII.- Ramo: La previsión de gasto con el mayor nivel de agregación en el Presupuesto de Egresos;
 
-LIV.- Remuneraciones: La retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
+LIII.- Reglamento: El reglamento de esta ley;
 
-LV.- Responsabilidad Hacendaria: La observancia de los principios y las disposiciones de esta ley, de la Ley de Ingresos, del Presupuesto de Egresos, de la Ley de Disciplina Financiera y de los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestal, la disciplina fiscal y el cumplimiento de las metas de los programas y proyectos públicos;
+LIV.- Reglas de Operación: Las disposiciones normativas a las que se sujeta la ejecución de determinados programas que generalmente implican el otorgamiento de subsidios y ayudas, en numerario o en especie, con el fin de asegurar y transparentar la aplicación eficiente, eficaz y oportuna de los recursos públicos asignados a estos;
 
-LVI.- Resultado: El producto, efecto o impacto ya sea propuesto o no, positivo o negativo que se produce en las condiciones de bienestar de la población objetivo de la acción pública, como consecuencia de una política, programa o proyecto terminado o en proceso de ejecución. En el caso de productos o actividades intermedios, también se miden resultados en la medida en que contribuyen a la entrega de productos que recibe la población objetivo;
+LV.- Remuneraciones: La retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
 
-LVII.- Secretaría: La Secretaría de Administración y Finanzas;
+LVI.- Responsabilidad Hacendaria: La observancia de los principios y las disposiciones de esta ley, de la Ley de Ingresos, del Presupuesto de Egresos, de la Ley de Disciplina Financiera y de los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestal, la disciplina fiscal y el cumplimiento de las metas de los programas y proyectos públicos;
 
-LVIII.- Seguimiento: El proceso continuo, a través del cual, los involucrados obtienen regularmente una retroalimentación sobre los avances en la consecución de las metas y objetivos. Informa tanto sobre la ejecución de las acciones programadas como de los avances en la obtención de los resultados propuestos;
+LVII.- Resultado: El producto, efecto o impacto ya sea propuesto o no, positivo o negativo que se produce en las condiciones de bienestar de la población objetivo de la acción pública, como consecuencia de una política, programa o proyecto terminado o en proceso de ejecución. En el caso de productos o actividades intermedios, también se miden resultados en la medida en que contribuyen a la entrega de productos que recibe la población objetivo;
 
-LIX.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, verificando el grado de cumplimiento de las metas y los objetivos, mediante indicadores de desempeño que incluye indicadores de gestión y de resultados, con el fin de conocer sus resultados;
+LVIII.- Secretaría: La Secretaría de Administración y Finanzas;
 
-LX.- Subsidios: Las asignaciones de recursos previstas en el presupuesto de egresos del estado y del ayuntamiento que, a través de las dependencias y las entidades, se otorgan a los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general, así como los recursos asignados a los municipios, distintos de las participaciones y aportaciones;
+LIX.- Seguimiento: El proceso continuo, a través del cual, los involucrados obtienen regularmente una retroalimentación sobre los avances en la consecución de las metas y objetivos. Informa tanto sobre la ejecución de las acciones programadas como de los avances en la obtención de los resultados propuestos;
 
-LXI.- Techo de Financiamiento Neto: El límite de financiamiento neto anual que podrá contratar un ente público, con fuente de pago de ingresos de libre disposición. Dicha fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del presupuesto de egresos;
+LX.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, verificando el grado de cumplimiento de las metas y los objetivos, mediante indicadores de desempeño que incluye indicadores de gestión y de resultados, con el fin de conocer sus resultados;
 
-LXII.- Transferencias: Las asignaciones de recursos previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial, con el fin de sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios. Así como las proporcionadas a los municipios, y las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados;
+LXI.- Subsidios: Las asignaciones de recursos previstas en el presupuesto de egresos del estado y del ayuntamiento que, a través de las dependencias y las entidades, se otorgan a los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general, así como los recursos asignados a los municipios, distintos de las participaciones y aportaciones;
 
-LXIII.- Transferencias Federales Etiquetadas: Los recursos que reciben de la federación el Estado y los municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal Federal, la cuota social y la aportación solidaria federal previstas en el título tercero bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación;
+LXII.- Techo de Financiamiento Neto: El límite de financiamiento neto anual que podrá contratar un ente público, con fuente de pago de ingresos de libre disposición. Dicha fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del presupuesto de egresos;
 
-LXIV.- Unidad Responsable: El área administrativa de los Poderes Legislativo y Judicial, de los organismos autónomos, del Despacho del Gobernador, de las dependencias y, en su caso, de las entidades y ayuntamientos, la cual está obligada a la rendición de cuentas en relación con los recursos humanos, materiales y financieros que administran para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad; y
+LXIII.- Transferencias: Las asignaciones de recursos previstas en los presupuestos de las dependencias, destinadas a las entidades bajo su coordinación sectorial, con el fin de sufragar los gastos de operación y de capital, incluyendo el déficit de operación y los gastos de administración asociados al otorgamiento de subsidios. Así como las proporcionadas a los municipios, y las asignaciones para el apoyo de programas de las entidades vinculados con operaciones de inversión financiera o para el pago de intereses, comisiones y gastos, derivados de créditos contratados;
 
-LXV.- Unidades de Administración: Los órganos de los ejecutores de gasto, previstos en las disposiciones legales, encargados de desempeñar las funciones a que se refiere el último párrafo del artículo 5 de esta ley.
+LXIV.- Transferencias Federales Etiquetadas: Los recursos que reciben de la federación el Estado y los municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal Federal, la cuota social y la aportación solidaria federal previstas en el título tercero bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación;
+
+LXV.- Unidad Responsable: El área administrativa de los Poderes Legislativo y Judicial, de los organismos autónomos, del Despacho del Gobernador, de las dependencias y, en su caso, de las entidades y ayuntamientos, la cual está obligada a la rendición de cuentas en relación con los recursos humanos, materiales y financieros que administran para contribuir al cumplimiento de los programas comprendidos en la estructura programática autorizada al ramo o entidad; y
+
+LXVI.- Unidades de Administración: Los órganos de los ejecutores de gasto, previstos en las disposiciones legales, encargados de desempeñar las funciones a que se refiere el último párrafo del artículo 5 de esta ley.
 
 > <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
@@ -1055,15 +1059,105 @@ Los reintegros deberán incluir los rendimientos financieros generados.
 
 Para los efectos de este artículo, se entenderá que el estado ha devengado o comprometido las transferencias federales etiquetadas, en los términos previstos en la Ley General de Contabilidad Gubernamental.
 
-### CAPÍTULO I. Ejercicio del Gasto Público
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO IV. Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61 Ter.
+
+El Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán tendrá por objeto, ser un medio para acercar las propuestas ciudadanas respecto al proyecto de presupuesto de egresos del Gobierno del Estado de Yucatán y a su ejecución.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61 Quater.
+
+El Consejo para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+
+I.- Velar por la correcta aplicación del marco legal que establezca las bases para la elaboración del proyecto de presupuesto de egresos del Gobierno del Estado de Yucatán;
+
+II.- Realizar recomendaciones respecto al proyecto de presupuesto de egresos del ejercicio fiscal que corresponda;
+
+III.- Conocer, analizar y emitir opiniones respecto del ejercicio del presupuesto de egresos del año que corresponda;
+
+IV.- Conocer y emitir opinión sobre el ejercicio de los ingresos del estado, así como sobre los proyectos de endeudamiento que elabore el Poder Ejecutivo del estado, y su destino;
+
+V.- Conocer y emitir opinión sobre los informes relacionados con la cuenta pública que sean sometidos a su consideración;
+
+VI.- Presentar las recomendaciones que en las materias relacionadas con su objeto resulten procedentes;
+
+VII.- Aprobar su programa anual de trabajo y su calendario de sesiones;
+
+VIII.- Aprobar su reglamento interno y demás normativa que requiera para el cumplimiento de su objeto, y las modificaciones que estime conducentes, y
+
+IX.- Las demás que establezcan su reglamento interno y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61 Quinquies.
+
+El Consejo estará integrado por:
+
+I.- El Titular del Poder Ejecutivo, quién será el presidente;
+
+II.- El Secretario de Administración y Finanzas, quien será Secretario Ejecutivo;
+
+III.- El Secretario General de Gobierno;
+
+IV.- El Consejero Jurídico;
+
+V.- El Secretario de la Contraloría General;
+
+VI.- El Titular de la Coordinación General de Asesores;
+
+VII.- El Director General de la Agencia de Administración Fiscal de Yucatán;
+
+VIII.- El Secretario Técnico de Planeación y Evaluación, quien será Secretario Técnico;
+
+IX.- Un representante de cada uno de los siguientes organismos:
+
+a) La Cámara Nacional de Comercio, Servicios y Turismo de Mérida;
+
+b) La Cámara Nacional de la Industria de la Transformación, Delegación Yucatán;
+
+c) La Confederación Patronal de la República Mexicana, Centro Empresarial de Mérida;
+
+d) El Colegio de Contadores de Yucatán, A. C, y
+
+e) El Instituto Mexicano de Ejecutivos de Finanzas, A. C. Grupo Yucatán.
+
+X.- Dos representantes de instituciones de educación superior que impartan asignaturas relacionadas con el objeto del Consejo;
+
+XI.- Dos representantes de organizaciones de la sociedad civil, y
+
+XII.- Los demás representantes de organizaciones o instituciones, o bien, ciudadanos que designe el Consejo, a propuesta del presidente.
+
+Los integrantes a que se refieren las fracciones IX, X, XI y XII de este artículo participarán en el Consejo previa aceptación de la invitación que les realice el presidente, y durarán en su cargo el tiempo que determine el reglamento interno del Consejo.
+
+Los cargos de los integrantes del consejo son de carácter honorífico, por lo tanto, quienes los ocupen no devengarán retribución alguna por su desempeño.
+
+El presidente podrá invitar a participar en las sesiones del Consejo a los servidores públicos de los tres órdenes de gobierno, poderes del estado y organismos constitucionales autónomos; a los representantes de instituciones académicas u organizaciones de la sociedad civil; o a las personas que tengan conocimiento o prestigio en la materia objeto del Consejo y que puedan aportar opiniones valiosas y ser de utilidad para este.
+
+Los invitados participarán en las sesiones únicamente con derecho a voz.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61 Sexies.
+
+El Consejo sesionará de manera ordinaria o extraordinaria. Serán sesiones ordinarias las que deriven del cumplimiento del programa anual de actividades del Consejo y extraordinarias las que deriven de asuntos que por su urgencia requieran de una reunión adicional a las señaladas con anterioridad. Las sesiones extraordinarias se celebrarán cuando el presidente lo estime pertinente o lo solicite la mayoría de los integrantes.
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 61 Septies.
+
+El reglamento interno del Consejo establecerá las disposiciones específicas que regulen su organización y funcionamiento, así como las facultades y obligaciones de sus integrantes.
 
 ## TÍTULO TERCERO. DEL EJERCICIO DEL GASTO PÚBLICO
 
-### CAPÍTULO II. Ministración, el Pago y la Concentración de Recursos
+### CAPÍTULO I. Ejercicio del Gasto Público
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 62.
 
@@ -1215,17 +1309,15 @@ Las Dependencias y Entidades que efectúen gasto público con cargo al Presupues
 
 En los casos de los Poderes Legislativo y Judicial y los organismos autónomos, a fin de garantizar la transparencia y rendición de cuentas enviarán a la Secretaría la información correspondiente para la integración de los informes a que se refiere esta Ley.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 79.
 
 Las Dependencias y Entidades remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un informe mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos al cierre del mes inmediato anterior. En el caso de que éstos no se encuentren debidamente formalizados, la Secretaría podrá reasignar los recursos que no se encuentren comprometidos.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+Las Dependencias y Entidades tendrán como fecha límite para establecer compromisos con cargo al presupuesto de egresos hasta el 31 de diciembre del ejercicio fiscal correspondiente, siempre que cuenten con el presupuesto disponible y se apeguen a la normativa aplicable para tal efecto.
 
-Las Dependencias y Entidades tendrán como fecha límite para establecer compromisos con cargo al presupuesto de egresos a más tardar el 10 de diciembre, tratándose de obra pública por contrato, y el 20 de diciembre, para el resto de los conceptos del gasto.
-
-Quedan exceptuados del plazo anterior los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, así como los recursos fiscales que sirvan como contra parte (sic) para su ejecución, en cuyo caso las fechas de cierre de compromiso únicamente se sujetarán a lo dispuesto en los ordenamientos que rijan su transferencia y operación.
-
-De igual forma quedan exceptuados los recursos propios o de aplicación automática, en el caso de las entidades, así como los compromisos derivados de obligaciones laborales.
+Las fechas de cierre de compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos, así como los recursos fiscales que sirvan como contra parte para su ejecución, se sujetarán a lo dispuesto en los ordenamientos que rijan su transferencia y operación.
 
 La Secretaría comunicará las fechas de los trámites presupuestales para el cierre del ejercicio.
 
@@ -1261,19 +1353,19 @@ II.- Analizar el estado presupuestal para determinar los niveles de disponibilid
 
 La administración financiera de los recursos recibidos por concepto de transferencias y aportaciones deberá ser congruente con los objetivos y metas de los programas a cargo de las entidades, debiendo éstas destinar dichos recursos para cubrir precisamente las obligaciones para las cuales fueron autorizadas.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 84.
 
-La Secretaría, a solicitud de las Dependencias, Entidades y organismos autónomos, podrá autorizar los trámites presupuestales necesarios para el cierre del ejercicio, con el fin de registrar los resultados de la aplicación del gasto público y las metas alcanzadas al 31 de diciembre. Para ello, procurará el aprovechamiento total de los recursos autorizados en el presupuesto, incluyendo las transferencias federales, siempre que cumplan con los destinos que por disposición legal o administrativa se determinen. Procederá de la misma manera en relación con los recursos provenientes de créditos que se encuentren disponibles.
+La Secretaría, a solicitud de las Dependencias, Entidades y Organismos Autónomos, podrá autorizar los trámites presupuestales necesarios para el cierre del ejercicio, con el fin de registrar los resultados de la aplicación del gasto público y las metas alcanzadas al 31 de diciembre. Para ello, procurará el aprovechamiento total de los recursos autorizados en el presupuesto, incluyendo las transferencias federales, siempre que cumplan con los destinos que por disposición legal o administrativa se determinen. Procederá de la misma manera en relación con los recursos provenientes de créditos que se encuentren disponibles.
 
-Las Dependencias, Entidades y organismos autónomos tendrán como fecha límite para establecer compromisos con cargo a sus presupuestos autorizados el 31 de octubre tratándose de obra pública por contrato y el 15 de noviembre para el resto de los conceptos de gasto.
-
-Quedan exceptuados del plazo anterior los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado, provenientes de transferencias federales y convenios no considerados de origen en la Ley de Ingresos.
+Las Dependencias y Entidades tendrán como fecha límite para establecer compromisos con cargo al presupuesto de egresos hasta el 31 de diciembre del ejercicio fiscal correspondiente.
 
 La fecha límite para los compromisos con cargo a recursos federales transferidos mediante convenios específicos, se sujetará a lo dispuesto en cada convenio, lineamiento o reglas de operación.
 
-### CAPÍTULO III. Adecuaciones Presupuestales
+### CAPÍTULO II. Ministración, el Pago y la Concentración de Recursos
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 85.
 
@@ -1435,7 +1527,9 @@ La fianza de cumplimiento continuará vigente como mínimo 5 años y no deberá 
 
 La Secretaría resolverá las solicitudes de autorización que presenten las Dependencias y Entidades para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren materia de este artículo.
 
-### CAPÍTULO IV. Disciplina Presupuestal
+### CAPÍTULO III. Adecuaciones Presupuestales
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 98.
 
@@ -1529,7 +1623,7 @@ Las adecuaciones de los calendarios presupuestales que sirvan para anticipar la 
 
 Los Poderes Legislativo y Judicial y los organismos autónomos, a través de sus respectivas unidades de administración y previa autorización expresa de su órgano competente, podrán realizar adecuaciones a sus respectivos presupuestos siempre que permitan un mejor cumplimiento de los objetivos de los programas a su cargo, para lo cual deberán emitir las normas aplicables. Dichas adecuaciones, incluyendo aquéllas comprendidas en el artículo 27 de esta Ley, deberán ser informadas al Poder Ejecutivo, por conducto de la Secretaría, para efectos de la integración de los Informes trimestrales y la Cuenta Pública.
 
-### CAPÍTULO V. Pago de Servicios Personales
+### CAPÍTULO IV. Disciplina Presupuestal
 
 ###### Artículo 111.
 
@@ -1593,9 +1687,7 @@ Las Dependencias y Entidades de la Administración Pública Estatal que requiera
 
 Los programas de comunicación social de las Dependencias y Entidades, que incluyen la programación general de las erogaciones, deberán ser autorizados por la Coordinación General de Comunicación Social en el ámbito de su competencia. Los gastos que en los mismos rubros efectúen las entidades serán autorizados previamente por el órgano de gobierno respectivo o su equivalente.
 
-### CAPÍTULO VI. Transferencias, Subsidios y Ayudas
-
-> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+### CAPÍTULO V. Pago de Servicios Personales
 
 ###### Artículo 119.
 
@@ -1739,7 +1831,9 @@ Están prohibidos los traspasos de recursos que en cualquier forma afecten las a
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 9 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO I. Presupuesto Plurianual
+### CAPÍTULO VI. Transferencias, Subsidios y Ayudas
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 132.
 
@@ -1837,7 +1931,7 @@ Las Dependencias que reciban donativos en dinero deberán enterar los recursos a
 
 ## TÍTULO CUARTO. DE LOS PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS Y LAS INVERSIONES DE LARGO PLAZO
 
-### CAPÍTULO II. Prestación de Servicios y Arrendamientos a Largo Plazo
+### CAPÍTULO I. Presupuesto Plurianual
 
 ###### Artículo 139.
 
@@ -1871,7 +1965,7 @@ Una vez determinados los mínimos de operación, éstos, dentro de la presentaci
 
 De igual forma, podrán gozar de asignaciones plurianuales aquellos programas que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales del Estado, siempre y cuando el Titular del Poder Ejecutivo, por conducto de la Secretaría, proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
 
-### CAPÍTULO III. Proyectos de Coinversión
+### CAPÍTULO II. Prestación de Servicios y Arrendamientos a Largo Plazo
 
 ###### Artículo 142.
 
@@ -1893,9 +1987,7 @@ Para tales efectos, el Titular del Poder Ejecutivo, a través de la Secretaría,
 
 En caso de incumplimiento de las obligaciones de pago de contratos de proyectos para la prestación de servicios por parte de los Poderes Legislativo y Judicial, la Secretaría podrá afectar directamente las ministraciones correspondientes al pago de las contraprestaciones derivadas de los contratos de proyectos para la prestación de servicios que le correspondan al Poder, conforme al presupuesto autorizado por el Congreso, hasta por el monto debido, sin perjuicio de las responsabilidades administrativas correspondientes.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO III. Proyectos de Coinversión
 
 ###### Artículo 145.
 
@@ -1913,9 +2005,9 @@ Corresponde a la Secretaría emitir las reglas para determinar la participación
 
 ## TÍTULO QUINTO. DE LA CONTABILIDAD GUBERNAMENTAL
 
-### CAPÍTULO II. Contabilidad
+### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 148.
 
@@ -1951,9 +2043,9 @@ Los Poderes Legislativo y Judicial y organismos autónomos remitirán oportuname
 
 Los ayuntamientos enviarán sus informes y cuentas públicas al Congreso en los términos que establezca el Reglamento.
 
-### CAPÍTULO III. Contabilidad de Fondos y Valores
+### CAPÍTULO II. Contabilidad
 
-> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 152.
 
@@ -2095,7 +2187,9 @@ Será responsabilidad de los Ejecutores de Gasto la confiabilidad de las cifras 
 
 La observancia de esta ley, en materia de contabilidad, no releva a las dependencias y entidades de cumplir con lo dispuesto en la Ley General de Contabilidad Gubernamental y los demás ordenamientos legales aplicables.
 
-### CAPÍTULO I. Transparencia y la Información
+### CAPÍTULO III. Contabilidad de Fondos y Valores
+
+> <small>(REFORMADO, D.O. 9 DE ABRIL DE 2016)</small>
 
 ###### Artículo 163.
 
@@ -2119,9 +2213,7 @@ Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes 
 
 ## TÍTULO SEXTO. DE LA TRANSPARENCIA, INFORMACIÓN Y CUENTA PÚBLICA
 
-### CAPÍTULO II. Cuenta Pública
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO I. Transparencia y la Información
 
 ###### Artículo 166.
 
@@ -2201,9 +2293,9 @@ A más tardar el treinta y uno de julio, los Poderes Legislativo y Judicial, la 
 
 Los ayuntamientos rendirán a la Auditoría Superior del Estado un informe mensual del ejercicio de los recursos públicos, a más tardar el día 10 del mes siguiente, así como el Informe de Avance de la Gestión Financiera trimestral, dentro de los 20 días hábiles siguientes a la terminación del período.
 
-### CAPÍTULO I. Proceso Presupuestal de los Ayuntamientos
+### CAPÍTULO II. Cuenta Pública
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 170.
 
@@ -2277,7 +2369,9 @@ Son aplicables a la cuenta pública esta ley, la Ley General de Contabilidad Gub
 
 ## TÍTULO SÉPTIMO. DE LOS PRESUPUESTOS DE EGRESOS DE LOS MUNICIPIOS Y EJERCICIO DE LAS TRANSFERENCIAS ESTATALES
 
-### CAPÍTULO II. Recursos Asignados o Transferidos a los Municipios
+### CAPÍTULO I. Proceso Presupuestal de los Ayuntamientos
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 178.
 
@@ -2387,9 +2481,7 @@ Los cabildos emitirán los reglamentos en materia de presupuesto, contabilidad y
 
 El Tesorero o titular de la dependencia u oficina municipal competente, emitirá los manuales para el ejercicio del Presupuesto de Egresos con apego a las disposiciones de esta Ley, los reglamentos y las demás disposiciones legales aplicables.
 
-### CAPÍTULO III. Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de los Municipios
-
-> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO II. Recursos Asignados o Transferidos a los Municipios
 
 ###### Artículo 196.
 
@@ -2431,9 +2523,9 @@ El resultado de la distribución entre los municipios, de los recursos que integ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE MARZO DE 2018)</small>
 
-### CAPÍTULO I. Control y Evaluación de los Ingresos
+### CAPÍTULO III. Del Balance Presupuestario Sostenible y la Responsabilidad Hacendaria de los Municipios
 
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+> <small>(ADICIONADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 200 Bis.
 
@@ -2483,7 +2575,9 @@ Las autorizaciones a las que se hace mención en dichos artículos serán realiz
 
 ## TÍTULO OCTAVO. DE LA EVALUACIÓN
 
-### CAPÍTULO II. Evaluación del Gasto
+### CAPÍTULO I. Control y Evaluación de los Ingresos
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 201.
 
@@ -2501,9 +2595,7 @@ La Agencia de Administración Fiscal de Yucatán vigilará la recaudación de to
 
 La Agencia de Administración Fiscal de Yucatán informará a la Contraloría para los efectos legales que correspondan, las observaciones que pudieran constituir irregularidades derivadas de la evaluación de la recaudación de los ingresos de las Dependencias y Entidades.
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
-
-> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO II. Evaluación del Gasto
 
 ###### Artículo 204.
 
@@ -2528,6 +2620,10 @@ Los resultados a los que se refiere este artículo deberán ser considerados par
 La Secretaría coordinará las tareas de evaluación interna de la Administración Pública, emitirá las disposiciones generales en la materia y será el conducto para proporcionar información y establecer relaciones de colaboración con el Órgano de Evaluación, dependiente del Congreso, que establece el segundo párrafo del artículo 107 de la Constitución.
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES, SANCIONES E INDEMNIZACIONES
+
+### CAPÍTULO ÚNICO. Disposiciones Generales
+
+> <small>(REFORMADO, D.O. 28 DE MARZO DE 2018)</small>
 
 ###### Artículo 206.
 
@@ -2806,3 +2902,23 @@ D.O. 30 DE DICIEMBRE DE 2021.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el 1 de enero de 2022, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2022
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 583/2022 POR EL QUE SE MODIFICA LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, SOBRE EL CONSEJO CONSULTIVO DEL PRESUPUESTO Y EJERCICIO DEL GASTO DEL GOBIERNO DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Tercero. Continuidad del Consejo
+
+A la entrada en vigor de este decreto, continuará en funciones el Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán, de acuerdo con el calendario de sesiones y el programa anual de actividades respectivo.
+
+Cuarto. Continuidad del reglamento interno
+
+A la entrada en vigor de este decreto, continuará en vigor el Reglamento Interno del Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán. Si fuese necesario ajustarlo a las disposiciones de este decreto el Consejo Consultivo de Presupuesto analizará la actualización de su reglamento interno en la primera sesión inmediata siguiente a la entrada en vigor de esta Ley.
