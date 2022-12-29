@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2021-03-10"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -81,55 +81,109 @@ En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán a
 
 IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
+V. CFDI: Comprobante Fiscal Digital por Internet previsto en el Código Fiscal de la Federación y toda su normatividad relacionada;
 
-VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+VI. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
-VII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-VIII. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
+VII. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
 
-IX. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-X. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
+VIII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
+IX. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+X. Dependencias: Los órganos de la Administración Pública Centralizada del Ayuntamiento;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+XI. Entidades: Los organismos públicos descentralizados, los fideicomisos públicos municipales y las empresas de participación municipal mayoritaria, de la administración pública paramunicipal;
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
+XII. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Municipio, para el cumplimiento de sus fines;
 
-XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+XIII. Estado de Cuenta: El documento donde se contiene el reporte de adeudos consolidado o resumido de un contribuyente con fines informativos y que no constituye instancia; mismo que puede ser enviado por mensajería ordinaria o certificada de forma indistinta, o bien generada a través de los portales electrónicos que para tal efecto implemente o contrate la tesorería;
 
-XVII. Municipio: El Municipio de Boca del Río del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+XIV. Estrados Electrónicos: Se efectuará a través del sitio oficial web del Municipio https://www.bocadelrio.gob.mx/, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado ante la Autoridad Municipal correspondiente o en su caso, no haya notificado domicilio para el cumplimiento de sus obligaciones fiscales, se ignore su domicilio o el de su representante, desaparezca o se oponga a la diligencia de notificación;
 
-XIX. Presidente: El Presidente Municipal del Ayuntamiento;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+XV. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
 
-XXI. Síndico: El Síndico del Ayuntamiento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XXII. Tesorería: La Tesorería del Ayuntamiento; y
+XVI. Formato: Documento oficial solicitado por las dependencias municipales como parte de los requisitos necesarios para realizar un trámite o solicitar un servicio y que deberá ser previamente autorizado para su utilización por la Tesorería Municipal;
 
-XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIX. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XX. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXI. Municipio: El Municipio de Boca del Río del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Presidente: El Presidente Municipal del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Refrendo: Es el acto por el cual el contribuyente solicita a las autoridades competentes la actualización del registro al padrón municipal de contribuyentes;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXV. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXVI. Síndico: El Síndico del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXVII. Tesorería: La Tesorería del Ayuntamiento;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXVIII. Tesorero: El Titular de la Tesorería del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXIX. UMA: La unidad de medida y actualización, que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes; y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XXX. Unidad Económica: Todo establecimiento comercial, industrial o de prestación de servicios que se encuentren dentro del territorio del Municipio de Boca del Río, Veracruz de Ignacio de la Llave.
 
 ###### Artículo 3.
 
@@ -199,6 +253,10 @@ El Ayuntamiento podrá dictar reglas de carácter general, para modificar o adic
 
 Por conducto del Presidente y del Síndico, el Municipio podrá celebrar los convenios de colaboración administrativa a que se refiere el artículo 294 de este Código.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Corresponde al H. Ayuntamiento y por acuerdo generado en sesión de Cabildo, el otorgar facilidades administrativas o se emitan resoluciones de descuentos en el pago de contribuciones, productos, aprovechamientos, o accesorios generados, a favor de las personas físicas o morales que lo soliciten en términos de lo establecido en este Código. Asimismo, tratándose de situaciones de emergencia o contingencia provocadas por desastres naturales, situación socioeconómica adversa, epidemias, pandemias o sucesos que generen inestabilidad social, el Presidente Municipal podrá expedir disposiciones de carácter general para el área, zona o región afectada dentro del Municipio de su circunscripción, por medio de las cuales se implementen programas de estímulos fiscales, dando cuenta de inmediato al H. Ayuntamiento.
+
 ###### Artículo 13.
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios, éstos se entenderán del primero de enero al treinta y uno de diciembre del año de que se trate.
@@ -211,17 +269,37 @@ I. El Ayuntamiento;
 
 II. El Presidente;
 
-III. El Tesorero y, en su caso, quien ejerza la función de ejecución fiscal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-IV. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
+III. El Tesorero;
 
-V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+IV. El titular de la Subdirección de Ingresos;
 
-VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
+V. El titular de la Subdirección de Catastro;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. El titular de la Ejecución Fiscal;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VII. Los titulares de organismos públicos descentralizados o de empresas de participación municipal, que tengan bajo su responsabilidad la prestación de servicios públicos, cuando realicen funciones de recaudación de ingresos municipales;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VIII. Los servidores públicos tales como: inspectores, visitadores, notificadores, ejecutores e interventores que se encuentren jerárquicamente subordinados a la Tesorería y que tengan competencia y atribuciones y/o funciones en materia recaudatoria, control e inspección fiscal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IX. Las que así considera el Código Financiero para el Estado de Veracruz-Llave, cuando actúen en términos de los convenios que, al efecto, celebren el gobierno del Estado y el Municipio.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos y tendrán competencia en todo el territorio municipal.
 
 ###### Artículo 15.
 
@@ -451,11 +529,9 @@ La obligación fiscal nace cuando se realizan las situaciones jurídicas o de he
 
 Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Artículo 34 bis.- Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a un salario mínimo.
-
-La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
+Artículo 34 bis. Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a 1 UMA.
 
 ###### Artículo 35.
 
@@ -497,7 +573,9 @@ Para determinar las contribuciones se considerarán las fracciones del peso; par
 
 Para los efectos de este Código, se entenderá por salario mínimo el establecido como tal para el Municipio en las disposiciones legales respectivas de orden federal.
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijen en salarios mínimos, el cobro se realizará conforme al vigente al momento de su incumplimiento.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, y los mismos se fijarán en Unidades de Medida y Actualización, el cobro se realizará conforme a la vigente al momento de su incumplimiento.
 
 ###### Artículo 39.
 
@@ -505,9 +583,11 @@ La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecid
 
 Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 40.
 
-Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
+Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa suscripción del convenio correspondiente que contenga la autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
 
 La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
 
@@ -757,7 +837,9 @@ Son obligaciones de los contribuyentes:
 
 I. Inscribirse en el padrón municipal que les corresponda, dentro de los treinta días siguientes a aquél en que se realice la situación jurídica o de hecho de la cual se deriven obligaciones fiscales municipales y durante el mes de enero de cada ejercicio para los refrendos ante la Tesorería;
 
-II. Señalar domicilio fiscal en el Municipio que les corresponda y, en su caso, domicilio para recibir notificaciones;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Señalar domicilio fiscal en el Municipio y, en su caso, domicilio y correo electrónico para recibir notificaciones. En caso de que el contribuyente no hubiera señalado un domicilio para recibir notificaciones, o el domicilio señalado no exista, sea impreciso o incompleto se podrá notificar a través de estrados electrónicos;
 
 III. Pagar los créditos fiscales en los términos que dispongan las leyes fiscales municipales;
 
@@ -779,7 +861,17 @@ XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posterio
 
 XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIII. Recibir estados de cuenta o cartas invitación de carácter informativo con el propósito de proporcionar información de sus adeudos fiscales, los cuales no constituirán instancia alguna;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIV. Presentar ante la autoridad municipal correspondiente, la Constancia de no adeudo fiscal, a que se refiere el artículo 223 fracción XIX del presente Código, que contemple una vigencia no mayor a 60 días naturales a partir de la fecha de su emisión, tratándose de tramites inmobiliarios y en todos aquellos en donde se solicite el Impuesto Predial Actualizado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XV. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
 
 ###### Artículo 62.
 
@@ -789,7 +881,9 @@ La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiesto
 
 Además de los casos que señalen las leyes fiscales y el Código de Procedimientos Administrativos, se podrá rechazar la presentación de promociones de los particulares, cuando no contengan o se anote de manera incorrecta el nombre del contribuyente; el número de cuenta y de licencia, o cualquier otro que lo identifique en los registros municipales de la contribución de que se trate; su domicilio fiscal; no aparezcan debidamente firmados; no se acompañen los anexos; o, tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos señalados en el artículo siguiente. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos que al efecto establezca la Tesorería. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 Los contribuyentes podrán presentar las declaraciones respectivas a través de medios electrónicos, cuando el Cabildo hubiere aprobado esta modalidad.
 
@@ -851,13 +945,43 @@ X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, as
 
 XI. Determinar, mediante resolución, la responsabilidad solidaria.
 
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XII. Enviar estados de cuenta y/o cartas invitación de carácter informativo a los domicilios de los contribuyentes sin que se consideren resoluciones administrativas, y sin constituir instancia al tener como finalidad que el contribuyente regularice su situación fiscal;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIII. Utilizar firmas digitales o firmas electrónicas avanzadas, así como sellos digitales, en sustitución de las firmas autógrafas, en documentos que hagan constar el cumplimiento de disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIV. Requerir a los contribuyentes el cumplimiento de sus obligaciones, para el caso de incumplimiento ejercer sus facultades de comprobación;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XV. Interpretar a efectos administrativos y resolver los asuntos relacionados con todas aquellas leyes que confieran alguna atribución a las autoridades fiscales, en la materia que no estén expresamente asignadas por esta Ley a otras autoridades administrativas;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVI. Autorizar convenios de pagos en parcialidades previa solicitud escrita por parte del contribuyente, apreciando discrecionalmente las circunstancias del caso, y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVII. Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y las que le sean delegadas o encomendadas.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Las demás que con tal carácter le atribuyan expresamente las disposiciones legales y las que le sean delegadas o encomendadas.
+
 ###### Artículo 67.
 
 Para los efectos de notificación de actos administrativos a los interesados, las autoridades fiscales deberán cubrir los requisitos previstos en el Código de Procedimientos Administrativos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 68.
 
-El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecte la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
+El Cabildo podrá condonar o reducir los créditos fiscales municipales, cuando por causa de algún siniestro se afecten las actividades productivas y/o la situación económica de alguna región del territorio municipal. Lo anterior, previa declaratoria de desastre por parte de la autoridad competente.
 
 Para efectos del párrafo anterior, el Cabildo dictará, mediante disposiciones casuísticas, las contribuciones, productos o aprovechamientos materia de la condonación o reducción, señalando las regiones del Municipio en las que se disfrutará de la misma.
 
@@ -899,7 +1023,9 @@ XIV. Designar personal para presenciar la celebración de loterías, rifas, sort
 
 XV. Ordenar la práctica de la notificación de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y los demás actos administrativos que se generen con motivo de sus facultades de comprobación del cumplimiento de las disposiciones fiscales municipales;
 
-XVI. Rectificar los errores aritméticos que aparezcan en las declaraciones, manifestaciones o avalúos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVI. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes, manifestaciones, avisos o avalúos; para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda para la rectificación del error u omisión de que se trate;
 
 XVII. Ordenar la práctica de embargo precautorio para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, si, a juicio de ésta, hubiera peligro de que el obligado se ausente o realice la enajenación de bienes o cualquier maniobra tendiente a evadir el cumplimiento de las obligaciones fiscales, así como levantarlo cuando proceda;
 
@@ -1179,27 +1305,41 @@ Las autoridades fiscales impondrán las sanciones administrativas por infracció
 
 I. Las infracciones que establece el artículo 88 de este Código serán sancionadas con multa equivalente a los montos que a continuación se señalan:
 
-a) De cinco a quince días de salario mínimo, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) De quince a treinta días de salario mínimo, por infracción a las fracciones XX, XXII y XXIII.
+a) De 9 a 27 UMA´S, por infracción a las fracciones I, IV, VII, VIII, X, XII y XV.
 
-c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+b) De 27 a 54 UMA´S, por infracción a las fracciones XX y XXII.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+c) De 54 a 90 UMA´S, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
 II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa igual al valor del crédito omitido;
 
-III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de setenta y cinco a cien días de salario mínimo; y
+III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de 90 a 180 UMA´S;
 
-V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de cuarenta y cinco a noventa días de salario mínimo.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Las infracciones comprendidas en el artículo 90 de este Código, se sancionarán con multa de 135 a 180 UMA´S; y
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+V. Las infracciones comprendidas en el artículo 91 de este Código, se sancionarán con multa de 80 a 162 UMA´S,
 
 Cuando por un acto o una omisión se incurra en varias infracciones a las que correspondan diversas multas, sólo se impondrá la multa mayor.
 
 Los ingresos que el Municipio obtenga por la aplicación de multas y sanciones establecidas en disposiciones reglamentarias, así como en otros ordenamientos de carácter hacendario, se enterarán de conformidad con los montos que establezcan los ordenamientos que las contengan.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 93.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de cinco a cien días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este capítulo, se sancionará con multa de 9 a 180 UMA´S.
 
 ## TÍTULO QUINTO. DE LOS DELITOS FISCALES
 
@@ -1327,7 +1467,9 @@ II. De nueve meses a cuatro años de prisión, al que imprima, grabe o troquele,
 
 III. De nueve meses a tres años de prisión, al que altere en sus características las cédulas, licencias o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal; y
 
-IV. De seis meses a dos años de prisión y una multa de treinta a quinientos días de salario mínimo, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. De seis meses a dos años de prisión y una multa de 54 a 898 UMA´S, a quien forme las cosas y objetos señalados en las fracciones anteriores con los fragmentos de otros recortados o mutilados.
 
 ###### Artículo 110.
 
@@ -1355,7 +1497,9 @@ X. Utilizar sellos, documentación u otro medio de control fiscal falsificados o
 
 XI. Permitir el uso de su nombre para manifestar negociaciones ajenas.
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de mil días de salario mínimo, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+El delito de defraudación fiscal se sancionará con pena de tres meses a cuatro años de prisión, si el monto de la prestación fiscal defraudada no excede de 1,000 UMA´S, y con prisión de un año a seis años, si dicho monto excede de esa cantidad.
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -1383,9 +1527,11 @@ c) Imprima u ordene imprimir formas de control fiscal o emita u ordene la emisi�
 
 Altere documentación oficial o expida una falsa en cualquier tipo de trámite del orden fiscal.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 112.
 
-Se impondrá prisión de seis meses a tres años y se impondrá multa de treinta a quinientos días de salario mínimo, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
+Se impondrá prisión de seis meses a tres años y se impondrá multa de 54 a 898 UMA´S, a quien entregue u ofrezca dinero o dádivas a los servidores públicos municipales, para incurrir en alguno de los delitos previstos por este Título.
 
 # LIBRO TERCERO. DE LOS INGRESOS MUNICIPALES
 
@@ -1491,9 +1637,9 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de diez mil salarios mínimos.
+Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de diez mil UMA´S.
 
 > <small>(REFORMADO, G.O. 10 DE MARZO DE 2021)</small>
 
@@ -1501,9 +1647,11 @@ El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a tres UMA´S, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1629,11 +1777,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del 1.5 por ciento.
+El impuesto al que se refiere el presente capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del 2.5 por ciento.
 
 ###### Artículo 137.
 
@@ -1683,7 +1831,9 @@ VI. Por los arrendatarios financieros al ejercer la opción de compra en los té
 
 VII. Por las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
-En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de un salario mínimo diario.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+En la enajenación de predios derivada de programas de regularización de la tenencia de la tierra, que realicen organismos federales, estatales o municipales, se pagará este impuesto con una cuota fija equivalente al cincuenta por ciento de una UMA.
 
 ###### Artículo 142.
 
@@ -1769,9 +1919,11 @@ V. Si el espectáculo se clausura antes de la conclusión del término por el qu
 
 Son solidariamente responsables del pago del Impuesto Sobre Espectáculos Públicos, los propietarios o poseedores de inmuebles o establecimientos, en los que en forma permanente u ocasional, por cualquier acto o contrato se autorice a personas sujetas al pago de este impuesto, para que exploten diversiones o espectáculos públicos, si el propietario o poseedor no manifiesta a la Tesorería la celebración del acto o contrato formulado, por lo menos un día hábil antes de la iniciación de dichos eventos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 149.
 
-Los sujetos del Impuesto Sobre Espectáculos Públicos tendrán las obligaciones siguientes:
+Los sujetos del impuesto sobre espectáculos públicos tendrán las obligaciones siguientes:
 
 I. Al solicitar la autorización, lo harán cuando menos siete días antes de la celebración o inicio del espectáculo, indicando en las formas aprobadas oficialmente:
 
@@ -1784,6 +1936,10 @@ c) La ubicación del local en que vaya a celebrarse;
 d) El día o días en que se celebrarán las funciones y la fecha y hora en que deberán dar inicio; y
 
 e) El número de cada clase de localidades de que conste el local donde vaya a celebrarse el espectáculo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+f) Presentar la licencia de autorización por escrito del representante de la sociedad autoral correspondiente, para el uso y explotación de obras musicales protegidas por la Ley Federal del Derecho de Autor.
 
 II. Al serles concedida la autorización:
 
@@ -1881,9 +2037,11 @@ VI. Retener y enterar el impuesto que corresponda, conforme a los artículos 154
 
 VII. Proporcionar constancia de retención de impuestos a la persona que obtenga el premio.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 159.
 
-No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la Administración Pública Estatal y Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a los cuatrocientos salarios mínimos en el Municipio.
+No causarán este impuesto la Federación, los Estados, los Municipios, los Partidos Políticos en los términos de la legislación electoral correspondiente, los organismos públicos descentralizados de la administración pública estatal y federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública, y las asociaciones de asistencia y beneficencia pública legalmente constituidas, así como las asociaciones religiosas. Tampoco se causará este impuesto cuando los premios en forma global no superen el valor equivalente a 400 UMA´S.
 
 ###### Artículo 160.
 
@@ -1903,17 +2061,27 @@ Son sujetos de este impuesto, las personas físicas o morales, ya sean propietar
 
 Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 164.
 
-Este impuesto se causará y pagará mensualmente conforme a las tarifas y clasificaciones siguientes:
+Este impuesto se causará y pagará conforme a las tarifas y clasificaciones siguientes:
 
-I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, dos salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Los juegos de boliche, por mesa, tres salarios mínimos;
+I. Billar, dominó, dados, ajedrez, damas y otros similares, por mesa, 3.6 UMA´S;
 
-III. Videojuegos, dos salarios mínimos por máquina; y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, tres salarios mínimos.
+II. Los juegos de boliche, por mesa, 5.39 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+III. Videojuegos, por máquina, 3.6 UMA´S ; y
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Los juegos de azar y electrónicos, por mesa o máquina electrónica, 5.39 UMA´S.
 
 ###### Artículo 165.
 
@@ -2087,137 +2255,373 @@ La falta de pago, por sí misma, justifica la no prestación del servicio o la n
 
 Cuando la ley establezca la obligación de pago de un refrendo de permisos, licencias o autorizaciones, sin especificar el plazo dentro del que debe solicitarse, se estará a lo que mediante disposiciones generales dé a conocer el Cabildo.
 
-### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO II. DE LOS DERECHOS POR REGISTRO Y REFRENDO ANUAL DE TODA ACTIVIDAD ECONÓMICA EN EL PADRÓN FISCAL MUNICIPAL
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 195.
 
-Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
+Es objeto de este derecho el registro o refrendo al Padrón Fiscal Municipal de Unidades Económicas existentes en el territorio municipal, así como las autorizaciones que modifiquen su régimen de operación, y las verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio.
+
+Se entiende por despliegue técnico, las actividades que tienen como propósito corroborar mediante la supervisión y revisión a las unidades económicas y a la universalidad de éstas, con el fin de verificar el debido cumplimiento de los lineamientos municipales de protección al medio ambiente, uso de suelo, seguridad física del inmueble, salud pública, prevención en materia de vialidad, protección civil y seguridad pública, con la finalidad de salvaguardar la vida de las personas.
+
+Los titulares de los establecimientos comerciales, deberán pagar por la prestación de los servicios brindados por el Municipio durante el transcurso del ejercicio fiscal, como obligación administrativa, por la implicación de una serie de verificaciones y/o inspecciones ordinarias o extraordinarias que se traducen en trabajo de campo y de gabinete derivado de las consecuencias de las actividades realizadas por las mismas según sea el caso específico, dichas cuotas por el registro y/o refrendo al padrón fiscal municipal de establecimientos comerciales, industriales y de servicios tienden a garantizar los derechos humanos a un ambiente sano, a la vida, a la seguridad pública, a la salud y a la urbanización, con la finalidad de ponderar los derechos de los habitantes de este Municipio y con ello optimizar su calidad de vida y satisfacer lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
+
+a) Se entiende por verificaciones ordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de diversas áreas administrativas de forma periódica, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+b) Se entiende por verificaciones extraordinarias: Las verificaciones y/o inspecciones que realiza el Municipio a través de sus diversas áreas administrativas de forma espontánea o por caso fortuito, con la finalidad de verificar si los establecimientos comerciales cumplen con los lineamientos señalados en los diversos ordenamientos o en las normas oficiales en la materia.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 196.
 
-Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento se mantendrá vigente, hasta en tanto no se realice baja, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año.
+Los propietarios de negociaciones comerciales, industriales, de prestación de servicios, de comisión y, en general, de toda actividad económica, deberán empadronarse en la Tesorería y obtener la cédula respectiva y, en su caso, la licencia o autorización de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento deberá ser refrendada cada año, hasta en tanto no se realice baja, cambio de giro o de domicilio.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 197.
 
-El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería y la Dirección de Comercio, o en su caso las áreas equivalentes, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+
+Cuando los titulares de establecimientos de tipo comercial, industrial o de prestación de servicios omitan realizar su registro al padrón fiscal municipal conforme a lo estipulado en el presente Código, las autoridades fiscales podrán determinar de manera presuntiva el importe que les corresponde pagar conforme a lo establecido en el presente capítulo. Para los efectos de la determinación presuntiva, ésta se calculará de acorde a la tarifa que proceda por concepto de registro o refrendo, según corresponda, tomando como base los datos proporcionados por terceros a solicitud de las autoridades fiscales o con información obtenida en el ejercicio de sus facultades de comprobación.
+
+La determinación presuntiva a que hace referencia el párrafo anterior no prejuzga ni convalida el funcionamiento del establecimiento comercial, asimismo no preconstituye un derecho y procederá independientemente de las sanciones a que haya lugar.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 198.
 
-Son sujetos de este derecho las personas físicas o morales que soliciten del Ayuntamiento la autorización de funcionamiento, registro o refrendo señalados en el artículo 195 de este Código o la licencia correspondiente.
+Son sujetos de los derechos del presente capítulo, las personas físicas o morales titulares de las unidades económicas que realicen actividades de tipo comercial, industrial o de prestación de servicios, mismos que tienen la obligación de obtener su registro o en su caso el refrendo al Padrón Fiscal Municipal de Unidades Económicas.
+
+La base para el cálculo de este derecho será de acuerdo a los impactos causados por las unidades económicas y por la erogación que realiza el Municipio en cada caso específico.
+
+El pago del derecho por el Registro al Padrón Fiscal Municipal, deberá realizarse durante los primeros 15 días naturales al que haya iniciado actividades comerciales, industriales o de prestación de servicios, independientemente de la autorización o no de las dependencias adscritas a este Municipio para la obtención del registro de su unidad económica. Para la obtención del registro plasmado con anterioridad, la autoridad fiscal en cualquier momento tendrá la facultad de solicitar los requisitos que considere necesarios de acuerdo a las características particulares del giro comercial que pretende desarrollar en su establecimiento mercantil.
+
+El pago por el refrendo al Padrón Fiscal Municipal se causará de forma anual y se deberá realizar durante los meses de enero, febrero y marzo del ejercicio fiscal que corresponda.
+
+Las personas físicas o morales titulares de los establecimientos comerciales, deberán colocar la cédula de registro y/o refrendo correspondiente del giro autorizado, en un lugar visible y de fácil acceso en el inmueble donde ejerzan su actividad.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 199.
 
-El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
+Para los efectos del presente capítulo, los registros y/o verificaciones administrativas de las Unidades Económicas se clasificarán de la siguiente manera:
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas.
+I.- Giros o actividades de registro normal: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación y ordenamiento territorial implican bajo riesgo para la población.
 
-Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
+II.- Giros o actividades de mediano impacto: Son aquellas que, en materia de salud, protección civil, ecología y protección al ambiente, planeación, ordenamiento territorial e impacto vial implican mediano riesgo para la población.
 
-#### SECCIÓN I. DE LOS ESTABLECIMIENTOS CUYO GIRO SEA LA ENAJENACIÓN DE BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
+III.- Giros o actividades de alto impacto: Son aquellas que por sus actividades económicas y características en su ubicación, giro, instalación, apertura y operación representan un riesgo alto para la población de este Municipio, catalogados así para proteger la vida, la salud, el medio ambiente y la seguridad de las personas, y en general aquellos cuyo manejo debe realizarse de acuerdo a normas especiales.
+
+Para efectos de la aplicación del presente capítulo, la clasificación de las unidades económicas, empresas y/o actividades consideradas como de bajo, mediano y alto riesgo para la población, en materia de protección civil y demás verificaciones administrativas necesarias para llevar a cabo el registro o refrendo anual de las actividades económicas en el padrón fiscal municipal serán facultad exclusiva de las Autoridades Municipales de conformidad con lo establecido en este artículo y en el tabulador contemplado en el artículo 199 Bis del presente Código.
+
+La Dirección de Protección Civil Municipal, es el área encargada de emitir dictamen técnico, pliego de recomendaciones y opiniones técnicas de acuerdo con lo establecido en los artículos 82 de la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave y 79 fracciones XVIII, XIX y XXXI del Reglamento Interior Orgánico del Ayuntamiento y su Administración Pública del Municipio de Boca del Río, de Veracruz Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 199 Bis.
+
+Por el Registro y/o Refrendo al Padrón Fiscal Municipal de los giros contenidos en el presente apartado de naturaleza especial independientemente del código SCIAN que les corresponda, se pagarán de conformidad con las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TARIFAS EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PAGINAS DE LA 17 A LA 20.]</small>
+
+Las unidades económicas que excedan los metros permitidos pagarán por metro adicional el proporcional de dividir el costo de registro o refrendo entre el número de metros tope que corresponda.
+
+Para los efectos de este capítulo, las unidades económicas que presten servicios complementarios o adicionales al giro o actividad principal, deberán pagar por el registro y/o refrendo al padrón fiscal municipal del giro complementario, aun cuando este sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional, la actividad o actividades que se ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 202 del presente Código.
+
+El cobro de los derechos previstos en el presente capítulo deberá efectuarse de forma conjunta con los derechos que sean relacionados al funcionamiento del giro, es decir, los derechos por aseo público comercial, protección civil, uso de suelo, constancia sanitaria, anuncios publicitarios, constancia en materia ambiental, cédula y demás verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en el presente Código, así como el respectivo pago del impuesto adicional establecido en el artículo 172, fracción III, del presente Código.
+
+La Tesorería municipal será la facultada para emitir órdenes de pago de los establecimientos comerciales que se encuentren debidamente registradas en el padrón fiscal municipal y así mismo, realizar el cálculo de los derechos de forma conjunta respecto de las demás contribuciones con motivo de la misma a que sean sujetos los titulares, con la finalidad de determinar el importe total a liquidar. Para las unidades económicas que no se encuentren regularizadas o empadronadas, deberán pagar un 25 por ciento más sobre el monto que corresponde al Registro al Padrón Fiscal Municipal de Unidades Económicas, conjuntamente con el pago de los accesorios a que sea acreedor, debiendo cumplir con los requisitos y procedimientos establecidos para la expedición.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 199 Ter.
+
+Los trámites que modifiquen el régimen de funcionamiento de los establecimientos comerciales derivados de los derechos del presente capítulo, se realizarán mediante los formatos autorizados por las autoridades municipales competentes de conformidad con la reglamentación y demás ordenamientos aplicables y se pagarán de acuerdo a las siguientes tarifas:
+
+I. Por ampliación de horario de funcionamiento 10 por ciento del costo del refrendo del establecimiento comercial por cada hora adicional del horario ordinario que se tenga autorizado.
+
+II. Por cambio de denominación del establecimiento comercial, industrial y de prestación de servicios, 8 UMAS;
+
+III. Por afectación de superficie, cuando aumente el número de metros cuadrados del establecimiento, 0.25 UMA por metro cuadrado;
+
+IV. Por corrección de domicilio, 1.5 UMA.
+
+V. Por autorización de trámite especial la tarifa será de 2.5 UMA.
+
+VI. Por la instalación de anexos temporales de establecimientos comerciales, siempre que no invada la vía pública ni obstruyan la visibilidad peatonal. Así como dentro de espectáculos públicos conforme a lo siguiente:
+
+SUPERFICIE UMA POR METRO TARIFA ADICIONAL
+
+CUADRADO DIARIA UMA
+
+a) De 1 a 4 m2 30 1
+
+b) De 4.01 m2 40 1
+
+en adelante
+
+El monto que resulte será independiente al pago por el refrendo al padrón fiscal municipal de la cédula de empadronamiento y cual amparará únicamente el periodo autorizado.
+
+VII. Otros trámites no especificados en las fracciones anteriores 1.5 UMA.
+
+El horario ordinario de funcionamiento de las unidades económicas a que se refiere este capítulo será según lo dispuesto por el Reglamento de Actividades de Comercio, Industria y Espectáculos del Municipio de Boca del Río, Veracruz, o el ordenamiento legal vigente que regule el horario de establecimientos comerciales en cualquiera de sus modalidades.
+
+El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva del Registro al Padrón Fiscal Municipal de Unidades Económicas siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad municipal se cerciore que el contribuyente presenta adeudos por el Refrendo al Padrón Fiscal Municipal de Unidades Económicas, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del Refrendo entre los 12 meses que corresponden al ejercicio fiscal.
+
+El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar el Registro al Padrón fiscal Municipal, cubriendo la totalidad los derechos correspondientes.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 199 Quáter.
+
+Por ejercicios fiscales los contribuyentes tendrán derecho de un 20%, 15% y 10% de descuento en los meses de enero, febrero y marzo respectivamente, en el pago del refrendo al padrón fiscal municipal del giro correspondiente.
+
+Para ser sujetos de los presentes estímulos fiscales, los contribuyentes deberán estar al corriente con el pago de sus obligaciones fiscales respecto al ejercicio fiscal inmediato anterior, debiendo presentar el último recibo de pago.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 199 Quinquies.
+
+Por el registro para el funcionamiento de estacionamientos públicos lucrativos, pagaran derechos conforme a la tarifa siguiente:
+
+I. Por el registro para el funcionamiento, que sean explotados por particulares, solo para ese fin, se cobrará mensualmente, por cada cajón de estacionamiento, la cantidad de 0.40 veces la unidad de medida y actualización vigente.
+
+II. Por el registro para el funcionamiento de los que se encuentren dentro de establecimientos Comerciales como Plazas Comerciales, Tiendas de Autoservicio, Tiendas Departamentales y Similares; se cobrara mensualmente por cajón de estacionamiento la cantidad de 0.40 veces la unidad de medida y actualización vigente, siempre y cuando cumplan con lo establecido en el Reglamento de Construcciones Públicas y Privadas del Municipio Libre de Boca del Río, Veracruz; y del Reglamento de Tránsito del Municipio de Boca del Río, Veracruz, relativo a otorgar la gratuidad a las dos primeras horas de uso.
+
+El refrendo por estos conceptos se pagará a razón del 30% del costo del registro y se cobrará anualmente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN I. DE LOS ESTABLECIMIENTOS QUE ENAJENEN BEBIDAS ALCOHÓLICAS REALIZADA TOTAL O PARCIALMENTE AL PÚBLICO EN GENERAL
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 200.
 
-Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse el domicilio señalado en los mismos.
+Es objeto de este derecho el registro, refrendo, permiso o autorización al padrón fiscal municipal de establecimientos comerciales, industriales o de prestación de servicios, que enajenen, fabriquen o expendan bebidas alcohólicas, así como las autorizaciones que modifiquen su régimen de operación, y verificaciones o inspecciones que se realicen a los establecimientos, a través del despliegue técnico realizado por las dependencias del Municipio.
+
+El pago por la expedición de la licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen, fabriquen o expendan bebidas alcohólicas, deberá efectuarse al momento en el que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en el presente Código, de conformidad con las tarifas establecidas en el artículo 202 de este ordenamiento. El pago por el derecho de refrendo de licencia de establecimientos comerciales, industriales o de prestación de servicios, que enajenen bebidas alcohólicas, se causará de manera anual y se deberá pagar durante los meses de enero, febrero y marzo de cada ejercicio fiscal correspondiente, a excepción de la expedición de licencia y el otorgamiento de permisos para el expendio, venta o degustación de bebidas alcohólicas por una sola ocasión en eventos y espectáculos o diversiones públicas transitorias, estos se deberán pagar al momento en que las personas físicas o morales se encuentren en la situación jurídica o de hecho prevista en la reglamentación de la materia.
+
+Para el caso de lo plasmado con anterioridad, la autoridad tendrá la facultad de solicitar los requisitos necesarios que considere pertinentes de acuerdo a las características particulares de cada establecimiento comercial, industrial o de prestación de servicios.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 201.
 
-Los permisos o autorizaciones de carácter temporal, para giros comerciales que enajenen o expendan bebidas alcohólicas, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro. En ningún caso el costo será menor al que corresponda a quince días.
+Son sujetos de este derecho las personas físicas o morales que realicen actividades de tipo comercial, industrial o de prestación de servicios que incluye la enajenación, fabricación o que expendan de bebidas alcohólicas de manera total o parcial con el público en general.
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+El Titular que suspenda actividades ante la Secretaría de Hacienda y Crédito Público, deberá solicitar por escrito a la dependencia municipal correspondiente, la suspensión temporal o baja definitiva de su licencia siempre y cuando el titular de la unidad económica no cuente con adeudos fiscales derivados de su actividad comercial, industrial o de servicios, de lo contrario deberá cubrir el pago conjunto de dichas obligaciones. Por lo que, en caso de que la Autoridad municipal se cerciore que el contribuyente presenta adeudos por el refrendo de su licencia, éste deberá pagar lo proporcional al tiempo en que mantuvo sus operaciones, es decir, lo que resulte de dividir el monto total del refrendo entre los 12 meses que corresponden al ejercicio fiscal.
+
+El Titular que haya solicitado la suspensión temporal y/o baja definitiva y pretenda reanudar actividades en el mismo establecimiento, deberá solicitar nuevamente la expedición de su licencia de funcionamiento, cubriendo la totalidad de los derechos correspondientes.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 202.
 
-La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el Reglamento Municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
+Por la expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación, fabricación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Por la expedición de licencias a que este artículo se refiere se pagarán las cuotas siguientes:
+Por la expedición y refrendo de licencias de venta de bebidas alcohólicas a que este artículo se refiere, se pagarán las cuotas siguientes:
 
-Giro: Costo de la licencia
+GIRO EXPEDICIÓN REFRENDO
 
-en número de
+UMA´S UMA´S
 
-salarios mínimos:
+I. Abarrotes con venta de cerveza 250 50
 
-Abarrotes con venta de cerveza 250
+II. Abarrotes con venta de cerveza, vinos
 
-Abarrotes con venta de cerveza, vinos y licores 500
+y licores. 500 100
 
-Agencias 1,250
+III. Agencia 15,000 3,000
 
-Almacenes o Distribuidores 1,250
+IV. Almacén o Distribución. 1250 250
 
-Billares 500
+V. Billares 500 100
 
-Cantinas o bares 1,300
+VI. Cantinas, bares, karaoke, café bar,
 
-Centros de eventos sociales 1,000
+video bar. 1300 260
 
-Centros deportivos o recreativos 500
+VII. Centros de eventos sociales 1000 200
 
-Centros nocturnos y cabarets 3,900
+VIII. Centros deportivos o recreativos 500 100
 
-Cervecerías 500
+IX. Centros nocturnos. 3900 780
 
-Clubes sociales 300
+X. Cervecerías 500 100
 
-Depósitos 300
+XI. Clubes sociales 300 60
 
-Discotecas 3,900
+XII. Depósitos 300 60
 
-Hoteles 800
+XIII. Hoteles 800 160
 
-Moteles 400
+XIV. Moteles 400 80
 
-Kermeses, ferias y bailes públicos 600
+XV. Kermeses, ferias y bailes públicos 600 120
 
-Licorerías 550
+XVI. Licorerías 550 110
 
-Loncherías, taquerías, marisquerías, fondas,
+XVII. Loncherías, taquerías,
 
-coctelerías, torterías, pizzerías y similares 350
+marisquerías, fondas, coctelerías,
 
-Minisúper 650
+torterías, pizzerías y similares. 350 70
 
-Peñas, canta bar, café bar, video bar
+XVIII. Minisúper 650 130
 
-y café cantante 1,300
+XIX. Minisúper de cadena o franquicia 1,400 280
 
-Restaurante 500
+XX. Restaurante 500 100
 
-Restaurante-bar 800
+XXI. Restaurante-bar 800 160
 
-Servicar 500
+XXII. Venta de bebidas alcohólicas en
 
-Supermercados 1,500
+botella cerrada en tienda departamental
 
-Centros comerciales 2,300
+y/o supermercado de presencia nacional
 
-Establecimientos en los que se lleven a
+o internacional. 2,695 539
 
-cabo juegos con apuestas y sorteos o casinos 3,500
+XXIII. Venta de cerveza, vinos y licores,
 
-Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la licencia.
+en botella cerrada en tiendas de
 
-Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en salarios mínimos:
+conveniencia de cadena nacional o
+
+internacional. 1,500 300
+
+XXIV. Centros comerciales 2,300 460
+
+XXV. Establecimientos en los que se
+
+lleven a cabo juegos con apuestas y
+
+sorteos o casinos 6,288 1257.6
+
+El cobro de los derechos por la expedición o refrendo de licencias a que hace referencia la presente sección, deberá efectuarse de forma conjunta con los derechos de protección civil, uso de suelo, en materia ambiental, aseo público comercial, anuncios publicitarios, cédula y constancia sanitaria en los supuestos que aplique, así como el impuesto adicional establecido en el artículo 172, fracción III del presente Código, además de los pagos de formatos diversos y demás de verificaciones y/o dictámenes en caso de ser requeridos, de acuerdo a lo establecido en el presente Código, y demás disposiciones internas que emitan las autoridades fiscales municipales. Para efectos de esta sección, los establecimientos comerciales que presten servicios complementarios o adicionales al giro principal, deberán pagar por la expedición o refrendo de la licencia de funcionamiento de éstos, aun cuando sea de menor, igual o mayor proporción o tamaño que el principal. Se entenderá por giro complementario o adicional la actividad o actividades que ejerzan en un establecimiento, con el objeto de prestar algún servicio distinto al principal, incluyendo los señalados en el artículo 199 Bis del presente Código.
+
+El horario ordinario de funcionamiento de las unidades económicas a que se refiere este capítulo será según lo dispuesto por el Reglamento de Actividades de Comercio, Industria y Espectáculos del Municipio de Boca del Río, Veracruz, o el ordenamiento legal vigente que regule el horario de establecimientos comerciales en cualquiera de sus modalidades.
+
+Así mismo, la autoridad fiscal podrá acordar la ampliación o disminución temporal de los horarios establecidos en el reglamento aplicable, cuando existan eventos o situaciones especiales en la ciudad que a su consideración lo ameriten.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 202 Bis.
+
+Los servicios y trámites que modifiquen el régimen de funcionamiento de los establecimientos comerciales, industriales o de prestación de servicios de esta sección, se tramitarán mediante los formatos previamente autorizados por las autoridades fiscales y se pagarán de acuerdo a las siguientes tarifas:
+
+I. Por cualquier cambio de giro o actividad comercial del establecimiento, se pagará una nueva expedición de licencia y la cancelación de la licencia ya existente.
+
+II. Por el cambio de nombre o denominación comercial, la cantidad de 5 UMA´S.
+
+III. Por cambio de régimen de razón social, se pagará la cantidad de 4 UMA´S.
+
+IV. Por corrección de domicilio del establecimiento, la cantidad de 2 UMA´S.
+
+V. Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en UMA´S:
 
 Giro Por c/hora
 
-Cantina 6
+a) Cantinas, bares, karaoke, café bar, video bar. 10
 
-Peña 6
+b) Bar 10
 
-Bar 6
+c) Cervecería 10
 
-Cervecería 6
+d) Centro nocturno 10
 
-Centro nocturno o cabaret 6
+e) Farmacias 10
 
-Discoteca 6
+f) Tiendas de abarrotes, misceláneas,
 
-Tiendas de abarrotes, misceláneas, ultramarinos,
+ultramarinos, minisúper y supermercados,
 
-minisúper y supermercados, depósitos de cerveza y
+depósitos de cerveza y depósitos de vinos
 
-depósitos de vinos y licores 0.06
+y licores 0.10
+
+Por las autorizaciones de ampliación de horario extraordinario de funcionamiento de los giros comprendidos en las fracciones III, XX, XXV, XXVI XXVII y XXVIII del artículo 202 de este Código, se pagarán a razón del 10% (diez por ciento) por cada hora respecto al pago del refrendo.
+
+VI. Por reposición de cédula de empadronamiento, la cantidad de 4 UMA´S.
+
+VII. Por copia certificada del estudio de impacto social, la cantidad de 20 UMA´S.
+
+VIII. Por expedición de constancia de no adeudo de licencias o permisos de establecimientos comerciales, industriales o de prestación de servicios que enajenen bebidas alcohólicas, la cantidad de 1 UMA.
+
+IX. Por expedición de Constancia de baja del establecimiento comercial, industrial o de prestación de servicios, la cantidad de 1 UMA.
+
+X. Por autorizaciones temporales de hasta 30 días, del 2% al 10% del costo del Refrendo al Padrón Fiscal de Establecimientos Comerciales, Industriales o de Prestación de Servicios que enajenen Bebidas Alcohólicas, que corresponda de acuerdo al giro que corresponda o el de mayor similitud. Los permisos o autorizaciones de carácter temporal mayores a treinta días no especificados dentro del presente artículo, tendrán un costo proporcional al número de días para el cual se expidan, en relación con la cuota que corresponda de acuerdo a su giro que corresponde o al de mayor similitud. En ningún caso el costo será menor al que corresponda a quince días.
+
+XI. Por autorizaciones de una sola ocasión ya sea en espectáculos, diversiones o eventos públicos que se realicen en lugares abiertos o cerrados, se pagará de conformidad con las siguientes tarifas:
+
+CONCEPTO UMA
+
+a) Eventos deportivos, exposiciones, kermeses y eventos
+
+públicos similares. 40 por día
+
+b) Ferias, bailes tradicionales, rodeo y eventos
+
+públicos similares. 50 por día
+
+c) Conciertos, obras de teatro y bailes musicales De 50 a 450
+
+masivos y presentaciones artísticas. por evento
+
+d) Permiso para la degustación de bebidas alcohólicas
+
+en calendas o romerías. 100 por día
+
+e) Permiso para la autorización para degustación de bebidas
+
+alcohólicas en tiendas de autoservicio. 70 por día
+
+XII. Anexos para la venta de artículos por temporada de establecimientos comerciales, pagarán conforme a lo siguiente:
+
+SUPERFICIE UMA POR M2 TARIFA ADICIONAL
+
+DIARIA UMA´S
+
+a) De 1 a 4 m2 1.00 0.2
+
+b) De 4.01 m2 en adelante 1.50 0.5
+
+XIII. Por autorización de trámite especial la tarifa será de 5 UMA´S.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 202 Ter.
+
+Las licencias, permisos o autorizaciones son intransferibles, otorgados para una persona física o moral y para un lugar determinado, por lo que no podrá cambiarse de propietario y del domicilio señalado en los mismos, sin la autorización previa del Cabildo o Tesorería Municipal, en términos de las disposiciones legales correspondientes, sujetándose a las condiciones siguientes:
+
+I. Las licencias no serán transferibles ni negociables;
+
+II. La licencia no podrá ser utilizada para giro diferente al que se indique en la misma, ni se operará en sitio diferente al que fue autorizada. Asimismo, aquellas licencias que no estén en actividad comercial y que por lo mismo se suspendan temporalmente, deberán de cubrir el 100 por ciento del costo anual de la licencia;
+
+III. No se podrá exceder del horario permitido;
+
+IV. No se podrá vender bebidas alcohólicas, en envase cerrado y/o abierto y/o al copeo, durante los días que así lo determinen las Leyes Federales y Estatales o cuando así lo acuerde el Ayuntamiento.
+
+Los traspasos, cambios de giro, cambios de nombre de negocio, cambios de domicilio o ampliaciones de horarios que se realicen sin el consentimiento del H. Ayuntamiento, serán nulos y se aplicará una multa al propietario de la licencia de acuerdo a lo establecido en el artículo siguiente. Asimismo, las licencias de funcionamiento que después de 5 años, de la fecha de otorgamiento o último pago, no se encuentren refrendadas, serán canceladas.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 202 Quáter.
+
+La autoridad municipal, en el ámbito de su competencia tendrá la facultad de imponer las sanciones respectivas, considerando las circunstancias particulares del caso, la situación económica del contribuyente, las reincidencias y los motivos de la sanción, conforme a lo siguiente:
+
+I. Apercibimiento por no acatar lo previsto en los Reglamentos Municipales de Boca del Río, Estado de Veracruz de Ignacio de la Llave.
+
+II. Multa de 1 a 50 unidades de medida y actualización;
+
+III. Suspensión o cancelación de la licencia; y
+
+IV. Clausura temporal hasta por 30 días naturales o definitiva.
 
 #### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -2243,27 +2647,39 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-I. Por la colocación de anuncios comerciales que tengan efectos sobre la vía pública, repercutiendo en la imagen urbana, de acuerdo a la siguiente clasificación:
+I. Por la colocación de anuncios comerciales permanentes por un periodo mayor a 90 días naturales en la vía pública o tenga (sic) efectos sobre esta, repercutiendo en la imagen urbana dentro de los parámetros y características siguientes:
 
-a) Popular: dos salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante anualmente.
+a) Popular: 2 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
 
-b) Interés social: cuatro salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+b) Interés social: 4 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
 
-c) Medio: de cuatro a seis salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+c) Medio: 6 UMAS por metro cuadrado por superficie del anuncio, por cara anunciante, anualmente.
 
-d) Residencial: de seis a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
+d) Residencial: 9 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante, anualmente.
 
-e) Para aquellos anuncios que tengan efectos sobre las siguientes vialidades: Costa Verde, Urano, Juan Pablo II, boulevard Manuel Ávila Camacho, boulevard Adolfo Ruiz Cortines, boulevard Miguel Alemán, Ejército Mexicano, Prol. Díaz Mirón, Lázaro Cárdenas, independientemente del sector donde se encuentren instalados, de ocho a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cara anunciante hacia la vialidad, anualmente;
+e) Para aquellos anuncios que tengan efectos sobre las siguientes vialidades primarias: Costa Verde, Urano, Juan Pablo II, boulevard Manuel Ávila Camacho, boulevard Adolfo Ruiz Cortines, boulevard Miguel Alemán, Ejército Mexicano, Prol. Díaz Mirón, Lázaro Cárdenas, independientemente del sector donde se encuentren instalados, de 9 UMAS por metro cuadrado de superficie del anuncio, por cara anunciante hacia la vialidad, anualmente.
 
-> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, diez salarios mínimos por evento;
+II. Por la colocación de anuncios comerciales transitorios o temporales considerando aquellos que se instalan por un periodo no mayor de 30 días naturales en la vía pública o tengan efectos sobre está repercutiendo en la imagen urbana del Municipio de conformidad con las cuotas siguientes:
 
-III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
+a) Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, respecto de cualquier tipo de propaganda o anuncio impreso, así como pendones, gallardetes, mamparas, banners y similares, 10 UMAS por evento;
 
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, seis salarios mínimos, anualmente.
+b) Por el anuncio de eventos en altoparlantes móviles (perifoneo) o fijos la cuota a aplicar será de 4 UMAS, por evento; y
+
+c) Por la colocación de anuncios móviles en el interior o exterior de autobuses, automóviles, motocicletas y bicicletas, 10 UMAS mensuales.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Cuando los contribuyentes, a los que hace mención la presente sección, no se encuentren inscritos en el padrón de anuncios municipal, las autoridades fiscales, determinarán como pago provisional del ejercicio la cuota mínima de 4 UMA's, tratándose de giros que no enajenen bebidas alcohólicas y de 6 UMA's para aquellos giros que expendan bebidas alcohólicas, el pago que les da derecho a obtener la licencia para la colocación de un anuncio publicitario de tipo denominativo. La colocación del anuncio denominativo antes mencionado, es obligatorio para los establecimientos comerciales o de servicios ubicados en el Municipio, para la debida identificación del establecimiento, dicho anuncio deberá expresar denominación, razón social o giro autorizado del que se trate.
+
+III. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2022)
+
+IV. (DEROGADA, G.O. 29 DE DICIEMBRE DE 2022)
+
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2022)
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2273,223 +2689,397 @@ No causarán los derechos previstos en esta Sección, la colocación de anuncios
 
 Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud o en rebeldía del usuario, los que se causarán y pagarán conforme a los conceptos y tarifas siguientes:
 
-I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Por asignación de número oficial e inspección de predios, 7.5 salarios mínimos;
+I. Las licencias y permisos de construcción, reconstrucción, ampliación o remodelación de inmuebles (llámese provisionales o definitivos), de fraccionamientos, lotificaciones, construcción de albercas, depósitos de agua y ruptura de banquetas, guarniciones, empedrados o pavimento, demolición, reparación, excavaciones y rellenos, terracerías y movimiento de tierras, remodelación de fachadas y bardas en superficies horizontales o verticales, construcción de bardas y muros de contención, instalación de antenas de radiocomunicación y telefonía, la canalización de ductos subterráneos, ya sean telefónicos, de energía eléctrica o de televisión por cable;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Las autorizaciones o licencias de alineamiento;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+III. Los servicios de asignación de número oficial para los predios o casas que se encuentran sobre la vía pública;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Las licencias de uso de suelo habitacional, uso comercial, de servicios o industrial. Así mismo, de colocación de infraestructura o mobiliario urbano, entendiéndose por este último la colocación o anclaje de postes, antenas, casetas, registros, ductos, cableado aéreo o subterráneo, anuncios publicitarios que impliquen colocación de estructuras, entre otros;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+V. La aprobación o revisión de planos de las obras señaladas en la fracción anterior;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. Cambios de uso de suelo y densidad;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VII. Regularizaciones de subdivisiones, fraccionamientos y fusiones;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VIII. Inscripción al padrón de contratistas de obra;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IX. Dictámenes de impacto urbano, impacto vial, estructural, ambiental;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+X. La construcción e instalaciones en inmuebles de características especiales: que constituyen un conjunto complejo de uso especializado, integrado por suelo, edificios, instalaciones y obras de urbanización y mejora que, por su carácter unitario y por estar ligado de forma definitiva para su funcionamiento, se configura a efectos catastrales como único bien inmueble. Serán considerados bienes inmuebles o instalaciones de características especiales, los siguientes:
+
+a) Los destinados a la producción de energía eléctrica como lo son: las centrales y subestaciones eoloeléctrica, fotovoltaica, o eólicas, geotérmicas, hidroeléctricas, de hidrocarburos, parques industriales, generadora solar, así como plantas, gasoductos, oleoductos, poliductos, subestaciones y aquellas dedicadas a la producción de gas, refino del petróleo y sus derivados;
+
+b) Las autopistas, carreteras, puentes, presas, represas, minas, túneles de peaje, puertos comerciales y zonas económicas especiales y de desarrollo turístico; y
+
+c) En general todas las construcciones e instalaciones ubicadas en el Municipio destinadas a cualesquiera actividades reguladas por la Ley de la Industria Eléctrica, Ley de Hidrocarburos, Ley Minera Ley Federal de Telecomunicaciones y Radiodifusión, Ley de Vías Generales de Comunicación, Ley de Aeropuertos, Ley de Puertos, Ley Aduanera y Ley de Aguas Nacionales.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XI. Apeos y deslindes, permisos de subdivisión de predios, entronque de drenaje y fusión de bienes;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XII. Las zonas económicas especiales y de desarrollo turístico, y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIII. Cualquier otro previsto en el presente capítulo.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 206 Bis.
+
+Son sujetos de este derecho las personas físicas o morales que soliciten el servicio a que se refiere el artículo anterior, o que realicen por cuenta propia o ajena las mismas actividades referidas y que causen el pago de este derecho.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 206 Ter.
+
+Estos derechos, se tramitará mediante los formatos previamente autorizados por la Tesorería y deberán cubrirse con anticipación al otorgamiento de las licencias o permisos referidos, se causarán y pagarán conforme a los conceptos y tarifas siguientes:
+
+I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos, por metro lineal 0.875 UMA.
+
+II. Por asignación de número oficial e inspección de predios, 7.5 UMA.
 
 III. Por licencias:
 
-a) De construcción de bardas, por metro lineal 0.325 salarios mínimos;
+a) De construcción de bardas, por metro lineal 0.60 UMA;
 
-b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de que consta el edificio, se pagaran por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
+b) De construcción o ampliación o remodelación, tomando como base la superficie total que resulte de la suma de las superficies parciales cubiertas por construcciones correspondientes a cada uno de los pisos de qué consta el edificio, se pagarán por metro cuadrado o fracción, de conformidad con las cuotas siguientes:
 
-Uso Salario
+No. USO Unidad de Medida y
 
-Mínimo
+Actualización (UMA)
 
-1. Residencial 0.28
+1 Residencial 0.503
 
-2. Medio 0.242
+2 Medio 0.435
 
-3. Interés Social 0.075
+3 Interés Social 0.135
 
-4. Popular 0.06
+4 Popular 0.108
 
-5. Comercial 0.425
+5 Comercial 0.764
 
-6. Industrial 0.425
+6 Industrial 0.764
 
-7. Agropecuario 0.152
+7 Agropecuario 0.273
 
-8. De Servicio 0.152
+8 De servicio 0.273
 
 c) Para fusionar, subdividir o relotificar, en términos de la Ley de Desarrollo Regional y Urbano y el Reglamento de la materia, por metro cuadrado:
 
-Uso Salario
+No. USO Unidad de Medida
 
-Mínimo
+y Actualización (UMA)
 
-1. Residencial 0.0212
+1 Residencial 0.06
 
-2. Medio 0.0145
+2 Medio 0.04
 
-3. Interés Social 0.00625
+3 Interés Social 0.02
 
-4. Popular 0.004
+4 Popular 0.02
 
-5. Comercial 0.04
+5 Comercial 0.10
 
-6. Industrial 0.04
+6 Industrial 0.08
 
-7. Agropecuario 0.0125
+7 Agropecuario 0.02
 
-8. De Servicio 0.015
+8 De servicio 0.03
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos
+En ningún caso, la cuota a pagar será menor de 5 UMA.
 
-d) Para fraccionamientos, sobre el área total por fraccionar o lotificar, por metro cuadrado o fracción, en término (sic) de la Ley de Desarrollo Regional y Urbano y sus reglamentos, por metro cuadrado o fracción:
+d) Para fraccionamientos, sobre el área total por fraccionar, lotificar o relotificar, por metro cuadrado o fracción, en término de la Ley de Desarrollo Regional y Urbano y sus reglamentos, por metro cuadrado o fracción:
 
-Uso Salario
+No. USO Unidad de Medida y
 
-Mínimo
+Actualización (UMA)
 
-1. Residencial 0.0212
+1 Residencial 0.04
 
-2. Medio 0.0145
+2 Medio 0.028
 
-3. Interés Social 0.00625
+3 Interés Social 0.012
 
-4. Popular 0.004
+4 Popular 0.008
 
-5. Comercial 0.04
+5 Comercial 0.077
 
-6. Industrial 0.04
+6 Industrial 0.077
 
-7. Agropecuario 0.0125
+7 Agropecuario 0.024
 
-8. De Servicio 0.015
+8 De servicio 0.029
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+En ningún caso, la cuota a pagar será menor de 5 UMA.
 
-e) Por demoliciones por metro cuadrado:
+e) De demoliciones, por metro cuadrado:
 
-Uso Salario
+No. USO Unidad de Medida y
 
-Mínimo
+Actualización (UMA)
 
-1. Residencial 0.256
+1 Residencial 0.494
 
-2. Medio 0.205
+2 Medio 0.395
 
-3. Interés Social 0.1275
+3 Interés Social 0.246
 
-4. Popular 0.1025
+4 Popular 0.198
 
-5. Comercial 0.575
+5 Comercial 1.109
 
-6. Industrial 0.575
+6 Industrial 1.109
 
-7. Agropecuario 0.23
+7 Agropecuario 0.444
 
-8. De Servicio 0.4075
+8 De servicio 0.786
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+En ningún caso, la cuota a pagar será menor de 2 UMA.
 
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 1.2 salarios mínimos
+f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 2.30 UMA.
 
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 4 salarios mínimos
+g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso o combustible, por metro cúbico o fracción, 8 UMA.
 
 h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
 
-Uso Salario
+No. USO Unidad de Medida y
 
-Mínimo
+i) P Actualización (UMA)
 
-1. Residencial 0.14
+o 1 Residencial 0.27
 
-2. Medio 0.1225
+r 2 Medio 0.236
 
-3. Interés Social 0.0375
+3 Interés Social 0.72
 
-4. Popular 0.03
+c 4 Popular 0.058
 
-5. Comercial 0.2125
+a 5 Comercial 0.41
 
-6. Industrial 0.2125
+n 6 Industrial 0.41
 
-7. Agropecuario 0.075
+c 7 Agropecuario 0.145
 
-8. De Servicio 0.075
+e 8 De servicio 0.145
 
-i) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
+l
 
-j) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.10 salario mínimo; y
+a (sic)
 
-k) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, un salario mínimo.
+(sic)ción de fianza de régimen en condominio se pagará la cuota de 10 UMAS;
 
-Por las demás no especificadas en esta fracción por metro cuadrado 0.01 salarios mínimos;
+j) Por remodelación de fachadas, se pagará por metro cuadrado o fracción, de acuerdo a lo señalado en el inciso b);
+
+k) Por la construcción de estacionamientos descubiertos o patios de almacenaje, se pagará por metro cuadrado de piso, 0.20 UMA;
+
+l) Realizar obras, modificaciones, reparaciones, introducir servicios provisionales o permanentes en la vía pública por metro lineal o cuadrado, según corresponda, 2 UMA. En ningún caso, la cuota a pagar será menor de 10 UMAS.
+
+m) Por las demás no especificadas en esta fracción por metro cuadrado 0.20 UMA;
+
+n) Por el otorgamiento de licencias de construcción y/o instalación de infraestructura de sistemas de radiocomunicación y de telecomunicación, así como para la colocación o anclaje de postes e instalación de red o cableado subterráneo en piso o cableado exterior o aéreo de telefonía, internet, televisión por cable y similares:
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PAGINA 32.]</small>
+
+Las personas físicas o morales que instalen y/o coloquen estructuras, antenas o similares independientemente de la licencia inicial de colocación o construcción quedarán sujetos a las revalidaciones anuales en materia de protección civil, seguridad estructural, salud y ecología respectivamente, así como de refrendo de uso de suelo que este Código y la reglamentación determinen.
+
+De igual forma, serán solidarios responsables del cumplimiento, así como del pago de los créditos fiscales que se originen con motivo de la ejecución de obras o de la colocación de las bases, estructuras, mástiles, antenas, así como de los refrendos y dictámenes anuales y de los daños que éstas ocasionen a las personas, bienes o al entorno urbano, así como las previstas en la normatividad aplicable:
+
+1. El titular de la concesión de la señal de radiofrecuencia ante el Instituto Federal de Telecomunicaciones será el directo responsable de tramitar el permiso de colocación del elemento físico denominado “antena” o su similar específico ante el Municipio, así como de verificar ante las autoridades municipales que la estructura donde se pretenda colocar cuenta con los permisos correspondientes, para el caso de que no sea de su propiedad.
+
+2. El dueño de la base, estructura o mástil donde se coloquen las antenas de radiofrecuencia.
+
+3. El dueño del inmueble donde se coloquen las estructuras, mástiles o antenas.
+
+A más tardar en el mes de mayo, los titulares de las concesiones a que hace referencia el párrafo anterior, deberán contar respecto a todas las radiobases, estructuras, mástiles y de sus respectivas antenas con los dictámenes municipales vigentes de seguridad estructural, protección civil, salud, ecología y cumplimiento de los límites de exposición máxima para seres humanos a radiaciones electromagnéticas de radiofrecuencia no ionizantes. Con el fin de que la autoridad municipal salvaguarde el derecho humano a la vida y a la salud de los habitantes del Municipio.
+
+Sólo podrán establecerse por estos derechos exenciones por concepto de permisos relacionados con la construcción de todo tipo, realizadas por la Federación, el Estado y los Municipios, cuando se trate de construcción de bienes de dominio público.
 
 IV. Por deslinde de predios por metro cuadrado o fracción:
 
-Uso Salarios
+No. USO Unidad de Medida y
 
-Mínimos
+Actualización (UMA)
 
-1. Residencial 0.0925
+1 Residencial 0.0925
 
-2. Medio 0.05
+2 Medio 0.05
 
-3. Interés Social 0.04375
+3 Interés Social 0.04375
 
-4. Popular 0.0375
+4 Popular 0.0375
 
-5. Comercial 0.0625
+5 Comercial 0.0625
 
-6. Industrial 0.025
+6 Industrial 0.025
 
-7. Agropecuario 0.02
+7 Agropecuario 0.02
 
-8. De Servicio 0.025
+8 De servicio 0.025
 
-En ningún caso la cuota a pagar será menor de 2 salarios mínimos;
+En ningún caso, la cuota a pagar será menor de 2 UMA.
 
 V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación, de acuerdo a los reglamentos vigentes, por plano:
 
-Uso Salario
+No. USO Unidad de Medida y
 
-Mínimo
+Actualización (UMA)
 
-1. Residencial 4
+1 Residencial 4
 
-2. Medio 3
+2 Medio 3
 
-3. Interés Social 2
+3 Interés Social 2
 
-4. Popular 1
+4 Popular 1
 
-5. Comercial 8
+5 Comercial 8
 
-6. Industrial 8
+6 Industrial 8
 
-7. Agropecuario 4
+7 Agropecuario 4
 
-8. De Servicio 4
+8 De servicio 4
 
-VI. Por dictamen de uso de suelo o administrativo, según clasificación, por metro cuadrado:
+9 Sistemas de telecomunicación 10
 
-Uso Salarios
+VI. Por licencia de Uso de Suelo, según clasificación, por metro cuadrado o unidad correspondiente:
 
-mínimos
+No. USO Unidad de Medida y
 
-1. Vivienda 0.10
+Actualización (UMA)
 
-2. Industria 0.15
+1 Vivienda 0.20
 
-3. Comercio 0.50
+2 Industria 0.30
 
-4. Servicio 0.30
+3 Comercio 0.50
 
-En ningún caso la cuota a pagar será menor a 5 salarios mínimos.
+4 Servicio 0.30
 
-> <small>(REFORMADO, G.O. 8 DE FEBRERO DE 2017)</small>
+5 Radiocomuniciones y Telecomunicaciones:
 
-Por cambio de uso de suelo, en caso de que el municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo; y
+a) Estructura o mástil para el soporte de antenas y estaciones terrenas. 1,000
 
-> <small>(ADICIONADA, G.O. 8 DE FEBRERO DE 2017)</small>
+b) Instalación subterránea o aérea en vía pública y/o privada de fibra óptica, telefonía, transmisión de datos, transmisión de señales de televisión por cable y similares (por metro lineal) 0.50
 
-VII. Por expedición de congruencia de uso de suelo para trámites en la zona federal Marítimo Terrestre y Terrenos Ganados al Mar, según clasificación, por metro cuadrado.
+c) Instalación de registro de telefonía, voz y datos, por unidad 8.00
 
-Uso Unidad de Medida
+En ningún caso, la cuota a pagar será menor a 10 UMA´S.
 
-y Actualización
+VII. En caso de incurrir en omisión por construir sin licencia de Uso de Suelo y/o que no respete lo especificado por el programa de ordenamiento vigente en la zona, será acreedor a la sanción administrativa consistente de 500 a 1000 UMAS.
 
-1. Protección u ornato 1
+VIII. Es obligación de los propietarios, poseedores, o empresas dueñas de los sistemas de telecomunicación refrendar anualmente el dictamen de uso de suelo para la instalación y/o colocación de base de todo tipo, torre, estructura o mástil para el soporte de antenas, por unidad, causando derechos de 800 UMAS.
 
-2. General 1
+IX. Por cambio de uso de suelo en caso de que el Municipio, contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para un dictamen de uso de suelo.
 
-La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan a la fracción V.
+X. Por refrendo anual de uso de suelo para los establecimientos comerciales, industriales y de prestación de servicios, causarán la cantidad de 5 UMAS.
 
-La regularización por omisión de registros o licencias de construcción causará los derechos normales más un cincuenta por ciento de los mismos.
+XI. Por expedición de congruencia de uso de suelo para trámites en la Zona Federal Marítimo Terrestre y Terrenos Ganados al Mar, según clasificación por metro cuadrado.
+
+USO UNIDAD DE MEDIDA Y ACTUALIZACIÓN
+
+1.- Protección u ornato 1
+
+2.- General 1
+
+XII. La modificación o revalidación de proyectos causarán derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan al inciso b).
+
+XIII. La regularización por omisión de registros o licencias de construcción causará los derechos normales más un cincuenta por ciento de los mismos.
+
+XIV. Por los dictámenes de: impacto urbano; impacto vial; estructural, o ambiental, la cantidad de 36 UMA´S.
+
+XV. Las personas físicas o morales que en el Municipio realicen obras en inmuebles propiedad de particulares o en inmuebles de dominio público para la colocación de estructuras de antenas y torres de telecomunicación, de telefonía celular o convencional, de radio frecuencia, de conducción de energía eléctrica, serán sujetos obligados al pago también de los siguientes derechos:
+
+1) La licencia de uso de suelo:
+
+a) Otorgamiento: 650.00 UMA
+
+b) Actualización anual 380.50 UMA
+
+2) Dictamen de impacto urbano considerando el área total de construcción, incluyendo la urbanización:
+
+a) Instalación de estructuras o mástil para colocar antenas de telecomunicación (auto soportada, arriostrada y monopolar) 500 UMA por unidad
+
+3) Dictamen estructural para antenas de telefonía 114 UMA
+
+4) Dictamen y/o verificación visual para antenas de telecomunicación 120 UMA
+
+5) Dictamen y/o verificación de protección civil para antenas de telecomunicación 100 UMA
+
+6) Instalación o colocación de base de todo tipo, estructura o mástil para antenas de telecomunicación hasta 50 metros de altura (auto soportada, arriostrada y monopolar) en terreno natural o azotea:
+
+a) Licencia 2,051.30 UMA
+
+b) Mayores de 50 metros de altura por cada metro adicional 400.00 UMA
+
+c) Aviso de terminación de obra 5% del costo de la licencia
+
+7) Regularización de instalación y colocación de base de todo tipo, estructura o mástil para antenas de telecomunicación hasta 50 metros de altura (auto soportada, arriostrada y monopolar) en terreno natural o azotea:
+
+a) Licencia 2,464.50 UMA
+
+b) Mayores de 50 metros de altura por cada metro adicional 482.00 UMA
+
+c) Aviso de terminación de obra 5% del costo de la licencia
+
+8) Reubicación de estructura y/o antena de telecomunicación 1,800.70 UMA
+
+9) Autorización en materia de impacto y riesgo ambiental:
+
+a) Manifestación de impacto ambiental 1000 UMA
+
+b) Estudio anual de riesgo ambiental 275 UMA
+
+c) Informe preliminar de riesgo ambiental 1000 UMA
+
+d) Estudios de riesgo ambiental 275 UMA
+
+XVI. Por movimiento de tierra, por pieza, de acuerdo a la siguiente tabla:
+
+No. USO Unidad de Medida y
+
+Actualización (UMA)
+
+1 Residencial 4
+
+2 Medio 3
+
+3 Interés Social 2
+
+4 Popular 1
+
+5 Comercial 8
+
+6 Industrial 8
+
+7 Agropecuario 4
+
+8 De servicio 4
 
 ###### Artículo 207.
 
@@ -2579,53 +3169,199 @@ Los funcionarios facultados para prestar los servicios a que se refiere este Cap
 
 Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
 
-I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.20 salarios mínimos.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+I. Certificado o certificaciones expedidas por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, 1.20 UMA´S.
 
 II. Copias de documentos que obren en los archivos de oficinas municipales:
 
-a) Por hoja escrita a doble espacio en ambas caras, 1 salario mínimo.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.10 salarios mínimos.
+a) Por hoja escrita a doble espacio en ambas caras, 1.80 UMA´S;
 
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1 salario mínimo.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-d) Copias certificadas de planos de construcción, 5 salarios mínimos.
+b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.98 UMA´S;
 
-En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.30 salarios mínimos;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-III. Evaluación de impacto ambiental, 21 salarios mínimos;
+c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1.80 UMA´S; y
 
-IV. Certificados de conducta, 2.10 salarios mínimos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-V. Certificados de dependencia económica, 2.10 salarios mínimos
+d) Copias certificadas de planos de construcción, 9 UMA´S.
 
-VI. Certificados de reclutamiento militar, 2.10 salarios mínimos
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-VII. Certificados de huellas dactilares 2.10 salarios mínimos
+En los casos a que se refiere esta fracción, además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia, cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la búsqueda, 0.30 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+III. Evaluación de impacto ambiental, 37.73 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Certificados de conducta, 2.10 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+V. Certificados de dependencia económica, 2.10 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. Certificados de reclutamiento militar, 2.10 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VII. Certificados de huellas dactilares 2.10 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 VIII. Constancias expedidas por las dependencias de Desarrollo Urbano, por cada una, según los incisos siguientes:
 
-a) Interés Social y Popular, 2 salarios mínimos, y
+a) Constancia de factibilidad de imagen urbana:
 
-b) Residencial, Industrial y Comercial, 10 salarios mínimos.
+No. USO Unidad de Medida y
 
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+Actualización (UMA)
 
-IX. Por diversas constancias en materia ambiental, 20 salarios mínimos;
+1 Interés Social y popular 2
 
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+2 Residencial, Industrial y comercial 10
 
-X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+b) Constancia de actualización de uso de suelo:
 
-a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
+No. USO Unidad de Medida y
 
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos;
+Actualización (UMA)
 
-c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.03 salarios mínimos.
+1 Interés Social y popular 10
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+2 Residencial, Industrial y comercial 10
+
+c) Constancia de zonificación:
+
+No. USO Unidad de Medida y
+
+Actualización (UMA)
+
+1 Interés Social y popular 10
+
+2 Residencial, Industrial y comercial 10
+
+d) Por terminación de obra:
+
+No. Constancia USO Unidad de Medida y
+
+Actualización (UMA)
+
+1 Residencial 18
+
+2 Medio 18
+
+3 Interés Social 4
+
+4 Popular 4
+
+5 Comercial 18
+
+6 Industrial 18
+
+e) Constancia por anuncio de obra:
+
+No. USO Unidad de Medida y
+
+Actualización (UMA)
+
+1 Residencial 18
+
+2 Medio 18
+
+3 Interés Social 4
+
+4 Popular 4
+
+5 Comercial 18
+
+6 Industrial 18
+
+f) Por constancia por registro y/o refrendo de perito, la cantidad de 18 UMA´S;
+
+g) Constancias, y/o autorizaciones varias, de acuerdo a lo siguiente:
+
+No. USO Unidad de Medida y
+
+Actualización (UMA)
+
+1 Residencial 18
+
+2 Medio 18
+
+3 Interés Social 4
+
+4 Popular 4
+
+5 Comercial 18
+
+6 Industrial 18
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PAGINAS DE LA 38 A LA 39.]</small>
+
+h) Copias certificadas de plano de construcción, la cantidad de 9 UM'AS.
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IX. Por diversas constancias en materia ambiental, 20 UMA´S;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información para el Estado:
+
+a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0 UMA
+
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0 UMA
+
+c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0 UMA
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XI. Constancia de verificación sanitaria, la cantidad de 5 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XII. Constancia de no inconveniencia ambiental, la cantidad de 12.5 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIII. Constancia por Visto Bueno en materia ambiental, la cantidad de 5 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIV. Constancia de no adeudo fiscal, 1 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XV. Cédula de empadronamiento por el registro o refrendo en el Padrón Fiscal Municipal de establecimientos comerciales, industriales o de prestación de servicios, que no enajenen bebidas alcohólicas, 5 UMA´S;
+
+XVI. Cédula de empadronamiento por el expedición o refrendo en el Padrón Fiscal Municipal de los establecimientos que enajenen bebidas alcohólicas realizada total o parcialmente al público en general, 5 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVII. Constancia de no registro comercial, 1.50 UMA´S;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Constancia de Afectación y/o Visto Bueno de Construcción, 4 UMA´S.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIX. Constancias y formatos diversos, la cantidad de 4.5 UMA´S;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Las personas físicas y/o morales que incumplan no establecido en el Reglamento para Construcciones Públicas y Privadas del Municipio Libre de Boca Del Río, Veracruz, y/o el Reglamento de Desarrollo Urbano, Fraccionamiento y Vivienda para el Municipio de Boca del Río, Veracruz, relativo a los permisos, anuencias, pagos de derechos, dictaminaciones, infracciones y cualquier otra determinación que efectué la Dirección de Planeación y Obras Publicas Municipal, se hará acreedor a las sanciones administrativas que disponen los reglamentos en cita.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -2649,13 +3385,21 @@ El pago de este derecho se efectuará previamente a la prestación del servicio,
 
 Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-I. Bovino, por cada animal: 1.5 a 3.0 salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Porcino y equino, por cada animal: 0.5 a 1.0 salarios mínimos;
+I. Bovino, por cada animal: 1.5 a 3.0 UMA
 
-III. Ovino y caprino, por cada animal: 0.2 a 0.4 salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-IV. Aves y otras especies menores, por cada animal: 0.01 a 0.02 salarios mínimos;
+II. Porcino y equino, por cada animal: 0.5 a 1.0 UMA
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+III. Ovino y caprino, por cada animal: 0.2 a 0.4 UMA
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Aves y otras especies menores, por cada animal: 0.01 a 0.02 UMA
 
 V. Por uso de corrales después de transcurridas cuarenta y ocho horas del ingreso del animal, por día o fracción se pagará el diez por ciento de las cantidades señaladas en las fracciones anteriores; y
 
@@ -2667,13 +3411,17 @@ VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del i
 
 Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas, fosas o nichos.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 229.
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
+Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en Unidades de Medida y Actualización, las cuotas siguientes:
 
-I. Inhumaciones por siete años y refrendo de fosas:
+CONCEPTO TARIFA EN (UMA)
 
-a) Sin bóveda
+I. Inhumaciones por siete años y refrendo de fosas
+
+a) Sin bóveda 5
 
 b) Con bóveda 17
 
@@ -2695,19 +3443,17 @@ IX. Cremaciones 4
 
 X. Nichos en el panteón municipal 13
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2019)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas a que se refiere este artículo cuando se trate de los restos mortales de las víctimas directas e indirectas del delito de desaparición forzada de personas y la cometida por particulares, a efecto de garantizar el derecho previsto en la fracción IX del artículo 73 de la Ley en Materia de Desaparición de Personas para el Estado de Veracruz de Ignacio de la Llave.
-
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
 ###### Artículo 230.
 
 Son objeto de estos derechos los servicios de recolección, transporte y disposición final de los residuos sólidos que preste el Ayuntamiento a casa habitación, condominios, departamentos, unidades habitacionales o a sus similares; así como a comercios, industrias, prestadores de servicios o empresas de espectáculos públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 231.
 
-Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios en que se presten los servicios a que se refiere este capítulo.
+Son sujetos de estos derechos las personas físicas o morales que sean propietarias, poseedoras o usufructuarias de los predios o establecimientos comerciales, industriales o de prestación de servicios, en que se presten los servicios a que se refiere este capítulo.
 
 El Ayuntamiento o los concesionarios podrán rechazar el manejo de residuos cuyas características los hagan de manejo especial, en tanto no se adopten las medidas necesarias para su manejo. Los residuos considerados como peligrosos por la legislación federal en ningún caso deberán ser manejados por el Ayuntamiento.
 
@@ -2727,29 +3473,35 @@ El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
 I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
 
-II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse de manera anual, en conjunto con el pago de los derechos establecidos en los artículos 199 bis y 202 de este Código; y
 
 III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 149, fracción II, inciso h).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 234.
 
-Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmente de conformidad con las cuotas siguientes:
+Los derechos a que este capítulo se refiere, se causarán y pagarán mensualmente, de conformidad con las cuotas siguientes:
 
-I. Por cada inmueble destinado a uso habitacional, de tipo:
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Salarios mínimos
+I. A los propietarios y/o poseedores de bienes inmuebles:
 
-Residencial 0.5
+USO UMA
 
-Medio 0.4
+1.- Residencial 0.5
 
-Interés social 0.3
+2.- Medio 0.4
 
-Popular 0.2
+3.- Interés social 0.3
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+4.- Popular 0.2
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 UMA por kilogramo o 5.71 UMA por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial. El pago de este derecho, se realizará durante los primeros tres meses de cada ejercicio fiscal, de forma conjunta con el cobro de los derechos por el registro y/o refrendo al padrón fiscal municipal de establecimientos comerciales, industriales o de prestación de servicios, así como, la expedición o refrendo de la licencia de funcionamiento de giros con venta de bebidas alcohólicas.
 
 Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
@@ -2785,9 +3537,13 @@ Son sujetos de este derecho, las personas físicas o morales que sean propietari
 
 Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 salarios mínimos.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
+Por los derechos a que se refiere este capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 UMA.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de 1 UMA.
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
@@ -2795,57 +3551,61 @@ En el caso de que no sea posible determinar el volumen de material extraído, es
 
 Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
 
-A.- Por servicios Catastrales
+CONCEPTO UMA´S
 
-I. Por la expedición de una Cédula Catastral 7 salarios mínimos
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Por la expedición de un Certificado de Valor Catastral o Catastral Provisional, para efectos del pago de Impuesto de Traslación de Dominio u otros 10 salarios mínimos
+A. Por servicios catastrales
 
-III. Por la expedición de una constancia de datos Catastrales 4 salarios mínimos
+I. Por la expedición de una cédula catastral 7
 
-IV. Por la certificación de cada plano catastral expedido por el Municipio 3 salarios mínimos
+II. Por la expedición de un certificado de valor catastral o catastral provisional, para efectos del pago de impuesto de traslación de dominio u otros. 10
 
-V. Por la expedición de Cartografía Digital propiedad del Municipio:
+III. Por la expedición de una constancia de datos catastrales 4
 
-Planos graficados:
+IV. Por la certificación de cada plano catastral expedido por el Municipio 3
 
-SALARIO MINIMO
+V. Por la expedición de cartografía digital propiedad del Municipio:
 
-a) Plano general urbano, Escala 1:7,500 15
+a) Planos graficados
 
-b) Plano de la zona rural, Escala 1:15,000 10
+1. Plano general urbano, escala 1:7,500 15
 
-c) Plano de región catastral, Escala 1:5,000 1
+2. Plano de la zona rural, escala 1:15,000 10
 
-d) Plano de región catastral con valores del suelo urbano, sin escala 2.25
+3. Plano de región catastral, escala 1:5,000 1
 
-e) Plano de manzana, Escala 1:500 6
+4. Plano de región catastral con valores del suelo urbano, sin escala 2.25
 
-f) Plano perimetral de Predio Tamaño carta 3
+5. Plano de manzana, escala 1:500 6
 
-Archivo digital georeferenciado en forma DWG:
+6. Plano perimetral de predio tamaño carta 3
 
-Por Km2., o fracción.
+7. Archivo digital georreferenciado en forma DWG; por km2, o fracción.
 
-Planimetría Escala 1:1,000 8.75
+a) Planimetría escala 1:1,000 8.75
 
-Planimetría Escala 1:1,500 3.75
+b) Planimetría escala 1:1,500 3.75
 
-Altimetría Escala 1:1,000 12.50
+c) Altimetría escala 1:1,000 12.50
 
-h) Fotografía (sic) aéreas Escalas 1:4,500 o 1:20,000 en formato .23 x .23, por cada una:
+8. Fotografía (sic) aéreas escalas 1:4,500 o 1:20,000 en formato .23 x.23, por cada una:
 
-Impresa en papel bond 0.75
+a) Impresa en papel bond 0.75
 
-Impresa en papel calidad fotográfica 1.25
+b) Impresa en papel calidad fotográfica 1.25
 
-Grabada en diskette o C.D. archivo JPG 2.5
+c) Grabada en diskette o CD. o archivo JPG 2.5
 
 En los casos de trámites urgentes, se aumentará su costo en un cuarenta por ciento más de la cuota autorizada
 
-B.- Por constancia de no adeudo o cualquier otro que se expida 1.125
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-C.- Por la certificación de datos o documentos que existan en el archivo de la Tesorería Municipal 1.125
+B. Por constancia de no adeudo o cualquier otro que se expida 1.125
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+C. Por la certificación de datos o documentos que existan en el archivo de la Tesorería Municipal 1.125
 
 ###### Artículo 242.
 
@@ -2861,63 +3621,71 @@ Son objeto de estos derechos los servicios de inscripción de actos del estado c
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 245.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+Los derechos a que se refiere este capítulo se causarán y pagarán, en Unidades de Medida y Actualización, de acuerdo a las cuotas siguientes:
 
-Salarios Mínimos
+CONCEPTO (UMA)
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja 1.20, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, G.O. 10 DE MARZO DE 2021)</small>
+I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, por cada hoja, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción; 1.20
 
-El ayuntamiento, por acuerdo del Cabildo, podrá exentar del pago del derecho por la prestación del servicio a que se refiere esta fracción, a aquellas personas que, siendo víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, soliciten la expedición de copias certificadas de su acta de registro de nacimiento o de la perteneciente a la víctima directa de la cual sean familiar.
-
-> <small>(REFORMADA, G.O. 30 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 II. Registro de nacimientos ordinarios y extemporáneos 0
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 III. Reconocimiento de hijos 2.5
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 IV. Celebración de matrimonios en oficina
 
-a) Lunes a Jueves (Matutino) 10
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) Lunes a Jueves (Vespertino) 17.5
+a) Lunes a jueves (matutino) 10
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+b) Lunes a jueves (vespertino) 17.5
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 c) Viernes 20
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 d) Sábado 25
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 V. Celebración de matrimonios a domicilio 60
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 VI. Inscripción de sentencias 13.20
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 VII. Divorcios 17.5
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 VIII. Notas marginales en los libros de actas 2.5
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 IX. Inscripción de actas del extranjero 13.20
 
-X. (DEROGADA, G.O. 13 DE MARZO DE 2015)
+X. (DEROGADA [N. DE E. REPUBLICADA], G.O. 29 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADO, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
+Por búsqueda de los documentos anteriores, se pagarán 2 UMA´S, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
@@ -2933,113 +3701,309 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.0625 salarios mínimos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0.11 UMA;
 
 Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
 
-II. Por ocupación de espacios en la vía pública o áreas municipales por vehículos, aparatos mecánicos; electromecánicos y casetas telefónicas por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
+II. Por ocupación de espacios en la vía pública o áreas municipales por vehículos, aparatos mecánicos; electromecánicos y casetas telefónicas por metro cuadrado o fracción pagarán una cuota diaria de 0.05 UMA;
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 UMA;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etc.; exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie 0.05 UMA;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
 
-a) Sobre el arroyo de una calle de la ciudad 0.05 salarios mínimos
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) Por ocupación de banqueta en la ciudad 0.05 salarios mínimos
+a) Sobre el arroyo de una calle de la ciudad 0.05 UMA
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+b) Por ocupación de banqueta en la ciudad 0.05 UMA
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 VI. Por la ocupación de subsuelo con construcciones permanentes, se pagarán mensualmente las siguientes cuotas:
 
-a) Instalaciones lineales diversas por metro 0.05 salarios mínimos
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos
+a) Instalaciones lineales diversas por metro 0.05 UMA
 
-VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 UMA
 
-VIII. En los casos de ocupación de espacios en vía pública o áreas municipales, por líneas aéreas, subterráneas o terrestres, se pagará diariamente por metro lineal; 0.05 salarios mínimos; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADA, G.O. 13 DE MARZO DE 2015)</small>
+c) Instalación de registro de telefonía, voz y datos, por unidad 5 UMAS
 
-IX. La ocupación de espacios en vía pública, en el caso de banquetas, por medio de mesas, sillas o cualquier otro tipo de muebles, previa autorización, se pagará una cuota por día de 0.075 salarios mínimos por metro cuadrado o fracción.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos
+VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente; 0.075 UMA;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VIII. En los casos de ocupación de espacios en vía pública o áreas municipales, por líneas aéreas, subterráneas o terrestres, se pagará diariamente por metro lineal; 0.05 UMA y
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IX. La ocupación de espacios en vía pública, en el caso de banquetas, por medio de mesas, sillas o cualquier otro tipo de muebles, previa autorización, se pagará una cuota por día de 0.075 UMA por metro cuadrado o fracción.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 13 DE MARZO DE 2015)</small>
 
 ### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 247 Bis.
 
-Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en Unidades de Medida y Actualización, los siguientes derechos:
 
-I. Por la emisión de dictámenes técnicos de instalaciones públicas y privadas, existentes y futuras.
+CONCEPTO UMA
 
-Alto Riesgo
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-1 a 166 metros cuadrados de superficie 26
+I. Por la emisión de anuencias operativas, no inconvenientes, factibilidades, dictámenes técnicos, opiniones técnicas y pliegos de recomendaciones de instalaciones públicas y privadas, existentes y futuras.
 
-167 a 332 metros cuadrados de superficie 52
+a) Alto riesgo
 
-333 a 500 metros cuadrados de superficie 80
+1. 1 a 166.99 metros cuadrados de superficie 32
 
-Riesgo Medio
+2. 167 a 332.99 metros cuadrados de superficie 54
 
-1 a 166 metros cuadrados de superficie 23
+3. 333 a 500 metros cuadrados de superficie 100
 
-167 a 332 metros cuadrados de superficie 46
+b) Riesgo medio
 
-333 a 500 metros cuadrados de superficie 70
+1. 1 a 166.99 metros cuadrados de superficie 25
 
-Bajo Riesgo
+2. 167 a 332.99 metros cuadrados de superficie 48
 
-1 a 60 metros cuadrados de superficie 7
+3. 333 a 500 metros cuadrados de superficie 90
 
-61 a 125 metros cuadrados de superficie 14
+c) Bajo riesgo
 
-126 a 190 metros cuadrados de superficie 21
+1.1 a 60.99 metros cuadrados de superficie 14
 
-191 a 250 metros cuadrados de superficie 28
+2.61 a 125.99 metros cuadrados de superficie 21
 
-251 a 315 metros cuadrados de superficie 35
+3.126 a 190.99 metros cuadrados de superficie 28
 
-316 a 380 metros cuadrados de superficie 42
+4.191 a 250.99 metros cuadrados de superficie 35
 
-381 a 500 metros cuadrados de superficie 60
+5.251 a 315.99 metros cuadrados de superficie 42
 
-En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+6.316 a 380.99 metros cuadrados de superficie 60
 
-II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
+7.381 a 500 metros cuadrados de superficie 80
 
-Persona Física 2
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 UMA´S adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
 
-Persona Moral 60
+Así mismo la autoridad en materia de Protección Civil estará facultada para determinar el grado de riesgo de cada inmueble de acuerdo a su giro.
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado.
+
+UMA
+
+1. Persona física 4
+
+2. Persona moral 60
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
 
-Persona Física: 25
+1. UMA
 
-IV. Renovación de registro como terceros acreditados.
+2. Persona física 30
 
-Persona Física: 12
+3. Persona moral 40
 
-V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Boca del Río para promotores particulares, se pagará:
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IV. Por renovación de registro como terceros acreditados.
+
+UMA
+
+1. Persona física 15
+
+4 (sic). Persona moral 20
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el Municipio de Boca del Río para promotores particulares, se pagará:
+
+Aforo del evento: UMA
+
+a) De 1 a 1,000 asistentes 100
+
+b) De 1,001 a 5,000 asistentes 150
+
+c) De 5,001 a 10,000 asistentes 200
+
+d) De 10,001 en adelante 250
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. Por la revisión de seguridad, a los establecimientos comerciales, industriales o de prestación de servicios, se pagará:
+
+CONCEPTO UMA
+
+Por la revisión de seguridad a los establecimientos comerciales, industriales o de prestación de servicios.
+
+a) Alto riesgo
+
+4. 1 a 166.99 metros cuadrados de superficie 24
+
+5. 167 a 332.99 metros cuadrados de superficie 26
+
+6. 333 a 500 metros cuadrados de superficie 28
+
+b) Riesgo medio
+
+4. 1 a 166.99 metros cuadrados de superficie 18
+
+5. 167 a 332.99 metros cuadrados de superficie 20
+
+6. 333 a 500 metros cuadrados de superficie 22
+
+c) Bajo riesgo
+
+8.1 a 60.99 metros cuadrados de superficie 4
+
+9.61 a 125.99 metros cuadrados de superficie 6
+
+10.126 a 190.99 metros cuadrados de superficie 8
+
+11.191 a 250.99 metros cuadrados de superficie 10
+
+12.251 a 315.99 metros cuadrados de superficie 12
+
+13.316 a 380.99 metros cuadrados de superficie 14
+
+14.381 a 500 metros cuadrados de superficie 16
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 10 UMA´S adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+En los casos en que los propietarios o representantes legales de los establecimientos comerciales, industriales o de prestación de servicios no cumplan con los requisitos mínimos de seguridad y prevención en la primera visita de inspección, las segundas y posteriores, se cobrarán al 50% de la cantidad ya pagada de acuerdo al tipo de riesgo.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VII. Por la emisión de factibilidad de Protección Civil para la instalación de antenas y/o sistemas de telecomunicación, causara derechos de 400 UMAs.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VIII. Por el visto bueno de protección civil, respecto de la revisión de seguridad de Antenas y/o instalaciones de sistemas de telecomunicación, causará derechos de 200 UMA´S.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+IX. Por el visto bueno de protección civil, respecto de la revisión de seguridad de instalaciones de todo tipo de anuncios, espectaculares y letras adosadas causará derechos de:
+
+CONCEPTO UMA´S
+
+a) Espectacular o panorámico: Anuncio estructural sobre una base armada de un tipo de metal y plasmada en diferentes superficies. Con medidas entre los 11.5 a los 13 metros de largo y de 7 a 8.5 metros de ancho. 40
+
+b) Panorámico Unipolar: Anuncio panorámico colocado sobre un solo poste con medidas entre los 7.5 a los 11 metros de largo y 7 a 8 metros de ancho. 40
+
+c) Unipolar: Anuncio que se coloca sobre un solo poste, se pueden construir en tamaños menores al panorámico y con diferente forma. 30
+
+d) Tótem o directorio: Soporte de gran dimensión vertical, puede ser exterior o interior contiene varios anuncios y puede comenzar desde el piso. 36
+
+e) Mupi: Soportes que tienen dos caras publicitarias con iluminación y son ubicados en lugares de alto tráfico peatonal o vehicular. 20
+
+f) 1. Adosados 1: Se sujeta por cualquier medio a una fachada, barda o barandilla. Medidas entre los 0.80 a 1.5 metros 30
+
+2. Adosados 2: Éste se sujeta por cualquier medio a una fachada, barda o barandilla. Medidas entre los más de 1.5 metros de altura, más de 5 metros de largo y más de 0.80 de espesor. 60
+
+g) Letras adosadas: Letras de distintos tamaños que se sujetan por cualquier medio a una fachada, barda o barandilla 6 por letra
+
+h) Bandera: Está instalado de forma perpendicular al parámetro de la fachada. Medidas hasta de 50 cm de ancho de banqueta. 10
+
+i) 1. Anuncio y/o fachada con Alucobond: Instalación con paneles compuestos de aluminio conformados por 2 láminas finas unidas a un centro termoplástico de polietileno. Medidas entre los 7.5 a los 11 metros de largo y 7 a 8 metros de ancho. 30
+
+2. Anuncio Alucobond: Con medidas mayores al anterior 60
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+X. Por la asistencia de personal especializado de la Dirección de Protección Civil a eventos socioorganizativos (eventos deportivos, conciertos, mítines, congresos, convenciones, etc.).
 
 Aforo del evento:
 
-De 1 a 1,000 asistentes: 40
+a) De 1 a 1,000 asistentes 60
 
-De 1,001 a 5,000 asistentes: 60
+b) De 1,001 a 5,000 asistentes 70
 
-De 5,001 a 10,000 asistentes: 80
+c) De 5,001 a 10,000 asistentes 85
 
-De 10,001 en adelante: 90
+d) De 10,001 en adelante 100
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XI. Por la emisión de constancia de afectación por el impacto de algún fenómeno perturbador.
+
+1. Persona física 8
+
+2. Persona moral 20
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XII. Por la emisión de No inconveniente para maniobras
+
+> <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINA 47.]</small>
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIII. Por la emisión de No inconveniente para Vehículos que transportan residuos o materiales peligrosos causara derechos por 100 UMAs.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XIV. Por la emisión de No inconveniente para Vehículos que transporten, recolección de basura de manera privada particular.
+
+1. Camión Tipo Thorton 50
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XV. Por la emisión de No inconveniente para la detonación de Pirotecnia.
+
+1. Persona física 8
+
+2. Persona moral 16
+
+E (SIC)
+
+N (sic)
+
+este caso la autoridad municipal estará facultada para incrementar el monto de acuerdo a la cantidad del material a utilizar.
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVI. Por la emisión de Constancia de Visto Bueno de Programa Interno de Protección Civil, 10 UMA´S;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVII. Las personas físicas y/o morales que incumplan lo establecido en el reglamento municipal de Protección Civil, relativo a los permisos, anuencias, pagos de derechos, dictaminaciones, infracciones y cualquier otra determinación que efectué la Dirección de Protección Civil municipal, se hará acreedor a las sanciones administrativas que dispone el Reglamento municipal de Protección Civil.
+
+En estos casos la autoridad en materia de Protección Civil tendrá la facultad de reclasificar la multa de acuerdo a la falta.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3064,6 +4028,8 @@ Son sujetos de estos derechos el propietario o poseedor del predio donde se pres
 Los derechos a que se refiere este Capítulo, por los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, así como sus servicios anexos y conexos se causarán de conformidad con lo siguiente:
 
 > <small>[N. DE E. VÉASE TABLAS EN LA G.O. DE 22 DE FEBRERO DE 2018, PÁGINAS DE LA 7 A LA 13.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN LA G.O. DE 29 DE DICIEMBRE DE 2022, PÁGINAS DE LA 48 A LA 56.]</small>
 
 > <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3095,11 +4061,53 @@ En consecuencia, el procedimiento administrativo de ejecución, que establece el
 
 Los Notarios Públicos exigirán la constancia de no adeudo en el pago de estos derechos y la última boleta o recibo de pago, correspondiente al ejercicio fiscal en que se efectúe la operación que corresponda.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO XVI. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS EN MATERIA DE MEDIO AMBIENTE Y PROTECCIÓN ANIMAL
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 247 Decies.
+
+Por los servicios prestados en materia de Medio Ambiente y Protección Animal, se causarán y cobrarán en Unidades de Medida y Actualización, los siguientes derechos:
+
+I. Por la expedición de la licencia ambiental municipal de funcionamiento, 15 UMA;
+
+II. Por la renovación anual de la licencia ambiental municipal de funcionamiento, 15 UMA;
+
+III. Por el registro al padrón de prestadores de servicios ambientales de personas físicas o morales, la cantidad de 13 UMA;
+
+IV. Por la renovación anual al padrón de prestadores de servicios ambientales de personas físicas o morales, la cantidad de 13 UMA;
+
+V. Los montos de los derechos por tala no deberán ser menor a 10 UMA y deberá incrementarse 5 UMA por cada metro de altura adicional a los ejemplares mayores de dos metros de altura; y
+
+VI. El monto por los derechos de poda no deberá ser menor a 2 UMA por ejemplar a podar.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Artículo 247 Undecies.- Con independencia de las sanciones que señalan otras disposiciones legales, la falta de cumplimiento al Reglamento de Protección al Medio Ambiente, Equilibrio Ecológico, Cultura del Agua y para la Protección y el Bienestar de los Animales, para el Municipio de Boca del Rio, Veracruz de Ignacio de la Llave, y a las determinaciones y requerimientos que con fundamento en él se dicten, dará lugar a la imposición de los siguientes medios de apremio:
+
+I. Amonestación;
+
+II. Multa por el equivalente de veinte a mil UMA, en el momento de la resolución correspondiente;
+
+III. Clausura temporal o definitiva, parcial o total;
+
+IV. Requerimiento de reubicación;
+
+V. Revocación de autorización, permisos, o licencias otorgadas;
+
+VI. Demolición de construcciones e instalaciones efectuadas en contravención a lo dispuesto por el Reglamento antes mencionado; y
+
+VII. Reposición en especie de la biomasa vegetal perdida, al tres por uno, la que deberá ser cubierta dentro del plazo de quince días hábiles contados a partir de la fecha de la resolución que se notifique por escrito al infractor.
+
+VIII. Sanción al incumplimiento de evaluación de impacto ambiental previo, por el equivalente al doble del valor de la Licencia de Construcción, o en su caso el valor que determine la Dirección como pasivo ambiental.
+
+IX. Sanciones económicas que se aplicarán por la falta de cumplimiento, violación, omisión o inobservancia de diversos ordenamientos del Reglamento de Protección al Medio Ambiente, equilibrio ecológico.
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 248.
 
@@ -3277,9 +4285,13 @@ Los productos a que se refieren las fracciones I a IV del artículo anterior se 
 
 Los bienes embargados por las autoridades municipales que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días siguientes a la fecha en que queden a disposición del adquirente o del deudor contra quien se hubiese seguido el procedimiento económico-coactivo, así como los bienes depositados por cualquier otra causa en los mismos locales, causarán por concepto de almacenaje, por períodos mensuales vencidos, las cuotas siguientes:
 
-I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 salarios mínimos; y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 salarios mínimos.
+I. Por metro cuadrado o fracción, que ocupen los bienes almacenados, hasta una altura de dos metros, por día, 0.02 UMA´S; y
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+II. Los semovientes depositados en predios propiedad del Municipio, diariamente por cabeza, 0.04 UMA´S
 
 Además de las cuotas que señala esta fracción, se cobrará el importe de la manutención y el gasto del cuidado de los animales depositados.
 
@@ -3337,7 +4349,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 269.
 
@@ -3371,7 +4383,17 @@ XIII. Proponer al Presidente el nombramiento o remoción de los servidores públ
 
 XIV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
 
-XV. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XV. Ordenar y practicar visitas domiciliarias, auditorías, inspecciones, actos de vigilancia, verificaciones y demás actos que establezcan las disposiciones fiscales, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones municipales, incluyendo los que se causen por derechos, contribuciones de mejoras, aprovechamientos, estímulos fiscales; solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos, para planear y programar actos de fiscalización;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVI. Notificar por conducto del personal que se designe para el efecto los actos relacionadas con el ejercicio de las facultades de comprobación, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+XVII. Las demás que expresamente le otorguen este Código, la Ley Orgánica del Municipio Libre y demás leyes del Estado.
 
 ###### Artículo 270.
 
@@ -3397,7 +4419,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO II. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 274.
 
@@ -3417,7 +4439,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
+### CAPÍTULO III. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 277.
 
@@ -3429,7 +4451,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO IV. DE LAS GARANTÍAS A FAVOR O A CARGO DEL MUNICIPIO
 
 ###### Artículo 278.
 
@@ -3459,7 +4481,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
+### CAPÍTULO V. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 283.
 
@@ -3529,7 +4551,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
+### CAPÍTULO VI. DE LA COLABORACIÓN ADMINISTRATIVA
 
 ###### Artículo 294.
 
@@ -3547,7 +4569,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO II. DEL GASTO PÚBLICO
+### CAPÍTULO I. DEL PRESUPUESTO DE EGRESOS
 
 #### SECCIÓN I. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO DE EGRESOS
 
@@ -3661,7 +4683,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
+### CAPÍTULO II. DEL GASTO PÚBLICO
 
 #### SECCIÓN ÚNICA. DEL EJERCICIO DEL GASTO PÚBLICO MUNICIPAL
 
@@ -3721,7 +4743,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del Congreso.
 
-### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
+### CAPÍTULO III. DE LA ADMINISTRACIÓN DE LOS RECURSOS
 
 #### SECCIÓN I. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
@@ -3901,7 +4923,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
+### CAPÍTULO IV. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
@@ -4093,7 +5115,7 @@ El Ayuntamiento presentará al Congreso, para su estudio, dictamen y aprobación
 
 De no presentar en tiempo la cuenta pública al Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO I. DISPOSICIONES PRELIMINARES
+### CAPÍTULO V. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
 #### SECCIÓN I. DEL CONTROL Y EVALUACIÓN
 
@@ -4257,7 +5279,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 397.
 
@@ -4321,7 +5343,7 @@ También se considera deuda extraordinaria la que autorice el H. Congreso del Es
 
 Las entidades públicas a que se refieren las fracciones II a IV del artículo 398, contratarán su deuda pública, con base en las autorizaciones específicas del Congreso.
 
-### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
+### CAPÍTULO II. DE LAS FACULTADES DE LAS AUTORIDADES EN MATERIA DE DEUDA
 
 ###### Artículo 404.
 
@@ -4401,7 +5423,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
+### CAPÍTULO III. DE LA PROGRAMACIÓN DE LA DEUDA PÚBLICA
 
 ###### Artículo 408.
 
@@ -4435,9 +5457,7 @@ XII. Los demás requisitos que fije el Congreso.
 
 El Ayuntamiento, al someter al Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE LOS FINANCIAMIENTOS
 
 ###### Artículo 410.
 
@@ -4501,7 +5521,9 @@ Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
+### CAPÍTULO V. DE LAS GARANTÍAS Y FUENTES DE PAGO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE JULIO DE 2008)</small>
 
 ###### Artículo 420.
 
@@ -4545,7 +5567,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
+### CAPÍTULO VI. DE LA VIGILANCIA Y REGISTRO DE LAS OPERACIONES DE FINANCIAMIENTO
 
 ###### Artículo 423.
 
@@ -4633,7 +5655,7 @@ Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismo
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 25 DE JULIO DE 2008)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VII. DE LA AFECTACIÓN DE INGRESOS DERIVADOS DE LA COORDINACIÓN FISCAL
 
 ###### Artículo 434.
 
@@ -4661,7 +5683,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 436.
 
@@ -4753,9 +5775,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO III. DEL INVENTARIO
-
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 444.
 
@@ -4785,7 +5805,9 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO I. DE LOS BIENES MUEBLES
+### CAPÍTULO III. DEL INVENTARIO
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 445.
 
@@ -4823,7 +5845,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPÍTULO II. DE LOS BIENES INMUEBLES
+### CAPÍTULO I. DE LOS BIENES MUEBLES
 
 ###### Artículo 449.
 
@@ -4833,7 +5855,7 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
 
-### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
+### CAPÍTULO II. DE LOS BIENES INMUEBLES
 
 ###### Artículo 451.
 
@@ -5048,6 +6070,8 @@ IV. Transcurrido el término señalado en la fracción II, y no existiendo oposi
 V. El acuerdo declarativo será publicado por única vez en la tabla de avisos del Palacio Municipal y en la Gaceta Oficial del estado, remitiéndose copia certificada del acuerdo de adquisición al Registro Público de la Propiedad y del Comercio que corresponda, para que se inscriba por primera vez como título de propiedad a favor del municipio.
 
 ## TÍTULO TERCERO
+
+### CAPÍTULO ÚNICO. DE LA RESCISIÓN ADMINISTRATIVA
 
 ###### Artículo 478.
 
@@ -5264,3 +6288,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 464 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
