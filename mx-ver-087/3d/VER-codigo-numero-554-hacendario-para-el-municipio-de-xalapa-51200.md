@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-554-hacendario-para-el-municipio-de-xalapa-51200"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2021-03-11"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -97,9 +97,9 @@ En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán a
 
 IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-V. Cédula de Empadronamiento: Documento expedido por la Dirección de Desarrollo Económico que autoriza a su titular la operación de unidades productivas con actividad económica de bajo riesgo (Giro comercial tipo A);
+V. Cédula de Empadronamiento: Documento expedido por la Tesorería Municipal que autoriza a su titular la operación de unidades productivas con actividad económica de bajo riesgo (Giro comercia (sic) tipo A);
 
 VI. Cédula del Registro Único Catastral: Documento que acredita la inscripción de un bien inmueble en el Catastro Municipal y consigna sus características cualitativas y cuantitativas más relevantes;
 
@@ -145,9 +145,9 @@ XXI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito f
 
 XXII. Ley de Ingresos: La Ley de Ingresos del Municipio de Xalapa correspondiente al ejercicio fiscal del año de que se trate;
 
-> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-XXIII. Licencia de Funcionamiento: Documento expedido por la Dirección de Desarrollo Económico que permite el funcionamiento de unidades productivas con actividad económica de mediano riesgo (Giro comercial tipo B), alto riesgo (Giro comercial tipo C) o riesgo potencial (Giro comercial tipo C+);
+XXIII. Licencia de Funcionamiento: Documento expedido por la Tesorería Municipal que permite el funcionamiento de unidades productivas con actividad económica de mediano riesgo (Giro comercial tipo B), alto riesgo (Giro comercial tipo C) o riesgo potencial (Giro comercial tipo C+);
 
 > <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -1601,19 +1601,15 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos, de que el contribuyente resida en el inmueble y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y éste no haya transmitido la propiedad del mismo a terceros y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-Las personas mayores de sesenta años, o las personas con discapacidad, contribuyentes de este municipio, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo.
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
-
-El Ayuntamiento, por acuerdo del Cabildo, podrá otorgar igualmente el descuento del cincuenta por ciento en el pago de esta contribución a las familias monoparentales primarias y secundarias, siempre que reúnan los requisitos señalados en el párrafo anterior. En este caso, la tesorería municipal informará al Congreso del Estado y al Órgano de Fiscalización Superior sobre el acuerdo referido.
+Las personas mayores de sesenta años, madres solteras, personas con discapacidad y víctimas indirectas de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como familias monoparentales primarias y secundarias, que sea (sic) contribuyentes de este impuesto, también derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
 
 A este descuento no se podrá adicionar el previsto en el artículo 119 de este Código.
 
-> <small>(REFORMADO, G.O. 30 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que se actualizará en los meses de octubre y noviembre de cada año.
+La Tesorería Municipal llevará un padrón de estos contribuyentes, mismo que se actualizará durante el periodo comprendido de los meses de octubre a noviembre de cada año.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2021)</small>
 
@@ -2309,19 +2305,29 @@ Cuando la ley establezca la obligación de pago de un refrendo de permisos, lice
 
 Es objeto de este derecho el otorgamiento de la licencia de funcionamiento, permiso o autorización, registro o refrendo a negociaciones, giros o actividades económicas, cuya reglamentación y vigilancia corresponda a la autoridad municipal.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 197.
 
-Las y los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Dirección de Desarrollo Económico y obtener la cédula respectiva y, en su caso, licencia de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar. Dicha cédula de empadronamiento o licencia de funcionamiento se mantendrá vigente, hasta en tanto no se configure alguna de las causales de baja previstas en los ordenamientos aplicables, cambio de giro o de domicilio, excepto para los giros que implican la enajenación o expendio de bebidas alcohólicas, en cuyo caso la vigencia de la cédula de empadronamiento de la licencia será de un año, debiéndose refrendar durante el mes de enero de cada ejercicio fiscal.
+Las y los propietarios de negociaciones comerciales, industriales, de prestación de servicios y, en general, de toda actividad económica, deberán empadronarse en la Tesorería Municipal y obtener la cédula respectiva y, en su caso, la licencia de funcionamiento que corresponda, ya sea que sus actividades las realicen en tiendas abiertas al público, en despachos, almacenes, bodegas, interior de casas o edificios o en cualquier otro lugar.
 
-Los derechos a que se refiere este artículo se causarán y pagarán en UMAs, de conformidad con la Ley de Ingresos.
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Las Cédulas de empadronamiento y/o Licencia de Funcionamiento deberán refrendarse durante el mes de enero de cada ejercicio fiscal, por lo que, en caso de su omisión, la autoridad municipal procederá a la sanción correspondiente y en su caso, a la clausura del establecimiento comercial.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+Dicha Cédula de empadronamiento o licencia de funcionamiento, se mantendrá vigente durante el ejercicio fiscal correspondiente, hasta en tanto no se configure alguna de las causales de baja, previstas en los ordenamientos aplicables, así como: cambio de giro o de domicilio, traspaso, cambio de razón social, suspensión temporal, cese de actividades y en general cualquier modificación a las condiciones de funcionamiento del establecimiento comercial por las que se otorgó originalmente.
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
 
+Los derechos a que se refiere este artículo se causarán y pagarán en UMAs, de conformidad con la Ley de Ingresos.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 198.
 
-El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Dirección de Desarrollo Económico, de conformidad con los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
+El inicio de actividades, la ampliación o el cambio de giro de los establecimientos o locales a los que se refiere el artículo anterior, serán autorizados por la Tesorería Municipal, de conformidad con los requisitos y procedimientos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo.
 
 ###### Artículo 199.
 
@@ -3421,9 +3427,9 @@ Las personas que utilicen espacios en mercados, así como en tianguis, deberán 
 
 Los derechos por la ocupación de espacios se calcularán y pagarán en UMAs, por los conceptos siguientes:
 
-> <small>(REFORMADA, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-I. La ocupación de espacios en mercados municipales se pagará mensualmente por metro cuadrado o fracción; las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
+I. La ocupación de planchas, alacenas o similares espacios en mercados municipales se calculará y pagará mensualmente, por la superficie en uso, con base en las cuotas, tasas o tarifas previstas en la Ley de Ingresos de cada ejercicio fiscal; los sujetos de esta contribución que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y en este caso obtendrán un descuento del diez por ciento, con independencia del tipo de espacio que se ocupe. Para las altas, traspasos, cambio de propietario, ampliaciones de giro y arreglo o modificaciones de espacios en los mercados municipales, se efectuará de conformidad con la normatividad municipal aplicable, previamente autorizada por el Ayuntamiento.
 
 > <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -3433,9 +3439,21 @@ II. La ocupación de espacios en vía pública o áreas municipales, exceptuando
 
 III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción; y
 
-> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, por hora o fracción.
+IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, por hora o fracción;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+V. Por la ocupación o uso de sanitarios públicos ubicados en inmuebles o áreas municipales, se causarán y pagarán conforme a las cuotas, tasas o tarifas que, para cada caso, señale la Ley de Ingresos del Municipio, del ejercicio fiscal correspondiente; y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+VI. Por la ocupación temporal de inmuebles de propiedad municipal, en donde se presenten espectáculos públicos o similares, se causarán y pagarán conforme a las cuotas, tasas o tarifas que, para cada caso, señale la Ley de Ingresos del Municipio, del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+El pago de estas contribuciones, son independientes del pago que deben realizarse por concepto de los impuestos municipales que resulten aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3597,11 +3615,17 @@ II. Las comprendidas en la fracción II, ochenta y cinco por ciento; y
 
 III. Las comprendidas en las fracciones III a VII:
 
-a) Si las obras son realizadas en avenidas o calles de circulación intensa de vehículos o personas, cincuenta por ciento;
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
-b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas setenta y cinco por ciento;
+a) Si las obras son realizadas en avenidas o calles de circulación intensa de vehículos o personas, hasta el cincuenta por ciento;
 
-c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios ochenta y cinco por ciento.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+b) Si las obras son realizadas en avenidas o calles de zonas residenciales de menor circulación de vehículos o personas hasta el setenta y cinco por ciento; y
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
+
+c) Si las obras son realizadas en calles que sean utilizadas preponderantemente por quienes habiten los predios hasta el ochenta y cinco por ciento.
 
 ###### Artículo 255.
 
@@ -3703,11 +3727,11 @@ Sólo los bienes del dominio público de la Federación, de los Estados o de los
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 262.
 
-Quedan comprendidos como productos, los ingresos que deriven del patrimonio del Ayuntamiento y los que obtenga, en funciones de derecho privado, mismos que se causarán y pagarán ante la Tesorería, en términos de lo previsto por este Capítulo.
+Quedan comprendidos como productos, los ingresos que deriven del patrimonio del Ayuntamiento y los que obtenga, en funciones de derecho privado, mismo que se causarán y pagarán ante la Tesorería conforme a la Ley de Ingresos del Municipio vigente, en término (sic) de lo previsto por este Capítulo.
 
 ###### Artículo 263.
 
@@ -5600,3 +5624,13 @@ G.O. 11 DE MARZO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 466 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE XALAPA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Las solicitudes presentadas con antelación a la entrada en vigor del presente Decreto, se realizarán en las formas y procedimientos vigentes al momento de presentada dicha solicitud.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
