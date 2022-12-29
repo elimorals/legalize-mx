@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2022-12-09"
+last_updated: "2022-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2022.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -2313,23 +2313,21 @@ Al responsable de este delito se le impondrá prisión de tres meses a cinco añ
 
 ### CAPÍTULO IX. ENRIQUECIMIENTO ILÍCITO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 255.
 
-Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando se acredite el ilegítimo aumento del patrimonio de la o el servidor público o se acredite la ilegítima procedencia de bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
-Asimismo, incurre en responsabilidad penal, quien haga figurar como suyos bienes que el Servidor Público adquiera o haya adquirido en contravención a lo dispuesto en la misma Ley, a sabiendas de esta circunstancia.
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran las personas servidoras públicas o con respecto de los cuales se conduzcan como dueños, los que reciban y los que dispongan su cónyuge o sus dependientes económicos directos, siempre que se acredite que el cónyuge o sus dependientes económicos directos no los obtuvieron por sí mismos.
 
 Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-I. Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit;
+I. Decomiso en beneficio del Estado, de aquellos bienes cuya procedencia sea ilegítima;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de tres meses a seis años de prisión, multa de treinta a trescientas veces la Unidad de Medida y Actualización al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión pública, y
 
-II. Cuando el monto a que ascienda el enriquecimiento ilícito no exceda el equivalente a cinco mil veces el salario, se impondrá de tres meses a seis años de prisión y multa de treinta a trescientos días al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión pública, y
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario, se impondrá de dos a catorce años de prisión, multa de trescientos a quinientas veces la Unidad de Medida y Actualización diaria y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública.
+III. Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la Unidad de Medida y Actualización, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces la Unidad de Medida y Actualización al momento de cometerse el delito y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública.
 
 ### CAPÍTULO X. TRÁFICO DE INFLUENCIAS
 
@@ -4858,3 +4856,9 @@ P.O. 9 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, RESPECTO AL TIPO PENAL DE FEMINICIDIO CON RELACIÓN A SUS AGRAVANTES DE TENTATIVA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 29 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 255 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DEL DELITO DE ENRIQUECIMIENTO ILÍCITO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
