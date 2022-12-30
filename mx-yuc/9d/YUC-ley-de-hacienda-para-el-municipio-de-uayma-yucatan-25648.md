@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-uayma-yucatan-25648"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2022-06-22"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -633,6 +633,8 @@ I. Valores unitarios de terreno:
 
 > <small>[N. DE E. VÉASE TABLAS EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINAS DE LA 7 A LA 8.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LAS TABLAS EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 115.]</small>
+
 II. Valores unitarios de construcción:
 
 > <small>[N. DE E. VÉASE TABLAS EN LA EDICIÓN VESPERTINA DEL D.O. DE 22 DE JUNIO DE 2022, PÁGINA 8.]</small>
@@ -907,7 +909,9 @@ Para el caso de que el manifiesto no expresare el número de inscripción al Reg
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de 2 a 10 UMA.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este artículo, serán sancionados con una multa de 100 a 200 UMA.
 
 Los jueces o presidentes de los centros de conciliación y registro laboral federales o estatales únicamente tendrán la obligación de comunicar a la dirección, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
@@ -1053,9 +1057,9 @@ No serán exigibles los impuestos y derechos a que se refiere la presente Ley cu
 
 Los derechos que de manera general se establecen en esta Ley podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado.
 
-### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTA LA DIRECCION DE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-DESARROLLO URBANO
+### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE OBRA PÚBLICA Y DESARROLLO URBANO
 
 DE LOS SUJETOS
 
@@ -1065,9 +1069,11 @@ Son sujetos obligados al pago de derechos, por los servicios que presta la Direc
 
 DE LA CLASIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 80.
 
-Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano, consistentes en:
+Los sujetos pagarán los derechos por los servicios que soliciten a la (sic) Direcciones de Obra Públicas y de Desarrollo Urbano y demás dependencias vinculadas, consistentes en:
 
 a) Licencia de construcción
 
@@ -1102,6 +1108,22 @@ n) Licencia de uso de suelo para banco de materiales.
 > <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 ñ) Constancia de análisis de Factibilidad de Uso de Suelo para el establecimiento de bancos de explotación de materiales.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+o) Licencia de uso de suelo para Desarrollos inmobiliarios que por sus características físicas o su régimen de la propiedad se constituyan en fraccionamientos o división de lotes.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+p) Constancia de análisis de Factibilidad de Uso de Suelo para el establecimiento de granjas de cualquier tipo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+q) Licencia de uso de suelo para granjas de cualquier tipo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+r) Dictamen de protección civil.
 
 DE LAS BASES
 
@@ -1141,11 +1163,13 @@ Los inmuebles que se encuentren catalogados como Monumentos Históricos por el I
 
 DE LA TARIFA
 
-> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 83.
 
-Por los servicios que preste el ayuntamiento en materia de desarrollo urbano, por conducto de la unidad administrativa correspondiente, se pagarán derechos conforme a las siguientes tarifas:
+Por los servicios que preste el ayuntamiento en materia de obra pública y desarrollo urbano, por conducto de la unidad administrativa correspondiente, se pagarán derechos conforme a las siguientes tarifas:
+
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
 
 I. La tarifa del derecho por el servicio previsto en el artículo 80, inciso a) de esta Ley se pagará por metro cuadrado, conforme lo siguiente:
 
@@ -1169,6 +1193,8 @@ Clase 3 .14 UMA
 
 Clase 4 .16 UMA
 
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
+
 II. La tarifa del derecho por el servicio previsto en el artículo 80, inciso b), de esta Ley se pagará por metro cuadrado, conforme lo siguiente:
 
 a) Para las construcciones Tipo A:
@@ -1190,6 +1216,8 @@ Clase 2 .03 UMA
 Clase 3 .035 UMA
 
 Clase 4 .04 UMA
+
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
 
 III. La tarifa del derecho por el servicio previsto en el artículo 80, inciso k), de esta Ley se pagará por predio resultante, conforme lo siguiente:
 
@@ -1213,6 +1241,8 @@ Clase 3 .04 UMA
 
 Clase 4 .06 UMA
 
+> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2022)</small>
+
 IV. La tarifa del derecho por los servicios previstos en los demás incisos del artículo 80 de esta Ley se pagara, conforme a lo siguiente:
 
 Por el servicio previsto en el inciso c) .04 UMA por m2
@@ -1235,9 +1265,31 @@ Por el servicio previsto en el inciso l) .50 UMA por m3
 
 Por el servicio previsto en el inciso m) .1 UMA por m2
 
-Por el servicio previsto en el inciso n) 520 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Por el servicio previsto en el inciso ñ) 60 UMA
+Por el servicio previsto en el inciso n) 0.07 UMA por m2
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el servicio previsto en el inciso ñ) 720 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el servicio previsto en el inciso o) 0.05 UMA por m2
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el servicio previsto en el inciso p) 500 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el servicio previsto en el inciso q) 0.10 UMA por m2
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el servicio previsto en el inciso r) 100 UMA
+
+> <small>(REFORMADO, D.O. 22 DE JUNIO DE 2022)</small>
 
 Las construcciones, excavaciones, demoliciones y demás obras o trabajos iniciados o llevados a cabo sin la licencia, autorización o constancia correspondiente, se entenderán extemporáneos y pagarán una sanción correspondiente a tres tantos el importe de la tarifa respectiva.
 
@@ -1695,11 +1747,17 @@ ARTÍCULO 111 K.- El cobro de derechos por el otorgamiento de licencias y permis
 
 I. Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la venta de bebidas alcohólicas:
 
-a) Vinaterías y licorerías 400 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b) Expendios de cerveza 400 UMA
+a) Vinaterías y licorerías 600 UMA
 
-c) Supermercados y mini súper con departamento de licores 500 UMA
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+b) Expendios de cerveza 600 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+c) Supermercados y mini súper con departamento de licores 800 UMA
 
 II. Por permisos eventuales para el funcionamiento de establecimientos cuyo giro sea la venta de bebidas alcohólicas se pagará una cuota de: 10 UMA.
 
@@ -1717,9 +1775,13 @@ a) Cantinas y bares 250 UMA
 
 b) Restaurantes-bar 450 UMA
 
-V. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción I) de este artículo, se pagarán 271 UMA.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VI. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción IV) de este artículo, se pagará la tercera parte de la tarifa.
+V. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción I) de este artículo, se pagará la mitad de la tarifa establecida.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en la fracción IV) de este artículo, se pagará la tercera parte de la tarifa establecida.
 
 En cumplimiento a lo dispuesto por el artículo 10-A de la Ley de Coordinación Fiscal Federal, el cobro de los derechos a que se refiere este artículo, no condiciona el ejercicio de las actividades comerciales, industriales o de prestación de servicios.
 
@@ -1767,11 +1829,19 @@ IV. Bodegas de todo tipo; casas de empeños; centros de servicio automotriz; est
 
 V. Clínicas; escuelas particulares; establecimientos para la compraventa de oro y plata; fábricas y maquiladoras de hasta veinte empleados; hospitales hostales; hoteles 1 a 5; moteles; mueblerías; y oficinas de servicios de sistemas de televisión 100 UMA
 
-VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca 250 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Hoteles de Vocación turística: Boutique, Hacienda o Lujo. 500 UMA
+VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca; minisúper. 550 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. Hoteles de vocación turística: boutique, hacienda o lujo. 800 UMA
 
 VIII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental 700 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX. Bodegas industriales, bancos de materiales, granjas de cualquier tipo. 1000 UMA
 
 > <small>(ADICIONADO, D.O. 22 DE JUNIO DE 2022)</small>
 
@@ -1787,11 +1857,19 @@ IV. Bodegas de todo tipo; casas de empeños; centros de servicio automotriz esta
 
 V. Clínicas; escuelas particulares; establecimientos para la compraventa de oro y plata; fábricas y maquiladoras de hasta veinte empleados; hospitales; hostales; hoteles 1 a 5; moteles; mueblerías; y oficinas de servicios de sistemas de televisión 50.00 UMA
 
-VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca 125.00 UMA
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Hoteles de Vocación turística: Boutique, Hacienda o Lujo 250.00 UMA
+VI. Agencias de automóviles nuevos; bancos, centros cambiarios e instituciones financieras; cinemas; fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca; minisúper. 275.00 UMA
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. Hoteles de Vocación turística: Boutique, Hacienda o Lujo 400.00 UMA
 
 VIII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental 350.00 UMA
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX. Bodegas industriales, bancos de materiales, granjas de cualquier tipo. 700 UMA
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2184,3 +2262,13 @@ Artículo primero. Este decreto entrará en vigor el día de su publicación en 
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación (sic) en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
