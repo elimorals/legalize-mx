@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-139681"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-12-30"
-last_updated: "2019-12-30"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Código publicado en la Novena Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -110,6 +110,10 @@ V. Titulares de las direcciones de área, coordinadores, jefes de oficina autori
 VI. Los organismos autorizados para la administración y recaudación de ingresos públicos, en el desempeño de dichas funciones, así como los servidores públicos federales y municipales, cuando los convenios de colaboración celebrados así lo prevengan; y
 
 VII. Quienes conforme a la normatividad fiscal del estado de Guanajuato ejerzan facultades en materia fiscal establecidas en el presente Código y en la demás normatividad fiscal, en el ámbito de sus respectivas competencias, así como las que tengan facultades para determinar, recaudar, administrar y verificar ingresos públicos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Podrán ser auxiliares en materia fiscal del Servicio de Administración Tributaria del Estado de Guanajuato, la Secretaría de Medio Ambiente y Ordenamiento Territorial, la Comisión Estatal del Agua de Guanajuato, así como cualquier ente federal o municipal respecto a los impuestos ecológicos de remediación ambiental.
 
 Las facultades y competencia de las autoridades fiscales se regirán por la normatividad fiscal del estado de Guanajuato.
 
@@ -763,17 +767,25 @@ Las autoridades fiscales devolverán las cantidades pagadas indebidamente y las 
 
 Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor cuando se haya presentado la declaración del ejercicio, salvo que se trate del cumplimiento de una resolución o sentencia firmes, de autoridad competente, en cuyo caso, podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de (sic) acto de autoridad, el derecho a la devolución en los términos de este artículo, nace cuando dicho acto se anule. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del décimo quinto párrafo de este artículo
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Si el pago de lo indebido se hubiera efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución en los términos de este artículo nace cuando dicho acto se anule. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del décimo cuarto párrafo de este artículo.
 
 Cuando en una solicitud de devolución existan errores en los datos contenidos en la misma, la autoridad requerirá al contribuyente para que mediante escrito y en un plazo de diez días aclare dichos datos, apercibiéndolo que, de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. En este supuesto no será necesario presentar una nueva solicitud cuando los datos erróneos sólo se hayan consignado en la solicitud o en los anexos. Dicho requerimiento suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día hábil siguiente en que surta efectos la notificación del requerimiento y la fecha en que se atienda el requerimiento.
 
-Cuando se solicite la devolución, esta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, así como los demás informes y documentos que acrediten la procedencia de la misma, incluyendo para el caso de depósito en cuenta, los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesario y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días, contado a partir del día siguiente al que surta efectos la notificación de dicho requerimiento, y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos, antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación de los plazos para la devolución antes mencionados.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando se solicite la devolución, esta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, así como los demás informes y documentos que acrediten la procedencia de la misma, incluyendo de manera preferente el depósito en cuenta, aportando los datos de la institución integrante del sistema financiero y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días, contado a partir del día siguiente al que surta efectos la notificación de dicho requerimiento, y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos, antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el primer requerimiento de los mismos y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, ya sea con motivo del primer o segundo requerimiento, no se considerará en el cómputo del plazo para la devolución antes mencionada.
 
 Cuando en la solicitud de devolución únicamente existan errores aritméticos en la determinación de la cantidad solicitada, las autoridades fiscales devolverán las cantidades que correspondan, sin que sea necesario presentar una declaración complementaria. Las autoridades fiscales podrán devolver una cantidad menor a la solicitada por los contribuyentes con motivo de la revisión efectuada a la documentación aportada. En este caso, la solicitud se considerará negada por la parte que no sea devuelta, salvo que se trate de errores aritméticos o de forma. En el caso de que las autoridades fiscales devuelvan la solicitud de devolución a los contribuyentes, se considerará que esta fue negada en su totalidad. Para tales efectos, las autoridades fiscales deberán fundar y motivar las causas que sustentan la negativa parcial o total de la devolución respectiva.
 
-No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes, y documentos, a que se refiere el párrafo anterior, pudiendo ejercerlas en cualquier momento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Cuando con motivo de la solicitud de devolución la autoridad fiscal inicie facultades de comprobación con el objeto de comprobar la procedencia de la misma, los plazos a que hace referencia el párrafo sexto del presente artículo se suspenderán hasta que se emita la resolución en la que se resuelva la procedencia o no de la solicitud de devolución. El citado ejercicio de las facultades de comprobación se sujetará al procedimiento establecido en el artículo 44 de este Código.
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes, y documentos, a que se refiere al (sic) quinto párrafo del presente artículo, pudiendo ejercerlas en cualquier momento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando con motivo de la solicitud de devolución la autoridad fiscal inicie facultades de comprobación con el objeto de comprobar la procedencia de la misma, los plazos a que hace referencia el párrafo quinto del presente artículo se suspenderán hasta que se emita la resolución en la que se resuelva la procedencia o no de la solicitud de devolución. El citado ejercicio de las facultades de comprobación se sujetará al procedimiento establecido en el artículo 44 de este Código.
 
 Si concluida la revisión efectuada en el ejercicio de facultades de comprobación para verificar la procedencia de la devolución, se autoriza esta, la autoridad efectuará la devolución correspondiente dentro de los diez días siguientes a aquel en el que se notifique la resolución respectiva. Cuando la devolución se efectúe fuera del plazo mencionado se pagarán intereses que se calcularán conforme a lo dispuesto en el artículo 41 de este Código.
 
@@ -783,17 +795,21 @@ Cuando en el acto administrativo que autorice la devolución se determinen corre
 
 El monto de la devolución de la actualización a que se refiere el párrafo anterior, deberá ponerse, en su caso, a disposición del contribuyente dentro de un plazo de cuarenta días siguientes a la fecha en la que se presente la solicitud de devolución correspondiente; cuando la entrega se efectúe fuera del plazo mencionado, las autoridades fiscales pagarán intereses que se calcularán conforme a lo dispuesto en el artículo 41 de este Código. Dichos intereses se calcularán sobre el monto de la devolución actualizado por el periodo comprendido entre el mes en que se puso a disposición del contribuyente la devolución correspondiente y el mes en que se ponga a disposición del contribuyente la devolución de la actualización.
 
-Cuando las autoridades fiscales procedan a la devolución sin ejercer las facultades de comprobación a que se hace referencia en el párrafo noveno del presente artículo, la orden de devolución no implicará resolución favorable al contribuyente, quedando a salvo las facultades de comprobación de la autoridad. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 38 de este Código, sobre las cantidades actualizadas, tanto por las devueltas indebidamente como por las de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando las autoridades fiscales procedan a la devolución sin ejercer las facultades de comprobación a que se hace referencia en el párrafo octavo del presente artículo, la orden de devolución no implicará resolución favorable al contribuyente, quedando a salvo las facultades de comprobación de la autoridad. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 38 de este Código, sobre las cantidades actualizadas, tanto por las devueltas indebidamente como por las de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal. Para estos efectos, la solicitud de devolución que presente el particular, se considera como gestión de cobro que interrumpe la prescripción, excepto cuando el particular se desista de la solicitud.
 
 La devolución podrá hacerse de oficio o a petición del interesado.
 
-El SATEG, mediante disposiciones de carácter general, podrá establecer los casos en los que no obstante que se ordene el ejercicio de las facultades de comprobación a que hace referencia el párrafo noveno del presente artículo, regirán los plazos establecidos por el párrafo sexto del mismo, para efectuar la devolución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+El SATEG, mediante disposiciones de carácter general, podrá establecer los casos en los que no obstante que se ordene el ejercicio de las facultades de comprobación a que hace referencia el párrafo octavo del presente artículo, regirán los plazos establecidos por el párrafo quinto del mismo, para efectuar la devolución.
 
 Los requerimientos a que se refiere este artículo se formularán por la autoridad fiscal en documento digital que se notificará al contribuyente a través del buzón tributario, el cual deberá atenderse por los contribuyentes mediante este medio de comunicación.
 
-Tratándose de saldos a favor que el contribuyente otorgue como garantía del interés fiscal, la actualización y los intereses a cargo del fisco estatal dejarán de generarse en el momento en que la autoridad fiscal la acepte.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Intereses por devoluciones fuera de plazo
 
@@ -833,9 +849,11 @@ Los contribuyentes que tengan cantidades a su favor cuyo monto sea igual o super
 
 Procedimiento de las revisiones para verificar la procedencia de la devolución
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 44.
 
-Para verificar la procedencia de la devolución a que se refiere el octavo párrafo del artículo 40 de este Código, la autoridad fiscal podrá ejercer las facultades de comprobación establecidas en las fracciones II o III del artículo 71 de este Código, por cada solicitud de devolución presentada por el contribuyente, aun cuando se encuentre referida a las mismas contribuciones, aprovechamientos y periodos, conforme a lo siguiente:
+Las facultades de comprobación, para verificar la procedencia de la devolución a que se refiere el octavo párrafo del artículo 40 de este Código, se realizarán mediante el ejercicio de las facultades establecidas en las fracciones II o III del artículo 71 de este Código. La autoridad fiscal podrá ejercer las facultades de comprobación a que se refiere este precepto por cada solicitud de devolución presentada por el contribuyente, aun cuando se encuentre referida a las mismas contribuciones, aprovechamientos y periodos, conforme a lo siguiente:
 
 I. El ejercicio de las facultades de comprobación deberá concluir en un plazo máximo de noventa días contados a partir de que se notifique a los contribuyentes el inicio de dichas facultades. En el caso en el que la autoridad, para verificar la procedencia de la devolución, deba requerir información a terceros relacionados con el contribuyente, el plazo para concluir el ejercicio de facultades de comprobación será de ciento ochenta días contados a partir de la fecha en la que se notifique a los contribuyentes el inicio de dichas facultades. Estos plazos se suspenderán en los mismos supuestos establecidos en el artículo 76 de este Código;
 
@@ -843,11 +861,21 @@ II. La facultad de comprobación a que se refiere este precepto se ejercerá ún
 
 III. En el caso de que la autoridad solicite información a terceros relacionados con el contribuyente sujeto a revisión, deberá hacerlo del conocimiento de este último;
 
-IV. Si existen varias solicitudes del mismo contribuyente respecto de una misma contribución, la autoridad fiscal podrá emitir una sola resolución;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V. En caso de que las autoridades fiscales no concluyan el ejercicio de las facultades de comprobación a que se refiere el presente artículo en los plazos establecidos en la fracción I, quedarán sin efecto las actuaciones que se hayan practicado, debiendo pronunciarse sobre la solicitud de devolución con la documentación que cuente; y
+IV. Si existen varias solicitudes del mismo contribuyente respecto de una misma contribución, la autoridad fiscal podrá ejercer facultades por cada una o la totalidad de so licitudes y podrá emitir una sola resolución;
 
-VI. Al término del plazo para el ejercicio de facultades de comprobación iniciadas a los contribuyentes, la autoridad deberá emitir la resolución que corresponda y deberá notificarlo al contribuyente dentro de un plazo no mayor a diez días hábiles siguientes. En caso de ser favorable la autoridad efectuará la devolución correspondiente dentro de los diez días siguientes a aquel en el que se notifique la resolución respectiva. En el caso de que la devolución se efectué fuera del plazo mencionado se pagarán los intereses que se calcularán conforme a lo dispuesto en el artículo 41 de este Código.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. En caso de que las autoridades fiscales no concluyan el ejercicio de las facultades de comprobación a que se refiere el presente artículo en los plazos establecidos en la fracción I, quedarán sin efecto las actuaciones que se hayan practicado, debiendo pronunciarse sobre la solicitud de devolución con la documentación que cuente;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. Concluido el ejercicio de las facultades de comprobación a que hace referencia la fracción I de este artículo, la autoridad deberá otorgar al contribuyente un plazo de veinte días contados a partir del día siguiente al que surta efectos la notificación de la última acta parcial u oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones conocidos durante la revisión; y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. Al término del plazo para el ejercicio de las facultades de comprobación iniciadas a los contribuyentes, la autoridad deberá emitir la resolución que corresponda y deberá notificarlo al contribuyente dentro de un plazo no mayor a veinte días siguientes. En caso de ser favorable la autoridad efectuará la devolución correspondiente dentro de los diez días siguientes a aquel en el que se notifique la resolución respectiva. En el caso de que la devolución se efectué fuera del plazo mencionado se pagarán los intereses que se calcularán conforme a lo dispuesto en el artículo 41 de este Código.
 
 Compensaciones
 
@@ -1213,7 +1241,9 @@ Los sujetos establecidos en el primer párrafo de este artículo que tengan a su
 
 Los particulares que tengan derecho al otorgamiento de subsidio o estímulos y que se ubiquen en los supuestos de las fracciones I y II de este artículo, no se consideran comprendidos en dichos supuestos cuando celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo. Cuando se ubiquen en los supuestos de las fracciones III, IV y VIII, los particulares contarán con un plazo de quince días para corregir su situación fiscal, a partir del día siguiente a aquel en que la autoridad les notifique la irregularidad detectada.
 
-Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la constancia de cumplimiento de las obligaciones fiscales del subcontratante, que se obtiene a través de la página de Internet del SATEG.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Los proveedores a quienes se adjudique el contrato, para poder subcontratar, deberán solicitar y entregar a la contratante la opinión de cumplimiento de las obligaciones fiscales estatales del subcontratante, que se obtiene a través de la página de Internet del SATEG.
 
 Las sociedades anónimas que coloquen acciones en el mercado de valores bursátil y extrabursátil a que se refiere la Ley del Mercado de Valores, deberán obtener la opinión del cumplimiento de obligaciones fiscales de forma mensual.
 
@@ -1619,7 +1649,9 @@ I. Permitir a los visitadores designados por las autoridades fiscales el acceso 
 
 II. Mantener a disposición de las autoridades fiscales la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales se certifiquen por estos y sean anexados a las actas finales o parciales que levanten con motivo de la visita;
 
-III. Permitir la verificación de bienes y mercancías, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos que tenga el contribuyente en los lugares visitados; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Permitir la verificación de bienes, mercancías, emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, que sean objeto de alguno de los impuestos del Estado, así como de los documentos, estados de cuentas bancarias, discos, cintas o cualquier otro medio procesable de almacenamiento de datos y procesos productivos que tenga o realice el contribuyente en los lugares visitados, así como de los equipos de medición de sustancias contaminantes y niveles de contaminación, de acuerdo con las disposiciones fiscales. Las autoridades fiscales podrán utilizar herramientas tecnológicas de medida, estimación o cálculo para determinar emisiones, los elementos de la contribución o la base gravable de cualquiera de los impuestos ecológicos de remediación ambiental, así como material que sirva como muestra, testigo o constancia de contaminación que exista en las instalaciones de los contribuyentes; y
 
 IV. Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, o microfilmen o graben en discos ópticos o en cualquier otro medio que autoricen las autoridades fiscales mediante disposiciones de carácter general, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, así como entregar a la autoridad los archivos electrónicos en donde conste dicha contabilidad.
 
@@ -1827,9 +1859,11 @@ Para determinar contribuciones omitidas, el SATEG tendrá como ciertos los hecho
 
 Supuestos en los que procede la determinación presuntiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 85.
 
-Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, la base gravable de las contribuciones, el monto de la contraprestación obtenida con motivo de la enajenación de bienes inmuebles o los ingresos, por los que se deban pagar contribuciones, cuando:
+Las autoridades fiscales podrán determinar presuntivamente la utilidad fiscal de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, la base gravable de las contribuciones, el monto de la contraprestación obtenida con motivo de la enajenación de bienes inmuebles o los ingresos, por los que se deban pagar contribuciones, cuando:
 
 I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales; u omitan presentar las declaraciones de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
 
@@ -1859,9 +1893,11 @@ La determinación presuntiva a que se refiere este artículo, procederá indepen
 
 Elementos para la determinación presuntiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 86.
 
-Para la determinación presuntiva a que se refiere el artículo 85, las autoridades fiscales calcularán los ingresos de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé o el precio por la venta final de bebidas alcohólicas en envase cerrado, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+Para la determinación presuntiva a que se refiere el artículo 85, las autoridades fiscales calcularán los ingresos de los contribuyentes, las erogaciones por concepto de remuneraciones al trabajo personal subordinado, independientemente de la denominación que se les dé, el precio por la venta final de bebidas alcohólicas en envase cerrado, las emisiones de contaminantes en el suelo, subsuelo, agua y a la atmósfera, y el depósito o el almacenamiento de residuos en vertederos públicos o privados, sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
 
 I. Utilizando los datos contenidos en la contabilidad del contribuyente, o los que en su caso debieran formar parte de ella;
 
@@ -1869,9 +1905,17 @@ II. Tomando como base los datos contenidos en las declaraciones correspondientes
 
 III. A partir de la información proporcionada por terceros a solicitud de las autoridades fiscales, que se encuentren referidas a operaciones relacionadas con el contribuyente sujeto a la determinación presuntiva;
 
-IV. Con cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación, siempre y cuando se encuentre referida a operaciones realizadas por el contribuyente sujeto a determinación presuntiva; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V. La información obtenida utilizando medios indirectos de investigación o de cualquier otra clase.
+IV. Con cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación, siempre y cuando se encuentre referida a operaciones realizadas por el contribuyente sujeto a determinación presuntiva;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. La información obtenida utilizando medios indirectos de investigación o de cualquier otra clase; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. El SATEG realizará las estimaciones para determinar la base gravable utilizando tecnología, estudios técnicos y cualquier otra información o metodología que sustenten la determinación de impuestos ecológicos de remediación ambiental, para lo cual, podrá contar con el apoyo de otras autoridades relacionadas con esta materia, además de lo contemplado en la Ley de Hacienda para el Estado de Guanajuato.
 
 Determinación presuntiva de retenciones
 
@@ -2139,15 +2183,29 @@ Presunción legal
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho, en cuyo caso, deberá acreditarlo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Reserva de información
 
 ###### Artículo 102.
 
-Los servidores públicos que tengan conocimiento o intervengan en las investigaciones, estudios técnicos o intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias, o cualquiera que tenga acceso a información relativa a contribuyentes estarán obligados a guardar absoluta reserva al respecto, así como en lo concerniente a las declaraciones, manifestaciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación.
+Los servidores públicos que tengan conocimiento o intervengan en las investigaciones, estudios técnicos, en los diversos trámites relativos a la aplicación de las disposiciones tributarias, o cualquiera que tenga acceso a información relativa a contribuyentes obtenidos por el ejercicio de sus facultades, estarán obligados a guardar absoluta reserva al respecto.
 
-La reserva a que se refiere el párrafo anterior no será aplicable tratándose de las investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal.
+La reserva a que se refiere el párrafo anterior no será aplicable tratándose de los siguientes supuestos:
 
-Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 94 de este Código.
+I. Tratándose de investigaciones sobre conductas previstas en el artículo 400 Bis del Código Penal Federal;
+
+II. En los casos que señalen las leyes fiscales o cuando en las leyes de manera expresa, se señale la ineficacia de la oposición del secreto fiscal;
+
+III. Cuando se solicite por autoridades encargadas de la administración y de la defensa de los intereses fiscales del Estado;
+
+IV. Cuando se solicite por las autoridades jurisdiccionales en el ejercicio de sus funciones; y
+
+V. En el supuesto previsto en el artículo 94 de este Código.
+
+Cuando la información tenga relación con el Registro Estatal Vehicular, y siempre que no se trate de algún supuesto de las fracciones anteriores, se deberá suscribir un convenio o acuerdo interinstitucional con las autoridades fiscales, en el marco de sus competencias.
+
+Las autoridades señaladas en las fracciones que anteceden y que tengan acceso a cualquier tipo de información al amparo de este artículo, estarán obligadas a guardar absoluta reserva al respecto.
 
 La reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia.
 
@@ -2155,7 +2213,11 @@ Sólo por acuerdo expreso del titular de la Secretaría se podrán publicar los 
 
 Mediante convenio de intercambio recíproco de información, suscrito por el titular de la Secretaría, se podrá suministrar la información a otras autoridades fiscales de otras entidades federativas, siempre que se pacte que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente por la entidad de que se trate.
 
-La reserva a que se refiere el primer párrafo de este artículo no resulta aplicable respecto del nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquellos que se encuentren en los siguientes supuestos:
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Supuestos no aplicables a la reserva de información
+
+Artículo 102 bis. La reserva a que se refiere el artículo l 02 no resulta aplicable respecto del nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquellos contribuyentes que se encuentren en los siguientes supuestos:
 
 I. Que tengan a su cargo créditos fiscales firmes;
 
@@ -2171,7 +2233,7 @@ VI. Que se les hubiere condonado algún crédito fiscal; y
 
 VII. Cualquier autoridad, dependencia, entidad, órgano u organismo de los poderes Legislativo, Ejecutivo y Judicial del Estado y de los municipios, organismos autónomos, partidos políticos, fideicomisos y fondos, así como cualquier persona física, moral o sindicato, que reciban y ejerzan recursos públicos estatales, que se encuentren omisos en la presentación de declaraciones periódicas para el pago de contribuciones estatales propias o retenidas. Tratándose de este supuesto, también se publicará en la página de Internet del SATEG, el ejercicio y el periodo omiso.
 
-El SATEG publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquellos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que el SATEG determine mediante disposiciones de carácter general, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, el SATEG procederá a eliminar la información publicada que corresponda.
+El SATEG publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquellos contribuyentes que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos podrán llevar a cabo el procedimiento de aclaración que el SATEG determine mediante disposiciones de carácter general, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, el SATEG procederá a eliminar la información publicada que corresponda.
 
 ## Título Cuarto. Infracciones y Sanciones
 
@@ -2949,11 +3011,13 @@ Notificaciones practicadas ilegalmente
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 Notificaciones por estrados
 
 ###### Artículo 155.
 
-Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando además el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
+Las notificaciones por estrados se harán fijando durante diez días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación y publicando además el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. Dicho plazo se contará a partir del día siguiente a aquel en que el documento fue fijado o publicado según corresponda. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del undécimo día contado a partir del día siguiente a aquel en el que se hubiera fijado o publicado el documento.
 
 Notificaciones por edictos
 
@@ -3291,17 +3355,9 @@ Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán 
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
-Condonación de créditos fiscales por concurso mercantil
-
 ###### Artículo 173.
 
-Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales podrán condonar parcialmente los créditos fiscales relativos a contribuciones que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la ley respectiva y de acuerdo con lo siguiente:
-
-I. Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales; y
-
-II. Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación, determinada en los términos del inciso anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
-
-La autorización de condonación deberá sujetarse a los requisitos y lineamientos establecidos en este Código.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
 
 Extinción de créditos fiscales a cargo de entidades paraestatales
 
@@ -4174,3 +4230,13 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 EL SECRETARIO DE GOBIERNO
 
 LUIS ERNESTO AYALA TORRES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 177, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
