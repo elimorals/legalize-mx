@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-del-instituto-sinaloense-de-la-128334"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-04"
-last_updated: "2018-05-04"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO OCTAVO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de mayo de 2018.
 
@@ -526,3 +528,31 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa a los 26 días del mes de Abr
 LC.P. ANDRÉS CASTRO ROJO
 
 DIRECTOR DEL INSTITUTO SINALOENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+[TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO SINALOENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+PRIMERO.- El presente Código de Conducta del Instituto Sinaloense de la Infraestructura Física Educativa, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+SEGUNDO.- En cumplimiento de lo establecido en el artículo Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativa (sic), emitidos por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, el presente Código, deberá de publicarse en el Periódico Oficial ''El Estado de Sinaloa"; asimismo, en concordancia con lo establecido en el artículo 9 del Código de Ética de los Servidores Públicos del Gobierno del Estado de Sinaloa publicado el 7 de septiembre de 2020 en el periódico oficial "El Estado de Sinaloa”, el presente Código deberá de difundirse y publicarse, en la página de internet institucional del Instituto Sinaloense de la Infraestructura Física. Educativa.
+
+TERCERO.- Todas las áreas del Instituto Sinaloense de la Infraestructura Física Educativa, a través del Comité de Ética, deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficios y acuse, presentaciones presenciales, cuadernillo impreso, correo electrónico y por otras vías más eficaces existentes, una vez publicado el mismo.
+
+CUARTO.- El comité de Ética que se encuentra integrado a la fecha de entrada en vigor del presente Código de conducta del Instituto Sinaloense de la Infraestructura Física Educativa, el cual prevalece en los términos jurídicos que le sirvieron de base para su creación e instalación.
+
+QUINTO.- Corresponde al Comité de Ética, implementar el Código de Conducta del Instituto Sinaloense de la Infraestructura Física Educativa, verificando y dando seguimiento a su cumplimiento, en los términos señalados en el Código de Ética.
+
+SEXTO.- Las instancias legitimadas para la interpretación, consulta y asesoría en caso de dudas, respecto al contenido, aplicación y observancia del Código de conducta del Instituto Sinaloense de la Infraestructura Física Educativa, en orden en el que se enuncian, las siguientes;
+
+1. Integrantes del Comité de Ética y Prevención de conflictos de Interés del Instituto Sinaloense de la Infraestructura Física Educativa.
+
+2. Presidente del Comité de Ética y de Prevención de Conflictos de Interés del Instituto Sinaloense de la Infraestructura Física Educativa
+
+3. Órgano Interno de control y Evaluación en el Instituto Sinaloense de la Infraestructura Física Educativa.
+
+SÉPTIMO.- El Órgano Interno de Control y Evaluación en el Instituto Sinaloense de la Infraestructura Física Educativa tuvo a bien aprobar el presente Código de Conducta del Instituto Sinaloense de la Infraestructura Física Educativa, mediante oficio número OICE. 096/2022 de fecha 15 de diciembre de 2022.
+
+OCTAVO.- Se abroga el Código de Conducta del Instituto Sinaloense de la Infraestructura Física Educativa, publicado en el Periódico Oficial "El Estado de Sinaloa", de fecha 04 de mayo del 2018.
