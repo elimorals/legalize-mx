@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-bebidas-alcoholicas-para-el-estado-de-guanajuato-y-13969
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2021-09-24"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Décima Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -431,7 +431,9 @@ Modificaciones
 
 El SATEG podrá autorizar la modificación de domicilio, de titular o de modalidades complementarias, para lo cual, su titular deberá dar cumplimiento a lo establecido en los artículos 20 y 21 de esta Ley.
 
-Para el caso de modificación de titular, el solicitante deberá acreditar que cuenta con los derechos de la licencia de manera legítima, para lo cual, deberá adjuntar el testimonio público o, en su caso, los testimonios para acreditar este hecho; o bien, resolución judicial en firme, en la que conste de manera expresa la adjudicación de los derechos de la licencia a su favor.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de modificación de titular, adicional al cumplimiento de los requisitos a los que hace referencia el párrafo anterior, el solicitante deberá acreditar que cuenta con los derechos de la licencia de manera legítima, para lo cual, deberá adjuntar el testimonio público o, en su caso, los testimonios para acreditar este hecho; o bien, resolución judicial en firme, en la que conste de manera expresa la adjudicación de los derechos de la licencia a su favor.
 
 Se deberá realizar el trámite a que se refiere el párrafo que antecede, dentro de los quince días posteriores a la firma del acto o contrato en que conste que se han cedido o adjudicado los derechos de las licencias expedidas.
 
@@ -922,3 +924,9 @@ Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al
 Emisión de disposiciones
 
 Artículo Segundo. El SATEG a través de su Directora General, a efecto de dar cumplimiento al presente Decreto emitirá las disposiciones de carácter general en un plazo de noventa días naturales siguientes a la entrada en vigor del mismo.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 179, MEDIANTE EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 24 DE LA LEY DE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
