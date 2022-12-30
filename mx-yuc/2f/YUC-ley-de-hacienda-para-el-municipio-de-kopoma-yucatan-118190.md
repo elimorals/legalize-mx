@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-kopoma-yucatan-118190"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE KOPOMÁ, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Número 33262 del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -275,6 +275,30 @@ VI.- Copia del comprobante de inscripción en el Registro Federal de Contribuyen
 
 VII.- Copia del comprobante de su Clave Única de Registro de Población, en su caso, y
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII.- Credencial para votar con fotografía del propietario o su representante legal;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX.- Comprobante domiciliario del propietario o su representante legal;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+X.- Dictamen otorgado por la Dirección de Protección Civil Municipal, donde se otorga el visto bueno al Programa Interno de Protección Civil;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XI.- Comprobante del último pago del agua potable para acreditar que no adeuda el servicio o el certificado de no adeudo de agua potable;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XII.- Documento que acredite al representante legal de la persona moral que solicita la Licencia Municipal de Funcionamiento;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIII.- Copia del Acta Constitutiva de la empresa.
+
 ###### Artículo 28.
 
 Las personas físicas o morales que soliciten revalidar licencias de funcionamiento, tendrán que presentar a la Tesorería del Ayuntamiento, además del pedimento respectivo, los siguientes documentos:
@@ -289,9 +313,33 @@ IV.- El recibo de pago del derecho correspondiente en su caso;
 
 V.- Determinación sanitaria, en su caso;
 
-VI.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes, y
+VI.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes, y (sic)
 
 VII.- Copia del comprobante de su Clave Única de Registro de Población, en su caso.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII.- Credencial para votar con fotografía del propietario o su representante legal;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX.- Comprobante domiciliario del propietario o su representante legal;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+X.- Dictamen vigente otorgado por la Dirección de Protección Civil Municipal, donde se otorga el visto bueno al Programa Interno de Protección Civil;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XI.- Comprobante del último pago del agua potable para acreditar que no adeuda el servicio o el certificado de no adeudo de agua potable;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XII.- Documento que acredite al representante legal de la persona moral que solicita la Licencia Municipal de Funcionamiento;
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIII.- Copia del Acta Constitutiva de la empresa.
 
 Los requisitos de las fracciones VI y VII sólo se presentarán en caso de que esos datos no estén ya registrados en el Padrón Municipal. La licencia cuya vigencia termine de manera anticipada de conformidad con este artículo, deberá revalidarse dentro de los treinta días naturales siguientes a su vencimiento.
 
@@ -1099,6 +1147,32 @@ Será base de este tributo el número de animales a sacrificar.
 
 Las cuotas para el pago de estos derechos serán fijadas en la Ley de Ingresos del Municipio de Kopomá, correspondiente.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### Sección Décima Quinta. Derechos por Servicios de Protección Civil
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 140 A.- El objeto de los derechos establecidos en este capítulo son los servicios prestados por el municipio en materia de Protección Civil, por concepto de: I. Integración, Revisión, Visto Bueno y Aprobación de programas internos de protección civil; II. Análisis de riesgo; III. Registro provisional del instructor externo, IV.? Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos, y V. Sanciones.
+
+Para el cumplimiento de los objetivos de este apartado y para los casos no previstos se aplicarán lo dispuesto en los Reglamentos municipales respectivos y la Ley de Protección Civil del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 140 B.- Son sujetos de los derechos establecidos en este capítulo las personas físicas o morales, instituciones públicas o privadas, que soliciten servicios en materia de protección civil.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 140 C.- Servirá de base para el cobro de este derecho el tipo de servicio en materia de protección civil, el número de personal que conlleve realizar el servicio, así como el número de horas que se destinen a la prestación del servicio y que al efecto establezca la ley de ingresos del municipio correspondiente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 140 D.- Los derechos por los servicios en materia de protección civil se causarán conforme a la tarifa que al efecto establezca la ley de ingresos del municipio de Kopomá, Yucatán, mismos que tendrán una vigencia desde el día de su expedición hasta el 31 de diciembre del mismo año en que se expida.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 140 E.- El pago de los derechos se hará al momento de solicitar el servicio en las oficinas de la tesorería municipal.
+
 ### CAPÍTULO III. Contribuciones Especiales
 
 ###### Artículo 141.
@@ -1470,3 +1544,15 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
