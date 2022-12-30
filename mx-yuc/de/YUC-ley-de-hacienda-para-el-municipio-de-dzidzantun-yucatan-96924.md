@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2021-12-31"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -1491,7 +1491,7 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 94.
 
@@ -1499,79 +1499,63 @@ La cuota que se pagará por los servicios que presta el catastro Municipal, caus
 
 I.- Emisión de copias fotostáticas simples.
 
-a) Por cada hoja simple tamaño carta, de cédulas, .3 UMAS
-
-planos, parcelas, formas de manifestación de
-
-traslación de dominio o cualquier otra manifestación
+a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación .3 UMAS
 
 b) Por cada copia simple tamaño oficio .3 UMAS
 
-II. Por expedición de copias fotostáticas certificados de:
+II.- Por expedición de copias fotostáticas certificados (sic) de:
 
 a) Cédulas, planos, parcelas, manifestaciones, tamaño carta .53 UMAS
 
 b) Fotostáticas de plano tamaño oficio, por cada una .53 UMAS
 
-c) Fotostáticas de plano hasta 4 veces tamaño oficio, 2 UMAS
+c) Fotostáticas de plano hasta 4 veces tamaño oficio, por cada una 2 UMAS
 
-por cada una
+d) Fotostáticas de planos mayores de 4 veces de tamaño oficio por cada una 2 UMAS
 
-d) Fotostáticas de planos mayores de 4 veces de 2 UMAS
-
-tamaño oficio por cada una
-
-III. Por expedición de oficios de: 2 UMAS
+III.- Por expedición de oficios de:
 
 a) División (de cada parte) 2 UMAS
 
-b) Unión, rectificación de medidas, urbanización 2 UMAS
-
-y cambio de nomenclatura
-
-> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
+b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura 2 UMAS
 
 c) Cédulas catastrales 3 UMAS
 
-d) Constancias de no propiedad, única propiedad, 3 UMAS
+d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente, información de bienes inmuebles, historial del predio con valor 3 UMAS
 
-valor catastral, número oficial de predio, certificado
+e) Certificado de inscripción vigente, constancia de valor catastral 2 UMAS
 
-de inscripción vigente, información de bienes inmuebles
-
-e) Certificado de inscripción vigente, constancia 2 UMAS
-
-de valor catastral
-
-IV. Por elaboración de planos:
+IV.- Por elaboración de planos:
 
 a) Catastrales a escala 3 UMAS
 
 b) Planos topográficos hasta 100 has 5 UMAS
 
-V.- Por revalidación de oficios de división, unión 2 UMAS
-
-y rectificación de medidas
+V.- Por revalidación de oficios de división, unión y rectificación de medidas 2 UMAS
 
 VI.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
-a) De 01-00-00 a 10-00-00 8 UMAS
+a) De hasta (sic) a 1,000.00 m2 7.79463729 UMAS
 
-b) De 10-00-01 a 20-00-00 15 UMAS
+b) De 1,000.01 a 2,500.00 m2 10.9124922 UMAS
 
-c) De 20-00-01 a 30-00-00 17 UMAS
+c) De 2,500.01 a 10,000.00 m2 27.5410518 UMAS
 
-d) De 30-00-01 a 40-00-00 32 UMAS
+d) De 10,000.01 m2 a 30,000 m2, por m2 .00322178 UMAS
 
-e) De 40-00-01 a 50-00-00 40 UMAS
+e) De 30,000.01 m2 a 60,000 m2, por m2 .00250052 UMAS
 
-f) De 50-00-01 en adelante 8 UMAS
+f) De 60,000.01 m2 a 90,000 m2, por m2 .00229578 UMAS
 
-por
+g) De 90,000.01 m2 a 120,000 m2, por m2 .00208688 UMAS
 
-hectárea
+h) De 120,000.01 m2 a 150,000 m2, por m2 .00179796 UMAS
 
-VII. Por actualizaciones de predios urbanos se causarán y para los siguientes derechos:
+i) De 150,000.01 m2 a 350,000 m2, por m2 .00157857 UMAS
+
+j) De 350,000.01 en adelante .00126689 UMAS
+
+VII.- Por actualizaciones de predios urbanos (manifestación de construcción) se causarán y (sic) para los siguientes derechos:
 
 a) De un valor de $1,000.00 a $ 4,000.00 2 UMAS
 
@@ -1584,6 +1568,68 @@ d) De un valor de $30,001.00 a $50,000.00 3.5 UMAS
 e) De un valor de $50,001.00 a $80,000.00 4 UMAS
 
 f) De un valor de $80,001.00 en adelante 5 UMAS
+
+VIII.- Tratándose de trabajos de topografía para desarrollos inmobiliarios, que hayan cumplido con todos los requisitos legales que señalan las normas de la materia, se pagará una cuota equivalente al 40% de los derechos establecidos en el inciso a) de esta fracción. En el caso de que el particular haya realizado los trabajos de topografía del desarrollo inmobiliario, y lo presente a la Dirección de Catastro Municipal para su revisión, en lugar de aplicar las cuotas establecidas en el anterior inciso a) de esta fracción se cobrarán los siguientes conceptos a efectos de verificar la información contenida en el estudio topográfico:
+
+a) Por la localización del predio y determinación de sus vértices, por cada metro lineal con base a la distancia existente desde el punto de referencia catastral más cercano al predio solicitado. 0.07 UMAS
+
+b) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S). 12 UMAS
+
+IX.- En el caso de localización de predios y determinación de sus vértices, se cobrará adicionalmente a la superficie del predio, lo siguiente:
+
+a) Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo a la tarifa de terreno de esta fracción, a toda la superficie existente en la manzana. 0.07 UMAS
+
+b) Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal, con base a la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada. 0.07 UMAS
+
+c) Por cada metro lineal. 0.07 UMAS
+
+X.- Por cada diligencia de verificación
+
+a) Para la Factibilidad de División, Urbanización catastral, Cambio de Nomenclatura, Estado físico del predio, Ubicación física, No inscripción, Mejora o demolición de construcción, Rectificación de medidas, Medidas físicas de construcción, Colindancia de predios, o Marcajes 4 UMAS
+
+b) Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental: 13 UMAS
+
+XI.- Impresión de imagen satelital o de fotografía aérea del municipio de Dzidzantún:
+
+a) Tamaño carta 5 UMAS
+
+b) Tamaño 2 cartas 8 UMAS
+
+c) Tamaño 4 cartas 14 UMAS
+
+d) Tamaño 60 x 75 centímetros 18 UMAS
+
+e) Tamaño 60 x 90 centímetros 21 UMAS
+
+f) Tamaño 90 x 130 centímetros 24 UMAS
+
+g) Tamaño 105 x 162.5 centímetros 30 UMAS
+
+XII.- Impresión de planos a nivel manzana, fraccionamiento, sección catastral o del municipio:
+
+a) Tamaño carta 4 UMAS
+
+(sic) Umas 7 UMAS
+
+c) Tamaño 4 cartas 13 UMAS
+
+d) Tamaño 60 x 75 centímetros 16 UMAS
+
+e) Tamaño 60 x 90 centímetros 18 UMAS
+
+f) Tamaño 90 x 130 centímetros 20 UMAS
+
+g) Tamaño 105 x 162.5 centímetros 27 UMAS
+
+XIII.- Trabajos de referencia geográfica con sistemas de posicionamiento global (G.P.S.) por cada punto posicionado geográficamente. Por cada punto posicionado geográficamente (sic). 15 UMAS
+
+XIV.- Cuando los servicios catastrales solicitados, requieran de trabajos de verificación en el Registro Público de la Propiedad del Estado de Yucatán, Registro Agrario Nacional, u otra institución pública. 9 UMAS
+
+XV.- Plano del Municipio de Dzidzantún (No georeferenciado) hasta nivel manzana, en disco compacto. 5 UMAS
+
+XVI.- Asignación de nomenclatura en planos de fraccionamiento y divisiones de predios que formen al menos una vialidad, por cada fracción 0.25 UMAS
+
+XVII.- Por revisión y validación de planos de división, unión, régimen de condominio, de mejora, cambio de nomenclatura, rectificación de medidas, de urbanización o de factibilidad de división, por cada plano, que no sea elaborado por la dirección de Catastro. 0.33 UMAS
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -1609,9 +1655,13 @@ No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rú
 
 Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el Artículo anterior, de conformidad con lo siguiente:
 
-I.- Hasta 160,000 m2 $ 0.050 por m2
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II.- Más de 160,000 m2 Por metros excedentes $ 0.023 por m2
+I.- Hasta 160,000 m2 $ 0.056 por m2
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+II.- Más de 160,000 m2 Por metros excedentes $ 0.025 por m2
 
 > <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1821,19 +1871,247 @@ I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente a
 
 II.- Pagar anualmente el derecho correspondiente a la renovación dentro de los primeros 60 días de cada año.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasada en Unidad de Medida y Actualización (UMA) para su cobro.
 
 > <small>[N. DE E. VÉANSE CUADROS EN EL D.O. DE 26 DE DICIEMBRE DE 2020, PÁGINAS DE LA 12 A LA 14.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LOS CUADROS, D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 22 A LA 23.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LOS CUADROS, D.O. DE 31 DE DICIEMBRE DE 2021, PÁGINAS DE LA 22 A LA 23; 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 12 A LA 13.]</small>
 
 > <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 117.
 
 Quedan obligados al pago de derechos todas aquellas personas físicas o morales que deseen instalar equipos para proporcionar servicios de televisión por cable, pagando a la Tesorería del Ayuntamiento una cuota de 781 UMAS.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Bis.
+
+Los propietarios y/o responsables y/o explotadores y/o administradores de las estructuras portantes de antenas, y de las respectivas antenas de comunicación, sistema de video cable, transmisión de datos, telefonía celular, telefonía fija y/o inalámbrica, y/o cualquier otro tipo de tele o radio comunicación que se realice con fines lucrativos o no, deberán presentar a los efectos de obtener la correspondiente habilitación de dichas estructuras portantes -y sus antenas- la siguiente información y/o documentación:
+
+El interesado deberá presentar:
+
+I. Aptitud urbanística (referida a localización urbana), mediante base de Datos elaborada al efecto. Para este trámite deberá presentarse junto con el formulario de solicitud, la ubicación desde el punto de vista urbano (Dzidzantún); características de la edificación, si la hubiese (plano aprobado): características general (sic) de la estructuras en el inmueble. En caso de cumplimiento de todos estos requisitos se expedirá en un plazo máximo de 72 horas. El permiso definitivo será otorgado por (sic) a partir del otorgamiento de la aptitud urbanísticas y de la totalidad de los certificados en la presenta Ley.
+
+II. Certificado habilitante; licencia de Operador de Telefónica Celular, Compañía de Telecomunicaciones, de Radioaficionados, Radiodifusoras, o Radiotransmisoras otorgada por el ente responsable.
+
+III. Cálculo de la Estructural: Presentación de los planos y planillas de cálculo, realizados por un profesional competente.
+
+IV. Certificado del cumplimiento de normas de seguridad referida a la instalación de sistemas protección de puesta a tierra, para descargas eléctricas atmosféricas – pararrayos, como asimismo del balizamiento correspondiente para señalización de la estructura, que establece la colocación de lámparas especiales a partir de los treinta 30 metros de altura desde el nivel del suelo.
+
+V. Certificación de dominio del predio donde se va a localizar la estructura, cuando el inmueble no sea de propiedad del solicitante, se deberá acompañar autorización con firma del o los propietarios certificada ante notario público.
+
+VI. Pago de licencia anual por instalación de estructuras de soporte de antenas.
+
+Toda esta información y/o documentación, deberá estar suscripta (sic) por un profesional con competencia en la materia que se trate.
+
+Se entiende por “propietario” y/o “responsable”, en forma solidaria, tanto al propietario del predio donde están instaladas las antenas y sus estructuras portantes, como así también al propietario y/o responsable de dichas instalaciones.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Ter.
+
+Los solicitantes deberán pagar, en el mismo acto de presentación de los requisitos exigidos en el artículo anterior, la tasa que se fije en el artículo 117 Sexies decies, de la presente Ley.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Quáter.
+
+El Presidente Municipal podrá requerir a los solicitantes de la habilitación y/o responsables de dichas antenas y sus estructuras portantes, que las mismas se instalen dentro de determinadas zonas geográficas, considerando en tal caso la seguridad, bienestar y buena urbanización de esta comuna.
+
+En caso de que los solicitantes manifiesten de manera fundada que por las propias exigencias del servicio que prestan, están limitados a determinadas zonas para la instalación de las estructuras portantes y antenas, dichos solicitantes señalarán cuáles son estos lugares, debiendo el presidente municipal resolver sobre la factibilidad de dicha instalación en esas condiciones.
+
+En caso de que el presidente municipal determine la no factibilidad para la instalación que se solicite, deberá fundar tal resolución en consideración de la seguridad, bienestar y buena urbanización de los habitantes del municipio.
+
+En el caso que el Municipio necesitara para cumplimentar la normativa de control técnico, verificación y gestión de cobranza, el presidente municipal podrá contratar a entes oficiales o privados con experiencia en la materia, para realizar dichas tareas, los cuales serán supervisados por la dirección correspondiente.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Qinquies.- TIPOLOGIAS MORFOLOGICAS – Definiciones y Clasificación
+
+I. Estructura soporte de antenas: Todas aquellas estructuras, ya sea que estén fijadas a nivel de piso o sobre una edificación existente, y sirvan como soporte para las antenas destinadas a los servicios de radiocomunicaciones.
+
+a) Instalaciones fijadas a nivel de piso
+
+1. Monoposte autosoportado en todas sus variantes constructivas y columna reticulada.
+
+2. Columna de hormigón/estructura tubular autosoportada o similar (con o sin luminarias o soluciones técnicas similares, incorporadas o a ser incorporadas para uso del municipio y/o terceros).
+
+3. Torre autosoportada
+
+4. Mástil arriostrado
+
+b) Instalaciones ubicadas sobre una construcción existente: podrán localizarse sobre tanques de agua, azoteas, etc.
+
+1. Monoposte
+
+2. Torre autosoportada
+
+3. Mástil arriostrado
+
+4. Pedestal
+
+5. Vínculo (instalación adosada a pared)
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Sexies.
+
+Los titulares deberán colocar carteles informativos en lugar visible en el exterior de las instalaciones, y a efectos de una identificación fehaciente y rápida, conteniendo lo siguiente:
+
+a) Apellido y nombre o razón social del titular, dirección y teléfono.
+
+b) Número de expediente municipal de habilitación.
+
+c) Número de teléfono para el caso de emergencias o reclamos.
+
+Los titulares deberán tomar las medidas necesarias a efectos de restringir el paso del público en general.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Septies.
+
+DE LAS TRAMITACIONES
+
+I. Factibilidad
+
+De existir un pedido expreso mediante nota de la operadora donde se indique: ubicación de la futura estructura, coordenadas geográficas y/o nomenclatura catastral, datos del titular del servicio, datos del titular del inmueble, tipología a emplear, altura necesaria de instalación y croquis de implantación, el municipio extenderá un certificado de factibilidad, en un plazo no mayor a sesenta (60) días hábiles. Dicho certificado no implicará, por sí mismo, autorización para efectuar instalaciones y/o construcciones de ningún tipo, la cual deberá gestionarse. En caso de tratarse de estructuras a instalarse en dominio municipal, la factibilidad se considerará otorgada con la suscripción del correspondiente contrato de locación entre el Municipio y la operadora.
+
+II. Permiso de Construcción
+
+Dicho procedimiento estará integrado por los siguientes pasos y el ingreso de la siguiente documentación:
+
+a) El inmueble deberá contar con el certificado de inscripción vigente actualizado. En el supuesto de ser un tercero el propietario, corresponderá además presentar un poder notarial.
+
+b) Estudio de Impacto Ambiental.
+
+c) Constancia de la Póliza de Seguro de Responsabilidad Civil vigente.
+
+d) Cómputo y presupuesto de Obra
+
+e) Plano de construcción de las instalaciones previstas; civil y de electromecánica, detalles técnicos, cálculos y cualquier otro medio analógico y/o escrito que facilite la comprensión de las mismas, firmado por profesional responsable habilitado y visado por la autoridad competente.
+
+f) Compromiso escrito del solicitante de desmontar las instalaciones cuando éstas dejen de ser utilizadas. En el supuesto de transferirse las instalaciones a terceros, éstos automáticamente asumirán el antedicho compromiso.
+
+g) Constancia de Pago de los Derechos de Construcción.
+
+El Municipio tendrá un plazo de sesenta (60) días hábiles para dar su aprobación y otorgar el Permiso de Construcción, por el cual se dará inicio a los trabajos para materializar las instalaciones proyectadas.
+
+III. Inscripción de Operadores de Comunicaciones Móviles (OCM)
+
+El Organismo creará una nómina de Operadores de Comunicaciones Móviles (OCM) el cual contendrá la documentación recurrente, que abajo se detalla:
+
+a) Copia autenticada del Estatuto Social
+
+b) Constancia de RFC
+
+c) Licencia de Operador de Telecomunicaciones
+
+d) Poder especial o general extendido por la empresa solicitante a favor del trámite asignado para la obtención del permiso municipal.
+
+e) Notificación de domicilio legal, contacto con el OCM, teléfono de contacto y dirección de e-mail.
+
+El objeto de esta inscripción es evitar la presentación reiterada de la documentación legal de la empresa en cada uno de los expedientes de obra que inicie.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Octies.
+
+PROCESO DE APROBACION
+
+Se describe a continuación el procedimiento técnico administrativo que deberán seguir las OCM a efectos de cumplir con los trámites de Registro de Obra de nuevas estructuras soporte de antenas.
+
+a) Ingreso del trámite a través de una Mesa de Entradas única, la cual otorgará un número de expediente que identificará al procedimiento hasta su finalización.
+
+b) Presentación de la documentación requerida para el inicio del proceso de obtención de Factibilidad.
+
+c) Obtenido el Certificado de Factibilidad, se efectuarán las presentaciones requeridas y actuaciones para que el Municipio emita el Permiso de Construcción.
+
+d) Finalizada la obra y cumplidos los requisitos de presentación y pago correspondientes.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Novies.- NORMAS TECNICAS Y LEGALES
+
+Para el diseño, cálculo y construcción de estas instalaciones, deberá cumplimentarse con todo lo establecido para este tipo de estructuras en las normas vigentes que lo regulen.
+
+Las instalaciones objeto de la presente ley han de cumplir con la normativa específica, nacional e internacional, y aquellas futuras que las modifiquen o reemplacen.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 117 Decies.
+
+COMPARTICIÓN
+
+Siempre que las condiciones técnicas, estructurales, y de emisión de radiaciones así lo permitan, deberá alentarse la compartición de las instalaciones de estructuras de soporte entre las OCM, de manera de atemperar el impacto visual que éstas podrían producir.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Undecies.- SEGURO
+
+Desde el inicio de los trabajos de montaje de las instalaciones y durante todo el tiempo en que estas se mantengan en pié y aún para los trabajos de mantenimiento y desmantelamiento, el operador deberá constituir el correspondiente seguro de Responsabilidad Civil hacia terceros, en resguardo ante los eventuales daños que pudieran causar las instalaciones y/o la actividad de las empresas involucradas en las tareas de montaje, mantenimiento y desmontaje.
+
+Se deberá mantener la cobertura del seguro para la antena y su estructura portante vigente y actualizada durante todo el tiempo en que la misma se mantenga emplazada.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Duodecies.- DE LAS TASAS
+
+Las instalaciones reguladas por la presente ley estarán gravadas por los tributos que a tal efecto se fijen en esta Ley, las que serán de aplicación respecto de las estructuras de propiedad del OCM.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Ter decies.- ADECUACIÓN
+
+En aquellos casos en que las condiciones técnicas de diseño de red así lo permita, sin afectar la continuidad o calidad del servicio de telecomunicaciones, y con el objeto de minimizar el impacto visual de aquellas estructuras portantes de antena que al momento del dictado de la presente normativa sean eventualmente consideradas como de alto impacto, se podrá requerir a las OCM a que las adecuen mediante la utilización de las nuevas tecnologías que puedan ser conjugadas con el entorno de la zona en cuestión.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Quater decies.- Los propietarios y/o responsables de aquellas antenas y sus estructuras portantes que se encuentren actualmente instaladas dentro esta Municipalidad y, que no tengan permiso de construcción y/o no se encuentren habilitadas conforme a la normativa vigente, deberán cumplir con los requisitos exigidos en esta normativa dentro del plazo perentorio que otorgue la (sic) el presidente municipal mediante notificación fehaciente a los responsables a tales efectos.
+
+Transcurrido el plazo otorgado sin que los responsables hayan cumplido con los requisitos exigidos por la misma, se aplicara a éstos una multa de 50 UMAS, la cual deberá ser abonada dentro de los 5 (cinco) días de notificada.-
+
+En el mismo acto en que se notifique la multa correspondiente según lo expresado en este artículo, se dará un nuevo plazo para que los responsables cumplan con los requisitos exigidos. En caso de que venza este último plazo, sin que los responsables hayan cumplido con tal requisitoria administrativa, se aplicara una multa de 2 veces la determinada en primera instancia.-
+
+Las multas referidas en el presente artículo, se actualizarán conforme a las disposiciones a las leyes y reglamentos del municipio, generando intereses y recargos hasta el momento del efectivo pago.
+
+Para toda modificación de la estructura portante o instalación de nuevos elementos irradiantes, se deberá presentar una Declaración Jurada y solicitud de ampliación o modificación, previo a dicho cambio. De realizar las modificaciones sin la previa autorización Municipal, dará lugar a una multa automática por el valor equivalente a 50 UMA.
+
+Además de las sanciones previstas en este artículo, el presidente municipal podrá disponer el desmantelamiento de las antenas y sus estructuras portantes, a cargo del propietario y/o responsable de las mismas, cuando éstas representen un peligro concreto y/o potencial para los vecinos del municipio.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Quinquies decies.- Cuando se trate de antenas se cobrará una tasa por inspección y verificación, por los servicios destinados a verificar la conservación y el mantenimiento de cada estructura, soporte de antenas de telefonía, antenas de radiofrecuencia, radiodifusión y tele y radiocomunicaciones y sus equipos complementarios.
+
+La tasa se abonará por cada antena y estructura de soporte autorizada.
+
+Son responsables de esta tasa y estarán obligados al pago, las personas físicas o morales permisionarias de las instalaciones de antenas y sus estructuras de soporte como así también quienes usufructúen con la misma.
+
+El pago de la tasa por inspección se hará efectivo en el tiempo y forma, que a continuación se establece.
+
+I) Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en el mes de marzo. 400 UMA
+
+II) Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por año. 200 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 117 Sexies decies.- TASA DE FACTIBILIDAD DE LOCALIZACIÓN Y PERMISO DE INSTALACIÓN DE ANTENAS.
+
+Se cobrar (sic) una tasa por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los demás servicios administrativos, técnico o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados “WICAPS” consistente en radiobases compactas de telefonía de reducido tamaño.
+
+Están obligados al pago de la tasa a que se refiere el presente Artículo, las personas físicas o morales solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
+
+El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso
+
+Se deberá abonar el tributo, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme lo establecido a continuación.
+
+Factibilidad de localización y permiso de instalación:
+
+I) Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por única vez. 325 UMA
+
+II) Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por única vez. 173 UMA
 
 ###### Artículo 118.
 
@@ -3422,3 +3700,13 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
