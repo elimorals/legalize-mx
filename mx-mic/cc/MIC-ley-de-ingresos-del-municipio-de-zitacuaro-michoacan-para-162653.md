@@ -1,0 +1,166 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE ZITACUARO, MICHOACAN, PARA EL EJERCICIO FISCAL DEL AÑO 2023"
+identifier: "MIC-ley-de-ingresos-del-municipio-de-zitacuaro-michoacan-para-162653"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2022-12-30"
+last_updated: "2022-12-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162653&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "162653"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "97 OCTAVA SECCION"
+reform_count: "0"
+scjn_last_update: "2022-12-30"
+issue_date: "2022-12-29"
+municipality: "Zitácuaro"
+municipality_inegi: "16112"
+state: "MIC"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE ZITACUARO, MICHOACAN, PARA EL EJERCICIO FISCAL DEL AÑO 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE ZITÁCUARO, MICHOACÁN, PARA EL EJERCICIO FISCAL DEL AÑO 2023
+
+TEXTO ORIGINAL
+
+Ley publicada en la Octava Sección al Núm. 97 del Periódico Oficial del Estado de Michoacán, el viernes 30 de diciembre de 2022.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO 18.
+
+Los derechos por servicios prestados en panteones municipales, se causarán, liquidarán y pagarán conforme a la siguiente:
+
+CONCEPTO TARIFA
+
+I. a V. […]
+
+VI. Los derechos por la expedición de documentación, se causarán, liquidarán y pagarán conforme a la siguiente:
+
+A) Duplicado de títulos. $ 186.50
+
+B) Canje sin parentesco. $ 186.50
+
+C) Canje de titular. $ 186.50
+
+D) Refrendo. $ 440.00
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023 Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DEL INCISO E) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+E) COPIAS CERTIFICADAS DE DOCUMENTOS DE EXPEDIENTES. $ 435.00
+
+F) Localización de lugares o tumbas. $ 26.00
+
+###### ARTÍCULO 29.
+
+Por expedición de certificados o copias de documentos, se causarán, liquidarán y pagarán derechos conforme a la siguiente:
+
+CONCEPTO TARIFA
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023 Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. Certificados O COPIAS CERTIFICADAS, POR CADA PÁGINA. $ 45.00
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023 Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. LOS DUPLICADOS O DEMÁS COPIAS SIMPLES
+
+CAUSARAN POR CADA PÁGINA. $ 7.00
+
+III. Constancias de identidad. $ 45.00
+
+IV. Constancias de residencia. $ 45.00
+
+V. Constancias de origen y vecindad. $ 45.00
+
+VI. Constancia de dependencia económica. $ 45.00
+
+VII. Constancia de ingresos. $ 45.00
+
+VIII. Constancia de buena conducta y modo honesto. $ 45.00
+
+IX. Constancia de sobrevivencia. $ 45.00
+
+X. Constancia de unión libre. $ 45.00
+
+XI. Constancia de registro extemporáneo. $ 45.00
+
+XII. Constancia de alta o baja de oportunidades. $ 45.00
+
+XIII. Constancia para quema de artificios pirotécnicos. $ 216.00
+
+XIV. Registro de patentes. $ 229.00
+
+XV. Refrendo anual de patentes. $ 106.70
+
+XVI. Ratificación de la constitución de sociedades cooperativas. $ 862.00
+
+XVII. Certificación de formato pre codificado del registro público
+
+de comercio, por cada una. $ 72.00
+
+XVIII. Por la gestoría para la expedición de pasaportes ante
+
+la secretaria de relaciones exteriores. $ 372.00
+
+NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023 Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XIX. CERTIFICACIÓN DE ACTAS DEL AYUNTAMIENTO,
+
+POR CADA PÁGINA. $ 20.00
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023, Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XX. ACTAS DE AYUNTAMIENTO EN COPIA SIMPLE,
+
+POR CADA PÁGINA. $ 16.00
+
+(NOTA: EL 11 DE SEPTIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2023, Y SUS ACUMULADAS 4/2023, 5/2023, 6/2023, 7/2023, 8/2023, 9/2023, 10/2023, 12/2023, 13/2023, 14/2023, 21/2023, 24/2023, 48/2023 Y 57/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE SEPTIEMBRE DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+XXI. COPIAS CERTIFICADAS DE ACUERDOS Y
+
+DICTÁMENES DEL AYUNTAMIENTO, POR CADA HOJA. $ 17.00
+
+XXII. Constancia de no adeudo de contribuciones. $ 129.00
+
+XXIII. Certificación de croquis de localización. $ 42.00
+
+XXIV. Constancia de construcción. $ 45.00
+
+XXV. Expedición de constancias de deslinde:
+
+A) Zona urbana. $ 151.00
+
+B) Zona rural. $ 91.00
+
+XXVI. Expedición de la anuencia para solicitar autorización para realizar peleas de gallos con cruce de apuestas se causará, liquidará y pagará por día la cantidad de:
+
+A) Cabecera municipal. $ 5,352.00
+
+B) Comunidades. $ 3,232.00
+
+XXVII. Expedición de autorización para quema, así como
+
+permiso general para la compra, almacenamiento y venta de
+
+artificios pirotécnico (sic) se causará, liquidará y pagará la
+
+cantidad de: $ 1,277.00
+
+XXVIII. Constancia de no propiedad. $ 129.00
+
+XXIX. Constancia de propiedad. $ 129.00
+
+XXX. Certificación de comodatos de concesiones de agua de:
+
+A) Zona urbana. $ 2,385.00
+
+B) Zona rural. $ 1,788.00
+
+XXXI. Publicaciones en estrados por predio ignorado $ 140.00
+
+XXXII. Certificación de predios ignorados. $ 45.00
