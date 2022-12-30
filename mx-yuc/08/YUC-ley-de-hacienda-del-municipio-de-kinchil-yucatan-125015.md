@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-kinchil-yucatan-125015"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE KINCHIL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 27 de diciembre de 2017.
 
@@ -897,45 +897,67 @@ No serán exigibles los impuestos y derechos a que se refiere la presente ley, c
 
 Los derechos que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio de Kinchil que apruebe el H. Congreso del Estado de Yucatán.
 
-### CAPÍTULO II. De los Servicios que Presta la Dirección de Desarrollo Urbano
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO II. Derechos por los Servicios que prestan las Direcciones de Obras Públicas
 
 DE LOS SUJETOS
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 79.
 
-Son sujetos obligados al pago de derechos, por los servicios que presta la Dirección de Desarrollo Urbano o la Dependencia Municipal que realice las funciones de regulación de uso del suelo o construcciones cualquiera que sea el nombre que se le dé, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
+Son sujetos obligados al pago de derechos, por los servicios que prestan las Direcciones de Obras Públicas o la Dependencia Municipal que realice las funciones de regulación de uso del suelo, construcciones, urbanización y servicios catastrales o cualquiera que sea el nombre que se le dé, las personas físicas o morales que soliciten, cualesquiera de los servicios a que se refiere este capítulo.
 
 DE LA CLASIFICACIÓN
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 80.
 
-Los sujetos pagarán los derechos por los servicios que soliciten a la Dirección de Desarrollo Urbano, consistentes en:
+Los sujetos pagarán los derechos por los servicios que soliciten a las Direcciones de Obras Públicas, consistentes en:
 
-a) Licencia de construcción.
+I.- Licencias de uso de suelo.
 
-b) Constancia de terminación de obra.
+II.- Por el análisis de factibilidad de uso de suelo.
 
-c) Licencia para realización de una demolición.
+III.- Constancia de Alineamiento.
 
-d) Constancia de Alineamiento.
+IV.- Licencia para construcción.
 
-e) Sellado de planos.
+V.- Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente.
 
-f) Certificado de seguridad para el uso de explosivos.
+VI.- Licencia para demolición o desmantelamiento.
 
-g) Licencia para hacer cortes en banquetas, pavimento y guarniciones.
+VII. Licencia para la excavación de zanjas en vialidades.
 
-h) Otorgamiento de constancia a que se refiere la Ley Sobre el Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán.
+VIII.- Licencia para construir bardas.
 
-i) Constancia para obras de urbanización.
+IX.- Licencia para excavaciones.
 
-j) Constancia de uso de suelo.
+X.- Constancia de terminación de obra.
 
-k) Constancia de unión y división de inmuebles.
+XI.- Licencia de Urbanización.
 
-l) Licencia para efectuar excavaciones o para la construcción de pozos o albercas.
+XII.- Validación de planos.
 
-m) Licencia para construir bardas o colocar pisos.
+XIII.- Emisión de dictamen técnico.
+
+XIV.- Visitas de inspección.
+
+XV.- Revisión previa de proyecto.
+
+XVI.- Expedición del oficio de Anuencia de Electrificación.
+
+XVII.- Autorización de la construcción de Desarrollo Inmobiliario.
+
+XVIII.- Autorización de la Modificación de Desarrollo Inmobiliario.
+
+XIX.- Expedición de oficio de zona de Reserva de Crecimiento.
+
+XX.- Revisión de Integración de Predios Ejidales.
+
+XXI.- Dictamen técnico y trámite de servicio (sic) catastrales en Ventanilla Digital.
 
 DE LAS BASES
 
@@ -1652,3 +1674,15 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
