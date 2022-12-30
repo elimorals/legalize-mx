@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-turismo-para-el-estado-de-guanajuato-y-sus-municipios-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-24"
-last_updated: "2018-05-29"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 24 de diciembre de 2010.
 
@@ -1068,3 +1070,31 @@ Inicio de la vigencia
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 170, MEDIANTE EL CUAL SE EXPIDE LA LEY DE TURISMO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación de la Ley de Turismo
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Turismo para el Estado de Guanajuato, contenida en el Decreto Legislativo Número 120, publicada en el Periódico Oficial del Gobierno del Estado número 205, Segunda Parte de fecha 24 de diciembre de 2010.
+
+Término para expedir la normativa reglamentaria estatal
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado expedirá el reglamento de la presente Ley, dentro de los ciento ochenta días siguientes a la entrada en vigor de ésta.
+
+Término para expedir la normativa reglamentaria municipal
+
+###### ARTÍCULO CUARTO.
+
+Los municipios expedirán o realizarán las reformas correspondientes a sus reglamentos dentro de los ciento ochenta días siguientes a la entrada en vigor de esta Ley.
