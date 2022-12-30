@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2022-09-19"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -212,6 +212,10 @@ Queda prohibido utilizar como propaganda gubernamental en el equipamiento urbano
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JULIO DE 2021)</small>
 
 Para el otorgamiento de uso de suelo y construcción, para el establecimiento u operación de cualquier giro comercial, industrial o de servicios en zona agrícola, pecuaria, agropecuaria, forestal y ambiental que no sea de competencia federal será requisito indispensable que su operación o finalidad no contravengan el Programa de Ordenamiento Ecológico del Estado, la planeación urbana estatal y municipal, así como planes y programas establecidos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Quedan prohibidos los usos de suelo y de construcción para casinos, casas, centros o cualquier establecimiento que opere juego con apuestas, apuestas remotas, salas de sorteo de números, mesas de juego, máquinas electrónicas de juego, videojuegos electrónicos susceptibles de apuestas, máquinas de videojuegos electrónicos o electromecánicas de habilidad y destreza, juegos de azar y demás similares, salvo en aquellos casos en que el uso de suelo y construcción sea para un establecimiento de dicha naturaleza que ya se encuentre operando en la entidad y solo requiera reubicación dentro del municipio donde se ubique; o se refiera a cualquiera de dichos establecimientos que constituya en sí mismo efectivamente un detonante como nuevo polo de desarrollo para el crecimiento del municipio de que se trate, siempre que ello propicie la generación de empleos, el desarrollo económico o turístico de una zona y que su otorgamiento no contravenga la planeación urbana estatal y municipal.
 
 ###### ARTICULO 5.
 
@@ -3182,3 +3186,9 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos deberán ajustar su reglamentación dentro de los tres meses siguientes al inicio de su vigencia de esta Reforma.
 
 TERCERO.- Los procedimientos relacionados con la autorización de proyectos ejecutivos de acciones de urbanización en trámite al inicio de la vigencia de este decreto se sustanciarán conforme a las normas vigentes al momento de la presentación de la solicitud a que se refiere el artículo 172 de la Ley de Desarrollo Urbano del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 197 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA AL ARTÍCULO 4 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
