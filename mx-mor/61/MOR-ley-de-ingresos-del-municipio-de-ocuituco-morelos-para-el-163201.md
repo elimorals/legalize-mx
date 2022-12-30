@@ -1,0 +1,58 @@
+---
+title: "LEY DE INGRESOS DEL MUNICIPIO DE OCUITUCO, MORELOS, PARA EL EJERCICIO FISCAL 2023"
+identifier: "MOR-ley-de-ingresos-del-municipio-de-ocuituco-morelos-para-el-163201"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2022-12-30"
+last_updated: "2022-12-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163201&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "163201"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "6156 EXTRAORDINARIA SEXTA SECCION"
+reform_count: "0"
+scjn_last_update: "2022-12-30"
+issue_date: "2022-12-29"
+municipality: "Ocuituco"
+municipality_inegi: "17016"
+state: "MOR"
+---
+# LEY DE INGRESOS DEL MUNICIPIO DE OCUITUCO, MORELOS, PARA EL EJERCICIO FISCAL 2023
+
+LEY DE INGRESOS DEL MUNICIPIO DE OCUITUCO, MORELOS PARA EL EJERCICIO FISCAL 2023
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sexta Sección Extraordinaria del Periódico Oficial del Estado de Morelos, el viernes 30 de diciembre de 2022.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+###### ARTÍCULO 32.
+
+DE LA SECRETARÍA MUNICIPAL: ARCHIVO MUNICIPAL
+
+CONCEPTO CUOTA
+
+(NOTA: EL 24 DE AGOSTO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 55/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MINÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 30 DE AGOSTO DE 2023 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+I.- búsqueda de documento resguardado
+
+en el archivo municipal, generado por
+
+las dependencias o entidades municipales 5 U.M.A.
+
+II.- CERTIFICACIÓN DE DOCUMENTOS
+
+RESGUARDADOS EN EL ARCHIVO MUNICIPAL,
+
+POR LEGAJO 5 U.M.A.
+
+III.- CERTIFICACIÓN DE PLANO ARQUITECTÓNICO
+
+INTEGRADO AL EXPEDIENTE, GENERADO POR EL
+
+AYUNTAMIENTO, POR PLANO 4 U.M.A.
