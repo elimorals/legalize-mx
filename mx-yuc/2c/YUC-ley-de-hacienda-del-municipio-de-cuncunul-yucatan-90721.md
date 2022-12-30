@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-cuncunul-yucatan-90721"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE CUNCUNUL, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE CUNCUNUL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE CUNCUNUL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 26 de diciembre de 2012.
 
@@ -1442,3 +1444,19 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL MUNICIPIO DE CUNCUNUL, YUCATÁN”.]
+
+Artículo primero. Esta Ley entrará en vigor el día 1 de enero del año 2023, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se abroga la Ley de Hacienda de Cuncunul, Yucatán, publicada mediante decreto número 15, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 26 de diciembre de 2012.
+
+Artículo tercero. Lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 587/2022 POR EL QUE SE EXPIDEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANTAMAYEC, CONKAL, CUNCUNUL, CHANKOM, CHUMAYEL, HOCABÁ, HUNUCMÁ, IXIL, OXKUTZCAB Y UCÚ, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2023, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
