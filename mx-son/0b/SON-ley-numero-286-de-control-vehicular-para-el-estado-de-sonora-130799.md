@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-286-de-control-vehicular-para-el-estado-de-sonora-13
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2020-12-24"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 27 de septiembre de 2018.
 
@@ -441,7 +441,9 @@ I.- Alta o inscripción:
 
 A) Tratándose de vehículos nuevos:
 
-1. Presentar físicamente la unidad para inspección y verificación de calca de número de serie o número de identificación vehicular;
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+1. Presentar físicamente el vehículo para la inspección del mismo, así como para la toma de fotografía del número de serie o número de identificación vehicular y fotografía de frente y de costado del vehículo completo;
 
 2. Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
@@ -451,7 +453,9 @@ A) Tratándose de vehículos nuevos:
 
 B) Tratándose de vehículos usados:
 
-1. Presentar físicamente la unidad para inspección y verificación de calca de número de serie o número de identificación vehicular;
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+1. Presentar físicamente el vehículo para la inspección del mismo, así como para la toma de fotografía del número de serie o número de identificación vehicular y fotografía de frente y de costado del vehículo completo;
 
 2. Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
@@ -503,7 +507,9 @@ También procederá la baja de un vehículo del Registro Vehicular Estatal, cuan
 
 VI.- Permiso para circular sin placas:
 
-A) Presentar físicamente la unidad para inspección y verificación de calca de número de serie o número de identificación vehicular;
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+A) Presentar físicamente el vehículo para la inspección del mismo, así como para la toma de fotografía del número de serie o número de identificación vehicular, y fotografía de frente y de costado del vehículo completo.
 
 B) Original del documento con el que acredite la propiedad del vehículo en los términos de la presente Ley;
 
@@ -1164,3 +1170,23 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Hacienda, a más tardar el día 20 de febrero de 2021 y previa consulta con las Comisiones de Hacienda del Congreso del Estado, deberá emitir las reglas de carácter general para la distribución de los recursos que se recuden (sic) con motivo de la contribución para el fortalecimiento y sostenimiento de los cuerpos de bomberos contenida en los artículos 292 BIS-6, 292 BIS-7 y 292 Bis-8 de la Ley de Hacienda del Estado.
+
+B.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 90, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, Y DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero de 2023, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el artículo 221 BIS 2, de la Ley de Hacienda del Estado de Sonora, será aplicable únicamente para lo recaudado por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal causado en el ejercicio fiscal del año 2023 y ejercicios subsecuentes, por lo que la recaudación correspondiente a la causación de los ejercicios 2022 y anteriores, que se recauden en dicho año 2023 o los siguientes, serán destinados en los términos de las disposiciones vigentes con anterioridad a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El 10% del importe de los recursos recaudados durante el ejercicio fiscal 2023, por el cobro del derecho por concepto de expedición de placas, en tratándose de vehículos para uso privado y para servicio público local, establecido en el inciso a) de los numerales 1 y 2, respectivamente, del artículo 312 de la Ley de Hacienda del Estado de Sonora, se destinará para la ampliación y modernización de la prestación del servicio público estatal de transporte.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Catastral y Registral para el Estado de Sonora, deberá emitir los lineamientos relativos a la presentación de la fianza para hacer uso del escritorio notarial, a que se hace referencia en el artículo 326, fracción V, numeral 8, párrafo tercero, de la Ley de Hacienda del Estado de Sonora, dentro del plazo de 90 días naturales a la entrada en vigor del presente Decreto.
