@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2022-03-08"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2024, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 28 DE DICIEMBRE DE 2023.]
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -83,9 +85,9 @@ No se considerarán servicios de hospedaje, el albergue o alojamiento prestados 
 
 Los contribuyentes realizarán el traslado del impuesto a las personas a quienes se preste el servicio de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas del monto equivalente al impuesto establecido en este Capítulo.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores que intervengan en la prestación de los servicios de hospedaje, que se realicen con la intervención de diversas plataformas tecnológicas, digitales, aplicaciones informáticas y similares, que a través de internet interconectan a las personas para la contratación de dichos servicios, respecto de personas físicas, morales o las unidades económicas contribuyentes del impuesto. En caso de que los intermediarios o facilitadores reciban directamente el monto de las erogaciones por la prestación de los servicios gravados, estarán obligados a presentar el aviso de inscripción al Registro Estatal de Contribuyentes y cumplir las demás obligaciones establecidas en la legislación local, salvo que acrediten que dichas obligaciones fueron cumplidas en cada caso por los prestadores de servicio de hospedaje.
+Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores que intervengan en la prestación de los servicios de hospedaje, que se realicen con la intervención de diversas plataformas tecnológicas, digitales, aplicaciones informáticas y similares, que a través de internet interconectan a las personas para la contratación de dichos servicios, respecto de personas físicas, morales o las unidades económicas contribuyentes del impuesto. En caso de que los intermediarios o facilitadores reciban directamente el monto de las erogaciones por la prestación de los servicios gravados, estarán obligados a presentar el aviso de inscripción al Registro Estatal de Contribuyentes y cumplir las demás obligaciones establecidas en la legislación local, así como exigir a sus asociados inscribirse en el Registro Estatal de Contribuyentes, salvo que acrediten que dichas obligaciones fueron cumplidas en cada caso por los prestadores de servicio de hospedaje.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -109,11 +111,11 @@ Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de t
 
 En el supuesto de la administración por un tercero, persona física o moral al inscribirse en el Registro Estatal de Contribuyentes deberán presentar la documentación respectiva en ese momento y en posteriores e informar a la Autoridad Fiscal la baja del documento que se trate.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-La tasa del impuesto será del 2% sobre el valor de las contraprestaciones que los contribuyentes perciban por los servicios de hospedaje.
+La tasa del impuesto será del 3% sobre el valor de las contraprestaciones que los contribuyentes perciban por los servicios de hospedaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -1491,15 +1493,19 @@ II.- Para vehículos de propulsión mecánica:
 
 a).- El 80% del valor total del vehículo de la primera facturación, para vehículos cuyo modelo corresponda al año de aplicación de esta Ley;
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b).- Tratándose de vehículos que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor de compra que se determine en base a la guía EBC que es la guía oficial de información para comerciantes en automóviles y aseguradoras en nuestro país sobre precios de vehículos usados del mes de noviembre del año anterior al de aplicación de la Ley.
+b).- Tratándose de vehículos que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor de compra que se determine en base al Tabulador Oficial para el pago del Impuesto Sobre Traslación de Dominio de Bienes Muebles, determinado para vehículos de propulsión mecánica, sobre precios de automóviles usados.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+El Tabulador Oficial para el pago del Impuesto Sobre Traslación de Dominio de Bienes Muebles, determinado para vehículos de propulsión mecánica, sobre precios de automóviles usados, será publicado una vez al año, en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-La guía EBC sobre precios de automóviles usados será publicada en el Boletín Oficial del Gobierno del Estado de Sonora, así como en la página electrónica oficial de la Secretaria de Hacienda del Estado de Sonora.
+La Secretaría de Hacienda del Estado, podrá utilizar como referencia para determinar el valor comercial que sirva de base para el pago del impuesto, consignado en el Tabulador Oficial mencionado en el párrafo que antecede, el valor que se establezca en las diversas Guías y Publicaciones sobre precios de automóviles usados, que existen en el mercado y tratándose de vehículos no comprendidos en dichos documentos, el valor comercial consignado en el avalúo pericial presentado por el contribuyente.
 
-c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en las Guías o Publicaciones a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
+Las personas físicas o morales que realicen las operaciones de traslación de dominio a que se refiere esta Sección Primera, podrán inconformarse con el valor determinado por la Secretaría de Hacienda del Estado, dentro del plazo de 30 días, contados a partir del día siguiente al que surta efectos la notificación del valor o al que tenga conocimiento del mismo. Para este efecto, presentarán escrito ante la citada Secretaría, en el cual manifiesten los motivos de su inconformidad, acompañando los elementos de prueba que estimen necesarios. La Secretaría emitirá su resolución en un plazo no mayor de 30 días, misma que podrá ser impugnada mediante el recurso de revocación establecido en el Capítulo I, del Título Quinto del Código Fiscal del Estado de Sonora, o a través del procedimiento contencioso administrativo señalado en la Ley de Justicia Administrativa del Estado de Sonora.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en el Tabulador Oficial para el pago del Impuesto Sobre Traslación de Dominio de Bienes Muebles, determinado para vehículos de propulsión mecánica, sobre precios de automóviles usados, a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1589,9 +1595,9 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
-> <small>(REFORMADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción ll del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, o que preste sus servicios como bombero o voluntario en cualquiera de los 72 municipios del Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
+Cuando el sujeto del impuesto acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad, en los términos del artículo 298, fracción II del presente ordenamiento o que presta sus servicios como socorrista de Cruz Roja Mexicana, I. A. P., en cualquiera de las Delegaciones o Bases en el Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, o que preste sus servicios como bombero o voluntario en cualquiera de los 72 municipios del Estado de Sonora, con una antigüedad de, por lo menos, cuatro años, se aplicará la tasa correspondiente reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de seis veces el valor diario de la Unidad de Medida y Actualización general, vigente en el Estado; esta reducción será efectiva en el Impuesto que corresponda al ejercicio fiscal en curso.
 
 ###### Artículo 189 Bis.
 
@@ -2233,13 +2239,11 @@ La base de este impuesto es el monto total de los pagos realizados en dinero o e
 
 Son sujetos del impuesto quienes realicen los pagos en dinero o en especie por las remuneraciones a que se refiere el artículo 213 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 216.
+###### ARTÍCULO 216.
 
-La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones en dinero o en especie, pagadas en un mes o parte de él, será del 2%.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones en dinero o en especie, pagadas en un mes o parte de él, será del 3%.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2351,9 +2355,7 @@ La Secretaría de Hacienda hará efectivo el estímulo mediante la selección de
 
 La Secretaría de Hacienda otorgará anualmente este beneficio de hasta el 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-El otorgamiento del estímulo en el pago del impuesto a que se refiere el presente artículo, no exime el pago del impuesto para el sostenimiento de las Universidades de Sonora y de la contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 > <small>(DEROGADO SÉPTIMO PARRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -2403,9 +2405,7 @@ El beneficio fiscal señalado en el presente artículo, no será acumulable con 
 
 El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del impuesto para el sostenimiento de las Universidades de Sonora y de la contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-Los contribuyentes que accedan a los beneficios previstos en este artículo, deberán solicitar previamente autorización ante la Secretaría de Hacienda, y renovar su solicitud de forma trimestral.
+> <small>(DEROGADO DECIMONOVENO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -2433,9 +2433,7 @@ Los contribuyentes beneficiarios al estímulo previsto en este artículo deberá
 
 El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -2449,9 +2447,7 @@ El beneficio fiscal establecido en el presente artículo se aplicará única y e
 
 El beneficio fiscal señalado en el presente artículo, no será acumulable con otras reducciones o estímulos relacionados con el Impuesto Sobre Remuneraciones al Trabajo Personal, ni dará derecho a devolución o compensación alguna.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
-
-El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del Impuesto para el Sostenimiento de las Universidades de Sonora y de la Contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -2471,15 +2467,15 @@ La Secretaría de Hacienda en conjunto con la Comisión del Deporte del Estado d
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Los contribuyentes que tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados "del Régimen de incorporación fiscal", podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal con anticipación.
+Los contribuyentes que acrediten que continúan tributando en el denominado “Régimen de incorporación fiscal” que se establecía en la Sección II del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta vigente hasta diciembre de 2021, podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal con anticipación.
 
 > <small>(DEROGADO TERCER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, las Contribuciones para el Fortalecimiento de la Infraestructura Educativa y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
+Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -2589,9 +2585,21 @@ Las autoridades fiscales podrán requerir a las personas físicas o morales la p
 
 Por el personal directivo o de base, no incluidos en dicho contrato de prestación de servicios de personal, deberá de pagarse el Impuesto de acuerdo a lo especificado en este Capítulo.
 
-> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Artículo 221 BIS-1.- La realización de pagos por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal, por el Estado de Sonora y los Municipios del Estado, así como los realizados por los organismos descentralizados del Estado de Sonora y de los Municipios del Estado, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
+Artículo 221 BIS-1.- La realización de pagos por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal, no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora y las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa, establecidos en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 221 BIS-2.- No obstante lo dispuesto en el artículo 221 BIS-1 anterior, el Ejecutivo del Estado, a través de la Secretaría de Hacienda, deberá destinar recursos correspondientes al 30% de los ingresos efectivamente recaudados en el ejercicio fiscal que corresponda, por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal, de la siguiente manera:
+
+I.- Un tercio del porcentaje citado en el párrafo anterior para el sostenimiento de las Universidades de Sonora. El recurso se concentrará en la Tesorería General del Estado, para que ésta lo entregue a la Tesorería del Patronato de las Universidades. El recurso deberá destinarse en razón de un 80% a la Universidad de Sonora y el 20% restante para el resto de las Universidades estatales.
+
+II.- Un tercio del porcentaje citado en el párrafo anterior, para el Consejo Estatal de Concertación para la Obra Pública, mismo que deberá destinarse para el cumplimiento del objeto para el que fue creado.
+
+III.- El tercio restante del porcentaje citado en el párrafo anterior, para el Fortalecimiento de la Infraestructura Educativa, mismo que deberá destinarse para conservar, crear y mantener infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
+
+Los recursos a que hace referencia el primer párrafo de este artículo, en ningún caso podrán exceder el 20% del presupuesto aprobado en la Ley de Ingresos y Presupuesto de Ingresos del Estado de Sonora del ejercicio que se trate, por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
 #### Sección Segunda. Del Impuesto a la Prestación de Servicios bajo la Dirección y Dependencia de un Tercero
 
@@ -3317,11 +3325,9 @@ ARTÍCULO 292 BIS-2.- Toda la recaudación que por concepto de esta contribució
 
 ### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 292 Bis
-
-3.- Para el fortalecimiento y sostenimiento de la Cruz Roja, se causará una cuota adicional en cantidad de $60.00 pesos por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
+Artículo 292 BIS-3.- Para el fortalecimiento y sostenimiento de la Cruz Roja, se causará una cuota adicional equivalente a 0.70 Unidades de Medida y Actualización (UMA), por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -3343,10 +3349,6 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo III Bis 2. Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
-
 ###### Artículo 292 Bis
 
 5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
@@ -3361,9 +3363,11 @@ El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Co
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
-###### Artículo 292 Bis
+### Capítulo III Bis 2. Contribución para el Fortalecimiento y Sostenimiento de los Cuerpos de Bomberos
 
-6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se causará una cuota adicional en cantidad de $50.00 pesos por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 292 BIS-6.- Para el fortalecimiento y sostenimiento de los cuerpos de bomberos, se causará una cuota adicional equivalente a 0.60 Unidades de Medida y Actualización (UMA), por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -3382,6 +3386,30 @@ b).- Por revalidación de placas de circulación; y
 c).- Por expedición de licencias y permisos de conducir.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 292 Bis
+
+7.- No causará la cuota adicional a que se refiere este capítulo, en los pagos que se realicen por los siguientes conceptos:
+
+> <small>(ADICIONADO, B.O. 8 DE MARZO DE 2018)</small>
+
+Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente, para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los consejos estatales o municipales, para la integración de las personas con discapacidad.
+
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 292 Bis
+
+8.- Toda la recaudación que por concepto cuota adicional se obtenga, será exclusivamente para el fortalecimiento y sostenimiento de los cuerpos de bomberos que se encuentren reconocidos por los ayuntamientos de los municipios del estado.
+
+La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de los cuerpos de Bomberos correspondiente al ejercicio inmediato anterior.
+
+De los recursos que se recauden por la presente contribución, el 100% se entregará a patronatos de los cuerpos de bomberos de los ayuntamientos del Estado, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
+
+En caso de que un ayuntamiento cuente con más de un cuerpo de bomberos reconocido, se procederá a la repartición del recurso económico de manera proporcional al número de elementos que integre cada cuerpo de bomberos.
+
+En caso de que un ayuntamiento no cuente con un cuerpo de bomberos reconocido, se procederá a entregar los recursos recaudados al cuerpo o cuerpos de bomberos del municipio más cercano que brinde los servicios, conforme se establezca en reglas de carácter general que emita la Secretaría de Hacienda.
+
+El ayuntamiento, organismo, patronato o cualquier otro tipo de organización pública o privada, que actuando como intermediario de los cuerpos de bomberos, reciba los recursos a que se refiere este capítulo, deberá rendir un informe pormenorizado del destino de dichos recursos al Congreso del Estado de Sonora, dentro de los 30 días siguientes de haberlos recibido.
 
 ### Capítulo Cuarto. Otras Contribuciones
 
@@ -3689,17 +3717,17 @@ f).- Restaurante con bar anexo o Cine VIP. $199,800.00
 
 g).- Tienda de autoservicio. $352,976.00
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-h).- Tienda departamental. $352,976.00
+h).- Tienda departamental $473,539.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 i).- Tienda de abarrotes. $200,000.00
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-j).- Centro nocturno. $495,596.00
+j).- Centro nocturno $803,245.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
@@ -3717,21 +3745,25 @@ m).- Hotel o motel. $100,000.00
 
 n).- Porteadora. $30,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-ñ).- Autorizaciones con fines determinados. Por día. $1,500.00
+ñ).- Autorizaciones con fines determinados. Por día. $3,199.00
+
+1. Autorizaciones con fines determinados. Por día.
+
+En eventos con menos de dos mil asistentes. $3,199.00
+
+2. Autorizaciones con fines determinados. Por día.
+
+En eventos con más de dos mil asistentes. $4,799.00
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 o).- Billar o boliche. $263,049.00
 
-> <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-p).- Centro nocturno con espectáculos de baile
-
-semidesnudos de hombres y/o mujeres, mayores
-
-de edad. $495,596.00
+p).- Centro nocturno con espectáculos de baile semidesnudos de hombres y/o mujeres, mayores de edad. $803,245.00
 
 q).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
@@ -4411,11 +4443,7 @@ b).- Copia certificada $50.00
 
 8.- Por constancia de no servidor público. $130.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-9.- Por expedición de certificados sobre antecedentes
-
-Penales, por cada uno. $ 70.00
+9.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -4523,9 +4551,9 @@ Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas.
 
 Por hoja de los testimonios. $117.50
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-2.- Por expedición de documentos integrantes del apéndice (planos, colindancias, etc.), por cada hoja, incluida su certificación $68.00
+2.- Por expedición de documentos integrantes del apéndice (planos, colindancias, etc.) por cada hoja y hasta un máximo de 20, incluida su certificación. Por cada adicional se cobrará como copia certificada. $89.00
 
 > <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -4535,33 +4563,27 @@ a).- Copia simple $16.50
 
 b).- Copia certificada $56.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-4.- Por rendir informe sobre la existencia o no de testamento en procedimiento sucesorio, por cada autor de la sucesión $262.00
+4.- Por rendir informe sobre la existencia o no de testamento en procedimiento sucesorio, por cada autor de la sucesión $311.00
 
-a).- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b).- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2021)
-
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-5.- Por autorización de protocolos para uso de los notarios (sellado y certificado) por cada libro. $350.00
+5.- Por autorización de protocolos para uso de los notarios (sellado y certificado), por cada libro $1,035.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-7.- Por la recepción del protocolo notarial, que comprende libros y apéndices para su guarda y custodia, por cada uno de ellos ya sea por antigüedad o por cierre de Notaría $100.00
+7.- Por la recepción del protocolo notarial, que comprende libros y apéndices para su guarda y custodia, por cada uno de ellos ya sea por antigüedad o por cierre de Notaría, cuando cumplan con lo establecido en los lineamientos técnicos del empastado y encuadernación del protocolo notarial para el Estado de Sonora, publicado en la edición especial del Boletín Oficial del Estado de Sonora, de fecha miércoles 01 de noviembre del 2020, tomo CCV $200.00
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+8. Por certificación de cierre de protocolos realizados durante la visita general, para tal fin, por cada libro $580.00
 
-8.- Por certificación de cierre de protocolos realizados durante la visita general, para tal fin, por cada libro. $350.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
-
-9.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $171.00
+9. Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamento $295.00
 
 10.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
@@ -4581,25 +4603,27 @@ a).- Copia simple
 
 b).- Copia certificada
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+c) Testimonios
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+d) Informes de testamentos
+
 > <small>[N. DE E. PERTENECE AL NUMERAL 13, B.O. 24 DE DICIEMBRE DE 2018]</small>
 
 Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-14.- Por la presentación de examen de aspirante a notario $20,879.00
+14.- Por la presentación de examen de aspirante a notario $12,490.00
 
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-15.- Por presentación de examen de oposición para ser titular de una notaría pública.
+15.- Por presentación de examen de oposición para ser titular de una notaría pública $21,015.00
 
-$35,131.00
-
-> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
-
-16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento que requiera autorización.
-
-$1,500.00
+16.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -4609,13 +4633,33 @@ $1,500.00
 
 18.- Por expedición de testimonios, copias certificadas y copias simples, que se encuentren depositadas en los archivos de la Dirección General de Notarías, en las cuales haya intervenido como parte de la escritura dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, los derechos por los servicios se reducirán en un 50%
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-19.- Asimismo, las que deriven con motivo de programas oficiales para satisfacer la demanda de dar seguridad jurídica de patrimonio seguro, se reducirá en un 33% el pago de estos derechos a los particulares beneficiados y a las personas morales tales como asociaciones de asistencia privada y asociaciones que cuenten con la CLUNI (Clave Única de Inscripción al Registro Federal de las Organizaciones de la Sociedad Civil), en tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por el responsable del programa.
+19.- Asimismo, las que derivan con motivo de programas oficiales para satisfacer la demanda de dar seguridad jurídica de patrimonio seguro, se reducirá en un 33% el pago de estos derechos a los particulares beneficiados y a las personas morales tales como asociaciones de asistencia privada y asociaciones que cuenten con la CLUNI (Clave Única de Inscripción al Registro Federal de las Organizaciones de la Sociedad Civil), en tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por el responsable del programa.
 
-> <small>(REFORMADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>[N. DE E. SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO, B.O. 30 DE DICIEMBRE DE 2022]</small>
 
-En cuanto a las personas de la tercera edad que presenten su credencial vigente del INAPAM se les otorgará un 30% de descuento en los servicios de expedición de testimonios de escrituras públicas incluida su certificación, por expedición de documentos integrantes del apéndice (planos, colindancias, etc.) por cada hoja, incluida su certificación, expedición de copia simple y copia certificada, siempre y cuando sea el interviniente en el documento solicitado.
+> <small>(ADICIONADO [N. DE E. ANTES PÁRRAFO SEGUNDO DEL NUMERAL 19], B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+20.- En cuanto a las personas de la tercera edad que presenten su credencial vigente del INAPAM se les otorgará un 30% de descuento en los servicios de expedición de testimonios de escrituras públicas incluida su certificación, por expedición de documentos integrantes del apéndice (planos, colindancias, etc.) por cada hoja, incluida su certificación, expedición de copia simple y copia certificada, siempre y cuando sea el interviniente en el documento solicitado.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+21.- Validación de poderes solicitados por los notarios públicos.
+
+Tarifa base $295.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+22.- Por cada certificación de documento del expediente notarial.
+
+Tarifa base $311.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+23. Por cada ejemplar de la carta de los derechos y obligaciones de los condóminos.
+
+Tarifa base $311.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4705,13 +4749,17 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 XII.- Por reproducción a digital de formatos amplios, planos y/o mapas del Acervo Histórico. $200.00
 
+> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIII.- Por la certificación de constancias y copias de expedientes y documentos del archivo administrativo de servidores públicos del Estado $114.00
+
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2018, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE MAYO DE 2018.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 312.
 
@@ -4721,9 +4769,9 @@ Las placas tipo único para todos los vehículos, se clasifican en los siguiente
 
 1.- Transporte privado, que deberán ostentar los vehículos de propulsión mecánica para uso particular:
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a).- Por expedición, la cual se realizará al momento de tramitar el alta del vehículo en el padrón vehicular estatal, debiendo recibir las placas correspondientes. $785.00
+a).- Por expedición, la cual se realizará al momento de tramitar el alta del vehículo en el padrón vehicular estatal, debiendo recibir las placas correspondientes. $1,377.00
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4751,9 +4799,9 @@ Por los servicios a que se refieren los incisos a), b) y c) anteriores, tratánd
 
 2.- De servicio público local, que deberán ostentar los vehículos de propulsión mecánica que se utilicen para prestar servicios de transporte de personas o cosas dentro del Estado:
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a).- Por expedición. $785.00
+a).- Por expedición $1,377.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5137,7 +5185,7 @@ $400.00 $200.00 $100.00
 
 ###### Artículo 320.
 
-Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, concesionarios o permisionarios, causarán el pago de derechos conforme a las especificaciones y cuotas siguientes:
+Los servicios que el Instituto de Movilidad y Transporte para el Estado de Sonora, preste a los particulares, concesionarios o permisionarios, causarán el pago de derechos conforme a las especificaciones y cuotas siguientes:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5299,7 +5347,9 @@ c) Carga ... (sic)
 
 12.- Por la expedición de certificados que acrediten el carácter de no concesionario del servicio público de transporte. N$ 45.00
 
-13.- Por certificación de copias de cualquier documento existente en los archivos de la Dirección General de Transporte a solicitud de parte o en cumplimiento de un mandato judicial gestionado por particulares.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+13.- Por certificación de copias de cualquier documento existente en los archivos del Instituto de Movilidad y Transporte para el Estado de Sonora, a solicitud de parte o en cumplimiento de un mandato judicial gestionado por particulares.
 
 a).- Por cada hoja N$ 20.00
 
@@ -5629,11 +5679,13 @@ $150.00
 
 Para el caso, de que el documento no esté consultable en formato digital, su verificación física no causará derecho alguno.
 
-> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-8.- Por el uso del Servicio Anual de Escritorio Notarial, se cobrará: $4,670.00
+8.- Por el uso del Servicio del Escritorio Notarial, se cobrará un importe de $50.00, por cada trámite de manera neta, misma cantidad que será destinada para equipo, mantenimiento y gastos generados por la operación física y virtual de esta herramienta tecnológica.
 
-Para el caso del servicio previamente solicitado de Escritorio Notarial, por cada mil búsquedas en línea que obren en la base de datos de cada Oficina Registral, según la disponibilidad así como los términos y condiciones de servicio vigentes a la fecha en que se solicite se cobrará: $9,200.00
+Para el caso del servicio previamente solicitado de Escritorio Notarial, por cada mil búsquedas en línea que obren en la base de datos de cada Oficina Registral, según la disponibilidad así como los términos y condiciones de servicio vigentes a la fecha en que se solicite se cobrará $9,200.00
+
+Para hacer uso del escritorio notarial se establece una fianza por la cantidad de $90,000.00 y esta se contará, aplicará y ejecutará en los términos que para tal efecto tenga a bien emitir mediante lineamiento el Instituto Catastral y Registral para el Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2021)</small>
 
@@ -5672,6 +5724,10 @@ Tratándose del primer aviso preventivo destinado para vivienda cuyo valor, toma
 > <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
 17.- Por segundo ejemplar cuando sea simultánea la inscripción del primer ejemplar se cobrará: $196.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+18.- Por la presentación del Aviso Preventivo Definitivo se cobrará: $100.00
 
 > <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -6121,15 +6177,15 @@ transporte concesionado por el Estado. N$3,000.00
 
 de estudio de impacto ambiental:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a).- Autorización de actividad riesgosa. $7,315.00
+a) Ingreso, Evaluación y Posible Autorización en Materia de Riesgo Ambiental $12,665.00
 
 b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-c).- Autorización en materia de evaluación de impacto ambiental. $7,064.00
+c) Ingreso, Evaluación y Posible Autorización en Materia de Impacto Ambiental. $12,327.00
 
 d).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -6139,29 +6195,13 @@ e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
 13.- Por los servicios de evaluación e información y dictamen para:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a).- Autorización de licencia de funcionamiento. $6,246.00
+a).- Ingreso, evaluación y posible autorización en materia de control y contaminación de la atmosfera (licencia de funcionamiento) $11,058.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b).- Resolución de ampliación, modificación,
-
-sustitución de infraestructura, rehabilitación y
-
-el mantenimiento de instalaciones relacionadas con
-
-las obras y actividades señaladas en el artículo 27,
-
-de la Ley del Equilibrio Ecológico y Protección al
-
-Ambiente del Estado de Sonora, así como las que se
-
-encuentren en operación, conforme al reglamento
-
-correspondiente de dicha Ley, cuando no requieran
-
-autorización en materia de impacto ambiental. $1,853.00
+b).- Ingreso, evaluación y resolución de excepción de impacto ambiental, por la ampliación, modificación, sustitución de infraestructura, rehabilitación y el mantenimiento de instalaciones relacionadas con las obras y actividades señaladas en el artículo 27 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Sonora, así como las que se encuentren en operación, conforme al artículo 28 de dicha ley, cuando no requieran autorización en materia de impacto ambiental. $4,455.00
 
 c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2009)
 
@@ -6209,81 +6249,111 @@ fuera del límite del centro de población $3,500.00
 
 20.- Autorización de permiso de combustión a cielo abierto. $816.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-21.- Autorización para la utilización de residuos de manejo
+21.- Ingreso, Evaluación y Posible Resolución de autorización para la utilización de residuos de manejo especial en procesos productivos. $3,635.00
 
-especial en procesos productivos. $1,308.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+22.- Ingreso, Evaluación y Posible Resolución de autorización para el acopio y almacenamiento de residuos de manejo especial proveniente de terceros. $$ (SIC) 3,635.00
 
-22.- Autorización para el Acopio y Almacenamiento
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-de Residuos de Manejo Especial proveniente
+22 Bis.- Ingreso Evaluación y Posible Autorización para la realización de cualquiera de las actividades relacionadas con el manejo integral de los residuos de manejo especial $3,635.00
 
-de Terceros y en general la Realización de Cualquiera de
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-las Actividades relacionadas con el Manejo de éstos. $1,308.00
+23.- Ingreso, Evaluación y Posible Resolución de autorización para la incineración de residuos de manejo especial. $6,411.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-23.- Autorización para la incineración de residuos de
+24.- Ingreso, Evaluación y Posible Resolución de autorización para el establecimiento de confinamientos para residuos de manejo especial dentro de las instalaciones en la que estos se generen. $4,057.00
 
-manejo especial. $3,158.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+25.- Ingreso, Evaluación y Posible Resolución de autorización para el establecimiento de sitios de disposición final de residuos de manejo especial. $15,743.00
 
-24.- Resolución de autorización para el establecimiento de
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-confinamientos para residuos de manejo especial dentro de
+26.- Ingreso, Evaluación y Posible Resolución de autorización para el manejo de residuos peligrosos por micro generadores. $6,905.00
 
-las instalaciones en las que éstos se generen. $1,588.00
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+27.- Recepción, evaluación y posible resolución de la autorización para la prestación de servicios para el manejo de residuos de manejo especial. $$ (SIC) 1991.00
 
-25.- Autorización para el establecimiento de sitios de
+Adicional al pago de derechos del permiso de prestación de servicio de transporte de residuos de manejo especial, se generará un pago de derechos por vehículo, conforme a las siguientes cuotas:
 
-disposición final de residuos de manejo especial. $9,362.00
+a).- 1 año: $1,991.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+b).- 2 años: $3,982.00
 
-26.- Autorización para el manejo de residuos peligrosos
+c).- 3 años: $5,973.00
 
-por microgeneradores. $3,483.00
+d).- 4 años: $7,964.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+e).- 5 años: $9,955.00
 
-27.- Autorización para la prestación de servicios
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-para el manejo de residuos de manejo especial. $1,225.00
+27.- Bis. Por vehículo que se registre para prestar el servicio de manejo de residuos de manejo especial. $200.00.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-28.- Autorización para el co-procesamiento
+28.- Ingreso, Evaluación y Posible Resolución de autorización para el co-procesamiento y tratamiento de residuos de manejo especial. $3,635.00
 
-y tratamiento de residuos de manejo especial. $1,308.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+29.- Ingreso, Evaluación y Posible Resolución de autorización para la transferencia de autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, de manejo y disposición final de residuos y su manejo integral. 25% del pago de derechos de la autorización que se pretenda transferir + costo de ingreso y evaluación.
 
-29.- La transferencia de autorizaciones expedidas por la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, de manejo y disposición final de residuos y su manejo integral, 25% del pago de derechos de la Autorización que se pretenda transferir.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 6 DE AGOSTO DE 2012)</small>
+30.- Inscripción y emisión de registro como Empresa Generadora de Residuos de Manejo Especial, conforme a las siguientes cuotas:
 
-30.- Por la inscripción en el registro como
+a).- 1 año: $1,626.00
 
-empresa generadora de residuos de
+b).- 2 años: $3,252.00
 
-manejo especial. $ 1,000.00
+c).- 3 años: $4,878.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+d).- 4 años: $6,504.00
 
-31.- Por la inscripción en el registro como empresa
+e).- 5 años: $8,130.00
 
-generadora de residuos peligrosos (microgenerador). $1,089.00
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+31.- Inscripción y emisión de registro como Empresa Generadora de Residuos Peligrosos (Micro Generador), conforme a las siguientes cuotas:
 
-Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 y 31, de esta fracción, se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+a).- 1 año: $1,639.00
+
+b).- 2 años: $3,278.00
+
+c).- 3 años: $4,917.00
+
+d).- 4 años: $6,556.00
+
+e).- 5 años: $8,195.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+32.- Recepción, Evaluación, y Posible modificación de Licencia Ambiental Integral. $8,000.00.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+33.- Expedición de modificación o actualización de los Registros como Prestador de Servicios de Transporte de Residuos de Manejo Especial. $1,000.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+34.- En el caso de prestador de Servicios para el Transporte de Residuos de Manejo Especial, se generará una cuota de $200.00 por vehículo a adicionar.
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+35.- Expedición de modificación o actualización de los Registros de Generador de Residuos de Manejo Especial. $1,000.00.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 y 35 de esta fracción, se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -6685,6 +6755,14 @@ $5,700.00
 
 52.- Registro de constancia de cursos de Educación Continua y Certificación Profesional de los asociados a los Colegios de Profesionistas Registrados $19.00
 
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+53.- Refrendo de autorización a Reconocimiento de Validez Oficial de Estudios. $6,506.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+54.- Validación de Registro Profesional Estatal y cédula para ejercer en el extranjero. $125.00
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Seguridad Pública.
@@ -6714,6 +6792,10 @@ c) De vigilancia interna. Gratuita.
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 5.- Consulta de antecedentes penales y policiales. $133.00
+
+> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+6.- Expedición de cédula de identificación de personal operativo. $225.00
 
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -6819,17 +6901,27 @@ c)-1.- $6,473.00 hasta 100 kg.
 
 c)-2.- A partir de 100 kg. hasta 1 (una) tonelada $6,473.00 más $2.00 por kilo extra solicitado.
 
-c)-3.-A partir de 1 (una) tonelada en adelante $8,273,00 más $10.00 por tonelada extra solicitada.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+c)-3.- A partir de 1,000 kg en adelante se cobrará $10,227.00. Adicionalmente se sumarán $13.00 por cada tonelada extra solicitada.
 
 d).- Industrias químicas. $8,273.00
 
-e).- Fábrica de elementos pirotécnicos, hasta 50 kg. más $2.00 adicionales por cada kilo extra solicitado. $6,473.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-f).- Talleres de artificios pirotécnicos hasta 50 kg más $2.00 adicionales por cada kilo extra solicitado. $6,473.00
+e).- Fábrica de elementos pirotécnicos, de 0.1 a 50 kg. Se cobrará $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra.
 
-g).- Bodega y/o polvorines para artificios pirotécnicos hasta 50 kg más $2.00 adicionales por cada kilo extra solicitado. $6,473.00
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-h).- Bodega y/o polvorines para sustancias químicas hasta 100 kg más $2.00 adicionales por cada kilo extra solicitado. $8,273.00
+f).- Talleres de artificios pirotécnicos de 0.1 a 50 kg se cobrarán $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra solicitado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+g).- Bodega y/o polvorines para artificios pirotécnicos de 0.1 a 50 kg se cobrarán $8,001.00. Adicionalmente se sumarán $2.00 por cada kilo extra solicitado.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+h).- Bodega y/o polvorines para sustancias químicas de 0.1 a 100 kg de cobrarán $10,227.00. Adicionalmente se cobrarán $2.00 por cada kilo extra solicitado.
 
 7.- Para la elaboración de peritajes, a solicitud del interesado, de la evaluación inicial de la contingencia que se presente en la Entidad, por metro cuadrado de construcción, como sigue:
 
@@ -7347,17 +7439,27 @@ Los pagos por los servicios señalados en la presente fracción no causarán el 
 
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
 
-> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES E INCISOS], B.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XV.- Fondo Estatal para la Modernización del Transporte (FEMOT).
+XV.- Instituto de Movilidad y Transporte para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 1.- Expedición de tarjeta por primera vez. Gratuito.
 
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
+
 2.- Reexpedición de tarjeta. $50.00
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 3.- Servicio de Pasaje Urbano.
 
-El costo del presente numeral estará sujeto a la tarifa autorizada y publicada por el Consejo Ciudadano de Transporte Público Sustentable del Estado de Sonora.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+El costo del presente numeral estará sujeto a la tarifa autorizada y publicada por el Instituto de Movilidad y Transporte para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 4.- Por servicio de Subarrendamiento Mensual de unidades del servicio público del Transporte Urbano el cual variará dependiendo del modelo de la unidad:
 
@@ -7366,6 +7468,8 @@ a).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 b).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
 
 c).- (DEROGADO, B.O. 27 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2018)</small>
 
 Los pagos por los servicios señalados en la presente fracción no causarán el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública ni la contribución a la Infraestructura Educativa, establecidos en la presente Ley.
 
@@ -7409,135 +7513,21 @@ Los recursos que se obtengan por parte del Estado por los servicios señalados e
 
 XVII.- Servicios prestados por la Procuraduría Ambiental del Estado de Sonora:
 
-1.- Micro (todas) (hasta 10 empleados):
+1.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
+2.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-a) 0% a 25% ............................................. $35,000.00
+3.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-b) 26% a 50% ............................................ $30,000.00
+4.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-c) 51% a 75% ............................................ $27,500.00
+5.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-d) 76% a 85% ............................................ $25,000.00
+6.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-e) 86% a 99% ............................................ $20,000.00
+7.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
-f) 100% ................................................ $10,000.00
-
-2.- Pequeña (comercio) (Desde 11 hasta 30 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $40,000.00
-
-b) 26% a 50% ............................................ $35,000.00
-
-c) 51% a 75% ............................................ $30,000.00
-
-d) 76% a 85% ............................................ $27,500.00
-
-e) 86% a 99% ............................................ $25,000.00
-
-f) 100% ................................................ $15,000.00
-
-3.- Pequeña (industria y servicios) (Desde 11 hasta 50 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $40,000.00
-
-b) 26% a 50% ............................................ $35,000.00
-
-c) 51 % a 75% ........................................... $30,000.00
-
-d) 76% a 85% ............................................ $27,500.00
-
-e) 86% a 99% ............................................ $25,000.00
-
-f) 100% ................................................ $15,000.00
-
-4.- Mediana (comercio) (Desde 31 hasta 100 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $50,000.00
-
-b) 26% a 50% ............................................ $40,000.00
-
-c) 51% a 75% ............................................ $35,000.00
-
-d) 76% a 85% ............................................ $30,000.00
-
-e) 86% a 99% ............................................ $27,500.00
-
-f) 100% ................................................ $17,500.00
-
-5.- Mediana (servicios) (Desde 51 hasta 100 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $50,000.00
-
-b) 26% a 50% ............................................ $40,000.00
-
-c) 51% a 75% ............................................ $35,000.00
-
-d) 76% a 85% ............................................ $30,000.00
-
-e) 86% a 99% ............................................ $27,500.00
-
-f) 100% ................................................ $17,500.00
-
-6.- Mediana (industria) (Desde 51 hasta 250 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $50,000.00
-
-b) 26% a 50% ............................................ $40,000.00
-
-c) 51 % a 75% ........................................... $35,000.00
-
-d) 76% a 85% ............................................ $30,000.00
-
-e) 86% a 99% ............................................ $27,500.00
-
-f) 100% ................................................ $17,500.00
-
-7.- Grande (comercio y servicios) (Mayor de 101 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $70,000.00
-
-b) 26% a 50% ............................................ $60,000.00
-
-c) 51% a 75% ............................................ $50,000.00
-
-d) 76% a 85% ............................................ $45,000.00
-
-e) 86% a 99% ............................................ $30,000.00
-
-f) 100% ................................................ $20.000.00
-
-8.- Grande (industria) (Mayor de 251 empleados)
-
-Porcentaje de ICNAE en la primera evaluación oficial de la Procuraduría Ambiental del Estado de Sonora:
-
-a) 0% a 25% ............................................. $70,000.00
-
-b) 26% a 50% ............................................ $60,000.00
-
-c) 51% a 75% ............................................ $50,000.00
-
-d) 76% a 85% ............................................ $45,000.00
-
-e) 86% a 99% ............................................ $30,000.00
-
-f) 100% ................................................ $20,000.00
-
-*ICNAE: Índice de Cumplimiento Normativo Ambiental Estatal
+8.- (DEROGADO, B.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -7594,6 +7584,30 @@ c) Grande (21 o más jaulas, peceras y/o contenedores) ...... $20,000.00
 > <small>(ADICIONADO, B.O. 24 DE DICIEMBRE DE 2020)</small>
 
 Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción serán destinados a este Organismo Público Descentralizado para la operación del mismo.
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], B.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVIII.- Servicios prestados por la Fiscalía General de Justicia del Estado de Sonora:
+
+1.- Por expedición de certificados sobre antecedentes penales, por cada uno. $114.00
+
+2.- Por expedición de constancia de consulta de registros penales, por cada uno. $114.00
+
+3.- Por terapias psicológicas a las víctimas. $1,411.00
+
+4.- Por la expedición de copias certificadas de carpetas y/o documentos.
+
+a).- $108.00 Primera hoja certificada
+
+b).- $10.00 Siguientes hojas certificadas
+
+c).- $108.00 por copia simple de hasta 20 fojas útiles.
+
+5.- Por la expedición de constancias de denuncia de pérdida o extravío de documentos u objetos. $108.00
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XVIII]</small>
+
+Los recursos que se obtengan por parte del Estado por los servicios señalados en la presente fracción, serán destinados a este órgano público autónomo, para la operación del mismo.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -8522,3 +8536,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En la conformación del Comité Técnico al que se refiere el segundo párrafo del artículo 12 de esta Ley, el representante del Consejo para el Desarrollo Sostenible deberá contar con un perfil ligado a la promoción turística y uno de los cuatro integrantes del sector turístico privado deberá pertenecer al sector turístico rural.
+
+B.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 90, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE SONORA, DE LA LEY DE HACIENDA DEL ESTADO, Y DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1 de enero de 2023, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el artículo 221 BIS 2, de la Ley de Hacienda del Estado de Sonora, será aplicable únicamente para lo recaudado por concepto del Impuesto Sobre Remuneraciones al Trabajo Personal causado en el ejercicio fiscal del año 2023 y ejercicios subsecuentes, por lo que la recaudación correspondiente a la causación de los ejercicios 2022 y anteriores, que se recauden en dicho año 2023 o los siguientes, serán destinados en los términos de las disposiciones vigentes con anterioridad a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El 10% del importe de los recursos recaudados durante el ejercicio fiscal 2023, por el cobro del derecho por concepto de expedición de placas, en tratándose de vehículos para uso privado y para servicio público local, establecido en el inciso a), de los numerales 1 y 2, respectivamente, del artículo 312 de la Ley de Hacienda del Estado de Sonora, se destinará para la ampliación y modernización de la prestación del servicio público estatal de transporte.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Catastral y Registral para el Estado de Sonora, deberá emitir los lineamientos relativos a la presentación de la fianza para hacer uso del escritorio notarial, a que se hace referencia en el artículo 326, fracción V, numeral 8, párrafo tercero, de la Ley de Hacienda del Estado de Sonora, dentro del plazo de 90 días naturales a la entrada en vigor del presente Decreto.
