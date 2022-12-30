@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-141405"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2022-11-30"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Octava Parte del Periódico Oficial del Estado de Guanajuato, el lunes 30 de diciembre de 2019.
 
@@ -1051,7 +1051,9 @@ Sujetos obligados
 
 Están obligados al pago de este impuesto, las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
 
-En caso de incumplimiento al pago de este impuesto y cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora ésta será responsable solidaria por el pago de este impuesto.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora a través de plataformas tecnológicas, estas tendrán la calidad de retenedoras de este impuesto.
 
 Base del impuesto
 
@@ -1087,6 +1089,18 @@ El impuesto se pagará mediante declaraciones definitivas, a más tardar el día
 
 Los contribuyentes de este impuesto, deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el presente artículo, aun cuando no exista impuesto a pagar o enterar, y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando la contraprestación por servicios de hospedaje se cubra a través de una intermediaria, promotora o facilitadora por medio de plataformas tecnológicas, estas determinarán, retendrán y enterarán mensualmente el impuesto a que se refiere este Capítulo, mediante declaraciones definitivas a más tardar el día veintidós del mes inmediato siguiente a aquél en que se cause.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Las personas físicas o morales que presten los servicios quedan relevadas de la obligación de efectuar el cálculo y entero de este impuesto cuando la contraprestación del servicio de hospedaje se cubra a través de una intermediaria, promotora o facilitadora por medio de plataformas tecnológicas, exclusivamente sobre la base que se obtenga por estos medios, cuando éstos realicen el entero correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Las personas físicas o morales que presten los servicios y que no actualicen el supuesto a que hace mención el párrafo que antecede, estarán obligadas al cálculo y entero del impuesto sobre los ingresos que se obtengan sin la intermediación de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, a través de una plataforma tecnológica.
+
 Obligaciones de los contribuyentes
 
 ###### Artículo 58.
@@ -1100,6 +1114,38 @@ El aviso a que se refiere esta fracción deberá ser presentado por cada uno de 
 II. Presentar las declaraciones mensuales definitivas, así como los avisos, documentos, datos o información que le soliciten las autoridades fiscales dentro de los plazos y en los lugares señalados para tales efectos; y
 
 III. Llevar los libros, registros, documentación que establezcan las leyes fiscales del estado y sistemas de contabilidad de conformidad con lo establecido para tal efecto en el Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Obligaciones de los retenedores
+
+###### Artículo 58 Bis.
+
+Las personas físicas o morales que tengan el carácter de intermediarias, promotoras o facilitadoras a través de una plataforma tecnológica, de conformidad con el artículo 53 párrafo segundo de esta Ley, tendrán las siguientes obligaciones:
+
+I. Inscribirse en el Registro Estatal de Contribuyentes, dentro de los diez días hábiles siguientes a la fecha de inicio de sus operaciones, mediante aviso que será presentado en las formas autorizadas.
+
+II. Retener y enterar el impuesto a que hace referencia el presente Capítulo, cuando la contraprestación se cubra a través de éstas.
+
+III. Presentar declaraciones mensuales incluyendo la totalidad de las operaciones en las que la contraprestación se cubra a través de éstas, por el periodo de que se trate, hasta en tanto no presente el aviso de baja al registro o de suspensión temporal de actividades.
+
+IV. Proporcionar al SATEG la información, que se enlista a continuación, de los sujetos obligados del impuesto, en cuyas operaciones hayan actuado como intermediarios, promotores o facilitadores por medio de plataformas tecnológicas, aun cuando no hayan efectuado el cobro de la contraprestación:
+
+a) Nombre completo;
+
+b) Clave en el Registro Estatal de Contribuyentes;
+
+c) Clave única de registro de población;
+
+d) Domicilio fiscal;
+
+e) Institución financiera y Clave Bancaria Estandarizada (CLABE) en la cual se reciben los depósitos de los pagos; y
+
+f) Monto de las operaciones celebradas con su gestión durante el período de que se trate por cada sujeto obligado del impuesto.
+
+V. Conservar como parte de su contabilidad la documentación que demuestre que efectuaron la retención y entero del impuesto.
+
+Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las disposiciones de carácter general que para tal efecto emita el SATEG.
 
 Estimación presuntiva
 
@@ -2129,9 +2175,17 @@ El SATEG para efectos de mantener actualizado el padrón vehicular podrá, de of
 
 I. Cuando las entidades federativas informen de manera oficial que han causado alta en sus padrones respectivos. Asimismo, de aquéllos que derivado de la consulta en el Registro Público Vehicular de la unidad administrativa federal competente, se obtenga como resultado la existencia de un registro posterior en otra Entidad Federativa;
 
-II. Los que cuenten con adeudos por concepto del pago de refrendo anual de placas metálicas y tarjeta de circulación por seis ejercicios fiscales o más y que el año modelo del vehículo sea de cuarenta años o más; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. Las placas demostración o traslado que hayan sido expedidas conforme a las abrogadas Ley de Tránsito y Transporte del Estado de Guanajuato y el Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato y que las personas a las que les fueron otorgadas, hayan presentado el aviso correspondiente ante el Registro Federal de Contribuyentes para cesar la actividad comercial de compraventa de vehículos.
+II. Los que cuenten con adeudos por concepto del pago de refrendo anual de placas metálicas y tarjeta de circulación por seis ejercicios fiscales o más y que el año modelo del vehículo sea de cuarenta años o más;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Las placas demostración o traslado que hayan sido expedidas conforme a las abrogadas Ley de Tránsito y Transporte del Estado de Guanajuato y el Reglamento de Tránsito de la Ley de Tránsito y Transporte del Estado de Guanajuato y que las personas a las que les fueron otorgadas, hayan presentado el aviso correspondiente ante el Registro Federal de Contribuyentes para cesar la actividad comercial de compraventa de vehículos; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. Cuando con posterioridad a su registro primigenio, se detecten o se desprenda la utilización de documentos apócrifos o alterados.
 
 El registro vehicular que cause baja mediante la declaratoria de la autoridad, perderá su vigencia.
 
@@ -2155,7 +2209,9 @@ Los propietarios o legítimos poseedores de vehículos y titulares de registros 
 
 Los créditos fiscales se causarán hasta el momento en que la autoridad declare la baja y subsistirán hasta en tanto sean cubiertos. En el caso de que éstos no se cubran, la autoridad fiscal atenderá el procedimiento respectivo para el cobro de créditos fiscales contemplado en el Código.
 
-La declaración de la baja por parte del SATEG, no libera del cumplimiento de lo establecido en la fracción IV del artículo 85 de la presente Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La declaración de la baja por parte del SATEG, no libera del cumplimiento de lo establecido en la fracción IV del artículo 85 y del párrafo tercero del artículo 86 de la presente Ley.
 
 ### Capítulo Tercero. Derechos por Uso de Carreteras y Puentes Estatales de Cuota
 
@@ -2573,6 +2629,8 @@ P.O. 30 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 111, MEDIANTE EL CUAL SE ADICIONA UN CAPÍTULO OCTAVO AL TÍTULO SEGUNDO DENOMINADO IMPUESTOS ECOLÓGICOS DE REMEDIACIÓN AMBIENTAL, INTEGRADO POR CINCO SECCIONES Y LOS ARTÍCULOS 78-A, 78-B, 78-C, 78-D, 78-E, 78-F, 78-G, 78-H, 78-I, 78-J, 78-K, 78-L, 78-M, 78-N, 78-O, 78-P, 78-Q, 78-R, 78-S, 78-T, 78-U, 78-V, 78-W, 78-X, 78-Y Y 78-Z A LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO".]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 175, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2022, MEDIANTE EL QUE SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL 2023, SE MODIFICA EL INICIO DE VIGENCIA CONTENIDO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 111, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE GUANAJUATO NÚMERO 238, TERCERA PARTE, DEL 30 DE NOVIEMBRE DE 2022, MEDIANTE EL CUAL SE ADICIONÓ UN CAPÍTULO OCTAVO IMPUESTOS ECOLÓGICOS DE REMEDIACIÓN AMBIENTAL AL TÍTULO SEGUNDO DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO.]</small>
+
 Inicio de vigencia
 
 Artículo Primero. El presente decreto entrará en vigencia el 1 de enero de 2023, previa su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
@@ -2638,3 +2696,53 @@ Se entenderá que los valores presentados en este artículo representan una unid
 Declaración, determinación y pago de los impuestos ecológicos de remediación ambiental
 
 Artículo Quinto. Las personas físicas, las personas morales y las unidades económicas que tributen conforme al Capitulo Octavo de esta Ley, presentarán las declaraciones mensuales y, en su caso, el entero del impuesto que resulte a cargo, correspondientes de enero a abril del ejercicio fiscal 2023, a partir del 1 y hasta el 22 de mayo del mismo ejercicio. Dentro del periodo señalado, en caso de que resultara impuesto a cargo de los contribuyentes, este no será objeto de actualización y causación de accesorios.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 175, MEDIANTE EL QUE SE EXPIDE LA LEY DE INGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL 2023".]
+
+Vigencia de la Ley
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2023, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Impuesto por Adquisición de Vehículos de Motor Usados
+
+Artículo Segundo. Con relación a la causación del Impuesto por Adquisición de Vehículos de Motor Usados, contemplado en la Ley de Hacienda para el Estado de Guanajuato, únicamente se cobrará lo correspondiente al último acto jurídico de adquisición del vehículo, en los términos señalados en la presente Ley, así como en la Ley de Hacienda para el Estado de Guanajuato, a favor de aquellos propietarios o legítimos poseedores que realicen el trámite de cambio de propietario ante el Servicio de Administración Tributaria del Estado de Guanajuato, durante el ejercicio fiscal 2023.
+
+Régimen de Incorporación Fiscal
+
+Artículo Tercero. A los contribuyentes del Impuesto Cedular por Actividades Empresariales que en el año 2014 optaron por tributar en el Régimen de Incorporación Fiscal en los términos de la Ley de Hacienda para el Estado de Guanajuato, vigente en dicho ejercicio fiscal; durante el ejercicio fiscal 2023 se les aplicará el porcentaje de reducción establecido para el noveno año de tributación contenido en la tabla de reducción del Impuesto Cedular en el Régimen de Incorporación Fiscal, establecido en la Ley de Hacienda para el Estado de Guanajuato vigente en dicho ejercicio fiscal.
+
+Obligación de pago de deuda pública
+
+Artículo Cuarto. Conforme a lo dispuesto por el artículo 61, fracción I, inciso b, de la Ley General de Contabilidad Gubernamental, el importe destinado al pago de las obligaciones por deuda pública para el ejercicio fiscal de 2023, cuyo origen proviene de ejercicios fiscales anteriores se encuentra contenida en el Ramo 24 de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para el ejercicio fiscal de 2023.
+
+Continuidad del beneficio a personas usuarias residentes
+
+Artículo Quinto. Las personas usuarias residentes del municipio de Guanajuato; que hayan gozado durante los ejercicios fiscales de 2018 a 2022 del beneficio establecido en el último párrafo de la fracción I del artículo 30 de esta Ley, podrán continuar con dicho beneficio de acuerdo con las especificaciones y requisitos que establezca la Secretaría de Infraestructura, Conectividad y Movilidad.
+
+Descuento por el uso de plataforma digital estatal
+
+Artículo Sexto. A las personas prestadoras del servicio de transporte privado, así como a las concesionarias y permisionarias del servicio público de transporte de personas en la modalidad de alquiler sin ruta fija «Taxi», se les aplicará el descuento del 100 por ciento del pago por los derechos por el uso de la infraestructura digital estatal de transporte, contemplando (sic) en el artículo 29, fracción XXII de esta Ley.
+
+Reglas de Operación del Sorteo para incentivar el pago del refrendo
+
+Artículo Séptimo. El Servicio de Administración Tributaria del Estado de Guanajuato, mediante Reglas de Operación, establecerá las bases, premios, fechas, participantes y demás disposiciones a las que se sujetará, en su caso, la realización del sorteo señalado en el artículo 14 de esta Ley.
+
+Vigencia de Impuestos Ecológicos de Remediación Ambiental
+
+Artículo Octavo. Se modifica el inicio de vigencia contenido en el artículo primero transitorio del Decreto Legislativo número 111, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 238, tercera parte, del 30 de noviembre de 2022, mediante el cual se adicionó un Capítulo Octavo Impuestos Ecológicos de Remediación Ambiental al Título Segundo de la Ley de Hacienda para el Estado de Guanajuato, para homologar con el plazo establecido en el artículo segundo transitorio del citado Decreto, quedando el inicio de vigencia a partir del 1 de junio de 2023.
+
+Declaración, determinación y pago de los Impuestos Ecológicos de Remediación Ambiental
+
+Artículo Noveno. Las personas físicas, las personas morales y las unidades económicas que tributen conforme al Capítulo Octavo del Título Segundo de la Ley de Hacienda para el Estado de Guanajuato, presentarán las declaraciones mensuales y, en su caso, el entero de los impuestos que resulten a cargo, correspondientes a los meses de junio y julio del ejercicio fiscal 2023, del 1 al 22 de agosto del mismo ejercicio. Dentro del periodo señalado, en caso de que resultaran impuestos a cargo de los contribuyentes, estos no serán objeto de actualización y causación de accesorios.
+
+Consideraciones para pago del Impuesto para Remediación Ambiental por la emisión indirecta de Gases Contaminantes
+
+Artículo Décimo. No se determinará ni pagará el Impuesto para Remediación Ambiental únicamente por la emisión indirecta de Gases Contaminantes durante el ejercicio fiscal 2023, establecidas en el artículo 78-C de la Ley de Hacienda para el Estado de Guanajuato.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 178, MEDIANTE EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
