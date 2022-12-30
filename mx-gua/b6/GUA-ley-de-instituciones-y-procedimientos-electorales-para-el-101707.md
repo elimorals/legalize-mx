@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2020-07-22"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -300,6 +300,14 @@ Los diputados podrán ser electos hasta por cuatro periodos consecutivos por amb
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Serán sujetos de elección consecutiva los diputados que hayan ejercido el cargo, independientemente de su carácter de propietario o suplente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+En caso de una nueva conformación en los distritos electorales, los diputados sujetos a elección consecutiva podrán postularse independientemente del número de distrito o de la composición que les corresponda, siempre y cuando comprenda alguno de los municipios que integran o formaban parte del distrito por el cual fueron electos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+El supuesto previsto en el párrafo anterior no aplica a los diputados electos por el principio de representación proporcional.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2017)</small>
 
@@ -6970,3 +6978,9 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 186, MEDIANTE EL CUAL SE ADICIONAN UN PÁRRAFO CUARTO Y QUINTO AL ARTÍCULO 14, RECORRIÉNDOSE LOS PÁRRAFOS SUBSECUENTES EN SU ORDEN ESTABLECIDO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
