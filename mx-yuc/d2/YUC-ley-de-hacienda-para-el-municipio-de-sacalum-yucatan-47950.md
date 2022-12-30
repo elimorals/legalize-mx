@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2021-12-31"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -1331,11 +1331,9 @@ II.- Por revalidación para venta de bebidas
 
 alcohólicas $6,000.00
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III.- Por permisos eventuales para venta de
-
-bebidas alcohólicas $1,500.00
+III.- Por permisos eventuales $ 3,500.00
 
 (REPUBLICADA, D.O. 26 DE DICIEMBRE DE 2020)
 
@@ -1365,271 +1363,157 @@ VII.- Por la instalación de ductos, postes para
 
 energía renovables o no renovable $300,000.00
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Artículo 90 A.- El cobro de derechos por el otorgamiento (sic) licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
+Artículo 90 A.- El cobro de derechos por el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios se realizará con base en las siguientes tarifas:
 
-GIRO EXPEDICION RENOVACION
+GIRO COMERCIAL O DE SERVICIOS EXPEDICION RENOVACION
 
-COMERCIAL O DE
+$ $
 
-SERVICIOS $ $
+I.- Farmacias y boticas 600.00 300.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+II.- Carnicerías, pollerías, pescaderías 300.00 150.00
 
-I.- Farmacias, boticas y similares 300.00 150.00
+y fruterías
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-II.- Carnicerías, pollerías,
-
-pescaderías y fruterías 300.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-III.- Panaderías y tortillerías 300.00 200.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+III.- Panaderías y tortillerías 400.00 300.00
 
 IV.- Expendio de refrescos 300.00 200.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
 V.- Fábrica de jugos embolsados 300.00 200.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VI.- Expendio de refrescos naturales 300.00 100.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
 VII.- Compra/venta de oro y plata 1,000.00 500.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-VIII.- Taquerías, loncherías,
-
-Restaurantes, fondas 500.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+VIII.- Taquerías, loncherías y fondas 500.00 300.00
 
 IX.- Taller y/o expendio de alfarerías 200.00 100.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+X.- Talleres zapatería o accesorios 2,000.00 800.00
 
-X.- Talleres Zapatería o accesorios. 2,000.00 800.00
+XI.- Tlapalerías 1,000.00 800.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XII.- Compra/venta de materiales de 2,000.00 1,500.00
 
-XI.- Tlapalerías 400.00 200.00
+construcción
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XIII.- Tiendas, tendejones y misceláneas 500.00 300.00
 
-XII.- Compra/venta de materiales de
+XIV.- Bisutería 500.00 300.00
 
-construcción 1,000.00 500.00
+XV.- Compra/venta de motos y 700.00 500.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+refaccionarias
 
-XIII.- Tiendas, tendejones y misceláneas 400.00 150.00
+XVI.- Papelerías y centro de copiado 700.00 400.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XVII.- Hoteles, hospedajes 10,000.00 2,500.00
 
-XIV.- Bisutería y otros 400.00 150.00
+XVIII.- Peleterías compra/venta de sintéticos 450.00 250.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XIX.- Terminales de taxis, autobuses y 400.00 150.00
 
-XV.- Compra/venta de motos y refaccionarias 700.00 150.00
+triciclos
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XX.- Ciber-café y centros de cómputo 300.00 200.00
 
-XVI.- Papelerías y centro de copiado 700.00 200.00
+XXI.- Estéticas unisex y peluquerías 300.00 300.00
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXII.- Talleres mecánicos 500.00 300.00
 
-XVII.- Hoteles, hospedajes 10,000.00 1,500.00
+XXIII.- Talleres de torno y herrería en general 400.00 200.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXIV.- Restaurantes y cafeterías 2,000.00 1,000.00
 
-XVIII.- Peleterías compra/venta
-
-de sintéticos 450.00 250.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XIX.- Terminales de taxis, autobuses
-
-y triciclos 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XX.- Ciber café y centros de cómputo 300.00 200.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXI.- Estéticas unisex y peluquerías 300.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXII.- Talleres mecánicos 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXIII.- Talleres de torno y herrería
-
-en general 400.00 200.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXIV.- Restaurantes 500.00 300.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXV.- Tiendas de ropa y almacenes 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXV.- Tiendas de ropa y almacenes 400.00 300.00
 
 XXVI.- Florerías y funerarias 400.00 150.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XVII.- Bancos, casas de empeño y 5,000.00 2,000.00
 
-XXVII.- Bancos, casas de empeño
+financieras
 
-y financieras 5,000.00 2,000.00
+XXVIII.- Puesto de venta de revistas y 300.00 100.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXVIII.-Puestos de venta, de
-
-revistas, periódicos 300.00 100.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+periódicos
 
 XXIX.- Videoclubs en general 300.00 150.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXX.- Carpinterías 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXX.- Carpinterías 500.00 300.00
 
 XXXI.- Bodegas de refrescos 3,500.00 800.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXXII.- Consultorios y clínicas 1,000.00 700.00
 
-XXXII.- Consultorios y clínicas 700.00 400.00
+XXXIII.- Dulcerías 300.00 150.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXXIV.- Expendios de venta y reparación 500.00 300.00
 
-XXXIII.-Peleterías y dulcerías 300.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXXIV.- Expendios da (sic) telefonía celular 300.00 200.00
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+de telefonía celular
 
 XXXV.- Cinema 2,000.00 1,000.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXXVI.- Talleres de reparación y eléctrica 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXXVI.-Talleres de reparación eléctrica 400.00 150.00
 
 XXXVII.- Escuelas particulares y academias 700.00 300.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXXVIII.- Salas de fiestas 3,000.00 1,000.00
 
-XXXVIII.- Salas da (sic) fiestas 3,000.00 1,000.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XXXIX.- Expendios de alimentos de animales 400.00 150.00
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+XXXIX.- Expendios de alimentos de animales 1,000.00 700.00
 
 XL.- Gaseras 3,000.00 1,000.00
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
-
 XLI.- Gasolineras 6,000.00 1,500.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XLII.- Mueblería 300.00 100.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+XLII.- Mueblerías 1,000.00 500.00
 
 XLIII.- Servicio de sistema de cablevisión 800.00 500.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
 XLIV.- Fábrica de hielo 400.00 150.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XLV.- Centros de foto estudios y grabación 400.00 150.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
 XLVI.- Despachos contables y jurídicos 1,000.00 500.00
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 XLVII.- Servicio de motos taxi 500.00 150.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
-
-XLVIII.- Compra/venta de frutas y verduras 300.00 100.00
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+XLVIII.- Compra/venta de frutas y verduras 500.00 400.00
 
 XLIX.- Empacadoras de alimentos 7,000.00 4,000.00
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2021)</small>
+L.- La instalación y operación de plantas 600,000.00 70,000.00
 
-L.- La instalación y operación de
+fotovoltaicas para la generación de
 
-plantas fotovoltaicas para la generación
+energía renovable y no renovable.
 
-de energía renovable y no renovable. 600,000.00 70,000.00
+LI.- Por la instalación de ductos, postes 300,000.00 50,000.00
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+para energías renovables o no renovables
 
-LI.- Por la instalación de ductos,
+LII.- Granjas avícolas, porcícolas, ganaderas 20,000.00 15,000.00
 
-postes para energías renovables
+de más de 10 empleados.
 
-o no renovables 300,000.00 50,000.00
+LIII.- Granjas avícolas, porcícolas, ganaderas 3,000.00 1,000.00
 
-(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXI (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
+de menos de 10 empleados
 
-LII.- Granjas avícolas, porcícolas,
+LIV.- Instalación y operación de parques 400,000.00 60,000.00
 
-ganaderas de más de 10 empleados. 20,000.00 5,000.00
+eólicos para la generación de energía
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 31 DE DICIEMBRE DE 2021)</small>
+renovable o no renovable
 
-LIII.- Granjas avícolas, porcícolas,
+LV.- Servicios de Sistemas de telefonía 60,000.00 30,000.00
 
-ganaderas de menos de 10
+celular o satelital
 
-empleados 3,000.00 1,000.00
+LVI.-Servicios de Internet 2,000.00 1,000.00
 
-(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LX (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
-
-LIV.- Instalación y operación de
-
-parques eolíticos para la generación
-
-de energía renovable o no renovable 400,000.00 60,000.00
-
-(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXII (SIC)], D.O. 31 DE DICIEMBRE DE 2021)
-
-LV.- Servicios de Sistemas de celular
-
-o satelital. 50,000.00 10,000.00
+LVII.- Gimnasios 1,000.00 800.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1793,11 +1677,15 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten el u
 
 TARIFA
 
+TARIFA
+
 ###### Artículo 111.
 
 Estos derechos se causarán de acuerdo a las cuotas siguientes:
 
-I.- Por Inhumaciones y exhumaciones $ 400.00
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I.- Por Inhumaciones y exhumaciones $ 500.00
 
 > <small>(REFORMADA [N. DE E. CON SU INCISO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1805,13 +1693,15 @@ II.- Por usar una bóveda por un periodo de dos años
 
 a) Por metro cuadrado $ 500.00
 
-III.- Por usar una bóveda a perpetuidad.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+III.-Por usar una bóveda a perpetuidad.
 
-a) Por metro cuadrado $ 1000.00
+a) Por metro cuadrado $ 1,500.00
 
-IV.- Por construcción de cripta o Bóveda $ 100.00
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV.- Por construcción de cripta o bóveda $ 150.00
 
 DE LA FACULTAD DE DISMINUIR LA TARIFA
 
@@ -1845,13 +1735,17 @@ Los derechos por los servicios de Rastro se causarán de conformidad con lo sigu
 
 SERVICIO TARIFA
 
-I. Por Transporte $ 20.00.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. Por matanza de ganado
+I.- Por transporte $ 100.00 por cabeza.
 
-a).- Vacuno $ 10.00.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b).- Porcino $ 10.00.
+II.- Por matanza de ganado:
+
+a) Vacuno $ 50.00 por cabeza
+
+b) Porcino $ 50.00 por cabeza
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Sacalum, Yucatán, deberán pasar por esa inspección.
 
@@ -1879,11 +1773,13 @@ Las personas físicas y morales que soliciten los servicios que a continuación 
 
 Servicio UMA
 
-A) Por participar en licitaciones 20
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-B) Certificaciones y constancias
+A) Por participar en licitaciones públicas 30
 
-expedidas por el Ayuntamiento .23
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+B) Certificaciones y constancias expedida por el Ayuntamiento .30
 
 C) Venta de formas oficiales 1
 
@@ -2488,3 +2384,13 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
