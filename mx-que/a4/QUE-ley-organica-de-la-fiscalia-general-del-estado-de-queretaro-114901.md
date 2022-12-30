@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2022-07-29"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -281,45 +281,53 @@ V. La Vice Fiscalía de Investigación Científica y Policial;
 
 VI. La Vice Fiscalía de Derechos Humanos y Desarrollo Institucional;
 
-VII. La Dirección de Investigación de la Fiscalía General;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VIII. La Dirección de Acusación de la Fiscalía General;
+VII. La Vice Fiscalía Regional;
 
-IX. La Dirección de Policía de Investigación del Delito;
+VIII. La Dirección de Investigación de la Fiscalía General;
 
-X. La Dirección de Servicios Periciales;
+IX. La Dirección de Acusación de la Fiscalía General;
 
-XI. La Dirección de Tecnologías;
+X. La Dirección de Policía de Investigación del Delito;
 
-XII. La Dirección de Derechos Humanos;
+XI. La Dirección de Servicios Periciales;
 
-XIII. La Dirección Jurídica y de Vinculación Institucional;
+XII. La Dirección de Tecnologías;
 
-XIV. El Instituto del Servicio Profesional de Carrera;
+XIII. La Dirección de Derechos Humanos;
+
+XIV. La Dirección Jurídica y de Vinculación Institucional;
+
+XV. El Instituto del Servicio Profesional de Carrera;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XV. La Dirección de Administración;
+XVI. La Dirección de Administración;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2018)</small>
 
-XVI. La Contraloría;
+XVII. La Contraloría;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XVII. El Centro de Evaluación y Control de Confianza;
+XVIII. El Centro de Evaluación y Control de Confianza;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XVIII. La Fiscalía Especializada en la Investigación de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares; y
+XIX. La Fiscalía Especializada en la Investigación de Delitos de Desaparición Forzada de Personas y la Cometida por Particulares; y
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2022)</small>
 
-XIX. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+XX. La Fiscalía Especializada en la Investigación y Persecución de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
 La Fiscalía General tendrá los órganos, direcciones y personal necesario para el cumplimiento de sus funciones y atribuciones que se definirán en el reglamento interior, todos los cuales estarán bajo el mando directo del Fiscal General.
+
+La Fiscalía deberá contar, al menos, con una Oficina de Atención a la Ciudadanía en cada una de las cabeceras municipales de los Municipios del Estado, así como con los recursos humanos y materiales necesarios en ellas, para el debido cumplimiento de sus funciones y atribuciones.
 
 ### Capítulo Segundo. Del Consejo de la Fiscalía General del Estado de Querétaro
 
@@ -847,13 +855,51 @@ V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos le
 
 Para la ejecución de sus atribuciones, contará con la Unidad de Transparencia, departamentos, áreas y demás personal que el servicio requiera conforme a la disponibilidad presupuestal, cuyas funciones están reguladas en el Reglamento y la normatividad en la materia.
 
-### Capítulo Primero. Disposiciones generales
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
+### Capitulo Octavo. De la Vice Fiscalía Regional
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 17 bis. La Vice Fiscalía Regional tiene las siguientes atribuciones.
+
+I. Ejercer la conducción y supervisión de las unidades administrativas adscritas en la circunscripción territorial en la que ejercerá su competencia;
+
+II. Colaborar con las Vice Fiscalías, Direcciones, Fiscalías Especializadas y demás unidades administrativas que integran la Fiscalía General, en la definición, instrumentación y evaluación de las políticas, así como los mecanismos y procesos de gestión que orientan el adecuado desarrollo de sus atribuciones, para fortalecer el acceso a la justicia y garantizar derechos humanos de las personas;
+
+III. Promover y en su caso implementar, mecanismos eficientes de coordinación y colaboración entre las unidades administrativas adscritas en la circunscripción territorial en la que ejercerá su competencia;
+
+IV. Supervisar el flujo de información entre las áreas que intervengan en los asuntos de su competencia, en términos de las disposiciones aplicables;
+
+V. Realizar visitas de verificación para detectar y proponer mejoras al Fiscal General, en las unidades administrativas adscritas en la circunscripción territorial en la que ejercerá su competencia;
+
+VI. Promover el avance tecnológico, innovación, vinculación y desarrollo institucional para el ejercicio de sus funciones.
+
+VII. Impulsar de manera conjunta con las Vice Fiscalías, Direcciones, Fiscalías Especializadas y demás unidades administrativas, acciones que propicien la coordinación y colaboración con los órganos externos, para fortalecer la vinculación institucional y facilitar la investigación y persecución del delito;
+
+VIII. Participar en el establecimiento de mecanismos de comunicación permanente con las instituciones de seguridad de las entidades federativas:
+
+IX. Proponer al Fiscal General acciones para mejorar las estrategias de investigación y persecución de los delitos, dentro de la circunscripción territorial en la que ejercerá su competencia;
+
+X. Ejercer las facultades que la ley confiere a la institución del Ministerio Público, en la circunscripción territorial de su competencia,
+
+XI. Difundir entre el personal de su adscripción, los criterios judiciales sobre aplicación de la ley, para eficientar la intervención de los Fiscales;
+
+XII. Promover el acceso a los Mecanismos Alternativos de Solución de Controversias en Materia Penal, en la circunscripción territorial de su competencia;
+
+XIII. Autorizar las formas de terminación de la investigación de conformidad con las disposiciones jurídicas aplicables, en la circunscripción territorial de su competencia, y
+
+XIV. Las demás que resulten necesarias para el ejercicio de sus funciones.
+
+La Vice Fiscalía Regional para la ejecución de sus atribuciones, contará con los departamentos, áreas y demás personal que el servicio requiera, conforme a la disponibilidad presupuestal y demás disposiciones jurídicas aplicables.
+
+La Vice Fiscalía Regional ejercerá sus atribuciones respecto de hechos acaecidos en la circunscripción territorial que comprende los Municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, San Juan del Río, Tequisquiapan y Tolimán.
+
+### Capítulo Primero. Disposiciones generales
 
 ## Título Tercero. De las atribuciones de las Direcciones
 
-### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
+### Capítulo Segundo. De la Dirección de Investigación de la Fiscalía General
 
 ###### Artículo 18.
 
@@ -899,7 +945,7 @@ XI. Las demás que se establezcan en las disposiciones legales aplicables.
 
 En el reglamento se establecerán las funciones específicas que desempeñarán los titulares de las Direcciones.
 
-### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
+### Capítulo Tercero. De la Dirección de Acusación de la Fiscalía General
 
 ###### Artículo 19.
 
@@ -977,7 +1023,7 @@ XIX. Realizar las tareas de certificación del personal en materia de los Mecani
 
 XX. Las demás contenidas en las disposiciones aplicables.
 
-### Capítulo Quinto. De la Dirección de Servicios Periciales
+### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
 
 ###### Artículo 20.
 
@@ -1037,7 +1083,7 @@ XVI. Realizar el cobro de derechos por los servicios de expedición de documento
 
 XVII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Sexto. De la Dirección de Tecnologías
+### Capítulo Quinto. De la Dirección de Servicios Periciales
 
 ###### Artículo 21.
 
@@ -1077,7 +1123,7 @@ XIII. Coadyuvar en el ámbito de su competencia bajo el enfoque de proximidad; y
 
 XIV. Las demás que le confieran las disposiciones legales aplicables y su reglamento.
 
-### Capítulo Séptimo. De la Dirección de Derechos Humanos
+### Capítulo Sexto. De la Dirección de Tecnologías
 
 ###### Artículo 22.
 
@@ -1103,7 +1149,7 @@ V. Dirigir y controlar el Servicio Médico Forense;
 
 VI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
+### Capítulo Séptimo. De la Dirección de Derechos Humanos
 
 ###### Artículo 23.
 
@@ -1135,7 +1181,7 @@ VI. Ejecutar las acciones de apoyo técnico que garanticen la seguridad de la in
 
 VII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
+### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
 ###### Artículo 24.
 
@@ -1155,7 +1201,7 @@ IV. Atender, conforme a la normatividad aplicable, las quejas, propuestas de con
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Décimo. De la Dirección de Administración
+### Capítulo Noveno. Del Instituto del Servicio Profesional de Carrera
 
 ###### Artículo 25.
 
@@ -1181,9 +1227,7 @@ IV. Desarrollar acciones de vinculación con instituciones públicas o entes pri
 
 V. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
-### Capítulo Noveno (sic). De la Contraloría
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Décimo. De la Dirección de Administración
 
 ###### Artículo 26.
 
@@ -1212,6 +1256,54 @@ VI. Brindar servicios de profesionalización a instituciones públicas y entes p
 VII. Realizar el cobro de derechos por los servicios de profesionalización que se imparta a instituciones públicas o privadas, expedición de documentos académicos y evaluación de nivel de conocimientos y habilidades al personal de instituciones públicas o privadas; y
 
 VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+
+### Capítulo Noveno (sic). De la Contraloría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
+
+###### Artículo 27.
+
+La Dirección de Administración tiene las siguientes atribuciones:
+
+I. Administrar los recursos humanos, materiales, tecnológicos, financieros, patrimoniales, presupuestales y cualquier otro asignado a la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+II. Organizar la aplicación de los fondos de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+III. Llevar a cabo los procesos de adquisiciones, arrendamientos, contratación de bienes, servicios y obras públicas, conforme a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IV. Someter a consideración del Fiscal General, las propuestas de mejora organizacional y administrativa;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+V. Proporcionar los servicios administrativos generales que requieran las áreas de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+VI. Resguardar y llevar el control administrativo de la evidencia que les sea remitida con motivo de la investigación de hechos delictivos de los que conozca la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Coadyuvar administrativamente en el proceso de presentación de las declaraciones patrimoniales de los Servidores Públicos para su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Realizar el cobro de derechos por las bases de licitación; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+IX. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+
+Artículo 27 bis. El titular de la Contraloría será designado por la Legislatura del Estado en los términos de la Constitución Local, previa propuesta del titular de la Fiscalía General.
+
+El titular de la Contraloría o en su caso el encargado, tendrán las atribuciones establecidas en esta Ley y su Reglamento.
 
 ### Capítulo Noveno Bis. Del Centro de Evaluación y Control de Confianza
 
@@ -1290,52 +1382,6 @@ Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
-
-###### Artículo 27.
-
-La Dirección de Administración tiene las siguientes atribuciones:
-
-I. Administrar los recursos humanos, materiales, tecnológicos, financieros, patrimoniales, presupuestales y cualquier otro asignado a la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-II. Organizar la aplicación de los fondos de la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-III. Llevar a cabo los procesos de adquisiciones, arrendamientos, contratación de bienes, servicios y obras públicas, conforme a las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IV. Someter a consideración del Fiscal General, las propuestas de mejora organizacional y administrativa;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-V. Proporcionar los servicios administrativos generales que requieran las áreas de la Fiscalía General;
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VI. Resguardar y llevar el control administrativo de la evidencia que les sea remitida con motivo de la investigación de hechos delictivos de los que conozca la Fiscalía General;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-VII. Coadyuvar administrativamente en el proceso de presentación de las declaraciones patrimoniales de los Servidores Públicos para su cumplimiento;
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-VIII. Realizar el cobro de derechos por las bases de licitación; y
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-IX. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-Artículo 27 bis. El titular de la Contraloría será designado por la Legislatura del Estado en los términos de la Constitución Local, previa propuesta del titular de la Fiscalía General.
-
-El titular de la Contraloría o en su caso el encargado, tendrán las atribuciones establecidas en esta Ley y su Reglamento.
-
-### Capítulo Primero. Del personal
 
 ###### Artículo 28.
 
@@ -1471,11 +1517,11 @@ XXXII. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
-### Capítulo Segundo. De la designación del personal
+### Capítulo Primero. Del personal
 
 ## Título Cuarto. Del régimen del personal
 
-### Capítulo Tercero. Del Servicio Profesional de Carrera
+### Capítulo Segundo. De la designación del personal
 
 ###### Artículo 29.
 
@@ -1505,7 +1551,7 @@ V. No haber sido condenado por delito doloso; y
 
 VI. Ser de notoria buena conducta, honradez y probidad.
 
-### Capítulo Cuarto. De las excusas e incompatibilidades
+### Capítulo Tercero. Del Servicio Profesional de Carrera
 
 ###### Artículo 32.
 
@@ -1523,9 +1569,7 @@ El ingreso, promoción, estímulo, evaluación y separación del personal de con
 
 El personal sustantivo está sujeto al Servicio Profesional, en términos de los artículos 21 y 123, apartado B, fracción XIII, de la Constitución Federal, la Constitución Local, el Reglamento Interior y el Reglamento del Servicio Profesional de Carrera de la Fiscalía General.
 
-### Capítulo Quinto. De las responsabilidades de los servidores públicos
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+### Capítulo Cuarto. De las excusas e incompatibilidades
 
 ###### Artículo 36.
 
@@ -1564,6 +1608,10 @@ Los procedimientos estarán regidos por las disposiciones legales aplicables seg
 El personal sustantivo y de confianza de la Fiscalía General, que por cualquier motivo sea separado de su cargo, estará impedido para intervenir en asuntos de los cuales directa o indirectamente hubiese adquirido conocimientos confidenciales, estratégicos o de importancia acerca del mismo, derivado de la tramitación cotidiana de sus funciones, actividades o en especial las de supervisión, información que pueda aplicar en el procedimiento respectivo hasta su conclusión definitiva.
 
 Su incumplimiento será constitutivo de delito en los términos de las disposiciones penales.
+
+### Capítulo Quinto. De las responsabilidades de los servidores públicos
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
 ###### Artículo 42.
 
@@ -1710,6 +1758,14 @@ Por los servicios prestados por la Fiscalía General del Estado de Querétaro, s
 > <small>[N. DE E. VÉASE REFORMAS DE LA TABLA EN EL P.O. DE 2 DE JUNIO DE 2021, PÁGINAS DE LA 17849 A LA 17851]</small>
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 27 DE AGOSTO DE 2021, PÁGINA 37058.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 53 bis. Los servicios prestados por la Fiscalía General, causarán y serán objeto de pago de derechos, en casos que involucren los conceptos siguientes.
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 33765.]</small>
+
+El imputado, la víctima u ofendido, tendrán derecho a obtener copia gratuita de los registros de la investigación, de conformidad con las disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -2040,3 +2096,27 @@ Artículo Tercero. La Fiscalía Especializada en la Investigación y Persecució
 Artículo Cuarto. Se autoriza a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Querétaro, realizar las adecuaciones presupuestales necesarias con motivo de la entrada en funciones de la Fiscalía Especializada en la Investigación y Persecución de delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, a fin de que la Fiscalía General del Estado de Querétaro cuente con los recursos humanos, financieros, materiales y demás necesarios para su adecuada operación.
 
 Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+La Vice Fiscalía Regional iniciará sus operaciones el 01 de enero del 2023.
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA EL ARTÍCULO 8 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Lo previsto en el segundo párrafo del artículo 8 de la presente Ley, se sujetará a la suficiencia presupuestal con que cuente La Fiscalía General del Estado de Querétaro.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Envíese al titular el Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
