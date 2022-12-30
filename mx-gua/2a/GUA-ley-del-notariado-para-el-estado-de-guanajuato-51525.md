@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-notariado-para-el-estado-de-guanajuato-51525"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-22"
-last_updated: "2020-07-13"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de agosto de 2006.
 
@@ -99,131 +99,195 @@ La denominación de Notaría Pública sólo podrá utilizarla en una oficina, el
 
 Las notarías públicas estarán abiertas al público por lo menos ocho horas diarias y serán obligatorios los días de despacho que lo sean para las oficinas públicas del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-La creación de nuevas notarías públicas será determinada por el Titular del Poder Ejecutivo, tomando en cuenta las necesidades de la prestación del servicio notarial, para lo cual analizará los datos del producto interno bruto referido al municipio que corresponda y el número de habitantes del municipio de adscripción de la nueva notaría, de conformidad con los datos del último indicador levantado por el organismo competente; asimismo, se tomará en consideración el número de actos que se inscribieron en el Registro Público de la Propiedad y de Comercio, en el año inmediato anterior. Esta información se publicará en el Periódico Oficial del Gobierno del Estado y se fijará en la oficina del Colegio Estatal de Notarios.
+La creación de nuevas notarías públicas será determinada por el Titular del Poder Ejecutivo, tomando en cuenta las necesidades de la prestación del servicio notarial, para lo cual analizará los datos del producto interno bruto referido al municipio que corresponda y el número de habitantes del municipio de adscripción de la nueva notaría, de conformidad con los datos del último indicador levantado por el organismo competente; asimismo, se tomará en consideración el número de actos que se inscribieron en el Registro Público de la Propiedad y de Comercio, dentro de los veinticuatro meses anteriores. Esta información se publicará en el Periódico Oficial del Gobierno del Estado.
 
-En ningún caso podrá haber más de una notaría pública, por cada quince mil habitantes del lugar de ubicación de la nueva notaría.
+En cada uno de los municipios del Estado deberá existir al menos una notaría pública. No podrá haber más de una notaría pública, por cada quince mil habitantes del lugar de ubicación de la nueva notaría.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+Los notarios podrán cambiar de adscripción cuando existiendo causa justificada lo autorice el Titular del Poder Ejecutivo y se observen las reglas a que se hace referencia en este artículo. Cada cambio se anotará en el Registro de Notarios y en el fíat respectivo. La solicitud de cambio debidamente sustentada se presentará ante la Secretaría de Gobierno, la que escuchará la opinión del Colegio Estatal de Notarios, y elaborará un dictamen que enviará al Titular del Poder Ejecutivo para que determine si existe causa justificada y emita la resolución correspondiente. Únicamente se podrá autorizar el cambio de adscripción de los notarios que tengan por lo menos cinco años en el ejercicio de la función notarial, cuenten con su certificación notarial vigente y no hayan sido sancionados a través de un procedimiento por parte de la unidad administrativa que corresponda de la Secretaría de Gobierno dentro de los cinco años previos.
 
-Los notarios podrán cambiar de adscripción cuando existiendo causa justificada lo autorice el Titular del Poder Ejecutivo y se observen las reglas a que se hace referencia en este artículo. Cada cambio se anotará en el Registro de Notarios y en el fíat respectivo. La solicitud de cambio debidamente sustentada se presentará ante la Secretaría de Gobierno, la que escuchará la opinión del Colegio Estatal de Notarios, tras lo cual se turnará al Titular del Poder Ejecutivo para su resolución. Únicamente se podrá autorizar el cambio de adscripción de los notarios que cuenten con su certificación notarial en el periodo inmediato anterior y no hayan sido sancionados o tengan procedimiento iniciado ante la unidad administrativa que corresponda de la Secretaría de Gobierno.
-
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 11-A.
 
-Para solicitar el examen de aspirante a notario, el interesado deberá satisfacer los siguientes requisitos:
+Para presentar el examen de aspirante a notario, el interesado deberá satisfacer los siguientes requisitos acompañando las constancias documentales que sirvan para acreditarlos:
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 I. Ser mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener veinticinco años cumplidos al momento de la presentación de la solicitud;
+II. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-III. Ser originario o tener residencia de cuando menos cinco años en el Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV. Acreditar haber tenido y contar con buena conducta;
+III. Tener residencia de cuando menos cinco años en el Estado;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. Ser de reconocida probidad y honradez;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 V. Gozar de capacidad física y mental que permita el ejercicio del notariado;
 
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+
 VI. Tener título de Abogado o Licenciado en Derecho o título profesional equivalente, legalmente expedido y contar con cédula profesional;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 VII. Acreditar como mínimo cinco años de ejercicio profesional una vez obtenido el título a que se refiere la fracción anterior;
 
-VIII. Tener título de Notario Público o título profesional equivalente, que impliquen la especialización en la materia, legalmente expedido;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IX. Una vez obtenido el título de Notario Público, haber practicado durante un año por lo menos, en alguna de las notarías del Estado de Guanajuato;
+VIII. Tener título de Notario Público o título profesional equivalente, legalmente expedido;
 
-X. No haber sido condenado por sentencia ejecutoria por delito doloso que amerite pena privativa de libertad; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XI. Presentar solicitud ante la unidad administrativa que corresponda de la Secretaría de Gobierno, acompañando las constancias documentales que sirvan para acreditar que se reúnen los requisitos que anteceden.
+IX. Una vez obtenido el título de Notario Público o título profesional equivalente, haber ejercido durante un año por lo menos, en alguna de las ramas relacionadas con la función notarial;
 
-Una vez presentada la solicitud y acreditados los requisitos que anteceden, la autoridad, dentro de los quince días naturales siguientes, comunicará al interesado el día, hora y lugar en que se realizará el examen. Entre dicha comunicación y la fecha del examen no podrán mediar más de treinta días naturales.
+X. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
+
+XI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 11-B.
+
+La Secretaría de Gobierno emitirá una convocatoria pública y abierta a los interesados en obtener la calidad de aspirante a notario.
+
+La convocatoria deberá contener al menos las siguientes bases:
+
+I. La necesidad de contar con nuevas notarias;
+
+II. Plazo para presentar solicitudes y documentos que acrediten el cumplimiento de los requisitos que señala el artículo 11-A de esta Ley;
+
+III. Plazo para que la unidad administrativa que corresponda de la Secretaría de Gobierno verifique el cumplimiento de los requisitos para obtener la calidad de aspirante a notario;
+
+IV. El contenido de los temas sobre los que versará el examen; y
+
+V. La atribución del jurado para establecer lugar, fecha y hora de celebración del examen.
 
 ### CAPÍTULO II. De los requisitos para ser notario
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. 25 DE SEPTIEMBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 12.
 
-Para obtener el fíat de notario se requiere:
+El interesado en participar en el examen de oposición para obtener el fíat de notario deberá presentar su solicitud ante la unidad administrativa que corresponda de la Secretaría de Gobierno, y satisfacer los siguientes requisitos mediante las constancias documentales que sirvan para acreditarlos:
 
-I. Estar en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I. Ser mexicano y estar en pleno ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 II. Tener residencia de cuando menos cinco años en el Estado;
 
-III. Acreditar haber tenido y contar con buena conducta;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Ser de reconocida probidad y honradez;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 IV. Gozar de capacidad física y mental que permita el ejercicio del notariado;
 
-V. No haber sido condenado por sentencia ejecutoria por delito doloso que amerite pena privativa de libertad;
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-VI. Haber concursado y obtenido la calidad de aspirante a notario en el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Presentar solicitud ante la unidad administrativa que corresponda de la Secretaría de Gobierno, acompañando las constancias documentales que sirvan para acreditar que se reúnen los requisitos que anteceden; y
+VI. Haber obtenido la calidad de aspirante a notario en el Estado de Guanajuato o, en su caso, la calidad de notario auxiliar;
 
-VIII. Haber obtenido la calificación a que se refiere el artículo 20 de esta Ley en el examen de oposición.
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-La Secretaría de Gobierno, por conducto de la unidad administrativa que de ésta corresponda, podrá en cualquier tiempo realizar las acciones tendientes a verificar que los notarios cumplen con los requisitos exigidos por las fracciones de la I a la V de este precepto para el ejercicio de la función notarial.
+VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría de Gobierno, por conducto de la unidad administrativa que de ésta corresponda, podrá en cualquier tiempo realizar las acciones tendientes a verificar que los notarios cumplen con los requisitos exigidos por las fracciones de la I a la IV de este precepto para el ejercicio de la función notarial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 13.
 
-Los requisitos a que se refieren los artículos 11-A y 12 se acreditarán:
+Los requisitos a que se refieren los artículos 11-A y 12 se acreditarán de la siguiente manera:
 
-I. La nacionalidad por los medios que establece el Código Civil para el Estado de Guanajuato y demás leyes aplicables; el pleno ejercicio de los derechos, con la manifestación bajo protesta de decir verdad;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. El origen mediante el acta de nacimiento o la residencia con la constancia que expida la autoridad municipal;
+I. La nacionalidad con el acta de nacimiento o la carta de naturalización; y el pleno ejercicio de los derechos, con el escrito firmado por el interesado a través del cual manifieste bajo protesta de decir verdad estar en pleno ejercicio de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. La edad, con el acta de nacimiento;
+II. La residencia con la constancia que expida la autoridad municipal;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-IV. La buena conducta se acreditará por lo menos con dos constancias, una expedida por el Colegio Estatal de Notarios y la otra por el Colegio de Abogados al que pertenezca o, en su caso, por la autoridad municipal del lugar de su residencia. Para efectos del artículo 12 de esta Ley, el Colegio Estatal de Notarios deberá escuchar, previamente, la opinión de la delegación para cuya adscripción se pretenda la expedición del fíat;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. La reconocida probidad y honradez con el escrito firmado por el interesado a través del cual manifieste bajo protesta de decir verdad que cuenta con dichas cualidades, y con carta de recomendación del Colegio Estatal de Notarios previa consulta de la delegación más próxima del municipio de su residencia o, en su caso, por una institución educativa o social de prestigio;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 V. La capacidad física y mental se probarán con el certificado médico oficial respectivo;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VI. Los títulos de Abogado o Licenciado en Derecho o los títulos equivalentes, y de Notario Público, se acreditarán mediante las constancias idóneas que expidan en términos de ley, las autoridades educativas competentes;
+VI. Los títulos de Abogado o Licenciado en Derecho se acreditarán mediante la respectiva copia certificada de la cédula profesional. El título de Notario Público o título profesional equivalente con la copia certificada de dicho documento;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Las prácticas notariales se acreditarán con el certificado que expida el notario ante quien se hubieren hecho éstas y con los acuses de recibo que sobre su inicio y conclusión expida en su oportunidad la unidad administrativa que corresponda de la Secretaría de Gobierno, en respuesta a los avisos que necesariamente deberán girar el practicante y el notario sobre el particular;
+VII. El ejercicio en alguna de las ramas relacionadas con la función notarial, se acreditará con el currículum vitae firmado por el interesado y anexando las constancias que acrediten dicho ejercicio;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-VIII. Para acreditar los extremos de las fracciones X del artículo 11-A y V del artículo 12, se requerirá de la carta de antecedentes penales, expedida por la autoridad competente estatal y federal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+IX. El ejercicio profesional se acreditará con la copia certificada de la cédula profesional señalada en la fracción VI del presente artículo y el currículum vitae firmado por el interesado y anexando las constancias que acrediten dicho ejercicio;
 
-IX. El ejercicio profesional mínimo a que se refiere la fracción VII del artículo 11-A se acreditará con la exhibición del título profesional;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA (N. DE E. ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+X. La calidad de aspirante a notario se acreditará con la constancia emitida por el Titular del Poder Ejecutivo y, en su caso, la calidad de notario auxiliar se acreditará con la licencia correspondiente; y
 
-X. Los extremos de la fracción VI del artículo 12, se acreditarán con la constancia de calidad de aspirante a notario emitida por el Titular del Poder Ejecutivo; y
+XI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA (N. DE E. ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XI. El supuesto previsto en la fracción VIII del artículo 12, se acreditará con la copia del acta a que se refiere el artículo 20 de esta Ley.
+###### Artículo 13-A.
+
+La Secretaría de Gobierno podrá implementar mecanismos para proporcionar preparación básica en el examen de aspirante a notario y para el examen de oposición para la obtención del fíat, con la finalidad de garantizar un nivel jurídico adecuado, así como calidad personal y social del servicio notarial, con la colaboración de las autoridades y organizaciones públicas o privadas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 13-B.
+
+La Secretaría de Gobierno podrá celebrar convenios con la sociedad civil organizada, así como con organismos públicos o privados, a efecto de que colaboren, coadyuven o sean observadores, en los procedimientos para obtener la calidad de aspirante a notario, notario auxiliar y el fíat de notario público.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO III. De los exámenes y de la expedición del fíat
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-Los procedimientos para obtener la calidad de aspirante a notario y el fíat de notario público se sujetarán a las previsiones de este capítulo.
+Los procedimientos para obtener la licencia de notario auxiliar, la calidad de aspirante a notario y el fíat de notario público se sujetarán a los siguientes principios:
+
+I. Principio de buena fe. Toda persona deberá conducirse de forma ética, honesta y leal;
+
+II. Principio de certeza. Las actuaciones deberán ser completamente verificables, fidedignas y confiables;
+
+III. Principio de igualdad. Toda persona participante tendrá acceso al mismo trato y oportunidades;
+
+IV. Principio de imparcialidad. Implica que las actuaciones de las autoridades y del jurado deben ser ajenas a los intereses de los participantes y resolver sin favorecer indebidamente a ninguno de ellos;
+
+V. Principio de independencia. Cualidad que deben tener las autoridades y el jurado para actuar sin supeditarse a interés, autoridad o persona alguna; y
+
+VI. Principio de máxima publicidad. Implica que toda la información que posean las autoridades y el jurado será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -231,27 +295,29 @@ Los procedimientos para obtener la calidad de aspirante a notario y el fíat de 
 
 El jurado para los exámenes para acreditar la calidad de aspirante a notario y de oposición para obtener el fíat de notario se compondrá de cinco miembros, el cual se integrará de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Por el Titular de la Secretaría de Gobierno, quien fungirá como presidente del jurado;
+I. El Titular de la Secretaría de Gobierno, o servidor público con el cargo jerárquico inferior inmediato que designe, quien fungirá como presidente;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+II. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-II. Por el titular de la unidad administrativa que corresponda de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+III. Dos notarios en ejercicio, con certificación notarial vigente, designados por el Colegio Estatal de Notarios;
 
-III. Por dos notarios en ejercicio, de reconocido prestigio y con certificación actualizada, designados por el Colegio Estatal de Notarios; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+IV. Por un profesor de la División de Derecho, Política y Gobierno de la Universidad de Guanajuato preferentemente profesor de la especialidad de Notaría Pública. Esa designación estará a cargo del Director de la División; y
 
-IV. Por un profesor de la División de Derecho, Política y Gobierno de la Universidad de Guanajuato, quien deberá ser notario certificado en ejercicio y preferentemente profesor de la especialidad de Notaría Pública. Esa designación estará a cargo del Director de la División.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Un profesor que cuente por lo menos con grado de maestría en cualquier rama del derecho, propuesto por una institución de educación superior en el Estado previa invitación del Titular de (sic) Secretaría de Gobierno.
 
 El jurado nombrará de entre sus miembros a un secretario.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Por cada integrante propietario habrá un suplente, quien deberá reunir, en su caso, las mismas características y cualidades previstas en este artículo.
+Por cada integrante propietario habrá un suplente, quien deberá reunir, en su caso, las mismas características y cualidades previstas en este artículo. La suplencia de quien funja como presidente recaerá en el servidor público con el cargo jerárquico inferior inmediato.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -263,135 +329,137 @@ No podrán ser miembros del jurado, los notarios de la adscripción en la que se
 
 Los integrantes del jurado tendrán el deber de excusarse, cuando se presente alguno de los impedimentos a que se refiere el artículo 41 del Código de Procedimientos Civiles para el Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 17.
 
-Cuando una o varias notarías estuvieren vacantes o se hubiere resuelto crear una o más, la Secretaría de Gobierno publicará convocatoria para que quienes cuenten con la calidad de aspirantes a notario, presenten el examen de oposición correspondiente.
+Cuando una o varias notarías estuvieren vacantes o se hubiere resuelto crear una o más, la Secretaría de Gobierno publicará la convocatoria emitida por el Titular del Poder Ejecutivo para que quienes cuenten con la calidad de aspirante a notario o licencia de notario auxiliar, presenten el examen de oposición correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La convocatoria deberá contener los siguientes requisitos:
+La convocatoria deberá contener las siguientes bases:
 
 I. Motivos que sustenten la necesidad de ocupar la vacante o la creación de la notaría, sujetándose a lo dispuesto por el artículo 11 de esta Ley;
 
 II. Municipio de ubicación de la notaría vacante o de nueva creación;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. Plazo para presentar solicitudes de inscripción y documentos que acrediten el cumplimiento de los requisitos que señala el artículo 12 de esta Ley, excepto el contenido en la fracción VIII de dicho precepto;
+III. Plazo para presentar solicitudes de inscripción y documentos que acrediten el cumplimiento de los requisitos que señala el artículo 12 de esta Ley;
 
 IV. Plazo para que la unidad administrativa que corresponda de la Secretaría de Gobierno, apruebe la solicitud de inscripción y expida la cédula de inscripción correspondiente;
 
 V. El contenido de los temas sobre los que versará el examen de oposición;
 
-VI. Lugar y hora de celebración del examen de oposición;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+VI. Que dentro de los treinta días siguientes a la publicación de la convocatoria se determinará la fecha, lugar y hora del examen, sin que esta exceda sesenta días posteriores a dicha publicación;
 
-VII. Fechas de las pruebas práctica y teórica, las cuales serán después de los treinta días siguientes a la publicación de la convocatoria; y
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VIII. La determinación de que se publique la convocatoria en el Periódico Oficial del Gobierno del Estado, por dos veces con intervalo de diez días y en alguno de los periódicos de circulación en la adscripción de la notaría vacante o de nueva creación.
+VIII. La determinación de que se publique la convocatoria en el Periódico Oficial del Gobierno del Estado y en alguno de los diarios de mayor circulación en la adscripción de la notaría vacante o de nueva creación, sin perjuicio del uso de los medios electrónicos que permitan una mayor difusión; y
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Concluido el plazo de recepción de solicitudes, la unidad administrativa que corresponda de la Secretaría de Gobierno, dentro de los quince días hábiles siguientes, resolverá sobre las mismas y publicará en los mismos medios a que se refiere la fracción VIII de este artículo, la lista de solicitantes inscritos para presentar el examen de oposición.
+IX. Criterios de evaluación del examen teórico y práctico.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Concluido el plazo de recepción de solicitudes, la unidad administrativa que corresponda de la Secretaría de Gobierno, dentro de los quince días hábiles siguientes, resolverá sobre el cumplimiento de los requisitos y publicará en los mismos medios a que se refiere la fracción VIII de este artículo, el acuerdo por el que se emita la lista de solicitantes que hayan obtenido la cédula de inscripción para presentar el examen de oposición.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La unidad administrativa que corresponda de la Secretaría de Gobierno expedirá a los solicitantes la constancia de haber cumplido los requisitos para presentar el examen de oposición y otorgará la cédula correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La lista de solicitantes inscritos podrá ser impugnada por los solicitantes no incluidos, ante la unidad administrativa que corresponda de la Secretaría de Gobierno dentro del término de tres días hábiles contados a partir de la fecha de la publicación, acompañando las pruebas que se estimen pertinentes. La misma unidad administrativa resolverá, sobre la inclusión o ratificación de la exclusión del impugnante, en un plazo de diez días hábiles.
+El acuerdo de la unidad administrativa que corresponda de la Secretaría de Gobierno por el que se emita la lista de solicitantes que haya obtenido la cédula de inscripción podrá ser impugnada por los solicitantes no incluidos, ante la propia unidad administrativa, dentro del término de tres días hábiles contados a partir de la fecha de la publicación, acompañando las pruebas que se estimen pertinentes. La misma unidad administrativa resolverá la impugnación del acuerdo, ya sea con la inclusión del impugnante o bien, confirmando su exclusión, en un plazo de diez días hábiles.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Desahogado el procedimiento señalado en el párrafo anterior y emitida la lista definitiva, ésta se comunicará al Colegio Estatal de Notarios.
+Desahogado el procedimiento señalado en el párrafo anterior y emitida la lista definitiva ésta se publicará en el Periódico Oficial del Gobierno del Estado, además de los medios electrónicos que permitan una mayor difusión.
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 17-A.
 
-El examen para obtener la calidad de aspirante a notario será por fases, la primera consistirá en una prueba teórica y, la segunda en una prueba práctica, y se regirá por las siguientes reglas:
+El examen para obtener la calidad de aspirante a notario consistirá en una prueba teórica y se regirá por las siguientes reglas:
 
-I. La prueba teórica consistirá en la aplicación de un cuestionario, atendiendo a lo siguiente:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a) El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario por escrito al que deberán dar respuesta los aspirantes a notario.
+I. El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario por escrito al que deberán dar respuesta los sustentantes. El cuestionario se integrará por un mínimo de sesenta preguntas, de las cuales, por lo menos doce serán a propuesta de cada uno de los miembros del jurado; y
 
-El cuestionario se integrará por un mínimo de cincuenta preguntas, de las cuales, por lo menos diez serán a propuesta de cada uno de los miembros del jurado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b) El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes y los colocará cada uno de ellos en sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
+II. El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes y los colocará cada uno de ellos en sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
 
-El jurado determinará si la prueba se lleva a cabo de manera individual o por grupos; y
-
-c) Al término del desahogo de esta prueba y previo cercioramiento de la no violación de los sobres referidos en este artículo, el jurado sesionará de inmediato a fin de obtener la calificación de cada sustentante; de lo que se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
-
-La calificación mínima aprobatoria será de ochenta y cinco puntos para pasar a la siguiente fase; y
-
-II. La prueba práctica atenderá a lo siguiente:
-
-a) El día del examen el jurado en sesión previa a la celebración del mismo, determinará los tipos de instrumentos notariales que serán materia de esta prueba, éstos se colocarán por separado en sobres cerrados, firmados por los miembros del jurado, a fin de sortearse en presencia de los participantes. El sustentante elaborará la prueba práctica con base en el instrumento que le haya correspondido;
-
-b) Para el desarrollo del instrumento, los sustentantes sólo podrán consultar los códigos y leyes que el examen requiera; y
-
-c) El sustentante dispondrá de hasta cinco horas continuas para la redacción del instrumento notarial, al término de las cuales el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos. El examen y la calificación otorgada, se colocará en un sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La salvaguarda e inviolabilidad de los exámenes será responsabilidad de los miembros del jurado.
 
-El jurado sesionará de inmediato a fin de obtener la calificación definitiva de cada sustentante, promediando los resultados que éstos obtuvieron en sus pruebas teórica y práctica. El promedio, para considerarse como mínimo aprobatorio, deberá ser de ochenta y cinco puntos en una escala de cero a cien puntos. De lo anterior se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Al término del desahogo de la prueba, y previo cercioramiento de la no violación de los sobres referidos en este artículo, el jurado sesionará de inmediato a fin de obtener la calificación de cada sustentante. La calificación, para considerarse como mínima aprobatoria, deberá ser de ochenta puntos en una escala de cero a cien puntos. De lo anterior se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
 
 El presidente del jurado informará al sustentante que haya obtenido la calificación aprobatoria, el resultado de su examen y comunicará el mismo al Titular del Poder Ejecutivo, remitiéndole el acta del examen para los efectos del otorgamiento de la constancia que acredite la calidad de aspirante a notario, lo que deberá hacerse dentro de los treinta días hábiles siguientes a la recepción del acta del examen.
 
 La constancia que acredita la calidad de aspirante a notario deberá inscribirse en la unidad administrativa que corresponda de la Secretaría de Gobierno, previo pago de los derechos que señale la ley de ingresos vigente, y notificarse al Colegio Estatal de Notarios.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 288, PUBLICADO EN EL P.O. 25 DE SEPTIEMBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-El examen de oposición para obtener el fíat de notario, para cada notaría vacante o de nueva creación, consistirá en una prueba práctica y en una teórica por escrito, que se regirá por las siguientes reglas comunes:
+El examen de oposición para obtener el fíat de notario, para cada notaría vacante o de nueva creación, consistirá en una prueba teórica y en una prueba práctica por escrito, que se regirá por las siguientes reglas comunes:
 
-I. La prueba práctica se aplicará a cada sustentante, atendiendo a lo siguiente:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I. La prueba teórica consistirá en la aplicación de un cuestionario, atendiendo a lo siguiente:
+
+a) El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario al que deberán dar respuesta los sustentantes. En la elaboración del cuestionario, el jurado deberá abarcar todos los temas previstos en la convocatoria para esta etapa del concurso. El cuestionario se integrará por un mínimo de cincuenta preguntas, de las cuales, por lo menos diez serán a propuesta de cada uno de los miembros del jurado; y
+
+b) El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes y los colocará cada uno de ellos en sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
+
+La calificación mínima aprobatoria será de ochenta y cinco puntos para pasar a la siguiente fase;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+II. La prueba práctica se aplicará a cada sustentante, atendiendo a lo siguiente:
 
 a) El día del examen, el jurado en sesión previa a la celebración del mismo, determinará los tipos de instrumentos notariales que serán materia de esta prueba, éstos se colocarán por separado en sobres cerrados, firmados por los miembros del jurado, a fin de sortearse en presencia de los participantes. El sustentante elaborará la prueba con base en el instrumento que le haya correspondido;
 
 b) Para el desarrollo del instrumento, los sustentantes sólo podrán consultar los códigos y leyes que el examen requiera; y
 
-c) El sustentante dispondrá de hasta cinco horas continuas para la redacción del instrumento notarial, al término de las cuales el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos. El examen y la calificación otorgada, se colocará en un sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante; y
+c) El sustentante dispondrá de hasta cinco horas continuas para la redacción del instrumento notarial, al término de las cuales, el jurado recogerá los exámenes e individualmente emitirá por escrito la calificación de los mismos. El examen y la calificación otorgada, se colocará en un sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante.
 
-II. La prueba teórica consistirá en la aplicación de un cuestionario, atendiendo a lo siguiente:
-
-a) El día del examen, en sesión previa, el jurado elaborará de entre las propuestas que formule cada uno de sus integrantes, el cuestionario al que deberán dar respuesta los sustentantes. En la elaboración del cuestionario, el jurado deberá abarcar todos los temas previstos en la convocatoria para esta etapa del concurso. El cuestionario se integrará por un mínimo de cincuenta preguntas, de las cuales, por lo menos diez serán a propuesta de cada uno de los miembros del jurado; y
-
-b) El sustentante dispondrá de cinco horas continuas para desahogar el cuestionario, al término de las cuales el jurado recogerá los exámenes y los colocará cada uno de ellos en sobre cerrado que firmarán el presidente y el secretario del jurado, junto con el sustentante;
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 La salvaguarda e inviolabilidad de los exámenes será responsabilidad de los miembros del jurado.
 
-Al término del desahogo de las pruebas práctica y teórica y previo cercioramiento de la no violación de los sobres referidos en este artículo, el jurado sesionará de inmediato a fin de obtener la calificación definitiva de cada sustentante, promediando los resultados que éstos obtuvieron en sus pruebas práctica y teórica; de lo que se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Una vez desahogadas las pruebas teórica y práctica y previo cercioramiento de la no violación de los sobres referidos en este artículo, el jurado sesionará las veces necesarias a fin de obtener la calificación definitiva de cada sustentante, promediando los resultados que éstos obtuvieron en sus pruebas teórica y práctica; de lo que se levantará el acta correspondiente, que será firmada por los integrantes del jurado.
 
 ###### Artículo 19.
 
 El jurado calificará cada prueba en una escala de cero a cien puntos.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La calificación mínima aprobatoria será de ochenta y cinco puntos, considerando las pruebas práctica y teórica.
+La calificación mínima aprobatoria será de ochenta y cinco puntos, considerando las pruebas teórica y práctica.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El jurado atendiendo a las calificaciones obtenidas en las pruebas práctica y teórica, determinará quién de los sustentantes aprobados, resultó con mayor puntuación para recibir el fíat concursado.
+El jurado atendiendo a las calificaciones obtenidas en las pruebas teórica y práctica, determinará quién de los sustentantes aprobados, resultó con mayor puntuación para recibir el fíat concursado.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
 Si ninguno de los sustentantes obtuviera el mínimo de ochenta y cinco puntos, el examen será declarado desierto y se convocará a uno nuevo, en un plazo no menor de seis meses.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-En caso de que algunos de los sustentantes empaten en la máxima puntuación aprobatoria, el jurado ordenará la práctica, entre ellos, de una prueba complementaria, práctica y teórica, conforme a las reglas establecidas en el artículo 18 de esta Ley, a fin de obtener una nueva calificación.
+En caso de que algunos de los sustentantes empaten en la máxima puntuación aprobatoria, el jurado instrumentará acciones afirmativas en materia de paridad de género para garantizar el acceso de las mujeres a la función notarial y, en su caso, de ser necesario ordenará la práctica, entre ellos, de una prueba complementaria, teórica y práctica, conforme a las reglas establecidas en el artículo 18 de esta Ley, a fin de obtener una nueva calificación.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -729,15 +797,21 @@ II. Aprobar el examen de conocimientos regulado en este capítulo;
 
 III. Gozar de capacidad física y mental que le permita el ejercicio de la función notarial;
 
-IV. Acreditar haber tenido y contar con buena conducta y honorabilidad profesional;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V. No haber sido condenado en sentencia ejecutoria por delito doloso que amerite pena privativa de libertad; y
+IV. Ser de reconocida probidad y honradez;
+
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 VI. Haber mostrado una íntegra ética profesional y poseer una capacidad jurídica y profesional suficiente para que el notario titular pueda auxiliarse de sus servicios.
 
-Los requisitos contenidos en las fracciones III, IV y V, deberán estar actualizados y vigentes. Para efecto de su acreditación, se estará a lo dispuesto en las fracciones IV, V y VIII del artículo 13 de esta Ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La constancia de buena conducta a que se refiere la fracción IV del artículo 13 de esta Ley, para tener por acreditado el requisito señalado en la fracción IV de este artículo, deberá contener la mención de que se expide al interesado, para la solicitud del examen para notario auxiliar.
+Los requisitos contenidos en las fracciones III y IV deberán estar actualizados y vigentes. Para efecto de su acreditación, se estará a lo dispuesto en las fracciones IV y V del artículo 13 de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La carta de recomendación a que se refiere la fracción IV del artículo 13 de esta Ley, para tener por acreditado el requisito señalado en la fracción IV de este artículo, deberá contener la mención de que se expide al interesado, para la solicitud del examen para notario auxiliar.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 2020)</small>
 
@@ -835,15 +909,13 @@ El notario podrá solicitar al Titular del Poder Ejecutivo la revocación de la 
 
 La revocación de la licencia del notario auxiliar se comunicará por la Secretaría de Gobierno a las autoridades a que se refiere la fracción IV del artículo 25 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 48-K.
 
-El notario auxiliar tendrá derecho a separarse libremente comunicándole al notario y a la Secretaría de Gobierno con quince días naturales de anticipación. A pesar de la separación no cesará la responsabilidad del notario auxiliar en todos los actos en que haya intervenido.
+El notario auxiliar tendrá derecho a separarse libremente, asentando las causas de su separación en los términos del Reglamento de esta Ley y comunicándole al notario y a la Secretaría de Gobierno con quince días naturales de anticipación. A pesar de la separación no cesará la responsabilidad del notario auxiliar en todos los actos en que haya intervenido.
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2020)</small>
-
-El notario auxiliar tendrá derecho a participar en los procedimientos a que se refiere el artículo 11-A de esta Ley para acreditar su calidad de aspirante y, en su caso, a ser investido con la calidad de notario público, previa la acreditación de los requisitos a que se refiere el artículo 12.
+El notario auxiliar tendrá derecho a participar en los procedimientos para la obtención del fíat de notario, previa acreditación de los requisitos a que se refiere el artículo 12.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -868,6 +940,20 @@ La designación del notario auxiliar dejará de surtir efectos si tanto él como
 ###### Artículo 48-O.
 
 El notario auxiliar no podrá actuar como tal, a pesar de haber sido designado previamente, si se llegare a conceder al titular cualquier licencia para separarse de sus funciones en los términos de esta Ley. Tampoco podrá actuar cuando al notario le hubiere sido concedida licencia para desempeñar un cargo público o de elección popular, sea federal, estatal o municipal, o de la Ciudad de México.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 48-P.
+
+El notario auxiliar que se separe voluntariamente de la notaría pública para la cual se le concedió originalmente su licencia; haya fallecido el notario titular que lo propuso; o le sea revocada su licencia sin que medie causa grave o no haya incurrido en alguna de las conductas que se prevén para la suspensión o revocación de fíat; podrá obtener una nueva licencia, para colaborar con otro notario, previa solicitud al Titular del Poder Ejecutivo. Para tal efecto, el notario auxiliar deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 48-C fracciones III, IV y VI de esta Ley y deberá contar con la conformidad del notario titular, quien, por su parte, deberá cumplir con los requisitos señalados en el artículo 48-B de esta Ley.
+
+El notario auxiliar a quien le haya sido revocada la licencia a solicitud del notario titular, además de los requisitos anteriores, deberá presentar una carta de recomendación por parte del Colegio Estatal de Notarios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 48-Q.
+
+El notario auxiliar continuará en el ejercicio de la función con el mismo notario titular, aun cuando se le hubiere autorizado a éste el cambio de adscripción.
 
 ### CAPÍTULO IX. Del protocolo y del libro de ratificaciones
 
@@ -1351,11 +1437,11 @@ Una vez que el titular de la unidad administrativa que corresponda de la Secreta
 
 El Titular del Poder Ejecutivo para vigilar que las notarías funcionen con regularidad y con sujeción a lo dispuesto en esta Ley, su reglamento y demás disposiciones aplicables, se auxiliará de un cuerpo de inspectores de notarías, dependiente de la unidad administrativa que corresponda de la Secretaría de Gobierno, quienes serán nombrados y removidos libremente por el Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 111.
 
-Para ser inspector de notarías, se deberán reunir los requisitos que señalan las fracciones I, II, III, IV, V y VI del artículo 12 de esta Ley.
+Para ser inspector de notarías, se deberán reunir los requisitos que señalan las fracciones I, II, III y IV del artículo 12 de esta Ley.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2120,3 +2206,15 @@ Artículo Cuarto. Dentro de los diez días hábiles siguientes a la fecha del ci
 Disposiciones aplicables a las solicitudes que se presenten en lo subsecuente
 
 Artículo Quinto. Una vez emitida la convocatoria referida en el Artículo Tercero Transitorio y desahogado el proceso correspondiente hasta su conclusión, en lo subsecuente, los notarios interesados en solicitar la designación de notarios auxiliares deberán observar lo establecido en el artículo 48-B de esta Ley.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 172, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DEL NOTARIADO PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Poder Ejecutivo contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los instrumentos normativos o administrativos, conforme a lo dispuesto en éste.
+
+Artículo Tercero. Los interesados en presentar el examen de aspirante a notario que cuenten por lo menos con un año de prácticas en alguna de las notarías del Estado de Guanajuato, se les reconocerán dichas prácticas para efectos del cumplimiento del requisito a que se refiere la fracción IX del artículo 11-A.
+
+Artículo Cuarto. Para los efectos de la aplicación de las disposiciones contenidas en el presente Decreto, el primer procedimiento que se efectúe será el correspondiente para la obtención de la calidad de aspirante a notario. Para tal efecto, la Secretaría de Gobierno emitirá la convocatoria pública y abierta en los términos del artículo 11-B, observándose en lo conducente, lo dispuesto en el Artículo Tercero transitorio.
