@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-ejecutivo-del-estado-de-baja-152865"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-12-06"
-last_updated: "2022-12-02"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Especial 99 del Periódico Oficial del Estado de Baja California, el lunes 6 de diciembre de 2021.
 
@@ -235,7 +235,9 @@ VI. Proponer a la Persona Titular del Poder Ejecutivo la organización de la Adm
 
 VII. Coordinar el Consejo de Impacto y Seguimiento de Asuntos Prioritarios de la Administración Pública;
 
-VIII. Dar seguimiento a las acciones de mejora regulatoria, como política pública transversal estratégica, en coordinación con las dependencias y entidades paraestatales de la Administración Pública y con los Ayuntamientos, a fin de evaluar los resultados sobre las regulaciones y la simplificación de trámites y servicios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Conducir y supervisar la ejecución de la política pública de Mejora Regulatoria del Estado, así como las acciones que corresponden en esta materia al Poder Ejecutivo a fin de promover la mejora de las regulaciones y la simplificación de trámites y servicios, así como la transparencia en la elaboración y aplicación de estos;
 
 IX. Dar seguimiento a los resultados en materia de gestión de datos, gobierno abierto, gobierno digital y gobernanza tecnológica;
 
@@ -999,7 +1001,9 @@ XX. Proponer y fortalecer la participación de la comunidad en los servicios de 
 
 XXI. Vigilar la aplicación de la normatividad general en materia de salud, tanto nacional como internacional y proponer adecuaciones a la normatividad estatal con esquemas que logren su correcto cumplimiento.
 
-XXII. Ejercer atribuciones de regulación, control y fomento sanitarios conforme a la Ley General de Salud, la Ley de Salud para el Estado y los acuerdos celebrados con la Federación, y los demás ordenamientos aplicables que correspondan, a través de la Comisión Estatal para la Protección contra Riesgos Sanitarios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXII. Ejercer atribuciones de regulación, vigilancia, control y fomento sanitarios conforme a la Ley General de Salud, la Ley de Salud para el Estado y los acuerdos celebrados con la Federación, y los demás ordenamientos aplicables que correspondan, a través del organismo público descentralizado denominado Instituto de Servicios de Salud Pública del Estado de Baja California.
 
 XXIII. Realizar acciones preferentemente de carácter preventivo relacionadas con problemas sanitarios y factores que condicionen o causen daños a la salud, tendientes a mejorar la calidad y seguridad en la prestación de los servicios de salud;
 
@@ -1103,6 +1107,8 @@ XXVII. Proponer a la Persona Titular del Poder Ejecutivo proyectos de decreto de
 
 XXVIII. Las que determinen las leyes, reglamentos y demás disposiciones aplicables.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)
+
 ###### ARTÍCULO 41.
 
 La Secretaría de Economía e Innovación tendrá las atribuciones y obligaciones siguientes:
@@ -1121,11 +1127,13 @@ VI. Promover la organización formal de los distintos sectores económicos, esta
 
 VII. Integrar y proporcionar información socioeconómica local, nacional e internacional, que le permita conocer las tendencias, mercados, fondos e inversiones, dinámicas científicas y tecnológicas, y vocaciones productivas y, en general, toda aquella información que permita orientar, fomentar, incentivar e incluso desincentivar actividades económicas en el Estado;
 
-VIII. Promover y estimular la mejora regulatoria con el fin de facilitar el desarrollo de nuevas empresas y el crecimiento de las existentes
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Promover y estimular el desarrollo de nuevas empresas y el crecimiento de las existentes;
 
 IX. Identificar, impulsar y promover el desarrollo de proyectos estratégicos que detonen la capacidad productiva y competitividad del Estado, incluyendo la infraestructura, el ordenamiento industrial y la sustentabilidad en el uso de recursos.
 
-X. Apoyar en los procesos de protección y aprovechamiento adecuado de la propiedad intelectual y transferencia de tecnología en el sector productivo;
+X. Apoyar en los procesos de protección y aprovechamiento adecuado de la propiedad intelectual y transferencia de tecnología en el sector productivo
 
 XI. Otorgar estímulos y reconocimientos al mérito de la actividad productiva, tecnológica y empresarial en el Estado;
 
@@ -1137,7 +1145,7 @@ XIV. Organizar, coordinar, participar, patrocinar o difundir congresos, foros, s
 
 XV. Promover, facilitar y apoyar la integración de cadenas productivas, el desarrollo de proveedores y la articulación de empresas e instituciones, especialmente para las vocaciones productivas del Estado;
 
-XVI. Impulsar y apoyar la participación en los mercados nacionales y extranjeros, de las industrias y empresas locales, facilitando el acceso, de éstas a otros mercados;
+XVI. Impulsar y apoyar la participación en los mercados nacionales y extranjeros, de las industrias y empresas locales, facilitando el acceso de éstas a otros mercados;
 
 XVII. Elaborar, coordinar y ejecutar programas y acciones de promoción que incentiven la participación del comercio exterior e inversión extranjera y nacional, para el establecimiento de industrias y empresas que generen empleo eventual o permanente, en los distintos sectores de la economía y regiones del Estado;
 
@@ -1153,7 +1161,13 @@ XXII. Impulsar, promover y facilitar la creación de infraestructura de apoyo a 
 
 XXIII. Impulsar en el Estado el uso y, en su caso, la generación y estándares de competencias tanto nacionales como internacionales, así como promover en los sectores económicos el ecosistema de certificaciones, que impulsen y mejoren la productividad, calidad y competitividad en el Estado; y,
 
-XXIV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables, o bien que expresamente no estén conferidas a la federación o los Ayuntamientos y sean necesarias para la labor y gestión gubernamental.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Promover y facilitar los mecanismos de apertura rápida de empresas a través del (sic) Programas respectivos; y,
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXIV], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXV. Las que determinen las leyes, reglamentos y demás disposiciones aplicables, o bien que expresamente no estén conferidas a la federación o los Ayuntamientos y sean necesarias para la labor y gestión gubernamental.
 
 ###### ARTÍCULO 42.
 
@@ -1928,3 +1942,17 @@ CUARTO. No se afectarán los derechos adquiridos y demás prestaciones reconocid
 QUINTO. Las funciones, facultades, derechos y obligaciones a cargo de la Secretaría del Campo y la Seguridad Alimentaria en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Poder Ejecutivo del Estado, con dependencias y entidades de la Federación y de los Municipios, y con cualquier persona física o moral, se entienden asumidas por la Secretaría de Agricultura y Desarrollo Rural.
 
 SEXTO. En virtud del cambio de denominación de la Secretaría del Campo y la Seguridad Alimentaria, los tramites, procedimientos y demás asuntos que tenga pendiente de concluir o resolver, estarán a cargo de la Secretaría de Agricultura y Desarrollo Rural.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 194 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 11, 51, 116 BIS, 116 QUATER, 122, 149, 150, 151, 154, 155, 157, 158, 162, 168, 169, 171, 173, 174, 175, 176, 179, 185, 188, 189, 190, 191, 192 Y 194, COMO TAMBIÉN EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO, DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 195 POR EL QUE “SE APRUEBA LA REFORMA A LOS ARTÍCULOS 21 Y 41 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. El Ejecutivo Estatal dentro de los noventa días hábiles siguientes, contados a partir de la entrada en vigor del presento Decreto, realizará las modificaciones reglamentarias correspondientes.
