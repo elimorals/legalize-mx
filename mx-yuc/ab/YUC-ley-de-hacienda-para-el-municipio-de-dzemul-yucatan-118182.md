@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzemul-yucatan-118182"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2021-12-31"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZEMUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el sábado 31 de diciembre de 2016.
 
@@ -551,11 +551,13 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, el impu
 
 DEL PAGO
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 48.
 
-El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro de primer mes, de cada año.
+El impuesto predial sobre la base de valor catastral deberá cubrirse por anualidades anticipadas dentro de (sic) primer mes, de cada año.
 
-Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante los meses de enero y febrero, gozará de un descuento del 10% sobre el importe de dicho impuesto y a las personas que presenten credencial del INAPAM un 10% todo el año.
+Cuando el contribuyente pague el impuesto predial correspondiente a todo el año, durante los meses de enero gozaran de un descuento del 30% sobre el importe de dicho impuesto predial actualizado, en el mes de febrero gozaran de un descuento del 20% sobre el importe de dicho impuesto predial actualizado y en el mes de marzo gozará de un descuento del 10% sobre el importe de dicho impuesto.
 
 EXENCIONES
 
@@ -965,6 +967,30 @@ n) Verificación de obra.
 
 ñ) Renovación de licencia de obra.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+o) Permiso de ampliación
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+p) Licencia de urbanización
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+q) Licencia de uso de suelo
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+r) Licencia para uso de andamios o tapiales
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+s) Factibilidad de uso de suelo, construcción, urbanización, medios de publicidad, anuncios de propaganda, agua potable, alumbrado público, servicios de vigilancia y tránsito municipal.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+t) Constancia de concesión en zona federal- marítima
+
 DE LAS BASES
 
 ###### Artículo 81.
@@ -1329,11 +1355,37 @@ Serán base de este derecho, el consumo en metros cúbicos de agua, en los casos
 
 La cuota de este derecho será la que al efecto determine la Ley de Ingresos del Municipio de Dzemul, Yucatán.
 
-### CAPÍTULO ÚNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO XIV. Derechos para realizar Servicios de Labores Topográficas
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 129 Bis.
+
+Es objeto de este derecho la prestación de las labores topográficas ajenas a la dirección de catastro municipal para los habitantes del Municipio. Se entiende por labores topográficas los levantamiento (sic) topográficos que realicen mediante un estudio técnico y descriptivo de un terreno, examinando la superficie terrestre en la cual se tienen en cuenta las características físicas, geográficas y geológicas del terreno, pero también sus variaciones y alteraciones, se denomina a este acopio de datos o plano que refleja al detalle y sirve como instrumento de planificación para edificaciones y construcciones, todo dentro del municipio en calles, plazas, jardines y todos los lugares de uso común.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 129 Ter.
+
+Son sujetos del pago de estos derechos, las personas físicas o morales, que realicen Servicios de labores topográficos en el municipio de Dzemul, considerándose que el servicio se presta en la dirección catastral del municipio, y cualquier persona ajena a la dirección de catastro municipal estará en el supuesto del presente Capítulo.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 129 Quáter.
+
+Serán base de este derecho, y se causará por evento en el día y hora indicada en el comprobante de pago para la realización de los servicios de labores topográficas.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 129 Quinquies.
+
+La cuota de este derecho será la que al efecto determine la Ley de Ingresos del Municipio de Dzemul, Yucatán.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
+### CAPÍTULO ÚNICO. DE LOS SUJETOS
 
 ###### Artículo 130.
 
@@ -1463,7 +1515,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
+### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
 
 ###### Artículo 142.
 
@@ -1521,7 +1573,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
 
 ###### Artículo 150.
 
@@ -1597,11 +1649,13 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES DE LOS RESPONSABLES
+### CAPÍTULO I. GENERALIDADES
 
 ###### Artículo 156.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+### CAPÍTULO II. INFRACCIONES Y SANCIONES DE LOS RESPONSABLES
 
 ###### Artículo 157.
 
@@ -1696,3 +1750,13 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
