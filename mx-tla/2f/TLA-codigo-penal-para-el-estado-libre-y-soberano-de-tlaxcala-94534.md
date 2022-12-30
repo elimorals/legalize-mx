@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2022-12-22"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -5085,6 +5085,10 @@ Cuando en la comisión de un delito previsto en este capítulo, intervenga un se
 
 ## TÍTULO VIGÉSIMO SÉPTIMO. DE LOS DELITOS CONTRA EL SISTEMA ELECTORAL
 
+### CAPÍTULO ÚNICO. DE LOS DELITOS CONTRA LA VIDA, LA INTEGRIDAD Y LA DIGNIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 425.
 
 Para efectos de este Título, se entiende por:
@@ -5312,6 +5316,114 @@ XVII. Robo Calificado previsto en los artículos 328, 329 fracción VI y 330;
 XVIII. Robo de Ganado previsto en los artículos 331 al 334, y
 
 XIX. Daños previstos en los artículos 349 y 350 párrafo segundo.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+## TÍTULO VIGÉSIMO OCTAVO. DE LOS DELITOS COMETIDOS EN CONTRA DE LOS ANIMALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 435.
+
+A quien intencionalmente cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal doméstico, adiestrado, de trabajo o producción en los términos de lo dispuesto en la Ley de Protección y Bienestar Animal para el Estado de Tlaxcala, provocándole lesiones, sufrimiento, dolor o estrés se les impondrá de seis meses a tres años de prisión y multa de cincuenta a cuatrocientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+Se consideran actos de maltrato o crueldad animal:
+
+I. Causar la muerte de un animal injustificadamente;
+
+II. Sacrificar un animal empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o privar de la vida a un animal utilizando cualquier medio que le provoque un sufrimiento excesivo, innecesario o que prolongue su agonía;
+
+III. Cualquier mutilación, lesión o marca permanente, sin fines médicos;
+
+IV. Las lesiones que pongan en peligro la vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, o que afecten el normal funcionamiento de un órgano o miembro;
+
+V. Provocar la ingesta o aplicar alguna substancia u objeto tóxico, que pongan en peligro la vida de un animal o le provoque la muerte;
+
+VI. Privar a un animal, con el fin de causarle daño, de aire, luz, alimento, agua, espacio, movilidad, abrigo contra la intemperie, cuidados médicos o alojamiento adecuado, acorde a su especie;
+
+VII. Abandone a un animal o lo desatienda por períodos prolongados que comprometan su bienestar, o
+
+VIII. Incitar a los animales para que se ataquen entre ellos, o no tener el cuidado, siempre que por su ferocidad o fuerza de los animales se puedan provocar lesiones o la muerte.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 436.
+
+Si las lesiones ponen en riesgo la vida del animal, la pena mencionada en el artículo anterior se incrementará en una mitad.
+
+Si los actos de maltrato o crueldad provocan la muerte del animal, se impondrá de dos a cuatro años de prisión y de quinientas a ochocientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento excesivo o innecesario al animal previo a su muerte no inmediata y prolonguen la agonía del animal, las penas se aumentarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 437.
+
+Son excluyentes de responsabilidad:
+
+I. La muerte de un animal resultado de actividades culturales, o cualquier otra que sea lícita;
+
+II. La muerte o mutilación de un animal que constituya plaga;
+
+III. La muerte o mutilación de un animal por causa previamente justificada, con el cuidado y supervisión de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia;
+
+IV. Marcar o herrar animales vertebrados cuando el objeto sea distinguir al ganado, y
+
+V. El sacrificio de un animal vertebrado para consumo humano de conformidad con la Norma Oficial Mexicana NOM-033-SAG/Z00-2014: Métodos para dar muerte a los animales domésticos y silvestres.
+
+Para efectos de la fracción II, el control sanitario de los animales abandonados o callejeros, será responsabilidad de las autoridades sanitarias y los municipios en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 438.
+
+Se impondrá pena de seis meses a dos años de prisión y multa de trecientas a cuatrocientas veces el valor de la Unidad de Medida y Actualización vigente a quien utilice a un animal vertebrado con fines sexuales.
+
+Se entenderá por utilización con fines sexuales:
+
+I. La práctica de actos sexuales con un animal, y
+
+II. La venta, distribución, exhibición o difusión de imágenes, fotografías, videos o cualquier otro medio en que conste algún acto sexual que involucre animales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 439.
+
+Los delitos previstos en este capítulo se perseguirán por querella que presente la persona propietaria o quien tenga a su cargo o cuidado el animal involucrado, salvo que se cometan por el propietario o custodio del animal, en caso de que el animal carezca de propietario o custodio, se perseguirán de oficio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 440.
+
+Se impondrá pena de seis meses a cinco años de prisión y multa de doscientos a dos mil veces el valor de la Unidad de Medida y Actualización vigente, a quien:
+
+I. Crie o entrene a un perro, con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucré una pelea entre dos o más perros, para fines recreativos, lucrativos, de entretenimiento o de cualquier otra índole;
+
+II. Posea, traslade, compre o venda perros, con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
+
+III. Organice, promueva, anuncie, patrocine o venda boletos para asistir a espectáculos que impliquen peleas de perros;
+
+IV. Posea o administre una propiedad en la que se realicen peleas de perros, con conocimiento de dicha actividad;
+
+V. Promueva o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+
+VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros, en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+
+La sanción señalada en este artículo, se incrementará en una mitad cuando los hechos sean cometidos por servidores públicos.
+
+Incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 441.
+
+Cuando en la comisión de un delito previsto en este Capítulo, intervenga un servidor público, con motivo de sus funciones o aprovechándose de ostentar ese carácter, así como profesionales que tengan conocimientos relacionados o aplicados con animales, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, por el mismo término de la pena privativa de libertad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 442.
+
+A quien sustraiga o retenga cualquier animal, con el propósito de obtener rescate o algún beneficio económico, se le impondrá de uno a tres años de prisión y multa de cien a doscientos (sic) veces el valor de la Unidad de Medida y Actualización vigente.
 
 ## TRANSITORIOS
 
@@ -5610,6 +5722,18 @@ P.O. 22 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 160.- SE ADICIONAN UN TÍTULO VIGÉSIMO OCTAVO, DENOMINADO "DE LOS DELITOS COMETIDOS EN CONTRA DE LOS ANIMALES", CON UN CAPÍTULO ÚNICO, LLAMADO "DE LOS DELITOS CONTRA LA VIDA, LA INTEGRIDAD Y LA DIGNIDAD DE LOS ANIMALES", INTEGRADO POR LOS ARTÍCULOS 435, 436, 437, 438, 439, 440, 441 Y 442, AL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO SEGUNDO.
 
