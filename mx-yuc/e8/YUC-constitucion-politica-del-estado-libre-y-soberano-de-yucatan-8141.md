@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2022-10-13"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -2255,9 +2255,9 @@ Se adoptará el principio de representación proporcional, como mecanismo comple
 
 Los municipios se organizarán administrativa y políticamente, conforme a las bases siguientes:
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Primera.- Los ayuntamientos entrarán en funciones, el 1 de septiembre inmediato a su elección, y durarán en su encargo tres años.
+Primera.- Los ayuntamientos entrarán en funciones, el primero de septiembre inmediato al día de la elección, previa rendición del Compromiso Constitucional que se llevará a cabo mediante Sesión Solemne el día 31 de agosto del mismo año, y durarán en el cargo tres años.
 
 > <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -5270,3 +5270,15 @@ D.O. 13 DE OCTUBRE DE 2022.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 590/2022 POR EL QUE SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INSTALACIÓN DE LOS AYUNTAMIENTOS”.]
+
+Entrada en Vigor.
+
+Artículo Primero. El presente decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Cláusula derogatoria.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
