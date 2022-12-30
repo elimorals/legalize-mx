@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tekax-yucatan-132534"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2022-04-29"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE TEKAX, YUCATAN
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2023 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE TEKAX DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento II del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -761,13 +763,13 @@ Vigencia de los avalúos
 
 Los avalúos que se practiquen para el efecto del pago del impuesto a que se refiere esta sección tendrán una vigencia de seis meses a partir de la fecha de su expedición. En todo caso, la fecha de la escritura deberá ubicarse dentro del plazo de vigencia.
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 57.
 
 Tasa
 
-El impuesto a que se refiere esta sección se calculará aplicando la tasa del 3.2% a la base establecida en el artículo 55.
+El impuesto a que se refiere esta sección se calculará aplicando la tasa del 3.5% a la base establecida en el artículo 55.
 
 ###### Artículo 58.
 
@@ -951,21 +953,21 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que, a
 
 En este caso, el nuevo valor consignado en la cédula servirá como base del cálculo del impuesto predial para el siguiente bimestre no cubierto.
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 69.
 
 Tablas de valores catastrales
 
-El impuesto predial anual se calculará sobre la base del valor catastral de los predios, de acuerdo con la siguiente tabla de valores:
+Para efectos de la determinación del impuesto predial con base en el valor catastral, los valores que corresponden a los inmuebles durante el año 2023 serán los siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS DE VALORES CATASTRALES EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINA 16.]</small>
+> <small>[N. DE E. VÉASE TABLAS DE VALORES CATASTRALES EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 53 A LA 54.]</small>
 
 El cálculo de la cantidad a pagar se realizará de la siguiente manera: el valor de los predios se situará entre los rangos determinados por los límites inferior y superior; en cada rango se aplicará la cuota señalada para el límite inferior; a la cantidad excedente del límite inferior se aplicará el factor señalado al rango.
 
 El resultado que se obtenga de la suma de estas operaciones determina el impuesto predial del año.
 
-Cuando no se cubra el impuesto en las fecha (sic) o plazos fijados para ello en esta Ley, el monto del mismo se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país por lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar, desde el mes en que debió hacerse el pago y hasta el mes en que el mismo se efectúe.
+Cuando no se cubra el impuesto en las fecha (sic) o plazos fijados para ello en la Ley de Hacienda del Municipio de Tekax Yucatán, el monto de este se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país por lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar, desde el mes en que debió hacerse el pago y hasta el mes en que el mismo se efectúe.
 
 Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor que elabora el Instituto Nacional de Estadística y Geografía y se publica en el Diario Oficial de la Federación que corresponda al mes inmediato anterior al más reciente del período entre el citado índice correspondiente al mes inmediato anterior al más antiguo de dicho período. Además de la actualización se pagarán los recargos en concepto de indemnización al Municipio de Tekax, Yucatán por la falta del pago oportuno.
 
@@ -1055,11 +1057,21 @@ Lugar de pago del impuesto
 
 El pago de impuesto predial se efectuará en la tesorería municipal, en las oficinas autorizadas por el ayuntamiento.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 73.
 
-Descuento
+Descuento por pago anticipado
 
-Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante el primer bimestre del año de dicho año (sic), gozará de un descuento del 10% sobre el importe de dicho impuesto.
+Los contribuyentes que paguen anticipadamente, durante los meses de enero, febrero y marzo, las cuotas del Impuesto Predial obtendrán un descuento equivalente según tabla:
+
+PERIODO DESCUENTO ANUAL
+
+ENERO 25%
+
+FEBRERO 20%
+
+MARZO 15%
 
 ###### Artículo 74.
 
@@ -1265,7 +1277,9 @@ Servicios prestados por otra dependencia o entidad
 
 Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del ayuntamiento, sean proporcionados por otra distinta o bien por una entidad paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
-#### Sección segunda. Mercados y ambulantes
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### Sección segunda. Mercados, bazares de comida, pasajes y ambulantes
 
 > <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1283,51 +1297,47 @@ Sujetos obligados
 
 Son sujetos obligados al pago de las cuotas y tarifas de los derechos previstos en las fracciones I y II del artículo siguiente, las personas físicas o morales a quienes se les hubiera otorgado la concesión o autorización para la ocupación de los bienes referidos en esas fracciones o hayan obtenido posesión de ellos por cualquier medio.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 97.
 
 Tarifas
 
-Por el uso y aprovechamiento de los locales o pisos de los mercados de dominio público municipal y por la obtención del permiso para realizar actividades comerciales en los demás bienes del dominio público municipal, se pagarán derechos, por día, conforme a las siguientes tarifas:
+Por el uso y aprovechamiento de los locales, mesetas o pisos de los mercados de dominio público municipal y por la obtención del permiso para realizar actividades comerciales en los bienes del dominio público municipal, se pagarán derechos, por día, conforme a las siguientes tarifas:
 
-I. El uso o aprovechamiento de los locales o pisos de los mercados de dominio público municipal: 0.12 UMA
+I. El uso o aprovechamiento de los locales de los mercados de dominio público municipal: 0.18 UMA
 
-II. El uso o aprovechamiento de las mesetas ubicadas en los mercados de dominio público municipal: 0.07 UMA
+II. El uso o aprovechamiento de las mesetas y piso ubicadas (sic) en los mercados de dominio público municipal: 0.15 UMA
 
-III. Por la obtención del permiso para instalar puestos fijos o semifijos para la realización de actividades comerciales en espacios determinados de los parques, las unidades deportivas, la vía pública y demás bienes del dominio público municipal: 0.12 UMA
+III. Por la obtención del permiso para instalar puestos fijos o semifijos para la realización de actividades comerciales en espacios determinados de los parques, las unidades deportivas, la vía pública y bienes del dominio público municipal: 1 UMA
 
-IV. Por la obtención del permiso para la realización de actividades de comercio ambulante, en vehículo motorizado, puestos semifijos o cualquier instrumento similar que le permita llevar a cabo esta actividad sin tener un lugar específico asignado dentro de las vías o espacios públicos de la ciudad: 0.15 UMA
+IV. Por la obtención del permiso para la realización de actividades de comercio ambulante, en vehículo motorizado, puestos semifijos o cualquier instrumento que le permita llevar a cabo esta actividad sin tener un lugar específico asignado dentro de las vías o espacios públicos de la ciudad: 1 UMA
 
-> <small>(ADICIONADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 97 Bis.
 
-Tarifas por el servicio de mercados
+Concepto de cobro de piso de Bazares de comida y Pasajes
 
-Los derechos por servicios del mercado se causarán y pagarán de conformidad -con las siguientes tarifas:
+Para efectos de esta sección. Se entenderá por Bazares de comida a los inmuebles edificados a la venta de alimentos en la calle 41 x 50 y 48, se entenderá de Pasaje al inmueble ubicado en la calle 55 x 44 x 46 s/n. Se pagarán derechos, por día, conforme a las siguientes tarifas:
 
-I.- Locatarios semifijos……………………$ 6.00 el metro por día
+I. El uso o aprovechamiento de los locales de los Bazares de comida fuera del mercado municipal y de dominio público municipal: 1.45 UMA
 
-II.- Locales comerciales de
+II. El uso o aprovechamiento de los locales del Pasaje de la 55 de dominio público municipal: 0.20 UMA
 
-mercado……………………………………………………………$ 6.00 por día
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III.- Mesetas en el mercado:
+###### Artículo 97 Ter.
 
-a) Carnes…………………………………………………………$ 8.00 por día
+Para zonificación de cobro de pisos por mes a lugares de propiedad del municipio para personas morales y físicas:
 
-b) Verduras…………………………………………………………$ 4.00 por día
+C. 55 y 47 x 46 y 54 Zona I 6 uma
 
-c) Otros……………………………………………………………$ 2.00 Por día
+C 55 y 61 x 46 y 54 Zona II 10 uma
 
-IV. Puestos (ambulantes) en la vía pública:
+C 45 y 39 x 46 y 54 Zona III 50 uma
 
-a) Pequeño (2m x 1)……………………………………$ 11.00 por día
-
-b) Mediano (3m)………………………………………………$ 17.00 por día
-
-c) Grande (10m x 1m)………………………………$ 27.00 por día
-
-d) Vendedores ambulantes con camioneta……………………$ 11.00 por día
+C. Casa de las artesanías Zona IV 15 uma
 
 ###### Artículo 98.
 
@@ -1335,13 +1345,39 @@ Concepto de Mercado
 
 Para efectos de esta sección, se entenderá por mercados, a los inmuebles edificados o no, donde concurran diversidad de personas físicas o morales, oferentes de productos básicos y al que acceden sin restricción los consumidores en general.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 99.
 
 Descuento por pago anticipado
 
-Los contribuyentes que paguen anticipadamente, durante los meses de enero y febrero, las cuotas de los derechos previstos en las fracciones I y II del artículo 97 correspondientes a todo el año, obtendrán un descuento equivalente al 10% del total de la cuota.
+Los contribuyentes que paguen anticipadamente, durante los meses de enero, febrero y marzo, las cuotas de los derechos previstos en las fracciones I y II del artículo 97 y de las fracciones I y II del artículo 97 bis, correspondientes a todo el año, obtendrán un descuento equivalente según tabla:
+
+PERIODO DESCUENTO ANUAL
+
+ENERO 25%
+
+FEBRERO 20%
+
+MARZO 15%
+
+Actualización de cuotas atrasadas según tabla:
+
+PERIODO CARGO %
+
+1 AÑO 10%
+
+2 AÑOS 15%
+
+3 AÑOS 20%
+
+4 AÑOS 20%
+
+5 AÑOS 20%
 
 #### Sección tercera. Uso y aprovechamiento de panteones públicos
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 100.
 
@@ -1349,7 +1385,9 @@ Cuotas
 
 Por el uso y aprovechamiento de los panteones del dominio público municipal se pagarán derechos, conforme a las siguientes cuotas:
 
-I. Por el uso temporal a quince años de bóvedas:
+PANTEÓN GENERAL
+
+I. Por el uso temporal a tres años de bóvedas:
 
 a) En las secciones A, B, C, J y K: 11 UMA
 
@@ -1359,29 +1397,85 @@ c) En las secciones E, F, G, M, N y O: 18 UMA
 
 d) En las secciones H, I, P, Q, R y S: 22 UMA
 
+e) En sección A Premium 27 UMA
+
 II. Por el uso a perpetuidad de bóvedas:
 
-a) En las secciones A, B, C, J y K: 43 UMA
+a) En las secciones A, B, C, J y K: 45 UMA
 
-b) En las secciones D y L: 52 UMA
+b) En las secciones D y L: 55 UMA
 
-c) En las secciones E, F, G, M, N y O: 72 UMA
+c) En las secciones E, F, G, M, N y O: 75 UMA
 
-d) En las secciones H, I, P, Q, R y S: 87 UMA
+d) En las secciones H, I, P, Q, R y S: 90 UMA
 
-III. Por el uso a perpetuidad de osarios: 20 UMA
+e) En sección A Premiun 100 UMA
 
-IV. Por el otorgamiento del permiso para efectuar trabajos de pintura, rotulación o instalación de monumentos en cemento, en el interior del panteón, por tumba: 1.00 UMA
+III. Por el uso a perpetuidad de osarios: 40 UMA
 
-V. Por el otorgamiento del permiso para efectuar trabajos de instalación de monumentos de granito, en el interior del panteón, por tumba: 2.23 UMA
+PANTEON CON JARDÍN
 
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+IV. Por el uso temporal a tres años de bóvedas:
+
+a) En las secciones 12. 13, 14 11 UMA
+
+b) En las secciones 10, 11 13 UMA
+
+c) En las secciones 7, 8, 9: 18 UMA
+
+d) En las secciones 2, 3, 4, 5, 6 22 UMA
+
+e) En sección 1 27 UMA
+
+V. Por el uso a perpetuidad de bóvedas:
+
+a) En las secciones 12. 13, 14 45 UMA
+
+b) En las secciones 10, 11 55 UMA
+
+c) En las secciones 7, 8, 9: 75 UMA
+
+d) En las secciones 2, 3, 4, 5, 6 90 UMA
+
+e) En sección 1 100 UMA
+
+VI. Por el uso a perpetuidad de osarios: 40 UMA
+
+EXTENSIÓN DEL PANTEÓN CON JARDÍN
+
+VII. Por el uso temporal a tres años de bóvedas:
+
+a) En las secciones XIII, XIV Y XV 11 UMA
+
+b) En las secciones IX, X, XI, XII. 13 UMA
+
+c) En las secciones V, VI, VII Y VIII 18 UMA
+
+d) En las secciones II, III, IV 22 UMA
+
+e) En sección I 27 UMA
+
+VIII. Por el uso temporal mayor a tres años de bóvedas:
+
+a) En las secciones XIII, XIV Y XV 45 UMA
+
+b) En las secciones IX, X, XI, XII. 55 UMA
+
+c) En las secciones V, VI, VII Y VIII 75 UMA
+
+d) En las secciones II, III, IV 90 UMA
+
+e) En sección I 100 UMA
+
+VIII (SIC). Por el uso a perpetuidad de osarios: 40 UMA
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 100 Bis.
 
-El pago de los derechos a que se refiere el Artículo anterior se hará al solicitarse las concesiones temporales o adquisiciones a perpetuidad y los permisos para construcción de monumentos.
+El pago de los derechos a que se refiere el Artículo anterior se hará al solicitarse las concesiones temporales o adquisiciones a perpetuidad y los permisos para construcción de monumentos. En los panteones o cementerios municipales, las inhumaciones serán por quince años con derecho a refrendos o bien a perpetuidad, debiendo cubrirse las tarifas señaladas en esta ley.
 
-En los panteones o cementerios municipales, las inhumaciones serán por quince años con derecho a refrendos o bien a perpetuidad, debiendo cubrirse las tarifas señaladas por la presente Ley.
+Si dentro del primer año de hecho un refrendo de temporalidad se solicita la perpetuidad de la fosa, se deducirá al importe de ésta la suma enterada por el refrendo. Las personas que poseen fosas a perpetuidad en los panteones municipales podrán inhumar en ellas otros cadáveres, siempre que se haya vencido el término que señalan las leyes y reglamentos respectivos para la inhumación.
 
 > <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1573,53 +1667,123 @@ h) Por los conceptos establecidos en el artículo 107 Bis de este ordenamiento.
 
 (DEROGADO, D.O. 27 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 108 Bis.
 
-Cuotas y tarifas por el consumo de Agua Potable.
+Para los efectos de este capítulo se entenderá por la clasificación de predios para la aplicación de las tarifas de consumo de agua potable las siguientes:
 
-Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas así como por el Reglamento municipal respectivo, por el Consumo de Agua potable suministrado por el órgano municipal de agua potable:
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA DE LA 58 A LA 59.]</small>
 
-a) Las tarifas base para el cobro de los servicios de agua potable para el uso doméstico, sobre la base del consumo determinado mediante la lectura del medidor, serán las siguientes:
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINA 17.]</small>
+###### Artículo 108 Ter.
 
-Se entiende por servicios Domésticos: Aquellos predios utilizados como vivienda familiar donde se utilice el servicio de agua potable para el aseo personal de sus habitantes y limpieza de la casa-habitación. Se incluyen los condominios y unidades habitacionales.
+Cuotas y tarifas por el consumo de agua potable.
 
-En tanto se carezca de medidor en tomas de uso doméstico clasificados como vivienda familiar se establece como tarifa de consumo mínimo, la correspondiente al rango de consumo de 0 a 10 M3, equivalente a 1.79 UMA.
+Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas:
 
-b) Las tarifas base para el cobro de los servicios de agua potable para el uso comercial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+I. Para el caso de consumo de agua potable para uso doméstico:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINAS DE LA 17 A LA 18.]</small>
+a) Para aquellos predios que no cuentan con medidor volumétrico:
 
-Se entienden por servicios Comerciales: Aquellos predios donde se realizan actividades de compra (sic)
+b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido inferior a cuarenta metros cúbicos:
 
-y venta de productos, y/o se prestan servicios al público en general; y el agua se utiliza para la limpieza general de las instalaciones y para el aseo personal de los empleados.
+c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINA 18.]</small>
+II. Para el caso de consumo de agua potable para uso comercial o industrial:
 
-En tanto se carezca de medidor en tomas de uso Comercial, se establecerá una cuota con base a un estudio previo efectuado por el personal por el sistema municipal de agua potable
+a) Para aquellos predios que no cuentan con medidor volumétrico:
+
+b) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido inferior a cuarenta metros cúbicos:
+
+c) Para aquellos predios que cuentan con medidor volumétrico, cuando el consumo bimestral haya sido superior a cuarenta metros cúbicos, por cada metro cúbico:
+
+III. Para el caso de consumo de agua potable para granjas y establecimientos de alto consumo:
+
+IV. Por la conexión a la toma de agua potable:
+
+V. Por la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio por adeudo de las cuotas establecidas en las fracciones I y II:
+
+El cobro de derechos por los servicios de agua potable que proporcione el Ayuntamiento se calculará con base en las siguientes cuotas mensuales fundamentado en el reglamento interno de cuotas y tarifas del Sistema municipal de Agua Potable del municipio de Tekax:
+
+I. Consumo doméstico: $ 40.00
+
+II. Consumo doméstico en comisarías: $ 30.00
+
+III. Consumo comercial: $ 70.00
+
+IV. Consumo industrial: $ 120.00
+
+V. Alto consumo: $ 600.00
+
+VI. Servicios Generales: $ 300.00
+
+VII. Instalación de toma nueva domestica sin medidores: $ 1,200.00
+
+VIII. Instalación de nueva toma diferente al doméstico sin medidores: $ 1,300.00
+
+IX. Surtido de agua;
+
+a) Por domicilio en pipa $ 40.00 mensual para los usuarios con la zona delimitada en los cerros
+
+b) Servicio de pipa $30 por m3 más combustible de acuerdo con la distancia.
+
+X. Constancia de No Adeudo: $ 100.00
+
+XI. Convenio administrativo: $ 1,150.00
+
+XII. Renovación de Convenio Administrativo: $ 250.00
+
+XIII. Constancia de No Servicio: $ 250.00
+
+XIV. Constancia de antigüedad o de historial: $100.00
+
+XV. Cambio de nombre (Nuevo propietario): $100.00
+
+XVI. Constancia de factibilidad: El cobro será el 3% sobre el importe de la infraestructura hidráulica y sanitaria de la obra.
+
+XVII. Duplicados de recibos: $15.00
+
+XVIII. Regularización del servicio de agua potable doméstico (toma clandestina), más la estimación del promedio de consumo de tres años anteriores con base al tipo de uso del servicio: $1200.00 pesos
+
+XIX. Regularización del servicio de agua potable diferente al doméstico (toma clandestina), más las estimaciones del promedio de consumo de tres años anteriores con base al tipo de uso del servicio $1300.00 pesos
+
+XX. Traslado de toma doméstico: $1200.00
+
+XXI. Traslado de toma diferente al doméstico: $1300.00
+
+Por los servicios públicos de agua potable, se pagarán derechos conforme a las siguientes cuotas y tarifas, así como por el reglamento municipal respectivo, por el consumo de agua potable suministrado por el órgano municipal de agua potable:
+
+b (sic)) Las tarifas base para el cobro de los servicios de agua potable para el uso comercial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 61.]</small>
+
+Se entienden por servicios comerciales: Aquellos predios donde se realizan actividades de compra y venta de productos, y/o se prestan servicios al público en general; y el agua se utiliza para la limpieza general de las instalaciones y para el aseo personal de los empleados.
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 61.]</small>
+
+En tanto se carezca de medidor en tomas de uso Comercial, se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable
 
 c) Las tarifas base para el cobro de los servicios de agua potable para el uso industrial, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINA 19.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 62.]</small>
 
-Se entiende por servicios Industriales: Aquellos predios donde se realicen actividades industriales y se utilice el agua para transformar la materia prima en productos terminados, para la limpieza general de las instalaciones y para el aseo personal de los empleados.
+Se entiende por servicios industriales: Aquellos predios donde se realicen actividades industriales y se utilice el agua para transformar la materia prima en productos terminados, para la limpieza general de las instalaciones y para el aseo personal de los empleados.
 
 En tanto se carezca de medidor en tomas de uso Industrial se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
 
 d) las tarifas base para el cobro de los servicios de agua potable para el uso de Alto Consumo, considerando el consumo determinado de la lectura del medidor serán las siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINAS DE LA 19 A LA 20.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 62.]</small>
 
-Se entiende por servicios Hoteleros: Aquellos predios utilizados por empresas dedicadas a ofrecer alojamiento temporal que utilizan el agua para el aseo personal de sus clientes, para la limpieza general de las instalaciones, elaboración de alimentos y actividades de recreación.
+Se entiende por servicios hoteleros: Aquellos predios utilizados por empresas dedicadas a ofrecer alojamiento temporal que utilizan el agua para el aseo personal de sus clientes, para la limpieza general de las instalaciones, elaboración de alimentos y actividades de recreación.
 
-En tanto se carezca de medidor en tomas de uso Hotelero se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
+En tanto se carezca de medidor en tomas de uso hotelero se establecerá una cuota con base a un estudio previo efectuado por el personal autorizado por el sistema municipal de agua potable.
 
-e) Las tarifas base para el cobro de los servicios de agua potable para el uso de los servicios Públicos a la comunidad, considerando el consumo determinado de la lectura del medidor, serán las siguientes.
+e) Las tarifas base para el cobro de los servicios de agua potable para el uso de los servicios Públicos a la comunidad, considerando el consumo determinado de la lectura del medidor, serán las siguientes:
 
-> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINAS DE LA 20 A LA 21.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 63.]</small>
 
 Se entienden por servicios generales: Aquellos predios utilizados por órganos, dependencias o entidades de la Federación y el Estado para fines de su función pública.
 
@@ -1979,15 +2143,21 @@ II.- Por predio comercial tipo A……………………………...…….…�
 
 III.- Por predio comercial tipo B…………………………………………$ 140.00
 
-IV.- Por predio comercial tipo C…………………………………………$ 175.00 292.00
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V.- Por predio comercial tipo D…………………………………………$ 292.00 175.00
+IV.- Por predio comercial tipo C…………………………………………$ 175.00
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V.- Por predio comercial tipo D…………………………………………$ 292.00
 
 VI.- Por predio comercial tipo E………………………………………...$ 5,264.00
 
 VII.- Servicio por uso de camión por viaje………………………..……$627.00
 
-Por el pago anual del servicio de recolecta de basura se aplica el 20% de descuento pagando en los meses de enero y febrero. Aunado a lo anterior, los ciudadanos que paguen los primero 5 días hábiles de cada mes, tendrán un descuento del 30% ú nicamente (sic) en el supuesto de la fracción I.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Por el pago anual del servicio de recolección de basura se aplica el 20% de descuento pagando en los meses de enero y febrero.
 
 Para efectos de la presente ley y para la aplicación de este artículo se entenderá por:
 
@@ -2053,7 +2223,7 @@ Clausura
 
 Los establecimientos comerciales que no cuenten con licencia de funcionamiento vigente podrán ser clausurados por la autoridad municipal.
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 131.
 
@@ -2063,13 +2233,13 @@ Por el otorgamiento de licencias de funcionamiento de establecimientos o locales
 
 Giro Veces la unidad de medida y actualización
 
-I. Licorería 750
+I.- Licorería 700
 
-II. Expendio de Cerveza 750
+II.- Expendio de cerveza 500
 
-III. Tienda de Autoservicio Tipo A 600
+III.- Tienda de autoservicio tipo A 450
 
-IV. Tienda de Autoservicio Tipo B 600
+IV.- Tienda de auto servicio tipo B 450
 
 V.- Centros nocturnos 750
 
@@ -2079,9 +2249,9 @@ VII.- Bares 600
 
 VIII.- Discotecas y/o Antros 750
 
-IV (SIC).- Restaurantes 600
+IX.- Restaurantes 600
 
-X (SIC).- Restaurantes de lujo 700
+X.- Restaurantes de lujo 700
 
 XI.- Restaurantes de lujo donde se
 
@@ -2092,8 +2262,6 @@ XII.- Centros recreativos, deportivos
 y clubes sociales 350
 
 XIII.- Video- bar 250
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante.
 
 > <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
 
@@ -2137,7 +2305,7 @@ y Clubes sociales 50
 
 XIII. Video-Bar 100
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 133.
 
@@ -2145,9 +2313,21 @@ Cuotas por otros giros comerciales
 
 Por el otorgamiento de licencias de funcionamiento de establecimientos o locales comerciales se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE ABRIL DE 2022, PÁGINAS DE LA 24 A LA 45.]</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 65 A LA 86.]</small>
 
-El cobro de derechos por el otorgamiento o revalidación de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios sin expendio de bebidas alcohólicas antes mencionado, estará condicionado a que previamente comprueben que tengan realizados los pagos de todos los impuestos y demás derechos inherentes al giro comercial de que se trate incluyendo los que sobre el inmueble recaiga tal como los (sic) es el impuesto predial en cuyo supuesto la que se expida, tendrá una vigencia máxima de hasta un año natural el iniciara en la fecha de expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidas durante el último año del ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de dicha administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo a las tarifas antes mencionado.
+II (SIC).- Giros de alto riesgo
+
+I.- Laboratorios; talleres de herrería: 20 UMA
+
+IV (SIC). Bodegas de todo tipo; establecimientos para la compraventa de materiales de construcción; minisúper; plantas purificadoras de agua: 50 UMA
+
+V. Clínicas; fábricas y maquiladoras de hasta veinte empleados; hospitales; hostales; hoteles; moteles: 100 UMA
+
+VI. Fábricas y maquiladoras de hasta cincuenta empleados; gaseras; gasolineras; y tiendas de artículos de electrodomésticos, muebles y línea blanca; 250 UMA
+
+VII. Fábricas y maquiladoras de más de cincuenta empleados; supermercados; tienda departamental; 500 UMA
+
+El cobro de derechos por el otorgamiento o revalidación de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales comerciales o de servicios sin expendio de bebidas alcohólicas antes mencionado, estará condicionado a que previamente comprueben que tengan realizados los pagos de todos los impuestos y derechos inherentes al giro comercial de que se trate incluyendo los que sobre el inmueble recaiga tal como lo es el impuesto predial en cuyo supuesto la que se expida, tendrá una vigencia máxima de hasta un año natural el (sic) iniciara en la fecha de expedición y terminará la misma fecha del mes del año siguiente; con salvedad de aquellas que fueran expedidas durante el último año del ejercicio fiscal del periodo constitucional de la administración municipal en turno, en cuyo caso su vigencia será hasta el último día de funciones de dicha administración municipal que la expidió, el cobro a que se hace referencia en el presente artículo será de acuerdo a las tarifas antes mencionado (sic).
 
 ###### Artículo 134.
 
@@ -2155,31 +2335,31 @@ Revalidación annual (sic)
 
 Por el otorgamiento de la revalidación anual de licencias para el funcionamiento de los establecimientos referidos en el artículo anterior, se pagará una cuota equivalente al 50% de lo establecido para la expedición de la primera licencia de funcionamiento.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 135.
 
 Tarifas por permisos temporales
 
 Por el otorgamiento de permisos temporales de funcionamiento se pagarán, por día, derechos conforme a las siguientes tarifas:
 
-I. Para la venta de cervezas en locales o puestos fijos o semifijos: 7 UMA
+I. Para la venta de cervezas en locales o puestos fijos o semifijos: 10 UMA
 
-II. Para la ampliación de horario y la autorización de funcionar en días especiales de los establecimientos o locales cuyos giros comprendan la venta de bebidas alcohólicas, sea en envase cerrado o para consumo en el mismo lugar: 15 UMA
+II. Para la ampliación de horario y la autorización de funcionar en días especiales de los establecimientos o locales cuyos giros comprendan la venta de bebidas alcohólicas, sea en envase cerrado o para consumo en el mismo lugar: 14 UMA
 
 III. Para la realización de eventos con luz y sonido, o bailes populares con grupos locales, en lugares públicos o privados con fines de lucro: 22 UMA
 
 IV. Para la realización de eventos con luz y sonido, o bailes populares con grupos internacionales, en lugares públicos o privados con fines de lucro: 294 UMA
 
-V. Para la realización de conciertos u otros eventos musicales no referidos en las fracciones III y IV: 124 UMA
+V. Para la realización de conciertos y eventos musicales 64 UMA
 
-VI. Para la realización de eventos deportivos: 6 UMA
+VI. Para la realización de eventos deportivos: 4 UMA
 
-VII. Para la realización de espectáculos taurinos: 37 UMA
+VII. Para la realización de espectáculos taurinos: 40 UMA
 
-VIII. Para la realización de eventos teatrales o cinematográficos: 7 UMA
+VIII. Para la realización de eventos teatrales o cinematográficos: 10 UMA
 
-IX. Para la realización de eventos circenses: 9 UMA
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante.
+IX. Para la realización de eventos circenses: 10 UMA
 
 ###### Artículo 136.
 
@@ -2235,6 +2415,46 @@ X. Por la difusión de propaganda o publicidad impresa en volantes o folletos, p
 
 XI. Por la difusión de propaganda o publicidad asociada a música o sonido, por día: 0.20 UMA
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 139 Bis.
+
+Antenas de Inspección
+
+TASA POR INSPECCIÓN Y VERIFICACIÓN.- Por los servicios destinados a verificar la conservación y el mantenimiento de cada estructura, soporte de antenas de telefonía, antenas de radiofrecuencia, radiodifusión y tele y radiocomunicaciones y sus equipos complementarios.
+
+La tasa se abonará por cada antena y estructura de soporte autorizada.
+
+Son responsables de esta tasa y estarán obligados al pago, las personas físicas o jurídicas permisionarias de las instalaciones de antenas y sus estructuras de soporte como así también quienes usufructúen con la misma.
+
+El pago de la tasa por inspección se hará efectivo en el tiempo y forma, que a continuación se establece:
+
+I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por año con vencimiento en Marzo. 400 UMA
+
+II. Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por año. 200 UMA
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 139 Ter.
+
+Antenas de factibilidad
+
+TASA POR FACTIBILIDAD DE LOCALIZACIÓN Y PERMISO DE INSTALACIÓN
+
+Por el estudio y análisis de planos, documentación técnica, informes, inspección, así como también por los servicios administrativos, técnicos o especiales que deban prestarse para el otorgamiento de la factibilidad de localización y permiso de instalación de antenas y estructuras de soporte de las mismas. Idéntico tratamiento se establece para el emplazamiento de los denominados “WICAPS” consistente en radiobases compactas de telefonía de reducido tamaño.
+
+Están obligados al pago de la tasa a que se refiere el presente artículo, las personas físicas o jurídicas solicitantes de la factibilidad de localización y habilitación, los propietarios y/o administradores de las antenas y sus estructuras de soporte y/o los propietarios del predio donde se hallen instaladas las mismas, en forma solidaria como así también quienes usufructúen con la misma.
+
+El pago de la tasa por la factibilidad de localización y permiso de instalación, deberá efectuarse en forma previa al otorgamiento del permiso
+
+Se deberá abonar el tributo, por cada antena y/o estructura de soporte, por la que se requiera el otorgamiento de la factibilidad de localización y permiso de instalación, conforme lo establecido a continuación.
+
+Factibilidad de localización y permiso de instalación:
+
+I. Por cada emplazamiento de estructura de antenas de telefonía y sus equipos complementarios, por única vez. 325 UMA
+
+II. Por cada emplazamiento de estructuras de tipo no convencional que no exceda los 15 metros, por única vez. 173 UMA”
+
 ###### Artículo 140.
 
 Exenciones
@@ -2267,155 +2487,41 @@ Responsables solidarios
 
 Son responsables solidarios del pago de los derechos previstos en esta sección, los propietarios, fideicomitentes, mientras el fiduciario no transmitiera la propiedad del inmueble; los fideicomisarios cuando estuvieren en posesión o uso del inmueble, los adquirentes de un inmueble por cualquier título, aun cuando no se hubiere otorgado a su favor la escritura definitiva de compraventa y los responsables de la obra.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 143.
 
 Cuotas y tarifas
 
 Por los servicios que preste el ayuntamiento en materia de desarrollo urbano, por conducto de las unidades administrativas competentes, se pagarán derechos conforme a las siguientes cuotas y tarifas:
 
-I. Por la expedición de licencias de uso de suelo para:
+I. Por la expedición de los análisis de factibilidad de uso de suelo para:
 
-a) Desarrollos inmobiliarios que por sus características físicas o su régimen de la propiedad se constituyan en fraccionamientos o división de lotes, con una superficie:
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA 89.]</small>
 
-1. De hasta 10,000 m²: 32 UMA
+II. Por la expedición de Licencias de uso de suelo para:
 
-2. De 10,001 hasta 50,000 m²: 36 UMA
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 89 A LA 91.]</small>
 
-3. De 50,001 hasta 200,000 m²: 62 UMA
+III. Por la expedición de la constancia de alineamiento de bienes inmuebles, por cada metro lineal:
 
-4. Mayor de 200,000 m²: 91 UMA
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINA 91.]</small>
 
-b) Industrias, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura y demás desarrollos que no se comprendan en los incisos a) y c), con una superficie:
+III (SIC). Por la expedición de Licencias de construcción:
 
-1. De hasta 50 m²: 1.82 UMA
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 91 A LA 93.]</small>
 
-2. De 51 hasta 200 m²: 9.00 UMA
+V (SIC). Por la expedición de constancia de término de obra:
 
-3. De 201 hasta 500 m²: 23.00 UMA
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 93 A LA 95.]</small>
 
-4. De 501 hasta 5,000 m²: 45.00 UMA
+VI. Por visitas de inspección:
 
-5. Mayor de 5,000 m²: 92.00 UMA
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 95 A LA 96.]</small>
 
-c) Giros comerciales específicos:
+VII. Por expedición de licencia de urbanización, por cada metro cuadrado de vía pública: 0.0200 UMA
 
-1. Gasolinera o estación de servicio: 620 UMA
-
-2. Casino: 1884 UMA
-
-3. Funeraria: 76 UMA
-
-4. Expendio de cervezas, tienda de autoservicio licorería o bar: 347 UMA
-
-5. Crematorio: 189 UMA
-
-6. Restaurante, bar, cabaret, centro nocturno o disco: 372 UMA
-
-7. Sala de fiestas cerrada: 248 UMA
-
-8. Hotel mayor a treinta habitaciones: 174 UMA
-
-9. Torre de telecomunicación de una estructura monopolar para colocación de antena celular de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente: 273 UMA
-
-II. Por la expedición de los análisis de factibilidad de uso de suelo para:
-
-a) Establecimientos con venta de bebidas alcohólicas en envase cerrado: 6.60 UMA
-
-b) Establecimientos con venta de bebidas alcohólicas para su consumo en el mismo lugar: 10.00 UMA
-
-c) Para industrias, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura: 3.30 UMA
-
-d) Para casa-habitación unifamiliar ubicada en zonas de reserva de crecimiento: 1.65 UMA
-
-e) Para la instalación de infraestructura en bienes inmuebles propiedad del municipio o en vía pública, excepto las que se señalan en los incisos g) y h): 7.25 UMA
-
-f) Para la instalación de infraestructura aérea, consistente en cableado o líneas de transmisión a excepción de las que fueren propiedad de la Comisión Federal de Electricidad: 7.25 UMA
-
-g) Para instalación de torre de comunicación: 16.50 UMA
-
-h) Para la instalación de gasolinera o estación de servicio: 23.00 UMA
-
-i) Para la instalación de circos: 3.30 UMA
-
-j) Para el establecimiento de bancos de explotación de materiales: 19.80 UMA
-
-k) Para establecimiento con giro diferente a los mencionados en los incisos a), b), c), i), j) y k) de esta fracción: 0.66 UMA
-
-III. Por la expedición de la constancia de alineamiento de bienes inmuebles, por cada metro lineal: 0.12 UMA
-
-IV. En trabajos de construcción:
-
-a) Por la expedición de licencia para construcción, por cada metro cuadrado, de trabajos con una superficie:
-
-1. De hasta 40 m² 0.099 UMA
-
-2. De 41 hasta 120 m²: 0.1122 UMA
-
-3. De 120 hasta 240 m²: 0.1188 UMA
-
-4. Mayor de 240 m²: 0.1320 UMA
-
-b) Por la expedición de licencia para construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para la colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad: 620 UMA
-
-c) Por la expedición de la licencia para construcción de bardas, por cada metro lineal: 0.0620 UMA
-
-d) Por la expedición de la licencia para demolición o desmantelamiento de bardas, por cada metro lineal: 0.0396 UMA
-
-e) Por la expedición de la licencia para demoliciones o desmantelamientos distintos del inciso d), por cada metro cuadrado: 0.0792 UMA
-
-f) Por la expedición de la licencia para hacer cortes o excavaciones en la vía pública, por cada metro lineal: 1.0000 UMA
-
-g) Por la expedición de la licencia para hacer excavaciones distintas a la señalada en el inciso f), por cada metro cúbico: 0.0792 UMA
-
-h) Por la expedición de la licencia para posterío y tendido de líneas, por metro lineal: 0.099 UMA
-
-V. Por la expedición de constancias de terminación de obra:
-
-a) De construcción, por cada metro cuadrado, de trabajos con una superficie:
-
-1. De hasta 40 m² 0.0240 UMA
-
-2. De 41 hasta 120 m²: 0.0320 UMA
-
-3. De 120 hasta 240 m²: 0.0400 UMA
-
-4. Mayor de 240 m²: 0.0480 UMA
-
-b) De construcción, que permita la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente, por cada unidad: 124 UMA
-
-c) De construcción de bardas, por cada metro lineal: 0.0124 UMA
-
-d) De demolición o desmantelamiento de bardas, por cada metro lineal: 0.0079 UMA
-
-e) De demoliciones o desmantelamientos distintos del inciso d), por cada metro cuadrado: 0.0158 UMA
-
-f) De cortes o excavaciones en la vía pública, por cada metro lineal: 0.0200 UMA
-
-g) De excavaciones distintas a la señalada en el inciso f), por cada metro cuadrado: 0.0158 UMA
-
-h) Por el posterío y tendido de líneas, por metro lineal: 0.0198 UMA
-
-VI. Por expedición de licencia de urbanización, por cada metro cuadrado de vía pública: 0.0200 UMA
-
-VII. Por validación de planos, por cada plano: 0.2500 UMA
-
-VIII. Por visitas de inspección:
-
-a) De fosas sépticas cuando se requiera una segunda o posterior visita de inspección: 6.60 UMA
-
-b) De construcciones o edificaciones distintas a la señalada en el inciso a) de esta fracción en los casos en que se requiera una tercera o posterior visita de inspección: 6.60 UMA
-
-c) Para la recepción o terminación de obras de infraestructura urbana, en los casos en los que se requiera una tercera o posterior visita de inspección:
-
-1. Por los primeros 10,000 m² de vialidad: 10 UMA
-
-2. Por cada m² excedente: 0.0015 UMA
-
-d) Para la verificación de obras de infraestructura urbana a solicitud del particular:
-
-1. Por los primeros 10,000 m² de vialidad: 10 UMA
-
-2. Por cada m² excedente 0.0015 UMA
+VIII. Por validación de planos, por cada plano: 0.2500 UMA
 
 IX. Por revisiones previas de los proyectos:
 
@@ -2446,6 +2552,14 @@ b) A partir de la tercera revisión, con una superficie:
 3. De 50,001 hasta 200,000 m² 10 UMA
 
 4. Mayor de 200,000 m² 13 UMA
+
+Obra Pública
+
+I.- Por participar en licitación pública estatal de obra pública $3,750.00
+
+II.- Por participar en licitaciones de invitación a cuando menos 3 personas de obra públicas (sic) $1,950.00
+
+III.- Inscripción al padrón de contratistas de obra pública $750.00
 
 ###### Artículo 144.
 
@@ -2481,7 +2595,9 @@ Se considera que el contribuyente es de ostensible pobreza, cuando el ingreso fa
 
 La dependencia competente del ayuntamiento realizará la investigación socioeconómica de cada solicitante y remitirá un dictamen aprobando o negando la reducción.
 
-#### Sección décima tercera. Catastro
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### Sección décima tercera. De los Derechos por los Servicios que prestan el Catastro Municipal
 
 > <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -2493,7 +2609,7 @@ Son objeto de estos derechos, los servicios que prestan las autoridades municipa
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios de catastro.
 
-> <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 148.
 
@@ -2505,21 +2621,21 @@ CÉDULAS
 
 EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
 
-DE CONSTRUCCIÓN ZONA CENTRO $207.00
+DE CONSTRUCCIÓN ZONA CENTRO $210.00
 
 EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
 
-DE CONSTRUCCIÓN ZONA INTERMEDIA $201.00
+DE CONSTRUCCIÓN ZONA INTERMEDIA $210.00
 
-EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
+EXPEDICIÓN DE CEDULAS POR MANIFESTACIÓN
 
-DE CONSTRUCCIÓN ZONA PERIFERIA $195.00
+DE CONSTRUCCION ZONA PERIFERIA $210.00
 
 EXPEDICIÓN DE CÉDULAS POR MANIFESTACIÓN
 
 DE CONSTRUCCIÓN ZONA DE COMISARÍAS Y
 
-PREDIOS RÚSTICOS $188.00
+PREDIOS RÚSTICOS $210.00
 
 EXPEDICIÓN DE CÉDULAS POR ACTUALIZACIÓN:
 
@@ -2537,11 +2653,11 @@ EXPEDICIÓN DE CÉDULAS POR ACTUALIZACIÓN:
 
 10,001.00- EN ADELANTE $743.00
 
-EXPEDICIÓN DE CÉDULAS POR REVALUACIÓN $210.00
+EXPEDICIÓN DE CÉDULAS POR REVALUACIÓN $56.00
 
 EXPEDICIÓN DE CÉDULAS POR TRASLADO
 
-DE DOMINIO $210.00
+DE DOMINIO $56.00
 
 OFICIO DE SOLICITUD DEL FOLIO
 
@@ -2563,9 +2679,9 @@ CONSTANCIA DE NÚMERO OFICIAL $207.00
 
 COPIAS CERTIFICADAS
 
-COPIA CERTIFICADA DE CÉDULAS $84.00
+COPIA CERTIFICADA DE CÉDULAS $100.00
 
-COPIA CERTIFICADA DE PLANO $150.00
+COPIA CERTIFICADA DE PLANO $100.00
 
 COPIA CERTIFICADA DE HOJA DE PARCELA $84.00
 
@@ -2609,15 +2725,43 @@ COLINDANCIAS DE PREDIOS ZONA HABITACIONAL $200.00
 
 VERIFICACIONES DE MEDIDAS FÍSICAS Y
 
-COLINDANCIAS DE PREDIOS ZONA COMERCIAL $220.00
+COLINDANCIAS DE PREDIOS ZONA COMERCIAL $250.00
 
 VERIFICACIONES DE MEDIDAS FÍSICAS Y
 
-COLINDANCIAS DE PREDIOS ZONA INDUSTRIAL $284.00
+COLINDANCIAS DE PREDIOS ZONA INDUSTRIAL $300.00
 
-DILIGENCIA DE M2 A 150 M2 (Rural-Rústicas) $320.00
+VERIFICACIONES RUSTICAS DE 1-HECTAREA DENTRO
 
-CREACIÓN DE PLANOS $200.00
+DE LA CIUDAD $ 250.00
+
+VERIFICACIONES RUSTICAS DE 2-HECTAREAS EN
+
+ADELANTE DENTRO DE LA CIUDAD $ 350.00
+
+VERIFICACIONES RUSTICAS DE 1-HECTAREA FUERA
+
+DE LA CIUDAD $ 300.00
+
+VERIFICACIONES RUSTICAS DE 2-HECTAREAS EN
+
+ADELANTE FUERA DE LA CIUDAD (COMISARIAS) $ 450.00
+
+ELABORACION DE PLANOS
+
+PLANOS SIN CONSTRUCCION $ 250.00
+
+PLANOS POR MANIFESTACION DE CONSTRUCCION
+
+DE 1 CUARTO $ 300.00
+
+PLANOS POR MANIFESTACION DE CONSTRUCCION
+
+DE 2 A 3 CUARTOS $ 400.00
+
+PLANOS POR MANIFESTACION DE CONSTRUCCION
+
+DE 3 CUARTOS EN ADELANTE $ 500.00
 
 Por diligencias de verificación de medidas físicas y de colindancias de predios dentro del Municipio:
 
@@ -2647,7 +2791,7 @@ A1.- PADRE ETERNO, HERMITA, CENTRO, YOXCHENKAX:
 
 A2.- YOXCHENKAX, CENTRO, SAN FRANCISCO, CHOBENCHE:
 
-(C.18X53 HASTA LA C.18X57), (C.18X57 HASTA LA C. 57X22), (C.22X59), (C.22X59 HASTA LA C.32 X59), (C.32X59 HASTA LA C. 32X59), (C.49X32 HASTA LA 49X24), (C.49X24 HASTA LA C.53X24).(sic)(C.51X52 HASTA LA C. 52X57), (C.57X52 HASTA LA 52X57), (C.58X57 HASTA LA 58X51), (C.58X51 HASTA LA 51X52). (C.58X51 HASTA LA 58X57), (C.58X57 HASTA LA C. 57X72), (C.57X72 HASTA LA C.72X51), (C.72X51 HASTA LA C.51X58). (C.72X49 HASTA LA 72X55), (C.55X72 HASTA LA 78X55), (C.78X55 HASTA LA C. 78X53), (C.78X53 HASTA LA C.84X53), (C.84X53 HASTA LA C.84X49), (C.84X49 HASTA LA C.49X72).
+(C.18X53 HASTA LA C.18X57), (C.18X57 HASTA LA C. 57X22), (C.22X59), (C.22X59 HASTA LA C.32 X59), (C.32X59 HASTA LA C. 32X59), (C.49X32 HASTA LA 49X24), (C.49X24 HASTA LA C.53X24) (C.51X52 HASTA LA C. 52X57), (C.57X52 HASTA LA 52X57), (C.58X57 HASTA LA 58X51), (C.58X51 HASTA LA 51X52). (C.58X51 HASTA LA 58X57), (C.58X57 HASTA LA C. 57X72), (C.57X72 HASTA LA C.72X51), (C.72X51 HASTA LA C.51X58). (C.72X49 HASTA LA 72X55), (C.55X72 HASTA LA 78X55), (C.78X55 HASTA LA C. 78X53), (C.78X53 HASTA LA C.84X53), (C.84X53 HASTA LA C.84X49), (C.84X49 HASTA LA C.49X72).
 
 A3.- N/A
 
@@ -2657,7 +2801,7 @@ B1.- LÁZARO CÁRDENAS, YOXCHENKAX, SOLIDARIDAS, SAN IGNACIO, SAN JUAN, COL. PAR
 
 B2.- CENTRO, SAN FRANCISCO, HERMITA:
 
-(C.58X59 HASTA LA C.59X52), (C.59X52 HASTA LA C.52X57), (C.52X57 HASTA LA C.57X58), (C.57X58 HASTA LA C.58X59), (C.41x56 HASTA LA 56X51, (C.56X51 HASTA LA 51X72), (C.51X72 HASTA LA 72X47), (C.47X72 HASTA LA 47X64), (C.47X64 HASTA LA 64X37), (C.37X64 HASTA LA 37X62), (sic)(C.37X62 HASTA LA 62X39), (C.62X39 HASTA LA 39X60), (C.39X60 HASTA LA 41X60), (C.41X60 HASTA LA 41 X 56), (C.59X52 HASTA LA C.52X63), (C.52X63 HASTA LA C.54X63), (C.54X61 HASTA LA C.61X58), (C.58X61 HASTA LA C.58X59)
+(C.58X59 HASTA LA C.59X52), (C.59X52 HASTA LA C.52X57), (C.52X57 HASTA LA C.57X58), (C.57X58 HASTA LA C.58X59), (C.41x56 HASTA LA 56X51, (C.56X51 HASTA LA 51X72), (C.51X72 HASTA LA 72X47), (C.47X72 HASTA LA 47X64), (C.47X64 HASTA LA 64X37), (C.37X64 HASTA LA 37X62), (C.37X62 HASTA LA 62X39), (C.62X39 HASTA LA 39X60), (C.39X60 HASTA LA 41X60), (C.41X60 HASTA LA 41 X 56), (C.59X52 HASTA LA C.52X63), (C.52X63 HASTA LA C.54X63), (C.54X61 HASTA LA C.61X58), (C.58X61 HASTA LA C.58X59)
 
 B3.- YOXCHENKAX
 
@@ -2861,25 +3005,15 @@ Prestación del servicio
 
 Los servicios previstos en esta sección se prestarán a las personas físicas o morales que lo soliciten voluntariamente o por ser necesario para cumplir con las disposiciones legales o normativas que lo requieran.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 158.
 
 Cuotas
 
 Por los servicios públicos en materia de protección civil, se pagarán derechos conforme a las siguientes cuotas:
 
-I. Autorización para realizar algún evento que fueran a tener una afluencia mayor a cien personas y que se realicen en espacios públicos o privados, en términos del artículo 39 de la Ley de Protección Civil del Estado de Yucatán: 5.00 UMA
-
-II. Registro del programa interno de protección civil, en términos del artículo 62 de la Ley de Protección Civil del Estado de Yucatán: 2.00 UMA
-
-III. Registro del programa interno de protección civil, cuando se trate de instituciones educativas particulares, hoteles, moteles, hostales, supermercados, minisúper, restaurantes, bares, salas de fiesta, discotecas, laboratorios y gasolineras, en términos del artículo 62 de la Ley de Protección Civil del Estado de Yucatán: 4.00 UMA
-
-IV. Asesoría en la elaboración del programa interno de protección civil, en términos del artículo 63 de la Ley de Protección Civil del Estado de Yucatán: 5.00 UMA
-
-V. Emisión del análisis de riesgo, en términos del artículo 38 de la Ley de Protección Civil del Estado de Yucatán: 4.00 UMA
-
-VI. Emisión del análisis de riesgo, cuando se trate de instituciones educativas particulares, hoteles, moteles, hostales, supermercados, minisúper, restaurantes, bares, salas de fiesta, discotecas, laboratorios y gasolineras, en términos del artículo 38 de la Ley de Protección Civil del Estado de Yucatán: 8.00 UMA
-
-Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquel en que por sus características le sea más semejante.
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 102 A LA 105.]</small>
 
 > <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -2943,13 +3077,43 @@ Para el cómputo del número de kilómetros recorridos señalados en el artícul
 
 El pago por los servicios y permisos de panteones se realizará al momento de solicitarlos, en las oficinas de la tesorería municipal o donde esta última lo designe.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### Sección décima novena Bis. Dirección de Ecología
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 159 Quater.
+
+Cuotas
+
+Por los servicios públicos en materia de Ecología, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Constancia de buen vecino 4 UMAS
+
+II. Dictamen de Ecología para licencias de funcionamiento y permisos por eventos de acuerdo al Reglamento de protección al Ambiente y Equilibrio Ecológico del Municipio de Tekax 8 a 16 UMAS.
+
+III. Constancia de Ecología para predios que pudieran estar en Zonas de Conservación y Áreas Naturales Protegidas 4 UMAS.
+
+IV. Anuencia Municipal condicionada de Ecología para de (sic) Desmonte en Predios menores a 5 Hectáreas 16 a 32 UMAS
+
+V. Permiso para Poda, Derribo y Transplante de árboles urbanos de acuerdo al reglamento de la ley de Conservación y Desarrollo del Arbolado Urbano del Estado de Yucatán 4 UMAS
+
+VI. Sanciones Aplicadas de acuerdo al Reglamento de Protección al Ambiente y Equilibrio Ecológico del Municipio de Tekax en sus Diferentes Artículos 16 a 32 UMAS
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 159 Quinquies.
+
+Época de Pago.
+
+El pago de los derechos se hará al momento de solicitar el servicio del Departamento de Ecología en las oficinas de la tesorería municipal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
 #### Sección vigésima. Certificados y constancias
 
 > <small>(REFORMADO, D.O. 29 DE ABRIL DE 2022)</small>
-
-#### Sección vigésima primera. Acceso a la información pública
 
 ###### Artículo 160.
 
@@ -2965,13 +3129,19 @@ II. Por cada copia certificada que
 
 expida el Ayuntamiento $ 3.00 por hoja
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 III. Por cada constancia que expida
 
-el Ayuntamiento $ 30.00 por hoja
+el Ayuntamiento $ 50.00 por hoja
 
 IV. Por cada copia fotostática simple $ 1.00 por hoja
 
-V. Por participar en licitaciones $ 2880.00
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Por participar en licitaciones Precio sujeto a
+
+cambios por obras
 
 VI. Por reposición de licencias de
 
@@ -2993,7 +3163,7 @@ Los certificados, constancias, duplicados y certificaciones que se prevean de fo
 
 El pago de los derechos a que se refiere esta sección, se hará por anticipado en las oficinas de la tesorería municipal o donde esta última designe.
 
-#### Sección vigésima segunda. Gaceta oficial
+#### Sección vigésima primera. Acceso a la información pública
 
 ###### Artículo 161.
 
@@ -3039,6 +3209,8 @@ Transparencia. $10.00
 
 El pago de los derechos causados por los materiales empleados en la Unidad de Transparencia se realizará en las oficinas de Tesorería o bien donde esta última lo designe.
 
+#### Sección vigésima segunda. Gaceta oficial
+
 ###### Artículo 163.
 
 Cuotas y tarifas
@@ -3055,13 +3227,13 @@ IV. La publicación de cualquier documento previsto en la fracción II que no ex
 
 V. La publicación de cualquier documento previsto en la fracción II, por cada plana: 7.00 UMA
 
-> <small>(ADICIONADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 163 Bis.
 
 Época de pago
 
-El pago de los derechos causados por los servicios relacionados con la emisión de los ejemplares y publicaciones de la Gaceta Municipal del Ayuntamiento, se realizará al momento de solicitar el servicio en las oficinas de la Tesorería municipal o donde se designe.
+El pago de los derechos causados por los materiales empleados en la Unidad de Transparencia se realizará en las oficinas de Tesorería o bien donde esta última lo designe.
 
 ### Capítulo IV. Productos
 
@@ -3448,3 +3620,13 @@ Artículo primero. Este decreto entrará en vigor el día de su publicación en 
 Cláusula derogatoria
 
 Artículo segundo: Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
