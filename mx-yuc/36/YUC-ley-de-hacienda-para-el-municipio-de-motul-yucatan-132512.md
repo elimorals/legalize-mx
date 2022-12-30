@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-132512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-29"
-last_updated: "2021-12-31"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento II al Número 33,762 del Diario Oficial del Estado de Yucatán, el sábado 29 de diciembre de 2018.
 
@@ -469,7 +469,9 @@ I.- Los funcionarios o empleados públicos, los notarios o fedatarios públicos 
 
 II.- Los empleados de la Tesorería Municipal, que formulen certificados de estar al corriente en el pago del impuesto predial, que alteren el importe de los adeudos por este concepto, o los dejen de cobrar.
 
-III.- Los enajenantes de bienes inmuebles a que se refiere el artículo 44 de esta ley, mientras no transitan el dominio de los mismos.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III.- Los enajenantes de bienes inmuebles a que se refiere el artículo 44 de esta ley, mientras no transmitan el dominio de los mismos.
 
 IV.- Los representantes legales de las sociedades, asociaciones, comunidades y particulares respecto de los predios de sus representados.
 
@@ -535,7 +537,7 @@ I.- Por predios Urbanos y rustico, con o sin construcción.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 14; D.O. 30 DE DICIEMBRE DE 2021, PÁGINA 47.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -547,7 +549,7 @@ EN EL CASO DE LOS PREDIOS CUYO VALOR CATASTRAL ES IGUAL O INFERIOR A 62 UMAS SE 
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 24 A LA 25.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O. 27 DE DICIEMBRE DE 2019, PÁGINAS DE LA 14 A LA 16; D.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 47 A LA 48.]</small>
 
 > <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1115,7 +1117,9 @@ h).- Tipo B, Clase 4 0.25
 
 VI.- Licencia para construir bardas o colocar pisos, 0.10 UMAS por metro cuadrado.
 
-VII.- Licencias para efectuar excavaciones, 0.27 UMAS por metro cuadrado.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII.- Licencias para efectuar excavaciones, fosas sépticas, sumideros y similares, 0.02 UMAS por metro cuadrado.
 
 VIII.- Licencia para realizar demolición; 0.12 UMAS por metro cuadrado.
 
@@ -1131,7 +1135,9 @@ XIII.- Revisión de planos para tramites de uso de suelo; 0.62 UMAS por plano
 
 XIV.- Certificado de Seguridad para el uso de Explosivos; 0.62 UMAS por el servicio.
 
-XV.- Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo; 6 UMAS por metro lineal en vialidades.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XV.- Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo; 0.02 UMAS por metro lineal en vialidades.
 
 XVI.- Autorización de instalación de antenas en inmuebles o mobiliario urbano; 200 UMAS por antena.
 
@@ -1165,15 +1171,15 @@ B. Licencia de urbanización por servicios básicos
 
 Concepto UMA´s UNIDAD
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 a) Zona 1. Consolidación urbana 0.02 Metro cuadrado
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 b) Zona 2, Crecimiento urbano 0.04 Metro cuadrado
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 c). Autorización de instalación subterránea o
 
@@ -1181,7 +1187,7 @@ aérea de ductos o conductores para la
 
 explotación de servicios digitales u otros de
 
-cualquier tipo 0.20 Metro cuadrado
+cualquier tipo 0.02 Metro cuadrado
 
 C. Autorización de la Constitución de Desarrollo Urbano
 
@@ -1267,6 +1273,14 @@ Factibilidad de localización y permiso de instalación:
 
 - Por cada instalación de estructuras de tipo no convencional que no exceda los 15 metros, por única vez: 173 UMA
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XX.- Licencias para construcción de piscinas o albercas 0.27 UMA por metro cuadrado.
+
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXI.- Licencia para explotación de bancos de materiales pétreos 0.02 UMA por metro cuadrado.
+
 DE LAS EXENCIONES
 
 ###### Artículo 84.
@@ -1307,11 +1321,17 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ### CAPÍTULO III. Otros Servicios Prestados por el Ayuntamiento
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 87.
 
-Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente, estimado en salarios mínimos:
+Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente, estimado en unidades de medida y actualización:
 
-Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a 0.20 de un UMAS vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa.
+I. Por cada copia certificada de documento que expida la secretaría municipal a un particular, se pagará un derecho equivalente a 0.35 veces el UMA vigente en el estado de Yucatán.
+
+II. Por cada constancia que expida la secretaría municipal a un particular, se pagará un derecho equivalente a 0.26 veces el UMA vigente en el estado de Yucatán.
+
+III. Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a 0.20 veces la UMA vigentes en el estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa.
 
 ### CAPÍTULO IV. Derechos por Servicio de Rastro
 
@@ -2776,3 +2796,13 @@ En lo no previsto por estas Leyes, se aplicará supletoriamente lo establecido p
 ###### ARTÍCULO CUARTO.
 
 El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que, a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente a los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TELCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación (sic) en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
