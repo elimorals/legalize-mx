@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-akil-yucatan-84232"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2011-12-26"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE AKIL, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PÚBLICA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 26 de diciembre de 2011.
 
@@ -373,7 +373,9 @@ Cuando la base del impuesto predial sea el valor catastral del inmueble, se dete
 
 El impuesto predial sobre la base de valor catastral deberá cubrirse por bimestres anticipados dentro de los primeros quince días de cada uno de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año.
 
-Cuando el contribuyente pague el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% sobre el importe de dicho impuesto y el 20% cuando el contribuyente cuente con más de sesenta años o sea jubilado.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando se pague la totalidad del impuesto predial durante los meses de enero, febrero y marzo el contribuyente gozará de un descuento del 30% sobre la cantidad determinada, y del 40% cuando el contribuyente cuente con más de setenta años o sea jubilado.
 
 ###### Artículo 35.
 
@@ -1420,3 +1422,15 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 588/2022 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE AKIL, CHICHIMILÁ, DZEMUL, DZIDZANTÚN, KANASÍN, KANTUNIL, KINCHIL, KOPOMÁ, MOCOCHÁ, MOTUL, SACALUM, TEKAX, TERCHAC PUEBLO, TIXPÉUAL, TZUCACAB, UAYMA Y YAXCABÁ”.]
+
+Artículo Primero.- Este decreto entrará en vigor el día siguiente de su publicación, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. El H. Ayuntamiento de Dzidzantún, para percibir aprovechamientos vía infracciones por faltas administrativas, deberá contar con los reglamentos municipales respectivos, que establecerán los montos de las sanciones correspondientes.
+
+Artículo Tercero.- La Ley de Hacienda del Municipio de Tixpéual, deroga el artículo primero transitorio por el que se modificó dicha Ley, mediante Decreto 449/2021 publicado en el Diario Oficial del Gobierno del Estado el 31 de diciembre de 2021.
