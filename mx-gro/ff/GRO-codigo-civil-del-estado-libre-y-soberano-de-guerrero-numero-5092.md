@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2021-08-27"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -473,9 +473,11 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 ### Capítulo IV. De la tutela legítima de los mayores de edad incapacitados
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 85.
 
-El marido es tutor legítimo forzoso de su mujer y ésta lo es de su marido.
+Las personas consortes son tutoras legítimas la una de la otra.
 
 ###### Artículo 86.
 
@@ -1885,27 +1887,29 @@ El matrimonio se celebrará dentro de los ocho días siguientes de haberse cubie
 
 Acto continuo, el oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 351.
 
 Concluido este acto, se extenderá inmediatamente el acta de matrimonio en que consten:
 
-I. Los nombres, apellidos, edad, ocupación, domicilios y lugar de nacimiento de los contrayentes;
+I. Los nombres, apellidos, edad, ocupación, domicilios y lugar de nacimiento de las personas contrayentes;
 
-II. Los nombres, apellidos, ocupación y domicilios de los padres;
+II. Los nombres, apellidos, ocupación y domicilios de las madres y los padres;
 
-III. En su caso, el consentimiento de los padres, abuelos o tutores; o el de las autoridades que deban suplirlos;
+III. En su caso, el consentimiento de las madres, padres, abuelas, abuelos, tutoras o tutores; o el de las autoridades que deban suplirlos;
 
 IV. Que no hubo impedimento o que se dispensó;
 
-V. La declaración de los esposos de ser su voluntad unirse en matrimonio, tomándose y entregándose mutuamente por marido y mujer, y la de haber quedado unidos, que hará el oficial a nombre de la sociedad;
+V. La declaración de las personas contrayentes, de ser su voluntad unirse en matrimonio, tomándose y entregándose mutuamente por cónyuges, y la de haber quedado unidas en matrimonio, que hará el oficial a nombre de la sociedad;
 
-VI. La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes; y
+VI. La manifestación de cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes, y
 
-VII. Los nombres, apellidos, edad, estado civil, ocupación y domicilios de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en que grado y línea.
+VII. Los nombres, apellidos, edad, estado civil, ocupación y domicilios de las personas que testifiquen, su declaración sobre si son o no parientes de las personas contrayentes, y si lo son, en que grado y línea.
 
-El acta será firmada por el oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido si supieren y quisieren hacerlo.
+El acta será firmada por la persona oficial del Registro Civil, las personas contrayentes, las personas que testifiquen y las demás que hayan intervenido si supieran y quisieran hacerlo.
 
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+Al margen del acta se imprimirán las huellas digitales de las personas contrayentes.
 
 ### Capítulo V. De las actas de defunción
 
@@ -2073,13 +2077,17 @@ La Ley no reconocerá más parentesco que los de consanguinidad, afinidad y civi
 
 El parentesco por consanguinidad es el que existe entre personas que descienden de un mismo progenitor o tronco común.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 378.
 
-Afinidad es el parentesco que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
+Afinidad es el parentesco que se contrae por dos personas a través del matrimonio, entre las personas casadas y los parientes de sus respectivas parejas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 379.
 
-También existe el parentesco por afinidad en la relación que resulta por virtud del concubinato, entre el concubinario y los parientes de la concubina y entre los parientes de ésta y aquél. Esta asimilación sólo comprende a los parientes consanguíneos en línea recta, ascendente o descendente, sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio en términos de la fracción III del artículo 417.
+También existe el parentesco por afinidad en la relación que resulta por virtud del concubinato, entre las personas en concubinato y quienes tengan un parentesco con ellas. Esta asimilación sólo comprende a los parientes consanguíneos en línea recta, ascendente o descendente, sin limitación de grado; y su único efecto es constituir un impedimento para el matrimonio en términos de la fracción III del artículo 417.
 
 ###### Artículo 380.
 
@@ -2287,11 +2295,11 @@ El deudor alimentario deberá de informar de inmediato al juez y éste a su vez 
 
 El matrimonio deberá celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 412.
 
-Podrán contraer matrimonio el hombre y la mujer, que hayan cumplido dieciocho años edad.
+Podrán contraer matrimonio dos personas que hayan cumplido dieciocho años de edad.
 
 ###### Artículo 413.
 
@@ -2421,9 +2429,11 @@ Ambos cónyuges tendrán la dirección y cuidado del hogar, autoridad y consider
 
 Los cónyuges podrán desempeñar cualquier actividad o empleo, ejercer una profesión, industria, comercio u oficio que elijan.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 430.
 
-El varón y la mujer casados, mayores de edad, tendrán capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones y oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, salvo en lo relativo a los actos de administración y de dominio de bienes comunes.
+Las personas cónyuges, tendrán capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones y oponer las excepciones que a ellos correspondan, sin que para tal objeto se necesite del consentimiento, ni de autorización del otro, salvo en lo relativo a los actos de administración y de dominio de bienes comunes.
 
 ###### Artículo 431.
 
@@ -2443,59 +2453,77 @@ La autorización, en los casos a que se refieren éste y los dos artículos ante
 
 El contrato de compraventa sólo podrá celebrarse entre los cónyuges cuando el matrimonio esté sujeto a régimen de separación de bienes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 435.
 
-El varón y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Las personas cónyuges durante el matrimonio, podrán ejercitar los derechos y acciones que tengan la una en contra de la otra, pero la prescripción entre ellas no corre mientras dure el matrimonio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 436.
 
-Ni el varón podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere.
+Las personas casadas o en concubinato no podrán cobrarse la una a la otra, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos o asistencia que le diera.
 
 ### Capítulo IV. De los matrimonios nulos o ilícitos
 
 #### Sección Primera. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 437.
 
-El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aún existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
+El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Las personas cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que, al contraer matrimonio, expresen que lo hacen bajo el régimen de sociedad conyugal, aun cuando no celebren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que adquieran durante el matrimonio; salvo los casos de excepción que, aun existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
 
-Cuando los cónyuges omitieren expresar el régimen patrimonial al que sujetarán sus bienes, se entenderá, por disposición de la ley, que lo hacen bajo el de separación de bienes.
+Cuando en el acto de matrimonio omitieran expresar el régimen patrimonial al que sujetarán sus bienes, se entenderá, por disposición de la ley, que lo hacen bajo el de separación de bienes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 438.
 
-Se llaman capitulaciones matrimoniales los pactos que los esposos celebren para constituir una sociedad conyugal, administrarla, o para terminarla y sustituirla por el régimen de separación de bienes. Son aplicables a las capitulaciones matrimoniales las reglas siguientes:
+Se llaman capitulaciones matrimoniales los pactos que las personas consortes celebren para constituir una sociedad conyugal, administrarla, o para terminarla y sustituirla por el régimen de separación de bienes. Son aplicables a las capitulaciones matrimoniales las reglas siguientes:
 
-I. Las capitulaciones matrimoniales podrán otorgarse antes de la celebración del matrimonio o durante él, y podrán comprender no solamente los bienes de que sean dueños los esposos en el momento de celebrarlas, sino también los que adquieran después;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I. Las capitulaciones matrimoniales podrán otorgarse antes de la celebración del matrimonio o durante él, y podrán comprender no solamente los bienes de que sean dueñas las personas en matrimonio en el momento de celebrarlas, sino también los que adquieran después;
 
 II. El menor que con arreglo a la ley pueda contraer matrimonio, podrá también, antes de celebrarse éste, otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio;
 
-III. Los esposos, sean mayores o menores de edad, necesitarán, después de contraído el matrimonio, autorización judicial para otorgar capitulaciones matrimoniales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Las personas cónyuges necesitarán después de contraído el matrimonio, autorización judicial para otorgar capitulaciones matrimoniales;
 
 IV. Las capitulaciones matrimoniales no podrán alterarse ni revocarse después de la celebración del matrimonio, sino por convenio expreso y mediante autorización judicial, o por sentencia judicial;
 
-V. Las capitulaciones matrimoniales y la modificación que de ellas se hiciere, se otorgarán en escritura pública cuando los esposos pactaren hacerse copartícipes o transferirse la propiedad de bienes que exijan tal requisito para que su traslación sea válida; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Las capitulaciones matrimoniales y la modificación que de ellas se hagan, se otorgarán en escritura pública cuando las personas casadas pactaren hacerse copartícipes o transferirse la propiedad de bienes que exijan tal requisito para que su traslación sea válida, y
 
 VI. Cuando las capitulaciones matrimoniales o su modificación deban otorgarse en escritura pública, se inscribirán en el Registro Público de la Propiedad para que surtan efectos contra tercero.
 
 #### Sección Segunda. De la separación de bienes
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 439.
 
-En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; los frutos y las acciones de dichos bienes serán del dominio exclusivo del dueño de ellos.
+En el régimen de separación de bienes, las personas cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenezcan; los frutos y las acciones de dichos bienes serán del dominio exclusivo del dueño de ellos.
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+Serán también propios de cada una de las personas cónyuges, los salarios, sueldos, emolumentos y ganancias que obtengan por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 440.
 
-Los bienes que los cónyuges adquieran en común por cualquier título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
+Los bienes que las personas cónyuges adquieran en común por cualquier título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambas personas o por una de ellas con acuerdo de la otra; pero en este caso quien administre será considerada como mandataria.
 
 #### Sección Tercera. De la sociedad conyugal
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 441.
 
-El régimen de sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes.
+El régimen de sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de las personas casadas cónyuges.
 
 ###### Artículo 442.
 
@@ -2503,51 +2531,81 @@ La sociedad conyugal podrá regirse por las capitulaciones matrimoniales que, en
 
 I. Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deberán contener:
 
-a) El inventario de los bienes que cada consorte lleve a la sociedad, con la expresión de su valor y gravámenes;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-b) Nota pormenorizada de las deudas que tenga cada esposo al otorgarse las capitulaciones con expresión de si con los bienes de la sociedad se ha de responder de ellas, o únicamente de las que se contraigan durante la sociedad, sea por ambos consortes o por cualquiera de ellos;
+a) El inventario de los bienes que cada cónyuge lleve a la sociedad, con la expresión de su valor y gravámenes;
 
-c) La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso, cuáles serán los bienes que hayan de entrar en la sociedad;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-d) La declaración sobre si los bienes que adquieran ambos cónyuges o uno de ellos, después de iniciada la sociedad conyugal, pertenecerán a ambos en coopropiedad (sic), si serán propios de quien los adquiera o si entrarán a formar parte del patrimonio de la sociedad, así como la manera de probar su adquisición.
+b) Nota pormenorizada de las deudas que tenga cada cónyuge al otorgarse las capitulaciones con expresión de si con los bienes de la sociedad se ha de responder de ellas, o únicamente de las que se contraigan durante la sociedad, sea por ambas personas o por cualquiera de ellas;
 
-Si se omite esta declaración y, en su caso, lo relativo a la prueba de la adquisición, todos los bienes que existan en poder de cualquiera de los cónyuges, adquiridos durante su matrimonio, al concluir la sociedad y al formarse el inventario a que se refiere el artículo 447 fracción I de este Código, se presumen gananciales mientras no se pruebe lo contrario;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-e) La declaración expresa de si la sociedad conyugal ha de ser sólo de gananciales, en cuyo caso se deberá determinar con toda claridad la parte que en los bienes o productos corresponderá a cada cónyuge;
+c) La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada cónyuge o sólo parte de ellos, precisando en este último caso, cuáles serán los bienes que hayan de entrar en la sociedad;
 
-f) La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si deberá dar participación de ese producto al otro consorte y en qué proporción;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-g) Las reglas que los esposos creyeren convenientes para la administración de la sociedad, siempre que no fueren contrarias a las leyes;
+d) La declaración sobre si los bienes que adquieran ambos cónyuges o uno de ellos, después de iniciada la sociedad conyugal, pertenecerán a ambas personas casadas en copropiedad, si serán propios de quien los adquiera o si entrarán a formar parte del patrimonio de la sociedad, así como la manera de probar su adquisición. Si se omite esta declaración y, en su caso, lo relativo a la prueba de la adquisición, todos los bienes que existan en poder de cualquiera de las personas casadas, adquiridos durante su matrimonio, al concluir la sociedad y al formarse el inventario a que se refiere el artículo 447 fracción I de este Código, se presumen gananciales mientras no se pruebe lo contrario;
 
-h) Las deudas anteriores al otorgamiento de las capitulaciones matrimoniales, serán pagadas con los bienes del cónyuge deudor;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+e) La declaración expresa de si la sociedad conyugal ha de ser sólo de gananciales, en cuyo caso se deberá determinar con toda claridad la parte que en los bienes o productos corresponderá a cada una de las personas cónyuge;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+f) La declaración de si el producto del trabajo de cada cónyuge corresponde exclusivamente al que lo ejecutó, o si deberá dar participación de ese producto a la otra parte y en qué proporción;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+g) Las reglas que las personas cónyuges crean convenientes para la administración de la sociedad, siempre que no sean contrarias a las leyes;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+h) Las deudas anteriores al otorgamiento de las capitulaciones matrimoniales, serán pagadas con los bienes de la persona cónyuge deudora;
 
 i) Las bases para liquidar la sociedad.
 
-II. Es nula toda capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades, así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o a las utilidades que deban percibir. Disuelta la sociedad conyugal, los consortes recobrarán el dominio de los bienes que hubieren aportado para su constitución, salvo que otra cosa hubieran pactado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. Cuando se establezca que uno de los consortes sólo deba recibir una cantidad fija, el otro consorte o sus herederos deberán pagar la suma convenida, haya o no utilidad en la sociedad;
+II. Es nula toda capitulación en cuya virtud una de las personas cónyuges haya de percibir todas las utilidades, así como la que establezca que alguna de ellas sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o a las utilidades que deban percibir. Disuelta la sociedad conyugal, las personas recobrarán el dominio de los bienes que haya aportado para su constitución, salvo que otra cosa hayan pactado;
 
-IV. No podrán renunciarse anticipadamente a las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, podrán los cónyuges renunciar a las ganancias que les correspondan;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V. Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a las disposiciones que rigen este contrato;
+III. Cuando se establezca que una de las personas cónyuge sólo deba recibir una cantidad fija, la otra o quien le herede deberán pagar la suma convenida, haya o no utilidad en la sociedad;
 
-VI. La administración de la sociedad corresponderá a ambos cónyuges en forma conjunta; pero podrá convenirse que sólo uno de ellos fuere el administrador; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Los actos de dominio podrán realizarse por ambos cónyuges de común acuerdo; sin perjuicio de tercero de buena fe.
+IV. No podrán renunciarse anticipadamente a las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, podrán las personas cónyuges renunciar a las ganancias que les correspondan;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Todo pacto que importe cesión de una parte de los bienes propios de cada persona cónyuge, será considerado como donación y quedará sujeto a las disposiciones que rigen este contrato;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. La administración de la sociedad corresponderá a las personas cónyuges en forma conjunta; pero podrá convenirse que sólo una de ellas sea la administradora, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. Los actos de dominio podrán realizarse por las personas cónyuges de común acuerdo; sin perjuicio de tercero de buena fe.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 443.
 
-Siempre que no estuvieren de acuerdo los consortes sobre la realización de un acto de administración o de dominio respecto de bienes de la sociedad conyugal, el juez de primera instancia, procurará avenirlos y, si no lo logra, decidirá lo que más convenga al interés de la familia.
+Siempre que no estuvieran de acuerdo las personas cónyuges sobre la realización de un acto de administración o de dominio respecto de bienes de la sociedad conyugal, la jueza o el juez de primera instancia, procurará avenirlas y, si no lo lograra, decidirá lo que más convenga al interés de la familia.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 444.
 
-El abandono injustificado por más de dos meses del domicilio conyugal por uno de los consortes, hará cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan y no podrá comenzar de nuevo, sino por convenio expreso.
+El abandono injustificado por más de dos meses del domicilio conyugal por una de las personas cónyuges, hará cesar para ella, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan y no podrá comenzar de nuevo, sino por convenio expreso.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 445.
 
-La declaración de ausencia de alguno de los cónyuges modificará o suspenderá la sociedad conyugal en los casos señalados en este Código.
+La declaración de ausencia de alguna de las personas cónyuges modificará o suspenderá la sociedad conyugal en los casos señalados en este Código.
 
 ###### Artículo 446.
 
@@ -2555,17 +2613,25 @@ La sociedad conyugal terminará y, por tanto, cesarán sus efectos:
 
 a) Por la disolución del matrimonio;
 
-b) Por la voluntad de los consortes;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+b) Por la voluntad de las personas cónyuges;
 
 c) Por sentencia judicial, si el socio administrador por su notoria negligencia o torpe administración amenaza con arruinar a su consocio, o con disminuir considerablemente los bienes de la sociedad; o si hace cesión de bienes que pertenezcan a ésta, si es declarado en quiebra, o en casos análogos a los antes mencionados; y
 
-d) Por la declaración judicial de la presunción de muerte del cónyuge ausente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+d) Por la declaración judicial de la presunción de muerte de la persona cónyuge ausente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 447.
 
-Terminada la sociedad se procederá a formar inventario en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos; para su liquidación se observará lo siguiente:
+Terminada la sociedad conyugal se procederá a formar inventario en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de cada persona consorte, que serán de estas o de sus herederos; para su liquidación se observará lo siguiente:
 
-I. Terminado el inventario se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas el importe de éstas se deducirá del haber de cada cónyuge. Si uno sólo llevó bienes, de éste se deducirá la pérdida total; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I. Terminado el inventario se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada persona casada lo que llevó al matrimonio y el sobrante, si los hubiere, se dividirá entre ellas en la forma convenida. En caso de que hubiere pérdidas el importe de éstas se deducirá del haber de cada persona cónyuge. Si una sola llevó bienes, de ésta se deducirá la pérdida total, y
 
 II. Todo lo relativo a la formación de inventarios y a las solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
 
@@ -2581,11 +2647,9 @@ Si la sociedad conyugal cesare por haberse declarado nulo el matrimonio, la liqu
 
 En lo que no estuviere expresamente estipulado en las capitulaciones matrimoniales, la sociedad conyugal se regirá por las disposiciones de este Código relativas a la sociedad civil.
 
-> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 450 Bis.
-
-Cuando durante la relación de concubinato, el concubinario o concubinaria adquiera en propiedad un bien para el beneficio y uso de la familia, se entenderá como la formación y administración de un patrimonio común, rigiéndose el mismo con las disposiciones establecidas para el régimen de sociedad conyugal.
+Artículo 450 BIS.- Cuando durante la relación de concubinato, alguna de las partes adquiera en propiedad un bien para el beneficio y uso de la familia, se entenderá como la formación y administración de un patrimonio común, rigiéndose el mismo con las disposiciones establecidas para el régimen de sociedad conyugal.
 
 #### Sección Cuarta. De las donaciones antenupciales
 
@@ -2823,7 +2887,7 @@ A quienes contraigan un matrimonio ilícito, así como a las personas que, siend
 
 ### Capítulo VI. Del concubinato
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 487.
 
@@ -2879,7 +2943,7 @@ Las medidas terapéuticas a que hace referencia la fracción II del artículo qu
 
 ###### Artículo 494 Bis.
 
-El concubinato es la unión de hecho entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente como marido y mujer durante más de dos años.
+El concubinato es la unión de hecho entre dos personas, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado, educado juntas hijas e hijos o han vivido públicamente como pareja durante más de dos años.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -15870,3 +15934,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358 Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Las armonizaciones a leyes y Reglamentos correspondientes, que tengan como propósito garantizar la viabilidad de las normas contenidas en estas reformas, se realizarán a más tardar en ciento ochenta días hábiles.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
