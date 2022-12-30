@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-hunucma-yucatan-96926"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE HUNUCMA, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE HACIENDA DEL MUNICIPIO DE HUNUCMÁ, YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE HUNUCMÁ, YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO NÚMERO 135, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL DÍA 1 DE ENERO DEL AÑO 2014, PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022 (ABROGADO).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -1448,3 +1448,17 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. DE 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 587/2022 POR EL QUE SE EXPIDEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANTAMAYEC, CONKAL, CUNCUNUL, CHANKOM, CHUMAYEL, HOCABÁ, HUNUCMÁ, IXIL, OXKUTZCAB Y UCÚ, TODAS DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. La presente Ley entrará en vigor el día 1 de enero del año 2023, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Se abroga la Ley de Hacienda del Municipio de Hunucmá, Yucatán, publicada el 27 de diciembre del 2013 en el Diario Oficial del Gobierno del Estado de Yucatán, en el Decreto Número 135.
+
+Artículo tercero. El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo cuarto. Lo no previsto en esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal del Estado de Yucatán.
