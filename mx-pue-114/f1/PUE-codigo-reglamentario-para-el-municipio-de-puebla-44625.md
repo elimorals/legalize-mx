@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2022-12-09"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -4257,6 +4257,10 @@ V. Áreas de Transferencia o Servicios Complementarios: Aquellas que incluyen la
 
 V Bis. Balizamiento o señalamiento horizontal: Conjunto de marcas que se insertan sobre el asfalto y estructuras, para delimitar las vialidades de manera geométrica;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V Ter. Inmovilizador: Dispositivo de inserción en la zona de neumáticos, por medio del cual, se impide el desplazamiento de vehículos;
+
 VI. Banqueta: Espacio público destinado al tránsito peatonal para permitir accesos cómodos, seguros y universalmente accesibles en la Vía Pública;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2022)</small>
@@ -4303,9 +4307,9 @@ XXIII. Dispositivos de Control de Tránsito: Señales, marcas, semáforos y cual
 
 XXIV. Dispositivo de movilidad asistida: Herramienta que permite el desplazamiento de personas con alguna discapacidad o con movilidad limitada, tales como silla de ruedas, silla de ruedas motorizada, andadera, bastón o perro guía;
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXIV Bis. Estacionamiento Rotativo: Estacionamiento en vía pública, en espacios autorizados y delimitados para dicho fin de la forma en que lo establezcan los señalamientos viales, que permite la rotación de vehículos mediante la gestión del tiempo al no poder exceder de cuatro horas continuas, en un día natural;
+XXIV Bis. Estacionamiento Rotativo: Estacionamiento en vía pública, en espacios autorizados y delimitados para dicho fin de la forma en que lo establezcan los señalamientos viales, que permite la rotación de vehículos y remolques, mediante la gestión del tiempo, en el período que se establezca en este Código.
 
 > <small>(ADICIONADA, P.O. 17 DE MARZO DE 2022)</small>
 
@@ -5951,35 +5955,35 @@ IV. Los vehículos no podrán ser estacionados fuera de los lugares permitidos p
 
 V. Los vehículos pertenecientes al sistema complementario de micromovilidad solo podrán ser estacionados solo (sic) en los lugares o bahías autorizadas para tal efecto por la SEMOVI.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Bis.
 
-El Estacionamiento Rotativo será de cuatro horas continuas en un día natural. A quien exceda dicho plazo, será sujeto a la sanción establecida en el numeral correlativo al presente en el Tabulador de Infracciones Sanciones, simultáneamente se procederá al retiro de la placa de circulación.
+En caso de ampliar el número de horas mayor a cinco permitidas por día natural para el uso del Estacionamiento Rotativo, esto se establecerá en las Reglas de Operación. A quien exceda dicho plazo, será sujeto a la sanción establecida.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Ter.
 
-Cuando el tiempo de estacionamiento de un vehículo sea igual o superior a seis horas, se procederá a su retiro e ingreso al Depósito Oficial de Vehículos correspondiente, donde se sujetará a los procedimientos que establezca la Dirección de Control de Tránsito. Los gastos ocasionados por dicho traslado serán pagados por el infractor, así como el monto por las horas excedentes por ocupar el espacio del Estacionamiento Rotativo.
+Cuando el tiempo de estacionamiento de un vehículo o remolque registrado, exceda dos horas o más la estadía establecida, se procederá a su retiro e ingreso al Depósito de Vehículos correspondiente, independientemente de haber sido sancionado en términos del numeral anterior. Los gastos ocasionados por dicho traslado serán pagados por el infractor.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Quater.
 
-Todo vehículo que ocupe espacios destinados para el Estacionamiento Rotativo, deberá ser registrado mediante los medios establecidos, de lo contrario, será sujeto a la Infracción señalada en el correlativo al presente, en el Tabulador de Infracciones y Sanciones. Con la salvedad que deberá cubrir el importe generado por el tiempo de utilización.
+Todo vehículo o remolque que ocupe espacios destinados para el Estacionamiento Rotativo, deberá contar con placas de circulación y ser registrado a través de los medios establecidos, de lo contrario, será sujeto a la Infracción señalada en el correlativo al presente en el Tabulador de Infracciones y Sanciones. Se exceptúan de dicho registro, los vehículos de emergencia (patrullas, ambulancias, bomberos y protección civil) en el ejercicio de sus funciones.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Quinquies.
 
-Al vehículo que no hubiera sido registrado para el uso del Estacionamiento Rotativo y excediera el término de dos horas en la utilización del espacio, y será retirado y remitido al Depósito Oficial de Vehículos. Sin perjuicio de cubrir el monto por las horas excedentes por el uso del espacio del Estacionamiento Rotativo.
+Al vehículo o remolque que no hubiera sido registrado para el uso del Estacionamiento Rotativo y habiendo sido infraccionado o que por tal motivo se haya inmovilizado el vehículo dentro de las veinticuatro horas posteriores, se procederá a su retiro e ingreso al Depósito de Vehículos correspondiente, independientemente de haber sido sancionado en términos del presente Código. Los gastos ocasionados por dicho traslado serán pagados por el infractor.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Sexies.
 
-A los vehículos que ocupen espacios destinados al Estacionamiento Rotativo y que no cuenten con placas de circulación, serán retirados y remitidos al Depósito Oficial de Vehículos.
+Para los vehículos o remolques, que ocupen cajones del Estacionamiento Rotativo y que no cuenten con placas de circulación o teniéndolas, estas se encuentren remachadas, soldadas o pegadas, o en el interior del vehículo o remolque, así como los que porten permisos para circular sin placas de circulación de cualquier Entidad Federativa, se aplicará el inmovilizador hasta por veinticuatro horas, y una vez finalizado este tiempo, si no se realiza el pago de la multa correspondiente, se procederá a su retiro e ingreso al Depósito de Vehículos. Los gastos ocasionados por dicho traslado serán pagados por el infractor.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
 
@@ -6001,17 +6005,21 @@ III. Medios audiovisuales; y
 
 IV. Instrumentos de grabación.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Dispositivos de cobro en el lugar del levantamiento de la infracción.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Nonies.
 
-Cuando se haga uso del Estacionamiento Rotativo, los usuarios deberán estacionar sus vehículos en el perímetro delimitado en las calles, el cual es acorde con las dimensiones promedio de un vehículo.
+Cuando se haga uso del Estacionamiento Rotativo, los usuarios deberán estacionar los vehículos o remolques en el cajón correspondiente.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 323 Decies.
 
-Para el uso del estacionamiento se deberá usar un espacio delimitado, el cual corresponde a un solo vehículo, en caso de que se infrinja esta disposición se aplicará la sanción prevista en el numeral 151 del Tabulador de Infracciones. Se deberá dar preferencia a la circulación y seguridad del peatón.
+No deberá estacionarse en lugares diferentes a los establecidos para el Estacionamiento Rotativo, entendiéndose esto, de manera enunciativa más no limitativa: como fuera de los cajones de estacionamiento, accesos y salidas, banquetas, extrema derecha, bocacalles, parques, plazas, plazuelas y espacios reservados a peatones y ciclistas.
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
 
@@ -6019,19 +6027,71 @@ Artículo 323 Undecies.- Es obligación de quien administre y opere el servicio 
 
 I. Supervisar las áreas donde se encuentran instalados los estacionómetros;
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VI.]</small>
+
 II. Atender diariamente reportes de estacionómetros descompuestos;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VII.]</small>
 
 III. Dar mantenimiento a los estacionómetros;
 
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VIII.]</small>
+
 IV. Atender las quejas que se presenten; y
 
-V. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la vía pública.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+V. Inspeccionar las áreas donde se encuentran instalados los estacionómetros.
 
-Artículo 323 Duodecies.- Se destinará en la vía pública lugares de estacionamiento para personas con discapacidad, de acuerdo con lo dispuesto por el artículo 324 y demás relativos de este ordenamiento.
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN II.]</small>
 
-Para hacer uso de estos cajones, los usuarios deberán portar las placas en su vehículo adecuadas al caso expedidas por la autoridad estatal competente.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. Atender diariamente reportes de estacionómetros descompuestos;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN III.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. Dar mantenimiento a los estacionómetros;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN IV.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Atender las quejas que se presenten; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX. Vigilar el cumplimiento de lo dispuesto en materia de estacionamiento en la vía pública.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Duodecies.- Se destinará en la vía pública, lugares de estacionamiento exclusivos para vehículos que trasladen personas con discapacidad, siempre y cuando, dichos vehículos porten las placas destinadas a personas con discapacidad, expedidas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Terdecies.- No deberá excederse el tiempo pagado para el uso de Estacionamiento Rotativo, dentro del límite establecido en el presente Código.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Quaterdecies.- No podrá utilizarse el estacionamiento Rotativo para actividades comerciales, y/o prestación de servicios.
+
+Quienes lleven a cabo alguna de estas actividades, serán puestos a disposición del Juzgado Cívico por la Autoridad correspondiente, a petición de las Personas Supervisoras de Movilidad, debiéndose remitir el vehículo al depósito de vehículos respectivo, además se impondrá la sanción correspondiente. Los gastos ocasionados por dicho traslado serán pagados por el infractor.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Quindecies.- Cuando las bahías de carga y descarga se encuentren ocupadas, los vehículos de carga podrán utilizar cualquier espacio autorizado y delimitado del Estacionamiento rotativo, sin extralimitar los 30 minutos de uso, o le será aplicada la sanción correspondiente por parte de las personas Supervisoras de Movilidad.
+
+El uso de las bahías para maniobras de carga y descarga en el Perímetro del Estacionamiento Rotativo será de 30 minutos comprendidos en 20 minutos para las maniobras y 10 minutos de tolerancia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Sexdecies.- Los vehículos de más de 3.5. Toneladas, sean autobuses o vehículos de carga, no podrán estacionarse en ningún lugar del perímetro del estacionamiento rotativo en los horarios de funcionamiento del mismo, en su defecto, aún se hubiesen registrado, les será aplicada la infracción correspondiente por parte de las personas Supervisores de Movilidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 323 Septendecies.- No podrán hacer base o sitio los vehículos del transporte público o mercantil, respectivamente, dentro del Perímetro del Estacionamiento Rotativo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6431,13 +6491,11 @@ XII. A la persona que conduzca en estado de ebriedad o bajo el influjo de estupe
 
 XIII. Si los policías preventivos, en ejercicio de sus atribuciones y acorde con la naturaleza del evento, tiene conocimiento de la comisión de probables hechos delictivos, deberá poner a disposición del Ministerio Público por medio del informe policial homologado respectivo y en forma inmediata, a las personas que haya detenido.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 331 Bis.
 
-Las Personas Supervisoras de Movilidad deberán aplicar las infracciones respectivas, así como emitir la boleta de infracción y el retiro de la placa de circulación del vehículo como garantía de pago por contravenir lo relativo a las normas de funcionamiento del Estacionamiento Rotativo.
-
-De igual forma, se encuentran facultados para vigilar en forma permanente que las normas de movilidad competencia de la SEMOVINFRA, se respeten conforme a las disposiciones de este Capítulo, y en caso de advertir conductas irregulares, darán aviso a los Agentes de Tránsito o Policías Preventivos de Tránsito para que realicen la boleta de infracción respectiva.
+Las Personas Supervisoras de Movilidad deberán aplicar las infracciones respectivas, así como emitir la boleta de infracción, colocar y retirar inmovilizadores a los vehículos infractores, así como el retiro de la placa de circulación del vehículo como garantía de pago por contravenir lo relativo a las normas de funcionamiento del Estacionamiento Rotativo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6891,7 +6949,7 @@ De las infracciones en general y otras obligaciones.
 
 > <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. 14 DE JULIO DE 2015, PÁGINA 3.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, EN LA TERCERA SECCIÓN DEL P.O. 31 DE OCTUBRE DE 2016, PÁGINAS DE LA 7 A LA 15; DÉCIMO SÉPTIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2019, PÁGINA 23; Y TERCERA SECCIÓN DEL P.O. 17 DE MARZO DE 2022, PÁGINA 19; TERCERA SECCIÓN DEL P.O. 24 DE MAYO DE 2022, PÁGINA DE LA 9 A LA 10; VIGÉSIMA SECCIÓN DEL P.O. 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 78 A LA 79.]</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -8163,9 +8221,13 @@ V.- Observar y acatar todas las disposiciones que se requieran y se dispongan pa
 
 En caso de incumplimiento, la Unidad Operativa Municipal de Protección Civil, aplicará las Medidas de Seguridad necesarias a fin de salvaguardar la integridad física de las personas que acudan al evento.
 
-Para los espectáculos públicos y/o eventos masivos que se realicen con motivo de fiestas tradicionales señaladas en el artículo 637, la Dirección de Registro y Fiscalización y la Unidad Operativa Municipal de Protección Civil, deberán de coordinarse a efecto de planear con anticipación a la expedición de permisos de los vendedores que establece el artículo 645, la logística para poder señalar a los vendedores ambulantes, semifijos y prestadores ambulantes de servicios, las acciones que permitan garantizar la seguridad de los asistentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El Departamento de Registro y Fiscalización para otorgar los permisos señalados en el artículo 645 fracción III incisos a) y b), con motivo de un espectáculo público y/o masivo, requerirá al solicitante del permiso, la autorización previa de la Unidad Operativa Municipal de Protección Civil.
+Para los espectáculos públicos y/o eventos masivos que se realicen con motivo de fiestas tradicionales señaladas en el artículo 639, la Coordinación de Fiscalización de Espectáculos Públicos y la Unidad Operativa Municipal de Protección Civil, deberán de coordinarse a efecto de planear con anticipación a la expedición de permisos de los vendedores que establece el artículo 645, la logística para poder señalar a los vendedores ambulantes, semifijos y prestadores ambulantes de servicios, las acciones que permitan garantizar la seguridad de los asistentes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La Coordinación de Fiscalización de Espectáculos Públicos para otorgar los permisos señalados en el artículo 645 fracción III incisos a) y b), con motivo de un espectáculo público y/o masivo, requerirá al solicitante del permiso, la autorización previa de la Unidad Operativa Municipal de Protección Civil.
 
 DE LAS INFRACCIONES
 
@@ -10051,9 +10113,7 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 ### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
 
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Articulo 601.
 
@@ -10287,9 +10347,21 @@ d) Comandas que demuestren que los comensales han tenido consumo de alimentos; y
 
 e) Carta de alimentos con tres tiempos como mínimo, que deberá coincidir con los alimentos que se preparen en la cocina.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XII. SALÓN SOCIAL CON VENTA DE BEBIDAS ALCOHÓLICAS.- Establecimiento mercantil cuya actividad preponderante es la renta para la realización de eventos sociales, cuenta con pista de baile e instalaciones para presentar orquesta, conjunto musical, música grabada o videograbada y tenga el servicio de banquetes, quedando incluido el consumo de bebidas alcohólicas dentro o no del paquete que ofrezca el salón social a sus clientes.
+XII. SALÓN SOCIAL Y/O JARDÍN CON VENTA DE BEBIDAS ALCOHÓLICAS. Establecimiento mercantil cuya actividad preponderante es la renta para la realización de eventos sociales, cuenta con pista de baile e instalaciones para presentar orquesta, conjunto musical, música grabada o videograbada y tenga el servicio de banquetes, quedando incluido el consumo de bebidas alcohólicas dentro o no del paquete que ofrezca el salón social a sus clientes.
+
+Cuando el establecimiento realice directamente o sea utilizado por un tercero bajo arrendamiento o cualquier otro concepto, para realizar un evento público en el que exista:
+
+A) Venta de boletos y venta de alcohol;
+
+B) Entrada libre y venta de alcohol; o
+
+C) Venta de entradas con alcohol incluido.
+
+El establecimiento o en su caso, la persona arrendataria u organizadora estará obligada a observar lo establecido en el Capítulo 12 denominado "Espectáculos Públicos" del presente Código y deberá obtener la autorización previa de la Autoridad Municipal competente en los términos previstos en ese Capítulo.
+
+En los eventos descritos en este párrafo, estará prohibido el acceso a menores de edad.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
@@ -10431,9 +10503,9 @@ VIII. Anunciar en un lugar visible al público, el horario dentro del cual, el e
 
 IX. Colocar en un lugar visible del establecimiento la prohibición establecida en las fracciones VI y VII del artículo 615 del presente Código;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, XIII, XIV, XVII, XVIII y XIX del artículo 611, que exhiba la identificación donde demuestre claramente que es mayor de edad, debiendo ser: Credencial de Elector o en su defecto, Pasaporte vigente o Cartilla del Servicio Militar Nacional;
+X. Solicitar al cliente que consuma bebidas alcohólicas en los establecimientos señalados en las fracciones III, IV, V, VI, VIII, IX, X, XI, segundo párrafo de la XII, XIII, XIV, XVII, XVIII y XIX del artículo 611, que exhiba la identificación oficial con la que acredite claramente que es mayor de edad, debiendo ser: Credencial para votar o en su defecto, Pasaporte vigente o Cartilla del Servicio Militar Nacional;
 
 XI. Notificar oportunamente a la autoridad competente, de cualquier escándalo o riña que se registre en el interior o exterior de su local;
 
@@ -10489,9 +10561,11 @@ V. Vender, enajenar o permitir el consumo de bebidas alcohólicas dentro de los 
 
 VI. La venta, enajenación consumo u obsequio de bebidas alcohólicas a menores de edad, personas armadas, uniformados de las fuerzas armadas o de cuerpos de seguridad pública o privada, a personas que se encuentren privadas de sus facultades mentales, en evidente estado de ebriedad o bajo el influjo de alguna droga enervante, estupefacientes o inhalantes;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII. Permitir la entrada de menores de edad a los establecimientos señalados en las fracciones V, VI, IX, XIII y XIV del artículo que enumera a los establecimientos para efectos de este Capítulo, así como a cualquiera de los establecimientos a que se refiere este Capítulo, si se encuentran en estado de embriaguez o bajo el efecto de enervantes, estupefacientes o psicotrópicos;
+VII. Permitir la entrada de menores de edad a los establecimientos señalados en las fracciones V, VI, IX, segundo párrafo de la fracción XII, XIII y XIV del artículo 611 que enumera a los establecimientos para efectos de este Capítulo.
+
+De igual manera, está prohibido el acceso a menores de edad a cualquiera de los establecimientos a que se refiere este Capítulo, si se encuentran en estado de embriaguez o bajo el efecto de enervantes, estupefacientes o psicotrópicos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -10505,21 +10579,21 @@ XI. La venta o enajenación de bebidas alcohólicas en la vía pública; prepara
 
 XII. Permitir que las emisiones de contaminación por ruido generadas dentro del establecimiento rebasen en el exterior del mismo, los límites máximos contenidos en las Normas Oficiales Mexicanas aplicables, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XIII. Queda prohibida la venta o consumo de bebidas alcohólicas en botellas y vasos de vidrio o cualquier material que pueda utilizarse como un artefacto punzo cortante en los establecimientos señalados en las fracciones III, IV, V, VI, IX, XIII, XIV, XVII, XVIII y XIX del artículo 611 del presente Código.
+XIII. Queda prohibida la venta o consumo de bebidas alcohólicas en botellas y vasos de vidrio o cualquier material que pueda utilizarse como un artefacto punzo cortante en los establecimientos señalados en las fracciones III, IV, V, VI, IX, segundo párrafo de la fracción XII, XIII, XIV, XVII, XVIII y XIX del artículo 611 del presente Código.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XIV. Permitir que el personal y los guardias de seguridad ingieran bebidas alcohólicas en los lugares o establecimientos a que hace referencia el presente Capítulo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XV. La venta o enajenación de estupefacientes en el interior del establecimiento, incluyendo a los menores de edad; y
+XV. La venta o enajenación de estupefacientes en el interior del establecimiento, incluyendo a los menores de edad;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XVI. Impedir la entrada o acceso al establecimiento a las personas con discapacidad;
+XVI. Impedir la entrada o acceso al establecimiento a las personas con discapacidad; y
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2011)</small>
 
@@ -10773,6 +10847,10 @@ Contra cualquier acto de las autoridades fiscales municipales encargadas de la a
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+
 ###### Artículo 627.
 
 El presente Capítulo tiene por objeto regular el funcionamiento de los establecimientos de giros comerciales complementarios, industriales y de servicios y su entorno urbano, señalados en el Catálogo correspondiente.
@@ -10788,6 +10866,10 @@ b) Establecimientos de giros comerciales obligados a obtener Licencia de Funcion
 > <small>(REFORMADO P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 El Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla se actualizará anualmente o cuando implique mejoras a la competitividad del Municipio, y dicha actualización estará a cargo de la Tesorería Municipal en coordinación con las Secretarías competentes en materia de Desarrollo Económico, del Desarrollo Urbano y la Sustentabilidad, así como de la unidad administrativa de Protección Civil en materia de gestión de riesgos en los establecimientos de giros comerciales en su entorno urbano. Una vez aprobado por el Cabildo Municipal se publicará en el Periódico Oficial del Estado, así como en la Página electrónica del Ayuntamiento, haciéndolo del conocimiento de la Contraloría Municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN II. DEL AVISO DE APERTURA DE NEGOCIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
@@ -10855,179 +10937,167 @@ Posterior a la apertura del establecimiento, el o la contribuyente debe solicita
 
 El Aviso de Apertura de Negocio es un trámite administrativo que opera únicamente en casos de apertura de nuevos establecimientos por lo que, para la actualización, cambio de domicilio, cambio de denominación o nombre, cesión de derechos, cambio de giro y baja de giro respecto del establecimiento cesaran sus efectos y se estará a lo dispuesto para licencia de funcionamiento regulada en el presente Capítulo y a lo conducente en los que resulten aplicables.
 
-DE LAS LICENCIAS DE FUNCIONAMIENTO
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
+#### SECCIÓN III. DE LAS LICENCIAS DE FUNCIONAMIENTO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 629.
 
-Para obtener la licencia de funcionamiento y su actualización el interesado deberá presentar ante la Tesorería Municipal a través del Departamento de Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+Para obtener la licencia de funcionamiento y su actualización, la persona interesada deberá presentar ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos los siguientes documentos:
 
 A. Licencia de funcionamiento:
 
 I. Formato de empadronamiento;
 
-II. Identificación oficial y comprobante domiciliario; las personas morales además deben exhibir acta constitutiva y poder notarial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+II. Identificación oficial y comprobante domiciliario; las personas morales además deben exhibir acta constitutiva y poder notarial. Para el caso de realizar el trámite a través de tercero éste deberá observar lo previsto en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
-III. Copia certificada de la Cédula de Identificación Fiscal, expedida por el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público o justificante de que se encuentra en trámite de inscripción;
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+III. Copia certificada de la Cédula de Identificación Fiscal, expedida por el Registro Federal de Contribuyentes de la Secretaría de Hacienda y Crédito Público;
 
 IV. Autorización de uso de suelo, emitida por la autoridad competente; y
 
-V. Pago de derechos que procedan conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+V. Comprobante de pago de derechos que procedan conforme a lo previsto en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
 
 B. Actualización de licencia de funcionamiento:
 
 I. Formato de actualización de licencia de funcionamiento;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
-
 II. Licencia de funcionamiento original expedida por la Tesorería Municipal;
 
-III. Identificación oficial. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+III. Identificación oficial. Para el caso de realizar el trámite a través de tercero, éste deberá observar lo previsto en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
 IV. Acta constitutiva y poder notarial, para personas morales; y
 
-V. Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
+V. Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-La Tesorería Municipal a través del Departamento (sic) Padrón de Contribuyentes, y en su caso, la Unidad de Normatividad y Regulación Comercial entregarán los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa
+La actualización de las licencias a que se refiere el presente Capítulo, se realizará siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
 
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
-
-La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo. Por lo que respecta a los establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán actualizar la licencia anualmente ante la Tesorería Municipal, además de refrendar el software de seguridad debidamente instalado, ante la compañía correspondiente encargada de operar el sistema.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
-Para la reposición de licencia de funcionamiento por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio vigente. En este caso el solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
-
-El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
-
-Para el caso de los establecimientos cuyo giro comercial sea financiero, afianzadora, arrendadora, aseguradora, banco, cajero automático, casa de bolsa, casa de cambio, transporte de valores y otros servicios financieros, deberán presentar además de lo anterior, copia certificada de la autorización vigente para su constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
-
-Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple así como el original para su cotejo del contrato de adhesión o instrumento legal, debidamente registrado ante la Institución competente que regule su actividad.
-
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente al valor diario de 4,000 unidades de medida y actualización, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
-
-Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
-
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 629 Bis.
 
-Para obtener la licencia de funcionamiento de los establecimientos con el giro de Grúas, además de los requisitos establecidos en el inciso A del artículo 629, deberán cumplir con lo siguiente:
+Por lo que respecta a los establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán actualizar la licencia anualmente ante la Tesorería Municipal, además de refrendar el software de seguridad debidamente instalado, ante la compañía correspondiente encargada de operar el sistema.
 
-a) Presentar la autorización del parque vehicular emitida por la autoridad competente.
-
-b) Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños a la carga y daños por la carga, respecto de los vehículos recibidos para el traslado.
-
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 629 Ter.
 
+Para la reposición de licencia de funcionamiento por extravío o destrucción parcial o total, se pagarán los derechos que contemple la Ley de Ingresos del Municipio de Puebla vigente.
+
+En este caso la persona solicitante deberá proporcionar sus datos personales, los de la negociación y la fecha de expedición de la licencia.
+
+El pago de derechos que no esté contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio de Puebla vigente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 629 Quater.
+
+Para el caso de los establecimientos cuyo giro comercial sea financiero, afianzadora, arrendadora, aseguradora, banco, cajero automático, casa de bolsa, casa de cambio, transporte de valores y otros servicios financieros, deberán presentar además de lo anterior, copia certificada de la autorización vigente para su constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
+
+Será aplicable a los establecimientos con giros comerciales de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple, así como el original para su cotejo del contrato de adhesión o instrumento legal, debidamente registrado ante la Institución competente que regule su actividad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 629 Quinquies.
+
+Los establecimientos con giro comercial de casa de empeño, así como las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada o en su caso, fianza cuyo monto asegurado sea equivalente al valor diario de 4,000 unidades de medida y actualización, o el suficiente para garantizar los daños y perjuicios que pudieran ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para su constancia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 629 Sexies.
+
+Para la actualización de la licencia de los establecimientos con giro comercial de casa de empeño, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial de la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 629 BIS], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 629 Septies.
+
+Para obtener la licencia de funcionamiento de los establecimientos con el giro de Grúas, además de los requisitos establecidos en el inciso A del artículo 629, deberán cumplir con lo siguiente:
+
+a) Presentar la autorización del parque vehicular emitida por la autoridad competente; y
+
+b) Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños a la carga y daños por la carga respecto de los vehículos recibidos para traslado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 629 TER], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 629 Octies.
+
 Para obtener la licencia de funcionamiento de los establecimientos con el giro de Depósito de vehículos, además de los requisitos establecidos en el inciso A del artículo 629, deberán cumplir con lo siguiente:
 
-a) Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños, daños a terceros e incendio respecto de los vehículos en Depósito.
+Póliza de Seguro con cobertura que ampare robo total, robo parcial, daños, daños a terceros e incendio respecto de los vehículos en Depósito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 630], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 630.
+###### Artículo 629 Nonies.
 
-La Tesorería Municipal a través del Departamento de Padrón de Contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el artículo anterior.
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, en un término no mayor de diez días hábiles contados a partir del día siguiente al que se reciba la solicitud deberá otorgar la licencia de funcionamiento correspondiente siempre que se cumplan los requisitos señalados en el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
-En caso de que transcurrido el término de referencia no se dé contestación por escrito al solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra el servidor público.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+En caso de que transcurrido el término de referencia no se dé contestación por escrito a la persona solicitante, se tendrá por otorgada la licencia, independientemente de la responsabilidad administrativa en que incurra la persona servidora pública.
 
 Se exceptúa de lo establecido en el párrafo anterior, cuando se formule solicitud de cambio de giro comercial, y la nueva actividad incluya la venta, consumo o enajenación de bebidas alcohólicas, o expendio de sustancias susceptibles de inhalación y efectos tóxicos, en cuyo caso procederá, ante el silencio de la autoridad, la negativa ficta del cambio de giro comercial.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Contra el acto que emita el Jefe del Departamento de Padrón de Contribuyentes que niegue el otorgamiento o actualización de la licencia de funcionamiento, o cambio de giro comercial, el contribuyente podrá interponer el Recurso de Revisión previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla
+###### Artículo 629 Decies.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución a la persona solicitante del pago de derechos.
 
-De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+Las personas licenciatarias estarán obligadas al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 632 BIS], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El Departamento de Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil
+Artículo 629 Undecies.- Para el debido funcionamiento de los establecimientos señalados en el artículo 629 Quinquies, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán contar en el término de treinta días naturales posteriores a la expedición de la licencia de funcionamiento con los dispositivos y material informático y tecnológico que al efecto señale la autoridad municipal mediante el Manual de Operación que al efecto expedirá la Secretaría de Administración y Tecnologías de la Información o la que realice éstas funciones, en el que se especificará la forma en que se instalarán las cámaras de seguridad y su operación; las formas en que se hará el registro y transferencia de la información requerida, situación que constatará la Unidad de Normatividad y Regulación Comercial, en caso de no contar con lo anterior se cancelará la licencia otorgada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La persona licenciataria deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción, cuando se trate de teléfonos celulares, Tablet y computadoras portátiles, solicitará además la factura original que acredite la propiedad de estos artículos electrónicos.
 
-###### Artículo 631.
+Asimismo, colocar en lugar visible uno o varios avisos que lleven la leyenda “VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL”.
 
-El titular de la Licencia a que se refiere este Capítulo, podrá cederla hasta dos veces por cada ejercicio fiscal a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquél, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, bajo los siguientes requisitos:
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+Artículo 629 Duodecies.- El Departamento de Licencias y Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil.
 
-I. Transferencia o cesión de la licencia de funcionamiento:
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 631], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+Artículo 629 Terdecies.- La persona titular de la Licencia a que se refiere este Capítulo, podrá cederla hasta dos veces por cada ejercicio fiscal a cualquier persona que reúna los requisitos inherentes, o cambiar de giro comercial, obligándose aquel, a dar aviso a la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos, bajo los siguientes requisitos:
 
-a) Formato de transferencia de propietario;
+l (sic). Transferencia o cesión de la licencia de funcionamiento:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+a) Formato de transferencia de la persona propietaria;
 
 b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
-c) Alta de Hacienda del nuevo propietario;
+c) Alta de Hacienda de la nueva persona propietaria;
 
-d) Baja de Hacienda del anterior propietario;
+d) Baja de Hacienda de la persona anterior propietaria;
 
-e) Identificación oficial de ambos contribuyentes. Para el caso de realizar el trámite a través de un gestor, éste deberá observar lo establecido en el Artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
+e) Identificación oficial de ambas personas contribuyentes. Para el caso de realizar el trámite a través de un tercero éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla;
 
 f) Acta constitutiva y Poder Notarial, para personas morales;
 
 g) Acta de Cesión de derechos ante Notario Público; y
 
-h) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+h) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
 
 II. Cambio de giro comercial:
 
 a) Formato de cambio del giro comercial;
 
-b) Dictamen de Compatibilidad de Uso de Suelo. expedido por la Unidad Administrativa competente;
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente;
 
 c) Licencia de Funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 d) Aviso en Hacienda de cambio de giro comercial; y
 
-e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+e) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla, para el Ejercicio Fiscal vigente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso la Unidad de Normatividad y Regulación Comercial entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 632], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-###### Artículo 632.
-
-Las modificaciones que haga el titular de la Licencia de Funcionamiento, respecto al cambio de domicilio sólo podrá hacerlo hasta dos veces por cada ejercicio fiscal o baja del giro comercial ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, para lo cual se acompañará:
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
+Artículo 629 Quaterdecies.- Las modificaciones que haga la persona titular de la Licencia de Funcionamiento, respecto al cambio de domicilio sólo podrán (sic) hacerlo hasta dos veces por cada ejercicio fiscal o baja del giro comercial ante la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, para lo cual se acompañará:
 
 I. Para cambio de domicilio del giro comercial:
 
@@ -11037,151 +11107,257 @@ b) Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrat
 
 c) Comprobante del pago de derechos por el Uso de Suelo; y
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
 d) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes.
-
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2006)</small>
 
 II. Para la baja de la licencia de funcionamiento:
 
 a) Formato de baja de la licencia de funcionamiento;
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
-
 b) Licencia de funcionamiento original expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes;
 
 c) Suspensión de actividades presentada ante la Secretaria de Hacienda y Crédito Público;
 
-d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un gestor, ése deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
+d) Identificación oficial o Acta Constitutiva y Poder Notarial. Para el caso de realizar el trámite a través de un tercero, éste deberá observar lo establecido en el artículo 38 del Código Fiscal y Presupuestario para el Municipio de Puebla; y
 
-e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio aplicable.
+e) Comprobante de pago de derechos que procedan, conforme a lo establecido en la Ley de Ingresos del Municipio de Puebla vigente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso, la Unidad de Normatividad y Regulación Comercial, entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 633 BIS], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+Artículo 629 Quindecies.- La Secretaría de Economía y Turismo, a través de la Dirección de Competitividad y Desarrollo Empresarial o a la Unidad Administrativa que se designe, podrá solicitar a la autoridad competente el registro o padrón de contribuyentes que refleje las actividades de apertura de negocios en el Municipio de Puebla, para efectos de generar estadísticas económicas, debiendo observar lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
 
-###### Artículo 632 Bis.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Para el debido funcionamiento de los establecimientos señalados en el artículo 628 fracción III numerales 94 y 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán contar en el término de treinta días naturales posteriores a la expedición de la licencia de funcionamiento con los dispositivos y material informático y tecnológico que al efecto señale la autoridad municipal mediante el Manual de Operación que al efecto expedirá la Secretaría de Administración y Tecnologías de la Información o la que realice estas funciones, en el que se especificará la forma en que se instalarán las cámaras de seguridad y su operación; las formas en que se hará el registro y transferencia de la información requerida, situación que constatará la Unidad de Normatividad y Regulación Comercial, en caso de no contar con lo anterior se cancelará la licencia otorgada.
+Artículo 629 Sexdecies.- Las personas Titulares de cualquier Aviso de Apertura de Negocio y Licencia de Funcionamiento, deberán cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El licenciatario deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción, cuando se trate de teléfonos celulares, tablets y computadoras portátiles, solicitará además la factura original que acredite la propiedad de estos artículos electrónicos. Asimismo colocar en lugar visible uno o varios avisos que lleven la leyenda "VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL".
+#### SECCIÓN IV. DEL HORARIO-
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 634], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 633.
-
-Es obligación del titular de cualquier Aviso de Apertura de Negocio y licencia de funcionamiento, cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle. Los giros comerciales a que hace referencia el Capítulo 28 de este ordenamiento legal, deberán contar además con la licencia de sustancias susceptibles de inhalación y efectos tóxicos para su funcionamiento.
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2015)</small>
-
-###### Artículo 633 Bis.
-
-La Secretaría de Desarrollo Económico y Turismo, a través de la Dirección de Competitividad o a la Unidad Administrativa que se designe, podrá solicitar a la autoridad competente el registro o padrón de contribuyentes que refleje las actividades de apertura de negocios en el Municipio de Puebla, para efectos de generar estadísticas económicas, debiendo observar lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Puebla.
-
-DEL HORARIO
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
-
-###### Artículo 634.
+###### Artículo 630.
 
 El horario general para todos los establecimientos referidos en el Catálogo de Giros Comerciales Complementarios, Industriales y de Servicios del Municipio de Puebla será libre, es decir de las 00:00 a las 24:00 horas todos los días del año.
 
-DE LAS FIESTAS TRADICIONALES
+Quedan exceptuados de esta disposición, los establecimientos que expendan bebidas alcohólicas en botella abierta y cerrada así como los sujetos a un Capítulo especial en el presente Código Reglamentario.
 
-###### Artículo 635.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Queda prohibida la instalación de puestos temporales semifijos y de cualquier otra naturaleza en la vía pública, con excepción de los casos en que se celebran fiestas tradicionales y de aquellos previstos expresamente en el Capítulo de Comercio Ambulante, Semifijo y Prestadores de Servicios en la Vía Pública del presente Código Reglamentario.
+###### Artículo 630 Bis.
 
-###### Artículo 636.
+El Honorable Ayuntamiento podrá variar los horarios por causas de interés general o cuando se presenten circunstancias que pudieran afectar la paz o el orden público.
 
-En las fiestas tradicionales, únicamente se podrán vender alimentos preparados de los conocidos como antojitos, así como los artículos propios de estas festividades e instalarse juegos y atracciones de feria, con la autorización de la autoridad respectiva y previo el pago de los derechos que correspondan, en términos del presente Código Reglamentario.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-###### Artículo 637.
+#### SECCIÓN V. DE LAS OBLIGACIONES Y PROHIBICIONES DE LAS PERSONAS TITULARES DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-Se considera como fiesta tradicional la actividad que se realiza en lugares públicos para la celebración de determinados eventos populares, siendo los autorizados los siguientes:
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 633], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Semana santa (el calvario).
+###### Artículo 631.
 
-Fecha: La que corresponda de a cuerdo (sic) al calendario.
+Son obligaciones de las personas titulares de las Licencias de Funcionamiento las siguientes:
 
-Lugar Calzada de los Fuertes, así como los Fuertes de Loreto y Guadalupe.
+I. Contar con la licencia de funcionamiento correspondiente, expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos antes de iniciar sus actividades;
 
-Desfile del 5 de Mayo.
+II. Destinar el establecimiento únicamente al giro autorizado en la Licencia de Funcionamiento;
 
-Fecha 5 de Mayo de cada año
+III. Colocar en un lugar visible del establecimiento el documento original de la Licencia de Funcionamiento expedida por la Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes de la Dirección de Ingresos;
 
-Lugar El que se designe.
+IV. Contar con el Dictamen de Medidas Preventivas contra incendios expedido por el Departamento de Bomberos y fijarlo en un lugar visible dentro del establecimiento;
 
-Día de las Madres.
+V. Mantener sus instalaciones higiénicas y adecuadas, según el giro autorizado, así como cumplir con todas las disposiciones procedentes previstas en la Ley General de Salud, la Ley Estatal de Salud, y demás disposiciones jurídicas aplicables en la materia;
 
-Fecha 10 de mayo de cada año.
+VI. Capacitar al personal a su cargo en materia de protección civil y seguridad pública;
 
-Lugar Exterior de los panteones.
+VII. Permitir el acceso al establecimiento al personal autorizado por el Ayuntamiento para realizar visitas de verificación e inspección, proporcionando inmediatamente la documentación que soliciten, así como permitir el acceso a cualquier área que tenga comunicación con el establecimiento;
 
-Corpus Christi.
+VIII. Cumplir con las disposiciones sanitarias, de higiene y salubridad que emita la autoridad competente en caso de declaración de emergencia sanitaria;
 
-Fecha Variable de acuerdo al calendario
+IX. Procurar la seguridad de las personas usuarias, empleados y empleadas dentro del establecimiento, así como coadyuvar a que, con su funcionamiento no se altere el orden público de las zonas cercanas al mismo, en caso contrario, deberá dar aviso inmediato a las autoridades competentes;
 
-Lugar El Parián.
+X. Cumplir con todas y cada una de las disposiciones aplicables a la actividad que desarrolle. Los giros comerciales a que hace referencia el Capítulo 28 de este ordenamiento legal, deberán contar además con la licencia de sustancias susceptibles de inhalación y efectos tóxicos para su funcionamiento;
 
-El Carmen
+XI. En la medida de sus posibilidades, contar con instalaciones para facilitar el acceso a personas con discapacidad;
 
-Fecha 16 de Julio de cada año.
+XII. Permitir el acceso libre a todo perro de asistencia, perro de servicio o guía, o cualquier otra categoría para el auxilio y salvaguarda humana, siempre que vaya acompañado de la persona a la que asiste; y
 
-Lugar Parque del Carmen.
+XIII. Las demás que señalen en este Capítulo y otras disposiciones legales aplicables.
 
-Fiestas Patrias
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Fecha 15 y 16 de Septiembre de cada año.
+###### Artículo 632.
 
-Lugar Zócalo, Jardín de Analco y Jardín del Carmen.
+Los establecimientos a que se refiere el presente Capítulo tienen prohibido:
 
-Todos Santos y Día de Muertos.
+I. Iniciar actividades comerciales sin la Licencia de Funcionamiento correspondiente;
 
-Fecha 1 y 2 de noviembre de cada año.
+II. Utilizar una Licencia de Funcionamiento sin ser la persona Titular de tal autorización o en lugar o domicilio distintos al indicado en la misma;
 
-Lugar Exterior de los panteones
+III. Alterar la Licencia de Funcionamiento original u operar y realizar trámites con licencias ajenas al comercio o negocio;
 
-Guadalupana
+IV. Cambiar o ampliar el giro o los giros para los cuales se otorgó la Licencia de Funcionamiento, sin la autorización respectiva;
 
-Fecha 11 y 12 de diciembre de cada año
+V. Permitir los juegos de azar y juegos de apuestas dentro del establecimiento;
 
-Lugar Paseo Bravo y Seminario Palafoxiano.
+VI. Retener personas dentro del establecimiento. En caso de la probable comisión de algún ilícito, se solicitará la intervención inmediata de las autoridades competentes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
+VII. Utilizar o invadir la vía pública para la prestación de los servicios o la realización de las actividades propias del giro autorizado;
 
-###### Artículo 638.
+VIII. Las demás que señalen en este Capítulo y otras disposiciones legales aplicables.
+
+###### Artículo 632 Bis.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN VI. DE LAS VISITAS DE VERIFICACIÓN E INSPECCIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633.
+
+La Unidad de Normatividad y Regulación Comercial podrá ordenar la práctica de visitas de verificación y de inspección a los establecimientos que regula el presente Capítulo, con el objeto de vigilar que cumplan con las obligaciones contenidas en el presente Código Reglamentario para el Municipio de Puebla y aplicarán las sanciones que se establecen en el presente Capítulo, sin perjuicio de las demás que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633 Bis.
+
+Los establecimientos que refiere el presente Capítulo podrán ser objeto de visitas de verificación e inspección desde el inicio de sus operaciones.
+
+Las visitas de verificación y de inspección podrán hacerse acompañadas del personal del sector de salud estatal o federal, Seguridad Ciudadana, Protección Civil y Desarrollo Urbano.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633 Ter.
+
+Las visitas de verificación y de inspección se entenderán con la persona Titular de la Licencia o su representante legal, o en su caso, con quien en el momento de la visita se ostente como persona encargada del establecimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633 Quáter.
+
+En materia de visitas de verificación e inspección deberá observarse lo siguiente:
+
+I. Proceden las visitas de verificación e inspección para comprobar el cumplimiento de las disposiciones legales previstas en el presente Capítulo y demás normatividad aplicable;
+
+II. Las visitas de verificación e inspección podrán efectuarse las veinticuatro horas del día, esto es, de las 00:00 horas a las 24:000 horas;
+
+III. La Unidad de Normatividad y Regulación Comercial podrá habilitar días para realizar diligencias y actuaciones relacionadas con las visitas de verificación e inspección los días que estén funcionando los establecimientos o realizándose las actividades reguladas a verificar;
+
+IV. Las personas que impidan las disposiciones previstas en el presente Capítulo, se harán acreedoras a las sanciones aplicables; y
+
+V. Las personas servidoras públicas que intervengan para entorpecer cualquier procedimiento de verificación e inspección serán sujetos de responsabilidad en términos de la normatividad en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633 Quinquies.
+
+Las visitas de verificación e inspección se iniciarán mediante orden fundada y motivada, suscrita por la Unidad de Normatividad y Regulación Comercial y deberá contener además de lo previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla, lo siguiente:
+
+I. La autoridad que emite la orden;
+
+II. Lugar o lugares donde deba efectuarse la visita de verificación o inspección;
+
+III. El nombre o razón social de la persona titular de la Licencia de Funcionamiento registrada ante las autoridades fiscales; cuando se ignore el nombre de la persona que deba ser visitada, se señalarán datos suficientes que permitan su identificación;
+
+IV. El nombre y cargo de la persona o personas que practicarán la visita, las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente; notificándose a la persona visitada de conformidad con el presente ordenamiento; y
+
+V. El objeto de la visita y en su caso el periodo a que deberá limitarse, expresando la fecha de inicio y terminación de la misma.
+
+No será requisito precisar el objeto de la orden de visita de verificación o inspección, cuando se trata de sujetos pasivos clandestinos que realicen actividades sin contar con las autorizaciones que prevén los ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 633 Sexies.
+
+Las visitas de verificación e inspección se desarrollarán conforme lo previsto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN VII. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 634.
+
+Son facultades de la persona Titular de la Presidencia Municipal del Ayuntamiento de Puebla y de la persona servidora pública designada por la misma:
+
+I. Resolver cualquier duda respecto a la interpretación del presente Capítulo, la aplicación del mismo y sanciones que establece;
+
+II. Restringir, ampliar o sujetar a condiciones especiales los avisos de apertura, las licencias de funcionamiento, autorizaciones, permisos y horarios a que se refiere el presente Capítulo, según cada caso en particular; y
+
+III. Las demás que le confiera el presente ordenamiento.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 638], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 634 Bis.
 
 Corresponde a la Unidad de Normatividad y Regulación Comercial determinar, calificar e imponer a quienes violen el presente Capítulo y los que resulten aplicables en la materia, indistintamente las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
 I. Multa equivalente al valor diario de 5 a 500 unidades de medida y actualización en el momento de la infracción;
 
-II. Clausura temporal del negocio de 3 a 45 días; y
+II. Clausura temporal del negocio de 3 a 45 días, en los siguientes supuestos:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2015)</small>
+a) Cuando el establecimiento opere un giro distinto al manifestado en el aviso de apertura o Licencia de Funcionamiento;
 
-III. Clausura definitiva y cancelación del Aviso de Apertura de Negocio o licencia de funcionamiento.
+b) Los establecimientos que no cumplan con las restricciones de horario y suspensión de labores en las fechas y horas que en su caso, acuerde la autoridad municipal;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+c) Obstaculizar o impedir las visitas de verificación o inspección referidas en el presente Capítulo;
 
-###### Artículo 638 Bis.
+d) No preservar el orden y la seguridad en el interior y exterior inmediato del establecimiento;
 
-Para quienes permitan a los vendedores que comercializan en la vía pública, vender sus productos dentro de sus instalaciones serán sancionados por la Tesorería Municipal con clausura definitiva.
+e) No dar aviso a las autoridades competentes cuando exista alteración del orden, emergencia o riesgo inminente;
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+f) Cuando estando obligados no cuenten con el programa interno de protección civil;
 
-###### Artículo 638 Ter.
+g) Cuando se detecte en la visita de verificación o inspección modificaciones a las condiciones originalmente manifestadas en la solicitud de Aviso de Apertura de Negocio o de Licencia de Funcionamiento;
+
+h) Cuando presuntivamente de constancias judiciales existan elementos de que la persona propietaria o poseedora, encargados, empleados, trabajadores o dependientes del local comercial cometieron dentro del local referido una conducta tipificada como delito doloso;
+
+i) Cuando no cuenten con el Dictamen de Compatibilidad de Uso de Suelo expedido por la Unidad Administrativa competente; y
+
+j) Por contravención a los actos emitidos por la autoridad municipal competente.
+
+III. Clausura Definitiva y Cancelación de Aviso de Apertura de Negocio o de la Licencia de Funcionamiento, en los supuestos siguientes:
+
+a) Cuando derivado de la visita de verificación o inspección en el local comercial el inspector se percate que en éste se lleva a cabo la enajenación, degustación y/o almacenamiento de bebidas alcohólicas sin contar con la licencia de funcionamiento que ampare dichas actividades, debiendo recabar evidencia fotográfica;
+
+b) Cuando derivado de la visita de verificación o inspección se haga constar la reincidencia en la comisión de infracciones previstas en el presente Código que hayan sido sancionadas con clausura temporal;
+
+c) Cuando derivado de la visita de verificación o inspección, adjuntando la evidencia fotográfica respectiva, la persona inspectora haga constar la discrepancia de metros declarados en el aviso de apertura de negocio y/o la licencia de uso de suelo específico;
+
+d) Cuando durante la visita de verificación o inspección se exhiban a la persona inspectora documentos notoriamente apócrifos;
+
+e) Cuando por resolución de Juez o Jueza de Justicia Cívica respectiva se determine la comisión de la falta contenida en el artículo 209 fracción I inciso n) del presente Código por parte de la persona propietaria o poseedora, encargados, empleados, trabajadores o dependientes del local comercial;
+
+f) Cuando quede acreditado en sentencia firme y de condena que la persona propietaria o poseedora, encargados, empleados, trabajadores o dependientes del local comercial, cometieron dentro del establecimiento, alguna conducta tipificada como delito doloso.
+
+La misma sanción se aplicará cuando alguna de las personas citadas y derivado del hecho delictivo de carácter doloso que se hubiere cometido al interior del local comercial, haya optado por alguna solución alterna o bien por la forma de terminación anticipada del proceso que contempla el Código Nacional de Procedimientos Penales.
+
+g) Cuando con motivo de la operación de algún giro comercial, se ponga en peligro el orden público, la salud o la seguridad de las personas;
+
+h) Lo requiera el interés público, debidamente justificado, y se ponga en peligro la salud y el orden público;
+
+i) Cuando derivado de visita de verificación o inspección y anexando para ello evidencia fotográfica, no se exhiba a la persona inspectora nota o ticket de compra, título de propiedad o factura de los bienes o mercancías que se expenden en el local comercial en el cuál consten los datos de la persona proveedora;
+
+j) Cuando derivado de visita de verificación o inspección y anexando para ello evidencia fotográfica, la persona inspectora haga constar la venta de artículos ilegales o prohibidos en el local comercial;
+
+k) Por acreditarse lo establecido en el artículo 1055 del presente Código y resulte incompatible la actividad precisada en la Licencia de Uso de Suelo específico;
+
+l) Cuando derivado de un informe solicitado a diferentes autoridades competentes, se documente un riesgo o peligro para la comunidad, o bien, que pueda ser de utilidad para prever posibles conductas delictivas, infracciones administrativas o que afecten el orden público;
+
+m) Permitan a las personas vendedoras que comercializan en la vía pública, vender sus productos dentro de sus instalaciones; y
+
+n) Cuando se haya tramitado la solicitud de Licencia de Funcionamiento o expedido esta, con base en documentos falsos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADA Y REUBICADA ANTES ARTÍCULO 638 TER], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 634 Ter.
 
 Las infracciones cometidas por establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, serán sancionadas con:
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
 
 I. Multa del equivalente al valor diario de 250 hasta 800 unidades de medida y actualización;
 
@@ -11189,47 +11365,135 @@ II. Cancelación de la licencia; y
 
 III. Clausura temporal o definitiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
+A. Sin perjuicio de las responsabilidades de orden penal que pudieran originarse, se impondrá multa del equivalente al valor diario de 250 a 300 unidades de medida y actualización y/o la clausura temporal conforme a lo establecido en el artículo 634 Bis del presente Capítulo cuando:
 
-A. Sin perjuicio de las responsabilidades de orden penal que pudieran originarse, se impondrá multa del equivalente al valor diario de 250 a 300 unidades de medida y actualización y/o la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo cuando:
-
-I. El licenciatario omita anexar al contrato de adhesión, los documentos que amparen la identidad del pignorante y los demás requisitos señalados en el presente Capítulo;
+I. El licenciatario omita anexar al contrato de adhesión, los documentos que amparen la identidad del pignorante y los demás requisitos señalados en el presente capítulo;
 
 II. El licenciatario solicite extemporáneamente la revalidación de la licencia de funcionamiento; y
 
-III. El licenciatario no actualice los dispositivos y material tecnológico que al efecto señale el Manual de Operaciones a que se hace referencia en el artículo 632 Bis.
+III. El licenciatario no actualice los dispositivos y material tecnológico que al efecto señale el Manual de Operaciones a que se hace referencia en el artículo 629 Undecies.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-B. Se impondrá multa del equivalente al valor diario de 750 a 800 unidades de medida y actualización y la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
+B. Se impondrá multa del equivalente al valor diario de 750 a 800 unidades de medida y actualización y la clausura temporal conforme a lo establecido en el artículo 634 Bis del presente Capítulo, cuando:
 
 I. El licenciatario acumule dos multas por la misma causa dentro de un ejercicio fiscal.
 
-C. Se sancionará con cancelación de la licencia y/o clausura definitiva por las causas siguientes:
+C. Clausura Definitiva y Cancelación de la Licencia de Funcionamiento, en los supuestos siguientes:
 
-I. Al autorizado que acumule tres sanciones de multa prevista en el Apartado A del presente artículo dentro de un ejercicio fiscal;
+I. Al autorizado que acumule tres sanciones de multa prevista en el apartado A del presente artículo dentro de un ejercicio fiscal;
 
 II. Una persona física o moral haga funcionar un establecimiento mercantil cuyo objeto sea el manifestado en el presente, sin contar con la licencia de funcionamiento respectiva;
 
-III. Al licenciatario que cometa acciones fraudulentas por motivo de las actividades reguladas por las leyes respectivas, previa resolución jurisdiccional que así lo determine;
+III. A la persona licenciataria que cometa acciones fraudulentas por motivo de las actividades reguladas por las leyes respectivas, previa resolución jurisdiccional que así lo determine;
 
-IV. Al licenciatario que sin causa justificada suspenda las operaciones del establecimiento al público por más de treinta días naturales; y
+IV. A la persona licenciataria que sin causa justificada suspenda las operaciones del establecimiento al público por más de treinta días naturales; y
 
-V. Al licenciatario que incumpla con las características de la licencia otorgada.
+V. A la persona licenciataria que incumpla con las características de la licencia otorgada.
 
-###### Artículo 639.
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTÍCULO 639], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Para la aplicación de las sanciones a que se refiere el artículo anterior se tomarán en consideración:
+###### Artículo 634 Quater.
 
-I. Los antecedentes personales y económicos del infractor;
+Para la aplicación de las sanciones a que se refiere la presente sección se tomarán en consideración:
 
-II. La gravedad de la infracción,
+I. Los antecedentes personales y económicos de la persona infractora;
+
+II. La gravedad de la infracción;
 
 III. La reincidencia; y
 
 IV. Las circunstancias de tiempo y lugar en que haya sido cometida la infracción.
 
 Para los efectos de este Capítulo, será considerado como reincidente aquel que cometa dos o más infracciones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 635.
+
+Contra las resoluciones que emitan las autoridades municipales en la aplicación de las disposiciones del presente Capítulo las personas afectadas podrán interponer Recurso Administrativo de Revisión previsto en el artículo 2 y demás relativos y aplicables del Código Fiscal y Presupuestario para el Municipio de Puebla.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 636.
+
+La Unidad de Normatividad y Regulación Comercial solicitará a la Dirección de Ingresos la cancelación del Aviso de Apertura y/o Licencia de Funcionamiento una vez que haya fenecido el término para que la persona afectada impugne la sanción impuesta mediante el recurso de revisión o si esta se confirma por resolución o sentencia que cause estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN VIII. DE LAS FIESTAS TRADICIONALES
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 635], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 637.
+
+Queda prohibida la instalación de puestos temporales semifijos y de cualquier otra naturaleza en la vía pública, con excepción de los casos en que se celebran fiestas tradicionales y de aquellos previstos expresamente en el Capítulo de Comercio Ambulante, Semifijo y Prestadores de Servicios en la Vía Pública del presente Código Reglamentario.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 636], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 638.
+
+En las fiestas tradicionales, únicamente se podrán vender alimentos preparados de los conocidos como antojitos, así como los artículos propios de estas festividades e instalarse juegos y atracciones de feria, con la autorización de la autoridad respectiva y previo el pago de los derechos que correspondan, en términos del presente Código Reglamentario.
+
+###### Artículo 638 Bis.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
+
+###### Artículo 638 Ter.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
+
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 637], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 639.
+
+Se considera como fiesta tradicional la actividad que se realiza en lugares públicos para la celebración de determinados eventos populares, siendo los autorizados los siguientes:
+
+Semana santa (el calvario).
+
+Fecha: La que corresponda de acuerdo al calendario.
+
+Lugar: Calzada de los Fuertes, así como los Fuertes de Loreto y Guadalupe.
+
+Desfile del 5 de mayo.
+
+Fecha 5 de mayo de cada año.
+
+Lugar: El que se designe.
+
+Día de las Madres.
+
+Fecha: 10 de mayo de cada año.
+
+Lugar: Exterior de los panteones.
+
+Corpus Christi.
+
+Fecha: Variable de acuerdo al calendario.
+
+Lugar: El Parián.
+
+El Carmen.
+
+Fecha: 16 de Julio de cada año.
+
+Lugar: Parque del Carmen.
+
+Fiestas Patrias
+
+Fechas: 15 y 16 de septiembre de cada año.
+
+Lugares: Zócalo, Jardín de Analco y Jardín del Carmen.
+
+Todos Santos y Día de Muertos.
+
+Fechas: 1 y 2 de noviembre de cada año.
+
+Lugar: Exterior de los panteones
+
+Guadalupana.
+
+Fechas: 11 y 12 de diciembre de cada año.
+
+Lugar: Paseo Bravo y Seminario Palafoxiana.
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -12133,7 +12397,11 @@ III. La reincidencia, si la hubiere.
 
 ### CAPÍTULO 18. ANUNCIOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
@@ -12651,11 +12919,13 @@ XX. Participar en el reconocimiento de asentamientos humanos y la regularizació
 
 XXI. Proponer a la comisión a través de la/el Secretario los proyectos, estudios técnicos y programas que permitan mejorar los procesos para vigilar, controlar y ordenar el desarrollo urbano municipal
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXII. Revocar o dejar sin efecto las constancias, licencias, permisos, factibilidades, dictámenes, resolutivos y autorizaciones; cuando las mismas contravengan la Ley de Desarrollo Urbano Sustentable del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el PMDUS y los Programas Parciales que se deriven del mismo;
+XXII. Revocar o dejar sin efecto las constancias, factibilidades, dictámenes y resolutivos; cuando las mismas contravengan la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano de Puebla y los Programas Parciales que se deriven del mismo, así como cuando se afecte la salud o el orden público y lo requiera el interés general;
 
-XXIII. Solicitar el uso de la fuerza pública, cuando sea necesario, para hacer cumplir sus determinaciones
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Revocar o dejar sin efecto las licencias, autorizaciones y permisos cuando las mismas contravengan la Ley de Ordenamiento Territorial y Desarrollo Urbano del Estado de Puebla, la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla, el Programa Municipal de Desarrollo Urbano de Puebla y los Programas Parciales que se deriven del mismo; así como cuando se afecte la salud o el orden público y lo requiera el interés general;
 
 XXIV. Intervenir en la prevención, control y solución de los asentamientos humanos irregulares en los términos de la legislación aplicable y de conformidad con el PMDUS, en el marco de los derechos humanos
 
@@ -19947,7 +20217,11 @@ DISPOSICIONES GENERALES
 
 ###### Artículo 1253.
 
-Las disposiciones de este Capítulo tienen por objeto regular la fijación, instalación, distribución, ubicación, modificación, clausura y retiro de toda clase de anuncios, incluyendo los emplazados en mobiliario urbano, en inmuebles de propiedad privada, en inmuebles propiedad del Gobierno, visibles desde la vía pública y en vehículos que porten publicidad, así como la publicidad para cualquier tipo de espectáculo.
+Las disposiciones de este Capítulo tienen por objeto:
+
+I. Garantizar la protección de la imagen del entorno urbano a través de la prevención y control de la contaminación visual en beneficio del interés general.
+
+II. Regular la fijación, instalación, distribución, ubicación, modificación, clausura y retiro de toda clase de anuncios, incluyendo los emplazados en mobiliario urbano, en inmuebles de propiedad privada, en inmuebles propiedad del Municipio, visibles desde la vía pública y en vehículos que porten publicidad, así como la publicidad para cualquier tipo de espectáculo, en vialidades de jurisdicción municipal y zonas adyacentes.
 
 ###### Artículo 1254.
 
@@ -19961,9 +20235,9 @@ I. Agencia: La Agencia de Protección al Ambiente y Desarrollo Sustentable;
 
 II. Anunciante: Persona física o jurídica que utiliza los servicios de publicidad para difundir o publicitar productos, bienes o servicios;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. Anuncio: Toda expresión gráfica, escrita o auditiva que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, electorales, políticas, cívicas, culturales, artesanales, teatrales, del folclor nacional o cualquier tipo de espectáculo;
+III. Anuncio o publicidad: Toda expresión gráfica, escrita o auditiva que señale, promueva, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, industriales, mercantiles, técnicas, electorales, políticas, cívicas, culturales, artesanales, teatrales, del folclore nacional o cualquier tipo de espectáculo que impliquen transformaciones en el paisaje urbano o natural de vialidades de jurisdicción municipal, sus Zonas Adyacentes y de los bienes inmuebles que integran el patrimonio del Municipio y de sus organismos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19981,6 +20255,10 @@ VI. Aviso: La manifestación escrita hecha por el interesado a la Autoridad, don
 
 VII. Ayuntamiento: Al Honorable Ayuntamiento del Municipio Puebla, a través de las Autoridades Administrativas que ejerzan las facultades de aplicación y vigilancia del cumplimiento del presente Capítulo;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII Bis. Área verde urbana: Espacios públicos cubiertos por vegetación, camellones y aquellos cuyos excedentes de lluvia o riego puedan infiltrarse al suelo natural;
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 VIII. Capítulo: El Capítulo de Anuncios del presente Código Reglamentario;
@@ -19997,9 +20275,9 @@ X. Cartelera: Armazón con superficie adecuada para fijar los carteles o anuncio
 
 XI. Centro Comercial o Plaza Comercial: Inmueble que aloja varios locales comerciales y de servicios;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XII. Contaminación Visual: Alteración que impide la contemplación y disfrute armónico de los paisajes natural, rural y urbano del Municipio de Puebla, ocasionando impactos negativos importantes en la percepción visual, por la distorsión o cualquier forma de transformación del entorno natural, histórico y urbano, que deteriore la calidad de vida de las personas;
+XII. Contaminación Visual: La alteración de las cualidades escénicas de la imagen de un paisaje natural o urbano causado por cualquier elemento funcional o simbólico;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20017,9 +20295,9 @@ XV. Dictamen de Factibilidad: Documento realizado por la Agencia, que consiste e
 
 XVI. Dictamen de Protección Civil: Documento emitido por la Unidad Operativa Municipal de Protección Civil en el que se determina si el anuncio y/o estructura cuentan con las medidas de seguridad requeridas en materia de protección civil;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XVII. Dirección de Gestión: La Dirección de Gestión y Desarrollo Urbano Sustentable de la Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable; quien actuará a través de las Autoridades competentes adscritas a esta Dirección;
+XVII. Dirección de Desarrollo Urbano: Dirección competente en materia de Desarrollo Urbano;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20045,17 +20323,17 @@ XXII. Estructura: Elemento de soporte anclado en terreno natural, inmueble o veh
 
 XXIII. Espectáculo Público: Toda función de esparcimiento, sea teatral, deportiva, o de cualquier otra naturaleza semejante, excepto cines, que se verifique en salones, teatros, estadios, carpas, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando el importe del boleto de entrada o de cualquier otro derecho de admisión; quedan incluidas en el concepto de diversión o espectáculo público, las ferias, muestras, exposiciones y eventos similares, si para el acceso se paga o no alguna cantidad;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXIV. Licencia: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soportan o sustentan el anuncio; así como para colocar, fijar, instalar, distribuir, ubicar, modificar y ampliar los anuncios señalados en el artículo 1299 del presente Código Reglamentario;
+XXIV. Licencia: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para llevar a cabo la construcción, instalación, colocación, fijación, modificación, ampliación, retiro, desmantelamiento y, en su caso, la demolición de estructuras que soportan o sustentan el anuncio; así como para colocar, fijar, instalar, distribuir, ubicar, modificar y ampliar los anuncios que impliquen transformaciones en el paisaje urbano o natural de vialidades de jurisdicción municipal, sus Zonas Adyacentes y de los bienes inmuebles propiedad del ayuntamiento, de conformidad con lo dispuesto en el artículo 1299 del presente Código Reglamentario;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XXV. Mantódromo: Estructura propiedad del Ayuntamiento para colocar anuncios en mantas, previa expedición del Permiso por la Agencia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXVI. Mobiliario Urbano: Todos aquellos elementos urbanos complementarios, que sirven de apoyo a la infraestructura y al equipamiento, reforzando así la imagen del Municipio los cuales pueden ser fijos, permanentes, móviles o temporales;
+XXVI. Mobiliario Urbano: Todos aquellos elementos urbanos, que sirven de apoyo a la infraestructura vial y equipamiento urbano, los cuales pueden ser fijos, permanentes, móviles o temporales, que se instalan en el espacio público con fines de prestación de servicios, de ornato o de recreación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20085,17 +20363,17 @@ XXXII. Pendón: Anuncio que exclusivamente se puede colocar en la estructura met
 
 XXXIII. Periódico Oficial: El Periódico Oficial del Estado;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXXIV. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el artículo 1310 del presente Código Reglamentario;
+XXXIV. Permiso: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para fijar, instalar, distribuir, ubicar o modificar los anuncios señalados en el artículo 1310 del presente Código Reglamentario, que impliquen transformaciones en el paisaje urbano o natural de vialidades de jurisdicción municipal, sus Zonas Adyacentes y de los bienes inmuebles que integran el patrimonio del Municipio y de sus organismos;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XXXV. Permiso Publicitario: Acto administrativo mediante el cual la Autoridad Municipal otorga su autorización para colocar publicidad en vehículos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXXVI. Poseedor: Persona física o jurídica que ejerce sobre una cosa un poder de hecho, en la que se pretenda instalar un anuncio y su estructura;
+XXXVI. Poseedor: La persona física o jurídica que ejerce el uso del inmueble, en el que se pretende instalar un Anuncio y su estructura;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20105,17 +20383,17 @@ XXXVII. Presidente Municipal: El Presidente Constitucional del Honorable Ayuntam
 
 XXXVIII. Propietario: Persona física o jurídica que tiene la propiedad jurídica de un bien inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXXVIII Bis. Publicidad sexista: Aquella que presenta hechos acciones, símbolos o expresiones basadas en estereotipos de los roles de género que atribuyen o asocien características denigrantes de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino;
+XXXVIII Bis. Publicidad sexista: hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión, discurso de odio o cualquier otra forma de discriminación;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXXIX. Responsable Solidario: Toda persona física o jurídica que se obliga con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
+XXXIX. Responsable Solidario: El publicista, el anunciante, la agencia de medios, el titular de la marca o producto, o el responsable de un inmueble, que interviene en la instalación de un anuncio;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XL. Secretaría de Gestión: La Secretaría de Gestión Urbana y Obra Pública para el Desarrollo Sustentable;
+XL. Secretaría: La Dependencia competente conforme a sus atribuciones previstas en su Reglamento Interno en materia de gestión y desarrollo urbano;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20141,13 +20419,13 @@ XLIII. Visita de Verificación: La diligencia de carácter administrativo que or
 
 XLIV. Zona de Monumentos: A la Zona descrita en el Capítulo de Construcciones del presente Código Reglamentario; y
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XLV. Zonas Publicitarias: Los Corredores Urbanos CAI (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), en donde la Autoridad correspondiente autorizará la colocación de anuncios.
+XLV. Zonas publicitarias: Zonas de competencia municipal en donde la Autoridad correspondiente autorizará la colocación de anuncios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Los conceptos que se definen en el presente artículo se establecen en forma enunciativa, más no limitativa.
+Los conceptos del presente Capítulo se establecen en forma enunciativa, más no limitativa, y en apego a los establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley de Atención y Prevención de la Contaminación Visual y Auditiva para el Estado de Puebla y demás aplicables a la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
@@ -20179,19 +20457,29 @@ V. Vigilar el cumplimiento y la correcta aplicación del presente Código Reglam
 
 VI. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1254 Ter.
 
-Corresponde a la Agencia:
+Corresponde a la Secretaría:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. La ejecución de planes en materia de anuncios en el Municipio;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Otorgar Licencias, Permisos y/o Permisos Publicitarios en materia de anuncios en el Municipio;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 III. Emitir los Dictámenes de Factibilidad respecto de las solicitudes para Licencias, Permisos y/o Permisos Publicitarios;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IV. Emitir Dictámenes de Factibilidad previos al refrendo de Licencias y/o Permisos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Solicitar y proporcionar a la Tesorería Municipal y demás Autoridades del Ayuntamiento la información necesaria para el cumplimiento de sus funciones;
 
@@ -20199,11 +20487,19 @@ V. Solicitar y proporcionar a la Tesorería Municipal y demás Autoridades del A
 
 VI. Coordinarse con la Unidad Operativa Municipal de Protección Civil, en el ámbito de su competencia, cuando se requieran practicar visitas de inspección o verificación en materia de anuncios, según corresponda;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 VII. Solicitar a los titulares, propietarios, poseedores y/o responsables solidarios la documentación que acredite la vigencia y el cumplimiento de las normas jurídicas aplicables de la Licencia, Permisos y/o Permisos Publicitarios correspondientes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 VIII. La administración del Padrón de Anuncios;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 IX. Establecer los lineamientos para la generación de placas o folios de identificación que serán utilizadas para cada ejercicio fiscal, atendiendo al tipo de anuncios y las especificaciones de diseño, material y contenido que deban observar;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 X. Establecer los lineamientos para la generación de Zonas Publicitarias en el Municipio;
 
@@ -20211,23 +20507,45 @@ X. Establecer los lineamientos para la generación de Zonas Publicitarias en el 
 
 XI. Establecer y difundir las especificaciones que debe tener cada anuncio nuevo, estableciendo, en su caso, períodos de transición hasta uniformar las características de los mismos y cerciorase de que no contengan publicidad sexista, violencia mediática, simbólica o incite cualquier otro tipo de violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XII. Proponer a la Secretaría de Gestión los instrumentos necesarios para coordinar y homologar programas en materia de anuncios con los Municipios conurbanos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XIII. Adoptar las medidas necesarias para el adecuado aprovechamiento de espacios publicitarios, bajo criterios equitativos, de transparencia, legalidad y de igualdad en el acceso a los anunciantes, propietarios, poseedores, y/o titulares de anuncios, garantizando el acceso público, permanente y sin formalidades, a la información sobre la oferta de espacios;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XIV. Integrar y administrar un inventario de infraestructura aprovechable en materia de anuncios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XV. Expedir los criterios para concesionar el uso y aprovechamiento de espacios públicos y la revisión de los existentes;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XVI. Opinar sobre la viabilidad de la suscripción de contratos, convenios o acuerdos que se celebren con personas físicas o jurídicas de derecho público o privado en materia de anuncios;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVII. Aprobar los lineamientos que regirán la colocación de anuncios en mobiliario urbano, en inmuebles de propiedad privada, en inmuebles propiedad del Gobierno, en la vía pública y en vehículos de transporte privado;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 XVIII. Determinar todo tipo de infracciones y las asentadas en las actas de visita de verificación o inspección realizadas en materia de anuncios e imponer las sanciones correspondientes en términos del presente Código Reglamentario, de las leyes y reglamentos aplicables, remitiéndolas a las oficinas ejecutoras de la Tesorería Municipal para su cobro;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XIX. Establecer y dar a conocer los lineamientos sobre el otorgamiento, monto, beneficiarios, vigencia y coberturas de la póliza de seguro de responsabilidad civil y daños causados a terceros; y
 
-XX. Las demás que le confieran otras disposiciones legales o le asigne el Ayuntamiento, el Presidente, el titular de la Secretaría de Gestión y las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XX. Las demás que le confieran otras disposiciones legales o las que reciba por delegación o sean coordinadas en términos de los Convenios que se suscriban con Entidades Públicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+En todo lo no previsto en este Capítulo, se aplicará supletoriamente la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley para la Protección del Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla, la Ley de Atención y Prevención de la Contaminación Visual y Auditiva para el Estado de Puebla, la Ley Orgánica de la Administración Pública del Estado de Puebla, el Código Penal del Estado Libre y Soberano de Puebla, el Código Civil para el Estado Libre y Soberano de Puebla y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20267,9 +20585,25 @@ XI. Utilizar la Licencia, Permiso y/o Permiso Publicitario otorgado por la Agenc
 
 XII. Que el texto, ideas, imágenes, figuras o contenidos de los anuncios, redactados en idioma español o distinto a éste, no inciten a la violencia, promuevan o provoquen conductas ilícitas o faltas administrativas, discriminación de razas, grupos o condición social, contengan mensajes o lenguajes sexistas o discriminatorios por razón de género; que atenten contra los derechos humanos;
 
-XIII. Regularizarse cuando se encuentren fuera del marco legal que los rige, sin perjuicio de las sanciones a que haya lugar; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XIV. Las demás que señalen los ordenamientos aplicables en la materia.
+XIII. Regularizarse cuando se encuentren fuera del marco legal que los rige, sin perjuicio de las sanciones a que haya lugar;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIV. En caso de que concluya la vigencia del Permiso o la autoridad correspondiente determine el retiro, deberán realizarse el retiro del Anuncio o Mobiliario Urbano del que se trate y la limpieza del área en el que se encontraba instalado, dentro de las siguientes setenta y dos horas a la notificación respectiva de la autoridad;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XV. Deberán incorporar el uso de leds para la iluminación de anuncios y comprobar para la obtención de la licencia, permiso y/o permiso publicitario, el nivel de iluminación directa al anuncio, que podrá ser de hasta 600 lúmenes siempre que su reflejo a los automovilistas y peatones no exceda de cincuenta lúmenes, dentro de un horario de las 18:00 a las 06:00 horas del día siguiente.
+
+La iluminación de las pantallas electrónicas hacia los automovilistas y peatones no podrá exceder de 328 lúmenes de medición de intensidad, dentro de un horario de las 18:00 a las 06:00 horas del día siguiente. Los permisionarios; asimismo, deberán otorgar, sin costo, el diez por ciento del tiempo de exhibición al día, para emitir mensajes institucionales en favor de la autoridad de la jurisdicción correspondiente.
+
+A fin de preservar la seguridad de los peatones, usuarios de transporte público, operadores y automovilistas, queda prohibida la exhibición de videos en anuncios auto soportados unipolares, o aquellos contenidos en vallas, tapiales, mobiliario urbano o en cualquier otro tipo de anuncio; los anuncios en pantalla cuyo contenido consista en imágenes fijas, no podrán tener una duración mayor de treinta segundos; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVI. Cumplir con las disposiciones contenidas en este Capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20325,11 +20659,13 @@ VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso
 
 Dicha placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios autosoportados de propaganda en espacios exteriores; III; VI, cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII, X, XI y XII del Artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1257 Bis.
 
-La Agencia contará con un Padrón de Anuncios, el cual tiene por objeto proporcionar a la Autoridad Municipal, publicistas y anunciantes, información completa, confiable y oportuna.
+La Secretaría contará con un Padrón de Anuncios, el cual tiene por objeto proporcionar a la Autoridad Municipal, publicistas y anunciantes, información completa, confiable y oportuna.
+
+El Padrón de Anuncios deberá publicarse en los respectivos sitios oficiales de internet y en portales de transparencia del Ayuntamiento de conformidad con las leyes que rigen la materia.
 
 ###### Artículo 1258.
 
@@ -20387,13 +20723,17 @@ IV. Al iniciarse la visita de verificación los visitadores deberán identificar
 
 V. En toda visita de verificación se levantará acta en la que se harán constar las irregularidades detectadas por los visitadores, relativas a la verificación del cumplimiento de las disposiciones legales aplicables;
 
-VI. Los visitados podrán formular observaciones en el acto de diligencia y ofrecer pruebas en relación a los hechos contenidos en el acta de la visita de verificación, o bien lo podrán hacer por escrito, dentro de los ocho días hábiles siguientes a la fecha en que hubiere levantado el acta de visita de verificación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI. Los visitados podrán formular observaciones en el acto de diligencia y ofrecer pruebas en relación a los hechos contenidos en el acta de la visita de verificación, o bien lo podrán hacer por escrito, dentro de los cinco días hábiles siguientes a la fecha en que hubiere levantado el acta de visita de verificación;
 
 VII. Al cierre de la visita de verificación el visitador requerirá a la persona con quien se entendió la diligencia y a los testigos para firmar el acta correspondiente, en caso de que cualquiera de éstos se negaren a firmar o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, se asentará dicha circunstancia en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma, dándose por concluida la visita de verificación;
 
 VIII. Se dejará copia del acta de la visita de verificación a la persona con quien se entendió la diligencia, en caso de que no se hubiera entendido con alguien a pesar de haber existido citatorio, el acta se pondrá a disposición del titular, propietario, poseedor y/o responsable solidario del anuncio en la Agencia por un término de tres días hábiles contados al día siguiente a la visita de verificación; y
 
-IX. La Agencia con base en los resultados de la visita de verificación, dictará su resolución correspondiente en un término de quince días hábiles posteriores a la fecha en que se haya realizado la visita de verificación, pudiendo dictar medidas tendientes a corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y otorgándoles un plazo de diez días hábiles, posteriores a aquél en que se haya notificado, para la realización de trámites y/o trabajos necesarios para cumplir con las disposiciones legales aplicables. En caso de no cumplir con lo anterior la Agencia procederá a la a la (sic) nulidad, revocación, clausura o retiro del anuncio, según sea el caso.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX. La Secretaría con base en los resultados de la visita de verificación, dictará su resolución correspondiente en un término de quince días hábiles posteriores a la fecha en que se haya realizado la visita de verificación, pudiendo dictar medidas preventivas, de seguridad o correctivas tendientes a subsanar las irregularidades que se hubieren encontrado, considerando el riesgo de desequilibrio ecológico de conformidad con los principios que rigen la más amplia protección al medio ambiente, notificándolas al interesado y otorgándoles un plazo de diez días hábiles, posteriores a aquel en que se haya notificado, para la realización de trámites y/o requerimientos necesarios para cumplir con las disposiciones legales aplicables. En caso de no cumplir con lo anterior, la Secretaría procederá a la nulidad, revocación, clausura o retiro del anuncio, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20427,11 +20767,11 @@ I. Anuncios denominativos:
 
 Los que contengan únicamente el nombre, denominación o razón social de una persona física o jurídica colectiva, el emblema, figura o logotipo con que sea identificada una empresa o establecimiento mercantil o de servicios, siempre y cuando sea instalado en el predio donde se desarrolle su actividad;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 II. Anuncios de propaganda en espacios exteriores:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-Los que se refieren a la difusión de marcas, productos, eventos, espectáculos, bienes, servicios o actividades similares y que promuevan su venta, uso o consumo;
+Los que se refieren a la difusión de marcas, productos, eventos, bienes, servicios o actividades similares y que promuevan su venta, uso o consumo; mismos que deberán destinarse al menos durante un mes al año, al fomento de la protección, conservación y restauración del medio ambiente y el equilibrio ecológico; el respeto y protección de los derechos humanos, y la promoción del patrimonio natural y cultural, así como de las actividades, servicios y destinos turísticos del Municipio. En las licencias, permisos o autorizaciones que se emitan se establecerán los términos y calendarización correspondientes.
 
 III. Anuncios mixtos:
 
@@ -20583,6 +20923,14 @@ Los anuncios no considerados dentro de las especificaciones de instalación cont
 
 Los anuncios impresos tales como volantes, panfletos, trípticos, dípticos y cualesquiera otros similares, repartidos en la vía pública, serán regulados en términos del presente Capítulo, independientemente de lo que señalan los Capítulos de Policía y Gobierno y el relativo a Limpia del presente Código Reglamentario.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 1262 Bis.
+
+Las Zonas Publicitarías que se señalan en el artículo 1254 fracción XLV del Código Reglamentario para el Municipio de Puebla, se componen de las siguientes zonas de competencia municipal en donde la Autoridad correspondiente autorizará la colocación de anuncios.
+
+> <small>[N. DE E. VÉASE TABLA EN LA VIGÉSIMA SECCIÓN DEL P.O. DE 30 DE DICIEMBRE DE 2022, PÁGINAS DE LA 40 A LA 41.]</small>
+
 DE LAS ESPECIFICACIONES TÉCNICAS DE LOS ANUNCIOS
 
 ###### Artículo 1263.
@@ -20617,9 +20965,9 @@ IX. Cuando se trate de centros y plazas comerciales cuyas fachadas sean muros ci
 
 X. Cuando se trate de un mismo anuncio denominativo, se puede instalar en varios vanos y fachadas de un mismo inmueble, siempre y cuando sean iguales entre sí para dar unidad y armonía al edificio, con una distancia entre ellos no menor a 12.00 metros;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XI. Se permitirá la colocación de un anuncio denominativo autosoportado por establecimiento que no esté dentro de un centro o plaza comercial, siempre que el frente del local comercial sea mayor a 15.00 metros, sin invadir vía pública o área verde en su plano virtual. Las dimensiones de las carteleras, no podrán ser mayores a 3.00 metros de longitud por 2.50 metros de altura, y la altura total de la estructura no deberá rebasar los 15 metros medidos del nivel de banqueta a la parte superior de las carteleras; y
+XI. Se permitirá la colocación de un anuncio denominativo autosoportado por establecimiento que no esté dentro de un centro o plaza comercial, siempre que el frente del local comercial sea mayor a 7.00 metros, sin invadir vía pública o área verde urbana en su plano virtual. Las dimensiones de las carteleras, no podrán ser mayores a 3.00 metros de longitud por 2.50 metros de altura, y la altura total de la estructura no deberá rebasar los 15 metros medidos del nivel de banqueta a la parte superior de las carteleras; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20687,11 +21035,19 @@ X. Los anuncios autosoportados de propaganda deberán situarse a una distancia m
 
 La Agencia determinará el lugar específico para la colocación de los anuncios autosoportados de propaganda, previo Dictamen de Protección Civil, y sólo dentro de las Zonas Publicitarias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1265.
 
-Queda estrictamente prohibida la instalación de cualquier tipo de anuncio sobre la azotea de un inmueble.
+Queda estrictamente prohibida la instalación de cualquier tipo de anuncio, en los siguientes:
+
+I. Sobre la azotea de un inmueble que no cuente con dictamen de factibilidad y dictamen de protección civil;
+
+II. Que invadan de cualquier forma las áreas verdes urbanas;
+
+III. Realizar cortes, derribes, maltratos o daños a la vegetación que forma parte del paisaje natural o urbano para la colocación e instalación de cualquier tipo de anuncio ya sea para proporcionarle visibilidad o para permitir maniobras de instalación de anuncios nuevos, mantenimiento o retiros; y
+
+IV. Cualquier otra que prohíban las disposiciones aplicables a la materia.
 
 ###### Artículo 1265 Bis.
 
@@ -20907,9 +21263,9 @@ Para la fijación, instalación y ubicación de los anuncios espectaculares, se 
 
 I. Sus características podrán tener un área de exhibición que podrá exceder como máximo hasta en 1.5 metros las dimensiones de 12.90 metros de longitud por 7.20 metros de ancho y una altura de 25 metros, medida sobre nivel de banqueta a la parte superior del anuncio;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. La distancia mínima entre un anuncio de este tipo y otro igual, deberá estar a una distancia de 200 metros;
+II. La distancia mínima entre un anuncio de este tipo y otro igual, deberá estar a una distancia de 250 metros lineales y radiales de otra estructura instalada;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2007)</small>
 
@@ -21623,11 +21979,11 @@ En los casos en que se requiera de la responsiva de un Director Responsable de O
 
 DE LOS PERMISOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1310.
 
-Se requiere obtener de la Agencia el Permiso correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
+Se requiere obtener de la Secretaría el Permiso correspondiente para fijar, instalar, distribuir, ubicar o modificar los siguientes anuncios:
 
 I. Anuncios adosados con una dimensión de 1.80 hasta 3.60 metros de longitud por 90 centímetros de altura y cuyo peso sea hasta 50 kilogramos;
 
@@ -21655,13 +22011,17 @@ VIII. En marquesinas, con dimensiones de hasta 3.60 metros de longitud por 90 ce
 
 IX. Para repartir anuncios impresos tales como volantes, panfletos, trípticos, dícticos y cualesquiera otros similares repartidos en la vía pública;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X. Anuncios a través de pegotes, bajo los supuestos señalados en el presente Capítulo; y
+X. Anuncios a través de pegotes, bajo los supuestos señalados en el presente Capítulo;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XI. Banderolas con una dimensión de hasta 1.50 metros de altura, cuya carátula no rebase los 60 centímetros de ancho.
+XI. Banderolas con una dimensión de hasta 1.50 metros de altura, cuya carátula no rebase los 60 centímetros de ancho; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XII. Publicidad en fuentes fijas mediante perifoneo y cualquier otra forma de comunicación fonética, respetando los límites máximos permisibles señalados en la NOM-081-SEMARNAT-1994 y el Acuerdo por el que se modifica su numeral 5.4; así como cualquier otra aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -21941,11 +22301,17 @@ VIII. Instalar anuncios que invadan las ventanillas, medallón transparente, el 
 
 IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública;
 
-XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XI. Instalar anuncios con movimiento al interior o exterior del vehículo; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XII. Generar ruido mediante cualquier fuente emisora con la que se oferte o anuncie mediante perifoneo en vehículo, algún tipo de producto, bien o servicio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -22037,15 +22403,15 @@ La resolución respectiva podrá ser recurrida a través del recurso de inconfor
 
 Cuando los anunciantes, propietarios, poseedores, titulares y/o responsables solidarios de los anuncios, se opongan u obstaculicen el ejercicio de las facultades que tienen las Autoridades consignadas en el presente Capítulo, estas últimas podrán en forma indistinta:
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a) Imponer una multa del equivalente al valor diario de 30 hasta 1,000 unidades de medida y actualización al momento de determinarla;
+a) Imponer una multa del equivalente al valor diario de 20 hasta 20000 el valor diario de la Unidad de Medida y actualización al momento de determinarla;
 
 b) Solicitar el auxilio de la fuerza pública que permita la ejecución de la diligencia correspondiente; y
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-c) Imponer arresto hasta por treinta y seis horas, que será ejecutado por el Juez Calificador en términos de lo que dispone el Capítulo 9 del presente Código; pudiendo la Agencia requerir el auxilio de la Fuerza Pública.
+c) Imponer arresto hasta por treinta y seis horas, que será ejecutado por el Juez Calificador en términos de lo que dispone el Capítulo 9 del presente Código; pudiendo la Secretaría requerir el auxilio de la Fuerza Pública.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -22093,19 +22459,19 @@ III. Se aplicarán sin perjuicio de la responsabilidad civil o penal que pudiera
 
 DE LAS SANCIONES Y DE LOS MEDIOS DE DEFENSA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1336.
 
-La aplicación del presente apartado, estará a cargo de la Agencia.
+La aplicación del presente apartado, estará a cargo de la Secretaría.
 
-Serán responsables solidarios los servidores públicos que otorguen cualquier tipo de Licencia, Permiso y/o Permiso Publicitario vulnerando las disposiciones que rigen los anuncios o que cualquier forma, por acción u omisión contribuyan a evadir las disposiciones que rigen la materia de anuncios.
+Serán responsables solidarios los servidores públicos que otorguen cualquier tipo de Licencia, Permiso y/o Permiso Publicitario vulnerando las disposiciones que rigen los anuncios o que cualquier forma, por acción u omisión contribuyan a evadir las disposiciones que rigen la materia de anuncios. Mismos que serán sancionados de conformidad a lo previsto en la Ley General de Responsabilidades Administrativas y demás disposiciones legales o administrativas que correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1336 Bis.
 
-En el caso de que el retiro de un anuncio sea efectuado por la Autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de tres meses contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+En el caso de que el retiro de un anuncio sea efectuado por la Autoridad, el material que resulte quedará bajo resguardo de la misma en el lugar que para el efecto se destine, hasta por un plazo de treinta días naturales contados a partir de la fecha en que se realice el retiro, a cuyo vencimiento se estará a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -22119,9 +22485,11 @@ b) Efectuar el pago de la(s) multa(s) impuesta(s), y los gastos erogados por el 
 
 c) Realizar el pago por el servicio de almacenaje, en los términos establecidos en el Código Fiscal y Presupuestario para el Municipio de Puebla, vigente al momento de determinar los conceptos de ingresos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1337.
 
-Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, permiso o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo.
+Para la imposición de las sanciones se tomará en cuenta la gravedad de la infracción cometida, la reincidencia del infractor, los costos de inversión del anuncio, los daños o perjuicios causados a terceros, el grado de afectación al interés público, el incumplimiento de las condiciones fijadas en la licencia, permiso o permiso publicitario, según sea el caso, el ocultamiento deliberado de la infracción y las circunstancias en que ésta se haya llevado a cabo, asimismo así como la degradación del medio ambiente de acuerdo con el criterio de precaución.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -22133,29 +22501,19 @@ La contravención a las disposiciones de este Capítulo, se sancionarán de la s
 
 I. Se aplicará amonestación con apercibimiento a los titulares de los permisos publicitarios, por violaciones a los artículos del 1281 al 1294;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. Multa del equivalente al valor diario de 30 a 100 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1263, 1266, 1267 fracciones I a V, VII y VIII; 1272, 1277, 1278 fracciones I a VI y 1295;
+II. Las contravenciones a las disposiciones de este capítulo se sancionarán con multa del equivalente a la cantidad de 20 hasta 20,000 veces el valor de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-III. Multa del equivalente al valor diario de 30 a 300 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1255, 1271, 1299 fracción VIII, 1308 fracciones VIII y IX, 1309, 1310, 1315 y 1316;
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-IV. Multa del equivalente al valor diario de 30 a 400 unidades de medida y actualización al momento de determinarla, por hacer caso omiso a la amonestación o apercibimiento, en términos de la fracción I de este artículo, así como por la contravención a los artículos 1264 fracciones I, II y V, 1279, 1299 fracciones II a V, 1308 fracciones I a VII, X y XI, 1325 y 1326;
+VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-V. Multa del equivalente al valor diario de 40 a 500 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1317, 1320, 1327 y 1328;
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-VI. Multa del equivalente al valor diario de 150 a 1,200 unidades de medida y actualización al momento de determinarla, por contravención a los artículos 1256 incisos a), b) y d), 1258, 1263 bis, 1264 fracciones III, IV, VI, VII, VIII y IX, 1265, 1269, 1270, 1270 Ter, 1272 Quáter, 1273, 1299 fracciones I, VI, VII, X, XI y XII.
-
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2016)</small>
-
-VII. Multa del equivalente al valor diario de 150 a 1,500 unidades de medida y actualización al momento de determinarla, a los anunciantes, quienes al contratar el espacio, deberán verificar que la empresa publicitaria cumpla con lo dispuesto en el presente Capítulo y que cuenta con Licencia, Permiso y/o Permiso Publicitario, según lo prevea el presente ordenamiento y los demás que le sean aplicables; y a las personas físicas o jurídicas propietarias o poseedoras de los inmuebles y vehículos en los que se instale el anuncio, sin contar éste con la Licencia, Permiso y/o Publicitario correspondiente;
+VII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -27505,6 +27863,10 @@ El particular podrá impugnar los actos administrativos derivados de la aplicaci
 
 AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+DISPOSICIONES GENERALES
+
 ###### Artículo 1688.
 
 El presente Capítulo establece las bases de organización y funcionamiento del Archivo General Municipal del Honorable Ayuntamiento del Municipio de Puebla, el cual es de orden público y de observancia obligatoria en el Honorable Ayuntamiento del Municipio de Puebla.
@@ -28111,13 +28473,15 @@ X. Energía Térmica: Es la capacidad que tiene un cuerpo para producir calor o 
 
 XI. Flora y Fauna Acuáticas: Las especies biológicas y elementos biogenéticos, que tiene como medio de vida temporal o permanente, las aguas de jurisdicción municipal;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
-
-XII. Autorizar podas, derribos y despuntes de árboles, observando lo dispuesto en el presente Capítulo y los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
+XII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 XIII. Gestión Ambiental: Es la planeación, instrumentación y aplicación de la política ambiental, tendiente a lograr el ordenamiento racional del ambiente, a través de acciones gubernamentales y no gubernamentales;
 
 XIV. Informe Preventivo: Documento mediante el cual el promotor de un proyecto ofrece a la autoridad información del mismo, con el fin de que esta evalúe el impacto ambiental que se provocaría al ambiente con la ejecución del proyecto;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIV Bis. Intervenciones especializadas: Acciones fitosanitarias de poda, trasplante, nutrición vegetal, tratamientos contra vectores de enfermedades de árboles, palmeras y vegetación;
 
 XV. Jurisdicción: La facultad que tiene la autoridad para aplicar normas sustantivas e instrumentales en el territorio del Municipio;
 
@@ -28127,27 +28491,35 @@ XVII. Ley Estatal: La Ley para la Protección al Ambiente Natural y el Desarroll
 
 XVIII. Ley de Residuos: La Ley General para la Prevención y Gestión Integral de Residuos;
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVIII Bis. Lineamientos Ambientales Municipales: Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales en el Municipio de Puebla;
+
 XIX. NOM: Las Normas oficiales mexicanas, que son el conjunto de reglas científicas o tecnológicas emitidas conforme la Ley General de Metrología y Normalización, que establezcan los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades o uso y destino de bienes, que causen o puedan causar desequilibrio ecológico o daño al ambiente y demás que uniformen principios, criterios, políticas y estrategias en la materia. Las normas oficiales mexicanas determinarán los parámetros dentro de los cuales se garanticen las condiciones necesarias para el bienestar de la población y para asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente;
 
 XX. Olor: Es la sensación producida en el sentido del olfato, originada por la emisión de partículas de cuerpo sólido, líquido o gaseoso;
 
 XXI. OOSL: Organismo Operador del Servicio de Limpia;
 
-XXII. Parque municipal: Son aquellas áreas naturales o inducidas, protegidas de uso público, ubicadas dentro de los límites del Municipio, que por su función ecológica, valores artísticos o históricos se consideren de interés municipal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXII. Parque municipal: Son aquellas áreas naturales o inducidas, protegidas de uso público, ubicadas dentro de los límites del Municipio, que, por su función ecológica, social, de salud y valores artísticos o históricos se consideran de interés municipal;
 
 XXIII. Planeación Ambiental: las acciones sistematizadas que fijan prioridades para elegir alternativas, establecer objetivos y metas que permitan controlar y evaluar los procedimientos encaminados a la conservación, protección, restauración, preservación y regeneración del ambiente, así como la relación existente entre la flora y la fauna con su entorno;
 
 XXIV. Política ambiental: El conjunto de criterios y acciones establecidos por el H. Ayuntamiento, en base a estudios técnicos y científicos, sociales y económicos, que permitan orientar las actividades públicas y privadas hacia la utilización, regeneración y conservación racional y sustentable de los recursos naturales con que cuenta el Municipio fomentando el equilibrio y protección ambiental;
 
-XXV. Reforestar: Repoblar un terreno con plantas forestales y ornamentales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXV. Reforestación: También conocida como siembra de árboles, es un conjunto de actividades que comprende la planeación, la operación, el control y la supervisión de todos los procesos involucrados en la plantación de árboles;
 
 XXVI. Residuos comerciales: Son los que se generan en /o (sic) por las actividades comerciales o de servicios;
 
 XXVII. Ruido: Es todo sonido que molesta o perjudica a las personas;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXVIII. Secretaría: Secretaría de Desarrollo Urbano y Sustentabilidad del Honorable Ayuntamiento del Municipio de Puebla;
+XXVIII. Secretaría: La Dependencia municipal competente conforme a sus atribuciones previstas en su Reglamento Interno en materia de gestión, desarrollo urbano y/o medio ambiente;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -28157,7 +28529,9 @@ XXX. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
 XXXI. SOAPAP: Sistema Operador de Agua Potable y Alcantarillado del Municipio de Puebla; y
 
-XXXII. Zonas de Preservación Ecológica de los Centros de Población: Las Áreas Naturales Protegidas de jurisdicción municipal, cuyo fin es preservar ambientes naturales, salvaguardar la diversidad genética de las especies silvestres, lograr el aprovechamiento racional de los recursos naturales y mejorar la calidad del ambiente en los centros de población y sus alrededores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXXII. Zonas de Preservación Ecológica de los Centros de Población: Las áreas naturales protegidas de jurisdicción municipal que se integran por parques urbanos, jardines públicos, corredores, andadores y en general las demás áreas análogas en las que existan ecosistemas; a fin de salvaguardar la diversidad genética de las especies silvestres y lograr el aprovechamiento racional de los recursos naturales indispensables para el bienestar de la población.
 
 ACCIONES CONCURRENTES DEL MUNICIPIO CON LA FEDERACIÓN, EL ESTADO Y
 
@@ -28227,17 +28601,19 @@ XII. Coadyuvar en coordinación con las autoridades Federales y Estatales y con 
 
 XIII. Promover la participación en materia ambiental de las organizaciones sociales, civiles y empresariales; instituciones académicas y ciudadanos interesados; y
 
-XIV. Las demás que se establezcan en el presente Capítulo u otros ordenamientos legales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+XIV. En todo lo no previsto en el presente Capítulo, serán aplicables supletoriamente la Ley, Ley Estatal, la Ley Orgánica de la Administración Pública del Estado de Puebla, el Código Penal del Estado Libre y Soberano de Puebla, el Código Civil para el Estado Libre y Soberano de Puebla, el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla; y demás aplicables en materia de contaminación ambiental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1718.
 
-Son atribuciones del Director General de la Agencia las siguientes:
+Son atribuciones de la persona Titular de la Secretaría las siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Agencia;
+I. Coordinar y evaluar las actividades de las unidades administrativas adscritas a la Secretaría;
 
 II. Coordinar y ejecutar las acciones derivadas de los acuerdos y convenios en los que el H. Ayuntamiento sea parte;
 
@@ -28255,59 +28631,123 @@ VII. Promover en representación del C. Presidente Municipal, convenios y progra
 
 VIII. Aplicar los instrumentos de la política ambiental previstos en este Capítulo, para conservar y restaurar el equilibrio ecológico en el ámbito de su competencia;
 
-IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación ambiental;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X. Coordinar la participación de las dependencias y entidades de la administración pública municipal en las acciones de educación y promoción ambiental, de prevención y control de la contaminación, conservación, protección y restauración del ambiente en el territorio municipal, así como celebrar con éstas y los sectores social, académico y privado, los acuerdos que sean necesarios con el propósito de dar cumplimiento al presente Capítulo y desarrollar técnicas, ecotécnias y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciando el aprovechamiento sustentable de los recursos naturales;
+IX. Convenir con los productores y grupos empresariales el establecimiento de procesos voluntarios de autorregulación ambiental, conforme a la ley aplicable y los Objetivos de Desarrollo Sostenible;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+X. Coordinar la participación de las Dependencias y Entidades de la administración pública municipal en las acciones de educación y promoción ambiental, de prevención y control de la contaminación, conservación, protección y restauración del ambiente en el territorio municipal, así como celebrar con éstas y los sectores social, académico y privado, los acuerdos que sean necesarios con el propósito de dar cumplimiento al presente Capítulo y desarrollar técnicas, ecotecnias y procedimientos que permitan monitorear, diagnosticar, prevenir, controlar y abatir el deterioro ambiental, propiciando el aprovechamiento sustentable de los recursos naturales;
 
 XI. Promover la celebración convenios de coordinación, concertación y colaboración con los gobiernos Federal, Estatal y de distintos Municipios conurbados, así como con la sociedad en general, para la realización conjunta y coordinada de acciones de protección ambiental, así como en asuntos que afecten el equilibrio ecológico, el ambiente y la salud en general en el Municipio;
 
-XII. Autorizar podas, derribos y despuntes de árboles, observando lo dispuesto en el presente Capítulo;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XIII. Imponer las sanciones administrativas, medidas preventivas, correctivas y de seguridad correspondientes, por infracciones al presente ordenamiento;
+XII. Emitir las licencias para podas, derribos y trasplante de árboles, observando lo dispuesto en el presente Capítulo y los Lineamientos Ambientales Municipales y revocar aquellas que hayan sido otorgadas en contravención a estas disposiciones; así como ordenar la implementación de intervenciones especializadas a los árboles, palmeras y vegetación que lo requiera;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIII. Imponer las sanciones administrativas, medidas preventivas, correctivas y de seguridad correspondientes, por infracciones al presente ordenamiento o en su caso solicitar a las autoridades competentes la aplicación de medidas de seguridad y/o sanciones cuando por obras o actividades se transgredan las disposiciones en materia ambiental;
 
 XIV. Otorgar y revocar los permisos, licencias y las autorizaciones establecidas en el presente Capítulo que sean de su competencia;
 
 XV. Clausurar o suspender las obras o actividades y, en su caso, solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando transgredan las disposiciones de este Capítulo y demás aplicables;
 
-XVI. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria de conformidad con este Capítulo; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XVII. Las demás que le confieren este Capítulo y otras leyes, así como las que se deriven de los instrumentos de coordinación celebrados.
+XVI. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria de conformidad con este Capítulo;
 
-DE LA COMISIÓN DE ECOLOGÍA Y MEDIO AMBIENTE
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVII. Emitir o validar los dictámenes técnicos sobre el estado fitosanitario de la vegetación y arbolado, que servirán para:
+
+a) La emisión de licencias de poda, derribo y trasplante de árboles;
+
+b) La determinación de infracciones y sanciones por podas y derribos sin licencia, dentro de los procedimientos administrativos substanciados por la Secretaría;
+
+c) La determinación de sanciones por daños a la vegetación ubicada en espacio público derivado de los procedimientos substanciados por la Sindicatura Municipal; y
+
+d) La determinación de acciones para el cuidado y mantenimiento de la vegetación y árboles existentes en el espacio público de la propia Secretaría y las realizadas por la Secretaría de Servicios Públicos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XVIII. Conservar, administrar y mantener los viveros municipales, los que deberán producir vegetación que sea preferentemente de germoplasma local y especies nativas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XIX. Coordinarse con el OOSL en la elaboración e implementación de programas para la prevención y gestión integral de los residuos sólidos urbanos;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XX. Proponer al Ayuntamiento el establecimiento, regulación y administración de las zonas de preservación ecológica municipal de los centros de población;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXI. Emitir los criterios técnicos que deban observarse en la ejecución de acciones para conservar y mantener las especies arbóreas existentes tanto en el espacio público urbano, como son áreas verdes, parques, jardines, camellones, rotondas, glorietas, así como en las zonas de preservación ecológica de jurisdicción municipal; además de, así como imponer las medidas de protección, administración y vigilancia pertinentes.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXII. Promover que las acciones de poda, derribo o trasplante de árboles en áreas privadas, se realicen por arboristas urbanos acreditados e impulsar la capacitación especializada de las personas encargadas del mantenimiento, cuidado, poda, trasplante y derribo de árboles en el espacio público municipal;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Implementar acciones en coordinación con la Dirección Municipal de Protección Civil, para controlar contingencias ambientales y emergencias ecológicas en forma independiente o en coordinación con las Autoridades Estatales o Federales competentes cuando fuese necesario, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Promover en representación de la persona Titular de la Presidencia Municipal convenios, acuerdos y demás instrumentos jurídicos con las autoridades federales, estatales y municipales competentes, para la planeación, programación, presupuestación, administración, extracción, explotación, uso, aprovechamiento, preservación del agua y recarga de acuíferos, prestación del servicio público de agua potable, agua tratada, drenaje, alcantarillado, saneamiento, disposición de aguas residuales y reúso, en el área de cobertura que en éstos se señale, así como las demás relacionadas con los recursos hídricos y la red de infraestructura hidráulica en el Municipio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXV. Las demás que le confieren este Capítulo y otras leyes, así como las que se deriven de los instrumentos de coordinación celebrados.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+DE LA COMISIÓN COMPETENTE EN MATERIA DE DESARROLLO URBANO, GESTIÓN Y MEDIO AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1719.
 
-La Comisión de Ecología del Honorable Ayuntamiento, además de estar integrada por los regidores que apruebe H. Ayuntamiento, se complementará por los siguientes vocales:
+La Comisión competente en materia de Desarrollo Urbano, Gestión y Medio Ambiente del Honorable Ayuntamiento, además de estar integrada por los regidores que apruebe el H. Ayuntamiento, se complementará por los siguientes titulares de la administración pública municipal, así como representantes de la sociedad civil:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. El Secretario de Desarrollo Urbano y Sustentabilidad;
+I. La persona titular de la Secretaría en materia de Gestión y Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II. El Director de Medio Ambiente;
+II. La persona titular de la Secretaría en materia de Medio Ambiente;
 
-III. El director del OOSL;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. La persona titular de la Coordinación General del OOSL;
 
 IV. Un representante del SOAPAP;
 
-V. El presidente del Consejo Ciudadano de Ecología, que pertenece al Consejo de Participación Ciudadana del Municipio; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. El presidente del Consejo de Participación Ciudadana del Municipio en materia de Ecología y Medio Ambiente; y
 
 VI. Siete representantes de organizaciones civiles, privadas o instituciones educativas.
 
-Los vocales tendrán derecho solamente a voz. Cada uno de los vocales contará con un suplente. La designación de los vocales de la comisión, será hecha por el H. Ayuntamiento en sesión de Cabildo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Los Trabajos de la Comisión se realizarán con base a lo establecido en la Ley Orgánica Municipal y en el Capítulo 5 del presente Código Reglamentario, con excepción de lo dispuesto en el artículo 103 de la (sic) citado Código, toda vez que la reunión de esta Comisión será válida si asisten la mayoría de los integrantes con derecho a voto.
+La integración, instalación y operación de la Comisión Permanente en el marco de sus actividades como órgano colegiado por Regidores se realizarán conforme a lo establecido en el Reglamento Interior de Cabildo y Comisiones del Honorable Ayuntamiento del Municipio de Puebla.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Cuando el trabajo de la Comisión sea de manera colaborativa y ampliada con la integración de titulares de Dependencias y Entidades de la administración pública municipal y representación social con el fin de dar cumplimiento a los fines previstos en los artículos 1720, 1721, 1722 y 1723 será conforme a lo previsto en el Acuerdo que se emita por esta Comisión, mismo que se actualizará en cada inicio de gestión, en correspondencia con la estructura orgánica de administración pública municipal centralizada y descentralizada.
 
 ###### Artículo 1720.
 
 La Comisión tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Coadyuvar con la Secretaría de Gestión para estudiar y en su caso proponer, procedimientos, reformas o adiciones al presente Capítulo tendientes a mejorar la política ambiental municipal;
+I. Coadyuvar con la Secretaría para estudiar y en su caso proponer, procedimientos, reformas o adiciones al presente Capítulo tendientes a mejorar la política ambiental municipal;
 
 II. Colaborar en la determinación y actualización del diagnóstico sobre la problemática ambiental del Municipio;
 
@@ -28339,7 +28779,9 @@ I. Toda persona tiene derecho a disfrutar de un ambiente adecuado para el desarr
 
 II. Los que realicen obras o actividades, que afecten o puedan afectar directa o indirectamente el ambiente y la salud de la población, están obligados a evitar, prevenir, minimizar y reparar los daños que causen, así como a garantizar y asumir los costos que dicha afectación implique;
 
-III. Se incentivaran las obras o actividades que tengan por objeto proteger el ambiente natural y la salud de los habitantes manejado (sic) de manera sustentable los recursos naturales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Se incentivarán las obras o actividades que tengan por objeto proteger el ambiente natural y la salud de la población y aprovechen de manera sustentable los recursos naturales;
 
 IV. Corresponde a las autoridades como a los ciudadanos en general, la protección de los ecosistemas, así como la prevención y corrección de los desequilibrios que en ellos se pudieran presentar, con el fin de preservar, restaurar y mejorar las condiciones presentes en el ambiente;
 
@@ -28363,9 +28805,11 @@ XII. El Ayuntamiento estará facultado para implementar programas municipales qu
 
 DE LA PLANEACIÓN AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1722.
 
-La planeación ambiental se realizará con las siguientes reglas:
+El proceso de planeación ambiental observará los criterios del Sistema de Planeación Democrática, por lo que como mínimo se realizará bajo las siguientes reglas:
 
 I. La Comisión de Ecología y Medio Ambiente que establezca el Ayuntamiento, será la responsable de coordinar los trabajos para la elaboración del Plan de Gestión Ambiental del Municipio;
 
@@ -28377,9 +28821,11 @@ IV. Una vez realizado el diagnóstico correspondiente, se establecerán cuales s
 
 V. Una vez revisado el proyecto del plan por la Comisión de Ecología y Medio Ambiente, esta lo enviará al H. Ayuntamiento, para que en sesión de cabildo se apruebe, sujetándose al procedimiento del Capítulo 5 de este Código Reglamentario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1723.
 
-En la elaboración del Plan de Gestión Ambiental deberá (sic) considerase los siguientes principios:
+En la elaboración del Plan de Gestión Ambiental se deberán considerar los siguientes principios:
 
 I. Compatibilizar la ejecución de actividades productivas con la conservación del entorno ecológico;
 
@@ -28389,11 +28835,21 @@ III. Determinar las áreas críticas con problemáticas asociadas a contaminaci�
 
 IV. Realizar estudios para determinar patrones de distribución y de abundancia de fauna y flora silvestres;
 
-V. Investigar el efecto de la actividad humana sobre poblaciones de especies de flora y fauna;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+V. Realizar estudios de vulnerabilidades de las poblaciones de especies de flora y fauna;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 VI. Estudiar la forma de desarrollar y evaluar métodos para conocer y reestablecer la funcionalidad ecológica de un sistema biótico; y
 
-VII. La planeación se realizará por un equipo interdisciplinario.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII. La planeación se realizará por un equipo interdisciplinario; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. El proyecto deberá someterse a la opinión de las Dependencias y Entidades municipales, el sector académico, privado y ciudadanía en general.
 
 ###### Artículo 1724.
 
@@ -28443,11 +28899,11 @@ X. El Programa de Ordenamiento Ecológico.
 
 El plan de Gestión Ambiental tendrá la vigencia que apruebe el H. Ayuntamiento, y podrá ser modificado o adicionado, siempre y cuando se cumpla con lo dispuesto en los artículos 1722, 1723 y 1724 del presente Capítulo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1726.
 
-El Honorable Ayuntamiento, mediante la Comisión de Ecología y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del Plan de Gestión Ambiental, para este fin la Secretaría presentará un informe semestral de los avances.
+El Honorable Ayuntamiento, a través de la Comisión de Gestión, Desarrollo Urbano y Medio Ambiente, dará seguimiento y evaluará los avances en la aplicación del Plan de Gestión Ambiental, para este fin la Secretaría presentará un informe semestral de los avances.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -28607,35 +29063,63 @@ Las construcciones, fraccionamientos, desarrollos habitacionales y viviendas en 
 
 El H. Ayuntamiento se reserva el derecho de establecer condiciones particulares para la realización de cada proyecto, siempre y cuando los mismos no ocasionen afectaciones irreversibles al medio ambiente.
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-En los proyectos de obras públicas se deberá prevalecer la conservación de los elementos arbóreos existentes en el área a intervenir, los cuales deberán integrarse al proyecto, respetando sus características físicas y estado fitosanitario. Cuando en la ejecución de este tipo de obras se requiera la poda, derribo o trasplante de un árbol, se deberá obtener el dictamen favorable emitido por la autoridad municipal competente en materia ecológica y en su realización, se observarán las disposiciones técnicas de los Lineamientos Ambientales Municipales y el presente Capítulo, además desde el inicio de la obra, se deberá colocar en lugar visible un letrero con dimensiones mínimas de 3 x 2 metros que contenga el número y fecha de la resolución de la evaluación del impacto ambiental, las medidas de mitigación y la reparación del daño ambiental emitidas por la autoridad competente.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+###### Artículo 1740 Bis.
+
+En los proyectos de obras públicas deberá prevalecer la conservación de los elementos arbóreos existentes en el área a intervenir, los cuales deberán integrarse al proyecto, respetando sus características físicas y estado fitosanitario, cuya ejecución se realice sin perjuicio de lo señalado en la resolución de Manifestación de Impacto Ambiental.
+
+Cuando en la ejecución de obras públicas y privadas se requiera la poda, derribo o trasplante de un árbol, se deberá obtener previo a la intervención del árbol, el dictamen favorable y la autorización emitidos por la autoridad municipal competente en materia ecológica y en la realización, se observarán las disposiciones técnicas de los Lineamientos Ambientales Municipales y el presente Capítulo, además se deberá colocar en el sitio un aviso con dimensiones mínimas de 1 x 1.50 metros que contenga los datos de la licencia de poda, derribo o trasplante emitida por la autoridad competente.
+
+En todos los casos de derribo de árboles en espacio público, la Secretaría deberá colocar en el sitio, un aviso con dimensiones mínimas de 1 x 1.50 metros que contenga los datos de la autorización de derribo emitida por la autoridad competente, por lo menos 2 días antes, debiendo retirarla 2 días después de ejecutada la intervención.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1741.
 
-El Honorable Ayuntamiento, a través de la Secretaría, autorizará y supervisará el derribo o poda de árboles. Para los efectos anteriores deberá sujetarse a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles; comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales, en el Municipio de Puebla.
+La Secretaría, previa solicitud de la parte interesada, emitirá las licencias para poda, derribo o trasplante de árboles con base en el dictamen técnico que especifique las condiciones de las especies arbóreas a intervenir, así como la manera en que se debe restituir la vegetación perdida.
 
-Para los efectos anteriores, la Secretaría, será la encargada de llevar a cabo una visita de inspección en el sitio donde se ubiquen el o los árboles y de emitir el dictamen técnico que especifique las condiciones en que se encuentran, así como la conclusión que permita determinar la viabilidad de llevar a cabo la poda, el trasplante o derribo de los árboles, y en su caso, la recuperación de la vegetación perdida, previa solicitud y pago correspondiente de la parte interesada.
+La solicitud para licencia de poda, derribo y trasplante de árboles en espacio público o propiedad privada podrá realizarse por los siguientes medios:
 
-Para la recuperación de cobertura vegetal a la que se refiere este artículo, la Secretaría determinará la especie, considerándose el impacto al ambiente de la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida.
+I. Formato entregado físicamente o enviado por correo electrónico, el cual deberá estar disponible para su descarga en la página oficial del Ayuntamiento y que deberá contener:
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+a) Nombre y datos de contacto del solicitante; y
+
+b) Ubicación del árbol a intervenir (calle, colonia y referencias).
+
+II. Mediante oficio debidamente notificado y emitido por las Dependencias y Entidades de los tres órdenes de gobierno.
+
+III. Mediante publicaciones en redes sociales, a través de la Plataforma 072 o vía mensajería instantánea al número telefónico autorizado, enviando el formato de solicitud; y
+
+VI. Únicamente en el caso de solicitar intervención de árbol por obra civil y/o ampliación, se deberá presentar:
+
+a) Factibilidad de Uso de Suelo, expedida por la autoridad competente en materia de Desarrollo Urbano;
+
+b) Licencia de Construcción expedida por la autoridad competente en materia de Desarrollo Urbano, con planos anexos; y
+
+c) Resolución de la Manifestación de Impacto Ambiental emitido por la autoridad competente.
+
+En caso de que la solicitud contenga información errónea o incompleta sobre la ubicación del árbol, se hará de conocimiento al interesado, para que en el término de tres días hábiles proporcione la dirección correcta y en caso de no hacerlo, la solicitud se desechará por improcedente.
+
+Para la restitución de cobertura vegetal a la que se refiere este artículo, la Secretaría determinará la especie, considerándose el impacto al ambiente en la zona, así como, las condiciones económicas del solicitante, no pudiendo ser menor a la masa vegetal de la cobertura perdida, sujetándose a los Lineamientos Ambientales Municipales.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1741 Bis.
 
-En caso de ser procedente el derribo o poda de un árbol en áreas o espacios públicos, éste será realizado por el personal de la Dirección de Servicios Públicos.
+Todas las podas, derribos y trasplante de árboles, dependiendo el número de árboles a intervenir, deberán ejecutarse por uno o más arboristas urbanos, quienes deberán observar las disposiciones técnicas ambientales y de seguridad señaladas en el Dictamen técnico respectivo, los Lineamientos Ambientales Municipales y el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+Las podas y derribos de árboles en calles, camellones, parques, jardines y demás áreas verdes municipales se realizarán por la unidad administrativa competente en Servicios Públicos, previa autorización de la Secretaría, misma que atenderá los casos en los que se requieran intervenciones especializadas.
 
-Si la tala se hace en propiedad particular ésta deberá de ser a cargo del propietario o poseedor del inmueble, debiéndose apegar a los lineamientos marcados en el dictamen técnico, realizado por la Secretaría; y en el caso de que sea realizado por personal de la Dirección de Servicios Públicos, su costo será el que contemple la Ley de Ingresos.
+La Secretaría podrá autorizar a las personas físicas o morales a que realicen las intervenciones de árboles en vía pública, cuando lo soliciten por así convenir a sus intereses, manifestando que lo realizarán a su cuenta y cargo, siempre y cuando se ejecuten por arboristas acreditados y observando los Lineamientos Ambientales Municipales.
 
-Cuando se autorice lo señalado en el párrafo anterior, el particular a quien se le prestó el servicio, tiene la obligación de en un plazo no mayor a los 30 días naturales, de suministrar y en su caso plantar la cantidad de árboles de acuerdo a lo establecido en el dictamen técnico; estos podrán ser en el mismo lugar u otro de acuerdo a los Lineamientos Ambientales Municipales que establecen los requisitos y especificaciones técnicas para la poda, derribo, trasplante y restitución de árboles comprendidos en la dasonomía urbana, que deberán cumplir las autoridades municipales, dependencias públicas, personas físicas y morales en el Municipio de Puebla.
+Las podas, derribos o trasplantes en propiedad particular serán a cargo y cuenta del propietario o poseedor del inmueble en el que se ubica el árbol a intervenir.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+La Secretaría integrará un Padrón de Arboristas Urbanos e impulsará la capacitación, actualización y acreditación de las personas encargadas de la poda, derribo y trasplante de árboles.
 
-Cuando se trate de emergencia determinada por la Secretaría de Protección Civil y Gestión Integral de Riesgos, la tala podrá ser realizada sin el dictamen correspondiente, debiendo notificar a la Secretaría, a fin de que pueda llevarse a cabo la restitución de la masa vegetal de la cobertura perdida.
+Cuando se trate de un caso de riesgo o emergencia determinada por las autoridades competentes en protección civil, la tala podrá ser realizada sin el dictamen previo, debiendo notificar a la Secretaría a fin de que pueda emitirse el dictamen correspondiente y llevarse a cabo la restitución de la masa vegetal de la cobertura perdida.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -28653,11 +29137,11 @@ d) Derramar cualquier sustancia líquida a excepción de agua, que cause daños 
 
 e) Quemar cualquier tipo de residuos que ponga en riesgo, el tronco y follaje de los árboles y arbustos.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1741 Quáter.
 
-Para los efectos anteriores, toda persona podrá formular la queja o denuncia correspondiente ante la Secretaría de los hechos, actos y omisiones respecto a poda o daños a los árboles dentro del territorio Municipal, la cual se manejará con la debida reserva.
+Toda persona podrá formular denuncia popular ante la Secretaría de los hechos, actos y omisiones, respecto a poda, derribo o daños a los árboles dentro del territorio municipal, la cual se substanciará de conformidad con el artículo 1810 del presente Capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -28697,65 +29181,17 @@ En caso de no encontrarse el presunto infractor se le dejará citatorio para que
 
 Cuando en el lugar objeto de la diligencia, alguno o algunas personas manifiesten oposición y obstaculizan la práctica de la misma, el personal que lleve a cabo la visita de verificación podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Artículo 1741 Sexties (sic).- Las infracciones de carácter administrativo a los preceptos contenidos en el presente Capítulo del Código Reglamentario para el Municipio de Puebla, serán sancionadas con una o más de las siguientes sanciones:
+Artículo 1741 Sexties.- En las autorizaciones de poda o derribo en áreas públicas o privadas se establecerá que la restitución de la masa arbórea perdida, se cubrirá de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+I.- Número determinado de plantas y/o árboles en la cantidad y características que señale la Licencia, los cuales deberán ser entregados a alguno de los viveros municipales; y
 
-I. Multa por el equivalente del valor diario de 5 a 400 unidades de medida y actualización, en el momento a imponer la sanción.
-
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2014)</small>
-
-II. Reparación del daño ocasionado.
-
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2014)</small>
-
-III. En caso grave, arresto administrativo hasta por 36 horas.
-
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
-
-Las sanciones a que se refiere este artículo, se aplicarán sin perjuicio de las sanciones penales que proceda.
-
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
-
-En los casos de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
-
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE MARZO DE 2014)</small>
-
-Para la imposición de las sanciones por infracciones a este Reglamento obligatoriamente se tomará en cuenta:
-
-I. La gravedad de la infracción considerando primordialmente los siguientes criterios:
-
-a) El daño ocasionado al área verde o a la vegetación.
-
-b) La afectación al patrimonio ecológico del Municipio.
-
-c) La degradación ecológica sufrida en el área.
-
-d) La especie de vegetación a la que ocasionó el daño (especies en peligro, tamaño, edad, estado de salud, etc).
-
-II. La condición socioeconómica del infractor en los términos que dispone el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
-
-III. Si existe o no reincidencia.
-
-IV. Si la infracción o infracciones fueron cometidas intencionalmente o imprudencialmente, o si la infracción que se comprometió fue por omisión o por no cumplir alguna orden de autoridad competente.
-
-V. Si el infractor o infractores obtuvieron algún beneficio al cometer las infracciones.
-
-VI. Si el infractor actuó por órdenes o instrucciones de algún superior jerárquico.
-
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+II.- Numerario equivalente al costo de las plantas y/o árboles que se requieren para compensar el impacto ecológico, que se ingresará a las cajas de la Tesorería Municipal en los términos señalados en la Ley de Ingresos del Municipio de Puebla, para el ejercicio fiscal correspondiente.
 
 ###### Artículo 1741 Septies.
 
-En los casos en los cuales el infractor o infractores reparen o subsanen los daños, que no se consideren graves tomando en cuenta la afectación, daño o degradación ocasionados a juicio de la autoridad municipal, esta situación se podrá considerar como atenuante para aplicación de las sanciones.
-
-La autoridad municipal que impone las sanciones, podrá otorgar la acción al infractor o infractores de pagar la multa y/o efectuar labores de reforestación en el Municipio de Puebla; para tales efectos la autoridad municipal deberá señalarle por escrito el área a reforestar, el tipo y especie de vegetación o de flora que deberá sembrar y el número de ellas, así como las técnicas que deberá de utilizar para la siembra, las medidas que tomará para proteger las áreas reforestadas así como el término para su cumplimiento.
-
-Lo anterior será procedente siempre y cuando se garanticen plenamente las obligaciones que deberá de cumplir el infractor, y que la autoridad municipal justifique plenamente la determinación que asumió, incluso tomando en cuenta la condición socioeconómica del infractor.
-
-Las sanciones de carácter pecuniarias impuestas al infractor y que representen una cantidad determinada de dinero tendrán el carácter de créditos fiscales y podrán ser exigibles mediante el ejercicio de la facultad económica coativa (sic).
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -28793,11 +29229,11 @@ III. Que la población del Municipio conozca y comprenda los principales problem
 
 IV. Crear conciencia ambiental y ecológica en la población para impulsar la participación de manera conjunta con las autoridades en la solución de los problemas ambientales de su localidad; así como denunciar a las personas físicas o morales, públicas o privadas, que ocasionen alteraciones ambientales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1745.
 
-Para los fines señalados en el artículo anterior, el H. Ayuntamiento, a través de la Comisión de Desarrollo Urbano y Medio Ambiente, en coordinación con la Comisión de Educación, Ciencia y Tecnología propiciará:
+Para los fines señalados en el artículo anterior, el H. Ayuntamiento, a través de la Comisión competente en materia de Desarrollo Urbano, Gestión y Medio Ambiente, en coordinación con la Comisión de Educación, propiciará:
 
 I. La celebración de acuerdos de coordinación con el Gobierno del Estado para que en el Municipio se desarrollen políticas educativas, de difusión y propaganda, a través de los sistemas escolarizados y los medios masivos de comunicación, sobre temas ambientales;
 
@@ -28805,9 +29241,11 @@ II. El desarrollo de programas tendientes a mejorar la calidad del aire, las agu
 
 III. Invitar a las instituciones educativas y de investigación, a los sectores sociales y privado y a los particulares en general, para el logro de estos propósitos de este capítulo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1746.
 
-El H. Ayuntamiento promoverá por si mismo o con el apoyo de los gobiernos federal y estatal, el fomento a investigaciones científicas y promoverá programas para desarrollar técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciando el uso racional de recursos naturales.
+El H. Ayuntamiento impulsará las investigaciones científicas y el desarrollo de técnicas y procedimientos que genere el sector académico, los especialistas o investigadores independientes que permitan prevenir, controlar y abatir la contaminación, así como el uso racional de los recursos naturales, propiciando su implementación con la coordinación del sector público y privado, siempre y cuando se celebren instrumentos jurídicos de colaboración para tal fin.
 
 ###### Artículo 1747.
 
@@ -28905,69 +29343,89 @@ Las personas físicas o morales que destinen sus predios a las acciones de prese
 
 El producto o beneficio económico de las actividades realizadas en las Zonas de Preservación Ecológica, se destinarán íntegramente a su manejo y mantenimiento, para contribuir al aumento de la calidad de vida de los habitantes o comunidades, que se encuentren asentados en dichas zonas.
 
-DE LOS PARQUES Y JARDINES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+DE LAS ÁREAS VERDES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1758.
 
-El H. Ayuntamiento asegurará la conversación, restauración, fomento, aprovechamiento, creación y cuidado de las áreas verdes, así como la vegetación en general en el Municipio, incluyendo los bienes municipales de uso común. Para los efectos de este artículo, se entienden por áreas verdes o bienes municipales de uso común:
+El H. Ayuntamiento vigilará que en la planeación e implementación de políticas públicas prevalezca la infraestructura verde con el objetivo de asegurar la creación, conservación, restauración, mantenimiento y cuidado de las áreas verdes en el Municipio, para garantizar que las personas usen y disfruten libremente el espacio público, en el que se incluyen los bienes municipales de uso común. Para los efectos de este artículo el espacio público se clasifica en:
 
-I Jardines;
+I. Áreas Verdes Urbanas (parques, jardines, camellones, glorietas y rotondas);
 
-II Parques;
+II. Plazas y explanadas;
 
-III Plazas;
+III. Espacios Deportivos;
 
-IV Plazuelas;
+IV. Miradores;
 
-V Camellones;
+V. Espacios abiertos en el equipamiento público;
 
-VI Glorietas;
+VI. Vías urbanas; y
 
-VII Eco-calles; y
-
-VIII Parques Urbanos.
+VII. Zonas de preservación ecológica.
 
 ###### Artículo 1759.
 
 No se permitirá depositar residuos sólidos urbanos y desechos de jardinería y forestales en las áreas verdes y lugares de uso común.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría gestionará ante el OOSL lo necesario, a efecto de instalar en el espacio público el mobiliario urbano necesario para que las personas depositen residuos sólidos urbanos de manera adecuada.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1760.
 
-El H. Ayuntamiento podrá otorgar en custodia parques, jardines y parques urbanos, con la finalidad de incentivar la inversión privada en estas áreas.
+El mantenimiento del espacio público en materia de intervención a las áreas verdes queda a cargo de la Secretaría de Servicios Públicos, priorizando la conservación e instalación de infraestructura verde en el Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+La instalación de mobiliario urbano deberá realizarse por la Dependencia en el ámbito de su propia competencia, pero en todo momento deberá sujetarse a las disposiciones señaladas en la Norma Técnica de Diseño e Imagen Urbana.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1761.
 
-Previo acuerdo con la Secretaría, las personas físicas o jurídicas podrán instalar en los camellones, glorietas y demás áreas verdes, anuncios que señalen que la persona física o jurídica que corresponda se hace cargo del mantenimiento del área verde; estos anuncios tendrán las dimensiones y características que determine la Secretaría.
+Las áreas verdes ubicadas en el espacio público, pueden otorgarse para su custodia y mantenimiento a las personas físicas o morales que lo soliciten por escrito a la Secretaría, mediante la celebración de un convenio en el que se establezca como mínimo lo siguiente:
 
-Las personas físicas o morales tendrán como obligación conservar dichas áreas en buenas condiciones, de no cumplir con la anterior obligación la autoridad Municipal procederá a retirar el anuncio colocado.
+I.- En reconocimiento al acto de colaborar con la custodia y mantenimiento de un espacio público del Municipio de Puebla, el Ayuntamiento elaborará e instalará una placa denominativa cuya finalidad es informar de la custodia y mantenimiento del área verde;
+
+II.- La Secretaría realizará la inspección del espacio público solicitado, elaborará una ficha técnica en la que establezca los criterios ecológicos que deberán observarse en las acciones de mantenimiento, debiendo integrar un expediente por cada área verde custodiada;
+
+III.- El custodio deberá llevar a cabo las acciones de cuidado y mantenimiento bajo su cuenta, observando los criterios ecológicos que le señale la Secretaría, reportando a ésta, los incidentes que se susciten durante el tiempo que tenga a su cargo el espacio público y que tengan impacto a las características del mismo; y
+
+IV.- La vigencia del convenio no podrá exceder el ejercicio de la administración municipal.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1762.
 
-La Unidad Administrativa encargada de parques y jardines elaborará un padrón de todas las áreas verdes, incluyendo camellones y glorietas, con dicha información elaborará un plano, toda esta información estará a disposición de la ciudadanía.
+La Secretaría elaborará, actualizará y conservará un Inventario Municipal de las Áreas Verdes ubicadas en el espacio público, clasificadas de acuerdo a su función, administración o escala de servicio y la metodología aprobada.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1763.
 
-Los inmuebles de propiedad municipal que sean destinados como plazas, parques, jardines, camellones, glorietas no podrán cambiar su uso, sino mediante Acuerdo de Cabildo, en el que invariablemente deberá informar la forma en que se reemplazará el área suprimida, por una superficie igual o mayor para destinarla a áreas verdes.
+Los inmuebles de propiedad municipal que sean destinados para áreas verdes o de equipamiento urbano no podrán cambiar su uso, sino mediante Acuerdo de Cabildo, en el que invariablemente se deberá informar cómo se reemplazará el área suprimida, por una superficie igual o mayor con el mismo destino.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
+Los inmuebles establecidos como áreas verdes comunes o de equipamiento urbano recreativo en las autorizaciones de fraccionamientos o conjuntos habitacionales bajo el régimen de propiedad en condominio no podrán cambiar su uso de suelo, sino mediante el cambio de proyecto que autorice la Secretaría, en los términos que establezca la Ley de Fraccionamientos y Acciones Urbanísticas del Estado de Puebla y el Capítulo 17 del presente Código Reglamentario para el Municipio de Puebla y en el que se deberá informar cómo se reemplazará el área suprimida, por una superficie igual o mayor con el mismo destino.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1764.
 
-La Secretaría, se encargará de la forestación y reforestación de los espacios de bienes de uso común, fundamentalmente en:
+La Secretaría, se encargará de la forestación y reforestación de áreas verdes urbanas ubicadas en el espacio público, fundamentalmente en:
 
-I. Vías públicas y plazas;
+I. Los camellones, glorietas, rotondas ubicadas en las vialidades de jurisdicción municipal;
 
-II. Parques y Jardines;
+II. Los parques, jardines y áreas verdes municipales ubicadas en plazas y espacios deportivos;
 
-III. Camellones y glorietas; y
+III. Los camellones, glorietas y rotondas ubicadas en las vialidades de jurisdicción estatal o federal, cuando exista acuerdo de colaboración correspondiente; y
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+IV. Los demás lugares que por sus condiciones de degradación del suelo o mal estado de la vegetación existente requieran acciones de reforestación, de conformidad con lo que señale la opinión técnica de la Secretaría, con base en el Catálogo de Especies Permitidas.
 
-IV. Los demás lugares que así lo consideren las Autoridades Municipales y compete a la Secretaría determinar la cantidad y las especies de árboles, plantas y arbustos que convenga utilizar de acuerdo a un dictamen técnico que elabore para este fin.
-
-El H. Ayuntamiento tendrá los viveros necesarios para realizar las funciones de repoblación forestal, teniendo facultades para celebrar convenios con instituciones públicas o privadas, para producir e intercambiar especies o bien, mejorar las que cultiva en sus viveros.
+El H. Ayuntamiento a través de la Secretaría administrará y conservará los viveros necesarios para realizar las funciones de repoblación forestal y mantenimiento vegetal, teniendo facultades para celebrar convenios con instituciones públicas o privadas, para producir e intercambiar especies o bien, mejorar las que cultiva en sus viveros, cuyas especies vegetales y arbóreas, semillas, sustratos, fertilizantes, herbicidas, envases y empaques servirán como suministro para la conservación y mantenimiento de áreas verdes ubicadas en el espacio público, y en general cualquier bien municipal de uso común, así como para las zonas de preservación ecológica de jurisdicción municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -28979,9 +29437,11 @@ La Secretaría elaborará programas de forestación y reforestación en los que 
 
 La Secretaría promoverá y dará asesoría a las asociaciones vecinales sobre la forma de como forestar y reforestar las áreas verdes de su colonia; y promoverá la utilización de lotes baldíos de propiedad particular, previo convenio celebrado en los términos de este Capítulo con: propietarios y con la participación ciudadana y las asociaciones vecinales, para la creación de áreas verdes, viveros o huertos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1766.
 
-Queda prohibido a particulares, empresas o partidos políticos pegar, colgar, clavar, engrapar o adherir propaganda en los árboles.
+En el Municipio de Puebla se priorizará la salud y bienestar de los árboles, por lo que queda prohibido a particulares, empresas o partidos políticos pintar con cualquier sustancia, pegar, colgar, clavar, engrapar y/o adherir anuncios o propaganda hecha de cualquier material en los árboles.
 
 ###### Artículo 1767.
 
@@ -29095,85 +29555,87 @@ b) Diversas, como la incineración depósitos o quema a cielo abierto de residuo
 
 DE LA PROTECCIÓN DEL AGUA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1775.
 
-El H. Ayuntamiento, con el propósito de asegurar la disponibilidad de agua y abatir los niveles de desperdicio, promoverá el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su saneamiento, observando los siguientes criterios:
+El H. Ayuntamiento, con el propósito de asegurar la disponibilidad de agua y abatir los niveles de desperdicio, a través de la Secretaría promoverá el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su saneamiento, observando los siguientes criterios:
 
-I. La contaminación del agua se origina por el inmoderado vertimiento de líquidos contaminantes y residuos sólidos, domésticos e industriales en el drenaje municipal y cuerpos de agua;
+I. La contaminación del agua se origina por su manejo deficiente, domestico, comercial e industrial, el cual se basa en la visión de usarla y desecharla. Esto ocasiona el inmoderado vertimiento de líquidos contaminantes y residuos sólidos, domésticos e industriales en el drenaje municipal, ocasionando que las plantas de tratamiento no tengan la capacidad para retirar tantos contaminantes del líquido y estos terminen en los cuerpos de agua;
 
-II. Se debe regular, corregir y sancionar toda acción o actividad negligente o indiscriminada que contribuya a la degradación de la calidad y cualidades del agua;
+II. Se debe regular, corregir y sancionar toda acción o actividad negligente o indiscriminada que contribuya a la degradación de la calidad y cualidades del agua, en los términos que señale la legislación federal y estatal, así como la normativa municipal aplicable;
 
-III. El agua es un recurso escaso y resulta indispensable para todo organismo vivo, incluyendo al ser humano, por lo que es necesaria su conservación, así como mejorar su calidad para elevar el bienestar de la población;
+III. El agua es un recurso escaso y resulta indispensable para todo organismo vivo, incluyendo al ser humano, por lo que es necesaria su conservación, así como mejorar su calidad para elevar el bienestar de la población. El derecho al acceso al agua se encuentra establecido en la Constitución Política de los Estados Unidos Mexicanos, por lo que su cuidado y conservación debe formar parte prioritaria de la política ambiental;
 
-IV. La conservación y el aprovechamiento sustentable del agua, es responsabilidad de la autoridad y de los usuarios, así como de quienes realicen actividades que afecten dicho recurso;
+IV. La conservación y el aprovechamiento sustentable del agua, es responsabilidad de los usuarios de los servicios hídricos y de la autoridad, por lo que ésta última deberá implementar capacitación sobre el manejo adecuado del ciclo del agua, especialmente a los usuarios industriales, comerciales y de servicios;
 
-V. El agua debe de ser aprovechada y distribuida con equidad, calidad y eficiencia, dando preferencia a la satisfacción de las necesidades humanas y la protección de la salud;
+V. El agua debe ser aprovechada con responsabilidad y distribuida con acceso universal, equidad, calidad, eficiencia y a un precio asequible, dando preferencia a la satisfacción de las necesidades humanas y la protección de la salud;
 
-VI. El agua de lluvia constituye una alternativa para incrementar la recarga de mantos acuíferos, por lo cual toda empresa o establecimiento que se instale en territorio municipal esta obligada a que sus estacionamientos tengan pisos con materiales que permitan aumentar el área de recarga hacia los mantos acuíferos, y cuenten con pozos de absorción para su reutilización;
+VI. El agua de lluvia constituye una alternativa para incrementar la recarga de mantos acuíferos, no obstante, los proyectos en los que se incluyan áreas de recarga, con cualquier tipo de agua, deberá cumplir con las NOM aplicables, además de que deberán realizarse en las zonas del Municipio que tengan aptitud para ello;
 
-VII. Son obligaciones de los habitantes del Municipio: utilizar racionalmente el agua, reparar las fugas de agua dentro de sus predios, denunciar las fugas en otros predios particulares o en la vía pública y cumplir con la normatividad para el uso y reuso del agua, así como el aprovechamiento del agua pluvial; y
+VII. Son obligaciones de los habitantes del Municipio: utilizar responsablemente el agua, reparar las fugas de agua dentro de sus predios, reportar las fugas en otros predios particulares o en la vía pública y cumplir con la normatividad de acuerdo a su uso autorizado, y en los casos en que proceda incluir en sus actividades agua de reúso y pluvial; y
 
-VII. Queda estrictamente prohibido el relleno, secado y uso diferente al que tienen los cuerpos de agua superficiales en el territorio municipal.
+VIII. Queda estrictamente prohibido el relleno, secado y uso diferente al que tienen los cuerpos de agua superficiales en el territorio municipal, por lo que cualquier acción de ese tipo debe ser denunciada a las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1776.
 
-En cuanto al saneamiento y uso racional y salubre de las aguas y aguas residuales, en coordinación con el SOAPAP, CNA o el organismo competente en su caso, corresponden al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
+Para implementar un eficaz sistema para la gestión integral del agua en el Municipio de Puebla, en coordinación con la Comisión Nacional de Agua (CONAGUA), el SOAPAP y/o la Comisión Estatal de Agua y Saneamiento de Puebla (CEASPUE) y de conformidad con los instrumentos legales idóneos celebrados para tal fin, la Secretaría, podrá:
 
-I. Proteger los elementos hidrológicos, los ecosistemas acuáticos y el equilibrio de los recursos naturales que intervienen en su ciclo;
+I. Proteger los elementos hidrológicos, los ecosistemas acuáticos y el equilibrio de los recursos naturales que intervienen en el ciclo virtuoso del agua;
 
-II. Realizar las gestiones necesarias para que se aproveche de forma sustentable los recursos naturales que comprenden los ecosistemas acuáticos;
+II. Realizar las gestiones necesarias para que se aproveche de forma sustentable los recursos naturales que comprenden los ecosistemas acuáticos de los cuerpos de agua ubicados en el Municipio y en su caso en colaboración con las autoridades estatales y federales competentes;
 
-III. Proteger los suelos y áreas boscosas, así como el mantenimiento de caudales básicos y fuentes naturales de las corrientes de agua con el objeto de mantener la capacidad de recarga de los mantos acuíferos, para mantener la integridad y equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
+III. Llevar a cabo acciones de protección de los suelos y áreas boscosas, así como el mantenimiento de caudales básicos y fuentes naturales de las corrientes de agua con el objeto de mantener la capacidad de recarga de los mantos acuíferos, para mantener la integridad y equilibrio de los elementos naturales que intervienen en el ciclo hidrológico;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+IV. Impulsar programas conjuntos entre empresas y gobierno para la captación, almacenamiento, utilización y/o reúso, así como infiltración del agua de lluvia, en los términos de las normas oficiales mexicanas aplicables.
 
-IV. Formular, a través de la Agencia, programas relacionados con el aprovechamiento del agua en el Municipio, así como de proyectos de estructuras que permitan el almacenamiento, utilización, infiltración de agua de lluvia;
+V. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas residuales en la zona de cobertura municipal;
 
-V. Elaborar y aplicar los programas necesarios para prevenir y controlar la contaminación de las aguas de jurisdicción municipal;
+VI. Vigilar y controlar la contaminación del agua que se descarga a la red de drenaje municipal y fomentar la utilización del agua de reúso en los servicios públicos municipales;
 
-VI. Vigilar y controlar la contaminación del agua generada por los servicios públicos municipales;
+VII. Monitorear las descargas de agua residual, industrial, comercial y de servicios a la red de drenaje en el área de cobertura municipal y coadyuvar al SOAPAP en la regularización de aquellos que lo requieran;
 
-VII. Registrar y actualizar permanentemente el registro las descargas de agua a los sistemas de drenaje y alcantarillado, con la finalidad de que se administre y proporcione la información a la autoridad competente, para que sea integrada al Registro Nacional de Descarga, que compete a la Federación;
+VIII. Analizar, de conformidad con las condiciones particulares de descarga y las NOM aplicables en cada caso, la calidad de las descargas de los establecimientos industriales, comerciales y de servicios en la zona de cobertura municipal y asesorarlos técnicamente para mejorar sus procesos con el objetivo de reducir o evitar los excedentes contaminantes;
 
-VIII. Apoyar al Gobierno del Estado en el control de la calidad de las descargas que hayan obtenido su registro. Para ello tomará en cuenta las condiciones particulares de descarga y las NOM aplicables en cada caso;
+IX. Hacer las denuncias y gestiones correspondientes ante la Comisión Nacional de Agua (CONAGUA), procurando en caso de que existan descargas o vertimientos en las aguas encontradas en el Municipio, materiales peligrosos y otros de competencia Federal;
 
-IX. Hacer las denuncias y gestiones correspondientes ante la CNA, procurando en caso de que existan descargas o vertimientos en las aguas encontradas en el Municipio, materiales peligrosos y otros de competencia Federal;
+X. Promover el reúso de aguas residuales tratadas, en los procesos industriales, comerciales o de servicios y el riego de áreas verdes, siempre y cuando satisfagan las NOM aplicables; y
 
-X. Promover el reuso de aguas residuales tratadas, en la industria, la agricultura y el riego de áreas verdes, siempre y cuando satisfagan las NOM aplicables; y
+XI. Solicitar a la Comisión Nacional de Agua (CONAGUA) y SOAPAP, el monitoreo continuo de aguas subterráneas que suministren el agua para su consumo de la población dentro del Municipio con objeto de detectar alteraciones peligrosas en la calidad de la misma e instalar las medidas de mitigación convenientes.
 
-XI. Solicitar a la CNA y SOAPAP, el monitoreo continuo de aguas subterráneas que suministren el agua para su consumo de la población dentro del Municipio con objeto de detectar alteraciones peligrosas en la calidad de la misma e instalar las medidas de mitigación convenientes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1777.
 
-En el Municipio, las aguas residuales provenientes de cualquier fuente, sólo podrán ser utilizadas en la industria o en la agricultura si se someten al tratamiento para que cumpla las NOM aplicables.
+La Secretaría podrá determinar el monto por concepto de cuota de afectación al drenaje municipal por descarga de excedentes de contaminantes en el área de cobertura municipal y de conformidad con lo establecido en la Ley de Ingresos para el Municipio de Puebla vigente, en los casos en que el propietario del establecimiento industrial, comercial o de servicios se niegue a recibir asesoría técnica, realizar las modificaciones o cumplir con las condicionantes señaladas en el dictamen técnico o permiso de descarga.
 
 ###### Artículo 1778.
 
 Atendiendo a las NOM aplicables, se prohíbe descargar, sin previo tratamiento, aguas residuales que contengan contaminantes, desechos, materiales radiactivos o cualquier sustancia dañina a la salud de las personas, a la flora y la fauna, a los bienes de este Municipio o que alteren el paisaje, en aguas designadas o concesionadas al Municipio, para la prestación de servicios públicos y en los sistemas de drenaje y alcantarillado de los centros de población o infiltrar en terrenos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La Agencia solicitará al SOAPAP y a la CNA que todas las industrias y giros comerciales o de servicios, presenten continuamente, los análisis fisicoquímicos y biológicos de sus aguas residuales, a efecto de verificar conjuntamente, el cumplimiento de la reglamentación aplicable.
+La Secretaría solicitará a la Comisión Nacional de Agua (CONAGUA) y al SOAPAP que todas las industrias y giros comerciales o de servicios, presenten los análisis fisicoquímicos y biológicos de sus aguas residuales, a efecto de verificar conjuntamente, el cumplimiento de la reglamentación aplicable, en el ámbito de cobertura de cada orden de gobierno en los términos de los convenios que se celebren para tal efecto.
 
 Los análisis deberán contener como información mínima los valores de los siguientes parámetros: sólidos sedimentarios, grasas y aceites, temperatura, potencial hidrógeno y demanda bioquímica de oxigeno.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1779.
 
-La Agencia hará del conocimiento del SOAPAP las descargas de aguas residuales de cualquier tipo, a los sistemas municipales de drenaje y alcantarillado, solicitando la aplicación de las medidas correctivas y la imposición de sanciones a que haya lugar.
+La Secretaría hará del conocimiento del SOAPAP las descargas de cualquier tipo, a los sistemas municipales de drenaje y alcantarillado, en las que detecte excedentes contaminantes de manera reincidente, solicitando la aplicación de las medidas correctivas y la imposición de sanciones a que haya lugar.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1780.
 
-Los generadores de aguas residuales están obligados al tratamiento de las mismas, considerando lo establecido en la Ley de Aguas Nacionales, sus Reglamentos y las NOM.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+Los generadores de aguas residuales están obligados al tratamiento de las mismas, considerando lo establecido en la Ley de Aguas Nacionales, la Ley del Agua para el Estado de Puebla, sus Reglamentos y las NOM aplicables.
 
 ###### Artículo 1781.
 
-Los vehículos que transporten sustancias peligrosas dentro del área urbana del Municipio, deberán reportar su paso a la Unidad Operativa Municipal de Protección Civil, con el objeto de vigilar su arribo o salida, asimismo deberán portar una guía sobre el tipo de producto que se transporta y la forma de contrarrestar su impacto en caso de accidente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
 
 PROTECCIÓN DE LA FLORA Y FAUNA SILVESTRE Y/O ACUATICA
 
@@ -29185,9 +29647,13 @@ I. Proteger y preservar la diversidad biológica y el hábitat natural de las es
 
 II. Apoyar a la SEMARNAT para hacer cumplir el establecimiento, modificación o levantamiento de las vedas temporales, parciales o definitivas de flora, fauna silvestre y acuática dentro del Municipio;
 
-III. Apoyar a SEMARNAT en al (sic) vigilancia y control del aprovechamiento de los recursos naturales de áreas que sean el hábitat de especies de flora y fauna acuática; especialmente las endémicas, amenazadas o en peligro de extinción existentes en el Municipio, así como la creación de áreas de refugio para protección de las especies de flora y fauna.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV. Coadyuvar en la protección de las especies endémicas, amenazadas, en peligro de extinción o sujetas a protección especial y denunciar ante la PROFEPA, la caza, captura, venta, compra o tráfico ilegal de especies de flora, fauna silvestre y acuática existentes en el Municipio;
+III. Apoyar a SEMARNAT en la vigilancia y control del aprovechamiento de los recursos naturales de áreas que sean el hábitat de especies de flora y fauna acuática; especialmente las endémicas y nativas, amenazadas o en peligro de extinción existentes en el Municipio, así como la creación de áreas de refugio para protección de las especies de flora y fauna.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. Coadyuvar en la protección de las especies endémicas y nativas, amenazadas, en peligro de extinción o sujetas a protección especial y denunciar ante la PROFEPA, la caza, captura, venta, compra o tráfico ilegal de especies de flora, fauna silvestre y acuática existentes en el Municipio;
 
 V. Apoyar a la SEMARNAT, en la elaboración o actualización de un inventario de las especies de flora, fauna silvestre y acuática existentes en el Municipio;
 
@@ -29195,13 +29661,17 @@ VI. Apoyar a la SEMARNAT, en la organización, conservación, acondicionamiento,
 
 VII. Prohibir el daño a la flora o fauna no nociva en el Municipio. La persona física o moral que lo haga, deberá reparar el daño en los términos que lo determine la Ley;
 
-VIII. Prohibir el comercio de especies raras, amenazadas o en peligro de extinción, así como sus productos, subproductos, siendo los infractores sujetos a la denuncia ante la autoridad competente;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Prohibir el comercio de especies exóticas, amenazadas o en peligro de extinción, así como sus productos, subproductos, siendo los infractores sujetos a la denuncia ante la autoridad competente;
 
 IX. Fomentar el trato digno y respetuoso a los animales con el propósito de evitar la crueldad hacia ellos;
 
 X. Participar en el desarrollo de acciones de sanidad agropecuaria y de protección de la flora y la fauna dentro del Municipio, contra la acción perjudicial de plagas y enfermedades, o la contaminación que pueda derivarse de cualquier hecho natural o actividad humana;
 
-XI. Fomentar los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y la fauna, procurando la conservación de las especies endémicas del Municipio. El uso o el aprovechamiento de este elemento natural se sujetará a los criterios de racionalidad que permitan garantizar la subsistencia de las especies, sin exponer en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico y las cadenas naturales; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XI. Fomentar los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y la fauna, procurando la conservación de las especies endémicas y nativas del Municipio. El uso o el aprovechamiento de este elemento natural se sujetará a los criterios de racionalidad que permitan garantizar la subsistencia de las especies, sin exponer en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico y las cadenas naturales; y
 
 XII. Coadyuvar a la conservación y aprovechamiento sustentable de la flora y fauna.
 
@@ -29241,17 +29711,19 @@ Queda prohibido hacer mal uso de los suelos y realizar todo tipo de acciones neg
 
 DEL MANEJO DE LOS RESIDUOS SÓLIDOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1787.
 
-En cuanto al manejo de los residuos sólidos urbanos, corresponde al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
+En cuanto al manejo de los residuos sólidos urbanos, corresponde al Honorable Ayuntamiento, por conducto de la Secretaría, las siguientes atribuciones:
 
 I. Vigilar que los servicios municipales no propicien o generen residuos sólidos sin control;
 
 II. Realizar las denuncias respectivas ante la PROFEPA de la existencia de fuentes generadoras de residuos sólidos peligrosos dentro del Municipio, que operen sin permiso;
 
-III. Llevar un inventario de las fuentes generadoras que incluirán un registro de las cantidades que se reproducen, su composición y características;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Llevar un inventario de las fuentes generadoras que incluirán un registro de las cantidades que se reproducen, su composición y características, en coordinación con el OOSL;
 
 IV. Promover la educación y la difusión entre la población sobre las formas de separación desde el origen, reciclaje y aprovechamiento integral de los residuos municipales, con el fin de racionalizar la utilización de materias primas y reducir la generación de desperdicios;
 
@@ -29283,31 +29755,31 @@ X. Realizar periódicamente los estudios de caracterización y composición de l
 
 XI. Promover la instrumentación de los planes de manejo del sector gubernamental en las dependencias y entidades de la administración pública municipal y dar el seguimiento correspondiente;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XII. Representar al Ayuntamiento ante el Sistema Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial;
+XII. Representar al Ayuntamiento ante el Sistema Estatal para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de Manejo Especial; y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XIII. Solicitar a los generadores los planes de manejo de residuos en los términos de la legislación aplicable y en su caso emitir las autorizaciones; y
+XIII. Solicitar a los generadores los planes de manejo de residuos en los términos de la legislación aplicable y en su caso emitir las autorizaciones.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XIV. Emitir las autorizaciones y en su caso revocar las mismas a las personas que realicen labores de manejo de residuos consistentes en: caracterización, acopio, almacenamiento, trasporte, reutilización, reciclado y aprovechamiento de residuos en los términos de la ley de la materia.
+XIV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 ###### Artículo 1788.
 
 La operación del sistema municipal que garantice la prestación del servicio público municipal de limpia, recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos, estará a cargo del OOSL, quien deberá observar lo dispuesto en el Capítulo de Limpia de este Código Reglamentario.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La Agencia hará del conocimiento del Gobierno del Estado del incumplimiento de las disposiciones jurídicas aplicables, en cuanto hace a los residuos de manejo especial, solicitado las medidas correctivas y las sanciones a que haya lugar.
+La Secretaría hará del conocimiento del Gobierno del Estado del incumplimiento de las disposiciones jurídicas aplicables, en cuanto hace a los residuos de manejo especial, solicitando las medidas correctivas y las sanciones a que haya lugar.
 
 Queda prohibido descargar, depositar o infiltrar productos contaminantes en los suelos comprendidos en el Municipio, sin el cumplimiento de las NOM aplicables, que para tal efecto establezca las autoridades correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1789.
 
-Los actividades que generen Residuos Sólidos Urbanos deberán contar con un sistema de tratamiento previo, a efecto de reunir las condiciones necesarias para prevenir o evitar:
+Las actividades que generen Residuos Sólidos Urbanos deberán realizar un tratamiento previo, a efecto de reunir las condiciones necesarias para prevenir o evitar:
 
 I. La contaminación del suelo;
 
@@ -29317,9 +29789,9 @@ III. La modificación, trastorno o alteración en el aprovechamiento, uso y expl
 
 IV. La contaminación de los ríos, cuencas, cauces, lagos, embalses, mantos acuíferos, aguas subterráneas y otros cuerpos de agua.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El Honorable Ayuntamiento, a través de la Agencia y el OOSL, en forma conjunta con los diferentes órdenes de gobierno y la sociedad; fomentará y desarrollará programas de manejo integral de residuos sólidos urbanos, mediante actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final.
+El Honorable Ayuntamiento, a través de la Secretaría y el OOSL, en forma conjunta con los diferentes órdenes de gobierno y la sociedad, fomentará y desarrollará programas de manejo integral de residuos sólidos urbanos, mediante actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, trasporte, y disposición final.
 
 Estos programas se realizarán o combinarán de manera apropiada, considerando las condiciones y necesidades del Municipio, y deberán considerar la valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social.
 
@@ -29337,9 +29809,11 @@ Queda prohibido destinar terrenos, bajo cualquier régimen de propiedad, como si
 
 No se autorizará el establecimiento de sitios de disposición final de los residuos sólidos industriales no peligrosos, si no se cumple con las NOM emitidas por la autoridad competente y con los requisitos jurídicos y administrativos requeridos para el caso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1792.
 
-Los procesos industriales, materia de regulación del Municipio, que generen residuos de lenta degradación o no biodegradables como el plástico, vidrio, aluminio y otros materiales similares, se ajustarán a las disposiciones jurídicas en materia de Residuos y las NOM que al efecto expida la Federación.
+Los procesos industriales, materia de regulación del Municipio, que generen residuos de lenta degradación o que requieran de procesos para su transformación como el plástico, vidrio, aluminio y otros materiales similares, se ajustarán a las disposiciones jurídicas en materia de Residuos y las NOM que al efecto expida la Federación.
 
 ###### Artículo 1793.
 
@@ -29351,27 +29825,37 @@ Queda prohibido descargar residuos sólidos de cualquier tipo en la vía públic
 
 Los residuos sólidos urbanos solamente podrán permanecer en la vía pública, durante los días y horas que indique el OOSL con la finalidad de realizar el servicio de recolección.
 
-DE LA PROTECCIÓN CONTRA LA CONTAMINACIÓN VISUAL O PRODUCIDA POR OLORES, RUIDO, VIBRACIONES, RADIACIONES U OTROS AGENTES VECTORES DE ENERGÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+DE LA PROTECCIÓN CONTRA LA CONTAMINACIÓN VISUAL O PRODUCIDA POR OLORES, RUIDO, VIBRACIONES U OTROS AGENTES VECTORES DE ENERGÍA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1795.
 
-El H. Ayuntamiento, para establecer procedimientos tendientes a prevenir y controlar la contaminación visual o provocada por olores, ruido, radiaciones electromagnéticas, vibraciones, energía térmica, electromagnética y lumínica, observará los siguientes criterios:
+El H. Ayuntamiento, para establecer procedimientos tendientes a prevenir, controlar, y en su caso, sancionar la contaminación visual; la contaminación ocasionada por emisiones de olores, ruido, vibraciones, energía térmica o lumínica generada por fuentes fijas que funcionen como establecimientos comerciales o de servicios que rebasen los límites máximos permitidos por la normatividad aplicable; así como para proteger la imagen del entorno ambiental en vialidades de jurisdicción municipal, observará los siguientes criterios:
 
 I. En el ambiente existen fuentes naturales de energía térmica, electromagnética, lumínica, olores, ruido y vibraciones, asimismo, existen otras generadas por el hombre, llamadas también artificiales, ambas pueden ser o no perjudiciales a la salud o al ambiente;
 
 II. Cuando ambas fuentes las naturales y las artificiales; son alteradas, incrementadas o generadas sin control, se convierten en contaminantes que ponen en peligro la salud y el equilibrio de los ecosistemas; y
 
-III. La contaminación que es generada por los olores, ruido, vibraciones, energía térmica, electromagnética y lumínica, entre otras, debe ser regulada para evitar que excedan los límites máximos de tolerancia humana y en su caso, deberá sancionarse toda acción que contribuya a la generación de las emisiones contaminantes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+III. La emisión de olores, ruido, vibraciones, energía térmica, o lumínica, debe ser regulada para evitar que excedan los límites máximos de tolerancia humana y en su caso, deberá sancionarse toda acción que contribuya a la generación de las emisiones contaminantes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+De los procedimientos tendientes a prevenir, controlar y sancionar la contaminación visual serán de conformidad con lo dispuesto en el Capítulo 18 del presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1796.
 
-En materia de prevención de la contaminación ambiental producida por olores, ruido, vibración, luces, radiaciones, corresponden al Honorable Ayuntamiento, por conducto de la Agencia, las siguientes atribuciones:
+En materia de prevención de la contaminación ambiental producida por olores, ruido, vibración, luces, corresponden al Honorable Ayuntamiento, a través de la Secretaría, las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Considerando lo dispuesto en el artículo 155 de la Ley, así como la restricción señalada en el artículo 142 de la Ley Estatal, adoptar las medidas que considere necesarias para evitar que las emisiones de contaminación visual, olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica rebasen los límites máximos contenidos en las disposiciones legales aplicables, considerando los valores de concentración máxima permisible para el ser humano y el ambiente; y
+I. Considerando lo dispuesto en los artículos 627 de este Código, 8 y 155 de la Ley, 6 fracciones VI, VII y 142 de la Ley Estatal, la Ley de Atención y Prevención de la Contaminación Visual y Auditiva del Estado y demás aplicables para adoptar las medidas que se consideren necesarias para evitar que las emisiones de contaminación visual, olores, ruido, vibraciones, energía térmica, lumínica rebasen los límites máximos contenidos en las disposiciones legales aplicables, considerando los valores de concentración máxima permisible para el ser humano y el ambiente; y
 
 II. Llevar y actualizar el registro de las fuentes generadoras de olores, radiaciones, vibraciones, energía térmica, energía electromagnética y lumínica dentro del Municipio, consideradas como contaminantes.
 
@@ -29383,21 +29867,31 @@ Los límites máximos permisibles para la emisión de ruido serán los señalado
 
 Queda prohibido producir emisiones de energía térmica, electromagnética, sonora y lumínica, así como vibraciones y olores perjudiciales al ambiente o a la salud pública, cuando se contravengan las NOM aplicables, así como las disposiciones legales respectivas.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1798.
 
-Toda persona física o jurídica que por la naturaleza de sus actividades produzcan emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica, que afecten a la población, deberá implementar medidas correctivas, instalando los dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, o en su caso, optar por su reubicación.
+Toda persona física o jurídica que por la naturaleza de sus actividades produzcan emisiones de olores, ruido, vibraciones, energía térmica, energía lumínica, que afecten a la población, deberá implementar medidas preventivas y correctivas, instalando los dispositivos y aislamientos necesarios para reducir dichas emisiones a niveles tolerables, o en su caso, optar por su reubicación.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Los propietarios de establecimientos comerciales o de servicios que, por la naturaleza o giro de su actividad generan ruido, deben realizar modificaciones en sus construcciones de tal forma que permita un aislamiento acústico suficiente, así como implementar tecnología y medidas de contención necesarias para reducir el sonido con la finalidad de que al receptor llegue la menor cantidad posible de emisiones sonoras; impedir el exceso en los límites máximos permisibles de sonido, así como el escape de éste hacia el exterior de los locales ocasionando molestias al vecindario.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 1798 BIS.- Como medida preventiva en materia de contaminación por ruido, se prohíbe a los propietarios, representantes legales o encargados de establecimientos de comercio o servicio, generar ruido mediante fuentes fijas colocadas en los accesos a establecimientos de comercio o servicio, cerca de estos o en vía pública; salvo que se trate de perifoneo y siempre y cuando se haya tramitado previamente el permiso correspondiente ante la Secretaría, autorizando en términos de la norma aplicable y sin que exceda los límites máximos permisibles. En caso de incumplimiento a los límites máximos, aun con permiso de perifoneo, será sujeto a las medidas de seguridad y/o sanción por contaminación por ruido y cancelado el permiso de perifoneo correspondiente.
+
+Estas medidas tienen por efecto que los instrumentos emisores de ruido funcionen a un volumen reducido al interior del establecimiento, sin que trasciendan al exterior, produciendo afectaciones a terceros.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1799.
 
-El otorgamiento de la Licencia de Funcionamiento, quedará condicionada a la implementación por parte de los interesados de las medidas tendientes a prevenir, controlar y corregir sus emisiones de olores, ruidos, luces, vibraciones y energía, para evitar los efectos nocivos al ambiente, que haya señalado la autoridad competente.
+La Licencia de funcionamiento de establecimientos de comercio o servicio que por la naturaleza o giro de su actividad generan ruido constante o permanente que pudiera provocar contaminación por ruido, estará condicionada al trámite previo de licencia de ruido que emita la Secretaría, de acuerdo con la normatividad municipal aplicable.
 
-Específicamente, para los establecimientos señalados en las fracciones VII, X, XI, XII, XVII, XVIII, XIX, XXII y XXIII del artículo 611 del Capítulo 14 del presente Código Reglamentario, dichas medidas serán las que disponga el Estudio perimetral de ruido, en términos de lo dispuesto por la Entidad Mexicana de Acreditaciones; las cuales también se solicitarán para el refrendo de este tipo de establecimientos, cuando hayan sido sancionados por rebasar los niveles máximos permisibles de emisión de ruido.
+En ningún caso será autorizada la licencia para establecimientos de aparatos emisores de ruido, en un radio de cien metros medidos en proyección horizontal uno de otro, en que se encuentre situado un hospital, sanatorio, biblioteca o escuela.
 
-La Agencia cuando tenga conocimiento por quejas ciudadanas o de oficio, de que no se implementaron las medidas para controlar y corregir las emisiones correspondientes en los establecimientos de cualquier uso, dentro de los fijados para tal efecto, solicitará a la autoridad competente la suspensión y cancelación en caso de reincidencia de la licencia de funcionamiento, independientemente de que se impongan las demás sanciones a que haya lugar en los términos del presente Capítulo.
+La operación y funcionamiento de fuentes fijas en establecimientos de comercio o servicio que por la naturaleza o giro de su actividad no generan ruido constante o permanente, pero haya sido sujeto a procedimiento administrativo por incumplimiento a las disposiciones en materia de ruido de competencia municipal; quedará condicionado a la implementación de las medidas preventivas, correctivas o de seguridad tendientes a prevenir o en caso a las sanciones para efecto de controlar sus emisiones de olores, ruidos, vibraciones y energía, para evitar efectos nocivos al ambiente, que haya señalado la autoridad competente.
 
 ###### Artículo 1800.
 
@@ -29409,15 +29903,15 @@ Queda prohibido provocar emisiones ionizantes que puedan contaminar el aire, el 
 
 Cualquier actividad no cotidiana que se vaya a realizar en los centros (sic) población cuyas emisiones de olores, ruido, vibraciones, energía térmica, energía electromagnética y lumínica rebasen o puedan rebasar los límites máximos establecidos en las Normas Oficiales Mexicanas o puedan ocasionar molestias a la población, requiere permiso de la Agencia para poder realizarse.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 1802.
 
-La contaminación visual por actividades publicitarias o anuncios que pueden alterar el paisaje natural o de la imagen urbana, serán regulados por el Capítulo de Anuncios para el Municipio de Puebla.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La prevención y control de la contaminación visual provocada por actividades publicitarias o anuncios que alteren el paisaje natural o la imagen urbana, será regulada en el capítulo 18 del presente reglamento, en beneficio del interés general.
 
 ###### Artículo 1803.
 
-Cuando por instalarse o colocarse anuncios se derribe o destruya cualquier elemento natural sin autorización de la Agencia, se solicitará en forma inmediata el retiro del anuncio a la Autoridad Municipal competente, debiéndose resarcir el daño causado a la naturaleza por el infractor.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2022)
 
 ###### Artículo 1804.
 
@@ -29451,11 +29945,11 @@ III. Promover la celebración de convenios con los diversos medios de comunicaci
 
 DE LA DENUNCIA POPULAR
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1807.
 
-Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual, toda persona física, jurídica, pública u organización no gubernamental, puede hacer del conocimiento de la Agencia, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
+Se entiende como denuncia popular, aquel instrumento jurídico por medio del cual, toda persona física, jurídica, pública u organización no gubernamental, puede hacer del conocimiento de la Secretaría, los hechos que produzcan o puedan producir daños ambientales o a los recursos naturales, o contravengan las disposiciones del presente Capítulo y demás ordenamientos que regulen las materias relacionadas con la conservación y protección al ambiente, así como la restauración del equilibrio, con el fin de que la autoridad competente atienda y solucione las quejas presentadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -29467,7 +29961,9 @@ I. Promover la formación de consejos ecológicos en las organizaciones escolare
 
 II. Recibir y dar trámite legal y administrativo correspondiente a toda denuncia que la población presente;
 
-III. Orientar y apoyar al denunciante para que éste, los colonos del lugar, las organizaciones sociales o a través de la Comisión de Ecología y Medio Ambiente, le den la solución correspondiente a la denuncia, en caso de que el problema denunciado no requiera intervención de la Autoridad Municipal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. Orientar y apoyar al denunciante para la atención de la problemática que no requiera intervención de la Autoridad Municipal conforme a lo previsto en el artículo 1810. No obstante, se turnará a la Sindicatura Municipal aquellos asuntos que requieran mediación condominal;
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
@@ -29487,67 +29983,67 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas documentales que en su caso ofrezca el denunciante.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Asimismo, podrá formularse la denuncia por los medios que disponga la Agencia tales como fax, teléfono, correo electrónico y cualesquiera otros que, por acuerdo de la Dirección, generen una simplificación administrativa; en cuyo supuesto, el servidor público que la reciba, realizará anotación de los datos señalados en las fracciones I, II y III del presente artículo, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Autoridad competente investigue de oficio los hechos constitutivos de la denuncia.
+Asimismo, podrá formularse la denuncia por los medios que dispongan la Secretaría tales como teléfono, correo electrónico, medios digitales y cualesquiera otros que generen una simplificación administrativa, siempre y cuando se encuentre inscrito en el registro de trámites y servicios del Honorable Ayuntamiento, en cuyo supuesto, el servidor público que la reciba, realizará la anotación de los datos señalados en las fracciones I, II y III del presente artículo, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la autoridad competente investigue de oficio los hechos constitutivos de la denuncia.
 
 Si el denunciante ratifica la denuncia pero solicita a la autoridad competente guardar secreto respecto de su identidad por razones de seguridad e interés particular debidamente fundadas, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1810.
 
-La Agencia, una vez recibida la denuncia, procederá a verificar los hechos materia de aquella, y le asignará un número de expediente.
+La Secretaría una vez recibida la denuncia, procederá a verificar los hechos materia de aquella, y le asignará un número de expediente.
 
 En caso de recibirse dos más denuncias por los mismos actos u omisiones, el director ordenará su acumulación, debiendo notificar a los denunciantes de este hecho.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La Agencia, al recibir una denuncia, identificará debidamente al denunciante, la verificará y escuchará el testimonio del responsable del deterioro ambiental y en su caso, impondrá medidas correctivas y las sanciones correspondientes.
+La Secretaría al recibir una denuncia, identificará debidamente al denunciante, realizará la visita de inspección con el objetivo de verificar los hechos denunciados y en su caso impondrá las medidas preventivas, correctivas y de seguridad procedentes.
 
 Los expedientes de denuncia popular que hubieren sido abiertos, podrán ser concluidos por las siguientes causas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I. Por incompetencia de la Agencia para conocer de la denuncia popular planteada;
+I. Por incompetencia de la Secretaría para conocer de la denuncia popular planteada;
 
 II. Por la emisión de una resolución derivada del procedimiento de Inspección;
 
 III. Cuando no existan contravenciones a la normatividad ambiental; y
 
-IV. Por desistimiento del denunciante.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. Por falta de interés o desistimiento del denunciante.
 
 MEDIDAS DE SEGURIDAD, INSPECCIÓN, VIGILANCIA Y SANCIONES EN MATERIA DE
 
 PROTECCION AMBIENTAL
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1811.
 
-Cuando en el Municipio se presenten contingencias ambientales que pongan en riesgo la salud pública o actividades que repercutan peligrosamente en los ecosistemas locales, la Agencia podrá ordenar, fundada y motivadamente, medidas de seguridad.
+Cuando en el Municipio se presenten contingencias ambientales que pongan en riesgo la salud pública o actividades que repercutan peligrosamente en los ecosistemas locales, la Secretaría podrá ordenar, fundada y motivadamente, medidas de seguridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1812.
 
-Las medidas de seguridad que dictará el Honorable Ayuntamiento, por conducto de la Agencia serán:
+Cuando la Secretaría advierta que se infringen las disposiciones de la normatividad aplicable en materia de contaminación por olores, ruido, vibraciones, energía térmica, energía lumínica, emisiones a la atmósfera, o cualquier otra que sean de su competencia y que produzcan riesgo de desequilibrio ecológico o daños a la salud; en forma fundada y motivada, de conformidad con los principios que rigen la más amplia protección al medio ambiente, podrán ordenar inmediatamente la imposición de una o varias de las siguientes medidas de seguridad:
 
-I. La clausura temporal, parcial o definitiva de la fuente;
+I. La clausura temporal, parcial o total de fuentes o establecimientos contaminantes, y
 
-II. El aseguramiento precautorio de los bienes, utensilios o instrumentos directamente relacionados las acciones que se señalan en el artículo anterior; y
+II. El aseguramiento precautorio de los bienes, tecnologías, utensilios o instrumentos directamente relacionados las acciones que se señalan en el artículo anterior o que estén prohibidos por las normas aplicables.
 
-III. Todas aquellas medidas de seguridad que establezcan otros ordenamientos.
+La Secretaría podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+La Secretaría determinará de inmediato con base en el resultado de las inspecciones, las medidas de seguridad, en los términos y condiciones del requerimiento para subsanar las deficiencias o irregularidades observadas durante la visita de inspección, y otorgando un plazo de cinco días hábiles para que manifieste lo que su derecho convenga en relación a la visita de inspección o en su caso ofrezca las pruebas en relación con los hechos u omisiones que en la misma se asienten.
 
-La Agencia podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1813.
 
-Cuando las contingencias ambientales rebasen el ámbito de competencia del Municipio, el Honorable Ayuntamiento, por conducto de la Agencia, notificará inmediatamente a la PROFEPA o a las Autoridades Estatales correspondientes para que decomisen, retengan o destruyan las sustancias o productos contaminantes y en su caso, apliquen las sanciones establecidas en las legislaciones correspondientes.
+Cuando las contingencias ambientales rebasen el ámbito de competencia del Municipio, la Secretaría notificará inmediatamente a la PROFEPA o a las Autoridades Estatales correspondientes para que decomisen, retengan o destruyan las sustancias o productos contaminantes y en su caso, apliquen las sanciones establecidas en las legislaciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2019)</small>
 
@@ -29575,11 +30071,11 @@ Quedan excluidas de esta prohibición aquéllas que se empleen por razones de hi
 
 DE LA INSPECCIÓN Y VIGILANCIA EN MATERIA DE PROTECCIÓN AMBIENTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1814.
 
-Corresponden al Honorable Ayuntamiento por conducto de la Agencia:
+Corresponden a la Secretaría:
 
 I. Celebrar convenios y contratos en coordinación con las autoridades federales, estatales, consultoras ambientales o bufetes acreditados para apoyar la realización de acciones de inspección y vigilancia necesarias dentro del Municipio, con el fin de verificar el cumplimiento de los asuntos de su competencia;
 
@@ -29589,25 +30085,27 @@ II. Realizar dentro del Municipio, las visitas de inspección que considere nece
 
 III. Citar a comparecencias, practicar las vistas, inspecciones, con el fin de comprobar la existencia de fuentes o actividades contaminantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1815.
 
-La Agencia en el ámbito de su competencia, realizará las visitas de inspección en materia de protección ambiental, a través del personal debidamente autorizado por la Agencia, el personal estará obligado mostrar su identificación oficial y el oficio de comisión con la persona con quien se entienda la diligencia. El oficio de comisión deberá estar debidamente fundado y motivado, con la firma del Director General de la Agencia, en el que se precisará el lugar o zona que deberá inspeccionarse, la vigencia de la orden de inspección, su objeto y su alcance.
+La Secretaría en el ámbito de su competencia, realizará las visitas de inspección en materia de protección ambiental, a través del personal debidamente autorizado por la Secretaría, el personal estará obligado a mostrar su identificación oficial y el oficio de comisión con la persona con quien se entienda la diligencia.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-El oficio de comisión deberá estar debidamente fundado y motivado, con la firma del Director Ejecutivo para el Medio Ambiente, o en su caso, por el Jefe del Departamento de Gestión Ambiental, en el que se precisará el lugar o zona que deberá inspeccionarse, la vigencia de la orden de inspección, su objeto y su alcance.
+El oficio de comisión deberá estar debidamente fundado y motivado, en el que se precisará el lugar o zona que deberá inspeccionarse, la vigencia de la orden de inspección y su alcance.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Agencia (sic ) deberá llevar una bitácora en la que se registren los números de oficio de comisión, la fecha de vigencia del mismo y el nombre o nombres de las personas acreditadas para realizar la inspección o verificación.
+La Secretaría deberá llevar una bitácora en la que se registren el número de oficio de comisión, la fecha de vigencia del mismo y el nombre o nombres de las personas acreditadas para realizar la inspección o verificación.
 
 El personal autorizado, previo a iniciar la inspección requerirá la presencia del visitado o su Representante Legal; en caso de no encontrarse ambos, se entenderá la diligencia con el encargado o cualquier trabajador, le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
 En caso de negativa para designarlos, el inspector los nombrará, si estos se negaren a desempeñarse como testigos, no invalidará los efectos de la inspección y el personal autorizado lo hará constar en el acta administrativa que al efecto se levante.
 
-La persona con quien se entienda la diligencia estará obligada, a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de este Capítulo y demás disposiciones aplicables, excepto derechos de propiedad industrial que sean de manejo confidencial conforme a la ley.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La persona con quien se entienda la diligencia estará obligada, a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de este Capítulo y demás disposiciones aplicables, permitir la toma de evidencia fotográfica o videograbada y aportar la documentación que se le requiera para verificar el cumplimiento de las disposiciones y que sean objeto de inspección excepto derechos de propiedad industrial que sean de manejo confidencial conforme a la ley.
 
 La información deberá mantenerse por la autoridad en absoluta reserva, en tanto no se agote el procedimiento administrativo en comento.
 
@@ -29619,9 +30117,9 @@ Los datos que deberá contener el acta de inspección son:
 
 I. Los datos generales del visitado que serán:
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-a) Nombre o razón social.
+a) Nombre, denominación o razón social.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -29657,7 +30155,9 @@ VI. Observaciones del personal autorizado;
 
 VII. Hora de término de la diligencia; y
 
-VIII. Firma de los que intervinieron en el acta de inspección o constancia de que se negaron a hacerlo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Firma de los que intervinieron en el acta de inspección o constancia de que se negaron a firmar, a aceptar copia de la misma; dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
 ###### Artículo 1816.
 
@@ -29665,27 +30165,25 @@ El personal autorizado para la inspección, deberá dejar al visitado copia del 
 
 Si la persona con la que se entendió la diligencia, se negara a firmar el acta o aceptar copia de la misma, se asentará en ella dicha circunstancia, sin que esto afecte su validez.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1817.
 
-La Agencia a través de la Dirección Ejecutiva para el Medio Ambiente y ésta mediante el personal del Departamento de Gestión Ambiental, con base en el resultado de las inspecciones, dictaminará las medidas necesarias para corregir las deficiencias que se hubiesen encontrado, notificándolas en ese momento al visitado y señalándole un plazo hasta por quince días hábiles para su realización, apercibiéndolo de las sanciones administrativas a las que puede hacerse acreedor.
+La Secretaría, con base en el resultado de las inspecciones, determinará de inmediato las medidas de seguridad, en los términos y condiciones del requerimiento para subsanar las deficiencias o irregularidades observadas durante la visita de inspección, y otorgando un plazo de cinco días hábiles para que manifieste lo que a su derecho convenga en relación a la visita de inspección o en su caso ofrezca las pruebas en relación con los hechos u omisiones que en la misma se asienten.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1818.
 
-Dentro del plazo otorgado al visitado para subsanar las deficiencias o irregularidades observadas, éste, deberá dar cumplimiento a las medidas ordenadas en los términos y condiciones del requerimiento respectivo.
+La Secretaría podrá ordenar visitas posteriores para verificar o supervisar el cumplimiento de un requerimiento anterior y si del acta correspondiente se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas, podrá mantener las medidas de seguridad previamente establecidas y considerar el incumplimiento al momento de imponer la sanción o sanciones que procedan a (sic) conforme al presente Capítulo.
 
-La autoridad deberá realizar una visita para verificar el cumplimiento de las medidas mencionadas en el artículo anterior.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1819.
 
-Cuando se trate de visita posterior de inspección para verificar el cumplimiento de un requerimiento anterior y del acta correspondiente, se desprende que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá disponer la sanción o sanciones que procedan a conforme al presente Capítulo.
+Transcurrido el término señalado en el artículo 1817, y desahogadas las pruebas, la autoridad emitirá la resolución administrativa definitiva, misma que contendrá una relación de los hechos, disposiciones aplicables al caso específico, en los que se señalarán, ratificarán o adicionarán las medidas que deberá (sic) llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-En los casos en que proceda, la Agencia denunciará ante el Ministerio Público la realización u omisión de actos o hechos que pudieran configurar uno o más delitos ambientales en los términos del Código de Defensa Social para el Estado de Puebla y el Código Penal Federal.
+En los casos en que proceda, la Secretaría denunciará ante el Ministerio Público la realización u omisión de actos o hechos que pudieran configurar uno o más delitos ambientales en los términos del Código Penal del Estado Libre y Soberano de Puebla y el Código Penal Federal.
 
 DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
@@ -29693,35 +30191,33 @@ DE LAS SANCIONES EN MATERIA DE PROTECCIÓN AMBIENTAL
 
 Se considera infractor toda persona o autoridad que por hecho, acto u omisión directa, intencional o imprudencial, colaborando de cualquier forma, o bien, induzca directa o indirectamente a alguien a infringir las disposiciones del presente Capítulo y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1821.
 
-Las sanciones por infracción a las disposiciones que se disponen en el presente Capítulo, serán impuestas por el personal del Departamento de Gestión Ambiental de la Agencia. Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
+Las sanciones que se aplicarán por violación a las disposiciones contenidas en el presente Capítulo, consistirán en:
 
 I. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2012)
 
 II. Apercibimiento;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. Multa del equivalente al valor diario de 10 a 3000 unidades de medida y actualización.
-
-SUPUESTO NORMATIVO / INFRACCIÓN
+III. Multa del equivalente al valor diario de 10 a 20,000 unidades de medida y actualización, calculadas al momento de cometer la infracción.
 
 SUPUESTO NORMATIVO INFRACCIÓN
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-1. Por carecer del dictamen favorable Del equivalente
+1. Por carecer de la licencia o Del equivalente
 
-de la Subdirección de Ecología y Medio al valor diario de
+Dictamen favorable en los giros al valor diario de
 
-Ambiente, en los giros comerciales para 10 a 175 unidades
+comerciales para los que se requiera, 10 a 175 unidades
 
-los que se requiera, de conformidad con de medida y
+de conformidad con el presente de medida y
 
-el presente Capítulo y las disposiciones actualización
+Capítulo y las disposiciones actualización
 
 de este Código Reglamentario Municipal
 
@@ -29769,19 +30265,21 @@ potencialmente emisores de contaminación 20 a 175 unidades
 
 ostensible a la atmósfera de medida y actualización
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-6. Por descarga al sistema de drenaje Del equivalente
+6. Por descarga al sistema de Drenaje Del equivalente
 
-municipal, cauces naturales o al subsuelo al valor diario de
+municipal o al subsuelo, aguas, productos al valor diario de
 
-aguas, productos o líquidos residuales 20 a 1,500 unidades
+o líquidos residuales provenientes de 20 a 1,500 unidades
 
-provenientes de procesos cuyos parámetros de medida y
+procesos, cuyos parámetros estén fuera de las normas de medida y
 
-estén fuera de las normas contempladas en la actualización
+contempladas en la legislación y reglamentación actualización
 
-legislación y reglamentación ambiental vigente
+ambiental vigente, en la zona de cobertura que señalen
+
+los convenios o acuerdos que se celebren para tal efecto
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -29793,17 +30291,17 @@ de conformidad con la legislación ambiental 15 a 50 unidades
 
 vigente de medida y actualización
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 8. Por realizar poda o derribo sin la Del equivalente
 
 autorización municipal, por unidad, al valor diario de
 
-independientemente de reparar el 20 a 400 unidades
+independientemente de reparar el 20 a 1000 unidades
 
 daño causado de medida y actualización
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 9. Los establecimientos comerciales o de Del equivalente
 
@@ -29811,9 +30309,11 @@ servicios que emitan ruido o vibraciones al valor diario de
 
 al ambiente que rebasen los niveles 30 a 300 unidades
 
-máximos permisibles establecidos en el de medida y actualización
+máximos permisibles establecidos en la de medida y actualización
 
-artículo 1796 del presente Código Reglamentario.
+NOM 081-SEMARNAT-1994 y el Acuerdo
+
+por el que se modifica su numeral 5.4.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -29851,17 +30351,17 @@ peligrosas por parte de la autoridad competente 10 a 200 unidades
 
 de medida y actualización
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 13. Cuando las contravenciones a la Del equivalente
 
 reglamentación municipal vigente a que se al valor diario de
 
-refiere esta fracción, conlleven un riesgo de 50 a 3,000 unidades
+refiere esta fracción, conlleven un riesgo de 20 a 20,000 unidades
 
 desequilibrio ecológico por casos de de medida y
 
-contaminación con repercusiones peligrosas actualización
+contaminación con repercusiones peligrosas actualización.
 
 para los ecosistemas, sus componentes o la
 
@@ -29927,31 +30427,37 @@ V. Revocación de la licencia, permiso, concesión o autorización, según el ca
 
 VI. Cancelación de la licencia, permiso, concesión, registro o autorización, según el caso;
 
-VII. Suspensión de la licencia, permiso, concesión o autorización, según el caso; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VIII. Arresto administrativo hasta por treinta y seis horas.
+VII. Suspensión de la licencia, permiso, concesión o autorización, según el caso;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VIII. Arresto administrativo hasta por treinta y seis horas; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IX. La reparación del daño ambiental.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1822.
 
-En caso de no contar con autorización expresa por parte de la Agencia conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
+En caso de no contar con autorización emitida por la Secretaría conforme a lo establecido en el artículo 1741 del presente ordenamiento, el responsable se hará acreedor a las sanciones que se establecerán conforme a los siguientes criterios:
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+I. Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 400 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados en términos de lo señalado en el Artículo 1741 Sexties del presente Código Reglamentario;
 
-I.- Quien en propiedad privada realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 400 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados;
+II. Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 50 a 1000 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados en términos de lo señalado en el Artículo 1741 Sexties del presente Código Reglamentario;
 
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
+III. Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Secretaría determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra; y
 
-II.- Quien en propiedad pública realice el derribo de uno o varios árboles se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 400 unidades de medida y actualización por cada árbol derribado. Además, tendrá la obligación de recuperar la cobertura vegetal perdida donando al Honorable Ayuntamiento el equivalente a la masa vegetal de los árboles derribados; y
+IV. Quien realice poda de árbol en espacio público o privado, sin autorización de la Secretaría de Medio Ambiente, se hará acreedor al pago de una multa por el equivalente al valor diario de 20 a 200 Unidades de Medida y Actualización por cada árbol podado.
 
-III.- Cuando el derribo se realice para la construcción de obras, cuyas dimensiones, impliquen un fuerte impacto ambiental de la zona, para la recuperación de cobertura vegetal, la Agencia determinará la especie y número, considerándose el impacto al ambiente de la zona, independientemente de poder sancionar con clausura temporal o definitiva el lugar de la obra.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1823.
 
-Para la imposición de las sanciones por infracciones al presente Capítulo, se tomará en cuenta a juicio de la Agencia:
+Para la imposición de las sanciones por infracciones al presente Capítulo, se tomará en cuenta a juicio de la Secretaría:
 
 I. La gravedad de la infracción, considerando principalmente el criterio del impacto en la salud pública y la generación de desequilibrio ecológico en el territorio del Municipio de Puebla; y
 
@@ -29963,19 +30469,19 @@ Procederá la clausura temporal o definitiva, parcial o total en los casos que s
 
 Cuando proceda la clausura temporal o definitiva, parcial o total como sanción, el personal comisionado para ejecutarla procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-En los casos en que se imponga como sanción la clausura temporal la Agencia indicará al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
+En los casos en que se imponga como sanción la clausura temporal, la Secretaría indicará al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Si una vez vencido el plazo concedido por la Autoridad para subsanar las infracciones que se hubieran cometido, o resultare que dicha infracción o infracciones aún subsisten, la Agencia podrá imponerse al infractor multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el máximo permitido conforme a la fracción III del artículo 1821 de este Capítulo.
+Si una vez vencido el plazo concedido por la autoridad para subsanar las infracciones que se hubieran cometido, o resultare que dicha infracción o infracciones aún subsisten, la Secretaría podrá imponer al infractor multas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el máximo permitido conforme a la fracción III del artículo 1821 de este Capítulo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1824.
 
-En caso de comprobarse la responsabilidad del infractor por haber realizado actos u omisiones que generen o puedan generar deterioro ambiental o daños a la salud dentro del Municipio, independientemente de la sanción impuesta por la Agencia, el infractor tiene la obligación de realizar o en su defecto, cubrir los gastos de acciones de restauración y en su caso, reparar los daños, hasta que las condiciones ambientales o de salud se restablezcan, a criterio de la Agencia.
+En caso de comprobarse la responsabilidad del infractor por haber realizado actos u omisiones que generen o puedan generar deterioro ambiental o daños a la salud dentro del Municipio, independientemente de la sanción impuesta por la Secretaría, el infractor tiene la obligación de realizar o en su defecto, cubrir los gastos de acciones de restauración y en su caso, reparar los daños, hasta que las condiciones ambientales o de salud se restablezcan, a criterio de la Secretaría.
 
 ###### Artículo 1825.
 
@@ -29997,13 +30503,15 @@ II. La omisión constante y reiterada de las recomendaciones técnicas y adminis
 
 En el caso de reincidencia y según la gravedad de la infracción, se impondrá el equivalente de hasta dos tantos del total de la multa originalmente impuesta, además de la clausura definitiva.
 
-En el caso de reincidencia por la infracción señalada en el numeral 9 de la fracción III del artículo 1821 del presente Código, se sancionará además con la cancelación de la licencia de funcionamiento de conformidad con el artículo 1799 del presente Capítulo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+En el caso de reincidencia por la infracción señalada en el numeral 9 de la fracción III del artículo 1821 del presente Código, se sancionará además con la clausura definitiva, total o parcial de las instalaciones que producen emisiones de ruido.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1828.
 
-Las sanciones establecidas en el presente Capítulo, se impondrán sin perjuicio de otro tipo de responsabilidades que surjan en apego de otras disposiciones legales.
-
-Independientemente de la sanción administrativa impuesta al infractor, en caso de desobediencia al mandato legítimo de autoridad, podrá realizarse la denuncia correspondiente para que se ejercite la acción penal y se haga acreedor a la sanción previstas en el Código de Defensa Social del Estado y el Código Penal Federal o cualquier otro ordenamiento jurídico aplicable.
+Las sanciones establecidas en el presente Capítulo se impondrán sin perjuicio de otro tipo de responsabilidades que surjan en apego de otras disposiciones legales, independientemente de la sanción administrativa impuesta al infractor; en caso de desobediencia al mandato legítimo de autoridad, podrá realizarse la denuncia correspondiente para que se ejercite la acción penal y se haga acreedor a las sanciones previstas en el Código Penal del Estado Libre y Soberano de Puebla y el Código Penal Federal o cualquier otro ordenamiento jurídico aplicable.
 
 ###### Artículo 1829.
 
@@ -39950,3 +40458,37 @@ P.O. 9 DE DICIEMBRE DE 2022.
 PRIMERO. Se deroga el Capítulo 37 "Del Gobierno Digital" del Código Reglamentario para el Municipio de Puebla, así como todas las disposiciones que se opongan al presente Reglamento.
 
 SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE DICIEMBRE DE 2022, QUE APRUEBA EL DICTAMEN POR EL QUE SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 611, LA FRACCIÓN X DEL ARTÍCULO 614 Y LAS FRACCIONES VII, XIII, XV Y XVI DEL ARTÍCULO 615 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 25 DE DICIEMBRE DE 2022, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 15 DENOMINADO "ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS" DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 25 DE DICIEMBRE DE 2022, POR EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS CAPÍTULOS 18 DENOMINADO "ANUNCIOS" DEL LIBRO TERCERO "DESARROLLO URBANO SUSTENTABLE" Y DEL CAPÍTULO 26 DENOMINADO "DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA" DEL LIBRO QUINTO DE "ECOLOGÍA", AMBOS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA".]
+
+PRIMERO. La reforma, adición y derogación de diversas disposiciones de los Capítulos 18 y 26 del Código Reglamentario para el Municipio de Puebla entrarán en vigor al día siguiente de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se deja sin efectos el artículo CUARTO Transitorio del Decreto publicado en el Periódico Oficial del Estado el 11 de febrero de 2011, alusivo a Las Zonas Publicitarías que se señalan en el artículo 1254 fracción XLV.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 25 DE DICIEMBRE DE 2022, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CAPÍTULO 10 “TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL” DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
