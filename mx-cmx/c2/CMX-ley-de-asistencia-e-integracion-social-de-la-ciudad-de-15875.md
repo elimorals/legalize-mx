@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-e-integracion-social-de-la-ciudad-de-15875"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-16"
-last_updated: "2007-02-06"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-02"
 
 LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE FEBRERO DE 2007.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de marzo de 2000.
 
@@ -48,9 +48,13 @@ LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-I.- Regular y promover la protección, asistencia e integración social de las personas, familias o grupos que carecen de capacidad para su desarrollo autónomo o de los apoyos y condiciones para valerse por sí mismas, y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
-II.- Establecer las bases y mecanismos para la promoción del Sistema Local que coordine y concerte las acciones en materia de asistencia e integración social, con la participación de las instituciones públicas, las instituciones de asistencia privada y las asociaciones civiles.
+I.- Regular y promover la protección, asistencia e integración social de las personas, familias o grupos que carecen de capacidad para su desarrollo autónomo o de los apoyos y condiciones para valerse por sí mismas; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+II.- Establecer las bases y mecanismos para la promoción del Sistema Local que coordine y concrete las acciones en materia de asistencia e integración social, con la participación de las instituciones públicas, las instituciones de asistencia privada y las asociaciones civiles.
 
 ###### Artículo 2°.
 
@@ -60,23 +64,35 @@ Se entiende por asistencia social al conjunto de acciones del gobierno y la soci
 
 Se entiende por integración social al proceso de desarrollo de capacidades y creación de oportunidades en los ordenes económico, social y político para que los individuos, familias o grupos sujetos de asistencia social puedan reincorporarse a la vida comunitaria con pleno respeto a su dignidad, identidad y derechos sobre la base de la igualdad y equidad de oportunidades para el acceso a los bienes y servicios sociales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 4°.
 
 Para los efectos de esta Ley se entiende por:
 
 I.- Ley General, a la Ley General de Salud;
 
-II.- Ley Nacional, a la Ley sobre el Sistema Nacional de Asistencia Social;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+II.- Ley Nacional, a la Ley de Asistencia Social;
 
 III.- Secretaría, a la Secretaría de Salud del Ejecutivo Federal;
 
-IV.- Gobierno, al Jefe del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
-V.- Secretaría de Desarrollo, a la Secretaría de Desarrollo Social del Distrito Federal;
+IV.- Gobierno, a la Persona Titular de la Jefatura de Gobierno de la Ciudad de México;
 
-VI.- Secretaría de Salud, a la Secretaría de Salud del Distrito Federal;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
-VII.- DIF-DF, al Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+V.- Secretaría de Inclusión, a la Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI.- Secretaría de Salud, a la Secretaría de Salud de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VII.- DIF-CDMX, al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
 VIII.- Instituciones de Asistencia Privada, Entidades con personalidad jurídica y patrimonio propio, sin propósito de lucro, de conformidad con la Ley de Instituciones de Asistencia Privada para el Distrito Federal;
 
@@ -84,15 +100,21 @@ IX.- Instituciones de Educación Superior, Organismos públicos descentralizados
 
 X.- Asociaciones Civiles, las personas morales con personalidad jurídica, con nombre, patrimonio y órganos propios, de conformidad con lo establecido con el Código Civil para el Distrito Federal, que no tienen fines de lucro y dirigidas a la prestación de servicios de asistencia social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 5°.
 
-Son autoridades de asistencia social en el Distrito Federal:
+Son autoridades de asistencia social en la Ciudad de México:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 30 DE DICIEMBRE DE 2022)</small>
 
 I.- La Secretaría, exclusivamente en el ámbito de competencia que le señala la Ley General;
 
 II.- El Sistema Nacional para el Desarrollo Integral de la Familia, exclusivamente en el ámbito de competencia que le señala la Ley Nacional, y
 
-III.- El Gobierno del Distrito Federal.
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III.- El Gobierno de la Ciudad de México.
 
 ###### Artículo 6°.
 
@@ -106,17 +128,23 @@ En materia de Salubridad General corresponde al Gobierno, planear, organizar, op
 
 ### Capítulo I. Del Sistema de Asistencia e Integración Social
 
-###### Artículo 8°.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
-Para los efectos de este ordenamiento, se entiende como Sistema de Asistencia e Integración Social al conjunto de las unidades administrativas y órganos descentralizados de la Administración Pública del Distrito Federal y a las instituciones privadas y las asociaciones civiles que promuevan programas y operen servicios de asistencia social.
+###### Artículo 8.
 
-###### Artículo 9°.
+Para los efectos de este ordenamiento, se entiende como Sistema de Asistencia e Integración Social al conjunto de las unidades administrativas y órganos descentralizados de la Administración Pública de la Ciudad de México y a las instituciones privadas y las asociaciones civiles que promuevan programas y operen servicios de asistencia social.
 
-La Secretaría de Desarrollo constituirá y coordinará al Sistema Local de Asistencia e Integración Social.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 9.
+
+La Secretaría de Inclusión constituirá y coordinará al Sistema Local de Asistencia e Integración Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 10.
 
-La Secretaría de Desarrollo tiene por objeto ejercer las atribuciones que le confiere esta ley y demás ordenamientos aplicables y en consecuencia se orientará a:
+La Secretaría de Inclusión tiene por objeto ejercer las atribuciones que le confiere esta Ley y demás ordenamientos aplicables y en consecuencia se orientará a:
 
 I.- Planear, organizar, operar y evaluar la prestación de los programas y los servicios de asistencia e integración social de carácter público;
 
@@ -128,7 +156,9 @@ IV.- Optimizar el uso de los recursos públicos destinados para tal efecto;
 
 V.- Dar impulso al desarrollo de los individuos, la familia y la comunidad para la integración social,
 
-VI.- Integrar el Sistema de Información y Diagnóstico de la población en condición de riesgo y vulnerabilidad del Distrito Federal, y
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+VI.- Integrar el Sistema de Información y diagnóstico de la población en condición de riesgo y vulnerabilidad de la Ciudad de México, y
 
 VII.- Llevar a cabo el seguimiento y evaluación de los programas y servicios de asistencia e integración social, así como medir su impacto.
 
@@ -162,9 +192,11 @@ VII.- La asistencia y rehabilitación de la población afectada por desastres pr
 
 Se entiende como usuarios de los programas y servicios de asistencia social, a toda persona que requiera y acceda a los programas y servicios de asistencia social que prestan los sectores público, privado y social.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 14.
 
-El Gobierno promoverá la participación en el Sistema de Asistencia e Integración Social del Distrito Federal de los usuarios de los programas y servicios de asistencia social de los sectores público, social y privado.
+El gobierno promoverá la participación en el Sistema de Asistencia e Integración Social de la Ciudad de México, de los usuarios de los programas y servicios de asistencia social de los sectores público, social y privado.
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2005)</small>
 
@@ -194,27 +226,61 @@ II.- Dispensar cuidado y diligencia en el uso y conservación de los materiales 
 
 ### Capítulo I. De los Mecanismos de la Coordinación y Concertación
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 19.
 
-Con la finalidad de lograr una adecuada coordinación de acciones y programas en el ámbito de la asistencia e integración social, el Gobierno celebrará a través de la Secretaría de Desarrollo, convenios o acuerdos con las Entidades Federativas y Dependencias de la Administración Pública Federal.
+Con la finalidad de lograr una adecuada coordinación de acciones y programas en el ámbito de la asistencia e integración social, el Gobierno celebrará a través de la Secretaría de Inclusión, convenios o acuerdos con las Entidades Federativas y Dependencias de la Administración Pública Federal.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 20.
 
-El Jefe de Gobierno expedirá acuerdos que definan el ámbito de competencia y las atribuciones de las Delegaciones del Distrito Federal en materia de asistencia e integración social.
+El Gobierno expedirá acuerdos que definan el ámbito de competencia y las atribuciones de las Alcaldías de la Ciudad de México en materia de asistencia e integración social.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 21.
 
-Se crea el Consejo de Asistencia e Integración Social del Distrito Federal, como un órgano de concertación, consulta, asesoría y apoyo del Gobierno.
+Se crea el Consejo de Asistencia e Integración Social de la Ciudad de México, como un órgano de concertación, consulta, asesoría y apoyo del Gobierno.
 
-> <small>(REFORMADO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 22.
 
-El Consejo de Asistencia e Integración Social del Distrito Federal estará constituido por un Presidente, un Vicepresidente y dieciocho Consejeros Propietarios: El Presidente será el Jefe de Gobierno, el Vicepresidente será el Titular de la Secretaría de Desarrollo, y los dieciocho Consejeros serán el Titular de la Secretaría de Gobierno, el Titular de la Secretaría de Finanzas, el Titular de la Secretaría de Salud del Distrito Federal, el Titular de la Secretaría de Protección Civil, el Titular de la Secretaría de Trabajo y Fomento al Empleo, el Titular de la Secretaría de Educación, el Titular de la Secretaría de Desarrollo Rural y Equidad para las Comunidades, el Titular de la Procuraduría General de Justicia del Distrito Federal, el Director General del DIF-D.F., los Presidentes de las Comisiones de Salud y Asistencia Social y de Grupos Vulnerables de la Asamblea Legislativa del Distrito Federal y el Presidente de la Junta de Asistencia Privada; el Presidente del Consejo invitará a un representante de la Universidad Nacional Autónoma de México, de la Universidad Autónoma Metropolitana e Instituto Politécnico Nacional y a dos representantes de las Asociaciones Civiles de reconocida trayectoria, pudiendo invitar a las sesiones de trabajo a los responsables de los programas en la materia.
+El Consejo de Asistencia e Integración Social de la Ciudad de México estará constituido por un Presidente, un Vicepresidente y dieciocho Consejeros Propietarios:
 
-###### Artículo 23.
+I. El Presidente será la Persona Titular de la Jefatura de Gobierno;
 
-El Gobierno a través de la Secretaría de Desarrollo, celebrará convenios y acuerdos para la concertación de acciones y programas de asistencia e integración social con los sectores privado y social, así como con las instituciones de Educación Superior con el propósito de coordinar su participación en la ejecución de los servicios y programas de asistencia e integración social que contribuyan a la realización de los objetivos de esta Ley.
+II. El Vicepresidente será la Persona Titular de la Secretaría de Inclusión;
+
+III. La Persona Titular de la Secretaría de Gobierno de la Ciudad de México en su calidad de Consejero Propietario;
+
+IV. La Persona Titular de la Secretaría de Administración y Finanzas de la Ciudad de México en su calidad de Consejero Propietario;
+
+V. La Persona Titular de la Secretaría de Salud de la Ciudad de México en su calidad de Consejero Propietario;
+
+VI. La Persona Titular de la Secretaría de Gestión Integral de Riesgos y Protección Civil en su calidad de Consejero Propietario;
+
+VII. La Persona Titular de la Secretaría de Trabajo y Fomento al Empleo de la Ciudad de México en su calidad de Consejero Propietario;
+
+VIII. La Persona Titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación en su calidad de Consejero Propietario;
+
+IX. La Persona Titular de la Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes en su calidad de consejero propietario.
+
+X. La Persona Titular de la Fiscalía General de Justicia de la Ciudad de México en su calidad de Consejero Propietario;
+
+XI. La Persona Titular de la Dirección General del DIF-CDMX en su calidad de Consejero Propietario;
+
+XII. Las presidencias de las Comisiones de Salud, y la de Inclusión, Bienestar Social y Exigibilidad de Derechos Sociales del Congreso de la Ciudad de México en su calidad de Consejeros Propietarios, y
+
+XIII. La Persona Titular de la Junta de Asistencia Privada en su calidad de Consejero Propietario. La Persona Titular que ocupe la presidencia del Consejo invitará a una o un representante de la Universidad Nacional Autónoma de México, de la Universidad Autónoma Metropolitana e Instituto Politécnico Nacional, y a dos Personas representantes de las Asociaciones Civiles de reconocida trayectoria, pudiendo invitar a las sesiones de trabajo a las y los responsables de los programas en la materia.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Articulo 23.
+
+El Gobierno a través de la Secretaría de Inclusión, celebrará convenios y acuerdos para la concertación de acciones y programas de asistencia e integración social con los sectores privado y social, así como con las instituciones de Educación Superior con el propósito de coordinar su participación en la ejecución de los servicios y programas de asistencia e integración social que contribuyan a la realización de los objetivos de esta ley.
 
 ###### Artículo 24.
 
@@ -269,3 +335,11 @@ CUARTO.- Cuando alguna Unidad Administrativa de las establecidas por las leyes a
 QUINTO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las Unidades Administrativas que los tramiten se incorporen a la Dependencia que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazo improrrogable
 
 SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de Finanzas, y de conformidad con la normatividad aplicable, dotará de recursos a las Secretarías de reciente creación, adecuando el presupuesto autorizado para las dependencias en el ejercicio 2007, mediante movimientos programáticos-presupuestarios compensados.
+
+G.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, LAS FRACCIONES I Y II DEL ARTÍCULO 1, EL PRIMER PÁRRAFO Y LAS FRACCIONES II, IV, V, VI Y VII DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN I Y III DEL ARTÍCULO 5, EL ARTÍCULO 8, EL ARTÍCULO 9, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, EL ARTÍCULO 14, EL ARTÍCULO 19, EL ARTÍCULO 20, EL ARTÍCULO 21, EL ARTÍCULO 22 Y EL ARTÍCULO 23, ASÍ COMO LA DENOMINACIÓN, DE LA LEY DE ASISTENCIA E INTEGRACIÓN SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
