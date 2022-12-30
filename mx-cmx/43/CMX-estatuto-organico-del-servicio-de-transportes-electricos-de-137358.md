@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-servicio-de-transportes-electricos-de-137
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-07-18"
-last_updated: "2019-07-18"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137358&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-06-24"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE TRANSPORTES ELECTRICOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2022 (DEROGADO).
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el jueves 18 de julio de 2019.
 
@@ -1547,3 +1549,15 @@ Ciudad de México, a 24 de junio de 2019
 Ing. Guillermo Calderón Aguilera
 
 Director General del Servicio de Transportes Eléctricos de la Ciudad de México.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Estatuto Orgánico entrará en vigor el día 1° de enero de 2023.
+
+TERCERO. Se derogan las disposiciones contenidas en el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el día 18 de julio de 2019.
