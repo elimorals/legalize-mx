@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2022-06-07"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -363,17 +363,33 @@ Si estando en funciones un Regidor, surgiere algún impedimento previsto en esta
 
 #### SECCIÓN TERCERA. DE LA INSTALACIÓN
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 25.
 
-En la última sesión ordinaria del Ayuntamiento saliente, el Cabildo nombrará una Comisión de Entrega-Recepción, que será plural y representativa, de la que será parte el Presidente Municipal y el Síndico.
+Los Ayuntamientos del Estado salientes, celebrarán con diez días de anticipación del término de su mandato, una Sesión Ordinaria en la cual el Cabildo aprobará la conformación de la Comisión Instaladora y de Entrega-Recepción, que se encargará de los trabajos de Instalación del Ayuntamiento entrante y el Proceso de entrega y recepción correspondiente.
 
-Para el proceso de entrega-recepción, se estará a lo dispuesto en esta Ley.
+La Comisión será plural y representativa, se integrará: por parte del ayuntamiento saliente, por la o el Presidente Municipal, la o el Síndico Municipal, al menos una regidora o regidor y dos personas designadas por la o el Presidente Municipal; por parte del ayuntamiento entrante por la o el Presidente Municipal, la o el Síndico Municipal, al menos una regidora o regidor y dos personas nombradas por la o el Presidente Municipal electo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 25 Bis.
+
+La Comisión Instaladora y de Entrega-Recepción deberá:
+
+I. Solicitar y recibir de la autoridad electoral las constancias de mayoría y validez de la planilla electa por el principio de mayoría relativa, así como las correspondientes de representación proporcional que se encuentren firmes, con las cuales conformará un expediente;
+
+II. Emitir la convocatoria a más tardar, el 30 de agosto del año que corresponda, a la Sesión Solemne de Cabildo, en la cual se llevará acabo la instalación del Ayuntamiento entrante el 31 de agosto del mismo año; y
+
+III. Conducir de manera ordenada el proceso de entrega-recepción, de conformidad con la normatividad vigente.
+
+Lo establecido en el presente artículo deberá realizarse sin perjuicio de lo dispuesto en los artículos 12, tercer párrafo y 218 párrafos sexto y séptimo, ambos de la Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 26.
 
-El día primero de septiembre al inicio del ejercicio constitucional, el Ayuntamiento se constituirá en sesión solemne de Cabildo, en la que el Presidente Municipal electo, rendirá el compromiso constitucional y, atestiguará la que realicen los demás Regidores propietarios.
+Los ayuntamientos entrarán en funciones, el primero de septiembre inmediato al día de la elección, por lo que, el 31 de agosto del año de la elección, el Ayuntamiento entrante se constituirá en Sesión Solemne de Cabildo para su instalación, en la que el Presidente Municipal electo, rendirá el compromiso constitucional y, atestiguará la que realicen los demás Regidores propietarios.
 
 > <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -387,7 +403,9 @@ En dicha sesión solemne, a los Regidores y demás asistentes, se les solicitar�
 
 En seguida, el Presidente Municipal preguntará a los demás integrantes del Cabildo: "¿Se comprometen a guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Yucatán, la Ley de Gobierno de los Municipios del Estado de Yucatán y las demás disposiciones que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Regidor que el pueblo les ha conferido, pugnando en todo momento por el bien y la prosperidad de la Nación, del Estado y del Municipio?". Los interrogados deberán contestar: "Sí, me comprometo". El Presidente Municipal dirá entonces: "Si así no lo hicieren, que la Nación, el Estado y el Municipio, se los demande".
 
-Inmediatamente después, el Presidente Municipal hará la siguiente declaratoria: "Queda legal y legítimamente instalado el Ayuntamiento por el período correspondiente”. Seguidamente designará al Secretario Municipal, de entre sus integrantes, a propuesta del Presidente Municipal.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Inmediatamente después, la o el Presidente Municipal hará la siguiente declaratoria: "Queda legal y legítimamente instalado el Ayuntamiento por el período correspondiente”. Seguidamente y dentro de la misma sesión solemne se designará al Secretario Municipal, de entre sus integrantes, a propuesta de la o el Presidente Municipal.
 
 El Secretario Municipal del Cabildo se encargará de levantar el acta de la sesión, de la que se enviarán copias certificadas a los Poderes del Estado para su conocimiento.
 
@@ -419,7 +437,9 @@ La entrega recepción es un proceso administrativo de interés público, de cump
 
 Dicha entrega-recepción consiste en la transferencia escalonada y ordenada de todas y cada una de las áreas de gobierno y de la administración municipal, de conformidad con el Reglamento de la materia y a falta de éste, lo que disponga el órgano técnico de fiscalización del Poder Legislativo.
 
-Las autoridades entrante y saliente, iniciarán el proceso de la entrega-recepción, dentro de un plazo mínimo de diez días anteriores a la fecha de la instalación del Ayuntamiento y toma de posesión y concluye con la suscripción y entrega del acta respectiva.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La Comisión Instaladora y de Entrega-Recepción, iniciará el proceso de la entrega-recepción, en un plazo mínimo de diez días anteriores a la fecha de la instalación del Ayuntamiento y toma de posesión y concluye con la suscripción y entrega del acta respectiva el 31 de agosto del año de la elección, previamente a la Sesión Solemne de instalación del Ayuntamiento entrante.
 
 > <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -3756,3 +3776,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Artículo Segundo. Derogación
 
 Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 590/2022 POR EL QUE SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE INSTALACIÓN DE LOS AYUNTAMIENTOS”.]
+
+Entrada en Vigor.
+
+Artículo Primero. El presente decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Cláusula derogatoria.
+
+Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
