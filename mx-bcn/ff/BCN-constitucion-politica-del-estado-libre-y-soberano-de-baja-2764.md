@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2022-10-21"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -455,7 +455,7 @@ f.- En todas las etapas del proceso de nombramiento de Comisionadas y Comisionad
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
-Las y los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la Información pública. En la conformación del Pleno del Instituto se deberá garantizar el principio de paridad de género.
+Las y los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto se deberá garantizar el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
@@ -545,7 +545,7 @@ a).- Votar en las elecciones para integrar los órganos de elección popular de 
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
-b) Participar en los términos de esta Constitución y de la ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito, Revocación de Mandato y Presupuesto Participativo;
+b) Participar en los términos de esta Constitución y de la Ley, en los procesos de Consulta Popular, Referéndum, Iniciativa Ciudadana, Plebiscito, Revocación de Mandato y Presupuesto Participativo;
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
@@ -875,7 +875,7 @@ Asimismo, en la integración de la legislatura, el porcentaje de representación
 
 VI.- La asignación de diputaciones por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.
 
-> <small>(REFORMADO PRIMER PÁRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 16.
 
@@ -1499,7 +1499,7 @@ La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a 
 
 Además de lo anterior, ejercerá las siguientes atribuciones:
 
-a).- Desarrollar los trabajos de planeación de las auditorías, pudiendo solicitar información del ejercicio en curso respecto de los procesos concluidos y no concluidos;
+a).- Desarrollar los trabajos de planeación de las auditorias, pudiendo solicitar información del ejercicio en curso respecto de los procesos concluidos y no concluidos;
 
 b).- Fiscalizar la administración, manejo, custodia y aplicación de fondos, subsidios y recursos de los poderes del Estado y de las entidades públicas estatales, incluyendo a los municipios, organismos dotados de autonomía y particulares, cuando manejen recursos de origen público, que incluirá auditoría de desempeño, eficiencia, economía y cumplimiento;
 
@@ -1523,15 +1523,15 @@ Los Poderes del Estado y los sujetos de fiscalización proporcionarán auxilio a
 
 VIII.- La Auditoría Superior del Estado entregará los informes de resultados de las revisiones de las Cuentas Públicas al Congreso del Estado en los términos y plazos que establece la Ley de la materia, mismos que tendrán carácter público y tendrán el contenido que determine la Ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
-La Auditoría Superior del Estado dará a conocer a las entidades fiscalizadas, de manera previa a la presentación de los informes individuales de auditoría, la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría, para este efecto, se sujetará a las siguientes bases:
+La Auditoría Superior del Estado dará a conocer a las entidades fiscalizadas, de manera previa a la presentación de los informes individuales de auditoria, la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoría Superior del Estado para la elaboración de los informes individuales de auditoría, para este efecto, se sujetará a las siguientes bases:
 
-a).- Enviará a las entidades fiscalizadas, par (sic) conducto del Auditor Superior del Estado, los informes individuales de auditoría que les corresponda (sic), a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Estatal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley;
+a).- Enviará a las entidades fiscalizadas, par (sic) conducto del Auditor Superior del Estado, los informes individuales de auditoría que les corresponda (sic), a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoria respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes, en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Estatal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley;
 
 b).- Deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas par (sic) las entidades fiscalizadas, en caso de no hacerlo, se tendrán par (sic) atendidas las recomendaciones y acciones promovidas;
 
 c).- En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia;
 
-d).- Entregará al Congreso del Estado, en los plazos y términos que señale la Ley, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Estatal de Justicia Administrativa.
+d).- Entregará al Congreso del Estado, en los plazos y términos que señale la Ley, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoria que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, la Auditoría Superior del Estado incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Estatal de Justicia Administrativa.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
 
@@ -1737,7 +1737,7 @@ VII.- SOMETER A CONSIDERACIÓN DEL CONGRESO DEL ESTADO, LA TERNA PARA QUE SE REA
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-VIII.- Visitar los Municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
+VIII.- Visitar los Municipios del Estado cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo, dando cuenta al Congreso, o al Tribunal Superior, de las faltas que notare y cuyo remedio corresponda a dichos Poderes, y solicitar al Congreso del Estado la suspensión de Ayuntamientos, que declare que éstos han desaparecido y la suspensión o revocación del mandato de alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, proponiendo al Congreso en su caso los nombres de los vecinos, para que designe a los integrantes de los Concejos Municipales, en los términos de esta Constitución y las Leyes respectivas.
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
@@ -1961,11 +1961,11 @@ Las audiencias serán públicas, excepto aquellas que la moral o el interés col
 
 Las Corporaciones Policíacas, están obligadas a garantizar la plena ejecución de las resoluciones judiciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 57.
 
-El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz y Jurados.
+El Poder Judicial del Estado se ejercerá por el Tribunal Superior de Justicia, Juzgados de Primera Instancia, Tribunales en Materia Laboral, Juzgados de Paz y Jurados.
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2149,9 +2149,9 @@ Si el Congreso resuelve la no ratificación, el Magistrado cesará en sus funcio
 
 Los Tribunales del Poder Judicial resolverán las controversias que en el ámbito de su competencia se les presenten.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La competencia del Tribunal Superior de Justicia, su funcionamiento en pleno y en salas colegiadas unitarias y metropolitanas, de los Juzgados y Jueces de Primera Instancia, Juzgados en Materia Laboral, Juzgados de Paz, Jurados, se regirán por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece.
+La competencia del Tribunal Superior de Justicia, su funcionamiento en pleno y en salas colegiadas unitarias y metropolitanas, de los Juzgados y Jueces de Primera Instancia, Tribunales en Materia Laboral, Juzgados de Paz, Jurados, se regirá por lo que dispongan la Ley Orgánica del Poder Judicial y, de conformidad con las bases que esta Constitución establece.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
@@ -2351,11 +2351,29 @@ XVI.- EJERCER LAS DEMÁS ATRIBUCIONES QUE LES SEÑALE ESTA CONSTITUCIÓN Y LAS L
 
 (DEROGADO, P.O. 19 DE OCTUBRE DE 2020)
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE DEROGA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 93, PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2022, PÁGINA 36.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 65.
 
-(DEROGADO, P.O. 19 DE OCTUBRE DE 2020)
+…
+
+Las personas …
+
+El Consejo …
+
+Corresponderá al Consejo de la Judicatura el desarrollo de la carrera judicial. Al Pleno del Consejo le corresponderá proponer al Pleno del Tribunal Superior la designación, adscripción, remoción y renuncia de Jueces del Poder Judicial en los términos de la Ley y el reglamento respectivo. Las propuestas de nombramiento de Jueces, Secretarios de Acuerdos, Secretario Instructor, Actuarios y del personal jurisdiccional del Tribunal Superior de Justicia se integrarán con quienes hayan resultado aprobados en los exámenes psicométricos, de oposición y de méritos practicados por el Consejo de la Judicatura, conforme a la Ley y el reglamento respectivo. Los Secretarios de Acuerdos, Secretario Instructor y Actuarios serán seleccionados por el Juez respectivo de entre quienes integren la lista que le presente el Consejo. Asimismo, resolverá los demás asuntos que la Ley determine.
+
+Los Consejeros …
+
+La Ley establecerá …
+
+El Consejo de la Judicatura …
+
+Las resoluciones …
+
+El Consejo de la Judicatura del Estado elaborará …
 
 (NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2365,11 +2383,9 @@ XVI.- EJERCER LAS DEMÁS ATRIBUCIONES QUE LES SEÑALE ESTA CONSTITUCIÓN Y LAS L
 
 LOS MAGISTRADOS Y JUECES DEL PODER JUDICIAL DEL ESTADO, DURANTE EL TIEMPO DE SU ENCARGO, AUN CUANDO TENGAN CARÁCTER DE INTERINOS, NO PODRÁN ACEPTAR NI DESEMPEÑAR EMPLEO O ENCARGO EN LA FEDERACIÓN, ESTADO O MUNICIPIOS NI DE PARTICULARES, SALVO LOS CARGOS NO REMUNERADOS EN ASOCIACIONES CIENTÍFICAS, DOCENTES, LITERARIAS O DE BENEFICENCIA. ASIMISMO, ESTARÁN IMPEDIDOS PARA LITIGAR ANTE CUALQUIER INSTANCIA, SALVO CUANDO SE TRATE DE CAUSA PROPIA.
 
-(NOTA: EL 28 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 187/2020, DECLARÓ LA INVALIDEZ DEL DECRETO No. 110 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 29 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2020)</small>
-
-LOS SECRETARIOS DE ESTUDIO Y CUENTA, SECRETARIOS DE ACUERDOS Y ACTUARIOS DEL PODER JUDICIAL, ESTARÁN SUJETOS A LOS MISMOS IMPEDIMENTOS QUE ALUDE EL PÁRRAFO ANTERIOR, PERO SI PODRÁN DESEMPEÑAR CARGOS REMUNERADOS EN ASOCIACIONES CIENTÍFICAS, DOCENTES, LITERARIAS O DE BENEFICENCIA.
+Los Secretarios de Acuerdos, Secretario instructor y Actuarios del Poder Judicial del Estado, estarán sujetos a los mismos impedimentos a que alude el párrafo anterior, pero sí podrán desempeñar cargos remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -3617,7 +3633,7 @@ Entre tanto se constituye el Poder Judicial del Estado, en los términos que dis
 
 ###### ARTICULO DECIMO SEXTO.
 
-Durante el período que dure en su cargo el Gobernador Provisional y mientras el Estado no dicte sus propias leyes, continuará rigiendo en él la legislación del ex-territorio Norte de la Baja California, excepto en aquello que pugne con las disposiciones de esta Constitución. Con las mismas salvedades consignadas en este artículo se seguirá aplicando la "Ley de Ingresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicada en el Diario Oficial de la Federación de 31 de diciembre de 1951, y el "Presupuesto provisional de Egresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicado en el número 37 del Periódico Oficial del Territorio Norte de la Baja California, correspondiente al 30 de diciembre de 1951.
+Durante el período que dure en su cargo el Gobernador Provisional y mientras el Estado no dicte sus propias leyes, continuará rigiendo en él la legislación del ex-Territorio Norte de la Baja California, excepto en aquello que pugne con las disposiciones de esta Constitución. Con las mismas salvedades consignadas en este artículo se seguirá aplicando la "Ley de Ingresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicada en el Diario Oficial de la Federación de 31 de diciembre de 1951, y el "Presupuesto provisional de Egresos del Territorio Norte de la Baja California para el Ejercicio Fiscal de 1952", publicado en el número 37 del Periódico Oficial del Territorio Norte de la Baja California, correspondiente al 30 de diciembre de 1951.
 
 ###### ARTICULO DECIMO SEPTIMO.
 
@@ -3981,7 +3997,7 @@ En su oportunidad, pronunciada la Declaratoria en los términos establecidos por
 
 ###### ARTÍCULO TERCERO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado de Baja California.
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Baja California.
 
 P.O. 15 DE ENERO DE 1999.
 
@@ -4157,7 +4173,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su pub
 
 P.O. 18 DE OCTUBRE DE 2002.
 
-PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
 
 SEGUNDO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Municipios de esta entidad para que emitan su opinión en los términos de ley.
 
@@ -4299,7 +4315,7 @@ Aprobada que sea la presente reforma, deberá enviarse a los Ayuntamientos del E
 
 ###### ARTÍCULO TERCERO.
 
-En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que se refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
+En un término que no exceda de 30 días en la entrada en vigor de dicha reforma, el Congreso del Estado deberá emitir la Ley reglamentaria a la que refiere el párrafo cuarto del artículo 95 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 P.O. 11 DE JULIO DE 2008.
 
@@ -4337,13 +4353,13 @@ SEPTIMO.- La Contraloría General del Instituto a que se refiere el Apartado B d
 
 OCTAVO.- El Congreso del Estado deberá adecuar la legislación secundaria, a más tardar dentro de los noventa días siguientes a la entrada en vigor de las presentes reformas.
 
-NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones, vigentes al momento de su interposición.
+NOVENO.- Los medios de impugnación, denuncias y quejas que a la entrada en vigor del presente Decreto se encuentren en trámite y las que se presenten en forma posterior pero antes de la reforma a la Ley de la materia, deberán resolverse conforme a las disposiciones vigentes al momento de su interposición.
 
 DÉCIMO.- Se derogan, en lo conducente, todas las disposiciones que se opongan a las presentes reformas.
 
 DÉCIMO PRIMERO.- Las menciones que en otras leyes se hagan al Instituto Estatal Electoral, se entenderán hechas al Instituto Electoral y de Participación Ciudadana.
 
-DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana bajo el siguiente procedimiento:
+DÉCIMO SEGUNDO.- Si a la entrada en vigor del presente decreto estuviera vacante el cargo de Director General del Instituto Estatal Electoral, el Consejo General Electoral procederá a designar al Director General del Instituto Electoral y de Participación Ciudadana, bajo el siguiente procedimiento:
 
 I. El Consejero Presidente propondrá al aspirante al cargo de Director General del Instituto Electoral y de Participación Ciudadana, y será designado mediante la votación aprobatoria de las dos terceras partes de los integrantes del mismo Consejo;
 
@@ -4365,9 +4381,9 @@ P.O. 19 DE SEPTIEMBRE DE 2008.
 
 DECRETO No. 123, POR EL QUE SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 27 Y SE ADICIONA EL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.
 
-PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112, de la Constitución Política del Estado Libre y Soberano de Baja California.
+PRIMERO.- Túrnese el presente decreto a los ayuntamientos, de conformidad con el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
+SEGUNDO.- Una vez agotado el proceso legislativo en los términos del artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California y resultando el recuento aprobatorio, las presentes reformas pasarán a formar parte de esta Constitución.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 
@@ -4389,7 +4405,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan en lo conducente, todas las disposiciones que se opongan a la presente reforma.
 
-TERCERO.- Córrase el trámite que señala el artículo 122 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
+TERCERO.- Córrase el trámite que señala el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, a los Ayuntamientos para que emitan su opinión, en los términos de ley.
 
 P.O. 26 DE DICIEMBRE DE 2008.
 
@@ -4445,7 +4461,7 @@ P.O. 28 DE AGOSTO DE 2009.
 
 Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del estado Libre y Soberano de Baja California.
 
-Segundo.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente reforma Constitucional para los efectos conducentes.
+Segundo.- En su oportunidad, pronunciada la declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja california, remítase al Ejecutivo la presente reforma Constitucional para los efectos conducentes.
 
 Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -4681,7 +4697,7 @@ P.O. 6 DE DICIEMBRE DE 2013.
 
 Artículo Primero.- Aprobada que sea esta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado, copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
-Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas del artículo 27 de la Constitución Política y de los artículos 18 y 41 de la ley Orgánica de la Administración Pública, ambos ordenamientos legales para el Estado de Baja California; al Poder Ejecutivo para su publicación.
+Artículo Segundo.- Agotado el trámite y pronunciada la declaratoria señalada en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítanse las presentes reformas del artículo 27 de la Constitución Política y de los artículos 18 y 41 de la Ley Orgánica de la Administración Pública, ambos ordenamientos legales para el Estado de Baja California, al Poder Ejecutivo para su publicación.
 
 Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
@@ -4699,7 +4715,7 @@ P.O. 13 DE DICIEMBRE DE 2013.
 
 DECRETO NO. 14 POR EL QUE SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 98 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-PRIMERO.- Aprobada que sea ésta iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+PRIMERO.- Aprobada que sea ésta Iniciativa por esta Honorable Asamblea, envíese a los Ayuntamientos del Estado copia del acta de los debates que hubiere provocado, para efecto de dar cumplimiento con lo previsto por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 SEGUNDO.- En su oportunidad, pronunciada la Declaratoria en los términos establecidos por el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California, remítase al Ejecutivo la presente Reforma Constitucional para los efectos conducentes.
 
@@ -4715,7 +4731,7 @@ TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 
 CUARTO.- Las remuneraciones que sean superiores a la máxima establecida en el decreto que se aprueba, deberán ser ajustadas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente decreto.
 
-QUINTO.- A partir del ejercicio fiscal del año siguiente a aquél en que hayan entrado en vigor las presentes reformas~ las percepciones de Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado se sujetarán a lo siguiente:
+QUINTO.- A partir del ejercicio fiscal del año siguiente a aquél en que hayan entrado en vigor las presentes reformas, las percepciones de Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado se sujetarán a lo siguiente:
 
 I.- Las retribuciones nominales señaladas en los presupuestos vigentes superiores al monto máximo previsto en la fracción III del artículo 97 de la Constitución Política del Estado Libre y Soberano de Baja California, se mantendrán para los funcionarios que actualmente se encuentran en su encargo.
 
@@ -4939,13 +4955,13 @@ Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los A
 
 ###### ARTÍCULO TERCERO.
 
-las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ###### ARTÍCULO CUARTO.
 
 Por única ocasión, el Presidente de la Comisión Estatal de los Derechos Humanos, será nombrado siguiendo los requisitos y procedimientos que sean aplicables, previstos en la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, así como las bases siguientes:
 
-I.- La Comisión de Derechos Humanos del Poder legislativo elaborará el proyecto de convocatoria para la elección del Presidente de la Comisión de Derechos Humanos de Baja California, el cual someterá a consideración y aprobación, en su caso, por el Pleno del Congreso del Estado, que deberá emitir la convocatoria correspondiente dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto. La referida convocatoria deberá ser difundida cuando menos por una ocasión, en dos de los medios impresos de circulación estatal.
+I.- La Comisión de Derechos Humanos del Poder Legislativo elaborará el proyecto de convocatoria para la elección del Presidente de la Comisión de Derechos Humanos de Baja California, el cual someterá a consideración y aprobación, en su caso, por el Pleno del Congreso del Estado, que deberá emitir la convocatoria correspondiente dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto. La referida convocatoria deberá ser difundida cuando menos por una ocasión, en dos de los medios impresos de circulación estatal.
 
 La convocatoria se elaborará tomando en cuenta en lo que sea aplicable, los requisitos y bases generales previstos en los artículos 7 y 9 de la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California. En las entrevistas que se realicen a los aspirantes se les concederá el uso de la voz hasta por quince minutos cada uno.
 
@@ -4979,7 +4995,7 @@ Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Pr
 
 ###### ARTÍCULO NOVENO.
 
-En un plazo que no exceda de 60 días naturales siguientes a la entrada en vigor del presente decreto del (sic) Poder legislativo deberá expedir la Ley de la Comisión Estatal de los Derechos Humanos, en caso de que al vencer este plazo no se cuente con la norma general, se seguirá aplicando la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California.
+En un plazo que no exceda de 60 días naturales siguientes a la entrada en vigor del presente decreto del (sic) Poder Legislativo deberá expedir la Ley de la Comisión Estatal de los Derechos Humanos, en caso de que al vencer este plazo no se cuente con la norma general, se seguirá aplicando la Ley sobre la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -5193,7 +5209,7 @@ QUINTO.- Las adiciones y reformas a los artículos 5, 37, 55, 69, 70, 91, 92, 93
 
 SEXTO.- En tanto se expiden las leyes a que se refiere el inciso b) del ARTÍCULO CUARTO TRANSITORIO de este Decreto, continuará aplicándose la ley en materia de responsabilidades administrativas de los servidores públicos, así como de fiscalización y control de recursos públicos del ámbito estatal, que se encuentren vigentes a la fecha de entrada en vigor de la presente reforma.
 
-SÉPTIMO.- En tanto empiece a ejercer sus atribuciones la Auditoría Superior del Estado y sea designado su nuevo titular, el Órgano Superior de Fiscalización continuará ejerciendo las atribuciones que actualmente tiene conforme a esta Constitución, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios y demás disposiciones aplicables. El nuevo titular de la Auditoría Superior del Estado será nombrado dentro de los noventa días siguientes a la vigencia del artículo 37, conforme a lo dispuesto en el TRANSITORIO QUINTO del presente Decreto, y en los términos de las disposiciones aplicables. En tanto se designa al nuevo titular, seguirá en funciones de la Auditoría Superior del Estado, el Auditor Superior de Fiscalización.
+SÉPTIMO.- En tanto empiece a ejercer sus atribuciones la Auditoría Superior del Estado y sea designado su nuevo titular, el Órgano Superior de Fiscalización continuará ejerciendo las atribuciones que actualmente tiene conforme a esta Constitución, la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios y demás disposiciones aplicables. El nuevo titular de la Auditoría Superior del Estado será nombrado dentro de los noventa días siguientes a la vigencia del artículo 37, conforme a lo dispuesto en el TRANSITORIO QUINTO del presente Decreto, y en los términos de las disposiciones aplicables. En tanto se designa al nuevo titular, seguirá en funciones de la Auditoria Superior del Estado, el Auditor Superior de Fiscalización.
 
 OCTAVO.- Una vez creada la Auditoría Superior del Estado se le transmitirá los bienes y recursos del actual Órgano de Fiscalización Superior y continuara atendiendo los asuntos pendientes a cargo de esta última. El Órgano de Fiscalización Superior solo modifica su denominación por la de Auditoría Superior del Estado, por lo que conserva su naturaleza jurídica y objeto, así como las obligaciones y derechos que le correspondían hasta la vigencia de la presente reforma. Las referencias que se hagan en otras disposiciones legales al Órgano de Fiscalización Superior o al Auditor Superior de Fiscalización, se entenderán hechas a la Auditoría Superior del Estado o al Auditor Superior del Estado, respectivamente.
 
@@ -5227,7 +5243,7 @@ P.O. 19 DE ENERO DE 2018.
 
 ###### ARTÍCULO PRIMERO.
 
-Aprobadas que sean las presentes reformas, túrnese a los Ayuntamiento del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -5461,7 +5477,7 @@ SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprob
 
 TERCERO.- La presente reforma, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-CUARTO.- El Congreso del Estado, deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Baja California; las reformas a la Ley Orgánica del Poder Judicial y las demás reformas que sean necesarias para la correcta implementación del Sistema de Justicia Laboral establecido por las reformas a la Constitución Política de los Estados Unidos Mexicanos, publicadas en el Diario Oficial de la Federación en fecha 24 de febrero de 2017 y las reformas a la Ley Federal del Trabajo publicadas en el Diario Oficial de la federación de fecha 1 de mayo del año 2019, dentro del término de los 240 días naturales siguientes a la entrada en vigor del presente Decreto.
+CUARTO.- El Congreso del Estado, deberá expedir la Ley del Centro de Conciliación Laboral del Estado de Baja California; las reformas a la Ley Orgánica del Poder Judicial y las demás reformas que sean necesarias para la correcta implementación del Sistema de Justicia Laboral establecido por las reformas a la Constitución Política de los Estados Unidos Mexicanos, publicadas en el Diario Oficial de la Federación en fecha 24 de febrero de 2017 y las reformas a la Ley Federal del Trabajo publicadas en el Diario Oficial de la Federación de fecha 1 de mayo del año 2019, dentro del término de los 240 días naturales siguientes a la entrada en vigor del presente Decreto.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
 
@@ -5614,3 +5630,13 @@ PRIMERO. Aprobadas que sean las presentes reformas, túrnese a los ayuntamientos
 SEGUNDO. Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 193 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 57, 59, 65 Y 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Una vez aprobada la presente túrnese a los ayuntamientos del Estado de Baja California para el trámite previsto en el artículo de la Constitución Política del Estado Libre Y Soberano de Baja California
+
+SEGUNDO. Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los ayuntamientos del estado procédase a realizar la declaratoria de incorporación constitucional respectiva.
+
+TERCERO. La presente reforma, entrara en vigor al día siguiente de su publicación el periódico oficial del Estado
