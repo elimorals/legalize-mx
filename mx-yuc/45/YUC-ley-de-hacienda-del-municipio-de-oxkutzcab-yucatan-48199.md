@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-oxkutzcab-yucatan-48199"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2013-12-27"
+last_updated: "2022-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 30 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -1390,3 +1392,19 @@ Este Decreto entrará en vigor al día siguiente a su publicación en el Diario 
 D.O. 27 DE DICIEMBRE DE 2013.
 
 Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL MUNICIPIO DE OXKUTZCAB, YUCATÁN”.]
+
+Artículo Primero.- Este Decreto entrará en vigor el día primero de Enero del año dos mil veintitrés previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga el decreto número 645 de fecha 31 de diciembre de 2006, que contiene la Ley de Hacienda del Municipio de Oxkutzcab, Yucatán.
+
+Artículo Tercero.- Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en esta Ley.
+
+Artículo Cuarto.- En lo no previsto en esta Ley, se aplicará supletoriamente, lo establecido por el Código Fiscal del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 587/2022 POR EL QUE SE EXPIDEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE CANTAMAYEC, CONKAL, CUNCUNUL, CHANKOM, CHUMAYEL, HOCABÁ, HUNUCMÁ, IXIL, OXKUTZCAB Y UCÚ, TODAS DEL ESTADO DE YUCATÁN".]
+
+Artículo único. Este Decreto, entrará en vigor el primero de enero del año 2023, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
