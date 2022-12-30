@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-procuraduria-de-proteccion-al-ambiente-para-el-92064"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-11"
-last_updated: "2018-11-30"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92064&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 11 de enero de 2013.
 
@@ -73,9 +73,13 @@ VII.- Procuraduría: La Procuraduría de Protección al Ambiente para el Estado 
 
 VIII.- Recomendación: Resolución emitida por la Procuraduría y dirigida a las dependencias, órganos desconcentrados y entidades de la administración pública, estatal, municipal y del Estado de Baja California, que tiene el propósito de promover la aplicación, y el cumplimiento de las disposiciones jurídicas en materia ambiental, cuando se acrediten actos, hechos u omisiones que constituyan violaciones, incumplimiento o falta de aplicación de esas disposiciones, o cuando las acciones de las autoridades correspondientes generen o puedan generar desequilibrio ecológico, daños o deterioro grave del ambiente y los recursos naturales del Estado de Baja California;
 
-IX.- Reglamento: El Reglamento de la Ley Orgánica de la Procuraduría de Protección al Ambiente para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X.- Secretaría: La Secretaría del Medio Ambiente del Estado de Baja California;
+IX.- Reglamento: El Reglamento de la Ley de la Procuraduría de Protección al Ambiente para el Estado de Baja California;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+X.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
 XI.- Sugerencia: Resolución emitida por la Procuraduría y dirigida al Congreso del Estado o a los órganos jurisdiccionales para su consideración en los procedimientos, procesos, recursos, iniciativas de ley, proposiciones legislativas o de cualquier otro asunto de su competencia, que tiene por objeto promover y mejorar la aplicación y cumplimiento de las disposiciones jurídicas en materia ambiental y del ordenamiento territorial; y
 
@@ -121,35 +125,77 @@ XII.- Celebrar toda clase de actos jurídicos que se requieran para el ejercicio
 
 XIII.- Las demás que le confieran esta Ley y otros ordenamientos legales.
 
-### CAPÍTULO II. DE LA ESTRUCTURA DE LA PROCURADURÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO II. DE LOS ÓRGANOS DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 7.
 
-La Procuraduría se integrará por:
+Para el cumplimiento de su objeto, la Procuraduría contará con los siguientes órganos de gobierno:
 
-I.- Junta de Gobierno;
+I.- Junta de Gobierno; y,
 
-II.- El Procurador;
+II.- El Procurador.
 
-III.- Dirección Jurídica y de Dictamen;
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV.- Dirección de Inspección y Vigilancia Ambiental;
+Artículo 7 BIS. La Junta de Gobierno, es el órgano rector de la Procuraduría, y se integrará por:
 
-V.- Dirección Administrativa;
+I. La Persona Titular de la Secretaría, quien la presidirá;
 
-VI.- Las Unidades Administrativas que se establezcan en su reglamento interior.
+II.- La Persona Titular de la Secretaría de Hacienda;
 
-La Junta de Gobierno a que se refiere la fracción primera de este artículo, tendrá las atribuciones que al efecto se establezcan en el Reglamento de la presente Ley.
+III.- La Persona Titular de la Oficialía Mayor de Gobierno;
+
+IV.- La Persona Titular de la Secretaría de Seguridad Ciudadana;
+
+V.- La Persona Titular de la Secretaría de la Honestidad y la Función Pública; y,
+
+VI.- La Persona Titular de la Secretaría de Salud.
+
+La Persona Titular de la Procuraduría fungirá como Secretario Técnico de la Junta de Gobierno, el cual solo tendrá derecho a voz en el desarrollo de sus sesiones.
+
+Para la validez de las sesiones se deberá contar con la mitad más uno de sus integrantes, las decisiones se tomarán por mayoría de votos, contando con voto de calidad la Persona Titular de la Presidencia.
+
+Cada uno de los integrantes deberán designar a un suplente que cubra sus ausencias temporales, los cuales deberán tener por lo menos el cargo de director de área o su equivalente.
+
+La organización de las sesiones y funcionamiento de la Junta de Gobierno se sujetará a lo que disponga el Reglamento interno de la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 7 TER. La Junta de Gobierno tendrá las atribuciones siguientes:
+
+I.- Establecer políticas, programas, bases y lineamientos generales para el debido funcionamiento de la Procuraduría;
+
+II.- Aprobar los proyectos de programas operativos anuales y financieros de presupuesto de ingresos y de egresos, y sus modificaciones, sujetándose a lo dispuesto en la legislación aplicable;
+
+III.- Aprobar los programas y planes de trabajo presentados por la Persona Titular de la Procuraduría;
+
+IV.- Recibir y analizar los informes que presente la Persona Titular de la Procuraduría;
+
+V.- Aprobar los manuales de organización y de procedimientos de la Procuraduría;
+
+VI.- Aprobar el proyecto del Reglamento Interno de la Procuraduría, en el que se establezcan las bases de organización, estructura, atribuciones de las unidades administrativas, así como las facultades y obligaciones que correspondan a sus titulares y la manera de suplir a estos en sus ausencias; y,
+
+VII.- Las demás que le confieran esta Ley, el Reglamento y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 8.
 
-La Procuraduría estará a cargo de un Procurador, que será nombrado y en su caso removido libremente por el Gobernador del Estado.
+Al frente de la Procuraduría estará su Titular quien será nombrado y en su caso removido por la Persona Titular del Poder Ejecutivo del Gobierno del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 9.
 
-Para ser Procurador se requiere:
+La Persona Titular de la Procuraduría, deberá reunir los siguientes requisitos:
 
-I.- Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
 II.- Tener, cuando menos, 30 años de edad, el día de su nombramiento;
 
@@ -157,13 +203,25 @@ III.- Tener título de licenciatura o educación superior con conocimiento y exp
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad y no encontrarse inhabilitado para ocupar puestos públicos en el Estado de Baja California;
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 10.
 
-El Procurador deberá protestar ante el Gobernador, guardar y hacer guardar la Constitución Política del Estado de Baja California y las leyes que de ella emanen, desempeñando leal y patrióticamente el cargo que se le ha conferido.
+Para el cumplimiento de las atribuciones que le determine esta Ley y el Reglamento, la Persona Titular de la Procuraduría se auxiliará de las áreas siguientes:
+
+I.- La Dirección de Inspección y Vigilancia Ambiental;
+
+II.- La Dirección Jurídica y de Dictamen;
+
+III.- La Dirección Administrativa; y,
+
+IV.- Las demás unidades administrativas que se establezcan en el Reglamento Interno de la Procuraduría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 11.
 
-El titular de la Procuraduría tendrá las siguientes atribuciones:
+La Persona Titular de la Procuraduría tendrá las facultades y obligaciones siguientes:
 
 I.- Representar legalmente a la Procuraduría ante cualquier autoridad Federal, Estatal, Municipal y organismos descentralizados, así como, ejercer las funciones que a ésta le correspondan;
 
@@ -205,11 +263,21 @@ XIX.- Nombrar, promover y remover a los servidores públicos de la Procuraduría
 
 XX.- Participar en los Consejos instituciones y organizaciones con las cuales tenga relación directa en virtud de la naturaleza de sus atribuciones, de conformidad con la normatividad aplicable;
 
-XXI.- Presentar el proyecto de Reglamento Interior al Gobernador para su aprobación;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXII.- Presentar al Congreso el informe anual de sus actividades y del ejercicio de su presupuesto; y
+XXI.- Remitir al Poder Ejecutivo del Estado, el Reglamento Interno de la Procuraduría aprobado por la Junta de Gobierno, para los efectos que correspondan;
 
-XXIII.- Las demás que se le asignen en otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXII.- Ejercer la acción de responsabilidad ambiental y el cumplimiento de las obligaciones, pagos y prestaciones relativas, en términos de las leyes de la materia;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIII.- Presentar al Congreso el informe anual de sus actividades y del ejercicio de su presupuesto; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+XXIV.- Las demás que se le asignen en otros ordenamientos legales.
 
 ###### Artículo 12.
 
@@ -317,13 +385,59 @@ XXVI.- Las demás que le confieren otros ordenamientos jurídicos y administrati
 
 El Reglamento de esta ley, establecerá los mecanismos que permitan, según corresponda, una actuación coordinada a las Direcciones y otras unidades administrativas de la Procuraduría, en el ejercicio de las atribuciones referidas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 15.
 
-La Procuraduría, de acuerdo con el presupuesto que le corresponde, y de conformidad con las disposiciones jurídicas y administrativas aplicables, contará con las Coordinaciones, Jefaturas de Unidad Departamental, Verificadores, Inspectores, Investigadores, Peritos y demás servidores públicos que se requieren para el ejercicio de sus atribuciones.
+La Dirección Administrativa tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las normas, políticas y lineamientos en materia de administración y desarrollo de recursos humanos, materiales y financieros, que emitan las dependencias correspondientes;
+
+II. Coordinar y tramitar las modificaciones en la situación del personal adscrito a la Procuraduría, tales como altas, cambios, bajas, licencias, vacaciones, comisiones y remuneraciones, así como integrar los expedientes del personal con la documentación correspondiente;
+
+III. Coordinar que se realice el trámite, distribución y pago de sueldos, salarios y demás remuneraciones por servicios personales, así como las prestaciones de carácter económico y sociocultural, vigilando que se apliquen las percepciones, retenciones, descuentos, deducciones y embargos correspondientes, lo anterior en apego a las disposiciones aplicables;
+
+IV. Vigilar el cumplimiento de los derechos, obligaciones y responsabilidades de los empleados, observando los reglamentos, condiciones generales de trabajo, políticas y demás ordenamientos legales; así como aplicar las medidas preventivas, correctivas y sanciones disciplinarias cuando correspondan;
+
+V. Establecer los mecanismos que permitan diagnosticar los requerimientos e integración del empleado al medio laboral, como acciones de capacitación, desarrollo y evaluación del desempeño de las funciones asignadas, conforme a la normatividad aplicable;
+
+VI. Formular, de conformidad con las disposiciones aplicables y previa aprobación de la Persona Titular de la Procuraduría, los lineamientos para la elaboración del presupuesto de la Procuraduría; además de integrar la información programática, presupuestal y financiera, para la oportuna presentación de la cuenta pública y en su caso, solventar las observaciones formuladas a la misma;
+
+VII. Planear, programar, organizar, controlar y evaluar los sistemas y procedimientos de administración y desarrollo de los recursos humanos y materiales;
+
+VIII. Elaborar informes financieros de acuerdo a las normas de contabilidad, presupuesto y gasto publico aplicables, para presentarlos a consideración de la Persona Titular de la Procuraduría y, posteriormente, a la Junta de Gobierno para su aprobación;
+
+IX. Aprobar el programa anual de adquisiciones, y presentarlo a la Persona Titular de la Procuraduría para su autorización; así como supervisar el trámite general de las mismas, de acuerdo a las políticas y lineamientos presupuestales establecidos;
+
+X. Coordinar las actividades del Subcomité de Adquisiciones, Arrendamientos y Servicios de la Procuraduría;
+
+XI. Previo acuerdo de la Persona Titular de la Procuraduría y conforme a las disposiciones legales aplicables, instaurar, substanciar y resolver los procedimientos administrativos de recisión de contratos relativos a las adquisiciones, arrendamientos y servicios; lo anterior en coordinación con la Dirección Jurídica y de Dictamen;
+
+XII. Aplicar las penas convencionales y sanciones previstas en los contratos relativos a las adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables;
+
+XIII. Establecer los mecanismos y lineamientos adecuados para el correcto control y funcionamiento del almacén de la Procuraduría;
+
+XIV. Elaborar las justificaciones para la obtención de ampliaciones presupuestales requeridas con base en los estudios e investigaciones realizadas por la Coordinación de planeación, evaluación y seguimiento;
+
+XV. Revisar el registro correcto de los ingresos y el ejercicio del presupuesto autorizado de la Procuraduría e informar en todo momento a la Persona Titular de la Procuraduría;
+
+XVI. Coordinar los programas de desarrollo institucional para mejorar la calidad de los servicios que presta la Procuraduría;
+
+XVII. Informar a la Persona Titular de la Procuraduría sobre las acciones realizadas y resultados obtenidos;
+
+XVIII. Establecer mecanismos de operación de inventarios para el eficiente manejo, control y operación de los bienes de activo fijo asignados a la Procuraduría, manteniéndolo actualizado y vigilando su racional utilización;
+
+XIX. Coordinar el desarrollo, instalación y actualización de los sistemas computacionales a fin de agilizar la información requerida para la toma de decisiones y para el funcionamiento adecuado de los sistemas computacionales de la Procuraduría;
+
+XX. Integrar y mantener actualizado el acervo documental, audiovisual, hemerográfico y digital de la Procuraduría y resguardar los expedientes y archivos que correspondan a su área de competencia; y,
+
+XXI. Las demás que le sean encomendadas por la Persona Titular de la Procuraduría, esta Ley, el Reglamento y otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 16.
 
-Todos los servidores públicos, que integren la plantilla de la Procuraduría se considerarán como trabajadores de confianza, debido a la naturaleza de las funciones que éste desempeña.
+La Procuraduría, de acuerdo con su presupuesto, y de conformidad con las disposiciones normativas aplicables, contara con las coordinaciones, jefaturas, verificadores, inspectores, investigadores, peritos y demás servidores públicos que se requieran para el ejercicio de sus atribuciones. Todos los servidores públicos, que integren la plantilla de la Procuraduría se consideraran como trabajadores de confianza, debido a la naturaleza de las funciones que desempeñan.
 
 ###### Artículo 17.
 
@@ -333,11 +447,23 @@ Durante el desempeño de su cargo, el Procurador, los directores generales, coor
 
 La Procuraduría deberá promover la más amplia difusión de su objeto y facultades entre los habitantes del Estado, así como, dé sus programas, a efecto de lograr el mayor acceso de la ciudadanía a la denuncia. Asimismo, difundirá ampliamente sus informes periódicos.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+### CAPÍTULO III. DEL ÓRGANO DE VIGILANCIA Y EXTINCIÓN DE LA PROCURADURÍA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 18 BIS. La Procuraduría contará con un órgano interno de control quien tendrá a su cargo evaluar su operación y gestión pública, así como vigilar su debido funcionamiento.
+
+La persona titular de este órgano será nombrada y removida libremente por la Persona Titular de la Secretaría de la Honestidad y la Función Pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 18 TER. Cuando la Procuraduría deje de cumplir con sus fines u objeto para el que fue creado o su funcionamiento no resultare conveniente para la economía o interés público, o de la comunidad, la Persona Titular de la Secretaría de Hacienda, atendiendo a la opinión de la dependencia coordinadora de sector, propondrá a la Persona Titular del Poder Ejecutivo del Estado la disolución, liquidación o extinción. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un crecimiento de eficiencia y productividad.
 
 ## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS
 
-### CAPÍTULO II. DE LA DENUNCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 19.
 
@@ -357,19 +483,31 @@ Cuando no sea posible proporcionar los informes o copias certificadas solicitada
 
 Los servidores públicos que incumplan con lo previsto en el presente Artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 21 BIS. Toda persona, física o moral, podrá denunciar ante la Procuraduría, cualquier hecho, acto u omisión que produzca o pueda producir daños ambientales, a los recursos naturales, a los animales, desequilibrios ecológicos o contravengan las disposiciones de la Ley Ambiental y demás ordenamientos en la materia.
+
+Las denuncias deberán presentarse en apego a lo dispuesto por el artículo 171 de la Ley Ambiental.
+
+Cuando la denuncia no corresponda al orden estatal se estará a lo dispuesto por el artículo 168 de la Ley Ambiental.
+
+### CAPÍTULO II. DE LA DENUNCIA
 
 ###### Artículo 22.
 
 Recibido el escrito de denuncia, la Procuraduría acordará sobre su admisión. En el supuesto de rechazo se informará al interesado sobre las razones que motivaron el mismo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-Una vez admitida la denuncia, se radicará y se procederá a investigar los actos, hechos u omisiones, solicitados por el promovente, en un plazo no mayor de 30 días hábiles, durante los cuales se realizará la visita de verificación correspondiente cuando así proceda.
+Recibido el escrito de denuncia, la Procuraduría acordará sobre su admisión. En el supuesto de rechazo se informará al interesado sobre las razones que motivaron el mismo.
 
-La visita de verificación y el acta levantada por motivo de ésta, pasará a calificación y resolución, que emitirá la Procuraduría, la que deberá estar debidamente fundada y motivada dentro de los plazos que indica el presente artículo, y notificará el resultado al denunciante de la misma.
+Una vez admitida la denuncia, se radicará y se procederá a investigar los actos, hechos u omisiones, solicitados por la o el promovente.
 
-En aquellos casos en que las facultades de verificación estén conferidas a otras autoridades, la Procuraduría solicitará que se realicen las visitas de verificación respectivas, las cuales se resolverán conforme a sus atribuciones e informarán del resultado al denunciante y a la Procuraduría.
+Las visitas de inspección que derivan del proceso de investigación de los actos, hechos u omisiones, manifestados en la denuncia, se harán en apego a lo dispuesto por el Capítulo I, del Título Sexto de la Ley Ambiental.
+
+En aquellos casos en que las facultades de inspección estén conferidas a otras autoridades, la Procuraduría solicitará que se realicen las visitas de inspección respectivas, las cuales se resolverán conforme a sus atribuciones e informarán del resultado al denunciante y a la Procuraduría.
 
 ###### Artículo 24.
 
@@ -425,7 +563,7 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 En los casos en que se imponga como sanción la clausura temporal, la procuraduría deberá indicar al infractor las medidas correctivas y las acciones que deba llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos para su realización.
 
-### CAPÍTULO IV. DE LAS REGLAS DE LAS NOTIFICACIONES
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
 ###### Artículo 30.
 
@@ -533,7 +671,7 @@ Tratándose de obras o actividades que contravengan las disposiciones de la Ley 
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo la Ley de Protección al Ambiente para el Estado de Baja California, serán nulas y no producirán efecto legal alguno. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el presente capítulo.
 
-### CAPÍTULO V. DE LA RECOMENDACIÓN Y SUGERENCIA
+### CAPÍTULO IV. DE LAS REGLAS DE LAS NOTIFICACIONES
 
 ###### Artículo 43.
 
@@ -584,6 +722,8 @@ Las notificaciones por estrados surtirán sus efectos al día siguiente al de la
 ###### Artículo 47.
 
 Toda notificación deberá efectuarse en un plazo máximo de quince días hábiles, contados a partir de la emisión de la resolución o acto que se notifique, y deberá contener el texto íntegro del acto, así como el fundamento legal en que se apoye con la indicación de si es o no definitivo en la vía administrativa, y en su caso, la expresión del recurso administrativo que contra la misma proceda, órgano ante el cual hubiera de presentarse y plazo para su interposición.
+
+### CAPÍTULO V. DE LA RECOMENDACIÓN Y SUGERENCIA
 
 ###### Artículo 48.
 
@@ -666,3 +806,15 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 196 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 7, 8, 9, 10, 11, 15, 16 Y 23; EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEGUNDO; LA ADICIÓN DE LOS NUMERALES 7 BIS, 7 TER, 18 BIS, 18 TER Y 21 BIS, COMO TAMBIÉN, LA ADICIÓN DEL CAPÍTULO III DENOMINADO DEL ÓRGANO DE VIGILANCIA Y EXTINCIÓN DE LA PROCURADURÍA AL TÍTULO TERCERO, TODOS DE LA LEY DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Persona Titular del Poder Ejecutivo del Estado deberá nombrar a la Persona Titular de la Procuraduría de Protección al Ambiente, en un plazo no mayor a sesenta días hábiles contados a partir de la entrada en vigor de las presentes reformas.
+
+TERCERO. Dentro de los sesenta días siguientes a la entrada en vigor de las presentes reforma (sic), deberá convocarse al acto de instalación formal de la Junta de Gobierno de la Procuraduría de Protección al Ambiente del Estado.
+
+CUARTO. A partir de su instalación, la Junta de Gobierno de la Procuraduría de Protección al Ambiente del Estado, contará con el plazo de tres meses para aprobar el Reglamento Interno de este Organismo, mientras tanto, determinará lo necesario para el despacho de los asuntos de su competencia.
