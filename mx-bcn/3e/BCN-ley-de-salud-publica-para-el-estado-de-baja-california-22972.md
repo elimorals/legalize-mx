@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2022-10-17"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -55,17 +55,23 @@ II.- Fijar los lineamientos conforme a los cuales el Ejecutivo del Estado y los 
 
 Son Autoridades Sanitarias del Estado encargadas de la observancia y aplicación de esta Ley:
 
-I.- El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I.- La persona Titular del Poder Ejecutivo del Estado;
 
 II.- La Secretaría de Salud del Estado; y
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III.- Los Ayuntamientos, en los términos de los acuerdos que celebren con el Gobernador del Estado, de conformidad con esta Ley y demás disposiciones aplicables.
+III.- El Instituto de Servicios de Salud Pública del Estado de Baja California;
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-La Secretaría de Salud Ejercerá las atribuciones de regulación, control y fomento sanitarios, conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia y a los demás ordenamientos aplicables que le correspondan, a través de un órgano denominado Comisión Estatal para la Protección contra Riesgos Sanitarios, la cual tendrá las atribuciones en los términos de la presente Ley y su Reglamento.
+IV.- Los Ayuntamientos, en los términos de los acuerdos que celebren con la persona titular del Poder Ejecutivo del Estado, de conformidad con esta Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios, conforme a la presente Ley, a los Acuerdos celebrados con la Federación en la materia y a los demás ordenamientos aplicables que le correspondan, a través del organismo público descentralizado denominado Instituto de Servicios de Salud Pública del Estado de Baja California, el cual será autoridad sanitaria con atribuciones en los términos de esta Ley, su Reglamento Interno y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -197,17 +203,17 @@ XXVII.- El programa para la atención médica de la Insuficiencia Renal;
 
 XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXIX.- El programa para la atención médica de neoplasias; y
+XXIX.- El programa para la atención médica de neoplasias;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXX.- Los cuidados paliativos, y
+XXX.- Los cuidados paliativos; y,
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XXXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -367,9 +373,9 @@ II BIS.- Promover que las instituciones del Sistema Estatal de Salud implementen
 
 III.- Promover y coadyuvar en la gestión de las certificaciones ante el Consejo de Salubridad General, cuando así lo haya solicitado el Director de alguno de los Hospitales del Sector Público, así como organizar, supervisar, evaluar y operar en su caso, la prestación de los servicios de salud a que se refiere el artículo 4º de esta Ley;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-IV.- Efectuar el control sanitario de los establecimientos y servicios a que se refiere el artículo 5 de la presente Ley;
+IV.- Efectuar el control sanitario de los establecimientos y servicios a que se refiere el artículo 5 de la presente Ley a través del Instituto de Servicios de Salud Pública del Estado de Baja California, en términos del artículo 2 de la misma Ley;
 
 V.- Promover, orientar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, con sujeción a la política nacional y estatal de salud y a los acuerdos que se suscriban;
 
@@ -413,9 +419,9 @@ XIV.- Realizar las acciones que sean necesarias a fin de contar con ambulancias 
 
 XV.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta Ley y demás ordenamientos aplicables.
+XVI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 12.
 
@@ -1277,7 +1283,9 @@ El incumplimiento de las obligaciones establecidas en el presente capítulo, pod
 
 El ejercicio de las profesiones, actividades técnicas y auxiliares y de las especialidades para la salud, estará sujeto a:
 
-I.- La Ley Reglamentaria del Ejercicio Profesional para el Estado de Baja California;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I.- La Ley de Ejercicio de las Profesiones para el Estado de Baja California;
 
 II.- Las bases de coordinación que conforme a la Ley se definan entre las Autoridades Educativas y Sanitarias del Estado;
 
@@ -2157,9 +2165,9 @@ Tratándose de cadáveres que no son reclamados por familiares o personas autori
 
 Los responsables de las funerarias o panteones darán aviso a la Autoridad Sanitaria del lugar o si en este no lo hubiera a la del lugar más próximo, de los casos en que se haya violado esta disposición, para que previa investigación se sancione a los que resulten responsables de la demora.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios, asimismo, verificarán que la prestación del servicio, los locales y el equipo con que se preste dicho servicio reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
+ARTÍCULO 116 BIS.- La Secretaría de Salud del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California ejercerá el control sanitario de los establecimientos que se dediquen a la prestación de servicios funerarios; asimismo, verificará que la prestación del servicio, locales y el equipo con que se preste el mismo reúna las condiciones sanitarias exigibles en los términos de esta Ley y los reglamentos correspondientes.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -2185,9 +2193,11 @@ IX.- La observación a la obligación que tiene el prestador del servicio de exh
 
 X.- Las demás que se señalen en esta Ley, en su reglamento y demás ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-ARTÍCULO 116 QUATER.- El incumplimiento a lo previsto en el artículo anterior y las demás disposiciones de esta Ley, dará lugar a que la Secretaría de Salud del Estado aplique medidas de seguridad o sanciones a que refiere esta Ley.
+ARTÍCULO 116 QUATER.- El incumplimiento a lo previsto en el artículo anterior y las demás disposiciones aplicables, dará lugar a que la Secretaría de Salud del Estado a través del Instituto de Servicios de Salud Pública del Estado de Baja California aplique las medidas de seguridad o sanciones a que refiere esta Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 En el caso de que la Autoridad de Salud Local observe incumplimiento a la fracción IX del artículo anterior, solo levantara el acta correspondiente y dará vista a las Autoridades Federales de Salud y de Protección al Consumidor para los efectos legales correspondientes.
 
@@ -2217,9 +2227,11 @@ Para los efectos de esta Ley, se entiende por servicio de limpieza pública, el 
 
 La basura deberá ser manejada en su destino final como relleno sanitario o destruirse por otros procedimientos, excepto cuando tenga empleo útil, siempre que no signifique un peligro para la salud, en los términos de las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 122.
 
-El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
+El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley de Protección al Ambiente para el Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
 #### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
@@ -2569,19 +2581,19 @@ ARTÍCULO 148 TER 3.- En los establecimientos en que se realizan tatuajes, micro
 
 Los responsables deberán contar con el material mínimo que prevé la Norma Oficial Mexicana y el Reglamento de Control Sanitario de Productos y Servicios.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 #### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO DECIMO PRIMERO. DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
+### CAPITULO DECIMO PRIMERO. DE LA AUTORIDAD COMPETENTE EN MATERIA DE PROTECCIÓN CONTRA RIESGOS SANITARIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 149.
 
-Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaría de Salud en materia de salubridad local, serán ejercidas a través del órgano denominado Comisión Estatal de Protección Contra Riesgos Sanitarios, a la que corresponde:
+Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaría de Salud del Estado en materia de salubridad local, serán ejercidas a través del Instituto de Servicios de Salud Pública del Estado de Baja California, en términos de su Reglamento Interno y serán las siguientes:
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2619,9 +2631,9 @@ VIII. Expedir certificados oficiales de la condición sanitaria de procesos, pro
 
 IX. Emitir, revalidar, prorrogar o revocar las autorizaciones sanitarias en las materias de su competencia, en los términos de la Ley General de Salud, la presente Ley, sus reglamentos, las Normas Oficiales Mexicanas, las normas técnicas locales y demás disposiciones legales aplicables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-X. Ejecutar los procedimientos administrativos que correspondan conforme a la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California, la presente Ley y de más (sic) normativa aplicable;
+X. Resolver y ejecutar los procedimientos administrativos que correspondan conforme a la presente Ley y demás normativa aplicable;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2651,17 +2663,17 @@ XVI. Proponer la política de protección contra riesgos sanitarios en la entida
 
 XVII. Hacer del conocimiento de las autoridades competentes, la opinión sobre la publicidad de las actividades, productos y servicios a los que se refiere esta ley y sus reglamentos, que se difunda en el Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Planear, organizar, dirigir y controlar los recursos humanos, materiales, y financieros que les sean asignados, así como proponer al Congreso del Estado su presupuesto de egresos e ingresos, que deberá de contener los costos de servicios y montos de sanciones en su caso;
+XVIII. Planear, organizar y controlar los recursos humanos, materiales y financieros que le sean asignados, de conformidad a las disposiciones aplicables;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XIX. Suscribir convenios y acuerdos de colaboración para el cumplimiento de sus atribuciones;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-XX. Realizar por conducto del personal autorizado, las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas;
+XX. Realizar por conducto del personal autorizado las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas, pudiendo utilizar para este fin el sistema de videograbación;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2671,11 +2683,11 @@ XXI. Coordinarse, en su caso, con las autoridades responsables de regular y veri
 
 XXII. Las demás que señalen las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 150.
 
-El Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios será designado y removido por el Gobernador del Estado a propuesta del Secretario de Salud.
+La persona Titular del Instituto de Servicios de Salud Pública del Estado de Baja California será designada y removida por la persona titular del Poder Ejecutivo del Estado a propuesta del Secretario de Salud. Tendrá las atribuciones en los términos establecidos en esta Ley, el Decreto de Creación, su Reglamento Interno y demás disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2683,15 +2695,11 @@ El Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios ser�
 
 #### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 151.
 
-La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado por conducto de la Comisión Estatal de Protección Contra Riesgos Sanitarios permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, Normas Oficiales Mexicanas y demás disposiciones aplicables.
-
-Para efectos de esta Ley se entenderá por autorización sanitaria, las licencias y las tarjetas de control sanitario.
-
-Cuando la autorización sea de la competencia de los Ayuntamientos, estos actuarán dentro de la competencia que la Ley General de Salud, esta Ley y los convenios respetivos lo establezcan, así como las demás leyes aplicables.
+La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -2747,17 +2755,19 @@ Cuando los establecimientos a que se refiere este artículo cambien su ubicació
 
 Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 154.
 
-Para el caso de los establecimientos que presten servicios de asistencia, únicamente la Secretaría de Salud del Estado por conducto de la Comisión Estatal de Protección Contra Riesgos Sanitarios podrá expedir la licencia sanitaria que corresponda.
+Para el caso de los establecimientos que presten servicios de asistencia social, únicamente la Secretaría de Salud del Estado por conducto del Instituto de Servicios de Salud Pública del Estado de Baja California podrá expedir la licencia sanitaria que corresponda.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 155.
 
-La Comisión Estatal de Protección Contra Riesgos Sanitarios, no otorgará autorización sanitaria, si los interesados no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
+El Instituto de Servicios de Salud Pública del Estado de Baja California, no otorgará autorización sanitaria, si las personas interesadas no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
@@ -2771,7 +2781,7 @@ Requieren de tarjeta de control sanitario las personas que realicen actividades 
 
 ###### ARTÍCULO 157.
 
-La Comisión Estatal de Protección Contra Riesgos Sanitarios podrá revocar las autorizaciones sanitarias que haya otorgado, en los siguientes casos:
+El Instituto de Servicios de Salud Pública del Estado de Baja California podrá revocar las autorizaciones sanitarias que haya otorgado, en los casos siguientes:
 
 I.- Cuando por causas supervenientes, se compruebe que el ejercicio de las actividades que se hubieren autorizado constituya un riesgo o daño para la salud;
 
@@ -2793,19 +2803,17 @@ VIII.- Cuando lo solicite el interesado; y
 
 IX.- En los demás casos que conforme a la Ley determine la autoridad sanitaria.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 158.
 
-En los casos a que se refiere el artículo anterior, la Comisión Estatal de Protección Contra Riesgos Sanitarios, citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a que se refiere el artículo anterior, el Instituto de Servicios de Salud Pública del Estado de Baja California, citará a la persona interesada a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
 
-En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
+En el citatorio, que se entregará personalmente a la persona interesada, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que, si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
-La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente al de la notificación.
+La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente al de la notificación. Para tal efecto se habilitarán salas multidisciplinarias con tecnología de videograbación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-En los casos en que la Comisión Estatal de Protección Contra Riesgos Sanitarios no pueda realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente de la última publicación.
+En los casos en que el Instituto de Servicios de Salud Pública del Estado de Baja California no pueda realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente a la última publicación.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2821,11 +2829,11 @@ La audiencia se celebrará el día y hora señalados, con o sin la asistencia de
 
 La celebración de la audiencia podrá diferirse por una sola vez, cuando lo solicite el interesado por una causa debidamente justificada y por un término que no exceda de cinco días hábiles.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 162.
 
-La Comisión Estatal de Protección Contra Riesgos Sanitarios competente emitirá la resolución que corresponda, al concluir la audiencia o dentro de los diez días hábiles siguientes, la cual se notificará de manera personal al interesado.
+El Instituto de Servicios de Salud Pública del Estado de Baja California una vez substanciado el procedimiento a que se refieren los artículos anteriores y no existiendo diligencia pendiente de desahogo, procederá dentro de los diez días hábiles siguientes, a dictar por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2871,59 +2879,73 @@ Las Autoridades Judiciales o Administrativas, sólo admitirán como válidos los
 
 ### CAPITULO DECIMO TERCERO. DE LA VIGILANCIA SANITARIA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 168.
 
-Corresponde a la Comisión Estatal de Protección Contra Riesgos Sanitarios la vigilancia y verificación del cumplimiento de las disposiciones contenidas en esta Ley, la Ley General de la materia, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria.
+Corresponde al Instituto de Servicios de Salud Pública del Estado de Baja California, la vigilancia y verificación del cumplimiento de las disposiciones contenidas en esta Ley, la Ley General de la materia, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 169.
 
-Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de la Comisión Estatal de Protección Contra Riesgos Sanitarios.
+Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento del Instituto de Servicios de Salud Pública del Estado de Baja California.
 
 ###### ARTÍCULO 170.
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, serán objeto de orientación y educación de los infractores con independencia de que se apliquen si procedieren, las medidas de seguridad y sanciones correspondientes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 171.
 
-La vigilancia sanitaria se realizará a través de visitas sanitarias a cargo del personal expresamente autorizado por la Comisión Estatal de Protección Contra Riesgos Sanitarios, quienes deberán realizar las diligencias de conformidad con esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se realizará a través de visitas sanitarias a cargo del personal expresamente autorizado por el Instituto de Servicios de Salud Pública del Estado de Baja California, quienes deberán realizar las diligencias de conformidad con esta Ley, su Reglamento Interno y demás disposiciones aplicables.
 
 ###### ARTÍCULO 172.
 
 Las visitas sanitarias podrán ser ordinarias y extraordinarias; las primeras se efectuarán en días y horas hábiles, debiendo entenderse por ello, los días y horas de funcionamiento habitual de los establecimientos industriales, comerciales o de servicio, y las segundas en cualquier tiempo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 173.
 
-Para practicar visitas sanitarias, los visitadores deberán estar provistos de orden escrita, con firma autógrafa expedida por la autoridad sanitaria competente, en la que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Para practicar visitas sanitarias, la persona visitadora deberá estar provista de orden escrita, con firma autógrafa expedida por la autoridad sanitaria competente, en la que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
 
 La orden de visita sanitaria deberá ser exhibida a la persona con quien se entienda la diligencia, a quien se le entregará una copia, y tendrá por objeto vigilar el debido cumplimiento de las disposiciones sanitarias.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+La persona visitadora podrá utilizar tecnologías de videograbación durante la visita de (sic) sanitaria.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 174.
 
-Los visitadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales, de servicio y en general a todos los lugares sujetos a la observancia y cumplimiento de esta Ley.
+La persona visitadora en el ejercicio de sus funciones tendrán (sic) libre acceso a los edificios, establecimientos comerciales, industriales, de servicio y en general a todos los lugares sujetos a la observancia y cumplimiento de esta Ley.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de la visita, estarán obligados a permitir el acceso y a dar facilidades e informes a los visitadores para el desarrollo de la visita sanitaria.
+Las personas propietarias, responsables, encargadas u ocupantes de establecimientos o conductores de los transportes objeto de la visita, estarán obligadas a permitir el acceso y a dar facilidades e informes a la persona visitadora para el desarrollo de la visita sanitaria, así como permitir el uso de tecnologías para la videograbación durante la misma.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 175.
 
 En la diligencia de visita sanitaria se observarán las siguientes reglas:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I.- Al iniciar, el visitador deberá exhibir la credencial vigente, expedida por la Comisión Estatal de Protección Contra Riesgos Sanitarios, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 171 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo. Esta circunstancia se deberá anotar en el acta correspondiente;
+I.- Al iniciar, la persona visitadora deberá exhibir la credencial vigente, expedida por el Instituto de Servicios de Salud Pública del Estado de Baja California, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 173 de esta Ley, de la que deberá dejar copia a la persona propietaria, responsable, encargada u ocupante del establecimiento o conductor del vehículo, comunicándole en el mismo acto que el tratamiento de sus datos personales que se recaben serán protegidos de acuerdo a la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California. Estas circunstancias se deberán anotar en el acta correspondiente;
 
-II.- Posterior a la presentación y comentario del objeto de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, que proponga dos testigos quienes deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará el visitador que practique la visita sanitaria. Esta circunstancia se hará constar en el acta;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III.- En el acta que se levante con motivo de la visita sanitaria, se harán constar el día, mes y año en que se inicie o concluya la diligencia, nombre, denominación o razón social del visitado, domicilio del lugar en que se practique la diligencia, nombre y cargo de la persona con quien se entendió la diligencia, nombre y domicilio de las personas que fungieron como testigos, datos relativos a la actuación, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas o en su caso las medidas de seguridad que se ejecuten;
+II.- Posterior a la presentación y comentario del objeto de la visita, se deberá requerir a la persona propietaria, responsable, encargada u ocupante del establecimiento, o conductor del transporte, que proponga dos testigos quienes deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia de la persona visitada, los designará el visitador que practique la visita de verificación sanitaria. Esta circunstancia se hará constar en el acta;
 
-IV.- Al concluir la visita sanitaria, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho y recabando su firma en el acta, de la cual se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la diligencia practicada; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III.- En el acta que se levante con motivo de la visita sanitaria, se harán constar el día, mes y año en que se inicie o concluya la diligencia, nombre, denominación o razón social del visitado, domicilio del lugar en que se practique la diligencia, nombre y cargo de la persona con quien se entendió la diligencia, nombre y domicilio de las personas que fungieron como testigos, datos relativos a la actuación, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas, o en su caso, las medidas de seguridad que se ejecuten;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV.- Al concluir la visita sanitaria, se dará oportunidad a la persona propietaria, responsable, encargada u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho y recabando su firma en el acta, de la cual se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez ni la diligencia practicada; y
 
 V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley General de Salud; el procedimiento de muestreo no impide que la Autoridad Sanitaria correspondiente ejecute las medidas de seguridad sanitaria que procedan.
 
@@ -2935,11 +2957,11 @@ Cuando el procedimiento sea realizado por los ayuntamientos, estos actuarán den
 
 ### CAPITULO DECIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 176.
 
-Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Comisión Estatal de Protección Contra Riesgos Sanitarios de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
+Se consideran medidas de seguridad sanitaria las disposiciones que dicte el Instituto de Servicios de Salud Pública del Estado de Baja California, de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, la Ley General de Salud y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
 ###### ARTÍCULO 177.
 
@@ -2991,11 +3013,11 @@ X.- Las demás de carácter sanitario que determine la Secretaría de Salud del 
 
 ### CAPITULO DECIMO QUINTO. DE LAS SANCIONES ADMINISTRATIVAS
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 179.
 
-Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por la Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias en su ámbito de competencia, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por el Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias en su ámbito de competencia, sin perjuicio de las sanciones que correspondan cuando sean constitutivas de delitos.
 
 ###### ARTÍCULO 180.
 
@@ -3037,15 +3059,15 @@ La aplicación de las sanciones será sin perjuicio de que se dicten las medidas
 
 Cuando la Autoridad Fiscal haga efectiva la multa, deberá dar aviso a la Autoridad que impuso la sanción.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 185.
 
-Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
+Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-I.- Cuando requerido por la Comisión Estatal de Protección Contra Riesgos Sanitarios, el propietario, responsable, encargado u ocupante de un establecimiento se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la Autoridad para evitar riesgos en la salud de las personas;
+I.- Cuando requerido por el Instituto de Servicios de Salud Pública del Estado de Baja California, la persona propietaria, responsable, encargada u ocupante de un establecimiento se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la Autoridad para evitar riesgos en la salud de las personas;
 
 II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la Autoridad Sanitaria correspondiente;
 
@@ -3073,11 +3095,11 @@ Impuesto el arresto, se comunicará la resolución a la Autoridad correspondient
 
 ### CAPITULO DECIMO SEXTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 188.
 
-El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley por parte de la Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias dentro de su ámbito de competencia, se sujetará a los siguientes criterios:
+El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley y demás disposiciones aplicables, por parte del Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias dentro de su ámbito de competencia, se sujetará a los criterios siguientes:
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -3093,39 +3115,41 @@ III.- Se considerará la trascendencia del asunto de que se trate, los riesgos q
 
 La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses. En los casos de haber sido declarada Emergencia Epidemiológica, el plazo no podrá ser mayor a un mes.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 189.
 
-Las Comisión Estatal de Protección Contra Riesgos Sanitarios, o en su caso la autoridad competente, con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización. En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
+El Instituto de Servicios de Salud Pública del Estado de Baja California, o en su caso la autoridad competente, con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas a la persona interesada y dándole un plazo adecuado para su realización. En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 190.
 
-La Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias dentro de su ámbito de competencia, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+El Instituto de Servicios de Salud Pública del Estado de Baja California, y demás autoridades sanitarias dentro de su ámbito de competencia, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 191.
 
-Levantada un acta de visita, se le dará copia al interesado o a la persona con quién se haya entendido la diligencia, notificándole en ese acto que cuenta con un plazo de quince días para comparecer ante la Comisión Estatal de Protección Contra Riesgos Sanitarios, o la autoridad sanitaria correspondiente a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, en relación con los hechos asentados en la misma.
+Levantada un acta de visita, se le dará copia a la persona interesada o a la persona con quién se haya entendido la diligencia, notificándole en ese acto que cuenta con un plazo de quince días para comparecer ante el Instituto de Servicios de Salud Pública del Estado de Baja California, o la autoridad sanitaria correspondiente a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, en relación con los hechos asentados en la misma.
 
-En la comparecencia que realice el interesado deberá señalar el domicilio para oír y recibir todo tipo de notificaciones aún las de carácter personal, en caso contrario las subsecuentes notificaciones incluso las de carácter personal se formularán en el lugar de la visita. La citación al interesado se hará en el momento de la diligencia si éste participa en ella, o por conducto del representante legal, responsable, encargado del establecimiento, ocupante del establecimiento o conductor del transporte, con quien se haya entendido.
+En la comparecencia que realice la persona interesada deberá señalar el domicilio para oír y recibir todo tipo de notificaciones aún las de carácter personal, en caso contrario las subsecuentes notificaciones incluso las de carácter personal se formularán en el lugar de la visita. La citación a la persona interesada se hará en el momento de la diligencia si éste participa en ella, o por conducto de la persona representante legal, responsable, encargada del establecimiento, ocupante del establecimiento o conductor del transporte, con quien se haya entendido.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 192.
 
-El cómputo de los plazos que señale la Comisión Estatal de Protección Contra Riesgos Sanitarios, o la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días naturales, con las excepciones que esta Ley establezca.
+El cómputo de los plazos que señale el Instituto de Servicios de Salud Pública del Estado de Baja California, o la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días naturales, con las excepciones que esta Ley establezca.
 
 ###### ARTÍCULO 193.
 
 Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas ofrecidas y admitidas, se procederá dentro de los cinco días siguientes, a dictar por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 194.
 
-En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 188 se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
+En caso de que la presunta persona infractora no compareciera dentro del plazo fijado en el artículo 191 de esta Ley, se procederá a dictar en rebeldía la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
 ###### ARTÍCULO 195.
 
@@ -3830,3 +3854,13 @@ P.O. 17 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 142 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 45, 45 BIS, 51, 52 Y 54 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 4, 11, 51, 116 BIS, 116 QUÁTER, 122, 149, 150, 151, 154, 155, 157, 158, 162, 168, 169, 171, 173, 174, 175, 176, 179, 185, 188, 189, 190, 191, 192 Y 194, COMO TAMBIÉN EL CAMBIO DE DENOMINACIÓN DEL CAPÍTULO DÉCIMO PRIMERO, DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto de reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado y, en su caso, los Ayuntamientos, dentro de los tres meses siguientes al inicio de la vigencia de las presente reformas, emitirán las disposiciones administrativas que sean necesarias para su debida observancia.
+
+TERCERO. Las menciones que se hagan en otros ordenamientos a la Comisión Estatal para la Protección Contra Riesgos Sanitarios, se entenderán referidas al Instituto de Servicios de Salud Pública del Estado de Baja California y a la unidad administrativa de este último que se determine en su Reglamento Interno.
