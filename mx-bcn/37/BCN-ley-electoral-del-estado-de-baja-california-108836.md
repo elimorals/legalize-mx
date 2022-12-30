@@ -4,7 +4,7 @@ identifier: "BCN-ley-electoral-del-estado-de-baja-california-108836"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2022-09-19"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 12 de junio de 2015.
 
@@ -3335,9 +3335,19 @@ Los partidos políticos o coaliciones, no podrán invocar en su favor, medio de 
 
 El sistema de medios de impugnación regulado por esta Ley tiene por objeto garantizar:
 
-I. Que los actos y resoluciones de las autoridades electorales se sujeten al principio de legalidad, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+I. Que los actos y resoluciones de las autoridades electorales se sujeten al principio de legalidad.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 II. La definitividad de los distintos actos y etapas de los procesos electorales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. La protección de los derechos político-electorales del ciudadano, como lo son el derecho a votar y ser votado para todos los cargos de elección popular, así como la Asociación libre y pacífica para tomar parte en los asuntos políticos, afiliación libre e individual a los partidos políticos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 La interposición de los recursos no suspenderá los efectos de los actos o resoluciones impugnadas.
 
@@ -3345,11 +3355,23 @@ La interposición de los recursos no suspenderá los efectos de los actos o reso
 
 El sistema de medios de impugnación se integra por:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 I. El recurso de inconformidad;
 
-II. El recurso de apelación, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
-III. El recurso de revisión.
+II. El recurso de apelación;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+III. El recurso de revisión; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+IV. El Juicio para la protección de los derechos político-electorales del ciudadano.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 Compete al Pleno del Tribunal Electoral conocer y resolver los medios de impugnación previstos en las fracciones anteriores, en la forma y términos establecidos por esta Ley.
 
@@ -3375,13 +3397,13 @@ IV. Los partidos políticos, por conducto de sus dirigentes o candidatos, en con
 
 El recurso de apelación se podrá hacer valer por:
 
-I. Las asociaciones políticas, por conducto de sus representantes legítimos, cuando se les haya negado el registro como partidos políticos;
+I. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 II. Los Aspirante (sic) a Candidato Independiente, cuando se consideren afectados por los actos o resoluciones de los órganos electorales emitidos en base a la Ley que reglamenta las candidaturas independientes en el Estado.
 
 III. Por los militantes de los partidos políticos estatales para impugnar los actos o resoluciones de éstos, con relación a los asuntos internos a que se refieren la Ley de Partidos Políticos del Estado, y
 
-IV. Por los militantes de los partidos políticos nacionales para impugnar los actos o resoluciones emitidos, con relación a la fracción IV del artículo 29 de la Ley de Partidos Políticos del Estado, cuando incidan en el proceso electoral local.
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -3454,6 +3476,32 @@ VI. El nombre y la firma del promovente.
 Además, deberá anexar a la promoción los documentos con los que acredite la personería y aportar los medios probatorios que obren en su poder, en caso contrario, agregará el escrito en el que conste la solicitud hecha al órgano competente.
 
 Cuando el o los agravios versen exclusivamente sobre puntos de derecho, no será necesario aportar pruebas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 288 BIS.- El Juicio para la protección de los derechos político-electorales del ciudadano, se podrá hacer valer por:
+
+I. El ciudadano por sí mismo, en forma individual o a través de sus representantes legales, haciendo valer presuntas violaciones a sus derechos de votar y ser votado en las elecciones populares, de asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos y de afiliarse libre e individualmente a los partidos políticos.
+
+II. En el supuesto de haberse asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a leyes aplicables, que consideren que se les negó indebidamente su registro como partido político, la demanda deberá presentarse por conducto de quien ostente la representación legítima de la asociación agraviada.
+
+III. Asimismo, resultará procedente para impugnar los actos y resoluciones por quien, teniendo interés jurídico, considere que indebidamente se afecta su derecho por parte de los órganos y autoridades electorales en el Estado.
+
+El juicio podrá ser promovido por la ciudadana o el ciudadano cuando:
+
+a. Considere que se violó su derecho político-electoral de ser votado cuando, habiendo sido propuesto por un partido político, le sea negado indebidamente su registro como candidato a un cargo de elección popular;
+
+b. Habiéndose asociado con otros ciudadanos para tomar parte en forma pacífica en asuntos políticos, conforme a las leyes aplicables, consideren que se les negó indebidamente su registro como partido político;
+
+c. Considere que un acto o resolución de la autoridad es violatorio de cualquier otro de los derechos político-electorales a que se refiere el presente artículo;
+
+d. Considere que los actos o resoluciones del partido político al que está afiliado violan alguno de sus derechos político-electorales. Lo anterior es aplicable a las personas precandidatas y candidatas a cargos de elección popular aun cuando no estén afiliadas al partido señalado como responsable; y,
+
+e. Considere que se actualiza algún supuesto de violencia política contra las mujeres en razón de género, en los términos establecidos en la Ley que lo regula.
+
+El juicio sólo será procedente cuando el actor haya agotado todas las instancias previas y realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político-electoral presuntamente violado, en la forma y en los plazos que las leyes respectivas establezcan para tal efecto.
+
+En los casos previstos en el inciso d) del párrafo segundo de este artículo, el quejoso deberá haber agotado previamente las instancias de solución de conflictos previstas en las normas internas del partido de que se trate, salvo que los órganos partidistas competentes no estuvieren integrados e instalados con antelación a los hechos litigiosos, o dichos órganos incurran en violaciones graves de procedimiento que dejen sin defensa al quejoso.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 9 DE JUNIO DE 2018)</small>
 
@@ -3723,6 +3771,14 @@ II. Al Consejo General y consejos distritales respectivos, la notificación se h
 
 III. En su caso, al Congreso del Estado, en los términos de la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 308 BIS.- Las sentencias recaídas a los juicios para la protección de los derechos político- electorales de los ciudadanos serán notificadas:
+
+a) Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, personalmente siempre y cuando haya señalado domicilio ubicado en la ciudad sede de la Sala competente. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y,
+
+b) A la autoridad u órgano partidista responsable, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, por oficio acompañado de la copia certificada de la sentencia.
+
 ###### Artículo 309.
 
 Durante el proceso electoral, el Tribunal Electoral podrá notificar sus actos, resoluciones o sentencias a cualquier día y hora.
@@ -3950,6 +4006,14 @@ VIII. Modificar la asignación de diputados por el principio de representación 
 IX. Modificar la asignación de munícipes por el principio de representación proporcional, y;
 
 X. Confirmar o revocar el acto impugnado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
+Artículo 334 BIS.- Las sentencias que resuelvan el fondo del juicio para la protección de los derechos político-electorales del ciudadano, serán definitivas e inatacables y podrán tener los efectos siguientes:
+
+a) Confirmar el acto o resolución impugnado; y,
+
+b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho político-electoral que le haya sido violado.
 
 ### CAPÍTULO DÉCIMO PRIMERO. De los medios de apremio y de las correcciones disciplinarias
 
@@ -5162,3 +5226,9 @@ P.O. 19 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 120 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 190 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 184 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 281, 281 Y 284 DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA, COMO TAMBIÉN, LA ADICIÓN DE LOS ARTÍCULOS 288 BIS, 308 BIS Y 334 BIS".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
