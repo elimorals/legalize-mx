@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2019-09-26"
+last_updated: "2022-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2022.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -4737,17 +4737,15 @@ IV. Economía procesal. El juzgador tomará de oficio las medidas tendientes a e
 
 V. Gratuidad. El trámite de cualquier procedimiento que regula este Título, no generará costas judiciales, el tribunal deberá dictar las medidas necesarias a fin de evitarle a las partes gastos innecesarios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 521.
 
-Suplencia de la deficiencia de las partes. En todos los asuntos del orden familiar los jueces y tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
+Suplencia de la deficiencia de las partes. En todos los asuntos del orden familiar las juezas y los jueces y tribunales están obligados a suplir la deficiencia de las partes en sus planteamientos de derecho.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+No se requieren formalidades especiales para acudir ante la jueza o el juez tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre las personas cónyuges sobre la administración de bienes comunes, educación de hijas e hijos, oposición de madres, padres, tutoras y tutores, y en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
-No se requieren formalidades especiales para acudir ante el Juez tratándose de alimentos, de calificación de impedimentos de matrimonio o de las diferencias que surjan entre marido y mujer sobre la administración de bienes comunes, educación de hijos, oposición de padres y tutores y en general, de todas las cuestiones familiares que reclamen la intervención judicial.
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-En los mismos asuntos, el juzgador podrá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+En los mismos asuntos, el juzgador podrá exhortar a las personas interesadas a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -4799,25 +4797,29 @@ Recibida del oficial del Registro Civil el acta levantada con motivo del impedim
 
 En los casos en que el actor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o se celebrase el matrimonio en contravención a la prohibición legal, el juzgador, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 526.
 
-Diferencias conyugales. Se tramitarán conforme a las reglas del artículo siguiente las diferencias que surjan entre marido y mujer:
+Diferencias conyugales. Se tramitarán conforme a las reglas del artículo siguiente las diferencias que surjan entre las personas unidas en matrimonio:
 
-I. Sobre la obligación de los cónyuges de hacer vida en común;
+I. Sobre la obligación de las personas cónyuges de hacer vida en común;
 
-II. Sobre educación y establecimiento de los hijos y administración de los bienes que a éstos pertenezcan;
+II. Sobre educación y establecimiento de las hijas e hijos y administración de los bienes que a éstos pertenezcan;
 
-III. Administración de los bienes comunes; y
+III. Administración de los bienes comunes, y
 
-IV. Los demás asuntos relativos a cuestiones patrimoniales entre los consortes.
+IV. Los demás asuntos relativos a cuestiones patrimoniales entre las personas consortes.
 
 ###### Artículo 527.
 
 Procedimiento para resolver las diferencias. Recibida la demanda, el juzgador citará a los cónyuges a una audiencia en la que los oirá. En ella recibirá el juzgador las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que se dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de fianza.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 528.
 
-Autorización judicial para que la mujer contrate con su marido. Cuando se pida autorización judicial para que la mujer contrate con su marido, el juzgador recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la mujer, y oyendo al Ministerio Público, resolverá lo que proceda.
+Autorización Judicial para que las personas casadas se contraten entre sí. Cuando se pida autorización judicial para que una de las partes contrate con la otra, el juzgador recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de alguna de ellas, y oyendo al Ministerio Público, resolverá lo que proceda.
 
 ### CAPITULO III. NULIDAD DE MATRIMONIO
 
@@ -7228,3 +7230,15 @@ SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento y para l
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 30 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 244 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358 Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Las armonizaciones a leyes y Reglamentos correspondientes, que tengan como propósito garantizar la viabilidad de las normas contenidas en estas reformas, se realizarán a más tardar en ciento ochenta días hábiles.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
