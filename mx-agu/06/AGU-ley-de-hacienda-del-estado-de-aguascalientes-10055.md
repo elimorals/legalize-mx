@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2022-09-30"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -317,9 +317,9 @@ Si los actos jurídicos se hacen constar en documentos privados, el cálculo y e
 
 En los casos en que se protocolicen actos de aumentos de capital de sociedades civiles y mercantiles, a que se refiere el inciso c), de la fracción I, del artículo 6° de esta Ley, que se hubieren realizado antes del ejercicio fiscal del año 2014, los fedatarios públicos estarán obligados a cerciorarse con medios idóneos de prueba que el acto de que se trate se realizó antes de ese ejercicio, cuando menos con los registros contables del aumento de capital y la declaración anual del Impuesto Sobre la Renta del ejercicio en que se acordó el aumento, presentada ante el Servicio de Administración Tributaria, donde se vea reflejado el registro de dicho aumento de capital, o estados de cuenta bancarios que acrediten el depósito correspondiente al aumento de capital, a hacer constar tal hecho en una cláusula en la escritura correspondiente y conservar en el Apéndice del Protocolo copia de las pruebas aportadas por la sociedad civil o mercantil de que se trate. De no cumplir con esta obligación, se presumirá que el hecho generador del impuesto se dio a partir de la entrada en vigor del presente Capítulo, y la autoridad podrá determinar la responsabilidad solidaria en el pago de este impuesto hasta por el importe de éste.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-#### SECCION SEXTA. De las Excepciones
+#### SECCION SEXTA. De las Exenciones
 
 > <small>(REFORMADO, [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -687,9 +687,9 @@ Los funcionarios encargados de dar permiso o licencia para la celebración de cu
 
 El contribuyente no podrá en ningún caso trasladar dicho impuesto.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-#### SECCION SEPTIMA. De las Excepciones
+#### SECCION SEPTIMA. De las Exenciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -701,21 +701,21 @@ Se exenta del pago del Impuesto a:
 
 I.- La Federación, el Estado y los Municipios, cuando el objeto del impuesto a que se refiere este Capítulo corresponda a sus funciones de derecho público;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II.- Las instituciones, asociaciones de beneficencia pública o privada y cualquier otra persona moral sin fines de lucro, que acrediten a satisfacción de la Autoridad Fiscal Estatal que los fondos que se recauden fueron destinados a actividades de beneficencia.
+II.- Las personas morales sin fines de lucro, que cuenten con autorización vigente para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta, que cuenten con domicilio o sucursal en el Estado de Aguascalientes.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 III.- Los Partidos Políticos Nacionales con registro, cuando acrediten a satisfacción de la Autoridad Fiscal Estatal que los eventos se realizaron con objeto de allegarse recursos para el cumplimiento de sus fines en período electoral.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En caso de haber sido otorgada la excepción del Impuesto a que se refiere el presente Capítulo y haya sido pagado, procederá su devolución en términos del Código Fiscal del Estado.
+En caso de haber sido otorgada la exención del Impuesto a que se refiere el presente Capítulo y haya sido pagado, procederá su devolución en términos del Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Cuando los entes a que se refieren las fracciones II y III, soliciten la excepción a que se refiere este artículo y tengan celebrado algún tipo de contrato con terceros para la organización y realización de los espectáculos públicos, únicamente estarán exceptuados del Impuesto Sobre Espectáculos Públicos por los ingresos que el tercero les haga participe, y que estén previamente acordados en el contrato. A la parte no exceptuada de éste, se le aplicará la tasa correspondiente conforme a la tarifa establecida en el Artículo 21 de esta Ley.
+Cuando los entes a que se refieren las fracciones II y III, soliciten la exención a que se refiere este artículo y tengan celebrado algún tipo de contrato con terceros para la organización y realización de los espectáculos públicos, únicamente estarán exentos del Impuesto Sobre Espectáculos Públicos por los ingresos que el tercero les haga participe, y que estén previamente acordados en el contrato. A la parte no exenta de éste, se le aplicará la tasa correspondiente conforme a la tarifa establecida en el Artículo 21 de esta Ley
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -723,13 +723,17 @@ Lo anterior es independiente del cumplimiento con el pago de Derechos a que se r
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-ARTICULO 29 A.- Para que se otorgue la excepción a los sujetos que prevé el Artículo 29 de la presente Ley se deberán sujetar a lo siguiente:
+ARTICULO 29 A.- Para que se otorgue la exención a los sujetos que prevé el Artículo 29 de la presente Ley se deberán sujetar a lo siguiente:
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 A. La petición deberá contener los siguientes requisitos en los supuestos señalados en las Fracciones I, II y III del Artículo 29 de la presente Ley:
 
-a) Dirigido a la Dirección General Jurídica con copia para la Dirección General de Recaudación, ambas de la Secretaría.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+a) Dirigido a la Dirección General de Recaudación, adscrita a la Subsecretaría de Ingresos de la Secretaría.
 
 b) Firmado por el funcionario público o persona legalmente facultada para hacerlo o el representante legal según sea el caso.
 
@@ -739,69 +743,103 @@ d) Señalar domicilio para oír y recibir notificaciones.
 
 e) Señalar nombre de las personas autorizadas para recibir notificaciones.
 
-f) Señalar la petición de excepción del Impuesto, citando el nombre del evento por el cual la solicita, fecha de realización del mismo, así como el domicilio donde se llevó a cabo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-g) Señalar el Registro Federal de Contribuyentes de la persona que solicita la excepción.
+f) Señalar la petición de exención del Impuesto, citando el nombre del evento por el cual la solicita, fecha de realización del mismo, así como el domicilio donde se llevó a cabo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+g) Señalar el Registro Federal de Contribuyentes de la persona que solicita la exención.
 
 h) Señalar que el evento corresponde a sus funciones de derecho público, demostrando para que causa fue destinado el monto recaudado, exclusivamente en el supuesto que establece la Fracción I del Artículo 29 de la Ley.
 
-i) Señalar que los fondos recaudados por la realización del evento fueron destinados a actividades de beneficencia solo en el supuesto establecido (sic) Fracción II del Artículo 29 de la Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+i) Señalar que los fondos recaudados por la realización del evento serán destinados a sus actividades por las que se le autorizó como donataria para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta solo en el supuesto establecido en la fracción II del Artículo 29 de la Ley.
 
 j) Señalar que el evento se realizó con objeto de allegarse recursos para el cumplimiento de sus fines exclusivamente en el supuesto que establece la Fracción III del Artículo 29 de la Ley.
 
-B. Al escrito de petición de excepción del impuesto a que se refiere el Artículo 29 de esta Ley se deberá adjuntar la siguiente documentación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+B. Al escrito de petición de exención del impuesto a que se refiere el Artículo 29 de esta Ley se deberá adjuntar la siguiente documentación:
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2018)</small>
 
 I. Para lo establecido en las Fracciones I y III del Artículo 29 de esta Ley:
 
-a) Copia certificada del nombramiento oficial de la persona que promueve.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Copia certificada de la Credencial de elector de la persona que promueve.
+a) Copia del nombramiento oficial de la persona que promueve, previo cotejo con el original.
 
-c) Copia certificada del contrato de prestación de servicios del evento de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Copia de la cédula fiscal de la persona con quien celebro el contrato de prestación de servicios a que se refiere el inciso anterior.
+b) Copia de la identificación oficial de la persona que promueve, previo cotejo con el original.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) En su caso, copia del contrato de prestación de servicios del evento de que se trate, previo cotejo con el original, o copia del acuerdo de su órgano colegiado que lo autorice.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Copia de la Constancia de Situación Fiscal expedida por el Servicio de Administración Tributaria, de la persona con quien celebró el contrato de prestación de servicios a que se refiere el inciso anterior.
 
 e) Acuse de recibo de la Secretaría del aviso presentado ante la misma sobre la realización del evento que se lleve a cabo en el Estado, con diez días hábiles de anticipación a la fecha de realización del mismo, señalando fecha, hora y domicilio en que se llevará a cabo así como el número de boletos y precio, con la descripción correspondiente.
 
 f) Original del comprobante de pago correspondiente a la verificación del evento de que se trate expedido por concepto de derechos por la Secretaría.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Se exime de los requisitos previstos en los incisos c) y d) de la presente fracción, cuando el carácter de propietario o poseedor (sic) establecimiento o instalación en la que por cualquier acto se permita la realización del espectáculo público y el carácter del sujeto obligado del impuesto recaiga en la misma persona. Lo cual será manifestado ante la autoridad fiscal mediante escrito libre.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE LA PRESENTE FRACCIÓN CONTENÍA HASTA EL INCISO J); Y CON LA REFORMA PUBLICADA EL 31 DE DICIEMBRE DE 2022, SE PRECISA ÚNICAMENTE HASTA EL INCISO I). VÉASE LITERALIDAD DEL DECRETO, PÁGINAS DE LA 3 A LA 4.]</small>
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 10 DE DICIEMBRE DE 2018)</small>
+
 II. Para lo establecido en la Fracción II del Artículo 29 de esta Ley:
 
-a) Copia certificada de la escritura pública de la constitución de la sociedad o asociación de que se trate, en la que señale como objeto social el realizar actividades para lograr mejores condiciones de · subsistencia y desarrollo social a través de alguna de las siguientes actividades:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-1. La atención a requerimientos básicos de subsistencia en materia de alimentación, vestido o vivienda.
+a) Copia de la escritura pública mediante la cual se demuestre la representación legal de quien promueve, previo cotejo con el original.
 
-2. La asistencia o rehabilitación médica o la atención en establecimientos especializados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-3. La asistencia jurídica, el apoyo y la promoción para la tutela de los derechos de los menores, así como para la readaptación social de personas que han llevado a cabo conductas ilícitas.
+b) Copia de los estados de cuenta o recibos bancarios previo cotejo con los originales que indiquen las transferencias sobre lo recaudado y lo destinado a la beneficencia.
 
-4. La rehabilitación de alcohólicos y fármaco dependientes.
+No será necesario el cotejo con los documentos originales, si estos son una representación impresa de un CFDI (comprobante fiscal digital por internet), expedido con los requisitos de la legislación fiscal vigente.
 
-5. La ayuda para servicios funerarios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-6. Orientación social, educación o capacitación para el trabajo.
+c) Escrito mediante el cual el representante legal señale bajo protesta de decir verdad que los fondos recaudados por el evento serán destinados a sus actividades por las que se le autorizó como donataria (sic) para recibir donativos deducibles en términos de la Ley del Impuesto Sobre la Renta.
 
-7. La promoción de la participación organizada de la población en las acciones que mejoren sus propias condiciones de subsistencia en beneficio de la comunidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-8. Apoyo en la defensa y promoción de los derechos humanos.
+d) Copia de la autorización vigente que demuestre la calidad de donataria autorizada previo cotejo con la original por la Secretaría de Hacienda y Crédito Público para recibir donativos o bien la copia del Diario Oficial de la Federación donde se haya publicado como donataria autorizada y se encuentre vigente.
 
-b) Copia certificada de la escritura pública mediante la cual se demuestre la representación legal de quien promueve.
+No será necesario el cotejo con la autorización original, si esta consta en un documento digital, bastará que cuente con los elementos para la validación de su autenticidad en el portal de internet oficial de la autoridad que la emite.
 
-c) Copia certificada de los estados de cuenta o recibos bancarios que indiquen las transferencias sobre lo recaudado y lo destinado a la beneficencia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Escrito mediante el cual el representante legal señale bajo protesta de decir verdad que los fondos recaudados por el evento son destinados a la beneficencia, indicando el nombre del o los beneficiarios, así como el destino que se le dio a los mismos. Para estos efectos, los beneficiarios deben ser personas, sectores o regiones de escasos recursos, comunidades indígenas o grupos vulnerables, y
+e) Copia de la identificación oficial del representante legal de la sociedad o asociación, previo cotejo con la original.
 
-e) Copia certificada de la autorización vigente que demuestre la calidad de donataria autorizada por la Secretaría de Hacienda y Crédito Público para recibir donativos o bien la copia del Diario Oficial de la Federación donde se haya publicado como donataria autorizada y se encuentre vigente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-f) Copia certificada de la Credencial de elector del representante legal de la sociedad o asociación.
+f) En su caso, copia del contrato de prestación de servicios del evento de que se trate, previo cotejo con el original.
 
-g) Copia certificada del contrato de prestación de servicios del evento de que se trate.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-h) Copia de la cédula fiscal de la persona con quien celebró el contrato de prestación de servicios a que se refiere el inciso anterior.
+g) Copia de la Constancia de Situación Fiscal expedida por el Servicio de Administración Tributaria, de la persona con quien celebró el contrato de prestación de servicios a que se refiere el inciso anterior.
 
-i) Acuse de recibo de la Secretaría del aviso presentado ante la misma sobre la realización del evento que se lleve a cabo en el Estado, con diez días hábiles de anticipación a la fecha de su realización, señalando fecha, hora y domicilio en que se llevará a cabo, así como el número de boletos y precio, con la descripción correspondiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-j) Original del comprobante de pago correspondiente a la verificación del evento de que se trate expedido por concepto de derechos por la Secretaría.
+h) Acuse de recibo de la Secretaría del aviso presentado ante la misma sobre la realización del evento que se lleve a cabo en el Estado, con diez días hábiles de anticipación a la fecha de su realización, señalando fecha, hora y domicilio en que se llevará a cabo, así como el número de boletos y precio, con la descripción correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+i) Original del comprobante de pago correspondiente a la verificación del evento de que se trate expedido por concepto de derechos por la Secretaría
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Se exime de los requisitos previstos en los incisos f) y g) de la presente fracción, cuando el carácter de propietario o poseedor (sic) establecimiento o instalación en la que por cualquier acto se permita la realización del espectáculo público y el carácter del sujeto obligado del impuesto recaiga en la misma persona. Lo cual será manifestado ante la autoridad fiscal mediante escrito libre.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -997,9 +1035,9 @@ III.- Tractores destinados a actividades agrícolas.
 
 El Padrón Vehicular del Estado será electrónico y formará parte del Registro de Contribuyentes del Estado; estará a cargo de la Secretaría de Finanzas del Estado, en el cual se inscribirán las unidades que por mandato de la Ley de Movilidad del Estado de Aguascalientes deban de portar placas de circulación asignadas por el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: inscripción, cambios, rectificaciones y bajas.
+En el Padrón a que se refiere el párrafo anterior, sólo procederá el registro de los siguientes trámites: inscripción, cambios, rectificaciones y bajas conforme a los requisitos que se establecen en este Código y el Reglamento del Padrón Vehicular del Estado emitido por el Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1041,13 +1079,15 @@ e) Baja por venta.
 
 f) Baja por robo o destrucción.
 
-g) Alta por recuperación del vehículo robado o destruido.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+g) Alta por recuperación del vehículo robado, reparado o destruido.
 
 h) Canje de placas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Para realizar cualquiera de los trámites antes señalados, excepto en cambio de domicilio, baja por venta o baja administrativa, el interesado deberá presentar la Constancia de Registro en el Padrón Vehicular del Estado ante la Autoridad competente.
+Para realizar los trámites señalados en los incisos a), b) y g) de la presente fracción el interesado deberá presentar la Constancia de Registro en el Padrón Vehicular del Estado ante la Autoridad competente, solo en los casos que se pretenda acreditar la propiedad del vehículo con representaciones impresas comprobantes fiscales digitales que no consten en papel seguridad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1899,15 +1939,15 @@ Cuando el pago resulte menor en la otra entidad, estará obligado a realizar el 
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-#### SECCION OCTAVA. De la Causación y Excepciones
+#### SECCION OCTAVA. De la Causación y Exenciones
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 54.
 
-Quedan exceptuados del pago del impuesto los Premios que sean obtenidos por las instituciones de asistencia privada legalmente constituidas; las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por ley o por decreto presidencial, cuyo objeto sea la enseñanza, cuando estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
+Quedan exentos del pago del impuesto los Premios que sean obtenidos por las instituciones de asistencia privada legalmente constituidas; las sociedades o asociaciones de carácter civil que se dediquen a la enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación, así como las instituciones creadas por ley o por decreto presidencial, cuyo objeto sea la enseñanza, cuando estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2329,15 +2369,15 @@ Tratándose de vehículos cuyo año modelo corresponda al periodo anterior a los
 
 El pago de este impuesto se hará en un término de 15 días naturales siguientes al de la adquisición, consignada en la factura del vehículo o en el documento judicial o administrativo que lo sustituya en términos de ley; dicho pago deberá efectuarse en las cajas recaudadoras de la Secretaría de Finanzas del Estado y en las instituciones bancarias que la misma autorice, debiendo cumplirse los requisitos que establece la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-#### SECCION SEXTA. De las Excepciones
+#### SECCION SEXTA. De las Exenciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 62.
 
-Están exceptuadas del pago de este impuesto:
+Están exentas del pago de este impuesto:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2345,7 +2385,11 @@ I.- Las adquisiciones efectuadas cuyo enajenante sea persona física o moral con
 
 Se considera que realizan una actividad exclusiva por la compra venta de vehículos aquellos cuyos ingresos por dicha actividad representen cuando menos el 90 por ciento de sus ingresos totales, sin incluir los ingresos por enajenación de activos fijos.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, se realicen a favor de los parientes en línea recta o al cónyuge en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios que sean utilizados para la prestación de servicios públicos.
 
@@ -2489,11 +2533,11 @@ Se podrán aplicar a la base del presente impuesto las deducciones, subsidios y 
 
 #### SECCION QUINTA. De la Tasa y el Pago
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTICULO 67.
 
-Este impuesto se causará y pagará aplicando a la base, la tasa del 2% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
+Este impuesto se causará y pagará aplicando a la base, la tasa del 2.5% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3480,3 +3524,15 @@ Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través d
 ###### ARTÍCULO UNDÉCIMO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 263.- SE REFORMA LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintitrés.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones y derechos que hubiesen nacido con anterioridad a la entrada en vigor de las disposiciones que se modifican conforme al Artículo Único de este Decreto, deberán cumplirse en los términos, montos, formas y plazos establecidos en la normatividad vigente al momento en que se generaron.
