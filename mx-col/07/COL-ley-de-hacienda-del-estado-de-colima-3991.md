@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2022-03-05"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -171,11 +171,11 @@ VIII.- Que tratándose de contratos de arrendamiento financiero sólo se conside
 
 IX.- Respecto a los gastos de viaje a que se refiere la fracción IX del Artículo anterior, los relativos a hospedaje, alimentación y arrendamiento de vehículos sólo podrán deducirse en conjunto por un monto diario equivalente a 150 unidades de medida y actualización, si se erogan en el extranjero o de 80 unidades de medida y actualización si se erogan en territorio nacional.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 15.
 
-El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuarán pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará aplicando la tasa del 3%, a la diferencia que resulte de restar a los ingresos percibidos en el bimestre, las deducciones autorizadas en el Artículo 13 de esta Ley.
+El impuesto a que se refiere este capítulo se calculará y pagará bimestralmente. Los contribuyentes efectuarán pagos definitivos del impuesto a más tardar los días 17 de los meses de marzo, mayo, julio, septiembre, noviembre del período y enero del siguiente año, mediante declaración que presentarán en las formas oficiales aprobadas para el efecto en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados. El pago bimestral se determinará aplicando la tasa del 3%, a la diferencia que resulte de restar a los ingresos percibidos en el bimestre, las deducciones autorizadas en el Artículo 13 de esta Ley.
 
 ###### Artículo 16.
 
@@ -189,9 +189,9 @@ II.- Las personas físicas, morales o unidades económicas, que recibiendo los s
 
 Los sujetos que obtengan ingresos de los comprendidos en este capítulo, tendrán además las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas oficiales aprobadas para el efecto, anexando a la solicitud copias del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación, Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a aquel en que se inicien las actividades generadoras de ingresos objeto de este impuesto, en las formas oficiales aprobadas para el efecto, anexando a la solicitud copias del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
 
 II.- Pagar los impuestos en la forma y términos establecidos en este capítulo.
 
@@ -199,9 +199,9 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las Autoridades Fiscales, los datos e informes que le sean solicitados dentro del plazo que para ello se les fije.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin.; (sic) y
+V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaría de Planeación, Finanzas y Administración para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -211,11 +211,11 @@ VI.- Llevar los libros o registros contables exigidos por las disposiciones fisc
 
 Los retenedores del impuesto y, en general, quiénes hagan pagos a los contribuyentes del mismo, tienen la obligación de proporcionar los datos y documentos que les sean solicitados por las Autoridades Fiscales del Estado y recibir las visitas de inspección o permitir la practica de auditorías para verificar el pago correcto de este gravamen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-La Secretaría de Planeación y Finanzas podrá estimar de manera presuntiva los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Planeación, Finanzas y Administración podrá estimar de manera presuntiva los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, no lleven los libros o registros, no expidan la documentación comprobatoria a que están obligados; y
 
@@ -239,27 +239,61 @@ Para practicar las estimaciones a que se refiere este ARTÍCULO se tendrán en c
 
 ### CAPITULO III. Del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 23.
 
-Es objeto de este impuesto la transmisión de la propiedad de vehículos y automotores usados, por cualquier título.
+Es objeto de este impuesto a la transmisión de la propiedad, por cualquier título, de vehículos y automotores usados, a partir de la segunda enajenación.
 
 ###### Artículo 24.
 
 Son sujetos de este impuesto las personas físicas o morales que realicen los actos de transmisión a que se refiere el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 25.
 
 La base gravable para la determinación de este impuesto será:
 
-I.- Tratándose de automóviles, camiones y motocicletas:
+I.- Tratándose de automóviles, camiones y motocicletas, el valor factura o comprobante fiscal digital que ampare la primera enajenación del vehículo sin el Impuesto al Valor Agregado, multiplicado por el factor de ajuste. Dicho factor, se obtendrá de acuerdo al modelo del vehículo, en base a la siguiente tabla:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+Años de antigüedad Factor
 
-a).- Para vehículos del último año, el 80% del importe total de la primera facturación, sin incluir intereses por financiamiento.
+1 0.900
 
-b).- Para vehículos de años modelos anteriores al año de calendario en el que se realizo la transmisión: el valor consignado en el Tabulador Oficial que se publique en el Periódico Oficial del Estado.
+2 0.800
 
-II.- Tractores agrícolas, vehículos acuáticos, aéreos y otros automotores: el precio de operación.
+3 0.700
+
+4 0.600
+
+5 0.500
+
+6 0.400
+
+7 0.300
+
+8 0.200
+
+9 0.100
+
+Los años de antigüedad se computarán a partir del año modelo que se señale en el comprobante fiscal que ampare la primera enajenación.
+
+II. Tractores agrícolas, vehículos acuáticos, aéreos y otros automotores: el precio de operación.
+
+Por la transmisión de la propiedad de vehículos automotores usados cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, se causará y pagará:
+
+Vehículo UMA
+
+Vehículo automotor 8.0
+
+Camión 8.0
+
+Tractor 8.0
+
+Motocicleta 4.0
+
+Las personas afiliadas al Instituto Nacional de las Personas Adultas Mayores, por sus siglas INAPAM, o que tengan el carácter de pensionados o jubilados por las diversas instituciones sociales o personas con alguna discapacidad física permanente que le impida desplazarse por sí mismo o que para hacerlo requiera de algún aparato, causarán y pagarán un 50% de este impuesto, debiendo acreditar ante la autoridad correspondiente el carácter con que se ostente, mediante el original de la documentación respectiva.
 
 ###### Artículo 26.
 
@@ -287,17 +321,19 @@ Para la recaudación de este impuesto, se observaran las siguientes reglas:
 
 I.- Las personas que realicen las operaciones de transmisión de la propiedad a que se refiere este capítulo, deberán manifestarlas ante la Receptoría de Rentas correspondiente dentro del término establecido por el Artículo 28 de esta Ley, presentando la factura original del vehículo objeto de la transmisión o documento que la sustituya, con validez jurídica.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II.- La Receptoría de Rentas respectiva de la Secretaría de Planeación y Finanzas expedirá el formulario para que el contribuyente efectúe el pago en la propia Receptoría, en las instituciones de crédito o en los establecimientos autorizados.
+II.- La Receptoría de Rentas respectiva de la Secretaría de Planeación, Finanzas y Administración, expedirá el formulario para que el contribuyente efectúe el pago en la propia Receptoría, en las instituciones de crédito o en los establecimientos autorizados.
 
 III.- Las autoridades correspondientes no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos respecto de los cuales no se hubiera cubierto previamente el impuesto a que se refiere este capítulo. Si al solicitar cualquiera de los tramites a que se refiere el párrafo anterior, se llegare a descubrir que la fecha posible de la transmisión de la propiedad del vehículo, difiere aquella en que fue literalmente inscrita la leyenda de cesión, se tomará en cuenta para liquidar los impuestos, determinar y cobrar los recargos e imponer las sanciones que procedan; y
 
 IV.- Las empresas dedicadas a la compraventa de vehículos usados, llevaran un registro de los adquiridos o que reciban a comisión o en consignación, en el que anotaran; Nombre, domicilio del transmitente, comitente o consignante, figura jurídica del acto por el que se reciba cada vehículo y los datos y características que lo identifiquen. Las empresas a que se refiere la fracción anterior, deberán presentar al momento de solicitar la alta o cambio de propietario del vehículo, la factura que les haya sido entregada por el propietario anterior, con el objeto de que la autoridad se cerciore del cabal cumplimiento de las obligaciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 31.
 
-No causa este impuesto, la obtención de ingresos por la enajenación de vehículos por la que deba pagarse el Impuesto al Valor Agregado, de conformidad con la Ley respectiva.
+No se causará este impuesto, siempre que dicha operación no se encuentre gravada por la Ley del Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -407,9 +443,11 @@ II.- Por el servicio de hospedaje en moteles, la tasa del 5%.
 
 Artículo 41 C BIS.- El impuesto establecido en este Capítulo se causará en el momento en que los contribuyentes o las personas que intervengan como intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, reciban la contraprestación por dicho concepto.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 C BIS 1.- Los contribuyentes enterarán el impuesto por la prestación del servicio de hospedaje, mediante declaración definitiva, haciendo uso de las formas oficiales aprobadas, que presentarán en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que reciban la contraprestación por la prestación del servicio de hospedaje.
+Artículo 41 C BIS 1.- Los contribuyentes enterarán el impuesto por la prestación del servicio de hospedaje, mediante declaración definitiva, haciendo uso de las formas oficiales aprobadas, que presentarán en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que reciban la contraprestación por la prestación del servicio de hospedaje.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 Si los contribuyentes operan en dos o más establecimientos, presentarán una declaración por cada establecimiento.
 
@@ -423,9 +461,11 @@ De no efectuar el desglose del monto correspondiente al hospedaje, los contribuy
 
 Artículo 41 E.- Para los efectos de este impuesto, se entiende que el servicio de hospedaje se presta en el Estado de Colima, cuando el bien inmueble a través del cual se presta el mismo, se encuentre ubicado dentro del territorio de dicho Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 E BIS.- Los intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, que cobren a nombre de los contribuyentes la contraprestación que paguen las personas que reciban los servicios señalados en el artículo 41 A, de esta Ley, deberán retener a estos últimos el impuesto por la prestación del servicio de hospedaje, debiendo enterarlo mediante declaración definitiva a más tardar el día 17 del mes siguiente a aquél en que se realice la retención, haciendo uso de las formas oficiales aprobadas para tal efecto, a través de las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, de las instituciones de crédito, de los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría.
+Artículo 41 E BIS.- Los intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, que cobren a nombre de los contribuyentes la contraprestación que paguen las personas que reciban los servicios señalados en el artículo 41 A, de esta Ley, deberán retener a estos últimos el impuesto por la prestación del servicio de hospedaje, debiendo enterarlo mediante declaración definitiva a más tardar el día 17 del mes siguiente a aquél en que se realice la retención, haciendo uso de las formas oficiales aprobadas para tal efecto, a través de las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, de las instituciones de crédito, de los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
 
 En caso de que dichos intermediarios, promotores o facilitadores no cumplan con la obligación de enterar el impuesto por la prestación del servicio de hospedaje retenido, los contribuyentes deberán realizar el pago hasta por el monto del impuesto no enterado.
 
@@ -433,9 +473,9 @@ En caso de que dichos intermediarios, promotores o facilitadores no cumplan con 
 
 Artículo 41 F.- Los contribuyentes de este impuesto tendrán además de las señaladas en otros artículos, las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación, Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción dentro de los quince días siguientes a la fecha en que se inicien las actividades objeto de este impuesto, en las formas aprobadas para el efecto, adjuntando a la solicitud copia del documento equivalente que se hubiera presentado para efectos del Registro Federal de Contribuyentes.
 
 II.- Presentar las declaraciones y pagar el impuesto en la forma y términos establecidos en este capítulo.
 
@@ -443,25 +483,25 @@ III.- Presentar los avisos de cambio que se produzcan en los datos que debe cont
 
 IV.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este impuesto, que les sean solicitados dentro del plazo que para ello se fije.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
+V.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaría de Planeación, Finanzas y Administración, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
 VI.- Llevar los libros o registros contables exigidos por las disposiciones fiscales y expedir la documentación comprobatoria, de las operaciones gravadas de conformidad con las disposiciones fiscales correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Articulo 41 G.- La Secretaría de Planeación y Finanzas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+Articulo 41 G.- La Secretaría de Planeación, Finanzas y Administración podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 I.- Cuando los contribuyentes no registren en la contabilidad cada una de las percepciones gravadas;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Planeación y Finanzas; y
+II.- Cuando el sujeto pasivo no proporcione su contabilidad, comprobantes, registros y demás documentos que la integran o no proporcione la información que legalmente le exija la Secretaría de Planeación, Finanzas y Administración; y
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -539,9 +579,9 @@ II.- En el caso de la fracción II del artículo 41 H de esta Ley, el valor tota
 
 Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el Artículo 41 J de esta Ley, la tasa del 6.0%, sin deducción alguna.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 L.- El impuesto causado y/o retenido conforme a lo dispuesto por los Artículos 41 H BIS 1 y 41 I BIS I, deberá ser pagado por las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 I, fracciones I y II, mediante declaración definitiva que presentarán en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquel en que se causó y/o retuvo el impuesto, en los formatos aprobados para el efecto.
+Artículo 41 L.- El impuesto causado y/o retenido conforme a lo dispuesto por los Artículos 41 H BIS 1 y 41 I BIS I, deberá ser pagado por las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 I, fracciones I y II, mediante declaración definitiva que presentarán en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 17 del mes siguiente a aquel en que se causó y/o retuvo el impuesto, en los formatos aprobados para el efecto.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -553,9 +593,9 @@ II.- Acumular la información de todos los establecimientos que operen en el ter
 
 III.- Manifestar ante la autoridad fiscal competente las reglas para la celebración de las actividades objeto de este impuesto antes de que inicie la distribución de los boletos o cualquier otro comprobante que permita participar en las mismas. En caso de que se hagan modificaciones a las citadas reglas, deberá dar aviso a más tardar 15 días antes de que se realicen dichas actividades.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
+IV.- Permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaría de Planeación, Finanzas y Administración, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se le solicite para tal fin; y
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
 
@@ -587,7 +627,9 @@ Se consideran unidades económicas sin personalidad jurídica a las empresas o c
 
 Artículo 41 Ñ.- Están obligados a retener y enterar el impuesto sobre nóminas, las personas físicas, las personas morales, las unidades económicas sin personalidad jurídica y los demás sujetos de este impuesto, que contraten la prestación de servicios con empresas domiciliadas dentro o fuera del territorio del estado de Colima, cuando dichas empresas sean las que realicen las erogaciones objeto de este impuesto. La retención deberá efectuarse en el momento en que se pague la contraprestación por el servicio contratado.
 
-Los retenedores a que se refiere el párrafo anterior, deberán proporcionar a la empresa prestadora del servicio, dentro de los 10 días naturales siguientes a la fecha en que se efectuó la retención, la constancia correspondiente, utilizando para tal efecto la forma oficial disponible en la página de internet de la Secretaría de Planeación y Finanzas del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Los retenedores a que se refiere el párrafo anterior, deberán proporcionar a la empresa prestadora del servicio, dentro de los 10 días naturales siguientes a la fecha en que se efectuó la retención, la constancia correspondiente, utilizando para tal efecto la forma oficial disponible en la página de internet de la Secretaría de Planeación, Finanzas y Administración del Estado.
 
 Son responsables solidarios, los retenedores del impuesto sobre nóminas a cargo de los contribuyentes, hasta por el monto total de dicha contribución no enterada.
 
@@ -603,9 +645,9 @@ Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efec
 
 Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
+Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que presentarán en las formas oficiales aprobadas para el efecto, en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito, en los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría, a más tardar el día 17 del mes siguiente a aquél en que se causó el impuesto.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -755,9 +797,9 @@ Viviendas residenciales 26.25
 
 Artículo 41 S.- Los contribuyentes de este impuesto tendrán, además de las señaladas en el presente capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de las erogaciones gravadas y exentas, objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Asimismo los contribuyentes deberán de permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaria de Planeación y Finanzas, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se les solicite para tal fin.
+Asimismo, los contribuyentes deberán de permitir el ejercicio de facultades de comprobación de las autoridades fiscales de la Secretaría de Planeación, Finanzas y Administración, para comprobar el correcto cumplimiento de sus obligaciones respecto de este impuesto, proporcionando para tal efecto toda la información impresa o digital y demás documentación que se les solicite para tal fin.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
@@ -1095,9 +1137,9 @@ Tratándose de motocicletas de más de diez años modelo (sic) anteriores al de 
 
 Artículo 41 Z BIS 6.- Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna como los híbridos o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Planeación y Finanzas publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
+Artículo 41 Z BIS 7.- Para los efectos de lo dispuesto en los artículos 41 Z BIS, 41 Z BIS 2, 41 Z BIS 4 y 41 Z BIS 5, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes de noviembre del año anterior a aquel para el cual se realizará la actualización entre el citado Índice correspondiente al mes de noviembre del año en que se realizó la última actualización. La Secretaría de Planeación, Finanzas y Administración publicará el factor de actualización en el Periódico Oficial "El Estado de Colima".
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1271,9 +1313,9 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-ARTICULO 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 60 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+ARTICULO 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 60 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1301,17 +1343,17 @@ VIII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotr
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Planeación y Finanzas que se encuentran comprendidos en dichos supuestos.
+Artículo 41 Z BIS 14.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Planeación, Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 #### SECCION SEPTIMA. Otras obligaciones
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Planeación y Finanzas a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
+Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, que tengan establecimiento en el Estado, tendrán la obligación de proporcionar a la Secretaría de Planeación, Finanzas y Administración a más tardar el día 17 de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el territorio estatal en el mes inmediato anterior, a través de medios electrónicos procesados en los términos que señale dicha Secretaría. Los que tengan más de un establecimiento, deberán proporcionar esta información, haciendo la separación por cada uno de los establecimientos.
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -1323,11 +1365,11 @@ Artículo 41 Z BIS 15.- Los fabricantes, ensambladores y distribuidores autoriza
 
 Los derechos por la prestación de servicios públicos, se causaran en el momento en que el particular reciba el servicio, salvo que la disposición que fije el derecho señale cosa distinta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Articulo 43.
 
-El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+El importe de las tasas o tarifas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertas previamente a la prestación del servicio, cuando así proceda, en las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1359,9 +1401,9 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO III. Servicios prestados por la Secretaría de Planeación y Finanzas
+### CAPITULO III. Servicios prestados por la Secretaría de Planeación, Finanzas y Administración
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 48.
 
@@ -1389,13 +1431,13 @@ II BIS.- Por autorización de convenios de
 
 asociación, entre notarios públicos 14.748
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III.- Por autorización de Protocolo, abierto o especial 8.370
+III.- Por autorización de Protocolo, abierto o especial 11.000
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV.- Por legalización de firmas o apostilla, por cada una 1.800
+IV.- Por legalización de firmas, o apostilla, por cada una 2.162
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
@@ -1403,27 +1445,31 @@ IV BIS.- Venta y publicación en el Periódico Oficial "El Estado de Colima":
 
 a).- Venta:
 
-1).- De número del día, sin suplementos
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-ni ediciones especiales 0.300
+1).- De principal y suplemento de la edición del día,
 
-2).- De números atrasados, sin suplementos
+por cada página impresa 0.032
 
-ni ediciones especiales 0.360
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-3).- De suscripción anual, con suplementos
+2).- De principal y suplemento de números atrasados,
 
-y ediciones especiales 25.000
+por cada página impresa 0.042
 
-4).- De suplementos y ediciones especiales,
+3).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
-por cada página impresa 0.025
+4).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 b).- Publicación:
 
-1).- Por cada palabra o cifra 0.030
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-2).- Por página entera 27.000
+1).- Por página entera tamaño carta 30.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+2).- Por página entera tamaño oficio 35.000
 
 c).- Publicaciones a solicitud de los gobiernos
 
@@ -1515,9 +1561,7 @@ XXIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 XXIV.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-XXV.- Anuencia para compra-venta, transporte, manejo y almacenamiento de explosivos y juegos pirotécnicos 16.740
+XXV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1535,11 +1579,17 @@ XXVIII.- Autorización para registro de documentos 1.000
 
 XXIX.- Aclaración y complementación de actas del Registro Civil. 7.000
 
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXX.- Por el registro de examen a los
+XXX.- Por el registro de examen a Aspirante al
 
-aspirantes a notarios 6.624
+Ejercicio del Notariado 15.000
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXX BIS.- Por la Patente de Aspirante al Ejercicio
+
+del Notariado 104.000
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
@@ -1587,9 +1637,61 @@ XXXV.- Por la autorización de la apertura del Libro del
 
 Protocolo del Patrimonio del inmueble federal. 5.000
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXVI.- Expedición de copias fotostáticas simples,
+
+por cada hoja 0.032
+
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000)
 
 Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Artículo 48 BIS.- Por los servicios prestados en materia de protección civil estatal, se causarán y pagarán los siguientes derechos:
+
+I.- Por la expedición del permiso, inscripción en el registro y la autorización a las personas físicas o morales, como consultor externo según los artículos 103 y 114 de la Ley de Protección Civil del Estado de Colima, por año 40.000
+
+II.- Por la expedición del permiso, inscripción en el registro y la autorización de personas físicas o morales, como capacitador externo a que se refiere el artículo 103 de la Ley de Protección Civil del Estado de Colima, por año 40.000
+
+III.- Por el servicio de atención de eventos de concentración masiva:
+
+a).- Por los servicios prestados por dos elementos para la atención de primeros auxilios, por hora 3.000
+
+b).- Por los servicios prestados por ambulancia con dos elementos, por hora 6.000
+
+c).- Por los servicios prestados por unidad ligera de combate de incendios con dos bomberos, por hora 6.000
+
+d).- Por los servicios prestados por pipa con agua y dos bomberos, por viaje 7.000
+
+e).- Por los servicios prestados por pipa con agua y dos bomberos, por hora de guardia. 7.000
+
+IV.- Por la verificación de programas internos de protección civil:
+
+a).- Inmueble de bajo riesgo 3.000
+
+b).- Inmueble de mediano riesgo 6.000
+
+c).- Inmueble de alto riesgo 10.000
+
+V.- Por la emisión de dictámenes u opiniones técnicas de protección civil:
+
+a).- Opinión de riesgo externos 2.000
+
+b).- Dictamen de cumplimiento de protección civil 2.000
+
+c).- Opinión de riesgo de árbol o inmueble 1.500
+
+d).- Otras opiniones de protección civil 3.000
+
+VI.- Por los cursos de capacitación en materia de protección civil:
+
+a).- Capacitación por participante, en cada curso 4.000
+
+b).- Capacitación por grupo con un mínimo de 21 participantes, en cada curso 80.000
+
+VII.- Por cualquier otro servicio que conlleve la aplicación de recursos 5.000
 
 ###### Artículo 49.
 
@@ -1611,15 +1713,15 @@ Cuando los servicios en materia de Registro Civil sean prestados en atención a 
 
 Artículo 52 BIS.- (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO IV. Servicios prestados por la Secretaría de Infraestructura y Desarrollo Urbano
+### CAPITULO IV. Servicios prestados por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 53.
 
-Por los servicios prestados en la Dirección General de Ingresos:
+Por los servicios prestados:
 
 > <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1697,13 +1799,15 @@ d) Por la reposición del permiso 8.000
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2011)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO IV BIS. Servicios prestados por la Secretaría de Movilidad
+### CAPITULO IV BIS
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 55 B.- Por los servicios prestados en la Secretaría de Movilidad:
+Artículo 55 B.- Por los servicios prestados en materia de movilidad:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 I.- Expedición, renovación, reposición y reimpresión de licencias para conducir vehículos de motor e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
@@ -1729,9 +1833,15 @@ Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refier
 
 Las personas adultas mayores acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos Mayores.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 Para los efectos de los derechos señalados en los incisos f) y g), se respetará únicamente el tiempo restante de la licencia materia de reimpresión o reposición. Por renovación se cobrarán las mismas cuotas que se prevén para la expedición de las licencias.
 
-En caso de que la licencia o permiso llegara a presentar algún defecto de impresión y/o error de captura imputable a la Secretaría de Movilidad, los ciudadanos podrán solicitar la reimpresión únicamente dentro de los 5 cinco meses siguientes a su expedición sin ningún costo, presentando la licencia defectuosa.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En caso de que la licencia o permiso llegará a presentar algún defecto de impresión y/o error de captura imputable a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, los ciudadanos podrán solicitar la reimpresión únicamente dentro de los 5 cinco meses siguientes a su expedición sin ningún costo, presentando la licencia defectuosa.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 II. Expedición, renovación, reposición y reimpresión de permisos para conducir vehículos de motor para menores de edad:
 
@@ -1750,6 +1860,8 @@ b) Permisos para conducir motocicletas hasta 250 cc:
 2.- Renovación con vigencia de 6 meses 7.000
 
 3.- Renovación con vigencia de 12 meses 8.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 III. Por expedición de concesión, expedición y renovación de contratos de operación, y cesión o transmisión de derechos de concesión a vehículos de servicio público, conforme a la siguiente clasificación:
 
@@ -1801,9 +1913,15 @@ c) Cesión o transmisión de derechos de concesiones individuales:
 
 4.- Transmisión de derechos entre persona moral a moral (para la consolidación de empresas operadoras de transporte colectivo 110.000
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 Los derechos que establece la presente fracción deberán cubrirse dentro de los 30 días naturales siguientes a la fecha de autorización.
 
-En el caso de cesión de los derechos de concesión individual entre familiares, por causa de muerte del titular, incapacidad física o mental de la persona concesionaria, a favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la Secretaría, siempre y cuando sea entre cónyuges y ascendientes o descendientes en línea recta, en primer grado, no causará el pago de derecho alguno.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En el caso de cesión de los derechos de concesión individual entre familiares, por causa de muerte del titular, incapacidad física o mental de la persona concesionaria, a favor de la persona designada y registrada como beneficiario por el titular de la concesión ante la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, siempre y cuando sea entre cónyuges y ascendientes o descendientes en línea recta, en primer grado, no causará el pago de derecho alguno.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 IV. Por revalidación anual de concesión y por vehículo adherido al contrato de operación:
 
@@ -1814,6 +1932,8 @@ b) Revalidación de concesión empresarial por vehículo adherido a la concesió
 c) Revalidación por vehículo adherido al contrato de operación de transporte público colectivo urbano, de transporte público individual y de transporte público especial (personal y escolar) 20.000
 
 Los derechos de revalidación a los que se refieren los incisos a), b) y c) que anteceden serán por año fiscal, con vencimiento al 31 de diciembre del año que corresponda. El pago de derechos de revalidado deberá realizarse en los primeros 90 días del año fiscal, posteriormente y hasta el 31 de diciembre del año que corresponda.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 V. Por expedición de permisos de operación de transporte público, a vehículos de servicio privado, mercantil y de transporte de personal, conforme a la siguiente clasificación:
 
@@ -1933,6 +2053,8 @@ d) Permisos emergentes de servicio público de transporte:
 
 3.- Permiso provisional a vehículos de servicio público de transporte concesionado, por unidad vehicular y con vigencia de sesenta días 5.500
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 VI. Por dotación de placas y tarjeta de circulación de vehículos de servicio privado y público:
 
 a) Por dotación de placas y tarjeta de circulación de vehículos de servicio privado para automóvil, camión, autobús, ecológicos, discapacidad y antiguos 15.000
@@ -2005,7 +2127,11 @@ d) Motocicletas, incluyendo tarjeta de circulación 9.000
 
 e) Remolques y convertidor Dolly, incluyendo tarjeta de circulación 9.000
 
-Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Secretaría de Movilidad hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Secretaría de Movilidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para dar trámite a la solicitud de reposición de placas de circulación, será requisito indispensable que no se tengan adeudos pendientes de pago por impuestos y derechos causados por el uso, tenencia o circulación de la unidad vehicular de que se trate, ni de multas que la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad hubiera impuesto con respecto al mismo vehículo y se acredite el robo o extravío de las placas de circulación, con la copia del escrito que contenga la denuncia que del hecho respectivo se hubiera presentado ante la Agencia del Ministerio Público correspondiente, de la que se entregará copia a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 VIII. Por la expedición de permisos provisionales y de traslado:
 
@@ -2033,7 +2159,11 @@ b) Permiso de Traslado:
 
 2.- Por día adicional, máximo 3 días 0.500
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 IX. Certificaciones y constancias 2.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 X. Actos para operar Centros de Capacitación en Movilidad:
 
@@ -2043,9 +2173,15 @@ b) Refrendo anual de contrato de Operaciones de Centros de Capacitación en Movi
 
 c) Permiso de operación de vehículo de Centro de Capacitación, con vigencia de un año 18.000
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 XI. Por la expedición de baja de placas de otros estados 3.000
 
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
+
 XII. Por la expedición de baja definitiva del Padrón Vehicular 2.000
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 XIII. Por la aplicación de exámenes e impartición del curso para obtener licencia de conducir:
 
@@ -2054,6 +2190,8 @@ a) Examen de conocimientos viales, incluyendo el material didáctico 1.000
 b) Impartición del curso para obtener licencia de conducir 4.000
 
 De no ser aprobado el examen previsto en el inciso a) de la presente fracción, se pagará cuantas veces se realice.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 XIV. Gafetes de identificación de servicio:
 
@@ -2073,11 +2211,15 @@ g) Por la expedición o renovación de gafete de Gestor 3.000
 
 h) Por la expedición o renovación de gafete de Representante Social 3.000
 
-Los derechos de refrendo a que se refieren los incisos a), b) y d) que anteceden deberán pagarse durante el periodo ordinario establecido por la Secretaría de Movilidad, previo trámite del servicio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Los derechos de refrendo a que se refiere el inciso g) que antecede deberán pagarse durante el periodo extraordinario establecido por la Secretaría de Movilidad, previo trámite del servicio.
+Los derechos de refrendo a que se refieren los incisos a), b) y d) que anteceden, deberán pagarse durante el periodo ordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio.
 
-Los derechos de expedición o renovación a que se refieren los incisos f), g) y h) que anteceden tienen una vigencia anual.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Los derechos de refrendo a que se refiere el inciso g) que antecede, deberán pagarse durante el periodo extraordinario establecido por la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, previo trámite del servicio. Los derechos de expedición o renovación a que se refieren los incisos f), g) y h) que anteceden tienen una vigencia anual.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2018)</small>
 
 XV. Revista vehicular para vehículos de servicio público:
 
@@ -2085,11 +2227,11 @@ a) Revista vehicular por vehículo 0.000
 
 b) Revista vehicular extemporánea por vehículo 6.000
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 55.
 
-Por los servicios prestados en la Secretaría de Infraestructura y Desarrollo Urbano:
+Por los servicios prestados en materia de Infraestructura y Desarrollo Urbano:
 
 > <small>(REFORMADO [N. DE E. EN SU RUBRO], P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2705,17 +2847,19 @@ de las carreteras, se pagará durante los primeros dos meses
 
 del ejercicio fiscal correspondiente, la cantidad de 11.9
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Económico
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
+### CAPITULO VI. Servicios Prestados en la Secretaría de Educación y Cultura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 56.
 
-Por los servicios prestados en la Dirección de Fomento Agropecuario y Forestal:
+Por los servicios prestados en materia de desarrollo rural:
 
 I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
@@ -2731,15 +2875,15 @@ indefinido 2.000
 
 IV.- Expedición de credencial de identificación con vigencia por Tres años 1.000
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 57.
 
-Por los servicios prestados en la Dirección General de Educación Pública se pagarán los derechos siguientes:
+Por los servicios prestados en materia de educación pública:
 
 Numero de días de salario mínimo
 
@@ -2875,9 +3019,9 @@ d).- Posgrado 200.000
 
 e).- Capacitación para y en el trabajo 707.000
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 57 A.- Por los servicios prestados en la Dirección Estatal de Profesiones, se pagarán los siguientes derechos:
+Artículo 57 A.- Por los servicios prestados en materia de profesiones:
 
 > <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
 
@@ -2887,13 +3031,23 @@ MEDIDA Y
 
 ACTUALIZACIÓN
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
 I.- Por gestión de registro de título de licenciatura, registro de título de grado académico, registro de diploma de especialidad, expedición de cédula profesional, expedición de duplicado, autorización para ejercer como pasante, constancia de registro y no sanción, constancia de antecedentes profesionales 4.040
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 II.- Por el pago de timbre de holograma como registro de título 1.212
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
 III.-Por gestión de registro de instituciones educativas 20.202
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
+
 IV.- Por autorización y registro estatal de Colegios Profesionistas 127.858
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2008)</small>
 
 V.- Por enmienda al registro estatal de un colegio de profesionistas:
 
@@ -3010,6 +3164,54 @@ b).- Maestría 189.000
 (ACTUALIZADO EN SU MONTO, P.O. 26 DE NOVIEMBRE DE 2011)
 
 c).- Doctorado 198.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 58 Bis.
+
+Por los servicios prestados en materia de cultura:
+
+UNIDADES
+
+DE MEDIDA Y
+
+ACTUALIZACIÓN
+
+I.- Talleres:
+
+a) Danza Contemporánea, Mujer Danza 1.558
+
+b) Danza Contemporánea para jóvenes y adultos 1.558
+
+c) Danza Clásica 1.558
+
+d) Baby Ballet 1.558
+
+e) Danza Folklórica 1.558
+
+f) Danza Folklórica Mexicana nivel principiantes Ballet
+
+TZOME 1.558
+
+g) Taller de Teatro para jóvenes y adultos 1.558
+
+h) Teclado 1.558
+
+i) Bajo Eléctrico 1.558
+
+j) Percusión 1.558
+
+k) Guitarra Clásica 1.558
+
+l) Canto 1.558
+
+m) Pirograbado 1.558
+
+n) Artes Plásticas 1.558
+
+ñ) Pintura Rangeliana 1.558
+
+o) Joyería 1.558
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -3275,7 +3477,7 @@ XII.- Por Scanner por hoja 0.030
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
@@ -3795,11 +3997,11 @@ en el inciso anterior 83.000
 
 c. Por Kilometro o fracción excedente de los 50 kilómetros señalados en el inciso anterior 1.000
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-Por los servicios prestados en la Secretaría de Salud y Bienestar Social se pagarán los siguientes derechos:
+Por los servicios prestados en materia de salud:
 
 > <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016 )</small>
 
@@ -3847,9 +4049,13 @@ III.- Expedición de constancia por persona del curso de manejo y dispensación 
 
 IV.- Constancia del curso de capacitación de buenas prácticas de higiene y/o manejo higiénico de alimentos 2.000
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 V.- Solicitud de cursos de capacitación del
 
 interesado por persona 30.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 VI.- Constancia de destrucción de productos
 
@@ -3863,9 +4069,13 @@ a).- Sin toma de muestra 10.000
 
 b).- Con toma de muestra 13.000
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
 VIII.- Por reposición de aviso de apertura
 
 o establecimiento 2.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 IX.- Por autorización de libros de bancos de
 
@@ -3876,6 +4086,8 @@ sangre y transfusión sanguínea 10.000
 X.- Por autorización de libros de control de estupefacientes y
 
 Psicotrópicos, por cada libro 6.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 XI.- Por reposición de licencia sanitaria 6.000
 
@@ -3961,11 +4173,9 @@ y operativa, de establecimientos de servicios de salud. 45.000
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
-### CAPÍTULO VII TER
+### CAPÍTULO VII TER. Servicio (sic) prestados por el Instituto para el Registro del Territorio del Estado de Colima
 
-Servicios prestados por el Instituto para el Registro del Territorio del Estado de Colima.
-
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ### CAPÍTULO VII QUATER. SERVICIOS PRESTADOS POR El INSTITUTO PARA EL MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
@@ -4012,6 +4222,10 @@ III.- Por la recepción, evaluación y en su caso otorgamiento del refrendo del 
 4.- En su modalidad de diagnóstico ambiental 40.000
 
 5.- En su modalidad de riesgo ambiental 20.000
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+6.- Por el otorgamiento del certificado de cabal cumplimiento de las condicionantes establecidas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Colima 70.000
 
 (ACTUALIZADA EN SU MONTO, P.O. 29 DE NOVIEMBRE DE 2014)
 
@@ -4165,7 +4379,7 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 ###### Artículo 62 Bis 1.
 
-Por los servicios prestados en la Dirección del Registro Público de la Propiedad y del Comercio, se pagarán los siguientes derechos
+Por los servicios prestados en materia de Registro Público de la Propiedad y del Comercio:
 
 > <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4174,6 +4388,8 @@ UNIDADES DE
 MEDIDA Y
 
 ACTUALIZACIÓN
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, transmita, modifique o extinga la propiedad o posesión de inmuebles o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial o bancario actualizado:
 
@@ -4239,7 +4455,9 @@ público o privado presentado ante el instituto para
 
 su inscripción se cobrará por una sola vez 2.000
 
-La Secretaría de Planeación y Finanzas enviará de
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría de Planeación, Finanzas y Administración enviará de
 
 manera trimestral los ingresos generados por dicho
 
@@ -4250,6 +4468,8 @@ del Instituto para el Registro del Territorio del Estado de
 Colima, siendo el Consejo Directivo del Instituto, quien
 
 determine los conceptos en que deberá destinarse.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 II.- Por la inscripción de contratos de fideicomiso de cualquier tipo,
 
@@ -4291,6 +4511,8 @@ No será exigible la presentación del avalúo comercial o bancario, si no son
 
 requeridos en la operación que se registra.
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 III.- Inscripción de contratos de arrendamiento puro, de arrendamiento
 
 financiero, o de cualquier otro tipo, así como la servidumbre de paso
@@ -4304,6 +4526,8 @@ sin que el mínimo sea inferior a. 6.000
 > <small>(F. DE E., P.O. 12 DE ENERO DE 2013)</small>
 
 Ni el máximo superior a. 136.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto
 
@@ -4477,11 +4701,15 @@ sobre el valor que resulte mayor entre el catastral y el de avalúo
 
 bancario, sin que el mínimo sea inferior a 0.00
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 X.- Inscripción de compraventa de bienes muebles, sobre el valor
 
 de la operación, el 0.3%, sin que el importe del derecho sea
 
 menor de. 6.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XI.- Por la inscripción de fraccionamientos o régimen en propiedad
 
@@ -4496,6 +4724,8 @@ b).- Habitacional densidad media 6.000
 c).- Habitacional densidad alta 5.000
 
 d).- Industrial, comercial y granjas 4.360
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XII.- Inscripción de relotificaciones de fraccionamientos, por cada
 
@@ -4517,6 +4747,8 @@ juntas de administradores, o actas de sesión de consejo
 
 de administración 7.690
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
 
 a).- Por la disolución 7.700
@@ -4537,6 +4769,8 @@ la tasa del 0.3 %, sin que el mínimo sea inferior a 6.000
 
 Ni el superior a. 541.000
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XV.- Inscripción de la fusión y escisión de sociedades mercantiles:
 
 a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%,
@@ -4550,6 +4784,8 @@ b).- Por la escisión, sobre el monto del capital social de las
 empresas escindidas, el 0.3%, sin que se pague menos de. 6.000
 
 Ni el máximo superior a. 541.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XVI.- Inscripción del otorgamiento de poderes, de la renovación,
 
@@ -4571,13 +4807,19 @@ b).- Renovación de poderes, por cada apoderado 5.08
 
 c).- Revocación de poderes, por cada apoderado 5.08
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XVII.- Inscripción de contratos de comisión y mediación mercantil,
 
 así como de seguros de toda especie 9.000
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XVIII.- Inscripción de resoluciones judiciales en que se declare una
 
 quiebra o se admita una liquidación judicial 7.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XIX.- Inscripción de modificaciones o rectificaciones de superficie de
 
@@ -4603,6 +4845,8 @@ independientemente que se realice otro acto jurídico, por cada
 
 una de las fracciones que soliciten inscribir 9.000
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XX.- Por la inscripción del programa parcial o incorporación municipal,
 
 de un fraccionamiento:
@@ -4615,6 +4859,8 @@ a).- Programa parcial o incorporación municipal sin protocolización 19.500
 
 b).- Programa parcial o incorporación municipal protocolizado 9.000
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XXI.- Por la inscripción de cualquier otro documento distinto a los
 
 señalados en las fracciones I a XIX Bis, sobre el monto de la
@@ -4622,6 +4868,8 @@ señalados en las fracciones I a XIX Bis, sobre el monto de la
 operación o del valor consignado, se cobrará la tasa del 0.125%,
 
 sin que se pague menos de 6.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXII.- Por la corrección de folios respecto de errores cometidos
 
@@ -4633,11 +4881,15 @@ derechos pagados por la inscripción, por cada prelación que se
 
 corrija 4.500
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XXIII.- Examen de cualquier documento público o privado
 
 presentado ante la Dirección para su inscripción, cuando se rechace
 
 por no ser inscribible. 7.500
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXIV.- Anotaciones en folios o libros, por cada una:
 
@@ -4654,6 +4906,8 @@ de la Ley del Notariado del Estado de Colima y 2905 del Código Civil
 del Estado de Colima 7.500
 
 d).- Por la anotación de fianzas judiciales o legal. 10.50
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXV.- Cancelación de gravámenes en general y de anotaciones de
 
@@ -4679,11 +4933,15 @@ corresponderá una cancelación, aún cuando la inscripción del
 
 gravamen esté realizada en un solo folio.
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XXVI.- Cancelación del registro de sociedades civiles, sobre el
 
 monto del capital social en la fecha de la cancelación, la tasa del
 
 0.2%, sin que el mínimo sea inferior a 7.500
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXVII.- Depósito de cualquier documento:
 
@@ -4696,6 +4954,8 @@ horas ordinarias o extraordinarias 12.000
 En el caso del inciso b), deberán cubrirse adicionalmente los gastos
 
 de traslado y más que se generen.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXVIII.- Ratificación de documentos y firmas ante el registrador. 9.000
 
@@ -4720,6 +4980,8 @@ Sistema de Información en línea 8.500
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 Salvo las que se realicen por número de folio real y/o mercantil las cuales quedarán exentas de pago.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 XXX.- Expedición de certificados, informes y constancias:
 
@@ -4779,6 +5041,8 @@ g).- Expedición de copias fotostáticas simples de constancias
 
 de registro 4.500
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 XXXI.- Tratándose de escritura pública de inscripción y
 
 cancelación, otorgados fuera de esta entidad federativa, las
@@ -4827,11 +5091,11 @@ años subsecuentes, haciendo el pago de los
 
 derechos correspondientes 0.000
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 62 Bis 2.
 
-Por los servicios prestados en la Dirección de Catastro.
+Por los servicios prestados en materia catastral:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4840,6 +5104,8 @@ UNIDADES DE
 MEDIDA Y
 
 ACTUALIZACIÓN
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 I).- Copias fotostática certificada de planos generales:
 
@@ -4877,6 +5143,8 @@ Interesado. 4.500
 
 10.- Copia fotostática simple por mancha ejidal y por hoja. 4.500
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
+
 II.- Certificaciones:
 
 a).- Certificaciones de documentos catastrales a solicitud del
@@ -4890,6 +5158,8 @@ del poseedor. 10.000
 c).- Constancia certificada de inscripción o no en los registros
 
 catastrales. 2.000
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 III).- Avalúos y mediciones:
 
@@ -5139,9 +5409,9 @@ XIII.- Por cada asignación o punto de
 
 coordenadas geodésicas. 10.000
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 62 BIS 2 A.- Por los servicios prestados en la Dirección del Registro Territorial:
+Artículo 62 BIS 2 A.- Por los servicios prestados en materia del registro del territorio:
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5523,57 +5793,35 @@ b) Por el uso del auditorio interno 9.480
 
 c) Por el uso de sala adjunta del auditorio externo 5.920
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI.- Expedición de copias simples de los documentos solicitados por los particulares que, conforme a la ley, puedan otorgarse por la dependencia responsable de acceso a la información pública y protección de datos personales, se causarán y pagarán los siguientes derechos:
+
+a).- Por la primera a la vigésima hoja 0.000
+
+b).- Por la vigésima primera hora 0.050
+
+c).- Por cada hoja más o fracción 0.020
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VII.- Expedición de información contenida en unidades de almacenamiento en disco compacto solicitados por los particulares que, conforme a la ley, puedan otorgarse por la dependencia responsable de acceso a la información pública y protección de datos personales:
+
+a).- Por el primero disco compacto 0.700
+
+b).- Por cada disco compacto adicional 0.200
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
+### CAPITULO X. Servicios Prestados por el Centro de Evaluación y Control de Confianza del Estado
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada al Estado por las Leyes respectivas.
+Artículo 64 BIS.- Por los servicios prestados en el Centro de Evaluación y Control de Confianza del Estado, se pagarán los derechos siguientes:
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+I.- Por evaluaciones de control de confianza a instituciones y empresas de seguridad privada que presten sus servicios dentro del Estado 94.760
 
-Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de medida y actualización.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-1.- Arena y grava, por cada cien metros cúbicos que se extraigan 3.000
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan 5.000
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan 5.000
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación y Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Planeación y Finanzas autorice.
-
-3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
-
-4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
-
-5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Planeación y Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
-
-6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 64.
 
@@ -5621,9 +5869,9 @@ b).- Por cada hoja más o fracción 0.135
 
 II.- Servicios de vigilancia e inspección de Obra Pública:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia u organismo público del Gobierno del Estado, pagarán un derecho equivalente al 1.5 por ciento sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias u organismos públicos que efectúen los pagos a los contratistas, los cuales deberán enterar los importes retenidos a la Secretaría de Planeación y Finanzas, a través de las oficinas o instituciones autorizadas para recibir el pago de contribuciones, dentro de los primeros cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
+a) Los contratistas que celebren contratos de obra pública o de servicios relacionados con la misma con cualquier dependencia u organismo público del Gobierno del Estado, pagarán un derecho equivalente al 1.5 por ciento sobre el importe de cada una de las estimaciones de trabajo; dichos importes serán retenidos por las dependencias u organismos públicos que efectúen los pagos a los contratistas, los cuales deberán enterar los importes retenidos a la Secretaría de Planeación, Finanzas y Administración, a través de las oficinas o instituciones autorizadas para recibir el pago de contribuciones, dentro de los primeros cinco días hábiles del mes siguiente a aquel en que se efectúe la retención.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -5643,39 +5891,163 @@ IV.- Certificados digitales 25.450
 
 V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2012)
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI.- Por los servicios prestados en las dependencias y entidades paraestatales del Poder Ejecutivo del Gobierno del Estado, cuando se trate de solicitudes formuladas por los particulares que, conforme a la ley, puedan otorgarse por la dependencia responsable de acceso a la información pública y protección de datos personales, se causarán y pagarán los siguientes derechos:
+
+a).- Copia o impresión simple tamaño carta, de la primera a la vigésima hoja 0.000
+
+b).- Copia o impresión simple tamaño carta, de la vigésima primera hoja o más 0.0125
+
+c).- Copia o impresión simple tamaño oficio, de la primera a la vigésima hoja 0.000
+
+d).- Copia o impresión simple tamaño oficio, de la vigésima primera hoja o más 0.025
+
+e).- Copia certificada tamaño carta, por hoja 0.0313
+
+f).- Copia certificada tamaño oficio, por hoja 0.0437
+
+g).- Cuando la información se entregue en disco compacto, se cobrará por cada disco 0.069
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO XI. Servicios Prestados por el Tribunal de Justicia Administrativa del Estado de Colima
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Artículo 64 BIS 1.- Por los servicios prestados por el Tribunal de Justicia Administrativa del Estado de Colima, se pagarán los derechos siguientes:
+
+I.- Por la expedición de copias simples impresas, por cada hoja 0.050
+
+II.- Por la expedición de copias certificadas impresas, adicional al pago que resulte por la expedición de copias simples 4.000
+
+III.- Por la expedición de certificaciones o constancias distintas a las anteriores 4.000
+
+IV.- Por la inscripción en el registro del Tribunal de los acuerdos, convenios y contratos de carácter administrativos que tengan celebrados los particulares con los entes del sector público local, incluyendo los contratos de obra pública, de concesión, adquisiciones, arrendamientos y servicios con dicho sector público y los que deriven de los esquemas de asociaciones público-privadas 15.000
+
+V.- Por la recepción de declaraciones en procedimientos paraprocesales 15.000
+
+VI.- Por la ratificación o reconocimiento de actos, acuerdos, convenios y contratos administrativos, incluyendo sus firmas, en procedimientos paraprocesales 10.000
+
+VII.- Por la certificación de documentos de carácter administrativo en procedimientos paraprocesales 4.000
+
+VIII.- Por la expedición de constancias distintas a las anteriores en procedimientos paraprocesales 9.000
+
+El importe de las tarifas que se indican deberá ser cubierto por el interesado ante el Tribunal, previamente a la prestación del respectivo servicio, ello en términos de las formas que se establezcan en los reglamentos, lineamientos o acuerdos del Tribunal.
+
+Las partes en un juicio que se encuentre en trámite ante el Tribunal estarán exentas de cubrir las tarifas por la expedición de copias certificadas o de constancias que obren en el expediente jurisdiccional, siempre que éstas se requieran para efectos de la consecución del propio juicio.
+
+Los derechos, productos y aprovechamientos que el Tribunal esté autorizado a recibir en los términos de esta ley y otros ordenamientos jurídicos, se integrarán al fondo para el fortalecimiento institucional que para dicho Tribunal disponga y regule su Reglamento Interior.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Del Derecho por la Extracción de Minerales
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO
+Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada al Estado por las Leyes respectivas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO UNICO
+Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa, misma que se encuentra expresada en unidades de medida y actualización.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+1.- Arena y grava, por cada cien metros cúbicos que se extraigan 3.000
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan 5.000
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
+
+3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan 5.000
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Planeación, Finanzas y Administración, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Planeación, Finanzas y Administración autorice.
+
+3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
+
+4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Planeación, Finanzas y Administración, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+### CAPITULO SEGUNDO. De los Derechos por el Uso y Aprovechamiento de los Espacios Culturales
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Artículo 64 E. Por el uso y aprovechamiento de los espacios culturales, se pagarán los siguientes derechos:
+
+I.- Teatros:
+
+1. Teatro Hidalgo, por evento 259.820
+
+2. Teatro Casa de la Cultura “Alfonso Michel”, por evento
+
+103.928
+
+II.- Foros:
+
+a) Palacio de Gobierno:
+
+1. Auditorio Palacio de Gobierno “María del Refugio Morales”, por
+
+evento 155.890
+
+2. Patio central de Palacio de Gobierno, por evento 51.964
+
+b) Sala “Alberto Issac”, por evento 36.374
+
+c) Poliforum Cultural Mexiac, por evento 36.374
+
+d) Sala Emilio Carballido, por evento 25.982
+
+e) Foro al aire libre de la Casa de la Cultura, por evento
+
+10.392
+
+III.- Estacionamiento del Edificio Central Casa de la Cultura
+
+0.103
+
+Para el uso de los espacios culturales, que tengan como propósito la realización de actividades culturales, deberá atenderse igualmente lo establecido en la Ley de Cultura y Derechos Culturales del Estado de Colima.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
+### CAPITULO UNICO
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
-
-Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -5689,7 +6061,11 @@ Las contribuciones de mejoras se pagarán de conformidad con lo establecido en e
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 A.- Son recursos federalizados los que obtenga el Estado de la Federación de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren. Quedan incluidos dentro de esta clasificación, las aportaciones y los recursos destinados a la ejecución de programas federales mediante la reasignación de responsabilidades.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 66.
 
@@ -5721,6 +6097,12 @@ Para la determinación de los montos de los productos a que se refiere este tít
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+
+Artículo 70 A BIS.- Quedan comprendidos dentro de esta clasificación, los recursos que recibe el Estado para el sostenimiento y desempeño de sus actividades, diversos de los señalados en otros títulos de la presente Ley.
+
 ###### Artículo 69.
 
 Quedan comprendidos dentro de los aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal, tales como:
@@ -5745,9 +6127,13 @@ VIII.- Cauciones cuyas pérdidas se declaren por resolución firme a favor del E
 
 IX.- Bienes vacantes, tesoros ocultos, herencias, legados, donaciones y otros conceptos a favor del Estado.
 
-X.- Otros no especificados.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+X.- Gastos de ejecución.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+### CAPITULO UNICO
 
 ###### Artículo 70.
 
@@ -5758,6 +6144,10 @@ Son participaciones las que obtenga el Estado de la Federación, de conformidad 
 ## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ## TITULO SEXTO BIS PRIMERO. DE LAS TRANSFERENCIAS, ASIGNACIONES, SUBSIDIOS Y OTRAS AYUDAS
 
@@ -5791,7 +6181,7 @@ V.- Aportaciones extraordinarias de los entes públicos.
 
 ###### Artículo 72.
 
-Las resoluciones que en relación con esta Ley dicte la Secretaría de Planeación y Finanzas, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
+Las resoluciones que en relación con esta Ley dicte la Secretaría de Planeación, Finanzas y Administración, sólo podrán ser recurridas en la forma y términos que señala el Código Fiscal del Estado.
 
 ###### Artículo 73.
 
@@ -5799,7 +6189,7 @@ Las infracciones a las disposiciones de esta Ley serán sancionadas de conformid
 
 ###### Artículo 74.
 
-El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado la autorización correspondiente para expedir, o modificar en su caso el Tabulador Oficial para el Pago del Impuesto a la Transmisión de la Propiedad de Vehículos Automotores.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -5807,11 +6197,11 @@ El C. Gobernador Constitucional del Estado, solicitará al Congreso del Estado l
 
 Para los efectos del Título Segundo, se entenderá por "unidad de medida y actualización", el valor diario de la de la unidad de medida y actualización, en la fecha de pago del derecho de que se trate.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 76.
 
-Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se destinará a un fondo especial para el fortalecimiento tecnológico, para capacitación del personal y actualizaciones que por ejercicio de las atribuciones y funciones que requiera la Dirección General de Ingresos, de la Secretaría de Planeación y Finanzas.
+Los gastos de ejecución y los honorarios por notificación que se recauden, se destinarán en un 50% a cubrir las erogaciones que se realicen para requerir el cumplimiento de las obligaciones fiscales, así como para recuperar los créditos fiscales exigibles, por concepto de consumibles, arrendamiento de bodegas para el almacenamiento de bienes muebles embargados y honorarios que deban pagarse a los notificadores y ejecutores que lleven a cabo las diligencias respectivas. El 50% restante se destinará a un fondo especial para el fortalecimiento tecnológico, para capacitación del personal y actualizaciones que por ejercicio de las atribuciones y funciones que requiera la Dirección General de Ingresos, de la Secretaría de Planeación, Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -6640,3 +7030,11 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Los duplicados de certificados de educación preescolar, primaria y secundaria que hubieran sido expedidos entre el 20 de marzo de 2020 y hasta la fecha en que entre en vigor el presente Decreto, como una medida de apoyo a las familias colimenses, quedan exentos del pago de derechos correspondientes.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
