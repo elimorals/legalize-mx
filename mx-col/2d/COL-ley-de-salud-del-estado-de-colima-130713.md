@@ -4,7 +4,7 @@ identifier: "COL-ley-de-salud-del-estado-de-colima-130713"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2022-11-19"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE SALUD DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -1637,7 +1637,9 @@ II. A las personas que padezcan de alguna enfermedad sexualmente transmisible u 
 
 La autoridad municipal determinará los lugares donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### Capítulo X. Reclusorios y Centros de Readaptación Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+### Capítulo X. Reclusorios y Centros Penitenciarios
 
 ###### Artículo 113.
 
@@ -1645,7 +1647,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Reclusorio o cárcel municipal: establecimiento público destinado a la internación de personas que se encuentran privadas de su libertad corporal por una resolución administrativa; y
 
-II. Centro de readaptación social: institución pública destinada a la internación de personas privadas de su libertad corporal por resolución judicial, en el que se les proporciona tratamiento específico tendiente a lograr su reintegración social.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Centro o Centro Penitenciario: Al espacio físico destinado para el cumplimiento de la prisión preventiva, así como para la ejecución de penas.
 
 Estos establecimientos estarán sujetos al control sanitario de la autoridad competente, de conformidad con las disposiciones que se señalan en esta Ley y demás disposiciones jurídicas aplicables.
 
@@ -1655,27 +1659,45 @@ Los responsables de la aplicación de los servicios médicos, coadyuvarán a la 
 
 Para tal efecto, los directores de dichas instituciones deberán proveer de todos los elementos, equipos y materiales para prevenir, y en su caso, contrarrestar los riesgos y daños en la salud de los internos.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 113 Bis.
 
-Los centros de reinserción social que contengan reclusas femeninas, contarán de forma permanente con servicios médicos de atención integral de la salud materno infantil. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
+Los centros penitenciarios destinados a mujeres privadas de su libertad contarán de forma permanente con servicios médicos de atención integral con perspectiva de género, de la salud sexual y reproductiva. Para tal efecto, la Secretaría tendrá, entre otras, las siguientes atribuciones:
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 I. Elaborar programas de salud integral de las mujeres o personas con capacidad de gestar, desde una perspectiva de género, poniendo énfasis en la salud sexual y reproductiva, que consideren como mínimo la realización de estudios de detección de enfermedades y atención de cáncer de mama y cervicouterino, así como de VIH/SIDA para quienes lo soliciten, además de llevar a cabo campañas informativas de salud materno-infantil;
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
+
 II. Facilitar el acceso oportuno, bajo consentimiento informado, a métodos anticonceptivos, anticoncepción de emergencia, interrupción legal del embarazo y de información sobre atención materno-infantil;
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
 III. Desarrollar programas para la prevención y atención de los problemas derivados por el consumo de sustancias psicoactivas entre las mujeres o personas con capacidad de gestar en reclusión, y
 
-IV. La atención integral del embarazo, parto, puerperio y del recién nacido, así como la atención integral a la salud de madres e hijos que permanezcan con ellas, hasta los seis años de edad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Brindar la atención integral de salud materno infantil durante el embarazo, parto, puerperio, lactancia y del recién nacido, así como la atención integral a la salud de madres y de sus hijas e hijos que permanezcan con ellas, hasta los seis años de edad.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 113 Bis 1.
+
+La Secretaría en colaboración con la Autoridad Penitenciaria garantizaran que en los centros penitenciarios destinados a mujeres privadas de su libertad se proporcionen de forma gradual y progresiva de acuerdo con la suficiencia presupuestal, el acceso gratuito a los productos adecuados para la gestión menstrual, tales como, toallas sanitarias desechables y de tela, tampones, copas menstruales o cualquier otro bien destinado a la gestión menstrual dándoles preferencia a las personas menstruantes que enfrenten condiciones económicas que les impidan el ejercicio de una gestión menstrual digna.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 114.
 
-Los reclusorios y centros de readaptación social deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un consultorio médico que tenga el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario su traslado a un hospital.
+Los reclusorios y centros penitenciarios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un consultorio médico que tenga el equipo necesario para la atención de aquellos casos de enfermedad de los internos en que no sea necesario su traslado a un hospital.
 
 Tratándose de casos graves, de emergencia o cuando así lo requiera el tratamiento a juicio del personal médico de la institución, previa autorización del director de la misma, podrán ser trasladados a la unidad de atención médica que aquél determine, en cuyo caso deberá hacerlo del conocimiento de las autoridades competentes.
 
-Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Las personas encargadas de los servicios médicos de los reclusorios y centros penitenciarios, a partir de que tengan conocimiento de alguna enfermedad transmisible, deberán adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como observar el capítulo respectivo de la Ley General.
 
 ### Capítulo XI. Baños Públicos
 
@@ -2492,3 +2514,11 @@ El presente Decreto entrará en vigor el día 1° de enero de 2023, debiendo pub
 ###### ARTÍCULO SEGUNDO.
 
 Las Secretarías de Salud y de Educación y Cultura considerarán progresivamente, dentro (sic) sus presupuestos, los recursos públicos necesarios para el cumplimiento de las obligaciones generadas con el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 222.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que afecto (sic) se determine en el Ejercicio Fiscal 2023.
