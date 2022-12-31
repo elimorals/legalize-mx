@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2020-08-22"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -131,6 +131,10 @@ b) En el Municipio de Villa de Álvarez: Residencial las Parotas.
 
 En el caso de los usuarios a que se refiere el presente artículo, que consuman hasta siete metros cúbicos mensuales de agua, pagarán el 60% de la cuota mínima del concepto de saneamiento que le corresponda.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Cualquier modificación a las tarifas o al mecanismo de cobro de derechos previstos en el presente artículo, deberá ser analizada por el Comité Técnico Tarifario, debiendo emitir la opinión técnica correspondiente.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 4.
@@ -155,9 +159,13 @@ Los usuarios a que se refiere este artículo cubrirán adicionalmente, el import
 
 En el caso de los usuarios a que se refiere este artículo que consuman hasta diez metros cúbicos mensuales de agua, pagarán el 60% de la cuota mínima del concepto de saneamiento.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En los predios e inmuebles deshabitados o que no hagan uso del servicio de agua potable, cuenten o no con servicio medido, cuyo uso sea comercial, institucional o de servicios, se les determinará como cuota mensual únicamente media Unidad de Medida y Actualización por concepto de Alcantarillado y Saneamiento, previa inspección efectuada por personal autorizado de “LA CIAPACOV”.
+En los predios, inmuebles deshabitados, lotes baldíos o que no hagan uso del servicio de agua potable, cuenten o no con servicio medido, por concepto de mantenimiento de redes únicamente se les determinará como cuota mensual, media Unidad de Medida y Actualización, previa inspección efectuada por personal autorizado de “LA CIAPACOV”.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Cualquier modificación respecto al cobro señalado en el párrafo previo del presente artículo, deberá ser analizada por el Comité Técnico Tarifario, debiendo emitir la opinión técnica correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -991,11 +999,11 @@ XVIII.- Por instalación y derecho de uso de medidor de 1 ó más pulgadas 27.80
 
 Con independencia de la periodicidad del pago de los derechos establecida en la Ley de Aguas del Estado de Colima, por los servicios de agua potable y alcantarillado, los usuarios podrán realizar enteros mensuales a cuenta del pago bimestral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 37.
 
-Se concede un 8 por ciento de descuento en el pago de los servicios públicos de agua potable, alcantarillado y saneamiento durante los meses de enero y febrero, conforme a las siguientes reglas:
+Se concede un 12%, un 10% y un 8% de descuento, en el pago de los servicios públicos de agua potable, alcantarillado y saneamiento, durante los meses de enero, febrero y marzo, respectivamente, conforme a las siguientes reglas:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -1012,6 +1020,20 @@ II.- A los usuarios de servicio medido que sin tener adeudos, paguen el servicio
 El cálculo se hará con base en el promedio de los consumos registrados durante el ejercicio anterior de que se trate y se continuará tomando lectura de los consumos al usuario.
 
 En caso de que el consumo medido exceda al estimado, se facturará la diferencia de acuerdo a la tarifa que le corresponda, debiendo pagar el usuario el importe dentro del plazo que se especifique en el estado de cuenta que se emita para el efecto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 37 BIS.- Se concede un descuento progresivo en el pago de los servicios públicos de agua potable, alcantarillado y saneamiento para usuarios que paguen su bimestre dentro de los plazos establecidos en razón de su domicilio, conforme al siguiente esquema:
+
+I. Tratándose de usuarios de cuota fija o de servicio medido que no hubieren pagado sus servicios de forma anticipada en los términos del artículo anterior, pero que hubieren realizado el pago del primer bimestre antes de la fecha de su vencimiento, se les concede un descuento del 2 por ciento aplicable a la facturación que corresponda al segundo bimestre y se mantendrá vigente en el plazo del mismo.
+
+II. Si hubieran realizado el pago del segundo bimestre antes de la fecha prevista de su vencimiento, se les concede un descuento del 4 por ciento aplicable a la facturación del tercer bimestre, y se mantendrá vigente en el plazo del mismo.
+
+III. Si hubieran realizado el pago del tercer bimestre antes de la fecha prevista de su vencimiento, se les concede un descuento del 6 por ciento aplicable a la facturación del cuarto bimestre, y se mantendrá vigente en el plazo del mismo.
+
+IV. Si hubieran realizado el pago del cuarto bimestre antes de la fecha prevista de su vencimiento, se les concede un descuento del 8 por ciento aplicable a la facturación del quinto bimestre, y se mantendrá vigente en el plazo del mismo.
+
+V. Si hubieran realizado el pago del quinto bimestre antes de la fecha prevista de su vencimiento, se les concede un descuento del 10 por ciento aplicable a la facturación del sexto bimestre, y se mantendrá vigente en el plazo del mismo.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 291, PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2020.]</small>
 
@@ -1252,3 +1274,39 @@ P.O. 22 DE AGOSTO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 216.- POR EL QUE SE REFORMA EL PÁRRAFO SEXTO Y SE ADICIONA UN PÁRRAFO SÉPTIMO AL ARTÍCULO 4, Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+El Comité Técnico Tarifario de la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez deberá emitir una opinión técnica respecto (sic) las tarifas por los servicios de agua potable, alcantarillado y saneamiento en “servicio medido” para uso doméstico a que hace referencia el artículo 3 de esta Ley. Tal opinión técnica deberá ser emitida en un plazo que no exceda de seis meses a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En el mismo plazo establecido en el transitorio anterior, el Comité Técnico Tarifario de la Comisión Intermunicipal de Agua Potable y Alcantarillado de los Municipios de Colima y Villa de Álvarez deberá emitir una opinión técnica sobre la cuota y concepto previstos en el artículo 4, párrafo sexto de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales y normativas que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 218.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 37, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE LOS DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 235.- POR EL QUE SE ADICIONA EL ARTÍCULO 37 BIS, A LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ, EN EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 1º de enero de 2023, previa publicación en el Periódico Oficial “El Estado de Colima.
