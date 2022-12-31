@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2021-12-29"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -675,35 +675,9 @@ Rci,t es el monto de la recaudación del Impuesto Predial del Municipio i en el 
 
 --- (sic). Es la suma sobre todos los Municipios de la variable que le sigue.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
 ###### Artículo 33 Quater.
 
-El Fondo de Inversión Pública Municipal, se integra de la forma siguiente:
-
-a) El 1% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
-
-b) El 1% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
-
-c) El 1% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
-
-d) El 1% del Fondo de Fiscalización y Recaudación;
-
-e) El 1% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos;
-
-Las participaciones del Fondo se calcularán mensualmente por la Secretaría, y ésta deberá mantenerlos y depositarlos en una cuenta específica operativa.
-
-El recurso del Fondo se distribuirá a los Municipios vía proyectos de inversión previamente registrados en la Secretaría.
-
-Los criterios para seleccionar las obras y proyectos financiados por este Fondo serán los siguientes:
-
-a) Registrar ante la Secretaría los proyectos de inversión que se materialicen en un impacto social.
-
-b) Celebrar convenio de participación con la Secretaria, donde el Municipio se comprometa a aportar cuando menos el 25% de la inversión total del proyecto de inversión.
-
-c) El monto del beneficio de este Fondo a los Municipios no podrá ser superior al doble de lo que le hubiera correspondido de participación con base a su coeficiente efectivo del ejercicio fiscal vigente.
-
-El Fondo de Inversión Pública Municipal se regirá con las reglas de operación que emita la Secretaría.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1104,5 +1078,27 @@ Los recursos distribuidos del Fondo Único de Participaciones a los Municipios p
 Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaría y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 263.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintitrés, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, continúa en suspensión de cobro en los ejercicios fiscales 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar estímulos fiscales sobre derechos por concepto de avalúos e inscripción de documentos, relativos a bienes inmuebles a los beneficiarios de los programas de vivienda, ordenamiento territorial y regularización, que le mandate alguna disposición legal en dichas materias en los que intervenga el Gobierno del Estado a través de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, previamente convenidos y cuando así se justifique.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
