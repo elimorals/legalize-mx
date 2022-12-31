@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2019-10-05"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -79,15 +79,17 @@ II.- Personas menores de doce años de edad y adolescentes sujetos del Sistema I
 
 III.- Alcohólicos, farmacodependientes e individuos en Condiciones de vagancia;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV.- Mujeres indigentes en periodo de gestación o lactancia; madres adolescentes, en situación de maltrato o abandono, en situación de explotación incluyendo la sexual; así como personas que estén involucradas en situaciones de violencia familiar, ya sean sujetos activos o pasivos;
+IV.- Mujeres en situación de calle en periodo de gestación o lactancia; madres adolescentes, en situación de maltrato o abandono, en situación de explotación incluyendo la sexual; así como personas que estén involucradas en situaciones de violencia familiar, ya sean sujetos activos o pasivos;
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 V.- Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato.
 
-VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuromúsculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI.- Personas con discapacidad;
 
 VII.- Personas afectadas por desastres;
 
@@ -103,9 +105,9 @@ X.- Familiares que dependan económicamente de las personas que seencuentren (si
 
 XI.- Habitantes del medio rural o urbano marginados que carezcan de lo indispensable para su subsistencia;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XII.- Indigentes en general; y
+XII.- En situación de calle en general; y
 
 > <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -253,9 +255,9 @@ Asimismo, por cuanto hace a los Centros de Atención para Agresores, el organism
 
 En ambos casos, el organismo se apoyará en las Secretarías o entidades competentes del estado.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Prestar servicios de representación y asistencia jurídica y de orientación social a niñas, niños y adolescentes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, mujeres víctimas de violencia familiar, indigentes, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
+IV. Prestar servicios de representación y asistencia jurídica y de orientación social a niñas, niños y adolescentes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, mujeres víctimas de violencia familiar, en situación de calle, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
@@ -1144,3 +1146,11 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 TERCERO. Los recursos humanos, financieros y materiales que se encuentran asignados a la beneficencia pública como parte del Organismo, pasarán a formar parte del nuevo organismo descentralizado que se crea por virtud del presente Decreto.
 
 CUARTO. El titular del Poder Ejecutivo del Estado deberá expedir el Estatuto Orgánico del Instituto de Beneficencia Pública en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 104 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4, FRACCIONES IV, VI Y XII; 16, FRACCIÓN IV DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días posteriores a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
