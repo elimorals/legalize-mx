@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2022-09-10"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -79,11 +79,11 @@ La aplicación de la presente Ley corresponde a la Administración Pública Esta
 
 Toda acción que se desprenda de la aplicación e interpretación de esta Ley tenderá a la prevención, atención y erradicación de usos y prácticas de ejercicio de la Violencia contra las Mujeres, así como a su correspondiente sanción, en su caso, sea con base en sus disposiciones o en cualesquiera otras de carácter administrativo, civil o penal tendentes a dichos objetivos.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 6.
 
-Se aplicará supletoriamente a esta Ley, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley para la Prevención y Atención a la Violencia familiar, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, la Ley Orgánica de la Comisión de los Derechos Humanos del Estado de Colima, el Código Civil para el Estado de Colima, el Código Penal para el Estado de Colima y el Código de Procedimientos Penales para el Estado de Colima.
+Se aplicará supletoriamente a esta Ley, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley para la Prevención y Atención a la Violencia Familiar, la Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, la Ley Orgánica de la Comisión de los Derechos Humanos del Estado de Colima, el Código Civil para el Estado de Colima, el Código Penal para el Estado de Colima y el Código Nacional de Procedimientos Penales.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES
 
@@ -193,9 +193,9 @@ XXXII.- Unidades especializadas para la atención de las mujeres.- serán aquell
 
 XXXIII.- Debida Diligencia: La obligación de las personas que tienen la calidad de servidores públicos, las dependencias y entidades del estado, de dar respuesta eficiente, eficaz, oportuna y responsable para garantizar los derechos humanos de las mujeres;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADA. P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXIV.- Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo dé ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de 4 (sic) migrante, refugiada, desplazada, sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe sus derechos humanos; y
+XXXIV.- Mujeres en condición de vulnerabilidad: Aquellas en mayor situación de riesgo dé ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada, o privadas de la libertad por mandato judicial; sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe sus derechos humanos; y
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -415,9 +415,9 @@ II.- La omisión de aviso a la autoridad que corresponda sobre actos de violenci
 
 III.- La omisión de medidas y órdenes de protección, cuando se tenga la obligación o deber de tramitarlas o proporcionarlas a quienes tienen algún tipo de victimización de los señalados; y
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV.- La denegación o entorpecimiento de la atención de un servidor público, por motivos de discriminación en contra de mujeres embarazadas, con discapacidad, migrantes, indígenas o con algún otro factor de vulnerabilidad.
+IV.- Las omisiones de un servidor público en la atención a mujeres, adolescentes y niñas por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, por estar privadas de la libertad por mandato judicial o con algún otro factor de vulnerabilidad.
 
 ###### ARTÍCULO 26.
 
@@ -697,6 +697,10 @@ Es una expresión de abuso de poder que implica la supremacía masculina sobre l
 
 VI.- Equiparada.- Cualquier forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VII.- Simbólica.- Todo acto que a través de patrones estereotipados, mensajes, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales y culturales, naturalizando la subordinación de la mujer en la sociedad.
+
 ## TÍTULO TERCERO. DE LOS MECANISMOS GARANTES
 
 ### CAPÍTULO I. DE LA ALERTA DE GÉNERO
@@ -751,15 +755,65 @@ Para prever cualquier Agravio Comparado, el Sistema Estatal, por conducto de la 
 
 Las Órdenes de Protección son personalísimas e intransferibles, de urgente aplicación para proteger a las mujeres de la violencia de género. Deberán otorgarse por la autoridad judicial o administrativa competente inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres, consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores, y durarán por el tiempo que determine la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 37 BIS.- Además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones de las órdenes de protección, las siguientes:
+
+I. Otorgar la guarda y custodia material de sus hijas e hijos menores de edad a la mujer víctima de violencia;
+
+II. Desalojar a la parte generadora de la casa habitación que comparta con la o las personas niñas y mujeres víctimas de violencia; independientemente de la acreditación posterior de la propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+III. Garantizar el reingreso de las hijas e hijos y mujeres víctima (sic) de violencia al domicilio, una vez que se salvaguarde su seguridad;
+
+IV. Entrega inmediata de objetos de uso personal y documentos de identidad de las mujeres y de sus hijas e hijos menores de edad víctimas de violencia;
+
+V. Acceso al domicilio en común de autoridades policíacas o de personas que auxilien a las mujeres víctima (sic) de violencia a tomar sus pertenencias personales y las de sus hijas e hijos menores de edad;
+
+VI. Auxilio policíaco de reacción inmediata con autorización expresa de las mujeres víctimas de violencia, del ingreso al domicilio donde se localice en el momento de otorgar el auxilio; siempre y cuando lo soliciten ellas mismas;
+
+VII. Ordenar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género a la persona generadora de violencia en instituciones públicas debidamente acreditadas. En ningún caso se enviarán a la misma institución a las víctimas y a la persona generadora de violencia;
+
+VIII. Obligación alimentaria provisional e inmediata para las niñas, niños y mujeres víctimas de violencias (sic);
+
+IX. Suspensión temporal del régimen de visitas y convivencia a la persona generadora de violencia, con sus descendientes menores de edad, hasta que se demuestre que no contraviene al sano desarrollo, así como al interés superior de las personas menores de edad;
+
+X. Dictar medidas preventivas con la finalidad de garantizar las obligaciones alimentarias, así como que el patrimonio familiar se oculte, sea vendido, enajenado, hipotecado o traspasado a terceras personas;
+
+XI. Para garantizar la obligación de dar alimentos la autoridad competente deberá declarar la constitución del patrimonio familiar a fin de evitar que éste se dilapide o haya mala administración del mismo;
+
+XII. Prohibir a la parte generadora de violencia:
+
+a) Esconder o privar de los cuidados de quien tenga la custodia de hecho o de derecho, de las niñas y niños menores de edad;
+
+b) Esconder, sustraer o remover a mujeres mayores de edad en situación de vulnerabilidad, de quien tenga la guarda y custodia de hecho o de derecho;
+
+c) Hostigar, intimidar, amenazar, dañar, molestar o poner en peligro la integridad física y psicológica de niñas y mujeres víctimas de violencia o de cualquier integrante de su familia, en las áreas donde habitualmente realicen sus actividades;
+
+d) Acercarse a las niñas y mujeres víctimas de violencia en un radio de doscientos metros del hogar del que fue desalojado, del trabajo o centro de estudios, del hogar en donde habite o de cualquier otro que frecuenten las niñas y mujeres víctimas de violencia;
+
+e) No disponer en perjuicio de las niñas y mujeres víctimas de violencia, ni de cualquier integrante de su familia, de los bienes privados de estos ni de los que correspondan a la sociedad conyugal. Cuando la parte generadora de violencia administre un negocio, comercio o industria que formen parte de los bienes familiares, el juez o jueza, ordenaran que rinda mensualmente un informe financiero a la autoridad judicial que conozca del asunto; y
+
+f) Retención y guarda de armas de fuego propiedad de la parte generadora de violencia o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia; así como solicitar la suspensión del derecho de portación de armas fuera del horario de trabajo.
+
+Es aplicable lo anterior a las armas punzocortantes y punzo contundentes que independientemente de su uso puedan ser utilizadas para amenazar, intimidar o lesionar a las hijas e hijos y mujeres víctimas de violencia.
+
+Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la Autoridad Administrativa, la Fiscalía General del Estado o el Órgano Jurisdiccional competente, siempre procurando la mayor protección de la víctima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 38.
 
-Las órdenes de protección deberán otorgarse en los términos de la Ley para la Prevención y Atención a la Violencia Familiar del Estado y podrán ser:
+Las órdenes de protección deberán otorgarse en los términos de la presente Ley, la Ley para la Prevención y Atención a la Violencia Familiar del Estado y el Protocolo para la Tramitación y Aplicación de las Órdenes de Protección para Mujeres en Situación de Violencia en el Estado de Colima, y podrán ser:
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 I. Administrativas: que son las emitidas por la Fiscalía General del Estado de Colima; o
 
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
+
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
 Las órdenes de protección durarán, el tiempo que dure la investigación o en tanto dure el estado de riesgo para la víctima, para lo cual se tomará en consideración el impacto de la conducta violenta en la receptora y sus menores hijas o hijos, en función del nivel de peligrosidad del generador, del nivel de indefensión o mínima defensión de la receptora y el nivel de incidencia de la violencia vivida.
 
@@ -771,29 +825,21 @@ Las personas menores de edad podrán solicitar a las autoridades competentes que
 
 Por lo que respecta a las mujeres menores de doce años, el Ministerio Público y las autoridades judiciales tendrán competencia para conocer de hechos de violencia contra ellas, y solicitar las órdenes de protección correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-ARTÍCULO 39 BIS.- Serán consideradas de extrema urgencia las órdenes que se tramiten con motivo de violencia sexual, así como aquéllas que se soliciten en el caso de:
+ARTÍCULO 39 BIS.- Serán consideradas de extremada urgencia las ordenes que se tramiten por motivos de violencia sexual, así como a las mujeres en situación de riesgo dé ser víctimas de violencia en atención a su raza, origen étnico, edad, discapacidad, condición social, económica, de salud, embarazo, lengua, idioma, religión, opiniones, orientación sexual, estado civil; cuando tengan la calidad de migrante, refugiada, desplazada, sea víctima de trata de personas, turismo sexual, prostitución, pornografía, privación de la libertad o cualquier otra condición que anule o menoscabe sus derechos humanos o cualquier otro factor especial de vulnerabilidad.
 
-I.- Mujeres embarazadas;
-
-II.- Mujeres que tengan alguna discapacidad;
-
-III.- Mujeres menores de edad;
-
-IV.- Mujeres que tengan calidad de migrantes;
-
-V.- Mujeres que pertenezcan a un grupo indígena; y
-
-VI.- Mujeres con cualquier factor especial de vulnerabilidad.
-
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ARTÍCULO 39 BIS 1.- Los jueces competentes para otorgar una orden de protección, dentro del término establecido por esta ley, deberán valorar la situación de riesgo y los elementos de prueba que presente la parte afectada, a fin de resolver sobre la procedencia de esta medida. En la orden de protección se incluirán la justificación y los fundamentos bajo los cuales ésta fue expedida.
 
 Son excepciones al párrafo anterior los casos de violencia que se deban considerar de extrema urgencia, en términos de la presente ley.
 
-Una vez otorgadas y ejecutadas las órdenes de protección, las autoridades judiciales que las dicten deberán dar seguimiento a la situación de violencia que haya ameritado su expedición, con la finalidad de ratificar, modificar o revocar la orden.
+Una vez otorgadas y ejecutadas las órdenes de protección, la Autoridad Administrativa, la Fiscalía General del Estado o el Órgano Jurisdiccional competente que las dicten deberán dar seguimiento a la situación de violencia que haya ameritado su expedición, con la finalidad de ratificar, modificar o revocar la orden.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 39 BIS 2.- Las órdenes de protección deberán resolverse dentro del término máximo de 72 horas de presentada la solicitud, debiendo ejecutarse ésta, dentro de las veinticuatro horas siguientes y durarán mientras dure el estado de riesgo y la situación de vulnerabilidad de las niñas y mujeres víctimas de violencia.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2254,3 +2300,25 @@ P.O. 10 DE SEPTIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 214.- POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 31, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 222.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que afecto se determine en el Ejercicio Fiscal 2023.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 223.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial del Estado de Colima".
