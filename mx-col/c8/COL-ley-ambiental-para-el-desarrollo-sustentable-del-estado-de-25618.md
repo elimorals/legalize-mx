@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2022-05-07"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -285,35 +285,41 @@ LXXXV. Restauración: El conjunto de actividades tendientes a la recuperación y
 
 LXXXVI. Reutilización: El empleo de un residuo sólido previamente utilizado, sin que medie un proceso de transformación;
 
-LXXXVII. Secretaría: La Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-LXXXVIII. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
+LXXXVII. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Movilidad de (sic) Gobierno del Estado;
 
-LXXXIX. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+LXXXVIII. IMADES: Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima. Organismo de carácter técnico, de investigación, supervisión, inspección, consultivo y promocional que tiene por objeto la preservación y restauración del equilibrio ecológico, y protección del medio ambiente y aprovechamiento sustentable de los recursos naturales para lograr el desarrollo ambiental en el ámbito estatal;
+
+LXXXIX. Servicio de limpia: Los sistemas de recolección, transporte, transferencia, tratamiento y disposición final de residuos sólidos;
+
+XC. Servicios ambientales: Los beneficios de interés social que se derivan de la vida silvestre y su hábitat, tales como la regulación climática, la conservación de los ciclos hidrológicos, la fijación de nitrógeno, la formación de suelo, la captura de carbono, el control de la erosión, la polinización de plantas, el control biológico de plagas o la degradación de residuos orgánicos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XC. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
+XCI. Servicios ambientales hidrológicos: son los beneficios directos e indirectos que recibe la población como resultado de la conservación, manejo y gestión responsable de ecosistemas naturales en áreas de importancia hídrica, tales como la provisión de agua, la restauración de sitios degradados en el área de captación hídrica, la recuperación de suelos y de ecosistemas forestales, la protección de la biodiversidad, el cuidado de la belleza natural para la recreación y el ecoturismo, así como la educación y la investigación;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCI. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
+XCII. Tratamiento: Los procedimientos mecánicos, físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos sólidos y se reduce su volumen o peligrosidad, para su posterior aprovechamiento total o parcial;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCII. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
+XCIII. Unidad de Medida y Actualización: La unidad de medida y actualización vigente en el Estado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCIII. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
+XCIV. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que produzcan desequilibrios ecológicos;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCIV. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
+XCV. Cédula de Operación Anual: Es un mecanismo de reporte anual mediante el cual los responsables de las fuentes fijas de competencia estatal dan a conocer a la autoridad ambiental las actualizaciones sobre su operación y deriva de las obligaciones fijadas en la licencia local de funcionamiento; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
-XCV. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
+XCVI. Licencia Local de Funcionamiento: Es un trámite de regulación obligatoria, mediante el cual las fuentes fijas de competencia estatal que emiten o puedan emitir radiaciones electromagnéticas, olores, humos, ruido, vibraciones, gases o partículas sólidas o líquidas a la atmósfera dan cumplimiento a las obligaciones ambientales establecidas en la Ley.
 
 ###### ARTÍCULO 4º.
 
@@ -403,9 +409,15 @@ I. El Gobernador;
 
 II. La Secretaría;
 
-III. Los Ayuntamientos; y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. El Ministerio Público.
+III. El IMADES;
+
+IV. Los Ayuntamientos; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. La Fiscalía General del Estado.
 
 ###### ARTÍCULO 17.
 
@@ -520,6 +532,48 @@ XXXVII. Canalizar, a través de la unidad de contraloría interna, las irregular
 XXXVIII. Celebrar toda clase de actos jurídicos que se requieran para el ejercicio de sus funciones, de conformidad con las disposiciones jurídicas aplicables;
 
 XXXIX. Las demás que le confieran ésta y otras leyes, que no estén asignadas expresamente a la Federación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Corresponde al Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima (IMADES), las siguientes facultades:
+
+I. Formular e implementar los programas, planes, proyectos y acciones en materia ambiental, así como la atención en trámite de los asuntos de su competencia;
+
+II. Dirigir las actividades de conservación, protección, restauración, producción, ordenación, cultivo, manejo y aprovechamiento sustentable de los recursos naturales y la preservación del medio ambiente, estableciendo los lineamientos, políticas, criterios y limitaciones que garanticen el desarrollo sustentable en el Estado;
+
+III. Implementar y solicitar a la Secretaría, la aplicación de políticas, normas, acuerdos y disposiciones administrativas de observancia general en el ámbito de su competencia; los sistemas y procedimientos, tanto de carácter técnico y jurídico, así como de administración de sus recursos humanos, financieros y materiales, en congruencia con sus programas, objetivos y demás disposiciones jurídicas aplicables para el ejercicio fiscal respectivo;
+
+IV. Establecer los procesos y procedimientos a los que se deberán sujetar los trámites para la obtención de licenciamientos, permisos o autorizaciones que por su naturaleza corresponden a su competencia;
+
+V. Programar, coordinar y evaluar el desarrollo de programas y proyectos estratégicos de conservación, restauración y aprovechamiento sustentable de los recursos naturales y su biodiversidad;
+
+VI. Establecer el enlace entre el Instituto, con los sectores público, privado y social, para impulsar coordinadamente gestiones tendientes a preservar el medio ambiente y el desarrollo sustentable;
+
+VII. Diseñar e implementar diferentes medidas para prevenir, controlar y mitigar la contaminación atmosférica en el Estado, así como coadyuvar al impulso de acciones de mitigación y adaptación al cambio climático;
+
+VIII. Vigilar y sancionar lo relativo a las leyes, reglamentos, decretos y acuerdos aplicables en beneficio del medio ambiente;
+
+IX. Fomentar e implementar las políticas, acciones y estrategias en materia de educación y capacitación ambiental, y comunicación educativa;
+
+X. Regular y fomentar la conservación, protección y restauración y aprovechamiento sustentable de los recursos naturales y los ecosistemas;
+
+XI. Implementar instrumentos jurídicos en materia económica, fiscal, financiera y administrativa de gestión ambiental, al igual que lineamientos legales de cumplimiento voluntario de la Ley en la materia que tiendan a lograr el desarrollo sustentable de la entidad; y
+
+XII. Coadyuvar con la Autoridad competente, en la elaboración del Plan Estatal de Desarrollo en lo relacionado con protección, restauración y conservación del medio ambiente y el desarrollo sustentable;
+
+XIII. Diseñar programas a mediano y largo plazo, en coordinación con los Ayuntamientos, relacionados con la preservación y restauración del equilibrio ecológico;
+
+XIV. Plantear, proponer e implementar políticas, lineamientos y reglamentos relacionados con la preservación y restauración del equilibrio ecológico y el desarrollo sustentable.
+
+XV. Coordinarse de forma permanente con las dependencias, organismos e instituciones de los tres órdenes de gobierno, así como los sectores social y privado, para instrumentar las acciones tendientes a fomentar la sustentabilidad ambiental, en los sectores públicos y privados en el Estado;
+
+XVI. Determinar los mecanismos necesarios de coordinación entre el propio Instituto con las autoridades federales, estatales y los gobiernos municipales, a fin de impulsar y gestionar el mejoramiento sustentable del ambiente;
+
+XVII. Reunirse cuando menos cada seis meses con la Comisión de Desarrollo Urbano, Medio Ambiente y Movilidad del H. Congreso del Estado, con el objeto de implementar adecuaciones al marco normativo en materia del cuidado y fortalecimiento del medio ambiente en el estado; y
+
+XVIII. Las demás análogas que le conceda la Ley y otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación.
 
 ###### ARTÍCULO 19.
 
@@ -715,13 +769,17 @@ En concordancia con lo que dispone la Ley de Asentamientos Humanos del Estado, l
 
 La planeación ambiental para el desarrollo sustentable se basará en la formulación, conducción y evaluación, por parte de la Secretaría, del Programa Ambiental para el Desarrollo Sustentable y demás programas que esta Ley establece, tomando en cuenta, además de los principios de política establecidos en el artículo 27 de la presente Ley, la premisa de que la política de fomento económico y el desarrollo de actividades económicas deben ser compatibles con la protección de la integridad ecológica y ambiental, la generación de justicia social con equidad y la participación social en la toma de decisiones, beneficiando la viabilidad de los ecosistemas y su biodiversidad, la salud humana y calidad de vida de la población. Los programas a los que se refiere este artículo deberán contener los lineamientos, acciones y metas de corto, mediano y largo plazos, prioritarias y no prioritarias, con una visión de sustentabilidad que garantice las necesidades de las presentes y futuras generaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 31.
 
-Los programas a que se refiere el artículo anterior se evaluarán anualmente por la Secretaría, a través de un informe de sus avances y serán presentados por el Gobernador al Congreso del Estado para su análisis y recomendaciones.
+Los programas a que se refiere el artículo anterior se evaluarán anualmente por la Secretaría, en coadyuvancia y apoyo del IMADES, a través de un informe de sus avances y serán presentados por la Gobernadora (or), al H. Congreso del Estado para su análisis y recomendaciones.
 
 Dichos programas podrán reformularse cada seis años, garantizándose la continuidad de los lineamientos, acciones y metas de mediano y largo plazos sobre las bases a las que se refiere el artículo anterior.
 
-La Secretaría promoverá la participación de los distintos grupos y organizaciones sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, el ordenamiento ecológico y territorial del Estado y la protección al ambiente, según lo establecido en esta Ley y demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría y el IMADES, promoverá (sic) la participación de los distintos grupos y organizaciones sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales, el ordenamiento ecológico y territorial del Estado y la protección al ambiente, según lo establecido en esta Ley y demás ordenamientos jurídicos aplicables.
 
 ###### ARTÍCULO 32.
 
@@ -743,9 +801,11 @@ II. Los programas regionales de ordenamiento ecológico y territorial, que compr
 
 III. Los programas municipales de ordenamiento ecológico y territorial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría, en coordinación con la dependencia estatal competente, está facultada para formular, ejecutar, evaluar y vigilar los programas a los que se refieren las fracciones I y II del artículo anterior, en congruencia con los programas de ordenamiento ecológico expedidos por la Federación, observando, además de los elementos básicos del Programa de Desarrollo Urbano y los programas regionales del ordenamiento territorial establecidos en la Ley de Asentamientos Humanos del Estado, los siguientes criterios:
+La Secretaría, en coordinación con la dependencia estatal competente (IMADES), está facultada para formular, ejecutar, evaluar y vigilar los programas a los que se refieren las fracciones I y II del artículo anterior, en congruencia con los programas de ordenamiento ecológico expedidos por la Federación, observando, además de los elementos básicos del Programa de Desarrollo Urbano y los programas regionales del ordenamiento territorial establecidos en la Ley de Asentamientos Humanos del Estado, los siguientes criterios:
 
 I. La naturaleza y características de los ecosistemas existentes en el territorio estatal;
 
@@ -865,7 +925,9 @@ III. Las normas de diseño, tecnología y de construcción, uso y aprovechamient
 
 La evaluación del impacto ambiental es el procedimiento a través del cual las autoridades ambientales evalúan los efectos que sobre el ambiente y los recursos naturales pueden generar la realización de obras o actividades dentro del territorio del Estado, a fin de evitar o reducir al mínimo sus efectos negativos y prevenir futuros daños al ambiente y los recursos naturales.
 
-La Secretaría y, en su caso, los ayuntamientos, serán competentes para expedir las autorizaciones de las materias que regula el presente Capítulo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La Secretaría, el IMADES, y en su caso, los Ayuntamientos, serán competentes para expedir las autorizaciones de las materias que regula el presente Capítulo.
 
 ###### ARTÍCULO 45.
 
@@ -1049,9 +1111,11 @@ V. La autoridad ambiental competente agregará las observaciones presentadas por
 
 ### CAPÍTULO VI. NORMAS TÉCNICAS AMBIENTALES ESTATALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 61.
 
-La Secretaría elaborará normas técnicas ambientales estatales y las propondrá al Gobernador para su expedición, las cuales tendrán por objeto establecer:
+La Secretaría y el IMADES, elaborarán normas técnicas ambientales estatales y las propondrá a la Gobernadora (or) para su expedición, las cuales tendrán por objeto establecer:
 
 I. Los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana que pudiera afectar la preservación del ambiente, la protección ecológica, la salud humana o provocar daños al ambiente y los recursos naturales;
 
@@ -1077,9 +1141,11 @@ VII. Los requisitos, condiciones, parámetros y límites permisibles para la pro
 
 Las normas técnicas ambientales estatales señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 62.
 
-En la elaboración, aprobación y expedición de las normas técnicas ambientales estatales, así como sus modificaciones, la Secretaría se sujetará al siguiente procedimiento:
+En la elaboración, aprobación y expedición de las normas técnicas ambientales estatales, así como sus modificaciones, la Secretaría y el IMADES, se sujetarán al siguiente procedimiento:
 
 I. Publicará el proyecto de norma técnica ambiental estatal o de su modificación en el Periódico Oficial y en uno de mayor circulación en el Estado, a efecto de que los interesados presenten sus comentarios dentro del plazo de 60 días hábiles;
 
@@ -1089,9 +1155,11 @@ III. Se ordenará la publicación en el Periódico Oficial de las respuestas a l
 
 IV. Transcurridos los plazos anteriores, publicará las normas técnicas ambientales estatales o sus modificaciones en el Periódico Oficial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 63.
 
-En casos de emergencia que pongan en riesgo la integridad de las personas o el ambiente, la Secretaría podrá publicar en el Periódico Oficial las normas técnicas ambientales estatales sin sujetarse al procedimiento establecido en el artículo anterior. Estas normas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
+En casos de emergencia que pongan en riesgo la integridad de las personas o el medio ambiente, la Secretaría con el apoyo técnico y supervisión del IMADES en riesgos del medio ambiente, podrá publicar en el Periódico Oficial las normas técnicas ambientales estatales sin sujetarse al procedimiento establecido en el artículo anterior. Estas normas tendrán una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
 
 ###### ARTÍCULO 64.
 
@@ -1099,11 +1167,11 @@ Lo dispuesto en el presente capítulo se aplicará sin perjuicio de las normas o
 
 ### CAPÍTULO VII. LICENCIA AMBIENTAL ÚNICA
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 65.
 
-La Secretaría establecerá los mecanismos y procedimientos necesarios, en los términos del Reglamento, con el propósito de que los interesados obtengan en un solo trámite los diversos permisos, autorizaciones y licencias de competencia del Estado que establece esta Ley, para la operación y funcionamiento de establecimientos industriales y de servicios de competencia estatal. Lo mismo harán los ayuntamientos en los casos que se trate de establecimientos comerciales o de servicios.
+La Secretaría con el apoyo técnico del IMADES, establecerán los mecanismos y procedimientos necesarios, en los términos del Reglamento, con el propósito de que los interesados obtengan en un solo trámite los diversos permisos, autorizaciones y licencias de competencia del Estado que establece esta Ley, para la operación y funcionamiento de establecimientos industriales y de servicios de competencia estatal. Lo mismo harán los Ayuntamientos en los casos que se trate de establecimientos comerciales o de servicios.
 
 ### CAPÍTULO VIII. AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
 
@@ -1113,11 +1181,15 @@ La auditoria ambiental es el examen metodológico que realiza una empresa sobre 
 
 El desarrollo de la auditoria ambiental es de carácter estrictamente voluntario y no limita ni inhibe las facultades que esta Ley confiere a las autoridades ambientales en materia de inspección y vigilancia.
 
-La auditoria ambiental deberá realizarse por auditores autorizados por la Secretaría y los gastos de contratación serán cubiertos por el promovente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La auditoría ambiental deberá realizarse por auditores autorizados por la Secretaría con la supervisión técnica del IMADES, donde los gastos de contratación serán cubiertos por el promovente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 67.
 
-La Secretaría desarrollará programas que fomenten la autorregulación y auditoria ambiental, así como expedir certificados de bajas emisiones y promoverá la aplicación de estímulos e incentivos fiscales, a quienes participen en dichos programas.
+La Secretaría desarrollará programas que fomenten la autorregulación y auditoría ambiental con el apoyo técnico del IMADES, así como expedirá certificados de bajas emisiones y promoverá la aplicación de estímulos e incentivos fiscales, a quienes participen en dichos programas.
 
 Para tal efecto, los productores, empresas u organizaciones empresariales podrán convenir con la Secretaría el establecimiento de procesos voluntarios de autorregulación, mediante los cuales se comprometan a reducir sus emisiones por debajo de los límites establecidos por las normas oficiales mexicanas y las normas técnicas ambientales estatales.
 
@@ -1131,9 +1203,11 @@ El certificado será el documento por el cual los particulares podrán beneficia
 
 ### CAPÍTULO IX. DEL FIDEICOMISO AMBIENTAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 69.
 
-El Gobernador, a través de la Secretaría, establecerá el Fideicomiso Ambiental para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado. La creación del fideicomiso se inscribe en la estrategia estatal para el financiamiento a la gestión ambiental y tendrá las siguientes atribuciones:
+La Gobernadora (or), a través de la Secretaría en coordinación con el IMADES, establecerán el Fideicomiso Ambiental para la investigación, estudio y atención de asuntos en materia ambiental que se consideren de interés para el Estado. La creación del fideicomiso se inscribe en la estrategia estatal para el financiamiento a la gestión ambiental y tendrá las siguientes atribuciones:
 
 I. Seguir los lineamientos establecidos por el Comité Nacional del Sistema de Fondos Ambientales;
 
@@ -1209,7 +1283,9 @@ III. Los ingresos que se perciban por concepto del pago de derechos por el otorg
 
 IV. Las herencias, legados y donaciones que reciba;
 
-V. Los recursos destinados para ese efecto en los presupuestos de egresos de la Federación y del Estado; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Los recursos destinados para ese efecto en los presupuestos de egresos de la Federación y del Presupuesto de egresos del ejercicio fiscal anual respectivo del Estado; y
 
 VI. Los demás recursos que se generen por cualquier otro concepto.
 
@@ -1219,9 +1295,15 @@ El comité técnico del Fideicomiso Ambiental se integrará por:
 
 I. Un Presidente, que será el titular de la Secretaría;
 
-II. Cinco Vocales, que serán los Secretarios de Desarrollo Rural, Finanzas, Planeación y Fomento Económico, así como un representante de los ayuntamientos electo entre ellos; y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Cinco consejeros ciudadanos que, a invitación del titular de la Secretaría, serán: dos representantes del sector privado, dos representantes del sector social y un representante del sector académico, electos por las organizaciones de cada sector o entre las instituciones correspondientes.
+II. Una Secretaria (o) Técnica, que será la (el) titular del IMADES;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Cinco Vocales, que serán el Subsecretario de Desarrollo Rural, la Secretaria de Planeación, Finanzas y Administración, la Secretaria de Desarrollo Económico, así como un representante de los diez Ayuntamientos electos entre ellos; y
+
+IV. Cinco consejeros ciudadanos que, a invitación del titular de la Secretaría, serán: dos representantes del sector privado, dos representantes del sector social y un representante del sector académico, electos por las organizaciones de cada sector o entre las instituciones correspondientes.
 
 La Secretaría podrá invitar a las sesiones del fideicomiso al Delegado de la Secretaría del Medio Ambiente y Recursos Naturales y al Delegado de Procuraduría Federal de Protección al Ambiente con derecho a voz pero no de voto.
 
@@ -1363,15 +1445,17 @@ V. La incorporación de contenidos ambientales en los programas de las comisione
 
 VI. La formación de especialistas así como la investigación y el desarrollo tecnológico en materia ambiental, que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos y proteger los ecosistemas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 75.
 
-Para efectos de lo dispuesto por el artículo anterior, la Secretaría establecerá un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios masivos de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y aptitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo ambiental, así como la conservación y restauración de los recursos naturales.
+Para efectos de lo dispuesto por el artículo anterior, la Secretaría en coadyuvancia con el IMADES, establecerán un conjunto de recomendaciones y directrices tendientes a que las autoridades e instituciones educativas y culturales, públicas y privadas, introduzcan en los procesos educativos formales y no formales, así como en los sistemas de capacitación de la administración pública y empresariales y en los medios masivos de comunicación, contenidos y metodologías para el desarrollo en la población de conocimientos, hábitos de conducta y aptitudes orientadas a favorecer las transformaciones necesarias para alcanzar el desarrollo ambiental, así como la conservación y restauración de los recursos naturales.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 76.
 
-La Secretaría y los ayuntamientos en coordinación con las autoridades competentes, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
+La Secretaría, el IMADES y los Ayuntamientos, en coordinación con las autoridades competentes, fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas, determinar la vulnerabilidad, así como las medidas de adaptación y mitigación al cambio climático. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
 ### CAPÍTULO XII. PARTICIPACIÓN SOCIAL
 
@@ -1399,19 +1483,33 @@ La Secretaría integrará un Consejo Consultivo Ambiental Estatal, que fungirá 
 
 I. El titular de la Secretaría, quien lo presidirá;
 
-II. Un representante de cada una de las Secretarías de Turismo, Desarrollo Rural, Planeación, Fomento Económico y Finanzas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Los titulares de las dependencias ambientales municipales; y
+II. Un representante de cada una de las Secretarías General de Gobierno, Desarrollo Económico, de Planeación, Finanzas y Administración, y Subsecretario de Desarrollo Rural;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. La directora (or) General del IMADES;
+
+IV. Los titulares de las dependencias ambientales municipales; y
 
 IV. Cinco representantes de organizaciones sociales, cinco del sector privado y cinco de instituciones académicas y de investigación, todas ellas en materia ambiental y de desarrollo sustentable.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI. El Presidente (a) de la Comisión de Desarrollo Urbano, Medio Ambiente y Movilidad del H. Congreso del Estado de Colima.
+
 El Consejo Consultivo podrá invitar a participar, cuando sea el caso, a los delegados de la Secretaría de Medio Ambiente y Recursos Naturales y de la Procuraduría Federal de Protección al Ambiente en el Estado, sólo con derecho a voz.
 
-El Consejo Consultivo Ambiental Estatal tendrá funciones de asesoría, evaluación y seguimiento en materia de política ambiental para el desarrollo sustentable y podrá emitir opiniones y observaciones que considere pertinentes en esta materia. Su organización y funcionamiento se sujetará al Reglamento Interior que para tal efecto expida el Gobernador.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+El Consejo Consultivo Ambiental Estatal tendrá funciones de asesoría, evaluación y seguimiento en materia de política ambiental para el desarrollo sustentable y podrá emitir opiniones y observaciones que considere pertinentes en esta materia. Su organización y funcionamiento se sujetará al Reglamento Interior que para tal efecto expida la Gobernadora (or).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 80.
 
-Se instituye el Premio Ambiental Estatal en las áreas de desarrollo en investigación científica y tecnológica, protección del ambiente, cultura ambiental y proyectos especiales, el cual será otorgado cada año por el Gobernador a propuesta del Consejo Consultivo Ambiental Estatal.
+La Titular del Poder Ejecutivo o su representante a invitación del Poder Legislativo, en el marco del Día Mundial del Medio Ambiente cada 05 de junio anual, acudirá a las instalaciones del Congreso del Estado donde se entregará en Sesión Solemne, el Premio Estatal al cuidado del Medio Ambiente, al hombre y la mujer que se han distinguido por trabajar en el cuidado y preservación del Medio Ambiente en el estado de Colima.
 
 ### CAPÍTULO XIII. INFORMACIÓN AMBIENTAL
 
@@ -1451,9 +1549,11 @@ XII. Los informes y documentos relevantes que resulten de las actividades cient�
 
 XIII. Los demás instrumentos que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 83.
 
-La Secretaría difundirá las disposiciones jurídicas, normas oficiales mexicanas, normas técnicas estatales ambientales, decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se emitan por el Gobierno del Estado, los municipios o la Federación, así como documentos internacionales de interés para el Estado o para la nación, independientemente de su publicación en el Periódico Oficial o en otros órganos de difusión.
+La Secretaría en coadyuvancia con el IMADES, difundirán las disposiciones jurídicas, normas oficiales mexicanas, normas técnicas estatales ambientales, decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se emitan por el Gobierno del Estado, los municipios o la Federación, así como documentos internacionales de interés para el Estado o para la nación, independientemente de su publicación en el Periódico Oficial o en otros órganos de difusión.
 
 ###### ARTÍCULO 84.
 
@@ -1763,9 +1863,11 @@ La Secretaría tramitará ante las Secretarías de Agricultura, Ganadería, Desa
 
 La Secretaría, tomando como base los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente la cancelación o revocación del permiso, licencia, concesión o autorización correspondiente, cuando la exploración, explotación o aprovechamiento de los recursos ocasionen o puedan ocasionar deterioro al equilibrio ecológico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 111.
 
-El Gobernador, a través la Secretaría con la participación que corresponda a la Secretaría de Finanzas, así como los ayuntamientos, en el ámbito de sus respectivas competencias:
+La Gobernadora (or), a través de la Secretaría en coadyuvancia con el IMADES, con la participación que corresponda a la Secretaría de Planeación Finanzas y Administración, así como los Ayuntamientos, en el ámbito de sus respectivas competencias:
 
 I. Fomentarán las inversiones públicas y privadas para que la Secretaría administre y vigile las áreas naturales protegidas;
 
@@ -1999,9 +2101,11 @@ Para los efectos de este Capítulo, queda prohibido toda actividad cinegética, 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 132.
 
-La Secretaría integrará un registro de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos sólidos de su competencia, así como de aquellas sustancias que determinen las disposiciones jurídicas aplicables. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente de los ayuntamientos.
+La Secretaría con apoyo técnico del IMADES, integrarán un registro de fuentes, emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos sólidos de su competencia, así como de aquellas sustancias que determinen las disposiciones jurídicas aplicables. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente de los ayuntamientos.
 
 Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro y se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
 
@@ -3144,3 +3248,9 @@ P.O. 7 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 80.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA, Y SE REFORMA EL ARTÍCULO 23, FRACCIÓN III DE LA LEY PARA EL FOMENTO, PROTECCIÓN Y DESARROLLO AGRÍCOLA EN EL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 221.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
