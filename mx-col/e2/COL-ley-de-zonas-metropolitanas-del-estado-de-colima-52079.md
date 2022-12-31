@@ -4,7 +4,7 @@ identifier: "COL-ley-de-zonas-metropolitanas-del-estado-de-colima-52079"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2017-04-01"
+last_updated: "2022-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE ZONAS METROPOLITANAS DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ZONAS METROPOLITANAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento No. 5 del Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -354,3 +356,41 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 236 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 21 DE LA LEY DE ZONAS METROPOLITANAS DEL ESTADO DE COLMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 195.- POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COLIMA".]
+
+PRIMERO. La Ley contenida en este decreto entrará en vigor el 1° de enero del año 2023, previa publicación que se haga en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Se abrogan la Ley de Asentamientos Humanos del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el sábado 7 de mayo de 1994. Asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+TERCERO. Se abrogan la Ley de Zonas Metropolitanas del Estado de Colima, publicada en el Periódico Oficial “El Estado de Colima” el sábado 07 de octubre de 2006. Asimismo, se derogan todas las disposiciones legales y reglamentarias que se opongan a lo establecido en la presente Ley.
+
+CUARTO. Los fraccionamientos, condominios, conjuntos urbanos o urbanizaciones en general y proyectos de construcción que a la fecha de entrar en vigor de (sic) esta Ley se encuentran en cualquier fase de autorización, seguirán desarrollándose observando las normas vigentes al momento de su inicio.
+
+QUINTO. Lo previsto en el artículo 232 de la presente ley no será aplicable en los casos en los que se cuente con un programa parcial de urbanización y su proyecto ejecutivo de urbanización autorizados, así como su respectiva licencia de urbanización.
+
+SEXTO. En un plazo no mayor a doce meses, contado a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad, deberá emitir el Reglamento de esta Ley.
+
+SÉPTIMO. Los Ayuntamientos procederán a revisar, adecuar y publicar todas las disposiciones reglamentarias relacionadas con los contenidos de este instrumento en un plazo no mayor de quince meses contado a partir de la vigencia de esta Ley.
+
+OCTAVO. Dentro de los tres meses siguientes a la entrada en vigor de la presente Ley, los Ayuntamientos propondrán los proyectos de modificación a sus leyes hacendarias remitiéndolas al Congreso del Estado para su aprobación proponiendo los derechos y aprovechamientos aplicables derivados de esta Ley.
+
+NOVENO. En un plazo de dieciocho meses contado a partir de la entrada en vigor de esta Ley, se formularán, o adecuarán, el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano, los Programas de Ordenamiento Territorial de Zonas Metropolitanas y los Programas Municipales de Ordenamiento Territorial y Desarrollo Urbano, incluyendo todos los nuevos instrumentos de gestión a los que alude esta Ley, incluidos de manera primordial los instrumentos de participación democrática y ciudadana contenidos en el Título III de la Ley que se expide.
+
+DÉCIMO. Dentro del plazo de un mes, contado a partir de la entrada en vigor de esta Ley, el Poder Ejecutivo del Estado y los Ayuntamientos deberán convocar a las sesiones de instalación de los Consejos Estatal y Municipales de Ordenamiento Territorial y Desarrollo Urbano.
+
+Los Consejos Estatales y Municipales anteriormente referidos, deberán dentro de los 30 días posteriores a su instalación deberán (sic) emitir su respectivo Reglamento.
+
+DÉCIMO PRIMERO. En un plazo de seis meses, contado a partir de la entrada en vigor de esta Ley, la Secretaría en coordinación con las dependencias municipales elaborarán la guía metodológica y los lineamientos técnicos en los que se detalle el contenido mínimo del estudio de impacto territorial y urbano, y una vez terminados la Secretaría los emitirá y publicará.
+
+Así mismo, la Secretaría y los Ayuntamientos del plazo referido en este transitorio, elaborarán las especificaciones técnicas y procedimientos constructivos a los que se sujetarán todas las obras de urbanización que se autoricen para nuevos desarrollos, en sus respectivos reglamentos de zonificación, construcción o el correspondiente.
+
+DÉCIMO SEGUNDO. En un plazo no mayor de dieciocho meses, contado a partir de la entrada en vigor de esta Ley, el Instituto para el Registro del Territorio del Estado de Colima en coordinación con la Secretaría constituirán el Sistema de Información Territorial y Urbano del Estado de Colima.
+
+DÉCIMO TERCERO. En un plazo de seis meses, contado a partir de la entrada en vigor de esta Ley, se constituirá el Comité Estatal de Peritos, quien establecerá y emitirá los lineamientos para la certificación de especialistas en gestión territorial dentro del plazo establecido en este transitorio.
+
+DÉCIMO CUARTO. Se otorga un plazo de tres meses, contado a partir de la entrada en vigor de esta Ley, para realizar las acciones legislativas necesarias para reformar el Código Penal con el objeto de que se configuren como delitos las conductas de los sujetos privados o públicos que promuevan o se beneficien con la ocupación irregular de áreas o predios.
+
+DÉCIMO QUINTO. En un plazo no mayor de tres meses, contado a partir de la entrada en vigor de esta Ley, el Poder Legislativo deberá armonizar la legislación estatal de conformidad con el contenido del presente Decreto de Ley.
