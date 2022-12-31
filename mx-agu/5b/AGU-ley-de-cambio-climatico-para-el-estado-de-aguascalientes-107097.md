@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2017-10-23"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -127,9 +127,13 @@ Son autoridades en materia de cambio climático en el Estado, en el ámbito de s
 
 I. El titular del Ejecutivo Estatal;
 
-II. El titular de la Secretaría de Medio Ambiente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. El titular de la Secretaría de Gestión Urbanística y Ordenamiento Territorial;
+II. El titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. El titular de la Secretaría de Planeación, Participación y Desarrollo;
 
 IV. El titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
@@ -363,7 +367,9 @@ III. El Titular de la Secretaría de Infraestructura y Comunicaciones;
 
 IV. El Titular de la Secretaría de Desarrollo Económico;
 
-V. El Titular de la Secretaría de Gestión Urbanística y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. El Titular de la Secretaría de Planeación, Participación y Desarrollo;
 
 VI. El Titular de la Secretaría de Bienestar y Desarrollo Social;
 
@@ -377,7 +383,7 @@ X. El Titular del Instituto del Agua del Estado de Aguascalientes;
 
 XI. El Titular de la Procuraduría Estatal de Protección al Ambiente;
 
-XII. El Titular de la Coordinación Estatal de Planeación y Proyectos; y
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022); y (sic)
 
 XIII. Un Diputado del Congreso del Estado integrante de la Comisión Legislativa del Medio Ambiente y Recursos Naturales.
 
@@ -748,3 +754,15 @@ P.O. 23 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
