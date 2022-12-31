@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2020-06-29"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -283,7 +283,9 @@ II. Un Secretario Ejecutivo con voz y voto, que será designado por el Sujeto de
 
 III. Tres vocales con voz y voto que serán:
 
-Un representante de la Secretaría o Tesorerías; un representante de la Coordinación Estatal de Planeación y Proyectos, o su similar en los Municipios; y un representante de la cámara o asociación del ramo correspondiente;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Un representante de la Secretaría o Tesorerías; un representante de la Secretaría de Planeación, Participación y Desarrollo, o su similar en los Municipios; y un representante de la cámara o asociación del ramo correspondiente;
 
 IV. Un vocal con voz pero sin voto que será:
 
@@ -557,11 +559,11 @@ II. Revisar el inventario y catálogo de la propiedad patrimonial estatal o muni
 
 III. Asignar en su caso a las dependencias y entidades interesadas, los inmuebles disponibles.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 37.
 
-La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
+La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto de la Secretaría de (sic) General de Gobierno, a través de la Dirección General del Instituto Catastral del Estado de Aguascalientes. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
 
 ###### Artículo 38.
 
@@ -1664,3 +1666,15 @@ P.O. 29 DE JUNIO DE 2020.
 ###### ARTÍCULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
