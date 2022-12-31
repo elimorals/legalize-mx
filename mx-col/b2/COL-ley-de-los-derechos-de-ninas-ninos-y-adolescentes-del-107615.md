@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2022-12-03"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -545,7 +545,13 @@ Corresponde a las autoridades locales y municipales, en el ámbito de sus respec
 
 Niñas, niños o adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
 
-Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, y regular conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para el caso de las niñas y niños menores de tres años que se encuentren bajo la custodia de su madre durante su estancia en un Centro Penitenciario, la autoridad penitenciaria en coordinación con las autoridades competentes en la materia, establecerán los criterios para garantizar el ingreso de la niña o el niño, debiendo existir una área específica que cuente con las instalaciones adecuadas, recursos materiales y humanos para que reciban la alimentación adecuada y saludable, educación inicial, vestimenta acorde a su edad y etapa de desarrollo, así como la atención médica, atendiendo a su edad, condiciones y a sus necesidades de salud específicas, incluyendo las herramientas necesarias para el desarrollo biopsicosocial en el periodo que comprenda su permanencia en el Centro de Reinserción, de conformidad al interés superior de la niñez.
 
 ###### Artículo 27.
 
@@ -3180,3 +3186,11 @@ P.O. 3 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial del Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 222.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE COLIMA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto, se sujetarán a la disponibilidad presupuestaria que afecto se determine en el Ejercicio Fiscal 2023.
