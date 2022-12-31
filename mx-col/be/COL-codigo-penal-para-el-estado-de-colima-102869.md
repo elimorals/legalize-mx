@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2022-10-08"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1768,6 +1768,10 @@ IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiénd
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
 A quien cometa feminicidio se le impondrán de cuarenta a sesenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La pena se aumentará hasta en una tercera parte si la víctima fuera niña, adolescente o mujer con discapacidad; así como cuando exista una relación de parentesco por consanguinidad en línea recta, sin limitación de grado; colateral, hasta el cuarto grado; o por afinidad, hasta el cuarto grado; de concubinato; de noviazgo; o bien, una relación laboral, docente, sentimental, vecinal o cualquier otra que implique confianza, subordinación, superioridad o ventaja entre el sujeto activo y la víctima o las personas ofendidas del delito.
 
 ### CAPÍTULO II. LESIONES
 
@@ -4848,3 +4852,9 @@ P.O. 8 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 60 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 220.- POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO AL ARTÍCULO 124 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
