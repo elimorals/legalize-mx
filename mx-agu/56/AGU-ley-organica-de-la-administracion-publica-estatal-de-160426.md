@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2022-09-30"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA ESTATAL DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ENERO DE 2023 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -211,7 +213,9 @@ VI. Secretaría de Salud.- SSE;
 
 VII. Secretaría de Sustentabilidad, Medio Ambiente y Agua.- SSMAA;
 
-VIII. Secretaría de Planeación, Participación y Desarrollo.- SEPLAPDE;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VIII. Secretaría de Planeación, Participación y Desarrollo. - SEPLADE;
 
 IX. Secretaría de Desarrollo Social.- SEDESO;
 
@@ -1888,3 +1892,17 @@ EMANUELLE SÁNCHEZ NÁJERA
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de septiembre de 2022.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
