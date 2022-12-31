@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-95959"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2019-11-28"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -169,9 +169,13 @@ XL.- Reglamento: El Reglamento de la Ley de Catastro del Estado de Aguascaliente
 
 XLI.- Reglamento Interior: El Reglamento Administrativo que determina y organiza el trabajo de los funcionarios y empleados del Instituto;
 
-XLII.- Secretaría: La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XLIII.- Secretario: El Secretario de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado de Aguascalientes;
+XLII.- Secretaría: La Secretaría General de Gobierno del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XLIII.- Secretario: El Secretario General de Gobierno del Estado de Aguascalientes;
 
 XLIV.- Sector Catastral: La división de una zona geográfica que establece el Instituto y que agrupa a un número determinado de manzanas en función de su ubicación;
 
@@ -1224,3 +1228,15 @@ En materia catastral, todas las referencias hechas a la Secretaría de Finanzas 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
