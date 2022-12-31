@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2021-12-29"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -85,9 +85,9 @@ IV.- Anteproyectos de Presupuesto del Municipio: Los que elaboren las Dependenci
 
 V.- Asignaciones Presupuestales: Las previsiones de Gasto Público, aprobado mediante el Presupuesto de Egresos del Estado, que realiza el Titular del Ejecutivo a través de la Secretaría a los Ejecutores de Gasto del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI.- Autoridades fiscalizadoras: Son aquellas facultadas para vigilar y revisar el Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los Órganos Autónomos, la Contraloría del Estado, el IPLANEA, los Órganos Internos de Control de las Entidades Paraestatales o Paramunicipales, así como las Contralorías Municipales;
+VI.- Autoridades fiscalizadoras: Son aquellas facultadas para vigilar y revisar el Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoría Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los Órganos Autónomos, la Contraloría del Estado, la SEPLADE, los Órganos Internos de Control de las Entidades Paraestatales o Paramunicipales, así como las Contralorías Municipales;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -233,9 +233,9 @@ XLI.- Gasto Público: Gasto total que comprende la totalidad de las erogaciones 
 
 XLII.- Impacto Presupuestal: Es el costo total por ejercicio fiscal que generaría para el erario público la aplicación de reformas o nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XLIII.- Indicadores de desempeño: Las expresiones cuantitativas o cualitativas, formuladas por el IPLANEA o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
+XLIII.- Indicadores de desempeño: Las expresiones cuantitativas o cualitativas, formuladas por la SEPLADE o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -257,9 +257,7 @@ XLVII.- Ingresos Excedentes: Los recursos que durante el ejercicio fiscal se obt
 
 XLVIII.- Inversión pública productiva: La definida como tal en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2021)</small>
-
-XLIX.- IPLANEA: El Instituto de Planeación del Estado de Aguascalientes;
+XLIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -273,9 +271,9 @@ LI.- Ley de Ingresos del Estado: La Ley de Ingresos del Estado de Aguascalientes
 
 LII.- Ley de Ingresos de los Municipios: La Ley de Ingresos de los Municipios, para el ejercicio fiscal correspondiente, aprobada por el Congreso;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-LIII.- Metodología del Marco Lógico: Es la herramienta desarrollada por el IPLANEA o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+LIII.- Metodología del Marco Lógico: Es la herramienta desarrollada por la SEPLADE o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -352,6 +350,10 @@ LXXI.- Recursos Fiscales: Fuente de financiamiento del Gasto Público que se int
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 LXXII.- Secretaría: La Secretaría de Finanzas del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+LXXII-A.- SEPLADE: Secretaría de Planeación, Participación y Desarrollo;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -433,9 +435,9 @@ La Presupuestación es la fase de asignación de los recursos financieros, human
 
 La Programación y Presupuestación del Gasto Público del Estado comprende:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I.- Las actividades que deberán realizar las Dependencias del Ejecutivo y Entidades del Ejecutivo para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en Indicadores de Desempeño, contenidos en el Sistema de Planeación Democrática y en los programas que se derivan del Plan de Desarrollo y, en su caso, de las directrices que el Ejecutivo del Estado expida en tanto se elabore dicho Plan, en los términos de la Ley de Planeación y Desarrollo Estatal y Regional del Estado de Aguascalientes;
+I.- Las actividades que deberán realizar las Dependencias del Ejecutivo y Entidades del Ejecutivo para dar cumplimiento a los objetivos, políticas, estrategias, prioridades y metas con base en Indicadores de Desempeño, contenidos en el Sistema de Planeación Democrática y en los programas que se derivan del Plan de Desarrollo y, en su caso, de las directrices que el Ejecutivo del Estado expida en tanto se elabore dicho Plan, en los términos de la Ley de Planeación para el Desarrollo del Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -473,11 +475,11 @@ III.- Las acciones que correspondan realizar conforme a los Criterios Generales 
 
 IV.- Las demás acciones que conforme a la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios deban realizarse.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 12.
 
-La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con el IPLANEA para cada ejercicio fiscal, y con base en:
+La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con la SEPLADE para cada ejercicio fiscal, y con base en:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -515,11 +517,11 @@ V.- La situación económica y financiera nacional, y la propia del Estado de Ag
 
 VI.- Las políticas financieras, fiscales y crediticias que establezcan las Tesorerías, así como las bases, lineamientos y normas que determine sobre los procesos de planeación, programación y elaboración anual de los presupuestos de egresos de los Municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 14.
 
-En materia de programación y presupuesto, el IPLANEA y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+En materia de programación y presupuesto, la SEPLADE y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
@@ -595,25 +597,21 @@ VI.- Las previsiones del gasto de acuerdo con lo establecido en la clasificació
 
 VII.- Las demás previsiones que se estimen necesarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 18.
 
-Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por el IPLANEA , para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan de Desarrollo y de los programas que de éste se deriven, en los términos de las leyes aplicables.
+Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por la SEPLADE, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan de Desarrollo y de los programas que de éste se deriven, en los términos de las leyes aplicables.
 
 En el caso de los Municipios, esta función será llevada a cabo por la COMUPLA respecto a los programas que les corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 19.
 
-Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias y Entidades del Ejecutivo en coordinación con el IPLANEA, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores de desempeño para medir su cumplimiento.
+Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias y Entidades del Ejecutivo en coordinación con la SEPLADE, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores de desempeño para medir su cumplimiento.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
-Estará a cargo del IPLANEA concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales. Estará a cargo del IPLANEA concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
-
-En las previsiones de gasto que resulten deberán definirse el tipo y la fuente de recursos que se utilizarán.
+Estará a cargo de la SEPLADE concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales. Estará a cargo de la SEPLADE concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
 
 ### CAPÍTULO II. De la Formulación del Presupuesto de Egresos
 
@@ -731,9 +729,9 @@ Los recursos para cubrir adeudos del ejercicio fiscal anterior, previstos en el 
 
 Los Anteproyectos de Presupuesto del Estado al igual que los Anteproyectos de Presupuesto de los Municipios, serán remitidos a más tardar el 20 de septiembre de cada año a la Secretaría o a las Tesorerías, según corresponda, para su revisión e incorporación al Proyecto de Presupuesto de Egresos del Estado o al Proyecto de Presupuesto de Egresos del Municipio.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En el caso de la Entidades del Ejecutivo, los Anteproyectos de Presupuesto del Estado serán remitidos a la Secretaría a través del IPLANEA previa implementación de las fases de programación y planeación que el mismo efectúe, en los términos del Capítulo I, del Título Segundo de esta Ley y las demás disposiciones jurídicas aplicables.
+En el caso de las Entidades del Ejecutivo, los Anteproyectos de Presupuesto del Estado serán remitidos a la Secretaría a través de la SEPLADE previa implementación de las fases de programación y planeación que el mismo efectúe, en los términos del Capítulo I, del Título Segundo de esta Ley y las demás disposiciones jurídicas aplicables.
 
 ###### Artículo 24.
 
@@ -1061,15 +1059,15 @@ La información señalada en el párrafo anterior deberá hacerse pública a tra
 
 VIII. Una vez concluida la vigencia del Presupuesto de Egresos, con excepción de lo dispuesto en el Artículo 55 de esta Ley, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio respetando los porcentajes mencionados en el Artículo 22 Quáter de esta Ley. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el Artículo 47 Bis de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 47.
 
-La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por el IPLANEA, realizará los pagos a quien corresponda, para cubrir el gasto de capital.
+La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por la SEPLADE, realizará los pagos a quien corresponda, para cubrir el gasto de capital.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En los casos en que exista expediente técnico aprobado por el IPLANEA, esta deberá realizar un seguimiento del avance del gasto de capital, y deberá anexarlo al expediente técnico anteriormente referido.
+En los casos en que exista expediente técnico aprobado por la SEPLADE, esta deberá realizar un seguimiento del avance del gasto de capital, y deberá anexarlo al expediente técnico anteriormente referido.
 
 Tratándose del Gasto Corriente, las Dependencias del Ejecutivo instruirán a la Secretaría la realización de los pagos correspondientes y, para tal efecto, deberán presentar la documentación a que haya lugar.
 
@@ -1233,13 +1231,13 @@ De igual manera se podrán retornar al Fondo de Estabilización los recursos que
 
 El Fondo de Inversiones Público Productivas y Programas Prioritarios, tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I.- El Titular del IPLANEA, quien lo presidirá;
+I.- El Titular de la SEPLADE, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. El Titular del área jurídica del IPLANEA, quien será el Secretario Técnico del Comité;
+II.- El Titular del área jurídica de la SEPLADE, quien será el Secretario Técnico del Comité;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -1265,15 +1263,15 @@ Todos los integrantes del Comité tendrán derecho a voz y voto, a excepción de
 
 Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo serán emitidas y aprobadas por el Comité Técnico.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación del IPLANEA a través de dictamen técnico.
+Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación de la SEPLADE a través de dictamen técnico.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 50.
 
-Cuando se realicen adecuaciones presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello al IPLANEA, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
+Cuando se realicen adecuaciones presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello a la SEPLADE, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
 
 ###### Artículo 51.
 
@@ -1361,17 +1359,17 @@ Los recursos económicos de que dispongan los Ejecutores de Gasto serán sujetos
 
 La Evaluación del Desempeño que se realice en los términos de esta Ley, se efectuará sin perjuicio de lo que establezcan otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 61.
 
-El IPLANEA en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+La SEPLADE en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 62.
 
-Corresponderá al IPLANEA y a las COMUPLA, en sus respectivas competencias, lo siguiente:
+Corresponderá a la SEPLADE y a las COMUPLA, en sus respectivas competencias, lo siguiente:
 
 I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño;
 
@@ -1391,17 +1389,17 @@ VIII.- Elaborar un informe anual que contenga los resultados de las evaluaciones
 
 IX.- Impartir a petición de parte capacitación en materia de Evaluación del Desempeño.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 63.
 
-El Titular del Ejecutivo, a través del IPLANEA y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+El Titular del Ejecutivo, a través de la SEPLADE y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 64.
 
-Las atribuciones que esta Ley le confiere al IPLANEA en materia de evaluación de desempeño, son sin perjuicio de las que tenga la Contraloría del Estado, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
+Las atribuciones que esta Ley le confiere a la SEPLADE en materia de evaluación de desempeño, son sin perjuicio de las que tenga la Contraloría del Estado, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
 Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de Evaluación de Desempeño, son sin perjuicio de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
@@ -1409,9 +1407,9 @@ Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de E
 
 Son obligaciones de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, así como de las Dependencias del Municipio y de las Entidades del Municipio, en materia de Evaluación del Desempeño, las siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I.- Elaborar y proponer al IPLANEA y a las COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley;
+I.- Elaborar y proponer a la SEPLADE y a las COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley
 
 II.- Autoevaluarse mediante la medición por sí mismos o a través de evaluadores externos, del grado de cumplimiento de los Indicadores de Desempeño;
 
@@ -1419,15 +1417,15 @@ III.- Dar seguimiento y monitoreo de los Indicadores Estratégicos e Indicadores
 
 IV.- Atender las revisiones y recomendaciones de las Evaluaciones del Desempeño;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V.- Informar trimestralmente al IPLANEA o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
+V.- Informar trimestralmente a la SEPLADE o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
 
 VI.- Elaborar e implementar proyectos de mejora para incorporar en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones e informar los avances con oportunidad; y
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VII.- Acordar con al IPLANEA y con las COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+VII.- Acordar con la SEPLADE y con las COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
 
 ###### Artículo 66.
 
@@ -1812,3 +1810,15 @@ P.O. 29 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primero de enero de dos mil veintidós.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
