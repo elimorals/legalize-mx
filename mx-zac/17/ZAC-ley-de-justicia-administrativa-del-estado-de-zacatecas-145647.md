@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-145647"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-02"
-last_updated: "2021-04-10"
+last_updated: "2022-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Zacatecas, el sábado 2 de enero de 2021.
 
@@ -103,9 +103,11 @@ El Tribunal de Justicia Administrativa del Estado de Zacatecas es un organismo j
 
 De acuerdo con la Ley General del Sistema Nacional Anticorrupción, la Ley General de Responsabilidades Administrativas, la Constitución del Estado y la Ley del Sistema Estatal Anticorrupción de Zacatecas, el Tribunal formará parte del Sistema Estatal Anticorrupción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 4.
 
-Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
+Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, litis abierta, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
 
 ###### Artículo 5.
 
@@ -1081,7 +1083,15 @@ Si la calificación resulta improcedente, se impondrá una multa de cincuenta a 
 
 Los procedimientos que se sigan ante el Tribunal relacionados con responsabilidades administrativas, se sustanciarán de conformidad con la Ley General.
 
-El juicio contencioso administrativo y los demás procedimientos previstos en esta Ley, distintos a los referidos en el párrafo anterior, se sustanciarán conforme al presente ordenamiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+El juicio contencioso administrativo y los demás procedimientos previstos en esta Ley, distintos a los referidos en el párrafo anterior, se sustanciarán conforme al presente ordenamiento y se regirán conforme al principio de litis abierta.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+###### Artículo 70 Bis.
+
+En las resoluciones recaídas a un recurso administrativo, incluidas las que lo desechen o lo tengan por no interpuesto, que sean controvertidas a través del juicio contencioso administrativo, se considerará que simultáneamente se impugna el acto o resolución administrativa inicial en la parte que continúe afectando al actor, pudiendo hacer valer pretensiones y agravios novedosos o que reiteren lo planteado en el recurso, así como ofrecer medios de prueba que no hayan sido incluidos con anterioridad.
 
 ###### Artículo 71.
 
@@ -2202,3 +2212,15 @@ P.O. 10 DE ABRIL DE 2021.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 269.- SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El contenido de este Decreto será aplicable a los asuntos que se encuentren en trámite, de conformidad con el principio pro persona.
