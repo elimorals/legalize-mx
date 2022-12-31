@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2022-07-04"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -347,9 +347,9 @@ El Consejo Directivo será el Órgano de Gobierno del Instituto y se integrará 
 
 I. La persona Titular del Poder Ejecutivo, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. La persona Titular del Instituto de Planeación del Estado;
+II. La persona Titular de la Secretaría de Planeación, Participación y Desarrollo;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -2235,7 +2235,9 @@ I. El Gobernador Constitucional del Estado;
 
 II. La Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
-III. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. La Secretaría de Planeación, Participación y Desarrollo;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2022)</small>
 
@@ -2616,3 +2618,15 @@ Artículo Segundo. Las disposiciones referentes a la designación de la persona 
 Artículo Tercero. La persona titular del Poder Ejecutivo contará con un periodo de ciento ochenta días naturales para proveer las acciones necesarias para ajustar la integración del Consejo Directivo del Instituto del Agua del Estado de Aguascalientes conforme a lo ordenado en el artículo 8o y 9o de la Ley que se reforma.
 
 Artículo Cuarto. La persona titular del Poder Ejecutivo, deberá adecuar las disposiciones reglamentarias al tenor del presente Decreto, a más tardar en el lapso de treinta días contados a partir de su entrada en vigor.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
