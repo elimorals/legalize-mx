@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-15428
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2022
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2023, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento 3 al No. 104 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de diciembre de 2021.
 
@@ -460,3 +462,37 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los veintisiete días del mes de diciembre del año dos mil veintiuno. GOBERNADOR DEL ESTADO.- DAVID MONREAL AVILA. SECRETARIA GENERAL DE GOBIERNO.- GABRIELA EVANGELINA PINEDO MORALES. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 264.- LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2023".]
+
+PRIMERO. La presente Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2023, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas entrará en vigor el día primero de enero del año dos mil veintitrés; y bajo el principio de reconducción presupuestal estará vigente en tanto no se apruebe su similar del ejercicio fiscal 2024.
+
+SEGUNDO. Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2022, contenida en el Decreto número 20, publicado el 29 de diciembre de 2021, en el Suplemento número 3 al número 104 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Asimismo, se derogan las disposiciones legislativas y administrativas que se opongan a la presente Ley.
+
+TERCERO. Las instituciones de salud pública, a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Zacatecas, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellas personas que carezcan de recursos para cubrirlos con base en criterios de capacidad contributiva, las disposiciones normativas que regulen directamente a la institución de salud pública y demás factores que permitan adoptar las medidas de compensación necesarias para hacer efectivo el derecho a la salud, como eje de responsabilidad social.
+
+CUARTO. Los ingresos que perciba o recaude el Estado de Zacatecas, se acreditarán mediante el Comprobante Fiscal Digital por Internet (CFDI) o cualquier otra documentación impresa o digital que expida la Secretaría de Finanzas o los Organismos Descentralizados de la Administración Pública Estatal, según el caso conforme a las disposiciones jurídicas aplicables y a las reglas que para esos efectos publique la propia Secretaría de Finanzas.
+
+QUINTO. Las Participaciones y los Fondos de Aportaciones Federales, se presentan con un monto estimado, establecido en el Artículo 1 de esta Ley, los cuales se ajustarán con base en las publicaciones oficiales que para esos efectos realice la Secretaría de Hacienda y Crédito Público.
+
+SEXTO. Derivado de las resoluciones o las sentencias dictadas y que se lleguen a dictar por los órganos jurisdiccionales competentes, favorables al Gobierno del Estado, respecto de los Impuestos Ecológicos, establecidos en el Capítulo Primero del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, se faculta al Titular del Ejecutivo del Estado, a través del Titular de la Secretaría de Finanzas, a llevar a cabo Acuerdos de Pago Definitivos respecto de los adeudos de los contribuyentes correspondientes a los ejercicios 2023 y anteriores, los cuales, inclusive aquellos celebrados y suscritos en ejercicios anteriores, deberán ser ratificados con la intervención de la Comisión Estatal de la Defensa del Contribuyente, con los efectos a que se refiere el artículo 158 bis del Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+Para efectos del artículo 101-Bis del Código Fiscal del Estado de Zacatecas y sus Municipios, no serán sujetos de la obligación de presentar dictamen del cumplimiento de sus obligaciones fiscales, aquellas personas físicas, morales o unidades económicas que hayan celebrado un Acuerdo de Pago Definitivo en los términos referidos en el párrafo anterior, respecto de los ejercicios convenidos.
+
+Los contribuyentes que no hayan interpuesto algún recurso para controvertir los impuestos establecidos en el párrafo primero del presente artículo, y que promuevan ante la Secretaría de Finanzas su petición de auto regularizarse, tendrán los beneficios señalados con anterioridad.
+
+Asimismo, los contribuyentes que durante los ejercicios fiscales 2021 y 2022, hubiesen llevado a cabo los Acuerdos establecidos en los párrafos anteriores, gozarán de la validez y beneficios establecidos en el presente artículo.
+
+SÉPTIMO. Por lo que hace al importe a recaudar por concepto de incentivo fiscal proveniente de los ingresos derivados de los Créditos Fiscales Federales firmes a cargo de los Entes Públicos del Estado, recuperados en cobro coactivo de conformidad con lo dispuesto por la Cláusula Décimo Séptima del Convenio de Colaboración Administrativa en Materia Fiscal Federal, este se podrá destinar como apoyo adicional en carácter de ampliación presupuestal al Ente que lo genere.
+
+OCTAVO. Se faculta al Titular del Ejecutivo del Estado, a través del Titular de la Secretaría de Finanzas, a llevar a cabo Convenios de Estabilidad Fiscal como Instrumentos de Desarrollo Económico, de acuerdo con las disposiciones fiscales, la legislación aplicable en materia de fomento para el desarrollo económico e inversión para el Estado de Zacatecas.
+
+NOVENO. Con el propósito de fomentar y estimular el cumplimiento de los contribuyentes, respecto de sus obligaciones por adeudos fiscales y los originados por multas, sanciones impuestas por autoridades no fiscales, que sean provenientes del Estado, queda autorizado el titular de la Secretaría de Finanzas para reducirlas con independencia del ejercicio que lo originó, así como de la actualización, recargos, multas fiscales y no fiscales, y gastos de ejecución ordinarios, en los porcentajes plazos y condiciones que se considere conveniente.
+
+DÉCIMO. Los datos, cifras y manifestaciones presentadas en los Anexos 1, 2, 3 y 3A del presente Decreto, son parte integrante de la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2023, en cumplimiento con lo establecido en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, así como a los lineamientos establecidos por el Consejo Nacional de Armonización Contable (CONAC).
