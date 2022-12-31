@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-142996"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2022-04-11"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -193,7 +193,9 @@ III. Titular de la Secretaría de Obras Públicas;
 
 IV. Titular del Instituto de Servicios de Salud del Estado; y
 
-V. Titular de la Coordinación General de Planeación y Proyectos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. El titular de la Secretaría de Planeación, Participación y Desarrollo.
 
 Los miembros del Consejo durarán en su cargo durante el tiempo en que desempeñen las funciones del puesto por el cual conforman dicho Consejo.
 
@@ -662,3 +664,15 @@ P.O. 11 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
