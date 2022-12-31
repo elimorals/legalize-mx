@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-80211
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-28"
-last_updated: "2011-10-31"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2011.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2011 NO APLICA AL ARTICULADO DEL DECRETO 123 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2011.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 28 de febrero de 2011.
 
@@ -93,7 +91,9 @@ E) Realizar estudios e investigaciones para determinar las necesidades de vivien
 
 F) Coordinar los programas de ordenamiento de la propiedad y de vivienda necesarios en el Estado y operar los fondos que para el efecto se constituyan;
 
-G) Representar conjuntamente con la Secretaría de Gestión Urbanística y Ordenamiento Territorial, al Gobierno del Estado ante consejos, comisiones consultivas, comités técnicos de institutos y demás organismos estatales, federales o internacionales que realicen promoción en materia de vivienda;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+G) Representar conjuntamente con la Secretaría de Planeación, Participación y Desarrollo, al Gobierno del Estado ante consejos, comisiones consultivas, comités técnicos de institutos y demás organismos estatales, federales o internacionales que realicen promoción en materia de vivienda;
 
 H) Promover ante dependencias y organismos estatales y municipales la simplificación de autorizaciones para el desarrollo de vivienda y el otorgamiento de estímulos, así como celebrar con ellos acuerdos y convenios de coordinación para establecer ventanillas únicas de gestión en esta materia; y
 
@@ -271,17 +271,25 @@ La Junta de Gobierno será el Órgano Rector del Instituto y se integrará con:
 
 I. Un Presidente que será el Gobernador del Estado;
 
-II. Un Vicepresidente, que será el Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Un Vicepresidente, que será el Coordinador General de Gabinete;
 
 III. En calidad de vocales:
 
-A) El titular de las (sic) Secretaria de de (sic) Gestión Urbanística y Ordenamiento Territorial;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+A) El titular de la Secretaría de Planeación, Participación y Desarrollo;
 
 B) El titular de la Secretaría de Finanzas;
 
-C) El Titular de la Secretaría de Bienestar y Desarrollo Social;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-D) El titular de la Secretaría, de Infraestructura y Comunicaciones;
+C) El Titular de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+D) El Titular de la Secretaría de Obras Públicas;
 
 E) Un representante del H. Congreso del Estado; y
 
@@ -682,3 +690,15 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Los fideicomisos públicos que formen parte de la Administración Pública Descentralizada y que hayan sido constituidos en fecha anterior a la entrada en vigor del presente Decreto, deberán adecuar sus contratos y/o Decretos de creación a las reformas y adiciones a la Ley Orgánica de la Administración Pública, a la Ley para el Control de la Entidades Paraestatales, a la Ley de Presupuesto, Contabilidad y Gasto Público y a la Ley de Hacienda, todas ellas del Estado de Aguascalientes, en un término no mayor a 90 días contados a partir de la fecha en que entre en vigor el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
