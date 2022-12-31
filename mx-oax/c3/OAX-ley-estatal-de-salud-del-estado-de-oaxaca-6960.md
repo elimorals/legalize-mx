@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2022-12-03"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -2027,9 +2027,13 @@ La Secretaría de Salud del Estado será la responsable de la ejecución del pro
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo;
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que conozca los efectos del humo de tabaco en la salud y se abstenga de fumar en los espacios cien por ciento libres de humo de tabaco.
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que conozca los efectos del humo de tabaco en la salud y se abstenga de fumar en los espacios cien por ciento libres de humo de tabaco; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III.- La prevención del uso y consumo de los Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina, Sistemas Alternativos de Consumo de Nicotina, cigarrillos electrónicos y dispositivos vaporizadores con usos similares, así como las soluciones y mezclas utilizadas en dichos sistemas, especialmente dirigidos a niñas, niños, adolescentes y jóvenes debido a las afectaciones que producen a la salud.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4006,3 +4010,11 @@ P.O. 3 DE DICIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 744.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN II Y SE ADICIONA LA FRACCIÓN III AL ARTÍCULO 152 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
