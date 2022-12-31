@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2022-04-04"
+last_updated: "2022-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -66,6 +66,16 @@ Las autoridades, en el ámbito de sus competencias, deberán enfocar sus accione
 ###### ARTÍCULO 3°.
 
 El ejercicio del derecho a la movilidad individual o colectiva no podrá emplearse para interferir en el ejercicio de cualquier otro derecho conexo, para alterar el orden público o cuando se ponga a la sociedad en peligro. En estos casos, la autoridad establecerá los mecanismos y tomará las medidas pertinentes para garantizar la seguridad en la materia, siempre que no se atente contra el contenido mínimo de los derechos en conflicto y se asegure la proporcionalidad de la medida empleada.
+
+I. a la CI. … (sic)
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO SEGUNDO DEL DECRETO 280, PÁGINA 2.]</small>
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+CII. SEPLADE: Secretaría de Planeación, Participación y Desarrollo;
+
+CIII. a la CXLV. … (sic)
 
 ###### ARTÍCULO 4°.
 
@@ -339,7 +349,9 @@ II. La Secretaría General de Gobierno;
 
 III. La Coordinación General de Movilidad;
 
-IV. La Coordinación General de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. La SEPLADE;
 
 V. La Secretaría de Finanzas;
 
@@ -483,15 +495,19 @@ XXXVIII. Diseñar, promover, coordinar, ejecutar, controlar y evaluar en el ámb
 
 XXXIX. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-Son atribuciones de la Coordinación General de Planeación y Proyectos:
+Son atribuciones de la SEPLADE:
 
 I. Coadyuvar con la CMOV en la planeación del desarrollo del Estado en materia de movilidad;
 
 II. Colaborar con la CMOV, la SSMAA, y con los ayuntamientos en la realización de los estudios que se requieran para prevenir el impacto ambiental que pueda tener la ejecución de las obras públicas en materia de movilidad;
 
-III. Coordinarse con la CMOV y la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral para la expedición de normas administrativas a que esté sujeta la prestación de los servicios de movilidad y transporte;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Coordinarse con la CMOV, para la expedición de normas administrativas a que esté sujeta la prestación de los servicios de movilidad y transporte;
 
 IV. Brindar asesoría a las Dependencias y Entidades estatales y municipales, para la planeación del desarrollo de la obra pública con el propósito de mejorar la movilidad y del servicio de transporte en todas sus modalidades; y
 
@@ -1061,17 +1077,15 @@ V. El Titular de la SOP; y
 
 VI. El Titular de la Contraloría del Estado;
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VII. El Titular de la SEGUOT;
+VII. La persona titular de la SEPLADE;
 
 > <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 VIII. El Titular de la Coordinación General de Gabinete; y
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
-
-IX. El Titular de la Coordinación General de Planeación y Proyectos.
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
@@ -1836,6 +1850,8 @@ El Gobierno del Estado a través de las Dependencias y Entidades competentes est
 ### CAPÍTULO QUINTO. El Registro Estatal de Transporte
 
 #### SECCIÓN PRIMERA. Disposiciones Preliminares
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 116.
 
@@ -3005,7 +3021,7 @@ VIII. Verificar las condiciones del vehículo, conforme a lo que establezca la a
 
 ###### ARTÍCULO 217.
 
-La CMOV, en coordinación con la SOP y la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral, integrarán la planeación territorial y urbanística con la de movilidad, desarrollando mecanismos de coordinación y cooperación administrativa, para mejorar la eficiencia de los diferentes sistemas de movilidad.
+La CMOV, en coordinación con la SOP y la SEPLADE, integrarán la planeación territorial y urbanística con la de movilidad, desarrollando mecanismos de coordinación y cooperación administrativa, para mejorar la eficiencia de los diferentes sistemas de movilidad.
 
 ###### ARTÍCULO 218.
 
@@ -4832,3 +4848,15 @@ P.O. 4 DE ABRIL DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
