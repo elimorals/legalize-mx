@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-y-sus-municipios-118122"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-12-31"
-last_updated: "2021-12-29"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Código publicado en el Suplemento 16 al Número 105 del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -469,9 +469,13 @@ En las oficinas recaudadoras de rentas de la Secretaría de Finanzas o en las Te
 
 También se aceptará, como medio de pago de las contribuciones, la transferencia electrónica de fondos a favor de las autoridades fiscales; se entiende por transferencia electrónica de fondos, el pago o depósito que en forma electrónica realicen las instituciones de crédito a favor de las autoridades fiscales, por instrucción de los contribuyentes, con cargo a su cuenta bancaria.
 
-Asimismo, el pago de las contribuciones se podrá realizar en el portal de Internet de las autoridades fiscales, a través de los medios habilitados en las mismas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-En las instituciones de crédito sólo se aceptarán pagos en efectivo, tarjeta de crédito o débito, cheques del mismo banco y tratándose de cheques de una institución diferente, deberá estar certificado; en kioscos de servicios, módulos fijos o itinerantes, y tiendas de conveniencia, sólo se aceptarán pagos en efectivo y tarjeta de crédito o débito.
+Asimismo el pago de las contribuciones se podrá realizar en el portal de internet de las autoridades fiscales, a través de los medios habilitados en las mismas; así como en aplicaciones móviles.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En las instituciones de crédito sólo se aceptarán pagos en efectivo, tarjeta de crédito o débito, cheques del mismo banco y tratándose de cheques de una institución diferente, deberá estar certificado; en kioscos de servicios o Cajeros Automáticos módulos fijos o itinerantes, y tiendas de conveniencia, sólo se aceptarán pagos en efectivo y tarjeta de crédito o débito.
 
 Para determinar las contribuciones se consideran incluso las fracciones del peso no obstante lo anterior, para efectuar el pago, en caso que el importe a pagar, contenga fracciones de uno a cincuenta centavos de peso se ajustará a la unidad inmediata anterior y las que contengan fracciones entre cincuenta y uno a noventa y nueve centavos de peso, se ajustarán a la unidad inmediata superior.
 
@@ -5198,5 +5202,27 @@ Los recursos distribuidos del Fondo Único de Participaciones a los Municipios p
 Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaria y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 263.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintitrés, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, continúa en suspensión de cobro en los ejercicios fiscales 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Decreto, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar estímulos fiscales sobre derechos por concepto de avalúos e inscripción de documentos, relativos a bienes inmuebles a los beneficiarios de los programas de vivienda, ordenamiento territorial y regularización, que le mandate alguna disposición legal en dichas materias en los que intervenga el Gobierno del Estado a través de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, previamente convenidos y cuando así se justifique.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
