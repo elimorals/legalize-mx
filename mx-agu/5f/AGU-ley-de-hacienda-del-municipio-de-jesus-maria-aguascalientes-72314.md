@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2022-10-17"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -85,9 +85,11 @@ El Municipio de Jesús María, Aguascalientes, tendrá obligación de pagar los 
 
 A falta de disposición expresa en la presente Ley, se estará a la Ley de Coordinación Fiscal del Estado y los convenios celebrados conforme a la misma por el Gobierno del Estado de Aguascalientes; a la Ley de Hacienda del Estado, y al Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 5°.
 
-Las presentes normas que establecen cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones serán de aplicación estricta. Se considera que establecen carcas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa. Su aplicación corresponde al Ayuntamiento de Jesús María, Aguascalientes, por conducto de la Dirección de Finanzas y sus diferentes Unidades Administrativas, contempladas en el Código Municipal.
+Las presentes normas que establecen cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones serán de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa. Su aplicación corresponde al Ayuntamiento de Jesús María, Aguascalientes, por conducto de la Secretaría de Finanzas y sus diferentes Unidades Administrativas, contempladas por el Bando de Policía y Gobierno del Municipio de Jesús María, Aguascalientes.
 
 ###### ARTÍCULO 6°.
 
@@ -177,9 +179,11 @@ En ningún trámite administrativo se admitirá la gestión de negocios. La repr
 
 Los interesados podrán autorizar, por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas o interponga recursos dentro del procedimiento administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 12.
 
-Los sujetos pasivos y demás responsables, deberán dar aviso a la Dirección de Finanzas del Municipio de Jesús María, Aguascalientes, dentro de un plazo de treinta días, de los siguientes cambios:
+Los sujetos pasivos y demás responsables, deberán dar aviso a la Secretaría de Finanzas del Municipio de Jesús María, Aguascalientes, dentro de un plazo de treinta días, de los siguientes cambios:
 
 I. De domicilio;
 
@@ -195,9 +199,11 @@ V. De cualquier otro que se traduzca en alguna modificación de los datos con qu
 
 Los sujetos pasivos y demás obligados a que se hace referencia en este Capítulo, deberán conservar en su domicilio, a disposición de la autoridad fiscal municipal, toda documentación relacionada con el cumplimiento de las disposiciones fiscales, durante cinco años contados a partir de la fecha en que se presentaron o debieron presentarse las declaraciones con ellas relacionadas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 14.
 
-Los sujetos pasivos y responsables solidarios, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las oficinas autorizadas en las formas que para tal efecto apruebe la Dirección de Finanzas del Municipio de Jesús María, Aguascalientes, y proporcionar los datos e informes que en ellas se requieran, cuando no existan formas aprobadas. Dichas declaraciones, manifestaciones o avisos, se presentarán por escrito y deberán reunir por lo menos, los requisitos señalados en la presente Ley.
+Los sujetos pasivos y responsables solidarios, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las oficinas autorizadas en las formas que para tal efecto apruebe la Secretaría de Finanzas del Municipio de Jesús María, Aguascalientes, y proporcionar los datos e informes que en ellas se requieran, cuando no existan formas aprobadas.
 
 ###### ARTÍCULO 15.
 
@@ -219,7 +225,9 @@ C) Únicamente en los casos en que la persona física, que realice actividades s
 
 II. En el caso de las personas morales, el lugar en donde se encuentre la administración principal del negocio;
 
-III. Si se trata de sucursales, agencias o depósitos cuyas matrices no se encuentren dentro del Municipio de Jesús María, Aguascalientes, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberá señalar a una de ellas para que haga las veces de matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Dirección de Finanzas del Municipio de Jesús María, Aguascalientes; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Si se trata de sucursales, agencias o depósitos cuyas matrices no se encuentren dentro del Municipio de Jesús María, Aguascalientes, el lugar donde se establezcan; pero si varias dependen de una misma negociación, deberá señalar a una de ellas para que haga las veces de matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Secretaría de Finanzas del Municipio de Jesús María, Aguascalientes; y
 
 IV. Tratándose de personas físicas o morales, residentes fuera del Municipio de Jesús María, Aguascalientes, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como domicilio el del representante.
 
@@ -251,9 +259,13 @@ III. El Regidor del Ramo;
 
 IV. El Síndico de Hacienda; y
 
-V. El Director de Finanzas del Municipio de Jesús María, Aguascalientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Las autoridades fiscales del Estado podrán coordinarse con las del municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará autoridades fiscales municipales y ejercerán las atribuciones de la Dirección de Finanzas del Municipio que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
+V. El Secretario de Finanzas del Municipio de Jesús María, Aguascalientes.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Las autoridades fiscales del Estado podrán coordinarse con las del municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará autoridades fiscales municipales y ejercerán las atribuciones de la Secretaría de Finanzas del Municipio que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
 
 ###### ARTÍCULO 19.
 
@@ -303,7 +315,9 @@ II. Asistir a las almonedas públicas que tengan por objetivo directo a un bien 
 
 III. Revisar periódicamente las relaciones de rezagos, para que sean liquidados;
 
-IV. Revisar y firmar los cortes de caja formulados por la Dirección de Finanzas; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Revisar y firmar los cortes de caja formulados por la Secretaría de Finanzas; y
 
 V. Las demás que otorgue la Ley.
 
@@ -317,9 +331,11 @@ II. Analizar los cortes de caja formulados por la Secretaría de Finanzas, dicta
 
 III. Las demás que le confieren las leyes y reglamentos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 23.
 
-Son facultades de la Dirección de Finanzas del Municipio:
+Son facultades de la Secretaría de Finanzas del Municipio:
 
 I. Designar a los empleados necesarios para la práctica de visitas domiciliarias y demás actos de fiscalización, notificación y ejecución del cobro de los créditos fiscales municipales;
 
@@ -331,7 +347,9 @@ IV. Abrir las cuentas bancarias necesarias para guardar y (sic) administración 
 
 V. Intervenir en los juicios de carácter fiscal o en cualquier otro procedimiento que se ventile ante los tribunales, cuando tenga interés la Hacienda Pública Municipal, así como la resolución de los recursos administrativos que procedan en la materia;
 
-VI. Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Dirección de Finanzas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI. Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Secretaría de Finanzas;
 
 VII. Someter al acuerdo del Presidente Municipal las solicitudes de prórroga de plazo para el pago de créditos fiscales o cualquiera otra modalidad procedente;
 
@@ -391,9 +409,9 @@ E) Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, pa
 
 F) Se embarguen precautoriamente los bienes, el establecimiento y negociación cuando el contribuyente no atienda tres requerimientos de la autoridad, con una misma omisión. El embargo quedará sin efecto, cuando el contribuyente cumpla con la obligación de que se trate, o transcurridos dos meses de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
-G) Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, en su caso, para formular la querella respectiva.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Las actuaciones que practique el personal autorizado de la Dirección de Finanzas, tendrá el mismo valor probatorio que la ley relativa concede a las actas de la Policía Ministerial, la propia Secretaría, será coadyuvante del Ministerio Público en términos de la Legislación Penal para el Estado de Aguascalientes;
+G) Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Secretaría de Finanzas, tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Ministerial, la propia Secretaría, será coadyuvante del Ministerio Público en términos de la Legislación Penal para el Estado de Aguascalientes;
 
 H) Comprobar los ingresos de los contribuyentes. A este efecto se presumirá salvo prueba en contrario, que la información contenida en los libros, registros sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponden a operaciones celebradas por él, aún cuando aparezca sin su nombre o a nombre de otra persona;
 
@@ -675,7 +693,9 @@ El crédito fiscal municipal debe pagarse en la fecha o dentro del plazo señala
 
 El pago de los créditos fiscales municipales deberá hacerse en moneda nacional. Los cheques certificados y transferencias bancarias, se admitirán como medio de pago.
 
-También se admitirán como medio de pago, los cheques de los contribuyentes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezca la Dirección de Finanzas del Municipio de Jesús María, Aguascalientes, mediante acuerdo publicado en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+También se admitirán como medio de pago, los cheques de los contribuyentes que cumplan con los requisitos que, para hacer uso de esta forma de pago, establezca la Secretaría de Finanzas del Municipio de Jesús María, Aguascalientes, mediante acuerdo publicado en el Periódico Oficial del Estado.
 
 A falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal municipal, por parte de la institución a cuyo cargo hubiere sido librado, dará derecho para exigir del librador o quien resulte responsable, el pago del importe del mismo y una indemnización del 20% del monto del cheque. Esta indemnización y el cobro del cheque se notificarán y se hará efectivo mediante los procedimientos establecidos en esta Ley para los demás créditos fiscales municipales, sin perjuicio de la denuncia respectiva ante las autoridades competentes, en caso de que proceda y subsista el adeudo fiscal.
 
@@ -759,9 +779,11 @@ I. Presentar escrito motivado; y
 
 II. La solicitud deberá efectuarse en forma directa por el sector que pretenda resultar beneficiado o el representante legal debidamente acreditado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 61.
 
-El Presidente Municipal y/o el Director de Finanzas, podrá cancelar los créditos fiscales, cuando los sujetos de crédito sean insolventes, o el cobro del crédito sea incosteable.
+El Presidente Municipal y/o el Secretario de Finanzas, podrá cancelar los créditos fiscales, cuando los sujetos de crédito sean insolventes, o el cobro del crédito sea incosteable.
 
 La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera a uno ni a otro de su obligación, la cual podrá hacerse efectiva mediante el procedimiento correspondiente, en cuanto las circunstancias lo permitan, mientras no se produzca la prescripción.
 
@@ -793,7 +815,9 @@ Los depósitos constituidos de acuerdo con esta Ley, para garantizar el cumplimi
 
 Las obligaciones y los créditos a que se refiere esta Ley, se podrán garantizar en alguna de las formas siguientes:
 
-I. Depósitos de dinero en la Dirección de Finanzas Municipal, o en la institución de crédito autorizada;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+I. Depósitos de dinero en la Secretaría de Finanzas Municipal, o en la institución de crédito autorizada;
 
 II. Prenda;
 
@@ -821,9 +845,11 @@ Se podrá dispensar la garantía del interés fiscal, cuando en relación con el
 
 La aplicación de las sanciones administrativas que procedan, se hará independientemente de que se exija el pago de las prestaciones fiscales municipales no cubiertas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se declare responsabilidad penal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 70.
 
-En cada infracción de las señaladas en esta Ley u otras disposiciones municipales, se aplicarán las sanciones correspondientes, por la Dirección de Finanzas Municipal, conforme a las reglas siguientes:
+En cada infracción de las señaladas en esta Ley u otras disposiciones municipales, se aplicarán las sanciones correspondientes, por la Secretaría de Finanzas Municipal, conforme a las reglas siguientes:
 
 I. Las autoridades fiscales municipales al imponer la sanción que corresponda; tomarán en cuenta la importancia de la infracción, la reincidencia, las condiciones particulares del infractor y la conveniencia de destruir prácticas establecidas tanto para evadir la prestación fiscal, cuanto para infringir en cualquier otra forma, las disposiciones legales o reglamentarias;
 
@@ -973,7 +999,9 @@ También se podrán efectuar en el último domicilio que el interesado haya señ
 
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil siguiente.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta a la Dirección de Finanzas del Municipio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta a la Secretaría de Finanzas del Municipio.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1081,19 +1109,27 @@ El embargo de bienes raíces, de derechos o de negociaciones de cualquier géner
 
 Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos de ejecución y cualesquiera otros, se harán efectivos juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 96.
 
-El ejecutor designado por la Dirección de Finanzas Municipal, se constituirá en el domicilio del deudor y practicará la diligencia del requerimiento de pago y embargo de bienes, con intervención de la negociación en su caso. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
+El ejecutor designado por la Secretaría de Finanzas Municipal, se constituirá en el domicilio del deudor y practicará la diligencia del requerimiento de pago y embargo de bienes, con intervención de la negociación en su caso. De esta diligencia se levantará acta pormenorizada de la que se entregará copia a la persona con quien se entienda la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 97.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. El Director de Finanzas Municipal, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. El Secretario de Finanzas Municipal, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
 
 La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de la autoridad fiscal municipal.
 
-El depositario será designado por el ejecutor cuando no lo hubiere hecho el Director de Finanzas Municipal, pudiendo recaer el nombramiento en el ejecutado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando el Director de Finanzas Municipal, estime que los bienes embargados son insuficientes para cubrir los créditos fiscales municipales.
+El depositario será designado por el ejecutor cuando no lo hubiere hecho el Secretario de Finanzas Municipal, pudiendo recaer el nombramiento en el ejecutado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+El embargo podrá ampliarse en cualquier momento del procedimiento administrativo de ejecución, cuando el Secretario de Finanzas Municipal, estime que los bienes embargados son insuficientes para cubrir los créditos fiscales municipales.
 
 ###### ARTÍCULO 98.
 
@@ -1101,7 +1137,9 @@ La persona con quien se entienda la diligencia de embargo, tendrá derecho a se�
 
 I. Dinero, metales preciosos y depósitos bancarios;
 
-II. Acciones, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de instituciones p empresas, particulares de reconocida solvencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Acciones, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de instituciones, empresas, particulares de reconocida solvencia;
 
 III. Bienes muebles; y
 
@@ -1117,7 +1155,9 @@ I. No señale bienes suficientes a juicio del ejecutor o no haya seguido dicho o
 
 II. Cuando teniendo el deudor otros bienes susceptibles de embargo, señale:
 
-A) Bienes ubicados fuera de la jurisdicción de la Dirección de Finanzas Municipal;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+A) Bienes ubicados fuera de la jurisdicción de la Secretaría de Finanzas Municipal;
 
 B) Bienes que ya reporten cualquier gravamen real o algún embargo anterior; o
 
@@ -1145,29 +1185,41 @@ VIII. Los sueldos y salarios; y
 
 IX. Las pensiones de cualquier tipo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 101.
 
-Si al estarse practicando la diligencia de embargo, el deudor hiciera el pago del crédito y de los accesorios ya causados, el ejecutor suspenderá dicha diligencia, y lo acompañará a la Dirección de Finanzas Municipal, haciendo constar el pago en el acta, entregándole copia para constancia.
+Si al estarse practicando la diligencia de embargo, el deudor hiciera el pago del crédito y de los accesorios ya causados, el ejecutor suspenderá dicha diligencia, y lo acompañará a la Secretaría de Finanzas Municipal, haciendo constar el pago en el acta, entregándole copia para constancia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 102.
 
-Si al designarse bienes para el embargo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se muestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a la ratificación, en todos los casos por el Director de Finanzas Municipal, a la que deberán allegarse todos los documentos exhibidos en el momento de la oposición. Si a juicio de tal autoridad municipal, las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso administrativo de revocación en los términos de esta Ley.
+Si al designarse bienes para el embargo, se opusiere un tercero fundándose en el dominio de ellos, no se practicará el embargo si se muestra en el mismo acto la propiedad con prueba documental suficiente a juicio del ejecutor. La resolución dictada tendrá el carácter de provisional y deberá ser sometida a la ratificación, en todos los casos por el Secretario de Finanzas Municipal, a la que deberán allegarse todos los documentos exhibidos en el momento de la oposición. Si a juicio de tal autoridad municipal, las pruebas no son suficientes, ordenará al ejecutor que continúe con la diligencia y, de embargarse los bienes, notificará al interesado que puede hacer valer el recurso administrativo de revocación en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 103.
 
-Cuando los bienes señalados para la traba de ejecución estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará, no obstante, la diligencia. Dichos bienes se entregarán al depositario designado por la Dirección de Finanzas Municipal o por el ejecutor, si es que no estuvieren ya bajo la custodia legal de otro depositario, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
+Cuando los bienes señalados para la traba de ejecución estuvieren ya embargados por otras autoridades no fiscales o sujetos a cédula hipotecaria, se practicará, no obstante, la diligencia. Dichos bienes se entregarán al depositario designado por la Secretaría de Finanzas Municipal o por el ejecutor, si es que no estuvieren ya bajo la custodia legal de otro depositario, y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 104.
 
-El embargo de créditos será notificado personalmente por el ejecutor a los deudores del embargado para que hagan pago de los adeudos a su cargo en la Dirección de Finanzas Municipal, apercibidos de doble pago en caso de desobediencia.
+El embargo de créditos será notificado personalmente por el ejecutor a los deudores del embargado para que hagan pago de los adeudos a su cargo en la Secretaría de Finanzas Municipal, apercibidos de doble pago en caso de desobediencia.
 
 Si en cumplimiento de lo dispuesto en el primer párrafo de este Artículo, se pagó un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad y del comercio, se requerirá al acreedor embargado para que, dentro de los cinco días siguientes a la notificación firme la escritura de pago y cancelación o el documento en que deba constar el finiquito.
 
-En caso de abstención del titular de los créditos embargados, transcurrido el plazo señalado, el Director de Finanzas Municipal firmará la escritura o documentos relativos en rebeldía de aquél. Lo que hará del conocimiento de la oficina del Registro Público de la Propiedad y del Comercio para los efectos procedentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En caso de abstención del titular de los créditos embargados, transcurrido el plazo señalado, el Secretario de Finanzas Municipal firmará la escritura o documentos relativos en rebeldía de aquél. Lo que hará del conocimiento de la oficina del Registro Público de la Propiedad y del Comercio para los efectos procedentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 105.
 
-El dinero, metales preciosos, y valores mobiliarios embargados, se entregará por el depositario a la Dirección de Finanzas Municipal, previo inventario, dentro de un plazo que no excederá de veinticuatro horas.
+El dinero, metales preciosos, y valores mobiliarios embargados, se entregará por el depositario a la Secretaría de Finanzas Municipal, previo inventario, dentro de un plazo que no excederá de veinticuatro horas. Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicará a cubrir el crédito fiscal al recibirse en la caja de las oficinas de la Secretaría de Finanzas.
 
 Las sumas de dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicará a cubrir el crédito fiscal al recibirse en la caja de las oficinas de la Dirección de Finanzas.
 
@@ -1175,11 +1227,15 @@ Las sumas de dinero objeto del embargo, así como la cantidad que señale el pro
 
 Si el deudor o cualquiera otra persona impidieran materialmente al ejecutor el acceso al domicilio de aquél, o al lugar en que se encuentren los bienes, siempre que en el caso lo requiera, el ejecutor solicitará el auxilio de la policía o de otra fuerza pública para llevar adelante el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 107.
 
-Si durante el embargo la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas que se embargaren o donde se presuma que existen bienes muebles embargables, el ejecutor, previo acuerdo fundado del Director de Finanzas Municipal, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
+Si durante el embargo la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas que se embargaren o donde se presuma que existen bienes muebles embargables, el ejecutor, previo acuerdo fundado del Secretario de Finanzas Municipal, hará que ante dos testigos sean rotas las cerraduras que fuere necesario, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guarden dinero, objetos de arte u otros bienes embargables; pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la Dirección de Finanzas Municipal, donde serán abiertos en el término de tres días por el deudor o su representante legal, y en caso contrario por un experto designado por la oficina para que los abra en presencia de dos testigos designados previamente por la autoridad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriere los muebles en los que aquél suponga se guarden dinero, objetos de arte u otros bienes embargables; pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la Secretaría de Finanzas Municipal, donde serán abiertos en el término de tres días por el deudor o su representante legal, y en caso contrario por un experto designado por la oficina para que los abra en presencia de dos testigos designados previamente por la autoridad.
 
 El ejecutor levantará un acta haciendo constar el inventario completo de los bienes, la cual deberá ser firmada por él, los testigos y el depositario designado. En la propia oficina quedará a disposición del deudor una copia del acta a que se refiere este párrafo.
 
@@ -1191,17 +1247,25 @@ Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos uni
 
 Cuando las autoridades fiscales municipales embarguen negociaciones, el depositario designado tendrá el carácter de interventor con cargo a la caja o de administrador.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 109.
 
-El interventor encargado de la caja, después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere esta Ley, deberá retirar de la negociación intervenida el 25% de los ingresos en dinero y enterarlos en la Dirección de Finanzas Municipal, diariamente o a medida que se efectúe la recaudación.
+El interventor encargado de la caja, después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere esta Ley, deberá retirar de la negociación intervenida el 25% de los ingresos en dinero y enterarlos en la Secretaría de Finanzas Municipal, diariamente o a medida que se efectúe la recaudación.
 
-Cuando el interventor tenga Conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco municipal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses, y dará cuenta de ello al Director de Finanzas Municipal, quien podrá ratificarlas o modificarlas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, el Director de Finanzas Municipal ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación conforme a esta Ley y las demás disposiciones legales aplicables.
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco municipal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses, y dará cuenta de ello al Secretario de Finanzas Municipal, quien podrá ratificarlas o modificarlas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, el Secretario de Finanzas Municipal ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación conforme a esta Ley y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 110.
 
-El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la Ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistirse de éstas últimas, previo acuerdo del Director de Finanzas Municipal, así como para otorgar poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la Ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistirse de éstas últimas, previo acuerdo del Secretario de Finanzas Municipal, así como para otorgar poderes generales o especiales que juzgue convenientes, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
 
 El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o participes.
 
@@ -1211,9 +1275,13 @@ Tratándose de negociaciones que no constituyan una sociedad, el interventor adm
 
 El interventor administrador tendrá las siguientes obligaciones:
 
-I. Rendir cuentas mensuales comprobadas al Director de Finanzas Municipal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Recaudar el 25% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la Dirección de Finanzas a medida que se efectúe la recaudación, para que se aplique en los términos previstos en esta Ley.
+I. Rendir cuentas mensuales comprobadas al Secretario de Finanzas Municipal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Recaudar el 25% de las ventas o ingresos diarios en la negociación intervenida y entregar su importe en la Secretaría de Finanzas a medida que se efectúe la recaudación, para que se aplique en los términos previstos en esta Ley.
 
 El interventor administrador no podrá enajenar los bienes del activo fijo, salvo que se den supuestos de enajenación de la negociación intervenida, y entonces se procederá al remate de conformidad con las disposiciones contenidas en esta Ley.
 
@@ -1249,9 +1317,11 @@ II. Cuando el embargado no proponga comprador dentro del plazo previsto en esta 
 
 III. Al quedar firme la resolución confirmatoria del acto impugnado, recaída en los medios de defensa que se hubiere hecho valer.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 118.
 
-Salvo los casos que esta Ley autoriza, toda enajenación se hará en subasta pública que se celebrará en el local que designe la Dirección de Finanzas Municipal, o que puedan venderse en lotes o piezas sueltas.
+Salvo los casos que esta Ley autoriza, toda enajenación se hará en subasta pública que se celebrará en el local que designe la Secretaría de Finanzas Municipal, o que puedan venderse en lotes o piezas sueltas.
 
 ###### ARTÍCULO 119.
 
@@ -1261,9 +1331,11 @@ Los remates que se celebren en contravención a lo dispuesto en la presente ley,
 
 No obstante lo anterior, las autoridades no fiscales mencionadas, podrán embargar el remanente que llegado el caso, resulte del remate administrativo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 120.
 
-La base para la enajenación de los bienes embargados, será la que resulte del avalúo pericial, que será practicado por el perito autorizado por el Director de Finanzas Municipal, y deberá ser notificado personalmente al embargado y terceros acreedores, en su caso. La designación del perito recaerá en persona legalmente facultada para el efecto.
+La base para la enajenación de los bienes embargados, será la que resulte del avalúo pericial, que será practicado por el perito autorizado por el Secretario de Finanzas Municipal, y deberá ser notificado personalmente al embargado y terceros acreedores, en su caso. La designación del perito recaerá en persona legalmente facultada para el efecto.
 
 ###### ARTÍCULO 121.
 
@@ -1273,7 +1345,9 @@ Para proceder al remate de bienes inmuebles, derechos reales o posesorios y de n
 
 El remate deberá ser convocado para una fecha dentro de los 30 días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos 10 días antes de la fecha del remate.
 
-La convocatoria se fijará en los sitios visibles y usuales de Dirección de Finanzas Municipal, en el domicilio del deudor fiscal municipal, y en los lugares públicos que se juzgue conveniente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La convocatoria se fijará en los sitios visibles y usuales de (sic) Secretaría de Finanzas Municipal, en el domicilio del deudor fiscal municipal, y en los lugares públicos que se juzgue conveniente.
 
 ###### ARTÍCULO 123.
 
@@ -1291,11 +1365,15 @@ V. Importe del adeudo y sus accesorios; y
 
 VI. Nombre de los acreedores que hayan aparecido del certificado de gravámenes a que se refiere el Artículo siguiente si, por carecer de sus domicilios, la oficina ejecutora no pudo notificarlos personalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 124.
 
-Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, serán citados para el acto de remate, en forma personal, si la Dirección de Finanzas Municipal conoce sus domicilios, en caso contrario se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
+Los acreedores que aparezcan en el certificado de gravámenes correspondiente a los últimos diez años, serán citados para el acto de remate, en forma personal, si la Secretaría de Finanzas Municipal conoce sus domicilios, en caso contrario se tendrá como citación la que se haga en las convocatorias en que se anuncie el remate, en las que deberá expresarse el nombre de los acreedores.
 
-Los acreedores citados tendrán derecho a concurrir al remate y hacer las observaciones que estimen pertinentes, que serán resueltas por la Dirección de Finanzas Municipal en el acto de la diligencia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Los acreedores citados tendrán derecho a concurrir al remate y hacer las observaciones que estimen pertinentes, que serán resueltas por la Secretaría de Finanzas Municipal en el acto de la diligencia.
 
 ###### ARTÍCULO 125.
 
@@ -1305,11 +1383,15 @@ Mientras no se finque el remate, el embargado puede proponer comprador que ofrez
 
 Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 127.
 
-Para tener derecho a comparecer como postor en un remate, deberá formularse escrito en el que se haga la postura, debiendo hacer depósito por el importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria en la Dirección de Finanzas Municipal.
+Para tener derecho a comparecer como postor en un remate, deberá formularse escrito en el que se haga la postura, debiendo hacer depósito por el importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria en la Secretaría de Finanzas Municipal.
 
-El importe de los depósitos que se constituyan, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden del Director de Finanzas Municipal, se devolverán los depósitos a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+El importe de los depósitos que se constituyan, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden del Secretario de Finanzas Municipal, se devolverán los depósitos a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
 ###### ARTÍCULO 128.
 
@@ -1319,35 +1401,49 @@ I. Cuando se trate de personas físicas, el nombre, edad, nacionalidad, capacida
 
 II. Las cantidades que se ofrezcan y la forma de pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 129.
 
-El día y la hora señalados en la convocatoria para que efectúe el remate, el Director de Finanzas Municipal, después de pasar lista de las personas que hubieren presentado postura, hará saber a las que estén presentes cuáles posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada.
+El día y la hora señalados en la convocatoria para que efectúe el remate, el Secretario de Finanzas Municipal, después de pasar lista de las personas que hubieren presentado postura, hará saber a las que estén presentes cuáles posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada.
 
-El Director de Finanzas Municipal fincará el remate a favor de quien hubiere hecho la mejor postura.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+El Secretario de Finanzas Municipal fincará el remate a favor de quien hubiere hecho la mejor postura.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 130.
 
-Cuando el postor, en cuyo favor se hubiere fincado un remate, no cumpla con las obligaciones que contraiga y las que esta Ley señala, perderá el importe del depósito que hubiere constituido y se aplicará por las oficinas ejecutoras a favor de la Dirección de Finanzas Municipal, como gastos de ejecución. En este caso se reanudarán las almonedas en la forma y plazos que señalan los Artículos respectivos de esta Ley.
+Cuando el postor, en cuyo favor se hubiere fincado un remate, no cumpla con las obligaciones que contraiga y las que esta Ley señala, perderá el importe del depósito que hubiere constituido y se aplicará por las oficinas ejecutoras a favor de la Secretaría de Finanzas Municipal, como gastos de ejecución. En este caso se reanudarán las almonedas en la forma y plazos que señalan los Artículos respectivos de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 131.
 
-Fincado el remate de bienes muebles, se aplicará el depósito constituido y el postor, dentro de los 3 días siguientes enterará en la caja de la Dirección de Finanzas Municipal, el saldo de la cantidad ofrecida de contado en su postura o mejoras.
+Fincado el remate de bienes muebles, se aplicará el depósito constituido y el postor, dentro de los 3 días siguientes enterará en la caja de la Secretaría de Finanzas Municipal, el saldo de la cantidad ofrecida de contado en su postura o mejoras.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la Dirección de Finanzas Municipal procederá a entregarle los bienes que le hubiere adjudicado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la Secretaría de Finanzas Municipal procederá a entregarle los bienes que le hubiere adjudicado.
 
 Una vez adjudicados los bienes al adquirente, este deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo, se causarán derechos de resguardo a partir del día siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 132.
 
-Fincado el remate de bienes inmuebles o negociaciones, se aplicará el depósito constituido; dentro de los diez días siguientes el postor enterará en las cajas de la Dirección de Finanzas Municipal el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones, se aplicará el depósito constituido; dentro de los diez días siguientes el postor enterará en las cajas de la Secretaría de Finanzas Municipal el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
 Hecho el pago a que se refiere el párrafo anterior y designado en su caso el Notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el Representante Legal del Municipio lo hará en su rebeldía.
 
 El ejecutado, aún en el caso de rebeldía, responde a la evicción y saneamiento del bien adjudicado y responderá por los vicios ocultos, según corresponda.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 133.
 
-Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Director de Finanzas Municipal dispondrá que se entregue al adquirente, dando las órdenes necesarias, aún la de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieran acreditar legalmente el uso.
+Una vez que se hubiere otorgado y firmado la escritura en que conste la adjudicación de un inmueble, el Secretario de Finanzas Municipal dispondrá que se entregue al adquirente, dando las órdenes necesarias, aún la de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieran acreditar legalmente el uso.
 
 ###### ARTÍCULO 134.
 
@@ -1367,7 +1463,9 @@ II. A falta de mejoras de la postura legal inicial; y
 
 III. En caso de posturas o mejoras iguales, por la cantidad en que se haya producido el empate.
 
-La adjudicación regulada en este Artículo sólo será válida si es aprobada por la Dirección de Finanzas Municipal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La adjudicación regulada en este Artículo sólo será válida si es aprobada por la Secretaría de Finanzas Municipal.
 
 ###### ARTÍCULO 137.
 
@@ -1381,7 +1479,9 @@ I. El embargado proponga comprador antes del día que se finque el remate, se en
 
 II. Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
 
-III. Se trate de bienes que habiendo salido a remate en la primera almoneda, no se hubieran presentado postores. En este supuesto, el Director de Finanzas Municipal, autorizará su venta al mejor comprador, de conformidad con las disposiciones respectivas de carácter general, publicadas en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Se trate de bienes que, habiendo salido a remate en la primera almoneda, no se hubieran presentado postores. En este supuesto, el Secretario de Finanzas Municipal, autorizará su venta al mejor comprador, de conformidad con las disposiciones respectivas de carácter general, publicadas en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 139.
 
@@ -1397,9 +1497,11 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o del juicio ante la Sala Administrativa, cuando lo solicite el interesado y garantice el crédito fiscal municipal de que se trate y los posibles accesorios de los doce meses siguientes. Si al presentar el medio de defensa no se impugna la totalidad de los créditos que derivan del acto administrativo cuya ejecución fue suspendida, deberá pagarse la parte del crédito consentido con los recargos correspondientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 141.
 
-La suspensión podrá ser solicitada en cualquier tiempo ante la Dirección de Finanzas Municipal, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo. En consecuencia, se suspenderá provisionalmente el procedimiento y se concederá al interesado un plazo de cinco días para el otorgamiento de la garantía. Constituida ésta, la Dirección de Finanzas Municipal, suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva al recurso.
+La suspensión podrá ser solicitada en cualquier tiempo ante la Secretaría de Finanzas Municipal, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo. En consecuencia, se suspenderá provisionalmente el procedimiento y se concederá al interesado un plazo de cinco días para el otorgamiento de la garantía. Constituida ésta, la Secretaría de Finanzas Municipal, suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva al recurso.
 
 ###### ARTÍCULO 142.
 
@@ -1453,11 +1555,19 @@ Quedan exentos del pago de este impuesto los bienes inmuebles del dominio públi
 
 La base de este impuesto es el valor catastral de los predios o de las construcciones, en su caso.
 
-En cuanto a los predios o construcciones que no tengan valores catastrales, servirá de base el valor con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aún tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+En cuanto a los predios o construcciones que no tengan valores catastrales o estos no se encuentren actualizados, servirá de base el último valor catastral con que se encuentren fiscalmente empadronados o el valor de operación del traslado de dominio que se registre, aun tratándose de ventas con reserva de dominio, si éste es mayor que aquéllos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para los casos en que se determine el impuesto con base al valor de operación este deberá de actualizarse de conformidad a lo previsto por la Ley de Ingresos del Municipio vigente para cada ejercicio.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 148.
 
-Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Tesorería Municipal con apoyo en los elementos de que disponga, determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos de valor catastral.
+Cuando no sea posible determinar el valor catastral aplicable al inmueble, la Secretaría de Finanzas con apoyo en los elementos de que disponga, determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial, el valor así determinado surtirá los efectos de valor catastral.
 
 ###### ARTÍCULO 149.
 
@@ -1481,15 +1591,19 @@ II. Las casas-habitación, que pertenezcan a jubilados y pensionados, o al cóny
 
 Para los efectos de este Artículo, se requiere solicitud por escrito del contribuyente, a la cual deberá anexar la documentación que acredite cualquiera de las hipótesis previstas en los incisos anteriores.
 
-La solicitud con sus anexos, deberá presentarse a la Dirección de Finanzas Municipal, y una vez analizada, se emitirá el dictamen respectivo; en todo caso, la cuota mínima surtirá sus efectos a partir del año que corresponda y al en que se haya presentado la solicitud.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+La solicitud con sus anexos, deberá presentarse a la Secretaría de Finanzas Municipal, y una vez analizada, se emitirá el dictamen respectivo; en todo caso, la cuota mínima surtirá sus efectos a partir del año que corresponda y al en que se haya presentado la solicitud.
 
 ###### ARTÍCULO 151.
 
 Este impuesto deberá cubrirse por anualidad en una sola exhibición durante el primer bimestre del año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 152.
 
-Los sujetos de este impuesto están obligados a manifestar a la Dirección de Finanzas Municipal:
+Los sujetos de este impuesto están obligados a manifestar a la Secretaría de Finanzas Municipal:
 
 I. El valor manifestado de sus inmuebles;
 
@@ -1517,9 +1631,11 @@ III. Por otra circunstancia que origine una alteración de su valor con motivo d
 
 Cuando el contribuyente cubra por anualidad el impuesto a la Propiedad Raíz y posteriormente la autoridad municipal ordene la actualización del valor catastral, no podrá exigirse el pago de las diferencias que resulten del valor anterior y el que arroje la actualización, en el ejercicio fiscal en que se llevó a cabo tal actividad.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 155.
 
-La Dirección de Finanzas Municipal tendrá acción real para el cobro del Impuesto a la Propiedad Raíz y de las prestaciones accesorias a éste. En consecuencia, el procedimiento administrativo de ejecución que establece esta Ley, afectará a los inmuebles directamente.
+La Secretaría de Finanzas Municipal tendrá acción real para el cobro del Impuesto a la Propiedad Raíz y de las prestaciones accesorias a éste. En consecuencia, el procedimiento administrativo de ejecución que establece esta Ley, afectará a los inmuebles directamente.
 
 ###### ARTÍCULO 156.
 
@@ -1547,9 +1663,11 @@ En estos casos, los recibos para el pago del impuesto se expedirán en forma ind
 
 En los fraccionamientos que tengan autorización para su venta, únicamente, se actualizará el valor de los lotes que se enajenen; tratándose de la superficie restante, el valor se actualizará conforme a lo previsto en esta Ley, excluyendo la superficie no susceptible de enajenación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 162.
 
-La práctica de todo avalúo deberá ser ordenada por la Dirección de Finanzas Municipal, y será realizado por los peritos autorizados para este efecto.
+La práctica de todo avalúo deberá ser ordenada por la Secretaría de Finanzas Municipal, y será realizado por los peritos autorizados para este efecto.
 
 Los resultados del avalúo y la determinación del monto del impuesto, deberán notificarse al contribuyente, quien tendrá un plazo de quince días para realizar las aclaraciones que considere pertinentes.
 
@@ -1559,7 +1677,9 @@ La valuación se hará separadamente para el terreno y para las construcciones y
 
 En la práctica de los avalúos a que se refiere esta Ley, los peritos deberán presentarse en hora y día hábiles y se identificarán con la documentación correspondiente, en el inmueble que deba ser objeto de la valuación y mostrarán a los ocupantes la orden respectiva.
 
-Si los ocupantes se opusieran en cualquier forma a la inspección de los peritos designados para efectuar la valuación, esto se hará constar en acta circunstanciada, y se informará de tal situación al Director de Finanzas Municipal, para que se apliquen las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Si los ocupantes se opusieran en cualquier forma a la inspección de los peritos designados para efectuar la valuación, esto se hará constar en acta circunstanciada, y se informará de tal situación al Secretario de Finanzas Municipal, para que se apliquen las sanciones correspondientes.
 
 En estos casos la valuación se hará con base en los elementos de que se disponga.
 
@@ -1575,11 +1695,15 @@ II. Se realicen construcciones o mejoras; y
 
 IV. Existan inmuebles ocultos a la acción fiscal municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 165.
 
-Las autoridades judiciales o administrativas, previamente al remate de inmuebles, recabarán de la Dirección de Finanzas Municipal, un informe sobre los créditos fiscales que haya generado el inmueble en cuestión, contabilizados hasta la fecha señalada para su subasta.
+Las autoridades judiciales o administrativas, previamente al remate de inmuebles, recabarán de la Secretaría de Finanzas Municipal, un informe sobre los créditos fiscales que haya generado el inmueble en cuestión, contabilizados hasta la fecha señalada para su subasta.
 
-Si de tal informe aparecieren créditos fiscales insolutos, tales autoridades retendrán del producto del remate, la cantidad suficiente para cubrirlo, remitiéndola inmediatamente a la Dirección de Finanzas Municipal, para que se elabore y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Si de tal informe aparecieren créditos fiscales insolutos, tales autoridades retendrán del producto del remate, la cantidad suficiente para cubrirlo, remitiéndola inmediatamente a la Secretaría de Finanzas Municipal, para que se elabore y envíe el recibo correspondiente, que será entregado al adquirente del inmueble.
 
 ### CAPÍTULO II. Del Impuesto Sobre Adquisición de Inmuebles
 
@@ -1671,9 +1795,11 @@ Para los fines de esta Ley se considera que el usufructo y la nuda propiedad tie
 
 Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas que para tal efecto señale la Ley de Ingresos del Municipio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 170.
 
-·Este impuesto deberá pagarse dentro de los quince días siguientes, contados a partir de la fecha del otorgamiento del contrato o de los instrumentos en que consta la transmisión de los bienes o derechos reales, mediante declaraciones que se presentarán en la Dirección de Finanzas Municipal, en las formas oficiales autorizadas para tales efectos.
+Este impuesto deberá pagarse dentro de los quince días siguientes, contados a partir de la fecha del otorgamiento del contrato o de los instrumentos en que consta la transmisión de los bienes o derechos reales, mediante declaraciones que se presentarán en la Secretaría de Finanzas Municipal, en las formas oficiales autorizadas para tales efectos.
 
 ###### ARTÍCULO 171.
 
@@ -1687,15 +1813,19 @@ Tratándose de las partes que intervengan en la adquisición de bienes inmuebles
 
 Para enajenar cualquier bien inmueble o transmitir algún derecho real, el contribuyente deberá demostrar mediante certificado expedido por la autoridad fiscal municipal, que el inmueble objeto de la operación, está al corriente en el pago del impuesto a la Propiedad Raíz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 174.
 
-Para el efectivo pago del Impuesto Sobre Adquisición de Inmuebles, los notarios, corredores y funcionarios públicos involucrados en las actividades de traslado de dominio de inmuebles, deberán dar aviso a la Dirección de Finanzas Municipal, de los actos o contratos en que intervengan y que resultan generadores del impuesto de referencia.
+Para el efectivo pago del Impuesto Sobre Adquisición de Inmuebles, los notarios, corredores y funcionarios públicos involucrados en las actividades de traslado de dominio de inmuebles, deberán dar aviso a la Secretaría de Finanzas Municipal, de los actos o contratos en que intervengan y que resultan generadores del impuesto de referencia.
 
 Los particulares tendrán la misma obligación, si las actividades descritas en el párrafo anterior se realizan fuera del Estado de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 175.
 
-Los avisos a que se refiere el Artículo anterior, se harán en las formas aprobadas por la Dirección de Finanzas Municipal, debiendo proporcionar los datos que las mismas indiquen.
+Los avisos a que se refiere el Artículo anterior, se harán en las formas aprobadas por la Secretaría de Finanzas Municipal, debiendo proporcionar los datos que las mismas indiquen.
 
 Tratándose de operaciones sobre inmuebles, se acompañarán el plano catastral con superficie, medidas y colindancias actualizadas y el certificado que acredite que el inmueble se encuentra al corriente en el pago de los créditos fiscales que haya generado.
 
@@ -1723,23 +1853,31 @@ Es objeto de este impuesto el fraccionamiento de terrenos destinados para casa h
 
 Este impuesto se causará por metro cuadrado de superficie vendible, conforme a las cuotas establecidas anualmente en la Ley de Ingresos para el Municipio de Jesús María, Aguascalientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 180.
 
-La Secretaría de Planeación y Desarrollo Urbano del Estado de Aguascalientes, enviará a la Dirección de Finanzas Municipal el proyecto aprobado del fraccionamiento, adjuntando un plano autorizado que precise las superficies destinadas a las vías públicas, plazas, parques, jardines, mercados, escuelas, la superficie de donación y la superficie vendible.
+La Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes, enviará a la Secretaría de Finanzas Municipal el proyecto aprobado del fraccionamiento, adjuntando un plano autorizado que precise las superficies destinadas a las vías públicas, plazas, parques, jardines, mercados, escuelas, la superficie de donación y la superficie vendible.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 181.
 
-Los fraccionadores o sus representantes deberán manifestar a la Dirección de Finanzas Municipal los lotes vendidos o prometidos en venta, su ubicación y el nombre y domicilio de las personas con quienes contrataron, dentro del término de quince días siguientes a la fecha de la operación.
+Los fraccionadores o sus representantes deberán manifestar a la Secretaría de Finanzas Municipal los lotes vendidos o prometidos en venta, su ubicación y el nombre y domicilio de las personas con quienes contrataron, dentro del término de quince días siguientes a la fecha de la operación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 182.
 
-La Dirección de Finanzas Municipal, una vez que reciba la documentación a que se refiere el Artículo anterior y en un plazo no mayor de quince días, informará al fraccionador el importe del impuesto conforme a las cuotas que para cada categoría señale la ley de Ingresos del Municipio de Jesús María, Aguascalientes.
+La Secretaría de Finanzas Municipal, una vez que reciba la documentación a que se refiere el Artículo anterior y en un plazo no mayor de quince días, informará al fraccionador el importe del impuesto conforme a las cuotas que para cada categoría señale la ley de Ingresos del Municipio de Jesús María, Aguascalientes.
 
 El pago de la cuota anterior deberá hacerse dentro de los quince días siguientes a la fecha de recibida la información.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 183.
 
-Una vez pagado o garantizado el impuesto que corresponde, la Dirección de Finanzas Municipal, después de señalar la delegación y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, entregará los planos aprobados con la anotación anterior para que se proceda, en su caso, a otorgar la licencia para la ejecución de las obras de urbanización.
+Una vez pagado o garantizado el impuesto que corresponde, la Secretaría de Finanzas Municipal, después de señalar la delegación y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, entregará los planos aprobados con la anotación anterior para que se proceda, en su caso, a otorgar la licencia para la ejecución de las obras de urbanización.
 
 ###### ARTÍCULO 184.
 
@@ -1765,9 +1903,11 @@ La base para la determinación del impuesto será el ingreso que perciba por con
 
 Este impuesto se causará y liquidará conforme a las tasas que establezcan anualmente la Ley de Ingresos del Municipio de Jesús María, Aguascalientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 188.
 
-La Dirección de Finanzas Municipal podrá celebrar convenios con los contribuyentes para el pago de este impuesto, independientemente del monto de sus ingresos.
+La Secretaría de Finanzas Municipal podrá celebrar convenios con los contribuyentes para el pago de este impuesto, independientemente del monto de sus ingresos.
 
 ###### ARTÍCULO 189.
 
@@ -1795,9 +1935,11 @@ La base para la determinación del Impuesto sobre Diversiones y Espectáculos P�
 
 Este impuesto se causará y liquidará de acuerdo a las tasas que establezca anualmente la ley de Ingresos para el Municipio de Jesús María, Aguascalientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 194.
 
-La Dirección de Finanzas Municipal podrá celebrar convenios con los contribuyentes para el pago de este impuesto, independientemente del monto de sus ingresos.
+La Secretaría de Finanzas Municipal podrá celebrar convenios con los contribuyentes para el pago de este impuesto, independientemente del monto de sus ingresos.
 
 ###### ARTÍCULO 195.
 
@@ -1807,27 +1949,37 @@ I. Cuando se pueda determinar previamente el monto del impuesto, el pago se har�
 
 II. Cuando el impuesto se cause sobre el importe de los boletos vendidos o cuotas de admisión y, en general cuando el importe del gravamen no se pueda determinar con anticipación, los interventores fiscales formularán la liquidación respectiva y el impuesto se pagará al final del espectáculo y a más tardar el día siguiente hábil a juicio de la autoridad fiscal. Cuando se trate de cuota de admisión, el impuesto podrá repercutirse;
 
-III. El importe de las liquidaciones adicionales formuladas por rectificación de errores cometidos en liquidaciones anteriores o por alguna otra causa, deberá ser cubierto por los contribuyentes en la Dirección de Finanzas Municipal en un plazo no mayor de cinco días hábiles a partir de la fecha de notificación de las liquidaciones adicionales.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. El importe de las liquidaciones adicionales formuladas por rectificación de errores cometidos en liquidaciones anteriores o por alguna otra causa, deberá ser cubierto por los contribuyentes en la Secretaría de Finanzas Municipal en un plazo no mayor de cinco días hábiles a partir de la fecha de notificación de las liquidaciones adicionales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 196.
 
-La Dirección de Finanzas Municipal podrá suspender cualquier diversión o espectáculo cuando, quienes lo exploten y organicen, se nieguen a permitir que los interventores o liquidadores de la citada Dirección vigilen la entrada y recauden el impuesto que establece este Capítulo.
+La Secretaría de Finanzas Municipal podrá suspender cualquier diversión o espectáculo cuando, quienes lo exploten y organicen, se nieguen a permitir que los interventores o liquidadores de la citada Secretaría vigilen la entrada y recauden el impuesto que establece este Capítulo.
 
 ###### ARTÍCULO 197.
 
 En los casos en que legalmente proceda la devolución de la totalidad o de una parte del importe de las entradas de un espectáculo o diversión, no se causará el impuesto sobre las cantidades devueltas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 198.
 
-Cuando las personas que exploten, organicen o patrocinen diversiones o espectáculos públicos, expidan pases o invitaciones para la entrada gratuita para diversión o espectáculo, el impuesto se causará como si se hubieren vendido boletos, a menos que dichos pases o invitaciones estén autorizados con el sello de la Dirección de Finanzas Municipal.
+Cuando las personas que exploten, organicen o patrocinen diversiones o espectáculos públicos, expidan pases o invitaciones para la entrada gratuita para diversión o espectáculo, el impuesto se causará como si se hubieren vendido boletos, a menos que dichos pases o invitaciones estén autorizados con el sello de la Secretaría de Finanzas Municipal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 199.
 
-Los contribuyentes eventuales de este impuesto, deberán presentar ante la Dirección de Finanzas Municipal una solicitud de permiso en las formas oficiales aprobadas por tal Dirección, para la celebración del evento, adjuntando los boletos o tarjetas para que sean sellados o foliados, cuando menos con tres días de anticipación a la celebración del evento.
+Los contribuyentes eventuales de este impuesto, deberán presentar ante la Secretaría de Finanzas Municipal una solicitud de permiso en las formas oficiales aprobadas por tal Secretaría, para la celebración del evento, adjuntando los boletos o tarjetas para que sean sellados o foliados, cuando menos con tres días de anticipación a la celebración del evento.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 200.
 
-Los patrocinadores, explotadores de diversiones y espectáculos públicos están obligados a presentar en la Dirección de Finanzas Municipal una solicitud de permiso para diversión o espectáculo de que se trate, en las formas previamente aprobadas; asimismo deberán presentar los boletos o tarjetas de entrada para que sean sellados por la citada Dirección.
+Los patrocinadores, explotadores de diversiones y espectáculos públicos están obligados a presentar en la Secretaría de Finanzas Municipal una solicitud de permiso para diversión o espectáculo de que se trate, en las formas previamente aprobadas; asimismo deberán presentar los boletos o tarjetas de entrada para que sean sellados por la citada Secretaría.
 
 ## TÍTULO QUINTO. DE LOS DERECHOS
 
@@ -1837,9 +1989,11 @@ Los patrocinadores, explotadores de diversiones y espectáculos públicos están
 
 Los derechos por Servicios Públicos que proporcionen las diversas dependencias del Municipio de Jesús María, Aguascalientes, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el derecho, señale cosa distinta.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 202.
 
-El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos, deberá ser cubierto en la Dirección de Finanzas Municipal, o en el lugar que en forma específica señale ésta.
+El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos, deberá ser cubierto en la Secretaría de Finanzas Municipal, o en el lugar que en forma específica señale ésta.
 
 ###### ARTÍCULO 203.
 
@@ -1849,9 +2003,11 @@ La dependencia, funcionario o empleado que preste el servicio por el cual se pag
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto en los Artículos anteriores, será solidariamente responsable de su pago, sin perjuicio de las sanciones que en tal caso procedan.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 205.
 
-En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por la Dirección de Finanzas Municipal en los términos establecidos por la ley fiscal municipal, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
+En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por la Secretaría de Finanzas Municipal en los términos establecidos por la ley fiscal municipal, dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
 
 ###### ARTÍCULO 206.
 
@@ -1939,9 +2095,11 @@ IV. Cuando se trate de publicidad que mediante difusión fonética y con element
 
 Las licencias o permisos para el establecimiento de anuncios que tengan vigencia anual, podrán refrendarse pagando los derechos que se causen, de conformidad con lo dispuesto en la Ley de Ingresos para el Municipio de Jesús María, Aguascalientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 213.
 
-La autoridad municipal regulará en su Código Municipal o mediante disposiciones de carácter general publicadas en el Periódico Oficial del Estado, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.
+La autoridad municipal regulará en el Bando de Policía y Gobierno del Municipio o mediante disposiciones de carácter general publicadas en el Periódico Oficial del Estado, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
@@ -2189,23 +2347,31 @@ Los rendimientos producidos por organismos descentralizados y empresas de partic
 
 La venta de inmuebles propiedad del Municipio de Jesús María, Aguascalientes, se sujetará a las bases siguientes:
 
-I. Obtenida la autorización del Ayuntamiento, y una vez atendidas las indicaciones señaladas en la propia autorización sobre publicidad y condiciones de venta, la misma se realizará por el Director de Finanzas, con auxilio del Síndico del Ayuntamiento;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+I. Obtenida la autorización del Ayuntamiento, y una vez atendidas las indicaciones señaladas en la propia autorización sobre publicidad y condiciones de venta, la misma se realizará por el Secretario de Finanzas, con auxilio del Síndico del Ayuntamiento;
 
 II. El producto de la venta se destinará a obras útiles o necesarias en los términos que hubiere acordado el propio Ayuntamiento al decidir tal enajenación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 250.
 
-La Dirección de Finanzas Municipal llevará un registro de los inmuebles propiedad del Municipio, haciendo relación de títulos y demás características necesarias para su identificación.
+La Secretaría de Finanzas Municipal llevará un registro de los inmuebles propiedad del Municipio, haciendo relación de títulos y demás características necesarias para su identificación.
 
 Igualmente llevará un inventario de todos los bienes muebles que le pertenecen, cuyo valor exceda de la cantidad que represente veinte veces el salario mínimo general diario vigente que corresponda; elaborándose el resguardo correspondiente por cada uno de ellos. Ninguno podrá ser dado de baja sin autorización expresa del Ayuntamiento, salvo aquellos bienes muebles cuyo valor sea inferior a la cantidad antes indicada, para los cuales se elaborará el resguardo económico respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 251.
 
-Los bienes embargados por la Dirección de Finanzas Municipal, que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días a la fecha en que queden a disposición del particular así como los bienes depositados por cualquier otro motivo, causarán por concepto de almacenaje, la cuota señalada anualmente en la Ley de Ingresos del Municipio de Jesús María, Aguascalientes.
+Los bienes embargados por la Secretaría de Finanzas Municipal, que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días a la fecha en que queden a disposición del particular, así como los bienes depositados por cualquier otro motivo, causarán por concepto de almacenaje, la cuota señalada anualmente en la Ley de Ingresos del Municipio de Jesús María, Aguascalientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 252.
 
-Ingresarán además a la Dirección de Finanzas Municipal, en la cuantía respectiva, los ingresos derivados de:
+Ingresarán además a la Secretaría de Finanzas Municipal, en la cuantía respectiva, los ingresos derivados de:
 
 I. Actos lucrativos en los establecimientos de asistencia pública municipal;
 
@@ -2293,9 +2459,11 @@ Se abroga la Ley de Hacienda para el Municipio de Jesús María, Aguascalientes,
 
 Quedan sin efecto las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieren otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO CUARTO.
 
-El contenido del Artículo 166 de la presente ley, que establece la base para realizar el pago del Impuesto Sobre Adquisición de Inmuebles, se modificará para tomar como referencia el valor catastral que se establezca, en cuanto se dé a conocer por la Dirección de Finanzas Municipal, la lista definitiva de los bienes inmuebles ubicados en el Municipio de Jesús María, Aguascalientes, con tal valor.
+El contenido del Articulo 166 de la presente ley, que establece la base para realizar el pago del Impuesto Sobre Adquisición de Inmuebles, se modificará para tomar como referencia el valor catastral que se establezca, en cuanto se dé a conocer por la Secretaría de Finanzas Municipal, la lista definitiva de los bienes inmuebles ubicados en el Municipio de Jesús María, Aguascalientes, con tal valor.
 
 ###### ARTÍCULO QUINTO.
 
@@ -2408,3 +2576,11 @@ El presente Decreto entrará en vigor a los seis meses posteriores de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 271.- SE REFORMA LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES.- SE REFORMA EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 337”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia a partir del 1º de enero del año dos mil veintitrés.
