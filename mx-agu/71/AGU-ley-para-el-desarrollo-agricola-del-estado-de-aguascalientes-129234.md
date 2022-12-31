@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2021-06-28"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -393,9 +393,13 @@ II. El Consejo;
 
 III. La Secretaría de Desarrollo Rural y Agroempresarial del Estado;
 
-IV. La Coordinación General de Planeación y Proyectos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V. La Secretaría de Desarrollo Económico;
+IV. La Secretaría de Planeación, Participación y Desarrollo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 VI. La Secretaría de Finanzas;
 
@@ -403,7 +407,7 @@ VII. La Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
 VIII. La Contraloría del Estado;
 
-IX. La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
 X. La Secretaría de Salud;
 
@@ -1934,3 +1938,15 @@ P.O. 28 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES; LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS; LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES; LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; Y DIVERSOS INSTRUMENTOS NORMATIVOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
