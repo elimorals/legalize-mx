@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-educacion-de-aguascalientes-142996"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2022-04-11"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,644 +21,610 @@ state: "AGU"
 ---
 # LEY DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
-LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
+LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2014.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
-MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+EUGENIO HERNÁNDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-La LXIV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Decreto Número 340
+LA QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN EL ARTICULO 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO; Y EL ARTÍCULO 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-### CAPÍTULO I. Disposiciones Generales
+D E C R E T O No. LIX-959
 
-###### Artículo 1°.
+MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
 
-La presente Ley es de orden público y de interés social, tiene por objeto regular el funcionamiento y operación del Instituto de Educación de Aguascalientes.
+### Capítulo I. Disposiciones Generales
 
-###### Artículo 2°.
+###### Artículo 1.
 
-Para efectos de la presente Ley se entenderá por:
+1. Las presentes disposiciones son de orden público, interés social y de aplicación obligatoria en el Estado de Tamaulipas, y se dictan con base en lo dispuesto por los artículos 4, párrafo primero, de la Constitución Política de los Estados Unidos Mexicanos, y 17 fracción III de la Constitución Política del Estado.
 
-I. Consejo: Al Consejo Interior del Instituto de Educación de Aguascalientes;
+2. Esta ley complementa y desarrolla, en el ámbito estatal, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y tiene por objeto prevenir, atender, sancionar y erradicar la violencia contra las mujeres, para lo cual establece los principios y modalidades que propiciarán y asegurarán el acceso a las mujeres a una vida sin violencia, donde se favorezcan su desarrollo y bienestar.
 
-II. Director General: Al Director General del Instituto de Educación de Aguascalientes;
+3. Toda acción que se desprenda de la aplicación e interpretación de esta ley tenderá a la prevención, atención y erradicación de usos y prácticas de ejercicio de la violencia contra las mujeres, así como a su correspondiente sanción, en su caso, sea con base en sus disposiciones o en cualesquiera otras de carácter administrativo, civil o penal tendentes a dichos objetivos.
 
-III. IEA: Al Instituto de Educación de Aguascalientes;
+4. En la aplicación e interpretación de esta ley se considerarán los principios constitucionales de igualdad jurídica entre la mujer y el hombre, respeto a la dignidad humana de las mujeres, no discriminación y libertad de la mujer; así como las previsiones de la Ley General para Prevenir y Erradicar la Discriminación en el Estado de Tamaulipas.
 
-IV. Ley: A la Ley de Educación del Estado de Aguascalientes;
+###### Artículo 2.
 
-V. Ley de Entidades Paraestatales: A la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-VI. Ley de Responsabilidades Administrativas: A la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
+En la elaboración y ejecución de los planes, programas y políticas públicas del Estado y de los municipios, se procurará:
 
-VII. Reglamento: Al Reglamento Interior del Instituto de Educación de Aguascalientes.
+a) implementar mecanismos certeros que sustenten la igualdad jurídica entre mujeres y hombres;
 
-###### Artículo 3°.
+b) asegurar el respeto inquebrantable a la dignidad humana de la mujer;
 
-Las referencias o alusiones hechas en la presente ley a mujeres u hombres deberán interpretarse como referidas indistintamente a ambos sexos, sin implicar distinción o discriminación alguna.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-### CAPÍTULO II. Naturaleza, Domicilio y Objeto
+c) Evitar por todos los medios las prácticas discriminatorias, así como los actos que fomentan o reproducen estereotipos, concepciones y valores de subordinación o inferioridad de un género a otro;
 
-### CAPÍTULO II. Naturaleza, Domicilio y Objeto
+d) asegurar el pleno disfrute de los derechos y garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales suscritos por el Estado Mexicano, en beneficio de la mujer; y
 
-###### Artículo 4°.
+e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la libertad y los derechos de la mujer en su sentido más amplio.
 
-El IEA es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, el cual tendrá su domicilio legal en el Estado de Aguascalientes.
+###### Artículo 3.
 
-###### Artículo 5°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-El objeto del IEA será:
+Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
 
-I. Coordinar, dirigir y operar el Sistema Educativo Estatal, relacionado con los servicios de educación inicial, preescolar, primaria, secundaria, media superior, superior, educación normal y demás para la formación y actualización de docentes, así como la educación especial, educación para adultos y formación para el trabajo en el Estado de Aguascalientes, atendiendo a los fines de la educación contemplados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley General de Educación y la Ley;
+a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
 
-II. Impartir y garantizar la educación inicial, preescolar, primaria, secundaria, media superior y superior, en el ámbito de su competencia;
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-III. Supervisar a las instituciones de educación media superior, con el objeto de que este nivel se integre eficazmente a los niveles de educación superior y, en su caso, al mercado de trabajo; así como a las academias y demás centros de formación para el trabajo, con la finalidad de vincular al sector productivo;
+b) Física: cualquier acción u omisión que produzca un daño en la mujer, provocado por la utilización de fuerza física o algún objeto capaz de provocar una lesión interna, externa o ambas;
 
-IV. Coadyuvar en los procedimientos para la admisión, promoción y reconocimiento de maestras y maestros de conformidad con las disposiciones aplicables;
+c) Patrimonial: cualquier acción u omisión que afecte la supervivencia de la mujer. Dicha acción u omisión comprende cualquier conducta o conductas que produzcan la afectación de bienes de la mujer destinados a satisfacer sus propias necesidades, incluyéndose los daños a los bienes comunes o propios de la mujer;
 
-V. Supervisar las academias y demás centros de formación para el trabajo, registrados ante el IEA, con la finalidad de vincular al sector productivo;
+d) Económica: cualquier acción u omisión que afecte la supervivencia económica de la mujer. Dicha acción u omisión comprende cualquier limitación encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo en condiciones laborales semejantes;
 
-VI. Propiciar la coordinación y planeación de las instituciones de educación superior del Estado de Aguascalientes públicas y privadas, de conformidad con la normatividad aplicable dentro de las limitaciones que deriven de la autonomía y disposiciones jurídicas propias de las instituciones de educación superior, a fin de lograr vincular eficazmente la educación con el empleo, las necesidades regionales y el aparato productivo; y
+e) Sexual: cualquier acción que degrade o dañe el cuerpo, la integridad y libertad sexuales de la mujer. Dicha acción comprende cualquier afectación a la dignidad humana, integridad, libertad y seguridad; y
 
-VII. Vigilar que la educación que impartan los particulares en el Estado sea con estricto apego a la normatividad aplicable.
+f) Diversa: cualquier forma análoga que lesione o pueda lesionar la dignidad, integridad o libertad de la mujer.
 
-### CAPÍTULO III. Patrimonio
+### Capítulo II. Modalidades de la violencia
 
-###### Artículo 6°.
+###### Artículo 4.
 
-El patrimonio del IEA estará constituido por:
+1. Violencia familiar contra la mujer es toda acción u omisión abusiva intencional de poder dirigida a dominarla, someterla, controlarla o agredirla física, verbal, psicológica, patrimonial, económica o sexualmente, dentro o fuera del domicilio común o familiar, cuando el agresor tenga o haya tenido relación matrimonial, de concubinato, parentesco por consanguinidad o afinidad, o cualquier relación de hecho que haya implicado la convivencia en un domicilio común o familiar.
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2022)</small>
+2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres víctimas de la violencia familiar.
 
-I. Los planteles y demás bienes muebles e inmuebles destinados a la prestación del servicio público de educación en el Estado de Aguascalientes de los cuales cuentan en propiedad;
+3. Al efecto, impulsarán modelos de atención, prevención y sanción, con base en los siguientes elementos:
 
-II. Los recursos financieros y aportaciones extraordinarias que para su funcionamiento se requieran y que le serán otorgados por los Gobiernos Federal, Estatal y Municipales, según corresponda;
+a) brindar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, a efecto de favorecer la reparación del daño que se le haya producido, así como facilitarle su empoderamiento;
 
-III. Las propiedades, posesiones y derechos que adquiera por cualquier título legal;
+b) otorgar servicios de reeducación al individuo agresor de carácter integral, especializado y gratuito, para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y, en general, los patrones de comportamiento basados en la superioridad del sexo masculino;
 
-IV. Las donaciones, herencias, legados y fideicomisos que se hicieren o se constituyeren en su favor; y
+c) procurar que la atención que se otorgue tanto a la víctima como al agresor, se ejecute por persona distinta y en lugares diferentes; en particular, se favorecerá la separación y alejamiento de la víctima y su agresor; y
 
-V. Las utilidades, intereses, rendimientos de sus bienes y valores, beneficios y demás ingresos que adquiera por cualquier título legal o que obtenga en ejercicio de sus actividades.
+d) establecer inmuebles que sirvan como refugio para víctimas y sus descendientes, los cuales funcionarán gratuitamente.
 
-###### Artículo 7°.
+###### Artículo 5.
 
-Los bienes del IEA bajo el régimen del dominio público tendrán el carácter de inalienables, imprescriptibles e inembargables y, no estarán sujetos a acción reivindicatoria, de posesión definitiva, provisional o alguna otra por parte de terceros, de conformidad con lo dispuesto en la Ley de Bienes del Estado de Aguascalientes; y para cualquier acto concerniente con los bienes referidos en el presente artículo se estará a lo dispuesto por la ley de la materia referida, la Ley de Entidades Paraestatales y demás disposiciones aplicables.
+1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
 
-A fin de garantizar el buen funcionamiento del IEA, para la administración, uso, disposición, enajenación y demás actos relacionados con los bienes muebles se deberá estar a las políticas, programas y bases generales que determine el Consejo en los términos que señalen las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-###### Artículo 8°.
+2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación o todo tipo de discriminación por condiciones de género.
 
-El régimen fiscal del IEA se sujetará a lo dispuesto en las leyes de la materia, considerando en todo momento su naturaleza inminentemente social.
+3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
 
-### CAPÍTULO IV. Estructura Orgánica
+###### Artículo 6.
 
-### CAPÍTULO III. Patrimonio
+1. Violencia comunitaria contra la mujer es toda acción u omisión abusiva intencional de poder que a partir de actos individuales o colectivos que transgreden los derechos fundamentales de toda mujer, propiciando su denigración, discriminación, marginación o exclusión de carácter público.
 
-###### Artículo 9°.
+2. El Estado y los municipios adoptarán, a través de las dependencias y entidades de sus respectivas administraciones, medidas y acciones para proteger a las mujeres de la violencia en la comunidad.
 
-El IEA, para el cumplimiento de su objeto, contará con la siguiente estructura orgánica:
+3. Al efecto, impulsarán modelos de atención, prevención y sanción, sobre la base de los siguientes elementos:
 
-I. Órganos de Gobierno y Administración:
+a) promover la educación y reeducación libre de estereotipos, sobre roles o papeles sociales predeterminados o la superioridad de los varones;
 
-a. Consejo Interior; y
+b) dar seguimiento al comportamiento violento de los individuos, grupos o ámbitos de la sociedad, en perjuicio de las mujeres; y
 
-b. Dirección General;
+c) establecer un banco de datos en el cual obren las órdenes de protección y las personas sujetas a ellas, a efecto de generar el intercambio de información de las diversas instancias y, con base en sus resultados, realizar las acciones necesarias de política criminal.
 
-II. Unidades Administrativas; y
+###### Artículo 7.
 
-III. Órganos de Control y Evaluación:
+1. Violencia institucional contra la mujer es toda acción u omisión abusiva de cualquier servidor público de los órdenes estatal o municipal que la discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y disfrute de sus derechos y libertades fundamentales; así como la que pretenda obstaculizar u obstaculice el acceso de la mujer al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar las manifestaciones y modalidades de violencia conceptualizadas en esta ley.
 
-a. Órgano de Vigilancia; y
+2. En el cumplimiento de sus atribuciones, todo servidor público deberá ejercer funciones de prevención de acciones u omisiones de violencia contra la mujer. Cunado (sic) el servidor público se percate de alguna acción u omisión de esa naturaleza, deberá dar aviso a la autoridad competente para su debida atención.
 
-b. Órgano Interno de Control.
+###### Artículo 8.
 
-### CAPÍTULO V. Consejo Interior
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+1. Violencia feminicida es la forma extrema de agresión contra las mujeres por razones de género y consiste en la expresión de conductas misóginas que alienten el ejercicio de la violencia, agresiones que pueden conllevar impunidad social y del Estado e incluso culminar en la privación de la vida de la mujer o de la niña.
+
+2. Los individuos o la comunidad de determinada circunscripción territorial del Estado podrán plantear la declaratoria de alerta de violencia de género, con la finalidad de enfrentar, sancionar y erradicar la violencia feminicida.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+3. La alerta de violencia de género constituye el conjunto de acciones de las instituciones públicas del Estado para enfrentar, sancionar y erradicar la violencia feminicida en un municipio o región determinados de la entidad federativa. Los Gobiernos estatal y municipales dispondrán de las medidas para garantizar la seguridad de las mujeres y las niñas, y el cese de la violencia en su contra, para lo cual se deberá:
+
+I.- Establecer un grupo interinstitucional y multidisciplinario con perspectiva de género que brinde seguimiento a las acciones emprendidas, acorde con el motivo de dichas acciones;
+
+II.- Implementar las acciones preventivas, de seguridad o de justicia;
+
+III.- Elaborar los reportes especiales por zona y el comportamiento de los índices de violencia contra las mujeres;
+
+IV.- Asignar los recursos presupuestales necesarios para hacer frente a la contingencia de alerta de violencia de género contra las mujeres y niñas; y
+
+V.- Hacer del conocimiento público el motivo de las acciones y medidas implementadas, así como la zona territorial que abarca.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+4.- La declaratoria de alerta de violencia de género contra las mujeres, podrá emitirse por cualquier autoridad que forme parte del grupo interinstitucional referido en el párrafo anterior, cuando:
+
+a). La comisión de delitos contra la vida, la integridad personal, la libertad o la seguridad de las mujeres, alteren la paz pública en una circunscripción territorial determinada;
+
+b). Exista un agravio que impida el ejercicio pleno de los derechos humanos por parte de las mujeres;
+
+c). Lo soliciten las organizaciones de la sociedad civil, así como los organismos protectores de los derechos humanos de carácter estatal, nacional o internacionales de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+5. La solicitud de declaratoria de alerta de violencia de género se podrá presentar ante cualquier Centro de Salud, el cual deberá remitirla a la autoridad competente de manera inmediata, quien la emitirá, en caso procedente, en un plazo de 24 horas contado a partir de la recepción de la solicitud o a partir de que la autoridad haya tenido conocimiento de los hechos de violencia feminicida.
+
+### Capítulo III. De las Órdenes de Protección
+
+###### Artículo 9.
+
+1. Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, para salvaguardar sus derechos, siendo fundamentalmente precautorias y cautelares.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+2. Dichas órdenes deberá emitirlas el Juez competente, a solicitud del agente del Ministerio Público o bien a petición de la víctima, que conozca de los hechos que constituyan violencia en contra de las mujeres.
+
+3. Las órdenes de protección son de carácter personal e intransferible, pudiendo ser:
+
+a) de emergencia;
+
+b) preventivas; o
+
+c) de naturaleza meramente civil.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+
+4. Las órdenes de protección de emergencia y las preventivas tendrán una temporalidad no mayor de 15 días naturales y se emitirán dentro de las 24 horas siguientes al conocimiento de los hechos que las generan o bien de la solicitud de la víctima.
+
+5. Al momento de otorgarlas, deberá considerarse el riesgo o peligro existente; la seguridad de la víctima, y los elementos con que se cuente.
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+###### Artículo 9 Bis.
+
+El hostigamiento sexual es el ejercicio abusivo del poder en la relación de subordinación real de la víctima frente al agresor, en los ámbitos laboral, escolar o cualquier otro; se manifiesta en conductas verbales o físicas o ambas, relacionadas con la sexualidad, de connotación lasciva.
+
+El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva de hecho a un estado de indefensión y de riesgo para la victima, independientemente de que se realice en uno o varios eventos.
 
 ###### Artículo 10.
 
-El Consejo fungirá como órgano de gobierno del IEA y se integrará por los siguientes miembros:
+1. Son órdenes de protección de emergencia las siguientes:
 
-I. Titular del Poder Ejecutivo del Estado, quien lo presidirá y será suplido por el Coordinador General de Gabinete;
+a) las que determinan que el agresor deba desocupar el domicilio común o familiar donde habita la víctima, sin importar si el agresor acredita derechos reales respecto del inmueble o la titularidad de algún contrato, bastando que la víctima habite ese sitio;
 
-II. Titular de la Secretaría de Finanzas;
+b) la prohibición al agresor de acercarse al domicilio, lugar de trabajo, de estudios, y al de los ascendientes y descendientes de la víctima;
 
-III. Titular de la Secretaría de Obras Públicas;
+c) el propio reingreso de la víctima a su domicilio, hasta que se haya salvaguardado éste; y
 
-IV. Titular del Instituto de Servicios de Salud del Estado; y
+d) la prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
 
-V. Titular de la Coordinación General de Planeación y Proyectos.
+2. Son órdenes de protección preventivas las siguientes:
 
-Los miembros del Consejo durarán en su cargo durante el tiempo en que desempeñen las funciones del puesto por el cual conforman dicho Consejo.
+a) la retención de cualquier arma de fuego, cortante, punzo-cortante o punzo-contundente del agresor, sean propias o las posea con motivo de prestación de servicios lícitos;
 
-Por cada miembro propietario del Consejo se nombrará un suplente, teniendo los mismos derechos y obligaciones.
+b) la elaboración de un inventario de bienes muebles e inmuebles de propiedad o uso común, incluyendo los implementos de trabajo de la víctima;
 
-El Consejo podrá contar con un Secretario Técnico, quien será suplido por un Prosecretario, los cuales serán nombrados y removidos de conformidad con lo dispuesto en la Ley de Entidades Paraestatales y esta Ley y tendrán las facultades y obligaciones que establezca el Reglamento.
+c) el uso y disfrute de bienes muebles que se encuentren en el inmueble que sirva de domicilio a la víctima;
 
-El cargo de miembro del Consejo será honorario por lo que por su desempeño no se percibirá retribución o compensación alguna.
+d) el apoyo policial a la víctima para tener acceso seguro al momento de tomar sus pertenencias personales y las de sus descendientes;
 
-### CAPÍTULO IV. Estructura Orgánica
+e) la entrega inmediata de los objetos de uso personal y documentos de identidad de la víctima y de sus descendientes;
+
+f) el auxilio policial en favor de la víctima, con autorización para ingresar a su domicilio en su ayuda; y
+
+g) brindar servicios de reeducación de carácter integral, especializado y gratuito, con perspectiva de género al agresor, en instituciones públicas debidamente acreditadas.
+
+3. Son órdenes de protección de naturaleza civil las siguientes:
+
+a) la suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
+
+b) la prohibición al agresor de enajenar o gravar bienes de su propiedad cuando se trate de domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+
+c) la posesión exclusiva de la víctima sobre el inmueble que sirve como domicilio particular; y
+
+d) la garantía de otorgar pensión alimenticia provisional e inmediata.
+
+4. Las órdenes de protección de naturaleza civil ameritan simultáneamente la promoción por la vía civil que corresponda al hecho de que se trate, sin demérito de que los titulares de los órganos jurisdiccionales valoren las órdenes de protección dictadas previamente o, en su caso, en ejercicio de sus atribuciones determinen las medidas pertinentes, pero siempre prefiriéndose las que brinden mayor protección a la víctima.
+
+### Capítulo IV. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 ###### Artículo 11.
 
-El Consejo, además de las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales, tendrá las siguientes:
+1. El Estado y los municipios se coordinarán para la integración y funcionamiento del Sistema Estatal, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
 
-I. Emitir acuerdos de delegación de facultades, siempre y cuando se trate de facultades delegables, a quienes estime necesario para una eficiente organización y funcionamiento del IEA;
+2. Las medidas que se implementen para logar (sic) su objeto deberán ser ajenas a cualquier práctica discriminatoria.
 
-II. Aprobar los planes de trabajo, presupuesto, informes de actividades y estados financieros que le presente el Director General;
+3. El Sistema Estatal se integrará con los titulares de:
 
-III. Aprobar el Reglamento y la organización general del IEA, los criterios básicos en la prestación de los servicios educativos, así como reglamentos, decretos, acuerdos, manuales, reglas de operación, lineamientos, normas o las reformas que se le hicieran a los instrumentos jurídicos existentes;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-IV. Nombrar y remover a propuesta del Director General, a los servidores públicos del IEA que ocupen cargos en el segundo nivel jerárquico inferior al de aquél;
+a) El Gobernador del Estado, quien lo presidirá;
 
-V. Nombrar y remover a propuesta del Presidente, al Secretario Técnico del Consejo y, a propuesta del Director General al Prosecretario;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-VI. Aprobar los proyectos de inversión que se propongan;
+b) La Secretaría de Desarrollo Social;
 
-VII. Autorizar la solicitud de actos de dominio en términos de la Ley de Bienes del Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-VIII. Autorizar la creación de comisiones, comités, consejos y figuras similares de carácter consultivo y de apoyo; y
+c) La Secretaría General de Gobierno;
 
-IX. Las demás que sean necesarias para el adecuado ejercicio de las facultades señaladas y el cumplimiento del objeto del IEA, así como las que establezcan otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
 
-Las atribuciones establecidas en el artículo 41 de la Ley de Entidades Paraestatales, serán facultades indelegables del Consejo.
+d) La Secretaría del Trabajo y Asuntos Jurídicos;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+e) La Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+f) La Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+g) La Secretaría de Seguridad Pública;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+h) La Procuraduría General de Justicia;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+i) El Instituto de la Mujer Tamaulipeca, quien ocupará la Secretaría Ejecutiva del Sistema;
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+j) Los Sistemas para el Desarrollo Integral de la Familia del Estado y de los municipios; y
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+k) Los Institutos de la Mujer de los Municipios o las unidades administrativas con funciones similares;
+
+4. A su vez, el Sistema Estatal se coordinará con el Sistema Nacional en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y considerará las directrices que promueva en la materia, a fin de implementar acciones para ejercerlas en su ámbito de competencia.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2014.)</small>
+
+5. Las ausencias del Gobernador serán suplidas por el Secretario de Desarrollo Social, los demás integrantes del Sistema nombrarán a su respectivo suplente, quien deberá desempeñar una función del nivel administrativo inmediato inferior.
 
 ###### Artículo 12.
 
-El Consejo celebrará sesiones ordinarias trimestrales, así como las extraordinarias que se requieran, en los términos que establezcan la Ley de Entidades Paraestatales y el Reglamento.
+1. El Sistema Estatal impulsará el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a que se refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y sus acciones se realizarán en concordancia a los preceptos de ese ordenamiento, enriqueciéndolos, en su caso, con las premisas y circunstancias que deriven de los aspectos culturales y las costumbres en determinada región que sean útiles para salvaguardar el propósito de la presente ley estatal.
 
-El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros.
+2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres.
 
-En las sesiones del Consejo, todos los miembros contarán con derecho a voz y voto en los asuntos que se sometan a su consideración, en caso de empate en la deliberación de algún asunto el Presidente del Consejo tendrá voto de calidad.
-
-El Secretario Técnico del Consejo y el Prosecretario tendrán solo derecho a voz pero no a voto en todas las sesiones que se lleven a cabo.
-
-A las sesiones del Consejo asistirán el Director General y el Comisario Público con voz pero sin voto.
-
-Además, el Consejo podrá invitar a sus sesiones a quien considere conveniente a fin de tratar algún asunto de su competencia, invitados que sólo tendrán derecho a voz.
-
-### CAPÍTULO VI. Dirección General
-
-### CAPÍTULO V. Consejo Interior
+### Capítulo V. De las atribuciones
 
 ###### Artículo 13.
 
-La Dirección General del IEA contará con un titular que será el Director General quien tendrá la representación legal del IEA, el cual será designado y removido por el Gobernador del Estado, debiendo recaer tal nombramiento en la persona que, además de contar con conocimientos y experiencia en materia educativa, reúna los requisitos establecidos en la Ley de Entidades Paraestatales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+
+1. Corresponde al Ejecutivo Estatal, por conducto de la Secretaría de Desarrollo Social:
+
+a) garantizar el pleno ejercicio de las mujeres a una vida libre de violencia, vigilando el cumplimiento de la presente ley;
+
+b) conducir la política estatal integral desde la perspectiva de género, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, considerándose al efecto los términos de la política nacional de la materia;
+
+c) fomentar el desarrollo social con una visión integral que garantice a las mujeres una vida libre de violencia;
+
+d) impulsar la promoción, el conocimiento y el respeto de los derechos humanos de las mujeres;
+
+e) contribuir al funcionamiento y consolidación del Sistema Estatal;
+
+f) efectuar acciones encaminadas a mejorar las condiciones de vida de las mujeres;
+
+g) promover políticas de igualdad de condiciones entre hombres y mujeres, que tiendan a la eliminación de las desproporciones y desequilibrio de género;
+
+h) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+i) participar en la elaboración del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres a que refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+j) promover, en coordinación con la Federación, programas y proyectos de atención, educación, derechos humanos de las mujeres y erradicación de la violencia en su contra, en los términos del Programa referido en el inciso anterior;
+
+k) difundir ampliamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y esta ley;
+
+l) revisar y evaluar la eficiencia y eficacia de los avances de las políticas públicas y los programas instrumentados en torno al respeto hacia las mujeres y su derecho a una vida libre de violencia; y
+
+m) las demás que le confieren esta ley u otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+
+2. La coordinación general de las acciones del Ejecutivo del Estado en esta materia se realizarán por la Secretaría de Desarrollo Social. A través de esta dependencia estatal, el Ejecutivo del Estado ejercerá las atribuciones que establecen las fracciones III, V, VIII, XI, XII, XIV, XV, XVI, XVII, XVIII y XIX del artículo 49 de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 14.
 
-El Director General, además de las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales, tendrá las siguientes:
+1. A la Secretaría de Seguridad Pública, le corresponde:
 
-I. Ejecutar los acuerdos y disposiciones del Consejo;
+a) instrumentar cursos de capacitación al personal administrativo y operativo, que les permita atender responsablemente los casos de violencia contra las mujeres;
 
-II. Autorizar los actos de autoridad que el Consejo ordene, delegando esa facultad en otros servidores públicos, mediante Acuerdo;
+b) integrar un archivo que contenga los antecedentes, circunstancias, acciones y resultados de los casos de violencia contra las mujeres de que conozca;
 
-III. Presentar al Consejo los informes de actividades y estados financieros en forma trimestral;
+c) formular acciones y programas de concientización orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres y la ausencia de violencia en su contra;
 
-IV. Presentar al Consejo, para su aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del IEA;
+d) proveer de la ayuda necesaria a las diversas instancias que lo soliciten, para preservar la integridad física de las mujeres;
 
-V. Proponer al Consejo el nombramiento o remoción de los servidores públicos del IEA que ocupen cargos en el segundo nivel jerárquico inferior al de él, así como expedir los nombramientos del personal según corresponda, y llevar las relaciones laborales en los términos establecidos en (sic) presente ordenamiento;
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
-VI. Proponer al Consejo la integración de comisiones de análisis de los asuntos y problemas de su competencia;
+e) celebrar convenios de colaboración, coordinación y concertación en la materia;
 
-VII. Planear, dirigir y controlar el funcionamiento del IEA con base a las instrucciones del Consejo;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-VIII. Suscribir contratos y/o convenios con las dependencias federales;
+f) tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
 
-IX. Promover la participación de los padres de familia y los sectores sociales, en apoyo a los planteles educativos y supervisar y evaluar la operación de los mismos;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-X. Proponer al Consejo las modificaciones a la organización y funcionamiento del IEA, así como los proyectos de iniciativa de leyes, códigos, reglamentos, decretos, acuerdos, manuales, reglas de operación, lineamientos, normas y demás necesarias a los instrumentos jurídicos existentes;
+g) establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del agresor;
 
-XI. Expedir circulares relativas a la prestación de servicios educativos, funciones, facultades, eventos y todo tipo de comunicación que deba ser del conocimiento de los servidores públicos del IEA;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-XII. Expedir certificaciones de los documentos que obren en los archivos del IEA;
+h) ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-XIV. Emitir las resoluciones administrativas de los asuntos puestos a su consideración, así como resolver sobre los recursos administrativos que se interpongan contra los actos, resoluciones y, en general, contra las determinaciones tomadas por las áreas que de él dependen, en los asuntos de su competencia;
+i) participar en el diseño, con una visión transversal, de la política estatal integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-XV. Realizar notificaciones, citaciones, emplazamientos y/o requerimientos, por si o a través del personal habilitado para ello y debidamente acreditado por funcionario competente, así como las visitas y diligencias relativas a todo tipo de procedimientos y trámites de conformidad con la normatividad aplicable;
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
 
-XVI. Llevar a cabo las acciones necesarias a fin de que las funciones de los Órganos de Control y Evaluación del IEA se realicen de acuerdo con las disposiciones legales aplicables; y
+j) establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa; y
 
-XVII. Las demás que señalen el Consejo en el ámbito de su competencia, y otras disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
 
-### CAPÍTULO VII. Unidades Administrativas
+k) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 15.
 
-La Dirección General para la atención y despacho de los asuntos de su competencia, contará con Direcciones, Coordinaciones, Subdirecciones, Jefaturas de Departamento o unidades administrativas análogas que para tal efecto autorice el Consejo; así como asesores, asistentes y demás personal conforme al presupuesto y las estructuras ocupacionales autorizadas y que sean necesarias para el buen desarrollo de funciones que le sean encomendadas.
+1. A la Procuraduría General de Justicia le corresponde:
 
-Las facultades y obligaciones de las unidades administrativas referidas en el presente artículo se regularán de manera específica en el Reglamento, Manuales de Organización y demás disposiciones aplicables según corresponda.
+a) instrumentar cursos de capacitación que provean personal profesional para atender los casos de violencia contra las mujeres;
 
-Los servidores públicos del primer nivel jerárquico inferior al del Director General, serán designados y removidos por el Gobernador del Estado.
+b) ofrecer orientación y asesoría a las mujeres víctimas de cualquier tipo o modalidad de violencia, con objeto de alentar su atención y protección;
 
-#### Sección Primera. Atribuciones Comunes de las Direcciones y Coordinaciones
+c) dictar las medidas inmediatas para que la mujer víctima de la violencia reciba atención médica de urgencia, cuando sea el caso;
+
+d) promover la cultura de respeto a los derechos humanos de las mujeres;
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+
+e) celebrar convenios de colaboración, coordinación y concertación en la materia;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+f) garantizar la seguridad de las mujeres que denuncian;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+g) proporcionar a las mujeres información objetiva que les permita tener plena conciencia de su situación de víctima;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+h) brindar a las victimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2011)</small>
+
+i) proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de victimas atendidas y demás datos que se requieran en virtud de lo establecido en la presente ley; y
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2011)</small>
+
+j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 16.
 
-Las Direcciones y Coordinaciones del IEA contarán con un titular que se denominará Director o Coordinador según sea el caso, los cuales tendrán las atribuciones comunes siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
-I. Dirigir el área a su encargo en términos de lo dispuesto por el Reglamento y demás disposiciones aplicables;
+1. A la Secretaría de Salud le corresponde:
 
-II. Acordar con el Director General la atención de los programas y el despacho de los asuntos del área a su cargo;
+a) diseñar instrumentos para la política de prevención y atención de la violencia contra la mujer, como parte integral de la política de salud destinada a las mujeres;
 
-III. Desempeñar las comisiones que el Director General les encomiende;
+b) brindar atención médica y psicológica a las mujeres víctimas de la violencia, por medio de las instituciones públicas del sector salud, sin demérito de lo que dispongan las normas de protección a las víctimas del delito;
 
-IV. Representar al IEA en los actos, comités o comisiones que se les encomiende por acuerdo expreso;
+c) proporcionar capacitación en materia de atención a las mujeres víctimas de violencia, al personal de las instancias públicas que lo soliciten;
 
-V. Emitir los dictámenes, opiniones e informes que le sean solicitados por el Director General;
+d) generar un archivo de datos que contengan los hechos relativos a violencia contra las mujeres atendidas por el sector salud, la manifestación y modalidad de violencia, sus efectos y los recursos erogados en su atención; esta información la compartirá con las instancias competentes cuando la soliciten;
 
-VI. Presentar los programas anuales al Director General;
+e) celebrar convenios de colaboración, coordinación y concertación en la materia; y
 
-VII. Informar a la Dirección General de aquellas situaciones de potencial riesgo para la estabilidad del IEA y del sistema educativo en general;
-
-VIII. Proponer el anteproyecto de Presupuesto de Egresos de la Dirección o Coordinación a su cargo, verificando la correcta y oportuna ejecución por parte de las áreas a su cargo;
-
-IX. Proponer al Director General los anteproyectos de modificación al marco jurídico de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas, en los asuntos de su competencia;
-
-X. Coadyuvar en la elaboración y actualización de los Manuales de Organización y Procedimientos del área a su cargo, quienes los remitirán al Director General para que éste a su vez los someta para su aprobación ante el Consejo;
-
-XI. Celebrar, conforme a la normatividad aplicable, los acuerdos y convenios de coordinación o colaboración administrativa con autoridades federales, entidades federativas, autoridades estales y municipales, órganos constitucionales autónomos, así como con los sectores social y privado, en el ámbito de su competencia, previa autorización del Director General;
-
-XII. Celebrar aquellos contratos que la legislación aplicable les permita siempre y cuando cuenten con poder suficiente para ello, sin transgredir las facultades que se otorgan en esta Ley y demás disposiciones aplicables;
-
-XIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-XIV. Planear, programar, dirigir, controlar y evaluar el funcionamiento de las áreas a ellos adscritas, de acuerdo con los requerimientos técnicos de la función y proponer la reorganización, fusión o desaparición de las mismas, según el caso, conforme a las disposiciones aplicables;
-
-XV. Conocer y dar seguimiento a las incidencias laborales del personal a su cargo de conformidad con la normatividad aplicable;
-
-XVI. Brindar el apoyo que les sea solicitado por las demás áreas del IEA en el ámbito de sus respectivas competencias, para la realización de sus fines comunes;
-
-XVII. Emitir las resoluciones administrativas de los asuntos puestos a su consideración, así como resolver sobre los recursos administrativos que se interpongan contra los actos, resoluciones y, en general, contra las determinaciones tomadas por las áreas que de él dependen, en los asuntos de su competencia;
-
-XVIII. Presentar anualmente al Director General, el informe de las actividades realizadas en el área a su cargo, conforme al plan de trabajo anual previamente aprobado;
-
-XIX. Dar seguimiento a las peticiones que se presenten al IEA, y que le sean canalizadas por ser de su competencia;
-
-XX. Coadyuvar con las áreas responsables de transparencia, acceso a la información pública y protección de datos personales, mejora regulatoria, así como control interno y control de riesgos del IEA para el cumplimiento y actualización de las obligaciones establecidas en la normatividad de la materia;
-
-XXI. Ser responsables de su archivo y contribuir en la clasificación de la información de su área de conformidad con la normatividad aplicable y bajo los criterios específicos de organización, clasificación y sistematización de archivos de conformidad con lo previsto en las disposiciones aplicables en la materia;
-
-XXII. Garantizar en todo momento el cumplimiento de la normatividad vigente en materia de protección de datos personales;
-
-XXIII. Realizar notificaciones, citaciones, emplazamientos y/o requerimientos, por si o a través del personal habilitado para ello y debidamente acreditado por funcionario competente, así como las visitas y diligencias relativas a todo tipo de procedimientos y trámites de conformidad con la normatividad aplicable;
-
-XXIV. Atender los requerimientos de información y auditorías de los distintos órganos fiscalizadores; y
-
-XXV. Las demás que les sean encomendadas por el Director General en asuntos propios del servicio, así como las establecidas en el Reglamento y que establezcan otras disposiciones jurídicas aplicables.
-
-#### Sección Segunda. Atribuciones Comunes de las Subdirecciones
+f) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 17.
 
-Cada una de las Subdirecciones del IEA contará con un titular que se denominará Subdirector.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
-Los Subdirectores tendrán las atribuciones comunes siguientes:
+1. A la Secretaría de Educación le corresponde:
 
-I. Organizar y conducir el área a su encargo, así como supervisar al personal adscrito a ella en términos de lo dispuesto por el Reglamento y demás disposiciones aplicables;
+a) consolidar las políticas educativas que se establezcan en el ámbito federal para prevenir la violencia contra la mujer y diseñar las políticas estatales en la materia, así como aplicarlas en el Estado;
 
-II. Acordar con su superior jerárquico la atención de los programas y el despacho de los asuntos del área a su cargo;
+b) capacitar al personal docente y administrativo en el conocimiento, respeto y difusión de los derechos de la mujer a una vida libre de violencia;
 
-III. Desempeñar las comisiones que su superior jerárquico le encomiende y por acuerdo expreso representar al IEA en los actos, comités o comisiones que le designen sus superiores;
+c) incorporar en los programas educativos la difusión y enseñanza del respeto de los derechos humanos de las mujeres;
 
-IV. Emitir los dictámenes, opiniones e informes que le sean solicitados por su superior jerárquico;
+d) implementar campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres;
 
-V. Proponer a su superior jerárquico los anteproyectos de modificación al marco jurídico de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas, en los asuntos de su competencia;
+e) garantizar acciones y mecanismos que favorezcan el progreso de las mujeres en todas las etapas del proceso educativo;
 
-VI. Coadyuvar en la elaboración y actualización de los Manuales de Organización y Procedimientos del área a su cargo;
+f) celebrar convenios de colaboración, coordinación y concertación en la materia; y
 
-VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-VIII. Conocer y dar seguimiento a las incidencias laborales del personal a su cargo, conforme la normatividad aplicable;
-
-IX. Brindar el apoyo que les sea solicitado por las demás áreas del IEA en el ámbito de sus respectivas competencias, para la realización de sus fines comunes;
-
-X. Atender las peticiones que se presenten al IEA, y que le sean canalizadas por ser de su competencia;
-
-XI. Coadyuvar con las áreas responsables de transparencia, acceso a la información pública y protección de datos personales, mejora regulatoria así como control interno y control de riesgos del IEA para el cumplimiento y actualización de las obligaciones establecidas en la normatividad de la materia;
-
-XII. Ser responsables de su archivo y contribuir en la clasificación de la información de su área de conformidad con la normatividad aplicable y bajo los criterios específicos de organización, clasificación y sistematización de archivos de acuerdo con lo previsto en las disposiciones aplicables en la materia;
-
-XIII. Garantizar en todo momento el cumplimiento de la normatividad vigente en materia de protección de datos personales;
-
-XIV. Atender los requerimientos de información y auditorías de los distintos órganos fiscalizadores; y
-
-XV. Las demás que le sean encomendadas por sus superiores jerárquicos en asuntos propios del servicio, así como las establecidas en el Reglamento y que establezcan otras disposiciones jurídicas aplicables.
-
-#### Sección Tercera. Atribuciones Comunes de las Jefaturas de Departamento
+g) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 18.
 
-Cada una de las Jefaturas de Departamento del IEA contará con un titular que se denominará Jefe de Departamento.
+1. A los Sistemas para el Desarrollo Integral de la Familia del Estado y de los Municipios, en el ámbito de sus respectivas competencias, les corresponde:
 
-Los Jefes de Departamento tendrán las atribuciones comunes siguientes:
+a) coadyuvar de manera integral, coordinada y directa al cumplimiento de las disposiciones de esta ley;
 
-I. Operar el área a su encargo y supervisar al personal adscrito a ella en términos de lo dispuesto por el Reglamento y demás disposiciones aplicables;
+b) participar activamente en el diseño de estrategias y programas que garanticen el respeto de los derechos humanos de las mujeres y promuevan la erradicación de la violencia en su contra, en los términos que se les soliciten las instancias facultadas para ello;
 
-II. Acordar con su superior jerárquico la atención de los programas y el despacho de los asuntos del área a su cargo;
+c) proveer de refugios para víctimas, así como de provisiones de alimentación indispensables para aquéllas y sus familiares, cuando así lo requieran justificadamente;
 
-III. Desempeñar las comisiones que su superior jerárquico le encomiende y por acuerdo expreso representar al IEA en los actos, comités o comisiones que le designen;
+d) promover programas de concientización de las comunidades para el respeto de los derechos humanos de la mujer;
 
-IV. Emitir los dictámenes, opiniones e informes que le sean solicitados por sus superiores jerárquicos;
+e) establecer programas regenerativos para quienes ejerzan actos de violencia contra las mujeres;
 
-V. Proponer a su superior jerárquico los anteproyectos de modificación al marco jurídico de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones jurídicas, en los asuntos de su competencia;
+f) coadyuvar en la adopción y consolidación del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-VI. Coadyuvar en la elaboración y actualización de los Manuales de Organización y Procedimientos del área a su cargo;
+g) celebrar convenios de colaboración coordinación y concertación en la materia; y
 
-VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o les correspondan por suplencia;
-
-VIII. Conocer y dar seguimiento a las incidencias laborales del personal a su cargo de conformidad con la normatividad aplicable;
-
-IX. Brindar el apoyo que les sea solicitado por las demás áreas del IEA en el ámbito de sus respectivas competencias, para la realización de sus fines comunes;
-
-X. Atender las peticiones que se presenten al IEA, y que le sean canalizadas por ser de su competencia;
-
-XI. Coadyuvar con las áreas responsables de transparencia, acceso a la información pública y datos personales, mejora regulatoria así como control interno y control de riesgos del IEA para el cumplimiento y actualización de las obligaciones establecidas en la normatividad de la materia;
-
-XII. Ser responsables de su archivo y contribuir en la clasificación de la información de su área de conformidad con la normatividad aplicable y bajo los criterios específicos de organización, clasificación y sistematización de archivos de acuerdo con lo previsto en las disposiciones aplicables en la materia;
-
-XIII. Garantizar en todo momento el cumplimiento de la normatividad vigente en materia de protección de datos personales;
-
-XIV. Atender los requerimientos de información y auditorías de los distintos órganos fiscalizadores; y
-
-XV. Las demás que le sean encomendadas por sus superiores jerárquicos en asuntos propios del servicio, así como las establecidas en el Reglamento y que establezcan otras disposiciones jurídicas aplicables.
-
-### CAPÍTULO VIII. Órgano de Vigilancia
+h) las demás que le confieran esta ley u otros ordenamientos aplicables.
 
 ###### Artículo 19.
 
-El Órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del IEA; estará integrado por un Comisario Público propietario y un suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+1. Las corporaciones policiales preventivas de los municipios del Estado cumplirán las instrucciones relacionadas con esta ley que dispongan las autoridades administrativas competentes.
+
+2. A su vez, con base en el orden jurídico aplicable, auxiliarán a las mujeres víctimas de violencia en la forma más amplia que les sea posible.
+
+3. También integrarán una base de datos que contenga todos los aspectos relacionados con la violencia en contra de las mujeres.
 
 ###### Artículo 20.
 
-El Comisario Público cuenta con facultades para evaluar el desempeño general y por funciones del IEA, realizar estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitar la información y efectuar los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente, y las que se establezcan en el Reglamento con arreglo a las facultades aquí descritas y demás disposiciones aplicables.
+1. Al Instituto de la Mujer Tamaulipeca le corresponde:
 
-Para el cumplimiento de las funciones citadas el Consejo y el Director General deberán proporcionar la información que solicite el Comisario Público del IEA y el Órgano Superior de Fiscalización del Estado, este último únicamente respecto de las cuentas públicas que le sean presentadas.
+a) fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar con (sic) la Violencia contra las Mujeres, a través de su Directora General;
 
-### CAPÍTULO IX. Órgano Interno de Control
+b) integrar los expedientes que contengan las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación de ese fenómeno;
 
-### CAPÍTULO VI. Dirección General
+c) proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que considere pertinentes, para contribuir a prevenir, atender, sancionar y erradicar la violencia en contra de las mujeres;
 
-### CAPÍTULO VII. Unidades Administrativas
+d) colaborar en el diseño y evaluación del modelo de atención a víctimas en los refugios;
 
-#### Sección Primera. Atribuciones Comunes de las Direcciones y Coordinaciones
+e) canalizar a las mujeres víctimas de la violencia a programas de reeducación de carácter integral, especializado y gratuito, con objeto de que puedan participar activamente en la vida pública, privada y social;
 
-#### Sección Segunda. Atribuciones Comunes de las Subdirecciones
+f) promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
 
-#### Sección Tercera. Atribuciones Comunes de las Jefaturas de Departamento
+g) difundir ampliamente la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia y de seguridad pública, garanticen la integridad física de quienes sean víctimas o denunciantes de violencia en contra de las mujeres.
 
-### CAPÍTULO VIII. Órgano de Vigilancia
+h) promover foros educativos, exposiciones de toda índole, programas radiofónicos o televisivos, obras de teatro, conferencias y todo método que sea útil para que la población en general conozca esta ley, los derechos humanos de la mujer y la importancia de respetarlos.
 
-### CAPÍTULO IX. Órgano Interno de Control
+i) celebrar convenios de colaboración, coordinación y concertación en la materia; y
 
-#### Sección Primera. Unidad Auditora
+j) las demás que le confieren esta ley u otros ordenamientos aplicables.
 
-#### Sección Segunda. Unidad Investigadora
+2. Para el cumplimiento de sus atribuciones, el Instituto dispondrá de los procedimientos que le otorga la ley, efectuará oportunamente las previsiones pertinentes y justificará su actuación.
 
-#### Sección Tercera. Unidad Substanciadora y Resolutora
-
-### CAPÍTULO X. Régimen Laboral
-
-### CAPÍTULO XI. Ausencias y Suplencias
-
-T R A N S I T O R I O S
-
-LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
-
-### CAPÍTULO I. Disposiciones Generales
+### Capítulo VI. De la atención y refugio para víctimas
 
 ###### Artículo 21.
 
-El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del IEA, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+1. Toda autoridad estatal o municipal, en el ámbito de sus atribuciones, deberá prestar atención a las víctimas de la violencia en contra de las mujeres. A su vez, deberá fomentar la adopción y aplicación de programas y acciones de protección a las víctimas de esos hechos.
+
+2. En su caso, dichas autoridades gestionarán la atención gratuita a las víctimas por parte de instituciones del sector salud, de carácter médico, psicológico o psiquiátrico.
+
+3. Igualmente, proveerán de refugio seguro a las víctimas de la violencia contra la mujer, en el cual disfruten de seguridad, higiene y apoyo alimentario.
 
 ###### Artículo 22.
 
-Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes unidades:
+1. En Tamaulipas las mujeres víctimas de la violencia disfrutan del derecho a:
 
-I. Unidad Auditora;
+a) recibir un trato de respeto a su integridad;
 
-II. Unidad Investigadora; y
+b) ejercer a plenitud sus derechos de toda índole;
 
-III. Unidad Substanciadora y Resolutora.
+c) obtener protección inmediata y efectiva por parte de las autoridades;
 
-Los titulares de dichas unidades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los titulares de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
+d) recibir información oportuna, suficiente y veraz para decidir sobre las opciones inherentes a su atención;
 
-El servidor público que ejerza la función de autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de autoridad Investigadora, a fin de garantizar su independencia, de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas.
+e) contar con asesoría jurídica gratuita y expedita;
 
-El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contrataría del Estado, además de las disposiciones aplicables en la materia.
+f) disfrutar de la atención y cuidados médicos que requiera;
 
-#### Sección Primera. Unidad Auditora
+g) acudir a un refugio mientras lo necesite;
+
+h) en general, a ser educadas y apreciadas socialmente con independencia de cualquier estereotipo de comportamiento y/o práctica cultural basados en prejuicios de inferioridad o subordinación.
+
+2. En caso de que la víctima tenga descendientes menores de edad, podrá incorporarlos a su refugio por el tiempo que esto sea indispensable.
+
+3. El agresor deberá participar en los programas de reeducación integral, especializada y gratuita, previa disposición de la autoridad competente conforme a los Códigos de Procedimientos Civiles y de Procedimientos Penales para el Estado.
 
 ###### Artículo 23.
 
-La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+1. Los refugios deberán estar acondicionados de tal forma que resulten sitios seguros para las mujeres víctimas de la violencia, los cuales contarán con los satisfactores básicos para su subsistencia.
 
-I. Elaborar y ejecutar, con aprobación del Consejo, el programa anual de auditorías a las diversas áreas que conforman el IEA;
-
-II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del IEA;
-
-III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas áreas que conforman el IEA;
-
-IV. Coordinar las acciones a fin de verificar que las áreas que conforman el IEA cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la Contraloría del Estado;
-
-V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
-
-VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del IEA sobre el correcto ejercicio del gasto público;
-
-VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
-
-VIII. Rendir informe trimestral al Consejo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
-
-X. Asesorar a los servidores públicos y unidades administrativas del IEA en los asuntos de su competencia;
-
-XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia;
-
-XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades del IEA y a la normatividad aplicable a la materia;
-
-XIII. Participar en los actos de entrega recepción de las unidades administrativas del IEA; y
-
-XIV. Las demás atribuciones previstas en otras disposiciones legales y reglamentarias aplicables.
-
-#### Sección Segunda. Unidad Investigadora
+2. Además, deberán disponer del personal médico, psicológico y jurídico para proporcionar apoyo, asesoría y cuidados a la víctima, según corresponda.
 
 ###### Artículo 24.
 
-La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
+1. En los refugios se deberá:
 
-I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y de probables hechos de corrupción de los servidores públicos adscritos al IEA y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+a) aplicar el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
 
-II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al IEA, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas;
+b) velar por la seguridad de las mujeres víctimas de la violencia que reciban;
 
-III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+c) proporcionar la atención médica, psicológica y jurídica necesarias para la víctima;
 
-IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+d) dar a las mujeres víctimas de la violencia, información útil para que decidan sobre sus opciones de atención;
 
-V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del IEA o bien, referidas a faltas de particulares en relación con éste;
+e) contar con personal capacitado y suficiente para brindar un servicio óptimo y expedito; y
 
-VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al IEA o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+f) dotar de todo aquello que sea necesario para la protección y atención de las mujeres víctimas de la violencia y, en su caso, de sus descendientes.
 
-VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del IEA o de los particulares, habilitando para ello al personal del área correspondiente;
-
-VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
-
-IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al IEA;
-
-X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-XII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
-
-XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
-
-XVI. Rendir informe trimestral al Consejo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
-
-XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
-
-XIX. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
-
-#### Sección Tercera. Unidad Substanciadora y Resolutora
+2. Asimismo, en los refugios se implementarán los programas reeducativos integrales, a fin de que las mujeres víctimas de la violencia puedan volver a participar con plenitud en el desarrollo de su vida cotidiana.
 
 ###### Artículo 25.
 
-La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas, y tiene las siguientes funciones:
+1. La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que subsistan los motivos de inestabilidad física, psicológica, o de riesgo inminente.
 
-I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del IEA, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
-
-Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del IEA.
-
-Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
-
-En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
-
-II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
-
-III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
-
-IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
-
-V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas;
-
-VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
-
-VII. Rendir informe trimestral al Consejo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
-
-VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
-
-IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
-
-X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
-
-XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
-
-XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
-
-XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
-
-### CAPÍTULO X. Régimen laboral
-
-###### Artículo 26.
-
-Las relaciones de trabajo entre el IEA y sus trabajadores, se regirán por el Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública y por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
-
-### CAPÍTULO XI. Ausencias y Suplencias
-
-###### Artículo 27.
-
-Las ausencias temporales o definitivas, así como las suplencias respectivas de los servidores públicos del IEA se regularán en el Reglamento, con la observancia a lo previsto en otras disposiciones legales aplicables según sea el caso.
+2. En ningún caso se podrá mantener a las mujeres víctimas de la violencia en los refugios, en contra de su voluntad.
 
 T R A N S I T O R I O S
 
+Artículo Primero. La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. El Sistema Estatal a que se refiere esta ley se integrará dentro de los cuatro meses siguientes a la entrada en vigor de esta ley.
+
+Artículo Tercero. Los recursos para cumplir con los términos de esta ley se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales y municipales involucradas, las cuales harán las debidas previsiones en la planeación y programación de los subsecuentes presupuestos de Egresos del Estado.
+
+SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 29 de junio del año 2007.- DIPUTADA PRESIDENTA.- ANASTACIA GUADALUPE FLORES VALDÉZ.- Rúbrica.- DIPUTADA SECRETARIA.- AÍDA ARACELI ACUÑA CRUZ.- Rúbrica.- DIPUTADO SECRETARIO.- ALEJANDRO CENICEROS MARTÍNEZ.- Rúbrica."
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los cuatro días del mes de julio del año dos mil siete.
+
+ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE MAYO DE 2011.
+
 ###### ARTÍCULO ÚNICO.
 
-Se expide la Ley del Instituto de Educación de Aguascalientes, en los siguientes términos:
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-ÍNDICE
+P.O. 24 DE SEPTIEMBRE DE 2013
 
 ###### ARTÍCULO PRIMERO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga la Ley del Instituto de Educación de Aguascalientes, emitida por virtud del Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, así como sus reformas y adiciones.
+Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
 
-###### ARTÍCULO TERCERO.
-
-El Instituto de Educación de Aguascalientes al que se hace mención en la presente Ley, para todo efecto a que haya lugar, es el mismo organismo público descentralizado de la Administración Pública Estatal a que se refiere la Ley del Instituto de Educación de Aguascalientes, emitida mediante el Decreto Número 182, publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 07 de junio de 1992, en consecuencia, conservará los recursos humanos, financieros y materiales.
-
-###### ARTÍCULO CUARTO.
-
-Las autoridades correspondientes deberán respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas existentes con el Sindicato Nacional de Trabajadores de la Educación, en los términos de su registro vigente, en los términos de las disposiciones legales correspondientes.
-
-###### ARTÍCULO QUINTO.
-
-Quedan sin efectos todas aquellas disposiciones que se opongan al contenido de la presente Ley.
-
-###### ARTÍCULO SEXTO.
-
-El Director General del Instituto de Educación de Aguascalientes deberá inscribir el presente ordenamiento en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
-
-###### ARTÍCULO SÉPTIMO.
-
-El Consejo Interior del Instituto de Educación de Aguascalientes deberá expedir las adecuaciones al Reglamento Interior del Instituto de Educación de Aguascalientes, a que se refiere la presente ley en un término que no exceda de 120 días naturales.
-
-###### ARTÍCULO OCTAVO.
-
-El Consejo Interior del Instituto de Educación de Aguascalientes deberá realizar las adecuaciones necesarias a la demás normatividad interna aplicable a este Organismo Descentralizado, con motivo de la entrada en vigor de la presente Ley.
-
-###### ARTÍCULO NOVENO.
-
-Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, el Consejo Interior de la Entidad Paraestatal que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
-
-Al Ejecutivo para su promulgación y publicación.
-
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los veintiún días del mes de mayo del año dos mil veinte.
-
-Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
-
-Aguascalientes, Ags., a 21 de mayo del año 2020.
-
-ATENTAMENTE.
-
-LA MESA DIRECTIVA
-
-SALVADOR PÉREZ SÁNCHEZ
-
-DIPUTADO PRESIDENTE
-
-CLAUDIA GUADALUPE DE LIRA BELTRÁN
-
-DIPUTADA PRIMERA SECRETARIA
-
-ELSA LUCIA ARMENDÁRIZ SILVA
-
-DIPUTADA SEGUNDA SECRETARIA
-
-En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de mayo de 2020.- Martín Orozco Sandoval.- Rúbrica.- La Secretaria General de Gobierno, Mtra. Siomar Eline Estrada Cruz.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 11 DE ABRIL DE 2022.
+P.O. 6 DE MARZO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 62, EL PÁRRAFO PRIMERO DEL ARTÍCULO 80, EL INCISO D) DEL ARTICULO 82, EL PÁRRAFO PRIMERO DEL ARTÍCULO 106 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 125 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6o DE LA LEY DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
