@@ -4,7 +4,7 @@ identifier: "COL-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1163
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-10"
-last_updated: "2018-12-29"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento Número 2, del Periódico Oficial del Estado de Colima, el sábado 10 de septiembre de 2016.
 
@@ -83,7 +83,9 @@ IV. La Administración Pública de los municipios, centralizada y paramunicipal,
 
 Principios de administración de recursos
 
-1. Los recursos económicos de que dispongan los sujetos obligados señalados en el artículo 1 de esta Ley serán administrados con sujeción a los principios de legalidad, imparcialidad, eficiencia, eficacia, economía, transparencia y honradez.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+1. Los recursos económicos de que dispongan los sujetos obligados señalados en el artículo 1 de esta Ley serán administrados con sujeción a los principios de legalidad, imparcialidad, equidad de género, eficiencia, eficacia, economía, transparencia y honradez.
 
 2. Los entes gubernamentales previstos en esta Ley, en materia de contabilidad gubernamental deberán llevar a cabo el registro contable de las operaciones presupuestarias y contables derivadas de las adquisiciones, servicios y arrendamientos, sujetándose a las obligaciones previstas por la Ley General de Contabilidad Gubernamental.
 
@@ -95,7 +97,9 @@ Definiciones
 
 I. Abastecimiento simultáneo: procedimiento de suministro de un mismo bien o servicio que podrá ser adjudicado de manera compartida a dos o más proveedores cuando así lo hubieran establecido en la convocatoria a la licitación, siempre que con ello no restrinjan la libre participación;
 
-II. Adjudicación directa: proceso de adquisición de bienes, arrendamientos o servicios, seleccionado bajo la responsabilidad del contratante, como excepción a la licitación pública, en el cual se determina que un solo proveedor o un grupo restringido de proveedores se adjudiquen el contrato;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Adjudicación directa: proceso de adquisición de bienes, arrendamientos o servicios, seleccionado bajo la responsabilidad del contratante, como excepción a la licitación pública, en el cual se determina que un solo proveedor o un grupo restringido de proveedores se adjudiquen el contrato; los entes gubernamentales deberán de garantizar que dentro del total de las adjudicaciones directas concedidas a un solo proveedor, al menos el 10% deberá ser para mujeres o empresas donde su conformación o puestos directivos sean mayoritariamente ocupados por mujeres, cuidando en todo momento las mejores condiciones económicas del mercado o la idoneidad de la persona o empresa para brindar u otorgar el bien, arrendamiento o el servicio de que se trate. Lo mismo aplicará en el caso del grupo restringido. Para tal efecto las personas o empresas interesadas en participar en estos procesos, deberán acreditar dichas circunstancias con la documentación respectiva;
 
 III. Arrendamiento financiero: el acto jurídico por virtud del cual la arrendadora financiera se obliga a conceder el uso o goce temporal de determinados bienes a plazo forzoso, a un sujeto obligado a observar esta ley, obligándose a pagar como contraprestación una renta, que se liquidará en pagos parciales, según se convenga, consistente en una cantidad de dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios, y adoptar al vencimiento del contrato alguna de las siguientes opciones: compra de los bienes, prórroga de contrato a precio inferior o participación en el precio de venta de los bienes;
 
@@ -119,13 +123,17 @@ XII. Informe anual de resultados: evaluación anual realizada por la Secretaría
 
 XIII. Investigación de mercado: la verificación de la existencia de bienes, arrendamientos o servicios, de proveedores a nivel estatal, nacional o internacional y del precio estimado basado en la información que se obtenga en la propia dependencia o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio, o una combinación de dichas fuentes de información;
 
-XIV. Invitación restringida: el procedimiento administrativo mediante el cual se invita a cuando menos tres personas para que, sujetándose a las bases fijadas, formulen sendas propuestas, de entre las cuales se seleccionará y aceptará la más conveniente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIV. Invitación restringida: el procedimiento administrativo mediante el cual se invita a cuando menos tres personas para que, sujetándose a las bases fijadas, formulen sendas propuestas, de entre las cuales se seleccionará y aceptará la más conveniente; dicho procedimiento deberá incluir al menos una invitación a un género distinto de los dos restantes, o, en su caso, a una empresa donde su conformación o puestos directivos sean mayoritariamente ocupados por mujeres;
 
 XV. Ley: la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima;
 
 XVI. Leyes en materia de transparencia: la Ley General de Transparencia y Acceso a la Información Pública, y la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima;
 
-XVII. Licitación pública: el procedimiento administrativo mediante el cual se realiza una convocatoria pública para que los interesados, sujetándose a las bases fijadas, formulen propuestas, de entre las cuales se seleccionará y aceptará la más conveniente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XVII. Licitación pública: el procedimiento administrativo mediante el cual se realiza una convocatoria pública para que los interesados, sujetándose a las bases fijadas, formulen propuestas, de entre las cuales se seleccionará y aceptará la más conveniente a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable del agua, optimización y uso sustentable de los recursos, así como la protección al medio ambiente, de equidad de género y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley; dicho procedimiento deberá contemplar al menos el 10% de mujeres o empresas donde su conformación o puestos directivos sean mayoritariamente ocupados por mujeres, cuidando en todo momento las mejores condiciones económicas del mercado o la idoneidad de la persona o empresa para brindar u otorgar el bien, arrendamiento o el servicio de que se trate. Para tal efecto las personas o empresas interesadas en participar en estos procesos, deberán acreditar dichas circunstancias con la documentación respectiva;
 
 XVIII. Licitante: la persona que participe en cualquier procedimiento de licitación pública o bien de invitación restringida;
 
@@ -151,21 +159,25 @@ XXVIII. Programa Estatal de Adquisiciones, Arrendamientos y Servicios del Sector
 
 XXIX Proveedor: toda persona que suministre mercancías, materias primas y demás bienes muebles, proporcione muebles en arrendamiento o preste servicios al Estado;
 
-XXX. Registro de Estudios: el registro electrónico y físico de los estudios, distintos a los estudios de mercado, derivados de los procesos de adquisiciones, arrendamientos de bienes muebles y prestación de servicios que cada ente gubernamental a que se refiere el artículo 1 deberá integrar, administrar y mantener actualizado;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXI. Reglamento de esta Ley: el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima, que expedirán el Poder Ejecutivo del Estado y los municipios, respectivamente, correspondiente a su propio ámbito de competencia y con apego a las bases previstas por esta Ley;
+XXX. Padrón de proveedores: listado de proveedores inscritos para realizar compras públicas bajo cualquier procedimiento, el cual deberá contener por lo menos el nombre de la persona física o moral, género, domicilio legal y giro comercial. En caso de ser persona moral, se asentará el nombre de su representante legal y deberá tenerse constancia que acredite el porcentaje de empleos otorgados a hombres y mujeres en la misma;
 
-XXXII. Secretaría de Administración y Gestión Pública: la Secretaría de Administración y Gestión Pública del Poder Ejecutivo del Estado de Colima;
+XXXI. Registro de Estudios: el registro electrónico y físico de los estudios, distintos a los estudios de mercado, derivados de los procesos de adquisiciones, arrendamientos de bienes muebles y prestación de servicios que cada ente gubernamental a que se refiere el artículo 1 deberá integrar, administrar y mantener actualizado;
 
-XXXIII. Secretaría de Planeación y Finanzas: la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Colima;
+XXXII. Reglamento de esta Ley: el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Colima, que expedirán el Poder Ejecutivo del Estado y los municipios, respectivamente, correspondiente a su propio ámbito de competencia y con apego a las bases previstas por esta Ley;
 
-XXXIV. Sistema Electrónico de Compras Públicas: el sistema electrónico de información gubernamental sobre adquisiciones, arrendamientos y servicios, el cual estará a cargo de la Secretaría de Administración y Gestión Pública, por conducto de la dependencia administrativa que se determine en su Reglamento Interior, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación;
+XXXIII. Secretaría de Administración y Gestión Pública: la Secretaría de Administración y Gestión Pública del Poder Ejecutivo del Estado de Colima;
 
-XXXV. Testigo Social: la persona física o moral que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley;
+XXXIV. Secretaría de Planeación y Finanzas: la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado de Colima;
 
-XXXVI. Tratados: los convenios regidos por el derecho internacional público, celebrados por escrito entre el Estado Mexicano y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asumen compromisos; y
+XXXV. Sistema Electrónico de Compras Públicas: el sistema electrónico de información gubernamental sobre adquisiciones, arrendamientos y servicios, el cual estará a cargo de la Secretaría de Administración y Gestión Pública, por conducto de la dependencia administrativa que se determine en su Reglamento Interior, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación;
 
-XXXVII. Unidades de Medida y Actualización: es la referencia económica para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales y de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores, las cuales se solventarán entregando su equivalente en moneda nacional y que tienen fundamento en el Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
+XXXVI. Testigo Social: la persona física o moral que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley;
+
+XXXVII. Tratados: los convenios regidos por el derecho internacional público, celebrados por escrito entre el Estado Mexicano y uno o varios sujetos de Derecho Internacional Público, ya sea que para su aplicación requiera o no la celebración de acuerdos en materias específicas, cualquiera que sea su denominación, mediante los cuales los Estados Unidos Mexicanos asumen compromisos; y
+
+XXXVIII. Unidades de Medida y Actualización: es la referencia económica para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales y de las entidades federativas, así como en las disposiciones jurídicas que emanen de todas las anteriores, las cuales se solventarán entregando su equivalente en moneda nacional y que tienen fundamento en el Apartado B del artículo 26 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 4.
 
@@ -435,7 +447,9 @@ Padrón de Proveedores
 
 I. La actividad;
 
-II. Los datos generales y en su caso el Registro Federal de Contribuyentes respectivo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Los datos generales contemplados en la fracción XXX del artículo 3 del presente ordenamiento y en su caso el Registro Federal de Contribuyentes respectivo;
 
 III. El historial en materia de contrataciones y su cumplimiento;
 
@@ -830,6 +844,10 @@ III. A quien oferte el precio más bajo que resulte del uso de la modalidad de o
 16. Asimismo, se otorgarán puntos a las micros, pequeñas o medianas empresas que produzcan bienes con innovación tecnológica, conforme a la constancia correspondiente emitida por el Instituto Mexicano de la Propiedad Industrial, la cual no podrá tener una vigencia mayor a cinco años. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
 17. A fin de proveer la mayor trasparencia en el proceso de evaluación de las propuestas, los entes gubernamentales deberán transmitir vía internet, en vivo, las sesiones de sus comités de adquisiciones, servicios y arrendamientos, que tengan por objeto la evaluación de las propuestas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+18. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
 ###### Artículo 41.
 
@@ -1838,3 +1856,23 @@ P.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 603 POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, EL PÁRRAFO SEGUNDO; 46, FRACCIÓN VIII; 48, FRACCIONES I Y II; 52; 60, PÁRRAFO PRIMERO; 66, PÁRRAFO PRIMERO; ASIMISMO SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 6° BIS; UNA FRACCIÓN III AL ARTÍCULO 48; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 49 DE LA LEY ESTATAL DE OBRAS PÚBLICAS; SE REFORMA LA FRACCIÓN X DEL PÁRRAFO 1 DEL ARTÍCULO 38; EL PÁRRAFO 2 DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL PÁRRAFO 1 DEL ARTÍCULO 49; EL PÁRRAFO 4 DEL ARTÍCULO 56; Y EL PÁRRAFO 1 DEL ARTÍCULO 58; ASIMISMO SE ADICIONA LA FRACCIÓN XI AL PÁRRAFO 1 DEL ARTÍCULO 38; Y LA FRACCIÓN IV AL PÁRRAFO 4 DEL ARTÍCULO 52; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 197.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el “Periódico Oficial del Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+Los entes gubernamentales sujetos a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público deberán en un plazo no mayor a 180 días contados a partir de la publicación de la presente reforma, adecuar su reglamentación correspondiente a la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Los entes gubernamentales sujetos a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público deberán promover y publicitar los alcances de la presente reforma y la institución de la acción afirmativa de igualdad sustantiva.
+
+###### ARTÍCULO CUARTO.
+
+Los entes gubernamentales sujetos a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y el H. Congreso del Estado en el ejercicio fiscal 2024 analizará el crecimiento progresivo de la cuota señalada en el presente Decreto en relación con el crecimiento del Padrón de Proveedores en materia de género, con el efecto de incrementar su porcentaje.
