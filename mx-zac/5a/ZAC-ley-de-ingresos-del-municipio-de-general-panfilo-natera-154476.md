@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-municipio-de-general-panfilo-natera-154476"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2021-12-29"
-last_updated: "2021-12-29"
+last_updated: "2022-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL MUNICIPIO DE GENERAL PÁNFILO NATERA, ZACATECAS PARA EL EJERCICIO FISCAL 2022
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022 (ABROGADA).
 
 Ley publicada en el Suplemento 32 al Número 104 del Periódico Oficial del Estado de Zacatecas, el miércoles 29 de diciembre de 2021.
 
