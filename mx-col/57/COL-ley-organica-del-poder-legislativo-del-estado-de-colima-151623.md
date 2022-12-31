@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-151623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2022-10-15"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento Núm. 4 al Núm. 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -665,7 +665,9 @@ Los recursos financieros serán suministrados a los Grupos Parlamentarios confor
 
 Los Diputados únicos, sin partido e independientes que no integre (sic) Grupo Parlamentario, tendrá (sic) derecho a recibir la parte proporcional que corresponda de la partida de apoyo financiero a que se refiere el párrafo primero de este artículo, así como a los demás apoyos de ley.
 
-Los Grupos Parlamentarios, Diputados únicos, Diputados sin partido, y Diputados independientes están obligados a destinar los recursos que se les otorguen para el cumplimiento de su encargo, y deberán rendir un informe anual de su aplicación y manejo al órgano interno de Administración y Finanzas del Congreso.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Las y los diputados están obligados a destinar los recursos que se les otorguen para el cumplimiento de su encargo y hacer las comprobaciones legales correspondientes, conforme a la legislación de la materia y en plena observancia al artículo 42 de su Reglamento.
 
 ###### Artículo 53.
 
@@ -695,7 +697,9 @@ III. Aprobar el nombramiento, destitución y cambio de adscripción de las perso
 
 IV. Formular y aprobar los lineamientos, acuerdos y demás disposiciones que rijan al interior del Congreso;
 
-V. Autorizar las condiciones generales de trabajo de los servidores públicos del Congreso, a propuesta de la Secretaría General;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Autorizar las condiciones generales de trabajo de los servidores públicos del Congreso, a propuesta de la Secretaría General; así como garantizar la igualdad salarial entre hombres y mujeres por un trabajo igual salario igual (sic);
 
 VI. Controlar y vigilar, a través de la Secretaría General, el desarrollo de las funciones de los servidores públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores por el desempeño de sus labores, a través de la Contraloría Interna, en los términos de la legislación aplicable;
 
@@ -887,13 +891,19 @@ Los integrantes de las Comisiones podrán ser removidos por incumplimiento de su
 
 Cuando se trate de reintegración o reconformación de las Comisiones, se estará a lo dispuesto en el artículo 72 de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### Artículo 74.
 
-Las Comisiones procederán a estudiar, analizar y dictaminar las iniciativas de ley, decreto y de acuerdo, así como los demás asuntos que les sean turnados por la Mesa Directiva, y presentarán por escrito su dictamen en los plazos previstos por el artículo 125 de esta Ley, que iniciarán a partir del día siguiente de recibir los expedientes respectivos.
+Las Comisiones en reuniones de trabajo de públicas o privadas procederán a estudiar, analizar y dictaminar las iniciativas de ley, decreto y de acuerdo, así como los demás asuntos que les sean turnados por la Mesa Directiva, y presentarán por escrito su dictamen en los plazos previstos por el artículo 125 de esta Ley, que iniciarán a partir del día siguiente de recibir los expedientes respectivos.
 
 ###### Artículo 75.
 
 Los presidentes de las Comisiones legislativas serán los responsables de los dictámenes que emitan. Cualquiera de los Diputados integrantes de la Legislatura podrá asistir a las reuniones de las Comisiones, en las que podrán participar únicamente con voz, y podrán tener acceso a los criterios técnicos que emitan las autoridades según correspondan, así como cualquier documento que vaya anexo al dictamen correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Cuando se celebren reuniones con el carácter de públicas, las Presidencias de las Comisiones Legislativas serán las responsables de la participación ciudadana cuando el tema así lo amerite, pudiendo estar presentes en las reuniones en las que se analicen y discutan temas que sean del interés general, para lo cual éste último tendrá derecho a hacer uso de la voz en la sesión de la Comisión, sin derecho a voto.
 
 ###### Artículo 76.
 
@@ -1548,3 +1558,15 @@ El presente Decreto, en lo que respecta a los artículos primero y segundo de la
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, en lo que respecta a su artículo tercero de la reforma a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 219.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA Y DE SU REGLAMENTO”.]
+
+###### ARTÍCULO PRIMERO
+
+El presente decreto entrará en vigor en el momento de su aprobación y deberá ser publicado en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO
+
+En lo que corresponde a la obligación del artículo 62 del Reglamento de la Ley Orgánica del Poder Legislativo, respecto a las transmisiones de las sesiones de las Comisiones Legislativas, estas se realizarán conforme a la disponibilidad presupuestaria y las plataformas digitales lo permitan.
