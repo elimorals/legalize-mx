@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-118769"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2022-01-08"
+last_updated: "2022-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ENERO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -1679,9 +1677,7 @@ I. Por la Coordinación Estatal de Protección Civil por concepto de:
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 98 A LA 100.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 36 A LA 37.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 36 A LA 37; P.O. 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 23 A LA 24; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 8 A LA 10.]</small>
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1729,63 +1725,89 @@ I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 II. La Dirección del Registro Civil:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Expedición y entrega de acta impresa en papel seguridad. $ 112.00
+a) Expedición y entrega de acta impresa en papel seguridad. $ 123.00
 
-b) Expedición y entrega de constancia de inexistencia. $112.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Trámite administrativo de aclaración de acta de registro civil. $224.00
+b) Expedición y entrega de constancia de inexistencia. $123.00
 
-d) Trámite para solicitud de actas de registro civil a oficialías del interior del Estado u otra Entidad Federativa. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-e) Autorización para registro de actas de registro civil provenientes del extranjero. $448.00
+c) Trámite administrativo de aclaración de acta de registro civil. $246.00
 
-f) Servicio de Expedición de Actas Interestatales. $224.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Trámite para solicitud de actas de registro civil a oficialías del interior del Estado u otra Entidad Federativa. $83.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+e) Autorización para registro de actas de registro civil provenientes del extranjero. $493.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+f) Servicio de Expedición de Actas Interestatales. $246.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 g) Expedición y entrega de acta en línea impresa en papel bond. $ 90.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+h) Certificación de copia fiel del libro de acta registral. $246.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+i) Anotación marginal en los libros de actos registrales. $123.00
+
 III. La Dirección de Notarías:
 
-a) Expedición de segundo testimonio por hoja. $112.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Autorización de protocolo notarial ordinario o abierto. $411.00
+a) Expedición de segundo testimonio por hoja. $123.00
 
-c) Expedición de copia certificada por hoja. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Autorización definitiva de escrituras asentadas en protocolo (sic) notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción. $299.00
+b) Autorización de protocolo notarial ordinario o abierto. $452.00
 
-e) Examen de suficiencia para aspirante a notario. $3,059.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-f) Examen de oposición para el ejercicio notarial. $4,327.00
+c) Expedición de copia certificada por hoja. $83.00
 
-g) Expedición de patente de aspirante a notario. $6,714.00
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
-h) Expedición de patente de notario. $14,696.00
+e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
-i) Registro de convenio de suplencia notarial o convenio de asociación notarial. $1,567.00
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
+
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
+
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
+
+i) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 IV. La unidad de legalización de firmas adscritas a la Coordinación General Jurídica:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Certificado de estudio $156.00
+a) Certificado de estudio. $172.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Título profesional $156.00
+b) Título profesional. $172.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) De cualquier materia $156.00
+c) De cualquier materia. $172.00
 
-d) Notarios públicos. $149.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+d) Notarios públicos. $164.00
 
-e) Apostilla de documentos $393.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+e) Apostilla de documentos. $432.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -1793,55 +1815,13 @@ V. La Dirección de Estudios Legislativos y Consultoría Legal:
 
 Por revisión de documentos que integran el expediente técnico para la elaboración de iniciativas con proyecto de Decreto que se presentarán a la Legislatura del Estado, para desincorporación o enajenación de bienes de patrimonio estatal, paraestatal, municipal y paramunicipal, así como toda documentación de cualquier ente público que remita para su debida revisión y emisión de un dictamen de valoración. $1,500.00
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-VI. Los provenientes del Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas. Estos se causarán conforme a la siguiente tarifa:
+VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-a) Por suscripción y puesta a disposición en las propias instalaciones del Periódico Oficial:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
-1. Por semestre $5,000.00
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
-2. Por año $9,000.00
-
-b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
-
-c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2019)
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-VII. Por el servicio de expedición o puesta a disposición por ejemplar:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-a) Del día ordinario. $ 20.00
-
-> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 28 DE DICIEMBRE DE 2019)</small>
-
-b) De fechas anteriores:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-1. Hasta seis meses. $ 30.00
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-2. Hasta de un año. $ 40.00
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-3. De más de un año. $ 50.00
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-c) Del día suplemento. $ 30.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-VIII. Por servicios de publicación, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción. $ 1.00
+VIII. Por servicios de publicación en el Periódico Oficial, Órgano de Gobierno del Estado Libre y Soberano de Zacatecas, por palabra de Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, causarán la siguiente cuota por inserción. $1.10
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2023,61 +2003,35 @@ Grupo A B C
 
 $1,011.00 $867.00 $722.00
 
-IV. Los derechos relativos a las licencias, originarán el pago de los importes siguientes:
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 103.]</small>
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022)
 
-Los Derechos derivados por Permisos Eventuales en los tres grupos tendrán un costo de $1,353.00, más $473.00 por cada día.
-
-A. Tratándose de Centro Nocturno o Cabaret.
-
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 103.]</small>
-
-B. Del alcohol etílico
-
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 103 A LA 104.]</small>
-
-C. Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10° G.L.:
-
-Grupo A, B, C
-
-Expedición de licencia. $2,910.00
-
-Renovación. $1,941.00
-
-Transferencia. $2,910.00
-
-Cambio de giro. $2,910.00
-
-Cambio de domicilio. $970.00
-
-Los Permisos Eventuales en los tres grupos tendrán un costo de $970.00, más $75.00 por cada día adicional.
-
-V. Los derechos a que se refiere este artículo, cuando se aludan a establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementará un 10%.
+> <small>(REFORMADA [N. DE E. CON SU TABLA], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 VI. De los permisos eventuales en el marco de la celebración de la Feria Nacional de Zacatecas, a que se refiere el artículo 30 de la Ley sobre Bebidas Alcohólicas para el Estado, tendrá el costo siguiente:
 
-Cantina o bar. $14,919.00
+Cantina o bar $ 16,411.00
 
-Centro nocturno. $22,379.00
+Centro nocturno $ 24,617.00
 
-Cervecería. $14,919.00
+Cervecería $ 16,411.00
 
-Centro botanero. $22,379.00
+Centro botanero $ 24,617.00
 
-Merendero. $22,379.00
+Merendero $ 24,617.00
 
-Discoteca. $74,597.00
+Discoteca $ 82,037.00
 
-Restaurante. $37,298.00
+Restaurante $ 41,028.00
 
-Salón o Finca para baile. $22,379.00
+Salón o Finca para baile $ 24,617.00
 
-Cenaduría. $ 7,461.00
+Cenaduría $ 8,207.00
 
-Depósito. $14,919.00
+Depósito $ 16,411.00
 
-Licorería. $14,919.00
+Licorería $ 16,411.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2115,6 +2069,10 @@ según se refiera:
 
 g) Remolque $800.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+h) Vehículo de Demostración de Agencia Autorizada $1,250.00
+
 II. Reposición de tarjeta de circulación: $ 150.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
@@ -2123,7 +2081,9 @@ III. La verificación que se realice de documentación, respecto de vehículos q
 
 IV. Baja de Placa: $150.00
 
-Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá estar cubierto el impuesto por tenencia o uso de vehículos y los derechos relativos al control vehicular, del ejercicio en que se solicite la baja respectiva, debiendo no tener adeudos de ejercicios anteriores.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá estar cubierto el impuesto por tenencia o uso de vehículos y los derechos relativos al control vehicular, del ejercicio en que se solicite la baja respectiva, debiendo no tener adeudos de ejercicios anteriores y entregar las placas vehiculares correspondientes.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2179,9 +2139,11 @@ III. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 100.
 
-El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución por día. $150.00
+El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución por día. $165.00
 
 ### CAPÍTULO CUARTO. Servicios de Catastro
 
@@ -2241,7 +2203,13 @@ d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
 > <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: $522.00
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Para efectos de esta fracción, cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 kilómetros de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional. $6.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: $574.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2249,81 +2217,137 @@ IV. Para deslinde o levantamiento topográfico de predios rústicos por cada hec
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 107 A LA 108.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41; P.O. 29 DE DICIEMBRE DE 2018, PÁGINA 29]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 40 A LA 41; P.O. 29 DE DICIEMBRE DE 2018, PÁGINA 29; P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 27; P.O. 31 DE DICIEMBRE DE 2022, PÁGINAS DE LA 13 A LA 14.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. 31 DE DICIEMBRE DE 2018, PÁGINA 27.]</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 kilómetros de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional. $6.00
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
-a) 1:100 a 1:5,000. $2163.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) 1:5,001 a 1:10,000 $1,269.00
+a) 1:100 a 1:5,000. $2.379.00
 
-c) 1:10,001 en adelante $522.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) 1:5,001 a 1:10,000. $1,396.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) 1:10,001 en adelante. $574.00
 
 VI. Certificación de acta de:
 
-a) Deslinde de predios. $299.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Ficha catastral. $299.00
+a) Deslinde de predios. $329.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Ficha catastral. $329.00
 
 VII. Certificación de plano en:
 
-a) Urbano. $299.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Rústico. $299.00
+a) Urbano. $329.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Rústico. $329.00
 
 VIII. Copia de plano:
 
-a) Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995. $373.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva. $2,163.00
+a) Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995. $410.00
 
-c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán, Trancoso y Santa María de la Paz. $1,791.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. $1,045.00
+b) Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva. $2,379.00
 
-e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. $2,313.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán, Trancoso y Santa María de la Paz. $1,970.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega. $1,150.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+e) Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones. $2,544.00
 
 IX. Expedición de planos manzaneros con impresión digital, con predios, manzanero, curvas a nivel, cuotas de crucero y nombres de calles con alcance de 1 km2:
 
-a) Escala 1:1000. $2,313.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Escala 1:2000. $1,194.00
+a) Escala 1:1000. $2,544.00
 
-c) Escala 1:5000. $672.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Escala 1:2000. $1,313.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Escala 1:5000. $739.00
 
 X. Expedición de planos manzaneros con impresión digital, con predios y nombres de calles de alcance de 1 km2:
 
-a) Escala 1:1000. $1,120.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Escala 1:2000. $821.00
+a) Escala 1:1000. $1,232.00
 
-c) Escala 1:5000. $672.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Escala 1:2000. $903.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Escala 1:5000. $739.00
 
 XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
 
-a) Certificadas hasta cinco fojas: $299.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Por cada foja excedente. $17.00
+a) Certificadas hasta cinco fojas: $329.00
 
-b) Simples, hasta 5 fojas: $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Por cada foja excedente. $17.00
+Por cada foja excedente. $19.00
 
-XII. Verificación física de inmueble. $672.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XIII. Expedición de constancias de propiedad o no propiedad. $299.00
+b) Simples, hasta 5 fojas: $83.00
 
-XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $373.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XV. Solicitud de particulares de elaboración de planos. $149.00
+Por cada foja excedente. $19.00
 
-XVI. El concepto de solicitud de búsqueda de documentos. $149.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+XII. Verificación física de inmueble. $739.00
 
-Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización de Catastro y Registro Público, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIII. Expedición de constancias de propiedad o no propiedad. $329.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $410.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XV. Solicitud de particulares de elaboración de planos. $400.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XVI. El concepto de solicitud de búsqueda de documentos. $164.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización de Catastro y Registro Público, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios.
 
 ### CAPÍTULO QUINTO. Servicios del Registro Público de la Propiedad y del Comercio
 
@@ -2331,17 +2355,27 @@ Del ingreso percibido por concepto de servicios catastrales, un 5% será destina
 
 Los servicios que presten por concepto de:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I. Calificación Registral, por testimonio o documento $59.00
+I. Calificación Registral, por testimonio o documento $70.00
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Tratándose de inmuebles con valor de hasta $281,000.00, se cubrirá una cuota de $2,280.00, por inmueble.
+a) Tratándose de inmuebles con valor de:
 
-Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $3,180.00 por inmueble. Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+1. Hasta $250,000.00, se cubrirá una cuota de $2,500.00, por inmueble.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+2. De $250,001.00 y hasta $800,000.00, se cubrirá una cuota de $3,500.00, por inmueble.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+Cuando el valor del inmueble sea superior al valor de referencia establecido en el párrafo anterior, se cubrirá la cantidad de $4,000.00 por inmueble. Para efectos del valor establecido en el párrafo anterior, éste será el mayor entre el avaluó practicado por la Dirección de Catastro y Registro Público y el documento sujeto de inscripción.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -2395,25 +2429,25 @@ c) Para los efectos de este capítulo se equiparan a la compraventa los siguient
 
 17. Tratándose de títulos otorgados por el Instituto Nacional del Suelo Sustentable e Instituto del Fondo Nacional de la Vivienda para los Trabajadores y otras instituciones oficiales similares, o por los programas que se instituyan en su lugar.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Diligencias de apeo y deslinde: $356.00
+III. Diligencias de apeo y deslinde: $423.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Capitulaciones matrimoniales: $356.00
+IV. Capitulaciones matrimoniales: $423.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $356.00
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $423.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Fusión de predios, por cada uno de los predios fusionados: $ 115.00
+VI. Fusión de predios, por cada uno de los predios fusionados: $ 141.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $121.00
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $141.00
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
@@ -2461,17 +2495,17 @@ k) Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilit
 
 l) División de copropiedad, por cada uno de los predios resultantes. $1,302.00
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $281,000.00, se cubrirá la cantidad de $1,270.00
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, cuando el monto total de lo reclamado sea hasta por la cantidad de $250,000.00, se cubrirá la cantidad de: $1,500.00
 
 Para inscripciones cuyo monto rebase el rango de valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 X. Contrato de promesa de venta, se tasará al 0.4 % sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XI. Contrato de apertura de crédito $710.00
+XI. Contrato de apertura de crédito $1,000.00
 
 > <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2020)</small>
 
@@ -2563,57 +2597,57 @@ d) Modificación al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XVII. Cancelación de inscripción o anotación: $238.00
+XVII. Cancelación de inscripción o anotación: $300.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $3,552.00
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $4,000.00
 
-XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán dentro de las 7 horas hábiles siguientes a su solicitud, adicionalmente al pago de los derechos que corresponden, se cobrará:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+XIX. Por la inscripción de documentos, expedición de certificados o de copias certificadas, solicitadas para entrega urgente, y que se expedirán en dos días hábiles; adicionalmente al pago de los derechos que corresponden, se cobrará:
 
-a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,650.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+a) Inscripción de documentos a excepción de fraccionamientos urbanos $1,815.00
 
-b) Expedición de copias y certificados $479.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Expedición de copias y certificados $527.00
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
 
 XX. Por el registro del contrato de arrendamiento, subarrendamiento o cesión de arrendamiento, se tasará al 0.35% la cantidad que dé como resultado el multiplicar la renta mensual por los años de duración de dicho contrato, en caso de que no se determine el monto del contrato, se cubrirá la cuota de: $1,365.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ###### ARTÍCULO 103.
 
-Inscripción de contrato innominado: $3,169.00
+Inscripción de contrato innominado: $3,500.00
 
 ###### ARTÍCULO 104.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I. No propiedad: $356.00
+I. No propiedad: $367.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Inscripción o no inscripción: $356.00
+II. Inscripción o no inscripción: $367.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Libertad de gravamen: $238.00
+III. Libertad de gravamen: $260.00
 
-> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. CON SU INCISO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Existencia de gravamen: $238.00
+IV. Existencia de gravamen: $260.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
-
-a) Por cada gravamen excedente: $59.00
+a) Por cada gravamen excedente: $65.00
 
 V. Certificado de Historial registral:
 
@@ -2727,9 +2761,9 @@ Si el mismo origina dos o más inscripciones, se tasarán por separado cada acto
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-Del ingreso percibido por concepto del pago de derechos por los servicios de catastro y registro público, un 5% será destinado a su modernización y para la celebración de convenios con Municipios, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios.
+Del ingreso percibido por concepto del pago de derechos por los servicios de Catastro y Registro Público, un 5% será destinado a su modernización y para la celebración de convenios con Municipios, cuyo monto deberá ser considerado como ampliación presupuestal, con independencia de lo establecido en la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios.
 
 ARTÍCULO 107 BIS. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2020)
 
@@ -2837,7 +2871,9 @@ X. Evaluación y Resolución del Impacto Vial $7,500.00
 
 XI. La Dirección de Fraccionamientos:
 
-a) Expedición de Título. $ 597.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+a) Expedición de Título. $697.00
 
 b) Constancias para el Programa de Apoyos Directos al Campo. $ 75.00
 
@@ -2879,23 +2915,59 @@ r) Elaboración de planos. $ 149.00
 
 s) Solicitudes varias. $ 224.00
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XII. La Dirección de Geodesia y Topografía:
+
+a) Plano Individual (en formato Carta, Oficio, Tabloide). $250.00
+
+b) Plano General (90x60 cms). $320.00
+
+c) Expedición de documento oficial. $150.00
+
+d) Inspección física, ocular o digital. $500.00
+
+e) Diligencias de levantamiento topográfico conforme a superficie:
+
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2022, PÁGINA 18.]</small>
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XII, P.O. 31 DE DICIEMBRE DE 2022]</small>
+
+Cuando el tamaño de la superficie exceda de los valores determinados en el último rango de la tabla, se cubrirá por cada hectárea según su tipo, la cantidad de: 50.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 109.
 
-Los servicios prestados por concepto de inscripción a concurso: $2,537.00
+Los servicios prestados por concepto de inscripción a concurso. $2,791.00
 
-I. Costo por cada disco magnético de 3.5 pulgadas que se proporcionen a los concursantes: $12.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: $75.00
+I. Costo por cada disco magnético de 3.5 pulgadas que se proporcionen a los concursantes: $13.00
 
-III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes. $5.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Por cada copia heliográfica que se proporcione: $127.00
+II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: $83.00
 
-V. Sobre tamaño legal por cada paquete de concurso: $6.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Costo por inscripción a cada licitación obra: $3,358.00
+III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes. $6.00
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos: $2,387.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Por cada copia heliográfica que se proporcione: $140.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Sobre tamaño legal por cada paquete de concurso: $7.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI. Costo por inscripción a cada licitación obra: $3,694.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos: $2,626.00
 
 ###### ARTÍCULO 110.
 
@@ -2905,13 +2977,25 @@ Las verificaciones posteriores a que se refiere el artículo anterior, deberán 
 
 Los servicios prestados por concepto de:
 
-I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social. $672.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social. $1,045.00
+I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social. $1,045.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Expedición de títulos y escrituras públicas, respecto a los programas de vivienda y programas de regularización que ejecuta la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial $3,432.00
+II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social. $1,150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+III. Expedición de títulos y escrituras públicas, respecto a los programas de vivienda y programas de regularización que ejecuta la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial $3,775.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Elaboración de constancia de trámite de escritura. $96.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Certificación de documentos, por cada foja que se proporcionen a los solicitantes. $5.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2953,6 +3037,10 @@ II. Por la autorización de instalaciones marginales dentro del derecho de vía 
 
 III. Por la autorización para construcción de accesos que afecten el derecho de vía de carreteras estatales, incluyendo la supervisión de la obra, será del 14 % sobre el costo de la misma.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Por expedición de la constancia de no afectación al Derecho de Vía Estatal. $700.00
+
 ### CAPÍTULO SÉPTIMO. Servicios de la Secretaría de la Función Pública
 
 ###### ARTÍCULO 112.
@@ -2991,29 +3079,41 @@ Los servicios prestados por concepto de:
 
 I. Expedición y/o validación de certificado, título profesional, diploma de especialidad o grado académico de egresados de instituciones educativas estatales o incorporadas:
 
-a) Certificado. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Título Profesional. $75.00
+a) Certificado. $83.00
 
-c) Diploma de Especialidad. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Grado Académico. $75.00
+b) b) (sic) Título Profesional. $83.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) c) (sic) Diploma de Especialidad. $83.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Grado Académico. $83.00
 
 II. Expedición de diplomas a egresados de:
 
-a) Academias y centros de capacitación para el trabajo. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+a) Academias y Centros de Capacitación para el Trabajo. $83.00
 
 III. Expedición de duplicados de certificados de estudios de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Primaria o secundaria. $29.00
+a) Primaria o secundaria. $32.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Academias y Centros de Capacitación para el Trabajo $75.00
+b) Academias y Centros de capacitación para el Trabajo. $83.00
 
-c) Nivel medio superior. $39.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Nivel medio superior. $43.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3021,11 +3121,13 @@ d) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 IV. Práctica de examen extraordinario de regularización.
 
-a) De educación secundaria. $12.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+a) De educación secundaria. $13.00
 
-b) De nivel medio superior, academias y Centros de Capacitación para el Trabajo $20.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) De nivel medio superior, academias y Centros de Capacitación para el Trabajo. $22.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3037,9 +3139,13 @@ V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
-a) De centros de capacitación para el trabajo o academias. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) De idiomas. $75.00
+a) De centros de capacitación para el trabajo o academias. $83.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) De idiomas. $83.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3047,23 +3153,23 @@ c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 VII. Revalidación de estudios de:
 
-a) Primaria. $17.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+a) Primaria. $19.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) SECUNDARIA. $35.00
+b) Secundaria. $39.00
 
-(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
+c) Tipo Medio Superior. $329.00
 
-d) Tipo superior. $1,045.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+d) Tipo superior. $1,150.00
 
-e) Tipo Medio Superior. $299
+e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2022)
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3079,7 +3185,9 @@ IX. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 X. CORRECCIÓN DE CERTIFICADO:
 
-a) De primaria o secundaria. $40.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+a) De primaria o secundaria. $44.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE INCISO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3089,17 +3197,21 @@ b) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 c) (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XI. Compulsa de documentos, por foja $15.00
+XI. Compulsa de documentos, por foja: $17.00
 
-XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior. $10,220.00
+XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $39.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XIV. Por solicitud, estudio y resolución de trámite de reconocimiento de validez oficial de estudio del nivel medio superior y de centros de capacitación para el trabajo, sea cual fuere la modalidad. $1,120.00
+XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior. $13,637.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIV. Por solicitud, estudio y resolución de trámite de reconocimiento de validez oficial de estudio del nivel medio superior y de centros de capacitación para el trabajo, sea cual fuere la modalidad. $1,232.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3115,37 +3227,55 @@ XVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 XVIII. Equivalencia de estudios:
 
-a) Secundaria, por grado. $35.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Tipo medio superior. $299.00
+a) Secundaria, por grado. $39.00
 
-c) Tipo superior. $1,045.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Tipo medio superior. $329.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Tipo superior. $1,150.00
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-a) De tipo inicial. $12.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) De tipo básico. $13.00
+a) De tipo inicial. $13.00
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) De tipo medio superior, academias, centros de capacitación para el trabajo, Normales y demás para la formación de maestros de educación básica $20.00
+b) De tipo básico. $14.00
 
-d) De tipo superior. $24.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XX. Registro de colegio de profesionistas. $3,866.00
+c) De tipo medio superior, academias, centros de capacitación para el trabajo, Normales y demás para la formación de maestros de educación básica $22.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXI. Registro de socios a un colegio de profesionistas $30.00
+d) De tipo superior. $26.00
 
-XXII. Registro de Título Profesional. $23.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico. $224.00
+XX. Registro de colegio de profesionistas. $4,253.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXIV. Autorización provisional para ejercer como pasante $410.00
+XXI. Registro de socios a un colegio de profesionistas $33.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXII. Registro de Título Profesional. $25.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico. $246.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXIV. Autorización provisional para ejercer como pasante. $451.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3157,41 +3287,65 @@ XXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 XXVII. Autenticación de certificados:
 
-a) Secundaria. $35.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Medio Superior. $46.00
+a) Secundaria. $39.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Centros de Capacitación para el Trabajo $ 50.00
+b) Medio Superior. $51.00
 
-XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad. $1,717.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios. $4,700.00
+c) Centros de Capacitación para el Trabajo $ 55.00
 
-XXX. Registro de Federación de Colegios de Profesionistas: $7,013.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas: $672.00
+XXVIII. Por solicitud, estudio y resolución del trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad. $1,889.00
 
-XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de Colegios de Profesionistas: $672.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas: $597.00
+XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios. $5,170.00
 
-XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas: $597.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios: $5,223.00
+XXX. Registro de Federación de Colegios de Profesionistas: $7,714.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: $1,493.00
+XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas: $739.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio de plan y programas de estudios y/o titular del reconocimiento de validez oficial de estudios, del nivel medio superior y de los centros de capacitación para el trabajo, sea cual fuera la modalidad: $1,493.00
+XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de Colegios de Profesionistas: $739.00
 
-XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial. $1,717.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XXXIX. Por solicitud, estudio y resolución de trámite de cambio de titular y/o domicilio de Educación Inicial con Registro. $1,499.00
+XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas: $657.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas: $657.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios: $5,745.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: $1,819.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio de plan y programas de estudios y/o titular del reconocimiento de validez oficial de estudios, del nivel medio superior y de los centros de capacitación para el trabajo, sea cual fuera la modalidad: $1,819.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial. $2,000.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XXXIX. Por solicitud, estudio y resolución de trámite de cambio de titular y/o domicilio de Educación Inicial con Registro. $1,819.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3201,11 +3355,17 @@ XL. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 XLI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
-XLII. Registro de peritos profesionales. $746.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XLIII. Refrendo anual de registro de peritos. $373.00
+XLII. Registro de peritos profesionales. $910.00
 
-XLIV. Registro de Institución Educativa. $3,208.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XLIII. Refrendo anual de registro de peritos. $455.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XLIV. Registro de Institución Educativa. $3,637.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3219,13 +3379,13 @@ XLVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 XLVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XLVIII. Consulta de archivo al Departamento de Certificaciones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro) $110.00
+XLVIII. Consulta de archivo al Departamento de Certificaciones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro) $121.00
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XLIX. Creación de Título Profesional, Grado Académico de Maestría y Doctorado o Diploma de Especialidad en formato electrónico $120.00
+XLIX. Creación de Título Profesional, Grado Académico de Maestría y Doctorado o Diploma de Especialidad en formato electrónico $132.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3233,15 +3393,21 @@ XLIX. Creación de Título Profesional, Grado Académico de Maestría y Doctorad
 
 L. DUPLICADO DE REVALIDACIÓN DE ESTUDIOS DE:
 
-A) PRIMARIA. $10.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-B) SECUNDARIA. $15.00
+a) Primaria. $11.00
 
-C) TIPO MEDIO SUPERIOR. $50.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+b) Secundaria. $17.00
 
-d) Tipo Superior. $65.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Tipo Medio Superior. $55.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Tipo Superior. $72.00
 
 (NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -3261,9 +3427,13 @@ c) Tipo Superior. $65.00
 
 LII. Evaluación General de Conocimientos (EGC)
 
-a) Educación Primaria. $29.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Educación Secundaria (por grados). $29.00
+a) Educación Primaria. $32.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Educación Secundaria (por grados). $32.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3281,15 +3451,37 @@ LV. Práctica de examen a título de suficiencia de Nivel Medio Superior, Academ
 
 LVI. Servicios complementarios de los Subsistemas de Preparatoria Abierta y Bachillerato a Distancia:
 
-a) Credencial $35.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Historial Académico $10.00
+a) Por la emisión de Duplicado de Credencial. $35.00
 
-c) Constancia $35.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Por expedición de Historial Académico. $10.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Por expedición de Constancias. $35.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Por Solicitud de Examen. $83.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+e) Por expedición de Duplicado de certificado de terminación de estudios. $62.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+f) Por Autentificación de certificado. $51.00
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2020)</small>
 
 LVII. Corrección de certificados de estudios de los Centros de Capacitación para el Trabajo. $ 50.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+LVIII. Por solicitud de cambio de actualización de Plan y programas de Estudios de Nivel Superior $3,500.00
 
 ### CAPÍTULO NOVENO. Servicios de la Secretaría de Administración
 
@@ -3385,17 +3577,29 @@ Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Se
 
 I. Expedición de certificados de:
 
-a) Remisión parcial de la pena. $299.00;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Libertad condicional. $448.00;
+a) Remisión parcial de la pena. $329.00;
 
-c) Indulto. $896.00;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Pre-liberación. $224.00;
+b) Libertad condicional. $493.00;
 
-e) Constancia de reinserción social y certificaciones. $75.00; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-f) Prelibertad. $149.00
+c) Indulto. $986.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Pre-liberación. $246.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+e) Constancia de reinserción social y certificaciones. $83.00; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+f) Prelibertad. $164.00
 
 ###### ARTÍCULO 118.
 
@@ -3405,39 +3609,59 @@ I. Por expedición de licencia de manejo, incluido el examen médico para tal ef
 
 > <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 122.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE DICIEMBRE DE 2019, PÁGINA 45.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. 28 DE DICIEMBRE DE 2019, PÁGINA 45; P.O. 31 DE DICIEMBRE DE 2022, PÁGINA 23. ]</small>
 
-II. Reposición de la licencia de conducir. $166.00
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Reposición de la licencia de conducir. $183.00
 
 Cuando se solicite la reposición de la licencia de conducir, se expedirá una nueva del mismo tipo, con la misma fecha de emisión y vencimiento que hubiere tenido la licencia original.
 
-III. Examen médico a conductores de vehículo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico). $224.00
+III. Examen médico a conductores de vehículos que participen o no, en un hecho de tránsito, aplicándose:
 
-b) Toxicológico. $448.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: $149.00
+a) Etílico. $246.00
 
-V. Vehículo depositado en los recintos de tránsito, por día: $38.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Gafetes para operadores del servicio público: $448.00
+b) Toxicológico. $493.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: $164.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Vehículo depositado en los recintos de tránsito, por día: $42.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI. Gafetes para operadores del servicio público: $493.00
 
 VII. Por servicio de grúa:
 
-a) Arrastre. $373.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Alcoholímetro. $624.00
+a) Arrastre. $410.00
 
-c) Arrastre resto del Estado. $400.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Alcoholímetro. $686.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) Arrastre resto del Estado. $440.00
 
 VIII. Expedición de permiso para circular sin placas:
 
 a) Por 5 días:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-1. Servicio Particular. $380
+1. Servicio Particular: $418.00
 
 2. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2018)
 
@@ -3469,9 +3693,13 @@ Los permisos expedidos no podrán otorgarse por más de 30 días naturales.
 
 IX. Permiso para carga y descarga:
 
-a) Por un día: $224.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Por treinta días: $821.00
+a) Por un día: $246.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+b) Por treinta días: $903.00
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3497,135 +3725,143 @@ XI. Constancia de vigencia o de existencia de licencia de conducir. $300.00
 
 Por la evaluación y emisión del dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I. Informe preventivo $5,029.00
+I. Informe preventivo. $5,532.00
 
 II. Estudio de Impacto Ambiental tipo General:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Con nivel de impacto bajo $6,566.00
+a) Con nivel de impacto bajo. $7,223.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Con nivel de impacto medio $6,769.00
+b) Con nivel de impacto medio. $7,446.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Con nivel de impacto alto $7,677.00
+c) Con nivel de impacto alto. $8,445.00
 
 III. Estudio de Impacto Ambiental tipo Intermedio:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Con nivel de impacto bajo $8,587.00
+a) Con nivel de impacto bajo. $9,446.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Con nivel de impacto medio $10,965.00
+b) Con nivel de impacto medio. $12,062.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Con nivel de impacto alto $15,300.00
+c) Con nivel de impacto alto. $16,830.00
 
 IV. Estudio de Impacto Ambiental Específico:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Con nivel de impacto bajo $16,506.00
+a) Con nivel de impacto bajo. $18,157.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Con nivel de impacto medio $20,633.00
+b) Con nivel de impacto medio. $22,696.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Con nivel de impacto alto $24,965.00
+c) Con nivel de impacto alto. $27,462.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V. Exención de trámite de impacto ambiental $3,964.00
+V. Exención de trámite de impacto ambiental. $4,360.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental $2,444.00
+VI. Ratificación y ampliación de resolución de impacto ambiental. $2,688.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VII. Estudio de riesgo ambiental $11,347.00
+VII. Estudio de riesgo ambiental. $12,482.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $ 5,109.00
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental. $5,620.00
 
 ###### ARTÍCULO 121.
 
 Por la prestación de los siguientes servicios:
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental: $15.00 por foja
+I. Reproducción de material didáctico, ecológico y ambiental. $17.00 por foja
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro): $176.00 c/u;
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco Compacto o cualquier otro). $194.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros): $377.00 c/u;
+III. Reproducción de material con información ecológico-ambiental disponible en archivos digitalizados o en medio de almacenamiento (USB, CD y otros). $415.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Información de Planos con información ecológico-ambiental: $1,634.00 c/u;
+IV. Información de Planos con información ecológico-ambiental. $1,797.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-V. Reproducción de planos con información ecológico-ambiental $1,006.00 c/u;
+V. Reproducción de planos con información ecológico-ambiental. $1,107.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora: $1,379.00;
+VI. Asesoría, capacitación y materiales sobre ecología y medio ambiente, por cada hora. $1,517.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental: $2,263.00;
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental. $2,489.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VIII. Reproducción en plotter: $1,068.00;
+VIII. Reproducción en plotter. $1,175.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IX. Autorización por simulacro de Incendio: $1,068.00;
+IX. Autorización por simulacro de Incendio. $1,175.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-X. Registro de generadores de residuos de manejo especial: $3,851.00;
+X. Registro de generadores de residuos de manejo especial. $4,236.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XI. Trámite de certificación ambiental: $3,143.00;
+XI. Trámite de certificación ambiental. $3,457.00
 
-(REFORMADA, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-XII. Renovación de Registro de Generadores de Residuos de Manejo Especial: $3,143.00;
+XII. Renovación de Registro de Generadores de Residuos de Manejo Especial. $3,457.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIII. Opinión técnica. $2,300.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+XIV. Licencia Ambiental de Operación. $2,500.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ARTÍCULO 121 BIS. Por uso o goce temporal de las salas audiovisuales del Ecoparque Centenario Toma de Zacatecas.
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-a) Sala de Centro de Educación Ambiental $2,857.00
+a) Sala de Centro de Educación Ambiental. $3.143.00
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Sala de uso múltiple $2,286.00
+b) Sala de uso múltiple. $2,515.00
 
-(REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-c) Sala de Juntas $915.00
+c) Sala de Juntas. $1,007.00
 
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
@@ -3634,6 +3870,14 @@ d) Plaza Cívica $572.00
 (REFORMADO, P.O. 29 DE DICIEMBRE DE 2021) (F. DE E., P.O. 8 DE ENERO DE 2022)
 
 e) Plaza del lago $572.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+ARTÍCULO 121 TER. Por recorrido a casa de la tierra.
+
+a) Presentaciones casa de la tierra por persona $20.00
+
+b) Presentaciones casa de la tierra por persona con capacidades diferentes y adultos mayores. $10.00
 
 ###### ARTÍCULO 122.
 
@@ -3657,9 +3901,11 @@ Los derechos a que se refiere este Capítulo se captarán a través de las forma
 
 ### CAPÍTULO DÉCIMO TERCERO. Otros Derechos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 126.
 
-Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: $75.00
+Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: $83.00
 
 ###### ARTÍCULO 127.
 
@@ -3667,17 +3913,25 @@ Las copias certificadas, constancias y certificaciones de cualquier naturaleza q
 
 I. La primera foja relativa a asuntos correspondientes:
 
-a) Al año en curso. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) Al año anterior. $149.00
+a) Al año en curso. $83.00
 
-c) A más de dos años anteriores. $224.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) Por cada foja excedente correspondiente a asuntos de cualquier año. $12.00
+b) Al año anterior. $164.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Certificado de no antecedentes penales. $154.00
+c) A más de dos años anteriores. $246.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) Por cada foja excedente correspondiente a asuntos de cualquier año. $13.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Constancia de registro de mandamientos judiciales. $154.00
 
 III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno del Estado, su costo será el que corresponda al considerado en la Ley de Ingresos del Municipio en que estén ubicados dichos servicios electrónicos.
 
@@ -3715,43 +3969,71 @@ El pago de derechos, a que se refieren los artículos 126 y 127 de esta Ley, por
 
 Los servicios que prestan las dependencias y entidades de la Administración Pública Centralizada a que se refieren los artículos 25 y 48 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por la reproducción de la información a través de documentos físicos, en medios de almacenamiento o por envío vía internet, que le sean solicitados en materia del derecho a la información pública de acuerdo con la ley de esta materia, conforme a lo siguiente:
 
-I. Por la expedición de copia simple por hoja. $1.20
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Por la expedición de copia certificada por hoja. $1.90
+I. Por la expedición de copia simple por hoja. $1.30
 
-III. Por la expedición de copia a color por hoja. $1.90
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-IV. Por cada hoja enviada por internet que contenga la información requerida. $1.90
+II. Por la expedición de copia certificada por hoja. $2.10
 
-V. Por cada hoja transferida a un medio de almacenamiento (USB, Disco Compacto o cualquier otro), que contenga la información requerida. $1.90
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-VI. Por expedición de copia simple de planos por metro de papel cuadrado. $68.00
+III. Por la expedición de copia a color por hoja. $2.10
 
-VII. Por expedición de copia certificada de planos por metro cuadrado de papel. $91.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+IV. Por cada hoja enviada por internet que contenga la información requerida. $2.10
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+V. Por cada hoja transferida a un medio de almacenamiento (USB, Disco Compacto o cualquier otro), que contenga la información requerida. $2.10
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VI. Por expedición de copia simple de planos por metro de papel cuadrado. $75.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+VII. Por expedición de copia certificada de planos por metro cuadrado de papel. $100.00.
 
 VIII. Cuando se requiera el envío de información a través del Servicio Postal Mexicano o empresas privadas de mensajería, además del costo que se cause por la expedición de las copias que refiere el presente artículo, dicho envío tendrá un costo de:
 
-a) Por conducto del Servicio Postal Mexicano. $75.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-b) A través de empresas privadas de mensajería para envío estatal. $224.00
+a) Por conducto del Servicio Postal Mexicano. $83.00
 
-c) A través de empresas privadas de mensajería para envío nacional. $522.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-d) A través de empresas privada (sic) de mensajería para envío al extranjero. $746.00
+b) A través de empresas privadas de mensajería para envío estatal. $246.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+c) A través de empresas privadas de mensajería para envío nacional. $574.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+d) A través de empresas privadas de mensajería para envío al extranjero. $821.00
 
 Los mismos importes y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos que por estos conceptos se encuentren previstas en otras leyes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
 ###### ARTÍCULO 130.
 
-Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán. $5,372.00
+Por el derecho de la expedición de certificados en materia de selección y capacitación otorgados por la Secretaría de Administración, se cobrarán. $5,909.00
 
 ###### ARTÍCULO 131.
 
 Por los servicios que presta el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas:
 
-I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana. $3,432.00, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
-II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales. $3,432.00
+I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana. $3,775.00, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+
+II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales. $3,775.00
 
 ### CAPÍTULO DÉCIMO CUARTO. Servicios Otorgados por Organismos Descentralizados Integrantes de la Administración Pública
 
@@ -4000,5 +4282,27 @@ Los recursos distribuidos del Fondo Único de Participaciones a los Municipios p
 Las reglas específicas de operación para el Fondo de Inversión Pública Municipal respecto de la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, serán elaboradas por la Secretaria y publicadas en los medios oficiales a más tardar el 31 de enero de cada ejercicio fiscal.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 263.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS Y DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintitrés, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Respecto al Impuesto Sobre la Tenencia o Uso de Vehículo contenido en el Capítulo Cuarto del Título Segundo de la Ley de Hacienda del Estado de Zacatecas, continúa en suspensión de cobro en los ejercicios fiscales 2023 y 2024.
+
+Las obligaciones derivadas de la Ley de Hacienda del Estado de Zacatecas respecto este Impuesto se suspenden conforme a este Derecho, con excepción de las que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, mismas que deberán ser cumplidas en las formas y plazos establecidos en las disposiciones aplicables.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza a la Secretaría de Finanzas del Gobierno del Estado, para otorgar estímulos fiscales sobre derechos por concepto de avalúos e inscripción de documentos, relativos a bienes inmuebles a los beneficiarios de los programas de vivienda, ordenamiento territorial y regularización, que le mandate alguna disposiciones en dichas materias en los que intervenga el Gobierno del Estado a través de la Secretaría de Desarrollo Urbano, Vivienda y Ordenamiento Territorial, previamente convenidos y cuando así se justifique.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales, reglamentarias, administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente Decreto.
