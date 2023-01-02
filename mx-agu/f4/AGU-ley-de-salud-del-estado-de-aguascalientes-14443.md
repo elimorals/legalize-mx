@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2022-11-07"
+last_updated: "2023-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1787,7 +1787,9 @@ Dichos comités serán interdisciplinarios y deberán estar integrados por el pe
 
 Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2023)</small>
+
+Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud, con un enfoque humanizado y ético.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1795,15 +1797,21 @@ Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia
 
 Corresponde al Gobierno del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud, desde la perspectiva de un enfoque humanizado y ético;
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+III.- Otorgar facilidades para la enseñanza y adiestramiento para brindar el servicio mediante un trato humano dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
 IV.- Promover la participación voluntaria, a través de los colegios o asociaciones, o de manera individual, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
 
-V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización, basados en una perspectiva de trato humanizado y ético.
 
 ###### ARTICULO 95.
 
@@ -4384,3 +4392,11 @@ P.O. 7 DE NOVIEMBRE DE 2022.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 254.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 93, ASÍ COMO LAS FRACCIONES I, III Y V DEL ARTÍCULO 94 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+– Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
