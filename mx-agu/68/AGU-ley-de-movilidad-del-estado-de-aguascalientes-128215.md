@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2022-12-31"
+last_updated: "2023-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -53,9 +53,11 @@ Esta Ley es de orden público e interés social y tiene por objeto tutelar el de
 
 El Estado y sus municipios garantizarán que toda persona tenga acceso a medios de transporte integrado y a una infraestructura vial que permitan su desplazamiento conforme a los programas y principios establecidos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 2°.
 
-El derecho a la movilidad se entiende como el derecho de toda persona y de la colectividad a disponer de un sistema de desplazamientos de calidad, accesible, continuo, eficiente, seguro, sustentable, suficiente y tecnológicamente innovador, que garantice su desplazamiento en condiciones de igualdad y equidad, y le permita satisfacer sus necesidades, contribuyendo así a su pleno desarrollo.
+El derecho a la movilidad universal se entiende como el derecho de toda persona y de la colectividad a disponer de un sistema de desplazamientos de calidad, accesible, continuo, eficiente, seguro, sustentable, suficiente, y tecnológicamente innovador, que garantice su desplazamiento en condiciones de igualdad, equidad, inclusión y progresividad, y le permita satisfacer sus necesidades, contribuyendo así a su pleno desarrollo.
 
 La movilidad dentro del Estado se considera como un fin en sí mismo, en tanto que a través de ella se propicia el ejercicio de otros derechos humanos.
 
@@ -4860,3 +4862,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 2 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 206.- SE REFORMA EL PÁRRAFO TRECE Y CATORCE DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- SE REFORMA EL ARTÍCULO 2° PRIMER PÁRRAFO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
