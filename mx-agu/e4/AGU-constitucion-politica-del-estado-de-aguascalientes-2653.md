@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2022-10-28"
+last_updated: "2023-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -151,13 +151,13 @@ Toda persona tiene derecho a la salud y al acceso a los servicios de salud confo
 
 Toda familia tiene derecho a disfrutar de una vivienda digna, decorosa, habitable y sustentable. Las leyes establecerán los instrumentos y apoyos necesarios a fin de que se propicie que las viviendas cumplan con una infraestructura y servicios públicos básicos adecuados y de calidad, contemplando los lineamientos que establecen los derechos fundamentales reconocidos por esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, así como en los Tratados Internacionales que el Estado Mexicano sea parte.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
 
-Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, comodidad, inclusión e igualdad, que permita el libre desplazamiento de todas las personas dentro del territorio estatal para la satisfacción de sus necesidades y pleno desarrollo; y a una jerarquía de movilidad, otorgando siempre prioridad a los peatones, personas con discapacidad y conductores de vehículos no motorizados, viendo siempre por una cultura de movilidad sustentable.
+Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, comodidad, inclusión, progresividad e igualdad, que permita el libre desplazamiento de todas las personas dentro del territorio estatal para la satisfacción de sus necesidades y pleno desarrollo; y a una jerarquía de movilidad, otorgando siempre prioridad a los peatones, personas con discapacidad y conductores de vehículos no motorizados, viendo siempre por una cultura de movilidad sustentable.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
 
-Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad.
+Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial, el cual será adecuado a las necesidades sociales y ambientales de la ciudad, incentivando el uso de vehículos de bajas emisiones contaminantes, respetando en todo momento los derechos de los usuarios más vulnerables de la vía pública.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2022)</small>
 
@@ -3624,3 +3624,11 @@ P.O. 28 DE OCTUBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 206.- SE REFORMA EL PÁRRAFO TRECE Y CATORCE DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- SE REFORMA EL ARTÍCULO 2° PRIMER PÁRRAFO DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
