@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2022-11-07"
+last_updated: "2023-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1787,7 +1787,9 @@ Dichos comités serán interdisciplinarios y deberán estar integrados por el pe
 
 Las autoridades educativas, en coordinación con las autoridades sanitarias estatales y con la participación de las instituciones de educación superior, los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, recomendarán normas y criterios para la formación de recursos humanos para la salud.
 
-Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2023)</small>
+
+Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud, establecerán las normas y criterios para la capacitación y actualización de los recursos humanos para la salud, con un enfoque humanizado y ético.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1795,15 +1797,21 @@ Las autoridades sanitarias, sin perjuicio de la competencia que sobre la materia
 
 Corresponde al Gobierno del Estado, sin perjuicio de las atribuciones de las autoridades educativas en la materia y en coordinación con éstas:
 
-I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+I.- Promover actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades del Estado en materia de Salud, desde la perspectiva de un enfoque humanizado y ético;
 
 II.- Apoyar la creación de centros de capacitación y actualización de los recursos humanos para la salud;
 
-III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+III.- Otorgar facilidades para la enseñanza y adiestramiento para brindar el servicio mediante un trato humano dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales, técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
 IV.- Promover la participación voluntaria, a través de los colegios o asociaciones, o de manera individual, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
 
-V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2023)</small>
+
+V.- Apoyar a los colegios, asociaciones y organismos de profesionales, técnicos y auxiliares de la salud del Estado, en sus programas de capacitación, formación y actualización, basados en una perspectiva de trato humanizado y ético.
 
 ###### ARTICULO 95.
 
@@ -4385,63 +4393,13 @@ P.O. 7 DE NOVIEMBRE DE 2022.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 15/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ESPECIALIZACIÓN, CAMBIO DE DENOMINACIÓN Y DE RESIDENCIA DEL PRIMER TRIBUNAL UNITARIO DEL SEGUNDO CIRCUITO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS SEGUNDO, CUARTO, QUINTO Y SEXTO DEL SEGUNDO CIRCUITO; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA AUXILIO".]
+P.O. 21 DE ENERO DE 2023.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de octubre de dos mil diecisiete, con excepción de lo previsto en los transitorios TERCERO y QUINTO que entrarán en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 254.- SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 93, ASÍ COMO LAS FRACCIONES I, III Y V DEL ARTÍCULO 94 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO UNICO.
 
-TERCERO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito deberá colocar avisos en lugares visibles con relación a la especialización y cambio de residencia determinados.
-
-CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias relacionadas con el cumplimiento de este Acuerdo.
-
-QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas a su cargo que resulten competentes, dotará al Tribunal Unitario especializado de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
-
-SEXTO. Se reforman los numerales SEGUNDO, fracción II, número 2 y TERCERO, fracción II, párrafo segundo, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a II. ...
-
-1. ...
-
-2. Seis Tribunales Unitarios: cuatro con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
-
-3. a 4. ...
-
-III. a XXXII. ...
-
-TERCERO. ...
-
-I. ...
-
-II. ...
-
-Para los Tribunales Unitarios con residencia en Toluca, y para el Tribunal Unitario especializado en Materia Penal con residencia en Almoloya de Juárez, su jurisdicción territorial será el Estado de México, con la excepción señalada en el párrafo siguiente.
-
-...
-
-III. a XXXII. ..."
-
-SÉPTIMO. Se reforman el artículo 17, último párrafo y el Transitorio Segundo del Acuerdo General 5/2017 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de México, con residencia en el Municipio de Almoloya de Juárez (Altiplano), para quedar como sigue:
-
-"Artículo 17. ...
-
-I. a III. ...
-
-Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios Segundo, Cuarto, Quinto y Sexto, todos del Segundo Circuito y con residencia en Toluca, Estado de México, para conocer, con ese carácter y en el orden numérico de su denominación de los asuntos que se tramitan en el Centro, conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
-
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario especializado en Materia Penal del Segundo Circuito con residencia en Almoloya de Juárez, Estado de México, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables, sin perjuicio de lo dispuesto en el artículo 17, último párrafo de este Acuerdo.
-
-El Tribunal Unitario habilitado precisará en los actos procesales que celebren la denominación con la que actúe, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
-
-Este Tribunal Unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como Tribunal Unitario de Circuito."
-
-OCTAVO. El Tribunal Unitario especializado en Materia Penal del Segundo Circuito como Tribunal de Alzada habilitado conocerá de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales.
-
-NOVENO. La Comisión de Creación de Nuevos Órganos establecerá el rol de guardias que corresponda a los Tribunales Unitarios del Segundo Circuito.
-
-D.O.F. 25 DE SEPTIEMBRE DE 2017.
+– Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 22/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ESPECIALIZACIÓN, CAMBIO DE DENOMINACIÓN Y DE RESIDENCIA DEL PRIMER TRIBUNAL UNITARIO DEL CUARTO CIRCUITO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS SEGUNDO, TERCERO Y CUARTO DEL CUARTO CIRCUITO; Y AL CAMBIO DE DENOMINACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA AUXILIO”.]
 
