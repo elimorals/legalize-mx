@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-106214"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-03-02"
-last_updated: "2022-05-09"
+last_updated: "2023-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de marzo de 2015.
 
@@ -455,13 +455,17 @@ VII. Garantizar en igualdad de condiciones la participación de mujeres y hombre
 
 VIII. Garantizar a las mujeres el ejercicio de sus derechos políticos y electorales libres de violencia política, en los términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2023)</small>
 
-IX. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género, y
+IX. Sancionar por medio de los mecanismos y procedimientos internos con los que se cuente todo acto relacionado con la violencia política contra las mujeres en razón de género;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2023)</small>
 
-X. Las demás que establezca este Código.
+X. Acompañar y coadyuvar a la víctima de violencia política de género en su proceso, ya sea interno o ante las autoridades administrativas o jurisdiccionales competentes, salvo cuando el denunciado sea el propio partido político o militante de éste. De manera optativa, la víctima podrá solicitar dicho acompañamiento y coadyuvancia, los cuales consistirán en la asesoría jurídica necesaria y en el desahogo de los procedimientos en todas las instancias que se requieran, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ENERO DE 2023)</small>
+
+XI. Las demás que establezca este Código.
 
 ###### ARTÍCULO 26.
 
@@ -4099,7 +4103,9 @@ a) Indemnización de la víctima;
 
 b) Restitución inmediata en la candidatura o cargo partidista al que fue obligada a renunciar por motivos de violencia;
 
-c) Disculpa pública, y
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2023)</small>
+
+c) Disculpa pública dirigida a la ofendida, la cual deberá de ser realizada en los términos previstos en el Lineamiento que para tal efecto emitan en coordinación las autoridades electorales locales, y
 
 d) Medidas de no repetición
 
@@ -6578,3 +6584,15 @@ P.O. 9 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 25 Y EL INCISO C) DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 250 A; ASIMISMO SE ADICIONA LA FRACCIÓN XI DEL ARTÍCULO 25 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente decreto entrará en vigor al día siguiente de su publicación en el Periodo Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– Se vincula a las autoridades electorales locales, Fiscalía Especializada en Delitos Electorales, Instituto Estatal Electoral y Tribunal Electoral, a que, en un plazo no mayor de 30 días naturales posteriores a la publicación del presente decreto, emitan los Lineamientos que regulen la Disculpa Pública que se deba ofrecer a las víctimas de Violencia Política de Género, en los términos que como expertos en la materia consideren oportunos.
