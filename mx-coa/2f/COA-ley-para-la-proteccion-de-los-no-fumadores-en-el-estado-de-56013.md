@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2020-05-12"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -183,7 +183,9 @@ VIII. Ejercer las demás atribuciones que determine la presente ley y disposicio
 
 Corresponden a la Secretaría de Salud y a la Secretaría de Medio Ambiente mediante la Procuraduría de Protección al Ambiente:
 
-I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los órganos del Gobierno del Estado, de los municipios y órganos autónomos del Estado, no se establezcan salas para fumadores aisladas de las áreas de uso común, o habiéndolas no se respete la prohibición de fumar fuera de las áreas destinadas para ello.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE ENERO DE 2023)</small>
+
+I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los órganos del Gobierno del Estado, de los municipios y órganos autónomos del Estado, no se respete la prohibición de fumar.
 
 Para el caso de las instalaciones del Gobierno del Estado, se dictarán las medidas preventivas necesarias a efecto de proteger la salud de los no fumadores, mismas que se prolongarán hasta que sea corregida la falta;
 
@@ -257,19 +259,29 @@ I. Elevadores de edificios públicos o particulares destinados al uso del públi
 
 II. Áreas cerradas de oficinas bancarias, tiendas de autoservicio, conveniencia, departamentales y/o de servicios en los que se proporcione atención directa al público, con excepción de los lugares específicamente designados para ello;
 
-III. Oficinas de cualquier dependencia o entidad de la Administración Pública del Estado o municipios y de los órganos autónomos de éstos; oficinas, juzgados o instalaciones del Poder Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Poder Legislativo del Estado. Lo anterior salvo que de conformidad con lo establecido en esta ley, se designen espacios para ello;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
 
-IV. Hospitales, guarderías y asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados, con excepción de los lugares específicamente designados para ello;
+III. Oficinas de cualquier dependencia o entidad de la Administración Pública del Estado o municipios; oficinas, juzgados o instalaciones del Poder Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Poder Legislativo del Estado y de los órganos autónomos;
 
-V. En las Cafeterías y restaurantes o anexos pertenecientes a las unidades señaladas en la fracción anterior, se podrán instalar secciones de fumar debidamente delimitadas y señaladas;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
 
-VI. Áreas cerradas de bibliotecas, hemerotecas, museos, casas de la cultura y centros públicos de cómputo, salvo en los respectivos vestíbulos o secciones de fumar debidamente delimitadas y señaladas;
+IV. Hospitales, guarderías y asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados;
 
-VII. Áreas cerradas donde se practique deporte, salvo que se habiliten espacios para ello de acuerdo a lo establecido en esta ley;
+V. (DEROGADA, P.O. 3 DE ENERO DE 2023)
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+VI. Bibliotecas, hemerotecas, museos, casas de la cultura y centros públicos de cómputo;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+VII. Áreas cerradas donde se practique deporte;
 
 VIII. En los centros públicos o privados de educación inicial, básica indígena, especial, media y media superior, incluyendo auditorios, bibliotecas, laboratorios, centros de cómputo, salones de clase y sanitarios;
 
-IX. Áreas cerradas de los cines, teatros, museos, centros de entretenimiento y auditorios a los que tenga acceso el público en general, con excepción de los vestíbulos y secciones expresamente señaladas para fumar;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+IX. Áreas cerradas de los cines, teatros, museos, centros de entretenimiento y auditorios a los que tenga acceso el público en general;
 
 X. Sanitarios de acceso público, baños públicos y sanitarios móviles;
 
@@ -285,7 +297,9 @@ XV. En todos los establecimientos que de conformidad con la ley correspondiente 
 
 Queda prohibido fumar en los establecimientos en que se expendan alimentos y que no excedan de 30 metros cuadrados de superficie para el servicio; igual prohibición recaerá en salones de fiestas infantiles, cualquiera que sea su superficie.
 
-Será responsabilidad de los dueños, propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente ley.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2023)</small>
+
+Será responsabilidad de los dueños, propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones II y IX de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente ley.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -305,13 +319,17 @@ Los menores de edad, no podrán ingresar a las secciones de fumar de los lugares
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ENERO DE 2023)</small>
+
 ###### Artículo 16.
 
-En los locales cerrados y establecimientos en los que se expendan al público alimentos para su consumo, los dueños, propietarios, administradores, responsables, empleados y/o encargados de los mismos establecerán secciones de no fumar y de fumar.
+En los locales cerrados y establecimientos en los que se expendan al público alimentos para su consumo, los dueños, propietarios, administradores, responsables, empleados y/o encargados podrán establecer secciones de fumar, en los términos establecidos en esta ley.
 
 La sección para no fumadores no podrá ser menor al 50% del espacio del establecimiento.
 
-Fuera de las áreas reservadas para fumadores no deberán existir ceniceros de ningún tipo, además se deberá contar con suficiente ventilación en las áreas de fumadores y en su caso, se colocarán extractores de humo para evitar que éste se propague hacia las áreas de no fumadores.
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 2023)</small>
+
+Fuera de las áreas reservadas para fumadores no deberán existir ceniceros de ningún tipo. Preferentemente deberán ubicarse en áreas abiertas o terrazas o, en su defecto, se deberá contar con suficiente ventilación, colocándose en su caso extractores de humo para evitar que éste se propague hacia las áreas de no fumadores. Los espacios para fumar en exteriores no podrán ubicarse sobre las aceras o cualquier otro espacio de uso público.
 
 Estas secciones deberán contar con los señalamientos o indicaciones suficientemente visibles para el público, que delimiten las áreas de fumar y de no fumar.
 
@@ -327,11 +345,17 @@ Las secciones para fumadores y no fumadores deberán quedar separadas una de la 
 
 Las secciones de fumar deberán contar con al menos una de las siguientes características:
 
-I. Tener ventilación hacia el exterior, o estar en un área abierta;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
 
-II. Contar con un sistema de extracción de aire tal que garantice que el aire proveniente de la sección de fumar y que contiene humo de tabaco no se filtre al área de no fumadores, y
+I. Estar en un área abierta o terraza; en su defecto, tener ventilación hacia el exterior;
 
-III. Estar aislada de las áreas de no fumadores o contar con los estudios y equipos que avalen y garanticen que el humo producido por la práctica de fumar tabaco, no se filtre a las áreas reservadas para no fumadores.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+II. En su caso, contar con un sistema de extracción de aire tal que garantice que el aire proveniente de la sección de fumar y que contiene humo de tabaco no se filtre al área de no fumadores, y
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2023)</small>
+
+III. Estar aislada de las áreas de no fumadores o contar con los equipos que avalen y garanticen que el aire proveniente de la sección de fumar y que contiene humo de tabaco, no se filtre al área de no fumadores.
 
 ###### Artículo 19.
 
@@ -367,9 +391,7 @@ III. Colocar permanentemente en las mesas de las áreas para no fumadores distin
 
 ###### Artículo 23.
 
-En las oficinas o instalaciones de los distintos órganos del Gobierno del Estado, los municipios y órganos autónomos del Estado, podrán acondicionarse áreas, salas o espacios abiertos para fumadores, mismos que deberán cumplir con los requerimientos especificados en el artículo 18 de la presente ley.
-
-En caso de que los inmuebles por su estructura o distribución no respondan a tales circunstancias, la prohibición de fumar será aplicable en toda la superficie del mismo.
+(DEROGADO, P.O. 3 DE ENERO DE 2023)
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -379,7 +401,7 @@ Las personas físicas que no sean servidores públicos y que no respeten las dis
 
 ###### Artículo 25.
 
-Los órganos del Gobierno del Estado instruirán a los titulares de las dependencias, unidades administrativas, órganos, entidades y cualquier autoridad de estas áreas, a fin de que en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determine la Secretaría de Salud, que indiquen cuales son las áreas en que se prohíbe fumar.
+(DEROGADO, P.O. 3 DE ENERO DE 2023)
 
 ###### Artículo 26.
 
@@ -778,3 +800,9 @@ P.O. 12 DE MAYO DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 310.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 9, LAS FRACCIONES III, IV, VI, VII, IX Y ÚLTIMO 7 PÁRRAFO DEL ARTÍCULO 13, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 16, Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 18; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 13, ASÍ COMO LOS ARTÍCULOS 23 Y 25 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
