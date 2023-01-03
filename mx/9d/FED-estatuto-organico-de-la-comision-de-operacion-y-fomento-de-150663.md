@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-de-operacion-y-fomento-de-1506
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-08-13"
-last_updated: "2021-08-13"
+last_updated: "2023-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150663&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2021-07-01"
 ---
 # ESTATUTO ORGANICO DE LA COMISION DE OPERACION Y FOMENTO DE ACTIVIDADES ACADEMICAS DEL INSTITUTO POLITECNICO NACIONAL
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2021/IPN/EstatutoOrganico-26062020.pdf y https://www.cofaa.ipn.mx/conocenos/normateca/normas/control/documentos/EstatutoOrganico.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL ACUERDO SO/IV-22/08,R, MEDIANTE EL CUAL SE APRUEBA EL NUEVO ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL, PUBLICADO EN EL D.O.F. DE 3 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Número 11 del Diario Oficial de la Federación, el viernes 13 de agosto de 2021.
 
@@ -1126,3 +1126,25 @@ PRIMERO. Se derogan todas aquellas disposiciones de carácter administrativo que
 SEGUNDO. Los asuntos pendientes a la entrada en vigor de este Estatuto Orgánico, que conforme al mismo deben de pasar de una unidad administrativa a otra, serán resueltos por aquella o aquellas a las que se les haya atribuido en este instrumento la competencia correspondiente.
 
 TERCERO. El presente Estatuto Orgánico y sus reformas y adiciones deberán inscribirse, en su oportunidad, en el Registro Público de Organismos Descentralizados, así como los nombramientos, sustituciones, remociones y los poderes generales y sus revocaciones.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE ENERO DE 2023.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL“ACUERDO SO/IV-22/08,R, MEDIANTE EL CUAL SE APRUEBA EL NUEVO ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO SO/IV-22/08,R, Mediante el cual se aprueba el nuevo Estatuto Orgánico de la Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional.
+
+ARTÍCULO ÚNICO Se abroga el Estatuto Orgánico de la Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional, publicado en el Diario Oficial de la Federación el 13 de agosto de 2021 y aprobado en la sesión del 26 de junio de 2020 y, en su lugar se aprueba el nuevo Estatuto Orgánico de la Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional, para quedar como sigue:
+
+ESTATUTO ORGÁNICO DE LA COMISIÓN DE OPERACIÓN Y FOMENTO DE ACTIVIDADES ACADÉMICAS DEL INSTITUTO POLITÉCNICO NACIONAL
+
+[...]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor a partir del 1 de enero del 2023 una vez aprobado por la Junta Directiva de la Comisión.
+
+SEGUNDO.- Durante el desarrollo de su Cuarta Sesión Ordinaria correspondiente al ejercicio fiscal 2022, la Junta Directiva de la Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional, aprobó la modificación del presente Estatuto Orgánico de este Organismo Descentralizado de la Administración Pública Federal.
+
+TERCERO.- Los asuntos pendientes de atención y resolución a la entrada en vigor de este Estatuto Orgánico, serán sustanciados por las Unidades Administrativas en el ámbito de sus atribuciones.
