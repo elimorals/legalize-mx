@@ -4,7 +4,7 @@ identifier: "COA-ley-apicola-para-el-estado-de-coahuila-de-zaragoza-3461"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-31"
-last_updated: "2020-01-31"
+last_updated: "2023-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el martes 31 de agosto de 1993.
 
@@ -86,6 +86,38 @@ D).- Abeja Reina: Siendo la única hembra fértil de la colmena, morfológicamen
 ENJAMBRE: Es el conjunto de abejas, zánganos y reina en vuelo o conglomerado, en tránsito sin ubicación, resguardado en alojamiento sin cubierta alguna y por lo mismo sin dueño específico.
 
 CRIADERO DE REINAS: Conjunto de colmenas tipo técnico divididas interiormente o de medidas especiales, destinadas principalmente a la obtención de abejas reinas.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+COLONIA: Conjunto de abejas que interactúan para intercambiar alimentos y otras sustancias que les permiten sobrevivir, a la vez que realizan otras actividades, como: defensa de la comunidad, alimentación de la cría, búsqueda de alimentos, etc., y se encuentra formada por la abeja reina, zánganos y obreras. La colmena es la vivienda de una colonia que puede estar formada por hasta 80,000 abejas.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+MIEL: Sustancia espesa, pegajosa, amarilla, semitransparente y muy dulce, originalmente líquida, que elaboran las abejas con el néctar que liban de las flores y que, luego de ser transportado y modificado, lo almacenan en las celdillas de los panales o en huecos naturales; posee un alto valor nutritivo y terapéutico.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+CERA: Material sólido, pero blando, amarillento y fundible que segregan las abejas para construir sus celdillas en los panales, y que se emplea principalmente para hacer velas. Es producida por las abejas melíferas jóvenes que la segregan como líquido a través de sus glándulas cereras. Al contacto con el aire, esta sustancia se endurece y forma pequeñas escamillas en la parte inferior de la abeja. También la fabrican algunos otros insectos.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+PROPÓLEO: Sustancia cérea, producida por las abejas a partir de las resinas de los árboles y con el que estos insectos bañan las colmenas o vasos antes de empezar a obrar. Se obtiene básicamente de los brotes del álamo y de los árboles que producen conos. El propóleo raramente se encuentra disponible en su forma pura; generalmente lo obtenemos de las colmenas y contiene productos derivados de la laboriosidad de las abejas, quienes lo usan para defenderse de los virus y bacterias, pues actúa como antiséptico, antiviral y antinflamatorio.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+JALEA REAL: Líquido que segregan las abejas jóvenes a través de una glándula situada en sus propias cabezas. Se trata de un fluido amarillo que sirve para alimentar a la abeja reina y a las larvas obreras en sus primeros días de vida. Por su importante valor nutritivo, se emplea en terapéutica y alimentación;
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+POLINIZACIÓN: Acción inducida o no, por la que una partícula pequeña proveniente de los estambres de las flores, que cumple la función de fecundar a los óvulos en el proceso de reproducción en las plantas con flores, y que es recolectado por las abejas y almacenado en la colmena para su posterior uso;
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+CICLO APÍCOLA: Lo comprenden varios periodos anuales, divididos en etapas de pre-cosecha, cosecha y post-cosecha, de acuerdo al lugar o región donde se desarrolla la actividad apícola;
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+FIERRO O MARCA DE HERRAR: Señal o sello distintivo y de identificación que el apicultor graba de manera permanente en la colmena y demás materiales apícolas para acreditar su propiedad, una vez expedido su registro por las autoridades correspondientes.
 
 ### CAPITULO II. DE LAS AUTORIDADES
 
@@ -542,3 +574,9 @@ P.O. 31 DE ENERO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 486.- SE MODIFICA EL CONTENIDO DEL INCISO C) REFERENTE AL CONCEPTO DE ABEJA, DEL ARTÍCULO 3 DEL CAPÍTULO I, Y SE ADICIONA EL INCISO D) A DICHO APARTADO DE LA LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 305.- SE ADICIONAN 8 PÁRRAFOS AL ARTÍCULO 3 DE LA LEY APÍCOLA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
