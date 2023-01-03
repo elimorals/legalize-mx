@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2022-10-21"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -955,17 +955,35 @@ La protección social en salud en términos de la Ley General de Salud, es un me
 
 Artículo 70 bis 1. La Ley General de Salud y los acuerdos de coordinación que al efecto suscriba el Estado con la Federación, establecerán la competencia del Gobierno del Estado en la ejecución de las acciones de protección social en salud, así como los conceptos de gasto, el destino de los recursos, los indicadores de seguimiento a la operación y los términos de la evaluación integral del Sistema.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 2023)</small>
+
+### CAPÍTULO IX. PREVENCIÓN Y CONTROL DE LAS ENFERMEDADES BUCODENTALES
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2023)</small>
+
+###### Artículo 70 Bis 2.
+
+La prevención y Control de Enfermedades Bucodentales tiene carácter prioritario y comprende las siguientes acciones:
+
+I.- La Atención de la Salud Bucodental;
+
+II.- La promoción de las medidas de Prevención y Control de Enfermedades Bucodentales;
+
+III.- La realización de Programas de Prevención y Control de Enfermedades Bucodentales;
+
+IV.- La coordinación con la Secretaría de Educación del Estado a efecto de fomentar hábitos de higiene bucodental adecuados, como elemento de formación para niñas y niños de edad temprana, esto conforme a lo dispuesto en la Norma Oficial Mexicana respectiva, y
+
+V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud dental de la población.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2019)</small>
 
 ### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
-
 ## TÍTULO CUARTO. RECURSOS HUMANOS PARA EL EJERCICIO DE LA SALUD
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### Artículo 71.
 
@@ -1015,9 +1033,7 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares, y las especialidades a que se refiere este capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título profesional, de especialidad, la cédula profesional, de especialidad, los documentos que acrediten la certificación vigente del ejercicio profesional, y demás documentos que acrediten el legal ejercicio de su profesión, siempre y cuando la profesión y/o especialidad así lo requiera. Iguales menciones deberán considerarse en los documentos, receta médica y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen a su respecto.
 
-### CAPÍTULO IV. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### Artículo 75.
 
@@ -1045,7 +1061,9 @@ Para los efectos del párrafo anterior el Gobierno del Estado, en coordinación 
 
 El Gobierno del Estado, a través de la Secretaría de Salud y con la participación de las instituciones de educación superior, elaborará programas de carácter social para profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables para el ejercicio profesional.
 
-### CAPITULO UNICO
+### CAPÍTULO IV. DEL EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
+
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2019)</small>
 
 ###### Artículo 80.
 
@@ -1135,7 +1153,7 @@ En el caso de las sociedades, asociaciones y colegios de profesionistas con cobe
 
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### Artículo 85.
 
@@ -1209,7 +1227,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 90.
 
@@ -1247,9 +1265,7 @@ La Secretaría de Salud integrará la información demográfica del Registro Est
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO III. NUTRICION
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### Artículo 92.
 
@@ -1271,9 +1287,9 @@ IV. Salud ocupacional, y
 
 V. Fomento sanitario.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 94.
 
@@ -1313,9 +1329,9 @@ V. La educación para la cultura de la donación altruista de órganos y trasfus
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales, estatales y municipales que correspondan, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 96.
 
@@ -1337,7 +1353,9 @@ Lo anterior, estipulando la autoridad competente como requisito para la proceden
 
 En los programas a que se refieren los artículos anteriores, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO V. SALUD OCUPACIONAL
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 98.
 
@@ -1387,9 +1405,7 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población, para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### Artículo 104.
 
@@ -1403,7 +1419,9 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 106.
 
@@ -1419,7 +1437,7 @@ III. Coadyuvar en la aplicación de programas y actividades que establezca la Se
 
 IV. Coordinar acciones con la Secretaría de Salud del Gobierno Federal, para lograr la eliminación de transmisión materno infantil del VIH y Sífilis en el Estado.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### Artículo 107.
 
@@ -1585,9 +1603,7 @@ III. Vehículo de enfermedades transmisibles a las personas, a través de sus pr
 
 Se prohíbe la introducción o el transporte por el territorio del Estado, de animales que padezcan una enfermedad transmisible a las personas, de cadáveres de aquéllos, así como el comercio con sus productos. Asimismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que la autoridad sanitaria federal considere infectadas.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
+### CAPITULO IV. ACCIDENTES
 
 ###### Artículo 121.
 
@@ -1621,7 +1637,7 @@ VII. Las demás que sean necesarias para la prevención, tratamiento y control d
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1655,7 +1671,7 @@ Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+### CAPITULO II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACION TERMINAL
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1717,7 +1733,7 @@ Corresponde al Sistema Estatal de Salud garantizar el pleno, libre e informado e
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+### CAPITULO III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
@@ -1785,7 +1801,9 @@ Todos los documentos a que se refiere este título se regirán de acuerdo a lo q
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MEDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2019)</small>
 
 ###### Artículo 125 Bis 10.
 
@@ -1805,9 +1823,7 @@ VI. Garantizarán la capacitación y actualización permanente de los recursos h
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2019)</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+### CAPITULO UNICO
 
 ###### Artículo 125 Bis 11.
 
@@ -1885,9 +1901,9 @@ Queda prohibida, la práctica de la eutanasia, entendida como homicidio por pied
 
 ## TITULO NOVENO. PREVENCION EN MATERIA DE DISCAPACIDAD Y REHABILITACION DE PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 126.
 
@@ -2013,9 +2029,9 @@ Los servicios de rehabilitación que proporcionen los establecimientos del Secto
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO II. PROGRAMA CONTRA EL ABUSO DE LAS BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 148.
 
@@ -2093,7 +2109,7 @@ VII. Proteger la salud y el bienestar de la población frente al uso, consumo o 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -2149,9 +2165,9 @@ El Ejecutivo del Estado y los Municipios, deberán incluir en su informe anual, 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO IV. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 152.
 
@@ -2183,9 +2199,9 @@ III. Las demás previstas en esta Ley, la Ley para la Protección de los No Fuma
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2015)</small>
 
 ###### Artículo 154.
 
@@ -2375,7 +2391,9 @@ VI. Las demás previstas para el cumplimiento de esta Ley.
 
 DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 156.
 
@@ -2431,7 +2449,7 @@ Los propietarios, encargados o responsables de los establecimientos en que se ex
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### Artículo 160.
 
@@ -2489,7 +2507,7 @@ La autoridad sanitaria competente publicará en el Periódico Oficial del Gobier
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efecto a partir del día siguiente de su publicación.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 ###### Artículo 167.
 
@@ -2507,7 +2525,7 @@ La Secretaría de Salud del Estado, verificará que los mercados y centros de ab
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### Artículo 170.
 
@@ -2555,9 +2573,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VI. RASTROS
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### Artículo 179.
 
@@ -2591,7 +2607,9 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación, traslado y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas oficiales mexicanas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 185.
 
@@ -2635,7 +2653,7 @@ El Gobierno del Estado, por conducto de los municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables, las normas oficiales mexicanas y las normas técnicas correspondientes.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 191.
 
@@ -2683,7 +2701,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### Artículo 199.
 
@@ -2723,9 +2741,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales aplicables.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
+### CAPITULO IX. PROSTITUCION
 
 ###### Artículo 208.
 
@@ -2751,7 +2767,9 @@ Los establecimientos a que se refiere este capítulo, no podrán estar ubicados 
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas técnicas correspondientes.
 
-### CAPITULO XI. BAÑOS Y ALBERCAS PÚBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
 ###### Artículo 211.
 
@@ -2791,7 +2809,7 @@ Queda prohibido el funcionamiento de prostíbulos en lugares cercanos a las áre
 
 Para la determinación del criterio de cercanía, se medirá una distancia de tres kilómetros a los puntos señalados en el párrafo anterior, el cual se considerará área no autorizada.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS Y ALBERCAS PÚBLICOS
 
 ###### Artículo 218.
 
@@ -2827,9 +2845,7 @@ III. Las instalaciones seguras, privadas y adecuadas que permitan a las mujeres 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2020)</small>
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### Artículo 222.
 
@@ -2851,7 +2867,9 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse al cu
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas técnicas en materia de salubridad local correspondientes que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIA, SALONES DE BELLEZA, ESTETICAS Y OTROS SIMILARES
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 225.
 
@@ -2865,7 +2883,7 @@ La Secretaría de Salud del Estado, podrá en cualquier momento ordenar la claus
 
 El funcionamiento de los establecimientos a que se refiere el Artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### Artículo 228.
 
@@ -2879,7 +2897,7 @@ Conforme a lo anterior, queda expresamente prohibido que en las peluquerías, sa
 
 El funcionamiento y personal de los establecimientos señalados en el Artículo 228 deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas técnicas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### Artículo 230.
 
@@ -2895,7 +2913,7 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### Artículo 232.
 
@@ -2911,7 +2929,7 @@ La Secretaría de Salud del Estado, realizará la verificación sanitaria a los 
 
 Para la construcción, acondicionamiento y/o funcionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberá cumplir con lo establecido en esta Ley y demás disposiciones aplicables.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### Artículo 235.
 
@@ -2920,6 +2938,16 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 ###### Artículo 236.
 
 Los transportes que circulen por uno o más municipios del Estado de Coahuila no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas técnicas que para tal efecto se emitan.
+
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+
+###### Artículo 237.
+
+Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
+
+###### Artículo 238.
+
+Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
 ### CAPITULO XIX. GUARDERÍAS, ASILOS Y CASAS HOGAR
 
@@ -2938,36 +2966,6 @@ III. Casa Hogar: Establecimiento destinado a proporcionar asistencia a menores o
 Artículo 242 bis 1. El funcionamiento y personal de los establecimientos señalados en el presente capítulo, deberán apegarse a lo establecido en esta Ley, a las normas técnicas correspondientes y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2020)</small>
-
-###### Artículo 237.
-
-Para los efectos de esta Ley, se entiende por gasolinería el establecimiento destinado al expendio o suministro de gasolinas, aceites y demás productos derivados del petróleo que sean usados en vehículos automotores.
-
-###### Artículo 238.
-
-Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
-
-### CAPITULO XX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA COLOCACIÓN DE TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES EN PERSONAS
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
-
-Artículo 242 ter. Para efectos de esta Ley, se entenderá por:
-
-I. Tatuaje: Procedimiento por el cual se graban dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por las punzadas previamente dispuestas;
-
-II. Micropigmentación: Procedimiento por el cual se depositan pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico, y
-
-III. Perforación: Procedimiento por el cual se introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa con un instrumento punzo cortante.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
-
-Artículo 242 quater. Los establecimientos dedicados a realizar tatuajes, micropigmentaciones y perforaciones deberán contar con personal debidamente capacitado y especializado para la realización de sus actividades, que deberán acreditar conocimientos en primeros auxilios y dominio en técnicas de higiene y asepsia.
-
-Se prohíbe realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes, así como en locales o establecimientos que no cuenten con las autorizaciones y/o certificaciones municipales o estatales en materia de salubridad y de funcionamiento comercial.
-
-Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones a personas menores de dieciocho años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, sólo podrá exceptuarse lo anterior cuando los menores de dieciocho años estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
-
-Los establecimientos deberán mostrar al cliente todo el material debidamente cerrado, nuevo y esterilizado, mismo que será utilizado en cualquiera de sus procedimientos. Asimismo, deberán realizar una inspección general de toda persona que se atienda.
 
 ###### Artículo 239.
 
@@ -3003,13 +3001,33 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2010)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XX. DE LOS ESTABLECIMIENTOS DEDICADOS A LA COLOCACIÓN DE TATUAJES, MICROPIGMENTACIONES Y PERFORACIONES EN PERSONAS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+Artículo 242 ter. Para efectos de esta Ley, se entenderá por:
+
+I. Tatuaje: Procedimiento por el cual se graban dibujos, figuras o marcas en la piel humana, introduciendo colorantes bajo la epidermis con agujas, punzones u otro instrumento por las punzadas previamente dispuestas;
+
+II. Micropigmentación: Procedimiento por el cual se depositan pigmentos en áreas específicas de la piel humana, bajo la epidermis, en la capa capilar de la dermis con agujas accionadas mediante un instrumento manual o electromecánico, y
+
+III. Perforación: Procedimiento por el cual se introduce algún objeto decorativo de material de implantación hipoalergénico en la piel o mucosa con un instrumento punzo cortante.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2020)</small>
+
+Artículo 242 quater. Los establecimientos dedicados a realizar tatuajes, micropigmentaciones y perforaciones deberán contar con personal debidamente capacitado y especializado para la realización de sus actividades, que deberán acreditar conocimientos en primeros auxilios y dominio en técnicas de higiene y asepsia.
+
+Se prohíbe realizar tatuajes, micropigmentaciones y perforaciones en puestos semifijos, módulos móviles o ambulantes, así como en locales o establecimientos que no cuenten con las autorizaciones y/o certificaciones municipales o estatales en materia de salubridad y de funcionamiento comercial.
+
+Queda prohibido realizar tatuajes, micropigmentaciones y perforaciones a personas menores de dieciocho años de edad, así como aquellas que no se encuentren en pleno goce de sus facultades mentales. En el caso de las acciones antes mencionadas, sólo podrá exceptuarse lo anterior cuando los menores de dieciocho años estén acompañados de uno de sus padres o tutor previa acreditación de tal carácter, o cuenten con la autorización por escrito.
+
+Los establecimientos deberán mostrar al cliente todo el material debidamente cerrado, nuevo y esterilizado, mismo que será utilizado en cualquiera de sus procedimientos. Asimismo, deberán realizar una inspección general de toda persona que se atienda.
+
+### CAPITULO I. AUTORIZACIONES
 
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### Artículo 243.
 
@@ -3055,7 +3073,7 @@ Los establecimientos que prestan servicios de asistencia social, no requerirán 
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### Artículo 248.
 
@@ -3115,7 +3133,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efecto, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### Artículo 256.
 
@@ -3191,7 +3209,7 @@ Sin perjuicio de lo dispuesto en el párrafo anterior, para el traslado o inhuma
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### Artículo 261.
 
@@ -3295,7 +3313,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 273.
 
@@ -3415,7 +3433,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### Artículo 286.
 
@@ -3529,7 +3547,7 @@ Artículo 297 bis 1. Las infracciones a las disposiciones de esta Ley, constitut
 
 Artículo 297 bis 2. Las autoridades de seguridad pública, procuración e impartición de justicia en el Estado podrán conocer y resolver los delitos que la Ley General de Salud establezca de su competencia.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### Artículo 298.
 
@@ -3616,6 +3634,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### Artículo 307.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### Artículo 308.
 
@@ -4242,3 +4262,9 @@ II. La creación de políticas y mecanismos para evitar el acoso escolar a las n
 Noveno.- Con fundamento del principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
 
 Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 306.- SE ADICIONA UN CAPÍTULO IX, AL TÍTULO TERCERO DEL ARTÍCULO 70 BIS 2 A LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado
