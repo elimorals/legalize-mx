@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2021-06-01"
+last_updated: "2023-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -4283,7 +4283,7 @@ Los delitos previstos en este capítulo se perseguirán por querella, salvo cuan
 
 Artículo 268 (Suplantación de identidad)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE ENERO DE 2023)</small>
 
 Se impondrá una pena de tres a ocho años de prisión y de 600 a 900 días multa, a quien se atribuya la identidad de otra persona por cualquier medio, u otorgue su consentimiento para llevar la suplantación de su identidad, produciendo con ello un daño moral o patrimonial, u obteniendo un lucro o un provecho indebido para sí o para otra persona.
 
@@ -8304,5 +8304,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 1 DE JUNIO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 67.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 268 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 309.- SE REFORMA EL ARTÍCULO 268 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
