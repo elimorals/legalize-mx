@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-organizacion-y-funcionamiento-de-las-128333"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-11"
-last_updated: "2022-05-02"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-02-07"
 
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2023.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de mayo de 2018.
 
@@ -125,107 +125,153 @@ ANEXO
 
 REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES.
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
+
 ## TÍTULO I. DISPOSICIONES GENERALES
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 1.
 
-El presente Reglamento es de observancia obligatoria para los servidores públicos del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, tiene por objeto establecer las disposiciones para la organización y adecuado funcionamiento de las comisiones que instituya el Pleno como auxiliares del mismo para la supervisión, propuesta, la deliberación, la opinión, el seguimiento y la evaluación de las actividades institucionales.
+El presente Reglamento es de observancia obligatoria para las personas servidoras públicas del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, tiene por objeto establecer las disposiciones para la organización y adecuado funcionamiento de las Comisiones que instituya el Pleno como auxiliares del mismo para la supervisión, propuesta, la deliberación, la opinión, el seguimiento y la evaluación de las actividades institucionales que se realicen para el cumplimiento de las atribuciones conferidas al INAI.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 2.
 
 Para los efectos del presente ordenamiento, se entenderá por:
 
-I. Comisión: Instancias colegiadas auxiliares del Pleno, permanentes o temporales, responsables de las tareas de supervisión y de las propuestas de políticas, programas y acciones para el seguimiento de las actividades institucionales de las diversas unidades administrativas del Instituto.
+I. Comisión Unida: Instancia colegiada auxiliar del Pleno, permanente o temporal, conformada por dos o más Comisiones previamente establecidas, responsables de tareas de supervisión y de las propuestas de políticas, programas y acciones para el seguimiento de las actividades institucionales de las diversas unidades administrativas del Instituto;
 
-II. Comisionado Presidente: El Comisionado que tiene la representación legal del Instituto, quien constituye el eje de coordinación y dirección institucional.
+II. Comisionada o Comisionado Coordinador: La Comisionada o Comisionado del Instituto que tiene la responsabilidad de dirigir y coordinar el adecuado funcionamiento de la Comisión;
 
-III. Comisionado Coordinador: El Comisionado del Instituto que tiene la responsabilidad de dirigir y coordinar el adecuado funcionamiento de la Comisión.
+III. Comisionada o Comisionado Presidente: La persona integrante del Pleno que tiene la representación legal del Instituto quien constituye el eje de coordinación y dirección institucional;
 
-IV. Comisionados Integrantes: Los comisionados del órgano máximo de dirección del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales con derecho a voz y voto en el Pleno y, que forman parte de alguna comisión.
+IV. Comisionadas o Comisionados Integrantes: Las Comisionadas o Comisionados del órgano máximo de dirección del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales con derecho a voz y voto en el Pleno y, que forman parte de alguna Comisión;
 
-V. Secretario Ejecutivo: El Secretario Ejecutivo del Instituto.
+V. Comisiones: Instancias colegiadas auxiliares del Pleno, permanentes o temporales, responsables de las tareas de supervisión y de las propuestas de políticas, programas y acciones para el seguimiento de las actividades institucionales de las diversas unidades administrativas del Instituto;
 
-VI. Secretario de Protección de Datos Personales: El Secretario de Protección de Datos Personales del Instituto.
+VI. Estatuto Orgánico: El Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-VII. Secretario de Acceso a la Información: El Secretario de Acceso a la Información del Instituto.
+VII. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-VIII. Secretario Ejecutivo del Sistema Nacional de Transparencia: El Secretario Ejecutivo del Sistema Nacional de Transparencia del Instituto.
+VIII. Ley Federal de Datos Personales: Ley Federal de Protección de Datos Personales en Posesión de los Particulares;
 
-IX. Secretario Técnico del Pleno: El Secretario Técnico del Pleno del Instituto.
+IX. Ley General de Datos Personales: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-X. Instituto: El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+X. Ley: Ley Federal de Transparencia y Acceso a la Información Pública;
 
-XI. Ley: La Ley Federal de Transparencia y Acceso a la Información Pública.
+XI. Pleno: El órgano máximo de dirección y decisión del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, el cual está integrado por siete Comisionadas y Comisionados;
 
-XII. Pleno: El órgano máximo de dirección y decisión del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, el cual está integrado por los siete comisionados.
+XII. Reglamento: El Reglamento para la organización y funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
-XIII. Reglamento: El Reglamento para la organización y funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+XIII. Secretaria o Secretario de Acceso a la Información: La persona titular de la Secretaría de Acceso a la Información del Instituto;
 
-XIV. Estatuto Orgánico: El Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y
+XIV. Secretaria o Secretario de Protección de Datos Personales: La persona titular de la Secretaría de Protección de Datos Personales del Instituto;
 
-XV. Secretario Técnico: El servidor público responsable de colaborar en los trabajos de la comisión.
+XV. Secretaria o Secretario Ejecutivo del Sistema Nacional de Transparencia: La persona titular de la Secretaría Ejecutiva del Sistema Nacional de Transparencia del Instituto;
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+XVI. Secretaria o Secretario Ejecutivo: La persona titular de la Secretaría Ejecutiva del Instituto;
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+XVII. Secretaria o Secretario Técnico del Pleno: La persona titular de la Secretaría Técnica del Pleno del Instituto, y
+
+XVIII. Secretaria o Secretario Técnico: La persona servidora pública responsable de colaborar en los trabajos de la Comisión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 3.
 
-El Comisionado Coordinador y los comisionados integrantes tendrán facultades para interpretar el contenido y alcance de las disposiciones del presente Reglamento, de conformidad con los principios establecidos en el artículo 6 de la Ley; así como para resolver los supuestos no previstos en este ordenamiento.
+La Comisionada o el Comisionado Coordinador y las Comisionadas y Comisionados Integrantes tendrán facultades para interpretar el contenido y alcance de las disposiciones del presente Reglamento, de conformidad con los principios establecidos en el artículo 6 de la Ley, así como para resolver los supuestos no previstos en este ordenamiento.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
 ## TÍTULO II. DE LAS COMISIONES
 
-### CAPÍTULO I. DE LAS ATRIBUCIONES
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+### CAPÍTULO I. DE LA INTEGRACIÓN Y ORGANIZACIÓN
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 4.
 
-El Pleno ejercerá sus atribuciones previstas en el artículo 21 de la Ley. Las comisiones son Instancias colegiadas auxiliares del Pleno, permanentes o temporales, responsables de las tareas de supervisión y de las propuestas de políticas, programas y acciones para el seguimiento de las actividades institucionales de las diversas unidades administrativas del Instituto.
+El Pleno en el ejercicio de sus atribuciones, será la instancia encargada de la creación de las Comisiones.
 
-Las comisiones serán creadas por el Pleno, se integrarán por tres comisionados con derecho a voz y voto, uno de los cuales fungirá como Comisionado Coordinador y su designación corresponderá al Pleno.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-La designación del Comisionado Coordinador y la integración de las comisiones será por dos años, al concluir dicho periodo, el Pleno podrá ampliar su gestión por un lapso igual. En caso contrario, el órgano máximo de decisión renovará la coordinación e integración de éstas.
-
-En caso de ausencia temporal del Comisionado Coordinador, éste designará de entre los comisionados integrantes, a quién le supla en las sesiones.
-
-Formarán parte de las comisiones los Secretarios Ejecutivo, de Acceso a la Información, de Protección de Datos Personales, y Ejecutivo del Sistema Nacional de Transparencia, así como los titulares de las direcciones generales que, de acuerdo con sus atribuciones y denominación le corresponda. Dichos integrantes sólo tendrán derecho a voz.
-
-El Comisionado Presidente conocerá de los asuntos y trabajos que se desarrollen en cada una de las comisiones y podrá designar a un representante permanente para que participe en las sesiones de las comisiones, dicho representante contará sólo con derecho a voz.
-
-Las comisiones podrán convocar, en calidad de invitados, a expertos, académicos, servidores públicos, a representantes de instituciones tanto públicas como privadas, y representantes de la sociedad civil.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 5.
 
-Las comisiones contarán con un Secretario Técnico cuya función recaerá en el Director General o Secretario que, atendiendo a sus atribuciones, desarrolle actividades relacionadas con la denominación y naturaleza de la Comisión. El Secretario Técnico sólo tendrá derecho a voz.
+Las Comisiones se integrarán por tres Comisionadas o Comisionados con derecho a voz y voto, uno de los cuales fungirá como Comisionada o Comisionado Coordinador y su designación corresponderá al Pleno.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+Participarán en las Comisiones las personas titulares de las Secretarías Ejecutiva, de Acceso a la Información, de Protección de Datos Personales, y Ejecutiva del Sistema Nacional de Transparencia, así como las personas titulares de las Direcciones Generales que, de acuerdo con sus atribuciones y denominación le corresponda. Asimismo, la o el Comisionado Presidente conocerá de los asuntos y trabajos que se desarrollen en cada una de las Comisiones y podrá designar a un representante permanente de nivel Secretaría o Dirección General, para que participe en las sesiones de las Comisiones. Dichos integrantes sólo tendrán derecho a voz.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 6.
 
-Las comisiones serán, por su duración, de dos tipos: permanentes y temporales.
+La designación de la Comisionada o Comisionado Coordinador y la integración de las Comisiones será por dos años. Al concluir dicho periodo, el Pleno podrá ampliar su gestión por un lapso igual. En caso contrario, el órgano máximo de decisión renovará la coordinación e integración de éstas.
 
-Las comisiones permanentes, son aquellas que por la continuidad de sus funciones determine el Pleno y, atenderán los asuntos propios de su denominación o naturaleza, así como aquellos que determine el Pleno.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-Las comisiones permanentes del Instituto, son:
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 7.
+
+En caso de ausencia temporal de la Comisionada o Comisionado Coordinador, éste designará de entre las Comisionadas y Comisionados Integrantes, a quién le supla en las sesiones. En caso de que ninguno (sic) de las Comisionadas y Comisionados Integrantes pueda conducir la sesión, de forma extraordinaria, por escrito y cuando menos con veinticuatro horas de anticipación a la hora de celebración de la sesión, se podrá habilitar a la persona titular de la Secretaría que corresponda a las actividades de la Comisión para que conduzca la Sesión con derecho a voz y voto.
+
+En caso de ausencia temporal de las Comisionadas y Comisionados Integrantes, éstos designarán a las personas titulares de las Direcciones Generales para que los representen en la sesión con voz y voto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 8.
+
+Las Comisiones podrán convocar, en calidad de invitadas, a personas expertas, académicas, servidoras públicas, representantes de instituciones tanto públicas como privadas, y representantes de la sociedad civil, quienes tendrán derecho a voz.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 9.
+
+Las Comisiones contarán con un Secretario o Secretaria Técnica cuya función recaerá en la persona titular de la Dirección General o Secretaría que, atendiendo a sus atribuciones, desarrolle actividades relacionadas con la denominación y naturaleza de la Comisión. La Secretaria o Secretario Técnico sólo tendrá derecho a voz.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 10.
+
+Las Comisiones serán, por su duración, de dos tipos: permanentes y temporales.
+
+Las Comisiones permanentes, son aquellas que por la continuidad de sus funciones determine el Pleno y, atenderán los asuntos propios de su denominación o naturaleza, así como aquellos que determine el Pleno.
+
+Las Comisiones permanentes del Instituto son:
 
 1. Asuntos Internacionales.
 
@@ -245,37 +291,43 @@ Las comisiones permanentes del Instituto, son:
 
 9. Vinculación con el Sistema Nacional de Transparencia.
 
-[INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]
-
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
-
-10. Criterios
+10. Criterios.
 
 11. Vinculación y Promoción del Derecho.
 
-Las comisiones temporales, serán aquellas creadas por acuerdo del Pleno para la atención de un asunto determinado, un periodo, u objeto específico, por lo cual, una vez concluida la tarea institucional, rendirán un informe al Pleno del Instituto y se procederá a su extinción.
+Las Comisiones temporales, serán aquellas creadas por acuerdo del Pleno para la atención de un asunto determinado, un periodo, u objeto específico, por lo cual, una vez concluida la tarea institucional, rendirán un informe al Pleno del Instituto y se procederá a su extinción.
 
-El acuerdo de creación de las comisiones temporales establecerá, el nombre de los comisionados integrantes, el asunto o tema determinado que le asigne el Pleno, así como la temporalidad para el desempeño de sus funciones y plazo para rendir el informe de sus actividades.
+El acuerdo de creación de las Comisiones temporales establecerá, el nombre de las Comisionadas o Comisionados Integrantes; el nombre de la o el Comisionado Coordinador, el asunto o tema determinado que le asigne el Pleno, así como la temporalidad para el desempeño de sus funciones y plazo para rendir el informe de sus actividades.
 
-Cuando la naturaleza de los asuntos a tratar lo amerite, podrán trabajar en comisiones unidas.
+Cuando la naturaleza de los asuntos a tratar lo amerite y el Pleno del Instituto lo acuerde, o bien, cuando las Comisionadas o Comisionados Coordinadores de las Comisiones involucradas lo consideren oportuno, dos o más Comisiones temporales podrán trabajar unidas.
 
-###### Artículo 7.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-Las comisiones permanentes tendrán, las atribuciones genéricas siguientes:
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
-I. Decidir su propio funcionamiento de acuerdo a las actividades y acciones institucionales que durante el año se requiera desarrollar;
+### CAPÍTULO II. DE LAS ATRIBUCIONES
 
-II. Aprobar el calendario de sesiones ordinarias y una agenda de trabajo en la cual de acuerdo a las necesidades de la comisión y para el mejor desarrollo de los objetivos, se incluyan, en cualquier momento, aquellas actividades y acciones que coadyuven al cumplimiento de las metas institucionales;
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-III. Informar al Pleno en el primer trimestre del año sobre las actividades y/o acuerdos desarrolladas (sic) durante el año inmediato anterior en el seno de la Comisión;
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
-IV. Someter a consideración del Pleno proyectos de acuerdos, propuestas de actividades y acciones institucionales que deriven de la denominación o de la propia naturaleza de la comisión;
+###### Artículo 11.
 
-V. Presentar al Pleno opiniones y recomendaciones para los sujetos obligados y responsables en materia de acceso a la información y protección de datos personales, así como vigilar su cumplimiento;
+Las Comisiones permanentes tendrán, las atribuciones genéricas siguientes:
+
+I. Definir su propio funcionamiento de acuerdo con las actividades y acciones institucionales que durante el año se requiera desarrollar;
+
+II. Aprobar durante el mes de enero de cada año el calendario de sesiones ordinarias, que se celebrarán al menos dos veces al año, y una agenda de trabajo en la cual, de acuerdo con las necesidades de la Comisión y para el mejor desarrollo de los objetivos, se incluyan, en cualquier momento, aquellas actividades y acciones que coadyuven al cumplimiento de las metas institucionales;
+
+III. Presentar al Pleno, a más tardar el 31 de marzo de cada año, el Informe Anual de las actividades desarrolladas en el seno de la Comisión durante el año inmediato anterior, para su conocimiento y opinión;
+
+IV. Someter a consideración del Pleno proyectos de acuerdos, propuestas de actividades o acciones institucionales y demás asuntos relacionados con la naturaleza u objeto de la Comisión;
+
+V. Presentar al Pleno opiniones y recomendaciones acordes con las atribuciones de la Comisión, para los sujetos obligados y responsables en materia de acceso a la información y protección de datos personales, así como vigilar su cumplimiento;
 
 VI. Someter a consideración del Pleno propuestas de lineamientos o de acuerdos y demás normativa propia de su denominación;
 
-VII. Proponer al Pleno la adopción de lineamientos, criterios y mecanismos de cumplimiento general para los sujetos obligados y responsables del tratamiento de datos personales;
+VII. Proponer al Pleno la adopción de lineamientos, criterios y mecanismos de cumplimiento general de la normatividad en materia de acceso a la información y de protección de datos personales;
 
 VIII. Promover la celebración de convenios, acuerdos, bases de colaboración y demás actos consensuales, tanto nacionales como internacionales, a celebrarse con cualquier ente público o privado;
 
@@ -283,333 +335,371 @@ IX. Proponer la realización de foros, seminarios, conferencias, talleres y even
 
 X. Incentivar la participación de los distintos actores sociales, como organizaciones civiles, instituciones académicas y organismos empresariales, y
 
-XI. Las demás que le confiera el Pleno, así como aquellas que deriven de la denominación y que resulten necesarias para el debido funcionamiento de la comisión.
+XI. Las demás que le confieran el Pleno, el presente Reglamento o las demás disposiciones aplicables, así como aquellas que tengan relación con su naturaleza u objeto y resulten necesarias para el debido funcionamiento de la Comisión.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
-###### Artículo 8.
+###### Artículo 12.
 
-Corresponde al Comisionado Coordinador de la comisión:
+Corresponde a la Comisionada o Comisionado Coordinador de la Comisión:
 
-I. Convocar, presidir y conducir las sesiones de la comisión;
+I. Convocar, presidir y asegurar el correcto desarrollo de las sesiones de la Comisión;
 
 II. Participar en la deliberación de los asuntos contenidos en el orden del día de las sesiones;
 
 III. Declarar instalada la sesión, así como su inicio y conclusión;
 
-IV. Declarar la comisión en sesión permanente, así como decretar los recesos cuando fuere necesario o sean solicitados por alguno de los comisionados integrantes;
+IV. Declarar la Comisión en sesión permanente, así como decretar los recesos cuando fuere necesario o sean solicitados por alguno (sic) de las Comisionadas y Comisionados Integrantes;
 
-V. Conceder el uso de la palabra a los comisionados integrantes y demás participantes que lo soliciten;
+V. Conceder el uso de la palabra a las Comisionadas y Comisionados Integrantes y demás participantes que tengan derecho a voz;
 
-VI. Mantener el orden y respeto durante las sesiones de las comisiones;
+VI. Mantener el orden y respeto durante las sesiones de las Comisiones;
 
-VII. Consultar a los comisionados integrantes de la comisión, si el asunto sometido a su análisis, está suficientemente discutido;
+VII. Consultar a las Comisionadas y Comisionados Integrantes de la Comisión; si el asunto sometido a su análisis, está suficientemente discutido;
 
-VIII. Solicitar al Secretario Técnico que someta a votación de los comisionados integrantes, los proyectos de acuerdos, programas, informes y demás documentos elaborados por la comisión;
+VIII. Solicitar a la Secretaria o Secretario Técnico que someta a votación de las Comisionadas y Comisionados Integrantes, los proyectos de acuerdos, programas, informes y demás documentos elaborados por la Comisión;
 
-IX. Emitir voto de calidad en caso de empate;
+IX. Emitir voto de calidad en caso de empate,
 
 X. Firmar las actas de las sesiones;
 
-XI. Posponer la discusión de un asunto, cuando así lo solicite alguno de los comisionados integrantes de la comisión;
+XI. Posponer la discusión de un asunto, cuando así lo solicite alguna de las personas integrantes de la Comisión;
 
 XII. Solicitar y recibir la colaboración, informes y demás documentos necesarios para el cumplimiento de sus funciones, y
 
-XIII. Las demás que le atribuya el Pleno, de acuerdo con la denominación y naturaleza de la comisión.
+XIII. Las demás que le atribuya el Pleno, de acuerdo con la denominación y naturaleza de la Comisión.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
-
-###### Artículo 9.
-
-Corresponde a los comisionados integrantes de las comisiones:
-
-I. Participar con voz y voto en las sesiones de la comisión;
-
-II. Intervenir en la deliberación de los asuntos contenidos en el orden del día;
-
-III. Emitir su voto respecto a los proyectos de acuerdo, resolución, programas, agenda de trabajo, informes o dictámenes competencia de la comisión;
-
-IV. Solicitar al Comisionado Coordinador, hasta veinticuatro horas antes de la sesión ordinaria, la inclusión de asuntos en el proyecto de orden del día;
-
-V. Firmar las actas de las sesiones a las que haya asistido;
-
-VI. Solicitar al Comisionado Coordinador que convoque a sesión extraordinaria, y
-
-VII. Las demás que le asigne el Pleno o la comisión.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
-
-###### Artículo 10.
-
-Corresponde al Secretario Técnico:
-
-I. Preparar el orden del día, previo acuerdo con el Comisionado Coordinador;
-
-II. Remitir a los comisionados integrantes y al Comisionado Presidente, preferentemente por medios electrónicos, las convocatorias y demás documentos necesarios para la debida deliberación de los asuntos contenidos en el orden del día;
-
-III. Proporcionar los insumos necesarios para el buen funcionamiento de la comisión;
-
-IV. Verificar la asistencia de los comisionados integrantes y, en su caso, declarar la existencia de quórum;
-
-V. Cumplir las indicaciones del Comisionado Coordinador, tomar las votaciones y dar a conocer el resultado de éstas;
-
-VI. Auxiliar al Comisionado Coordinador en el desahogo de las sesiones;
-
-VII. Elaborar las actas de cada una de las sesiones y recabar las firmas de los comisionados integrantes y del Comisionado Coordinador que participaron en la sesión;
-
-VIII. Llevar un registro de los acuerdos y resoluciones adoptados en cada sesión y verificar su cumplimiento;
-
-IX. Informar a los comisionados integrantes sobre el cumplimiento de los acuerdos y resoluciones;
-
-X. Organizar y administrar el archivo de la comisión;
-
-XI. Presentar a la Comisión una propuesta de agenda de trabajo y calendario de sesiones ordinarias;
-
-XII. Integrar un informe sobre las actividades y/o acuerdos desarrolladas (sic) en el seno de la Comisión durante el año inmediato anterior. Una vez aprobado por la Comisión, por su conducto, deberá ser remitido al Secretario Técnico del Pleno, para que a su vez informe a los integrantes del Pleno;
-
-XIII. Las demás que le asigne la comisión.
-
-Las ausencias temporales del Secretario Técnico serán suplidas por el servidor público que determine el Comisionado Coordinador.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
-
-### CAPÍTULO II. DE LAS ATRIBUCIONES
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
-
-###### Artículo 11.
-
-El Secretario Ejecutivo, el Secretario de Acceso a la Información, el Secretario de Protección de Datos Personales y el Secretario Ejecutivo del Sistema Nacional de Transparencia, en el ámbito de sus respectivas competencias, participarán en las actividades de aquellas comisiones que, de acuerdo con su naturaleza y denominación les corresponda y supervisarán que las diversas unidades administrativas a su cargo, den cabal cumplimiento a la agenda de trabajo y las actividades que se les encomienden para el correcto desempeño de la comisión.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
-
-###### Artículo 12.
-
-Sin menoscabo de las funciones que les confiere el Estatuto Orgánico del Instituto, el Secretario Ejecutivo, el Secretario de Acceso a la Información, el Secretario de Protección de Datos Personales, y el Secretario Ejecutivo del Sistema Nacional de Transparencia, en el ámbito de sus respectivas competencias, para la operación de las comisiones tendrán las atribuciones siguientes:
-
-I. Participar en las comisiones que incidan en su ámbito de su competencia;
-
-II. Promover la elaboración de acuerdos, lineamientos, recomendaciones y otros instrumentos jurídicos en materia de transparencia, acceso a la información y archivos;
-
-III. Informar a la comisión que corresponde, el cumplimiento de las resoluciones en materia de acceso a la información, protección de datos personales y, en su caso, de las denuncias por las presuntas infracciones a la Ley;
-
-IV. Fomentar planes y programas institucionales de evaluación y vigilancia que deberán observar las dependencias, entidades, organismos públicos y del sector privado en materia de acceso a la información y protección de datos personales;
-
-V. Dirigir y promover la elaboración de proyectos de ordenamientos jurídicos para regular las actividades de los sujetos obligados, así como de los responsables del tratamiento de datos personales y archivos;
-
-VI. Promover programas de capacitación y educación dirigidos a la sociedad civil en general, así como a los servidores públicos y el personal de los responsables del tratamiento de datos personales;
-
-VII. Proporcionar apoyo técnico sobre los asuntos relacionados con sus atribuciones y competencias, y
-
-VIII. Las demás que deriven del Estatuto Orgánico o correspondan a la naturaleza, funciones y denominación de la comisión.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 13.
 
-Los directores generales, directores de área o titulares de las unidades administrativas participarán, con derecho a voz, en aquellas comisiones que sean afines a sus atribuciones y competencias, con las siguientes obligaciones:
+Corresponde a las Comisionadas y Comisionados Integrantes de las Comisiones:
 
-I. Participar en las sesiones de las comisiones relacionadas con la materia de su competencia;
+I. Participar con voz y voto en las sesiones de la Comisión;
 
-> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+II. Intervenir en la deliberación de los asuntos contenidos en el orden del día;
 
-> <small>[N. DE E. SE ADVIERTE QUE LA ANTERIOR FRACCIÓN III, QUEDÓ INMERSA EN LA PRESENTE FRACCIÓN.]</small>
+III. Emitir su voto respecto a los proyectos de acuerdo, resolución, programas, agenda de trabajo, informes o dictámenes competencia de la Comisión;
 
-> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2022)</small>
+IV. Solicitar a la Comisionada o Comisionado Coordinador, hasta veinticuatro horas antes de la sesión ordinaria, la inclusión de asuntos en el proyecto de orden del día;
 
-II. Preparar y entregar al Secretario Técnico de la Comisión de que se trate, los proyectos de acuerdo, resolución, programas, informes, dictámenes, así como los demás documentos que le sean solicitados para el adecuado desarrollo de los trabajos de la comisión;
+V. Firmar las actas de las sesiones a las que haya asistido;
 
-> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+VI. Solicitar a la Comisionada o Comisionado Coordinador que convoque a sesión extraordinaria, y
 
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN IV], D.O.F. 2 DE MAYO DE 2022)</small>
+VII. Las demás que le asigne el Pleno o la Comisión.
 
-III. Proporcionar asesoría técnica a las comisiones sobre los asuntos afines a sus atribuciones y competencias, y
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
-
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN V], D.O.F. 2 DE MAYO DE 2022)</small>
-
-IV. Las demás que deriven del Estatuto Orgánico o correspondan a la naturaleza, funciones y denominación de la comisión.
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 14.
 
-Las sesiones de las comisiones serán ordinarias o extraordinarias.
+Corresponde a la Secretaria o Secretario Técnico:
 
-Las sesiones ordinarias serán aquellas aprobadas en el calendario de sesiones al que hace referencia el artículo 7 fracción II.
+I. Preparar el orden del día, previo acuerdo con la Comisionada o el Comisionado Coordinador;
 
-Las sesiones extraordinarias serán convocadas por el Comisionado Coordinador cuando lo estime pertinente, en razón de la importancia o trascendencia del tema a tratar o, a petición de alguno de los comisionados integrantes. Sólo se discutirá en ellas el tema particular para el que fueron convocadas.
+II. Remitir a las Comisionadas y Comisionados Integrantes y a la Comisionada o Comisionado Presidente, preferentemente por correo electrónico institucional y conforme a los plazos establecidos en el artículo 19 del presente ordenamiento, las convocatorias y demás documentos necesarios para la debida deliberación de los asuntos contenidos en el orden del día; y en caso extraordinario por instrucciones de la Comisionada o Comisionado Coordinador convocar a las sesiones de la Comisión;
 
-A propuesta de los comisionados integrantes, el Comisionado Coordinador podrá declarar las comisiones en sesión permanente; asimismo, podrá decretar recesos cuando fuere necesario.
+III. Proporcionar a las y los integrantes de la Comisión los insumos necesarios para el buen funcionamiento de la misma;
+
+IV. Verificar la asistencia de las Comisionadas y Comisionados Integrantes y, en su caso, declarar la existencia de quórum;
+
+V. Cumplir las indicaciones de la Comisionada o Comisionado Coordinador, tomar las votaciones y dar a conocer el resultado de éstas;
+
+VI. Auxiliar a la Comisionada o Comisionado Coordinador en el desahogo de las sesiones;
+
+VII. Elaborar las actas de cada una de las sesiones y recabar las firmas de las Comisionadas y Comisionados integrantes y de la Comisionada o Comisionado Coordinador que participaron en la sesión;
+
+VIII. Llevar un registro de los acuerdos y resoluciones adoptados en cada sesión y verificar su cumplimiento;
+
+IX. Informar a las Comisionadas y Comisionados Integrantes sobre el cumplimiento de los acuerdos y resoluciones;
+
+X. Organizar y administrar el archivo de la Comisión;
+
+XI. Presentar a la Comisión una propuesta de agenda de trabajo y calendario de sesiones ordinarias;
+
+XII. Integrar un informe sobre las actividades y/o acuerdos desarrollados en el seno de la Comisión durante el año inmediato anterior. Una vez aprobado por la Comisión, por su conducto, deberá ser remitido a la persona titular de la Secretaría Técnica del Pleno, para que a su vez informe a los integrantes del Pleno conforme al término establecido en el artículo 11, fracción III del presente ordenamiento;
+
+XIII. Las demás que le asigne la Comisión.
+
+Las ausencias temporales de la o el Secretario Técnico serán suplidas por la persona servidora pública de los niveles Secretaría o Dirección General que determine la Comisionada o el Comisionado Coordinador.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 15.
 
-El Comisionado Coordinador, indicará al Secretario Técnico que elabore la convocatoria correspondiente.
+Las personas titulares de las Secretarías: Ejecutiva, de Acceso a la Información, de Protección de Datos Personales y Ejecutiva del Sistema Nacional de Transparencia, en el ámbito de sus respectivas competencias, participarán en las actividades de aquellas Comisiones que, de acuerdo con su naturaleza y denominación les corresponda y supervisarán que las diversas unidades administrativas a su cargo, den cabal cumplimiento a la agenda de trabajo y las actividades que se les encomienden para el correcto desempeño de la Comisión.
 
-> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+Asimismo, las personas titulares de las Secretarías previamente referidas ocuparán el cargo de la Comisionada o Comisionado Integrante, en caso de ausencia temporal o permanente, en términos de lo dispuesto en el artículo 7 del presente ordenamiento, con las mismas atribuciones que el presente Reglamento confiere a las Comisionadas y Comisionados Integrantes.
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-Las convocatorias se realizarán por escrito o medios electrónicos y serán notificadas a los comisionados integrantes, así como a la Presidencia del Instituto. Cuando se trate de sesiones ordinarias, la convocatoria se hará con cuarenta y ocho horas de anticipación y, para el caso de reuniones extraordinarias, se notificará con veinticuatro horas de anticipación.
-
-No se requerirá convocatoria previa, cuando se trate de sesiones extraordinarias y esté presente la totalidad de los comisionados integrantes de la comisión.
-
-La convocatoria deberá contener el día, la hora y el lugar en que tendrá verificativo la sesión, la naturaleza de la sesión, sea ordinaria o extraordinaria y, el proyecto del orden del día; asimismo, deberán adjuntarse los documentos y anexos necesarios para el análisis y deliberación de los temas a tratar. Los anexos se distribuirán preferentemente en medios electrónicos.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 16.
 
-Los comisionados integrantes, hasta veinticuatro horas antes de la celebración de la sesión ordinaria, podrán solicitar al Comisionado Coordinador que incluya asuntos en el proyecto de orden del día, para lo cual, anexarán a su solicitud los documentos que serán motivo de deliberación, a efecto de que el Comisionado Coordinador, por conducto del Secretario Técnico, los remita de manera inmediata a los demás integrantes de la comisión.
+Sin menoscabo de las funciones que les confiere el Estatuto Orgánico del Instituto, las personas titulares de las Secretarías: Ejecutiva, de Acceso a la Información, de Protección de Datos Personales y Ejecutiva del Sistema Nacional de Transparencia, en el ámbito de sus respectivas competencias, para la operación de las Comisiones tendrán las atribuciones siguientes:
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+I. Participar en las Comisiones que incidan en su ámbito de su competencia; así como conducir las sesiones ordinarias en términos del artículo 7 del presente ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+II. Promover la elaboración de acuerdos, lineamientos, recomendaciones y otros instrumentos jurídicos en materia de transparencia, acceso a la información, archivos, y protección de datos personales.
+
+III. Informar a la Comisión que corresponda, el cumplimiento de los acuerdos tomados por la misma, cuya ejecución sea competencia de la Secretaría a su cargo;
+
+IV. Fomentar planes y programas institucionales de evaluación y vigilancia que deberán observar las dependencias, entidades, organismos públicos y del sector privado en materia de acceso a la información y protección de datos personales;
+
+V. Dirigir y promover la elaboración de proyectos de ordenamientos jurídicos para regular las actividades de los sujetos obligados, así como de las personas responsables del tratamiento de datos personales y archivos;
+
+VI. Promover programas de capacitación y educación dirigidos a la sociedad civil en general, así como a las personas servidoras públicas y el personal de los responsables del tratamiento de datos personales;
+
+VII. Proporcionar apoyo técnico a las y los Integrantes de la Comisión, sobre los asuntos relacionados con sus atribuciones y competencias, y,
+
+VIII. Las demás que deriven del Estatuto Orgánico correspondan a la naturaleza, funciones y denominación de la Comisión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 17.
 
-Al inicio de las sesiones ordinarias el Comisionado Coordinador consultará a los integrantes si existen asuntos generales para que, en su caso, sean incluidos en el orden del día.
+Las personas titulares de las direcciones generales, direcciones de área o integrantes de las unidades administrativas, participarán con derecho a voz, en aquellas Comisiones que sean afines a sus atribuciones y competencias, con las siguientes obligaciones:
 
-Los comisionados integrantes podrán solicitar al Comisionado Coordinador la inclusión de asuntos generales, siempre y cuando no requieran análisis previo de documentos.
+I. Participar en las sesiones de las Comisiones relacionadas con la materia de su competencia;
+
+II. Preparar y entregar a la Secretaria o Secretario Técnico de la Comisión de que se trate, los proyectos de acuerdo, resolución, programas, informes, dictámenes, así como los demás documentos que le sean solicitados para el adecuado desarrollo de los trabajos de la Comisión;
+
+III. Generar y entregar a la o el Secretario Técnico de la Comisión de que se trate, los insumos necesarios para la conformación y presentación de la agenda de trabajo y el informe anual de labores de la Comisión.
+
+IV. Proporcionar asesoría técnica a las Comisiones sobre los asuntos afines a sus atribuciones y competencias, y
+
+V. Las demás que deriven del Estatuto Orgánico o correspondan a la naturaleza, funciones y denominación de la Comisión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
 ## TÍTULO III. DE LAS SESIONES
 
-### CAPÍTULO I. TIPO DE SESIONES
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+### CAPÍTULO I. DEL TIPO DE SESIONES, LUGAR Y DÍA PARA SU DESARROLLO
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 18.
 
-En la fecha señalada por la convocatoria para la celebración de la sesión, el Secretario Técnico verificará la asistencia de los comisionados integrantes y, en su caso, declarará la existencia del quórum; corroborado lo anterior, el Comisionado Coordinador declarará instalada la sesión.
+Las sesiones de las Comisiones serán ordinarias o extraordinarias.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+Las sesiones ordinarias serán aquellas aprobadas en el calendario de sesiones al que hace referencia el artículo 11, fracción ll del presente ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+Las sesiones extraordinarias serán convocadas por la Comisionada o el Comisionado Coordinador cuando lo estime pertinente, en razón de la importancia o trascendencia del tema a tratar o, a petición de alguno (sic) de las Comisionadas y Comisionados Integrantes. Sólo se discutirá en ellas el tema particular para el que fueron convocadas.
+
+A propuesta de las Comisionadas y Comisionados Integrantes, la Comisionada o el Comisionado Coordinador podrá declarar las Comisiones en sesión permanente; asimismo, podrá decretar recesos cuando fuere necesarios.
+
+Las sesiones se llevarán a cabo en la sede del Instituto salvo que, por causas justificadas, el o la Comisionada acuerde que se lleve a cabo en un lugar distinto y en la convocatoria se señale el mismo.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, la o el Comisionado Coordinador, en conjunto con las Comisionadas y Comisionados Integrantes podrá acordar, con base en causa justificada, que la Sesión se lleve a cabo:
+
+I. En un lugar distinto de la sede del Instituto;
+
+II. Mediante conferencias virtuales a través de plataformas tecnológicas, caso en que deberá garantizarse la presencia simultánea de la o el Comisionado Coordinador y de las Comisionadas y Comisionados Integrantes, así como del o la Secretaría Técnica, y se establecerán medidas a efecto de permitir la intervención de las demás personas que estén convocadas a participar en la misma, o
+
+III. Con la presencia física de una parte de las personas convocadas a participar y la presencia virtual de otra parte de ellas, caso en que deberá garantizarse la presencia simultánea, física o virtual, de las Comisionadas y Comisionados Integrantes y de la o el Secretario Técnico y se establecerán medidas a efecto de permitir la intervención de todas las personas que estén convocadas.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
 ### CAPÍTULO II. DE LA CONVOCATORIA
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 19.
 
-Para la instalación de las sesiones tanto ordinarias, como extraordinarias, será necesaria la presencia del Comisionado Coordinador, o en caso de ausencia, del comisionado integrante que le supla en sus funciones y, cuando menos, uno de los comisionados integrantes.
+La Comisionada o el Comisionado Coordinador, indicará a la Secretaria o Secretario Técnico que elabore la convocatoria correspondiente.
 
-Si transcurren treinta minutos, después de la hora fijada para la sesión, sin que se integre el quórum, no podrá declararse instalada la sesión. El Comisionado Coordinador pedirá al Secretario Técnico, que haga constar esta situación en el acta correspondiente y convocará a los presentes a una nueva sesión, la cual tendrá lugar dentro de las cuarenta y ocho horas hábiles siguientes.
+Las convocatorias se realizarán por escrito, mediante oficio, o bien, por correo electrónico institucional y serán notificadas a las Comisionadas y Comisionados Integrantes, así como a la Presidencia del Instituto. Cuando se trate de sesiones ordinarias, la convocatoria se hará con cuarenta y ocho horas de anticipación y, para el caso de reuniones extraordinarias, se notificará con veinticuatro horas de anticipación.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+No se requerirá convocatoria previa, cuando se trate de sesiones extraordinarias y esté presente la totalidad de Comisionadas y Comisionados Integrantes de la Comisión.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+La convocatoria deberá contener el día, la hora y el lugar, o bien el método respectivo para llevar a cabo la sesión, así como la naturaleza de la sesión, sea ordinaria o extraordinaria y, el proyecto del orden del día; asimismo, deberán adjuntarse los documentos y anexos necesarios para el análisis y deliberación de los temas a tratar. Los anexos se distribuirán preferentemente mediante correo electrónico institucional.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 20.
 
-De existir el quórum previsto, el Comisionado Coordinador declarará instalada la sesión y dará inicio a los trabajos, indicando al Secretario Técnico que someta a consideración de los integrantes el proyecto de orden del día.
+Las Comisionadas y Comisionados Integrantes, hasta veinticuatro horas antes de la celebración de la sesión ordinaria, podrán solicitar a la Comisionada o Comisionado Coordinador, mediante oficio o correo electrónico institucional, que incluya asuntos en el proyecto de orden del día, para lo cual, anexarán a su solicitud los documentos que serán motivo de deliberación, a efecto de que la Comisionada o Comisionado Coordinador, por conducto de la Secretaria o Secretario Técnico, los remita de manera inmediata a los demás integrantes de la Comisión.
 
-Los comisionados integrantes que tengan observaciones, sugerencias o propuestas de modificación al proyecto de orden del día, podrán presentarlas verbalmente al momento en que el Comisionado Coordinador someta a discusión su contenido.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-En las sesiones ordinarias podrán incluirse asuntos para su disertación, siempre y cuando, previamente se hubiesen enviado a los integrantes los documentos que serán motivo de análisis, discusión y, en su caso, aprobación.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 21.
 
-Una vez aprobado el orden del día, el Comisionado Coordinador o el Secretario Técnico podrán solicitar a los comisionados integrantes, se dispense la lectura de los asuntos para que procedan a la deliberación y, en su caso, la votación de aquellos que así lo requieran.
+Al inicio de las sesiones ordinarias la Comisionada o Comisionado Coordinador consultará a los integrantes si existen asuntos generales para que, en su caso, sean incluidos en el orden del día.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+Las Comisionadas y Comisionados Integrantes podrán solicitar a la Comisionada o Comisionado Coordinador la inclusión de asuntos generales, siempre y cuando no requieran análisis previo de documentos.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-### CAPÍTULO III. DESARROLLO DE LAS SESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE ENERO DE 2023)</small>
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+### CAPÍTULO III. DE LA INSTALACIÓN Y DESARROLLO DE LAS SESIONES
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 22.
 
-Los integrantes de las comisiones podrán hacer uso de la palabra previa petición al Comisionado Coordinador, quien funge como moderador.
+En la fecha y el medio señalado por la convocatoria para la celebración de la sesión, la Secretaria o Secretario Técnico verificará la asistencia de las Comisionadas y Comisionados Integrantes y, en su caso, declarará la existencia del quórum; corroborado lo anterior, la Comisionada o el Comisionado Coordinador declarará instalada la sesión.
 
-Cada orador dispondrá de diez minutos para su intervención, en cada una de las tres rondas y, de dos minutos, cuando se trate de alusiones personales.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-Por excepción, sólo cuando el tema no esté suficientemente discutido y lo solicite la mayoría de los comisionados integrantes, el Comisionado Coordinador abrirá una cuarta ronda, para que formulen sus conclusiones.
-
-Agotadas las intervenciones de los oradores, el Comisionado Coordinador preguntará a los comisionados integrantes si el tema está suficientemente discutido, en cuyo caso, se instruirá al Secretario Técnico para que proceda a recabar la votación.
-
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
-
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 23.
 
-Los comisionados que no sean integrantes de alguna comisión podrán asistir a las sesiones, con derecho a voz.
+Para la instalación de las sesiones tanto ordinarias, como extraordinarias, será necesaria la presencia de la Comisionada o del Comisionado Coordinador, o en caso de ausencia, del Comisionado integrante que le supla en sus funciones y, cuando menos, uno (sic) de las Comisionadas o Comisionados Integrantes.
 
-Previo acuerdo de los comisionados integrantes, podrán participar en las sesiones de las comisiones, invitados, expertos, académicos, servidores públicos, titulares de diversas áreas administrativas del Instituto o representantes de instituciones públicas, privadas y organizaciones sociales, quienes sólo tendrán derecho a voz.
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 24.
 
-Agotada la discusión sobre algún asunto del orden del día que requiera de votación, el Comisionado Coordinador indicará al Secretario Técnico que proceda a recibirla.
+En la instalación de las sesiones de las Comisiones, se observará lo siguiente:
 
-Las decisiones de las comisiones se adoptarán por mayoría de votos de los comisionados integrantes presentes. En caso de empate, el Comisionado Coordinador, o quien fuera designado por éste para suplirle en funciones en caso de ausencia, tendrá voto de calidad.
+I. En el día, hora y lugar o medio fijado para la sesión, se reunirán la o el Comisionado Coordinador y las Comisionadas y Comisionados Integrantes a efecto de llevar a cabo la sesión correspondiente.
 
-> <small>[N. DE E. INFOMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-20-04-2022.10.zip]</small>
+II. La o el Comisionado Coordinador declarará instalada la sesión, previa verificación por parte de la o el Secretario Técnico de la existencia del quórum.
 
-> <small>(REFORMADO, D.O.F. 2 DE MAYO DE 2022)</small>
+III. Para que exista quórum y la sesión se instale válidamente se requiere de la asistencia física o virtual simultánea de dos Comisionadas o Comisionados, incluyendo a la o el Comisionado Coordinador o a la o el Comisionado que lo supla, o de quienes les sustituyan en términos del segundo párrafo del artículo 15 del presente Reglamento.
 
-Los comisionados integrantes expresarán su voto a favor o en contra. En caso de estar en desacuerdo con el sentido de la votación, podrán emitir votos particulares o disidentes, en los que expongan los argumentos que motivaron su disenso.
+IV. En caso de no reunirse el quórum correspondiente, se concederá un plazo máximo de espera de veinte minutos y una vez transcurrido éste sin que se logre la integración del quórum, la Secretaría Técnica elaborará un acta circunstanciada de hechos en la que hará constar dicha situación y se citará nuevamente para la celebración de dicha sesión para el día hábil siguiente, en la fecha y hora acordada por las personas integrantes presentes.
 
-Los comisionados integrantes deberán emitir su voto con relación a los asuntos que así lo ameriten y que sean sometidos a su consideración, por tanto, sólo podrán eximirse cuando exista un impedimento legal.
+V. Si en la sesión a celebrar por segunda convocatoria tampoco se reúne el quórum respectivo, se concederá un plazo máximo de espera de treinta minutos y una vez transcurrido éste sin que se integre el quórum, la Comisionada o el Comisionado Coordinador pedirá a la Secretaria o Secretario Técnico, que haga constar esta situación en el acta circunstanciada correspondiente y convocará a una nueva sesión, la cual tendrá lugar dentro de los tres días hábiles siguientes.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+VI. Si por caso fortuito o de fuerza mayor no es posible agendar y desarrollar la sesión por tercera convocatoria dentro del plazo señalado en la fracción previa, ésta deberá declararse como desierta, correspondiendo a la Secretaría Técnica elaborar el acta circunstanciada de hechos en la que se hará constar dicha situación, para posteriormente someterla a la aprobación y firma de las personas integrantes de la Comisión correspondiente.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+De existir el quórum previsto, la Comisionada o el Comisionado Coordinador declarará instalada la sesión y dará inicio a los trabajos indicando a la Secretaria o Secretario Técnico que someta a consideración de las personas integrantes el proyecto de orden del día.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 25.
 
-Agotados los temas del orden del día y, en su caso, los asuntos generales, el Comisionado Coordinador declarará la conclusión de la sesión.
+Las Comisionadas y Comisionados Integrantes que tengan observaciones, sugerencias o propuestas de modificación al proyecto de orden del día, podrán presentarlas verbalmente al momento en que la Comisionada o el Comisionado Coordinador someta a discusión su contenido.
+
+En las sesiones ordinarias podrán incluirse asuntos para su disertación, siempre y cuando, los documentos que serán motivo de análisis, discusión y, en su caso, aprobación, se hubiesen enviado a los integrantes junto con la convocatoria a la sesión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 26.
 
-De cada reunión de la comisión, se elaborará un acta en la que el Secretario Técnico especificará el tipo de sesión, ordinaria o extraordinaria, fecha de su celebración, lista de asistencia, orden del día, así como una breve descripción de los asuntos tratados, y acuerdos adoptados.
+Una vez aprobado el orden del día, la Comisionada o el Comisionado Coordinador o la Secretaria o el Secretario Técnico podrán solicitar a las Comisionadas y Comisionados Integrantes, se dispense la lectura de los asuntos para que procedan a la deliberación y, en su caso, la votación de aquellos que así lo requieran.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 27.
 
-El proyecto de Acta se someterá a consideración de los integrantes en la siguiente sesión, que de acuerdo a su tipo se celebre; una vez analizada, se votará y, en caso de aprobarse, será firmada por los comisionados integrantes, el Comisionado Coordinador, así como por aquellos comisionados que hubiesen asistido a la sesión correspondiente y se remitirá copia de esta a la Presidencia del Instituto.
+Para los asuntos que requieran ser votados, las Comisionadas y Comisionados Integrantes de las Comisiones podrán hacer uso de la palabra previa petición a la Comisionada o al Comisionado Coordinador, quien fungirá como moderador.
+
+Cada orador dispondrá de diez minutos para su intervención, en cada una de las tres rondas y, de dos minutos, cuando se trate de alusiones personales.
+
+Por excepción, sólo cuando el tema no esté suficientemente discutido y lo solicite la mayoría de las Comisionadas o Comisionados Integrantes, la Comisionada o el Comisionado Coordinador abrirá una cuarta ronda, para que formulen sus conclusiones.
+
+Agotadas las intervenciones de las y los oradores, la Comisionada o el Comisionado Coordinador preguntará a las Comisionadas y Comisionados Integrantes si el tema está suficientemente discutido, en cuyo caso, se instruirá a la Secretaria o Secretario Técnico para que proceda a recabar la votación.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 28.
+
+Para los asuntos que no requieran ser votados, la persona servidora pública que exponga o presente el tema listado en el orden del día, dispondrá del tiempo previsto en el orden del día respectivo para su intervención y presentación.
+
+Las demás personas participantes de la sesión podrán, previa petición a la Comisionada o al Comisionado Coordinador, hacer uso de la palabra para realizar las manifestaciones que considere oportunas sobre el punto, tema o informe expuesto.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 29.
+
+Las Comisionadas y Comisionados que no sean integrantes de alguna Comisión podrán asistir a las sesiones, con derecho a voz.
+
+Previo acuerdo de las Comisionadas y Comisionados Integrantes, podrán participar en las sesiones de las Comisiones, personas invitadas, expertas, académicas, servidoras públicas, titulares de diversas áreas administrativas del Instituto o representantes de instituciones públicas, privadas y organizaciones sociales, quienes sólo tendrán derecho a voz.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 4 DE ENERO DE 2023)</small>
 
 ### CAPÍTULO IV. DE LAS VOTACIONES
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
 
-### CAPÍTULO V. DE LAS ACTAS
+###### Artículo 30.
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-06-06-2018.09.pdf y www.dof.gob.mx/2018/INAI/ACT-PUB-06-06-2018.09.pdf]</small>
+Agotada la discusión sobre algún asunto del orden del día que requiera de votación, la Comisionada o el Comisionado Coordinador o la persona designada en los términos del artículo 7, indicará a la Secretaria o Secretario Técnico que proceda a recibirla.
 
-> <small>(REFORMADO, D.O.F. 23 DE AGOSTO DE 2018)</small>
+Las decisiones de las Comisiones se adoptarán por mayoría de votos de las Comisionadas y Comisionados integrantes presentes. En caso de empate, la Comisionada o el Comisionado Coordinador o quien fuera designado por éste para suplirle en funciones en caso de ausencia, tendrá voto de calidad.
+
+Las Comisionadas y Comisionados integrantes expresarán su voto a favor o en contra. En caso de estar en desacuerdo con el sentido de la votación, podrán emitir votos particulares o disidentes, en los que expongan los argumentos que motivaron su disenso.
+
+Las Comisionadas y Comisionados Integrantes, o las personas que hubieran sido designados para representarles en términos del artículo 7, deberán emitir su voto con relación a los asuntos que así lo ameriten y que sean sometidos a su consideración, por tanto, sólo podrán eximirse cuando exista un impedimento legal.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 31.
+
+Agotados los temas del orden del día y, en su caso, los asuntos generales, la Comisionada o el Comisionado Coordinador o la persona que hubiera sido designada en términos del artículo 7, declarará la conclusión de la sesión.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE ENERO DE 2023)</small>
+
+### CAPÍTULO V. DE LAS ACTAS DE LAS SESIONES
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 32.
+
+De cada reunión de la Comisión, en un término no mayor a cinco días hábiles posteriores a la celebración de la sesión, se elaborará un acta en la que la Secretaria o el Secretario Técnico especificará el tipo de sesión, ordinaria o extraordinaria, fecha y medio de su celebración, lista de asistencia, orden del día, así como una breve descripción de los asuntos tratados, y acuerdos adoptados.
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 33.
+
+El proyecto de Acta se deberá circular entre las y los integrantes de la Comisión, a más tardar tres días hábiles posteriores a la celebración de la sesión, a fin de que puedan emitir las observaciones que consideren pertinentes en un plazo no mayor a cinco días hábiles posteriores a su recepción, y estar en condiciones de realizar los ajustes conducentes y someterla a consideración de las y los integrantes en la siguiente sesión, que de acuerdo a su tipo se celebre; una vez analizada, se votará y, en caso de aprobarse, será firmada, ya sea de manera autógrafa o electrónica por las Comisionadas y Comisionados Integrantes, la Comisionada o el Comisionado Coordinador, así como por aquellas y aquellos Comisionados que hubiesen asistido a la sesión correspondiente y por las y los funcionarios que en términos del artículo 7 hubiesen participado en la sesión y se remitirá copia de esta a la Presidencia del Instituto.
 
 ## TRANSITORIOS
 
@@ -656,6 +746,44 @@ Contenido del Archivo ZIP
 2. Anexo Único.docx
 
 www.dof.gob.mx/2022/INAI/ACT-PUB-20-04-2022-10.zip
+
+CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
+
+QUINTO. El presente Acuerdo entrará en vigor al día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se deroga toda disposición de igual o menor jerarquía que contravenga el presente Acuerdo.
+
+D.O.F. 4 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS COMISIONES DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES".]
+
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip y www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip]</small>
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan las disposiciones emitidas al interior del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, que se opongan al presente Reglamento.
+
+Tercero. Las Comisionadas y los Comisionados que actualmente integran las Comisiones permanentes, continuarán su gestión hasta la conclusión del periodo para el cual fueron designados por el Pleno, cumplido el cual podrá renovarse su gestión en términos del artículo 6 del presente Reglamento.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se modifica el Reglamento para la Organización y Funcionamiento de las Comisiones del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos del Anexo Único, el cual forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+El presente Acuerdo y su Anexo Único, podrán ser consultados en las siguientes direcciones electrónicas:
+
+https://home.inai.org.mx/wp-content/documentos/AcuerdosDelPleno/ACT-PUB-14-12-2022.07.zip
+
+Contenido del archivo .zip:
+
+ACT-PUB-14-12-2022.07
+
+Anexo Único Acuerdo ACT-PUB-14-12-2022.07 Reglamento Comisiones
+
+www.dof.gob.mx/2022/INAI/ACT-PUB-14-12-2022-07.zip
 
 CUARTO. Se instruye a la Secretaria Técnica del Pleno que, con fundamento en lo dispuesto en el artículo 45, fracción IV, de la Ley Federal de Transparencia y Acceso a la Información Pública, expida certificación del presente Acuerdo, para agilizar su cumplimiento.
 
