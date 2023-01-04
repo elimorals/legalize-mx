@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-surtimiento-de-recetas-y-abasto-de-90603"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-24"
-last_updated: "2014-06-02"
+last_updated: "2023-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90603&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-11-28"
 ---
 # REGLAMENTO PARA EL SURTIMIENTO DE RECETAS Y ABASTO DE MEDICAMENTOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL SURTIMIENTO DE RECETAS Y ABASTO DE MEDICAMENTOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 4 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA EL SURTIMIENTO DE RECETAS Y ABASTO DE MEDICAMENTOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ENERO DE 2023 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 24 de diciembre de 2012.
 
@@ -378,3 +380,15 @@ México, D.F., a 28 de noviembre de 2012.- El Secretario General y Secretario de
 D.O.F. 2 DE JUNIO DE 2014.
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL SURTIMIENTO DE RECETAS Y ABASTO DE MEDICAMENTOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento para el Surtimiento de Recetas y Abasto de Medicamentos del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2012.
+
+TERCERO.- Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente Reglamento.
+
+CUARTO.- Las denominaciones a las Unidades Administrativas Centrales y Desconcentradas, así como los cargos a que hace referencia el presente Reglamento, se referirán a las áreas y al ejercicio de las funciones que por disposición legal cuenten con las atribuciones en materia de cada competencia, independientemente de los nombres que conserven o se modifiquen en razón de los cambios de estructura o actualizaciones al Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Manual de Organización General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, los Reglamentos Orgánicos correspondientes, o cualquier otro ordenamiento legal; hasta en tanto no se haga la actualización normativa conducente del presente instrumento normativo.
