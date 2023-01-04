@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-adquisiciones-arrendamientos-y-contratacion-de-126512"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-17"
-last_updated: "2020-11-07"
+last_updated: "2023-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2023.
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 17 de febrero de 2018.
 
@@ -51,9 +51,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE 
 
 ### CAPÍTULO I. OBJETO, ÁMBITO DE APLICACIÓN Y SUJETOS DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto regular la planeación, programación, presupuestación, contratación, gasto, ejecución, control y evaluación de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen:
+La presente Ley es de orden público e interés social y tiene por objeto regular la planeación, programación, presupuestación, contratación, gasto, ejecución, control y evaluación, así como aplicar el artículo 134, párrafos primero, tercero y cuarto de la Constitución Política de los Estados Unidos Mexicanos en materia de adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen:
 
 I. Los Poderes del Estado.
 
@@ -67,9 +69,17 @@ V. Las empresas de participación estatal o municipal mayoritaria.
 
 VI. Los fideicomisos en los que cualquiera de los entes anteriores tenga el carácter de fideicomitente.
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Las empresas de propiedad estatal.
+
 Las adquisiciones, arrendamientos y contratación de servicios con cargo total o parcial a fondos federales conforme a los convenios entre el Ejecutivo Federal y los entes públicos señalados en las fracciones anteriores, estarán sujetos a las disposiciones de la Ley Federal en la materia.
 
 No podrán crearse fideicomisos, otorgarse mandatos o celebrarse contratos o cualquier tipo de actos cuya finalidad sea evadir lo previsto en este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El control y la vigilancia de los actos a que se refiere esta Ley que realicen los municipios con cargo total o parcial a fondos del Gobierno Estatal, estarán a cargo de la Función Pública, en coadyuvancia con los Órganos Internos de Control de cada municipio.
 
 ###### Artículo 2.
 
@@ -83,7 +93,9 @@ I. Abastecimiento simultáneo.- La adquisición de un mismo bien o servicio adju
 
 II. Adquisición.- El acto jurídico por virtud del cual se obtiene el dominio o propiedad de un bien mueble a título oneroso.
 
-III. Área requirente.- Aquella que en el ente público solicite o requiera formalmente la adquisición o arrendamiento de bienes o la prestación de servicios.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Área requirente.- Aquella que en el ente público solicite o requiera formalmente ante el Comité la adquisición o arrendamiento de bienes o la prestación de servicios y evalúa la proposición de manera integral y emite los dictámenes correspondientes; el Área requirente podrá tener también el carácter de Área técnica.
 
 IV. Arrendamiento.- El acto jurídico por el cual se obtiene el uso y goce temporal de bienes muebles a plazo forzoso, mediante el pago de un precio cierto y determinado.
 
@@ -95,19 +107,23 @@ VII. Colegio.- La asociación privada que agrupa profesionales de una misma disc
 
 VIII. Comité.- El Comité de Adquisiciones, Arrendamientos y Servicios del ente público de que se trate.
 
-IX. Compras consolidadas.- Aquellas que pueden licitarse en forma conjunta por varios entes públicos a un mismo bien o servicio.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2019)</small>
+IX. Compras consolidadas.- Estrategia mediante la cual los requerimientos de varias dependencias o entes públicos se integran en un solo procedimiento de contratación, con el fin de obtener las mejores condiciones posibles en el mercado de que se trate.
 
-X. Contrato o pedido.- Es el acuerdo de dos o más voluntades, que se expresa de manera formal, mediante documento y que tiene por objeto transmitir la propiedad, el uso o goce temporal de bienes muebles o la prestación de servicios, a los entes públicos, por parte de los proveedores, creando derechos y obligaciones para ambas partes y que se deriva de alguno de los procedimientos de contratación que regula esta Ley.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+X. Contrato.- Es el acuerdo de dos o más voluntades, que se expresa de manera formal, mediante documento y que tiene por objeto transmitir la propiedad, el uso o goce temporal de bienes muebles o la prestación de servicios, a los entes públicos, por parte de los proveedores, creando derechos y obligaciones para ambas partes y que se deriva de alguno de los procedimientos de contratación que regula esta Ley.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
 XI. Contrato abierto.- Acuerdo de voluntades para contratar bienes o servicios cuando no sea posible precisar su alcance, estableciéndose la cantidad mínima y máxima de bienes por adquirir o arrendar, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición, arrendamiento o servicio, o bien, tratándose exclusivamente de servicios, el plazo mínimo y máximo para su prestación.
 
-Se deberá indicar al menos uno de los supuestos descritos anteriormente en la convocatoria y bases de la licitación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
-XII. Contrato marco.- Tratándose de compras consolidadas, es el contrato que deriva de una licitación pública, y el cual se pone a disposición de los entes públicos para su uso y apego al mismo.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XII. Contrato Marco.- Acuerdo de voluntades que celebra un ente público con uno o más posibles proveedores, mediante los cuales se establecen de manera general las especificaciones técnicas y de calidad, alcances, precios y condiciones que regularán la adquisición o arrendamiento de bienes o la prestación de servicios que, posteriormente, mediante contratos específicos, en su caso, formalicen los entes públicos.
 
 XIII. Convocante.- El Comité de Adquisiciones, Arrendamientos y Servicios de cualquiera de los entes públicos cuando lleven a cabo un procedimiento de licitación pública, o bien, de invitación a cuando menos tres proveedores.
 
@@ -117,7 +133,9 @@ XV. Entes públicos.- Los Poderes Ejecutivo, Legislativo y Judicial; Municipios 
 
 XVI. Estado.- El Estado de Chihuahua.
 
-XVII. Función Pública.- La Secretaría de la Función Pública del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XVII. Función Pública.- La Secretaría de la Función Pública del Estado de Chihuahua y sus órganos internos de control adscritos a la misma dentro del ámbito de su competencia.
 
 XVIII. Investigación de mercado.- La verificación sobre la existencia de bienes, arrendamientos o servicios, de proveedores a nivel local, nacional o internacional y del precio estimado basado en la información que se obtenga por los propios entes públicos, de fabricantes de bienes o prestadores del servicio; o una combinación de dichas fuentes de información.
 
@@ -129,9 +147,9 @@ XXI. Licitante.- La persona física o moral que participe en cualquier procedimi
 
 XXII. Partida o concepto.- La división o desglose de los bienes a adquirir o arrendar, o de los servicios a contratar, contenidos en un procedimiento de contratación o en un contrato, para diferenciarlos unos de otros, clasificarlos o agruparlos.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-XXIII. Cuenta Presupuestal.- Clasificación en el Presupuesto de Egresos descrita como las cuentas que conforman los clasificadores de ingresos y gastos públicos.
+XXIII. Partida presupuestal.- Corresponde a la partida genérica, que se ubica en el tercer nivel de desagregación del clasificador por objeto del gasto, emitido por el Consejo Nacional Contable.
 
 XXIV. Padrón.- El Padrón de Proveedores.
 
@@ -141,19 +159,89 @@ XXVI. Precio no aceptable.- Aquel que derivado de la investigación de mercado r
 
 XXVII. Propuesta solvente.- Aquella que cumple con las condiciones y requisitos legales, técnicos y económicos establecidos en la convocatoria y en las bases de la licitación, y por tanto garantiza satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-XXVIII. Proveedor.- La persona física o moral que celebre o pretenda celebrar contratos de adquisiciones, arrendamientos o servicios con los entes públicos.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXVIII. Proveedor.- La persona física o moral que celebre contratos de adquisiciones, arrendamientos o servicios con los entes públicos.
 
 XXIX. Secretaría.- La Secretaría de Hacienda del Estado de Chihuahua.
 
 XXX. Servicio.- La actividad organizada que se presta y realiza con el fin de satisfacer determinadas necesidades.
 
-XXXI. Sistema Electrónico de Compras.- Portal digital gubernamental de adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia de los entes públicos; el padrón de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias de licitación y sus modificaciones; las invitaciones a cuando menos tres proveedores; las actas de las juntas de aclaraciones, del acto de presentación y apertura de propuestas y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas y las notificaciones y avisos correspondientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ENERO DE 2023)</small>
+
+XXXI. Sistema de Contrataciones Públicas. Portal digital gubernamental de adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia de los entes públicos; el padrón de proveedores; el padrón de testigos sociales; el registro de proveedores sancionados; las convocatorias de licitación y sus modificaciones; las invitaciones a cuando menos tres proveedores; las actas de las juntas de aclaraciones, del acto de presentación y apertura de propuestas y de fallo; los testimonios de los testigos sociales; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas y las notificaciones y avisos correspondientes.
 
 Dicho sistema será de consulta gratuita y constituirá un medio por el cual se podrán desarrollar procedimientos de contratación.
 
 El sistema estará a cargo de la Función Pública, a través de la unidad administrativa que determine su Reglamento, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga.
 
-XXXII. Suficiencia presupuestal.- Es la capacidad de recursos financieros que tiene una cuenta presupuestal con la posibilidad de ser afectada.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXII. Suficiencia presupuestal.- Es la capacidad de recursos financieros que tiene una o varias partidas presupuestales con la posibilidad de ser afectadas por el área requirente, que deberá constar en el expediente de contratación.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXIII. Anexo técnico.- Documento en el que se hace constar la descripción detallada de los bienes, arrendamientos o servicios, así como los aspectos e información específica que se considere necesarios para determinar el objeto y alcance de la contratación, tales como la descripción del objeto de la contratación, condiciones y plazos de entrega de los bienes requeridos o de la prestación del servicio, en caso de arrendamiento, la indicación de si este es con o sin opción a compra, lugar de entrega de los bienes o prestación de los servicios, requisitos u obligaciones de los proveedores o licitantes, los recursos técnicos, financieros y demás que las Áreas Requirentes estimen que deben poseer los proveedores, para poder cumplir con la entrega de los bienes o la prestación del servicio con la calidad y oportunidad requeridos, vigencia del contrato, forma de pago, las normas aplicables conforme a la Ley de Infraestructura de la Calidad, y a falta de estas, las normas internacionales, entre otros que considere necesarios incluir el Área Requirente.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXIV. Área técnica.- La que elabora las especificaciones técnicas que se deberán incluir en el procedimiento de contratación, evalúa la propuesta técnica de las proposiciones y es responsable de responder en la junta de aclaraciones, las preguntas que sobre estos aspectos realicen los licitantes.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXV. Área usuaria.- Unidad administrativa dentro del Área requirente cuyas necesidades pretenden ser atendidas con determinada contratación.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXVI. Asesoría.- Servicio profesional de información en un área especializada del conocimiento.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXVII. Administrador del contrato o pedido.- Persona servidora pública en quien recae la responsabilidad de dar seguimiento y verificar el cumplimiento de las obligaciones del proveedor establecidas en el contrato o pedido, así como determinar la aplicación y cálculo de penas convencionales y penas deductivas, autorizar el pago y, en su caso, solicitar al área competente, la rescisión del contrato, aportando los elementos conducentes. El Administrador del Contrato podrá nombrar los supervisores que considere necesarios.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXVIII. Compras por monto menor.- Las que son iguales o menores a seiscientas veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXXVIX (SIC). Consultoría.- La asistencia que un experto o especialista presta para proveer una solución a la problemática planteada, basándose en su experiencia, conocimientos y habilidades en un área del conocimiento.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XL. Contrato Plurianual.- Contrato que implica una erogación de recursos en más de un ejercicio fiscal.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLI. Costo de participación.- Importe que deberán pagar los licitantes por el derecho a presentar oferta en el acto de presentación y apertura de proposiciones.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLII. Estudio.- Obra o trabajo en el que se analiza un asunto o una cuestión o se reflexiona sobre él.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLIII. Investigación.- Trabajo creativo y sistemático realizado para aumentar el acervo de conocimientos. Implica la recopilación, organización y análisis de información para aumentar la comprensión de un tema o problema dado.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLIV. Órgano Interno de Control.- La unidad administrativa de los entes públicos distintos al Poder Ejecutivo del Estado, encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno, competente para aplicar las leyes en materia de responsabilidades de servidores, fiscalización y de contratación pública.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLV. PAAACS.- Programa Anual de Adquisiciones, Arrendamientos y Contratación de Servicios.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLVI. Pedido.- Es el acuerdo de dos o más voluntades, cuyo importe de formalización es inferior a ciento treinta veces el valor mensual de la unidad de medida y actualización.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLVII. Reglamento.- Reglamento de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XLVIII. Sobres cerrados.- Cualquier medio, físico o virtual, que contenga las proposiciones técnica y económica del licitante, cuyo contenido sólo puede ser conocido en el acto de presentación y apertura de proposiciones en términos de la Ley.
 
 ###### Artículo 4.
 
@@ -165,7 +253,13 @@ II. El arrendamiento de bienes muebles.
 
 III. Los servicios de cualquier naturaleza, cuya prestación genere una obligación de pago para los entes públicos.
 
-Lo anterior, siempre y cuando no se contravenga lo dispuesto por otras leyes aplicables. El Reglamento de la Ley precisará el alcance de las fracciones señaladas en el presente artículo.
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Se incluye dentro de los servicios al mantenimiento menor de edificios cuando no implique la modificación estructural del inmueble, los trabajos sean de baja complejidad técnica y se encuentren dentro de la especialidad genérica de edificación, exceptuando la especialidad particular de rehabilitación de edificaciones y remodelaciones prevista en el Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Chihuahua.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo anterior sin perjuicio de que los entes públicos puedan optar por realizar la contratación de dicho servicio bajo la aplicación de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Chihuahua.
 
 ###### Artículo 5.
 
@@ -173,39 +267,177 @@ No serán aplicables las disposiciones de esta Ley a:
 
 I. Los contratos o convenios que celebren entre sí los sujetos de esta Ley o entre estos y la Federación, con otras entidades federativas o con los municipios.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Dichos actos quedarán sujetos a este ordenamiento, cuando el ente público obligado a entregar el bien o prestar el servicio contrate un tercero para su realización y la subcontratación exceda del treinta por ciento del importe total del contrato celebrado con el ente público.
+
 II. Los bienes recibidos en consignación por los entes públicos para su comercialización a las personas empleadas y al público en general.
 
 III. Las adquisiciones de bienes que deriven de expropiaciones por causa de utilidad pública, herencias o legados.
 
-IV. Los servicios de traslado, hospedaje y alimentos de personal.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-V. Los servicios básicos de electricidad, agua, drenaje y gas.
+IV. Los servicios de traslado, alimentos, hospedaje y servicios accesorios al mismo, para personal de los entes públicos con motivo del desempeño de sus labores.
 
-VI. Los servicios profesionales de peritaje y arbitraje.
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 4 DE ENERO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2019)</small>
+En este rubro se considerarán comprendidos:
 
-VII. Los servicios prestados por instituciones privadas dedicadas a la atención médica hospitalaria, únicamente cuando medie una situación que ponga en peligro inminente la vida de las personas y que por razón de dicha situación deban ser atendidas de manera inmediata. Esta situación deberá acreditarse a través de un dictamen médico debidamente justificado.
+a) Viáticos.
+
+b) Transporte de personal por cualquier vía, prestado por particulares o contratado a través de terceros, como agencias de viajes.
+
+c) Los alimentos y hospedaje, así como sus servicios accesorios para el personal que preste servicios de seguridad pública, protección civil y salud requeridos en su lugar de adscripción temporal o definitivo.
+
+d) Los alimentos y hospedaje, así como sus servicios accesorios para el personal de los entes públicos y las dependencias, con motivo del desempeño de sus labores o reuniones de trabajo.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+V. Los servicios básicos de electricidad, agua, drenaje, gas natural, telefonía fija y móvil.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Los servicios profesionales de peritaje, arbitraje y avalúos.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Los servicios prestados por instituciones privadas dedicadas a la atención médica hospitalaria, únicamente cuando medie una situación que ponga en peligro inminente la vida de las personas y que por razón de dicha situación deban ser atendidas de manera inmediata. Esta situación deberá acreditarse a través de un dictamen médico debidamente justificado, el cual podrá ser con fecha posterior al evento.
+
+Quedan comprendidos los servicios médicos privados otorgados a las personas privadas de su libertad.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VIII. Los servicios de traslado, alimentos, hospedaje y servicios accesorios al mismo, para beneficiarios de programas educativos, de promoción económica, culturales, deportivos, salud o de apoyo a personas en situación vulnerable para asegurar la aplicación del programa y su participación en los eventos derivados.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IX. Los servicios de traslado y servicios accesorios al mismo, para personas privadas de su libertad, así como personas cuyo cuidado o custodia está a cargo del ente público, tales como, casas cuna, refugios, entre otros.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+X. Los apoyos en especie para gastos funerarios, medicamentos, estudios médicos, aparatos ortopédicos, entre otros apoyos, otorgados a un beneficiario en específico.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XI. Suscripciones o membresías, incluyendo aquellas como asociaciones civiles sin fines de lucro, organizaciones de acreditación en seguridad pública o protección civil o que agrupen o participen entes públicos o autoridades.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XII. Los servicios bancarios.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XIII. Los servicios de asesoría financiera o asesoría crediticia.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XIV. Los servicios de intermediación bursátil, custodia de valores y constitución de fideicomisos o de sociedades de inversión.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XV. Los servicios prestados por notarios o corredores públicos cuando se sujeten al cobro de los aranceles previstos en los ordenamientos jurídicos correspondientes.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XVI. Los servicios legales.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XVII. Los servicios contables.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XVIII. Los servicios de calificadoras de créditos.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XIX. Los contratos celebrados con personas que apoyen en la recaudación fiscal, como vía alterna de pago, en razón de la máxima cobertura.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XX. Los bienes y servicios cuyas condiciones de contratación se encuentren sujetas a una legislación especial federal o local.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXI. Las contrataciones realizadas al amparo de la Ley para la Administración y Destino de Bienes Relacionados con Hechos Delictivos para el Estado de Chihuahua.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
 
 Los actos y contratos descritos en las fracciones que preceden, deberán llevarse a cabo en apego a lo establecido en el primer párrafo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, previéndose por los sujetos de la Ley las mejores condiciones disponibles en cuanto a precio, financiamiento, calidad, oportunidad y demás circunstancias que contribuyan a preservar la Hacienda Pública Estatal y Municipal.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS Y FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+Para efectos del párrafo anterior se considera que se aseguran las mejores condiciones de contratación para el Estado cuando:
+
+a) Respecto a la fracción I, de este artículo el ente público manifieste de manera formal que cuenta con la capacidad técnica y económica para proporcionar los bienes o prestar el servicio y la contratación corresponde con el objeto o finalidad del ente público que actúa como proveedor. El área requirente deberá justificar la elección del ente público con el cual se formalizará el contrato o convenio.
+
+b) Por lo que toca a las fracciones VIII y IX, de este artículo en el ejercicio y comprobación del gasto se deberá presentar un informe de las actividades por parte del Área requirente.
+
+c) Tratándose de la fracción X, cada Ente Público emitirá las directrices que regulen el otorgamiento de apoyo, y podrán establecer convenios con diversos prestadores de servicio o particulares para el otorgamiento de condiciones preferenciales a los beneficiarios.
+
+d) En el caso de las fracciones V y XI, en el caso de que exista contrato de adhesión deberá ser a través de este mecanismo.
+
+e) En relación con las fracciones VI, XIII, XVI, XVII, XVIII y XIX, a fin de acreditar las mejores condiciones de contratación, en el expediente respectivo deberán obrar los siguientes elementos mínimos:
+
+I. En caso de persona moral:
+
+a) La razón o denominación social.
+
+b) Copia simple de la escritura constitutiva y modificaciones si las hay, inscritas en el Registro Público de la Propiedad, con los datos registrales correspondientes.
+
+c) Nombre de la persona representante legal y copia del documento en el que acredite su personalidad y de su identificación oficial.
+
+d) Copia fotostática alta ante la Secretaría de Hacienda y Crédito Público, de la Cédula de Identificación Fiscal y del registro patronal ante el Instituto Mexicano del Seguro Social.
+
+II. En caso de persona física:
+
+a) Copia fotostática de su identificación oficial y, en su caso, de su cédula profesional.
+
+b) Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Público y de la Cédula de Identificación Fiscal.
+
+III. En ambos casos:
+
+a) Domicilio fiscal, teléfono y dirección de correo electrónico para su localización, anexando copia fotostática de los comprobantes respectivos.
+
+b) Domicilio para oír y recibir notificaciones dentro del territorio del Estado o en su defecto correo electrónico en el cual acepte de manera expresa oír y recibir notificaciones personales.
+
+c) Opinión o documento que acredite el cumplimiento de obligaciones fiscales y de seguridad social.
+
+d) Escrito bajo protesta de decir verdad de que no se encuentra inhabilitado por autoridad administrativa o judicial para proveer los bienes o servicios requeridos, así como la inexistencia de conflicto de interés, con servidores públicos de la autoridad contratante.
+
+e) Currículo en donde conste la experiencia para cumplir con el objeto de la contratación, al menos de cinco años, indicando los cinco principales clientes del proveedor, con excepción de las personas señaladas en la fracción XIX.
+
+f) Escrito mediante el cual el área requirente justifique la elección de la persona con la cual se formalizará el contrato o convenio.
+
+g) Señalar en el contrato o convenio la obligación de presentar informes sobre la prestación del servicio, al menos mensualmente.
+
 ###### Artículo 6.
 
 La Secretaría, tomando en cuenta la opinión de la Función Pública, emitirá los lineamientos generales y dictará las disposiciones administrativas estrictamente necesarias para el adecuado cumplimento de esta Ley. Las disposiciones de carácter general se publicarán en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-Los demás entes públicos, a través de sus órganos internos, emitirán y publicarán, de conformidad con este ordenamiento y las disposiciones a que se refiere el párrafo anterior, las políticas, criterios y lineamientos en la materia, dentro de su ámbito de competencia.
+Los demás entes públicos, a través de la autoridad colegiada con el nivel jerárquico máximo en el ente, o en su defecto la persona facultada para ello, emitirá y publicará, de conformidad con este ordenamiento y las disposiciones a que se refiere el párrafo anterior, las políticas, criterios y lineamientos en la materia, dentro de su ámbito de competencia.
 
 En todo caso, las disposiciones que de esta Ley emanen privilegiarán la transparencia de los procedimientos de contratación desde el inicio hasta su conclusión.
 
-La Secretaría estará facultada para interpretar esta Ley para efectos administrativos; lo propio realizarán los entes públicos en su ámbito interior a través de sus órganos facultados conforme a las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, estarán facultadas para interpretar esta Ley para efectos administrativos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La Función Pública, en el ámbito de sus atribuciones, estará encargada de establecer las directrices conforme a las cuales se determinarán los perfiles de puesto de los servidores públicos correspondientes en materia de contrataciones públicas, así como las relativas a la capacitación para el adecuado desempeño de sus funciones en las materias a que alude esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos señalados en el artículo 1 fracciones I, excepto el Ejecutivo, y III, de esta Ley, en su ámbito interior a través de sus autoridades y sus órganos internos de control competentes conforme a las disposiciones aplicables, estarán facultados para interpretar esta Ley para efectos administrativos.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 7.
 
-En lo no previsto por esta Ley y demás disposiciones que de ella se deriven, se aplicarán supletoriamente los Códigos Civil y de Procedimientos Civiles del Estado de Chihuahua.
+Serán supletorias de esta Ley y de las demás disposiciones que de ella se deriven, en lo que corresponda, el Código Civil, la Ley de Procedimiento Administrativo del Estado y la legislación de procedimientos civiles aplicable.
 
 ###### Artículo 8.
 
@@ -215,15 +447,25 @@ En los casos de adquisiciones, arrendamientos o servicios financiados con fondos
 
 Sin perjuicio de las disposiciones legales que resulten aplicables, las adquisiciones, arrendamientos y servicios de procedencia extranjera para ser utilizados en el Estado se regirán por esta Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Sin embargo, se podrán realizar contratos en el extranjero para adquirir o arrendar bienes que serán usados en el Estado, cuando sea más conveniente desde el punto de vista técnico o económico contratar con el proveedor extranjero, y el proveedor haya expresado su interés en contratar conforme a la legislación de su país, o porque carece de representación legal en el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los servicios técnicos o profesionales que sean contratados directamente con un proveedor extranjero se regirán por la legislación del país origen del proveedor respectivo.
+
 ###### Artículo 10.
 
 Los contratos celebrados por los entes públicos en el extranjero respecto de bienes, arrendamientos o servicios que deban ser utilizados o prestados fuera del territorio nacional, se regirán por la legislación del lugar donde se formalice el acto, aplicando en lo procedente lo dispuesto por esta Ley.
 
-Cuando los bienes, arrendamientos o servicios de procedencia extranjera hubieren de ser utilizados o prestados en el país, su procedimiento de contratación y los contratos deberán realizarse dentro del territorio nacional.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 11.
 
-La solución de las controversias se sujetará a lo previsto por el Título Décimo de esta Ley, sin perjuicio de lo establecido en los tratados internacionales en los que el Estado Mexicano sea parte.
+La solución de las controversias se sujetará a lo previsto por el Título Décimo de esta Ley.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS ENTES PÚBLICOS
 
@@ -233,21 +475,43 @@ Los entes públicos tendrán las siguientes obligaciones:
 
 I. Planear y programar sus adquisiciones, arrendamientos y contratación de servicios, en razón de sus necesidades presupuestales.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-II. Remitir a la Secretaría, o a sus órganos internos, según corresponda, un programa anual de las adquisiciones, arrendamientos y contratación de servicios que se deberán realizar.
+II. Remitir a la Secretaría, o a la autoridad colegiada con el nivel jerárquico máximo en el ente, o en su defecto la persona facultada para ello, según corresponda, el PAAACS que se deberá realizar.
 
 III. Realizar la adquisición y arrendamiento de bienes, así como la contratación de servicios, en los términos de la presente Ley y de las demás disposiciones legales aplicables.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-IV. Observar y aplicar los lineamientos generales que expidan la Secretaría y la Función Pública, así como, en su caso, las políticas, criterios y lineamientos que en su ámbito de competencia expidan sus órganos competentes.
+IV. Observar y aplicar los lineamientos generales que expidan la Secretaría y la Función Pública, así como, en su caso, las políticas, criterios y lineamientos que en su ámbito de competencia expidan sus autoridades competentes.
 
 V. Registrar y conservar, en documentos físicos o medios electrónicos, la información sobre los actos comprendidos en esta Ley, por un período mínimo de diez años.
 
 VI. Realizar las acciones necesarias para verificar la calidad, cantidad, precio y características de los bienes y servicios que se adquieran, arrenden o contraten.
 
-VII. Ejercer las atribuciones que establece esta Ley y demás disposiciones legales aplicables.
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para efectos de lo anterior el administrador del contrato podrá en cualquier momento realizar las acciones de verificación con su propio personal o, cuando lo considere necesario, con terceros acreditados.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Promover la cultura de la responsabilidad social y la participación ciudadana, dentro de los procedimientos de licitación pública.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VIII. Fomentar datos abiertos en materia de procedimientos de contratación.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IX. Facilitar el uso de tecnología y establecer canales de comunicación, a través de medios y plataformas digitales que permitan a la ciudadanía conocer sobre las decisiones relacionadas con los procedimientos de contratación.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+X. Elaborar los mecanismos que garanticen la participación e incidencia ciudadana en los procedimientos de licitación pública.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XI. Asesorar a la ciudadanía en materia de procedimientos de contratación.
 
 ###### Artículo 13.
 
@@ -259,21 +523,57 @@ Las facultades conferidas por esta Ley a las personas titulares de los entes pú
 
 Los entes públicos se abstendrán de formalizar o modificar pedidos y contratos en las materias que regula esta Ley, si no hubiera partida expresa y suficiencia presupuestal, salvo autorización por escrito de la persona titular de la Secretaría de Hacienda del Estado o de quien ocupe la titularidad del órgano en el que recaiga el manejo de las finanzas del ente público, según corresponda.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En contrataciones anticipadas cuya vigencia inicie en el ejercicio fiscal siguiente de aquél en el que se formalizan o las plurianuales, los contratos o pedidos estarán sujetos a la disponibilidad presupuestaria del año en el que se ejerce el recurso, por lo que sus efectos estarán condicionados a la existencia de los recursos presupuestarios respectivos, sin que la no realización de la referida condición suspensiva origine responsabilidad alguna para las partes. Cualquier pacto en contrario a lo dispuesto en este párrafo se considerará nulo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En los contratos plurianuales de adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestario, los entes públicos deberán determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de contratos plurianuales deberá estarse a lo dispuesto por el artículo 46 Bis de la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público del Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose del Poder Legislativo, Judicial y organismos constitucionales autónomos será el Pleno u Órgano de Gobierno quién apruebe las contrataciones que rebasen más de una legislatura en el caso del Poder Legislativo, o, en los demás entes, el periodo de la presidencia del organismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 15.
 
-Previo al arrendamiento de bienes muebles, los entes públicos deberán realizar los estudios de factibilidad que determinen la conveniencia de su adquisición, mediante arrendamiento con opción a compra.
+Previo a contratar el arrendamiento de bienes muebles que no incluyan servicios accesorios, los entes públicos deberán realizar los estudios de factibilidad que determinen la conveniencia de su adquisición, mediante arrendamiento con opción a compra.
 
-Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los entes públicos deberán realizar un estudio de costo beneficio con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos. El estudio deberá efectuarse mediante avalúo expedido dentro de los seis meses previos por un perito certificado y registrado, conforme a las disposiciones aplicables, e integrarse al expediente de la contratación respectiva.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, los entes públicos deberán realizar un estudio de costo beneficio con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para bienes usados el estudio de costo beneficio deberá efectuarse mediante avalúo expedido dentro de los seis meses previos en términos del artículo 73 fracción VIII de esta Ley e integrarse al expediente de la contratación respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+No serán materia de avalúo las adquisiciones de bienes usados que tengan un valor inferior a seiscientas veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Por lo que toca bienes reconstruidos el estudio de costo beneficio se realizara únicamente en procedimientos de contratación superiores a quinientas veces el valor mensual de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 16.
 
 Los entes públicos deberán contratar los servicios correspondientes para mantener debidamente asegurados los bienes con los que cuenten, siempre que la naturaleza del bien así lo requiera, conforme a las disposiciones del Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 17.
 
-Los entes públicos no podrán financiar a proveedores. No se considerará como operación de financiamiento el otorgamiento de anticipos, los cuales en todo caso deberán garantizarse en los términos de esta Ley.
+Los entes públicos no podrán financiar a proveedores. No se considerará como operación de financiamiento el otorgamiento de anticipos, los cuales en todo caso deberán garantizarse en los términos de esta Ley. En los pedidos no se otorgarán anticipos.
 
-Los entes públicos, bajo su responsabilidad y dentro de su presupuesto autorizado, podrán pagar anticipadamente suscripciones, seguros u otros servicios, cuando por razones justificadas no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos, bajo su responsabilidad y dentro de su presupuesto autorizado, podrán pagar anticipadamente seguros u otros servicios, cuando por razones justificadas no sea posible pactar que su costo sea cubierto después de que la prestación del servicio se realice.
 
 ###### Artículo 18.
 
@@ -283,7 +583,9 @@ Los actos, contratos y convenios que los entes públicos realicen o celebren en 
 
 La Secretaría determinará, en su caso, los bienes, arrendamientos o servicios de uso generalizado que en forma consolidada podrán adquirir, arrendar o contratar los entes públicos, con objeto de obtener las mejores condiciones en cuanto a precio, calidad, oportunidad y demás circunstancias pertinentes.
 
-La Secretaría podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas con los entes públicos.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La Secretaría podrá promover contratos marco, previa determinación de las características técnicas y de calidad acordadas con los entes públicos. De igual manera, podrá contratar bajo las condiciones técnicas y económicas de los contratos marco celebrados por la Federación, aplicando la presente Ley en las demás cláusulas del contrato especifico.
 
 Lo propio realizarán los entes públicos en su ámbito interior, a través de sus órganos facultados, conforme a las disposiciones aplicables.
 
@@ -329,7 +631,9 @@ V. Las unidades responsables de su instrumentación.
 
 VI. La existencia en cantidad suficiente de los bienes, los plazos estimados de suministro, los avances tecnológicos incorporados en los bienes y, en su caso, los planos, proyectos y especificaciones.
 
-VII. Las normas aplicables conforme a la Ley Federal sobre Metrología y Normalización, y a falta de estas, las normas internacionales.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Las normas aplicables conforme a la Ley de Infraestructura de la Calidad, y a falta de estas, las normas internacionales.
 
 VIII. Sus programas sustantivos, de apoyo administrativo y de inversiones, así como, en su caso, aquellos relativos a la adquisición de bienes para su posterior comercialización, incluyendo los que habrán de sujetarse a procesos productivos.
 
@@ -341,11 +645,17 @@ Los planes y programas del Poder Ejecutivo deberán formularse de acuerdo con la
 
 En el caso de los demás entes públicos, se formularán de acuerdo con las disposiciones que emita la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 23.
 
-Los entes públicos pondrán a disposición del público en general, a través del Sistema Electrónico de Compras y de su portal oficial de internet, a más tardar el 31 de enero de cada año, su programa anual de adquisiciones, arrendamientos y servicios correspondiente al ejercicio fiscal de que se trate, con excepción de aquella información que sea de naturaleza reservada o confidencial, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
+Los entes públicos pondrán a disposición del público en general, a través del Sistema de Contrataciones Públicas, a más tardar el 31 de enero de cada año, su programa anual de adquisiciones, arrendamientos y servicios correspondiente al ejercicio fiscal de que se trate, con excepción de aquella información que sea de naturaleza reservada o confidencial, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua.
 
 El Reglamento de la Ley definirá el procedimiento para la presentación y actualización de los programas anuales. Las adquisiciones, arrendamientos y servicios contenidos en los citados programas podrán ser adicionados, modificados, suspendidos o cancelados, sin responsabilidad alguna para el ente público, debiendo realizar la modificación correspondiente de la información en los medios publicados.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose del Poder Ejecutivo del Estado, será la Secretaría quien formulará el programa anual de la administración pública centralizada con base en la información proporcionada por las dependencias.
 
 ###### Artículo 24.
 
@@ -353,37 +663,77 @@ Los entes públicos que requieran contratar servicios de consultorías, asesorí
 
 En el supuesto de que se advierta la existencia de dichos trabajos y se compruebe que los mismos satisfacen los requerimientos del ente público, no procederá la contratación, con excepción de aquellos trabajos necesarios para su adecuación, actualización o complemento.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para la contratación de servicios de consultorías, asesorías, estudios e investigaciones, deberá hacerse constar por el área requirente que no se cuenta con personal capacitado o disponible para su realización, o bien la alta especialidad técnica requerida para la prestación del servicio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 25.
 
-Previo a la contratación de servicios de consultorías, asesorías, estudios e investigaciones, el ente público requerirá la autorización de un Comité Especial, el cual deberá estar integrado por:
+Previo a la contratación de servicios de consultorías, asesorías, estudios e investigaciones, el ente público requerirá la autorización de un Comité Especial. Tratándose de los municipios existirá un solo Comité Especial para cada uno de ellos, que atenderá los asuntos de las dependencias y entidades municipales. El Comité Especial estará integrado por:
 
-I. La persona titular del ente público o la o el servidor público que esta delegue, quien no podrá tener nivel inferior al de dirección general.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-II. Una persona representante de la Secretaría o el órgano de administración que corresponda.
+I. En la administración pública centralizada por un representante de la Secretaría de Hacienda, quién ostentará la presidencia del Comité. La representación residirá en la Subsecretaría facultada para realizar procedimientos de contratación y suscribir contratos.
 
-III. Una persona representante de la Función Pública o el Órgano Interno de Control que corresponda.
+En el resto de los entes públicos, con excepción de los municipios, será presidido por quien tenga a cargo la unidad administrativa encargada de la administración del ente público.
 
-El área requirente deberá presentar su solicitud por escrito ante el Comité Especial, adjuntando la información y documentación que estime pertinente.
+En el caso de los municipios será la persona que ocupe la titularidad de la Oficialía Mayor.
 
-El proceso ante el Comité Especial para determinar la procedencia del procedimiento de contratación se sujetará a lo dispuesto por el Reglamento de esta Ley.
+Quien tenga la titularidad de la Presidencia podrá nombrar a su suplente, mediante escrito respectivo.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. La persona Titular de la dependencia, entidad o unidad administrativa del Ente Público, a la cual está adscrita el Área usuaria del servicio de consultorías, asesorías, estudios e investigaciones. Dicho titular podrá nombrar a su suplente, mediante escrito dirigido a la Presidencia del Comité a efecto de que sea representada en caso de ausencia.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Quien represente a la Función Pública será quien ocupe la titularidad de la Secretaría o el servidor público que designe al efecto ante la presidencia del Comité Especial.
+
+En el caso de los Municipios y los demás Entes Públicos, será ocupará la titularidad del Órgano Interno de Control o la persona servidora pública que designe al efecto.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IV. De igual forma, se integrará en la asesoría del Comité Especial que se instale en la administración pública central, la persona titular de la Subsecretaría encargada del control de los egresos de la Secretaría, quién tendrá voz, pero no voto.
+
+En los Municipios, la Tesorería Municipal y la Secretaría del Ayuntamiento se integrarán como personas asesoras al Comité Especial, sin perjuicio de que por acuerdo del Ayuntamiento se designen asesorías adicionales. Las personas asesoras tendrán voz, pero no voto.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+V. Secretaría técnica, con derecho a voz, pero sin voto, designado por la persona titular de la Presidencia.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El área requirente deberá presentar su solicitud por escrito ante el Comité Especial, adjuntando la información y documentación que precise el Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las suplencias de cualquier integrante del Comité tendrán las mismas facultades que su representado, sin eximirlo de la responsabilidad a que hubiere lugar.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las sesiones del Comité Especial para determinar la procedencia del procedimiento de contratación se sujetarán a lo dispuesto por el Reglamento de esta Ley.
 
 ## TÍTULO TERCERO. DE LOS COMITÉS DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 26.
 
-Cada ente público deberá establecer un Comité de Adquisiciones, Arrendamientos y Servicios. Los entes públicos pondrán a disposición del público en general, a través del Sistema Electrónico de Compras y de su portal oficial de internet, los cargos de los integrantes de su Comité.
+Cada ente público deberá establecer un Comité de Adquisiciones, Arrendamientos y Servicios. Los entes públicos pondrán a disposición del público en general, a través del Sistema de Contrataciones Públicas, los cargos de las personas integrantes de su Comité.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 27.
 
-En los actos de los procedimientos de licitación que lleven a cabo los Comités podrán participar, previa invitación o solicitud por escrito, representantes de otras dependencias o entidades de la administración pública, así como personas invitadas de los sectores social y privado, siempre y cuando acrediten tener interés en los asuntos que se deban tratar.
+En los actos públicos de los procedimientos de licitación que lleven a cabo los Comités podrán participar representantes de otras dependencias o entidades de la administración pública, así como cualquier persona de los sectores social y privado.
 
 ###### Artículo 28.
 
-En los Comités de Adquisiciones, Arrendamientos y Servicios participará, si así lo desea, una persona representante de la cámara o colegio local del giro del bien o servicio que corresponda, para lo cual deberá ser notificada oportunamente de las reuniones y de los asuntos a tratar en las mismas.
+(DEROGADO, P.O. 4 DE ENERO DE 2023)
 
 ###### Artículo 29.
 
@@ -391,25 +741,41 @@ Los Comités de Adquisiciones, Arrendamientos y Servicios tendrán las siguiente
 
 I. Elaborar y aprobar su manual de integración y funcionamiento.
 
-II. Establecer los lineamientos que les correspondan en materia de adquisiciones, arrendamientos y prestación de servicios, y remitirlos al Periódico Oficial del Estado para su publicación.
+II. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-III. Revisar los documentos de cada área requirente, a fin de corroborar que la información presentada sea la necesaria para llevar a cabo el proceso licitatorio, así como para verificar su procedencia y formular las observaciones y recomendaciones convenientes.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-IV. Dictaminar sobre la procedencia de las excepciones a la licitación pública previstas en el artículo 73 de esta Ley, sobre la contratación de adquisiciones, arrendamientos o servicios que se lleven a cabo.
+III. Revisar los documentos de cada área requirente, a fin de corroborar que la información presentada sea la necesaria para llevar a cabo el proceso licitatorio, formular las observaciones y recomendaciones convenientes y, en su caso, determinar la procedencia y autorizar su publicación.
 
-V. Evaluar y proponer las políticas, criterios, lineamientos e investigaciones de mercado en materia de adquisiciones, arrendamientos o prestación de servicios.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-VI. Dirigir los eventos que formen parte del proceso licitatorio, tales como juntas de aclaraciones, actos de presentación y apertura de propuestas y fallos de la licitación.
+IV. Revisar los documentos de cada área requirente, formular las observaciones y recomendaciones convenientes y en su caso dictaminar sobre la procedencia de las excepciones a la licitación pública previstas en el artículo 73 de esta Ley, sobre la contratación de adquisiciones, arrendamientos o servicios que se lleven a cabo, en contrataciones iguales o superiores a ciento treinta veces el valor mensual de la unidad de medida y actualización, en cantidades inferiores a dicho monto, la facultad de dictaminar su procedencia quedara a cargo de las áreas requirentes.
+
+De igual forma, dictaminará los procedimientos de contratación que se fundamenten en el artículo 74 de esta Ley, únicamente en los casos previstos en los lineamientos aplicables.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+V. Proponer las políticas, criterios y lineamientos en materia de adquisiciones, arrendamientos o prestación de servicios, los cuales deberán de ser autorizados por la autoridad facultada u órgano de gobierno según corresponda, una vez autorizados se deberán remitir al Periódico Oficial del Estado para su publicación.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Desarrollar los eventos que formen parte del proceso licitatorio, tales como juntas de aclaraciones, actos de presentación y apertura de propuestas y fallos de la licitación y las sesiones de Comité.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
 VII. Recibir y verificar cuantitativamente, en conjunto con el área requirente, las propuestas y documentos presentados por los proveedores en el proceso licitatorio.
 
-VIII. Verificar que las personas licitantes no se encuentren en alguno de los supuestos previstos en el artículo 86 de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-IX. Analizar los dictámenes emitidos por el área requirente de las adquisiciones, arrendamientos o prestación de servicios que servirán de elementos para la elaboración del fallo respectivo, aceptándolo o rechazándolo de manera fundamentada y motivada.
+VIII. Verificar que las personas licitantes cuenten con la manifestación bajo protesta de decir verdad que no se encuentran en alguno de los supuestos previstos en el artículo 86 de esta Ley.
 
-X. Emitir el fallo con base en el dictamen elaborado por el área requirente de las adquisiciones, arrendamientos o prestación de servicios.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IX. Analizar el dictamen técnico, económico y legal-administrativo emitido por el área requirente de las adquisiciones, arrendamientos o prestación de servicios respecto de las proposiciones de los licitantes, el cual será uno de los elementos base para la elaboración del fallo respectivo, aceptándolo o rechazándolo de manera fundamentada y motivada.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+X. Emitir el fallo con base en el dictamen técnico, económico y legal-administrativo elaborado por el área requirente de las adquisiciones, arrendamientos o prestación de servicios.
 
 XI. Modificar o diferir los plazos de las juntas de aclaraciones, actos de presentación y apertura de propuestas y fallos, cuando así se requiera, dentro del marco de esta Ley.
 
@@ -417,7 +783,7 @@ XI. Modificar o diferir los plazos de las juntas de aclaraciones, actos de prese
 
 XII. Cancelar los procesos licitatorios, dentro del marco de esta Ley y dando aviso a la Función Pública o al Órgano Interno de Control que corresponda.
 
-XIII. Elaborar la agenda de los procesos licitatorios conforme a los programas anuales y sus actualizaciones.
+XIII. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
 XIV. Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables.
 
@@ -425,9 +791,11 @@ XV. Las demás que por disposición legal y reglamentaria resulten aplicables.
 
 ### CAPÍTULO II. DEL COMITÉ CENTRAL DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL PODER EJECUTIVO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 30.
 
-En el Poder Ejecutivo, el Comité de Adquisiciones, Arrendamientos y Servicios, se integrará de la siguiente manera:
+En el Poder Ejecutivo, en el ámbito de la administración pública centralizada, el Comité Central de Adquisiciones, Arrendamientos y Servicios, se integrará de la siguiente manera:
 
 I. Una Presidencia, que será la persona titular del área encargada de las adquisiciones de la Secretaría.
 
@@ -437,9 +805,19 @@ III. Una vocalía, que será la persona titular del área encargada de los egres
 
 IV. (DEROGADA, P.O. 17 DE FEBRERO DE 2018)
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
 
-A las sesiones del Comité podrá asistir, con voz pero sin voto, una persona representante de la Función Pública, quien fungirá como Observadora, así como una persona designada por quien ocupe la titularidad del área encargada de los asuntos jurídicos de la Secretaría y una Secretaría Técnica designada por la Presidencia.
+V. Representante de la Función Pública, quien fungirá como observadora, con voz, pero sin voto.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Representante del área encargada de los asuntos jurídicos de la Secretaría, quien fungirá como asesor, con voz, pero sin voto.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Secretario técnico, con derecho a voz, pero sin voto, designado por el titular de la Presidencia.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 Las personas miembros del Comité deberán emitir su voto respecto de cada uno de los asuntos que se sometan a su consideración.
 
@@ -493,7 +871,9 @@ III. Presentar denuncias, ante las instancias correspondientes, cuando haya una 
 
 IV. Las demás que le atribuya el Reglamento de la Ley.
 
-## TÍTULO CUARTO. DEL PADRÓN DE PROVEEDORES Y DEL SISTEMA ELECTRÓNICO DE COMPRAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2023)</small>
+
+## TÍTULO CUARTO. DEL PADRÓN DE PROVEEDORES Y DEL SISTEMA DE CONTRATACIONES PÚBLICAS
 
 ### CAPÍTULO I. DEL PADRÓN DE PROVEEDORES
 
@@ -517,7 +897,13 @@ I. Aquellas personas con las que los entes públicos desean celebrar por única 
 
 En este caso, el ente público deberá justificar que su pretensión se encuentra sustentada en circunstancias dirigidas a asegurar las mejores condiciones para el Estado en la adquisición, arrendamiento o prestación de servicio.
 
-II. Las contrataciones que tengan un valor inferior a ciento treinta veces el valor diario de la Unidad de Medida y Actualización vigente.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. Las contrataciones que tengan un valor inferior a seiscientas veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Cuando a consideración del titular del Área requirente no sea factible el registro en el padrón de proveedores de la persona que represente las mejores condiciones para el Ente Público.
 
 ###### Artículo 35.
 
@@ -529,9 +915,13 @@ a) La razón o denominación social.
 
 b) La relación de socios.
 
-c) Copias certificadas e inscritas en el Registro Público de la Propiedad, de la escritura constitutiva y modificaciones si las hay, con los datos registrales correspondientes, así como el nombre de la persona representante legal y el documento que acredite su personalidad, adjuntando copia de su identificación oficial.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-d) Copia fotostática del alta ante la Secretaría de Hacienda y Crédito Público, de la Cédula de Identificación Fiscal y del registro ante el Instituto Mexicano del Seguro Social.
+c) Copia simple de la escritura constitutiva y modificaciones si las hay, con los datos registrales correspondientes, inscritas en el Registro Público de la Propiedad, así como el nombre de la persona representante legal y el documento que acredite su personalidad, adjuntando copia de su identificación oficial.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+d) Constancia de situación fiscal actualizada ante la Secretaría de Hacienda y Crédito Público, y del alta patronal ante el Instituto Mexicano del Seguro Social.
 
 II. En caso de persona física:
 
@@ -545,11 +935,13 @@ III. En ambos casos:
 
 a) Domicilio fiscal, teléfono y dirección de correo electrónico para su localización, anexando copia fotostática de los comprobantes respectivos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-b) Domicilio para oír y recibir notificaciones dentro del territorio del Estado con una antigüedad mínima de seis meses.
+b) Domicilio para oír y recibir notificaciones dentro del territorio del Estado con una antigüedad mínima de seis meses o en su defecto correo electrónico en el cual acepte de manera expresa oír y recibir notificaciones personales.
 
-c) Opinión o documento que acredite el cumplimiento de obligaciones fiscales.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+c) Opinión o documento que acredite el cumplimiento de obligaciones fiscales emitidas por el SAT, IMSS e INFONAVIT según corresponda.
 
 d) Declaración escrita bajo protesta de decir verdad de no encontrarse en alguno de los supuestos del artículo 86 de esta Ley.
 
@@ -573,21 +965,37 @@ Las personas físicas o morales inscritas en el Padrón de Proveedores, deberán
 
 Serán causas de cancelación de la constancia del Padrón de Proveedores, las siguientes:
 
-I. Cuando se haya sancionado a una persona física o moral de acuerdo con lo dispuesto en el artículo 101 de esta Ley.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Cuando se haya inhabilitado para participar en procedimientos de contratación regulados por esta Ley a una persona física o moral de acuerdo con el procedimiento administrativo de sanción previsto en esta Ley, o por virtud de sentencia judicial.
 
 II. Cuando la persona física o moral no comunique a la Secretaría los cambios o modificaciones a que se refiere el artículo anterior.
 
-### CAPÍTULO II. DEL SISTEMA ELECTRÓNICO DE COMPRAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE ENERO DE 2023)</small>
+
+### CAPÍTULO II. DEL SISTEMA DE CONTRATACIONES PÚBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 39.
 
-El Sistema Electrónico de Compras será un instrumento de consulta gratuita y constituirá un medio por el cual se podrán desarrollar total o parcialmente los procedimientos de contratación de adquisiciones, arrendamientos o prestación de servicios.
+El Sistema de Contrataciones Públicas será un instrumento de consulta gratuita y constituirá un medio por el cual se podrán desarrollar total o parcialmente los procedimientos de contratación de adquisiciones, arrendamientos o prestación de servicios.
 
 El Sistema que desarrolle el Poder Ejecutivo estará a cargo de la Función Pública, a través de la unidad administrativa que determine su Reglamento, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
-En el caso de invitaciones a cuando menos tres proveedores y adjudicaciones directas, se integrará con los datos históricos de los procesos ya concluidos, como lo son: las actas de las juntas de aclaraciones, acta de fallo y copias de los contratos y los convenios modificatorios sobre los mismos y sus anexos, que serán ingresados por los entes públicos directamente al Sistema Electrónico de Compras.
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 4 DE ENERO DE 2023)</small>
+
+La información que se capturará en el sistema será ingresada directamente por los entes públicos al Sistema de Contrataciones Públicas, como mínimo será la siguiente:
+
+1. En el caso de licitaciones públicas, se integrará con los datos históricos de los procesos, como lo son: convocatoria, bases, las actas de las juntas de aclaraciones, acta de presentación y apertura de propuestas, acta de fallo y copias de los contratos y los convenios modificatorios sobre los mismos y sus anexos, en su caso.
+
+2. En el caso de invitaciones a cuando menos tres proveedores, se integrará con los datos de los procesos ya concluidos, como lo son: dictamen de excepción, en su caso, invitación, bases, las actas de las juntas de aclaraciones, en su caso, acta de fallo y copias de los contratos y los convenios modificatorios sobre los mismos y sus anexos, en su caso.
+
+3. En el caso de adjudicaciones directas, se integrará con los datos de los procesos ya concluidos, como lo son: dictamen de excepción, en su caso, copias de los contratos y los convenios modificatorios sobre los mismos y sus anexos, en su caso.
+
+4. En el Sistema de Contrataciones Públicas deberán ser capturados los datos de las licitaciones públicas, invitaciones a cuando menos tres proveedores y adjudicaciones directas, cuyos montos sean superiores a seiscientas veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
@@ -597,11 +1005,19 @@ En el caso de invitaciones a cuando menos tres proveedores y adjudicaciones dire
 
 Las adquisiciones, arrendamientos y prestación de servicios que contraten los entes públicos, por regla general, se adjudicarán a través de licitaciones mediante convocatoria pública para que libremente se presenten propuestas en sobres físicos cerrados o medios electrónicos, que serán abiertos públicamente, a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo a lo establecido en la presente Ley.
 
-Los entes públicos, solo en casos excepcionales y bajo las condiciones establecidas por esta Ley, podrán contratar adquisiciones, arrendamientos y servicios mediante los siguientes procedimientos:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
-I. Licitación en su modalidad de invitación a cuando menos tres proveedores.
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
 
-II. Adjudicación directa.
+Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, la presente Ley y su Reglamento establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+En las situaciones señaladas en el párrafo anterior los Entes Públicos podrán contratar adquisiciones, arrendamientos y servicios mediante los siguientes procedimientos:
+
+I. Invitación a cuando menos tres proveedores.
+
+II. Adjudicación directa
 
 ###### Artículo 41.
 
@@ -613,7 +1029,17 @@ Las condiciones contenidas en la convocatoria y en las bases de la licitación p
 
 Previo a la adjudicación en los procedimientos de contratación previstos en esta Ley, los entes públicos deberán realizar al menos una investigación de mercado, de la cual se desprendan las condiciones que imperan en el mismo respecto del bien, arrendamiento o servicio objeto de la contratación, a efecto de buscar y asegurar las mejores condiciones para el Estado.
 
-El Reglamento definirá los requisitos y la forma en que deberán llevarse a cabo las investigaciones de mercado.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El Reglamento definirá la modalidad de la investigación, los requisitos y la forma en que deberá llevarse a cabo.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+Los tipos de investigación de mercado podrán ser:
+
+I. Ordinaria: Las cuales se harán consistir en al menos tres cotizaciones obtenidas en sentido positivo respecto de los bienes, arrendamientos o servicios requeridos por el ente público con base en las fuentes señaladas en el Reglamento.
+
+II. Especial. Aquellas que se integran con información económica distinta a las cotizaciones ordinarias.
 
 ###### Artículo 43.
 
@@ -629,19 +1055,37 @@ Queda prohibido a los entes públicos el establecimiento de requisitos o caracte
 
 Lo anterior, salvo que existan razones justificadas para la adquisición o arrendamiento de bienes de marca determinada, en cuyo caso siempre se procurará realizar una licitación pública a fin de convocar a proveedores de esa marca, salvo que la investigación de mercado determine que ello no es posible.
 
-Para los efectos del párrafo anterior, la convocante deberá acreditar que no existen otra u otras marcas alternativas de los bienes requeridos o las existentes no puedan ser sustituidas, en virtud de que existen razones técnicas o jurídicas que obligan a la utilización de una marca determinada, o bien, que la utilización de una marca distinta pueda ocasionar algún daño, pérdida económica, costo adicional o menoscabo al patrimonio del Estado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose del requerimiento de una marca única, el área requirente deberá acreditar que no existe otra u otras marcas alternativas de los bienes requeridos o las existentes no puedan ser sustituidas, en virtud de que existen razones técnicas o jurídicas que obligan a la utilización de una marca determinada, o bien, que la utilización de una marca distinta pueda ocasionar algún daño, pérdida económica, costo adicional o menoscabo al patrimonio del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+No se considerará limitante a la libre participación cuando en un procedimiento de contratación se establezcan tres o más marcas que puedan ser ofrecidas por los licitantes o proveedores en cada una de las partidas convocadas.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En cualquier caso, el titular del área requirente deberá motivar desde el punto de vista técnico, jurídico u operativo la elección de las marcas que se requieren en el procedimiento de contratación.
 
 ###### Artículo 46.
 
 Cuando en los procedimientos de contratación de servicios, se incluya el suministro e instalación, en su caso, de bienes muebles y el valor de estos sea igual o superior al cincuenta por ciento del valor total de la contratación, la operación se considerará como adquisición de bienes muebles. Para efectos de lo anterior, en el concepto de suministro de bienes muebles, solo se considerarán los bienes que formarán parte del inventario de los entes públicos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 47.
 
-La licitación pública inicia con la publicación de la convocatoria y, en el caso de licitación a través de la invitación a cuando menos tres proveedores, con la entrega de la última invitación. Ambos procedimientos concluyen con la emisión del fallo o, en su caso, con la cancelación del procedimiento respectivo.
+La licitación pública inicia con la publicación de la convocatoria y, en el caso de la invitación a cuando menos tres proveedores, con la entrega de la última invitación. Ambos procedimientos concluyen con la emisión del fallo, la cancelación del procedimiento o la declaración de desierto. En el supuesto del procedimiento de licitación, al declararse desierto por segunda ocasión el procedimiento de contratación.
 
-Las personas licitantes solo podrán presentar una propuesta en cada procedimiento de contratación. Iniciado el acto de presentación y apertura de propuestas, las ya presentadas no podrán ser retiradas o dejarse sin efecto por quienes funjan como licitantes.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las personas licitantes solo podrán presentar una proposición en cada procedimiento de contratación. Iniciado el acto de presentación y apertura de propuestas, las ya presentadas no podrán ser retiradas o dejarse sin efecto por quienes funjan como licitantes.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La proposición estará integrada de tres apartados: propuesta técnica, propuesta económica y la documentación legal- administrativa distinta a la propuesta técnica y económica.
 
 ###### Artículo 48.
 
@@ -651,29 +1095,51 @@ En este caso, los precios de los bienes o servicios contenidos en una misma part
 
 ### CAPÍTULO II. DE LOS TESTIGOS SOCIALES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 49.
 
-En las licitaciones públicas podrán participar testigos sociales. En las licitaciones cuyo monto rebase el equivalente a quinientas veces el valor anual de la Unidad de Medida y Actualización vigente, así como en aquellos casos en que la Función Pública o el Órgano Interno de Control que corresponda, determine atendiendo al impacto social de la contratación, la participación del testigo social será obligatorio.
+En los procedimientos de contratación cuyo monto rebase el equivalente a dos mil veces el valor anual de la Unidad de Medida y Actualización vigente, así como en aquellos casos en que la Función Pública o el Órgano Interno de Control que corresponda, determine atendiendo al impacto social de la contratación, será obligatorio solicitar la participación del testigo social.
 
 Lo anterior, conforme a lo siguiente:
 
-I. La Función Pública tendrá a su cargo el padrón público de testigos sociales, quienes participarán en todas las etapas de los procedimientos de licitación pública a los que se refiere esta Ley, con voz, y emitirán un testimonio final que incluirá sus observaciones y recomendaciones, mismas que tendrán difusión en el portal oficial de internet de cada ente público, así como en el Sistema Electrónico de Compras y se integrará al expediente respectivo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ENERO DE 2023)</small>
+
+I. La Función Pública tendrá a su cargo el padrón público estatal de testigos sociales. Para tales efectos podrá celebrar convenios de colaboración con otros entes públicos a efecto de difundir la figura del testigo social, promocionar el registro de interesados y a efecto de facilitar el uso y manejo del padrón público de testigos sociales.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los testigos sociales participarán en todas las etapas de los procedimientos de licitación pública e invitaciones a cuando menos tres proveedores, con voz, y emitirán un testimonio final, el cual será publicado en el Sistema de Contrataciones Públicas e incluirá sus observaciones y recomendaciones, y se integrará al expediente respectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Por lo que toca a las adjudicaciones directas por excepción a la licitación fundamentadas en el artículo 73 de la Ley, el reglamento definirá el procedimiento para facilitar la intervención del testigo social.
 
 II. La Función Pública, acreditará como testigos sociales a aquellas personas que cumplan con los siguientes requisitos:
 
 a. Contar con la ciudadanía mexicana y estar en ejercicio de sus derechos.
 
-b. Cuando se trate de una organización no gubernamental, acreditar que se encuentra constituida conforme a las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-c. No haber recibido sentencia por la comisión de un delito doloso, ni sanción administrativa por autoridad competente.
+b) Acreditar la experiencia en la especialidad en la cual desea participar como testigo. El Reglamento definirá las especialidades y requisitos para acreditarlas.
 
-d. No ser servidora o servidor público en activo, ni haberlo sido al menos cinco años previos a la fecha en que se presente su solicitud su acreditación.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-e. Presentar currículo en el que se señale su experiencia académica y/o profesional.
+c) No haber recibido sentencia por la comisión de un delito doloso, ni sanción administrativa de inhabilitación, por autoridad competente.
 
-f. Asistir a los cursos de capacitación que imparta la Función Pública sobre la materia.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+d) No ser servidora o servidor público en activo, ni haberlo sido al menos un año previo a la fecha en que se presente su solicitud de acreditación.
+
+e) (DEROGADO, P.O. 4 DE ENERO DE 2023)
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+f) Asistir al curso inicial de inducción, así como a las capacitaciones que imparta la Función Pública sobre la materia y acreditar la evaluación respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La Función Pública podrá apoyarse en instituciones públicas de educación superior para el diseño de las capacitaciones, de las evaluaciones respectivas e inclusive en la aplicación de las mismas.
 
 g. Presentar manifestación escrita, bajo protesta de decir verdad, que se abstendrá de participar en contrataciones en las que pudiese existir conflicto de intereses, ya sea porque las personas licitantes o servidoras públicas que intervienen en las mismas tienen vinculación académica, de negocios o familiar.
 
@@ -681,27 +1147,59 @@ III. Los testigos sociales tendrán las funciones siguientes:
 
 a. Proponer a las personas convocantes fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios.
 
-b. Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las licitaciones.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-c. Videograbar, si así lo desea, todos los procesos de las licitaciones a las que asista para fines de transparencia.
+b) Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las licitaciones e invitaciones a cuando menos tres personas.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-d. Emitir al final de su participación el testimonio correspondiente, del cual entregarán un ejemplar a la Función Pública o al Órgano Interno de Control que corresponda. Dicho testimonio deberá ser publicado dentro de los diez días hábiles siguientes a su participación en el portal oficial de internet del ente público que corresponda.
+c) Videograbar, si así lo desea, todos los procesos de las licitaciones e invitaciones a cuando menos tres personas a las que asista para fines de transparencia.
 
-En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del Órgano Interno de Control del ente público o a la Función Pública.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-En ningún caso, las observaciones presentadas por los testigos sociales podrán suspender el procedimiento de licitación.
+d) Emitir al final de su participación el testimonio correspondiente, del cual entregarán un ejemplar a la Función Pública o al Órgano Interno de Control que corresponda
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-Los entes públicos podrán celebrar convenios entre sí, a efecto de facilitar el uso y manejo del padrón público de testigos sociales, o bien, estarán facultados para crear uno propio, en los términos de esta Ley y su Reglamento.
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al Órgano Interno de Control del ente público o a la Función Pública.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En ningún caso, las observaciones presentadas por los testigos sociales podrán suspender el procedimiento de contratación.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 49 Bis.
+
+El registro del testigo social podrá ser cancelado por las siguientes causas:
+
+I. Deje de cumplir alguno de los requisitos previstos en los incisos c) , d) y f) de la fracción II, del párrafo segundo, del artículo 49 de la Ley, salvo lo dispuesto por el segundo párrafo de este artículo;
+
+II. Se conduzca con parcialidad o sin objetividad durante su participación en el procedimiento de contratación;
+
+III. Utilice indebidamente la información a la que haya tenido acceso;
+
+IV. Induzca a la dependencia o entidad para favorecer a un proveedor sobre la adjudicación del contrato;
+
+V. Se abstenga de comunicar las irregularidades que hubiere detectado en el procedimiento de contratación;
+
+VI. No entregue el testimonio en tiempo y forma, e
+
+VII. Incumpla cualquiera de las funciones establecidas en la fracción III del artículo 49 de la Ley o de las obligaciones previstas en el Reglamento.
+
+En el caso de que un testigo social adquiera el carácter de servidor público, en términos del inciso d) de la fracción II del artículo 49 de la Ley, deberá informarlo inmediatamente a la Función Pública, a efecto de que se cancele su registro en el padrón público de testigos sociales; en caso de no dar aviso, en cuanto tenga conocimiento de dicha situación la Función Pública procederá de oficio a la cancelación de su registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 50.
 
-El testigo social que participe en una licitación deberá ser la misma persona en todas las etapas del procedimiento.
+El testigo social que participe en un procedimiento de contratación deberá ser la misma persona en todas las etapas del mismo.
 
-Se podrá exceptuar la participación de los testigos sociales en aquellos casos en que los procedimientos de contrataciones contengan información clasificada como reservada y que pongan en riesgo la seguridad pública, en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Se exceptúa la participación de los testigos sociales en aquellos casos en que los procedimientos de contratación contengan información clasificada como reservada y que pongan en riesgo la seguridad pública y los dictaminados por las áreas requirentes, en los términos de las disposiciones legales aplicables.
 
 ### CAPÍTULO III. DE LA LICITACIÓN PÚBLICA
 
@@ -715,11 +1213,19 @@ I. Presencial: en la cual las personas licitantes exclusivamente podrán present
 
 La junta de aclaraciones, el acto de presentación y apertura de propuestas, así como el acto de fallo, se realizarán de manera presencial, y podrán asistir quienes funjan como licitantes, sin perjuicio de que el fallo pueda notificarse por escrito conforme a lo dispuesto por esta Ley.
 
-II. Electrónica: en la cual exclusivamente se permitirá la participación de las personas licitantes a través del Sistema Electrónico de Compras, se utilizarán medios de identificación electrónica y las comunicaciones producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-La junta de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, solo se realizarán a través del Sistema Electrónico de Compras y sin la presencia de las y los licitantes en dichos actos.
+II. Electrónica: en la cual exclusivamente se permitirá la participación de las personas licitantes a través del Sistema de Contrataciones Públicas se utilizarán medios de identificación electrónica y las comunicaciones producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
-III. Mixta: en la cual las personas licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo. En todo caso los actos del procedimiento licitatorio deberán ser publicados a través del Sistema Electrónico de Compras.
+La junta de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo, solo se realizarán a través del Sistema de Contrataciones Públicas y sin la presencia de las y los licitantes en dichos actos.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Mixta: en la cual las personas licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de propuestas y el acto de fallo. En todo caso los actos del procedimiento licitatorio deberán ser publicados a través del Sistema de Contrataciones Públicas.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En caso de falla del Sistema de Contrataciones Públicas del Estado por más de cuarenta y ocho horas, las licitaciones electrónicas deberán continuarse de manera presencial. En el Reglamento se establecerán las directrices que los entes públicos deberán observar para tal efecto.
 
 ###### Artículo 52.
 
@@ -761,19 +1267,23 @@ X. En su caso, la información sobre los porcentajes a otorgar por concepto de a
 
 XI. El lugar, plazo de entrega y condiciones de pago; en caso de arrendamiento, la indicación de si este es con o sin opción a compra.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 54.
 
-La convocatoria se publicará en el portal oficial de internet del ente público, así como en el Sistema Electrónico de Compras. Simultáneamente, se enviará para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal correspondiente, en su caso, y al menos en uno de los periódicos de mayor circulación local.
+La convocatoria se publicará en el Sistema de Contrataciones Públicas. Simultáneamente, se enviará un resumen para su publicación en al menos uno de los periódicos de mayor circulación local y en el Periódico Oficial del Estado.
 
-El ente público convocante pondrá a disposición de las personas licitantes, copia del texto de la convocatoria.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El resumen a la convocatoria, deberá contener cuando menos lo siguiente: El nombre, denominación o razón social del ente público convocante, numero de licitación pública, la descripción general de los bienes, arrendamientos o servicios, así como los aspectos básicos que la convocante considere necesarios para determinar el objeto y alcance de la contratación, la indicación de la liga de la página del Sistema de Contrataciones Públicas en la que estarán disponibles las bases para consulta o en su caso indicación de los lugares, fechas y horarios en que las personas interesadas podrán obtener las bases de la licitación, fecha de publicación en el sistema de contrataciones públicas, la fecha, hora y lugar de celebración de la junta de aclaraciones y del acto de presentación y apertura de propuestas, fecha y firma de quien firma el documento.
 
 #### SECCIÓN SEGUNDA. DE LAS BASES
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 55.
 
-Las bases para las licitaciones públicas se pondrán a disposición de las y los interesados desde la publicación de la convocatoria, hasta un día hábil previo al acto de apertura.
+Las bases para las licitaciones públicas se pondrán a disposición de las y los interesados desde la publicación de la convocatoria a través del Sistema de Contrataciones Públicas y del portal de internet del ente público.
 
 ###### Artículo 56.
 
@@ -783,7 +1293,9 @@ I. El nombre, denominación o razón social del ente público que convoca.
 
 II. La modalidad del procedimiento de licitación, ya sea presencial, electrónica o mixta.
 
-III. La descripción detallada y completa de los bienes o servicios, así como los aspectos e información específica que la convocante considere necesarios para determinar el objeto y alcance de la contratación.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Anexo técnico.
 
 IV. Si para verificar el cumplimiento de las especificaciones solicitadas se requiere de la realización de pruebas o muestras, se precisará el método para ejecutarlas y el resultado mínimo que deba obtenerse.
 
@@ -793,7 +1305,9 @@ VI. La forma en que las personas licitantes deberán acreditar su existencia leg
 
 VII. La fecha, hora y lugar de celebración de la junta de aclaraciones a las bases de la licitación, así como la fecha y hora límite para presentar aclaraciones.
 
-VIII. La fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas y garantías.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VIII. La fecha, hora y lugar de celebración del acto de presentación y apertura de propuestas.
 
 IX. Señalamiento de las causas expresas de descalificación, entre las que se incluirá el incumplimiento de alguno de los requisitos establecidos en las bases, y la comprobación de que alguna persona licitante ha acordado con otra u otras elevar el costo de los bienes o servicios.
 
@@ -819,19 +1333,29 @@ XIX. Las penas convencionales por atraso en las entregas.
 
 XX. El costo de participación.
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXI. En su caso, el precio máximo de referencia a partir del cual, sin excepción, los licitantes ofrezcan porcentajes de descuento como parte de su proposición, mismos que serán objeto de evaluación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 57.
 
-El ente público, siempre que ello no tenga por objeto limitar el número de participantes, podrá modificar aspectos establecidos en la convocatoria o en las bases de la licitación, cuando menos con cinco días hábiles de anticipación a la fecha señalada para el acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones de forma inmediata en el Sistema Electrónico de Compras, en su portal oficial de internet y en los medios impresos en los que se hayan publicado.
+El ente público, siempre que ello no tenga por objeto limitar el número de participantes, podrá modificar aspectos establecidos en la convocatoria o en las bases de la licitación, cuando menos con cinco días hábiles de anticipación a la fecha señalada para el acto de presentación y apertura de propuestas, debiendo difundir dichas modificaciones de forma inmediata en el Sistema de Contrataciones Públicas, en su portal oficial de internet y en los medios impresos en los que se hayan publicado.
 
 Cualquier modificación a la convocatoria o las bases de la licitación, incluyendo las que resulten de la junta de aclaraciones, formará parte de las mismas y deberá ser considerada por las personas licitantes en la elaboración de su propuesta.
 
 Las modificaciones que se mencionan en el presente artículo, en ningún caso podrán ser sustanciales. Se consideran cambios sustanciales, de forma enunciativa, mas no limitativa:
 
-I. La sustitución en las características de los bienes o servicios convocados originalmente.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. La modificación significativa de características técnicas o de cantidades de los bienes o servicios convocados originalmente.
 
 II. La adición de otros bienes o servicios distintos a los convocados originalmente.
 
-Cuando las modificaciones deriven de las juntas de aclaraciones, el ente público deberá publicar de forma inmediata el acta respectiva en el Sistema Electrónico de Compras y en su portal oficial de internet.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Cuando las modificaciones deriven de las juntas de aclaraciones, el ente público deberá publicar de forma inmediata el acta respectiva en el Sistema de Contrataciones Públicas del Estado y en su portal oficial de internet.
 
 #### SECCIÓN TERCERA. DE LA JUNTA DE ACLARACIONES
 
@@ -849,7 +1373,9 @@ II. La o el servidor público que presida la junta de aclaraciones en ningún ca
 
 III. Las personas que pretendan solicitar aclaraciones, deberán presentar un escrito en el que expresen su interés en participar en la licitación, por sí o en representación de una o un tercero, manifestando en todos los casos los datos generales de la persona interesada y, en su caso, de quien funja como representante.
 
-IV. Las solicitudes de aclaración podrán enviarse a través del Sistema Electrónico de Compras, entregarlas personalmente o presentarlas por medios electrónicos, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IV. Las solicitudes de aclaración podrán enviarse a través del Sistema de Contrataciones Públicas, entregarlas personalmente o presentarlas por medios electrónicos, a más tardar veinticuatro horas antes de la fecha y hora en que se vaya a realizar la junta de aclaraciones.
 
 V. Al concluir la junta de aclaraciones podrá señalarse la fecha y hora para la celebración de ulteriores juntas, considerando que entre la última de estas y el acto de presentación y apertura de propuestas deberá existir un plazo de al menos tres días hábiles.
 
@@ -877,17 +1403,31 @@ II. La entrega de propuestas se hará en sobres cerrados, en uno se presentará 
 
 La documentación distinta a las propuestas podrá entregarse, a elección de la persona licitante, dentro o fuera de los sobres que las contengan.
 
-III. Se procederá a la apertura de las propuestas técnicas y se desecharán aquellas que hubieren omitido alguno de los requisitos o documentos exigidos. Las propuestas desechadas permanecerán bajo custodia de la convocante al menos quince días hábiles contados a partir de la fecha en que se dé a conocer el fallo de la licitación.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-IV. Terminada la etapa técnica, se procederá a la apertura de los sobres que contengan las propuestas económicas de las personas licitantes cuyas propuestas técnicas han sido aceptadas, y se manifestará para todos los y las presentes el importe de las propuestas que cumplan y contengan los documentos y requisitos exigidos.
+III. Se procederá a la apertura de las propuestas técnicas haciendo constar la documentación presentada, señalando en su caso los documentos faltantes.
 
-V. La convocante fijará la fecha, hora y lugar para la emisión del fallo, lo que deberá quedar comprendido dentro de los quince días hábiles contados a partir de la fecha del acto de presentación y apertura, pudiéndose diferir por una sola vez hasta por cinco días hábiles más.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IV. Terminada la etapa técnica, se procederá a la apertura de los sobres que contengan las propuestas económicas de las personas licitantes, haciendo constar el contenido del sobre y se manifestará para todos los y las presentes el importe de las propuestas.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+V. La convocante fijará la fecha, hora y lugar para la emisión del fallo, fecha que deberá quedar comprendida dentro de los veinte días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Las proposiciones no podrán ser desechadas en el acto de presentación y apertura sin que ello implique la evaluación de su contenido.
 
 Durante este periodo se realizará una evaluación detallada de las propuestas aceptadas.
 
-Tratándose de licitaciones presenciales, las personas participantes rubricarán todas las propuestas aceptadas.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-En el caso de propuestas presentadas a través del Sistema Electrónico de Compras, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información, de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Función Pública.
+Tratándose de licitaciones presenciales, las personas participantes elegirán como mínimo a una de ellas, la cual rubricará todas las propuestas aceptadas.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En el caso de propuestas presentadas a través del Sistema de Contrataciones Públicas, los sobres serán generados mediante el uso de tecnologías que resguarden la confidencialidad de la información, de tal forma que sean inviolables, conforme a las disposiciones técnicas que al efecto establezca la Función Pública.
 
 En cualquier caso, los sobres que contengan las propuestas aceptadas quedarán bajo custodia de la convocante hasta la emisión del fallo. El área requirente conservará copia de estos documentos por el plazo de un año.
 
@@ -907,17 +1447,35 @@ El Reglamento definirá los requisitos y la forma en que podrán presentarse pro
 
 #### SECCIÓN QUINTA. DE LA EVALUACIÓN DE PROPUESTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 64.
 
-Los entes públicos, para la evaluación de las propuestas aceptadas, deberán utilizar el criterio indicado en la convocatoria y en las bases de la licitación.
+Los entes públicos, para la evaluación de las proposiciones aceptadas, deberán utilizar el criterio indicado en la convocatoria y en las bases de la licitación, el cual podrá ser:
 
-Los entes públicos, antes de la evaluación técnica, podrán analizar las propuestas económicas a fin de desechar aquellas cuyo importe exceda el monto de la suficiencia presupuestal programada para la contratación.
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
 
-En todos los casos, la convocante deberá verificar que las propuestas cumplan con la información, documentos, condiciones y requisitos solicitados en la convocatoria y en las bases de la licitación.
+I. Binario: que consiste en determinar la solvencia de las proposiciones a partir de verificar el cumplimiento de las condiciones legales, técnicas y económicas requeridas en las bases de la licitación pública y oferte el precio más bajo.
 
-La utilización del criterio de evaluación binario, mediante el cual se adjudica a la persona que cumpla los requisitos establecidos por la convocante y oferte el precio más bajo, será aplicable cuando no sea necesario utilizar los criterios de puntos y porcentajes o de costo beneficio.
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
 
-Cuando los entes públicos requieran obtener bienes, arrendamientos o servicios que conlleven el uso de características de alta especialidad técnica o de innovación tecnológica, deberán utilizar el criterio de evaluación de puntos y porcentajes o de costo beneficio, conforme a los parámetros establecidos por el Reglamento de esta Ley.
+II. De puntos y porcentajes: que consiste en determinar la solvencia de las proposiciones, a partir del número de puntos o unidades porcentuales que obtengan las proposiciones conforme a la puntuación o ponderación establecida en las bases de la licitación pública.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos, antes de la evaluación técnica, podrán analizar las propuestas económicas a fin de desechar aquellas cuyo importe exceda el monto de la suficiencia presupuestal programada para la contratación o el precio aceptable derivado de la investigación de mercado.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En todos los casos, la convocante deberá verificar que las propuestas cumplan con la información, documentos, condiciones y requisitos solicitados en la convocatoria y en las bases de la licitación. La convocante evaluará al menos las dos proposiciones cuyo precio resulte ser más bajo; de no resultar estas solventes, se evaluará a las que sigan en precio tratándose del mecanismo binario.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El mecanismo de puntos y porcentajes podrá utilizarse únicamente en procedimientos cuyo monto autorizado supere las mil veces el valor anual de la Unidad de Medida y Actualización vigente y no se trate de bienes y servicios estandarizados en el mercado.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En los procedimientos en que se opte por el mecanismo de puntos y porcentajes, se deberá establecer una ponderación para las personas con discapacidad o la empresa que cuente con trabajadores con discapacidad cuando menos en un cinco por ciento de la totalidad de su planta de empleados, cuya alta en el régimen obligatorio del Instituto Mexicano del Seguro Social se haya dado con seis meses de antelación al acto de presentación y apertura de proposiciones, misma que se comprobará con el aviso de alta correspondiente.
 
 ###### Artículo 65.
 
@@ -941,7 +1499,9 @@ Una vez hecha la evaluación de las propuestas, el contrato se adjudicará a la 
 
 I. La propuesta haya ofertado el precio más bajo, siempre y cuando este resulte conveniente y aceptable. Los precios ofertados que se encuentren por debajo del precio conveniente podrán ser desechados por la convocante.
 
-II. De no haberse utilizado la modalidad mencionada en la fracción anterior, la propuesta haya obtenido el mejor resultado en la evaluación de puntos y porcentajes, o bien, de costo beneficio.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. De no haberse utilizado la modalidad mencionada en la fracción anterior, la propuesta haya obtenido el mejor resultado en la evaluación de puntos y porcentajes.
 
 En caso de existir igualdad de condiciones, los entes públicos podrán dar preferencia a las empresas locales y, en su caso, a aquellas que integren el sector de micro, pequeñas y medianas empresas.
 
@@ -956,6 +1516,18 @@ De subsistir el empate entre las personas del sector antes señalado, la adjudic
 El Comité emitirá un fallo, el cual deberá contener lo siguiente:
 
 I. La relación de licitantes cuyas propuestas se desecharon, expresando todas las razones legales, técnicas o económicas que sustentan tal determinación e indicando los puntos de la convocatoria o de las bases que en cada caso se incumpla.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de desechamientos de proposiciones vinculados con la presentación de precios no aceptables o convenientes, deberá incluirse en el fallo los resultados de la investigación de mercado y el cálculo que llevaron a la convocante a esa conclusión.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo anterior, no será aplicable en el primer procedimiento de licitación pública, por lo que únicamente deberá señalarse que el precio propuesto no es conveniente o aceptable sin incluir el cálculo correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En el caso de que el precio ofertado supere la suficiencia presupuestal autorizada, bastará con ese señalamiento para motivar el desechamientos (sic) de la propuesta.
 
 II. La relación de licitantes cuyas propuestas resultaron solventes, describiendo en lo general dichas propuestas. Se presumirá la solvencia de las propuestas, cuando no se señale expresamente incumplimiento alguno.
 
@@ -975,9 +1547,13 @@ En el fallo no se deberá incluir información reservada o confidencial, en los 
 
 Cuando la licitación sea presencial o mixta, se dará a conocer el fallo en junta pública a la que libremente podrán asistir las personas licitantes que hubieran presentado propuesta, entregándoseles copia del mismo y levantándose el acta respectiva.
 
-Asimismo, el contenido del fallo se difundirá a través del Sistema Electrónico de Compras el mismo día en que se celebre la junta pública. A las personas licitantes que no hayan asistido a la junta pública, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en el Sistema Electrónico de Compras.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-En las licitaciones electrónicas, el fallo, para efectos de su notificación, se dará a conocer a través del Sistema Electrónico de Compras el mismo día en que se emita. A las personas licitantes se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en el Sistema Electrónico de Compras.
+Asimismo, el contenido del fallo se difundirá a través del Sistema de Contrataciones Públicas el mismo día en que se celebre la junta pública. A las personas licitantes que no hayan asistido a la junta pública, se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en el Sistema de Contrataciones Públicas.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En las licitaciones electrónicas, el fallo, para efectos de su notificación, se dará a conocer a través del Sistema de Contrataciones Públicas el mismo día en que se emita. A las personas licitantes se les enviará por correo electrónico un aviso informándoles que el acta del fallo se encuentra a su disposición en el Sistema de Contrataciones Públicas.
 
 Con la notificación del fallo, las partes se obligan a la realización del contrato que ha sido adjudicado, por lo que deberán firmarlo en la fecha y términos señalados.
 
@@ -987,29 +1563,61 @@ Contra el fallo procederá el recurso de inconformidad en los términos que señ
 
 Cuando se advierta en el fallo la existencia de un error aritmético, mecanográfico o de cualquier otra naturaleza, que no afecte el resultado de la evaluación realizada por la convocante, dentro de los cinco días hábiles siguientes a su notificación y siempre que no se haya firmado el contrato, la persona titular del área responsable del procedimiento de contratación procederá a su corrección, con la intervención de quien tenga superioridad jerárquica, aclarando o rectificando el mismo mediante el acta administrativa correspondiente, en la que se harán constar los motivos que lo originaron y las razones que sustentan su enmienda, hecho que se notificará a las personas licitantes que hubieran participado en el procedimiento de contratación, remitiendo copia de la misma a la Función Pública u Órgano Interno de Control, dentro de los cinco días hábiles posteriores a la fecha de su firma.
 
-Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, la o el servidor público responsable dará vista de inmediato al Órgano Interno de Control, a efecto de que, previa intervención de oficio, se emitan las directrices para su reposición.
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+Si el error cometido en el fallo no fuera susceptible de corrección conforme a lo dispuesto en el párrafo anterior, la o el servidor público responsable podrá proceder de cualquiera de las siguientes formas:
+
+I. Cancelar la licitación por lo que toca a la partida afectada por el error de evaluación en términos del artículo 71 de esta Ley.
+
+II. Dar vista de inmediato al Órgano Interno de Control, a efecto de que, previa intervención de oficio, se emitan las directrices para la reposición del fallo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 69.
 
-Las actas de la junta de aclaraciones, del acto de presentación y apertura de propuestas, y de la junta pública en la que se dé a conocer el fallo serán firmadas por las y los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichas personas asistentes, y al finalizar cada acto se fijará un ejemplar del acta correspondiente en los estrados y en un lugar visible al que tenga acceso el público, del área responsable del procedimiento de contratación, por un término no menor de cinco días hábiles.
+Las actas de la junta de aclaraciones, del acto de presentación y apertura de propuestas, y de la junta pública en la que se dé a conocer el fallo serán firmadas por las y los licitantes que hubieran asistido, sin que la falta de firma de alguno de ellos reste validez o efectos a las mismas, de las cuales se podrá entregar una copia a dichas personas asistentes.
 
-La persona titular de la citada área dejará constancia en el expediente de la licitación, de la fecha, hora y lugar en que se hayan fijado las actas o el aviso de referencia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
-Asimismo, se difundirá un ejemplar de dichas actas en el Sistema Electrónico de Compras para efectos de su notificación a las y los licitantes que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Asimismo, se difundirá un ejemplar de dichas actas en el Sistema de Contrataciones Públicas para efectos de su notificación a las y los licitantes que no hayan asistido al acto. Dicho procedimiento sustituirá a la notificación personal.
 
 ###### Artículo 70.
 
 Los entes públicos procederán a declarar desierta una licitación, cuando la totalidad de las propuestas presentadas no reúnan los requisitos solicitados o los precios de todos los bienes, arrendamientos o servicios ofertados no resulten aceptables.
 
-En los casos en que no existan proveedores nacionales, en las políticas, criterios y lineamientos podrá establecerse un porcentaje menor al utilizado para determinar el precio no aceptable, sin que el mismo pueda ser inferior al cinco por ciento. Los resultados de la investigación y del cálculo para determinar la inaceptabilidad del precio ofertado se incluirán en el fallo.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En los casos en que no existan proveedores nacionales, en las políticas, criterios y lineamientos podrá establecerse un porcentaje menor al utilizado para determinar el precio no aceptable, sin que el mismo pueda ser inferior al cinco por ciento.
 
 Cuando se declare desierta una licitación o alguna partida y persista la necesidad de contratar con el carácter y requisitos solicitados en la primera licitación, los entes públicos deberán emitir una segunda convocatoria. Si esta segunda licitación es declarada también desierta, los entes públicos podrán optar por el supuesto de excepción previsto en el artículo 73, fracción VI de esta Ley.
 
-Cuando el carácter o los requisitos sean modificados con respecto a la primera convocatoria, se deberá invariablemente convocar a un nuevo procedimiento.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de licitaciones en las que una o varias partidas se declaren desiertas por primera ocasión por no haberse recibido proposiciones solventes, si la suma de los montos estimados de estas no supera 36 Unidades de Medida y Actualización anuales, se podrán contratar a través de adjudicación directa, en términos del artículo 74 fracción I de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Cuando los requisitos, señalados como causal de desechamiento, sean modificados en la segunda licitación con respecto a las bases y su junta de aclaraciones del primer proceso, se deberá invariablemente convocar a un nuevo procedimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 71.
 
-Hasta antes del acto de presentación y apertura de propuestas, los entes públicos, a través de su Comité, podrán cancelar una licitación, partidas o conceptos incluidos en estas, cuando existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al ente público solicitante, salvo que se trate de caso fortuito o fuerza mayor, lo cual podrá ser en cualquier tiempo.
+Los entes públicos, a través de su Comité, podrán cancelar una licitación incluso hasta antes de la firma del contrato, partidas o conceptos incluidos en estas, por las siguientes causas:
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Caso fortuito o fuerza mayor debidamente acreditado;
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 4 DE ENERO DE 2023)</small>
+
+II. Cuando existan circunstancias justificadas que extingan la necesidad para adquirir los bienes, arrendamientos o servicios, o
+
+1. Que de continuarse con el procedimiento se pudiera ocasionar un daño o perjuicio al ente público solicitante.
+
+2. En el supuesto del artículo 68, fracción I.
 
 La determinación de dar por cancelada la licitación, partidas o conceptos, deberá precisar el acontecimiento que motiva la decisión, la cual se hará del conocimiento de las personas licitantes, y no será procedente contra ella recurso alguno, sin embargo los licitantes podrán interponer la inconformidad en términos del Título Décimo de esta Ley.
 
@@ -1019,23 +1627,39 @@ Salvo en las cancelaciones por caso fortuito y fuerza mayor, los entes públicos
 
 ### CAPÍTULO ÚNICO. DE LA INVITACIÓN A CUANDO MENOS TRES PROVEEDORES Y LA ADJUDICACIÓN DIRECTA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 72.
 
-En los supuestos que prevé el presente Capítulo, los entes públicos, bajo su responsabilidad y con aprobación del Comité correspondiente, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres proveedores o de adjudicación directa.
+En los supuestos que prevé el presente Capítulo, los entes públicos, bajo su responsabilidad y con aprobación del Comité correspondiente, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar procedimientos de invitación a cuando menos tres proveedores o de adjudicación directa.
 
 La selección del procedimiento de excepción que realicen los entes públicos deberá fundamentarse y motivarse.
 
 Según las circunstancias que concurran en cada caso, los entes públicos deberán justificar las excepciones en criterios de economía, eficacia, eficiencia, imparcialidad, legalidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado.
 
-El acreditamiento de los criterios en los que se funda, así como la justificación de las razones en las que se sustente el ejercicio de la excepción, deberán constar por escrito y ser firmados por la persona titular del área usuaria o requirente de los bienes o servicios.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El acreditamiento de los criterios en los que se funda, así como la justificación de las razones en las que se sustente el ejercicio de la excepción, deberán constar por escrito y ser firmados por la persona titular del área usuaria y del Área requirente de los bienes o servicios, únicamente tratándose de los supuestos previstos en el artículo 73 de esta Ley y en contrataciones iguales o superiores a ciento treinta veces el valor mensual de la Unidad de Medida y Actualización vigente que se fundamenten en el artículo 74 de esta Ley. En contratos o pedidos menores a dicho importe el Reglamento establecerá los requisitos que contendrá el escrito.
 
 En los procedimientos de invitación a cuando menos tres proveedores el escrito deberá estar acompañado de los nombres y datos generales de los proveedores que se invitarán; tratándose de adjudicaciones directas, deberá indicarse el nombre y datos generales de la persona a quien se propone realizarla. En ambos procedimientos, deberá acompañarse la investigación de mercado que sirvió de base para su selección.
 
-En cualquier supuesto se deberá invitar a proveedores que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, y cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+En los supuestos de excepción a la licitación pública se deberán verificar que el proveedor al que se pretende adjudicar:
+
+I. Cuente con capacidad y recursos técnicos. Tratándose de procedimientos que se fundamenten en el artículo 73 y que excedan la cantidad de treinta y seis veces el valor anual de la Unidad de Medida y Actualización vigente, sin incluir el Impuesto al Valor Agregado, deberá acreditar que se encuentra el corriente en el cumplimiento de sus obligaciones fiscales y de seguridad social, así como los que considere el Comité del ente público conforme a sus políticas.
+
+El Reglamento establecerá la forma de acreditar la capacidad y recursos técnicos tomando en consideración la magnitud de la contratación.
+
+II. Que sus actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse, esto último con excepción de los procedimientos motivados en caso fortuito o fuerza mayor previstos en los artículos 73 fracción II y XV, de esta Ley, en donde se privilegiará la obtención del bien o servicio con cualquier proveedor que pueda suministrarlo a la brevedad posible.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 73.
 
-Los entes públicos podrán contratar a través de los procedimientos de invitación a cuando menos tres proveedores o de adjudicación directa, cuando se presente alguno de los siguientes supuestos:
+Los entes públicos podrán contratar a través de los procedimientos de invitación a cuando menos tres proveedores o de adjudicación directa por excepción, cuando se presente alguno de los siguientes supuestos:
 
 I. No existan bienes o servicios alternativos o sustitutos técnicamente razonables, o bien, que en el mercado exista una sola persona oferente.
 
@@ -1043,21 +1667,73 @@ II. Peligre o se altere la vida de las personas, el orden social, la economía, 
 
 En estos supuestos, las cantidades o conceptos deberán limitarse a lo estrictamente necesario para afrontar la eventualidad.
 
-III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, cuantificados y justificados, siempre que estas circunstancias no sean resultado de una falta de planeación adecuada, conforme a las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo anterior siempre y cuando no se actualice el supuesto previsto en el artículo 73 BIS que establece la presente Ley
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, los cuales deberán ser estimados y justificados, siempre que estas circunstancias no sean resultado de una falta de planeación adecuada, conforme a las disposiciones aplicables.
 
 IV. Su contratación mediante el procedimiento de licitación pública ponga en riesgo la seguridad pública, en los términos de las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+No quedan comprendidos en este supuesto los requerimientos administrativos que no estén relacionados con la preservación de la seguridad pública o con la seguridad de los titulares de los entes públicos o sus instalaciones, tales como material de oficina, artículos de limpieza, uniformes o análogos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
 No quedan comprendidos en este supuesto los requerimientos administrativos que no estén relacionados directa y exclusivamente con la preservación de la seguridad pública.
 
-V. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar a la persona licitante que haya obtenido el segundo, tercero o ulteriores lugares sucesivamente, siempre que la diferencia en precio con respecto a la propuesta inicialmente adjudicada no sea superior a un margen del cinco por ciento.
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 4 DE ENERO DE 2023)</small>
 
-Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo o ulterior lugar sucesivamente, dentro del referido margen.
+Un procedimiento de licitación pública pone en riesgo la seguridad pública, cuando dentro del anexo técnico de los bienes o servicios requeridos se encuentre información sensible que no pueda ser divulgada al público en general sin que se ponga en peligro a:
 
-VI. Se haya declarado desierta por segunda ocasión una licitación pública, siempre que se mantengan los mismos requisitos establecidos en las convocatorias cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las propuestas.
+a) Servidores públicos adscritos a las instituciones de seguridad pública y procuración de justicia, las instalaciones y bienes de dichos organismos, así como las investigaciones y procedimientos legales de su competencia.
 
-VII. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos, semiprocesados o semovientes, que tengan que ser utilizados de forma inmediata.
+b) La seguridad personal de los titulares de los entes públicos, así como de las dependencias y entidades, o
 
-VIII. Se trate de bienes usados o reconstruidos en los que el precio no podrá ser mayor al que se determine mediante avalúo que se practique conforme a las disposiciones aplicables, el cual deberá ser expedido dentro de los seis meses previos por perito certificado y registrado, que se encuentre vigente al momento de la adjudicación del contrato respectivo, sin perjuicio de lo dispuesto en el artículo 15, segundo párrafo de esta Ley.
+c) Edificios o inmuebles destinados a la seguridad pública o de uso público.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 4 DE ENERO DE 2023)</small>
+
+Se considera que un anexo técnico contiene información sensible, de manera enunciativa y no limitativa, cuando:
+
+a) Permite conocer estados y ubicación de fuerzas de Seguridad Pública.
+
+b) Permite conocer características y especificaciones de equipo de protección personal.
+
+c) Permite conocer ubicaciones y distribución interna, características de los inmuebles relacionados con seguridad pública.
+
+d) Permite el acceso continuo para la prestación del servicio en instalaciones de seguridad pública.
+
+e) Permite conocer la capacidad instalada de sistemas informáticos de red o seguridad electrónica.
+
+f) Permite conocer características de los bienes o servicios que están destinados a brindar seguridad de los edificios o inmuebles públicos, así como a los servidores públicos que en ellos laboran, tales como; aeronaves, vehículos blindados, circuitos cerrados de televisión, controles de esclusas, arcos detectores, equipo contra incendios, y cajas de seguridad.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+V. Se haya rescindido un contrato adjudicado a través de licitación pública, en cuyo caso se podrá adjudicar a la persona licitante que haya obtenido el segundo, tercero o ulteriores lugares sucesivamente, siempre que la diferencia en precio con respecto a la propuesta inicialmente adjudicada no sea superior a un margen del diez por ciento.
+
+Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar sucesivamente, siempre y cuando la diferencia en puntaje con respecto a la propuesta originalmente adjudicada no sea superior a un margen del diez por ciento.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Se haya declarado desierta por segunda ocasión una licitación pública, siempre que se mantengan y presenten por el proveedor que se propone adjudicar los mismos requisitos establecidos en las bases cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las propuestas.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VII. Se trate de adquisiciones de bienes perecederos no procesados, granos, semillas y productos alimenticios básicos, semiprocesados o semovientes. No están comprendidos en esta excepción la adquisición de despensas, paquetes alimentarios.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VIII. Se trate de bienes usados o reconstruidos en los que el precio no podrá ser mayor al que se determine mediante avalúo que se practique conforme a las disposiciones aplicables, el cual deberá ser expedido dentro de los seis meses previos a la adjudicación, dicho avalúo será practicado por cualquiera de las siguientes personas:
+
+a) Perito certificado y registrado
+
+b) Persona dedicada a la compraventa o subasta de dichos bienes, distinta al proveedor con el que se pretenda realizar la adjudicación, o
+
+c) Profesionista o especialista en el ramo al que pertenecen los bienes.
 
 IX. Se trate de los servicios prestados por una persona física, siempre que estos sean realizados por ella misma sin requerir de la utilización de más de una persona especialista o con conocimientos técnicos.
 
@@ -1065,31 +1741,93 @@ X. Se trate de servicios de mantenimiento correctivo de bienes en los que no sea
 
 XI. Se trate de la suscripción de contratos específicos que deriven de un contrato marco.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-XII. Los servicios relacionados a gastos de ceremonial, congresos, convenciones y exposiciones.
+XII. La adquisición de bienes y contratación de servicios relacionados a gastos de eventos ceremoniales, congresos, convenciones, exposiciones, ferias, festivales, eventos deportivos, educativos y culturales, sean organizados por los Entes Públicos señalados en el artículo 1 o, cuando se participa en ellos por invitación de terceros; queda comprendido la contratación de servicios artísticos.
 
 XIII. Los servicios contratados directamente con la persona que posee la titularidad o el licenciamiento exclusivo de patentes vigentes, derechos de autoría, u otros derechos exclusivos, o por tratarse de obras de arte.
 
-No quedarán comprendidos en los supuestos a que se refiere este artículo los requerimientos administrativos que tengan los entes públicos, conforme a lo dispuesto por el Reglamento de esta Ley.
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2019)</small>
+XIV. Se trate de adquisiciones, arrendamientos o servicios cuya contratación se realice de manera directa con campesinos o grupos en situación de vulnerabilidad, como personas físicas o morales.
 
-La dictaminación sobre la procedencia de la contratación y de que esta se ubica en alguno de los supuestos contenidos en este artículo estará a cargo del Comité de Adquisiciones, Arrendamientos y Servicios correspondiente, salvo que se trate de las fracciones II, XII y XIII, en cuyo caso será responsabilidad del área usuaria o requirente conforme al procedimiento establecido por el Reglamento.
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XV. Que con motivo de caso fortuito, fuerza mayor o siniestro se vean afectadas las operaciones normales del ente público y no sea posible obtener mediante el procedimiento de licitación pública bienes o servicios en el tiempo requerido para atender la eventualidad de que se trate. En este supuesto las cantidades o conceptos deberán limitarse a lo estrictamente necesario para que el ente público reinicie o continúe sus operaciones adecuadamente.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XVI. Se trate de la adquisición de refacciones nuevas o usadas para mantenimiento correctivo vehículos, maquinaria agrícola o de construcción cuando dicho mantenimiento es realizado por administración.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La dictaminación sobre la procedencia de la contratación y de que esta se ubica en alguno de los supuestos contenidos en este artículo estará a cargo del Comité de Adquisiciones, Arrendamientos y Servicios correspondiente únicamente en los supuestos que establece el Artículo 29, fracción IV de la presente Ley, salvo que se trate de las fracciones II y III únicamente cuando para evitar pérdidas o costos adicionales, sea necesario la contratación inmediata, que no permita su presentación ante el Comité, XII, XIII y XV, en cuyo caso será responsabilidad del área requirente, debiendo presentar informe ante el Comité para efecto de su registro conforme al procedimiento establecido por el Reglamento.
 
 Las contrataciones a que se refiere este artículo se realizarán preferentemente a través del procedimiento de invitación a cuando menos tres proveedores.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El Reglamento definirá los alcances de las fracciones anteriores y la modalidad del estudio de mercado aplicable.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 73 Bis.
+
+Con base en la declaratoria de emergencia en materia de protección civil o sanitaria emitida por las autoridades competentes con motivo de caso fortuito o fuerza mayor, el Congreso del Estado, previa iniciativa presentada por las autoridades señaladas en el artículo 68, fracciones I, II y IV de la Constitución Política del Estado de Chihuahua, podrá suspender en todo el territorio estatal, en uno o varios municipios el régimen de contratación de adquisiciones, arrendamientos y servicios previsto en esta Ley para que los entes públicos a través del procedimiento de adjudicación directa por emergencia puedan hacer frente, rápida y fácilmente a la situación de urgencia; lo cual deberá hacerse por un término no mayor de cuarenta días hábiles, por medio de prevenciones generales y sin que la suspensión se contraiga a determinada autoridad o acto jurídico. Una vez vigente el Decreto que declare la suspensión del régimen de contratación, las personas titulares de la Secretaría y de la Función Pública en la Administración Pública Estatal, y en los otros entes la autoridad colegiada con el nivel jerárquico máximo, o en su defecto la persona facultada para ello, deberán emitir los Acuerdos estrictamente relacionados con la emergencia en materia de contratación de adquisiciones, arrendamientos y servicios, conforme a las atribuciones que les son conferidas por la normatividad que los rige.
+
+Lo anterior, únicamente a fin de cubrir necesidades de la población generados, de manera enunciativa y no limitativa por fenómenos meteorológicos, geológicos, hidrológicos, atentados a la seguridad pública y por emergencias sanitarias, debiendo estar los procedimientos de contratación limitados a satisfacer lo estrictamente necesario para afrontar la eventualidad.
+
+La suspensión del régimen ordinario de contratación se sujetará al siguiente procedimiento:
+
+I. La iniciativa de suspensión se presentará por cualquiera de las autoridades señaladas en el artículo 68, fracciones I, II y IV de la Constitución Política del Estado de Chihuahua.
+
+El contenido de la solicitud referida indicará al menos los siguientes elementos:
+
+a) La declaratoria de emergencia emitida en términos de la normatividad de protección civil o sanitaria por autoridad competente.
+
+b) Señalar si la medida es estatal o para alguna zona del Estado indicando los motivos para ello.
+
+c) El término por el cual solicita la suspensión.
+
+II. Una vez recibida la iniciativa con proyecto de decreto por el que se declare la suspensión, se deberá turnar a la Comisión competente del Congreso a fin de que dictamine la solicitud en un plazo de tres días hábiles, contados a partir del día siguiente a su presentación.
+
+III. Aprobada la iniciativa por la Comisión respectiva, deberá convocarse de manera pronta a sesión del pleno para abordar el asunto.
+
+En las sesiones en que se discuta el Dictamen que contenga el decreto de suspensión, se procurará que ésta será el único punto para tratar.
+
+IV. Una vez aprobado el Decreto respectivo, deberá publicarse en el Periódico Oficial del Estado en edición ordinaria o extraordinaria, así como en el Sistema de Contrataciones Públicas.
+
+La vigencia del Decreto, previa aprobación del Congreso podrá prorrogarse mientras subsistan las causas que le dieron origen o modificarse conforme lo requieran las circunstancias. En todo caso, deberá seguirse el procedimiento anterior, para su prórroga.
+
+En el caso de que el Congreso considere que la situación que motivó el decreto de suspensión ha sido superada, podrá negarse la solicitud de prórroga, sin que, para el efecto, la autoridad que haya presentado la iniciativa pueda hacer observación alguna.
+
+V. La suspensión concluirá:
+
+a) Cuando haya concluido el plazo fijado en el decreto que le dio origen, o en aquel o aquellos que modificaron su plazo de vigencia; o
+
+b) Por Decreto del Congreso del Estado.
+
+El Reglamento definirá la documentación técnica, económica y legal administrativa mínima que deberá obrar en los expedientes de los procedimientos de adjudicación directa de emergencia.
 
 ###### Artículo 74.
 
 Los entes públicos, bajo su responsabilidad, podrán contratar adquisiciones, arrendamientos y servicios, sin sujetarse al procedimiento de licitación pública, a través de invitación a cuando menos tres proveedores o de adjudicación directa, cuando el importe de la operación no exceda los siguientes montos:
 
-I. En adjudicaciones directas, el monto no podrá exceder la cantidad de treinta y seis veces el valor anual de la Unidad de Medida y Actualización vigente por cuenta presupuestal, sin incluir el Impuesto al Valor Agregado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-II. En invitaciones a cuando menos tres proveedores, el monto no podrá exceder la cantidad de cincuenta y cuatro veces el valor anual de la Unidad de Medida y Actualización vigente por cuenta presupuestal sin incluir el Impuesto al Valor Agregado.
+I. En adjudicaciones directas, el monto no podrá exceder la cantidad de treinta y seis veces el valor anual de la Unidad de Medida y Actualización vigente por partida presupuestal, sin incluir el Impuesto al Valor Agregado.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. En invitaciones a cuando menos tres proveedores, el monto no podrá exceder la cantidad de cincuenta y cuatro veces el valor anual de la Unidad de Medida y Actualización vigente por partida presupuestal sin incluir el Impuesto al Valor Agregado.
 
 Las operaciones no podrán ser fraccionadas para quedar comprendidas en los supuestos de excepción por montos a la licitación pública que se refiere este artículo.
 
-Para contratar adjudicaciones directas, cuyo monto sea igual o superior a la cantidad de trescientas veces el valor diario de la Unidad de Medida y Actualización vigente, se deberá contar con al menos tres cotizaciones con las mismas condiciones, que se hayan obtenido en los treinta días previos al de la adjudicación, y consten en documento en el cual se identifiquen indubitablemente al proveedor oferente.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para contratar adjudicaciones directas, cuyo monto sea igual o superior a la cantidad de seiscientas veinte veces el valor diario de la Unidad de Medida y Actualización vigente se deberá contar con al menos tres cotizaciones con las mismas condiciones, que se hayan obtenido en los treinta días previos al de la adjudicación, y consten en documento en el cual se identifiquen indubitablemente al proveedor oferente.
 
 Lo dispuesto en el quinto párrafo del artículo 72 resultará aplicable a la contratación mediante los procedimientos de invitación a cuando menos tres proveedores y de adjudicación directa que se fundamenten en este artículo.
 
@@ -1097,23 +1835,47 @@ Lo dispuesto en el quinto párrafo del artículo 72 resultará aplicable a la co
 
 Tratándose de adjudicaciones directas relacionadas con la contratación de medicamentos e insumos para la salud requeridos por el sector público de salud, el monto no podrá exceder de cincuenta y cuatro veces el valor anual de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 75.
 
-La suma de las operaciones por cuenta presupuestal que se realicen al amparo del artículo anterior, no podrá exceder del veinte por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado al ente público que corresponda en cada ejercicio presupuestario.
+Las operaciones que se realicen al amparo del artículo anterior quedarán sujetas a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Para Entes Públicos cuyo PAAACS sea superior a mil cuatrocientas veces el valor anual de la Unidad de Medida y Actualización vigente la suma de las operaciones que se realicen al amparo del artículo anterior no podrá exceder del veinte por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado al ente público que corresponda en cada ejercicio presupuestario.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. Para Entes Públicos cuyo PAAACS sea igual o menor a mil cuatrocientas veces el valor anual de la Unidad de Medida y Actualización vigente y mayor a quinientas veces el valor anual de la Unidad de Medida y Actualización vigente la suma de las operaciones que se realicen al amparo del artículo anterior no podrá exceder del treinta por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado al ente público que corresponda en cada ejercicio presupuestario.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Para Entes Públicos cuyo PAAACS sea igual o menor a quinientas veces el valor anual de la Unidad de Medida y Actualización vigente y mayor a trecientas veces el valor anual de la Unidad de Medida y Actualización vigente la suma de las operaciones que se realicen al amparo del artículo anterior no podrá exceder del treinta por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado al ente público que corresponda en cada ejercicio presupuestario.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IV. Para entes públicos cuyo PAAACS sea igual o menor a trescientas veces el valor anual de la Unidad de Medida y Actualización vigente, no será aplicable ningún porcentaje.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Para hacerse acreedor a estos porcentajes, el ente público deberá publicar el PAAACS en el Sistema de Contrataciones Públicas. En caso de que no sea publicado el PAAACS, aplicará la fracción I.
 
 Agotado lo anterior, los entes públicos no podrán llevar a cabo procedimientos de contratación con base a lo dispuesto por el artículo que antecede, hasta en tanto no ejerzan un nuevo presupuesto.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 76.
 
-Los entes públicos, a más tardar dentro de los primeros diez días hábiles de cada mes, enviarán un informe a la Secretaría, una copia a la Función Pública y, en su caso, al órgano que corresponda, en el que referirán las operaciones que por excepciones a la licitación pública, fueron autorizadas en el mes calendario inmediato anterior, acompañando los dictámenes y las copias de las actas correspondientes.
+Los entes públicos deberán incorporar en el Sistema de Contrataciones Públicas del Estado las operaciones que, por excepción a la licitación pública, fueron autorizadas conforme a los lineamentos establecidos por la Función Pública.
 
 ###### Artículo 77.
 
 El procedimiento de invitación a cuando menos tres proveedores se sujetará a lo siguiente:
 
-I. Se difundirá la invitación en el Sistema Electrónico de Compras y en el portal oficial de internet del ente público.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Se difundirá la invitación en el Sistema de Contrataciones Públicas y en el portal oficial de internet del ente público
 
 II. El acto de presentación y apertura de propuestas podrá hacerse sin la presencia de las y los correspondientes licitantes, pero invariablemente se invitará a una o un representante de la Función Pública o el Órgano Interno de Control que corresponda.
 
@@ -1137,7 +1899,9 @@ En el supuesto de que un procedimiento de invitación a cuando menos tres provee
 
 En las adquisiciones, arrendamientos y contratación de servicios deberá pactarse preferentemente la condición de precio fijo. Solo en casos justificados se podrá pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la convocante previamente a la presentación de las propuestas.
 
-Cuando con posterioridad a la adjudicación de un contrato o pedido se presenten circunstancias supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la propuesta que sirvió de base para la adjudicación del contrato correspondiente, los entes públicos deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que, en su caso, emita la Secretaría o sus órganos facultados.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Cuando con posterioridad a la adjudicación de un contrato se presenten circunstancias económicas de tipo general, como resultado de situaciones supervenientes ajenas a la responsabilidad de las partes, que provoquen directamente un aumento o reducción en los precios de los bienes o servicios aún no entregados o prestados o aún no pagados, y que por tal razón no pudieron haber sido objeto de consideración en la proposición que sirvió de base para la adjudicación del contrato correspondiente, los entes públicos deberán reconocer incrementos o requerir reducciones, de conformidad con las disposiciones que establezca el Reglamento.
 
 Las circunstancias supervinientes a que se refiere el párrafo anterior deberán estar debidamente acreditadas.
 
@@ -1147,17 +1911,21 @@ Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán l
 
 Los entes públicos, con la aceptación del proveedor, podrán realizar modificaciones a los contratos o pedidos hasta en un veinte por ciento de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato, sin perjuicio de lo dispuesto en el artículo 88 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 79.
 
-El contrato o pedido, contendrá, en lo aplicable, lo siguiente:
+El contrato, contendrá, en lo aplicable, lo siguiente:
 
-I. El nombre, denominación o razón social del ente público convocante.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. El nombre, denominación o razón social del ente público convocante y del área requirente. De igual forma deberán señalarse los datos del servidor público que fungirá como administrador del contrato.
 
 II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato.
 
-III. Los datos relativos a la autorización del presupuesto para cubrir el compromiso derivado del contrato.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Manifestación bajo protesta decir verdad de contar con el documento que acredita la suficiencia presupuestal en el expediente de contratación respectivo, debiendo señalar la partida genérica que será afectada con motivo de la contratación.
 
 IV. Acreditación de la existencia y personalidad de la o el licitante adjudicado.
 
@@ -1175,7 +1943,9 @@ X. Porcentaje, número y fechas o plazo de las exhibiciones y amortización de l
 
 XI. Forma, términos y porcentaje para garantizar los anticipos, el cumplimiento del contrato, la calidad de los servicios y los vicios ocultos.
 
-XII. La fecha o plazo, lugar y condiciones de entrega.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XII. La fecha o plazo, lugar y condiciones de entrega, así como la vigencia del contrato, la cual estará condicionada a la recepción completa de los bienes y servicios contratados a entera satisfacción del ente público.
 
 XIII. Moneda en que se cotizó y se efectuará el pago respectivo, el cual podrá ser en pesos mexicanos o moneda extranjera de acuerdo a la determinación de la convocante.
 
@@ -1189,29 +1959,73 @@ XVII. Las previsiones relativas a los términos y condiciones a las que se sujet
 
 XVIII. El señalamiento de las licencias, autorizaciones y permisos que conforme a otras disposiciones sea necesario contar para la adquisición o arrendamiento de bienes y prestación de los servicios correspondientes, cuando sean del conocimiento del ente público.
 
-XIX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por atraso en la entrega de los bienes, arrendamientos o servicios, por causas imputables a los proveedores.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XIX. Condiciones, términos y procedimiento para la aplicación de penas convencionales por atraso en la entrega de los bienes, arrendamientos o servicios, por causas imputables a los proveedores y penas deductivas por calidad deficiente en la prestación del servicio.
 
 XX. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo de la persona licitante o proveedor según sea el caso.
 
 Salvo que exista impedimento, la estipulación de que los derechos inherentes a la propiedad intelectual que se deriven de consultorías, asesorías, estudios e investigaciones, invariablemente se constituirán a favor del ente público, según corresponda, en términos de las disposiciones legales aplicables.
 
-XXI. Los procedimientos para resolución de controversias, distintos al procedimiento de conciliación previsto en esta Ley.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-XXII. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres proveedores, así como los relativos al tipo de contrato de que se trate.
+XXI. Los procedimientos para resolución de controversias previstos en esta Ley.
+
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+XXII. Los demás aspectos y requisitos previstos en las bases de licitación e invitaciones a cuando menos tres proveedores, así como los relativos al tipo de contrato de que se trate.
 
 Para los efectos de esta Ley, la convocatoria a la licitación, las bases, el contrato y sus anexos son los instrumentos que vinculan a las partes con sus derechos y obligaciones.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+###### Artículo 79 Bis.
+
+En contrataciones iguales o inferiores a ciento treinta veces el valor mensual de la Unidad de Medida y Actualización vigente se podrá formalizar a través de pedidos, los cuales deberán contener como mínimo:
+
+I. El nombre, denominación o razón social del ente público convocante y del área requirente. De igual forma deberán señalarse los datos del servidor público que fungirá como administrador del contrato.
+
+II. La indicación del procedimiento conforme al cual se llevó a cabo la adjudicación del contrato.
+
+III. Datos generales del proveedor adjudicado.
+
+IV. La descripción de los bienes, arrendamientos o servicios.
+
+V. El precio unitario y el importe total a pagar por los bienes, arrendamientos o servicios.
+
+VI. Precisión de que el precio es fijo.
+
+VII. La fecha o plazo, lugar y condiciones de entrega, así como la vigencia del pedido.
+
+VIII. Moneda en que se cotizó y se efectuará el pago respectivo, el cual podrá ser en pesos mexicanos o moneda extranjera de acuerdo con la determinación de la convocante.
+
+IX. Plazo y condiciones de pago del precio de los bienes, arrendamientos o servicios, señalando el momento en que se haga exigible el mismo.
+
+X. Condiciones, términos y procedimiento para la aplicación de penas convencionales por atraso en la entrega de los bienes, arrendamientos o servicios, por causas imputables a los proveedores.
+
+XI. Los demás aspectos y requisitos que considere necesarios el ente público.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 80.
 
-Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en la convocatoria y en las bases de la licitación y sus juntas de aclaraciones. En caso de discrepancia, prevalecerá lo estipulado en estas.
+Las estipulaciones que se establezcan en los contratos o pedidos, derivados de procedimientos de licitación e invitación a cuando pedidos, derivados de procedimientos de licitación e invitación a cuando menos tres proveedores, no deberán modificar las condiciones previstas en las bases de la licitación y sus juntas de aclaraciones; en caso de discrepancia, prevalecerá lo estipulado en estas. Tratándose de contratos o pedidos por adjudicación directa prevalecerá lo establecido en el anexo técnico.
 
 ###### Artículo 81.
 
 La notificación del fallo obligará a los entes públicos y al licitante adjudicado a firmar el contrato en la fecha, hora y lugar previstos en el propio fallo, en la convocatoria a la licitación pública o, en su defecto, dentro de los diez días hábiles siguientes al de la citada notificación.
 
-Si la persona interesada no firma el contrato por causas imputables a la misma, conforme a lo señalado en el párrafo anterior, el ente público deberá convocar un nuevo procedimiento. En casos de urgencia y en tanto es posible llevar a cabo un segundo procedimiento, el ente público podrá adjudicar el contrato a la persona participante que haya obtenido el segundo lugar de la primera licitación, siempre que la diferencia en precio con respecto a la propuesta inicialmente adjudicada no sea superior a un margen del cinco por ciento.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes o costo beneficio, se podrá adjudicar al segundo lugar dentro del margen del cinco por ciento de la puntuación, de conformidad con lo asentado en el fallo correspondiente, y así sucesivamente en caso de que este último no acepte la adjudicación.
+Si la persona interesada no firma el contrato por causas imputables a la misma, conforme a lo señalado en el párrafo anterior, el ente público deberá adjudicar el contrato a la persona participante que haya obtenido el segundo lugar en la licitación, siempre que la diferencia en precio con respecto a la propuesta inicialmente adjudicada no sea superior a un margen del diez por ciento.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar sucesivamente, siempre y cuando la diferencia en puntaje con respecto a la propuesta originalmente adjudicada no sea superior a un margen del diez por ciento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En caso de que no haya licitantes que se ubiquen dentro de los supuestos anteriores, deberá realizarse un nuevo procedimiento de contratación conforme a lo establecido en esta Ley.
 
 ###### Artículo 82.
 
@@ -1221,13 +2035,19 @@ El atraso del ente público en la entrega de anticipos, prorrogará en igual pla
 
 Los derechos y obligaciones que se deriven de los contratos no podrán ser transferidos por el proveedor en favor de otra persona, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento del ente público de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 83.
 
-Los entes públicos podrán celebrar contratos abiertos conforme a lo siguiente:
+Los entes públicos podrán celebrar contratos o pedidos abiertos conforme a lo siguiente: Los entes públicos podrán celebrar contratos abiertos conforme a lo siguiente:
 
 I. Se establecerá la cantidad mínima y máxima de bienes por adquirir o arrendar, o bien, el presupuesto mínimo y máximo que podrá ejercerse en la adquisición o el arrendamiento. En el caso de servicios, se establecerá el plazo mínimo y máximo para la prestación, o bien, el presupuesto mínimo y máximo que podrá ejercerse.
 
 La cantidad, presupuesto o plazo mínimo no podrá ser inferior al cuarenta por ciento de la cantidad, presupuesto o plazo máximo.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos podrán celebrar contratos abiertos cuando cuenten con la autorización presupuestaria para cubrir el monto máximo del contrato o pedido.
 
 II. En casos de bienes que se fabriquen en forma exclusiva para los entes públicos, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al sesenta por ciento de la cantidad o presupuesto máximo establecido. Se entenderá por bienes de fabricación exclusiva, los que requieren un proceso de fabricación especial determinado por el ente público.
 
@@ -1237,27 +2057,43 @@ III. Se hará una descripción completa de los bienes, arrendamientos o servicio
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE FEBRERO DE 2018)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 84.
 
-Quienes participen en las licitaciones o celebren los contratos a que se refiere esta Ley deberán garantizar:
+Quienes celebren los contratos a que se refiere esta Ley deberán garantizar:
 
 I. Los anticipos que, en su caso, reciban. Estas garantías deberán constituirse por la totalidad del monto de los anticipos.
 
 II. El cumplimiento de los contratos.
 
-III. El saneamiento para el caso de evicción, vicios ocultos, daños y perjuicios y calidad de los servicios.
+III. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-Para los efectos de este artículo, las personas titulares de los entes públicos fijarán los criterios, forma y porcentajes a los que deberán sujetarse las garantías que deban constituirse, considerando los antecedentes de cumplimiento de los proveedores en los contratos celebrados con el ente público, a efecto de determinar montos menores para estos, de acuerdo a los lineamientos que al efecto emita la Secretaría.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
-En los casos señalados en las fracciones II y IV del artículo 73, así como en el 74 de esta Ley, la servidora o el servidor público que deba firmar el contrato, bajo su responsabilidad, podrá exceptuar al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En los casos señalados en las fracciones II, III (únicamente cuando para evitar pérdidas o costos adicionales, sea necesario la contratación inmediata, que no permita su presentación ante el Comité), IV, XII, XIV y XV, del artículo 73, así como en el 74 de esta Ley, la servidora o el servidor público que deba firmar el contrato por parte del área requirente, bajo su responsabilidad, podrá exceptuar al proveedor de presentar la garantía de cumplimiento del contrato respectivo.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 17 DE FEBRERO DE 2018)</small>
 
-La garantía de cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en la convocatoria y en las bases de la licitación; en su defecto, a más tardar dentro de los diez días hábiles siguientes a la firma del contrato, salvo que la entrega de los bienes o la prestación de los servicios se realice dentro del citado plazo.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La garantía de cumplimiento del contrato deberá presentarse en el plazo o fecha previstos en la convocatoria y en las bases de la licitación; en su defecto, a más tardar dentro de los diez días hábiles siguientes a la firma del contrato.
 
 La garantía correspondiente a los anticipos se presentará previamente a la entrega de estos, a más tardar en la fecha establecida en el contrato.
 
-La garantía de saneamiento para el caso de evicción, vicios ocultos y daños y perjuicios, se otorgará previamente al acto de recepción de los bienes o servicios.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Dicha garantía estará vigente hasta doce meses después de la última entrega de bienes inventariables, ello para el caso de evicción, vicios ocultos y daños y perjuicios originados con motivo de los bienes entregados. Por lo que toca a consumibles dicha garantía permanecerá vigente por tres meses.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La vigencia de la garantía en caso de los servicios será determinada en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo anterior sin perjuicio de que los proveedores queden obligados ante la dependencia o entidad a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2020)</small>
 
@@ -1265,27 +2101,35 @@ La garantía de saneamiento para el caso de evicción, vicios ocultos y daños y
 
 Las garantías que deban otorgarse conforme a esta Ley se constituirán conforme a lo siguiente:
 
-I. A favor de la Secretaría, por actos o contratos que se celebren con el Poder Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. A favor de la Secretaría, por actos o contratos que se celebren con el Poder Ejecutivo del Estado en el ámbito de la administración pública centralizada.
 
 II. A favor de los demás entes públicos, cuando los actos o contratos se celebren con ellos o, en su caso, de los órganos encargados de atender todo lo concerniente a su administración financiera y fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 86.
 
-Los entes públicos se abstendrán de recibir propuestas o adjudicar contrato alguno en las materias a que se refiere esta Ley, con las personas siguientes:
+Los entes públicos se abstendrán de recibir propuestas o adjudicar contrato o pedido alguno en las materias a que se refiere esta Ley, con las personas siguientes:
 
-I. Aquellas en que la servidora o el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para su persona, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceras personas con las que tenga relaciones profesionales, laborales o de negocios, o para personas socias o sociedades de las que la o el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Aquellas en que la servidora o el servidor público que intervenga en cualquier etapa del procedimiento de contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda resultar algún beneficio para su persona, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceras personas con las que tenga relaciones profesionales, laborales o de negocios, o para personas socias o sociedades de las que la o el servidor público o las personas antes referidas formen o hayan formado parte durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate, salvo que exista autorización previa y específica de la Función Pública o del Órgano Interno de Control que corresponda. El Reglamento definirá el procedimiento para otorgar esta autorización.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
 
 II. Las que desempeñen o hayan desempeñado hasta un año antes un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte o lo hayan hecho hasta un año antes, cuando no exista autorización previa y específica de la Función Pública o del Órgano Interno de Control que corresponda.
 
-III. Aquellas que por causas imputables a ellas mismas, se les hubiere rescindido administrativamente un contrato, dentro de un lapso de dos años contados a partir de la rescisión.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Aquellas que, por causas imputables a ellas mismas, se les hubiere rescindido administrativamente un contrato, dentro de un lapso de dos años contados a partir de la notificación de la rescisión, dicho impedimento prevalecerá únicamente ante el ente público contratante.
 
 IV. Aquellas que hubieren proporcionado información o documentación que resulte falsa, o que no es reconocida por la persona o la servidora o servidor público competente de su expedición.
 
-V. Las que hayan actuado con dolo o mala fe en alguna etapa del procedimiento de licitación o en el proceso para la adjudicación de un contrato, en su celebración, durante su vigencia, o bien, durante la presentación o desahogo de un medio de defensa legal.
+V. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-VI. Las que hayan celebrado contratos en contravención a lo dispuesto por esta Ley.
+VI. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
 VII. Las que se encuentren inhabilitadas por resolución penal o administrativa.
 
@@ -1293,7 +2137,7 @@ VII. Las que se encuentren inhabilitadas por resolución penal o administrativa.
 
 VIII. Las que se encuentren en situación de atraso en las entregas de los bienes o en la prestación de los servicios por causas imputables a ellas mismas, respecto de otro u otros contratos celebrados con los entes públicos.
 
-IX. Aquellas que presenten garantías que no sea posible hacerlas efectivas por causas no imputables a los entes públicos.
+IX. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
 X. Aquellas que hayan sido declaradas sujetas a concurso mercantil o alguna figura análoga.
 
@@ -1313,13 +2157,27 @@ XVI. Las que hayan utilizado información privilegiada, proporcionada indebidame
 
 XVII. Las que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación.
 
-XVIII. Aquellas que injustificadamente y por causas imputables a ellas mismas, no hayan formalizado un contrato adjudicado con anterioridad por la convocante. Dicho impedimento prevalecerá por el plazo que se establezca en las políticas, criterios y lineamientos a que se refiere esta Ley, el cual no podrá ser superior a un año calendario contado a partir del día en que haya fenecido el término establecido en la convocatoria a la licitación o, en su caso, para la formalización del contrato en cuestión.
+> <small>(REFORMADO [N. DE E, ESTE PÁRRAFO], P.O. 4 DE ENERO DE 2023)</small>
+
+XVIII. Aquellas que injustificadamente y por causas imputables a ellas mismas, no hayan formalizado un contrato adjudicado con anterioridad por la convocante. Dicho impedimento prevalecerá únicamente ante el ente público contratante, por un año calendario contado a partir del día en que haya fenecido el término establecido en las bases de licitación o, en su caso, por esta Ley para la formalización del contrato en cuestión.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo anterior no será aplicable a contratos derivados de un procedimiento de adjudicación directa.
 
 XIX. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
-Los entes públicos están obligados a revisar antes de la celebración de la primera etapa de los procedimientos a que se refiere esta Ley, de la emisión del fallo y la celebración de los contratos, que ninguna de las personas físicas o morales licitantes o proveedores, se encuentren impedidas para contratar; debiendo para tal efecto, hacerse constar en las actas correspondientes que se realizó la revisión señalada.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-Los entes públicos deberán llevar el registro, control y difusión de las personas con las que se encuentren impedidos de contratar, el cual deberá ser publicado en el Sistema Electrónico de Compras, así como en sus respectivos portales de internet.
+Los entes públicos están obligados a revisar previamente a la celebración de los contratos a que se refiere esta Ley, que las personas físicas o morales licitantes o proveedores, exhiban escrito bajo protesta de decir verdad de que no se encuentran en ninguno de los supuestos señalados en las fracciones anteriores del presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de pedidos dicha manifestación corresponderá a la que obre en el padrón de proveedores. En caso de que el proveedor no esté inscrito en el padrón deberá de presentar la manifestación.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos, deberán llevar un control interno de las personas con las que se encuentren impedidos de contratar con motivo de las hipótesis previstas en las fracciones III y XVIII anteriores.
 
 ###### Artículo 87.
 
@@ -1345,35 +2203,85 @@ Cualquier modificación a los contratos deberá formalizarse por escrito por par
 
 Los entes públicos se abstendrán de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor comparadas con las establecidas originalmente.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Se podrán recibir bienes de diferente marca cuando el proveedor acredite que las características y especificaciones son iguales o superiores a las ofertadas originalmente en el procedimiento de contratación y siempre y cuando el área técnica o requirente lo acepte expresamente y emita el dictamen técnico correspondiente, así como se mantengan las mismas condiciones establecidas originalmente como son el precio fijo o plazos de entrega. El Administrador del contrato deberá solicitar el convenio modificatorio respectivo.
+
 ###### Artículo 89.
 
 Los entes públicos deberán pactar penas convencionales a cargo del proveedor por atraso en el cumplimiento de las fechas pactadas de entrega o de la prestación del servicio, las que no excederán del monto de la garantía de cumplimiento del contrato, y serán determinadas en función de los bienes o servicios no entregados o prestados oportunamente.
 
-En las operaciones en que se pactare ajuste de precios, la penalización se calculará sobre el precio ajustado.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos podrán establecer en las bases de la licitación, invitaciones a cuando menos tres proveedores y contratos, penas deductivas al pago de servicios con motivo del incumplimiento parcial o deficiente en que pudiera incurrir el proveedor respecto a las partidas o conceptos que integran el contrato. En estos casos, establecerán el límite de incumplimiento a partir del cual podrán cancelar total o parcialmente las partidas o conceptos no entregados, o bien rescindir el contrato en los términos de este artículo.
 
 Los proveedores quedarán obligados ante el ente público a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios, así como de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el contrato respectivo y en la legislación aplicable.
 
 Los proveedores cubrirán las cuotas compensatorias a que, conforme a la ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier otra modificación al contrato.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Los entes públicos, en caso de presentarse defectos y vicios ocultos de los bienes y de la calidad de los servicios, podrán reclamar la garantía de cumplimiento o los daños y perjuicios causados, pero no ambos, de acuerdo con la legislación aplicable.
+
+((REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)
+
 ###### Artículo 90.
 
-Los entes públicos podrán en cualquier momento rescindir administrativamente los contratos cuando el proveedor incurra en incumplimiento de sus obligaciones, conforme al procedimiento siguiente:
+Los entes públicos podrán en cualquier momento rescindir administrativamente los contratos cuando el proveedor incurra en incumplimiento de sus obligaciones, siempre y cuando el contrato o pedido se encuentre vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2023)</small>
+
+Para efectos del procedimiento de rescisión se considera un contrato vigente aquél en el cual no se ha cumplido la fecha para la terminación del contrato o bien cuando habiéndose actualizado la fecha referida, no se cumplió con el objeto del mismo y por tanto no fue satisfecha la necesidad del ente público del bien o servicio requerido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2023)</small>
+
+La fecha de conclusión de la vigencia del contrato está sujeta al cumplimiento por parte del proveedor de las condiciones establecidas en el instrumento jurídico, la recepción de los bienes o la prestación del servicio. Cuando se incumplan los plazos establecidos en el contrato la recepción de los bienes o la recepción de la prestación de los servicios estará sujeta a la manifestación del área requirente de que cuenta con la suficiencia presupuestal y continúa vigente la necesidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2023)</small>
+
+La autoridad facultada para iniciar y resolver la rescisión será el servidor público facultado para formalizar los contratos. El trámite del procedimiento deberá ser realizado por el área jurídica del ente público, conforme se establezca en el Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 4 DE ENERO DE 2023)</small>
+
+El procedimiento de rescisión se desarrollará con base en lo siguiente:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE ENERO DE 2023)</small>
 
 I. Se iniciará a partir de que al proveedor le sea comunicado por escrito el incumplimiento en que haya incurrido, para que en un término de cinco días hábiles exponga lo que a su derecho convenga y aporte, en su caso, las pruebas que estime pertinentes.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE ENERO DE 2023)</small>
+
 II. Transcurrido el término a que se refiere la fracción anterior, el ente público contará con un plazo de quince días hábiles para resolver, considerando los argumentos y pruebas que hubiere hecho valer el proveedor. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundamentada, motivada y comunicada al proveedor dentro de dicho plazo.
 
-III. Cuando se rescinda el contrato se formulará el finiquito correspondiente, a efecto de hacer constar los pagos que deba efectuar el ente público por concepto de los bienes recibidos o los servicios prestados hasta el momento de la rescisión.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE ENERO DE 2023)</small>
+
+III. Por lo que toca al procedimiento de rescisión será aplicable en lo conducente el régimen de notificaciones previsto para la inconformidad en el artículo 117 y en el Reglamento.
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN III], P.O. 4 DE ENERO DE 2023)</small>
+
+IV. Cuando se rescinda el contrato se formulará el finiquito correspondiente, a efecto de hacer constar los pagos que deba efectuar el ente público por concepto de los bienes recibidos o los servicios prestados hasta el momento de la rescisión.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 Iniciado un procedimiento de conciliación, los entes públicos, bajo su responsabilidad, podrán suspender el trámite del procedimiento de rescisión.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
 Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto, previa aceptación y verificación del ente público de que continúa vigente la necesidad de los mismos, aplicando, en su caso, las penas convencionales correspondientes.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ENERO DE 2023)</small>
 
 El ente público podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que la rescisión del contrato pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas; en este supuesto, deberá justificar que los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ENERO DE 2023)</small>
+
 Al no dar por rescindido el contrato, el ente público establecerá con el proveedor otro plazo, que le permita subsanar el incumplimiento que hubiere motivado el inicio del procedimiento. El convenio modificatorio que al efecto se celebre deberá atender a las condiciones previstas por los dos últimos párrafos del artículo 88 de esta Ley.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ENERO DE 2023)</small>
+
 Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquel en que hubiere sido adjudicado el contrato, el ente público podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados.
+
+(REPUBLICADO, P.O. 4 DE ENERO DE 2023)
 
 Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
 
@@ -1389,7 +2297,9 @@ Los entes públicos estarán obligados a mantener los bienes adquiridos o arrend
 
 Para los efectos del párrafo anterior, los entes públicos, en los contratos de adquisiciones, arrendamientos o servicios, deberán estipular las condiciones que garanticen su correcta operación y funcionamiento; en su caso, la obtención de una póliza de seguro por parte del proveedor, que garantice la integridad de los bienes hasta el momento de su entrega y, de ser necesario, la capacitación del personal que operará los equipos.
 
-La adquisición de materiales cuyo consumo haga necesaria invariablemente la utilización de equipo propiedad del proveedor, podrá realizarse siempre y cuando en la convocatoria a la licitación se establezca que a quien se adjudique el contrato deberá proporcionar el citado equipo sin costo alguno para el ente público durante el tiempo requerido para el consumo de los materiales.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La adquisición de materiales cuyo consumo haga necesaria invariablemente la utilización de equipo propiedad del proveedor, podrá realizarse siempre y cuando en las bases de la licitación se establezca que a quien se adjudique el contrato deberá proporcionar el citado equipo sin costo alguno para el ente público durante el tiempo requerido para el consumo de los materiales.
 
 ###### Artículo 93.
 
@@ -1398,6 +2308,10 @@ Cuando en la prestación del servicio se presente caso fortuito o de fuerza mayo
 Cuando la suspensión obedezca a causas imputables al ente público, previa petición y justificación del proveedor, este reembolsará al proveedor los gastos no recuperables que se originen durante el tiempo que dure esta suspensión, siempre que estos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato.
 
 En cualquiera de los casos previstos en este artículo, se pactará por las partes el plazo de suspensión, a cuyo término podrá iniciarse la terminación anticipada del contrato.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El proveedor adjudicado no podrá suspender la entrega de los bienes o la prestación de los servicios, salvo caso fortuito o fuerza mayor debidamente acreditado.
 
 ## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
@@ -1409,11 +2323,29 @@ En cualquiera de los casos previstos en este artículo, se pactará por las part
 
 La forma y términos en que los entes públicos deberán remitir a los órganos competentes la información relativa a los actos y los contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por los mismos en el ámbito de sus respectivas atribuciones.
 
-Los entes públicos conservarán en forma ordenada y sistemática toda la documentación e información comprobatoria de los actos y contratos materia de esta Ley, cuando menos por un lapso de diez años contados a partir de la fecha de su recepción. Tratándose de la documentación e información contable se estará en lo dispuesto por las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+Los entes públicos conservarán en forma ordenada y sistemática toda la documentación e información comprobatoria de los actos y contratos materia de esta Ley, cuando menos por un lapso de diez años contados a partir de la fecha de su recepción.
 
-Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres proveedores, podrán ser devueltas a las personas licitantes que lo soliciten, una vez transcurridos quince días hábiles a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna inconformidad en trámite, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la inconformidad e instancias subsecuentes.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las dos proposiciones solventes con el mayor porcentaje o puntaje de calificación cuando se aplique el criterio de evaluación de puntos o porcentajes, o las dos cuyos precios fueron los más bajos si se utilizó el criterio de evaluación binario, u otras proposiciones adicionales que determine la convocante, serán las únicas que pasarán a formar parte de los expedientes de la convocante por el término previsto en el párrafo anterior y, por lo tanto, quedarán sujetas a las disposiciones correspondientes a la guarda, custodia y disposición final de los expedientes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+El resto de las proposiciones desechadas podrán ser destruidas una vez transcurrido el ejercicio fiscal siguiente a aquel en que se llevó a cabo el procedimiento.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Lo dispuesto en los párrafos anteriores con excepción de las muestras mismas que serán devueltas a los licitantes previa solicitud, una vez transcurridos treinta días naturales después de la emisión del fallo, salvo que exista inconformidad pendiente de resolución en cuyo caso dicho plazo correrá hasta que la resolución de dicha instancia quede firme. En caso de no solicitarlo, las muestras podrán ser desechadas o ingresar al patrimonio del ente público.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Se conservará la muestra del proveedor adjudicado hasta la recepción de conformidad por parte del administrador del contrato, a partir de lo cual comenzará a contar el plazo señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Tratándose de procedimientos declarados desiertos en la primera vuelta, podrán devolverse las muestras anticipadamente para efecto de su participación en la segunda vuelta, siempre y cuando no exista un procedimiento de inconformidad pendiente de resolución.
 
 ###### Artículo 95.
 
@@ -1449,9 +2381,11 @@ VIII. Las justificaciones de los procedimientos de adjudicación directa e invit
 
 IX. Los nombres de las y los funcionarios responsables de cada uno de los procedimientos de contratación.
 
-X. Los indicadores diseñados por los entes públicos para verificar el cumplimiento de las condiciones de contratación establecidas en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
 
-La información a que se refiere el presente artículo deberá verificarse que se encuentre actualizada por lo menos cada tres meses.
+X. Los indicadores diseñados de la Función Pública que le permitan verificar el cumplimiento de esta Ley y su Reglamento en la Administración Pública Estatal, y a los Órganos Internos de Control en el ámbito de su competencia.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ### CAPÍTULO II. DE LA VERIFICACIÓN
 
@@ -1473,45 +2407,111 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
+
 ###### Artículo 99.
 
-Las infracciones a las disposiciones contenidas en esta Ley, serán sancionadas con suspensión, cancelación, inhabilitación y/o multa. Las personas licitantes o proveedores que infrinjan las disposiciones de esta Ley se sancionarán por la Función Pública o el Órgano Interno de Control competente para cada ente público, según corresponda. Tratándose de los actos de particulares vinculados con faltas administrativas graves, se observará lo dispuesto por la ley aplicable en materia de responsabilidades administrativas.
+Las infracciones a las disposiciones contenidas en esta Ley serán sancionadas con inhabilitación, multa o ambas. Las personas licitantes o proveedores que infrinjan las disposiciones de esta Ley se sancionarán por la Función Pública o el Órgano Interno de Control competente para cada ente público, según corresponda. Tratándose de los actos de particulares vinculados con faltas administrativas graves, se observará lo dispuesto por la ley aplicable en materia de responsabilidades administrativas.
 
-La multa será equivalente a la cantidad de cincuenta hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción, y constituirá un crédito fiscal a favor del Estado o del municipio, según corresponda, y se hará efectiva mediante el Procedimiento Administrativo de Ejecución, en los términos de las disposiciones aplicables del Código Fiscal y del Código Municipal, ambos del Estado de Chihuahua.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las personas licitantes o proveedores que infrinjan las disposiciones de esta Ley serán sancionadas por la Función Pública o el Órgano Interno de Control que corresponda, con multa mínima de sesenta a tres mil veces el valor mensual de la Unidad de Medida y Actualización vigente, en la fecha de la infracción.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La multa constituirá un crédito fiscal a favor del Estado o del municipio, según corresponda, y se hará efectiva mediante el Procedimiento Administrativo de Ejecución, en los términos de las disposiciones aplicables del Código Fiscal del Estado de Chihuahua y del Código Municipal para el Estado de Chihuahua.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+La multa señalada en el presente artículo se impondrá de acuerdo con el procedimiento y criterios previstos en los artículos 102, 103 y 104 de esta Ley en los casos siguientes:
+
+I. Los licitantes que, injustificadamente y por causas imputables a las mismas, no formalicen un contrato adjudicado por la convocante.
+
+II. Los proveedores que omitan presentar las garantías previstas en esta Ley.
+
+III. En los supuestos previstos en el artículo 100 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 100.
 
-Cuando las personas licitantes, injustificadamente y por causas imputables a ellas mismas, no formalicen contratos cuyo monto no exceda de cincuenta veces el valor mensual de la Unidad de Medida y Actualización vigente, serán sancionadas con multa equivalente a la cantidad de diez hasta cuarenta y cinco veces el valor mensual de la Unidad de Medida y Actualización vigente en la fecha de la infracción.
+La Secretaría de la Función Pública o el Órgano Interno de Control que corresponda, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar de manera directa o por interpósita persona en procedimientos de contratación regulados por esta Ley, a las personas que se encuentren en alguno de los supuestos siguientes:
+
+I. Los proveedores a los que se les haya rescindido administrativamente un contrato, por no cumplir sus obligaciones contractuales respecto de las materias de esta Ley, y que, como consecuencia de ello, haya sido perjudicada gravemente el ente público contratante.
+
+Para determinar cuándo el ente público ha resultado gravemente perjudicado, se deberá considerar que el incumplimiento contractual actualiza cualquiera de los siguientes supuestos:
+
+a)Alguna actividad del ente público se haya visto suspendida, a consecuencia de ese incumplimiento;
+
+b)Se prive a los usuarios finales del ente público de contar oportunamente de un bien o servicio
+
+II. Las que proporcionen información o documentación falsa, ya sea en el trámite de registro en el padrón de proveedores, en algún procedimiento de contratación de los regulados por esta Ley, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad.
+
+III. Cuando en virtud de la información que se allegue la Función Pública o el Órgano Interno de Control respectivo, se compruebe que hayan celebrado contratos en contravención a lo dispuesto por esta Ley.
+
+IV. Las que hayan actuado con dolo o mala fe en alguna etapa del procedimiento de licitación o en el proceso para la adjudicación de un contrato, en su celebración, durante su vigencia, o bien, durante la presentación o desahogo de una solicitud de conciliación o de una inconformidad.
+
+V. La participación de empresas con socios en común dentro de una misma licitación.
+
+VI. El conflicto de intereses entre el servidor público y proveedor o participante.
+
+La inhabilitación que se imponga no será menor de tres meses ni mayor de siete años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Función Pública o el Órgano Interno de Control que corresponda, la haga del conocimiento de los Entes Públicos, mediante la publicación de la circular en el Periódico Oficial del Estado debiendo registrarse la sanción en esa misma fecha en el sistema de contrataciones.
+
+Transcurrido el plazo y cumplida la sanción, el proveedor o participante podrá solicitar su reincorporación al padrón de proveedores. Lo anterior sin perjuicio de las demás sanciones que procedan, de las penas convencionales pactadas en los contratos y, en su caso, del pago de los daños y perjuicios que se ocasionen a los entes públicos.
+
+La inhabilitación de un proveedor traerá aparejada la cancelación de su registro en el Padrón de Proveedores en donde se encuentre registrado por el tiempo fijado para la sanción.
+
+Los Entes Públicos y el testigo social, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Función Pública o el Órgano Interno de Control que corresponda, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+Las notificaciones relativas al procedimiento de sanción, así como aquellas vinculadas con las investigaciones se realizarán de acuerdo con lo previsto por el artículo 117 y los artículos correlativos del Reglamento.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 101.
 
-Las y los proveedores que se encuentren en cualquiera de los siguientes supuestos, podrán ser sancionados según la gravedad del acto u omisión, con la suspensión o cancelación de su registro en el padrón correspondiente:
+El plazo para iniciar un procedimiento sancionatorio prescribe en siete años, dicho término será continuo y se contará desde el día en que se cometió la infracción administrativa si fuere consumada, o desde que cesó si fuere continua.
 
-I. Cuando no hubieren cumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellos y que, como consecuencia de ello, haya sido perjudicada gravemente la Administración Estatal o Municipal.
-
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2018)</small>
-
-II. Cuando en virtud de la información con que cuente la Secretaría, la Función Pública o el órgano respectivo, se compruebe que hayan celebrado contratos en contravención a lo dispuesto por esta Ley.
-
-III. Las y los proveedores que se encuentren en situación de atraso en las entregas de los bienes o servicios por causas imputables a ellos mismos, respecto al cumplimiento de otro u otros contratos y hayan afectado con ello a algún ente público.
-
-IV. Se les declare en estado de quiebra o suspensión de pagos o, en su caso, sujetos a concurso de acreedores.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 102.
 
-Las resoluciones que determinen la sanción de un proveedor o participante deberán ser notificadas al Comité de Adquisiciones, Arrendamientos y Servicios, a fin de que publique en el Sistema Electrónico de Compras que el proveedor o participante fue sancionado.
+La Función Pública o el Órgano Interno de Control que corresponda, impondrá las sanciones considerando:
 
-Estas resoluciones también deberán publicarse en el portal oficial de internet del ente público de que se trate.
+I. Los daños o perjuicios que se hubieren producido con motivo de la infracción.
+
+II. El carácter intencional o no del acto u omisión constitutivo de la infracción.
+
+III. La gravedad de la infracción.
+
+IV. Las condiciones de la persona infractora.
+
+Cuando sean varias las personas responsables, cada una será sancionada con el total de la multa o inhabilitación que se imponga.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 103.
 
-A las y los proveedores o participantes que hubieran recibido sanción por faltas graves se les inhabilitará para celebrar contratos por al menos tres meses y no más de seis años contados a partir de la fecha en que surta efectos la sanción. Transcurrido el plazo y cumplida la sanción, el proveedor o participante podrá solicitar su reincorporación al padrón de proveedores. Lo anterior sin perjuicio de las demás sanciones que procedan, de las penas convencionales pactadas en los contratos y, en su caso, del pago de los daños y perjuicios que se ocasionen a los entes públicos.
+En la tramitación de los procedimientos para imponer las sanciones a que se refiere este Título, se observarán las siguientes reglas:
 
-El plazo para iniciar un procedimiento sancionatorio prescribe una vez transcurridos siete años contados a partir de que se tuvo conocimiento de la infracción.
+I. Se emitirá un acuerdo de inicio en donde se comunicará por escrito a la persona presunta infractora, los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes.
+
+Como medida cautelar, se podrá decretar la suspensión temporal del registro en el Padrón de Proveedores del presunto infractor durante el desahogo del procedimiento. Dicha suspensión no prejuzgará ni será indicio de la infracción que se le impute, lo cual se hará constar en el acuerdo en la que se decrete.
+
+La medida se decretará tomando en consideración los efectos perjudiciales que produjo la presunta infracción, así como los antecedentes del proveedor respecto a rescisiones o sanciones decretadas con motivo de la aplicación de esta Ley.
+
+II. Una vez desahogadas las pruebas, se abrirá un periodo de alegatos por tres días hábiles.
+
+III. Terminada la fase de alegatos, la autoridad correspondiente cerrará instrucción previa verificación de que no exista diligencia por practicar,
+
+IV. Una vez cerrada la instrucción, pronunciará su resolución debidamente fundada y motivada, en un término que no excederá de veinte días hábiles.
+
+La resolución que ponga fin al procedimiento de sanción podrá impugnarse mediante el recurso previsto en la legislación aplicable en materia administrativa, o bien, cuando proceda, ante el Tribunal en materia administrativa competente, mediante el procedimiento contencioso respectivo.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 104.
 
-En el ámbito del Poder Ejecutivo y su sector paraestatal, así como en el municipal cuando haya inversión de recursos estatales, la Función Pública podrá proponer a las autoridades competentes, la imposición de las sanciones que correspondan y, en su caso, la suspensión del suministro o de la prestación del servicio en que incida la infracción.
+No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor, de caso fortuito o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando sea la autoridad quien descubra la omisión, o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por la misma.
 
 ###### Artículo 105.
 
@@ -1519,49 +2519,65 @@ A las y los servidores públicos que infrinjan las disposiciones de esta Ley, se
 
 ###### Artículo 106.
 
-Las sanciones se impondrán conforme a los siguientes criterios:
+(DEROGADO, P.O. 4 DE ENERO DE 2023)
 
-I. Se tomará en cuenta la importancia de la infracción, las condiciones de la persona infractora y la conveniencia de eliminar prácticas tendientes a infringir, en cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella.
-
-II. Cuando sean varias las personas responsables, cada una será sancionada con el total de la multa que se imponga.
-
-III. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el artículo 99, segundo párrafo de esta Ley o se duplicará la multa anterior que se hubiere impuesto.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 107.
 
-No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor, de caso fortuito o cuando se observe en forma espontánea el precepto que se hubiese dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando sea la autoridad quien descubra la omisión, o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por la misma.
+La Función Pública o el Órgano Interno de Control tomará conocimiento de los actos o hechos presuntamente constitutivos de infracciones que cometan los licitantes o proveedores a través, entre otros, de los medios siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+I. Denuncia de los entes públicos. Dentro de la documentación comprobatoria que remitan, procuraran señalar el monto de los daños o perjuicios causados con motivo de la presunta infracción, haciendo el desglose y especificación de los conceptos de afectación de que se trate;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. Vista de cualquier otra autoridad mediante la cual informe de actos o hechos posiblemente constitutivos de infracción, agregando la documentación comprobatoria con que se cuente para acreditar la conducta irregular;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+III. Denuncia de particulares, en la que señalen bajo protesta de decir verdad los actos o hechos presuntamente sancionables. La manifestación de actos o hechos falsos será sancionada en términos de la legislación penal aplicable;
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+IV. Información obtenida de las actividades de seguimiento y control de los procedimientos de licitación o invitación a cuando menos tres proveedores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 108.
 
-En el procedimiento para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las siguientes reglas:
+Una vez que la Función Pública o el Órgano Interno de Control tengan conocimiento de actos o hechos posiblemente constitutivos de infracción, según lo previsto en el artículo anterior, realizará las investigaciones y actuaciones que correspondan a fin de sustentar la imputación, para lo cual podrá requerir a los entes públicos, a las autoridades que corresponda, a los particulares o, en su caso, solicitar a los licitantes o proveedores que aporten mayores elementos para su análisis.
 
-I. Se comunicarán por escrito a la persona presunta infractora los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes.
+I. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-II. Una vez desahogadas las pruebas, se abrirá un periodo de alegatos por tres días.
+II. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-III. Terminada la fase de alegatos, la autoridad correspondiente, pronunciará su resolución, debidamente fundamentada y motivada, en un término que no excederá de veinte días hábiles, y la comunicará por escrito a la persona infractora. En lo conducente, este artículo será aplicable en las rescisiones administrativas que lleven a cabo las autoridades correspondientes por causas imputables a los proveedores.
+III. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE ENERO DE 2023)</small>
 
-La resolución que ponga fin al procedimiento de sanción podrá impugnarse cuando proceda, mediante el recurso administrativo de revisión previsto en el Código Administrativo del Estado de Chihuahua, o bien cuando proceda, ante el Tribunal en materia administrativa competente mediante el procedimiento contencioso respectivo.
+Si desahogadas las investigaciones se concluye que existen elementos suficientes para sustentar la imputación al licitante o proveedor, se iniciará el procedimiento para imponer sanciones previsto en el 103 de la Ley; de lo contrario, se acordará la improcedencia y se archivará el expediente. Cuando de las actuaciones previstas en este artículo se adviertan posibles responsabilidades administrativas de servidores públicos, se dará vista a la autoridad competente en esa materia para que resuelva lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 109.
 
-Son consideradas faltas graves que ameritan una multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción y la inhabilitación del proveedor o participante:
+Cuando la Función Pública haya inhabilitado a un proveedor con posterioridad a la emisión de un fallo en el que se le adjudicó un contrato, los entes públicos podrán formalizar el contrato respectivo.
 
-I. Presentar documentación falsa durante las etapas del proceso de licitación o contratación.
+I. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-II. La participación de una persona licitante con un nombre, denominación o razón social diversa, con el propósito de evadir una inhabilitación.
+II. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-III. La participación de empresas con socias y socios en común dentro de una misma licitación.
+III. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-IV. Omitir presentar las garantías o no hacerlo oportunamente.
+IV. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-V. El incumplimiento contractual con daño o perjuicio grave a la Administración Estatal o Municipal.
+V. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-VI. El conflicto de intereses entre la servidora o servidor público y el proveedor o participante.
+VI. (DEROGADA, P.O. 4 DE ENERO DE 2023)
 
-Las faltas no consideradas graves por esta Ley serán consideradas faltas leves y merecerán apercibimiento o, en caso de reincidencia, multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción al momento de su comisión.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 110.
 
@@ -1629,21 +2645,25 @@ En esta hipótesis, la inconformidad solo podrá presentarse por quien haya obte
 
 En todos los casos en que se trate de licitantes que hayan presentado propuesta conjunta, la inconformidad solo será procedente si se promueve conjuntamente por todos los integrantes de la misma.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2023)</small>
 
 ###### Artículo 114.
 
-La inconformidad deberá presentarse por escrito, directamente en las oficinas de la Función Pública, del Órgano Interno de Control que corresponda o a través del Sistema Electrónico de Compras.
+La inconformidad deberá presentarse por escrito, directamente en las oficinas de la Función Pública, del Órgano Interno de Control que corresponda o a través del Sistema de Contrataciones Públicas.
 
 La interposición de la inconformidad en forma o ante autoridad diversa a las señaladas en el presente Capítulo, según cada caso, no interrumpirá el plazo para su oportuna presentación.
 
 El escrito inicial contendrá:
 
-I. El nombre de la persona inconforme y de la que promueve en su nombre, quien deberá acreditar su representación mediante instrumento público.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE ENERO DE 2023)</small>
+
+I. El nombre de la persona inconforme y de la que promueve en su nombre, quien deberá acreditar su representación mediante instrumento público en original o copia certificada.
 
 Cuando se trate de licitantes que hayan presentado propuesta conjunta, en el escrito inicial deberán designar una o un representante común, de lo contrario, se entenderá que fungirá como tal la persona nombrada en primer término.
 
-II. Domicilio para recibir notificaciones personales, que deberá estar ubicado en el lugar en que resida la autoridad que conoce de la inconformidad. Para el caso de que no se señale domicilio procesal en estos términos, se asentará razón en el expediente, practicándose las notificaciones correspondientes mediante la ubicación del acuerdo respectivo, en lugar visible y destinado para ello en las oficinas de la resolutora.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2023)</small>
+
+II. Domicilio para recibir notificaciones personales, que deberá estar ubicado en el lugar en que resida la autoridad que conoce de la inconformidad. Para el caso de que no se señale domicilio procesal, se asentará razón en el expediente, practicándose las notificaciones correspondientes mediante correo electrónico proporcionado por el promovente. En caso de que no se proporcione correo electrónico se hará por estrados mediante la ubicación del acuerdo respectivo, en lugar visible y destinado para ello en las oficinas de la resolutora.
 
 III. El acto que se impugna, fecha de su emisión o notificación o, en su defecto, en que tuvo conocimiento del mismo.
 
@@ -1651,9 +2671,15 @@ IV. Las pruebas que ofrece y que guarden relación directa e inmediata con los a
 
 V. Los hechos o abstenciones que constituyan los antecedentes del acto impugnado y los motivos de inconformidad. La manifestación de hechos falsos se sancionará conforme a las disposiciones de esta Ley y a las demás que resulten aplicables.
 
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Correo electrónico para recibir notificaciones distintas a las que deban practicarse personalmente.
+
 Al escrito de inconformidad deberá acompañarse el documento que acredite la personalidad de la parte promovente y las pruebas que ofrezca, así como copias del escrito inicial y anexos para la convocante y la persona tercera interesada, teniendo tal carácter la o el licitante a quien se haya adjudicado el contrato.
 
-En las inconformidades que se presenten a través del Sistema Electrónico de Compras, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En las inconformidades que se presenten a través del Sistema de Contrataciones Públicas, deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
 
 En las inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad de la promovente, se sujetarán a las disposiciones técnicas que para tales efectos expida la Función Pública, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
 
@@ -1674,6 +2700,10 @@ III. Cuando el acto impugnado no pueda surtir efecto legal o material alguno por
 IV. Cuando se promueva por una persona licitante en forma individual y su participación en el procedimiento de contratación se hubiera realizado en forma conjunta.
 
 V. Cuando se impugne cualquier acto del procedimiento de contratación y la convocante determine la cancelación del procedimiento licitatorio.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2023)</small>
+
+VI. Cuando se controviertan los actos de una primera licitación que fue declarada desierta o de una de las partidas desiertas de la misma, y se convoque a una segunda licitación en términos del artículo 70 párrafo tercero de esta Ley.
 
 ###### Artículo 116.
 
@@ -1833,6 +2863,10 @@ De estimarlo procedente, podrá decretarse la suspensión de los actos del proce
 
 Resulta aplicable al procedimiento de intervención de oficio, en lo conducente, las disposiciones previstas en esta Ley para el trámite y resolución de inconformidades.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+La facultad de emitir el acuerdo inicial de intervención de oficio únicamente podrá ser ejercida dentro de los sesenta días hábiles posteriores a la emisión del fallo respectivo o a la recepción de la solicitud por parte del Comité Convocante del proceso.
+
 ### CAPÍTULO II. DE LA CONCILIACIÓN
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE FEBRERO DE 2018)</small>
@@ -1841,11 +2875,47 @@ Resulta aplicable al procedimiento de intervención de oficio, en lo conducente,
 
 En cualquier momento los proveedores o los entes públicos podrán presentar ante la Función Pública o el Órgano Interno de Control que corresponda, solicitud de conciliación, por desavenencias derivadas del cumplimiento de los contratos o pedidos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2023)</small>
 
-Una vez recibida la solicitud respectiva, la Función Pública o el órgano correspondiente señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud.
+Una vez recibida la solicitud respectiva, la Función Pública o el órgano correspondiente señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá iniciar dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud o bien de una vez que se haya desahogado la prevención señalada en el párrafo que antecede.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia de la parte solicitante, traerá como consecuencia tener por no presentada su solicitud.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE ENERO DE 2023)</small>
+
+El escrito de solicitud de conciliación que presente el proveedor o el ente público deberá contener los siguientes elementos:
+
+I. Nombre, denominación o razón social de quién o quiénes promuevan, en su caso de su representante legal;
+
+II. Domicilio para recibir notificaciones el que deberá estar ubicado en el lugar en que resida la autoridad que conoce de la conciliación, así como nombre de la persona o personas autorizadas para recibirlas.
+
+Para el caso de que no se señale domicilio procesal, se asentará razón en el expediente, practicándose las notificaciones correspondientes mediante correo electrónico proporcionado por el promovente. En caso de que no se proporcione correo electrónico se hará por estrados mediante la ubicación del acuerdo respectivo, en lugar visible y destinado para ello en las oficinas de la resolutora.
+
+III. Correo electrónico para recibir notificaciones distintas a las que deban practicarse personalmente.
+
+IV. La petición que se formula, y los hechos o razones que dan motivo a la petición.
+
+V. Lugar y fecha de emisión del escrito.
+
+VI. Documentos que acrediten su personalidad.
+
+VII. Objeto, vigencia y monto del contrato y, en su caso, a los convenios modificatorios, debiendo adjuntar copia de dichos instrumentos debidamente suscritos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+En los casos en que el solicitante no cuente con dichos instrumentos, por no haberse formalizado, deberá presentar copia del fallo correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Si el escrito de solicitud de conciliación no reúne los requisitos indicados, la autoridad que conozca del asunto deberá prevenir al promovente, por escrito y por una sola vez, para que subsane la omisión dentro del término que no podrá ser menor de cinco días hábiles contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Respecto a la contestación de la solicitud de conciliación, la misma deberá contener los mismos elementos establecidos para la solicitud de conciliación, fijados en el presente artículo, con excepción de las fracciones IV y VIII.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2023)</small>
+
+Las notificaciones relativas al procedimiento de conciliación se practicarán de acuerdo con lo previsto por el artículo 117 de la Ley y los artículos correlativos del Reglamento.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2018)</small>
 
@@ -2040,3 +3110,39 @@ P.O. 7 DE NOVIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0484/2022 I P.O."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado reformará el Reglamento vigente en un plazo no mayor a ciento ochenta días naturales, contados a partir del día siguiente en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los entes públicos contarán con un plazo de ciento veinte días naturales contados a partir del día siguiente en que entre en vigor el presente Decreto para realizar o promover las acciones y adecuaciones necesarias que permitan la correcta aplicación de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos de contratación y demás asuntos o expedientes que se encuentren en trámite o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+###### ARTÍCULO QUINTO.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren vigentes al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este Decreto, se seguirán aplicando en todo lo que no se opongan a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las funcionalidades del Sistema de Contrataciones Públicas del Estado que no se encuentren disponibles para el uso de los entes públicos y del público en general a la entrada en vigor del presente decreto, entrarán en funcionamiento una vez que se desarrollen conforme a la disponibilidad presupuestal técnica y presupuestal, mediante aviso publicado por la Secretaría de la Función Pública en el Periódico Oficial del Estado y en el propio Sistema.
+
+###### ARTÍCULO OCTAVO.
+
+En los entes públicos que por razones técnicas no cuenten con usuarios en el Sistema de Contrataciones Públicas, la publicación en el Periódico Oficial del Estado será la que dará inicio al procedimiento de licitación.
