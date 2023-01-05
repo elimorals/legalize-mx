@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-conducta-para-las-y-los-servidores-publicos-de-la-147
 country: "mx"
 rank: "codigo"
 publication_date: "2020-08-10"
-last_updated: "2020-08-10"
+last_updated: "2023-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=147965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE ECOLOGÍA Y GESTIÓN AMBIENTAL DEL ESTADO, PUBLICADO EN EL P.O. DE 5 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE ECOLOGÍA Y GESTIÓN AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 10 de agosto del 2020.
 
@@ -420,3 +422,17 @@ SECRETARIA DE ECOLOGÍA Y GESTIÓN AMBIENTAL EN EL ESTADO DE SAN LUIS POTOSI
 YVETT SALAZAR TORRES
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA”.]
+
+PRIMERO. El presente Acuerdo por el que se emite el Código de Conducta para las y los Servidores Públicos de la Secretaría de Ecología y Gestión Ambiental, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Ecología y Gestión Ambiental, publicado en el Periódico Oficial del Gobierno del Estado “Plan de San Luis” en la edición extraordinaria del lunes 10 de agosto del 2020.
+
+TERCERO. Las denuncias en proceso de atención por parte del Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Ecología y Gestión Ambiental, presentadas con anterioridad a la entrada en vigor del presente Acuerdo, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. El Comité de Ética y de Prevención de Conflictos de Interés de la Secretaría de Ecología y Gestión Ambiental, deberá dar a conocer a todo personal adscrito a la Dependencia el presente Acuerdo.
