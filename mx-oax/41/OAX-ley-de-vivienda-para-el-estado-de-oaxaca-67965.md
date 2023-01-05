@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2021-09-18"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -95,7 +95,7 @@ III. Autoconstrucción de Vivienda: Proceso de construcción o edificación de l
 
 IV. Beneficiario: Persona que acredite el ahorro para incorporarlo a las diferentes modalidades de los Programas de Vivienda que resulte favorecido con una acción de vivienda;
 
-V. Comisión: La Comisión Estatal de Vivienda (C.E.V.I.);
+V. (DEROGADA, P.O. 5 DE ENERO DEL 2023)
 
 VI. Consejo: El Consejo Estatal de Vivienda;
 
@@ -175,11 +175,13 @@ Son autoridades para los efectos de esta Ley y demás disposiciones en materia d
 
 I. El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-II. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+II. La Secretaría de Infraestructuras y Comunicaciones;
 
-III. La Comisión Estatal de Vivienda; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+III . Vivienda Bienestar; y
 
 IV. Los Ayuntamientos del Estado.
 
@@ -209,19 +211,23 @@ IX. Proveer al cumplimiento de las disposiciones de esta Ley, expidiendo los reg
 
 X. Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y esta Ley.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 7.
 
-La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y la Comisión Estatal de Vivienda, en el ámbito de sus respectivas competencias, serán las responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado de Oaxaca.
+La Secretaría de Infraestructuras y Comunicaciones y Vivienda Bienestar, en el ámbito de sus respectivas competencias, serán las responsables de diseñar, proponer y coadyuvar a la integración, coordinación, análisis y ejecución de la política de vivienda y de los programas de vivienda del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 8.
 
-La Comisión Estatal de Vivienda es un organismo público descentralizado, de carácter técnico, normativo y consultivo, con personalidad jurídica y patrimonio propio, que se regula conforme a las disposiciones de esta Ley, su reglamento y demás disposiciones en materia de vivienda.
+Vivienda Bienestar es un organismo público descentralizado, de carácter técnico, normativo y consultivo, con personalidad jurídica y patrimonio propio, que se regula conforme a las disposiciones de esta Ley, su reglamento y demás disposiciones en materia de vivienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 9.
 
-La Comisión Estatal de Vivienda tiene por objeto ejercer las atribuciones que le corresponden al Gobernador del Estado, en materia de vivienda, incluyendo la administración, regulación, control y las siguientes:
+Vivienda Bienestar tiene por objeto ejercer las atribuciones que le corresponden al Gobernador del Estado, en materia de vivienda, incluyendo la administración, regulación, control y las siguientes:
 
 I. Promover y ejecutar en el Estado de Oaxaca, programas de vivienda popular, por sí o por conducto de terceros;
 
@@ -263,9 +269,11 @@ XIX. Establecer el Sistema Estatal de Información e Indicadores de Vivienda, co
 
 XX. Las demás que contribuyan al cumplimiento de los fines de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 10.
 
-La Comisión estará integrada por los siguientes órganos:
+Vivienda Bienestar estará integrada por los siguientes órganos:
 
 I. Un Consejo de Administración; y
 
@@ -273,17 +281,19 @@ II. Un Director General.
 
 > <small>[N. DE E. DEL ANÁLISIS A LA REFORMA PUBLICADA EN EL P.O. DE 29 DE FEBRERO DE 2016 SE ADVIERTE LA REESTRUCTURA AL CONTENIDO DE LAS FRACCIONES, ASÍ COMO DEL ÚLTIMO PÁRRAFO QUE ACTUALMENTE FORMA PARTE DEL ARTÍCULO 11 BIS.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 11.
 
-El Consejo de Administración es la máxima autoridad de la Comisión y estará integrada por:
+El Consejo de Administración es la máxima autoridad de Vivienda Bienestar y estará integrada por:
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 I. Un Presidente, que será el Titular de la Secretaría coordinadora del Sector;
 
-II. Un Secretario Técnico, que será el Director General de la Comisión Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+II. Un Secretario Técnico, que será el Director General de Vivienda Bienestar;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -293,17 +303,21 @@ a). El Secretario de Administración;
 
 b). El Secretario de Finanzas;
 
-c). El Secretario de Turismo y Desarrollo Económico;
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
-d). El Secretario de Desarrollo Social y Humano;
+c) El Secretario de Turismo;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+d) El Secretario de Bienestar, Tequio e Inclusión;
 
 e). El Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, y
 
 f). Las demás que determine el Consejo de Administración.
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-IV. Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental.
+IV. Un Comisario que será el Secretario de Honestidad, Transparencia y Función Pública.
 
 > <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -313,29 +327,49 @@ Cada integrante propietario, designará a su respectivo suplente mediante oficio
 
 Los suplentes tendrán las mismas facultades que los titulares propietarios.
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 11 Bis.
 
-El Consejo de Administración programará y aprobará las operaciones y trabajos de la Comisión Estatal de Vivienda con las facultades más amplias de gestión y podrá realizar todos los actos que fueren necesarios, dada su naturaleza.
+El Consejo de Administración programará y aprobará las operaciones y trabajos de Vivienda Bienestar con las facultades más amplias de gestión y podrá realizar todos los actos que fueren necesarios, dada su naturaleza.
+
+> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
 El Consejo de Administración tendrá las siguientes atribuciones, de manera enunciativa, más no limitativa:
 
-I. Aprobar el Reglamento Interno de la Comisión Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+I. Aprobar el Reglamento Interno de Vivienda Bienestar;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 II. Aprobar los Presupuestos Anuales para su remisión al Ejecutivo del Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
 III. Aprobar la Inversión y reinversión de fondos;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 IV. Aprobar los planes para la creación de sus organismos auxiliares en todo el Estado;
 
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
+
 V. Autorizar los programas, estados financieros e informes del Director General;
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 VI. Conocer y resolver los asuntos que se sometan a su consideración por el Director General;
 
-VII. Ordenar auditorías a la Comisión Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-VIII. Autorizar los nombramientos, sueldos, salarios y demás prestaciones que deban cubrirse al personal técnico y administrativo de la Comisión Estatal de Vivienda, observando para ello los lineamientos emitidos por la autoridad competente, y
+VII. Ordenar auditorías a Vivienda Bienestar;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+VIII. Autorizar los nombramientos, sueldos, salarios y demás prestaciones que deban cubrirse al personal técnico y administrativo de Vivienda Bienestar, observando para ello los lineamientos emitidos por la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 IX. Las demás que señalen esta Ley, su Reglamento y disposiciones normativas aplicables.
 
@@ -347,9 +381,13 @@ El Director General será nombrado y removido libremente por el Titular del Pode
 
 a) Ejecutar los acuerdos del Consejo;
 
-b) Ser el representante de la Comisión con facultades amplísimas que corresponden a los mandatarios generales para pleitos y cobranzas; para actos de administración y dominio y las especiales que requieran clausula especial conforme a la ley, para formular querellas en los casos de delitos que solo se puedan seguir a petición de la parte ofendida para otorgar perdón que extinga la acción penal; dichas facultades las podrá delegar a sus subalternos o a terceros previa autorización del Consejo de Administración de la Comisión;
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
-c) Nombrar y remover al personal de la Comisión;
+b) Ser el representante de Vivienda Bienestar con facultades amplísimas que corresponden a los mandatarios generales para pleitos y cobranzas; para actos de administración y dominio y las especiales que requieran clausula especial conforme a la ley, para formular querellas en los casos de delitos que solo se puedan seguir a petición de la parte ofendida para otorgar perdón que extinga la acción penal; dichas facultades las podrá delegar a sus subalternos o a terceros previa autorización del Consejo de Administración de Vivienda Bienestar;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+c) Nombrar y remover al personal de Vivienda Bienestar;
 
 d) Proveer a la tramitación y despacho de los asuntos técnicos y administrativos;
 
@@ -361,13 +399,17 @@ g) Delegar Poderes Generales y Especiales en los términos que establece la Ley 
 
 h) Las demás que determine esta Ley, su Reglamento, la Ley de Entidades Paraestatales del Estado de Oaxaca y las que le asigne el Consejo.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 13.
 
-El Patrimonio presupuestario de la Comisión estará constituido por los recursos financieros que al efecto autorice el Presupuesto de Egresos del Estado, aportaciones y asignaciones federales, donaciones de particulares o instituciones públicas, así como los bienes muebles e inmuebles que adquiere o reciba por cualquier tipo.
+El Patrimonio presupuestario de Vivienda Bienestar estará constituido por los recursos financieros que al efecto autorice el Presupuesto de Egresos del Estado, aportaciones y asignaciones federales, donaciones de particulares o instituciones públicas, así como los bienes muebles e inmuebles que adquiere o reciba por cualquier tipo.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 14.
 
-Para el despacho de los asuntos de su competencia la Comisión Estatal de Vivienda estará a cargo de un Director General, Sub-Director, Directores de Áreas, Jefes de Unidad, Jefes de Departamento y demás unidades administrativas necesarias con las facultades que determine su Reglamento Interior.
+Para el despacho de los asuntos de su competencia Vivienda Bienestar estará a cargo de un Director General, Sub Director, Directores de Áreas, Jefes de Unidad, Jefes de Departamento y demás unidades administrativas necesarias con las facultades que determine su Reglamento Interior.
 
 ###### Artículo 15.
 
@@ -395,19 +437,25 @@ VII. Coordinar acciones en materia de suelo y vivienda con otros municipios; par
 
 VIII. Las demás previstas en esta Ley.
 
-Para tal efecto, los Ayuntamientos podrán coordinarse con la Comisión.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+Para tal efecto, los Ayuntamientos podrán coordinarse con Vivienda Bienestar.
 
 ### CAPÍTULO II. DE LOS ORGANISMOS AUXILIARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 16.
 
-El Consejo Consultivo de Vivienda para el Estado de Oaxaca es el órgano colegiado asesor y de consulta, auxiliar de la Comisión Estatal de Vivienda que tiene por objetivo el estudio y discusión de los asuntos en materia de vivienda en la Entidad, así como la generación de propuestas de acciones y programas que conduzcan al desarrollo de la construcción, promoción y oferta de la vivienda en el Estado.
+El Consejo Consultivo de Vivienda para el Estado de Oaxaca es el órgano colegiado asesor y de consulta, auxiliar de Vivienda Bienestar que tiene por objetivo el estudio y discusión de los asuntos en materia de vivienda en la Entidad, así como la generación de propuestas de acciones y programas que conduzcan al desarrollo de la construcción, promoción y oferta de la vivienda en el Estado.
 
 El Consejo Consultivo de Vivienda del Estado estará integrado de la siguiente manera:
 
 I. Presidente, que será el Gobernador Constitucional del Estado;
 
-II. Un Coordinador de Política de Vivienda que será el Director General de la Comisión Estatal de Vivienda y Secretario Técnico en las sesiones del mismo.
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+II. Un Coordinador de Política de Vivienda que será el Director General de Vivienda Bienestar y Secretario Técnico en las sesiones del mismo.
 
 Por los siguientes vocales
 
@@ -417,35 +465,47 @@ Por los siguientes vocales
 
 I. Un representante del Poder Legislativo del Estado, designado por el Pleno de la Legislatura, entre los integrantes de la Comisión Permanente de Infraestructuras, Desarrollo Urbano y Ordenamiento Territorial;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+II. El Secretario de Gobierno;
 
 III. El Secretario de Administración;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-IV. El Secretario de las Infraestructuras y del Ordenamiento Territorial Sustentable;
+IV. El Secretario de Infraestructuras y Comunicaciones;
 
 V. El Secretario de Finanzas;
 
-VI. El Secretario de Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-VII. El Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+VI. El Secretario de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas;
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-VIII. El Director General del Instituto de la Función Registral del Estado de Oaxaca;
+VII. El Director General del Instituto de Planeación para el Bienestar;
 
-IX. El Director General de Catastro;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-X. El Director General del Instituto Estatal de Ecología;
+VIII. El Director General del Instituto· de la Función Registral;
 
-XI. El Director General de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+IX. EL Director General del Instituto Catastral del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+X. El Secretario de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+XI. El Director General de la Comisión Estatal del Agua para el Bienestar;
 
 XII. El Consejero Jurídico del Gobierno del Estado;
 
 XIII. El Director General de Población de Oaxaca; y
 
-XIV. El Director General de la Comisión para la Regularización de la Tenencia de la Tierra Urbana de Oaxaca.
+XIV. (DEROGADA, P.O. 5 DE ENERO DEL 2023)
 
 2. Podrán incorporarse a invitación expresa, con derecho a voz y voto, los siguientes representantes del Gobierno Federal:
 
@@ -463,7 +523,7 @@ VI. El Delegado del Registro Agrario Nacional;
 
 VII. El Delegado de la Secretaría de la Reforma Agraria; y
 
-VIII. El Delegado Estatal de la Comisión para la Regulación de la Tenencia de la Tierra.
+VIII. (DEROGADA, P.O. 5 DE ENERO DEL 2023)
 
 3. Por la sociedad civil, a invitación expresa, con derecho a voz pero sin voto:
 
@@ -485,7 +545,9 @@ Los integrantes del Consejo Consultivo desempeñarán su cargo de manera honorí
 
 El Consejo Consultivo no ejerce facultades ejecutivas y tiene las siguientes atribuciones:
 
-I. Proponer a la Comisión mecanismos de inversión para la adquisición y urbanización de reservas territoriales que incentiven la oferta de vivienda y propicien un crecimiento urbano ordenado;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+I. Proponer a la Vivienda Bienestar mecanismos de inversión para la adquisición y urbanización de reservas territoriales que incentiven la oferta de vivienda y propicien un crecimiento urbano ordenado;
 
 II. Proponer la creación de esquemas de financiamiento y proponer nuevas alternativas crediticias para la adquisición y mejoramiento de vivienda;
 
@@ -579,15 +641,19 @@ III. El Plan Municipal de Desarrollo.
 
 Los programas en materia de vivienda se formularán con el objeto de articular el desarrollo ordenado de los programas, las acciones y la producción habitacional en el Estado, a través de los sectores público, privado y social.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 21.
 
-La Comisión Estatal de Vivienda concentrará la información necesaria de las demás entidades de la administración pública estatal que lleven a cabo acciones de vivienda o que correspondan a la coordinación con la federación o los municipios y formulará el Programa Especial de Vivienda.
+Vivienda Bienestar concentrará la información necesaria de las demás entidades de la administración pública estatal que lleven a cabo acciones de vivienda o que correspondan a la coordinación con la federación o los municipios y formulará el Programa Especial de Vivienda.
 
-La Comisión Estatal de Vivienda remitirá a la Secretaría de Finanzas, en todos los casos, el Programa Especial de Vivienda para que sea considerado en el proceso de presupuestación.
+Vivienda Bienestar remitirá a la Secretaría de Finanzas, en todos los casos, el Programa Especial de Vivienda para que sea considerado en el proceso de presupuestación.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 22.
 
-El Ejecutivo Estatal, a través de la Comisión Estatal de Vivienda, enviará al inicio de cada año el Programa Especial de Vivienda al Congreso local para su conocimiento.
+El Ejecutivo Estatal, a través de Vivienda Bienestar, enviará al inicio de cada año el Programa Especial de Vivienda al Congreso local para su conocimiento.
 
 ###### Artículo 23.
 
@@ -609,9 +675,11 @@ IV. Las prioridades derivadas del diagnóstico situacional y los ajustes derivad
 
 En la formulación de los Presupuestos Anuales de Egresos, el Estado y los Municipios considerarán las visiones de mediano y largo plazo, necesarias para garantizar la viabilidad, continuidad y complementariedad de la política, los programas y acciones en materia de vivienda en la Entidad.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 25.
 
-El Gobierno del Estado, a través de la Secretaria de Finanzas considerará las previsiones presupuestarias que correspondan para atender la formulación, evaluación y ejecución de los programas de acciones de vivienda que ayuden al cumplimiento de sus políticas sociales en este rubro, conforme al Plan Estatal de Desarrollo, en coordinación con el Programa Especial de Vivienda, así como otros programas y acciones que concurran, las cuales serán ejecutadas a través de la Comisión Estatal de Vivienda.
+El Gobierno del Estado, a través de la Secretaria de Finanzas considerará las previsiones presupuestarias que correspondan para atender la formulación, evaluación y ejecución de los programas de acciones de vivienda que ayuden al cumplimiento de sus políticas sociales en este rubro, conforme al Plan Estatal de Desarrollo, en coordinación con el Programa Especial de Vivienda, así como otros programas y acciones que concurran, las cuales serán ejecutadas a través de Vivienda Bienestar.
 
 ###### Artículo 26.
 
@@ -637,7 +705,9 @@ El Programa Especial de Vivienda se ejecutará de acuerdo a las siguientes modal
 
 I. Crédito o préstamo con garantía hipotecaria, otorgado por instituciones financieras legalmente establecidas;
 
-II. Inversión directa del Estado, cuya aplicación se hará a través de la Comisión Estatal de Vivienda;
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+II. Inversión directa del Estado, cuya aplicación se hará a través de Vivienda Bienestar;
 
 III. Inversión de otros organismos públicos locales o federales de vivienda, que operen en el Estado;
 
@@ -645,9 +715,11 @@ IV. Inversión mixta del Estado y de aportaciones del sector privado y otras fue
 
 V. Ahorro individual o colectivo de los beneficiarios, conforme a las disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 29.
 
-Los recursos presupuestarios de la Comisión Estatal de Vivienda, a efecto de cumplir con su objeto, se destinarán a realizar las siguientes acciones:
+Los recursos presupuestarios de Vivienda Bienestar, a efecto de cumplir con su objeto, se destinarán a realizar las siguientes acciones:
 
 I. Promoción, estudios y proyectos relacionados con planeación, diseño, construcción, infraestructura y equipamiento para la vivienda;
 
@@ -693,9 +765,11 @@ Las acciones anteriores se realizarán en estricto apego a las capacidades presu
 
 ### CAPÍTULO IV. DEL CREDITO Y BENEFICIARIOS
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 30.
 
-La Comisión Estatal de Vivienda impulsará la constitución de fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, con el fin de promover el ahorro productivo de los beneficiarios y de que éstos puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
+Vivienda Bienestar impulsará la constitución de fondos de ahorro e inversión, de administración, de garantía y de rescate para la vivienda, creados con activos seguros, rentables y de fácil liquidación, con las primas que deben pagar los beneficiarios, con el fin de promover el ahorro productivo de los beneficiarios y de que éstos puedan cubrir sus créditos en los términos y los porcentajes establecidos en sus contratos.
 
 ###### Artículo 31.
 
@@ -711,15 +785,21 @@ Se fomentarán programas que combinen ahorro con crédito, subsidio o ambos, seg
 
 Los créditos de vivienda sólo podrán otorgarse en proporción a la capacidad de pago del beneficiario, con la finalidad de garantizar la reutilización del recurso en el otorgamiento de otros créditos y la continuidad del programa.
 
-El monto total por concepto de servicio de amortizaciones e intereses y de créditos para vivienda otorgados por la Comisión Estatal de Vivienda en ningún caso deberá superar el 20% de los ingresos nominales mensuales de la familia beneficiaria.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+El monto total por concepto de servicio de amortizaciones e intereses y de créditos para vivienda otorgados por Vivienda Bienestar en ningún caso deberá superar el 20% de los ingresos nominales mensuales de la familia beneficiaria.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 34.
 
-La Comisión Estatal de Vivienda desarrollará y fomentará instrumentos de seguro y garantía para impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el destinado a la población en situación de marginación, pobreza y vulnerabilidad.
+Vivienda Bienestar desarrollará y fomentará instrumentos de seguro y garantía para impulsar el acceso al crédito público y privado a todos los sectores de la población, preferentemente el destinado a la población en situación de marginación, pobreza y vulnerabilidad.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 35.
 
-La Comisión Estatal de Vivienda podrá gestionar subsidios como complemento para combinar la aportación estatal con otras formas de financiamientos en acciones de vivienda o en casos especiales de extrema pobreza de los beneficiarios; lo anterior, deberá establecerse y justificarse en los Programas Especiales y Operativo.
+Vivienda Bienestar podrá gestionar subsidios como complemento para combinar la aportación estatal con otras formas de financiamientos en acciones de vivienda o en casos especiales de extrema pobreza de los beneficiarios; lo anterior, deberá establecerse y justificarse en los Programas Especiales y Operativo.
 
 ###### Artículo 36.
 
@@ -733,27 +813,33 @@ III. Los propietarios de vivienda solo podrán solicitar crédito para las accio
 
 IV. Presentar declaración bajo protesta, en la que manifieste que habitará la vivienda; y
 
-V. Comprobar sus ingresos de conformidad con las reglas de operación emitidas por la Comisión.
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
 
-La Comisión Estatal de Vivienda podrá verificar la autenticidad de los datos manifestados en cualquier tiempo e imponer las sanciones que procedan.
+V. Comprobar sus ingresos de conformidad con las reglas de operación emitidas (sic) Vivienda Bienestar.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+Vivienda Bienestar podrá verificar la autenticidad de los datos manifestados en cualquier tiempo e imponer las sanciones que procedan.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 37.
 
-La Comisión Estatal de Vivienda emitirá los lineamientos generales para la adquisición o modificación de las viviendas.
+Vivienda Bienestar emitirá los lineamientos generales para la adquisición o modificación de las viviendas.
 
 ### CAPÍTULO V. DE LOS ESTIMULOS A LA VIVIENDA
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 38.
 
-El Estado y los Municipios en el marco de sus respectivas competencias, a través de sus dependencias y organismos, procurarán establecer beneficios, estímulos, facilidades administrativas y fiscales que reduzcan los costos finales de vivienda.
+El Estado y los Municipios en el marco de sus respectivas competencias, a través de sus dependencias y organismos, procurarán establecer beneficios, estímulos, facilidades administrativas y fiscales que reduzcan los costos finales de vivienda. El Ejecutivo del Estado y los Ayuntamientos, de conformidad con sus atribuciones podrán emitir acuerdos administrativos y/o fiscales que consideren pertinentes para la promoción de la vivienda. Vivienda Bienestar gestionará ante las autoridades competentes del Estado y/o Municipios el otorgamiento de estímulos fiscales que fomenten la inversión en materia de vivienda y/o regulación de la tierra, con el propósito de disminuir el costo de la vivienda.
 
-El Ejecutivo del Estado y los Ayuntamientos, de conformidad con sus atribuciones podrán emitir acuerdos administrativos y/o fiscales que consideren pertinentes para la promoción de la vivienda.
-
-La Comisión Estatal de Vivienda gestionará ante las autoridades competentes del Estado y/o Municipios el otorgamiento de estímulos fiscales que fomenten la inversión en materia de vivienda y/o regulación de la tierra, con el propósito de disminuir el costo de la vivienda.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 39.
 
-Los programas de construcción de viviendas por el sector privado podrán gozar de los beneficios, exenciones y aplicación de subsidios y facilidades administrativas que emita el Ejecutivo del Estado o los Ayuntamientos, siempre y cuando estén previamente registrados y calificados por la Comisión Estatal de Vivienda, como una acción de vivienda contemplada en el contexto de los programas de vivienda y cumplan con los lineamientos que emita la Comisión de Vivienda.
+Los programas de construcción de viviendas por el sector privado podrán gozar de los beneficios, exenciones y aplicación de subsidios y facilidades administrativas que emita el Ejecutivo del Estado o los Ayuntamientos, siempre y cuando estén previamente registrados y calificados por Vivienda Bienestar, como una acción de vivienda contemplada en el contexto de los programas de vivienda y cumplan con los lineamientos que emita Vivienda Bienestar.
 
 ## TÍTULO CUARTO. DEL SUELO PARA VIVIENDA
 
@@ -773,15 +859,19 @@ II. Fomentar esquemas y programas que contemplen recursos provenientes de crédi
 
 III. Proteger, restaurar y aprovechar en forma sustentable los recursos naturales para favorecer los usos del suelo con el menor impacto ambiental posible evitando la destrucción masiva de los elementos naturales de los terrenos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 42.
 
-La Comisión Estatal de Vivienda de acuerdo con lo previsto en esta Ley, realizará estudios que determinen los requerimientos de tierra suelo urbano para vivienda, a efecto de desarrollar y operar un Programa de Reservas Territoriales.
+Vivienda Bienestar de acuerdo con lo previsto en esta Ley, realizará estudios que determinen los requerimientos de tierra suelo urbano para vivienda, a efecto de desarrollar y operar un Programa de Reservas Territoriales.
 
 Estos estudios tomarán en cuenta las necesidades presentes y futuras y conforme a estas previsiones, se harán los programas de adquisición específicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 43.
 
-La Comisión Estatal de Vivienda podrá adquirir predios para destinarse a programas de vivienda bajo las siguientes condiciones:
+Vivienda Bienestar podrá adquirir predios para destinarse a programas de vivienda bajo las siguientes condiciones:
 
 I. Respetar planes y disposiciones locales que regulan el uso del suelo;
 
@@ -789,19 +879,25 @@ II. Evaluar la disponibilidad de infraestructura, equipamiento y servicios públ
 
 III. Instrumentar un plan maestro de crecimiento urbano sobre los predios que se adquieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 44.
 
-La Comisión Estatal de Vivienda podrá enajenar áreas o predios de su dominio, observando en todos los casos:
+Vivienda Bienestar podrá enajenar áreas o predios de su dominio, observando en todos los casos:
 
 I. Que el aprovechamiento de los inmuebles sea congruente con el Plan Estatal de Desarrollo y con la normatividad aplicable; y
 
 II. Que se cuente con un programa técnico y financiero en el que se definan las necesidades de vivienda, la aplicación de los recursos y las condiciones de beneficio social.
 
-La citada Comisión establecerá las disposiciones reglamentarias por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes de su dominio, con el objeto de normar técnica, financiera y socialmente su aprovechamiento.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
+Vivienda Bienestar establecerá las disposiciones reglamentarias por medio de las cuales se fijarán los mecanismos de información, calificación y clasificación de los bienes de su dominio, con el objeto de normar técnica, financiera y socialmente su aprovechamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 45.
 
-El Ejecutivo del Estado, a través de la Comisión Estatal de Vivienda, en coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, instrumentará planes maestros de crecimiento en los predios que adquieran, que contengan los alcances para su efectiva contribución al mercado local de vivienda, que entre otros señalen:
+El Ejecutivo del Estado, a través de Vivienda Bienestar, en coordinación con el Gobierno Federal y los Municipios, así como la participación de propietarios y desarrolladores, instrumentará planes maestros de crecimiento en los predios que adquieran, que contengan los alcances para su efectiva contribución al mercado local de vivienda, que entre otros señalen:
 
 I. Delimitación de superficie y polígonos del plan tanto en la fase de instrumentación como la de operación;
 
@@ -869,9 +965,11 @@ El Estado y los Municipios promoverán el uso de materiales y productos que cont
 
 ### CAPÍTULO II. DE LAS NORMAS BÁSICAS DE VIVIENDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 51.
 
-Las acciones para la producción y el mejoramiento de vivienda, que lleven a cabo el Estado a través de la Comisión Estatal de Vivienda y los Municipios, se sujetarán a los lineamientos de diseño, tecnología de la construcción, uso y aprovechamiento que establece este Capítulo, con apego a las normas.
+Las acciones para la producción y el mejoramiento de vivienda, que lleven a cabo el Estado a través de Vivienda Bienestar y los Municipios, se sujetarán a los lineamientos de diseño, tecnología de la construcción, uso y aprovechamiento que establece este Capítulo, con apego a las normas.
 
 Las acciones habitacionales que se realicen en el Estado y los municipios, deberán ser congruentes con las necesidades de cada centro de población y con los planes y programas que regulen el uso y el aprovechamiento del suelo, a fin de garantizar un desarrollo urbano ordenado.
 
@@ -905,11 +1003,11 @@ XI. Los que tengan posibilidad o peligro de inestabilidad o deslizamiento del su
 
 XII. Los ubicados en las laderas de un volcán.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DEL 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 53.
 
-Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Oaxaca y sus Municipios, deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y demás disposiciones aplicables.
+Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Oaxaca y sus Municipios, deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca Vivienda Bienestar, a fin de considerar los impactos de las mismas, de conformidad con lo establecido en la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y demás disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -933,13 +1031,17 @@ Artículo. 56. Para autorizar la construcción de vivienda que implique la lotif
 
 ### CAPÍTULO ÚNICO. DE LA PRODUCCIÓN SOCIAL
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 57.
 
-La Comisión Estatal de Vivienda y los Municipios facilitarán y promoverán el desarrollo y la consolidación de la producción social de vivienda y propiciarán la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen la producción social de vivienda.
+Vivienda Bienestar y los Municipios facilitarán y promoverán el desarrollo y la consolidación de la producción social de vivienda y propiciarán la concertación de acciones y programas entre los sectores público, social y privado, particularmente los que apoyen la producción social de vivienda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
 
 ###### Artículo 58.
 
-La Comisión Estatal de Vivienda promoverá la asistencia técnica, a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
+Vivienda Bienestar promoverá la asistencia técnica, a los productores sociales de vivienda, la cual se podrá proporcionar a través de:
 
 I. Organizaciones sociales;
 
@@ -949,7 +1051,9 @@ III. Instituciones académicas, científicas o tecnológicas;
 
 IV. Colegios, asociaciones o gremios profesionales; y
 
-V. Dependencias y organismos del sector público, en particular la propia Comisión.
+> <small>(REFORMADA, P.O. 5 DE ENERO DEL 2023)</small>
+
+V. Dependencias y organismos del sector público, en particular la propia Vivienda Bienestar.
 
 ###### Artículo 59.
 
@@ -985,9 +1089,11 @@ El Estado y los Municipios fomentarán en programas y proyectos de producción s
 
 Como apoyo al desarrollo de la producción social de vivienda, deberá fomentarse la realización de convenios de capacitación, investigación y desarrollo tecnológico con universidades, organismos no gubernamentales y consultores especializados, entre otros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 63.
 
-La Comisión Estatal de Vivienda promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
+Vivienda Bienestar promoverá la celebración de acuerdos y convenios con productores de materiales básicos para la construcción de vivienda a precios preferenciales para:
 
 I. Atender a programas de vivienda emergente para la atención a damnificados por desastres;
 
@@ -1003,9 +1109,11 @@ V. Orientar y apoyar en la obtención de licencias y permisos de construcción n
 
 ### CAPÍTULO PRIMERO. DE LA COORDINACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 64.
 
-La coordinación con los Gobiernos Federal, Estatal y Municipales, así como la concertación con los sectores social y privado en materia de vivienda en el Estado, estará a cargo de la Comisión y tendrá por objeto:
+La coordinación con los Gobiernos Federal, Estatal y Municipales, así como la concertación con los sectores social y privado en materia de vivienda en el Estado, estará a cargo de Vivienda Bienestar y tendrá por objeto:
 
 I. Cumplir los objetivos, prioridades y estrategias de las políticas estatales de vivienda;
 
@@ -1017,9 +1125,11 @@ IV. Los demás que acuerden las partes para el cumplimiento de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LA CONCERTACIÓN
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 65.
 
-La Comisión tendrá a su cargo en materia de vivienda la concertación con los sectores social y privado; y dictará las normas para ejecución de obras, requisitos y trámites, registro de promotores y entrega de fianzas y garantías, dependiendo del alcance de obra, en observancia de las disposiciones vigentes.
+Vivienda Bienestar tendrá a su cargo en materia de vivienda la concertación con los sectores social y privado; y dictará las normas para ejecución de obras, requisitos y trámites, registro de promotores y entrega de fianzas y garantías, dependiendo del alcance de obra, en observancia de las disposiciones vigentes.
 
 ###### Artículo 66.
 
@@ -1059,9 +1169,11 @@ XII. Las demás acciones que acuerden las partes para el cumplimiento de esta Le
 
 Se crea el Sistema Estatal de Información e Indicadores de Vivienda que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el Estado.
 
-###### ARTÍCULO 68.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
-La Comisión Estatal de Vivienda integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica y el Sistema Nacional de Indicadores, así como a la Ley de Transparencia y Acceso a la Información Publica del Estado de Oaxaca.
+###### Artículo 68.
+
+Vivienda Bienestar integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará, en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica y el Sistema Nacional de Indicadores, así como a la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
 
 Se integrará con la información que proporcionen las dependencias y entidades de la Administración Pública Federal, Estatal o Municipal en aspectos vinculados con la vivienda y el suelo.
 
@@ -1071,23 +1183,29 @@ El Sistema Estatal de Información e Indicadores de Vivienda contendrá los elem
 
 También contendrá los índices de costo de vivienda para monitorear la oferta y demanda de vivienda en el Estado, procesos de valuación de terrenos y propiedades basados en datos de mercado.
 
-###### ARTÍCULO 70.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
-La Comisión Estatal de Vivienda diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
+###### Artículo 70.
 
-###### ARTÍCULO 71.
+Vivienda Bienestar diseñará y promoverá mecanismos e instrumentos de acceso a la información que generen las instituciones públicas y privadas en materia de financiamiento para la vivienda, con el fin de que la población conozca las opciones que existen en materia habitacional.
 
-La Comisión Estatal de Vivienda promoverá la celebración de acuerdos y convenios con las entidades de la administración pública federal, los municipios y las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, para que proporcionen la información correspondiente.
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
-La Comisión Estatal de Vivienda propondrá a la Comisión Nacional de Vivienda que integra y administra el Sistema Nacional de Información los indicadores que en materia de vivienda deba considerar el Instituto Nacional de Estadística, Geografía e Informática en el levantamiento de los censos nacionales, encuestas de vivienda, económicas, socio demográficas y otros conteos, para que dicha Comisión Nacional lo proponga al Instituto Nacional de Estadística, Geografía e Informática.
+###### Artículo 71.
+
+Vivienda Bienestar promoverá la celebración de acuerdos y convenios con las entidades de la administración pública federal, los municipios y las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, para que proporcionen la información correspondiente.
+
+Vivienda Bienestar propondrá a la Comisión Nacional de Vivienda que integra y administra el Sistema Nacional de Información los indicadores que en materia de vivienda deba considerar el Instituto Nacional de Estadística, Geografía e Informática en el levantamiento de los censos nacionales, encuestas de vivienda, económicas, socio demográficas y otros conteos, para que dicha Comisión Nacional lo proponga al Instituto Nacional de Estadística, Geografía e Informática.
 
 ## TÍTULO NOVENO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES Y MEDIOS DE IMPUGNACIÓN
 
 ### CAPÍTULO ÚNICO. DE LAS ACCIONES
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 72.
 
-El Estado a través de la Comisión Estatal de Vivienda y los Municipios a través de las autoridades competentes, impondrán las medidas de seguridad y sanciones administrativas por infracciones a esta Ley, sus reglamentos y programas de vivienda vigentes.
+El Estado a través de Vivienda Bienestar y los Municipios a través de las autoridades competentes, impondrán las medidas de seguridad y sanciones administrativas por infracciones a esta Ley, sus reglamentos y programas de vivienda vigentes.
 
 ###### Artículo 73.
 
@@ -1097,17 +1215,21 @@ No surtirá ninguna consecuencia jurídica la celebración de un contrato de adq
 
 Al que promueva la adquisición de vivienda o lotes de los que rigen esta Ley, transgrediendo ésta, se le impondrá como sanción la cancelación del crédito y/o recuperación del inmueble, según corresponda, sin prejuicio de la determinación de responsabilidades respectivas, civiles y penales a que haya lugar.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 75.
 
-El otorgamiento de un crédito para la adquisición de vivienda o de lote de terreno, de los que regulan la presente Ley, no surte efecto de transmisión de la propiedad de los mismos, si el crédito está insoluto y no lo autoriza previamente la Comisión Estatal de Vivienda o los Municipios, según sea el caso; o cuando se de oportunidad a éstos de ejercer el derecho de tanto, o se realice a favor de quien no reúne los requisitos y condiciones establecidos por la dependencia o entidad promotora, para ser beneficiario.
+El otorgamiento de un crédito para la adquisición de vivienda o de lote de terreno, de los que regulan la presente Ley, no surte efecto de transmisión de la propiedad de los mismos, si el crédito está insoluto y no lo autoriza previamente Vivienda Bienestar o los Municipios, según sea el caso; o cuando se dé oportunidad a éstos de ejercer el derecho de tanto, o se realice a favor de quien no reúne los requisitos y condiciones establecidos por la dependencia o entidad promotora, para ser beneficiario.
 
 ###### Artículo 76.
 
 Los Notarios y demás fedatarios públicos que intervengan en estas operaciones, transgrediendo las disposiciones de este Capítulo, se harán acreedores a las sanciones que la Ley del Notariado y otros ordenamientos establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DEL 2023)</small>
+
 ###### Artículo 77.
 
-Son causas de recuperación de viviendas a favor de la Comisión Estatal de Vivienda y de los Municipios según corresponda, lo que deberá quedar estipulado en el contrato correspondiente, las siguientes:
+Son causas de recuperación de viviendas a favor de Vivienda Bienestar y de los Municipios según corresponda, lo que deberá quedar estipulado en el contrato correspondiente, las siguientes:
 
 I. El incumplimiento de las cláusulas del contrato;
 
@@ -1254,3 +1376,27 @@ P.O. 18 DE SEPTIEMBRE DE 2021.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos (sic).
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
