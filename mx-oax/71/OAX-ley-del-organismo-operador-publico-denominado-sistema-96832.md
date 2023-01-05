@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-organismo-operador-publico-denominado-sistema-96832"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2022-10-15"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA -ANTES- LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ENERO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -37,33 +39,43 @@ LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE
 
 D E C R E T A:
 
-LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2023)</small>
+
+LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Organismo Operador de la Administración Pública del Gobierno del Estado de Oaxaca, con personalidad jurídica, autonomía operativa y patrimonio propio, denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+Se crea el Organismo Operador de la Administración Pública del Gobierno del Estado de Oaxaca, con personalidad jurídica, autonomía operativa y patrimonio propio, denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
-El Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, estará sectorizado a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable.
+El Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, estará sectorizado a la Secretaría de Infraestructuras y Comunicaciones.
 
-La competencia territorial del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, será el Municipio de Oaxaca de Juárez, pudiendo ampliarla a aquellos municipios de las zonas metropolitanas que cuenten con la infraestructura necesaria que haga factible la prestación de los servicios, y que cuenten con los convenios debidamente suscritos entre el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca y el Municipio que lo solicite; igualmente, sobre de aquellos Municipios que no siendo Metropolitanos exista la factibilidad técnica y operativa, que les permita ofrecer servicios de agua potable, alcantarillado y tratamiento de aguas residuales sin que se invadan esferas jurídicas o atribuciones propias del Municipio; por lo que se deberán suscribir los convenios necesarios.
+La competencia territorial del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será el Municipio de Oaxaca de Juárez, pudiendo ampliarla a aquellos municipios de las zonas metropolitanas que cuenten con la infraestructura necesaria que haga factible la prestación de los servicios, y que cuenten con los convenios debidamente suscritos entre el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y el Municipio que lo solicite; igualmente, sobre de aquellos Municipios que no siendo Metropolitanos exista la factibilidad técnica y operativa, que les permita ofrecer servicios de agua potable, alcantarillado y tratamiento de aguas residuales sin que se invadan esferas jurídicas o atribuciones propias del Municipio; por lo que se deberán suscribir los convenios necesarios.
 
-El Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, estará ubicado en la ciudad de Oaxaca de Juárez, Oaxaca.
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, estará ubicado en la ciudad de Oaxaca de Juárez, Oaxaca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 2.
 
-El Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, tendrá por objeto:
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, tendrá por objeto:
 
-I. Prestar los servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, en los núcleos de población de su competencia territorial, y en donde técnica y operativamente sean viables para el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, previa firma de convenio;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Prestar los servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, en los núcleos de población de su competencia territorial, y en donde técnica y operativamente sean viables para el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, previa firma de convenio;
 
 II. Ejecutar, en el ámbito de su competencia territorial, toda clase de obras de infraestructura hidráulica, sanitaria, pluvial y servicios relacionados con recursos hídricos; adquisiciones y servicios vinculados con bienes muebles; necesarios para la prestación de los servicios públicos a que se refiere la fracción primera del presente artículo; ejerciendo recursos federales, estatales y/o municipales, que para tal fin tenga o le sean asignados; y
 
 III. Recaudar mediante los procedimientos legales de cobro lo que deba percibir por concepto de los servicios públicos que preste, así como los derechos, aprovechamientos y sus respectivos accesorios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 3.
 
-El Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, para el cumplimento de su objeto, tendrá las siguientes atribuciones:
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para el cumplimento de su objeto, tendrá las siguientes atribuciones:
 
 I. Planear, programar, presupuestar, estudiar, proyectar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar los sistemas de agua potable, alcantarillado y tratamiento de aguas residuales en los términos de las disposiciones legales y normativas de la materia que le sean aplicables;
 
@@ -75,15 +87,23 @@ IV. Emitir propuestas, sobre la determinación de tarifas para el cobro de agua 
 
 V. Utilizar los ingresos que se recauden, obtengan o reciban exclusivamente en los gastos inherentes a la prestación de los servicios públicos de agua potable y alcantarillado, incluyendo saneamiento, educación y cultura del agua y que en ningún caso podrán ser destinados a otro fin.
 
-VI. Para efectos de que el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, funcione deberá de contar con un presupuesto suficiente que será presentado ante la Secretaría de Finanzas en su programa operativo anual, el que será ministrado previo trámite a que alude la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-VII. Informar de manera trimestral ante la Secretaría de Finanzas, los estados financieros del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+VI. Para efectos de que el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, funcione deberá de contar con un presupuesto suficiente que será presentado ante la Secretaría de Finanzas en su programa operativo anual, el que será ministrado previo trámite a que alude la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+VII. Informar de manera trimestral ante la Secretaría de Finanzas, los estados financieros del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
 VIII. Ordenar y ejecutar la suspensión del servicio por falta de pago, y en los demás casos que señale el Reglamento de la presente Ley.
 
-IX. Elaborar manuales para el correcto funcionamiento del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, así como establecer los Módulos de atención al usuario necesarios dentro de su jurisdicción.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-X. Realizar por sí o por terceros conforme a las leyes de la materia, las obras para agua potable y alcantarillado de su jurisdicción, en caso de terceros siempre y cuando cumpla con la factibilidad otorgada por el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, incluyendo saneamiento, y recibir las que se construyan en la misma, así como dictaminar los proyectos de distribución de agua y supervisar la construcción de obras de agua potable y alcantarillado;
+IX. Elaborar manuales para el correcto funcionamiento del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como establecer los Módulos de atención al usuario necesarios dentro de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+X. Realizar por sí o por terceros conforme a las leyes de la materia, las obras para agua potable y alcantarillado de su jurisdicción, en caso de terceros siempre y cuando cumpla con la factibilidad otorgada por el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, incluyendo saneamiento, y recibir las que se construyan en la misma, así como dictaminar los proyectos de distribución de agua y supervisar la construcción de obras de agua potable y alcantarillado;
 
 XI. Celebrar con personas de los sectores público y privado, los convenios y contratos necesarios para el cumplimiento de su objeto, en los términos de la legislación aplicable;
 
@@ -95,9 +115,9 @@ XIV. Establecer las políticas, planes, proyectos y acciones permanentes para el
 
 XV. Convenir con las dependencias y entidades de los gobiernos, Federal, Estatal y Municipal, así como también con organismos del sector social y privado para la construcción, rehabilitación, sustitución, modernización y mantenimiento de las redes de agua potable y alcantarillado, plantas potabilizadoras y tratamiento de aguas residuales y demás que tengan relación directa o indirecta con su objeto;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XVI. Autorizar permisos de descargas de aguas residuales en puntos autorizados dentro de la infraestructura que forme parte del patrimonio del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+XVI. Autorizar permisos de descargas de aguas residuales en puntos autorizados dentro de la infraestructura que forme parte del patrimonio del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
@@ -113,15 +133,21 @@ XIX. Sustituir o rehabilitar de manera inmediata las tapas de alcantarillado fal
 
 XX. Las demás que señale el Reglamento de la presente Ley y las disposiciones normativas de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-El patrimonio del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, se integrará:
+El patrimonio del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se integrará:
 
-I. Con todos los bienes muebles e inmuebles, usos, frutos, derechos, títulos de concesión de explotación de aguas nacionales, permisos de descargas a cuerpos receptores y servidumbres de paso que actualmente formen parte de la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Con todos los bienes muebles e inmuebles, usos, frutos, derechos, títulos de concesión de explotación de aguas nacionales, permisos de descargas a cuerpos receptores y servidumbres de paso que actualmente formen parte de la Administración Directa de Obras y Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
 
 II. Con los rendimientos de sus bienes;
 
-III. Con la infraestructura hidráulica, sanitaria y de saneamiento que actualmente formen parte de la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+III. Con la infraestructura hidráulica, sanitaria y de saneamiento que actualmente formen parte de la Administración Directa de Obras Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
 
 IV. Las aportaciones que perciban del Municipio de Oaxaca de Juárez y de aquellos municipios en que así se determine en los convenios y contratos que se suscriban;
 
@@ -129,29 +155,39 @@ V. Los ingresos que se obtengan por los servicios que presta siendo mano de obra
 
 VI. Las donaciones, dación en pago, compra-venta o cualquier otro medio ó títulos legales o por parte de los sectores público, social o privado; y
 
-Los bienes del Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, afectos directamente con la prestación, de los servicios de agua potable y alcantarillado no pierden su carácter público, por tanto, serán inembargables e imprescriptibles.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+Los bienes del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, afectos directamente con la prestación, de los servicios de agua potable y alcantarillado no pierden su carácter público, por tanto, serán inembargables e imprescriptibles.
 
 ### CAPÍTULO II. ÓRGANOS DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 5.
 
-La administración del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, contará con:
+La administración del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, contará con:
 
 I. Un Consejo de Administración;
 
 II. Un Director General;
 
-III. Un Comisario, designado por la Secretaría de la Contraloría y Transparencia Gubernamental del Estado de Oaxaca, en los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+III. Un Comisario, designado por la Secretaría de Honestidad, Transparencia y Función Pública, en los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca; y
 
 IV. Un Consejo Ciudadano del Agua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 6.
 
-El Consejo de Administración es el Órgano supremo del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca y estará integrado por:
+El Consejo de Administración es el Órgano supremo del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y estará integrado por:
 
 I. Un Presidente, que será el Secretario cabeza de sector;
 
-II. Un Secretario Técnico, que será el Director General del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca o su equivalente;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+II. Un Secretario Técnico, que será el Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado o su equivalente;
 
 III. Los siguientes Vocales:
 
@@ -159,29 +195,45 @@ El Titular de la Secretaría de Administración
 
 El Titular de la Secretaría de Finanzas
 
-El Titular de la Secretaría General de Gobierno
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-El Titular de la Comisión Estatal del Agua
+El Titular de la Secretaria de Gobierno
 
-IV. Un Comisario que será el titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+El Titular de la Comisión Estatal del Agua para el Bienestar
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+IV. Un Comisario que será el titular de la Secretaría de Honestidad, Transparencia y Función Pública.
 
 Cada integrante propietario designará a su suplente, quien gozará de las mismas facultades que los propietarios, con voz y voto.
 
-Podrán asistir a las reuniones del Consejo de Administración, con voz pero sin voto, los representantes de los municipios que hayan convenido previamente con el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, siempre y cuando se trate algún asunto, que sea de su interés o incumbencia.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+Podrán asistir a las reuniones del Consejo de Administración, con voz pero sin voto, los representantes de los municipios que hayan convenido previamente con el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, siempre y cuando se trate algún asunto, que sea de su interés o su incumbencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 7.
 
-Corresponden al Consejo de Administración del Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, las siguientes facultades y obligaciones indelegables:
+Corresponden al Consejo de Administración del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, las siguientes facultades y obligaciones indelegables:
 
 I. Aprobar los proyectos de cuotas y tarifas para el cobro de prestación de servicios, en términos de la Ley Estatal de Derechos, y por su Director General;
 
 II. Aprobar los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-III. Establecer en congruencia con la planeación estatal, las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, relativas a la prestación de los servicios públicos que tienen encomendados;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-IV. Expedir las normas o bases generales con arreglo a las cuales, el Director General pueda disponer de los activos fijos del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, que no correspondan a las operaciones propias objeto del mismo;
+III. Establecer en congruencia con la planeación estatal, las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, relativas a la prestación de los servicios públicos que tienen encomendados;
 
-V. Aprobar trimestralmente, previo informe del Comisario y dictamen de los auditores externos los estados financieros del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+IV. Expedir las normas o bases generales con arreglo a las cuales, el Director General pueda disponer de los activos fijos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, que no correspondan a las operaciones propias objeto del mismo;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+V. Aprobar trimestralmente, previo informe del Comisario y dictamen de los auditores externos, los estados financieros del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 VI. Expedir el reglamento interno y sus manuales correspondientes;
 
@@ -189,17 +241,23 @@ VII. Proponer al Ejecutivo del Estado, los convenios de fusión con otras entida
 
 VIII. Autorizar la creación de comités o subcomités técnicos especializados o de comités de apoyo institucional;
 
-IX. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado considere como del dominio público;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+IX. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado considere como del dominio público;
 
 X. Analizar y aprobar, en su caso, los informes que rinda el Director General;
 
 XI. Acordar con sujeción a las disposiciones legales relativas, la recepción de los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados; y
 
-XII. Las demás atribuciones aplicables a las funciones del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, que le sean otorgadas por las leyes de la materia.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XII. Las demás atribuciones aplicables a las funciones del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, que le sean otorgadas por las leyes de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 8.
 
-Las sesiones del Consejo de Administración, serán ordinarias y extraordinarias, las sesiones ordinarias se celebrarán cuando menos trimestralmente, y las extraordinarias, cuando el caso por su extrema urgencia lo requiera, y a petición del Presidente del Consejo de Administración o del Titular del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+Las sesiones del Consejo de Administración, serán ordinarias y extraordinarias, las sesiones ordinarias se celebrarán cuando menos trimestralmente, y las extraordinarias, cuando el caso por su extrema urgencia lo requiera, y a petición del Presidente del Consejo de Administración o del Titular del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
 En la primera sesión ordinaria de cada ejercicio, se determinará el calendario de las sesiones ordinarias subsecuentes.
 
@@ -209,15 +267,23 @@ En las sesiones del Consejo de Administración se levantará acta circunstanciad
 
 Podrán ser invitados a las sesiones del Consejo de Administración, con voz pero sin voto, algunos de los representantes de organizaciones públicas, privadas o sociales, con actividades afines o intereses de carácter general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 9.
 
-El Director General del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, será nombrado y removido libremente por el Gobernador Constitucional del Estado, y tendrá las siguientes facultades y obligaciones:
+El Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será nombrado y removido libremente por el Gobernador Constitucional del Estado, y tendrá las siguientes facultades y obligaciones:
 
-I. Tener la representación legal del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-II. Coordinar las actividades técnicas, administrativas y financieras del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, para lograr una mayor eficiencia, eficacia y economía del mismo;
+I. Tener la representación legal del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
 
-III. Celebrar actos jurídicos de dominio y de administración que sean necesarios para el funcionamiento del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+II. Coordinar las actividades técnicas, administrativas y financieras del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para lograr una mayor eficiencia, eficacia y economía del mismo;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+III. Celebrar actos jurídicos de dominio y de administración que sean necesarios para el funcionamiento del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 IV. Suscribir convenios y contratos conforme a las leyes y reglamentos de la materia, para la ejecución de las obras autorizadas, así como para realizar las actividades que se requieran para lograr que cumplan con su objeto;
 
@@ -225,11 +291,15 @@ V. Autorizar las erogaciones ordinarias con cargo al presupuesto, y someter a la
 
 VI. Ejecutar los acuerdos que dicte el Consejo de Administración;
 
-VII. Proponer ante el Consejo de Administración el Reglamento Interior del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, así como las modificaciones al mismo;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+VII. Proponer ante el Consejo de Administración el Reglamento Interior del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como las modificaciones al mismo;
 
 VIII. Ordenar y vigilar que se practiquen en todos los sistemas hidráulicos que administre, en forma regular, muestreos y análisis del agua; llevar estadísticas de sus resultados, tomando las medidas adecuadas para mejorar la calidad del agua que se distribuye a la población, y de la que una vez utilizada, se vierte a los cauces destinados para tal efecto;
 
-IX. Establecer relaciones de coordinación con autoridades federales, estatales o municipales y con toda clase de instituciones políticas, educativas, sociales, públicas o privadas; para el trámite y atención de asuntos de interés del sector en los que se involucre la competencia del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+IX. Establecer relaciones de coordinación con autoridades federales, estatales o municipales y con toda clase de instituciones políticas, educativas, sociales, públicas o privadas; para el trámite y atención de asuntos de interés del sector en los que se involucre la competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 X. Asistir a las sesiones del Consejo de Administración en calidad de Secretario Técnico del mismo, con voz pero sin voto;
 
@@ -237,23 +307,37 @@ XI. Nombrar y remover libremente a los servidores públicos de confianza que ocu
 
 XII. Formular los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-XIII. Formular el programa de mejora continua de la gestión pública del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XIII. Formular el programa de mejora continua de la gestión pública del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XIV. Administrar y establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera eficiente y eficaz;
 
-XV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XVI. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar las metas y objetivos propuestos;
 
-XVII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de los servicios del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XVIII. Establecer un sistema de indicadores que permita evaluar la gestión del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+XVII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de los servicios del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XVIII. Establecer un sistema de indicadores que permita evaluar la gestión del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
 XIX. Presentar periódicamente al Consejo de Administración el informe del desempeño de las actividades del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
 
-XX. Establecer los mecanismos de autoevaluación, de acción y procedimientos para alcanzar la meta del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Consejo y escuchando al Comisario;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XXI. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+XX. Establecer los mecanismos de autoevaluación, de acción y procedimientos para alcanzar la meta del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Consejo y escuchando al Comisario;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XXI. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XXII. Formular querellas y otorgar perdón legal, previa autorización del Consejo de Administración;
 
@@ -261,13 +345,19 @@ XXIII. Ejercitar y desistirse de acciones administrativas y judiciales, inclusiv
 
 XXIV. Comprometer asuntos de arbitraje y celebrar transacciones, previa autorización del Consejo de Administración;
 
-XXV. Otorgar a los abogados adscritos al área jurídica del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, poderes especiales o generales para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales para actos de dominio y administración;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XXVI. Delegar sus facultades al titular del área jurídica previo acuerdo que deberá publicarse en el Periódico Oficial del Gobierno del Estado Oaxaca;
+XXV. Otorgar a los abogados adscritos al área jurídica del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, poderes especiales o generales para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales para actos de dominio y administración;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XXVI. Delegar sus facultades al titular del área jurídica previo acuerdo que deberá publicarse en el Periódico Oficial del Gobierno del Estado;
 
 XXVII. Sustituir y revocar poderes generales o especiales;
 
-XXVIII. Realizar los estudios previos necesarios, que fundamenten y permitan la elaboración de cuotas y tarifas apropiadas para la prestación de los servicios públicos del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, mismos que deberá someterlos a la aprobación del Consejo de Administración;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XXVIII. Realizar los estudios previos necesarios, que fundamenten y permitan la elaboración de cuotas y tarifas apropiadas para la prestación de los servicios públicos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, mismos que deberá someterlos a la aprobación del Consejo de Administración;
 
 XXIX. Determinar y liquidar créditos fiscales con sus accesorios respectivos e imponer multas y en su caso hacerlos efectivos mediante el Procedimiento Administrativo de Ejecución;
 
@@ -275,19 +365,25 @@ Para lo anterior se aplicará de manera supletoria a esta Ley el Código Fiscal 
 
 XXX. Elaborar y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-XXXI. Realizar las acciones conducentes a la ejecución de programas estatales y federalizados y todas aquellas inherentes al cumplimiento del objeto del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XXXI. Realizar las acciones conducentes a la ejecución de programas estatales y federalizados y todas aquellas inherentes al cumplimiento del objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XXXII. Desarrollar acciones que conlleven al uso eficiente del agua, así como de la infraestructura existente, procurando que los usuarios eviten el desperdicio de la misma;
 
-XXXIII. Aplicar las sanciones por las infracciones que cometan los usuarios y que sean competencia del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca y su zona metropolitana, mismas que se detallarán en el Reglamento de la Presente Ley;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XXXIII. Aplicar las sanciones por las infracciones que cometan los usuarios y que sean competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y su zona metropolitana, mismas que se detallarán en el Reglamento de la Presente Ley;
 
 XXXIV. Certificar al personal capacitado, en las áreas de construcción de redes de agua potable, drenaje y alcantarillado; y
 
 XXXV. Las demás que le confieran las leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 10.
 
-Para ser Director General del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, se deberán contar con los siguientes requisitos:
+Para ser Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se deberán contar con los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos políticos;
 
@@ -297,23 +393,31 @@ III. No desempeñar ningún otro empleo, cargo o comisión, incompatible con la 
 
 ### CAPÍTULO III. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 11.
 
-El Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, para la prestación de los servicios públicos que son materia de su objeto, observará lo dispuesto en la presente Ley, su Reglamento, y demás disposiciones relativas y aplicables en la materia.
+El Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para la prestación de los servicios públicos que son materia de su objeto, observará lo dispuesto en la presente Ley, su Reglamento, y demás disposiciones relativas y aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 12.
 
-Los servidores públicos del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, ejecutarán las actividades y comisiones que se les ordenen y tendrán las facultades administrativas que les delegue el Consejo de Administración o el Director General; el personal técnico, administrativo y demás servidores públicos, estará (sic) bajo las órdenes del Director General y jefes inmediatos que determine el estatuto orgánico, el manual de organización, el organigrama, el reglamento interno, y las leyes aplicables a la prestación de servicios profesionales.
+Los servidores públicos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, ejecutarán las actividades y comisiones que se les ordenen y tendrán las facultades administrativas que les delegue el Consejo de Administración o el Director General; el personal técnico, administrativo y demás servidores públicos, estará (sic) bajo las órdenes del Director General y jefes inmediatos que determine el estatuto orgánico, el manual de organización, el organigrama, el reglamento interno, y las leyes aplicables a la prestación de servicios profesionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 13.
 
-Las relaciones laborales y de seguridad social de los trabajadores de base del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, serán respetadas en los términos y condiciones que se han venido prestando y reconociendo sus derechos laborales y de seguridad social adquiridos, mismas que se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado; así como la Ley de Pensiones para los Empleados del Gobierno del Estado, reglamentos, minutas, Normatividad en Materia de Recursos Humanos de las Dependencias y Entidades Paraestatales de la Administración Pública del Estado y convenios contractuales que tiene celebrados el Ejecutivo del Estado con el Sindicato de Trabajadores de los Poderes del Estado e Instituciones Descentralizadas de Carácter Estatal.
+Las relaciones laborales y de seguridad social de los trabajadores de base del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, serán respetadas en los términos y condiciones que se han venido prestando y reconociendo sus derechos laborales y de seguridad social adquiridos, mismas que se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado; así como la Ley de Pensiones para los Trabajadores del Gobierno del Estado de Oaxaca, reglamentos, minutas, Normatividad en Materia de Recursos Humanos de las Dependencias y Entidades Paraestatales de la Administración Pública del Estado y convenios contractuales que tiene celebrados el Ejecutivo del Estado con el Sindicato de Trabajadores de los Poderes del Estado e Instituciones Descentralizadas de Carácter Estatal.
 
 Las personas que ingresen a ocupar plazas vacantes de base estarán sujetas a las leyes y normatividad vigentes señaladas en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 14.
 
-El Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, gozará de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado, los bienes inmuebles y muebles, así como los contratos que celebre el mismo, debiendo pagar toda clase de impuestos y derechos estatales.
+El Organismo Operador Publico Sistema Operador de los Servicios de Agua Potable y Alcantarillado, gozará de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado, los bienes inmuebles y muebles, así como los contratos que celebre el mismo, debiendo pagar toda clase de impuestos y derechos estatales.
 
 ### CAPÍTULO IV. DEL CONSEJO CIUDADANO DEL AGUA
 
@@ -323,13 +427,19 @@ El Consejo Ciudadano tendrá el carácter de Órgano de consulta, su cargo será
 
 I. Un Presidente, que será un Ciudadano de reconocido prestigio, y con aportaciones a la sociedad en cuestiones ambientales, en materia Hídrica, entendiendo por esto Agua Potable, Alcantarillado y Saneamiento, que será elegido por el Consejo de Administración a propuesta de su Presidente;
 
-II. Un Secretario Ejecutivo, que será el Director del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+II. Un Secretario Ejecutivo, que será el Director del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 III. Tres Consejeros Ciudadanos, electos por el Consejo de Administración a propuesta de su Presidente; y
 
-IV. Cinco invitados Permanentes, Secretario General de Gobierno, Secretario de Administración, Secretario de Finanzas, Secretario de las infraestructuras y el Ordenamiento Territorial Sustentable, Director de la Comisión Estatal del Agua, quienes en la primer sesión podrán designar a su suplente.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Serán invitados ciudadanos del área metropolitana por el Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, a formar parte del mismo, debiendo ser ciudadanos que cuenten con reconocido prestigio por sus aportaciones en la solución de problemas del agua potable, alcantarillado y tratamiento de aguas residuales, el desarrollo sustentable de los mismos, debiendo de contar con un periodo de residencia al menos de seis años dentro del Municipio de Oaxaca de Juárez y zonas metropolitanas.
+IV. Cinco invitados Permanentes, Secretario de Gobierno, Secretario de Administración, Secretario de Finanzas, Secretario de Infraestructuras y Comunicaciones, Director de la Comisión Estatal del Agua para el Bienestar, quienes en la primer sesión podrán designar a su suplente.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+Serán invitados ciudadanos del área metropolitana por el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, a formar parte del mismo, debiendo ser ciudadanos que cuenten con reconocido prestigio por sus aportaciones en la solución de problemas del agua potable, alcantarillado y tratamiento de aguas residuales, el desarrollo sustentable de los mismos, debiendo de contar con un periodo de residencia al menos de seis años dentro del Municipio de Oaxaca de Juárez y zonas metropolitanas.
 
 El Consejo Ciudadano del Agua, estará integrado por comisiones de trabajo que serán agua potable, alcantarillado, saneamiento, cultura del agua, coordinación intergubernamental, y/o las que se consideren necesarias para su objeto.
 
@@ -422,3 +532,27 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca Decreto.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
