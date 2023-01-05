@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-y-aeropistas-de-oaxaca-6912"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-27"
-last_updated: "2016-02-29"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de mayo de 1989.
 
@@ -41,13 +41,17 @@ LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
 ### CAPITULO I. Naturaleza Jurídica y Objeto
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley tiene por objeto constituir el organismo público descentralizado, denominado CAMINOS Y AEROPISTAS DE OAXACA, con personalidad Jurídica y patrimonio propio, con domicilio en la Ciudad de Oaxaca de Juárez; así como el de establecer las normas Orgánicas que rigen las atribuciones y deberes.
+La presente Ley tiene por objeto constituir el organismo público descentralizado, denominado CAMINOS BIENESTAR, con personalidad Jurídica y patrimonio propio, con domicilio en la Ciudad de Oaxaca de Juárez; así como el de establecer las normas Orgánicas que rigen las atribuciones y deberes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 2°.
 
-"Caminos y Aeropistas de Oaxaca", tendrá por objeto: Llevar a cabo acciones relativas a la planeación, programación, presupuestación, ejecución y mantenimiento de la Infraestructura de la Red de Caminos, Aeropistas y en su caso, servicios auxiliares y conexos a los mismos, que deriven de programas propios o convenidos con la Federación, Municipios o particulares, para el cual tendrá las siguientes atribuciones:
+“Caminos Bienestar”, tendrá por objeto: Llevar a cabo acciones relativas a la planeación, programación, presupuestación, ejecución y mantenimiento de la Infraestructura de la Red de Caminos, Aeropistas y en su caso, servicios auxiliares y conexos a los mismos, que deriven de programas propios o convenidos con la Federación, Municipios o particulares, para el cual tendrá las siguientes atribuciones:
 
 I.- Realizar estudios y proyectos para la construcción, reconstrucción, modernización, ampliación, modificación y conservación de las obras, así como llevar acabo la ejecución, supervisión y mantenimiento de las mismas, observando para tal efecto las disposiciones legales y técnicas respectivas;
 
@@ -71,9 +75,11 @@ X.- En general, las demás que le confieren las Leyes relativas o relacionadas c
 
 ### CAPITULO II. Del Patrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 3°.
 
-El patrimonio de "Caminos y Aeropistas de Oaxaca", se constituirá con:
+El patrimonio de "Caminos Bienestar", se constituirá con:
 
 I.- Los bienes muebles e inmuebles que pertenecían a la disuelta Junta Local de Caminos;
 
@@ -83,9 +89,11 @@ III.- Los legados, donaciones y demás liberalidades que por cualquier título r
 
 IV.- Los bienes o recursos que adquiera por cualquier otro título legal.
 
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 4°.
 
-"Caminos y Aeropistas de Oaxaca", administrará su patrimonio con apego a las disposiciones legales respectivas destinándolo al cumplimiento del objeto para el cual fue creada.
+"Caminos Bienestar", administrará su patrimonio con apego a las disposiciones legales respectivas destinándolo al cumplimiento del objeto para el cual fue creada.
 
 > <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -97,9 +105,11 @@ De igual forma, son inembargables las cuentas bancarias, depósitos en efectivo,
 
 ### CAPÍTULO III. De los Organos de Gobierno
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 5°.
 
-El Gobierno de "Caminos y Aeropistas de Oaxaca", estará a cargo de:
+El Órgano de Gobierno de "Caminos Bienestar", estará a cargo de:
 
 I.- El Consejo de Administración; y
 
@@ -107,19 +117,19 @@ I.- El Consejo de Administración; y
 
 II.- El Director General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 6°.
 
-El Consejo de Administración, es la autoridad máxima de "Caminos y Aeropistas de Oaxaca"; y estará integrado por:
+El Consejo de Administración, es la Autoridad Suprema de "Caminos Bienestar", y estará integrado en forma honorífica por:
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
 I.- Un Presidente, que será el titular de la Secretaría coordinadora de sector.
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-II.- Un Secretario Técnico, que será el Director General de Caminos y Aeropistas de Oaxaca; y
+II.- Un Secretario Técnico, que será el Director General de Caminos Bienestar;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2005)</small>
 
@@ -131,17 +141,17 @@ a) Coordinación General del Comité Estatal de Planeación para el Desarrollo d
 
 b) Secretaría de Finanzas;
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-c) Secretaría de Turismo y Desarrollo Económico, y
+c) Secretaría de Desarrollo Económico.
 
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-d) Secretaría de Desarrollo Agropecuario, Pesca y Acuacultura.
+d) Secretaría de Fomento Agroalimentario y Desarrollo Rural.
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-IV.- Un Comisario, que será el titular del órgano de control interno del Poder Ejecutivo del Estado.
+IV.- Un Comisario, que será el Delgado Contralor o el representante que designe la Secretaría de Honestidad, Transparencia y Función Pública
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -251,9 +261,13 @@ II.- Someter a la consideración del Consejo de Administración, las propuestas 
 
 III.- Desempeñar con diligencia las comisiones y funciones que le sean conferidas;
 
-IV.- Coadyuvar en apoyo de Caminos y Aeropistas de Oaxaca, dentro de sus respectivos ámbitos de competencia, a efecto de que ésta logre el cumplimiento de su objetivo; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-V.- Las demás que le concede esta Ley, el Reglamento Interior de Caminos y Aeropistas de Oaxaca, y demás disposiciones legales aplicables.
+IV.- Coadyuvar en apoyo de Caminos Bienestar, dentro de sus respectivos ámbitos de competencia, a efecto de que ésta logre el cumplimiento de su objetivo; y
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+V.- Las demás que le concede esta Ley, el Reglamento Interior de Caminos Bienestar, y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -269,9 +283,13 @@ II.- Elaborar y someter a la consideración del Consejo, proyectos de programas 
 
 III.- Presentar oportunamente al Consejo de Administración, los informes de actividades de inversión tanto financieros como de avance físico de obras;
 
-IV.- Presentar ante el Consejo de Administración, el informe anual de las actividades de Caminos y Aeropistas de Oaxaca del ejercicio anterior, acompañando la información financiera respectiva;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-V.- Representar legalmente a Caminos y Aeropistas de Oaxaca, como mandatario general para celebrar actos de dominio, administración y para pleitos y cobranzas, con todas las facultades y aún las especiales para cuyo ejercicio se requiera de cláusula especial. Para actos de enajenación o para gravar los bienes propiedad de Caminos y Aeropistas de Oaxaca, será necesaria la autorización previa del Consejo de Administración;
+IV.- Presentar ante el Consejo de Administración, el informe anual de las actividades de Caminos Bienestar del ejercicio anterior, acompañando la información financiera respectiva;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+V.- Representar legalmente a Caminos Bienestar, como mandatario general para celebrar actos de dominio, administración y para pleitos y cobranzas, con todas las facultades y aún las especiales para cuyo ejercicio se requiera de cláusula especial. Para actos de enajenación o para gravar los bienes propiedad de Caminos Bienestar, será necesaria la autorización previa del Consejo de Administración;
 
 VI.- Aceptar, otorgar, girar, emitir, endosar, avalar e intervenir en cualquier otra forma, en toda clase de operaciones de crédito y celebrar los actos pendientes y hacerlos efectivos, hasta las cantidades que autorice el Consejo de Administración, siempre y cuando los títulos de operaciones se relacionen o deriven directamente con actos propios del objetivo de la Junta;
 
@@ -367,15 +385,17 @@ Ser miembro del Consejo Consultivo tendrá carácter honorífico.
 
 ### CAPITULO IV. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 18.
 
-Las relaciones laborales entre Caminos y Aeropistas de Oaxaca, se regirán por la Ley del Servicio Civil para lo Empleados del Gobierno del Estado de Oaxaca, considerándose como trabajadores de confianza al Director, los Jefes de Areas o Departamentos, Oficina, Sección, Residentes, Asesores y demás personal que efectúe labores de inspección, vigilancia, dirección o fiscalización.
+Las relaciones laborales entre Caminos Bienestar, se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado, considerándose como trabajadores de confianza al Director, los Jefes de Áreas o Departamentos, Oficina Sección (sic) Residentes, Asesores y demás personal que efectúe labores de inspección vigilancia, dirección o fiscalización.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 19.
 
-La Secretaría de la Contraloría, ejercer las facultades que le otorgan las leyes respectivas en lo que corresponde a la verificación, inspección fiscalización y responsabilidades de los servidores públicos del Organismo.
+La Secretaría de Honestidad Transparencia y Función Pública, ejercerá las facultades que le otorgan las leyes respectivas, en lo que corresponde a la verificación, inspección, fiscalización y responsabilidades de los servidores públicos del Organismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -452,3 +472,27 @@ CUARTO. Los Presidentes de los Órganos de Gobierno, dentro de los veinte días 
 QUINTO. El Consejo de Administración, en un plazo no mayor a noventa días hábiles posteriores a la publicación del presente Decreto, deberá expedir o, en su caso, reformar el reglamento interno, manuales y demás instrumentos administrativos de Caminos y Aeropistas de Oaxaca.
 
 SEXTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
