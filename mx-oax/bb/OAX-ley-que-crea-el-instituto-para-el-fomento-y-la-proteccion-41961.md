@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-para-el-fomento-y-la-proteccion-41961
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2021-12-04"
+last_updated: "2023-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCION DE LAS ARTESANIAS -ANTES- LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANIAS
 
-LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANIAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 1719, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004.
 
@@ -37,7 +39,9 @@ LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 DECRETA:
 
-LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
+> <small>(REFORMADA SU DENOMINACIÓN. P.O. 5 DE ENERO DE 2023)</small>
+
+LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -47,11 +51,11 @@ LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS
 
 ### CAPÍTULO PRIMERO. DE SU NATURALEZA
 
-> <small>(REFORMADO. P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 1.
 
-Se crea el Organismo Público Descentralizado denominado “Instituto Oaxaqueño de las Artesanías”, con personalidad jurídica y patrimonio propio, en lo sucesivo para los efectos de esta Ley, se entenderá como “El Instituto”.
+Se crea el Organismo Público Descentralizado denominado "Instituto para el Fomento y la Protección de las Artesanías", con personalidad jurídica y patrimonio propio, en lo sucesivo para los efectos de esta Ley, se entenderá como "El Instituto".
 
 ###### ARTÍCULO 2.
 
@@ -79,9 +83,9 @@ III. Coordinar de una forma dinámica y efectiva las distintas políticas y recu
 
 IV. Fomentar y ser tramitador ante la instancia competente para obtener la protección de la actividad artesanal en el Estado de Oaxaca.
 
-> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADA. P.O. 5 DE ENERO DE 2023)</small>
 
-V. Deberá coadyuvar en el ámbito de sus competencias con la Coordinación General de Enlace Federal y Relaciones Internacionales.
+V. Deberá coadyuvar en el ámbito de sus competencias con las Coordinaciones Generales de Enlace Federal y Relaciones Internacionales.
 
 > <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 2017)</small>
 
@@ -223,9 +227,9 @@ a) El Coordinador General del Comité Estatal de Planeación para el Desarrollo 
 
 b) El Secretario de Administración,
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
-c) El Secretario de las Culturas y Artes de Oaxaca;
+c) El Secretario de las Culturas y Artes,
 
 d) (DEROGADO, P.O. 18 DE MARZO DE 2016)
 
@@ -233,21 +237,21 @@ d) (DEROGADO, P.O. 18 DE MARZO DE 2016)
 
 e) El Secretario Técnico del Titular del Poder Ejecutivo;
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
-f) El Secretario de Desarrollo Social y Humano;
+f) El Secretario de Bienestar, Tequio e Inclusión,
 
-> <small>(REFORMADO. P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
-g) La o el Secretario de Pueblos Indígenas y Afromexicano,
+g) El Secretario de Interculturalidad Pueblos y Comunidades Indígenas y Afromexicanas,
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
-h) Un representante de la Secretaría de Economía;
+h) Un representante de la Secretaría de Desarrollo Económico;
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2017)</small>
+> <small>(REFORMADO. P.O. 5 DE ENERO DE 2023)</small>
 
-i) Un representante de la Coordinación General de Enlace Federal y Relaciones Internacionales;
+i) Un representante de la Coordinación General de Enlace Federal y un representante de la Coordinación General de Relaciones Internacionales;
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -257,9 +261,9 @@ j) Un representante del sector social;
 
 k) Un representante del sector privado.
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA. P.O. 5 DE ENERO DE 2023)</small>
 
-IV.- Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental, quien tendrá derecho a voz pero no a voto en las sesiones de la Junta Directiva.
+IV.- Un Comisario, que será el Secretario de Honestidad, Transparencia y Función Pública, quien tendrá derecho a voz pero no a voto en las sesiones de la Junta Directiva.
 
 ###### ARTÍCULO 8.
 
@@ -520,3 +524,27 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCION CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
