@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-organismo-operador-publico-denominado-sistema-96832"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2022-10-15"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,468 +21,538 @@ state: "OAX"
 ---
 # LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA -ANTES- LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ENERO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 11 de diciembre de 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
-CLAUDIA ARTEMIZA PAVLOVICH ARELLANO, Gobernadora del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
+Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
-Que el honorable Congreso del Estado, se ha servido dirigirme la siguiente:
+LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-Ley número 83, PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA.
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE.
 
-NÚMERO 83
+DECRETO No 2070
 
-EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
+LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-LEY
+D E C R E T A:
 
-PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2023)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-###### Artículo 1.
+### CAPÍTULO I. GENERALIDADES
 
-Objeto y alcances de la Ley
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Sonora. Tiene por objeto establecer los mecanismos y procedimientos necesarios para asegurar y proteger que los intervinientes en riesgo en un proceso penal, por su participación o como resultado del mismo o bien, de los que tengan algún tipo de relación afectiva o vínculo de parentesco con la persona que interviene en aquel, puedan ejercer sus derechos y deberes en el marco de la procuración y administración de justicia, con confianza, y sin ser obstaculizados o sujetos de intimidación, presión, amenaza o cualquier forma de violencia lo anterior sin perjuicio de lo establecido en el Código Nacional de Procedimientos Penales y las demás leyes aplicables.
+###### ARTÍCULO 1.
 
-###### Artículo 2.
+Se crea el Organismo Operador de la Administración Pública del Gobierno del Estado de Oaxaca, con personalidad jurídica, autonomía operativa y patrimonio propio, denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
-Glosario
+El Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, estará sectorizado a la Secretaría de Infraestructuras y Comunicaciones.
 
-Para los efectos de la presente Ley se entiende por:
+La competencia territorial del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será el Municipio de Oaxaca de Juárez, pudiendo ampliarla a aquellos municipios de las zonas metropolitanas que cuenten con la infraestructura necesaria que haga factible la prestación de los servicios, y que cuenten con los convenios debidamente suscritos entre el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y el Municipio que lo solicite; igualmente, sobre de aquellos Municipios que no siendo Metropolitanos exista la factibilidad técnica y operativa, que les permita ofrecer servicios de agua potable, alcantarillado y tratamiento de aguas residuales sin que se invadan esferas jurídicas o atribuciones propias del Municipio; por lo que se deberán suscribir los convenios necesarios.
 
-l.- Ley: La Ley para la protección de personas que intervienen en el Procedimiento Penal para el Estado de Sonora;
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, estará ubicado en la ciudad de Oaxaca de Juárez, Oaxaca.
 
-II.- Programa: El programa de protección a personas;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-III.- Unidad Administrativa: La encargada de la protección de los sujetos en situación de riesgo;
+###### ARTÍCULO 2.
 
-IV.- Titular: El Titular de la Unidad Administrativa, quien será un Agente del Ministerio Público;
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, tendrá por objeto:
 
-V.- Procuraduría: La Procuraduría General de Justicia del Estado de Sonora;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-VI.- Procurador: El titular de la Procuraduría General de Justicia del Estado de Sonora;
+I. Prestar los servicios públicos de suministro de agua potable, alcantarillado y tratamiento de aguas residuales, en los núcleos de población de su competencia territorial, y en donde técnica y operativamente sean viables para el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, previa firma de convenio;
 
-VII.- Medidas de Protección: Las acciones realizadas por la Unidad Administrativa tendentes a eliminar o reducir los riesgos que pueda sufrir la persona protegida por esta ley;
+II. Ejecutar, en el ámbito de su competencia territorial, toda clase de obras de infraestructura hidráulica, sanitaria, pluvial y servicios relacionados con recursos hídricos; adquisiciones y servicios vinculados con bienes muebles; necesarios para la prestación de los servicios públicos a que se refiere la fracción primera del presente artículo; ejerciendo recursos federales, estatales y/o municipales, que para tal fin tenga o le sean asignados; y
 
-VIII.- Convenio de Entendimiento: El documento que suscriben el Titular de la Unidad Administrativa y la persona protegida de manera libre e informada, en el que esta última acepta voluntariamente ingresar al programa; se definen de manera detallada las obligaciones y acciones que realizarán la Unidad, y la persona protegida; así como las sanciones por su incumplimiento;
+III. Recaudar mediante los procedimientos legales de cobro lo que deba percibir por concepto de los servicios públicos que preste, así como los derechos, aprovechamientos y sus respectivos accesorios.
 
-IX.- Persona Protegida: todo individuo que pueda verse en situación de riesgo por su intervención en un procedimiento penal. Dentro de dicho concepto se considerarán a las personas ligadas por vínculos de parentesco o afectivos con el testigo, la víctima, el ofendido o los servidores públicos en riesgo por sus actividades en el procedimiento;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-X.- Procedimiento Penal: las etapas comprendidas desde la investigación inicial hasta la sentencia ejecutoriada, de conformidad con el Código Nacional de Procedimientos Penales;
+###### ARTÍCULO 3.
 
-XI.- Situación de Riesgo: la amenaza real e inminente que, de actualizarse, expone la vida o la integridad física o psicológica de la persona protegida, por su intervención en un Procedimiento Penal; y
+El Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para el cumplimento de su objeto, tendrá las siguientes atribuciones:
 
-XII.- Estudio Técnico: la opinión técnica con el fin de determinar la situación de riesgo e identificar la medida de protección que pudiera ser aplicable.
+I. Planear, programar, presupuestar, estudiar, proyectar, construir, rehabilitar, ampliar, operar, administrar, conservar y mejorar los sistemas de agua potable, alcantarillado y tratamiento de aguas residuales en los términos de las disposiciones legales y normativas de la materia que le sean aplicables;
 
-###### Artículo 3.
+II. Recaudar ingresos con bases en los derechos relativos a los servicios públicos que preste en términos de lo dispuesto por la Ley Estatal de Derechos; además podrá determinar y liquidar créditos fiscales a su favor e imponer multas de acuerdo a lo dispuesto en el reglamento de la presente Ley;
 
-Principios básicos
+III. Registrar los ingresos que por concepto de derechos y aprovechamientos recaude e informar a la Secretaría de Finanzas mensualmente sobre dichos montos, a fin de integrar dicha información en la Cuenta Pública. Conforme lo detalle el reglamento de la presente Ley.
 
-Para la aplicación de la presente Ley se tendrán en cuenta los siguientes principios:
+IV. Emitir propuestas, sobre la determinación de tarifas para el cobro de agua potable, así como, proponer las cuotas que correspondan a cada una de las actividades o acciones que se deban realizar para la prestación de los servicios a que se refiere su objeto, mismas que incluirán los costos de operación, administración, conservación, mantenimiento, mejoramiento y de recuperación, así como, los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas.
 
-I.- Proporcionalidad y necesidad: las medidas de protección deberán ser proporcionales al riesgo y sólo podrán ser aplicadas en cuanto fueren necesarias para garantizar la seguridad de la persona protegida;
+V. Utilizar los ingresos que se recauden, obtengan o reciban exclusivamente en los gastos inherentes a la prestación de los servicios públicos de agua potable y alcantarillado, incluyendo saneamiento, educación y cultura del agua y que en ningún caso podrán ser destinados a otro fin.
 
-II.- Confidencialidad: toda la información relacionada con el ámbito de protección del sujeto en situación de riesgo se empleará sólo para los fines del procedimiento;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-III.- Reserva: toda la información relacionada con el ámbito de protección de la persona en situación de riesgo será reservada;
+VI. Para efectos de que el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, funcione deberá de contar con un presupuesto suficiente que será presentado ante la Secretaría de Finanzas en su programa operativo anual, el que será ministrado previo trámite a que alude la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
 
-IV.- Temporalidad: las medidas de protección subsistirán mientras exista la situación de riesgo; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-V.- Gratuidad: el acceso a las Medidas de Protección otorgadas por el Programa no generará costo alguno para la persona protegida
+VII. Informar de manera trimestral ante la Secretaría de Finanzas, los estados financieros del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
-###### Artículo 4.
+VIII. Ordenar y ejecutar la suspensión del servicio por falta de pago, y en los demás casos que señale el Reglamento de la presente Ley.
 
-Personas protegidas
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Podrán ser personas protegidas: las víctimas, los ofendidos, los testigos y en general quienes intervengan en el procedimiento; así como otros sujetos que, con motivo del mismo, se encuentren en situación de riesgo, en los términos de la presente ley.
+IX. Elaborar manuales para el correcto funcionamiento del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como establecer los Módulos de atención al usuario necesarios dentro de su jurisdicción;
 
-### CAPÍTULO SEGUNDO. PROCEDIMIENTO PARA LA APLICACIÓN DE LAS MEDIDAS DE PROTECCIÓN
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 18.
+X. Realizar por sí o por terceros conforme a las leyes de la materia, las obras para agua potable y alcantarillado de su jurisdicción, en caso de terceros siempre y cuando cumpla con la factibilidad otorgada por el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, incluyendo saneamiento, y recibir las que se construyan en la misma, así como dictaminar los proyectos de distribución de agua y supervisar la construcción de obras de agua potable y alcantarillado;
 
-Incorporación al programa
+XI. Celebrar con personas de los sectores público y privado, los convenios y contratos necesarios para el cumplimiento de su objeto, en los términos de la legislación aplicable;
 
-Las medidas de protección podrán iniciarse de oficio o a petición de parte.
+XII. Supervisar y autorizar en su caso, los estudios, planos y proyectos que sean presentados por las empresas fraccionadoras de cualquier tipo de constructoras de conjuntos habitacionales, en todo lo relacionado en la construcción de redes de agua potable, alcantarillado y saneamiento, previo pago de derechos que al efecto determine la Ley Estatal de Derechos así mismo supervisar la ejecución de los estudios, planos y proyectos autorizados;
 
-En el supuesto de que el Agente del Ministerio Público o el Órgano Jurisdiccional adviertan que una persona se encuentra en situación de riesgo inminente, podrán dictar las medidas de protección provisionales que sean necesarias.
+XIII. Dictar las medidas tendientes a controlar y prevenir la contaminación del agua, en beneficio de la comunidad, coordinándose para ello con las autoridades competentes;
 
-Establecidas las medidas, el Ministerio Público o en su caso en Juez solicitará al titular de la Unidad Administrativa se realice el estudio técnico correspondiente, con la finalidad de valorar la imposición de medidas de protección permanentes.
+XIV. Establecer las políticas, planes, proyectos y acciones permanentes para el control de fugas de agua, y el uso eficiente e integral del agua, para el aprovechamiento de la infraestructura hidráulica existente, a fin de solucionar los problemas actuales y prever los futuros;
 
-###### Artículo 19.
+XV. Convenir con las dependencias y entidades de los gobiernos, Federal, Estatal y Municipal, así como también con organismos del sector social y privado para la construcción, rehabilitación, sustitución, modernización y mantenimiento de las redes de agua potable y alcantarillado, plantas potabilizadoras y tratamiento de aguas residuales y demás que tengan relación directa o indirecta con su objeto;
 
-Solicitud de la medida de protección a petición de parte
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Cuando una persona requiera protección para sí o para otra u otras, el Ministerio Público le informará las medidas de protección que pudieren resultar idóneas para el caso y solicitará a la Unidad Administrativa que realice el estudio técnico.
+XVI. Autorizar permisos de descargas de aguas residuales en puntos autorizados dentro de la infraestructura que forme parte del patrimonio del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-###### Artículo 20.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-Estudio Técnico
+XVII. Implementar un sistema de reporte de tapas de alcantarillado faltante o en mal estado, fugas o escasez de agua, funcionamiento inadecuado de medidores, desperdicio de agua, así como de drenaje obstruido, que opere las 24 horas y los siete días de la semana;
 
-El personal de la Unidad Administrativa deberá realizar el estudio técnico a la persona a quien provisionalmente se le ha otorgado una medida de protección, para que junto con los criterios orientadores, permitan al Ministerio Público, o en su caso al Órgano Jurisdiccional decidir sobre la procedencia de la incorporación o no de una persona al programa y por ende las medidas de protección permanente que se otorgarán.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-El estudio técnico se remitirá al Ministerio Público o en su caso al Órgano Jurisdiccional en un máximo de veinticuatro horas, contadas a partir del momento en que se reciba la solicitud
+XVIII. Señalizar y acondicionar de manera inmediata, las áreas afectadas por tapas de alcantarillado faltante o en mal estado, con el fin de evitar accidentes, una vez que tenga conocimiento de la falta o mal estado de las mismas;
 
-Hasta en tanto se determine la incorporación al programa, seguirán aplicándose las medidas de protección provisionales.
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-###### Artículo 21.
+XIX. Sustituir o rehabilitar de manera inmediata las tapas de alcantarillado faltante o en mal estado; y
 
-Contenido del Estudio Técnico
+XX. Las demás que señale el Reglamento de la presente Ley y las disposiciones normativas de la materia.
 
-El estudio técnico, deberá de contener por lo menos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-I.- Los datos que de modo razonable revelen la existencia o no de un nexo entre la intervención de la persona a proteger en el procedimiento penal y los factores de riesgo en que se encuentre la misma;
+###### ARTÍCULO 4.
 
-II.- En los casos en que se haya concluido la participación de la persona protegida en el procedimiento penal, se realizará un estudio a fin de determinar si subsisten las condiciones de riesgo para determinar la continuidad o terminación de las medidas de protección;
+El patrimonio del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se integrará:
 
-III.- El consentimiento expreso e informado de la persona a proteger;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-IV.- La información que haya proporcionado la persona a proteger, para realizar el estudio técnico. Al efecto, deberá haberse apercibido a aquélla de que, si hubiera faltado a la verdad, dicha circunstancia bastará para que no sea incorporada al programa;
+I. Con todos los bienes muebles e inmuebles, usos, frutos, derechos, títulos de concesión de explotación de aguas nacionales, permisos de descargas a cuerpos receptores y servidumbres de paso que actualmente formen parte de la Administración Directa de Obras y Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
 
-V.- La propuesta de medidas de protección específicas que se consideren idóneas para garantizar la seguridad de la persona a proteger;
+II. Con los rendimientos de sus bienes;
 
-VI.- Las obligaciones legales que la persona a proteger tenga con terceros;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-VII.- Los antecedentes penales que, en su caso, tuviere la persona a proteger; y
+III. Con la infraestructura hidráulica, sanitaria y de saneamiento que actualmente formen parte de la Administración Directa de Obras Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
 
-VIII.- Cualquier otro elemento necesario que justifique las medidas.
+IV. Las aportaciones que perciban del Municipio de Oaxaca de Juárez y de aquellos municipios en que así se determine en los convenios y contratos que se suscriban;
 
-###### Artículo 22.
+V. Los ingresos que se obtengan por los servicios que presta siendo mano de obra en conexiones de agua potable y alcantarillado, suministro de materiales, cuotas de reparación, así como todos los derechos que deban cubrirse por la prestación de los servicios de agua potable y alcantarillado, recargos, multas y gastos de ejecución de los mismos;
 
-Convenio
+VI. Las donaciones, dación en pago, compra-venta o cualquier otro medio ó títulos legales o por parte de los sectores público, social o privado; y
 
-Una vez que el Titular de la Unidad Administrativa otorgue las medidas de protección permanentes, la persona protegida deberá suscribir un convenio de manera conjunta con el mismo, que contendrá como mínimo:
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-I.- La manifestación de voluntad de la persona sobre su admisión al programa de manera voluntaria, con pleno conocimiento, sin coacción y que las medidas de protección a otorgar no serán entendidas como pago, compensación o recompensa por su intervención en el procedimiento penal;
+Los bienes del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, afectos directamente con la prestación, de los servicios de agua potable y alcantarillado no pierden su carácter público, por tanto, serán inembargables e imprescriptibles.
 
-II.- La manifestación de la persona de estar enterada sobre la temporalidad de las medidas de protección, las cuales se mantendrán mientras subsistan las circunstancias que les dieron origen;
+### CAPÍTULO II. ÓRGANOS DE GOBIERNO
 
-III.- Los alcances y el carácter de las medidas de protección que se van a otorgar;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-IV.- La facultad del Titular de la Unidad Administrativa de mantener, modificar o suprimir todas o algunas de las medidas de protección, cuando exista la solicitud de la persona o cuando la persona protegida incumpla con cualquiera de las condiciones aceptadas o se haya conducido con falsedad;
+###### ARTÍCULO 5.
 
-V.- Las obligaciones de la persona de:
+La administración del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, contará con:
 
-a) Proporcionar información veraz y oportuna para el procedimiento.
+I. Un Consejo de Administración;
 
-b) Comprometerse a participar en los actos procesales que se le requieran;
+II. Un Director General;
 
-c) Comprometerse a realizar las acciones solicitadas por la Unidad Administrativa para garantizar su integridad y seguridad;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-d) El deber de confidencialidad de las condiciones y formas de operación del programa, incluso cuando salga del mismo; y
+III. Un Comisario, designado por la Secretaría de Honestidad, Transparencia y Función Pública, en los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca; y
 
-e) Cualquier otra que la Unidad Administrativa considere oportuna.
+IV. Un Consejo Ciudadano del Agua.
 
-VI.- Las sanciones por infracciones cometidas por la persona a proteger, incluida la separación del Programa; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-VII.- Las condiciones que regulan la terminación de su incorporación al Programa.
+###### ARTÍCULO 6.
 
-En caso de que la Persona Protegida sea un menor o sujeto de tutela, el convenio deberá también ser suscrito por el padre o tutor o quien ejerza la patria potestad o representación.
+El Consejo de Administración es el Órgano supremo del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y estará integrado por:
 
-En caso de que sean incorporados de manera simultánea por un mismo hecho o circunstancia varias personas para la protección, el hecho de que alguna de ellas incumpla con las obligaciones impuestas, no afectará a las demás personas que se encuentren relacionadas con esta.
+I. Un Presidente, que será el Secretario cabeza de sector;
 
-###### Artículo 23.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Duración de las medidas de protección
+II. Un Secretario Técnico, que será el Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado o su equivalente;
 
-Las medidas de protección podrán aplicarse desde la investigación inicial, hasta después de ejecutoriada la sentencia, siempre y cuando la situación de riesgo inminente subsista.
+III. Los siguientes Vocales:
 
-###### Artículo 24.
+El Titular de la Secretaría de Administración
 
-Medio de Impugnación.
+El Titular de la Secretaría de Finanzas
 
-Las decisiones del Titular de la Unidad que decreten, nieguen, modifiquen o revoquen las medidas de protección permanentes, deberán ser notificadas a la persona protegida quien las podrán impugnar ante el Juez de control dentro de los diez días posteriores a que sean notificadas de dicha resolución. En estos casos, el Juez de control convocará a una audiencia, dentro del término de tres días, para decidir en definitiva, citando a las partes interesadas, que en caso de no comparecer a pesar de haber sido debidamente citados, el Juez de control declarará sin materia la impugnación.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-La resolución que el Juez de control dicte en estos casos no admitirá recurso alguno.
+El Titular de la Secretaria de Gobierno
 
-Cuando el imputado, acusado o su defensor, estimen que la medida impuesta vulnera sustancialmente su derecho a la defensa, podrá impugnarla ante la autoridad jurisdiccional.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 25.
+El Titular de la Comisión Estatal del Agua para el Bienestar
 
-Legitimación para promover el medio de impugnación.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-La impugnación podrá ser promovida por cualquier persona a quien cause perjuicio la medida de protección impuesta; sin que ello suspenda los efectos de la medida impugnada.
+IV. Un Comisario que será el titular de la Secretaría de Honestidad, Transparencia y Función Pública.
 
-###### Artículo 26.
+Cada integrante propietario designará a su suplente, quien gozará de las mismas facultades que los propietarios, con voz y voto.
 
-Terminación de las medidas de protección y desincorporación del programa.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-El otorgamiento y mantenimiento de las medidas de protección está condicionado al cumplimiento de las obligaciones descritas en el artículo 16 de la presente Ley y de las obligaciones establecidas en el convenio; su incumplimiento podrá dar lugar a la revocación de su incorporación al programa.
+Podrán asistir a las reuniones del Consejo de Administración, con voz pero sin voto, los representantes de los municipios que hayan convenido previamente con el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, siempre y cuando se trate algún asunto, que sea de su interés o su incumbencia.
 
-La persona podrá renunciar de manera voluntaria a las Medidas de Protección o al Programa, para lo cual la Unidad Administrativa deberá realizar las gestiones necesarias para dejar constancia de esa circunstancia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-El titular de la Unidad Administrativa también podrá dar por concluida la permanencia de la persona protegida en el programa, cuando dejen de actualizarse las circunstancias de riesgo que originaron su incorporación.
+###### ARTÍCULO 7.
 
-La anterior resolución en todo caso será notificada por escrito a la persona protegida.
+Corresponden al Consejo de Administración del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, las siguientes facultades y obligaciones indelegables:
 
-###### Artículo 27.
+I. Aprobar los proyectos de cuotas y tarifas para el cobro de prestación de servicios, en términos de la Ley Estatal de Derechos, y por su Director General;
 
-Terminación de la medida de protección.
+II. Aprobar los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-La terminación del otorgamiento de las medidas de protección o la desincorporación de la persona al programa, será decidida por el titular de la Unidad Administrativa, de oficio, a petición del Agente del Ministerio Público que solicitó el ingreso de la persona protegida, o cuando se entiendan superadas las circunstancias que motivaron la protección, o por incumplir con las obligaciones asumidas por la persona protegida.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 5.
+III. Establecer en congruencia con la planeación estatal, las políticas generales y definir las prioridades a las que deberá sujetarse el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, relativas a la prestación de los servicios públicos que tienen encomendados;
 
-Competencia
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-La Unidad Administrativa, dependiente de la institución del Ministerio Público del Estado de Sonora, es el órgano encargado de garantizar la protección de los sujetos en situación de riesgo y otorgar, a quienes considere pertinente las medidas de protección necesarias con base en los criterios orientadores; sin perjuicio de las facultades que corresponden a la autoridad judicial, cuando el caso requiera otras medidas que afecten derechos del imputado o cuando se requiera su intervención para el efectivo cumplimiento de las medidas de conformidad con lo establecido en este ordenamiento, el Código Nacional de Procedimientos Penales y las demás leyes aplicables.
+IV. Expedir las normas o bases generales con arreglo a las cuales, el Director General pueda disponer de los activos fijos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, que no correspondan a las operaciones propias objeto del mismo;
 
-###### Artículo 6.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Deber de informar
+V. Aprobar trimestralmente, previo informe del Comisario y dictamen de los auditores externos, los estados financieros del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-El Ministerio Público en la primera entrevista a los intervinientes en el proceso penal, deberá informarles sobre la posibilidad de aplicar medidas para protegerlos, y la importancia de dar aviso sobre cualquier evento que pueda constituir una amenaza o presión por el hecho de su participación en el procedimiento penal.
+VI. Expedir el reglamento interno y sus manuales correspondientes;
 
-###### Artículo 7.
+VII. Proponer al Ejecutivo del Estado, los convenios de fusión con otras entidades o de escisión, según sea el caso;
 
-Obligación de colaboración
+VIII. Autorizar la creación de comités o subcomités técnicos especializados o de comités de apoyo institucional;
 
-Las entidades, los organismos y las dependencias estatales o municipales, así como las instituciones privadas, con los que se haya celebrado convenio, quedan obligados a prestar la colaboración que se requiera para la aplicación de las medidas de protección y asistencia previstas en esta Ley.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Las instancias mencionadas también estarán obligadas a mantener en reserva y estricta confidencialidad toda la información que adquieran en virtud de su participación en las actividades de colaboración que ordena esta Ley.
+IX. Establecer, con sujeción a las disposiciones legales relativas, sin intervención de cualquier otra dependencia, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, requiera para la prestación de sus servicios, con excepción de aquellos inmuebles que la Ley de Bienes del Estado considere como del dominio público;
 
-###### Artículo 8.
+X. Analizar y aprobar, en su caso, los informes que rinda el Director General;
 
-Canalización a servicios sociales
+XI. Acordar con sujeción a las disposiciones legales relativas, la recepción de los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados; y
 
-El Ministerio Público canalizará a los intervinientes del procedimiento penal que se encuentren en riesgo, a los servicios sociales apropiados, para el resguardo y la protección de su integridad física y psicológica.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 9.
+XII. Las demás atribuciones aplicables a las funciones del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, que le sean otorgadas por las leyes de la materia.
 
-Facultades y obligaciones de las autoridades competentes
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-Para el cumplimiento de los objetivos de esta ley, la Unidad Administrativa tiene, sin perjuicio de las que confieren otros ordenamientos, las siguientes facultades y obligaciones:
+###### ARTÍCULO 8.
 
-I.- Otorgar las medidas de protección, en coordinación con el Agente del Ministerio Público respectivo; y escuchando al interesado;
+Las sesiones del Consejo de Administración, serán ordinarias y extraordinarias, las sesiones ordinarias se celebrarán cuando menos trimestralmente, y las extraordinarias, cuando el caso por su extrema urgencia lo requiera, y a petición del Presidente del Consejo de Administración o del Titular del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
 
-II.- Informar al Agente del Ministerio Público sobre la necesidad de solicitar a la autoridad judicial la aplicación o modificación de alguna medida de protección;
+En la primera sesión ordinaria de cada ejercicio, se determinará el calendario de las sesiones ordinarias subsecuentes.
 
-III.- Realizar los estudios técnicos;
+Los acuerdos tomados en las sesiones, serán válidos cuando se encuentre presente la mayoría de sus miembros; en caso de empate, el Presidente tendrá el voto de calidad.
 
-IV.- Mantener un mecanismo de comunicación eficaz que opere las veinticuatro horas del día, con personal especialmente capacitado, para atender a las personas en situación de riesgo;
+En las sesiones del Consejo de Administración se levantará acta circunstanciada, misma que será firmada por los asistentes.
 
-V.- Vigilar que el personal encargado de la protección trate con apego a los derechos humanos a las personas en situación de riesgo;
+Podrán ser invitados a las sesiones del Consejo de Administración, con voz pero sin voto, algunos de los representantes de organizaciones públicas, privadas o sociales, con actividades afines o intereses de carácter general.
 
-VI.- Dar seguimiento a las medias de protección que se impongan;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-VII.- Llevar una estadística de los servicios proporcionados, para el análisis y el mejoramiento del servicio;
+###### ARTÍCULO 9.
 
-VIII.- Elaborar los protocolos para atender las solicitudes de protección;
+El Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será nombrado y removido libremente por el Gobernador Constitucional del Estado, y tendrá las siguientes facultades y obligaciones:
 
-IX.- Requerir a las instancias públicas y privadas la colaboración que sea necesaria para el mejor desarrollo de sus atribuciones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-X.- Asesorar, en materia de protección, a las instancias que participen en la ejecución de las medidas;
+I. Tener la representación legal del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
 
-XI.- Proponer los convenios de colaboración o coordinación con las entidades, organismos, dependencias o instituciones que resulten pertinentes para facilitar la protección de las personas en situación de riesgo, así como la normatividad necesaria para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XII.- Generar proyectos de difusión a la sociedad de las actividades que realiza;
+II. Coordinar las actividades técnicas, administrativas y financieras del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para lograr una mayor eficiencia, eficacia y economía del mismo;
 
-XIII.- Elaborar anualmente los programas de protección a los sujetos en situación de riesgo, así como el presupuesto estimado necesario para su ejecución; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-XIV.- Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+III. Celebrar actos jurídicos de dominio y de administración que sean necesarios para el funcionamiento del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-###### Artículo 10.
+IV. Suscribir convenios y contratos conforme a las leyes y reglamentos de la materia, para la ejecución de las obras autorizadas, así como para realizar las actividades que se requieran para lograr que cumplan con su objeto;
 
-Poder Judicial del Estado de Sonora
+V. Autorizar las erogaciones ordinarias con cargo al presupuesto, y someter a la aprobación del Consejo de Administración, las erogaciones extraordinarias;
 
-Para los efectos de esta Ley, el Poder Judicial del Estado deberá:
+VI. Ejecutar los acuerdos que dicte el Consejo de Administración;
 
-I.- Verificar que el interesado en la protección, conozca sus derechos;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-II.- Dictar las medidas pertinentes para el resguardo de la identidad y otros datos personales de las personas protegidas;
+VII. Proponer ante el Consejo de Administración el Reglamento Interior del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como las modificaciones al mismo;
 
-III.- Canalizar a la Unidad Administrativa a los sujetos que requieran medias para proteger su integridad física y psicológica, que en los términos de esta Ley se encuentren en riesgo; y
+VIII. Ordenar y vigilar que se practiquen en todos los sistemas hidráulicos que administre, en forma regular, muestreos y análisis del agua; llevar estadísticas de sus resultados, tomando las medidas adecuadas para mejorar la calidad del agua que se distribuye a la población, y de la que una vez utilizada, se vierte a los cauces destinados para tal efecto;
 
-IV.- Vigilar que no se violente el ejercicio del derecho de defensa u otros derechos fundamentales, con motivo del cumplimiento de las medidas de protección.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-### CAPÍTULO TERCERO
+IX. Establecer relaciones de coordinación con autoridades federales, estatales o municipales y con toda clase de instituciones políticas, educativas, sociales, públicas o privadas; para el trámite y atención de asuntos de interés del sector en los que se involucre la competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-SANCIONES.
+X. Asistir a las sesiones del Consejo de Administración en calidad de Secretario Técnico del mismo, con voz pero sin voto;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+XI. Nombrar y remover libremente a los servidores públicos de confianza que ocupen cargos en orden descendente, de conformidad con las disposiciones aplicables de la materia;
 
-###### Artículo 28.
+XII. Formular los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-Violación de la reserva.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Quien con la intención de poner en riesgo la seguridad de una persona protegida de conformidad con esta Ley, divulgue o revele información sobre las medidas de protección otorgadas, será sancionada con prisión de dos a cuatro años y de quinientos a mil unidades de medida y actualización.
+XIII. Formular el programa de mejora continua de la gestión pública del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-Cuando el sujeto activo sea servidor público, la pena se incrementara hasta en una tercera parte.
+XIV. Administrar y establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera eficiente y eficaz;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 29.
+XV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-Desacato de la medida de protección ordenada.
+XVI. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar las metas y objetivos propuestos;
 
-A quien estando obligado a ejecutar una medida de protección conforme a esta Ley y no le diere cabal cumplimiento en los términos y condiciones establecidos; será sancionada con prisión de dos a cuatro años y de quinientos a mil unidades de medida y actualización.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Si derivado de la conducta descrita en el párrafo anterior la persona protegida sufriera un daño o lesión en su integridad, libertad o bienes materiales, la pena será de cuatro a ocho años de prisión y se incrementará en una mitad si se produjere la muerte.
+XVII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de los servicios del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-## TRANSITORIOS
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-###### ARTÍCULO PRIMERO.
+XVIII. Establecer un sistema de indicadores que permita evaluar la gestión del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, en los términos establecidos en el artículo único del Decreto número 05, que Declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, publicado en el Boletín Oficial número 31, sección III, el día jueves 15 de octubre de 2015.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-SEGUNDO.- Se derogan todas las disposiciones que contravengan la presente Ley.
+XIX. Presentar periódicamente al Consejo de Administración el informe del desempeño de las actividades del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
 
-Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 10 de diciembre de 2015. C. RAFAEL BUELNA CLARK, DIPUTADO PRESIDENTE.- RÚBRICA.- C. KARMEN A. DÍAZ BROWN OJEDA, DIPUTADA SECRETARIA.- RÚBRICA.- C. R. CAROLINA LARA MORENO, DIPUTADA SECRETARIA.- RÚBRICA.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
+XX. Establecer los mecanismos de autoevaluación, de acción y procedimientos para alcanzar la meta del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Consejo y escuchando al Comisario;
 
-Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diez días de diciembre del año dos mil quince.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+XXI. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-B.O. 3 DE AGOSTO DE 2017.
+XXII. Formular querellas y otorgar perdón legal, previa autorización del Consejo de Administración;
 
-###### Artículo 11.
+XXIII. Ejercitar y desistirse de acciones administrativas y judiciales, inclusive del Juicio de Amparo, previa autorización del Consejo de Administración;
 
-Criterios orientadores para el otorgamiento de las medidas de protección
+XXIV. Comprometer asuntos de arbitraje y celebrar transacciones, previa autorización del Consejo de Administración;
 
-Las medidas a que se refiere la presente Ley, serán aplicadas por el Titular de la Unidad Administrativa, y en el caso de las contenidas en el artículo 137 del Código Nacional de Procedimientos Penales, autorizadas por el Juez de Control en Audiencia cinco días después de su imposición, atendiendo a los siguientes criterios orientadores y al resultado del estudio técnico:
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-I.- La presunción de un riesgo para la integridad de las personas protegidas, a consecuencia de su participación y/o conocimiento del procedimiento;
+XXV. Otorgar a los abogados adscritos al área jurídica del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, poderes especiales o generales para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales para actos de dominio y administración;
 
-II.- La viabilidad de la aplicación de las medidas de protección;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-III.- La urgencia del caso;
+XXVI. Delegar sus facultades al titular del área jurídica previo acuerdo que deberá publicarse en el Periódico Oficial del Gobierno del Estado;
 
-IV.- La trascendencia de la intervención de la persona a proteger, en el procedimiento penal;
+XXVII. Sustituir y revocar poderes generales o especiales;
 
-V.- La vulnerabilidad de la persona a proteger; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-VI.- Otros que justifiquen las medidas.
+XXVIII. Realizar los estudios previos necesarios, que fundamenten y permitan la elaboración de cuotas y tarifas apropiadas para la prestación de los servicios públicos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, mismos que deberá someterlos a la aprobación del Consejo de Administración;
 
-###### Artículo 12.
+XXIX. Determinar y liquidar créditos fiscales con sus accesorios respectivos e imponer multas y en su caso hacerlos efectivos mediante el Procedimiento Administrativo de Ejecución;
 
-Catálogo de medidas de protección
+Para lo anterior se aplicará de manera supletoria a esta Ley el Código Fiscal para el Estado de Oaxaca y demás ordenamientos fiscales aplicables;
 
-Las medidas de protección de carácter provisional o permanente podrán ser, entre otras, las siguientes:
+XXX. Elaborar y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-I.- La custodia personal o del domicilio, mediante la vigilancia directa o a través de otros medios;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-II.- El desalojo del imputado o sentenciado del domicilio de la persona protegida, cuando se trate de delitos sexuales o de violencia intrafamiliar;
+XXXI. Realizar las acciones conducentes a la ejecución de programas estatales y federalizados y todas aquellas inherentes al cumplimiento del objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-III.- El alojamiento temporal en lugares reservados o en centros de protección;
+XXXII. Desarrollar acciones que conlleven al uso eficiente del agua, así como de la infraestructura existente, procurando que los usuarios eviten el desperdicio de la misma;
 
-IV.- La prevención a las personas que generen un riesgo para que se abstengan de acercarse a cualquier lugar donde se encuentre la persona protegida;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-V.- El traslado con custodia a las dependencias donde se deba practicar alguna diligencia o a su domicilio;
+XXXIII. Aplicar las sanciones por las infracciones que cometan los usuarios y que sean competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y su zona metropolitana, mismas que se detallarán en el Reglamento de la Presente Ley;
 
-VI.- Las consultas telefónicas periódicas de la policía a la persona protegida;
+XXXIV. Certificar al personal capacitado, en las áreas de construcción de redes de agua potable, drenaje y alcantarillado; y
 
-VII.- Los botones de emergencia o seguridad, en el domicilio de la persona protegida o alarmas de ruido;
+XXXV. Las demás que le confieran las leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
-VIII.- El aseguramiento del domicilio de la persona protegida;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-IX.- El suministro de los recursos económicos para alojamiento, transporte, alimentos, comunicación, atención sanitaria, mudanza, reinserción laboral, servicios de educación, trámites, sistemas de seguridad, acondicionamiento de vivienda y demás gastos indispensables, dentro o fuera del Estado o del país, mientras la persona beneficiaria se halle imposibilitada de obtenerlos por sus propios medios;
+###### ARTÍCULO 10.
 
-X.- El cambio de domicilio, dentro o fuera del territorio estatal o nacional;
+Para ser Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se deberán contar con los siguientes requisitos:
 
-XI.- El traslado con custodia de los sujetos protegidos;
+I. Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos políticos;
 
-XII.- La entrega inmediata de objetos de uso personal y documentos de identidad que tuviera en su posesión el imputado;
+II. No encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno, señalado en el artículo 11 párrafo cuarto, de la Ley de Entidades Paraestatales del Estado de Oaxaca; y
 
-XIII.- Proveer los servicios necesarios para asistir a la persona protegida; y
+III. No desempeñar ningún otro empleo, cargo o comisión, incompatible con la Dirección General, por cuestión de función y de materia, a excepción de las relacionadas con la beneficencia.
 
-XIV.- El uso de métodos que imposibiliten la identificación visual o auditiva de la persona protegida, en las diligencias en que intervenga. La aplicación de esta medida no deberá coartar la defensa adecuada del imputado.
+### CAPÍTULO III. DISPOSICIONES GENERALES
 
-Lo anterior, sin perjuicio de las medidas establecidas en el Código Nacional de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-###### Artículo 13.
+###### ARTÍCULO 11.
 
-Resguardo de la identidad y otros datos personales
+El Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para la prestación de los servicios públicos que son materia de su objeto, observará lo dispuesto en la presente Ley, su Reglamento, y demás disposiciones relativas y aplicables en la materia.
 
-El resguardo de la identidad y de otros datos personales es una medida de protección a cargo de todas las autoridades involucradas en el procedimiento penal, especialmente del Ministerio Público y del Poder Judicial, y se impondrá invariablemente desde la primera actuación hasta el final del procedimiento, o hasta que se considere conveniente, para los intervinientes, testigos y sus allegados, en los casos de:
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-a).- Víctimas u ofendidos menores de edad;
+###### ARTÍCULO 12.
 
-b).- Violación;
+Los servidores públicos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, ejecutarán las actividades y comisiones que se les ordenen y tendrán las facultades administrativas que les delegue el Consejo de Administración o el Director General; el personal técnico, administrativo y demás servidores públicos, estará (sic) bajo las órdenes del Director General y jefes inmediatos que determine el estatuto orgánico, el manual de organización, el organigrama, el reglamento interno, y las leyes aplicables a la prestación de servicios profesionales.
 
-c).- Trata de personas;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
-d).- Secuestro o delincuencia organizada; y
+###### ARTÍCULO 13.
 
-e).- Cuando el juzgador lo estime necesario para la protección de la víctima o el ofendido.
+Las relaciones laborales y de seguridad social de los trabajadores de base del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, serán respetadas en los términos y condiciones que se han venido prestando y reconociendo sus derechos laborales y de seguridad social adquiridos, mismas que se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado; así como la Ley de Pensiones para los Trabajadores del Gobierno del Estado de Oaxaca, reglamentos, minutas, Normatividad en Materia de Recursos Humanos de las Dependencias y Entidades Paraestatales de la Administración Pública del Estado y convenios contractuales que tiene celebrados el Ejecutivo del Estado con el Sindicato de Trabajadores de los Poderes del Estado e Instituciones Descentralizadas de Carácter Estatal.
 
-###### Artículo 14.
+Las personas que ingresen a ocupar plazas vacantes de base estarán sujetas a las leyes y normatividad vigentes señaladas en el párrafo anterior.
 
-Protección en los centros o establecimientos penitenciarios
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-Tratándose de personas protegidas que se encuentren recluidas en prisión preventiva o en ejecución de sentencia, se tomarán las siguientes medidas:
+###### ARTÍCULO 14.
 
-I.- Su separación de la población general de la prisión, asignándolas a áreas especiales dentro del centro o establecimiento penitenciario; o trasladándolas a otro con las mismas o superiores medidas de seguridad;
-
-II.- Otras que se consideren necesarias para garantizar la protección de dichas personas; y
-
-III.- Las que específicamente refiere la Ley de Ejecuciones Penales y Medidas de Seguridad del Estado de Sonora.
+El Organismo Operador Publico Sistema Operador de los Servicios de Agua Potable y Alcantarillado, gozará de las franquicias y prerrogativas concedidas a los fondos y bienes del Estado, los bienes inmuebles y muebles, así como los contratos que celebre el mismo, debiendo pagar toda clase de impuestos y derechos estatales.
 
 ### CAPÍTULO IV. DEL CONSEJO CIUDADANO DEL AGUA
 
-###### Artículo 15.
+###### ARTÍCULO 15.
 
-Derechos de la persona protegida
+El Consejo Ciudadano tendrá el carácter de Órgano de consulta, su cargo será honorifico y estará integrado por:
 
-Además de los establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales y la demás legislación aplicable, toda persona protegida tendrá los siguientes derechos:
+I. Un Presidente, que será un Ciudadano de reconocido prestigio, y con aportaciones a la sociedad en cuestiones ambientales, en materia Hídrica, entendiendo por esto Agua Potable, Alcantarillado y Saneamiento, que será elegido por el Consejo de Administración a propuesta de su Presidente;
 
-I.- A que en todo momento se respeten sus derechos humanos;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-II.- A recibir, en forma gratuita, asistencia psicológica, psiquiátrica, jurídica, social o médica, cuando sea necesario;
+II. Un Secretario Ejecutivo, que será el Director del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-III.- A que se le gestione una ocupación laboral estable o una contraprestación económica razonable, cuando la medida de protección otorgada implique la separación de su actividad laboral;
+III. Tres Consejeros Ciudadanos, electos por el Consejo de Administración a propuesta de su Presidente; y
 
-IV.- A que no se capten ni transmitan imágenes de su persona ni de los sujetos con los que tenga vínculo de parentesco o algún tipo de relación afectiva, que permitan su identificación como persona protegida. La autoridad judicial competente, de oficio o a solicitud del Ministerio Público o del interesado, ordenará la retención y el retiro del material fotográfico, cinematográfico, videográfico, o cualquier tipo que contenga imágenes de alguno de aquéllos; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-V.- A ser escuchada antes de que se le apliquen, modifiquen o revoquen medidas de protección.
+IV. Cinco invitados Permanentes, Secretario de Gobierno, Secretario de Administración, Secretario de Finanzas, Secretario de Infraestructuras y Comunicaciones, Director de la Comisión Estatal del Agua para el Bienestar, quienes en la primer sesión podrán designar a su suplente.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-Obligaciones de la persona protegida
+Serán invitados ciudadanos del área metropolitana por el Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, a formar parte del mismo, debiendo ser ciudadanos que cuenten con reconocido prestigio por sus aportaciones en la solución de problemas del agua potable, alcantarillado y tratamiento de aguas residuales, el desarrollo sustentable de los mismos, debiendo de contar con un periodo de residencia al menos de seis años dentro del Municipio de Oaxaca de Juárez y zonas metropolitanas.
 
-La persona protegida tendrá las obligaciones siguientes:
+El Consejo Ciudadano del Agua, estará integrado por comisiones de trabajo que serán agua potable, alcantarillado, saneamiento, cultura del agua, coordinación intergubernamental, y/o las que se consideren necesarias para su objeto.
 
-I.- Colaborar con la procuración y la administración de justicia, siempre que legalmente esté obligada a hacerlo;
+###### ARTÍCULO 16.
 
-II.- Cumplir con las instrucciones y órdenes que se le hayan dado para proteger sus derechos;
+Corresponden al Consejo Ciudadano del Agua las siguientes obligaciones:
 
-III.- Mantener absoluta y estricta confidencialidad respecto de su situación de protección y de las medidas de protección que se le apliquen;
+I. Proporcionar información en materia de agua potable, alcantarillado y tratamiento de aguas residuales; y
 
-IV.- No divulgar información sobre los lugares de atención o protección de su persona o de otras personas protegidas;
+II. Promover tareas de concertación y actividades de colaboración en materia de agua potable y alcantarillado entre la ciudadanía y el Gobierno.
 
-V.- No revelar ni utilizar la información relativa a los programas de protección para obtener ventajas en provecho propio o de terceros;
+En ningún caso los miembros del Consejo podrán recabar a nombre propio o del Consejo fondos o solicitar cooperación económica para finalidad alguna.
 
-VI.- Someterse al estudio técnico a que se refiere esta Ley;
+###### ARTÍCULO 17.
 
-VII.- Atender las recomendaciones que le formulen en materia de seguridad;
+Las sesiones del Consejo Ciudadano del Agua, serán sesiones públicas, los consejeros ciudadanos tendrán derecho a voz y voto; el Presidente del Consejo tendrá derecho a voto de calidad en caso de empate, las sesiones tendrán carácter periódico, la convocatoria será propuesta por el Presidente, con cinco días hábiles de anticipación, tratándose de sesión ordinaria, y de un día natural, si se trata de sesión extraordinaria, indicando en cada caso, lugar, fecha y hora, en que se llevará a cabo la sesión, los invitados permanentes podrán solicitar al Presidente del Consejo la convocatoria a sesiones extraordinarias en caso de requerirse.
 
-VIII.- Abstenerse de concurrir a lugares que impliquen algún riesgo para su persona;
+T R A N S I T O R I O S.
 
-IX.- Abstenerse de frecuentar personas que puedan poner en riesgo su seguridad o la de las personas con las que tiene vínculos de parentesco o algún tipo de relación afectiva;
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-X.- Respetar a las autoridades y a todo el personal encargado de su protección;
+SEGUNDO. Se abroga el decreto 356 por el que se crea el Órgano Desconcentrado del Poder Ejecutivo denominado Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.), así mismo hasta el momento de la publicación de la reforma a la Ley Estatal de Derechos, en su ordenamiento 99, por la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.) se entenderá como Organismo Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
 
-XI.- Informar a la autoridad de la medida impuesta, con el fin de que se valore su continuación o suspensión; y
+TERCERO. A la entrada en vigor de la presente Ley, el Personal Humano, los Recursos Materiales e Infraestructura, pertenecientes a la Administración Directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca (A.D.O.S.A.P.A.C.O.), quedarán adscritos al Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, los Municipios a quienes se da la prestación de Servicio de Agua y Alcantarillado, quedarán adscritos al Organismo Operador Publico denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
 
-XII.- Las demás que les sean impuestas.
+CUARTO. Las relaciones laborales y de seguridad social de los trabajadores del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca, serán respetadas íntegramente como se venían ejerciendo, al momento de la entrada en vigor del presente Decreto.
 
-La Persona Protegida, será responsable de las consecuencias que se deriven, cuando por sus actos infrinja las normas que el programa le impone. En consecuencia, debe respetar las obligaciones a que se compromete al suscribir el convenio.
+QUINTO. A partir de la entrada en vigor del presente Decreto, las personas que ingresen a ocupar plazas vacantes de base estarán sujetas a las leyes y normatividad vigente señaladas en el transitorio anterior.
 
-###### Artículo 17.
+SEXTO. La Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable y la Administración directa de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca, llevarán a cabo los trámites correspondientes para la transferencia de sus atribuciones y estructura organizacional, debiendo contemplar en sus programas operativos anuales, para el ejercicio fiscal 2014 dichas modificaciones, en coordinación con las Secretarías de Finanzas, de Administración y de Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, sin que haya lugar a afectarse las prestaciones o condiciones laborales adquiridos por los trabajadores de base de la Administración de Obras y Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca.
 
-Condiciones y suspensión de las medidas de protección
+SÉPTIMO. En un plazo no mayor a treinta días naturales contados a partir de la aprobación del presente decreto; el Ejecutivo del Estado deberá publicar el Reglamento de la presente Ley.
 
-La aplicación de las medidas de esta Ley estará condicionada, en todo caso, a la aceptación por parte de la persona protegida, tanto de las medidas de protección como de las condiciones a que se refiere el artículo anterior y las que en cada caso concreto se determinen.
+OCTAVO. Se derogan aquellas disposiciones que se opongan a la presente ley.
 
-Las medidas de protección se suspenderán o revocarán cuando la persona protegida incumpla con cualquiera de las condiciones aceptadas, se haya conducido con falsedad, haya ejecutado un delito doloso durante la permanencia en el Programa o se niegue a declarar en el procedimiento por el que se les brindó la protección.
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 "QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PUBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA".]
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 31 de octubre de 2013.
 
-###### ARTÍCULO ÚNICO.
+DIP. MAXIMINO VARGAS BETANZOS.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+PRESIDENTE.
+
+DIP. GUILLERMO BERNAL GÓMEZ.
+
+SECRETARIO.
+
+DIP. CLARIVEL CONSTANZA RIVERA CASTILLO.
+
+SECRETARIA.
+
+DIP. MARGARITA GARCÍA GARCÍA.
+
+SECRETARIA.
+
+Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Palacio de Gobierno, Centro, Oax., a 06, de noviembre del 2013.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+LIC. GABINO CUÉ MONTEAGUDO.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+Y lo comunico a usted, para su conocimiento y fines consiguientes.
+
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
+
+"EL RESPETO AL DERECHO AJENO ES LA PAZ"
+
+Tlalixtac de Cabrera, Centro, Oax., a 06 de noviembre del 2013.
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+Al C.
+
+NOTA: Las presentes firmas corresponden al Decreto número 2070, con el que la Sexagésima Primera Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, aprueba la Ley del Organismo Operador Público Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 680.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVI; Y SE ADICIONAN LAS FRACCIONES XVII, XVIII Y XIX RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 3 DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca Decreto.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
