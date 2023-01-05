@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-civil-y-gestion-integral-de-riesgos-de-105074
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2021-12-04"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -115,7 +115,9 @@ XIV. Comité Hospitalario: al Comité Hospitalario que se forme en los hospitale
 
 XV. Continuidad de Operaciones: al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un fenómeno perturbador, puedan continuar funcionando de manera parcial, recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XVI. Coordinación Estatal: a la Coordinación Estatal de Protección Civil de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+XVI. Coordinación Estatal: a la Coordinación Estatal de Protección Civil y Gestión de Riesgos;
 
 XVII. Coordinación Municipal: a la Coordinación Municipal de Protección Civil;
 
@@ -221,7 +223,9 @@ LXVII. Riesgo Inminente: aquel riesgo que según la opinión de una instancia t�
 
 LXVIII. Reglamento: al Reglamento de esta Ley;
 
-LXIX. Secretaría: a la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+LXIX. Secretaría: a la Secretaría de Gobierno;
 
 LXX. Simulacro: representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
 
@@ -429,7 +433,9 @@ El Sistema Estatal estará integrado por:
 
 I. El Consejo Estatal de Protección Civil;
 
-II. La Coordinación Estatal de Protección Civil;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+II. La Coordinación Estatal de Protección Civil y Gestión de Riesgos;
 
 III. Las Delegaciones Regionales de Protección Civil;
 
@@ -457,9 +463,11 @@ Igualmente, en cada uno de sus ámbitos se asegurarán del correcto funcionamien
 
 El Coordinador Estatal con sustento en las Leyes y disposiciones locales, propiciará una distribución estratégica de las tareas entre las Delegaciones Regionales ubicadas con criterios basados en la localización de los riesgos, necesidades y recursos disponibles.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### Artículo 22.
 
-La coordinación ejecutiva del Sistema Estatal recaerá en la Secretaría General de Gobierno, a través de la Coordinación Estatal, la cual tendrá las atribuciones que le confieren la presente Ley y su Reglamento.
+La coordinación ejecutiva del Sistema Estatal recaerá en la Secretaría de Gobierno, a través de la Coordinación Estatal, la cual tendrá las atribuciones que le confieren la presente Ley y su Reglamento.
 
 ### CAPÍTULO III. DEL CONSEJO ESTATAL DE PROTECCIÓN CIVIL
 
@@ -475,11 +483,13 @@ El Consejo Estatal estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario General de Gobierno, quien fungirá como Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+II. El Secretario de Gobierno, quien fungirá como Secretario Ejecutivo;
 
-III. El Coordinador Estatal de Protección Civil de Oaxaca, quien fungirá como Secretario Técnico;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+III. El Coordinador Estatal de Protección Civil y Gestión de Riesgos, quien fungirá como Vocal Ejecutivo;
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -779,13 +789,15 @@ El Consejo Consultivo podrá recibir la colaboración de otras dependencias y en
 
 La Coordinación Estatal prestará al Consejo Consultivo la colaboración necesaria para el ejercicio de sus funciones.
 
-### Capítulo IV. De la Coordinación Estatal de Protección Civil
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+### Capítulo IV. De la Coordinación Estatal de Protección Civil y Gestión de Riesgos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### Artículo 33.
 
-Se crea la Coordinación Estatal de Protección Civil de Oaxaca, como un organismo público descentralizado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría General de Gobierno, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
+Se crea la Coordinación Estatal de Protección Civil y Gestión de Riesgos, como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Gobierno, con domicilio en la Ciudad de Oaxaca de Juárez y Delegaciones Regionales en el interior del Estado; tendrá a su cargo la organización, coordinación y operación del Sistema Estatal de Protección Civil; sus acciones se apoyarán en la presente Ley, su Reglamento y demás normas aplicables; siendo una entidad paraestatal con ámbito competencial en todo el Estado, con facultades normativas, ejecutivas y de coordinación en materia de prevención de riesgos, de desastres y protección civil.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS, FRACCIONES Y NUMERALES], P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -803,7 +815,9 @@ B). La Junta Directiva será la máxima autoridad de la Coordinación Estatal.
 
 1. Estará integrada por:
 
-I. Un Presidente, que será el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Un Presidente, que será el Secretario de Gobierno;
 
 II. Un Secretario Técnico, que será el Coordinador Estatal;
 
@@ -813,15 +827,21 @@ Vocal A, el Titular de la Secretaría de Finanzas;
 
 Vocal B, el Titular de la Secretaría de Administración;
 
-Vocal C, el Titular de la Secretaría de Seguridad Pública;
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-Vocal D, el Titular de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+Vocal C, el Titular de la Secretaría de Seguridad y Protección Ciudadana;
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+Vocal D, el Titular de la Secretaría de Infraestructuras y Comunicaciones;
 
 Vocal E, el Titular de la Secretaría de Salud;
 
 Vocal F, el Titular de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-1. Un Comisario, que será el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+1. Un Comisario, que será el Titular de la Secretaría de Honestidad, Transparencia y Función Pública;
 
 2. Cada miembro propietario de la Junta Directiva designará un suplente mediante oficio dirigido al Presidente de la Junta Directiva; siempre que el Suplente no esté impedido legalmente para ese efecto, cuyo cargo será indelegable, por lo que no se podrán acreditar representantes de éste en las sesiones de la Junta Directiva.
 
@@ -835,7 +855,9 @@ Los integrantes de la Junta Directiva desempeñarán su cargo de manera honoríf
 
 3. La Junta Directiva tendrá las siguientes atribuciones indelegables:
 
-I. Autorizar la publicación del Reglamento Interno previa revisión y validación de la Secretaria de Administración y Consejería Jurídica del Gobierno del Estado, así como la publicación de los manuales de organización y procedimientos de la Coordinación Estatal, previa revisión y validación de la Secretaría de Administración.
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Autorizar la publicación del Reglamento Interno previa revisión y validación de la Secretaría de Administración y Consejería Jurídica y Asistencia Legal del Gobierno del Estado, así como la publicación de los manuales de organización y procedimientos de la Coordinación Estatal, previa revisión y validación de la Secretaría de Administración.
 
 II. Aprobar los planes y programas de trabajo de la Coordinación Estatal, así como sus modificaciones;
 
@@ -895,7 +917,9 @@ III. Celebrar los contratos, convenios y demás actos jurídicos inherentes al o
 
 IV. Dar cumplimiento a los Planes, Programas y Acuerdos aprobados por la Junta Directiva;
 
-V. Presentar ante la Junta Directiva para su autorización y su publicación en el Periódico Oficial del Gobierno del Estado, el proyecto de Reglamento Interno de la Coordinación Estatal, los manuales de organización y procedimientos, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+V. Presentar ante la Junta Directiva para su autorización y su publicación en el Periódico Oficial del Gobierno del Estado, el proyecto de Reglamento Interno de la Coordinación Estatal, los manuales de organización y procedimientos, previa revisión y validación de la Secretaría de Administración y la Consejería Jurídica y Asistencia Legal del Gobierno del Estado;
 
 VI. Presentar ante la Junta Directiva y demás autoridades que señalen las disposiciones normativas aplicables, los estados financieros que le permitan conocer de manera permanente la situación financiera, operativa y administrativa de la Coordinación Estatal;
 
@@ -1109,9 +1133,9 @@ LV.- Expedir nombramientos internos y honoríficos de los delegados regionales d
 
 LVI. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-Artículo 35 bis. La Coordinación Estatal coordinará esfuerzos con la Secretaría de Seguridad Pública y los ayuntamientos de los municipios para la implementación de los cuerpos de bomberos municipales.
+Artículo 35 bis. La Coordinación Estatal coordinará esfuerzos con la Secretaría de Seguridad y Protección Ciudadana y los ayuntamientos de los municipios para la implementación de los cuerpos de bomberos municipales.
 
 ###### Artículo 36.
 
@@ -1563,11 +1587,11 @@ Con excepción de aquellos que se lleven a cabo en los autódromos y lugares leg
 
 Las políticas, bases y lineamientos específicos para la elaboración de los Programas Internos y Especiales estarán determinados por la Coordinación Estatal en términos de esta Ley, su Reglamento y demás normas aplicables.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### Artículo 74.
 
-Las autoridades competentes deberán solicitar al interesado, el reporte de Análisis de riesgos emitido por la Coordinación Estatal y la autorización en materia de impacto ambiental emitido por la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, antes del otorgamiento de la licencia de construcción para los inmuebles referidos en los artículos 68, 69 y 71 de ésta Ley.
+Las autoridades competentes deberán solicitar al interesado, el reporte de Análisis de riesgos emitido por la Coordinación Estatal y la autorización en materia de impacto ambiental emitido por la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad, antes del otorgamiento de la licencia de construcción para los inmuebles referidos en los artículos 68, 69 y 71 de ésta Ley.
 
 ###### Artículo 75.
 
@@ -1839,11 +1863,11 @@ El Gobierno del Estado deberá identificar, concentrar, sistematizar y difundir 
 
 Se considerará como una falta grave el permiso que otorguen las autoridades municipales o agrarias para la construcción, edificación, realización de obras de infraestructura y los asentamientos humanos que se lleven a cabo en una zona determinada sin elaborar un análisis de riesgos y, en su caso, definir las medidas para su reducción, tomando en consideración la normatividad aplicable y los Atlas Municipales y Estatal y no cuenten con la autorización de la autoridad correspondiente. Lo anterior con independencia de las sanciones penales que la normatividad aplicable establezca.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
 ###### Artículo 108.
 
-En el Atlas Estatal de Riesgos deberán establecerse los diferentes niveles de peligro, vulnerabilidad y riesgo para todos los fenómenos que influyan en las distintas zonas, vinculados con la Ley de cambio climático para el Estado de Oaxaca. Dichos instrumentos así como el Dictamen de riesgo y vulnerabilidad emitido por la Coordinación Estatal y la autorización en materia de impacto ambiental emitido por la Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable, deberán ser tomados en consideración por las autoridades competentes para la autorización u otorgamiento de la Licencia de Construcción de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
+En el Atlas Estatal de Riesgos deberán establecerse los diferentes niveles de peligro, vulnerabilidad y riesgos para todos los fenómenos que influyan en las distintas zonas, vinculados con la Ley de cambio climático para el Estado de Oaxaca. Dichos instrumentos así como el Dictamen de riesgo y vulnerabilidad emitido por la Secretaría de Medio Ambiente, Biodiversidad, Energías y Sostenibilidad, deberán ser tomados en consideración por las autoridades competentes para la autorización u otorgamiento de la Licencia de Construcción de cualquier tipo de construcciones, obras de infraestructura o asentamientos humanos.
 
 ###### Artículo 109.
 
@@ -2206,3 +2230,27 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
