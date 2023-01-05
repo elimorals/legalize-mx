@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-6337
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-06"
-last_updated: "2021-02-25"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de septiembre de 2008.
 
@@ -613,6 +613,10 @@ En las ausencias temporales, los secretarios ejecutivos, serán sustituidos por 
 
 Los titulares o encargados de los secretariados certificarán, además de los documentos generados directamente en su oficina, los de las Comisiones de las que dependan y todos aquellos que consten en los expedientes de los órganos bajo su adscripción.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2023)</small>
+
+Asimismo, podrán certificar incluso con firma digital autorizada, los expedientes o constancias que se digitalicen por sistemas o medios electrónicos.
+
 ###### Artículo 50.
 
 Corresponde al secretario ejecutivo de pleno y carrera judicial, certificar los documentos del Pleno y los de los órganos auxiliares, con excepción de lo señalado en la Ley Orgánica respecto del Archivo Judicial; cuando un secretario ejecutivo se encuentre ausente, cualquiera de los restantes certificará en su lugar.
@@ -691,7 +695,9 @@ VI. Realizar las acciones necesarias, para el pago de remuneraciones al personal
 
 VII. Aplicar los descuentos, deducciones, compensaciones, retenciones o embargos a los salarios de los trabajadores, conforme a los términos de la legislación aplicable y en su caso a instrucción expresa de autoridad competente;
 
-VIII. Expedir las constancias y hojas de servicio del personal;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+VIII. Expedir las constancias y hojas de servicio del personal y, en tratándose de documentos digitalizados por sistemas o medios electrónicos, realizar la certificación respectiva, y en su caso con firma digital autorizada;
 
 IX. Coadyuvar con el área de Recursos Financieros en la elaboración del proyecto de presupuesto de egresos, en lo relativo al capítulo de servicios personales;
 
@@ -3776,3 +3782,13 @@ P.O. 25 DE FEBRERO DE 2021.
 PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, entrará en vigor a partir del 10 diez de febrero de 2021 dos mil veintiuno, con independencia de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Désele la más amplia difusión al contenido de la presente reforma en el portal de transparencia del Poder Judicial del Estado y en la Gaceta Judicial.
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE "REFORMA AL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA".]
+
+PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, entrará en vigor a partir del día siguiente de su aprobación, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a dicha reforma y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
+
+TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado y désele la más amplia publicidad en el portal de "Transparencia del Estado" y en la página de internet del Poder Judicial del Estado.
