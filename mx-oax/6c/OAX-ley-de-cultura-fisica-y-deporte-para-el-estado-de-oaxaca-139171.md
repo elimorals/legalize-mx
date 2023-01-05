@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-cultura-fisica-y-deporte-para-el-estado-de-oaxaca-139171
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-22"
-last_updated: "2021-10-16"
+last_updated: "2023-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el martes 22 de octubre de 2019.
 
@@ -47,9 +47,11 @@ LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en todo el Estado, reglamenta en el ámbito de su competencia el derecho a la cultura física y el deporte; previsto en el artículo 12, de la Constitución Política del Estado Libre y Soberano de Oaxaca, reglamenta el derecho que tiene toda persona a la práctica del deporte y a la cultura física, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto del Instituto de Cultura Física y Deporte de Oaxaca, las Autoridades Municipales, así como los sectores social y privado en términos de la Ley General de Cultura Física y Deporte.
+La presente Ley es de orden público e interés social y de observancia general en todo el Estado, reglamenta en el ámbito de su competencia el derecho a la cultura física y el deporte; previsto en el artículo 12, de la Constitución Política del Estado Libre y Soberano de Oaxaca, reglamenta el derecho que tiene toda persona a la práctica del deporte y a la cultura física, correspondiendo su aplicación en forma concurrente al Ejecutivo Estatal, por conducto del Instituto del Deporte, las Autoridades Municipales, así como los sectores social y privado en términos de la Ley General de Cultura Física y Deporte.
 
 ###### Artículo 2.
 
@@ -237,7 +239,9 @@ VIII. CONDE: Los Consejos Nacionales del Deporte Estudiantil;
 
 IX. INDET: La Delegación Estatal del Instituto del Deporte de los Trabajadores;
 
-X. Instituto: El Instituto de Cultura Física y Deporte de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+X. Instituto: El Instituto del Deporte;
 
 XI. Ley: La Ley de Cultura Física y Deporte para el Estado de Oaxaca;
 
@@ -311,9 +315,11 @@ El Estado y sus Municipios fomentarán la cultura física y el deporte de confor
 
 Lo no establecido por esta Ley, se estará a lo dispuesto por la Ley General y su Reglamento.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### Artículo 19.
 
-Las dependencias y entidades de la administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán apoyar al Instituto De Cultura Física Y Deporte De Oaxaca; en el ejercicio de sus atribuciones.
+Las dependencias y entidades de la administración pública estatal y municipal, en el ámbito de sus respectivas competencias deberán apoyar al Instituto del Deporte; en el ejercicio de sus atribuciones.
 
 ###### Artículo 20.
 
@@ -321,19 +327,25 @@ Las entidades operativas del Sistema Deportivo Estatal cumplen una función de i
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE CULTURA FÍSICA Y DEPORTE
 
-### CAPÍTULO I. DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DE OAXACA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2023)</small>
+
+### CAPÍTULO I. DEL INSTITUTO DEL DEPORTE
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+
 ###### Artículo 21.
 
-El Instituto de Cultura Física y Deporte de Oaxaca, es un órgano púbico (sic) descentralizado, con personalidad jurídica, patrimonio propio, sectorizado a la Secretaría de Desarrollo Social y Humano, autonomía técnica, funcional y de gestión para el cumplimiento de sus objetivos, teniendo a su cargo el cumplimiento de la presente Ley.
+El Instituto del Deporte, es un órgano púbico (sic) descentralizado, con personalidad jurídica, patrimonio propio, sectorizado a la Secretaría de Bienestar, Tequio e Inclusión, con autonomía técnica, funcional y de gestión para el cumplimiento de sus objetivos, teniendo a su cargo el cumplimiento de la presente Ley.
 
 Que tiene por objeto promover, estimular y fomentar el desarrollo de la cultura física y el deporte en el Estado, cumpliendo los objetivos, estrategias y líneas de acción de los ejes estratégicos de los Planes Estatal y Nacional de Desarrollo que en materia de cultura física (sic) deporte sean de su competencia, o bien, se relacionen directamente con el objeto del Instituto para su cumplimiento. Tendrá su domicilio en la Ciudad de Oaxaca de Juárez, Oaxaca.
 
 Para la eficiente atención de sus asuntos, el Instituto contará con el personal, las unidades administrativas y delegaciones que considere necesarias, para el cumplimiento de su objeto, conforme al presupuesto aprobado y ejercerá sus atribuciones conforme a lo previsto en esta Ley, y demás disposiciones aplicables.
 
-El proyecto de presupuesto del Instituto de Cultura Física y Deporte de Oaxaca será elaborado por el propio Instituto, con sujeción a las disposiciones contenidas en el Presupuesto de Egresos correspondiente a su ejercicio fiscal y será enviado a la Secretaría de Finanzas para su revisión y en su caso aprobación para su incorporación, en los términos de los criterios generales de política económica, en el Proyecto de Presupuesto de Egresos del Gobierno del Estado. Una vez aprobado su presupuesto, el Instituto lo ejercerá directamente.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+El proyecto de presupuesto del Instituto del Deporte será elaborado por el propio Instituto, con sujeción a las disposiciones contenidas en el Presupuesto de Egresos correspondiente a su ejercicio fiscal y será enviado a la Secretaría de Finanzas para su revisión y en su caso aprobación para su incorporación, en los términos de los criterios generales de política económica, en el Proyecto de Presupuesto de Egresos del Gobierno del Estado. Una vez aprobado su presupuesto, el Instituto lo ejercerá directamente.
 
 En ningún caso, el presupuesto que se asigne al Instituto podrá ser inferior al asignado en el ejercicio inmediato anterior.
 
@@ -525,7 +537,9 @@ III. Consejo Estatal de Cultura Física y Deporte.
 
 La Junta de Gobierno es el órgano supremo de autoridad del Instituto y se integrará por:
 
-I. Un Presidente, que será el Titular de la Secretaría, con voz y voto;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Un Presidente, que será el Titular de la Secretaría de Bienestar, Tequio e Inclusión, con voz y voto;
 
 II. Un Secretario Técnico, que será el Director General del Instituto con voz;
 
@@ -539,7 +553,9 @@ c) Coordinación General del Comité Estatal de Planeación para el Desarrollo d
 
 d) Instituto Estatal de Educación Pública de Oaxaca, con voz y voto;
 
-e) Secretaría de la Contraloría y Transparencia Gubernamental, con voz.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+e) Secretaría de Honestidad, Transparencia y Función Pública, con voz.
 
 La calidad de integrante de la Junta de Gobierno será honorífica y durará hasta en tanto se desempeña el cargo público por el que se tiene tal carácter.
 
@@ -681,15 +697,21 @@ III. Los titulares o representante de las dependencias gubernamentales afines a 
 
 a) Instituto Estatal de Educación Pública del Estado de Oaxaca.
 
-b) Secretaría de los Pueblos Indígenas y Afromexicanos.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
-c) Secretaría de las Culturas y Artes de Oaxaca.
+b) Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+c) Secretaría de las Culturas y Artes.
 
 d) Secretaría de Turismo.
 
 e) Secretaría de Salud.
 
-f) Secretaría de Seguridad Pública.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+
+f) Secretaría de Seguridad y Protección Ciudadana.
 
 g) Sistema para el Desarrollo Integral de la Familia.
 
@@ -1185,7 +1207,9 @@ Las Asociaciones Deportivas Estatales serán inscritas por el Instituto en el RE
 
 Las Asociaciones Deportivas Estatales que soliciten su inscripción en el REEDE, deberán cumplir con los requisitos siguientes:
 
-I. Acta Constitutiva debidamente protocolizada ante Notario Público e inscrita en el Instituto de la Función Registral de Oaxaca;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+
+I. Acta Constitutiva debidamente protocolizada ante Notario Público e inscrita en el Instituto de la Función Registral;
 
 II. Contar con Registro Federal de Contribuyentes, expedido por la Secretaría de Hacienda y Crédito Público del Gobierno Federal.
 
@@ -2308,3 +2332,27 @@ Para los efectos de lo establecido en el artículo 178 párrafo segundo de este 
 Dichas becas se establecerán con base en lo estipulado en las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento, en el punto 4.- Lineamientos Generales 4.3.1. Tipo de apoyos, 4.3.2 Monto del Apoyo, en lo que establece a la Beca económica para deportistas ganadores de medallas, la cual no podrá ser menor a dichas cantidades y tendrá su incremento conforme lo establezcan las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento, dichos apoyos para su otorgamiento se regirán por lo establecido en el punto 4.4 párrafo segundo y estos estarán bajo los criterios de selección establecidos en el punto 4.4.1.1, inciso b) de dichas Reglas de Operación.
 
 TERCERO.- En el ejercicio del presupuesto a que hace referencia el transitorio Segundo de este Decreto, el Instituto y las dependencias involucradas en el fomento a la cultura física, recreación y deporte, deberán garantizar los derechos de las y los atletas con discapacidad, en las diferentes disciplinas del deporte adaptado siempre y cuando reúnan los requisitos establecidos en el punto 4.4.1 inciso b) de las Reglas de Operación del Programa Sistema Mexicano del Deporte de Alto Rendimiento
+
+P.O. 5 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.- 769.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN INTEGRAL DE RIESGOS DE DESASTRES PARA EL ESTADO DE OAXACA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA; SE REFORMA EL NOMBRE DE LA LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA, PARA AHORA LLAMARSE: LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA MISMA; SE REFORMA EL NOMBRE DE LA LEY QUE CREA EL INSTITUTO OAXAQUEÑO DE LAS ARTESANÍAS, PARA AHORA LLAMARSE: LEY QUE CREA EL INSTITUTO PARA EL FOMENTO Y LA PROTECCIÓN DE LAS ARTESANÍAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria del H. Congreso del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal del Agua, se entenderá que se refiere a Comisión Estatal del Agua para el Bienestar.
+
+CUARTO. Cuando en diversas disposiciones legales se haga referencia a Caminos y Aeropistas de Oaxaca, se entenderá que se refiere a Caminos Bienestar.
+
+QUINTO. Cuando en diversas disposiciones legales se haga referencia a Instituto de Cultura Física y Deporte de Oaxaca, se entenderá que se refiere a Instituto del Deporte.
+
+SEXTO. Cuando en diversas disposiciones legales se haga referencia a Coordinación Estatal de Protección Civil de Oaxaca, se entenderá que se refiere a Coordinación Estatal de Protección Civil y Gestión de Riegos.
+
+SÉPTIMO. Cuando en diversas disposiciones legales se haga referencia a Comisión Estatal de Vivienda, se entenderá que se refiere a Vivienda Bienestar.
+
+OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio de Agua Potable y Alcantarillado de Oaxaca, se entenderá que se refiere al Sistema Operador de los Servicios de Agua Potable y Alcantarillado.
+
+NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
+
+DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
