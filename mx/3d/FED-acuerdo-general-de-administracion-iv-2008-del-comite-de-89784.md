@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2008-del-comite-de-89784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-05-16"
-last_updated: "2008-05-16"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-05-16"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION IV/2008 DEL COMITE DE ARCHIVO, BIBLIOTECA E INFORMATICA [RELATIVO AL USO Y APROVECHAMIENTO DE LOS BIENES Y SERVICIOS INFORMATICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE REGULAN EL USO Y APROVECHAMIENTO DE LOS BIENES Y SERVICIOS DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES, ASÍ COMO DE LA SEGURIDAD INFORMÁTICA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 6 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN IV/2008, DEL DIECISÉIS DE MAYO DE DOS MIL OCHO, DEL COMITÉ DE ARCHIVO, BIBLIOTECA E INFORMÁTICA, RELATIVO AL USO Y APROVECHAMIENTO DE LOS BIENES Y SERVICIOS INFORMÁTICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXVIII, Agosto de 2008, páginas de la 1223 a la 1250.
 
@@ -832,3 +834,19 @@ JOSÉ RAMÓN COSSÍO DÍAZ
 MINISTRO
 
 GENARO DAVID GÓNGORA PIMENTEL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE REGULAN EL USO Y APROVECHAMIENTO DE LOS BIENES Y SERVICIOS DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIONES, ASÍ COMO DE LA SEGURIDAD INFORMÁTICA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abrogan el "Acuerdo General de Administración IV/2008, del dieciséis de mayo de dos mil ocho, del Comité de Archivo, Biblioteca e Informática, relativo al Uso y Aprovechamiento de los Bienes y Servicios Informáticos de la Suprema Corte de Justicia de la Nación" y los "Lineamientos para la asignación, uso y control de servicios de comunicación móvil, que requieran utilizar los servidores públicos de la Suprema Corte de Justicia de la Nación".
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo General de Administración.
+
+CUARTO. La Dirección General de Tecnologías de la Información deberá, en el ámbito de su competencia, emitir la normativa necesaria para dar cumplimiento a las disposiciones previstas en el presente Acuerdo General de Administración. Hasta que dichas normas sean emitidas, se seguirán aplicando las que no se opongan al presente Acuerdo General de Administración.
+
+QUINTO. Publíquese este Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
