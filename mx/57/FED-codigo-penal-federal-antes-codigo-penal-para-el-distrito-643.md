@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2021-11-12"
+last_updated: "2023-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -2101,7 +2101,7 @@ Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los
 
 ### CAPITULO II. Violación de inmunidad y de neutralidad
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>[N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.]</small>
 
 ###### ARTICULO 148.
 
@@ -2113,7 +2113,9 @@ II.- La violación de los deberes de neutralidad que corresponden a la nación m
 
 III.- La violación de la inmunidad de un parlamentario, o la que da un salvoconducto, y
 
-IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de una potencia amiga.
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2023)</small>
+
+IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabellones de otra Nación extranjera.
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
@@ -8412,3 +8414,9 @@ D.O.F. 12 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y OTROS ORDENAMIENTOS”.]
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2022. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, deberán substanciarse y resolverse en términos de las disposiciones vigentes hasta el 31 de diciembre de 2021.
+
+D.O.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 148 DEL CÓDIGO PENAL FEDERAL".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
