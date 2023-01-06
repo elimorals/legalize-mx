@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-para-el-estado-de-san-luis-potosi-143929"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-19"
-last_updated: "2020-06-19"
+last_updated: "2023-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 19 de junio de 2020.
 
@@ -157,23 +157,21 @@ XXXVI. Metadatos: al conjunto de datos que describen el contexto, contenido y es
 
 XXXVII. Organización: al conjunto de operaciones intelectuales y mecánicas destinadas a la clasificación, ordenación y descripción de los distintos grupos documentales con el propósito de consultar y recuperar, eficaz y oportunamente, la información. Las operaciones intelectuales consisten en identificar y analizar los tipos de documentos, su procedencia, origen funcional y contenido, en tanto que las operaciones mecánicas son aquellas actividades que se desarrollan para la ubicación física de los expedientes;
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XXXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-XXXVIII. Patrimonio documental: a los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos FEDERALES, ENTIDADES FEDERATIVAS, MUNICIPIOS, ALCALDÍAS DE LA CIUDAD DE MÉXICO, casas curales o cualquier otra organización, sea religiosa o civil;
+XXXVIII. Patrimonio documental: a los documentos que, por su naturaleza, no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido en su desarrollo; además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los archivos de los órganos del Estado de San Luis Potosí y sus municipios, casas curales o cualquier otra organización, sea religiosa o civil;
 
 XXXIX. Plazo de conservación: al periodo de guarda de la documentación en los archivos de trámite y concentración, que consiste en la combinación de la vigencia documental y, en su caso, el término precautorio y periodo de reserva que se establezcan de conformidad con la normatividad aplicable;
 
 XL. Programa anual: al Programa anual de desarrollo archivístico;
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XLI. REGISTRO ESTATAL: AL REGISTRO DE ARCHIVOS DEL ESTADO DE SAN LUIS POTOSÍ;
+XLI. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
 XLII. Sección: a cada una de las divisiones del fondo documental basada en las atribuciones de cada sujeto obligado de conformidad con las disposiciones legales aplicables;
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-XLIII. SEDA: AL SISTEMA ESTATAL DE ARCHIVOS SAN LUIS POTOSÍ;
+XLIII. Sistema Estatal: al Sistema de Archivos del Estado de San Luis Potosí;
 
 XLIV. Serie: a la división de una sección que corresponde al conjunto de documentos producidos en el desarrollo de una misma atribución general integrados en expedientes de acuerdo a un asunto, actividad o trámite específico;
 
@@ -255,9 +253,9 @@ II. Establecer un sistema institucional para la administración de sus archivos 
 
 III. Integrar los documentos en expedientes;
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-IV. INSCRIBIR EN EL REGISTRO ESTATAL Y EN EL REGISTRO NACIONAL, DE ACUERDO CON LAS DISPOSICIONES QUE SE EMITAN EN LA MATERIA, LA EXISTENCIA Y UBICACIÓN DE ARCHIVOS BAJO SU RESGUARDO;
+IV. Inscribir en el Registro Nacional, de acuerdo con las disposiciones que se emitan en la materia, la existencia y ubicación de archivos bajo su resguardo;
 
 V. Conformar un grupo interdisciplinario, que coadyuve en la valoración documental;
 
@@ -321,11 +319,11 @@ Los servidores públicos que deban elaborar un acta de entrega-recepción al sep
 
 El patrimonio documental en poder de los sujetos obligados, cuyas unidades administrativas hayan sido modificadas o extinguidas, deberá pasar a aquéllas que asuman sus atribuciones, para su administración y preservación.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 19.
 
-Tratándose de la liquidación o extinción de un sujeto obligado será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará al Archivo General del Estado.
+Tratándose de la liquidación o extinción de un sujeto obligado será obligación del liquidador remitir copia del inventario de los expedientes, del fondo que se resguardará a la CEGAIP.
 
 ### CAPÍTULO IV. DEL SISTEMA INSTITUCIONAL DE ARCHIVOS
 
@@ -463,11 +461,13 @@ VII. Identificar los expedientes que integran las series documentales que hayan 
 
 VIII. Integrar a sus respectivos expedientes, el registro de los procesos de disposición documental, incluyendo dictámenes, actas e inventarios;
 
-IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+IX. Publicar, al final de cada año, los dictámenes y actas de baja documental y transferencia secundaria, en los términos que establezcan las disposiciones en la materia y conservarlos en el archivo de concentración por un periodo mínimo de siete años a partir de la fecha de su elaboración, y
 
-X. REALIZAR LA TRANSFERENCIA SECUNDARIA DE LAS SERIES DOCUMENTALES QUE HAYAN CUMPLIDO SU VIGENCIA DOCUMENTAL Y POSEAN VALORES EVIDENCIALES, TESTIMONIALES E INFORMATIVOS AL ARCHIVO HISTÓRICO DEL SUJETO OBLIGADO, O ARCHIVO GENERAL DEL ESTADO, SEGÚN CORRESPONDA, Y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
+X. Realizar la transferencia secundaria de las series documentales que hayan cumplido su vigencia documental y posean valores evidenciales, testimoniales e informativos al archivo histórico del sujeto obligado, o a la CEGAIP, según corresponda.
 
 XI. Las que establezcan en el respectivo ámbito de sus competencias el Consejo Nacional, el Consejo Estatal de Archivos y las disposiciones aplicables en la materia.
 
@@ -499,11 +499,11 @@ Los responsables de los archivos históricos deben contar con los conocimientos,
 
 El Archivo Histórico del Estado de San Luis Potosí “Lic. Antonio Rocha Cordero” en coordinación con el Consejo, será el encargado de guiar y brindar apoyo en los procesos archivísticos a los archivos históricos que existan o sean creados en el futuro al interior del Estado en observación de esta Ley.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 34.
 
-Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico al Archivo Histórico del Estado “Lic. Antonio Rocha Cordero” previa valoración, o al organismo que se determine de acuerdo con las disposiciones aplicables o los convenios de colaboración que se suscriban para tal efecto.
+Los sujetos obligados que no cuenten con archivo histórico deberán promover su creación o establecimiento, mientras tanto, deberán transferir sus documentos con valor histórico a la CEGAIP previa valoración, o al organismo que se determine de acuerdo con las disposiciones aplicables o los convenios de colaboración que se suscriban para tal efecto.
 
 ###### ARTÍCULO 35.
 
@@ -519,9 +519,9 @@ El convenio o instrumento que dé origen a la coordinación referida en el párr
 
 Los documentos contenidos en los archivos históricos son fuentes de acceso público. Una vez que haya concluido la vigencia documental y autorizada la transferencia secundaria a un archivo histórico, éstos no podrán ser clasificados como reservados o confidenciales. Asimismo, deberá considerarse que de acuerdo con la legislación en materia de transparencia y acceso a la información pública, no podrá clasificarse como reservada aquella información que esté relacionada con violaciones graves a derechos humanos o delitos de lesa humanidad.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
-Los documentos que contengan datos personales sensibles, de acuerdo con la normatividad en la materia, respecto de los cuales se haya determinado su conservación permanente por tener valor histórico, conservarán tal carácter, en el archivo de concentración, por un plazo SIMILAR AL DE BLOQUEO CON OTROS DATOS DE LA MISMA NATURALEZA, EL QUE NO PODRÁ EXCEDER DE 35 AÑOS, a partir de la fecha de creación del documento, y serán de acceso restringido durante dicho plazo.
+Los documentos que contengan datos personales sensibles, de acuerdo con la normatividad en la materia, respecto de los cuales se haya determinado su conservación permanente por tener valor histórico, conservarán tal carácter, en el archivo de concentración, por un plazo de 70 años, a partir de la fecha de creación del documento, y serán de acceso restringido durante dicho plazo.
 
 ###### ARTÍCULO 38.
 
@@ -621,9 +621,9 @@ VI. Órgano Interno de Control;
 
 VII. El responsable del archivo de concentración, y
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-VIII. LOS RESPONSABLES DE LOS ARCHIVOS EN TRÁMITE DE las áreas o unidades administrativas productoras de la documentación.
+VIII. Las áreas o unidades administrativas productoras de la documentación.
 
 El grupo interdisciplinario, en el ámbito de sus atribuciones, coadyuvará en el análisis de los procesos y procedimientos institucionales que dan origen a la documentación que integran los expedientes de cada serie documental, con el fin de colaborar con las áreas o unidades administrativas productoras de la documentación en el establecimiento de los valores documentales, vigencias, plazos de conservación y disposición documental durante el proceso de elaboración de las fichas técnicas de valoración de la serie documental y que, en conjunto, conforman el catálogo de disposición documental.
 
@@ -715,11 +715,11 @@ Los sujetos obligados deberán publicar en la Plataforma Nacional y Estatal, los
 
 Los sujetos obligados distintos al Poder Ejecutivo del Estado transferirán los dictámenes y actas que refiere el presente artículo a sus respectivos archivos históricos, para su conservación permanente.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 59.
 
-Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiendo informar al ARCHIVO GENERAL DEL ESTADO, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
+Los sujetos obligados que cuenten con un archivo histórico deberán transferir los documentos con valor histórico a dicho archivo, debiendo informar a la CEGAIP, en un plazo de cuarenta y cinco días naturales posteriores a la transferencia secundaria.
 
 ### CAPÍTULO II. DE LA CONSERVACIÓN
 
@@ -761,77 +761,47 @@ IX. Reflejar en el sistema, de manera coherente y auditable, la política de ges
 
 Los sujetos obligados desarrollarán medidas de interoperabilidad que permitan la gestión documental integral, considerando el documento electrónico, el expediente, la digitalización, el copiado auténtico y conversión; la política de firma electrónica, la intermediación de datos, el modelo de datos y la conexión a la red de comunicaciones de los sujetos obligados.
 
-## TÍTULO CUARTO. DEL SISTEMA ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2023)</small>
+
+## TÍTULO CUARTO. DEL SISTEMA ESTATAL DE ARCHIVOS
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 64.
 
-El SEDA, es el órgano de la CEGAIP, responsable de vigilar el cumplimiento de la presente ley, y de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de los sujetos obligados así como propiciar el desarrollo de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de organización y conservación homogénea de los archivos de los sujetos obligados, dentro de su jurisdicción, cuyo objeto es:
+El Sistema Estatal es un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de la organización y administración homogénea de los archivos de los sujetos obligados.
 
-I. Integrar y vincular, a través de un marco organizativo común, a todas las unidades dedicadas a la administración de servicios documentales en el ámbito gubernamental, a fin de mejorar y modernizar los servicios archivísticos y de la información pública, convirtiéndolos en fuentes esenciales de información, banco de datos del pasado y el presente de la vida institucional y cultural de la Entidad;
-
-II. Normar, regular, coordinar y promover el funcionamiento y uso de los archivos administrativos e históricos y el acervo documental público del Estado, propiciando el desarrollo de medidas permanentes de comunicación, cooperación y concertación entre ellos y con el sector privado, y
-
-III. Contribuir al fortalecimiento de las unidades locales y municipales, a través de la organización, preservación, conservación y difusión de la memoria pública del Estado.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Las instancias del Sistema Estatal observarán lo dispuesto en las resoluciones y acuerdos generales que emita el Consejo Estatal.
 
 ###### ARTÍCULO 65.
 
-El SEDA es el órgano especializado en materia de gestión documental de la CEGAIP.
-
-La CEGAIP elabora su proyecto de presupuesto de egresos contemplará las previsiones de gasto y los recursos necesarios para el debido cumplimiento de las funciones encomendadas al SEDA.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 66.
 
-El responsable del SEDA tendrá las siguientes atribuciones:
-
-I. Planificar y coordinar las actividades de las áreas de archivo del sujeto obligado en materia de administración de documentos;
-
-II. Establecer la metodología archivística en la administración de documentos;
-
-III. Proponer a la autoridad correspondiente del sujeto obligado el anteproyecto de reglamento, así como sus modificaciones;
-
-IV. Expedir y actualizar los manuales de organización y de procedimientos en materia archivística;
-
-V. Constituir el consejo encargado de determinar el destino de los documentos de archivo, en los términos previstos por esta ley y el reglamento;
-
-VI. Proporcionar capacitación para la conservación, organización, difusión y destino de los documentos de archivo;
-
-VII. Promover y gestionar el enriquecimiento del patrimonio documental;
-
-VIII. Desarrollar programas de difusión para hacer extensivo a la sociedad el conocimiento y aprovechamiento de los acervos públicos;
-
-IX. Intervenir en el destino de los documentos de archivo del sujeto obligado;
-
-X. Promover que los documentos de interés público en posesión de particulares ingresen al patrimonio documental;
-
-XI. Proponer a la autoridad competente del sujeto obligado, la celebración de convenios y acuerdos con instituciones públicas y privadas, nacionales e internacionales, para la capacitación del personal en materia de administración de documentos e intercambio de conocimientos técnicos y operativos archivísticos;
-
-XII. Editar y publicar trabajos sobre la materia archivística, así como aquellos de investigación para fomentar la cultura en el estado, y
-
-XIII. Las demás que le señale esta ley, el reglamento y otras disposiciones legales que resulten aplicables.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE CAPÍTULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE ARCHIVOS
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 67.
 
-El Consejo Estatal de Archivos es el órgano de coordinación del SEDA, que estará integrado por:
+El Consejo Estatal de Archivos es el órgano de coordinación del Sistema Estatal, que estará integrado por:
 
-I. El Director del SEDA, quien lo presidirá y fungirá como secretario técnico;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-II. El titular del Archivo Histórico del Estado “Lic. Antonio Rocha Cordero”;
+I. La Comisionada o el Comisionado que presida la CEGAIP, quien lo presidirá;
 
-III. El titular del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
+II. La persona titular de la Secretaría General de Gobierno;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
+III. La persona titular de la Contraloría General del Estado;
 
 IV. El Coordinador de Archivos del Poder Judicial;
 
@@ -841,9 +811,17 @@ VI. Un representante de la Universidad Autónoma de San Luis Potosí;
 
 VII. El Coordinador de Archivos de la Comisión Estatal de Derechos Humanos;
 
-VIII. Los representantes de los municipios según lo establecido por el Reglamento del Consejo Estatal de Archivos, y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-IX. Un representante de los archivos privados.
+VIII. La persona titular de la Auditoría Superior del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
+IX. Un representante de los archivos privados, y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2023)</small>
+
+X. Un representante del Consejo Técnico y Científico Archivístico.
 
 La designación de la coordinación de los archivos privados referidos en la fracción IX de este artículo, será a través de convocatoria que emita el Consejo Estatal de Archivos en la que se establezcan las bases para seleccionar al coordinador de los mismos, estableciendo como mínimo los requisitos siguientes: que formen parte del Registro Nacional, una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos cinco archivos privados.
 
@@ -855,13 +833,13 @@ Los consejeros, en sus ausencias, podrán nombrar un suplente ante el Consejo Es
 
 Los miembros del Consejo Estatal de Archivos no recibirán remuneración alguna por su participación.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 68.
 
 El Consejo Estatal de Archivos sesionará de manera ordinaria y extraordinaria.
 
-Las sesiones ordinarias se verificarán dos veces al año y serán convocadas por su Presidente.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+
+Las sesiones ordinarias se verificarán dos veces al año y serán convocadas por su Presidente, a través del Secretario técnico.
 
 Las convocatorias a las sesiones ordinarias se efectuarán con quince días hábiles de anticipación, a través de los medios que resulten idóneos, incluyendo los electrónicos; y contendrán, cuando menos, el lugar, fecha y hora de la celebración de la sesión, el orden del día y, en su caso, los documentos que serán analizados.
 
@@ -875,7 +853,9 @@ Las sesiones extraordinarias del Consejo Estatal de Archivos podrán convocarse 
 
 Las sesiones del Consejo Estatal de Archivos deberán constar en actas suscritas por los miembros que participaron en ellas. Dichas actas serán públicas a través de internet, en apego a las disposiciones aplicables en materia de transparencia y acceso a la información. El Secretario técnico es responsable de la elaboración de las actas, la obtención de las firmas correspondientes, así como su custodia y publicación.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2023)</small>
+
+El Consejo Estatal contará con un Secretario Técnico que será nombrado y removido por el Presidente del Consejo.
 
 ###### ARTÍCULO 69.
 
@@ -887,57 +867,55 @@ II. Aprobar criterios para homologar la organización y conservación de los arc
 
 III. Aprobar las campañas de difusión sobre la importancia de los archivos como fuente de información esencial y como parte de la memoria colectiva;
 
-IV. En el marco del Consejo Estatal de Archivos, los Consejos Municipales podrán proponer las disposiciones que regulen la creación y uso de sistemas automatizados, para la gestión documental y administración de archivos para los sujetos obligados del ámbito local, que contribuyan a la organización y conservación homogénea de sus archivos;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+
+IV. En el marco del Consejo Nacional, podrá proponer las disposiciones que regulen la creación y uso de sistemas automatizados, para la gestión documental y administración de archivos para los sujetos obligados del ámbito local, que contribuyan a la organización y conservación homogénea de sus archivos;
 
 V. Establecer mecanismos de coordinación con los sujetos obligados de los municipios;
 
 VI. Operar como mecanismo de enlace y coordinación con el Consejo Nacional;
 
-VII. Fomentar la generación, uso y distribución de datos en formatos abiertos;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
 
-VIII. Establecer los criterios y lineamientos en materia archivística para la elaboración de los reglamentos derivados de esta ley;
+VII. Fomentar la generación, uso y distribución de datos en formatos abiertos, y
 
-IX. Promover en la sociedad la importancia de los archivos como fuente esencial de información;
+VIII. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-X. Promover la profesionalización de los responsables de los archivos de los sujetos obligados;
+IX. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-XI. Impulsar la difusión del patrimonio documental;
+X. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-XII. Efectuar y promover la investigación de nuevas técnicas en la administración de documentos, a efecto de hacer más eficiente el acceso a la información;
+XI. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-XIII. Atender las consultas que en materia archivística le formulen sus miembros;
+XII. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-XIV. Proponer programas y acciones que permitan respaldar la información contenida en los documentos históricos;
+XIII. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
-XV. Aprobar el programa estatal para el fortalecimiento de los Archivos, y
+XIV. (DEROGADA, P.O. 6 DE ENERO DE 2023)
+
+XV. (DEROGADA, P.O. 6 DE ENERO DE 2023)
 
 XVI. Las demás establecidas en esta Ley.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 70.
 
-El Presidente tiene las atribuciones siguientes:
+El Presidente o la Presidenta, tiene las atribuciones siguientes:
 
-I. Presidir las reuniones llevadas a cabo por el Consejo;
+I. Participar en los sistemas de archivos, comisiones intersecretariales, secretarías técnicas, entre otros, que coadyuven al cumplimiento de los acuerdos, recomendaciones y determinaciones que emita el Consejo Nacional y el Consejo Estatal de Archivos;
 
-II. Convocar a las reuniones ordinarias del Consejo;
+II. Celebrar convenios de coordinación, colaboración y concertación para el cumplimiento de los fines del Sistema Estatal y demás instrumentos jurídicos que se deriven de los mismos;
 
-III. Participar en sistemas nacionales, comisiones intersecretariales, secretarías técnicas, entre otros, que coadyuven al cumplimiento de los acuerdos, recomendaciones y determinaciones que emita el Consejo Estatal de Archivos;
+III. Intercambiar con otras entidades, conocimientos, experiencias y cooperación técnica y científica para fortalecer a los archivos;
 
-IV. Celebrar convenios de coordinación, colaboración y concertación para el cumplimiento de los fines del Sistema Estatal de Archivos y demás instrumentos jurídicos que se deriven de los mismos;
+IV. Participar en foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven al cumplimiento de la Ley General de Archivos, de esta Ley, así como de los acuerdos, recomendaciones y determinaciones emitidos por el Consejo Nacional, y por el Consejo Estatal de Archivos;
 
-V. Intercambiar con otros estados, países y con organismos internacionales, conocimientos, experiencias y cooperación técnica y científica para fortalecer a los archivos, con la participación de la Secretaría correspondiente;
+V. Publicar en su portal electrónico las determinaciones y resoluciones generales del Consejo Estatal de Archivos, y
 
-VI. Participar en cumbres, foros, conferencias, paneles, eventos y demás reuniones de carácter nacional e internacional, que coadyuven al cumplimiento de esta Ley, así como de los acuerdos, recomendaciones y determinaciones emitidos por el Consejo Estatal de Archivos;
+VI. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
-VII. Fungir como órgano de consulta de los Sistemas municipales y de los sujetos obligados;
-
-VIII. Publicar en su portal electrónico las determinaciones y resoluciones generales del Consejo Estatal de Archivos, y
-
-IX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 71.
 
@@ -947,63 +925,53 @@ Dichas comisiones podrán contar con la asesoría de expertos y usuarios de los 
 
 Los miembros de las comisiones no recibirán emolumento, ni remuneración alguna por su participación en las mismas.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 72.
 
-El Consejo Estatal de Archivos adoptará, con carácter obligatorio, las determinaciones del Consejo Nacional, dentro de los plazos que éste establezca.
-
-El Consejo Estatal de Archivos, con base en las determinaciones que emita el Consejo Nacional, publicará en las gacetas municipales y el periódico oficial, las disposiciones que sean necesarias para dar cumplimiento a lo previsto en la Ley General, en esta Ley y demás normativa que resulte aplicable.
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ### CAPÍTULO III. DE LOS ARCHIVOS PRIVADOS
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 73.
 
-Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, en términos de la Ley General, esta Ley y demás disposiciones aplicables. Asimismo, los particulares podrán solicitar al Consejo Estatal de Archivos asistencia técnica en materia de gestión documental y administración de archivos.
+Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, deberán garantizar su conservación, preservación y acceso, en términos de la Ley General de Archivos, esta Ley y demás disposiciones aplicables. Asimismo, los particulares podrán solicitar a la CEGAIP asistencia técnica en materia de gestión documental y administración de archivos.
 
 Se consideran de interés público los documentos o archivos cuyo contenido resulte de importancia o de relevancia para el conocimiento de la historia estatal y nacional, considerando los elementos característicos del patrimonio documental de la Nación.
 
-El Consejo Estatal de Archivos, convendrá con los particulares o con quien legalmente los represente, las bases, los procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
+
+La CEGAIP convendrá con los particulares o con quien legalmente los represente, las bases, los procedimientos, condicionantes y garantías para realizar una versión facsimilar o digital de los documentos o archivos de interés público que se encuentren en posesión de particulares.
 
 ###### ARTÍCULO 74.
 
 Los poseedores de documentos y archivos privados de interés público deberán ordenar sus acervos y restaurar los documentos que así lo ameriten, apegándose a la normatividad existente. Los archivos privados de interés público en posesión de particulares en el estado serán respetados en términos del artículo 76 de la Ley General de Archivos, para lo cual sus titulares deberán cumplir con los requisitos de conservación, preservación y acceso público.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 75.
 
-En los casos de enajenación por venta de un acervo o archivos privados de interés público, propiedad de un particular, el particular que pretenda trasladar el dominio deberá notificar por escrito al Consejo Estatal de Archivos, para que éste manifieste en un plazo de veinte días hábiles su interés de adquirirlo, en cuyo caso contará con un derecho preferente respecto de los demás compradores. La omisión en la notificación por parte del particular será causa de nulidad de la operación de traslado de dominio y podrá expropiarse el acervo o documento objeto de la misma en términos de la normatividad aplicable.
+En los casos de enajenación por venta de un acervo o archivos privados de interés público, propiedad de un particular, el particular que pretenda trasladar el dominio deberá notificar por escrito a la CEGAIP, para que éste manifieste en un plazo de veinte días hábiles su interés de adquirirlo, en cuyo caso contará con un derecho preferente respecto de los demás compradores. La omisión en la notificación por parte del particular será causa de nulidad de la operación de traslado de dominio y podrá expropiarse el acervo o documento objeto de la misma en términos de la normatividad aplicable.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ENERO DE 2023)</small>
 
 ### CAPÍTULO IV. DEL REGISTRO ESTATAL DE ARCHIVOS
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### ARTÍCULO 76.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales y de los archivos privados de interés público, así como difundir el patrimonio documental resguardado en sus archivos, el cual será administrado por el SEDA.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 77.
 
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados quienes deberán actualizar anualmente la información requerida en dicho Registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Estatal de Archivos y, en su caso, el Consejo Nacional, en términos de lo dispuesto por la normativa aplicable.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 78.
 
-El Registro Estatal será administrado por el SEDA, su organización y funcionamiento será conforme las disposiciones que emita el propio Consejo Estatal de Archivos.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 79.
 
-Para la operación del Registro Estatal, el SEDA pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permita registrar y mantener actualizada la información, la cual deberá prever la interoperabilidad con el Registro Nacional y considerar las disposiciones que para tal efecto emita el Consejo Nacional.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico de la CEGAIP.
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ### CAPÍTULO V. DE LOS FONDOS DE APOYO ECONÓMICO PARA LOS ARCHIVOS
 
@@ -1015,13 +983,21 @@ El Gobierno del Estado deberá crear y administrar un Fondo de Apoyo Económico 
 
 El Gobierno del Estado podrá otorgar subsidios a los Fondos de Apoyo Económico para los archivos municipales en términos de las disposiciones aplicables y conforme a los recursos que, en su caso, sean previstos y aprobados en el Presupuesto de Egresos del Estado del Ejercicio Fiscal que corresponda.
 
-### CAPÍTULO I. DEL PATRIMONIO DOCUMENTAL DEL ESTADO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2023)</small>
+
+### CAPÍTULO VI. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2023)</small>
+
+ARTÍCULO 81 BIS. La CEGAIP contará con un Consejo Técnico que la asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+El Consejo Técnico estará formado por trece integrantes designados por el Consejo Estatal a convocatoria pública de la CEGAIP, entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+
+Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
 
 ## TÍTULO QUINTO. DEL PATRIMONIO DOCUMENTAL DEL ESTADO Y LA CULTURA ARCHIVÍSTICA
 
-### CAPÍTULO II. DEL PATRIMONIO DOCUMENTAL DEL ESTADO EN POSESIÓN DE PARTICULARES
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO I. DEL PATRIMONIO DOCUMENTAL DEL ESTADO
 
 ###### ARTÍCULO 82.
 
@@ -1053,57 +1029,57 @@ IV. Dar seguimiento a las acciones que surjan como consecuencia del incumplimien
 
 Los sujetos obligados deberán coadyuvar con el Consejo Estatal de Archivos, en un marco de respeto de sus atribuciones, para promover acciones coordinadas que tengan como finalidad la protección del patrimonio documental de la Entidad.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 87.
 
-El Archivo Histórico del Estado “Lic. Antonio Rocha Cordero” podrá recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
+La CEGAIP podrá recibir documentos de archivo de los sujetos obligados en comodato para su estabilización.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 88.
 
-En los casos en que el Archivo Histórico del Estado “Lic. Antonio Rocha Cordero” considere que los archivos privados de interés público se encuentren en peligro de destrucción, desaparición o pérdida, deberán establecer mecanismos de coordinación con las autoridades pertinentes, a fin de determinar las vías aplicables para su rescate.
+En los casos en que la CEGAIP considere que los archivos privados de interés público se encuentren en peligro de destrucción, desaparición o pérdida, deberán establecer mecanismos de coordinación con las autoridades pertinentes, a fin de determinar las vías aplicables para su rescate.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 89.
 
-En términos del artículo 92 de la Ley General de Archivos, para el caso de que los archivos privados de interés público sean objeto de expropiación, el CONSEJO ESTATAL DE ARCHIVOS designará un representante para que forme parte del Consejo Nacional que deba emitir una opinión técnica sobre la procedencia de la expropiación.
+En términos del artículo 92 de la Ley General de Archivos, para el caso de que los archivos privados de interés público sean objeto de expropiación, la CEGAIP designará un representante para que forme parte del Consejo Nacional que deba emitir una opinión técnica sobre la procedencia de la expropiación.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 90.
 
-Las autoridades estatales y municipales, deberán coordinarse con el SEDA para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
+Las autoridades estatales y municipales, deberán coordinarse con la CEGAIP para la realización de las acciones conducentes a la conservación de los archivos, cuando la documentación o actividad archivística de alguna región esté en peligro o haya resultado afectada por fenómenos naturales o cualquiera de otra índole, que pudieran dañarlos o destruirlos.
 
-### CAPÍTULO III. DE LA CAPACITACIÓN Y CULTURA ARCHIVÍSTICA
+### CAPÍTULO II. DEL PATRIMONIO DOCUMENTAL DEL ESTADO EN POSESIÓN DE PARTICULARES
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 91.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme los criterios que emita el SEDA, el Consejo Estatal de Archivos, o que emanen de esta Ley y la demás normativa aplicable.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado, podrán custodiarlos, siempre y cuando apliquen las medidas técnicas, administrativas, ambientales o tecnológicas para la conservación y divulgación de los archivos, conforme los criterios que emita la CEGAIP, el Consejo Estatal de Archivos, o que emanen de esta Ley y la demás normativa aplicable.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 92.
 
-Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado al formar parte del patrimonio documental del estado podrán restaurarlos, previa autorización y bajo la supervisión del ARCHIVO HISTÓRICO DEL ESTADO “LIC. ANTONIO ROCHA CORDERO” y, en su caso del Consejo Estatal de Archivos, en términos de la normativa aplicable.
+Los particulares en posesión de documentos de archivo que constituyan patrimonio documental del Estado al formar parte del patrimonio documental del Estado podrán restaurarlos, previa autorización y bajo la supervisión de la CEGAIP y, en su caso del Consejo Estatal de Archivos, en términos de la normativa aplicable.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 93.
 
-El SEDA deberá coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que así mismo forme parte del patrimonio documental de la Nación.
+La CEGAIP deberá coadyuvar con el Archivo General de la Nación cuando se trate de recuperar la posesión del documento de archivo que constituya patrimonio documental del Estado y que así mismo forme parte del patrimonio documental de la Nación.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS ‘SEDA’ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 94.
 
-Para vigilar el cumplimiento de lo establecido en el presente capítulo, el SEDA podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
+Para vigilar el cumplimiento de lo establecido en el presente capítulo, la CEGAIP podrá efectuar visitas de verificación, en los términos establecidos en las disposiciones aplicables.
 
-### CAPÍTULO ÚNICO
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO III. DE LA CAPACITACIÓN Y CULTURA ARCHIVÍSTICA
 
 ###### ARTÍCULO 95.
 
@@ -1129,119 +1105,101 @@ IV. Promover la celebración de convenios y acuerdos en materia archivística, c
 
 Los usuarios de los archivos deberán respetar las disposiciones aplicables para la consulta y conservación de los documentos.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE TÍTULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2023)</small>
 
-## TÍTULO SEXTO. DE LAS INFRACCIONES EN MATERIA DE ARCHIVOS
+## TÍTULO SEXTO. DE LAS INFRACCIONES
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 99.
 
-Las infracciones administrativas a que se refiere este título o cualquier otra derivada del incumplimiento de las obligaciones establecidas en la presente Ley, cometidas por servidores públicos, serán sancionadas ante la autoridad competente en términos de la Ley de Responsabilidades Administrativas del Estado de San Luis Potosí; observando para ello los procedimientos y recursos presentes en dicha Ley.
+Se consideran infracciones a la presente Ley, las siguientes:
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos de los sujetos obligados, salvo aquellas transferencias que estén previstas o autorizadas en las disposiciones aplicables;
+
+II. Impedir u obstaculizar la consulta de documentos de los archivos sin causa justificada;
+
+III. Actuar con dolo o negligencia en la ejecución de medidas de índole técnica, administrativa, ambiental o tecnológica, para la conservación de los archivos;
+
+IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, total o parcialmente, sin causa legítima conforme a las facultades correspondientes, y de manera indebida, documentos de archivo de los sujetos obligados;
+
+V. Omitir la entrega de algún documento de archivo bajo la custodia de una persona al separarse de un empleo, cargo o comisión;
+
+VI. No publicar el catálogo de disposición documental, el dictamen y el acta de baja documental, autorizados por el Archivo General de la Nación o por la CEGAIP, así como el acta que se levante en caso de documentación siniestrada en los portales electrónicos, y
+
+VII. Cualquier otra acción u omisión que contravenga lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables que de ellos deriven.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 100.
 
-Las infracciones administrativas cometidas por personas que no revistan la calidad de servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con las normas aplicables.
+Las infracciones administrativas a que se refiere este título o cualquier otra derivada del incumplimiento de las obligaciones establecidas en la Ley General de Archivos o en la presente Ley, cometidas por servidores públicos, serán sancionadas por la autoridad competente en términos de la ley aplicable en materia de responsabilidades administrativas de los servidores públicos, según corresponda.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 101.
 
-La CEGAIP por conducto del SEDA vigilará que los sujetos obligados cumplan con lo establecido en la presente Ley, y requerirá en su caso, a los sujetos que así lo ameriten, para que den debido cumplimiento a lo establecido en ésta, en un plazo no menor de cinco ni mayor de treinta días hábiles para atender a las observaciones realizadas; si no lo hacen, se procederá a aplicar las sanciones que se establecen en este ordenamiento.
+Las infracciones administrativas cometidas por personas que no revistan la calidad de servidores públicos serán sancionadas por las autoridades que resulten competentes de conformidad con las normas aplicables.
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 102.
 
-Las multas que imponga la CEGAIP tendrán el carácter de créditos fiscales y las hará efectivas a través de sus ventanillas o funcionarios habilitados para tal efecto; debiendo publicar mensualmente las sanciones impuestas a los servidores públicos o instituciones responsables. El producto de las multas se integrará al patrimonio de la CEGAIP y se destinará a programas de infraestructura, conservación, restauración y difusión de los archivos y documentos que formen parte del Registro Estatal de Archivos.
+La autoridad competente podrá imponer multas de diez y hasta mil quinientas veces el valor diario de la unidad de medida y actualización, e individualizará las sanciones considerando los siguientes criterios:
 
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+I. La gravedad de la conducta constitutiva de la infracción;
+
+II. Los daños o perjuicios ocasionados por la conducta constitutiva de la infracción, y
+
+III. La reincidencia, en su caso, de la conducta constitutiva de la infracción.
+
+En caso de reincidencia las multas podrán duplicarse, dependiendo de la gravedad de la infracción cometida.
+
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
+
+Se considera grave el incumplimiento a las fracciones I, II, III, IV y V del artículo 99 de esta Ley; asimismo, las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con graves violaciones a derechos humanos.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 103.
 
-Las sanciones que imponga la CEGAIP son independientes a las establecidas por otros ordenamientos, y se aplicarán de acuerdo a los siguientes supuestos:
+Las sanciones administrativas señaladas en esta Ley son aplicables sin perjuicio de la responsabilidad civil o penal de quienes incurran en ellas.
 
-I. Al servidor público que incumpla cualquiera de las disposiciones de esta Ley, se le sancionará con cincuenta a quinientos días de la unidad de medida y actualización vigente;
-
-II. Todo servidor público que al separarse de su empleo, cargo o comisión, omita la entrega de algún documento y/o registro, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
-
-III. Los sujetos obligados que no cuenten con las instalaciones adecuadas para el resguardo de sus archivos administrativos e históricos, serán sancionados con quinientos a mil días de la unidad de medida y actualización vigente;
-
-IV. El servidor público que maneje documentos o registros históricos, que por dolo o negligencia les causen daño o los mutilen, será sancionado con quinientos a mil quinientos días de la unidad de medida y actualización vigente;
-
-V. El servidor público que con dolo o negligencia destruya o extravíe documentos, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
-
-VI. Quien intervenga en la restauración de documentos históricos, sean servidores públicos o particulares, que valiéndose de esta actividad altere la información contenida en los mismos para beneficio o perjuicio propio o de un tercero, será sancionado con quinientos a mil días de la unidad de medida y actualización vigente;
-
-VII. La eliminación de documentos públicos se realizará con estricto apego a lo establecido por esta Ley y reglamentos respectivos. Quien infrinja sus disposiciones estará atentando contra el Acervo Documental Propiedad del Estado y será sancionado con multa de quinientos a mil días de la unidad de medida y actualización vigente;
-
-VIII. Los usuarios de los Archivos Administrativos que marquen o mutilen documentos, serán sancionados con multa de quinientos a mil días de la unidad de medida y actualización vigente;
-
-IX. Los usuarios de los archivos administrativos e históricos que destruyan, extravíen o sustraigan algún documento, serán sancionados con quinientos a mil días de la unidad de medida y actualización vigente, y
-
-X. Queda fuera del comercio, y por ende prohibida la enajenación de los documentos y registros del Acervo Documental Propiedad del Estado, por lo que se sancionará a quien incurra en la falta con multa de mil a tres mil días de la unidad de medida y actualización vigente.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia ante el Ministerio Público correspondiente, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
 
 ###### ARTÍCULO 104.
 
-Para hacer cumplir sus determinaciones, y sin menoscabo de las sanciones establecidas en el artículo anterior de esta Ley, la CEGAIP aplicará, por su orden, las siguientes medidas de apremio:
-
-I. Amonestación privada;
-
-II. Amonestación pública;
-
-III. Multa de cincuenta a quinientas veces de la unidad de medida y actualización vigente, y
-
-IV. Multa de quinientas un a mil veces de la unidad de medida y actualización vigente. Todos los casos de incumplimiento de las determinaciones de la CEGAIP, se harán del conocimiento del superior jerárquico para los efectos de las responsabilidades a que haya lugar.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 105.
 
-Para la imposición de las sanciones y medidas de apremio que correspondan, la CEGAIP a través del SEDA valorará la gravedad de la infracción, considerando si el infractor actuó con dolo o negligencia, las circunstancias en que se produjeron los hechos irregulares, y las consecuencias derivadas de la acción u omisión del infractor. La reiteración en la comisión de las irregularidades, será agravante para la aplicación de las sanciones.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 106.
 
-Para la aplicación de sanciones pecuniarias por infracciones a la presente Ley, se seguirá el siguiente procedimiento:
-
-I. La CEGAIP notificará al presunto infractor la conducta irregular que se le imputa, y se le concederá un término de cinco días hábiles, a efecto de que exprese lo que a su derecho convenga y aporte los medios de prueba que considere necesarios para su defensa, y
-
-II. Transcurrido dicho plazo, la CEGAIP analizará las circunstancias de la presunta infracción, la gravedad de la misma, si se obró con dolo o negligencia, la contestación y pruebas ofrecidas, así como las consecuencias derivadas de la acción u omisión del infractor y dictará la resolución correspondiente.
-
-En esta etapa la CEGAIP podrá allegarse de los medios de prueba que estime necesarios y que conforme a derecho le permitan emitir una resolución objetiva e imparcial. Salvo prueba en contrario, la falta de contestación dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado, siempre que se trate de hechos directamente imputados al presunto infractor.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 107.
 
-Cuando las conductas detectadas por la CEGAIP puedan constituir un delito, esta lo denunciará ante el Ministerio Público.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 108.
 
-Contra las resoluciones de la CEGAIP que impongan sanciones pecuniarias, los afectados podrán interponer el Recurso de Revisión ante la misma CEGAIP, en términos de lo establecido por la Ley de Transparencia y Acceso a la Información Pública del Estado.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 109.
 
-Para la imposición de las sanciones y medidas de apremio que correspondan, se valorará la gravedad de la infracción, considerando si el infractor actuó con dolo o negligencia, las circunstancias en que se produjeron los hechos irregulares, y las consecuencias derivadas de la acción u omisión del infractor. La reiteración en la comisión de las irregularidades, será agravante para la aplicación de las sanciones.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 110.
 
-Las sanciones se aplicarán sin menoscabo de las responsabilidades penales o administrativas que los infractores contraigan.
-
-(NOTA: EL 3 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 219/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MAYO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ###### ARTÍCULO 111.
 
-En lo referente a asuntos relacionados con el acceso a la información y protección de datos personales bajo la custodia del Archivo General del Estado y el Archivo Histórico del Estado “Lic. Antonio Rocha Cordero” así como otros archivos, el usuario que considere vulnerados sus derechos podrá acogerse a los medios de impugnación y procedimientos señalados en la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, y la legislación pertinente de donde se desprenderán las infracciones y sanciones aplicables.
+(DEROGADO, P.O. 6 DE ENERO DE 2023)
 
 ## TRANSITORIOS
 
@@ -1276,3 +1234,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0666.- SE REFORMAN LOS ARTÍCULOS 4°, 11, 19, 31, 34, 37, 50, 59, LA DENOMINACIÓN DEL TÍTULO CUARTO, 64, 67, 68, 69, 70, 71, 73, 75, 87, 88, 89, 90, 91, 92, 93, 94, LA DENOMINACIÓN DEL TÍTULO SEXTO, 99, 100, 101, 102 Y 103; ADICIONA EN LOS ARTÍCULOS 67, 68, EN EL TÍTULO CUARTO, EL CAPÍTULO VI DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO, CON EL ARTÍCULO 81 BIS; Y DEROGA EN ARTÍCULO 4°, LOS ARTÍCULOS 65 Y 66, Y EN EL ARTÍCULO 69, EL ARTÍCULO 72, DEL TÍTULO CUARTO EL CAPÍTULO IV Y LOS ARTÍCULOS 76 A 79 Y 104 A 111, DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
