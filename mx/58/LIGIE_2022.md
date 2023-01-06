@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2022-11-18"
+last_updated: "2023-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,31 @@ abbreviation: "LIGIE_2022"
 ---
 # LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-LEY DEL INSTITUTO ESTATAL DE LOS TRABAJADORES DE LA EDUCACION PARA SU SEGURIDAD SOCIAL
+> <small>[N. DE E. PARA CONSULTAR LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, SE SUGIERE DESPLEGAR LOS ARCHIVOS ANEXOS (ACROBAT READER) UBICADOS EN LA CRONOLOGÍA DEL PRESENTE ORDENAMIENTO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO UNICO DEL DECRETO 491, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR A LOS CIENTO OCHENTA DIAS DESPUES A SU PUBLICACION.</small>
+LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+TEXTO ORIGINAL.
 
-Ley publicada en la primera sección al número 23 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 22 de marzo de 2011.
+Ley publicada en el Diario Oficial de la Federación, el martes 7 de junio de 2022.
 
-EL C. LIC. JORGE JUAN TORRES LÓPEZ, GOBERNADOR INTERINO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+ANDRÉS MANUEL LÓPEZ OBRADOR, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
 
-DECRETA:
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 
-NÚMERO 456.-
+DECRETO
 
-LEY DEL INSTITUTO ESTATAL DE LOS TRABAJADORES DE LA EDUCACIÓN PARA SU SEGURIDAD SOCIAL
+“EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
-###### ARTICULO UNICO.
+SE EXPIDE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN
 
-Publíquese en el Periódico Oficial del Gobierno del Estado.
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley de los Impuestos Generales de Importación y de Exportación
+
+LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN
 
 ###### Artículo 1o.
 
@@ -48,655 +52,6095 @@ Se establecen las cuotas que, atendiendo a la clasificación de la mercancía, s
 
 TARIFA
 
-#### SECCIÓN PRIMERA. ESTRUCTURA DEL INSTITUTO
+#### Sección I. ANIMALES VIVOS Y PRODUCTOS DEL REINO ANIMAL
 
-###### ARTÍCULO 10.
+Notas.
 
-Para el ejercicio de sus funciones, el Instituto contará con los órganos de gobierno y la estructura administrativa que esta ley y la reglamentación emitida por el Consejo General determinen.
+1. En esta Sección, cualquier referencia a un género o a una especie determinada de un animal se aplica también, salvo disposición en contrario, a los animales jóvenes de ese género o de esa especie.
 
-###### ARTÍCULO 11.
+2. Salvo disposición en contrario, cualquier referencia en la Nomenclatura a productos secos o desecados alcanza también a los productos deshidratados, evaporados o liofilizados.
 
-Los órganos de gobierno del Instituto son:
+### Capítulo 01. Animales vivos
 
-I. El Consejo General, y
+Nota.
 
-II. Los Consejos Directivos.
+1. Este Capítulo comprende todos los animales vivos, excepto:
 
-###### ARTÍCULO 12.
+a) los peces, los crustáceos, moluscos y demás invertebrados acuáticos, de las partidas 03.01, 03.06, 03.07 o 03.08;
 
-El Instituto tendrá la siguiente estructura administrativa:
+b) los cultivos de microorganismos y demás productos de la partida 30.02;
 
-I. Dirección General Ejecutiva;
+c) los animales de la partida 95.08.
 
-II. Dirección General del Servicio Médico;
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
 
-III. Dirección General de Pensiones;
+(ARANCEL)
 
-IV. Dirección General de Créditos y Vivienda;
+IMPUESTO IMPUESTO
 
-V. Dirección General de Desarrollo Magisterial;
+DE IMP. DE EXP.
 
-VI. Dirección General de Administración y Finanzas;
+01.01 Caballos, asnos, mulos y burdéganos, vivos.
 
-VII. Dirección General de Recursos Humanos;
+- Caballos:
 
-VIII. Unidad de Asesoría Técnica;
+0101.21 -- Reproductores de raza pura.
 
-IX. Unidad de Asuntos Jurídicos;
+0101.21.01 Reproductores de raza pura. Cbza 10 Ex.
 
-X. Unidad de Informática, y
+0101.29 -- Los demás.
 
-XI. Unidad de Contraloría Interna.
+0101.29.02 Sin pedigree, para reproducción. Pza 10 Ex.
 
-El Instituto podrá contar con las demás Direcciones Generales y unidades que sean necesarias en base a la determinación del Consejo General y de conformidad con las posibilidades presupuestales.
+0101.29.03 Para abasto, cuando la importación la realicen
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+empacadoras Tipo Inspección Federal. Pza 10 Ex.
 
-###### ARTÍCULO 1.
+0101.29.99 Los demás. Pza 20 Ex.
 
-La presente Ley es de orden público e interés general y tiene por objeto crear el organismo público descentralizado denominado Instituto Estatal de los Trabajadores de la Educación para su Seguridad Social, mismo que cuenta con personalidad jurídica y patrimonio propios y se encuentra sectorizado a la Secretaría de Educación y Cultura del Estado; con domicilio en la ciudad de Saltillo, Coahuila, pudiendo establecer dependencias en cualquier otro lugar del Estado, en función de las necesidades del servicio y su disponibilidad financiera.
+0101.30 - Asnos.
 
-Esta Ley además establece las bases para la organización, funcionamiento y reglamentación de los servicios de seguridad social, las actividades y operaciones relacionadas con el servicio médico y pensiones vivienda, créditos y otros beneficios sociales que otorgará el Instituto para el cumplimiento de su objeto.
+0101.30.01 Asnos. Cbza 20 Ex.
 
-###### ARTÍCULO 2.
+0101.90 - Los demás.
 
-La presente Ley se aplicará a:
+0101.90.99 Los demás. Cbza 20 Ex.
 
-I. Los trabajadores de las siguientes entidades, instituciones y organismos:
+01.02 Animales vivos de la especie bovina.
 
-a) El Gobierno del Estado, agremiados a la Sección 38;
+- Bovinos domésticos:
 
-b) La organización estatal sindical de los trabajadores de la educación, denominada Sección 38 del Sindicato Nacional de los Trabajadores de la Educación;
+0102.21 -- Reproductores de raza pura.
 
-c) El propio Instituto;
+0102.21.01 Reproductores de raza pura. Cbza Ex. Ex.
 
-d) La Universidad Autónoma de Coahuila, que cubran sus aportaciones al Instituto y se ajusten a los términos del artículo 6 de esta Ley, por lo que hace exclusivamente a pensiones y servicio médico;
+0102.29 -- Los demás.
 
-e) La Universidad Autónoma Agraria Antonio Narro, que cubran sus aportaciones al Instituto y se ajusten a los términos del artículo 6 de esta Ley, por lo que hace exclusivamente a pensiones y servicio médico;
+0102.29.01 Vacas lecheras. Pza Ex. Ex.
 
-f) Todas aquellas Instituciones que, en el futuro, formen parte de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, y
+0102.29.02 Con pedigree o certificado de alto registro,
 
-g) Los organismos que por Ley o por convenio celebrado con el Instituto, sean incorporados a su régimen.
+excepto lo comprendido en la fracción arancelaria
 
-II. Los pensionados de las entidades, instituciones y organismos señalados en la fracción anterior, por lo que respecta a cualquiera de los servicios que ofrece el Instituto en los términos que establece esta Ley y su Reglamento.
+0102.29.01. Pza Ex. Ex.
 
-III. Los beneficiarios de los derechohabientes del Instituto, en los términos que establece esta Ley y su Reglamento, y
+0102.29.99 Los demás. Pza 15 Ex.
 
-IV. Los particulares que establezcan acuerdos para obtener algún beneficio o reciban algún servicio por parte del Instituto.
+- Búfalos:
 
-V. Los trabajadores que temporalmente se separen del servicio por cualquier motivo sin goce de sueldo, siempre y cuando cubran las cuotas y aportaciones patronales al Instituto durante todo el tiempo que dure la separación sobre el sueldo actualizado, correspondiente a la última categoría en la que prestaron sus servicios.
+0102.31 -- Reproductores de raza pura.
 
-###### ARTÍCULO 3.
+0102.31.01 Reproductores de raza pura. Cbza Ex. Ex.
 
-Las entidades, instituciones, organismos y sujetos mencionados en el artículo anterior, deberán realizar las aportaciones económicas establecidas en la presente Ley, en los posteriores acuerdos del Consejo General y en los convenios correspondientes, para la buena marcha del Instituto; aportaciones que anualmente se incluirán en el presupuesto del mismo.
+0102.39 -- Los demás.
 
-###### ARTÍCULO 4.
+0102.39.99 Los demás. Cbza 15 Ex.
 
-Para efectos de esta Ley se entenderá por:
+0102.90 - Los demás.
 
-I. Beneficiario: La persona que tenga reconocida tal calidad, en los términos de la presente ley, su reglamento, así como por las demás leyes aplicables.
+0102.90.99 Los demás. Cbza 15 Ex.
 
-II. Derechohabiente: A toda persona que preste sus servicios o esté afiliado a alguna de las entidades, instituciones u organismos a que se refiere el artículo 2 de esta Ley por designación legal, mediante nombramiento o pago en la nómina del organismo al que pertenecen y que cubra las cuotas correspondientes al Instituto.
+01.03 Animales vivos de la especie porcina.
 
-III. Instituto: Al organismo público descentralizado denominado Instituto Estatal de los Trabajadores de la Educación para su Seguridad Social.
+0103.10 - Reproductores de raza pura.
 
-IV. Particular: A la persona que sin ser derechohabiente o beneficiario, accede al uso de las prestaciones o servicios que ofrece el Instituto.
+0103.10.01 Reproductores de raza pura. Cbza Ex. Ex.
 
-V. Pensionado: A la persona que tenga reconocida tal calidad por la Dirección General de Pensiones del Instituto, en términos de lo dispuesto en el reglamento de este ordenamiento.
+- Los demás:
 
-VI. Sección 38: A la Sección 38 del Sindicato Nacional de Trabajadores de la Educación.
+0103.91 -- De peso inferior a 50 kg.
 
-VII. SNTE: Al Sindicato Nacional de Trabajadores de la Educación.
+0103.91.01 Con pedigree o certificado de alto
 
-VIII. Trabajador: A toda persona que preste sus servicios a las entidades, instituciones u organismos previstos en la fracción I del artículo 2 de la presente Ley.
+registro. Cbza 9 Ex.
 
-IX. U A de C: A la Universidad Autónoma de Coahuila.
+0103.91.99 Los demás. Cbza 20 Ex.
 
-X. UAAAN: A la Universidad Autónoma Agraria Antonio Narro.
+0103.92 -- De peso superior o igual a 50 kg.
 
-###### ARTÍCULO 5.
+0103.92.01 Con pedigree o certificado de alto
 
-Los derechos y obligaciones que adquieran los trabajadores agremiados a la Sección 38, no serán objeto de extinción o menoscabo alguno, en caso de modificarse la denominación o número que identifique a la organización sindical a la que pertenecen; igual situación privará respecto de las facultades y obligaciones que el presente ordenamiento otorga a dicha sección sindical, al ser reconocida para los efectos de esta misma ley.
+registro. Cbza 9 Ex.
 
-###### ARTÍCULO 6.
+0103.92.99 Los demás. Cbza 20 Ex.
 
-La U A de C y la UAAAN realizarán revisiones anuales con el Instituto, en relación al Servicio Médico y Pensiones. Con previo acuerdo del Consejo General, estarán en posibilidad de modificar las condiciones y costos de los mismos, mantener dichos servicios o dar por terminada la relación contractual si alguna de las partes así lo manifiesta.
+01.04 Animales vivos de las especies ovina o
 
-Para el caso en que se decida rescindir la relación contractual entre el Instituto y alguna de las entidades a que se refiere el párrafo anterior, se otorgarán 90 días naturales a partir de la notificación de rescisión para concluir la prestación de los servicios por parte del Instituto.
+caprina.
 
-###### ARTÍCULO 7.
+0104.10 - De la especie ovina.
 
-Para que el trabajador o sus beneficiarios puedan disfrutar de los servicios y prestaciones que establece esta ley, es indispensable se encuentren al corriente en sus cuotas y aportaciones al Instituto.
+0104.10.01 Con pedigree o certificado de alto
 
-###### ARTÍCULO 8.
+registro. Pza Ex. Ex.
 
-El Consejo General podrá convenir con el Comité Ejecutivo de la Sección 38, a fin de que proponga las vacantes para la contratación de los empleados necesarios para la atención eficiente de cada una de las Direcciones Generales del Instituto.
+0104.10.99 Los demás. Pza 10 Ex.
 
-###### ARTÍCULO 9.
+0104.20 - De la especie caprina.
 
-El Instituto podrá celebrar los actos jurídicos que resulten necesarios y/o convenientes para el cumplimiento de esta Ley.
+0104.20.01 Con pedigree o certificado de alto
 
-### CAPÍTULO SEGUNDO. ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO
+registro. Cbza Ex. Ex.
 
-### CAPÍTULO TERCERO. CONVENIOS
+0104.20.02 Borrego cimarrón. Cbza 20 Ex.
 
-###### ARTÍCULO 25.
+0104.20.99 Los demás. Cbza 10 Ex.
 
-El Instituto podrá celebrar convenios con otras entidades o agrupaciones estatales de interés público, a efecto de otorgar a sus trabajadores, ya sea de manera parcial o total, las prestaciones de seguridad social previstas por este ordenamiento.
+01.05 Gallos, gallinas, patos, gansos, pavos
 
-###### ARTÍCULO 26.
+(gallipavos) y pintadas, de las especies
 
-El Instituto podrá celebrar convenios con particulares para que, de forma individual o grupal, puedan acceder ya sea de manera parcial o total, a las prestaciones de seguridad social previstas por este ordenamiento.
+domésticas, vivos.
 
-###### ARTÍCULO 27.
+- De peso inferior o igual a 185 g:
 
-Las partes podrán rescindir los convenios a que se refiere este capítulo sin necesidad de resolución judicial, previa notificación por escrito de dicha determinación a la contraparte.
+0105.11 -- Aves de la especie Gallus domesticus.
 
-###### ARTÍCULO 28.
+0105.11.03 Recién nacidos, de tres días o menos. Pza Ex. Ex.
 
-Una vez autorizada por el Consejo General la solicitud de cancelación de convenio a que se hace referencia en el artículo anterior, cesarán las obligaciones contraídas por el Instituto en favor de los trabajadores de la entidad de cuya cancelación e se trate.
+0105.11.99 Los demás. Pza 10 Ex.
 
-Por lo que respecta a cualquier otro tipo de aportación, éstas no crean derechos patrimoniales, por lo que al momento de la cancelación del convenio no se realizará ninguna liquidación en especie o numerario a quien decida rescindirlo.
+0105.12 -- Pavos (gallipavos).
 
-###### ARTÍCULO 29.
+0105.12.01 Pavos (gallipavos). Pza 10 Ex.
 
-Rescindido el convenio a que se refiere el artículo anterior, las partes tendrán un plazo de noventa días hábiles para dar cumplimiento a las obligaciones que hayan sido contraídas con anterioridad a la conclusión del convenio de referencia.
+0105.13 -- Patos.
 
-### CAPÍTULO CUARTO. SERVICIO MÉDICO DEL INSTITUTO
+0105.13.01 Patos. Cbza 10 Ex.
 
-###### ARTÍCULO 30.
+0105.14 -- Gansos.
 
-La Dirección General del Servicio Médico tendrá a su cargo:
+0105.14.01 Gansos. Cbza 10 Ex.
 
-I. Una Dirección Administrativa de la que a su vez dependerán:
+0105.15 -- Pintadas.
 
-a) Una Subdirección de Contabilidad,
+0105.15.01 Pintadas. Cbza 10 Ex.
 
-b) Una Subdirección de Afiliación, y
+- Los demás:
 
-c) Una Subdirección de Almacén;
+0105.94 -- Aves de la especie Gallus domesticus.
 
-II. Una Dirección del Servicio Médico de la que a su vez dependerán:
+0105.94.01 Gallos de pelea. Cbza 20 Ex.
 
-a) Un (sic) Subdirección de PREVENSNTE,
+0105.94.99 Los demás. Cbza 10 Ex.
 
-b) Un (sic) Subdirección de Formación de Personal, y
+0105.99 -- Los demás.
 
-c) Un (sic) Subdirección de Desarrollo Médico;
+0105.99.99 Los demás. Cbza 10 Ex.
 
-III. Las clínicas, hospitales regionales, clínicas periféricas y farmacias pertenecientes al Instituto, y
+01.06 Los demás animales vivos.
 
-IV. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
+- Mamíferos:
 
-###### ARTÍCULO 31.
+0106.11 -- Primates.
 
-Por lo que respecta al servicio médico, el Instituto ofrece las siguientes modalidades:
+0106.11.01 Monos (simios) de las variedades Macacus
 
-I. Atención médica de primer y segundo nivel en las clínicas pertenecientes al servicio médico del Instituto, que incluyen servicios de consulta externa de medicina general y de especialidad, hospitalización, cirugías, servicio de urgencias médicas y servicio de farmacia;
+rhesus o Macacus cercophitecus. Cbza 10 Ex.
 
-II. Servicios subrogados que corresponden a los servicios de atención médica que el Instituto no ofrece y que serán proporcionados por profesionales del ramo o instituciones especializadas en salud con los que el Instituto haya celebrado convenios para tal propósito.
+0106.11.99 Los demás. Cbza 20 Ex.
 
-Los costos derivados de los servicios subrogados, serán compartidos por el Instituto y el derechohabiente en proporciones definidas anualmente por el Consejo General en función de las posibilidades económicas del Instituto;
+0106.12 -- Ballenas, delfines y marsopas (mamíferos del
 
-III. Servicio de prestaciones que corresponden a los servicios de atención médica que el Instituto no ofrece por sí mismo ni en la modalidad de subrogados y que el paciente, previa autorización de la Dirección General del Servicio Médico, debe obtener por gestión personal y directa con los profesionales del ramo o instituciones especializadas en salud.
+orden Cetacea); manatíes y dugones o dugongos
 
-Una parte de los costos derivados de esta atención no subrogada serán cubiertos por el derechohabiente, la otra parte deberá ser liquidada por el Instituto previa presentación de factura y cumplimiento de los requisitos que éste solicite.
+(mamíferos del orden Sirenia); otarios y focas,
 
-Los costos derivados de las prestaciones serán comprimidos por el Instituto y el derechohabiente en proporciones definidas anualmente por el Consejo General, en función de las posibilidades económicas del Instituto;
+leones marinos y morsas (mamíferos del
 
-IV. Servicios médicos adicionales y condiciones preferenciales respecto al costo de recuperación a que se hace referencia en la fracción anterior; esto en atención a las aportaciones adicionales efectuadas por los patrones por lo que respecta a sus empleados, los sindicatos por sus respectivos agremiados y/o los propios derechohabientes en forma particular, y
+suborden Pinnipedia).
 
-V. Servicios de atención médica y hospitalaria a particulares que deseen adquirirlo, ya sea en el esquema de pago por eventualidad o en alguno de los planes de cobertura adicional que el Instituto ofrezca.
+0106.12.01 Ballenas, delfines y marsopas (mamíferos del
 
-###### ARTÍCULO 32.
+orden Cetacea); manatíes y dugones o dugongos
 
-Son beneficiarios de las prestaciones y servicios que la Dirección General de Servicio Médico otorga, los siguientes:
+(mamíferos del orden Sirenia); otarios y focas,
 
-I. El cónyuge, concubino o compañero civil del derechohabiente;
+leones marinos y morsas (mamíferos del
 
-II. Los hijos menores de dieciocho años de edad o mayores de ésta hasta los veinticinco años de edad, cuando sean estudiantes y dependan económicamente del derechohabiente, o estén física o mentalmente impedidos para trabajar, cualquiera que sea su edad, y
+suborden Pinnipedia). Cbza 20 Ex.
 
-III. Los padres del derechohabiente soltero que no tenga o hubiere tenido hijos, siempre que dependan económicamente de él.
+0106.13 -- Camellos y demás camélidos (Camelidae).
 
-Los beneficiarios que por derecho propio sean titulares de prestaciones de salud similares a las que otorga esta Ley y puedan percibirlas en cualquiera otra institución de seguridad social, se excluyen de los beneficios que ésta concede.
+0106.13.01 Camellos y demás camélidos
 
-### CAPÍTULO QUINTO. SERVICIO DE CRÉDITOS Y VIVIENDA DEL INSTITUTO
+(Camelidae). Cbza 20 Ex.
 
-###### ARTÍCULO 33.
+0106.14 -- Conejos y liebres.
 
-La Dirección General de Créditos y Vivienda tendrá a su cargo:
+0106.14.01 Conejos y liebres. Cbza 20 Ex.
 
-I. Una Dirección de Créditos de la que a su vez dependerán:
+0106.19 -- Los demás.
 
-a) Una Subdirección de Créditos;
+0106.19.02 Venado rojo (Cervus elaphus); gamo (Dama
 
-b) Una Subdirección de Validación, y
+dama). Cbza Ex. Ex.
 
-c) Una Subdirección de Proyectos Crediticios;
+0106.19.99 Los demás. Cbza 20 Ex.
 
-II. Una Dirección de Proyectos Habitacionales de la que a su vez dependerán:
+0106.20 - Reptiles (incluidas las serpientes y tortugas de
 
-a) Una Subdirección de Planeación y Diseño, y
+mar).
 
-b) Una Subdirección de Construcción;
+0106.20.04 Reptiles (incluidas las serpientes y tortugas de
 
-III. Una Dirección de Trámite y Seguimiento de la que a su vez dependerán:
+mar). Cbza 20 Ex.
 
-a) Una Subdirección de Seguimiento Crediticio, y
+- Aves:
 
-b) Una Subdirección de Presupuesto;
+0106.31 -- Aves de rapiña.
 
-IV. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
+0106.31.01 Aves de rapiña. Pza 20 Ex.
 
-###### ARTÍCULO 34.
+0106.32 -- Psitaciformes (incluidos los loros, guacamayos,
 
-El Instituto establecerá y operará un sistema de financiamiento que le permita ofrecer los servicios de créditos y vivienda, aplicables a los trabajadores y pensionados de la Sección 38, así como a aquellas instituciones u organismos con los que el Instituto celebre convenios en los términos de las leyes aplicables, en los que se incluye:
+cacatúas y demás papagayos).
 
-I. Adquirir, construir, enajenar o arrendar bienes inmuebles que se destinen a la construcción de fraccionamientos, viviendas, conjuntos habitacionales, incluyendo aquellas sujetas al régimen de condominio o cualquier inmueble que traiga consigo un beneficio social común para el bienestar de los trabajadores;
+0106.32.01 Psitaciformes (incluidos los loros, guacamayos,
 
-II. Remodelar, ampliar o mejorar los inmuebles a que se refiere la fracción anterior;
+cacatúas y demás papagayos). Cbza 20 Ex.
 
-III. Rescatar de hipoteca los bienes inmuebles destinados para vivienda, propiedad de los trabajadores;
+0106.33 -- Avestruces; emúes (Dromaius novaehollandiae).
 
-IV. Urbanizar los predios destinados a la construcción de viviendas, conjuntos habitacionales o cualquier otro inmueble, que realice el Instituto para el beneficio social de los trabajadores;
+0106.33.01 Avestruces; emúes (Dromaius
 
-V. Gestionar, tramitar y contratar créditos de interés social para operaciones de compra-venta o arrendamiento, con cualquier institución del ramo o ante las sociedades nacionales de crédito, para los trabajadores en forma individual y colectiva;
+novaehollandiae). Cbza 20 Ex.
 
-VI. Gestionar, tramitar y contratar cualquier tipo de crédito con cualquier institución del ramo o ante las sociedades nacionales de crédito, para sí mismo o para obras de beneficio social para el bienestar de los trabajadores;
+0106.39 -- Las demás.
 
-VII. Apoyar las solicitudes individuales de crédito de los trabajadores ante las sociedades nacionales de crédito;
+0106.39.99 Las demás. Cbza 20 Ex.
 
-VIII. Construir fraccionamientos urbanos y rústicos de acuerdo con los tipos señalados para los habitacionales y campestres, establecidos en la ley de la materia;
+- Insectos:
 
-IX. Promover la realización de programas habitacionales de beneficio social para sus afiliados;
+0106.41 -- Abejas.
 
-X. Gestionar ante las autoridades correspondientes, lo concerniente a las operaciones relacionadas con los programas habitacionales que la Dirección General de Créditos y Vivienda realice, y
+0106.41.01 Abejas. Kg 10 Ex.
 
-XI. Otorgar préstamos quirografarios a corto, mediano o largo plazo.
+0106.49 -- Los demás.
 
-Cuando la capacidad presupuestaria del Instituto lo permita, podrá ofrecer y otorgar créditos a personas ajenas al Instituto, siempre y cuando sean funcionarios públicos estatales o municipales, así como a otras instituciones u organismos públicos, previa autorización del Consejo General.
+0106.49.99 Los demás. Kg 20 Ex.
 
-###### ARTÍCULO 35.
+0106.90 - Los demás.
 
-Las reservas creadas por la Dirección General de Pensiones para hacer frente a las obligaciones futuras del Instituto por concepto de pensiones, prestaciones y liquidación de cuentas individuales, podrán destinarse al otorgamiento de créditos en los términos de esta ley. El monto global que podrá destinarse a créditos debe ser determinado actuarialmente, de tal manera que no se ponga en riesgo el pago de futuras prestaciones.
+0106.90.02 Lombriz Rebellus (Lumbricus rubellus). Kg 10 Ex.
 
-###### ARTÍCULO 36.
+0106.90.03 Lombriz acuática. Kg Ex. Ex.
 
-Las cantidades otorgadas por créditos provenientes de las cuentas individuales, deberán ser liquidadas a la cuenta correspondiente con el respectivo interés, de acuerdo a la tasa estipulada en función del tipo de interés bancario vigente. Por lo que hace a los réditos excedentes al tipo de interés bancario obtenidos por concepto del crédito otorgado, se creará un fondo específico a efecto de en el mismo se ingresen dichas cantidades con el fin de que anualmente los ingresos depositados, más las ganancias que se obtenga, sean distribuidas equitativamente entre las cuentas afectadas para el otorgamiento de los créditos.
+0106.90.04 Ácaros Phytoseiulus persimilis. Kg Ex. Ex.
 
-###### ARTÍCULO 37.
+0106.90.99 Los demás. Pza 20 Ex.
 
-El Instituto, previo análisis de viabilidad financiera, podrá disponer de las reservas que se generen por concepto de cuotas y aportaciones a las cuentas individuales, para cubrir las prestaciones y pensiones en curso de pago correspondientes a dicho régimen, así como de las provenientes de los trabajadores inscritos en el de cuenta institucional.
+### Capítulo 02. Carne y despojos comestibles
 
-###### ARTÍCULO 38.
+Nota.
 
-Para efecto de lo dispuesto por el artículo anterior, el Instituto llevará un control contable de los saldos y rendimientos que generen las cuentas individuales.
+1. Este Capítulo no comprende:
 
-###### ARTÍCULO 39.
+a) respecto de las partidas 02.01 a 02.08 y 02.10, los productos impropios para la alimentación humana;
 
-Los créditos que se otorguen causarán intereses de no más de dos veces la Tasa Interbancaria de Equilibrio (TIIE) , además de un 3% del monto del crédito otorgado al Fondo de Garantía, cuya bolsa económica permita cubrir los saldos insolutos que dejaran los deudores que llegasen a fallecer.
+b) los insectos comestibles, sin vida (partida 04.10);
 
-En los casos contemplados en el último párrafo del artículo 34 de la presente Ley; los intereses que se estipulen deberán ser superiores a los referidos en el párrafo anterior.
+c) las tripas, vejigas y estómagos de animales (partida 05.04), ni la sangre animal (partidas 05.11 o 30.02);
 
-En caso de incumplimiento culpable por parte del deudor, se causarán intereses moratorios a razón de 1.5 veces la tasa a que se hace referencia en el primer párrafo del presente artículo.
+d) las grasas animales, excepto los productos de la partida 02.09 (Capítulo 15).
 
-#### SECCIÓN SEGUNDA. INTEGRACIÓN Y FUNCIONAMIENTO DE LOS ÓRGANOS DE GOBIERNO DEL INSTITUTO
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
 
-###### ARTÍCULO 13.
+(ARANCEL)
 
-El Consejo General se integrará por:
+IMPUESTO IMPUESTO
 
-I. Un Presidente Honorario, que será el titular de la Secretaría de Educación y Cultura;
+DE IMP. DE EXP.
 
-II. Un Presidente Ejecutivo, que será el Director General Ejecutivo del Instituto;
+02.01 Carne de animales de la especie bovina,
 
-III. Siete vocales, y
+fresca o refrigerada.
 
-IV. Un Comisario, que será designado por el titular la Secretaría de la Función Pública del Estado; y que participará con voz pero sin voto.
+0201.10 - En canales o medias canales.
 
-Los siete vocales tendrán voz y voto, así como igualdad jerárquica. El Consejo General designará, por mayoría de votos, al Director General Ejecutivo del Instituto que asumirá el cargo de Presidente Ejecutivo del Consejo General. Los vocales integrantes del Consejo General serán designados por el Secretario General de la Sección 38.
+0201.10.01 En canales o medias canales. Kg 20 Ex.
 
-Además de los vocales a que se refiere el párrafo anterior, los integrantes del consejo nombrarán a un grupo de suplentes en número suficiente para sustituirlos en caso de resultar necesario. Este proceso podrá llevarse a cabo cuantas veces sea necesario; el referido grupo de suplentes será designado por mayoría de votos de los titulares.
+0201.20 - Los demás cortes (trozos) sin deshuesar.
 
-De resultar necesaria la entrada en funciones de uno o más suplentes para cubrir la ausencia temporal o definitiva de vocales, será el mismo Consejo General el que, por mayoría de votos de los miembros presentes, nombre de entre todos los suplentes a quién o quienes deban entrar en funciones.
+0201.20.91 Los demás cortes (trozos) sin
 
-A las juntas de Consejo deberán ser citados tanto el vocal como los suplentes, para que en caso de ausencia de un titular pueda entrar en funciones quien lo sustituya.
+deshuesar. Kg 20 Ex.
 
-###### ARTÍCULO 14.
+0201.30 - Deshuesada.
 
-Para ser miembro del Consejo General se requiere:
+0201.30.01 Deshuesada. Kg 20 Ex.
 
-I. Ser ciudadano mexicano por nacimiento;
+02.02 Carne de animales de la especie bovina,
 
-II. Ser agremiado a la Sección 38;
+congelada.
 
-III. No desempeñar cargo alguno de elección popular al momento de ser designado, aún en el caso de no estar en funciones, y
+0202.10 - En canales o medias canales.
 
-IV. Ser de reconocida competencia y honorabilidad y no haber sido condenado por delito intencional.
+0202.10.01 En canales o medias canales. Kg 25 Ex.
 
-En caso de que algún vocal busque un cargo de elección popular, deberá solicitar y obtener licencia para separarse de su cargo.
+0202.20 - Los demás cortes (trozos) sin deshuesar.
 
-###### ARTÍCULO 15.
+0202.20.91 Los demás cortes (trozos) sin
 
-Los vocales y los funcionarios de la estructura administrativa del Instituto percibirán una remuneración que será fijada en el presupuesto anual del Instituto.
+deshuesar. Kg 25 Ex.
 
-Los vocales que reciban un sueldo por ser funcionarios de gobierno municipal, estatal o federal, no percibirán la remuneración que se menciona en el párrafo anterior.
+0202.30 - Deshuesada.
 
-###### ARTÍCULO 16.
+0202.30.01 Deshuesada. Kg 25 Ex.
 
-La renovación del Consejo General se sujetará a los siguientes lineamientos:
+02.03 Carne de animales de la especie porcina,
 
-I. A la llegada de un nuevo vocal, los miembros del Consejo General ratificarán al Director General Ejecutivo o, en su caso, elegirán por mayoría de votos a quien habrá de sustituirlo, y
+fresca, refrigerada o congelada.
 
-II. En el supuesto de que un vocal llegara a ser electo Secretario General de la Sección 38, no perderá su lugar en el Consejo, sólo dejará de percibir cualquier tipo de emolumento por el desempeño de su función como vocal mientras subsista su encargo sindical.
+- Fresca o refrigerada:
 
-###### ARTÍCULO 17.
+0203.11 -- En canales o medias canales.
 
-El Consejo General deberá celebrar sesiones ordinarias, cuando menos trimestralmente y de manera extraordinaria cuantas veces sea necesario, previa convocatoria del Presidente Ejecutivo a solicitud de cualquier miembro del Consejo General.
+0203.11.01 En canales o medias canales. Kg 20 Ex.
 
-La convocatoria a reuniones ordinarias se expedirá con al menos ocho días hábiles de anticipación. En el caso de sesiones extraordinarias se podrá omitir el término anterior, pero la misma sólo se llevará a cabo si existe constancia fehaciente de que el día y la hora, fueron hechos del conocimiento de los integrantes del Consejo General. La sesión deberá tener verificativo por lo menos veinticuatro horas después de la notificación.
+0203.12 -- Piernas, paletas, y sus trozos, sin deshuesar.
 
-Para que la sesión sea válida deberán estar presentes, por lo menos cuatro integrantes del Consejo; en caso contrario, se convocará a una nueva sesión, que tomará acuerdos válidos con quienes concurran a ella. Los acuerdos serán tomados por mayoría de votos, y en caso de empate, el Presidente Ejecutivo tendrá voto de calidad.
+0203.12.01 Piernas, paletas, y sus trozos, sin
 
-Los acuerdos y resoluciones emitidos por el Consejo General, deberán constar por escrito en el acta correspondiente y ser ejecutados por el Presidente Ejecutivo.
+deshuesar. Kg 20 Ex.
 
-###### ARTÍCULO 18.
+0203.19 -- Las demás.
 
-El Consejo General tendrá las siguientes atribuciones:
+0203.19.99 Las demás. Kg 20 Ex.
 
-I. Elegir al Director General Ejecutivo del Instituto;
+- Congelada:
 
-II. Emitir los nombramientos del personal que compone la estructura administrativa del Instituto;
+0203.21 -- En canales o medias canales.
 
-III. Aprobar el Reglamento Interior del Instituto y los demás reglamentos necesarios para la correcta operación del Instituto;
+0203.21.01 En canales o medias canales. Kg 20 Ex.
 
-IV. Aprobar los programas que integran el Programa Operativo Anual del Instituto, elaborados por los Consejos Directivos;
+0203.22 -- Piernas, paletas, y sus trozos, sin deshuesar.
 
-V. Aprobar el Presupuesto Anual de Ingresos y Egresos del Instituto;
+0203.22.01 Piernas, paletas, y sus trozos, sin
 
-VI. Elaborar y dar a conocer anualmente el Informe General de Actividades del Instituto;
+deshuesar. Kg 20 Ex.
 
-VII. Aprobar los tabuladores y prestaciones correspondientes al personal que presta sus servicios al Instituto;
+0203.29 -- Las demás.
 
-VIII. Aprobar, conjuntamente con el Consejo Directivo correspondiente y en apego a la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza, la adquisición, enajenación, cesión, así como cualquier operación de compra venta, arrendamiento u otra en que se comprometa el patrimonio o fondo afecto a cada una de las Direcciones Generales que forman parte del Instituto;
+0203.29.99 Las demás. Kg 20 Ex.
 
-IX. Determinar al inicio de cada ejercicio anual, el monto de los fondos de reserva de cada Dirección General;
+02.04 Carne de animales de las especies ovina o
 
-X. Autorizar, tratándose de casos extraordinarios y en beneficio del Instituto, el retiro de los fondos de reserva o intereses generados por los mismos;
+caprina, fresca, refrigerada o congelada.
 
-XI. Aprobar las propuestas de las cantidades destinadas al financiamiento de los programas a desarrollar por cada una de las Direcciones Generales y Unidades del Instituto, para el cumplimiento de su objeto;
+0204.10 - Canales o medias canales de cordero, frescas o
 
-XII. Analizar y, en su caso, aprobar los informes trimestrales y anuales relacionados con la labor técnica y administrativa de las Direcciones Generales y Unidades del Instituto;
+refrigeradas.
 
-XIII. Emitir, a través del Secretario Técnico, convocatorias para la celebración de sesión de los Consejos Directivos, sin perjuicio de que estos mismos emitan sus propias convocatorias previa aprobación del Consejo General;
+0204.10.01 Canales o medias canales de cordero, frescas o
 
-XIV. Acordar la transferencia de recursos entre las partidas presupuestales del Instituto, en caso de ser necesario para el debido funcionamiento del mismo;
+refrigeradas. Kg 10 Ex.
 
-XV. Fijar el porcentaje del costo de recuperación por los servicios que se otorguen, atendiendo a la capacidad presupuestal del Instituto y a la opinión del Consejo Directivo correspondiente;
+- Las demás carnes de animales de la especie
 
-XVI. Autorizar variaciones en lo que respecta al valor de las pólizas y la fecha de liquidación de las mismas por parte del Instituto, previo estudio de las circunstancias particulares de cada caso;
+ovina, frescas o refrigeradas:
 
-XVII. Designar a los vocales y suplentes de los Consejos Directivos;
+0204.21 -- En canales o medias canales.
 
-XVIII. Otorgar poderes generales para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y las especiales que requieran cláusula especial, conforme a la Ley y demás ordenamientos que resulten aplicables;
+0204.21.01 En canales o medias canales. Kg 10 Ex.
 
-XIX. Integrar, conocer e intervenir en el procedimiento de responsabilidad administrativa que corresponda en contra del o los servidores públicos que hagan mal uso de los servicios que le corresponde prestar a cada Dirección General y Unidad, ello de conformidad con lo establecido en la Ley de Responsabilidad de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza, la reglamentación del Instituto y demás disposiciones aplicables;
+0204.22 -- Los demás cortes (trozos) sin deshuesar.
 
-XX. Aplicar las medidas administrativas disciplinarias conducentes a los beneficiarios y/o derechohabientes en los términos de esta ley y demás disposiciones aplicables;
+0204.22.91 Los demás cortes (trozos) sin
 
-XXI. Vigilar el estricto cumplimiento de esta Ley y los reglamentos que de ésta deriven;
+deshuesar. Kg 10 Ex.
 
-XXII. Establecer las bases y condiciones para el otorgamiento de los créditos las cuales estarán previstas en las disposiciones reglamentarias conducentes, y
+0204.23 -- Deshuesadas.
 
-XXIII. Las demás que le sean señaladas en la presente Ley y los Reglamentos que de ella se deriven.
+0204.23.01 Deshuesadas. Kg 10 Ex.
 
-###### ARTÍCULO 19.
+0204.30 - Canales o medias canales de cordero,
 
-Las Direcciones Generales de Servicio Médico, Créditos y Vivienda, Pensiones y Desarrollo Magisterial, contarán cada una con un Consejo Directivo, que estará integrado por:
+congeladas.
 
-I. Un Presidente del Consejo Directivo que será el Director General de cada área;
+0204.30.01 Canales o medias canales de cordero,
 
-II. Un Secretario Técnico que será el Director General de Administración y Finanzas del Instituto;
+congeladas. Kg 10 Ex.
 
-III. Dos vocales sindicales por la Sección 38;
+- Las demás carnes de animales de la especie
 
-IV. Dos vocales sindicales por la U A de C. con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+ovina, congeladas:
 
-V. Dos vocales sindicales por la UAAAN, con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+0204.41 -- En canales o medias canales.
 
-VI. Un vocal designado por el Gobierno del Estado;
+0204.41.01 En canales o medias canales. Kg 10 Ex.
 
-VII. Un vocal representante patronal por la U A de C, con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+0204.42 -- Los demás cortes (trozos) sin deshuesar.
 
-VIII. Un vocal representante patronal por la UAAAN, con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+0204.42.91 Los demás cortes (trozos) sin
 
-IX. Hasta ocho vocales designados por el Consejo General, y
+deshuesar. Kg 10 Ex.
 
-X. Un Comisario designado por la Secretaría de la Función Pública, que tendrá voz pero no voto.
+0204.43 -- Deshuesadas.
 
-###### ARTÍCULO 20.
+0204.43.01 Deshuesadas. Kg 10 Ex.
 
-Los Consejos Directivos tendrán las siguientes atribuciones:
+0204.50 - Carne de animales de la especie caprina.
 
-I. Vigilar la correcta y eficiente prestación de los servicios que ofrece la Dirección General de su adscripción en cumplimiento de esta Ley y demás disposiciones aplicables;
+0204.50.01 Carne de animales de la especie
 
-II. Aportar la información necesaria e idónea para la elaboración del Reglamento Interior por lo que respecta al área de su competencia;
+caprina. Kg 10 Ex.
 
-III. Analizar y proponer el Programa Operativo Anual de sus respectivas Direcciones Generales y los programas que de él se deriven, para aprobación del Consejo General;
+02.05 Carne de animales de las especies caballar,
 
-IV. Requerir trimestralmente al personal administrativo a su cargo, un informe detallado de la labor técnica y administrativa desarrollada y un informe anual de carácter general de la gestión realizada por la Dirección General de su adscripción, del cual se informará al Consejo General;
+asnal o mular, fresca, refrigerada o congelada.
 
-V. Analizar y proponer al Consejo General, el monto de las prestaciones que serán ofrecidas a los derecho-habientes y beneficiarios, pudiendo ser modificadas las mismas en relación con el estado económico que guarde cada una de ellas y/o con las aportaciones que se realicen, ya sea por el patrón o por los interesados;
+0205.00 - Carne de animales de las especies caballar,
 
-VI. Las demás que le señale esta ley y su reglamento.
+asnal o mular, fresca, refrigerada o congelada.
 
-Los Consejos Directivos deberán celebrar sesiones ordinarias, cuando menos trimestralmente y de manera extraordinaria cuantas veces sea necesario, previa convocatoria del Presidente del Consejo Directivo o del Consejo General.
+0205.00.01 Carne de animales de las especies caballar,
 
-La convocatoria a reuniones ordinarias se expedirá con al menos ocho días hábiles de anticipación. En el caso de sesiones extraordinarias se podrá omitir el término anterior, pero la misma sólo se llevará a cabo si existe constancia fehaciente de que el día y la hora, fueron hechos del conocimiento de los integrantes del Consejo Directivo. La sesión deberá tener verificativo por lo menos veinticuatro horas después de la notificación.
+asnal o mular, fresca, refrigerada o
 
-Para que la sesión sea válida deberán estar presentes, la mitad más uno del total de los integrantes del Consejo Directivo; en caso contrario, se convocará a una nueva sesión, que tomará acuerdos válidos con quienes concurran a ella. Los acuerdos serán tomados por mayoría de votos y, en caso de empate, el Presidente del Consejo Directivo tendrá voto de calidad.
+congelada. Kg 10 Ex.
 
-Los acuerdos y resoluciones emitidos por el Consejo Directivo, deberán constar por escrito en el acta correspondiente.
+02.06 Despojos comestibles de animales de las
 
-###### ARTÍCULO 21.
+especies bovina, porcina, ovina, caprina,
 
-Cuando por causa grave, renuncia o defunción de alguno de los miembros de alguno de los Consejos Directivos, resulte necesario el ingreso de un suplente, éste será nombrado por la instancia a la cual representaba quien generó la vacante.
+caballar, asnal o mular, frescos, refrigerados o
 
-### CAPÍTULO SEXTO. SERVICIO DE PENSIONES DEL INSTITUTO
+congelados.
 
-### CAPÍTULO SÉPTIMO. DESARROLLO MAGISTERIAL
+0206.10 - De la especie bovina, frescos o refrigerados.
 
-###### ARTÍCULO 101.
+0206.10.01 De la especie bovina, frescos o
 
-La Dirección General de Desarrollo Magisterial tiene como objeto proponer, establecer y ejecutar las políticas, normas, sistemas, procedimientos y acciones en materia de cultura, recreación, comunicación, hostelería y demás servicios que el Instituto preste.
+refrigerados. Kg 20 Ex.
 
-###### ARTÍCULO 102.
+- De la especie bovina, congelados:
 
-La Dirección General de Desarrollo Magisterial tendrá a su cargo:
+0206.21 -- Lenguas.
 
-I. Una Dirección de Cultura y Recreación de la que a su vez dependerán:
+0206.21.01 Lenguas. Kg 20 Ex.
 
-a) Una Subdirección de Proyectos Culturales;
+0206.22 -- Hígados.
 
-b) Una Subdirección de Proyectos Deportivos, y
+0206.22.01 Hígados. Kg 20 Ex.
 
-c) Una Subdirección de Proyectos Turísticos;
+0206.29 -- Los demás.
 
-II. Una Dirección de Centros Sociales y Asistenciales de la que a su vez dependerán:
+0206.29.99 Los demás. Kg 20 Ex.
 
-a) Una Subdirección de Administración de Salones;
+0206.30 - De la especie porcina, frescos o refrigerados.
 
-b) Una Subdirección de Administración de Casas de Jubilados;
+0206.30.01 Pieles de cerdo enteras o en recortes,
 
-c) Una Subdirección de las Casas de los Maestros y las Casas de Reposo, y
+refrigerados, excepto el cuero precocido en trozos
 
-d) Una Subdirección de Administración de los Hoteles;
+("pellets"). Kg 10 Ex.
 
-III. Una Dirección de Comunicación Integral de la que a su vez dependerán:
+0206.30.99 Los demás. Kg 20 Ex.
 
-a) Una Subdirección de Materiales Gráficos del que a su vez dependerán la Coordinación de Diseño, la Coordinación, de Edición y la Coordinación de Imprenta;
+- De la especie porcina, congelados:
 
-b) Una Subdirección de Materiales Audiovisuales del que a su vez dependerán la Coordinación de Comunicación y la Coordinación de Diseño de Materiales, y
+0206.41 -- Hígados.
 
-IV. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
+0206.41.01 Hígados. Kg 10 Ex.
 
-Los productos y servicios que se ofrecen por el Instituto a través de las áreas mencionadas, tendrán el costo que el Consejo General autorice anualmente para los derechohabientes y para el público en general.
+0206.49 -- Los demás.
 
-###### ARTÍCULO 103.
+0206.49.01 Pieles de cerdo enteras o en recortes,
 
-Para ofrecer beneficios en materia de cultura, recreación, comunicación, hostelería y otros, la Dirección General de Desarrollo Magisterial administrará la siguiente infraestructura:
+excepto el cuero precocido en trozos
 
-I. Casas club del jubilado;
+("pellets"). Kg Ex. Ex.
 
-II. Casas de retiro para pensionados y jubilados;
+0206.49.99 Los demás. Kg 10 Ex.
 
-III. Casas del maestro;
+0206.80 - Los demás, frescos o refrigerados.
 
-IV. Centros recreativos;
+0206.80.91 Los demás, frescos o refrigerados. Kg 10 Ex.
 
-V. Estudios de grabación de audio y video;
+0206.90 - Los demás, congelados.
 
-VI. Guarderías;
+0206.90.91 Los demás, congelados. Kg 10 Ex.
 
-VII. Hoteles;
+02.07 Carne y despojos comestibles, de aves de la
 
-VIII. Salones de usos múltiples;
+partida 01.05, frescos, refrigerados o
 
-IX. Talleres mecánicos;
+congelados.
 
-X. Talleres gráficos, y
+- De aves de la especie Gallus domesticus:
 
-XI. Los demás que sean aprobados y creados por el Consejo General.
+0207.11 -- Sin trocear, frescos o refrigerados.
 
-### CAPÍTULO OCTAVO. SERVICIOS DE APOYO DEL INSTITUTO
+0207.11.01 Sin trocear, frescos o refrigerados. Kg 75 Ex.
 
-### CAPÍTULO NOVENO. PATRIMONIO DEL INSTITUTO
+0207.12 -- Sin trocear, congelados.
 
-### CAPÍTULO DÉCIMO. RESPONSABILIDADES Y SANCIONES
+0207.12.01 Sin trocear, congelados. Kg 75 Ex.
 
-###### ARTÍCULO 142.
+0207.13 -- Trozos y despojos, frescos o refrigerados.
 
-Los miembros del Consejo General, el Director General Ejecutivo del Instituto, los miembros de los Consejos Directivos y los trabajadores del mismo, estarán sujetos a las responsabilidades administrativas, civiles y penales en que pudieren incurrir de conformidad con las disposiciones aplicables.
+0207.13.04 Trozos y despojos, frescos o
 
-###### ARTÍCULO 143.
+refrigerados. Kg 75 Ex.
 
-Cuando se establezca una responsabilidad a cargo del trabajador por haber recibido servicios indebidamente y/o contravenido las disposiciones de esta ley, el Instituto realizará las gestiones necesarias a fin de que el asunto se tramite ante las instancias correspondientes.
+0207.14 -- Trozos y despojos, congelados.
 
-###### ARTÍCULO 144.
+0207.14.02 Hígados. Kg 10 Ex.
 
-Aquellos empleados que le presten sus servicios al Instituto y actúen en contravención a la normatividad aplicable, serán denunciados ante la Unidad de Contraloría Interna quien determinará conforme a derecho lo que corresponda o en su caso dará vista a la autoridad competente y a la Secretaría de la Función Pública para la determinación de las responsabilidades correspondientes.
+0207.14.99 Los demás. Kg 75 Ex.
 
-### CAPÍTULO DÉCIMO PRIMERO. LICENCIAS
+- De pavo (gallipavo):
 
-###### ARTÍCULO 145.
+0207.24 -- Sin trocear, frescos o refrigerados.
 
-El Consejo General podrá otorgar licencias al personal del Instituto en función del dictamen emitido por el Consejo Directivo que corresponda.
+0207.24.01 Sin trocear, frescos o refrigerados. Kg 45 Ex.
 
-###### ARTÍCULO 146.
+0207.25 -- Sin trocear, congelados.
 
-Cada Consejo Directivo determinará la procedencia, naturaleza y viabilidad de las solicitudes de licencia que les sean presentados por los trabajadores adscritos a las Direcciones Generales de su competencia, para lo cual deberán considerar los derechos laborales adquiridos por cada trabajador, así como las necesidades del servicio de sus respectivas áreas, antes de someterlas a la autorización del Consejo General.
+0207.25.01 Sin trocear, congelados. Kg 45 Ex.
 
-###### ARTÍCULO 147.
+0207.26 -- Trozos y despojos, frescos o refrigerados.
 
-Para los efectos de este capítulo, se deberá expedir un apartado respectivo de licencias en el reglamento interno del Instituto.
+0207.26.03 Trozos y despojos, frescos o
 
-### CAPÍTULO DÉCIMO SEGUNDO. SUPLENCIAS
+refrigerados. Kg 75 Ex.
 
-###### ARTÍCULO 148.
+0207.27 -- Trozos y despojos, congelados.
 
-El Director General Ejecutivo del Instituto será suplido en sus ausencias por el Director General de Administración y Finanzas; el de Servicio Médico; el de Pensiones; el de Créditos y Vivienda; el de Desarrollo Magisterial; en el orden prelatorio mencionado, y por el titular de la Unidad de Asuntos Jurídicos en ausencia de todos los anteriormente descritos.
+0207.27.02 Hígados. Kg 10 Ex.
 
-En los procedimientos en que deba intervenir el Director General Ejecutivo del Instituto en representación del Consejo General o como titular del Instituto, podrá ser suplido indistintamente por el titular de la Unidad de Asuntos Jurídicos o por los servidores públicos antes señalados.
+0207.27.99 Los demás. Kg 75 Ex.
 
-###### ARTÍCULO 149.
+- De pato:
 
-Las ausencias de los titulares de las Direcciones Generales, de las Direcciones, de las Subdirecciones de Áreas, de las unidades administrativas, así como jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+0207.41 -- Sin trocear, frescos o refrigerados.
 
-T R A N S I T O R I O S
+0207.41.01 Sin trocear, frescos o refrigerados. Kg Ex. Ex.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+0207.42 -- Sin trocear, congelados.
 
-PRIMERO.- La presente Ley entrará en vigor ciento ochenta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+0207.42.01 Sin trocear, congelados. Kg Ex. Ex.
 
-SEGUNDO.- Se abrogan la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 429 del 19 de Noviembre de 1999; La Ley del Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios, publicada en el Periódico Oficial del Gobierno del Estado número 63 del 29 de Abril de 1986; La Ley del Seguro de los Trabajadores de la Educación, publicada en el Periódico Oficial del Gobierno del Estado número 188 del 22 de Marzo de 1969; y la Ley del Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado número 173 del 8 de Febrero de 1969 y demás disposiciones que se opongan a esta nueva ley, salvo los casos transitorios en que las leyes anteriores se apliquen.
+0207.43 -- Hígados grasos, frescos o refrigerados.
 
-TERCERO.- Se determina la extinción de los organismos públicos descentralizados denominados Dirección de Pensiones de los Trabajadores de la Educación, Fondo de la Vivienda para los Trabajadores de la Educación al Servicio del Estado de Coahuila de Zaragoza y sus Municipios, Seguro de los Trabajadores de la Educación y Servicio Médico de los Trabajadores de la Educación para dar lugar al Instituto Estatal de los Trabajadores de la Educación para su Seguridad Social. Los activos y reservas territoriales de los organismos descentralizados mencionados anteriormente, pasan a formar parte del patrimonio del nuevo Instituto.
+0207.43.01 Hígados grasos, frescos o refrigerados. Kg 10 Ex.
 
-CUARTO.- Los trámites y procedimientos pendientes de resolución, que se vieran afectados por las disposiciones contenidas en la presente ley, se resolverán conforme a las, disposiciones contenidas en las leyes que se abrogan.
+0207.44 -- Los demás, frescos o refrigerados.
 
-QUINTO.- Para los trabajadores que al momento de entrar en vigor la presente ley se encuentren en activo se mantendrá el concepto de percepción de la ley que se abroga.
+0207.44.91 Los demás, frescos o refrigerados. Kg Ex. Ex.
 
-SEXTO.- Los trabajadores que al momento de entrar en vigor esta ley presenten adeudos en virtud de créditos obtenidos con los organismos que se disuelven, los cubrirán conforme a las disposiciones previstas en las leyes que se abrogan.
+0207.45 -- Los demás, congelados.
 
-SÉPTIMO.- En la transferencia de los recursos humanos, materiales y financieros de los organismos que mediante la presente Ley se declaran disueltos, deberán intervenir la Tesorería del Estado y la Secretaría de la Función Pública, para que lleven a cabo las funciones de su competencia.
+0207.45.01 Hígados. Kg 10 Ex.
 
-La Secretaría de la Función Pública deberá llevar a cabo las acciones tendientes al proceso de entrega recepción de los organismos que se disuelven en atención a lo dispuesto por la ley en la materia.
+0207.45.99 Los demás. Kg Ex. Ex.
 
-Todos los convenios, acuerdos y manuales que fueron realizados por las instituciones que la presente ley extingue continuarán vigentes hasta en tanto sean sustituidos o modificados por el Consejo General, una vez emitido el nuevo reglamento.
+- De ganso:
 
-OCTAVO.- Las obligaciones contraídas por el Gobierno del Estado, la Universidad Autónoma de Coahuila y la Universidad Autónoma Agraria Antonio Narro con los organismos públicos descentralizados que se disuelven a la entrada en vigor de la presente Ley, continuarán vigentes hasta en tanto sean finiquitados en su totalidad.
+0207.51 -- Sin trocear, frescos o refrigerados.
 
-NOVENO.- Treinta días después de la entrada en vigor de la presente ley, deberá instalarse el Consejo General del Instituto. El Presidente Honorario del Consejo General deberá llamar a aquellos que el Secretario General designe como vocales, así como al comisario, para que acrediten su personalidad y celebren la sesión constitutiva del nuevo organismo.
+0207.51.01 Sin trocear, frescos o refrigerados. Kg Ex. Ex.
 
-Para la integración inicial del Consejo General y por única vez, los vocales serán designados en forma escalonada: Dos vocales durarán en su encargo dos años, tres vocales durarán tres años y los otros dos durarán cinco años. Lo anterior con el objeto de que al momento de la renovación de los mismos siempre sea posible contar con una adecuada combinación de experiencia, conocimiento y prestigio profesional.
+0207.52 -- Sin trocear, congelados.
 
-DÉCIMO.- Las remuneraciones que se otorgarán a quienes a partir de la entrada en vigor de la presente Ley ingresen a laborar al Instituto deberán homologarse al tabulador oficial del Gobierno del Estado; para tal efecto, el Consejo General previa propuesta de cada área, analizará la procedencia de las categorizaciones para su aplicación correspondiente.
+0207.52.01 Sin trocear, congelados. Kg Ex. Ex.
 
-Por lo que respecta a los trabajadores de los organismos públicos descentralizados cuya disolución da lugar a la conformación del Instituto, se respetará el salario o compensaciones que a la fecha vengan percibiendo, hasta en tanto resulte presupuestalmente posible llevar a cabo las acciones necesarias para la homologación de salarios.
+0207.53 -- Hígados grasos, frescos o refrigerados.
 
-DÉCIMO PRIMERO.- El Reglamento Interior del Instituto deberá expedirse por el Consejo General del Instituto y publicarse en el Periódico Oficial del Gobierno Estado, a más tardar ciento ochenta días hábiles contados a partir de que la presente ley entre en vigor.
+0207.53.01 Hígados grasos, frescos o refrigerados. Kg 10 Ex.
 
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los nueve días del mes de febrero del año dos mil once.
+0207.54 -- Los demás, frescos o refrigerados.
 
-DIPUTADO PRESIDENTE
+0207.54.91 Los demás, frescos o refrigerados. Kg Ex. Ex.
 
-IGNACIO SEGURA TENIENTE
+0207.55 -- Los demás, congelados.
 
-(RÚBRICA)
+0207.55.01 Hígados. Kg 10 Ex.
 
-DIPUTADA SECRETARIA
+0207.55.99 Los demás. Kg Ex. Ex.
 
-JÉSSICA LUZ AGÜERO MARTÍNEZ
+0207.60 - De pintada.
 
-(RÚBRICA)
+0207.60.03 De pintada. Kg Ex. Ex.
 
-DIPUTADA SECRETARIA
+02.08 Las demás carnes y despojos comestibles,
 
-CECILIA YANET BABÚN MORENO
+frescos, refrigerados o congelados.
 
-(RÚBRICA)
+0208.10 - De conejo o liebre.
 
-IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE.
+0208.10.01 De conejo o liebre. Kg 10 Ex.
 
-Saltillo, Coahuila, 14 de Febrero de 2011
+0208.30 - De primates.
 
-EL GOBERNADOR INTERINO DEL ESTADO
+0208.30.01 De primates. Kg 10 Ex.
 
-LIC. JORGE JUAN TORRES LÓPEZ
+0208.40 - De ballenas, delfines y marsopas (mamíferos del
 
-(RÚBRICA)
+orden Cetacea); de manatíes y dugones o dugongos
 
-EL SECRETARIO DE GOBIERNO
+(mamíferos del orden Sirenia); de otarios y focas,
 
-LIC. DAVID AGUILLÓN ROSALES
+leones marinos y morsas (mamíferos del
 
-(RÚBRICA)
+suborden Pinnipedia).
 
-EL TESORERO GENERAL DEL ESTADO
+0208.40.01 De ballenas, delfines y marsopas (mamíferos del
 
-ING. JESÚS OCHOA GALINDO
+orden Cetacea); de manatíes y dugones o dugongos
 
-(RÚBRICA)
+(mamíferos del orden Sirenia); de otarios y focas,
 
-EL SECRETARIO DE EDUCACIÓN Y CULTURA
+leones marinos y morsas (mamíferos del
 
-PROFR. ANDRÉS MENDOZA SALAS
+suborden Pinnipedia). Kg 10 Ex.
 
-(RÚBRICA)
+0208.50 - De reptiles (incluidas las serpientes y tortugas de
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+mar).
 
-P.O. 15 DE ABRIL DE 2011.
+0208.50.01 De reptiles (incluidas las serpientes y tortugas de
+
+mar). Kg 10 Ex.
+
+0208.60 - De camellos y demás camélidos (Camelidae).
+
+0208.60.01 De camellos y demás camélidos
+
+(Camelidae). Kg 10 Ex.
+
+0208.90 - Los demás.
+
+0208.90.99 Los demás. Kg 10 Ex.
+
+02.09 Tocino sin partes magras y grasa de cerdo o
+
+de ave sin fundir ni extraer de otro modo,
+
+frescos, refrigerados, congelados, salados o
+
+en salmuera, secos o ahumados.
+
+0209.10 - De cerdo.
+
+0209.10.01 De cerdo. Kg 15 Ex.
+
+0209.90 - Los demás.
+
+0209.90.01 De gallo, gallina o pavo (gallipavo). Kg Ex. Ex.
+
+0209.90.99 Los demás. Kg 15 Ex.
+
+02.10 Carne y despojos comestibles, salados o en
+
+salmuera, secos o ahumados; harina y polvo
+
+comestibles, de carne o de despojos.
+
+- Carne de la especie porcina:
+
+0210.11 -- Jamones, paletas, y sus trozos, sin deshuesar.
+
+0210.11.01 Jamones, paletas, y sus trozos, sin
+
+deshuesar. Kg 10 Ex.
+
+0210.12 -- Tocino entreverado de panza (panceta) y sus
+
+trozos.
+
+0210.12.01 Tocino entreverado de panza (panceta) y sus
+
+trozos. Kg 10 Ex.
+
+0210.19 -- Las demás.
+
+0210.19.99 Las demás. Kg 10 Ex.
+
+0210.20 - Carne de la especie bovina.
+
+0210.20.01 Carne de la especie bovina. Kg 10 Ex.
+
+- Los demás, incluidos la harina y polvo
+
+comestibles, de carne o de despojos:
+
+0210.91 -- De primates.
+
+0210.91.01 De primates. Kg 10 Ex.
+
+0210.92 -- De ballenas, delfines y marsopas (mamíferos del
+
+orden Cetacea); de manatíes y dugones o dugongos
+
+(mamíferos del orden Sirenia); de otarios y focas,
+
+leones marinos y morsas (mamíferos del
+
+suborden Pinnipedia).
+
+0210.92.01 De ballenas, delfines y marsopas (mamíferos del
+
+orden Cetacea); manatíes y dugones o dugongos
+
+(mamíferos del orden Sirenia); otarios y focas,
+
+leones marinos y morsas (mamíferos del
+
+suborden Pinnipedia). Kg 10 Ex.
+
+0210.93 -- De reptiles (incluidas las serpientes y tortugas de
+
+mar).
+
+0210.93.01 De reptiles (incluidas las serpientes y tortugas de
+
+mar). Kg 10 Ex.
+
+0210.99 -- Los demás.
+
+0210.99.02 Pieles de cerdo ahumadas, enteras o en
+
+recortes. Kg 15 Ex.
+
+0210.99.99 Los demás. Kg 10 Ex.
+
+### Capítulo 03. Pescados y crustáceos, moluscos y demás invertebrados acuáticos
+
+Notas.
+
+1. Este Capítulo no comprende:
+
+a) los mamíferos de la partida 01.06;
+
+b) la carne de los mamíferos de la partida 01.06 (partidas 02.08 o 02.10);
+
+c) el pescado (incluidos los hígados, huevas y lechas) ni los crustáceos, moluscos o demás invertebrados acuáticos, muertos e impropios para la alimentación humana por su naturaleza o por su estado de presentación (Capítulo 05); la harina, polvo y "pellets" de pescado o de crustáceos, moluscos o demás invertebrados acuáticos, impropios para la alimentación humana (partida 23.01); o
+
+d) el caviar y los sucedáneos del caviar preparados con huevas de pescado (partida 16.04).
+
+2. En este Capítulo, el término "pellets" designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de una pequeña cantidad de aglutinante.
+
+3. Las partidas 03.05 a 03.08 no comprenden la harina, polvo y “pellets”, aptos para la alimentación humana (partida 03.09).
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+03.01 Peces vivos.
+
+- Peces ornamentales:
+
+0301.11 -- De agua dulce.
+
+0301.11.01 De agua dulce. Cbza 10 Ex.
+
+0301.19 -- Los demás.
+
+0301.19.99 Los demás. Cbza 10 Ex.
+
+- Los demás peces vivos:
+
+0301.91 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0301.91.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Cbza 15 Ex.
+
+0301.92 -- Anguilas (Anguilla spp.).
+
+0301.92.01 Anguilas (Anguilla spp.). Cbza 15 Ex.
+
+0301.93 -- Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama spp.).
+
+0301.93.01 Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama
+
+spp.). Cbza 15 Ex.
+
+0301.94 -- Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis).
+
+0301.94.01 Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis). Cbza Ex. Ex.
+
+0301.95 -- Atunes del sur (Thunnus maccoyii).
+
+0301.95.01 Atunes del sur (Thunnus maccoyii). Cbza Ex. Ex.
+
+0301.99 -- Los demás.
+
+0301.99.01 Depredadores, en sus estados de alevines,
+
+juveniles y adultos. Prohibida Prohibida Prohibida
+
+0301.99.99 Los demás. Cbza 15 Ex.
+
+03.02 Pescado fresco o refrigerado, excepto los
+
+filetes y demás carne de pescado de la
+
+partida 03.04.
+
+- Salmónidos, excepto los despojos comestibles
+
+de pescado de las subpartidas 0302.91 a
+
+0302.99:
+
+0302.11 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0302.11.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Kg 15 Ex.
+
+0302.13 -- Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus).
+
+0302.13.01 Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus). Kg 15 Ex.
+
+0302.14 -- Salmones del Atlántico (Salmo salar) y
+
+salmones del Danubio (Hucho hucho).
+
+0302.14.01 Salmones del Atlántico (Salmo salar) y
+
+salmones del Danubio (Hucho hucho). Kg 15 Ex.
+
+0302.19 -- Los demás.
+
+0302.19.99 Los demás. Kg 15 Ex.
+
+- Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae), excepto los despojos comestibles
+
+de pescado de las subpartidas 0302.91 a
+
+0302.99:
+
+0302.21 -- Fletanes (halibut) (Reinhardtius
+
+hippoglossoides, Hippoglossus hippoglossus,
+
+Hippoglossus stenolepis).
+
+0302.21.01 Fletanes (halibut) (Reinhardtius
+
+hippoglossoides, Hippoglossus hippoglossus,
+
+Hippoglossus stenolepis). Kg 15 Ex.
+
+0302.22 -- Sollas (Pleuronectes platessa).
+
+0302.22.01 Sollas (Pleuronectes platessa). Kg 15 Ex.
+
+0302.23 -- Lenguados (Solea spp.).
+
+0302.23.01 Lenguados (Solea spp.). Kg 15 Ex.
+
+0302.24 -- Rodaballos (turbots) (Psetta maxima).
+
+0302.24.01 Rodaballos (turbots) (Psetta maxima). Kg 15 Ex.
+
+0302.29 -- Los demás.
+
+0302.29.99 Los demás. Kg 15 Ex.
+
+- Atunes (del género Thunnus), listados o
+
+bonitos de vientre rayado (Euthynnus
+
+(Katsuwonus) pelamis), excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0302.91 a 0302.99:
+
+0302.31 -- Albacoras o atunes blancos (Thunnus
+
+alalunga).
+
+0302.31.01 Albacoras o atunes blancos (Thunnus
+
+alalunga). Kg Ex. Ex.
+
+0302.32 -- Atunes de aleta amarilla (rabiles) (Thunnus
+
+albacares).
+
+0302.32.01 Atunes de aleta amarilla (rabiles) (Thunnus
+
+albacares). Kg Ex. Ex.
+
+0302.33 -- Listados (bonitos de vientre rayado)
+
+(Katsuwonus pelamis).
+
+0302.33.01 Listados (bonitos de vientre rayado) Kg Ex. Ex.
+
+(Katsuwonus pelamis).
+
+0302.34 -- Patudos o atunes ojo grande (Thunnus
+
+obesus).
+
+0302.34.01 Patudos o atunes ojo grande (Thunnus
+
+obesus). Kg Ex. Ex.
+
+0302.35 -- Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis).
+
+0302.35.01 Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis). Kg Ex. Ex.
+
+0302.36 -- Atunes del sur (Thunnus maccoyii).
+
+0302.36.01 Atunes del sur (Thunnus maccoyii). Kg Ex. Ex.
+
+0302.39 -- Los demás.
+
+0302.39.99 Los demás. Kg Ex. Ex.
+
+- Arenques (Clupea harengus, Clupea pallasii),
+
+anchoas (Engraulis spp.), sardinas (Sardina
+
+pilchardus, Sardinops spp.), sardinelas
+
+(Sardinella spp.), espadines (Sprattus sprattus),
+
+caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus), caballas de
+
+la India (Rastrelliger spp.), carites
+
+(Scomberomorus spp.), jureles (Trachurus
+
+spp.), pámpanos (Caranx spp.), cobias
+
+(Rachycentron canadum), palometones
+
+plateados (Pampus spp.), papardas del
+
+Pacífico (Cololabis saira), macarelas
+
+(Decapterus spp.), capelanes (Mallotus
+
+villosus), peces espada (Xiphias gladius),
+
+bacoretas orientales (Euthynnus affinis),
+
+bonitos (Sarda spp.), agujas, marlines, peces
+
+vela o picudos (Istiophoridae), excepto los
+
+despojos comestibles de pescado de las
+
+subpartidas 0302.91 a 0302.99:
+
+0302.41 -- Arenques (Clupea harengus, Clupea pallasii).
+
+0302.41.01 Arenques (Clupea harengus, Clupea
+
+pallasii). Kg 15 Ex.
+
+0302.42 -- Anchoas (Engraulis spp.).
+
+0302.42.01 Anchoas (Engraulis spp.). Kg 15 Ex.
+
+0302.43 -- Sardinas (Sardina pilchardus, Sardinops spp.),
+
+sardinelas (Sardinella spp.) y espadines
+
+(Sprattus sprattus).
+
+0302.43.01 Sardinas (Sardina pilchardus, Sardinops spp.),
+
+sardinelas (Sardinella spp.) y espadines
+
+(Sprattus sprattus). Kg 15 Ex.
+
+0302.44 -- Caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus).
+
+0302.44.01 Caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus). Kg 15 Ex.
+
+0302.45 -- Jureles (Trachurus spp.).
+
+0302.45.01 Jureles (Trachurus spp.). Kg 15 Ex.
+
+0302.46 -- Cobias (Rachycentron canadum).
+
+0302.46.01 Cobias (Rachycentron canadum). Kg 15 Ex.
+
+0302.47 -- Peces espada (Xiphias gladius).
+
+0302.47.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0302.49 -- Los demás.
+
+0302.49.99 Los demás. Kg 15 Ex.
+
+- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0302.91 a 0302.99:
+
+0302.51 -- Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0302.51.01 Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0302.52 -- Eglefinos (Melanogrammus aeglefinus).
+
+0302.52.01 Eglefinos (Melanogrammus
+
+aeglefinus). Kg 15 Ex.
+
+0302.53 -- Carboneros (Pollachius virens).
+
+0302.53.01 Carboneros (Pollachius virens). Kg 15 Ex.
+
+0302.54 -- Merluzas (Merluccius spp., Urophycis spp.).
+
+0302.54.01 Merluzas (Merluccius spp., Urophycis
+
+spp.). Kg 10 Ex.
+
+0302.55 -- Abadejos de Alaska (Theragra chalcogramma).
+
+0302.55.01 Abadejos de Alaska (Theragra
+
+chalcogramma). Kg 15 Ex.
+
+0302.56 -- Bacaladillas (Micromesistius poutassou,
+
+Micromesistius australis).
+
+0302.56.01 Bacaladillas (Micromesistius poutassou,
+
+Micromesistius australis). Kg 15 Ex.
+
+0302.59 -- Los demás.
+
+0302.59.99 Los demás. Kg 15 Ex.
+
+- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.), excepto
+
+los despojos comestibles de pescado de las
+
+subpartidas 0302.91 a 0302.99:
+
+0302.71 -- Tilapias (Oreochromis spp.).
+
+0302.71.01 Tilapias (Oreochromis spp.). Kg 15 Ex.
+
+0302.72 -- Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.).
+
+0302.72.01 Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.). Kg 15 Ex.
+
+0302.73 -- Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama spp.).
+
+0302.73.01 Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama
+
+spp.). Kg 15 Ex.
+
+0302.74 -- Anguilas (Anguilla spp.).
+
+0302.74.01 Anguilas (Anguilla spp.). Kg 15 Ex.
+
+0302.79 -- Los demás.
+
+0302.79.99 Los demás. Kg 15 Ex.
+
+- Los demás pescados, excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0302.91 a 0302.99:
+
+0302.81 -- Cazones y demás escualos.
+
+0302.81.01 Cazones y demás escualos. Kg 15 Ex.
+
+0302.82 -- Rayas (Rajidae).
+
+0302.82.01 Rayas (Rajidae). Kg 15 Ex.
+
+0302.83 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0302.83.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0302.84 -- Róbalos (Dicentrarchus spp.).
+
+0302.84.01 Róbalos (Dicentrarchus spp.). Kg 15 Ex.
+
+0302.85 -- Sargos (Doradas, Espáridos) (Sparidae).
+
+0302.85.01 Sargos (Doradas, Espáridos)
+
+(Sparidae). Kg 15 Ex.
+
+0302.89 -- Los demás.
+
+0302.89.01 Totoabas. Kg 15 Prohibida
+
+0302.89.99 Los demás. Kg 15 Ex.
+
+- Hígados, huevas, lechas, aletas, cabezas,
+
+colas, vejigas natatorias y demás despojos
+
+comestibles de pescado:
+
+0302.91 -- Hígados, huevas y lechas.
+
+0302.91.01 Hígados, huevas y lechas. Kg 15 Ex.
+
+0302.92 -- Aletas de tiburón.
+
+0302.92.01 Aletas de tiburón. Kg 15 Ex.
+
+0302.99 -- Los demás.
+
+0302.99.01 De Atunes (del género Thunnus), listados o
+
+bonitos de vientre rayado (Euthynnus
+
+(Katsuwonus) pelamis). Kg Ex. Ex.
+
+0302.99.02 De Merluzas (Merluccius spp., Urophycis
+
+spp.). Kg 10 Ex.
+
+0302.99.03 De Totoabas. Kg 15 Prohibida
+
+0302.99.99 Los demás. Kg 15 Ex.
+
+03.03 Pescado congelado, excepto los filetes y
+
+demás carne de pescado de la partida 03.04.
+
+- Salmónidos, excepto los despojos comestibles
+
+de pescado de las subpartidas 0303.91 a
+
+0303.99:
+
+0303.11 -- Salmones rojos (Oncorhynchus nerka).
+
+0303.11.01 Salmones rojos (Oncorhynchus
+
+nerka). Kg 15 Ex.
+
+0303.12 -- Los demás salmones del Pacífico
+
+(Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus).
+
+0303.12.91 Los demás salmones del Pacífico
+
+(Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus). Kg 15 Ex.
+
+0303.13 -- Salmones del Atlántico (Salmo salar) y
+
+salmones del Danubio (Hucho hucho).
+
+0303.13.01 Salmones del Atlántico (Salmo salar) y
+
+salmones del Danubio (Hucho hucho). Kg 15 Ex.
+
+0303.14 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0303.14.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Kg 15 Ex.
+
+0303.19 -- Los demás.
+
+0303.19.99 Los demás. Kg 15 Ex.
+
+- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.), excepto
+
+los despojos comestibles de pescado de las
+
+subpartidas 0303.91 a 0303.99:
+
+0303.23 -- Tilapias (Oreochromis spp.).
+
+0303.23.01 Tilapias (Oreochromis spp.). Kg 15 Ex.
+
+0303.24 -- Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.).
+
+0303.24.01 Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.). Kg 15 Ex.
+
+0303.25 -- Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama spp.).
+
+0303.25.01 Carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama
+
+spp.). Kg 15 Ex.
+
+0303.26 -- Anguilas (Anguilla spp.).
+
+0303.26.01 Anguilas (Anguilla spp.). Kg 10 Ex.
+
+0303.29 -- Los demás.
+
+0303.29.99 Los demás. Kg 15 Ex.
+
+- Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae), excepto los despojos comestibles
+
+de pescado de las subpartidas 0303.91 a
+
+0303.99:
+
+0303.31 -- Fletanes (halibut) (Reinhardtius
+
+hippoglossoides, Hippoglossus hippoglossus,
+
+Hippoglossus stenolepis).
+
+0303.31.01 Fletanes (halibut) (Reinhardtius
+
+hippoglossoides, Hippoglossus hippoglossus,
+
+Hippoglossus stenolepis). Kg 15 Ex.
+
+0303.32 -- Sollas (Pleuronectes platessa).
+
+0303.32.01 Sollas (Pleuronectes platessa). Kg 15 Ex.
+
+0303.33 -- Lenguados (Solea spp.).
+
+0303.33.01 Lenguados (Solea spp.). Kg 15 Ex.
+
+0303.34 -- Rodaballos (turbots) (Psetta maxima).
+
+0303.34.01 Rodaballos (turbots) (Psetta maxima). Kg 15 Ex.
+
+0303.39 -- Los demás.
+
+0303.39.99 Los demás. Kg 15 Ex.
+
+- Atunes (del género Thunnus), listados
+
+(bonitos de vientre rayado)
+
+(Katsuwonus pelamis), excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0303.91 a 0303.99:
+
+0303.41 -- Albacoras o atunes blancos (Thunnus
+
+alalunga).
+
+0303.41.01 Albacoras o atunes blancos (Thunnus
+
+alalunga). Kg Ex. Ex.
+
+0303.42 -- Atunes de aleta amarilla (rabiles) (Thunnus
+
+albacares).
+
+0303.42.01 Atunes de aleta amarilla (rabiles) (Thunnus
+
+albacares). Kg Ex. Ex.
+
+0303.43 -- Listados (bonitos de vientre rayado.
+
+(Katsuwonus pelamis)
+
+0303.43.01 Listados (bonitos de vientre rayado). Kg Ex. Ex.
+
+(Katsuwonus pelamis)
+
+0303.44 -- Patudos o atunes ojo grande (Thunnus
+
+obesus).
+
+0303.44.01 Patudos o atunes ojo grande (Thunnus
+
+obesus). Kg Ex. Ex.
+
+0303.45 -- Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis).
+
+0303.45.01 Atunes comunes o de aleta azul, del Atlántico y
+
+del Pacífico (Thunnus thynnus, Thunnus
+
+orientalis). Kg Ex. Ex.
+
+0303.46 -- Atunes del sur (Thunnus maccoyii).
+
+0303.46.01 Atunes del sur (Thunnus maccoyii). Kg Ex. Ex.
+
+0303.49 -- Los demás.
+
+0303.49.99 Los demás. Kg Ex. Ex.
+
+- Arenques (Clupea harengus, Clupea pallasii),
+
+anchoas (Engraulis spp.), sardinas (Sardina
+
+pilchardus, Sardinops spp.), sardinelas
+
+(Sardinella spp.), espadines (Sprattus sprattus),
+
+caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus), caballas de
+
+la India (Rastrelliger spp.), carites
+
+(Scomberomorus spp.), jureles (Trachurus
+
+spp.), pámpanos (Caranx spp.), cobias
+
+(Rachycentron canadum), palometones
+
+plateados (Pampus spp.), papardas del
+
+Pacífico (Cololabis saira), macarelas
+
+(Decapterus spp.), capelanes (Mallotus
+
+villosus), peces espada (Xiphias gladius),
+
+bacoretas orientales (Euthynnus affinis),
+
+bonitos (Sarda spp.), agujas, marlines, peces
+
+vela o picudos (Istiophoridae), excepto los
+
+despojos comestibles de pescado de las
+
+subpartidas 0303.91 a 0303.99:
+
+0303.51 -- Arenques (Clupea harengus, Clupea pallasii).
+
+0303.51.01 Arenques (Clupea harengus, Clupea
+
+pallasii). Kg 15 Ex.
+
+0303.53 -- Sardinas (Sardina pilchardus, Sardinops spp.),
+
+sardinelas (Sardinella spp.) y espadines
+
+(Sprattus sprattus).
+
+0303.53.01 Sardinas (Sardina pilchardus, Sardinops spp.),
+
+sardinelas (Sardinella spp.) y espadines
+
+(Sprattus sprattus). Kg 15 Ex.
+
+0303.54 -- Caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus).
+
+0303.54.01 Caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus). Kg 15 Ex.
+
+0303.55 -- Jureles (Trachurus spp.).
+
+0303.55.01 Jureles (Trachurus spp.). Kg 15 Ex.
+
+0303.56 -- Cobias (Rachycentron canadum).
+
+0303.56.01 Cobias (Rachycentron canadum). Kg 15 Ex.
+
+0303.57 -- Peces espada (Xiphias gladius).
+
+0303.57.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0303.59 -- Los demás.
+
+0303.59.99 Los demás. Kg 15 Ex.
+
+- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0303.91 a 0303.99:
+
+0303.63 -- Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0303.63.01 Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0303.64 -- Eglefinos (Melanogrammus aeglefinus).
+
+0303.64.01 Eglefinos (Melanogrammus aeglefinus). Kg 15 Ex.
+
+0303.65 -- Carboneros (Pollachius virens).
+
+0303.65.01 Carboneros (Pollachius virens). Kg 15 Ex.
+
+0303.66 -- Merluzas (Merluccius spp., Urophycis spp.).
+
+0303.66.01 Merluzas (Merluccius spp., Urophycis
+
+spp.). Kg 10 Ex.
+
+0303.67 -- Abadejos de Alaska (Theragra chalcogramma).
+
+0303.67.01 Abadejos de Alaska (Theragra
+
+chalcogramma). Kg 15 Ex.
+
+0303.68 -- Bacaladillas (Micromesistius poutassou,
+
+Micromesistius australis).
+
+0303.68.01 Bacaladillas (Micromesistius poutassou,
+
+Micromesistius australis). Kg 15 Ex.
+
+0303.69 -- Los demás.
+
+0303.69.99 Los demás. Kg 15 Ex.
+
+- Los demás pescados, excepto los despojos
+
+comestibles de pescado de las subpartidas
+
+0303.91 a 0303.99:
+
+0303.81 -- Cazones y demás escualos.
+
+0303.81.01 Cazones y demás escualos. Kg 15 Ex.
+
+0303.82 -- Rayas (Rajidae).
+
+0303.82.01 Rayas (Rajidae). Kg 15 Ex.
+
+0303.83 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0303.83.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0303.84 -- Róbalos (Dicentrarchus spp.).
+
+0303.84.01 Róbalos (Dicentrarchus spp.). Kg 15 Ex.
+
+0303.89 -- Los demás.
+
+0303.89.01 Totoabas. Kg 15 Prohibida
+
+0303.89.99 Los demás. Kg 15 Ex.
+
+- Hígados, huevas, lechas, aletas, cabezas,
+
+colas, vejigas natatorias y demás despojos
+
+comestibles de pescado:
+
+0303.91 -- Hígados, huevas y lechas.
+
+0303.91.01 Hígados, huevas y lechas. Kg 15 Ex.
+
+0303.92 -- Aletas de tiburón.
+
+0303.92.01 Aletas de tiburón. Kg 15 Ex.
+
+0303.99 -- Los demás.
+
+0303.99.01 De Atunes (del género Thunnus), listados o
+
+bonitos de vientre rayado (Euthynnus
+
+(Katsuwonus) pelamis). Kg Ex. Ex.
+
+0303.99.02 De Merluzas (Merluccius spp., Urophycis spp.)
+
+y de Anguilas. Kg 10 Ex.
+
+0303.99.03 De Totoabas. Kg 15 Prohibida
+
+0303.99.99 Los demás. Kg 15 Ex.
+
+03.04 Filetes y demás carne de pescado (incluso
+
+picada), frescos, refrigerados o congelados.
+
+- Filetes frescos o refrigerados de tilapias
+
+(Oreochromis spp.), bagres o peces gato
+
+(Pangasius spp., Silurus spp., Clarias spp.,
+
+Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y de
+
+peces cabeza de serpiente (Channa spp.):
+
+0304.31 -- Tilapias (Oreochromis spp.).
+
+0304.31.01 Tilapias (Oreochromis spp.). Kg 15 Ex.
+
+0304.32 -- Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.).
+
+0304.32.01 Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.). Kg 15 Ex.
+
+0304.33 -- Percas del Nilo (Lates niloticus).
+
+0304.33.01 Percas del Nilo (Lates niloticus). Kg 15 Ex.
+
+0304.39 -- Los demás.
+
+0304.39.99 Los demás. Kg 15 Ex.
+
+- Filetes de los demás pescados, frescos o
+
+refrigerados:
+
+0304.41 -- Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho hucho).
+
+0304.41.01 Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho
+
+hucho). Kg 15 Ex.
+
+0304.42 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0304.42.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Kg 15 Ex.
+
+0304.43 -- Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae).
+
+0304.43.01 Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae). Kg 15 Ex.
+
+0304.44 -- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae.
+
+0304.44.01 Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae. Kg 15 Ex.
+
+0304.45 -- Peces espada (Xiphias gladius).
+
+0304.45.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0304.46 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0304.46.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0304.47 -- Cazones y demás escualos.
+
+0304.47.01 Cazones y demás escualos. Kg 15 Ex.
+
+0304.48 -- Rayas (Rajidae).
+
+0304.48.01 Rayas (Rajidae). Kg 15 Ex.
+
+0304.49 -- Los demás.
+
+0304.49.99 Los demás. Kg 15 Ex.
+
+- Los demás, frescos o refrigerados:
+
+0304.51 -- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y
+
+peces cabeza de serpiente (Channa spp.).
+
+0304.51.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0304.52 -- Salmónidos.
+
+0304.52.01 Salmónidos. Kg 15 Ex.
+
+0304.53 -- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae.
+
+0304.53.01 Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae. Kg 15 Ex.
+
+0304.54 -- Peces espada (Xiphias gladius).
+
+0304.54.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0304.55 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0304.55.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0304.56 -- Cazones y demás escualos.
+
+0304.56.01 Cazones y demás escualos. Kg 15 Ex.
+
+0304.57 -- Rayas (Rajidae).
+
+0304.57.01 Rayas (Rajidae). Kg 15 Ex.
+
+0304.59 -- Los demás.
+
+0304.59.99 Los demás. Kg 15 Ex.
+
+- Filetes congelados de tilapias (Oreochromis
+
+spp.), bagres o peces gato (Pangasius spp.,
+
+Silurus spp., Clarias spp., Ictalurus spp.),
+
+carpas (Cyprinus spp., Carassius spp.,
+
+Ctenopharyngodon idellus, Hypophthalmichthys
+
+spp., Cirrhinus spp., Mylopharyngodon piceus,
+
+Catla catla, Labeo spp., Osteochilus hasselti,
+
+Leptobarbus hoeveni, Megalobrama spp.),
+
+anguilas (Anguilla spp.), percas del Nilo (Lates
+
+niloticus) y de peces cabeza de serpiente
+
+(Channa spp.):
+
+0304.61 -- Tilapias (Oreochromis spp.).
+
+0304.61.01 Tilapias (Oreochromis spp.). Kg 15 Ex.
+
+0304.62 -- Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.).
+
+0304.62.01 Bagres o peces gato (Pangasius spp., Silurus
+
+spp., Clarias spp., Ictalurus spp.). Kg 15 Ex.
+
+0304.63 -- Percas del Nilo (Lates niloticus).
+
+0304.63.01 Percas del Nilo (Lates niloticus). Kg 15 Ex.
+
+0304.69 -- Los demás.
+
+0304.69.99 Los demás. Kg 15 Ex.
+
+- Filetes congelados de pescados de las familias
+
+Bregmacerotidae, Euclichthyidae, Gadidae,
+
+Macrouridae, Melanonidae, Merlucciidae,
+
+Moridae y Muraenolepididae:
+
+0304.71 -- Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0304.71.01 Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0304.72 -- Eglefinos (Melanogrammus aeglefinus).
+
+0304.72.01 Eglefinos (Melanogrammus aeglefinus). Kg 15 Ex.
+
+0304.73 -- Carboneros (Pollachius virens).
+
+0304.73.01 Carboneros (Pollachius virens). Kg 15 Ex.
+
+0304.74 -- Merluzas (Merluccius spp., Urophycis spp.).
+
+0304.74.01 Merluzas (Merluccius spp., Urophycis
+
+spp.). Kg 15 Ex.
+
+0304.75 -- Abadejos de Alaska (Theragra chalcogramma).
+
+0304.75.01 Abadejos de Alaska (Theragra
+
+chalcogramma). Kg 15 Ex.
+
+0304.79 -- Los demás.
+
+0304.79.99 Los demás. Kg 15 Ex.
+
+- Filetes congelados de los demás pescados:
+
+0304.81 -- Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho hucho).
+
+0304.81.01 Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho
+
+hucho). Kg 15 Ex.
+
+0304.82 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0304.82.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Kg 15 Ex.
+
+0304.83 -- Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae).
+
+0304.83.01 Pescados planos (Pleuronectidae, Bothidae,
+
+Cynoglossidae, Soleidae, Scophthalmidae y
+
+Citharidae). Kg 15 Ex.
+
+0304.84 -- Peces espada (Xiphias gladius).
+
+0304.84.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0304.85 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0304.85.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0304.86 -- Arenques (Clupea harengus, Clupea pallasii).
+
+0304.86.01 Arenques (Clupea harengus, Clupea
+
+pallasii). Kg 15 Ex.
+
+0304.87 -- Atunes (del género Thunnus), listados
+
+(bonitos de vientre rayado)
+
+(Katsuwonus) pelamis).
+
+0304.87.01 Atunes (del género Thunnus), listados
+
+(bonitos de vientre rayado)
+
+(Katsuwonus) pelamis). Kg 15 Ex.
+
+0304.88 -- Cazones, demás escualos y rayas (Rajidae).
+
+0304.88.01 Cazones, demás escualos y rayas
+
+(Rajidae). Kg 15 Ex.
+
+0304.89 -- Los demás.
+
+0304.89.99 Los demás. Kg 15 Ex.
+
+- Los demás, congelados:
+
+0304.91 -- Peces espada (Xiphias gladius).
+
+0304.91.01 Peces espada (Xiphias gladius). Kg 15 Ex.
+
+0304.92 -- Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.).
+
+0304.92.01 Austromerluzas antárticas y austromerluzas
+
+negras (merluzas negras, bacalaos de
+
+profundidad, nototenias negras) (Dissostichus
+
+spp.). Kg 15 Ex.
+
+0304.93 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.).
+
+0304.93.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0304.94 -- Abadejos de Alaska (Theragra chalcogramma).
+
+0304.94.01 Abadejos de Alaska (Theragra
+
+chalcogramma). Kg 15 Ex.
+
+0304.95 -- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los abadejos de
+
+Alaska (Theragra chalcogramma).
+
+0304.95.01 Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los abadejos de
+
+Alaska (Theragra chalcogramma). Kg 15 Ex.
+
+0304.96 -- Cazones y demás escualos.
+
+0304.96.01 Cazones y demás escualos. Kg 15 Ex.
+
+0304.97 -- Rayas (Rajidae).
+
+0304.97.01 Rayas (Rajidae). Kg 15 Ex.
+
+0304.99 -- Los demás.
+
+0304.99.99 Los demás. Kg 15 Ex.
+
+03.05 Pescado seco, salado o en salmuera;
+
+pescado ahumado, incluso cocido antes o
+
+durante el ahumado;
+
+0305.20 - Hígados, huevas y lechas, de pescado, secos,
+
+ahumados, salados o en salmuera.
+
+0305.20.01 Hígados, huevas y lechas, de pescado, secos,
+
+ahumados, salados o en salmuera. Kg 15 Ex.
+
+- Filetes de pescado, secos, salados o en
+
+salmuera, sin ahumar:
+
+0305.31 -- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.).
+
+0305.31.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0305.32 -- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae.
+
+0305.32.01 Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae. Kg 15 Ex.
+
+0305.39 -- Los demás.
+
+0305.39.99 Los demás. Kg 15 Ex.
+
+- Pescados ahumados, incluidos los filetes,
+
+excepto los despojos comestibles de pescado:
+
+0305.41 -- Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho hucho).
+
+0305.41.01 Salmones del Pacífico (Oncorhynchus nerka,
+
+Oncorhynchus gorbuscha, Oncorhynchus keta,
+
+Oncorhynchus tschawytscha, Oncorhynchus
+
+kisutch, Oncorhynchus masou y Oncorhynchus
+
+rhodurus), salmones del Atlántico (Salmo salar)
+
+y salmones del Danubio (Hucho
+
+hucho). Kg 15 Ex.
+
+0305.42 -- Arenques (Clupea harengus, Clupea pallasii).
+
+0305.42.01 Arenques (Clupea harengus, Clupea
+
+pallasii). Kg 15 Ex.
+
+0305.43 -- Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster).
+
+0305.43.01 Truchas (Salmo trutta, Oncorhynchus mykiss,
+
+Oncorhynchus clarki, Oncorhynchus
+
+aguabonita, Oncorhynchus gilae,
+
+Oncorhynchus apache y Oncorhynchus
+
+chrysogaster). Kg 15 Ex.
+
+0305.44 -- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.).
+
+0305.44.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0305.49 -- Los demás.
+
+0305.49.99 Los demás. Kg 15 Ex.
+
+- Pescado seco, incluso salado, sin ahumar,
+
+excepto los despojos comestibles:
+
+0305.51 -- Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0305.51.02 Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0305.52 -- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.).
+
+0305.52.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0305.53 -- Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los bacalaos
+
+(Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0305.53.01 Pescados de las familias Bregmacerotidae,
+
+Euclichthyidae, Gadidae, Macrouridae,
+
+Melanonidae, Merlucciidae, Moridae y
+
+Muraenolepididae, excepto los bacalaos
+
+(Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0305.54 -- Arenques (Clupea harengus, Clupea pallasii),
+
+anchoas (Engraulis spp.), sardinas (Sardina
+
+pilchardus, Sardinops spp.), sardinelas
+
+(Sardinella spp.), espadines (Sprattus sprattus),
+
+caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus), caballas de
+
+la India (Rastrelliger spp.), carites
+
+(Scomberomorus spp.), jureles (Trachurus
+
+spp.), pámpanos (Caranx spp.), cobias
+
+(Rachycentron canadum), palometones
+
+plateados (Pampus spp.), papardas del
+
+Pacífico (Cololabis saira), macarelas
+
+(Decapterus spp.), capelanes (Mallotus
+
+villosus), peces espada (Xiphias gladius),
+
+bacoretas orientales (Euthynnus affinis),
+
+bonitos (Sarda spp.), agujas, marlines, peces
+
+vela o picudos (Istiophoridae).
+
+0305.54.01 Arenques (Clupea harengus, Clupea pallasii),
+
+anchoas (Engraulis spp.), sardinas (Sardina
+
+pilchardus, Sardinops spp.), sardinelas
+
+(Sardinella spp.), espadines (Sprattus sprattus),
+
+caballas (Scomber scombrus, Scomber
+
+australasicus, Scomber japonicus), caballas de
+
+la India (Rastrelliger spp.), carites
+
+(Scomberomorus spp.), jureles (Trachurus
+
+spp.), pámpanos (Caranx spp.), cobias
+
+(Rachycentron canadum), palometones
+
+plateados (Pampus spp.), papardas del
+
+Pacífico (Cololabis saira), macarelas
+
+(Decapterus spp.), capelanes (Mallotus
+
+villosus), peces espada (Xiphias gladius),
+
+bacoretas orientales (Euthynnus affinis),
+
+bonitos (Sarda spp.), agujas, marlines, peces
+
+vela o picudos (Istiophoridae). Kg 15 Ex.
+
+0305.59 -- Los demás.
+
+0305.59.99 Los demás. Kg 15 Ex.
+
+- Pescado salado sin secar ni ahumar y pescado
+
+en salmuera, excepto los despojos
+
+comestibles:
+
+0305.61 -- Arenques (Clupea harengus, Clupea pallasii).
+
+0305.61.01 Arenques (Clupea harengus, Clupea
+
+pallasii). Kg 15 Ex.
+
+0305.62 -- Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus).
+
+0305.62.01 Bacalaos (Gadus morhua, Gadus ogac, Gadus
+
+macrocephalus). Kg 15 Ex.
+
+0305.63 -- Anchoas (Engraulis spp.).
+
+0305.63.01 Anchoas (Engraulis spp.). Kg 15 Ex.
+
+0305.64 -- Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.).
+
+0305.64.01 Tilapias (Oreochromis spp.), bagres o peces
+
+gato (Pangasius spp., Silurus spp., Clarias
+
+spp., Ictalurus spp.), carpas (Cyprinus spp.,
+
+Carassius spp., Ctenopharyngodon idellus,
+
+Hypophthalmichthys spp., Cirrhinus spp.,
+
+Mylopharyngodon piceus, Catla catla, Labeo
+
+spp., Osteochilus hasselti, Leptobarbus
+
+hoeveni, Megalobrama spp.), anguilas (Anguilla
+
+spp.), percas del Nilo (Lates niloticus) y peces
+
+cabeza de serpiente (Channa spp.). Kg 15 Ex.
+
+0305.69 -- Los demás.
+
+0305.69.99 Los demás. Kg 15 Ex.
+
+- Aletas, cabezas, colas, vejigas natatorias y
+
+demás despojos comestibles de pescado:
+
+0305.71 -- Aletas de tiburón.
+
+0305.71.01 Aletas de tiburón. Kg 15 Ex.
+
+0305.72 -- Cabezas, colas y vejigas natatorias, de
+
+pescado.
+
+0305.72.01 Cabezas, colas y vejigas natatorias, de
+
+pescado. Kg 15 Ex.
+
+0305.79 -- Los demás.
+
+0305.79.99 Los demás. Kg 15 Ex.
+
+03.06 Crustáceos, incluso pelados, vivos, frescos,
+
+refrigerados, congelados, secos, salados o
+
+en salmuera; crustáceos ahumados, incluso
+
+pelados, incluso cocidos antes o durante el
+
+ahumado; crustáceos sin pelar, cocidos en
+
+agua o vapor, incluso refrigerados,
+
+congelados, secos, salados o en salmuera;
+
+- Congelados:
+
+0306.11 -- Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.).
+
+0306.11.01 Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.). Kg 15 Ex.
+
+0306.12 -- Bogavantes (Homarus spp.).
+
+0306.12.01 Bogavantes (Homarus spp.). Kg 15 Ex.
+
+0306.14 -- Cangrejos (excepto macruros).
+
+0306.14.01 Cangrejos (excepto macruros). Kg 15 Ex.
+
+0306.15 -- Cigalas (Nephrops norvegicus).
+
+0306.15.01 Cigalas (Nephrops norvegicus). Kg 15 Ex.
+
+0306.16 -- Camarones, langostinos y demás decápodos
+
+Natantia, de agua fría (Pandalus spp., Crangon
+
+crangon).
+
+0306.16.01 Camarones, langostinos y demás decápodos
+
+Natantia, de agua fría (Pandalus spp., Crangon
+
+crangon). Kg 15 Ex.
+
+0306.17 -- Los demás camarones, langostinos y demás
+
+decápodos Natantia.
+
+0306.17.91 Los demás camarones, langostinos y demás
+
+decápodos Natantia. Kg 15 Ex.
+
+0306.19 -- Los demás
+
+0306.19.99 Los demás, Kg 15 Ex.
+
+- Vivos, frescos o refrigerados:
+
+0306.31 -- Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.).
+
+0306.31.01 Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.). Kg 15 Ex.
+
+0306.32 -- Bogavantes (Homarus spp.).
+
+0306.32.01 Bogavantes (Homarus spp.). Kg 15 Ex.
+
+0306.33 -- Cangrejos (excepto macruros).
+
+0306.33.01 Cangrejos (excepto macruros). Kg 15 Ex.
+
+0306.34 -- Cigalas (Nephrops norvegicus).
+
+0306.34.01 Cigalas (Nephrops norvegicus). Kg 15 Ex.
+
+0306.35 -- Camarones, langostinos y demás decápodos
+
+Natantia, de agua fría (Pandalus spp., Crangon
+
+crangon).
+
+0306.35.01 Reproductores y postlarvas de camarones
+
+peneidos y langostinos para
+
+acuacultura. Kg Ex. Ex.
+
+0306.35.99 Los demás. Kg 15 Ex.
+
+0306.36 -- Los demás camarones, langostinos y demás
+
+decápodos Natantia.
+
+0306.36.01 Reproductores y postlarvas de camarones
+
+peneidos y langostinos para
+
+acuacultura. Kg Ex. Ex.
+
+0306.36.99 Los demás. Kg 15 Ex.
+
+0306.39 -- Los demás
+
+0306.39.99 Los demás. Kg 15 Ex.
+
+- Los demás:
+
+0306.91 -- Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.).
+
+0306.91.01 Langostas (Palinurus spp., Panulirus spp.,
+
+Jasus spp.). Kg 15 Ex.
+
+0306.92 -- Bogavantes (Homarus spp.).
+
+0306.92.01 Bogavantes (Homarus spp.). Kg 15 Ex.
+
+0306.93 -- Cangrejos (excepto macruros).
+
+0306.93.01 Cangrejos (excepto macruros). Kg 15 Ex.
+
+0306.94 -- Cigalas (Nephrops norvegicus).
+
+0306.94.01 Cigalas (Nephrops norvegicus). Kg 15 Ex.
+
+0306.95 -- Camarones, langostinos y demás decápodos
+
+Natantia.
+
+0306.95.01 Reproductores y postlarvas de camarones
+
+peneidos y langostinos para
+
+acuacultura. Kg Ex. Ex.
+
+0306.95.99 Los demás. Kg 15 Ex.
+
+0306.99 -- Los demás.
+
+0306.99.99 Los demás. Kg 15 Ex.
+
+03.07 Moluscos, incluso separados de sus valvas,
+
+vivos, frescos, refrigerados, congelados,
+
+secos, salados o en salmuera; moluscos
+
+ahumados, incluso pelados, incluso cocidos
+
+antes o durante el ahumado.
+
+- Ostras:
+
+0307.11 -- Vivas, frescas o refrigeradas.
+
+0307.11.01 Vivas, frescas o refrigeradas. Kg 15 Ex.
+
+0307.12 -- Congeladas.
+
+0307.12.01 Congeladas. Kg 15 Ex.
+
+0307.19 -- Las demás.
+
+0307.19.99 Las demás. Kg 15 Ex.
+
+- Vieiras, volandeiras y demás moluscos de
+
+la familia Pectinidae
+
+0307.21 -- Vivos, frescos o refrigerados.
+
+0307.21.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.22 -- Congelados.
+
+0307.22.01 Congelados. Kg 15 Ex.
+
+0307.29 -- Los demás.
+
+0307.29.99 Los demás. Kg 15 Ex.
+
+- Mejillones (Mytilus spp., Perna spp.):
+
+0307.31 -- Vivos, frescos o refrigerados.
+
+0307.31.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.32 -- Congelados.
+
+0307.32.01 Congelados. Kg 15 Ex.
+
+0307.39 -- Los demás.
+
+0307.39.99 Los demás. Kg 15 Ex.
+
+- Jibias (sepias) y globitos; calamares y potas:
+
+0307.42 -- Vivos, frescos o refrigerados.
+
+0307.42.02 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.43 -- Congelados.
+
+0307.43.02 Congelados. Kg 15 Ex.
+
+0307.49 -- Los demás.
+
+0307.49.99 Los demás. Kg 15 Ex.
+
+- Pulpos (Octopus spp.):
+
+0307.51 -- Vivos, frescos o refrigerados.
+
+0307.51.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.52 -- Congelados.
+
+0307.52.01 Congelados. Kg 15 Ex.
+
+0307.59 -- Los demás.
+
+0307.59.99 Los demás. Kg 15 Ex.
+
+0307.60 - Caracoles, excepto los de mar.
+
+0307.60.01 Caracoles, excepto los de mar. Kg 15 Ex.
+
+- Almejas, berberechos y arcas (familias Arcidae,
+
+Arcticidae, Cardiidae, Donacidae, Hiatellidae,
+
+Mactridae, Mesodesmatidae, Myidae,
+
+Semelidae, Solecurtidae, Solenidae,
+
+Tridacnidae y Veneridae):
+
+0307.71 -- Vivos, frescos o refrigerados.
+
+0307.71.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.72 -- Congelados.
+
+0307.72.01 Congelados. Kg 15 Ex.
+
+0307.79 -- Los demás.
+
+0307.79.99 Los demás. Kg 15 Ex.
+
+- Abulones u orejas de mar (Haliotis spp.) y
+
+cobos (caracoles de mar) (Strombus spp.):
+
+0307.81 -- Abulones u orejas de mar (Haliotis spp.), vivos,
+
+frescos o refrigerados.
+
+0307.81.01 Abulones u orejas de mar (Haliotis spp.), vivos,
+
+frescos o refrigerados. Kg 15 Ex.
+
+0307.82 -- Cobos (caracoles de mar) (Strombus spp.),
+
+vivos, frescos o refrigerados.
+
+0307.82.01 Cobos (caracoles de mar) (Strombus spp.),
+
+vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.83 -- Abulones u orejas de mar (Haliotis spp.),
+
+congelados.
+
+0307.83.01 Abulones u orejas de mar (Haliotis spp.),
+
+congelados. Kg 15 Ex.
+
+0307.84 -- Cobos (caracoles de mar) (Strombus spp.),
+
+congelados.
+
+0307.84.01 Cobos (caracoles de mar) (Strombus spp.),
+
+congelados. Kg 15 Ex.
+
+0307.87 -- Los demás abulones u orejas de mar (Haliotis
+
+spp.).
+
+0307.87.91 Los demás abulones u orejas de mar (Haliotis
+
+spp.). Kg 15 Ex.
+
+0307.88 -- Los demás cobos (caracoles de mar)
+
+(Strombus spp.).
+
+0307.88.91 Los demás cobos (caracoles de mar)
+
+(Strombus spp.). Kg 15 Ex.
+
+Los demás.
+
+0307.91 -- Vivos, frescos o refrigerados.
+
+0307.91.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0307.92 -- Congelados.
+
+0307.92.01 Congelados. Kg 15 Ex.
+
+0307.99 -- Los demás.
+
+0307.99.99 Los demás. Kg 15 Ex.
+
+03.08 Invertebrados acuáticos, excepto los
+
+crustáceos y moluscos, vivos, frescos,
+
+refrigerados, congelados, secos, salados o
+
+en salmuera; invertebrados acuáticos
+
+ahumados, excepto los
+
+crustáceos y moluscos, incluso cocidos
+
+antes o durante el ahumado.
+
+- Pepinos de mar (Stichopus japonicus,
+
+Holothuroidea):
+
+0308.11 -- Vivos, frescos o refrigerados.
+
+0308.11.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0308.12 -- Congelados.
+
+0308.12.01 Congelados. Kg 15 Ex.
+
+0308.19 -- Los demás.
+
+0308.19.99 Los demás. Kg 15 Ex.
+
+- Erizos de mar (Strongylocentrotus spp.,
+
+Paracentrotus lividus, Loxechinus albus,
+
+Echinus esculentus):
+
+0308.21 -- Vivos, frescos o refrigerados.
+
+0308.21.01 Vivos, frescos o refrigerados. Kg 15 Ex.
+
+0308.22 -- Congelados.
+
+0308.22.01 Congelados. Kg 15 Ex.
+
+0308.29 -- Los demás.
+
+0308.29.99 Los demás. Kg 15 Ex.
+
+0308.30 - Medusas (Rhopilema spp.).
+
+0308.30.01 Medusas (Rhopilema spp.). Kg 15 Ex.
+
+0308.90 - Los demás.
+
+0308.90.99 Los demás. Kg 15 Ex.
+
+03.09 Harina, polvo y “pellets” de pescado,
+
+crustáceos, moluscos y demás
+
+invertebrados acuáticos, aptos para la
+
+alimentación humana.
+
+0309.10 - De pescado.
+
+0309.10.01 De pescado. Kg 15 Ex.
+
+0309.90 - Los demás.
+
+0309.90.99 Los demás. Kg 15 Ex.
+
+### Capítulo 04. Leche y productos lácteos; huevos de ave; miel natural; productos comestibles de origen animal, no expresados ni comprendidos en otra parte
+
+Notas.
+
+1. Se considera leche, la leche entera y la leche desnatada (descremada) total o parcialmente.
+
+2. En la partida 04.03, el yogur puede estar concentrado o aromatizado o con adición de azúcar u otro edulcorante, con frutas u otros frutos, cacao, chocolate, especias, café o extractos de café, plantas, partes de plantas, cereales o productos de panadería, siempre que cualquier sustancia añadida no se utilice para sustituir, en todo o en parte, cualquier componente de la leche, y el producto conserve el carácter esencial de yogur.
+
+3. En la partida 04.05:
+
+a) Se entiende por mantequilla (manteca), la mantequilla (manteca) natural, la mantequilla (manteca) del lactosuero o la mantequilla (manteca) “recombinada” (fresca, salada o rancia, incluso en recipientes herméticamente cerrados) que provengan exclusivamente de la leche, con un contenido de materias grasas de la leche que sea superior o igual al 80% pero inferior o igual al 95%, en peso, de materias sólidas de la leche, inferior o igual al 2% en peso y, de agua, inferior o igual al 16%en peso. La mantequilla (manteca) no debe contener emulsionantes añadidos pero puede contener cloruro sódico, colorantes alimentarios, sales de neutralización y cultivos de bacterias lácticas inocuas.
+
+b) Se entiende por pastas lácteas para untar las emulsiones del tipo agua-en-aceite que se puedan untar y contengan materias grasas de la leche como únicas materias grasas y en las que el contenido de éstas sea superior o igual al 39% pero inferior al 80%, en peso.
+
+4. Los productos obtenidos por concentración del lactosuero con adición de leche o de materias grasas de la leche se clasifican en la partida 04.06 como quesos, siempre que presenten las tres características siguientes:
+
+a) un contenido de materias grasas de la leche superior o igual al 5%, calculado en peso sobre el extracto seco;
+
+b) un contenido de extracto seco superior o igual al 70% pero inferior o igual al 85%, calculado en peso;
+
+c) moldeados o susceptibles de serlo.
+
+5. Este Capítulo no comprende:
+
+a) los insectos sin vida, impropios para la alimentación humana (partida 05.11);
+
+b) los productos obtenidos del lactosuero, con un contenido de lactosa superior al 95% en peso, expresado en lactosa anhidra, calculado sobre materia seca (partida 17.02);
+
+c) los productos resultantes de la sustitución en la leche de uno o varios de sus componentes naturales (por ejemplo, materia grasa de tipo butírico) por otra sustancia (por ejemplo, materia grasa de tipo oleico) (partidas 19.01 o 21.06);
+
+d) las albúminas (incluidos los concentrados de varias proteínas del lactosuero, con un contenido de proteínas del lactosuero superior al 80% en peso, calculado sobre materia seca) (partida 35.02) ni las globulinas (partida 35.04).
+
+6. En la partida 04.10, el término insectos se refiere a insectos comestibles, sin vida, enteros o en trozos, frescos, refrigerados, congelados, secos, ahumados, salados o en salmuera, así como la harina y polvo, de insectos, aptos para la alimentación humana. Sin embargo, este término no comprende los insectos comestibles, sin vida, preparados o conservados de otro modo (Sección IV, generalmente).
+
+Notas de subpartida.
+
+1. En la subpartida 0404.10, se entiende por lactosuero modificado el producto constituido por componentes del lactosuero, es decir, lactosuero del que se haya extraído, total o parcialmente, lactosa, proteínas o sales minerales, o al que se haya añadido componentes naturales del lactosuero, así como los productos obtenidos por mezcla de componentes naturales del lactosuero.
+
+2. En la subpartida 0405.10, el término mantequilla (manteca) no comprende la mantequilla (manteca) deshidratada ni la “ghee” (subpartida 0405.90).
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+04.01 Leche y nata (crema), sin concentrar, sin
+
+adición de azúcar ni otro edulcorante.
+
+0401.10 - Con un contenido de materias grasas inferior o
+
+igual al 1% en peso.
+
+0401.10.02 Con un contenido de materias grasas inferior o
+
+igual al 1% en peso. L 10 Ex.
+
+0401.20 - Con un contenido de materias grasas superior al
+
+1% pero inferior o igual al 6%, en peso.
+
+0401.20.02 Con un contenido de materias grasas superior al
+
+1% pero inferior o igual al 6%,
+
+en peso. L 10 Ex.
+
+0401.40 - Con un contenido de materias grasas superior al
+
+6% pero inferior o igual al 10%, en peso.
+
+0401.40.02 Con un contenido de materias grasas superior al
+
+6% pero inferior o igual al 10%,
+
+en peso. L 10 Ex.
+
+0401.50 - Con un contenido de materias grasas superior al
+
+10% en peso.
+
+0401.50.02 Con un contenido de materias grasas superior al
+
+10% en peso. L 10 Ex.
+
+04.02 Leche y nata (crema), concentradas o con
+
+adición de azúcar u otro edulcorante.
+
+0402.10 - En polvo, gránulos o demás formas sólidas, con
+
+un contenido de materias grasas inferior o igual al
+
+1.5% en peso.
+
+0402.10.01 Leche en polvo o en pastillas. Kg 45 Ex.
+
+0402.10.99 Las demás. Kg AMX Ex.
+
+(10%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+- En polvo, gránulos o demás formas sólidas, con
+
+un contenido de materias grasas superior al 1.5%
+
+en peso:
+
+0402.21 -- Sin adición de azúcar ni otro edulcorante.
+
+0402.21.01 Leche en polvo o en pastillas. Kg 45 Ex.
+
+0402.21.99 Las demás. Kg 10 Ex.
+
+0402.29 -- Las demás.
+
+0402.29.99 Las demás. Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+- Las demás:
+
+0402.91 -- Sin adición de azúcar ni otro edulcorante.
+
+0402.91.01 Leche evaporada. Kg 45 Ex.
+
+0402.91.99 Las demás. Kg 20 Ex.
+
+0402.99 -- Las demás.
+
+0402.99.01 Leche condensada. Kg AMX Ex.
+
+(15%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+0402.99.99 Las demás. Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+04.03 Yogur; suero de mantequilla (de manteca),
+
+leche y nata (crema) cuajadas, kéfir y
+
+demás leches y natas
+
+(cremas), fermentadas o acidificadas, incluso
+
+concentrados, con adición de azúcar u otro
+
+edulcorante, aromatizados o con frutas u
+
+otros frutos o cacao.
+
+0403.20 - Yogur.
+
+0403.20.01 Preparado, mezclado o combinado con AMX Ex
+
+chocolate, especias, café o extractos (10%+0.36 Dls
+
+de café, plantas partes de plantas por Kg de
+
+cereales o productos de panadería azúcar)
+
+0403.20.99 Los demás Kg 20 Ex.
+
+0403.90 - Los demás.
+
+0403.90.99 Los demás. Kg 20 Ex.
+
+04.04 Lactosuero, incluso concentrado o con
+
+adición de azúcar u otro edulcorante;
+
+productos constituidos por los componentes
+
+naturales de la leche, incluso con adición de
+
+azúcar u otro edulcorante, no expresados ni
+
+comprendidos en otra parte.
+
+0404.10 - Lactosuero, aunque esté modificado, incluso
+
+concentrado o con adición de azúcar u otro
+
+edulcorante.
+
+0404.10.01 Suero de leche en polvo, con contenido de
+
+proteínas inferior o igual
+
+a 12.5%. Kg 10 Ex.
+
+0404.10.99 Los demás. Kg AMX Ex.
+
+(10%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+0404.90 - Los demás.
+
+0404.90.99 Los demás. Kg 20 Ex.
+
+04.05 Mantequilla (manteca) y demás materias
+
+grasas de la leche; pastas lácteas para untar.
+
+0405.10 - Mantequilla (manteca).
+
+0405.10.02 Mantequilla (manteca). Kg 20 Ex.
+
+0405.20 - Pastas lácteas para untar.
+
+0405.20.01 Pastas lácteas para untar. Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+0405.90 - Las demás.
+
+0405.90.01 Grasa butírica deshidratada. Kg Ex. Ex.
+
+0405.90.99 Las demás. Kg 20 Ex.
+
+04.06 Quesos y requesón.
+
+0406.10 - Queso fresco (sin madurar), incluido el del
+
+lactosuero, y requesón.
+
+0406.10.01 Queso fresco (sin madurar), incluido el del
+
+lactosuero, y requesón. Kg 45 Ex.
+
+0406.20 - Queso de cualquier tipo, rallado o en polvo.
+
+0406.20.01 Queso de cualquier tipo, rallado o
+
+en polvo. Kg 20 Ex.
+
+0406.30 - Queso fundido, excepto el rallado o en polvo.
+
+0406.30.02 Queso fundido, excepto el rallado o
+
+en polvo. Kg 45 Ex.
+
+0406.40 - Queso de pasta azul y demás quesos que
+
+presenten vetas producidas por Penicillium roqueforti.
+
+0406.40.01 Queso de pasta azul y demás quesos que
+
+presenten vetas producidas por
+
+Penicillium roqueforti. Kg 20 Ex.
+
+0406.90 - Los demás quesos.
+
+0406.90.01 De pasta dura, denominado Sardo, cuando su
+
+presentación así lo indique. Kg 20 Ex.
+
+0406.90.02 De pasta dura, denominado Reggiano o
+
+Reggianito, cuando su presentación así lo
+
+indique. Kg Ex. Ex.
+
+0406.90.04 Grana o Parmegiano-reggiano, con un contenido
+
+de materias grasas inferior o igual al
+
+40% en peso, con un contenido de agua, en la
+
+materia no grasa, inferior o igual al 47% en peso; Danbo,
+
+Edam, Fontal, Fontina, Fynbo, Gouda, Havarti,
+
+Maribo, Samsoe, Esrom, Itálico, Kernhem, Saint-
+
+Nectaire, Saint-Paulin o Taleggio, con un
+
+contenido de materias grasas inferior o
+
+igual al 40% en peso, con un contenido de agua,
+
+en la materia no grasa, superior al 47%, pero inferior o
+
+igual al 72% en peso. kg. 20 Ex.
+
+0406.90.99 Los demás. kg. 45 Ex.
+
+04.07 Huevos de ave con cáscara (cascarón),
+
+frescos, conservados o cocidos.
+
+- Huevos fecundados para incubación:
+
+0407.11 -- De gallina de la especie Gallus domesticus.
+
+0407.11.01 De gallina de la especie Gallus
+
+domesticus. Kg Ex. Ex.
+
+0407.19 -- Los demás.
+
+0407.19.99 Los demás. Kg Ex. Ex.
+
+- Los demás huevos frescos:
+
+0407.21 -- De gallina de la especie Gallus domesticus.
+
+0407.21.02 De gallina de la especie Gallus
+
+domesticus. Kg Ex. Ex.
+
+0407.29 -- Los demás.
+
+0407.29.01 Para consumo humano. Kg 45 Ex.
+
+0407.29.99 Los demás. Kg 20 Ex.
+
+0407.90 - Los demás.
+
+0407.90.99 Los demás. Kg 20 Ex.
+
+04.08 Huevos de ave sin cáscara (cascarón) y
+
+yemas de huevo, frescos, secos, cocidos en
+
+agua o vapor, moldeados, congelados o
+
+conservados de otro modo, incluso con
+
+adición de azúcar u otro edulcorante.
+
+- Yemas de huevo:
+
+0408.11 -- Secas.
+
+0408.11.01 Secas. Kg Ex. Ex.
+
+0408.19 -- Las demás.
+
+0408.19.99 Las demás. Kg Ex. Ex.
+
+- Los demás:
+
+0408.91 -- Secos.
+
+0408.91.02 Secos. Kg Ex. Ex.
+
+0408.99 -- Los demás.
+
+0408.99.02 Huevos de aves marinas
+
+guaneras. Kg 20 Ex.
+
+0408.99.99 Los demás. Kg Ex. Ex.
+
+04.09 Miel natural.
+
+0409.00 - Miel natural.
+
+0409.00.01 Miel natural. Kg 20 Ex.
+
+04.10 Insectos y demás productos comestibles de origen animal, no expresados ni comprendidos
+
+en otra parte
+
+0410.10. Insectos
+
+0410.10.01 Insectos Kg 10 Ex.
+
+0410.90. Los demás.
+
+0410.90.01 Huevos de tortuga de cualquier
+
+clase Kg 20 Prohibida
+
+0410.90.99 Los demás Kg 20 Ex.
+
+### Capítulo 05. Los demás productos de origen animal no expresados ni comprendidos en otra parte
+
+Notas.
+
+1. Este Capítulo no comprende:
+
+a) los productos comestibles, excepto las tripas, vejigas y estómagos de animales, enteros o en trozos, y la sangre animal (líquida o desecada);
+
+b) los cueros, pieles y peletería, excepto los productos de la partida 05.05 y los recortes y desperdicios similares de pieles en bruto de la partida 05.11 (Capítulos 41 o 43);
+
+c) las materias primas textiles de origen animal, excepto la crin y los desperdicios de crin (Sección XI);
+
+d) las cabezas preparadas para artículos de cepillería (partida 96.03).
+
+2. En la partida 05.01 también se considera cabello en bruto el extendido longitudinalmente, pero sin colocarlo en el mismo sentido.
+
+3. En la Nomenclatura, se considera marfil la materia de las defensas de elefante, hipopótamo, morsa, narval o jabalí y los cuernos de rinoceronte, así como los dientes de todos los animales.
+
+4. En la Nomenclatura, se considera crin tanto el pelo de la crin como el de la cola de los équidos o de los bóvidos. La partida 05.11 comprende, entre otros, la crin y sus desperdicios, incluso en napas con o sin soporte.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+05.01 Cabello en bruto, incluso lavado o
+
+desgrasado; desperdicios de cabello.
+
+0501.00 - Cabello en bruto, incluso lavado o desgrasado;
+
+desperdicios de cabello.
+
+0501.00.01 Cabello en bruto, incluso lavado o desgrasado;
+
+desperdicios de cabello. Kg 20 Ex.
+
+05.02 Cerdas de cerdo o de jabalí; pelo de tejón y
+
+demás pelos para cepillería; desperdicios de
+
+dichas cerdas o pelos.
+
+0502.10 - Cerdas de cerdo o de jabalí y sus desperdicios.
+
+0502.10.01 Cerdas de cerdo o de jabalí y sus
+
+desperdicios. Kg Ex. Ex.
+
+0502.90 - Los demás.
+
+0502.90.99 Los demás. Kg 10 Ex.
+
+05.04 Tripas, vejigas y estómagos de animales,
+
+excepto los de pescado, enteros o en trozos,
+
+frescos, refrigerados, congelados, salados o
+
+en salmuera, secos o ahumados.
+
+0504.00 - Tripas, vejigas y estómagos de animales, excepto
+
+los de pescado, enteros o en trozos, frescos,
+
+refrigerados, congelados, salados o en salmuera,
+
+secos o ahumados.
+
+0504.00.01 Tripas, vejigas y estómagos de animales, excepto
+
+los de pescado, enteros o en trozos, frescos,
+
+refrigerados, congelados, salados o en salmuera,
+
+secos o ahumados. Kg 10 Ex.
+
+05.05 Pieles y demás partes de ave, con sus plumas
+
+o plumón, plumas y partes de plumas (incluso
+
+recortadas) y plumón, en bruto o simplemente
+
+limpiados, desinfectados o preparados para
+
+su conservación; polvo y desperdicios de
+
+plumas o de partes de plumas.
+
+0505.10 - Plumas de las utilizadas para relleno; plumón.
+
+0505.10.01 Plumas de las utilizadas para relleno;
+
+plumón. Kg 10 Ex.
+
+0505.90 - Los demás.
+
+0505.90.99 Los demás. Kg 10 Ex.
+
+05.06 Huesos y núcleos córneos, en bruto,
+
+desgrasados, simplemente preparados (pero
+
+sin cortar en forma determinada), acidulados o
+
+desgelatinizados; polvo y desperdicios de
+
+estas materias.
+
+0506.10 - Oseína y huesos acidulados.
+
+0506.10.01 Oseína y huesos acidulados. Kg 10 Ex.
+
+0506.90 - Los demás.
+
+0506.90.99 Los demás. Kg 10 Ex.
+
+05.07 Marfil, concha (caparazón) de tortuga,
+
+ballenas de mamíferos marinos (incluidas las
+
+barbas), cuernos, astas, cascos, pezuñas,
+
+uñas, garras y picos, en bruto o simplemente
+
+preparados, pero sin cortar en forma
+
+determinada; polvo y desperdicios de estas
+
+materias.
+
+0507.10 - Marfil; polvo y desperdicios de marfil.
+
+0507.10.01 Marfil; polvo y desperdicios
+
+de marfil. Kg 10 Ex.
+
+0507.90 - Los demás.
+
+0507.90.99 Los demás. Kg 10 Ex.
+
+05.08 Coral y materias similares, en bruto o
+
+simplemente preparados, pero sin otro
+
+trabajo; valvas y caparazones de moluscos,
+
+crustáceos o equinodermos, y jibiones, en
+
+bruto o simplemente preparados, pero sin
+
+cortar en forma determinada, incluso en polvo
+
+y desperdicios.
+
+0508.00 - Coral y materias similares, en bruto o
+
+simplemente preparados, pero sin otro trabajo;
+
+valvas y caparazones de moluscos, crustáceos o
+
+equinodermos, y jibiones, en bruto o simplemente
+
+preparados, pero sin cortar en forma
+
+determinada, incluso en polvo y desperdicios.
+
+0508.00.02 Coral y materias similares, en bruto o
+
+simplemente preparados, pero sin otro trabajo;
+
+valvas y caparazones de moluscos, crustáceos o
+
+equinodermos, y jibiones, en bruto o simplemente
+
+preparados, pero sin cortar en forma
+
+determinada, incluso en polvo
+
+y desperdicios. kg 10 Ex.
+
+05.10 Ámbar gris, castóreo, algalia y almizcle;
+
+cantáridas; bilis, incluso desecada; glándulas
+
+y demás sustancias de origen animal
+
+utilizadas para la preparación de productos
+
+farmacéuticos, frescas, refrigeradas,
+
+congeladas o conservadas provisionalmente
+
+de otra forma.
+
+0510.00 - Ámbar gris, castóreo, algalia y almizcle;
+
+cantáridas; bilis, incluso desecada; glándulas y
+
+demás sustancias de origen animal utilizadas
+
+para la preparación de productos farmacéuticos,
+
+frescas, refrigeradas, congeladas o conservadas
+
+provisionalmente de otra forma.
+
+0510.00.04 Ámbar gris, castóreo, algalia y almizcle;
+
+cantáridas; bilis, incluso desecada; glándulas y
+
+demás sustancias de origen animal utilizadas
+
+para la preparación de productos farmacéuticos,
+
+frescas, refrigeradas, congeladas o conservadas
+
+provisionalmente de otra forma. Kg 10 Ex.
+
+05.11 Productos de origen animal no expresados ni
+
+comprendidos en otra parte; animales
+
+muertos de los Capítulos 01 o 03, impropios
+
+para la alimentación humana.
+
+0511.10 - Semen de bovino.
+
+0511.10.01 Semen de bovino. Kg Ex. Ex.
+
+- Los demás:
+
+0511.91 -- Productos de pescado o de crustáceos, moluscos
+
+o demás invertebrados acuáticos; animales
+
+muertos del Capítulo 03.
+
+0511.91.02 Quistes de artemia (incluso enlatados al vacío),
+
+poliquetos y krill para acuacultura. Kg Ex. Ex.
+
+0511.91.99 Los demás. Kg 20 Ex.
+
+0511.99 -- Los demás.
+
+0511.99.01 Cochinillas, enteras o en polvo. Kg Ex. Ex.
+
+0511.99.03 Semen. Kg Ex. Ex.
+
+0511.99.04 Huevas fecundadas, semillas, larvas y embriones
+
+de especies acuáticas para
+
+acuacultura. Kg Ex. Ex.
+
+0511.99.05 Embriones de las especies de ganado bovino,
+
+equino, porcino, ovino y caprino. Pza Ex. Ex.
+
+0511.99.08 Esponjas naturales de origen animal. Kg 20 Ex.
+
+0511.99.99 Los demás. Kg 10 Ex.
+
+#### Sección II. PRODUCTOS DEL REINO VEGETAL
+
+Nota.
+
+1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso.
+
+### Capítulo 06. Plantas vivas y productos de la floricultura
+
+Notas.
+
+1. Salvo lo dispuesto en la segunda parte de la partida 06.01, este Capítulo comprende únicamente los productos suministrados habitualmente por los horticultores, viveristas o floristas para la plantación o la ornamentación. Sin embargo, se excluyen de este Capítulo las papas (patatas), cebollas hortenses, chalotes, ajos y demás productos del Capítulo 07.
+
+2. Los ramos, cestas, coronas y artículos similares se asimilan a las flores o follajes de las partidas 06.03 o 06.04, sin tener en cuenta los accesorios de otras materias. Sin embargo, estas partidas no comprenden los collages y cuadros similares de la partida 97.01.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+06.01 Bulbos, cebollas, tubérculos, raíces y bulbos
+
+tuberosos, turiones y rizomas, en reposo
+
+vegetativo, en vegetación o en flor; plantas y
+
+raíces de achicoria, excepto las raíces de la
+
+partida 12.12.
+
+0601.10 - Bulbos, cebollas, tubérculos, raíces y bulbos
+
+tuberosos, turiones y rizomas, en reposo vegetativo.
+
+0601.10.09 Bulbos, cebollas, tubérculos, raíces y bulbos
+
+tuberosos, turiones y rizomas, en reposo
+
+vegetativo. Kg Ex. Ex.
+
+0601.20 - Bulbos, cebollas, tubérculos, raíces y bulbos
+
+tuberosos, turiones y rizomas, en vegetación o en
+
+flor; plantas y raíces de achicoria.
+
+0601.20.10 Bulbos, cebollas, tubérculos, raíces y bulbos
+
+tuberosos, turiones y rizomas, en vegetación o en
+
+flor; plantas y raíces de achicoria. Kg 10 Ex.
+
+06.02 Las demás plantas vivas (incluidas sus
+
+raíces), esquejes e injertos; micelios.
+
+0602.10 - Esquejes sin enraizar e injertos.
+
+0602.10.07 Esquejes sin enraizar e injertos. Kg Ex. Ex.
+
+0602.20 - Árboles, arbustos y matas, de frutas o de otros
+
+frutos comestibles, incluso injertados.
+
+0602.20.04 Árboles, arbustos y matas, de frutas o de otros
+
+frutos comestibles, incluso
+
+injertados. Kg 10 Ex.
+
+0602.30 - Rododendros y azaleas, incluso injertados.
+
+0602.30.01 Rododendros y azaleas, incluso
+
+injertados. Kg 10 Ex.
+
+0602.40 - Rosales, incluso injertados.
+
+0602.40.01 Estacas, plantas o plántulas de rosales, con o sin
+
+raíz, incluso injertados. Kg Ex. Ex.
+
+0602.40.99 Los demás. Kg 10 Ex.
+
+0602.90 - Los demás.
+
+0602.90.06 Esquejes con raíz. Kg Ex. Ex.
+
+0602.90.07 Plantas vivas acuáticas, incluidos sus bulbos y
+
+sus partes, para acuacultura. Kg Ex. Ex.
+
+0602.90.99 Los demás. Kg 10 Ex.
+
+06.03 Flores y capullos, cortados para ramos o
+
+adornos, frescos, secos, blanqueados,
+
+teñidos, impregnados o preparados de otra
+
+forma.
+
+- Frescos:
+
+0603.11 -- Rosas.
+
+0603.11.01 Rosas. Kg 20 Ex.
+
+0603.12 -- Claveles.
+
+0603.12.01 Claveles. Kg 20 Ex.
+
+0603.13 -- Orquídeas.
+
+0603.13.01 Orquídeas. Kg 20 Ex.
+
+0603.14 -- Crisantemos.
+
+0603.14.02 Crisantemos. Kg 20 Ex.
+
+0603.15 -- Azucenas (Lilium spp.).
+
+0603.15.01 Azucenas (Lilium spp.). Kg 20 Ex.
+
+0603.19 -- Los demás.
+
+0603.19.99 Los demás. Kg 20 Ex.
+
+0603.90 - Los demás.
+
+0603.90.99 Los demás. Kg 20 Ex.
+
+06.04 Follaje, hojas, ramas y demás partes de
+
+plantas, sin flores ni capullos, y hierbas,
+
+musgos y líquenes, para ramos o adornos,
+
+frescos, secos, blanqueados, teñidos,
+
+impregnados o preparados de otra forma.
+
+0604.20 - Frescos.
+
+0604.20.01 Musgo del género Sphagnum. Kg Ex. Ex.
+
+0604.20.99 Los demás. Kg 20 Ex.
+
+0604.90 - Los demás.
+
+0604.90.01 Musgo del género Sphagnum. Kg Ex. Ex.
+
+0604.90.99 Los demás. Kg 20 Ex.
+
+### Capítulo 07. Hortalizas, plantas, raíces y tubérculos alimenticios
+
+Notas.
+
+1. Este Capítulo no comprende los productos forrajeros de la partida 12.14.
+
+2. En las partidas 07.09, 07.10, 07.11 y 07.12, la expresión hortalizas alcanza también a los hongos comestibles, trufas, aceitunas, alcaparras, calabacines (zapallitos), calabazas (zapallos), berenjenas, maíz dulce (Zea mays var. saccharata), frutos de los géneros Capsicum o Pimenta, hinojo y plantas como el perejil, perifollo, estragón, berro y mejorana cultivada (Majorana hortensis u Origanum majorana).
+
+3. La partida 07.12 comprende todas las hortalizas secas de las especies clasificadas en las partidas 07.01 a 07.11, excepto:
+
+a) las hortalizas de vaina secas desvainadas (partida 07.13);
+
+b) el maíz dulce en las formas especificadas en las partidas 11.02 a 11.04;
+
+c) la harina, sémola, polvo, copos, gránulos y "pellets", de papa (patata) (partida 11.05);
+
+d) la harina, sémola y polvo de hortalizas de vaina secas de la partida 07.13 (partida 11.06).
+
+4. Los frutos de los géneros Capsicum o Pimenta, secos, triturados o pulverizados, se excluyen, sin
+
+embargo, de este Capítulo (partida 09.04).
+
+5. La partida 07.11 comprende las hortalizas que se hayan sometido a un tratamiento con el único fin de que sean conservadas provisionalmente durante el transporte y almacenamiento antes de su utilización (por ejemplo: con gas sulfuroso o con agua salada, sulfurosa o adicionada de otras sustancias para asegurar provisionalmente dicha conservación), siempre que, en este estado, sean impropias para consumo inmediato.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+07.01 Papas (patatas) frescas o refrigeradas.
+
+0701.10 - Para siembra.
+
+0701.10.01 Para siembra. Kg Ex. Ex.
+
+0701.90 - Las demás.
+
+0701.90.99 Las demás. Kg 75 Ex.
+
+07.02 Tomates frescos o refrigerados.
+
+0702.00 - Tomates frescos o refrigerados.
+
+0702.00.03 Tomates frescos o refrigerados. Kg 10 Ex.
+
+07.03 Cebollas, chalotes, ajos, puerros y demás
+
+hortalizas aliáceas, frescos o refrigerados.
+
+0703.10 - Cebollas y chalotes.
+
+0703.10.02 Cebollas y chalotes. Kg 10 Ex.
+
+0703.20 - Ajos.
+
+0703.20.02 Ajos. Kg 10 Ex.
+
+0703.90 - Puerros y demás hortalizas aliáceas.
+
+0703.90.01 Puerros y demás hortalizas aliáceas. Kg 10 Ex.
+
+07.04 Coles, incluidos los repollos, coliflores, coles
+
+rizadas, colinabos y productos comestibles
+
+similares del género Brassica, frescos o
+
+refrigerados.
+
+0704.10 - Coliflores y brócolis.
+
+0704.10.03 Coliflores y brócolis. Kg 10 Ex.
+
+0704.20 - Coles (repollitos) de Bruselas.
+
+0704.20.01 Coles (repollitos) de Bruselas. Kg 10 Ex.
+
+0704.90 - Los demás.
+
+0704.90.99 Los demás. Kg 10 Ex.
+
+07.05 Lechugas (Lactuca sativa) y achicorias,
+
+comprendidas la escarola y la endibia
+
+(Cichorium spp.), frescas o refrigeradas.
+
+- Lechugas:
+
+0705.11 -- Repolladas.
+
+0705.11.01 Repolladas. Kg 10 Ex.
+
+0705.19 -- Las demás.
+
+0705.19.99 Las demás. Kg 10 Ex.
+
+- Achicorias, comprendidas la escarola y la endibia:
+
+0705.21 -- Endibia "witloof" (Cichorium intybus var. foliosum).
+
+0705.21.01 Endibia "witloof" (Cichorium intybus var.
+
+foliosum). Kg 10 Ex.
+
+0705.29 -- Las demás.
+
+0705.29.99 Las demás. Kg 10 Ex.
+
+07.06 Zanahorias, nabos, remolachas para ensalada,
+
+salsifíes, apionabos, rábanos y raíces
+
+comestibles similares, frescos o refrigerados.
+
+0706.10 - Zanahorias y nabos.
+
+0706.10.01 Zanahorias y nabos. Kg 10 Ex.
+
+0706.90 - Los demás.
+
+0706.90.99 Los demás. Kg 10 Ex.
+
+07.07 Pepinos y pepinillos, frescos o refrigerados.
+
+0707.00 - Pepinos y pepinillos, frescos o refrigerados.
+
+0707.00.01 Pepinos y pepinillos, frescos o
+
+refrigerados. Kg 10 Ex.
+
+07.08 Hortalizas de vaina, aunque estén
+
+desvainadas, frescas o refrigeradas.
+
+0708.10 - Chícharos (guisantes, arvejas) (Pisum sativum).
+
+0708.10.01 Chícharos (guisantes, arvejas)
+
+(Pisum sativum). Kg 10 Ex.
+
+0708.20 - Frijoles (porotos, alubias, judías, fréjoles) (Vigna
+
+spp., Phaseolus spp.).
+
+0708.20.01 Frijoles (porotos, alubias, judías, fréjoles) (Vigna
+
+spp., Phaseolus spp.). Kg 10 Ex.
+
+0708.90 - Las demás.
+
+0708.90.99 Las demás. Kg 10 Ex.
+
+07.09 Las demás hortalizas, frescas o refrigeradas.
+
+0709.20 - Espárragos.
+
+0709.20.02 Espárragos. Kg 10 Ex.
+
+0709.30 - Berenjenas.
+
+0709.30.01 Berenjenas. Kg 10 Ex.
+
+0709.40 - Apio, excepto el apionabo.
+
+0709.40.02 Apio, excepto el apionabo. Kg 10 Ex.
+
+- Hongos y trufas:
+
+0709.51 -- Hongos del género Agaricus.
+
+0709.51.01 Hongos del género Agaricus. Kg 10 Ex.
+
+0709.52 -- Hongos del género Boletus.
+
+0709.52.01 Hongos del género Boletus. Kg 10 Ex.
+
+0709.53 -- Hongos del género Cantharellus.
+
+0709.53.01 Hongos del género Cantharellus. Kg 10 Ex.
+
+0709.54 -- Shiitake (Lentinus edodes).
+
+0709.54.01 Shiitake (Lentinus edodes). Kg 10 Ex.
+
+0709.55 Matsutake (Tricholoma matsutake,
+
+Tricholoma magnivelare, Tricholoma
+
+anatolicum, Tricholoma dulciolens,
+
+Tricholoma caligatum)
+
+0709.55.01 Matsutake (Tricholoma matsutake,
+
+Tricholoma magnivelare, Tricholoma
+
+anatolicum, Tricholoma dulciolens,
+
+Tricholoma caligatum) Kg 10 Ex.
+
+0709.56 -- Trufas (Tuber spp.).
+
+0709.56.01 -- Trufas (Tuber spp.). Kg 10 Ex.
+
+0709.59 -- Los demás.
+
+0709.59.99 Los demás. Kg 10 Ex.
+
+0709.60 - Frutos de los géneros Capsicum o Pimenta.
+
+0709.60.03 Chile Habanero de la Península
+
+de Yucatán Kg 10 Ex.
+
+0709.60.04 Chile Yahualica Kg 10 Ex.
+
+0709.60.99 Los demás Kg 10 Ex.
+
+0709.70 - Espinacas (incluida la de Nueva Zelanda) y
+
+armuelles.
+
+0709.70.01 Espinacas (incluida la de Nueva Zelanda) y
+
+armuelles. Kg 10 Ex.
+
+- Las demás:
+
+0709.91 -- Alcachofas (alcauciles).
+
+0709.91.01 Alcachofas (alcauciles). Kg 10 Ex.
+
+0709.92 -- Aceitunas.
+
+0709.92.01 Aceitunas. Kg 10 Ex.
+
+0709.93 -- Calabazas (zapallos) y calabacines (Cucurbita
+
+spp.).
+
+0709.93.01 Calabazas (zapallos) y calabacines (Cucurbita
+
+spp.). Kg 10 Ex.
+
+0709.99 -- Las demás.
+
+0709.99.99 Las demás. Kg 10 Ex.
+
+07.10 Hortalizas, aunque estén cocidas en agua o
+
+vapor, congeladas.
+
+0710.10 - Papas (patatas).
+
+0710.10.01 Papas (patatas). Kg 15 Ex.
+
+- Hortalizas de vaina, estén o no desvainadas:
+
+0710.21 -- Chícharos (guisantes, arvejas) (Pisum sativum).
+
+0710.21.01 Chícharos (guisantes, arvejas)
+
+(Pisum sativum). Kg 15 Ex.
+
+0710.22 -- Frijoles (porotos, alubias, judías, fréjoles) (Vigna
+
+spp., Phaseolus spp.).
+
+0710.22.01 Frijoles (porotos, alubias, judías, fréjoles) (Vigna
+
+spp., Phaseolus spp.). Kg 15 Ex.
+
+0710.29 -- Las demás.
+
+0710.29.99 Las demás. Kg 15 Ex.
+
+0710.30 - Espinacas (incluida la de Nueva Zelanda) y
+
+armuelles.
+
+0710.30.01 Espinacas (incluida la de Nueva Zelanda) y
+
+armuelles. Kg 15 Ex.
+
+0710.40 - Maíz dulce.
+
+0710.40.01 Maíz dulce. Kg 15 Ex.
+
+0710.80 - Las demás hortalizas.
+
+0710.80.01 Cebollas. Kg 20 Ex.
+
+0710.80.99 Las demás. Kg 15 Ex.
+
+0710.90 - Mezclas de hortalizas.
+
+0710.90.02 Mezclas de hortalizas. Kg 15 Ex.
+
+07.11 Hortalizas conservadas provisionalmente
+
+pero todavía impropias, para consumo inmediato.
+
+0711.20 - Aceitunas.
+
+0711.20.01 Aceitunas. Kg 15 Ex.
+
+0711.40 - Pepinos y pepinillos.
+
+0711.40.01 Pepinos y pepinillos. Kg 15 Ex.
+
+- Hongos y trufas:
+
+0711.51 -- Hongos del género Agaricus.
+
+0711.51.01 Hongos del género Agaricus. Kg 15 Ex.
+
+0711.59 -- Los demás.
+
+0711.59.99 Los demás. Kg 15 Ex.
+
+0711.90 - Las demás hortalizas; mezclas de hortalizas.
+
+0711.90.03 Alcaparras. Kg 10 Ex.
+
+0711.90.99 Las demás. Kg 15 Ex.
+
+07.12 Hortalizas secas, incluidas las cortadas en
+
+trozos o en rodajas o las trituradas o
+
+pulverizadas, pero sin otra preparación.
+
+0712.20 - Cebollas.
+
+0712.20.01 Cebollas. Kg 20 Ex.
+
+- Orejas de Judas (Auricularia spp.), hongos
+
+gelatinosos (Tremella spp.) y demás hongos;
+
+trufas:
+
+0712.31 -- Hongos del género Agaricus.
+
+0712.31.01 Hongos del género Agaricus. Kg 20 Ex.
+
+0712.32 -- Orejas de Judas (Auricularia spp.).
+
+0712.32.01 Orejas de Judas (Auricularia spp.). Kg 20 Ex.
+
+0712.33 -- Hongos gelatinosos (Tremella spp.).
+
+0712.33.01 Hongos gelatinosos (Tremella spp.). Kg 20 Ex.
+
+0712.34 -- Shiitake (Lentinus edodes).
+
+0712.34.01 Shiitake (Lentinus edodes). Kg 20 Ex.
+
+0712.39 -- Los demás.
+
+0712.39.99 Los demás. Kg 20 Ex.
+
+0712.90 - Las demás hortalizas; mezclas de hortalizas.
+
+0712.90.01 Aceitunas deshidratadas. Kg 15 Ex.
+
+0712.90.99 Las demás. Kg 20 Ex.
+
+07.13 Hortalizas de vaina secas desvainadas,
+
+aunque estén mondadas o partidas.
+
+0713.10 - Chícharos (guisantes, arvejas) (Pisum sativum).
+
+0713.10.01 Para siembra. Kg Ex. Ex.
+
+0713.10.99 Los demás. Kg 10 Ex.
+
+0713.20 - Garbanzos.
+
+0713.20.01 Garbanzos. Kg 10 Ex.
+
+- Frijoles (porotos, alubias, judías, fréjoles) (Vigna
+
+spp., Phaseolus spp.):
+
+0713.31 -- Frijoles (porotos, alubias, judías, fréjoles) de las
+
+especies Vigna mungo (L) Hepper o Vigna radiata
+
+(L) Wilczek.
+
+0713.31.01 Frijoles (porotos, alubias, judías, fréjoles) de las
+
+especies Vigna mungo (L) Hepper o Vigna radiata
+
+(L) Wilczek. Kg 10 Ex.
+
+0713.32 -- Frijoles (porotos, alubias, judías, fréjoles) adzuki
+
+(Phaseolus o Vigna angularis).
+
+0713.32.01 Frijoles (porotos, alubias, judías, fréjoles) adzuki
+
+(Phaseolus o Vigna angularis). Kg 10 Ex.
+
+0713.33 -- Frijoles (porotos, alubias, judías, fréjoles)
+
+comunes (Phaseolus vulgaris).
+
+0713.33.01 Frijol para siembra. Kg Ex. Ex.
+
+0713.33.99 Los demás. Kg 45 Ex.
+
+0713.34 -- Frijoles (porotos, alubias, judías, fréjoles)
+
+bambara (Vigna subterranea o Voandzeia
+
+subterranea).
+
+0713.34.01 Frijoles (porotos, alubias, judías, fréjoles)
+
+bambara (Vigna subterránea o Voandzeia
+
+subterránea). Kg 10 Ex.
+
+0713.35 -- Frijoles (porotos, alubias, judías, fréjoles) salvajes
+
+o caupí (Vigna unguiculata).
+
+0713.35.01 Frijoles (porotos, alubias, judías, fréjoles) salvajes
+
+o caupí (Vigna unguiculata). Kg 10 Ex.
+
+0713.39 -- Las demás.
+
+0713.39.99 Las demás. Kg 10 Ex.
+
+0713.40 - Lentejas.
+
+0713.40.01 Lentejas. Kg 10 Ex.
+
+0713.50 - Habas (Vicia faba var. major), haba caballar (Vicia
+
+faba var. equina) y haba menor (Vicia faba var.
+
+minor).
+
+0713.50.01 Habas (Vicia faba var. major), haba caballar (Vicia
+
+faba var. equina) y haba menor (Vicia faba var.
+
+minor). Kg 10 Ex.
+
+0713.60 - Chícharos (guisantes, arvejas) de palo, gandú o
+
+gandul (Cajanus cajan).
+
+0713.60.01 Chícharos (guisantes, arvejas) de palo, gandú o
+
+gandul (Cajanus cajan). Kg 10 Ex.
+
+0713.90 - Las demás.
+
+0713.90.99 Las demás. Kg 10 Ex.
+
+07.14 Raíces de yuca (mandioca), arrurruz o salep,
+
+aguaturmas (patacas), camotes (boniatos,
+
+batatas) y raíces y tubérculos similares ricos
+
+en fécula o inulina, frescos, refrigerados,
+
+congelados o secos, incluso troceados o en
+
+"pellets"; médula de sagú.
+
+0714.10 - Raíces de yuca (mandioca).
+
+0714.10.01 Congeladas. Kg 20 Ex.
+
+0714.10.99 Las demás. Kg 10 Ex.
+
+0714.20 - Camotes (boniatos, batatas).
+
+0714.20.01 Congelados. Kg 20 Ex.
+
+0714.20.99 Los demás. Kg 10 Ex.
+
+0714.30 - Ñame (Dioscorea spp.).
+
+0714.30.01 Congelados. Kg 20 Ex.
+
+0714.30.99 Los demás. Kg 10 Ex.
+
+0714.40 - Taro (Colocasia spp.).
+
+0714.40.01 Congelados. Kg 20 Ex.
+
+0714.40.99 Los demás. Kg 10 Ex.
+
+0714.50 - Yautía (malanga) (Xanthosoma spp.).
+
+0714.50.01 Congelados. Kg 20 Ex.
+
+0714.50.99 Los demás. Kg 10 Ex.
+
+0714.90 - Los demás.
+
+0714.90.02 Congelados. Kg 20 Ex.
+
+0714.90.99 Los demás. Kg 10 Ex.
+
+### Capítulo 08. Frutas y frutos comestibles; cortezas de agrios (cítricos), melones o sandías
+
+Notas.
+
+1. Este Capítulo no comprende los frutos no comestibles.
+
+2. Las frutas y otros frutos refrigerados se clasifican en las mismas partidas que las frutas y frutos frescos correspondientes.
+
+3. Las frutas y otros frutos secos de este Capítulo pueden estar parcialmente rehidratados o tratados para los fines siguientes:
+
+a) mejorar su conservación o estabilidad (por ejemplo: mediante tratamiento térmico moderado, sulfurado, adición de ácido sórbico o de sorbato de potasio);
+
+b) mejorar o mantener su aspecto (por ejemplo: por adición de aceite vegetal o pequeñas cantidades de jarabe de glucosa), siempre que conserven el carácter de frutas o frutos secos.
+
+4. La partida 08.12 comprende las frutas y otros frutos que se hayan sometido a un tratamiento con el único fin de que sean conservados provisionalmente durante su transporte y almacenamiento antes de su utilización (por ejemplo: con gas sulfuroso o con agua salada, sulfurosa o adicionada de otras sustancias para asegurar provisionalmente dicha conservación), siempre que, en este estado, sean impropios para consumo inmediato.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+08.01 Cocos, nueces del Brasil y nueces de
+
+marañón (merey, cajuil, anacardo, "cajú"),
+
+frescos o secos, incluso sin cáscara o
+
+mondados.
+
+- Cocos:
+
+0801.11 -- Secos.
+
+0801.11.01 Secos. Kg 20 Ex.
+
+0801.12 -- Con la cáscara interna (endocarpio).
+
+0801.12.01 Con la cáscara interna (endocarpio). Kg 20 Ex.
+
+0801.19 -- Los demás.
+
+0801.19.99 Los demás. Kg 20 Ex.
+
+- Nueces del Brasil:
+
+0801.21 -- Con cáscara.
+
+0801.21.01 Con cáscara. Kg 20 Ex.
+
+0801.22 -- Sin cáscara.
+
+0801.22.01 Sin cáscara. Kg 20 Ex.
+
+- Nueces de marañón (merey, cajuil, anacardo,
+
+"cajú"):
+
+0801.31 -- Con cáscara.
+
+0801.31.01 Con cáscara. Kg 20 Ex.
+
+0801.32 -- Sin cáscara.
+
+0801.32.01 Sin cáscara. Kg 20 Ex.
+
+08.02 Los demás frutos de cáscara frescos o
+
+secos, incluso sin cáscara o mondados.
+
+- Almendras:
+
+0802.11 -- Con cáscara.
+
+0802.11.01 Con cáscara. Kg 15 Ex.
+
+0802.12 -- Sin cáscara.
+
+0802.12.01 Sin cáscara. Kg 20 Ex.
+
+- Avellanas (Corylus spp.):
+
+0802.21 -- Con cáscara.
+
+0802.21.01 Con cáscara. Kg Ex. Ex.
+
+0802.22 -- Sin cáscara.
+
+0802.22.01 Sin cáscara. Kg Ex. Ex.
+
+- Nueces de nogal:
+
+0802.31 -- Con cáscara.
+
+0802.31.01 Con cáscara. Kg 20 Ex.
+
+0802.32 -- Sin cáscara.
+
+0802.32.01 Sin cáscara. Kg 20 Ex.
+
+- Castañas (Castanea spp.):
+
+0802.41 -- Con cáscara.
+
+0802.41.01 Con cáscara. Kg 20 Ex.
+
+0802.42 -- Sin cáscara.
+
+0802.42.01 Sin cáscara. Kg 20 Ex.
+
+- Pistachos:
+
+0802.51 -- Con cáscara.
+
+0802.51.01 Con cáscara. Kg 20 Ex.
+
+0802.52 -- Sin cáscara.
+
+0802.52.01 Sin cáscara. Kg 20 Ex.
+
+- Nueces de macadamia:
+
+0802.61 -- Con cáscara.
+
+0802.61.01 Con cáscara. Kg 20 Ex.
+
+0802.62 -- Sin cáscara.
+
+0802.62.01 Sin cáscara. Kg 20 Ex.
+
+0802.70 - Nueces de cola (Cola spp.).
+
+0802.70.01 Nueces de cola (Cola spp.). Kg 20 Ex.
+
+0802.80 - Nueces de areca.
+
+0802.80.01 Nueces de areca. Kg 20 Ex.
+
+Los demás
+
+0802.91 Piñones con cáscara
+
+0802.91.01 Piñones sin cáscara Kg 20 Ex.
+
+0802.92 Piñones con cáscara
+
+0802.92.01 Piñones sin cáscara Kg 20 Ex.
+
+0802.99 Los demás
+
+0802.99.99 Los demás Kg 20 Ex.
+
+08.03 Bananas, incluidos los plátanos "plantains",
+
+frescos o secos.
+
+0803.10 - Plátanos "plantains".
+
+0803.10.01 Plátanos "plantains". Kg 20 Ex.
+
+0803.90 - Los demás.
+
+0803.90.99 Los demás. Kg 20 Ex.
+
+08.04 Dátiles, higos, piñas (ananás), aguacates
+
+(paltas), guayabas, mangos y mangostanes,
+
+frescos o secos.
+
+0804.10 - Dátiles.
+
+0804.10.02 Dátiles. Kg 20 Ex.
+
+0804.20 - Higos.
+
+0804.20.02 Higos. Kg 20 Ex.
+
+0804.30 - Piñas (ananás).
+
+0804.30.01 Piñas (ananás). Kg 20 Ex.
+
+0804.40 - Aguacates (paltas).
+
+0804.40.01 Aguacates (paltas). Kg 20 Ex.
+
+0804.50 - Guayabas, mangos y mangostanes.
+
+0804.50.05 Mango Ataúlfo del Soconusco
+
+Chiapas Kg 20 Ex.
+
+0804.50.99 Los demás
+
+08.05 Agrios (cítricos) frescos o secos.
+
+0805.10 - Naranjas.
+
+0805.10.01 Naranjas. Kg 20 Ex.
+
+- Mandarinas (incluidas las tangerinas y
+
+satsumas); clementinas, "wilkings" e híbridos
+
+similares de agrios (cítricos):
+
+0805.21 -- Mandarinas (incluidas las tangerinas y
+
+satsumas).
+
+0805.21.01 Mandarinas (incluidas las tangerinas y
+
+satsumas). Kg 20 Ex.
+
+0805.22 -- Clementinas.
+
+0805.22.01 Clementinas. Kg 20 Ex.
+
+0805.29 -- Los demás.
+
+0805.29.99 Los demás. Kg 20 Ex.
+
+0805.40 - Toronjas y pomelos.
+
+0805.40.01 Toronjas y pomelos. Kg 20 Ex.
+
+0805.50 - Limones (Citrus limon, Citrus limonum) y limas
+
+(Citrus aurantifolia, Citrus latifolia).
+
+0805.50.03 Limones (Citrus limon, Citrus limonum) y limas
+
+(Citrus aurantifolia, Citrus latifolia). Kg 20 Ex.
+
+0805.90 - Los demás.
+
+0805.90.99 Los demás. Kg 20 Ex.
+
+08.06 Uvas, frescas o secas, incluidas las pasas.
+
+0806.10 - Frescas.
+
+0806.10.01 Frescas. Kg 15 Ex.
+
+0806.20 - Secas, incluidas las pasas.
+
+0806.20.01 Secas, incluidas las pasas. Kg 20 Ex.
+
+08.07 Melones, sandías y papayas, frescos.
+
+- Melones y sandías:
+
+0807.11 -- Sandías.
+
+0807.11.01 Sandías. Kg 20 Ex.
+
+0807.19 -- Los demás.
+
+0807.19.99 Los demás. Kg 20 Ex.
+
+0807.20 - Papayas.
+
+0807.20.01 Papayas. Kg 20 Ex.
+
+08.08 Manzanas, peras y membrillos, frescos.
+
+0808.10 - Manzanas.
+
+0808.10.01 Manzanas. Kg 20 Ex.
+
+0808.30 - Peras.
+
+0808.30.01 Peras. Kg 20 Ex.
+
+0808.40 - Membrillos.
+
+0808.40.01 Membrillos. Kg 20 Ex.
+
+08.09 Chabacanos (damascos, albaricoques),
+
+cerezas, duraznos (melocotones) (incluidos
+
+los griñones y nectarinas), ciruelas y
+
+endrinas, frescos.
+
+0809.10 - Chabacanos (damascos, albaricoques).
+
+0809.10.01 Chabacanos (damascos, albaricoques). Kg 20 Ex.
+
+- Cerezas:
+
+0809.21 -- Guindas (cerezas ácidas) (Prunus cerasus).
+
+0809.21.01 Guindas (cerezas ácidas)
+
+(Prunus cerasus). Kg 20 Ex.
+
+0809.29 -- Las demás.
+
+0809.29.99 Las demás. Kg 20 Ex.
+
+0809.30 - Duraznos (melocotones), incluidos los griñones
+
+y nectarinas.
+
+0809.30.03 Duraznos (melocotones), incluidos los griñones
+
+y nectarinas. Kg 20 Ex.
+
+0809.40 - Ciruelas y endrinas.
+
+0809.40.01 Ciruelas y endrinas. Kg 20 Ex.
+
+08.10 Las demás frutas u otros frutos, frescos.
+
+0810.10 - Fresas (frutillas).
+
+0810.10.01 Fresas (frutillas). Kg 20 Ex.
+
+0810.20 - Frambuesas, zarzamoras, moras y moras-
+
+frambuesa.
+
+0810.20.01 Frambuesas, zarzamoras, moras y moras-
+
+frambuesa. Kg 20 Ex.
+
+0810.30 - Grosellas negras, blancas o rojas y grosellas
+
+espinosas.
+
+0810.30.01 Grosellas negras, blancas o rojas y grosellas
+
+espinosas. Kg 20 Ex.
+
+0810.40 - Arándanos rojos, mirtilos y demás frutos del
+
+género Vaccinium.
+
+0810.40.01 Arándanos rojos, mirtilos y demás frutos del
+
+género Vaccinium. Kg 20 Ex.
+
+0810.50 - Kiwis.
+
+0810.50.01 Kiwis. Kg Ex. Ex.
+
+0810.60 - Duriones.
+
+0810.60.01 Duriones. Kg 20 Ex.
+
+0810.70 - Persimonios (caquis).
+
+0810.70.01 Persimonios (caquis). Kg 20 Ex.
+
+0810.90 - Los demás.
+
+0810.90.99 Los demás. Kg 20 Ex.
+
+08.11 Frutas y otros frutos, sin cocer o cocidos en
+
+agua o vapor, congelados, incluso con
+
+adición de azúcar u otro edulcorante.
+
+0811.10 - Fresas (frutillas).
+
+0811.10.01 Fresas (frutillas). Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+0811.20 - Frambuesas, zarzamoras, moras, moras-
+
+frambuesa y grosellas.
+
+0811.20.01 Frambuesas, zarzamoras, moras, moras-
+
+frambuesa y grosellas. Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+0811.90 - Los demás.
+
+0811.90.99 Los demás. Kg AMX Ex.
+
+(20%+0.36 Dls
+
+por Kg de
+
+azúcar)
+
+08.12 Frutas y otros frutos, conservados
+
+provisionalmente, pero todavía impropios
+
+para consumo inmediato.
+
+0812.10 - Cerezas.
+
+0812.10.01 Cerezas. Kg Ex. Ex.
+
+0812.90 - Los demás.
+
+0812.90.99 Los demás. Kg 20 Ex.
+
+08.13 Frutas y otros frutos, secos, excepto los de
+
+las partidas 08.01 a 08.06; mezclas de frutas
+
+u otros frutos, secos, o de frutos de cáscara
+
+de este Capítulo.
+
+0813.10 - Chabacanos (damascos, albaricoques).
+
+0813.10.02 Chabacanos (damascos,
+
+albaricoques). Kg 20 Ex.
+
+0813.20 - Ciruelas.
+
+0813.20.02 Ciruelas. Kg 20 Ex.
+
+0813.30 - Manzanas.
+
+0813.30.01 Manzanas. Kg 20 Ex.
+
+0813.40 - Las demás frutas u otros frutos.
+
+0813.40.91 Las demás frutas u otros frutos. Kg 20 Ex.
+
+0813.50 - Mezclas de frutas u otros frutos, secos, o de
+
+frutos de cáscara de este Capítulo.
+
+0813.50.01 Mezclas de frutas u otros frutos, secos, o de
+
+frutos de cáscara de este
+
+Capítulo. Kg 20 Ex.
+
+08.14 Cortezas de agrios (cítricos), melones o
+
+sandías, frescas, congeladas, secas o
+
+presentadas en agua salada, sulfurosa o
+
+adicionada de otras sustancias para su
+
+conservación provisional.
+
+0814.00 - Cortezas de agrios (cítricos), melones o
+
+sandías, frescas, congeladas, secas o
+
+presentadas en agua salada, sulfurosa o
+
+adicionada de otras sustancias para su
+
+conservación provisional.
+
+0814.00.01 Cortezas de agrios (cítricos), melones o
+
+sandías, frescas, congeladas, secas o
+
+presentadas en agua salada, sulfurosa o
+
+adicionada de otras sustancias para su
+
+conservación provisional. Kg 15 Ex.
+
+### Capítulo 09. Café, té, yerba mate y especias
+
+Notas.
+
+1. Las mezclas entre sí de los productos de las partidas 09.04 a 09.10 se clasifican como sigue:
+
+a) las mezclas entre sí de productos de una misma partida se clasifican en dicha partida;
+
+b) las mezclas entre sí de productos de distintas partidas se clasifican en la partida 09.10.
+
+El hecho de que se añadan otras sustancias a los productos comprendidos en las partidas 09.04 a 09.10 (incluidas las mezclas citadas en los apartados a) o b) anteriores) no influye en su clasificación, siempre que las mezclas así obtenidas conserven el carácter esencial de los productos citados en cada una de estas partidas. Por el contrario, dichas mezclas se excluyen de este Capítulo y se clasifican en la partida 21.03 si constituyen condimentos o sazonadores compuestos.
+
+2. Este Capítulo no comprende la pimienta de Cubeba (Piper cubeba) ni los demás productos de la partida 12.11.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+09.01 Café, incluso tostado o descafeinado; cáscara
+
+y cascarilla de café; sucedáneos del café que
+
+contengan café en cualquier proporción.
+
+- Café sin tostar:
+
+0901.11 -- Sin descafeinar.
+
+0901.11.03 Café Veracruz. Kg 20 Ex.
+
+0901.11.04 Café Chiapas. Kg 20 Ex.
+
+0901.11.05 Café Pluma. Kg 20 Ex.
+
+0901.11.99 Los demás. Kg 20 Ex.
+
+0901.12 -- Descafeinado
+
+0901.12.02 Café Veracruz. Kg 20 Ex.
+
+0901.12.03 Café Chiapas. Kg 20 Ex.
+
+0901.12.04 Café Pluma. Kg 20 Ex.
+
+0901.12.99 Los demás. Kg 20 Ex.
+
+Café tostado
+
+0901.21 -- Sin descafeinar.
+
+0901.21.02 Café Veracruz. Kg 45 Ex.
+
+0901.21.03 Café Chiapas. Kg 45 Ex.
+
+0901.21.04 Café Pluma. Kg 45 Ex.
+
+0901.21.99 Los demás. Kg 45 Ex.
+
+0901.22 Descafeinado.
+
+0901.22.02 Café Veracruz. Kg 45 Ex.
+
+0901.22.03 Café Chiapas. Kg 45 Ex.
+
+0901.22.04 Café Pluma. Kg 45 Ex.
+
+0901.22.99 Los demás. Kg 45 Ex.
+
+0901.90 Los demás.
+
+0901.90.99 Los demás Kg 45 Ex.
+
+09.02 Té, incluso aromatizado.
+
+0902.10 - Té verde (sin fermentar) presentado en envases
+
+inmediatos con un contenido inferior o igual a 3 kg.
+
+0902.10.01 Té verde (sin fermentar) presentado en envases
+
+inmediatos con un contenido inferior
+
+o igual a 3 kg. Kg 20 Ex.
+
+0902.20 - Té verde (sin fermentar) presentado de otra forma.
+
+0902.20.01 Té verde (sin fermentar) presentado
+
+de otra forma. Kg 20 Ex.
+
+0902.30 - Té negro (fermentado) y té parcialmente
+
+fermentado, presentados en envases inmediatos
+
+con un contenido inferior o igual a 3 kg.
+
+0902.30.01 Té negro (fermentado) y té parcialmente
+
+fermentado, presentados en envases inmediatos
+
+con un contenido inferior
+
+o igual a 3 kg. Kg 20 Ex.
+
+0902.40 - Té negro (fermentado) y té parcialmente
+
+fermentado, presentados de otra forma.
+
+0902.40.01 Té negro (fermentado) y té parcialmente
+
+fermentado, presentados de
+
+otra forma. Kg 20 Ex.
+
+09.03 Yerba mate.
+
+0903.00 - Yerba mate.
+
+0903.00.01 Yerba mate. Kg 20 Ex.
+
+09.04 Pimienta del género Piper; frutos de los
+
+géneros Capsicum o Pimenta, secos, triturados
+
+o pulverizados.
+
+- Pimienta:
+
+0904.11 -- Sin triturar ni pulverizar.
+
+0904.11.01 Sin triturar ni pulverizar. Kg 20 Ex.
+
+0904.12 -- Triturada o pulverizada.
+
+0904.12.01 Triturada o pulverizada. Kg 20 Ex.
+
+- Frutos de los géneros Capsicum o Pimenta:
+
+0904.21 -- Secos, sin triturar ni pulverizar.
+
+0904.21.02 Secos, sin triturar ni pulverizar. Kg 20 Ex.
+
+0904.22 -- Triturados o pulverizados.
+
+0904.22.02 Triturados o pulverizados. Kg 20 Ex.
+
+09.05 Vainilla.
+
+0905.10 - Sin triturar ni pulverizar.
+
+0905.10.02 Vainilla de Papantla. Kg 20 Ex.
+
+0905.10.99 Las demás Kg 20 Ex.
+
+0905.20 - Triturada o pulverizada.
+
+0905.20.02 Vainilla de Papantla. Kg 20 Ex.
+
+0905.20.99 Las demás. Kg 20 Ex.
+
+09.06 Canela y flores de canelero.
+
+- Sin triturar ni pulverizar:
+
+0906.11 -- Canela (Cinnamomum zeylanicum Blume).
+
+0906.11.01 Canela (Cinnamomum zeylanicum
+
+Blume). Kg Ex. Ex.
+
+0906.19 -- Las demás.
+
+0906.19.99 Las demás. Kg Ex. Ex.
+
+0906.20 - Trituradas o pulverizadas.
+
+0906.20.01 Trituradas o pulverizadas. Kg 10 Ex.
+
+09.07 Clavos (frutos enteros, clavillos y pedúnculos).
+
+0907.10 - Sin triturar ni pulverizar.
+
+0907.10.01 Sin triturar ni pulverizar. Kg 10 Ex.
+
+0907.20 - Triturados o pulverizados.
+
+0907.20.01 Triturados o pulverizados. Kg 10 Ex.
+
+09.08 Nuez moscada, macis, amomos y cardamomos.
+
+- Nuez moscada:
+
+0908.11 -- Sin triturar ni pulverizar.
+
+0908.11.01 Sin triturar ni pulverizar. Kg 20 Ex.
+
+0908.12 -- Triturada o pulverizada.
+
+0908.12.01 Triturada o pulverizada. Kg 20 Ex.
+
+- Macis:
+
+0908.21 -- Sin triturar ni pulverizar.
+
+0908.21.01 Sin triturar ni pulverizar. Kg 20 Ex.
+
+0908.22 -- Triturado o pulverizado.
+
+0908.22.01 Triturado o pulverizado. Kg 20 Ex.
+
+- Amomos y cardamomos:
+
+0908.31 -- Sin triturar ni pulverizar.
+
+0908.31.01 Sin triturar ni pulverizar. Kg 20 Ex.
+
+0908.32 -- Triturados o pulverizados.
+
+0908.32.01 Triturados o pulverizados. Kg 20 Ex.
+
+09.09 Semillas de anís, badiana, hinojo, cilantro,
+
+comino o alcaravea; bayas de enebro.
+
+- Semillas de cilantro:
+
+0909.21 -- Sin triturar ni pulverizar.
+
+0909.21.01 Sin triturar ni pulverizar. Kg 10 Ex.
+
+0909.22 -- Trituradas o pulverizadas.
+
+0909.22.01 Trituradas o pulverizadas. Kg 10 Ex.
+
+- Semillas de comino:
+
+0909.31 -- Sin triturar ni pulverizar.
+
+0909.31.01 Sin triturar ni pulverizar. Kg 10 Ex.
+
+0909.32 -- Trituradas o pulverizadas.
+
+0909.32.01 Trituradas o pulverizadas. Kg 10 Ex.
+
+- Semillas de anís, badiana, alcaravea o hinojo;
+
+bayas de enebro:
+
+0909.61 -- Sin triturar ni pulverizar.
+
+0909.61.01 Semillas de alcaravea. Kg 20 Ex.
+
+0909.61.02 Semillas de anís o badiana. Kg 10 Ex.
+
+0909.61.99 Los demás. Kg 15 Ex.
+
+0909.62 -- Trituradas o pulverizadas.
+
+0909.62.01 Semillas de alcaravea. Kg 20 Ex.
+
+0909.62.02 Semillas de anís o badiana. Kg 10 Ex.
+
+0909.62.99 Los demás. Kg 15 Ex.
+
+09.10 Jengibre, azafrán, cúrcuma, tomillo, hojas de
+
+laurel, curri y demás especias.
+
+- Jengibre:
+
+0910.11 -- Sin triturar ni pulverizar.
+
+0910.11.01 Sin triturar ni pulverizar. Kg 10 Ex.
+
+0910.12 -- Triturado o pulverizado.
+
+0910.12.01 Triturado o pulverizado. Kg 10 Ex.
+
+0910.20 - Azafrán.
+
+0910.20.01 Azafrán. Kg 10 Ex.
+
+0910.30 - Cúrcuma.
+
+0910.30.01 Cúrcuma. Kg 20 Ex.
+
+- Las demás especias:
+
+0910.91 -- Mezclas previstas en la Nota 1 b) de este Capítulo.
+
+0910.91.01 Mezclas previstas en la Nota 1 b) de
+
+este Capítulo. Kg 20 Ex.
+
+0910.99 -- Las demás.
+
+0910.99.99 Las demás. Kg 20 Ex.
+
+### Capítulo 10. Cereales
+
+Notas.
+
+1. A) Los productos citados en los textos de las partidas de este Capítulo se clasifican en dichas partidas solo si están presentes los granos, incluso en espigas o con los tallos.
+
+B) Este Capítulo no comprende los granos mondados o trabajados de otra forma. Sin embargo, el arroz descascarillado, blanqueado, pulido, glaseado, escaldado o partido se clasifica en la partida 10.06. Asimismo, la quinoa (quinua) a la cual se le ha eliminado total o parcialmente el pericarpio a fin de separar la saponina, pero que no haya sido sometida a ningún otro trabajo, permanece clasificada en la partida 10.08.
+
+2. La partida 10.05 no comprende el maíz dulce (Capítulo 07).
+
+Nota de subpartida.
+
+1. Se considera trigo duro el de la especie Triticum durum y los híbridos derivados del cruce interespecífico del Triticum durum que tengan 28 cromosomas como aquél.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+10.01 Trigo y morcajo (tranquillón).
+
+- Trigo duro:
+
+1001.11 -- Para siembra.
+
+1001.11.01 Para siembra. Kg 15 Ex.
+
+1001.19 -- Los demás.
+
+1001.19.99 Los demás. Kg 15 Ex.
+
+- Los demás:
+
+1001.91 -- Para siembra.
+
+1001.91.01 Triticum Aestivum o Trigo Común
+
+Panificable. Kg Ex. Ex.
+
+1001.91.99 Los demás. Kg 15 Ex.
+
+1001.99 -- Los demás.
+
+1001.99.01 Triticum Aestivum o Trigo Común
+
+Panificable. Kg Ex. Ex.
+
+1001.99.99 Los demás. Kg 15 Ex.
+
+10.02 Centeno.
+
+1002.10 - Para siembra.
+
+1002.10.01 Para siembra. Kg Ex. Ex.
+
+1002.90 - Los demás.
+
+1002.90.99 Los demás. Kg Ex. Ex.
+
+10.03 Cebada.
+
+1003.10 - Para siembra.
+
+1003.10.01 Para siembra. Kg Ex. Ex.
+
+1003.90 - Los demás.
+
+1003.90.99 Los demás. Kg Ex. Ex.
+
+10.04 Avena.
+
+1004.10 - Para siembra.
+
+1004.10.01 Para siembra. Kg Ex. Ex.
+
+1004.90 - Los demás.
+
+1004.90.99 Los demás. Kg Ex. Ex.
+
+10.05 Maíz.
+
+1005.10 - Para siembra.
+
+1005.10.01 Para siembra. Kg Ex. Ex.
+
+1005.90 - Los demás.
+
+1005.90.04 Maíz blanco (harinero). Kg 20 Ex.
+
+1005.90.99 Los demás. Kg Ex. Ex.
+
+10.06 Arroz.
+
+1006.10 - Arroz con cáscara (arroz "paddy").
+
+1006.10.02 Arroz del Estado de Morelos Kg 9 Ex.
+
+1006.10.99 Los demás Kg 9 Ex.
+
+1006.20 - Arroz descascarillado (arroz cargo o arroz pardo).
+
+1006.20.02 Arroz del Estado de Morelos Kg 20 Ex.
+
+1006.20.99 Los demás Kg 20 Ex.
+
+1006.30 - Arroz semiblanqueado o blanqueado, incluso
+
+pulido o glaseado.
+
+1006.30.03 Arroz del Estado de Morelos Kg 20 Ex.
+
+1006.30.99 Los demás Kg 20 Ex.
+
+1006.40 - Arroz partido.
+
+1006.40.02 Arroz del Estado de Morelos Kg 20 Ex.
+
+1006.40.99 Los demás Kg 20 Ex.
+
+10.07 Sorgo de grano (granífero).
+
+1007.10 - Para siembra.
+
+1007.10.01 Para siembra. Kg Ex. Ex.
+
+1007.90 - Los demás.
+
+1007.90.01 Cuando la operación se realice dentro del periodo
+
+comprendido entre el 16 de diciembre y el 15 de
+
+mayo. Kg Ex. Ex.
+
+1007.90.02 Cuando la operación se realice dentro del periodo
+
+comprendido entre el 16 de mayo y el 15 de
+
+diciembre. Kg 15 Ex.
+
+10.08 Alforfón, mijo y alpiste; los demás cereales.
+
+1008.10 - Alforfón.
+
+1008.10.01 Alforfón. Kg Ex. Ex.
+
+- Mijo:
+
+1008.21 -- Para siembra.
+
+1008.21.01 Para siembra. Kg 15 Ex.
+
+1008.29 -- Los demás.
+
+1008.29.99 Los demás. Kg 15 Ex.
+
+1008.30 - Alpiste.
+
+1008.30.01 Alpiste. Kg Ex. Ex.
+
+1008.40 - Fonio (Digitaria spp.).
+
+1008.40.01 Fonio (Digitaria spp.). Kg Ex. Ex.
+
+1008.50 - Quinua (quinoa) (Chenopodium quinoa).
+
+1008.50.01 Quinua (quinoa) (Chenopodium
+
+quinoa). Kg Ex. Ex.
+
+1008.60 - Triticale.
+
+1008.60.01 Triticale. Kg Ex. Ex.
+
+1008.90 - Los demás cereales.
+
+1008.90.91 Los demás cereales. Kg Ex. Ex.p
+
+### Capítulo 11. Productos de la molinería; malta; almidón y fécula; inulina; gluten de trigo
+
+Notas.
+
+1. Este Capítulo no comprende:
+
+a) la malta tostada acondicionada como sucedáneo del café (partidas 09.01 o 21.01, según los casos);
+
+b) la harina, grañones, sémola, almidón y fécula preparados, de la partida 19.01;
+
+c) las hojuelas o copos de maíz y demás productos de la partida 19.04;
+
+d) las hortalizas preparadas o conservadas de las partidas 20.01, 20.04 o 20.05;
+
+e) los productos farmacéuticos (Capítulo 30);
+
+f) el almidón y la fécula que tengan el carácter de preparaciones de perfumería, de tocador o de cosmética (Capítulo 33).
+
+2. A) Los productos de la molienda de los cereales designados en el cuadro siguiente se clasifican en este Capítulo, si tienen simultáneamente en peso sobre producto seco:
+
+a) un contenido de almidón (determinado según el método polarimétrico Ewers modificado)
+
+superior al indicado en la columna (2);
+
+b) un contenido de cenizas (deduciendo las materias minerales que hayan podido añadirse) inferior o igual al indicado en la columna (3).
+
+Los que no cumplan las condiciones anteriores se clasifican en la partida 23.02. Sin embargo, el germen de cereales entero, aplastado, en copos o molido, siempre se clasificará en la partida 11.04.
+
+B) Los productos incluidos en este Capítulo, en virtud de las disposiciones anteriores, se clasifican en las partidas 11.01 u 11.02 cuando el porcentaje en peso que pase por un tamiz de tela metálica con abertura de malla correspondiente a la indicada en las columnas (4) o (5), según los casos, sea superior o igual al indicado para cada cereal.
+
+En caso contrario, se clasifican en las partidas 11.03 u 11.04.
+
+Cereal Contenido Contenido Porcentaje que pasa por un
+
+(1) de almidón de cenizas tamiz con abertura de malla
+
+(2) (3) de
+
+315 micras 500 micras
+
+(micrometros,(micrometros,
+
+micrones) micrones)
+
+(4) (5)
+
+Trigo y centeno........... 45% 2.5% 80% -
+
+Cebada..................... 45% 3% 80% -
+
+Avena....................... 45% 5% 80% -
+
+Maíz y sorgo de grano
+
+(granífero).................. 45% 2% - 90%
+
+Arroz........................ 45% 1.6% 80% -
+
+Alforfón..................... 45% 4% 80% -
+
+3. En la partida 11.03, se consideran grañones y sémola los productos obtenidos por fragmentación de los granos de cereales que respondan a las condiciones siguientes:
+
+a) los de maíz, deberán pasar por un tamiz de tela metálica con abertura de malla de 2 mm en proporción superior o igual al 95% en peso;
+
+b) los de los demás cereales, deberán pasar por un tamiz de tela metálica con abertura de malla de 1.25 mm en proporción superior o igual al 95% en peso.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+11.01 Harina de trigo o de morcajo (tranquillón).
+
+1101.00 - Harina de trigo o de morcajo (tranquillón).
+
+1101.00.01 Harina de trigo o de morcajo
+
+(tranquillón). Kg 10 Ex.
+
+11.02 Harina de cereales, excepto de trigo o de
+
+morcajo (tranquillón).
+
+1102.20 - Harina de maíz.
+
+1102.20.01 Harina de maíz. Kg 10 Ex.
+
+1102.90 - Las demás.
+
+1102.90.99 Las demás. Kg 10 Ex.
+
+11.03 Grañones, sémola y "pellets", de cereales.
+
+- Grañones y sémola:
+
+1103.11 -- De trigo.
+
+1103.11.01 De trigo. Kg 5 Ex.
+
+1103.13 -- De maíz.
+
+1103.13.01 De maíz. Kg 5 Ex.
+
+1103.19 -- De los demás cereales.
+
+1103.19.91 De los demás cereales. Kg 5 Ex.
+
+1103.20 - "Pellets".
+
+1103.20.02 "Pellets". Kg 5 Ex.
+
+11.04 Granos de cereales trabajados de otro modo
+
+(por ejemplo: mondados, aplastados, en
+
+copos, perlados, troceados o quebrantados),
+
+excepto el arroz de la partida 10.06; germen de
+
+cereales entero, aplastado, en copos o molido.
+
+- Granos aplastados o en copos:
+
+1104.12 -- De avena.
+
+1104.12.01 De avena. Kg 5 Ex.
+
+1104.19 -- De los demás cereales.
+
+1104.19.91 De los demás cereales. Kg 5 Ex.
+
+- Los demás granos trabajados (por ejemplo:
+
+mondados, perlados, troceados o quebrantados):
+
+1104.22 -- De avena.
+
+1104.22.01 De avena. Kg 5 Ex.
+
+1104.23 -- De maíz.
+
+1104.23.01 De maíz. Kg Ex. Ex.
+
+1104.29 -- De los demás cereales.
+
+1104.29.91 De los demás cereales. Kg 5 Ex.
+
+1104.30 - Germen de cereales entero, aplastado, en copos o
+
+molido.
+
+1104.30.01 Germen de cereales entero, aplastado, en copos o
+
+molido. Kg 5 Ex.
+
+11.05 Harina, sémola, polvo, copos, gránulos y
+
+"pellets", de papa (patata).
+
+1105.10 - Harina, sémola y polvo.
+
+1105.10.01 Harina, sémola y polvo. Kg 10 Ex.
+
+1105.20 - Copos, gránulos y "pellets".
+
+1105.20.01 Copos, gránulos y "pellets". Kg 10 Ex.
+
+11.06 Harina, sémola y polvo de las hortalizas de la
+
+partida 07.13, de sagú o de las raíces o
+
+tubérculos de la partida 07.14 o de los
+
+productos del Capítulo 08.
+
+1106.10 - De las hortalizas de la partida 07.13.
+
+1106.10.01 De las hortalizas de la partida
+
+07.13. Kg 10 Ex.
+
+1106.20 - De sagú o de las raíces o tubérculos de la partida
+
+07.14.
+
+1106.20.02 De sagú o de las raíces o tubérculos de la partida
+
+07.14. Kg 10 Ex.
+
+1106.30 - De los productos del Capítulo 08.
+
+1106.30.02 De los productos del Capítulo 08. Kg 10 Ex.
+
+11.07 Malta (de cebada u otros cereales), incluso
+
+tostada.
+
+1107.10 - Sin tostar.
+
+1107.10.01 Sin tostar. Kg Ex. Ex.
+
+1107.20 - Tostada.
+
+1107.20.01 Tostada. Kg Ex. Ex.
+
+11.08 Almidón y fécula; inulina.
+
+- Almidón y fécula:
+
+1108.11 -- Almidón de trigo.
+
+1108.11.01 Almidón de trigo. Kg 10 Ex.
+
+1108.12 -- Almidón de maíz.
+
+1108.12.01 Almidón de maíz. Kg 10 Ex.
+
+1108.13 -- Fécula de papa (patata).
+
+1108.13.01 Fécula de papa (patata). Kg 10 Ex.
+
+1108.14 -- Fécula de yuca (mandioca).
+
+1108.14.01 Fécula de yuca (mandioca). Kg 10 Ex.
+
+1108.19 -- Los demás almidones y féculas.
+
+1108.19.91 Los demás almidones y féculas. Kg 10 Ex.
+
+1108.20 - Inulina.
+
+1108.20.01 Inulina. Kg 10 Ex.
+
+11.09 Gluten de trigo, incluso seco.
+
+1109.00 - Gluten de trigo, incluso seco.
+
+1109.00.01 Gluten de trigo, incluso seco. Kg 10 Ex.
+
+### Capítulo 12. Semillas y frutos oleaginosos; semillas y frutos diversos; plantas industriales o medicinales; paja y forraje
+
+Notas.
+
+1. La nuez y la almendra de palma, las semillas de algodón, ricino, sésamo (ajonjolí), mostaza, cártamo, amapola (adormidera) y “karité”, entre otras, se consideran semillas oleaginosas de la partida 12.07. Por el contrario, se excluyen de dicha partida los productos de las partidas 08.01 o 08.02, así como las aceitunas (Capítulos 07 o 20).
+
+2. La partida 12.08 comprende no solo la harina sin desgrasar, sino también la desgrasada parcialmente o la que ha sido desgrasada y después total o parcialmente reengrasada con su propio aceite. Por el contrario, se excluyen los residuos de las partidas 23.04 a 23.06.
+
+3. Las semillas de remolacha, las pratenses (de prados), las de flores ornamentales, de hortalizas, de árboles forestales o frutales, de vezas (excepto las de la especie Vicia faba) o de altramuces, se consideran semillas para siembra de la partida 12.09.
+
+Por el contrario, se excluyen de esta partida, aunque se destinen a la siembra:
+
+a) las hortalizas de vaina y el maíz dulce (Capítulo 07);
+
+b) las especias y demás productos del Capítulo 09;
+
+c) los cereales (Capítulo 10);
+
+d) los productos de las partidas 12.01 a 12.07 o de la partida 12.11.
+
+4. La partida 12.11 comprende, entre otras, las plantas y partes de plantas de las especies siguientes: albahaca, borraja, ginseng, hisopo, regaliz, diversas especies de menta, romero, ruda, salvia y ajenjo.
+
+Por el contrario, se excluyen:
+
+a) los productos farmacéuticos del Capítulo 30;
+
+b) las preparaciones de perfumería, de tocador o de cosmética del Capítulo 33;
+
+c) los insecticidas, fungicidas, herbicidas, desinfectantes y productos similares de la partida 38.08.
+
+5. En la partida 12.12, el término algas no comprende:
+
+a) los microorganismos monocelulares muertos de la partida 21.02;
+
+b) los cultivos de microorganismos de la partida 30.02;
+
+c) los abonos de las partidas 31.01 o 31.05.
+
+Nota de subpartida.
+
+1. En la subpartida 1205.10, se entiende por semillas de nabo (nabina) o de colza con bajo contenido de ácido erúcico las semillas de nabo (nabina) o de colza de las que se obtiene un aceite fijo el cual tiene un contenido de ácido erúcico inferior al 2% en peso y un componente sólido cuyo contenido de glucosinolatos es inferior a 30 micromoles por gramo.
+
+CÓDIGO DESCRIPCIÓN UNIDAD CUOTA
+
+(ARANCEL)
+
+IMPUESTO IMPUESTO
+
+DE IMP. DE EXP.
+
+12.01 Habas (porotos, frijoles, fréjoles) de soja (soya),
+
+incluso quebrantadas.
+
+1201.10 - Para siembra.
+
+1201.10.01 Para siembra. Kg Ex. Ex.
+
+1201.90 - Los demás.
+
+1201.90.01 Cuando la operación se realice dentro del periodo
+
+comprendido entre el 1o. de enero y el 30 de
+
+septiembre. Kg Ex. Ex.
+
+1201.90.02 Cuando la operación se realice dentro del periodo
+
+comprendido entre el 1o. de octubre y el 31 de
+
+diciembre. Kg 15 Ex.
+
+12.02 Cacahuates (cacahuetes, maníes) sin tostar ni
+
+cocer de otro modo, incluso sin cáscara o
+
+quebrantados.
+
+1202.30 - Para siembra.
+
+1202.30.01 Para siembra. Kg Ex. Ex.
+
+- Los demás:
+
+1202.41 -- Con cáscara.
+
+1202.41.01 Con cáscara. Kg Ex. Ex.
+
+1202.42 -- Sin cáscara, incluso quebrantados.
+
+1202.42.01 Sin cáscara, incluso quebrantados. Kg Ex. Ex.
+
+12.03 Copra.
+
+1203.00 - Copra.
+
+1203.00.01 Copra. Kg 45 Ex.
+
+12.04 Semillas de lino, incluso quebrantadas.
+
+1204.00 - Semillas de lino, incluso quebrantadas.
+
+1204.00.01 Semillas de lino, incluso
+
+quebrantadas. Kg Ex. Ex.
+
+12.05 Semillas de nabo (nabina) o de colza, incluso
+
+quebrantadas.
+
+1205.10 - Semillas de nabo (nabina) o de colza con bajo
+
+contenido de ácido erúcico.
+
+1205.10.01 Semillas de nabo (nabina) o de colza con bajo
+
+contenido de ácido erúcico. Kg Ex. Ex.
+
+1205.90 - Las demás.
+
+1205.90.99 Las demás. Kg Ex. Ex.
+
+12.06 Semillas de girasol, incluso quebrantadas.
+
+1206.00 - Semillas de girasol, incluso quebrantadas.
+
+1206.00.02 Semillas de girasol, incluso
+
+quebrantadas. Kg Ex. Ex.
+
+12.07 Las demás semillas y frutos oleaginosos,
+
+incluso quebrantados.
+
+1207.10 - Nueces y almendras de palma.
+
+(palmiste)
+
+1207.10.01 Nueces y almendras de palma.
+
+(palmiste) Kg Ex. Ex.
+
+- Semillas de algodón:
+
+1207.21 -- Para siembra.
+
+1207.21.01 Para siembra. Kg Ex. Ex.
+
+1207.29 -- Las demás.
+
+1207.29.99 Las demás. Kg Ex. Ex.
+
+1207.30 - Semillas de ricino.
+
+1207.30.01 Semillas de ricino. Kg Ex. Ex.
+
+1207.40 - Semillas de sésamo (ajonjolí).
+
+1207.40.01 Semillas de sésamo (ajonjolí). Kg Ex. Ex.
+
+1207.50 - Semillas de mostaza.
+
+1207.50.01 Semillas de mostaza. Kg Ex. Ex.
+
+1207.60 - Semillas de cártamo (Carthamus tinctorius).
+
+1207.60.03 Semillas de cártamo, excepto para siembra,
+
+cuando la operación se realice dentro del periodo
+
+comprendido entre el 1o. de octubre y el 31 de
+
+diciembre. Kg 10 Ex.
+
+1207.60.99 Las demás. Kg Ex. Ex.
+
+1207.70 - Semillas de melón.
+
+1207.70.01 Semillas de melón. Kg Ex. Ex.
+
+- Los demás:
+
+1207.91 -- Semillas de amapola (adormidera).
+
+1207.91.01 Semillas de amapola
+
+(adormidera). Kg 10 Prohibida
+
+1207.99 -- Los demás.
+
+1207.99.99 Los demás. Kg Ex. Ex.
+
+12.08 Harina de semillas o de frutos oleaginosos,
+
+excepto la harina de mostaza.
+
+1208.10 - De habas (porotos, frijoles, fréjoles) de soja (soya).
+
+1208.10.01 De habas (porotos, frijoles, fréjoles)
+
+de soja (soya). Kg 15 Ex.
+
+1208.90 - Las demás.
+
+1208.90.03 De amapola
+
+(adormidera). Prohibida Prohibida Prohibida
+
+1208.90.99 Las demás. Kg 15 Ex.
+
+12.09 Semillas, frutos y esporas, para siembra.
+
+1209.10 - Semillas de remolacha azucarera.
+
+1209.10.01 Semillas de remolacha azucarera. Kg 9 Ex.
+
+- Semillas forrajeras:
+
+1209.21 -- De alfalfa.
+
+1209.21.01 De alfalfa. Kg Ex. Ex.
+
+1209.22 -- De trébol (Trifolium spp.).
+
+1209.22.01 De trébol (Trifolium spp.). Kg Ex. Ex.
+
+1209.23 -- De festucas.
+
+1209.23.01 De festucas. Kg Ex. Ex.
+
+1209.24 -- De pasto azul de Kentucky (Poa pratensis L.).
+
+1209.24.01 De pasto azul de Kentucky
+
+(Poa pratensis L.). Kg Ex. Ex.
+
+1209.25 -- De ballico (Lolium multiflorum Lam., Lolium
+
+perenne L.).
+
+1209.25.01 De ballico (Lolium multiflorum Lam., Lolium
+
+perenne L.). Kg Ex. Ex.
+
+1209.29 -- Las demás.
+
+1209.29.04 De remolacha, excepto azucarera. Kg 9 Ex.
+
+1209.29.99 Las demás. Kg Ex. Ex.
+
+1209.30 - Semillas de plantas herbáceas utilizadas
+
+principalmente por sus flores.
+
+1209.30.01 Semillas de plantas herbáceas utilizadas
+
+principalmente por sus flores. Kg Ex. Ex.
+
+- Los demás:
+
+1209.91 -- Semillas de hortalizas.
+
+1209.91.15 Semillas de hortalizas. Kg Ex. Ex.
+
+1209.99 -- Los demás.
+
+1209.99.07 De marihuana (Género Cannabis), aun cuando
+
+esté mezclada con
+
+otras semillas. Prohibida Prohibida Prohibida
+
+1209.99.99 Los demás. Kg Ex. Ex.
+
+12.10 Conos de lúpulo frescos o secos, incluso
+
+triturados, molidos o en "pellets"; lupulino.
+
+1210.10 - Conos de lúpulo sin triturar ni moler ni en "pellets".
+
+1210.10.01 Conos de lúpulo sin triturar ni moler
+
+ni en "pellets". Kg Ex. Ex.
+
+1210.20 - Conos de lúpulo triturados, molidos o en "pellets";
+
+lupulino.
+
+1210.20.01 Conos de lúpulo triturados, molidos o en "pellets";
+
+lupulino. Kg Ex. Ex.
+
+12.11 Plantas, partes de plantas, semillas y frutos de
+
+las especies utilizadas principalmente en
+
+perfumería, medicina o para usos insecticidas,
+
+parasiticidas o similares, frescos, refrigerados,
+
+congelados o secos, incluso cortados,
+
+quebrantados o pulverizados.
+
+1211.20 - Raíces de ginseng.
+
+1211.20.01 Raíces de ginseng, excepto lo comprendido en la
+
+fracción arancelaria 1211.20.02. Kg 10 Ex.
+
+1211.20.02 Raíces de ginseng, refrigeradas o
+
+congeladas. Kg 20 Ex.
+
+1211.30 - Hojas de coca.
+
+1211.30.01 Hojas de coca, excepto lo comprendido en la
+
+fracción arancelaria 1211.30.02. Kg 5 Ex.
+
+1211.30.02 Hojas de coca, refrigeradas o
+
+congeladas. Kg 10 Ex.
+
+1211.40 - Paja de adormidera.
+
+1211.40.01 Paja de adormidera. Kg 10 Ex.
+
+1211.50 - Efedra.
+
+1211.50.01 Efedra. Kg 10 Ex.
+
+1211.60 Corteza de cerezo africano
+
+(Prunus africana).
+
+1211.60.01 Corteza de cerezo africano
+
+(Prunus africana). Kg 10 Ex.
+
+1211.90 - Los demás.
+
+1211.90.02 De marihuana (Género
+
+Cannabis). Prohibida Prohibida Prohibida
+
+1211.90.91 Los demás, preparados o conservados conforme a
+
+lo indicado en la partida 20.08, refrigerados o
+
+congelados. Kg 20 Ex.
+
+1211.90.99 Los demás. Kg 10 Ex.
+
+12.12 Algarrobas, algas, remolacha azucarera y caña
+
+de azúcar, frescas, refrigeradas, congeladas o
+
+secas, incluso pulverizadas; huesos (carozos) y
+
+almendras de frutos y demás productos
+
+vegetales (incluidas las raíces de achicoria sin
+
+tostar de la variedad Cichorium intybus
+
+sativum) empleados principalmente en la
+
+alimentación humana, no expresados ni
+
+comprendidos en otra parte.
+
+- Algas:
+
+1212.21 -- Aptas para la alimentación humana.
+
+1212.21.01 Congeladas. Kg 20 Ex.
+
+1212.21.02 Algas secas de las especies Porphyra Yezoensis o
+
+Porphyra Tenera (alga nori). Kg Ex. Ex.
+
+1212.21.99 Las demás. Kg 10 Ex.
+
+1212.29 -- Las demás.
+
+1212.29.01 Congeladas. Kg 20 Ex.
+
+1212.29.99 Las demás. Kg 10 Ex.
+
+- Los demás:
+
+1212.91 -- Remolacha azucarera.
+
+1212.91.01 Remolacha azucarera. Kg 10 Ex.
+
+1212.92 -- Algarrobas.
+
+1212.92.02 Algarrobas. Kg 10 Ex.
+
+1212.93 -- Caña de azúcar.
+
+1212.93.01 Caña de azúcar. Kg 36 Ex.
+
+1212.94 -- Raíces de achicoria.
+
+1212.94.02 Raíces de achicoria. Kg 10 Ex.
+
+1212.99 -- Los demás.
+
+1212.99.99 Los demás. Kg 10 Ex.
+
+12.13 Paja y cascabillo de cereales, en bruto, incluso
+
+picados, molidos, prensados o en "pellets".
+
+1213.00 - Paja y cascabillo de cereales, en bruto, incluso
+
+picados, molidos, prensados o en "pellets".
+
+1213.00.01 Paja y cascabillo de cereales, en bruto, incluso
+
+picados, molidos, prensados
+
+o en "pellets". Kg 10 Ex.
+
+12.14 Nabos forrajeros, remolachas forrajeras, raíces
+
+forrajeras, heno, alfalfa, trébol, esparceta, coles
+
+forrajeras, altramuces, vezas y productos
+
+forrajeros similares, incluso en "pellets".
+
+1214.10 - Harina y "pellets" de alfalfa.
+
+1214.10.01 Harina y "pellets" de alfalfa. Kg 15 Ex.
+
+1214.90 - Los demás.
+
+1214.90.01 Alfalfa. Kg 10 Ex.
+
+1214.90.99 Los demás. Kg 15 Ex.
 
 ### Capítulo 13. Gomas, resinas y demás jugos y extractos vegetales
 
@@ -906,61 +6350,9 @@ comprendidos en otra parte.
 
 1404.90.99 Los demás. Kg 10 Ex.
 
-#### SECCIÓN TERCERA. FUNCIONAMIENTO DE LA ESTRUCTURA ADMINISTRATIVA DEL INSTITUTO
+#### Sección III
 
-###### ARTÍCULO 22.
-
-Las atribuciones de los titulares de las unidades administrativas del Instituto, quedarán previstas de manera general en esta Ley y de manera específica en el Reglamento Interior del Instituto.
-
-###### ARTÍCULO 23.
-
-La titularidad y representación del Instituto corresponde a su Director General Ejecutivo, quien además de realizar el trámite y la resolución de los asuntos que le compete para dirigirlo técnica, administrativa y operativamente, tendrá las siguientes atribuciones:
-
-I. Delegar facultades y obligaciones en los responsables de las unidades administrativas dependientes del Instituto, salvo aquéllas que las leyes y el reglamento interior del Instituto dispongan que deban ser ejercidas directamente por él;
-
-II. Acordar con el Consejo General el despacho de los asuntos encomendados al Instituto así como los del sector que le corresponde coordinar, así como desempeñar las comisiones y funciones específicas que se le confieran;
-
-III. Acordar con el Consejo General la designación de funcionarios para coordinar programas especiales, destinados a mejorar el servicio. En el acuerdo respectivo se señalarán sus atribuciones específicas, así como su agrupación o separación para que operen de conformidad con los intereses del Instituto, y
-
-IV. Ejercer las demás facultades que con tal carácter se le confieran en las disposiciones aplicables o le encomiende el Consejo General.
-
-###### ARTÍCULO 24.
-
-Al frente de cada Unidad Administrativa habrá un Director General, a quien corresponderá el ejercicio de las siguientes atribuciones:
-
-I. Auxiliar al Director General Ejecutivo del Instituto, en el ejercicio de sus atribuciones, dentro del ámbito de su competencia;
-
-II. Desempeñar los encargos que el Director General Ejecutivo le encomiende y por acuerdo expreso, representar al Instituto en los actos que su Titular determine;
-
-III. Coordinar con los demás Directores Generales y las demás áreas administrativas los asuntos de competencia del Instituto para su mejor despacho;
-
-IV. Suscribir los documentos relativos al ejercicio de las facultades que le hayan sido delegadas, autorizadas o que le correspondan por suplencia;
-
-V. Emitir dictámenes, opiniones e informes que le sean solicitados por el Director General Ejecutivo del Instituto;
-
-VI. Proponer al Director General Ejecutivo del Instituto los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos, órdenes y demás disposiciones en asuntos de su competencia;
-
-VII. Proponer al Director General Ejecutivo del Instituto los anteproyectos de acuerdos interinstitucionales, de acuerdos y bases de coordinación con las entidades federativas y municipios, así como convenios con los sectores social y privado en los asuntos de su competencia;
-
-VIII. Ejecutar el Programa Operativo Anual de las áreas administrativas a su cargo;
-
-IX. Planear, programar, organizar, dirigir y evaluar las actividades de las unidades administrativas que le sean adscritas, así como del personal que prevea y le asigne el presupuesto de egresos, conforme a las instrucciones del Director General Ejecutivo del Instituto;
-
-X. Proponer al Director General Ejecutivo del Instituto medidas para el mejoramiento administrativo de las áreas de su adscripción y, en su caso, para la reorganización de las mismas;
-
-XI. Promover la capacitación permanente del personal a su cargo, para el desarrollo profesional y la mejora continua en la prestación del servicio;
-
-XII. Proporcionar la información, datos y cooperación técnica que sean solicitados por otras dependencias y entidades de la Administración Pública Estatal y Federal, de conformidad con las instrucciones del Director General Ejecutivo del Instituto y las disposiciones aplicables en materia de acceso a la información y protección de datos personales;
-
-XIII. Certificar y expedir copias de los documentos que obren en los archivos de las unidades administrativas que tenga adscritas, previo pago de los derechos que resulten aplicables conforme a la ley de la materia, excepto cuando en base a disposiciones aplicables en materia de acceso a la información y protección de datos personales, lo solicite alguna autoridad jurisdiccional o administrativa;
-
-XIV. Coordinar el establecimiento y operación del programa interno de protección civil en las áreas administrativas de su adscripción;
-
-XV. Coordinar los programas especiales asignados a la unidad administrativa a su cargo;
-
-XVI. Vigilar que se cumpla con las disposiciones aplicables en los asuntos de su competencia, y
-
-XVII. Las demás que les confieran esta ley, el reglamento interior y las demás disposiciones o le encomiende el Director General Ejecutivo del Instituto.
+GRASAS Y ACEITES, ANIMALES, VEGETALES O DE ORIGEN MICROBIANO, Y PRODUCTOS DE SU DESDOBLAMIENTO; GRASAS ALIMENTICIAS ELABORADAS; CERAS DE ORIGEN ANIMAL O VEGETAL
 
 ### Capítulo 15
 
@@ -1482,299 +6874,13 @@ de grasas o ceras, animales
 
 o vegetales. Kg 10 Ex.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### Sección IV
 
-###### ARTÍCULO 40.
+PRODUCTOS DE LAS INDUSTRIAS ALIMENTARIAS; BEBIDAS, LÍQUIDOS ALCOHÓLICOS Y VINAGRE; TABACO Y SUCEDÁNEOS DEL TABACO ELABORADOS; PRODUCTOS, INCLUSO CON NICOTINA, DESTINADOS PARA LA INHALACIÓN SIN COMBUSTIÓN; OTROS PRODUCTOS QUE CONTENGAN NICOTINA DESTINADOS PARA LA ABSORCIÓN DE NICOTINA EN EL CUERPO HUMANO
 
-La Dirección General de Pensiones tendrá a su cargo:
+Nota.
 
-I. Una Dirección de Cuentas Individuales de la que a su vez dependerán;
-
-a) Una Subdirección Técnica, y
-
-b) Una Subdirección Administrativa;
-
-II. Una Dirección de Cuentas Institucionales de la Sección 38 del SNTE, de la que a su vez dependerán;
-
-a) Una Subdirección Técnica, y
-
-b) Una Subdirección Administrativa;
-
-III. Una Dirección de Cuentas Institucionales de la U A de C, de la que a su vez dependerán;
-
-c) (sic) Una Subdirección Técnica, y
-
-d) Una Subdirección Administrativa;
-
-IV. Una Dirección de Cuentas Institucionales de la UAAAN, de la que a su vez dependerán;
-
-e) (sic) Una Subdirección Técnica, y
-
-f) Una Subdirección Administrativa;
-
-V. Una Dirección de Prestaciones de Retiro y Defunción de la que a su vez dependerá la Subdirección del Seguro del Maestro;
-
-VI. Una Dirección de Control de Gestión de la que a su vez dependerán:
-
-a) Una Subdirección de Trabajo Social;
-
-b) Una Subdirección de Afiliación, y
-
-c) Una Subdirección de Estadística;
-
-VII. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
-
-###### ARTÍCULO 41.
-
-El servicio del Instituto por lo que respecta al rubro de pensiones, se compone por aquel que se presta a los pensionados de la Sección 38, pensionados de la U A de C y pensionados de la UAAAN, con sujeción a lo dispuesto por el artículo 6 de esta Ley, y por aquel que se ofrece a los pensionados de las instituciones que celebren convenios para tal efecto con el Instituto, cuyos fondos pensionarios estarán constituidos en cuentas institucionales independientes y autónomas entre sí.
-
-Estas cuentas institucionales se integrarán con todas y cada una de las aportaciones que establece esta Ley por cada entidad u organismo, en el monto que corresponda a ellas conforme a su plantilla de trabajadores afiliados y pensionados. Del monto mensual que se ingrese a cada cuenta institucional se destinará el 1.5% para gastos de administración.
-
-Para todos los efectos legales, los trabajadores de las instituciones previstas por el artículo 2 fracciones a) , b) , c) y f) de esta Ley, se entenderán integrados dentro de la cuenta institucional de la Sección 38. Realicé (sic)
-
-###### ARTÍCULO 42.
-
-El servicio del Instituto por lo que respecta al apartado de pensiones para los trabajadores adscritos a la cuenta Institucional de la Sección 38 incluye:
-
-I. Ofrecer a los trabajadores los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión de retiro por edad y antigüedad en el servicio;
-
-b) Pensión por retiro anticipado;
-
-c) Pensión por invalidez;
-
-d) Pensión por fallecimiento, y
-
-e) Las demás que se establezcan en esta Ley y las demás disposiciones aplicables.
-
-II. Ofrecer a los pensionados los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que en esta ley se establecen:
-
-a) Aguinaldo equivalente en días, al que recibe el trabajador de la misma categoría, y
-
-b) Gratificación de fin de año equivalente en días, al que recibe el trabajador de la misma categoría;
-
-III. Ofrecer a los beneficiarios las subvenciones sociales que a continuación se expresan, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión en caso de fallecimiento del trabajador o pensionado;
-
-b) Gastos de funeral del pensionado, y
-
-c) Aguinaldo equivalente en días, a la última que haya recibido el titular de la pensión.
-
-Los beneficios que establecen las fracciones que preceden se proporcionarán de acuerdo a las posibilidades económicas del Instituto, el cual programará anualmente sus servicios, que dispensará con trato igual de carácter general a los trabajadores, pensionados y beneficiarios.
-
-###### ARTÍCULO 43.
-
-El servicio del Instituto por lo que respecta al apartado de pensiones para los trabajadores adscritos a la cuenta institucional de la U A de C incluye:
-
-I. Ofrecer a los trabajadores los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión de retiro por edad y antigüedad en el servicio;
-
-b) Pensión por retiro anticipado;
-
-c) Pensión por invalidez;
-
-d) Pensión por fallecimiento, y
-
-e) Las demás que se establezcan en esta Ley y las demás disposiciones aplicables;
-
-II. Ofrecer a los pensionados los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que en esta ley se establecen:
-
-a) El pago por parte de la Dirección General de Pensiones de las aportaciones que les corresponden conforme a la ley de la materia, por concepto de servicio médico con cargo a su cuenta Institucional, y
-
-b) Aguinaldo equivalente, en días, a la última que recibieron como trabajadores;
-
-III. Ofrecer a los beneficiarios las subvenciones sociales que a continuación se expresan, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión en caso de fallecimiento del pensionado;
-
-b) Gastos de funeral del pensionado, y
-
-c) Aguinaldo equivalente, en días, a la última que haya recibido el titular de la pensión.
-
-Los beneficios que establecen las fracciones que preceden, se proporcionarán de acuerdo a las posibilidades económicas del Instituto, el cual programará anualmente sus servicios, que dispensará con trato igual de carácter general a los trabajadores, pensionados y beneficiarios, con sujeción a lo dispuesto por el artículo 6 de esta Ley.
-
-###### ARTÍCULO 44.
-
-El servicio del Instituto por lo que respecta al apartado de pensiones para los trabajadores adscritos a la cuenta institucional de la UAAAN incluye:
-
-I. Ofrecer a los trabajadores los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión de retiro por edad y antigüedad en el servicio;
-
-b) Pensión por retiro anticipado;
-
-c) Pensión por invalidez;
-
-d) Pensión por fallecimiento, y
-
-e) Las demás que se establezcan en esta Ley y las demás disposiciones aplicables;
-
-II. Ofrecer a los pensionados los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que en esta ley se establecen:
-
-a) El pago por parte de la Dirección General de Pensiones de las aportaciones que les corresponden conforme a la ley de la materia, por concepto de servicio médico con cargo a su cuenta institucional, y
-
-b) Aguinaldo equivalente, en días, a la última que recibieron como trabajadores;
-
-III. Ofrecer a los beneficiarios las subvenciones sociales que a continuación se expresan, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión en caso de fallecimiento del pensionado;
-
-b) Gastos de funeral del pensionado, y
-
-c) Aguinaldo equivalente, en días, a la última que haya recibido el titular de la pensión.
-
-Los beneficios que establecen las fracciones que preceden, se proporcionarán de acuerdo a las posibilidades económicas del Instituto, el cual programará anualmente sus servicios, que dispensará con trato igual de carácter general a los trabajadores, pensionados y beneficiarios, con sujeción a lo dispuesto por el artículo 6 de esta Ley.
-
-###### ARTÍCULO 45.
-
-El servicio del Instituto por lo que respecta al apartado de pensiones para los trabajadores del resto de los organismos con quienes celebre convenios podrá incluir:
-
-I. Ofrecer asesoría y recursos administrativos para que las cuentas institucionales brinden a los trabajadores los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión de retiro por edad y antigüedad en el servicio;
-
-b) Pensión por retiro anticipado;
-
-c) Pensión por invalidez;
-
-d) Pensión por fallecimiento, y
-
-e) Las demás que se establezcan en esta Ley y las demás disposiciones aplicables.
-
-II. Ofrecer a los pensionados los beneficios sociales que se expresan a continuación, en los casos y con los requisitos que en esta ley se establecen:
-
-a) El pago por parte de la Dirección General de Pensiones de las aportaciones que les corresponden conforme a la ley de la materia, por concepto de servicio médico con cargo a su cuenta institucional, y
-
-b) Aguinaldo equivalente en días, al que recibe el trabajador de la misma categoría;
-
-III. Ofrecer a los beneficiarios las subvenciones sociales que a continuación se expresan, en los casos y con los requisitos que esta ley establece:
-
-a) Pensión en caso de fallecimiento del pensionado;
-
-b) Gastos de funeral del pensionado, y
-
-c) Aguinaldo equivalente en días, al que recibe el trabajador de la misma categoría;
-
-Los beneficios que establecen las fracciones que preceden, se proporcionarán de acuerdo a las posibilidades económicas del Instituto, el cual programará anualmente sus servicios, que dispensará con trato igual de carácter general a los trabajadores, pensionados y beneficiarios.
-
-###### ARTÍCULO 46.
-
-No se concederá la pensión por invalidez:
-
-I. Cuando el estado de invalidez sea consecuencia de un acto intencional del trabajador u originado por algún delito cometido por el mismo, y
-
-II. Cuando el estado de invalidez sea anterior a la fecha del alta del trabajador en el servicio.
-
-###### ARTÍCULO 47.
-
-Las pensiones por invalidez se concederán a solicitud del trabajador o de sus representantes legales previo dictamen de dos médicos, uno designado por el trabajador o su representante legal y el otro por la Dirección General de Pensiones. En el caso de que hubiere discrepancia entre los citados facultativos o inconformidad en una de las partes, la Dirección General de Pensiones propondrá al trabajador una terna de especialistas de notorio prestigio profesional, para que de entre ellos elija uno, quien emitirá un dictamen definitivo, inapelable y obligatorio para el interesado y la Dirección General de Pensiones.
-
-###### ARTÍCULO 48.
-
-La pensión por fallecimiento aplicará en los siguientes casos:
-
-I. Al fallecimiento de un trabajador cualquiera que sea su edad y antigüedad, y
-
-II. Al fallecimiento de un pensionado por retiro por edad y antigüedad en el servicio, por invalidez o por retiro anticipado.
-
-###### ARTÍCULO 49.
-
-Para los efectos de este capítulo, se considerarán como beneficiarios:
-
-I. El cónyuge o el compañero civil supérstite y los hijos menores, o ambos si ocurren éstos con aquél. Los hijos menores tendrán derecho a concurrir, ya sean nacidos dentro o fuera de matrimonio, los reconocidos o adoptivos.
-
-El consejo directivo del servicio médico tendrá la facultad de determinar la asignación de las pensiones por discapacidad, fundado en el dictamen de un grupo interdisciplinario de especialistas en salud;
-
-II. A falta de los anteriores, los padres en caso de que hubiesen dependido económicamente del trabajador o pensionado;
-
-III. A falta de los anteriores, la persona con quien el trabajador o pensionado vivió como si fuera su cónyuge, durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato.
-
-Si al morir el trabajador o pensionado tuviere varios concubinos ninguno tendrá derecho a pensión, y
-
-IV. A falta de los anteriores, el divorciado del trabajador o pensionado, siempre y cuando haya estado recibiendo pensión alimenticia por condena judicial.
-
-Si concurren varios beneficiarios con el mismo derecho, por encontrarse comprendidos en alguna de las dos primeras fracciones de este artículo, el monto de la pensión se dividirá por partes iguales entre ellos. Cuando alguno de los beneficiarios comprendidos en alguna de las fracciones I ó II perdiese el derecho a la pensión por cualquier causa, la parte que corresponda será repartida proporcionalmente entre los restantes beneficiarios de la misma categoría. En caso de que no exista ningún otro beneficiario con derecho, perteneciente a la misma categoría del que perdió el derecho, la pensión se entenderá extinguida.
-
-###### ARTÍCULO 50.
-
-En caso de que los beneficiarios, tanto del trabajador como del pensionado, sean hijos menores de edad, éstos disfrutarán de la pensión que en su favor se establece en este apartado sólo hasta los 18 años de edad, excepto cuando se trate de aquellos que sufran de una discapacidad mental o física que les impida trabajar, para quienes la pensión será vitalicia. Si el hijo beneficiario es estudiante disfrutará la pensión hasta los 25 años de edad, en función de las previsiones establecidas en el Reglamento Interior para tal efecto.
-
-###### ARTÍCULO 51.
-
-La Dirección General de Pensiones citará a los pensionados y beneficiarios para que comparezca con carácter obligatorio en el lugar, día y hora que es señalada por la misma, para efectos de pasar la revista de ley.
-
-Con autorización del Consejo General y previa solicitud del Consejo Directivo, la Dirección General de Pensiones podrá solicitar la colaboración a los Comités Ejecutivos de las diversas Secciones del SNTE y/o institutos estatales de seguridad social en el país, para llevar a cabo el pase de revista a pensionados que radiquen fuera del estado y una vez realizado, rendir el informe correspondiente a la Dirección de General Pensiones.
-
-En caso de que los pensionados no acudan al pase de revista, la Dirección de General de Pensiones podrá cancelar el pago por dispersión electrónica a tarjeta de débito y sustituirlo por cheque tradicional que el interesado deberá recoger en las oficinas del Instituto.
-
-Para el caso de que el pensionado se encuentre materialmente imposibilitado para reclamar personalmente su cheque, deberá enviar un apoderado debidamente acreditado para tal efecto.
-
-###### ARTÍCULO 52.
-
-En caso de que la Dirección General de Pensiones reciba solicitudes para gozar de los beneficios que esta ley establece, excepción hecha de las relativas a pensiones y gastos de funeral, y no esté en condiciones financieras de concederlas, acordadas que sean de conformidad dichas peticiones, se sujetará su otorgamiento cuando ello sea posible, al orden en que fueron presentadas.
-
-###### ARTÍCULO 53.
-
-En caso de que los recursos del fondo de la cuenta institucional de la Sección 38 no bastaren para cubrir los beneficios que esta ley establece para sus pensionados, el déficit, cualquier que sea su monto, será cubierto por el Gobierno del Estado, de acuerdo con la plaza que hubiere desempeñado el trabajador y que originó el beneficio de la pensión.
-
-###### ARTÍCULO 54.
-
-En caso de que los recursos del fondo de la cuenta institucional de la U A de C no bastaren para cubrir los beneficios que esta ley establece para sus pensionados, el déficit, cualquier que sea su monto, será cubierto por la parte patronal de la referida Universidad, de acuerdo con la plaza que hubiere desempeñado el trabajador y que originó el beneficio de la pensión.
-
-###### ARTÍCULO 55.
-
-En caso de que los recursos del fondo de la cuenta institucional de la UAAAN no bastaren para cubrir los beneficios que esta ley establece para sus pensionados, el déficit, cualquier que sea su monto, será cubierto por la parte patronal de la referida Universidad, de acuerdo con la plaza que hubiere desempeñado el trabajador y que originó el beneficio de la pensión.
-
-###### ARTÍCULO 56.
-
-Para los efectos del otorgamiento de las prestaciones que esta ley establece, la edad de los trabajadores y pensionados y el parentesco con sus beneficiarios, se acreditarán en los términos de la legislación civil. La dependencia económica de los ascendientes, respecto de los trabajadores y pensionados, se acreditará mediante información testimonial en vía de jurisdicción voluntaria.
-
-###### ARTÍCULO 57.
-
-En el caso de que los pensionados o los patrones deseen realizar aportaciones económicas extraordinarias, podrán efectuarlas previo aviso a la Dirección General de Pensiones a efecto de que esta realice los trámites que resulten necesarios.
-
-###### ARTÍCULO 58.
-
-Los recursos que se integren al patrimonio del Instituto en calidad de aportación para el rubro de Pensiones en algunas de las cuentas, podrán destinarse a las pensiones en curso de pago.
-
-###### ARTÍCULO 59.
-
-Los trabajadores que hayan ingresado a laborar en alguna de las entidades u organismos a que se refiere el artículo 2 de esta Ley, no adquirirán derecho alguno sobre los fondos globales ni sobre sus cuentas individuales.
-
-###### ARTÍCULO 60.
-
-Si la situación financiera del Instituto lo permite, el Consejo General podrá establecer y reglamentar beneficios adicionales para pensionados y beneficiarios.
-
-###### ARTÍCULO 61.
-
-El derecho a disfrutar de las pensiones que establecen los artículos 42, 43, 44 y 45 del presente ordenamiento se origina:
-
-I. En el caso de retiro por edad y antigüedad en el servicio o por retiro anticipado cuando quede firme la resolución correspondiente expedida por el Consejo Directivo y el trabajador haya dejado de prestar sus servicios;
-
-II. En el caso de que los trabajadores que se incapaciten física o mentalmente, desde el día en que se dictamine en forma definitiva su invalidez, siempre que el trabajador haya cumplido con la antigüedad mínima requerida, y
-
-III. En el caso de los beneficiarios, desde el día siguiente al de la muerte de la persona que origine la pensión correspondiente; en caso de presunción de muerte, desde el momento en que quede firme la resolución judicial, siempre que el trabajador haya cumplido con la antigüedad mínima requerida.
-
-Si un trabajador con la antigüedad requerida o pensionado desapareciere de su domicilio por más de un mes sin que se tengan noticias de su paradero, los presuntos beneficiarios podrán solicitar a la Dirección de General Pensiones la asignación provisional correspondiente, para lo cual sólo se requerirá denunciar la desaparición del trabajador o pensionado y comprobar el parentesco correspondiente, sin perjuicio de que se inicien las diligencias conducentes a la declaratoria definitiva de la presunción de muerte.
-
-Si el trabajador o pensionado llegare a presentarse, los beneficiarios de éste tendrán la obligación de reintegrar a la Dirección de Pensiones las cantidades que hayan percibido por concepto de pensión. Comprobado el fallecimiento la asignación será definitiva.
-
-###### ARTÍCULO 62.
-
-Los acuerdos por los que la Dirección General de Pensiones conceda una pensión, se expedirán una vez que hayan sido satisfechos todos los requisitos que se establecen en esta ley.
-
-###### ARTÍCULO 63.
-
-El cálculo del monto de la pensión que proceda para los trabajadores de todas las entidades y organismos previstos por el artículo 2 de esta ley, se realizará en función del sueldo base más los conceptos por los cuales aportó en cada caso el trabajador. El incremento al monto de la pensión se aplicará en función del porcentaje que sea aumentado al trabajador en activo.
-
-###### ARTÍCULO 64.
-
-Las pensiones serán cobradas mensualmente a la Dirección General de Pensiones por los propios titulares o, en su caso, por las personas autorizadas en los términos de la legislación civil.
-
-En este último caso, los apoderados deberán presentar la documentación que les acredite con este carácter, la cual deberá ser renovada cada seis meses.
+1. En esta Sección, el término “pellets” designa los productos en forma de cilindro, bolita, etc., aglomerados por simple presión o con adición de un aglutinante en proporción inferior o igual al 3% en peso.
 
 ### Capítulo 16. Preparaciones de carne, pescado, crustáceos, moluscos o demás invertebrados acuáticos, o de insectos
 
@@ -4226,299 +9332,7 @@ vía transdérmica. Kg 5 Ex.
 
 2404.99.99 Los demás. Kg 5 Ex.
 
-#### SECCIÓN SEGUNDA. CUENTAS INSTITUCIONALES
-
-###### ARTICULO 65.
-
-Los trabajadores agremiados a la Sección 38 que hayan ingresado a laborar en alguna de las entidades y organismos con anterioridad a la entrada en vigor de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila publicada el 19 de Noviembre de 1999 en el Periódico Oficial del Gobierno del Estado, al momento de cumplirse los supuestos legales para el disfrute de cualesquiera de las pensiones, podrán acogerse a las disposiciones previstas en la Ley antes citada o en aquellas de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado N° 52, así como a sus respectivas reformas, especialmente la que se refiere al derecho de gozar de una pensión dinámica vitalicia.
-
-El trabajador que opte por la elección a que se refiere el párrafo anterior, deberá comunicar su voluntad por escrito ante la Dirección General de Pensiones. La Dirección General de Pensiones establecerá los formatos necesarios para dar cumplimiento a esta disposición, a efecto de que cada institución u organismo correspondiente lo haga llegar a sus trabajadores. Hasta en tanto el trabajador no comunique su voluntad, se entenderá que se aplicará la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado N° 52.
-
-La opción elegida por el trabajador pensionado aplicará a sus beneficiarios al momento de su fallecimiento.
-
-###### ARTÍCULO 66.
-
-Para los trabajadores agremiados a la Sección 38 que se pensionen bajo el régimen de cuenta institucional previsto por la ley de 1975, se aplicarán los siguientes lineamientos:
-
-I. La pensión de retiro por antigüedad en el servicio se otorga al cumplir 28 años en el caso de las mujeres y 30 años en el caso de los hombres.
-
-II. El monto de la pensión de retiro por antigüedad en el servicio, se establecerá con base en la última categoría en que los trabajadores se desempeñaron durante los 5 últimos años anteriores a su retiro, conforme a lo que establece el artículo 63 del presente ordenamiento.
-
-III. Para los trabajadores que desempeñaron distintos puestos durante los últimos cinco años anteriores a su retiro, el monto de su pensión se establecerá tomando en cuenta los sueldos vigentes al momento del retiro de todos los puestos desempeñados y se promediarán los sueldos vigentes que correspondan a cada uno de los puestos ocupados, en relación al tiempo durante el cual dichos puestos fueron desempeñados.
-
-IV. Para los trabajadores que se separen del servicio por haber cumplido 55 años de edad y un mínimo de 15 años de servicio, se tomará en cuenta el siguiente tabulador para calcular la pensión vitalicia a la que tienen derecho:
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
-
-HOMBRE MUJER
-
-De 15 años un día a 16 años 55% 55%
-
-De 16 años un día a 17 años 58% 58%
-
-De 17 años un día a 18 años 61 % 61 %
-
-De 18 años un día a 19 años 64% 64%
-
-De 19 años un día a 20 años 67% 67%
-
-De 20 años un día a 21 años 70% 70%
-
-De 21 años un día a 22 años 73% 73%
-
-De 22 años un día a 23 años 76% 76%
-
-De 23 años un día a 24 años 79% 79%
-
-De 24 años un día a 25 años 82% 82%
-
-De 25 años un día a 26 años 85% 85%
-
-De 26 años un día a 27 años 88% 88%
-
-De 27 años un día a 28 años 91 % 91 %
-
-De 28 años un día a 29 años 94% 100%
-
-De 29 años un día a 29 años 5 meses 97% 100%
-
-De 29 años 5 meses en adelante 100%
-
-V. El trabajador que se inhabilite física o mentalmente tendrá derecho a recibir una pensión vitalicia de acuerdo con el siguiente tabulador, en relación al porcentaje de su último sueldo de acuerdo a lo estipulado en la fracción III de este artículo.
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
-
-HOMBRE MUJER
-
-De 1 a 5 años 25% 25%
-
-De 5 años un día a 10 años 35% 35%
-
-De 10 años un día a 15 años 45% 45%
-
-De 15 años un día a 16 años 55% 55%
-
-De 16 años un día a 17 años 58% 58%
-
-De 17 años un día a 18 años 61 % 61 %
-
-De 18 años un día a 19 años 64% 64%
-
-De 19 años un día a 20 años 67% 67%
-
-De 20 años un día a 21 años 70% 70%
-
-De 21 años un día a 22 años 73% 73%
-
-De 22 años un día a 23 años 76% 76%
-
-De 23 años un día a 24 años 79% 79%
-
-De 24 años un día a 25 años 82% 82%
-
-De 25 años un día a 26 años 85% 85%
-
-De 26 años un día a 27 años 88% 88%
-
-De 27 años un día a 28 años 91 % 91 %
-
-De 28 años un día a 29 años 94% 100 %
-
-De 29 años un día a 29 años 5 meses 97% 100%
-
-De 29 años 5 meses en adelante 100%
-
-VI. Los beneficiarios del pensionado o trabajador que fallezca, tendrán derecho a percibir una pensión en los términos que la ley establece, de acuerdo con el tabulador señalado en este mismo artículo y según se trate de los casos siguientes:
-
-a) Para los beneficiarlos de los pensionados el monto de la pensión se fijará en base a la pensión que percibía el titular a la fecha de su fallecimiento.
-
-b) El cónyuge y/o compañero civil supérstite tendrá derecho a disfrutar a la pensión de forma vitalicia perdiéndose este derecho al contraer matrimonio y/o pacto civil de solidaridad o entrar en estado de concubinato.
-
-El monto de las pensiones establecidas en esta fracción irá disminuyendo como se indica en la siguiente tabla:
-
-Primer Año 100 %
-
-Segundo Año 90%
-
-Tercer Año 80%
-
-Cuarto Año 70%
-
-Quinto Año 60%
-
-Del sexto en adelante 50%
-
-###### ARTÍCULO 67.
-
-Para los trabajadores que hayan cubierto los requisitos para obtener su pensión por antigüedad en el servicio, 28 años en el caso de las mujeres y 30 años tratándose de los hombres y decidan permanecer voluntariamente en servicio activo, se les cubrirá un bono anual del 10% del sueldo integrado (sueldo base, quinquenio, prima de antigüedad en su caso, compensación especial, material didáctico, estímulos, titulación, asignación docente, previsión social múltiple y despensa) , pagadero en dos emisiones: una en la segunda quincena del mes de agosto y la otra, en la segunda quincena del mes de febrero.
-
-El 10% a que alude el párrafo que antecede se integrará con el 70% que aporten las entidades, instituciones y organismos a que se refieren los incisos a), b) y c) de la fracción I del artículo 2 de esta ley y con el 30% que aporte la Dirección de Pensiones.
-
-El bono a que se refiere esta fracción no será considerado para efectos de pensión, cuando ésta proceda, de conformidad con la solicitud del interesado.
-
-###### ARTÍCULO 68.
-
-Para los trabajadores que pertenezcan a la U A de C y a la UAAAN y que decidan acogerse voluntariamente a las disposiciones de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado número 52, se seguirán aplicando las disposiciones anteriores hasta en tanto se cubra al último de los pensionados o beneficiarios que se acojan a ella, los beneficios a que tengan derecho.
-
-###### ARTÍCULO 69.
-
-Tratándose de los trabajadores de la U A de C, afiliados al Instituto, se aplicarán los lineamientos siguientes, con sujeción a lo dispuesto por el artículo 6 de esta Ley:
-
-I. La edad mínima para la pensión por vejez será de 60 años.
-
-II. La antigüedad mínima de servicios para la pensión por vejez será de 20 años.
-
-III. La pensión por antigüedad en el servicio se otorgará a quien hubiere permanecido en activo, siendo hombre por 34 años y siendo mujer por 32 años.
-
-Para ese efecto, el aumento en los años de servicio, con referencia a los previstos en la ley que se abroga, se incrementará hasta las cantidades anteriormente señaladas, conforme a la tabla siguiente, considerando la antigüedad al año de 2003:
-
-HOMBRES MUJERES
-
-AÑOS DE ANTIGÜEDAD AÑOS DE ANTIGÜEDAD
-
-ANTIGÜEDAD MÍNIMA ANTIGÜEDAD AL MÍNIMA
-
-AL AÑO 2003 AÑO 2003
-
-De 0 a 8 años 34 años De 0 a 6 años 32
-
-De 9 a 24 años 34 menos 0.25 De 7 a 22 años 32 menos 0.25
-
-por cada año por cada año en
-
-en exceso de 9 exceso de 7
-
-De 25 o más 30 años De 23 o más años 28 años
-
-años
-
-El monto de la pensión de retiro por antigüedad en el servicio, se establecerá con base en la última percepción de los trabajadores que durante los seis años anteriores a su retiro venían desempeñando el mismo puesto. Si en el periodo anteriormente señalado, ocurrió algún cambio de categoría, el monto de la pensión se calculará promediando los salarios percibidos durante los seis años anteriores, con base en el salario de la última categoría desempeñada, a la fecha de la determinación de la pensión, conforme a lo que establece el artículo 63 del presente ordenamiento.
-
-Con cargo a la cuenta institucional de la U A de C, se pagará a los trabajadores que, reuniendo los requisitos exigidos para pensionarse permanezcan en servicio activo, un estímulo económico, que será estimado y pagado anualmente, consistente en una cantidad equivalente al 25% sobre el sueldo tabular y la prima de antigüedad.
-
-Con relación al concepto de Ahorro para el Retiro, la U A de C, entregará al fondo solidario de su cuenta institucional, las cantidades que, desde el año de 2002 depositaba a favor de sus trabajadores, por concepto de aportación a la cuenta concentradora del ahorro para el retiro.
-
-###### ARTÍCULO 70.
-
-Tratándose de los trabajadores de la UAAAN, afiliados al Instituto, se aplicarán los siguientes lineamientos, con sujeción a lo dispuesto por el artículo 6 de esta Ley:
-
-I. La pensión de retiro por antigüedad en el servicio se otorga al cumplir 28 años en el caso de las mujeres y 30 años en el caso de los hombres.
-
-II. El monto de la pensión de retiro por antigüedad en el servicio, se establecerá con base en la última categoría en que los trabajadores se desempeñaron durante los 3 últimos años anteriores a su retiro, conforme a lo que establece el artículo 63 del presente ordenamiento.
-
-III. Para los trabajadores que se separen del servicio por haber cumplido 55 años de edad y un mínimo de 15 años de servicio, se tomará en cuenta el siguiente tabulador para calcular la pensión vitalicia a la que tienen derecho:
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
-
-HOMBRE MUJER
-
-De 15 años un día a 16 años 55% 55%
-
-De 16 años un día a 17 años 58% 58%
-
-De 17 años un día a 18 años 61 % 61 %
-
-De 18 años un día a 19 años 64% 64%
-
-De 19 años un día a 20 años 67% 67%
-
-De 20 años un día a 21 años 70% 70%
-
-De 21 años un día a 22 años 73% 73%
-
-De 22 años un día a 23 años 76% 76%
-
-De 23 años un día a 24 años 79% 79%
-
-De 24 años un día a 25 años 82% 82%
-
-De 25 años un día a 26 años 85% 85%
-
-De 26 años un día a 27 años 88% 88%
-
-De 27 años un día a 28 años 91 % 91 %
-
-De 28 años un día a 29 años 94% 100%
-
-De 29 años un día a 29 años 5 meses 97% 100%
-
-De 29 años 5 meses en adelante 100%
-
-IV.- El trabajador que se inhabilite física o mentalmente tendrá derecho a recibir una pensión vitalicia de acuerdo con el siguiente tabulador, en relación al porcentaje de su último sueldo de acuerdo a lo estipulado en la fracción III de este artículo.
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
-
-HOMBRE MUJER
-
-De 1 a 5 años 25% 25%
-
-De 5 años un día a 10 años 35% 35%
-
-De 10 años un día a 15 años 45% 45%
-
-De 15 años un día a 16 años 55% 55%
-
-De 16 años un día a 17 años 58% 58%
-
-De 17 años un día a 18 años 61% 61%
-
-De 18 años un día a 19 años 64% 64%
-
-De 19 años un día a 20 años 67% 67%
-
-De 20 años un día a 21 años 70% 70%
-
-De 21 años un día a 22 años 73% 73%
-
-De 22 años un día a 23 años 76% 76%
-
-De 23 años un día a 24 filos 79% 79%
-
-De 24 años un día a 25 años 82% 82%
-
-De 25 años un día a 26 años 85% 85%
-
-De 26 años un día a 27 años 88% 88%
-
-De 27 años un día a 28 años 91 % 91%
-
-De 28 años un día a 29 años 94% 100%
-
-De 29 años un día a 29 años 5 meses 97% 100%
-
-De 29 años 5 meses en adelante 100%
-
-V. Los beneficiarios del pensionado o trabajador que fallezca, tendrán derecho a percibir una pensión en los términos que la ley establece, de acuerdo con el tabulador señalado en este mismo artículo y según se trate de los casos siguientes:
-
-a) Para los beneficiarios de los pensionados el monto de la pensión se fijará en base a la pensión que percibía el titular a la fecha de su fallecimiento.
-
-b) El cónyuge y/o compañero civil supérstite tendrá derecho a disfrutar a la pensión de forma vitalicia perdiéndose este derecho al contraer matrimonio y/o pacto civil de solidaridad o entrar en estado de concubinato.
-
-El monto de las pensiones establecidas en esta fracción irá disminuyendo como se indica en la siguiente tabla:
-
-Primer Año 100%
-
-Segundo Año 90%
-
-Tercer Año 80%
-
-Cuarto Año 70%
-
-Quinto Año 60 %
-
-Del sexto en adelante 50%
-
-###### ARTÍCULO 71.
-
-Cada vez que los trabajadores reciban un aumento de sueldo, los pensionados y beneficiaros recibirán un incremento equivalente conforme a las categorías y proporcionalmente al porcentaje de la pensión dictaminada.
-
-###### ARTÍCULO 72.
-
-La administración, control, supervisión y disposición de las cuentas institucionales estará a cargo del titular de la Dirección de cada Cuenta Institucional.
-
-###### ARTÍCULO 73.
-
-La asesoría, administración y supervisión que el Instituto preste a las cuentas institucionales, generará un cargo que no deberá exceder del 1.5% de la nómina integrada del personal activo.
+#### Sección V. PRODUCTOS MINERALES
 
 ### Capítulo 25. Sal; azufre; tierras y piedras; yesos, cales y cementos
 
@@ -6060,225 +10874,25 @@ igual a 200 l. Kg Ex. Ex.
 
 2716.00.01 Energía eléctrica. KWH Ex. Ex.
 
-#### SECCIÓN TERCERA. CUENTAS INDIVIDUALES
+#### Sección VI. PRODUCTOS DE LAS INDUSTRIAS QUÍMICAS O DE LAS INDUSTRIAS CONEXAS
 
-###### ARTÍCULO 74.
+Notas.
 
-Es derecho de todo trabajador contar con una cuenta individual. La Dirección General de Pensiones establecerá a favor de los trabajadores agremiados a la Sección 38, sujetos a las prestaciones que consagra esta ley, una cuenta que sirve para individualizar y administrar las aportaciones obligatorias y voluntarias a que se refiere el artículo 75 de la misma, así como los rendimientos generados.
+1. A) Cualquier producto que responda al texto específico de una de las partidas 28.44 o 28.45, se clasifica en dicha partida y no en otra de la Nomenclatura, excepto los minerales de metales radiactivos.
 
-###### ARTÍCULO 75.
+B) Salvo lo dispuesto en el apartado A) anterior, cualquier producto que responda al texto específico de una de las partidas 28.43, 28.46 o 28.52, se clasifica en dicha partida y no en otra de esta Sección.
 
-Las cuentas individuales se integrarán con dos subcuentas:
+2. Sin perjuicio de las disposiciones de la Nota 1 anterior, cualquier producto que, por su presentación en forma de dosis o por su acondicionamiento para la venta al por menor, pueda incluirse en una de las partidas 30.04, 30.05, 30.06, 32.12, 33.03, 33.04, 33.05, 33.06, 33.07, 35.06, 37.07 o 38.08, se clasifica en dicha partida y no en otra de la Nomenclatura.
 
-I. Por las aportaciones obligatorias de las entidades y organismos y las cuotas obligatorias de los trabajadores para el financiamiento de la pensión de retiro por edad y antigüedad en el servicio, así como por recursos derivados de los fondos del propio instituto; y
+3. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
-II. Por las aportaciones voluntarias de los trabajadores, sin que implique aportación adicional de las entidades u organismos. Para estos efectos, el trabajador podrá realizar dichas aportaciones mediante la entrega de efectivo o documentos a la Dirección General de Pensiones dentro de las fechas que la misma determine.
+a) netamente identificables, por su acondicionamiento, como destinados a utilizarse juntos sin previo reacondicionamiento;
 
-###### ARTÍCULO 76.
+b) presentados simultáneamente;
 
-El monto de las pensiones se incrementará anualmente en la misma proporción en que aumente el salario mínimo general vigente en el Estado.
+c) identificables, por su naturaleza o por sus cantidades respectivas, como complementarios unos de otros.
 
-###### ARTÍCULO 77.
-
-Tienen derecho a recibir la pensión de retiro por edad y antigüedad aquellos trabajadores cuya edad y antigüedad acumulada en el servicio activo, sumen al menos 94 años.
-
-###### ARTÍCULO 78.
-
-El monto de la pensión de retiro por edad y antigüedad en el servicio será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 75 y su disposición estará sujeta a lo establecido en el artículo 89, de esta ley.
-
-Si el resultado del monto de la pensión a que se refiere el párrafo anteriores inferior al de la pensión garantizada que este artículo señala, la Dirección General de Pensiones complementará la diferencia que resulte, siempre que el aportante haya cumplido con los supuestos del artículo 77 y aportado durante treinta años o más a la Dirección General de Pensiones.
-
-Para efectos de comparación entre la pensión que resulte de la subcuenta de aportaciones obligatorias señalada en el primer párrafo de este artículo y la pensión garantizada, se procederá a elaborar el cálculo actuarial individual considerando la pensión vitalicia del trabajador y la de sus beneficiarios con todas sus prestaciones incluyendo la gratificación de fin de año, en los términos de esta ley.
-
-El monto de la pensión garantizada se calculará con base en el sueldo regulador.
-
-Para efectos de esta ley, se entenderá por sueldo regulador el sueldo base presupuestal promedio sobre el que hubiera aportado el servidor público a la Dirección General de Pensiones durante treinta años o más, previa actualización conforme al índice nacional de precios al consumidor a la fecha de solicitud de la pensión, tomando en consideración las prestaciones por las que se hubiera aportado.
-
-El sueldo regulador no podrá ser mayor que el último sueldo de cotización neto devengado por el trabajador.
-
-Para determinar el monto de la pensión garantizada, se deberá efectuar el cálculo que permita establecer la equivalencia del sueldo regulador en salarios mínimos, en base al salario mínimo general vigente en el Estado a la fecha de la solicitud.
-
-El sueldo regulador en los términos del párrafo anterior será ubicado dentro de los límites mínimo y máximo de la tabla contenida en este artículo, al excedente del límite inferior se le aplica el porcentaje indicado y el resultado se adiciona a la pensión base correspondiente obteniéndose así la pensión garantizada.
-
-NUMERO DE VECES DEL SALARIO MÍNIMO PORCENTAJE A
-
-GENERAL VIGENTE EN EL ESTADO APLICARSE SOBRE
-
-EL EXCEDENTE DEL
-
-LÍMITE INFERIOR
-
-LÍMITE LÍMITE PENSIÓN
-
-INFERIOR SUPERIOR BASE
-
-1 1.99 1 90%
-
-2 2.99 1.8 80%
-
-3 3.99 2.6 70%
-
-4 4.99 3.3 60%
-
-5 5.99 3.9 50%
-
-6 en adelante 4.4 40%
-
-###### ARTÍCULO 79.
-
-Los trabajadores que tengan cuando menos 63 años de edad y al menos 25 años de cotizar al sistema pensionario previsto en esta ley, tienen derecho a recibir la pensión por retiro anticipado.
-
-El monto de la pensión por retiro anticipado será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, considerando el saldo acumulado en la subcuenta de aportaciones obligatoria a que se refiere el artículo 75, estando sujeta su disposición a lo establecido por el artículo 89 de esta ley.
-
-La pensión a que se refiere el presente artículo es incompatible con las pensiones previstas en esta ley. El trabajador que solicite esta pensión, perderá automáticamente los derechos referentes a la pensión mínima garantizada prevista en el artículo 78 de esta ley.
-
-###### ARTÍCULO 80.
-
-El trabajador que se incapacite física o mentalmente tendrá derecho a recibir una pensión por invalidez.
-
-El derecho al pago de la pensión comenzará a partir de la fecha en que sea aprobada por la Dirección General de Pensiones, con base en el dictamen de invalidez del trabajador. El monto de la pensión será el resultado del cálculo actuarial individual que se efectúe a la fecha de la solicitud de pensión, tomando en consideración el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 75 de esta ley.
-
-Para efectos del cálculo a que se refiere el párrafo anterior deberá considerarse la pensión vitalicia del trabajador y la pensión de sus beneficiarios con todas sus prestaciones en los términos del artículo 89 de esta ley.
-
-Cuando el monto de la pensión a que se refieren los párrafos anteriores, resulte inferior al de la pensión obtenida como resultado de aplicar a la última percepción base de cotización los porcentajes señalados en la tabla contenida en este artículo, la Dirección General de Pensiones complementará la diferencia que resulte para efectos de otorgar la pensión de conformidad a la tabla de referencia. Para cumplir con lo anterior, la Dirección General de Pensiones procederá a transferir el saldo acumulado en la subcuenta de aportaciones obligatorias de la cuenta individual, al fondo global de la Dirección General de Pensiones a que se refiere el artículo 116 fracción I de esta ley.
-
-ANTIGÜEDAD EN EL SERVICIO PORCENTAJE DEL SUELDO
-
-HOMBRE MUJER
-
-De 1 a 5 años 25% 25%
-
-De 5 años un día a 10 años 35% 35%
-
-De 10 años un día a 15 años 45% 45%
-
-De 15 años un día a 16 años 55% 55%
-
-De 16 años un día a 17 años 58% 58%
-
-De 17 años un día a 18 años 61% 61%
-
-De 18 años un día a 19 años 64% 64%
-
-De 19 años un día a 20 años 67% 67%
-
-De 20 años un día a 21 años 70% 70%
-
-De 21 años un día a 22 años 73% 73%
-
-De 22 años un día a 23 años 76% 76%
-
-De 23 años un día a 24 años 79% 79%
-
-De 24 años un día a 25 años 82% 82%
-
-De 25 años un día a 26 años 85% 85%
-
-De 26 años un día a 27 años 88% 88%
-
-De 27 años un día a 28 años 91 % 91 %
-
-De 28 años un día a 29 años 94% 100 %
-
-De 29 años un día a 29 años 5 meses 97% 100%
-
-De 29 años 5 meses en adelante 100% 100%
-
-Cuando el trabajador tenga un saldo acumulado en la subcuenta de aportaciones obligatorias de su cuenta individual que sea mayor al necesario para otorgar la pensión resultante de la aplicación de la tabla anterior, éste podrá elegir alguna de las siguientes opciones:
-
-I. Retirar la suma excedente de su cuenta individual en una sola exhibición, o
-
-II. Aplicar el excedente para incrementar el monto de su pensión.
-
-###### ARTÍCULO 81.
-
-Los familiares del trabajador fallecido, en el orden que establece el artículo 49 de esta ley, tienen derecho a una pensión y su importe será el resultado del cálculo actuarial individual que se efectúe, tomando como base el saldo acumulado en la subcuenta de aportaciones obligatorias a que se refiere el artículo 75 de esta ley.
-
-###### ARTÍCULO 82.
-
-Cuando el monto de la pensión a que se refieren los artículos anteriores, resulte inferior al de la pensión obtenida como resultado de aplicar a la última percepción base de cotización la tabla de porcentajes contenida en el artículo 81 de esta ley, la Dirección General de Pensiones complementará la diferencia para otorgar la pensión a que, de conformidad a la tabla de referencia.
-
-El monto de las pensiones establecidas en esta fracción irá disminuyendo como se indica en la siguiente tabla:
-
-Primer Año 100%
-
-Segundo Año 90%
-
-Tercer Año 80%
-
-Cuarto Año 70%
-
-Quinto Año 60%
-
-Del sexto en adelante 50%
-
-En su caso, para otorgar la pensión de conformidad a la tabla de referencia, la Dirección General de Pensiones procederá a transferir el saldo acumulado en la subcuenta de aportaciones obligatorias de la cuenta individual, al fondo global de prestaciones económicas a que se refiere el artículo 116 fracción I de esta ley.
-
-###### ARTÍCULO 83.
-
-Cuando el trabajador tenga un saldo acumulado en la subcuenta de aportaciones obligatorias de su cuenta individual que sea mayor al necesario para otorgar la pensión a que se refiere este artículo, los familiares beneficiarios podrán optar por lo siguiente:
-
-I.- Retirar la suma excedente de su cuenta individual en una sola exhibición, o
-
-II. Aplicar el excedente para incrementar el monto de su pensión.
-
-###### ARTÍCULO 84.
-
-En caso de fallecimiento de un pensionado por edad y antigüedad en el servicio, por retiro anticipado o por invalidez, sus beneficiarios gozarán de una pensión igual a la que percibía el titular a la fecha de su fallecimiento, lo cual debe considerarse para efectos del cálculo actuarial a que se refieren los artículos 79 a 82 de esta ley.
-
-###### ARTÍCULO 85.
-
-En función de estudios actuariales y capacidad presupuestal del Instituto, podrán modificarse los beneficios a favor de los pensionados y sus beneficiarios.
-
-###### ARTÍCULO 86.
-
-Para el efecto de disfrutar de los beneficios que esta ley establece, la antigüedad del trabajador que cause alta a la Dirección General de Pensiones se computará únicamente a partir de la fecha en que inició el pago de sus cotizaciones o, en su caso, previa solicitud del trabajador que preste y haya prestado sus servicios en alguna o algunas de las entidades u organismos a que se refiere el artículo 2 de esta ley, la Dirección General de Pensiones podrá reconocer su antigüedad previo pago, en una sola exhibición, del capital constitutivo que garantice el cumplimiento de las prestaciones a que se hace o hará acreedor por el reconocimiento de la antigüedad.
-
-Una parte del capital constitutivo deberá depositarse en el fondo de la Dirección General de Pensiones y otra parte en la cuenta individual del trabajador.
-
-La parte del capital constitutivo que deberá depositarse en la subcuenta obligatoria de la cuenta individual, será equivalente al resultado de multiplicar los años de antigüedad a reconocer por la suma de porcentajes correspondientes establecidos en el artículo 116 fracción II y por la percepción anual del trabajador a la fecha de afiliación a la Dirección General de Pensiones.
-
-La parte del capital constitutivo que deberá depositarse en el fondo global será equivalente a la diferencia que exista entre el propio capital constitutivo y la parte a depositar en la cuenta individual a que se hace mención en el párrafo anterior.
-
-###### ARTÍCULO 87.
-
-Para efectos de esta ley se entenderá por capital constitutivo, el cálculo actuarial equivalente al valor presente de los pagos que por concepto de prestaciones y servicios sociales, se espera reciba el trabajador por parte del Instituto previo dictamen de procedencia de la Dirección General de Pensiones por el hecho de reconocerle la antigüedad.
-
-###### ARTÍCULO 88.
-
-Los trabajadores no deberán tener más de una cuenta individual en este régimen. Las cuentas individuales deberán contener, para su identificación, el registro federal de contribuyentes del trabajador u otro sistema de identificación oficial.
-
-###### ARTÍCULO 89.
-
-El trabajador que adquiera el derecho a disfrutar una pensión de retiro por edad y antigüedad en el servicio o cualquier otra prestación señalada en esta ley, previo cumplimiento de los requisitos establecidos para estos efectos, recibirá una renta vitalicia, que es el contrato por el cual, a cambio de recibir los recursos acumulados en la cuenta individual, se obliga a pagar periódicamente, de conformidad al cálculo actuarial, una pensión durante la vida del pensionado y/o para sus beneficiarios en la forma y términos á que se refiere esta ley.
-
-Previa solicitud del trabajador, el monto constitutivo de la subcuenta de aportaciones voluntarias se podrá retirar en una sola exhibición o bien aplicarlo para incrementar los importes de la renta vitalicia.
-
-###### ARTÍCULO 90.
-
-El trabajador que deje de prestar sus servicios en la entidad u organismo de su adscripción y hubiere causado baja en la Dirección General de Pensiones, tendrá derecho a:
-
-I. Continuar realizando aportaciones voluntarias a su cuenta individual, sin acumular antigüedad;
-
-II. Retirar de la subcuenta de aportaciones voluntarias, el importe acumulado;
-
-III. Solicitar que la totalidad de los fondos acumulados en su cuenta individual sean transferidos a una Administradora de Fondos para el Retiro, y
-
-IV. Retirar el importe total de los fondos acumulados en su cuenta individual cuando hubiere cumplido 65 años de edad o se invalide en un porcentaje superior al cincuenta por ciento o cause muerte; en este último supuesto la Dirección General de Pensiones entregará el saldo de su cuenta individual a sus beneficiarios en el orden que establece el artículo 49 de esta ley.
-
-Para efectos de comparación entré la pensión que resulte de la cuenta individual y la pensión mínima garantizada del trabajador que hubiere retirado el saldo total de su cuenta individual y posteriormente reingrese al servicio en cualesquiera de las entidades y organismos afiliados a la Dirección General de Pensiones, se deberá considerar exclusivamente la antigüedad de la cuenta individual a partir de la fecha de su reingreso.
-
-###### ARTÍCULO 91.
-
-El régimen financiero de las cuentas individuales, se sujetará a lo establecido en el artículo 116 de esta ley.
-
-###### ARTÍCULO 92.
-
-El fondo global de los trabajadores, deberá mantener registros contables independientes del fondo global que se constituyó con las cuotas y aportaciones de aquellos trabajadores que se afiliaron con posterioridad a la entrada en vigor de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila publicada el 19 de Noviembre de 1999 en el Periódico Oficial del Gobierno del Estado.
-
-Las disposiciones previstas en el artículo 52 de la presente ley, no serán aplicables a los trabajadores que hubiesen ingresado al sistema pensionario con anterioridad a la vigencia de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 19 de Noviembre de 1999 en el Periódico Oficial del Gobierno del Estado.
-
-En ningún caso las cuentas institucionales responderán de manera solidaria por los compromisos u obligaciones financieras y/o jurisdiccionales en que, por cualquier circunstancia incurran las demás.
+4. Cuando un producto responda a las especificaciones de una o más de las partidas de la Sección VI, por el hecho de que en ellas se mencione su nombre o función y también responda a las especificaciones de la partida 38.27, se clasifica en la partida cuyo texto mencione su nombre o función y no en la partida 38.27.
 
 ### Capítulo 28. Productos químicos inorgánicos; compuestos inorgánicos u orgánicos de metal precioso, de elementos radiactivos, de metales de las tierras raras o de isótopos
 
@@ -17196,17 +21810,19 @@ sustancias de las subpartidas 2903.41 a
 
 3827.90.99 Las demás. Kg Ex. Ex.
 
-#### SECCIÓN CUARTA. EXTINCIÓN DE LAS PENSIONES
+#### Sección VII. PLÁSTICO Y SUS MANUFACTURAS; CAUCHO Y SUS MANUFACTURAS
 
-###### ARTÍCULO 93.
+Notas.
 
-Para los beneficiarios, el derecho a disfrutar de la pensión se pierde:
+1. Los productos presentados en surtidos que consistan en varios componentes distintos comprendidos, en su totalidad o en parte, en esta Sección e identificables como destinados, después de mezclados, a constituir un producto de las Secciones VI o VII, se clasifican en la partida correspondiente a este último producto siempre que los componentes sean:
 
-I. En el caso de los hijos, al adquirir éstos la mayoría de edad, excepto los estudiantes hasta los 25 años de edad o a los discapacitados, y
+a) por su acondicionamiento, netamente identificables como destinados a utilizarse juntos sin previo reacondicionamiento;
 
-II. En los casos del cónyuge supérstite, del compañero civil supérstite, el concubino o del divorciado, al contraer matrimonio, celebrar pacto civil de solidaridad o entrar en estado de concubinato.
+b) presentados simultáneamente;
 
-La calidad de discapacitado se acreditará conforme a lo dispuesto por el segundo párrafo de la fracción primera del artículo 49.
+c) identificables, por su naturaleza o por sus cantidades respectivas, como complementarios unos de otros.
+
+2. El plástico, el caucho y las manufacturas de estas materias, con impresiones o ilustraciones que no tengan un carácter accesorio en relación con su utilización principal, corresponden al Capítulo 49, excepto los artículos de las partidas 39.18 o 39.19.
 
 ### Capítulo 39. Plástico y sus manufacturas
 
@@ -19632,15 +24248,9 @@ desperdicios; manufacturas de caucho endurecido.
 
 4017.00.99 Los demás. Kg Ex. Ex.
 
-#### SECCIÓN QUINTA. DE LA PRESCRIPCIÓN DE LAS PENSIONES
+#### Sección VIII
 
-###### ARTÍCULO 94.
-
-El derecho a la pensión es imprescriptible.
-
-Las pensiones caídas, las indemnizaciones y cualquier otra prestación en dinero a cargo del Instituto, prescribirán a su favor, si no se reclaman dentro de los dos años siguientes a la fecha en que hubieren sido exigibles.
-
-El derecho del pensionado y en su caso, de sus beneficiarios a recibir los recursos de la cuenta individual, prescribirá a favor del Instituto a los diez años a partir de la fecha en que sean exigibles.
+PIELES, CUEROS, PELETERÍA Y MANUFACTURAS DE ESTAS MATERIAS; ARTÍCULOS DE TALABARTERÍA O GUARNICIONERÍA; ARTÍCULOS DE VIAJE, BOLSOS DE MANO (CARTERAS) Y CONTINENTES SIMILARES; MANUFACTURAS DE TRIPA
 
 ### Capítulo 41. Pieles (excepto la peletería) y cueros
 
@@ -20466,45 +25076,7 @@ facticia o artificial.
 
 facticia o artificial. Kg 20 Ex.
 
-#### SECCIÓN SEXTA. SERVICIO DE PRESTACIONES POR RETIRO Y DEFUNCIÓN POR PARTE DEL INSTITUTO
-
-###### ARTÍCULO 95.
-
-El servicio del Instituto, por lo que respecta al rubro de prestaciones de retiro y defunción, serán aplicables de manera exclusiva a los trabajadores agremiados a la Sección 38 del SNTE y comprenderá los siguientes beneficios:
-
-I. Póliza del seguro del maestro;
-
-II. Pago por alcance de pensión;
-
-III. Pago a los beneficiarios del trabajador pensionado al momento en que éste último fallezca;
-
-IV. Póliza del fondo de defunción en caso de muerte natural;
-
-V. Póliza del fondo de defunción en caso de muerte accidental, y
-
-VI. Póliza del fondo de retiro al momento de pensionarse.
-
-###### ARTÍCULO 96.
-
-Los beneficios a que se hace referencia en el artículo anterior se otorgarán a los familiares de los trabajadores de la educación, en caso de fallecimiento o de invalidez total permanente de éstos para la prestación del servicio, aun y cuando esto ocurra antes de que el titular de la póliza de seguro cumpla quince años de servicio.
-
-###### ARTÍCULO 97.
-
-Las pólizas a que se refiere el presente sección no invalidan a los familiares de los trabajadores para percibir cualquier otra ayuda que por concepto de pensiones les otorgue ésta u otra institución.
-
-###### ARTÍCULO 98.
-
-Los parientes del pensionado que fallezca, recibirán el importe equivalente a 4 meses del sueldo que perciba un inspector de escuelas primarias en la categoría inicial de la zona económica 2, cantidad que será destinada a los gastos de funeral.
-
-###### ARTÍCULO 99.
-
-Para recibir la cantidad a que se refiere el artículo anterior, bastará que los solicitantes acrediten, ante la Dirección General de Pensiones, su parentesco con el pensionado fallecido, presenten el certificado de defunción correspondiente y la documentación que compruebe el haber hecho el pago de los gastos funerarios.
-
-Si no existieren parientes, la Dirección General de Pensiones se encargará del funeral.
-
-###### ARTÍCULO 100.
-
-No gozarán de los beneficios del seguro expuestos en esta Ley, los maestros que se separen definitivamente del servicio, salvo en el caso de que sean pensionados.
+#### Sección IX. MADERA, CARBÓN VEGETAL Y MANUFACTURAS DE MADERA; CORCHO Y SUS MANUFACTURAS; MANUFACTURAS DE ESPARTERÍA O CESTERÍA
 
 ### Capítulo 44. Madera, carbón vegetal y manufacturas de madera
 
@@ -21924,35 +26496,7 @@ o "lufa").
 
 4602.90.99 Los demás. Kg 15 Ex.
 
-#### SECCIÓN PRIMERA. ADMINISTRACIÓN Y FINANZAS
-
-###### ARTÍCULO 104.
-
-La Dirección General de Administración y Finanzas tiene por objeto proponer, establecer y ejecutar las políticas, normas, sistemas y procedimientos que regulen las actividades de administración y finanzas, incluyendo la organización, operación, aplicación y vigilancia de los recursos económicos del Instituto y demás organismos que por convenio se adhieran a los servicios que presta el Instituto que así lo requieran.
-
-###### ARTÍCULO 105.
-
-La Dirección General de Administración y Finanzas tendrá a su cargo:
-
-I. Una Dirección de Recursos Financieros de la que dependerá una Subdirección de Recursos Financieros;
-
-II. Una Dirección de Recursos Materiales de la que a su vez dependerán:
-
-a) Una Subdirección de Bienes y Adquisiciones;
-
-b) Una Subdirección de Servicios Generales, y
-
-c) Una Subdirección de Recursos Materiales;
-
-III. Una Dirección de Contabilidad de la que a su vez dependerán:
-
-a) Una Subdirección de Contabilidad de Pensiones;
-
-b) Una Subdirección de Contabilidad de Servicio Médico, y
-
-c) Una Subdirección de Contabilidad de la Seguridad Social para los agremiados a la Sección 38;
-
-IV. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
+#### Sección X. PASTA DE MADERA O DE LAS DEMÁS MATERIAS FIBROSAS CELULÓSICAS; PAPEL O CARTÓN PARA RECICLAR (DESPERDICIOS Y DESECHOS); PAPEL O CARTÓN Y SUS APLICACIONES
 
 ### Capítulo 47. Pasta de madera o de las demás materias fibrosas celulósicas; papel o cartón para reciclar (desperdicios y desechos)
 
@@ -23814,31 +28358,293 @@ educación especial o similares. Kg 5 Ex.
 
 4911.99.99 Los demás. Kg 15 Ex.
 
-#### SECCIÓN SEGUNDA. RECURSOS HUMANOS
+#### Sección XI. MATERIAS TEXTILES Y SUS MANUFACTURAS
 
-###### ARTÍCULO 106.
+Notas.
 
-La Dirección General de Recursos Humanos tiene por objeto proponer, establecer y ejecutar las políticas, normas, sistemas y procedimientos para la óptima administración de los recursos humanos del Instituto.
+1. Esta Sección no comprende:
 
-###### ARTÍCULO 107.
+a) los pelos y cerdas para cepillería (partida 05.02), la crin y los desperdicios de crin
 
-La Dirección de General de Recursos Humanos tendrá a su cargo:
+(partida 05.11);
 
-I. Una Dirección de Administración de Personal de la que a su vez dependerán:
+b) el cabello y sus manufacturas (partidas 05.01, 67.03 o 67.04); sin embargo, las telas filtrantes, tejidos gruesos y capachos, de cabello, de los tipos utilizados comúnmente en las prensas de aceite o en usos técnicos análogos, se clasifican en la partida 59.11;
 
-a) Una Subdirección de Personal, y
+c) los línteres de algodón y demás productos vegetales del Capítulo 14;
 
-b) Una Subdirección de Pagos y Nómina;
+d) el amianto (asbesto) de la partida 25.24 y los artículos de amianto y demás productos de las partidas 68.12 o 68.13;
 
-II. Una Dirección de Desarrollo Humano de la que a su vez dependerán:
+e) los artículos de las partidas 30.05 o 30.06; el hilo utilizado para limpieza de los espacios interdentales (hilo dental), en envases individuales acondicionados para la venta al por menor, de la partida 33.06;
 
-a) Una Subdirección de Desarrollo de Personal, y
+f) los textiles sensibilizados de las partidas 37.01 a 37.04;
 
-b) Una Subdirección de Evaluación;
+g) los monofilamentos cuya mayor dimensión de la sección transversal sea superior a 1 mm y las tiras y formas similares (por ejemplo, paja artificial) de anchura aparente superior a 5 mm, de plástico (Capítulo 39), así como las trenzas, tejidos y demás manufacturas de espartería o cestería de estos mismos artículos (Capítulo 46);
 
-III. Una Dirección de Servicios al Personal de la que a su vez dependerá una Subdirección de Prestaciones, y
+h) los tejidos, incluso de punto, fieltro y tela sin tejer, impregnados, recubiertos, revestidos o estratificados con plástico y los artículos de estos productos, del Capítulo 39;
 
-IV. Las demás unidades que el Consejo General considere necesarias para el adecuado funcionamiento del Instituto.
+ij) los tejidos, incluso de punto, fieltro y tela sin tejer, impregnados, recubiertos, revestidos o estratificados con caucho y los artículos de estos productos, del Capítulo 40;
+
+k) las pieles sin depilar (Capítulos 41 o 43) y los artículos de peletería natural o de peletería facticia o artificial de las partidas 43.03 o 43.04;
+
+l) los artículos de materia textil de las partidas 42.01 o 42.02;
+
+m) los productos y artículos del Capítulo 48 (por ejemplo, la guata de celulosa);
+
+n) el calzado y sus partes, polainas y artículos similares, del Capítulo 64;
+
+o) las redecillas para el cabello y los sombreros y demás tocados, y sus partes, del Capítulo 65;
+
+p) los productos del Capítulo 67;
+
+q) los productos textiles recubiertos de abrasivos (partida 68.05), así como las fibras de carbono y las manufacturas de estas fibras, de la partida 68.15;
+
+r) las fibras de vidrio, los artículos de fibras de vidrio y los bordados químicos o sin fondo visible con hilo bordador de fibras de vidrio (Capítulo 70);
+
+s) los artículos del Capítulo 94 (por ejemplo: muebles, artículos de cama, luminarias y aparatos de alumbrado);
+
+t) los artículos del Capítulo 95 (por ejemplo: juguetes, juegos, artefactos deportivos, redes para deportes);
+
+u) los artículos del Capítulo 96 (por ejemplo: cepillos y brochas, juegos o surtidos de viaje para costura, cierres de cremallera (cierres relámpago), cintas entintadas para máquinas de escribir, compresas y tampones higiénicos, pañales);
+
+v) los artículos del Capítulo 97.
+
+2. A) Los productos textiles de los Capítulos 50 a 55 o de las partidas 58.09 o 59.02 que contengan dos o más materias textiles se clasifican como si estuviesen totalmente constituidos por la materia textil que predomine en peso sobre cada una de las demás.
+
+Cuando ninguna materia textil predomine en peso, el producto se clasifica como si estuviese totalmente constituido por la materia textil que pertenezca a la última partida por orden de numeración entre las susceptibles de tenerse razonablemente en cuenta.
+
+B) Para la aplicación de esta regla:
+
+a) los hilados de crin entorchados (partida 51.10) y los hilados metálicos (partida 56.05) se consideran por su peso total como una sola materia textil; los hilos de metal se consideran materia textil para la clasificación de los tejidos a los que estén incorporados;
+
+b) la elección de la partida apropiada se hará determinando primero el Capítulo y luego, en este Capítulo, la partida aplicable, haciendo abstracción de cualquier materia textil que no pertenezca a dicho Capítulo;
+
+c) cuando los Capítulos 54 y 55 entren en juego con otro Capítulo, estos dos Capítulos se consideran como uno solo;
+
+d) cuando un Capítulo o una partida se refieran a varias materias textiles, dichas materias se consideran como una sola materia textil.
+
+C) Las disposiciones de los apartados A) y B) se aplican también a los hilados especificados en las Notas 3, 4, 5 o 6 siguientes.
+
+3. A) Sin perjuicio de las excepciones previstas en el apartado B) siguiente, en esta Sección se entiende por cordeles, cuerdas y cordajes, los hilados (sencillos, retorcidos o cableados):
+
+a) de seda o de desperdicios de seda, de título superior a 20.000 decitex;
+
+b) de fibras sintéticas o artificiales (incluidos los formados por dos o más monofilamentos del Capítulo 54), de título superior a 10.000 decitex;
+
+c) de cáñamo o lino:
+
+1°) pulidos o abrillantados, de título superior o igual a 1.429 decitex; o
+
+2°) sin pulir ni abrillantar, de título superior a 20.000 decitex;
+
+d) de coco, de tres o más cabos;
+
+e) de las demás fibras vegetales, de título superior a 20.000 decitex;
+
+f) reforzados con hilos de metal.
+
+B) Las disposiciones anteriores no se aplican:
+
+a) a los hilados de lana, pelo o crin ni a los hilados de papel, sin reforzar con hilos de metal;
+
+b) a los cables de filamentos sintéticos o artificiales del Capítulo 55 ni a los multifilamentos sin torsión o con una torsión inferior a 5 vueltas por metro del Capítulo 54;
+
+c) al pelo de Mesina de la partida 50.06 ni a los monofilamentos del Capítulo 54;
+
+d) a los hilados metálicos de la partida 56.05; los hilados textiles reforzados con hilos de metal se regirán por las disposiciones del apartado A) f) anterior;
+
+e) a los hilados de chenilla, a los entorchados ni a los “de cadeneta”, de la partida 56.06.
+
+4. A) Sin perjuicio de las excepciones previstas en el apartado B) siguiente, en los Capítulos 50, 51, 52, 54 y 55, se entiende por hilados acondicionados para la venta al por menor, los hilados (sencillos, retorcidos o cableados) presentados:
+
+a) en cartulinas, bobinas, tubos o soportes similares, con un peso inferior o igual (incluido el soporte) a:
+
+1°) 85 g para los hilados de seda, de desperdicios de seda o de filamentos sintéticos o artificiales; o
+
+2°) 125 g para los demás hilados;
+
+b) en bolas, ovillos, madejas o madejitas, con un peso inferior o igual a:
+
+1°) 85 g para los hilados de filamentos sintéticos o artificiales, de título inferior a 3.000 decitex, de seda o de desperdicios de seda; o
+
+2°) 125 g para los demás hilados de título inferior a 2.000 decitex; o
+
+3°) 500 g para los demás hilados;
+
+c) en madejas subdivididas en madejitas por medio de uno o varios hilos divisores que las hacen independientes unas de otras, con un peso uniforme por cada madejita inferior o igual a:
+
+1°) 85 g para los hilados de seda, de desperdicios de seda o de filamentos sintéticos o artificiales; o
+
+2°) 125 g para los demás hilados.
+
+B) Las disposiciones anteriores no se aplican:
+
+a) a los hilados sencillos de cualquier materia textil, excepto:
+
+1°) los hilados sencillos de lana o pelo fino, crudos; y
+
+2°) los hilados sencillos de lana o pelo fino, blanqueados, teñidos o estampados, de título superior a 5.000 decitex;
+
+b) a los hilados crudos, retorcidos o cableados:
+
+1°) de seda o de desperdicios de seda, cualquiera que sea su forma de presentación; o
+
+2°) de las demás materias textiles (excepto lana y pelo fino) que se presenten en madejas;
+
+c) a los hilados de seda o de desperdicios de seda, retorcidos o cableados, blanqueados, teñidos o estampados, de título inferior o igual a 133 decitex;
+
+d) a los hilados sencillos, retorcidos o cableados, de cualquier materia textil, que se presenten:
+
+1°) en madejas de devanado cruzado; o
+
+2°) con soporte u otro acondicionamiento que implique su utilización en la industria textil (por ejemplo: en tubos de máquinas para el retorcido, canillas, husos cónicos o conos, en madejas para máquinas de bordar).
+
+5. En las partidas 52.04, 54.01 y 55.08, se entiende por hilo de coser, el hilado retorcido o cableado que satisfaga todas las condiciones siguientes:
+
+a) que se presente en soportes (por ejemplo: carretes, tubos) de peso inferior o igual a 1.000 g, incluido el soporte;
+
+b) aprestado para su utilización como hilo de coser; y
+
+c) con torsión final “Z”.
+
+6. En esta Sección, se entiende por hilados de alta tenacidad, los hilados cuya tenacidad, expresada en cN/tex (centinewton por tex), sea superior a los límites siguientes:
+
+hilados sencillos de nailon o demás poliamidas o de poliésteres ........... 60 cN/tex
+
+hilados retorcidos o cableados de nailon o demás poliamidas o de poliésteres ... 53 cN/tex
+
+hilados sencillos, retorcidos o cableados de rayón viscosa.......... 27 cN/tex
+
+7. En esta Sección, se entiende por confeccionados:
+
+a) los artículos cortados en forma distinta de la cuadrada o rectangular;
+
+b) los artículos terminados directamente y listos para su uso o que puedan utilizarse después de haber sido separados por simple corte de los hilos sin entrelazar, sin costuras ni otra mano de obra complementaria, tales como algunos paños de cocina, toallas, manteles, pañuelos de cuello y mantas;
+
+c) los artículos cortados en las dimensiones requeridas en los que al menos uno de sus bordes haya sido termosellado, con el borde visiblemente adelgazado o comprimido y los demás bordes tratados según los procedimientos descritos en los demás apartados de esta Nota; sin embargo, no se considera confeccionada la materia textil en piezas cuyos bordes desprovistos de orillos hayan sido cortados en caliente o simplemente sobrehilados para evitar su deshilachado;
+
+d) los artículos cuyos bordes hayan sido dobladillados o ribeteados por cualquier sistema o sujetados por medio de flecos anudados obtenidos con hilos del propio artículo o con hilos aplicados; sin embargo, no se considera confeccionada la materia textil en pieza cuyos bordes desprovistos de orillos hayan sido simplemente sujetados;
+
+e) los artículos cortados en cualquier forma, que hayan sido objeto de un trabajo de entresacado de hilos;
+
+f) los artículos unidos por costura, pegado u otra forma (excepto las piezas de un mismo textil unidas por sus extremos para formar una pieza de mayor longitud, así como las piezas constituidas por dos o más textiles superpuestos en toda su superficie y unidas de esta forma, incluso con interposición de materia de relleno);
+
+g) los artículos de punto obtenidos con forma determinada, que se presenten en unidades o en pieza que comprenda varias unidades.
+
+8. A los efectos de los Capítulos 50 a 60:
+
+a) no se clasifican en los Capítulos 50 a 55 y 60 ni, salvo disposición en contrario, en los Capítulos 56 a 59, los artículos confeccionados tal como se definen en la Nota 7 anterior;
+
+b) no se clasifican en los Capítulos 50 a 55 y 60 los artículos de los Capítulos 56 a 59.
+
+9. Los productos constituidos por napas de hilados textiles paralelizados que se superponen en ángulo recto o agudo se asimilarán a los tejidos de los Capítulos 50 a 55. Estas napas se fijan entre sí en los puntos de cruce de sus hilados mediante un adhesivo o por termosoldado.
+
+10. Los productos elásticos constituidos por materia textil combinada con hilos de caucho se clasifican en esta Sección.
+
+11. En esta Sección, el término impregnado abarca también el adherizado.
+
+12. En esta Sección, el término poliamidas abarca también las aramidas.
+
+13. En esta Sección y, en su caso, en la Nomenclatura, se entiende por hilados de elastómeros, los hilados de filamentos (incluidos los monofilamentos) de materia textil sintética, excepto los hilados texturados, que puedan alargarse hasta tres veces su longitud primitiva sin romperse y que, después de alargarse hasta dos veces su longitud primitiva, adquieran, en menos de cinco minutos, una longitud inferior o igual a una vez y media su longitud primitiva.
+
+14. Salvo disposición en contrario, las prendas de vestir de materia textil que pertenezcan a partidas distintas se clasifican en sus partidas respectivas, incluso si se presentan en surtidos para la venta al por menor. A los efectos de esta Nota, se entiende por prendas de vestir de materia textil las prendas de las partidas 61.01 a 61.14 y de las partidas 62.01 a 62.11.
+
+15. Salvo lo dispuesto en la Nota 1 de la Sección XI, los textiles, prendas de vestir y demás artículos textiles, que incorporen componentes químicos, mecánicos o electrónicos para agregarles funcionalidad, ya sea incorporados como componentes integrados o en el interior de la fibra o tejido, se clasifican en sus respectivas partidas de la Sección XI, siempre que conserven el carácter esencial de artículos de esta Sección.
+
+Notas de subpartida.
+
+1. En esta Sección y, en su caso, en la Nomenclatura, se entiende por:
+
+a) Hilados crudos
+
+los hilados:
+
+1°) con el color natural de las fibras que los constituyan, sin blanquear, teñir (incluso en la masa) ni estampar; o
+
+2°) sin color bien determinado (hilados “grisáceos”) fabricados con hilachas.
+
+Estos hilados pueden tener un apresto sin colorear o un color fugaz (el color fugaz desaparece por simple lavado con jabón) y, en el caso de fibras sintéticas o artificiales, estar tratados en la masa con productos de mateado (por ejemplo, dióxido de titanio).
+
+b) Hilados blanqueados
+
+los hilados:
+
+1°) blanqueados o fabricados con fibras blanqueadas o, salvo disposición en contrario, teñidos de blanco (incluso en la masa) o con apresto blanco; o
+
+2°) constituidos por una mezcla de fibras crudas con fibras blanqueadas; o
+
+3°) retorcidos o cableados, constituidos por hilados crudos e hilados blanqueados.
+
+c) Hilados coloreados (teñidos o estampados)
+
+los hilados:
+
+1°) teñidos (incluso en la masa), excepto de blanco o un color fugaz, o bien estampados o fabricados con fibras teñidas o estampadas; o
+
+2°) constituidos por una mezcla de fibras teñidas de color diferente o por una mezcla de fibras crudas o blanqueadas con fibras coloreadas (hilados jaspeados o mezclados) o estampados a trechos con uno o varios colores, con aspecto de puntillado; o
+
+3°) en los que la mecha o “roving” de materia textil haya sido estampada; o
+
+4°) retorcidos o cableados, constituidos por hilados crudos o blanqueados e hilados coloreados.
+
+Las definiciones anteriores se aplican también, mutatis mutandis, a los monofilamentos y a las tiras o formas similares del Capítulo 54.
+
+d) Tejidos crudos
+
+los tejidos de hilados crudos sin blanquear, teñir ni estampar. Estos tejidos pueden tener un apresto sin color o un color fugaz.
+
+e) Tejidos blanqueados
+
+los tejidos:
+
+1°) blanqueados o, salvo disposición en contrario, teñidos de blanco o con apresto blanco, en pieza; o
+
+2°) constituidos por hilados blanqueados; o
+
+3°) constituidos por hilados crudos e hilados blanqueados.
+
+f) Tejidos teñidos
+
+los tejidos:
+
+1°) teñidos en pieza con un solo color uniforme, excepto el blanco (salvo disposición en contrario) o con apresto coloreado, excepto el blanco (salvo disposición en contrario); o
+
+2°) constituidos por hilados coloreados con un solo color uniforme.
+
+g) Tejidos con hilados de distintos colores
+
+los tejidos (excepto los tejidos estampados):
+
+1°) constituidos por hilados de colores distintos o por hilados de matiz diferente de un mismo color, distintos del color natural de las fibras constitutivas; o
+
+2°) constituidos por hilados crudos o blanqueados e hilados coloreados; o
+
+3°) constituidos por hilados jaspeados o mezclados.
+
+(En ningún caso se tendrán en cuenta los hilados que forman los orillos o las cabeceras de pieza.)
+
+h) Tejidos estampados
+
+los tejidos estampados en pieza, incluso si estuvieran constituidos por hilados de distintos colores.
+
+(Se asimilan a los tejidos estampados, los tejidos con dibujos obtenidos, por ejemplo: con pincel, brocha, pistola, calcomanías, flocado, por procedimiento “batik”.)
+
+La mercerización no influye en la clasificación de los hilados o tejidos definidos anteriormente.
+
+Las definiciones de los apartados d) a h) anteriores se aplican, mutatis mutandis, a los tejidos de punto.
+
+ij) Ligamento tafetán
+
+la estructura de tejido en la que cada hilo de trama pasa alternativamente por encima y por debajo de los hilos sucesivos de la urdimbre y cada hilo de la urdimbre pasa alternativamente por encima y por debajo de los hilos sucesivos de la trama.
+
+2. A) Los productos de los Capítulos 56 a 63 que contengan dos o más materias textiles se consideran constituidos totalmente por la materia textil que les correspondería de acuerdo con la Nota 2 de esta Sección para la clasificación de un producto de los Capítulos 50 a 55 o de la partida 58.09 obtenido con las mismas materias.
+
+B) Para la aplicación de esta regla:
+
+a) solo se tendrá en cuenta, en su caso, la parte que determine la clasificación según la Regla General Interpretativa 3;
+
+b) en los productos textiles constituidos por un fondo y una superficie con pelo o con bucles, no se tendrá en cuenta el tejido de fondo;
+
+c) solo se tendrá en cuenta el fondo en los bordados de la partida 58.10 y en las manufacturas de estas materias. Sin embargo, en los bordados químicos, aéreos o sin fondo visible y en las manufacturas de estas materias, la clasificación se realizará teniendo en cuenta solamente los hilos bordadores.
 
 ### Capítulo 50. Seda
 
@@ -25920,13 +30726,181 @@ similares. M² 10 Ex.
 
 5407.30.04 Productos citados en la Nota 9 de la
 
-#### SECCIÓN TERCERA. ASESORÍA TÉCNICA
+#### Sección XI. M² 10 Ex.. - Los demás tejidos con un contenido de filamentos
 
-###### ARTÍCULO 108.
+de nailon o demás poliamidas superior o igual al
 
-La Unidad de Asesoría Técnica tiene por objeto brindar asistencia mediante diagnóstico, interpretación u opinión para la resolución de las problemáticas que se presenten en el Instituto, a través de asesores con conocimiento en diferentes campos. Esta función podrá ser realizada por especialistas internos o externos a la institución.
+85% en peso:
 
-La estructura de la Unidad de Asesoría Técnica se establecerá en el Reglamento Interno del Instituto.
+5407.41 -- Crudos o blanqueados.
+
+5407.41.05 Crudos o blanqueados. M² 10 Ex.
+
+5407.42 -- Teñidos.
+
+5407.42.05 Teñidos. M² 10 Ex.
+
+5407.43 -- Con hilados de distintos colores.
+
+5407.43.04 Con hilados de distintos colores. M² 10 Ex.
+
+5407.44 -- Estampados.
+
+5407.44.01 Estampados. M² 10 Ex.
+
+- Los demás tejidos con un contenido de filamentos
+
+de poliéster texturados superior o igual al 85% en
+
+peso:
+
+5407.51 -- Crudos o blanqueados.
+
+5407.51.05 Crudos o blanqueados. M² 10 Ex.
+
+5407.52 -- Teñidos.
+
+5407.52.05 Teñidos. M² 10 Ex.
+
+5407.53 -- Con hilados de distintos colores.
+
+5407.53.04 Con hilados de distintos colores. M² 10 Ex.
+
+5407.54 -- Estampados.
+
+5407.54.05 Estampados. M² 10 Ex.
+
+- Los demás tejidos con un contenido de filamentos
+
+de poliéster superior o igual al 85% en peso:
+
+5407.61 -- Con un contenido de filamentos de poliéster sin
+
+texturar superior o igual al 85% en peso.
+
+5407.61.06 Con un contenido de filamentos de poliéster sin
+
+texturar superior o igual al 85%
+
+en peso. M² 10 Ex.
+
+5407.69 -- Los demás.
+
+5407.69.99 Los demás. M² 10 Ex.
+
+- Los demás tejidos con un contenido de filamentos
+
+sintéticos superior o igual al 85% en peso:
+
+5407.71 -- Crudos o blanqueados.
+
+5407.71.01 Crudos o blanqueados. M² 10 Ex.
+
+5407.72 -- Teñidos.
+
+5407.72.01 Teñidos. M² 10 Ex.
+
+5407.73 -- Con hilados de distintos colores.
+
+5407.73.04 Con hilados de distintos colores. M² 10 Ex.
+
+5407.74 -- Estampados.
+
+5407.74.01 Estampados. M² 10 Ex.
+
+- Los demás tejidos con un contenido de filamentos
+
+sintéticos inferior al 85% en peso, mezclados
+
+exclusiva o principalmente con algodón:
+
+5407.81 -- Crudos o blanqueados.
+
+5407.81.01 Crudos o blanqueados. M² 10 Ex.
+
+5407.82 -- Teñidos.
+
+5407.82.04 Teñidos. M² 10 Ex.
+
+5407.83 -- Con hilados de distintos colores.
+
+5407.83.01 Con hilados de distintos colores. M² 10 Ex.
+
+5407.84 -- Estampados.
+
+5407.84.01 Estampados. M² 10 Ex.
+
+- Los demás tejidos:
+
+5407.91 -- Crudos o blanqueados.
+
+5407.91.08 Crudos o blanqueados. M² 10 Ex.
+
+5407.92 -- Teñidos.
+
+5407.92.07 Teñidos. M² 10 Ex.
+
+5407.93 -- Con hilados de distintos colores.
+
+5407.93.08 Con hilados de distintos colores. M² 10 Ex.
+
+5407.94 -- Estampados.
+
+5407.94.08 Estampados. M² 10 Ex.
+
+54.08 Tejidos de hilados de filamentos artificiales,
+
+incluidos los fabricados con productos de la
+
+partida 54.05.
+
+5408.10 - Tejidos fabricados con hilados de alta tenacidad
+
+de rayón viscosa.
+
+5408.10.05 Tejidos fabricados con hilados de alta tenacidad
+
+de rayón viscosa. M² 10 Ex.
+
+- Los demás tejidos con un contenido de filamentos
+
+o de tiras o formas similares, artificiales, superior o
+
+igual al 85% en peso:
+
+5408.21 -- Crudos o blanqueados.
+
+5408.21.04 Crudos o blanqueados. M² 10 Ex.
+
+5408.22 -- Teñidos.
+
+5408.22.05 Teñidos. M² 10 Ex.
+
+5408.23 -- Con hilados de distintos colores.
+
+5408.23.06 Con hilados de distintos colores. M² 10 Ex.
+
+5408.24 -- Estampados.
+
+5408.24.02 Estampados. M² 10 Ex.
+
+- Los demás tejidos:
+
+5408.31 -- Crudos o blanqueados.
+
+5408.31.05 Crudos o blanqueados. M² 10 Ex.
+
+5408.32 -- Teñidos.
+
+5408.32.06 Teñidos. M² 10 Ex.
+
+5408.33 -- Con hilados de distintos colores.
+
+5408.33.05 Con hilados de distintos colores. M² 10 Ex.
+
+5408.34 -- Estampados.
+
+5408.34.04 Estampados. M² 10 Ex.
 
 ### Capítulo 55. Fibras sintéticas o artificiales discontinuas
 
@@ -30320,13 +35294,9 @@ inservibles.
 
 6310.90.99 Los demás. Kg 20 Ex.
 
-#### SECCIÓN CUARTA. ASUNTOS JURÍDICOS
+#### Sección XII
 
-###### ARTÍCULO 109.
-
-La Unidad de Asuntos Jurídicos tiene por objeto representar legalmente al Instituto; planear, organizar, normar, coordinar, supervisar y evaluar los servicios jurídicos del mismo, así como asesorar, proponer e intervenir en los asuntos de ley que atañan a la institución.
-
-La estructura de la Unidad de Asuntos Jurídicos se establecerá en el Reglamento Interno del Instituto.
+CALZADO, SOMBREROS Y DEMÁS TOCADOS, PARAGUAS, QUITASOLES, BASTONES, LÁTIGOS, FUSTAS, Y SUS PARTES; PLUMAS PREPARADAS Y ARTÍCULOS DE PLUMAS; FLORES ARTIFICIALES; MANUFACTURAS DE CABELLO
 
 ### Capítulo 64. Calzado, polainas y artículos análogos; partes de estos artículos
 
@@ -31088,13 +36058,7 @@ ni comprendidas en otra parte.
 
 6704.90.91 De las demás materias. Kg 15 Ex.
 
-#### SECCIÓN QUINTA. INFORMÁTICA
-
-###### ARTÍCULO 110.
-
-La Unidad de Informática tiene por objeto proponer, establecer y ejecutar las políticas, normas, sistemas y procedimientos en materia de informática para el Instituto.
-
-La estructura de la Unidad de Informática se establecerá en el Reglamento Interno del Instituto.
+#### Sección XIII. MANUFACTURAS DE PIEDRA, YESO FRAGUABLE, CEMENTO, AMIANTO (ASBESTO), MICA O MATERIAS ANÁLOGAS; PRODUCTOS CERÁMICOS; VIDRIO Y SUS MANUFACTURAS
 
 ### Capítulo 68. Manufacturas de piedra, yeso fraguable, cemento, amianto (asbesto), mica o materias análogas
 
@@ -32810,13 +37774,9 @@ sin recubrir. Kg 5 Ex.
 
 7020.00.91 Las demás manufacturas de vidrio. Kg Ex. Ex.
 
-#### SECCIÓN SEXTA. CONTROL INTERNO
+#### Sección XIV
 
-###### ARTÍCULO 111.
-
-La Unidad de Contraloría Interna tiene por objeto establecer, operar y mantener el control, vigilancia, verificación, fiscalización y evaluación de la gestión pública del Instituto; depende jerárquicamente y funcionalmente de la Secretaría de la Función Pública.
-
-La estructura de la Unidad de Contraloría Interna se establecerá en el Reglamento Interno del Instituto.
+PERLAS NATURALES (FINAS) O CULTIVADAS, PIEDRAS PRECIOSAS O SEMIPRECIOSAS, METALES PRECIOSOS, CHAPADOS DE METAL PRECIOSO (PLAQUÉ) Y MANUFACTURAS DE ESTAS MATERIAS; BISUTERÍA; MONEDAS
 
 ### Capítulo 71
 
@@ -33400,41 +38360,117 @@ oro. Pza Ex. Ex.
 
 7118.90.99 Las demás. Pza Ex. Ex.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### Sección XV. METALES COMUNES Y MANUFACTURAS DE ESTOS METALES
 
-###### ARTÍCULO 112.
+Notas.
 
-El patrimonio del Instituto estará conformado por dos apartados; el apartado A, que comprende las aportaciones efectuadas por las entidades e individuos previstos por el artículo siguiente y el apartado B, que se constituirá con los recursos que el Instituto obtenga como producto de las actividades propias de su objeto; para cada una de las fuentes de ingresos que componen los apartados A y B del patrimonio del Instituto, será constituida una cuenta bancaria independiente.
+1. Esta Sección no comprende:
 
-En ambos apartados el origen y el destino del patrimonio se sujetará a lo previsto anualmente por el Presupuesto Anual de Egresos e Ingresos del Instituto.
+a) los colores y tintas preparados a base de polvo o escamillas metálicos, así como las hojas para el marcado a fuego (partidas 32.07 a 32.10, 32.12, 32.13 o 32.15);
 
-###### ARTÍCULO 113.
+b) el ferrocerio y demás aleaciones pirofóricas (partida 36.06);
 
-Para efectos del presente Capítulo, son aportantes al Instituto:
+c) los cascos y demás tocados, y sus partes, metálicos, de las partidas 65.06 y 65.07;
 
-I. Gobierno del Estado de Coahuila de Zaragoza;
+d) las monturas de paraguas y demás artículos de la partida 66.03;
 
-II. La Sección 38;
+e) los productos del Capítulo 71 (por ejemplo: aleaciones de metal precioso, metal común chapado de metal precioso (plaqué), bisutería);
 
-III. El propio Instituto;
+f) los artículos de la Sección XVI (máquinas y aparatos; material eléctrico);
 
-IV. La U A de C, por lo que hace exclusivamente a pensiones y servicio médico y con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+g) las vías férreas ensambladas (partida 86.08) y demás artículos de la Sección XVII (vehículos, barcos, aeronaves);
 
-V. La UAAAN, por lo que hace exclusivamente a pensiones y servicio médico y con sujeción a lo dispuesto por el artículo 6 de esta Ley;
+h) los instrumentos y aparatos de la Sección XVIII, incluidos los muelles (resortes) de aparatos de relojería;
 
-VI. Todas aquellas instituciones de Seguridad Social que, en el futuro, formen parte de la Sección 38 del S.N.T.E.;
+ij) los perdigones (partida 93.06) y demás artículos de la Sección XIX (armas y municiones);
 
-VII. Aquellas entidades que celebren convenios para recibir, de manera total o parcial, los servicios que ofrece el Instituto;
+k) los artículos del Capítulo 94 (por ejemplo: muebles, somieres, luminarias y aparatos de alumbrado, letreros luminosos, construcciones prefabricadas);
 
-VIII. Los trabajadores, pensionados y beneficiarios de pensión de las entidades previstas por el artículo 2 de esta Ley;
+l) los artículos del Capítulo 95 (por ejemplo: juguetes, juegos, artefactos deportivos);
 
-IX. Los particulares que establezcan acuerdos para obtener algún beneficio o reciban algún servicio por parte del Instituto, y
+m) los cedazos de mano, botones, plumas, portaminas, plumillas, monopies, bípodes, trípodes y artículos similares y demás artículos del Capítulo 96 (manufacturas diversas);
 
-X. En su caso el Gobierno Federal.
+n) los artículos del Capítulo 97 (por ejemplo, objetos de arte).
 
-###### ARTICULO 114.
+2. En la Nomenclatura, se consideran partes y accesorios de uso general:
 
-El Instituto se considera de acreditada solvencia y no está obligado a constituir depósitos o fianzas legales.
+a) los artículos de las partidas 73.07, 73.12, 73.15, 73.17 o 73.18, así como los artículos similares de los demás metales comunes, distintos de los artículos especialmente diseñados para ser utilizados exclusivamente como implantes de uso médico, quirúrgico, odontológico o veterinario (partida 90.21);
+
+b) los muelles (resortes), ballestas y sus hojas, de metal común, excepto los muelles (resortes) de aparatos de relojería (partida 91.14);
+
+c) los artículos de las partidas 83.01, 83.02, 83.08 u 83.10, así como los marcos y espejos de metal común de la partida 83.06.
+
+En los Capítulos 73 a 76 y 78 a 82 (excepto la partida 73.15), la referencia a partes no alcanza a las partes y accesorios de uso general en el sentido antes indicado.
+
+Salvo lo dispuesto en el párrafo anterior y en la Nota 1 del Capítulo 83, las manufacturas de los Capítulos 82 u 83 están excluidas de los Capítulos 72 a 76 y 78 a 81.
+
+3. En la Nomenclatura, se entiende por metal(es) común(es): la fundición, hierro y acero, el cobre, níquel, aluminio, plomo, cinc, estaño, volframio (tungsteno), molibdeno, tantalio, magnesio, cobalto, bismuto, cadmio, titanio, circonio, antimonio, manganeso, berilio, cromo, germanio, vanadio, galio, hafnio (celtio), indio, niobio (colombio), renio y talio.
+
+4. En la Nomenclatura, se entiende por cermet un producto que consiste en una combinación heterogénea microscópica de un componente metálico y uno cerámico. Este término comprende también los metales duros (carburos metálicos sinterizados), que son carburos metálicos sinterizados con metal.
+
+5. Regla para la clasificación de las aleaciones (excepto las ferroaleaciones y las aleaciones madre de cobre definidas en los Capítulos 72 y 74):
+
+a) las aleaciones de metales comunes se clasifican con el metal que predomine en peso sobre cada uno de los demás;
+
+b) las aleaciones de metales comunes de esta Sección con elementos no comprendidos en la misma se clasifican como aleaciones de metales comunes de esta Sección cuando el peso total de estos metales sea superior o igual al de los demás elementos;
+
+c) las mezclas sinterizadas de polvos metálicos, las mezclas heterogéneas íntimas obtenidas por fusión (excepto el cermet) y los compuestos intermetálicos, siguen el régimen de las aleaciones.
+
+6. En la Nomenclatura, salvo disposición en contrario, cualquier referencia a un metal común alcanza también a las aleaciones clasificadas con ese metal por aplicación de la Nota 5.
+
+7. Regla para la clasificación de los artículos compuestos:
+
+Salvo disposición en contrario en un texto de partida, las manufacturas de metal común (incluidas las manufacturas de materiales mezclados, consideradas como tales conforme a las Reglas Generales Interpretativas), que comprendan dos o más metales comunes, se clasifican con las manufacturas del metal que predomine en peso sobre cada uno de los demás metales.
+
+Para la aplicación de esta regla se considera:
+
+a) la fundición, el hierro y el acero, como un solo metal;
+
+b) las aleaciones, como si estuvieran constituidas totalmente por el metal cuyo régimen sigan en virtud de la aplicación de la Nota 5;
+
+c) el cermet de la partida 81.13, como si constituyera un solo metal común.
+
+8. En esta Sección, se entiende por:
+
+a) Desperdicios y desechos
+
+1°) todos los desperdicios y desechos metálicos;
+
+2°) las manufacturas de metal definitivamente inservibles como tales a consecuencia de rotura, corte, desgaste u otra causa.
+
+b) Polvo
+
+el producto que pase por un tamiz con abertura de malla de 1 mm en proporción superior o igual al 90% en peso.
+
+9. En los Capítulos 74 a 76 y 78 a 81, se entiende por:
+
+a) Barras
+
+los productos laminados, extrudidos, estirados o forjados, sin enrollar, cuya sección transversal, maciza y constante en toda su longitud, tenga forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo (incluidos los círculos aplanados y los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos). Los productos de sección transversal cuadrada, rectangular, triangular o poligonal, pueden tener las aristas redondeadas en toda su longitud. El espesor de los productos de sección transversal rectangular (incluidos los de sección rectangular modificada) debe ser superior a la décima parte de la anchura. También se consideran barras, los productos de las mismas formas y dimensiones, moldeados, colados o sinterizados, que han recibido, después de su obtención, un trabajo superior a un desbarbado grosero, siempre que este trabajo no confiera a los productos el carácter de artículos o manufacturas comprendidos en otra parte.
+
+Sin embargo, las barras para alambrón (“wire-bars”) y los tochos, del Capítulo 74, apuntados o simplemente trabajados de otro modo en sus extremos, para facilitar su introducción en las máquinas para transformarlos, por ejemplo, en alambrón o en tubos, se consideran cobre en bruto de la partida 74.03. Esta disposición se aplica mutatis mutandis a los productos del Capítulo 81.
+
+b) Perfiles
+
+los productos laminados, extrudidos, estirados, forjados u obtenidos por conformado o plegado, enrollados o sin enrollar, de sección transversal constante en toda su longitud, que no cumplan las definiciones de barras, alambre, chapas, hojas, tiras o tubos. También se consideran perfiles, los productos de las mismas formas, moldeados, colados o sinterizados, que han recibido, después de su obtención, un trabajo superior a un desbarbado grosero, siempre que este trabajo no confiera a los productos el carácter de artículos o manufacturas comprendidos en otra parte.
+
+c) Alambre
+
+el producto laminado, extrudido o trefilado, enrollado, cuya sección transversal maciza y constante en toda su longitud, tenga forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo (incluidos los círculos aplanados y los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos). Los productos de sección transversal cuadrada, rectangular, triangular o poligonal, pueden tener las aristas redondeadas en toda su longitud. El espesor de los productos de sección transversal rectangular (incluidos los de sección rectangular modificada) debe ser superior a la décima parte de la anchura.
+
+d) Chapas, hojas y tiras
+
+los productos planos de espesor constante (excepto los productos en bruto), enrollados o sin enrollar, de sección transversal rectangular maciza, aunque tengan las aristas redondeadas (incluidos los rectángulos modificados, en los que dos lados opuestos tengan forma de arco convexo y los otros dos sean rectos, iguales y paralelos), que se presenten:
+
+- en forma cuadrada o rectangular, de espesor inferior o igual a la décima parte de la anchura,
+
+- en forma distinta de la cuadrada o rectangular, de cualquier dimensión, siempre que no tengan el carácter de artículos o manufacturas comprendidos en otra parte.
+
+En las partidas referentes a chapas, hojas y tiras, se clasifican en particular, las chapas, hojas y tiras, aunque presenten motivos (por ejemplo: acanaladuras, estrías, gofrados, lágrimas, botones, rombos), así como las perforadas, onduladas, pulidas o revestidas, siempre que estos trabajos no les confieran el carácter de artículos o manufacturas comprendidos en otra parte.
+
+e) Tubos
+
+los productos con un solo hueco cerrado, de sección transversal constante en toda su longitud, en forma de círculo, óvalo, cuadrado, rectángulo, triángulo equilátero o polígono regular convexo, enrollados o sin enrollar y cuyas paredes sean de espesor constante. También se consideran tubos, los productos de sección transversal en forma de cuadrado, rectángulo, triángulo equilátero o polígono regular convexo, que tengan las aristas redondeadas en toda su longitud, siempre que las secciones transversales interior y exterior tengan la misma forma, la misma disposición y el mismo centro. Los tubos que tengan las secciones transversales citadas anteriormente pueden estar pulidos, revestidos, curvados, roscados, taladrados, estrechados o abocardados, tener forma cónica o estar provistos de bridas, collarines o anillos.
 
 ### Capítulo 72. Fundición, hierro y acero
 
@@ -39354,397 +44390,69 @@ proyección. Kg Ex. Ex.
 
 8311.90.99 Los demás. Kg 5 Ex.
 
-#### SECCIÓN SEGUNDA. DEL APARTADO "A" DEL PATRIMONIO
+#### Sección XVI
 
-###### ARTÍCULO 115.
+MÁQUINAS Y APARATOS, MATERIAL ELÉCTRICO Y SUS PARTES; APARATOS DE GRABACIÓN O REPRODUCCIÓN DE SONIDO, APARATOS DE GRABACIÓN O REPRODUCCIÓN DE IMAGEN Y SONIDO EN TELEVISIÓN, Y LAS PARTES Y ACCESORIOS DE ESTOS APARATOS
 
-El apartado A del patrimonio del Instituto, se integrará de la siguiente forma:
+Notas.
 
-I. Con los recursos provenientes de las aportaciones mensuales del Gobierno del Estado, que para tal efecto convenga o haya convenido con la Sección 38;
+1. Esta Sección no comprende:
 
-II. Con los recursos provenientes de las aportaciones mensuales de la Sección 38;
+a) las correas transportadoras o de transmisión de plástico del Capítulo 39, o de caucho vulcanizado (partida 40.10) y demás artículos de los tipos utilizados en máquinas o aparatos mecánicos o eléctricos o para otros usos técnicos, de caucho vulcanizado sin endurecer (partida 40.16);
 
-III. Con los recursos provenientes de las aportaciones mensuales del propio Instituto;
+b) los artículos para usos técnicos de cuero natural o cuero regenerado (partida 42.05) o de peletería (partida 43.03);
 
-IV. Con los recursos provenientes de las aportaciones mensuales de la U A de C;
+c) las canillas, carretes, bobinas y soportes similares, de cualquier materia (por ejemplo: Capítulos 39, 40, 44 o 48 o Sección XV);
 
-V. Con los recursos provenientes de las aportaciones mensuales de la UAAAN;
+d) las tarjetas perforadas para mecanismos Jacquard o máquinas similares (por ejemplo: Capítulos 39 o 48 o Sección XV);
 
-VI. Con los recursos provenientes de las aportaciones mensuales de todas aquellas instituciones de seguridad social que, en el futuro, formen parte de la Sección 38;
+e) las correas transportadoras o de transmisión, de materia textil (partida 59.10), así como los artículos para usos técnicos de materia textil (partida 59.11);
 
-VII. Con los recursos provenientes de las aportaciones mensuales de aquellas entidades que celebren convenios para recibir, de manera total o parcial, los servicios que ofrece el Instituto;
+f) las piedras preciosas o semipreciosas (naturales, sintéticas o reconstituidas) de las partidas 71.02 a 71.04, así como las manufacturas constituidas totalmente por estas materias, de la partida 71.16, excepto, sin embargo, los zafiros y diamantes, trabajados, sin montar, para agujas de fonocaptores (partida 85.22);
 
-VIII. Con los recursos provenientes de las aportaciones mensuales de los trabajadores, pensionados y beneficiarios de pensión de las entidades previstas por el artículo 2 de esta Ley;
+g) las partes y accesorios de uso general, tal como se definen en la Nota 2 de la Sección XV, de metal común (Sección XV) y los artículos similares de plástico (Capítulo 39);
 
-IX. Con los recursos provenientes de las aportaciones mensuales de los particulares que establezcan acuerdos para obtener algún beneficio o reciban algún servicio por parte del Instituto, y
+h) los tubos de perforación (partida 73.04);
 
-X. Con los recursos que en su caso aporte el Gobierno Federal.
+ij) las telas y correas sin fin, de alambre o tiras metálicos (Sección XV);
 
-###### ARTÍCULO 116.
+k) los artículos de los Capítulos 82 u 83;
 
-Las aportaciones de las entidades, instituciones y organismos previstos por los incisos a), b) y c) de la fracción I del artículo 2 del presente ordenamiento al instituto exclusivamente para pensiones, se conformarán de la siguiente manera:
+l) los artículos de la Sección XVII;
 
-I. Destinado a la Cuenta Institucional:
+m) los artículos del Capítulo 90;
 
-a) El 20% de la nómina corriente de trabajadores inscritos en la cuenta institucional, sobre la base de los siguientes conceptos que les resulten aplicables:
+n) los artículos de relojería (Capítulo 91);
 
-1) 07; 7A - 7E Sueldos compactados Carrera Magisterial
+o) los útiles intercambiables de la partida 82.07 y los cepillos que constituyan partes de máquinas (partida 96.03); los útiles intercambiables similares que se clasifican según la materia constitutiva de la parte operante (por ejemplo: Capítulos 40, 42, 43, 45 o 59, o partidas 68.04 o 69.09);
 
-2) BC Sueldos Compactados Carrera Magisterial
+p) los artículos del Capítulo 95;
 
-3) AN; A1 - A5 Quinquenios Administrativos
+q) las cintas para máquina de escribir y cintas entintadas similares, incluso en carretes o cartuchos (clasificación según la materia constitutiva o en la partida 96.12 si están entintadas o preparadas de otro modo para imprimir), así como los monopies, bípodes, trípodes y artículos similares, de la partida 96.20.
 
-4) AX; AA - AZ primas de antigüedad administrativos homologados
+2. Salvo lo dispuesto en la Nota 1 de esta Sección y en la Nota 1 de los Capítulos 84 y 85, las partes de máquinas (excepto las partes de los artículos comprendidos en las partidas 84.84, 85.44, 85.45, 85.46 u 85.47) se clasifican de acuerdo con las siguientes reglas:
 
-5) CN; C0 - C5 Compensaciones Especiales
+a) las partes que consistan en artículos de cualquier partida de los Capítulos 84 u 85 (excepto las partidas 84.09, 84.31, 84.48, 84.66, 84.73, 84.87, 85.03, 85.22, 85.29, 85.38 y 85.48) se clasifican en dicha partida cualquiera que sea la máquina a la que estén destinadas;
 
-6) ES Estímulo Especial a Inspectores y Coordinadores de secundaria
+b) cuando sean identificables como destinadas, exclusiva o principalmente, a una determinada máquina o a varias máquinas de una misma partida (incluso de las partidas 84.79 u 85.43), las partes, excepto las citadas en el párrafo precedente, se clasifican en la partida correspondiente a esta o estas máquinas o, según los casos, en las partidas 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 u 85.38; sin embargo, las partes destinadas principalmente tanto a los artículos de la partida 85.17 como a los de las partidas 85.25 a 85.28 se clasifican en la partida 85.17, y las demás partes destinadas exclusiva o principalmente a los artículos de la partida 85.24 se clasifican en la partida 85.29;
 
-7) ET Eficiencia en el trabajo
+c) las demás partes se clasifican en las partidas 84.09, 84.31, 84.48, 84.66, 84.73, 85.03, 85.22, 85.29 u 85.38, según los casos, o, en su defecto, en las partidas 84.87 u 85.48.
 
-8) FC Fortalecimiento Curricular
+3. Salvo disposición en contrario, las combinaciones de máquinas de diferentes clases destinadas a funcionar conjuntamente y que formen un solo cuerpo, así como las máquinas diseñadas para realizar dos o más funciones diferentes, alternativas o complementarias, se clasifican según la función principal que caracterice al conjunto.
 
-9) Hn; H0 - H5 Compensación Especial Homologados
+4. Cuando una máquina o una combinación de máquinas estén constituidas por elementos individualizados (incluso separados o unidos entre sí por tuberías, órganos de transmisión, cables eléctricos o de otro modo) para realizar conjuntamente una función netamente definida, comprendida en una de las partidas de los Capítulos 84 u 85, el conjunto se clasifica en la partida correspondiente a la función que realice.
 
-10) 12 "Inspectores, Supervisores y Jefes de Enseñanza"
+5. Para la aplicación de las Notas que preceden, la denominación máquinas abarca a las máquinas, aparatos, dispositivos, artefactos y materiales diversos citados en las partidas de los Capítulos 84 u 85.
 
-11) P3 - P5 Estímulo a la Experiencia Profesional
+6. A) En la Nomenclatura, la expresión desperdicios y desechos eléctricos y electrónicos se refiere a los ensamblajes eléctricos y electrónicos, a tarjetas de circuitos impresos y a artículos eléctricos o electrónicos que:
 
-12) PX; PA - PZ Prima de Antigüedad Docente Homologados
+a) han resultado inutilizables para su función original por rotura, corte u otros procesos o porque sería económicamente inconveniente la reparación, reconstrucción o restauración para restablecer sus funciones originales;
 
-13) Qn; Q1 - Q5 Quinquenio Docente Básico
+b) son embalados o enviados de tal manera que los artículos no están protegidos, individualmente, de eventuales daños que pudieran ocurrir durante el transporte, carga o descarga.
 
-14) QX; QA - QZ Prima de Antigüedad Docente Homologados
+B) Los envíos que contengan una mezcla de desperdicios y desechos eléctricos y electrónicos y de otros desperdicios y desechos, deben clasificarse en la partida 85.49.
 
-15) Tn; T1 - T3 Titulación en la Docencia
-
-16) TS Compensación a Trabajadores Sociales
-
-b).- El 13% de la nómina corriente de los trabajadores inscritos en el régimen de cuentas individuales sobre la base de los siguientes conceptos que les sean aplicables:
-
-1) 07; 7A - 7E. Sueldos compactados Carrera Magisterial
-
-2) BC Sueldos Compactados Carrera Magisterial
-
-3) AN; A1 - A5 Quinquenios Administrativos
-
-4) AX; AA - AZ primas de antigüedad administrativos homologados
-
-5) CN; C0 - C5 Compensaciones Especiales
-
-6) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-7) Qn; Q1 - Q5 Quinquenio Docente Básico
-
-8) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-9) Tn; T1 - T3 Titulación en la Docencia
-
-10) TS Compensación a Trabajadores Sociales
-
-c).- El 2% del Sistema de Ahorro para el Retiro calculado sobre el salario base de los trabajadores inscritos en la cuenta institucional.
-
-II.- Destinado al régimen de cuentas individuales:
-
-a).- El 9% del salario individual de cada trabajador inscrito en el régimen de cuentas individuales y en beneficio de su propia cuenta sobre la base de los siguientes conceptos
-
-1) 07; 7A - 7E. Sueldos compactados Carrera Magisterial
-
-2) Be Sueldos Compactados Carrera Magisterial
-
-3) AN; A1 - A5 Quinquenios Administrativos
-
-4) AX; AA - AZ Primas de antigüedad administrativos homologados
-
-5) CN; C0 - C5 Compensaciones Especiales
-
-6) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-7) Qn; Q1 - Q5 Quinquenio Docente Básico
-
-8) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-###### ARTÍCULO 117.
-
-Las aportaciones de las entidades, instituciones y organismos previstos por los incisos a), b) y c) de la fracción I del artículo 2 del presente ordenamiento, a la cuenta para la seguridad social de los agremiados a la Sección 38, se conformarán:
-
-I. Con el 21.25% de la nómina corriente de trabajadores sobre la base de los siguientes conceptos que les sean aplicables:
-
-1) 07; 7A - 7E Sueldos compactados Carrera Magisterial
-
-2) BC Sueldos Compactados Carrera Magisterial
-
-3) AN; A1 - A5 Quinquenios Administrativos
-
-4) AX; AA - AZ primas de antigüedad administrativos homologados
-
-5) CN; C0 - C5 Compensaciones Especiales
-
-6) ES Estímulo Especial a Inspectores y Coordinadores de secundaria
-
-7) ET Eficiencia en el trabajo
-
-8) FC Fortalecimiento Curricular
-
-9) Hn; H0 - H5 Compensación Especial Homologados
-
-10) 12 "Inspectores, Supervisores y Jefes de Enseñanza"
-
-11) P3 - P5 Estímulo a la Experiencia Profesional
-
-12) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-13) Qn; Q1 - Q5 Quinquenio Docente Básico
-
-14) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-15) Tn; T1 - T3 Titulación en la Docencia
-
-16) TS Compensación a Trabajadores Sociales
-
-II. El 26.625% de la nómina total corriente del personal activo, el cual crecerá a razón de 4.0% anual desde el año 2011 y hasta el año 2016, para quedar en 50.625% y a partir del año 2017 y hasta el año 2018 esta aportación se incrementará en un 3% anual para ubicarse en 56.625%.
-
-Este Crecimiento descrito se señala en la siguiente tabla:
-
-Año Incre- Incre- Incre- Incre- Porcen-
-
-mento mento mento mento taje
-
-2.5% por .5% por de de 1% de
-
-año a año a 1% a por Nómina
-
-partir partir partir año a de
-
-del del de partir activos
-
-1o de 1o de marzo del del
-
-Enero enero de 1o de Fondo
-
-de cada de 2011 enero Solidario
-
-año cada de 2012
-
-hasta año a 2016
-
-2018
-
-2010 26.625%
-
-2011 2.50% 0.5% 1% 30.625%
-
-2012 2.50% 0.5% 1 34.625%
-
-2013 2.50% 0.5% 1 38.625%
-
-2014 2.50% 0.5% 1 42.625%
-
-2015 2.50% 0.5% 1 46.625%
-
-2016 2.50% 0.5% 1 50.625%
-
-2017 2.50% 0.5% 53.625%
-
-2018 2.50% 0.5% 56.625%
-
-###### ARTÍCULO 118.
-
-La cuenta institucional de la Sección 38 aportará al Instituto para cubrir el servicio médico de sus pensionados una cantidad equivalente al 13.25%, de la nómina de los mismos.
-
-###### ARTÍCULO 119.
-
-Las aportaciones de los trabajadores pertenecientes a las entidades, instituciones y organismos previstos por los incisos a), b) y c) de la fracción I del artículo 2 del presente ordenamiento, al Instituto exclusivamente para pensiones, se conformarán de la siguiente manera:
-
-I. Para la cuenta institucional el 6.5% de su sueldo de los conceptos que resulten aplicables.
-
-1) 07; 7A - 7E. Sueldos compactados Carrera Magisterial
-
-2) BC Sueldos Compactados Carrera Magisterial
-
-3) AN; A1 - A5 Quinquenios Administrativos
-
-4) AX; AA - AZ Primas de antigüedad administrativos homologados
-
-5) CN; C0 - C5 Compensaciones Especiales
-
-6) ES Estímulo Especial a Inspectores y Coordinadores de secundaria
-
-7) ET Eficiencia en el trabajo
-
-8) FC Fortalecimiento Curricular
-
-9) Hn; H0 - H5 Compensación Especial Homologados
-
-10) 12 Inspectores, Supervisores y Jefes de Enseñanza
-
-11) P3 - P5 Estimulo a la Experiencia Profesional
-
-12) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-13) Qn; Q1- Q5 Quinquenio Docente Básico
-
-14) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-15) Tn; T1 -T3 Titulación en la Docencia
-
-16) TS Compensación a Trabajadores Sociales
-
-II. Para Cuentas individuales el 6.5% del total de sus percepciones.
-
-###### ARTÍCULO 120.
-
-Las aportaciones de los trabajadores pertenecientes a las entidades, instituciones y organismos previstos por los incisos a), b) y c) de la fracción I del artículo 2 del presente ordenamiento, a la cuenta para la seguridad social de los agremiados a la Sección 38, se conformarán de la siguiente manera:
-
-I. El 4.5% de su sueldo mensual sobre los siguientes conceptos que resulten aplicables:
-
-1) 07; 7A - 7E. Sueldos compactados Carrera Magisterial
-
-2) BC Sueldos Compactados Carrera Magisterial
-
-3) AN; A1 - A5 Quinquenios Administrativos
-
-4) AX; AA - AZ primas de antigüedad administrativos homologados
-
-5) CN; C0 - C5 Compensaciones Especiales
-
-6) ES Estímulo Especial a Inspectores y Coordinadores de secundaria
-
-7) ET Eficiencia en el trabajo
-
-8) FC Fortalecimiento Curricular
-
-9) Hn; H0 - H5 Compensación Especial Homologados
-
-10) 12 Inspectores, Supervisores y Jefes de Enseñanza
-
-11) P3 - P5 Estímulo a la Experiencia Profesional
-
-12) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-13) Qn; Q1 - Q5 Quinquenio Docente Básico
-
-14) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-15) Tn; T1 - T3 Titulación en la Docencia
-
-16) TS Compensación a Trabajadores Sociales
-
-17) 7; 7A - 7E. Sueldos compactados Carrera Magisterial
-
-18) BC Sueldos Compactados Carrera Magisterial
-
-19) AN; A1 - A5 Quinquenios Administrativos
-
-20) AX; AA - AZ primas de antigüedad administrativos homologados
-
-21) CN; C0 - C5 Compensaciones Especiales
-
-22) ES Estímulo Especial a Inspectores y Coordinadores de secundaria
-
-23) ET Eficiencia en el trabajo
-
-24) FC Fortalecimiento Curricular
-
-25) Hn; H0 - H5 Compensación Especial Homologados
-
-26) 12 Inspectores, Supervisores y Jefes de Enseñanza
-
-27) P3 - P5 Estímulo a la Experiencia Profesional
-
-28) PX; PA - PZ Prima de Antigüedad Docente Homologados
-
-29) Qn; Q1 - Q5 Quinquenio Docente Básico
-
-30) QX; QA - QZ Prima de Antigüedad Docente Homologados
-
-31) Tn; T1 - T3 Titulación en la Docencia
-
-32) TS Compensación a Trabajadores Sociales
-
-III. El 6.5% del pago de las prestaciones vigentes que reciban los trabajadores.
-
-###### ARTÍCULO 121.
-
-Las aportaciones de los pensionados pertenecientes a las entidades, instituciones y organismos previstos por los incisos a), b) y c) de la fracción I del artículo 2 del presente ordenamiento serán destinadas:
-
-I.- A la cuenta del servicio médico:
-
-a). El 3% del monto de su pensión para cobertura de servicio médico,
-
-b). El 4% y 6.5% del monto de su pensión, que respectivamente aportan quienes se pensionaron antes del 30 de septiembre de 2004 y posteriormente a esa fecha. Este monto se aplicará para acceder a las condiciones previstas por la fracción IV del artículo 31 de esta Ley.
-
-II.- A la cuenta para la seguridad social de los agremiados a la Sección 38 el 0.5% del monto de su pensión.
-
-###### ARTÍCULO 122.
-
-Los recursos que constituyan la cuenta para la seguridad social de los agremiados a la Sección 38 podrán ser utilizados para complementar su cuenta institucional de pensiones y apoyar el servicio médico de manera prioritaria, pudiendo utilizarse el remanente para fortalecer el resto de las áreas que lo componen.
-
-###### ARTICULO 123.
-
-Las aportaciones por parte de la U A de C al Instituto, exclusivamente para pensiones, se conformarán de la siguiente manera: las aportaciones a su cuenta institucional se incrementarán anualmente, del 22% del sueldo base y prima de antigüedad que a partir de la segunda catorcena del mes de agosto de 2002 hasta el mes de agosto de 2003 aporto y hasta por diez años consecutivos contados a partir de esa última fecha, en forma acumulativa con un 0.5%, de manera que en el año 2012, la aportación de la Universidad sea por un total del 27%. Ese porcentaje se adicionará, en los casos que corresponda, con el 2% que representa la aportación que venía depositando a la cuenta concentradora para el retiro para conformar un total del 29%.
-
-###### ARTICULO 124.
-
-La U A de C aportará al Instituto para cubrir el servicio médico una cantidad equivalente al 13.25% del sueldo base y prima de antigüedad que consten en las nóminas de pago de sus trabajadores;
-
-###### ARTICULO 125.
-
-La cuenta institucional de la U A de e aportará al Instituto para cubrir el servicio médico de sus pensionados una cantidad equivalente al 13.25% de la nómina de los mismos.
-
-###### ARTÍCULO 126.
-
-Las aportaciones de los trabajadores de la U A de C al Instituto, exclusivamente para pensiones, se conformarán de la siguiente manera: se incrementarán anualmente del 6.5% del sueldo base y prima de antigüedad que a partir de la segunda catorcena del mes de agosto de 2002 y hasta el mes de agosto de 2003 fueron aportadas y hasta por diez años contados a partir de esa última fecha, en forma acumulativa con un 0.5% de manera que en el año de 2012, la aportación de los trabajadores sea por un total del 11.5%.
-
-###### ARTÍCULO 127.
-
-Los trabajadores de la U A de C, aportarán al Instituto para cubrir su servicio médico una cantidad equivalente al 3% del sueldo base y prima de antigüedad.
-
-###### ARTÍCULO 128.
-
-Los pensionados de la U A de C, aportarán al Instituto para cubrir el servicio médico una cantidad equivalente al 3% del monto de su pensión.
-
-###### ARTÍCULO 129.
-
-Los pensionados de la U A de C que se ajusten a lo dispuesto por el inciso b) de la fracción I del artículo 121, podrán acceder a las condiciones previstas por la fracción IV del artículo 31.
-
-###### ARTÍCULO 130.
-
-Las aportaciones por parte de la UAAAN al Instituto exclusivamente para pensiones, se conformarán de la siguiente manera:
-
-I.- El 20% sobre el sueldo base de sus trabajadores inscritos en la Dirección General de Pensiones;
-
-II.- A partir de la segunda catorcena de agosto de 2011 el 1% del sueldo base anual adicional al 20% que se señala en la fracción anterior, para llegar a 25% en 2015.
-
-III.- Aportaciones adicionales con base en convenios anuales con sus trabajadores.
-
-###### ARTÍCULO 131.
-
-La UAAAN, aportará al Instituto para cubrir el servicio médico una cantidad equivalente al 13.25% del sueldo base y prima de antigüedad que consten en las nóminas de pago de sus trabajadores;
-
-###### ARTÍCULO 132.
-
-La cuenta institucional de la UAAAN aportará al Instituto para cubrir el servicio médico de sus pensionados una cantidad equivalente al 13.25% de la nomina de los mismos.
-
-###### ARTÍCULO 133.
-
-Los trabajadores de la UAAAN aportarán al Instituto para uso exclusivo de su cuenta institucional de pensiones el 11 % de su sueldo base.
-
-###### ARTÍCULO 134.
-
-Los trabajadores de la UAAAN, aportarán al Instituto para cubrir el servicio médico una cantidad equivalente al 3% del sueldo base y prima de antigüedad.
-
-###### ARTÍCULO 135.
-
-Los pensionados de la UAAAN, aportarán al Instituto para cubrir el servicio médico una cantidad equivalente al 3% del monto de su pensión.
-
-###### ARTÍCULO 136.
-
-Los pensionados de la UAAAN que se ajusten a lo dispuesto por el inciso b) de la fracción I del artículo 121 podrán acceder a las condiciones previstas por la fracción IV del artículo 31.
-
-###### ARTÍCULO 137.
-
-El beneficiario de un pensionado fallecido deberá cubrir el 16.25% del monto de su pensión para continuar recibiendo servicio médico que ofrece el Instituto. Para acceder a los beneficios de la fracción IV del artículo 31, el referido beneficiario deberá ajustarse a lo dispuesto por el artículo 121.
+C) Esta Sección no comprende los desechos municipales, tal como se definen en la Nota 4 del Capítulo 38.
 
 ### Capítulo 84. Reactores nucleares, calderas, máquinas, aparatos y artefactos mecánicos; partes de estas máquinas o aparatos
 
@@ -49788,31 +54496,59 @@ policlorados (PCB). Kg 15 Ex.
 
 8549.99.99 Los demás. Kg 15 Ex.
 
-#### SECCIÓN TERCERA. DEL APARTADO "B" DEL PATRIMONIO
+#### Sección XVII. MATERIAL DE TRANSPORTE
 
-###### ARTÍCULO 138.
+Notas.
 
-El apartado B del patrimonio del Instituto, se integrará de la siguiente forma:
+1. Esta Sección no comprende los artículos de las partidas 95.03 o 95.08 ni los toboganes, "bobsleighs" y similares (partida 95.06).
 
-I. Los bienes muebles e inmuebles, útiles y enseres que adquiera por cualquier medio legal, para el cumplimiento de sus fines o los que adquiera en el futuro por cualquier título legal;
+2. No se consideran partes o accesorios de material de transporte, aunque sean identificables como tales:
 
-II. Los rendimientos, frutos, productos, contraprestaciones, cuotas, derechos y aprovechamientos que se obtengan como resultado de la operación, prestación de servicios, renta de inmuebles y/o venta de productos generados por las distintas Direcciones Generales del Instituto, o que le correspondan por cualquier título legal;
+a) las juntas o empaquetaduras, arandelas y similares, de cualquier materia (régimen de la materia constitutiva o partida 84.84), así como los demás artículos de caucho vulcanizado sin endurecer (partida 40.16);
 
-III. Las donaciones, herencias o legados que se realicen o transmitan en su favor;
+b) las partes y accesorios de uso general, tal como se definen en la Nota 2 de la Sección XV, de metal común (Sección XV), ni los artículos similares de plástico (Capítulo 39);
 
-IV. El monto total de los intereses derivados de los créditos que otorgue;
+c) los artículos del Capítulo 82 (herramientas);
 
-V. Las aportaciones correspondientes a fondos financieros no regularizables de origen federal o estatal, para ser aplicadas con apego a las reglas de operación o cualquier otra normatividad prevista por tales figuras de financiamiento, apoyo o reconocimiento;
+d) los artículos de la partida 83.06;
 
-VI. El importe de los créditos e intereses que prescriban a favor del Instituto;
+e) las máquinas y aparatos de las partidas 84.01 a 84.79, así como sus partes, excepto los radiadores para los vehículos de la Sección XVII; los artículos de las partidas 84.81 u 84.82 y, siempre que constituyan partes intrínsecas de motor, los artículos de la partida 84.83;
 
-VII. Los ingresos propios del Instituto, y
+f) las máquinas y aparatos eléctricos, así como el material eléctrico (Capítulo 85);
 
-VIII. Los demás que se establezcan en la presente Ley.
+g) los instrumentos y aparatos del Capítulo 90;
 
-###### ARTÍCULO 139.
+h) los artículos del Capítulo 91;
 
-El Instituto podrá celebrar convenios con la Sección 38 en virtud de los cuales le ofrezca, con las condiciones que se establezcan en los referidos instrumentos jurídicos, los bienes y servicios, así como los recursos humanos necesarios para brindar asesoría y apoyo técnico, pedagógico y operativo, para beneficio de los agremiados a la organización sindical de referencia y actividades propias del Sindicato.
+ij) las armas (Capítulo 93);
+
+k) las luminarias y los aparatos de alumbrado, y sus partes, de la partida 94.05;
+
+l) los cepillos que constituyan partes de vehículos (partida 96.03).
+
+3. En los Capítulos 86 a 88, la referencia a las partes o a los accesorios no abarca a las partes o accesorios que no estén destinados, exclusiva o principalmente, a los vehículos o artículos de esta Sección. Cuando una parte o un accesorio sea susceptible de responder a las especificaciones de dos o más partidas de la Sección, se clasifica en la partida que corresponda a su utilización principal.
+
+4. En esta Sección:
+
+a) los vehículos especialmente diseñados para ser utilizados en carretera y sobre carriles (rieles), se clasifican en la partida apropiada del Capítulo 87;
+
+b) los vehículos automóviles anfibios se clasifican en la partida apropiada del Capítulo 87;
+
+c) las aeronaves especialmente diseñadas para ser utilizadas también como vehículos terrestres, se clasifican en la partida apropiada del Capítulo 88.
+
+5. Los vehículos de cojín (colchón) de aire se clasifican con los vehículos con los que guarden mayor
+
+analogía:
+
+a) del Capítulo 86, si están diseñados para desplazarse sobre una vía guía (aerotrenes);
+
+b) del Capítulo 87, si están diseñados para desplazarse sobre tierra firme o indistintamente sobre tierra firme o sobre agua;
+
+c) del Capítulo 89, si están diseñados para desplazarse sobre agua, incluso si pueden posarse en playas o embarcaderos o desplazarse también sobre superficies heladas.
+
+Las partes y accesorios de vehículos de cojín (colchón) de aire se clasifican igual que las partes y accesorios de los vehículos de la partida en que éstos se hubieran clasificado por aplicación de las disposiciones anteriores.
+
+El material fijo para vías de aerotrenes se considera material fijo de vías férreas, y los aparatos de señalización, seguridad, control o mando para vías de aerotrenes como aparatos de señalización, seguridad, control o mando para vías férreas.
 
 ### Capítulo 86. Vehículos y material para vías férreas o similares, y sus partes; aparatos mecánicos (incluso electromecánicos) de señalización para vías de comunicación
 
@@ -52464,15 +57200,9 @@ desguace.
 
 desguace. Pza Ex. Ex.
 
-#### SECCIÓN CUARTA. DISPOSICIONES COMPLEMENTARIAS
+#### Sección XVIII
 
-###### ARTÍCULO 140.
-
-La proyección de ingresos así como el presupuesto de egresos que cada año se someterán a la aprobación del Consejo General, deberá incluir un desglose de las partidas que comprende dicho presupuesto de egresos, así como la fuente de ingresos que se afectará para su liquidación.
-
-###### ARTÍCULO 141.
-
-En caso de que un desastre natural genere pérdidas humanas o materiales para los derechohabientes del Instituto comprendidos en los incisos a) , b) y c) de la fracción I del artículo 2 de la presente Ley, el Consejo General, previo análisis de los Consejos Directivos competentes, podrá autorizar la aplicación de recursos de la cuenta para la seguridad social de los agremiados a la Sección 38, para atender, en función de su capacidad presupuestaria, los requerimientos de sus derechohabientes para esos fines.
+INSTRUMENTOS Y APARATOS DE ÓPTICA, FOTOGRAFÍA O CINEMATOGRAFÍA, DE MEDIDA, CONTROL O PRECISIÓN; INSTRUMENTOS Y APARATOS MEDICOQUIRÚRGICOS; APARATOS DE RELOJERÍA; INSTRUMENTOS MUSICALES; PARTES Y ACCESORIOS DE ESTOS INSTRUMENTOS O APARATOS
 
 ### Capítulo 90
 
@@ -58473,3 +63203,23 @@ Séptimo. Las menciones contenidas en otras leyes, reglamentos, decretos, acuerd
 Ciudad de México, a 27 de abril de 2022.- Sen. Olga Sánchez Cordero Dávila, Presidenta.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. María Macarena Chávez Flores, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 2 de junio de 2022.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES
+
+> <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN]</small>
+
+CRONOLOGÍA DE LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES
+
+> <small>[N. DE E. A CONTINUACIÓN SE LISTAN DE MODO CRONOLÓGICO Y ANEXAN LOS DECRETOS DE ACTUALIZACIONES A LOS ARANCELES DE LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 18 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN A LAS MERCANCÍAS QUE SE INDICAN”.]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 18 DE NOVIEMBRE DE 2022.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, EL DECRETO PARA EL APOYO DE LA COMPETITIVIDAD DE LA INDUSTRIA AUTOMOTRIZ TERMINAL Y EL IMPULSO AL DESARROLLO DEL MERCADO INTERNO DE AUTOMÓVILES, EL DECRETO PARA EL FOMENTO DE LA INDUSTRIA MANUFACTURERA, MAQUILADORA Y DE SERVICIOS DE EXPORTACIÓN, EL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, EL DECRETO DE LA ZONA LIBRE DE CHETUMAL, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL, EL DECRETO POR EL QUE SE REGULA LA IMPORTACIÓN DEFINITIVA DE VEHÍCULOS USADOS Y LOS DIVERSOS POR LOS QUE SE ESTABLECEN ARANCELES-CUPO”.]</small>
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 6 DE ENERO DE 2023.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE EXENTA EL PAGO DE ARANCEL DE IMPORTACIÓN Y SE OTORGAN FACILIDADES ADMINISTRATIVAS A DIVERSAS MERCANCÍAS DE LA CANASTA BÁSICA Y DE CONSUMO BÁSICO DE LAS FAMILIAS”.]</small>
