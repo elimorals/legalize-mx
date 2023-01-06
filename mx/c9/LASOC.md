@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2022-05-11"
+last_updated: "2023-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -102,7 +102,9 @@ l) Ser víctimas de conflictos armados y de persecución étnica o religiosa, y
 
 m) Ser huérfanos.
 
-Para los efectos de esta Ley son niñas y niños las personas hasta 12 años incompletos, y adolescentes los que tienen entre 12 años cumplidos y 18 años incumplidos, tal como lo establece el Artículo 2 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2023)</small>
+
+Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el artículo 5 de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 II. Las mujeres:
 
@@ -432,7 +434,9 @@ a) Vigilar el estricto cumplimiento de la presente Ley;
 
 b) Elaborar un Programa Nacional de Asistencia Social conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Nacional de Desarrollo, y demás instrumentos de planeación de la Administración Pública Federal;
 
-c) Con fundamento en lo establecido en los artículos 1o., 4o., 7o. y 8o. de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes, y atendiendo al interés superior de la infancia, El Organismo tendrá como responsabilidad coadyuvar en el cumplimiento de esa Ley;
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2023)</small>
+
+c) Con fundamento en lo establecido en la Ley General de los Derechos de Niñas, Niños y Adolescentes, el organismo coadyuvará a atender y garantizar el interés superior de la niñez;
 
 d) Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, indigentes, indígenas migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
 
@@ -889,3 +893,9 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94, y 115; de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros, se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
 
 Tercero. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, está también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
+
+D.O.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 Y 28 DE LA LEY DE ASISTENCIA SOCIAL”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
