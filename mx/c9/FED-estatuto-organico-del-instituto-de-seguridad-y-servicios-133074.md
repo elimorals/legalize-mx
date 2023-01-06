@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-133074
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-02-01"
-last_updated: "2019-02-01"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133074&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-01-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, PUBLICADO EN EL D.O.F. DE 6 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial de la Federación, el viernes 1 de febrero de 2019.
 
@@ -1764,3 +1766,29 @@ SÉPTIMO. Los derechos de los trabajadores serán respetados conforme a la ley.
 OCTAVO. El Instituto, por conducto de la Dirección Normativa de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas atribuciones establecidas para éstas.
 
 Atentamente Ciudad de México, a 14 de enero de 2019.- La Prosecretaria de la Junta Directiva de conformidad con el artículo 19 del Estatuto Orgánico del Instituto, Andrea Nava Fernández del Campo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 3.02.E.2022 DE LA JUNTA DIRECTIVA POR EL QUE SE APRUEBA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+PRIMERO. Este Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, publicado en el Diario Oficial de la Federación el 01 de febrero de 2019, con sus modificaciones.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan en lo dispuesto en el presente Estatuto.
+
+CUARTO. El presente Estatuto será inscrito en el Registro Público de Organismos Descentralizados de acuerdo con lo señalado en el artículo 25 (sic) la Ley Federal de las Entidades Paraestatales hasta que dicho Registro entre en facultades.
+
+QUINTO. Los asuntos pendientes o en trámite al entrar en vigor este Estatuto, que conforme al mismo deban pasar de una unidad a otra u otras, continuarán su trámite y serán resueltos conforme a las normas vigentes al momento de su inicio, por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento.
+
+SEXTO. Las Unidades Administrativas siguientes cambiaron de denominación: de Dirección Normativa de Salud a Dirección Médica; de Dirección Normativa de Prestaciones Económicas, Sociales y Culturales a Dirección de Prestaciones Económicas, Sociales y Culturales; de Dirección Normativa de Inversiones y Recaudación a Dirección de Incorporación, Recaudación e Inversiones; de Dirección Normativa de Prospectiva y Planeación Institucional a Dirección Estratégica de Información, Supervisión y Evaluación; de Dirección Normativa de Supervisión y Calidad a Dirección de Oficinas de Representación; de Dirección Normativa de Procedimientos Legales a Dirección Jurídica, y; de Dirección Normativa de Administración y Finanzas a Dirección de Administración y Finanzas; así como, de Prosecretaría de la Junta Directiva a Secretaría de la Junta Directiva.
+
+SÉPTIMO. Las modificaciones a la estructura orgánica de las unidades del Instituto que se deriven de la entrada en vigor del presente Decreto se realizarán conforme a las disposiciones emitidas por la Secretaría de la Función Pública, y demás instancias que correspondan.
+
+OCTAVO. Los derechos de los trabajadores serán respetados conforme a la ley.
+
+NOVENO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, coordinará con las unidades, las acciones relativas a los recursos humanos, financieros, tecnológicos y materiales, estrictamente para el desempeño de las nuevas facultades establecidas para éstas.
+
+DÉCIMO. El Instituto, por conducto de la Dirección de Administración y Finanzas, dentro de los primeros 90 días naturales contados a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, deberá llevar a cabo las actualizaciones en materia programática y presupuestaria que se requieran para la adscripción de las Oficinas de Representación Estatal y Unidades Médicas.
