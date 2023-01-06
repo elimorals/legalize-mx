@@ -4,7 +4,7 @@ identifier: "FED-condiciones-generales-de-trabajo-de-la-suprema-corte-de-138428"
 country: "mx"
 rank: "otro"
 publication_date: "2019-08-26"
-last_updated: "2019-08-26"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138428&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-08-26"
 ---
 # CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, AUTORIZADAS EL 12 DE DICIEMBRE DE 2022 Y PUBLICADAS EN EL S.J.F. Y G. 6 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 6 DE ENERO DE 2023 (ABROGADO POR LAS CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN AUTORIZADAS EL 12 DE DICIEMBRE DE 2022).
 
 Condiciones Generales de Trabajo publicadas en la Sec. 1ª SCJN de la Gaceta del Semanario Judicial de la Federación, en septiembre de 2019.
 
@@ -826,3 +828,17 @@ Oficial Mayor de la Suprema Corte de Justicia de la Nación
 Doctor Diego Gutiérrez Morales
 
 Nota: El Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación; el Acuerdo General de Administración Número I/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa; la fe de erratas al Acuerdo General de Administración Número I/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de veintiocho de enero de dos mil diecinueve, por el que se modifica orgánica y funcionalmente su estructura administrativa y el Acuerdo General de Administración VI/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de once de julio de 2019, por el que se establecen las normas relativas a las plazas, ingresos, nombramientos, licencias, comisiones, readscripciones, suspensión y terminación del nombramiento de los servidores públicos y que regula la administración de los recursos humanos de este Alto Tribunal, salvo los de sus Salas citados, aparecen publicados en la Gaceta del Semanario Judicial de la Federación, Décima Época, Libros 18, Tomo III, mayo de 2015, página 2432; 62, Tomo IV, enero de 2019, página 2771; 63, Tomo II, febrero de 2019, página 3255 y 68, Tomo III, julio de 2019, página 2225, registros digitales: 2651, 5315, 5342 y 5384, respectivamente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. Y G. 12 DE DICIEMBRE DE 2022.
+
+## [N. DE E. TRANSITORIOS DE LAS “CONDICIONES GENERALES DE TRABAJO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. Las presentes Condiciones Generales de Trabajo entrarán en vigor el día hábil siguiente al de su depósito ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación.
+
+SEGUNDO. Se abrogan las Condiciones Generales de Trabajo de la Suprema Corte de Justicia de la Nación autorizadas por el Comité de Gobierno y Administración en su sesión ordinaria el veintiséis de agosto de dos mil diecinueve.
+
+TERCERO. La Suprema Corte en términos de lo establecido en el Acuerdo General de Administración VI/2022, definirá los lineamientos en materia de trabajo a distancia.
+
+CUARTO. Una vez que estas Condiciones Generales se depositen ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación, publíquense en el Semanario Judicial de la Federación y su Gaceta así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
