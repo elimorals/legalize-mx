@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-tribunal-de-justicia-administrativa-del-122685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-18"
-last_updated: "2022-02-11"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 6 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2023 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 18 de julio de 2017.
 
@@ -1116,3 +1118,19 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abrogan la Ley Orgánica del Poder Judicial del Estado de Puebla, publicada en el Periódico Oficial del Estado el nueve de enero de dos mil diecisiete y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Puebla publicada en el Periódico Oficial del Estado el dieciocho de julio de dos mil diecisiete.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las Magistradas, Magistrados, Consejeras y Consejeros del Poder Judicial del Estado que se encuentren desempeñando su cargo durarán el tiempo por el que fueron designados originalmente, conforme a la ley aplicable a la fecha de su nombramiento.
+
+QUINTO. Los asuntos conocidos por las Salas Unitarias del Tribunal de Justicia Administrativa previo a la entrada en vigor del presente Decreto continuarán su desarrollo conforme a la legislación aplicable al momento de promover la demanda.
+
+SEXTO. El Consejo por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán de recursos humanos y financieros necesarios para el inicio de operaciones del Distrito Judicial de Ajalpan.
