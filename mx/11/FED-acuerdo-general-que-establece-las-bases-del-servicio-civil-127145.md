@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-que-establece-las-bases-del-servicio-civil-1271
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-03-15"
-last_updated: "2018-03-15"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127145&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-03-02"
 ---
 # ACUERDO GENERAL QUE ESTABLECE LAS BASES DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL QUE ESTABLECE EL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 6 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL QUE ESTABLECE LAS BASES DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 15 de marzo de 2018.
 
@@ -830,3 +832,25 @@ CERTIFICA
 Que la presente copia en 22 fojas, corresponden al ACUERDO GENERAL QUE ESTABLECE LAS BASES DEL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, aprobado por la Comisión de Administración mediante Acuerdo 062/S2(15-II-2018), emitido en la segunda Sesión Ordinaria celebrada el 15 de febrero de 2018, que obra en los archivos de la Dirección general de Asuntos Jurídicos. DOY FE.
 
 Ciudad de México, 2 de marzo de 2018.- El Secretario de la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, Jorge Enrique Mata Gómez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL QUE ESTABLECE EL SERVICIO CIVIL DE CARRERA ADMINISTRATIVA DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+Primero. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Se ordena su difusión en el Semanario Judicial de la Federación, su Gaceta y los medios electrónicos con que cuenta el Tribunal Electoral.
+
+Segundo. Con la entrada en vigor del presente Acuerdo General, se abroga el Acuerdo General que establece las Bases del Servicio Civil de Carrera Administrativa del Tribunal Electoral del Poder Judicial de la Federación, aprobado por el pleno de la Comisión de Administración mediante Acuerdo 062/S2(15-II-2018), emitido en su Segunda Sesión Ordinaria celebrada el quince de febrero de dos mil dieciocho.
+
+Tercero. Para el caso del sistema de carrera en la Defensoría Electoral, y dada la ampliación de los servicios a un mayor número de grupos en situación de vulnerabilidad o desventaja histórica que la reforma al Reglamento Interno relativa a la creación de la nueva Defensoría Pública Electoral traerá para dicha área administrativa del Tribunal, situación que implica emprender acciones inmediatas que fortalezcan su capacidad institucional para ofrecer esos servicios, se autoriza a que, por única vez, la actual Defensoría Pública Electoral para Pueblos y Comunidades Indígenas someta directamente a la Comisión de Administración un mecanismo expedito —mediante convocatoria a un concurso público de oposición— que permita la integración de una lista de personas habilitadas para la eventual ocupación posterior de plazas de personas defensoras; el mecanismo contemplará la participación de la Escuela Judicial Electoral para el desahogo de las diversas etapas del concurso. En caso de que antes del 1 de enero del 2023, fecha en la que entrará en vigor la nueva Defensoría Pública Electoral, se generen plazas vacantes en puestos distintos al de las personas defensoras, éstas podrán ser ocupadas en forma inmediata con personal que cumpla los requisitos para esas posiciones, a propuesta de la persona titular de la Defensoría Electoral.
+
+Cuarto. A más tardar en los treinta días naturales posteriores a la entrada en vigor del presente Acuerdo, la persona titular de la Presidencia del Comité del Servicio Civil, a través de la Secretaría Técnica de dicho órgano colegiado, convocará a la sesión de integración e inicio formal de los trabajos del Comité del Servicio Civil de Carrera Administrativa a que se refiere el artículo 7 de este Acuerdo.
+
+La puesta en marcha del Servicio Civil será gradual, tomando en cuenta el Plan de Trabajo de Implementación del Servicio Civil de Carrera Administrativa que la Comisión de Administración aprobó el 22 de septiembre de 2022. Dada la reforma al Reglamento Interno del Tribunal Electoral por el cual se crea la nueva Defensoría Pública Electoral, misma que entrará en vigor el 1º de enero del 2023, se faculta al Comité del Servicio Civil para realizar eventuales modificaciones al contenido de dicho Plan de Trabajo, a fin de conciliar y armonizar el desarrollo del Sistema de carrera en la Defensoría Electoral con la ruta que fue establecida por la Comisión de Administración para el caso del Servicio Civil de Carrera Administrativa.
+
+Quinto. Con el propósito de guardar el equilibrio presupuestal y la disciplina financiera, las erogaciones que se requieran para la implementación del Servicio Civil de Carrera Administrativa deberán realizarse con cargo a los recursos aprobados en el Presupuesto del Tribunal; asimismo, durante el ejercicio fiscal respectivo, se podrán destinar al Sistema del Servicio Civil los ahorros y economías que se tengan, correspondientes a las Áreas administrativas a las que les aplica este Acuerdo.
+
+Sexto. Recursos Humanos, en coordinación con la Dirección General de Asuntos Jurídicos, presentará ante los órganos competentes, la propuesta de creación de nuevos ordenamientos o de reforma a los diversos instrumentos normativos que así lo requieran, con la finalidad de armonizar el marco jurídico existente con los objetivos, principios y disposiciones del Servicio Civil, a más tardar dentro de los noventa días hábiles posteriores a la aprobación del presente Acuerdo General.
+
+Séptimo. En el mismo plazo referido en el transitorio anterior, la Comisión de Administración deberá aprobar los lineamientos específicos en materia de nombramientos y licencias temporales, a propuesta de Recursos Humanos.
