@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2022-10-27"
+last_updated: "2023-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -105,6 +105,10 @@ XVII. Educación Inclusiva. Es la educación que propicia la integración de per
 XVIII. Estenografía Proyectada. Es el oficio y la técnica de transcribir un monólogo o un diálogo oral de manera simultánea a su desenvolvimiento y, a la vez, proyectar el texto resultante por medios electrónicos visuales;
 
 XIX. Estimulación Temprana. Atención brindada a niños y niñas de entre 0 y 6 años para potenciar y desarrollar al máximo sus posibilidades físicas, intelectuales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano, sin forzar el curso natural de su maduración;
+
+> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 2023)</small>
+
+XIX Bis. Formato de Lectura Fácil: Texto complementario al principal redactado en un lenguaje simple, directo, cotidiano y personalizado, con tipografía clara y tamaño accesible, la cual puede utilizar ejemplos para su mejor comprensión y está libre de tecnicismo y conceptos abstractos;
 
 XX. Igualdad de Oportunidades. Proceso de adecuaciones, ajustes, mejoras o adopción de acciones afirmativas necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, en igualdad de oportunidades con el resto de la población;
 
@@ -494,9 +498,11 @@ III. Las demás que dispongan otros ordenamientos.
 
 Las personas con discapacidad tendrán derecho a recibir un trato digno y apropiado en los procedimientos administrativos y judiciales en que sean parte, así como asesoría y representación jurídica en forma gratuita en dichos procedimientos, bajo los términos que establezcan las leyes respectivas.
 
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 2023)</small>
+
 ###### Artículo 29.
 
-Las instituciones de administración e impartición de justicia contarán con peritos especializados en las diversas discapacidades, apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en Sistema de escritura Braille.
+Las instituciones de administración e impartición de justicia contarán con peritos especializados en las diversas discapacidades, apoyo de intérpretes de Lengua de Señas Mexicana, así como la emisión de documentos en sistema de escritura Braille y formato de lectura fácil.
 
 ###### Artículo 30.
 
@@ -512,7 +518,9 @@ El Poder Ejecutivo Federal y los Gobiernos de las Entidades Federativas, en coor
 
 Las personas con discapacidad tienen derecho a la libertad de expresión y opinión; incluida la libertad de recabar, recibir y facilitar información mediante cualquier forma de comunicación que les facilite una participación e integración en igualdad de condiciones que el resto de la población. Para tales efectos, las autoridades competentes establecerán entre otras, las siguientes medidas:
 
-I. Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, en formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
+> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 2023)</small>
+
+I. Facilitar de manera oportuna y sin costo adicional, la información dirigida al público en general, accesibles, en formato de lectura fácil y con las tecnologías adecuadas a los diferentes tipos de discapacidad;
 
 II. Promover la utilización de la Lengua de Señas Mexicana, el Sistema Braille, y otros modos, medios y formatos de comunicación, así como el acceso a los nuevos sistemas y tecnologías de la información y las comunicaciones, incluido Internet;
 
@@ -931,3 +939,11 @@ D.O.F. 27 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 11 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 2, 29 Y 32 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores del gasto responsable para el presente ejercicio fiscal y los subsecuentes.
