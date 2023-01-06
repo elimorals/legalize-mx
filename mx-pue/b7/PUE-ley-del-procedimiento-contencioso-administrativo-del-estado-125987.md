@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-procedimiento-contencioso-administrativo-del-estado-125
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-18"
-last_updated: "2018-01-18"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL EL 6 DE ENERO DE 2023, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR TREINTA DÍAS HÁBILES DESPUÉS DE SU PUBLICACIÓN.]</small>
+
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2023 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el jueves 18 de enero de 2018.
 
@@ -1354,3 +1356,29 @@ CUARTO. La implementación del Boletín Jurisdiccional, archivo, expediente, doc
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de enero de dos mil dieciocho. Diputado Presidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Vicepresidente. PABLO FERNÁNDEZ DEL CAMPO ESPINOSA. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Diputado Secretario. CIRILO SALAS HERNÁNDEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciocho días del mes de enero de dos mil dieciocho. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor treinta días hábiles después de su publicación.
+
+SEGUNDO. Se abroga la Ley del Procedimiento Contencioso Administrativo del Estado de Puebla, publicada en el Periódico Oficial del Estado el dieciocho de enero del dos mil dieciocho y se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un periodo que no exceda de cuarenta y cinco días hábiles después de su entrada en vigor, se deberán realizar las adecuaciones normativas conducentes, a fin de dar cabal cumplimiento al presente decreto.
+
+CUARTO. Atendiendo a las necesidades presupuestales, el Consejo de la Judicatura deberá asignar los recursos necesarios para la implementación y funcionamiento del personal necesario y las instalaciones que permitan su aplicación.
+
+QUINTO. El Congreso del Estado deberá asignar los recursos necesarios para la implementación y funcionamiento de la nueva estructura orgánica del Poder Judicial.
+
+SEXTO. El Consejo de la Judicatura deberá emitir los lineamientos para hacer uso del Sistema de Justicia en Línea y la implementación del boletín jurisdiccional en un plazo que no excederá de los ciento veinte días a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. Las disposiciones relativas al Sistema de Justicia en Línea, entrará en vigor en un plazo de dieciocho meses a partir de la vigencia del presente Decreto.
+
+OCTAVO. Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y honestidad para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes (sic) en los que conste la denominación del Tribunal de Justicia Administrativa del Estado de Puebla, se seguirán utilizando hasta que se agoten, siempre y cuando no se contrapongan con las disposiciones legales vigentes.
+
+NOVENO. Las disposiciones establecidas en el Capítulo Segundo del Título Tercero ''DE LA REVISIÓN'', serán aplicables a aquellos juicios en los que no se hubiere emitido sentencia definitiva a la entrada en vigor del presente Decreto y aquellos en los que esté transcurriendo el plazo legal para impugnarlas.
+
+DÉCIMO. Los procedimientos que se encuentren en trámite, a la entrada en vigor del presente Decreto, continuarán su desarrollo conforme a la legislación aplicable al momento de presentar la demanda.
