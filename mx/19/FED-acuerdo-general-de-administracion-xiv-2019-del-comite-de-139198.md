@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-xiv-2019-del-comite-de-139198
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-11-26"
-last_updated: "2019-11-26"
+last_updated: "2023-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139198&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-11-15"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2023.
 
 Acuerdo publicado en el Número 20 del Diario Oficial de la Federación, el martes 26 de noviembre de 2019.
 
@@ -405,13 +405,13 @@ Recursos Materiales por conducto de su titular o del servidor público que corre
 
 I. Actuar como Unidad Responsable Integradora para concentrar la información de las Unidades Solicitantes de la Suprema Corte y en lo que respecta a su Unidad Responsable, elaborar la parte del anteproyecto de presupuesto de egresos que le corresponde, en los términos que señale el Oficial Mayor, con base en lo establecido en la Ley Orgánica del Poder Judicial de la Federación, las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como las derivadas de ésta que expidan los órganos competentes de la Suprema Corte, respecto de la adquisición de bienes y la contratación de servicios que requiera este Alto Tribunal y llevar el seguimiento de las erogaciones efectuadas para tal efecto con cargo al presupuesto programado para estos fines;
 
-II. Integrar el Programa Anual de Necesidades de la Suprema Corte conforme al anteproyecto de presupuesto autorizado, que se formule con la información y apoyo que proporcionen Presupuesto y Contabilidad, Tecnologías de la Información y demás Órganos de la Suprema Corte, Unidades Técnicas y áreas que tengan Unidad Responsable, que contemple todos los requisitos y aspectos señalados en este Acuerdo General;
+II. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
-III. Solicitar a las Unidades Responsables, en su caso, los ajustes al Programa Anual de Necesidades, con base en la asignación del presupuesto autorizado y validar su congruencia;
+III. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 IV. Ejecutar el Programa Anual de Necesidades, conforme el calendario autorizado, salvo que el área requirente solicite la no contratación de algún bien o servicio previamente;
 
-V. Conciliar mensualmente, respecto del mes anterior y en los primeros cinco días hábiles siguientes al periodo de que se trate, un informe con Presupuesto y Contabilidad de las erogaciones comprometidas, del avance del ejercicio presupuestal y del cumplimiento de metas y objetivos de los programas a su cargo;
+V. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 VI. Determinar las cantidades de bienes a adquirir mediante compras globales periódicas de bienes de consumo y de activo fijo recurrente, conforme a los datos de consumo y atendiendo a los criterios que establezcan las cantidades mínimas y máximas de existencia en almacén, considerando en todo momento la conveniencia de minimizar sus inventarios conforme al Programa Anual de Necesidades, manteniendo el almacén con las existencias necesarias para su desempeño, para lo cual se promoverán condiciones de entrega denominadas como justo a tiempo;
 
@@ -507,13 +507,13 @@ I. Actuar como Unidad Responsable Integradora para concentrar la información de
 
 II. Proporcionar a Presupuesto y Contabilidad la información presupuestal a que se refiere el punto anterior, así como la información adicional que le solicite y que por sus funciones le corresponda, para estar en posibilidad de firmar el anteproyecto de presupuesto de la Suprema Corte;
 
-III. Coordinar la elaboración, en estrecha colaboración con Presupuesto y Contabilidad, de la normativa para llevar a cabo el Programa Anual de Necesidades de la Suprema Corte y sus ajustes con base en el presupuesto autorizado, considerando los saldos de contrataciones pendientes de ejercer del año inmediato anterior, de conformidad con las disposiciones aplicables;
+III. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
-IV. Integrar el Programa de Obras que cubra las necesidades de la Suprema Corte conforme al anteproyecto de presupuesto autorizado, que se formule con la información y apoyo que proporcionen Presupuesto y Contabilidad, Informática y demás Órganos de la Suprema Corte, Unidades Técnicas y áreas que tengan Unidad Responsable, que contemple todos los requisitos y aspectos señalados en este Acuerdo General;
+IV. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 V. Ejecutar el Programa Anual de Necesidades, en materia de obra pública y servicios relacionados con la misma, conforme el calendario autorizado, salvo que el área requirente solicite la no contratación de algún bien o servicio previamente;
 
-VI. Conciliar mensualmente con Presupuesto y Contabilidad el ejercicio del presupuesto y cumplimiento de metas y objetivos del programa a su cargo;
+VI. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 VII. Definir los proyectos de obras públicas y sus alcances, elaborar el presupuesto base e iniciar el procedimiento que corresponda conforme a lo establecido en el presente Acuerdo General;
 
@@ -599,17 +599,17 @@ Atribuciones de Tecnologías de la Información.
 
 Para cumplir con su función por conducto de su titular o del servidor público que corresponda, conforme a la regulación aplicable, tendrá las atribuciones y obligaciones siguientes:
 
-I. Actuar como Unidad Responsable Integradora para concentrar la información de las Unidades Solicitantes en lo que respecta a la adquisición de bienes y servicios en la materia de informática y elaborar la parte del anteproyecto de presupuesto que le corresponda, en los términos que señale la Oficialía Mayor, con base a lo establecido en la Ley Orgánica del Poder Judicial de la Federación y las disposiciones aplicables de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como llevar el seguimiento de las erogaciones efectuadas con cargo al presupuesto asignado para esas contrataciones;
+I. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
-II. Proponer los ajustes y modificaciones al Programa Anual de Necesidades respecto a los bienes y/o servicios informáticos, así como de recursos tecnológicos, que cubran las necesidades de la Suprema Corte, después de conocer el presupuesto autorizado del ejercicio correspondiente;
+II. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
-III. Conciliar mensualmente con Presupuesto y Contabilidad e informar a Recursos Materiales, el avance del ejercicio del presupuesto y cumplimiento de metas y objetivos de los programas a su cargo;
+III. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 IV. Elaborar el dictamen resolutivo técnico de las propuestas presentadas por los participantes en los diferentes procedimientos de contratación de adquisición de bienes y servicios de carácter informático;
 
 V. Firmar como testigo en los contratos que se celebren en relación con la adquisición de bienes y servicios informáticos, salvo en el caso de que se celebren contratos simplificados;
 
-VI. Presentar al Comité un informe mensual de todas las actividades realizadas, dentro de los 10 días hábiles del mes siguiente y del avance en el cumplimiento del Programa Anual de Necesidades en materia de Tecnologías de la Información y Comunicación, así como el monto del presupuesto ejercido contra el presupuesto calendarizado;
+VI. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 VII. Publicar o apoyar técnicamente en la publicación a la Oficialía Mayor, Recursos Materiales, Infraestructura Física, el Comité y demás áreas y órganos competentes en la página de internet de la Suprema Corte, de las convocatorias, bases y demás actos que se deriven de los diversos procedimientos regulados en este Acuerdo General, y
 
@@ -749,9 +749,9 @@ El Comité tendrá las atribuciones siguientes:
 
 I. Revisar los Programas Anuales de Necesidades y formular las observaciones y recomendaciones convenientes a la normativa correspondiente para su elaboración;
 
-II. Verificar que los Programas Anuales de Necesidades cuenten con los recursos financieros suficientes;
+II. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
-III. Conocer el Plan Estratégico de Desarrollo Informático;
+III. (DEROGADA POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 IV. Determinar sobre las circunstancias imprevistas y/o urgentes en la adjudicación de contratos;
 
@@ -877,209 +877,47 @@ PROGRAMAS DE ADQUISICIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y DE OBRAS.
 
 ###### Artículo 24.
 
-Programas Anuales de Necesidades.
-
-Los Programas Anuales de Necesidades de la Suprema Corte serán elaborados por Recursos Materiales o Infraestructura Física, según corresponda, con la información que les proporcionen las Unidades Responsables y Unidades Técnicas, la cual será la misma que remitan a Presupuesto y Contabilidad para la elaboración del anteproyecto de presupuesto de la Suprema Corte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 25.
 
-Contenido de los Programas Anuales de Necesidades.
-
-Los Programas Anuales de Necesidades deberán contener, entre otros, los siguientes aspectos:
-
-A. De Adquisiciones, Arrendamientos y Prestación de Servicios:
-
-I. Los objetivos y metas a corto, mediano y largo plazo;
-
-II. Los recursos asignados en el Presupuesto de Egresos correspondientes a las contrataciones, así como su calendarización;
-
-III. Las acciones conducentes a la realización de las contrataciones;
-
-IV. El nombre de los programas sustantivos con los que se relacionan, así como las unidades responsables de su instrumentación;
-
-V. Las asignaciones que se hayan contemplado en el Presupuesto de Egresos de la Suprema Corte, con base en el Plan Estratégico de Desarrollo Informático para el caso de bienes y servicios informáticos;
-
-VI. La información de los requerimientos clasificados por partida presupuestaria y sus respectivos montos calendarizados, considerando lo siguiente:
-
-a) La información deberá integrarse por Unidad Responsable, con base en la estructura programática vigente;
-
-b) La información deberá presentarse en los formatos establecidos en los lineamientos para la elaboración del programa respectivo;
-
-c) Deberá señalarse la Unidad Solicitante de los requerimientos, así como la unidad contratante;
-
-d) Deberá identificarse la fecha en que la Unidad Solicitante habrá de gestionar el requerimiento;
-
-e) Deberá identificarse la fecha de abasto y/o suministro del requerimiento;
-
-VII. Las investigaciones, asesorías, consultorías y estudios que en su caso se requieran;
-
-VIII. Los requerimientos programados de conservación, mantenimiento preventivo y correctivo de los bienes muebles;
-
-IX. La existencia de bienes que figuren en el inventario, así como la estimación del tiempo de consumo para que los requerimientos se hagan en cantidad suficiente que garantice el abasto oportuno a las Unidades Solicitantes; y
-
-XII (SIC). Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de las adquisiciones, arrendamientos o servicios.
-
-B. De Obras y servicios relacionadas (sic) con las mismas:
-
-I. Objetivos y metas;
-
-II. Los estudios de pre inversión programados que, en su caso, se requieran para sustentar la factibilidad técnica, económica y ecológica de los trabajos;
-
-III. Las acciones previas, durante y posteriores a la ejecución de las obras públicas, incluyendo, cuando corresponda, las obras principales, las de infraestructura, las complementarias y accesorias, así como las acciones para poner aquéllas en servicio;
-
-IV. Las necesidades programadas para la conclusión de la obra pública en proceso;
-
-V. Las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
-
-VI. Los resultados previsibles;
-
-VII. La calendarización física y financiera de los recursos necesarios para la realización de estudios y proyectos, así como de la ejecución de los trabajos;
-
-VIII. La información de los requerimientos clasificados por partida presupuestaria y sus respectivos montos calendarizados, considerando lo siguiente:
-
-a) La información deberá integrarse por Unidad Responsable, con base en la estructura programática vigente;
-
-b) La información deberá presentarse en los formatos establecidos en los lineamientos para la elaboración del programa respectivo;
-
-c) Deberá señalarse la Unidad Solicitante de los requerimientos, así como la unidad contratante;
-
-d) Deberá identificarse la fecha en que la Unidad Solicitante habrá de gestionar el requerimiento;
-
-e) Deberá identificarse la fecha prevista de inicio y término de la obra pública;
-
-IX. Las investigaciones, asesorías, supervisión, consultorías y estudios que se requieran, incluyendo los proyectos arquitectónicos y de ingeniería necesarios;
-
-X. En su caso, la adquisición del predio urbano que se haya previsto para realizar la obra requerida;
-
-XI. La regularización del régimen de propiedad o uso de los predios;
-
-XII. La ejecución, que deberá incluir el costo estimado de las obras públicas y servicios relacionados con las mismas;
-
-XIII. Los trabajos de conservación, mantenimiento preventivo y correctivo, de los bienes inmuebles a su cargo;
-
-XIV. Los permisos, autorizaciones y licencias que se requieran;
-
-XV. Los análisis que deban realizarse previamente, en los casos de adaptación, remodelación, instalación, ampliación, adecuación, restauración, conservación, mantenimiento y modificación de inmuebles que no sean propiedad de la Suprema Corte, y
-
-XVI. Las demás previsiones que deban tomarse en cuenta, según la naturaleza, características y complejidad de la obra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 26.
 
-Procedimiento para la Elaboración de los Programas Anuales de Necesidades.
-
-En el mes de marzo de cada ejercicio fiscal, Recursos Materiales, Infraestructura Física y Presupuesto y Contabilidad formularán la propuesta de normativa y formatos involucrados para la elaboración de los Programas Anuales de Necesidades.
-
-En el propio mes someterán a consideración del Comité la propuesta de lineamientos para la elaboración de los Programas Anuales y se acompañará la opinión de Presupuesto y Contabilidad.
-
-En los referidos lineamientos se establecerá que cada Unidad Solicitante debe justificar pormenorizadamente sus requerimientos atendiendo a su programa de trabajo, su anteproyecto de presupuesto y sus metas programadas.
-
-Una vez aprobada la normativa interna, el Comité los comunicará a los titulares de las Unidades Responsables, con el fin de que éstas proporcionen a Recursos Materiales o a Infraestructura Física, según corresponda, la información necesaria para la integración de los Programas Anuales.
-
-Las solicitudes de bienes restringidos conforme a la clasificación establecida por la Suprema Corte se harán del conocimiento del Oficial Mayor para su opinión. En todos los casos Recursos Materiales, Infraestructura Física y Tecnologías de la Información deberán verificar que los bienes solicitados respecto de las partidas que les corresponda administrar sean congruentes con los parámetros que se determinen en la normativa interna.
-
-Los Programas Anuales de Necesidades se presentarán por Recursos Materiales e Infraestructura Física, según corresponda, a consideración del titular de la Oficialía Mayor para que lo presente al Comité, a más tardar en el mes de mayo, anterior a su ejercicio y ejecución;
-
-El Comité autorizará los Programas Anuales verificando que se hayan elaborado en términos de lo previsto en los lineamientos, correspondiendo a las Unidades Responsables determinar los bienes, servicios y obra pública que contendrán dichos programas.
-
-La Suprema Corte publicará en su página en Internet, a más tardar el 30 de noviembre de cada año, sus Programas Anuales estimados de adquisiciones, arrendamientos, servicios y obra pública del siguiente ejercicio fiscal.
-
-Los programas ajustados conforme a la asignación presupuestal se publicarán en el mes de enero de cada año en los términos establecidos en la ley de la materia.
-
-Las modificaciones deberán publicarse mensualmente en la propia página, en la inteligencia de que el Programa Anual es de carácter informativo por lo cual no genera compromisos ante terceros.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 27.
 
-Ajustes a los Programas Anuales de Necesidades.
-
-Presupuesto y Contabilidad dará a conocer a las Unidades Solicitantes y/o beneficiadas, el monto del presupuesto autorizado para que éstas determinen sus prioridades y con dicha información, en su caso, propongan los ajustes a los Programas Anuales, de conformidad con la normativa interna aplicable, los que serán integrados por Recursos Materiales o Infraestructura Física, según corresponda, e informados al Comité, el que ordenará al Secretario Técnico su publicación en la página de Internet de la Suprema Corte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 28.
 
-Avance del Programa Anual de Necesidades y la rendición de cuentas sobre su cumplimiento.
-
-Una vez autorizados por el Comité los Programas Anuales de Necesidades o sus modificaciones de acuerdo a su organización, el cumplimiento de éste será responsabilidad en forma conjunta de las Unidades Solicitantes y de las competentes para su ejecución, en el ámbito de sus atribuciones.
-
-Dichas áreas por medio de los servidores públicos que designen para ello deberán rendir cuentas del cumplimiento, avance de los programas anuales y sus modificaciones, mediante informes con la periodicidad que determine el Comité.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 29.
 
-Contrataciones no programadas.
-
-Las Unidades Responsables requerirán a Recursos Materiales o Infraestructura Física según corresponda, la adquisición o arrendamiento de algún bien o la contratación de algún servicio u obra pública, no previstos en su Programa Anual de Necesidades, salvo los de carácter restringido y de servicios personales. Para lo anterior deberán llevar a cabo lo siguiente:
-
-I. Obtener el dictamen de procedencia administrativa por parte de la Unidad Responsable Integradora correspondiente o de la Dirección General de Casas, según corresponda, previa justificación y, en su caso, modificación del Programa Anual de Trabajo en cuanto a sus metas, y
-
-II. Hacer el registro de la adecuación presupuestaria compensada, mencionando la reducción a su presupuesto y la ampliación que corresponda, así como la clave, descripción de la o las partidas presupuestarias y el calendario presupuestal compensado, para validación de la Dirección General de Presupuesto y Contabilidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 30.
 
-Contrataciones de Bienes, Obras y Servicios No Presupuestados de Carácter Restringido.
-
-La Oficialía Mayor podrá autorizar la adquisición de bienes o la contratación de obras o servicios no presupuestados de carácter restringido, no contemplados por las Unidades Responsables en su Programa Anual de Necesidades y que sean casos de excepción fortuitos o de fuerza mayor para satisfacer requerimientos urgentes, los cuales deberán contar con la debida justificación. Para estos efectos, las Unidades Responsables correspondientes deberán emitir un dictamen técnico de procedencia y de suficiencia presupuestal.
-
-Se entenderá por bienes, obras o servicios de carácter restringido los siguientes, considerando el Clasificador por Objeto del Gasto vigente:
-
-I. Bienes inmuebles, comprendiendo su adquisición, arrendamiento o contratación de obra pública y servicios relacionados con la misma;
-
-II. Adquisición y arrendamiento de vehículos;
-
-III. Adquisición de equipo informático;
-
-IV. Arrendamiento de equipo informático y contratación de servicios de informática;
-
-V. Contratación de servicios de telefonía y telecomunicaciones;
-
-VI. Adquisición de equipos y aparatos de comunicaciones y telecomunicaciones;
-
-VII. Servicios profesionales, incluidos asesorías, consultorías, estudios y demás análogos, a excepción de la partida presupuestaria de servicios relacionados con procedimientos jurisdiccionales del Capítulo de Gasto 3000 Servicios Generales;
-
-VIII. Publicidad y Difusión, en relación con la partida presupuestaria de difusión de mensajes sobre programas y actividades gubernamentales del Capítulo de Gasto 3000 Servicios Generales;
-
-IX. Artículos promocionales, los cuales se sujetarán a la normativa que sobre el particular se emitan;
-
-X. Adquisición de mobiliario y equipo de administración, y
-
-XI. Todos los demás bienes y servicios a los que el Presidente o el Comité de Gobierno les otorgue tal carácter.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 31.
 
-Requisitos de la Solicitud de Contrataciones de Bienes, Obras y Servicios no Presupuestados de Carácter Restringido.
-
-La solicitud deberá contener, además de la petición respectiva, la justificación técnica, financiera y jurídica de la ejecución, adquisición o contratación que se solicita, y tener como anexo, en todos los casos, el dictamen de suficiencia presupuestal que emita Presupuesto y Contabilidad a solicitud de las Unidades Responsables, previa verificación en el SIA por parte de las mismas de suficiencia de recursos presupuestales en las partidas presupuestarias que se van a afectar.
-
-En caso de no contar con los recursos presupuestales necesarios, las Unidades Responsables deberán gestionar previamente ante Presupuesto y Contabilidad las adecuaciones presupuestarias correspondientes.
-
-Cuando se solicite la adquisición de bienes deberá acompañarse el dictamen que emita Recursos Materiales sobre la inexistencia en el almacén del bien solicitado o señalando que los existentes no cumplen con los requerimientos de la Unidad Responsable solicitante. Asimismo, deberá acreditarse la pertinencia y procedencia de la adquisición con base en la justificación que realice el área de la necesidad, su alineamiento con su Programa Anual de Trabajo y la razonabilidad administrativa.
-
-Tratándose de bienes, sistemas y servicios de informática deberá contar con el dictamen técnico que respecto de la solicitud emita Tecnologías de la Información.
-
-No se requerirá de la autorización cuando se trate de adquisiciones para reposición de un bien robado, extraviado o dañado por siniestro o accidente, siempre que se hayan cumplido los requisitos para su baja y desincorporación. Se exceptúa de lo anterior, la adquisición de bienes inmuebles por reposición de los existentes, la que autorizará el Presidente o el Comité de Gobierno.
-
-Cuando el costo del bien sea inferior al monto equivalente a 5,600 UMAS, su adquisición será autorizada por Recursos Materiales, de conformidad con la normativa que al efecto se emitan.
-
-No se requerirá autorización para las contrataciones de servicios de conducción de señales analógicas y digitales que requiera el Canal Judicial y de peritos para juicios, traductores y servicios relacionados con obra pública, así como de disertantes que participen en los programas de difusión y promoción de la cultura jurídica y jurisdiccional y, en general, los que afectan la partida presupuestaria de Servicios relacionados con procesos jurisdiccionales del Capítulo de Gasto 3000 Servicios Generales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 32.
 
-Dictámenes a las Contrataciones de Bienes, Obras y Servicios no Presupuestados de Carácter Restringido.
-
-Los dictámenes serán emitidos, previa solicitud de la Unidad Responsable interesada, bajo la más estricta responsabilidad de quien lo formula, quedando facultada la Oficialía Mayor para establecer, en su caso, el procedimiento a seguir para la emisión de los mismos.
-
-El dictamen de suficiencia presupuestaria solamente se formulará cuando se haya emitido el dictamen de la Unidad Responsable Integradora correspondiente.
-
-En el caso particular de las Casas de la Cultura, tratándose de adquisición o contratación de bienes y servicios no presupuestados de carácter no restringido, hasta por un monto de 700 UMAS, los Titulares de las mismas podrán emitir las autorizaciones correspondientes bajo su más estricta responsabilidad, para lo cual deberán acreditar la suficiencia presupuestal, la cual sólo podrá comprender recursos del presupuesto asignado. Las Casas de la Cultura deberán verificar, de ser el caso, que no cuentan dentro de sus inventarios con los bienes que se solicitan. De superarse este monto, las Casas de la Cultura deberán solicitar autorización a la Dirección General de Casas, la que podrá autorizar hasta 5,600 UMAS; superado este monto se estará a lo establecido en este Acuerdo General.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 33.
 
-Adecuaciones a los Programas Anuales de Necesidades.
-
-Los Programas Anuales de Necesidades podrán modificarse cuando existan adecuaciones al Presupuesto de Egresos de la Federación, ingresos excedentes del presupuesto autorizado o cuando por necesidades del servicio se tengan que solucionar situaciones emergentes o no previstas, siempre que permitan un mejor cumplimiento de los objetivos de los Programas Anuales mediante el mecanismo que para ello establezca el Comité y se cumpla con lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones que resulten aplicables.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ###### Artículo 34.
 
-Verificación del Cumplimiento de los Programas Anuales de Necesidades.
-
-De los Programas Anuales que cubran con las necesidades de la Suprema Corte, autorizados por el Comité, Recursos Materiales e Infraestructura Física remitirán copia a Presupuesto y Contabilidad para que verifique el ejercicio presupuestal y a la Contraloría, las que en el ámbito de su competencia verificarán los avances y cumplimiento de esos Programas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, G.S.J.F. 6 DE ENERO DE 2023)
 
 ### CAPÍTULO II. REQUISITOS DE LAS CONTRATACIONES
 
@@ -5434,3 +5272,21 @@ NOVENO. Publíquese el presente Acuerdo General de Administración en el Semanar
 Ciudad de México, a siete de noviembre de dos mil diecinueve.- El Ministro Presidente, Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Ministro, Javier Laynez Potisek.- Rúbrica.- El Ministro, Jorge Mario Pardo Rebolledo.- Rúbrica.
 
 EN LA CIUDAD DE MÉXICO A QUINCE DE NOVIEMBRE DE DOS MIL DIECINUEVE, EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 9, FRACCIÓN X, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN CERTIFICA: Que la presente copia constante de quinientas quince fojas útiles, concuerda fiel y exactamente con el original del ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, mismo que obra en los archivos de la Dirección General a mi cargo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.S.J.F. 6 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2022, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL VEINTIDÓS, POR EL QUE SE ESTABLECEN LOS LINEAMIENTOS PARA EL PROCESO DE PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTACIÓN, EVALUACIÓN Y CONTROL DE LOS PROGRAMAS ANUALES DE TRABAJO, DE NECESIDADES Y DEL PRESUPUESTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General de Administración entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Las disposiciones en materia de ejecución, seguimiento, evaluación y control del proceso podrán ser aplicadas en lo conducente al ejercicio fiscal 2023.
+
+TERCERO. Se abrogan los Lineamientos para el Proceso de Planeación, Programación y Presupuestación en la Suprema Corte de Justicia de la Nación de fecha seis de agosto de dos mil veinte, autorizados por el Ministro Presidente el cinco de octubre de dos mil veinte, así como todas aquellas disposiciones que le (sic) opongan al presente Acuerdo General de Administración.
+
+CUARTO. Se derogan los artículos 13, fracciones II, III y V; 14, fracciones III, IV y VI; 15, fracciones I, II, III y VI; 21, fracciones II y III; 24; 25; 26; 27; 28; 29; 30; 31; 32; 33 y 34 del Acuerdo General de Administración XIV/2019, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, de siete de noviembre de dos mil diecinueve, por el que se regulan los procedimientos para la adquisición, arrendamiento, administración y desincorporación de bienes y la contratación de obras y prestación de servicios requeridos por la Suprema Corte de Justicia de la Nación.
+
+QUINTO. Dentro de los dos meses siguientes a la entrada en vigor del presente Acuerdo General de Administración, las áreas competentes emitirán las guías y formatos involucrados previstos en este ordenamiento, sin menoscabo de que hasta que éstos entren en vigor, se continuarán aplicando los vigentes a la fecha.
+
+SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y en su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
