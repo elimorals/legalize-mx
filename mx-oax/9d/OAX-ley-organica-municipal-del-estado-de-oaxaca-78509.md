@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2022-12-03"
+last_updated: "2023-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2023.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -927,13 +927,13 @@ III.- Solemnes, aquellas que se revisten de un ceremonial especial.
 
 Las sesiones ordinarias y extraordinarias deben celebrarse en el Recinto Oficial o en el lugar que habilite o lo acuerde el Ayuntamiento con el voto calificado de sus integrantes, y las solemnes en el lugar que para tal efecto acuerde el Cabildo, por mayoría simple, mediante declaratoria oficial.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE ENERO DE 2023)</small>
 
-Las sesiones ordinarias y solemnes serán convocadas con al menos 48 horas de anticipación.
+Las sesiones solemnes serán convocadas por la Presidencia municipal, las sesiones ordinarias y extraordinarias serán convocadas por la Presidencia municipal o la mitad más uno de los integrantes del Ayuntamiento.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2023)</small>
 
-En caso de emergencia o por situaciones extraordinarias; fortuito o de fuerza mayor, tanto nacional o estatal que afecten la salud pública, seguridad pública, protección civil y la estabilidad social, declarada o determinada por la autoridad competente, y por el tiempo que dure ésta, podrán sesionar a distancia mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, los miembros del Ayuntamiento serán convocados con 48 horas de anticipación mediante correo electrónico, durante la sesión se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos la Secretaría del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia íntegra de la sesión, debiéndose con ello levantar acta de sesión de cabildo y en el momento oportuno la Secretaría Municipal deberá recabar las firmas correspondientes.
+Las sesiones ordinarias y solemnes serán convocadas con al menos 48 horas de anticipación, las extraordinarias serán convocadas con al menos 24 horas de anticipación. En caso de emergencia o por situaciones extraordinarias; fortuito o de fuerza mayor, tanto nacional o estatal que afecten la salud pública, seguridad pública, protección civil y la estabilidad social, declarada o determinada por la autoridad competente, y por el tiempo que dure esta, podrán sesionar a distancia mediante el uso de las tecnologías de la información y comunicación o medios electrónicos disponibles, los miembros del Ayuntamiento serán convocados con la debida anticipación que corresponda a la sesión mediante correo electrónico, durante la sesión se deberá garantizar la correcta identificación de sus miembros, sus intervenciones, así como el sentido de la votación, para tales efectos la Secretaría del Ayuntamiento deberá además certificar la asistencia de cada uno de los integrantes del Ayuntamiento; para lo cual deberá guardarse una copia integra de la sesión, debiéndose con ello levantar acta de sesión de cabildo y en el momento oportuno la Secretaría Municipal deberá recabar las firmas correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2012)</small>
 
@@ -1447,7 +1447,9 @@ II.- Planear, programar, presupuestar, coordinar y evaluar el desempeño de las 
 
 III.- Presentar al Órgano Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública Municipal del año anterior a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos que se establezcan legalmente.
 
-IV.- Convocar y presidir con voz y voto de calidad las sesiones del Cabildo y ejecutar los acuerdos y decisiones del mismo;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2023)</small>
+
+IV.- Presidir con voz y voto de calidad las sesiones del Cabildo y ejecutar los acuerdos y decisiones del mismo;
 
 V.- Promulgar y publicar en la gaceta municipal o en el Periódico Oficial del Gobierno del Estado los Bandos de Policía y Gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, así como los planes y programas de desarrollo municipal; publicados que sean remitirlos a los Poderes del Estado y al Archivo General del Estado;
 
@@ -3503,9 +3505,9 @@ b) Relación de contratos de consultorías, arrendamientos, compra-venta, podere
 
 c) Relación de otros convenios, actos o hechos no señalados en los párrafos que anteceden de los cuales deriven o puedan derivar derechos u obligaciones;
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 2023)</small>
 
-d) Relación de reglamentos y otros ordenamientos legales vigentes, así como los manuales de procedimientos, de funciones y otros, y;
+d) Relación de Bando de Policía y Gobierno, Reglamentos municipales, Circulares y disposiciones administrativas de observancia general, así como los manuales administrativos y otros, y el contenido de los mismos;
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -4720,3 +4722,19 @@ P.O. 3 DE DICIEMBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor a partir del ejercicio fiscal siguiente al de su publicación.
+
+P.O. 7 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 758.- MEDIANTE EL CUAL SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 46 RECORRIENDOSE EL SUBSECUENTE; Y SE REFORMAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 46 Y LA FRACCIÓN IV DEL ARTÍCULO 68 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 759.- MEDIANTE EL CUAL SE REFORMA EL INCISO D) DE LA FRACCIÓN IV DEL ARTÍCULO 177 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
