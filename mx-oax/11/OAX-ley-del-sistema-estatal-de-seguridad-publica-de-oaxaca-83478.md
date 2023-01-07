@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2022-10-22"
+last_updated: "2023-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2023.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -1165,7 +1165,9 @@ IV. Cuidar que se inscriba de manera inmediata en el Registro Estatal de Informa
 
 V. Proponer la celebración de convenios o acuerdos de coordinación con otros Municipios, entidades federativas, el Distrito Federal, o la Federación, para el establecimiento y realización de operativos policiales conjuntos, con el objeto de eficientar el servicio de seguridad pública, observando las formalidades que establezcan las leyes aplicables;
 
-VI. Aplicar tecnologías avanzadas, equipos y procesos que eficiente el servicio de seguridad pública y la atención a la ciudadanía, acorde a sus capacidades presupuestales y con pleno respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 2023)</small>
+
+VI. Implementar, acorde a sus capacidades presupuestales y con pleno respeto a los derechos humanos, tecnologías avanzadas como son sistemas de videovigilancia activa, dentro de las instalaciones, separos o cárcel municipal, así como equipos y procesos que eficiente el servicio de seguridad pública y la atención a la ciudadanía.
 
 VII. Establecer un sistema municipal de información, acorde con los lineamientos del Sistema Estatal de Información sobre seguridad pública;
 
@@ -3550,3 +3552,13 @@ P.O. 22 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 760.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 55 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
