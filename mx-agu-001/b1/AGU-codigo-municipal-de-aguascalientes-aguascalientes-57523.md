@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2022-12-12"
+last_updated: "2023-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2023.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1295,41 +1295,37 @@ Departamento de Relaciones Públicas.
 
 Departamento de Giras y Eventos.
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014) (REPUBLICADA, P.O. 20 DE MARZO DE 2017)
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
 
 III.- OFICINA EJECUTIVA DEL PRESIDENTE MUNICIPAL
 
-> <small>(DEROGADO, P.O. 20 DE MARZO DE 2017)</small>
+Coordinación Administrativa
 
-Dirección de Vinculación y Convivencia Ciudadana.
+Coordinación Jurídica y de Transparencia
 
-Departamento de Vinculación.
+Dirección de Vinculación y Asuntos Nacionales e Internacionales
 
-Departamento de Asuntos Religiosos.
+Departamento de Asuntos Nacionales e Internacionales
 
-Dirección de Estrategia Institucional.
+Departamento de Vinculación con Asociaciones Civiles
 
-Departamento de Gestión de Proyectos.
+Departamento de Vinculación con Asociaciones Religiosas
 
-Departamento de Evaluación de Desempeño
+Dirección de Proyectos Especiales
 
-Dirección de Coordinación de Gabinetes
+Departamento de Proyectos Especiales
 
-Departamento de Programación y Estudios de Opinión
+Dirección de Gabinetes Temáticos
 
 Departamento de Seguimiento de Gabinetes Temáticos
 
-Dirección de Políticas Financieras.
+Departamento de Seguimiento y Evaluación de Indicadores
 
-Dirección de Estrategia y Análisis Político
+Dirección de Análisis Político
 
-Departamento de Análisis Político
+Departamento de Encuestas de Opinión
 
-Departamento de Estrategia e Información
-
-Dirección de Cooperación, Financiamiento y Asuntos Internacionales.
-
-Departamento de Enlace Internacional.
+Departamento de Análisis de Información
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE FEBRERO DE 2018)</small>
 
@@ -1611,69 +1607,67 @@ Departamento de Conservación y Mantenimiento.
 
 Coordinación General de Obras Públicas
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
 
 XII.- SECRETARÍA DE ADMINISTRACIÓN
 
-Coordinación Administrativa.
+Dirección de Administración y Servicios.
+
+Departamento Administrativo.
+
+Departamento de Mantenimiento e Intendencia.
+
+Departamento de Taller Gráfico.
 
 Dirección Jurídica.
 
-Departamento Jurídico de Recursos Humanos y Recursos Materiales.
+Departamento Jurídico de Capital Humano y Recursos Materiales.
 
-Dirección de Recursos Humanos.
+Departamento de Archivo General Municipal.
 
-Departamento de Remuneración al Personal.
+Departamento de Asesoría Jurídica y Regulación Municipal.
 
-Departamento de Desarrollo de Personal.
+Dirección de Capital Humano.
+
+Departamento de Capital Humano y Remuneración.
+
+Departamento de Evaluación y Capacitación al Personal.
 
 Departamento de Servicios Médicos y Seguridad e Higiene.
 
 Dirección de Recursos Materiales.
 
-Departamento de Archivo General Municipal.
+Departamento de Compras.
+
+Departamento de Procedimientos y Contrataciones.
 
 Departamento de Control Patrimonial.
 
-Departamento de Taller Gráfico.
-
-Departamento de Compras.
-
-Dirección de Servicios Generales.
-
-Departamento de Mantenimiento.
-
-Departamento de Intendencia.
+Dirección de Mantenimiento Vehicular.
 
 Departamento de Mantenimiento y Reparación de Vehículos.
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE MARZO DE 2017) (F. DE E. P.O. 24 DE ABRIL DE 2017)
-
-Coordinación General de Gobierno Digital
-
-> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
-
 Dirección de Tecnologías de la Información y Comunicación.
-
-> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
 
 Departamento de Servicios e Infraestructura.
 
-> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
-
 Departamento de Soporte Técnico.
-
-> <small>(F. DE E. P.O. 24 DE ABRIL DE 2017)</small>
 
 Departamento de Desarrollo.
 
-Dirección de Desarrollo Organizacional y Eficiencia Presupuestal.
+Departamento de Sistemas Financieros.
 
-Departamento de Desarrollo Organizacional y Procesos.
+Dirección de Calidad y Mejora Regulatoria.
 
-Departamento de Auditoría, Mejora Continua y Normatividad.
+Departamento de Mejora Regulatoria y Desarrollo Organizacional.
 
-Departamento de Seguimiento y Eficiencia Presupuestal.
+Departamento de Auditoría, Mejora Continua y Procesos.
+
+Dirección del Centro de Atención Municipal (CAM).
+
+Departamento del Centro de Contacto Digital 072.
+
+Departamento de Operación y Mantenimiento.
 
 > <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA]</small>
 
@@ -2745,11 +2739,17 @@ XIX. Cuidar de los recursos que por cualquier concepto ingresen al Municipio, ya
 
 XX. Establecer los mecanismos de difusión para que las dependencias conozcan los procedimientos y mecanismos emitidos por la Secretaría de Finanzas Públicas;
 
-XXI. Elaborar el proyecto de presupuesto de egresos sobre la base de las propuestas del Instituto Municipal de Planeación en materia de presupuestación programática y las propuestas de las demás dependencias y entidades del Municipio, considerando la estimación de los ingresos del siguiente ejercicio fiscal, y en estricto apego a los principios de la normatividad vigente en materia de contabilidad gubernamental, disciplina financiera y transparencia gubernamental y demás disposiciones vigentes en la materia;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
 
-XXII. Consolidar el presupuesto basado en Resultados, y en su caso proponer, en coordinación con el Instituto Municipal de Planeación, iniciativas de presupuesto base cero o multianuales, que respondan a las necesidades de la planeación y desarrollo del Municipio;
+XXI. Elaborar el proyecto de presupuesto de egresos sobre la base de las propuestas del Instituto Municipal de Planeación y Evaluación en materia de presupuestación programática y las propuestas de las demás dependencias y entidades del Municipio, considerando la estimación de los ingresos del siguiente ejercicio fiscal, y en estricto apego a los principios de la normatividad vigente en materia de contabilidad gubernamental, disciplina financiera y transparencia gubernamental y demás disposiciones vigentes en la materia;
 
-XXIII. Elaborar anualmente, en conjunto con la Secretaría de Administración, la clasificación administrativa y con el Instituto Municipal de Planeación, la clasificación programática del gasto público por dependencia;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
+
+XXII. Consolidar el presupuesto basado en Resultados, y en su caso proponer, en coordinación con el Instituto Municipal de Planeación y Evaluación, iniciativas de presupuesto base cero o multianuales, que respondan a las necesidades de la planeación y desarrollo del Municipio;
+
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
+
+XXIII. Elaborar anualmente, en conjunto con la Secretaría de Administración, la clasificación administrativa y con el Instituto Municipal de Planeación y Evaluación, la clasificación programática del gasto público por dependencia;
 
 XXIV. Revisar los anteproyectos del presupuesto de egresos de cada una de las dependencias municipales proponiendo aumentos o disminuciones a sus asignaciones, considerando los planes, programas y proyectos municipales y en estricto apego a los principios de la normatividad vigente en materia de contabilidad gubernamental, disciplina financiera y transparencia gubernamental, respetando la facultad de cada dependencia de elaborar el anteproyecto del presupuesto de egresos;
 
@@ -2757,7 +2757,15 @@ XXV. Realizar ajustes a los anteproyectos de presupuesto de egresos de las depen
 
 XXVI. Planear y controlar el flujo de efectivo, a fin de asegurar la congruencia entre los ingresos y los egresos que tenga el Municipio, así como diseñar, elaborar, desarrollar y ejecutar la estrategia para el logro de las finanzas sanas;
 
-XXVII. Llevar a cabo inspecciones y valuaciones de los predios que conforman el Catastro Municipal, para mantener actualizados los archivos, el padrón de contribuyentes, así como de aquellos predios que la ley señala como exentos de pago;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2023)</small>
+
+XXVII. Llevar a cabo inspecciones y valuaciones de los predios que conforman el Catastro Municipal, para mantener actualizados los archivos, el padrón de contribuyentes, así como de aquellos predios que la ley señala como exentos de pago.
+
+En el caso de que con posterioridad al inicio del ejercicio fiscal se advierta un incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz con motivo de traslados de dominio, subdivisiones, fusiones, ampliaciones de construcción, manifestaciones de predio o cualquier otra razón, la Secretaría de Finanzas Públicas, para determinar dicho aumento en el impuesto podrá reconsiderar la base gravable conforme al artículo 44 de la Ley de Hacienda del Municipio de Aguascalientes, Aguascalientes. En su caso, la actualización deberá ser informada al Instituto Catastral del Estado o análogo en términos de ley.
+
+Para efectos del párrafo anterior, tratándose de ampliaciones de construcción, la Secretaría de Finanzas Públicas considerará las licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que le proporcione la Secretaría de Desarrollo Urbano.
+
+Respecto a los predios que por causas imputables al sujeto del impuesto a la propiedad raíz, hayan permanecido ocultos a la acción fiscal de la autoridad o que hubieran estado tributando sobre un valor catastral inferior al que les corresponda en los términos de la ley, deberán tributar sobre la base del valor que la autoridad catastral estatal o la Secretaría de Finanzas Públicas determine, conforme a lo previsto en el artículo 44 párrafo cuarto de la Ley de Hacienda del Municipio de Aguascalientes, Aguascalientes;
 
 XXVIII. Realizar inspecciones para verificar la transparencia en la recaudación de los ingresos y de los procesos de egresos;
 
@@ -3207,9 +3215,13 @@ XLI. Elaborar, controlar y mantener actualizado el inventario del patrimonio inm
 
 XLII. Llevar a cabo el levantamiento físico del inventario de los bienes inmuebles de conformidad con la normatividad en la materia.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2023)</small>
 
-XLIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XLIII. Proporcionar a la Secretaría de Finanzas Públicas, licencias de construcción, constancias de terminación de obra o cualquier otro documento o información que obre en sus archivos, donde se advierta el incremento en el valor de un inmueble por el que se deba aumentar el cobro del impuesto a la propiedad raíz, así como auxiliar a dicha Secretaría para la ejecución de lo previsto en el artículo 108 fracción XXVII de este Código.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2023)</small>
+
+XLIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -24640,3 +24652,61 @@ SEGUNDO. Al momento de la aprobación de la presente reforma por parte del Honor
 TERCERO. La Secretaría de Administración llevará a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados.
 
 CUARTO. Quedan sin efecto todas aquellas disposiciones jurídicas del ámbito Municipal que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 98 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+PRIMERO: La presente reforma iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Al momento de la publicación de la presente reforma en el Periódico Oficial del Estado de Aguascalientes; el Presidente Municipal de Aguascalientes deberá expedir el nombramiento respectivo a la persona que ocupara el cargo de la Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento Jurídico de Capital Humano y Recursos Materiales; Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Procedimientos y Contrataciones, Dirección de Mantenimiento Vehicular, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, lo que se deberá realizar dentro de los siguientes treinta días hábiles.
+
+Una vez designada a la persona que ocupara el cargo de la Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento Jurídico de Capital Humano y Recursos Materiales; Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Procedimientos y Contrataciones, Dirección de Mantenimiento Vehicular, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, se deberán realizar los trámites respectivos para transferir a dichas Unidades Administrativas, los recursos humanos, financieros y materiales correspondientes para su funcionamiento.
+
+TERCERO: Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior COORDINACIÓN ADMINISTRATIVA, se entenderán hechas o conferidas a la actual DIRECCIÓN DE ADMINISTRACIÓN Y SERVICIOS.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO DE MANTENIMIENTO Y AL DEPARTAMENTO DE INTENDENCIA, se entenderán hechas o conferidas al actual DEPARTAMENTO DE MANTENIMIENTO E INTENDENCIA.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior DIRECCIÓN DE RECURSOS HUMANOS, se entenderán hechas o conferidas a la actual DIRECCIÓN DE CAPITAL HUMANO.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO DE REMUNERACIÓN AL PERSONAL, se entenderán hechas o conferidas al actual DEPARTAMENTO DE CAPITAL HUMANO Y REMUNERACIÓN.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO DE DESARROLLO DE PERSONAL, se entenderán hechas o conferidas al actual DEPARTAMENTO DE EVALUACIÓN Y CAPACITACIÓN AL PERSONAL.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO JURÍDICO DE RECURSOS HUMANOS Y RECURSOS MATERIALES, se entenderán hechas o conferidas a la actual DEPARTAMENTO JURÍDICO DE CAPITAL HUMANO Y RECURSOS MATERIALES.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior DIRECCIÓN DE SERVICIOS GENERALES, se entenderán hechas o conferidas a la actual DIRECCIÓN DE MANTENIMIENTO VEHICULAR.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a la anterior DIRECCIÓN DESARROLLO ORGANIZACIONAL Y EFICIENCIA PRESUPUESTAL, se entenderán hechas o conferidas a la actual DIRECCIÓN DE CALIDAD Y MEJORA REGULATORIA.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO DE SEGUIMIENTO Y EFICIENCIA PRESUPUESTAL, se entenderán hechas o conferidas al actual DEPARTAMENTO DE MEJORA REGULATORIA Y DESARROLLO ORGANIZACIONAL.
+
+Las referencias que se hagan y las atribuciones que se otorgan en el Código Municipal de Aguascalientes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, al anterior DEPARTAMENTO DE AUDITORIA, MEJORA CONTINUA Y NORMATIVIDAD, se entenderán hechas o conferidas al actual DEPARTAMENTO DE AUDITORÍA, MEJORA CONTINUA Y PROCESOS.
+
+Se faculta a la persona que ocupara el cargo de la Dirección de Administración y Servicios, Departamento de Mantenimiento e Intendencia, Departamento Jurídico de Capital Humano y Recursos Materiales; Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, para firmar todos aquellos documentos y resoluciones que se originen con motivo de la substanciación de los tramites y procedimientos con antelación a la vigencia de la presente reforma.
+
+CUARTO: La Secretaría de Administración deberá realizar los trámites legales y administrativos correspondientes, con la finalidad de dar el debido cumplimiento a lo establecido en la presente reforma.
+
+QUINTO: La Secretaría de Finanzas Públicas Municipales y la Secretaría de Administración, deberán realizar todos aquellos trámites legales y administrativos que se susciten con motivo de la presente reforma.
+
+SEXTO: La Secretaría de Finanzas Públicas Municipales deberá prever y realizar las adecuaciones necesarias en la Ley de Ingresos del Municipio de Aguascalientes y en el Presupuesto de Egresos del Municipio de Aguascalientes para el ejercicio fiscal 2023, así como en los ejercicios fiscales subsecuentes; con el fin de que se encuentre conforme a la presente reforma.
+
+SÉPTIMO: El personal que sea transferido a la Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento de Taller Gráfico, Dirección Jurídica, Departamento Jurídico de Capital Humano y Recursos Materiales; Departamento de Archivo General Municipal, Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Servicios Médicos y Seguridad e Higiene, Dirección de Recursos Materiales, Departamento de Compras, Departamento de Procedimientos y Contrataciones, Departamento de Control Patrimonial, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Tecnologías de la Información y Comunicación, Departamento de Servicios e Infraestructura, Departamento de Soporte Técnico, Departamento de Desarrollo, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, conservarán los derechos laborales que hayan adquirido con anterioridad.
+
+OCTAVO: Se instruye a la Secretaría de Administración lleve a cabo todos los actos legales y administrativos que se susciten con motivo de las presentes reformas, salvaguardando los derechos laborales de todos los empleados; por lo que deberá de realizar el cambio de adscripción de todos y cada uno de los servidores públicos que sean transferidos a la Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento de Taller Gráfico, Dirección Jurídica, Departamento Jurídico de Capital Humano y Recursos Materiales, Departamento Jurídico de Recursos Humanos y Recursos Materiales, Departamento de Archivo General Municipal, Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Servicios Médicos y Seguridad e Higiene, Dirección de Recursos Materiales, Departamento de Compras, Departamento de Procedimientos y Contrataciones, Departamento de Control Patrimonial, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Tecnologías de la Información y Comunicación, Departamento de Servicios e Infraestructura, Departamento de Soporte Técnico, Departamento de Desarrollo, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, con la finalidad de que estos mismos de pendan presupuestalmente de dichas Unidades Administrativas.
+
+NOVENO: La Secretaría de Administración, deberá realizar la propuesta de adecuaciones presupuestales y administrativas que en su caso resulten y sean necesarias para su adecuado funcionamiento y dar debido cumplimiento a lo establecido en la presente reforma.
+
+DÉCIMO: La Secretaría de Finanzas y la Secretaría de Administración; deberán llevar a cabo todos los actos legales y administrativos a efecto de que la Secretaría de Administración, Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento de Taller Gráfico, Dirección Jurídica, Departamento Jurídico de Capital Humano y Recursos Materiales, Departamento de Archivo General Municipal, Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Servicios Médicos y Seguridad e Higiene, Dirección de Recursos Materiales, Departamento de Compras, Departamento de Procedimientos y Contrataciones, Departamento de Control Patrimonial, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Tecnologías de la Información y Comunicación, Departamento de Servicios e Infraestructura, Departamento de Soporte Técnico, Departamento de Desarrollo, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, cuenten con sus respectivas claves programáticas, presupuestos correspondientes y demás trámites legales y administrativos que se susciten con motivo de las presentes reformas.
+
+DÉCIMO PRIMERO: La Secretaría de Finanzas Públicas, deberá realizar los actos legales y administrativos correspondientes, a efecto de que la Secretaría de Administración, Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento de Taller Gráfico, Dirección Jurídica, Departamento Jurídico de Capital Humano y Recursos Materiales, Departamento de Archivo General Municipal, Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Servicios Médicos y Seguridad e Higiene, Dirección de Recursos Materiales, Departamento de Compras, Departamento de Procedimientos y Contrataciones, Departamento de Control Patrimonial, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Tecnologías de la Información y Comunicación, Departamento de Servicios e Infraestructura, Departamento de Soporte Técnico, Departamento de Desarrollo, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, cuenten con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+DÉCIMO SEGUNDO: Para el ejercicio fiscal 2023, la Secretaría de Finanzas Públicas, deberá de contemplar el impacto presupuestal en el proyecto de egresos para el ejercicio fiscal 2023 a la Secretaría de Administración, Dirección de Administración y Servicios, Departamento Administrativo, Departamento de Mantenimiento e Intendencia, Departamento de Taller Gráfico, Dirección Jurídica, Departamento Jurídico de Capital Humano y Recursos Materiales; Departamento de Archivo General Municipal, Departamento de Asesoría Jurídica y Regulación Municipal, Dirección de Capital Humano, Departamento de Capital Humano y Remuneración, Departamento de Evaluación y Capacitación al Personal, Departamento de Servicios Médicos y Seguridad e Higiene, Dirección de Recursos Materiales, Departamento de Compras, Departamento de Procedimientos y Contrataciones, Departamento de Control Patrimonial, Dirección de Mantenimiento Vehicular, Departamento de Mantenimiento y Reparación de Vehículos, Dirección de Tecnologías de la Información y Comunicación, Departamento de Servicios e Infraestructura, Departamento de Soporte Técnico, Departamento de Desarrollo, Departamento de Sistemas Financieros, Dirección de Calidad y Mejora Regulatoria, Departamento de Mejora Regulatoria y Desarrollo Organizacional, Departamento de Auditoría, Mejora Continua y Procesos, Dirección del Centro de Atención Municipal (CAM), Departamento del Centro de Contacto Digital 072 y el Departamento de Operación y Mantenimiento, a efecto de que estas mismas cuenten con el presupuesto necesario y correspondiente para el pago de nóminas, aguinaldos, adquisición de bienes y servicios, arrendamientos, gasto fijo y corriente, así como todas y cada una de las erogaciones correspondientes.
+
+DECIMO TERCERO: La Secretaría de Administración, dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente reforma, deberá enviar a las Comisiones correspondientes, las reformas, reglamentos, lineamientos generales, manuales de organización y de procedimientos necesarios y correspondientes con el fin de que se encuentre conforme a la presente reforma y para su aprobación por el H. Ayuntamiento Constitucional del Municipio de Aguascalientes.
+
+P.O. 9 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES A LOS ARTÍCULOS 108 Y 112 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
