@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-interno-del-instituto-para-el-desarrollo-de-la-139336"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-10-07"
-last_updated: "2019-10-07"
+last_updated: "2023-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 9 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2023 (ABROGADO).
 
 Estatuto publicado en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de octubre de 2019.
 
@@ -1540,3 +1542,29 @@ DIRECTOR GENERAL DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENT
 C.P. CLAUDIA ANGÉLICA SALDÍVAR SOTO
 
 DIRECTORA ADMINISTRATIVA DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO INTERNO DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Interno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Estado (sic) de Aguascalientes, publicado el día 07 de octubre de 2019 en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Estatuto Interno.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena publicar el presente Estatuto Interno del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+La Junta de Gobierno del Organismo Público Descentralizado en cuestión deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al referido Organismo, con motivo de la entrada en vigor del presente Estatuto.
