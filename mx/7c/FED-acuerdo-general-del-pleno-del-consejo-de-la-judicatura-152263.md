@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2022-12-19"
+last_updated: "2023-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ENERO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -535,6 +535,10 @@ Factores generales de evaluación. Los factores generales de evaluación son aqu
 
 Por regla general, bajo este rubro sólo podrán preverse los programas académicos tomados o impartidos en la Escuela Judicial, incluyendo la participación en los programas de tutorías de los concursos escolarizados o las publicaciones realizadas en la Escuela Judicial, así como otros programas académicos cuyo contenido redunde en beneficio de la formación jurisdiccional. Los programas específicos que se tomen en cuenta y el valor que les corresponda será definido en la convocatoria correspondiente atendiendo a las funciones inherentes a la categoría de Carrera Judicial a concursar.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+De igual forma, se considerará como factores generales de evaluación los cargos desempeñados a partir de la designación realizada de conformidad con lo previsto en los últimos párrafos del artículo 57 del presente Acuerdo. Así como los desempeñados en términos del último párrafo del artículo 58 de este Acuerdo.
+
 ###### Artículo 35.
 
 Comisiones. Por acuerdo del Pleno las personas vencedoras de los concursos de oposición para Titulares podrán permanecer en el lugar de su adscripción hasta en tanto se determine su nueva adscripción o, en su defecto, podrán ser comisionadas en proyectos del Poder Judicial de la Federación.
@@ -637,6 +641,10 @@ La Escuela Judicial diseñará el plan de estudios para los cursos de formación
 
 En estos concursos no habrá Jurado ni Comité Técnico. Para su evaluación final, la Escuela Judicial podrá apoyarse en las extensiones regionales o en las personas que estime pertinentes.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+Las personas que hayan ocupado el cargo de actuario o actuaria u oficial judicial por designación realizada en términos de los últimos párrafos del artículo 57 del presente Acuerdo, serán admitidas directamente al curso de formación, sin necesidad de realizar el examen de admisión. Lo mismo operará para las personas que hayan ocupado dichos cargos en función de lo indicado en el último párrafo del artículo 58 de este Acuerdo.
+
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LOS CONCURSOS DE OPOSICIÓN; Y LA SOLICITUD DE REVISIÓN ANTE LA ESCUELA FEDERAL DE FORMACIÓN JUDICIAL, D.O.F. 6 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 46.
@@ -646,6 +654,10 @@ Convocatoria de los concursos de oposición escolarizados para personas secretar
 ###### Artículo 47.
 
 Concursos de oposición escolarizados para Actuarias y Actuarios. Los concursos de oposición para la categoría de Actuarias y Actuarios serán escolarizados e internos, y se llevarán a cabo bajo las reglas establecidas en el artículo 45 del presente Acuerdo, salvo que los cursos de formación podrán ser impartidos mediante un esquema virtual de sesiones a distancia con apoyo de material escrito o de forma presencial, según se establezca en la convocatoria respectiva.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+Las personas que hayan ocupado el cargo de oficial judicial por designación realizada en términos de los últimos párrafos del artículo 57 del presente Acuerdo, serán admitidas directamente al curso de formación, sin necesidad de realizar el examen de admisión. Lo mismo operará para las personas que hayan ocupado dicho cargo en función de lo indicado en el último párrafo del artículo 58 de este Acuerdo.
 
 ###### Artículo 48.
 
@@ -781,9 +793,17 @@ Para la categoría de Secretaria o Secretario de Tribunal de Circuito, de Pleno 
 
 Las y los Titulares deberán nombrar a las personas que cubrirán las vacantes dentro de un plazo de 30 días naturales a partir de que se generen, notificando de ello a Recursos Humanos mediante el sistema electrónico creado para esos efectos, en un plazo no mayor a tres días hábiles a partir de que se realice el nombramiento. En caso de que las y los Titulares no llegaren a nombrar a las personas que cubrirán la vacante, salvo que exista causa justificada, la Comisión de Administración hará la designación respectiva en estricto apego al orden establecido en las listas referidas, respetando la integración paritaria del órgano y de ser posible, tomando en consideración las ciudades o circuitos de preferencia indicados por las personas vencedoras.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+Cuando en las listas no existan personas que hayan seleccionado la ciudad o circuito en el que se encuentren las vacantes, la Comisión de Administración tendrá la facultad de nombrar a las personas que figuren en las listas, procurando que sean las que hayan elegido ciudades o circuitos más próximos geográficamente a donde se encuentra la vacante.
+
 ###### Artículo 58.
 
 Elección de circuito y ciudad de preferencia de las personas vencedoras en concursos con acceso al sistema de listas. Para la inclusión de su nombre a las listas a las que refiere el presente Capítulo, las personas vencedoras de los concursos de oposición deberán indicar el circuito y la ciudad de su preferencia para ser adscritas.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+La elección de un circuito y ciudad que la Escuela Judicial haya determinado con bajo número de personas habilitadas y la designación en el cargo correspondiente en dicha residencia, se considerará como factor general de evaluación y, de ser el caso, se les exentará de presentar el examen de admisión a los concursos de oposición escolarizados para las categorías de actuaría y secretaría.
 
 ###### Artículo 59.
 
@@ -856,6 +876,18 @@ En el supuesto de que la plaza temporal se vuelva definitiva, quien se encuentre
 Régimen de movilidad de funcionarios y funcionarias de Carrera Judicial. La persona que concluya su nombramiento de base o de 6 meses continuos en cualquier categoría de la Carrera Judicial tendrá un plazo ininterrumpido de 18 meses, a partir de que se generó su baja del cargo, para ocupar una plaza en la misma categoría en otro órgano jurisdiccional sin necesidad de volver a ingresar al sistema de listas, siempre y cuando la baja no derive de una sanción por cese o responsabilidad administrativa o de cualquier otro tipo. De obtener un nuevo nombramiento de base y volver a causar baja, volverá a contar de nuevo el plazo de 18 meses para ocupar una plaza en la misma categoría en otro órgano jurisdiccional.
 
 El citado régimen de movilidad permitirá a las personas que hayan concluido su nombramiento de 6 meses continuos en alguno de los cargos señalados en las fracciones III, IV, VI, VII y VIII del artículo 8 de este Acuerdo ocupar cualquiera de dichas categorías, indistintamente, de conformidad con las reglas del párrafo anterior.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+De igual forma, permitirá a las personas que hayan tenido cargos en el Consejo de la Judicatura Federal con funciones materialmente jurisdiccionales ocupar cualquiera de las categorías referidas en el párrafo anterior, siempre que además cumplan con los requisitos previstos en la normativa aplicable para ocupar el cargo correspondiente.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+Se entiende que realizaron funciones materialmente jurisdiccionales quienes hayan ocupado algún cargo de rango 11 o superior, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, en los órganos auxiliares, comisiones o unidades administrativas del Consejo.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES, D.O.F. 9 DE ENERO DE 2023)</small>
+
+Las personas que hayan ocupado cargos de mandos medios u homólogos a mandos medios que se encuentren entre el rango 21 y 12, de conformidad con el Manual General de Puestos del Consejo de la Judicatura Federal, deberán acreditar que realizaban labores materialmente jurisdiccionales. Para ello, bastará con la certificación que para tal efecto emita la persona titular correspondiente.
 
 Transcurrido el periodo de 18 meses sin que la persona logre volver a adscribirse a algún órgano jurisdiccional, únicamente podrá ingresar a las listas correspondientes en caso de resultar vencedora en un nuevo concurso de oposición.
 
@@ -2548,3 +2580,11 @@ D.O.F. 19 DE DICIEMBRE DE 2022.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 9 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL, EN RELACIÓN CON LA DESIGNACIÓN DE PERSONAL Y LA APLICACIÓN DEL RÉGIMEN DE MOVILIDAD PARA LOS CARGOS DEL CONSEJO DE LA JUDICATURA FEDERAL CON ACTIVIDADES MATERIALMENTE JURISDICCIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
