@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2022-11-08"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -2199,7 +2199,9 @@ VIII. Un representante de la Confederación de Trabajadores de México;
 
 IX. Un representante de la Confederación Patronal de la República Mexicana; y
 
-X. Un representante del Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2023)</small>
+
+X. Un representante del Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara.
 
 2. Será invitado permanente una persona representante de la Contraloría del Estado quien tendrá sólo derecho a voz, pero sin voto y su presencia no computará para quórum.
 
@@ -2388,3 +2390,9 @@ P.O. 8 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 28840/LXIII/22 QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 55 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
+
+P.O. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29118/LXIII/22 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 146 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
