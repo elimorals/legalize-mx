@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2022-01-04"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -87,11 +87,17 @@ Se considerará consumada esta conducta si la víctima es menor de 18 años de e
 
 IV. Maltrato económico: Es toda acción u omisión dolosa del pago de los gastos generados por la familia, para la manutención de las necesidades básicas de subsistencia, o bien cubrir sólo parte de éstas, sin causa fundada para ello. Al efecto, se entienden como necesidades básicas de subsistencia los alimentos, el vestido, los gastos de habitación, de educación, de salud y de diversión;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2023)</small>
 
-V. Abandono: Es la situación de desamparo que se genera en un menor, una persona con discapacidad o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes; y
+V. Abandono: Es la situación de desamparo que se genera en un menor, una persona con discapacidad o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes;
 
-VI. Negligencia: Es la omisión de cuidado o supervisión esenciales para la vida y el adecuado desarrollo psicológico y social de una persona.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2023)</small>
+
+VI. Negligencia: Es la omisión de cuidado o supervisión esenciales para la vida y el adecuado desarrollo psicológico y social de una persona; y
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2023)</small>
+
+VII. Violencia Vicaria: Es la utilización que hace por sí mismo o por interpósita persona, el padre, ex esposo, ex pareja, o quien haya tenido una relación sentimental o sexual con la madre, utilizando a los hijos y las hijas para causar daño, dolor, angustia o cualquier tipo de afectación a la madre.
 
 ###### Artículo 4.
 
@@ -570,6 +576,14 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 4 DE ENERO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No.65-92 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO 5 AL ARTÍCULO 5; UN CAPÍTULO V BIS DENOMINADO “DE LOS SERVIDORES PÚBLICOS” Y LOS ARTÍCULOS 23 BIS Y 23 TER, DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-428 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
