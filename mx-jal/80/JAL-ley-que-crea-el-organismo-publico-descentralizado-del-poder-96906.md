@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-descentralizado-del-poder-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2019-10-12"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO, DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
 
 Ley publicada en la sección X del Periódico Oficial del Estado de Jalisco, el martes 24 de diciembre de 2013.
 
@@ -277,9 +279,11 @@ IV. Ejecutar y dar trámite a todos los asuntos que le sean encomendados por la 
 
 V. Las demás atribuciones que se deriven de la presente ley, el Reglamento Interno o que le encomiende la Junta de Gobierno.
 
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2023)</small>
+
 ###### Artículo 13.
 
-Corresponde al titular del Poder Ejecutivo del Estado designar y remover al Director General del Organismo. Será requisito que la persona designada cuente con cinco años de experiencia y trayectoria reconocida en la materia.
+Corresponde al titular del Poder Ejecutivo del Estado designar y remover al Director General del Organismo. Será requisito que la persona designada cuente con título profesional en materias afines al objeto del organismo, cinco años de experiencia comprobable y trayectoria reconocida en la materia.
 
 ###### Artículo 14.
 
@@ -616,3 +620,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27369/LXII/19 MEDIANTE EL CUAL SE REFORMA EL INCISO H) DE LA FRACCIÓN III DEL ARTÍCULO 6°, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29117/LXIII/22 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 13 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA Y ALCANTARILLADO DEL ESTADO DE JALISCO”.]
+
+Único.- El presente decreto surtirá sus efectos a partir del 6 de diciembre de 2024.
