@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2022-11-18"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -344,6 +344,12 @@ XXII. Imponer sanciones injustificadas o abusivas, impidiendo o restringiendo el
 XXIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral y de responsabilidades administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2023)</small>
+
+###### Artículo 8 Sexies.
+
+Violencia Vicaria es la utilización que hace por sí mismo o por interpósita persona, el padre, ex esposo, ex pareja, o quien haya tenido una relación sentimental o sexual con la madre, utilizando a los hijos y las hijas para causar daño, dolor, angustia o cualquier tipo de afectación a la madre.
 
 ### Capítulo III. De las Órdenes de Protección
 
@@ -1542,6 +1548,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-418 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO ÚNICO Y LOS INCISOS A), B), C), D) Y E); Y SE ADICIONAN LOS INCISOS F), G), H), I) Y J) AL ARTÍCULO 2 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-428 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS Y DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
