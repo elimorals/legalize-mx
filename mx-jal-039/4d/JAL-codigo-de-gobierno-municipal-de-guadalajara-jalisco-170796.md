@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2022-12-21"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 10 DE ENERO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -607,6 +607,10 @@ El Ayuntamiento puede celebrar sesiones ordinarias, extraordinarias y solemnes, 
 
 En caso de considerarse necesario el Ayuntamiento puede declararse en sesión permanente, cuando a juicio de sus integrantes el asunto o asuntos de que se ocupa, exigen la prolongación de la misma.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 10 DE ENERO DE 2023)</small>
+
+El Ayuntamiento puede, sesionar a distancia en casos fortuitos o de fuerza mayor, en términos de lo dispuesto por los artículos 33 Bis, 33 Ter y 33 Quáter de la Ley.
+
 ###### Artículo 54.
 
 Además de lo previsto en el artículo 29 fracción II de la Ley, las sesiones extraordinarias también se realizan para aprobar modificaciones al Presupuesto de Egresos.
@@ -1164,6 +1168,20 @@ Cuando la Presidenta o el Presidente Municipal encomiende a las comisiones la re
 Las y los asistentes a las sesiones deben acatar las disposiciones de orden emitidas por las presidentas o presidentes de las comisiones.
 
 Debe procurarse que las sesiones sean difundidas con personal que utilice la lengua de señas mexicana, siempre que sea anunciada la participación de personas con discapacidad auditiva o de lenguaje al menos con veinticuatro horas de anticipación.
+
+> <small>(ADICIONADO, G.M. 10 DE ENERO DE 2023)</small>
+
+###### Artículo 105 Bis.
+
+Las comisiones pueden sesionar a distancia, en casos fortuitos o de fuerza mayor, en los términos de lo dispuesto por el artículo 33 Quinquies de la Ley.
+
+La Presidenta o Presidente de Comisión podrá convocar a sesiones, cuando menos con 24 horas de anticipación a través del correo electrónico oficial de cada integrante de comisión, adjuntando orden del día y los documentos anexos a discutir.
+
+En caso de que las Presidentas o Presidentes de Comisión se nieguen a convocar a sesión a distancia se entenderá que se convocó a sesión y se celebrará sesión a distancia pasadas 48 horas de la entrega a la Presidenta o Presidente de Comisión de la solicitud de la mayoría de los integrantes.
+
+La asistencia y votación de los asuntos tratados en las sesiones a distancia, será tomada nominalmente y cualquier integrante puede solicitar a la Presidenta o Presidente de Comisión el nombre y el sentido de su voto.
+
+La validez de los dictámenes aprobados en una sesión a distancia se acredita además de lo señalado en la Ley con el archivo digital registrado de la sesión a distancia. La Coordinación General de Análisis Estratégico y Comunicación en coordinación con la Secretaría General, de conformidad con sus atribuciones, dispondrán lo necesario para realizar la grabación de audio y video que soporte el desarrollo de las comisiones.
 
 ### Capítulo II. Comisiones Edilicias Permanentes
 
@@ -8220,3 +8238,13 @@ Tercero. Se instruye a la Coordinación General de Análisis Estratégico y Comu
 Cuarto. La información a que se refiere el artículo 11 Bis del Reglamento de Contratación y Ejecución de la Obra Pública y Servicios Relacionados con la Misma del Municipio de Guadalajara deberá considerar el histórico de al menos dos periodos de gobierno municipal y comenzará con aquella que se genere a partir de la entrada en vigor de la presente reforma.
 
 Quinto. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA".]
+
+Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Municipal de Guadalajara.
+
+Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
