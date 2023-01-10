@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-12-22"
+last_updated: "2023-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2023.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1068,6 +1068,10 @@ c) Las asociaciones religiosas debidamente registradas ante la Secretaría de Go
 d). Las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes, y las federales por cooperación; y
 
 e) Clubes de servicio.
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2023)</small>
+
+III. Las erogaciones que efectúen las personas físicas titulares de un máximo de 2 concesiones individuales del servicio público de transporte de personas, sean en el mismo o en diferentes servicios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4234,3 +4238,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se instruye a la Fiscalía General de Justicia del Estado y a la Secretaría de Finanzas, para que lleven a cabo los procedimientos correspondientes a efecto de realizar las adecuaciones normativas y presupuestarias a las que haya lugar, en un plazo no mayor a 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+P.O. 10 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-421 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN III AL ARTÍCULO 52 DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
