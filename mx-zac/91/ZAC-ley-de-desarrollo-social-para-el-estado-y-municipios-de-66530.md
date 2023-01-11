@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2021-10-16"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -583,9 +583,17 @@ VII. Los programas de vivienda;
 
 VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía;
 
-IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano, y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
 
-X. Los programas para la protección del ambiente y la preservación de los recursos naturales.
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano;
+
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+
+X. Los programas para la protección del ambiente, la preservación de los recursos naturales y aquellos que otorguen insumos que generen un impacto ambiental positivo, y
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2023)</small>
+
+XI. El fomento del sector social de la economía y de la economía familiar.
 
 ## TÍTULO SEXTO. DE LA DIFUSIÓN DE LOS PROGRAMAS DE DESARROLLO SOCIAL
 
@@ -713,9 +721,11 @@ VI. En general, de todas las formas de organización social para la producción,
 
 ### Capítulo III. De los Fondos de Contingencia Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ENERO DE 2023)</small>
+
 ###### Artículo 44.
 
-En el presupuesto de egresos del Estado y en los presupuestos de los Municipios, se podrán constituir Fondos de Contingencia Social, en los que se contendrán previsiones para garantizar que los recursos sean utilizados como respuesta a fenómenos naturales, económicos y presupuestales imprevistos.
+En el presupuesto de egresos del Estado y en los presupuestos de los Municipios, se podrán constituir Fondos de Contingencia Social, en los que se contendrán previsiones para garantizar que los recursos sean utilizados como respuesta a fenómenos naturales, económicos, de salud y presupuestales imprevistos.
 
 Los recursos del Fondo en ningún caso podrán ser destinados a fines distintos al desarrollo social.
 
@@ -1310,3 +1320,9 @@ P.O. 16 DE OCTUBRE DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 148.- REFORMAS Y ADICIONES A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial Órgano de Gobierno del Estado.
