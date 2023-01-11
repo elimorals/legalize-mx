@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-de-los-servidores-publicos-del-izai-137181"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-12"
-last_updated: "2019-06-12"
+last_updated: "2023-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL IZAI, ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE ÉTICA DEL INSTITUTO ZACATECANO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ZACATECANO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES-IZAI
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023 (ABROGADO).
 
 Código publicado en el Suplemento al Núm. 47 del Periódico Oficial del Estado de Zacatecas, el miércoles 12 de junio de 2019.
 
@@ -647,3 +649,15 @@ Artículo Primero. El presente Código de Ética entrará en vigor al día sigui
 Artículo Segundo. Se deroga el Código de Ética, publicado en el suplemento Número 64 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, correspondiente al día 11 de Agosto del 2018.
 
 En cumplimiento a lo previsto por el artículo 16, párrafo primero de la Ley General de Responsabilidades Administrativas, se expide el presente Código para su debida aplicación y observancia, en la ciudad de Zacatecas, Zacatecas. Titular del Órgano Interno de Control del Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales.- Lic. Jesús Octavio Macías Zamarripa. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO ZACATECANO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. A la entrada en vigor del presente Código, queda abrogada cualquier normatividad relacionada que se haya expedido con anterioridad. Se abroga por tanto el Código de Ética emitido por el Lic. Jesús Octavio Macías Zamarripa, Titular del Órgano Interno de Control, publicado en el Periódico Oficial, Órgano de Difusión del Gobierno del Estado de Zacatecas con fecha del 12 de junio de 2019.
+
+SEGUNDO. Durante el mes de enero del año 2023 se realizará el procedimiento de selección de integrantes del Comité de Ética, establecido en el presente documento. En tanto, se mantendrá en funciones el actual Comité de Ética.
+
+TERCERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Difusión del Gobierno del Estado de Zacatecas.
