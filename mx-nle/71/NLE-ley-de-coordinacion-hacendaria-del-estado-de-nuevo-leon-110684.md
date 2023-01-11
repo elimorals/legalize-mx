@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-coordinacion-hacendaria-del-estado-de-nuevo-leon-110684"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-03"
-last_updated: "2018-12-31"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de diciembre de 2015.
 
@@ -313,6 +313,12 @@ Las cifras de recaudación del Impuesto Predial deberán ser enviadas por los Mu
 
 Para efectos de determinar la base gravable del impuesto predial de cada Municipio, se tomará la información de los expedientes catastrales que obran en el Instituto Registral y Catastral del Estado, respecto al ejercicio fiscal t-1. En caso contrario, se tomarán provisionalmente los datos más recientes de que disponga dicho Instituto.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
+
+###### Artículo 14 Bis.
+
+La autoridad que incumpla en la entrega de las participaciones y aportaciones federales que les corresponden a los Municipios, se actualizará la falta establecida en el artículo 57 de la Ley de Responsabilidades Administrativas del Estado de Nuevo León, misma que deberá ser investigada y sancionada por la Auditoría Superior del Estado; lo anterior con independencia de que se generen a favor de los Municipios los intereses a que haya lugar.
+
 ###### Artículo 15.
 
 Los Municipios cuando así corresponda, además de las Participaciones establecidas en el Artículo 14° de esta Ley, recibirán las referidas en el Artículo 2-A, fracciones I y II de la Ley de Coordinación Fiscal.
@@ -327,7 +333,9 @@ I.- El 50% en proporción a la recaudación del Impuesto Sobre Nóminas que dura
 
 II.- El 50% con base a lo establecido en la fracción I del artículo 14 de esta Ley.
 
-Los recursos señalados en este artículo serán ministrados en forma mensual, publicándose la información de manera trimestral en el Periódico Oficial del Estado, remitiendo trimestralmente dicha información al Congreso del Estado en forma impresa y en formato electrónico de texto modificable de base de datos, en el mes siguiente al del (sic) trimestre que corresponda. Así mismo dicha información deberá difundirse en el portal de Internet del Gobierno del Estado en forma mensual, en el mes siguiente al periodo a que corresponda.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
+Los recursos señalados en este artículo serán ministrados en forma mensual durante los primeros 5 días hábiles del mes, publicándose la información de manera trimestral en el Periódico Oficial del Estado, remitiendo trimestralmente dicha información al Congreso del Estado en forma impresa y en formato electrónico de texto modificable de base de datos, en el mes siguiente al del trimestre que corresponda. Así mismo dicha información deberá difundirse en el portal de Internet del Gobierno del Estado en forma mensual, en el mes siguiente al periodo a que corresponda.
 
 Los montos que reciban los Municipios por concepto de participación del Impuesto Sobre Nómina, se destinarán exclusivamente a programas, proyectos y acciones tendientes a garantizar la seguridad pública en el respectivo municipio.
 
@@ -335,17 +343,31 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Tesorería
 
 La programación de la distribución de los recursos a que se refiere el presente artículo en cuanto a los plazos, se deberá publicar en el Periódico Oficial del Estado a más tardar el último día hábil del mes de marzo de cada ejercicio.
 
-Estos recursos serán distribuidos durante los primeros quince días del mes posterior al mes en que se realice la recaudación.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
 
-De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 16 del mes posterior al mes en que se realice la recaudación el retraso dará lugar al pago de intereses, a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
+Estos recursos serán distribuidos durante los primeros 5 días hábiles del mes posterior al mes en que se realice la recaudación.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
+De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 6 del mes posterior al mes en que se realice la recaudación el retraso dará lugar al pago de intereses, a la tasa de recargos que en el Código Fiscal del Estado se establece para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
 
 ###### Artículo 17.
 
 El Ejecutivo del Estado participará a los Municipios de un 0.6 cuotas por concepto de los Derechos de Control Vehicular por cada vehículo que realice el pago según su domicilio registrado.
 
-Dicha participación se realizará mensualmente a los Municipios durante los primeros quince días posteriores al mes en que se recaude.
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
 
-De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 16 el retraso dará lugar al pago de intereses, a la tasa de recargos que se establece en el Código Fiscal del Estado para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
+Dicha participación se realizará mensualmente a los Municipios durante los primeros 5 días hábiles posteriores al mes en que se recaude.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
+De no efectuarse la entrega de estos recursos dentro del plazo referido, a partir del día 6 el retraso dará lugar al pago de intereses, a la tasa de recargos que se establece en el Código Fiscal del Estado para los casos de pagos a plazos de contribuciones, además de representar una causa de responsabilidad administrativa del funcionario que en forma injustificada retrase la entrega de dichos recursos.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
+
+###### Artículo 17 Bis.
+
+La autoridad que incumpla en la entrega de las participaciones estatales que les corresponden a los municipios, se actualizará la falta establecida en el artículo 57 de la Ley de Responsabilidades Administrativas del Estado de Nuevo León, misma que deberá ser investigada y sancionada por la Auditoría Superior del Estado; lo anterior con independencia de que se generen a favor de los municipios los intereses a que haya lugar.
 
 ### CAPÍTULO TERCERO. PREVENCIONES GENERALES DE LAS PARTICIPACIONES FEDERALES Y ESTATALES
 
@@ -407,6 +429,10 @@ De no efectuarse los depósitos dentro de los plazos antes señalados además de
 
 Dentro del mismo plazo de 5 días hábiles deberán de entregarse a los Municipios los recursos a los que tengan derecho, por participaciones que reciba el estado de la Federación.
 
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
+
+Es obligación de los Municipios abrir anualmente cuentas bancarias específicas y productivas para la ministración de recursos estatales y federales, así como informar a la Secretaría de Finanzas y Tesorería General del Estado dichas cuentas, las cuales deben ser informadas en un plazo no mayor a 5 días naturales de iniciado el ejercicio fiscal, mientras no realicen dicha notificación no podrán transferirse los recursos.
+
 ###### Artículo 22.
 
 Las Participaciones que conforme a esta Ley correspondan a los Municipios son inembargables y no estarán sujetas a retención o deducción alguna, ni podrán afectarse a fines específicos, salvo para el pago de obligaciones contraídas en los términos de lo dispuesto en el Artículo 9° de la Ley de Coordinación Fiscal.
@@ -432,6 +458,10 @@ Los recargos que se apliquen a favor de los Municipios por la falta de distribuc
 ###### Artículo 26.
 
 Las aportaciones estatales se componen de los recursos fiscales que el Ejecutivo a través de la Secretaría ministre a los Municipios con cargo a su Hacienda Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
+
+Cada año el Ejecutivo acompañará en el proyecto de Ley de Egresos la ministración de aportaciones estatales a los municipios, cuya observancia y cumplimiento será obligatoria para la autoridad ministradora.
 
 ### CAPITULO SEGUNDO. DEL FONDO DE DESARROLLO MUNICIPAL
 
@@ -720,3 +750,9 @@ Segundo.- A la entrada en vigor del presente Decreto, se derogan todas las dispo
 Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de 30 días hábiles a partir de la entrada en vigor del presente Decreto, para emitir las Reglas Generales a que se refieren los artículos 74, primer párrafo y 139, cuarto párrafo, del Código Fiscal del Estado.
 
 Cuarto.- Se prorroga por un año adicional el plazo para emitir las Reglas Generales a que se refiere el artículo Tercero Transitorio del Decreto Número 330, publicado en el Periódico Oficial del Estado el 29 de diciembre de 2017.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 249. SE REFORMAN LOS PÁRRAFOS SEGUNDO, SEXTO Y SÉPTIMO DEL ARTÍCULO 16, Y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 17; Y POR ADICIÓN DEL ARTÍCULO 14 BIS, ARTÍCULO 17 BIS, CUARTO PÁRRAFO AL ARTÍCULO 21 Y DE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 26, TODOS DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
