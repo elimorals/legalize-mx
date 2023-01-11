@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2021-10-06"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -425,11 +425,11 @@ II. Recibir de los órganos del Congreso, dentro del término señalado en este 
 
 III. Las demás que por sus funciones le corresponda conocer.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 37.
 
-Una vez constituida la Junta, el Presidente de la misma, invitará a los titulares de los poderes Ejecutivo y Judicial para que remitan sus propuestas que formen parte de la agenda legislativa, informándoles que estas se deberán entregar a más tardar el último día del mes de septiembre del primer año de ejercicio legislativo y que sus propuestas deberán comprender los tres años que dure la Legislatura.
-
-Una vez analizadas y discutidas las propuestas para la integración de la agenda legislativa señaladas en el párrafo que antecede, la Junta la presentará al pleno del Congreso el dictamen correspondiente para su aprobación.
+Una vez constituida la junta, el presidente de la misma, invitará a los titulares de los Poderes Ejecutivo y Judicial para que remitan sus propuestas que formen parte de la agenda legislativa, informándoles que estas se deberán entregar a más tardar el día 15 de noviembre del primer año de ejercicio legislativo, y que sus propuestas deberán comprender los tres años que dure la Legislatura.
 
 ### CAPÍTULO TERCERO. DE LA CONFERENCIA PARA LA DIRECCIÓN Y PROGRAMACIÓN DE LOS TRABAJOS LEGISLATIVOS
 
@@ -2270,3 +2270,15 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango que se oponga
 CUARTA. Se instruye al o la titular de la Secretaría de Administración y Finanzas del Congreso del Estado de Morelos, que realice todos los actos administrativos conducentes para la contratación del personal especializado y/o certificado en el Lenguaje de Señas Mexicanas.
 
 QUINTA. Se instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial "Tierra y Libertad", a brindar las facilidades necesarias a fin de remitir en "COPIA CERTIFICADA", los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y SIETE.- POR EL QUE SE REFORMA EL ARTÍCULO 37 DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el mismo día de su aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
