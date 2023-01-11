@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2021-06-16"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -747,17 +747,19 @@ V. Las demás que establezcan las disposiciones legales aplicables.
 
 El Director General del Instituto será nombrado y removido libremente por el o la titular del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
 ###### Artículo 57.
 
-Para ser Director General del Instituto se requiere:
+Para ser director general del instituto se requiere:
 
-I. Ser Morelense en pleno ejercicio de sus derechos;
+I. Ser morelense en pleno ejercicio de sus derechos, de dieciocho a veintinueve años cumplidos, al momento de su designación, de conformidad con lo establecido en el artículo 3, fracción II de la ley;
 
-II. Contar con los conocimientos y experiencia en Programas y políticas con las juventudes y desde las juventudes;
+II. Contar con los conocimientos y experiencia en Programas y políticas con las juventudes y desde las juventudes; y,
 
-III. Cumplir son (sic) los requerimientos que establece la normatividad aplicable a los servidores públicos; y
+III. Cumplir con los requerimientos que establece la normatividad aplicable a los servidores públicos.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corpórea.
+En la designación de la persona titular de la Dirección General se deberá garantizar, bajo el principio de representación paritaria, la alternancia entre hombres y mujeres en la titularidad del Instituto, por lo que se asignará género distinto al de la persona que haya ostentado el cargo en el periodo anterior.
 
 ###### Artículo 58.
 
@@ -1180,3 +1182,13 @@ P.O. 16 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE APRUEBAN OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO, AL DECRETO NÚMERO NOVECIENTOS CINCUENTA Y SEIS POR EL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 67 DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS Y AL DECRETO NÚMERO NOVECIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS”.]
 
 ÚNICA. El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO SEISCIENTOS SETENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
