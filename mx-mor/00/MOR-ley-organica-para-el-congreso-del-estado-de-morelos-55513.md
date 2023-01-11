@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2022-12-07"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1029,15 +1029,15 @@ Las Comisiones Ordinarias serán las siguientes:
 
 28. Investigación y Relaciones Interparlamentarias
 
-29. Transparencia, Protección de Datos personales y Anticorrupción.
+29. (DEROGADO, P.O. 11 DE ENERO DE 2023)
 
 30. (DEROGADO, P.O. 23 DE DICIEMBRE DE 2020)
 
-31. Atención a la Diversidad Sexual.
+31. (DEROGADO, P.O. 11 DE ENERO DE 2023)
 
-32. Conflictos Agrarios.
+32. (DEROGADO, P.O. 11 DE ENERO DE 2023)
 
-33. Atención a Víctimas
+33. (DEROGADO, P.O. 11 DE ENERO DE 2023)
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2013)</small>
 
@@ -1363,6 +1363,14 @@ IV. Conocer y en su caso, recomendar acciones sobre los asuntos relativos a la p
 
 V. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2023)</small>
+
+VI. Revisar la Legislación Estatal para el proceso de armonización legislativa, para garantizar la protección de los derechos de las personas adolescentes y jóvenes que habiten o transiten en el estado de Morelos.
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2023)</small>
+
+VII. Convocar a la instalación del Consejo Consultivo de la Comisión de Juventud, con el objetivo de vigilar y mantener actualizada la definición de las necesidades, las características, las demandas y los derechos de las personas adolescentes y jóvenes.
+
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 77.
@@ -1373,7 +1381,9 @@ I. Conocer y dictaminar las iniciativas en materia de participación ciudadana;
 
 II. Promover, fortalecer y estimular la participación ciudadana en todos los grupos sociales, las organizaciones de la sociedad civil y los ciudadanos en general;
 
-III. Ser eje de vinculación y coordinación del Congreso con el Consejo Estatal de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+
+III. Ser eje de vinculación y coordinación del Congreso del Estado, con la Comisión de Participación Ciudadana del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
 
 IV. Atender las demandas, propuestas y aportaciones ciudadanas derivadas de organizaciones civiles, organizaciones privadas, instituciones y sectores de la población interesados;
 
@@ -1388,6 +1398,10 @@ VIII. Difundir los beneficios de la participación ciudadana y sus fundamentos j
 IX. Los relacionados con el otorgamiento de premios, estímulos y recompensas al mérito ciudadano; y
 
 X. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
+
+> <small>(ADICIONADA, P.O. 11 DE ENERO DE 2023)</small>
+
+XI. Coadyuvar en el ámbito de sus atribuciones con el Instituto Morelense de Procesos Electorales y Participación Ciudadana, en la implementación de programas de capacitación, educación, asesoría, consulta, evaluación del desempeño y comunicación en materia de participación ciudadana y democracia participativa.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3170,3 +3184,15 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente decreto iniciará su vigencia a partir de la aprobación por el pleno del Congreso del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan a la presente reforma.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS SESENTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 59, SE ADICIONAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 76, SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN XI, DEL ARTÍCULO 77 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos que indican los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente decreto entrará en vigor el mismo día de su aprobación por el pleno del Congreso del Estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+CUARTA.- Publíquese en la Gaceta Legislativa del Congreso del Estado de Morelos.
