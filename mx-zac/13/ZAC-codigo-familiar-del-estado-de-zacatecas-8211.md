@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2022-06-18"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -364,6 +364,10 @@ El Oficial del Registro Civil orientará a quien presente al menor para que el n
 > <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2019)</small>
 
 Las copias certificadas de las actas de nacimiento expedidas por el Oficial del Registro Civil no perderán vigencia, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten alteraciones, tachaduras o enmendaduras visibles en su contenido.
+
+> <small>(ADICIONADO, P.O. 11 DE ENERO DE 2023)</small>
+
+La primera copia certificada del acta de registro de nacimiento será gratuita.
 
 ###### ARTICULO 38.
 
@@ -5314,3 +5318,11 @@ P.O. 18 DE JUNIO DE 2022.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 142.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 37 AL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
