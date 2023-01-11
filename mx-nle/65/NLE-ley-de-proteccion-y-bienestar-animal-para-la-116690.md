@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-y-bienestar-animal-para-la-116690"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-28"
-last_updated: "2022-10-28"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el miércoles 28 de septiembre de 2016.
 
@@ -161,7 +161,7 @@ XIX. Centro de Atención Veterinaria. Lugar donde un Médico Veterinario Zootecn
 
 XX. Certificado de Salud. Documento mediante el cual se describe el estado normal de las funciones orgánicas de un animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un Médico Veterinario Zootecnista con cédula profesional.
 
-XXI. Certificado de Procedencia. Documento emitido por la Secretaria que acredite el origen de los animales, el cual contiene el número de registro del criador, el número de registro de la madre, nombre del propietario, domicilio, características del animal, incluyendo su fecha de nacimiento y marcaje o identificación.
+XXI. (DEROGADA, P.O. 11 DE ENERO DE 2023)
 
 XXII. Clínica Veterinaria. Establecimiento que brinda servicios de estudios clínicos e imagenología y hospitalización que no requiera cuidados intensivos.
 
@@ -799,11 +799,15 @@ II. Obtener el permiso de la autoridad competente en materia de riesgos sanitari
 
 III. Contar con una bitácora de la procedencia y destino de cada uno de los animales;
 
-IV. Proporcionar una guía informativa del animal del cual ceden el dominio, así como la garantía correspondiente y el certificado de procedencia;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+
+IV. Proporcionar una guía informativa del animal del cual ceden el dominio, así como la garantía correspondiente;
 
 V. Contar con certificado de salud de cada uno de los animales ubicados en el recinto, expedido por un Médico Veterinario Zootecnista;
 
-VI. Expedir el documento o factura fiscal que ampare la propiedad del animal al comprador, así como entregar el certificado de procedencia o en su caso el certificado original endosado del pedigrí. En caso de adopciones el correspondiente contrato de adopción;
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+
+VI. Expedir el documento o factura fiscal que ampare la propiedad del animal al comprador, así como entregar en su caso el certificado original endosado del pedigrí. En caso de adopciones el correspondiente contrato de adopción;
 
 VII. Contar con un sistema de tratamiento de residuos, así como los mecanismos necesarios para disponer de los cadáveres; y
 
@@ -819,7 +823,7 @@ II. En el caso de criaderos con animales, obtener el permiso de la autoridad com
 
 III. Contar con un Médico Veterinario Zootecnista responsable, quien deberá verificar las condiciones de bienestar de los animales;
 
-IV. Contar con un certificado de procedencia que acredite el origen de cada uno de los animales;
+IV. (DEROGADA, P.O. 11 DE ENERO DE 2023)
 
 V. Contar con una bitácora del destino de cada uno de los animales transmitidos bajo cualquier título legal;
 
@@ -827,7 +831,9 @@ VI. Proporcionar una guía informativa del animal que ceden el dominio;
 
 VII. Contar con certificado de salud de cada uno de los animales ubicados en el recinto expedido por un Médico Veterinario Zootecnista;
 
-VIII. Expedir una nota de remisión o factura fiscal que ampare la propiedad del animal; así como el certificado de procedencia, la documentación que acredite la legal procedencia en el caso de animales silvestres, o en su caso el certificado original endosado del pedigrí; y
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+
+VIII. Expedir una nota de remisión o factura fiscal que ampare la propiedad del animal; la documentación que acredite la legal procedencia en el caso de animales silvestres, o en su caso el certificado original endosado del pedigrí; y
 
 IX. Expedir la garantía respectiva que establezca claramente los términos y condiciones bajo los cuales se otorga la misma al comprador.
 
@@ -873,9 +879,9 @@ IV. Cuando se trate de cachorros de animales de compañía convencionales con ed
 
 V. Cuando se trate de polluelos de animales de compañía no convencionales antes de la emancipación de la madre;
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
 
-VI. Cuando no se entreguen al adquirente la guía informativa para el manejo del animal, el Certificado de Salud, el Certificado de Procedencia y la garantía respectiva; y
+VI. Cuando no se entreguen al adquirente la guía informativa para el manejo del animal, el Certificado de Salud y la garantía respectiva; y
 
 > <small>(ADICIONADA, P.O. 29 DE ENERO DE 2020)</small>
 
@@ -2106,3 +2112,9 @@ P.O. 28 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242. SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONAN LAS FRACCIONES V Y VI DEL ARTÍCULO 148 DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 327. SE MODIFICAN LAS FRACCIONES IV Y VI DEL ARTÍCULO 29, FRACCIÓN VIII DEL ARTÍCULO 30, FRACCIÓN VI DEL ARTÍCULO 34; Y SE DEROGAN LAS FRACCIONES XXI Y IV DE LOS ARTÍCULOS 3 Y 30, RESPECTIVAMENTE, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE NUEVO LEÓN".]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
