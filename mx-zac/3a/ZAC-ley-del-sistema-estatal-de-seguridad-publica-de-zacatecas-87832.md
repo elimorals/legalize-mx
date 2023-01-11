@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2021-07-07"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2023.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -991,11 +991,13 @@ X. Abstenerse de asistir uniformados a bares, cantinas, centros de apuestas o ju
 
 XI. Las demás que establezcan las disposiciones legales aplicables y su reglamentación interna.
 
-Del respeto a los derechos humanos en el uso de la fuerza pública
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2023)</small>
+
+Principios en el uso de la fuerza y del respeto a los derechos humanos
 
 ###### Artículo 53.
 
-Siempre que se use la fuerza pública se hará de manera proporcional, racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a las disposiciones normativas y administrativas aplicables, realizándolas conforme a derecho.
+Siempre que se use la fuerza deberá ejercerse con respeto a los derechos humanos y observancia de los principios de absoluta necesidad, legalidad, prevención, proporcionalidad, rendición de cuentas y vigilancia. Para tal efecto, deberán apegarse a las disposiciones de la legislación nacional sobre el uso de la fuerza.
 
 De la identificación de los integrantes de las Instituciones de Seguridad Pública
 
@@ -2036,3 +2038,11 @@ Artículo cuarto. La transferencia de los recursos financieros se realizará en 
 Artículo quinto. El proceso de entrega recepción relativa al Secretariado Ejecutivo entre la Secretaría General de Gobierno y la Secretaría de Seguridad Pública, ambas del Gobierno del Estado, se llevará a cabo de acuerdo con la Ley de Entrega-Recepción del Estado y Municipios de Zacatecas y demás leyes y reglamentos aplicables.
 
 Artículo sexto. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 11 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 146.- SE REFORMA EL ARTÍCULO 53 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
