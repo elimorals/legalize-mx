@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-gobierno-municipal-de-guadalajara-jalisco-170796"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-29"
-last_updated: "2023-01-10"
+last_updated: "2023-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 10 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL DE GUADALAJARA DE: 11 DE ENERO DE 2023.
 
 Código publicado en la Gaceta Municipal de Guadalajara, el viernes 29 de noviembre de 2019.
 
@@ -3895,9 +3895,17 @@ II. Desarrollar métodos científicos y tecnológicos que favorezcan la gestión
 
 III. Analizar la procedencia de los proyectos de anuencia y constancia, y someterlos a la consideración de la Coordinadora o el Coordinador Municipal de Protección Civil;
 
-IV. Validar cuando sea procedente la aprobación de los estudios generales de riesgos de los proyectos de construcción de riesgo alto, que se desarrollen en el Municipio, así como los programas internos de protección civil y planes de contingencias, y proponerlos a la Coordinadora o el Coordinador Municipal de Protección Civil para su confirmación; y
+> <small>(REFORMADA, G.M. 11 DE ENERO DE 2023)</small>
 
-V. Aprobar la programación de verificaciones de medidas de seguridad en bienes inmuebles.
+IV. Validar cuando sea procedente la aprobación de los estudios generales de riesgos de los proyectos de construcción de riesgo alto, que se desarrollen en el Municipio, así como los programas internos de protección civil y planes de contingencias, y proponerlos a la Coordinadora o el Coordinador Municipal de Protección Civil para su confirmación;
+
+> <small>(REFORMADA, G.M. 11 DE ENERO DE 2023)</small>
+
+V. Aprobar la programación de verificaciones de medidas de seguridad en bienes inmuebles; y
+
+> <small>(ADICIONADA, G.M. 11 DE ENERO DE 2023)</small>
+
+VI. Dictaminar y disponer en relación con edificios peligrosos y establecimientos insalubres o que causen molestias para que cese tal peligro y perturbación, además sugerir, si es el caso, al Presidente Municipal el cierre de los establecimientos y desocupación de los edificios para la resolución por dicha autoridad.
 
 Esta Unidad a su vez tiene a su cargo las Áreas de Prevención del Riesgo y la de Supervisión Técnica.
 
@@ -6697,7 +6705,11 @@ La Dirección de Licencias de Construcción tiene las siguientes atribuciones:
 
 I. Dar cumplimiento a la normatividad en materia de edificación, construcción en general y ordenamiento territorial y urbano;
 
-II. Revisar los proyectos de las obras que se pretendan realizar por particulares y emitir lineamientos técnicos y cualitativos que habrán de regular las construcciones que realicen;
+> <small>(REFORMADA, G.M. 11 DE ENERO DE 2023)</small>
+
+II. Revisar los proyectos de las obras que se pretendan realizar por particulares y emitir lineamientos técnicos y cualitativos que habrán de regular las construcciones que realicen.
+
+En su caso ejecutar por cuenta de los particulares, las obras ordenadas en cumplimiento de este reglamento, que no se realicen en el plazo que se les fije;
 
 III. Atender a la población para el trámite de expedición de alineamientos, números oficiales, licencias, permisos y autorizaciones para la construcción, ampliación, demolición, movimiento de tierras y cualquier otro similar a realizarse en (sic) dentro de la jurisdicción territorial, previa solicitud de estos;
 
@@ -6733,13 +6745,17 @@ XVII. Resolver, de conformidad con la normatividad aplicable y el dictamen corre
 
 XVIII. Emitir los protocolos de medidas de seguridad y atención a emergencias para edificaciones, remodelaciones y demoliciones;
 
-> <small>(REFORMADA, G.M. 3 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.M. 11 DE ENERO DE 2023)</small>
 
-XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural; y
+XIX. Otorgar los vistos buenos para proyectos de edificaciones, remodelaciones y demoliciones previamente avalados por un Director o Directora Responsable de Obra, con registro municipal vigente, y que cumplan con los estudios y requerimientos técnicos aplicables en materia de seguridad estructural;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 3 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.M. 11 DE ENERO DE 2023)</small>
 
-XX. Supervisar de conformidad con las disposiciones correspondientes, el estricto cumplimiento de la reglamentación municipal aplicable al uso de postes o de cualquier infraestructura propiedad municipal.
+XX. Supervisar de conformidad con las disposiciones correspondientes, el estricto cumplimiento de la reglamentación municipal aplicable al uso de postes o de cualquier infraestructura propiedad municipal; y
+
+> <small>(ADICIONADA, G.M. 11 DE ENERO DE 2023)</small>
+
+XXI. Advertir y asesorar al Presidente Municipal sobre las demoliciones de edificios en los casos previstos por las disposiciones reglamentarias para que esta autoridad resuelva.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN SÉPTIMA], G.M. 1 DE OCTUBRE DE 2021)</small>
 
@@ -8248,3 +8264,13 @@ Primero. Publíquese lo conducente del presente ordenamiento en la Gaceta Munici
 Segundo. Este ordenamiento entrará en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicado el presente ordenamiento, remítase mediante oficio un tanto del mismo al Congreso del Estado de Jalisco, para los efectos contemplados en el artículo 42, fracción VII de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 11 DE ENERO DE 2023.
+
+> <small>[N. DE E. TRANSITRORIOS DEL “REFORMAS AL REGLAMENTO DE GESTIÓN DEL DESARROLLO URBANO PARA EL MUNICIPIO DE GUADALAJARA Y AL CÓDIGO DE GOBIERNO MUNICIPAL DE GUADALAJARA”.]</small>
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
