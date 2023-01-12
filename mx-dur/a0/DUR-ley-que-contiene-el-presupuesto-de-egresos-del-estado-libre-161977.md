@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-contiene-el-presupuesto-de-egresos-del-estado-libre-161
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-29"
-last_updated: "2023-01-08"
+last_updated: "2023-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY QUE CONTIENE EL PRESUPUESTO DE EGRESOS DEL ESTADO LIBRE Y SOBERANO DE DURANG
 
 TEXTO ORIGINAL.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE ENERO DE 2023.]</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2023.]</small>
 
 Ley publicada en el Número 104 del Periódico Oficial del Estado de Durango, el jueves 29 de diciembre de 2022.
 
@@ -987,9 +987,13 @@ SEGUNDO. Una vez que se publiquen en el Diario Oficial de la Federación, los re
 
 TERCERO. La Secretaría adecuará las remuneraciones nominales y adicionales previstas en el Artículo 39 de la presente Ley, de conformidad con los incrementos salariales y las deducciones fiscales que procedan y se apliquen a las mismas percepciones durante el Ejercicio Fiscal del Año 2023.
 
-CUARTO. La Secretaría adecuará todos los anexos de la presente Ley, atendiendo el contenido en el Anexo XXXVI, mismo que será enviado a la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; de igual forma lo mandará publicar en el Periódico Oficial del Gobierno del Estado de Durango, a más tardar el día 15 de Enero del año 2022 (sic).
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2023)</small>
 
-CUARTO (SIC). Se derogan las disposiciones que se opongan a la presente Ley.
+CUARTO. La Secretaría adecuará todos los anexos de la presente Ley, atendiendo el contenido en el Anexo XXXVI, mismo que será enviado a la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; de igual forma lo mandará publicar en el Periódico Oficial del Gobierno del Estado de Durango, a más tardar el día 15 de Enero del año 2023.
+
+> <small>(F. DE E., P.O. 12 DE ENERO DE 2023)</small>
+
+QUINTO. Se derogan las disposiciones que se opongan a la presente Ley.
 
 El Ciudadano Gobernador del Estado, sancionará, promulgará y dispondrá se publique, circule y observe.
 
