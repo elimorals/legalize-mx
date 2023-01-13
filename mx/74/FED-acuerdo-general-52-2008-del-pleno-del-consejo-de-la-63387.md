@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2022-11-28"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -57,9 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 68/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 113/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Quinta Región, conformado por dos tribunales colegiados de Circuito Auxiliares, uno con residencia en Los Mochis, Sinaloa y uno con residencia en La Paz, Baja California Sur y cinco juzgados de distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Quinta Región, conformado por un tribunal colegiado de Circuito Auxiliar, con residencia en Los Mochis, Sinaloa, y cinco juzgados de distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
 > <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
 
@@ -75,9 +75,7 @@ Los tribunales colegiados se denominarán:
 
 Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Los Mochis, Sinaloa.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2021 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE OCTUBRE DE 2021)</small>
-
-Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en La Paz, Baja California.
+> <small>(DEROGADO SÉPTIMO PÁRRAFO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 113/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
 > <small>(DEROGADO OCTAVO PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 33/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2022)</small>
 
@@ -326,3 +324,17 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
 
 CUARTO. El Tribunal Colegiado de Circuito que concluye funciones, bajo su nueva denominación, mantendrá la competencia necesaria para emitir la resolución correspondiente en los asuntos que tenga pendientes de resolución.
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 113/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL QUINTO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA QUINTA REGIÓN, CON RESIDENCIA EN LA PAZ, BAJA CALIFORNIA SUR; Y QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La plantilla de personal del Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en La Paz, Baja California Sur estará adscrita al Segundo Tribunal Colegiado del Vigésimo Sexto Circuito a partir del 16 de enero de 2023.
+
+CUARTO. El Tribunal Colegiado de Circuito que concluye funciones, bajo su nueva denominación, mantendrá la competencia necesaria para emitir la resolución correspondiente en los asuntos que tenga pendientes de resolución.
+
+QUINTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
