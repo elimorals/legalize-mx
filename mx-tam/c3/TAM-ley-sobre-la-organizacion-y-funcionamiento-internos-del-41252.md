@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2022-12-06"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -449,13 +449,17 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 2. Para su constitución las fracciones parlamentarias, observarán en lo conducente las disposiciones inherentes a los grupos parlamentarios establecidas en el artículo que antecede.
 
-3. Uno de los dos diputados que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Coordinación Política, únicamente con voz.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+3. Uno de los dos diputados que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Coordinación Política, teniendo derecho a voz y voto.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 26.
 
-1. El diputado que sea único en cuanto a la representación de algún partido político, por si solo constituirá una representación partidista, que al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Coordinación Política, teniendo solo derecho a voz.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+1. El Diputado que sea único en cuanto a la representación de algún partido político, por si solo constituirá una representación partidista, que al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Coordinación Política, teniendo derecho a voz y voto.
 
 2. En lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Coordinación Política.
 
@@ -479,21 +483,15 @@ Los diputados que decidan no pertenecer a un grupo parlamentario, fracción parl
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
 ### CAPITULO QUINTO. DE LAS COMISIONES Y COMITES
 
 ###### ARTICULO 29.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2022)</small>
+1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
 
-1. La Junta de Coordinación Política se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas y con la o el diputado que mediante votación directa sea elegido democráticamente en términos del siguiente párrafo de este artículo.
-
-(NOTA: EL 10 DE JUNIO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2022, DECLARÓ LA INVALIDEZ DEL DECRETO 65-172, POR EL QUE SE REFORMA EL PÁRRAFO 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE JUNIO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2022)</small>
-
-2. PRESIDIRÁ LA JUNTA DURANTE LA LEGISLATURA, LA O EL DIPUTADO QUE MEDIANTE VOTACIÓN DIRECTA SEA ELEGIDO DEMOCRÁTICAMENTE Y OBTENGA LA VOTACIÓN DE LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DEL CONGRESO.
-
-3. (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
+2. Será Presidente de la Junta por la duración de la Legislatura, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la Legislatura en turno.
 
 ###### ARTICULO 30.
 
@@ -545,7 +543,9 @@ j) Las demás que le atribuye esta ley o los ordenamientos relativos a la activi
 
 1. La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos.
 
-2. La Junta adoptará sus decisiones por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo parlamentario.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+2. La Junta de Coordinación Política, adoptará sus decisiones por mayoría absoluta, donde los coordinadores de los Grupos Parlamentarios y coordinadores de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Coordinación Política, contará con el voto decisorio.
 
 3. A las reuniones de la Junta de Coordinación Política concurrirá el secretario general, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
@@ -3786,3 +3786,19 @@ El salario y las prestaciones del Titular de la Unidad de Profesionalización Pa
 ###### ARTÍCULO TERCERO.
 
 La Junta de Coordinación Política, como órgano responsable de designación del Titular de la referida Unidad, tomará las medidas necesarias, a fin de designar de inmediato al Titular de la misma.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-504 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 25, NUMERAL 3; 26, NUMERAL 1; 29; Y 33, NUMERAL 2, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Derivado de la aprobación del presente Decreto, quedan sin efectos los Puntos de (sic) Acuerdo número 65-70 y 65-71, expedidos el día 9 de marzo del año 2022.
+
+###### ARTÍCULO TERCERO.
+
+Una vez aprobado el presente Decreto, el Coordinador del Grupo Parlamentario del partido político que haya obtenido más votos en el Estado, con base en lo previsto en el numeral 2 del artículo 29 de la presente reforma, inmediatamente asumirá la Presidencia de la Junta de Coordinación Política del Congreso del Estado Libre y Soberano de Tamaulipas.
