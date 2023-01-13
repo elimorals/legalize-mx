@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2022-10-27"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -985,13 +985,21 @@ V.- Instituto de Estudios Legislativos;
 
 VI.- Instituto para el Desarrollo y Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-VII.- Dirección de Comunicación Social; y
+VII.- Dirección de Comunicación Social;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-VIII.- Unidad Institucional de Género.
+VIII.- Unidad Institucional de Género;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+IX.- Contraloría Interna; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+X.- Unidad de Transparencia.
 
 Los titulares de los órganos auxiliares del Congreso, podrán emitir y dictar todas las disposiciones administrativas internas que requieran para ordenar, organizar y distribuir el trabajo y responsabilidades del personal que labore en cada una de éstas.
 
@@ -1023,7 +1031,7 @@ IV.- Unidad de Seguimiento y Evaluación a Comisiones y Secretarios Técnicos;
 
 V.- Unidad del Sistema Mexicano de Información Legislativa, (SIMIL); y
 
-VI.- Unidad de Acceso a la Información Pública Gubernamental.
+VI.- (DEROGADA, P.O. 13 DE ENERO DE 2023)
 
 ###### ARTÍCULO 90.
 
@@ -1139,17 +1147,7 @@ VI.- Las demás que le sean encomendadas por el Secretario de Servicios Legislat
 
 ###### ARTÍCULO 98.
 
-La Unidad de Transparencia y Acceso a la Información Pública Gubernamental del Poder Legislativo, tendrá a su cargo las siguientes funciones:
-
-I.- Proporcionar a nombre del Poder Legislativo como sujeto obligado, la información solicitada en términos de la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo;
-
-II.- Vigilar que la información contenida en el portal web del Poder Legislativo sea substancialmente útil, fidedigna, actualizada y en los términos que establece la Ley de la materia;
-
-III.- Aplicar las medidas necesarias para coordinar las acciones tendientes a orientar las políticas públicas de transparencia legislativa y fiscalizadora, cumplir con el acceso a la información, establecer los lineamientos de operación bajo los cuales se recabará, clasificará, actualizará y difundirá la información pública del Poder Legislativo;
-
-IV.- Garantizar a la sociedad, mecanismos eficientes de transparencia, rendición de cuentas de la gestión y desempeño; y
-
-V.- Las demás que le encomiende el Comité de Transparencia y Acceso a la Información Pública Gubernamental del Poder Legislativo del Estado.
+(DEROGADO, P.O. 13 DE ENERO DE 2023)
 
 ### CAPÍTULO III. DE LA COORDINACIÓN DE ASESORÍA
 
@@ -1205,43 +1203,175 @@ XIV.- las demás que le asigne la Comisión.
 
 la Dirección General de Servicios Administrativos es el área de apoyo administrativo encargado de los recursos humanos, materiales y financieros del Congreso, con las facultades que prevé el Artículo 196 de la Ley y para el desempeño de su función, contará con las siguientes áreas:
 
-a).- Unidad de Contabilidad y Presupuesto;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-b).- Unidad de Informática;
+I.- Dirección de Planeación;
 
-c).- Unidad de Recursos Humanos;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-d).- Unidad de Servicios Generales;
+II.- Dirección de Presupuesto y Contabilidad;
 
-e).- Oficialía de Partes; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-f).- Unidad de Seguridad Interna del Congreso.
+III.- Dirección de Informática;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+IV.- Dirección de Recursos Humanos;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+V.- Dirección de Servicios Generales;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+VI.- Oficialía de Partes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2023)</small>
+
+VII.- Seguridad Interna del Congreso.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 103 Bis.
+
+Al frente de la Dirección de Planeación, habrá una persona responsable en apoyo (sic) la Dirección General de Servicios Administrativos, que tendrá las siguientes funciones:
+
+I. Planear, dirigir y organizar la verificación y evaluación del sistema de control interno del Congreso del Estado;
+
+II. Verificar que el sistema de control interno esté formalmente establecido dentro del Congreso del Estado y que su ejercicio sea intrínseco al desarrollo de las funciones de todos los cargos y en particular, de aquellos que tengan responsabilidad de mando;
+
+III. Determinar, conjuntamente con el Presidente y Vocal Ejecutivo del Comité de Control y Desempeños Institucional, los asuntos a tratar en las sesiones de este;
+
+IV. Verificar que los controles definidos para los procesos y actividades del Congreso del Estado, se cumplan por los responsables de su ejecución y en especial, que las áreas encargadas de la aplicación del control interno ejerzan adecuadamente esta función;
+
+V. Verificar que los controles asociados con todas y cada una de las actividades del Congreso del Estado, estén adecuadamente definidos, sean apropiados y se mejoren permanentemente, de acuerdo con la evolución del mismo;
+
+VI. Ser el canal de comunicación e interacción entre el Congreso del Estado, la Dirección General de Servicios Administrativos y los demás miembros del Comité de Control y Desempeño Institucional, en el procedimiento de implementación, actualización, supervisión, seguimiento y control del Sistema de Control Interno Institucional;
+
+VII. Acordar con el Titular de la Dirección General de Servicios Administrativos las acciones para la implementación y operación del Modelo Estatal del Marco Integrado de Control Interno;
+
+VIII. Coordinar la aplicación de la evaluación del Sistema de Control Interno en los procesos prioritarios del Congreso del Estado;
+
+IX. Revisar con el enlace del Sistema de Control Interno y presentar para aprobación del Titular de la Dirección General de Servicios Administrativos el Informe Anual, el Programa de Trabajo de Control Interno original y actualizado, y el Reporte de Avances trimestral del Programa de Trabajo de Control Interno;
+
+X. Acordar con la Dirección General de Servicios Administrativos la Metodología de Administración de Riesgos, los objetivos institucionales y los riesgos institucionales que fueron identificados, incluyendo los de corrupción, así como comunicar los resultados a los órganos técnicos administrativos;
+
+XI. Comprobar que la Metodología para la Administración de Riesgos, se establezca y difunda formalmente en todas sus áreas administrativas y se constituya como procesos sistemáticos y herramienta de gestión;
+
+XII. Convocar a los titulares de todos los órganos técnicos administrativos del Congreso del Estado y el enlace designado para integrar el grupo de trabajo;
+
+XIII. Coordinar y supervisar que el Proceso de Administración de Riesgos se implemente en apego a lo establecido en las disposiciones vigentes y ser el canal de comunicación e interacción con la Dirección General de Servicios Administrativos y con los enlaces que se hayan establecido;
+
+XIV. Revisar los proyectos de Matriz y Mapa de Administración de Riesgos, así como el Programa de Trabajo de Administración de Riesgos, conjuntamente con los enlaces que se hayan establecido;
+
+XV. Fomentar en todo el Congreso del Estado, la formación de una cultura de control interno que contribuya al mejoramiento continuo en el cumplimiento de la misión, visión y objetivos institucionales;
+
+XVI. Mantener permanentemente informados a los directivos acerca del estado del control interno del Congreso del Estado, dando cuenta de las debilidades detectadas y de las fallas en su cumplimiento;
+
+XVII. Elaborar cada cuatro meses, un informe pormenorizado del estado del control interno;
+
+XVIII. Verificar que se implementen las medidas respectivas recomendadas;
+
+XIX. Revisar el reporte de avances trimestrales del Programa de Trabajo de Administración de Riesgos y el Reporte Anual del Comportamiento de los Riesgos;
+
+XX. Presentar anualmente para firma a la Dirección General de Servicios Administrativos y los enlaces que se hayan establecido, la Matriz y Mapa de Administración de Riesgos, el Programa de Trabajo de Administración de Riesgos y el Reporte Anual del Comportamiento de los Riesgos;
+
+XXI. Difundir la Matriz de Administración de Riesgos, el Mapa de Riesgos y el Programa de Trabajo de Administración de Riesgos Institucionales, e instruir la implementación del Programa de Trabajo de Administración de Riesgos a los responsables de las acciones de control comprometidas;
+
+XXII. Comunicar al Enlace de Administración de Riesgos, los riesgos adicionales o cualquier actualización a la Matriz de Administración de Riesgos, al Mapa de Riesgos y al Programa de Trabajo de Administración de Riesgos Institucionales determinados en el Comité según corresponda;
+
+XXIII. Verificar que se registren en el sistema informático los reportes de avances trimestrales del Programa de Trabajo de Administración de Riesgos;
+
+XXIV. Instrumentar acciones tendientes al mejoramiento y modernización administrativa del Congreso del Estado;
+
+XXV. Coordinarse con la Dirección de Presupuesto y Contabilidad para integrar y proponer al Director General de Servicios Administrativos el anteproyecto de Presupuesto Anual del Congreso del Estado;
+
+XXVI. Coordinar los trabajos de integración e implementación del Presupuesto Basado en Resultados y evaluación al desempeño del Congreso del Estado;
+
+XXVII. Coordinar con las demás áreas estratégicas del Congreso del Estado, los indicadores de resultados para medir el logro de los objetivos, como referente para el seguimiento y la evaluación;
+
+XXVIII. Vigilar en coordinación con la Dirección de Presupuesto y Contabilidad el proceso interno de planeación, programación y presupuestación, que esté sustentada con los objetivos, metas, indicadores y recursos asignados; y
+
+XXIX. Las demás que le instruya la Dirección General de Servicios Administrativos, la Ley, su reglamento y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 104.
 
-Al frente de la Unidad de Contabilidad y Presupuesto, habrá un Responsable y en apoyo al Director General de Servicios Administrativos, previa aprobación del Presidente de la Junta de Gobierno, tendrá las siguientes funciones:
+Al frente de la Dirección de Contabilidad y Presupuesto, habrá un responsable y en apoyo la Dirección General de Servicios Administrativos, tendrá las siguientes funciones:
 
 I.- Emitir las normas, sistemas y procedimientos en materia de administración de recursos humanos, materiales y financieros; coordinar y supervisar los procesos internos de programación y evaluación presupuestal;
 
 II.- Controlar y aplicar los programas y prestaciones laborales;
 
-III.- Integrar y proponer al Director General de Servicios Administrativos el anteproyecto de presupuesto anual del Congreso del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+III.- Integrar y proponer en coordinación con la Dirección de Planeación a la Dirección General de Servicios Administrativos el anteproyecto de presupuesto anual del Congreso del Estado de Hidalgo;
 
 IV.- Otorgar los reconocimientos y recompensas que determine la Ley y las Condiciones Generales de Trabajo y emitir los lineamientos relativos a la aplicación, modificación, liquidación y pago de cualquier remuneración al personal que labora en el Congreso;
 
-V.- Vigilar el proceso interno de programación presupuestal, que relacione objetivos, metas y recursos;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+V.- Vigilar en coordinación con la Dirección de Planeación el proceso interno de planeación, programación y presupuestación, que esté sustentada con los objetivos, metas, indicadores y recursos asignados;
 
 VI.- Vigilar y controlar el ejercicio del Programa de Presupuesto Anual del Congreso; establecer las normas y procedimientos para integrar la contabilidad interna, así como llevarla;
 
 VII.- Formular, analizar y consolidar los estados financieros del Congreso;
 
-VIII.- Elaborar la evaluación del Programa de Presupuesto Anual del Congreso y proponer las modificaciones programáticas y presupuestales que se requieran, de acuerdo con los requerimientos de la materia;
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+VIII.- Elaborar la evaluación del Programa de Presupuesto Anual del Congreso y proponer con base en ellas, las adecuaciones y modificaciones presupuestales que se requieran, con base en los requerimientos en la materia;
 
 IX.- Instrumentar acciones tendientes al mejoramiento y modernización administrativa del Congreso; y
 
-X.- Las demás que le instruya el Director General de Servicios Administrativos o el
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2023)</small>
 
-Presidente de la Junta de Gobierno.
+X.- Administrar los recursos financieros del Congreso del Estado, a través de la apertura de cuentas bancarias por fuente de financiamiento, realizar conciliaciones bancarias mensuales y garantizar la disponibilidad presupuestal y financiera en el ejercicio del gasto;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XI.- Registrar la contabilidad del Congreso del Estado, con estricto apego a los principios, normas contables generales y específicas e instrumentos que establezca el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XII.- Generar periódicamente los estados y la información financiera contable, presupuestal y programática de conformidad a lo establecido en la Ley General de Contabilidad Gubernamental y acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XIII.- Integrar la Cuenta Pública del Congreso, de conformidad a lo establecido en la Ley General de Contabilidad Gubernamental y acuerdos emitidos por el Consejo Nacional de Armonización Contable;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XIV.- Adoptar, implementar y mantener actualizadas las normas, disposiciones, manuales y lineamientos en materia de contabilidad y ejercicio del gasto público;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XV.- Conciliar semestralmente el inventario de bienes muebles e inmuebles del Congreso del Estado, manteniendo actualizados los registros contables;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XVI.- Mantener el registro histórico detallado de las operaciones realizadas como resultado de su gestión financiera del Congreso del Estado, en los libros diario, mayor, inventarios, balances y registros auxiliares que muestren los avances presupuestarios y contables, que permitan realizar el seguimiento y evaluar el ejercicio del gasto público y la captación del ingreso;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XVII.- Conocer, adoptar e implementar las disposiciones en materia de disciplina financiera, transparencia y rendición de cuentas, de conformidad a las leyes, normatividad y requerimientos;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XVIII.- Atender las auditorías de las diferentes instancias fiscalizadoras, entregar la información de manera oportuna y dar seguimiento a las acciones correctivas y preventivas para fortalecer el control interno del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XIX. Adoptar, implementar y fortalecer las acciones, mecanismos, programas, políticas, lineamientos e instrumentos de control interno para evitar actos de corrupción y faltas a la integridad institucional;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XX.- Integración, preparación y presentación del Informe de Avance de Gestión Financiera para su entrega ante la Auditoría Superior del Estado de Hidalgo y demás información complementaria que requieran las autoridades, respecto de las actividades desarrolladas en el ámbito de su competencia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN X], P.O. 13 DE ENERO DE 2023)</small>
+
+XXI.- Las demás que le instruya la Dirección General de Servicios Administrativos.
 
 ###### ARTÍCULO 105.
 
@@ -1453,59 +1583,205 @@ VII.- Las demás que se contemplen en la Ley, este Reglamento o que le sean dele
 
 ### CAPÍTULO IX. CONTRALORÍA INTERNA
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 118.
 
-El Congreso del Estado contará con una Contraloría Interna, la cual será un Órgano Técnico y Administrativo y estará a cargo de un Director General designado por el Presidente de la Junta de Gobierno.
+El Congreso del Estado, contará con la Contraloría Interna, la cual será un órgano técnico administrativo, cuyo Titular tendrá el nivel de Director General, designado a propuesta de la Junta de Gobierno, quien tendrá atribuciones que prevea la Ley Orgánica del Poder Legislativo, la legislación y demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+En materia de procedimientos de responsabilidades administrativas tendrá las siguientes atribuciones:
+
+I. En el ámbito de su competencia conforme a la legislación aplicable, tendrá a su cargo la investigación, substanciación y calificación de las faltas administrativas, para lo cual recibirá las quejas y denuncias que correspondan.
+
+II. Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, la Contraloría Interna será competente para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa previstos en la legislación aplicable.
+
+En caso de faltas administrativas calificadas como graves, el servidor público designado, presentará las denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en Delitos de Corrupción.
+
+III. Rendir ante el Comité Coordinador del Sistema Estatal de Anticorrupción, un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto asciende, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del mismo.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 119.
 
-La Contraloría Interna se auxiliará de las siguientes áreas:
+La Contraloría Interna se auxiliará de las siguientes direcciones:
 
-I.- Dirección de Auditoría y Desarrollo Administrativo; y
+I. Dirección de Auditoría;
 
-II.- Dirección de Quejas y Responsabilidades.
+II. Dirección de Responsabilidades; y
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+III. Dirección de Desarrollo Administrativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 120.
 
-La Dirección de la Auditoría y Desarrollo Administrativo tendrá las siguientes atribuciones:
-
-a) Elaborar, aplicar y verificar el cumplimiento anual de la revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
-
-b) Realizar auditorías periódicas a los órganos auxiliares del Congreso del Estado;
-
-c) Verificar la aclaración de observaciones hasta la solventación y/o elaboración de los dictámenes de responsabilidades;
-
-d) Coadyuvar en la vigilancia del manejo y aplicación de los recursos financieros, humanos y materiales, para que se realicen de acuerdo con las disposiciones aplicables;
-
-e) Diseñar, implementar, supervisar y evaluar los mecanismos de control de la gestión de los Órganos Técnicos Administrativos del Congreso del Estado; y
-
-f) Las demás que la legislación aplicable en la materia prevea.
+La Dirección de la Auditoría tendrá las siguientes atribuciones:
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
+a) Elaborar, aplicar y verificar el cumplimiento anual de la revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Realizar auditorías financieras y de cumplimiento periódicas a los órganos auxiliares del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+c) Verificar el seguimiento y aclaración de observaciones determinadas por la Contraloría Interna, derivadas de auditorías financieras y de cumplimiento hasta la solventación o elaboración de los dictámenes de responsabilidades;
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+d) Coadyuvar en la vigilancia del manejo y aplicación de los recursos financieros, humanos y materiales, para que se realicen de acuerdo con las disposiciones aplicables;
+
+e) (DEROGADO, P.O. 13 DE ENERO DE 2023)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2023)</small>
+
+f) Verificar el cumplimiento anual de la fiscalización del ejercicio del presupuesto de egresos del Congreso del Estado;
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+g) Comprobar que existan mecanismos e instrumentos adecuados que promuevan el correcto funcionamiento evitando la posible desviación de los recursos;
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+h) Informar al Titular de la Contraloría Interna sobre los avances y el resultado de las auditorías financieras y de cumplimiento, así como las acciones de seguimiento que se estén desarrollando;
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+i) Remitir a la Dirección de Responsabilidades, los resultados de las auditorías financieras y de cumplimiento en las que se hayan detectado presuntas responsabilidades a cargo de servidores públicos que ameriten sanciones señaladas en la normatividad correspondiente; y
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES FRACCIÓN F)], P.O. 13 DE ENERO DE 2023)
+
+j) Las demás que la legislación aplicable en la materia prevea o le sean encomendadas por la Contraloría Interna.
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 121.
 
-La Dirección de Quejas y Responsabilidades, tendrá las siguientes atribuciones:
+La Dirección de Responsabilidades contará con la unidad investigadora, con la unidad substanciadora y con la unidad resolutora para el desempeño de sus atribuciones, siendo las siguientes:
 
-a) Recibir, analizar e investigar las quejas y denuncias interpuestas contra servidores públicos del Congreso del Estado de Hidalgo en el desempeño de sus funciones o con motivo de ellas;
+I. Dar trámite a las denuncias interpuestas contra servidores públicos del Congreso del Estado, en el desempeño de sus funciones o con motivo de ellas; en términos de la Ley General de Responsabilidades Administrativas y turnarla a la Autoridad Investigadora para el inicio del trámite respectivo;
 
-b) Notificar el inicio de un procedimiento al servidor público;
+II. Intervenir en los medios de impugnación en que sea parte ante las autoridades competentes e interponer los recursos legales que correspondan;
 
-c) Investigar y substanciar los procedimientos en materia de responsabilidad administrativa e inconformidades, previstos en las disposiciones legales y normativas aplicables;
+III. Representar a la Contraloría Interna en los recursos legales, ante las autoridades administrativas y jurisdiccionales en el ámbito de su competencia;
 
-d) Dictar las resoluciones correspondientes e imponer las sanciones en términos de la legislación aplicable;
+IV. Asistir en representación de quien funja como Titular de la Contraloría Interna a verificar los procedimientos, de adquisición de bienes y contratación de servicios que se realicen, de conformidad con la Ley de la materia y la legislación aplicable;
 
-e) Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
+V. Informar al Titular de la Contraloría Interna sobre la asistencia y desarrollo de las intervenciones especiales solicitadas por la Presidencia de la Junta de Gobierno del Congreso del Estado o de sus órganos auxiliares;
 
-f) Representar a la Contraloría Interna en los recursos legales, ante las autoridades administrativas y jurisdiccionales en el ámbito de sus competencias; y
+VI. Participar en los procesos de relevos de entrega recepción de los recursos financieros, humanos y materiales de las diferentes áreas que conforman el Congreso del Estado;
 
-g) Las demás que la legislación aplicable en la materia prevea.
+VII. Apoyar a las demás áreas que conforman la Contraloría Interna, cuando así lo requieran;
+
+VIII. Actuar y proceder en acuerdo con el Titular de la Contraloría Interna de conformidad y en estricto apego a lo que determine la Ley de la materia;
+
+IX. Atender las solicitudes y requerimientos del Titular de la Contraloría Interna;
+
+X. Las Autoridades Investigadora, Substanciadora y Resolutora, garantizarán la independencia entre ambas en el ejercicio de sus funciones, durante los procedimientos en materia de responsabilidades administrativas; y
+
+XI. Las demás que la legislación aplicable en la materia prevea.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 122.
+
+La Unidad Investigadora tendrá las siguientes atribuciones:
+
+I. Actuar como Autoridad Investigadora en los procedimientos administrativos de responsabilidad de los servidores públicos del Congreso, con independencia de la Autoridad Substanciadora y Resolutora;
+
+II. Integrar las denuncias iniciadas, desahogando cuantas diligencias sean necesarias y realizando todas las investigaciones hasta el informe de presunta responsabilidad administrativa;
+
+III. Realizar todo lo concerniente en cuanto al procedimiento de responsabilidades administrativas de los servidores públicos se estará conforme a la Ley de la materia;
+
+IV. Apoyar a la Dirección de Responsabilidades en sus funciones concedidas en el presente reglamento que no impliquen procedimiento administrativo de responsabilidad; y
+
+V. Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 123.
+
+La Unidad Substanciadora tendrá las siguientes atribuciones:
+
+I. Actuar como Autoridad Substanciadora en el inicio del procedimiento de responsabilidad administrativa, una vez que admita el informe de presunta responsabilidad emitido por la Autoridad Investigadora, actuando con total independencia de las demás Autoridades;
+
+II. Desahogar las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes o pruebas por desahogar, declarar abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+III. Cerrar la instrucción una vez transcurrido el periodo de alegatos;
+
+IV. Estar a lo dispuesto por la Ley de la materia en cuanto al procedimiento de responsabilidades administrativas de los servidores públicos;
+
+V. Apoyar a la Dirección de Responsabilidades en sus funciones concedidas en el presente reglamento, siempre y cuando no impliquen procedimiento administrativo de responsabilidad; y
+
+VI. Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 124.
+
+La Unidad Resolutora tendrá las siguientes atribuciones:
+
+I. Dictar las resoluciones en los procedimientos administrativos de responsabilidad de los servidores públicos del Congreso del Estado, únicamente en lo relativo a faltas administrativas no graves;
+
+II. Ponderar el abstenerse de imponer sanción que corresponda, cuando el daño o perjuicio a la Hacienda Pública o al patrimonio del Congreso, haya sido resarcido o recuperado;
+
+III. Estar a lo dispuesto por la Ley de la materia en cuanto al procedimiento de responsabilidades administrativas de los servidores públicos se estará (sic);
+
+IV. Apoyar a la Dirección de Responsabilidades en sus funciones concedidas en el presente reglamento que no impliquen procedimiento administrativo de responsabilidad; y
+
+Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 125.
+
+La Dirección de Desarrollo Administrativo, tendrá las siguientes atribuciones:
+
+I. Proponer al Titular de la Contraloría Interna, la ejecución de auditorías de desempeño y control interno, con el propósito de detectar áreas de oportunidad y proponer acciones de mejora continua;
+
+II. Verificar que los recursos públicos se administren con eficiencia y eficacia para satisfacer los objetivos a los que fueron destinados, dichos recursos serán evaluados, con el objeto de propiciar el grado de cumplimiento en las metas, para incrementar la efectividad de los procesos y optimizar su desempeño;
+
+III. Supervisar y evaluar los mecanismos de control interno de los órganos auxiliares del Congreso del Estado Libre y Soberano de Hidalgo;
+
+IV. Coordinar la atención de las recomendaciones y requerimientos de información de estudios generales, en materia de control interno y gestión de riesgos administrativos efectuados por entes fiscalizadores;
+
+V. Evaluar los procedimientos de la metodología para la administración de riesgos, que permitan identificar, clasificar y gestionar riesgos administrativos para llevar a cabo una constante revisión, actualización y mejora del control interno en los órganos auxiliares;
+
+VI. Dar seguimiento a las acciones de mejora que implementen los órganos auxiliares, para la optimización de sus procesos administrativos; y
+
+VII. Realizar las demás funciones que le encomiende la Contraloría Interna para el logro de los objetivos de la misma.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE ENERO DE 2023)</small>
+
+### CAPÍTULO X. DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 126.
+
+La Unidad de Transparencia del Poder Legislativo, tendrá a su cargo las siguientes funciones:
+
+I. Proporcionar a nombre del Poder Legislativo como sujeto obligado, la información solicitada en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo;
+
+II. Vigilar que la información contenida en el portal web del Poder Legislativo sea substancialmente útil, fidedigna, actualizada y en los términos que establece la ley de la materia;
+
+III. Aplicar las medidas necesarias para coordinar las acciones tendientes a orientar las políticas públicas de transparencia legislativa y fiscalizadora, cumplir con el acceso a la información, establecer los lineamientos de operación bajo los cuales se recabará, clasificará, actualizará y difundirá la información pública del Poder Legislativo;
+
+IV. Garantizar a la sociedad, mecanismos eficientes de transparencia, rendición de cuentas de la gestión y desempeño;
+
+V. Capacitar al personal del Congreso en materia de Transparencia y Acceso a la Información Pública;
+
+VI. Coordinar a los enlaces de Transparencia designados por los Titulares de los Órganos Técnicos y Administrativos del Congreso en las actividades encomendadas;
+
+VII. Presentar a la Junta de Gobierno informes semestrales y anuales sobre sus actividades;
+
+VIII. Responder las solicitudes de Transparencia hechas al Congreso a través de las plataformas y medios mencionados en la Ley de la Materia;
+
+IX. Rendir informes en términos de la Ley de la materia al Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo; y
+
+Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables, además de las que le encomiende el Comité de Transparencia del Poder Legislativo del Estado.
 
 T R A N S I T O R I O
 
@@ -1628,3 +1904,13 @@ P.O. 27 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 262 QUE ADICIONA EL ARTÍCULO 65 BIS AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 261. POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO Y SU REGLAMENTO.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado deberá prever en su presupuesto para el Ejercicio Fiscal del año 2023, la asignación de recursos para la creación, organización y funcionamiento de la Dirección de Planeación y de la Unidad Resolutora de la Dirección de Responsabilidades de la Contraloría Interna del Poder Legislativo.
+
+TERCERO. Tratándose de las atribuciones de la Unidad Resolutora, serán ejecutadas por la persona titular de la Dirección de Responsabilidades, a efecto de no vulnerar lo contemplado en la Ley General de Responsabilidades Administrativas, lo anterior hasta cumplirse con lo dispuesto en el transitorio segundo del presente Decreto.
