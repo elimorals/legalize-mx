@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2021-12-23"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1967,6 +1967,12 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 5.- Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTICULO 160 Bis
+
+6.- El 1% de la recaudación del Impuesto sobre Nómina se destinará a un fideicomiso, el cual tendrá como objeto financiar programas e iniciativas de proyectos seleccionados y aprobados por el Comité Técnico del Fideicomiso que mejoren la calidad de vida de los Neoloneses.
+
 ###### ARTICULO 161.
 
 (DEROGADO, P.O. 28 DE DICIEMBRE DE 1979)
@@ -2861,9 +2867,9 @@ b) Expedición de copias de registro de antecedentes, por cada una ….. 0.10 cu
 
 c) Información de datos de antecedentes registrales ….. 1 cuota
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-d) Por consulta en línea, por cada imagen digital ….. 1 cuota
+d) Por consulta remota en línea, por cada imagen digital ….. 1 cuota
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2884,6 +2890,10 @@ XIX.- Por la expedición de copias simples de las inscripciones y asientos regis
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XX.- Por la certificación de copias de las inscripciones y asientos registrales, sin perjuicio de la fracción anterior ….. 2 cuotas
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XXI.- Por la revisión de un trámite que fue previamente declarado como improcedente, habiéndose demostrado la existencia del rechazo atribuible al interesado ….. 1 cuota
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3035,21 +3045,41 @@ La publicación de Leyes, Decretos, Reglamentos, Acuerdos, Resoluciones y Circul
 
 Por los siguientes servicios prestados por la Dirección de Archivo General de Notarías:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2023)</small>
 
-I.- Por certificación de constancia 2.5 cuotas
+I.- Por la expedición de copias simples de los instrumentos públicos notariales, sus anexos y demás documentación por página .018 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja.….46 cuotas
+II.- Por certificación de copias de los instrumentos públicos notariales y sus anexos, sin perjuicio de la fracción anterior 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-III.- Por presentación de aviso testamentario 3 cuotas
+III.- Por expedición de testimonios:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+a) Certificación de constancias 2.5 cuotas
 
-IV.- Por la expedición de informes sobre la existencia o inexistencia de testamento 2.5 cuotas
+b) Costo por hoja de testimonio 1 cuota
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2023)</small>
+
+IV.- Por presentación de aviso testamentario 3 cuotas
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+V.- Rectificación de aviso testamentario 6 cuotas
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2023)</small>
+
+VI.- Por la expedición de informes sobre la existencia o inexistencia de testamento 2.5 cuotas
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+VII.- Por expedición de constancias no incluidas en las fracciones anteriores 1 cuota
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+VIII.- Búsqueda y localización de libros, escrituras, actas, documentos, archivos expedientes y demás información solicitada 1 cuota
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -3097,6 +3127,26 @@ f) Certificación de estudios de escuelas desaparecidas, así como, por la legal
 
 g) Constancias sobre liberación de servicio social de escuelas desaparecidas ... 1 cuota
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+h) Validación de certificados de estudios ... 1.5 cuotas
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+i) Constancia de ingreso a la base de datos del Sistema de Preparatoria Abierta ... 1.5 cuotas
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+j) Historial académico del alumno de Preparatoria Abierta ... 1 cuota
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+k) Constancia de estudios ... 1.5 cuotas
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+l) Validación de exámenes para expedición de certificado de estudios ... 5 cuotas
+
 4. Educación Superior:
 
 a) Legalización de certificados, así como el registro y legalización de certificados y registro y legalización de actas de examen profesional, de nivel superior, por cada trámite ... 10.5 cuotas
@@ -3118,6 +3168,10 @@ e) Registro y legalización de actas de examen profesional, así como de certifi
 f) Certificados de estudios, de actas de examen profesional y transcripciones de títulos profesionales, de escuelas desaparecidas, por cada trámite ... 3 cuotas
 
 g) Constancias de Servicio Social de escuelas desaparecidas ... 1.5 cuotas
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+h) Validación de certificados de estudios ... 1.5 cuotas
 
 5. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2019)
 
@@ -3217,295 +3271,359 @@ A. Licencias y autorizaciones de cambio de giro o domicilio y en su caso el refr
 
 1.- Estadios de futbol y béisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas:
 
-a) Con capacidad de hasta 15,000 personas 750 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Con capacidad de más de 15,000 personas y hasta 25,000
+a) Con capacidad de hasta 15,000 personas 1,500 cuotas
 
-personas 1350 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-c) Con capacidad de más de 25,000 personas 1750 cuotas
+b) Con capacidad de más de 15,000 personas y hasta
+
+25,000 personas 2,700 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+c) Con capacidad de más de 25,000 personas 3,500 cuotas
 
 2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares:
 
-a) Con un área de atención al público no mayor de 120 metros
-
-cuadrados 1196 cuotas
-
-b) Con superficie de atención al público mayor a 120 metros
-
-cuadrados 1414 cuotas
-
-3.- Rodeos:
-
-a) Con capacidad de hasta 1,500 personas 942 cuotas
-
-b) Con capacidad mayor de 1,500 personas 1250 cuotas
-
-4.- Hoteles y moteles de paso, con servicio de bar y
-
-restaurante-bar 750 cuotas
-
-5.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
-
-a) Abarrotes con venta de cerveza, con un área de exposición al público,
-
-no mayor de 50 metros cuadrados 8 cuotas
-
-b) Abarrotes con venta de cerveza, vinos y licores con un área de
-
-exposición al público no mayor de 50 metros
-
-cuadrados 16 cuotas
-
-c) Depósitos con venta de cerveza, incluyendo los que tienen
-
-servicio de auto 20 cuotas
-
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los
-
-que tienen servicio de auto 40 cuotas
-
-e) Licorerías 40 cuotas
-
-f) Minisuper y tiendas de conveniencia con un área de exposición
-
-al público no mayor a 120 metros cuadrados 30 cuotas
-
-g) Minisuper y tiendas de conveniencia con un área de exposición
-
-al público mayor a 120 metros cuadrados 68 cuotas
-
-h) Tiendas de autoservicio con un área de exposición al público
-
-mayor a 120 metros cuadrados 96 cuotas
-
-i) Tiendas de autoservicio departamentales con un área de
-
-exposición al público mayor a 120 metros cuadrados 190 cuotas
-
-j) Establecimientos que expendan al mayoreo y con servicio de
-
-distribución, cerveza o bebidas alcohólicas en botella
-
-cerrada 170 cuotas
-
-6.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
-
-a) Cervecerías con expendio de cerveza 44 cuotas
-
-b) Restaurantes, loncherías, fondas y similares, con expendio
-
-de cerveza 44 cuotas
-
-c) Billares con expendio de cerveza 44 cuotas
-
-d) Billares con expendio de cerveza, vinos y licores 64 cuotas
-
-e) Cantinas o bares, con expendio de cerveza, vinos y
-
-licores 126 cuotas
-
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores,
-
-con un área de atención al público de hasta 120 metros
-
-cuadrados 72 cuotas
-
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores,
-
-con un área de atención al público mayor a 120 metros
-
-cuadrados 126 cuotas
-
-h) Centros o Clubes Sociales o Deportivos con expendio y
-
-consumo de cerveza, vinos y licores, por metro cuadrado de
-
-superficie de expendio o consumo, pagarán 0.50 cuotas
-
-En ningún caso la cantidad a pagar será inferior a 50 cuotas
-
-i) Centros o Clubes Sociales o Deportivos con consumo de
-
-cerveza, vinos y licores, por metro cuadrado de superficie
-
-de consumo pagarán 0.14 cuotas
-
-En ningún caso la cantidad a pagar será inferior a 26 cuotas
-
-j) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
-
-Hasta 150 metros cuadrados de expendio o consumo
-
-abierto al público 76 cuotas
-
-Por el excedente de 150 metros, pagarán por cada metro
-
-cuadrado o fracción de expendio o consumo abierto al público 0.30 cuotas
-
-En ningún caso la cantidad a pagar será mayor a 500 cuotas
-
-B. Permisos especiales:
-
-1.- Para el expendio y consumo de bebidas alcohólicas, por
-
-metro cuadrado de superficie de expendio o consumo,
-
-pagarán 0.4 cuotas
-
-Más un 10% de los derechos por cada día de duración del permiso.
-
-2.- Para el consumo de bebidas alcohólicas, por metro cuadrado
-
-de superficie de consumo, pagarán 0.2 cuotas
-
-Más un 10% de los derechos por cada día de duración del permiso.
-
-En los casos señalados en los dos incisos anteriores, en ningún
-
-caso la cantidad a pagar deberá ser menor a 100 cuotas
-
-C. Autorizaciones de cambio de titular de licencia 36 cuotas
-
-II.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en la fracción I de este artículo:
-
-A. Por la expedición o en su caso refrendo anual de licencias, así como por autorización de cambio de giro o domicilio:
-
-1.- Estadios de futbol y béisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas:
-
-a) Con capacidad de hasta 15 mil personas 500 cuotas
-
-b) Con capacidad de más de 15 mil personas 900 cuotas
-
-2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares:
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 a) Con un área de atención al público no mayor de 120
 
-metros cuadrados 386 cuotas
+metros cuadrados 2,392 cuotas
 
-b) Con superficie de atención al público mayor a 120 metros
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-cuadrado (sic) 436 cuotas
+b) Con superficie de atención al público mayor a 120
+
+metros cuadrados 2,828 cuotas
 
 3.- Rodeos:
 
-a) Con capacidad de hasta 1,500 personas 436 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Con capacidad mayor de 1,500 personas 750 cuotas
+a) Con capacidad de hasta 1,500 personas 1,884 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Con capacidad mayor de 1,500 personas 2,500 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 4.- Hoteles y moteles de paso, con servicio de bar y
 
-restaurant-bar 436 cuotas
+restaurante- bar 1,500 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 5.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
 
 a) Abarrotes con venta de cerveza, con un área de exposición
 
-al público, no mayor de 50 metros cuadrados 6 cuotas
+al público, no mayor de 50 metros cuadrados 16 cuotas
 
-b) Abarrotes con venta de cerveza, vinos y licores con un área
+b) Abarrotes con venta de cerveza, vinos y licores con un área de
 
-de exposición al público no mayor de 50 metros cuadrados 10 cuotas
+exposición al público no mayor de 50 metros cuadrados 32 cuotas
 
-c) Depósitos con venta de cerveza, incluyendo los que tienen
+c) Depósitos con venta de cerveza, incluyendo los que
 
-servicio de auto 14 cuotas
+tienen servicio de auto 40 cuotas
 
 d) Depósitos con venta de cerveza, vinos y licores, incluyendo
 
-los que tienen servicio de auto 28 cuotas
+los que tienen servicio de auto 80 cuotas
 
-e) Licorerías 28 cuotas
+e) Licorerías 80 cuotas
 
-f) Minisuper y tiendas de conveniencia con un área de exposición
+f) Minisuper y tiendas de conveniencia con un área de
 
-al público no mayor a 120 metros cuadrados 16 cuotas
+exposición al público no mayor a 120 metros cuadrados 60 cuotas
 
-g) Minisuper y tiendas de conveniencia con un área de exposición
+g) Minisuper y tiendas de conveniencia con un área de
 
-al público mayor a 120 metros cuadrados 34 cuotas
+exposición al público mayor a 120 metros cuadrados 136 cuotas
 
-h) Tiendas de autoservicio con un área de exposición al público
+h) Tiendas de autoservicio con un área de exposición al
 
-mayor de 120 metros cuadrados 60 cuotas
+público mayor a 120 metros cuadrados 192 cuotas
 
 i) Tiendas de autoservicio departamentales con un área de
 
-exposición al público mayor a 120 metros cuadrados 138 cuotas
+exposición al público mayor a 120 metros cuadrados 380 cuotas
 
-6.- Establecimientos que expendan al mayoreo y con servicio
+j) Establecimientos que expendan al mayoreo y con servicio de
 
-de distribución, cerveza o bebidas alcohólicas en botella
+distribución, cerveza o bebidas alcohólicas en botella cerrada 340 cuotas
 
-cerrada 68 cuotas
+6.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
-7.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-a) Cervecerías con expendio de cerveza 30 cuotas
+a) Cervecerías con expendio de cerveza 88 cuotas
 
-b) Restaurantes, loncherías, fondas y similares, con expendio
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-de cerveza 28 cuotas
+b) Restaurantes, loncherías, fondas y similares, con
 
-c) Billares con expendio de cerveza 30 cuotas
+expendio de cerveza 88 cuotas
 
-d) Billares con expendio de cerveza, vinos y licores 50 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores 86 cuotas
+c) Billares con expendio de cerveza 88 cuotas
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores,
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-con un área de atención al público de hasta 120 metros
+d) Billares con expendio de cerveza, vinos y licores 128 cuotas
 
-cuadrados 20 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores,
+e) Cantinas o bares, con expendio de cerveza, vinos
 
-con un área de atención al público mayor a 120 metros
+y licores 252 cuotas
 
-cuadrados 32 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-h) Centros o Clubes Sociales o Deportivos, con expendio o
+f) Restaurantes-bar, con expendio de cerveza, vinos
 
-consumo de cerveza, vinos y licores, por metro cuadrado de
+y licores, con un área de atención al público de hasta
 
-superficie de expendio o consumo, pagarán 0.40 cuotas
+120 metros cuadrados 144 cuotas
 
-En ningún caso la cantidad a pagar será inferior a 40 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
+g) Restaurantes-bar, con expendio de cerveza, vinos
 
-Hasta 150 metros cuadrados de expendio o consumo abierto
+y licores, con un área de atención al público mayor a
 
-al público 20 cuotas
+120 metros cuadrados 252 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+h) Centros o Clubes Sociales o Deportivos con expendio
+
+y consumo de cerveza, vinos y licores, por metro cuadrado
+
+de superficie de expendio o consumo, pagarán 1 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 100 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+i) Centros o Clubes Sociales o Deportivos con consumo
+
+de cerveza, vinos y licores, por metro cuadrado de superficie
+
+de consumo pagarán 0.28 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 52 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+j) Hoteles en los que se expendan o consuman cervezas,
+
+vinos o licores, pagarán:
+
+Hasta 150 metros cuadrados de expendio o consumo
+
+abierto al público 152 cuotas
 
 Por el excedente de 150 metros, pagarán por cada metro
 
-cuadrado o fracción de expendio o consumo abierto al
+cuadrado o fracción de expendio o consumo abierto al público 0.60 cuotas
 
-público 0.30 cuotas
+En ningún caso la cantidad a pagar será mayor a 1,000 cuotas
 
-En ningún caso la cantidad a pagar será mayor a 126 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 B. Permisos especiales:
 
-1.- Para el expendio y consumo de bebidas alcohólicas, por metro
+1.- Para el expendio y consumo de bebidas alcohólicas,
 
-cuadrado de superficie de expendio o consumo, pagarán 0.30 cuotas
+por día y metro cuadrado de superficie de expendio o
 
-Más un 10% de los derechos por cada día de duración del permiso.
+consumo, pagarán 0.8 cuotas
 
-2.- Para el consumo de bebidas alcohólicas, por metro cuadrado
+2.- Para el consumo de bebidas alcohólicas, por día y
 
-de superficie de consumo, pagarán 0.15 cuotas
+metro cuadrado de superficie de consumo, pagarán 0.4 cuotas
 
-Más un 10% de los derechos por cada día de duración del permiso.
+En los casos señalados en los dos incisos anteriores, en
 
-En los casos señalados en los dos numerales anteriores, en
+ningún caso la cantidad a pagar deberá ser menor a 200 cuotas
 
-ningún caso la cantidad a pagar deberá ser menor a 50 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-C. Autorizaciones de cambio de titular de licencia 30 cuotas
+C. Autorizaciones de cambio de titular de licencia 72 cuotas
+
+II.- Por la expedición o en su caso refrendo anual de licencias, por expedición del permiso especial, así como por autorización de cambio de giro, domicilio o titular, en los términos de la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas, excepto en los municipios señalados en la fracción I de este artículo:
+
+A. Por la expedición o en su caso refrendo anual de licencias, así como por autorización de cambio de giro o domicilio:
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+1.- Estadios de futbol y béisbol, arenas de box, lucha libre,
+
+plazas de toros y en general todo lugar donde se realicen
+
+actividades deportivas:
+
+a) Con capacidad de hasta 15 mil personas 1,000 cuotas
+
+b) Con capacidad de más de 15 mil personas 1,800 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+2.- Cabarets, centros nocturnos, discotecas, casas y
+
+establecimientos de apuestas, lugares públicos de reunión
+
+con variedad artística y similares:
+
+a) Con un área de atención al público no mayor de
+
+120 metros cuadrados 772 cuotas
+
+b) Con superficie de atención al público mayor a
+
+120 metros cuadrado (sic) 872 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+3.- Rodeos:
+
+a) Con capacidad de hasta 1,500 personas 872 cuotas
+
+b) Con capacidad mayor de 1,500 personas 1,500 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+4.- Hoteles y moteles de paso, con servicio de bar
+
+y restaurant-bar 872 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+5.- Establecimientos que expendan bebidas alcohólicas en botella cerrada:
+
+a) Abarrotes con venta de cerveza, con un área de exposición
+
+al público, no mayor de 50 metros cuadrados 12 cuotas
+
+b) Abarrotes con venta de cerveza, vinos y licores con un
+
+área de exposición al público no mayor de 50 metros
+
+cuadrados 20 cuotas
+
+c) Depósitos con venta de cerveza, incluyendo los que tienen
+
+servicio de auto 28 cuotas
+
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo
+
+los que tienen servicio de auto 56 cuotas
+
+e) Licorerías 56 cuotas
+
+f) Minisuper y tiendas de conveniencia con un área de
+
+exposición al público no mayor a 120 metros cuadrados 32 cuotas
+
+g) Minisuper y tiendas de conveniencia con un área de
+
+exposición al público mayor a 120 metros cuadrados 68 cuotas
+
+h) Tiendas de autoservicio con un área de exposición al
+
+público mayor de 120 metros cuadrados 120 cuotas
+
+i) Tiendas de autoservicio departamentales con un área de
+
+exposición al público mayor a 120 metros cuadrados 276 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+6.- Establecimientos que expendan al mayoreo y con
+
+servicio de distribución, cerveza o bebidas alcohólicas
+
+en botella cerrada 136 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+7.- Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
+
+a) Cervecerías con expendio de cerveza 60 cuotas
+
+b) Restaurantes, loncherías, fondas y similares, con
+
+expendio de cerveza 56 cuotas
+
+c) Billares con expendio de cerveza 60 cuotas
+
+d) Billares con expendio de cerveza, vinos y licores 100 cuotas
+
+e) Cantinas o bares, con expendio de cerveza,
+
+vinos y licores 172 cuotas
+
+f) Restaurantes-bar, con expendio de cerveza,
+
+vinos y licores, con un área de atención al público
+
+de hasta 120 metros cuadrados 40 cuotas
+
+g) Restaurantes-bar, con expendio de cerveza,
+
+vinos y licores, con un área de atención al público
+
+mayor a 120 metros cuadrados 64 cuotas
+
+h) Centros o Clubes Sociales o Deportivos, con
+
+expendio o consumo de cerveza, vinos y licores,
+
+por metro cuadrado de superficie de expendio
+
+o consumo, pagarán 0.80 cuotas
+
+En ningún caso la cantidad a pagar será inferior a 80 cuotas
+
+i) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
+
+Hasta 150 metros cuadrados de expendio o consumo
+
+abierto al público 40 cuotas
+
+Por el excedente de 150 metros, pagarán por cada metro cuadrado
+
+o fracción de expendio o consumo abierto al público 0.60 cuotas
+
+En ningún caso la cantidad a pagar será mayor a 252 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+B. Permisos especiales:
+
+1.- Para el expendio y consumo de bebidas alcohólicas,
+
+por día y metro cuadrado de superficie de expendio
+
+o consumo, pagarán 0.6 cuotas
+
+2.- Para el consumo de bebidas alcohólicas, por día y
+
+metro cuadrado de superficie de consumo, pagarán 0.3 cuotas
+
+En los casos señalados en los dos numerales anteriores,
+
+en ningún caso la cantidad a pagar deberá ser menor a 100 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+C. Autorizaciones de cambio de titular de licencia 60 cuotas
 
 Para la aplicación de los derechos previstos en las fracciones I y II anteriores, cuando en un establecimiento existan varios giros, se pagarán los derechos correspondientes para cada uno de ellos.
 
@@ -3563,31 +3681,45 @@ Por los servicios prestados por el Instituto Registral y Catastral del Estado a 
 
 I.- Por Expedición en Archivo Electrónico en línea de documentos existentes en el expediente catastral:
 
-a) Impresión de imagen simple por hoja 0.018 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Impresión de imagen certificada por cada documento, sin
+a) Impresión de imagen simple por hoja 0.036 cuotas
 
-perjuicio de lo dispuesto en el inciso anterior 2 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Impresión de imagen certificada por cada documento,
+
+sin perjuicio de lo dispuesto en el inciso anterior 3 cuotas
 
 II.- Por expedición de Archivo Electrónico en línea de Informe y Cédula Catastrales:
 
-a) Informativo de Valor Catastral de trasmisión de propiedad
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-de Bienes Raíces en el Estado con formato autorizado y aviso
+a) Informativo de Valor Catastral de trasmisión de
 
-de enajenación mediante el uso de la Plataforma de Notarios
+propiedad de Bienes Raíces en el Estado con formato
 
-por medios electrónicos y/o cualquier otro medio establecido
+autorizado y aviso de enajenación mediante el uso de
 
-por el Instituto Registral y Catastral del Estado 5 cuotas
+la Plataforma de Notarios por medios electrónicos
 
-b) Cédula Única Catastral 4.5 cuotas
+y/o cualquier otro medio establecido por el Instituto
+
+Registral y Catastral del Estado 6 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Cédula Única Catastral 5 cuotas
 
 III.- Por Expedición de Archivo Electrónico en línea de Constancias de inscripción Catastral:
 
-a) Constancia de no Inscripción 2 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Constancia de inscripción, por predio 2 cuotas
+a) Constancia de no Inscripción 3 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Constancia de inscripción, por predio 3 cuotas
 
 c) Constancia de comprobante domiciliario catastral, por cada
 
@@ -3595,37 +3727,53 @@ predio 1 cuota
 
 IV.- Por Expedición de Archivo Electrónico en línea de Certificaciones Catastrales:
 
-a) Certificación de Información Catastral, actual o histórica,
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-por lote o inmueble 5 cuotas
+a) Certificación de Información Catastral, actual o
+
+histórica, por lote o inmueble 6 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
 b) Certificación de Inscripción Catastral, identificación
 
 cartográfica y/o alfanumérica de existencia o inexistencia
 
-de un lote o inmueble 5 cuotas
+de un lote o inmueble 6 cuotas
 
 V.- Por actualización y validación, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado:
 
-a) Modificación cartográfica y alfanumérica resultado de
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-acreditación y/o rectificación de medidas, por lote 2 cuotas
+a) Modificación cartográfica y alfanumérica resultado
 
-b) Validación cartográfica, por predio 58 cuotas
+de acreditación y/o rectificación de medidas, por lote 3 cuotas
 
-c) Validación cartográfica y asignación de numeración por
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-proyecto inmobiliario 58 cuotas
+b) Validación cartográfica, por predio 60 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+c) Validación cartográfica y asignación de numeración
+
+por proyecto inmobiliario 60 cuotas
 
 VI.- Por diversos servicios catastrales, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado:
 
-a) Inscripción de fraccionamientos, relotificaciones y/o condominios,
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-por cada lote o unidad resultante 2 cuotas
+a) Inscripción de fraccionamientos, relotificaciones y/o
 
-b) Actualización cartográfica y alfanumérica por lote resultante
+condominios, por cada lote o unidad resultante 3 cuotas
 
-producto de: Subdivisión y/o fusión, o desglose 2 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+b) Actualización cartográfica y alfanumérica por
+
+lote resultante producto de: Subdivisión y/o fusión,
+
+o desglose 3 cuotas
 
 c) Incorporación de predio omiso, por cada lote 4 cuotas
 
@@ -3633,69 +3781,135 @@ d) Validación de actualización de datos catastrales, por cada
 
 predio 1 cuota
 
-e) Ingreso de aclaraciones, por cada predio 1 cuota
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+e) Ingreso de aclaraciones, por cada trámite a corregir 2 cuotas
 
 VII.- Por información y ubicación de predios, con entregable de Archivo Electrónico en línea y/o cualquier otro medio señalado por el Instituto Registral y Catastral del Estado, por cada uno:
 
-a) Urbanos 2 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Rústicos 4 cuotas
+a) Urbanos 4 cuotas
 
-VIII.- Por baja de construcción por demolición u otras causas;
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-con entregable de Archivo Electrónico en línea y/o cualquier
+b) Rústicos 6 cuotas
 
-otro medio señalado por el Instituto Registral y Catastral del
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-Estado, por cada uno 5 cuotas
+VIII.- Por baja de construcción por demolición u otras
 
-IX.- Resello de planos de construcción; con entregable de
+causas; con entregable de Archivo Electrónico en línea
 
-Archivo Electrónico en línea y/o cualquier otro medio señalado
+y/o cualquier otro medio señalado por el Instituto Registral
 
-por el Instituto Registral y Catastral del Estado, por cada
+y Catastral del Estado, por cada uno 6 cuotas
 
-uno 4 cuotas
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
+
+IX.- Resello de planos de construcción; con entregable
+
+de Archivo Electrónico en línea y/o cualquier otro medio
+
+señalado por el Instituto Registral y Catastral del Estado,
+
+por cada uno 5 cuotas
 
 X.- Por Expedición de Archivo Electrónico en línea de planos de terreno y construcción existentes en el archivo digital en el Sistema de Gestión Catastral:
 
 a) Impresión de imagen simple de planos: Manzaneros, fraccionamientos, condominios, subdivisiones, construcciones y otros, según las siguientes medidas:
 
-1. Carta u oficio 1.5 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-2. Mayor a oficio y hasta doble carta 3 cuotas
+1. Carta u oficio 2 cuotas
 
-3. Mayor a doble carta y hasta 61 cm x 91 cm 4.5 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-4. Mayor a 61 cm x 91 cm 6 cuotas
+2. Mayor a oficio y hasta doble carta 4 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm 5.5 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+4. Mayor a 61 cm x 91 cm 7 cuotas
 
 b) Impresión de imagen certificada de planos: Manzaneros, fraccionamientos, condominios, subdivisiones y otros, según las siguientes medidas:
 
-1. Carta u oficio 4 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-2. Mayor a oficio y hasta doble carta 6 cuotas
+1. Carta u oficio 5 cuotas
 
-3. Mayor a doble carta y hasta 61 cm x 91cm 8 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-4. Mayor a 61 cm x 91 cm 10 cuotas
+2. Mayor a oficio y hasta doble carta 7 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+3. Mayor a doble carta y hasta 61 cm x 91cm 9 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+4. Mayor a 61 cm x 91 cm 11 cuotas
 
 XI.- Expedición de Archivo Electrónico en línea de plano de terreno de cartografía digital:
 
 a) Impresión de imagen de plano simple de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
 
-1. Doble carta 4.5 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-2. Mayor a doble carta 6 cuotas
+1. Doble carta 5.5 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+2. Mayor a doble carta 7 cuotas
 
 b) Impresión de imagen de plano certificado de cartografía digital de lote de terreno, indicando medidas y ubicación, según las siguientes medidas:
 
-1. Doble carta 8 cuotas
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-2. Mayor a doble carta 10 cuotas
+1. Doble carta 9 cuotas
 
-c) Impresión de imagen de duplicado de validación cartográfica
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-doble carta 8 cuotas
+2. Mayor a doble carta 11 cuotas
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+c) Impresión de imagen de duplicado de validación
+
+cartográfica doble carta 9 cuotas
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2023)</small>
+
+XII.- Por cualquier otro documento, no contemplado en las fracciones anteriores, que sea obtenido de las bases de datos de la Dirección de Catastro o que cuente con información catastral:
+
+a) Impresión de imagen simple, por cada lote:
+
+1. Carta u oficio 2 cuotas
+
+2. Mayor a oficio y hasta doble carta 4 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91 cm 5.5 cuotas
+
+4. Mayor a 61 cm x 91 cm 7 cuotas
+
+b) Impresión de imagen certificada, por cada lote:
+
+1. Carta u oficio 5 cuotas
+
+2. Mayor a oficio y hasta doble carta 7 cuotas
+
+3. Mayor a doble carta y hasta 61 cm x 91cm 9 cuotas
+
+4. Mayor a 61 cm x 91 cm 11 cuotas
+
+c) Expedición de archivo electrónico, por cada lote:
+
+1. Archivo simple 5 cuotas
+
+2. Archivo certificado 8 cuotas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
@@ -3739,19 +3953,19 @@ c) Evaluación de estudio de riesgo 500 cuotas
 
 III.- En el rubro de residuos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-a) Constancia de ingreso a la base de datos de
+a) Evaluación de la factibilidad de ingreso al registro
 
-generadores de residuos de manejo especial 70 cuotas
+como generador de residuos de manejo especial 90 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-b) Evaluación de factibilidad para realizar recolección
+b) Evaluación de la factibilidad para realizar la
 
-y transporte, reciclaje, reúso y disposición final de residuos
+recolección y transporte, reciclaje y reúso de
 
-de manejo especial. 150 cuotas
+residuos de manejo especial 150 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3801,15 +4015,15 @@ i) Evaluación de factibilidad de instalación y viabilidad para
 
 el Almacenamiento y/o Acopio de residuos de Manejo Especial. 150 cuotas
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-j) Evaluación de·factibilidad para realizar recolección,
+j) Evaluación de factibilidad para realizar recolección,
 
 transporte, y disposición final de Aguas Residuales
 
-provenientes del desazolve de fosas sépticas y/o limpieza
+provenientes del desazolve de fosas impermeables
 
-de baños portátiles 90 cuotas
+y/o limpieza de baños portátiles 90 cuotas
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -3821,21 +4035,41 @@ Residuos de Manejo Especial 75 cuotas
 
 IV.- En el rubro de aguas residuales:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-a) Constancia de ingreso a la base de datos
+a) Evaluación de la factibilidad de descargas de aguas
 
-de usuarios de fosas sépticas 35 cuotas
+residuales al (sic) fosas impermeables y su respectiva constancia
 
-b) Constancia de ingreso a la base de datos de
+de ingreso a la base de datos de generadores de
 
-descargas o de plantas de tratamiento de aguas residuales 46 cuotas
+descargas a fosas impermeables 46 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-c) Evaluación de informes de descargas de
+b) Evaluación de la factibilidad de descargas de aguas
 
-aguas residuales 25 cuotas
+residuales al sistema de drenaje y alcantarillado sanitario
+
+y su respectiva constancia de ingreso a la base de datos
+
+de generadores de descargas de aguas residuales 46 cuotas
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2023)</small>
+
+c) Evaluación de la factibilidad del establecimiento de
+
+sistema de tratamiento de aguas residuales y su respectiva
+
+constancia de ingreso a la base de datos de usuarios con
+
+sistemas de tratamiento de aguas residuales 46 cuotas
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 2023)</small>
+
+d) Evaluación de informes semestrales de descargas
+
+de aguas residuales 25 cuotas
 
 (REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 14 DE ENERO DE 2019)
 
@@ -4109,13 +4343,11 @@ a) Contratistas N$440.00
 
 b) Proveedores N$220.00
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por el Instituto Registral y Catastral del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción ….. $ 5.00
+V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por el Instituto Registral y Catastral del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción ….. $ 7.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-En ningún caso la cantidad a cubrir será menor a ….. 5 cuotas
+En ningún caso la cantidad a cubrir será menor a ….. 6 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4248,6 +4480,10 @@ k) Copia simple, por hoja ….. 0.018 cuotas
 l) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en el inciso anterior ….. 2 cuotas
 
 m) Por cualquier otra certificación o expedición de constancias distintas de las señaladas en las fracciones que anteceden ….. 3 cuotas
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+n) Por la evaluación de factibilidad de la solicitud inicial para la prestación de servicios ….. 50 cuotas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -4544,6 +4780,178 @@ En caso de que la Secretaría de Desarrollo Urbano y Obras Públicas del Estado 
 Para efectos del cálculo del Impuesto Sobre Tenencia o Uso de Vehículos, a que se refiere el Artículo 132 de esta Ley, en relación a los vehículos respecto de los cuales en el año inmediato anterior al en que se efectúa el cálculo del impuesto, no se hubiese aplicado el mismo, se considerará impuesto causado en el ejercicio fiscal inmediato anterior, al impuesto federal causado en el mismo ejercicio fiscal inmediato anterior, conforme a las disposiciones de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos expedida por el H. Congreso de la Unión.
 
 En caso de que en el Ejercicio Fiscal inmediato anterior, al en que se efectúa el cálculo del impuesto estatal, no se hubiesen generado ni el impuesto estatal ni el impuesto federal, en relación con el vehículo respecto del cual se efectúa el cálculo del impuesto; para los efectos del Artículo 132 de esta Ley, se considerará como impuesto causado en el ejercicio fiscal inmediato anterior, al que se habría causado de haberse aplicado el impuesto federal, conforme a la Ley vigente en el año 2010.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO NOVENO.
+
+– Se autoriza al Ejecutivo del Estado para constituir un fideicomiso con los recursos descritos en el artículo primero del presente Decreto conforme a los siguientes lineamientos:
+
+###### Artículo 1.
+
+El fideicomiso tendrá como objeto los siguientes:
+
+I. Financiar proyectos e iniciativas sociales, para el beneficio del Estado Libre y Soberano de Nuevo León, que permitan:
+
+a. Mejorar las oportunidades y calidad de vida de la población del Estado;
+
+b. Resolver las causas estructurales de inseguridad y de violencia en el Estado;
+
+c. Fortalecer la movilidad social con iniciativas para el mejoramiento de la salud, educación, juventud, empleo, asistencia social, derechos humanos, participación ciudadana, familia, deporte, medio ambiente, ciencia y tecnología, desarrollo urbano, cultura y turismo;
+
+d. Fortalecer las capacidades y desempeño de las organizaciones de la sociedad civil para la mejor instrumentación de los objetivos del fideicomiso; y
+
+e. Mejorar las condiciones de seguridad, paz y justicia en el Estado.
+
+II. Los demás que, acorde con los anteriores, se pacten en el contrato de fideicomiso que se celebre.
+
+###### Artículo 2.
+
+En el contrato de fideicomiso se establecerán los fines que sean necesarios para lograr los objetos mencionados en el artículo anterior
+
+###### Artículo 3.
+
+Queda estrictamente prohibido otorgar apoyos a proyectos que de manera directa o indirecta beneficien a personas e instituciones con fines políticos, electorales o religiosos, cualquiera que sea su índole. Así mismo, se prohíbe otorgar apoyos a proyectos que no hayan pasado por los procesos descritos en el contrato de fideicomiso.
+
+###### Artículo 4.
+
+El fideicomitente será el Gobierno del Estado de Nuevo León, a través de la Secretaría de Finanzas y Tesorería General del Estado. El Gobierno del Estado tiene la obligación de transferir, los recursos provenientes del 1% de la recaudación del Impuesto Sobre la Nómina de manera mensual. También serán fideicomitentes las personas que realicen aportaciones al constituirse el contrato de fideicomiso.
+
+###### Artículo 5.
+
+Los fideicomisarios serán la asociación civil o las asociaciones civiles que operarán los recursos fideicomitidos. Serán también fideicomisarios las personas, asociaciones, grupos y colectivos a las que el Comité Técnico designe para recibir apoyos. La designación de fideicomisarios por parte del Comité Técnico respetará el proceso descrito en el contrato de fideicomiso.
+
+La fiduciaria será la institución que más convenga para la realización de los objetos descritos en el artículo 1 de los presentes lineamientos.
+
+###### Artículo 6.
+
+El patrimonio del fideicomiso se integrará con:
+
+I. Las aportaciones realizadas por el fideicomitente;
+
+II. Las aportaciones voluntarias realizadas por cualquier persona física, moral, pública, privada, nacional o extranjera;
+
+III. Las inversiones, los frutos y rendimientos obtenidos del patrimonio fideicomitido;
+
+IV. Los bienes adquiridos con recursos fideicomitidos;
+
+V. Las cantidades obtenidas de la venta de bienes fideicomitidos; y
+
+VI. Los bienes adquiridos por cualquier título legal.
+
+###### Artículo 7.
+
+La fiduciaria tendrá las facultades necesarias para cumplir con los objetos y fines del fideicomiso.
+
+###### Artículo 8.
+
+El gobierno del fideicomiso está a cargo de un Comité Técnico.
+
+###### Artículo 9.
+
+El Comité Técnico estará integrado por 21 integrantes, los cuales tendrán derecho a voz y voto. El Comité Técnico se integra de la siguiente manera:
+
+I. Cuatro representantes de las Secretarías del Estado;
+
+II. Tres Diputados representantes de la Legislatura local; y
+
+III. Catorce representantes del sector empresarial del Estado.
+
+Cada integrante del Comité Técnico asignará su suplente, quien en caso de ausencia del titular tendrá las mismas facultades. El suplente no podrá delegar a un tercero sus funciones.
+
+###### Artículo 10.
+
+El Comité Técnico sesionará válidamente con la asistencia de la mayoría simple de sus integrantes que tengan derecho a voz y voto.
+
+Las resoluciones del Comité Técnico se tomarán por el voto de la mayoría simple de los integrantes presentes; en caso de empate el Presidente del Comité Técnico tendrá voto de calidad.
+
+###### Artículo 11.
+
+En el supuesto de que se aumentará la cantidad de integrantes del Comité Técnico, se deberá respetar la proporción de dos terceras partes del sector empresarial y una tercera parte integrada entre el Gobierno estatal y el Congreso del Estado, de conformidad con el artículo 9.
+
+###### Artículo 12.
+
+Los representantes de las Secretarías del Estado serán designados y removidos por el Gobernador o el Secretario General.
+
+La elección de los Diputados locales, será en conformidad a las respectivas convocatorias. La primera convocatoria será conforme al artículo décimo transitorio del presente Decreto, una vez constituido el fideicomiso le corresponderá al Comité Técnico, realizar las siguientes convocatorias.
+
+Los representantes del sector empresarial serán designados y removidos por los representantes de los organismos empresariales legalmente constituidos.
+
+###### Artículo 13.
+
+Los integrantes del sector empresarial durarán en su encargo por 2 años, con derecho a ser reelegidos por dos períodos adicionales.
+
+###### Artículo 14.
+
+El Comité Técnico será presidido por uno de sus integrantes, quien será elegido por mayoría simple. El encargo del Presidente tendrá una duración de 2 años, con derecho a ser reelegido por dos períodos adicionales. El Presidente será elegido entre los miembros del sector empresarial.
+
+###### Artículo 15.
+
+El Comité Técnico tendrá un Secretario Técnico, quien será elegido por mayoría simple. Tendrá derecho de voz pero no de voto. El encargo tendrá una duración de 2 años, con derecho a ser reelegido por dos períodos adicionales.
+
+###### Artículo 16.
+
+El Comité Técnico podrá invitar a sus sesiones a las personas que considere pertinente para la consecución de los objetos y fines del fideicomiso; dichos invitados solo tendrán derecho a voz.
+
+###### Artículo 17.
+
+Los cargos de quienes integran el Comité Técnico serán honoríficos, por lo que no recibirán ninguna remuneración por su desempeño.
+
+###### Artículo 18.
+
+El Comité Técnico sesionará con la periodicidad que considere necesario, sin que pueda ser menor a 4 veces al año.
+
+###### Artículo 19.
+
+Las facultades del Comité Técnico son los (sic) siguientes:
+
+I. Gestionar ante el fideicomitente la transferencia de los recursos que se comprometió a transferir para el cumplimiento de los objetos y fines del fideicomiso;
+
+II. Gestionar ante terceros aportación de recursos para el cumplimiento de los objetos y fines del fideicomiso;
+
+III. Seleccionar los proyectos sociales que serán financiados. El gobierno, las personas, asociaciones, grupos y colectivos propondrán los programas, acciones, planes y proyectos, conforme a los respectivos lineamientos, para ser seleccionados y aprobados por el Comité Técnico del fideicomiso, y serán instrumentados por quienes el Comité Técnico designe;
+
+IV. Instruir a la fiduciaria sobre la distribución de los recursos fideicomitidos;
+
+V. Instruir a la fiduciaria sobre la inversión de los bienes fideicomitidos;
+
+VI. Vigilar a la fiduciaria respecto a la administración del patrimonio del fideicomiso;
+
+VII. Aprobar los estados financieros realizados por la fiduciaria;
+
+VIII. Realizar un informe semestral a la Secretaría de Finanzas y Tesorería del Estado sobre el uso de los recursos del fideicomiso;
+
+IX. Monitorear el uso de los recursos del fideicomiso y la realización de los proyectos financiados con recursos del fideicomiso.
+
+X. Crear anualmente un plan de trabajo. Dicho plan deberá aprobarse a más tardar en el mes de diciembre.
+
+XI. Crear una asociación civil y otorgar los recursos necesarios para operar los recursos fideicomitidos.
+
+XII. Crear subcomités, comisiones o cuerpos de trabajo para el cumplimiento de las finalidades del fideicomiso.
+
+XIII. Todas las necesarias para cumplir con los objetos y finalidades del fideicomiso.
+
+###### Artículo 20.
+
+El fideicomiso tendrá la duración necesaria para el cumplimiento de sus objetos y fines. En caso de extinguirse el fideicomiso y aún haya recursos se seguirán las siguientes reglas:
+
+I. Los recursos transferidos por el fideicomitente le serán devueltos;
+
+II. Los recursos transferidos por cualquier otra autoridad pública les serán devueltos; y
+
+III. Los recursos transferidos por particulares serán transferidos a asociaciones civiles que realizan proyectos afines a los objetos y fines del fideicomiso.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO DÉCIMO.
+
+En un plazo no mayor a 30 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial, se designarán a las personas que integrarán el Comité Técnico. Los representantes de los organismos empresariales serán los encargados del proceso de la designación de las personas que integrarán el Comité Técnico. Para cumplir con lo anterior, los representantes de los organismos empresariales deberán realizar la convocatoria prevista en el artículo 11.
+
+Las personas designadas para integrar el Comité Técnico nombrarán a un grupo de tres personas para negociar con la fiduciaria las cláusulas el (sic) contrato de fideicomiso; dichas cláusulas respetarán los lineamientos del presente decreto.
+
+El Estado deberá constituir el fideicomiso, conforme a lo previamente negociado, en un plazo no mayor a 60 días naturales, contados a partir de la vigencia del artículo tercero del presente Decreto.
+
+Dentro del primer año de vigencia del contrato de fideicomiso, el Comité Técnico deberá crear la asociación civil o las asociaciones civiles que operarán los recursos fideicomitidos. Mientras se crea la asociación o asociaciones civiles, el fideicomiso operará por instrucciones del Comité Técnico
 
 Por lo tanto, envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -5112,3 +5520,9 @@ En tanto no se expida el holograma a que se refiere el artículo 277 Bis-4, de l
 ###### ARTÍCULO TERCERO.
 
 El Capítulo Quinto del Título Segundo “De los Impuestos Ecológicos”, que se adiciona mediante el presente Decreto, estará en vigor hasta el 31 de diciembre de 2027.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 295. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO; Y SE REFORMA LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, EN SU ARTÍCULO 1, PRIMER PÁRRAFO, Y LA ADICIÓN DE UN ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO”.]
+
+ÚNICO.– El presente Decreto entrará en vigor el 01 de enero del año 2023.
