@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2022-01-26"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -41,9 +41,11 @@ LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
 ### Capítulo I. Creación, objeto y atribuciones del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2023)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular la función y el servicio público del control vehicular en el Estado, a través de la creación del Instituto de Control Vehicular como Organismo Público Descentralizado del Gobierno del Estado de Nuevo León, con personalidad jurídica y patrimonio propio, así como con autonomía técnica y de gestión para el cumplimiento de su objeto y atribuciones.
+La presente Ley tiene por objeto regular la función y el servicio público del control vehicular en el Estado, a través de la creación del Instituto de Control Vehicular como Organismo Público Descentralizado del Gobierno del Estado de Nuevo León, con personalidad jurídica y patrimonio propio, así como con autonomía técnica y de gestión para el cumplimiento de su objeto y atribuciones, el cual podrá ser identificado también por sus siglas ICV.
 
 Cuando en esta ley se utilice la palabra Instituto, se entenderá que se refiere al Instituto de Control Vehicular.
 
@@ -765,6 +767,12 @@ Artículo Vigésimo Segundo.- Durante el ejercicio fiscal 2022, tratándose de v
 
 En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
 
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+Artículo Vigésimo Tercero.- Durante el ejercicio fiscal 2023, tratándose de vehículos cuyo modelo sea 2014 o años anteriores, en los que no se cuente con documento idóneo que legalmente acredite la adquisición del mismo, conforme lo que disponen los artículos 14, 22 y 23, fracción VIII, de esta Ley, el interesado podrá solicitar su registro, presentando algún otro medio de prueba con el cual justifique la legal posesión, cumpliendo con los requisitos que al efecto establezca el propio Instituto, siempre que el vehículo no cuente con reporte de robo y se acredite la importación legal en caso de vehículos extranjeros, debiendo realizar el pago de los derechos correspondientes.
+
+En cualquier tiempo en que el Instituto advierta que el registro se asentó en contravención de disposiciones legales o que un tercero acredite la legítima propiedad del vehículo, el Instituto lo revocará, quedando sin efectos los medios de identificación vehicular, y certificaciones que haya emitido respecto de aquél, dando vista a la Fiscalía General de Justicia del Estado de Nuevo León para los efectos que procedan.
+
 Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los treinta días del mes de noviembre de 2005. PRESIDENTE: DIP. CÉSAR AGUSTÍN SERNA ESCALERA: DIP. SECRETARIA: ALICIA MARGARITA AYALA MEDINA: DIP. SECRETARIO: JULIO REYES RAMÍREZ.- Rúbricas.
@@ -872,3 +880,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se otorga un plazo de 90 días naturales a partir de la entrada en vigor del Presente Decreto para que los Municipios lleven a cabo las adecuaciones a sus respectivos reglamentos.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 295. SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO; Y SE REFORMA LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN, EN SU ARTÍCULO 1, PRIMER PÁRRAFO, Y LA ADICIÓN DE UN ARTÍCULO VIGÉSIMO TERCERO TRANSITORIO".]
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero del año 2023.
