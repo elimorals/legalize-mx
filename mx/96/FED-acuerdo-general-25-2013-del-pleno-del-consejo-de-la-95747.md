@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-25-2013-del-pleno-del-consejo-de-la-95747"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-09-06"
-last_updated: "2013-09-06"
+last_updated: "2023-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95747&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-08-28"
 ---
 # ACUERDO GENERAL 25/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE ESTABLECE LA IMPLEMENTACION DE LIBROS ELECTRONICOS DE REGISTRO PARA PLENOS DE CIRCUITO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES, PUBLICADO EN EL D.O.F. DE 13 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL DISPONGA EN LOS RESPECTIVOS ACUERDOS GENERALES PARA EL INICIO DE SUS FUNCIONES.]</small>
+
 ACUERDO GENERAL 25/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA IMPLEMENTACIÓN DE LIBROS ELECTRÓNICOS DE REGISTRO PARA PLENOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2013.
 
@@ -180,3 +182,47 @@ PRIMERO.- El presente acuerdo entrará en vigor treinta días después de su pub
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNÁNDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 25/2013, del Pleno del Consejo de la Judicatura Federal, que establece la implementación de Libros Electrónicos de Registro para Plenos de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiocho de agosto de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a veintiocho de agosto de dos mil trece.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. Para cada Pleno Regional, este Acuerdo entrará en vigor en la fecha en que el Pleno del Consejo de la Judicatura Federal disponga en los respectivos acuerdos generales para el inicio de sus funciones.
+
+Los acuerdos generales de inicio de funciones de los Plenos Regionales deberán contener, entre otras disposiciones:
+
+I. La denominación del órgano jurisdiccional;
+
+II. El domicilio del órgano jurisdiccional;
+
+III. La fecha de inicio de funciones del órgano jurisdiccional;
+
+IV. La jurisdicción territorial y la especialización por materia del órgano jurisdiccional;
+
+V. El envío de los asuntos pendientes de resolver por los Plenos de Circuito; y
+
+VI. Los demás aspectos necesarios para la operación del Pleno Regional que determine el Pleno del Consejo de la Judicatura Federal.
+
+TERCERO. En la fecha en que estén en funciones los ocho Plenos Regionales, se abrogan los Acuerdos Generales 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito y 25/2013 del Pleno del Consejo de la Judicatura Federal, que establece la implementación de libros electrónicos de registro para Plenos de Circuito.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos someterá a consideración del Pleno del Consejo de la Judicatura Federal los acuerdos generales de creación de los Plenos Regionales o de cualquier otra medida necesaria para su instrumentación.
+
+SEXTO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Plenos Regionales en lo no previsto por éste, siempre y cuando no se opongan al mismo. Las referencias que se hagan en otros acuerdos generales a los Plenos de Circuito se entenderán hechas a los Plenos Regionales.
+
+SÉPTIMO. Las Magistradas y Magistrados que se designen para formar parte de la primera integración de cada Pleno Regional durarán en su encargo, respectivamente, uno, dos y tres años, para lograr un reemplazo escalonado. En la designación que se formule de cada Magistrada o Magistrado se indicará la duración de su nombramiento, sin perjuicio de que a su término pueda ser designada o designado por un nuevo periodo de tres años.
+
+OCTAVO. Hasta en tanto se emitan las listas de personas habilitadas para desempeñar funciones de titulares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, las Magistradas y Magistrados podrán ser sustituidos para la atención de asuntos urgentes y de trámite por personas secretarias pertenecientes al Pleno Regional al que estén adscritas o adscritos.
+
+NOVENO. A partir de la aprobación del presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para su implementación.
+
+La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los Plenos Regionales de la infraestructura y equipamiento necesarios para el desempeño de sus funciones. En especial: (i) se dotará a los Plenos Regionales el equipo informático necesario para registrar las sesiones o audiencias; y (ii) se realizarán las modificaciones necesarias a los espacios físicos que los albergarán.
+
+DÉCIMO. Las Direcciones Generales de Tecnologías de la Información; y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del Pleno Regional o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
+
+DÉCIMO PRIMERO. La Visitaduría Judicial ajustará los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Plenos Regionales. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
