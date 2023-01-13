@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2022-10-31"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -2935,6 +2935,12 @@ X. Libro diez: de recursos de revisión contencioso-administrativa. En el supues
 
 Los tribunales Colegiados especializados en las materias penal, civil y laboral, llevarán todos los libros que se mencionan en el artículo anterior, excepto el nueve y diez; además los tribunales especializados en materia administrativa deberán llevar también los libros nueve y diez.
 
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+###### Artículo 150 Bis.
+
+En caso de que la Suprema Corte de Justicia de la Nación o el Consejo de la Judicatura Federal así lo determinen, estos libros serán aplicables también a los Plenos Regionales.
+
 #### SECCIÓN PRIMERA. LIBRO UNO DE AMPARO DIRECTO
 
 ###### Artículo 151.
@@ -3259,9 +3265,19 @@ También podrán anotarse la letra o el número con los que se identifique inter
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SEXTO. LIBROS PARA LOS PLENOS REGIONALES Y SUS CARACTERÍSTICAS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Tricies. Los libros de control obligatorios para los Plenos Regionales son los siguientes:
+
+I. Libro uno: Registro de contradicciones de criterios;
+
+II. Libro dos: Registro de conflictos competenciales; y
+
+III. Libro tres: Registro de solicitudes de declaratoria general de inconstitucionalidad.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
 ###### Artículo 169.
 
@@ -5057,27 +5073,165 @@ XI. Observaciones: se anotará cualquier otro dato no contenido en las columnas 
 
 Este libro se llevará conforme a la tabla número cincuenta y siete del anexo de este Acuerdo.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+#### SECCIÓN PRIMERA. LIBRO UNO DE CONTRADICCIONES DE CRITERIOS
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Untricies. El libro uno constará de apartados con los rubros siguientes: Número de expediente, Fecha de ingreso, Materia, Criterios en contradicción, Denunciante, Tema, Fecha de Turno, Fecha de Lista, Tipo y fecha de la sesión, Fecha y sentido de la resolución, Votación, Fecha de engrose, Fecha de envío a la Suprema Corte de Justicia de la Nación, Fecha de publicación por medio electrónico, Fecha de publicación en el medio oficial del Semanario Judicial de la Federación, Archivo y Observaciones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Duotricies. Los apartados se utilizarán en la forma que se describe:
+
+I. Número de expediente. En este apartado se registrarán con numeración progresiva y ascendente, las denuncias de contradicción presentadas a los Plenos Regionales. Dicha numeración se reiniciará cada año;
+
+II. Fecha de ingreso. En este apartado se registrará la fecha en que se recibió o abrió de oficio la denuncia de contradicción en el Pleno Regional;
+
+III. Materia. En este apartado se registrará la materia a la cual corresponda el asunto, asentando las expresiones "penal", "civil", "administrativa", "trabajo" o "común", según corresponda;
+
+IV. Criterios en contradicción. En este apartado se registrarán los criterios en contradicción. Se deberá asentar, en su caso, la clave de la tesis asignada para su publicación en el Semanario Judicial de la Federación y su Gaceta, los números de expedientes de los cuales se originó el criterio y la denominación de los tribunales contendientes;
+
+V. Denunciante. En este apartado se registrará el nombre o denominación del denunciante;
+
+VI. Tema. En este apartado se registrará en forma breve el tema de los criterios en contradicción;
+
+VII. Fecha de Turno. En este apartado se registrarán:
+
+a. La fecha en que se turne electrónicamente el expediente y el nombre del magistrado ponente; y
+
+b. La fecha de confirmación del turno.
+
+VIII. Fecha de Lista. En este apartado se registrará la fecha en que el asunto se liste para sesión;
+
+IX. Tipo y fecha de la sesión. En este apartado se registrará si la sesión es ordinaria o extraordinaria y la fecha de su celebración;
+
+X. Fecha y sentido de la resolución. En este apartado se registrará la fecha y el sentido de la resolución que se pronuncie, así mismo se incluirán las expresiones: "procedente", "improcedente", "incompetencia", "sin materia" e "inexistente", según corresponda;
+
+XI. Votación. En este apartado se registrará el tipo de votación de cada uno de los participantes en la sesión;
+
+XII. Fecha de engrose. En este apartado se registrará la fecha del engrose;
+
+XIII. Fecha de envío a la Suprema Corte de Justicia de la Nación. En este apartado se registrará la fecha en que se realice el envío de la jurisprudencia o criterio sustentado;
+
+XIV. Fecha de publicación por medio electrónico. En este apartado se registrará la fecha y hora en la que se incorpora al portal del Sistema Electrónico del CJF la resolución y jurisprudencia o criterio sustentado;
+
+XV. Fecha de Publicación en el medio oficial del Semanario Judicial de la Federación. En este apartado se registrará la fecha de la publicación de la jurisprudencia o criterio sustentado en el medio oficial del Semanario Judicial de la Federación;
+
+XVI. Archivo. En este apartado se registrará la fecha en que materialmente se remita el expediente al archivo; y
+
+XVII. Observaciones. En este apartado se registrará cualquier otro dato que, sin estar contenido en los apartados anteriores, resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y ocho del anexo de este Acuerdo.
+
+> <small>[N. DE E. VÉASE TABLA 58 EN EL D.O.F. DE 13 DE ENERO DE 2023, PÁGINA 750.]</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+#### SECCIÓN SEGUNDA. LIBRO DOS DE CONFLICTOS COMPETENCIALES
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Tertricies. El libro dos constará de apartados con los rubros siguientes: Número de expediente, Fecha de ingreso, Materia, Tribunal Colegiado remitente, Expediente de origen, Órganos contendientes, Fecha de Turno, Fecha de Lista, Tipo y fecha de la sesión, Fecha y sentido de la resolución, Votación, Fecha de engrose, Archivo y Observaciones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Quaterticies. Los apartados se utilizarán en la forma que se describe a continuación:
+
+I. Número de expediente. En este apartado se registrarán, con numeración progresiva y ascendente, la solicitud de sustitución de jurisprudencia presentada en el Pleno Regional. Dicha numeración se reiniciará cada año;
+
+II. Fecha de ingreso. En este apartado se registrará la fecha en que se recibió el conflicto competencial en el Pleno Regional;
+
+III. Materia. En este apartado se registrará la materia a la cual corresponda el asunto, asentando las expresiones "penal", "civil", "administrativa", "trabajo" o "común", según corresponda;
+
+IV. Tribunal Colegiado remitente. En este apartado se registrará la denominación del órgano que hubiese remitido las actuaciones para tramitar el conflicto;
+
+V. Expediente de origen: En este apartado se registrará el número del expediente que corresponda a aquél en el cual se hubiese planteado el conflicto competencial;
+
+VI. Órganos contendientes. En este apartado se registrará la denominación de los órganos que intervengan en el conflicto competencial;
+
+VII. Fecha de Turno. En este apartado se registrará la fecha en que se turne el expediente y el nombre del magistrado ponente;
+
+VIII. Fecha de Lista. En este apartado se registrará la fecha en que el asunto se liste para sesión;
+
+IX. Tipo y fecha de la sesión. En este apartado se registrará si la sesión es ordinaria o extraordinaria y la fecha de su celebración;
+
+X. Fecha y sentido de la resolución. En este apartado se registrará la fecha de resolución y el sentido de la resolución que se pronuncie, así como la denominación del órgano jurisdiccional al que se hubiese declarado competente para conocer del asunto, además se incluirán las expresiones "competente el requerido", "competente el requirente", "competente otro órgano diferente", "no existe conflicto", según corresponda;
+
+XI. Votación. En este apartado se registrará el tipo de votación de cada uno de los participantes en la sesión;
+
+XII. Fecha de engrose. En este apartado se registrará la fecha del engrose;
+
+XIII. Archivo. En este apartado se registrará la fecha en que materialmente se remita el expediente al archivo; y
+
+XIV. Observaciones. En este apartado se registrará cualquier otro dato que, sin estar contenido en los apartados anteriores, resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número cincuenta y nueve del anexo de este Acuerdo.
+
+> <small>[N. DE E. VÉASE TABLA 59 EN EL D.O.F. DE 13 DE ENERO DE 2023, PÁGINA 750.]</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+#### SECCIÓN TERCERA. LIBRO TRES DE SOLICITUDES DE DECLARATORIA GENERAL DE INCONSTITUCIONALIDAD
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Quintricies. El libro tres constará de apartados con los rubros siguientes: Número de expediente, Fecha de ingreso, Materia, Tribunal Colegiado remitente, Número de jurisprudencia, Rubro de la jurisprudencia, Norma materia de la inconstitucionalidad, Fecha de Turno, Fecha de Lista, Tipo y fecha de la sesión, Fecha y sentido de la resolución, Votación, Fecha de engrose, Fecha de envío a la Suprema Corte de Justicia de la Nación, Fecha y sentido de la resolución de la Suprema Corte de Justicia de la Nación, Archivo y Observaciones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
+
+Artículo 173 Sextricies. Los apartados se utilizarán en la forma que se describe a continuación:
+
+I. Número de expediente. En este apartado se registrarán, con numeración progresiva y ascendente, la solicitud de declaratoria general de inconstitucionalidad en el Pleno Regional. Dicha numeración se reiniciará cada año;
+
+II. Fecha de ingreso. En este apartado se registrará la fecha en que se recibió o abrió de oficio la solicitud de declaratoria general de inconstitucionalidad en el Pleno Regional;
+
+III. Materia. En este apartado se registrará la materia a la cual corresponda el asunto, asentando las expresiones "penal", "civil", "administrativa", "trabajo" o "común", según corresponda;
+
+IV. Tribunal Colegiado remitente. En este apartado se registrará el nombre tribunal que remite la solicitud de declaratoria general de inconstitucionalidad;
+
+V. Número de jurisprudencia. En este apartado se registrará el número de la jurisprudencia relacionada con la solicitud de declaratoria general de inconstitucionalidad;
+
+VI. Rubro de la jurisprudencia. En este apartado se registrará el rubro de la jurisprudencia relacionada con solicitud de declaratoria general de inconstitucionalidad;
+
+VII. Norma materia de la inconstitucionalidad. En este apartado se registrará la norma, ley, reglamento, tratado, etcétera, materia de la solicitud de declaratoria general de inconstitucionalidad
+
+VIII. Fecha de Turno. En este apartado se registrará la fecha en que se turne el expediente y el nombre del magistrado ponente;
+
+IX. Fecha de Lista. En este apartado se registrará la fecha en que el asunto se liste para sesión;
+
+X. Tipo y fecha de la sesión. En este apartado se registrará si la sesión es ordinaria o extraordinaria y la fecha de su celebración;
+
+XI. Fecha y sentido de la resolución. En este apartado se registrará la fecha de resolución y el sentido de la resolución que se pronuncie, así mismo se incluirán las expresiones: "procedente", "improcedente", "incompetencia", "sin materia", según corresponda;
+
+XII. Votación. En este apartado se registrará el tipo de votación de cada uno de los participantes en la sesión;
+
+XIII. Fecha de engrose. En este apartado se registrará la fecha del engrose;
+
+XIV. Fecha de envío a la Suprema Corte de Justicia de la Nación. En este apartado se registrará la fecha en que se realice el envío de la solicitud de declaratoria general de inconstitucionalidad;
+
+XV. Fecha y sentido de la resolución de la Suprema Corte de Justicia de la Nación. En este apartado se registrará la fecha de resolución y el sentido de la resolución que pronuncie la Suprema Corte de Justicia de la Nación, así mismo se incluirán las expresiones: "procedente", "improcedente", "incompetencia", "sin materia", según corresponda;
+
+XVI. Archivo. En este apartado se registrará la fecha en que materialmente se remita el expediente al archivo; y
+
+XVII. Observaciones. En este apartado se registrará cualquier otro dato que, sin estar contenido en los apartados anteriores, resulte necesario para un mejor control del asunto.
+
+Este libro se llevará conforme a la tabla número sesenta del anexo de este Acuerdo.
+
+> <small>[N. DE E. VÉASE TABLA 60 EN EL D.O.F. DE 13 DE ENERO DE 2023, PÁGINA 750.]</small>
+
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
+## TÍTULO CUARTO. SISTEMAS DE GESTIÓN JUDICIAL
 
 ### CAPÍTULO SEGUNDO. DEL PERSONAL ADSCRITO A LOS ÓRGANOS JURISDICICONALES (SIC) ENCARGADO DEL SISE Y DEMÁS SISTEMAS DE GESTIÓN JUDICIAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
-
-#### SECCIÓN PRIMERA. INFORMACIÓN ESTADÍSTICA
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
-
-#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
-
-#### SECCIÓN TERCERA. CAPTURA Y ALMACENAMIENTO DE INFORMACIÓN
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
-
-## TÍTULO CUARTO. SISTEMAS DE GESTIÓN JUDICIAL
-
-### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 174.
 
@@ -5125,7 +5279,7 @@ Corresponde a la DGTI solucionar los problemas técnicos que surjan con motivo d
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
+### CAPÍTULO TERCERO. REPORTES ESTADÍSTICOS
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -5245,9 +5399,9 @@ La supervisión del registro diario de movimientos de los juicios de amparo, pro
 
 La o las personas servidoras públicas que no cumplan con las funciones encomendadas, serán removidas de su cargo, bajo el procedimiento de separación del cargo previsto en la normativa correspondiente, por la persona titular o presidenta del órgano jurisdiccional de que se trate, quien suscribirá y tramitará el aviso de baja correspondiente ante la Dirección General de Recursos Humanos o, en su caso, a través de la Administración Regional o Delegación Administrativa respectiva, y lo hará del conocimiento de la DGGJ.
 
-### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+### CAPÍTULO CUARTO. SENTENCIAS Y TESIS
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 187.
 
@@ -5267,7 +5421,9 @@ Los órganos jurisdiccionales que no cuenten con el módulo “Reportes Estadís
 
 La Visitaduría Judicial, con motivo de las visitas de inspección que se realicen a los órganos jurisdiccionales, supervisará que el envío de los informes estadísticos mensuales, relativos a los movimientos de los asuntos del conocimiento de los órganos jurisdiccionales, se haga de manera oportuna y verificará, en su caso, por muestreo que la información almacenada corresponda fielmente con su contenido.
 
-### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
+### CAPÍTULO QUINTO. SISE CONTROL BIOMÉTRICO
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 191.
 
@@ -5299,9 +5455,7 @@ La Dirección General de Gestión Judicial será la responsable de vigilar el co
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
-### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
-
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+### CAPÍTULO SEXTO. PUBLICACIÓN DE LISTAS DE ACUERDOS
 
 ###### Artículo 197.
 
@@ -5397,9 +5551,9 @@ La Secretaría Ejecutiva de Vigilancia, en el ámbito de su competencia, verific
 
 El Pleno resolverá cualquier cuestión que pudiera suscitarse con motivo de la aplicación de este Capítulo.
 
-### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+### CAPÍTULO SÉPTIMO. PUBLICACIÓN DEL LISTADO DE CAPTURA DE DATOS
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 207.
 
@@ -5433,7 +5587,9 @@ Las listas de acuerdos publicadas electrónicamente tienen validez legal suficie
 
 La Comisión de Vigilancia y la Visitaduría Judicial, en el ámbito de sus respectivas competencias, vigilarán el debido cumplimiento de lo dispuesto en el presente Capítulo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. INFORMACIÓN ESTADÍSTICA JUDICIAL Y GEOREFERENCIADA
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 212.
 
@@ -5458,8 +5614,6 @@ Los listados de captura a que se refieren los artículos anteriores, quedarán a
 Los órganos jurisdiccionales, deberán mantener actualizados los registros de datos de los expedientes a su cargo en el SISE o SIGE, según corresponda.
 
 ### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 216.
 
@@ -5495,9 +5649,9 @@ La Dirección General de Estadística Judicial colaborará y se coordinará con 
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+#### SECCIÓN PRIMERA. INFORMACIÓN ESTADÍSTICA
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 220.
 
@@ -5547,7 +5701,7 @@ Con la finalidad de promover la mejora constante de la estadística publicada po
 
 (DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
-#### SECCIÓN QUINTA. DISPOSICIONES FINALES
+#### SECCIÓN SEGUNDA. CAPTACIÓN DE INFORMACIÓN JUDICIAL FEDERAL
 
 ###### Artículo 230.
 
@@ -5567,7 +5721,9 @@ La Dirección General de Gestión Judicial brindará el apoyo necesario a las y 
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
-#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
+#### SECCIÓN TERCERA. CAPTURA Y ALMACENAMIENTO DE INFORMACIÓN
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
 ###### Artículo 233.
 
@@ -5585,6 +5741,10 @@ II. Oportunidad: que la información sea capturada al momento de generarse; y
 
 III. Confiabilidad: que esté acorde con la realidad jurídica de los asuntos.
 
+#### SECCIÓN CUARTA. PRESENTACIÓN DE RESULTADOS
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+
 ###### Artículo 235.
 
 Esta fase consiste en poner a disposición del público en general la información estadística judicial y georeferenciada, ya sea por solicitud de otras instituciones públicas o por su divulgación a través de medios impresos o electrónicos.
@@ -5599,15 +5759,17 @@ La divulgación de la información estadística judicial y georeferenciada que r
 
 (DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)
 
+#### SECCIÓN QUINTA. DISPOSICIONES FINALES
+
 ###### Artículo 238.
 
 Las situaciones no previstas en este Capítulo, serán resueltas por el Pleno, sin perjuicio de lo dispuesto en el artículo 229 de este Acuerdo
 
 ## TÍTULO QUINTO. PUBLICACIÓN DE EDICTOS Y OTRO TIPO DE PUBLICACIONES SOLICITADAS POR ÓRGANOS JURISDICCIONALES
 
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS RECTORES, DEL EXPEDIENTE ELECTRÓNICO Y OTRAS SOLUCIONES DIGITALES
+### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 2017)</small>
 
 ###### Artículo 239.
 
@@ -5711,7 +5873,7 @@ La Coordinación de Administración Regional y la Dirección General de Comunica
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE JUNIO DE 2017)</small>
 
-### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A TRAVÉS DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES
+### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS RECTORES, DEL EXPEDIENTE ELECTRÓNICO Y OTRAS SOLUCIONES DIGITALES
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -5737,7 +5899,7 @@ La versión pública del proyecto de resolución de que se trate será generada 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO TERCERO. TRAMITACIÓN ELECTRÓNICA EN EL JUICIO EN LÍNEA
+### CAPÍTULO SEGUNDO. DE LA ATENCIÓN A TRAVÉS DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -5829,7 +5991,7 @@ Las personas servidoras públicas, adscritas a órganos jurisdiccionales, deber�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. DE LA FORMACIÓN DEL DUPLICADO DE LOS INCIDENTES DE SUSPENSIÓN
+### CAPÍTULO TERCERO. TRAMITACIÓN ELECTRÓNICA EN EL JUICIO EN LÍNEA
 
 > <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -5848,6 +6010,10 @@ Los equipos de cómputo se mantendrán, preferentemente, dentro del órgano juri
 Las administraciones de los edificios sede del Poder Judicial de la Federación procurarán la instalación de espacios con dispositivos electrónicos que permitan la consulta de expedientes y la actuación desde el Portal de Servicios en Línea, sin necesidad de ingresar a los órganos jurisdiccionales.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
+
+### CAPÍTULO CUARTO. DE LA FORMACIÓN DEL DUPLICADO DE LOS INCIDENTES DE SUSPENSIÓN
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 263.
 
@@ -6092,6 +6258,8 @@ I. a V. …
 VI. Libro seis: medidas precautorias y cautelares, así como técnicas de investigación;
 
 VII. a XVII. …
+
+#### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
 ###### Artículo 116.
 
@@ -6536,3 +6704,45 @@ TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos ó
 CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
 
 QUINTO. Las Oficinas de Correspondencia Común que dan servicio a los órganos que concluyen funciones fijarán en un lugar visible un aviso que contenga el origen y destino de los asuntos reasignados, para consulta de las personas interesadas.
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su aprobación, salvo lo previsto en el artículo siguiente.
+
+SEGUNDO. Para cada Pleno Regional, este Acuerdo entrará en vigor en la fecha en que el Pleno del Consejo de la Judicatura Federal disponga en los respectivos acuerdos generales para el inicio de sus funciones.
+
+Los acuerdos generales de inicio de funciones de los Plenos Regionales deberán contener, entre otras disposiciones:
+
+I. La denominación del órgano jurisdiccional;
+
+II. El domicilio del órgano jurisdiccional;
+
+III. La fecha de inicio de funciones del órgano jurisdiccional;
+
+IV. La jurisdicción territorial y la especialización por materia del órgano jurisdiccional;
+
+V. El envío de los asuntos pendientes de resolver por los Plenos de Circuito; y
+
+VI. Los demás aspectos necesarios para la operación del Pleno Regional que determine el Pleno del Consejo de la Judicatura Federal.
+
+TERCERO. En la fecha en que estén en funciones los ocho Plenos Regionales, se abrogan los Acuerdos Generales 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito y 25/2013 del Pleno del Consejo de la Judicatura Federal, que establece la implementación de libros electrónicos de registro para Plenos de Circuito.
+
+CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos someterá a consideración del Pleno del Consejo de la Judicatura Federal los acuerdos generales de creación de los Plenos Regionales o de cualquier otra medida necesaria para su instrumentación.
+
+SEXTO. Los acuerdos generales del Consejo de la Judicatura Federal vigentes a la entrada en vigor del presente Acuerdo serán aplicables a los Plenos Regionales en lo no previsto por éste, siempre y cuando no se opongan al mismo. Las referencias que se hagan en otros acuerdos generales a los Plenos de Circuito se entenderán hechas a los Plenos Regionales.
+
+SÉPTIMO. Las Magistradas y Magistrados que se designen para formar parte de la primera integración de cada Pleno Regional durarán en su encargo, respectivamente, uno, dos y tres años, para lograr un reemplazo escalonado. En la designación que se formule de cada Magistrada o Magistrado se indicará la duración de su nombramiento, sin perjuicio de que a su término pueda ser designada o designado por un nuevo periodo de tres años.
+
+OCTAVO. Hasta en tanto se emitan las listas de personas habilitadas para desempeñar funciones de titulares a que se refiere el Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, las Magistradas y Magistrados podrán ser sustituidos para la atención de asuntos urgentes y de trámite por personas secretarias pertenecientes al Pleno Regional al que estén adscritas o adscritos.
+
+NOVENO. A partir de la aprobación del presente acuerdo, las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para su implementación.
+
+La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los Plenos Regionales de la infraestructura y equipamiento necesarios para el desempeño de sus funciones. En especial: (i) se dotará a los Plenos Regionales el equipo informático necesario para registrar las sesiones o audiencias; y (ii) se realizarán las modificaciones necesarias a los espacios físicos que los albergarán.
+
+DÉCIMO. Las Direcciones Generales de Tecnologías de la Información; y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del Pleno Regional o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
+
+DÉCIMO PRIMERO. La Visitaduría Judicial ajustará los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Plenos Regionales. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
