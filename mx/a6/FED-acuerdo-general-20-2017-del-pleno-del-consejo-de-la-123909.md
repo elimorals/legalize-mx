@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2017-del-pleno-del-consejo-de-la-123909"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-10-18"
-last_updated: "2017-10-18"
+last_updated: "2023-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123909&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-10-09"
 ---
 # ACUERDO GENERAL 20/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA DENOMINACION, RESIDENCIA, COMPETENCIA, JURISDICCION TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGESIMO QUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 105/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TERCER Y CUARTO TRIBUNALES COLEGIADOS DEL VIGESIMOQUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 13 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 20/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO QUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección al Número 15 del Diario Oficial de la Federación, el miércoles 18 de octubre de 2017.
 
@@ -124,3 +126,17 @@ XXV. ...
 XXVI. a XXXII. ..."
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 20/2017, del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Tercer Tribunal Colegiado del Vigésimo Quinto Circuito, con residencia en Durango, Durango; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los tribunales colegiados del Circuito indicado, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de trece de septiembre de dos mil diecisiete, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández.- Ciudad de México, a nueve de octubre de dos mil diecisiete.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 105/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TERCER Y CUARTO TRIBUNALES COLEGIADOS DEL VIGESIMOQUINTO CIRCUITO, CON RESIDENCIA EN DURANGO, DURANGO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas al destino del mobiliario, equipo y demás insumos.
+
+CUARTO. Se abrogan los Acuerdos Generales 20/2017 y 9/2018 del Pleno del Consejo de la Judicatura Federal, relativo al inicio de funciones del Tercer y Cuarto Tribunales Colegiados del Vigesimoquinto Circuito, con residencia en Durango, Durango, respectivamente.
