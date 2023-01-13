@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2008-del-pleno-del-consejo-de-la-60478"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-14"
-last_updated: "2022-03-14"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-03-26"
 
 ACUERDO GENERAL 10/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE CREA EL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de abril de 2008.
 
@@ -57,9 +57,11 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 106/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Segunda Región, conformado por tres tribunales Colegiados de Circuito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor, número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810, San Andrés Cholula, Puebla.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. Se crea el Centro Auxiliar de la Segunda Región, conformado por dos tribunales Colegiados de Circuito Auxiliares, con residencia en San Andrés Cholula, Puebla; su domicilio será el ubicado en avenida Osa Menor número 82, Ciudad Judicial Siglo XXI, Reserva Territorial Atlixcáyotl, código postal 72810, San Andrés Cholula, Puebla.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES] POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
 
 Los órganos jurisdiccionales mencionados tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
 
@@ -67,7 +69,7 @@ I. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Regi�
 
 II. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
 
-III. Tercer Tribunal Colegiado de Circuito del Centro Auxiliar de la Segunda Región.
+III. (DEROGADA POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 106/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 18/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE JULIO DE 2011)</small>
 
@@ -79,9 +81,9 @@ TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-> <small>(REFORMADO POR ARTÍCULO 14 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 106/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. La oficina de correspondencia común se denomina Oficina de Correspondencia Común del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, la cual presta servicio a los Tribunales Colegiados Primero, Segundo y Tercero de Circuito del Centro Auxiliar de la Segunda Región.
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. La oficina de correspondencia común se denomina Oficina de Correspondencia Común del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, la cual presta servicio a los Tribunales Colegiados Primero y Segundo de Circuito del Centro Auxiliar de la Segunda Región.
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
@@ -252,3 +254,13 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 106/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, PUEBLA; Y QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+CUARTO (SIC). Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
