@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2022-05-23"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -2489,7 +2489,13 @@ VIII. Participar conforme a sus atribuciones, en los actos de entrega recepción
 
 IX. Presentar a la Junta de Gobierno informes semestrales y anuales; y
 
-X. Las demás que prevea el Reglamento de la Ley Orgánica del Poder Legislativo, la legislación y normatividad aplicable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE ENERO DE 2023)</small>
+
+X. Habilitar a personal adscrito a la Contraloría Interna como notificadores, a efecto de coordinar la entrega de documentación relacionada con sus atribuciones;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE ENERO DE 2023)</small>
+
+XI. Las demás que prevea el Reglamento de la Ley Orgánica del Poder Legislativo, la legislación y normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -2503,7 +2509,9 @@ b. Elaborar un Código de Ética conforme a los lineamientos que emita el Sistem
 
 II. En materia de procedimientos de responsabilidades administrativas:
 
-a. En el ámbito de su competencia conforme a la legislación aplicable, la investigación, substanciación y calificación de las faltas administrativas, para lo cual recibirá las quejas y denuncias que correspondan.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+a. En el ámbito de su competencia conforme a la legislación aplicable, tendrá a su cargo la investigación, substanciación y calificación de las faltas administrativas, para lo cual recibirá las quejas y denuncias que correspondan.
 
 b. Tratándose de actos u omisiones que hayan sido calificados como faltas administrativas no graves, la Contraloría Interna será competente para iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa previstos (sic) la legislación aplicable.
 
@@ -2511,13 +2519,15 @@ En caso de faltas administrativas calificadas como graves, el servidor público 
 
 c. Rendir ante el Comité Coordinador del Sistema Estatal de Anticorrupción, un informe detallado del porcentaje de los procedimientos iniciados que culminaron con una sanción firme y a cuánto asciende, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del mismo.
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
 
-ARTÍCULO 202 QUINQUIES.- La Contraloría Interna contará con la estructura orgánica necesaria para el cumplimiento de sus atribuciones y funciones, se organizarán y especificarán en el Reglamento de la presente Ley, como mínimo contará con las siguientes áreas:
+ARTÍCULO 202 QUINQUIES.- La Contraloría Interna contará con la estructura orgánica necesaria para el cumplimiento de sus atribuciones y funciones, se organizarán y especificarán en el Reglamento de la presente Ley, como mínimo contará con las siguientes direcciones:
 
-I. De Auditoría y Desarrollo Administrativo; y
+I. De Auditoría;
 
-II. De Quejas y Responsabilidades.
+II. De Responsabilidades; y
+
+III. De Desarrollo Administrativo.
 
 Asimismo, contará con la estructura orgánica adicional que requiera para realizar las funciones de naturaleza investigadora y substanciadora respectivamente, garantizando así la independencia entre ambas en el ejercicio de sus funciones. A quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de la encargada de la investigación.
 
@@ -2854,3 +2864,13 @@ P.O. 23 DE MAYO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. En tanto el Congreso del Estado de Hidalgo no cuente con un órgano o unidad técnica de estudios en materia de finanzas públicas, la Comisión de Estudio y Dictamen respectiva, solicitará el apoyo de la Secretaria de Finanzas Públicas del Poder Ejecutivo para la realización de los estudios de impacto presupuestario de las iniciativas que deba dictaminar.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 261. POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO Y SU REGLAMENTO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado deberá prever en su presupuesto para el Ejercicio Fiscal del año 2023, la asignación de recursos para la creación, organización y funcionamiento de la Dirección de Planeación y de la Unidad Resolutora de la Dirección de Responsabilidades de la Contraloría Interna del Poder Legislativo.
+
+TERCERO. Tratándose de las atribuciones de la Unidad Resolutora, serán ejecutadas por la persona titular de la Dirección de Responsabilidades, a efecto de no vulnerar lo contemplado en la Ley General de Responsabilidades Administrativas, lo anterior hasta cumplirse con lo dispuesto en el transitorio segundo del presente Decreto.
