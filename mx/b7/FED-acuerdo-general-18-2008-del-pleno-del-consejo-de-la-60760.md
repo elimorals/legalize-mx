@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-18-2008-del-pleno-del-consejo-de-la-60760"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-04-30"
-last_updated: "2022-03-14"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2008-04-16"
 
 ACUERDO GENERAL 18/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA TERCERA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 30 de abril de 2008.
 
@@ -59,13 +59,13 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 33/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 111/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región está conformado por dos Juzgados de Distrito Auxiliares, uno con residencia en Guanajuato, Guanajuato y uno con sede en Uruapan, Michoacán.
+PRIMERO. CONFORMACIÓN, UBICACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Tercera Región está conformado por el Juzgado de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
-> <small>(REFORMADO POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 20/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 111/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)</small>
 
-Todos los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+El Juzgado de Distrito antes mencionado tendrá jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias.
 
 I. (DEROGADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO OCTAVO DEL ACUERDO GENERAL 5/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)
 
@@ -85,13 +85,7 @@ d) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 33/2018 DEL PLENO D
 
 e) (DEROGADO, D.O.F. 28 DE AGOSTO DE 2017)
 
-> <small>(REFORMADA POR TRANSITORIO QUINTO DEL ACUERDO GENERAL 20/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE ABRIL DE 2015)</small>
-
-III. Los juzgados de Distrito se denominarán:
-
-a) Juzgado Primero de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
-
-b) Juzgado Sexto de Distrito del Centro Auxiliar de la Tercera Región, con residencia en Uruapan, Michoacán.
+III. (DEROGADA POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 111/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE ENERO DE 2023)
 
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato.
 
@@ -918,3 +912,13 @@ QUINTO. La Unidad para la Consolidación del Nuevo Sistema de Justicia Penal deb
 SEXTO. El cambio en la vigencia del certificado digital de la FIREL surtirá efecto a partir del 16 de marzo de 2022.
 
 SÉPTIMO. Las consultas a que se refiere el artículo 46 Ter del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, serán recibidas a través del Sistema de Gestión Documental (SIGDOC) a partir del 16 de marzo de 2022. Se instruye a las direcciones generales de Estrategia y Transformación Digital y Tecnologías de la Información la realización de todas las acciones necesarias para implementar la conexión de los órganos jurisdiccionales con la Secretaría Ejecutiva de Creación de Nuevos Órganos, a través del referido Sistema.
+
+D.O.F. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 111/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN URUAPAN, MICHOACÁN, Y QUE REFORMA Y DEROGA DIVERSOS ACUERDOS GENERALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La (sic) Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
