@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2021-12-23"
+last_updated: "2023-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -971,7 +971,13 @@ IV.- Solicitar a la autoridad competente se proceda por desobediencia a un manda
 
 V.- Determinar la clausura provisional por tres días del establecimiento en que se desarrollan las actividades objeto de las facultades de comprobación.
 
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE ENERO DE 2023)</small>
+
+La facultad prevista en la fracción III, procederá, siempre y cuando, mediante acta circunstanciada, queden debidamente justificados los hechos y actos que evidencien fehacientemente la existencia de la oposición u obstaculización por parte del contribuyente, responsable solidario o tercero con ellos relacionado, que impidan que la autoridad ejerza sus facultades de comprobación.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+La facultad prevista en la fracción V, procederá, siempre y cuando ocurran los hechos y actos señalados en el párrafo anterior ante una negativa o impedimento del contribuyente, responsable solidario, o tercero con ellos relacionado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -990,6 +996,12 @@ a) Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades 
 b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y éstos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes o, en su caso, no exhiban los comprobantes que amparen la legal posesión o propiedad de las mercancías que enajenen en dichos lugares.
 
 c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes, los responsables solidarios o terceros con ellos relacionados, oculten, enajenen o dilapiden sus bienes.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 306, PÁGINA 57.]</small>
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+Para que la autoridad determine el supuesto previsto en los incisos a) y c), deberá probar los hechos y motivos que evidencien plenamente el riesgo inminente que implique el ocultamiento, enajenación o dilapidación de los bienes del contribuyente, responsable solidario o tercero con ellos relacionado, por lo que ante la negativa lisa y llana del interesado o de la existencia de esos hechos, se aplicará en lo conducente lo dispuesto por el artículo 68 de este código.
 
 II.- La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos en los artículos 56 y 57 de este Código.
 
@@ -1079,9 +1091,11 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 43.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos comprobatorios del cumplimiento de una obligación fiscal no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
 I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
@@ -1097,13 +1111,27 @@ III.- Imponer la multa que corresponda en los términos de este código y requer
 
 En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 43 Bis.
 
-Las autoridades fiscales podrán requerir a las autoridades de los distintos órdenes de gobierno, órganos constitucionalmente autónomos y demás autoridades, les proporcionen la información y documentación necesaria para el cumplimiento de sus atribuciones, quienes deberán atender los requerimientos que se les formulen dentro de los plazos que al efecto se les establezcan.
+Las autoridades fiscales podrán requerir a las autoridades de los distintos órdenes de gobierno, órganos constitucionalmente autónomos y demás autoridades, les proporcionen la información y documentación necesaria para el cumplimiento de sus atribuciones, quienes deberán atender los requerimientos que se les formulen en un plazo de seis días, contados a partir de que surta efectos la notificación del requerimiento.
 
-En caso de no atender los requerimientos, las autoridades fiscales podrán emplear como medida de apremio una multa de 10 a 1000 cuotas, por cada requerimiento no atendido, y solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2023)</small>
+
+En caso de no atender un requerimiento o la presentación del documento omitido en el plazo de 6 días, se impondrá multa en los términos de este Código, por cada requerimiento no atendido. La autoridad fiscal en ningún caso formulará más de tres requerimientos por una misma omisión.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+Para el desarrollo de la revisión de las autoridades fiscales, los requerimientos de información y documentación adicional a la presentación de la Declaración, Aviso o información comprobatoria del cumplimiento de las obligaciones fiscales, deberán enumerar e identificar por orden cronológico, el nombre del documento, el archivo electrónico o físico, los estados de cuenta de institución financiera o el tipo de información a consultar, así como el año, mes o ejercicio fiscal a revisar en cada uno de los requerimientos de información que soliciten a las autoridades señaladas en el primer párrafo de este numeral.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+Las autoridades fiscalizadas en el párrafo primero podrán solicitar la ampliación del plazo de entrega de alguna de las solicitudes de información o documentación señalada en el párrafo anterior, sin que la prórroga exceda en un plazo de 12 días.
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2023)</small>
+
+Considerando en la imposición de las multas por la omisión de entrega de información o documentación, lo previsto en el artículo 82 de este Código.
 
 ###### ARTICULO 44.
 
@@ -1847,9 +1875,9 @@ C).- Por el incumplimiento de los requerimientos o por su cumplimiento fuera de 
 
 D).- Tratándose de la presentación de declaraciones, solicitudes, avisos, constancias, manifestaciones o demás documentos incompletos, con errores o en una forma distinta a la señalada en las disposiciones fiscales, de 3 a 30 cuotas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2023)</small>
 
-II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas.
+II.- Tratándose de la señalada en la fracción II, la que resulte mayor entre 1.5 cuotas o hasta el 100% de las contribuciones no pagadas, aún si estás fueron presentadas y pagadas posteriormente al requerimiento de la autoridad fiscal;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3666,3 +3694,9 @@ Hasta en tanto no se implemente el buzón tributario, todas las notificaciones, 
 ###### ARTÍCULO TERCERO.
 
 Se concede un plazo de 6 meses a partir de la entrada en vigor del presente Decreto para que la Secretaría de Finanzas y Tesorería General del Estado expida las reglas de carácter general relativas a la emisión de la opinión de cumplimiento de obligaciones fiscales a que se refiere el artículo 33 Bis.
+
+P.O. 13 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 306. SE REFORMAN POR MODIFICACIÓN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 42; EL PÁRRAFO PRIMERO DEL ARTÍCULO 43, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 43 BIS; Y LA FRACCIÓN II DEL ARTÍCULO 82; POR ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 42, RECORRIÉNDOSE EL SUBSECUENTE; DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN II DEL ARTÍCULO 42 BIS; DE LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 43 BIS; TODOS DEL CÓDIGO FISCAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
