@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-procedimiento-administrativo-del-estado-de-jalisco-1746
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-15"
-last_updated: "2021-07-29"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 15 de julio del 2000.
 
@@ -713,7 +713,9 @@ Si del resultado de la inspección se determina la comisión de alguna infracci�
 
 Las actuaciones y diligencias previstas en esta ley se deben practicar únicamente en días y horas hábiles, salvo las visitas de verificación, que pueden practicarse en cualquier tiempo.
 
-Para los efectos de esta ley, se consideraran días inhábiles, por regla general: los sábados y domingos; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1.° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federales y local electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; así como los días en que tengan vacaciones generales las autoridades competentes o aquellos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación; así mismo se podrán practicar visitas de inspección en días y horas inhábiles, cuando las dependencias operativas así lo requieran y de acuerdo a las funciones que desempeñen.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2023)</small>
+
+Para los efectos de esta ley, se consideraran días inhábiles, por regla general: los sábados y domingos; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1.º y 5 de mayo; el segundo lunes de junio, en conmemoración del 16 de junio; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federales y local electorales, en el caso de elecciones ordinarias, para efectuar la jornada electoral; así como los días en que tengan vacaciones generales las autoridades competentes o aquellos cuando se suspendan las labores, los cuales deben hacer del conocimiento público mediante acuerdo del titular de la dependencia o entidad respectiva, mismos que se deberán publicar en los medios escritos oficiales de divulgación; así mismo se podrán practicar visitas de inspección en días y horas inhábiles, cuando las dependencias operativas así lo requieran y de acuerdo a las funciones que desempeñen.
 
 ###### Artículo 78.
 
@@ -1502,3 +1504,11 @@ P.O. 29 DE JULIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28418/LXII/21 QUE REFORMA LOS ARTÍCULOS 13, 35, 36, 41 Y 97 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29129/LXIII/23 DEL CONGRESO DEL ESTADO QUE DECLARA EL 16 DE JUNIO DE CADA AÑO COMO “DÍA ESTATAL DEL NACIMIENTO DEL ESTADO LIBRE Y SOBERANO DE JALISCO“ Y SE REFORMAN LOS ARTÍCULOS 38 DE LA LEY PARA LOS SERVIDORES PÚBLICOS, 20 DE LA LEY DE JUSTICIA ADMINISTRATIVA Y 77 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. EL Poder Ejecutivo, así como a los poderes Judicial y Legislativo, todos del Estado de Jalisco deberán llevar a cabo anualmente actos conmemorativos del 16 de junio como "Día Estatal del Nacimiento del Estado Libre y Soberano de Jalisco".
