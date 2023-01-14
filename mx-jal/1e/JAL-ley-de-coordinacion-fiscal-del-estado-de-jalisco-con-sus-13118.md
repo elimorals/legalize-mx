@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2022-09-15"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE OCTUBRE DE 2023 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -226,6 +228,10 @@ a) El 70% informado y determinado a la Entidad por la Secretaría de Hacienda y 
 
 b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, el cual se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco, que esté publicado en el periódico oficial El Estado de Jalisco y hubiesen sido aceptados por la Secretaría de Hacienda y Crédito Público e informados a la Secretaría de la Hacienda Pública del Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+Los municipios podrán celebrar el convenio referido en el párrafo anterior durante los meses comprendidos de enero a abril, debiendo estar vigente antes del 1º de mayo del año en el que se lleve a cabo el cálculo.
+
 > <small>[N. DE E. EL CONTENIDO DEL PRESENTE PÁRRAFO ES IDÉNTICO AL CONTENIDO DEL TERCER PÁRRAFO DEL INCISO B, VÉASE PUBLICACIÓN OFICIAL DE FECHA 30 DE OCTUBRE DE 2021.]</small>
 
 La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
@@ -237,6 +243,14 @@ La distribución del 30% del excedente se realizará conforme la siguiente fórm
 > <small>[N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VIII DEL P.O. DE 30 DE OCTUBRE DE 2021, PÁGINA 4.]</small>
 
 Los factores, indicadores, procedimientos, fórmulas y coeficientes utilizados para determinar la distribución del Fondo de Fomento Municipal entre los Municipios del Estado serán revisados y aprobados por el Congreso del Estado, para cada ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+El Poder Ejecutivo, a través de la Secretaría de la Hacienda Pública, enviará al Congreso del Estado de Jalisco, en una sola ocasión, la información de la actualización en función de la incorporación o desincorporación de los Municipios al convenio de coordinación y colaboración administrativa en materia del impuesto predial, con base en la información proporcionada por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+El Congreso del Estado de Jalisco actualizará los coeficientes que serán publicados en el periódico oficial "El Estado de Jalisco". Dicha publicación contendrá la actualización de los coeficientes y el listado de Municipios desincorporados.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2021)</small>
 
@@ -689,3 +703,9 @@ P.O. 15 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 28825/LXIII/2022 QUE REFORMA LOS ARTÍCULOS 7 Y 10 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto surtirá efectos a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29122/LXIII/22 DEL CONGRESO DEL ESTADO QUE MODIFICA EL ARTÍCULO 9 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
