@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-139113"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-09"
-last_updated: "2022-04-21"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Reglamento publicado en la Sección XXII del número 20 del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2020.
 
@@ -888,6 +888,10 @@ VI. Esté imposibilitado para asistir por caso fortuito o fuerza mayor.
 2. Cuando la iniciativa proponga reformar varias leyes, el turno a las comisiones coadyuvantes es sólo para la parte de la iniciativa que le competa por su materia y así debe señalarse en el turno respectivo.
 
 3. Las comisiones en la elaboración de los proyectos de dictamen, deberán considerar el impacto en materia de mejora regulatoria y las demás disposiciones aplicables, de conformidad con los lineamientos que emita el Congreso a propuesta de la Junta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE ENERO DE 2023)</small>
+
+4. Para el caso de lo establecido en el artículo 104 numeral 4 de la Ley, se promoverá y protegerá el derecho a la participación efectiva de los grupos vulnerables de la población a los que se refiera el ordenamiento jurídico en estudio, esto se realiza mediante la emisión de una convocatoria en la que se establecerán los lineamientos específicos para cada caso particular, privilegiando la accesibilidad y el diseño universal, fomentando la participación de organizaciones u asociaciones que los representan.
 
 ###### Artículo 48.
 
@@ -4620,3 +4624,9 @@ Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial.
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29125/LXIII/22 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y REFORMA EL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
