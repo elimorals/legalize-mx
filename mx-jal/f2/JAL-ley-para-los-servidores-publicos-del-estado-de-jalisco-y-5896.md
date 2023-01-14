@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2022-11-15"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -671,11 +671,11 @@ Por cada cinco ddías (sic) de trabajo, disfrutará el servidor público de dos 
 
 En los trabajos que requieran una labor continua, se fijarán los días en que los servidores públicos disfrutarán de los días de descanso semanal, de acuerdo a los roles de actividades que se establezcan por las dependencias o entidades públicas.
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2023)</small>
 
 ###### Art. 38.
 
-Serán considerados como días de descanso obligatorio: 1° de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1° y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+Serán considerados como días de descanso obligatorio: 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; el segundo lunes de junio, en conmemoración del 16 de junio; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2020)</small>
 
@@ -3244,3 +3244,11 @@ P.O. 15 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28835/LXIII/22 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 42 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 29129/LXIII/23 DEL CONGRESO DEL ESTADO QUE DECLARA EL 16 DE JUNIO DE CADA AÑO COMO “DÍA ESTATAL DEL NACIMIENTO DEL ESTADO LIBRE Y SOBERANO DE JALISCO“ Y SE REFORMAN LOS ARTÍCULOS 38 DE LA LEY PARA LOS SERVIDORES PÚBLICOS, 20 DE LA LEY DE JUSTICIA ADMINISTRATIVA Y 77 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. EL Poder Ejecutivo, así como a los poderes Judicial y Legislativo, todos del Estado de Jalisco deberán llevar a cabo anualmente actos conmemorativos del 16 de junio como "Día Estatal del Nacimiento del Estado Libre y Soberano de Jalisco".
