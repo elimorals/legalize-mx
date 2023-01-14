@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-131340
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-11-08"
-last_updated: "2022-04-21"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 8 de noviembre de 2018.
 
@@ -1986,6 +1986,10 @@ V. Se establezca plazo diverso para su dictamen en la agenda legislativa común 
 2. Si al momento de su estudio y análisis se advierte que involucra la materia o competencia de otras comisiones, el Presidente debe hacerlo del conocimiento de la Asamblea para que lo turne a las comisiones correspondientes.
 
 3. Si del estudio y análisis se desprende que existen diversos ordenamientos relacionados con la iniciativa y no son considerados por ésta, la comisión puede ampliar su dictamen para incluir éstos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE ENERO DE 2023)</small>
+
+4. Si del estudio y análisis de una iniciativa se advierte que se regulan derechos u obligaciones de personas con discapacidad, niñas, niños y adolescentes, grupos vulnerables de la población o de las comunidades indígenas asentadas en el Estado; se deberá incluir su participación efectiva, esto es, a través de la implementación y organización de mecanismos de consulta pública, trabajando conjuntamente con asociaciones u organizaciones que los representen.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2019)</small>
 
@@ -4058,3 +4062,9 @@ Publíquese el presente decreto en el periódico oficial "El Estado de Jalisco".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor a partir de su aprobación.
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29125/LXIII/22 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 104 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y REFORMA EL ARTÍCULO 47 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
