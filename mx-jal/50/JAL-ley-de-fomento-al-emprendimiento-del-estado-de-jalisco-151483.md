@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-al-emprendimiento-del-estado-de-jalisco-151483"
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-02"
-last_updated: "2021-10-02"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO AL EMPRENDIMIENTO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección VI al Número 17 del Periódico Oficial del Estado de Jalisco, el sábado 2 de octubre de 2021.
 
@@ -179,9 +179,15 @@ XVI. Promover e impulsar proyectos productivos;
 
 XVII. Propiciar la generación de empleos mejor remunerados;
 
-XVIII. Apoyar emprendimientos de impacto social; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2023)</small>
 
-XIX. Contar con una plataforma que propicie la generación, consulta e intercambio de información relacionada con la actividad de emprender, así como la interacción de los distintos actores relacionados.
+XVIII. Apoyar emprendimientos de impacto social;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2023)</small>
+
+XIX. Promover mecanismos de apoyo y capacitación para impulsar proyectos de emprendimiento para la creación de nuevas entidades económicas de producción o servicios, constituidas por jóvenes jaliscienses; y
+
+XX. Contar con una plataforma que propicie la generación, consulta e intercambio de información relacionada con la actividad de emprender, así como la interacción de los distintos actores relacionados.
 
 ###### Artículo 7.
 
@@ -527,9 +533,17 @@ IV. Promover un acuerdo con el Colegio de Notarios y el Colegio de Corredores P�
 
 V. Generar una base metodológica para la incubación y aceleración de proyectos productivos que pueda servir como referencia para iniciativas en la materia;
 
-VI. Identificar iniciativas, programas y acciones alrededor del mundo, a fin de impulsar la generación de acuerdos de coordinación, cooperación internacional, memorándums de entendimiento o convenios específicos para el intercambio de información y vinculación; y
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2023)</small>
 
-VII. Estructurar una red estatal de mentores de carácter honorífico que, con base en su experiencia y conocimientos, sumen proyectos de emprendimiento, elaborando para ello, una base metodológica.
+VI. Identificar iniciativas, programas y acciones alrededor del mundo, a fin de impulsar la generación de acuerdos de coordinación, cooperación internacional, memorándums de entendimiento o convenios específicos para el intercambio de información y vinculación;
+
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2023)</small>
+
+VII. Estructurar una red estatal de mentores de carácter honorifico que, con base en su experiencia y conocimientos, sumen proyectos de emprendimiento, elaborando para ello, una base metodológica; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2023)</small>
+
+VIII. Gestionar mecanismos de cooperación y vinculación con las diversas dependencias de gobierno estatal y municipales, para lograr la celebración de convenios y acuerdos que instauren acciones que fomenten el primer empleo para jóvenes.
 
 ### Capítulo III. De las acciones en materia de subsidios y apoyo económico
 
@@ -653,9 +667,11 @@ V. Entrenamientos, asesorías, acompañamientos, acceso a ferias y exposiciones 
 
 2. La contravención a lo anterior será sancionada en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2023)</small>
+
 ###### Artículo 36.
 
-1. Las dependencias o entidades referidas en el artículo 27, mantendrán programas de capacitación permanentes en materia de compras públicas y el sistema utilizado para desahogar su procedimiento.
+1. Las dependencias o entidades referidas en el artículo 26, mantendrán programas de capacitación permanentes en materia de compras públicas y el sistema utilizado para desahogar su procedimiento.
 
 ###### Artículo 37.
 
@@ -748,3 +764,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 29124/LXIII/22 MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XIX Y RECORRE LA SUBSECUENTE DEL ARTÍCULO 6, ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 22, Y REFORMA EL ARTÍCULO 36, TODOS DE LA LEY DE FOMENTO AL EMPRENDIMIENTO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
