@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-anticorrupcion-del-estado-de-jalisco-122604"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2021-11-06"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 18 de julio de 2017.
 
@@ -307,7 +307,9 @@ II. Convocará a organizaciones de la sociedad civil especializadas en materia d
 
 III. Para el caso de la ratificación, esta se sustanciará previo a la convocatoria y bastará con la propuesta por escrito de ratificación por parte de las instituciones proponentes y carta de aceptación del interesado.
 
-3. El cargo de miembro de la Comisión de Selección será honorífico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Social por un periodo de seis años contados a partir de la disolución de la Comisión de Selección.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2023)</small>
+
+3. El cargo de miembro de la Comisión de Selección será honorífico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Social por un periodo de seis años contados a partir de que dejaron de integrar la Comisión de Selección.
 
 4. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el Estado dirigida a toda la sociedad en general, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -848,5 +850,11 @@ TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Cons
 P.O. 6 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 28497/LXII/21 QUE MODIFICA LA MINUTA DE DECRETO NÚMERO 28436/LXII/21 POR EL CUAL SE REFORMA EL ARTÍCULO 16 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO Y SE REFORMAN LOS ARTÍCULOS 15, 35 Y SE ADICIONA UN 23 BIS DE LA PROPIA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO, ARTÍCULO 46 BIS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y 99 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 28822/LXIII/23 QUE REFORMA EL ARTÍCULO 18 NUMERAL 3 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
