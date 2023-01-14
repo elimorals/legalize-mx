@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2022-10-08"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -6135,6 +6135,222 @@ III. Realizar con otras dependencias campañas de prevención de la violencia co
 
 IV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+## TÍTULO VIII. CONCURRENCIA DE MOVILIDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO I. DEL SISTEMA NACIONAL DE MOVILIDAD Y SEGURIDAD VIAL Y LA POLÍTICA NACIONAL, SECTORIAL Y REGIONAL
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 405.
+
+Sistema Nacional de Movilidad y Seguridad Vial.
+
+Conforme al artículo 7 de la Ley General de Movilidad y Seguridad Vial que dispone que el Sistema Nacional de Movilidad y Seguridad Vial, es el mecanismo de coordinación entre las autoridades competentes de nuestra Entidad y sus Municipios en materia de movilidad y seguridad vial, con el orden federal, así como con los sectores de la sociedad en la materia, que tiene como fin el cumplir el objeto, los objetivos y principios de esta Ley y la Ley General de Movilidad y Seguridad Vial, la política, el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, la Estrategia Nacional y los instrumentos de planeación específicos.
+
+Cuyo sistema se encuentra integrado por las personas titulares o representantes legales de:
+
+I. La Secretaría Federal de Desarrollo Agrario, Territorial y Urbano;
+
+II. La Secretaría Federal de Infraestructura, Comunicaciones y Transportes;
+
+III. La Secretaría Federal de Economía;
+
+IV. Por un representante de esta Entidad que designe la persona Titular del Poder Ejecutivo, y
+
+V. El Sistema podrá invitar a participar a otras autoridades de movilidad que se considere necesarias con voz y voto y las demás que se determinen sólo con voz para el debido cumplimiento del objeto de la Ley y de la Ley General de Movilidad y Seguridad Vial.
+
+El sistema Nacional tendrá las facultades en marcadas (sic) en el artículo 7, apartado B de la la (sic) Ley General de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 406.
+
+La política nacional de movilidad y seguridad vial y en la participación de esta Entidad Federativa a través de la Secretaria, diseñará con un enfoque sistémico y ejecutará con base en los principios establecidos en esta Ley y la Ley General de Movilidad y Seguridad Vial y los que para tal efecto emita el Sistema Nacional de Movilidad y Seguridad Vial, así como a través de los mecanismos de coordinación, información y participación correspondientes, con el objetivo de garantizar el derecho a la movilidad con las condiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO II. DE LA ESTRATEGIA NACIONAL DE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 407.
+
+En materia concurrente de nuestro Estado de Colima a través de la Secretaría, para la participación en la formulación de la Estrategia Nacional se deberán observar las bases fijadas en los artículos 25 y 26 de la Ley General de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO III. DEL SISTEMA DE INFORMACIÓN TERRITORIAL Y URBANO
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 408.
+
+El Sistema de Información Territorial y Urbano conforme a lo señalado en el artículo 27 de la Ley General de Movilidad y Seguridad Vial, es un instrumento de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano que tiene por objeto organizar, actualizar y difundir la información e indicadores sobre el ordenamiento territorial y el desarrollo urbano, donde además se integra, organiza, actualiza, publica y estandariza información de movilidad y seguridad vial, considerando características socioeconómicas, demográficas, de discapacidad y de género de las personas usuarias de la vía y los grupos en situación de vulnerabilidad, para la elaboración de la política pública, programas y acciones que garanticen los derechos, principios, directrices y objetivos de la (sic) normas de la materia.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 409.
+
+En concurrencia con el Sistema de Información Territorial y Urbano, nuestra Entidad federativa a través de la Secretaria y sus Municipios, alimentará la base de datos en el ámbito de sus competencias, de conformidad con esta Ley, la Ley General de Movilidad y Seguridad Vial y demás disposiciones que al efecto se emitan.
+
+Para tal efecto, se deberán suscribir los convenios de coordinación necesarios para la transmisión de la información que exista en los archivos de las diversas dependencias, organismos constitucionalmente autónomos, y municipios que posean datos e información necesaria para que las autoridades competentes elaboren las políticas de movilidad y seguridad vial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO IV. DE LAS BASES DE DATOS SOBRE MOVILIDAD Y SEGURIDAD VIAL
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 410.
+
+Esta Entidad federativa y en el ámbito de las competencias de la Secretaria señaladas en esta Ley, integrarán las bases de datos de movilidad y seguridad vial, las que contendrán, como mínimo, las bases establecidas en el artículo 29 de la Ley General de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 411.
+
+Para el seguimiento, evaluación y control de la política, planes, programas y proyectos en materia de movilidad y seguridad vial, nuestro Estado a través de la Secretaria y mediante los convenios de coordinación respectivos, remitirá, conforme a los organismos y dependencias que correspondan en el ámbito de sus competencias, la información generada en materia de movilidad y seguridad vial.
+
+La información deberá ser remitida en datos georreferenciados y estadísticos, indicadores de movilidad, seguridad vial y gestión administrativa, así como indicadores incluidos en los instrumentos de planeación e información sobre el avance de los proyectos y programas locales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO V. DE LOS INSTRUMENTOS DE POLÍTICA PÚBLICA DE MOVILIDAD Y SEGURIDAD VIAL PARA LA INFRAESTRUCTURA
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 412.
+
+La Secretaria y los diez municipios de nuestra Entidad establecerán en su normativa aplicable que las obras de infraestructura vial urbana y carretera sean diseñadas y ejecutadas bajo los principios, jerarquía de la movilidad y criterios establecidos en la presente Ley y la Ley General de Movilidad y Seguridad Vial, priorizando aquéllas que atiendan a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada territorio.
+
+Los estándares de diseño vial y dispositivos de control del tránsito deberán ser definidos por la Secretaria, en concordancia con las Normas Oficiales Mexicanas expedidas para tal efecto.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 413.
+
+En materia de prevención de siniestros de tránsito, la Secretaria y los diez municipios de nuestra Entidad, deberán establecer estrategias, planes y programas de infraestructura vial que, reconociendo la posibilidad del error humano y la interseccionalidad de las personas usuarias de la vía, se encaminen a evitar muertes, lesiones, incluidas en las que se adquiere alguna discapacidad, a través del mejoramiento de la infraestructura vial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 414.
+
+Las autoridades competentes del diseño de la red vial, urbana y carretera deberán considerar la vocación de la vía como un espacio público que responde a una doble función de movilidad y de habitabilidad, conforme a lo establecido en el artículo 34 de la Ley General de Movilidad y Seguridad Vial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 415.
+
+La Secretaria y los diez municipios de nuestra Entidad en el ámbito de su competencia considerarán, además de los principios establecidos en la presente Ley, los siguientes criterios en el diseño y operación de la infraestructura vial, urbana y carretera, para garantizar una movilidad segura, eficiente y de calidad:
+
+I. Diseño universal. La construcción de infraestructura vial deberá considerar espacios de calidad, accesibles y seguros que permitan la inclusión de todas las personas sin discriminación alguna, y el uso equitativo del espacio público. En las vías urbanas se considerará el criterio de calle completa y las adicionales medidas que se estimen necesarias. Se procurará evitar la construcción de pasos elevados o subterráneos cuando haya la posibilidad de adecuar el diseño para hacer el cruce peatonal, así como el destinado a movilidad no motorizada y de tracción humana, y las demás necesarias para garantizar una movilidad incluyente.
+
+Las condiciones mínimas de infraestructura se ordenan de la siguiente manera:
+
+a) Aceras pavimentas reservadas para el tránsito de personas peatonas;
+
+b) Iluminación que permita el transito nocturno y seguro de personas peatonas;
+
+c) Pasos peatonales que garanticen zonas de intersección seguras entre la circulación rodada y el tránsito peatonal;
+
+d) Señales de control de tráfico peatonal, motorizado y no motorizado que regule el paso seguro de personas peatonas;
+
+II. Priorizar a los grupos en situación de vulnerabilidad. El diseño de la red vial debe garantizar que los factores como la velocidad, la circulación cercana a vehículos motorizados y la ausencia de infraestructura de calidad, no pongan en riesgo a personas peatonas ni a las personas usuarias de la vía pública que empleen vehículos no motorizados y de tracción humana;
+
+III. Participación social. En el proceso de diseño y evaluación de la infraestructura vial, se procurarán esquemas de participación social de las personas usuarias de la vía;
+
+IV. Visión integral. Los proyectos de nuevas calles o de rediseño de las existentes en las vialidades urbanas, semiurbanas y rurales, deberán considerar el criterio de calle completa, asignando secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite;
+
+V. Intersecciones seguras. Las intersecciones deberán estar diseñadas para garantizar la seguridad de todas las personas usuarias de la vía, especialmente a las y los peatones y personas con movilidad limitada y grupos en situación de vulnerabilidad;
+
+VI. Pacificación del tránsito. Los diseños en infraestructura vial, sentidos y operación vial, deberán priorizar la reducción de flujos y velocidades vehiculares, para dar lugar al transporte público y a la movilidad activa y no motorizada y de tracción humana, a fin de lograr una sana convivencia en las vías. El diseño geométrico, de secciones de carriles, pavimentos y señales deberá considerar una velocidad de diseño de 30 km/h máxima para calles secundarias y terciarias, para lo cual se podrán ampliar las banquetas, reducir secciones de carriles, utilizar mobiliario, pavimentos especiales, desviar el eje de la trayectoria e instalar dispositivos de reducción de velocidad;
+
+VII. Velocidades seguras. Las vías deben contar, por diseño, con las características, señales y elementos necesarios para que sus velocidades de operación sean compatibles con el diseño y las personas usuarias de la vía que en ella convivan;
+
+VIII. Legibilidad y autoexplicabilidad. Es la cualidad de un entorno vial que provoca un comportamiento seguro de las personas usuarias simplemente por su diseño y su facilidad de entendimiento y uso. El diseño y la configuración de una calle o carretera autoexplicable cumple las expectativas de las personas usuarias, anticipa adecuadamente las situaciones y genera conductas seguras.
+
+Las vías autoexplicables integran sus elementos de manera coherente y entendible como señales, marcas, dispositivos, geometría, superficies, iluminación y gestión de la velocidad, para evitar siniestros de tránsito y generar accesibilidad para las personas con discapacidad;
+
+IX. Conectividad. Los espacios públicos deben formar parte de una red que permita a las personas usuarias conectar sus orígenes y destinos, entre modos de transporte, de manera eficiente y fácil. También deben permitir el desplazamiento libre de personas peatonas, personas usuarias de movilidad activa o no motorizada y otros prioritarios, incluidos vehículos de emergencia;
+
+X. Permeabilidad. La infraestructura debe contar con un diseño que permita la recolección e infiltración de agua pluvial y su reutilización en la medida que el suelo y el contexto hídrico del territorio lo requiera y con las autorizaciones ambientales y de descarga de la autoridad competente;
+
+XI. Tolerancia. Las vías y sus costados deben prever la posible ocurrencia de errores de las personas usuarias, y con su diseño y equipamiento técnico procurarán minimizar las consecuencias de siniestros de tránsito;
+
+XII. Movilidad sostenible. Transporte cuyos impactos sociales, ambientales y climáticos permitan asegurar las necesidades de transporte de las generaciones actuales sin comprometer la capacidad en los recursos para satisfacer las del futuro y mejorar la calidad ambiental;
+
+XIII. Calidad. Las vías deben contar con un diseño adecuado a las necesidades de las personas, materiales de larga duración, diseño universal y acabados, así como mantenimiento adecuado para ser funcional, atractiva estéticamente y permanecer en el tiempo, y
+
+XIV. Tratamiento de condiciones climáticas. El proyecto debe incorporar un diseño con un enfoque integral que promueva y permita una menor dependencia de los combustibles fósiles, así como hacer frente a la agenda de adaptación y mitigación al cambio climático.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO VI. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 416.
+
+Corresponde a esta Entidad Federativa, en materia concurrente las facultades establecidas en el artículo 67 de la Ley General de Movilidad y Seguridad Vial, que comprenden entre otras las siguientes:
+
+I. Integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 405 del presente ordenamiento;
+
+II. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+III. Participar con las autoridades federales, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos, en los términos previstos en esta Ley, la Ley General de Movilidad y Seguridad Vial y demás disposiciones legales aplicables;
+
+IV. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en ésta y otras leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 417.
+
+Corresponde a los Municipios, en materia concurrente las facultades establecidas en el artículo 68 de la Ley General de Movilidad y Seguridad Vial, que comprenden entre otras las siguientes:
+
+I. Participar en el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 405 del presente ordenamiento y los lineamientos que establezca el Sistema Nacional;
+
+II. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+III. Constituir las instancias locales y de coordinación metropolitana para la implementación de acciones integrales, acciones afirmativas transversales en materia de movilidad, en apego a esta Ley y demás disposiciones legales;
+
+IV. Facilitar y participar en el Sistema de Movilidad en los términos que establece esta Ley, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
+
+V. Realizar estudios para el diseño, modificación y adecuación de las vías en los centros de población, de conformidad con lo establecido en esta Ley y las necesidades territoriales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE ENERO DE 2023)</small>
+
+### CAPÍTULO VII. DE LA PARTICIPACIÓN SOCIAL DE LA ENTIDAD, MUNICIPIOS Y ZONAS METROPOLITANAS
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 418.
+
+Esta Entidad federativa a través de la Secretaria y los municipios, promoverán la creación de Observatorios con la participación de la sociedad, pueblos y comunidades indígenas y afromexicanas, zonas insulares, personas con discapacidad y las organizaciones que les representan, instituciones académicas y de investigación, colegios de profesionistas con incidencia directa en la materia de esta Ley, organismos empresariales del sector ligado a la movilidad, la seguridad vial y al transporte de bienes y mercancías, organizaciones de la sociedad civil organizada y los gobiernos respectivos, para el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la seguridad vial, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial, y en general sobre la aplicación de la presente Ley.
+
+A fin de garantizar la participación efectiva de la sociedad, se deberá tomar en cuenta las instituciones de planeación y de participación ciudadana establecidas en la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, sin limitar la posibilidad de crear otros organismos que se consideren necesarios.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 419.
+
+Las autoridades correspondientes deberán proporcionar a los Observatorios la información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes de desarrollo urbano, de ordenamiento territorial metropolitanos, los actos administrativos y autorizaciones de uso de suelo, así como las bases de datos que forman la plataforma de información del estado, municipio y zona metropolitana.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 420.
+
+Los Observatorios podrán llevar a cabo, de manera conjunta con la Secretaria y los municipios, procesos de consulta y deliberación sobre temas de movilidad y seguridad vial.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2023)</small>
+
+###### Artículo 421.
+
+La Secretaria establecerá las regulaciones específicas a que se sujetará la creación y operación de los Observatorios, con base en esta Ley y la Ley General de Movilidad y Seguridad Vial.
+
 T R A N S I T O R I O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
@@ -6302,3 +6518,11 @@ P.O. 8 DE OCTUBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO.- El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 60 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 237.- POR EL QUE SE ADICIONA UN TÍTULO, PASANDO A SER ESTE EL TÍTULO VIII DENOMINADO CONCURRENCIA DE MOVILIDAD, QUE CONFORMAN LOS CAPÍTULOS I “DEL SISTEMA NACIONAL DE MOVILIDAD Y SEGURIDAD VIAL Y LA POLÍTICA NACIONAL, SECTORIAL Y REGIONAL”; II “DE LA ESTRATEGIA NACIONAL DE MOVILIDAD Y SEGURIDAD VIAL”; III “DEL SISTEMA DE INFORMACIÓN TERRITORIAL Y URBANO”; IV “DE LAS BASES DE DATOS SOBRE MOVILIDAD Y SEGURIDAD VIAL”; V “DE LOS INSTRUMENTOS DE POLÍTICA PÚBLICA DE MOVILIDAD Y SEGURIDAD VIAL PARA LA INFRAESTRUCTURA”; VI “DE LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN” Y VII “DE LA PARTICIPACIÓN SOCIAL DE LA ENTIDAD, MUNICIPIOS Y ZONAS METROPOLITANAS” INTEGRADO POR LOS ARTÍCULOS 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420 Y 421, A LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Ejecutivo del Estado y los municipios, en el ámbito de sus respectivas competencias, contarán con un plazo de 180 días naturales para realizar las adecuaciones necesarias a los Reglamentos de la materia, acorde a lo dispuesto en el presente decreto.
