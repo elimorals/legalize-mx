@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2021-09-09"
+last_updated: "2023-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2023.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -253,11 +253,11 @@ IV. Para fijar la duración de los términos, los meses se regularán por el nú
 
 Bis. Se tendrán por señalados cinco días para la práctica de algún acto judicial o para el ejercicio de algún derecho cuando la presente ley no señale término.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2023)</small>
 
 ###### Artículo 20.
 
-Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1o de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1 y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jomada (sic) electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo de la Junta del Tribunal de Justicia Administrativa, se suspendan las labores.
+Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1o de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1 y 5 de mayo; el segundo lunes de junio, en conmemoración del 16 de junio; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo de la Junta del Tribunal de Justicia Administrativa, se suspendan las labores.
 
 ### CAPÍTULO III. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
 
@@ -1868,3 +1868,11 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea (sic) agendado dentro de los plazos y términos que corresponden en su la (sic) Ley Orgánica del Poder Legislativo.
+
+P.O. 14 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 29129/LXIII/23 DEL CONGRESO DEL ESTADO QUE DECLARA EL 16 DE JUNIO DE CADA AÑO COMO “DÍA ESTATAL DEL NACIMIENTO DEL ESTADO LIBRE Y SOBERANO DE JALISCO” Y SE REFORMAN LOS ARTÍCULOS 38 DE LA LEY PARA LOS SERVIDORES PÚBLICOS, 20 DE LA LEY DE JUSTICIA ADMINISTRATIVA Y 77 DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. EL Poder Ejecutivo, así como a los poderes Judicial y Legislativo, todos del Estado de Jalisco deberán llevar a cabo anualmente actos conmemorativos del 16 de junio como “Día Estatal del Nacimiento del Estado Libre y Soberano de Jalisco”.
