@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2022-11-22"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -273,7 +273,9 @@ XX.- Promover hábitos alimentarios adecuados, tendientes a fortalecer la nutric
 
 XXI.- Desarrollar actitudes solidarias en las personas para crear conciencia sobre la preservación de la salud, el ejercicio responsable de la sexualidad, la planeación familiar y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios y adicciones, fomentando el conocimiento de sus causas, riesgos y consecuencias;
 
-XXII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
+
+XXII.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad, incluyendo actividades prácticas de plantación, cuidado, protección y conservación de árboles y reforestación en general. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 XXIII.- Fomentar actitudes solidarias y positivas hacia el trabajo productivo, el ahorro y el bienestar general;
 
@@ -709,11 +711,13 @@ Artículo 47 BIS.- Las Instituciones de Educación Superior se deberán vincular
 
 La Secretaría, en coordinación con las dependencias de la administración pública estatal, escuchando la opinión de las Instituciones de Educación Superior, promoverá la vinculación mediante planes y acciones en lo científico, tecnológico, social, cultural, emprendedor, artístico, deportivo y demás que resulten pertinentes.
 
-> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PÁRRAFO PRIMERO, B.O. 16 DE ENERO DE 2023)</small>
 
 El Consejo Estatal de Vinculación
 
-Artículo 47 BIS 1.- La Secretaría promoverá la vinculación a que se refiere el artículo 47 BIS, mediante la conformación de un Consejo Estatal de Vinculación que integrará representantes del sector educativo, gubernamental, social, cultural y empresarial.
+ARTÍCULO 47 BIS 1.- La Secretaría promoverá la vinculación a que se refiere el artículo 47 BIS, mediante la conformación de un Consejo Estatal de Vinculación que se integrará por representantes del sector educativo, gubernamental, social, cultural y empresarial, así como por especialistas en materia de protección al medio ambiente.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2020)</small>
 
 Los cargos de los integrantes de la Comisión serán honoríficos, por lo cual no tendrán derecho a remuneración alguna, y cuya duración del cargo será de 3 años, con la posibilidad de ser invitados a participar por otro periodo igual.
 
@@ -737,7 +741,9 @@ VI.- Impulsar una educación que contribuya a la formación de estudiantes prepa
 
 VII.- Fomentar una cultura de la innovación basada en la ciencia y la tecnología para contribuir efectivamente en la transformación de su entorno, así como encontrar solución a las distintas problemáticas regionales, nacionales e internacionales;
 
-VIII.- Fomentar en los estudiantes de todos los niveles una cultura de responsabilidad social y conciencia hacia el medio ambiente;
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
+
+VIII.- Fomentar en los estudiantes de todos los niveles una cultura de responsabilidad social y conciencia hacia el medio ambiente, principalmente, a través de actividades prácticas de plantación, cuidado, protección y conservación de árboles y reforestación en general;
 
 IX.- Promover la articulación entre los niveles educativos de Educación Básica, Media Superior y Superior;
 
@@ -1127,7 +1133,9 @@ XIV.- La promoción del emprendimiento, el fomento de la cultura del ahorro y la
 
 XV.- El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en los educandos de su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
-XVI.- La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental;
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
+
+XVI.- La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social activa en la protección ambiental, cuidado, protección y conservación de árboles y reforestación en general;
 
 XVII.- El aprendizaje y fomento de la cultura de protección civil, integrando los elementos básicos de prevención, autoprotección y resiliencia, así como la mitigación y adaptación ante los efectos que representa el cambio climático y los riesgos inherentes a otros fenómenos naturales;
 
@@ -2127,6 +2135,14 @@ Opciones para la prestación del servicio social
 
 La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
 
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 2023)</small>
+
+Requisito adicional para la acreditación del servicio social
+
+Artículo 135 BIS.- Para acreditar el servicio social, además de lo dispuesto en el presente capítulo, los alumnos prestadores de servicio social, deberán plantar un árbol endémico en las zonas o lugares que para tal efecto designe la institución educativa o el municipio respectivo.
+
+Los municipios deberán coordinarse con la Secretaría y con la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, para designar las zonas o lugares para la plantación, cuidado, protección y conservación de los árboles endémicos a que se refiere este artículo.
+
 ### Capítulo IV. De la participación de los medios de comunicación
 
 Contribución de los medios de comunicación a los fines y criterios de la educación
@@ -2872,3 +2888,23 @@ B.O. 22 DE NOVIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 83, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY PARA LA PROTECCIÓN, CONSERVACIÓN Y FOMENTO DEL ÁRBOL EN LAS ZONAS URBANAS DEL ESTADO DE SONORA, Y DE LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de 60 días a partir de la publicación del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios, en coordinación con la Secretaría de Educación y Cultura, y la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, cuentan con un plazo de 90 días a partir de la publicación del presente Decreto, para designar, de manera coordinada, las primeras zonas o lugares para la plantación, cuidado, protección y conservación de los árboles que deberán plantar los alumnos prestadores del servicio social.
+
+###### ARTÍCULO CUARTO.
+
+Los alumnos que tengan iniciado el trámite para acreditar su servicio social con anterioridad a la entrada en vigor del presente decreto, no estarán obligados a cumplir con el requisito adicional para la acreditación del servicio social previsto en el artículo 135 Bis de la Ley de Educación del Estado de Sonora.
