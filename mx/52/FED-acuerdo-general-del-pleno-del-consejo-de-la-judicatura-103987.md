@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2022-12-19"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -149,9 +149,9 @@ a) Bis. Las que regulan la autorización de comisiones, así como la asignación
 
 b) La regulación para la toma de decisiones en materia de inversión de los recursos financieros, de carácter presupuestal y no presupuestal administrados por el Consejo, para el óptimo manejo de sus recursos;
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Segundo de la Ley Orgánica del Poder Judicial de la Federación; y
+c) Las relativas a la organización y funcionamiento del Fondo de Apoyo a la Administración de Justicia, de conformidad con lo previsto en el Título Décimo Primero de la Ley Orgánica del Poder Judicial de la Federación; y
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
@@ -287,7 +287,9 @@ XLVII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 XLVIII. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas del Poder Judicial de la Federación, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XLIX. Contraloría: Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XLIX. Contraloría: Contraloría del Consejo de la Judicatura Federal;
 
 L. Contratista: Persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
 
@@ -311,7 +313,9 @@ LVII. Desechos: Los bienes muebles que por sus condiciones físicas se considera
 
 LVIII. Destino final: La determinación de enajenar, donar, permutar, transferir, destruir u otorgar en dación en pago los bienes no útiles;
 
-LIX. Día(s) Hábil(es): Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 163 de la Ley Orgánica, así como los que determine el Pleno;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+LIX. Día(s) Hábil(es): Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 143 de la Ley Orgánica, así como los que determine el Pleno;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, CON RELACIÓN A LA SUSCRIPCIÓN DE CONVENIOS CON ORGANISMOS U ORGANIZACIONES INTERNACIONALES, D.O.F. 27 DE OCTUBRE DE 2020)</small>
 
@@ -329,6 +333,10 @@ LXV. Economías: Remanentes de recursos no devengados del presupuesto modificado
 
 LXVI. Emergencia: Situación anormal que puede causar un daño a los servidores públicos del Poder Judicial de la Federación y propiciar un riesgo excesivo para su seguridad e integridad, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+LXVI. Bis. Escuela Judicial: Escuela Federal de Formación Judicial;
+
 LXVII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, para identificar la asignación y aplicación de los recursos presupuestales conforme a la clasificación funcional y programática, económica, geográfica, administrativa, y de género que determine el Consejo para alcanzar el cumplimiento de sus objetivos y metas, de acuerdo con las políticas definidas en el Plan de Desarrollo Institucional que corresponda;
 
 LXVIII. Filtro de salud: La revisión que diariamente se debe practicar a los infantes por personal del CENDI, previo a su ingreso;
@@ -343,7 +351,9 @@ LXXII. Fondo: Es la prestación o beneficio establecido a favor de los servidore
 
 LXXIII. Fondo de Apoyo: Fondo de Apoyo a la Administración de Justicia;
 
-LXXIV. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 68 de la Ley Orgánica;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+LXXIV. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 73 de la Ley Orgánica;
 
 LXXV. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de los servidores públicos. Involucra las etapas de: identificación de los riesgos y su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
@@ -423,7 +433,9 @@ CIV. Opinión jurídica: Documento emitido por la Dirección General de Asuntos 
 
 CIV Bis. Organismo u Organización Internacional: Persona jurídica creada con esa naturaleza de conformidad con el derecho internacional público;
 
-CV. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+CV. Órganos jurisdiccionales: Tribunales Colegiados de Circuito, tribunales Colegiados de Apelación y juzgados de Distrito;
 
 > <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
 
@@ -925,7 +937,9 @@ III. Documentación disciplinaria:
 
 a) Copias certificadas del acuerdo de inicio del procedimiento administrativo y de la resolución, tratándose de quejas o denuncias administrativas;
 
-b) Documentos remitidos por la Comisión Substanciadora Única del Poder Judicial de la Federación;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+b) Documentos remitidos por la Comisión de Conflictos Laborales del Poder Judicial de la Federación;
 
 c) Original o copia de los comunicados, acuerdos y sentencias dictadas en contra de los servidores públicos por los titulares de los órganos jurisdiccionales, federales y locales;
 
@@ -1111,7 +1125,9 @@ En el supuesto de que se haya considerado que la incapacidad del servidor públi
 
 En los casos en que, conforme a los peritajes rendidos, se considere que la incapacidad del servidor público es de carácter temporal, se le fijará un término para que se reincorpore a sus funciones. Este término será prorrogable, pero en ningún caso, la separación temporal del servidor público, podrá exceder de un año.
 
-Durante el lapso de separación temporal, el Pleno, discrecionalmente, podrá otorgar al servidor público licencia, en los términos de los artículos 165 a 168 de la Ley Orgánica.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+Durante el lapso de separación temporal, el Pleno, discrecionalmente, podrá otorgar a la persona servidora pública licencia, en los términos de los artículos 145 a 148 de la Ley Orgánica.
 
 Para efectos laborales, la separación temporal del servidor público se equipara a la de los servidores públicos que disfrutan de licencia otorgada por el órgano competente del Consejo.
 
@@ -1151,7 +1167,9 @@ En caso de que un trabajador de base adscrito a un área administrativa incurra 
 
 En caso de que un trabajador de base adscrito a un órgano jurisdiccional incurra en una causal de cese, el titular podrá removerlo en uso de la facultad que le otorga el artículo 97 constitucional, debiendo levantar invariablemente un acta con las formalidades que establece el artículo 46 Bis de la Ley Federal de los Trabajadores al Servicio del Estado.
 
-En todo momento quedará a salvo el derecho de los trabajadores para demandar ante la Comisión Substanciadora Única del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+En todo momento quedará a salvo el derecho de las y los trabajadores para demandar ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación la reinstalación en su trabajo o la indemnización correspondiente, en caso de que consideren que su remoción fue injustificada.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
 
@@ -1617,9 +1635,9 @@ Para efectos del registro automatizado, son causas de justificación por omisió
 
 I. Por caso fortuito o fuerza mayor: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, por alguna de esas circunstancias;
 
-> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. Por formación, capacitación y actualización: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, cuando el servidor público realice estudios para la obtención de grado académico con reconocimiento y validez oficial en instituciones de educación superior que estén debidamente acreditadas, o se encuentre inscrito en curso impartido por el Instituto de la Judicatura o por el Instituto Federal de Defensoría Pública. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada;
+II. Por formación, capacitación y actualización: Autorización otorgada por la persona titular del órgano jurisdiccional o área administrativa, cuando la persona servidora pública realice estudios para la obtención de grado académico con reconocimiento y validez oficial en instituciones de educación superior que estén debidamente acreditadas, o se encuentre inscrito en curso impartido por la Escuela Judicial o por el Instituto Federal de Defensoría Pública. En estos supuestos sólo se podrá justificar el retardo en la entrada o la salida anticipada;
 
 III. Por servicio público: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa para el cumplimiento de las funciones a cargo del servidor público;
 
@@ -3225,11 +3243,11 @@ Artículo 236 ter. Para efectos del artículo anterior, si los dos padres o tuto
 
 Podrá concederse licencia con goce de sueldo en términos de este Capítulo, sin importar que implique la extensión previa o posterior del período vacacional. Sin embargo, cuando la licencia por paternidad o adopción considere días dentro del período vacacional previamente autorizado por el titular, no podrá ampliarse este último.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS LICENCIAS DE PATERNIDAD, D.O.F. 29 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 240.
 
-Las licencias que se autoricen por paternidad o adopción no serán consideradas para el cómputo a que se refiere el artículo 146 de la Ley Orgánica, y demás correlativos de otras disposiciones aplicables, para el otorgamiento de nuevas licencias.
+Las licencias que se autoricen por paternidad no serán consideradas para el cómputo a que se refiere el artículo 146 de la Ley Orgánica, y demás correlativos de otras disposiciones aplicables, para el otorgamiento de nuevas licencias.
 
 ###### Artículo 241.
 
@@ -3295,9 +3313,9 @@ La celebración será en forma directa siempre que de la investigación de merca
 
 Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente, sin perjuicio de salvaguardar los intereses del Consejo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACIÓN EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-Una vez aprobados los programas de formación, capacitación, actualización, investigación y desarrollo, el Instituto de la Judicatura podrá celebrar convenios de colaboración en materia de prestación de servicios académicos con instituciones públicas o privadas, a fin de cumplir los objetivos previstos en dicho Programa, para lo cual deberá privilegiar los criterios y principios establecidos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+Una vez aprobados los programas de formación, capacitación, actualización, investigación y desarrollo, la Escuela Judicial podrá celebrar convenios de colaboración en materia de prestación de servicios académicos con instituciones públicas o privadas, a fin de cumplir los objetivos previstos en dicho Programa, para lo cual deberá privilegiar los criterios y principios establecidos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACIÓN EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
 
@@ -3397,7 +3415,9 @@ Los actos, contratos y convenios que se celebren en contravención a lo dispuest
 
 Los servidores públicos del Consejo deberán cumplir las disposiciones establecidas por la Ley Orgánica y este Capítulo, observando en todo momento lo previsto en la Ley General de Responsabilidades Administrativas.
 
-La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Octavo de la Ley Orgánica y en las demás disposiciones aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+La responsabilidad administrativa derivada de los actos que se realicen en contravención a lo anterior, será determinada conforme lo dispuesto en el Título Séptimo de la Ley Orgánica y en las demás disposiciones aplicables, sin perjuicio de la responsabilidad civil o penal que pudiera resultar de dichos actos.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
@@ -3759,9 +3779,11 @@ La Comisión de Administración es competente para la interpretación y aplicaci
 
 No obstante lo anterior, la citada Comisión de Administración podrá remitir el asunto al conocimiento del Pleno cuando considere que, por su trascendencia, deba ser resuelto por este órgano, o bien, cuando no se haya llegado a un consenso.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 262.
 
-Las controversias que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en este Capítulo, así como del cumplimiento de las obligaciones contraídas por particulares en virtud de los mismos, serán resueltas por el Pleno de la Suprema Corte de Justicia de la Nación, conforme a lo previsto en el artículo 11, fracción XX, de la Ley Orgánica.
+Las controversias que se susciten con motivo de la interpretación y resolución de los conflictos que se deriven de los contratos celebrados con base en este Capítulo, así como del cumplimiento de las obligaciones contraídas por las y los particulares en virtud de los mismos, serán resueltas por el Pleno de la Suprema Corte de Justicia de la Nación, conforme a lo previsto en el artículo 11, fracción XXII, de la Ley Orgánica.
 
 ###### Artículo 263.
 
@@ -4367,9 +4389,9 @@ II. Aquéllas con las que los servidores públicos que intervengan en cualquier 
 
 III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA CELEBRACIÓN DE CONTRATOS EN MATERIA DE CAPACITACIÓN DEL INSTITUTO DE LA JUDICATURA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-Se exceptúan de lo anterior, las personas que desempeñen un empleo, cargo o comisión en el servicio público, con los que se celebre contrato para la impartición de asignaturas que integran los programas académicos del Instituto de la Judicatura, supuesto en el cual no se requerirá autorización previa del Pleno. Para tal efecto, el Director General del Instituto deberá presentar un informe semestral de las contrataciones que realice conforme a lo previsto en este párrafo;
+Se exceptúan de lo anterior, las personas que desempeñen un empleo, cargo o comisión en el servicio público, con los que se celebre contrato para la impartición de asignaturas que integran los programas académicos de la Escuela Judicial, supuesto en el cual no se requerirá autorización previa del Pleno. Para tal efecto, la o el Director General de la Escuela Judicial deberá presentar un informe semestral de las contrataciones que realice conforme a lo previsto en este párrafo;
 
 IV. Respecto de aquellas sobre las cuales la Comisión de Administración haya formulado declaración de impedimento para contratar, por actualizarse alguno de los siguientes supuestos:
 
@@ -5923,9 +5945,9 @@ II. Se trate de servicios relacionados con las obras públicas prestados por una
 
 III. A juicio del Comité, a que se refiere la fracción VIII, del artículo 7 de este Acuerdo General, así resulte conveniente a los intereses del Consejo o por las circunstancias de mercado o por su costo no resulte conveniente pactar esta garantía; y
 
-> <small>(ADICIONADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IV. Cuando para la ejecución de los programas de formación, capacitación, actualización, investigación y desarrollo, a juicio del Director General del Instituto de la Judicatura así resulte conveniente a los intereses del Consejo; o por las circunstancias de mercado, o por su costo no resulte conveniente pactar esta garantía.
+IV. Cuando para la ejecución de los programas de formación, capacitación, actualización, investigación y desarrollo, a juicio de la o el Director General de la Escuela Judicial así resulte conveniente a los intereses del Consejo; o por las circunstancias de mercado, o por su costo no resulte conveniente pactar esta garantía.
 
 Lo previsto en el párrafo anterior, tratándose de los convenios que se efectúen con autoridades, organismos públicos, instituciones, asociaciones o entes; nacionales o internacionales que brinden servicios académicos, cuyo objeto sea la investigación, capacitación o algún otro análogo.
 
@@ -6931,9 +6953,11 @@ La Coordinación de Administración Regional y la Dirección General de Servicio
 
 #### SECCIÓN SEXTA. DE LOS BIENES INMUEBLES DEL PODER JUDICIAL DE LA FEDERACIÓN
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 487.
 
-Todos los bienes inmuebles al servicio del Poder Judicial de la Federación, estarán sujetos a la jurisdicción federal y cualquier controversia que surja sobre ellos será resuelta por el Pleno de la Suprema Corte de Justicia de la Nación, en términos del artículo 11, fracción XX, de la Ley Orgánica.
+Todos los bienes inmuebles al servicio del Poder Judicial de la Federación, estarán sujetos a la jurisdicción federal y cualquier controversia que surja sobre ellos será resuelta por el Pleno de la Suprema Corte de Justicia de la Nación, en términos del artículo 11, fracción XXII, de la Ley Orgánica.
 
 ###### Artículo 488.
 
@@ -7175,7 +7199,9 @@ III. Afectación a fondos de fideicomisos públicos en los que el Poder Judicial
 
 IV. Donación a favor de los gobiernos de las entidades federativas, de la Ciudad de México y de los municipios, para que se utilicen los inmuebles en servicios de administración de justicia locales, fines de asistencia social, o para promover acciones de interés general o de beneficio colectivo.
 
-Los ingresos provenientes por la enajenación de inmuebles a título oneroso, en los términos de la fracción II del artículo 243 de la Ley Orgánica, pasarán a integrar el patrimonio del Fondo de Apoyo a la Administración de Justicia.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+Los ingresos provenientes por la enajenación de inmuebles a título oneroso, en los términos de la fracción II del artículo 225 de la Ley Orgánica, pasarán a integrar el patrimonio del Fondo de Apoyo a la Administración de Justicia.
 
 ###### Artículo 503.
 
@@ -8415,9 +8441,9 @@ I. La Dirección General de Recursos Materiales o la Administración Regional, s
 
 II. La Dirección General de Asuntos Jurídicos; y
 
-> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-III. La Contraloría del Poder Judicial de la Federación.
+III. La Contraloría del Consejo de la Judicatura Federal.
 
 Para el caso de invitaciones restringidas o adjudicaciones directas, las mismas serán instrumentadas por la Administración Regional o por la Dirección General de Recursos Materiales, según la ubicación de los bienes.
 
@@ -9503,11 +9529,13 @@ VI. Llevar la contabilidad y elaborar sus informes conforme a la Ley General de 
 
 #### SECCIÓN SEGUNDA. EQUILIBRIO Y PRINCIPIOS DE RESPONSABILIDAD PRESUPUESTARIA
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 700.
 
-Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimiento de lo establecido en los artículos 94 y 100 de la Constitución, así como en el 68 de la Ley Orgánica.
+Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimiento de lo establecido en los artículos 94 y 100 de la Constitución, así como en el 73 de la Ley Orgánica.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará de acuerdo con los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas para cada ejercicio fiscal aprobados por el Pleno, conforme a lo dispuesto en la Ley de Presupuesto y acorde con los criterios generales de política económica.
 
@@ -9515,11 +9543,15 @@ El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará de 
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar los programas anuales de trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Administración, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 Toda propuesta que implique aumento en el gasto corriente o de inversión, no contemplada inicialmente en el presupuesto autorizado, deberá contar con la autorización del Pleno.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 Dicha propuesta, se presentará por la unidad ejecutora de gasto, para autorización del Pleno, previa consideración favorable de la Comisión de Administración, en la que se precise la justificación motivada y fundada de la solicitud; y se anexe la certificación de suficiencia presupuestal, expedida por la Dirección General de Programación, Presupuesto y Tesorería.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Poder Judicial de la Federación, con cargo a los excedentes que, en su caso, resulten de las provisiones financieras originales. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, éstos deberán reconocerse como ampliación al presupuesto autorizado del área ejecutora del gasto que los generó.
 
@@ -11265,9 +11297,11 @@ La revisión y vigilancia que efectúe la Contraloría y en general las activida
 
 #### SECCIÓN TERCERA. RESPONSABILIDADES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 825.
 
-El procedimiento para fincar las responsabilidades en relación con la materia de este Título, es el previsto en el Título Octavo de la Ley Orgánica y en los acuerdos generales que emita el Pleno.
+El procedimiento para fincar las responsabilidades en relación con la materia de este Título, es el previsto en el Título Séptimo de la Ley Orgánica y en los acuerdos generales que emita el Pleno.
 
 ###### Artículo 826.
 
@@ -11289,9 +11323,11 @@ Las responsabilidades se fincarán en primer término a las personas que directa
 
 Serán responsables solidarios con los servidores públicos del Consejo, los particulares en los casos en que hayan participado y originen una responsabilidad.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 828.
 
-Las responsabilidades que procedan en los términos de esta Sección, tienen como objeto el determinar en cantidad líquida el monto o perjuicio causado al erario público y su resarcimiento, dicha cantidad tendrá el carácter de crédito fiscal y será ejecutada conforme a las disposiciones legales aplicables, sin perjuicio de las sanciones que procedan conforme a lo establecido en el artículo 135 de la Ley Orgánica y en los acuerdos que al efecto emita el Pleno.
+Las responsabilidades que procedan en los términos de esta Sección, tienen como objeto el determinar en cantidad líquida el monto o perjuicio causado al erario público y su resarcimiento, dicha cantidad tendrá el carácter de crédito fiscal y será ejecutada conforme a las disposiciones legales aplicables, sin perjuicio de las sanciones que procedan conforme a lo establecido en el artículo 115 de la Ley Orgánica y en los acuerdos que al efecto emita el Pleno.
 
 ###### Artículo 829.
 
@@ -11995,13 +12031,17 @@ DISPOSICIONES GENERALES
 
 El Fondo de Apoyo será manejado y operado por el Consejo a través del Comité Técnico, con el auxilio de un secretario técnico.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 855.
 
-El patrimonio del Fondo de Apoyo se integrará con los recursos a los que se refiere el artículo 243 de la Ley Orgánica, y la administración se realizará a través de la inversión en valores de renta fija del más alto rendimiento, siempre que se permita la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
+El patrimonio del Fondo de Apoyo se integrará con los recursos a los que se refiere el artículo 225 de la Ley Orgánica, y la administración se realizará a través de la inversión en valores de renta fija del más alto rendimiento, siempre que se permita la disponibilidad inmediata y suficiente de las sumas que resulte necesario reintegrar a los depositantes o entregar a los particulares que tengan derecho a ellas.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 856.
 
-El aprovechamiento de los recursos del Fondo de Apoyo se hará de conformidad con lo previsto en el artículo 250 de la Ley Orgánica.
+El aprovechamiento de los recursos del Fondo de Apoyo se hará de conformidad con lo previsto en el artículo 232 de la Ley Orgánica.
 
 ###### Artículo 857.
 
@@ -12015,9 +12055,11 @@ Los ingresos que se generen por la enajenación de inmuebles propiedad del Poder
 
 Los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales son recursos ajenos al Poder Judicial de la Federación, respecto de los cuales el Comité decide la administración hasta en tanto se determine su destino o aplicación que legalmente proceda, y sólo se aplicarán al Fondo de Apoyo los intereses que produzcan, respecto de los cuales el Comité decide su inversión.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 860.
 
-Los ingresos que se produzcan por la administración de valores y los intereses que se generen por los depósitos en dinero, diversos a los depósitos judiciales deberán ser aplicados al Fondo de Apoyo, de conformidad con lo dispuesto en la fracción IV del artículo 243 de la Ley Orgánica.
+Los ingresos que se produzcan por la administración de valores y los intereses que se generen por los depósitos en dinero, diversos a los depósitos judiciales deberán ser aplicados al Fondo de Apoyo, de conformidad con lo dispuesto en la fracción IV del artículo 225 de la Ley Orgánica.
 
 SUBSECCIÓN SEGUNDA
 
@@ -12057,9 +12099,11 @@ SUBSECCIÓN TERCERA
 
 ENAJENACIÓN DE INMUEBLES Y BIENES DECOMISADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 867.
 
-El producto obtenido por la enajenación de inmuebles propiedad del Poder Judicial de la Federación, en términos de lo dispuesto en la fracción II del artículo 243 de la Ley Orgánica y el artículo 23, fracción II, de la Ley General de Bienes Nacionales, forman parte del patrimonio del Fondo de Apoyo y se depositará en la cuenta patrimonial que para tal efecto se instrumente.
+El producto obtenido por la enajenación de inmuebles propiedad del Poder Judicial de la Federación, en términos de lo dispuesto en la fracción II del artículo 225 de la Ley Orgánica y el artículo 23, fracción II, de la Ley General de Bienes Nacionales, forman parte del patrimonio del Fondo de Apoyo y se depositará en la cuenta patrimonial que para tal efecto se instrumente.
 
 La secretaría técnica se coordinará con las instancias competentes del Consejo y con la Contraloría, en el marco de sus atribuciones, con el fin de recibir los ingresos a que se refiere el párrafo anterior, en términos de las disposiciones aplicables.
 
@@ -12071,9 +12115,11 @@ El producto obtenido por la enajenación de bienes decomisados, una vez recibida
 
 Los órganos jurisdiccionales deberán colaborar con la Secretaría Técnica y demás instancias competentes, mediante la elaboración de un informe sobre los bienes y valores decomisados en los procesos judiciales de su conocimiento, tan luego como cause estado o quede firme la resolución que decrete el decomiso, que deberán enviar a la secretaría técnica, acompañando los documentos que lo justifiquen.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 870.
 
-La secretaría técnica podrá solicitar en todo momento al SAE la información relativa a la entrega de la parte proporcional de los ingresos que le corresponden al Fondo de Apoyo, conforme a lo dispuesto en los artículos 243, fracción II, de la Ley Orgánica y 182-R del Código Federal de Procedimientos Penales.
+La secretaría técnica podrá solicitar en todo momento al Instituto para Devolver a (sic) Pueblo lo Robado la información relativa a la entrega de la parte proporcional de los ingresos que le corresponden al Fondo de Apoyo, conforme a lo dispuesto en los artículos 225, fracción II, de la Ley Orgánica y 182-R del Código Federal de Procedimientos Penales.
 
 ###### Artículo 871.
 
@@ -12091,9 +12137,11 @@ SUBSECCIÓN CUARTA
 
 DEPÓSITOS ANTE LOS ÓRGANOS JURISDICCIONALES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 874.
 
-La disponibilidad de los ingresos que se obtengan por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales, se hará conforme a lo dispuesto en el artículo 250 de la Ley Orgánica.
+La disponibilidad de los ingresos que se obtengan por las inversiones que se hagan de los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales, se hará conforme a lo dispuesto en el artículo 232 de la Ley Orgánica.
 
 ###### Artículo 875.
 
@@ -12225,9 +12273,11 @@ El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Direcc
 
 Para el efecto anterior, los analistas jurídicos de los órganos jurisdiccionales responsables del procesamiento de la información del SISE y/o SIGE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 894.
 
-Los depósitos a que se refieren las fracciones III y IV del artículo 243 de la Ley Orgánica serán objeto de contabilidad, y se llevará un registro automatizado de los datos relativos a los ingresos, egresos e intereses.
+Los depósitos a que se refieren las fracciones III y IV del artículo 225 de la Ley Orgánica serán objeto de contabilidad, y se llevará un registro automatizado de los datos relativos a los ingresos, egresos e intereses.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -12283,15 +12333,19 @@ Se procurará que los billetes, certificados o instrumentos de depósito se pued
 
 #### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 901.
 
-De conformidad con lo dispuesto en el artículo 248 de la Ley Orgánica y los artículos 855 y 891 de este Acuerdo, el Comité determinará a la o las instituciones de crédito, casas de bolsa u operadoras de sociedades de inversión en las que se administrarán los recursos del Fondo de Apoyo y podrá solicitar la opinión del Comité de Inversión al respecto.
+De conformidad con lo dispuesto en el artículo 230 de la Ley Orgánica y los artículos 855 y 891 de este Acuerdo, el Comité determinará a la o las instituciones de crédito, casas de bolsa u operadoras de sociedades de inversión en las que se administrarán los recursos del Fondo de Apoyo y podrá solicitar la opinión del Comité de Inversión al respecto.
 
-Los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales del Poder Judicial de la Federación, a que se refiere la fracción III del artículo 243 de la Ley Orgánica, serán operados por el Comité a través de una sola institución de crédito.
+Los depósitos en dinero o en valores que se efectúen ante los órganos jurisdiccionales del Poder Judicial de la Federación, a que se refiere la fracción III del artículo 225 de la Ley Orgánica, serán operados por el Comité a través de una sola institución de crédito.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 902.
 
-Los datos relativos a la administración y operación del Fondo de Apoyo, así como a la recepción y devolución de los depósitos a que se refiere el artículo 243, fracción III, de la Ley Orgánica, se procesarán de forma automatizada.
+Los datos relativos a la administración y operación del Fondo de Apoyo, así como a la recepción y devolución de los depósitos a que se refiere el artículo 225, fracción III, de la Ley Orgánica, se procesarán de forma automatizada.
 
 ###### Artículo 903.
 
@@ -12315,17 +12369,23 @@ Los informes de la institución depositaria deberán rendirse de forma que permi
 
 El ejercicio de los recursos disponibles que integren el Fondo de Apoyo, se regirá por los principios de eficiencia, eficacia y honradez que establece el artículo 134 de la Constitución, a fin de satisfacer los objetivos a los que están destinados, de conformidad con lo dispuesto por la Ley Orgánica.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 908.
 
-El Comité autorizará la aplicación de los recursos conforme a lo dispuesto en el artículo 249 de la Ley Orgánica.
+El Comité autorizará la aplicación de los recursos conforme a lo dispuesto en el artículo 231 de la Ley Orgánica.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 909.
 
-En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo son auxiliares para la realización única y exclusiva de los objetivos previstos en el artículo 249 de la Ley Orgánica.
+En todo caso, se debe considerar que los recursos disponibles del Fondo de Apoyo son auxiliares para la realización única y exclusiva de los objetivos previstos en el artículo 231 de la Ley Orgánica.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 910.
 
-Las percepciones del secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 249, fracción I, de la Ley Orgánica.
+Las percepciones de la o el secretario técnico y las del personal que se designe para auxiliar en las actividades del Fondo de Apoyo, se cubrirán directamente de los recursos disponibles del Fondo de Apoyo, en los términos previstos en el artículo 231, fracción I, de la Ley Orgánica.
 
 #### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
@@ -12705,9 +12765,9 @@ VII. Implementar, difundir y vigilar el cumplimiento de la normativa y disposici
 
 VIII. Vigilar el cumplimiento de las disposiciones normativas que en materia de Protección Civil se establezcan, así como en su caso, atender los criterios de orden general regulados por el Sistema Nacional de Protección Civil, a través de disposiciones, medidas y acciones contenidas en la Gestión Integral de Riesgos ante la eventualidad de un desastre y en su caso, someter a consideración de la Comisión de Administración, las acciones que deban aplicarse en los inmuebles que administra el Poder Judicial de la Federación;
 
-> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IX. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de protección civil;
+IX. Plantear a la Escuela Judicial las necesidades de capacitación en materia de protección civil;
 
 X. Dar seguimiento a las evaluaciones que en materia de Protección Civil realicen las Unidades Internas de Protección Civil en cada uno de los inmuebles, así como de la participación de los Brigadistas en el desarrollo de las mismas;
 
@@ -12841,9 +12901,9 @@ VII. Presentar a la Dirección General de Protección Civil y Salud en el Trabaj
 
 VIII. Mantener actualizado el Padrón de Brigadistas de los inmuebles a su cargo, e informar, a la brevedad, a la Dirección General de Protección Civil y Salud en el Trabajo de los cambios que ocurran;
 
-> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IX. Detectar las necesidades de capacitación específica para los Brigadistas en los inmuebles a su cargo, y comunicarlas a la Dirección General de Protección Civil y Salud en el Trabajo, para que ésta, de estimarlo procedente, las planteé al Instituto de la Judicatura;
+IX. Detectar las necesidades de capacitación específica para las y los Brigadistas en los inmuebles a su cargo, y comunicarlas a la Dirección General de Protección Civil y Salud en el Trabajo, para que ésta, de estimarlo procedente, las planteé a la Escuela Judicial;
 
 X. Dotar a las brigadas constituidas, del material y equipo necesario para su correcto funcionamiento;
 
@@ -14458,6 +14518,14 @@ SÉPTIMO. Se instruye al Instituto Federal de Defensoría Pública para que, en 
 D.O.F. 19 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL COMITÉ DE EVALUACIÓN Y SEGUIMIENTO DE LAS MEDIDAS DE RACIONALIDAD Y AUSTERIDAD DEL CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
