@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-138039"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-09-06"
-last_updated: "2022-03-09"
+last_updated: "2023-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138039&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2019-08-29"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA EN EL CONSEJO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado al Número 5 de la Primera Sección del Diario Oficial de la Federación, el viernes 6 de septiembre de 2019.
 
@@ -139,7 +139,9 @@ Estará integrado por los siguientes servidores públicos, los cuales tendrán d
 
 I. La persona titular de la Secretaría Ejecutiva del Pleno, quien fungirá como Presidente;
 
-II. La persona titular de la Contraloría del Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. La persona titular de la Contraloría del Consejo de la Judicatura Federal; y
 
 III. La persona titular de la Dirección General de Asuntos Jurídicos.
 
@@ -151,7 +153,9 @@ II. Los asesores que designen los integrantes del Comité.
 
 En caso de ausencia y de manera excepcional, los integrantes podrán designar a un suplente. Dicha designación deberá corresponder a personas que ocupen cargos de la jerarquía inmediata inferior a la de los integrantes.
 
-En caso de ausencia de la persona titular de la Secretaría Ejecutiva del Pleno, la persona titular de la Contraloría del Poder Judicial de la Federación fungirá como Presidente en la sesión respectiva.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+En caso de ausencia de la persona titular de la Secretaría Ejecutiva del Pleno, la persona titular de la Contraloría del Consejo de la Judicatura Federal fungirá como la o el Presidente en la sesión respectiva.
 
 El Secretario Técnico del Comité será designado por el Presidente del Comité.
 
@@ -273,7 +277,9 @@ La Unidad de Transparencia tendrá las funciones señaladas en el artículo 61 d
 
 Cuando algún área se niegue a colaborar con la Unidad de Transparencia, ésta dará aviso al superior jerárquico de aquélla para que ordene al servidor público de que se trate, realizar sin demora las acciones conducentes.
 
-Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la Contraloría del Poder Judicial de la Federación para que determine lo conducente.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la Contraloría del Consejo de la Judicatura Federal para que determine lo conducente.
 
 ###### Artículo 15.
 
@@ -519,17 +525,21 @@ Su distribución y envío serán gratuitos.
 
 ###### Artículo 36.
 
-Del acceso a las videograbaciones de las sesiones de los Tribunales Colegiados de Circuito o Plenos de Circuito
+> <small>(REFORMADO SU EPÍGRAFE POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+Del acceso a las videograbaciones de las sesiones de los Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación o Plenos Regionales
 
 Las partes podrán obtener una copia de las videograbaciones que realiza el órgano jurisdiccional.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES QUE REGULAN LA DIFUSIÓN DE LAS VIDEOGRABACIONES DE LAS SESIONES PÚBLICAS DE LOS TRIBUNALES COLEGIADOS Y PLENOS DE CIRCUITO, D.O.F. 9 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-Las sesiones de los tribunales colegiados de Circuito o Plenos de Circuito se transmitirán en vivo por internet y, posteriormente, podrán ser consultadas en la Biblioteca Virtual de Sesiones, a través del portal del Consejo en Internet.
+Las sesiones de los tribunales Colegiados de Circuito, tribunales Colegiados de Apelación o Plenos Regionales podrán ser consultadas en la Biblioteca Virtual de Sesiones, a través del portal del Consejo en Internet.
 
 Las sesiones ordinarias o extraordinarias deberán ser ingresadas a la Biblioteca Virtual de Sesiones, previo a que se celebre la siguiente sesión ordinaria que corresponda.
 
-El acceso a las sesiones videograbadas que se hayan celebrado con anterioridad al uno de agosto del dos mil dieciséis, fecha en que inició operaciones la referida biblioteca, se solicitarán a través del procedimiento de acceso a la información y su versión publica será elaborada por el Secretario que designe el Presidente del Tribunal Colegiado o del Pleno de Circuito respectivo.
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+El acceso a las sesiones videograbadas que se hayan celebrado con anterioridad al uno de agosto del dos mil dieciséis, fecha en que inició operaciones la referida biblioteca, se solicitarán a través del procedimiento de acceso a la información y su versión publica será elaborada por la o el Secretario que designe la Presidenta o el Presidente del Tribunal Colegiado de Circuito, de Apelación o del Pleno Regional respectivo.
 
 El acceso a las videograbaciones de las audiencias por personas ajenas al juicio, se formulará a través de una solicitud de acceso a la información.
 
@@ -692,3 +702,11 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 TERCERO. Se instruye a las unidades administrativas competentes, emitir los lineamientos para incorporar el video y, en su caso, el acta respectiva a la Biblioteca Virtual de Sesiones.
 
 CUARTO. Las referencias hechas a los Plenos de Circuito, se entenderán formuladas a los Plenos Regionales, hasta en tanto entren en operación los segundos.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
