@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-cfe-generacion-v-124878"
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-22"
-last_updated: "2020-06-12"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124878&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2017-12-04"
 
 ESTATUTO ORGÁNICO DE CFE GENERACIÓN V
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Estatuto publicado en la Octava Sección al Número 19 del Diario Oficial de la Federación, el viernes 22 de diciembre de 2017.
 
@@ -605,6 +605,50 @@ XII. Supervisar el cumplimiento y vigencia de las Cartas de Crédito durante el 
 
 XIII. Supervisar el apoyo administrativo y comisiones del personal en relación con las reuniones de Comité de Coordinación que se celebran entre la CFE y los PEE cuando menos una vez cada dos meses de conformidad con la Cláusula de Comité de Coordinación de los Contratos suscritos con los PEE;
 
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIV. Elaborar los Estudios de Necesidades relacionados con los bienes y servicios requeridos por CFE Generación V, previo al registro de información en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XV. Elaborar las Investigaciones de Condiciones de Mercado de los bienes y servicios requeridos por CFE Generación V, previo al registro de información en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XVI. Revisar y validar la información registrada por las áreas requirentes de CFE Generación V en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones, previo a que se reporte a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XVII. Reportar a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión, la información registrada por las áreas requirentes de CFE Generación V en el sistema electrónico determinado para la integración del Programa Anual de Contrataciones;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XVIII. Elaborar las actualizaciones de condiciones de mercado correspondientes a las contrataciones de bienes y servicios que realizará CFE Generación V a través de su área contratante, previo al inicio de los procedimientos correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIX. Diseñar los pliegos de requisitos relacionados con los procedimientos de contratación de bienes y servicios que CFE Generación V realizará a través de su área contratante;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XX. Determinar la procedencia de modificar contratos derivados de procedimientos de contratación desarrollados por CFE Generación V, cuando se trate de sustitución de bienes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXI. Difundir la normatividad aplicable a los procesos de inteligencia de mercado que emitan el Consejo de Administración o la Dirección Corporativa de Administración;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXII. Informar a CFE Generación V y a la Gerencia de Inteligencia y Análisis de Mercados de la Comisión sobre los resultados generales de los procesos de inteligencia de mercado;
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXIII. Colaborar con la Gerencia de Inteligencia y Análisis de Mercados de la Comisión en las verificaciones que le realice sobre el cumplimiento de la normatividad aplicable a los procesos de inteligencia de mercado, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXIV. Las demás que le confiera cualquier otra normatividad que le resulte aplicable.
+
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2020)</small>
 
 ### CAPÍTULO II. De la Unidad de Administración y Recursos Humanos
@@ -1080,3 +1124,9 @@ D.O.F. 12 DE JUNIO DE 2020.
 ## [N. DE E. TRANSITORIO DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V".]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE CFE GENERACIÓN V, PUBLICADO EL 12 DE JUNIO DE 2020”.]
+
+Primero. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
