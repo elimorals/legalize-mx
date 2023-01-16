@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-un-organismo-publico-descentralizado-46660"
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-13"
-last_updated: "2016-08-08"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 13 de octubre de 2005.
 
@@ -89,9 +89,21 @@ XI.- Aplicar las sanciones previstas en las disposiciones legales de la materia 
 
 XII.- Instrumentar y promover los programas y acciones relativos a la protección de los recursos de fauna y flora silvestres en el territorio del Estado; y vigilar el cumplimiento de las disposiciones aplicables en esas materias, en el ámbito de competencia del Estado;
 
-XIII.- Ejercer las funciones, servicios, recursos y programas que asuma el Estado, por virtud de los convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal, en materia de vida silvestre; y
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-XIV.- Las demás que le confieran este y otros ordenamientos jurídicos aplicables en la materia.
+XIII.- Ejercer las funciones, servicios, recursos y programas que asuma el Estado, por virtud de los convenios o acuerdos de coordinación celebrados con el Ejecutivo Federal, en materia de vida silvestre;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE ENERO DE 2023)</small>
+
+XIV.- Coordinarse con la Secretaría de Educación y Cultura para promover planes y programas educativos en todos los niveles, dirigidos al cumplimiento de los objetivos de esta Ley, en los que se incluyan actividades prácticas de plantación, cuidado, protección y conservación de árboles y reforestación en general;
+
+> <small>(ADICIONADA, B.O. 16 DE ENERO DE 2023)</small>
+
+XV.- Proponer a las autoridades competentes, tanto estatales como municipales, zonas que requieran restauración mediante la plantación de árboles endémicos, para que sean tomadas en cuenta de manera prioritaria en las áreas que se designen para la plantación de árboles por parte de alumnos que requieran acreditar su servicio social; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], B.O. 16 DE ENERO DE 2023)</small>
+
+XVI.- Las demás que le confieran este y otros ordenamientos jurídicos aplicables en la materia.
 
 ### CAPÍTULO II. DEL PATRIMONIO DE LA CEDES
 
@@ -268,3 +280,23 @@ B.O. 8 DE AGOSTO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE ENERO DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS EL “DECRETO NÚMERO 83, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY PARA LA PROTECCIÓN, CONSERVACIÓN Y FOMENTO DEL ÁRBOL EN LAS ZONAS URBANAS DEL ESTADO DE SONORA, Y DE LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de 60 días a partir de la publicación del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los Municipios, en coordinación con la Secretaría de Educación y Cultura, y la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, cuentan con un plazo de 90 días a partir de la publicación del presente Decreto, para designar, de manera coordinada, las primeras zonas o lugares para la plantación, cuidado, protección y conservación de los árboles que deberán plantar los alumnos prestadores del servicio social.
+
+###### ARTÍCULO CUARTO.
+
+Los alumnos que tengan iniciado el trámite para acreditar su servicio social con anterioridad a la entrada en vigor del presente decreto, no estarán obligados a cumplir con el requisito adicional para la acreditación del servicio social previsto en el artículo 135 Bis de la Ley de Educación del Estado de Sonora.
