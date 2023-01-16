@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2022-11-04"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -41,9 +41,11 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Nuevo León. Tiene por objeto garantizar el ejercicio de los derechos de las Personas Adultas Mayores, así como establecer las bases y disposiciones para su cumplimiento.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Nuevo León. Tiene por objeto garantizar el ejercicio de los derechos de las Personas Adultas Mayores, así como establecer los principios, las bases y disposiciones para su cumplimiento.
 
 ###### Artículo 2º.
 
@@ -165,9 +167,17 @@ II. La participación: Correspondiente a la incorporación de las Personas Adult
 
 III. La equidad: Consistente en hacer justicia a personas mayores que han sufrido marginación y exclusión, reconociendo la plenitud de sus derechos y su aporte a la sociedad, dándoles el apoyo y las oportunidades que les corresponden como personas;
 
-IV. La corresponsabilidad: Considerada como la concurrencia de los sectores público, privado, social y en especial de las familias de las Personas Adultas Mayores por una actitud de responsabilidad compartida para la consecución del objeto de la presente Ley; y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2023)</small>
 
-V. La atención preferente: Entendida como la obligación del gobierno estatal y municipal dentro de sus respectivas atribuciones y competencias a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas Adultas Mayores.
+IV. La corresponsabilidad: Considerada como la concurrencia de los sectores público, privado, social y en especial de las familias de las Personas Adultas Mayores por una actitud de responsabilidad compartida para la consecución del objeto de la presente Ley;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2023)</small>
+
+V. La atención preferente: Entendida como la obligación del gobierno estatal y municipal dentro de sus respectivas atribuciones y competencias a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas Adultas Mayores; y
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2023)</small>
+
+VI. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
 
 ### CAPÍTULO II. DE LOS DERECHOS
 
@@ -223,9 +233,17 @@ III. La salud y la alimentación, que comprenden:
 
 a) Tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y las condiciones humanas o materiales, para su atención integral;
 
-b) Tener acceso preferente a los servicios de salud, en los términos del párrafo cuarto del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual; y
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
-c) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal.
+b. Tener acceso preferente a los servicios de salud, en los términos del párrafo cuarto del artículo 4 de la Constitución Política de los Estados Unidos Mexicanos, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual;
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
+
+c. Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal; y
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2023)</small>
+
+d. A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -289,7 +307,17 @@ Las autoridades competentes realizarán las acciones necesarias para impulsar la
 
 VI. Asistencia social, que incluye:
 
-a) Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
+
+a. Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 2023)</small>
+
+b. A ser sujetos de programas para contar con una vivienda digna y adaptada a sus necesidades;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ENERO DE 2023)</small>
+
+c. Ser sujeto a programas para tener acceso a una casa hogar o albergue, u otras alternativas de atención integral, si se encuentran en situación de riesgo o desamparo.
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -300,6 +328,20 @@ a) A tener una atención preferente en los establecimientos públicos y privados
 b) Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado.
 
 c) A contar con asientos preferentes en los establecimientos que prestan servicios al público, así como en los servicios de transporte público y de pasajeros en el Estado.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 16 DE ENERO DE 2023)</small>
+
+VIII. De la participación que comprende:
+
+a. Participar en la planeación integral del desarrollo social, a través de la formulación y aplicación de las decisiones que afecten directamente a su bienestar, barrio, calle, colonia, o Municipio; y
+
+b. Asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+
+c. A participar en los procesos productivos, de educación y capacitación de su comunidad;
+
+d. A participar en la vida cultural, deportiva y recreativa de su comunidad; y
+
+e. A formar parte de los diversos órganos de representación y consulta ciudadana.
 
 ## TÍTULO TERCERO
 
@@ -1316,3 +1358,9 @@ P.O. 4 DE NOVIEMBRE DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Las erogaciones que por motivo de la entrada en vigor del presente Decreto se generen, se harán con cargo a los recursos presupuestados para el ejercicio fiscal vigente para la Secretaría de Salud y en su caso, con cargo a los recursos excedentes que perciba el Estado en términos de lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
+
+P.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 280. SE REFORMA EL ARTÍCULO 1°, LAS FRACCIONES IV Y V DEL ARTÍCULO 4°, LOS INCISOS B) Y C) DE LA FRACCIÓN III Y LA FRACCIÓN VI TODOS DEL ARTÍCULO 5°; SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 4°, UN INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 5° Y UNA FRACCIÓN VIII AL ARTÍCULO 5° TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO: El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
