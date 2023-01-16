@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-142281"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-03-20"
-last_updated: "2020-03-20"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-03-10"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA ORGANIZACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS ADMINISTRATIVOS EN EL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 20 de marzo de 2020.
 
@@ -104,6 +104,10 @@ XXI. Documentos de apoyo informativo: Instrumentos constituidos por ejemplares d
 XXII. Documento de archivo: Instrumento que registra un hecho, acto administrativo, jurídico, fiscal o contable producido, recibido y utilizado en el ejercicio de las facultades, competencias o funciones de las áreas administrativas, con independencia de su soporte documental;
 
 XXIII. Documento de comprobación administrativa inmediata: Instrumento producido por un área administrativa del Consejo de forma sistemática y que contiene información variable que se maneja por medio de formatos, tales como vales de fotocopias, fichas de control de correspondencia, solicitudes de papelería, entre otros. No son fundamentales para la gestión institucional por lo que la vigencia de estos documentos no excederá un año y no deberán transferirse al archivo de concentración, eliminándolos de conformidad con el procedimiento establecido para ello;
+
+> <small>(ADICIONADA POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXIII. Bis. Escuela Judicial: Escuela Federal de Formación Judicial;
 
 XXIV. Expediente: Es la unidad documental compuesta por documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de las áreas administrativas;
 
@@ -213,7 +217,9 @@ II. Registrar y controlar la correspondencia de entrada y salida, en los sistema
 
 III. Recibir y despachar la correspondencia de salida del área correspondiente;
 
-IV. Asistir a los cursos de capacitación en materia archivística que promueva la Dirección General de Archivo y Documentación, en coordinación con el Instituto de la Judicatura; y
+> <small>(REFORMADA POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+IV. Asistir a los cursos de capacitación en materia archivística que promueva la Dirección General de Archivo y Documentación, en coordinación con la Escuela Judicial; y
 
 V. Las demás que les sean instruidas en el marco de la normativa aplicable.
 
@@ -289,9 +295,11 @@ Los expedientes clasificados como reservados no serán susceptibles de transfere
 
 ### CAPÍTULO CUARTO. DEL ARCHIVO DE TRÁMITE
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 17.
 
-Responsables del archivo de trámite. El titular de cada área administrativa debe designar entre su personal a uno o varios responsables de archivo de trámite, quienes deben contar con las competencias necesarias en materia archivística y aprobar los cursos y capacitación que para tal efecto promueva la Dirección General de Archivo y Documentación, en coordinación con el Instituto de la Judicatura.
+Responsables del archivo de trámite. La persona titular de cada área administrativa debe designar entre su personal a una o uno o varias o varios responsables de archivo de trámite, quienes deben contar con las competencias necesarias en materia archivística y aprobar los cursos y capacitación que para tal efecto promueva la Dirección General de Archivo y Documentación, en coordinación con la Escuela Judicial.
 
 En caso de que un área administrativa cuente con más de un responsable de archivo de trámite, deberá indicarse el nombre del responsable que fungirá como enlace ante la Dirección General de Archivo y Documentación.
 
@@ -431,7 +439,9 @@ IV. Dirección General de Tecnologías de la Información;
 
 V. Unidad de Transparencia;
 
-VI. Contraloría del Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Contraloría del Consejo de la Judicatura Federal; y
 
 VII. Las áreas administrativas productoras de la documentación que se esté analizando.
 
@@ -616,3 +626,13 @@ Tratándose de las series y subseries documentales vigentes antes de la entrada 
 SÉPTIMO. Aquellas áreas administrativas que hayan solicitado el resguardo provisional de su documentación, contarán con un año a partir de la entrada en vigor del presente Acuerdo, para realizar: una transferencia primaria, una transferencia secundaria o, en su caso, una baja documental.
 
 EL LICENCIADO ARTURO GUERRERO ZAZUETA, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece la organización y conservación de los archivos administrativos en el propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de 19 de febrero de 2020, por unanimidad de votos de los señores Consejeros: Presidente Ministro Arturo Zaldívar Lelo de Larrea, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Sergio Javier Molina Martínez y Loretta Ortiz Ahlf.- Ciudad de México, a 10 de marzo de 2020.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
