@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2023-01-13"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -122,6 +122,10 @@ V. Quater. DGETD: Dirección General de Estrategia y Transformación Digital;
 > <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
 V. Quinquies. DGTI: Dirección General de Tecnologías de la Información;
+
+> <small>(ADICIONADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+V. Sexies. Escuela Judicial: Escuela Federal de Formación Judicial;
 
 VI. Exhorto: Comunicación oficial de un órgano jurisdiccional a otro de igual jerarquía;
 
@@ -327,9 +331,11 @@ I. Primer semestre del año: la primera y segunda quincena de julio y la primera
 
 II. Segundo semestre del año: la primera y segunda quincena de diciembre y la primera quincena de enero del siguiente año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 12.
 
-En las poblaciones donde existan dos o más tribunales Colegiados de Circuito mixtos, los magistrados acordarán de manera conjunta, cuál de ellos continuará sus labores en los períodos a que se refiere el artículo 159 de la Ley Orgánica, es decir, durante la segunda quincena de julio y la segunda quincena de diciembre de cada año.
+En las poblaciones donde existan dos o más tribunales Colegiados de Circuito mixtos, las y los magistrados acordarán de manera conjunta, cuál de ellos continuará sus labores en los períodos a que se refiere el artículo 139 de la Ley Orgánica, es decir, durante la segunda quincena de julio y la segunda quincena de diciembre de cada año.
 
 Tratándose de tribunales Colegiados de Circuito especializados se requerirá que, en la misma sede, existan dos o más, para que opere la regla anterior, aunque sólo será necesario que la continuidad en el servicio se preste por un tribunal Colegiado por cada sede, el cual estará dotado de competencia temporal mixta para conocer de los recursos de queja a que se refiere el artículo 97, fracción I, inciso b) de la Ley de Amparo; con excepción de los tribunales Colegiados en materia Administrativa del Primer Circuito, en el que permanecerán dos de esos órganos como mínimo y atenderán, adicionalmente a sus asuntos normales, los referidos medios de impugnación de su especialidad.
 
@@ -1077,11 +1083,11 @@ Los buzones judiciales no operarán durante las vacaciones ni aquellos días en 
 
 La Comisión de Creación de Nuevos Órganos podrá autorizar la modificación de los horarios de funcionamiento de las oficinas de correspondencia común y de sus buzones judiciales atendiendo a las necesidades del servicio.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 52.
 
-Es responsabilidad exclusiva de los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales de Circuito o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
+Es responsabilidad exclusiva de las y los usuarios verificar que los asuntos y promociones que depositen en los buzones judiciales estén debidamente firmados, integrados y dirigidos a los tribunales Colegiados de Circuito, tribunales colegiados de Apelación o juzgados de Distrito a los que presta servicio la oficina de correspondencia común de que se trate.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
 
@@ -1263,19 +1269,19 @@ La remoción de las personas servidoras públicas de las oficinas de corresponde
 
 #### SECCIÓN DÉCIMA SEXTA. CONVOCATORIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 70.
 
-La Dirección General de Gestión Judicial con apoyo de la Escuela Federal de Formación Judicial emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos.
+La Dirección General de Gestión Judicial con apoyo de la Escuela Judicial emitirá anualmente convocatorias públicas dirigidas a profesionales y estudiantes de derecho dentro y fuera del Poder Judicial de la Federación, a fin de promover las posibilidades de participación y empleo que se ofrecen en las citadas oficinas en los diversos circuitos.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Las convocatorias se acompañarán de campañas de difusión nacional y regional en escuelas y universidades que impartan la licenciatura en derecho, asociaciones profesionales de abogados y bolsas de trabajo, entre otras, a fin de generar una eventual reserva de potenciales aspirantes que, cubriendo el perfil y requisitos del puesto, se encuentren en aptitud de incorporarse de inmediato a las unidades administrativas en los lugares en que se requiera.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-La Dirección General de Comunicación Social y Vocería colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como la Escuela Federal de Formación Judicial y sus extensiones apoyarán a la Dirección General de Gestión Judicial en la logística y trámites para su implementación en los diversos circuitos.
+La Dirección General de Comunicación Social y Vocería colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como la Escuela Judicial y sus extensiones apoyarán a la Dirección General de Gestión Judicial en la logística y trámites para su implementación en los diversos circuitos.
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
 
@@ -1717,13 +1723,17 @@ IV. No haber sido condenado por delito doloso con sanción privativa de libertad
 
 V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servicio público.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 96.
 
-El nombramiento inicial de los coordinadores técnicos administrativos será de seis meses, tiempo durante el cual deberán acreditar el curso de inducción que determine el Instituto de la Judicatura.
+El nombramiento inicial de las y los coordinadores técnicos administrativos será de seis meses, tiempo durante el cual deberán acreditar el curso de inducción que determine la Escuela Judicial.
 
-El nombramiento definitivo se expedirá a los coordinadores técnicos administrativos que acrediten el curso a que se refiere el párrafo anterior, para lo cual, el Instituto de la Judicatura comunicará al titular del órgano jurisdiccional respectivo, los resultados correspondientes.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+El nombramiento definitivo se expedirá a las y los coordinadores técnicos administrativos que acrediten el curso a que se refiere el párrafo anterior, para lo cual, la Escuela Judicial comunicará a la persona titular del órgano jurisdiccional respectivo, los resultados correspondientes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 24 DE ABRIL DE 2015)</small>
 
 En caso de que los coordinadores técnicos administrativos no acrediten el curso, concluirán su encargo al término de su nombramiento inicial.
 
@@ -2561,7 +2571,7 @@ Este libro se llevará conforme a la tabla número catorce del anexo de este Acu
 
 > <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 26 DE OCTUBRE DE 2022)</small>
 
-### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS Y SUS CARACTERÍSTICAS
+### CAPÍTULO CUARTO. LIBROS PARA LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y SUS CARACTERÍSTICAS
 
 ###### Artículo 134.
 
@@ -2903,6 +2913,8 @@ En el libro de firmas de procesados en libertad provisional bajo caución conced
 
 Este libro se llevará conforme a la tabla número doce del anexo de este Acuerdo.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ### CAPÍTULO QUINTO. LIBROS PARA CENTROS DE JUSTICIA PENAL FEDERAL
 
 > <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ABROGA LOS ACUERDOS DE CONTINGENCIA POR COVID-19 Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS A LA UTILIZACIÓN DE MEDIOS ELECTRÓNICOS Y SOLUCIONES DIGITALES COMO EJES RECTORES DEL NUEVO ESQUEMA DE TRABAJO EN LAS ÁREAS ADMINISTRATIVAS Y ÓRGANOS JURISDICCIONALES DEL PROPIO CONSEJO, D.O.F. 28 DE OCTUBRE DE 2022)</small>
@@ -3137,9 +3149,11 @@ Este libro se llevará conforme a la tabla número veintiséis del anexo de este
 
 #### SECCIÓN SÉPTIMA. LIBRO SIETE DE EXCUSAS Y RECUSACIONES
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 161.
 
-En el libro de excusas y recusaciones se registrarán todos los impedimentos y excusas que en materia de amparo, propongan los Jueces de Distrito y, en cualquier materia, tratándose de los tribunales de Circuito, incluyendo la hipótesis en que el propio tribunal Colegiado deba conocer de estos trámites respecto de uno de sus miembros conforme al artículo 37, fracción VII, de la Ley Orgánica.
+En el libro de excusas y recusaciones se registrarán todos los impedimentos y excusas que en materia de amparo, propongan las y los Jueces de Distrito y, en cualquier materia, tratándose de los tribunales Colegiados de Circuito, tribunales Colegiados de Apelación, incluyendo la hipótesis en que el propio tribunal Colegiado de Circuito deba conocer de estos trámites respecto de uno de sus miembros conforme al artículo 38, fracción VII, de la Ley Orgánica.
 
 ###### Artículo 162.
 
@@ -5433,11 +5447,11 @@ Es obligatorio el uso del módulo Sentencias contenido en los sistemas de gesti�
 
 Los presidentes y titulares de los órganos jurisdiccionales, deberán emplear el referido módulo, para la captura de las resoluciones definitivas que pongan fin al juicio o procedimiento judicial que ante ellos se tramite.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES DE GESTIÓN JUDICIAL Y DE ESTADÍSTICA JUDICIAL; EL SISTEMA DE RECEPCIÓN, REGISTRO Y TURNO DE ASUNTOS; Y LAS CONSULTAS DE TURNO, D.O.F. 14 DE MARZO DE 2022)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 193.
 
-Los órganos jurisdiccionales, tendrán acceso a las sentencias dictadas por los tribunales de Circuito y juzgados de Distrito, capturadas en los sistemas de gestión judicial.
+Los órganos jurisdiccionales, tendrán acceso a las sentencias dictadas por los tribunales Colegiados de Circuito, tribunales Colegiados de Apelación y juzgados de Distrito, capturadas en los sistemas de gestión judicial.
 
 ###### Artículo 194.
 
@@ -5507,11 +5521,11 @@ f) Observaciones: podrán anotarse todas aquellas circunstancias o incidencias r
 
 El secretario que designe el titular del órgano jurisdiccional de que se trate, ingresará los datos respectivos y certificará con su nombre de usuario y contraseña, que la información que se incorpora al SISE CB corresponde a la persona inscrita en éste.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 201.
 
-Los titulares de los tribunales de Circuito y juzgados de Distrito competentes, así como de los Centros de Justicia Penal Federal, designarán al servidor público de su adscripción encargado de operar el SISE CB para los subsecuentes registros de asistencia de las personas inscritas en éste.
+Las personas titulares de los tribunales Colegiados de Circuito, tribunales Colegiados de Apelación y juzgados de Distrito competentes, así como de los Centros de Justicia Penal Federal, designarán a la persona servidora pública de su adscripción encargada de operar el SISE CB para los subsecuentes registros de asistencia de las personas inscritas en éste.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -6746,3 +6760,11 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información; y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del Pleno Regional o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Plenos Regionales. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
