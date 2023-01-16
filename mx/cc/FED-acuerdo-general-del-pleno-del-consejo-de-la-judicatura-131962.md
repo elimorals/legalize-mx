@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2022-01-25"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -73,11 +73,13 @@ ACUERDO
 
 ### CAPÍTULO PRIMERO. OBJETO Y DEFINICIONES
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios que rigen el servicio público; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral, así como las que correspondan a los particulares vinculados con faltas administrativas graves, observándose en todo momento los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, publicidad, verdad material y respeto a los derechos humanos; y, para regular el registro y seguimiento de la evolución de su situación patrimonial y las declaraciones de situación patrimonial y de intereses, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas.
+El presente Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios que rigen el servicio público; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de las personas servidoras públicas del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral, así como las que correspondan a los particulares vinculados con faltas administrativas graves, observándose en todo momento los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, publicidad, verdad material y respeto a los derechos humanos; y, para regular el registro y seguimiento de la evolución de su situación patrimonial y las declaraciones de situación patrimonial y de intereses, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Séptimo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 Asimismo, establece las disposiciones conforme a las cuales los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo con niveles del 2 al 10 del Manual General de Puestos del Consejo de la Judicatura Federal, con excepción de las plazas de carrera judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan, de todos los bienes e información a su cargo.
 
@@ -87,7 +89,9 @@ Para los efectos de este Acuerdo se entenderá por:
 
 I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas;
 
-II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por la Contraloría del Poder Judicial de la Federación o por la Secretaría Ejecutiva de Disciplina, en el ámbito de sus respectivas competencias. Se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. Acuse de Recibo Electrónico: Constancia que acredita que un documento digital fue recibido por la Contraloría del Consejo de la Judicatura Federal o por la Secretaría Ejecutiva de Disciplina, en el ámbito de sus respectivas competencias. Se presumirá, salvo prueba en contrario, que el documento digital fue recibido en la fecha y hora que se consignen en dicha constancia;
 
 III. Archivo Electrónico: Información contenida en texto, imagen, audio o video generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología que forma parte del expediente electrónico;
 
@@ -95,9 +99,13 @@ IV. Áreas administrativas: Las unidades administrativas y los órganos auxiliar
 
 V. Autoridad investigadora: La Unidad General de Investigación de Responsabilidades Administrativas y la Secretaría Ejecutiva de Disciplina, en el ámbito de sus respectivas competencias.
 
-VI. Autoridad resolutora: El Pleno del Consejo de la Judicatura Federal; la Comisión de Disciplina; y la Contraloría del Poder Judicial de la Federación, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VII. Autoridad substanciadora: La Secretaría Ejecutiva de Disciplina, y la Contraloría del Poder Judicial de la Federación, ésta última por conducto de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, en el ámbito de sus respectivas competencias.
+VI. Autoridad resolutora: El Pleno del Consejo de la Judicatura Federal; la Comisión de Disciplina; y la Contraloría del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VII. Autoridad substanciadora: La Secretaría Ejecutiva de Disciplina, y la Contraloría del Consejo de la Judicatura Federal, ésta última por conducto de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, en el ámbito de sus respectivas competencias;
 
 VIII. Clave de acceso: Conjunto único de caracteres alfanuméricos asignados por el Sistema de Justicia en Línea al denunciante y denunciados, como medio de identificación para utilizar el Sistema, y asignarles los roles de consulta del expediente respectivo o envío electrónico de promociones relativas a las actuaciones dentro del procedimiento de responsabilidad administrativa;
 
@@ -109,7 +117,9 @@ XI. Consejo: Consejo de la Judicatura Federal;
 
 XII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
-XIII. Contraloría: Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIII. Contraloría: Contraloría del Consejo de la Judicatura Federal;
 
 XIV. Contraseña: Conjunto único de caracteres alfanuméricos, asignados de manera confidencial por el Sistema de Justicia en Línea a los usuarios, la cual permite validar la identificación de la persona a la que se le asignó una clave de acceso;
 
@@ -143,15 +153,17 @@ XXVII. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
 
 XXVIII. Nexo de atribuibilidad. Elemento que permite establecer a una persona como autor o causante de los hechos, sin que esto suponga el acreditamiento de responsabilidad administrativa;
 
-XXIX. Órganos auxiliares: Los señalados en el artículo 88 de la Ley Orgánica;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXIX. Órganos auxiliares: Los señalados en el artículo 93 de la Ley Orgánica;
 
 XXX. Órgano auxiliar instructor: Órgano jurisdiccional que actúa en auxilio del Consejo como instancia instructora en la investigación o, en su caso, substanciación del procedimiento de responsabilidad administrativa;
 
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 XXXI. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
-
-Las referencias que se hagan en este Acuerdo a los juzgados de Distrito o a sus titulares también se entenderán hechas a los jueces de Control, de Ejecución, tribunales de enjuiciamiento así como a los Tribunales Laborales Federales; y a sus titulares se entenderán hechas a los jueces tanto por lo que hace a los tribunales individuales como colectivos; y aquellas que se hagan a los tribunales Unitarios de Circuito o sus titulares, a los tribunales de Alzada;
+Las referencias que se hagan en este Acuerdo a los juzgados de Distrito o a sus titulares también se entenderán hechas a los jueces de Control, de Ejecución, tribunales de enjuiciamiento así como a los Tribunales Laborales Federales; y a sus titulares se entenderán hechas a los jueces tanto por lo que hace a los tribunales individuales como colectivos; y aquellas que se hagan a los tribunales Colegiados de Apelación o sus titulares, a los tribunales de Alzada;
 
 XXXII. Pleno: Pleno del Consejo;
 
@@ -215,11 +227,11 @@ La Unidad de Prevención y Combate al Acoso Sexual, podrá sugerir a los titular
 
 ### CAPÍTULO TERCERO. BUZÓN ELECTRÓNICO PARA QUEJAS Y DENUNCIAS
 
-> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE IMPLEMENTA EL PLAN INTEGRAL DE COMBATE AL NEPOTISMO; Y FORTALECE EL FUNCIONAMIENTO DEL INSTITUTO DE LA JUDICATURA COMO ESCUELA JUDICIAL, D.O.F. 27 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 6 Bis.
 
-La Secretaría y la Contraloría del Poder Judicial de la Federación, en el ámbito de sus atribuciones, tendrán a su cargo el buzón electrónico de quejas y denuncias del Consejo de la Judicatura Federal, el cual permitirá denunciar conductas potencialmente constitutivas de casos de corrupción, abuso y otras formas de violencia sexual y sexista, así como casos de nepotismo. El buzón, cuando así se solicite y siempre que en derecho proceda, salvaguardará la identidad de la persona denunciante, además de que podrá actuarse de forma anónima, quien podrá solicitar en ese acto la intervención de la Unidad de Prevención y Combate al Acoso Sexual, cuando los hechos denunciados estén relacionados con el ámbito de competencia de ésta.
+La Secretaría y la Contraloría del Consejo de la Judicatura Federal, en el ámbito de sus atribuciones, tendrán a su cargo el buzón electrónico de quejas y denuncias del Consejo de la Judicatura Federal, el cual permitirá denunciar conductas potencialmente constitutivas de casos de corrupción, abuso y otras formas de violencia sexual y sexista, así como casos de nepotismo. El buzón, cuando así se solicite y siempre que en derecho proceda, salvaguardará la identidad de la persona denunciante, además de que podrá actuarse de forma anónima, quien podrá solicitar en ese acto la intervención de la Unidad de Prevención y Combate al Acoso Sexual, cuando los hechos denunciados estén relacionados con el ámbito de competencia de ésta.
 
 ## TÍTULO SEGUNDO. DE LA RESPONSABILIDAD ADMINISTRATIVA, LA DECLARACIÓN PATRIMONIAL Y DE INTERESES, Y LA ENTREGA-RECEPCIÓN
 
@@ -227,9 +239,11 @@ La Secretaría y la Contraloría del Poder Judicial de la Federación, en el ám
 
 #### SECCIÓN PRIMERA. CAUSAS DE RESPONSABILIDAD ADMINISTRATIVA
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 7.
 
-Son causa de responsabilidad para los servidores públicos del Poder Judicial de la Federación, las infracciones establecidas en el artículo 101 de la Constitución y las previstas en el artículo 131 de la Ley Orgánica.
+Son causa de responsabilidad para los servidores públicos del Poder Judicial de la Federación, las infracciones establecidas en el artículo 101 de la Constitución y las previstas en el artículo 110 de la Ley Orgánica.
 
 ###### Artículo 8.
 
@@ -991,9 +1005,11 @@ En cualquier etapa de la investigación o procedimiento de responsabilidad admin
 
 En los casos en los que se denuncien conductas de naturaleza sexual o relacionadas con violencia de género, se estudiará desde el inicio y de manera oficiosa la viabilidad de dictar medidas cautelares para proteger la seguridad e integridad de la víctima y los testigos, así como de sus derechos. En dichos casos, la Unidad de Prevención y Combate al Acoso Sexual podrá sugerir al Pleno o a la Comisión, según corresponda, la adopción de medidas orientadas a conminar al probable agresor a abstenerse de hostigar, intimidar, amenazar, dañar o poner en peligro la vida o los derechos de la víctima o de los testigos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 99.
 
-El Pleno, en cualquier etapa de la investigación o del procedimiento de responsabilidad administrativa, a solicitud de la autoridad investigadora o substanciadora, según corresponda, o en los supuestos establecidos en el artículo 81, fracciones X y XI de la Ley Orgánica, podrá determinar fundada y motivadamente, como medida cautelar, la suspensión temporal de magistrados de Circuito, jueces de Distrito y titulares de secretarías ejecutivas y de los órganos auxiliares del Consejo, hasta por seis meses, plazo que podrá prorrogarse previa justificación, en cuyo caso estarán imposibilitados para ocupar cualquier cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelve lo conducente.
+El Pleno, en cualquier etapa de la investigación o del procedimiento de responsabilidad administrativa, a solicitud de la autoridad investigadora o substanciadora, según corresponda, o en los supuestos establecidos en el artículo 86, fracción IX de la Ley Orgánica, podrá determinar fundada y motivadamente, como medida cautelar, la suspensión temporal de magistradas o magistrados de Circuito, juezas o jueces de Distrito y las personas titulares de secretarías ejecutivas y de los órganos auxiliares del Consejo, hasta por seis meses, plazo que podrá prorrogarse previa justificación, en cuyo caso estarán imposibilitados para ocupar cualquier cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelve lo conducente.
 
 La Comisión, en cualquier etapa de la investigación o del procedimiento de responsabilidad administrativa, a solicitud de la autoridad investigadora o substanciadora, según corresponda, podrá determinar fundada y motivadamente, como medida cautelar, la suspensión temporal en su cargo de los servidores públicos no comprendidos en el párrafo anterior, hasta por seis meses, plazo que podrá prorrogarse previa justificación, en cuyo caso estarán imposibilitados para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelve lo conducente.
 
@@ -1069,9 +1085,11 @@ VIII. Los magistrados de Circuito y jueces de Distrito para auxiliar en el trám
 
 Cuando de un mismo acto se derivan causas de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, el trámite del procedimiento de responsabilidad administrativa respecto de todos los involucrados corresponde a la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 110.
 
-Conforme a los artículos 109, fracción III, párrafo tercero de la Constitución, 131, fracción XI, de la Ley Orgánica, 57 de la Ley de Responsabilidades y este Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa, cuando al emitir una resolución en materia de conflictos laborales, en términos del artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o área administrativa:
+Conforme a los artículos 109, fracción III, párrafo tercero de la Constitución, 110, fracción XVI de la Ley Orgánica, 57 de la Ley de Responsabilidades y este Acuerdo, el Pleno podrá ordenar el inicio del procedimiento de responsabilidad administrativa, cuando al emitir una resolución en materia de conflictos laborales, en términos del artículo 81, fracción XXV, de la Ley Orgánica, advierta que el titular de un órgano jurisdiccional o área administrativa:
 
 I. Cesó o despidió a un servidor público en notoria contravención a las disposiciones aplicables, con mala fe o evidente descuido;
 
@@ -2103,9 +2121,11 @@ La materia de las visitas extraordinarias se limitará a los aspectos previstos 
 
 En caso de que, durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador Judicial "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría, o a la persona Titular de la Contraloría, según corresponda. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 229.
 
-El Visitador General y los visitadores están impedidos para practicar visitas de inspección o revisar resoluciones o proyectos, en los términos de la fracción II del artículo 128 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, cuando se encuentren en cualquiera de los supuestos previstos en las fracciones I, II, IX, XIII, XIV y XV del artículo 146, en relación con el 148 de la Ley Orgánica o en las leyes aplicables.
+La o el Visitador General y las y los visitadores están impedidos para practicar visitas de inspección o revisar resoluciones o proyectos, en los términos de la fracción II del artículo 128 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, cuando se encuentren en cualquiera de los supuestos previstos en las fracciones I, II, IX, XIII, XIV y XV del artículo 126, en relación con el 128 de la Ley Orgánica o en las leyes aplicables.
 
 ###### Artículo 230.
 
@@ -2133,9 +2153,9 @@ Las visitas ordinarias de inspección se llevarán a cabo cuando menos una vez p
 
 La visita ordinaria constará de dos etapas:
 
-> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-I. Informe circunstanciado que deberá rendir el titular del órgano jurisdiccional, el presidente en caso de los tribunales Colegiados de Circuito o Plenos de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho sobre aspectos relativos al funcionamiento del órgano jurisdiccional; y
+I. Informe circunstanciado que deberá rendir la persona titular del órgano jurisdiccional, la o el presidente en caso de los tribunales Colegiados de Circuito, tribunales Colegiados de Apelación o Plenos Regionales, la o el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o la o el encargado del despacho sobre aspectos relativos al funcionamiento del órgano jurisdiccional; y
 
 II. Visita física en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal.
 
@@ -2143,9 +2163,9 @@ Lo anterior, con excepción de los órganos jurisdiccionales de nueva creación,
 
 Los órganos jurisdiccionales que concluyan funciones antes de la fecha programada para su inspección ordinaria deberán rendir un informe de conclusión, que abarque el periodo no inspeccionado. Dicho informe contendrá aspectos similares a los del informe circunstanciado y deberá rendirse el último día en que el órgano jurisdiccional concluya funciones, con las formalidades señaladas en el artículo 236 de este Acuerdo.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-Tratándose de los Plenos de Circuito, la segunda etapa se llevará a cabo, a través de visita a distancia.
+Tratándose de los Plenos Regionales, la segunda etapa se llevará a cabo, a través de visita a distancia.
 
 > <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
@@ -2159,27 +2179,21 @@ La Comisión de Vigilancia acordará la aprobación de los formatos para la prá
 
 El Visitador General, de conformidad con el programa que elabore para la práctica de las visitas físicas y a distancia, fijará el periodo respecto del cual deberán rendirse los informes circunstanciados, procurando que dicho periodo no sea menor de cinco meses ni mayor de seis, contado a partir del día siguiente a la conclusión del periodo que comprendió la visita previa practicada al órgano jurisdiccional.
 
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 236.
 
 Para la rendición del informe circunstanciado se observará lo siguiente:
 
-> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+I. El Visitador General solicitará mediante oficio al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado de Circuito o Pleno Regional, al Juez de Despacho del Centro de Justicia Penal Federal, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o al encargado del despacho, la rendición del informe circunstanciado, en el que señalará con precisión el periodo que comprende la inspección, el plazo y horario para presentar el informe;
 
-I. El Visitador General solicitará mediante oficio al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, al Juez de Despacho del Centro de Justicia Penal Federal, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o al encargado del despacho, la rendición del informe circunstanciado, en el que señalará con precisión el periodo que comprende la inspección, el plazo y horario para presentar el informe;
-
-> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
-
-II. El titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, deberán rendir el informe circunstanciado dentro de los quince días naturales siguientes a la conclusión del periodo a inspeccionar. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
+II. El titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno Regional, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, deberán rendir el informe circunstanciado dentro de los quince días naturales siguientes a la conclusión del periodo a inspeccionar. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
 
 El Visitador General podrá modificar el plazo previsto en el párrafo anterior cuando exista causa justificada para ello;
 
-> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+III. El informe circunstanciado deberá rendirse conforme a los formatos acordados por la Comisión de Vigilancia. Dicho informe y las relaciones que lo integran deberán remitirse electrónicamente a través del Sistema Integral para la práctica y procesamiento de visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno Regional, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe; y
 
-III. El informe circunstanciado deberá rendirse conforme a los formatos acordados por la Comisión de Vigilancia. Dicho informe y las relaciones que lo integran deberán remitirse electrónicamente a través del Sistema Integral para la práctica y procesamiento de visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe; y
-
-> <small>(REFORMADA POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
-
-IV. Del informe y de las constancias que lo integran se imprimirá un tanto con sus respectivas relaciones, el que permanecerá en el órgano jurisdiccional para su posible consulta, y otro sin relaciones que se remitirá, ya sea por mensajería o bien se entregará de manera personal, a la Visitaduría Judicial para los efectos legales conducentes. Los documentos impresos serán firmados por el titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe.
+IV. Del informe y de las constancias que lo integran se imprimirá un tanto con sus respectivas relaciones, el que permanecerá en el órgano jurisdiccional para su posible consulta, y otro sin relaciones que se remitirá, ya sea por mensajería o bien se entregará de manera personal, a la Visitaduría Judicial para los efectos legales conducentes. Los documentos impresos serán firmados por el titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno Regional, el Juez de Despacho del Centro de Justicia Penal Federal, la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
@@ -2187,7 +2201,9 @@ IV. Del informe y de las constancias que lo integran se imprimirá un tanto con 
 
 Las visitas físicas o a distancia, durarán hasta:
 
-I. Dos días para Plenos de Circuito;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+I. Dos días para Plenos Regionales;
 
 II. Dos días para tribunales de Circuito, con excepción de:
 
@@ -2227,23 +2243,27 @@ Para los efectos del párrafo anterior, se entenderán como días hábiles todos
 
 El titular del órgano jurisdiccional, a propuesta del Visitador Judicial "B", designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano, y en el caso de los Centros de Justicia Penal Federal y los Tribunales Laborales Federales, la designación le corresponderá al Administrador y, en el segundo supuesto, a la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 239.
 
-El Visitador General elaborará un programa y calendario de las visitas físicas y a distancia en el que proveerá lo necesario para que se lleven a cabo en el transcurso del año. El programa se presentará al titular de la Secretaría Ejecutiva de Vigilancia, a efecto de que realice el sorteo que señala el artículo 100 de la Ley Orgánica.
+La o el Visitador General elaborará un programa y calendario de las visitas físicas y a distancia en el que proveerá lo necesario para que se lleven a cabo en el transcurso del año. El programa se presentará a la persona titular de la Secretaría Ejecutiva de Vigilancia, a efecto de que realice el sorteo que señala el artículo 96 de la Ley Orgánica.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
 Una vez notificadas a la Comisión de Vigilancia, las fechas en que se realizarán las visitas ordinarias de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la citada Comisión.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 240.
 
-Para efectos del artículo 100 de la Ley Orgánica, el titular de la Secretaría Ejecutiva de Vigilancia sorteará entre los Visitadores Judiciales "B" la práctica de visitas ordinarias de inspección a los órganos jurisdiccionales, Centros de Justicia Penal Federal y Tribunales Laborales Federales, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional, Centro de Justicia Penal Federal o Tribunal Laboral Federal el año siguiente.
+Para efectos del artículo 96 de la Ley Orgánica, la persona titular de la Secretaría Ejecutiva de Vigilancia sorteará entre las y los Visitadores Judiciales "B" la práctica de visitas ordinarias de inspección a los órganos jurisdiccionales, Centros de Justicia Penal Federal y Tribunales Laborales Federales, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, la persona titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional, Centro de Justicia Penal Federal o Tribunal Laboral Federal el año siguiente.
+
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 241.
 
-Una vez que se conozca el resultado del sorteo a que se refiere el artículo anterior, el Visitador General lo hará saber a los Visitadores Judiciales "B", mediante oficio, para que éstos, previo el aviso a que se refiere el párrafo tercero del artículo 100 de la Ley Orgánica, procedan a practicar las visitas que les correspondieron, conforme al programa y calendario elaborados por el Visitador General.
+Una vez que se conozca el resultado del sorteo a que se refiere el artículo anterior, la o el Visitador General lo hará saber a los Visitadores Judiciales "B", mediante oficio, para que éstos, previo el aviso a que se refiere el párrafo tercero del artículo 96 de la Ley Orgánica, procedan a practicar las visitas que les correspondieron, conforme al programa y calendario elaborados por el Visitador General.
 
 ###### Artículo 242.
 
@@ -2263,17 +2283,17 @@ En el Centro Nacional de Justicia Especializado en Control de Técnicas de Inves
 
 El aviso también se fijará en el edificio donde se localizan los juzgados a que se refiere el párrafo anterior, para el conocimiento de los interesados en presentar quejas por escrito.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 245.
 
-El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional, del presidente del tribunal Colegiado de Circuito o Pleno de Circuito, del Juez de Despacho del Centro de Justicia Penal Federal y en su caso de la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales visitados, no será causa de diferimiento de la visita.
+La o el Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional, del presidente del tribunal Colegiado de Circuito, tribunal Colegiado de Apelación o Pleno Regional, del Juez de Despacho del Centro de Justicia Penal Federal y en su caso de la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales visitados, no será causa de diferimiento de la visita.
 
-> <small>(REFORMADO POR EL PUNTO DÉCIMO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 246.
 
-Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal; su presidente tratándose de tribunal Colegiado o Pleno de Circuito, o por quien, en su caso, se encuentre encargado del despacho, así como por el Juez de Despacho del Centro de Justicia Penal Federal o la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, respecto de la administración de los mismos, sin perjuicio del auxilio que preste a los juzgadores de éste.
+Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, incluyendo los adscritos a los Centros de Justicia Penal Federal; su presidente tratándose de tribunal Colegiado de Circuito, tribunal Colegiado de Apelación o Pleno Regional, o por quien, en su caso, se encuentre encargado del despacho, así como por el Juez de Despacho del Centro de Justicia Penal Federal o la o el Juez de Distrito designado por sus pares en los Tribunales Laborales Federales, respecto de la administración de los mismos, sin perjuicio del auxilio que preste a los juzgadores de éste.
 
 ###### Artículo 247.
 
@@ -2339,25 +2359,39 @@ El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará
 
 El acta se remitirá electrónicamente con Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) a la Visitaduría Judicial y a la Secretaría Ejecutiva de Vigilancia, para los efectos conducentes.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 255 Bis.
 
-En la práctica de las visitas a distancia a Plenos de Circuito, se procederá conforme a lo siguiente:
+En la práctica de las visitas a distancia a Plenos Regionales, se procederá conforme a lo siguiente:
 
-I. El Visitador General enviará con oportunidad al presidente del Pleno de Circuito, el oficio en el que informará la práctica de la visita a distancia. El aviso deberá señalar con precisión, el periodo que comprende la inspección, la fecha en que ésta iniciará, su duración, el nombre del Visitador Judicial "B" que la practicará, así como la forma y medios de la presentación del informe inicial que deberá rendir previo a la visita a distancia;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. El presidente del Pleno de Circuito deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del periodo a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello.
+I. La o el Visitador General enviará con oportunidad al presidente del Pleno Regional, el oficio en el que informará la práctica de la visita a distancia. El aviso deberá señalar con precisión, el periodo que comprende la inspección, la fecha en que ésta iniciará, su duración, el nombre del Visitador Judicial "B" que la practicará, así como la forma y medios de la presentación del informe inicial que deberá rendir previo a la visita a distancia;
 
-El informe inicial será rendido con precisión, bajo protesta de decir verdad, y se remitirá electrónicamente, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del presidente del Pleno de Circuito y del secretario encargado de la visita. La información que se presente, se sujetará estrictamente a los formatos acordados por la Comisión de Vigilancia;
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-III. La visita a distancia dará inicio en la fecha precisada en el oficio respectivo, y el Visitador Judicial "B" procederá a la verificación y complementación de la información proporcionada por el presidente del Pleno de Circuito;
+II. El presidente del Pleno Regional deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del periodo a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello.
 
-IV. Concluido lo anterior, el Visitador Judicial "B" levantará un acta circunstanciada de acuerdo al formato aprobado por la Comisión de Vigilancia y la dará a conocer al presidente del Pleno de Circuito para que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. En el acta se asentará la hora y fecha tanto del momento en que se da a conocer su contenido, como el del envío de las manifestaciones relativas; y
+El informe inicial será rendido con precisión, bajo protesta de decir verdad, y se remitirá electrónicamente, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del presidente del Pleno Regional y del secretario encargado de la visita. La información que se presente, se sujetará estrictamente a los formatos acordados por la Comisión de Vigilancia;
+
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+III. La visita a distancia dará inicio en la fecha precisada en el oficio respectivo, y la o el Visitador Judicial "B" procederá a la verificación y complementación de la información proporcionada por la o el presidente del Pleno Regional;
+
+> <small>(REFORMADA POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+IV. Concluido lo anterior, el Visitador Judicial "B" levantará un acta circunstanciada de acuerdo al formato aprobado por la Comisión de Vigilancia y la dará a conocer al presidente del Pleno Regional para que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. En el acta se asentará la hora y fecha tanto del momento en que se da a conocer su contenido, como el del envío de las manifestaciones relativas; y
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
 V. Una vez recibidas las manifestaciones o vencido el término para tal efecto, se procederá de inmediato a la firma y cierre del acta, asentándose la fecha y hora en que ello ocurra.
 
-El archivo que contenga el acta, se firmará electrónicamente con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del Visitador Judicial "B", del presidente del Pleno de Circuito y del secretario encargado de atender la visita. Finalmente, se remitirá a la Visitaduría Judicial y a la Secretaría Ejecutiva de Vigilancia, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, para los efectos conducentes; una copia impresa del acta se quedará en el Pleno de Circuito.
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+El archivo que contenga el acta, se firmará electrónicamente con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) de la o el Visitador Judicial "B", de la o el presidente del Pleno Regional y de la secretaria o el secretario encargado de atender la visita. Finalmente, se remitirá a la Visitaduría Judicial y a la Secretaría Ejecutiva de Vigilancia, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, para los efectos conducentes; una copia impresa del acta se quedará en el Pleno Regional.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
 Las cuestiones relativas a las visitas a distancia, que no se encuentren reguladas en este Acuerdo, serán resueltas, razonadamente, por el Visitador General, de oficio o a petición de parte.
 
@@ -3240,3 +3274,11 @@ SEXTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas a
 SÉPTIMO. Los derechos laborales de las personas servidoras públicas de base, comisionadas o adscritas actualmente a las Unidades de Notificadores Comunes, serán respetados. La implementación administrativa de este Acuerdo no implicará, en ninguna circunstancia, la afectación a estos derechos.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
