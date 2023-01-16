@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2022-10-14"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -35,7 +35,7 @@ La Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se expide la Ley de Educación del Estado de San Luis Potosí, para quedar como sigue:
 
@@ -437,43 +437,47 @@ El fomento de la investigación, la ciencia, las humanidades, la tecnología y l
 
 El desarrollo tecnológico y la innovación, asociados a la actualización, a la excelencia educativa y a la expansión de las fronteras del conocimiento se apoyará en las nuevas tecnologías de la información, comunicación, conocimiento y aprendizaje digital, mediante el uso de plataformas de acceso abierto.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 16 DE ENERO DE 2023)</small>
+
 ### Capítulo VI. Educación Indígena
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 38.
 
-En el Estado de San Luis Potosí se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, así como migrantes y jornaleros agrícolas. Las acciones educativas para estos pueblos y comunidades, por parte del Gobierno del Estado y los Municipios, se encaminarán a garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior, y contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de sus tradiciones oral y escrita, como de sus lenguas, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+En el Estado de San Luis Potosí se garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas y todos los integrantes de pueblos y comunidades indígenas o afromexicanas, así como migrantes y jornaleros conforme a lo establecido en los tratados internacionales sobre la materia, la Constitución Política de los Estados Unidos Mexicanos y la presente ley. Las acciones educativas para estos pueblos y comunidades, por parte del Gobierno del Estado y los Municipios, se encaminarán a garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior, y contribuirán al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de sus tradiciones oral y escrita, como de sus lenguas, como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-La educación que se imparta en poblaciones en donde se encuentren asentadas comunidades indígenas de las diferentes etnias de la entidad, deberá ser plurilingüe e intercultural y atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas de la Entidad.
+La educación que se imparta en poblaciones en donde se encuentren asentadas comunidades indígenas de las diferentes etnias de la entidad, así como granjas agrícolas deberá ser plurilingüe e intercultural y atenderá las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y las culturas de la Entidad.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 39.
 
 Las autoridades educativas estatal y municipal, en el ámbito de sus competencias, consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2° de la Constitución Política de los Estados Unidos Mexicanos.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 40.
 
-En materia de educación indígena, las autoridades educativas estatal y municipal podrán realizar, entre otras acciones, las siguientes:
+En materia de educación indígena, las autoridades educativas estatal y municipal deberán realizar, entre otras acciones, las siguientes:
 
-I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+I. Fortalecer el área especializada de educación indígena, las escuelas, los centros educativos integrales y albergues escolares indígenas, brigadas de desarrollo educativo indígena en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
 
 II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
 
 III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, en las diversas lenguas de la entidad federativa;
 
-IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
+IV. Fortalecer las instituciones públicas de formación docente en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de posgrado, formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
 
 V. Tomar en consideración, en las opiniones que emitan para la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
 
-VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe, y
+VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe;
 
-VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que exista un programa de becas para los estudiantes indígenas en todos los niveles, así como programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+VII. Establecer mecanismos de coordinación entre las diferentes instancias de gobierno para fortalecer los programas de becas educativas y alimentarias para las y los estudiantes en todos los niveles, así como programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas, y
 
-En términos de lo previsto por el penúltimo párrafo del inciso B del Artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, corresponde al H. Congreso del Estado de San Luis Potosí, y a los ayuntamientos, en el ámbito de sus respectivas competencias, establecer las partidas específicas destinadas al cumplimiento de estas disposiciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+VIII. Establecer dentro de su organigrama la dirección de educación indígena bilingüe e intercultural, con sus departamentos Educativos de: Inicial, Preescolar, Primaria y Extensión Educativa (Radio Bilingüe, CISDEPI, Procuraduría de Asuntos Indígenas, albergues, brigadas de Desarrollo Educativo Indígena e Instituto Estatal de las lenguas Indígenas e Investigaciones Pedagógicas) Además del área administrativa de Trámite y Control.
+
+En términos de lo previsto por el penúltimo párrafo del inciso B del Artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, corresponde al H. Congreso del Estado de San Luis Potosí, y a los ayuntamientos, en el ámbito de sus respectivas competencias, establecer las partidas específicas destinadas al cumplimiento de estas disposiciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos administrativos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
 ### Capítulo VII. Educación Humanista
 
@@ -491,9 +495,15 @@ El Gobierno del Estado y los Municipios generarán mecanismos para apoyar y prom
 
 Así mismo, se fomentará entre las instituciones educativas la apreciación y la práctica de expresiones culturales y artísticas en las regiones del Estado, tales como la danza, la música y las artesanías, entre otras.
 
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DEL CAPÍTULO VIII, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 16 DE ENERO DE 2023)</small>
+
 ### Capítulo VIII. Educación Inclusiva
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 43.
 
@@ -501,7 +511,9 @@ La educación inclusiva se refiere al conjunto de acciones orientadas a identifi
 
 La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 44.
 
@@ -513,39 +525,41 @@ II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los
 
 III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, o identidad de género, así como por sus características, necesidades, intereses, habilidades, estilos de aprendizaje, o si tienen alguna discapacidad entre otras;
 
-V. Realizar los ajustes razonables para las personas y en su caso con discapacidades físicas; como adaptación de mobiliario, rampas y para debilidad visual timbres, alarmas, altura de escalones, pasamanos o barandales, de acuerdo a la Ley de la materia, y
+V. Realizar los ajustes razonables para las personas con discapacidad; tales como adaptación de mobiliario, rampas, pisos podotáctiles, timbres, alarmas, altura de escalones, pasamanos o barandales, de acuerdo a la Ley de la materia, e impulsar ante las instancias correspondientes los ajustes razonables del transporte escolar o público para personas con discapacidad.
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en el ámbito educativo y social.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 45.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales, o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta Ley, se garantizará el derecho a la educación a los niños, niñas y jóvenes con discapacidad, o que enfrenten barreras para el aprendizaje y la participación o aptitudes sobresalientes garantizando una educación inclusiva en todos los niveles y modalidades educativas
 
-Las autoridades educativas estatal y municipales, en el ámbito de su competencia, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizarán lo siguiente:
+Las autoridades educativas estatales y municipales, en el ámbito de su competencia, para atender a los educandos con discapacidad, circunstancias, necesidades, estilos y ritmo de aprendizajes diversos, realizarán lo siguiente:
 
-I. Prestar educación inclusiva en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación inclusiva en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los niños, niñas y jóvenes que enfrentan barreras para el aprendizaje y la participación;
 
 II. Ofrecer materiales accesibles para prestar educación inclusiva, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-III. Prestar educación inclusiva para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+III. Prestar educación inclusiva para apoyar a los educandos con alguna discapacidad, barreras en el aprendizaje y la participación o aptitudes sobresalientes en los niveles de educación obligatoria;
 
 IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
-V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran.
+V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran. Al efecto, deberán observarse los lineamientos que orienten la toma de decisiones relacionadas con los mecanismos de acreditación, promoción y certificación en los casos del personal que preste educación especial, que al efecto establezca la autoridad educativa federal y local.
 
-Al efecto, deberán observarse los lineamientos que orienten la toma de decisiones relacionadas con los mecanismos de acreditación, promoción y certificación en los casos del personal que preste educación especial, que al efecto establezca la autoridad educativa federal;
-
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
 
 VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
 
-Para la prestación de los servicios de educación especial a los que se refiere el presente artículo y que se cumpla con el principio de inclusión, deberán observarse los lineamientos con los criterios orientadores que al efecto emita la autoridad educativa federal.
+Para la prestación de los servicios de educación especial a los que se refiere el presente artículo y que se cumpla con el principio de inclusión, deberán observarse los lineamientos con los criterios orientadores que al efecto emita la autoridad educativa federal y local
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 46.
 
@@ -553,19 +567,23 @@ Para garantizar la educación inclusiva, las autoridades educativas estatal y mu
 
 I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas con discapacidad;
 
-III. Asegurar que los educandos ciegos, sordos o sordo-ciegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+III. Asegurar que los educandos con discapacidad reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
 IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad, y
 
-V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades, considerando al afecto, los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, así como la educación media superior y superior que establezca la autoridad educativa federal.
+V. Proporcionar a los educandos con barreras en el aprendizaje y la participación así como con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades, considerando al afecto, los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, así como la educación media superior y superior que establezca la autoridad educativa federal y local.
 
-(NOTA: EL 24 DE MAYO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 179/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VI. Facilitar el aprendizaje de las diferentes lenguas originarias a efecto de atender a educandos de Educación indígena que presenten: discapacidad, barreras en el aprendizaje y la participación o aptitudes sobresalientes.
+
+(NOTA: EL 13 DE NOVIEMBRE DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 47.
 
-En el Sistema Educativo Estatal se atenderán, en lo conducente, las disposiciones en materia de accesibilidad señaladas en la presente Ley, en la Ley para la Inclusión de las Personas con Discapacidad en el Estado y Municipios de San Luis Potosí, en Ley para Prevenir y Erradicar la Discriminación para el Estado de San Luis Potosí y en los demás ordenamientos jurídicos aplicables.
+En el Sistema Educativo Estatal se atenderán, en lo conducente, las disposiciones en materia de accesibilidad señaladas en la presente Ley, en la Ley para la Inclusión de las Personas con Discapacidad en el Estado y Municipios de San Luis Potosí, en (sic) Ley para Prevenir y Erradicar la Discriminación para el Estado de San Luis Potosí y en los demás ordenamientos jurídicos aplicables.
 
 ### Capítulo IX. Educación para Personas Adultas
 
@@ -2100,3 +2118,11 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0671.- SE REFORMAN LOS CAPÍTULOS VI Y VIII DENOMINADOS “EDUCACIÓN INDÍGENA”, Y “EDUCACIÓN INCLUSIVA”, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. La Secretaría de Educación del Gobierno del Estado tendrá noventa días hábiles para realizar las adecuaciones necesarias en su reglamento interno, así como asignar las claves de centro de trabajo a las extensiones de Educación Normal indígena, para dar cumplimiento a las obligaciones establecidas en la presente reforma, de conformidad con su capacidad presupuestaria.
