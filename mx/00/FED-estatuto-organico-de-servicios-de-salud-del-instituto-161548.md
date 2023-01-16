@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-161548"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-12-26"
-last_updated: "2022-12-26"
+last_updated: "2023-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161548&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2022-11-16"
 ---
 # ESTATUTO ORGANICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2023 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 16 DE ENERO DE 2023.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el lunes 26 de diciembre de 2022.
 
@@ -881,7 +881,9 @@ IV. Instrumentar, en el ámbito de su responsabilidad, las acciones requeridas p
 
 V. Formular propuestas de políticas institucionales, que regulen los procesos bajo su responsabilidad y susceptibles de incorporarse al Programa Institucional IMSS-BIENESTAR.
 
-VI. Formular, en conjunto con la Coordinación de Recursos Financieros, una propuesta de anteproyecto de presupuesto concerniente a los capítulos de gasto bajo su responsabilidad.
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Formular, en conjunto con la Coordinación de Finanzas, una propuesta de anteproyecto de presupuesto concerniente a los capítulos de gasto bajo su responsabilidad.
 
 VII. Representar, en el ámbito de sus responsabilidades o por instrucción de la Unidad de Administración y Finanzas y/o la Dirección General, al IMSS-BIENESTAR, ante las dependencias o entidades de la Administración Pública Federal.
 
@@ -1111,6 +1113,10 @@ XVI. Coordinar el diseño y producción de materiales editoriales, gráficos, au
 
 ### CAPÍTULO I. DE LA VIGILANCIA, CONTROL Y EVALUACIÓN DEL IMSS-BIENESTAR
 
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2023)</small>
+
+###### Artículo 44.
+
 El Órgano de Vigilancia del IMSS-BIENESTAR, estará integrado por una persona Comisaria o Comisario Público propietario y un suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las funciones asignadas conforme lo prevén los artículos 60 de la Ley Federal de las Entidades Paraestatales, 16 y 17 del Decreto de Creación, así como las demás disposiciones legales aplicables, conforme a lo previsto en el artículo 36 del Reglamento Interior de la Secretaría de la Función Pública. Entre estas atribuciones se encuentran las siguientes:
 
 I. Vigilar que la administración de los recursos y funcionamiento del IMSS-BIENESTAR se realicen de acuerdo con lo que dispongan los programas y presupuestos aprobados.
@@ -1125,7 +1131,9 @@ V. Opinar sobre el informe de actividades y evaluación que rinda la persona tit
 
 La o el Comisario Público Propietario o su suplente asistirán a las sesiones ordinarias y extraordinarias de la Junta de Gobierno con voz, pero sin voto, y a las sesiones de comités y grupos de trabajo especializados a los que sean convocados.
 
-###### Artículo 44.
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2023)</small>
+
+###### Artículo 45.
 
 El IMSS-BIENESTAR contará con un Órgano Interno de Control, al frente del cual habrá un titular que se auxiliará de los titulares de las áreas de Auditoría Interna, de Desarrollo y Mejora de la gestión Pública; Quejas, Denuncias e Investigaciones; y Responsabilidades, mismos que serán designados por la persona titular de la Secretaría de la Función Pública.
 
@@ -1137,13 +1145,21 @@ El IMSS-BIENESTAR proporcionará al Órgano Interno de Control los recursos huma
 
 Asimismo, las personas servidoras públicas del IMSS-BIENESTAR están obligadas a atender requerimientos o resoluciones de los titulares antes señalados, conforme a la competencia de éstos.
 
-###### Artículo 45.
+### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
+
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2023)</small>
+
+###### Artículo 46.
 
 Las comisiones y los comités a que se refiere el presente Estatuto tendrán las atribuciones que les señale el Manual de Organización del IMSS-BIENESTAR, la reglamentación del organismo, los convenios que la entidad suscriba, así como las demás disposiciones que les sean aplicables.
 
-### CAPÍTULO II. DE LAS COMISIONES Y COMITÉS
+## TÍTULO QUINTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
 
-###### Artículo 46.
+### CAPITULO ÚNICO
+
+> <small>(F. DE E., D.O.F. 16 DE ENERO DE 2023)</small>
+
+###### Artículo 47.
 
 Para reformar, adicionar o modificar el Estatuto Orgánico del IMSS-BIENESTAR, se requiere:
 
@@ -1154,10 +1170,6 @@ II. Poner en conocimiento de los miembros de la Junta de Gobierno, con una antic
 III. Aprobar la reforma, adición o modificación con el voto de, por lo menos, dos tercios de los miembros de la Junta de Gobierno.
 
 Las reformas, adiciones y modificaciones aprobadas deberán ser publicadas en el Diario Oficial de la Federación a la brevedad para los efectos del artículo 4 de la Ley Federal de Procedimiento Administrativo, por conducto de la Unidad Jurídica.
-
-## TÍTULO QUINTO. DE LAS REFORMAS, ADICIONES O MODIFICACIONES AL ESTATUTO ORGÁNICO
-
-### CAPITULO ÚNICO
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -1178,3 +1190,11 @@ El IMSS-BIENESTAR expedirá los manuales de organización correspondientes a las
 El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados dentro de los treinta días naturales siguientes a la fecha de su publicación en el Diario Oficial de la Federación.
 
 Este Estatuto Orgánico fue expedido por la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar, en la Primera Sesión Extraordinaria de 2022, mediante acuerdo 1ª.E.04/1122, en la Ciudad de México a 16 de noviembre de 2022.- Presidente de la Junta de Gobierno del IMSS-BIENESTAR, Director General del Instituto Mexicano del Seguro Social, Mtro. Zoé Alejandro Robledo Aburto.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA AL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), PUBLICADO EL 26 DE DICIEMBRE DE 2022”.]
+
+PRIMERO.- La presente nota aclaratoria entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
