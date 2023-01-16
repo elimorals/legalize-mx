@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-atender-combatir-y-erradicar-la-trata-de-7572
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-30"
-last_updated: "2022-11-25"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de julio de 2010.
 
@@ -133,7 +133,7 @@ El Gobierno del Estado deberá implementar mecanismos de difusión eficaces a fi
 
 Artículo 2 BIS.- Las dependencias y entidades del gobierno estatal y municipal dentro de sus respectivas atribuciones deberán considerar como prioritarios la atención, investigación, prevención y sanción de los delitos materia de esta Ley.
 
-(NOTA: EL 12 DE FEBRERO DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 169/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE NOVIEMBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 251, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 12 DE FEBRERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS V Y VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 169/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 26 DE NOVIEMBRE DE 2022, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 251, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2022)</small>
 
@@ -285,7 +285,9 @@ I. Establecer y vincular las políticas públicas de protección, asistencia y a
 
 II. Establecer los lineamientos y bases para la elaboración del Programa Estatal para Prevenir, Atender, Combatir y Erradicar la Trata de Personas y coordinar su ejecución;
 
-III. Impulsar las campañas de prevención en materia de trata de personas, fundamentadas en la salvaguarda de la dignidad humana y el respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2023)</small>
+
+III. Impulsar las campañas permanentes de prevención en materia de trata de personas, fundamentadas en la salvaguarda de la dignidad humana y el respeto a los derechos humanos;
 
 IV. Promover convenios de colaboración interinstitucional y de coordinación con los gobiernos de otras Entidades Federativas y del Distrito Federal, así como con los Municipios, en relación con la seguridad, traslado, internación, tránsito o destino de las víctimas de trata de personas, con el propósito de protegerlas, alojarlas, orientarlas, atenderlas y, en su caso, asistirlas en el regreso a su lugar de residencia u origen;
 
@@ -297,7 +299,13 @@ VII. Promover la investigación científica y el intercambio de experiencias ent
 
 VIII. Establecer los lineamientos a seguir para recopilar, con la ayuda del Poder Judicial, Poder Legislativo, Instituto Estatal de Seguridad Pública, el Consejo Interinstitucional de Atención y Apoyo para las Víctimas y Ofendidos de Delitos, Organizaciones de la Sociedad Civil, Instituciones de Educación Superior y demás instituciones y organismos pertinentes, los datos estadísticos relativos a la incidencia delictiva en materia de trata de personas, con la finalidad de utilizarse en la toma de decisiones y para elaborar los contenidos de las políticas públicas en la materia, así como la elaboración de un banco de datos;
 
-IX. Elaborar y presentar anualmente un informe de las actividades y resultados obtenidos con base al Programa Estatal para Prevenir, Atender, Combatir y Erradicar la Trata de Personas, el cual será remitido al Gobernador del Estado y puesto a disposición de la sociedad a través del internet;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2023)</small>
+
+IX. Elaborar y presentar anualmente un informe de las actividades y resultados obtenidos con base al Programa Estatal para Prevenir, Atender, Combatir y Erradicar la Trata de Personas, el cual será remitido al Gobernador del Estado y puesto a disposición de la sociedad a través del internet.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2023)</small>
+
+El informe (sic) que se refiere el párrafo anterior, deberá ser presentado por el Secretario General de Gobierno, en su carácter de Presidente del Consejo, al Gobernador en los treinta días antes de la primera quincena del mes de octubre. Para el caso de la presentación en el Congreso del Estado, esta se realizará dentro de los diez días posteriores al inicio del Primer Período Ordinario de Sesiones, correspondiente a cada año de ejercicio Constitucional.
 
 X. Promover las medidas que se consideren pertinentes a fin de mitigar los factores socioeconómicos que potencializan la vulnerabilidad de la población de ser víctima de trata de personas, como la pobreza, la falta de igualdad de oportunidades, desigualdad social, violencia de género, entre otras;
 
@@ -323,7 +331,9 @@ III. Promover y sensibilizar a la población mediante la publicación y distribu
 
 IV. Diseñar estrategias y programas dirigidos a la población, destinados a desalentar la demanda que propicia cualquier forma de explotación conducente a la trata de personas, señalando en ellos las consecuencias jurídicas que conlleva la misma;
 
-V. Impulsar campañas de información acerca de los métodos utilizados por los responsables de trata de personas para captar o reclutar a las víctimas; así como los riesgos y daños a la salud que sufren las víctimas de trata de personas;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2023)</small>
+
+V. Impulsar campañas permanentes de información acerca de los métodos utilizados por los responsables de trata de personas para captar o reclutar a las víctimas; así como los riesgos y daños a la salud que sufren las víctimas de trata de personas;
 
 VI. Establecer las bases, para informar y orientar a la población acerca de los riesgos e implicaciones de la trata de personas, los mecanismos para prevenir su comisión o revictimización, así como las diversas modalidades de sometimiento que se presentan en la realización de este delito;
 
@@ -409,6 +419,16 @@ Las autoridades estatales y municipales en el ámbito de su competencia, prever�
 
 El Programa Estatal constituye el instrumento rector en materia de prevención del delito de trata de personas, así como de atención, protección y asistencia a las víctimas del mismo ilícito, el cual será revisado anualmente y estará basado en el Programa Estatal de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2023)</small>
+
+###### Artículo 21 Bis.
+
+Como parte de las acciones para lograr los fines de esta Ley, el Consejo llevará a cabo todas las acciones necesarias para realizar campañas permanentes de información a través de medios masivos, auxiliares o complementarios, y alternativos, en donde se destaquen las consecuencias graves de este problema, los métodos utilizados por los responsables de trata de personas para captar o reclutar a las víctimas, los riesgos y daños a la salud que sufren las víctimas de trata de personas.
+
+Las campañas permanentes a que se refiere el párrafo anterior, deberán implementarse prioritariamente en aeropuertos, centrales de autobuses y puntos fronterizos.
+
+El Consejo podrá coordinarse con las dependencias que integran la administración pública estatal y las municipales, organismos constitucionalmente autónomos, la iniciativa privada y asociaciones civiles para que las campañas permanentes de información se puedan implementar en centros comerciales, hoteles, moteles, bares, restaurantes, fabricas, oficinas, edificios, escuelas, dormitorios, habitaciones colectivas, transporte colectivo, centro de espectáculos y deportivos; y en aquellas localidades aisladas y zonas urbanas, identificadas con alta vulnerabilidad, y en las que tengan mayor incidencia el delito de trata de personas.
+
 ###### Artículo 22.
 
 El Consejo deberá incluir los siguientes aspectos en el diseño del Programa Estatal:
@@ -423,7 +443,9 @@ IV. Los mecanismos de cooperación interinstitucional y de enlace, colaboración
 
 V. Elaboración de estrategias que fomenten la participación activa y propositiva de la población;
 
-VI. El diseño de campañas de difusión en medios de comunicación para sensibilizar a la población sobre las formas de prevención, atención, combate y erradicación de la trata de personas;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2023)</small>
+
+VI. El diseño de campañas permanentes de difusión en medios de comunicación para sensibilizar a la población sobre las formas de prevención, atención, combate y erradicación de la trata de personas;
 
 VII. Las líneas de acción tendientes al fomento de la cultura de prevención de la trata de personas y la protección a las víctimas de ese delito;
 
@@ -520,3 +542,11 @@ P.O. 25 DE NOVIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 251. SE REFORMAN LOS ARTÍCULOS 2, 3, LAS FRACCIONES III, VII, IX, X, XI, XII, XIII DEL ARTÍCULO 7, LA FRACCIÓN III DEL ARTÍCULO 8, EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17, EL ARTÍCULO 19; Y POR ADICIÓN LOS ARTÍCULOS 2 BIS, 2 TER, LA FRACCIÓN XIV AL ARTÍCULO 7, 15 BIS, UN CAPÍTULO IV DENOMINADO “ATENCIÓN, ASISTENCIA, PROTECCIÓN Y PREVENCIÓN EN ZONAS DE ALTA VULNERABILIDAD” QUE CONTIENE LOS ARTÍCULOS 23 Y 24 TODOS DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN”.]
 
 UNICO: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 279. SE REFORMA LA FRACCIÓN III Y IX DEL ARTÍCULO 13, LA FRACCIÓN V DEL ARTICULO 15 Y LA FRACCIÓN VI DEL ARTÍCULO 22; POR ADICIÓN DE UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 13, Y EL ARTÍCULO 21 BIS, TODOS DE LA LEY PARA PREVENIR, ATENDER, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las obligaciones que se generen con motivo de la entrada en vigor del presente decreto, se sujetara a la disponibilidad presupuestaria para el presente ejercicio fiscal y los subsiguientes.
