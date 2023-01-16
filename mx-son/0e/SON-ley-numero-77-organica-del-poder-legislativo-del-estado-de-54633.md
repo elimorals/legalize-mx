@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2022-08-25"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -2349,115 +2349,93 @@ El Congreso del Estado de Sonora asegurará y reservará los recursos presupuest
 
 ### CAPÍTULO ÚNICO. DEL PARLAMENTO JUVENIL DEL ESTADO DE SONORA
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 204.
 
-El parlamento Juvenil del Estado de Sonora es un órgano de participación ciudadana de deliberación, debate, ejecución y formación cívica, en el cual las y los jóvenes sonorenses se reúnen para expresar sus preocupaciones, intereses y aspiraciones, con el objetivo de que, en forma colegiada y a través del diálogo, se propongan al Congreso del Estado y al Poder Ejecutivo propuestas e iniciativas que contribuyan con el desarrollo integral de la sociedad sonorense.
+El Parlamento Juvenil del Estado de Sonora es un órgano de participación, deliberación, debate, ejecución y formación cívica, en el cual las y los jóvenes sonorenses pueden ser electos para expresar sus preocupaciones, intereses, aspiraciones e ideas, con el objetivo de que, en forma colegiada y a través del diálogo, se propongan al Congreso del Estado y al Poder Ejecutivo propuestas e iniciativas que contribuyan con el desarrollo integral de la sociedad sonorense.
 
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 205.
 
 El Parlamento Juvenil del Estado de Sonora estará integrado por:
 
-I.- El Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, quien lo presidirá.
+I.- La o el Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, quien lo presidirá;
 
-II.- (DEROGADA, B.O. 9 DE MAYO DE 2019)
+II.- La o el Secretario Técnico, que recaerá en la o el Director General Jurídico del Congreso del Estado; y
 
-III.- El Secretario Técnico, que recaerá en el Director General Jurídico del Congreso del Estado.
+III.- Treinta y tres jóvenes que fungirán como parlamentarios juveniles, con sus respectivos suplentes, que serán electos anualmente, de acuerdo a las etapas que establece la presente ley y la designación será honorífica, por lo que no percibirán remuneración alguna por su desempeño.
 
-> <small>(REFORMADA, B.O. 9 DE MAYO DE 2019)</small>
-
-IV.- Treinta y tres jóvenes que fungirán como parlamentarios juveniles, con sus respectivos suplentes, y serán nombrados cada año, en el segundo periodo de sesiones ordinarias de cada legislatura, por un comité de selección integrado por cinco personas. Este Comité de Selección concluirá sus funciones una vez que el Congreso apruebe a los treinta y tres parlamentarios juveniles.
-
-La designación de (sic) Parlamentario Juvenil será honorífica, por lo que no se percibirá remuneración alguna por su desempeño.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 206.
 
-El Presidente de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado, será el responsable de proponer al Congreso del Estado el Comité Seleccionador, debiendo incluir:
+Los actos relacionados con el desarrollo del parlamento juvenil, se realizarán con la participación de las siguientes instituciones:
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+I.- El Congreso del Estado, por conducto de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud;
 
-I.- Una persona con experiencia en el tema deportivo.
+II.- La Secretaría de Educación y Cultura;
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+III.- El Instituto Estatal Electoral y de Participación Ciudadana; y
 
-II.- Una persona con experiencia en el tema de Derechos Humanos.
+IV.- El Instituto Sonorense de la Juventud.
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+El Congreso del Estado podrá invitar a la Secretaría de Educación Pública y al Instituto Nacional Electoral, a que participen en el desarrollo del evento.
 
-III.- Una persona con experiencia en el tema de salud.
+Las instituciones participantes deberán firmar un convenio de colaboración a efecto de conformar una Comisión Estatal Electoral del Parlamento Juvenil, con un representante de cada institución, y definir las atribuciones que corresponden a cada una de las instituciones en el desarrollo del evento.
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
+La Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud deberá designar a la persona que represente al Congreso del Estado dentro del Comité Técnico Electoral del Parlamento Juvenil, así como a la persona que la supla en caso de ausencia, de entre el personal del Poder Legislativo, debiendo recaer dicha designación en las personas que demuestren tener mayor conocimiento y experiencia en la organización del evento.
 
-IV.- Una persona con experiencia en el tema de Economía.
-
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
-
-V.- Una persona con experiencia en el tema de igualdad de género.
-
-> <small>(ADICIONADA, B.O. 9 DE MAYO DE 2019)</small>
-
-VI.- Una persona con experiencia en el tema de Ciencia y Tecnología.
-
-> <small>(ADICIONADA, B.O. 19 DE MAYO DE 2022)</small>
-
-VII.- Una persona con experiencia en los temas de inclusión y personas con discapacidad.
-
-> <small>(ADICIONADO, B.O. 9 DE MAYO DE 2019)</small>
-
-Los jóvenes que hayan integrado el Parlamento Juvenil, podrán ser llamados para ser parte del comité seleccionador para posteriores parlamentos, con la finalidad de considerar la opinión y experiencia desarrollada por los mismos, esto a efecto de enriquecer y fortalecer la figura en cuestión.
-
-> <small>(ADICIONADO, B.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 207.
 
-El Parlamento Juvenil del Estado tendrá las siguientes atribuciones:
+El Comité Técnico Electoral del Parlamento Juvenil, que para efectos de este capítulo y del evento se conocerá como el Comité Técnico Electoral, deberá aprobar y mantener actualizado un Manual de Procedimientos Electorales de del Parlamento Juvenil del Estado de Sonora el cual reglamentará el desarrollo de las siguientes etapas:
 
-I.- Elaborar y presentar propuestas para implementar políticas públicas ante el Poder Ejecutivo del Estado.
+Primera. Convocatoria y Registro;
 
-II.- Elaborar y presentar iniciativas ante el Poder Legislativo del Estado.
+La Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud del Congreso del Estado emitirá la convocatoria a más tardar el mes de febrero del año correspondiente, dirigida e invitando a las y los jóvenes estudiantes de los niveles de educación secundaria, media superior y superior, con edad de entre los 12 y 29 años a participar, publicándose en la página oficial del Congreso del Estado.
 
-> <small>(REFORMADA, B.O. 9 DE MAYO DE 2019)</small>
+Segunda. Campañas Juveniles;
 
-III.- Sesionar en el pleno del Congreso del Estado una vez al año, en la fecha señalada en la convocatoria.
+En esta etapa, cada candidata y candidato desarrollará el tema que marca la Convocatoria, en una exposición que deberá distinguirse por su investigación, contenido y propuesta, y que tendrá una duración de hasta cinco minutos. Las y los candidatos expondrán su trabajo ante sus compañeras y compañeros como parte de su campaña de proselitismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE MAYO DE 2019)</small>
+Tercera. Desarrollo de las Elecciones;
+
+La comunidad escolar llevará a cabo la elección a través del voto universal, libre, secreto y directo, ejercido ante una mesa directiva de casilla, señalando en la Boleta de Votación que apruebe el Comité Técnico Electoral, al candidato que a su juicio represente de la mejor manera a la escuela, observando para ello, las etapas propias de un proceso electoral descritas en el Manual de Procedimientos del Parlamento Juvenil.
+
+La jornada electoral se llevará a cabo en el espacio que las autoridades de la escuela respectiva asignen dentro del plantel, siendo de preferencia en tiempos curriculares, sin la presencia de padres de familia o empleando los medios tecnológicos para este fin.
+
+Esta Etapa se desarrollará en las fechas que establezca la Convocatoria.
+
+Cuarta. Declaración de Resultados y Validez;
+
+Quien obtenga el mayor número de puntos será considerado como la Parlamentaria o Parlamentario Juvenil y su suplente será el que haya obtenido el segundo lugar en dicha votación, El Comité Técnico Electoral otorgará a la o las fórmulas electas, la Constancia de Mayoría que acredite su representación como Parlamentaria o Parlamentario Juvenil en el distrito electoral correspondiente o de asignación de representación proporcional.
+
+El Instituto Estatal Electoral y de Participación Ciudadana y, en su caso, el Instituto Nacional Electoral, sancionarán todo el proceso de elección del evento, en sus diferentes etapas.
+
+Quinta. Sesión Plenaria en el Congreso del Estado; y
+
+El Comité Técnico Electoral deberá definir en el Manual de Procedimientos, las actividades logísticas necesarias para el traslado, recepción, registro y capacitación de las Parlamentarias y los Parlamentarios Juveniles propietarios electos a la sede definida por el Congreso del Estado.
+
+La Sesión Plenaria deberá realizarse dentro de los primeros 25 días del mes de mayo, en la cual, las parlamentarias y los parlamentarios juveniles participarán en un debate con el propósito de llegar a la aprobación, en su caso, de un Punto de Acuerdo en relación con el tema publicado en la Convocatoria correspondiente.
+
+Sexta. Actividades Parlamentarias Juveniles.
+
+Las y los integrantes del Parlamento Juvenil podrán realizar actividades en coordinación y a petición de la Presidenta de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud, en los casos en que se promuevan la participación ciudadana, la formación cívica y social.
+
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 208.
 
-La convocatoria para la integración del Parlamento Juvenil del Estado será emitida por el Congreso, por conducto de la Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud, en coordinación con el Instituto Sonorense de la Juventud, dentro de los dos meses del segundo periodo de sesiones ordinarias de cada legislatura, debiéndose publicar en la página electrónica del Congreso del Estado y en medios de comunicación, y deberá contener al menos:
+Los acuerdos que se aprueben en la sesión del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes y se comunicarán de manera oficial a las autoridades correspondientes.
 
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
-
-I.- Las bases y requisitos para participar en el proceso de selección.
-
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
-
-II.- Las fechas de registro y de elección.
-
-> <small>(ADICIONADA, B.O. 12 DE JULIO DE 2018)</small>
-
-III.- El proceso o mecanismo de selección.
-
-> <small>(REFORMADA, B.O. 19 DE MAYO DE 2022)</small>
-
-IV.- Del mecanismo para que se privilegie la igualdad de género, inclusión y grupos étnicos en la elección.
-
-> <small>(ADICIONADA, B.O. 9 DE MAYO DE 2019)</small>
-
-V.- La edad para integrar el Parlamento Juvenil del Estado, oscilará entre los 12 y 24 años de edad.
-
-> <small>(REFORMADO, B.O. 9 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
 
 ###### ARTÍCULO 209.
 
-Los acuerdos que se aprueben en la sesión del Parlamento Juvenil del Estado se tomarán por mayoría absoluta de sus integrantes. En la sesión se levantará el acta correspondiente y será publicada en el Boletín Oficial del Estado.
-
-En la sesión del Parlamento Juvenil del Estado se elegirá por mayoría absoluta de sus integrantes la mesa directiva que fungirá para esa sesión, así como el orden del día correspondiente.
+La Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud, a través de su micrositio en la página oficial de internet del Congreso del Estado, deberá difundir la integración y las actividades del Parlamento Juvenil.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE OCTUBRE DE 2020)</small>
 
@@ -3293,11 +3271,33 @@ B.O. 25 DE AGOSTO DE 2022.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 312 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA POR EXTENSIÓN".]
+B.O. 16 DE ENERO DE 2023.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 87, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 4 DE ABRIL DE 2023.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Sonora, de acuerdo a la suficiencia presupuestaria, deberá contemplar en su Presupuesto de Egresos para el Ejercicio Fiscal 2023, el desarrollo del evento Parlamento Juvenil del Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Sonora deberá celebrar los convenios de colaboración respectivos, dentro de los 30 días naturales siguientes a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión de los Derechos de la Niñez, la Adolescencia y la Juventud, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá emitir un acuerdo para definir a la persona que represente al Congreso del Estado dentro del Comité Técnico Electoral del Parlamento Juvenil, así como a su suplente, quienes deberán asumir esos encargos a partir de la aprobación del Acuerdo respectivo en todos los actos de dicho evento del año de su aprobación y años subsecuentes.
+
+###### ARTÍCULO QUINTO.
+
+El Comité Técnico Electoral se deberá conformar dentro de los 60 días naturales siguientes a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Comité Técnico Electoral deberá elaborar el manual de procedimientos correspondientes dentro de los 15 días hábiles después de conformado dicho Comité.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
 
