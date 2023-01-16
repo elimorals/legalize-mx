@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-130831"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-10-10"
-last_updated: "2020-11-17"
+last_updated: "2023-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130831&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2018-09-27"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el miércoles 10 de octubre de 2018.
 
@@ -81,15 +81,19 @@ VI. Consejo: Consejo de la Judicatura Federal;
 
 VII. Criterio: Pauta que obliga a tomar en cuenta todos los elementos de un caso, disponibles para elegir de entre las posibles alternativas la mejor, con objeto de establecer los principios para la resolución de casos subsecuentes con la mayor certeza;
 
+> <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2022)</small>
+
+VII. Bis. Escuela Judicial: Escuela Federal de Formación Judicial;
+
 VIII. Instancias: Órganos jurisdiccionales y áreas administrativas;
 
 IX. Inventario de datos personales: Catálogo de sistemas de datos con independencia de su forma de almacenamiento;
 
 X. Ley: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
-> <small>(REFORMADA POR EL PUNTO OCTAVO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2022)</small>
 
-XI. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito, Centros de Justicia Penal Federal, el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones y los Tribunales Laborales Federales;
+XI. Órganos jurisdiccionales: Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación, Juzgados de Distrito, Centros de Justicia Penal Federal, el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones y los Tribunales Laborales Federales;
 
 XII. Políticas: Definición de directrices estratégicas para la gestión y tratamiento de datos personales, alineadas a las atribuciones de la Institución. Incluye la elaboración y emisión interna de programas, entre otros documentos regulatorios;
 
@@ -197,7 +201,9 @@ Para adoptar los mecanismos previstos en el artículo 30 de la Ley, se atenderá
 
 I. La Unidad de Transparencia someterá para su aprobación al Comité las políticas y programas internos de protección de datos personales;
 
-II. El Comité, a propuesta de la Unidad de Transparencia en coordinación con el Instituto de la Judicatura Federal, aprobará el programa de capacitación y actualización anual en materia de protección de datos personales;
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2022)</small>
+
+II. El Comité, a propuesta de la Unidad de Transparencia en coordinación con la Escuela Judicial, aprobará el programa de capacitación y actualización anual en materia de protección de datos personales;
 
 III. La Unidad de Transparencia, por conducto de la Secretaría de Protección de Datos Personales, establecerá un sistema de supervisión de vigilancia para comprobar el cumplimiento de las políticas en materia de datos personales;
 
@@ -388,3 +394,11 @@ SÉPTIMO. Los Tribunales Laborales Federales llevarán obligatoriamente los libr
 OCTAVO. Se crean los Tribunales Laborales Federales que tendrán competencia material para conocer de las diferencias o conflictos de la materia laboral, en los términos de la fracción XX del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y 55, fracción VI, de la Ley Orgánica del Poder Judicial de la Federación e iniciarán funciones el dieciocho de noviembre de dos mil veinte en un horario de siete a diecinueve horas, según las denominaciones, domicilios y jurisdicción territorial expuestos a continuación.
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2020, PÁGINAS DE LA 447 A LA 448.]</small>
+
+D.O.F. 16 DE ENERO DE 2022.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
