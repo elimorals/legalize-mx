@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-95-para-la-proteccion-conservacion-y-fomento-del-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-08"
-last_updated: "2016-08-08"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA PROTECCIÓN, CONSERVACIÓN Y FOMENTO DEL ÁRBOL EN LAS ZONAS URBANAS
 
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO ARTÍCULO PRIMERO DE LA PRESENTE LEY, ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE SONORA.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Secc. III del Boletín Oficial del Estado de Sonora, el lunes 8 de agosto de 2016.
 
@@ -235,9 +235,17 @@ XVII.- Mantener informado al ciudadano sobre los derechos y obligaciones que est
 
 XVIII.- Ofrecer al público un sistema de consulta que contenga toda la información general relativa al Sistema Municipal del Arbolado Urbano para lo cual dispondrá de los medios técnicos y tecnológicos a su alcance;
 
-XIX.- Crear, administrar y disponer del Fondo Municipal de Cambio Climático con los recursos aquí descritos, para dar cumplimiento a los fines de esta Ley; y
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-XX.- Las demás que le confieran las leyes federales y estatales en esta materia.
+XIX.- Crear, administrar y disponer del Fondo Municipal de Cambio Climático con los recursos aquí descritos, para dar cumplimiento a los fines de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE ENERO DE 2023)</small>
+
+XX.- Establecer, en coordinación con la Secretaría de Educación y Cultura y la CEDES, las zonas o espacios dentro de su circunscripción territorial para la plantación de árboles endémicos por parte de alumnos que necesiten acreditar su servicio social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 16 DE ENERO DE 2023)</small>
+
+XXI.- Las demás que le confieran las leyes federales y estatales en esta materia.
 
 ## TÍTULO TERCERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS CIUDADANOS
 
@@ -719,7 +727,9 @@ El CEDES en coordinación con los municipios y las organizaciones e institucione
 
 I.- Promover los objetivos contemplados en esta Ley;
 
-II.- Fomentar la planeación y ejecución de proyectos inherentes al cuidado, conservación y protección del arbolado urbano; y
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
+
+II.- Fomentar la planeación y ejecución de proyectos inherentes a la plantación, cuidado, conservación y protección del arbolado urbano; y
 
 III.- Las demás que sean de interés para desarrollar, fortalecer y fomentar la cultura del cuidado, conservación y protección del arbolado urbano.
 
@@ -731,7 +741,9 @@ I.- Fomentar, apoyar y organizar programas de formación, capacitación y actual
 
 II.- Fomentar y apoyar la formación, capacitación y actualización de los prestadores de servicios técnicos en materia de arbolado urbano; y
 
-III.- Promover planes y programas educativos dirigidos al cumplimiento de los objetivos de esta Ley.
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
+
+III.- Promover planes y programas educativos en todos los niveles, dirigidos al cumplimiento de los objetivos de esta Ley, en los que se incluyan actividades prácticas de cuidado, protección y conservación de árboles; y reforestación en general.
 
 ###### Artículo 63.
 
@@ -904,3 +916,25 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al cuarto día del mes de julio del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 83, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE SONORA, DE LA LEY PARA LA PROTECCIÓN, CONSERVACIÓN Y FOMENTO DEL ÁRBOL EN LAS ZONAS URBANAS DEL ESTADO DE SONORA, Y DE LA LEY QUE CREA UN ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN DE ECOLOGÍA Y DESARROLLO SUSTENTABLE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado cuenta con un plazo de 60 días a partir de la publicación del presente Decreto, para adecuar las disposiciones reglamentarias correspondientes.
+
+###### ARTÍCULO TERCERO.
+
+Los municipios, en coordinación con la Secretaría de Educación y Cultura, y la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, cuentan con un plazo de 90 días a partir de la publicación del presente Decreto, para designar, de manera coordinada, las primeras zonas o lugares para la plantación, cuidado, protección y conservación de los árboles que deberán plantar los alumnos prestadores del servicio social.
+
+###### ARTÍCULO CUARTO.
+
+Los alumnos que tengan iniciado el trámite para acreditar su servicio social con anterioridad a la entrada en vigor del presente decreto, no estarán obligados a cumplir con el requisito adicional para la acreditación del servicio social previsto en el artículo 135 Bis de la Ley de Educación del Estado de Sonora.
