@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-familia-para-el-estado-de-sonora-70504"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-15"
-last_updated: "2022-06-06"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Código publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 15 de octubre de 2009.
 
@@ -865,9 +865,11 @@ Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, se dict
 
 En la sentencia de nulidad de matrimonio se resolverá sobre la situación de los hijos. Para ese efecto, los padres podrán presentar un convenio que contenga los acuerdos a que han llegado respecto a su custodia, la proporción que corresponda pagar a cada uno de ellos por concepto de alimentos y la forma de garantizar su pago. En caso de que no se presente el convenio o no se garantice el interés de los hijos, el Juez decidirá lo que corresponda, pudiendo determinar que los menores queden bajo la custodia del ascendiente que asegure el desarrollo integral de éstos. También podrá, en todo tiempo, modificar la determinación tomada, teniendo en cuenta las nuevas circunstancias y siempre que el interés de los hijos lo requiera.
 
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 129.
 
-El Juez podrá modificar en todo tiempo la determinación sobre la custodia de los hijos y los alimentos, atendiendo al cambio de la situación existente al momento del fallo.
+El Juez podrá modificar en todo tiempo la determinación sobre la custodia de las hijas e hijos y los alimentos, atendiendo al cambio de la situación existente al momento del fallo. De igual forma, determinará cuando la (sic) madres y padres tendrán como obligación el llevar a las niñas, niños y adolescentes o incapaces jurídicamente que se les realice una valoración psicológica y, en su caso, psiquiátrica, así como en caso de que sea necesario, se brinde el tratamiento adecuado.
 
 > <small>(REFORMADO, B.O. 1 DE MARZO DE 2011)</small>
 
@@ -957,11 +959,17 @@ IV.- Fijar las reglas para el cuidado de los hijos. Los menores de 7 años queda
 
 V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos, siguiendo en su caso las reglas establecidas en el artículo 521 de este Código;
 
-VI. Dictar, en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede encinta; y
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, B.O. 29 DE ENERO DE 2018)</small>
+VI. Dlctar (sic), en su caso, las medidas precautorias que la ley establece en el supuesto de que la mujer quede embarazada;
 
-VII. Dictar, en su caso, cualquier medida de protección que resulte necesaria para que cese todo acto de violencia familiar, teniendo en cuenta el interés del agraviado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE ENERO DE 2023)</small>
+
+VII. Asegurar que se realice una evaluación psicológica a las niñas, niños y adolescentes o incapaces jurídicamente y se brinde el tratamiento adecuado en caso de que sea necesario; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VII], B.O. 16 DE ENERO DE 2023)</small>
+
+VIII. Dictar, en su caso, cualquier medida de protección que resulte necesaria para que cese todo acto de violencia familiar, teniendo en cuenta el interés del agraviado.
 
 > <small>(REFORMADO, B.O. 29 DE ENERO DE 2018)</small>
 
@@ -1023,13 +1031,17 @@ III.- Designación del cónyuge que continuará habitando el domicilio conyugal,
 
 IV.- La cantidad que, a título de alimentos, un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriada la sentencia y la forma de hacer el pago o bien, la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
 
-> <small>(REFORMADA, B.O. 6 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-V.- La forma de administrar los bienes de la sociedad conyugal legal, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, en los términos del artículo siguiente, y;
+V.- La forma de administrar los bienes de la sociedad conyugal legal, durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, en los términos del artículo siguiente;
 
-> <small>(ADICIONADA, B.O. 6 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-VI.- Señalar la compensación, a que tendrá derecho el cónyuge que durante el matrimonio se haya dedicado preponderantemente al desempeño del trabajo del hogar, y en su caso, al cuidado de los hijos, la cual no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieran adquirido durante la vigencia del matrimonio sin importar el régimen por el cual se haya celebrado. Para efectos de lo anterior, no obstará que hubiera realizado otras labores profesionales. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+VI.- Señalar la compensación, a que tendrá derecho el cónyuge que durante el matrimonio se haya dedicado preponderantemente al desempeño del trabajo del hogar, y en su caso, al cuidado de los hijos, la cual no podrá ser superior al cincuenta por ciento del valor de los bienes que hubieran adquirido durante la vigencia del matrimonio sin importar el régimen por el cual se haya celebrado. Para efectos de lo anterior, no obstará que hubiera realizado otras labores profesionales. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso; y
+
+> <small>(ADICIONADA, B.O. 16 DE ENERO DE 2023)</small>
+
+VII.- Fechas en las que se realizarán las evaluaciones psicológicas, o en su caso, psiquiátricas, de las niñas, niños y adolescentes o incapaces jurídicamente, así como establecer las responsabilidades respecto del seguimiento al tratamiento de terapia, en caso de que esto resulte de dichas evaluaciones.
 
 ###### Artículo 145.
 
@@ -4124,3 +4136,15 @@ B.O. 6 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 82, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora deberá de firmar convenios de colaboración con las distintas dependencias e instituciones que puedan coadyuvar para que se dé cumplimiento a lo dispuesto en el artículo 129 del presente Decreto.
