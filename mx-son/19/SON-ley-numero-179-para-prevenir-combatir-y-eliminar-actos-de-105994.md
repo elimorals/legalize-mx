@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-179-para-prevenir-combatir-y-eliminar-actos-de-10599
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-24"
-last_updated: "2021-05-04"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 24 de noviembre de 2014.
 
@@ -181,13 +181,17 @@ XXXV.- La aplicación de políticas públicas, programas u otras acciones de gob
 
 XXXVI.- Efectuar actos de maltrato y acoso escolar;
 
-> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 2023)</small>
 
-XXXVII.- Negar o limitar el otorgamiento de intérpretes en Lengua de Señas Mexicana (LSM) a personas con sordera o con alguna incapacidad auditiva, que impida su derecho a educación; o
+XXXVII.- Negar o limitar el otorgamiento de intérpretes en Lengua de Señas Mexicana (LSM) a personas con sordera o con alguna incapacidad auditiva, que impida su derecho a educación;
 
-> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE ENERO DE 2023)</small>
 
-XXXVIII.- En general, cualquier otro acto u omisión discriminatorio en términos del artículo 1, fracción III de esta Ley.
+XXXVIII.- Prohibir, limitar o restringir el acto de amamantar en espacios públicos; o
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 16 DE ENERO DE 2023)</small>
+
+XXXIX.- En general, cualquier otro acto u omisión discriminatorio en términos del artículo 1, fracción III de esta Ley.
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
 
@@ -438,3 +442,11 @@ B.O. 4 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 97, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 9 DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
