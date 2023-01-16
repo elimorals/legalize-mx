@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2023-01-13"
+last_updated: "2023-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,15 @@ issue_date: "2015-02-23"
 ---
 # ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA INTEGRACION Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO]
 
-[NOTA 1: DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES, PUBLICADO EN EL D.O.F. DE 13 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL DISPONGA EN LOS RESPECTIVOS ACUERDOS GENERALES PARA EL INICIO DE SUS FUNCIONES.]
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 108/2022, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO, PUBLICADO EN EL D.O.F. DE 16 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DE QUE INICIEN FUNCIONES LOS PLENOS REGIONALES.]
 
-[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA 2: DE CONFORMIDAD CON LOS TRANSITORIOS SEGUNDO Y TERCERO DEL ACUERDO GENERAL 67/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA COMPETENCIA, INTEGRACIÓN, ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS PLENOS REGIONALES, PUBLICADO EN EL D.O.F. DE 13 DE ENERO DE 2023, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE EL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL DISPONGA EN LOS RESPECTIVOS ACUERDOS GENERALES PARA EL INICIO DE SUS FUNCIONES.]
+
+[NOTA 3: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -724,3 +726,17 @@ La Secretaría Ejecutiva de Administración, por conducto de las áreas administ
 DÉCIMO. Las Direcciones Generales de Tecnologías de la Información; y de Gestión Judicial del Consejo de la Judicatura Federal realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción, registro y turno de los asuntos y promociones que se presenten en la oficialía de partes del Pleno Regional o a cualquier otro sistema que sea necesario ajustar para instrumentar el presente Acuerdo.
 
 DÉCIMO PRIMERO. La Visitaduría Judicial ajustará los formatos de informes y actas de visita para la práctica de las inspecciones, en los que se refleje la nueva composición de los Plenos Regionales. Por su parte, la Dirección General de Estadística Judicial generará indicadores estadísticos que reflejen adecuadamente las cargas de trabajo de los referidos órganos y la Secretaría Ejecutiva de Vigilancia propondrá a la Comisión de Vigilancia indicadores de productividad.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 108/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN, DENOMINACIÓN E INICIO DE FUNCIONES DE LOS PLENOS REGIONALES DE LAS REGIONES CENTRO-NORTE Y CENTRO-SUR, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Plenos de Circuito concluyen funciones después de su última sesión del año 2022. Durante el periodo del 1 al 15 de enero de 2023, se suspenderá el trámite y resolución de las contradicciones de criterios que se susciten en los Plenos de Circuito, hasta en tanto inicien funciones los Plenos Regionales. Se prorroga el cargo de la persona que haya fungido como Presidenta de algún Pleno de Circuito, para el efecto de que el 16 de enero de 2023 remita los asuntos pendientes de resolver al Pleno Regional que corresponda.
+
+CUARTO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos; la Dirección General de Servicios Generales; la Coordinación de Administración Regional; la Dirección General de Gestión Judicial; y la Dirección General de Tecnologías de la Información llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo, incluyendo las relativas a las modificaciones necesarias a los espacios físicos que los albergarán; así como la dotación de equipo y demás insumos.
+
+QUINTO. Se abroga a partir de que inicien funciones los Plenos Regionales, el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
