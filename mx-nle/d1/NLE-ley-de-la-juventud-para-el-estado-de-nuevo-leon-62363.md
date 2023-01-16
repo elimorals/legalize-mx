@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2022-10-26"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2023.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -671,6 +671,10 @@ XII. Mecanismos para el acceso de los jóvenes a actividades de turismo juvenil;
 
 XIII. Mecanismos para el acceso de los jóvenes a actividades físicas y al disfrute de espectáculos deportivos, y debe contemplar un sistema de promoción y apoyo a iniciativas deportivas juveniles;
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2023)</small>
+
+XIII Bis. Mecanismos para que los jóvenes reciban a través de servidores públicos capacitados, la atención, orientación e información respecto de sus derechos en todas las instituciones públicas del Estado;
+
 > <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
 XIV. Acciones afirmativas para los sectores de los jóvenes en zonas de marginación socioeconómica rural o urbana y de atención prioritaria, así como en desventaja social;
@@ -834,3 +838,9 @@ P.O. 26 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 169. SE REFORMA POR MODIFICACIÓN EL INCISO D) Y POR ADICIÓN DE UN INCISO E) A LA FRACCIÓN VI DEL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 281. SE ADICIONA UNA FRACCIÓN XIII BIS AL ARTÍCULO 37 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+UNICO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
