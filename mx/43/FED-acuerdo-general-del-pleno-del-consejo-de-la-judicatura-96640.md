@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2022-10-28"
+last_updated: "2023-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2023.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -91,9 +91,17 @@ V. Constitución: Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Coordinaciones: Coordinación de Asesores de la Presidencia, Coordinación de Seguridad del Poder Judicial de la Federación y Coordinación de Administración Regional;
 
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Bis. Escuela Judicial: Escuela Federal de Formación Judicial;
+
 VII. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
 VIII. Ley: Ley Orgánica del Poder Judicial de la Federación;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VIII. Bis. Ley de Carrera Judicial: Ley de Carrera Judicial del Poder Judicial de la Federación;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -103,9 +111,9 @@ IX. Ley Federal de Transparencia: Ley Federal de Transparencia y Acceso a la Inf
 
 IX. Bis. Ley General de Transparencia: Ley General de Transparencia y Acceso a la Información Pública;
 
-> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-X. Órganos jurisdiccionales: Tribunales de Circuito, Juzgados de Distrito y Tribunales Laborales Federales;
+X. Órganos jurisdiccionales: Tribunales Colegiados de Circuito, Tribunales Colegiados de Apelación, Juzgados de Distrito y Tribunales Laborales Federales;
 
 > <small>(ADICIONADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES, EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 17 DE NOVIEMBRE DE 2020)</small>
 
@@ -249,9 +257,11 @@ Los reglamentos, acuerdos o resoluciones del Pleno que sean aprobados con modifi
 
 Si el asunto fuere de interés general, deberá remitirse en algún medio de almacenamiento magnético o digital al Secretario Ejecutivo antes mencionado, al día siguiente de su aprobación, a fin de agilizar su publicación en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 14.
 
-Las atribuciones no delegables del Pleno, contenidas en las fracciones II, XVII, XVIII, XIX, así como en la XL, del artículo 81 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
+Las atribuciones no delegables del Pleno, contenidas en las fracciones II, XVI, XVII, XVIII, así como en la XL, del artículo 86 de la Ley, se regirán por los lineamientos contenidos en los acuerdos generales y demás disposiciones que emita el Pleno.
 
 ###### Artículo 15.
 
@@ -259,9 +269,11 @@ El Pleno otorgará nombramiento a los titulares a que se refiere la fracción IV
 
 Asimismo, podrá remover a los titulares de las áreas administrativas a que se refiere dicho precepto.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 16.
 
-Los Consejeros que integren la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación serán designados por el Pleno, de conformidad con el artículo 205 de la Ley.
+Las Consejeras y los Consejeros que integren la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación serán designados por el Pleno, de conformidad con el artículo 186 de la Ley.
 
 ###### Artículo 17.
 
@@ -269,9 +281,11 @@ El Pleno supervisará el funcionamiento administrativo de los Institutos Federal
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJERO PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 18.
 
-De conformidad con las atribuciones previstas en el artículo 85 de la Ley, son facultades del Consejero Presidente las siguientes:
+De conformidad con las atribuciones previstas en el artículo 90 de la Ley, son facultades de la Consejera o el Consejero Presidente las siguientes:
 
 I. Representar al Consejo por sí o por medio del servidor público que se designe conforme a la normativa aplicable;
 
@@ -279,9 +293,9 @@ II. Designar a un Consejero ponente para que someta un asunto dudoso o trascende
 
 III. Dirigir los debates y conservar el orden en las sesiones plenarias;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IV. Proponer al Pleno dentro de los quince días siguientes a que se dé la vacante respectiva, los nombramientos de los titulares de los órganos auxiliares; secretarías ejecutivas; Coordinación de Administración Regional; direcciones generales que no estén a su cargo; unidades administrativas del Instituto Federal de la Defensoría Pública; así como de los vocales del Instituto Federal de Especialistas de Concursos Mercantiles; del representante del Consejo ante la Comisión Substanciadora Única del Poder Judicial de la Federación; y de los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública;
+IV. Proponer al Pleno dentro de los quince días siguientes a que se dé la vacante respectiva, los nombramientos de las personas titulares de los órganos auxiliares; secretarías ejecutivas; Coordinación de Administración Regional; direcciones generales que no estén a su cargo; unidades administrativas del Instituto Federal de Defensoría Pública; así como de las y los vocales del Instituto Federal de Especialistas de Concursos Mercantiles; del representante del Consejo ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación; y de las y los miembros de la Junta Directiva del Instituto Federal de Defensoría Pública;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -319,9 +333,9 @@ XIV. Dictar las providencias oportunas para la corrección o remedio inmediato d
 
 XIV Bis. Instruir la celebración de visitas extraordinarias de inspección cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XV. Instruir en materia de responsabilidad administrativa, a la Unidad General de Investigación de Responsabilidades Administrativas, a la Secretaría Ejecutiva de Disciplina y a la Contraloría del Poder Judicial de la Federación, en el ámbito de sus respectivas competencias, la práctica de investigaciones de faltas administrativas respecto de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos, o a algún procedimiento jurisdiccional o administrativo del Consejo; además de proveer, en su caso, sobre su tramitación;
+XV. Instruir en materia de responsabilidad administrativa, a la Unidad General de Investigación de Responsabilidades Administrativas, a la Secretaría Ejecutiva de Disciplina y a la Contraloría del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, la práctica de investigaciones de faltas administrativas respecto de las personas servidoras públicas adscritas a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguna de esas personas servidoras públicas, o a algún procedimiento jurisdiccional o administrativo del Consejo; además de proveer, en su caso, sobre su tramitación;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -341,9 +355,9 @@ XVIII. Definir, por conducto de la Dirección General de Derechos Humanos, Igual
 
 XIX. Determinar, por conducto de la Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales las acciones del Consejo en dichas materias;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XX. Admitir o desechar el recurso de revisión administrativa previsto en el artículo 20 Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, dentro de los seis días hábiles siguientes a su interposición; y
+XX. Admitir o desechar el recurso de revisión administrativa previsto en el artículo 72, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial dentro de los seis días hábiles siguientes a su interposición; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -431,7 +445,9 @@ VI. Enviar a la Secretaría General las peticiones y promociones que los particu
 
 VII. Cumplir con aquellas comisiones que le encomiende el Pleno;
 
-VIII. Integrar la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en términos del artículo 205 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VIII. Integrar la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, en términos del artículo 186 de la Ley;
 
 IX. Dar cuenta al Pleno con las medidas urgentes tomadas durante la Comisión de Receso;
 
@@ -453,7 +469,9 @@ XVII. Nombrar y remover al personal adscrito a su ponencia, con excepción del n
 
 XVIII. Otorgar licencias con o sin goce de sueldo, hasta por treinta días, a los servidores públicos adscritos a sus ponencias;
 
-XIX. Someter a consideración del Pleno el proyecto de resolución por el que se dé cumplimiento a las resoluciones pronunciadas en los recursos de revisión administrativa en el plazo que fija el artículo 128 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIX. Someter a consideración del Pleno el proyecto de resolución por el que se dé cumplimiento a las resoluciones pronunciadas en los recursos de revisión administrativa en el plazo que fija el artículo 73 de la Ley de Carrera Judicial;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -513,9 +531,11 @@ En los supuestos anteriores, la votación dividida entre los dos Consejeros pres
 
 Las Comisiones se renovarán cada dos años. En el caso de que se designe nuevo Consejero durante el periodo de funcionamiento de las Comisiones, éste se integrará a las de aquél que concluyó su encargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 23.
 
-Cada Comisión elegirá a su respectivo Presidente y determinará el tiempo de su encargo de acuerdo con lo dispuesto en el artículo 79 de la Ley.
+Cada Comisión elegirá a su respectiva Presidenta o Presidente y determinará el tiempo de su encargo de acuerdo con lo dispuesto en el artículo 84 de la Ley.
 
 Cada uno de los Consejeros presidirá al menos una Comisión.
 
@@ -557,9 +577,11 @@ Para la discusión de los proyectos de resolución que se sometan al conocimient
 
 Cuando no se obtenga la aprobación de un asunto en alguna Comisión, o bien, cuando el asunto sea de trascendencia a criterio de la Comisión o de alguno de sus Consejeros, se someterá a consideración del Pleno para su resolución.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 32.
 
-Las atribuciones de cada Comisión serán consultivas o propositivas respecto de las atribuciones contempladas en las fracciones I a XXI del artículo 81 de la Ley, y decisorias en el caso de las atribuciones delegadas en este Acuerdo.
+Las atribuciones de cada Comisión serán consultivas o propositivas respecto de las atribuciones contempladas en las fracciones I a XX y XXIV del artículo 86 de la Ley, y decisorias en el caso de las atribuciones delegadas en este Acuerdo.
 
 ###### Artículo 33.
 
@@ -581,7 +603,9 @@ VII. Firmar, conjuntamente con los demás Consejeros integrantes, con el Secreta
 
 VIII. Proponer al Secretario Técnico de la Comisión, así como al personal subalterno;
 
-IX. Otorgar licencias que no excedan de treinta días al Secretario Técnico de la Comisión y demás personal subalterno de sus respectivas Comisiones, conforme al artículo 172 de la Ley y a este Acuerdo; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+IX. Otorgar licencias que no excedan de treinta días a la o el Secretario Técnico de la Comisión y demás personal subalterno de sus respectivas Comisiones, conforme al artículo 152 de la Ley y a este Acuerdo; y
 
 X. Las demás que establezcan el Pleno, y la Comisión que preside.
 
@@ -619,7 +643,9 @@ XI. Proponer al Pleno para su aprobación, los proyectos de normativa aplicable 
 
 XII. Proponer al Pleno las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón, y remoción del personal administrativo de los órganos jurisdiccionales;
 
-XIII. Presentar al Pleno, para su aprobación, los dictámenes relativos a las licencias mayores de treinta días y de seis meses en los supuestos a que se refieren los artículos 236 y 238 de este Acuerdo, con excepción de las relativas a magistrados de Circuito y jueces de Distrito, 174 y 175 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIII. Presentar al Pleno, para su aprobación, los dictámenes relativos a las licencias mayores de treinta días y de seis meses en los supuestos a que se refieren los artículos 236 y 238 de este Acuerdo, con excepción de las relativas a las magistradas y magistrados de Circuito y las juezas y jueces de Distrito, 154 y 155 de la Ley;
 
 XIV. Proponer las medidas administrativas que exija el buen servicio de las oficinas de los órganos jurisdiccionales y áreas administrativas;
 
@@ -629,7 +655,9 @@ XV. Aprobar, en su caso, los nombramientos que le remitan las áreas administrat
 
 XVI. Opinar sobre las propuestas de nombramiento de los directores generales adscritos a la Secretaría Ejecutiva de Administración;
 
-XVII. Designar, a propuesta del Presidente, al representante del Consejo en los procesos que se substancien ante la Suprema Corte de Justicia de la Nación, de acuerdo a la fracción XX del artículo 11 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XVII. Designar, a propuesta de la o el Presidente, al representante del Consejo en los procesos que se substancien ante la Suprema Corte de Justicia de la Nación, de acuerdo a la fracción XXII del artículo 11 de la Ley;
 
 > <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -655,9 +683,9 @@ XXVI. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 24/2022 DEL PLENO DE
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 35, FRACCIÓN XXVIII, Y 222 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXVIII. Autorizar comisiones para desempeñar funciones en la Suprema Corte de Justicia de la Nación; en el Tribunal Electoral del Poder Judicial de la Federación o en el Consejo, al personal que ocupe puestos de carrera judicial comprendidos en las fracciones VIII a X del artículo 110 de la Ley, así como de mandos medios, homólogos a mandos medios y personal operativo de las áreas administrativas y de los órganos jurisdiccionales, siempre que exista la solicitud respectiva, en los términos y con los requisitos para su otorgamiento previstos en los convenios al efecto suscritos;
+XXVIII. Autorizar comisiones para desempeñar funciones en la Suprema Corte de Justicia de la Nación; en el Tribunal Electoral del Poder Judicial de la Federación o en el Consejo, al personal que ocupe puestos de carrera judicial comprendidos en las fracciones VIII a XV del artículo 10 de la Ley de Carrera Judicial, así como de mandos medios, homólogos a mandos medios y personal operativo de las áreas administrativas y de los órganos jurisdiccionales, siempre que exista la solicitud respectiva, en los términos y con los requisitos para su otorgamiento previstos en los convenios al efecto suscritos;
 
 XXIX. Autorizar los calendarios y políticas para la aplicación de incrementos salariales, modificación de tabuladores, estímulos o pagos especiales;
 
@@ -693,11 +721,17 @@ La Comisión de Adscripción tiene como función primordial, proponer al Pleno l
 
 Las atribuciones de la Comisión de Adscripción son:
 
-I. Presentar al Pleno, para su aprobación, los proyectos de resolución de primera adscripción de magistrados de Circuito o jueces de Distrito, conforme a las bases previstas en el artículo 119 de la Ley y en el Acuerdo General en el que se determinen los criterios para su adscripción y readscripción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. Presentar al Pleno, para su aprobación, los proyectos de resolución de readscripción de magistrados de Circuito y jueces de Distrito, a una competencia territorial u órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para ello, en términos del artículo 118 de la Ley;
+I. Presentar al Pleno, para su aprobación, los proyectos de resolución de primera adscripción de las y los magistrados de Circuito o las y los jueces de Distrito, conforme a las bases previstas en el artículo 65 de la Ley de Carrera Judicial y en el Acuerdo General en el que se determinen los criterios para su adscripción y readscripción;
 
-III. Presentar al Pleno los proyectos de dictamen de cambios de adscripción, readscripción y reubicación de magistrados de Circuito y jueces de Distrito;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. Presentar al Pleno, para su aprobación, los proyectos de resolución de readscripción de las y los magistrados de Circuito y las y los jueces de Distrito, a una competencia territorial u órgano de materia distinta, siempre que las necesidades del servicio así lo requieran y haya causa fundada y suficiente para ello, en términos del artículo 62 de la Ley de Carrera Judicial;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+III. Presentar al Pleno los proyectos de dictamen de cambios de adscripción, readscripción y reubicación de las magistradas y magistrados de Circuito y las juezas y jueces de Distrito;
 
 IV. Coordinar con las Comisiones de Creación de Nuevos Organos y de Carrera Judicial las acciones para determinar el número de plazas necesarias para los nuevos órganos jurisdiccionales y proponer a la Comisión de Carrera Judicial el número de plazas vacantes que deban someterse a concurso;
 
@@ -709,7 +743,9 @@ VI. Nombrar al personal subalterno que fije el presupuesto;
 
 VII. Participar en el diseño de la política informática e información estadística;
 
-VIII. Comisionar temporalmente, cuando quede sin dos magistrados un Tribunal Colegiado, a otro que se integre a éste, debiendo darse preferencia para la designación a los magistrados del propio Circuito o del más cercano, cuando esto sea posible y hacerlo del conocimiento del Pleno; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VIII. Comisionar temporalmente, cuando quede sin dos magistradas o magistrados un Tribunal Colegiado de Circuito o un Tribunal Colegiado de Apelación, a otra u otro que se integre a éste, debiendo darse preferencia para la designación a las y los magistrados del propio Circuito o del más cercano, cuando esto sea posible y hacerlo del conocimiento del Pleno; y
 
 IX. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
@@ -725,15 +761,21 @@ Son atribuciones de la Comisión de Carrera Judicial:
 
 I. Conocer y someter a consideración del Pleno los proyectos de ratificación de magistrados de Circuito y jueces de Distrito;
 
-II. Verificar la legalidad de las solicitudes de ingreso y promoción de las distintas categorías de servidores públicos que integran la carrera judicial, en los términos de las fracciones I, II y VIII a X del artículo 110 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. Verificar la legalidad de las solicitudes de ingreso y promoción de las distintas categorías de las y los servidores públicos que integran la carrera judicial, en los términos de las fracciones I, II y VIII a XV del artículo 10 de la Ley de Carrera Judicial;
 
 III. Intervenir en los concursos de oposición organizados por el Consejo, de conformidad con la normativa correspondiente;
 
 IV. Analizar las licencias mayores de treinta días que soliciten los magistrados de Circuito o jueces de Distrito y someter su dictamen a consideración del Pleno;
 
-V. Resolver las solicitudes de autorización para que los secretarios de órganos jurisdiccionales desempeñen, respectivamente, las funciones de sus titulares en las ausencias temporales de éstos, en términos de la fracción XXII del artículo 81 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VI. Resolver las consultas de magistrados de Circuito y jueces de Distrito para otorgar nombramientos a secretarios y actuarios en los casos no previstos en el Acuerdo General correspondiente, y opinar respecto del incumplimiento de los requisitos que señalen las disposiciones aplicables;
+V. Resolver las solicitudes de autorización para que las personas que se encuentren dentro de la lista a que se refiere la fracción XXI del artículo 86 de la Ley desempeñen, respectivamente, las funciones de los titulares en las ausencias temporales de éstos, en términos de la fracción XXII del ordenamiento citado;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Resolver las consultas de las y los magistrados de Circuito y las y los jueces de Distrito para otorgar nombramientos a las y los secretarios, las y los actuarios y a las y los oficiales judiciales en los casos no previstos en el Acuerdo General correspondiente, y opinar respecto del incumplimiento de los requisitos que señalen las disposiciones aplicables.
 
 VII. Convocar a reuniones de trabajo y congresos de magistrados, jueces, asociaciones profesionales e instituciones de educación superior, así como a concursos relativos a la competencia del Consejo;
 
@@ -747,7 +789,9 @@ XI. Proponer al Pleno las convocatorias para la celebración de concursos para l
 
 XII. Someter a consideración del Pleno los lineamientos para la designación de los magistrados de Circuito y jueces de Distrito que deban acudir a cursos y seminarios a nivel nacional o internacional, así como los juzgadores propuestos;
 
-XIII. Conocer y resolver las solicitudes de becas y apoyos que presenten los servidores públicos comprendidos en las fracciones I, II, y VIII a X del artículo 110 de la Ley, así como aquéllos que aspiren a ingresar a la carrera judicial;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIII. Conocer y resolver las solicitudes de becas y apoyos que presenten las personas servidoras públicas comprendidas en las fracciones I, II, y VIII a XV del artículo 10 de la Ley de Carrera Judicial, así como aquéllos que aspiren a ingresar a la carrera judicial;
 
 XIV. Celebrar convenios con instituciones académicas para promover el ingreso a la carrera judicial;
 
@@ -763,7 +807,9 @@ XVII. Aprobar las convocatorias y la lista anual de personas que puedan fungir c
 
 XVII Bis. Aprobar las convocatorias para la celebración de los concursos, así como las listas de ganadoras y ganadores para la selección de los peritos que sean adscritos a la Unidad de Peritos Judiciales;
 
-XVIII. Coordinar y supervisar el funcionamiento del Instituto de la Judicatura Federal;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XVIII. Coordinar y supervisar el funcionamiento de la Escuela Judicial;
 
 XIX. Dictaminar y remitir al Pleno, para su aprobación, las bases de la política informática;
 
@@ -861,11 +907,11 @@ Durante el desarrollo de las sesiones de la Comisión de Disciplina se tendrán 
 
 La Comisión de Disciplina tiene las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-I. Ordenar, en el ámbito de su competencia, el inicio del procedimiento de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, con excepción de los magistrados de Circuito, jueces de Distrito y del titular de la Contraloría del Poder Judicial de la Federación.
+I. Ordenar, en el ámbito de su competencia, el inicio del procedimiento de responsabilidad administrativa en contra de personas servidoras públicas adscritas a órganos jurisdiccionales y áreas administrativas, con excepción de las y los magistrados de Circuito, las y los jueces de Distrito y de la persona titular de la Contraloría del Consejo de la Judicatura Federal.
 
-Asimismo, ordenará el inicio del procedimiento de responsabilidad administrativa en contra de particulares cuando la falta atribuida los vincule a alguno de los servidores públicos señalados en el párrafo anterior o a algún procedimiento jurisdiccional o administrativo del Consejo;
+Asimismo, ordenará el inicio del procedimiento de responsabilidad administrativa en contra de particulares cuando la falta atribuida los vincule a alguna de las personas servidoras públicas señaladas en el párrafo anterior o a algún procedimiento jurisdiccional o administrativo del Consejo;
 
 > <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA EJECUCIÓN DE SANCIONES DISCIPLINARIAS, D.O.F. 2 DE AGOSTO DE 2021)</small>
 
@@ -899,7 +945,7 @@ XIV. Conocer de los acuerdos trascendentales elaborados por el Secretario Ejecut
 
 XV. Conocer de aquellos asuntos generales que sean sometidos a su consideración, cuyo trámite se estime dudoso o trascendental;
 
-XVI. Desahogar las audiencias a que se refiere el artículo 134, fracción III, de la Ley;
+XVI. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)
 
 XVII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
@@ -1051,9 +1097,11 @@ El Pleno designará, mediante acuerdo, a cuando menos dos Consejeros para que in
 
 En la primera sesión de la Comisión de Receso los Consejeros designarán al Presidente de la misma, quien en caso de empate tendrá voto de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 56.
 
-La Comisión de Receso estará facultada para conocer de los asuntos previstos en las fracciones XXII, XXIII, XXXIII, XXXIX y XL del artículo 81 de la Ley y el previsto en la fracción VIII del artículo 85 del citado ordenamiento, así como los urgentes.
+La Comisión de Receso estará facultada para conocer de los asuntos previstos en las fracciones XXI, XXII, XXIII, XXXIII, XXXIX y XL del artículo 86 de la Ley y el previsto en la fracción VIII del artículo 90 del citado ordenamiento, así como los urgentes.
 
 Asimismo, estará facultada para atender los asuntos de notoria urgencia con las atribuciones legales, normativas y reglamentarias necesarias para el manejo, operación, administración y funcionamiento del Fondo de Apoyo a la Administración de Justicia, con excepción de las previstas en el artículo 61, fracciones III y IV, del presente Acuerdo.
 
@@ -1223,7 +1271,9 @@ VIII. Proponer al Comité Técnico del Fondo de Apoyo a la Administración de Ju
 
 IX. Controlar y dar seguimiento a la información sobre los depósitos que reciba la institución de crédito que haya sido designada para tal efecto;
 
-X. Proponer al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, el grado de liquidez que deberá mantenerse para permitir la disponibilidad a que alude el artículo 248 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+X. Proponer al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, el grado de liquidez que deberá mantenerse para permitir la disponibilidad a que alude el artículo 230 de la Ley;
 
 XI. Proponer al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, con cargo a los rendimientos del Fondo de Apoyo a la Administración de Justicia, las erogaciones que sean necesarias para el mejoramiento de la administración de justicia;
 
@@ -1423,9 +1473,9 @@ VIII. Dictar las medidas de coordinación que deben darse entre las unidades adm
 
 IX. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-X. Plantear al Instituto de la Judicatura sus necesidades en materia de capacitación para el personal a su cargo;
+X. Plantear a la Escuela Judicial sus necesidades en materia de capacitación para el personal a su cargo;
 
 XI. Recibir en acuerdo ordinario a los titulares de las unidades administrativas de su adscripción y en acuerdo extraordinario a cualquier otro servidor público subalterno;
 
@@ -1461,11 +1511,13 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 La Secretaría General, las secretarías ejecutivas, las coordinaciones y las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal; de Implementación de la Reforma en materia de Justicia Laboral; de Transparencia; de Prevención y Combate al Acoso Sexual; y de Peritos Judiciales, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 70.
 
-Las ausencias del titular de la Secretaría General, secretarios ejecutivos, Contralor del Poder Judicial de la Federación, titulares de Unidad, directores generales, coordinadores, secretarios técnicos, directores de área y subdirectores de área, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias en el marco de la normatividad aplicable.
+Las ausencias de la persona titular de la Secretaría General, las y los secretarios ejecutivos, la persona titular de la Contraloría del Consejo de la Judicatura Federal, las personas titulares de Unidad, las y los directores generales, las y los coordinadores, las y los secretarios técnicos, las y los directores de área y las y los subdirectores de área, serán suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior que de ellas dependan, en los asuntos de sus respectivas competencias en el marco de la normatividad aplicable.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
 Los servidores públicos que suplan por ausencia, incorporarán una leyenda en su firma con fundamento en el presente artículo, e indicarán que actúan en suplencia por ausencia del servidor público que suplen.
 
@@ -1613,9 +1665,7 @@ V. El Secretario Ejecutivo de Vigilancia; y
 
 VI. Los demás que determine el Pleno.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
-
-Para los efectos del artículo 86, fracción I de la Ley, por Secretario Ejecutivo del Pleno y Carrera Judicial, se entenderá el Secretario Ejecutivo del Pleno.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1667,17 +1717,23 @@ XVII. Participar, conforme lo disponga el Pleno, en la elaboración de proyectos
 
 XVIII. Tramitar ante el Pleno las propuestas que haga el Presidente con respecto a nombramientos de los servidores públicos a que se refiere el artículo 18, fracción IV, del presente Acuerdo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XIX. Llevar el registro de turnos, efectuar el trámite requerido y realizar el control del archivo relativo a los recursos de revisión administrativa interpuestos en contra de resoluciones del Pleno, a que se refiere el Título Séptimo, Capítulo III, de la Ley;
+XIX. Llevar el registro de turnos, efectuar el trámite requerido y realizar el control del archivo relativo a los recursos de revisión administrativa interpuestos en contra de resoluciones del Pleno, a que se refiere el Título Cuarto, Capítulo Cuarto, de la Ley de Carrera Judicial;
 
 XX. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-XXI. Tramitar ante el Presidente del Consejo las licencias que sean de su competencia establecidas en los artículos 171 y 173 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXII. Preparar, con información proporcionada por las diversas áreas administrativas y con datos obtenidos de los acuerdos asentados en las actas de las sesiones del Pleno, el Informe Anual de Labores del Poder Judicial de la Federación que de conformidad con el artículo 14, fracción XI, de la Ley, rinde el Presidente al finalizar el segundo periodo de sesiones de cada año;
+XXI. Tramitar ante la o el Presidente del Consejo las licencias que sean de su competencia establecidas en los artículos 151 y 153 de la ley;
 
-XXIII. Recibir y presentar a consideración del Pleno los dictámenes enviados por la Comisión Substanciadora Única del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXII. Preparar, con información proporcionada por las diversas áreas administrativas y con datos obtenidos de los acuerdos asentados en las actas de las sesiones del Pleno, el Informe Anual de Labores del Poder Judicial de la Federación que de conformidad con el artículo 14, fracción XI, de la Ley, rinde la o el Presidente al finalizar el segundo periodo de sesiones de cada año;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXIII. Recibir y presentar a consideración del Pleno los dictámenes enviados por la Comisión de Conflictos Laborales del Poder Judicial de la Federación;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1885,7 +1941,9 @@ El Secretario Ejecutivo de Adscripción se encargará de auxiliar a la Comisión
 
 El titular de la Secretaría Ejecutiva de Adscripción tendrá las siguientes atribuciones:
 
-I. Elaborar los anteproyectos de bases para que los magistrados de Circuito y jueces de Distrito puedan elegir la plaza y materia del órgano de su adscripción, siempre que se trate de órganos jurisdiccionales de nueva creación, en los términos del Título Séptimo, Capítulo II, de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+I. Elaborar los anteproyectos de bases para que las y los magistrados de Circuito y las y los jueces de Distrito puedan elegir la plaza y materia del órgano de su adscripción, siempre que se trate de órganos jurisdiccionales de nueva creación, en los términos del Título Cuarto, Capítulo Segundo de la Ley de Carrera Judicial;
 
 II. Presentar ante la Comisión de Adscripción, para su dictamen y, en su caso, para la aprobación del Pleno, los anteproyectos de adscripción y readscripción de magistrados de Circuito o jueces de Distrito, cuando así lo exijan las necesidades del servicio;
 
@@ -1931,23 +1989,33 @@ El Secretario Ejecutivo de Carrera Judicial se encargará de auxiliar a la Comis
 
 La persona titular de la Secretaría Ejecutiva de Carrera Judicial tendrá las siguientes atribuciones:
 
-I. Recibir los proyectos de resoluciones o dictámenes y propuestas de acuerdos relacionados con la carrera judicial, en los términos que define el Título Séptimo de la Ley, los cuales serán turnados a la Comisión de Carrera Judicial, para su análisis y, en su caso, posterior aprobación en el Pleno;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. Revisar y comprobar que las solicitudes de ingreso y promoción de las categorías de servidores públicos previstas en las fracciones I, II y VIII a X del artículo 110 de la Ley, se apeguen a las disposiciones aplicables;
+I. Recibir los proyectos de resoluciones o dictámenes y propuestas de acuerdos relacionados con la carrera judicial, en los términos que define el Título Cuarto de la Ley de Carrera Judicial, los cuales serán turnados a la Comisión de Carrera Judicial, para su análisis y, en su caso, posterior aprobación en el Pleno;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. Revisar y comprobar que las solicitudes de ingreso y promoción de las categorías de las y los servidores públicos previstas en las fracciones I, II y VIII a XV del artículo 10 de la Ley de Carrera Judicial, se apeguen a las disposiciones aplicables;
 
 III. Elaborar los estudios que sean necesarios para el adecuado funcionamiento de los sistemas de estímulos de los servidores públicos comprendidos en el sistema de carrera judicial;
 
-IV. Elaborar los proyectos de acuerdos y convocatorias para los concursos internos de oposición y de oposición libre, así como en lo que corresponda a los exámenes de aptitud de las categorías definidas en el Título Séptimo de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+IV. Elaborar los proyectos de acuerdos y convocatorias para los concursos de las categorías definidas en el Título Segundo, Capítulo Cuarto de la Ley de Carrera Judicial;
 
 V. Participar, en coordinación con los órganos competentes, en la organización de congresos de magistrados, jueces, asociaciones profesionales representativas e instituciones de educación superior;
 
-VI. Tramitar ante la Comisión de Carrera Judicial, las solicitudes de autorización para que los secretarios de órganos jurisdiccionales desempeñen las funciones de sus titulares en las ausencias temporales de éstos, en términos de la fracción XXII del artículo 81 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Tramitar ante la Comisión de Carrera Judicial, las solicitudes de autorización para que las personas que se encuentren en la lista en términos de las fracciones XXI y XXII del artículo 86 de la Ley, desempeñen las funciones de las personas titulares en las ausencias temporales de éstos;
 
 VII. Tramitar ante la Comisión de Carrera Judicial, las solicitudes de autorización para que los magistrados de Circuito y los jueces de Distrito, en casos de ausencia de alguno de sus secretarios o actuarios, nombren a un interino, conforme a las disposiciones aplicables;
 
 VIII. Tramitar ante la Comisión de Carrera Judicial, las consultas para que los magistrados de Circuito o los jueces de Distrito otorguen nombramientos a secretarios de tribunal o de juzgado, y de actuarios judiciales, conforme a las disposiciones aplicables;
 
-IX. Tramitar ante la Comisión de Carrera Judicial las solicitudes de los magistrados de Circuito y jueces de Distrito, relativas al disfrute de períodos vacacionales a los que se refieren los artículos 159 y 160 de la Ley; y llevar el control de las autorizaciones correspondientes;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+IX. Tramitar ante la Comisión de Carrera Judicial las solicitudes de las y los magistrados de Circuito y las y los jueces de Distrito, relativas al disfrute de períodos vacacionales a los que se refieren los artículos 139 y 140 de la Ley; y llevar el control de las autorizaciones correspondientes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPUGNACIÓN DE LOS RESULTADOS DE LOS CONCURSOS DE OPOSICIÓN PARA LA DESIGNACIÓN DE MAGISTRADAS Y MAGISTRADOS DE CIRCUITO, Y JUEZAS Y JUECES DE DISTRITO, D.O.F. 2 DE ABRIL DE 2021)</small>
 
@@ -2079,9 +2147,9 @@ X. Dar seguimiento, en coordinación con las áreas administrativas correspondie
 
 XI. Evaluar el funcionamiento del órgano jurisdiccional creado, a fin de verificar si cumple con las expectativas consideradas para su instalación;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XII. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acuerdo General relativo a la integración y funcionamiento de los plenos de Circuito;
+XII. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acuerdo General relativo a la integración y funcionamiento de los Plenos Regionales;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -2121,13 +2189,15 @@ XXI. Las demás que establezcan el Pleno, y las Comisiones.
 
 La Secretaría Ejecutiva de Disciplina auxiliará a la Comisión de Disciplina con el objeto de lograr un ejercicio responsable, profesional, honorable e independiente de la función jurisdiccional, así como evitar los actos que la demeriten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 86.
 
-Son atribuciones del titular de la Secretaría Ejecutiva de Disciplina:
+Son atribuciones de la persona titular de la Secretaría Ejecutiva de Disciplina:
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-I. Substanciar los procedimientos de responsabilidad administrativa en contra de las y los servidores públicos adscritos o comisionados a órganos jurisdiccionales y a la Contraloría del Poder Judicial de la Federación, del Director General del Instituto Federal de Defensoría Pública, así como de particulares que sean de su competencia, de conformidad con las disposiciones jurídicas aplicables;
+I. Substanciar los procedimientos de responsabilidad administrativa en contra de las personas servidoras públicas adscritas o comisionadas a órganos jurisdiccionales y a la Contraloría del Consejo de la Judicatura Federal, de la o el Director General del Instituto Federal de Defensoría Pública, así como de particulares que sean de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2157,13 +2227,19 @@ VII Bis. Vigilar el cumplimiento de las multas que impongan el Pleno, la Comisi�
 
 Presidente;
 
-VIII. Realizar los trámites necesarios a fin de que se impongan las sanciones acordadas por el Pleno con apoyo en el artículo 135 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VIII. Realizar los trámites necesarios a fin de que se impongan las sanciones acordadas por el Pleno con apoyo en el artículo 115 de la Ley;
 
 IX. Certificar las copias y documentos que tenga a la vista en los procedimientos administrativos disciplinarios;
 
-X. Girar los oficios mediante los cuales se requiera el informe correspondiente a los servidores públicos del Poder Judicial de la Federación, en términos del artículo 134 de la Ley, así como las demás comunicaciones necesarias para el desahogo de las pruebas y notificaciones respectivas;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XI. Vigilar el cumplimiento de las medidas que dicten el Pleno, el Presidente o la Comisión de Disciplina, en términos de la fracción XXXVIII del artículo 81 de la Ley, para el buen servicio y la disciplina en los órganos jurisdiccionales;
+X. Girar los oficios mediante los cuales se requiera el informe correspondiente a las y los servidores públicos del Poder Judicial de la Federación, así como las demás comunicaciones necesarias para el desahogo de las pruebas y notificaciones respectivas;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XI. Vigilar el cumplimiento de las medidas que dicten el Pleno, la o el Presidente o la Comisión de Disciplina, en términos de la fracción XXXVIII del artículo 86 de la Ley, para el buen servicio y la disciplina en los órganos jurisdiccionales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -2261,9 +2337,9 @@ XVI. Resguardar los expedientes relacionados con las visitas ordinarias de inspe
 
 XVII. Elaborar los dictámenes de las actas de las visitas ordinarias de inspección y de los informes circunstanciados, y someterlos a la consideración de la Comisión de Vigilancia, así como notificar lo que dicha Comisión resuelva;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XVIII. Realizar los sorteos periódicos a que se refiere el artículo 100 de la Ley, a fin de designar a los visitadores que deben llevar a cabo las visitas ordinarias de inspección a los órganos jurisdiccionales, o la modificación de los mismos sorteos por causas supervenientes;
+XVIII. Realizar los sorteos periódicos a que se refiere el artículo 96 de la Ley, a fin de designar a las y los visitadores que deben llevar a cabo las visitas ordinarias de inspección a los órganos jurisdiccionales, o la modificación de los mismos sorteos por causas supervenientes;
 
 > <small>(REFORMADA [N. DE. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2357,9 +2433,9 @@ V. Coordinar acciones para intercambiar información con los órganos jurisdicci
 
 VI. Coordinarse con las áreas administrativas que le soliciten auxilio para el cumplimiento de su objeto y atribuciones;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de seguridad;
+VII. Plantear a la Escuela Judicial las necesidades de capacitación en materia de seguridad;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -2439,7 +2515,9 @@ IV. Elaborar y emitir opiniones técnicas en los asuntos en materia de la consol
 
 V. Proponer, analizar y dar seguimiento a los planes, programas y acciones necesarias para la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
-VI. Plantear al Instituto de la Judicatura las necesidades de capacitación para la consolidación del nuevo sistema de justicia penal;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Plantear a la Escuela Judicial las necesidades de capacitación para la consolidación del nuevo sistema de justicia penal;
 
 VII. Solicitar a las áreas administrativas, la información institucional que requiera con motivo de la consolidación del nuevo sistema de justicia penal en el Poder Judicial de la Federación;
 
@@ -2481,7 +2559,9 @@ IV. Dar seguimiento a los planes, programas y acciones necesarias para la implem
 
 V. Solicitar a las áreas administrativas del Consejo la información institucional que requiera con motivo de la implementación de la reforma en materia de justicia laboral;
 
-VI. Proponer al Instituto de la Judicatura las necesidades de capacitación para la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Proponer a la Escuela Judicial las necesidades de capacitación para la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
 
 VII. Coordinar las acciones necesarias con diversas instituciones públicas para la implementación de la reforma en materia de justicia laboral en el Poder Judicial de la Federación;
 
@@ -2627,9 +2707,11 @@ Artículo 98 Undecies. De conformidad con lo dispuesto en el artículo 103 de la
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 99.
 
-Para el ejercicio de sus funciones, el Consejo contará con los órganos auxiliares determinados en el artículo 88 de la Ley y demás disposiciones legales aplicables, a fin de propiciar una organización administrativa que permita el tratamiento especializado y eficaz de los asuntos de su competencia. Dichos órganos contarán con la estructura y personal determinado por el Pleno y el presupuesto asignado.
+Para el ejercicio de sus funciones, el Consejo contará con los órganos auxiliares determinados en el artículo 93 de la Ley y demás disposiciones legales aplicables, a fin de propiciar una organización administrativa que permita el tratamiento especializado y eficaz de los asuntos de su competencia. Dichos órganos contarán con la estructura y personal determinado por el Pleno y el presupuesto asignado.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2659,9 +2741,9 @@ VIII. Coordinar las vacaciones del personal a su cargo, autorizar los permisos e
 
 IX. Participar en la elaboración de los manuales de organización y procedimientos internos del órgano auxiliar a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-X. Plantear al Instituto de la Judicatura las necesidades de capacitación para el personal a su cargo;
+X. Plantear a la Escuela Judicial las necesidades de capacitación para el personal a su cargo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -2697,9 +2779,13 @@ Los titulares de los órganos auxiliares deberán definir, revisar y ser respons
 
 El Consejo contará con los siguientes órganos auxiliares:
 
-I. La Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. El Instituto de la Judicatura Federal;
+I. La Contraloría del Consejo de la Judicatura Federal;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. La Escuela Federal de Formación Judicial;
 
 III. El Instituto Federal de Defensoría Pública;
 
@@ -2717,23 +2803,31 @@ VI. La Visitaduría Judicial; y
 
 VII. Los demás que determine el Pleno.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 105.
 
-La Contraloría del Poder Judicial de la Federación estará a cargo de un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla.
+La Contraloría del Consejo de la Judicatura Federal estará a cargo de una persona titular, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 106.
 
-La Contraloría del Poder Judicial de la Federación tendrá a su cargo las facultades de control y fiscalización del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas administrativas y a las y los servidores públicos del Consejo, por lo que será competente para realizar las auditorías, revisiones y visitas de inspección con el propósito de verificar el cumplimiento a la normativa aplicable; así como las metas y objetivos de los programas; promover, evaluar, fortalecer y promover el buen funcionamiento del control interno; así como para iniciar, substanciar y resolver, según corresponda, los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a las áreas administrativas.
+La Contraloría del Consejo de la Judicatura Federal tendrá a su cargo las facultades de control y fiscalización del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas administrativas y a las personas servidoras públicas del Consejo, por lo que será competente para realizar las auditorías, revisiones y visitas de inspección con el propósito de verificar el cumplimiento a la normativa aplicable; así como las metas y objetivos de los programas; evaluar, fortalecer y promover el buen funcionamiento del control interno; así como para iniciar, substanciar y resolver, según corresponda, los procedimientos de responsabilidad administrativa de las personas servidoras públicas adscritas a las áreas administrativas.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 Además, llevar el registro, la verificación, seguimiento, substanciación y resolución de la situación patrimonial de las y los servidores públicos del Poder Judicial de la Federación, con excepción de quienes estén adscritos a la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 Implementar al interior del Consejo las políticas, programas y acuerdos establecidos por el Sistema Nacional Anticorrupción, de conformidad con la normatividad aplicable; y fungir como enlace de coordinación con la Secretaría Ejecutiva del Sistema Nacional Anticorrupción en los términos que establezca el Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 107.
 
-El titular de la Contraloría del Poder Judicial de la Federación tendrá las atribuciones siguientes:
+La persona titular de la Contraloría del Consejo de la Judicatura Federal tendrá las atribuciones siguientes:
 
 I. Presentar a consideración del Pleno los instrumentos normativos que se requieran para el adecuado ejercicio de sus atribuciones y facultades;
 
@@ -2841,7 +2935,9 @@ XXIV. Dirigir el Registro de Servidores Públicos y de Particulares Sancionados,
 
 XXV. Expedir copias certificadas de los documentos materia de su competencia que obren en sus archivos, de conformidad con las disposiciones aplicables, así como certificar constancias de las actuaciones que realicen en el ejercicio de sus funciones.
 
-La atribución de certificar documentos y constancias relacionadas con la competencia y atribuciones del área a su cargo en términos del párrafo anterior, podrá delegarla en los directores generales, Titulares de Unidad, adscritos a la propia Contraloría, sin perjuicio de que la ejerza directamente;
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+La atribución de certificar documentos y constancias relacionadas con la competencia y atribuciones del área a su cargo en términos del párrafo anterior, podrá delegarla en las y los directores generales, y las personas titulares de Unidad, adscritas a la propia Contraloría del Consejo de la Judicatura Federal, sin perjuicio de que la ejerza directamente;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -2855,9 +2951,11 @@ XXVII. Fungir como enlace de coordinación con la Secretaría Ejecutiva del Sist
 
 XXVIII. Las demás que establezca la Ley; el Presidente; el Pleno, y las Comisiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 108.
 
-La Contraloría del Poder Judicial de la Federación contará con las siguientes unidades administrativas:
+La Contraloría del Consejo de la Judicatura Federal contará con las siguientes unidades administrativas:
 
 I. Dirección General de Auditoría;
 
@@ -2873,23 +2971,21 @@ III. Unidad de Control Interno; y
 
 IV. Las demás que determine el Pleno.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 109.
 
-El funcionamiento del Instituto de la Judicatura se regirá por la Ley, su propio reglamento y los acuerdos generales del Pleno que le sean aplicables.
+El funcionamiento de la Escuela Judicial se regirá por la Ley, su propio reglamento y los acuerdos generales del Pleno que le sean aplicables.
 
-Corresponde al Instituto de la Judicatura auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para tal fin el Instituto podrá celebrar convenios de colaboración con instituciones públicas, privadas y sociales, informando lo conducente al Pleno.
+Corresponde a la Escuela Judicial auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de las y los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para el cumplimiento de tal fin la Escuela Judicial podrá celebrar convenios o bases de colaboración con autoridades, organismos públicos, instituciones académicas, asociaciones o entes, nacionales o internacionales, informando lo conducente al Pleno.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 109, PÁRRAFO SEGUNDO, DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES, D.O.F. 23 DE JUNIO DE 2016)</small>
+Los programas y cursos que imparta la Escuela Judicial tendrán como objeto lograr que las y los integrantes del Poder Judicial de la Federación o quienes aspiren a ingresar a éste, fortalezcan los conocimientos y habilidades necesarios para el adecuado desempeño de la función judicial y administrativa.
 
-Corresponde al Instituto de la Judicatura Federal auxiliar al Consejo en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste. Para el cumplimiento de tal fin el Instituto podrá celebrar convenios o bases de colaboración con autoridades, organismos públicos, instituciones académicas, asociaciones o entes, nacionales o internacionales, informando lo conducente al Pleno.
+Para efectos de lo relacionado con la función administrativa, la Escuela Judicial deberá elaborar y proponer al Pleno, previo visto bueno de la Comisión de Administración, el Programa Anual de Capacitación Administrativa, el cual, en su caso, tomará en consideración las necesidades que las áreas administrativas le hayan planteado.
 
-Para efectos de lo relacionado con la función administrativa, el Instituto de la Judicatura deberá elaborar y proponer al Pleno, previo visto bueno de la Comisión de Administración, el Programa Anual de Capacitación Administrativa, el cual, en su caso, tomará en consideración las necesidades que las áreas administrativas le hayan planteado.
+Las áreas administrativas brindarán el apoyo necesario a la Escuela Judicial, que se relacione con el Programa Anual de Capacitación Administrativa, en su ámbito de competencia.
 
-Las áreas administrativas brindarán el apoyo necesario al Instituto de la Judicatura, que se relacione con el Programa Anual de Capacitación Administrativa, en su ámbito de competencia.
-
-El Instituto de la Judicatura podrá auxiliar al Instituto Federal de Defensoría Pública en la ejecución de su Plan Anual de Capacitación y Estímulo.
+La Escuela Judicial podrá auxiliar al Instituto Federal de Defensoría Pública en la ejecución de su Plan Anual de Capacitación y Estímulo.
 
 ###### Artículo 109 Bis.
 
@@ -2901,15 +2997,15 @@ El Instituto Federal de Defensoría Pública se regirá conforme a la Ley, a la 
 
 El Instituto está vinculado al Consejo en lo administrativo y en lo presupuestal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RESPECTO AL TIEMPO Y FORMA DE PRESENTACIÓN DEL INFORME ANUAL DE ACTIVIDADES DEL INSTITUTO DE LA JUDICATURA; Y LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA, D.O.F. 1 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 111.
 
-El Director General del Instituto de la Judicatura presentará por escrito al Pleno, en los primeros quince días de noviembre de cada año, un informe anual de actividades, relativo al desempeño de sus funciones.
+La persona Directora o Director General de la Escuela Judicial presentará por escrito al Pleno, en los primeros quince días de noviembre de cada año, un informe anual de actividades, relativo al desempeño de sus funciones.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-El informe anual que rendirá el Director General del Instituto de la Judicatura contendrá todas las actividades que dicho Instituto haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
+El informe anual que rendirá la persona Directora o Director General de la Escuela Judicial contendrá todas las actividades que dicha Escuela Judicial haya realizado en el ámbito nacional, en materia de investigación, formación, capacitación y actualización de las y los miembros del Poder Judicial de la Federación y de quienes aspiren a pertenecer a éste.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -2995,9 +3091,11 @@ La Visitaduría Judicial se regirá por lo dispuesto en la Ley, el presente Acue
 
 La Visitaduría Judicial la integran el Visitador General, los visitadores “A” y “B”, el director general, los secretarios técnicos y demás servidores públicos que el Pleno determine.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 117.
 
-El Visitador General, además de reunir los requisitos previstos en el segundo párrafo del artículo 88 de la Ley, deberá:
+La persona Visitadora o Visitador General, además de reunir los requisitos previstos en el segundo párrafo del artículo 93 de la Ley, deberá:
 
 I. Ser magistrado de Circuito ratificado;
 
@@ -3011,9 +3109,11 @@ IV. No haber sido sancionado por falta grave por el Consejo o por la Suprema Cor
 
 El Visitador General será designado por el Pleno, a propuesta de su Presidente, durará cuatro años en el ejercicio de su encargo, prorrogables por una vez, a consideración del Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 119.
 
-El visitador judicial "A", además de reunir los requisitos previstos en el segundo párrafo del artículo 99 de la Ley, deberá:
+El visitador o visitadora judicial "A", además de reunir los requisitos previstos en el segundo párrafo del artículo 95 de la Ley, deberá:
 
 I. Ser magistrado de Circuito, ratificado en su cargo;
 
@@ -3025,9 +3125,11 @@ III. No haber sido sancionado por falta grave por el Consejo o por la Suprema Co
 
 Los visitadores judiciales "A" serán designados por el Pleno, a propuesta de su Presidente. Durarán tres años en su encargo, prorrogables por una vez, a consideración del Pleno.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 121.
 
-El visitador judicial "B" deberá reunir los requisitos previstos en el segundo párrafo del artículo 99 de la Ley.
+El visitador o visitadora judicial "B" deberá reunir los requisitos previstos en el segundo párrafo del artículo 95 de la Ley.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -3057,9 +3159,11 @@ VI. No haber sido sancionado por falta grave por instancia competente.
 
 El nombramiento y designación del director general de la Visitaduría Judicial, será aprobado por el Pleno, a propuesta del Visitador General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 125.
 
-Para ser secretario técnico de la Visitaduría Judicial, además de los requisitos previstos en el segundo párrafo del artículo 87 de la Ley, se requiere:
+Para ser Secretaria o Secretario técnico de la Visitaduría Judicial, además de los requisitos previstos en el segundo párrafo del artículo 92 de la Ley, se requiere:
 
 I. Tener título de licenciado en Derecho; y
 
@@ -3085,7 +3189,9 @@ I. Planear, programar, coordinar e implementar la práctica de las visitas ordin
 
 II. Elaborar el programa de visitas ordinarias;
 
-III. Enviar con la oportunidad debida los oficios de aviso a los titulares de los distintos órganos jurisdiccionales para que comuniquen al público lo concerniente a la visita, conforme a lo previsto por el artículo 100 de la Ley;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+III. Enviar con la oportunidad debida los oficios de aviso a las y los titulares de los distintos órganos jurisdiccionales para que comuniquen al público lo concerniente a la visita, conforme a lo previsto por el artículo 96 de la Ley;
 
 IV. Calificar los impedimentos de los visitadores judiciales "B";
 
@@ -3133,9 +3239,13 @@ XVIII. Conceder a los visitadores judiciales "B" y demás servidores públicos d
 
 XIX. Suplir las ausencias temporales de los visitadores judiciales "A" que no excedan de un mes;
 
-XX. Designar a servidores públicos que deban hacerse cargo del despacho de la Visitaduría Judicial, durante los periodos vacacionales a que se refiere el artículo 159 de la Ley, así como al personal de apoyo que al efecto estime necesario;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXI. Autorizar las vacaciones a los servidores públicos a que se refiere la fracción anterior, en los términos del artículo 159, párrafo segundo, de la Ley;
+XX. Designar a las y los servidores públicos que deban hacerse cargo del despacho de la Visitaduría Judicial, durante los periodos vacacionales a que se refiere el artículo 139 de la Ley, así como al personal de apoyo que al efecto estime necesario;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XXI. Autorizar las vacaciones a las y los servidores públicos a que se refiere la fracción anterior, en los términos del artículo 139, párrafo segundo, de la Ley;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO Y CONDUCTA DE LOS VISITADORES JUDICIALES, D.O.F. 12 DE JULIO DE 2021)</small>
 
@@ -3243,9 +3353,9 @@ IV. Realizar y coordinar, en términos de la Ley y demás disposiciones aplicabl
 
 V. Canalizar a las áreas correspondientes las peticiones que realicen los integrantes de los órganos jurisdiccionales;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VI. Recibir las quejas y denuncias que se presenten por escrito ante la Visitaduría Judicial, informar de ellas al Visitador General y remitirlas a la Secretaría Ejecutiva de Disciplina o a la Contraloría del Poder Judicial de la Federación, según corresponda;
+VI. Recibir las quejas y denuncias que se presenten por escrito ante la Visitaduría Judicial, informar de ellas a la o el Visitador General y remitirlas a la Secretaría Ejecutiva de Disciplina o a la Contraloría del Consejo de la Judicatura Federal, según corresponda;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -3397,9 +3507,9 @@ VII. Formular dictámenes, opiniones e informes que le sean requeridos, en aquel
 
 VIII. Proponer al superior jerárquico, para autorización, los nombramientos del personal a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IX. Previo acuerdo con su superior jerárquico, plantear al Instituto de la Judicatura, las necesidades de capacitación para el personal a su cargo;
+IX. Previo acuerdo con su superior jerárquico, plantear a la Escuela Judicial, las necesidades de capacitación para el personal a su cargo;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3697,7 +3807,9 @@ IV. Coordinar, en su caso, la investigación tecnológica y estudios correspondi
 
 V. Dirigir la elaboración del anteproyecto de presupuesto anual correspondiente al Plan Estratégico de Tecnologías de la Información y Comunicaciones;
 
-VI. Proponer al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Proponer a la Escuela Judicial las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CREACIÓN DE LA DIRECCIÓN GENERAL DE ESTRATEGIA Y TRANSFORMACIÓN DIGITAL, D.O.F. 29 DE JUNIO DE 2021)</small>
 
@@ -3805,7 +3917,9 @@ III del artículo 585 del Código Federal de Procedimientos Civiles;
 
 VII. Representar al Consejo en los asuntos jurídicos que le encomiende el Pleno;
 
-VIII. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VIII. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción IX del artículo 86 de la Ley, se deba suspender en sus cargos a magistradas y magistrados de Circuito y juezas y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA CREACIÓN DE LA UNIDAD DE PERITOS JUDICIALES, D.O.F. 31 DE MAYO DE 2021)</small>
 
@@ -3831,7 +3945,9 @@ XVII. Emitir dictamen respecto del apego a la normativa de las fianzas que otorg
 
 XVIII. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados en que tenga injerencia el Consejo;
 
-XIX. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión Substanciadora Única del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIX. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación;
 
 XX. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros;
 
@@ -3965,9 +4081,9 @@ V. Tramitar y dar seguimiento a los casos relacionados con derechos humanos e ig
 
 VI. Coordinar las acciones de difusión que en materia de derechos humanos, igualdad de género y asuntos internacionales determine la Coordinación de Asesores de la Presidencia;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE IGUALDAD DE GENERO, D.O.F. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VI Bis. Plantear al Instituto de la Judicatura Federal las necesidades de capacitación en materia de derechos humanos, igualdad de género y asuntos internacionales;
+VI. Bis. Plantear a la Escuela Judicial las necesidades de capacitación en materia de derechos humanos, igualdad de género y asuntos internacionales;
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
@@ -4063,9 +4179,9 @@ XII. Proponer a la Comisión de Administración, a través de la Coordinación d
 
 XIII. Colaborar con las áreas administrativas en el análisis y la elaboración de estudios que sirvan como marco de referencia para formular políticas y facilitar la toma de decisiones;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XIV. Proporcionar la asesoría y orientación necesarias para el uso y operación de los sistemas que administra, así como plantear al Instituto de la Judicatura las necesidades de capacitación en la materia;
+XIV. Proporcionar la asesoría y orientación necesarias para el uso y operación de los sistemas que administra, así como plantear a la Escuela Judicial las necesidades de capacitación en la materia;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
@@ -4139,7 +4255,9 @@ I. Participar en la elaboración de las propuestas de la normativa y los criteri
 
 II. Asesorar al Comité de Transparencia, en aquellos casos relacionados con la materia de gestión documental y administración de archivos;
 
-III. Plantear al Instituto de la Judicatura las necesidades de capacitación en gestión documental y administración de archivos;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+III. Plantear a la Escuela Judicial las necesidades de capacitación en gestión documental y administración de archivos;
 
 IV. Asesorar en materia de gestión documental y administración de archivos a los órganos jurisdiccionales y áreas administrativas del Consejo;
 
@@ -4161,7 +4279,9 @@ XI. Coordinar la elaboración del Programa Anual de Desarrollo Archivístico y s
 
 XII. Dictaminar sobre la organización y condiciones de los archivos bajo administración del Consejo, así como el estado de las instalaciones que estos ocupan, para establecer acciones de mejora y conservación;
 
-XIII. Participar en el ámbito de su competencia en los procesos de entrega y recepción de las áreas administrativas, cuando así lo determine la Contraloría del Poder Judicial de la Federación; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIII. Participar en el ámbito de su competencia en los procesos de entrega y recepción de las áreas administrativas, cuando así lo determine la Contraloría del Consejo de la Judicatura Federal; y
 
 XIV. Las demás que establezcan el Pleno y la Comisión de Administración.
 
@@ -4245,7 +4365,9 @@ IV. Elaborar estudios de vulnerabilidad del entorno físico en el que los servid
 
 V. Hacer del conocimiento del área administrativa competente las necesidades en materia de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles del Consejo, y dar seguimiento a la gestión;
 
-VI. Plantear al Instituto de la Judicatura las necesidades de capacitación de Protección Civil, para el personal del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+VI. Plantear a la Escuela Judicial las necesidades de capacitación de Protección Civil, para el personal del Poder Judicial de la Federación;
 
 VII. Elaborar la Estadística Nacional de Accidentes de Trabajo del Consejo y reportarla al ISSSTE;
 
@@ -4367,13 +4489,13 @@ XXII. Operar los cambios de rango salarial de las plazas de mandos medios; y hom
 
 XXIII. Tramitar las licencias sin goce de sueldo de los servidores públicos, previa autorización de las instancias competentes;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXIV. Informar por escrito, la improcedencia de aquellas solicitudes de licencia que no se ajusten a los artículos 166 y 167 de la Ley y a la regulación prevista en el Acuerdo General respectivo, así como de aquellas solicitudes que en materia de recursos humanos sean notoriamente improcedentes conforme a la Ley y demás acuerdos aplicables;
+XXIV. Informar por escrito, la improcedencia de aquellas solicitudes de licencia que no se ajusten a los artículos 146 y 147 de la Ley y a la regulación prevista en el Acuerdo General respectivo, así como de aquellas solicitudes que en materia de recursos humanos sean notoriamente improcedentes conforme a la Ley y demás acuerdos aplicables;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXV. Tramitar las licencias a que se refiere el artículo 167 de la Ley, para en su caso enviarlas al Pleno para su autorización;
+XXV. Tramitar las licencias a que se refiere el artículo 147 de la Ley, para en su caso enviarlas al Pleno para su autorización;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -4407,9 +4529,9 @@ XXXII. Suscribir, previo dictamen favorable y en coordinación con la Dirección
 
 XXXIII. Asesorar, tramitar y en su caso, suscribir las constancias laborales, hojas únicas de servicios, certificaciones de préstamos, registro y control de licencias médicas, afiliación, vigencia y cobranza del ISSSTE;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXXIV. Denegar las solicitudes de copias simples o certificadas de los documentos que obren en los expedientes personales bajo su resguardo, requeridos por instancias o personas distintas al Presidente, las Comisiones, los Consejeros, los secretarios ejecutivos, el Contralor del Poder Judicial de la Federación y el Visitador Judicial, con excepción de las peticiones formuladas por la Comisión Substanciadora Única del Poder Judicial de la Federación y de la Dirección General de Asuntos Jurídicos y del propio servidor público interesado;
+XXXIV. Denegar las solicitudes de copias simples o certificadas de los documentos que obren en los expedientes personales bajo su resguardo, requeridos por instancias o personas distintas a la o el Presidente, las Comisiones, las y los Consejeros, las y los secretarios ejecutivos, la persona titular de la Contraloría del Consejo de la Judicatura Federal y la o el Visitador Judicial, con excepción de las peticiones formuladas por la Comisión de Conflictos Laborales del Poder Judicial de la Federación y de la Dirección General de Asuntos Jurídicos y de la propia persona servidora pública interesada;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
 
@@ -4673,7 +4795,9 @@ III. Verificar que los recursos económicos de que dispone el Poder Judicial de 
 
 IV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-V. Elaborar y proponer al Contralor del Poder Judicial de la Federación el Programa Anual de Control y Auditoría, así como las visitas de inspección a las áreas administrativas, para someterlos a consideración del Pleno, previo análisis de la Comisión de Administración;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+V. Elaborar y proponer a la persona titular de la Contraloría del Consejo de la Judicatura Federal, el Programa Anual de Control y Auditoría, así como las visitas de inspección a las áreas administrativas, para someterlos a consideración del Pleno, previo análisis de la Comisión de Administración;
 
 VI. Coordinar y supervisar conforme al Programa Anual de Control y Auditoría, las auditorías o revisiones, así como las visitas de inspección que se requieran;
 
@@ -4705,7 +4829,9 @@ XII. Revisar las operaciones de los fideicomisos en los que participa el Consejo
 
 XIII. Realizar auditorías financieras, operacionales, administrativas, al desempeño, e integrales de las operaciones que realizan las áreas administrativas del Consejo, así como designar al personal que las practique;
 
-XIV. Llevar a cabo auditorías adicionales a las programadas, instruidas por el Contralor del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIV. Llevar a cabo auditorías adicionales a las programadas, instruidas por la persona titular de la Contraloría del Consejo de la Judicatura Federal;
 
 XV. Vigilar el cumplimiento de la normativa aplicable para la administración de los recursos humanos del Consejo;
 
@@ -4721,9 +4847,9 @@ XIX. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE
 
 XX. Identificar y proponer las normas que fortalezcan el proceso administrativo en materia de recursos humanos, adquisiciones, informática, servicios generales y obra pública;
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXI. Remitir a la autoridad correspondiente, previo acuerdo con la persona Titular de la Contraloría, el informe de presunta responsabilidad administrativa cuando del resultado de las auditorías y visitas de inspección se presuma responsabilidad administrativa y, en su caso, daño patrimonial e integrar el soporte documental correspondiente;
+XXI. Remitir a la autoridad correspondiente, previo acuerdo con la persona titular de la Contraloría del Consejo de la Judicatura Federal, el informe de presunta responsabilidad administrativa cuando del resultado de las auditorías y visitas de inspección se presuma responsabilidad administrativa y, en su caso, daño patrimonial e integrar el soporte documental correspondiente;
 
 > <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -4735,13 +4861,13 @@ XXIII. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO 
 
 XXIV. Solicitar a licitantes, proveedores, prestadores de servicios y contratistas información o documentación de las operaciones realizadas con el Consejo, como parte del cumplimiento de sus atribuciones de verificación;
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXV. Proponer a la persona Titular de la Contraloría del Poder Judicial de la Federación la contratación de auditorías externas y servicios de especialistas en materia de obra, informática y de control de calidad en adquisiciones, que se consideren necesarias para el mejor desempeño de la fiscalización; y
+XXV. Proponer a la persona titular de la Contraloría del Consejo de la Judicatura Federal, la contratación de auditorías externas y servicios de especialistas en materia de obra, informática y de control de calidad en adquisiciones, que se consideren necesarias para el mejor desempeño de la fiscalización; y
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XXVI. Las demás que establezcan el Pleno, las Comisiones y la persona Titular de la Contraloría.
+XXVI. Las demás que establezcan el Pleno, las Comisiones y la persona titular de la Contraloría del Consejo de la Judicatura Federal.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -4755,25 +4881,29 @@ La Dirección General de Substanciación, Registro y Seguimiento de la Evolució
 
 El titular de la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial tendrá las siguientes atribuciones:
 
-I. Asesorar y representar legalmente al Contralor del Poder Judicial de la Federación en los procedimientos administrativos en los que intervenga en ejercicio de sus funciones;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-II. Formular, revisar y someter a la aprobación del Contralor del Poder Judicial de la Federación los proyectos normativos que le hayan sido encargados, y proponer la normativa que se requiera para el ejercicio de sus atribuciones;
+I. Asesorar y representar legalmente a la persona titular de la Contraloría del Consejo de la Judicatura Federal en los procedimientos administrativos en los que intervenga en ejercicio de sus funciones;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+II. Formular, revisar y someter a la aprobación de la persona titular de la Contraloría del Consejo de la Judicatura Federal los proyectos normativos que le hayan sido encargados, y proponer la normativa que se requiera para el ejercicio de sus atribuciones;
 
 III. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-IV. Substanciar los procedimientos de responsabilidad administrativa, previo Informe de Presunta Responsabilidad Administrativa que emitan las áreas competentes, en los términos que establece la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas, así como proponer por conducto de la persona Titular de la Contraloría del Poder Judicial de la Federación, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
+IV. Substanciar los procedimientos de responsabilidad administrativa, previo Informe de Presunta Responsabilidad Administrativa que emitan las áreas competentes, en los términos que establece la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas, así como proponer por conducto de la persona titular de la Contraloría del Consejo de la Judicatura Federal, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-V. Presentar al titular de la Contraloría para los efectos correspondientes los dictámenes sobre la existencia de alguna irregularidad derivada de la obligación de rendir declaración de situación patrimonial por parte de los servidores públicos conforme lo que se establezca en el Acuerdo General en materia de responsabilidades administrativas;
+V. Presentar a la persona titular de la Contraloría del Consejo de la Judicatura Federal para los efectos correspondientes los dictámenes sobre la existencia de alguna irregularidad derivada de la obligación de rendir declaración de situación patrimonial por parte de las personas servidoras públicas conforme lo que se establezca en el Acuerdo General en materia de responsabilidades administrativas;
 
 VI. Llevar el registro de los servidores públicos que hayan resultado sancionados por el Pleno y por los órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Poder Judicial de la Federación, con excepción de los adscritos a la Suprema Corte de Justicia de la Nación y al Tribunal Electoral; efectuar, previa solicitud del Contralor del Poder Judicial de la Federación, la corroboración de los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten las personas servidoras públicas del Poder Judicial de la Federación, con excepción de las adscritas a la Suprema Corte de Justicia de la Nación y al Tribunal Electoral; efectuar, previa solicitud del titular de la Contraloría del Consejo de la Judicatura Federal, la corroboración de los datos asentados en las declaraciones patrimoniales presentadas por dichas personas servidoras públicas y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
 
 VIII. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)
 
@@ -4783,9 +4913,9 @@ IX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 X. Asesorar a los servidores públicos sobre el llenado de los formatos de declaración patrimonial; y a los administradores regionales foráneos para que, en auxilio del personal de la dirección, también la brinden;
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-XI. Proponer al Contralor del Poder Judicial de la Federación que haga del conocimiento del Pleno la necesidad de formular la denuncia a que se refiere el artículo 41 de la Ley General de Responsabilidades Administrativas, en los casos que proceda;
+XI. Proponer a la persona titular de la Contraloría del Consejo de la Judicatura Federal que haga del conocimiento del Pleno la necesidad de formular la denuncia a que se refiere el artículo 41 de la Ley General de Responsabilidades Administrativas, en los casos que proceda;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -4793,7 +4923,9 @@ XII. Llevar el registro interno de los bienes a que se refiere el artículo 40 d
 
 XIII. Recibir y tramitar, las inconformidades que los proveedores y contratistas presenten por actos efectuados en contravención a los procedimientos establecidos en el Acuerdo General en materia de contrataciones;
 
-XIV. Elaborar y someter a la aprobación del Contralor del Poder Judicial de la Federación el dictamen relativo a las inconformidades que los proveedores y contratistas presenten por actos efectuados en contravención a los procedimientos establecidos en el Acuerdo General en materia de contrataciones, y notificar a los interesados las resoluciones emitidas por la Comisión de Administración, relacionadas con dichas inconformidades;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+XIV. Elaborar y someter a la aprobación de la persona titular de la Contraloría del Consejo de la Judicatura Federal el dictamen relativo a las inconformidades que los proveedores y contratistas presenten por actos efectuados en contravención a los procedimientos establecidos en el Acuerdo General en materia de contrataciones, y notificar a los interesados las resoluciones emitidas por la Comisión de Administración, relacionadas con dichas inconformidades;
 
 > <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
@@ -4835,9 +4967,11 @@ VII. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO DÉCIMO. DE LOS SECRETARIOS TÉCNICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 183.
 
-Para ser Secretario Técnico se requiere reunir los requisitos previstos en el segundo párrafo del artículo 87 de la Ley.
+Para ser Secretaria o Secretario Técnico se requiere reunir los requisitos previstos en el segundo párrafo del artículo 92 de la Ley.
 
 La experiencia mínima de tres años requerida para ser Secretario Técnico, se computará a partir de la fecha en que el aspirante haya presentado su examen profesional para obtener título de Licenciado en Derecho, o en alguna materia afín a las competencias del Consejo, salvo en aquellos casos en que se satisfagan los siguientes requisitos:
 
@@ -4961,11 +5095,11 @@ La Oficialía de Partes y Certificación del Edificio Sede del Consejo funcionar
 
 Para la recepción de cualquier documentación, no será impedimento que la denominación del destinatario esté escrita incorrectamente, siempre y cuando el asunto de que trate sea competencia del Consejo.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 190 Ter.
 
-La documentación que se reciba cerrada será abierta para su turno, con excepción de la que esté dirigida a los Consejeros, a la Contraloría del Poder Judicial de la Federación, a la Unidad General de Investigación de Responsabilidades Administrativas, a las Secretarías Ejecutivas de Disciplina; de Vigilancia; así como aquella que se dirija a cualquier área administrativa que esté rotulada con las leyendas de "confidencial" o "reservada".
+La documentación que se reciba cerrada será abierta para su turno, con excepción de la que esté dirigida a las y los Consejeros, a la Contraloría del Consejo de la Judicatura Federal, a la Unidad General de Investigación de Responsabilidades Administrativas, a las Secretarías Ejecutivas de Disciplina; de Vigilancia; así como aquella que se dirija a cualquier área administrativa que esté rotulada con las leyendas de "confidencial" o "reservada".
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELACIONADO CON LA OPERACIÓN DE LA OFICIALÍA DE PARTES Y CERTIFICACIÓN DEL EDIFICIO SEDE DEL CONSEJO, D.O.F. 5 DE OCTUBRE DE 2016)</small>
 
@@ -5331,15 +5465,17 @@ Las Administraciones Regionales deberán ejercer sus atribuciones de conformidad
 
 ## TÍTULO TERCERO. DE LOS IMPEDIMENTOS
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 212.
 
-Para efectos del artículo 146 de la Ley y de este Acuerdo, se entenderá por miembros del Consejo exclusivamente a los Consejeros.
+Para efectos del artículo 126 de la Ley y de este Acuerdo, se entenderá por miembros del Consejo exclusivamente a las Consejeras y los Consejeros.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 213.
 
-Los Consejeros tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos señalados en el artículo 146 de la Ley, así como de los señalados en la Ley General de Responsabilidades Administrativas expresando concretamente en qué consiste el impedimento en la sesión en que ello ocurra, previamente a la discusión del asunto, en ese caso el Pleno o la Comisión correspondiente que conozca del asunto resolverá de plano lo conducente.
+Las y los Consejeros tienen el deber de excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos señalados en el artículo 126 de la Ley, así como de los señalados en la Ley General de Responsabilidades Administrativas expresando concretamente en qué consiste el impedimento en la sesión en que ello ocurra, previamente a la discusión del asunto, en ese caso el Pleno o la Comisión correspondiente que conozca del asunto resolverá de plano lo conducente.
 
 ###### Artículo 214.
 
@@ -5437,9 +5573,11 @@ Las licencias con o sin goce de sueldo, hasta por treinta días del Secretario G
 
 Las licencias, con o sin goce de sueldo, de los servidores públicos adscritos a ponencia, hasta por treinta días, serán otorgadas por el Consejero que corresponda; las que excedan de este término serán sometidas a consideración del Pleno.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
 ###### Artículo 233.
 
-Las licencias prejubilatorias de los servidores públicos del Poder Judicial de la Federación deberán tramitarse ante la Dirección General de Recursos Humanos. Tratándose de magistrados de Circuito y jueces de Distrito deberán ser autorizadas por el Pleno.
+Las licencias prejubilatorias de las y los servidores públicos del Poder Judicial de la Federación deberán tramitarse ante la Dirección General de Recursos Humanos. Tratándose de las y los magistrados de Circuito y las y los jueces de Distrito deberán ser autorizadas por el Pleno.
 
 ###### Artículo 234.
 
@@ -5479,25 +5617,33 @@ Para tales efectos los titulares deberán considerar que la causa por la que se 
 
 ## TÍTULO SÉPTIMO. DE LAS COMISIONES INTERINSTITUCIONALES
 
-### CAPÍTULO PRIMERO. DE LA COMISIÓN SUBSTANCIADORA ÚNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+### CAPÍTULO PRIMERO. DE LA COMISIÓN DE CONFLICTOS LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 239.
 
-La Comisión Substanciadora Única del Poder Judicial de la Federación es el órgano administrativo encargado de tramitar los conflictos de trabajo que se susciten entre el Poder Judicial de la Federación y sus servidores públicos; así como de elaborar, con absoluta independencia, los proyectos de resolución correspondientes, los que se pondrán a consideración del Pleno.
+La Comisión de Conflictos Laborales del Poder Judicial de la Federación es el órgano administrativo encargado de tramitar los conflictos de trabajo que se susciten entre el Poder Judicial de la Federación y sus personas servidoras públicas; así como de elaborar, con absoluta independencia, los proyectos de resolución correspondientes, los que se pondrán a consideración del Pleno.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 240.
 
-La Comisión Substanciadora Única del Poder Judicial de la Federación se regirá por lo dispuesto en su propio reglamento.
+La Comisión de Conflictos Laborales del Poder Judicial de la Federación se regirá por lo dispuesto en su propio reglamento.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 241.
 
-Se establece como domicilio oficial de la Comisión Substanciadora Única del Poder Judicial de la Federación, el edificio ubicado en avenida Insurgentes Sur 1888, piso 8, colonia Florida, Código Postal 01030, Delegación Álvaro Obregón, México, Distrito Federal.
+Se establece como domicilio oficial de la Comisión de Conflictos Laborales del Poder Judicial de la Federación, el edificio ubicado en Avenida Revolución número 366, piso 4, colonia San Pedro de los Pinos, código postal 03800, alcaldía Benito Juárez, Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
 ###### Artículo 242.
 
-El titular de la Secretaría Ejecutiva del Pleno suplirá las ausencias temporales del Presidente de la Comisión Substanciadora Única del Poder Judicial de la Federación.
+La persona titular de la Secretaría Ejecutiva del Pleno suplirá las ausencias temporales de la o el Presidente de la Comisión de Conflictos Laborales del Poder Judicial de la Federación.
 
 ### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE SEGURIDAD Y SALUD EN EL TRABAJO Y SUS COMISIONES AUXILIARES
 
@@ -5539,7 +5685,9 @@ VI. El Director General de Inmuebles y Mantenimiento.
 
 Los titulares de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Servicios al Personal apoyarán, en todo momento, a los integrantes de la Comisión, para lo cual podrán participar en las sesiones de la Comisión con voz pero sin voto.
 
-Adicionalmente, el titular de la Contraloría del Poder Judicial de la Federación podrá participar en las sesiones de la Comisión como invitado con voz pero sin voto.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
+
+Adicionalmente, la persona titular de la Contraloría del Consejo de la Judicatura Federal podrá participar en las sesiones de la Comisión como invitado con voz pero sin voto.
 
 ###### Artículo 248.
 
@@ -5563,9 +5711,9 @@ III. Proponer estudios que contribuyan a la prevención de siniestros y gestiona
 
 IV. Verificar el cumplimiento de los programas de mantenimiento preventivo y correctivo en los centros de trabajo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL, D.O.F. 16 DE ENERO DE 2023)</small>
 
-V. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de seguridad e higiene; así como la difusión de los distintos programas de la propia Comisión;
+V. Plantear a la Escuela Judicial las necesidades de capacitación en materia de seguridad e higiene; así como la difusión de los distintos programas de la propia Comisión;
 
 VI. Instalar, coordinar y supervisar el funcionamiento de las Comisiones Auxiliares de Seguridad y Salud en el Trabajo, a fin de detectar las necesidades en materia de Seguridad e Higiene;
 
@@ -7010,3 +7158,11 @@ DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentació
 DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
 
 DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
+
+D.O.F. 16 DE ENERO DE 2023.
+
+> <small>[N. DE E. TRANSITORIOS ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES RELATIVAS AL CAMBIO DE DENOMINACIONES DE ÁREAS ADMINISTRATIVAS Y REMISIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN Y LEY DE CARRERA JUDICIAL]</small>
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
