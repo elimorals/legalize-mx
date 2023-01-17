@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2022-05-16"
+last_updated: "2023-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -69,13 +69,19 @@ III.- ESTATUTO.- El presente Ordenamiento legal;
 
 IV.- TRIBUNAL.- El Tribunal de Arbitraje para los trabajadores al servicio de los Gobiernos del Estado, sus Municipios y organismos públicos descentralizados;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-V.- ACOSO LABORAL.- Conducta sistemática, repetida o persistente por la que, en el lugar de trabajo o en conexión con el trabajo, una persona o un grupo de personal hiere a una víctima, la humilla, ofende, amedrenta o intimida; tales como, de manera enunciativa, pero jamás limitativa las siguientes: Designar los trabajos peores o más degradantes innecesarios, monótonos o repetitivos, sin valor o utilidad alguna; designar tareas por debajo de sus cualificaciones, habilidades o competencias habituales; no asignar ningún tipo de trabajo o Exceso del mismo; ejercer presión injustificada o establecer plazos imposibles de cumplir; tácticas de desestabilización como pueden ser cambios de puesto sin previo aviso, intentos persistentes de desmoralizar o retirar ámbitos de responsabilidad sin justificación; promover o realizar aislamientos social; Restringir las posibilidades de comunicación por parte del superior o de los compañeros; traslado a un puesto de trabajo aislado; Ignorar a la persona o no dirigirle la palabra; División entre compañeros de trabajo al enfrentarlos o confrontarlos; Ataques a la vida privada de la persona. Violencia física, Gritar o insultar, mortificar a otros miembros del personal con críticas negativas incesantes o privar de responsabilidades a los trabajadores que muestren grandes competencias o aptitudes profesionales. Evaluar su trabajo de forma inequitativa o de forma sesgada. Desvalorizar sistemáticamente su esfuerzo o éxito profesional o atribuirlo (sic) otros factores o a terceros. Amplificar y dramatizar de manera injustificada errores pequeños o intrascendentes. Menospreciar o menoscabar personal o profesionalmente a la persona. Ningunear, ignorar, excluir. La descalificación en privado y en público de cualquier cosa trascendente o intrascendente que diga la persona acosada. La constante invitación a desarrollar otra actividad en otro centro de trabajo.
+V.- ACOSO LABORAL. Forma de violencia que se presenta en una serie de eventos que tienen como objetivo intimidar, excluir, opacar, aplanar, amedrentar o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico y laboral-profesional.
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+Esta se puede presentar en forma horizontal, vertical ascendente o vertical descendente, ya sea en el centro de trabajo o fuera de este siempre que esté vinculado a la relación laboral;
 
-VI.- ACOSO SEXUAL.- Cualquier comportamiento tanto físico como verbal de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona; en particular, cuando se crean un entorno laboral intimidatorio, degradante u ofensivo, esto aun y cuando no exista subordinación de la víctima.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+
+VI.- ACOSO SEXUAL. Es una forma de violencia consistente en cualquier conducta física, verbal o ambas, de naturaleza sexual o con fines lascivos, en donde si bien no existe la subordinación con la víctima, hay un ejercicio abusivo de poder, independientemente de que se realice en uno o varios eventos; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2023)</small>
+
+VII.- HOSTIGAMIENTO SEXUAL. Es una forma de violencia consistente en cualquier conducta física, verbal o ambas, de naturaleza sexual o con fines lascivos, en el ejercicio del poder, en una relación de subordinación real de la víctima frente la persona que comete la agresión en el ámbito laboral, independientemente de que se realice en uno o varios eventos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2017)</small>
 
@@ -481,9 +487,9 @@ II.- Cuando faltare por más de tres días, durante un período de treinta días
 
 III.- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas y demás objetos relacionados con el trabajo;
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-IV.- Por cometer el trabajador actos de acoso aboral (sic) o acoso sexual en contra (sic) cualquier trabajador del servicio público, dentro o fuera del centro de trabajo; debiendo en este caso seguirse el procedimiento señalado en el Artículo 29 del presente estatuto.
+IV.- Por cometer el trabajador actos de acoso laboral, hostigamiento sexual o acoso sexual en contra de cualquier trabajador del servicio público, dentro o fuera del centro de trabajo; debiendo en este caso seguirse el procedimiento señalado en el Artículo 29 del presente estatuto;
 
 V.- Por revelar los asuntos secretos o reservados de que tuviere conocimiento con motivo del trabajo;
 
@@ -577,9 +583,9 @@ III.- Reducir el Estado el Salario al trabajador;
 
 IV.- Pagar un salario inferior al mínimo general o profesional; y
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-V.- Incurrir su jefe inmediato, superior jerárquico, o colaboradores del servicio público, en actos de acoso laboral o acoso sexual, en contra del trabajador.
+V.- Incurrir su jefe inmediato, superior jerárquico o colaboradores del servicio público, en actos de acoso laboral, hostigamiento sexual o acoso sexual, en contra del trabajador.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -957,13 +963,13 @@ VII.- Sustraerse a propagandas de toda clase dentro de los edificios, lugares de
 
 VIII.- Acudir a los centros de capacitación para mejorar su preparación y eficiencia;
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-IX.- Abstenerse de realizar actos de acoso laboral o acoso sexual contra cualquier persona en el lugar de trabajo o aprovechando el desempeño de sus funciones; y
+IX.- Abstenerse de realizar actos de acoso laboral, hostigamiento sexual o acoso sexual contra cualquier persona en el lugar de trabajo o aprovechando el desempeño de sus funciones; y
 
-> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-X.- Denunciar los actos de acoso laboral o acoso sexual en el centro de trabajo o en el desempeño del servicio público.
+X.- No permitir o tolerar, así como denunciar, actos de acoso laboral, hostigamiento sexual o acoso sexual en el centro de trabajo o en el desempeño del servicio público.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2001)</small>
 
@@ -2306,3 +2312,11 @@ P.O. 16 DE MAYO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 17 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 247.- SE REFORMA EL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
