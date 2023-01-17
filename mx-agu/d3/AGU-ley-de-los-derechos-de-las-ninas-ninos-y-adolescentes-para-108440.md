@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2022-06-20"
+last_updated: "2023-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -114,6 +114,10 @@ VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
 VIII. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF o por el Sistema DIF Estatal, o por la autoridad central de (sic) país de origen de los adoptantes en el caso de una adopción internacional, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2023)</small>
+
+VIII Bis. Ciberbullying: Forma de Violencia por medio de las tecnologías digitales que puede ocurrir en las redes sociales, plataformas de mensajería, plataformas de juegos y teléfonos móviles.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -719,9 +723,35 @@ VI. La desaparición forzada de personas
 
 VII. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-VIII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-IX. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+VIII. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+
+IX. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE ENERO DE 2023)</small>
+
+X. El ciberbullying por el que la persona agresora trate de atemorizar, dañar, atormentar, amenazar, humillar, hostigar, acosar, intimidar, enfadar o molestar a las niñas, niños o adolescentes a través de cualquiera de las siguientes modalidades:
+
+a) Revelar abiertamente información sensible o personal de la víctima;
+
+b) Utilizar las cuentas de redes sociales de la víctima para publicar contenido inapropiado y con potencial de ser dañino;
+
+c) Publicar insultos, vejaciones y calumnias contra la víctima;
+
+d) Promover la práctica de relaciones sexuales para sí o con un tercero. Lo anterior construyendo una relación y una conexión emocional con la víctima a través de redes sociales, mensajes de texto, fotos o teléfono móvil;
+
+e) Publicar o promover la publicación o envío de imágenes o mensajes sexualmente explícitos y se empleen para llevar a cabo prácticas de extorsión en su contra;
+
+f) Difundir información a través de publicaciones o mensajes privados con la finalidad de arruinar la reputación de la víctima o sus relaciones con otras personas;
+
+g) Enviar constantemente mensajes o intentos de comunicación a la víctima;
+
+h) Difundir o promover la difusión de agresiones físicas grabadas en las que participe la víctima, por redes sociales, mensajes de texto o teléfono móvil con el fin de seguirle causando daño; y
+
+i) Utilizar la dirección de correo electrónico o datos personales de la víctima para suscribirla a diferentes servicios y plataformas.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -2520,3 +2550,11 @@ P.O. 20 DE JUNIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 249.- SE ADICIONA Y SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
