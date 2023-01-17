@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2023-01-02"
+last_updated: "2023-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2023.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -101,7 +101,13 @@ II.- La Secretaría de Salud del Estado de Aguascalientes;
 
 III.- El Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-IV.- Los Ayuntamientos en el ámbito de su respectiva competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2023)</small>
+
+IV.- El Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+V.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -119,15 +125,19 @@ III.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
 
 IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2023)</small>
 
-V.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
+V.- Instituto: Al Organismo Público Descentralizado denominado Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+VI.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
 
 Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
 
-VI.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
+VII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -273,21 +283,41 @@ I.- El Secretario de Salud, quien lo presidirá;
 
 II.- El Director General del Organismo o en su caso quien designe el Secretario de Salud, para que funja como Secretario Técnico;
 
-III.- El Presidente de la Comisión de Salud Pública y Asistencia Social del Congreso del Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2023)</small>
 
-IV.- El Secretario de Bienestar y Desarrollo Social;
+III.- El Director General del Instituto;
 
-V.- El Director General del Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
 
-VI.- El Delegado del Instituto Mexicano del Seguro Social;
+IV.- El Presidente de la Comisión de Salud Pública y Asistencia Social del Congreso del Estado;
 
-VII.- El Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
 
-VIII.- El Presidente del Colegio de Médicos y Cirujanos del Estado de Aguascalientes A. C.;
+V.- El Titular de la Secretaría de Desarrollo Social;
 
-IX.- El Comisionado de la Comisión Estatal de Arbitraje Médico; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
 
-X.- Los Jefes de Departamento de las carreras de Medicina y Salud Pública de la Universidad Autónoma de Aguascalientes.
+VI.- El Director General del Sistema para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+VII.- El Delegado del Instituto Mexicano del Seguro Social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+VIII.- El Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+IX.- El Presidente del Colegio de Médicos y Cirujanos del Estado de Aguascalientes A.C.;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+X.- El Comisionado de la Comisión Estatal de Arbitraje Médico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+
+XI.- Los Jefes de Departamento de las carreras de Medicina y Salud Pública de la Universidad Autónoma de Aguascalientes.
 
 Para ser Consejero se deberá estar en pleno goce eje sus derechos civiles y políticos.
 
@@ -327,7 +357,9 @@ III.- Analizar, evaluar y emitir su opinión sobre planes, programas y proyectos
 
 IV.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de servicios de salud;
 
-V.- Proponer proyectos para su incorporación al Programa Operativo Anual del Organismo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+
+V.- Proponer proyectos para su incorporación al Programa Operativo Anual del Organismo y del Instituto;
 
 VI.- Invitar especialistas en materia de salud a sus sesiones; y
 
@@ -501,9 +533,9 @@ t).- La creación de una unidad administrativa encargada de recibir, recabar, re
 
 u).- Publicar anualmente en el Periódico Oficial del Estado la relación de profesionales, técnicos y auxiliares de la salud que presten atención médica de cualquier tipo en el Estado de Aguascalientes, así como publicar permanentemente dicha relación en la página web de la Secretaría de Salud, y las actualizaciones de la misma. En las publicaciones correspondientes deberá aparecer la leyenda "Médico Oficialmente Registrado";
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal y la diabetes;
+v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la diabetes;
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
 
@@ -585,7 +617,9 @@ El Ejecutivo Estatal podrá convenir con los Ayuntamientos, con la asesoría de 
 
 Corresponde a los Ayuntamientos:
 
-I.- Asumir sus atribuciones y contribuir con el Organismo en los términos de esta Ley, de las demás que sean aplicables y de los convenios que suscriban con el Ejecutivo del Estado en la materia;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+
+I.- Asumir sus atribuciones y contribuir con el Organismo y el Instituto en los términos de esta Ley, de las demás que sean aplicables y de los convenios que suscriban con el Ejecutivo del Estado en la materia;
 
 II.- Aportar los recursos humanos, financieros y materiales necesarios para la operación de los servicios que descentralice en su favor el Gobierno del Estado;
 
@@ -1301,75 +1335,35 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ### CAPITULO VIII. La Insuficiencia Renal
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-ARTICULO 83 SEPTIES.- Las autoridades sanitarias deberán implementar las siguientes acciones para la prevención, detección oportuna y atención integral de la insuficiencia renal:
+ARTICULO 83 SEPTIES.- Corresponde al Ejecutivo del Estado de Aguascalientes, por conducto del Instituto, la Implementación de la Atención Integral de la Enfermedad Renal en el Estado de Aguascalientes, que incluye la organización, funcionamiento, investigación, prevención, consejería, detección, diagnóstico, tratamiento, control, seguimiento, evaluación y vigilancia de la enfermedad renal, conforme a lo establecido en la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes y su Reglamento Interior.
 
-I.- Realizar campañas de información sobre la insuficiencia renal, sus principales causas, factores de riesgo y métodos preventivos;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+ARTICULO 83 OCTIES.- El Instituto, en coordinación con las autoridades sanitarias, llevará a cabo acciones para la Atención Integral de la Enfermedad Renal de conformidad a lo establecido en la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
 
-II.- Desarrollar y ejecutar programas de prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+ARTICULO 83 NONIES.- El Instituto estará conformado por Junta de Gobierno, Director General, y Órgano Interno de Control y Evaluación, observando lo establecido en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y en la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes y su Reglamento Interior.
 
-III.- Realizar estudios de investigación con la finalidad de identificar las regiones con mayor índice de riesgo de enfermedades renales; y
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+ARTICULO 83 DECIES.- La Junta de Gobierno del Instituto, es el órgano máximo de decisión, consulta, evaluación y seguimiento de las acciones en materia de enfermedades renales del Estado de Aguascalientes.
 
-IV.- Recabar, censar, recibir, resguardar y supervisar información de los pacientes con enfermedades renales, que reciben tratamiento y atención médica.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
+ARTICULO 83 UNDECIES.- El Instituto podrá autorizar, expedir certificados, o cualquier otro documento, con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
 
-ARTICULO 83 OCTIES.- Con la finalidad de coadyuvar a la formulación de las políticas públicas en materia de enfermedades renales se integrará el Comité Interinstitucional de Atención a Enfermos Renales.
+I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de dichos agentes;
 
-El Comité estará integrado por los siguientes miembros:
+II.- Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
 
-I.- Un Presidente, que será el Secretario de Salud del Estado;
+III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control de la enfermedad renal, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización, Normas Oficiales Mexicanas y demás disposiciones aplicables; y
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones en materia de enfermedad renal, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley y la Ley del Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes.
 
-II.- Un Secretario Técnico, quien será designado por el Secretario de Salud del Estado, debiendo ser un médico especialista en nefrología miembro del Sistema Nacional de Investigadores, o con trayectoria en investigación en la materia;
-
-III.- El Presidente de la Comisión Legislativa de Salud Pública y Asistencia Social;
-
-IV.- El Director General del Sistema para el Desarrollo Integral de la Familia;
-
-V.- El Comisionado de la Comisión Estatal de Arbitraje Médico; y
-
-VI.- El Decano del Centro de Ciencias de la Salud de la Universidad Autónoma de Aguascalientes; y
-
-VII.- Como invitados permanentes, el Delegado del Instituto Mexicano del Seguro Social, así como el Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
-
-Por cada miembro propietario habrá un suplente, el cual no podrá ser de menor jerarquía que un jefe de departamento o su equivalente en el sector paraestatal.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
-
-ARTICULO 83 NONIES.- Los miembros enunciados en el artículo anterior participarán en el Comité con voz y voto, a excepción de los señalados en la fracción VII, quienes solamente contarán con voz. El Secretario de Salud tendrá voto de calidad en caso de empate en las decisiones tomadas.
-
-Los cargos de los integrantes del Comité serán honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
-
-ARTICULO 83 DECIES.- El Comité Interinstitucional de Atención a Enfermos Renales deberá sesionar en forma ordinaria dos veces al año, y de manera extraordinaria cuando haya asuntos urgentes que tratar.
-
-Su funcionamiento quedará establecido en el Reglamento Interior del Comité Interinstitucional de Atención a Enfermos Renales.
-
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
-
-ARTICULO 83 UNDECIES.- El Comité Interinstitucional de Atención a Enfermos Renales tendrá las siguientes atribuciones:
-
-I.- Participar y emitir opiniones para la formulación de las políticas públicas en materia de enfermos renales;
-
-II.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
-
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
-
-III.- Elaborar anualmente un informe público que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, las tasas de mortalidad y morbilidad de este, así como los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia;
-
-IV.- Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal; y
-
-V.- Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
+El Instituto podrá reconocer centros especializados, de investigación y organizaciones internacionales, federales, estatales y municipales del área de la salud pública o privada, que podrán fungir como terceros autorizados.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
@@ -1377,15 +1371,17 @@ V.- Las demás que establezcan la presente Ley, el Reglamento Interior del Comit
 
 La prevención de las enfermedades mentales tiene carácter prioritario. Se basará en el conocimiento de los factores de riesgo que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 80.
 
-Para la promoción de la salud mental, el Organismo y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, el Organismo, el Instituto y las Instituciones de Salud en coordinación con las autoridades federales, estatales y municipales competentes en cada materia, fomentarán y apoyarán:
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2020)</small>
 
 I.- El desarrollo de actividades educativas, socioculturales, recreativas, deportivas y cívicas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
@@ -1837,6 +1833,8 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 98.
 
 La investigación para la salud comprende el desarrollo de acciones que contribuyan:
@@ -1919,11 +1917,13 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ###### ARTICULO 105.
 
-El Organismo, de conformidad con la Ley de Información, Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
+La Secretaría, el Organismo y el Instituto en sus respectivas competencias, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geográfica, y con los criterios de carácter general que emita el Ejecutivo Federal, captarán, producirán y procesarán la información necesaria para el proceso de planeación, programación, presupuestación y control del Sistema Estatal de Salud, así como sobre el estado y evolución de la salud pública de la Entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 2023)</small>
+
+I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud; y
 
@@ -2067,7 +2067,7 @@ El Organismo, en coordinación con las autoridades federales y municipales compe
 
 ### CAPITULO I. Disposiciones Comunes
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
 
 ###### ARTICULO 118.
 
@@ -2091,7 +2091,9 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades munici
 
 ###### ARTICULO 120.
 
-Corresponde al Organismo en coordinación con las autoridades federales y municipales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+Corresponde al Organismo en coordinación con las autoridades internacionales, federales, estatales y municipales, respetando el ámbito de sus respectivas competencias, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+
+Corresponde al Instituto, en coordinación con las autoridades e instituciones de salud públicas o privadas, en el orden internacional, federal, estatal o municipal, respetando el ámbito de sus respectivas competencias, realizar actividades de investigación, prevención, consejería, detección, diagnóstico, tratamiento, control, seguimiento, evaluación y vigilancia de la enfermedad renal.
 
 ### CAPITULO IV. Accidentes
 
@@ -2521,9 +2523,11 @@ Los servicios de rehabilitación que proporcionen los establecimientos del Secto
 
 El Gobierno del Estado, a través del Organismo a que se refiere la Ley de Asistencia Social del Estado de Aguascalientes, y en coordinación con las dependencias y Entidades Federales y municipales, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 157.
 
-El Organismo en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
+El Organismo y el Instituto en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
 ## TITULO DECIMO TERCERO. SALUBRIDAD LOCAL
 
@@ -3075,6 +3079,8 @@ Los derechos a que se refiere esta Ley se regirán por lo que disponga la legisl
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 2023)</small>
+
 ###### ARTICULO 236.
 
 La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
@@ -3197,7 +3203,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ###### ARTICULO 251.
 
-Corresponde al Organismo y los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
+Corresponde al Organismo, Instituto y los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
 
 ###### ARTICULO 252.
 
@@ -4400,3 +4406,37 @@ P.O. 21 DE ENERO DE 2023.
 ###### ARTÍCULO UNICO.
 
 – Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 278.- SE REFORMAN LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES; Y, SE EXPIDE LA LEY DEL INSTITUTO DE ATENCIÓN INTEGRAL DE ENFERMEDADES RENALES DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. A la entrada en vigor de la presente Ley, se crea el Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes, como un Organismo Público Descentralizado de la Administración Pública Estatal, para los efectos legales a que haya lugar; abrogando y derogando todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Comité Interinstitucional de Atención a Enfermos Renales, deberá a la entrada en vigor del presente Decreto, iniciar su procedimiento de extinción y liquidación correspondiente, con la finalidad de que sea el Instituto quien ejecute lo relacionado con la enfermedad renal en términos del presente Decreto, asimismo transferirá los expedientes, asuntos, procedimientos pendientes y recursos de todo tipo a su cargo, para que sean asumidos por el Instituto, en un plazo de treinta días naturales posteriores a partir de la vigencia de este ordenamiento legal. Los acuerdos administrativos y financieros del Comité Interinstitucional de Atención a Enfermos Renales, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, en materia de enfermedades renales, serán asumidos por el Instituto conforme al presente Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado deberá nombrar al Director General, al Comisario Propietario y Suplente, Autoridad Auditora, Autoridad Investigadora y Autoridad Substanciadora y Resolutora, a más tardar dentro de los quince días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. El Gobierno del Estado proveerá de la Infraestructura y el edificio cede para la conformación y operación del Instituto, en un plazo de treinta días naturales posteriores a partir de la vigencia de este ordenamiento legal.
+
+SEXTO. El Ejecutivo del Estado de Aguascalientes proveerá al Instituto, por conducto de la Secretaría de Finanzas, de los recursos necesarios para la instalación y operación del mismo, para lo cual deberá realizar las adecuaciones y reasignaciones que sean requeridas como consecuencia del presente Decreto, considerando el Presupuesto de Egresos del Estado para el Ejercicio Fiscal del Año 2023 y rindiendo lo relativo en la Cuenta Pública del Ejercicio Fiscal 2023.
+
+Asimismo, el Ejecutivo del Estado de Aguascalientes, deberá presentar la Iniciativa de Reforma a la Ley de Ingresos del Estado de Aguascalientes para el Ejercicio Fiscal del Año 2023, en la que se incluyan los conceptos de ingresos que correspondan al Instituto, con el objeto de que el H. Congreso del Estado lo analice, discuta y en su caso apruebe.
+
+SÉPTIMO. Para el inicio de actividades del Instituto, su Junta de Gobierno deberá quedar instalada a más tardar dentro de los cuarenta y cinco días siguientes a la entrada en vigor del presente Decreto.
+
+OCTAVO. El Instituto deberá publicar el Reglamento Interior del Instituto, dentro de los sesenta días naturales posteriores al inicio de la vigencia de esta Ley.
+
+NOVENO. El Instituto, asumirá las relaciones de trabajo del personal que se le transfiera, respetando los derechos laborales que la Ley les confiere y hubiesen adquirido en su actual situación.
+
+DÉCIMO. A la entrada en vigor del presente Decreto, se realizarán por parte de la Secretaría de Salud y el Instituto de Servicios de Salud del Estado de Aguascalientes, las transferencias de personal, de recursos financieros y materiales al Instituto, con la finalidad de que sea el Instituto quien ejecute lo relacionado con la enfermedad renal en términos del presente Decreto, asimismo transferirá los expedientes, asuntos, procedimientos pendientes y recursos de todo tipo a su cargo, para que sean asumidos por el Instituto, en un plazo de treinta días naturales posteriores a partir de la vigencia de este ordenamiento legal. Los acuerdos administrativos y financieros de la Secretaría de Salud y el Instituto de Servicios de Salud del Estado de Aguascalientes, así como los compromisos, derechos y procedimientos que hubieren suscrito, contraído, adquirido o desarrollado, así como las atribuciones que otras leyes les asignen, en materia de enfermedades renales, serán asumidos por el Instituto conforme al presente Decreto.
+
+DÉCIMO PRIMERO. La transferencia de los expedientes y recursos humanos, materiales y financieros en general que correspondan al Instituto en términos de lo dispuesto en la presente Ley, se hará según lo determinen la Contraloría del Estado, la Secretaría de Finanzas y la Secretaría de Administración del Estado de Aguascalientes, de conformidad con los acuerdos administrativos que para tal efecto expidan en el ámbito de su competencia.
+
+Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura orgánica, programática y financiera, a los calendarios financieros y de metas, así como por las de recursos humanos y de activos patrimoniales según correspondan.
+
+DÉCIMO SEGUNDO. Se deberá llevar a cabo la inscripción del Instituto en los términos que establece la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, ante el Registro Público de la Propiedad y del Comercio, así mismo ante las instancias correspondientes.
+
+DÉCIMO TERCERO. Cuando esté siendo sustanciado un asunto competencia de la Secretaría de Salud del Estado de Aguascalientes o del Instituto de Servicios de Salud del Estado de Aguascalientes, con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deba ser ejercida por el Instituto, deberán transferirse los expedientes en trámite y el archivo al Instituto la cual deberá concluir dichos asuntos y dictar la resolución correspondiente, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por quien los venía despachando.
