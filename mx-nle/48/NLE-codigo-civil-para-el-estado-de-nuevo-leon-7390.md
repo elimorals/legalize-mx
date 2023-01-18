@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2022-06-10"
+last_updated: "2023-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -333,15 +333,25 @@ El estado civil es un atributo privativo de las personas físicas.
 
 Toda persona tiene el derecho y el deber de ostentar su nombre completo en los actos jurídicos en que intervenga.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2023)</small>
 
 ###### Art. 25 Bis.
 
-El nombre de las personas físicas se forma con uno o más nombres propios y los apellidos.
+El nombre propio de las personas físicas se forma con uno o más nombres propios y dos apellidos que se identificarán n (sic) como primer apellido y segundo apellido.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2023)</small>
 
-Art. 25 Bis I.- El nombre propio será puesto libremente por quien registre el nacimiento de una persona y los apellidos serán el paterno del padre y el paterno de la madre, o en su caso, sólo los de aquél o los de ésta.
+Artículo 25 bis I.- El nombre propio será puesto libremente por quien registre el nacimiento de una persona y los apellidos serán en el orden que previamente acuerden los padres, en el acta de matrimonio, si fuera el caso de que los mismos se encuentren casados.
+
+En caso de que los padres no se encontrasen casados queda expédito el derecho del padre y de la madre, previo común acuerdo, elegir el orden de los apellidos que ostentará su hijo o hija.
+
+El acuerdo tomado por los padres en el acta de matrimonio se podrá modificar en una sola ocasión desde su casamiento y hasta el momento del registro del primer nacimiento, siempre y cuando exista acuerdo de ambos padres, en caso contrario imperará el acuerdo establecido en el acta de matrimonio.
+
+En caso de no existir acuerdo respecto del orden que deben seguir los apellidos de los hijos y/o hijas a registrar, se asentará cómo primer apellido el del padre y como segundo apellido el de la madre.
+
+El orden de los apellidos elegido entre padre y madre imperará para los demás hijos e hijas del mismo vínculo.
+
+En caso de que un solo progenitor registre al hijo y/o hija y no se encontrase en los supuestos contemplados en el párrafos primero y segundo, los dos apellidos serán los de éste, en el orden que el mismo elija.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -1079,9 +1089,17 @@ La solicitud a que se refiere el artículo anterior, expresará:
 
 I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
-II.- Que no tienen impedimento legal para casarse; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2023)</small>
 
-III.- Que es su voluntad unirse en matrimonio.
+II.- El orden de los apellidos que en su caso llevarán sus hijos y/o hijas.
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+III.- Que no tienen impedimento legal para casarse; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2023)</small>
+
+IV.- Que es su voluntad unirse en matrimonio.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1107,9 +1125,17 @@ Para los indigentes, tienen obligación de expedir gratuitamente ese certificado
 
 V.- La manifestación de los pretendientes de que contraen el matrimonio bajo el régimen de sociedad conyugal o el de separación de bienes. En uno u otro caso se estará a lo dispuesto en este Código respecto a dichos regímenes patrimoniales;
 
-VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-VII.- Copia de la dispensa de impedimentos si los hubo.
+VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+VII.- Copia de la dispensa de impedimentos si los hubo; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2023)</small>
+
+VIII.- Constancia que acredite haber tomado el curso que hace referencia el artículo 149 de este código.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1159,7 +1185,9 @@ II.- La mayoría de edad de los contrayentes;
 
 III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-IV.- (DEROGADA, P.O. 8 DE ENERO DE 2018)
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+IV.- La manifestación del orden de los apellidos que, en su caso, llevarán sus hijos y/o hijas conforme lo establecido en el Artículo 25 Bis I;
 
 V.- Que no hubo impedimento para el matrimonio o que aquél se dispensó;
 
@@ -1515,6 +1543,14 @@ El matrimonio es la unión legítima de UN SOLO HOMBRE Y UNA SOLA MUJER, para pr
 
 Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2023)</small>
+
+###### Art. 147 Bis
+
+Los cónyuges están obligados a contribuir en la misma proporción a los fines del matrimonio, basándose en la cooperación y ayuda mutua. Así mismo, compartirán las responsabilidades domésticas y deberán proveer el debido cuidado y atención de descendientes, ascendientes y personas a su cargo si los hubiere.
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos y/o hijas. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+
 (NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
@@ -1523,9 +1559,9 @@ Cualquiera condición contraria a estos fines se tendrá por no puesta.
 
 Para contraer matrimonio, EL HOMBRE Y LA MUJER necesitan haber cumplido dieciocho años.
 
-###### Art. 149.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2023)</small>
 
-(DEROGADO, P.O. 8 DE ENERO DE 2018)
+Art.- 149.- Recibir por parte del Estado, a través de la Secretaría de Salud, y antes de contraer matrimonio, un curso en donde se les explique a los pretendientes los temas de planificación familiar, igualdad, equidad y violencia de género, así como del uso de métodos anticonceptivos y su derecho a utilizarlos.
 
 ###### Art. 150.
 
@@ -17812,3 +17848,17 @@ P.O. 10 DE JUNIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 141. SE ADICIONA UN ARTÍCULO 2241 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Nuevo León
+
+P.O. 18 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 264. SE REFORMA EL ARTÍCULO 25 BIS, ARTÍCULO 25 BIS 1, LAS FRACCIONES II Y III DEL ARTÍCULO 92, LA FRACCIÓN IV DEL ARTÍCULO 100, EL ARTÍCULO 149 Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 92, UNA FRACCIÓN VIII AL ARTÍCULO 94 Y UN ARTÍCULO 147 BIS TODOS DEL CÓDIGO CIVIL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de salud dispondrá de los recursos suficientes para poder cumplir con las obligaciones emanadas del presente Decreto.
+
+TERCERO.- La Secretaría de salud dispondrá de 30 días hábiles posteriores a la entrada en vigor del presente Decreto para emitir los lineamientos bajo los cuales se llevará a cabo el curso señalado en el artículo 149 de esta disposición normativa.
+
+CUARTO.- La constancia señalada en la fracción VIII del artículo 94, se comenzará a solicitar a partir de los 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO.- Toda referencia al apellido paterno y apellido materno, deberá entenderse como primer apellido y segundo apellido.
