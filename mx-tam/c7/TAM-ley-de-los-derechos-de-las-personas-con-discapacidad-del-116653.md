@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2022-12-13"
+last_updated: "2023-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -589,15 +589,19 @@ Corresponde a todas las dependencias que conforman el Sector Salud del Estado de
 
 ###### ARTÍCULO 34.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2023)</small>
 
-Para garantizar el derecho al trabajo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral, la Secretaría del Trabajo realizará las siguientes acciones:
+Para garantizar el derecho al trabajo digno de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral, la Secretaría del Trabajo realizará las siguientes acciones:
 
-I.- Promover la contratación de personas con discapacidad, en los diferentes sectores productivos y de servicios, creando para ello, programas de potencial humano, capacitación laboral de personas con discapacidad y ferias de empleo;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+I.- Promover la contratación de personas con discapacidad, atendiendo a sus competencias laborales, en los diferentes sectores productivos y de servicios, creando para ello, programas de potencial humano, capacitación laboral de personas con discapacidad y ferias de empleo;
 
 II.- Crear un sistema de colocación laboral que permita ofrecer empleo al mayor número de personas con discapacidad, promoviendo su permanencia y desarrollo en el mismo;
 
-III.- Crear un registro de empresas, industrias y comercios que contraten a personas con discapacidad, a efecto de que sean objeto de visitas de inspección para verificar la existencia fehaciente de la relación laboral;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+III.- Crear un registro de empresas, industrias y comercios con infraestructura, que contraten a personas con discapacidad, a efecto de que sean objeto de visitas de inspección para verificar la existencia fehaciente de la relación laboral, asegurando condiciones de trabajo accesibles, seguras y saludables;
 
 IV.- Proteger a las personas con discapacidad de explotación laboral o tratos denigrantes en el ámbito laboral; y
 
@@ -1426,6 +1430,14 @@ Remítase a la Comisión de Derechos Humanos del Estado de Tamaulipas, para su s
 P.O. 13 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-424 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-494 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO, Y LAS FRACCIONES I Y III, DEL ARTÍCULO 34, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
