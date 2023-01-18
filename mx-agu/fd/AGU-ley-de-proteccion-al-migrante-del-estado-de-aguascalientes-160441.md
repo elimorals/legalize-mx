@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-del-estado-de-aguascalientes-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2022-10-17"
+last_updated: "2023-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE OCTUBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -271,9 +269,17 @@ VII. Coadyuvar con el Gobierno Federal en la prevención y erradicación del tr�
 
 VIII. Formular y aplicar políticas de atención a personas migrantes, para lo cual deberán asignarse las partidas presupuestales necesarias y suficientes para su operación;
 
-IX. Dar guía, apoyo y seguimiento en los trámites de repatriación de cadáveres o restos humanos ante la Secretaría de Relaciones Exteriores, a familiares de personas migrantes fallecidas en el extranjero; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-X. Las demás que establezcan otras disposiciones legales y reglamentarias.
+IX. Dar guía, apoyo y seguimiento en los trámites de repatriación de cadáveres o restos humanos ante la Secretaría de Relaciones Exteriores, a familiares de personas migrantes fallecidas en el extranjero;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2023)</small>
+
+X. Crear y promover un Protocolo de Atención para las Personas Migrantes o en Retorno al Estado de Aguascalientes, que contemple su identificación, atención y vinculación con las instancias competentes del Estado y Municipios, para acceder de manera integral a los derechos y servicios previstos en esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2023)</small>
+
+XI. Las demás que establezcan otras disposiciones legales y reglamentarias.
 
 ###### Artículo 17.
 
@@ -509,15 +515,25 @@ IX. La persona titular del Sistema para el Desarrollo Integral de la Familia del
 
 X. La persona titular del Instituto de Capacitación para el Trabajo del Estado de Aguascalientes;
 
-XI. La persona titular de la Presidencia de la Comisión de Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales del Congreso del Estado de Aguascalientes; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-XII. Tres personas representantes de la sociedad civil organizada, dedicada a la promoción de los derechos de las personas migrantes, designadas por la persona titular del Poder Ejecutivo del Estado.
+XI. La persona titular de la Presidencia de la Comisión de Asuntos Migratorios, Relaciones Internacionales e Interinstitucionales del Congreso del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ENERO DE 2023)</small>
+
+XII. La persona Titular de la Comisión de Derechos Humanos del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE ENERO DE 2023)</small>
+
+XIII. Tres personas representantes de la sociedad civil organizada, dedicada a la promoción de los derechos de las personas migrantes, designadas por la persona titular del Poder Ejecutivo del Estado.
 
 Por cada miembro propietario se deberá nombrar una persona suplente, quien sustituirá las faltas temporales en términos del Reglamento y gozará de los mismos derechos y obligaciones que los titulares.
 
 Los cargos como integrantes de la Junta de Gobierno serán honoríficos, por lo que no gozarán de alguna compensación económica o gratificación en especie por parte del Instituto por su desempeño dentro de la misma.
 
-Los integrantes de la Junta de Gobierno a que se refieren la fracción XII del presente artículo durarán en su encargo por un período de tres años con posibilidad de reelegirse por una sola ocasión; y, los demás integrantes descritos en las fracciones de la I a la XI durarán en su encargo durante el tiempo en que se desempeñen en las funciones del cargo por el cual la integran.
+> <small>(REFORMADO, P.O. 18 DE ENERO DE 2023)</small>
+
+Los integrantes de la Junta de Gobierno a que se refieren la fracción XIII del presente artículo durarán en su encargo por un período de tres años con posibilidad de reelegirse por una sola ocasión; y, los demás integrantes descritos en las fracciones de la I a la XII durarán en su encargo durante el tiempo en que se desempeñen en las funciones del cargo por el cual la integran.
 
 ###### Artículo 35.
 
@@ -924,3 +940,13 @@ ARTURO PIÑA ALVARADO
 DIPUTADO SEGUNDO SECRETARIO
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de septiembre de 2022.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 255.- SE REFORMA Y SE ADICIONA LA LEY DE PROTECCIÓN AL MIGRANTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
