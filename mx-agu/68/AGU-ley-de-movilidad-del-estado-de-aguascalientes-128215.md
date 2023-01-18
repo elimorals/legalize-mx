@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2023-01-02"
+last_updated: "2023-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -1787,15 +1787,23 @@ V. Cuando así lo ordene la autoridad judicial; y
 
 VI. Cuando el solicitante no acredite cumplir con los requisitos establecidos en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 109.
 
-La validez de la licencia se suspenderá de uno a seis meses, en los siguientes casos:
+La validez de la licencia de conducir se suspenderá de uno a seis meses, en los siguientes casos:
 
-I. Cuando el titular sea sancionado por segunda vez en el año por conducir con aliento alcohólico o cometer alguna infracción diversa a la presente Ley conduciendo en dicho estado;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-II. Cuando el titular sea sancionado por segunda vez en el año por exceder los límites de velocidad establecidos;
+I. Cuando el titular sea sancionado por segunda vez en un período de doce meses por conducir con aliento alcohólico o cometer alguna infracción diversa a la presente Ley conduciendo en dicho estado;
 
-III. Cuando el titular sea sancionado por segunda vez en el año por alterar el orden público al conducir; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+II. Cuando el titular sea sancionado por segunda vez en un período de doce meses por exceder los límites de velocidad establecidos;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+III. Cuando el titular sea sancionado por segunda vez en un período de doce meses por alterar el orden público al conducir; y
 
 IV. En los demás casos que establezca la presente Ley.
 
@@ -1809,17 +1817,29 @@ II. Cuando el titular cause algún daño, utilizando como medio comisivo especí
 
 III. En los demás casos que establezca la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 111.
 
-Las licencias se cancelarán en los siguientes casos:
+Las licencias de conducir se cancelarán de presentarse cualquiera de los siguientes casos:
 
-I. Cuando el titular sea sancionado por segunda vez en un año por conducir en estado de ebriedad;
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+I. Cuando el titular sea sancionado por segunda vez en un período de doce meses por conducir en estado de ebriedad;
 
 II. Cuando el titular cometa una infracción a la presente Ley, bajo la influencia de estupefacientes, psicotrópicos u otras substancias tóxicas;
 
-III. Cuando al titular se le sancione en dos ocasiones con la suspensión de la licencia, en términos de los Artículos 109 y 110; y
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-IV. Cuando durante su vigencia, la autoridad que expidió la licencia, se percate que la documentación exhibida es falsa o se proporcionaron informes falsos en la solicitud correspondiente, así como cuando la documentación presente alteraciones o modificaciones visibles.
+III. Cuando al titular se le sancione por segunda vez en un período de doce meses con la suspensión de la licencia, en términos de los Artículos 109 y 110 de esta ley;
+
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
+
+IV. Cuando durante su vigencia, la autoridad que expidió la licencia, se percate que la documentación exhibida por el solicitante de la licencia es falsa o éste proporcionó informes falsos en la solicitud correspondiente, así como cuando la documentación presente alteraciones o modificaciones visibles; y
+
+> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2023)</small>
+
+V. Cuando así lo establezca una sentencia judicial, que haya causado ejecutoria.
 
 ###### ARTÍCULO 112.
 
@@ -3817,11 +3837,11 @@ La SSP y los ayuntamientos podrán implementar terminales electrónicas móviles
 
 VI. Entregar el acta de infracción a la autoridad competente para que ésta, luego de oír al interesado, si éste se presenta ante ella dentro de los cinco días hábiles siguientes o sin haberle oído por haber transcurrido el plazo, resuelva imponer la sanción. Su resolución deberá fundarse y motivarse;
 
-VII. Presentar a la persona que sea sorprendida conduciendo con aliento alcohólico o ingiriendo bebidas embriagantes durante la conducción a las instituciones de apoyo establecidas para la realización de los exámenes a que haya lugar, a fin de elaborar con los resultados que se obtengan, las boletas de infracción correspondientes.
+> <small>(REFORMADA, P.O. 18 DE ENERO DE 2023)</small>
 
-En este caso los agentes deberán impedir la circulación del vehículo y si se comprueba que el conductor se encuentra en estado de ebriedad el agente deberá remitir el vehículo al depósito vehicular.
+VII. Presentar ante las instituciones de apoyo establecidas para la realización de los exámenes a que haya lugar, a cualquier persona que sea sorprendida conduciendo con aliento alcohólico, en estado de ebriedad o bajo influjo de estupefacientes, psicotrópicos u otras substancias tóxicas, o bien por encontrarse ingiriendo bebidas embriagantes durante la conducción, a fin de elaborar con los resultados que se obtengan, las boletas de infracción correspondientes.
 
-Para el caso del párrafo anterior el vehículo no será remitido al depósito vehicular si se cuenta con alguna persona que lo conduzca en términos de esta Ley;
+En cualquiera de los casos referidos en esta fracción, los agentes deberán impedir la circulación del vehículo y si se comprueba que el conductor se encuentra con aliento alcohólico, en estado de ebriedad, o bajo el influjo de estupefacientes, psicotrópicos u otras substancias tóxicas, se remitirá el vehículo al depósito vehicular, salvo que se cuente con alguna persona que lo conduzca sin que contravenga lo dispuesto en esta Ley;
 
 VIII. Retener algún documento al levantar las infracciones, tratándose de vehículos no registrados en el Estado, hasta en tanto no se cumplan las sanciones correspondientes. En este caso, el agente deberá proceder de conformidad con lo establecido en la Fracción V de este Artículo; y
 
@@ -4038,6 +4058,10 @@ II. En caso de reincidencia será sancionado con arresto administrativo inconmut
 III. Tratándose de conductores del transporte público, bastará únicamente que las pruebas determinen que muestra aliento alcohólico o síntomas simples de estar bajo los efectos de cualquier tipo de estupefaciente para que se le aplique arresto administrativo inconmutable hasta por treinta y seis horas, y la multa señalada en la Fracción I del presente Artículo.
 
 Para la imposición de la multa, tratándose de jornaleros, obreros o trabajadores previa acreditación, se estará a lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2023)</small>
+
+Las anteriores sanciones serán impuestas independientemente de aquéllas que amerite el infractor por la comisión de cualquiera de estos hechos, de conformidad con lo establecido en la presente Ley
 
 ###### ARTÍCULO 303.
 
@@ -4870,3 +4894,11 @@ P.O. 2 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 257.- SE REFORMA Y SE ADICIONA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
