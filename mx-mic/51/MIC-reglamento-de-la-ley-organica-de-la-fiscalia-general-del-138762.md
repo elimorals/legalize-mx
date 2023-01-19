@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-138762
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-09-27"
-last_updated: "2021-06-21"
+last_updated: "2023-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MIC"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2023.
 
 Reglamento publicado en la Quinta Sección del Núm. 47 del Periódico Oficial del Estado de Michoacán, el viernes 27 de septiembre de 2019.
 
@@ -124,9 +124,11 @@ XV. al XVII. (sic)
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN DE LA FISCALÍA GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2023)</small>
+
 ###### ARTÍCULO 4.
 
-La Fiscalía General, para el ejercicio de sus atribuciones se integra por las siguientes unidades administrativas:
+La Fiscalía General, para el ejercicio de sus atribuciones se integra por las siguientes Unidades Administrativas:
 
 I. Fiscalía General:
 
@@ -498,9 +500,17 @@ c) Dirección de Programas de Justicia Restaurativa.
 
 XVIII. Instituto de Capacitación y Servicio Profesional de Carrera:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE ENERO DE 2023)</small>
+
 a) Dirección de Capacitación;
 
-b) Dirección de Servicio Profesional de Carrera;
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
+
+b) Dirección de Servicio Profesional de Carrera; y,
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+c) Dirección Académica.
 
 XIX. Centro de Justicia Integral para las Mujeres:
 
@@ -3484,6 +3494,10 @@ La Dirección de Registro y Control de Bienes Asegurados y la Unidad Técnica de
 
 El Instituto de Capacitación y Servicio Profesional de Carrera es la unidad administrativa encargada de diseñar, operar y controlar los procedimientos y requisitos para el reclutamiento, selección, evaluación inicial y continua, capacitación, actualización, especialización y promoción del personal de la Fiscalía General.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+Además de lo anterior, desarrollar actividades académicas de posgrado y de extensión académica en materias relacionadas con la procuración de justicia, y de actividades propias de la institución.
+
 ###### ARTÍCULO 110.
 
 El Instituto de Capacitación y Servicio Profesional de Carrera, tiene las atribuciones siguientes:
@@ -3508,11 +3522,45 @@ VIII. Rendir el informe de resultados obtenidos en el Programa Anual de Capacita
 
 IX. Proponer a la persona titular de la Fiscalía General el proyecto de Reglamento del Servicio Profesional de Carrera, así como los instrumentos jurídicos necesarios para su implementación y desarrollo;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2023)</small>
 
-X. Ejecutar las directrices que expida la persona titular de la Fiscalía General para la promoción, fomento de los valores cívicos y culturales; y,
+X. Ejecutar las directrices que expida la persona titular de la Fiscalía General para la promoción, fomento de los valores cívicos y culturales;
 
-XI. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ENERO DE 2023)</small>
+
+XI. Presentar al Fiscal General para su firma y formalización los títulos de las personas que hayan concluido sus estudios de posgrado;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XII. Supervisar y coordinar los planes y programas de posgrado de la institución;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XIII. Tramitar ante las instancias de educación superior el reconocimiento oficial de los programas académicos, los registros administrativos y cualquier otro que se requiera para el cumplimiento y fines de los estudios de posgrado;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XIV. Autorizar los procedimientos y modalidades de titulación de los programas de posgrado;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XV. Suscribir los certificados, diplomas, reconocimientos, constancias o cualquier otro documento relacionado con las actividades académicas que imparte el Instituto;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XVI. Proponer al Fiscal General los conceptos y montos para los trámites académicos administrativos, los criterios y porcentajes para el otorgamiento de becas;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XVII. Coordinar los programas de posgrado y establecer los mecanismos de evaluación del personal docente;
+
+> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2023)</small>
+
+XVIII. Proponer al Fiscal General, las convocatorias, criterios y procedimientos relacionados con la (sic) requisitos de inscripción, costos, y demás relacionados con la oferta académica de posgrado; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 19 DE ENERO DE 2023)</small>
+
+XIX. Las demás que le confieran las disposiciones legales vigentes y la persona titular de la Fiscalía General.
 
 La información recabada con motivo de los procedimientos de selección, ingreso y permanencia es de carácter reservado, en términos de las leyes en materia de transparencia y protección de datos personales.
 
@@ -3565,6 +3613,36 @@ VII. Ejecutar los mecanismos de evaluación de competencias que permitan los asc
 VIII. Llevar a cabo los procesos de certificación de agentes del Ministerio Público, Facilitadores, Policías de Investigación y Peritos, así como su renovación periódica; y,
 
 IX. Proponer y aplicar planes y programas en niveles de estudios y grados académicos para la profesionalización del personal de la Fiscalía General.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE ENERO DE 2023)</small>
+
+#### SECCIÓN III. DE LA DIRECCIÓN ACADÉMICA
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+###### ARTÍCULO 112 Bis.
+
+La Dirección Académica, tiene las atribuciones siguientes:
+
+I. Proponer a la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera, los planes y programas de posgrado para las personas servidoras públicas de la Fiscalía General y externas a la institución;
+
+II. Validar que los estudiantes hayan concluido y aprobado los estudios académicos para obtener su título de posgrado;
+
+III. Asistir técnicamente a la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera, ante las instancias de educación superior para el reconocimiento oficial de los programas académicos, los registros administrativos y cualquier otro que se requiera;
+
+IV. Revisar y dar seguimiento a los mecanismos, procedimientos y modalidades de titulación;
+
+V. Revisar y validar los certificados, diplomas, reconocimientos, constancias que suscriba la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera;
+
+VI. Validar las propuestas de los conceptos y montos para los trámites académicos administrativos, los criterios y porcentajes para el otorgamiento de becas, y presentarlas a la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera;
+
+VII. Verificar que la plantilla de docentes cumpla con los planes y programas académicos de posgrado;
+
+VIII. Diseñar los programas de posgrado y establecer los mecanismos de evaluación del personal docente;
+
+IX. Supervisar y proponer a la persona titular de la Dirección General del Instituto de Capacitación y Servicio Profesional de Carrera, los manuales, reglamentos, proyectos y demás normativa que regulen, desarrollen y complementen las actividades académicas de la Fiscalía General; y,
+
+X. Supervisar la publicación y difusión de las convocatorias que cumplan con los criterios y procedimientos relacionados a los requisitos de inscripción, costos y la oferta académica del posgrado.
 
 ## TÍTULO V. DE LA CONTRALORÍA DE LA FISCALÍA GENERAL
 
@@ -3999,3 +4077,17 @@ NOVENO. Se instruye a la persona titular de la Policía de Investigación, para 
 DÉCIMO. Se instruye a la persona titular de la Subcoordinación de Trámites y Servicios de la Fiscalía Coordinadora, para que elabore y proponga los mecanismos para brindar a la ciudadanía los trámites y servicios no relacionados con la investigación y persecución de los delitos.
 
 DÉCIMO PRIMERO. Se instruye a la persona titular de la Dirección General de Tecnologías de la Información, Planeación y Estadística, para que en un plazo no mayor de 90 días hábiles realice los Sistemas informáticos que se deriven de la publicación del presente Acuerdo.
+
+P.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO NO. 3/2023 POR EL QUE “SE REFORMAN: LOS INCISOS A) Y B), DE LA FRACCIÓN XVIII DEL ARTÍCULO 4; Y LAS FRACCIONES X Y XI DEL ARTÍCULO 110; SE ADICIONAN: EL INCISO C), DE LA FRACCIÓN XVIII DEL ARTÍCULO 4; UN SEGUNDO PÁRRAFO DEL ARTÍCULO 109; LAS FRACCIONES XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX DEL ARTÍCULO 110; LA SECCIÓN III DEL CAPÍTULO IV DEL TÍTULO IV; Y EL ARTÍCULO 112 BIS DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se instruye a la persona titular de la Dirección General Jurídica y de Derechos Humanos, realice las acciones necesarias para la publicación del presente Acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Notifíquese a la persona titular del Instituto de Capacitación y Servicio Profesional de Carrera para que, en el ámbito de su competencia y atribuciones realicen las acciones necesarias para el cumplimiento de las presentes disposiciones.
+
+CUARTO. Se instruye a la persona titular de la Dirección General de Administración, para que haga la asignación de los recursos humanos, financieros y materiales asignados al Instituto de Capacitación y Servicio Profesional de Carrera, en los términos del presente Acuerdo y de conformidad con las normas aplicables.
+
+QUINTO. Notifíquese a las personas titulares de la estructura orgánica de la Fiscalía General, para que, en el ámbito de sus competencias y atribuciones realicen las acciones necesarias para su conocimiento y difusión del presente Acuerdo, al personal adscrito a su cargo.
