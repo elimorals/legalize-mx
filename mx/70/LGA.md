@@ -4,7 +4,7 @@ identifier: "LGA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2018-06-15"
-last_updated: "2022-04-05"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129071&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGA"
 
 LEY GENERAL DE ARCHIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección al Número 16 del Diario Oficial de la Federación, el viernes 15 de junio de 2018.
 
@@ -308,9 +308,11 @@ La estructura del cuadro general de clasificación archivística atenderá los n
 
 Además de los instrumentos de control y consulta archivísticos, los sujetos obligados deberán contar y poner a disposición del público la Guía de archivo documental y el Índice de expedientes clasificados como reservados a que hace referencia la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en el ámbito federal y de las entidades federativas.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 15.
 
-Los sujetos obligados que son entes públicos del ámbito federal deberán donar preferentemente a la Comisión Nacional de Libros de Texto, para fines de reciclaje, y sin carga alguna el desecho de papel derivado de las bajas documentales en términos de las disposiciones jurídicas aplicables.
+Los sujetos obligados que son entes públicos del ámbito federal deberán donar únicamente a la Comisión Nacional de Libros de Texto, para fines de reciclaje, y sin carga alguna el desecho de papel derivado de las bajas documentales en términos de las disposiciones jurídicas aplicables.
 
 ###### Artículo 16.
 
@@ -1473,3 +1475,9 @@ Segundo.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto 
 Tercero.- La Oficina de la Presidencia de la República y el Archivo General de la Nación, deberán llevar a cabo los actos necesarios para la transferencia de los recursos humanos, materiales y financieros de la Coordinación de Memoria Histórica y Cultural de México en un plazo máximo de 180 días naturales contados a partir de la entrada en vigor del presente Decreto, conforme a las disposiciones jurídicas aplicables y mediante movimientos compensados, por lo que no se autorizarán ampliaciones al presupuesto del Archivo General de la Nación para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Decreto.
 
 Los Titulares de la Unidad de Administración y Finanzas de la Oficina de la Presidencia de la República y de la Dirección de Administración del Archivo General de la Nación serán Coordinadores del proceso de transferencia de los recursos mencionados en el párrafo anterior, por lo que proveerán y acordarán lo necesario para darle cumplimiento, así como de proporcionar la información necesaria para la integración de la Cuenta Pública, en el ámbito de su competencia.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 15 DE LA LEY GENERAL DE ARCHIVOS”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
