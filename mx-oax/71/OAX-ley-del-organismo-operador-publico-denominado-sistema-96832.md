@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-organismo-operador-publico-denominado-sistema-96832"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-28"
-last_updated: "2023-01-05"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SISTEMA OPERADOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA -ANTES- LEY DEL ORGANISMO OPERADOR PUBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ENERO DE 2023 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL ORGANISMO OPERADOR PÚBLICO DENOMINADO SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE ENERO DE 2023.]</small>
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 28 de noviembre de 2013.
 
@@ -133,21 +133,21 @@ XIX. Sustituir o rehabilitar de manera inmediata las tapas de alcantarillado fal
 
 XX. Las demás que señale el Reglamento de la presente Ley y las disposiciones normativas de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
 ###### ARTÍCULO 4.
 
-El patrimonio del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se integrará:
+El patrimonio del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, se integrará:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-I. Con todos los bienes muebles e inmuebles, usos, frutos, derechos, títulos de concesión de explotación de aguas nacionales, permisos de descargas a cuerpos receptores y servidumbres de paso que actualmente formen parte de la Administración Directa de Obras y Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
+I. Con todos los bienes muebles e inmuebles, usos, frutos, derechos, títulos de concesión de explotación de aguas nacionales, permisos de descargas a cuerpos receptores y servidumbres de paso que actualmente formen parte del Sistema Operador de los Servicios de Agua potable y Alcantarillado SOAPA;
 
 II. Con los rendimientos de sus bienes;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-III. Con la infraestructura hidráulica, sanitaria y de saneamiento que actualmente formen parte de la Administración Directa de Obras Sistema Operador de los Servicios de Agua Potable y Alcantarillado de la Ciudad de Oaxaca ADOSAPACO;
+III. Con la infraestructura hidráulica, sanitaria y de saneamiento que actualmente formen parte del Sistema Operador de los Servicios de Agua Potable y Alcantarillado SOAPA;
 
 IV. Las aportaciones que perciban del Municipio de Oaxaca de Juárez y de aquellos municipios en que así se determine en los convenios y contratos que se suscriban;
 
@@ -267,23 +267,23 @@ En las sesiones del Consejo de Administración se levantará acta circunstanciad
 
 Podrán ser invitados a las sesiones del Consejo de Administración, con voz pero sin voto, algunos de los representantes de organizaciones públicas, privadas o sociales, con actividades afines o intereses de carácter general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
 ###### ARTÍCULO 9.
 
-El Director General del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será nombrado y removido libremente por el Gobernador Constitucional del Estado, y tendrá las siguientes facultades y obligaciones:
+El Director General del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, será nombrado y removido libremente por el Gobernador Constitucional del Estado, y tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-I. Tener la representación legal del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
+I. Tener la representación legal del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-II. Coordinar las actividades técnicas, administrativas y financieras del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para lograr una mayor eficiencia, eficacia y economía del mismo;
+II. Coordinar las actividades técnicas, administrativas y financieras del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, para lograr una mayor eficiencia, eficacia y economía del mismo;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-III. Celebrar actos jurídicos de dominio y de administración que sean necesarios para el funcionamiento del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+III. Celebrar actos jurídicos de dominio y de administración que sean necesarios para el funcionamiento del Organismo Operador Público Denominado Sistema Operador de los Servidos de Agua Potable y Alcantarillado;
 
 IV. Suscribir convenios y contratos conforme a las leyes y reglamentos de la materia, para la ejecución de las obras autorizadas, así como para realizar las actividades que se requieran para lograr que cumplan con su objeto;
 
@@ -291,15 +291,15 @@ V. Autorizar las erogaciones ordinarias con cargo al presupuesto, y someter a la
 
 VI. Ejecutar los acuerdos que dicte el Consejo de Administración;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-VII. Proponer ante el Consejo de Administración el Reglamento Interior del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como las modificaciones al mismo;
+VII. Proponer ante el Consejo de Administración el Reglamento Interior del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, así como las modificaciones al mismo;
 
 VIII. Ordenar y vigilar que se practiquen en todos los sistemas hidráulicos que administre, en forma regular, muestreos y análisis del agua; llevar estadísticas de sus resultados, tomando las medidas adecuadas para mejorar la calidad del agua que se distribuye a la población, y de la que una vez utilizada, se vierte a los cauces destinados para tal efecto;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-IX. Establecer relaciones de coordinación con autoridades federales, estatales o municipales y con toda clase de instituciones políticas, educativas, sociales, públicas o privadas; para el trámite y atención de asuntos de interés del sector en los que se involucre la competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+IX. Establecer relaciones de coordinación con autoridades federales, estatales o municipales y con toda clase de instituciones políticas, educativas, sociales, públicas o privadas; para el trámite y atención de asuntos de interés del sector en los que se involucre la competencia del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 X. Asistir a las sesiones del Consejo de Administración en calidad de Secretario Técnico del mismo, con voz pero sin voto;
 
@@ -307,37 +307,37 @@ XI. Nombrar y remover libremente a los servidores públicos de confianza que ocu
 
 XII. Formular los planes, programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XIII. Formular el programa de mejora continua de la gestión pública del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XIII. Formular el programa de mejora continua de la gestión pública del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XIV. Administrar y establecer los instrumentos y procedimientos que permitan que los procesos de trabajo se realicen de manera eficiente y eficaz;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XV. Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XVI. Establecer los sistemas de registro, control y evaluación necesarios para alcanzar las metas y objetivos propuestos;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XVII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de los servicios del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XVII. Establecer sistemas eficientes para la administración del personal, de los recursos financieros y de los materiales que aseguren la prestación de los servicios del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XVIII. Establecer un sistema de indicadores que permita evaluar la gestión del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XVIII. Establecer un sistema de indicadores que permita evaluar la gestión del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XIX. Presentar periódicamente al Consejo de Administración el informe del desempeño de las actividades del Organismo Operador Publico Denominado Servicios de Agua Potable y Alcantarillado de Oaxaca;
+XIX. Presentar periódicamente al Consejo de Administración el informe del desempeño de las actividades del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XX. Establecer los mecanismos de autoevaluación, de acción y procedimientos para alcanzar la meta del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Consejo y escuchando al Comisario;
+XX. Establecer los mecanismos de autoevaluación, de acción y procedimientos para alcanzar la meta del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, y presentar al Consejo de Administración por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente acuerde con el Consejo y escuchando el Comisario;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XXI. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XXI. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XXII. Formular querellas y otorgar perdón legal, previa autorización del Consejo de Administración;
 
@@ -345,9 +345,9 @@ XXIII. Ejercitar y desistirse de acciones administrativas y judiciales, inclusiv
 
 XXIV. Comprometer asuntos de arbitraje y celebrar transacciones, previa autorización del Consejo de Administración;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XXV. Otorgar a los abogados adscritos al área jurídica del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, poderes especiales o generales para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales para actos de dominio y administración;
+XXV. Otorgar a los abogados adscritos al área jurídica del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, poderes especiales o generales para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales para actos de dominio y administración;
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -355,9 +355,9 @@ XXVI. Delegar sus facultades al titular del área jurídica previo acuerdo que d
 
 XXVII. Sustituir y revocar poderes generales o especiales;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XXVIII. Realizar los estudios previos necesarios, que fundamenten y permitan la elaboración de cuotas y tarifas apropiadas para la prestación de los servicios públicos del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, mismos que deberá someterlos a la aprobación del Consejo de Administración;
+XXVIII. Realizar los estudios previos necesarios, que fundamenten y permitan la elaboración de cuotas y tarifas apropiadas para la prestación de los servicios públicos del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado, mismos que deberá someterlos a la aprobación del Consejo de Administración;
 
 XXIX. Determinar y liquidar créditos fiscales con sus accesorios respectivos e imponer multas y en su caso hacerlos efectivos mediante el Procedimiento Administrativo de Ejecución;
 
@@ -365,15 +365,15 @@ Para lo anterior se aplicará de manera supletoria a esta Ley el Código Fiscal 
 
 XXX. Elaborar y mantener actualizado el padrón de usuarios de los servicios a su cargo;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XXXI. Realizar las acciones conducentes a la ejecución de programas estatales y federalizados y todas aquellas inherentes al cumplimiento del objeto del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
+XXXI. Realizar las acciones conducentes a la ejecución de programas estatales y federalizados y todas aquellas inherentes al cumplimiento del objeto del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado;
 
 XXXII. Desarrollar acciones que conlleven al uso eficiente del agua, así como de la infraestructura existente, procurando que los usuarios eviten el desperdicio de la misma;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2023)</small>
+(REFORMADA, P.O. 5 DE ENERO DE 2023) (F. DE E., P.O. 19 DE ENERO DE 2023)
 
-XXXIII. Aplicar las sanciones por las infracciones que cometan los usuarios y que sean competencia del Organismo Operador Publico Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y su zona metropolitana, mismas que se detallarán en el Reglamento de la Presente Ley;
+XXXIII. Aplicar las sanciones por las infracciones que cometan los usuarios y que sean competencia del Organismo Operador Público Denominado Sistema Operador de los Servicios de Agua Potable y Alcantarillado y su zona metropolitana, mismas que se detallarán en el Reglamento de la Presente Ley;
 
 XXXIV. Certificar al personal capacitado, en las áreas de construcción de redes de agua potable, drenaje y alcantarillado; y
 
