@@ -4,7 +4,7 @@ identifier: "LSPM"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-24"
-last_updated: "2018-05-31"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=307&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSPM"
 
 LEY DEL SERVICIO POSTAL MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 24 de diciembre de 1986.
 
@@ -172,7 +172,9 @@ Queda prohibida la circulación por correo de los siguientes envíos y correspon
 
 I.- Los cerrados que en su envoltura y los abiertos que por su texto, forma, mecanismo o aplicación sean contrarios a la Ley, a la moral o a las buenas costumbres.
 
-II.- Los que contengan materias corrosivas, inflamables, explosivas o cualquiera otras que puedan causar daños.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
+
+II.- Los que contengan materias corrosivas, inflamables, explosivas o cualquier otra que puedan causar daños.
 
 III.- Los que contengan objetos de fácil descomposición o con mal olor.
 
@@ -183,6 +185,10 @@ V.- Los que sean ofensivos o denigrantes para la Nación.
 VI.- Los que contengan billetes o anuncios de loterías extranjeras y, en general, de juegos prohibidos como texto principal. Si se trata de envíos o correspondencia internacional se estará a lo dispuesto por el Artículo 29.
 
 VII.- Los que contengan animales vivos.
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2023)</small>
+
+VIII.- Los que contengan sustancias ilegales, psicotrópicos o estupefacientes.
 
 ###### ARTICULO 16.
 
@@ -621,3 +627,9 @@ D.O.F. 31 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4o. DE LA LEY DEL SERVICIO POSTAL MEXICANO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 15 DE LA LEY DEL SERVICIO POSTAL MEXICANO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
