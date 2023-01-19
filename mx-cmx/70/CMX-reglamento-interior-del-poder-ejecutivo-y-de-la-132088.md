@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2022-08-15"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE AGOSTO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2023.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -7984,9 +7982,39 @@ XXXIV. Desarrollar programas y acciones de sensibilización y concientización d
 
 XXXV. Coordinar el establecimiento y ejecución de la normatividad correspondiente, para conservar y promover las Zonas Patrimonio Mundial de la Humanidad;
 
-XXXVI. Convocar a organizaciones científicas, académicas y especializadas, para que le auxilien en el ejercicio de sus funciones; y
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXXVI. Convocar a organizaciones científicas, académicas y especializadas, para que le auxilien en el ejercicio de sus funciones;
 
 XXXVII. Promover donaciones ante las instancias correspondientes, para obtener recursos que coadyuven en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXXVIII. Recibir, tramitar, atender, denuncias ciudadanas y en su caso, formular ante la autoridad que corresponda, las denuncias en materia ambiental, relacionadas con el suelo de conservación y áreas naturales protegidas, así como por actos u omisiones que pudieran constituir infracciones, delitos y/o ecocidios, competencia de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXXIX. Establecer, coordinar, ordenar y ejecutar, de conformidad con la normativa aplicable en materia ambiental para la Ciudad de México, los actos de control, supervisión, verificación, inspección, y vigilancia ambientales (sic) en suelo de conservación y áreas naturales protegidas competencia de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XL. Iniciar, tramitar y resolver los procedimientos administrativos derivados de los actos de inspección y vigilancia en el suelo de conservación y áreas naturales protegidas, competencia de la Ciudad de México por probables infracciones e incumplimientos a la normativa ambiental aplicable;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XLI. Imponer las medidas de seguridad, correctivas o de urgente aplicación que sean necesarias, así como las sanciones procedentes por el incumplimiento a la normativa ambiental aplicable en suelo de conservación y las áreas naturales protegidas, competencia de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XLII. Inspeccionar vehículos en tránsito que transporten materias primas forestales maderables y no maderables en suelo de conservación y áreas naturales protegidas, a fin de verificar su legal tenencia y el origen de éstas;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XLIII. Realizar la capacitación, certificación y acreditación de las y los inspectores y vigilantes ambientales en el suelo de conservación y áreas naturales protegidas competencia de la Ciudad de México, adscritos a la Secretaría del Medio Ambiente; y
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XLIV. Suscribir los documentos, contratos, convenios y demás instrumentos jurídicos necesarios para el ejercicio de sus atribuciones.
 
 ###### Artículo 189.
 
@@ -8162,7 +8190,9 @@ I. Coordinar las estrategias y acciones de inspección y vigilancia para acredit
 
 II. Coordinar y operar los sistemas de vigilancia y de video-vigilancia ambiental en suelo urbano, suelo de conservación, áreas de valor ambiental y áreas naturales protegidas competencia de la Ciudad de México, para verificar el cumplimiento de las disposiciones jurídicas aplicables en materia ambiental de competencia local;
 
-III. Establecer, coordinar, ordenar y ejecutar de conformidad con la normatividad aplicable en materia ambiental para la Ciudad de México, los actos de control, supervisión, verificación, inspección, y vigilancia ambientales e imponer medidas correctivas de urgente aplicación y de seguridad, así como aplicar las sanciones previstas en las disposiciones jurídicas de la materia;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+III. Establecer, coordinar, ordenar y ejecutar, de conformidad con la normativa aplicable en materia ambiental competencia de la Ciudad de México, los actos de control, supervisión, verificación, inspección, y vigilancia ambientales (sic) e imponer medidas correctivas de urgente aplicación y de seguridad, así cómo aplicar las sanciones previstas en las disposiciones jurídicas de la materia en suelo urbano y áreas de valor ambiental;
 
 IV. Vigilar y aplicar, en el ámbito de la competencia de la Ciudad de México, la observancia de las normas oficiales mexicanas en materia de medio ambiente y recursos naturales, así como de las normas ambientales para la Ciudad de México;
 
@@ -8188,7 +8218,9 @@ XIV. Coordinar y operar la inspección y vigilancia en materia de impacto ambien
 
 XV. Coordinar la inspección y vigilancia de las actividades relacionadas con la poda, trasplante y derribo de arbolado en suelo urbano de conformidad con la normatividad aplicable para la Ciudad de México;
 
-XVI. Iniciar, tramitar y resolver los procedimientos administrativos derivados de los actos de inspección y vigilancia que impliquen infracciones e incumplimientos a la normatividad ambiental aplicable en la Ciudad de México, e imponer en su caso, las medidas de seguridad, correctivas o de urgente aplicación que sean necesarias, así como las sanciones procedentes;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XVI. Iniciar, tramitar y resolver los procedimientos administrativos derivados de los actos de inspección y vigilancia, materia de su competencia, que impliquen infracciones e incumplimientos a la normativa ambiental aplicable en la Ciudad de México, e imponer en su caso, las medidas de seguridad, correctivas o de urgente aplicación que sean necesarias, así como las sanciones procedentes;
 
 XVII. Participar de manera interinstitucional en las acciones necesarias para la inspección y vigilancia del uso, destino y cambio de uso de suelo en áreas de valor ambiental, suelo de conservación y áreas naturales protegidas de la Ciudad de México;
 
@@ -8202,11 +8234,15 @@ XXI. Vigilar en áreas naturales protegidas, zonas rurales y boscosas, el cumpli
 
 XXII. Recibir, tramitar y proporcionar informes sobre las solicitudes de inspección por parte de la Procuraduría Ambiental y del Ordenamiento Territorial de la Ciudad de México cuando se trate de denuncias Ciudadanas en contra de presuntas fuentes fijas y móviles que emitan contaminantes hacia la atmósfera, al agua, suelo, subsuelo, o cuerpos de aguas, y cambio de uso de suelo;
 
-XXIII. Inspeccionar vehículos en tránsito que transporten materias primas forestales maderables y no maderables, a fin de verificar su legal tenencia y el origen de éstas, en coordinación con autoridades competentes de la Procuraduría Federal de Protección al Ambiente;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXIII. Inspeccionar vehículos en tránsito que transporten materias primas forestales maderables y no maderables, en suelo urbano y áreas de valor ambiental a fin de verificar su legal tenencia y el origen de éstas;
 
 XXIV. Promover y otorgar, en coordinación con las Dependencias competentes, asistencia técnica y cursos de capacitación sobre la protección, inspección y vigilancia de los recursos naturales de la Ciudad de México;
 
-XXV. Realizar la capacitación, certificación y acreditación de los inspectores y ecoguardas ambientales adscritos a la Secretaría y de las Alcaldías;
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXV. Realizar la capacitación, certificación y acreditación de los inspectores y ecoguardas ambientales en suelo urbano y áreas de valor ambiental, adscritos a la Secretaría y de las Alcaldías;
 
 XXVI. Denunciar y colaborar con las autoridades competentes cuando, derivado del ejercicio de sus atribuciones, se tenga conocimiento de un hecho u omisión que pudiera constituir delito de conformidad con la normatividad aplicable en la materia;
 
@@ -8216,7 +8252,9 @@ XXVIII. Suscribir los documentos y demás actos jurídicos necesarios para el ej
 
 XXIX. Substanciar y resolver los recursos administrativos que en ejercicio de sus atribuciones y conforme a las disposiciones jurídicas deba conocer;
 
-XXX. Atender y dar seguimiento a las denuncias Ciudadanas de conformidad con la normatividad aplicable en la materia; y
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2023)</small>
+
+XXX. Recibir, tramitar, atender, denuncias ciudadanas y en su caso, formular ante la autoridad que corresponda, las denuncias en materia ambiental, relacionadas con suelo urbano y áreas de valor ambiental, así como por actos u omisiones que pudieran constituir infracciones, delitos y/o ecocidios, competencia de la Ciudad de México; y
 
 XXXI. Las demás que le atribuyan expresamente las leyes y reglamentos, así como las que le sean conferidas por su superior jerárquico en el ámbito de su competencia.
 
@@ -15253,3 +15291,13 @@ G.O. 15 DE AGOSTO DE 2022.
 PRIMERO.- Publíquese la Nota Aclaratoria en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- La presente la (sic) Nota Aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 188 Y 191 DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Aquellos actos y procedimientos administrativos, iniciados y/o tramitados por la Dirección General de Inspección y Vigilancia Ambiental, en materia de control, supervisión, verificación, inspección, vigilancia y sanción ambiental en suelo de conservación y áreas naturales protegidas competencia de la Ciudad de México, así como la defensa administrativa y judicial de los mismos, previos a la entrada en vigor del presente Decreto, serán transferidos a la Dirección General de la Comisión de Recursos Naturales y Desarrollo Rural para su trámite, resolución y archivo correspondiente.
