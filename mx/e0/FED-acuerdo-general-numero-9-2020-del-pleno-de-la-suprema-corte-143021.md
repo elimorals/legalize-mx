@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-9-2020-del-pleno-de-la-suprema-corte-143
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-05-28"
-last_updated: "2020-05-28"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143021&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2020-05-26"
 
 ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el jueves 28 de mayo de 2020.
 
@@ -100,6 +100,10 @@ Las y los servidores públicos de la SCJN podrán acceder al Sistema Electrónic
 ###### Artículo 4.
 
 En el Sistema Electrónico de la SCJN las partes podrán promover y acceder a los expedientes electrónicos mediante el uso de su FIREL, en los términos precisados en este Acuerdo General.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN, POR UNA PARTE, LOS ARTÍCULOS 3, 15, 28 Y 34, DEL ACUERDO GENERAL NÚMERO 8/2020, DE VEINTIUNO DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE ESTE ALTO TRIBUNAL PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS; Y, POR OTRA PARTE, LOS ARTÍCULOS 4, 21 Y 34, DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 19 DE ENERO DE 2023)</small>
+
+Las partes podrán promover en formato impreso ante la OCJC de las 9:00 a las 16:00 horas durante los días hábiles y mediante el uso del buzón judicial automatizado de las 16:01 a las 24:00 horas de esos días así como los días inhábiles de las 9:00 a las 24:00 horas; sin menoscabo de la posibilidad de promover por correo postal en los términos de la legislación aplicable.
 
 Cualquier irregularidad que se advierta por alguna o algún servidor público en el acceso a los expedientes Electrónicos respectivos, deberá denunciarse ante el órgano competente de la SCJN.
 
@@ -245,6 +249,10 @@ Las personas con autorización para consultar un Expediente electrónico podrán
 
 Las personas autorizadas para consultar un Expediente electrónico en los Asuntos de la competencia de la SCJN podrán descargar en sus equipos de cómputo copia simple de las constancias que obren en aquél.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN, POR UNA PARTE, LOS ARTÍCULOS 3, 15, 28 Y 34, DEL ACUERDO GENERAL NÚMERO 8/2020, DE VEINTIUNO DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE ESTE ALTO TRIBUNAL PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS; Y, POR OTRA PARTE, LOS ARTÍCULOS 4, 21 Y 34, DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 19 DE ENERO DE 2023)</small>
+
+Las copias certificadas electrónicas de las constancias que obren en los expedientes regulados en este Acuerdo General se expedirán a quien se le haya reconocido capacidad procesal en el juicio o instancia respectivas, previo acuerdo en el que se ordene remitir el vínculo electrónico al que podrá ingresarse para obtener dicha copia. Las copias certificadas impresas se expedirán en casos debidamente justificados.
+
 ###### Artículo 22.
 
 En los expedientes electrónicos podrá generarse una bitácora en la que se indique el nombre o los nombres de las personas autorizadas para ingresar a los expedientes electrónicos de los Asuntos de la competencia de la SCJN, la cual se actualizará automáticamente con base en los datos ingresados por la o por el servidor público responsable de aquélla, una vez que se dicte el proveído que recaiga a la promoción en la que se otorgue o revoque la autorización respectiva.
@@ -316,6 +324,10 @@ La revocación de la solicitud para recibir notificaciones, presentada por vía 
 ###### Artículo 34.
 
 Las notificaciones electrónicas se tendrán por realizadas una vez que la parte que haya manifestado expresamente su solicitud para recibir ese tipo de notificaciones acceda al expediente electrónico respectivo en el Sistema Electrónico de la SCJN, por si o por cualquiera de las personas que hubiere autorizado para consultar ese expediente, y consulte el contenido del acuerdo correspondiente, lo que dará lugar a la generación de la constancia respectiva.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEGUNDO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN, POR UNA PARTE, LOS ARTÍCULOS 3, 15, 28 Y 34, DEL ACUERDO GENERAL NÚMERO 8/2020, DE VEINTIUNO DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE ESTE ALTO TRIBUNAL PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS; Y, POR OTRA PARTE, LOS ARTÍCULOS 4, 21 Y 34, DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, D.O.F. 19 DE ENERO DE 2023)</small>
+
+Las notificaciones realizadas por lista o por rotulón electrónicos visibles en el Portal de Internet de este Alto Tribunal, tendrán los mismos efectos que las llevadas a cabo mediante la publicación en los estrados de las listas y de los rotulones impresos.
 
 Cuando exista convenio de intercomunicación o interconexión con un órgano del Estado, las notificaciones se tendrán por realizadas cuando su sistema de gestión genere un acuse de recepción y consulta que contenga la denominación de la autoridad emisora y receptora, la fecha y hora de recepción así como la de consulta del proveído respectivo, el número de expediente asignado, el nombre de los archivos electrónicos y si éstos cuentan con evidencia criptográfica de la firma electrónica respectiva.
 
@@ -446,3 +458,13 @@ NOVENO. Publíquese el presente Acuerdo General en el Diario Oficial de la Feder
 El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Arturo Zaldívar Lelo de Larrea.- Rúbrica.- El Secretario General de Acuerdos, Rafael Coello Cetina.- Rúbrica.
 
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, Juan Luis González Alcántara Carrancá, Yasmín Esquivel Mossa, José Fernando Franco González Salas, Luis María Aguilar Morales, Jorge Mario Pardo Rebolledo, Norma Lucía Piña Hernández, Ana Margarita Ríos Farjat, Javier Laynez Potisek, Alberto Pérez Dayán y Presidente Arturo Zaldívar Lelo de Larrea.- Ciudad de México, a veintiséis de mayo de dos mil veinte.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL DIECISÉIS DE ENERO DE DOS MIL VEINTITRÉS, POR EL QUE SE MODIFICAN, POR UNA PARTE, LOS ARTÍCULOS 3, 15, 28 Y 34, DEL ACUERDO GENERAL NÚMERO 8/2020, DE VEINTIUNO DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE ESTE ALTO TRIBUNAL PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS; Y, POR OTRA PARTE, LOS ARTÍCULOS 4, 21 Y 34, DEL ACUERDO GENERAL NÚMERO 9/2020, DE VEINTISÉIS DE MAYO DE DOS MIL VEINTE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA INTEGRACIÓN DE LOS EXPEDIENTES IMPRESO Y ELECTRÓNICO EN LOS ASUNTOS DE LA COMPETENCIA DE ESTE ALTO TRIBUNAL, SALVO EN CONTROVERSIAS CONSTITUCIONALES Y EN ACCIONES DE INCONSTITUCIONALIDAD, ASÍ COMO EL USO DEL SISTEMA ELECTRÓNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN PARA LA PROMOCIÓN, TRÁMITE, CONSULTA, RESOLUCIÓN Y NOTIFICACIONES POR VÍA ELECTRÓNICA EN LOS EXPEDIENTES RESPECTIVOS”.]
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública; sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro de los acuerdos generales plenarios 8/2020 y 9/2020 en dichos medios electrónicos.
