@@ -4,7 +4,7 @@ identifier: "LEBHN"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-08"
-last_updated: "2022-03-23"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2564&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LEBHN"
 
 LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de febrero de 1984.
 
@@ -284,39 +284,45 @@ Aniversario del nacimiento de José María Morelos, en 1765;
 
 "Día de la Raza" y Aniversario del Descubrimiento de América, en 1492;
 
-29. 22 de octubre:
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2023)</small>
+
+29. 18 de octubre:
+
+Aniversario del Natalicio de Servando Teresa de Mier, en 1765;
+
+30. 22 de octubre:
 
 Aniversario de la constitución del Ejército Insurgente Libertador, en 1810;
 
-30. 23 de octubre:
+31. 23 de octubre:
 
 "Día Nacional de la Aviación";
 
-31. 24 de octubre:
+32. 24 de octubre:
 
 "Día de las Naciones Unidas";
 
-32. 30 de octubre:
+33. 30 de octubre:
 
 Aniversario del nacimiento de Francisco I. Madero, en 1873;
 
-33. 6 de noviembre:
+34. 6 de noviembre:
 
 Conmemoración de la promulgación del Acta Solemne de la Declaratoria de Independencia de la América Septentrional por el Primer Congreso de Anáhuac sancionada en el Palacio de Chilpancingo, en 1813;
 
-34. 20 de noviembre:
+35. 20 de noviembre:
 
 Aniversario del inicio de la Revolución Mexicana, en 1910;
 
-35. 23 de noviembre:
+36. 23 de noviembre:
 
 "Día de la Armada de México";
 
-36. 29 de diciembre:
+37. 29 de diciembre:
 
 Aniversario del nacimiento de Venustiano Carranza, en 1859, y
 
-37. Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
+38. Los días de clausura de los periodos de sesiones ordinarias del Congreso de la Unión.
 
 II. A media asta en las fechas y conmemoraciones siguientes:
 
@@ -983,5 +989,11 @@ D.O.F. 30 DE NOVIEMBRE DE 2018.
 D.O.F. 23 DE MARZO DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN II DEL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 18 DE LA LEY SOBRE EL ESCUDO, LA BANDERA Y EL HIMNO NACIONALES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
