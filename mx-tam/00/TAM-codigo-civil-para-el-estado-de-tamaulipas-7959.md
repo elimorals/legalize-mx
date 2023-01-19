@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2022-11-18"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1426,6 +1426,16 @@ Por violencia familiar se considera el uso de la fuerza física o moral, así co
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 Asimismo, se considerará violencia familiar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento de quienes, teniendo la patria potestad, tutela o custodia de un menor, transforme su conciencia con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+ART. 298 TER 1.- Como violencia contra las mujeres en el ámbito familiar, se contempla la violencia vicaria, entendida como todo acto u omisión intencional, con el objeto de causar daño a la víctima a través del perjuicio, maltrato, descuido y/o manipulación de las hijas y los hijos; así como el daño o menoscabo del vínculo filial con la víctima. Es una manifestación de violencia por parte de quien mantiene o mantuvo una relación afectiva o sentimental de pareja con la víctima, que por sí o por interpósita persona, utiliza a las hijas y los hijos de la víctima como instrumento para causarle daño. Se considera como violencia vicaria equiparada la que se realice hacia un, ascendiente directo por consanguinidad o afinidad hasta el tercer grado, dependiente económico de la víctima, o un adulto mayor que se encuentre al cuidado de la víctima. Para efectos de la violencia vicaria se entenderá como víctima a la mujer, en términos de la Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+El Juez puede, en beneficio de las niñas, niños y adolescentes, modificar el ejercicio de la patria potestad o custodia cuando la tenga decretada judicialmente, ya sea provisional o definitiva sobre ellos, en los siguientes casos:
+
+a).- Cuando del resultado de los estudios psicológicos realizados a los menores de edad en el procedimiento judicial, los cuales podrán ser ordenados oficiosamente, se obtenga, que quien la ejerce realiza conductas para evitar la convivencia de las niñas, niños y adolescentes con la persona o personas que tengan reconocido judicialmente su derecho a la misma; y
+
+b).- Cuando se acredite que las niñas, niños y adolescentes han sido víctimas indirectas de violencia vicaria.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2022)</small>
 
@@ -10620,6 +10630,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE NOVIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-419 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 132, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-506 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIOLENCIA VICARIA”.]
 
 ###### ARTÍCULO ÚNICO.
 
