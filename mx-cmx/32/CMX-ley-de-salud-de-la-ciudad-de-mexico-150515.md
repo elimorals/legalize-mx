@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2022-12-22"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE ENERO DE 2023.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -69,6 +69,10 @@ VI. Establecer los derechos y las obligaciones en materia de salud para la pobla
 VII. Establecer las bases del “Modelo de Atención a la Salud”, basado en el enfoque de Derechos Humanos, la Atención Primaria de Salud Incluyente, la interculturalidad, la transversalidad, el acceso universal y gratuito, la integralidad de la atención, la coordinación intersectorial e interestatal y la estrategia organizacional de Redes Integradas de Servicios de Salud, y
 
 VIII. Definir los mecanismos para promover la participación de la población en la planeación, definición, vigilancia y desarrollo de los programas de salud en la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2023)</small>
+
+IX. Regular, vigilar y organizar a través de sus instituciones de salud el ejercicio de las actividades profesionales, técnicas y auxiliares para la salud en la Ciudad de México a las que se refiere el artículo 79 de la Ley General de Salud.
 
 ###### Artículo 2.
 
@@ -309,6 +313,10 @@ Las Alcaldías, en materia de salud, contarán con las atribuciones que el marco
 ###### Artículo 9.
 
 El Gobierno, a través de la Secretaría, garantizará el acceso gratuito a los servicios médicos y medicamentos a las personas habitantes en la Ciudad que no estén incorporadas a algún régimen de seguridad social laboral.
+
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
+
+Ante la inexistencia de alguno de los medicamentos prescritos en las unidades médicas de la Secretaría, se dispondrá de una plataforma para consulta del personal de salud, en donde se cuente con la información que permita dotar el medicamento requerido en otra unidad médica de la Secretaría.
 
 ###### Artículo 10.
 
@@ -1638,23 +1646,29 @@ I. Realice acciones en perjuicio del acceso a los servicios gratuitos de salud, 
 
 II. Proporcione información falsa para determinar su condición laboral o de beneficiario de la seguridad social.
 
-### CAPÍTULO XVI. RECURSOS HUMANOS EN LOS SERVICIOS DE SALUD
+> <small>(REFORMADA SE DENOMINACIÓN [N. DE E. ADICIONADA SU DENOMINACIÓN], G.O. 19 DE ENERO DE 2023)</small>
+
+### CAPÍTULO XVI. ACTIVIDADES PROFESIONALES Y TÉCNICAS AUXILIARES EN LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 100.
 
-El ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud en la Ciudad estará sujeto a lo siguiente:
+En la Ciudad de México para el ejercicio de actividades profesionales en el campo de la medicina, farmacia, odontología, veterinaria, biología, bacteriología, enfermería, terapia física, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-I. La Ley reglamentaria del artículo 5° de la Constitución Federal, relativo al ejercicio de las profesiones en la Ciudad;
+> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2023)</small>
 
-II. Las bases de coordinación que, conforme a la ley, se definan entre las autoridades educativas y las autoridades sanitarias, y
+###### Artículo 100 Bis.
 
-III. Las disposiciones de esta ley y demás normas jurídicas aplicables.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la atención médica prehospitalaria, medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, ozonoterapia, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-### CAPÍTULO XVII. INVESTIGACIÓN PARA LA SALUD
+### CAPÍTULO XVII. RECURSOS HUMANOS EN LOS SERVICIOS DE SALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 101.
 
-Compete al Gobierno, a través de la Secretaría:
+El ejercicio de las profesiones, de las actividades técnicas y auxiliares y de las especialidades para la salud en la Ciudad estará sujeto a lo siguiente:
 
 I. Planear, operar y evaluar las actividades tendientes a la formación, capacitación y actualización de los recursos humanos que se requieran para la satisfacción de las necesidades de la Ciudad, en materia de salud;
 
@@ -1698,7 +1712,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 La Secretaría en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO XVIII. PROMOCIÓN DE LA SALUD
+### CAPÍTULO XVIII. INVESTIGACIÓN PARA LA SALUD
 
 ###### Artículo 109.
 
@@ -1720,7 +1734,7 @@ Para el cumplimiento y funcionamiento referente a la investigación para la salu
 
 El Gobierno apoyará y financiará, a través de la Secretaría de Educación en coordinación con la Secretaría, el funcionamiento de establecimientos públicos y el desarrollo de programas específicos destinados a la investigación y educación para la salud, particularmente en materia de educación para la salud, efectos del medio ambiente en la salud, salud pública, alertas sanitarias, nutrición, obesidad, trastornos alimentarios, enfermedades transmisibles, prevención de accidentes, discapacidad, VIH-SIDA, equidad de género, salud sexual y reproductiva, medicinas alternativas y determinantes sociales de la salud-enfermedad, entre otros, así como la difusión y aplicación de sus resultados y descubrimientos.
 
-### CAPÍTULO XIX. NUTRICIÓN, SOBREPESO, OBESIDAD Y TRASTORNOS ALIMENTARIOS
+### CAPÍTULO XIX. PROMOCIÓN DE LA SALUD
 
 ###### Artículo 112.
 
@@ -1748,7 +1762,7 @@ IV. El impulso a la participación comunitaria y social en pro de la salud, y
 
 V. La reorientación de los servicios de salud hacia la universalidad, la atención primaria a la salud y la organización en redes integradas e integrales.
 
-### CAPÍTULO XX. EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
+### CAPÍTULO XX. NUTRICIÓN, SOBREPESO, OBESIDAD Y TRASTORNOS ALIMENTARIOS
 
 ###### Artículo 114.
 
@@ -1780,7 +1794,7 @@ IX. Las demás que se establezcan en las disposiciones aplicables.
 
 Con el fin de garantizar la salud pública, así como prevenir, controlar y tratar los síntomas y complicaciones crónicas y agudas relacionadas con la diabetes, se fomentarán hábitos y medidas que permiten tener un estilo de vida saludable; de igual forma, se elaborarán programas y proyectos especializados con la participación del Gobierno, a través de las instituciones integrantes del Sistema de Salud, la Secretaría de Educación, los medios de comunicación y los sectores público y privado.
 
-### CAPÍTULO XXI. ENFERMEDADES TRANSMISIBLES Y NO TRANSMISIBLES
+### CAPÍTULO XXI. EFECTOS DEL MEDIO AMBIENTE EN LA SALUD
 
 ###### Artículo 117.
 
@@ -1806,7 +1820,7 @@ VII. Proporcionar atención y, en su caso, la referencia oportuna a la instituci
 
 VIII. Las demás que les reconozcan la Ley General y las normas reglamentarias correspondientes.
 
-### CAPÍTULO XXII. USO, ABUSO Y DEPENDENCIA DE SUSTANCIAS PSICOACTIVAS
+### CAPÍTULO XXII. ENFERMEDADES TRANSMISIBLES Y NO TRANSMISIBLES
 
 ###### Artículo 119.
 
@@ -1836,7 +1850,7 @@ VIII. Las demás, establecidas en las disposiciones aplicables, que sean necesar
 
 Queda facultada la Secretaría para utilizar como elementos auxiliares en la lucha contra las epidemias, todos los recursos médicos y de asistencia social de los sectores público, social y privado existentes en las zonas, colonias y comunidades afectadas y en las colindantes, de acuerdo con las disposiciones aplicables que emita la persona titular de la Jefatura de Gobierno y las autoridades sanitarias.
 
-### CAPÍTULO XXIII. PREVENCIÓN Y ATENCIÓN MÉDICA DE ACCIDENTES
+### CAPÍTULO XXIII. USO, ABUSO Y DEPENDENCIA DE SUSTANCIAS PSICOACTIVAS
 
 ###### Artículo 122.
 
@@ -1980,7 +1994,7 @@ V. Participar y coadyuvar con la Unidad Administrativa para la Atención y Preve
 
 VI. Las demás que le sean asignadas por las disposiciones legales aplicables.
 
-### CAPÍTULO XXIV. PREVENCIÓN DE LA DISCAPACIDAD Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
+### CAPÍTULO XXIV. PREVENCIÓN Y ATENCIÓN MÉDICA DE ACCIDENTES
 
 ###### Artículo 134.
 
@@ -2002,7 +2016,7 @@ IV. Realizar programas intensivos permanentes, en coordinación con las autorida
 
 V. Las demás que le reconozcan las disposiciones legales aplicables.
 
-### CAPÍTULO XXV. DONACIÓN Y TRASPLANTES
+### CAPÍTULO XXV. PREVENCIÓN DE LA DISCAPACIDAD Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 136.
 
@@ -2022,7 +2036,7 @@ VI. Coadyuvar en los programas de adecuación urbanística y arquitectónica, es
 
 VII. Las demás que le reconozcan las disposiciones legales aplicables.
 
-### CAPÍTULO XXVI. TRANSFUSIÓN SANGUÍNEA EN LA CIUDAD DE MÉXICO
+### CAPÍTULO XXVI. DONACIÓN Y TRASPLANTES
 
 ###### Artículo 137.
 
@@ -2080,7 +2094,7 @@ XI. Coadyuvar con las autoridades competentes en la prevención y combate de la 
 
 XII. Las demás que le otorgue la presente Ley y otras disposiciones legales vigentes y aplicables.
 
-### CAPÍTULO XXVII. SERVICIOS DE SALUD EN CENTROS DE RECLUSIÓN
+### CAPÍTULO XXVII. TRANSFUSIÓN SANGUÍNEA EN LA CIUDAD DE MÉXICO
 
 ###### Artículo 143.
 
@@ -2106,7 +2120,7 @@ IX. Coadyuvar, en el ámbito de sus competencias, con las autoridades correspond
 
 X. Promover la constitución de los Comités de Medicina Transfusional en las unidades médicas del Gobierno de la Ciudad de México.
 
-### CAPÍTULO XXVIII. PRÁCTICAS, CONOCIMIENTOS TRADICIONALES EN SALUD Y MEDICINA INTEGRATIVA
+### CAPÍTULO XXVIII. SERVICIOS DE SALUD EN CENTROS DE RECLUSIÓN
 
 ###### Artículo 144.
 
@@ -2128,7 +2142,7 @@ Tratándose de enfermedades que requieran atención de emergencia, graves o cuan
 
 La Secretaría, a partir de que el personal médico haga de su conocimiento alguna enfermedad transmisible, deberá dictar las medidas necesarias de seguridad sanitaria, mismas que deberán ser atendidas por las autoridades competentes para controlar y evitar su propagación.
 
-### CAPÍTULO XXIX. VOLUNTAD ANTICIPADA Y CUIDADOS PALIATIVOS
+### CAPÍTULO XXIX. PRÁCTICAS, CONOCIMIENTOS TRADICIONALES EN SALUD Y MEDICINA INTEGRATIVA
 
 ###### Artículo 146.
 
@@ -2156,7 +2170,7 @@ IV. Impulsar, con el apoyo de la Secretaría de Educación, la investigación ci
 
 V. Definir, con la participación de los pueblos, barrios originarios y comunidades indígenas habitantes, los programas de salud dirigidos a ellos mismos.
 
-### CAPÍTULO I. DISPOSICIONES INICIALES
+### CAPÍTULO XXX. VOLUNTAD ANTICIPADA Y CUIDADOS PALIATIVOS
 
 ###### Artículo 149.
 
@@ -2214,7 +2228,7 @@ Los cuidados paliativos podrán ser proporcionados por un equipo multidisciplina
 
 ## TÍTULO TERCERO. FOMENTO, REGULACIÓN, CONTROL Y VIGILANCIA SANITARIA
 
-### CAPÍTULO II. AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
+### CAPÍTULO I. DISPOSICIONES INICIALES
 
 ###### Artículo 156.
 
@@ -2322,7 +2336,7 @@ IV. Transferencia del asunto a autoridades competentes para su atención, cuando
 
 V. Visita de verificación sanitaria, y en su caso, la aplicación de medidas de seguridad y sanciones, cuando sea necesario.
 
-### CAPÍTULO III. SALUBRIDAD LOCAL
+### CAPÍTULO II. AGENCIA DE PROTECCIÓN SANITARIA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
 ###### Artículo 159.
 
@@ -2512,7 +2526,7 @@ VI. Desarrollar estrategias de comunicación para atender emergencias, alertas s
 
 VII. Las demás materias que determine esta Ley y otras disposiciones legales aplicables a la vigilancia y al fomento sanitario.
 
-### CAPÍTULO IV. AUTORIZACIONES
+### CAPÍTULO III. SALUBRIDAD LOCAL
 
 ###### Artículo 164.
 
@@ -2564,7 +2578,7 @@ Queda prohibido a los titulares, responsables o trabajadores de los cementerios,
 
 En caso de desacato se impondrán las sanciones administrativas de carácter sanitario, sin menoscabo de las penas establecidas en la Ley General, el Código Penal vigente en la Ciudad de México y otras disposiciones legales aplicables.
 
-### CAPÍTULO V. CERTIFICADOS
+### CAPÍTULO IV. AUTORIZACIONES
 
 ###### Artículo 171.
 
@@ -2604,7 +2618,7 @@ XII. Cuando lo solicite el interesado, y
 
 XIII. En los demás casos que determine la Agencia de Protección Sanitaria del Gobierno de la Ciudad de México.
 
-### CAPÍTULO VI. VIGILANCIA SANITARIA Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO V. CERTIFICADOS
 
 ###### Artículo 173.
 
@@ -2638,7 +2652,7 @@ El Reglamento de esta Ley establecerá las disposiciones para el registro, distr
 
 La autoridad sanitaria podrá imponer las sanciones administrativas establecidas en esta Ley, así como suspender la dotación y prohibir la expedición de los certificados, al personal médico que emita certificados apócrifos, registre información falsa en ellos, certifique la defunción sin haber revisado el cuerpo y constatado la muerte y las probables causas de defunción, realice el cobro por la expedición, se niegue a expedirlo o haga mal uso de los mismos, con independencia de las penas establecidas en el Código Penal y otras disposiciones legales aplicables.
 
-### CAPÍTULO VII. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO VI. VIGILANCIA SANITARIA Y MEDIDAS DE SEGURIDAD
 
 ###### Artículo 177.
 
@@ -2702,7 +2716,7 @@ XII. La desocupación y desalojo de casas, edificios, establecimientos y en gene
 
 XIII. Las demás medidas de índole sanitaria que determinen las autoridades sanitarias competentes, que puedan evitar que se causen o continúen causando riesgos o daños a la salud.
 
-### CAPÍTULO VIII. RECURSO DE INCONFORMIDAD
+### CAPÍTULO VII. SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 182.
 
@@ -2751,6 +2765,8 @@ Los montos generados por concepto de multas y otros actos regulados por la prese
 ###### Artículo 186.
 
 Sin perjuicio de la imposición de las sanciones procedentes, cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la Agencia de Protección Sanitaria formulará la denuncia correspondiente ante el Ministerio Público.
+
+### CAPÍTULO VIII. RECURSO DE INCONFORMIDAD
 
 ###### Artículo 187.
 
@@ -2805,3 +2821,23 @@ G.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México y en consecuencia sea publicado en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del siguiente día de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. En un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente decreto, la Secretaría deberá tener en funcionamiento la plataforma a que se refiere el presente decreto.
+
+G.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 1, SE CAMBIA LA DENOMINACIÓN DEL CAPÍTULO XVI, SE MODIFICA EL ARTÍCULO 100 Y SE RECORREN LOS CAPÍTULOS Y ARTÍCULOS SUBSECUENTES DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
