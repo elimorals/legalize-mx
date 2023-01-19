@@ -4,7 +4,7 @@ identifier: "LGPAS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-24"
-last_updated: "2022-12-07"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56140&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPAS"
 
 LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de julio de 2007.
 
@@ -594,7 +594,9 @@ VIII. Estudios para identificar los cuerpos de agua susceptibles de ser restaura
 
 IX. Mecanismos específicos para el impulso a la producción, comercialización y consumo en la población nacional;
 
-X. Programas que promuevan proyectos de infraestructura productiva y social que fomenten el desarrollo de las comunidades pesqueras;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
+
+X. Programas que promuevan proyectos de infraestructura productiva y social que fomenten el desarrollo de las comunidades pesqueras y acuícolas, de conformidad con la Política Nacional;
 
 XI. Planes de manejo pesquero y de acuacultura publicados por la autoridad correspondiente;
 
@@ -2014,15 +2016,25 @@ La amonestación servirá de apoyo para determinar la multa a los reincidentes.
 
 La imposición de las multas a que se refiere el artículo 133 se determinará en la forma siguiente:
 
-I. Con el equivalente de 10 a 100 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones: VI, XXV del artículo 132;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
 
-II. Con el equivalente de 101 a 1,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones: I, II, V, VII, IX, XV, XVII, XVIII, XXI, XXII, XXIII, XXVI, XXVIII, XXXI del artículo 132;
+I. Con el equivalente de 10 a 100 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: VI, XXV del artículo 132;
 
-III. Con el equivalente de 1,001 a 10,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones: VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX del artículo 132, y
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
 
-IV. Con el equivalente de 10,001 a 30,000 días de salario mínimo vigente a quien cometa las infracciones señaladas en las fracciones: III, IV, X, XIII, XVI, XIX, XXIX del artículo 132.
+II. Con el equivalente de 101 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: I, II, V, VII, IX, XV, XVII, XVIII, XXI, XXII, XXIII, XXVI, XXVIII, XXXI del artículo 132;
 
-Para la imposición de las multas servirá de base el salario mínimo vigente para el Distrito Federal al momento de cometerse la infracción.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
+
+III. Con el equivalente de 1,001 a 10,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: VIII, XI, XII, XIV, XX, XXIV, XXVII, XXX del artículo 132, y
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2023)</small>
+
+IV. Con el equivalente de 10,001 a 30,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones: III, IV, X, XIII, XVI, XIX, XXIX del artículo 132.
+
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2023)</small>
+
+Para la imposición de las multas servirá de base la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 En caso de reincidencia se duplicará el monto establecido para cada una de las fracciones anteriores.
 
@@ -2267,3 +2279,15 @@ D.O.F. 7 DE DICIEMBRE DE 2022.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El plazo establecido en el artículo 32 del presente Decreto, correrá a partir de la próxima publicación de la Carta Nacional Pesquera en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 20 DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 138 DE LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
