@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2022-12-13"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2023.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4597,6 +4597,44 @@ ARTÍCULO 368 QUINQUIES.- En todos los casos previstos en los tres artículos pr
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE ENERO DE 2023)</small>
+
+CÁPITULO X BIS
+
+VIOLENCIA VICARIA CONTRA LA MUJER
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+ARTÍCULO 368 QUINQUIES 1.- Comete el delito de violencia vicaria, el o la cónyuge; la concubina o concubinario, o la persona que mantenga o haya mantenido una relación de hecho, de pareja o similares de afectividad con la víctima, aún sin convivencia, que ejerza por sí misma o por interpósita persona, cualquier acto u omisión intencional contra una mujer, utilizando como medio a las hijas e hijos, familiares, personas mayores de sesenta años de edad, con discapacidad, mascotas o bienes de la víctima, para causarle algún tipo de daño o afectación psicoemocional, física, económica, patrimonial o de cualquier tipo tanto a la víctima como a quienes fungieran como medio.
+
+Se considera que existe la finalidad de causar daño a la persona víctima, cuando utilizando como medio a las hijas e hijos, personas mayores de sesenta años de edad, con discapacidad, mascotas o bienes de aquella, concurran cualquiera de las circunstancias siguientes:
+
+I. Cuando existan denuncias de violencia familiar por parte de las personas utilizadas contra la persona víctima;
+
+II. Cuando interponga por sí o a través de un tercero alguna denuncia, querella, queja, demanda o algún otro procedimiento ante autoridad competente, contra ella, o alguno de sus parientes por consanguinidad o afinidad hasta el cuarto grado, en ambas líneas, pariente civil o su nueva pareja sentimental o de cualquier otro que se encuentre sujeto a la custodia, guarda, protección, o aquella con la que tenga estrecha amistad;
+
+III. Cuando sin orden de la autoridad competente, se sustraiga de la custodia o guarda de quien la ejerza a las hijas o hijos de ésta;
+
+IV. Existan amenazas verbales o escritas de la persona agresora hacia la víctima, de no volver a ver a las hijas o hijos, o tener la custodia de éstos;
+
+V. Se evite la convivencia de las niñas, niños y adolescentes, según sea el caso, con la madre, teniendo la custodia o guarda de los mismos;
+
+VI. Exista cualquier acto de manipulación parental que tenga por objeto que las hijas o hijos menores de edad o con discapacidad, rechacen, generen rencor, antipatía, desagrado o temor contra la madre;
+
+VII. Dilatación de los procesos jurídicos existentes con la intención de romper el vínculo filial;
+
+VIII. Cuando la persona agresora suspenda tratamientos médicos, consultas, sin autorización médica o alguna actividad o deporte del que sea afín; y
+
+IX. Cause muerte o suicidio de la madre y/o de sus hijas e hijos.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+ARTÍCULO 368 QUINQUIES 2.- A quien cometa el delito de violencia vicaria se le impondrá de cuatro a ocho años de prisión. Las penas previstas se incrementarán hasta en una tercera parte en su mínimo y máximo si se incurre en daño físico a las hijas o hijos, personas mayores de sesenta años de edad, con discapacidad, mascotas o bienes de la víctima, sin perjuicio de las sanciones descritas en este Código en el caso de concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+ARTÍCULO 368 QUINQUIES 3.- Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria, sustracción de niñas, niños o adolescentes, o violencia familiar, se le impondrán de tres a ocho años de prisión y multa de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 356.
@@ -7008,3 +7046,11 @@ P.O. 13 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-506 MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIOLENCIA VICARIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
