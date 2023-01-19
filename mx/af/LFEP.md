@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "2019-03-01"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -121,6 +121,10 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 ###### ARTICULO 12.
 
 La Secretaría de Hacienda y Crédito Público publicará anualmente en el Diario Oficial de la Federación, la relación de las entidades paraestatales que formen parte de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2023)</small>
+
+Además de la difusión en el Diario Oficial de la Federación, la relación a la que hace referencia el presente artículo, podrá ser difundida en los medios físicos y digitales que dispongan las dependencias de la administración pública, para el mayor conocimiento de la misma.
 
 ###### ARTICULO 13.
 
@@ -1057,3 +1061,9 @@ D.O.F. 1 DE MARZO DE 2019.
 Primero. El presente Decreto entrará en vigor el día siguiente a su publicación en el Diario Oficial de la Federación.
 
 Segundo. Se derogan todas aquellas disposiciones legales, estatutarias o administrativas que se opongan al presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY FEDERAL DE LAS ENTIDADES PARAESTATALES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
