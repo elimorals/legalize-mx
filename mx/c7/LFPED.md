@@ -4,7 +4,7 @@ identifier: "LFPED"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2003-06-11"
-last_updated: "2022-05-17"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31735&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPED"
 
 LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2023.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de junio de 2003.
 
@@ -76,9 +76,11 @@ IX. Programa: El Programa Nacional para la Igualdad y no Discriminación, y
 
 X. Resolución por disposición: Resolución emitida por el Consejo, con carácter vinculante, por medio de la cual se declara que se acreditó una conducta o práctica social discriminatoria, y por tanto, de manera fundada y motivada se imponen medidas administrativas y de reparación a quien resulte responsable de dichas conductas o prácticas.
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 2.
 
-Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos federales deberán eliminar aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán la participación de las autoridades de los demás órdenes de Gobierno y de los particulares en la eliminación de dichos obstáculos.
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas. Los poderes públicos federales deberán eliminar todos aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán, garantizarán e impulsarán la participación de las autoridades de los demás órdenes de Gobierno y de las personas particulares en la eliminación de dichos obstáculos.
 
 > <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2014)</small>
 
@@ -1573,3 +1575,9 @@ D.O.F. 17 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1 Y 9 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 2 DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
