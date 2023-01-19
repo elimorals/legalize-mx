@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2022-12-27"
+last_updated: "2023-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2023.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1669,7 +1669,9 @@ Cuando con motivo de tránsito de vehículos se atropelle culposamente a una per
 
 Omisión de cuidado
 
-A quien abandone a un ser humano que no tenga la capacidad para valerse por sí mismo, respecto del cual tenga la obligación de cuidado o se encuentre legalmente a su cargo, se le impondrá de tres a seis años de prisión.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
+
+A quien abandone a una persona, incluyendo a un adulto mayor que no tenga la capacidad para valerse por sí misma, respecto del cual tenga la obligación de cuidado o se encuentre legalmente a su cargo, se le impondrá de cuatro a siete años de prisión.
 
 No se procederá contra quien entregue a un menor de edad a las instancias públicas de conformidad con la legislación aplicable en materia de adopción.
 
@@ -2039,7 +2041,9 @@ Violencia familiar
 
 Comete el delito de violencia familiar quien lleve a cabo conductas que agredan física, psicológica, patrimonial o económicamente, a alguna persona con la que se encuentre unida por viínculo (sic) matrimonial, de parentesco, por consanguinidad, afinidad, civil, concubinato, relación de pareja o familiar de hecho o este sujeta a su custodia, protección o cuidado, o tenga el cargo de tutor o curador sobre la persona, o de aquellas personas que no reúnen los requisitos para constituir concubinato, siempre que hagan vida en común, dentro o fuera del domicilio familiar. Se considerará violencia familiar la alienación parental demostrada, respecto de sus hijos o adoptados. Se impondrá de uno a cinco años de prisión, suspensión de los derechos que tenga respecto de la víctima por el término de la pena de prisión impuesta, incluidos los de carácter sucesorio y prohibición de ir a un lugar determinado o residir en él, así como tratamiento psicoterapéutico.
 
-El delito de violencia familiar se perseguirá por querella, salvo que la víctima sea una persona menor de edad o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
+
+El delito de violencia familiar se perseguirá por querella, salvo que la víctima sea una persona menor de edad, persona adulta mayor o que no tenga capacidad para comprender el significado del hecho, casos en los cuales se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2020)</small>
 
@@ -2049,17 +2053,25 @@ Tratamiento al sujeto activo y atención a la víctima. El sujeto activo del del
 
 El Estado preveraì (sic) lo necesario para que las viìctimas (sic) del delito accedan de manera gratuita a atención psicoterapéutica y a información para su protección y prevención.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2023)</small>
 
 ###### Artículo 178 Ter.
 
-Agravantes.
+Agravantes
 
-Las penas por el delito de violencia familiar aumentaraìn (sic) hasta en una mitad cuando:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE ENERO DE 2023)</small>
 
-I. La víctima sea: menor de edad; adulto mayor de sesenta anÞos (sic); esteì (sic) embarazada o tenga hasta tres meses posteriores al parto;
+Las penas por el delito de violencia familiar aumentarán hasta en una mitad cuando:
+
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2023)</small>
+
+I. La víctima sea: Menor de edad; persona adulta mayor; mujer que esté embarazada o tenga hasta tres meses posteriores al parto;
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2020)</small>
 
 II. La víctima no tenga capacidad para comprender el significado del hecho o para resistirlo; o,
+
+> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2020)</small>
 
 III. El delito se cometa en el lugar y durante el periodo de tiempo que, previa resolución de autoridad competente, se decrete o se recomiende la limitación del tránsito de personas en espacios públicos.
 
@@ -2617,6 +2629,10 @@ V. Prisión de ocho a quince años y de mil a mil quinientas días multa, cuando
 
 VI. Prisión de dos a ocho años y de doscientos a mil días multa, cuando no sea posible determinar su valor.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2023)</small>
+
+Las penas previstas en las fracciones anteriores, se aumentarán hasta dos terceras partes, cuando el delito de fraude se cometa en perjuicio de una persona adulta mayor.
+
 ###### Artículo 218.
 
 Fraude específico
@@ -2747,11 +2763,19 @@ II. De propia autoridad y haciendo uso de cualquiera de los medios indicados en 
 
 III. A quien en los mismos términos de las fracciones anteriores, cometa despojo de aguas.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2023)</small>
+
 ###### Artículo 227.
 
 Despojo agravado
 
-Las penas contempladas en el artículo anterior se agravarán hasta en una mitad, cuando el despojo se realice por grupo o grupos que en conjunto sean mayores de cinco personas. En este caso, además de la pena señalada en el artículo anterior y la respectiva agravante, se impondrá a quienes dirijan la invasión del inmueble de uno a cuatro años de prisión.
+Las penas contempladas en el artículo anterior se agravarán hasta en una mitad cuando:
+
+I. La víctima del despojo sea una persona adulta mayor, y el despojo se realice por uno o varios integrantes del entorno familiar o persona con la que sostenga relación de amistad, laboral o vínculo social de hecho, éstos se agravarán con hasta dos terceras partes de la pena;
+
+II. El despojo se realice por grupo o grupos que en conjunto sean mayores de cinco personas; y,
+
+III. Además de la pena señalada en el artículo anterior y la respectiva agravante, se impondrá a quienes dirijan la invasión del inmueble de uno a cuatro años de prisión.
 
 ### CAPÍTULO II. EJERCICIO ILÍCITO DE SERVICIO PÚBLICO
 
@@ -4502,3 +4526,11 @@ P.O. 27 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 217 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 309 Y EL ARTÍCULO 311; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 309; Y, SE DEROGA EL TERCER PÁRRAFO DEL ARTÍCULO 311, PASANDO SU CONTENIDO A FORMAR PARTE DEL INCISO A) DEL PÁRRAFO SEGUNDO DEL PROPIO ARTÍCULO 311, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 19 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 218 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 154, EL TERCER PÁRRAFO DEL ARTÍCULO 178, LA FRACCIÓN I DEL ARTÍCULO 178 TER Y EL ARTÍCULO 227; Y, SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 217 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
